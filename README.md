@@ -31,7 +31,7 @@ cuisine/<country>/starters/<slug>.md        ← first-course plate
 cuisine/<country>/desserts/<slug>.md        ← sweet ending
 ```
 
-The folder name drives the course tag — `desserts/` → `dessert` tag, `snacks/` → `snack`, `side-dishes/` → `sides`, `starters/` → `starter`, root-of-cuisine → `meals`. Don't put a dessert at the cuisine root.
+The folder name drives the course tag - `desserts/` → `dessert` tag, `snacks/` → `snack`, `side-dishes/` → `sides`, `starters/` → `starter`, root-of-cuisine → `meals`. Don't put a dessert at the cuisine root.
 
 Building-block trees sit outside `cuisine/`: [baking/](baking/), [base-ingredients/](base-ingredients/), [sauces/](sauces/), [stocks/](stocks/), [petit-four/](petit-four/), [bread-pasta/](bread-pasta/), [coulis/](coulis/), [sponge/](sponge/), [vinaigrette/](vinaigrette/). Put genuine components here, not finished plates.
 
@@ -45,7 +45,7 @@ mkdir -p cuisine/<country>/{resources/thumbs,side-dishes/resources/thumbs,snacks
 
 The standard template is in [documentation/RECIPE_TEMPLATE.md](documentation/RECIPE_TEMPLATE.md). Authoring conventions:
 
-- **Fractions:** use unicode glyphs — `1 ½ cups`, `½ teaspoon`. The parser also handles `1 1/2` and `1.5`; [scripts/normalize-fractions.mjs](scripts/normalize-fractions.mjs) batch-converts.
+- **Fractions:** use unicode glyphs - `1 ½ cups`, `½ teaspoon`. The parser also handles `1 1/2` and `1.5`; [scripts/normalize-fractions.mjs](scripts/normalize-fractions.mjs) batch-converts.
 - **Units:** metric (g / ml / cm / °C) is the canonical authoring unit.
 - **No em-dashes** anywhere user-facing. Use ` - ` (hyphen with spaces) or rephrase with a colon. [scripts/strip-em-dashes.mjs](scripts/strip-em-dashes.mjs) cleans up leftovers.
 - **Image alt text** should be the recipe title, not `Name` (the template placeholder). [scripts/fix-placeholder-alt.mjs](scripts/fix-placeholder-alt.mjs) cleans up `![Name]` leftovers.
