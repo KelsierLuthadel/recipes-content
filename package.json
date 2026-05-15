@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/build-manifest.mjs",
     "doctor": "node scripts/recipe-doctor.mjs"
   },
   "version": "1.2.0"

@@ -1,45 +1,27 @@
 # Recipes Content
 
-The recipe collection — all 1,436 recipes across 75 cuisines, plus the build pipeline that produces the manifest the [recipes-ui](https://github.com/KelsierLuthadel/recipes-ui) frontend consumes.
+The recipe collection — all 1,435 recipes across 75 cuisines as markdown, plus the images they reference. Pure content; no build pipeline, no UI code.
 
 Recipes are organised by cuisine under `cuisine/<country>/` with course subfolders (`side-dishes/`, `snacks/`, `desserts/`, `starters/`). Building-block trees (`baking/`, `sauces/`, `stocks/`, `base-ingredients/`, `petit-four/`, `bread-pasta/`, `coulis/`, `sponge/`, `vinaigrette/`) sit alongside. Themed editorial collections live in `editorial/`.
 
-## What's in the box
+## How the UI consumes this
 
-- **Recipe markdown** under each top-level content folder (`cuisine/`, `baking/`, etc.) with per-recipe images in `resources/<slug>.jpg` + 400 px thumbnails in `resources/thumbs/<slug>.jpg`
-- **Configuration sidecars** at the repo root:
-  - [categories.json](categories.json) — per-cuisine overview text
-  - [wine-pairings.json](wine-pairings.json) — wine-pairing rules
-  - [side-pairings.json](side-pairings.json) — side-pairing rules
-  - [substitutions.json](substitutions.json) — ingredient substitution data
-- **Build pipeline** in [scripts/](scripts/) — produces [dist/recipes.json](dist/recipes.json), the single manifest the UI fetches
-- **Maintenance scripts** — image fetch, resize, thumbnail generation, em-dash strip, time inference, etc.
-- **Authoring guide** in [documentation/AUTHORING.md](documentation/AUTHORING.md) + [documentation/RECIPE_TEMPLATE.md](documentation/RECIPE_TEMPLATE.md)
+The [recipes-ui](https://github.com/KelsierLuthadel/recipe-ui) repo owns the build pipeline. Its `scripts/build-manifest.mjs` reads this repo (as a sibling directory by convention) and produces `docs/recipes.json`. The UI's manifest's `rawBase` field then points at this repo's `raw.githubusercontent.com` URL, so per-recipe markdown and images are fetched directly from here at runtime.
 
-## How the UI finds the content
+A typical content workflow:
 
-The UI ([recipes-ui](https://github.com/KelsierLuthadel/recipes-ui)) is a static site deployed independently. At load it fetches `dist/recipes.json` from this repo over `raw.githubusercontent.com`. The manifest's `rawBase` field then drives every per-recipe markdown and image fetch back here.
-
-So a content edit flows:
-
-1. Author commits a recipe markdown change here.
-2. `npm run build` (or the GitHub Action) regenerates `dist/recipes.json`.
-3. The commit is pushed; raw.githubusercontent.com serves the new manifest within seconds.
-4. UI users see the change on their next page load.
-
-No UI redeploy is needed for content-only changes.
+1. Author a recipe markdown change here, commit, push.
+2. In `recipes-ui`, run `npm run build` and commit the regenerated `docs/recipes.json`.
+3. Push the UI commit. The deploy picks up the new manifest. Images and per-recipe markdown then flow live from this repo on every page view.
 
 ## Running locally
 
 ```sh
-# rebuild the manifest after adding or editing recipes
-npm run build
-
 # lint recipes for missing fields, broken images, etc.
 npm run doctor
 ```
 
-Python image utilities (`generate-thumbs.py`, `resize-images.py`, `touch-portrait-images.py`) need Pillow:
+Image maintenance scripts (`generate-thumbs.py`, `resize-images.py`, `touch-portrait-images.py`) need Pillow:
 
 ```sh
 pip install pillow
@@ -69,7 +51,7 @@ Building-block trees sit outside `cuisine/`: [baking/](baking/), [base-ingredien
 mkdir -p cuisine/<country>/{resources/thumbs,side-dishes/resources/thumbs,snacks/resources/thumbs,desserts/resources/thumbs}
 ```
 
-Then add an overview line for the new cuisine to [categories.json](categories.json) — a 1-2 sentence description that appears on the cuisine's category page header.
+The cuisine overview text lives in [categories.json](https://github.com/KelsierLuthadel/recipe-ui/blob/main/categories.json) in the **UI repo**. Add a 1-2 sentence description there when you create a new cuisine folder here.
 
 ### 3. Write the markdown
 
@@ -94,13 +76,16 @@ Bulk image fetch from Pexels for missing images:
 PEXELS_API_KEY=xxxx node scripts/fetch-missing-images.mjs
 ```
 
-### 5. Rebuild the manifest
+### 5. Lint, commit, push
 
 ```sh
-npm run build
+npm run doctor
+git add -A
+git commit -m "<cuisine>: add <recipe>"
+git push
 ```
 
-Commit the regenerated `dist/recipes.json` along with your recipe changes.
+Then go to the UI repo and rebuild the manifest (see [recipe-ui README](https://github.com/KelsierLuthadel/recipe-ui#release-process)).
 
 ## Editorial collections
 
@@ -121,13 +106,12 @@ recipes:
 Optional intro markdown paragraph(s).
 ```
 
-Broken recipe references are dropped at build with a warning. Cover image paths resolve relative to the repo root.
+The UI's build pipeline parses these at manifest-build time. Broken recipe references are dropped with a warning. Cover image paths resolve relative to the repo root.
 
 ## Maintenance scripts
 
 | Script | What it does |
 |---|---|
-| `build-manifest.mjs` | Builds `dist/recipes.json` from all content. |
 | `recipe-doctor.mjs` | Lints recipes: missing images, broken links, missing fields. |
 | `fetch-missing-images.mjs` | Pexels image fetch for recipes with no/broken images. |
 | `resize-images.py` | Resizes any image >900 px wide to 900 px, JPEG q85. Non-destructive. |
@@ -139,24 +123,3 @@ Broken recipe references are dropped at build with a warning. Cover image paths 
 | `strip-em-dashes.mjs` | Removes em-dashes from recipe markdown. |
 | `fix-placeholder-alt.mjs` | Replaces `![Name]` placeholder alt text with the recipe title. |
 | `audit-images.mjs` | Reports recipes whose images look suspect (size/aspect). |
-
-## Release process
-
-Content has its own release cycle independent of the UI. A typical content release is just:
-
-```sh
-npm run build               # regenerate dist/recipes.json
-npm run doctor              # lint
-git add -A
-git commit -m "content: ..."
-git push
-```
-
-The committed `dist/recipes.json` becomes the live manifest within seconds via raw.githubusercontent.com. No tag, no version bump, no UI redeploy needed.
-
-For larger content releases that warrant a tag, prefix with `content-` to avoid colliding with UI tags:
-
-```sh
-git tag content-2026-05-15
-git push --tags
-```
