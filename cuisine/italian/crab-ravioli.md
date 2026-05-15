@@ -5,6 +5,7 @@
 *Chilli pasta that looks and tastes sensational. The vibrant red dough encases a creamy mascarpone and crab filling, creating a dish that excels at dinner parties and impresses all who taste it.*
 
 **Serves:** 4
+**Prep Time:** 15 minutes
 
 ## Overview
 These striking ravioli unite fresh crab meat with silken mascarpone, sharpened by fresh lemon and parsley, all enveloped in a bold chilli-infused pasta. The combination of delicate seafood with the subtle heat of dried chillies creates sophisticated complexity, while lemon butter provides the perfect light sauce. This is restaurant-quality food made at home.

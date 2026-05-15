@@ -3,6 +3,7 @@
 ![Ginger Crème Brûlée](resources/ginger-creme-brulee.jpg)
 
 **Serves:** 6
+**Prep Time:** 10 minutes
 
 ## Ingredients
 - 80 grams root ginger

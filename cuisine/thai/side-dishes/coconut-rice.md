@@ -1,5 +1,7 @@
 # Coconut Rice
 
+**Prep Time:** 5 minutes
+
 ![Coconut Rice](resources/coconut-rice.jpg)
 
 *This aromatic, subtly sweet rice dish perfumes the palate with coconut, tempered by the sharp heat of mustard seeds and the delicate warmth of curry leaves. It's the perfect neutral-yet-interesting accompaniment to any spiced curry, calming heat without competing for attention.*

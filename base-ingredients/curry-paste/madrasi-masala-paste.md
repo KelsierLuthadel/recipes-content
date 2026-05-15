@@ -1,5 +1,8 @@
 # Madrasi Masala Paste
 
+**Prep Time:** 15 minutes
+**Cook Time:** 2 minutes
+
 ![Madrasi Masala Paste](resources/madrasi-masala-paste.jpg)
 
 *Madras is heat delivered with complexity. This paste combines dry-roasted spices ground to powder with aromatic oil-cooked ingredients, creating a foundation for fierce curries that have structure beneath the kick.*

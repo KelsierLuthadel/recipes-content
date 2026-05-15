@@ -1,5 +1,7 @@
 # Steamed Rice
 
+**Cook Time:** 20 minutes
+
 ![Steamed Rice](resources/steamed-rice.jpg)
 
 *This Chinese steaming method produces fluffy, individual grains of long-grain rice through a two-stage cooking process: initial boiling to evaporate surface liquid, then gentle steaming in residual moisture. The result is uniformly cooked rice that never becomes sticky, ideal as a neutral accompaniment to any Asian-inspired dish.*

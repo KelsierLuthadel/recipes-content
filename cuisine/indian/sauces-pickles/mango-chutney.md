@@ -1,5 +1,8 @@
 # Mango Chutney
 
+**Prep Time:** 15 minutes
+**Cook Time:** 1 hour
+
 ![Mango Chutney](resources/mango-chutney.png)
 
 *Mango chutney is easy to prepare and endlessly adaptable to taste preferences. Sweet, tangy, and optional spicy, this is the chutney most familiar to Western Indian restaurants. Green (unripe) mangoes provide tartness; sugar and vinegar provide balance. Serve chunky or blended smooth depending on preference.*

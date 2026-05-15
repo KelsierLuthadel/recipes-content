@@ -1,5 +1,8 @@
 # Marbled tea eggs
 
+**Prep Time:** 5 minutes
+**Cook Time:** 2 minutes
+
 ![Marbled tea eggs](resources/teaeggs.jpg)
 
 *This unique method of cooking eggs in spiced tea derives its name from the marbled texture and web of cracks which appear on the surface of eggs when they are shelled.*

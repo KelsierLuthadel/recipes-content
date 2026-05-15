@@ -6,6 +6,8 @@
 Gumbo is a traditional Cajun soup that's served over rice as a main course. This shellfish version showcases the holy trinity of Cajun cooking, onion, celery, and sweet pepper, combined with fresh mussels, prawns, and crab in a rich, flavourful roux-based broth. The addition of fresh chilli adds a modern twist while honouring the classic Cajun tradition of bold, layered flavours.
 
 **Serves:** 6
+**Prep Time:** 25 minutes
+**Cook Time:** 1 hour 4 minutes
 
 ## Ingredients
 

@@ -5,6 +5,7 @@
 *This wonderfully sweet glazed carrot and parsnip side dish compliments any hearty roast dinner with an air of elegance.*
 
 **Serves:** 6
+**Prep Time:** 10 minutes
 
 ## Overview
 Chanternay carrots and parsnips with maple syrup and mustard glaze is a sweet, sticky, and deeply flavoursome roasted vegetable side dish. The glaze of maple syrup, wholegrain mustard, and orange caramelises in the oven to coat the vegetables in a rich, glossy finish that elevates any roast dinner.

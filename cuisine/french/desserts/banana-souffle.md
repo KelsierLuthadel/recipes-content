@@ -5,6 +5,8 @@
 *This recipe is tricky to make successfully in smaller quantities. If there are four of you, it is advisable to serve two crêpes each, which is easy to do so as they are light and deliciously indulgent.*
 
 **Serves:** 8
+**Prep Time:** 10 minutes
+**Cook Time:** 7 minutes
 
 ## Ingredients
 - 4 perfectly ripe medium bananas

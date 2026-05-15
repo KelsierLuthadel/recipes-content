@@ -1,5 +1,7 @@
 # Caesar Dressing
 
+**Prep Time:** 15 minutes
+
 ![Caesar Dressing](resources/caesar.png)
 
 *This creamy, umami-loaded dressing exemplifies the power of anchovies paired with Parmesan. Raw egg yolk creates luxurious emulsion while lemon and garlic provide brightness and pungency. This is a robust, assertive condiment designed specifically for sturdy Cos lettuce that can stand up to its intensity.*

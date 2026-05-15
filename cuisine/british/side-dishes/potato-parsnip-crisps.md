@@ -5,6 +5,7 @@
 *The potato and parsnips crisps are wonderful as pre-dinner snacks or as a garnish for a main meal. They are simple to make and taste amazing.*
 
 **Serves:** 4
+**Prep Time:** 10 minutes
 
 ## Overview
 Potato and parsnip crisps are paper-thin slices of potato and parsnip deep fried until golden and shatteringly crisp. The natural sweetness of the parsnip contrasts beautifully with the starchy potato, and together they make an elegant and addictive snack. They work equally well as a pre-dinner nibble or as a delicate garnish for a plated main course.

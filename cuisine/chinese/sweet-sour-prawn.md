@@ -6,6 +6,8 @@
 This is a very popular Chinese dish where the sweet and pungent flavours of the sauce combine beautifully with firm, succulent prawns. Simple to make and elegant enough for entertaining, it can be served as part of a larger Chinese meal or as a standalone starter. The balance of sweet, sour, spicy, and savoury creates an unforgettable sauce.
 
 **Serves:** 4
+**Prep Time:** 15 minutes
+**Cook Time:** 2 minutes
 
 ## Ingredients
 

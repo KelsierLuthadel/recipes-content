@@ -6,6 +6,8 @@
 This is a version of the fragrant Sichuan dish popularly known as 'Strange taste chicken' or bang-bang chicken because it incorporates many flavours simultaneously, hot, spicy, sour, sweet, and salty all in perfect balance. The sesame seeds add a crunchy texture that contrasts beautifully with tender chicken meat. Equally delicious served hot or at room temperature, making it ideal for entertaining.
 
 **Serves:** 4
+**Prep Time:** 10 minutes
+**Cook Time:** 7 minutes
 
 ## Ingredients
 

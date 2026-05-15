@@ -6,6 +6,8 @@
 Chow mein literally means 'stir-fried noodles' and this contemporary dish is equally popular throughout southern China as it is worldwide. Fresh egg noodles are quickly stir-fried with protein and vegetables, creating a harmonious balance of textures and flavours. The keys to success are properly cooked noodles, high-heat wok cooking, and precise timing.
 
 **Serves:** 4
+**Prep Time:** 15 minutes
+**Cook Time:** 5 minutes
 
 ## Ingredients
 

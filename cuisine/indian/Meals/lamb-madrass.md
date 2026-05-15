@@ -5,6 +5,7 @@
 *A sweet, sour Madrass with smooth mango chutney and a twist of lime*
 
 **Serves:** 4
+**Prep Time:** 15 minutes
 
 ## Overview
 Hot, sharp curry inspired by the cooking of southern India. Reduced tomato base with a heavy dose of chilli powder, mustard seeds, curry leaves and tamarind. Sharper than a vindaloo (no vinegar) but in the same heat range; finished with lime juice and a spoon of mango chutney for sweet contrast.

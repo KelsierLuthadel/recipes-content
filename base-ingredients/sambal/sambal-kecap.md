@@ -1,5 +1,7 @@
 # Sambal Kecap
 
+**Prep Time:** 5 minutes
+
 ![Sambal Kecap](resources/sambal-kecap.jpg)
 
 *This Indonesian soy-based sambal balances sweet kecap manis with fiery chillies and pungent garlic, creating a complex dipping sauce that's far more sophisticated than the sum of its parts. Traditionally served alongside satay skewers and fried chicken, this condiment illustrates the Indonesian mastery of sweet-spicy harmony.*

@@ -1,5 +1,7 @@
 # Herb crêpes
 
+**Prep Time:** 10 minutes
+
 ![Herb crêpes](resources/herb-crepes.jpg)
 
 *These crêpes work really well when sandwiched between meat and pastry, as it forms a protective layer beneath the pastry to help keep it dry and crisp.*

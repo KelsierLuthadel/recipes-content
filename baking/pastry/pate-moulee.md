@@ -5,6 +5,7 @@
 *This pastry is best made at least two hours in advance, ideally 24 hours before you use it.*
 
 **Serves:** 950 grams
+**Prep Time:** 10 minutes
 
 ## Overview
 Pâte moulée is a rich, dense pastry traditionally used for raised pies and savory terrines. The high proportion of lard creates a tender, crumbly texture and rich flavor characteristic of traditional British charcuterie presentations. Its distinctive composition and handling technique set it apart from other pastry doughs.

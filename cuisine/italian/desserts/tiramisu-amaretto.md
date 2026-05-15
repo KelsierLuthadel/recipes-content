@@ -3,6 +3,7 @@
 ![Tiramisu with Amaretto and Cream](resources/tiramisu-amaretto.jpg)
 
 **Serves:** 4
+**Prep Time:** 5 minutes
 
 *The Amaretto in this Tiramisu really enhances the flavour and aroma of this classic Italian dessert.*
 

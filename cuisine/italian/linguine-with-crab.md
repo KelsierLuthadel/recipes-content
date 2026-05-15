@@ -5,6 +5,7 @@
 *Linguine con granchio e limone, a classic from Amalfi that requires exactly three things: absolute freshness, proper al dente pasta, and restraint. The beauty lies in simplicity. Never, ever add cheese to this dish; it would be an insult.*
 
 **Serves:** 4
+**Prep Time:** 10 minutes
 
 ## Overview
 This ethereal pasta dish captures the essence of the Amalfi coast. Fresh crab meat is briefly warmed in fruity olive oil with garlic, chilli, and lemon. The sauce is delicate and elegant, allowing the sweet briny notes of the crab to shine. The pasta is simply a vehicle for this liquid gold. This is not a dish to improvise with; quality ingredients and technique are non-negotiable.

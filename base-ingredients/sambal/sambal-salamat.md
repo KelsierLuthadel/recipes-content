@@ -1,5 +1,7 @@
 # Sambal Salamat
 
+**Prep Time:** 10 minutes
+
 ![Sambal Salamat](resources/sambal-salamat.jpg)
 
 *This Indonesian tomato-based sambal offers a unique balance of fresh tomato acidity, chilli heat, and fermented fish sauce umami, all brightened with live coriander. "Salamat" means thanks, fitting for a sambal so vibrant and flavorful that it elevates simple rice dishes into memorable meals.*

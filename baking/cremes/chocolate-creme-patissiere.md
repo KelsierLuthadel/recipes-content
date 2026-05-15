@@ -5,6 +5,7 @@
 *A classic French tartlet filling, that also forms the basis of other classic sauces. Add a little cocoa or coffee powder to the custard instead of the vanilla to give you a chocolate or coffee-flavoured cream. If you use cocoa, use a little less flour and add a touch more sugar.*
 
 **Serves:** 750 grams
+**Prep Time:** 10 minutes
 
 ## Overview
 Chocolate crème pâtissière is a rich, velvety custard-based cream infused with melted chocolate. This versatile cream serves as an elegant filling for tartlets and desserts, with the deep chocolate flavor complementing both simple and elaborate presentations. The smooth texture and balanced sweetness make it an essential component in a pastry chef's repertoire.

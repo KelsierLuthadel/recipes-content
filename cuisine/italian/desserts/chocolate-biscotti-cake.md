@@ -1,5 +1,7 @@
 # Chocolate biscotti cake
 
+**Prep Time:** 10 minutes
+
 ![Chocolate biscotti cake](resources/chocolate-biscotti-cake.jpg)
 
 **Yield:** 8

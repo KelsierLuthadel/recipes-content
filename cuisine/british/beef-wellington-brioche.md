@@ -5,6 +5,8 @@
 *The beef can be wrapped in its pastry crust up to 4 hours in advance and kept in the fridge, ready to bake when you are ready to eat.*
 
 **Serves:** 6
+**Prep Time:** 15 minutes
+**Cook Time:** 42 minutes
 
 ## Overview
 A showstopping dish featuring a rare beef tenderloin encased in layers of mushroom duxelles, spinach, herb crêpes, and a golden, crispy pastry crust. Each slice reveals a beautiful cross-section of perfectly cooked beef, creamy mushroom filling, and elegant layers. This is fine dining on a plate, impressive enough for the most important dinner party.

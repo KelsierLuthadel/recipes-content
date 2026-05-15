@@ -1,5 +1,7 @@
 # Baguette
 
+**Prep Time:** 10 minutes
+
 ![Baguette](resources/baguette.jpg)
 
 *Many people think that a French baguette, a long, thin loaf, is a good test of a baker’s skill. The baguette seems so simple, just flour, water, salt and yeast, kneading, fermenting, shaping, rising, slashing and baking. The reality is that a lot of very good bakers have spent a considerable amount of time and energy perfecting their baguette. The important characteristic of a baguette is that it is a bread that is meant to be eaten shortly after it is baked; it is not a bread that is intended to be stored on the counter top until the next day or beyond.*

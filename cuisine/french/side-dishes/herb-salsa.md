@@ -1,5 +1,7 @@
 # Herb Salsa
 
+**Cook Time:** 15 minutes
+
 ![Herb Salsa](resources/herb-salsa.png)
 
 *This delicate, herbaceous salsa pairs beautifully with fresh pasta, especially tortellini or cappelletti filled with ricotta or similar light fillings. The boiled potato base provides body, while fines herbes (a classic French blend of parsley, chives, tarragon, and chervil) offers bright, fresh herb character with subtle anise notes from the tarragon.*

@@ -1,5 +1,8 @@
 # Sambal Belacan
 
+**Prep Time:** 10 minutes
+**Cook Time:** 14 minutes
+
 ![Sambal Belacan](resources/sambal-belacan.jpg)
 
 *This is the sambal of champions, pungent, assertive shrimp paste tamed by heat and citrus, counterbalanced only by fiery chillies that match its intensity. Belacan, the fermented shrimp paste that gives this sambal its character, is not for the faint-hearted. In Southeast Asia, this powerful condiment is served in small quantities with rice dishes, the starch tempering both heat and umami fermentation.*

@@ -1,5 +1,7 @@
 # Balti Masala Paste
 
+**Prep Time:** 5 minutes
+
 ![Balti Masala Paste](resources/balti-masala-paste.jpg)
 
 *The Balti is a mild, well-spiced paste that forms the base for most British-Indian Balti curry dishes. Using vinegar as the binding liquid (rather than all water) naturally preserves the paste in sealed jars, a practical advantage for batch preparation.*

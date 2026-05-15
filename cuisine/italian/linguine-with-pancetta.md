@@ -5,6 +5,7 @@
 *Linguine alla amatriciana, originating from Amatrice in Lazio, this dish combines the holy trinity of pancetta, onion, and chilli to create a sauce that's far greater than its simple components suggest. The tomatoes add brightness, while the wine provides depth.*
 
 **Serves:** 4
+**Prep Time:** 15 minutes
 
 ## Overview
 This Roman classic showcases the magic of combining quality ingredients in the right proportions. Crispy pancetta, yielding its fat to the pan, mingles with soft onions and fierce chilli. A splash of white wine adds acidity and complexity. The result is a robust, warming sauce that transforms simple pasta into something memorable. Pecorino Romano provides a sharp finish.

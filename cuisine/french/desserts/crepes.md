@@ -1,5 +1,8 @@
 # Crêpes
 
+**Prep Time:** 5 minutes
+**Cook Time:** 1 minutes
+
 ![Crêpes](resources/crepes.jpg)
 
 *Typically French, these classic crêpes can be filled with numerous delicious ingredients, ranging from lemon and sugar, to crème patissière and fruits. The choice is limited only by the imagination.*

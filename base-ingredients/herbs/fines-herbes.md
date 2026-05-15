@@ -1,5 +1,7 @@
 # Fines Herbes
 
+**Prep Time:** 10 minutes
+
 ![Fines Herbes](resources/fines-herbes.png)
 
 *Fines herbes is a classic French fresh herb blend used to finish delicate dishes, adding brightness without overpowering subtle flavors.*

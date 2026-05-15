@@ -3,6 +3,8 @@
 ![Tomato Coulis](resources/tomato-coulis.jpg)
 
 **Serves:** 4
+**Prep Time:** 15 minutes
+**Cook Time:** 1 hour
 
 ## Overview
 A versatile, silky tomato sauce made from slowly reduced fresh tomatoes, aromatic vegetables, and delicate herbs. This is the foundation for countless dishes, use it on pasta, as a base for soups, or as an elegant finishing sauce. The long cooking concentrates tomato flavor into pure, bright essence.

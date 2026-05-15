@@ -1,5 +1,7 @@
 # St-Genix Brioches with Pink Pralines
 
+**Cook Time:** 1 minutes
+
 ![Brioches](resources/brioches.jpg)
 
 *Perfect for breakfast, these lovely brioches are best eaten as soon as they have cooled, while the pralines are still crunchy. The town of St-Genix is famous for its Pompadour pink pralines, which flavour and colour these brioches.*

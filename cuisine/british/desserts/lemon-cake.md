@@ -1,5 +1,7 @@
 # Lemon cake
 
+**Prep Time:** 10 minutes
+
 ![Lemon cake](resources/lemon-cake.jpg)
 
 **Yield:** 2 cakes 

@@ -5,6 +5,8 @@
 *Penne all' Arrabbiata, "in the manner of the angry cook", a Roman classic of brutal simplicity: fresh tomatoes, fierce chilli, golden garlic, and excellent pasta. The dish's name refers to the chilli's heat; the sauce's beauty lies in its straightforwardness. Fresh tomatoes are preferred; if using canned, discard seeds to avoid wateriness.*
 
 **Serves:** 4
+**Prep Time:** 15 minutes
+**Cook Time:** 5 minutes
 
 ## Overview
 This is peasant cooking at its finest: five ingredients combine to create something utterly satisfying. The gentle cooking of tomatoes with chilli and garlic creates a sauce that clings to pasta without cream or oil to muddy it. Fresh flat-leaf parsley adds brightness. This dish proves that simplicity, when executed with care, requires nothing more.

@@ -1,5 +1,7 @@
 # Chocolate Truffles
 
+**Prep Time:** 10 minutes
+
 ![Chocolate Truffles](resources/chocolate-truffles.jpg)
 
 *These dark, rich truffles are sophisticated petit fours made from silky chocolate ganache enhanced with Armagnac. Dust-coated in cocoa powder, they are elegant served with pre-dinner drinks or after formal dinners alongside strong coffee.*

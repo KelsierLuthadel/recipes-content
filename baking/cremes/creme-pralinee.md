@@ -5,6 +5,7 @@
 *This is one of those creams which seems particularly delicious in winter. Its delicate, nutty flavour makes it perfect for filling all kinds of biscuit and sponge based desserts.*
 
 **Serves:** 1 ¼ kg
+**Prep Time:** 10 minutes
 
 ## Overview
 Crème Pralinée combines the richness of crème pâtissière with the lightness of crème Chantilly, infused with the distinctive flavor of crushed praline and caramelized hazelnuts. This elegant cream showcases the warmth and depth of roasted nuts, making it particularly suited to autumn and winter desserts. Its sophisticated flavor profile elevates both simple cakes and elaborate presentations.

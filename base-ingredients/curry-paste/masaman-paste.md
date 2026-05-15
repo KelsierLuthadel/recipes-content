@@ -1,5 +1,7 @@
 # Thai Masaman Curry Paste (Kruang Kaeng Masaman)
 
+**Prep Time:** 15 minutes
+
 ![Masaman Curry Paste](resources/massaman-curry-paste.jpg)
 
 *Originating from the Malaysian border region, this paste combines Thai spices with Indian and Persian influences. It works beautifully with beef, chicken, or duck, particularly robust meats that can stand up to the paste's depth.*

@@ -3,6 +3,7 @@
 ![Rough Puff Pastry](resources/rough-puff.jpg)
 
 **Serves:** 1.2kg
+**Prep Time:** 10 minutes
 
 ## Overview
 Rough puff pastry is a simplified laminated dough that mimics the structure of true puff pastry with fewer folds and a quicker method. The distinct butter pieces visible in the dough create flaky layers when baked, though less voluminous than traditional puff pastry. This pastry offers an excellent balance of ease and results, making it ideal for both experienced pastry chefs and home bakers.

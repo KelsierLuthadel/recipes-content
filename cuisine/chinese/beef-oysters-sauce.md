@@ -5,6 +5,8 @@
 *A classic Cantonese dish that showcases the harmonious balance between tender beef and umami-rich oyster sauce. This recipe demonstrates the fundamental Chinese cooking principle of high-heat wok cooking, where speed and precision create dishes with vibrant flavours and succulent textures.*
 
 **Serves:** 4
+**Prep Time:** 10 minutes
+**Cook Time:** 2 minutes
 
 ## Overview
 A quick and elegant stir-fry that balances savoury oyster sauce with tender beef. This dish exemplifies the Chinese technique of high-heat cooking to seal flavours while keeping meat moist. Quality oyster sauce is essential, it should deepen the dish rather than dominate it.

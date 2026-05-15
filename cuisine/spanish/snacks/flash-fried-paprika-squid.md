@@ -5,6 +5,7 @@
 *These quick fried squid are good served with a dry sherry as an appetizer or part of a mixed tapas. For a starter, serve them on a bed of salad leaves.*
 
 **Serves:** 4
+**Prep Time:** 15 minutes
 
 ## Overview
 A Spanish tapas classic featuring tender squid rings and tentacles, quickly fried until golden and served with a vibrant paprika, garlic, and chilli dressing. The high heat creates a crispy exterior while keeping the squid moist inside. Simple yet elegant, a restaurant-quality dish that comes together in minutes.

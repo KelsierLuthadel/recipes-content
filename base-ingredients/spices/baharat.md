@@ -1,5 +1,7 @@
 # Baharat
 
+**Prep Time:** 10 minutes
+
 ![Baharat](resources/baharat.jpg)
 
 *This aromatic spice blend is found throughout the Eastern Mediterranean, spreading from Egypt, Jordan, and Lebanon to Syria, Sudan, and Ethiopia. The Arabic name Baharat literally translates to "spice", a universal blend that spans borders and cultures.*

@@ -5,6 +5,7 @@
 *Pizza Margherita, Italy's most iconic pizza celebrates the nation's flag with red tomatoes, white mozzarella, and green basil. Nothing more is needed; the finest ingredients, treated simply, create a dish that's simultaneously humble and perfect. This is where technique meets ingredient quality.*
 
 **Serves:** 2 (makes one 25-30 cm pizza)
+**Cook Time:** 12 minutes
 
 ## Overview
 This is the essence of pizza. A thin, crisp crust topped with a simple tomato sauce, creamy fresh mozzarella, marinated cherry tomatoes, and just-wilted basil. The beauty lies in ingredient quality and the technique of assembly. Each component matters. Too much topping drowns the crust; too little leaves an empty plate. This is balance and respect for simplicity.

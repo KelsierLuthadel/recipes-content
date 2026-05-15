@@ -1,5 +1,7 @@
 # Garam Masala (Classic)
 
+**Prep Time:** 10 minutes
+
 ![Garam Masala](resources/garam-masala.jpg)
 
 *Garam means "hot" and masala means "spices", together they describe a blend focused on spices that generate warmth: chillies, pepper, cinnamon, and cloves. This classic blend is added at the end of cooking or sprinkled over finished dishes as a final fragrant garnish, making it distinct from base curry powders.*

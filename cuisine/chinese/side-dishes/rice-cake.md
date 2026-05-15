@@ -1,5 +1,7 @@
 # Rice cake
 
+**Cook Time:** 1 minutes
+
 ![Rice cake](resources/rice-cake.jpg)
 
 *Rice cakes were probably invented by a thrifty Chinese cook centuries ago in order to make use of that thin layer of rice which gets stuck to the bottom of the pot. This crispy leftover has evolved into an accompaniment to many dishes. Its taste and crunchy texture go deliciously with Sizzling rice prawns, or as a snack with a touch of oil and salt.*

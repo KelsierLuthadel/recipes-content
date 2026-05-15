@@ -5,6 +5,7 @@
 *This light, crumbly, delicate shortcrust can be used as a substitute for puff pastry, but is always used to make classic flan and tartlet cases.*
 
 **Serves:** 475 grams
+**Prep Time:** 5 minutes
 
 ## Overview
 Pâte brisée is a classic French shortcrust pastry that serves as the foundation for elegant tarts and tartlets. Its tender, crumbly texture and neutral flavor provide a perfect base that complements both sweet and savory fillings without competing. The simple technique of rubbing fat into flour creates its characteristic short, delicate crumb.

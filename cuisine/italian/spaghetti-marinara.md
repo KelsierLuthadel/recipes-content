@@ -5,6 +5,8 @@
 *This showpiece of Neapolitan cooking unites the sea's treasures with simple tomato sauce. The marinara preparation demands absolute freshness of seafood and exacting timing, mussels, clams, calamari, fish, and prawns each require a different cooking duration, and overshooting any of them ruins the dish.*
 
 **Serves:** 6
+**Prep Time:** 20 minutes
+**Cook Time:** 5 minutes
 
 ## Overview
 True spaghetti alla marinara celebrates the bounty of Naples' harbor. A rich tomato base simmers gently whilst fresh shellfish and seafood are seared and simmered separately, then folded into the sauce at the last moment. Each component maintains its distinct texture and flavor while harmonizing on the plate. This is sophisticated Italian bistro cooking at its finest.

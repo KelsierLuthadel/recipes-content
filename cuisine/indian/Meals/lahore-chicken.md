@@ -4,6 +4,8 @@
 
 
 **Serves:** 4
+**Prep Time:** 20 minutes
+**Cook Time:** 53 minutes
 
 ## Overview
 A traditional Lahori-style chicken curry built on a base of caramelised onions, tomatoes, and whole spices bloomed in oil. Yoghurt is added gradually to prevent splitting, creating a rich, silky sauce. Finished with fresh coriander and lemon juice, this is a deeply flavourful North Indian classic.

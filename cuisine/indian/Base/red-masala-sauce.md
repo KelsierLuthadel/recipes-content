@@ -1,5 +1,7 @@
 # Red Masala Sauce
 
+**Prep Time:** 10 minutes
+
 ![Red Masala Sauce](resources/red-masala-sauce.jpg)
 
 

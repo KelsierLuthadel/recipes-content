@@ -1,5 +1,8 @@
 # Stir fried mange tout with waterchestnuts
 
+**Prep Time:** 10 minutes
+**Cook Time:** 4 minutes
+
 ![Stir fried mange tout with waterchestnuts](resources/mange-tout.jpg)
 
 *This sweet crunchy side dish is a perfect accompaniment to any Chinese dish, but works especially well with lemon chicken.*

@@ -5,6 +5,7 @@
 *This simple dessert can be prepared in advance - ready to add the honey glaze at the last moment, for an appealing sheen.*
 
 **Serves:** 4
+**Prep Time:** 10 minutes
 
 ## Ingredients
 - 6 tablespoons runny honey

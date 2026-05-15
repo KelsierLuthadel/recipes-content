@@ -5,6 +5,7 @@
 *This wonderfully delicious side dish complements any roast dinner. If you wish, add some cooked pancetta at the end and top with freshly grated lemon rind.*
 
 **Serves:** 4
+**Prep Time:** 10 minutes
 
 ## Overview
 Brussels sprouts au gratin transforms humble sprouts into a rich and crunchy side dish coated in a savoury blend of breadcrumbs, pecorino, garlic, and parsley. Parboiling before baking ensures the sprouts are tender inside while the topping crisps to a golden crust in the oven.

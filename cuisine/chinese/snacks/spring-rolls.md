@@ -1,5 +1,8 @@
 # Spring rolls
 
+**Prep Time:** 15 minutes
+**Cook Time:** 1 minutes
+
 ![Spring rolls](resources/mini-spring-rolls.jpg)
 
 *Spring rolls are among the best known Chinese snacks. They are not difficult to make and are a perfect starter for any meal.*

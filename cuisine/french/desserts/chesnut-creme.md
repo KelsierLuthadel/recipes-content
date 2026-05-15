@@ -3,6 +3,7 @@
 ![Chestnut crème with caramel sauce](resources/chestnut-creme.jpg)
 
 **Serves:** 4
+**Prep Time:** 5 minutes
 
 ## Ingredients
 - half a sheet gelatine

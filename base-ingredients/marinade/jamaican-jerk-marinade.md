@@ -1,5 +1,8 @@
 # Jamaican Jerk Marinade
 
+**Prep Time:** 15 minutes
+**Cook Time:** 1 minutes
+
 ![Jamaican Jerk](resources/jamaican-jerk.jpg)
 
 *The essence of Jamaican outdoor cooking, this fragrant paste of charred onions, fiery chillies, and warm spices coats meat for slow grilling over coals. The marinade develops flavor through hours of "jerk", both the spice blend name and the cooking technique of slow-grilling with rhythmic turning over smoky flames. Eight hours of resting allows the spice oils to penetrate meat.*

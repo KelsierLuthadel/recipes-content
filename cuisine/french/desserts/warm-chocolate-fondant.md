@@ -3,6 +3,8 @@
 ![Warm chocolate fondant](resources/warm-chocolate-fondant.jpg)
 
 **Serves:** 10
+**Prep Time:** 10 minutes
+**Cook Time:** 1 minutes
 
 ## Ingredients
 - 200 grams butter (softened)

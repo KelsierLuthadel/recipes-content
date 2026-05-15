@@ -1,5 +1,8 @@
 # Pesto
 
+**Prep Time:** 10 minutes
+**Cook Time:** 1 minutes
+
 ![Pesto](resources/pesto.png)
 
 *This classic Italian basil sauce is silky, nutty, and herbaceous, the quintessential condiment for fresh pasta, focaccia dipping, or layered into Béchamel for lasagne. The balanced combination of fresh basil, garlic, pine nuts, extra virgin olive oil, and Parmesan creates one of the world's most versatile sauces.*

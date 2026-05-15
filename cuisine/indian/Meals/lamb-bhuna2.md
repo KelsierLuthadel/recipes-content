@@ -7,6 +7,7 @@
 **Note**: This is a different recipe than [Lamb Bhuna](./lamb-bhuna.md) with a subtly different taste
 
 **Serves:** 4
+**Prep Time:** 20 minutes
 
 ## Overview
 An alternative take on bhuna: same dry-style, masala-on-the-meat finish, but built on whole spices toasted in hot oil before the meat goes in. The whole-spice toasting perfumes the oil and gives a slightly different aromatic profile from the first bhuna recipe. Both end with the masala coating each piece of meat.

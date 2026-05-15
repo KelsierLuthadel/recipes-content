@@ -5,6 +5,8 @@
 *Choux pastry is enormously versatile, which makes it a marvelous, indispensable component of all types of cooking and patisserie.*
 
 **Serves:** 22
+**Prep Time:** 10 minutes
+**Cook Time:** 1 minutes
 
 ## Overview
 Pâte à choux is a unique pastry made without fat in the dough itself, relying instead on steam for leavening to create light, hollow shells. Its versatility allows it to be piped into countless shapes for both sweet and savory preparations. The characteristic crispy exterior and hollow interior make it an essential technique in pastry work. IMPORTANT: The 'drying out' stage is critical for success.

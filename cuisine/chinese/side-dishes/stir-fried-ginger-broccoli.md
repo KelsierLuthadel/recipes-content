@@ -6,6 +6,7 @@
 *
 
 **Serves:**  2 - 4
+**Cook Time:** 1 minutes
 
 ## Overview
 Stir-fried ginger broccoli is a simple, clean side dish that pairs blanched broccoli with fragrant shredded ginger and a finish of sesame oil. It works equally well served hot alongside Asian mains or at room temperature as a salad-style accompaniment in warmer months.

@@ -5,6 +5,8 @@
 *The contrast of dark with white, and of the crisp meringue with the soft sorbet, makes this dessert particularly special. You can make the meringue nests the day before, or if you prefer, serve the sorbet as it is.*
 
 **Serves:** 8
+**Prep Time:** 10 minutes
+**Cook Time:** 3 minutes
 
 ## Ingredients
 - 100 ml milk

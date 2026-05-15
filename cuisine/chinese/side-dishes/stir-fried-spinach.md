@@ -5,6 +5,8 @@
 *Spinach has often been regarded with disdain in the West, probably because it is often overcooked. This is a time-honoured, delicious southern Chinese recipe. The spinach is quickly stir-fried and then seasoned. It is very simple to prepare and tastes divine.*
 
 **Serves:**  4
+**Prep Time:** 10 minutes
+**Cook Time:** 1 minutes
 
 ## Overview
 Stir-fried spinach with garlic is a classic southern Chinese side dish that showcases how quickly and simply spinach can be cooked to perfection. The leaves are wilted in a hot wok with oil, salt, sugar, and garlic, resulting in a tender, flavoursome dish that is ready in under 10 minutes.

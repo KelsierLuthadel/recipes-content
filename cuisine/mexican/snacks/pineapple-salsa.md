@@ -1,5 +1,7 @@
 # Pineapple Salsa with Coriander
 
+**Prep Time:** 10 minutes
+
 ![Pineapple Salsa with Coriander](resources/pineapple-salsa.png)
 
 *This sweet, spicy, caramelized salsa pairs beautifully with smoky grilled and barbequed dishes, pork spareribs, sausages, duck breast, or swordfish. The warm pineapple base is enhanced with fresh red chilli heat, sambal oelek umami, and fresh coriander's bright herbaceous notes. Served warm, this salsa's flavors sing and complement rich, smoky proteins perfectly.*

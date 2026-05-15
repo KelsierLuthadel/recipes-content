@@ -1,5 +1,7 @@
 # Standard Loaf Pan Shaping
 
+**Cook Time:** 36 minutes
+
 ![Standard Loaf Pan Step 1](resources/loaf-1.jpg)
 
 *The standard loaf pan shape is perhaps the most straightforward approach to shaping bread: gently stretch the bulk-fermented dough into an oval approximately matching the pan length, then allow final proofing. The pan's shape guides the loaf during rising and baking, requiring minimal skill or special technique.*

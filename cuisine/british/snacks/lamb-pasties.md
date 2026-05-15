@@ -5,6 +5,8 @@
 *This variation on a Cornish pasty can either be used as a main meal, served with potatoes or a light snack.*
 
 **Serves:** 8
+**Prep Time:** 15 minutes
+**Cook Time:** 3 minutes
 
 ## Overview
 A Cornish-inspired pastry parcel filled with seasoned lamb, tender vegetables, and a rich, savory gravy. These hand-held pastries are perfect for portable meals, picnics, or as a sophisticated starter. The flaky shortcrust pastry encloses a deeply flavorful filling, a British classic that's remarkably easy to prepare at home.

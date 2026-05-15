@@ -3,6 +3,7 @@
 ![Lamb Karahi](resources/karahi.png)
 
 **Serves:** 4
+**Prep Time:** 15 minutes
 
 ## Overview
 Cooked in a karahi (two-handled wok-like pan) over high heat: lamb chunks simmer with tomatoes, fresh ginger matchsticks and green chillies, with cracked black pepper and ground cumin going in late. No onion in the sauce. Punjabi origin, fiercely fresh-tasting, the antithesis of long-cooked British curry-house style.

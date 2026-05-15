@@ -5,6 +5,7 @@
 *Cucumber raita is a wonderfully refreshing accompaniment that cools and soothes the palate after spicy curries. Cool yoghurt suspends delicate diced cucumber and green chilli for a dish that's as simple as it is essential at the Indian table.*
 
 **Serves:** 4
+**Prep Time:** 10 minutes
 
 ## Overview
 This is the most essential Indian yoghurt-based side dish. Cooling yoghurt, refreshing cucumber, and a hint of heat from green chilli create a balance that's perfect alongside any spiced main course. The technique is simple: dice cucumber finely, fold into yoghurt with minimal seasonings, and garnish. This is a template raita; it anchors the Indian meal.

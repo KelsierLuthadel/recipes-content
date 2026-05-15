@@ -5,6 +5,8 @@
 *A slow-cooked Italian meat sauce using restaurant techniques to develop deep, complex flavor and a silky, luxurious texture. Patience and proper browning create a sauce worthy of the finest pasta. This is the soul of Italian cooking, humble ingredients transformed through technique and time.*
 
 **Serves:** 4 (with leftover sauce)
+**Prep Time:** 20 minutes
+**Cook Time:** 4 minutes
 
 ## Overview
 True ragu demands patience, precision, and respect for the process. Ground beef (or a beef and pork mix) browns deeply in batches to build caramelization without steaming. Aromatic vegetables soften slowly until sweet. Tomato paste darkens and concentrates its flavor through caramelization. Red wine deglazes and cooks off. Then comes the long, gentle simmer, 1 hour 45 minutes to 2 hours, where flavors meld and deepen into something far greater than the sum of its parts. This is not a quick sauce; it is an investment in excellence.

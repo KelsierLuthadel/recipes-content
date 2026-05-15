@@ -7,6 +7,7 @@
 *Eight chillies may seem a bit excessive, but remember that the coconut milk will pacify your palate somewhat.*
 
 **Serves:** 4 - 6
+**Prep Time:** 10 minutes
 
 ## Overview
 A vibrant Thai curry celebrating fresh vegetables in a spiced coconut broth. Eight chillies may seem intense, but the creamy coconut milk tempers the heat into a balanced, complex warmth. The vegetables remain crisp-tender, and the holy basil adds an authentic finishing touch. Fragrant, colorful, and deeply satisfying.

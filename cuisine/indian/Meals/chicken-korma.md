@@ -3,6 +3,7 @@
 ![Korma](resources/korma.jpg)
 
 **Serves:** 4
+**Prep Time:** 10 minutes
 
 ## Overview
 The mildest of the classic BIR curries: a pale, gently spiced sauce of cooked onion, cream, ground almonds (or cashews) and a touch of coconut. Cardamom and cinnamon provide warmth without heat. The dish ordered when the table includes a child or anyone who shies from chilli.

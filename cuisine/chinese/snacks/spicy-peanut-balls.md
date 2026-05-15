@@ -1,5 +1,7 @@
 # Spicy peanut balls
 
+**Prep Time:** 15 minutes
+
 ![Spicy peanut balls](resources/spicy-peanut-balls.jpg)
 
 *Tasty rice balls, rolled in chopped peanuts and deep-fried, make a delicious snack. Serve them as they are or with a chilli sauce for dipping.*

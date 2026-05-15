@@ -5,6 +5,8 @@
 *Penne con zucchine e salame gratinate, penne suspended in a silky béchamel sauce enriched with courgettes and salami, then buried under a golden Parmesan crust. Served hot, warm, or cold, this is comfort food with Italian sophistication. The combination of courgettes' delicate sweetness with salami's savory punch creates balance.*
 
 **Serves:** 6
+**Prep Time:** 15 minutes
+**Cook Time:** 11 minutes
 
 ## Overview
 This is baked pasta at its most elegant. Fresh courgettes sear quickly to maintain their texture, salami provides salty richness, and a silky homemade béchamel unites everything. Baked under a golden Parmesan crust until crispy and bubbling, this dish works as a first course, main course, or served at room temperature as a cold dish. The textural contrast between the creamy sauce and crispy top is essential.

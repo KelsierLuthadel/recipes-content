@@ -3,6 +3,7 @@
 ![Mini croquembouche](resources/mini-croquembouche.jpg)
 
 **Serves:** 6 - 8
+**Prep Time:** 10 minutes
 
 ## Ingredients
 ### Choux pastry

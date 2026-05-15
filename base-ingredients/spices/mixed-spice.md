@@ -1,5 +1,7 @@
 # Mixed Spice
 
+**Prep Time:** 10 minutes
+
 ![Mixed Spice](resources/mixed.jpg)
 
 *This blend of ground spices has a whole host of uses, both in sweet and savory dishes. It typically features cinnamon, nutmeg, and allspice as the core, but also contains cloves, cayenne pepper, coriander, ginger, and mace. This is the spice of autumn baking and winter stews.*

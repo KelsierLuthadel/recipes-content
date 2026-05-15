@@ -5,6 +5,7 @@
 *Spaghetti con ricotta e pinoli, this is simplicity perfected. Warm pasta mingles with creamy ricotta, nutmeg's earthiness, sun-dried tomato's concentration, and toasted pine nuts' buttery crunch. No cooking of components, just assembly and gentle folding. The heat of the pasta itself carries the flavors.*
 
 **Serves:** 4
+**Prep Time:** 15 minutes
 
 ## Overview
 This is pasta in its most elegant minimalist form. Ricotta cheese, warmed by fresh pasta and enriched with good olive oil, becomes a delicate sauce that clings to each strand. Toasted pine nuts add textural contrast and subtle sweetness, while sun-dried tomatoes provide concentrated flavor and color. The dish is perfect year-round as a simple first course or light main.

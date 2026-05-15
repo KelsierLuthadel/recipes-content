@@ -1,5 +1,7 @@
 # Poolish (Bread Pre-Ferment)
 
+**Prep Time:** 5 minutes
+
 ![Poolish](resources/poolish.jpg)
 
 *Authentic French bread requires a pre-fermentation stage known as a Poolish, a starter made with equal parts water and flour and a tiny amount of yeast. This ferments for 12-18 hours, developing flavor and improving dough structure. Poolish adds complexity, acidity, and distinctive character to bread.*

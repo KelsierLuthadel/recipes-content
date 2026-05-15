@@ -3,6 +3,8 @@
 ![Floating islands](resources/floating-islands.jpg)
 
 **Serves:** 4
+**Prep Time:** 5 minutes
+**Cook Time:** 3 minutes
 
 ## Ingredients
 - 2 young, tender rhubarb stalks

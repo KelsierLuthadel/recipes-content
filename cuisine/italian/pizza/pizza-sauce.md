@@ -1,5 +1,7 @@
 # Pizza Sauce
 
+**Cook Time:** 3 minutes
+
 ![Pizza Sauce](resources/pizza-sauce.jpg)
 
 *This is authentic Italian pizza sauce: simple, raw, and fresh. High-quality tomatoes briefly cooked with aromatics create a vibrant, slightly chunky sauce that's the foundation for perfect pizza.*

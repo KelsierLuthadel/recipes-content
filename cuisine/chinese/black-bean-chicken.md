@@ -6,6 +6,8 @@
 A classic Chinese dish bursting with the fragrance of black bean and garlic. Chicken wings are ideal for this preparation as they cook quickly in a high-heat wok while remaining succulent and flavourful. The fermented black beans add depth and a distinctive umami character that defines authentic Chinese cooking.
 
 **Serves:** 4
+**Prep Time:** 15 minutes
+**Cook Time:** 6 minutes
 
 ## Ingredients
 

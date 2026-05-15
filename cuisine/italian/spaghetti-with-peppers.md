@@ -5,6 +5,8 @@
 *Spaghetti con peperoni alle erbe, a vegetarian masterpiece where flavors complement rather than compete. Yellow peppers become sweet and tender through gentle cooking, while fresh thyme, rosemary, and parsley provide herbaceous undertones. No meat needed; the vegetables and herbs speak eloquently for themselves.*
 
 **Serves:** 4
+**Prep Time:** 15 minutes
+**Cook Time:** 2 minutes
 
 ## Overview
 This vegetarian dish proves that meat is optional, not essential, for creating satisfying pasta. The peppers, cooked slowly until they release their natural sweetness, create a silken sauce. Fresh herbs provide layered flavor without one dominating. This is simple food made with technique and quality ingredients. Aubergines can substitute for peppers if preferred.

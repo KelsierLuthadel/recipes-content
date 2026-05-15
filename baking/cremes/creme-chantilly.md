@@ -5,6 +5,7 @@
 *Crème Chantilly is used to lighten and enrich numerous creams - the Crème pâtissière in an Alméria for example. It can also be served just as it is and will complement many desserts, fruits or ice creams.*
 
 **Serves:** 600 grams
+**Prep Time:** 5 minutes
 
 ## Overview
 Crème Chantilly, or whipped cream, is a classic component that adds lightness and elegance to virtually any dessert. Whether served plain with fresh fruit or incorporated into other creams, its airy texture and subtle sweetness enhance both simple and sophisticated preparations. Flavor variations such as chocolate or coffee versions expand its versatility in the pastry kitchen.

@@ -5,6 +5,8 @@
 *Bucatini alla carbonara, one of Rome's great contributions to world cuisine. This classic dish uses no cream, a point of pride for Italians. The heat of the pasta cooks the eggs into a silken sauce, while pancetta provides smokiness and Pecorino Romano adds sharpness. Bucatini's hollow center allows the sauce to penetrate throughout.*
 
 **Serves:** 4
+**Prep Time:** 15 minutes
+**Cook Time:** 2 minutes
 
 ## Overview
 Bucatini Carbonara is a masterclass in simplicity and technique. Five ingredients, pasta, eggs, Pecorino Romano, pancetta, and salt, combine to create a rich, creamy sauce without any cream. The success lies in temperature control: hot pasta cooks the raw eggs to silken perfection without scrambling. This is Roman street food elevated to art.

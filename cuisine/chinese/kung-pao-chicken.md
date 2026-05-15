@@ -6,6 +6,7 @@
 This iconic hot and spicy chicken from western China showcases contrasting flavours, heat from chillies and Sichuan peppercorns balanced with subtle sweetness. The numbing quality of Sichuan peppercorns and the fragrance of slow-braising creates an aromatic dish that is equally delicious served immediately or reheated the next day.
 
 **Serves:** 4
+**Prep Time:** 10 minutes
 
 ## Ingredients
 

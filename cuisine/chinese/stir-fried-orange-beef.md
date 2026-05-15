@@ -6,6 +6,8 @@
 This is a northern Chinese beef speciality that lends itself to using dried tangerine peel. The Chinese always use peel that has been dried, and the older the peel, the more prized the flavour. The combination creates a sophisticated, citrus-forward sauce that balances the richness of beef beautifully.
 
 **Serves:** 4
+**Prep Time:** 10 minutes
+**Cook Time:** 2 minutes
 
 ## Ingredients
 

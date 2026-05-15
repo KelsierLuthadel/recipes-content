@@ -5,6 +5,7 @@
 *This sauce goes perfectly with peaches or pears, or to enhance the flavour of a moulded rice pudding. You can also churn the sauce to make an excellent sorbet, just stir in 75 ml water before churning.*
 
 **Serves:** 8
+**Prep Time:** 10 minutes
 
 ## Overview
 This deep, aromatic red wine sauce is infused with warm spices, vanilla, and orange before being finished with fresh mint, giving it both richness and brightness. Reducing the wine by a third concentrates the flavour into an elegant, pourable consistency. It pairs beautifully with poached fruit and rice-based desserts, and can even be churned into a sorbet.

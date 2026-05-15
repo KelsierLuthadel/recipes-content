@@ -1,5 +1,7 @@
 # White Bread
 
+**Prep Time:** 5 minutes
+
 ![White Bread](resources/white-bread.jpg)
 
 *This bread forms a lovely crunchy crust when cooked, and is especially delightful when eaten warm. Where most people go wrong is not making the mixture wet enough and so the finished bread ends up too doughy and dry. Once the water is added, don't flood the work surface with flour as it will unbalance the recipe, instead, use olive oil if needed.*

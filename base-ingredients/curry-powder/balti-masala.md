@@ -1,5 +1,7 @@
 # Balti Masala
 
+**Prep Time:** 10 minutes
+
 ![Balti Masala](resources/balti-masala.jpg)
 
 *Balti masala is the spice foundation for most British-Indian Balti curries. The mix is mild and well-rounded, designed to be used as a base that cooks build on with additional ingredients and fresh aromatics. Toast, grind, and store for year-round use.*

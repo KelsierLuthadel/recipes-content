@@ -1,5 +1,7 @@
 # Vindaloo Spice Mix
 
+**Prep Time:** 5 minutes
+
 ![Vindaloo Spice Mix](resources/vindaloo-mix.jpg)
 
 

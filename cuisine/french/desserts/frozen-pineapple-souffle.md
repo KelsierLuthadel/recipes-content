@@ -5,6 +5,8 @@
 *This impressive dessert is smooth, refreshing and utterly delicious. All the components can be prepared a day or two in advance , so on the day you just need to assemble it, which takes no time at all.*
 
 **Serves:** 8 - 10
+**Prep Time:** 10 minutes
+**Cook Time:** 35 minutes
 
 ## Ingredients
 - 1 ripe pineapple (about 1 kg)

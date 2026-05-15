@@ -1,5 +1,7 @@
 # KFC-Style Herbs and Spices
 
+**Prep Time:** 10 minutes
+
 ![KFC Spice Mix](resources/kfc.jpg)
 
 *This is a reverse-engineered blend attempting to replicate the famous KFC breading spice mix. While no one outside the company knows the exact recipe, this combination captures the characteristic warm, peppery, and herbaceous profile of the iconic fried chicken coating.*

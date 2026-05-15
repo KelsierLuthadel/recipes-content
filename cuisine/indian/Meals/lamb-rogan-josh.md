@@ -3,6 +3,7 @@
 ![Lamb Rogan Josh](resources/rogan-josh.png)
 
 **Serves:** 4
+**Prep Time:** 15 minutes
 
 ## Overview
 Kashmir's signature red lamb curry: the colour comes from Kashmiri chillies and ratan jot (alkanet root) rather than tomato. Lamb braises slowly in yogurt with asafoetida, fennel, ginger and ground spices until the gravy is silky and the meat fork-tender. Medium heat, deeply aromatic, a celebration dish.

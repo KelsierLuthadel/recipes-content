@@ -5,6 +5,7 @@
 *King prawns are luxurious, delicate, and take beautifully to tandoori preparation. A double-marinade technique creates silky texture and complex flavor.*
 
 **Serves:** 4
+**Prep Time:** 15 minutes
 
 ## Overview
 Tandoori King Prawns are elegant, restaurant-quality appetizers or mains. The prawns undergo two rapid marinades: first, an oil-based bath with garlic, ginger, and turmeric to season quickly; second, a creamy, spiced marinade with yoghurt, cream cheese, and fresh herbs for silky texture and depth. The double approach respects the delicate nature of prawns while ensuring flavor on all sides. The brief cooking (5-8 minutes) preserves succulence. Serve with lemon and herbs. This is luxurious seafood preparation made simple.

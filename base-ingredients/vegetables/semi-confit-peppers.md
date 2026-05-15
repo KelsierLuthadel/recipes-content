@@ -1,5 +1,8 @@
 # Semi-Confit Peppers
 
+**Prep Time:** 10 minutes
+**Cook Time:** 1 minutes
+
 ![Semi-Confit Peppers](resources/confit-peppers.jpg)
 
 *Semi-confit peppers are charred over flame, then gently poached in warm oil infused with herbs and garlic. They taste even better when briefly grilled on a barbecue afterward, especially when vine shoots add smoke to the coals.*

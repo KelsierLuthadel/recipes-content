@@ -5,6 +5,8 @@
 *Breast of lamb, cut from the belly, is an economical yet deeply flavorful cut. When properly trimmed, boned, and gently braised, it transforms into an elegant dish worthy of fine dining. The herb crust adds texture and focuses the flavors of the cooking broth.*
 
 **Serves:** 4
+**Prep Time:** 25 minutes
+**Cook Time:** 2 hours 7 minutes
 
 ## Overview
 This composed dish showcases lamb breast's rich potential: the trimmed meat is braised until tender in an herb-infused stock, then sliced and topped with a crispy herb and mustard breadcrumb crust. The braising liquid becomes an elegant sauce thickened with cream and sharpened with mustard, providing a sophisticated accompaniment that complements both the meat and crust.

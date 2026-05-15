@@ -5,6 +5,8 @@
 *This delightful lemon meringue pie sits in a wonderful biscuit like shortbread pastry with a slightly sharp rich sweet lemon filling, ending with a light airy crunch of meringue.*
 
 **Serves:** 8
+**Prep Time:** 10 minutes
+**Cook Time:** 2 minutes
 
 ## Ingredients
 ### For the pastry

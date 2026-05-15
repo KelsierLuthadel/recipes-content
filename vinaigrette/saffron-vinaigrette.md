@@ -1,5 +1,7 @@
 # Saffron Vinaigrette
 
+**Prep Time:** 5 minutes
+
 ![Saffron Vinaigrette](resources/saffron.jpg)
 
 *This luxurious, golden dressing infuses white wine vinegar with costly saffron threads, then incorporates both groundnut and sesame oils. Designed for elegant presentations with tender leaves and seafood garnishes like scallops or langoustine.*

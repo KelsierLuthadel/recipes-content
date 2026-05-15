@@ -7,6 +7,7 @@
 *This is normally cooked in a large balti pan, but you can you can substitute this with a frying pan*
 
 **Serves:** 4
+**Prep Time:** 20 minutes
 
 ## Overview
 Birmingham's defining curry, cooked hard and fast in a thin two-handled steel balti pan over a roaring flame. The high heat caramelises the masala onto the meat and burns off the oil, leaving a slightly smoky, tomato-forward sauce. Eaten straight from the pan with naan; the sauce is medium-thick, not soupy.

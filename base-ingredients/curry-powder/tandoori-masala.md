@@ -1,5 +1,7 @@
 # Tandoori Masala
 
+**Prep Time:** 10 minutes
+
 ![Tandoori Masala](resources/tandoori-masala.jpg)
 
 *Tandoori masala is a warm, earthy spice blend designed for marinating and coating meats and vegetables for the tandoor oven or broiler. The blend is naturally colored by turmeric and paprika, with beetroot and annatto seed powders for vibrant natural color, no chemical dyes. The spices develop better flavor during storage, make and keep for 1-2 weeks before using.*

@@ -6,6 +6,8 @@
 This dish exemplifies the Chinese penchant for contrasting textures. Tender succulent pieces of chicken are paired with sweet, crunchy cashew nuts and a delicate sauce. While the original Chinese version would have used peanuts (as cashews were not traditionally featured in Chinese cookery), this adaptation showcases how the cuisine evolves while maintaining its core philosophy of textural harmony.
 
 **Serves:** 4
+**Prep Time:** 10 minutes
+**Cook Time:** 3 minutes
 
 ## Ingredients
 

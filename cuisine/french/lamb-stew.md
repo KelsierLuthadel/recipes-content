@@ -5,6 +5,8 @@
 *The French name navarin almost certainly derives from navet, the word for turnip, though modern versions use potatoes instead. Traditionally made in larger quantities, this stew deep in flavor and requires patient, gentle cooking.*
 
 **Serves:** 8
+**Prep Time:** 25 minutes
+**Cook Time:** 35 minutes
 
 ## Overview
 Navarin d'agneau is a classic French spring stew, combining three different cuts of lamb, shoulder, neck, and breast, for complex flavor and varied texture. The meat braises in a light tomato and stock base, enriched with aromatic vegetables and finished with glazed pearl onions and tender potatoes. The balance of tender vegetables and well-cooked lamb creates a rustic yet refined dish that exemplifies peasant cooking elevated to art.

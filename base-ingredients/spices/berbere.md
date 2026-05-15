@@ -1,5 +1,8 @@
 # Berbere
 
+**Prep Time:** 10 minutes
+**Cook Time:** 15 minutes
+
 ![Berbere](resources/berbere.jpg)
 
 *Ethiopia produces some of Africa's most delicious food. Dishes such as spicy stews, fueled by the fire of this legendary hot spice mixture, are traditionally served on large discs of spongy bread called injera. Berbere is the soul of Ethiopian cooking.*

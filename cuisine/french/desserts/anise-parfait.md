@@ -3,6 +3,7 @@
 ![Anise parfait](resources/anise-parfait.jpg)
 
 **Serves:** 8
+**Prep Time:** 10 minutes
 
 ## Ingredients
 - 1 egg plus 3 egg yolks

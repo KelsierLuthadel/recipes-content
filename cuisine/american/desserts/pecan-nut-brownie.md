@@ -5,6 +5,8 @@
 *These brownies marry especially well with crème anglaise or a spoonful of crème fraîche.*
 
 **Serves:** 16 
+**Prep Time:** 10 minutes
+**Cook Time:** 19 minutes
 
 ## Overview
 Rich, fudgy chocolate brownies studded with toasted pecan nuts. These brownies have a dense, moist interior with just-set edges, the perfect balance of chocolate intensity and nutty richness. Elegant enough for entertaining yet comforting enough for everyday indulgence, especially paired with crème anglaise or fresh whipped cream. 

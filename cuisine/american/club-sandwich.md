@@ -3,6 +3,7 @@
 ![Club sandwich](resources/club-sandwich.jpg)
 
 **Serves:** 2
+**Prep Time:** 15 minutes
 
 ## Overview
 A classic three-tier sandwich combining toasted bread, tender chicken, crispy bacon, fresh vegetables, and poached eggs. This elegant preparation showcases the art of layering flavors and textures. A sophisticated lunch or light dinner that's surprisingly simple to execute with quality ingredients.

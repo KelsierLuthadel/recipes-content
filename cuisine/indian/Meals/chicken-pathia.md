@@ -5,6 +5,7 @@
 *A classic BIR dish that is sweet, sour, and hot*
 
 **Serves:** 4
+**Prep Time:** 15 minutes
 
 ## Overview
 BIR hot-sweet-sour: a medium-hot curry sweetened with sugar (or jaggery) and sharpened with tamarind and lemon juice. Tomato-forward, chilli-warm, with the sweet-sour balance the defining note. A standard order alongside dhansak in the sweet-and-sour family of curry-house dishes.

@@ -1,5 +1,7 @@
 # Chilli Pooris
 
+**Prep Time:** 10 minutes
+
 ![Chilli Pooris](resources/poori.jpg)
 
 *These small discs of dough puff up into light, airy breads when fried. Lightly studded with pieces of fresh red chilli, they melt into your mouth and leave you with a warm, spicy glow. Pooris are Indian street food at its finest.*

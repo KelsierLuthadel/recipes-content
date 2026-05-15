@@ -5,6 +5,8 @@
 *This classic French dish is simply potatoes with sliced onions and cooked in stock. It marries perfectly well with roast loin or leg of lamb.*
 
 **Serves:** 4
+**Prep Time:** 10 minutes
+**Cook Time:** 46 minutes
 
 ## Overview
 Boulangère potatoes are a classic French gratin of thinly sliced potatoes and softened onions baked slowly in stock until tender, with a golden, crispy top. Unlike dauphinoise, they use stock rather than cream, making them a lighter accompaniment that absorbs all the savoury cooking liquid beautifully.

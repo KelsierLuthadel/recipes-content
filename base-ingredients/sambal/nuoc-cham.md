@@ -1,5 +1,7 @@
 # Nuoc Cham
 
+**Prep Time:** 5 minutes
+
 ![Nuoc Cham](resources/nuoc-cham.jpg)
 
 *In Vietnam, this fiery-bright sauce serves the exact purpose that salt and pepper do in Western cuisine: it appears on every table as the fundamental condiment for seasoning dishes to individual taste. The name means "chilli sauce", simple, direct, and absolutely essential. Fresh lime juice provides brightness, fish sauce contributes umami depth, while chillies deliver both heat and flavor.*

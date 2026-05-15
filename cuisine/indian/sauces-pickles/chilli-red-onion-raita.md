@@ -5,6 +5,8 @@
 *Raita is a traditional Indian accompaniment and cooling agent to serve with hot curries. It is also delicious served as a dip with poppadums. This version celebrates the peppery bite of red onion and the heat of fresh green chilli, balanced by cooling yoghurt.*
 
 **Serves:** 4
+**Prep Time:** 10 minutes
+**Cook Time:** 2 minutes
 
 ## Overview
 This is raita with structural elements and textural interest. Cool yoghurt anchors the dish, while red onion provides peppy bite, toasted cumin adds earthiness, green chilli brings heat, and a garnish of thin onion slices adds visual appeal. This is more composed than simple cucumber raita, yet still maintains its essential cooling function.

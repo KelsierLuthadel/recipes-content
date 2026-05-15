@@ -1,5 +1,8 @@
 # Chinese Sesame Prawn Toast
 
+**Prep Time:** 15 minutes
+**Cook Time:** 4 minutes
+
 ![Chinese Sesame Prawn Toast](resources/sesame-prawn-toast.jpg)
 
 *Sesame prawn toast is a savoury snack which is often served in dim sum restaurants outside China.*

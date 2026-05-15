@@ -6,6 +6,8 @@
 *A technique-driven ragù using French and European cooking principles for maximum depth, richness, and complexity. Slow-cooked for 4 ½ hours with layered caramelisation at every stage.*
 
 **Serves:** 4-6
+**Prep Time:** 25 minutes
+**Cook Time:** 2 hours 34 minutes
 
 ## Overview
 This ragù blends deep browning, layered aromatics, and a long, gentle oven braise to create a sauce with rich umami, silky texture, and balanced brightness. A two-milk finish adds softness, while a quick red wine gastrique lifts the sauce at the end.

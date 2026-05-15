@@ -1,5 +1,7 @@
 # Peri-Peri Marinade
 
+**Prep Time:** 10 minutes
+
 ![Peri Peri](resources/peri-peri.jpg)
 
 *Peri-peri is a Portuguese-African chilli sauce that represents centuries of cultural fusion. The name comes from "piri piri," meaning "pepper pepper" in Swahili, arriving in Africa via Portuguese traders and settling into the culinary identity of South Africa, Mozambique, and Angola. This bright, acidic marinade sears seafood and poultry with fire-roasted flavor while remaining light enough for delicate proteins.*

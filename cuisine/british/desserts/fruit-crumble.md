@@ -5,6 +5,8 @@
 *Quince and ginger lend a wonderful fragrance to this crumble. You can vary the fruits according to the season - plums and blackberries are a good combination. Serve with crème anglaise or cream.*
 
 **Serves:** 8 - 10
+**Prep Time:** 10 minutes
+**Cook Time:** 1 hour 56 minutes
 
 ## Ingredients
 ### Filling

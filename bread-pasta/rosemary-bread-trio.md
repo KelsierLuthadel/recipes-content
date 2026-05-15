@@ -1,5 +1,8 @@
 # Rosemary Bread Trio
 
+**Prep Time:** 10 minutes
+**Cook Time:** 1 minutes
+
 ![Rosemary Bread Trio](resources/rose-buns.jpg)
 
 *These fragrant bread buns compliment soups perfectly, and are equally delicious with a generous spread of creamy butter. Where most people go wrong is not making the mixture wet enough and so the finished bread ends up too doughy and dry. Once the water is added, don't flood the work surface with flour as it will unbalance the recipe, instead, use olive oil if need be.*

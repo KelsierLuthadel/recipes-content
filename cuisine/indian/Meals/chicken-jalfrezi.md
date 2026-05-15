@@ -5,6 +5,8 @@
 *Jalfrezi curries are quick stir-fries that are usually served quite dry with lots of crunchy vegetables.*
 
 **Serves:** 4
+**Prep Time:** 20 minutes
+**Cook Time:** 2 minutes
 
 ## Overview
 A quick stir-fried curry with crunchy bell peppers, onion wedges and fresh tomato around tender chicken in a tomato-and-chilli sauce. Medium-hot, dry-ish (no cream), with the vegetables retaining bite. The dish that was invented to use up leftover Sunday roast meat with fresh aromatics.

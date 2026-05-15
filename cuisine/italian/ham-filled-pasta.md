@@ -5,6 +5,7 @@
 *Mezzelune con prosciutto e pomodori secchi, these divine half-moon filled pastas showcase the delicate dance between creamy ricotta and Pecorino cheese, enriched with cooked ham and sun-dried tomato. Fresh basil ties everything together in a package of pure Italian comfort.*
 
 **Serves:** 6
+**Prep Time:** 15 minutes
 
 ## Overview
 These tender, handmade pasta parcels are filled with a harmonious mixture of ricotta, cooked ham, sun-dried tomatoes, and basil, bound with Pecorino cheese. They're served simply with a warm oil infused with crispy chorizo. The key is making fresh, tender pasta and not overfilling; quality matters more than quantity.

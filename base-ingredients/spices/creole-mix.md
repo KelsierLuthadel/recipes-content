@@ -1,5 +1,7 @@
 # Creole Spice Mix
 
+**Prep Time:** 10 minutes
+
 ![Creole Spice Mix](resources/creole-mix.jpg)
 
 

@@ -1,5 +1,8 @@
 # Chicken Balti
 
+**Prep Time:** 10 minutes
+**Cook Time:** 3 minutes
+
 ![Chicken Balti](../resources/balti.png)
 
 ## Overview

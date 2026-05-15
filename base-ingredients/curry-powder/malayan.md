@@ -1,5 +1,7 @@
 # Malayan Curry Powder
 
+**Prep Time:** 15 minutes
+
 ![Malayan Curry Powder](resources/malayan-curry-powder.jpg)
 
 *This spice blend is excellent for poultry, especially chicken, and works beautifully with robust fish curries. The balance of warm spices with Sichuan pepper creates a distinctive regional character that separates Malaysian cooking from Indian curry traditions.*

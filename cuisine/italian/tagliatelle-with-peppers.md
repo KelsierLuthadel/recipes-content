@@ -5,6 +5,8 @@
 *Tagliatelle primavera, these tender ribbons of fresh pasta celebrate the summer garden with bright vegetables. Peppers deliver sweetness, courgettes provide delicate texture, red onions add depth, and chilli flakes contribute gentle heat. The vegetables are quickly seared to preserve their individual character and bright colors.*
 
 **Serves:** 4
+**Prep Time:** 15 minutes
+**Cook Time:** 7 minutes
 
 ## Overview
 This is vegetarian cooking at its most vibrant. Fresh vegetables, barely cooked to preserve their texture and color, toss with delicate egg tagliatelle in a simple, clean preparation. There's no cream here, just good olive oil and the vegetable juices mingling with warm pasta. The result is light, elegant, and completely satisfying.

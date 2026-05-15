@@ -1,5 +1,7 @@
 # Classic Curry Powder
 
+**Prep Time:** 10 minutes
+
 ![Curry Powder](resources/curry-powder.jpg)
 
 *This is the classic British-Indian curry powder, the foundation for generalized curry dishes. Roast, grind, and store to create the aromatic base that transforms a simple dish into something memorable.*

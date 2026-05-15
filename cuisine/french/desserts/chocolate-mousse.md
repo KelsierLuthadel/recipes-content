@@ -7,6 +7,7 @@
 *You will need 12 x 6 ½ cm metal rings about 3 ½ cm high.*
 
 **Serves:** 12
+**Prep Time:** 10 minutes
 
 ## Ingredients
 ### Berry compote

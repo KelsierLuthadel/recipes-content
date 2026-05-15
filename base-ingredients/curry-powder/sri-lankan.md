@@ -1,5 +1,8 @@
 # Sri Lankan Curry Powder
 
+**Prep Time:** 10 minutes
+**Cook Time:** 1 minutes
+
 ![Sri Lankan](resources/sri-lankan.jpg)
 
 *This distinctly different curry powder reflects Sri Lankan cooking traditions where spices are roasted separately to prevent burning, and presentation with vibrant colors matters as much as flavor. The result is a rich, dark curry powder ideal for all dishes, poultry, meat, and vegetables, with aromatic warmth rather than excessive heat.*

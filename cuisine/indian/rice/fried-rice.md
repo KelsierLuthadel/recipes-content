@@ -5,6 +5,7 @@
 *This is a light, aromatic fried rice perfumed with fresh lemon and garlic. The technique is simple but precise: cold cooked rice, hot oil, fragrant aromatics, and a quick toss. You can get really creative with fried rice; for onion fried rice, simply fry some onion in the oil then stir in the cold, cooked rice.*
 
 **Serves:** 2
+**Prep Time:** 10 minutes
 
 ## Overview
 This is the quickest rice dish in the Indian repertoire. Cold cooked basmati rice, already separated grain-by-grain, meets hot oil infused with garlic and ginger. The heat separates the grains further and coats them with flavorful aromatics, while fresh lemon juice adds brightness and acidity. Chives provide a fresh finishing touch. This is best served immediately while still warm.

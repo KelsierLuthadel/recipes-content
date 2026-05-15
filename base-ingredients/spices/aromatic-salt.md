@@ -1,5 +1,7 @@
 # Aromatic Salt (Two Versions)
 
+**Prep Time:** 10 minutes
+
 ![Aromatic Salt](resources/aromatic-salt.jpg)
 
 *A lot of Balti recipes call for aromatic salt, which is a blend of spices with sea salt. Ordinarily plain salt can be used in its place, but the subtle spicing adds delicacy and nuance to a recipe. Two versions are provided: one light and aromatic, one spicier with toasted nuts.*

@@ -5,6 +5,8 @@
 *This is a delightful mille-feuille, light as a feather and filled with delectable vanilla cream and strawberries. The icing sugar glaze gives it a beautiful sheen.*
 
 **Serves:** 6
+**Prep Time:** 10 minutes
+**Cook Time:** 11 minutes
 
 ## Ingredients
 - 240 grams [puff pastry](../../baking/pastry/puff-pastry.md)

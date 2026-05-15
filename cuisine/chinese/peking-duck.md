@@ -6,6 +6,7 @@
 The Chinese revere duck as a symbol of wholesomeness and fidelity. With Peking duck, Chinese cooks mastered the art of maximising the duck's rich, succulent flesh while minimising bone and fat. This simplified method produces similar results to traditional restaurant preparations. While the authentic version involves air-pumping and wood-burning ovens, this approach creates shatteringly crisp skin through a honey-syrup glaze and extended drying.
 
 **Serves:** 4-6
+**Cook Time:** 2 minutes
 
 ## Ingredients
 

@@ -1,5 +1,7 @@
 # Fajita Marinade
 
+**Prep Time:** 15 minutes
+
 ![Fajita Marinade](resources/fajita.jpg)
 
 *This bright, citrus-forward marinade captures the essence of Tex-Mex outdoor cooking: the simplicity of lime and garlic balanced with chilli heat and cumin earthiness. "Fajita" comes from the Spanish word "fajita", meaning "little belt", referring to the thin strips of meat that cook quickly in a hot skillet, absorbed in the flavors of this essential marinade.*

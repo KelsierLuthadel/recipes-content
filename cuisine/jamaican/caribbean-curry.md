@@ -6,6 +6,7 @@
 In many Caribbean stew dishes there is an initial step of burning sugar in oil which is used to brown the meat in. This adds a very unique sweetness to the stews from this region and this sweetness paired with the unmistakable flavour (and heat) from the wonderful scotch bonnet chilli is simply astounding. This curry uses curry powder for a fragrant and delicious result that captures the essence of Caribbean cooking.
 
 **Serves:** 4
+**Prep Time:** 10 minutes
 
 ## Ingredients
 

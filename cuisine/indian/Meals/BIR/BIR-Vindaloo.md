@@ -1,5 +1,8 @@
 # Vindaloo (Restaurant-Style)
 
+**Prep Time:** 15 minutes
+**Cook Time:** 4 minutes
+
 ![Vindaloo (Restaurant-Style)](resources/BIR-Vindaloo.jpg)
 
 ## Overview

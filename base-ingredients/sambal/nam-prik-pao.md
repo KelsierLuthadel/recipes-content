@@ -1,5 +1,8 @@
 # Nam Prik Pao
 
+**Prep Time:** 10 minutes
+**Cook Time:** 12 minutes
+
 ![Nam Prik Pao](resources/nam-prik-pao.jpg)
 
 *This universal Thai sauce appears on nearly every Thai table as a condiment, dip, and flavor agent. The name "nam prik" means chilli sauce in Thai, while "pao" refers to roasting, indicating the charred, complex flavors from toasted shrimp paste and the pounded-to-paste technique. This is Thailand's answer to sambal: powerful, umami-forward, and absolutely essential.*

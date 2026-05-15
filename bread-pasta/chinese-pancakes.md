@@ -1,5 +1,8 @@
 # Chinese Pancakes
 
+**Prep Time:** 5 minutes
+**Cook Time:** 4 minutes
+
 ![Chinese Pancakes](resources/chinese-pancakes.jpg)
 
 *These thin, crispy-edged pancakes are made by layering two thin dough discs with sesame oil between them, creating steam pockets that allow them to separate after cooking. Serve as a vehicle for soups, curries, or stir-fries, they're sophisticated yet simple.*

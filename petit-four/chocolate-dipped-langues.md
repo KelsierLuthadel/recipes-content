@@ -1,5 +1,7 @@
 # Chocolate-Dipped Langues de Chat
 
+**Prep Time:** 5 minutes
+
 ![Chocolate-Dipped Langues de Chat](resources/Langues-de-chat.jpg)
 
 *These delicate, tongue-shaped butter cookies piped from a paté à langue batter are baked until golden and crisp, then half-coated in glossy dark chocolate. A classic petit four served alongside coffee after formal dinners, or paired with fruit desserts and ice cream.*

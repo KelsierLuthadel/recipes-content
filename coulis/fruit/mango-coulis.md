@@ -5,6 +5,7 @@
 *This fragrant coulis can be served topped with soft poached meringues, as a variation of the classic floating islands, which uses a base of crème anglaise.*
 
 **Serves:** 6
+**Prep Time:** 10 minutes
 
 ## Overview
 A luxurious, silky mango sauce infused with delicate saffron and brightened by fresh lemon. The golden color and exotic flavor pair beautifully with light desserts like meringues, ice cream, or fruit salads. Elegant enough for fine dining yet simple enough for everyday elegance.

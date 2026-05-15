@@ -1,5 +1,7 @@
 # Green Balti Masala Paste
 
+**Prep Time:** 15 minutes
+
 ![Green Masala Paste](resources/green-masala.jpg)
 
 *This vivid green curry paste draws its color from fresh coriander and mint rather than green chillies. It's beautiful, aromatic, and distinctly different from Thai green pastes, with an Indian spice foundation and British-Indian preservation technique.*

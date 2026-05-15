@@ -5,6 +5,7 @@
 *These are delicious eaten within 24 hours of making, with the plum juice slightly oozing from them. You can also substitute the plums for fresh stoned cherries.*
 
 **Serves:** 4
+**Cook Time:** 1 hour
 
 ## Ingredients
 - 300 grams plums

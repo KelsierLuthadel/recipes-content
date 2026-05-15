@@ -1,5 +1,7 @@
 # Parmesan Vinaigrette
 
+**Prep Time:** 10 minutes
+
 ![Parmesan Vinaigrette](resources/parmesan.png)
 
 *This creamy, pungent vinaigrette combines Champagne vinegar's delicate acidity with double cream richness, Parmesan's nutty depth, and sharp mustard powder. It pairs beautifully with raw chicory, tender spinach, or sliced mushrooms.*

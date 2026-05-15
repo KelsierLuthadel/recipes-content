@@ -3,6 +3,7 @@
 ![Chicken Chasni](resources/chicken-chasni.png)
 
 **Serves:** 4
+**Prep Time:** 10 minutes
 
 ## Overview
 The Glaswegian curry-house favourite: a pink-orange sweet-and-savoury sauce built on tomato puree, mango chutney, yogurt and double cream. Mild, sweet, faintly tangy. Not authentic to any subcontinental region, but a defining BIR plate in Scotland.

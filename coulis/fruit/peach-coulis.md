@@ -5,6 +5,7 @@
 *This delectable sauce is superb served with slices of toasted brioche or with a panna cotta.*
 
 **Serves:** 6
+**Cook Time:** 1 minutes
 
 ## Overview
 A fragrant, silky peach sauce infused with floral lavender honey. The result is a sophisticated sauce that's naturally sweet yet refined, perfect for elegant plated desserts. The gentle poaching creates a smooth purée that's both comforting and impressive.

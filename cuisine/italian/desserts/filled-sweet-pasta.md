@@ -7,6 +7,7 @@
 *This is a classic Neapolitan dessert that is usually eaten around Easter time can be used either as a dessert or as a petit fours.*
 
 **Serves:** 6 - 8
+**Prep Time:** 10 minutes
 
 ## Ingredients
 ### For the sweet pasta

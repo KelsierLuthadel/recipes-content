@@ -6,6 +6,7 @@
 Ginger is the Chinese cook's answer to lemon in European fish cookery. In this elegant preparation, fresh ginger imparts a subtle fragrance that enhances rather than masks the delicate flavour of fish. The simplicity of the technique belies the sophistication of the result, the interplay between crispy exterior and tender flesh, balanced with aromatic sauce.
 
 **Serves:** 4
+**Prep Time:** 10 minutes
 
 ## Ingredients
 

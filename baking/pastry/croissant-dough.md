@@ -5,6 +5,7 @@
 *The dough for this needs to be made 10-12 hours in advance.*
 
 **Serves:** 16
+**Prep Time:** 10 minutes
 
 ## Overview
 Croissant dough is a laminated dough that requires patience and precise technique to achieve its characteristic flaky layers. The interplay between enriched dough and butter layers, combined with careful folding and resting, creates the golden, buttery texture that defines a perfect croissant. This dough demands attention to temperature control and timing throughout its preparation.

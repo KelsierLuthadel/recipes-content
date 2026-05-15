@@ -5,6 +5,7 @@
 *Cucumber raita is a wonderfully refreshing dish to serve with anything spicy.*
 
 **Serves:** 4
+**Prep Time:** 10 minutes
 
 ## Overview
 Cucumber raita is a cool, refreshing yoghurt-based condiment made with finely diced cucumber, cumin, and fresh green chilli. It is the classic cooling accompaniment to spicy Indian dishes, providing a soothing contrast to heat.

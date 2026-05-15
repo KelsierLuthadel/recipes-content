@@ -5,6 +5,7 @@
 *Tagliata takes its name from tagliare, meaning 'to cut' in Italian. Perfectly seared steaks are sliced and served with peppery rocket and shavings of Parmesan, finished with a fragrant rosemary and lemon oil. This is simple, elegant, and demands quality ingredients and technique.*
 
 **Serves:** 4
+**Prep Time:** 10 minutes
 
 ## Overview
 Beef Tagliata is an elegant simplicity itself: thick-cut sirloin seared until a golden crust forms, rested to retain its juices, then sliced thin. The accompanying rosemary-infused oil with lemon zest and juice creates a sophisticated dressing that adds depth without heaviness, while peppery rocket and Parmesan shavings provide textural contrast. This is a dish that celebrates the quality of the beef and the importance of proper technique.

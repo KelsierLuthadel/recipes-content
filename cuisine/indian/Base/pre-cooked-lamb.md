@@ -1,5 +1,7 @@
 # Pre-Cooked Lamb
 
+**Prep Time:** 15 minutes
+
 ![Pre-Cooked Lamb](resources/pre-cooked-lamb.png)
 
 *Pre-cooked lamb recipe for use in BIR curries*

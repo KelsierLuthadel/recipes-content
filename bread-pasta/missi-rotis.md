@@ -1,5 +1,8 @@
 # Missi Rotis
 
+**Prep Time:** 15 minutes
+**Cook Time:** 2 minutes
+
 ![Missi Rotis](resources/missi-rotis.jpg)
 
 *These savory Indian flatbreads are made from gram flour and wholemeal flour, flavored with fresh herbs and spices. They're quick to make and pair beautifully with soups or curries.*

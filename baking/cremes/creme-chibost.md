@@ -5,6 +5,7 @@
 *This crème brings together the richness of crème pâtissière with the lightness of Italian meringue, creating an exceptionally light and elegant cream.*
 
 **Serves:** 1.3kg
+**Prep Time:** 10 minutes
 
 ## Overview
 Crème chiboust is a sophisticated cream that marries the velvety texture of custard with the airy lightness of Italian meringue. The addition of Grand Marnier introduces a subtle floral note that elevates desserts. This cream is best used immediately after preparation to preserve its delicate, mousse-like consistency.

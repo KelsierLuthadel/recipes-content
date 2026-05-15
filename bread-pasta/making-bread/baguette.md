@@ -1,5 +1,7 @@
 # Baguette Shaping (Classic Cylindrical Roll Method)
 
+**Cook Time:** 1 minutes
+
 ![Baguette Step 1](resources/baguette-1.jpg)
 
 *The baguette shape is perhaps the most iconic French bread form: a long, thin cylinder with tapered ends and characteristic diagonal slashes across the top. The traditional method uses envelope-folding (important for gluten development) followed by careful rolling to create the long, even cylinder. The result is a bread of elegant proportions and distinctive crust pattern.*

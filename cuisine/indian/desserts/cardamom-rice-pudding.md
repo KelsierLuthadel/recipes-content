@@ -5,6 +5,8 @@
 *These individual rice puddings are soft, gooey in the middle and delicate. They can be served with mandarin contributing a refreshing hint of citrus.*
 
 **Serves:** 8
+**Prep Time:** 10 minutes
+**Cook Time:** 2 minutes
 
 ## Ingredients
 - 750 ml milk

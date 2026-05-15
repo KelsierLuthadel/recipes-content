@@ -1,5 +1,8 @@
 # Samosas
 
+**Prep Time:** 15 minutes
+**Cook Time:** 1 minutes
+
 ![Samosas](resources/samosa.jpg)
 
 *These popular golden stuffed parcels can be filled with a variety of vegetable or meat mixtures. Here they are stuffed with spiced minced chicken.*

@@ -5,6 +5,7 @@
 *The archetypal Italian-American marriage of tender beef meatballs enriched with Parmesan, lemon zest, and fresh herbs, then simmered in a wine-dark sauce built from stock and passata. These are substantial, satisfying meatballs meant for families and celebration tables.*
 
 **Serves:** 4
+**Prep Time:** 20 minutes
 
 ## Overview
 Beef meatballs represent the heart of Italian home cooking, simple ingredients transformed through technique into something greater than their parts. Lemon zest and fresh herbs brighten the earthy beef, while coating in seasoned flour creates a golden crust that protects the tender interior. A wine-enriched sauce catches every drop of savory liquid. This is pure comfort.

@@ -5,6 +5,8 @@
 *This classic Indian vegetarian dish of potatoes is slow cooked in a richly flavoured curry sauce with fresh chillies for an added kick.*
 
 **Serves:** 4-6
+**Prep Time:** 15 minutes
+**Cook Time:** 7 minutes
 
 ## Overview
 Bombay Potatoes is comfort food at its finest. Small potatoes are partially cooked, then coated in a richly spiced oil infused with seeds and aromatics. Some potatoes are mashed to create a creamy base, while others remain whole for texture. The result is a warm, golden, deeply spiced side dish that's utterly satisfying. This is a vegetarian staple of Indian home cooking.

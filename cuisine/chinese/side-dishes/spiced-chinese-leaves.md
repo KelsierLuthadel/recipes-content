@@ -6,6 +6,8 @@
 *
 
 **Serves:**  2 - 4
+**Prep Time:** 10 minutes
+**Cook Time:** 1 minutes
 
 ## Overview
 Spiced Chinese leaves is a quick stir-fried side dish that transforms the mild, delicate flavour of Chinese leaves with a robust sauce of ginger, garlic, chilli, soy sauce, and sesame oil. The high-heat cooking method brings out a savoury depth that makes it a perfect accompaniment to Asian-style mains.

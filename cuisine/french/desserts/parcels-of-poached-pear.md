@@ -5,6 +5,8 @@
 *Crisp on the outside, meltingly soft within, these hot little parcels are delectable. They can be prepared several hours in advance, up to the stage where you cook them, and the pears can be poached a day ahead.*
 
 **Serves:** 6
+**Prep Time:** 10 minutes
+**Cook Time:** 11 minutes
 
 ## Ingredients
 - 500 grams caster sugar

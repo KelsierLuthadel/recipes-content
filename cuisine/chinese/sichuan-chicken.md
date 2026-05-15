@@ -6,6 +6,7 @@
 This straightforward Sichuan preparation showcases the region's bold use of chillies and spices. The technique is simple: season, rest, and cook in layers, building flavour as you go. Oyster sauce adds depth, while seven spices (chilli power, Sichuan pepper, salt, garlic, ginger, pepper) create a full-bodied dish.
 
 **Serves:** 4
+**Prep Time:** 10 minutes
 
 ## Ingredients
 

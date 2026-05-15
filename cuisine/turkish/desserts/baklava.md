@@ -5,6 +5,7 @@
 *This sweet pastry made from layers of filo pastry, filled with chopped nuts and honey is a typical dish of the former Ottoman empire.*
 
 **Serves:** 8
+**Prep Time:** 5 minutes
 
 ## Ingredients
 - 16 sheets of [filo](../../baking/pastry/filo-pastry.md)

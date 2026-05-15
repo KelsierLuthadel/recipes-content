@@ -5,6 +5,8 @@
 *This humble yet deeply satisfying stew is a cornerstone of Irish cooking: lamb, potatoes, and onions combine in the simplest way to create something far greater than the sum of its parts. It requires patience but not precision, comfort food at its finest.*
 
 **Serves:** 4
+**Prep Time:** 20 minutes
+**Cook Time:** 36 minutes
 
 ## Overview
 Irish stew is the epitome of rustic, peasant cooking elevated to comfort food status. Middle neck of lamb simmers gently with potatoes, onions, carrots, and cabbage in a light broth, with the potatoes gradually breaking down to thicken the sauce naturally. The result is a one-pot wonder that's wholesome, deeply flavorful, and warming, the kind of dish that feeds both body and soul on cold days.

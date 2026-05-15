@@ -1,5 +1,8 @@
 # Pork, apricot and pistachio stuffing
 
+**Prep Time:** 15 minutes
+**Cook Time:** 1 minutes
+
 ![Pork, apricot and pistachio stuffing](resources/pork-apricot-stuffing.jpg)
 
 *This delightful warm stuffing goes particularly well with roasted game such as chicken, poussin or turkey. This recipe includes stuffing for the bird, plus 20 individual stuffing balls.*

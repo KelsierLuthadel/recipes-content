@@ -5,6 +5,8 @@
 *Authentic Indian pasandas can be spicy or mild, sweet and/or savoury. What makes them ‘pasanda’ has nothing to do with the sauces, which can vary greatly, but with the use of flattened meat, tenderized with a meat mallet before being added to the pan.*
 
 **Serves:** 4
+**Prep Time:** 10 minutes
+**Cook Time:** 1 minutes
 
 ## Overview
 A mild, creamy curry built around flattened, tenderised chicken (the meat-mallet step is what makes it pasanda) in a yogurt-and-almond sauce finished with cream. Gently spiced with cardamom and mace; faintly sweet. A Mughal-court dish in origin, domesticated in the BIR canon.

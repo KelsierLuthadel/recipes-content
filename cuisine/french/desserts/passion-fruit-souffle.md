@@ -3,6 +3,8 @@
 ![Passion fruit and kiwi soufflé](resources/passion-fruit-souffle.jpg)
 
 **Serves:** 10
+**Prep Time:** 10 minutes
+**Cook Time:** 9 minutes
 
 ## Ingredients
 - 70 grams butter (softened)

@@ -6,6 +6,8 @@
 Curry blends beautifully with chicken when prepared in the style of southern Chinese cuisine, as a light, subtle sauce that enhances rather than overpowers the delicate chicken meat. This recipe balances spice with refinement, proving that curry in Chinese cooking is more elegant whisper than aggressive shout.
 
 **Serves:** 4
+**Prep Time:** 10 minutes
+**Cook Time:** 5 minutes
 
 ## Ingredients
 

@@ -5,6 +5,8 @@
 *Fettuccine con pollo e Dolcelatte, a wonderful marriage of tender chicken, creamy blue cheese, and wine-enriched sauce. The Dolcelatte's sweetness and creaminess provide surprising depth, complemented by fresh chives and white wine.*
 
 **Serves:** 4
+**Prep Time:** 10 minutes
+**Cook Time:** 4 minutes
 
 ## Overview
 This satisfying sauce combines golden-fried chicken breast strips with melting Dolcelatte cheese (a creamy Italian blue), double cream, and crisp white wine. The result is a rich, sophisticated sauce that clings to fresh pasta. Fresh chives bridge all the flavors with their subtle onion notes. (Gorgonzola can substitute if Dolcelatte is unavailable.)

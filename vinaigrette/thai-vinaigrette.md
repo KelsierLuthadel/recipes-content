@@ -1,5 +1,7 @@
 # Thai Vinaigrette
 
+**Prep Time:** 10 minutes
+
 ![Thai Vinaigrette](resources/thai.png)
 
 *This aromatic Southeast Asian dressing combines lemongrass, fresh coriander, and traditional fish sauce with light rice wine vinegar. Perfect for noodle salads, vegetable preparations, or as a dipping sauce for spring rolls and grilled meats.*

@@ -5,6 +5,7 @@
 *A light and luxurious cream combining the structure of crème pâtissière with the richness of butter, creating an exceptionally smooth and creamy filling.*
 
 **Serves:** 1.3kg
+**Prep Time:** 10 minutes
 
 ## Overview
 Crème Mousseline is an elevated variation of crème au beurre, incorporating cooked custard with butter to create a lighter, more delicate texture. The flavoring options make it endlessly adaptable, allowing pastry chefs to craft custom creams for specific dessert applications. Its velvety smoothness and rich flavor profile make it ideal for festive and sophisticated presentations.

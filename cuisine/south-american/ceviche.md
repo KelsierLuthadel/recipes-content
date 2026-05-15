@@ -7,6 +7,7 @@
 *Make the fish and seafood used for this dish is as fresh as possible.*
 
 **Serves:** 6
+**Prep Time:** 15 minutes
 
 ## Overview
 Ceviche is a vibrant, no-cook appetizer in which fresh seafood is "cooked" by the acidity of lime juice, taking on a firm, opaque texture while retaining a wonderfully fresh flavour. The addition of mango, citrus segments, and fresh chilli creates a bright, tropical balance of sweet, sharp, and heat.

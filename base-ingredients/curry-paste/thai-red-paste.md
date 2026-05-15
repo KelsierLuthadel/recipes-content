@@ -1,5 +1,8 @@
 # Thai Red Curry Paste (Kruang Kaeng Dang)
 
+**Prep Time:** 15 minutes
+**Cook Time:** 1 minutes
+
 ![Thai Red Curry Paste](resources/thai-red.jpg)
 
 *This wonderful classic curry paste from Thailand has an amazing fragrant characteristic that works beautifully with coconut-based curries. The combination of fresh aromatics, toasted spices, and shrimp paste creates complex depth.*

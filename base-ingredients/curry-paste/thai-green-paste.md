@@ -1,5 +1,7 @@
 # Thai Green Curry Paste (Kruang Kaeng Khiem Wan)
 
+**Prep Time:** 20 minutes
+
 ![Thai Green Curry Paste](resources/thai-green.jpg)
 
 *Don't let the pale green color fool you, a green curry can be devastatingly hot if prepared the traditional way. Fresh green chillies and herbs create brightness that builds heat throughout the meal.*

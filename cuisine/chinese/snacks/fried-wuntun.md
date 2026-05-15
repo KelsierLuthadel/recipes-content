@@ -1,5 +1,7 @@
 # Fried wuntun
 
+**Prep Time:** 15 minutes
+
 ![Fried wuntun](resources/wonton.jpg)
 
 *These delicious deep fried crisp parcels are the perfect accompaniment to pre-dinner drinks.*

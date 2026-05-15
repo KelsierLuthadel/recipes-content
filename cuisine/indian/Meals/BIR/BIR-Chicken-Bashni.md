@@ -1,5 +1,7 @@
 # Chicken Chasni
 
+**Prep Time:** 10 minutes
+
 ![Chicken Chasni](../resources/chicken-chasni.png)
 
 ## Overview

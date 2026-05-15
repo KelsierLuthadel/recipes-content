@@ -1,5 +1,7 @@
 # Naan Bread
 
+**Prep Time:** 10 minutes
+
 ![Naan](resources/naan.jpg)
 
 *The original version of the naan and the oven it is cooked in, the tandoor, were brought to the North-West Frontier by the ancient Persians, who called them respectively nane and tonir. So they are a traditional staple food for Baltis and Kashmiris. The transition to the Balti house was a natural progression. As with the rotis, naan can be quite large. This method uses the grill and it produces a huge, light, fluffy, slightly sweet, and chewy, mouth-watering bread.*

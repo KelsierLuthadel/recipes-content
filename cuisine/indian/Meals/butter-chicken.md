@@ -7,6 +7,7 @@
 
 
 **Serves:** 4
+**Prep Time:** 15 minutes
 
 ## Overview
 The BIR icon: tandoori-grilled chicken finished in a velvety tomato-onion sauce enriched with double cream, butter and a hit of garam masala at the end. Mildly spiced, lightly sweet, deeply savoury. The sauce is built on a paste of cooked onion, tomato and cashews / almonds, finished off-heat with cold butter for the signature gloss.

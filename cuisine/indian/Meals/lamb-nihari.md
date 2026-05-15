@@ -5,6 +5,7 @@
 *A mild sauce that has a delicious flavour that when mixed with tender lamb shanks. Lamb nihari is a fantastic all-round option for entertaining. Your guests can add chopped green chillies, lemon juice, julienned ginger and fresh coriander (cilantro) to taste at the table. If you want the curry to be fiery hot, add loads of chillies*
 
 **Serves:** 4
+**Prep Time:** 20 minutes
 
 ## Overview
 The Mughal-Pakistani slow-cooked lamb shank stew: meat braised for hours in a spice-thick gravy of ginger, garlic, ground spices and a wheat-flour slurry that gives the broth its characteristic velvety body. Traditionally a Friday-morning dish in Lahore. Mild compared to other curries; the flavour is deep rather than hot.

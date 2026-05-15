@@ -5,6 +5,7 @@
 *Honey adds a lovely dimension, but if you are concerned about upsetting the purity of the flavour, use sugar instead.*
 
 **Serves:** 6
+**Prep Time:** 10 minutes
 
 ## Ingredients
 - 1 ½ sheets leaf gelatine

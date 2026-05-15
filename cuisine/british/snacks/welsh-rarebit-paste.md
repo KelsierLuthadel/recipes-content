@@ -5,6 +5,7 @@
 *This succulent, mouth watering rarebit is perfect spread on lightly buttered toast and then cooked under a hot grill for a few minutes, until browned and bubbling. It is also delightful spread over smoked haddock, and coloured under a grill, the haddock will then need to be finished in a pre-heated oven (180°C) for 3 - 4 minutes.*
 
 **Serves:** 16
+**Prep Time:** 10 minutes
 
 ## Overview
 A classic British cheese sauce, creamy, tangy, and rich with mature Cheddar, that's baked until bubbling. While traditionally spooned over toast, this versatile preparation also works beautifully over smoked haddock or vegetables. The silky sauce coating crispy bread is pure comfort food elevated to bistro standards.

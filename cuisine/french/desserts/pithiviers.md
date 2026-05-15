@@ -3,6 +3,8 @@
 ![Pithiviers](resources/pithivier.jpg)
 
 **Serves:** 8
+**Prep Time:** 5 minutes
+**Cook Time:** 26 minutes
 
 ## Ingredients
 - 500 grams [feuilletage](../../baking/pastry/puff-pastry.md) (classic puff pastry)

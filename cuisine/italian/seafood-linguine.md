@@ -5,6 +5,8 @@
 *Linguine del mare, this classic Italian recipe guarantees minimum effort yet maximum satisfaction. All the flavors of the sea meld together in a light wine sauce. The key is using absolutely fresh seafood and not overcooking it; a moment too long and prawns become rubbery, squid tough, and shellfish mushy.*
 
 **Serves:** 4
+**Prep Time:** 15 minutes
+**Cook Time:** 4 minutes
 
 ## Overview
 This is seafood in its purest form: clams, mussels, prawns, and squid cooked simply in wine and tomato, finished with fresh herbs and pasta. Each component is delicate and must be treated with care. The sauce is light and elegant, allowing the briny sweetness of the shellfish to shine. This is restaurant-quality treatment of premium ingredients.

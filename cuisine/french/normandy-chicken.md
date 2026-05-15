@@ -5,6 +5,8 @@
 *This classic Norman dish pairs tender chicken with the region's signature ingredients: dry cider, apples, and rich crème fraîche. The result is a delicate, slightly sweet sauce that celebrates simplicity and regional tradition.*
 
 **Serves:** 6-8
+**Prep Time:** 15 minutes
+**Cook Time:** 12 minutes
 
 ## Overview
 Normandy Chicken showcases the bounty of France's northern apple region, combining succulent chicken legs braised in dry cider with caramelized apples, creamy crème fraîche, and aromatic tarragon. The sauce is silky-smooth without being heavy, balanced between the slight tartness of cider and the sweetness of apples, finished with a hint of Dijon mustard that adds complexity without overpowering.

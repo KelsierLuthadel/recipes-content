@@ -5,6 +5,8 @@
 *If you like chillies, you'll love these potatoes! The red chillies add colour, flavour and fire to the finished dish, which is fragranced with warming spices.*
 
 **Serves:** 4
+**Prep Time:** 15 minutes
+**Cook Time:** 1 minutes
 
 ## Overview
 Potatoes with red chillies is a vibrant, spice-forward side dish in which par-boiled new potatoes are tossed with toasted whole spices, golden onion, and fiery fresh red chillies. The combination of cumin, fennel, and coriander seeds creates a fragrant base that infuses the potatoes with warmth and depth. Fresh coriander stirred through and used as a garnish adds a bright, herbal finish.

@@ -5,6 +5,7 @@
 *Red food colouring powder is often added to chicken tikka to give it the appearance of being spicy hot.*
 
 **Serves:** 4
+**Prep Time:** 5 minutes
 
 ## Overview
 Tandoori Chicken Tikka is restaurant-quality barbecue, sophisticated yet accessible. The chicken undergoes a two-stage marinade: first, a quick acid and spice bath to begin tenderizing; second, a rich yoghurt-based marinade infused with warming spices, fresh herbs, and umami-rich Parmesan. The extended marination (up to 48 hours) allows deep flavor penetration and tenderness. The result is succulent, fragrant, lightly charred chicken with a burnished exterior and a creamy, spiced crust. Serve with lemon and fresh coriander.

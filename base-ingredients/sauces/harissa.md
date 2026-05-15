@@ -1,5 +1,7 @@
 # Harissa
 
+**Prep Time:** 10 minutes
+
 ![Harissa](resources/harissa.jpg)
 
 *Harissa is a North African spice-and-chilli paste with complex, layered heat, fruity from the chillies, aromatic from toasted spices, and sharp from garlic. It's a classic condiment that adds depth to soups, stews, marinades, and yogurt.*

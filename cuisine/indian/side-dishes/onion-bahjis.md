@@ -1,5 +1,8 @@
 # Onion Bhajis
 
+**Prep Time:** 10 minutes
+**Cook Time:** 1 minutes
+
 ![Onion Bhajis](resources/onionbhajji.jpg)
 
 *A popular accompaniment to a takeaway curry, onion bhajis are irresistible. When they are freshly made and served with cucumber and yoghurt relish, they make the perfect vegetarian snack food.*

@@ -5,6 +5,8 @@
 *Sliced onions served in a red sauce of tomato and spices. This fresh, cold chutney provides sharp, briny contrast to curries and grilled meats. Chilling the onions beforehand makes them crisp and refreshing; the spiced tomato base brings richness.*
 
 **Serves:** 4-6
+**Prep Time:** 10 minutes
+**Cook Time:** 4 minutes
 
 ## Overview
 This is simplicity and technique combined. Paper-thin raw onion slices, chilled until crisp, meet a savory tomato-spice mixture for a fresh, sharp condiment. The interplay between cool, raw onions and warm, spiced sauce creates complexity. This is especially good alongside tandoori meats and grilled foods.

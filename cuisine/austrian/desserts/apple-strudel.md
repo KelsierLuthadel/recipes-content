@@ -5,6 +5,8 @@
 *This classic German dessert works especially well when the pastry is so thin it is nearly transparent.*
 
 **Serves:** 6
+**Prep Time:** 10 minutes
+**Cook Time:** 1 minutes
 
 ## Ingredients
 - 1 sheet of [filo](../../baking/pastry/filo-pastry.md) (55 x 20 cm)

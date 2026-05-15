@@ -1,5 +1,7 @@
 # Taco Spice Mix
 
+**Prep Time:** 10 minutes
+
 ![Taco Spice Mix](resources/taco-spice.jpg)
 
 *The seasoning behind the Tex-Mex taco - earthy ground cumin, sweet and smoked paprika, garlic and onion powder, a hit of chilli and a small amount of oregano for the herbal back-note. Mixed dry, kept in a jar, and dosed at about half a tablespoon per 100 g of mince. A homemade blend beats the shop sachets because you control the salt and the heat level, and the spices stay fresh.*

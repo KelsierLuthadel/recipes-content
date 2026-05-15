@@ -1,5 +1,7 @@
 # Cajun Spice Mix
 
+**Prep Time:** 10 minutes
+
 ![Cajun Spice Mix](resources/cajun-spice-mix.jpg)
 
 *This iconic Cajun spice mix is famous in Louisiana classics such as gumbo and jambalaya. It also works beautifully in stews, thick soups, blackened fish, and any dish requiring bold, earthy, warming spices.*

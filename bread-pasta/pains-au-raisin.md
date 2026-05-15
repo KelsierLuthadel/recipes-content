@@ -1,5 +1,7 @@
 # Pains au raisins
 
+**Prep Time:** 5 minutes
+
 ![Pains au raisins](resources/pains-aux-raisin.jpg)
 
 *These classic French breakfast pastries should be served with a steaming cup of hot chocolate.*

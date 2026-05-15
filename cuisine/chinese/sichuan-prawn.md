@@ -6,6 +6,8 @@
 Sichuan cooking is becoming increasingly popular in Western restaurants, and this is one of the best-known dishes from that region. Quick and easy to execute, it makes a wholesome and delicious meal when served with stir-fried vegetables and steamed rice. The vibrant sauce perfectly complements the firm texture of prawns.
 
 **Serves:** 4
+**Prep Time:** 15 minutes
+**Cook Time:** 1 minutes
 
 ## Ingredients
 

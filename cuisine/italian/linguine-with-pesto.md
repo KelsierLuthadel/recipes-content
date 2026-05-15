@@ -5,6 +5,7 @@
 *Linguine al pesto Genovese, one of Italy's most iconic sauces paired with delicate linguine. This is summer on a plate: raw basil, toasted pine nuts, fruity olive oil, and aged Parmesan. Absolutely nothing more is needed. Serve with fresh warm bread and crisp white wine.*
 
 **Serves:** 4
+**Prep Time:** 10 minutes
 
 ## Overview
 True pesto is made by hand, not blended, but a food processor creates acceptable results efficiently. The beauty of pesto lies in the balance: each ingredient must be the highest quality. The basil must be fresh, the pine nuts toasted, the oil fruity but not aggressive, the Parmesan aged. Together they create something transcendent.

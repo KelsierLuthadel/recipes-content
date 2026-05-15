@@ -1,5 +1,7 @@
 # Tomato Vinaigrette
 
+**Prep Time:** 5 minutes
+
 ![Tomato Vinaigrette](resources/tomato.png)
 
 *This bright, summer-forward dressing is made from fresh tomato juice balanced with sherry vinegar and enriched with delicate olive oil. Its fresh basil finish and subtle heat make it ideal for pasta salads, warm vegetable preparations, and tomato-forward dishes.*

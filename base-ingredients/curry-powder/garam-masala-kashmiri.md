@@ -1,5 +1,7 @@
 # Garam Masala (Kashmiri)
 
+**Prep Time:** 10 minutes
+
 ![Garam Masala](resources/garam-masala.jpg)
 
 *Garam masala is one of the keys to Northern Indian, Moghul, and Pakistani cooking. This Kashmiri version emphasizes fragrance over fire, featuring rose petals and optional saffron for luxurious warmth. Garam means "hot" and masala means "spices", this one heats from the inside out.*

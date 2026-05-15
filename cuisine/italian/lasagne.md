@@ -7,6 +7,8 @@
 *This is possibly one of the best lasagne recipes, the addition of the pesto compliments the béchamel sauce perfectly. Do not feel tempted to use shop bought lasagne sheets for this dish, take the time to make your own because they will melt in your mouth, and make this lasagne stand out above the rest and taste divine. Buon appetito!*
 
 **Serves:** 6-8
+**Prep Time:** 25 minutes
+**Cook Time:** 4 hours
 
 ## Overview
 A rich, layered Italian baked pasta combining slow-cooked meat ragù with silky béchamel enriched with basil pesto. Homemade fresh pasta sheets are essential for the melt-in-the-mouth texture that sets this lasagne apart. The pesto adds a distinctive herbaceous note that complements the béchamel beautifully.

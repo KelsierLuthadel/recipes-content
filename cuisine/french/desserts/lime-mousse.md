@@ -5,6 +5,7 @@
 *Any delicate berries can be used instead of wild strawberries, try raspberries instead.*
 
 **Serves:** 8
+**Prep Time:** 5 minutes
 
 ## Ingredients
 - 1 sheet leaf gelatine

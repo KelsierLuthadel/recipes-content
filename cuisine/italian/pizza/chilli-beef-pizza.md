@@ -5,6 +5,7 @@
 *This pizza is packed with flavour and a satisfying spicy kick. Ground beef browned with red onion, garlic, and fresh chillies, enriched with kidney beans and cumin, and finished with two cheeses. Serve as a main course with salad and garlic bread, or cut into fingers for canapés and picnics.*
 
 **Serves:** 4 (makes one 25-30 cm pizza)
+**Cook Time:** 33 minutes
 
 ## Overview
 This is a pizza with substance and spice. A generous topping of seasoned beef and kidney beans sits over a thin crust, topped with a blend of mozzarella and cheddar cheeses. The beef is properly browned and simmered to develop flavor, while chillies and cumin add warmth and complexity. This is not minimalist Italian pizza; this is bold, flavorful, filling pizza.

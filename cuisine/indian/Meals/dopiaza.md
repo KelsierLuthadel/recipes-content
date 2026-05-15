@@ -5,6 +5,7 @@
 *Dopiaza curries are big on flavour and can be mild or quite spicy, depending on the restaurant. Broken down, the word do means "two" and piaza means "onions"* 
 
 **Serves:** 4
+**Prep Time:** 15 minutes
 
 ## Overview
 Two-onion curry: half the onions are blended into the base sauce for sweetness and body, the other half added late as chunky wedges to retain bite and texture. The result is an onion-double-act curry, medium-spiced, deeply savoury. Lamb or chicken both work; the method is what makes a dopiaza, not the protein.

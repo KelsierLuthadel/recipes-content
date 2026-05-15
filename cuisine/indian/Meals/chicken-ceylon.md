@@ -3,6 +3,7 @@
 ![Chicken Ceylon](resources/ceylon.jpg)
 
 **Serves:** 4
+**Prep Time:** 5 minutes
 
 ## Overview
 A British curry-house classic loosely inspired by Sri Lankan flavours: a coconut-and-lemon sauce with mustard seeds, curry leaves and a touch of green chilli. Sharp from the lemon, sweet from the coconut, mildly hot. Distinguished from a korma by the lemony brightness and from a Goan curry by the lack of vinegar.

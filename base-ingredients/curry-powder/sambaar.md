@@ -1,5 +1,8 @@
 # Sambar Powder
 
+**Prep Time:** 10 minutes
+**Cook Time:** 4 minutes
+
 ![Sambar](resources/sambaar.jpg)
 
 *This distinctive South Indian blend combines whole spices with roasted lentils (dhal), creating a complex powder that flavors vegetable and lentil combinations while simultaneously thickening braised dishes and spicy broths. Sambar is essential to South Indian cooking.*

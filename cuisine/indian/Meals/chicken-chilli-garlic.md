@@ -5,6 +5,8 @@
 *A great spicy and garlicky chicken dish*
 
 **Serves:** 4
+**Prep Time:** 15 minutes
+**Cook Time:** 1 minutes
 
 ## Overview
 A garlic-forward BIR cooked hot and fast: pre-cooked chicken finished in a base sauce loaded with chopped garlic and fresh green chillies, with tomatoes, peppers and a tablespoon of vinegar to balance. Aromatic, sharp, fiery; eat with rice to tame it.

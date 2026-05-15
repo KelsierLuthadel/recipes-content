@@ -1,5 +1,8 @@
 # Butter Chicken
 
+**Prep Time:** 10 minutes
+**Cook Time:** 2 minutes
+
 ![Butter Chicken](../resources/butter-chicken.png)
 
 ## Overview

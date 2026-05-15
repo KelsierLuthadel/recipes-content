@@ -5,6 +5,7 @@
 *A crystal-clear apple jelly that serves as an elegant glaze and garnish for desserts.*
 
 **Serves:** 500 ml 
+**Cook Time:** 1 minutes
 
 ## Overview
 Gelée de pommes is a refined apple jelly that captures the natural flavor and bright clarity of fresh apples. Its delicate sweetness and light texture make it an ideal glaze for tarts and desserts, adding both visual shine and fresh apple flavor. This classic French preparation demonstrates elegant simplicity in its technique and presentation.

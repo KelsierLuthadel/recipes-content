@@ -1,5 +1,7 @@
 # Romesco Sauce
 
+**Prep Time:** 10 minutes
+
 ![Romesco Sauce](resources/romesco-sauce.png)
 
 *This salsa works well with pasta or in bouchée as a canapé*

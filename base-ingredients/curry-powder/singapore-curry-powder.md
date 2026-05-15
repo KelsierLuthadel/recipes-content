@@ -1,5 +1,7 @@
 # Singapore Curry Powder
 
+**Prep Time:** 10 minutes
+
 ![Singapore](resources/singapore.jpg)
 
 *Chillies are a key ingredient in this vibrant curry powder designed for Southeast Asian cooking. The blend balances heat with aromatic warmth, making it ideal for chicken curries and seafood preparations.*

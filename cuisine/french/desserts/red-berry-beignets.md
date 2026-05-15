@@ -5,6 +5,8 @@
 *Light with just a hint of crunch as you bite into them, these beignets are lovely with a jug of red berry coulis on the side.*
 
 **Serves:** 6 - 8
+**Prep Time:** 10 minutes
+**Cook Time:** 4 minutes
 
 ## Ingredients
 ### For the Batter

@@ -5,6 +5,8 @@
 *This classic Burgundy stew was once prepared with whole roasts weighing several kilograms, but modern custom calls for cubed beef cooked more quickly. The rich wine sauce, thickened with just the right amount of flour, transforms humble beef into an elegant centerpiece.*
 
 **Serves:** 4-6
+**Prep Time:** 20 minutes
+**Cook Time:** 29 minutes
 
 ## Overview
 Beef Bourguignon is the quintessential French braise, tender beef cubes slow-cooked in a Burgundy wine sauce enriched with pearl onions, mushrooms, and lardons. The combination of wine, beef stock, and a delicate flour thickening creates a deeply savory sauce that clings to the meat. This dish exemplifies classic French technique: patient cooking, careful skimming, and the balance of richness with restraint.

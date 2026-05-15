@@ -7,6 +7,7 @@
 *Make the mince pies a few days before Christmas and store in a dry place.*
 
 **Serves:** 48
+**Prep Time:** 20 minutes
 
 ## Overview
 Crispy, buttery shortbread pastry encasing rich, spiced mincemeat studded with dried fruit, nuts, and brandy. A beloved British Christmas tradition, these miniature gems are equally good served warm with sherry or cold with coffee. The mincemeat improves with time, making these ideal for advance preparation.

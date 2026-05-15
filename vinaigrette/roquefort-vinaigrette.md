@@ -1,5 +1,7 @@
 # Roquefort Vinaigrette
 
+**Prep Time:** 10 minutes
+
 ![Roquefort Vinaigrette](resources/roquefort.jpg)
 
 *This bold, distinctive dressing combines pungent blue cheese with the subtle nuttiness of walnut oil. It's particularly good with bitter winter leaves or crisply cooked warm French beans where its assertive character finds perfect balance.*

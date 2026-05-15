@@ -1,5 +1,7 @@
 # B.I.R Curry Base
 
+**Prep Time:** 10 minutes
+
 ![Base Gravy](resources/gravy.jpg)
 
 *Classic British Indian Restaurant(B.I.R.) curry base*

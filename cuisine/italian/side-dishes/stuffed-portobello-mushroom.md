@@ -5,6 +5,7 @@
 *This wonderfully aromatic stuffed mushroom is particularly good as a starter or a side dish.*
 
 **Serves:** 2
+**Prep Time:** 10 minutes
 
 ## Overview
 Large, meaty portobello mushroom caps baked with a savory-aromatic filling of Brie-style blue cheese, crispy breadcrumbs, garlic, and fresh parsley. The result is a beautiful, vegetarian-friendly starter or side dish with rich, umami flavors and a satisfying texture contrast between soft cheese and crispy topping.

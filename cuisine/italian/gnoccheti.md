@@ -5,6 +5,8 @@
 *Gnocchetti burro e salvia, though a bit fiddly to prepare, this delicate gnocchi dish is absolutely worth the effort. The earthy sage and sweet courgettes create perfect harmony, enriched by melting butter and Parmesan. Always use fresh sage, never dried.*
 
 **Serves:** 2
+**Prep Time:** 15 minutes
+**Cook Time:** 4 minutes
 
 ## Overview
 These handmade potato gnocchetti showcase Italian rustic cooking at its finest. Tender pillows of light potato dough are tossed with sweet courgettes, fresh sage, and golden butter, then finished with abundant Parmesan. The key to success is gentle handling, don't overwork the dough or the gnocchetti become tough. Fresh sage is absolutely essential.

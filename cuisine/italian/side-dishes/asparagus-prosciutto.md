@@ -3,6 +3,8 @@
 ![Asparagus and prosciutto bundles](resources/asparagus-parma.jpg)
 
 **Serves:** 4 - 6
+**Prep Time:** 10 minutes
+**Cook Time:** 5 minutes
 
 ## Overview
 Asparagus and prosciutto bundles are an elegant starter or side dish where roasted asparagus spears are wrapped in delicate cured ham. The balsamic and olive oil dressing adds depth and a slight sweetness that pairs beautifully with the salty prosciutto.

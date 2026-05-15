@@ -1,5 +1,8 @@
 # Tandoori Masala Paste
 
+**Prep Time:** 15 minutes
+**Cook Time:** 2 minutes
+
 ![Tandoori Masala Paste](resources/tandoori-masala-paste.jpg)
 
 *Tandoori paste is the marinade for the tandoor oven. It's warm with spices (not hot), deeply colored by turmeric and paprika, and traditionally yogurt is worked in before applying to meat or vegetables. This paste version captures the essential flavors in a form that can be scaled from restaurants down to single dinners.*

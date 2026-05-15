@@ -11,6 +11,7 @@
 *Rolled out and cut into different shapes, this dough is perfect for petits fours secs.*
 
 **Serves:** 680 grams
+**Prep Time:** 5 minutes
 
 ## Overview
 Pâte sablée is an exceptionally delicate, shortbread-like dough prized for its crumbly texture and the way it melts on the tongue. The technique of adding flour last ensures the dough remains short and tender rather than developing gluten strength. Its versatility allows it to be used for tartlet cases, petit fours, or as a base for numerous desserts.

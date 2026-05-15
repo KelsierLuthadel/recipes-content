@@ -1,5 +1,8 @@
 # Brioche dough
 
+**Prep Time:** 5 minutes
+**Cook Time:** 31 minutes
+
 ![Brioche dough](resources/brioche.jpg)
 
 *This classic French dough can be frozen, well wrapped, for up to 2 weeks.*

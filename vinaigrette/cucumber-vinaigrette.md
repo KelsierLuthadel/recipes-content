@@ -1,5 +1,7 @@
 # Cucumber Vinaigrette
 
+**Prep Time:** 10 minutes
+
 ![Cucumber Vinaigrette](resources/cucumber.png)
 
 *This fresh, herbaceous dressing captures summer in a bowl: cool cucumber, delicate herbs, and light rice wine vinegar combine to create a bright accompaniment for delicate vegetables.*

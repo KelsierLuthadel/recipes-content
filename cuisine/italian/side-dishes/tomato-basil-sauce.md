@@ -1,5 +1,7 @@
 # Tomato and Basil Sauce
 
+**Prep Time:** 10 minutes
+
 ![Tomato and Basil Sauce](resources/tomato-basil-sauce.jpg)
 
 *This delicate, bright salsa showcases ripe summer tomatoes enhanced with briny capers, salty black olives, and fruity olive oil. Fresh basil provides the signature aromatic flourish at service. Perfect with lightly grilled seafood, delicate white fish, or cold chicken and veal, anywhere fresh simplicity and bright herb character are desired.*

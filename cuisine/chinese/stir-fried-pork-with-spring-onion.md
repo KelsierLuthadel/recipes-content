@@ -6,6 +6,8 @@
 This simple stir-fried dish in the southern Chinese tradition showcases how elemental technique and timing create exceptional results. The key to success is not to overcook the pork. A brief marinade tenderizes the meat and infuses flavour, while spring onions added late retain their fresh bite and delicate onion flavour.
 
 **Serves:** 4
+**Prep Time:** 10 minutes
+**Cook Time:** 1 minutes
 
 ## Ingredients
 

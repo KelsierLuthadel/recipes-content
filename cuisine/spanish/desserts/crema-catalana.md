@@ -3,6 +3,7 @@
 ![Crema Catalana](resources/crema-catalana.jpg)
 
 **Serves:** 4
+**Prep Time:** 10 minutes
 
 ## Ingredients
 - 750 ml milk (ideally goats)

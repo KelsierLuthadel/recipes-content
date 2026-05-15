@@ -5,6 +5,8 @@
 *This rich, fragrant Bolognese sauce is the heart of Italian home cooking. Whether served over fresh pasta or layered in lasagne, its deep, complex flavor develops through patient, slow simmering. Homemade passata elevates this further.*
 
 **Serves:** 4
+**Prep Time:** 15 minutes
+**Cook Time:** 4 hours
 
 ## Overview
 Bolognese is Italy's classic meat sauce, built on a foundation of soffritto, the aromatic trinity of onion, carrot, and celery, combined with quality ground beef, wine, and tomato. The result is a rich, velvety sauce where individual ingredients dissolve into a cohesive whole greater than the sum of its parts. This is soul food, best made with time and attention.

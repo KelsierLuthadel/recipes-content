@@ -1,5 +1,7 @@
 # Bloomer Loaf Shaping
 
+**Cook Time:** 1 minutes
+
 ![Bloomer Step 1](resources/bloomer-1.jpg)
 
 *The bloomer shape is a distinctly British bread form: cylindrical with slightly tapered ends, flat on the bottom, and topped with a series of evenly-spaced diagonal slashes. The shaping technique creates a distinctive silhouette and allows flour scoring to create a characteristic crust pattern when baked.*

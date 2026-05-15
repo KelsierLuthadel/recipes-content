@@ -1,5 +1,7 @@
 # Tamarind Chutney
 
+**Prep Time:** 15 minutes
+
 ![Tamarind Chutney](resources/tamarind-chutney.jpg)
 
 *This sweet, sour, savory, and spicy chutney is a must for any curry party. Tangy tamarind forms the base, balanced with sugar and brightened with lemon. Fresh vegetables and coriander provide texture and herbal notes. A complex condiment that's more than just a dipping sauce.*
