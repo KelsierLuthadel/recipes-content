@@ -13,7 +13,7 @@ Cook on the larger end of every quantity. Leftovers are part of the contract.
 
 ## Recipes
 
-- [Sunday Roast Chicken](../cuisine/british/sunday-roast-chicken.md)
+- [Roast Turkey](../cuisine/american/roast-turkey.md)
 - [Pork and Apricot Stuffing](../cuisine/british/side-dishes/pork-apricot-stuffing.md)
 - [Buffalo Chicken Stuffed Sweet Potatoes](../cuisine/american/buffalo-chicken-stuffed-sweet-potatoes.md)
 - [Three Sisters Succotash](../cuisine/native-north-american/three-sisters-succotash.md)
