@@ -1,18 +1,8 @@
 # Recipes Content
 
-The recipe collection — all 1,435 recipes across 75 cuisines as markdown, plus the images they reference. Pure content; no build pipeline, no UI code.
+A multi-cuisine recipe collection. 1,435 recipes across 75 cuisines as markdown, with their images.
 
 Recipes are organised by cuisine under `cuisine/<country>/` with course subfolders (`side-dishes/`, `snacks/`, `desserts/`, `starters/`). Building-block trees (`baking/`, `sauces/`, `stocks/`, `base-ingredients/`, `petit-four/`, `bread-pasta/`, `coulis/`, `sponge/`, `vinaigrette/`) sit alongside. Themed editorial collections live in `editorial/`.
-
-## How the UI consumes this
-
-The [recipes-ui](https://github.com/KelsierLuthadel/recipe-ui) repo owns the build pipeline. Its `scripts/build-manifest.mjs` reads this repo (as a sibling directory by convention) and produces `docs/recipes.json`. The UI's manifest's `rawBase` field then points at this repo's `raw.githubusercontent.com` URL, so per-recipe markdown and images are fetched directly from here at runtime.
-
-A typical content workflow:
-
-1. Author a recipe markdown change here, commit, push.
-2. In `recipes-ui`, run `npm run build` and commit the regenerated `docs/recipes.json`.
-3. Push the UI commit. The deploy picks up the new manifest. Images and per-recipe markdown then flow live from this repo on every page view.
 
 ## Running locally
 
@@ -29,7 +19,7 @@ pip install pillow
 
 ## Adding a Recipe
 
-The end-to-end workflow for a new dish. The detailed reference is in [documentation/AUTHORING.md](documentation/AUTHORING.md); the quick version:
+The detailed reference is in [documentation/AUTHORING.md](documentation/AUTHORING.md); the quick version:
 
 ### 1. Pick the folder
 
@@ -41,7 +31,7 @@ cuisine/<country>/starters/<slug>.md        ← first-course plate
 cuisine/<country>/desserts/<slug>.md        ← sweet ending
 ```
 
-The folder name drives the course tag — `desserts/` → `dessert` tag, `snacks/` → `snack`, `side-dishes/` → `sides`, `starters/` → `starter`, root-of-cuisine → `meals`. Don't put a dessert at the cuisine root; the manifest will tag it as a meal.
+The folder name drives the course tag — `desserts/` → `dessert` tag, `snacks/` → `snack`, `side-dishes/` → `sides`, `starters/` → `starter`, root-of-cuisine → `meals`. Don't put a dessert at the cuisine root.
 
 Building-block trees sit outside `cuisine/`: [baking/](baking/), [base-ingredients/](base-ingredients/), [sauces/](sauces/), [stocks/](stocks/), [petit-four/](petit-four/), [bread-pasta/](bread-pasta/), [coulis/](coulis/), [sponge/](sponge/), [vinaigrette/](vinaigrette/). Put genuine components here, not finished plates.
 
@@ -51,14 +41,12 @@ Building-block trees sit outside `cuisine/`: [baking/](baking/), [base-ingredien
 mkdir -p cuisine/<country>/{resources/thumbs,side-dishes/resources/thumbs,snacks/resources/thumbs,desserts/resources/thumbs}
 ```
 
-The cuisine overview text lives in [categories.json](https://github.com/KelsierLuthadel/recipe-ui/blob/main/categories.json) in the **UI repo**. Add a 1-2 sentence description there when you create a new cuisine folder here.
-
 ### 3. Write the markdown
 
 The standard template is in [documentation/RECIPE_TEMPLATE.md](documentation/RECIPE_TEMPLATE.md). Authoring conventions:
 
 - **Fractions:** use unicode glyphs — `1 ½ cups`, `½ teaspoon`. The parser also handles `1 1/2` and `1.5`; [scripts/normalize-fractions.mjs](scripts/normalize-fractions.mjs) batch-converts.
-- **Units:** metric (g / ml / cm / °C). The UI has a Metric → Imperial toggle, so don't write both.
+- **Units:** metric (g / ml / cm / °C) is the canonical authoring unit.
 - **No em-dashes** anywhere user-facing. Use ` - ` (hyphen with spaces) or rephrase with a colon. [scripts/strip-em-dashes.mjs](scripts/strip-em-dashes.mjs) cleans up leftovers.
 - **Image alt text** should be the recipe title, not `Name` (the template placeholder). [scripts/fix-placeholder-alt.mjs](scripts/fix-placeholder-alt.mjs) cleans up `![Name]` leftovers.
 
@@ -85,8 +73,6 @@ git commit -m "<cuisine>: add <recipe>"
 git push
 ```
 
-Then go to the UI repo and rebuild the manifest (see [recipe-ui README](https://github.com/KelsierLuthadel/recipe-ui#release-process)).
-
 ## Editorial collections
 
 Curator-published themed groups of existing recipes. Live in [editorial/](editorial/) as `<slug>.md` files. Frontmatter shape:
@@ -106,7 +92,7 @@ recipes:
 Optional intro markdown paragraph(s).
 ```
 
-The UI's build pipeline parses these at manifest-build time. Broken recipe references are dropped with a warning. Cover image paths resolve relative to the repo root.
+Cover image paths resolve relative to the repo root. Slugs reference existing recipe markdown filenames.
 
 ## Maintenance scripts
 
