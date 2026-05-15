@@ -94,6 +94,23 @@ Optional intro markdown paragraph(s).
 
 Cover image paths resolve relative to the repo root. Slugs reference existing recipe markdown filenames.
 
+### Seasonal rotation
+
+An editorial collection can additionally claim the home/collections "Seasonal pick" slot for part of the year by adding a `seasonalrange:` field to its frontmatter:
+
+```yaml
+---
+name: Spring Refresh
+tagline: Light, green, and a little bit indulgent.
+publishedAt: 2026-05-15
+seasonalrange: 03-01..05-31
+---
+```
+
+Format is `MM-DD..MM-DD`, inclusive, year-agnostic (so the same collection rotates in year after year without re-authoring). Wrapped ranges work too: `12-15..01-10` covers the festive period across year-end. When today's date matches a seasonal range, that collection takes over the slot's title, cover, and recipe list. If no editorial collection claims today, the slot falls back to the hardcoded Summer BBQ default in `docs/modules/state.js`.
+
+Authored seasonal collections so far: `spring-refresh.md`. Buckets the rotation is designed for: Spring (Mar-May), Summer BBQ (Jun-Aug), Fall harvest (mid-Sep-mid-Nov), Thanksgiving (mid-Nov), Christmas (Dec).
+
 ## Maintenance scripts
 
 | Script | What it does |

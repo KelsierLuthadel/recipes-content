@@ -70,18 +70,45 @@ function insertImageLink(md, title, imageRelPath) {
 }
 
 // Pexels prefers plain noun phrases. Strip parenthetical clarifications
-// (which usually clarify for the cook, not the search engine).
+// (which usually clarify for the cook, not the search engine) and append
+// "food" so the search biases toward the plate rather than the
+// restaurant / staff / hands-in-frame results that share the noun.
 function searchQuery(title) {
-  return title.replace(/\s*\([^)]*\)\s*/g, ' ').replace(/\s+/g, ' ').trim();
+  const cleaned = title.replace(/\s*\([^)]*\)\s*/g, ' ').replace(/\s+/g, ' ').trim();
+  return `${cleaned} food`;
+}
+
+// Pexels alt text usually describes who or what is in the frame. These
+// words are strong signals that the photo has people in it; we skip
+// results whose alt matches and look further down the result list.
+const PEOPLE_KEYWORDS = /\b(person|people|man|woman|child|kid|baby|chef|cook|hand|hands|family|crowd|group of|holding|eating|portrait|smiling|laughing|wearing|wedding)\b/i;
+
+// Score a photo against people-y signals in BOTH its alt text and its
+// Pexels page URL slug. The URL is often a better tell than the alt:
+// alt-text is sometimes generic ("close-up of food") while the slug
+// preserves the actual subject ("woman-cooking-in-kitchen-29384").
+function looksPeopley(photo) {
+  if (PEOPLE_KEYWORDS.test(photo.alt || '')) return true;
+  if (PEOPLE_KEYWORDS.test(photo.url || '')) return true;
+  return false;
 }
 
 async function pexelsSearch(query, apiKey) {
-  const url = `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=1&orientation=landscape`;
+  // Pull 15 candidates so we have room to skip people-in-frame results
+  // and still land on food. Pexels' free tier caps at 200 searches/hour
+  // and per_page up to 80, so 15 is well within budget.
+  const url = `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=15&orientation=landscape`;
   const res = await fetch(url, { headers: { Authorization: apiKey } });
   if (!res.ok) throw new Error(`Pexels API ${res.status} ${res.statusText}`);
   const data = await res.json();
   if (!data.photos || !data.photos.length) throw new Error(`no Pexels results for "${query}"`);
-  return data.photos[0];
+  // First photo whose alt AND URL slug don't smell of people. If every
+  // candidate looks people-y, throw rather than silently pick the worst
+  // option - the caller can decide whether to retry with a different
+  // query or just leave the image missing.
+  const foodFirst = data.photos.find(p => !looksPeopley(p));
+  if (!foodFirst) throw new Error(`every Pexels result for "${query}" looks people-y`);
+  return foodFirst;
 }
 
 async function downloadTo(url, destPath) {
