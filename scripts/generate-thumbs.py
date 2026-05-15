@@ -10,9 +10,10 @@ Skips when the thumb already exists AND is newer than the source image,
 so re-runs are cheap.
 
 Usage:
-  python scripts/generate-thumbs.py            # default 400px wide
-  python scripts/generate-thumbs.py 500        # custom max width
-  python scripts/generate-thumbs.py --force    # rebuild all thumbs
+  python scripts/generate-thumbs.py                          # default 400px wide
+  python scripts/generate-thumbs.py 500                      # custom max width
+  python scripts/generate-thumbs.py --force                  # rebuild all thumbs
+  python scripts/generate-thumbs.py --dir cuisine/vietnamese # scope to a subtree
 """
 
 from __future__ import annotations
@@ -28,16 +29,24 @@ EXTS = {'.jpg', '.jpeg', '.png'}
 def parse_args():
     max_w = 400
     force = False
-    for a in sys.argv[1:]:
+    root = None
+    args = sys.argv[1:]
+    i = 0
+    while i < len(args):
+        a = args[i]
         if a == '--force':
             force = True
+        elif a in ('--dir', '-d'):
+            i += 1
+            root = args[i] if i < len(args) else None
         else:
             try:
                 max_w = int(a)
             except ValueError:
                 print(f"Unrecognised arg: {a}", file=sys.stderr)
                 sys.exit(2)
-    return max_w, force
+        i += 1
+    return max_w, force, root
 
 def walk_resources(root: Path):
     """Yield (image_path, thumb_path) pairs for every image under any
@@ -59,8 +68,16 @@ def walk_resources(root: Path):
             yield img_path, thumb_path
 
 def main():
-    max_w, force = parse_args()
-    pairs = list(walk_resources(REPO_ROOT))
+    max_w, force, root_arg = parse_args()
+    if root_arg:
+        candidate = (REPO_ROOT / root_arg).resolve()
+        if not candidate.exists():
+            print(f"Directory not found: {root_arg}", file=sys.stderr)
+            sys.exit(2)
+        root = candidate
+    else:
+        root = REPO_ROOT
+    pairs = list(walk_resources(root))
 
     print(f"Scanning {len(pairs)} images. Thumb width: {max_w}px.")
 

@@ -7,9 +7,10 @@ Skips images already <= MAX_WIDTH and images already backed up.
 JPEG output uses quality 85 (visually identical to the source at this scale).
 
 Usage:
-  python scripts/resize-images.py            # default 800px
+  python scripts/resize-images.py            # default 900px (project spec)
   python scripts/resize-images.py 1200       # custom max width
-  python scripts/resize-images.py 800 --dry  # report only
+  python scripts/resize-images.py 900 --dry  # report only
+  python scripts/resize-images.py --dir cuisine/vietnamese   # scope to a subtree
 """
 
 from __future__ import annotations
@@ -23,18 +24,26 @@ SKIP_DIRS = {'.git', 'docs', 'node_modules', 'scripts', 'wip', 'old'}
 EXTS = {'.jpg', '.jpeg', '.png'}
 
 def parse_args():
-    max_w = 800
+    max_w = 900
     dry = False
-    for a in sys.argv[1:]:
+    root = None
+    args = sys.argv[1:]
+    i = 0
+    while i < len(args):
+        a = args[i]
         if a == '--dry':
             dry = True
+        elif a in ('--dir', '-d'):
+            i += 1
+            root = args[i] if i < len(args) else None
         else:
             try:
                 max_w = int(a)
             except ValueError:
                 print(f"Unrecognised arg: {a}", file=sys.stderr)
                 sys.exit(2)
-    return max_w, dry
+        i += 1
+    return max_w, dry, root
 
 def walk_images(root: Path):
     for dirpath, dirnames, filenames in os.walk(root):
@@ -44,9 +53,17 @@ def walk_images(root: Path):
                 yield Path(dirpath) / f
 
 def main():
-    max_w, dry = parse_args()
+    max_w, dry, root_arg = parse_args()
+    if root_arg:
+        candidate = (REPO_ROOT / root_arg).resolve()
+        if not candidate.exists():
+            print(f"Directory not found: {root_arg}", file=sys.stderr)
+            sys.exit(2)
+        root = candidate
+    else:
+        root = REPO_ROOT
     targets = []
-    for img_path in walk_images(REPO_ROOT):
+    for img_path in walk_images(root):
         try:
             with Image.open(img_path) as im:
                 w, h = im.size
