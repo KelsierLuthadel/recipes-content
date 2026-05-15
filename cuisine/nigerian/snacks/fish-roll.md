@@ -1,0 +1,90 @@
+# Fish Roll
+
+![Fish Roll](resources/fish-roll.jpg)
+*Nigerian deep-fried savoury pastry roll filled with sardine-and-spice mince. The cylindrical, palm-sized snack sold at every "buns and rolls" street cart and at every Nigerian school canteen. Different from a sausage roll: dough is unleavened and slightly sweetened (similar to puff-puff dough), filling is tinned-sardine-based (or fresh fish), shape is a cigar not a log.*
+
+**Serves:** Makes 12 fish rolls
+
+**Prep Time:** 40 minutes (plus 30 minutes resting)
+
+**Cook Time:** 15 minutes
+
+## Overview
+Dough: flour, butter, sugar, salt, baking powder, egg, milk - mixes to a smooth firm dough. Rests 30 min. Filling: tinned sardines mash with sautéed onion, chilli, curry powder, thyme, salt. Dough divides; each portion rolls to a 12 cm circle; filling pipes or spoons in a line down the centre; dough rolls around the filling into a cigar; ends pinch sealed. Deep-fries 5 minutes at 170°C till deep gold.
+
+## Ingredients
+
+### Dough
+- 500 g plain flour
+- 80 g caster sugar
+- 1 teaspoon salt
+- 1 teaspoon baking powder
+- 100 g unsalted butter (melted, cooled)
+- 1 large egg
+- 200 ml whole milk (warm)
+
+### Filling
+- 2 tins (120 g each) sardines in oil, drained
+- 2 tablespoons neutral oil
+- 1 small onion (finely diced)
+- 1 fresh red chilli (deseeded, minced)
+- 3 garlic cloves (minced)
+- 1 teaspoon curry powder (Nigerian or generic)
+- 1 teaspoon dried thyme
+- ½ teaspoon salt
+- ½ teaspoon ground black pepper
+- 1 tablespoon tomato purée
+
+### Frying
+- 1 litre neutral oil
+
+## Method
+
+### Stage 1 - Dough
+1. In a wide bowl, whisk flour, sugar, salt and baking powder.
+1. Add the melted butter; rub in with fingertips till breadcrumb-like.
+1. Make a well; add the egg and warm milk.
+1. Mix to a soft pliable dough; knead briefly till smooth.
+1. Cover; rest 30 minutes.
+
+### Stage 2 - Filling
+1. Heat 2 tablespoons oil in a wide pan over medium heat.
+1. Add the onion; cook 4 minutes till soft.
+1. Add the garlic and chilli; 30 seconds.
+1. Add the tomato purée; cook 1 minute.
+1. Add the drained sardines; mash with a wooden spoon as you stir.
+1. Add curry powder, thyme, salt, pepper.
+1. Cook 3-4 minutes till dry-fragrant (no pooling moisture).
+1. Cool to room temperature.
+
+### Stage 3 - Shape
+1. Divide the dough into 12 portions (~70 g each).
+1. Roll each into a ball.
+1. Roll each ball on a lightly floured surface to a 12 cm circle, 3 mm thick.
+1. Place 2 tablespoons of cool filling in a 10 cm line down the centre of the circle.
+1. Fold the two long sides of the dough over the filling, overlapping at the seam in the middle.
+1. Pinch the long seam closed.
+1. Tuck the short ends underneath and pinch.
+1. Roll gently between palms to form a smooth cigar 12 cm long.
+
+### Stage 4 - Fry
+1. Heat the oil to 170°C.
+1. Lower 4-5 rolls at a time; fry 5-6 minutes, turning, till deep amber-gold.
+1. Lift onto a wire rack.
+
+### Stage 5 - Serve
+1. Cool 5 minutes (filling is molten).
+1. Eat warm or at room temperature.
+1. Often eaten with a cold drink at school break or as part of a snack platter.
+
+## Notes
+- **Tinned sardines are traditional and good:** they have the right oily-rich flavour for fish roll. Fresh fish (cooked then flaked) works but takes more prep.
+- **Cool the filling before stuffing:** warm filling melts the dough and the seams open during frying.
+- **Pinch seams firmly:** loose seams = filling leak = burnt mess. Press the long seam in the middle; tuck both ends; roll gently.
+- **Medium oil temp:** 170°C lets the dough cook through before the outside burns. The rolls are 12 cm long - 5 minutes is needed to heat the centre.
+
+## Storage
+- Best within an hour of frying.
+- Keep 2 days at room temperature in a sealed container.
+- Reheat in a 180°C oven 5 minutes.
+- Freeze unfried, on a tray then bagged, 2 months; fry from frozen + 2 minutes.

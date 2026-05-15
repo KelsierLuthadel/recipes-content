@@ -1,0 +1,69 @@
+# Larb
+
+![Larb](resources/larb.jpg)
+*The Thai-Isaan minced meat salad: hot-fried pork (or chicken / duck) mince tossed with toasted rice powder, fish sauce, lime juice, dried chilli, sliced shallot, spring onion, and mountains of mint, coriander and Thai basil. Served warm or cool with sticky rice and a plate of raw vegetables (long beans, cabbage, cucumber) to scoop. Sour, salty, spicy, herbal - the four-flavour Thai signature.*
+
+**Serves:** 4
+
+**Prep Time:** 15 minutes
+
+**Cook Time:** 12 minutes
+
+## Overview
+Sticky rice toasts in a dry pan to a deep gold, ground to a coarse powder (khao khua). Mince fries hot with a splash of stock until just cooked. Off heat - fish sauce, lime juice, chilli powder, sliced shallot, spring onion and rice powder toss through. Lots of fresh herbs fold in at the end. Served with sticky rice and raw vegetable plate.
+
+## Ingredients
+
+### Rice powder
+- 3 tablespoons uncooked glutinous (sticky) rice - or jasmine rice
+
+### Larb
+- 500 g pork mince (or chicken / duck / beef)
+- 4 tablespoons stock or water
+- 3 tablespoons fish sauce
+- Juice of 2 limes (about 5 tablespoons)
+- 1-2 teaspoons Thai dried chilli flakes (or 2 fresh bird's-eye chillies, finely chopped)
+- 4 small shallots (sliced thin)
+- 4 spring onions (sliced thin)
+- ½ teaspoon sugar (optional)
+- 1 large handful fresh mint leaves
+- 1 large handful fresh coriander (leaves and tender stems)
+- 1 small handful Thai basil leaves (optional)
+
+### To serve
+- Sticky rice (or jasmine rice)
+- Raw vegetables: long beans, cucumber, cabbage wedges, lettuce leaves, Thai basil
+
+## Method
+
+### Stage 1 - Rice powder
+1. Heat a dry pan over medium heat.
+1. Add the uncooked rice; toast 4-5 minutes, stirring, until deep gold and aromatic (smells popcorn-nutty).
+1. Cool. Grind to a coarse powder in a mortar or spice grinder.
+
+### Stage 2 - Cook mince
+1. Heat a wide pan over high heat (no oil - mince renders its own fat).
+1. Add the mince; break up with a wooden spoon. Pour in 4 tablespoons stock.
+1. Cook 4-5 minutes, stirring, until just cooked through (no pink). Don't dry it out - it should be saucy.
+
+### Stage 3 - Dress
+1. Off heat. Pour in fish sauce, lime juice, chilli flakes, sugar (if using).
+1. Add sliced shallot and spring onion.
+1. Stir in the toasted rice powder.
+1. Toss thoroughly.
+
+### Stage 4 - Herbs
+1. Just before serving, fold in mint, coriander and Thai basil.
+1. Taste; adjust fish sauce (salt) and lime (sour).
+
+### Stage 5 - Serve
+1. Tip into a wide shallow bowl.
+1. Serve with sticky rice and a plate of raw vegetables for scooping.
+
+## Notes
+- **Rice powder is essential:** Adds the signature nutty toasted note plus a thickening effect. Skipping it gives larb that tastes incomplete.
+- **Hot pan, no oil:** The fat renders from the meat. Adding oil makes it greasy.
+- **Eat with hands:** Pinch sticky rice into a ball, scoop larb, eat. Or use lettuce/cabbage leaves as wraps.
+
+## Storage
+- Best fresh. Refrigerate 1 day; the herbs wilt.

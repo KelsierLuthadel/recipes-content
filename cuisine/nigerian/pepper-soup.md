@@ -1,0 +1,75 @@
+# Pepper Soup
+
+![Pepper Soup](resources/pepper-soup.jpg)
+*Nigerian peppery clear broth: goat (or chicken / catfish) simmered with onion, garlic, scotch bonnet, ginger and an aromatic blend of pepper-soup spices (uda - calabash nutmeg, uziza, ehuru, and grains of paradise). Drunk hot to clear a head cold, served as a starter at parties, eaten over rice for dinner. Thin, bracing, deeply peppery - not creamy, not thick.*
+
+**Serves:** 4
+
+**Prep Time:** 15 minutes
+
+**Cook Time:** 1 hour 30 minutes
+
+## Overview
+Bone-in goat (or chicken or catfish - fish takes much less time) simmers in lightly salted water with onion, garlic, ginger, scotch bonnet and the pepper-soup spice mix for 75 minutes until tender. Crayfish (ground dried shrimp) and stock cube go in for depth. Scent leaf (Nigerian basil) or basil leaves and chopped onion finish at the table.
+
+## Ingredients
+
+- 1 kg goat meat (bone-in, cut into 4 cm chunks) - or 1 whole chicken, jointed
+- 1 large onion (chopped)
+- 6 garlic cloves (crushed)
+- 1 large thumb fresh ginger (grated)
+- 2 scotch bonnet chillies (whole, pierced - or chopped for extra heat)
+- 2 tablespoons pepper-soup spice mix (or substitute: 1 tsp ground nutmeg + 1 tsp ground allspice + 1 tsp ground black pepper + 1 tsp ground white pepper + 1 tsp dried thyme + ½ tsp ground cloves)
+- 2 tablespoons crayfish (ground dried shrimp)
+- 1 tablespoon palm oil (optional but traditional)
+- 2 Maggi chicken stock cubes
+- 1 ½ teaspoons salt (to taste)
+- 1.8 litres water
+- 1 small bunch scent leaf (efinrin) or fresh basil + a sprig of mint
+- 2 spring onions (sliced, to finish)
+
+### To serve
+- White rice (optional)
+- Sliced raw onion
+- Lime wedges
+- Sliced scotch bonnet (for those who want more heat)
+
+## Method
+
+### Stage 1 - Brown the meat
+1. Place goat (or chicken) in a wide pot.
+1. Add onion, garlic, ginger, scotch bonnet (whole pierced), spice mix.
+1. Cover with water (1.8 litres); bring to a simmer.
+
+### Stage 2 - Simmer
+1. Skim any foam.
+1. Simmer covered:
+   1. Goat: 1 hour 15 minutes
+   1. Chicken: 30-40 minutes
+   1. Catfish: 12-15 minutes (add at the end)
+
+### Stage 3 - Season
+1. Stir in crayfish, palm oil (if using), stock cubes and salt.
+1. Simmer 10 more minutes.
+
+### Stage 4 - Adjust
+1. Taste. The soup should be peppery, savoury, slightly oily on top, very flavourful. Adjust salt.
+1. Fish out the whole scotch bonnets if you don't want everyone to bite into them.
+
+### Stage 5 - Herbs
+1. Tear scent leaf (or basil + mint) and add to the pot.
+1. Simmer 2 minutes.
+1. Add sliced spring onions.
+
+### Stage 6 - Serve
+1. Ladle into wide bowls.
+1. Set out white rice, sliced raw onion, lime wedges and extra sliced scotch bonnet on the side.
+
+## Notes
+- **Pepper-soup spice mix:** Available pre-made at Nigerian / African shops as "pepper soup spice" or "ofe nsala spice". The traditional individual spices (uda calabash nutmeg, uziza pepper, ehuru, grains of paradise) are hard to find outside Africa. The substitute mix is a fair stand-in.
+- **Scent leaf:** Nigerian basil (efinrin / nchanwu). The closest UK / US substitute is regular basil with a sprig of mint added.
+- **Heat level:** Pepper soup is meant to be peppery. Two scotch bonnets in a pot is the baseline; many Nigerian cooks add four.
+
+## Storage
+- Refrigerate 3 days; flavour deepens.
+- Freezes 3 months.

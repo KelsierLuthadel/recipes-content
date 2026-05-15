@@ -1,0 +1,75 @@
+# Hodu Gwaja (Walnut Cake)
+
+![Hodu Gwaja](resources/hodu-gwaja.jpg)
+*Small walnut-shaped cakes from the Cheonan area: a tender flour-and-egg batter cooks in a walnut-shaped iron mould around a filling of sweetened red bean paste and a whole walnut piece. Bigger than a coin, smaller than a tennis ball; the outside has the texture of a soft cake, the inside the sweet earthy pat with a crunch from the nut. Sold by the dozen at every Cheonan-area train station; a Korean rest-stop classic.*
+
+**Serves:** Makes 12 cakes
+
+**Prep Time:** 25 minutes
+
+**Cook Time:** 25 minutes
+
+## Overview
+A simple cake-style batter - flour, eggs, milk, sugar, butter - whisks to a smooth pourable batter. Filling: sweet red bean paste (pat) rolls into 12 small balls; each ball gets a walnut half pressed into its centre. Bakes in a walnut-mould pan (12-cavity, sometimes called "Korean walnut pan" or use a 12-cup muffin tin lined with paper) - batter goes in half-full, filling sits on top, more batter covers. Bakes 12-15 minutes at 180°C; tap out of moulds; cools.
+
+## Ingredients
+
+### Batter
+- 200 g plain flour
+- 1 ½ teaspoons baking powder
+- ¼ teaspoon salt
+- 2 large eggs
+- 100 g caster sugar
+- 50 g unsalted butter (melted)
+- 150 ml whole milk
+- 1 teaspoon vanilla extract
+
+### Filling
+- 300 g sweet red bean paste (pat) - Korean koshi-an or Japanese tsubu-an; sold ready
+- 12 walnut halves (good quality - they're a visible feature)
+
+### To finish
+- 1 tablespoon icing sugar (optional, for dusting)
+
+## Method
+
+### Stage 1 - Heat oven and prep tin
+1. Heat the oven to 180°C (160°C fan).
+1. If using a walnut-mould tin: grease lightly with butter.
+1. If using a 12-cup muffin tin: line each cup with a paper case.
+
+### Stage 2 - Filling
+1. Divide the red bean paste into 12 equal portions.
+1. Roll each into a small ball.
+1. Press a walnut half into the centre of each ball; pinch to seal so the walnut is embedded.
+
+### Stage 3 - Batter
+1. In a wide bowl, whisk flour, baking powder and salt.
+1. In another bowl, whisk eggs and sugar until pale and slightly foamy (1-2 minutes with electric beaters or 4 minutes by hand).
+1. Whisk in the melted butter, milk and vanilla.
+1. Fold the wet into the dry until just combined (don't overmix).
+
+### Stage 4 - Fill the moulds
+1. Spoon about 1 tablespoon of batter into each mould (half-fill).
+1. Place a filled bean-ball in the centre of each.
+1. Cover with another tablespoon of batter so the bean-ball is hidden.
+1. Smooth the top.
+
+### Stage 5 - Bake
+1. Bake 12-15 minutes until the tops are golden and a skewer inserted into the cake part (not the bean centre) comes out clean.
+
+### Stage 6 - Cool
+1. Cool in the tin 5 minutes.
+1. Tip out onto a wire rack; cool completely.
+1. Dust with icing sugar if desired.
+
+## Notes
+- **Walnut-shaped iron pan is traditional:** sold at Korean specialty stores. A 12-cup mini-muffin tin is a workable substitute - the cakes are smaller but the technique is identical.
+- **Don't overmix the batter:** stop folding the moment the flour disappears. Overmixed batter gives tough heavy cakes.
+- **Walnut quality matters:** the whole walnut is visible at the centre of every cake. Rancid walnuts ruin the dessert.
+- **Sweet red bean paste sold ready:** Korean and Japanese grocers stock pat (Korean) or anko/tsubu-an (Japanese). Make from scratch only if you can't source it.
+
+## Storage
+- Keeps 4 days at room temperature in a sealed tin.
+- Freezes baked, 2 months; thaw at room temp 1 hour.
+- The walnut centre stays crunchy; the cake softens slightly over time but is still good.

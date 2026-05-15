@@ -1,0 +1,50 @@
+name: Rebuild recipes.json
+
+# Runs on every push to main. Walks the recipe tree, regenerates
+# dist/recipes.json, and commits it back when it changed. The UI fetches
+# this file at load time, so a content edit is "live" the moment this
+# workflow's commit lands.
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'dist/**'
+      - 'documentation/**'
+      - 'README.md'
+      - 'LICENSE'
+      - '.github/**'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Full history needed: build-manifest derives recipe "addedAt"
+          # timestamps from git log, and uses git describe for version.
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build manifest
+        run: npm run build
+
+      - name: Commit rebuilt manifest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain dist/recipes.json)" ]]; then
+            git add dist/recipes.json
+            git commit -m "chore: rebuild dist/recipes.json [skip ci]"
+            git push
+          else
+            echo "dist/recipes.json unchanged; nothing to commit."
+          fi

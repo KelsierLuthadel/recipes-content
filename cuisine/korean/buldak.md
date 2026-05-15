@@ -1,0 +1,73 @@
+# Buldak
+
+![Buldak](resources/buldak.jpg)
+*Korean "fire chicken": boneless chicken thighs marinated in a vivid red sauce of gochujang, gochugaru, soy, garlic, ginger and sugar, pan-grilled or oven-broiled hot, topped with melted mozzarella and sliced spring onion. Sweet, savoury, and famously hot - the cheese layer is the cooling counterpoint. Born in Seoul drinking joints; now a Korean comfort-food fixture.*
+
+**Serves:** 4
+
+**Prep Time:** 15 minutes (plus 1 hour marinating)
+
+**Cook Time:** 20 minutes
+
+## Overview
+Boneless chicken thighs cube small; marinate 1 hour in gochujang, gochugaru, soy, garlic, ginger, sugar and sesame oil. Pan-grill in a wide cast-iron skillet over medium-high until the sauce caramelises and the chicken is just cooked. Off heat - generous mozzarella scatters across the top; cover briefly or finish under a grill to melt. Top with sesame seeds and spring onions.
+
+## Ingredients
+
+### Marinade
+- 800 g boneless skinless chicken thighs (cut into 3 cm chunks)
+- 4 tablespoons gochujang (Korean chilli paste)
+- 2 tablespoons gochugaru (Korean chilli flakes)
+- 3 tablespoons soy sauce
+- 3 tablespoons soft brown sugar
+- 2 tablespoons mirin (or rice wine)
+- 1 tablespoon honey
+- 6 garlic cloves (crushed)
+- 1 thumb fresh ginger (grated)
+- 1 tablespoon sesame oil
+- 1 tablespoon vegetable oil
+
+### To cook
+- 2 tablespoons vegetable oil
+
+### Topping
+- 250 g grated mozzarella (low-moisture, full-fat)
+- 2 spring onions (sliced thin)
+- 1 tablespoon toasted sesame seeds
+- 1 sheet roasted seaweed (cut into thin strips, optional)
+
+### To serve
+- Steamed white rice
+- Kimchi
+- Lettuce leaves (for wrapping, optional)
+
+## Method
+
+### Stage 1 - Marinate
+1. Whisk all marinade ingredients (except the chicken) to a thick red paste.
+1. Add the chicken; turn to coat.
+1. Refrigerate 1 hour, ideally 2-3.
+
+### Stage 2 - Cook
+1. Heat the 2 tablespoons of oil in a wide cast-iron pan over medium-high heat.
+1. Add the marinated chicken in a single layer with all the marinade.
+1. Cook 10-12 minutes, stirring occasionally, until the chicken is just cooked and the sauce has reduced, caramelised and clings.
+
+### Stage 3 - Cheese
+1. Reduce heat to low. Scatter the mozzarella over the top.
+1. Cover with a lid (or hood with a metal bowl) 2 minutes, or finish under a hot grill 3 minutes, until the cheese is melted and just starting to bubble.
+
+### Stage 4 - Top
+1. Scatter spring onions, sesame seeds and seaweed strips.
+
+### Stage 5 - Serve
+1. Bring the pan to the table.
+1. Serve with steamed rice, kimchi, and lettuce leaves to wrap chicken-and-cheese bites if you want.
+
+## Notes
+- **Heat level:** Gochugaru and gochujang together pack a real punch. Cut both by half for a milder version - still recognisably buldak.
+- **Low-moisture mozzarella:** Fresh mozzarella weeps water and dilutes the sauce. Use the supermarket block / pre-grated kind.
+- **Cast-iron is the right pan:** Holds heat for the caramelisation step. A regular non-stick works but the sauce reduces less crisply.
+
+## Storage
+- Best fresh. Refrigerate 2 days; reheat in a pan.

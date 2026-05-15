@@ -1,0 +1,55 @@
+# Red berry beignets
+
+![Red berry beignets](resources/beignets.jpg)
+
+*Light with just a hint of crunch as you bite into them, these beignets are lovely with a jug of red berry coulis on the side.*
+
+**Serves:** 6 - 8
+
+## Ingredients
+### For the Batter
+- 7 grams fresh yeast
+- 75 ml milk
+- 130 grams plain flour
+- pinch of salt
+- 60 ml light beer
+- 1 egg (separated)
+- 2 tablespoons groundnut oil
+- 20 grams caster sugar
+
+### To cook and serve
+- grapeseed oil (to deep fry)
+- 500 grams mixed red fruits
+- granulated sugar
+
+## Overview
+Light, airy beignets coating fresh berries, with a slightly crispy exterior from the yeasted batter and a tender interior that yields to reveal juicy fruit. These ethereal fried pastries showcase fresh summer berries in their simplest, most elegant form, perfect for elegant dessert courses or petit fours.
+
+## Method
+### To make the batter
+1. In a small bowl, whisk the yeast into one-third of the milk.
+1. Put the flour and salt into a large bowl and slowly pour in the rest of the milk, the beer and egg yolk, mixing continuously with a balloon whisk.
+1. Once the mixture is smooth, add the yeast and milk mixture with the groundnut oil.
+1. Mix to combine, then cover the bowl with cling film and leave to stand for at least 2 hours.
+1. When almost ready to serve, in a clean bowl, whisk the egg white with the 20 grams of sugar to firm peaks.
+1. Fold the egg white into the batter, without overworking.
+
+### To cook
+1. Heat the grapeseed oil in a heavy pan to 160 - 170 °C.
+1. To test the consistency of the batter, using a fork, dip a single fruit into it to coat then immerse in the hot oil and deep-fry for 1 ½ - 2 minutes. Using a slitted spoon, remove and drain on kitchen paper. Cut the beignet in half; if the coating appears to be too thick, add ½ - 1 tablespoon of milk to the batter.
+1. Deep fry 6 - 8 individual fruits at a time, dripping each first in the batter before adding to the oil and cooking for 1 ½ - 2 minutes, until golden.
+1. Remove to a tray lined with kitchen paper to drain; keep warm while you deep-fry the remaining beignets.
+1. As soon as they are all cooked, sprinkle the beignets with a little sugar and serve.
+
+## Notes
+- The batter requires 2+ hours standing time for the yeast fermentation to develop flavor and airiness; rushed timing results in dense, heavy beignets
+- The egg white folded in at the last moment lightens the batter; fold gently to maintain the air bubbles created during the rising time
+- Berries must be at peak ripeness and flavor; underripe berries taste tart and overripe ones release too much liquid and become mushy during frying
+- The oil temperature of 160-170°C is crucial; too hot causes the exterior to burn before the interior cooks, too cool results in greasy absorption
+
+## Serving
+Serve the beignets immediately after frying while they're still warm and the exterior is crisp, dusted generously with granulated sugar. Accompany with a jug of red berry coulis for dipping and additional sweetness. Serve as an elegant petit four or dessert course.
+
+## Storage
+Beignets are best served immediately after frying while warm and crisp. The batter can be made 2-3 hours ahead and kept covered at room temperature (the fermentation continues slowly at room temperature). The berries should be prepared just before dipping and frying to prevent them from releasing liquid. Once cooked, beignets gradually become soft and should not be held more than 30 minutes before serving.
+

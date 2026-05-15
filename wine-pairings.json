@@ -1,0 +1,126 @@
+{
+  "rules": [
+    {
+      "name": "Beef and lamb",
+      "tags": ["meals"],
+      "anyTags": ["beef", "lamb"],
+      "wines": ["Cabernet Sauvignon", "Malbec", "Syrah / Shiraz"],
+      "note": "Bold, tannic reds stand up to red meat and roasts."
+    },
+    {
+      "name": "Beef stews and braises",
+      "tags": ["meals"],
+      "anyTags": ["beef"],
+      "titleAny": ["stew", "braise", "bourguignon", "ragu", "ragout", "brisket", "short rib"],
+      "wines": ["Pinot Noir", "Côtes du Rhône", "Tempranillo"],
+      "note": "Long-cooked beef wants medium-bodied reds with earth and spice."
+    },
+    {
+      "name": "Chicken and white meat",
+      "tags": ["meals"],
+      "anyTags": ["chicken"],
+      "wines": ["Chardonnay", "Pinot Noir", "Sauvignon Blanc"],
+      "note": "Versatile pairings - pick lighter wines for poached or roasted, fuller for creamy or charred."
+    },
+    {
+      "name": "Pork",
+      "tags": ["meals"],
+      "anyTags": ["pork"],
+      "wines": ["Pinot Noir", "Riesling", "Chianti"],
+      "note": "Pork works with both fruity reds and off-dry whites; pick by sauce richness."
+    },
+    {
+      "name": "Duck and game",
+      "tags": ["meals"],
+      "anyTags": ["duck"],
+      "wines": ["Pinot Noir", "Merlot", "Barbera"],
+      "note": "Earthy, medium-bodied reds match game's depth without overpowering."
+    },
+    {
+      "name": "Fish",
+      "tags": ["meals"],
+      "anyTags": ["fish", "salmon"],
+      "wines": ["Sauvignon Blanc", "Pinot Grigio", "Chablis"],
+      "note": "Crisp dry whites; richer fish (salmon, tuna) can take a light Pinot Noir too."
+    },
+    {
+      "name": "Shellfish",
+      "tags": ["meals"],
+      "anyTags": ["prawn"],
+      "wines": ["Sauvignon Blanc", "Albariño", "Champagne"],
+      "note": "High-acid whites and sparkling cut through shellfish brininess."
+    },
+    {
+      "name": "Spicy and curry",
+      "tags": ["meals"],
+      "anyTags": ["curry", "spicy"],
+      "wines": ["Off-dry Riesling", "Gewürztraminer", "Grenache rosé"],
+      "note": "A touch of sweetness tames chilli heat better than tannic reds."
+    },
+    {
+      "name": "Italian",
+      "tags": ["meals"],
+      "titleAny": ["pasta", "lasagne", "lasagna", "risotto", "ragu", "ragout"],
+      "wines": ["Chianti Classico", "Sangiovese", "Nero d'Avola"],
+      "note": "Italian reds with bright acidity match tomato-based sauces."
+    },
+    {
+      "name": "Asian and noodle",
+      "tags": ["meals", "asian"],
+      "wines": ["Riesling", "Pinot Gris", "Gamay"],
+      "note": "Aromatic whites and light fruity reds match soy, ginger and sesame."
+    },
+    {
+      "name": "Vegetarian and vegetable-led",
+      "tags": ["meals", "vegetarian"],
+      "wines": ["Sauvignon Blanc", "Grüner Veltliner", "Beaujolais"],
+      "note": "Herbal, mineral whites and light reds let vegetables shine."
+    },
+
+    {
+      "name": "Chocolate desserts",
+      "tags": ["dessert"],
+      "titleAny": ["chocolate", "brownie", "ganache", "fudge", "tiramisu"],
+      "wines": ["Tawny Port", "Banyuls", "Late-harvest Zinfandel"],
+      "note": "Fortified sweet reds match chocolate's richness without clashing."
+    },
+    {
+      "name": "Fruit desserts",
+      "tags": ["dessert"],
+      "titleAny": ["apple", "pear", "peach", "plum", "cherry", "berry", "raspberry", "strawberry", "blueberry", "fruit", "tart", "crumble", "cobbler"],
+      "wines": ["Moscato d'Asti", "Late-harvest Riesling", "Sauternes"],
+      "note": "Light, sweet whites lift fresh fruit flavours."
+    },
+    {
+      "name": "Citrus desserts",
+      "tags": ["dessert"],
+      "titleAny": ["lemon", "lime", "orange", "citrus"],
+      "wines": ["Moscato d'Asti", "Prosecco", "Late-harvest Sauvignon Blanc"],
+      "note": "Sparkling and crisp sweet wines mirror citrus zing."
+    },
+    {
+      "name": "Creamy desserts",
+      "tags": ["dessert"],
+      "titleAny": ["custard", "panna cotta", "crème", "creme", "cheesecake", "mousse", "ice cream", "trifle"],
+      "wines": ["Sauternes", "Tokaji", "Vin Santo"],
+      "note": "Rich, honeyed dessert wines echo creamy textures."
+    },
+    {
+      "name": "Sponges and pastries",
+      "tags": ["dessert"],
+      "titleAny": ["sponge", "cake", "pastry", "éclair", "eclair", "doughnut", "donut", "scone", "biscuit"],
+      "wines": ["Moscato d'Asti", "Demi-sec Champagne", "Asti Spumante"],
+      "note": "Lightly sweet sparkling pairs well with cakes and pastries."
+    }
+  ],
+  "defaults": {
+    "meals": {
+      "wines": ["Chardonnay", "Pinot Noir"],
+      "note": "A safe default - adjust by sauce, spice and richness."
+    },
+    "dessert": {
+      "wines": ["Moscato d'Asti", "Late-harvest Riesling"],
+      "note": "Light, sweet whites work as a versatile dessert default."
+    }
+  }
+}

@@ -1,0 +1,88 @@
+# New York Cheesecake
+
+![New York Cheesecake](resources/nyc-cheesecake.jpg)
+*The dense, tall, crack-on-top cheesecake from Brooklyn delicatessens: cream cheese, sour cream, eggs, sugar, vanilla and lemon zest on a buttery graham-cracker base. Different from Italian ricotta cheesecake (lighter, dryer), San Sebastián burnt cheesecake (deliberately scorched, no crust) or no-bake British versions (chilled-set with gelatin). NYC cheesecake bakes long and slow in a water bath, then cools and chills overnight to set firm. Cuts into thick slices that hold their shape on a plate. Serve plain or with a strawberry compote.*
+
+**Serves:** 12
+
+**Prep Time:** 40 minutes
+
+**Cook Time:** 1 hour 20 minutes (plus overnight chilling)
+
+## Overview
+Graham-cracker base presses into a 23 cm springform tin; pre-bakes 10 min. Filling: cream cheese softens (very important - cold cream cheese gives lumpy batter). Beats with sugar, then eggs one at a time, then sour cream, vanilla, lemon. Wraps tin in foil so water bath doesn't seep in. Bakes at 160°C in a water bath 60-75 minutes till the edges are set but the centre wobbles a 7 cm circle. Cools in the oven with the door cracked 1 hour (avoids cracks). Chills overnight. Serves chilled.
+
+## Ingredients
+
+### Crust
+- 250 g graham crackers (or digestive biscuits)
+- 80 g caster sugar
+- 120 g unsalted butter (melted)
+- A pinch of salt
+
+### Filling
+- 900 g full-fat cream cheese (Philadelphia or equivalent; room temperature)
+- 250 g caster sugar
+- 30 g plain flour
+- 4 large eggs (room temperature)
+- 1 large egg yolk
+- 200 g full-fat sour cream
+- 2 teaspoons vanilla extract
+- Zest of 1 lemon
+- 1 tablespoon lemon juice
+
+### To serve (optional)
+- Strawberry compote, or fresh berries
+
+## Method
+
+### Stage 1 - Crust
+1. Heat the oven to 175°C (155°C fan).
+1. Pulse the graham crackers to fine crumbs.
+1. Mix with sugar, melted butter and salt.
+1. Press evenly into the bottom and 3 cm up the sides of a 23 cm springform tin (lightly buttered).
+1. Bake 10 minutes; cool on a rack while you make the filling.
+
+### Stage 2 - Wrap the tin for water bath
+1. Wrap the bottom and sides of the springform tin in 2 layers of heavy-duty foil (no gaps - water mustn't seep in during the bath).
+
+### Stage 3 - Filling
+1. In a stand mixer or with electric beaters, beat the room-temperature cream cheese on medium for 2 minutes until smooth and lump-free.
+1. Add the sugar and flour; beat 2 more minutes.
+1. Scrape down the bowl.
+1. Add the eggs ONE AT A TIME, beating just until incorporated after each (don't over-aerate - bubbles cause cracks).
+1. Add the extra yolk; beat briefly.
+1. Mix in the sour cream, vanilla, lemon zest and juice; beat on low until just combined.
+1. Scrape down again; mix briefly.
+
+### Stage 4 - Bake in water bath
+1. Lower the oven to 160°C (140°C fan).
+1. Pour the filling into the prepared crust; smooth the top with a spatula.
+1. Place the foil-wrapped tin into a deep roasting tray.
+1. Pour boiling water around the tin to a depth of 3 cm (the water bath stabilises the temperature and prevents cracks).
+1. Bake 60-75 minutes - the edges should be set and slightly puffed; the centre should jiggle a 7 cm wobble area.
+
+### Stage 5 - Slow cool
+1. Turn the oven off; crack the door open 5 cm.
+1. Leave the cheesecake in the cooling oven 1 hour (sudden temperature change is the main cause of cracks).
+
+### Stage 6 - Chill
+1. Remove from the water bath; remove foil; cool to room temperature on a rack (1 hour).
+1. Cover; chill overnight.
+
+### Stage 7 - Serve
+1. Run a thin knife around the edge; release the springform.
+1. Cut with a hot knife (dipped in hot water, wiped between cuts) for clean slices.
+1. Serve chilled, plain or with strawberry compote.
+
+## Notes
+- **ROOM-TEMPERATURE cream cheese:** the single most important thing. Cold cream cheese gives lumpy batter and the lumps don't smooth out during baking. Leave the cream cheese on the counter 2+ hours before mixing.
+- **Don't overbeat after the eggs:** every air bubble you whip in turns into a crack when baked. Beat on low, scrape often, stop mixing once incorporated.
+- **Water bath, not optional:** New York cheesecake's signature dense-but-creamy texture depends on it. Skip and you get a drier, crumbly cake with surface cracks.
+- **Slow cool in the oven:** thermal shock cracks the top. The 1-hour gradual cool is what gives the iconic uncracked surface.
+- **Overnight chill:** under-chilled cheesecake is too soft to slice. Overnight at fridge temperature is the firmness benchmark.
+
+## Storage
+- Keeps 5 days refrigerated.
+- The flavour deepens on day 2-3.
+- Freezes whole or sliced, 2 months; thaw overnight in the fridge.

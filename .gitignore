@@ -1,0 +1,16 @@
+new.md
+**/wip/**
+.env
+unsplash
+scripts/image-preview.html
+candidates.html
+.claude/**
+**/candidates/**
+run.bat
+TODO/**
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example

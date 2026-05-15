@@ -1,0 +1,74 @@
+# Sambousak Afghani
+
+![Sambousak Afghani](resources/sambousak-afghani.jpg)
+*Crisp triangular Afghan pastries filled with spiced lamb mince, leek and dried coriander, deep-fried golden. Smaller than an Indian samosa, with leek folded through the filling - a Central Asian crossover. Eaten warm with mint chutney or a yogurt dipping sauce. Made by the dozen for parties, weddings and Friday lunches.*
+
+**Serves:** 6 (makes 18-20)
+
+**Prep Time:** 40 minutes
+
+**Cook Time:** 20 minutes
+
+## Overview
+Lamb mince fries with onion, leek, garlic, ginger, ground coriander, cumin, chilli and a touch of dried mint. Cool. Spring-roll pastry sheets cut into long strips; a teaspoon of cool filling folds into a triangular packet via the flag-fold method. Sealed with flour-water paste; fried at 170°C for 3 minutes per side.
+
+## Ingredients
+
+### Filling
+- 400 g lamb mince
+- 2 tablespoons vegetable oil
+- 1 medium onion (very finely chopped)
+- 2 medium leeks (white and pale-green only, finely chopped)
+- 4 garlic cloves (crushed)
+- 1 thumb fresh ginger (grated)
+- 1 ½ teaspoons ground cumin
+- 1 ½ teaspoons ground coriander
+- ½ teaspoon ground turmeric
+- ½ teaspoon Kashmiri chilli powder
+- ½ teaspoon dried mint
+- 2 tablespoons fresh coriander (chopped)
+- 1 teaspoon salt
+- ½ teaspoon ground black pepper
+
+### Wrapping and frying
+- 20 spring-roll pastry sheets (cut into 8 x 25 cm strips)
+- 2 tablespoons plain flour + 3 tablespoons cold water (paste, for sealing)
+- 1 litre vegetable oil for deep frying
+
+### To serve
+- Mint chutney or garlic yogurt
+- Lemon wedges
+
+## Method
+
+### Stage 1 - Filling
+1. Heat the oil in a wide pan over medium-high heat.
+1. Brown the lamb hard, breaking up clumps; pour off excess fat.
+1. Add onion and leek; cook 8 minutes until softened and any leek liquid has evaporated.
+1. Stir in garlic, ginger and all spices (except dried mint); cook 1 minute.
+1. Splash in 80 ml stock; simmer 4 minutes until dry.
+1. Off the heat, stir in dried mint, fresh coriander, salt and pepper.
+1. Spread on a tray; cool completely.
+
+### Stage 2 - Fold
+1. Take a pastry strip. Place a teaspoon of cool filling at the bottom-right corner.
+1. Fold the corner up to the left edge to form a triangle.
+1. Continue folding the triangle up the length of the strip (flag-fold method).
+1. At the tail, brush with flour paste; tuck and seal.
+
+### Stage 3 - Fry
+1. Heat oil to 170°C in a deep pan.
+1. Fry in batches of 5-6, 3 minutes per side, until deep gold and crisp.
+1. Drain on kitchen paper.
+
+### Stage 4 - Serve
+1. Eat warm with mint chutney or garlic yogurt and lemon wedges.
+
+## Notes
+- **Cool filling:** Warm filling steams the pastry and breaks the seal in the fryer. Cool completely on a tray.
+- **Leek finely chopped:** Big pieces stay tough and fight the pastry. Fine chop softens fast in the cook.
+- **Make ahead and freeze:** Fold all 20; freeze on a tray; bag once frozen. Fry from frozen, adding 1 minute per side.
+
+## Storage
+- Refrigerate cooked 2 days; re-crisp at 200°C 6 minutes.
+- Freeze unfried up to 2 months.

@@ -1,0 +1,68 @@
+# Choripán Chileno
+
+![Choripán Chileno](resources/choripan-chileno.jpg)
+*Grilled Chilean chorizo (longaniza) split lengthways and tucked into a marraqueta or hot-dog roll, topped with pebre - a fresh salsa of tomato, onion, coriander, garlic and aji. Different from the Argentine version (no chimichurri, smaller sausage, focus on pebre). The Chilean street-food standard; eats with one hand while standing by the grill.*
+
+**Serves:** 4
+
+**Prep Time:** 15 minutes
+
+**Cook Time:** 12 minutes
+
+## Overview
+Chilean longaniza (or any good fresh pork sausage) splits lengthways but stays attached at one end. Grills 6 minutes per side. Marraqueta rolls split, lightly toast on the grill. Sausage tucks into the roll; pebre spoons generously on top. Some add a dab of mayo or mustard. Eats immediately.
+
+## Ingredients
+
+### Sausages and rolls
+- 4 Chilean longaniza (or any good fresh chorizo / pork sausages; ~120 g each)
+- 4 marraqueta rolls (or crusty hot-dog buns)
+- 2 tablespoons neutral oil
+
+### Pebre
+- 2 ripe tomatoes (deseeded, finely diced)
+- 1 small red onion (finely diced)
+- 30 g fresh coriander (chopped)
+- 2 garlic cloves (minced)
+- 1 tablespoon ají amarillo or merkén (Chilean smoked chilli) - substitute mild chilli + smoked paprika
+- 3 tablespoons olive oil
+- 2 tablespoons red-wine vinegar
+- 1 teaspoon salt
+
+### Optional toppings
+- Mayonnaise
+- Mustard
+
+## Method
+
+### Stage 1 - Pebre
+1. Combine the diced tomato, onion, coriander, garlic, ají or merkén, olive oil, vinegar and salt in a bowl.
+1. Toss; rest 15 minutes.
+
+### Stage 2 - Grill sausages
+1. Heat a grill or griddle pan to medium-high.
+1. With a sharp knife, slice each sausage lengthways, leaving the back attached so it opens like a butterfly.
+1. Brush both sides with oil.
+1. Grill 5-6 minutes per side, cut-side first, until charred outside and cooked through.
+
+### Stage 3 - Toast rolls
+1. Split the rolls partway through (not all the way).
+1. Place cut-side-down on the grill 1 minute to toast lightly.
+
+### Stage 4 - Assemble
+1. Tuck a butterflied sausage into each roll.
+1. Spoon generous pebre on top (be generous - it's the dish).
+1. Add a drizzle of mayo or mustard if liked.
+
+### Stage 5 - Serve
+1. Eat immediately, standing if possible, with napkins.
+
+## Notes
+- **Butterfly the sausage:** opens up surface area for char and means it tucks flat into the roll. Whole-tube sausages don't fit cleanly.
+- **Pebre fresh, not jarred:** the whole appeal is the bright fresh salsa over hot sausage. Day-old pebre is fine; week-old is not.
+- **Merkén is iconic but optional:** the Chilean smoked-chilli powder gives a particular smoky heat. Smoked paprika + a pinch of cayenne is a close substitute.
+
+## Storage
+- Eats immediately - don't pre-assemble.
+- Pebre keeps 3 days refrigerated; flavour deepens.
+- Grilled sausages reheat poorly; cook to order.

@@ -1,0 +1,80 @@
+# Ukoy (Shrimp Fritters)
+
+![Ukoy](resources/ukoy.jpg)
+*Small whole shrimp (shells on) buried in a batter of grated squash, mung bean sprouts, spring onion and rice flour, then deep-fried into crisp golden discs. The shells crackle as you bite, the batter shatters around them, the sprouts give a fresh sweet crunch. Eats with a saucer of garlic-vinegar dip - sukang sawsawan. A merienda staple in every Filipino home and a wet-market street snack countrywide.*
+
+**Serves:** Makes 12 fritters (serves 4 as a snack)
+
+**Prep Time:** 20 minutes
+
+**Cook Time:** 25 minutes (in batches)
+
+## Overview
+Small whole head-on shrimp rinse but stay shell-on (shells provide crunch and flavour). A batter of rice flour, plain flour, water and egg goes loose. Grated squash, mung-bean sprouts and spring onion mix in. A ladleful drops into hot oil, with 3-4 shrimp pressed on top, fries 4 minutes till crisp gold, flips, another 2 minutes. Drains on rack. Eats with garlic-vinegar dip.
+
+## Ingredients
+
+### Batter
+- 80 g rice flour
+- 80 g plain flour
+- 1 teaspoon salt
+- ½ teaspoon ground white pepper
+- ½ teaspoon ground turmeric (for colour)
+- 1 large egg
+- 250 ml cold water
+
+### Mix-ins
+- 300 g grated kabocha or butternut squash (~2 cups loose)
+- 200 g mung bean sprouts
+- 4 spring onions (finely sliced)
+- 12 small whole shrimp (head and shell on, about 200 g total; or 24 if very small)
+
+### Frying
+- 800 ml neutral oil (sunflower or rapeseed)
+
+### Garlic-vinegar dip
+- 4 tablespoons white cane vinegar
+- 4 garlic cloves (minced)
+- 1 teaspoon salt
+- ½ teaspoon ground black pepper
+- 1 small red chilli (sliced thin)
+
+## Method
+
+### Stage 1 - Shrimp
+1. Rinse the small whole shrimp under cold water.
+1. Pat dry on kitchen paper (don't peel - the shells become crispy when fried).
+1. Set aside.
+
+### Stage 2 - Batter
+1. In a wide bowl, whisk both flours, salt, white pepper and turmeric.
+1. Add the egg and cold water; whisk to a smooth batter (consistency of double cream).
+1. Stir in the grated squash, mung-bean sprouts and spring onions.
+1. The mixture should be loose and full of vegetables.
+
+### Stage 3 - Garlic-vinegar dip
+1. In a small bowl, combine vinegar, minced garlic, salt, pepper and chilli.
+1. Whisk; rest 10 minutes for the garlic to mellow.
+
+### Stage 4 - Fry
+1. Heat the oil in a wide pan to 175°C (a cube of bread should sizzle and brown in 30 seconds).
+1. Spoon a generous ladle of batter into the oil to form a 10 cm disc.
+1. Quickly arrange 1 whole shrimp on top of each disc, pressing gently so they stick (you can do 3-4 fritters per batch in a large pan).
+1. Fry 3-4 minutes till crisp gold underneath; flip carefully with a slotted spoon; fry 2 more minutes.
+1. Lift onto a wire rack to drain (paper towels make the bottoms soggy).
+1. Skim any debris from the oil between batches.
+
+### Stage 5 - Serve
+1. Pile the fritters on a warm platter.
+1. Serve with the garlic-vinegar dip in small bowls for each diner.
+
+## Notes
+- **Shell-on shrimp:** the shells fry to a sweet crisp and are entirely edible (and the best bit). Don't peel them.
+- **Hot oil, not just warm:** below 170°C the batter absorbs oil and the fritters go greasy. Use a thermometer or test with bread.
+- **Drain on a rack:** any flat surface traps steam and softens the bottom. A wire rack lets air circulate.
+- **Best shrimp size:** small (8-10 cm body) are ideal - large prawns are too meaty for the batter ratio.
+
+## Storage
+- Best straight from the fryer.
+- Reheat any leftovers in a hot dry oven (200°C, 5 minutes) - never microwave.
+- The batter must be made fresh; the rice flour separates within 30 minutes of mixing.
