@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A simple yeasted flatbread dough rises 1 hour. Za'atar (the spice blend) is mixed with enough olive oil to make a thick spreadable paste. The dough divides, rolls into rounds about 18 cm wide and 5 mm thick, and gets a generous spread of za'atar paste across the surface, leaving a small border. Baked at 230°C for 7-9 minutes until the dough is gold underneath and the za'atar oil bubbles on top.
+A simple yeasted flatbread dough rises for 1 hour. Za'atar (the spice blend) is mixed with enough olive oil to make a thick spreadable paste. The dough divides, rolls into rounds about 18 cm wide and 5 mm thick, and gets a generous spread of za'atar paste across the surface, leaving a small border. Baked at 230°C for 7-9 minutes until the dough is gold underneath and the za'atar oil bubbles on top.
 
 ## Ingredients
 

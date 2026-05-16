@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Dried shrimp and dried shiitake soak in warm water until plump; the soaking water is reserved. Chinese sausage dices fine; shallots, soaked shrimp and shiitake chop separately. All these flavourings fry together in oil until aromatic. Grated daikon is added with the shiitake-shrimp soaking liquid; cooked 10 minutes covered until softened. Rice flour whisks with cold water into a smooth slurry; pours into the daikon mixture; cooks 2 minutes, stirring, until thickened into a batter. Tipped into a greased loaf tin; smoothed; steamed 60 minutes in a wide pot. Cooled fully, refrigerated, then sliced 1 cm thick and pan-fried in oil until crusted gold on both sides. Served with chilli oil and a dipping sauce of light soy and rice vinegar.
+Dried shrimp and dried shiitake soak in warm water until plump; the soaking water is reserved. Chinese sausage dices fine; shallots, soaked shrimp and shiitake chop separately. All these flavourings fry together in oil until aromatic. Grated daikon is added with the shiitake-shrimp soaking liquid; cooked for 10 minutes covered until softened. Rice flour whisks with cold water into a smooth slurry; pours into the daikon mixture; cooks for 2 minutes, stirring, until thickened into a batter. Tipped into a greased loaf tin; smoothed; steamed for 60 minutes in a wide pot. Cooled fully, refrigerated, then sliced 1 cm thick and pan-fried in oil until crusted gold on both sides. Served with chilli oil and a dipping sauce of light soy and rice vinegar.
 
 ## Ingredients
 

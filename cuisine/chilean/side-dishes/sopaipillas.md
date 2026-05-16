@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Pumpkin (or butternut) cubes boil, drain, mash. The warm purée mixes with flour, melted butter, baking powder and salt to a soft, pliable dough. Rest 30 minutes. Roll to 5 mm thick; stamp out 8 cm rounds; pierce each twice with a fork. Fry at 170°C 90 seconds per side until deep gold.
+Pumpkin (or butternut) cubes boil, drain, mash. The warm purée mixes with flour, melted butter, baking powder and salt to a soft, pliable dough. Rest for 30 minutes. Roll to 5 mm thick; stamp out 8 cm rounds; pierce each twice with a fork. Fry at 170°C 90 seconds per side until deep gold.
 
 ## Ingredients
 

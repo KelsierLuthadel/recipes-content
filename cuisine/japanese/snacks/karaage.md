@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Chicken thighs (boneless, skin-on for the best result) are cut into 4 cm pieces and marinated 30 minutes in a mixture of soy sauce, sake, grated ginger, garlic, mirin and a touch of sesame oil. The marinated chicken pieces are then thoroughly dredged in potato starch (also called katakuriko in Japanese; cornstarch is a workable substitute but not as good). Oil heats to 160°C for the first fry - chicken pieces fry 4 minutes until just cooked but not deeply coloured. Removed; rested 5 minutes. Oil temperature increases to 190°C for the second fry - chicken returns for 60-90 seconds until amber-golden, crisp, and the outside shatters when bitten. Salted; served immediately.
+Chicken thighs (boneless, skin-on for the best result) are cut into 4 cm pieces and marinated for 30 minutes in a mixture of soy sauce, sake, grated ginger, garlic, mirin and a touch of sesame oil. The marinated chicken pieces are then thoroughly dredged in potato starch (also called katakuriko in Japanese; cornstarch is a workable substitute but not as good). Oil heats to 160°C for the first fry - chicken pieces fry for 4 minutes until just cooked but not deeply coloured. Removed; rested for 5 minutes. Oil temperature increases to 190°C for the second fry - chicken returns for 60-90 seconds until amber-golden, crisp, and the outside shatters when bitten. Salted; served immediately.
 
 ## Ingredients
 

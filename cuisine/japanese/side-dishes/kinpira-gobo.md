@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Burdock root (gobo - long thin brown root sold at Japanese / Korean / well-stocked Asian shops; if unavailable, substitute with parsnip + an extra dash of dashi for the earthy depth) is scrubbed clean, julienned into matchsticks, then soaked briefly in vinegared water to prevent oxidation. Carrots julienne to similar matchsticks. Sesame oil heats; dried red chilli flakes (or one small chilli sliced) infuses 30 seconds; the drained gobo goes in and stir-fries 3 minutes; carrot joins; everything tosses 2 more minutes. A sauce of soy, mirin, sugar and a splash of sake pours in; reduces 4-5 minutes until the liquid is gone and the vegetables are glazed. Finished with sesame seeds and a drizzle of sesame oil.
+Burdock root (gobo - long thin brown root sold at Japanese / Korean / well-stocked Asian shops; if unavailable, substitute with parsnip + an extra dash of dashi for the earthy depth) is scrubbed clean, julienned into matchsticks, then soaked briefly in vinegared water to prevent oxidation. Carrots julienne to similar matchsticks. Sesame oil heats; dried red chilli flakes (or one small chilli sliced) infuses 30 seconds; the drained gobo goes in and stir-fries for 3 minutes; carrot joins; everything tosses 2 more minutes. A sauce of soy, mirin, sugar and a splash of sake pours in; reduces for 4-5 minutes until the liquid is gone and the vegetables are glazed. Finished with sesame seeds and a drizzle of sesame oil.
 
 ## Ingredients
 

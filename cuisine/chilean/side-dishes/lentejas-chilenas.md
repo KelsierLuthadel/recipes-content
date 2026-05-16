@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Smoked bacon renders in a heavy pot; onion, garlic and carrot soften in the fat. Tomato and dried oregano build a base. Lentils and stock simmer 45 minutes until tender. Potato chunks go in for the last 20 minutes. A splash of red wine vinegar at the end brightens the rich stew.
+Smoked bacon renders in a heavy pot; onion, garlic and carrot soften in the fat. Tomato and dried oregano build a base. Lentils and stock simmer for 45 minutes until tender. Potato chunks go in for the last 20 minutes. A splash of red wine vinegar at the end brightens the rich stew.
 
 ## Ingredients
 

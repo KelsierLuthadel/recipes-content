@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Cooked long-grain rice (slightly over-cooked, soft) mashes lightly with sugar, beaten egg, milk, vanilla and a pinch of nutmeg. Flour and baking powder fold through to a thick batter. Rest 30 minutes. Drop tablespoons into 175°C oil; fry 2-3 minutes per side until deep gold. Drain; dust with icing sugar.
+Cooked long-grain rice (slightly over-cooked, soft) mashes lightly with sugar, beaten egg, milk, vanilla and a pinch of nutmeg. Flour and baking powder fold through to a thick batter. Rest for 30 minutes. Drop tablespoons into 175°C oil; fry for 2-3 minutes per side until deep gold. Drain; dust with icing sugar.
 
 ## Ingredients
 

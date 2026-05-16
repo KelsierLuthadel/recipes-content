@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Silken tofu cubes blanch briefly in salted water (firms slightly and seasons). Pork mince fries hard in oil; doubanjiang and douchi join, cook to release oil; garlic, ginger, chilli flakes, ground Sichuan peppercorn toast briefly. Stock pours in; tofu slips in; gentle simmer 5 minutes; cornflour slurry thickens. Spring onions and a final dusting of ground Sichuan peppercorn finish.
+Silken tofu cubes are blanched briefly in salted water (firms slightly and seasons). Pork mince is fried hard in oil; doubanjiang and douchi join, cooking to release oil; garlic, ginger, chilli flakes and ground Sichuan peppercorn are toasted briefly. Stock is poured in; tofu is slipped in; gentle simmer for 5 minutes; cornflour slurry thickens. Spring onions and a final dusting of ground Sichuan peppercorn finish.
 
 ## Ingredients
 

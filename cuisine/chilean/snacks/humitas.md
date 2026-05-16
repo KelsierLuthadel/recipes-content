@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Fresh sweetcorn shucks; husks save in warm water to soften. Kernels strip; pulse half to a coarse paste, leave half whole. Onion softens in butter with paprika and salt. Combine. Spoon two tablespoons of mixture onto a softened husk; fold sides in, fold ends down, tie with a thin strip of husk. Steam 45 minutes. Serve hot.
+Fresh sweetcorn is shucked; the husks are saved in warm water to soften. The kernels are stripped; half are pulsed to a coarse paste, half left whole. Onion is softened in butter with paprika and salt. Combined. Two tablespoons of mixture are spooned onto a softened husk; sides folded in, ends folded down, tied with a thin strip of husk. Steamed for 45 minutes. Served hot.
 
 ## Ingredients
 - 6 fresh ears of sweetcorn (with their husks)

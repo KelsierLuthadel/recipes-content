@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes (with a hot stone)
 
 ## Overview
-A simple dough of half plain flour and half wholemeal, yeast, salt and warm water. Rises 1 hour. Divides into 6 portions; rolls into thin 18 cm discs; rests 20 minutes. Baked at maximum heat on a hot baking stone for 3-4 minutes - they puff dramatically and fall flat as they cool, leaving a hollow pocket.
+A simple dough of half plain flour and half wholemeal, yeast, salt and warm water. Rises for 1 hour. Divides into 6 portions; rolls into thin 18 cm discs; rests for 20 minutes. Baked at maximum heat on a hot baking stone for 3-4 minutes - they puff dramatically and fall flat as they cool, leaving a hollow pocket.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Maris Piper or floury potatoes peel and cube 2.5 cm. Double-cook for shatter-crisp shell + fluffy interior: blanch / boil 8 minutes till just tender, drain, cool slightly. Brava sauce: olive oil heats with garlic and a touch of flour; smoked paprika + cayenne stir in 30 seconds; tomato passata, sherry vinegar, salt, sugar; simmer 15 minutes; blend if you want a smooth sauce or leave rustic. Optional garlic aioli: garlic-and-egg-yolk mayonnaise. Potatoes fry in hot oil 6-8 minutes till deep gold. Plate with sauce zigzagged over; aioli alongside.
+Maris Piper or floury potatoes peel and cube 2.5 cm. Double-cook for shatter-crisp shell + fluffy interior: blanch / boil for 8 minutes till just tender, drain, cool slightly. Brava sauce: olive oil heats with garlic and a touch of flour; smoked paprika + cayenne stir in 30 seconds; tomato passata, sherry vinegar, salt, sugar; simmer for 15 minutes; blend if you want a smooth sauce or leave rustic. Optional garlic aioli: garlic-and-egg-yolk mayonnaise. Potatoes fry in hot oil 6-8 minutes till deep gold. Plate with sauce zigzagged over; aioli alongside.
 
 ## Ingredients
 

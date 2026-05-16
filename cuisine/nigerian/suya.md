@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Beef sirloin or rump is sliced very thin across the grain. A suya spice (yaji) is made by grinding dry-roasted unsalted peanuts with ground ginger, cayenne, paprika, garlic powder, onion powder, ground cloves and salt - the peanut acts as the carrier and gives suya its unique nutty edge. Half the spice rubs into the beef; the strips marinate 1 hour. They're threaded onto pre-soaked bamboo skewers in an accordion fold, brushed with oil, and grilled over high heat 4-5 minutes per side until charred at the edges. Fresh out of the fire, the skewers are dipped/rolled in the reserved dry spice, served with sliced raw red onion, tomato and shredded cabbage. Maggi and a wedge of lime alongside.
+Beef sirloin or rump is sliced very thin across the grain. A suya spice (yaji) is made by grinding dry-roasted unsalted peanuts with ground ginger, cayenne, paprika, garlic powder, onion powder, ground cloves and salt - the peanut acts as the carrier and gives suya its unique nutty edge. Half the spice rubs into the beef; the strips marinate for 1 hour. They're threaded onto pre-soaked bamboo skewers in an accordion fold, brushed with oil, and grilled over high heat 4-5 minutes per side until charred at the edges. Fresh out of the fire, the skewers are dipped/rolled in the reserved dry spice, served with sliced raw red onion, tomato and shredded cabbage. Maggi and a wedge of lime alongside.
 
 ## Ingredients
 

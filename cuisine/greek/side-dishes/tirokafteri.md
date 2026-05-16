@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes (assumes pre-roasted peppers; 20 minutes from raw)
 
 ## Overview
-Roasted red pepper (jarred or homemade) blends with feta, cream cheese, garlic, chilli, olive oil and red-wine vinegar until smooth but with a slight texture. Tastes for heat - add a second chilli if mild. Chills 30 minutes for the flavours to meld. Served in a shallow bowl with a drizzle of olive oil, a pinch of paprika and a sprinkle of oregano. Eats with warm pita.
+Roasted red pepper (jarred or homemade) blends with feta, cream cheese, garlic, chilli, olive oil and red-wine vinegar until smooth but with a slight texture. Tastes for heat - add a second chilli if mild. Chills for 30 minutes for the flavours to meld. Served in a shallow bowl with a drizzle of olive oil, a pinch of paprika and a sprinkle of oregano. Eats with warm pita.
 
 ## Ingredients
 - 200 g feta cheese (Greek, in brine)

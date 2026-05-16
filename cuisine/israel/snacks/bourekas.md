@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Ready-rolled all-butter puff pastry cuts into 12 squares (about 12 × 12 cm). Cheese filling: feta + ricotta + egg + parsley + nutmeg + pepper, mashed to a thick paste. Filling spoons onto each square; corners fold across to a triangle; edges crimp with a fork. Brushes with egg wash; sprinkles with sesame and nigella seeds. Bakes 25 minutes at 200°C till deep gold and puffed.
+Ready-rolled all-butter puff pastry cuts into 12 squares (about 12 × 12 cm). Cheese filling: feta + ricotta + egg + parsley + nutmeg + pepper, mashed to a thick paste. Filling spoons onto each square; corners fold across to a triangle; edges crimp with a fork. Brushes with egg wash; sprinkles with sesame and nigella seeds. Bakes for 25 minutes at 200°C till deep gold and puffed.
 
 ## Ingredients
 

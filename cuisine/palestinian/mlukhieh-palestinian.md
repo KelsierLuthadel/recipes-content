@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 20 minutes
 
 ## Overview
-Chicken thighs poach with onion, bay, cardamom and cinnamon to make a fragrant stock and tender meat. Finely chopped frozen mlukhieh leaves (the easiest way; sold at Middle Eastern shops) tip into the strained hot stock; simmer 25 minutes. Meanwhile, a tarka: lots of crushed garlic and ground coriander fry in olive oil until fragrant and just gold. The tarka stirs into the simmering mlukhieh - this is the Palestinian signature step. Salt to season. Served over rice with the poached chicken alongside and a squeeze of lemon.
+Chicken thighs poach with onion, bay, cardamom and cinnamon to make a fragrant stock and tender meat. Finely chopped frozen mlukhieh leaves (the easiest way; sold at Middle Eastern shops) tip into the strained hot stock; simmer for 25 minutes. Meanwhile, a tarka: lots of crushed garlic and ground coriander fry in olive oil until fragrant and just gold. The tarka stirs into the simmering mlukhieh - this is the Palestinian signature step. Salt to season. Served over rice with the poached chicken alongside and a squeeze of lemon.
 
 ## Ingredients
 

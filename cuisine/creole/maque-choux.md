@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Onion and pepper soften in butter; corn kernels (cut from the cob, with the milky pulp scraped after) join in; tomato adds for body. The lot stews 25 minutes until the corn is tender and the mixture is thick. A splash of cream finishes; spring onion and hot sauce on top.
+Onion and pepper soften in butter; corn kernels (cut from the cob, with the milky pulp scraped after) join in; tomato adds for body. The lot stews for 25 minutes until the corn is tender and the mixture is thick. A splash of cream finishes; spring onion and hot sauce on top.
 
 ## Ingredients
 

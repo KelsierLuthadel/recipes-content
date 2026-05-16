@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Pastry dough: plain flour, ghee, salt, ajwain seeds, and warm water are kneaded into a stiff oil-rich dough; rests 30 min. Filling: ground beef (or lamb) sautées with onion, garlic, ginger, green chilli and a Pakistani spice blend (garam masala, cumin, coriander, chilli powder, turmeric). Frozen peas join; the mixture simmers dry; cooled fully. Dough divides into 10 balls; each rolls into a thin oval, cut in half to make 2 half-moons. Each half-moon forms a cone (one flat edge becomes the seam, sealed with flour paste). Cone fills with cooled filling. Top edge of cone seals with flour paste. Deep-fried 175°C 3-4 minutes per side until amber-crisp.
+Pastry dough: plain flour, ghee, salt, ajwain seeds, and warm water are kneaded into a stiff oil-rich dough; rests for 30 min. Filling: ground beef (or lamb) sautées with onion, garlic, ginger, green chilli and a Pakistani spice blend (garam masala, cumin, coriander, chilli powder, turmeric). Frozen peas join; the mixture simmers dry; cooled fully. Dough divides into 10 balls; each rolls into a thin oval, cut in half to make 2 half-moons. Each half-moon forms a cone (one flat edge becomes the seam, sealed with flour paste). Cone fills with cooled filling. Top edge of cone seals with flour paste. Deep-fried 175°C 3-4 minutes per side until amber-crisp.
 
 ## Ingredients
 

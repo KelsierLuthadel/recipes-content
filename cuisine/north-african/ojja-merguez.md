@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Merguez sausages brown in a wide deep pan; lifted out and roughly cut into bite pieces. Sliced onion and red pepper sweat in the merguez fat; garlic, caraway, cumin, ground coriander and harissa go in; tinned tomatoes follow and simmer 12 minutes until thick. The merguez returns; 4 eggs crack into wells in the sauce; lid on; gentle 5-minute cook until the whites are set. Sprinkled with parsley and served hot from the pan.
+Merguez sausages are browned in a wide deep pan, lifted out and roughly cut into bite pieces. Sliced onion and red pepper sweat in the merguez fat; garlic, caraway, cumin, ground coriander and harissa go in; tinned tomatoes follow and simmer for 12 minutes until thick. The merguez returns; 4 eggs are cracked into wells in the sauce; lid on; gentle 5-minute cook until the whites are set. Sprinkled with parsley and served hot from the pan.
 
 ## Ingredients
 

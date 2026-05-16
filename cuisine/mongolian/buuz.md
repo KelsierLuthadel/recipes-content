@@ -10,7 +10,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-A simple flour-and-water dough rests until pliable. The filling is finely chopped (or coarsely minced) lamb or beef mixed with very finely chopped onion, garlic, salt and pepper - minimal additional seasoning, since Mongolian buuz prizes the meat's own flavour. Each wrapper rolls thin in the centre, slightly thicker at the edges. A heaped spoon of filling sits in the middle; the edges pleat together to form a small purse with a hole at the top. Steamed 15-18 minutes; the wrapper turns slightly translucent.
+A simple flour-and-water dough rests until pliable. The filling is finely chopped (or coarsely minced) lamb or beef mixed with very finely chopped onion, garlic, salt and pepper - minimal additional seasoning, since Mongolian buuz prizes the meat's own flavour. Each wrapper rolls thin in the centre, slightly thicker at the edges. A heaped spoon of filling sits in the middle; the edges pleat together to form a small purse with a hole at the top. Steamed for 15-18 minutes; the wrapper turns slightly translucent.
 
 ## Ingredients
 

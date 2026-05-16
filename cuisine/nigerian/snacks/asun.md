@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Goat meat (bone-in pieces, ideally) simmers in water with onion, garlic, bay, salt and bouillon till tender (45 min). Lifts out; pats dry; grills over high heat (or under a hot grill / on a griddle pan) till charred (8-10 min). Pepper base: scotch bonnet, red pepper, onion, garlic blitz to paste; sautés in oil with curry powder, thyme, ginger till fragrant. Charred meat tosses in the pepper paste; cooks 5 minutes more; tops with fresh chopped onion. Eats hot.
+Goat meat (bone-in pieces, ideally) simmers in water with onion, garlic, bay, salt and bouillon till tender (45 min). Lifts out; pats dry; grills over high heat (or under a hot grill / on a griddle pan) till charred (8-10 min). Pepper base: scotch bonnet, red pepper, onion, garlic blitz to paste; sautés in oil with curry powder, thyme, ginger till fragrant. Charred meat tosses in the pepper paste; cooks for 5 minutes more; tops with fresh chopped onion. Eats hot.
 
 ## Ingredients
 

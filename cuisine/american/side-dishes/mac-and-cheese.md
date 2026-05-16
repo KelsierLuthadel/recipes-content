@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Pasta cooks just past al dente in salted water. A béchamel builds from butter, flour, milk and a pinch of mustard powder, paprika and cayenne. Off the heat, grated cheese melts in. Pasta tosses through the sauce; tipped into a baking dish; topped with buttered breadcrumbs; baked 25 minutes until deeply golden.
+Pasta cooks just past al dente in salted water. A béchamel builds from butter, flour, milk and a pinch of mustard powder, paprika and cayenne. Off the heat, grated cheese melts in. Pasta tosses through the sauce; tipped into a baking dish; topped with buttered breadcrumbs; baked for 25 minutes until deeply golden.
 
 ## Ingredients
 

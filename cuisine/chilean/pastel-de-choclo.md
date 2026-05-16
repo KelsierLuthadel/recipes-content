@@ -10,7 +10,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Pino (the beef-onion mince base) cooks first: onions soften slowly with cumin, paprika and oregano; mince browns in; raisins, olives and a splash of stock simmer everything to a moist filling. Chicken pieces poach separately and shred. The corn topping blends fresh sweet corn (or kabocha-corn mix in winter) with milk, butter and basil into a thick batter. Layer in clay dishes (or one large baking dish): pino, chicken, hard-boiled egg slices, corn batter on top. A heavy dust of sugar makes the top crisp under the grill.
+Pino (the beef-onion mince base) is cooked first: onions are softened slowly with cumin, paprika and oregano; mince is browned in; raisins, olives and a splash of stock simmer everything to a moist filling. Chicken pieces are poached separately and shredded. The corn topping blends fresh sweet corn (or kabocha-corn mix in winter) with milk, butter and basil into a thick batter. Layered in clay dishes (or one large baking dish): pino, chicken, hard-boiled egg slices, corn batter on top. A heavy dust of sugar makes the top crisp under the grill.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A loose batter of plain flour, gram flour, yoghurt and water ferments 8-12 hours at room temperature (or 24 hours in the fridge) - the slight tang from the yoghurt and the bubbles from the fermentation give the characteristic crisp-shattering bite. A 1-thread sugar syrup is scented with saffron, cardamom and a squeeze of lemon. The batter goes into a piping bag (or squeezy bottle); piped into hot oil in spirals from the centre outwards; fried 30-40 seconds per side; lifted out and dropped straight into warm syrup for 30 seconds; lifted again. Eaten immediately while still hot and crisp.
+A loose batter of plain flour, gram flour, yoghurt and water ferments 8-12 hours at room temperature (or 24 hours in the fridge) - the slight tang from the yoghurt and the bubbles from the fermentation give the characteristic crisp-shattering bite. A 1-thread sugar syrup is scented with saffron, cardamom and a squeeze of lemon. The batter goes into a piping bag (or squeezy bottle); piped into hot oil in spirals from the centre outwards; fried for 30-40 seconds per side; lifted out and dropped straight into warm syrup for 30 seconds; lifted again. Eaten immediately while still hot and crisp.
 
 ## Ingredients
 

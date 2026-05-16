@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour (broth) + diner time
 
 ## Overview
-Two pots if you have them: a spicy red broth and a clear chicken broth. The red broth fries doubanjiang and chilli bean paste in beef tallow, adds Sichuan peppercorns, dried chillies, star anise, cassia, bay, ginger and garlic, then stock; simmers 30 minutes. Diners cook their own ingredients in the simmering pot and dip in a small bowl of sesame oil + chopped garlic + coriander. The mala (numbing-hot) sensation comes from green Sichuan peppercorns + dried chilli together.
+Two pots if you have them: a spicy red broth and a clear chicken broth. The red broth fries doubanjiang and chilli bean paste in beef tallow, adds Sichuan peppercorns, dried chillies, star anise, cassia, bay, ginger and garlic, then stock; simmers for 30 minutes. Diners cook their own ingredients in the simmering pot and dip in a small bowl of sesame oil + chopped garlic + coriander. The mala (numbing-hot) sensation comes from green Sichuan peppercorns + dried chilli together.
 
 ## Ingredients
 

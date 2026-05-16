@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A soft yeasted bread dough rises 1 hour. While it rises, the lamb mince is mixed by hand with grated onion, chopped parsley, finely diced tomato, garlic, baharat, allspice, cinnamon, pomegranate molasses, lemon juice and salt - no cooking, the mince stays raw and cooks on the pies. The dough divides into 12 balls; each rolls into a thin 12 cm disc; a heaped tablespoon of the meat mix spreads to the edges. Bakes 8-10 minutes at 230°C on a baking stone (or hot tray) until the dough is crisp and the meat is glossy and just cooked through.
+A soft yeasted bread dough rises for 1 hour. While it rises, the lamb mince is mixed by hand with grated onion, chopped parsley, finely diced tomato, garlic, baharat, allspice, cinnamon, pomegranate molasses, lemon juice and salt - no cooking, the mince stays raw and cooks on the pies. The dough divides into 12 balls; each rolls into a thin 12 cm disc; a heaped tablespoon of the meat mix spreads to the edges. Bakes for 8-10 minutes at 230°C on a baking stone (or hot tray) until the dough is crisp and the meat is glossy and just cooked through.
 
 ## Ingredients
 

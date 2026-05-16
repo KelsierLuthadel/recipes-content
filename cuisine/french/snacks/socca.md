@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A simple batter of chickpea flour (also called gram flour or besan), water, olive oil and salt is whisked to a smooth thin consistency; rests at least 1 hour (overnight is even better; lets the chickpea flour fully hydrate and removes the raw bitterness). A heavy ovenproof frying pan (cast iron is ideal) is heated to smoking-hot under a high broiler / grill. A generous slick of olive oil goes in. The batter pours in to a 5-mm depth. Under the broiler 8-12 minutes until the surface is golden, the edges are crisp-charred, and the centre is just set with some bubbling. Slid out, sliced rough, scattered with pepper and salt, eaten hot with the fingers.
+A simple batter of chickpea flour (also called gram flour or besan), water, olive oil and salt is whisked to a smooth thin consistency; rested at least 1 hour (overnight is even better; lets the chickpea flour fully hydrate and removes the raw bitterness). A heavy ovenproof frying pan (cast iron is ideal) is heated to smoking-hot under a high broiler / grill. A generous slick of olive oil goes in. The batter is poured in to a 5-mm depth. Under the broiler 8-12 minutes until the surface is golden, the edges are crisp-charred, and the centre is just set with some bubbling. Slid out, sliced rough, scattered with pepper and salt, eaten hot with the fingers.
 
 ## Ingredients
 

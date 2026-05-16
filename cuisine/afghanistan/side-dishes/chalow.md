@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Long-grain basmati rinses thoroughly until the water runs almost clear, then soaks 30 minutes. Boils in plenty of salted water for 5-6 minutes until 70% cooked (the chalow par-boil). Drains; returns to a dry pot; oil drizzles over the top; the lid stays on with the heat on the lowest setting for 20 minutes (the dum). The result: separate, fluffy grains and a thin gold crust on the bottom.
+Long-grain basmati rinses thoroughly until the water runs almost clear, then soaks for 30 minutes. Boils in plenty of salted water for 5-6 minutes until 70% cooked (the chalow par-boil). Drains; returns to a dry pot; oil drizzles over the top; the lid stays on with the heat on the lowest setting for 20 minutes (the dum). The result: separate, fluffy grains and a thin gold crust on the bottom.
 
 ## Ingredients
 

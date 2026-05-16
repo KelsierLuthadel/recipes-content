@@ -10,7 +10,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Yuca flour (sour cassava flour - almidón agrio), masarepa (white-corn flour), salt and sugar mix; cheese grates fine; the egg and a small amount of milk bind. The dough is dense, slightly sticky. Shape into small rings (or balls); rest 15-30 minutes; bake at 220°C until deep gold and puffed.
+Yuca flour (sour cassava flour - almidón agrio), masarepa (white-corn flour), salt and sugar mix; cheese grates fine; the egg and a small amount of milk bind. The dough is dense, slightly sticky. Shape into small rings (or balls); rest for 15-30 minutes; bake at 220°C until deep gold and puffed.
 
 ## Ingredients
 

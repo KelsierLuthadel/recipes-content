@@ -10,7 +10,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Padrón peppers wash, dry well. Heavy pan heats over very high heat with a slug of olive oil. Peppers tip in, all at once. Cook 3-4 minutes, tossing constantly, until the skins blister and char in patches and the peppers slump slightly. Tip onto a serving plate; sprinkle generously with flaky sea salt. Eat hot with fingers.
+Padrón peppers wash, dry well. Heavy pan heats over very high heat with a slug of olive oil. Peppers tip in, all at once. Cook for 3-4 minutes, tossing constantly, until the skins blister and char in patches and the peppers slump slightly. Tip onto a serving plate; sprinkle generously with flaky sea salt. Eat hot with fingers.
 
 ## Ingredients
 - 400 g Padrón peppers (or substitute Shishito peppers from a Japanese grocer - almost identical)

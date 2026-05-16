@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Red peppers char under a grill till blackened; peel; deseed; slice. Tomatoes blanch, peel, dice. Olive oil heats with garlic, cumin and sweet paprika; peppers and tomatoes go in; salt; cook 25 minutes till the moisture has gone and the mixture is jammy and glossy. Coriander stirs in. Eats warm or room temperature.
+Red peppers char under a grill till blackened; peel; deseed; slice. Tomatoes blanch, peel, dice. Olive oil heats with garlic, cumin and sweet paprika; peppers and tomatoes go in; salt; cook for 25 minutes till the moisture has gone and the mixture is jammy and glossy. Coriander stirs in. Eats warm or room temperature.
 
 ## Ingredients
 - 4 large red peppers (about 700 g)

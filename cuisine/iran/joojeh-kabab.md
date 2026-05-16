@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Saffron blooms in hot water. Onion grates fine and squeezes through a sieve to release juice. Marinade: yogurt, saffron, onion juice, lemon, olive oil, salt, pepper. Cubed chicken thigh marinates 6 hours minimum. Skewered and grilled hot 4 minutes per side. Brushed with saffron-butter at the table.
+Saffron blooms in hot water. Onion grates fine and squeezes through a sieve to release juice. Marinade: yogurt, saffron, onion juice, lemon, olive oil, salt, pepper. Cubed chicken thigh marinates for 6 hours minimum. Skewered and grilled hot 4 minutes per side. Brushed with saffron-butter at the table.
 
 ## Ingredients
 

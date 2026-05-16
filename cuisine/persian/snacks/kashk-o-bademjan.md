@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Aubergines roast whole until completely soft and the skin chars (oven, broiler, or open flame); cool slightly, peel, chop. A wide pan softens diced onion in oil until deep gold; turmeric and a pinch of saffron stir in; the chopped aubergine adds with a little water and simmers 10 minutes to integrate into a thick mash. Garlic-and-dried-mint oil prepares separately: crushed garlic gently fries in olive oil with dried mint until fragrant. Most of this mint-oil folds into the aubergine; the rest reserves for garnish. Kashk (sold liquid or paste; thinned with water if paste) drizzles in lines across the plated dip; deep-fried onions, the reserved mint-oil, chopped walnuts, and a final scatter of dried mint top it.
+Aubergines are roasted whole until completely soft and the skin chars (oven, broiler, or open flame); cooled slightly, peeled, chopped. A wide pan is used to soften diced onion in oil until deep gold; turmeric and a pinch of saffron are stirred in; the chopped aubergine is added with a little water and simmers for 10 minutes to integrate into a thick mash. Garlic-and-dried-mint oil is prepared separately: crushed garlic is gently fried in olive oil with dried mint until fragrant. Most of this mint-oil is folded into the aubergine; the rest is reserved for garnish. Kashk (sold liquid or paste; thinned with water if paste) drizzles in lines across the plated dip; deep-fried onions, the reserved mint-oil, chopped walnuts, and a final scatter of dried mint top it.
 
 ## Ingredients
 

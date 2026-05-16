@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Long spring onion (cebolla larga) and white onion soften in oil; garlic, cumin and annatto come in; grated tomato cooks down 15 minutes until thick and sticky. Salt; rest. The texture is somewhere between a sauce and a paste - spoonable but coating.
+Long spring onion (cebolla larga) and white onion are softened in oil; garlic, cumin and annatto come in; grated tomato cooks down 15 minutes until thick and sticky. Salted; rested. The texture is somewhere between a sauce and a paste - spoonable but coating.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Sweet shortcrust pastry chills 30 min. Filling: butter + flour make a blonde roux; trinity (onion + celery + green pepper) softens; crawfish tails + cream + tomato paste + Cajun seasoning + green onion finishes. Cool. Roll pastry; cut 10 cm rounds; spoon 1 tbsp filling on half; fold and crimp; brush with egg wash. Bake 25 minutes at 200°C till deep gold.
+Sweet shortcrust pastry chills for 30 min. Filling: butter + flour make a blonde roux; trinity (onion + celery + green pepper) softens; crawfish tails + cream + tomato paste + Cajun seasoning + green onion finishes. Cool. Roll pastry; cut 10 cm rounds; spoon 1 tbsp filling on half; fold and crimp; brush with egg wash. Bake for 25 minutes at 200°C till deep gold.
 
 ## Ingredients
 

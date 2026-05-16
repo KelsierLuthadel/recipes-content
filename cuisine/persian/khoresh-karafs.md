@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 45 minutes
 
 ## Overview
-Lamb shoulder browns in oil; sliced onion softens to gold; turmeric and a pinch of cinnamon toast briefly; water covers; the pot simmers 1 hour 15 minutes until tender. Meanwhile, lots of celery is sliced into 2 cm-long pieces and sautéed with parsley and mint over medium heat 8-10 minutes until fragrant and just softened. The celery-and-herb mix goes into the pot for the last 25 minutes. Saffron-water and lemon juice at the end. Salt to taste.
+Lamb shoulder is browned in oil; sliced onion is softened to gold; turmeric and a pinch of cinnamon toast briefly; water covers; the pot simmers for 1 hour 15 minutes until tender. Meanwhile, lots of celery is sliced into 2 cm-long pieces and sautéed with parsley and mint over medium heat 8-10 minutes until fragrant and just softened. The celery-and-herb mix goes into the pot for the last 25 minutes. Saffron-water and lemon juice at the end. Salt to taste.
 
 ## Ingredients
 

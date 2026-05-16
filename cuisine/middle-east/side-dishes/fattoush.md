@@ -10,7 +10,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Pita breads tear into pieces and toast (or fry) until crisp and crunchy. Chopped vegetables, mint, parsley and a sumac-lemon-olive-oil dressing toss together; the toasted pita goes in last so it stays crunchy. Eaten immediately before the bread softens.
+Pita breads are torn into pieces and toasted (or fried) until crisp and crunchy. Chopped vegetables, mint, parsley and a sumac-lemon-olive-oil dressing are tossed together; the toasted pita goes in last so it stays crunchy. Eaten immediately before the bread goes soft.
 
 ## Ingredients
 

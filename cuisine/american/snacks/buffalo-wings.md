@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Chicken wings separate at the joint into drums and flats. Pat very dry; toss with a little baking powder + salt; rest on a rack 1 hour (the baking powder draws moisture for crispness). Oil heats to 160°C for stage one (cooks through, 10 min); rest 5 min; oil up to 190°C for stage two (crisps shell, 4 min). Sauce: equal parts melted butter + Frank's RedHot whisked together with a touch of vinegar and a pinch of cayenne. Toss hot wings in warm sauce; serve immediately with celery sticks and blue-cheese dip.
+Chicken wings separate at the joint into drums and flats. Pat very dry; toss with a little baking powder + salt; rest on a rack 1 hour (the baking powder draws moisture for crispness). Oil heats to 160°C for stage one (cooks through, 10 min); rest for 5 min; oil up to 190°C for stage two (crisps shell, 4 min). Sauce: equal parts melted butter + Frank's RedHot whisked together with a touch of vinegar and a pinch of cayenne. Toss hot wings in warm sauce; serve immediately with celery sticks and blue-cheese dip.
 
 ## Ingredients
 

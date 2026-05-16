@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Lamb mince fries with onion, garlic, baharat, cinnamon, allspice and pine nuts. Basmati rice cooks pilaf-style in a meat-spiced stock until almost done. Lamb and rice fold together with peas, almonds and parsley. The filling spoons into a phyllo-lined dome mould (or wide cake tin), tops are folded over to seal, brushed with ghee, baked 30 minutes until deep gold. Inverted onto a platter; sliced at the table.
+Lamb mince is fried with onion, garlic, baharat, cinnamon, allspice and pine nuts. Basmati rice is cooked pilaf-style in a meat-spiced stock until almost done. Lamb and rice are folded together with peas, almonds and parsley. The filling is spooned into a phyllo-lined dome mould (or wide cake tin), the tops are folded over to seal, brushed with ghee, baked for 30 minutes until deep gold. Inverted onto a platter; sliced at the table.
 
 ## Ingredients
 

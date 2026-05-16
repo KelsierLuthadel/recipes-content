@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Dried chickpeas soak overnight with a teaspoon of baking soda. Cook 60-75 minutes with baking soda until very soft. Reserve a small handful of whole chickpeas as garnish. Blend hot chickpeas with garlic, lemon, salt, ice cubes (yes - they help the emulsion) and a generous quantity of good tahini. Result: smooth, silky, pale-gold. Plate in a wide bowl; swirl with the back of a spoon; top with chickpeas, paprika, parsley, olive oil, cumin.
+Dried chickpeas soak overnight with a teaspoon of baking soda. Cook for 60-75 minutes with baking soda until very soft. Reserve a small handful of whole chickpeas as garnish. Blend hot chickpeas with garlic, lemon, salt, ice cubes (yes - they help the emulsion) and a generous quantity of good tahini. Result: smooth, silky, pale-gold. Plate in a wide bowl; swirl with the back of a spoon; top with chickpeas, paprika, parsley, olive oil, cumin.
 
 ## Ingredients
 

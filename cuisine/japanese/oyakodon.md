@@ -10,7 +10,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Chicken thigh chunks simmer in dashi-mirin-soy broth with sliced onion until tender, beaten egg pours in and sets in soft curds, the lot slides over rice. The egg should still be slightly runny when you turn off the heat.
+Chicken thigh chunks simmer in dashi-mirin-soy broth with sliced onion until tender, beaten egg is poured in and sets in soft curds, and the lot slides over rice. The egg should still be slightly runny when the heat is turned off.
 
 ## Ingredients
 

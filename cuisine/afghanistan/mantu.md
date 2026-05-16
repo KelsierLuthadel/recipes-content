@@ -10,7 +10,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Lamb mince fries with onion and spices; cools. A simple flour dough rolls thin and cuts into 8 cm squares; each gets a teaspoon of filling and pinches up at four corners. Steamed 20 minutes. Yogurt (chaka) thins with garlic and dried mint. Yellow split peas cook into a thick tomato qorma. Plate: yogurt under, mantu in the middle, qorma on top, dried mint and chilli powder to finish.
+Lamb mince fries with onion and spices; cools. A simple flour dough rolls thin and cuts into 8 cm squares; each gets a teaspoon of filling and pinches up at four corners. Steamed for 20 minutes. Yogurt (chaka) thins with garlic and dried mint. Yellow split peas cook into a thick tomato qorma. Plate: yogurt under, mantu in the middle, qorma on top, dried mint and chilli powder to finish.
 
 ## Ingredients
 

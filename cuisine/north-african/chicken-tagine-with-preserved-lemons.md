@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Chicken pieces are rubbed with a spice paste of garlic, ginger, saffron, turmeric, paprika, cumin, salt and olive oil; rest 30 minutes. Onion sweats slowly in olive oil in a heavy tagine or casserole; the chicken nestles in skin-side-up; just enough water goes in to come halfway up the chicken. Lid on; gentle simmer 50 minutes. Preserved lemon strips and green olives go in for the last 10 minutes. Off heat, scattered with fresh coriander and parsley.
+Chicken pieces are rubbed with a spice paste of garlic, ginger, saffron, turmeric, paprika, cumin, salt and olive oil; rest for 30 minutes. Onion sweats slowly in olive oil in a heavy tagine or casserole; the chicken nestles in skin-side-up; just enough water goes in to come halfway up the chicken. Lid on; gentle simmer for 50 minutes. Preserved lemon strips and green olives go in for the last 10 minutes. Off heat, scattered with fresh coriander and parsley.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A rich yeasted dough - flour, yeast, sugar, salt, butter, eggs, milk and a splash of vanilla. Long first rise 1 hour. Roll to 1 ½ cm thick; stamp 6 cm rounds; second rise 30 minutes. Fry at 175°C 2 minutes per side. Drain; inject jam into the centre with a piping bag; dust heavily with icing sugar.
+A rich yeasted dough - flour, yeast, sugar, salt, butter, eggs, milk and a splash of vanilla. Long first rise for 1 hour. Roll to 1 ½ cm thick; stamp 6 cm rounds; second rise for 30 minutes. Fry at 175°C 2 minutes per side. Drain; inject jam into the centre with a piping bag; dust heavily with icing sugar.
 
 ## Ingredients
 

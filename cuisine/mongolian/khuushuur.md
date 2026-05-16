@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A simple flour-water-salt dough rests 30 minutes. Mutton (or beef) is minced finely with onion, garlic, salt and a splash of water (the water makes the filling steam-juicy inside). Dough is divided, rolled into thin 14 cm discs. A heaped tablespoon of filling sits on each disc; the edges are sealed by pinching and crimping into a flat half-moon. Deep-fried 3 minutes a side in 180°C oil until blistered and gold.
+A simple flour-water-salt dough rests for 30 minutes. Mutton (or beef) is minced finely with onion, garlic, salt and a splash of water (the water makes the filling steam-juicy inside). Dough is divided, rolled into thin 14 cm discs. A heaped tablespoon of filling sits on each disc; the edges are sealed by pinching and crimping into a flat half-moon. Deep-fried for 3 minutes a side in 180°C oil until blistered and gold.
 
 ## Ingredients
 

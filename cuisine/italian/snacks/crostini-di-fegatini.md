@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Onion softens in olive oil with chopped anchovies. Trimmed chicken livers join and brown briefly. Vin Santo (sweet Tuscan dessert wine, or dry Marsala / brandy as substitute) deglazes; capers stir in; the mixture simmers 8 minutes covered until the livers are tender. Pulsed (not pureed) in a food processor with a knob of cold butter and fresh sage to a coarse spreadable paste. Warm, the paté spreads onto small toasts; eaten as antipasto with prosecco or a glass of Chianti.
+Onion is softened in olive oil with chopped anchovies. Trimmed chicken livers join and brown briefly. Vin Santo (sweet Tuscan dessert wine, or dry Marsala / brandy as substitute) deglazes; capers are stirred in; the mixture simmers for 8 minutes covered until the livers are tender. Pulsed (not pureed) in a food processor with a knob of cold butter and fresh sage to a coarse spreadable paste. Warm, the paté is spread onto small toasts; eaten as antipasto with prosecco or a glass of Chianti.
 
 ## Ingredients
 

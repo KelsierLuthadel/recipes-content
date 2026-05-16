@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Cumin seeds bloom in hot oil; chopped onion fries until gold; ginger-garlic paste, turmeric, chilli and coriander toast briefly; tomato softens into a quick sauce. The potatoes go in first (they need longest), the cauliflower follows; both cook covered until tender, stirred occasionally. Garam masala and chopped coriander at the end.
+Cumin seeds bloom in hot oil; chopped onion is fried until gold; ginger-garlic paste, turmeric, chilli and coriander toast briefly; tomato softens into a quick sauce. The potatoes go in first (they need longest), the cauliflower follows; both cook covered until tender, stirred occasionally. Garam masala and chopped coriander at the end.
 
 ## Ingredients
 

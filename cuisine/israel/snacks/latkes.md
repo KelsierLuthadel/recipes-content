@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes (in batches)
 
 ## Overview
-Floury potatoes grate fine; onion grates fine; both squeeze in a tea towel to remove water (the water-squeeze is what gives crisp latkes). Mixed with egg, matzo meal (or flour), salt and pepper. Dropped by spoonfuls into hot oil; flattened with a spatula; fried 3-4 minutes per side till deep gold. Drained on a rack. Served hot with sour cream and applesauce.
+Floury potatoes grate fine; onion grates fine; both squeeze in a tea towel to remove water (the water-squeeze is what gives crisp latkes). Mixed with egg, matzo meal (or flour), salt and pepper. Dropped by spoonfuls into hot oil; flattened with a spatula; fried for 3-4 minutes per side till deep gold. Drained on a rack. Served hot with sour cream and applesauce.
 
 ## Ingredients
 

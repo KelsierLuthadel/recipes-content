@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Aubergines char over an open gas flame (or under a very hot grill) until the skin is black and the flesh collapses inside. Smoky flesh scoops out; chops coarse. A pan with oil, generous garlic, turmeric, and a quick tomato sauce. Aubergine joins; cooks 10 minutes. A whisked egg pours in and scrambles into the mix. Served warm in a wide dish.
+Aubergines are charred over an open gas flame (or under a very hot grill) until the skin is black and the flesh collapses inside. The smoky flesh is scooped out and chopped coarse. A pan with oil, generous garlic, turmeric and a quick tomato sauce. The aubergine joins; cooks for 10 minutes. A whisked egg is poured in and scrambled into the mix. Served warm in a wide dish.
 
 ## Ingredients
 

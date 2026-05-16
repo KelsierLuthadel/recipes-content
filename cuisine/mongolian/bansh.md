@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A wheat-flour-and-water dough rests 30 minutes. Mutton mince mixes with onion, garlic and salt with a splash of water (for juiciness). Dough rolls into a long rope; cuts into small (15 g) pieces; rolls each into a thin disc. A teaspoon of filling sits on the disc; the edges pinch into a small money-pouch shape with a pleated top. Simmer in salted water 10 minutes or float in clear mutton broth.
+A wheat-flour-and-water dough rests for 30 minutes. Mutton mince mixes with onion, garlic and salt with a splash of water (for juiciness). Dough rolls into a long rope; cuts into small (15 g) pieces; rolls each into a thin disc. A teaspoon of filling sits on the disc; the edges pinch into a small money-pouch shape with a pleated top. Simmer in salted water 10 minutes or float in clear mutton broth.
 
 ## Ingredients
 

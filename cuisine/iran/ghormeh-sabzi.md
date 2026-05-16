@@ -10,7 +10,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Onion fries deep golden in oil; turmeric and a touch of cinnamon toast in. Cubed lamb browns alongside. Herbs (huge quantities - 6 cups chopped) fry hard in their own pan in oil for 20 minutes until very dark. Everything combines with dried limes and stock; simmers 90 minutes. Soaked kidney beans go in for the last 30 minutes.
+Onion fries deep golden in oil; turmeric and a touch of cinnamon toast in. Cubed lamb browns alongside. Herbs (huge quantities - 6 cups chopped) fry hard in their own pan in oil for 20 minutes until very dark. Everything combines with dried limes and stock; simmers for 90 minutes. Soaked kidney beans go in for the last 30 minutes.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Onions soften in oil with turmeric. Garlic, ginger and a small amount of berbere season. Carrots and potatoes go in first to soften; cabbage joins later. Steam-cooks under a lid until tender; the volume halves and the flavours fuse.
+Onions are softened in oil with turmeric. Garlic, ginger and a small amount of berbere season. Carrots and potatoes go in first to soften; cabbage joins later. Steam-cooked under a lid until tender; the volume halves and the flavours fuse.
 
 ## Ingredients
 

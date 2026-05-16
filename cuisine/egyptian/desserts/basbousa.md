@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-A simple batter of semolina, yogurt, sugar, butter and coconut bakes in a shallow tray. The classic move: cut into diamonds before baking so the syrup soaks through the cuts later. Hot syrup pours over the warm cake and disappears in seconds, leaving the surface tacky-glossy. Topped with a single almond on each diamond.
+A simple batter of semolina, yogurt, sugar, butter and coconut is baked in a shallow tray. The classic move: the cake is cut into diamonds before baking so the syrup soaks through the cuts later. Hot syrup is poured over the warm cake and disappears in seconds, leaving the surface tacky-glossy. Topped with a single almond on each diamond.
 
 ## Ingredients
 

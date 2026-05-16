@@ -10,7 +10,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-A whole octopus (frozen-then-thawed is best - freezing tenderises it; OR pre-cleaned and beaten by a fishmonger) is simmered in a covered pot with onion, bay and lemon peel for 50-60 minutes until tender. Lifted out; cut into segments at the joints. Small new potatoes parboil 12 minutes; drained, "punched" gently with the back of a wooden spoon to fracture them but not break them apart. Octopus and potatoes go into a wide oven dish; slathered with olive oil, garlic, paprika, bay; baked at 220°C 25 minutes until the edges are deep colour. Garnished with parsley, lemon, and an additional drizzle of raw olive oil.
+A whole octopus (frozen-then-thawed is best - freezing tenderises it; OR pre-cleaned and beaten by a fishmonger) is simmered in a covered pot with onion, bay and lemon peel for 50-60 minutes until tender. Lifted out; cut into segments at the joints. Small new potatoes parboil for 12 minutes; drained, "punched" gently with the back of a wooden spoon to fracture them but not break them apart. Octopus and potatoes go into a wide oven dish; slathered with olive oil, garlic, paprika, bay; baked at 220°C 25 minutes until the edges are deep colour. Garnished with parsley, lemon, and an additional drizzle of raw olive oil.
 
 ## Ingredients
 

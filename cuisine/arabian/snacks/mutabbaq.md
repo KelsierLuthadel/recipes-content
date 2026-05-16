@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A stretchy oil-rich dough rests 1 hour to develop pliability; key to mutabbaq's paper-thin stretch. Filling: ground beef or lamb sautées with onion, leek (or scallion), garlic, baharat, cumin and pepper, cooled, then mixed with beaten eggs and chopped parsley just before folding (eggs go in raw and cook inside the pastry). Each dough ball oils heavily; stretched and pulled by hand on an oiled surface into a 35 cm thin square (translucent). The filling spreads in a 15 cm square in the centre. Edges fold in to enclose into a flat square parcel. Griddled on a hot pan with a glug of oil 2-3 minutes per side until amber-crisp and the egg has set inside. Cut into quarters; eaten warm.
+A stretchy oil-rich dough rests for 1 hour to develop pliability; key to mutabbaq's paper-thin stretch. Filling: ground beef or lamb sautées with onion, leek (or scallion), garlic, baharat, cumin and pepper, cooled, then mixed with beaten eggs and chopped parsley just before folding (eggs go in raw and cook inside the pastry). Each dough ball oils heavily; stretched and pulled by hand on an oiled surface into a 35 cm thin square (translucent). The filling spreads in a 15 cm square in the centre. Edges fold in to enclose into a flat square parcel. Griddled on a hot pan with a glug of oil 2-3 minutes per side until amber-crisp and the egg has set inside. Cut into quarters; eaten warm.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Plain flour, yeast, salt, sugar and warm water knead into a soft elastic dough. It rests 1 hour, doubles, and is divided into balls. Each ball is rolled or pressed into a 20 cm disc and cooked 60-90 seconds per side on a dry pan, puffing slightly across the surface. Stacked under a tea towel to stay soft.
+Plain flour, yeast, salt, sugar and warm water knead into a soft elastic dough. It rests for 1 hour, doubles, and is divided into balls. Each ball is rolled or pressed into a 20 cm disc and cooked for 60-90 seconds per side on a dry pan, puffing slightly across the surface. Stacked under a tea towel to stay soft.
 
 ## Ingredients
 

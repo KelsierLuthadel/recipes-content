@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Ribeye partially freezes (1 hour in the freezer) so it slices paper-thin. Onion softens hot on a wide griddle. The shaved beef hits the same griddle; chops with a spatula edge as it cooks; the onion folds back in. Cheese covers the meat off the heat; melts. Scooped into a split hoagie roll. Eaten immediately.
+Ribeye is partially frozen (1 hour in the freezer) so it slices paper-thin. Onion is softened hard on a wide griddle. The shaved beef hits the same griddle and is chopped with a spatula edge as it cooks; the onion is folded back in. Cheese is laid over the meat off the heat and left to melt. Scooped into a split hoagie roll. Eaten immediately.
 
 ## Ingredients
 

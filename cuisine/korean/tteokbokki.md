@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Cylindrical rice cakes (refrigerated or frozen) soak 10-30 minutes if dry/firm. Stock (anchovy-kelp dashi or water) simmers with gochujang, gochugaru, sugar, soy sauce to make the spicy red sauce. Rice cakes go in; cook 8-10 minutes until softened and the sauce thickens to a glaze. Fish cakes and boiled egg join in the last 5 minutes. Topped with sesame oil, sesame seeds and spring onion.
+Cylindrical rice cakes (refrigerated or frozen) soak for 10-30 minutes if dry/firm. Stock (anchovy-kelp dashi or water) simmers with gochujang, gochugaru, sugar, soy sauce to make the spicy red sauce. Rice cakes go in; cook for 8-10 minutes until softened and the sauce thickens to a glaze. Fish cakes and boiled egg join in the last 5 minutes. Topped with sesame oil, sesame seeds and spring onion.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Glutinous (sticky) rice soaks at least 6 hours, then steams 20-25 minutes over boiling water until pearly and chewy. While the rice steams, a coconut sauce is warmed gently - coconut milk, palm sugar, salt, and (optionally) a pandan leaf for fragrance - until just dissolved, never boiled. Most of this sauce pours over the freshly steamed rice while still hot; the rice absorbs over 15 minutes covered. The remaining sauce, plus a separate pour of plain coconut cream, dresses the plated dish. Ripe mango is sliced; toasted sesame and (optionally) toasted mung beans top.
+Glutinous (sticky) rice is soaked at least 6 hours, then steamed for 20-25 minutes over boiling water until pearly and chewy. While the rice steams, a coconut sauce is warmed gently - coconut milk, palm sugar, salt, and (optionally) a pandan leaf for fragrance - until just dissolved, never boiled. Most of this sauce is poured over the freshly steamed rice while still hot; the rice absorbs over 15 minutes covered. The remaining sauce, plus a separate pour of plain coconut cream, dresses the plated dish. Ripe mango is sliced; toasted sesame and (optionally) toasted mung beans top.
 
 ## Ingredients
 

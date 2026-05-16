@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-A 2.2 kg bone-in leg is studded with slivers of garlic and rosemary, rubbed with oil, salt and pepper, then started in a very hot oven for 25 minutes for a crust, dropped to 180°C and roasted to medium with a probe thermometer at 60°C internal. It rests 25 minutes (essential), while gravy is built from the deglazed pan with stock, redcurrant or quince jelly and a splash of red wine. The lamb carves into juicy, rose-coloured slices.
+A 2.2 kg bone-in leg is studded with slivers of garlic and rosemary, rubbed with oil, salt and pepper, then started in a very hot oven for 25 minutes for a crust, dropped to 180°C and roasted to medium with a probe thermometer at 60°C internal. It rests for 25 minutes (essential), while gravy is built from the deglazed pan with stock, redcurrant or quince jelly and a splash of red wine. The lamb carves into juicy, rose-coloured slices.
 
 ## Ingredients
 

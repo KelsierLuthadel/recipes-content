@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Beef mince mixes with grated onion, chopped tomato, ginger, garlic, beaten egg, gram flour and the signature Afghan spice mix (coriander seed, pomegranate seeds, chilli flakes, cumin, garam masala). Rest 30 minutes; the gram flour absorbs moisture and the flavours combine. Form thin wide patties; fry hot in oil 3-4 minutes per side until darkly crusted.
+Beef mince mixes with grated onion, chopped tomato, ginger, garlic, beaten egg, gram flour and the signature Afghan spice mix (coriander seed, pomegranate seeds, chilli flakes, cumin, garam masala). Rest for 30 minutes; the gram flour absorbs moisture and the flavours combine. Form thin wide patties; fry hot in oil 3-4 minutes per side until darkly crusted.
 
 ## Ingredients
 

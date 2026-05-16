@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A sugar syrup cooks to soft-ball stage (118°C). Tahini warms slightly. Hot syrup pours into the tahini; mixed with a wooden spoon JUST until ribbons form - this is the critical moment. Over-mix and halva turns to crumbs; under-mix and it stays soft. Pours into a lined tin; pistachios sprinkle on top; sets at room temp 4 hours.
+A sugar syrup is cooked to soft-ball stage (118°C). Tahini is warmed slightly. The hot syrup is poured into the tahini and mixed with a wooden spoon JUST until ribbons form - this is the critical moment. Over-mix and halva turns to crumbs; under-mix and it stays soft. Poured into a lined tin; pistachios are sprinkled on top; set at room temp 4 hours.
 
 ## Ingredients
 - 500 g tahini (smooth, well-stirred - old separated tahini won't work)

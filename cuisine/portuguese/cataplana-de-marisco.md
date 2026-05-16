@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Onion, garlic, red and green peppers sweat slowly in olive oil. Sliced chouriço joins and renders its red fat. Smoked paprika, bay leaves, fresh tomatoes (or tinned) and a glug of white wine go in; simmer 10 minutes until reduced. Clams and mussels (pre-cleaned) tip in; lid clamps on; 4 minutes until they open. Prawns and chunks of firm white fish (monkfish, hake) join; lid back on; 4 more minutes. Finished with fresh coriander, lemon juice and a glug of olive oil. Brought to the table in the pot; lid lifted at the table.
+Onion, garlic, red and green peppers sweat slowly in olive oil. Sliced chouriço joins and renders its red fat. Smoked paprika, bay leaves, fresh tomatoes (or tinned) and a glug of white wine go in; simmer for 10 minutes until reduced. Clams and mussels (pre-cleaned) tip in; lid clamps on; 4 minutes until they open. Prawns and chunks of firm white fish (monkfish, hake) join; lid back on; 4 more minutes. Finished with fresh coriander, lemon juice and a glug of olive oil. Brought to the table in the pot; lid lifted at the table.
 
 ## Ingredients
 

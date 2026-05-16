@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Basmati rinses and soaks 20 minutes. Cooked frozen broad beans (or shelled fresh) heat through with butter and a knob of dill. Rice cooks absorption-style in stock with saffron, broad beans, dill folded in halfway through. Rest 5 minutes; fluff.
+Basmati rinses and soaks for 20 minutes. Cooked frozen broad beans (or shelled fresh) heat through with butter and a knob of dill. Rice cooks absorption-style in stock with saffron, broad beans, dill folded in halfway through. Rest for 5 minutes; fluff.
 
 ## Ingredients
 

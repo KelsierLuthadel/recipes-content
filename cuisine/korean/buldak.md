@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Boneless chicken thighs cube small; marinate 1 hour in gochujang, gochugaru, soy, garlic, ginger, sugar and sesame oil. Pan-grill in a wide cast-iron skillet over medium-high until the sauce caramelises and the chicken is just cooked. Off heat - generous mozzarella scatters across the top; cover briefly or finish under a grill to melt. Top with sesame seeds and spring onions.
+Boneless chicken thighs cube small; marinate for 1 hour in gochujang, gochugaru, soy, garlic, ginger, sugar and sesame oil. Pan-grill in a wide cast-iron skillet over medium-high until the sauce caramelises and the chicken is just cooked. Off heat - generous mozzarella scatters across the top; cover briefly or finish under a grill to melt. Top with sesame seeds and spring onions.
 
 ## Ingredients
 

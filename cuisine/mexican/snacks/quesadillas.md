@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Pre-cook any "wet" filling (mushrooms, chorizo, peppers) and cool. Cheese is grated. A dry, hot griddle or non-stick pan heats over medium heat. A tortilla goes on; cheese scatters over half; filling (if any) over the cheese; folded in half. Pressed gently with a spatula; cooked 90 seconds until the underside is gold-spotted; flipped; cooked 90 seconds more. The cheese should be fully melted and just starting to ooze at the edges. Sliced into 3 wedges; served with salsa, guacamole, sour cream, lime.
+Pre-cook any "wet" filling (mushrooms, chorizo, peppers) and cool. Cheese is grated. A dry, hot griddle or non-stick pan heats over medium heat. A tortilla goes on; cheese scatters over half; filling (if any) over the cheese; folded in half. Pressed gently with a spatula; cooked for 90 seconds until the underside is gold-spotted; flipped; cooked for 90 seconds more. The cheese should be fully melted and just starting to ooze at the edges. Sliced into 3 wedges; served with salsa, guacamole, sour cream, lime.
 
 ## Ingredients
 

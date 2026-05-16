@@ -10,7 +10,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-A wok or wide pan gets very hot; oil goes in; garlic and ginger flash; the firmest greens (broccoli stems) go first; bok choy and snap peas follow; soy and mirin glaze; sesame oil at the end. The whole thing takes 4-5 minutes from heat to plate. Speed and heat matter.
+A wok or wide pan is heated very hot; oil goes in; garlic and ginger flash; the firmest greens (broccoli stems) go first; bok choy and snap peas follow; soy and mirin glaze; sesame oil at the end. The whole thing takes 4-5 minutes from heat to plate. Speed and heat matter.
 
 ## Ingredients
 

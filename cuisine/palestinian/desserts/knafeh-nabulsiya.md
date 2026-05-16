@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Kataifi pastry shreds blitz to a coarse rubble; mixes with melted ghee and a pinch of orange food colouring; spreads across the bottom of a buttered tin. Akkawi cheese (rinsed of salt) lays on top. Bakes hot until the pastry browns. Cold rosewater syrup pours over hot from the oven; the syrup soaks the pastry while the cheese stays soft. Crushed pistachios scatter on top.
+Kataifi pastry shreds are blitzed to a coarse rubble; mixed with melted ghee and a pinch of orange food colouring; spread across the bottom of a buttered tin. Akkawi cheese (rinsed of salt) is laid on top. Baked hot until the pastry browns. Cold rosewater syrup is poured over hot from the oven; the syrup soaks the pastry while the cheese stays soft. Crushed pistachios are scattered on top.
 
 ## Ingredients
 

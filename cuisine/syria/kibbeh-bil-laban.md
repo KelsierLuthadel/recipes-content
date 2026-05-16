@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Fine bulgur soaks; lamb mince blends with bulgur, grated onion, allspice and salt to a smooth paste; small torpedoes are shaped around a separately-cooked lamb-onion-pine-nut filling. Torpedoes deep-fry briefly until golden, then slip into the warm stabilised yogurt sauce (whisked with egg white, cornflour and garlic), simmer 4 minutes to warm through. Garlic-mint butter on top.
+Fine bulgur soaks; lamb mince blends with bulgur, grated onion, allspice and salt to a smooth paste; small torpedoes are shaped around a separately-cooked lamb-onion-pine-nut filling. Torpedoes deep-fry briefly until golden, then slip into the warm stabilised yogurt sauce (whisked with egg white, cornflour and garlic), simmer for 4 minutes to warm through. Garlic-mint butter on top.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-A soft yeasted dough (plain flour, milk, water, oil, yeast, sugar, salt, a touch of mahleb or nigella) rises 1 hour. Divides into 4 or 8 portions. Each rolls into a long rope, then is shaped into an oblong ring with one slightly elongated side (the traditional shape is closer to a stretched horseshoe than a perfect circle). Dipped briefly in a molasses-and-water glaze, then dredged heavily in toasted sesame seeds. Rises 30 minutes. Baked at 220°C 15-18 minutes until deep gold.
+A soft yeasted dough (plain flour, milk, water, oil, yeast, sugar, salt, a touch of mahleb or nigella) rises for 1 hour. Divides into 4 or 8 portions. Each rolls into a long rope, then is shaped into an oblong ring with one slightly elongated side (the traditional shape is closer to a stretched horseshoe than a perfect circle). Dipped briefly in a molasses-and-water glaze, then dredged heavily in toasted sesame seeds. Rises for 30 minutes. Baked at 220°C 15-18 minutes until deep gold.
 
 ## Ingredients
 

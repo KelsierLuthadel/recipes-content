@@ -10,7 +10,7 @@
 **Total Time:** 20 minutes (5 active + 15 rest)
 
 ## Overview
-Fresh mint leaves are chopped very fine (or pulsed in a small processor). Sugar dissolves in just-boiled water; cooled briefly; vinegar stirs in. Chopped mint is added to the cool vinegar-sugar mixture; stirred; rested 15 minutes for the flavours to infuse. Served alongside roast lamb in a small jug or ramekin.
+Fresh mint leaves are chopped very fine (or pulsed in a small processor). Sugar dissolves in just-boiled water; cooled briefly; vinegar stirs in. Chopped mint is added to the cool vinegar-sugar mixture; stirred; rested for 15 minutes for the flavours to infuse. Served alongside roast lamb in a small jug or ramekin.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Chicken thighs poach with onion, saffron, ginger, cinnamon and orange-flower water until tender; the meat is shredded and the cooking liquid is reduced to a concentrated stock. Whisked eggs are scrambled gently into the reduced stock with the chicken, making a creamy, intensely savoury filling. Toasted blanched almonds are pulsed with sugar, cinnamon and a tablespoon of orange-flower water into a coarse sweet rubble. A round springform tin is layered with overlapping filo sheets brushed with butter; almond rubble goes down; chicken-and-egg goes on; more filo seals the top. Baked 30 minutes at 200°C until deep gold. Dusted with icing sugar and finished with cinnamon stripes.
+Chicken thighs poach with onion, saffron, ginger, cinnamon and orange-flower water until tender; the meat is shredded and the cooking liquid is reduced to a concentrated stock. Whisked eggs are scrambled gently into the reduced stock with the chicken, making a creamy, intensely savoury filling. Toasted blanched almonds are pulsed with sugar, cinnamon and a tablespoon of orange-flower water into a coarse sweet rubble. A round springform tin is layered with overlapping filo sheets brushed with butter; almond rubble goes down; chicken-and-egg goes on; more filo seals the top. Baked for 30 minutes at 200°C until deep gold. Dusted with icing sugar and finished with cinnamon stripes.
 
 ## Ingredients
 

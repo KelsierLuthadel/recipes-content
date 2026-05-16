@@ -10,7 +10,7 @@
 **Cook Time:** 10 minutes per batch
 
 ## Overview
-A soft yeasted bread dough rises 1 hour. Three toppings prep simultaneously: (1) za'atar-and-olive-oil paste; (2) grated akkawi-mozzarella-feta blend with nigella seeds; (3) spiced lamb mince with tomato and pomegranate molasses. Dough divides into 18 balls; each rolls into an 8 cm disc with a slight raised rim. Toppings spoon on. Baked at 230°C on a hot stone or upside-down tray for 6-8 minutes until the dough is gold and the toppings are bubbling / set.
+A soft yeasted bread dough rises for 1 hour. Three toppings prep simultaneously: (1) za'atar-and-olive-oil paste; (2) grated akkawi-mozzarella-feta blend with nigella seeds; (3) spiced lamb mince with tomato and pomegranate molasses. Dough divides into 18 balls; each rolls into an 8 cm disc with a slight raised rim. Toppings spoon on. Baked at 230°C on a hot stone or upside-down tray for 6-8 minutes until the dough is gold and the toppings are bubbling / set.
 
 ## Ingredients
 

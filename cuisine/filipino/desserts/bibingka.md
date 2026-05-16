@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Rice flour, glutinous rice flour, sugar, baking powder, salt sift together. Coconut milk, melted butter and beaten eggs whisk in until smooth. Banana leaf lines a cake tin (or individual ramekins), brushed with butter. Batter pours in to 2 cm depth. Bakes at 200°C 15 minutes; salted egg slices and grated cheese press on top; bakes another 10 minutes. Finishes with butter, sugar and a thick layer of fresh grated coconut.
+Rice flour, glutinous rice flour, sugar, baking powder and salt are sifted together. Coconut milk, melted butter and beaten eggs are whisked in until smooth. A banana leaf lines a cake tin (or individual ramekins), brushed with butter. The batter is poured in to 2 cm depth. Baked at 200°C 15 minutes; salted egg slices and grated cheese are pressed on top; baked another 10 minutes. Finished with butter, sugar and a thick layer of fresh grated coconut.
 
 ## Ingredients
 

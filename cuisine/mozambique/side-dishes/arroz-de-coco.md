@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The rice toasts briefly in oil with a chopped onion (optional), then cooks absorption-style in a mixture of coconut milk and water. Covered, undisturbed, 18 minutes; rest 5 minutes covered off the heat; fluff with a fork. The coconut milk gives a soft sheen and a slight sweetness that balances the heat of piri-piri.
+The rice toasts briefly in oil with a chopped onion (optional), then cooks absorption-style in a mixture of coconut milk and water. Covered, undisturbed, 18 minutes; rest for 5 minutes covered off the heat; fluff with a fork. The coconut milk gives a soft sheen and a slight sweetness that balances the heat of piri-piri.
 
 ## Ingredients
 

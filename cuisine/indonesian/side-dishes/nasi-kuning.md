@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Jasmine or basmati rice rinses, soaks 30 minutes. Coconut milk, water, fresh turmeric (grated or pulped), lemongrass (bashed), kaffir lime leaves, salt and a knob of butter heat to a simmer. Rice drains; tips into the simmering coconut milk; absorbs the liquid over 18 minutes covered on low heat. Rests 5 minutes off heat. Fluffed; lemongrass and lime leaves removed. Serves with sambal, fried egg, fried shallots.
+Jasmine or basmati rice rinses, soaks for 30 minutes. Coconut milk, water, fresh turmeric (grated or pulped), lemongrass (bashed), kaffir lime leaves, salt and a knob of butter heat to a simmer. Rice drains; tips into the simmering coconut milk; absorbs the liquid over 18 minutes covered on low heat. Rests for 5 minutes off heat. Fluffed; lemongrass and lime leaves removed. Serves with sambal, fried egg, fried shallots.
 
 ## Ingredients
 - 400 g long-grain rice (jasmine or basmati)

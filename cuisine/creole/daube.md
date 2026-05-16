@@ -10,7 +10,7 @@
 **Cook Time:** 4 hours
 
 ## Overview
-Beef chuck cubes brown hard; the trinity (onion, celery, pepper) soften deep in the rendered fat; tomato puree and tinned tomato build a rich base; red wine, stock, herbs and the beef simmer 3 hours covered. Uncovered for the last 30 minutes to reduce. Serve over rice with chopped parsley.
+Beef chuck cubes brown hard; the trinity (onion, celery, pepper) soften deep in the rendered fat; tomato puree and tinned tomato build a rich base; red wine, stock, herbs and the beef simmer for 3 hours covered. Uncovered for the last 30 minutes to reduce. Serve over rice with chopped parsley.
 
 ## Ingredients
 

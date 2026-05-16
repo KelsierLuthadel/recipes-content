@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Cubed aubergine salts for 20 minutes to draw out water; squeezes dry. Onion fries dark-gold; garlic, ginger and turmeric briefly. The aubergine adds, fries 8 minutes until silky-soft. Fish sauce, chilli powder, a touch of palm sugar; toasted crushed peanuts at the end.
+Cubed aubergine salts for 20 minutes to draw out water; squeezes dry. Onion fries dark-gold; garlic, ginger and turmeric briefly. The aubergine adds, fries for 8 minutes until silky-soft. Fish sauce, chilli powder, a touch of palm sugar; toasted crushed peanuts at the end.
 
 ## Ingredients
 

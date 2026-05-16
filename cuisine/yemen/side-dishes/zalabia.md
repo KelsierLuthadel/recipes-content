@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A loose, slightly slack yeasted batter (no kneading) rises 1 hour. Small balls are scooped with two teaspoons or by hand-squeeze, dropped into hot oil at 170°C, fried until golden, drained briefly, then soaked in honey while still warm. The cardamom and saffron flavour the batter; the honey sets a glossy thin coat on the outside.
+A loose, slightly slack yeasted batter (no kneading) rises for 1 hour. Small balls are scooped with two teaspoons or by hand-squeeze, dropped into hot oil at 170°C, fried until golden, drained briefly, then soaked in honey while still warm. The cardamom and saffron flavour the batter; the honey sets a glossy thin coat on the outside.
 
 ## Ingredients
 

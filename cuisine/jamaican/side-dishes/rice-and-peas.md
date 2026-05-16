@@ -10,7 +10,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Soaked kidney beans simmer with coconut milk, scallion, thyme, garlic, allspice and a whole scotch bonnet (left whole, never pierced). Once tender, rice goes in with stock to top up. The pot covers; rice steam-absorbs the bean broth; the scotch bonnet stays whole and gets removed before serving.
+Soaked kidney beans simmer with coconut milk, scallion, thyme, garlic, allspice and a whole scotch bonnet (left whole, never pierced). Once tender, rice goes in with stock to top up. The pot is covered; the rice steam-absorbs the bean broth; the scotch bonnet stays whole and is removed before serving.
 
 ## Ingredients
 

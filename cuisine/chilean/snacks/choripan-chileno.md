@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Chilean longaniza (or any good fresh pork sausage) splits lengthways but stays attached at one end. Grills 6 minutes per side. Marraqueta rolls split, lightly toast on the grill. Sausage tucks into the roll; pebre spoons generously on top. Some add a dab of mayo or mustard. Eats immediately.
+Chilean longaniza (or any good fresh pork sausage) splits lengthways but stays attached at one end. Grills for 6 minutes per side. Marraqueta rolls split, lightly toast on the grill. Sausage tucks into the roll; pebre spoons generously on top. Some add a dab of mayo or mustard. Eats immediately.
 
 ## Ingredients
 

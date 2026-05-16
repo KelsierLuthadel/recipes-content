@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A choux-like dough cooks on the stovetop: water, butter, sugar, salt and a touch of vanilla bring to a boil; flour is dumped in all at once; cooked 2 minutes stirring vigorously until the dough comes together as a ball that pulls away from the pan. Cooled slightly, eggs whisk in one at a time to a smooth thick pipe-able dough. Transferred to a piping bag with a star nozzle (1 ½ cm star tip). Heat oil to 175°C. Pipe directly into the oil, cutting each churro to 12-15 cm length with scissors. Fry 90 seconds per side until amber. Drain on paper. Roll immediately in cinnamon sugar. Serve warm with hot chocolate.
+A choux-like dough cooks on the stovetop: water, butter, sugar, salt and a touch of vanilla bring to a boil; flour is dumped in all at once; cooked for 2 minutes stirring vigorously until the dough comes together as a ball that pulls away from the pan. Cooled slightly, eggs whisk in one at a time to a smooth thick pipe-able dough. Transferred to a piping bag with a star nozzle (1 ½ cm star tip). Heat oil to 175°C. Pipe directly into the oil, cutting each churro to 12-15 cm length with scissors. Fry for 90 seconds per side until amber. Drain on paper. Roll immediately in cinnamon sugar. Serve warm with hot chocolate.
 
 ## Ingredients
 

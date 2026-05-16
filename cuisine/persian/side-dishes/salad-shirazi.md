@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Tomato and cucumber are deseeded and diced into 5 mm cubes. Onion (preferably purple/red) dices to match. Lime juice, olive oil, dried mint, salt and pepper dress; the salad rests 10 minutes for the flavours to mingle. Doesn't keep - the cucumbers weep within an hour.
+Tomato and cucumber are deseeded and diced into 5 mm cubes. Onion (preferably purple/red) dices to match. Lime juice, olive oil, dried mint, salt and pepper dress; the salad rests for 10 minutes for the flavours to mingle. Doesn't keep - the cucumbers weep within an hour.
 
 ## Ingredients
 

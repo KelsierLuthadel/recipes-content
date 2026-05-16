@@ -10,7 +10,7 @@
 **Total Time:** 1 hour (with the 30-min salt + 30-min dress rest)
 
 ## Overview
-Cucumbers are placed on a cutting board, the flat of a cleaver (or a heavy rolling pin, or a small frying pan) struck firmly on the surface until the cucumber cracks lengthwise. Hands tear the cracked cucumber into rough 3-4 cm chunks. The pieces salt-rest in a colander 20-30 minutes to release water (this makes the dressing cling instead of dilute). A dressing of light soy, black vinegar (Chinkiang), sugar, sesame oil, crushed garlic and a spoon of chilli oil whisks together. The drained cucumber tosses in the dressing; rests 30 minutes; eats cold.
+Cucumbers are placed on a cutting board, the flat of a cleaver (or a heavy rolling pin, or a small frying pan) struck firmly on the surface until the cucumber cracks lengthwise. Hands tear the cracked cucumber into rough 3-4 cm chunks. The pieces salt-rest in a colander 20-30 minutes to release water (this makes the dressing cling instead of dilute). A dressing of light soy, black vinegar (Chinkiang), sugar, sesame oil, crushed garlic and a spoon of chilli oil whisks together. The drained cucumber tosses in the dressing; rests for 30 minutes; eats cold.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 2 hours 15 minutes
 
 ## Overview
-Lamb shoulder is cut into large chunks. A spice paste of garlic, ginger, saffron, paprika, cumin, cinnamon, salt and olive oil rubs in; rests briefly. Onion sweats slowly in olive oil; the lamb goes in skin/fat-side down to brown lightly; water (or stock) covers halfway. Lid on; slow simmer 1 hour 45 minutes until very tender. Soft pitted prunes go in for the last 20 minutes with a tablespoon of honey. Garnished with toasted whole almonds and sesame seeds. Eaten with bread or couscous.
+Lamb shoulder is cut into large chunks. A spice paste of garlic, ginger, saffron, paprika, cumin, cinnamon, salt and olive oil rubs in; rests briefly. Onion sweats slowly in olive oil; the lamb goes in skin/fat-side down to brown lightly; water (or stock) covers halfway. Lid on; slow simmer for 1 hour 45 minutes until very tender. Soft pitted prunes go in for the last 20 minutes with a tablespoon of honey. Garnished with toasted whole almonds and sesame seeds. Eaten with bread or couscous.
 
 ## Ingredients
 

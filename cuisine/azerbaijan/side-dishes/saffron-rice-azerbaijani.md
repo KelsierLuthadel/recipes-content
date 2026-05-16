@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Basmati soaks 1 hour, par-boils in heavily salted water 5 minutes, drains. The empty pot films with butter, the rice mounds in, more butter dots on top, saffron-infused water drizzles over the peak. Tea-towel-wrapped lid traps steam. 40 minutes on low heat. Done.
+Basmati soaks for 1 hour, par-boils in heavily salted water 5 minutes, drains. The empty pot films with butter, the rice mounds in, more butter dots on top, saffron-infused water drizzles over the peak. Tea-towel-wrapped lid traps steam. 40 minutes on low heat. Done.
 
 ## Ingredients
 - 500 g basmati rice

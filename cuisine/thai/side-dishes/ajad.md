@@ -10,7 +10,7 @@
 **Cook Time:** 5 minutes (just for the syrup)
 
 ## Overview
-A simple syrup of rice vinegar, palm sugar, water and salt is brought to a gentle simmer to dissolve the sugar, then cooled. Cucumber, shallot and chilli are sliced thin and combined in a small bowl. The cooled syrup pours over. Rest 10-15 minutes for the vegetables to wilt slightly into the dressing. Served in small individual ramekins as a dip, OR in a larger bowl as a side, with peanuts sprinkled on top.
+A simple syrup of rice vinegar, palm sugar, water and salt is brought to a gentle simmer to dissolve the sugar, then cooled. Cucumber, shallot and chilli are sliced thin and combined in a small bowl. The cooled syrup is poured over. Rested for 10-15 minutes for the vegetables to wilt slightly into the dressing. Served in small individual ramekins as a dip, OR in a larger bowl as a side, with peanuts sprinkled on top.
 
 ## Ingredients
 

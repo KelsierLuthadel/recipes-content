@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Lamb gets a fast wet-marinade of crushed tomato, baharat, dried lime, garlic and yogurt. It pressure-cooks for 30 minutes with onion and stock; the cooked liquid is strained; rice cooks absorption-style in it for another 12-15 minutes (in the pressure cooker without pressure, or a separate pot). Lamb returns on top; rest 10 minutes; serve with sahawiq and salata.
+Lamb is given a fast wet marinade of crushed tomato, baharat, dried lime, garlic and yogurt. It is pressure-cooked for 30 minutes with onion and stock; the cooking liquid is strained; rice is cooked absorption-style in it for another 12-15 minutes (in the pressure cooker without pressure, or a separate pot). The lamb is returned on top; rested for 10 minutes; served with sahawiq and salata.
 
 ## Ingredients
 

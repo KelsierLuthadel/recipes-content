@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Chicken thighs brown in oil; onions and garlic soften alongside. Tomato, paprika and peanut butter go in to build the sauce; water loosens it and the pot simmers covered until the chicken is falling off the bone and the sauce coats a wooden spoon. Spinach goes in for the last few minutes. The peanut butter must be smooth and unsweetened.
+Chicken thighs are browned in oil; onions and garlic are softened alongside. Tomato, paprika and peanut butter go in to build the sauce; water loosens it and the pot simmers covered until the chicken is falling off the bone and the sauce coats a wooden spoon. Spinach goes in for the last few minutes. The peanut butter must be smooth and unsweetened.
 
 ## Ingredients
 

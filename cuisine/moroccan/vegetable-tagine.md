@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Onions soften with garlic and ras el hanout. Carrots, parsnips, potato and squash join in stages - root first, fast-cooking last. Chickpeas, tomatoes, stock and apricots simmer everything together. At the end, preserved lemon, fresh coriander and toasted almonds finish; honey rounds out the spice if needed.
+Onions are softened with garlic and ras el hanout. Carrots, parsnips, potato and squash join in stages - root first, fast-cooking last. Chickpeas, tomatoes, stock and apricots simmer everything together. At the end, preserved lemon, fresh coriander and toasted almonds finish; honey rounds out the spice if needed.
 
 ## Ingredients
 

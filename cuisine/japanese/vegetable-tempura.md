@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The batter is the technique: ice-cold sparkling water, plain flour, an egg yolk, mixed barely - the lumps and undissolved flour are deliberate. Vegetables are dusted in flour first to grip the batter, then dipped and dropped into 175°C oil. Each piece fries 90 seconds to 2 minutes. The dipping sauce of dashi, soy and mirin warms; daikon and ginger grate fresh.
+The batter is the technique: ice-cold sparkling water, plain flour, an egg yolk, mixed barely - the lumps and undissolved flour are deliberate. Vegetables are dusted in flour first to grip the batter, then dipped and dropped into 175°C oil. Each piece fries for 90 seconds to 2 minutes. The dipping sauce of dashi, soy and mirin warms; daikon and ginger grate fresh.
 
 ## Ingredients
 

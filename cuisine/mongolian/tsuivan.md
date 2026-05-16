@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-A stiff flour-and-water dough rests 30 minutes, rolls thin, folds and is cut into 3 mm-wide noodle strips. Mutton (fatty) browns in a deep heavy pot; onion, garlic and shredded cabbage cook down on top. A small amount of water goes in (just enough to make steam, not to soup the noodles). The raw noodles are spread on top, the lid clamped on, and everything steams 15 minutes. At the end, the lid lifts, the contents are tossed together: meat juice and fat coat the noodles.
+A stiff flour-and-water dough rests for 30 minutes, rolls thin, folds and is cut into 3 mm-wide noodle strips. Mutton (fatty) browns in a deep heavy pot; onion, garlic and shredded cabbage cook down on top. A small amount of water goes in (just enough to make steam, not to soup the noodles). The raw noodles are spread on top, the lid clamped on, and everything steams for 15 minutes. At the end, the lid lifts, the contents are tossed together: meat juice and fat coat the noodles.
 
 ## Ingredients
 

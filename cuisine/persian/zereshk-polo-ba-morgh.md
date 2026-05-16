@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Basmati rice rinses thoroughly; soaks 1 hour in salted water. Bone-in chicken (thighs and drumsticks) browns; cooks 45 minutes with onion, turmeric, tomato paste, cinnamon, saffron and a splash of water until tender and the sauce thick. Rice parboils 6 minutes in heavily salted water; drains. The Persian rice technique: a layer of yogurt-rice (or just oil and rice) goes in the bottom of the pot to form tahdig; remaining rice mounds on top in a cone; a cloth-wrapped lid clamps on; cooks 40 minutes over low heat. Meanwhile, zereshk berries are rinsed (they're salty), sautéed in butter with a touch of sugar and saffron. Plated: rice spread, chicken nestled on top, zereshk-and-nuts scattered across.
+Basmati rice rinses thoroughly; soaks for 1 hour in salted water. Bone-in chicken (thighs and drumsticks) browns; cooks for 45 minutes with onion, turmeric, tomato paste, cinnamon, saffron and a splash of water until tender and the sauce thick. Rice parboils for 6 minutes in heavily salted water; drains. The Persian rice technique: a layer of yogurt-rice (or just oil and rice) goes in the bottom of the pot to form tahdig; remaining rice mounds on top in a cone; a cloth-wrapped lid clamps on; cooks for 40 minutes over low heat. Meanwhile, zereshk berries are rinsed (they're salty), sautéed in butter with a touch of sugar and saffron. Plated: rice spread, chicken nestled on top, zereshk-and-nuts scattered across.
 
 ## Ingredients
 

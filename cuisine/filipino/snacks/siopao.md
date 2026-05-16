@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes (in batches)
 
 ## Overview
-A yeasted dough enriched with milk, sugar and butter rises 1 hour. Filling: pork mince browns with garlic, soy sauce, oyster sauce, brown sugar and Chinese five-spice, simmered 10 minutes till thick. Eggs hard-boil, quarter. Dough divides into 12 portions, each rolls into a 12 cm disc thicker in the middle than the edges. Filling spoons in with a quarter of egg. Edges pleat up over the filling like a money purse, twisted closed. Buns rest 20 minutes on parchment squares; steam 15 minutes in batches.
+A yeasted dough enriched with milk, sugar and butter rises for 1 hour. Filling: pork mince browns with garlic, soy sauce, oyster sauce, brown sugar and Chinese five-spice, simmered for 10 minutes till thick. Eggs hard-boil, quarter. Dough divides into 12 portions, each rolls into a 12 cm disc thicker in the middle than the edges. Filling spoons in with a quarter of egg. Edges pleat up over the filling like a money purse, twisted closed. Buns rest for 20 minutes on parchment squares; steam for 15 minutes in batches.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Bone-in mutton (or lamb) marinates 4 hours in yogurt, ginger-garlic paste, deep-fried onion (birista), garam masala, chilli and saffron. Basmati rice par-boils 4 minutes with whole spices to 70% done. Half the rice layers on top of the marinated mutton at the bottom of a heavy pot; saffron milk, mint, more birista and ghee drizzle on top; the rest of the rice on top of that. Sealed (cover + dough or foil tight), cooked on the lowest heat 1 hour. The meat cooks from raw inside the steaming rice. Opened at the table.
+Bone-in mutton (or lamb) marinates for 4 hours in yogurt, ginger-garlic paste, deep-fried onion (birista), garam masala, chilli and saffron. Basmati rice par-boils for 4 minutes with whole spices to 70% done. Half the rice layers on top of the marinated mutton at the bottom of a heavy pot; saffron milk, mint, more birista and ghee drizzle on top; the rest of the rice on top of that. Sealed (cover + dough or foil tight), cooked on the lowest heat 1 hour. The meat cooks from raw inside the steaming rice. Opened at the table.
 
 ## Ingredients
 

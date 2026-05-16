@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Pork marinates briefly in turmeric, salt and a splash of fish sauce. Onions cook hard in oil until deep golden brown - this is the colour and depth of the curry. The pork browns in the same oil; garlic, ginger, paprika and chilli powder go in; tomato softens; water covers the meat and it simmers covered for an hour until tender, then uncovered to "return the oil" to the surface. Plate.
+Pork is marinated briefly in turmeric, salt and a splash of fish sauce. Onions are cooked hard in oil until deep golden brown - this is the colour and depth of the curry. The pork is browned in the same oil; garlic, ginger, paprika and chilli powder go in; tomato is softened; water covers the meat and it simmers covered for an hour until tender, then uncovered to "return the oil" to the surface. Plated.
 
 ## Ingredients
 

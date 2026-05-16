@@ -10,7 +10,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Fine bulgur (#1 grade, the smallest) soaks 20 minutes; squeezed dry. The kibbeh dough: bulgur, lean lamb mince, grated onion, baharat, allspice, salt and pepper, all blitzed in a food processor to a smooth slightly sticky paste. The filling: onion fries; lamb mince browns with baharat, allspice and cinnamon; pine nuts toast in. A 26 cm round tin (or rectangular dish) is greased; half the kibbeh paste presses into the base; filling spreads on top; remaining kibbeh paste pats over the top. The whole surface is scored into diamonds with a sharp knife, brushed with olive oil, and baked 35-40 minutes.
+Fine bulgur (#1 grade, the smallest) soaks for 20 minutes; squeezed dry. The kibbeh dough: bulgur, lean lamb mince, grated onion, baharat, allspice, salt and pepper, all blitzed in a food processor to a smooth slightly sticky paste. The filling: onion fries; lamb mince browns with baharat, allspice and cinnamon; pine nuts toast in. A 26 cm round tin (or rectangular dish) is greased; half the kibbeh paste presses into the base; filling spreads on top; remaining kibbeh paste pats over the top. The whole surface is scored into diamonds with a sharp knife, brushed with olive oil, and baked for 35-40 minutes.
 
 ## Ingredients
 

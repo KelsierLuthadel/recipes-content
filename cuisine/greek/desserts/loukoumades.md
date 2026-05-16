@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes (in batches)
 
 ## Overview
-A wet yeasted batter - flour, warm water, yeast, salt, sugar - rests 1 hour. A small syrup of honey, water, lemon and cinnamon stick simmers 5 minutes. Oil heats to 175°C. The cook scoops a tablespoon of batter at a time from a wet hand, dropping into the oil - the puff is roughly walnut-sized. Fries 2-3 minutes till deep gold, turning once. Drains briefly; tumbles into the warm syrup; lifts onto plates; showers with walnuts and cinnamon. Eats immediately.
+A wet yeasted batter - flour, warm water, yeast, salt, sugar - rests for 1 hour. A small syrup of honey, water, lemon and cinnamon stick simmers for 5 minutes. Oil heats to 175°C. The cook scoops a tablespoon of batter at a time from a wet hand, dropping into the oil - the puff is roughly walnut-sized. Fries for 2-3 minutes till deep gold, turning once. Drains briefly; tumbles into the warm syrup; lifts onto plates; showers with walnuts and cinnamon. Eats immediately.
 
 ## Ingredients
 

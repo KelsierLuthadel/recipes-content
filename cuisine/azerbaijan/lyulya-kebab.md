@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Fatty lamb shoulder gets minced twice or pulsed in a food processor until smooth. A large onion grates fine, the juice squeezed out (excess water makes the meat slip off skewers). Onion and lamb knead together with salt, pepper and ground sumac for 5 minutes until the mixture goes from loose to tacky - this is the windowpane stage equivalent for meat, and the trick to skewer adhesion. Mixture chills 2 hours. Pat onto flat skewers in a 15 cm × 3 cm sausage shape. Grill over charcoal 5-6 minutes per side. Rest 2 minutes. Serve.
+Fatty lamb shoulder gets minced twice or pulsed in a food processor until smooth. A large onion grates fine, the juice squeezed out (excess water makes the meat slip off skewers). Onion and lamb knead together with salt, pepper and ground sumac for 5 minutes until the mixture goes from loose to tacky - this is the windowpane stage equivalent for meat, and the trick to skewer adhesion. Mixture chills for 2 hours. Pat onto flat skewers in a 15 cm × 3 cm sausage shape. Grill over charcoal 5-6 minutes per side. Rest for 2 minutes. Serve.
 
 ## Ingredients
 

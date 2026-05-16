@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Eggs soft-boil for 6 minutes (yolk barely set), cool, peel. Sausagemeat mixes with mustard, herbs and chopped onion. The seasoned mixture wraps around each peeled egg. Each Scotch egg dredges through flour, egg wash and panko, then deep-fries to a deep golden brown.
+Eggs are soft-boiled for 6 minutes (yolk barely set), cooled, peeled. Sausagemeat is mixed with mustard, herbs and chopped onion. The seasoned mixture is wrapped around each peeled egg. Each Scotch egg is dredged through flour, egg wash and panko, then deep-fried to a deep golden brown.
 
 ## Ingredients
 

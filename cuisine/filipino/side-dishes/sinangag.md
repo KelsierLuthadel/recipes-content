@@ -10,7 +10,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Day-old jasmine rice goes into the fridge to dry the grains overnight. Garlic slices fine, fries slowly in oil until crisp gold, lifted out and reserved. Cold rice goes into the same garlic oil, stir-fries 4 minutes breaking up the clumps. Garlic returns; salt and pepper season. Topped with the second handful of crispy garlic at service.
+Day-old jasmine rice goes into the fridge to dry the grains overnight. Garlic slices fine, fries slowly in oil until crisp gold, lifted out and reserved. Cold rice goes into the same garlic oil, stir-fries for 4 minutes breaking up the clumps. Garlic returns; salt and pepper season. Topped with the second handful of crispy garlic at service.
 
 ## Ingredients
 - 600 g cooked jasmine rice (day-old, refrigerated overnight, broken up with a fork)

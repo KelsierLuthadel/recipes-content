@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Lamb shoulder and lamb tail fat (or extra fatty trim) chop fine with a heavy knife or zırh (curved blade) — proper Adana is hand-cut, never minced through a grinder. The texture has visible pieces of meat and fat the size of small peas. Knead with salt, ground sumac, hot red Aleppo / Maraş chilli flakes (acı biber) and crushed garlic for 6-8 minutes until tacky and clinging to the bowl. Chill 2 hours. Press a fistful onto a wide flat skewer, working from the centre outward, shaping a 25 cm × 3 cm flat sausage with finger-tip dimples down the length. Grill over hot charcoal 5-6 minutes per side. Slide off skewer onto warm lavash. Rest 2 minutes; serve.
+Lamb shoulder and lamb tail fat (or extra fatty trim) chop fine with a heavy knife or zırh (curved blade) — proper Adana is hand-cut, never minced through a grinder. The texture has visible pieces of meat and fat the size of small peas. Knead with salt, ground sumac, hot red Aleppo / Maraş chilli flakes (acı biber) and crushed garlic for 6-8 minutes until tacky and clinging to the bowl. Chill for 2 hours. Press a fistful onto a wide flat skewer, working from the centre outward, shaping a 25 cm × 3 cm flat sausage with finger-tip dimples down the length. Grill over hot charcoal 5-6 minutes per side. Slide off skewer onto warm lavash. Rest for 2 minutes; serve.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Bread soaks in milk; mince browns with onions; curry powder, turmeric and Cape Malay spices bloom. Apricot jam, mango chutney, vinegar and lemon balance the spice with sweet-sour notes. Raisins, toasted almonds and the soaked bread fold through. The mixture presses into a baking dish; eggs whisk with the leftover milk and pour over; bay leaves stick into the surface; the lot bakes until the topping is just-set with a faint wobble.*
+Bread is soaked in milk; mince is browned with onions; curry powder, turmeric and Cape Malay spices bloom. Apricot jam, mango chutney, vinegar and lemon balance the spice with sweet-sour notes. Raisins, toasted almonds and the soaked bread are folded through. The mixture is pressed into a baking dish; eggs are whisked with the leftover milk and poured over; bay leaves are stuck into the surface; the lot is baked until the topping is just-set with a faint wobble.
 
 ## Ingredients
 

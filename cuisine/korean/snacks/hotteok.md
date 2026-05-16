@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A wet yeasted dough - combining plain flour, sweet rice flour, yeast, milk and a little oil - rises 1 hour. Filling: dark muscovado, cinnamon, chopped peanuts. Dough divides into 8 oily balls; each flattens in the palm, fills with a heaped tablespoon of sugar mix, pinches shut. Pan-fries seam-side-down in oil; presses flat with a heavy spatula; flips; cooks the other side. Eats hot.
+A wet yeasted dough - combining plain flour, sweet rice flour, yeast, milk and a little oil - rises for 1 hour. Filling: dark muscovado, cinnamon, chopped peanuts. Dough divides into 8 oily balls; each flattens in the palm, fills with a heaped tablespoon of sugar mix, pinches shut. Pan-fries seam-side-down in oil; presses flat with a heavy spatula; flips; cooks the other side. Eats hot.
 
 ## Ingredients
 

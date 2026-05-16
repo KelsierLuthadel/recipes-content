@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Potato boils, peels, mashes. Mixes with drained tuna, harissa, capers, parsley, salt, pepper. Warka or filo sheet lays flat; a line of filling spoons across one edge; a small well presses into the filling; a whole raw egg cracks into the well; folds and rolls into a cigar. Fries seam-down immediately in moderately hot oil - the egg cooks inside as the pastry crisps. Eats hot with lemon and harissa.
+Potato is boiled, peeled and mashed. Mixed with drained tuna, harissa, capers, parsley, salt and pepper. A warka or filo sheet is laid flat; a line of filling is spooned across one edge; a small well is pressed into the filling; a whole raw egg is cracked into the well; the sheet is folded and rolled into a cigar. Fried seam-down immediately in moderately hot oil - the egg cooks inside as the pastry turns crisp. Eaten hot with lemon and harissa.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A soft eggy yeasted dough mixes - flour, yeast, sugar, salt, butter, egg, milk and a touch of evaporated milk for the classic richness. Rises 2 hours (or overnight in the fridge). Rolls to 5 mm thick on a floured surface; cuts into 5 cm squares. Fries at 180°C 90 seconds per side. Drains briefly; dusts heavily with icing sugar; eaten hot.
+A soft eggy yeasted dough mixes - flour, yeast, sugar, salt, butter, egg, milk and a touch of evaporated milk for the classic richness. Rises for 2 hours (or overnight in the fridge). Rolls to 5 mm thick on a floured surface; cuts into 5 cm squares. Fries at 180°C 90 seconds per side. Drains briefly; dusts heavily with icing sugar; eaten hot.
 
 ## Ingredients
 

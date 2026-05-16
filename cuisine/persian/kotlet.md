@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A medium potato grates fine (on a box grater); a small onion grates the same way. The grated potato and onion squeeze in a clean tea towel to extract excess water. They combine with mince, egg, turmeric, salt, pepper and a touch of cinnamon into a paste. The paste rests 30 minutes (firms up; the salt seasons through). Shaped into 12 oval patties, about 8 cm long, 1 cm thick. Shallow-fried in sunflower oil 3 minutes per side until deep gold.
+A medium potato grates fine (on a box grater); a small onion grates the same way. The grated potato and onion squeeze in a clean tea towel to extract excess water. They combine with mince, egg, turmeric, salt, pepper and a touch of cinnamon into a paste. The paste rests for 30 minutes (firms up; the salt seasons through). Shaped into 12 oval patties, about 8 cm long, 1 cm thick. Shallow-fried in sunflower oil 3 minutes per side until deep gold.
 
 ## Ingredients
 

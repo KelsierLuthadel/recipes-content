@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes (in batches)
 
 ## Overview
-Boudin filling combines pork shoulder, pork liver (optional, traditional), cooked rice, onion, celery, garlic, parsley, green onion, cayenne, salt, pepper. Either bought ready-made boudin (casings removed) or made from scratch by simmering then mincing pork shoulder with the aromatics. Filling rolls into walnut-sized balls; chills 30 min so they hold shape. Dredges in flour, egg, then seasoned breadcrumbs. Deep-fries 3-4 minutes at 175°C.
+Boudin filling combines pork shoulder, pork liver (optional, traditional), cooked rice, onion, celery, garlic, parsley, green onion, cayenne, salt, pepper. Either bought ready-made boudin (casings removed) or made from scratch by simmering then mincing pork shoulder with the aromatics. Filling rolls into walnut-sized balls; chills for 30 min so they hold shape. Dredges in flour, egg, then seasoned breadcrumbs. Deep-fries for 3-4 minutes at 175°C.
 
 ## Ingredients
 

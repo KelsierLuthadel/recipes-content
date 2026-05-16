@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Butter creams with icing sugar 4 minutes until pale. Egg yolks beat in one at a time, vanilla extract last. Flour folds in gently - overworking makes them tough. Dough chills 30 minutes for handling. Pinches off into walnut-sized balls; presses gently flat with a thumb. Brushes with egg-yolk glaze; sprinkles with sesame or nigella seeds. Bakes 20 minutes at 170°C. Eats slightly warm with strong tea.
+Butter creams with icing sugar 4 minutes until pale. Egg yolks beat in one at a time, vanilla extract last. Flour folds in gently - overworking makes them tough. Dough chills for 30 minutes for handling. Pinches off into walnut-sized balls; presses gently flat with a thumb. Brushes with egg-yolk glaze; sprinkles with sesame or nigella seeds. Bakes for 20 minutes at 170°C. Eats slightly warm with strong tea.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Beef or goat is parboiled with onion, stock cube and salt to make a base stock. Smoked fish hydrates in hot water and is picked clean. Egusi seeds are ground (or already-ground egusi powder is used) into a thick paste with a little water. Onion, garlic, ginger and Scotch bonnet blitz into a hot pepper paste. Palm oil heats until just smoking; the pepper paste fries in it 5 minutes. Egusi paste goes in and "fries" 10 minutes until it forms small clumps. Stock and meat join; everything simmers 20 minutes. Smoked fish, ground crayfish and locust beans add depth. Chopped spinach (or bitter leaf) goes in for the last 5 minutes. Salt to season.
+Beef or goat is parboiled with onion, stock cube and salt to make a base stock. Smoked fish hydrates in hot water and is picked clean. Egusi seeds are ground (or already-ground egusi powder is used) into a thick paste with a little water. Onion, garlic, ginger and Scotch bonnet blitz into a hot pepper paste. Palm oil heats until just smoking; the pepper paste fries in it 5 minutes. Egusi paste goes in and "fries" 10 minutes until it forms small clumps. Stock and meat join; everything simmers for 20 minutes. Smoked fish, ground crayfish and locust beans add depth. Chopped spinach (or bitter leaf) goes in for the last 5 minutes. Salt to season.
 
 ## Ingredients
 

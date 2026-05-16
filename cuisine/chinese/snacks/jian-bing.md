@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A thin batter of mung-bean flour, millet flour, plain flour, water, salt and five-spice is whisked to a single-cream consistency; rests 1 hour. A wide flat griddle or large non-stick pan is heated; a ladle of batter is spread thinly with a wooden disc-rake (jian bing rake - or just rotate the pan to spread). An egg cracks onto the crepe; gets smashed and spread with a spatula. Crepe flips; cooked side painted with sweet bean sauce and chilli paste; scattered with herbs; topped with a crisp wonton sheet; folded into quarters. Eaten warm, by hand.
+A thin batter of mung-bean flour, millet flour, plain flour, water, salt and five-spice is whisked to a single-cream consistency; rested for 1 hour. A wide flat griddle or large non-stick pan is heated; a ladle of batter is spread thinly with a wooden disc-rake (jian bing rake - or just rotate the pan to spread). An egg is cracked onto the crepe; smashed and spread with a spatula. The crepe is flipped; the cooked side is painted with sweet bean sauce and chilli paste; scattered with herbs; topped with a crisp wonton sheet; folded into quarters. Eaten warm, by hand.
 
 ## Ingredients
 

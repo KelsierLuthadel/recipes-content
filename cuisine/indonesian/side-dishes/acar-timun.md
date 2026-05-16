@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes (rests 1 hour)
 
 ## Overview
-Cucumber, carrot, shallot, chilli prep into thin slices or matchsticks. Salt rests 10 minutes to draw moisture, drains. A simple dressing of vinegar, sugar, water and ginger whisks together. Vegetables toss with the dressing; rest 1 hour at room temperature. Eats cool - never refrigerated cold; the texture suffers.
+Cucumber, carrot, shallot, chilli prep into thin slices or matchsticks. Salt rests for 10 minutes to draw moisture, drains. A simple dressing of vinegar, sugar, water and ginger whisks together. Vegetables toss with the dressing; rest for 1 hour at room temperature. Eats cool - never refrigerated cold; the texture suffers.
 
 ## Ingredients
 - 2 small cucumbers (about 300 g)

@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 45 minutes
 
 ## Overview
-Aubergines are peeled in stripes, sliced into 1 ½ cm-thick rounds (or 2 cm-thick long pieces), salted heavily on both sides and rested 30 minutes to weep bitter juice. Patted dry and shallow-fried gold in sunflower oil. The base: onion fries in oil until deep gold; lamb cubes brown in; turmeric, cinnamon, salt and pepper toast briefly; tomato paste cooks 2 minutes; water and yellow split peas join; everything simmers 1 hour. Verjuice (or lemon juice), saffron-water and the fried aubergines go in for the last 30 minutes. Served over chelo rice.
+Aubergines are peeled in stripes, sliced into 1 ½ cm-thick rounds (or 2 cm-thick long pieces), salted heavily on both sides and rested for 30 minutes to weep bitter juice. Patted dry and shallow-fried gold in sunflower oil. The base: onion fries in oil until deep gold; lamb cubes brown in; turmeric, cinnamon, salt and pepper toast briefly; tomato paste cooks for 2 minutes; water and yellow split peas join; everything simmers for 1 hour. Verjuice (or lemon juice), saffron-water and the fried aubergines go in for the last 30 minutes. Served over chelo rice.
 
 ## Ingredients
 

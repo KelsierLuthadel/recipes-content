@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Potatoes boil in their skins until tender (about 25 minutes); cool slightly, peel, grate on the coarse side. Onion sautées in oil with a pinch of turmeric until soft. Eggs beat with salt, pepper, saffron-water, baking powder, and a tablespoon of flour. The grated potato and softened onion fold through. Mixture tips into a buttered 24 cm round or square tin; baked at 180°C for 25-30 minutes until the top is gold and the centre is just set. Cooled slightly; cut into squares. Excellent with Greek yogurt or as part of a sabzi-khordan (Persian herb-and-cheese plate).
+Potatoes are boiled in their skins until tender (about 25 minutes); cooled slightly, peeled, grated on the coarse side. Onion is sautéed in oil with a pinch of turmeric until soft. Eggs are beaten with salt, pepper, saffron-water, baking powder and a tablespoon of flour. The grated potato and softened onion are folded through. The mixture is tipped into a buttered 24 cm round or square tin; baked at 180°C for 25-30 minutes until the top is gold and the centre is just set. Cooled slightly; cut into squares. Excellent with Greek yogurt or as part of a sabzi-khordan (Persian herb-and-cheese plate).
 
 ## Ingredients
 

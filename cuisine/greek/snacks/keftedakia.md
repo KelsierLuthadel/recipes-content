@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes (in batches)
 
 ## Overview
-A grated onion (juice squeezed out) folds into beef-or-pork-and-beef mince with bread soaked in milk and squeezed dry, an egg, a generous amount of dried mint and oregano, parsley, garlic, salt and pepper. A tablespoon of ouzo or red wine adds depth. Mixture rests 30 minutes (the flavours mingle, the bread fully absorbs). Rolls into walnut-sized balls, dusts in flour, pan-fries in olive oil 6-8 minutes turning often until deep brown and cooked through. Serves with tzatziki and lemon wedges.
+A grated onion (juice squeezed out) folds into beef-or-pork-and-beef mince with bread soaked in milk and squeezed dry, an egg, a generous amount of dried mint and oregano, parsley, garlic, salt and pepper. A tablespoon of ouzo or red wine adds depth. Mixture rests for 30 minutes (the flavours mingle, the bread fully absorbs). Rolls into walnut-sized balls, dusts in flour, pan-fries in olive oil 6-8 minutes turning often until deep brown and cooked through. Serves with tzatziki and lemon wedges.
 
 ## Ingredients
 

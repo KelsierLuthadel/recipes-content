@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Onion softens in oil; garlic, ginger, curry powder bloom. Carrots cook briefly to tender-crisp. Peppers (red and green) and chillies join. Tomatoes simmer everything down. Tinned baked beans go in last with a splash of vinegar to balance. Eaten warm or at room temperature; tastes better the next day.
+Onion is softened in oil; garlic, ginger and curry powder bloom. Carrots cook briefly to tender-crisp. Peppers (red and green) and chillies join. Tomatoes simmer everything down. Tinned baked beans go in last with a splash of vinegar to balance. Eaten warm or at room temperature; tastes better the next day.
 
 ## Ingredients
 

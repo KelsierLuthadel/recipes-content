@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes per batch
 
 ## Overview
-A yeasted bread dough rises 1 hour. Topping: lamb mince mixed RAW with grated onion (squeezed dry), diced tomato, garlic, baharat, allspice, pomegranate molasses, lemon, parsley and a small spoon of olive oil - no pre-cooking. Toasted pine nuts fold in. Dough divides into 18 balls; each rolls into an 8 cm disc with a slight raised rim. A heaped tablespoon of topping spreads on each; pinched into a slight 4-corner star shape (the Jordanian visual signature - distinguishes from the Lebanese version which is flat-edged). Baked at 220°C 10-12 minutes until the dough is gold and the meat is glossy-set. Garnished with extra parsley and pomegranate seeds.
+A yeasted bread dough rises for 1 hour. Topping: lamb mince mixed RAW with grated onion (squeezed dry), diced tomato, garlic, baharat, allspice, pomegranate molasses, lemon, parsley and a small spoon of olive oil - no pre-cooking. Toasted pine nuts fold in. Dough divides into 18 balls; each rolls into an 8 cm disc with a slight raised rim. A heaped tablespoon of topping spreads on each; pinched into a slight 4-corner star shape (the Jordanian visual signature - distinguishes from the Lebanese version which is flat-edged). Baked at 220°C 10-12 minutes until the dough is gold and the meat is glossy-set. Garnished with extra parsley and pomegranate seeds.
 
 ## Ingredients
 

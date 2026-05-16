@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Fresh whole sardines (ideally the small finger-length variety from June-August) are rinsed and laid out on a tray. Salted generously with coarse salt all over (inside and out), rested 1 hour. The salt firms the flesh and seasons through; the excess is wiped off before grilling. Grilled over hot charcoal (or under a domestic broiler) 3-4 minutes per side until the skin blisters and chars and the flesh flakes off the spine. Eaten hot, with the fingers, off bread, with a glass of vinho verde.
+Fresh whole sardines (ideally the small finger-length variety from June-August) are rinsed and laid out on a tray. Salted generously with coarse salt all over (inside and out), rested for 1 hour. The salt firms the flesh and seasons through; the excess is wiped off before grilling. Grilled over hot charcoal (or under a domestic broiler) 3-4 minutes per side until the skin blisters and chars and the flesh flakes off the spine. Eaten hot, with the fingers, off bread, with a glass of vinho verde.
 
 ## Ingredients
 

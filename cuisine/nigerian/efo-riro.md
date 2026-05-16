@@ -10,7 +10,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Beef (or goat, or prawns) parboils briefly. Smoked fish soaks. A pepper paste of red bell pepper, Scotch bonnet, onion and tomato blitzes in the blender. Palm oil heats; the pepper paste fries 10 minutes until reduced and the oil rises. Stock, meat, smoked fish, ground crayfish and iru go in; simmers 15 minutes. Spinach goes in last, wilts in 5 minutes. Served with rice, eba, fufu or pounded yam.
+Beef (or goat, or prawns) parboils briefly. Smoked fish soaks. A pepper paste of red bell pepper, Scotch bonnet, onion and tomato blitzes in the blender. Palm oil heats; the pepper paste fries for 10 minutes until reduced and the oil rises. Stock, meat, smoked fish, ground crayfish and iru go in; simmers for 15 minutes. Spinach goes in last, wilts in 5 minutes. Served with rice, eba, fufu or pounded yam.
 
 ## Ingredients
 

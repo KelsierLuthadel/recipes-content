@@ -10,7 +10,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Beef chuck or shin chunks marinate in turmeric, fish sauce and salt. Onions fry in oil until deep brown; the beef browns in the same oil; ginger-garlic paste, paprika and chilli powder spice up; tomato and water turn it to a stew. Two hours of slow simmer; the meat shreds at the fork. The signature: a deep red-orange oil slick on top.
+Beef chuck or shin chunks are marinated in turmeric, fish sauce and salt. Onions are fried in oil until deep brown; the beef is browned in the same oil; ginger-garlic paste, paprika and chilli powder are added; tomato and water turn it to a stew. Two hours of slow simmer; the meat falls apart at the fork. The signature: a deep red-orange oil slick on top.
 
 ## Ingredients
 

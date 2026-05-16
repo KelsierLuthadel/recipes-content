@@ -10,7 +10,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Aubergine cubes are salted to weep, fried hard in olive oil to deep gold, and reserved. A separate pan softens diced onion and sliced celery in olive oil; garlic joins briefly; chopped tomatoes simmer with red wine vinegar and sugar to make the agrodolce base. Green olives, capers, sultanas (optional) and toasted pine nuts stir in. The fried aubergine returns and simmers 10 minutes to meld. Off heat, fresh basil scattered. Rests at least 2 hours (ideally overnight) before serving at room temperature.
+Aubergine cubes are salted to weep, fried hard in olive oil to deep gold, and reserved. A separate pan is used to soften diced onion and sliced celery in olive oil; garlic joins briefly; chopped tomatoes simmer with red wine vinegar and sugar to make the agrodolce base. Green olives, capers, sultanas (optional) and toasted pine nuts are stirred in. The fried aubergine is returned and simmers for 10 minutes to meld. Off heat, fresh basil is scattered. Rested at least 2 hours (ideally overnight) before serving at room temperature.
 
 ## Ingredients
 

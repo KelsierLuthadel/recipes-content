@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes (assuming you're using ready-made meringue nests)
 
 ## Overview
-Strawberries are hulled and quartered (or sliced thick). Half macerate in a wide bowl with sugar and a splash of balsamic vinegar (or lemon juice) for 30 minutes - they release a glossy pink syrup. The other half stay whole-ish and crisp. Cream whips with vanilla and icing sugar to soft peaks (NOT stiff peaks - too firm and the mess loses its silkiness). Ready-made meringue nests (or homemade) crush into rough pieces. At the moment of serving: cream goes into a wide bowl or glasses, half the macerated strawberries and their syrup fold in with broken strokes (leaving streaks, not blended); the unmacerated berries scatter; the meringue crushes in last; everything assembles in messy layers. Eaten within 10 minutes - meringue softens fast.
+Strawberries are hulled and quartered (or sliced thick). Half are macerated in a wide bowl with sugar and a splash of balsamic vinegar (or lemon juice) for 30 minutes - they release a glossy pink syrup. The other half stay whole-ish and crisp. Cream is whipped with vanilla and icing sugar to soft peaks (NOT stiff peaks - too firm and the mess loses its silkiness). Ready-made meringue nests (or homemade) are crushed into rough pieces. At the moment of serving: cream goes into a wide bowl or glasses, the macerated strawberries and their syrup are folded through with broken strokes (leaving streaks, not blended); the unmacerated berries are scattered over; the meringue is crushed in last; everything assembles in messy layers. Eaten within 10 minutes - meringue softens fast.
 
 ## Ingredients
 

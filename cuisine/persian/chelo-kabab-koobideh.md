@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Mince mixes with very finely-grated onion (squeezed dry), salt, pepper, turmeric and a hit of saffron-water. The mixture chills, then forms onto wide flat skewers in long sausage shapes. Charcoal grills are traditional; a hot grill pan or barbecue works at home. The kababs grill 3-4 minutes per side; whole tomatoes char alongside; rice piles on the plate; everything assembles together.
+Mince mixes with very finely-grated onion (squeezed dry), salt, pepper, turmeric and a hit of saffron-water. The mixture chills, then forms onto wide flat skewers in long sausage shapes. Charcoal grills are traditional; a hot grill pan or barbecue works at home. The kababs grill for 3-4 minutes per side; whole tomatoes char alongside; rice piles on the plate; everything assembles together.
 
 ## Ingredients
 

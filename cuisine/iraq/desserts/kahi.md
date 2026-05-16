@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A simple flour-and-water dough rests 30 minutes. Stretches paper-thin on an oiled surface (filo-style). Brushed with melted samna; folded into a long strip; coiled into a flat round; rolled flat. Pan-baked or oven-baked at 200°C until darkly gold. Plunged briefly into hot saffron-cardamom-rose sugar syrup. Topped with thick clotted cream (geymar, or substitute Devonshire / Cornish clotted cream).
+A simple flour-and-water dough rests for 30 minutes. Stretches paper-thin on an oiled surface (filo-style). Brushed with melted samna; folded into a long strip; coiled into a flat round; rolled flat. Pan-baked or oven-baked at 200°C until darkly gold. Plunged briefly into hot saffron-cardamom-rose sugar syrup. Topped with thick clotted cream (geymar, or substitute Devonshire / Cornish clotted cream).
 
 ## Ingredients
 

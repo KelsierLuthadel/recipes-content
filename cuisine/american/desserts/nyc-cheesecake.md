@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 20 minutes (plus overnight chilling)
 
 ## Overview
-Graham-cracker base presses into a 23 cm springform tin; pre-bakes 10 min. Filling: cream cheese softens (very important - cold cream cheese gives lumpy batter). Beats with sugar, then eggs one at a time, then sour cream, vanilla, lemon. Wraps tin in foil so water bath doesn't seep in. Bakes at 160°C in a water bath 60-75 minutes till the edges are set but the centre wobbles a 7 cm circle. Cools in the oven with the door cracked 1 hour (avoids cracks). Chills overnight. Serves chilled.
+A graham-cracker base is pressed into a 23 cm springform tin and pre-baked for 10 minutes. Filling: cream cheese is softened to room temperature (cold cream cheese gives lumpy batter), then beaten with sugar, eggs one at a time, sour cream, vanilla and lemon. The tin is wrapped in foil so the water bath doesn't seep in. Baked at 160°C in a water bath for 60-75 minutes until the edges are set but the centre wobbles a 7 cm circle. Cooled in the oven with the door cracked for 1 hour (avoids cracks). Chilled overnight. Served chilled.
 
 ## Ingredients
 

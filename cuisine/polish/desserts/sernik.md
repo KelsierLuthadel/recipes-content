@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes (plus 4 hours cooling)
 
 ## Overview
-A buttery shortcrust pastry presses into a tin; a small piece reserves for a lattice. Twaróg (the dry, tangy Polish curd cheese) blends with butter, sugar, egg yolks, vanilla, lemon zest and a little semolina or cornflour. Whipped egg whites fold in for lightness. The filling pours onto the pastry, the lattice criss-crosses on top, and it bakes at a moderate heat until just set. The cooling matters: rapid cooling cracks the top.
+A buttery shortcrust pastry is pressed into a tin; a small piece is reserved for a lattice. Twaróg (the dry, tangy Polish curd cheese) is blended with butter, sugar, egg yolks, vanilla, lemon zest and a little semolina or cornflour. Whipped egg whites are folded in for lightness. The filling is poured onto the pastry, the lattice is criss-crossed on top, and it bakes at a moderate heat until just set. The cooling matters: rapid cooling cracks the top.
 
 ## Ingredients
 

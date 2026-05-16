@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Basmati rice is rinsed and soaked. It parboils briefly in salted water (al dente), drains. The pot heats with butter, oil and saffron-water. A layer of yogurt-and-rice mixture forms the crust at the bottom; the rest of the rice piles on top in a mound. The lid wraps in a tea towel; everything steams 45 minutes; the bottom crisps. Inverted onto a platter, the golden tahdig sits on top.
+Basmati rice is rinsed and soaked. It is parboiled briefly in salted water (al dente), drained. The pot is heated with butter, oil and saffron-water. A layer of yogurt-and-rice mixture forms the crust at the bottom; the rest of the rice is piled on top in a mound. The lid is wrapped in a tea towel; everything steams for 45 minutes; the bottom crisps. Inverted onto a platter, the golden tahdig sits on top.
 
 ## Ingredients
 

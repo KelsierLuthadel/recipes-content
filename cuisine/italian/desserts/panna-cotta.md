@@ -10,7 +10,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-Powdered gelatin blooms in cold milk 5 minutes. Double cream, the remaining milk, sugar and a vanilla pod (split and scraped) heat gently to just under a simmer - never to a boil. Off heat, the bloomed gelatin stirs in until dissolved. The mixture strains through a sieve into 6 small ramekins or dariole moulds. Refrigerated 4-6 hours (ideally overnight) until set. To serve: briefly dip each mould in hot water; invert onto a plate; spoon over the berry compote.
+Powdered gelatin blooms in cold milk 5 minutes. Double cream, the remaining milk, sugar and a vanilla pod (split and scraped) heat gently to just under a simmer - never to a boil. Off heat, the bloomed gelatin stirs in until dissolved. The mixture strains through a sieve into 6 small ramekins or dariole moulds. Refrigerated for 4-6 hours (ideally overnight) until set. To serve: briefly dip each mould in hot water; invert onto a plate; spoon over the berry compote.
 
 ## Ingredients
 

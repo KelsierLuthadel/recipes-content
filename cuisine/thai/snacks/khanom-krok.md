@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Two batters. The first (the base) is rice flour, palm sugar, salt, coconut milk and a small amount of mung-bean flour; rests 2 hours so the rice flour hydrates. The second (the top) is just coconut cream, salt and a pinch of rice flour. A khanom krok pan (or an aebleskiver pan, or a takoyaki pan) is heated; each dimple is brushed with oil; the base batter goes in three-quarters; covered briefly to set; the top coconut-cream batter spoons over to fill; covered again; the half-spheres release when the bottom is golden and the tops are barely jiggling. Two are paired together and served on a small banana-leaf square.
+Two batters. The first (the base) is rice flour, palm sugar, salt, coconut milk and a small amount of mung-bean flour; rests for 2 hours so the rice flour hydrates. The second (the top) is just coconut cream, salt and a pinch of rice flour. A khanom krok pan (or an aebleskiver pan, or a takoyaki pan) is heated; each dimple is brushed with oil; the base batter goes in three-quarters; covered briefly to set; the top coconut-cream batter spoons over to fill; covered again; the half-spheres release when the bottom is golden and the tops are barely jiggling. Two are paired together and served on a small banana-leaf square.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Long-grain rice toasts briefly in oil with a chopped onion, turmeric, and a small handful of cashews (optional). Water and salt go in; the pot covers tightly and the rice cooks undisturbed 18 minutes. A 5-minute rest finishes the steam.
+Long-grain rice is toasted briefly in oil with a chopped onion, turmeric and a small handful of cashews (optional). Water and salt go in; the pot is covered tightly and the rice cooks undisturbed for 18 minutes. A 5-minute rest finishes the steam.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Semolina mixes with melted butter and rests 1 hour (hydrates fully). Sugar, eggs, ground almonds, baking powder and orange-flower water blend in. Pours into a 30 × 22 cm tin; smooths; scores into diamonds; an almond presses into each diamond. Bakes 35-40 minutes till deep gold. Syrup of sugar, water, lemon, orange-flower water simmers separately. Hot syrup pours over the just-baked cake. Rests at least 4 hours so the syrup absorbs fully.
+Semolina is mixed with melted butter and rested for 1 hour (hydrates fully). Sugar, eggs, ground almonds, baking powder and orange-flower water are blended in. Poured into a 30 × 22 cm tin; smoothed; scored into diamonds; an almond is pressed into each diamond. Baked for 35-40 minutes till deep gold. A syrup of sugar, water, lemon and orange-flower water simmers separately. Hot syrup is poured over the just-baked cake. Rested at least 4 hours so the syrup absorbs fully.
 
 ## Ingredients
 

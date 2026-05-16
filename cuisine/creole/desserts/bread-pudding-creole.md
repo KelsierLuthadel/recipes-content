@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Stale French bread (a day-old baguette is perfect) tears into 3 cm chunks. Custard: whole milk, eggs, sugar, vanilla, cinnamon, nutmeg, lemon zest. Raisins steep in 4 tablespoons bourbon for plump. Bread soaks in custard 30 minutes; raisins fold in. Tips into a buttered 25 × 18 cm dish; dots with butter. Bakes 45-50 minutes at 175°C till the top is bronzed and the centre is set but still custardy. Whiskey sauce: butter melts with sugar; cream and bourbon stir in; warmed but not boiled. Pours over the pudding at the table.
+Stale French bread (a day-old baguette is perfect) tears into 3 cm chunks. Custard: whole milk, eggs, sugar, vanilla, cinnamon, nutmeg, lemon zest. Raisins steep in 4 tablespoons bourbon for plump. Bread soaks in custard 30 minutes; raisins fold in. Tips into a buttered 25 × 18 cm dish; dots with butter. Bakes for 45-50 minutes at 175°C till the top is bronzed and the centre is set but still custardy. Whiskey sauce: butter melts with sugar; cream and bourbon stir in; warmed but not boiled. Pours over the pudding at the table.
 
 ## Ingredients
 

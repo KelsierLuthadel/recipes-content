@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A yeasted bread dough rises 1 hour. Divided into 6 ropes (50 cm each); each rope knots into the classic pretzel shape. Each pretzel dips for 15 seconds into a baking-soda bath (boiling water + soda) - this gives the colour and characteristic flavour. Salt scattered; baked at 220°C until darkly burnished.
+A yeasted bread dough rises for 1 hour. Divided into 6 ropes (50 cm each); each rope knots into the classic pretzel shape. Each pretzel dips for 15 seconds into a baking-soda bath (boiling water + soda) - this gives the colour and characteristic flavour. Salt scattered; baked at 220°C until darkly burnished.
 
 ## Ingredients
 

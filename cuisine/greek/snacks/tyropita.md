@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Feta crumbles into a bowl with ricotta, egg, dill, mint, nutmeg and black pepper. Filo sheets keep covered with a damp tea towel (they dry instantly). Each sheet halves lengthways. A spoon of filling sits at one end of each strip; the strip folds flag-style up and across to form a triangle, layer by layer. Triangles brush with melted butter; bake 25 minutes at 180°C till deep gold and puffed.
+Feta crumbles into a bowl with ricotta, egg, dill, mint, nutmeg and black pepper. Filo sheets keep covered with a damp tea towel (they dry instantly). Each sheet halves lengthways. A spoon of filling sits at one end of each strip; the strip folds flag-style up and across to form a triangle, layer by layer. Triangles brush with melted butter; bake for 25 minutes at 180°C till deep gold and puffed.
 
 ## Ingredients
 

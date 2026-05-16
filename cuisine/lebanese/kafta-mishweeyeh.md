@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Mince combines with grated onion, very-finely chopped parsley, garlic, allspice, cinnamon, salt and a pinch of cayenne. The mixture rests 30 minutes to firm up. Wet hands shape portions around flat metal skewers into long sausage-like cylinders pressed firmly so they don't drop. Grilled hot, turned once, 4-5 minutes per side. Sliced or pulled off the skewers; wrapped in warm bread with the trimmings.
+Mince combines with grated onion, very-finely chopped parsley, garlic, allspice, cinnamon, salt and a pinch of cayenne. The mixture rests for 30 minutes to firm up. Wet hands shape portions around flat metal skewers into long sausage-like cylinders pressed firmly so they don't drop. Grilled hot, turned once, 4-5 minutes per side. Sliced or pulled off the skewers; wrapped in warm bread with the trimmings.
 
 ## Ingredients
 

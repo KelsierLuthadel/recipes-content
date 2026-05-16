@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Onion and garlic soften in butter; cool. Breadcrumbs soak in milk to a panade. Beef (and pork if using) mix with the panade, sautéed onion, egg, Worcestershire, mustard, parsley, thyme, salt, pepper. Pack loosely into a loaf tin. Brush with glaze (ketchup + brown sugar + Worcestershire). Bake 50 minutes; glaze again; back in for 15 minutes more.
+Onion and garlic are softened in butter; cooled. Breadcrumbs soak in milk to a panade. Beef (and pork if using) is mixed with the panade, sautéed onion, egg, Worcestershire, mustard, parsley, thyme, salt and pepper. Packed loosely into a loaf tin. Brushed with glaze (ketchup + brown sugar + Worcestershire). Baked for 50 minutes; glazed again; returned for 15 minutes more.
 
 ## Ingredients
 

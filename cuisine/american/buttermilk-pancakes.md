@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Dry ingredients whisk in one bowl; wet (buttermilk, eggs, butter) in another. Combine briefly - lumps are good - and rest 10 minutes for the baking powder and soda to start working. Cook on a medium pan; flip when bubbles appear and the edges look set.
+Dry ingredients whisk in one bowl; wet (buttermilk, eggs, butter) in another. Combine briefly - lumps are good - and rest for 10 minutes for the baking powder and soda to start working. Cook on a medium pan; flip when bubbles appear and the edges look set.
 
 ## Ingredients
 

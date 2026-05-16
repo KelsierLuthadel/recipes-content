@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A dough rich in toasted sesame seeds, almond, aniseed, cinnamon, orange-flower water, melted butter and a touch of saffron rests 1 hour. Rolled thin (3 mm); cut into rectangles; each rectangle slits 4 times lengthways but not through. Each piece folds and twists into a rosette by threading one corner through the centre slits. Fries in moderately hot oil. Hot rosettes plunge into warmed honey + orange-flower water; soaked 2 minutes; lifted; sprinkled with sesame.
+A dough rich in toasted sesame seeds, almond, aniseed, cinnamon, orange-flower water, melted butter and a touch of saffron rests for 1 hour. Rolled thin (3 mm); cut into rectangles; each rectangle slits 4 times lengthways but not through. Each piece folds and twists into a rosette by threading one corner through the centre slits. Fries in moderately hot oil. Hot rosettes plunge into warmed honey + orange-flower water; soaked for 2 minutes; lifted; sprinkled with sesame.
 
 ## Ingredients
 

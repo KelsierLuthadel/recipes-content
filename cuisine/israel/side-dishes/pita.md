@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes (with a hot stone)
 
 ## Overview
-A simple yeasted dough - flour, yeast, salt, sugar, olive oil, warm water. Rises 1 hour. Divides into 8 portions; rolls into thin discs about 18 cm wide; rests 20 minutes. Baked at maximum heat on a hot baking stone 2-3 minutes - they puff dramatically into balloons and fall flat as they cool, leaving a pocket.
+A simple yeasted dough - flour, yeast, salt, sugar, olive oil, warm water. Rises for 1 hour. Divides into 8 portions; rolls into thin discs about 18 cm wide; rests for 20 minutes. Baked at maximum heat on a hot baking stone 2-3 minutes - they puff dramatically into balloons and fall flat as they cool, leaving a pocket.
 
 ## Ingredients
 

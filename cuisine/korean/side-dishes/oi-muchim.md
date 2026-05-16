@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Persian / Korean / English cucumbers slice into thick half-moons or julienne. Salt rests 10 minutes; squeeze briefly. Dressing: gochugaru, soy sauce, garlic, rice vinegar, sesame oil, a touch of sugar - whisk together. Cucumber tosses with the dressing; rests 10 minutes; sprinkles with sesame seeds and spring onion. Eats cool.
+Persian / Korean / English cucumbers slice into thick half-moons or julienne. Salt rests for 10 minutes; squeeze briefly. Dressing: gochugaru, soy sauce, garlic, rice vinegar, sesame oil, a touch of sugar - whisk together. Cucumber tosses with the dressing; rests for 10 minutes; sprinkles with sesame seeds and spring onion. Eats cool.
 
 ## Ingredients
 - 2 long cucumbers (about 400 g; Korean, Persian or English)

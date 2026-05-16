@@ -10,7 +10,7 @@
 **Cook Time:** 60 minutes (in steaming stages of 5-7 min per layer)
 
 ## Overview
-A single batter is made: rice flour, tapioca starch, mung-bean starch (for the right texture), coconut milk, sugar, salt and pandan extract for fragrance and green colour. The batter divides into two bowls: one stays plain (white-cream), the other gets a strong dose of pandan extract for vivid green. A square tin lines a bamboo steamer. Layer one (green) pours in 4-5 mm thick; steam 5-6 minutes until just set. Layer two (white) pours over; steam again. Alternate until 9 thin layers are built (or 8, or 7 - odd numbers preferred). Cool fully, cut into squares with an oiled knife.
+A single batter is made: rice flour, tapioca starch, mung-bean starch (for the right texture), coconut milk, sugar, salt and pandan extract for fragrance and green colour. The batter divides into two bowls: one stays plain (white-cream), the other gets a strong dose of pandan extract for vivid green. A square tin lines a bamboo steamer. Layer one (green) pours in 4-5 mm thick; steam for 5-6 minutes until just set. Layer two (white) pours over; steam again. Alternate until 9 thin layers are built (or 8, or 7 - odd numbers preferred). Cool fully, cut into squares with an oiled knife.
 
 ## Ingredients
 

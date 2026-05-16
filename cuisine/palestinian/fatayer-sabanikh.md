@@ -10,7 +10,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-A soft yeasted olive-oil dough rises 45 minutes. The filling: spinach wilts briefly in salted water and is squeezed bone-dry; chopped onion massages with salt to soften and weep; the two combine with sumac, lemon juice, pomegranate molasses, olive oil and toasted pine nuts. The dough divides into 12 balls; each rolls into a 12 cm disc; a spoon of filling sits in the centre; the disc folds into a tricorn (three corners pinched up to meet at the top). Baked at 220°C 15-18 minutes until deep gold.
+A soft yeasted olive-oil dough rises for 45 minutes. The filling: spinach wilts briefly in salted water and is squeezed bone-dry; chopped onion massages with salt to soften and weep; the two combine with sumac, lemon juice, pomegranate molasses, olive oil and toasted pine nuts. The dough divides into 12 balls; each rolls into a 12 cm disc; a spoon of filling sits in the centre; the disc folds into a tricorn (three corners pinched up to meet at the top). Baked at 220°C 15-18 minutes until deep gold.
 
 ## Ingredients
 

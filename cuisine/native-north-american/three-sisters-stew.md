@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Diced onion and garlic sweat in sunflower oil. A whole butternut squash, peeled and cubed, browns briefly to caramelise the edges. Dried sage and ground sumac (or a squeeze of lemon) season. Stock and tomatoes go in; everything simmers 30 minutes until the squash is collapsing. Drained pinto beans and hominy (or sweetcorn) join for the last 15 minutes. A splash of maple syrup at the end balances. Garnished with toasted pumpkin seeds and fresh sage.
+Diced onion and garlic sweat in sunflower oil. A whole butternut squash, peeled and cubed, browns briefly to caramelise the edges. Dried sage and ground sumac (or a squeeze of lemon) season. Stock and tomatoes go in; everything simmers for 30 minutes until the squash is collapsing. Drained pinto beans and hominy (or sweetcorn) join for the last 15 minutes. A splash of maple syrup at the end balances. Garnished with toasted pumpkin seeds and fresh sage.
 
 ## Ingredients
 

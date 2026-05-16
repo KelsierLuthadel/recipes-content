@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes (in batches)
 
 ## Overview
-Filling: fresh cheese (ricotta, paneer, or feta + cream cheese) mashes with a beaten egg, chopped parsley, mint, ground cumin and a pinch of black pepper. Warka pastry (or filo) strips lay flat. A teaspoon of filling sits at one end; the strip folds flag-style up the strip, forming a triangle. Edges seal with egg-wash or water. Deep-fries 2-3 minutes till deep gold. Drains on a rack. Eats warm.
+Filling: fresh cheese (ricotta, paneer, or feta + cream cheese) mashes with a beaten egg, chopped parsley, mint, ground cumin and a pinch of black pepper. Warka pastry (or filo) strips lay flat. A teaspoon of filling sits at one end; the strip folds flag-style up the strip, forming a triangle. Edges seal with egg-wash or water. Deep-fries for 2-3 minutes till deep gold. Drains on a rack. Eats warm.
 
 ## Ingredients
 

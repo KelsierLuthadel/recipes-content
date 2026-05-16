@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 10 minutes
 
 ## Overview
-Lentils (brown or green - NOT red) simmer 25 minutes until tender. Two batches of sliced onion fry in olive oil - the first batch goes very dark mahogany (almost burnt at edges) for the flavour base; the second batch is fried separately and reserved as a crispy topping. Rinsed basmati rice cooks absorption-style with the lentils, the first batch of onion, cumin, allspice and stock for 20 minutes. The crispy onion scatters on top at the table.
+Lentils (brown or green - NOT red) simmer for 25 minutes until tender. Two batches of sliced onion fry in olive oil - the first batch goes very dark mahogany (almost burnt at edges) for the flavour base; the second batch is fried separately and reserved as a crispy topping. Rinsed basmati rice cooks absorption-style with the lentils, the first batch of onion, cumin, allspice and stock for 20 minutes. The crispy onion scatters on top at the table.
 
 ## Ingredients
 

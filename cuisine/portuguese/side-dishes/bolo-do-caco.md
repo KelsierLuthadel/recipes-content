@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A small orange sweet potato is boiled, peeled, mashed to a smooth purée. The dough: strong flour, mashed sweet potato, yeast, salt, sugar and water mix to a soft slightly sticky dough; rises 1 hour. Divides into 4; each shapes into a flat 18 cm round disc. Cooked on a hot dry griddle (or a heavy heavy frying pan, since basalt stones are rare in domestic kitchens) 5 minutes per side until both sides are charred-spotted. Split horizontally; the garlic-parsley butter slathers inside; close like a sandwich.
+A small orange sweet potato is boiled, peeled, mashed to a smooth purée. The dough: strong flour, mashed sweet potato, yeast, salt, sugar and water mix to a soft slightly sticky dough; rises for 1 hour. Divides into 4; each shapes into a flat 18 cm round disc. Cooked on a hot dry griddle (or a heavy heavy frying pan, since basalt stones are rare in domestic kitchens) 5 minutes per side until both sides are charred-spotted. Split horizontally; the garlic-parsley butter slathers inside; close like a sandwich.
 
 ## Ingredients
 

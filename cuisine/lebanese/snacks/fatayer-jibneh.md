@@ -10,7 +10,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-A soft yeasted olive-oil dough rises 45 minutes. Filling: grated akkawi (desalted first if very salty) or a mix of low-moisture mozzarella + halloumi (rinsed to reduce salt), crumbled feta, chopped parsley, mint, dried mint, black pepper and a touch of nigella seed. Dough divides into 16 balls; each rolls into a 10 cm disc. A heaped tablespoon of cheese mix sits in the centre. Folded into a tricorn: three sides of the disc fold up over the filling, pinched at the top in three seams. Brushed with olive oil. Baked at 220°C for 15-18 minutes until deep gold.
+A soft yeasted olive-oil dough rises for 45 minutes. Filling: grated akkawi (desalted first if very salty) or a mix of low-moisture mozzarella + halloumi (rinsed to reduce salt), crumbled feta, chopped parsley, mint, dried mint, black pepper and a touch of nigella seed. Dough divides into 16 balls; each rolls into a 10 cm disc. A heaped tablespoon of cheese mix sits in the centre. Folded into a tricorn: three sides of the disc fold up over the filling, pinched at the top in three seams. Brushed with olive oil. Baked at 220°C for 15-18 minutes until deep gold.
 
 ## Ingredients
 

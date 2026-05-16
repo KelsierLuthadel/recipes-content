@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Potato cubes par-boil 6 minutes to set the inside, drain, dry. Fried in olive oil at medium-high until deeply golden all sides (15 minutes). Off heat - garlic, coriander, chilli flakes, salt, lemon juice toss through. A handful of fresh coriander leaves on top.
+Potato cubes par-boil for 6 minutes to set the inside, drain, dry. Fried in olive oil at medium-high until deeply golden all sides (15 minutes). Off heat - garlic, coriander, chilli flakes, salt, lemon juice toss through. A handful of fresh coriander leaves on top.
 
 ## Ingredients
 

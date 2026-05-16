@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Lamb mince fries with onion, leek, garlic, ginger, ground coriander, cumin, chilli and a touch of dried mint. Cool. Spring-roll pastry sheets cut into long strips; a teaspoon of cool filling folds into a triangular packet via the flag-fold method. Sealed with flour-water paste; fried at 170°C for 3 minutes per side.
+Lamb mince is fried with onion, leek, garlic, ginger, ground coriander, cumin, chilli and a touch of dried mint, then cooled. Spring-roll pastry sheets are cut into long strips; a teaspoon of cool filling is folded into a triangular packet via the flag-fold method. Sealed with flour-water paste, the parcels are fried at 170°C for 3 minutes per side.
 
 ## Ingredients
 

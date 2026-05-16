@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Fine blue cornmeal whisks with hot water, a pinch of baking soda (substituting for juniper ash), salt and a small amount of plain flour for handleability. The batter rests 10 minutes to hydrate. A wide non-stick pan or flat griddle heats over medium-high without oil. Tablespoon portions of batter spread thinly across the pan with a wet hand or thin spatula into 18 cm rounds. Each cooks 1 minute per side, lifts off the pan, and stacks under a cloth to stay soft.
+Fine blue cornmeal whisks with hot water, a pinch of baking soda (substituting for juniper ash), salt and a small amount of plain flour for handleability. The batter rests for 10 minutes to hydrate. A wide non-stick pan or flat griddle heats over medium-high without oil. Tablespoon portions of batter spread thinly across the pan with a wet hand or thin spatula into 18 cm rounds. Each cooks for 1 minute per side, lifts off the pan, and stacks under a cloth to stay soft.
 
 ## Ingredients
 

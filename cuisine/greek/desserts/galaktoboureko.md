@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes (plus 4 hours resting)
 
 ## Overview
-A semolina custard simmers on the stove - milk, semolina, sugar, lemon zest, eggs - until thick. Off heat, butter and vanilla stir in. A 30 × 22 cm tin layers with 10 sheets of buttered filo on the bottom. Custard pours in. 8 more buttered filo sheets cover. Top scores into diamonds. Bakes 45 minutes at 180°C till deep gold. While baking, a syrup of sugar, water, lemon juice and cinnamon stick simmers. The HOT syrup pours over the JUST-OUT-OF-OVEN galaktoboureko. Rests 4 hours minimum (overnight ideal) before cutting.
+A semolina custard is simmered on the stove - milk, semolina, sugar, lemon zest, eggs - until thick. Off heat, butter and vanilla are stirred in. A 30 × 22 cm tin is layered with 10 sheets of buttered filo on the bottom. The custard is poured in. 8 more buttered filo sheets cover. The top is scored into diamonds. Baked for 45 minutes at 180°C till deep gold. While baking, a syrup of sugar, water, lemon juice and cinnamon stick simmers. The HOT syrup is poured over the JUST-OUT-OF-OVEN galaktoboureko. Rested for 4 hours minimum (overnight ideal) before cutting.
 
 ## Ingredients
 

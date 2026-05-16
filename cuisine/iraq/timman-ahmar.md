@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Onion softens in oil; tomato paste fries until darker and aromatic; rice toasts briefly; hot stock pours in with baharat and cinnamon. Sliced potatoes layer at the bottom of the pot for the crust; rice piles over; the lot steams covered until tender. The crust pops out at the end as a single golden cake.
+Onion is softened in oil; tomato paste is fried until darker and aromatic; rice is toasted briefly; hot stock is poured in with baharat and cinnamon. Sliced potatoes are layered at the bottom of the pot for the crust; rice is piled over; the lot steams covered until tender. The crust pops out at the end as a single golden cake.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Sweet (sour, "polvilho doce" or sweet) tapioca starch combines with hot milk-and-oil mixture (scalds the starch), then eggs and grated cheese. The mixture is sticky and unmanageable - refrigerate 30 minutes to firm up, or use damp hands to roll. Small balls bake until puffed and golden. Best straight from the oven.
+Sweet (sour, "polvilho doce" or sweet) tapioca starch combines with hot milk-and-oil mixture (scalds the starch), then eggs and grated cheese. The mixture is sticky and unmanageable - refrigerate for 30 minutes to firm up, or use damp hands to roll. Small balls bake until puffed and golden. Best straight from the oven.
 
 ## Ingredients
 

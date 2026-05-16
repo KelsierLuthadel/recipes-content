@@ -10,7 +10,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-Lamb shanks brown hard; cook 2 hours 30 minutes with onion, garlic, turmeric, cinnamon and saffron in a covered pot with a small amount of stock until fork-tender. Meanwhile, basmati rinses and soaks 1 hour. Frozen (or fresh, podded) broad beans simmer briefly until tender; the rice parboils 6 minutes in heavily salted water; drains. The rice layers in the cooking pot with the broad beans, dill and saffron: bottom oil-and-rice for tahdig; then a mixed layer of rice + beans + dill; another rice-and-bean-and-dill layer; topped with rice and saffron-water; lid-wrapped-in-towel; steam 40 minutes. Plated with the lamb shanks alongside.
+Lamb shanks brown hard; cook for 2 hours 30 minutes with onion, garlic, turmeric, cinnamon and saffron in a covered pot with a small amount of stock until fork-tender. Meanwhile, basmati rinses and soaks for 1 hour. Frozen (or fresh, podded) broad beans simmer briefly until tender; the rice parboils for 6 minutes in heavily salted water; drains. The rice layers in the cooking pot with the broad beans, dill and saffron: bottom oil-and-rice for tahdig; then a mixed layer of rice + beans + dill; another rice-and-bean-and-dill layer; topped with rice and saffron-water; lid-wrapped-in-towel; steam for 40 minutes. Plated with the lamb shanks alongside.
 
 ## Ingredients
 

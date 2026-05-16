@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Onion fries soft in oil; tomato softens to a jammy base; greens (covo, kale, spring greens or cavolo nero) wilt down and braise with a little water; smooth peanut butter goes in towards the end, thinning to a glossy sauce. Salt, pepper, maybe a squeeze of lemon. Eat with sadza.
+Onion is fried soft in oil; tomato softens to a jammy base; greens (covo, kale, spring greens or cavolo nero) wilt down and braise with a little water; smooth peanut butter is added towards the end, thinning to a glossy sauce. Salt, pepper, maybe a squeeze of lemon. Eaten with sadza.
 
 ## Ingredients
 

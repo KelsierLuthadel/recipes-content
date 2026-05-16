@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes (in batches)
 
 ## Overview
-Small whole head-on shrimp rinse but stay shell-on (shells provide crunch and flavour). A batter of rice flour, plain flour, water and egg goes loose. Grated squash, mung-bean sprouts and spring onion mix in. A ladleful drops into hot oil, with 3-4 shrimp pressed on top, fries 4 minutes till crisp gold, flips, another 2 minutes. Drains on rack. Eats with garlic-vinegar dip.
+Small whole head-on shrimp rinse but stay shell-on (shells provide crunch and flavour). A batter of rice flour, plain flour, water and egg goes loose. Grated squash, mung-bean sprouts and spring onion mix in. A ladleful drops into hot oil, with 3-4 shrimp pressed on top, fries for 4 minutes till crisp gold, flips, another 2 minutes. Drains on rack. Eats with garlic-vinegar dip.
 
 ## Ingredients
 

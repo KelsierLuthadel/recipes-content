@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Same technique as Jordan kibbeh-nayyeh-balls (these snacks are siblings across the Levant). Fine bulgur soaks, drains, squeezes dry. Lean lamb (or beef) blitzes with onion, baharat, allspice, salt and ice water to a smooth paste; the bulgur folds in to make a smooth, slightly tacky dough. Filling cooks separately: fattier lamb mince sautées with onion, baharat, cinnamon, allspice and pine nuts; cooled. Dough divides; each piece shapes into a football (thin walls, pointed tips), filled with cool filling, sealed and re-pointed. Deep-fried 3-4 minutes; served with yogurt-mint sauce.
+Same technique as Jordan kibbeh-nayyeh-balls (these snacks are siblings across the Levant). Fine bulgur soaks, drains, squeezes dry. Lean lamb (or beef) blitzes with onion, baharat, allspice, salt and ice water to a smooth paste; the bulgur folds in to make a smooth, slightly tacky dough. Filling cooks separately: fattier lamb mince sautées with onion, baharat, cinnamon, allspice and pine nuts; cooled. Dough divides; each piece shapes into a football (thin walls, pointed tips), filled with cool filling, sealed and re-pointed. Deep-fried for 3-4 minutes; served with yogurt-mint sauce.
 
 ## Ingredients
 

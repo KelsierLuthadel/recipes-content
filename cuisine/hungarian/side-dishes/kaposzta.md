@@ -10,7 +10,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Onion softens in lard or oil, paprika blooms off the heat, then shredded cabbage goes in with a splash of stock and a pinch of sugar. The cabbage cooks slow and covered until it has collapsed into something silky and savoury-sweet, sharpened at the end with a hit of vinegar. A spoonful of sour cream stirred through at the end is optional but traditional in many homes.
+Onion is softened in lard or oil, paprika blooms off the heat, then shredded cabbage goes in with a splash of stock and a pinch of sugar. The cabbage is cooked slow and covered until it has collapsed into something silky and savoury-sweet, sharpened at the end with a hit of vinegar. A spoonful of sour cream stirred through at the end is optional but traditional in many homes.
 
 ## Ingredients
 

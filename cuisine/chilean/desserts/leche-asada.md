@@ -10,7 +10,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Eggs whisk gently with sugar and vanilla. Warm milk drizzles in. Strains through a fine sieve into an oven dish. Bakes 40-45 minutes at 180°C till the surface is deep gold and the centre wobbles only slightly. No water bath - Chilean leche asada gets its iconic browned crust by direct heat. Cools to room temperature, then chills.
+Eggs whisk gently with sugar and vanilla. Warm milk drizzles in. Strains through a fine sieve into an oven dish. Bakes for 40-45 minutes at 180°C till the surface is deep gold and the centre wobbles only slightly. No water bath - Chilean leche asada gets its iconic browned crust by direct heat. Cools to room temperature, then chills.
 
 ## Ingredients
 - 1 litre whole milk

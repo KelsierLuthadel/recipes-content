@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes (in batches)
 
 ## Overview
-A simple flour-water-oil dough rests 1 hour (gluten relaxes; will roll paper-thin). Filling: beef mince cooks with shallot, garlic, ginger, curry-leaf, ground spices till dry and aromatic; cools; mixes with beaten eggs, spring onion and chopped coriander just before frying. Dough divides; each portion stretches paper-thin like a strudel; filling spoons in the centre; the edges fold over to make a flat square parcel; pan-fries 3 minutes per side. Cuts in quarters; eats with chilli-pickle sauce.
+A simple flour-water-oil dough rests for 1 hour (gluten relaxes; will roll paper-thin). Filling: beef mince cooks with shallot, garlic, ginger, curry-leaf, ground spices till dry and aromatic; cools; mixes with beaten eggs, spring onion and chopped coriander just before frying. Dough divides; each portion stretches paper-thin like a strudel; filling spoons in the centre; the edges fold over to make a flat square parcel; pan-fries for 3 minutes per side. Cuts in quarters; eats with chilli-pickle sauce.
 
 ## Ingredients
 

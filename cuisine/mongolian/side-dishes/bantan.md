@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A small quantity of minced mutton and diced onion fries gently in fat. Mutton stock (or water) goes in; the broth simmers 10 minutes. Plain flour is rubbed with a few drops of water between the palms to make tiny crumb-sized lumps; these scatter into the simmering broth, where they cook for 5 minutes into soft pearls. Salt and pepper to season. A scatter of fresh dill or spring onion finishes the bowl.
+A small quantity of minced mutton and diced onion fries gently in fat. Mutton stock (or water) goes in; the broth simmers for 10 minutes. Plain flour is rubbed with a few drops of water between the palms to make tiny crumb-sized lumps; these scatter into the simmering broth, where they cook for 5 minutes into soft pearls. Salt and pepper to season. A scatter of fresh dill or spring onion finishes the bowl.
 
 ## Ingredients
 

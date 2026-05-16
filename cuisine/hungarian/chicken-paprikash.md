@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Onions soften slow with sweet paprika, tomato joins, then chicken thighs braise in the sauce until tender. Sour cream stirs in off the heat for the velvety finish. Served over buttered egg noodles, with extra paprika sprinkled on top.
+Onions are softened slowly with sweet paprika, tomato joins, then chicken thighs braise in the sauce until tender. Sour cream is stirred in off the heat for the velvety finish. Served over buttered egg noodles, with extra paprika sprinkled on top.
 
 ## Ingredients
 

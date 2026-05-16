@@ -10,7 +10,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Onion fries in oil until deep gold; ginger-garlic paste joins and is fried 1 minute. Ground spices (cumin, coriander, turmeric, chilli powder, garam masala) toast in the oil. Chopped tomatoes go in and cook down 8 minutes. Chicken pieces brown briefly. Pre-cooked chickpeas (or tinned, drained) join with water; everything simmers covered 25 minutes. Fresh coriander, green chilli and slivered ginger finish.
+Onion fries in oil until deep gold; ginger-garlic paste joins and is fried for 1 minute. Ground spices (cumin, coriander, turmeric, chilli powder, garam masala) toast in the oil. Chopped tomatoes go in and cook down 8 minutes. Chicken pieces brown briefly. Pre-cooked chickpeas (or tinned, drained) join with water; everything simmers covered 25 minutes. Fresh coriander, green chilli and slivered ginger finish.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Saba bananas (or under-ripe regular bananas) peel and halve lengthways. Batter: rice flour, plain flour, sugar, baking powder, salt mixed with cold water and a touch of vanilla to a thick pancake-batter consistency. Bananas dip into the batter to coat; lower into hot oil (175°C); fry 4-5 minutes turning, until deep gold and crisp. Drain on a rack. Eats hot, sometimes dusted with icing sugar or drizzled with palm-sugar syrup.
+Saba bananas (or under-ripe regular bananas) peel and halve lengthways. Batter: rice flour, plain flour, sugar, baking powder, salt mixed with cold water and a touch of vanilla to a thick pancake-batter consistency. Bananas dip into the batter to coat; lower into hot oil (175°C); fry for 4-5 minutes turning, until deep gold and crisp. Drain on a rack. Eats hot, sometimes dusted with icing sugar or drizzled with palm-sugar syrup.
 
 ## Ingredients
 

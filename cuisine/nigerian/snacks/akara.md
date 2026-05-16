@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Dried black-eyed beans soak briefly to loosen the skins; the skins rub off (this is the key step - skin-on akara is bitter and grey). The peeled beans go into a blender with onion, Scotch bonnet and just enough water to make a thick batter (NOT a paste). The batter is whipped by hand or with a wooden spoon for 5 minutes until light and aerated - this is what makes akara fluffy rather than dense. Spoonfuls drop into 175°C oil and fry 3-4 minutes per side until golden. Drained on paper. Eaten hot.
+Dried black-eyed beans soak briefly to loosen the skins; the skins rub off (this is the key step - skin-on akara is bitter and grey). The peeled beans go into a blender with onion, Scotch bonnet and just enough water to make a thick batter (NOT a paste). The batter is whipped by hand or with a wooden spoon for 5 minutes until light and aerated - this is what makes akara fluffy rather than dense. Spoonfuls drop into 175°C oil and fry for 3-4 minutes per side until golden. Drained on paper. Eaten hot.
 
 ## Ingredients
 

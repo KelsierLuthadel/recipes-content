@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Brioche-style dough: bread flour, yeast, milk, eggs, butter, sugar, salt. Kneads 10 min till elastic; rises 1.5 hours. Chocolate filling: dark chocolate + butter melted with cocoa, sugar, cinnamon - cools to spreadable. Dough divides in half; each rolls to a rectangle 40 × 25 cm; filling spreads to edges; rolls up tight; cuts lengthways down the middle; the two halves twist around each other (the iconic babka braid). Lifts into a buttered loaf tin; rises 45 min; bakes 35 min at 180°C. Sugar syrup brushes over hot.
+Brioche-style dough: bread flour, yeast, milk, eggs, butter, sugar, salt. Kneads 10 min till elastic; rises 1.5 hours. Chocolate filling: dark chocolate + butter melted with cocoa, sugar, cinnamon - cools to spreadable. Dough divides in half; each rolls to a rectangle 40 × 25 cm; filling spreads to edges; rolls up tight; cuts lengthways down the middle; the two halves twist around each other (the iconic babka braid). Lifts into a buttered loaf tin; rises for 45 min; bakes for 35 min at 180°C. Sugar syrup brushes over hot.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-A yeasted bread dough - bread flour, yeast, sugar, salt, oil, warm water. First rise 1 hour. Divided into 8 portions; each rolls into an oval football shape, pointed at both ends. Slashed lengthways with a sharp knife or razor. Second rise 25 minutes. Baked at 220°C with steam (a tray of hot water at the bottom) until deep gold and the slash has opened.
+A yeasted bread dough - bread flour, yeast, sugar, salt, oil, warm water. First rise for 1 hour. Divided into 8 portions; each rolls into an oval football shape, pointed at both ends. Slashed lengthways with a sharp knife or razor. Second rise for 25 minutes. Baked at 220°C with steam (a tray of hot water at the bottom) until deep gold and the slash has opened.
 
 ## Ingredients
 

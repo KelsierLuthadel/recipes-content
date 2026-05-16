@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Plain flour, cornflour, yeast, sugar, milk powder and a pinch of cardamom and saffron mix with warm water into a thick, slack batter. Rest 1 hour. Small balls drop into oil at 170°C, fry 3-4 minutes until deep gold, then dunk in warm date syrup or saffron-cardamom sugar syrup. Sprinkle with sesame.
+Plain flour, cornflour, yeast, sugar, milk powder and a pinch of cardamom and saffron mix with warm water into a thick, slack batter. Rest for 1 hour. Small balls drop into oil at 170°C, fry for 3-4 minutes until deep gold, then dunk in warm date syrup or saffron-cardamom sugar syrup. Sprinkle with sesame.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A batter of fine cornmeal and plain flour (about 2:1), buttermilk, egg, baking powder, baking soda, a teaspoon of sugar, salt, pepper and finely chopped onion. Rest 15 minutes for the cornmeal to hydrate. Drop walnut-sized scoops into oil at 170°C; fry 3-4 minutes total, turning, until deep gold.
+A batter of fine cornmeal and plain flour (about 2:1), buttermilk, egg, baking powder, baking soda, a teaspoon of sugar, salt, pepper and finely chopped onion. Rest for 15 minutes for the cornmeal to hydrate. Drop walnut-sized scoops into oil at 170°C; fry for 3-4 minutes total, turning, until deep gold.
 
 ## Ingredients
 

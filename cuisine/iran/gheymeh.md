@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 45 minutes
 
 ## Overview
-Onion fries dark gold; turmeric, cinnamon and meat brown in. Tomato puree, hot stock, dried limes and presoaked split peas join. Simmers 90 minutes until meat and peas are both tender. Matchstick potatoes deep-fry separately and pile on top at serving.
+Onion fries dark gold; turmeric, cinnamon and meat brown in. Tomato puree, hot stock, dried limes and presoaked split peas join. Simmers for 90 minutes until meat and peas are both tender. Matchstick potatoes deep-fry separately and pile on top at serving.
 
 ## Ingredients
 

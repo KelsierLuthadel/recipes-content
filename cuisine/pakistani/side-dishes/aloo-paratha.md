@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Whole-wheat (atta) flour is mixed with salt and just enough warm water to make a soft dough; rests 20 minutes. Potatoes boil whole, peel hot, mash with cumin, garam masala, ginger, green chilli, amchoor and coriander. The dough divides into balls. Each ball flattens into a small disc; a heaped spoon of potato sits in the middle; the dough pleats up around the filling and pinches closed; flattens again carefully; rolls out gently to a 20 cm disc. Each cooks on a hot tawa or non-stick pan with ghee, 2 minutes per side, until crispy and gold.
+Whole-wheat (atta) flour is mixed with salt and just enough warm water to make a soft dough; rests for 20 minutes. Potatoes boil whole, peel hot, mash with cumin, garam masala, ginger, green chilli, amchoor and coriander. The dough divides into balls. Each ball flattens into a small disc; a heaped spoon of potato sits in the middle; the dough pleats up around the filling and pinches closed; flattens again carefully; rolls out gently to a 20 cm disc. Each cooks on a hot tawa or non-stick pan with ghee, 2 minutes per side, until crispy and gold.
 
 ## Ingredients
 

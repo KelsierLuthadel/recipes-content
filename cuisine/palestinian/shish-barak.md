@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A simple wheat-flour-and-water dough rests 30 minutes. The filling: onion fries; lamb mince browns with baharat, allspice, cinnamon, salt and pepper; cooled. The dough rolls thin, cuts into 5 cm rounds; a small spoon of filling sits on each; folded in half to make a half-moon; the corners pinched together over the back to form a tiny tortellini. Lined up on a tray; baked 12 minutes at 200°C to firm and lightly colour. A warm yogurt sauce simmers gently, thickened with cornstarch (or whisked egg white) so it doesn't split. The baked dumplings drop in and warm 5 minutes. Garlic-and-mint butter sizzles on top.
+A simple wheat-flour-and-water dough rests for 30 minutes. The filling: onion fries; lamb mince browns with baharat, allspice, cinnamon, salt and pepper; cooled. The dough rolls thin, cuts into 5 cm rounds; a small spoon of filling sits on each; folded in half to make a half-moon; the corners pinched together over the back to form a tiny tortellini. Lined up on a tray; baked for 12 minutes at 200°C to firm and lightly colour. A warm yogurt sauce simmers gently, thickened with cornstarch (or whisked egg white) so it doesn't split. The baked dumplings drop in and warm 5 minutes. Garlic-and-mint butter sizzles on top.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Floury potatoes boil whole in their skins; peel and dice while still warm. Mix with hard-boiled egg, sliced spring onion, Dijon, mayonnaise, white wine vinegar, salt, pepper, parsley. Toss gently. Best slightly warm - the mayo grips the potato and the egg crumbles softly.
+Floury potatoes are boiled whole in their skins; peeled and diced while still warm. Mixed with hard-boiled egg, sliced spring onion, Dijon, mayonnaise, white wine vinegar, salt, pepper and parsley. Tossed gently. Best slightly warm - the mayo grips the potato and the egg breaks into soft crumbles.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Cubed ripe tomatoes sit with salt, olive oil, basil and a touch of red wine vinegar for 30 minutes to release juice and meld. Country-style bread is sliced 2 cm thick and toasted hard on a grill, in a pan, or under a high broiler until both sides are deeply golden with charred edges. While still warm, each slice is rubbed with a raw garlic clove (the rough bread surface acts as a grater, embedding garlic essence into every fibre) and drizzled with extra-virgin olive oil. The macerated tomato mixture spoons onto each slice; eaten within 60 seconds before the bread softens.
+Cubed ripe tomatoes sit with salt, olive oil, basil and a touch of red wine vinegar for 30 minutes to release juice and meld. Country-style bread is sliced 2 cm thick and toasted hard on a grill, in a pan, or under a high broiler until both sides are deeply golden with charred edges. While still warm, each slice is rubbed with a raw garlic clove (the rough bread surface acts as a grater, embedding garlic essence into every fibre) and drizzled with extra-virgin olive oil. The macerated tomato mixture is spooned onto each slice; eaten within 60 seconds before the bread goes soft.
 
 ## Ingredients
 

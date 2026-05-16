@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A simple yeasted milk-and-egg dough rises 1 hour. Onions soften slowly in butter until pale gold and sweet; cool, then mix with chopped herbs and a knob more butter. Dough divides into 6 balls, each rolls flat, fills with herbs, gathers into a purse, presses flat to a 12 cm disc, rolls under a pin to 1 cm thick. Pan-fries 4 minutes per side on a dry hot skillet, or bakes at 200°C 15 minutes.
+A simple yeasted milk-and-egg dough rises for 1 hour. Onions are softened slowly in butter until pale gold and sweet; cooled, then mixed with chopped herbs and a knob more butter. The dough is divided into 6 balls, each rolled flat, filled with herbs, gathered into a purse, pressed flat to a 12 cm disc, and rolled under a pin to 1 cm thick. Pan-fried for 4 minutes per side on a dry hot skillet, or baked at 200°C for 15 minutes.
 
 ## Ingredients
 

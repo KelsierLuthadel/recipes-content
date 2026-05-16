@@ -10,7 +10,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Lamb mince (with enough fat for tenderness; 20%) combines with grated onion (squeezed dry), ginger, garlic, green chilli, fresh coriander, mint, garam masala, ground cumin, ground coriander, salt and a small spoon of besan (chickpea flour, helps the mince cling to the skewer). Mixed vigorously for 3 minutes to develop the proteins. Rested 1 hour. Shaped into long sausages on metal skewers (or wooden skewers soaked 30 min). Grilled hard over charcoal (or under a screaming-hot grill) 8-10 minutes turning often, until charred and just-cooked. Pulled off the skewers onto warm parathas; rolled with sliced onion, fresh coriander, mint chutney; eaten by hand.
+Lamb mince (with enough fat for tenderness; 20%) combines with grated onion (squeezed dry), ginger, garlic, green chilli, fresh coriander, mint, garam masala, ground cumin, ground coriander, salt and a small spoon of besan (chickpea flour, helps the mince cling to the skewer). Mixed vigorously for 3 minutes to develop the proteins. Rested for 1 hour. Shaped into long sausages on metal skewers (or wooden skewers soaked for 30 min). Grilled hard over charcoal (or under a screaming-hot grill) 8-10 minutes turning often, until charred and just-cooked. Pulled off the skewers onto warm parathas; rolled with sliced onion, fresh coriander, mint chutney; eaten by hand.
 
 ## Ingredients
 

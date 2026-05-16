@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Fine bulgur soaks 30 minutes. Lamb mince blends with bulgur, grated onion, allspice, salt to a smooth paste. Filling: lamb mince cooked with onion, garlic, allspice, pine nuts and pomegranate molasses, cooled. Half the shell paste spreads in a wide oiled baking tin; filling spreads over; remaining shell paste tops it. Scored into diamonds; drizzled with samna; baked 30 minutes.
+Fine bulgur soaks for 30 minutes. Lamb mince blends with bulgur, grated onion, allspice, salt to a smooth paste. Filling: lamb mince cooked with onion, garlic, allspice, pine nuts and pomegranate molasses, cooled. Half the shell paste spreads in a wide oiled baking tin; filling spreads over; remaining shell paste tops it. Scored into diamonds; drizzled with samna; baked for 30 minutes.
 
 ## Ingredients
 

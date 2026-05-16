@@ -10,7 +10,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Onion softens in butter; red cabbage joins along with sliced apple, brown sugar, red wine vinegar, a touch of red wine, cinnamon and cloves. Slow-cooks covered for an hour until the cabbage is silky and the liquid has reduced into a glossy glaze.
+Onion is softened in butter; red cabbage joins along with sliced apple, brown sugar, red wine vinegar, a touch of red wine, cinnamon and cloves. Slow-cooked covered for an hour until the cabbage is silky and the liquid has reduced into a glossy glaze.
 
 ## Ingredients
 

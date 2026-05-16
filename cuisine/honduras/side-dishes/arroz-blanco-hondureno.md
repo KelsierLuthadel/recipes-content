@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Long-grain rice toasts briefly in oil with onion, garlic and sometimes a small piece of bell pepper. Hot water and salt go in; the pot covers tightly and the rice cooks undisturbed for 18 minutes. Five minutes' rest off the heat finishes the steaming. The grains stay separate.
+Long-grain rice is toasted briefly in oil with onion, garlic and sometimes a small piece of bell pepper. Hot water and salt go in; the pot is covered tightly and the rice cooks undisturbed for 18 minutes. Five minutes' rest off the heat finishes the steaming. The grains stay separate.
 
 ## Ingredients
 

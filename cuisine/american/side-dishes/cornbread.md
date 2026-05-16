@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A 25 cm cast-iron skillet preheats in the hot oven with a generous knob of butter - the butter browns slightly while the pan heats. The batter is fast: cornmeal, flour, sugar, baking powder, salt, plus buttermilk, eggs and melted butter. The hot pan gets the batter; the cornmeal sears immediately on contact, giving the crisp golden crust. 25 minutes; tip out and slice.
+A 25 cm cast-iron skillet is preheated in the hot oven with a generous knob of butter - the butter browns slightly while the pan heats. The batter is fast: cornmeal, flour, sugar, baking powder, salt, plus buttermilk, eggs and melted butter. The batter is poured into the hot pan; the cornmeal sears immediately on contact, giving the crisp golden crust. 25 minutes; tipped out and sliced.
 
 ## Ingredients
 

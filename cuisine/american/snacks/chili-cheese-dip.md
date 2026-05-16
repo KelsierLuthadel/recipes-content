@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Ground beef browns in a wide oven-safe skillet with onion and garlic. Spices (chilli powder, cumin, oregano, smoked paprika) bloom in the fat. Tomato passata, kidney beans, a splash of stock, salt and pepper simmer 20 minutes to thicken. Surface scatters with a thick layer of grated cheese (cheddar + Monterey Jack). Goes under a hot grill 4-5 minutes till bubbling and crisped at the edges. Tops with sliced spring onion, jalapeños, soured cream. Eats hot with tortilla chips.
+Ground beef browns in a wide oven-safe skillet with onion and garlic. Spices (chilli powder, cumin, oregano, smoked paprika) bloom in the fat. Tomato passata, kidney beans, a splash of stock, salt and pepper simmer for 20 minutes to thicken. Surface scatters with a thick layer of grated cheese (cheddar + Monterey Jack). Goes under a hot grill for 4-5 minutes till bubbling and crisped at the edges. Tops with sliced spring onion, jalapeños, soured cream. Eats hot with tortilla chips.
 
 ## Ingredients
 

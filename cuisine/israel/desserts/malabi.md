@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes (plus 3 hours setting)
 
 ## Overview
-Cornflour whisks into a small amount of cold milk to a slurry. The rest of the milk warms with cream and sugar; the slurry pours in; the mixture cooks 4-5 minutes until thick and silky. Rosewater stirs in off the heat; the lot pours into glasses to set in the fridge. The syrup of rosewater, sugar and a touch of grenadine pours over before serving.
+Cornflour whisks into a small amount of cold milk to a slurry. The rest of the milk warms with cream and sugar; the slurry pours in; the mixture cooks for 4-5 minutes until thick and silky. Rosewater stirs in off the heat; the lot pours into glasses to set in the fridge. The syrup of rosewater, sugar and a touch of grenadine pours over before serving.
 
 ## Ingredients
 

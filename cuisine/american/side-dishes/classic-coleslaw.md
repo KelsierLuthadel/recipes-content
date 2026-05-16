@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Cabbage shreds finely, carrots and onion shred or grate. Salt draws moisture out so the dressing isn't watered down later. Squeezed dry, tossed with a mayo-mustard-vinegar dressing, refrigerated to settle.
+Cabbage is shredded finely; carrots and onion are shredded or grated alongside. Salt is added to draw moisture out so the dressing isn't watered down later. Once squeezed dry, the vegetables are tossed with a mayo-mustard-vinegar dressing and refrigerated to settle.
 
 ## Ingredients
 

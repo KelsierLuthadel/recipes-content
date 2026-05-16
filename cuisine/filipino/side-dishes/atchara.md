@@ -10,7 +10,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Green papaya peels, seeds out, shreds on a coarse grater. Carrot, ginger, garlic, red pepper, onion, raisins all prepare in matching shreds. Vegetables salt and rest 1 hour to draw water; rinse and squeeze dry. A syrup of cane vinegar, sugar and whole peppercorns simmers 5 minutes. Hot syrup pours over vegetables in a sterilised jar. Sealed, cooled, refrigerated overnight before eating. Improves over the following week.
+Green papaya is peeled, seeded and shredded on a coarse grater. Carrot, ginger, garlic, red pepper, onion and raisins are all prepared in matching shreds. The vegetables are salted and rested for 1 hour to draw water; rinsed and squeezed dry. A syrup of cane vinegar, sugar and whole peppercorns simmers for 5 minutes. Hot syrup is poured over the vegetables in a sterilised jar. Sealed, cooled, refrigerated overnight before eating. Improves over the following week.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Venison shoulder is cut into 2 cm cubes and browned hard. Dried wild mushrooms (porcini, morel, or a mix) hydrate in hot water - both the mushrooms and the soaking liquid become part of the dish. Onion softens; venison returns; wild rice toasts in the pot for 1 minute; everything simmers in a mushroom-and-stock blend 45 minutes until the rice splits and curls. A splash of maple syrup at the end balances the savouriness. Fresh thyme and toasted pumpkin seeds finish.
+Venison shoulder is cut into 2 cm cubes and browned hard. Dried wild mushrooms (porcini, morel, or a mix) are hydrated in hot water - both the mushrooms and the soaking liquid become part of the dish. Onion is softened; the venison returns; wild rice is toasted in the pot for 1 minute; everything simmers in a mushroom-and-stock blend 45 minutes until the rice splits and curls. A splash of maple syrup at the end balances the savouriness. Fresh thyme and toasted pumpkin seeds finish.
 
 ## Ingredients
 

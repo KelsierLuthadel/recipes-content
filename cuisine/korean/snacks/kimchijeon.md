@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes (in batches)
 
 ## Overview
-Well-fermented sour kimchi chops fine; juice reserves. A batter of plain flour, an egg, water and kimchi juice mixes thin (consistency of pancake batter). Kimchi and chopped spring onion stir in. Half the batter pours into a hot oiled pan, spreads thin, fries 4 minutes; flips with a confident wrist or a wide spatula; fries another 3 minutes. Cut into wedges; eats with soy-vinegar dip.
+Well-fermented sour kimchi is chopped fine; the juice is reserved. A batter of plain flour, an egg, water and kimchi juice is mixed thin (consistency of pancake batter). Kimchi and chopped spring onion are stirred in. Half the batter is poured into a hot oiled pan, spread thin, fried for 4 minutes; flipped with a confident wrist or a wide spatula; fried another 3 minutes. Cut into wedges; eaten with soy-vinegar dip.
 
 ## Ingredients
 

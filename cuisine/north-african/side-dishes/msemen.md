@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A soft warm dough of fine semolina, plain flour, salt, sugar, yeast (optional but helps with flexibility) and warm water rests 30 minutes. Divides into 8 balls. Each ball stretches on a heavily oiled surface into a paper-thin (almost translucent) circle. A teaspoon of melted butter-and-oil mix smears across; a sprinkle of semolina dusts on top; the disc folds into thirds, then thirds again, into a square. Each square cooks on a hot dry griddle 2 minutes per side, pressing gently so the layers bond, until golden and crisp at the edges.
+A soft warm dough of fine semolina, plain flour, salt, sugar, yeast (optional but helps with flexibility) and warm water rests for 30 minutes. Divides into 8 balls. Each ball stretches on a heavily oiled surface into a paper-thin (almost translucent) circle. A teaspoon of melted butter-and-oil mix smears across; a sprinkle of semolina dusts on top; the disc folds into thirds, then thirds again, into a square. Each square cooks on a hot dry griddle 2 minutes per side, pressing gently so the layers bond, until golden and crisp at the edges.
 
 ## Ingredients
 

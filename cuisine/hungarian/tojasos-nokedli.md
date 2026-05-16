@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A loose batter of flour, egg and water gets pushed through a spätzle plane (or a colander with large holes) into salted boiling water; the dumplings cook in a minute and lift out. They go into a buttery pan; beaten eggs pour over and just-set as you fold them through. Salt, pepper, parsley.
+A loose batter of flour, egg and water is pushed through a spätzle plane (or a colander with large holes) into salted boiling water; the dumplings cook in a minute and are lifted out. They go into a buttery pan; beaten eggs are poured over and just-set as they are folded through. Salt, pepper, parsley.
 
 ## Ingredients
 

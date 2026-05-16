@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 45 minutes
 
 ## Overview
-Lamb chunks brown hard; onion softens in the same pot; tomato and pomegranate molasses build a tangy base; lamb returns with stock and braises 1 hour. Small frozen or fresh okra is added in the last 30 minutes (long enough to soften, short enough not to disintegrate). Crushed garlic and chopped coriander, sizzled briefly in butter at the end (taqliya), goes on top.
+Lamb chunks are browned hard; onion is softened in the same pot; tomato and pomegranate molasses build a tangy base; the lamb returns with stock and braises for 1 hour. Small frozen or fresh okra is added in the last 30 minutes (long enough to soften, short enough not to disintegrate). Crushed garlic and chopped coriander, sizzled briefly in butter at the end (taqliya), go on top.
 
 ## Ingredients
 

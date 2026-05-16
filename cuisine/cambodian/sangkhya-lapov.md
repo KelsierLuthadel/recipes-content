@@ -10,7 +10,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-A small kabocha or buttercup pumpkin has its top cut off and seeds scooped out. A custard of coconut milk, palm sugar, eggs and a pinch of salt fills the cavity. The pumpkin (top replaced) sits in a steamer over boiling water and steams 1 hour or so until the custard is set. Slice in wedges to serve.
+A small kabocha or buttercup pumpkin has its top cut off and seeds scooped out. A custard of coconut milk, palm sugar, eggs and a pinch of salt fills the cavity. The pumpkin (top replaced) sits in a steamer over boiling water and steams for 1 hour or so until the custard is set. Slice in wedges to serve.
 
 ## Ingredients
 

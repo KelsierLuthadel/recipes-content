@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 45 minutes
 
 ## Overview
-Dried beans (chickpeas + kidney beans + green lentils, OR the popular cheat of mixing all dried into one pot) soak overnight. Onion fries in oil; turmeric, salt and the soaked-and-drained beans go in with stock; simmers 1 hour 15 minutes until tender. A heaping double handful of finely chopped fresh herbs (parsley, coriander, dill plus blanched spinach) goes in. Reshteh noodles (Persian flat egg noodles, sold at Iranian shops) add for the last 10 minutes. The bowl finishes with a sour-fermented kashk drizzle, dried-mint-and-garlic-in-oil sizzle, deep-fried golden onion, and a swirl of yogurt. Garnishes are not optional.
+Dried beans (chickpeas + kidney beans + green lentils, OR the popular cheat of mixing all dried into one pot) soak overnight. Onion fries in oil; turmeric, salt and the soaked-and-drained beans go in with stock; simmers for 1 hour 15 minutes until tender. A heaping double handful of finely chopped fresh herbs (parsley, coriander, dill plus blanched spinach) goes in. Reshteh noodles (Persian flat egg noodles, sold at Iranian shops) add for the last 10 minutes. The bowl finishes with a sour-fermented kashk drizzle, dried-mint-and-garlic-in-oil sizzle, deep-fried golden onion, and a swirl of yogurt. Garnishes are not optional.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 45 minutes
 
 ## Overview
-Lamb shoulder browns hard; onion softens; garlic, baharat and tomato paste join. Stock, tamarind, dried lime and tinned tomato deglaze. Lamb braises 75 minutes. Small whole okra goes in the last 25 minutes (long enough to soften, short enough not to disintegrate). Taqliya - crushed garlic and coriander sizzled in oil - drizzles over at the end.
+Lamb shoulder is browned hard; onion is softened; garlic, baharat and tomato paste join. Stock, tamarind, dried lime and tinned tomato deglaze. The lamb is braised for 75 minutes. Small whole okra goes in the last 25 minutes (long enough to soften, short enough not to disintegrate). Taqliya - crushed garlic and coriander sizzled in oil - is drizzled over at the end.
 
 ## Ingredients
 

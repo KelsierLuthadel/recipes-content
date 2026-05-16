@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A simple yeasted dough rises 1 hour. Divides into 8 oval-shaped pieces about 10 cm long. Deep-fries 2-3 minutes per side till golden and puffed (the fried buns triple in size and develop a hollow interior). Splits each bun horizontally with a small knife; stuffs with: a generous spoonful of tuna mashed with harissa; a few thin slices of hard-boiled egg; a few capers; a few olives; thin slices of preserved lemon; a sprinkle of parsley. Eats hot.
+A simple yeasted dough rises for 1 hour. Divides into 8 oval-shaped pieces about 10 cm long. Deep-fries for 2-3 minutes per side till golden and puffed (the fried buns triple in size and develop a hollow interior). Splits each bun horizontally with a small knife; stuffs with: a generous spoonful of tuna mashed with harissa; a few thin slices of hard-boiled egg; a few capers; a few olives; thin slices of preserved lemon; a sprinkle of parsley. Eats hot.
 
 ## Ingredients
 

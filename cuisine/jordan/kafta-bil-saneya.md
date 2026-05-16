@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Mixed lamb-and-beef mince mixes with grated onion, parsley, allspice, cinnamon and salt. Potato slices and tomato slices line a wide baking dish. The mince mix shapes into thick patties (or flat layer) and goes on top. More tomato and pepper slices over. A tomato sauce (tomato puree, pomegranate molasses, garlic, stock) pours over. Baked 40 minutes at 200°C.
+Mixed lamb-and-beef mince mixes with grated onion, parsley, allspice, cinnamon and salt. Potato slices and tomato slices line a wide baking dish. The mince mix shapes into thick patties (or flat layer) and goes on top. More tomato and pepper slices over. A tomato sauce (tomato puree, pomegranate molasses, garlic, stock) pours over. Baked for 40 minutes at 200°C.
 
 ## Ingredients
 

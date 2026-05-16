@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Coarse semolina toasts in butter and ghee until lightly fragrant. Coconut milk and water cook it into a porridge; sugar dissolves; eggs whisk in off the heat. The mixture pours into a baking tin, gets a final sprinkle of poppy seeds and raisins, then bakes until set. A short hit under the grill at the end gives the deep mahogany, slightly bitter top that defines the cake.
+Coarse semolina is toasted in butter and ghee until lightly fragrant. Coconut milk and water cook it into a porridge; sugar is dissolved in; eggs are whisked in off the heat. The mixture is poured into a baking tin, given a final sprinkle of poppy seeds and raisins, then baked until set. A short hit under the grill at the end gives the deep mahogany, slightly bitter top that defines the cake.
 
 ## Ingredients
 

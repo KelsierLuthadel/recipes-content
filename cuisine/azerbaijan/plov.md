@@ -10,7 +10,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Basmati soaks 1 hour in salted water, drains, par-boils 5 minutes in heavily salted water, drains again. A wide heavy pot is buttered, a sheet of lavash (or a saffron-soaked rice base) lines the bottom for the qazmaq crust. Par-boiled rice piles on top, butter melts down through it, the pot covers and steams 40-60 minutes on low. Meanwhile lamb shoulder cubes brown, onions soften, dried fruit and chestnuts go in with a little water, the qara simmers 90 minutes until the meat is tender. Service: rice on a platter, qazmaq crust broken at the table, qara spooned alongside.
+Basmati is soaked for 1 hour in salted water, drained, par-boiled for 5 minutes in heavily salted water, drained again. A wide heavy pot is buttered, a sheet of lavash (or a saffron-soaked rice base) lines the bottom for the qazmaq crust. Par-boiled rice is piled on top, butter melts down through it, the pot is covered and the rice steams for 40-60 minutes on low. Meanwhile lamb shoulder cubes are browned, onions are softened, dried fruit and chestnuts go in with a little water, the qara simmers for 90 minutes until the meat is tender. Service: rice on a platter, qazmaq crust broken at the table, qara spooned alongside.
 
 ## Ingredients
 

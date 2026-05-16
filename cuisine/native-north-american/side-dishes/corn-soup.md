@@ -10,7 +10,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-Dried hulled white corn (nixtamalised, also called posole or hominy corn - distinct from tinned hominy) soaks overnight. Pork hocks (or venison neck, or smoked turkey legs) simmer in salted water 2 hours to make a rich broth. Soaked corn joins; cooks 45 minutes more until tender. Tinned red kidney beans go in; the soup simmers 15 minutes to integrate. Salt to taste. Served plain, possibly with a side of frybread.
+Dried hulled white corn (nixtamalised, also called posole or hominy corn - distinct from tinned hominy) soaks overnight. Pork hocks (or venison neck, or smoked turkey legs) simmer in salted water 2 hours to make a rich broth. Soaked corn joins; cooks for 45 minutes more until tender. Tinned red kidney beans go in; the soup simmers for 15 minutes to integrate. Salt to taste. Served plain, possibly with a side of frybread.
 
 ## Ingredients
 

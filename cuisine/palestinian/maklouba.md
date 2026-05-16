@@ -10,7 +10,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Aubergines fry first to soften and develop colour. Cauliflower fries to gold. Chicken cooks in a spiced stock. The pot layers from bottom up: tomato slices, aubergine, cauliflower, chicken, parboiled rice. Stock pours over; everything steams together. Inverted onto a platter, the layers stack into a multicoloured cake.
+Aubergines are fried first to soften and develop colour. Cauliflower is fried to gold. Chicken is cooked in a spiced stock. The pot is layered from bottom up: tomato slices, aubergine, cauliflower, chicken, parboiled rice. Stock is poured over; everything steams together. Inverted onto a platter, the layers stack into a multicoloured cake.
 
 ## Ingredients
 

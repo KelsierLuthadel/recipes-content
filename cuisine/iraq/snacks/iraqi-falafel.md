@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Dried chickpeas soak in cold water 24 hours - the long soak hydrates them fully without cooking. Drained, they grind with onion, garlic, fresh coriander, parsley, dill, green chilli, cumin, coriander seed and ground cardamom to a coarse pale-green crumb. Bicarbonate of soda adds at the last minute for the open, fluffy interior. The mix chills 30 minutes; small patties form; deep-fry at 175°C for 3 minutes until deep gold outside, fluffy and bright green inside. Eaten in warm samoon with the trimmings.
+Dried chickpeas soak in cold water 24 hours - the long soak hydrates them fully without cooking. Drained, they grind with onion, garlic, fresh coriander, parsley, dill, green chilli, cumin, coriander seed and ground cardamom to a coarse pale-green crumb. Bicarbonate of soda adds at the last minute for the open, fluffy interior. The mix chills for 30 minutes; small patties form; deep-fry at 175°C for 3 minutes until deep gold outside, fluffy and bright green inside. Eaten in warm samoon with the trimmings.
 
 ## Ingredients
 

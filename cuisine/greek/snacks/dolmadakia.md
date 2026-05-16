@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Brined vine leaves soak 20 minutes to leach the brine. Filling: short-grain rice par-cooks 10 minutes with onion in olive oil; off heat, dill, mint, parsley, pine nuts, currants and lemon zest stir through. Each leaf gets a teaspoon of cool filling; rolls into a tight cigar. Rolls pack tight in a heavy pot lined with broken / extra leaves. Olive oil + lemon juice + stock pours in to barely cover. Weighed down with an inverted plate. Slow simmer 50-60 minutes. Cool in the liquid; serve at room temperature.
+Brined vine leaves are soaked for 20 minutes to leach the brine. Filling: short-grain rice is par-cooked for 10 minutes with onion in olive oil; off heat, dill, mint, parsley, pine nuts, currants and lemon zest are stirred through. Each leaf is given a teaspoon of cool filling and rolled into a tight cigar. The rolls are packed tight in a heavy pot lined with broken / extra leaves. Olive oil, lemon juice and stock are poured in to barely cover. Weighed down with an inverted plate. Slow-simmered for 50-60 minutes. Cooled in the liquid; served at room temperature.
 
 ## Ingredients
 

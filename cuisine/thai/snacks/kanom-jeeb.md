@@ -10,7 +10,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A filling of minced pork and chopped prawn binds with coriander root (pounded with garlic and white pepper into the traditional Thai "rak pak chee" paste), oyster sauce, soy sauce, sugar, sesame oil, and a beaten egg. The mixture chills 20 minutes to firm. Square wonton wrappers go around the filling cupcake-style: filling in the centre, edges pulled up and pleated open around the meat, top brushed with a tiny smear of beaten egg and topped with a thin slice of carrot. Steamed in a bamboo basket over boiling water for 8 minutes. Dip is black soy sauce with sliced chilli and rice vinegar.
+A filling of minced pork and chopped prawn binds with coriander root (pounded with garlic and white pepper into the traditional Thai "rak pak chee" paste), oyster sauce, soy sauce, sugar, sesame oil, and a beaten egg. The mixture chills for 20 minutes to firm. Square wonton wrappers go around the filling cupcake-style: filling in the centre, edges pulled up and pleated open around the meat, top brushed with a tiny smear of beaten egg and topped with a thin slice of carrot. Steamed in a bamboo basket over boiling water for 8 minutes. Dip is black soy sauce with sliced chilli and rice vinegar.
 
 ## Ingredients
 

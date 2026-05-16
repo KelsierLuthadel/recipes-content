@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Queso costeño (or feta-style salty cheese) mixes with cornstarch flour (almidón), an egg, a pinch of sugar, and just enough water to form a smooth firm dough. Rolls into walnut-sized balls. Drops into oil at a lower-than-usual temperature (160°C) so the inside cooks through before the outside burns. Fries 5-6 minutes turning constantly until amber-gold and puffed.
+Queso costeño (or feta-style salty cheese) mixes with cornstarch flour (almidón), an egg, a pinch of sugar, and just enough water to form a smooth firm dough. Rolls into walnut-sized balls. Drops into oil at a lower-than-usual temperature (160°C) so the inside cooks through before the outside burns. Fries for 5-6 minutes turning constantly until amber-gold and puffed.
 
 ## Ingredients
 - 250 g queso costeño (or substitute: 200 g feta + 50 g mature cheddar, both finely crumbled / grated)

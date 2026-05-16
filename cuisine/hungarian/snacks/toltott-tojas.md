@@ -10,7 +10,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Eggs hard-boil 9 minutes, cool fast in iced water, peel cleanly. The yolks get mashed with soft butter, sour cream, Dijon-style mustard and Hungarian sweet paprika to a smooth, glossy paste, seasoned with salt, pepper and a little lemon. Piped or spooned back into the whites; dusted with paprika and finished with chives or parsley.
+Eggs hard-boil for 9 minutes, cool fast in iced water, peel cleanly. The yolks get mashed with soft butter, sour cream, Dijon-style mustard and Hungarian sweet paprika to a smooth, glossy paste, seasoned with salt, pepper and a little lemon. Piped or spooned back into the whites; dusted with paprika and finished with chives or parsley.
 
 ## Ingredients
 

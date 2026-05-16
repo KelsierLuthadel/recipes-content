@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Mutton on the bone simmers 1 hour 15 minutes with onion, bay and a few peppercorns. Bones lift out; meat is shredded. Hand-cut noodles drop into the simmering broth with diced carrot and onion. 6 minutes later the noodles are tender and the dish is done. Salted to taste, garnished with chopped spring onion or dill.
+Mutton on the bone simmers for 1 hour 15 minutes with onion, bay and a few peppercorns. Bones lift out; meat is shredded. Hand-cut noodles drop into the simmering broth with diced carrot and onion. 6 minutes later the noodles are tender and the dish is done. Salted to taste, garnished with chopped spring onion or dill.
 
 ## Ingredients
 

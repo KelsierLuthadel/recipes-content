@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A thick batter of gram (chickpea) flour, rice flour, ajwain, turmeric, chilli powder and salt mixes with cold water to a thick coating consistency. Sliced onion, cubed potato, cauliflower florets and chopped spinach toss through the batter until thickly coated. Small ragged clusters drop into hot oil (170°C) and fry 3-4 minutes per side until deep gold and crisp.
+A thick batter of gram (chickpea) flour, rice flour, ajwain, turmeric, chilli powder and salt mixes with cold water to a thick coating consistency. Sliced onion, cubed potato, cauliflower florets and chopped spinach toss through the batter until thickly coated. Small ragged clusters drop into hot oil (170°C) and fry for 3-4 minutes per side until deep gold and crisp.
 
 ## Ingredients
 

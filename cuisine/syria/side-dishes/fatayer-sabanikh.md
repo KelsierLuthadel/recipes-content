@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Spinach wilts briefly with salt, drains, squeezes dry. Mixed with onion, sumac, pomegranate molasses, olive oil and lemon juice. A simple yeasted dough rolls into 11 cm rounds; a heaped tablespoon of filling sits in the centre; the dough folds into a three-cornered pyramid and pinches tightly closed. Bakes at 200°C for 18 minutes until deep gold.
+Spinach is wilted briefly with salt, drained, squeezed dry. Mixed with onion, sumac, pomegranate molasses, olive oil and lemon juice. A simple yeasted dough is rolled into 11 cm rounds; a heaped tablespoon of filling sits in the centre; the dough is folded into a three-cornered pyramid and pinched tightly closed. Baked at 200°C for 18 minutes until deep gold.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-A whole chicken is jointed into 8 bone-in pieces (or 8 thighs). Oil heats in a wide karahi or wok; chicken sears on all sides for colour. Crushed ginger and garlic go in for 1 minute. Halved tomatoes (yes, half-tomatoes, not chopped) tumble in; the lid clamps on; the chicken steam-cooks 20 minutes in the tomato juices. The lid lifts; the tomato skins come off; the sauce reduces to a thick deep-orange masala. Whole green chillies, freshly crushed black pepper, ground cumin and a dollop of yogurt stir in. Coriander and slivered ginger finish.
+A whole chicken is jointed into 8 bone-in pieces (or 8 thighs). Oil heats in a wide karahi or wok; chicken sears on all sides for colour. Crushed ginger and garlic go in for 1 minute. Halved tomatoes (yes, half-tomatoes, not chopped) tumble in; the lid clamps on; the chicken steam-cooks for 20 minutes in the tomato juices. The lid lifts; the tomato skins come off; the sauce reduces to a thick deep-orange masala. Whole green chillies, freshly crushed black pepper, ground cumin and a dollop of yogurt stir in. Coriander and slivered ginger finish.
 
 ## Ingredients
 

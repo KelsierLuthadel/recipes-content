@@ -10,7 +10,7 @@
 **Total Time:** 4-6 hours (setting)
 
 ## Overview
-Ripe mango (Alphonso or Nam Dok Mai if available; any sweet ripe mango works) blends to a smooth puree with sugar and lime juice. Powdered gelatin blooms in cold milk 5 minutes. Half the milk warms to dissolve sugar; the bloomed gelatin stirs in to dissolve. The warm milk pours into the mango puree along with the cold remaining milk, evaporated milk and a splash of double cream. Whisked smooth, ladled into 6 small moulds or glasses, refrigerated 4-6 hours until set. Served with diced fresh mango and a drizzle of evaporated milk.
+Ripe mango (Alphonso or Nam Dok Mai if available; any sweet ripe mango works) blends to a smooth puree with sugar and lime juice. Powdered gelatin blooms in cold milk 5 minutes. Half the milk warms to dissolve sugar; the bloomed gelatin stirs in to dissolve. The warm milk pours into the mango puree along with the cold remaining milk, evaporated milk and a splash of double cream. Whisked smooth, ladled into 6 small moulds or glasses, refrigerated for 4-6 hours until set. Served with diced fresh mango and a drizzle of evaporated milk.
 
 ## Ingredients
 

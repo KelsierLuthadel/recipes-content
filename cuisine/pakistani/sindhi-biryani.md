@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Mutton on the bone marinates 2 hours in yogurt, ginger-garlic paste, ground spices (red chilli, turmeric, coriander, cumin, garam masala), mint, coriander and salt. Sliced onions fry slowly in oil to deep gold, then crispy, and drain on paper (some go in the marinade, some on top of the biryani). The marinated mutton browns; tomatoes go in; the meat braises 45 minutes until tender. Basmati rice parboils with whole spices and salt to 70% done; drains. The layering: mutton at bottom, half the rice, fried onions and prunes and green chillies, the remaining rice, more onions, saffron-milk and ghee on top. Dum cook 25 minutes sealed.
+Mutton on the bone marinates for 2 hours in yogurt, ginger-garlic paste, ground spices (red chilli, turmeric, coriander, cumin, garam masala), mint, coriander and salt. Sliced onions fry slowly in oil to deep gold, then crispy, and drain on paper (some go in the marinade, some on top of the biryani). The marinated mutton browns; tomatoes go in; the meat braises for 45 minutes until tender. Basmati rice parboils with whole spices and salt to 70% done; drains. The layering: mutton at bottom, half the rice, fried onions and prunes and green chillies, the remaining rice, more onions, saffron-milk and ghee on top. Dum cook for 25 minutes sealed.
 
 ## Ingredients
 

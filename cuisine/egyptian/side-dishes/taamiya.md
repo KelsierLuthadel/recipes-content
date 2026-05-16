@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Dried split fava beans soak overnight. Blitz with herbs, garlic, onion, leek, ground coriander, cumin and a pinch of baking powder to a soft slightly grainy paste - not smooth purée. Rest 1 hour. Shape into 5 cm flat discs; dip in sesame seeds; fry at 175°C 4-5 minutes until deep gold.
+Dried split fava beans soak overnight. Blitz with herbs, garlic, onion, leek, ground coriander, cumin and a pinch of baking powder to a soft slightly grainy paste - not smooth purée. Rest for 1 hour. Shape into 5 cm flat discs; dip in sesame seeds; fry at 175°C 4-5 minutes until deep gold.
 
 ## Ingredients
 

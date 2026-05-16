@@ -10,7 +10,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Prik king paste fries hard in oil until aromatic and the oil splits. Thinly sliced pork (or chicken) joins; sears 4 minutes. Green beans (snake beans, French beans or fine green beans) go in for 5 minutes; fish sauce, palm sugar and torn kaffir lime leaves finish. Served over jasmine rice with fresh herbs.
+Prik king paste fries hard in oil until aromatic and the oil splits. Thinly sliced pork (or chicken) joins; sears for 4 minutes. Green beans (snake beans, French beans or fine green beans) go in for 5 minutes; fish sauce, palm sugar and torn kaffir lime leaves finish. Served over jasmine rice with fresh herbs.
 
 ## Ingredients
 

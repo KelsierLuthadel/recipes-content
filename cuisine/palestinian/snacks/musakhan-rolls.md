@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The musakhan filling: red onions (LOTS - for the dish to work, you need 4-5 large onions) slowly caramelise in olive oil for 25-30 minutes until deep gold and sweet; sumac stirs in generously (a tablespoon at minimum); shredded cooked chicken folds through with toasted pine nuts. Markook bread (thin Palestinian flatbread, sold at Middle Eastern shops; substitute thin lavash or large flour tortillas) cuts into rectangles. A spoon of filling spreads on each; rolled tightly; sealed seam-side-down. Brushed with olive oil; either baked at 200°C for 12 minutes OR pan-toasted in a dry hot pan for 2 minutes per side. Served warm with lemon and yogurt.
+The musakhan filling: red onions (LOTS - for the dish to work, you need 4-5 large onions) slowly caramelise in olive oil for 25-30 minutes until deep gold and sweet; sumac is stirred in generously (a tablespoon at minimum); shredded cooked chicken is folded through with toasted pine nuts. Markook bread (thin Palestinian flatbread, sold at Middle Eastern shops; substitute thin lavash or large flour tortillas) is cut into rectangles. A spoon of filling is spread on each; rolled tightly; sealed seam-side-down. Brushed with olive oil; either baked at 200°C for 12 minutes OR pan-toasted in a dry hot pan for 2 minutes per side. Served warm with lemon and yogurt.
 
 ## Ingredients
 

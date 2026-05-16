@@ -9,7 +9,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-"Pad see ew" translates literally as "stir-fried with soy sauce", and that soy is the heart of the dish: dark, sweet and clinging to wide rice noodles charred at the edges in a hot wok. Broccolini stands in for traditional Chinese broccoli (kai lan), the prawns get a brief garlic-soy marinade, and an egg is folded through right at the end. A sharp homemade chilli vinegar at the table is the traditional Thai counterweight to all that sweet soy.
+"Pad see ew" translates literally as "stir-fried with soy sauce", and that soy is the heart of the dish: dark, sweet and clinging to wide rice noodles charred at the edges in a hot wok. Broccolini stands in for traditional Chinese broccoli (kai lan), the prawns are given a brief garlic-soy marinade, and an egg is folded through right at the end. A sharp homemade chilli vinegar at the table is the traditional Thai counterweight to all that sweet soy.
 
 ## Ingredients
 

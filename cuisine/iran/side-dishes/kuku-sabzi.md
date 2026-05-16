@@ -10,7 +10,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Herbs chop finely - really finely - to a green confetti. Eggs whisk with flour, baking powder, turmeric, salt and pepper. Walnut pieces and barberries fold through. Mixture pours into a buttered round baking dish or wide pan; baked at 180°C 35-40 minutes until set and deep green-gold on top. Cuts into wedges or squares.
+Herbs are chopped finely - really finely - to a green confetti. Eggs are whisked with flour, baking powder, turmeric, salt and pepper. Walnut pieces and barberries are folded through. The mixture is poured into a buttered round baking dish or wide pan; baked at 180°C 35-40 minutes until set and deep green-gold on top. Cut into wedges or squares.
 
 ## Ingredients
 

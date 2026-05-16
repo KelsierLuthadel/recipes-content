@@ -10,7 +10,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-A whole cabbage is cored and lowered into boiling water; the outer leaves soften and peel off in turn. The filling - half-cooked rice mixed with beef, pork, onion, garlic, herbs, egg - gets a heaped tablespoon onto each leaf, which folds and rolls into a parcel. The rolls layer in a pot with sauce of tomato, stock and soured cream; everything braises 1 hour. Soured cream and dill at the table.
+A whole cabbage is cored and lowered into boiling water; the outer leaves soften and peel off in turn. The filling - half-cooked rice mixed with beef, pork, onion, garlic, herbs, egg - gets a heaped tablespoon onto each leaf, which folds and rolls into a parcel. The rolls layer in a pot with sauce of tomato, stock and soured cream; everything braises for 1 hour. Soured cream and dill at the table.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Dried urad dal (white, sometimes labelled "white lentils" or "split urad") soaks overnight, then blends with ginger, green chilli and a small amount of water into a smooth thick batter. Whipped vigorously for 5 minutes to incorporate air (this is what makes the fritters light). Asafoetida and salt season; baking soda activates right before frying. Fritters drop into 175°C oil; fry 3-4 minutes until amber. Lifted into a wide bowl of lukewarm water; soaked 10 minutes; squeezed gently between palms to remove most water. Plated in shallow bowls; flooded with sweet salted spiced yogurt; topped with chutneys, chaat masala, pomegranate, fresh coriander, a sprinkle of crushed papri or sev for crunch.
+Dried urad dal (white, sometimes labelled "white lentils" or "split urad") soaks overnight, then blends with ginger, green chilli and a small amount of water into a smooth thick batter. Whipped vigorously for 5 minutes to incorporate air (this is what makes the fritters light). Asafoetida and salt season; baking soda activates right before frying. Fritters drop into 175°C oil; fry for 3-4 minutes until amber. Lifted into a wide bowl of lukewarm water; soaked for 10 minutes; squeezed gently between palms to remove most water. Plated in shallow bowls; flooded with sweet salted spiced yogurt; topped with chutneys, chaat masala, pomegranate, fresh coriander, a sprinkle of crushed papri or sev for crunch.
 
 ## Ingredients
 

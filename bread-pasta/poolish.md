@@ -12,7 +12,7 @@
 **Yield:** Approximately 200 grams (enough for one batch of French bread)
 
 ## Overview
-Poolish is a classical French bread-making technique: a preferment that develops yeast flavor and creates a stronger gluten network before the final dough is mixed. Made from equal weights of flour and water plus yeast, it rests 12-18 hours. This extended fermentation allows beneficial bacteria to thrive, developing sour and complex flavors. The Poolish is then incorporated into the final dough as part of the liquid and flour calculation. This is the foundation of authentic baguettes and fine French breads.
+Poolish is a classical French bread-making technique: a preferment that develops yeast flavor and creates a stronger gluten network before the final dough is mixed. Made from equal weights of flour and water plus yeast, it rests for 12-18 hours. This extended fermentation allows beneficial bacteria to thrive, developing sour and complex flavors. The Poolish is then incorporated into the final dough as part of the liquid and flour calculation. This is the foundation of authentic baguettes and fine French breads.
 
 ## Ingredients
 

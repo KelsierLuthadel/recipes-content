@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Fine bulgur soaks until soft. The shell mixture combines bulgur, raw minced lamb, finely-grated onion, salt and spices, then blitzes (or pounds) into a dense, smooth, almost claylike paste. The filling is a separate cooked mince of lamb, onion, pine nuts, allspice and cinnamon. Each kibbeh shell is shaped over a finger; filling stuffs in; the lot pinches closed into a pointed oval. Deep-fries 5 minutes.
+Fine bulgur soaks until soft. The shell mixture combines bulgur, raw minced lamb, finely-grated onion, salt and spices, then blitzes (or pounds) into a dense, smooth, almost claylike paste. The filling is a separate cooked mince of lamb, onion, pine nuts, allspice and cinnamon. Each kibbeh shell is shaped over a finger; filling stuffs in; the lot pinches closed into a pointed oval. Deep-fries for 5 minutes.
 
 ## Ingredients
 

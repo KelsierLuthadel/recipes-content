@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A short milk-and-egg dough rests 1 hour. Walnuts grind fine (not powdered - texture matters), mix with caster sugar and ground cardamom. Dough rolls to 2 mm thick, cuts into 9 cm circles. Filling mounds on half, the other half folds over to make a half-moon, the edge crimps with a fork or with the traditional maqqaş pinches. Bakes at 180°C 25 minutes until pale gold. Dusts with icing sugar warm.
+A short milk-and-egg dough rests for 1 hour. Walnuts grind fine (not powdered - texture matters), mix with caster sugar and ground cardamom. Dough rolls to 2 mm thick, cuts into 9 cm circles. Filling mounds on half, the other half folds over to make a half-moon, the edge crimps with a fork or with the traditional maqqaş pinches. Bakes at 180°C 25 minutes until pale gold. Dusts with icing sugar warm.
 
 ## Ingredients
 

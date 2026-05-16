@@ -10,7 +10,7 @@
 **Total Time:** 1 hour (minimum brine; ideally overnight)
 
 ## Overview
-Cucumbers are cut into spears (or smashed-and-torn for a rougher texture), salted heavily in a colander 30 minutes to weep, then patted dry. A brine of rice vinegar, sugar, light soy, water, sliced ginger, Sichuan peppercorns and dried red chillies brings to a gentle simmer just to dissolve the sugar; cools to room temperature. The drained cucumber goes into a jar; the cooled brine pours over to submerge; refrigerated 1 hour minimum (overnight ideal). Eats cold straight from the jar.
+Cucumbers are cut into spears (or smashed-and-torn for a rougher texture), salted heavily in a colander 30 minutes to weep, then patted dry. A brine of rice vinegar, sugar, light soy, water, sliced ginger, Sichuan peppercorns and dried red chillies brings to a gentle simmer just to dissolve the sugar; cools to room temperature. The drained cucumber goes into a jar; the cooled brine pours over to submerge; refrigerated for 1 hour minimum (overnight ideal). Eats cold straight from the jar.
 
 ## Ingredients
 

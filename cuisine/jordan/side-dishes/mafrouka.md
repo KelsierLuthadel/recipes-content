@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Fine semolina toasts in butter; sugar syrup pours in to hydrate; the mixture cooks to a thick pudding; rose water and orange blossom water perfume. Spread into a tray, cooled to firm up. Ashta (Levantine clotted cream - or substitute clotted cream + mascarpone) spreads on top. Crushed pistachios scatter heavy across the surface. Cut into squares.
+Fine semolina is toasted in butter; sugar syrup is poured in to hydrate; the mixture is cooked to a thick pudding; rose water and orange blossom water perfume. Spread into a tray, cooled to firm up. Ashta (Levantine clotted cream - or substitute clotted cream + mascarpone) is spread on top. Crushed pistachios are scattered heavy across the surface. Cut into squares.
 
 ## Ingredients
 

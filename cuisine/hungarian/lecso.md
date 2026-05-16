@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Onion softens in oil; sweet paprika blooms off the heat (don't burn it). Strips of yellow pepper go in next to soften. Tomatoes follow; the lot stews until the peppers are silky and the sauce has reduced to a thick, jammy compote. Often finished with eggs or an egg yolk for richness.
+Onion is softened in oil; sweet paprika blooms off the heat (don't burn it). Strips of yellow pepper go in next to soften. Tomatoes follow; the lot stews until the peppers are silky and the sauce has reduced to a thick, jammy compote. Often finished with eggs or an egg yolk for richness.
 
 ## Ingredients
 

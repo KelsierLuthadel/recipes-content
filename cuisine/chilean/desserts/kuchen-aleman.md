@@ -10,7 +10,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Cake base: butter creams with sugar, eggs in one at a time, flour and baking powder fold in. Spreads into a 23 cm tin. Sliced apples or stoned plums press into the surface. Streusel topping (flour, butter, sugar, cinnamon) crumbles over. Bakes 45 minutes at 180°C till the topping is gold and a skewer comes out clean. Dusts with icing sugar.
+Cake base: butter creams with sugar, eggs in one at a time, flour and baking powder fold in. Spreads into a 23 cm tin. Sliced apples or stoned plums press into the surface. Streusel topping (flour, butter, sugar, cinnamon) crumbles over. Bakes for 45 minutes at 180°C till the topping is gold and a skewer comes out clean. Dusts with icing sugar.
 
 ## Ingredients
 

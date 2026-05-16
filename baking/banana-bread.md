@@ -10,7 +10,7 @@
 **Cook Time:** 55 minutes
 
 ## Overview
-Wet ingredients (mashed banana, eggs, melted butter, sugar, vanilla) mix in one bowl. Dry (flour, baking powder, soda, cinnamon, salt) join in. Walnuts fold through. Pours into a loaf tin; bakes 55 minutes. Cools (with patience) on a wire rack before slicing.
+Wet ingredients (mashed banana, eggs, melted butter, sugar, vanilla) mix in one bowl. Dry (flour, baking powder, soda, cinnamon, salt) join in. Walnuts fold through. Pours into a loaf tin; bakes for 55 minutes. Cools (with patience) on a wire rack before slicing.
 
 ## Ingredients
 

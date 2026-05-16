@@ -10,7 +10,7 @@
 **Total Time:** 8 hours (overnight rehydration)
 
 ## Overview
-Dried sliced Persian shallots (sold at Iranian shops, looks like small papery brown discs) cover with cold water and rehydrate overnight (8-12 hours). Drained and patted dry; chopped fine. Strained thick yogurt whisks in a bowl; the chopped rehydrated shallots fold in; a pinch of salt and a small splash of cold water adjust the consistency. Rests 1 hour for flavours to integrate. Served with a drizzle of olive oil.
+Dried sliced Persian shallots (sold at Iranian shops, looks like small papery brown discs) cover with cold water and rehydrate overnight (8-12 hours). Drained and patted dry; chopped fine. Strained thick yogurt whisks in a bowl; the chopped rehydrated shallots fold in; a pinch of salt and a small splash of cold water adjust the consistency. Rests for 1 hour for flavours to integrate. Served with a drizzle of olive oil.
 
 ## Ingredients
 

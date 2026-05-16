@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Dates soak in boiling water with bicarbonate of soda (which softens them and gives the sponge its dark colour). The dates blend smooth, mix into a butter-sugar-egg-flour batter, and bake. While it bakes, a toffee sauce builds: butter, brown sugar, cream, simmered to glossy. Holes get poked in the warm pudding; sauce pours over.
+Dates are soaked in boiling water with bicarbonate of soda (which softens them and gives the sponge its dark colour). The dates are blended smooth, mixed into a butter-sugar-egg-flour batter, and baked. While it bakes, a toffee sauce is built: butter, brown sugar and cream simmered to glossy. Holes are poked in the warm pudding; the sauce is poured over.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Brined vine leaves soak in warm water 20 minutes to remove the brine. Filling mixes raw lamb mince with rinsed short-grain rice, finely chopped onion, fresh mint and dill, butter, salt, pepper. Each leaf gets a teaspoon of filling, rolls into a tight cigar. Rolls pack in a single layer in a heavy pot, then a second and third layer perpendicular. Stock + sumac water pours in to barely cover. An inverted plate weighs everything down. Slow simmer 50 minutes. Service: rolls on a platter, garlic yogurt alongside.
+Brined vine leaves soak in warm water 20 minutes to remove the brine. Filling mixes raw lamb mince with rinsed short-grain rice, finely chopped onion, fresh mint and dill, butter, salt, pepper. Each leaf gets a teaspoon of filling, rolls into a tight cigar. Rolls pack in a single layer in a heavy pot, then a second and third layer perpendicular. Stock + sumac water pours in to barely cover. An inverted plate weighs everything down. Slow simmer for 50 minutes. Service: rolls on a platter, garlic yogurt alongside.
 
 ## Ingredients
 

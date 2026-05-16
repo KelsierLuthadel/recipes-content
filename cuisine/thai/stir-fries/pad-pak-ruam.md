@@ -10,7 +10,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-A wok gets hot; garlic flashes briefly in oil; vegetables go in by cook time - firmest first (broccoli, carrot, baby corn), then softer (mushroom, snow peas), and the leafy ones at the end (water spinach, bok choy). A small amount of vegetable stock and soy steams them through; oyster sauce (vegetarian) and sugar balance. Sesame oil to finish.
+A wok is heated hot; garlic flashes briefly in oil; vegetables go in by cook time - firmest first (broccoli, carrot, baby corn), then softer (mushroom, snow peas), and the leafy ones at the end (water spinach, bok choy). A small amount of vegetable stock and soy steams them through; oyster sauce (vegetarian) and sugar balance. Sesame oil to finish.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Masarepa (pre-cooked, instant white maize flour - sold as "masarepa", "harina pan", or "P.A.N."), warm water and salt mix to a soft dough that rests 5 minutes to hydrate. Cheese folds in; the dough shapes into discs about 1 cm thick. They cook in a dry hot pan first to set the surface, then receive a thin coat of butter and cook to deep golden on both sides. The cheese melts inside.
+Masarepa (pre-cooked, instant white maize flour - sold as "masarepa", "harina pan", or "P.A.N."), warm water and salt are mixed to a soft dough that rests for 5 minutes to hydrate. Cheese is folded in; the dough is shaped into discs about 1 cm thick. They are cooked in a dry hot pan first to set the surface, then given a thin coat of butter and cooked to deep golden on both sides. The cheese melts inside.
 
 ## Ingredients
 

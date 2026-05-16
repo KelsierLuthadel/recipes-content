@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Beef or lamb mince is mixed with grated onion, garlic, fresh parsley and coriander, cumin, paprika, cinnamon, salt and pepper; shaped into small (3 cm) balls. A tomato sauce is built in the tagine: onion sweats in olive oil, garlic, cumin and paprika join, tomato passata and a stock cube simmer 10 minutes. The meatballs nestle in; cook 12 minutes turning once. Eggs crack into wells; lid on; 4 minutes more until the whites are just set. Scattered with parsley and served hot.
+Beef or lamb mince is mixed with grated onion, garlic, fresh parsley and coriander, cumin, paprika, cinnamon, salt and pepper; shaped into small (3 cm) balls. A tomato sauce is built in the tagine: onion sweats in olive oil, garlic, cumin and paprika join, tomato passata and a stock cube simmer for 10 minutes. The meatballs are nestled in; cooked for 12 minutes turning once. Eggs are cracked into wells; lid on; 4 minutes more until the whites are just set. Scattered with parsley and served hot.
 
 ## Ingredients
 

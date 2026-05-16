@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Plain flour and fine semolina (durum flour) combine with yeast, salt, sugar, warm water and a glug of olive oil. Knead 8 minutes. First rise 1 hour till doubled. Divide into 4 balls; shape each into a flat round disc 18 cm across and 2 cm thick; rest 30 minutes covered. Score the tops in a cross pattern; sprinkle with sesame or nigella seeds. Bake 22-25 minutes at 220°C.
+Plain flour and fine semolina (durum flour) combine with yeast, salt, sugar, warm water and a glug of olive oil. Knead 8 minutes. First rise for 1 hour till doubled. Divide into 4 balls; shape each into a flat round disc 18 cm across and 2 cm thick; rest for 30 minutes covered. Score the tops in a cross pattern; sprinkle with sesame or nigella seeds. Bake for 22-25 minutes at 220°C.
 
 ## Ingredients
 - 400 g strong white bread flour

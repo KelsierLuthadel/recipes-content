@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A soft yeasted bread dough rises 1 hour. Divides into 6 portions, rolls into 18 cm discs. Topped with a blend of grated akkawi cheese (or mozzarella + halloumi + a touch of feta), baked at 230°C 7-9 minutes until the bottom is gold and the cheese is just bubbling. Topped with a sprinkle of dried mint or nigella seeds.
+A soft yeasted bread dough rises for 1 hour. Divides into 6 portions, rolls into 18 cm discs. Topped with a blend of grated akkawi cheese (or mozzarella + halloumi + a touch of feta), baked at 230°C 7-9 minutes until the bottom is gold and the cheese is just bubbling. Topped with a sprinkle of dried mint or nigella seeds.
 
 ## Ingredients
 

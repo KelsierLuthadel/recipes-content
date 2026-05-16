@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-All-butter puff pastry rolls thin; cuts into 4 long strips. Merguez sausages cut into 6 cm lengths. Each pastry strip wraps once around a merguez piece (overlapping seam underneath). Eggwashes; dusts with sesame and nigella seeds. Bakes 25 minutes at 200°C till the pastry is deep gold and the sausage cooked through.
+All-butter puff pastry rolls thin; cuts into 4 long strips. Merguez sausages cut into 6 cm lengths. Each pastry strip wraps once around a merguez piece (overlapping seam underneath). Eggwashes; dusts with sesame and nigella seeds. Bakes for 25 minutes at 200°C till the pastry is deep gold and the sausage cooked through.
 
 ## Ingredients
 - 500 g all-butter puff pastry (2 ready-rolled sheets)

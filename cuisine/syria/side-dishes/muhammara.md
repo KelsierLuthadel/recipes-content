@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes (if roasting the peppers fresh)
 
 ## Overview
-Red peppers char under a grill or in a hot oven until the skins blacken, then steam in a covered bowl so the skins peel cleanly. Skinned peppers pulse with walnuts, breadcrumbs, pomegranate molasses, Aleppo pepper, cumin, garlic, lemon juice and olive oil to a thick, almost-paste consistency. Adjust seasoning; rest 30 minutes; serve.
+Red peppers char under a grill or in a hot oven until the skins blacken, then steam in a covered bowl so the skins peel cleanly. Skinned peppers pulse with walnuts, breadcrumbs, pomegranate molasses, Aleppo pepper, cumin, garlic, lemon juice and olive oil to a thick, almost-paste consistency. Adjust seasoning; rest for 30 minutes; serve.
 
 ## Ingredients
 

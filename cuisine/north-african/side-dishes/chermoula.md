@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Coriander and parsley leaves blitz briefly in a food processor with garlic, cumin, paprika, saffron, salt and lemon juice. Olive oil drizzles in slowly to emulsify. Tasted; adjusted with more lemon, salt or cayenne. Used straight, or rested 30 minutes for the flavours to settle. Keeps a week in a jar in the fridge.
+Coriander and parsley leaves blitz briefly in a food processor with garlic, cumin, paprika, saffron, salt and lemon juice. Olive oil drizzles in slowly to emulsify. Tasted; adjusted with more lemon, salt or cayenne. Used straight, or rested for 30 minutes for the flavours to settle. Keeps a week in a jar in the fridge.
 
 ## Ingredients
 
