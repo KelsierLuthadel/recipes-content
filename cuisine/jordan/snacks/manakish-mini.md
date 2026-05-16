@@ -1,7 +1,7 @@
 # Manakish Mini
 
 ![Manakish Mini](resources/manakish-mini.jpg)
-*Snack-sized versions of the Jordanian breakfast flatbread: small (8 cm) discs of yeasted dough topped with za'atar-and-olive-oil OR cheese-and-nigella OR spiced minced lamb, baked at high heat in a single batch and stacked on a plate for a mezze table. Eaten by hand; each bite is one topping. Sold by the dozen at Amman bakeries; the lunch-box / picnic / family-gathering staple. This recipe makes 18 mini manakish split across three classic toppings.*
+*Snack-sized Jordan manakish: small yeasted discs topped with za'atar oil, akkawi cheese with nigella, or spiced lamb mince. Baked hot.*
 
 **Serves:** 6 (makes 18 mini manakish; 6 of each topping)
 

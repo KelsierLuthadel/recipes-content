@@ -1,7 +1,7 @@
 # Kibbeh Nayyeh Balls (Fried)
 
 ![Kibbeh Nayyeh Balls](resources/kibbeh-nayyeh-balls.jpg)
-*Jordanian football-shaped kibbeh: bite-sized bulgur-and-meat dough wrapped around a spiced lamb-mince-and-pine-nut filling, then deep-fried into amber-crisp little ovals. Distinct from the larger, raw kibbeh nayyeh (which is eaten uncooked, like steak tartare); these are the fried snack version, served warm on a mezze platter with a wedge of lemon and a small bowl of yogurt-mint sauce. Found at every Jordanian wedding, banquet and family gathering.*
+*Jordan's fried kibbeh: bulgur-and-lamb dough wrapped around a spiced mince and pine-nut filling, deep-fried into amber-crisp ovals.*
 
 **Serves:** 4 (makes 18 balls)
 

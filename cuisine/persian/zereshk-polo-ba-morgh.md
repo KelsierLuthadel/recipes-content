@@ -1,7 +1,7 @@
 # Zereshk Polo ba Morgh
 
 ![Zereshk Polo ba Morgh](resources/zereshk-polo-ba-morgh.jpg)
-*Persia's jewel rice: long-grain basmati cooked Persian-style (parboil, drain, steam) with crispy saffron tahdig, finished with a handful of zereshk (dried Iranian barberries) sautéed in butter and a sprinkle of slivered almonds and pistachios. Served with golden saffron-and-tomato chicken on top, the bone-in pieces braised in onion, tomato, turmeric and saffron until they fall apart. The Persian wedding-banquet rice; the dish that announces, "this is a feast".*
+*The Persian wedding rice: basmati with a saffron tahdig, golden chicken on top, scattered with barberries, almonds and pistachios.*
 
 **Serves:** 4
 

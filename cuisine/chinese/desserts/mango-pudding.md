@@ -1,7 +1,7 @@
 # Mango Pudding
 
 ![Mango Pudding](resources/mango-pudding.jpg)
-*Hong Kong's defining cold dessert: a wobbly pale-orange pudding of pureed ripe mango set with a small amount of gelatin, lightened with evaporated milk and a touch of double cream. Served chilled in a small bowl with extra mango cubes and a drizzle of evaporated milk on top. Distinct from Indian / South-Asian mango puddings (which are heavier, often with custard) - the Hong Kong style is light, lactic, and quivering. A summer dim-sum staple; eaten cold.*
+*Hong Kong's cold dessert: a wobbly pale-orange pudding of ripe mango set with gelatin, lightened with evaporated milk and cream.*
 
 **Serves:** 6 (one per dariole mould or small bowl)
 

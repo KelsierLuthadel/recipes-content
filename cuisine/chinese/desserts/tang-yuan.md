@@ -1,7 +1,7 @@
 # Tang Yuan
 
 ![Tang Yuan](resources/tang-yuan.jpg)
-*Chinese glutinous rice balls filled with sweet black sesame paste, simmered in a fragrant ginger-and-sugar syrup. Eaten at Winter Solstice and at Yuan Xiao Jie (Lantern Festival, on the 15th day of the lunar new year), but also year-round as a Cantonese / Shanghainese dessert. The name "tang yuan" (round in soup) sounds like "tuan yuan" (family reunion), so the dish is symbolic of togetherness. Chewy outside, oozing dark sesame inside, served warm in syrup.*
+*China's reunion-soup balls: chewy glutinous rice balls oozing sweet black sesame paste, served in a fragrant ginger-and-sugar syrup.*
 
 **Serves:** 4 (makes 16 balls)
 

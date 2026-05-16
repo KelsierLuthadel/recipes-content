@@ -1,7 +1,7 @@
 # Blue Corn Mush
 
 ![Blue Corn Mush](resources/blue-corn-mush.jpg)
-*The Pueblo breakfast porridge: finely ground roasted blue corn whisked into hot water with juniper ash (or, in this domestic adaptation, a pinch of baking soda) to keep the colour vivid and to release the corn's nutrients, then simmered to a thick spoonable cereal. Earthy, faintly sweet, with the unmistakable smoky note of toasted blue corn. Sweetened in the bowl with honey or maple, topped with toasted piñon nuts and dried berries. A dish 1,500 years old.*
+*A Pueblo breakfast porridge: roasted blue cornmeal whisked into hot water with a pinch of ash, simmered thick. Topped with maple and piñon.*
 
 **Serves:** 4
 

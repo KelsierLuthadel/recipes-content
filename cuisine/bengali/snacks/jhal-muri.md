@@ -1,7 +1,7 @@
 # Jhal Muri
 
 ![Jhal Muri](resources/jhal-muri.jpg)
-*The roar of a Kolkata street corner in a paper cone: puffed rice tossed with pungent raw mustard oil, sharp chopped onion, the sting of green chilli, juicy tomato, peanuts for crunch, and a final squeeze of lime that pulls everything bright. The smell is unmistakable - mustard oil meeting fresh coriander, with the faint sweetness of the puffed rice underneath. Sold from tin trunks across West Bengal and Bangladesh, mixed by hand in front of you.*
+*Kolkata's street-corner snack: puffed rice tossed with mustard oil, chopped onion, green chilli, tomato, peanuts and a squeeze of lime.*
 
 **Serves:** 2
 

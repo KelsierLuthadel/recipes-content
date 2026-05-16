@@ -1,7 +1,7 @@
 # Cannoli Siciliani
 
 ![Cannoli Siciliani](resources/cannoli-siciliani.jpg)
-*Sicily's defining pastry: deep-fried tubes of thin Marsala-spiked dough rolled around metal forms, filled at the last moment with sweetened ricotta studded with candied citrus peel, chocolate chips and pistachio, with a dusting of icing sugar. Filled too far in advance, the shells go soft; filled à la minute, the shell shatters at first bite and the cool ricotta wells out. Found in every Palermo and Catania pasticceria; the dish that defines Sicilian dolce.*
+*Sicily's signature pastry: deep-fried Marsala-spiked dough tubes filled to order with sweetened ricotta, candied peel and pistachio.*
 
 **Serves:** 8 (makes 12 cannoli)
 

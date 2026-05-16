@@ -1,7 +1,7 @@
 # Grilled Kielbasa
 
 ![Grilled Kielbasa](resources/grilled-kielbasa.jpg)
-*Plump horseshoe coils of garlic-and-marjoram smoked sausage finished over hot coals until the casing pops and snaps, served with sharply pickled cabbage, dark rye bread and a smear of mustard or horseradish. The smell is beechwood smoke and garlic on the breeze, with the herbal lift of dried marjoram. Eaten across Poland from a Tatra mountain bakery to a Warsaw backyard grill, and an absolute staple of Polish-American summer cookouts in Chicago and Detroit.*
+*Poland's garlic-and-marjoram smoked sausage grilled till the casing pops, served with sharp pickled cabbage and rye bread.*
 
 **Serves:** 6
 

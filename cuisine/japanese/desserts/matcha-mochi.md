@@ -1,7 +1,7 @@
 # Matcha Mochi
 
 ![Matcha Mochi](resources/matcha-mochi.jpg)
-*Tender chewy bite-sized mochi cakes flavoured with bright green matcha tea powder and (optionally) filled with sweet red bean paste. The mochi exterior is the soft chewy stretch of steamed glutinous rice flour; the interior is the deep grassy fragrance of high-quality matcha. Dusted with extra matcha and katakuriko (potato starch) so they don't stick. Cousin to ichigo daifuku (the strawberry-filled version) and other daifuku family of fresh mochi.*
+*Japan's bright-green mochi: chewy glutinous rice cakes flavoured with matcha, sometimes filled with sweet bean paste. Dusted with starch.*
 
 **Serves:** 6 (makes 12 mochi)
 

@@ -1,7 +1,7 @@
 # Buffalo Wings
 
 ![Buffalo Wings](resources/buffalo-wings.jpg)
-*Crispy deep-fried chicken wings tossed in a glossy buttery-hot-sauce coating, served with celery sticks and blue-cheese dip. Invented at the Anchor Bar in Buffalo, NY in 1964 - Frank's RedHot, butter, the bar's house wing platter. The American snack par excellence; bar food that became Super Bowl tradition. The key trick: dry the wings hard, fry hot twice for the shatter-crisp shell, then toss in the sauce only at service so the coat stays glossy.*
+*The American bar snack: deep-fried wings tossed in glossy hot-sauce butter, served with celery sticks and blue-cheese dip. Born in Buffalo.*
 
 **Serves:** 4 (about 24 wings)
 

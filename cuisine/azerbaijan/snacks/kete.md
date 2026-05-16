@@ -1,7 +1,7 @@
 # Kete (Azerbaijani Herb-Stuffed Flatbread)
 
 ![Kete](resources/kete.jpg)
-*A bread of the Lori-Kalbajar region: enriched milk-and-egg dough wrapped around a soft filling of melted butter, sautéed onions and a heap of fresh herbs - coriander, dill, mint, spring onion - then rolled flat and baked or pan-fried until the surface blisters dark gold. Each bite tastes of grass and butter. Eats with tea for breakfast or alongside a bowl of dovgha (yogurt-and-herb soup). Smaller and richer than qutab; the dough is yeasted, not flatbread-flat.*
+*A bread of Azerbaijan's mountains: enriched dough wrapped around a buttery filling of fresh coriander, dill, mint and spring onion.*
 
 **Serves:** Makes 6 kete (serves 6 as a snack)
 

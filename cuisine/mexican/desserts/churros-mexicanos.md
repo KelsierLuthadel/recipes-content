@@ -1,7 +1,7 @@
 # Churros Mexicanos
 
 ![Churros Mexicanos](resources/churros-mexicanos.jpg)
-*Mexico's defining fried-dough dessert: ridged tubes of choux-style dough piped through a star nozzle directly into hot oil, fried until amber-crisp, drained, then tossed in a generous coating of cinnamon sugar. Served warm with a small mug of thick Mexican drinking chocolate for dipping. Originally Spanish, now thoroughly Mexican - sold from street carts on every corner; eaten at fairs, after Mass on Sunday, or in churrerías that specialise in nothing else.*
+*Mexico's fried-dough dessert: ridged choux tubes piped into hot oil, fried crisp, tossed in cinnamon sugar. Dipped in thick chocolate.*
 
 **Serves:** 4 (makes 16 churros)
 

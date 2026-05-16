@@ -1,7 +1,7 @@
 # Arancini
 
 ![Arancini](resources/arancini.jpg)
-*Sicily's golden rice balls: cold leftover risotto formed around a centre of meat ragù or mozzarella, breaded and deep-fried until the outside is amber-crisp and the inside is meltingly tender. The name means "little orange" - they're the size and colour of a small citrus. Served as street food from Palermo to Catania, eaten with the fingers as a snack or a quick lunch. Allow time: the rice has to be cold to shape properly, so this is a day-after-risotto dish.*
+*Sicily's golden rice balls: cold risotto wrapped around meat ragù or mozzarella, breaded and deep-fried till crisp outside, soft within.*
 
 **Serves:** 4 (makes 8 arancini)
 

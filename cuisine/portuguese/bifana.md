@@ -1,7 +1,7 @@
 # Bifana
 
 ![Bifana](resources/bifana.jpg)
-*Portugal's defining street sandwich: thin slices of pork loin marinated in garlic, white wine, paprika and bay, then fried hard in olive oil and butter and piled into a soft Portuguese papo-seco roll along with a generous spoon of the marinade pan-juices. Eaten standing up at a counter in any tasca with a glass of beer or imperial; the Portuguese equivalent of a midday burger. Tangy, garlicky, faintly smoky, the bread soaked through with the juices.*
+*Portugal's street sandwich: thin pork loin slices marinated in garlic, white wine and paprika, fried hard, piled into a soft papo-seco roll.*
 
 **Serves:** 4 (4 sandwiches)
 

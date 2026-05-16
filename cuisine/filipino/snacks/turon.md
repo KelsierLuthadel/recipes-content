@@ -1,7 +1,7 @@
 # Turon
 
 ![Turon](resources/turon.jpg)
-*Saba banana and a stick of jackfruit wrapped in a thin spring-roll skin, dusted in brown sugar, then deep-fried until the wrapper caramelises into a crackling amber shell. The banana inside softens to dessert-sweet, the jackfruit adds floral perfume. Eats hot, the sugar shell shattering on the first bite. A Filipino afternoon-snack institution sold from street carts in plastic bags. Smaller than a regular spring roll, easier to eat with one hand.*
+*The Philippines' caramel banana roll: saba banana and jackfruit wrapped in a spring-roll skin, dusted in brown sugar, deep-fried till amber.*
 
 **Serves:** Makes 12 turon (serves 4-6 as a snack)
 

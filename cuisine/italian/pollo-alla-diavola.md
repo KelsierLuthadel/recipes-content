@@ -1,7 +1,7 @@
 # Pollo alla Diavola
 
 ![Pollo alla Diavola](resources/pollo-alla-diavola.jpg)
-*Italian "devil's chicken" - spatchcocked, marinated in lemon, garlic, black pepper and dried chilli, then pressed flat under a brick on a screaming-hot grill until the skin is charred and crackling. The name comes from the fierce black pepper and red chilli rub, or, depending on which Tuscan grandmother you ask, from the way the bird is "tortured" flat by the weight. Either story works. A standard of the Roman trattoria and the Tuscan summer grill.*
+*Italy's devil's chicken: spatchcocked and marinated in lemon, garlic, pepper and chilli, pressed under a brick on a screaming-hot grill.*
 
 **Serves:** 4
 

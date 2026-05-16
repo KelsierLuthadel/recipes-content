@@ -2,7 +2,7 @@
 
 ![Sambusak](resources/sambusak.jpg)
 
-*The Iraqi-Jewish half-moon pastry: a thin oil-based dough wrapped around a spiced chickpea filling enriched with caramelised onion, cumin and a hint of turmeric, then fried golden or baked with sesame seeds. Carried with the Babylonian Jewish community out of Iraq into Israel; eaten on Shabbat afternoons, at brises, and as a Friday-night appetiser. Distinguished from the Arab sambusa by its chickpea (not meat) filling and slightly thicker, more biscuity dough.*
+*The Iraqi-Jewish half-moon: a thin oil dough wrapped around spiced chickpeas and caramelised onion, fried or baked with sesame.*
 
 **Serves:** 6 (makes 18 sambusak)
 

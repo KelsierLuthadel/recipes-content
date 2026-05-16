@@ -1,7 +1,7 @@
 # Lyulya-Kebab
 
 ![Lyulya-Kebab](resources/lyulya-kebab.jpg)
-*Minced lamb pounded with grated onion, salt and pepper until the mixture is tacky enough to cling to a flat skewer without falling off. Grilled over hot charcoal until the surface chars and the inside stays juicy. Served on lavash with sumac-pickled onion and a heap of fresh herbs. The Azeri / Caucasian grill par excellence - no breadcrumbs, no eggs, just lamb and patience. Long, narrow shape gives more crusted surface area than a round meatball.*
+*The Azeri grill par excellence: minced lamb pounded with grated onion until tacky, pressed onto flat skewers and charred over hot coals.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Kefta Tagine
 
 ![Kefta Tagine](resources/kefta-tagine.jpg)
-*Morocco's weeknight comfort tagine: small spiced meatballs (kefta - minced beef or lamb seasoned with cumin, paprika, cinnamon, parsley and onion) simmered in a tomato-and-cumin sauce, then finished with eggs cracked into wells in the sauce, the whites just-set, the yolks still soft. Served straight from the tagine with crusty Moroccan bread to dip into the sauce and lift the meatballs and yolks. A 30-minute dinner that looks like more effort than it is.*
+*Morocco's weeknight tagine: small spiced meatballs simmered in a cumin-and-tomato sauce, finished with eggs cracked into wells in the pan.*
 
 **Serves:** 4
 

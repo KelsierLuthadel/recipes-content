@@ -1,7 +1,7 @@
 # Galaktoboureko
 
 ![Galaktoboureko](resources/galaktoboureko.jpg)
-*A semolina custard the colour of pale gold cradled between crackling butter-laminated filo, soaked while still hot in a lemon-scented sugar syrup. The name combines galakto (milk) and boureko (pastry roll) - a milk-custard pastry. The custard is firm enough to slice cleanly but soft enough to spoon, the filo above and below shatters at the touch of a fork. A defining Greek pastry, simpler than baklava in the layering, more elegant in the result.*
+*Greece's milk pastry: a semolina custard cradled in layers of crackling buttered filo, soaked in lemon syrup straight from the oven.*
 
 **Serves:** 8-10
 

@@ -1,7 +1,7 @@
 # Takoyaki
 
 ![Takoyaki](resources/takoyaki.jpg)
-*Osaka's defining street food: small spherical fritters made from a thin dashi-spiked batter cooked in a special dimpled pan, each ball stuffed with a piece of cooked octopus, pickled red ginger and spring onion, drizzled with sweet takoyaki sauce, Japanese mayonnaise, and topped with a dance of bonito flakes (which curl in the heat) and aonori seaweed. The Osaka-soul-food classic. Eaten with toothpicks; bite carefully - the centre is volcanic.*
+*Osaka's octopus balls: a dashi-spiked batter cooked in a dimpled pan around chunks of octopus, finished with sauce and dancing bonito.*
 
 **Serves:** 4 (makes about 30 takoyaki)
 

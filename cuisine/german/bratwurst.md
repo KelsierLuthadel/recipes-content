@@ -1,7 +1,7 @@
 # Bratwurst with Sauerkraut
 
 ![Bratwurst with Sauerkraut](resources/bratwurst.jpg)
-*Fine-textured pork and veal sausages, gently poached and then grilled until the casing crackles and splits to release a rush of marjoram-scented steam, served over a heap of caraway-braised sauerkraut with a smear of sharp German mustard. The smell is the inside of a Nuremberg Christmas market: pork fat, woodsmoke, vinegar-tangy cabbage and the warm spice of caraway. A bedrock of German grill culture, from Bavarian beer gardens to Düsseldorf street stands.*
+*Germany's grill staple: fine pork-and-veal sausages poached gentle, then grilled till the casing crackles. Served on caraway sauerkraut.*
 
 **Serves:** 4
 

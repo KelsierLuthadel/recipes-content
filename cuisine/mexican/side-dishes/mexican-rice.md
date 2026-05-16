@@ -1,7 +1,7 @@
 # Mexican Rice
 
 ![Mexican Rice](resources/mexican-rice.jpg)
-*Arroz rojo: long-grain rice toasted in oil with onion and garlic until pale gold, then simmered in chicken stock and a pureed-tomato-and-pepper mixture until each grain is dyed orange-red and the kitchen smells of cumin and oregano. The defining side at every taquería - alongside refried beans, taco fillings, mole, or grilled meats. Built on the technique of dry-toasting the rice first; without that step you get tomato risotto, not Mexican rice.*
+*The taquería side: long-grain rice toasted in oil, then simmered in stock and pureed tomato till each grain is dyed orange-red.*
 
 **Serves:** 6 (as a side)
 

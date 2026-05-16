@@ -1,7 +1,7 @@
 # Leche Flan
 
 ![Leche Flan](resources/leche-flan.jpg)
-*The Filipino caramel custard - denser than a French crème caramel because it uses egg yolks only (no whites) and condensed milk in place of sugar-and-cream. Steamed in oval llanera tins (or any small oven dish), turned out onto a plate so the deep amber caramel sauce pours down the sides. Eats cold, the custard set to a wobble, the surface stained gold from the caramel. Christmas, fiesta, birthday - always present, always the first thing to disappear.*
+*The Filipino caramel custard: dense egg-yolk-and-condensed-milk custard steamed in moulds, inverted so the dark caramel pours over.*
 
 **Serves:** 8
 

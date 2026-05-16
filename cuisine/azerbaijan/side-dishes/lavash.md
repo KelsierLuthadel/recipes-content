@@ -1,7 +1,7 @@
 # Lavash
 
 ![Lavash](resources/lavash.jpg)
-*The thin, soft, unleavened flatbread of the Caucasus and the wider Persian world. Rolled paper-thin, cooked seconds-only on a hot stone or in a tandir oven, comes out flexible enough to wrap around grilled meat or tear into pieces to scoop up dolma juices. Different from naan or pita - no yeast, no pocket, just flour-water-salt rolled obsessively thin. Keeps two days soft, dries to a brittle cracker that softens again with a quick spritz of water.*
+*The Caucasus' paper-thin flatbread: just flour, water and salt rolled obsessively thin and cooked seconds on a hot stone. Wraps grilled meat.*
 
 **Serves:** Makes 8 sheets (each about 35 × 25 cm)
 

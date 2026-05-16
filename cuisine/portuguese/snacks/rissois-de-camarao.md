@@ -1,7 +1,7 @@
 # Rissois de Camarão
 
 ![Rissois de Camarao](resources/rissois-de-camarao.jpg)
-*Portugal's defining tapa: small half-moon savoury turnovers filled with a creamy béchamel-bound prawn filling, breaded, deep-fried until amber-crisp. Served warm with a wedge of lemon. The defining Portuguese snack-bar item; eaten standing at a counter or as the first course at a celebration. Made in two stages: a pot-cooked flour-and-water dough (similar to choux) and a creamy prawn-béchamel filling. Each rissoi is breaded and fried just before serving.*
+*Portugal's snack-bar half-moon: a thin pot-cooked dough wrapped around a creamy béchamel-bound prawn filling, breaded and deep-fried.*
 
 **Serves:** 6 (makes 24 rissois)
 

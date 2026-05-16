@@ -1,7 +1,7 @@
 # Tiramisù
 
 ![Tiramisù](resources/tiramisu.jpg)
-*Italy's most exported dessert: layers of espresso-soaked savoiardi biscuits, a mascarpone-and-egg cream lightened with whipped egg whites, dusted thickly with cocoa, set overnight in the fridge. The name means "pick-me-up" - for the coffee, the sugar, and the alcohol. The classic uses Marsala or rum; Italian home kitchens often use just espresso. The dessert that demands a sturdy-yet-fluffy mascarpone cream and savoiardi that absorb without disintegrating.*
+*Italy's most-exported dessert: espresso-soaked savoiardi layered with mascarpone-and-egg cream, dusted thickly with cocoa, set overnight.*
 
 **Serves:** 8
 

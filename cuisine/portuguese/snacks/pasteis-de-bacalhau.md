@@ -1,7 +1,7 @@
 # Pasteis de Bacalhau
 
 ![Pasteis de Bacalhau](resources/pasteis-de-bacalhau.jpg)
-*Portugal's defining tapa: small lemon-and-egg-shaped fritters of mashed potato, salt cod (bacalhau), onion, parsley and eggs, deep-fried until amber-crisp. Served warm with a glass of vinho verde or a chilled rosé. Sold by the dozen at every Lisbon tasca and snack-bar; eaten standing at a counter or as the first course at a Portuguese dinner party. Crisp outside, soft and slightly-flaky inside, with the unmistakable salt-cod flavour mellowed by the potato.*
+*Portugal's defining tapa: small fritters of mashed potato, salt cod, onion and parsley, deep-fried amber-crisp. Eaten warm.*
 
 **Serves:** 6 (makes 24 fritters)
 

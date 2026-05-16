@@ -1,7 +1,7 @@
 # Tarte Tatin
 
 ![Tarte Tatin](resources/tarte-tatin.jpg)
-*The French upside-down apple tart: apples caramelised in butter and sugar in a heavy ovenproof pan, topped with a disc of buttery pastry, baked until the pastry is gold and the apples are deep amber, then carefully inverted onto a plate so the apples sit on top of the pastry, glazed by the dark caramel. Created by accident by the Tatin sisters in the Loire Valley around 1880; now a defining French dessert. Served warm with crème fraîche or vanilla ice cream.*
+*The French upside-down apple tart: apples caramelised in butter and sugar under a buttery lid, then turned out so the apples sit on top.*
 
 **Serves:** 6 (one 24 cm tart)
 

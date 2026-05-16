@@ -1,7 +1,7 @@
 # Sambal Terasi
 
 ![Sambal Terasi](resources/sambal-terasi.jpg)
-*The defining Indonesian chilli sauce: red chillies, garlic, shallot, tomato, and a small lump of terasi (fermented shrimp paste) pounded and fried into a deep red glossy paste. The terasi gives the funk that makes it Indonesian; without it you have generic chilli sauce. Eats with rice, on grilled fish, alongside fried tofu, smeared on a banana leaf with nasi uduk. Made in small quantities, eaten fresh - it doesn't keep as well as commercial sambal.*
+*Indonesia's defining chilli sauce: chillies, garlic, shallot and tomato pounded with a lump of fermented shrimp paste, fried glossy and dark.*
 
 **Serves:** Makes 250 ml (about 12 servings)
 

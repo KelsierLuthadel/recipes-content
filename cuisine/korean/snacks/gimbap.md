@@ -1,7 +1,7 @@
 # Gimbap
 
 ![Gimbap](resources/gimbap.jpg)
-*Korean seaweed rice rolls: short-grain rice seasoned with sesame oil and salt, then rolled with a selection of fillings - pickled radish (danmuji), spinach, carrot, ham, egg, often beef - inside a sheet of gim (roasted seaweed). The Korean lunchbox / picnic / school-trip food. Different from Japanese maki: gimbap rice is seasoned with sesame oil and salt, not vinegar; fillings are cooked, never raw; sliced thinner; eaten cold or room temperature.*
+*Korea's lunchbox roll: short-grain rice with sesame oil, rolled with pickled radish, spinach, carrot, ham and egg inside a sheet of nori.*
 
 **Serves:** Makes 4 rolls (serves 4)
 

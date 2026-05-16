@@ -1,7 +1,7 @@
 # Ema Datshi
 
 ![Ema Datshi](resources/ema-datshi.jpg)
-*Bhutan's national dish - "ema" (chilli) and "datshi" (cheese). Whole green chillies stew with blue cheese, potato, garlic and tomato until the cheese melts into a fierce-but-creamy sauce. The dish is shockingly hot by Western standards; cheese tempers it just enough. Versions with beef, pork, or mushrooms exist across Bhutan and Tibetan border regions. Eats with rice or senkong (steamed millet flour). Tibetans call a related dish "churu" (cheese soup).*
+*Bhutan's national dish: whole green chillies stewed with blue cheese, potato and tomato until the cheese melts into a fierce, creamy sauce.*
 
 **Serves:** 6
 

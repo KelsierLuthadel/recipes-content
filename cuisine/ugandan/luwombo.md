@@ -2,7 +2,7 @@
 
 ![Luwombo](resources/luwombo.jpg)
 
-*Luwombo is the celebration dish of the Buganda kingdom in central Uganda: chicken, beef or smoked fish wrapped tightly in softened banana leaves and steamed for hours over matoke. Once the parcels open at the table, the contents are intensely fragrant, the meat fall-apart tender, the sauce concentrated by enclosed steaming. The dish was reserved for royalty in the 19th century; it remains the centrepiece of weddings and Christmas across Buganda.*
+*Uganda's celebration parcel: chicken or beef wrapped tight in banana leaves and steamed slow over matoke until the meat falls apart.*
 
 **Serves:** 4
 

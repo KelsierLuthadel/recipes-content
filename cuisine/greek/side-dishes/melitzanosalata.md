@@ -1,7 +1,7 @@
 # Melitzanosalata (Greek Aubergine Dip)
 
 ![Melitzanosalata](resources/melitzanosalata.jpg)
-*Smoky charred aubergine mashed roughly with garlic, lemon, olive oil, fresh parsley and a hint of vinegar. The Greek answer to baba ganoush but no tahini - the aubergine is the star, the garlic and lemon sharpen it, the olive oil binds. Eats on warm bread as a meze starter, or alongside grilled meat as a side. Different from babaganoush (no sesame), different from a Mediterranean aubergine purée (no tomato) - defined by char, lemon and parsley.*
+*Greece's smoky aubergine dip: charred aubergine roughly mashed with garlic, lemon, olive oil and parsley. No tahini, no tomato.*
 
 **Serves:** 4-6 (makes about 400 g)
 

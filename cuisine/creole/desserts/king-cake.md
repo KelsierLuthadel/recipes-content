@@ -1,7 +1,7 @@
 # King Cake
 
 ![King Cake](resources/king-cake.jpg)
-*The official cake of Mardi Gras (Carnival): an oval ring of sweet brioche-style yeast dough, filled with cinnamon and brown sugar, baked golden, then drizzled with white icing and dusted with the iconic Mardi Gras colours - purple (justice), green (faith) and gold (power) sugar. A small plastic baby is hidden inside; whoever gets the slice with the baby buys (or bakes) the next king cake. Eaten throughout Carnival season (6 January Epiphany to Fat Tuesday).*
+*Mardi Gras' official cake: a sweet brioche ring filled with cinnamon and brown sugar, iced and dusted with purple, green and gold sugar.*
 
 **Serves:** Makes 1 large king cake (serves 12)
 

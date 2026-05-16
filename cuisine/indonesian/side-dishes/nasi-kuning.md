@@ -1,7 +1,7 @@
 # Nasi Kuning (Yellow Rice)
 
 ![Nasi Kuning](resources/nasi-kuning.jpg)
-*Coconut-and-turmeric rice, the centrepiece of Indonesian celebrations - birthdays, weddings, school graduations, anything worth marking. Long-grain rice cooks in coconut milk steeped with fresh turmeric, lemongrass, kaffir lime leaf, salt and a knob of butter. Comes out a stained mustard-yellow, fragrant, faintly rich. Traditionally moulded into a cone shape (tumpeng) and surrounded with side dishes; weekday home version skips the cone and serves it in a bowl.*
+*Indonesia's celebration rice: long-grain steeped in coconut milk with turmeric, lemongrass and kaffir lime. Stained a deep mustard yellow.*
 
 **Serves:** 6
 

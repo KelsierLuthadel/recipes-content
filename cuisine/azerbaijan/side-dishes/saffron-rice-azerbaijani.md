@@ -1,7 +1,7 @@
 # Saffron Rice (Azerbaijani Style)
 
 ![Azerbaijani Saffron Rice](resources/saffron-rice-azerbaijani.jpg)
-*The simpler everyday cousin of plov: basmati rice steamed under a butter and saffron crust, served alone or with the same lamb-and-dried-fruit topping. The technique mirrors plov - soak, par-boil, drain, steam - but skips the lavash crust and the elaborate fruit qara. The result is a tall pile of separate grains, the top stained amber-gold from saffron-soaked butter. Eats alongside any Azeri grilled meat or as the main act with a yogurt-and-cucumber salad.*
+*The everyday cousin of plov: basmati steamed under a butter-and-saffron crust until the top is stained amber-gold.*
 
 **Serves:** 6
 

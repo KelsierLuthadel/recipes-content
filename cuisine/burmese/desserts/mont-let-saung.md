@@ -2,7 +2,7 @@
 
 ![Mont Let Saung](resources/mont-let-saung.jpg)
 
-*A cooling Burmese dessert eaten at the hottest end of the day: green pandan-scented rice-flour worms (or sago pearls in this simpler version) suspended in sweet coconut milk over crushed ice, with a finishing pour of dark palm sugar syrup. The name translates loosely as "snack to slip down"; the texture is exactly that. Sold from glass-fronted carts in Yangon and Mandalay during the build-up to monsoon when the heat sits at 40°C and nobody wants to chew.*
+*A cooling Burmese dessert: pandan-scented sago pearls floating in sweet coconut milk over crushed ice, with a pour of dark palm sugar syrup.*
 
 **Serves:** 4
 

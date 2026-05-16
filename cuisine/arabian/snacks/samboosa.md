@@ -1,7 +1,7 @@
 # Samboosa
 
 ![Samboosa](resources/samboosa.jpg)
-*Saudi triangular fried pastries - the local cousin of Indian samosa and Levantine sambousek, popular as a Ramadan iftar snack. Thin spring-roll wrappers (or homemade samboosa pastry) fold around a spiced minced-beef-or-chicken filling: meat browned with onion, garlic, baharat, allspice and a touch of black lime, brightened with chopped parsley and lemon zest. Deep-fried until amber-crisp. Served with a small bowl of green hot sauce or a tahini-yogurt dip.*
+*Saudi Arabia's Ramadan triangle: thin wrappers folded around spiced minced beef with onion and baharat, deep-fried amber-crisp.*
 
 **Serves:** 6 (makes 20 samboosa)
 

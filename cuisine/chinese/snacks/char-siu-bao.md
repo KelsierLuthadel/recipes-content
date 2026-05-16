@@ -1,7 +1,7 @@
 # Char Siu Bao
 
 ![Char Siu Bao](resources/char-siu-bao.jpg)
-*Cantonese barbecue-pork steamed buns - the defining dim-sum bun: pillowy white-flour dough wrapped around a filling of diced char siu (sweet-soy-glazed roast pork) bound in a thick oyster-sauce-and-cornstarch sauce, steamed until the dough splits open at the top to reveal the filling. The cracked open-top is the signature; if your buns don't open, the dough wasn't proofed correctly. Eaten warm, by hand, with tea, three to a basket on the dim-sum trolley.*
+*The defining Cantonese dim-sum bun: pillowy white dough wrapped around sweet-soy roast pork, steamed till the tops split open at the seams.*
 
 **Serves:** 6 (makes 12 buns)
 

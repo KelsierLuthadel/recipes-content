@@ -1,7 +1,7 @@
 # Atchara
 
 ![Atchara](resources/atchara.jpg)
-*Pickled green papaya, the Filipino answer to a sweet-sour condiment that cuts through grilled meat. Green (unripe) papaya shreds with carrot, garlic, ginger, peppers and onion, salts to draw out moisture, then bathes in a sweet-sour syrup of cane vinegar, sugar and peppercorns. Eats alongside lechon, tocino, longanisa or tapa - any rich, fatty meat that wants a bright counterpoint. Made in big jars to last weeks; the longer it sits, the better it tastes.*
+*The Philippines' sweet-sour pickle: shredded green papaya, carrot, ginger and pepper in a cane-vinegar syrup. Cuts through grilled meat.*
 
 **Serves:** Makes a 1-litre jar (about 10 servings)
 

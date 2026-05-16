@@ -1,7 +1,7 @@
 # Obleas
 
 ![Obleas](resources/obleas.jpg)
-*Round paper-thin wafer sandwiches stuffed with arequipe (Colombian dulce de leche), often with extras like grated cheese, jam, shredded coconut, or chopped peanuts. Sold from street carts where the vendor slathers arequipe across one wafer, lets the customer pick add-ons, then tops with another wafer and presses gently - eat with one hand, sticky fingers guaranteed. The wafer is the whisper-thin Colombian equivalent of an ice-cream wafer cone but flat.*
+*Colombia's street-cart wafer sandwich: paper-thin wafers slathered with arequipe and crowned with cheese, jam, coconut or chopped peanuts.*
 
 **Serves:** Makes 6 wafer sandwiches
 

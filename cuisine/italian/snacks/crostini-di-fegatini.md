@@ -1,7 +1,7 @@
 # Crostini di Fegatini
 
 ![Crostini di Fegatini](resources/crostini-di-fegatini.jpg)
-*Tuscany's defining antipasto: small slices of crusty bread topped with a smooth-rough pâté of chicken livers cooked with onion, anchovies, capers, sage and Vin Santo (or dry Marsala), spread warm onto the toasts at the table. Earthy, savoury, slightly sweet from the wine; deeply Tuscan and served at every wedding and Sunday lunch across the region. The pâté is rustic - not silken French pâté but coarsely textured, with bits of onion and caper visible.*
+*Tuscany's defining antipasto: chicken livers cooked with onion, anchovies, capers and Vin Santo, spread warm onto small crusty toasts.*
 
 **Serves:** 6 (makes about 24 crostini)
 

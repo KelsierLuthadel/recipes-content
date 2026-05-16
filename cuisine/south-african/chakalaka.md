@@ -1,7 +1,7 @@
 # Chakalaka
 
 ![Chakalaka](resources/chakalaka.jpg)
-*South Africa's spiced vegetable relish, born in the townships and now eaten across the country. Onions, peppers, carrots and chillies fry hot with curry powder; tomatoes deepen the base; tinned baked beans (yes, the orange ones) add the unmistakable sweet-savoury note that's pure chakalaka. Eaten with bobotie, on bread, alongside braai (barbecue), with pap (maize porridge), or straight from the jar with a spoon. Hot, sweet, sour and crunchy in every bite.*
+*South Africa's spiced relish: onions, peppers, carrots and chillies fried hot with curry powder, sweetened with baked beans and tomato.*
 
 **Serves:** 6 as a side
 

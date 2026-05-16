@@ -1,7 +1,7 @@
 # Pecan Pralines
 
 ![Pecan Pralines](resources/pecan-pralines.jpg)
-*New Orleans pralines (pronounced PRAH-leen, not PRAY-leen) - small flat candies of caramelised brown sugar, butter, cream and toasted pecans, dropped onto parchment in spoonfuls to set. Different from French pralines (caramel-coated nuts) and Belgian pralines (chocolate-shelled): NOLA pralines are sugary-cream candies with pecans embedded throughout. Sold in French Quarter shops since the 19th century; made at home for Mardi Gras parties and Christmas tins.*
+*A New Orleans candy: brown sugar, butter, cream and toasted pecans cooked to soft-ball, beaten till it sugars, dropped onto parchment.*
 
 **Serves:** Makes about 20 pralines
 

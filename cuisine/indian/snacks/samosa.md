@@ -2,7 +2,7 @@
 
 ![Samosa](resources/samosa.jpg)
 
-*The iconic North-Indian street snack: a crisp pastry triangle stuffed with spiced potato, peas and ginger, deep-fried golden and eaten hot with tamarind and mint chutneys. Sold from every chai-wallah cart and railway platform across the subcontinent; the home version is the centrepiece of Indian tea-time and Ramadan iftar tables. The pastry must blister with the tell-tale ridged surface, the filling must be dry and crumbly, the corners must be sharp.*
+*India's iconic tea-time triangle: a crisp pastry pocket stuffed with spiced potato and peas, deep-fried golden. Served with tamarind and mint.*
 
 **Serves:** 6 (makes 12 samosas)
 

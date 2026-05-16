@@ -1,7 +1,7 @@
 # Miang Kham
 
 ![Miang Kham](resources/miang-kham.jpg)
-*The Thai "one bite, many flavours" snack: small piles of diced lime, ginger, shallot, dried shrimp, roasted peanuts and toasted coconut, wrapped at the table in fresh young betel leaves (cha plu) with a glossy spoon of palm-sugar-tamarind sauce. Everyone makes their own. Each bite explodes with all five Thai flavour notes simultaneously - sweet, salty, sour, bitter, spicy. Court-cuisine origin; now found across street markets and at family celebrations.*
+*Thailand's one-bite parcel: diced lime, ginger, shallot, dried shrimp, peanuts and coconut wrapped in a betel leaf with palm-sugar sauce.*
 
 **Serves:** 4
 

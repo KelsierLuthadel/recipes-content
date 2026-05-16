@@ -2,7 +2,7 @@
 
 ![Onde-Onde](resources/onde-onde.jpg)
 
-*Onde-onde (also called kuih onde-onde or, in Indonesia, klepon) are bright green pandan glutinous rice balls hiding a molten gula melaka centre, rolled in freshly grated coconut. They are a staple of Malaysia's kuih trolley, the rotating cast of small sweet and savoury bites eaten at tea time, after lunch, or at any roadside stall. The pleasure of eating one is in the burst, the warm palm sugar oozes the moment you bite through the chewy shell.*
+*Malaysia's tea-time sweet: green pandan glutinous rice balls hiding a molten gula melaka centre, rolled in salted grated coconut.*
 
 **Serves:** 4 (makes about 18 balls)
 **Prep Time:** 25 minutes
