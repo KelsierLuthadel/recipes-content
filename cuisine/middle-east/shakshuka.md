@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A pepper-onion sofrito gets cumin, paprika and chilli, then tomatoes simmer down into a thick sauce. Eggs crack into wells in the sauce; the pan covers and the eggs steam-poach until the whites are set but the yolks remain runny.
+A pepper-and-onion sofrito is seasoned with cumin, paprika and chilli, then simmered down with chopped tomatoes into a thick sauce. Eggs are cracked into wells in the sauce, the pan is covered, and they poach gently in the steam until the whites are set and the yolks still runny.
 
 ## Ingredients
 
