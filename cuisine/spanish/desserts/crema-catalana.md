@@ -2,6 +2,9 @@
 
 ![Crema Catalana](resources/crema-catalana.jpg)
 
+*Catalonia's burnt-cream pudding: a chilled custard scented with lemon zest and cinnamon.*
+
+
 **Serves:** 4
 **Prep Time:** 10 minutes
 

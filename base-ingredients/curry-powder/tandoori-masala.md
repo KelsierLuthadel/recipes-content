@@ -1,5 +1,8 @@
 # Tandoori Masala
 
+*A dry tandoori spice mix: paprika, Kashmiri chilli, ginger, garlic, cumin and amchoor.*
+
+
 **Prep Time:** 10 minutes
 
 ![Tandoori Masala](resources/tandoori-masala.jpg)

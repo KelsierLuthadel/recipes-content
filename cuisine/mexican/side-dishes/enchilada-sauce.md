@@ -2,6 +2,9 @@
 
 ![Authentic Enchilada Sauce](resources/enchilada-sauce.png)
 
+*An authentic Mexican enchilada sauce: dried red chillies (ancho, guajillo) toasted and blended with garlic.*
+
+
 ## Overview
 Rich, robust, and a thousand times better than store-bought, this authentic enchilada sauce packs serious flavour. Made from dried Mexican chillies, roasted aromatics, and traditional spices, this sauce is the foundation of great enchiladas and tacos. The balance of heat, depth, and subtle sweetness creates a versatile sauce that elevates any Mexican dish.
 

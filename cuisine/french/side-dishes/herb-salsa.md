@@ -1,5 +1,8 @@
 # Herb Salsa
 
+*A French herb salsa: chopped parsley, tarragon, chervil and chives mixed with capers, shallot and olive oil.*
+
+
 **Cook Time:** 15 minutes
 
 ![Herb Salsa](resources/herb-salsa.png)

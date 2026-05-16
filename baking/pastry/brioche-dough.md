@@ -1,5 +1,8 @@
 # Brioche dough
 
+*The French enriched dough: bread flour kneaded with eggs, butter, milk and a touch of sugar. The base for buns, loaves and pithiviers.*
+
+
 **Prep Time:** 5 minutes
 **Cook Time:** 31 minutes
 

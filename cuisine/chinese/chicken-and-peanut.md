@@ -2,6 +2,9 @@
 
 ![Chicken and Peanut](resources/chicken-peanut.jpg)
 
+*A Chinese stir-fry: diced chicken tossed hot with roasted peanuts, dried chilli and a glossy soy-and-vinegar sauce.*
+
+
 ## Overview
 When cooking Chinese food, it's essential to think about the flavours and textures of ingredients working in harmony. Juicy chicken combined with succulent baby corn, tender vegetables, and salty, crunchy cashew nuts create a balanced dish where each element complements the others. A glossy sauce ties everything together without overwhelming delicate flavours.
 

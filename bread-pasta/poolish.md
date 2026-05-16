@@ -1,5 +1,8 @@
 # Poolish (Bread Pre-Ferment)
 
+*A bread pre-ferment: equal weights of flour and water with a pinch of yeast left overnight till bubbly.*
+
+
 **Prep Time:** 5 minutes
 
 ![Poolish](resources/poolish.jpg)

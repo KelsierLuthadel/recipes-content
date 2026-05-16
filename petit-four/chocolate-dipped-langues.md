@@ -1,5 +1,8 @@
 # Chocolate-Dipped Langues de Chat
 
+*Thin French langues de chat (cat's tongues) cookies, half-dipped in melted dark chocolate.*
+
+
 **Prep Time:** 5 minutes
 
 ![Chocolate-Dipped Langues de Chat](resources/Langues-de-chat.jpg)

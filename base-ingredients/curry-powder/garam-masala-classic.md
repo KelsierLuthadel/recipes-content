@@ -1,5 +1,8 @@
 # Garam Masala (Classic)
 
+*The classic garam masala: warm whole spices toasted and ground (cardamom, cinnamon, clove, pepper, cumin).*
+
+
 **Prep Time:** 10 minutes
 
 ![Garam Masala](resources/garam-masala.jpg)

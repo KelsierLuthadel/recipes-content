@@ -1,5 +1,8 @@
 # White Bread
 
+*The home-baker's white loaf: bread flour, yeast, salt, water and a touch of butter kneaded into a soft dough.*
+
+
 **Prep Time:** 5 minutes
 
 ![White Bread](resources/white-bread.jpg)

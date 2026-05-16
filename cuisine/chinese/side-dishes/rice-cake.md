@@ -1,5 +1,8 @@
 # Rice cake
 
+*A Chinese pressed rice cake: cooked short-grain rice pressed into a tin and cut into cubes.*
+
+
 **Cook Time:** 1 minutes
 
 ![Rice cake](resources/rice-cake.jpg)

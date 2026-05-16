@@ -2,6 +2,9 @@
 
 ![Manhattan seafood chowder](resources/manhattan-chowder.png)
 
+*Manhattan's tomato-based seafood chowder: clams, fish and prawns simmered in a tomato broth with celery, onion and herbs.*
+
+
 **Serves:** 4
 
 **Prep Time:** 15 minutes

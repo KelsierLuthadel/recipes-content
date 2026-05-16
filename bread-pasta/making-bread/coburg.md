@@ -1,4 +1,7 @@
 # Coburg
+
+*A British coburg: a round loaf slashed across the top in a deep cross, baked to open in four crusty quarters. Plain crumb, dramatic shape.*
+
 A Coburg is similar to a cob except that it has a cross slashed into the top.
 
 ![Step 1](resources/coburg-1.jpg)

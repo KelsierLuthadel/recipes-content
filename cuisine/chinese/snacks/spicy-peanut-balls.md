@@ -1,5 +1,8 @@
 # Spicy peanut balls
 
+*Sichuan spicy peanut balls: roasted peanuts coated in a glossy chilli-sugar caramel and rolled into small clusters.*
+
+
 **Prep Time:** 15 minutes
 
 ![Spicy peanut balls](resources/spicy-peanut-balls.jpg)

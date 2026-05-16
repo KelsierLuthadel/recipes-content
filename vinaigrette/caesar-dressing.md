@@ -1,5 +1,8 @@
 # Caesar Dressing
 
+*America's Caesar dressing: egg yolk, garlic, anchovy, lemon, Dijon, Worcestershire and grated Parmesan whisked into a thick creamy emulsion.*
+
+
 **Prep Time:** 15 minutes
 
 ![Caesar Dressing](resources/caesar.png)

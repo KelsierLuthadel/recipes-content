@@ -2,6 +2,9 @@
 
 ![Chicken Satay with Peanut Sauce](resources/chicken-satay.jpg)
 
+*Thailand's chicken satay: marinated chicken thigh threaded onto bamboo skewers, grilled hot over coals and dipped in a thick peanut sauce.*
+
+
 
 **Serves:** 6
 

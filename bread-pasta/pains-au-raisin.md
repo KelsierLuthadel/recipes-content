@@ -1,5 +1,8 @@
 # Pains au raisins
 
+*France's spiral pastry: a butter-laminated croissant dough rolled around a crème pâtissière and raisins.*
+
+
 **Prep Time:** 5 minutes
 
 ![Pains au raisins](resources/pains-aux-raisin.jpg)

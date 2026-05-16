@@ -2,6 +2,9 @@
 
 ![Thai-Style Chilli Garlic Edamame](resources/chilli-garlic-edamame.jpg)
 
+*A Thai-style edamame snack: pods tossed in a hot wok with garlic, dried chillies, soy and a splash of sesame oil.*
+
+
 
 **Serves:** 4 as a starter
 

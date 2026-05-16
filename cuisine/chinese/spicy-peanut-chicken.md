@@ -2,6 +2,9 @@
 
 ![Spicy Chicken with Peanuts](resources/gongbaoji.jpg)
 
+*A Sichuan spicy chicken: diced chicken stir-fried hot with roasted peanuts, dried chillies, garlic and a sticky soy-vinegar sauce.*
+
+
 ## Overview
 This is a classic western Chinese dish better known in China as Gongbao chicken (or Kung Pao chicken). Named after Chinese official Ding Baozhen, Governor of Sichuan province in the nineteenth century, it represents the region's bold approach to flavour: spicy, slightly sour, sweet, and savoury all at once. The combination of roasted peanuts and dried chilli creates an unforgettable sauce.
 

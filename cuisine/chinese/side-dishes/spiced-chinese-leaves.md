@@ -2,6 +2,9 @@
 
 ![Spiced Chinese leaves](resources/chinese-leaves.jpg)
 
+*A Sichuan-spiced cabbage side: Chinese leaves stir-fried hot with dried chillies, garlic, Sichuan peppercorns and a splash of black vinegar.*
+
+
 *Unlike the more familiar green and red cabbage, Chinese leaves have a bland, sweet flavour which is delicate, rather like lettuce. Cooking is needed to make it palatable, and because it is so light, it calls for a robust sauce.
 *
 

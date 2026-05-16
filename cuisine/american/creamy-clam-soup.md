@@ -2,6 +2,9 @@
 
 ![Creamy clam soup](resources/creamy-clam-soup.jpg)
 
+*An American creamy clam soup: fresh clams steamed open, the broth thickened with cream and potato.*
+
+
 **Serves:** 4
 
 **Prep Time:** 20 minutes

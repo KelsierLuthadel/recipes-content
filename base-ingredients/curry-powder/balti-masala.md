@@ -1,5 +1,8 @@
 # Balti Masala
 
+*A dry balti spice mix: coriander, cumin, fenugreek and dried chilli toasted and ground.*
+
+
 **Prep Time:** 10 minutes
 
 ![Balti Masala](resources/balti-masala.jpg)

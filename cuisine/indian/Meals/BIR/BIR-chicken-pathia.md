@@ -2,6 +2,9 @@
 
 ![Chicken Pathia](resources/BIR-chicken-pathia.jpg)
 
+*A BIR chicken pathia: pre-cooked chicken in a sweet-sour-spicy Parsi-inspired gravy of tamarind, sugar and chilli.*
+
+
 
 **Serves:** 4
 

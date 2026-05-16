@@ -1,5 +1,8 @@
 # Vindaloo Spice Mix
 
+*A vindaloo spice mix: dried red chillies, vinegar-friendly spices (mustard, cumin, coriander, black pepper) and a heavy hand of chilli.*
+
+
 **Prep Time:** 5 minutes
 
 ![Vindaloo Spice Mix](resources/vindaloo-mix.jpg)

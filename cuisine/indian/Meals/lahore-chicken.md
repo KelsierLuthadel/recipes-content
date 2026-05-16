@@ -2,6 +2,9 @@
 
 ![Simple Lahori Chicken Curry](resources/lahore-chicken.jpg)
 
+*A simple Lahori chicken curry: bone-in chicken in a tomato-and-onion gravy with ginger, garlic, green chilli and garam masala.*
+
+
 
 **Serves:** 4
 **Prep Time:** 20 minutes

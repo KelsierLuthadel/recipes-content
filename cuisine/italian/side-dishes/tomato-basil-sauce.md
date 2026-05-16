@@ -1,5 +1,8 @@
 # Tomato and Basil Sauce
 
+*Italy's plain tomato-basil sauce: tinned tomatoes simmered slow with garlic, olive oil and a handful of fresh basil at the end.*
+
+
 **Prep Time:** 10 minutes
 
 ![Tomato and Basil Sauce](resources/tomato-basil-sauce.jpg)

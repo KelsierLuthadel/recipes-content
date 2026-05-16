@@ -1,5 +1,8 @@
 # Stir fried mange tout with waterchestnuts
 
+*A Cantonese side: mange tout and sliced water chestnuts stir-fried hot with garlic, ginger and a splash of soy. Crisp, sweet and snappy.*
+
+
 **Prep Time:** 10 minutes
 **Cook Time:** 4 minutes
 

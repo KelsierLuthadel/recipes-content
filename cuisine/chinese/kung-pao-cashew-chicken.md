@@ -2,6 +2,9 @@
 
 ![Sichuan Chicken with Kung Pao Sauce](resources/kung-pao-cashew.jpg)
 
+*Sichuan's Kung Pao with cashews instead of peanuts: chicken cubes stir-fried hot with dried chillies, Sichuan peppercorns, garlic.*
+
+
 ## Overview
 This recipe from the Sichuan region of western China showcases the region's trademark use of chillies combined with the modern addition of cashew nuts. The sauce is complex and layered, savoury from fermented beans and hoisin, spicy from dried chillies, and balanced with vinegar's acidity and sugar's sweetness. The result is distinctly Chinese in technique yet contemporary in execution.
 

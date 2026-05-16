@@ -2,6 +2,9 @@
 
 ![Sweet and Sour Prawns](resources/ss-prawns.jpg)
 
+*Cantonese sweet and sour prawns: battered prawns deep-fried crisp and tossed in a tangy pineapple-vinegar-sugar sauce with peppers and on.*
+
+
 ## Overview
 This is a very popular Chinese dish where the sweet and pungent flavours of the sauce combine beautifully with firm, succulent prawns. Simple to make and elegant enough for entertaining, it can be served as part of a larger Chinese meal or as a standalone starter. The balance of sweet, sour, spicy, and savoury creates an unforgettable sauce.
 

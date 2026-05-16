@@ -2,6 +2,9 @@
 
 ![Lamb Madras](resources/BIR-Lamb-madrass.jpg)
 
+*The BIR lamb madras: pre-cooked lamb in a hot, dark gravy of tomato, chilli, garlic and curry powder.*
+
+
 
 **Serves:** 4
 

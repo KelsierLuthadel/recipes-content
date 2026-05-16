@@ -2,6 +2,9 @@
 
 ![Angry Bird](resources/angry-bird.jpg)
 
+*A fiery Indian chicken curry: bone-in chicken in a chilli-heavy gravy of onion, tomato, dried chillies and Kashmiri red.*
+
+
 
 **Serves:** 4
 

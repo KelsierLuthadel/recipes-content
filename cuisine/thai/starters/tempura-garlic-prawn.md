@@ -2,6 +2,9 @@
 
 ![Tempura Garlic Prawns](resources/tempura-garlic-prawn.jpg)
 
+*Tempura garlic prawns: whole prawns dipped in a light tempura batter spiked with fried garlic, deep-fried till crisp and pale gold.*
+
+
 
 **Makes:** 20
 

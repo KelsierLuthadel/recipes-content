@@ -2,6 +2,9 @@
 
 ![Korma](resources/korma.jpg)
 
+*A classic chicken korma: bone-in chicken in a creamy almond-and-yogurt sauce scented with cardamom, cinnamon and saffron.*
+
+
 **Serves:** 4
 **Prep Time:** 10 minutes
 

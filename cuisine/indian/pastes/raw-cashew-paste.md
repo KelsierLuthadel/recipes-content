@@ -2,6 +2,9 @@
 
 ![Raw Cashew Paste](resources/raw-cashew-paste.jpg)
 
+*A raw cashew paste: cashews soaked till tender and blended smooth with a little water.*
+
+
 
 **Makes:** Variable (as needed)
 

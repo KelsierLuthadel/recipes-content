@@ -1,5 +1,8 @@
 # Peri-Peri Marinade
 
+*A Mozambican-Portuguese piri-piri marinade: bird's-eye chillies, garlic, lemon.*
+
+
 **Prep Time:** 10 minutes
 
 ![Peri Peri](resources/peri-peri.jpg)

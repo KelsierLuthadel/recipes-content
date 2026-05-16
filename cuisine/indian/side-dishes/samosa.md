@@ -1,5 +1,8 @@
 # Samosas
 
+*India's iconic tea-time triangle: a crisp pastry pocket stuffed with spiced potato and peas, deep-fried golden.*
+
+
 **Prep Time:** 15 minutes
 **Cook Time:** 1 minutes
 

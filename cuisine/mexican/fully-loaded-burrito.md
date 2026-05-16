@@ -2,6 +2,9 @@
 
 ![Fully Loaded Burrito](resources/fully-loaded-burrito.jpg)
 
+*A fully-loaded burrito: a warm flour tortilla wrapped around spiced beef, refried beans, rice, salsa, guacamole.*
+
+
 
 ## Overview
 The fully loaded burrito is where all of your hard work and efforts come together to repay you in full. Packed with your choice of seasoned meat or vegetables, flavourful rice, smooth and filling beans, cheese, salsa and more, it's an entire meal wrapped up to go. This customizable template allows you to build your perfect burrito based on available ingredients and personal preference.

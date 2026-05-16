@@ -2,6 +2,9 @@
 
 ![Stir-Fried Pork with Spring Onions](resources/stir-fried-pork.jpg)
 
+*A Chinese stir-fry: thin strips of pork tossed hot with sliced spring onion, garlic and a glossy soy-and-Shaoxing sauce.*
+
+
 ## Overview
 This simple stir-fried dish in the southern Chinese tradition showcases how elemental technique and timing create exceptional results. The key to success is not to overcook the pork. A brief marinade tenderizes the meat and infuses flavour, while spring onions added late retain their fresh bite and delicate onion flavour.
 

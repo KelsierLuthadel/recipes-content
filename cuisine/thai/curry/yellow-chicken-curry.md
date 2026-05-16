@@ -2,6 +2,9 @@
 
 ![Yellow Chicken Curry](resources/yellow-chicken-curry.jpg)
 
+*Thailand's yellow chicken curry: chicken in a turmeric-tinted coconut sauce with potato, onion and a milder yellow curry paste.*
+
+
 
 **Serves:** 4
 

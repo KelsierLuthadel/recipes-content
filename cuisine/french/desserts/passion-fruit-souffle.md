@@ -2,6 +2,9 @@
 
 ![Passion fruit and kiwi soufflé](resources/passion-fruit-souffle.jpg)
 
+*A French fruit soufflé: passion fruit and kiwi purée folded into whipped egg whites and baked hot till risen.*
+
+
 **Serves:** 10
 **Prep Time:** 10 minutes
 **Cook Time:** 9 minutes

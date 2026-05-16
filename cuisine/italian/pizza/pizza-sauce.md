@@ -1,5 +1,8 @@
 # Pizza Sauce
 
+*Italy's plain pizza sauce: tinned San Marzano tomatoes crushed by hand with salt, olive oil and a small leaf of basil.*
+
+
 **Cook Time:** 3 minutes
 
 ![Pizza Sauce](resources/pizza-sauce.jpg)

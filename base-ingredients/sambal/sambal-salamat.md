@@ -1,5 +1,8 @@
 # Sambal Salamat
 
+*A Malay sambal: red chillies, garlic and shallot pounded with palm sugar and fried in oil. A sticky-spicy condiment for fried fish and rice.*
+
+
 **Prep Time:** 10 minutes
 
 ![Sambal Salamat](resources/sambal-salamat.jpg)

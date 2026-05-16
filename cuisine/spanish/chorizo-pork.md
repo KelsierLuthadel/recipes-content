@@ -2,6 +2,9 @@
 
 ![Chorizo Pork with Crispy New Potatoes](resources/chorizo-pork.jpg)
 
+*A Spanish pork plate: chunks of pork tenderloin pan-seared with sliced chorizo and roasted with crispy new potatoes in olive oil.*
+
+
 ## Overview
 A vibrant Spanish dish combining tender pork tenderloin and spiced chorizo sausage in a rich tomato sauce, served alongside crispy roasted new potatoes. The chorizo releases its flavourful oils into the sauce while the potatoes develop golden, crispy exteriors. Bright lemon juice balances the richness of the pork and chorizo, creating a dish that is both comforting and fresh.
 

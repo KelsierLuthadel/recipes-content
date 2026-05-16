@@ -2,6 +2,9 @@
 
 ![Pork and Vegetable Spring Rolls](resources/pork-spring-rolls.jpg)
 
+*Thailand's pork-and-vegetable spring rolls: thin rice-paper wrappers around a filling of pork mince, shredded carrot.*
+
+
 
 **Makes:** 30
 

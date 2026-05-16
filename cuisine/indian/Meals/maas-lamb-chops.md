@@ -2,6 +2,9 @@
 
 ![Maa’s Lamb Chops](resources/maas-lamb-chops.jpg)
 
+*Maa's lamb chops: lamb chops marinated in yogurt, ginger, garlic and garam masala, then pan-fried till the spice crust chars.*
+
+
 
 **Serves:** 4
 

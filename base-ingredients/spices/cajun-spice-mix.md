@@ -1,5 +1,8 @@
 # Cajun Spice Mix
 
+*Louisiana's Cajun blackening blend: paprika, cayenne, garlic powder, onion powder, oregano and thyme.*
+
+
 **Prep Time:** 10 minutes
 
 ![Cajun Spice Mix](resources/cajun-spice-mix.jpg)

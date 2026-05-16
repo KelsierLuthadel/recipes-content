@@ -2,6 +2,9 @@
 
 ![Salade Niçoise with Seared Tuna](resources/salade-nicoise-moderne.jpg)
 
+*A modern Niçoise: seared fresh tuna instead of tinned, served with the classic composed plate of tomatoes, eggs, beans, olives.*
+
+
 **Serves:** 4
 
 **Prep Time:** 15 minutes

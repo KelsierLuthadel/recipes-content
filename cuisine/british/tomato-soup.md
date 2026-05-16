@@ -2,6 +2,9 @@
 
 ![Tomato Soup](resources/tomato-soup.jpg)
 
+*The British tomato soup: ripe tomatoes simmered with onion, carrot and basil, blended smooth, finished with cream and a swirl of olive oil.*
+
+
 *This soup stands up as either a start or a main course, and can either be served as a stew or as a purée. If serving as a purée, then adding a little cream at the end makes this soup wonderfully smooth. The real beauty of course is how simple it is to make, especially when served with fresh warm bread and topped with croûtons. 
 
 This soup can be served as a vegetarian dish, by removing the bacon and substituting the chicken stock with vegetable stock.*

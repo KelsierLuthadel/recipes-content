@@ -1,6 +1,9 @@
 # Tom Kha Gai Soup (Chicken, Galangal and Coconut Soup)
 
 ![Tom Kha Gai Soup (Chicken, Galangal and Coconut Soup)](resources/tom-kha-gai-soup.jpg)
+
+*Thailand's tom kha gai: chicken and mushrooms in a galangal-and-coconut milk broth with lemongrass, kaffir lime and lime juice.*
+
 **Serves:** 4-6
 
 **Prep time:** 10 mins

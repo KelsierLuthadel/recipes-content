@@ -1,6 +1,9 @@
 # Velouté sauce
 
 ![Velouté sauce](resources/veloute.jpg)
+
+*France's velouté: fish stock thickened with a blond butter-and-flour roux into a silky pale sauce.*
+
 **Serves:** 4 (makes 1 litre)
 
 **Prep Time:** 5 minutes

@@ -1,5 +1,8 @@
 # KFC-Style Herbs and Spices
 
+*The home-cook take on KFC's eleven herbs and spices: a closely-guessed blend of paprika, garlic, ginger, thyme, oregano and white pepper.*
+
+
 **Prep Time:** 10 minutes
 
 ![KFC Spice Mix](resources/kfc.jpg)

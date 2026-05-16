@@ -1,5 +1,8 @@
 # Tandoori Masala Paste
 
+*A wet tandoori paste: yogurt, garlic, ginger, lemon and a deep red tandoori spice blend.*
+
+
 **Prep Time:** 15 minutes
 **Cook Time:** 2 minutes
 

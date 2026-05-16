@@ -2,6 +2,9 @@
 
 ![Chicken Dopiaza](resources/BIR-chicken-dopiaza.jpg)
 
+*A BIR chicken dopiaza: pre-cooked chicken in a gravy with two stages of onion (slow-cooked in the base and freshly sautéed at the finish).*
+
+
 
 **Serves:** 4
 

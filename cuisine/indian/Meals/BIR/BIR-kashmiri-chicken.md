@@ -2,6 +2,9 @@
 
 ![Kashmiri chicken](resources/BIR-kashmiri-chicken.jpg)
 
+*A BIR Kashmiri chicken: pre-cooked chicken in a sweet creamy sauce with lychees, banana and coconut.*
+
+
 
 **Serves:** 4
 

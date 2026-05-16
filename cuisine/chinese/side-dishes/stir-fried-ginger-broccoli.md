@@ -2,6 +2,9 @@
 
 ![Stir-fried ginger broccoli](resources/broccoli-ginger-sesame.jpg)
 
+*A Cantonese broccoli side: florets blanched briefly, then stir-fried hot with sliced ginger, garlic and a splash of oyster sauce.*
+
+
 *This dish is best suited to sprouting broccoli, which has a lovely purple hue. This dish can be served at room temperature in the summer as a wonderful salad accompaniment. 
 *
 

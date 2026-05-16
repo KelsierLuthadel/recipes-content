@@ -1,5 +1,8 @@
 # St-Genix Brioches with Pink Pralines
 
+*Brioches from St-Genix: enriched butter-and-egg dough studded with pink pralines (sugar-coated almonds), baked into small golden buns.*
+
+
 **Cook Time:** 1 minutes
 
 ![Brioches](resources/brioches.jpg)

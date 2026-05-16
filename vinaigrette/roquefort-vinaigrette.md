@@ -1,5 +1,8 @@
 # Roquefort Vinaigrette
 
+*A Roquefort vinaigrette: crumbled blue cheese whisked into olive oil, walnut oil, sherry vinegar and a touch of Dijon.*
+
+
 **Prep Time:** 10 minutes
 
 ![Roquefort Vinaigrette](resources/roquefort.jpg)

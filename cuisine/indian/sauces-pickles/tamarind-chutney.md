@@ -1,5 +1,8 @@
 # Tamarind Chutney
 
+*India's sweet-sour tamarind chutney: tamarind pulp simmered with jaggery.*
+
+
 **Prep Time:** 15 minutes
 
 ![Tamarind Chutney](resources/tamarind-chutney.jpg)

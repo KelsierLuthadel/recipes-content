@@ -2,6 +2,9 @@
 
 ![Kung Pao Chicken](resources/kung-pao.jpg)
 
+*Sichuan's Kung Pao chicken: diced chicken stir-fried hot with dried chillies, Sichuan peppercorns, garlic, ginger and roasted peanuts.*
+
+
 ## Overview
 This iconic hot and spicy chicken from western China showcases contrasting flavours, heat from chillies and Sichuan peppercorns balanced with subtle sweetness. The numbing quality of Sichuan peppercorns and the fragrance of slow-braising creates an aromatic dish that is equally delicious served immediately or reheated the next day.
 

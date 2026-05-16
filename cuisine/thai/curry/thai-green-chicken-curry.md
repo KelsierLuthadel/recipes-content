@@ -2,6 +2,9 @@
 
 ![Thai Green Chicken Curry](resources/thai-green-chicken-curry.jpg)
 
+*Thailand's green chicken curry: chicken simmered in a coconut sauce built on fresh-green-chilli paste with lemongrass.*
+
+
 
 **Serves:** 4
 

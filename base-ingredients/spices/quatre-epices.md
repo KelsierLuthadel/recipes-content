@@ -1,5 +1,8 @@
 # Quatre Épices (Four Spices)
 
+*France's 'four spices': ground pepper, clove, ginger and nutmeg in a specific ratio.*
+
+
 **Prep Time:** 10 minutes
 
 ![Quatre Épices](resources/quatre.jpg)

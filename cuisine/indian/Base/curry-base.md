@@ -1,5 +1,8 @@
 # B.I.R Curry Base
 
+*The British-Indian-Restaurant curry base: onion, garlic and ginger slow-simmered with spices, then blended smooth.*
+
+
 **Prep Time:** 10 minutes
 
 ![Base Gravy](resources/gravy.jpg)

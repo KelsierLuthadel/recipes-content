@@ -1,5 +1,8 @@
 # Malayan Curry Powder
 
+*A Malaysian-Chinese curry powder: turmeric, coriander, cumin and fennel scented with cinnamon and star anise.*
+
+
 **Prep Time:** 15 minutes
 
 ![Malayan Curry Powder](resources/malayan-curry-powder.jpg)

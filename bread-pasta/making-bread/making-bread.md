@@ -1,5 +1,8 @@
 # Making bread
 ![bread](resources/bread.jpg)
+
+*A guide to bread-making fundamentals: flour, water, salt and yeast turned into a loaf through mixing, kneading, proving and baking.*
+
 There is nothing quite like the tantalising aroma of freshly baked bread, taking that first bite through the delicate crust into the warm soft fluffy body. Making bread this fine however, is an art usually held dear to the artisan baker. I'd like to share with you a few time honoured methods to ensure that your bread comes out perfect every time.
 
 ## Sticky dough

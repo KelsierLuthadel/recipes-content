@@ -2,6 +2,9 @@
 
 ![Go Bo Hoi An](resources/go-bo-hoi-an.jpg)
 
+*Hoi An's gỏi bò: a beef salad of thin-sliced grilled steak tossed with herbs, lemongrass, chilli, lime, fish sauce and palm sugar.*
+
+
 ## Overview
 Go Bo Hoi An is a piquant Vietnamese beef salad featuring thinly sliced seared beef tossed with crisp vegetables, fresh herbs, and a bright tamarind-lime dressing. This dish has delicate undertones of lime and garlic which carry through the tamarind flavours perfectly. The combination of tender beef, crunchy vegetables, aromatic herbs, and crispy rice papers creates a textural and flavourful celebration of Vietnamese cuisine. Quick to make but requires advance preparation, ensure the salad, dressing, and toppings are made and ready to use before cooking the beef.
 

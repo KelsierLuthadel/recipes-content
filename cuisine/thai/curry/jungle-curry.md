@@ -2,6 +2,9 @@
 
 ![Chicken Jungle Curry](resources/jungle-curry.jpg)
 
+*Thailand's jungle curry: a brothy, fierce, coconut-free curry of chicken with bamboo shoots, green peppercorns and a fresh chilli paste.*
+
+
 
 **Serves:** 4
 

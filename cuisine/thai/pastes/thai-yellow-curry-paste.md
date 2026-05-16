@@ -2,6 +2,9 @@
 
 ![Yellow Curry Paste](resources/thai-yellow-curry-paste.jpg)
 
+*Thailand's yellow curry paste: turmeric, dried chillies, lemongrass, galangal and shrimp paste pounded into a mild golden base.*
+
+
 
 **Makes:** Approx. 250 ml (1 cup)
 

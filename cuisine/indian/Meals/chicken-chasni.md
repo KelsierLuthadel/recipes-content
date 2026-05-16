@@ -2,6 +2,9 @@
 
 ![Chicken Chasni](resources/chicken-chasni.png)
 
+*The Scottish chasni: chicken simmered in a sweet-sour creamy sauce built on mango chutney, tomato ketchup and yogurt.*
+
+
 **Serves:** 4
 **Prep Time:** 10 minutes
 

@@ -2,6 +2,9 @@
 
 ![Thai Red Curry Paste](resources/thai-red-curry-paste.jpg)
 
+*Thailand's red curry paste: dried red chillies, lemongrass, galangal, kaffir lime, garlic and shrimp paste pounded into a deep.*
+
+
 
 **Makes:** Approx. 250 ml (1 cup)
 

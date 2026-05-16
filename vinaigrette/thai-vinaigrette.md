@@ -1,5 +1,8 @@
 # Thai Vinaigrette
 
+*A Thai-style vinaigrette: fish sauce, lime juice, palm sugar, garlic and chilli whisked together.*
+
+
 **Prep Time:** 10 minutes
 
 ![Thai Vinaigrette](resources/thai.png)

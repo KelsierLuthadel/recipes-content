@@ -2,6 +2,9 @@
 
 ![Chicken korma](resources/BIR-Chicken-Korma.jpg)
 
+*The BIR chicken korma: pre-cooked chicken in a sweet, mild creamy sauce of ground almond, coconut, sugar and cream.*
+
+
 
 **Serves:** 4
 

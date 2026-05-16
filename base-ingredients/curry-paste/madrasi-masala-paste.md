@@ -1,5 +1,8 @@
 # Madrasi Masala Paste
 
+*A South Indian wet paste: dry-roasted curry leaves, chilli and coriander pounded with garlic, ginger and oil.*
+
+
 **Prep Time:** 15 minutes
 **Cook Time:** 2 minutes
 

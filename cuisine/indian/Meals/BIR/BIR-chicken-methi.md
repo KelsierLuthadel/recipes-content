@@ -2,6 +2,9 @@
 
 ![Chicken Methi Curry](resources/BIR-chicken-methi.jpg)
 
+*A BIR chicken methi: pre-cooked chicken in a curry-base gravy heavy with dried fenugreek leaves (kasoori methi).*
+
+
 
 **Serves:** 4
 

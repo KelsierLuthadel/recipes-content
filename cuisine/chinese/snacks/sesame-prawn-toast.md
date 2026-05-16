@@ -1,5 +1,8 @@
 # Chinese Sesame Prawn Toast
 
+*The Cantonese takeaway starter: minced prawn paste spread on white bread, dipped in sesame seeds.*
+
+
 **Prep Time:** 15 minutes
 **Cook Time:** 4 minutes
 

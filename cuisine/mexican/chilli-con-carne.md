@@ -2,6 +2,9 @@
 
 ![Chilli con carne](resources/jays_chilli.jpg)
 
+*A Tex-Mex chilli con carne: beef and pork slow-cooked with kidney beans, tomato, chipotle and a heavy hand of chilli, cumin and oregano.*
+
+
 ## Overview
 Chilli con carne is a hearty, flavour-packed stew that celebrates bold Mexican spicing combined with slow-cooked beef, beans, and tomatoes. This version builds deep, complex flavours through toasted whole spices, umami ingredients (marmite and soy sauce), and slow simmering. The result is a comforting, warming dish that improves with time and is perfect for feeding a crowd.
 

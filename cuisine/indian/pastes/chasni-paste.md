@@ -2,6 +2,9 @@
 
 ![Chasni Paste](resources/chasni-paste.jpg)
 
+*The wet chasni paste: mango chutney, ketchup, yogurt and lemon whisked with toasted spices.*
+
+
 
 **Makes:** About 1 cup
 

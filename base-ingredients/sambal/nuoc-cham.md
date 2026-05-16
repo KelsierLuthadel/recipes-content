@@ -1,5 +1,8 @@
 # Nuoc Cham
 
+*Vietnam's table sauce: fish sauce, lime juice, sugar.*
+
+
 **Prep Time:** 5 minutes
 
 ![Nuoc Cham](resources/nuoc-cham.jpg)

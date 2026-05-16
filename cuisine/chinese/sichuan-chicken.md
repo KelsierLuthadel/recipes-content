@@ -2,6 +2,9 @@
 
 ![Sichuan Chicken](resources/sichuan-chicken.jpg)
 
+*A Sichuan chicken stir-fry: diced chicken tossed hot with Sichuan peppercorns, dried chillies, garlic and ginger.*
+
+
 ## Overview
 This straightforward Sichuan preparation showcases the region's bold use of chillies and spices. The technique is simple: season, rest, and cook in layers, building flavour as you go. Oyster sauce adds depth, while seven spices (chilli power, Sichuan pepper, salt, garlic, ginger, pepper) create a full-bodied dish.
 

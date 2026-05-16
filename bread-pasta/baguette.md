@@ -1,5 +1,8 @@
 # Baguette
 
+*France's everyday loaf: a long thin crusty bread with a chewy white crumb.*
+
+
 **Prep Time:** 10 minutes
 
 ![Baguette](resources/baguette.jpg)

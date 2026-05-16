@@ -1,5 +1,8 @@
 # Jamaican Jerk Marinade
 
+*Jamaica's wet jerk marinade: Scotch bonnet, allspice, thyme, ginger, garlic, spring onion, soy and lime pureed into a fierce paste.*
+
+
 **Prep Time:** 15 minutes
 **Cook Time:** 1 minutes
 

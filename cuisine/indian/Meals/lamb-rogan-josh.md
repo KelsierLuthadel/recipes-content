@@ -2,6 +2,9 @@
 
 ![Lamb Rogan Josh](resources/rogan-josh.png)
 
+*Kashmir's rogan josh: bone-in lamb slow-cooked in a deep red gravy of Kashmiri chilli, yogurt and aromatic spices.*
+
+
 **Serves:** 4
 **Prep Time:** 15 minutes
 

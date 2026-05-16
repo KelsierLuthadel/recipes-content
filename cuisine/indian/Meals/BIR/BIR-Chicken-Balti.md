@@ -1,5 +1,8 @@
 # Chicken Balti
 
+*The Birmingham balti: pre-cooked chicken finished hot in a balti pan with the curry base, balti masala, fresh tomato and coriander.*
+
+
 **Prep Time:** 10 minutes
 **Cook Time:** 3 minutes
 

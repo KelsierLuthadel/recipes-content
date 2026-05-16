@@ -1,5 +1,8 @@
 # Green Balti Masala Paste
 
+*A fresh green masala paste: ginger, garlic, green chilli, coriander and mint pounded into a vivid herb-and-spice base for lighter curries.*
+
+
 **Prep Time:** 15 minutes
 
 ![Green Masala Paste](resources/green-masala.jpg)

@@ -2,6 +2,9 @@
 
 ![New England clam chowder](resources/new-england.jpg)
 
+*New England's creamy clam chowder: fresh clams, salt pork and potato in a rich milk-and-cream broth.*
+
+
 **Serves:** 4
 
 **Prep Time:** 15 minutes

@@ -1,5 +1,8 @@
 # Sambal Belacan
 
+*Malaysia's everyday chilli paste: fresh red chillies pounded with toasted belacan (shrimp paste) and lime juice.*
+
+
 **Prep Time:** 10 minutes
 **Cook Time:** 14 minutes
 

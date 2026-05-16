@@ -2,6 +2,9 @@
 
 ![Thai Beef Massaman Curry](resources/thai-beef-massaman.jpg)
 
+*Thailand's massaman beef: beef simmered slow in a coconut-milk curry with potato, peanuts, cinnamon and tamarind.*
+
+
 
 **Serves:** 4
 

@@ -1,5 +1,8 @@
 # Tomato Vinaigrette
 
+*A tomato vinaigrette: ripe tomato blended smooth with olive oil, sherry vinegar and basil.*
+
+
 **Prep Time:** 5 minutes
 
 ![Tomato Vinaigrette](resources/tomato.png)

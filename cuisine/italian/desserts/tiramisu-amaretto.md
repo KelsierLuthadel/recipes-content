@@ -2,6 +2,9 @@
 
 ![Tiramisu with Amaretto and Cream](resources/tiramisu-amaretto.jpg)
 
+*A tiramisu with amaretto: espresso-soaked savoiardi layered with a mascarpone cream spiked with amaretto liqueur, dusted thickly with cocoa.*
+
+
 **Serves:** 4
 **Prep Time:** 5 minutes
 

@@ -1,5 +1,8 @@
 # Steamed Rice
 
+*China's plain steamed rice: long-grain rice rinsed and cooked in a covered pot till the water absorbs and the grains stay separate.*
+
+
 **Cook Time:** 20 minutes
 
 ![Steamed Rice](resources/steamed-rice.jpg)

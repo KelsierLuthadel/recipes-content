@@ -1,5 +1,8 @@
 # Fried wuntun
 
+*Cantonese fried wontons: thin wrappers folded around a pork-and-prawn filling, deep-fried till the corners crackle.*
+
+
 **Prep Time:** 15 minutes
 
 ![Fried wuntun](resources/wonton.jpg)

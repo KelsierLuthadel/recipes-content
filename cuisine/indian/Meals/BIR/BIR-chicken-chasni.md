@@ -2,6 +2,9 @@
 
 ![Chicken Chasni](resources/BIR-chicken-chasni.jpg)
 
+*The Scottish curry-house chasni: pre-cooked chicken in a sweet-sour creamy sauce built on mango chutney, tomato ketchup and yogurt.*
+
+
 
 **Serves:** 4
 

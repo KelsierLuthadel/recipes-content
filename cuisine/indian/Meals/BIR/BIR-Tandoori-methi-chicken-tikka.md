@@ -2,6 +2,9 @@
 
 ![Tandoori Methi Chicken Tikka](resources/BIR-Tandoori-methi-chicken-tikka.jpg)
 
+*BIR tandoori methi chicken tikka: yogurt-marinated chicken thighs blended with dried fenugreek leaves and tandoori spice.*
+
+
 
 **Serves:** 4
 

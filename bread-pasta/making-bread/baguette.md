@@ -1,5 +1,8 @@
 # Baguette Shaping (Classic Cylindrical Roll Method)
 
+*The classic baguette shape: dough pre-shaped into rectangles, then rolled into long thin cylinders with tapered ends.*
+
+
 **Cook Time:** 1 minutes
 
 ![Baguette Step 1](resources/baguette-1.jpg)

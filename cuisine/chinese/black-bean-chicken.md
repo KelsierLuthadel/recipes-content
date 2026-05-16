@@ -2,6 +2,9 @@
 
 ![Chicken in Black Bean Sauce](resources/black-bean.jpg)
 
+*A Cantonese stir-fry: chicken pieces tossed hot in a sauce of salted black beans, garlic, ginger and Shaoxing wine.*
+
+
 ## Overview
 A classic Chinese dish bursting with the fragrance of black bean and garlic. Chicken wings are ideal for this preparation as they cook quickly in a high-heat wok while remaining succulent and flavourful. The fermented black beans add depth and a distinctive umami character that defines authentic Chinese cooking.
 

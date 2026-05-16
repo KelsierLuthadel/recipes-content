@@ -1,5 +1,8 @@
 # Pineapple Salsa with Coriander
 
+*A Mexican pineapple salsa: diced fresh pineapple with red onion, jalapeño, lime juice and a generous handful of fresh coriander.*
+
+
 **Prep Time:** 10 minutes
 
 ![Pineapple Salsa with Coriander](resources/pineapple-salsa.png)

@@ -2,6 +2,9 @@
 
 ![Green Papaya Salad](resources/green-papaya-salad.jpg)
 
+*Thailand's som tam: shredded green papaya pounded with garlic, chilli, lime, fish sauce, palm sugar, peanuts and dried shrimp.*
+
+
 
 **Serves:** 4
 

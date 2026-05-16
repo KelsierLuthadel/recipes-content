@@ -2,6 +2,9 @@
 
 ![Lamb Bhuna](resources/BIR-Lamb-bhuna.jpg)
 
+*The BIR lamb bhuna: pre-cooked lamb in a thick, dry-fried gravy of onion, tomato, garlic and ginger.*
+
+
 
 **Serves:** 4
 

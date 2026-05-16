@@ -1,5 +1,8 @@
 # Pakora Sauce
 
+*The Scottish pakora sauce: yogurt, mango chutney, mint sauce and chilli whisked together for the curry-house starter dip.*
+
+
 **Prep Time:** 10 minutes
 **Cook Time:** 1 minutes
 

@@ -1,4 +1,7 @@
 # Épi
+
+*The French wheat-sheaf loaf: a long baguette cut at angles to fan out as it bakes, mimicking an ear of wheat.*
+
 Épi is a French bread shape that resembles an ear of wheat and is quite easy to make.
 
 ![Step 1](resources/epi-1.jpg)

@@ -1,5 +1,8 @@
 # Pesto
 
+*Genoa's basil pesto: fresh basil pounded with pine nuts, garlic, Parmesan, Pecorino and olive oil into a vivid green sauce.*
+
+
 **Prep Time:** 10 minutes
 **Cook Time:** 1 minutes
 

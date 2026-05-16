@@ -2,6 +2,9 @@
 
 ![Fried Onion Paste](resources/fried-onion-paste.jpg)
 
+*A pre-made fried-onion paste: onions slow-fried till deep brown and almost-burnt, blitzed to a sticky dark paste.*
+
+
 
 **Makes:** About 1 cup paste
 

@@ -2,6 +2,9 @@
 
 ![Mango Chicken Curry](resources/BIR-mango-chicken-curry.jpg)
 
+*A BIR mango chicken: pre-cooked chicken in a sweet curry-base gravy with mango chutney and ripe mango pulp. Fruity, mild, glossy.*
+
+
 
 **Serves:** 4
 

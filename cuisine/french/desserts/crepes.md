@@ -1,5 +1,8 @@
 # Crêpes
 
+*France's thin pancake: a loose batter of flour, eggs, milk and butter swirled in a hot pan and cooked seconds till lacy at the edges.*
+
+
 **Prep Time:** 5 minutes
 **Cook Time:** 1 minutes
 

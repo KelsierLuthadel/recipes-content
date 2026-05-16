@@ -1,5 +1,8 @@
 # Chilli Pooris
 
+*North India's chilli pooris: small wholemeal flatbreads spiced with chilli and ajwain, deep-fried till they puff into golden balloons.*
+
+
 **Prep Time:** 10 minutes
 
 ![Chilli Pooris](resources/poori.jpg)

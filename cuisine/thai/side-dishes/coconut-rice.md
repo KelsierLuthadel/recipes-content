@@ -1,5 +1,8 @@
 # Coconut Rice
 
+*Thailand's coconut rice: jasmine rice simmered in coconut milk with a pinch of salt and sugar. Soft, fragrant, faintly sweet.*
+
+
 **Prep Time:** 5 minutes
 
 ![Coconut Rice](resources/coconut-rice.jpg)

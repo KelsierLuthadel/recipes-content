@@ -1,5 +1,8 @@
 # Lemon cake
 
+*A British lemon drizzle: a buttery sponge soaked in a sharp lemon-sugar syrup while still warm.*
+
+
 **Prep Time:** 10 minutes
 
 ![Lemon cake](resources/lemon-cake.jpg)

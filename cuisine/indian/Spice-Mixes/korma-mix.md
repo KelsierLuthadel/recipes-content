@@ -2,6 +2,9 @@
 
 ![Korma Spice Mix](resources/korma-mix.jpg)
 
+*A korma spice mix: cardamom, cinnamon, fennel, ground almond and a touch of saffron. The mild, fragrant blend for creamy korma sauces.*
+
+
 
 ## Overview
 A mild, aromatic blend for creamy, nut-based curries. Emphasises warm, fragrant spices with no strong heat.

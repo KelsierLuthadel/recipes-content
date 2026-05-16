@@ -1,5 +1,8 @@
 # Standard Loaf Pan Shaping
 
+*The standard tin loaf: dough shaped into a long cylinder and dropped into a buttered loaf tin.*
+
+
 **Cook Time:** 36 minutes
 
 ![Standard Loaf Pan Step 1](resources/loaf-1.jpg)

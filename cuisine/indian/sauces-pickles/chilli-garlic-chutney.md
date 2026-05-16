@@ -1,5 +1,8 @@
 # Kashmiri Red Chilli and Garlic Chutney
 
+*Kashmir's red chilli and garlic chutney: dried Kashmiri chillies and garlic pounded with vinegar and salt into a deep red.*
+
+
 **Prep Time:** 10 minutes
 **Cook Time:** 1 minutes
 

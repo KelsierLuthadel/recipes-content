@@ -1,4 +1,7 @@
 # Cob or Boule
+
+*A round dome loaf: dough shaped into a tight ball with surface tension, slashed across the top, baked into a sturdy domed bread.*
+
 Cob is a term that usually describes rounded loaves in Britain, while boule is a term that describes similar bread shapes in France.
 
 ![Step 1](resources/cob-1.jpg)

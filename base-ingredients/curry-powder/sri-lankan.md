@@ -1,5 +1,8 @@
 # Sri Lankan Curry Powder
 
+*Sri Lanka's roasted curry powder: whole spices dry-toasted till deep coffee-coloured before grinding.*
+
+
 **Prep Time:** 10 minutes
 **Cook Time:** 1 minutes
 

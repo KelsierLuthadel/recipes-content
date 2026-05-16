@@ -1,5 +1,8 @@
 # Parmesan Vinaigrette
 
+*A Parmesan vinaigrette: grated Parmesan whisked into olive oil, white wine vinegar and Dijon, with a touch of garlic.*
+
+
 **Prep Time:** 10 minutes
 
 ![Parmesan Vinaigrette](resources/parmesan.png)

@@ -2,6 +2,9 @@
 
 ![Lamb Rogan Josh](resources/BIR-Lamb-Rogan-Josh.jpg)
 
+*The BIR rogan josh: pre-cooked lamb in a deep red gravy of Kashmiri chilli, tomato and yogurt.*
+
+
 
 **Serves:** 4
 

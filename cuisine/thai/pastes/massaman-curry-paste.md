@@ -2,6 +2,9 @@
 
 ![Massaman Curry Paste](resources/massaman-curry-paste.jpg)
 
+*Thailand's massaman curry paste: dry-roasted dried chillies, lemongrass, galangal, cinnamon.*
+
+
 
 **Makes:** Approx. 250 ml (1 cup)
 

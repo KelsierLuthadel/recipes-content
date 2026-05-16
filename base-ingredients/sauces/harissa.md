@@ -1,5 +1,8 @@
 # Harissa
 
+*North Africa's fiery chilli paste: dried red chillies rehydrated and pounded with garlic, caraway, coriander, cumin and olive oil.*
+
+
 **Prep Time:** 10 minutes
 
 ![Harissa](resources/harissa.jpg)

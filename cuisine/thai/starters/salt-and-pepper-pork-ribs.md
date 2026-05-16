@@ -2,6 +2,9 @@
 
 ![Garlicky Salt and Pepper Pork Ribs](resources/salt-and-pepper-pork-ribs.jpg)
 
+*Garlicky salt and pepper pork ribs: ribs marinated in soy and Shaoxing, dredged in cornflour.*
+
+
 
 **Serves:** 2-4
 

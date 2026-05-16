@@ -1,5 +1,8 @@
 # Fried Rice
 
+*The Chinese takeaway staple: day-old rice stir-fried hot in a wok with egg, spring onion, peas and a splash of soy.*
+
+
 **Prep Time:** 10 minutes
 
 ![Fried Rice](resources/fried-rice.jpg)

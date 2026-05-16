@@ -2,6 +2,9 @@
 
 ![Asparagus and prosciutto bundles](resources/asparagus-parma.jpg)
 
+*An Italian starter: blanched asparagus spears wrapped in prosciutto, briefly grilled or pan-fried till the ham crisps at the edges.*
+
+
 **Serves:** 4 - 6
 **Prep Time:** 10 minutes
 **Cook Time:** 5 minutes

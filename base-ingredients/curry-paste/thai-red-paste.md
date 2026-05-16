@@ -1,5 +1,8 @@
 # Thai Red Curry Paste (Kruang Kaeng Dang)
 
+*Thailand's red curry paste: dried red chillies, lemongrass, galangal, kaffir lime, garlic and shrimp paste pounded into a deep.*
+
+
 **Prep Time:** 15 minutes
 **Cook Time:** 1 minutes
 

@@ -1,5 +1,8 @@
 # Semi-Confit Peppers
 
+*Sweet peppers slow-roasted with olive oil, garlic and thyme until silky soft.*
+
+
 **Prep Time:** 10 minutes
 **Cook Time:** 1 minutes
 

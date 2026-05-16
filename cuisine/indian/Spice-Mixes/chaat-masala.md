@@ -2,6 +2,9 @@
 
 ![Chaat Masala](resources/chaat-masala.jpg)
 
+*India's chaat masala: a tangy spice mix of amchoor, black salt, cumin, coriander, mint and chilli.*
+
+
 
 
 ## Overview

@@ -1,5 +1,8 @@
 # Tsire Powder (West African Spice Coating)
 
+*West Africa's spice coating: ground roasted peanuts mixed with chilli, ginger and onion powder.*
+
+
 **Prep Time:** 5 minutes
 
 ![Tsire Powder](resources/tsire.jpg)

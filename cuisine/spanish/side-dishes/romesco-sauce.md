@@ -1,5 +1,8 @@
 # Romesco Sauce
 
+*Catalonia's romesco: roasted red peppers, tomato, almonds and hazelnuts pounded with garlic.*
+
+
 **Prep Time:** 10 minutes
 
 ![Romesco Sauce](resources/romesco-sauce.png)

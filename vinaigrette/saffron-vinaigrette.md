@@ -1,5 +1,8 @@
 # Saffron Vinaigrette
 
+*A French saffron vinaigrette: saffron threads steeped in warm white wine vinegar, then whisked with olive oil and Dijon.*
+
+
 **Prep Time:** 5 minutes
 
 ![Saffron Vinaigrette](resources/saffron.jpg)

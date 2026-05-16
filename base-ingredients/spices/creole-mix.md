@@ -1,5 +1,8 @@
 # Creole Spice Mix
 
+*The New Orleans Creole spice blend: paprika, white pepper, garlic, onion, oregano and bay.*
+
+
 **Prep Time:** 10 minutes
 
 ![Creole Spice Mix](resources/creole-mix.jpg)

@@ -2,6 +2,9 @@
 
 ![Chicken Ceylon](resources/ceylon.jpg)
 
+*A chicken Ceylon: bone-in chicken in a coconut-and-curry-leaf gravy sharpened with lemon and a hit of chilli.*
+
+
 **Serves:** 4
 **Prep Time:** 5 minutes
 

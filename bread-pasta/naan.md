@@ -1,5 +1,8 @@
 # Naan Bread
 
+*India's teardrop flatbread: a yeasted dough pressed onto the hot side of a tandoor, pulled down into a leaf shape by gravity.*
+
+
 **Prep Time:** 10 minutes
 
 ![Naan](resources/naan.jpg)

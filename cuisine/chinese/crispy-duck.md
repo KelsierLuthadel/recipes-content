@@ -2,6 +2,9 @@
 
 ![Crispy Sichuan Duck](resources/duck.jpg)
 
+*Sichuan's crispy duck: duck legs marinated in Sichuan peppercorn and five-spice, steamed till tender.*
+
+
 ## Overview
 In China, duck is a special occasion treatment reserved for banquets and celebrations. Don't be intimidated by the preparation, most steps are straightforward and can be done a day ahead. The technique is masterful: steaming renders out most of the fat, leaving meat moist and succulent, while deep-frying creates a shatteringly crisp skin. The result is elegant, restaurant-quality dinner.
 

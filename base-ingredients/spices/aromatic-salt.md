@@ -1,5 +1,8 @@
 # Aromatic Salt (Two Versions)
 
+*A flavoured finishing salt: flaky salt blended with toasted whole spices, citrus zest or dried herbs.*
+
+
 **Prep Time:** 10 minutes
 
 ![Aromatic Salt](resources/aromatic-salt.jpg)

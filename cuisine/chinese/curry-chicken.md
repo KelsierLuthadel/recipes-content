@@ -2,6 +2,9 @@
 
 ![Curried Chicken with Peppers](resources/chinese-chicken-curry.jpg)
 
+*A Cantonese-curry stir-fry: chicken cubes tossed hot with sliced peppers, onion and a mild curry sauce.*
+
+
 ## Overview
 Curry blends beautifully with chicken when prepared in the style of southern Chinese cuisine, as a light, subtle sauce that enhances rather than overpowers the delicate chicken meat. This recipe balances spice with refinement, proving that curry in Chinese cooking is more elegant whisper than aggressive shout.
 

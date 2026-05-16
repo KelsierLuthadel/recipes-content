@@ -1,5 +1,8 @@
 # Baharat
 
+*The Middle Eastern seven-spice mix: black pepper, allspice, cardamom, cinnamon, clove, coriander and cumin toasted and ground.*
+
+
 **Prep Time:** 10 minutes
 
 ![Baharat](resources/baharat.jpg)

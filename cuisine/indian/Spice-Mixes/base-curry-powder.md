@@ -1,5 +1,8 @@
 # Base Curry Powder
 
+*The BIR base curry powder: turmeric, paprika, cumin, coriander, fenugreek and chilli ground together.*
+
+
 **Prep Time:** 5 minutes
 
 ![Base Curry Powder](resources/base-curry-powder.jpg)

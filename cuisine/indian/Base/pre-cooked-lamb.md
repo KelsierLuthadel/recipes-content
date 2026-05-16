@@ -1,5 +1,8 @@
 # Pre-Cooked Lamb
 
+*The BIR-style pre-cooked lamb: cubed lamb simmered slow with spices and onion till tender, then portioned.*
+
+
 **Prep Time:** 15 minutes
 
 ![Pre-Cooked Lamb](resources/pre-cooked-lamb.png)

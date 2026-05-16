@@ -1,5 +1,8 @@
 # Bloomer Loaf Shaping
 
+*A British bloomer: dough shaped into a long flat oval and slashed diagonally across the top.*
+
+
 **Cook Time:** 1 minutes
 
 ![Bloomer Step 1](resources/bloomer-1.jpg)

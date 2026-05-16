@@ -2,6 +2,9 @@
 
 ![Minestrone with pesto](resources/minestrone-pesto.jpg)
 
+*Italy's minestrone with pesto: a thick vegetable soup of beans, pasta and seasonal greens.*
+
+
 **Serves:** 6
 
 **Prep Time:** 20 minutes

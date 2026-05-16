@@ -1,5 +1,8 @@
 # Pork, apricot and pistachio stuffing
 
+*A British roast stuffing: pork sausagemeat with dried apricot, pistachios, onion, sage and breadcrumbs.*
+
+
 **Prep Time:** 15 minutes
 **Cook Time:** 1 minutes
 

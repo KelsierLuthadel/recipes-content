@@ -1,5 +1,8 @@
 # Fines Herbes
 
+*France's classic herb blend: parsley, chives, tarragon and chervil finely chopped together.*
+
+
 **Prep Time:** 10 minutes
 
 ![Fines Herbes](resources/fines-herbes.png)

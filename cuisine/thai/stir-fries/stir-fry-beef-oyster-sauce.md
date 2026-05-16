@@ -2,6 +2,9 @@
 
 ![Stir-Fried Beef in Oyster Sauce](resources/stir-fry-beef-oyster-sauce.jpg)
 
+*A Thai beef stir-fry: thin strips of beef seared hot in a wok with garlic, broccoli and a glossy oyster-and-soy sauce.*
+
+
 
 **Serves:** 4
 

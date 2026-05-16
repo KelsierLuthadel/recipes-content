@@ -1,5 +1,8 @@
 # Burger Buns
 
+*The home-baker's burger bun: soft, slightly enriched white bread shaped into round buns, brushed with egg and topped with sesame seeds.*
+
+
 **Prep Time:** 10 minutes
 
 ![Burger Buns](resources/buns.jpg)

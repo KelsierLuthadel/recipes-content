@@ -2,6 +2,9 @@
 
 ![Special Balti](resources/BIR-Special-Balti.jpg)
 
+*A BIR special balti: pre-cooked lamb, chicken and prawn finished hot in a balti pan with the curry base, balti masala and fresh herbs.*
+
+
 
 **Serves:** 1-2
 

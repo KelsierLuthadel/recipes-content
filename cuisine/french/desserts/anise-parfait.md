@@ -2,6 +2,9 @@
 
 ![Anise parfait](resources/anise-parfait.jpg)
 
+*A French frozen parfait: egg yolks whisked with sugar over heat, folded with whipped cream and infused with star anise.*
+
+
 **Serves:** 8
 **Prep Time:** 10 minutes
 

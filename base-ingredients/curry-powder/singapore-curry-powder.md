@@ -1,5 +1,8 @@
 # Singapore Curry Powder
 
+*Singapore's curry powder: a Tamil-Malay blend of coriander, cumin, fennel, turmeric and dried chilli.*
+
+
 **Prep Time:** 10 minutes
 
 ![Singapore](resources/singapore.jpg)

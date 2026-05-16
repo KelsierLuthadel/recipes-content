@@ -2,6 +2,9 @@
 
 ![Sweet and Crispy Chicken Wings](resources/sweet-crispy-chicken-wings.jpg)
 
+*Thailand's sweet crispy chicken wings: wings marinated in fish sauce and rice flour, deep-fried till the skin shatters.*
+
+
 
 **Makes:** 12
 

@@ -1,5 +1,8 @@
 # Berbere
 
+*Ethiopia's signature spice mix: dried chilli, fenugreek, coriander, cardamom and clove toasted and ground.*
+
+
 **Prep Time:** 10 minutes
 **Cook Time:** 15 minutes
 

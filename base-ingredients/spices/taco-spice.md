@@ -1,5 +1,8 @@
 # Taco Spice Mix
 
+*A Tex-Mex taco seasoning: chilli powder, cumin, paprika, garlic, onion and oregano. Toasted in oil with ground beef for tacos and burritos.*
+
+
 **Prep Time:** 10 minutes
 
 ![Taco Spice Mix](resources/taco-spice.jpg)

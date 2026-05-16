@@ -1,5 +1,8 @@
 # Red Masala Sauce
 
+*The deep-red masala foundation: tomato puree, fried onion and ground spices simmered together.*
+
+
 **Prep Time:** 10 minutes
 
 ![Red Masala Sauce](resources/red-masala-sauce.jpg)

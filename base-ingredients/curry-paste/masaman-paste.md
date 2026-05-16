@@ -1,5 +1,8 @@
 # Thai Masaman Curry Paste (Kruang Kaeng Masaman)
 
+*Thailand's Massaman paste: dry-roasted dried chillies, lemongrass, galangal, cinnamon, cumin and shrimp paste pounded into a deep.*
+
+
 **Prep Time:** 15 minutes
 
 ![Masaman Curry Paste](resources/massaman-curry-paste.jpg)

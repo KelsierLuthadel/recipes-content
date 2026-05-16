@@ -2,6 +2,9 @@
 
 ![Salt and Pepper Fried Calamari](resources/salt-and-pepper-calamari.jpg)
 
+*Salt and pepper squid: calamari rings dredged in cornflour with white pepper and salt, deep-fried light and crisp.*
+
+
 
 **Serves:** 4
 

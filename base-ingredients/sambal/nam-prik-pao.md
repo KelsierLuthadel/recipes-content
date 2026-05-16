@@ -1,5 +1,8 @@
 # Nam Prik Pao
 
+*Thailand's roasted chilli jam: dried chillies, shallot, garlic and dried shrimp pounded with palm sugar and tamarind into a smoky.*
+
+
 **Prep Time:** 10 minutes
 **Cook Time:** 12 minutes
 

@@ -2,6 +2,9 @@
 
 ![Coffee Creme Caramel](resources/coffee-creme-caramel.jpg)
 
+*A coffee crème caramel: a silky egg custard infused with espresso, set firm over a deep amber caramel.*
+
+
 **Serves:** 8
 **Prep Time:** 10 minutes
 **Cook Time:** 1 minutes

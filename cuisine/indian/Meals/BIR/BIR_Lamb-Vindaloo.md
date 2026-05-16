@@ -2,6 +2,9 @@
 
 ![Lamb Vindaloo](resources/BIR_Lamb-Vindaloo.jpg)
 
+*The BIR lamb vindaloo: pre-cooked lamb in a fiery dark gravy of dried red chillies, vinegar, garlic and Madras spice.*
+
+
 
 **Serves:** 4
 

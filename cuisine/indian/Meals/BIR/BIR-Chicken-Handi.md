@@ -2,6 +2,9 @@
 
 ![Authentic Chicken Handi](resources/BIR-Chicken-Handi.jpg)
 
+*A BIR chicken handi: pre-cooked chicken in a deep-spiced tomato gravy with kasoori methi, ground almond and a finishing swirl of cream.*
+
+
 
 **Serves:** 4
 

@@ -2,6 +2,9 @@
 
 ![Chicken with Sesame Seeds](resources/sesame-chicken.jpg)
 
+*A Chinese-American sesame chicken: battered chicken cubes deep-fried crisp.*
+
+
 ## Overview
 This is a version of the fragrant Sichuan dish popularly known as 'Strange taste chicken' or bang-bang chicken because it incorporates many flavours simultaneously, hot, spicy, sour, sweet, and salty all in perfect balance. The sesame seeds add a crunchy texture that contrasts beautifully with tender chicken meat. Equally delicious served hot or at room temperature, making it ideal for entertaining.
 

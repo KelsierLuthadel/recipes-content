@@ -1,5 +1,8 @@
 # Sambar Powder
 
+*South India's sambar powder: dry-roasted lentils ground with coriander, cumin, fenugreek, chilli and curry leaves.*
+
+
 **Prep Time:** 10 minutes
 **Cook Time:** 4 minutes
 

@@ -1,5 +1,8 @@
 # Garam Masala (Kashmiri)
 
+*The Kashmiri garam masala: a more delicate blend with fennel, dried rose petals and a heavier hand of cardamom. Less heat, more perfume.*
+
+
 **Prep Time:** 10 minutes
 
 ![Garam Masala](resources/garam-masala.jpg)

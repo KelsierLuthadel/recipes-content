@@ -1,5 +1,8 @@
 # Chinese Pancakes
 
+*China's paper-thin pancakes: a hot-water dough rolled in pairs with oil between, griddled dry and peeled apart.*
+
+
 **Prep Time:** 5 minutes
 **Cook Time:** 4 minutes
 

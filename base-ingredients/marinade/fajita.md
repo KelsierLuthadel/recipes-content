@@ -1,5 +1,8 @@
 # Fajita Marinade
 
+*A Tex-Mex fajita marinade: lime, oil, garlic, cumin, chilli and oregano. Soaks into skirt steak or chicken before a screaming-hot pan.*
+
+
 **Prep Time:** 15 minutes
 
 ![Fajita Marinade](resources/fajita.jpg)

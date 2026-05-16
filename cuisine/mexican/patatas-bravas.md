@@ -2,6 +2,9 @@
 
 ![Patatas bravas](resources/patatas-bravas.png)
 
+*Spain's most-ordered tapa: twice-fried potato cubes drenched in a smoky paprika-tomato sauce.*
+
+
 ## Overview
 Patatas bravas is a classic Spanish tapas dish featuring crispy roasted potatoes smothered in a rich, spiced tomato sauce. While originating in Spain, this dish has become popular across Latin American cuisines. The combination of golden, crispy potatoes with a flavourful paprika and chilli tomato sauce makes for an addictive side dish or appetizer. Traditionally served at room temperature with fresh parsley garnish.
 

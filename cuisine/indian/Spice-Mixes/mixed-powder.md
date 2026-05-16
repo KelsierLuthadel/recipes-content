@@ -2,6 +2,9 @@
 
 ![Mixed Powder](resources/mixed-powder.jpg)
 
+*The BIR mix powder: a custom dry blend of curry powder, garam masala, paprika and turmeric.*
+
+
 
 **Makes:** 17 tbsp
 

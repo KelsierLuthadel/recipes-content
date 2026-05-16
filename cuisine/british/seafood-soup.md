@@ -2,6 +2,9 @@
 
 ![Seafood soup](resources/seafood-soup.jpg)
 
+*A British seafood soup: prawns, white fish and mussels simmered in a light fennel-and-tomato broth with white wine.*
+
+
 **Serves:** 4 - 6
 
 **Prep Time:** 30 minutes

@@ -2,6 +2,9 @@
 
 ![Chicken Jalfrezi](resources/BIR-Chicken-Jalfrezi.jpg)
 
+*The BIR chicken jalfrezi: pre-cooked chicken stir-fried hot with sliced onion, peppers and green chilli in a sharp tomato sauce.*
+
+
 
 **Serves:** 4
 

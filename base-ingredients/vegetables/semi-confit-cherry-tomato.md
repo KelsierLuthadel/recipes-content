@@ -1,5 +1,8 @@
 # Semi-Confit Cherry Tomatoes
 
+*Cherry tomatoes slow-roasted with olive oil, garlic and thyme until they collapse but hold shape.*
+
+
 **Prep Time:** 10 minutes
 **Cook Time:** 1 minutes
 

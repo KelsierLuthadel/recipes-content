@@ -1,5 +1,8 @@
 # Cucumber Vinaigrette
 
+*A cucumber vinaigrette: peeled cucumber blended smooth with olive oil, white wine vinegar, mint and a touch of sugar.*
+
+
 **Prep Time:** 10 minutes
 
 ![Cucumber Vinaigrette](resources/cucumber.png)

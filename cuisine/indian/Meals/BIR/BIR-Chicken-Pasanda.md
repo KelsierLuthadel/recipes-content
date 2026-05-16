@@ -2,6 +2,9 @@
 
 ![Chicken Pasanda](resources/BIR-Chicken-Pasanda.jpg)
 
+*The BIR chicken pasanda: pre-cooked chicken in a creamy almond-and-coconut sauce sweetened lightly.*
+
+
 
 **Serves:** 4
 

@@ -2,6 +2,9 @@
 
 ![Chicken Dhansak](resources/BIR-Chicken-Dhansak.jpg)
 
+*The BIR chicken dhansak: pre-cooked chicken in a sweet-sour-spicy gravy of lentils, pineapple and dhansak spices.*
+
+
 
 **Serves:** 4
 

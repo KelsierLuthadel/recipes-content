@@ -1,5 +1,8 @@
 # Balti Masala Paste
 
+*A wet balti paste: dry-roasted whole spices ground with garlic, ginger and oil.*
+
+
 **Prep Time:** 5 minutes
 
 ![Balti Masala Paste](resources/balti-masala-paste.jpg)

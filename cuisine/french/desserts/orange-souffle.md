@@ -2,6 +2,9 @@
 
 ![Orange Soufflé](resources/orange-soufflee.jpg)
 
+*A French orange soufflé: orange-juice-and-zest base folded into whipped egg whites and baked hot till risen high.*
+
+
 **Serves:** 4
 
 ## Ingredients

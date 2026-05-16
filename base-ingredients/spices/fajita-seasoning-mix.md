@@ -1,5 +1,8 @@
 # Fajita Seasoning Mix
 
+*A dry fajita seasoning: chilli powder, cumin, paprika, garlic, oregano and salt. Rubbed into skirt steak or chicken before the hot griddle.*
+
+
 **Prep Time:** 5 minutes
 **Cook Time:** 7 minutes
 

@@ -2,6 +2,9 @@
 
 ![Lamb Saag](resources/BIR-Lamb-saag.jpg)
 
+*The BIR lamb saag: pre-cooked lamb in a deep green spinach gravy with onion, ginger, garlic and garam masala.*
+
+
 
 **Serves:** 4
 

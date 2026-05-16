@@ -2,6 +2,9 @@
 
 ![Tomato Coulis](resources/tomato-coulis.jpg)
 
+*France's smooth tomato coulis: ripe tomatoes simmered with shallot, garlic and basil, then pushed through a sieve to a glossy red sauce.*
+
+
 **Serves:** 4
 **Prep Time:** 15 minutes
 **Cook Time:** 1 hour

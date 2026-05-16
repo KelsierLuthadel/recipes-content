@@ -2,6 +2,9 @@
 
 ![Tandoori Masala](resources/tandoori-masala.jpg)
 
+*A tandoori spice mix: paprika, Kashmiri chilli, ginger, garlic, cumin and amchoor. The deep-red rub for marinated meats hitting the tandoor.*
+
+
 
 ## Overview
 A versatile spice blend traditionally used for tandoori cooking. Most commercial tandoori masalas rely on salt, citric acid powder, and cheap ground spices with red food colouring. This homemade version uses more quality spices and substitutes natural amchoor (dried mango powder) for artificial tanginess, giving you greater control over the final flavour.

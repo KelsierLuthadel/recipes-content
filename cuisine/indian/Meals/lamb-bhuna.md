@@ -2,6 +2,9 @@
 
 ![Lamb Bhuna](resources/lamb-bhuna.png)
 
+*A North Indian lamb bhuna: cubed lamb stewed with onion, ginger.*
+
+
 **Note**: This is a different recipe than [Lamb Bhuna](./lamb-bhuna2.md) with a subtly different taste
 
 **Serves:** 1 person   

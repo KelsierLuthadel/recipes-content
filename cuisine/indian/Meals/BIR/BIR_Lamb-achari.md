@@ -2,6 +2,9 @@
 
 ![Lamb Achari](resources/BIR_Lamb-achari.jpg)
 
+*A BIR lamb achari: pre-cooked lamb in a curry-base gravy with mango pickle (achar), mustard seed and nigella.*
+
+
 
 **Serves:** 4
 

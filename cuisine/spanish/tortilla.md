@@ -2,6 +2,9 @@
 
 ![Spanish Omelette](resources/spanish-tortilla.jpg)
 
+*Spain's national omelette: thinly sliced potato and onion poached gently in olive oil.*
+
+
 ## Overview
 This classic Spanish omelette is a rustic, hearty dish featuring tender potatoes, caramelized onions, peppers, tomatoes, and spiced chorizo bound together with fluffy beaten eggs. The omelette is cooked slowly and gently, allowing the ingredients to meld while maintaining a creamy centre with a lightly golden exterior. Tortilla española is equally delicious served warm, at room temperature, or cold, making it versatile for any meal of the day.
 

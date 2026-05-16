@@ -2,6 +2,9 @@
 
 ![Buccaneer's sauce](resources/buccaneer.jpg)
 
+*A pirate-named sauce: butter, garlic, lemon and a generous splash of rum.*
+
+
 **Serves:** 8
 
 **Prep Time:** 10 minutes

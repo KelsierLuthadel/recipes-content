@@ -2,6 +2,9 @@
 
 ![Lemon Chicken](resources/lemon-chicken.jpg)
 
+*The Cantonese restaurant lemon chicken: battered chicken pieces deep-fried crisp and drizzled with a tangy lemon sauce thickened with cor.*
+
+
 ## Overview
 A Hong Kong specialty that pairs delicate chicken with a tart yet subtly sweet lemon sauce. The technique of shallow-frying chicken strips until just cooked keeps the meat tender, while a glossy sauce coats each piece perfectly. The balance between citrus acidity and the subtle spice of dried chilli makes this dish elegant yet comforting.
 

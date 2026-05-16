@@ -1,5 +1,8 @@
 # Classic Curry Powder
 
+*The classic British curry powder: toasted coriander, cumin, fenugreek, turmeric and dried chilli ground together.*
+
+
 **Prep Time:** 10 minutes
 
 ![Curry Powder](resources/curry-powder.jpg)

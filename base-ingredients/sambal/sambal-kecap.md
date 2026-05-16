@@ -1,5 +1,8 @@
 # Sambal Kecap
 
+*Indonesia's sweet soy sambal: kecap manis (sweet soy) with sliced bird's-eye chillies, shallot and lime juice.*
+
+
 **Prep Time:** 5 minutes
 
 ![Sambal Kecap](resources/sambal-kecap.jpg)

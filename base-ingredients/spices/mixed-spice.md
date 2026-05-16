@@ -1,5 +1,8 @@
 # Mixed Spice
 
+*The British baker's mixed spice: cinnamon, coriander, caraway, nutmeg, ginger and clove ground together.*
+
+
 **Prep Time:** 10 minutes
 
 ![Mixed Spice](resources/mixed.jpg)

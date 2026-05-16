@@ -2,6 +2,9 @@
 
 ![Apple sauce](resources/apple-sauce.jpg)
 
+*Britain's apple sauce: bramley apples slow-cooked with butter, sugar and a strip of lemon zest into a soft pale sauce.*
+
+
 **Serves:** 6
 
 **Prep Time:** 10 minutes

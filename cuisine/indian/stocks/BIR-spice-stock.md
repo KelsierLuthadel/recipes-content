@@ -2,6 +2,9 @@
 
 ![BIR Spice Stock](resources/BIR-spice-stock.jpg)
 
+*The BIR spice stock: water, onion, garlic, ginger and whole spices simmered together into a deeply aromatic broth.*
+
+
 
 
 ## Overview

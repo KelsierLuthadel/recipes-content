@@ -2,6 +2,9 @@
 
 ![Mowgli Sticky Wings](resources/sticky-wings.jpg)
 
+*Mowgli's sticky wings: chicken wings marinated in yogurt and spice, baked till the marinade caramelises into a sticky.*
+
+
 
 **Serves:** 4-6
 

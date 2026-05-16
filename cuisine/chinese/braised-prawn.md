@@ -2,6 +2,9 @@
 
 ![Braised Prawns](resources/braised-prawn.jpg)
 
+*A Cantonese braised prawn: shell-on prawns simmered in a ginger-soy-Shaoxing sauce till the shells turn coral and the sauce thickens to a.*
+
+
 ## Overview
 A simple, elegant preparation favoured by street vendors throughout southern China. This quick-braising method takes only minutes and produces tender, fragrant prawns. The beauty of this dish lies in its simplicity, fresh ginger and spring onions infuse the delicate sweetness of prawns. Equally delicious served hot immediately or chilled for an exotic picnic dish.
 

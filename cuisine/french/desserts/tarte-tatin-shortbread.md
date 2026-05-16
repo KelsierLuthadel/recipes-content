@@ -2,6 +2,9 @@
 
 ![Tarte Tatin with Shortbread Crust](resources/tarte-tatin-shortbread.jpg)
 
+*A tarte tatin with a shortbread base: caramelised apples turned out over a buttery biscuit crust instead of puff pastry.*
+
+
 
 
 **Serves:** 8 - 10

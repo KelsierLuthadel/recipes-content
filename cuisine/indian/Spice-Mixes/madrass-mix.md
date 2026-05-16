@@ -2,6 +2,9 @@
 
 ![Madras Spice Mix](resources/madrass-mix.jpg)
 
+*The Madras spice mix: a darker, hotter Tamil-inspired blend of mustard seed, fenugreek, curry leaves and dried chilli.*
+
+
 
 ## Overview
 A medium-hot spice blend with strong chilli and earthy notes, suited to Madras-style curries.

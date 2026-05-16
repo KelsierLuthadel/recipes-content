@@ -1,5 +1,8 @@
 # Rosemary Bread Trio
 
+*Three rosemary breads in one bake: a focaccia, a fougasse and a small boule, all built on the same dough with rosemary.*
+
+
 **Prep Time:** 10 minutes
 **Cook Time:** 1 minutes
 

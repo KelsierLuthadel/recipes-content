@@ -1,5 +1,8 @@
 # Chocolate Truffles
 
+*Hand-rolled chocolate truffles: a ganache of dark chocolate and cream chilled till firm, rolled into balls and dusted in cocoa.*
+
+
 **Prep Time:** 10 minutes
 
 ![Chocolate Truffles](resources/chocolate-truffles.jpg)

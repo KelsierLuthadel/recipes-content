@@ -2,6 +2,9 @@
 
 ![Chicken Chilli Garlic](resources/BIR-chicken-chilli-garlic.jpg)
 
+*A BIR chilli-garlic chicken: pre-cooked chicken finished hot in a curry-base gravy thick with fried garlic, green chilli and chilli powder.*
+
+
 
 **Serves:** 4
 

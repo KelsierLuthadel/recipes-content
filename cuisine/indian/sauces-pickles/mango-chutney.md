@@ -1,5 +1,8 @@
 # Mango Chutney
 
+*India's mango chutney: green mango simmered with sugar, vinegar, ginger, chilli and warm spices into a glossy sweet-sour preserve.*
+
+
 **Prep Time:** 15 minutes
 **Cook Time:** 1 hour
 

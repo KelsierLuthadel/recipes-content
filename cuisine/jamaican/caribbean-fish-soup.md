@@ -2,6 +2,9 @@
 
 ![Caribbean fish soup](resources/caribbean-fish-soup.jpg)
 
+*A Caribbean fish soup: snapper and prawns simmered with okra, plantain, coconut milk and Scotch bonnet.*
+
+
 **Serves:** 6
 
 **Prep Time:** 20 minutes

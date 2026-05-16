@@ -1,5 +1,8 @@
 # Thai Green Curry Paste (Kruang Kaeng Khiem Wan)
 
+*Thailand's green curry paste: fresh green chillies, lemongrass, galangal, kaffir lime, garlic.*
+
+
 **Prep Time:** 20 minutes
 
 ![Thai Green Curry Paste](resources/thai-green.jpg)

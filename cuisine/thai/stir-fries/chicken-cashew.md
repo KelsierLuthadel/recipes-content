@@ -2,6 +2,9 @@
 
 ![Chicken with Cashews](resources/chicken-cashew.jpg)
 
+*Thailand's chicken with cashews: chicken stir-fried hot with dried chillies, roasted cashews, spring onion and a glossy oyster-soy-sauce.*
+
+
 
 **Serves:** 4
 

@@ -2,6 +2,9 @@
 
 ![Crispy pork carnitas](resources/carnitas.png)
 
+*Mexico's crispy pork carnitas: pork shoulder slow-cooked in its own fat with orange, lime and spices.*
+
+
 ## Overview
 Carnitas are a classic Mexican dish of slow-cooked, tender pork that's finished until crispy and golden. The meat is cooked low and slow in its own fat with aromatic spices, citrus, and a hint of cola for sweetness, creating incredibly flavourful, versatile shredded pork. This dish is endlessly adaptable, perfect for filling burritos, tacos, quesadillas, or topping salads.
 

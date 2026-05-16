@@ -1,5 +1,8 @@
 # Herb crêpes
 
+*France's savoury herb crepes: a thin pancake batter spiked with chopped chives, parsley and chervil.*
+
+
 **Prep Time:** 10 minutes
 
 ![Herb crêpes](resources/herb-crepes.jpg)

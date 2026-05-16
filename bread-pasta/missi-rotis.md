@@ -1,5 +1,8 @@
 # Missi Rotis
 
+*Punjab's mixed-flour roti: wholemeal and gram flour kneaded with chilli, onion and herbs, rolled and griddled on a hot tawa.*
+
+
 **Prep Time:** 15 minutes
 **Cook Time:** 2 minutes
 
