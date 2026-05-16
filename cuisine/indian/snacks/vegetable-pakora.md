@@ -2,7 +2,7 @@
 
 ![Vegetable Pakora](resources/vegetable-pakora.jpg)
 
-*The monsoon snack of North India: mixed seasonal vegetables - potato, onion, cauliflower, spinach, sometimes paneer - dipped in a spiced gram-flour batter and deep-fried into irregular, crispy clusters. Sold from pakora-walas in the rain, eaten with chai and chutney. Distinct from a uniform fritter; pakora are deliberately rough, with stray strands of vegetable poking out to crisp dark.*
+*North India's monsoon snack: mixed seasonal vegetables dipped in a spiced gram-flour batter and deep-fried into irregular crispy clusters.*
 
 **Serves:** 6
 

@@ -1,7 +1,7 @@
 # Pan Kabap
 
 ![Pan Kabap](resources/pan-kabap.jpg)
-*The home-kitchen Uyghur kebab: a quick pan-fried version that skips the skewer and the tandoor. Thin slices of fatty lamb sear hard in a single layer, then get a layered seasoning of salt, sweet chilli pepper powder and cumin, repeated 2-4 times for depth. Eats as a topping for polo (Uyghur rice pilaf) or alongside fresh-baked naan.*
+*The home-kitchen Uyghur kebab: thin slices of fatty lamb seared hard in a single layer, then layered with salt, sweet chilli pepper and cumin.*
 
 **Serves:** 1-2
 

@@ -1,7 +1,7 @@
 # Sfouf
 
 ![Sfouf](resources/sfouf.jpg)
-*The Lebanese turmeric semolina cake: a vivid yellow loaf-like cake of semolina, flour, sugar, milk and a generous teaspoon of turmeric (for the colour), with melted butter or olive oil, leavened with baking powder, scattered with pine nuts before baking. Eaten with afternoon tea or coffee, especially during Lent (it's vegan if made with olive oil and water/plant milk). Dense, nutty, faintly bitter from the turmeric, just sweet.*
+*Lebanon's vivid yellow turmeric semolina cake: a dense, nutty loaf leavened with baking powder and scattered with pine nuts. Eaten with afternoon tea.*
 
 **Serves:** 8 (makes 1 round cake)
 

@@ -1,7 +1,7 @@
 # Manakish Jibneh
 
 ![Manakish Jibneh](resources/manakish-jibneh.jpg)
-*The cheese manakish - Lebanon's breakfast flatbread topped with a generous layer of melted akkawi (or mozzarella + halloumi blend), baked at high heat until the dough is gold and the cheese is just-bubbling and slightly bronzed. Eaten warm for breakfast with mint, cucumber, tomato and tea; or rolled around olives and za'atar as a quick lunch wrap.*
+*Lebanon's cheese manakish: yeasted flatbread topped with melted akkawi cheese and baked at high heat till the dough is gold and the cheese bronzed.*
 
 **Serves:** 4 (makes 6 flatbreads)
 

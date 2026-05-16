@@ -1,7 +1,7 @@
 # Bacon Fried Cabbage and Sausage
 
 ![Bacon Fried Cabbage and Sausage](resources/bacon-fried-cabbage-and-sausage.jpg)
-*A meatier, more elaborate take on Southern fried cabbage. Bacon crisps first (and its fat carries the rest of the cooking); andouille browns in the bacon fat; bell peppers and onion soften; cabbage joins with brown sugar, garlic paste, Dijon, vinegar and Cajun seasoning. The bacon returns at the end. Filling enough for dinner.*
+*A meatier Southern fried cabbage: bacon crisps first, andouille and peppers brown in the fat, cabbage joins with brown sugar, garlic and Cajun seasoning.*
 
 **Serves:** 6
 

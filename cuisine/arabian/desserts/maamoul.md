@@ -1,7 +1,7 @@
 # Maamoul
 
 ![Maamoul](resources/maamoul.jpg)
-*Small filled shortbread cookies, the shells made of semolina-and-flour dough scented with rosewater and orange blossom, the centres stuffed with date paste, walnuts, or pistachios. Pressed in carved wooden moulds (each filling has its traditional pattern) and baked pale. Eaten across the Middle East at every major holiday - Eid, Easter, Christmas - and any time tea is poured.*
+*The Middle East's holiday cookie: semolina shortbread shells pressed in carved wooden moulds and stuffed with date, walnut or pistachio paste.*
 
 **Makes:** 30 cookies
 

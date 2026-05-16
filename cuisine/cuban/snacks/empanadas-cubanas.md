@@ -1,7 +1,7 @@
 # Empanadas Cubanas
 
 ![Empanadas Cubanas](resources/empanadas-cubanas.jpg)
-*Cuban-style empanadas: deep-fried (not baked), filled with ground beef cooked down with sofrito, olives, raisins and capers in the picadillo style. Smaller than Argentinian empanadas, fatter than Spanish ones, the dough yellow with annatto or paprika and crisp-blistered from the oil. Eaten at every cafetería counter and corner shop in Havana.*
+*Cuban-style empanadas: deep-fried half-moons of yellow dough filled with picadillo-style beef cooked down with sofrito, olives, raisins and capers.*
 
 **Serves:** 4 to 6 (makes 12 empanadas)
 

@@ -2,7 +2,7 @@
 
 ![Apfelstrudel](resources/apfelstrudel.jpg)
 
-*Austrian-German apple strudel: paper-thin stretched pastry wrapped around a filling of cinnamon-spiced apple, raisins, lightly-toasted breadcrumbs and walnuts, baked until golden and crisp. Eaten warm with a snowfall of icing sugar and vanilla cream or a scoop of ice cream. Vienna's most-traded gift to German baking, served in every Konditorei from Hamburg to Munich.*
+*Vienna's gift to German baking: paper-thin stretched pastry wrapped around cinnamon-spiced apple, raisins, breadcrumbs and walnuts, baked golden.*
 
 **Serves:** 8
 

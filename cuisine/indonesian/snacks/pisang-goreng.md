@@ -1,7 +1,7 @@
 # Pisang Goreng (Indonesian Banana Fritters)
 
 ![Pisang Goreng](resources/pisang-goreng.jpg)
-*Saba bananas dipped in a rice-flour batter and deep-fried into golden fritters with a shatteringly crisp shell and a sweet, tender banana inside. The eternal Indonesian street food: sold from carts at all hours, eaten as a snack, breakfast, dessert, or a sweet ending to dinner. Different from a banana lumpia (no wrapper) and from Thai gluay tod (different batter). The signature is the rice-flour-based batter that fries to a glassy crisp.*
+*Indonesia's eternal street snack: saba bananas dipped in rice-flour batter and deep-fried into golden fritters with a glassy crisp shell.*
 
 **Serves:** 4 (makes 8-10 fritters)
 

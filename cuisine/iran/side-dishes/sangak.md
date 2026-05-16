@@ -1,7 +1,7 @@
 # Sangak
 
 ![Sangak](resources/sangak.jpg)
-*The most ancient Persian bread: a long whole-wheat flatbread (sangak means "pebble") traditionally baked on a bed of hot small river pebbles in the oven, leaving a dimpled bottom. Slightly tangy from a long ferment, deeply chewy, with a slightly nutty wholemeal character. Eaten with feta, herbs, walnut and tea for breakfast; with kababs at lunch.*
+*Iran's most ancient bread: a long whole-wheat flatbread traditionally baked on a bed of hot pebbles. Slightly tangy, deeply chewy, nutty. Eaten with feta.*
 
 **Serves:** 4 (makes 2 long flatbreads)
 

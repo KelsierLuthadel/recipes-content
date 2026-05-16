@@ -1,7 +1,7 @@
 # Zlabia
 
 ![Zlabia](resources/zlabia.jpg)
-*The Algerian / Tunisian pretzel-shaped fried-dough sweet, drenched in honey-rose syrup until amber-glossy. Made by piping a thin yeasted batter through a funnel directly into hot oil in lacy spiral shapes, then plunging the fried pretzels into warm syrup. Different from Indian jalebi only in subtle ways (zlabia uses rose water, is slightly less coiled, often more pretzel-shaped). The Ramadan iftar dessert across the Maghreb.*
+*The Maghreb's iftar sweet: a thin yeasted batter piped into hot oil in lacy spirals, then drenched in honey-rose syrup till amber-glossy.*
 
 **Serves:** Makes about 20 zlabia
 

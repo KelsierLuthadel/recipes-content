@@ -1,7 +1,7 @@
 # Shrimp Po-boy
 
 ![Shrimp Po-boy](resources/shrimp-po-boy.jpg)
-*The New Orleans po-boy: a long French roll (originally from Leidenheimer's bakery - flaky, crisp outside, hollow inside), split, slathered with mayo and Creole mustard, piled with fried shrimp, sliced tomato, shredded lettuce and pickles. Eaten "dressed" (with everything) or "naked" (just shrimp). Born during the 1929 streetcar strike when the Martin brothers fed "those poor boys" for free.*
+*The New Orleans po-boy: a long French roll slathered with mayo and Creole mustard, piled with fried shrimp, sliced tomato, lettuce and pickles.*
 
 **Serves:** 2
 

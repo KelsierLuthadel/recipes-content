@@ -1,7 +1,7 @@
 # Super-Crunch Chicken Tenders with D'ussé Honey Sauce
 
 ![Super-Crunch Chicken Tenders](resources/super-crunch-tenders.jpg)
-*Jessica Fulks's competition-winning fried tenders: marinated briefly in a Buffalo-and-hot-sauce mix, then dredged in a clumpy, well-seasoned flour (the clumps are the texture) and fried golden. Drizzled with a honey-and-cognac sauce - D'ussé is the spec, but any cognac works. Super crispy, spicy, savoury, with the booze-honey at the end.*
+*A competition-winning fried tender: chicken marinated in Buffalo-and-hot-sauce, dredged in clumpy seasoned flour and fried golden. Drizzled with cognac honey.*
 
 **Serves:** 4
 

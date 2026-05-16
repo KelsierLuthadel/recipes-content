@@ -2,7 +2,7 @@
 
 ![Braided Loaf Step 1](resources/braided-1.jpg)
 
-*Braided bread is created by weaving multiple strands of dough together, typically three, four, or six strands for simple home baking. The result is visually striking, impressive, yet surprisingly straightforward to execute. The braid creates an elegant presentation ideal for special occasions, artisan displays, or simply showcasing technical skill.*
+*A braided loaf is woven from multiple strands of dough, typically three or four, for an elegant presentation. Easier to execute than it looks.*
 
 **Rising Time:** 45-60 minutes (final proof after braiding)
 **Baking Time:** 30-35 minutes (depending on dough recipe)

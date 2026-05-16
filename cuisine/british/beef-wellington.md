@@ -1,7 +1,7 @@
 # Beef Wellington
 
 ![Beef Wellington](resources/beef-wellington.jpg)
-*A whole beef fillet seared, slathered in mushroom duxelles and prosciutto, wrapped in puff pastry and roasted until the pastry is mahogany-bronze and the beef inside is pink. The British showpiece dish, traditionally credited to the Duke of Wellington's chef but more reliably a Victorian invention. Demands attention but rewards it with the most spectacular roast you'll cook.*
+*Britain's showpiece roast: a whole seared beef fillet slathered in mushroom duxelles and prosciutto, wrapped in puff pastry and baked till mahogany.*
 
 **Serves:** 6
 

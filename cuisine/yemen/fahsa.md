@@ -1,7 +1,7 @@
 # Fahsa
 
 ![Fahsa](resources/fahsa.jpg)
-*A Yemeni cousin of saltah, this one made with shredded slow-cooked lamb in a thick, dark, deeply spiced gravy, served bubbling-hot in a stone pot with a generous topping of hulba. More meat-forward than saltah - the meat is the point, not just the protein. Eaten with lahoh or tawa flatbread; gone within 15 minutes of arriving at the table.*
+*A Yemeni cousin of saltah: shredded slow-cooked lamb in a thick spiced gravy, served bubbling in a stone pot under a snowy whipped hulba froth.*
 
 **Serves:** 4
 

@@ -2,7 +2,7 @@
 
 ![Tahina Dip](resources/tahina.jpg)
 
-*Tahina (sesame seed paste) differs from tahini primarily in its tanginess and complexity. While tahini is rich, slightly bitter and sweet, tahina has a more complex, tangy character that makes it equally at home as a dip on its own or combined with chickpeas. This simple preparation celebrates the paste's inherent qualities: sesame richness, lemon brightness, and garlic pungency tempered by water into creamy consistency.*
+*The simplest sesame dip: tahina paste loosened with cold water and lemon, sharpened with crushed garlic, salted to taste. Eaten with warm pita.*
 
 **Prep Time:** 10 minutes
 **Yield:** Approximately 200 milliliters (4-5 servings as appetizer dip)

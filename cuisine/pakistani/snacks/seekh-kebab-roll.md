@@ -1,7 +1,7 @@
 # Seekh Kebab Roll
 
 ![Seekh Kebab Roll](resources/seekh-kebab-roll.jpg)
-*Pakistan's defining wrap snack: grilled seekh kebab (spiced lamb mince formed on a skewer and charred over coals) pulled off the skewer, wrapped in a warm flaky paratha with thinly sliced onion, fresh coriander, mint chutney and a squeeze of lemon. The Karachi and Lahore street-cart classic; eaten by hand, often two-at-a-time, with chai or a chilled lassi. Hot, smoky, herbal, garlicky.*
+*Pakistan's wrap snack: charcoal-grilled lamb seekh kebab pulled off the skewer, wrapped in a flaky paratha with onion, coriander and mint chutney.*
 
 **Serves:** 4 (makes 8 rolls - 8 small seekh kebabs in 4 paratha wraps)
 

@@ -1,7 +1,7 @@
 # Cornbread
 
 ![Cornbread](resources/cornbread.jpg)
-*Skillet cornbread: a hot, well-buttered cast-iron pan with a crisp golden crust on the bottom, a slightly sweet (or not, depending on your geography) crumb above. The Southern argument runs hot - Northerners want sugar, Southerners traditionally don't. This recipe sits in the middle. Eats with chilli, fried chicken, greens; or just butter and honey.*
+*Skillet cornbread: a hot well-buttered cast-iron pan with a crisp golden crust beneath a slightly sweet crumb. Eaten with chilli, fried chicken or honey.*
 
 **Serves:** 8
 

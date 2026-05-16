@@ -1,7 +1,7 @@
 # Curry Smelts
 
 ![Curry Smelts](resources/curry-smelts.jpg)
-*Trinidadian comfort food: small whole fish (smelts, sardines, whitebait) seasoned with green seasoning, lightly floured, fried crisp, then dropped into a Caribbean curry sauce of roasted geera (cumin), anchar masala, curry powder, garlic and Scotch bonnet. The fish stays crisp; the sauce coats. Eats with steamed rice or sada roti.*
+*Trinidad's comfort dish: small whole fish seasoned with green seasoning, lightly floured, fried crisp, then dropped into a Caribbean curry of roasted geera and chilli.*
 
 **Serves:** 5
 

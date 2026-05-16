@@ -1,7 +1,7 @@
 # Baba Ganoush
 
 ![Baba Ganoush](resources/baba-ganoush.jpg)
-*The Levantine smoky aubergine dip: open-flame charred aubergine, mashed with tahini, lemon, garlic, salt, finished with olive oil, pomegranate seeds and parsley. The Israeli style leans towards more tahini and a slightly silkier texture; the Lebanese mutabbal cousin is similar but goes longer on garlic. The smoke is essential - pale uncharred aubergine gives a different (lesser) dish.*
+*The Levantine smoky aubergine dip: flame-charred aubergine mashed with tahini, lemon and garlic, finished with olive oil, pomegranate and parsley.*
 
 **Serves:** 4 as a mezze
 

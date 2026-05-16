@@ -1,7 +1,7 @@
 # Coco Bread
 
 ![Coco Bread](resources/coco-bread.jpg)
-*A soft, slightly sweet, folded Jamaican bread roll made with coconut milk - rich, pillowy, with a faint coconut sweetness running through. The traditional wrapper for a Jamaican beef patty (one folded coco bread, one hot patty inside - the classic lunchtime sandwich of the island), but also eaten on its own with butter, jam, or alongside jerk.*
+*Jamaica's folded coconut-milk roll: soft, slightly sweet and pillowy, with a faint coconut sweetness. The traditional wrap for a Jamaican beef patty.*
 
 **Serves:** Makes 8 rolls
 

@@ -1,7 +1,7 @@
 # Sweet Potato Pudding
 
 ![Sweet Potato Pudding](resources/sweet-potato-pudding.jpg)
-*Known across Jamaica as "Hell-a-Top, Hell-a-Bottom, Hallelujah in the Middle" - a reference to the old method of cooking it in a Dutch pot over coals with hot coals piled on the lid, so heat came from above and below. A dense, fudge-like pudding of grated yellow sweet potato bound with coconut milk, brown sugar, raisins, spices and a touch of rum. Sliced into thick squares; the middle stays soft and almost custardy.*
+*Jamaica's dense fudge-like pudding: grated yellow sweet potato bound with coconut milk, brown sugar, raisins, spice and a glug of dark rum. Baked slow.*
 
 **Serves:** 10-12 (one 23 cm square dish)
 

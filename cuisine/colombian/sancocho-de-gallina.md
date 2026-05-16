@@ -1,7 +1,7 @@
 # Sancocho de Gallina
 
 ![Sancocho de Gallina](resources/sancocho-de-gallina.jpg)
-*The Colombian (and broader Caribbean-Spanish) celebration soup: a stewing hen slow-cooked with cassava, plantain, corn, potato, sweet potato and a sofrito of onion, garlic, tomato and ají. Eaten with a side of rice and a small bowl of hogao or fresh ají. A Sunday-lunch dish made for a crowd; the broth is the centre, the chicken is the trophy.*
+*Colombia's celebration soup: a stewing hen slow-cooked with cassava, plantain, corn, potato and sweet potato in an onion-tomato-ají sofrito broth.*
 
 **Serves:** 6
 

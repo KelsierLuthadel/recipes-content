@@ -2,7 +2,7 @@
 
 ![Thiéboudiène](resources/thieboudienne.jpg)
 
-*Thiéboudiène (ceebu jën in Wolof) is the national dish of Senegal: firm white fish stuffed with a green herb paste, simmered in a tomato-rich sauce with chunks of cassava, carrot, cabbage and aubergine, then served over broken rice cooked in the same sauce until it stains red. A coastal dish from Saint-Louis attributed to the 19th-century cook Penda Mbaye, it is built in stages and shared from one platter.*
+*Senegal's national dish: white fish stuffed with a green herb paste, simmered in a tomato sauce with cassava, carrot and cabbage, over broken rice.*
 
 **Serves:** 6
 

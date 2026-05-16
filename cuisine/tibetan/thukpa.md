@@ -2,7 +2,7 @@
 
 ![Thukpa](resources/thukpa.jpg)
 
-*The Tibetan hand-pulled noodle soup eaten across the high plateau, in Ladakh and in the Tibetan diaspora kitchens of Kathmandu and Dharamsala. A clean, gingery broth with hand-pulled wheat noodles, vegetables and meat (yak at home, beef or mutton elsewhere). The version cooked in monasteries is often vegetarian and lighter; the version a Tibetan grandmother makes in winter is a substantial bowl that warms you from the inside out.*
+*Tibet's hand-pulled noodle soup: a clean, gingery broth with fresh wheat noodles, vegetables and yak (or beef). The winter dish of the high plateau.*
 
 **Serves:** 4
 

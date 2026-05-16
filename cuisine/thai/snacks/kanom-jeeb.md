@@ -1,7 +1,7 @@
 # Kanom Jeeb
 
 ![Kanom Jeeb](resources/kanom-jeeb.jpg)
-*Thailand's open-topped steamed dumplings - the local cousin of Cantonese siu mai, brought in with the Chaozhou (Teochew) Chinese diaspora and naturalised through Thai street markets and dim-sum carts. A wonton-wrapper cup holds a coriander-and-garlic-spiked pork-and-prawn filling, topped with a sliver of carrot for colour. Steamed 8 minutes; served warm with a black soy and chilli vinegar dip. Sold by the basket at any Thai morning market.*
+*Thailand's open-topped dumplings: wonton wrappers cupped around a coriander-and-garlic pork-and-prawn filling, steamed and dipped in black soy.*
 
 **Serves:** 4 (makes 20 dumplings)
 

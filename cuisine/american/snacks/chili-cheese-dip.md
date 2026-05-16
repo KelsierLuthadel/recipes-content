@@ -1,7 +1,7 @@
 # Chili Cheese Dip
 
 ![Chili Cheese Dip](resources/chili-cheese-dip.jpg)
-*Bubbling baked dip of seasoned ground beef, beans, tomatoes and a generous layer of melted cheese on top - served straight from the oven with tortilla chips for scooping. The Texas / Tex-Mex potluck staple, the Super Bowl Sunday workhorse. Cooks in a single skillet, finishes under a broiler for the molten-cheese cap. Make in a wide cast-iron pan and bring straight to the table - the bubbling rim is half the appeal.*
+*The Super Bowl skillet dip: seasoned ground beef and beans bubbling under a melted-cheese cap, finished under the broiler. Eaten with tortilla chips.*
 
 **Serves:** 6-8 (as a sharing dip)
 

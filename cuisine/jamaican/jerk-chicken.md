@@ -1,7 +1,7 @@
 # Jerk Chicken
 
 ![Jerk Chicken](resources/jerk-chicken.jpg)
-*Jamaica's national grilled dish: bone-in chicken pieces marinated overnight in a fiery wet rub of scotch bonnet chillies, allspice (pimento), thyme, ginger, garlic, spring onion, soy, lime and brown sugar, then slow-grilled over pimento wood (allspice branches) until the skin is darkly charred and the meat is smoky to the bone. Eaten with rice and peas, festival (sweet fried dumplings) and slices of cooling cucumber.*
+*Jamaica's national grill: bone-in chicken marinated overnight in a fiery rub of Scotch bonnet, allspice and thyme, slow-grilled over pimento wood.*
 
 **Serves:** 4
 

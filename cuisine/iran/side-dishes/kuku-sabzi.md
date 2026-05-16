@@ -1,7 +1,7 @@
 # Kuku Sabzi
 
 ![Kuku Sabzi](resources/kuku-sabzi.jpg)
-*Persian herb frittata: an extraordinary quantity of fresh chopped herbs (parsley, coriander, chives, dill, leek) bound with eggs, a little flour, turmeric, walnut and barberries, baked or pan-cooked into a deep-green slice that looks like cake. Eaten warm or at room temperature with yogurt and bread; central to the Nowruz (Persian New Year) table.*
+*The Persian herb frittata: an extraordinary quantity of chopped parsley, coriander, chives and dill bound with eggs, walnut and barberries, baked deep-green.*
 
 **Serves:** 6
 

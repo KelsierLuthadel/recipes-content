@@ -1,7 +1,7 @@
 # Fried Plantains
 
 ![Fried Plantains](resources/fried-plantains.jpg)
-*Sweet ripe plantains, sliced on a diagonal and slow-fried in shallow oil until the edges caramelise to a deep mahogany and the centres turn meltingly soft. A non-negotiable side on the Jamaican plate, served with jerk, curry, brown stew or rice and peas. The trick is the plantain ripeness: skin should be yellow-black, almost too far gone, with give when pressed.*
+*Jamaica's non-negotiable side: sweet ripe plantains sliced and slow-fried till the edges caramelise to deep mahogany and the centres turn meltingly soft.*
 
 **Serves:** 4 as a side
 

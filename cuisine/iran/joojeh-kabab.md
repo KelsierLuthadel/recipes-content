@@ -1,7 +1,7 @@
 # Joojeh Kabab
 
 ![Joojeh Kabab](resources/joojeh-kabab.jpg)
-*Iran's lemony saffron-marinated chicken kebabs: boneless chicken thigh in long strips, marinated overnight in yogurt, saffron, onion juice and lemon, threaded onto wide flat skewers and grilled hot over charcoal (or under a hot grill at home). Served with chelo rice, fresh herbs (sabzi khordan) and grilled tomatoes. The sunny side of Persian cooking.*
+*Iran's saffron chicken kebab: thigh marinated overnight in yogurt, saffron, onion juice and lemon, grilled hot over charcoal. Served with chelo rice.*
 
 **Serves:** 4
 

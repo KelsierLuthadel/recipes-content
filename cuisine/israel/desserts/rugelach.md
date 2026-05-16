@@ -1,7 +1,7 @@
 # Rugelach
 
 ![Rugelach](resources/rugelach.jpg)
-*Small Ashkenazi-Jewish crescent pastries - a rolled cream-cheese dough wrapped around a sweet filling of chocolate, jam, walnuts, cinnamon-sugar, or raisin-cinnamon. Sold by the bag in every Israeli and New York bakery. Different from the larger French croissant: rugelach is denser, the dough is enriched with cream cheese (not butter alone), and the filling is the star. Eats with a glass of milk or strong coffee.*
+*The Ashkenazi-Jewish crescent: a cream-cheese dough rolled around chocolate, jam or cinnamon-walnut filling, twisted into small curled pastries. Baked golden.*
 
 **Serves:** Makes 32 rugelach
 

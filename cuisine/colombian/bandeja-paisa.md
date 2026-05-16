@@ -1,7 +1,7 @@
 # Bandeja Paisa
 
 ![Bandeja Paisa](resources/bandeja-paisa.jpg)
-*Colombia's national mega-plate, from the Antioquia (paisa) region: a single platter holding red beans, white rice, chicharrón (crackling pork belly), chorizo, fried egg, sliced avocado, an arepa, a slice of ripe plantain and a strip of grilled steak. Eaten for lunch, with effort, often with a beer. Not a single recipe - a composition.*
+*Colombia's national mega-plate: a single platter of red beans, white rice, chicharrón, chorizo, fried egg, avocado, arepa, plantain and grilled steak.*
 
 **Serves:** 4
 

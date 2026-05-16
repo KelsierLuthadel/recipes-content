@@ -1,7 +1,7 @@
 # Caldo Verde
 
 ![Caldo Verde](resources/caldo-verde.jpg)
-*Portugal's beloved kale-and-potato soup: a smooth, gentle potato base with finely-shredded couve galega (collard-style kale) cooked very briefly so it stays bright green, slices of chouriço floating on top, a generous pour of olive oil. From the Minho in the north, now eaten across the country. Served at weddings, festas, late-night meals - a soup that's almost a national symbol.*
+*Portugal's beloved soup: a smooth potato base with finely shredded collard kale, slices of chouriço floating on top and a generous slick of olive oil.*
 
 **Serves:** 6
 

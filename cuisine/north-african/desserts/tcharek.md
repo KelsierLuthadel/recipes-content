@@ -1,7 +1,7 @@
 # Tcharek el-Ariane (Almond Crescents)
 
 ![Tcharek](resources/tcharek.jpg)
-*Algerian / Tunisian crescent cookies - short almond-paste filling wrapped in a thin shortbread dough, baked pale, then dipped briefly in orange-flower syrup and rolled in icing sugar. The "Eve's crescents" of the Maghreb, eaten at Eid al-Fitr (end-of-Ramadan), weddings, and special occasions. Smaller, more delicate, and less sugary than shekerbura or maamoul; the almond filling dominates over the dough.*
+*The Maghreb's Eve's crescents: almond-paste filling wrapped in thin shortbread, baked pale, dipped in orange-flower syrup, rolled in icing sugar.*
 
 **Serves:** Makes 24 crescents
 

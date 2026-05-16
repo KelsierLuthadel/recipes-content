@@ -1,7 +1,7 @@
 # Wet Tha Hin Lay
 
 ![Wet Tha Hin Lay](resources/wet-tha-hin-lay.jpg)
-*Burmese pork curry: cubed pork shoulder slow-cooked in a deeply aromatic gravy of turmeric, paprika, fried onion, garlic, ginger and fish sauce, finished with a glossy slick of oil floating on top - the Burmese signature of a properly cooked curry (si byan, "the oil returns"). Eaten with white rice and a small dish of pickled vegetables or fresh raw cucumber.*
+*Burma's pork curry: cubed pork shoulder slow-cooked in a deep aromatic gravy of turmeric, paprika, fried onion, garlic, ginger and fish sauce.*
 
 **Serves:** 4
 

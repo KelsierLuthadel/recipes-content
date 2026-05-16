@@ -1,7 +1,7 @@
 # Sopaipillas
 
 ![Sopaipillas](resources/sopaipillas.jpg)
-*Chilean fried pumpkin flatbreads: discs of pumpkin-and-flour dough deep-fried until golden and slightly puffed, eaten warm with pebre, mustard, or a smear of butter. Sold from street carts on rainy Santiago afternoons; bought in paper bags by the dozen. A winter-comfort food, distinct from the South American "sopaipillas" sold as a sweet pastry - these are savoury, dense, and built around cooked pumpkin.*
+*Chile's rainy-day flatbread: pumpkin-and-flour discs deep-fried golden and puffed. Eaten warm with pebre, mustard or a smear of butter.*
 
 **Serves:** 6 (makes 15-18)
 

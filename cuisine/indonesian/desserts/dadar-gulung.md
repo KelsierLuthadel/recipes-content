@@ -1,7 +1,7 @@
 # Dadar Gulung
 
 ![Dadar Gulung](resources/dadar-gulung.jpg)
-*Bright-green pandan crepes rolled around a filling of fresh grated coconut cooked with palm sugar (unti) - like a sweet, fragrant Indonesian cigar. The crepe is supple from coconut milk and tinted with pandan, the filling sticky-sweet from caramelised palm sugar. A traditional kueh (small snack-dessert), served at tea time or as a treat at the end of dinner. Pairs especially with strong black coffee.*
+*Indonesia's green pandan crepes: rolled around a sticky filling of fresh grated coconut cooked with palm sugar. A sweet, fragrant cigar.*
 
 **Serves:** Makes 12 rolls
 

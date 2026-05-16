@@ -1,7 +1,7 @@
 # Chamucas
 
 ![Chamucas](resources/chamucas.jpg)
-*The Mozambican samosa: smaller and crisper than the Indian one (the cuisine came via Goan and Indian traders), filled with spiced minced beef, onion and a touch of chilli, folded into neat triangles and deep-fried until shatteringly golden. Sold by street vendors across Maputo and Beira; eaten with a small bowl of piri-piri or chilli sauce.*
+*Mozambique's samosa: smaller and crisper than the Indian original, filled with spiced minced beef and onion, folded into neat triangles and deep-fried.*
 
 **Serves:** 6 (makes about 20)
 

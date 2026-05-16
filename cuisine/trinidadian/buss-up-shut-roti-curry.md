@@ -2,7 +2,7 @@
 
 ![Buss-Up-Shut Roti with Curry](resources/buss-up-shut-roti-curry.jpg)
 
-*The torn, shredded, layered paratha roti of Trinidad: a soft flaky flatbread cooked on a flat tawa, then beaten with two wooden spatulas straight off the heat until it bursts into rough, fluffy pieces that look like a torn-up shirt (hence the name). Served alongside a simple Trini channa and aloo curry to scoop and tear. Roti shop standard.*
+*Trinidad's torn paratha: a soft flaky flatbread beaten straight off the heat till it bursts into rough fluffy pieces. Served with a quick channa-and-aloo.*
 
 **Serves:** 4
 

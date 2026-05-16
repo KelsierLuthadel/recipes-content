@@ -1,7 +1,7 @@
 # Sri Lankan Chicken Curry
 
 ![Sri Lankan Chicken Curry](resources/sri-lankan-chicken-curry.jpg)
-*Coconut-rich, spice-forward, far hotter than its mainland Indian cousin. Whole spices toast and grind into a fresh "raw" curry powder; chicken simmers in coconut milk with curry leaves, pandan, cinnamon and lemongrass. The defining note is the toasted, almost coffee-coloured spice mix and a Maldive-fish-flake umami at the back. Eaten over rice with pol sambol and a vegetable curry on the side.*
+*Sri Lanka's coconut-rich curry: chicken simmered in coconut milk with toasted whole-spice curry powder, curry leaves, pandan and lemongrass.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Catrachitas
 
 ![Catrachitas](resources/catrachitas.jpg)
-*Crisp corn-tortilla rounds topped with hot refried beans and a generous sprinkle of crumbled cheese - the Honduran answer to a tostada and the most common bar snack across the country. Eaten warm, picked up by the edges, washed down with a cold Salva Vida beer. Add a spoonful of chimol or sliced avocado for a slightly fuller plate.*
+*Honduras' bar snack: crisp corn-tortilla rounds topped with hot refried beans and a sprinkle of crumbled cheese. Washed down with a cold Salva Vida.*
 
 **Serves:** 4 as a snack (12 catrachitas)
 

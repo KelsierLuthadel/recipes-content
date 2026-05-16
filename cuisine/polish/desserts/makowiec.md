@@ -2,7 +2,7 @@
 
 ![Makowiec](resources/makowiec.jpg)
 
-*Polish poppy-seed rolled yeast cake: an enriched yeast dough rolled paper-thin, spread thickly with a sweetened poppy-seed paste flecked with raisins, walnuts and candied orange, rolled into a log, baked until golden and finished with a thin lemon icing. The Christmas Eve and Easter centrepiece, baked in every Polish home for the twelve-dish Wigilia and shared with neighbours.*
+*Poland's poppy-seed rolled cake: a yeasted dough spread with a sweetened poppy-seed paste flecked with raisins, walnuts and candied orange. Iced.*
 
 **Serves:** 10
 

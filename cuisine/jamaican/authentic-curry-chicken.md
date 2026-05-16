@@ -1,7 +1,7 @@
 # Authentic Jamaican Curry Chicken
 
 ![Authentic Jamaican Curry Chicken](resources/authentic-curry-chicken.jpg)
-*"Burning the curry" - the Jamaican technique of blooming curry powder in hot oil until it darkens to deep gold and smells like spice toast. Bone-in dark-meat chicken marinates in half the curry, then sears in the bloomed remainder. A long covered stew with bell pepper, onion, scallions, thyme, a whole Scotch bonnet, then carrots and potatoes for the final stretch. Serves over white rice.*
+*Jamaica's burnt-curry chicken: curry powder bloomed in hot oil till it darkens, with bone-in chicken simmered in a long covered stew with Scotch bonnet.*
 
 **Serves:** 4
 

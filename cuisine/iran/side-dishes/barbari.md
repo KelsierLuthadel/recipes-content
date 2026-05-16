@@ -1,7 +1,7 @@
 # Barbari
 
 ![Barbari](resources/barbari.jpg)
-*The Persian breakfast bread: a long flat oval loaf (50 cm) with deep parallel ridges down the length, scattered with sesame and nigella seeds, baked at extreme heat against the side of a tandoor (or on a hot stone at home). Crisp shell, soft chewy crumb. Eaten with white cheese, feta, jam or honey at breakfast; with kababs and stews at lunch.*
+*Iran's breakfast bread: a long flat oval loaf with deep parallel ridges and a scatter of sesame and nigella, baked at extreme heat against a tandoor wall.*
 
 **Serves:** 4 (makes 2 long flatbreads)
 

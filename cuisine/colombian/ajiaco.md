@@ -1,7 +1,7 @@
 # Ajiaco
 
 ![Ajiaco](resources/ajiaco.jpg)
-*Bogotá's signature Andean chicken soup, defined by three different potato varieties and the herb guascas. Long-cooked papa criolla almost dissolves and thickens the broth; sabanera and pastusa hold their shape for texture. Served with avocado, capers, cream and a wedge of corn on the cob in the bowl. The capital's national dish.*
+*Bogotá's Andean chicken soup: three different potato varieties cooked with chicken and the herb guascas. Served with avocado, capers, cream and corn.*
 
 **Serves:** 6
 

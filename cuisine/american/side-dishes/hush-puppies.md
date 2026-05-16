@@ -1,7 +1,7 @@
 # Hush Puppies
 
 ![Hush Puppies](resources/hush-puppies.jpg)
-*Southern American cornmeal fritters: golf-ball-sized scoops of buttermilk-cornmeal batter with onion and a pinch of cayenne, dropped into hot oil and fried until deep gold and crisp. Eaten with fried fish, BBQ, or alongside coleslaw. Crisp outside, soft inside, slightly sweet. Born in fish-camp kitchens - the bits of leftover cornmeal batter tossed to barking dogs ("hush, puppies").*
+*Southern cornmeal fritters: golf-ball scoops of buttermilk-cornmeal batter with onion and a pinch of cayenne, dropped into hot oil and fried gold.*
 
 **Serves:** 6 (makes about 20)
 

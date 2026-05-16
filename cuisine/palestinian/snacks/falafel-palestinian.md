@@ -1,7 +1,7 @@
 # Falafel Palestinian
 
 ![Falafel Palestinian](resources/falafel-palestinian.jpg)
-*The Palestinian falafel - distinct from Lebanese and Egyptian versions by a particularly green interior (huge proportion of parsley AND coriander) and the addition of leek or scallion. Crisped in deep oil and tucked into thick khobz bread with tahini, salad and pickles. The defining street food of Ramallah, Bethlehem and East Jerusalem. Made well: amber-crusted outside, vivid green inside, addictive with the tahini-pickle-bread combination.*
+*Palestine's herb-green falafel: soaked chickpeas blitzed with parsley, coriander and leek, deep-fried amber and tucked into thick khobz with tahini.*
 
 **Serves:** 4 (makes 20 patties)
 

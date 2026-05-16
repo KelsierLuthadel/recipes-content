@@ -1,7 +1,7 @@
 # Buñuelos Colombianos
 
 ![Buñuelos Colombianos](resources/bunuelos-colombianos.jpg)
-*Cheese-and-cornstarch dough balls deep-fried into golden orbs with a slightly crisp shell and a chewy, cheesy interior. The Colombian Christmas snack par excellence - paired with natillas custard at Nochebuena (Christmas Eve). Different from Spanish buñuelos (yeasted, sweet) and Mexican buñuelos (flat discs in syrup) - Colombian buñuelos are round, savoury, cheese-led.*
+*Colombia's Christmas snack: cheese-and-cornstarch dough balls deep-fried into golden orbs with a slightly crisp shell and a chewy cheesy interior.*
 
 **Serves:** Makes about 20 buñuelos
 

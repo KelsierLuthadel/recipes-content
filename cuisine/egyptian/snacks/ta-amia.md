@@ -2,7 +2,7 @@
 
 ![Ta'amia](resources/ta-amia.jpg)
 
-*These golden, crispy deep-fried chickpea rissoles are eaten throughout the Middle East as street food, appetizers, and light meals. Served with tahina dip and crisp Egyptian salad, wrapped in pita bread, they're simple, utterly satisfying, and entirely vegetarian. The pale green interior speckled with dark green herbs is both visually striking and flavorful.*
+*Egypt's broad-bean falafel: ground fava beans, herbs and spices blitzed to a soft green paste, fried golden. Eaten in pita with tahina and pickles.*
 
 **Prep Time:** 8 hours
 **Yield:** Approximately 24-28 falafels

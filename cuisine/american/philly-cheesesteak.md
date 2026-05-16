@@ -1,7 +1,7 @@
 # Philly Cheesesteak
 
 ![Philly Cheesesteak](resources/philly-cheesesteak.jpg)
-*The Philadelphia sandwich: thinly-sliced ribeye steak chopped on a hot flat-top with sautéed onion (sometimes peppers and mushrooms), piled into a long soft hoagie roll, blanketed with melted cheese (provolone, American, or - controversially - Cheez Whiz). Hot, drippy, eaten with both hands over the wrapper. Origin: South Philly, 1930s, Pat Olivieri's stand at 9th and Wharton.*
+*Philadelphia's sandwich: thinly sliced ribeye chopped on a hot flat-top with sautéed onion, piled into a soft hoagie roll under melted cheese.*
 
 **Serves:** 2
 

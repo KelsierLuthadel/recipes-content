@@ -1,7 +1,7 @@
 # Bourekas
 
 ![Bourekas](resources/bourekas.jpg)
-*Israeli filo or puff-pastry savoury turnovers, descended from the Sephardi Turkish börek (and originally from Ottoman trade). Filled with cheese (the most common - feta + ricotta), spinach-and-cheese, potato, or mushroom. Eats hot for breakfast with hard-boiled egg and pickles (the Israeli "boureka and bagel" breakfast) or as a snack any time of day. Iconic Israeli bakery item; every Tel Aviv corner shop has them in the cabinet.*
+*Israel's bakery-cabinet pastry: puff-pastry triangles filled with feta-and-ricotta, spinach, potato or mushroom. Sprinkled with sesame and nigella.*
 
 **Serves:** Makes 12 bourekas
 

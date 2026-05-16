@@ -1,7 +1,7 @@
 # Scallion Pancakes
 
 ![Scallion Pancakes](resources/scallion-pancakes.jpg)
-*Cong you bing - Taiwanese (and northern Chinese) scallion pancakes: hand-rolled flaky discs of dough laminated with sliced scallions, sesame oil and salt, pan-fried until shatteringly crisp on the outside and chewy-flaky inside. Cut into wedges and dipped in soy-vinegar-ginger sauce. Street snack, side dish, breakfast, or a glory all on its own.*
+*Taiwan's scallion pancakes: hand-rolled flaky discs laminated with sliced scallions, sesame oil and salt, pan-fried shatteringly crisp outside, chewy within.*
 
 **Makes:** 4 pancakes
 

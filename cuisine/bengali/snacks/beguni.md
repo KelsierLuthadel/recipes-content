@@ -1,7 +1,7 @@
 # Beguni
 
 ![Beguni](resources/beguni.jpg)
-*Thin slices of brinjal, dipped in a spiced chickpea-flour batter the colour of saffron, fried until the batter blisters into a crisp golden shell and the eggplant inside melts to cream. The smell is hot mustard oil and toasted besan with a whisper of nigella seed. A staple of iftar tables across Bangladesh during Ramadan and an everyday tea-time snack year-round in West Bengal.*
+*Bengal's monsoon snack: thin slices of brinjal dipped in a saffron-coloured chickpea-flour batter and fried till the batter blisters crisp.*
 
 **Serves:** 4
 

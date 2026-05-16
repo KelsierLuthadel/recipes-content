@@ -1,7 +1,7 @@
 # Tameya
 
 ![Tameya](resources/tameya.jpg)
-*Egypt's defining falafel - made with dried fava beans (not chickpeas as in the Levantine version). The result is greener, softer-inside, and more vegetal-tasting than chickpea falafel. Crusted in sesame seeds and coriander seeds, deep-fried until amber-and-crackling, packed into a baladi pita with tahini sauce, salad and pickles. The Egyptian breakfast / street-food classic; sold by the kilo from Cairo carts at dawn.*
+*Egypt's defining falafel: soaked dried fava beans blitzed with herbs and onion, crusted in sesame, deep-fried till amber-crackling. Stuffed in baladi pita.*
 
 **Serves:** 4 (makes 16 patties)
 

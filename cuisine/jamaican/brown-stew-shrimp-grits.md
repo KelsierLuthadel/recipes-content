@@ -1,7 +1,7 @@
 # Brown Stew Shrimp and Sweet Potato Grits
 
 ![Brown Stew Shrimp and Sweet Potato Grits](resources/brown-stew-shrimp-grits.jpg)
-*Caribbean-Southern fusion: jumbo shrimp seasoned with allspice and smoked paprika, simmered in a savoury "brown stew" sauce (bell peppers, carrot, Scotch bonnet, browning sauce, coconut/butter base), spooned over sweet potato grits enriched with gouda and half-and-half. Brown stew is Jamaican; sweet potato grits are Southern; together they're inarguable.*
+*A Caribbean-Southern fusion: jumbo shrimp in a brown-stew sauce with peppers and Scotch bonnet, spooned over sweet potato grits enriched with gouda.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Arroz Blanco Hondureño
 
 ![Arroz Blanco Hondureño](resources/arroz-blanco-hondureno.jpg)
-*The plain white rice that sits on every Honduran lunch plate - lightly toasted in oil with a chopped onion and a few garlic cloves, then cooked absorption-style. Faintly savoury, fluffy, separate-grained. Less aromatic than Indian rice, less buttery than European pilaf - the supporting role on which beans, beef, plantain and avocado sit.*
+*Honduras' plain white rice: long-grain toasted in oil with onion and garlic, then cooked absorption-style. Fluffy and separate, the supporting plate.*
 
 **Serves:** 4
 

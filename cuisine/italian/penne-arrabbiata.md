@@ -2,7 +2,7 @@
 
 ![Penne Arrabbiata](resources/penne-allarrabiata.jpg)
 
-*Penne all' Arrabbiata, "in the manner of the angry cook", a Roman classic of brutal simplicity: fresh tomatoes, fierce chilli, golden garlic, and excellent pasta. The dish's name refers to the chilli's heat; the sauce's beauty lies in its straightforwardness. Fresh tomatoes are preferred; if using canned, discard seeds to avoid wateriness.*
+*Rome's angry pasta: penne in a sauce of fresh tomato, fierce chilli, golden garlic and good olive oil. The dish's name refers to the chilli's heat.*
 
 **Serves:** 4
 **Prep Time:** 15 minutes

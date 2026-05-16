@@ -1,7 +1,7 @@
 # Loukoumades
 
 ![Loukoumades](resources/loukoumades.jpg)
-*Golf-ball-sized doughnut puffs drenched in warm honey syrup the moment they leave the fryer, dusted with crushed walnuts and cinnamon. The dough is yeasted, wet, and dropped from a wet hand into hot oil. Each fries to a hollow crisp puff. Hot honey soaks through the shell into the airy interior. Sold from carts at festivals across Greece; a fixture at family celebrations. Eats with strong coffee, scalding fingers, and zero shame.*
+*Greece's festival doughnut: golf-ball puffs of yeasted batter dropped from a wet hand into hot oil, drenched in warm honey syrup, scattered with walnut.*
 
 **Serves:** 6 (makes about 30 loukoumades)
 

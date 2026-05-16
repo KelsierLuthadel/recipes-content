@@ -1,7 +1,7 @@
 # Beef Si Byan
 
 ![Beef Si Byan](resources/beef-sibyan.jpg)
-*Burmese slow-cooked beef curry, brick-red and oil-glazed, where the meat falls apart in the gravy and the oil "returns" to the top as the cooking signal. Less complex than its Indian neighbours - no garam masala layering - but built on patient browning of onion and ginger-garlic and a slow simmer with fish sauce and dried chilli. Eaten with rice and a side of raw cucumber.*
+*Burma's brick-red beef curry: meat slow-cooked till it falls apart and the oil 'returns' to the top, built on patient browning of onion and ginger.*
 
 **Serves:** 4
 

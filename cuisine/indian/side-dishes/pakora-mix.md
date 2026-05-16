@@ -1,7 +1,7 @@
 # Mixed Vegetable Pakora
 
 ![Mixed Vegetable Pakora](resources/pakora-mix.jpg)
-*The rainy-day Indian snack: handfuls of mixed vegetables - onion, potato, cauliflower, spinach - coated in a thick, spiced gram (chickpea) flour batter and deep-fried into golden lumpy fritters. Eaten hot, dipped in mint or tamarind chutney, with a cup of masala chai. Each shape is a rough cluster; uniformity isn't the point.*
+*The rainy-day Indian snack: handfuls of onion, potato, cauliflower and spinach coated in a thick spiced gram-flour batter and deep-fried in lumpy clusters.*
 
 **Serves:** 4 as a snack
 

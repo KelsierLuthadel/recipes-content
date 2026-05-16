@@ -2,7 +2,7 @@
 
 ![Sernik](resources/sernik.jpg)
 
-*Polish twaróg cheesecake: dense, dry, slightly tangy, lifted with eggs and brightened with lemon zest. Built on a shortcrust base, finished sometimes with a lattice of leftover pastry or a sour cream glaze. Drier than Anglo-American cheesecake, less rich than New York style: the classic Polish Sunday dessert, the Easter centrepiece, the Christmas tea-table fixture.*
+*Poland's twaróg cheesecake: dense, dry, slightly tangy, lifted with eggs and brightened with lemon zest. Built on a shortcrust base. The Easter centrepiece.*
 
 **Serves:** 12
 

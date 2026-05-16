@@ -1,7 +1,7 @@
 # Briouat bil Lahm (Meat Briouats)
 
 ![Briouat bil Lahm](resources/briouat-bil-lahm.jpg)
-*The meat-filled sister of the cheese briouat: triangles of crisp warka or filo around a filling of slow-cooked spiced minced lamb or beef with onion, parsley, fresh coriander, ras-el-hanout and a touch of preserved lemon. The classic Moroccan ramadan iftar starter and party canapé. Hits all the Moroccan signature flavours - sweet onion, warm spice, herby brightness, citrus tang - in one bite.*
+*Morocco's iftar starter: warka triangles wrapped around slow-cooked spiced lamb with onion, herbs, ras-el-hanout and preserved lemon. Deep-fried.*
 
 **Serves:** Makes 18 triangles
 

@@ -1,7 +1,7 @@
 # Beignets
 
 ![Beignets](resources/beignets.jpg)
-*The square pillowy New Orleans fritter, doused in a snowdrift of icing sugar, served three to a plate at Café du Monde with chicory coffee. A simple yeasted dough, rolled thin, cut into squares, fried at 180°C until puffed and pale gold inside, deep gold outside. Crisp shell, hollow centre, hot, eaten with the fingers, sugar on the upper lip.*
+*The New Orleans pillowy fritter: a yeasted dough rolled thin, cut into squares and fried till puffed and pale gold. Doused in a snowdrift of icing sugar.*
 
 **Serves:** 6 (makes about 30)
 

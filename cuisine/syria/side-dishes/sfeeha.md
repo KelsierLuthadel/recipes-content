@@ -1,7 +1,7 @@
 # Sfeeha
 
 ![Sfeeha](resources/sfeeha.jpg)
-*Aleppo's open-faced lamb pies: small soft-dough rounds topped with a tangy spiced lamb mince - pomegranate molasses, tomato, onion, pine nuts, Aleppo pepper - and baked until the meat is just cooked and the dough is golden underneath. A traditional Syrian Christian and Muslim food alike, eaten by the half-dozen at lunch with yogurt and a squeeze of lemon. Smaller, more open and more tangy than its larger cousin lahm bi ajeen.*
+*Aleppo's open-faced lamb pies: small dough rounds topped with a tangy mince of tomato, pomegranate molasses, pine nuts and Aleppo pepper. Baked hot.*
 
 **Serves:** 6 (makes 24)
 

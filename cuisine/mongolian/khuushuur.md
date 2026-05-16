@@ -1,7 +1,7 @@
 # Khuushuur
 
 ![Khuushuur](resources/khuushuur.jpg)
-*Mongolia's fried meat pasty: a thin disc of unleavened wheat dough wrapped around a generous spoon of minced mutton (or beef) seasoned simply with onion, garlic and salt, sealed at the edges into a flat half-moon, deep-fried in mutton fat or oil until the dough is blistered gold and the meat juices steam out at first bite. Sold by every corner stall during the summer Naadam festival; eaten by hand, often with milk tea.*
+*Mongolia's Naadam pasty: a thin disc of wheat dough wrapped around minced mutton with onion and garlic, sealed into a half-moon and deep-fried.*
 
 **Serves:** 4 (makes 12 khuushuur)
 

@@ -1,7 +1,7 @@
 # Bacalhau à Brás
 
 ![Bacalhau à Brás](resources/bacalhau-a-bras.jpg)
-*Lisbon's most-loved bacalhau preparation: shredded salt cod scrambled together with thin matchstick fries, soft caramelised onions, eggs and parsley, the lot held together by the egg without ever fully setting. Born in a Bairro Alto tasca in the 19th century; now cooked in every Portuguese kitchen and on every taberna menu. Crisp at the edges, soft in the middle, with the salt cod's depth running through everything.*
+*Lisbon's most-loved bacalhau: shredded salt cod scrambled with matchstick fries, soft caramelised onion, eggs and parsley, held by the egg.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Corn Soup
 
 ![Corn Soup](resources/corn-soup.jpg)
-*The Haudenosaunee (Iroquois) ceremonial soup of nixtamalised white flint corn, simmered for hours with kidney beans and either pork (modern) or venison (historical), until the soup is thick, milky-white, and the corn kernels are tender but still distinct. Eaten at the Midwinter and Green Corn ceremonies; eaten at funerals and weddings; the everyday Sunday-dinner dish. Plain in its ingredient list, deep in flavour from the long simmer.*
+*The Haudenosaunee ceremonial soup: nixtamalised white corn slow-simmered with kidney beans and pork (or venison) into a thick, milky-white stew.*
 
 **Serves:** 6
 

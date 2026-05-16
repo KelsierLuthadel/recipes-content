@@ -1,7 +1,7 @@
 # Grilled Eggplant Salad
 
 ![Grilled Eggplant Salad](resources/grilled-eggplant-salad.jpg)
-*Uyghur eggplant salad: whole eggplants roasted soft (traditionally in a tonur clay oven, an oven at home), their smoky flesh scooped out and tossed with finely chopped tomato, cucumber, mild green pepper, basil and a garlic-browned olive oil. Black rice vinegar sharpens. Eats alongside Uyghur polo or naan as a fresh, juicy counter to heavier mains.*
+*A Uyghur eggplant salad: aubergines roasted soft and torn smoky, tossed with chopped tomato, cucumber, mild green pepper and a garlic-browned oil.*
 
 **Serves:** 4
 

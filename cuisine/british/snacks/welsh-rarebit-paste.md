@@ -2,7 +2,7 @@
 
 ![Welsh Rarebit Paste](resources/welsh-rarebit-paste.jpg)
 
-*This succulent, mouth watering rarebit is perfect spread on lightly buttered toast and then cooked under a hot grill for a few minutes, until browned and bubbling. It is also delightful spread over smoked haddock, and coloured under a grill, the haddock will then need to be finished in a pre-heated oven (180°C) for 3 - 4 minutes.*
+*A make-ahead rarebit paste: spread on lightly buttered toast and grilled till browned and bubbling. Also good over smoked haddock under a hot grill.*
 
 **Serves:** 16
 **Prep Time:** 10 minutes

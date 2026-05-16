@@ -2,7 +2,7 @@
 
 ![Jalebi](resources/jalebi.jpg)
 
-*The bright orange spiral of Indian sweet shops: a fermented batter of flour and yoghurt piped into hot oil in interlocking loops, fried briefly until crisp, then dunked in warm saffron-and-cardamom sugar syrup. Eaten hot for breakfast in Old Delhi (with rabri or milk), at street fairs across the subcontinent, and at every Diwali. Cousin of the Middle-Eastern zulbia, found in similar form from Iran to Tunisia.*
+*India's spiral sweet: a fermented yogurt batter piped into hot oil in interlocking loops, fried briefly crisp, then soaked in saffron-cardamom syrup.*
 
 **Serves:** 6 (makes about 20 jalebis)
 

@@ -1,7 +1,7 @@
 # Muriwo une Dovi
 
 ![Muriwo une Dovi](resources/muriwo-une-dovi.jpg)
-*Collard greens (covo) stewed with onion, tomato and a heaped tablespoon of peanut butter that melts into the leaves, coating them in a savoury, slightly sweet sauce. The most-eaten side dish in Zimbabwe alongside sadza. Light, deeply flavoured, with the peanut providing both fat and depth where butter would in another tradition.*
+*Zimbabwe's collard greens: stewed with onion, tomato and a heaped spoon of peanut butter that melts into the leaves. Eaten alongside sadza.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Xinjiang Lamb Pilaf
 
 ![Xinjiang Lamb Pilaf](resources/lamb-pilaf.jpg)
-*Yangrou Zhuafan - "hand-grabbed rice" - is the Xinjiang Uyghur version of the Silk Road pilaf family that runs from Persian polo through Uzbek plov to Indian biryani. Lamb (and lamb fat) brown with onion and pepper, sweet yellow carrots add buttery depth, honey rounds the spice, and medium-grain rice steams on top until each grain is fluffy and stained with the fat. Eats with the hands - the name's literal.*
+*Xinjiang's hand-grabbed rice: lamb and its fat browned with onion and yellow carrot, sweetened with honey, then steamed under medium-grain rice.*
 
 **Serves:** 4-6
 

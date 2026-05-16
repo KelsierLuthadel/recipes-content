@@ -1,7 +1,7 @@
 # Moroccan Carrot Salad
 
 ![Moroccan Carrot Salad](resources/moroccan-carrot-salad.jpg)
-*Morocco's bright orange side: carrots cooked just until tender, then dressed warm in cumin, paprika, garlic, lemon juice and olive oil, with a scatter of fresh coriander and a pinch of cinnamon. The carrots take on the dressing as they cool, deepening in flavour. Served at every Moroccan mezze table as one of the kemia-style "small dishes"; equally good as a make-ahead side for grilled meat or fish.*
+*Morocco's bright orange side: carrots just-tender, dressed warm in cumin, paprika, garlic, lemon and olive oil with a pinch of cinnamon.*
 
 **Serves:** 4
 

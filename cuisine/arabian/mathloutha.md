@@ -1,7 +1,7 @@
 # Mathloutha
 
 ![Mathloutha](resources/mathloutha.jpg)
-*A Saudi celebration dish - "the three-meat kabsa": chicken, lamb and beef cooked together on the same spiced basmati rice for a wedding-sized platter. Made when one cut isn't enough. The rice takes on the combined flavour of all three meats; the diner picks whichever protein appeals. Communal eating, single tray, right hand.*
+*A Saudi celebration platter: chicken, lamb and beef cooked together on the same spiced basmati rice. Made when one cut isn't enough; eaten communally.*
 
 **Serves:** 8
 

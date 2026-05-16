@@ -2,7 +2,7 @@
 
 ![Three-Cup Chicken](resources/three-cup-chicken.jpg)
 
-*San bei ji - "three-cup chicken" - named for the trio that defines it: a cup of soy sauce, a cup of sesame oil, a cup of rice wine. Browned bone-in chicken simmers in the reduced sauce with whole garlic cloves and ginger, then finishes with a dramatic handful of Thai basil thrown in just before serving. Cooked in a clay pot in Taiwan, in a wok or heavy casserole elsewhere. The smell when the basil hits the hot sauce is the entire point.*
+*Taiwan's three-cup chicken: bone-in thigh simmered in a cup each of soy, sesame oil and rice wine with garlic and ginger, finished with Thai basil.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Chocolate Babka
 
 ![Chocolate Babka](resources/chocolate-babka.jpg)
-*An enriched yeast bread spread with chocolate filling, rolled tight and twisted into a loaf so each slice shows a swirl of dark chocolate ribbons through golden brioche. Polish-Jewish in origin; modern babka - leaning chocolate-heavy, often glazed - comes via the New York Jewish bakery scene. A weekend project; the result is far better than any shop-bought version.*
+*The Polish-Jewish chocolate babka: a buttery brioche dough rolled around dark chocolate, twisted into a loaf so each slice shows a swirl.*
 
 **Makes:** 1 large loaf
 

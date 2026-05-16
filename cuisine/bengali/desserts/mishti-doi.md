@@ -1,7 +1,7 @@
 # Mishti Doi
 
 ![Mishti Doi](resources/mishti-doi.jpg)
-*Thick, creamy, set yoghurt the colour of pale caramel, served in unglazed earthenware pots that wick away whey and give the doi its distinctive cool finish. The flavour is a slow burn: first sweet, then deeply caramelised from melted jaggery, then the soft sour edge of fermented milk. The defining sweet of a Bengali Sunday lunch, eaten ice-cold from the matka with a small spoon.*
+*Bengal's defining Sunday dessert: thick set yoghurt the colour of pale caramel, sweetened with melted jaggery, served cold in unglazed clay pots.*
 
 **Serves:** 6
 

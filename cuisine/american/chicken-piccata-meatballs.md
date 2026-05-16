@@ -1,7 +1,7 @@
 # Chicken Piccata Meatballs
 
 ![Chicken Piccata Meatballs](resources/chicken-piccata-meatballs.jpg)
-*Chicken piccata - the lemon-butter-caper Italian-American classic - reimagined as meatballs. Ground chicken with ricotta, parmesan, panko, herbs and smoked paprika rolls into ~20 balls, browns in oil, then simmers in a pan sauce of butter, shallot, garlic, flour, chicken broth, lemon juice and capers. Bright, briny, restrained.*
+*An Italian-American twist: chicken piccata reimagined as meatballs. Ground chicken with ricotta and panko, simmered in lemon-butter-caper sauce.*
 
 **Serves:** 4
 

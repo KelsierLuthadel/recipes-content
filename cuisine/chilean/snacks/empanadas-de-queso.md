@@ -1,7 +1,7 @@
 # Empanadas de Queso
 
 ![Empanadas de Queso](resources/empanadas-de-queso.jpg)
-*Small Chilean cheese empanadas - different from the larger beef-filled empanadas de pino. Half-moons of butter-rich dough wrapped around a generous filling of melting queso fresco or mozzarella, deep-fried golden. Eats hot, the cheese stretching as you bite. The pop-in-the-mouth snack at Chilean parties, fondas (national holidays), and family gatherings.*
+*Chile's cheese empanadas: half-moons of butter-rich dough wrapped around melting queso fresco, deep-fried golden. The stretchy bite at every party.*
 
 **Serves:** Makes 16 empanadas
 

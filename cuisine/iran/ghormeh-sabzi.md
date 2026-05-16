@@ -1,7 +1,7 @@
 # Ghormeh Sabzi
 
 ![Ghormeh Sabzi](resources/ghormeh-sabzi.jpg)
-*Iran's quietly contested national dish: lamb (or beef) slow-cooked with mountains of fresh herbs (parsley, coriander, chives or spring onion greens, fenugreek), dried limes (loomi) and red kidney beans, served over plain chelo rice. The herbs cook so long they turn dark green-black; the dried limes give the signature sour-bitter note. Cooked in every Persian household, every region's mother claiming the right version.*
+*Iran's quietly contested national dish: lamb slow-cooked with mountains of fresh herbs, dried limes and red kidney beans. Served over plain chelo rice.*
 
 **Serves:** 4
 

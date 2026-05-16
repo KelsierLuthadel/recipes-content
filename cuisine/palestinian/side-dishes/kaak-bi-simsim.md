@@ -1,7 +1,7 @@
 # Ka'ak bi Simsim
 
 ![Kaak bi Simsim](resources/kaak-bi-simsim.jpg)
-*Palestinian sesame bread rings: oblong yeasted bread loops, slightly chewy, crusted top-and-bottom with toasted sesame seeds, sold from baskets balanced on the heads of street vendors in Jerusalem's Old City and across the West Bank. Eaten by tearing the ring apart, spreading with za'atar mixed with olive oil, and stuffing with hard-boiled egg or labneh. The classic Old-City-of-Jerusalem street breakfast - and an excellent home-baking project.*
+*Jerusalem's sesame bread ring: a soft yeasted oblong crusted with toasted sesame. Torn at the table and stuffed with za'atar oil and hard-boiled egg.*
 
 **Serves:** 4 (makes 4 large rings or 8 small)
 

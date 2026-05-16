@@ -2,7 +2,7 @@
 
 ![Pelau](resources/pelau.jpg)
 
-*Trinidad's one-pot national dish: chicken pieces browned in burnt sugar until mahogany, then cooked down with rice, pigeon peas, coconut milk and Caribbean green seasoning into a single fragrant pot of glossy, bronze-coloured rice. Sundays, family liming, beach cookouts, Carnival breakfasts. If a Trinidadian had to pick one plate, it would be pelau.*
+*Trinidad's one-pot national dish: chicken browned in burnt sugar till mahogany, then cooked down with rice, pigeon peas and coconut milk into a bronze pot.*
 
 **Serves:** 6
 

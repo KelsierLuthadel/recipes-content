@@ -1,7 +1,7 @@
 # Pastéis de Nata
 
 ![Pastéis de Nata](resources/pasteis-de-nata.jpg)
-*Lisbon's egg custard tart: shatter-flaky puff pastry shells filled with a silky cream-and-yolk custard, blasted in a hot oven until the surface blisters and chars in dark patches. The original recipe (1837, Pastéis de Belém in Lisbon) is a guarded secret; this is the home-cook version that gets close. The trick is hot oven, hot pastry, hot custard - and serving the same day.*
+*Lisbon's egg custard tart: shatter-flaky puff pastry filled with a silky cream-and-yolk custard, blasted in a hot oven till the surface chars.*
 
 **Makes:** 12 pastéis
 

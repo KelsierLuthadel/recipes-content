@@ -1,7 +1,7 @@
 # Pastel de Choclo
 
 ![Pastel de Choclo](resources/pastel-de-choclo.jpg)
-*Chile's "corn cake": a deep dish layered with spiced beef pino (mince, onion, raisins, olives), shredded chicken, hard-boiled egg, and a sweet creamy corn topping that bakes to a crackling sugared crust. Eaten in summer when corn is at its best; served with a Chilean salad alongside. Sweet, savoury and slightly smoky all in one bowl.*
+*Chile's summer corn cake: a deep dish of spiced beef pino and shredded chicken layered under a sweet creamy corn topping that bakes to a sugared crust.*
 
 **Serves:** 6
 

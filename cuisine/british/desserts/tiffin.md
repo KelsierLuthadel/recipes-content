@@ -2,7 +2,7 @@
 
 ![Chocolate Tiffin](resources/tiffin.jpg)
 
-*Tiffin is the Scottish answer to the no-bake chocolate slab: a single dense layer of crushed digestive biscuits and plump raisins bound in a butter-cocoa-syrup mixture, finished with a smooth milk-chocolate top. It travels brilliantly in a lunchbox, keeps almost indefinitely in a tin, and disappears faster than anything you'll bake all week.*
+*The Scottish no-bake slab: crushed digestive biscuits and raisins bound in a butter-cocoa-syrup mixture, finished with a smooth milk-chocolate top.*
 
 **Makes:** 16 squares
 

@@ -2,7 +2,7 @@
 
 ![Crispy Topped Pasta](resources/crispy-pasta.jpg)
 
-*Penne con zucchine e salame gratinate, penne suspended in a silky béchamel sauce enriched with courgettes and salami, then buried under a golden Parmesan crust. Served hot, warm, or cold, this is comfort food with Italian sophistication. The combination of courgettes' delicate sweetness with salami's savory punch creates balance.*
+*An Italian baked pasta: penne in a silky béchamel with courgettes and salami, buried under a golden Parmesan crust. Comfort with a sharp savoury punch.*
 
 **Serves:** 6
 **Prep Time:** 15 minutes

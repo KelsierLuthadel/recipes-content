@@ -1,7 +1,7 @@
 # Hyderabadi Mutton Biryani
 
 ![Hyderabadi Mutton Biryani](resources/hyderabadi-mutton-biryani.jpg)
-*The most famous Indian biryani: raw mutton marinated in yogurt and spices, layered uncooked with par-cooked basmati, sealed under dough and slow-cooked in its own steam (dum) for an hour. The meat tenderises in the rice; the rice perfumes with the meat juices, saffron, mint and fried onion. The closing-time meal of every Hyderabad wedding.*
+*Hyderabad's biryani: raw mutton marinated in yogurt, layered uncooked with par-cooked basmati, sealed under dough and slow-cooked in its own steam.*
 
 **Serves:** 6
 

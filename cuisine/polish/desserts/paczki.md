@@ -2,7 +2,7 @@
 
 ![Pączki](resources/paczki.jpg)
 
-*Polish jam-or-rose-filled doughnuts: enriched yeast dough deep-fried until pale gold with a tell-tale pale ring around the middle, filled with rose-petal jam, plum butter or thick blackcurrant, and dusted with icing sugar or coated in a candied-orange glaze. Eaten by the millions on Tłusty Czwartek (Fat Thursday), the Polish Mardi Gras kickoff, where bakery queues stretch around the block.*
+*Poland's Fat Thursday doughnut: enriched yeasted dough fried with a pale band, filled with rose-petal jam or plum butter, dusted in icing sugar.*
 
 **Makes:** 12 pączki
 

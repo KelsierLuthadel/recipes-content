@@ -2,7 +2,7 @@
 
 ![Halwa Tahini](resources/halwa-tahini.jpg)
 
-*The Iraqi tahini halva: a dense, flaky sweet of sesame paste set with a precise hot sugar syrup, perfumed with cardamom and rose water and studded with whole pistachios. Eaten in small slabs with bitter coffee, sweetened mint tea or a glass of cold water. Found across the Middle East but the Iraqi version stands apart for its rose-and-cardamom signature; cousin of Greek halva, Turkish helva and Israeli halva.*
+*The Iraqi tahini halva: sesame paste set with hot sugar syrup, perfumed with cardamom and rose water, studded with whole pistachios. Eaten in small slabs.*
 
 **Serves:** 12 (makes about 700 g; a 20 cm square block)
 

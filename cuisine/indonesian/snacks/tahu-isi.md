@@ -1,7 +1,7 @@
 # Tahu Isi (Stuffed Fried Tofu)
 
 ![Tahu Isi](resources/tahu-isi.jpg)
-*Firm tofu cut into triangles, hollowed slightly to make a pocket, stuffed with a stir-fried mix of carrot, cabbage, beansprouts and a touch of garlic-ginger, then dipped in a thin batter and fried golden. Eats with a fresh whole bird's-eye chilli on the side - bite the fritter, bite the chilli, take a bite of rice. The afternoon-snack staple of every Indonesian warung. Crisp shell, soft savoury filling, vegetable-light enough to eat several.*
+*Indonesia's warung snack: firm tofu triangles hollowed and stuffed with stir-fried carrot, cabbage and beansprouts, battered and fried golden.*
 
 **Serves:** 4 (makes 12 stuffed tofu)
 

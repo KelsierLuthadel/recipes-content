@@ -1,7 +1,7 @@
 # Baleadas
 
 ![Baleadas](resources/baleadas.jpg)
-*Honduras' national snack and the most-eaten street food in the country: a thick, soft flour tortilla folded in half around refried beans, a slick of mantequilla and a sprinkle of crumbled cheese. The simple sencilla is just bean-cream-cheese. The deluxe (con todo, "with everything") adds scrambled egg, avocado, chorizo or shredded beef. Sold from breakfast stands across every Honduran town.*
+*Honduras' national snack: a thick soft flour tortilla folded around refried beans, a slick of mantequilla and a sprinkle of crumbled cheese.*
 
 **Serves:** 4 (8 baleadas)
 

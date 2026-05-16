@@ -1,7 +1,7 @@
 # Chimodho
 
 ![Chimodho](resources/chimodho.jpg)
-*Steamed Zimbabwean cornbread: a sweet, dense, slightly chewy bake made from white maize meal, sugar and a bit of flour, steamed (not baked) inside a covered pot until firm. Eaten with tea at breakfast, packed into school lunches, sold at the side of every long-distance road. Each region has its own variation - this one is plain and middle-of-the-country.*
+*Zimbabwe's steamed cornbread: a sweet, dense, slightly chewy maize-meal bake steamed inside a covered pot till firm. Eaten with morning tea.*
 
 **Serves:** 6 (makes 1 round loaf)
 

@@ -1,7 +1,7 @@
 # Merguez Rolls
 
 ![Merguez Rolls](resources/merguez-rolls.jpg)
-*North-African puff-pastry rolls wrapped around spicy merguez lamb sausage - the streetside version of pigs-in-blankets, with the heat and harissa-redness of merguez instead of the British porkiness. Eats with a drizzle of harissa-honey or a saucer of yogurt-and-cucumber. Sold from Tunisian / Algerian bakeries in Paris's Belleville and Goutte d'Or as much as in Tunis and Algiers.*
+*North African pigs-in-blankets: puff pastry wrapped around spicy merguez lamb sausage. Served with a drizzle of harissa-honey or yogurt.*
 
 **Serves:** Makes 16 rolls
 

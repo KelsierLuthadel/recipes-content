@@ -2,7 +2,7 @@
 
 ![Bean Akyaw](resources/bean-akyaw.jpg)
 
-*The everyday Burmese street and teashop fritter: a craggy, golden disc of soaked yellow split peas seasoned with turmeric, onion and coriander, then deep-fried until shatter-crisp. Sold at roadside stalls from dawn, dunked in a tamarind-chilli sauce, and eaten with milk tea. The texture sits somewhere between a falafel and a pakora: dense, savoury, unmistakably nutty.*
+*Burma's everyday teashop fritter: a craggy disc of soaked yellow split peas with turmeric, onion and coriander, deep-fried shatter-crisp.*
 
 **Serves:** 4 (makes about 16 fritters)
 

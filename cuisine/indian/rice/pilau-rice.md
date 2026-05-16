@@ -2,7 +2,7 @@
 
 ![Pilau Rice](resources/pilau-rice.jpg)
 
-*This aromatic Indian pilau is infused with warm spices, cardamom, cloves, cinnamon, and bay, that perfume butter-coated grains individually with their volatile aromatics. Saffron adds subtle floral notes and golden hue. The result is an elegant, fragrant rice suitable for formal Indian dinners or as a special-occasion starch.*
+*India's aromatic pilau: rice infused with cardamom, cloves, cinnamon and bay perfuming butter-coated grains. Saffron adds floral notes and a golden hue.*
 
 **Prep Time:** 35 minutes
 **Cook Time:** 15 minutes

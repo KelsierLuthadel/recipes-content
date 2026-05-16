@@ -1,7 +1,7 @@
 # Prik King
 
 ![Prik King](resources/prik-king.jpg)
-*A dry Thai curry stir-fried with prik king paste (red chillies, garlic, shrimp paste, galangal, lemongrass and kaffir lime peel) - no coconut milk, no broth, just paste fried hard with pork or chicken, green beans, and kaffir lime leaves. Eaten with steamed jasmine rice. Spicy, salty, deeply aromatic; the green beans stay crunchy, the meat glazes in the paste.*
+*A dry Thai curry: prik king paste fried hard with pork or chicken, green beans and kaffir lime leaves. No coconut milk, no broth. Eaten with jasmine rice.*
 
 **Serves:** 4
 

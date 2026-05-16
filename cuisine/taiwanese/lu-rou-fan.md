@@ -2,7 +2,7 @@
 
 ![Lu Rou Fan](resources/lu-rou-fan.jpg)
 
-*Taiwan's national comfort dish: a glossy braise of finely diced pork belly in soy, rice wine and five-spice, ladled over a bowl of hot steamed rice. Every Taiwanese household has a version, and you'll find it from late-night street stalls to white-tablecloth restaurants. The defining feature is the texture: the pork is hand-diced rather than minced, so each bite has skin, fat and meat in proportion.*
+*Taiwan's comfort dish: hand-diced pork belly braised glossy in soy, rice wine and five-spice, ladled over a bowl of hot steamed rice.*
 
 **Serves:** 4
 

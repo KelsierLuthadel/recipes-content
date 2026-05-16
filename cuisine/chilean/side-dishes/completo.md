@@ -1,7 +1,7 @@
 # Completo
 
 ![Completo](resources/completo.jpg)
-*The Chilean street hot dog - but elevated absurdly: a long soft pan de hot dog roll, a frankfurter, then a heroic layering of mashed avocado (palta), diced tomato, sauerkraut, mayonnaise (a lot), mustard, and sometimes ají or pebre. Eaten with both hands wrapped in paper, often standing at a fuente de soda counter. A national snack obsession.*
+*The Chilean street hot dog: a long roll, a frankfurter and a heroic layering of mashed avocado, diced tomato, sauerkraut, mayonnaise and mustard.*
 
 **Serves:** 4
 

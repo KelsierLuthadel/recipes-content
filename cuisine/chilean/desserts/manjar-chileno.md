@@ -1,7 +1,7 @@
 # Manjar (Chilean Dulce de Leche)
 
 ![Manjar](resources/manjar-chileno.jpg)
-*Chile's version of dulce de leche: whole milk and sugar simmered for 2-3 hours with a vanilla pod and a pinch of bicarbonate of soda until it reduces to a thick, glossy, deep-caramel spread. The cornerstone of Chilean baking - fills alfajores, layers cakes (torta tres leches, brazo de reina), tops pancakes and toast. Different from Argentine dulce de leche only in subtle ways (Chilean is slightly thicker and more cooked).*
+*Chile's dulce de leche: whole milk and sugar slow-simmered with a vanilla pod and a pinch of bicarb until it reduces to a thick, glossy caramel spread.*
 
 **Serves:** Makes about 600 g
 

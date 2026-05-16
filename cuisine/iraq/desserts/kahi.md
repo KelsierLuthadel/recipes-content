@@ -1,7 +1,7 @@
 # Kahi
 
 ![Kahi](resources/kahi.jpg)
-*Iraq's syrup-soaked breakfast pastry: paper-thin layers of dough brushed with samna, baked or pan-fried into a crisp square, then soaked in a saffron-rose-cardamom sugar syrup and topped with a generous spoonful of geymar (Iraqi clotted cream) and a drizzle of honey. Eaten with sweet black tea on weekend mornings. Decadent, sweet, perfumed, the breakfast of holidays.*
+*Iraq's syrup-soaked breakfast pastry: paper-thin layers of dough brushed with samna and soaked in saffron-rose syrup. Topped with geymar and honey.*
 
 **Serves:** 4 (makes 6 pieces)
 

@@ -1,7 +1,7 @@
 # Kalb el-Louz (Almond-Semolina Cake)
 
 ![Kalb el-Louz](resources/kalb-el-louz.jpg)
-*The "heart of the almond" - an Algerian semolina cake studded with whole blanched almonds, baked in a wide tin, cut into diamonds, then drenched in orange-flower-water syrup. The cake is dense but yielding; the syrup gives it the iconic sticky-moist Maghrebi sweetness. A Ramadan iftar institution, and a Sunday family-table dessert across Algeria and Tunisia.*
+*Algeria's almond-semolina cake: studded with whole blanched almonds, baked in a wide tin and drenched in orange-flower syrup. A Ramadan institution.*
 
 **Serves:** Makes 24 diamonds
 

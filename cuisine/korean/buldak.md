@@ -1,7 +1,7 @@
 # Buldak
 
 ![Buldak](resources/buldak.jpg)
-*Korean "fire chicken": boneless chicken thighs marinated in a vivid red sauce of gochujang, gochugaru, soy, garlic, ginger and sugar, pan-grilled or oven-broiled hot, topped with melted mozzarella and sliced spring onion. Sweet, savoury, and famously hot - the cheese layer is the cooling counterpoint. Born in Seoul drinking joints; now a Korean comfort-food fixture.*
+*Korea's fire chicken: boneless thighs marinated in a vivid red sauce of gochujang, gochugaru, soy and garlic, pan-grilled hot, topped with melted mozzarella.*
 
 **Serves:** 4
 

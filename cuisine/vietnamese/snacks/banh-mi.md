@@ -2,7 +2,7 @@
 
 ![Banh Mi](resources/banh-mi.jpg)
 
-*Bánh mì is the most successful piece of culinary diplomacy of the twentieth century: a French baguette rebuilt in Saigon with Vietnamese fillings. The classic combo layers cold cuts and pâté with cucumber, coriander, dưa chua pickle and chilli, all packed into a shatteringly crisp baguette. Light bread, generous filling, the contrast does the work.*
+*Vietnam's French-baguette sandwich: cold cuts and pâté layered with cucumber, coriander, dưa chua pickle and chilli, packed into a shatteringly crisp roll.*
 
 **Serves:** 2
 

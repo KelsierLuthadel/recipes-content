@@ -2,7 +2,7 @@
 
 ![Kerabu Kacang Botol](resources/kerabu.jpg)
 
-*Kerabu is the Malay term for a raw or lightly blanched salad dressed with toasted coconut, chilli, lime and a punchy splash of fish sauce. This version uses kacang botol (winged beans), the four-edged green pods favoured across the Malay peninsula. It is the salad that finds its way next to grilled fish at a kampung table.*
+*A Malay raw salad: winged beans dressed with toasted coconut, chilli, lime and fish sauce. Eaten next to grilled fish at a kampung table.*
 
 **Serves:** 4 (as a side)
 **Prep Time:** 20 minutes

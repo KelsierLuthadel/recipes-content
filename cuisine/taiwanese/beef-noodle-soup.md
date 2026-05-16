@@ -1,7 +1,7 @@
 # Taiwanese Beef Noodle Soup
 
 ![Taiwanese Beef Noodle Soup](resources/beef-noodle-soup.jpg)
-*Niúròu miàn - Taiwan's national obsession. A slow-braised beef shank in a rich, slightly spicy soy-and-doubanjiang broth, served over hand-pulled or wide flat wheat noodles, topped with pickled mustard greens, spring onions and chilli oil. The broth gets at least 2 hours; the meat falls apart at the touch of chopsticks. Annual beef noodle festivals in Taipei pick a winner each year.*
+*Taiwan's national obsession: slow-braised beef shank in a soy-and-doubanjiang broth, served over hand-pulled noodles with pickled mustard greens.*
 
 **Serves:** 4
 

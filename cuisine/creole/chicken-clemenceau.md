@@ -1,7 +1,7 @@
 # Chicken Clemenceau
 
 ![Chicken Clemenceau](resources/chicken-clemenceau.jpg)
-*A New Orleans Creole supper classic: sautéed chicken on the bone tossed at the last minute with brunoise potatoes, peas, mushrooms and a heavy hand of garlic, butter and parsley. Named (apocryphally) for the French statesman Georges Clemenceau, who is said to have eaten this at Antoine's. Light, garlicky, distinctly Creole rather than Cajun.*
+*A New Orleans Creole supper: sautéed chicken on the bone tossed at the last minute with brunoise potato, peas, mushrooms and a heavy hand of garlic butter.*
 
 **Serves:** 4
 

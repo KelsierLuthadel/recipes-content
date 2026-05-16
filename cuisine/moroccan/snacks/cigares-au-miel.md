@@ -1,7 +1,7 @@
 # Cigares au Miel (Honey Almond Cigars)
 
 ![Cigares au Miel](resources/cigares-au-miel.jpg)
-*Long thin warka cylinders filled with a fragrant almond-and-orange-flower paste, deep-fried golden, then soaked briefly in warmed honey perfumed with orange-blossom water. Sweet, fragrant, crunchy on the outside, almond-soft inside. A signature Moroccan teatime pastry, particularly common at Ramadan iftar and weddings. The honey glaze gives the cigars a faintly sticky shimmer - eats with sticky fingers, no apology.*
+*Morocco's honey-almond cigars: long thin warka cylinders filled with cinnamon-orange-flower almond paste, deep-fried, then soaked in warm honey.*
 
 **Serves:** Makes 20-24 cigars
 

@@ -1,7 +1,7 @@
 # Saltah
 
 ![Saltah](resources/saltah.jpg)
-*Yemen's national dish: a bubbling, deeply savoury stew of slow-cooked meat (lamb or beef), tomato, onion, garlic and fenugreek, served in a hot stone or clay pot still volcanically bubbling at the table, topped with a snowy whipped fenugreek froth called hulba. Eaten communally with hot flatbread (lahoh or tawa khubz) to tear and scoop. The eating itself is theatre - the pot stays at boiling temperature for the first ten minutes.*
+*Yemen's national dish: a deeply savoury stew of slow-cooked lamb, tomato and fenugreek, served in a bubbling clay pot under a snowy whipped hulba froth.*
 
 **Serves:** 4
 

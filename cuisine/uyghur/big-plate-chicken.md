@@ -1,7 +1,7 @@
 # Big Plate Chicken
 
 ![Big Plate Chicken](resources/big-plate-chicken.jpg)
-*Da Pan Ji - "big plate chicken" - is the celebration dish of Uyghur Xinjiang. Bone-in chicken pieces, potato chunks, peppers, garlic, ginger and star anise simmer in a chilli-and-soy braising sauce; hand-cut belt noodles drape in the bowl underneath to soak the juices. The dish is built for shared eating from a wide platter at the centre of the table.*
+*Xinjiang's celebration dish: bone-in chicken, potato, peppers and ginger simmered in a chilli-soy braise, with belt noodles draped to soak the juices.*
 
 **Serves:** 3-4
 

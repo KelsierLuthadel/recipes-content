@@ -2,7 +2,7 @@
 
 ![Tagliatelle Primavera](resources/primavera.jpg)
 
-*Tagliatelle primavera, these tender ribbons of fresh pasta celebrate the summer garden with bright vegetables. Peppers deliver sweetness, courgettes provide delicate texture, red onions add depth, and chilli flakes contribute gentle heat. The vegetables are quickly seared to preserve their individual character and bright colors.*
+*Tagliatelle primavera: fresh ribbons tossed with peppers, courgettes, red onion and chilli flakes, the vegetables quickly seared to keep their bright colour.*
 
 **Serves:** 4
 **Prep Time:** 15 minutes

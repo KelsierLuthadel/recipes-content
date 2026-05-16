@@ -1,7 +1,7 @@
 # Molokhia with Meat
 
 ![Molokhia with Meat](resources/molokhia-with-meat.jpg)
-*The signature Egyptian green soup-stew: finely-chopped molokhia leaves (Jew's mallow, related to jute) simmered in a meaty stock - usually rabbit, chicken or beef - and finished with sizzled coriander-garlic butter (taqliya) poured in hot at the end. The leaves give the soup its characteristic mucilaginous texture (loved in Egypt, alarming elsewhere). Eaten over rice or with bread, with a wedge of lemon.*
+*Egypt's signature green stew: finely chopped molokhia leaves simmered in a meaty stock, finished with sizzled coriander-garlic butter.*
 
 **Serves:** 4
 

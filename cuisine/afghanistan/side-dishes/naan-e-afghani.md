@@ -1,7 +1,7 @@
 # Naan-e Afghani
 
 ![Naan-e Afghani](resources/naan-e-afghani.jpg)
-*The long, narrow Afghan flatbread baked against the inside of a tandoor oven - pulled out as a 50 cm crisp-soft canoe with finger-trailed ridges down the length and a scatter of nigella and sesame seeds. At home, baked on a hot stone in the oven until the surface blisters and the bottom crisps. Eaten warm, torn into pieces, with any savoury Afghan meal.*
+*Afghanistan's long flatbread: a 50 cm canoe baked in a tandoor with finger-trailed ridges and a scatter of nigella and sesame. Torn warm at every meal.*
 
 **Serves:** 4 (makes 4 long flatbreads)
 

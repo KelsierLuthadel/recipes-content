@@ -1,7 +1,7 @@
 # Chebakia (Sesame Honey Rosettes)
 
 ![Chebakia](resources/chebakia.jpg)
-*A fried sesame pastry shaped into ornate intricate rosettes (or "flower" or "knot" depending on the cook's skill), drenched in honey while still hot, then dusted with toasted sesame seeds. The defining Moroccan Ramadan sweet - eaten to break the fast, particularly alongside harira. Shape varies wildly by region; the flavour is universal: sesame, honey, orange-flower water, anise, with a faint warmth from cinnamon.*
+*Morocco's Ramadan rosette: a sesame-and-almond dough cut and twisted into ornate flowers, deep-fried, plunged into warm honey, dusted with more sesame.*
 
 **Serves:** Makes about 30 chebakia
 

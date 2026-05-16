@@ -1,7 +1,7 @@
 # Riz a Djej
 
 ![Riz a Djej](resources/riz-a-djej.jpg)
-*Lebanese chicken on aromatic rice: poached chicken pulled off the bone, served over basmati rice cooked in the perfumed chicken stock with seven-spice (baharat), pine nuts, slivered almonds, raisins and ground beef or lamb. The classic Lebanese Sunday lunch - a single platter for the whole table, simple in form, deep in flavour.*
+*Lebanon's Sunday lunch: poached chicken pulled off the bone, served over basmati cooked in the chicken stock with baharat, pine nuts and slivered almonds.*
 
 **Serves:** 4
 

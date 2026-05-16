@@ -2,7 +2,7 @@
 
 ![Matoke](resources/matoke.jpg)
 
-*Matoke (or matooke) is Uganda's emblematic dish: green, starchy East African Highland bananas steamed and then stewed, here in a tomato-and-groundnut sauce with beef. The plantains soften to a buttery, almost potato-like texture, soaking up the peanut-rich sauce. A central-Ugandan Buganda staple, traditionally steamed in banana leaves; this home version uses a covered pot and finishes the plantains in the stew itself.*
+*Uganda's emblematic dish: green starchy plantains steam-cooked in a tomato-and-groundnut sauce with beef, until soft and buttery. A Buganda staple.*
 
 **Serves:** 4-6
 

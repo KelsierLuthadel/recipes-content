@@ -1,7 +1,7 @@
 # Sandesh
 
 ![Sandesh](resources/sandesh.jpg)
-*Small soft pieces of fresh chhena cheese cooked gently with sugar or jaggery and kneaded to a fudge-like smoothness, sometimes pressed into carved wooden moulds shaped like fish, conches or flowers. The flavour is delicate and milky, perfumed lightly with cardamom or, in winter, the haunting smoky-toffee notes of nolen gur date palm jaggery. The most elegant of Bengali sweets, a fixture of weddings, pujas and gifting boxes.*
+*Bengal's most-elegant sweet: fresh chhena cooked gently with sugar (or winter nolen gur) and pressed into carved wooden moulds shaped like fish or flowers.*
 
 **Serves:** 6 (makes 12 pieces)
 

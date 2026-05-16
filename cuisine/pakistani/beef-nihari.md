@@ -1,7 +1,7 @@
 # Beef Nihari
 
 ![Beef Nihari](resources/beef-nihari.jpg)
-*Karachi's slow-cooked breakfast-of-kings: bone-in beef shank simmered overnight in spiced stock until the meat falls apart and the broth is glossy with marrow. Finished with a wheat-flour roux to thicken, and topped at the table with julienned ginger, sliced green chilli, fresh coriander, lime and a drizzle of spiced oil. Eaten with naan; the marrow is part of the dish.*
+*Karachi's breakfast of kings: bone-in beef shank simmered overnight in spiced stock till the meat falls apart and the broth is glossy with marrow.*
 
 **Serves:** 6
 

@@ -1,7 +1,7 @@
 # Bobotie
 
 ![Bobotie](resources/bobotie.jpg)
-*South Africa's national dish: spiced minced beef (or lamb) baked under a savoury egg-and-milk topping with bay leaves stuck on top to perfume the surface. Cape Malay in origin - Indonesian and Indian flavours brought by enslaved people to the Cape - it's curry-mild, slightly sweet from raisins and chutney, slightly sour from lemon, with toasted almonds for crunch. Eaten with yellow rice, sambals, and chutney.*
+*South Africa's national dish: spiced minced beef baked under a savoury egg-and-milk topping, with bay leaves stuck on top to perfume the surface.*
 
 **Serves:** 6
 

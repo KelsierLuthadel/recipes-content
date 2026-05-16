@@ -2,7 +2,7 @@
 
 ![Chuoi Nuong](resources/chuoi-nuong.jpg)
 
-*Chuối nướng is the grilled banana dessert sold at night markets across Vietnam: small, sturdy bananas wrapped in sweet sticky rice, charred over coals until the rice crusts and the fruit caramelises inside, then split open and drowned in warm coconut sauce and toasted peanuts. Sweet, smoky, lightly salty and entirely simple.*
+*Vietnam's grilled banana dessert: bananas wrapped in sweet sticky rice, charred over coals till the rice crusts, drowned in warm coconut sauce and peanuts.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Khobz (Moroccan Round Flatbread)
 
 ![Khobz](resources/khobz.jpg)
-*The Moroccan everyday round bread: a slightly enriched semolina-and-flour dough, shaped into a flat round about 18 cm across and 2 cm thick, baked golden with a tender crumb and crisp crust. Eats with everything - torn at the table and used as the eating utensil for tagines, broken into harira, dipped into amlou or olive oil. Every Moroccan household has its baker; many neighbourhoods share a communal oven where the breads bake side by side.*
+*Morocco's everyday round bread: a slightly enriched semolina-and-flour dough baked into a flat disc. Torn at the table to scoop up tagines.*
 
 **Serves:** Makes 4 loaves
 

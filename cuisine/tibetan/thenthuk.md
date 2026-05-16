@@ -2,7 +2,7 @@
 
 ![Thenthuk](resources/thenthuk.jpg)
 
-*The "pulled-noodle" cousin of thukpa. Where thukpa uses cut noodles, thenthuk has rough flat squares of dough ripped from a sheet straight into the boiling broth at the moment of cooking. The noodles are chewy and irregular, the broth is hearty, and the whole performance of tearing dough at the stove is part of the dish. A staple in nomadic kitchens and now in every Tibetan diaspora canteen.*
+*Tibet's pulled-noodle soup: rough flat squares of dough torn from a sheet into a simmering broth at the moment of cooking. Hearty and chewy.*
 
 **Serves:** 4
 

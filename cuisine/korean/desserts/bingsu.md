@@ -1,7 +1,7 @@
 # Bingsu (Shaved Ice with Sweet Toppings)
 
 ![Bingsu](resources/bingsu.jpg)
-*The Korean answer to a sundae: a mountain of finely shaved ice (now usually shaved frozen milk for the modern version) piled high in a bowl, topped with sweetened red bean paste (pat), a generous spoon of condensed milk, fresh fruit, chewy rice cakes (mochi balls), and a dusting of roasted soybean powder (injeolmi). Shared, two spoons attacking it from opposite sides. The summer dessert across Korea; bingsu cafés open all over Seoul in July.*
+*Korea's summer sundae: a mountain of finely shaved milk-ice topped with sweet red bean, condensed milk, fruit, mochi and roasted soybean powder.*
 
 **Serves:** 2 (sized to share)
 

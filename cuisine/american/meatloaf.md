@@ -1,7 +1,7 @@
 # Meatloaf
 
 ![Meatloaf](resources/meatloaf.jpg)
-*The mid-century American Sunday-supper standard: beef (often with some pork or veal) bound with breadcrumbs, milk, egg and a generous masala of onion, garlic, Worcestershire, mustard and herbs, packed into a loaf tin and baked under a ketchup-and-brown-sugar glaze that caramelises dark and sticky. Sliced thick; served with mashed potatoes and gravy; the leftovers are sandwich gold the next day.*
+*The mid-century Sunday supper: beef and pork bound with bread and milk, packed into a loaf tin, baked under a ketchup-and-brown-sugar glaze.*
 
 **Serves:** 6
 

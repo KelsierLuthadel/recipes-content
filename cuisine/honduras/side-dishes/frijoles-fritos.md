@@ -1,7 +1,7 @@
 # Frijoles Fritos
 
 ![Frijoles Fritos](resources/frijoles-fritos.jpg)
-*Honduran refried beans: small red beans simmered with onion and bay until soft, then mashed and fried hard in oil with more onion until thick, glossy and dark. The cornerstone of plato típico, baleadas, plate breakfasts and late-night snacks. Smoother than the Mexican version, often glossy enough to spread onto a tortilla.*
+*Honduran refried beans: small red beans simmered with onion till soft, then mashed and fried hard with more onion till thick, glossy and dark. The plato cornerstone.*
 
 **Serves:** 6 (cup measure)
 

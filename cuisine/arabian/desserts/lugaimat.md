@@ -1,7 +1,7 @@
 # Lugaimat
 
 ![Lugaimat](resources/lugaimat.jpg)
-*Saudi (and broadly Khaleeji) date dumplings: small balls of yeasted batter deep-fried golden, drenched in date syrup (dibs) or saffron sugar syrup, sprinkled with sesame. Crisp outside, soft and slightly chewy inside, sweetly perfumed. The classic Ramadan iftar sweet, eaten from a shared bowl with tea or qahwa (cardamom coffee).*
+*A Khaleeji Ramadan sweet: small balls of yeasted batter deep-fried golden, drenched in date syrup or saffron sugar syrup, sprinkled with sesame.*
 
 **Serves:** 6 (makes about 40 small balls)
 

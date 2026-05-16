@@ -1,7 +1,7 @@
 # Dodo
 
 ![Dodo](resources/dodo.jpg)
-*Nigerian fried sweet plantains: ripe plantains sliced and shallow-fried in vegetable oil until the edges caramelise to deep mahogany and the centres turn jammy. The everyday side that turns up next to jollof, beans, stews, eggs at breakfast, and rice at dinner. Sweet, soft, charred - eats hot with everything. Distinct from Cuban plátanos maduros: thinner slices, hotter oil, more pieces.*
+*Nigeria's everyday side: ripe plantains sliced and shallow-fried till the edges caramelise to deep mahogany and the centres turn jammy.*
 
 **Serves:** 4
 

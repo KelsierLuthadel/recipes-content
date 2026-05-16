@@ -2,7 +2,7 @@
 
 ![Cracked Conch](resources/cracked-conch.jpg)
 
-*The Bahamas' answer to fried fish: conch meat pounded thin to tenderise it, dipped in seasoned batter, fried golden and served with lime and a tart slaw. "Cracked" refers to the pounding, not the shell. Eaten at every fish fry from Nassau's Arawak Cay to the conch shacks of the Out Islands, washed down with a Kalik beer. The conch comes out of the sea sweet and chewy; pounding and a hot pan transform it into something tender and crisp.*
+*The Bahamas' fried-fish answer: conch pounded thin, dipped in seasoned batter and fried golden. Served with lime and a tart cabbage slaw.*
 
 **Serves:** 4
 

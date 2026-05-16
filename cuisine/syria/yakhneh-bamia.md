@@ -1,7 +1,7 @@
 # Yakhneh Bamia
 
 ![Yakhneh Bamia](resources/yakhneh-bamia.jpg)
-*Syrian-style stew of okra (bamia) and lamb in a tomato-and-pomegranate sauce, slow-braised until the meat falls apart and the okra is tender but still holding shape. The pomegranate molasses gives the dish its signature dark sourness; coriander and garlic finish. Eaten over white rice with vermicelli, with a wedge of lemon.*
+*A Syrian okra stew: okra and lamb in a tomato-and-pomegranate sauce, slow-braised till the meat falls apart and the molasses gives a signature dark sourness.*
 
 **Serves:** 4
 

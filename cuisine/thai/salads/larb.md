@@ -1,7 +1,7 @@
 # Larb
 
 ![Larb](resources/larb.jpg)
-*The Thai-Isaan minced meat salad: hot-fried pork (or chicken / duck) mince tossed with toasted rice powder, fish sauce, lime juice, dried chilli, sliced shallot, spring onion, and mountains of mint, coriander and Thai basil. Served warm or cool with sticky rice and a plate of raw vegetables (long beans, cabbage, cucumber) to scoop. Sour, salty, spicy, herbal - the four-flavour Thai signature.*
+*Thailand's Isaan minced-meat salad: hot-fried pork tossed with toasted rice powder, fish sauce, lime, dried chilli, shallot, mint and coriander.*
 
 **Serves:** 4
 

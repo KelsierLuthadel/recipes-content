@@ -1,7 +1,7 @@
 # Vindaye Poule
 
 ![Vindaye Poule](resources/vindaye-poule.jpg)
-*The tangy, mustard-yellow pickle-curry of Mauritius: poached chicken steeped in a vinegar and yellow mustard paste fired with turmeric, garlic, ginger and green chilli, then folded through softened onions. The smell is mustard seeds frying in hot oil, then sharp vinegar lifting off the pan. Eaten cold or barely warm from the fridge, classically with a fresh pao or farata bread.*
+*The Mauritian pickle-curry: poached chicken steeped in a mustard-yellow paste of vinegar, turmeric, garlic and chilli, folded through softened onions.*
 
 **Serves:** 4
 

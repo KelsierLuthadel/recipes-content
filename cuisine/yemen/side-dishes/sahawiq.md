@@ -1,7 +1,7 @@
 # Sahawiq
 
 ![Sahawiq](resources/sahawiq.jpg)
-*The bright-green Yemeni chilli relish that sits on every table from breakfast through dinner: a coarse paste of fresh green chillies, garlic, coriander, parsley, sometimes a little tomato and cardamom, ground bright and herbal. Spooned over saltah, fahsa, mandi; smeared into folded lahoh; mixed into yogurt. Heat is calibrated by chilli choice - traditional is hot.*
+*Yemen's bright-green chilli relish: a coarse paste of fresh green chillies, garlic, coriander and parsley. Sits on every table from breakfast to dinner.*
 
 **Serves:** 6 (small jar)
 

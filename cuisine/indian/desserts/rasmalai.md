@@ -2,7 +2,7 @@
 
 ![Rasmalai](resources/rasmalai.jpg)
 
-*The Bengali-Mughal sweet that travelled across India and onto every Diwali table: spongy paneer (chhana) dumplings, first poached in sugar syrup, then floated in a thickened saffron-and-cardamom-scented milk (rabri). Served chilled with crushed pistachios and almonds on top. Light, milky, fragrant - the antithesis of the heavy syrupy sweets that surround it.*
+*Bengal's milky sweet: spongy paneer dumplings poached in sugar syrup, then floated in thickened saffron-and-cardamom rabri. Topped with pistachios.*
 
 **Serves:** 6
 

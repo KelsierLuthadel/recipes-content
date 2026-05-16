@@ -2,7 +2,7 @@
 
 ![Naan](resources/naan.jpg)
 
-*The naan and the tandoor it bakes in were brought to the North-West Frontier by the ancient Persians, who called them respectively "nane" and "tonir", and from there they passed to Baltis and Kashmiris as a staple. The traditional teardrop shape comes from the bread being pressed onto the inside neck of the tandoor, where gravity pulls the dough downwards as it cooks.*
+*India's tandoor flatbread: a yeasted dough pressed onto the hot inside of a clay oven, pulled down by gravity into the iconic teardrop shape.*
 
 **Makes:** 2 large naan
 

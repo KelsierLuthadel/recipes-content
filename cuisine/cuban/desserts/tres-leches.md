@@ -1,7 +1,7 @@
 # Tres Leches
 
 ![Tres Leches](resources/tres-leches.jpg)
-*The pan-Latin sponge that gets drowned in three milks (evaporated, condensed and whole or double cream), absorbing them entirely until the sponge is dripping but still holding shape, crowned with cold whipped cream and a dusting of cinnamon. Popular across Cuba, Mexico, Nicaragua and the wider Caribbean and Central America; each country claims it. Best served the day after baking, when the sponge has fully drunk the soak.*
+*The pan-Latin celebration cake: a light sponge drowned in evaporated milk, condensed milk and cream, crowned with whipped cream and a dust of cinnamon.*
 
 **Serves:** 10 to 12
 

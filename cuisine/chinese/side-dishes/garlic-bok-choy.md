@@ -1,7 +1,7 @@
 # Garlic Bok Choy
 
 ![Garlic Bok Choy](resources/garlic-bok-choy.jpg)
-*The Cantonese restaurant side: small heads of bok choy (Chinese white cabbage) blanched briefly, then stir-fried hard with sliced garlic and a splash of oyster sauce, finished with a drizzle of sesame oil. The greens stay vivid emerald, the white stems stay crunchy, the dressing is glossy and savoury. Made in 6 minutes. Eats alongside any Chinese main - duck, fish, pork - and is the universal vegetable on dim-sum trolleys.*
+*The Cantonese restaurant side: small heads of bok choy blanched briefly, then stir-fried hard with sliced garlic and a glossy slick of oyster sauce.*
 
 **Serves:** 4 (as a side)
 

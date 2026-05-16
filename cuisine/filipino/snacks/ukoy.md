@@ -1,7 +1,7 @@
 # Ukoy (Shrimp Fritters)
 
 ![Ukoy](resources/ukoy.jpg)
-*Small whole shrimp (shells on) buried in a batter of grated squash, mung bean sprouts, spring onion and rice flour, then deep-fried into crisp golden discs. The shells crackle as you bite, the batter shatters around them, the sprouts give a fresh sweet crunch. Eats with a saucer of garlic-vinegar dip - sukang sawsawan. A merienda staple in every Filipino home and a wet-market street snack countrywide.*
+*The Philippines' merienda fritter: whole shell-on shrimp buried in a batter of grated squash, sprouts and spring onion, deep-fried crisp gold.*
 
 **Serves:** Makes 12 fritters (serves 4 as a snack)
 

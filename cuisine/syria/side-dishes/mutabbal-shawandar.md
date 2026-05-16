@@ -1,7 +1,7 @@
 # Mutabbal Shawandar
 
 ![Mutabbal Shawandar](resources/mutabbal-shawandar.jpg)
-*The Syrian beetroot version of mutabbal: roasted beetroot blended with tahini, lemon, garlic and yogurt into a vivid magenta dip. Earthier and brighter than the classic eggplant mutabbal, with a slight sweetness from the beets that the lemon and tahini cut through. A Damascene mezze regular, served alongside hummus, tabbouleh and warm flatbread.*
+*Syria's beetroot mutabbal: roasted beetroot blended with tahini, lemon, garlic and yogurt into a vivid magenta dip. Earthy and bright.*
 
 **Serves:** 4 as a mezze
 

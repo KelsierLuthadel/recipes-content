@@ -1,7 +1,7 @@
 # M'hencha (Almond Snake Coil)
 
 ![M'hencha](resources/m-hencha.jpg)
-*A spectacular Moroccan dessert: warka pastry filled with an almond paste perfumed with orange-flower water and cinnamon, rolled into a long thin cylinder, then coiled like a snake (m'hencha = "the snake") into a tight spiral. Bakes golden in a round tin, dusts with icing sugar and a lattice of cinnamon. Sliced into wedges like a cake. The almond filling is similar to cigares au miel but the shape is the entire visual point.*
+*Morocco's snake-coil dessert: warka pastry filled with cinnamon almond paste, rolled into a long cylinder and coiled tight into a spiral. Baked golden.*
 
 **Serves:** 8-10
 

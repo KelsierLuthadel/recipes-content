@@ -1,7 +1,7 @@
 # Kafta Mishweeyeh
 
 ![Kafta Mishweeyeh](resources/kafta-mishweeyeh.jpg)
-*Lebanese grilled kafta skewers: lamb-and-beef mince mixed with finely chopped parsley, onion, allspice and cinnamon, shaped around flat metal skewers, grilled over charcoal until crusted outside and just-juicy inside. Eaten wrapped in saj or pita with garlic toum, hummus, pickled turnips and a green salad. The mezze-table grill staple.*
+*Lebanon's grilled kafta: lamb-and-beef mince mixed with parsley, onion, allspice and cinnamon, shaped on flat skewers and grilled charred over charcoal.*
 
 **Serves:** 4
 

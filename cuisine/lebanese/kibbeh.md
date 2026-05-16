@@ -1,7 +1,7 @@
 # Kibbeh
 
 ![Kibbeh](resources/kibbeh.jpg)
-*Lebanese fried torpedoes: a shell of bulgur and minced lamb wrapped around a filling of more lamb, onion and toasted pine nuts. Each is hand-shaped to a pointed oval, then deep-fried until shatteringly crisp. The shell is the test - it should be thin enough to almost see the filling through. Eats with yogurt-mint dip and a salad.*
+*Lebanon's fried torpedo: a thin bulgur-and-mince shell wrapped around a filling of lamb, onion and toasted pine nuts. Deep-fried shatteringly crisp.*
 
 **Makes:** 16 kibbeh
 

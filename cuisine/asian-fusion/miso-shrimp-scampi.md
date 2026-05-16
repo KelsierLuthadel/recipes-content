@@ -1,7 +1,7 @@
 # Miso Shrimp Scampi
 
 ![Miso Shrimp Scampi](resources/miso-shrimp-scampi.jpg)
-*A classic garlicky shrimp scampi rewired with white miso, giving the buttery pan sauce a deep savoury hum and a faint funk that pairs unexpectedly well with the lemon and wine. The smell of foaming butter, garlic and shallot lifts straight off the pan. Half-French, half-Japanese, served over pasta, rice, or with bread for soaking.*
+*A garlicky scampi rewired with white miso: lemon, wine and butter pan sauce gets a deep savoury hum from the miso. Served over pasta or with bread.*
 
 **Serves:** 4
 

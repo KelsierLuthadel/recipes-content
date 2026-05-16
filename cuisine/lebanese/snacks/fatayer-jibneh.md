@@ -1,7 +1,7 @@
 # Fatayer Jibneh
 
 ![Fatayer Jibneh](resources/fatayer-jibneh.jpg)
-*Lebanon's cheese hand-pies: small (7 cm) tricorn pastries (three corners pinched up over a centre filling) stuffed with a melty blend of akkawi, halloumi and feta cheeses with chopped parsley and mint, baked golden, eaten warm. The cheese-filled cousin to the spinach fatayer-bil-sabanikh and the meat-filled lahem-bi-ajeen. The defining Lebanese tea-time / iftar / picnic / lunchbox snack. Sold by the dozen at every Beirut bakery.*
+*Lebanon's cheese hand-pies: small tricorn pastries stuffed with melty akkawi, halloumi and feta with parsley and mint. Baked till golden.*
 
 **Serves:** 4 (makes 16 fatayer)
 

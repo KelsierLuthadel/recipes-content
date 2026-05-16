@@ -1,7 +1,7 @@
 # Chelo Kabab Koobideh
 
 ![Chelo Kabab Koobideh](resources/chelo-kabab-koobideh.jpg)
-*Iran's national dish: minced lamb (or a lamb-and-beef mix) seasoned with grated onion, sumac and saffron, formed long around flat metal skewers, and grilled hard over charcoal until charred outside and juicy inside. Served on saffron-rice (chelo) with a fire-roasted tomato, raw onion, sumac, fresh basil, and a wide pat of butter melting into the rice.*
+*Iran's national dish: minced lamb seasoned with grated onion, sumac and saffron, shaped on flat skewers and grilled hard. Served on saffron rice.*
 
 **Serves:** 4
 

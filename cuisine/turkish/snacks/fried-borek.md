@@ -2,7 +2,7 @@
 
 ![Fried Börek](resources/fried-borek.png)
 
-*These crispy, golden-brown fried pastry packages enclose a seasoned meat filling redolent with warm spices and fresh herbs. Similar in concept to Indian samosas, börek are much thinner-shelled, creating a shatteringly crisp exterior protecting a savory, hot interior. These are excellent as an entrée or served as sophisticated aperitif snacks.*
+*Turkey's crisp meat börek: thin pastry packages enclosing a spiced minced-meat filling with warm spices and fresh herbs. Deep-fried golden and shatter-crisp.*
 
 **Prep Time:** 1 hour 10 minutes
 **Cook Time:** 25 minutes

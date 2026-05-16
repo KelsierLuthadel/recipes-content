@@ -2,7 +2,7 @@
 
 ![Bienenstich](resources/bienenstich.jpg)
 
-*German "bee-sting" cake: a soft yeasted dough base, crowned with a caramelised honey-butter-almond topping that hardens into a chewy brittle as it bakes. Split and filled with thick vanilla cream. Legend says a 15th-century baker, fending off attackers from his town walls by throwing beehives at them, invented it as a victory cake. The name stuck.*
+*Germany's bee-sting cake: a soft yeasted base crowned with a caramelised honey-butter-almond top that hardens to brittle. Split and filled with vanilla cream.*
 
 **Serves:** 10
 

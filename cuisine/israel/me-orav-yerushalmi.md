@@ -1,7 +1,7 @@
 # Me'orav Yerushalmi (Jerusalem Mixed Grill)
 
 ![Me'orav Yerushalmi](resources/me-orav-yerushalmi.jpg)
-*A fast-fried Jerusalem-market dish: a mix of chicken hearts, livers, spleen and lean beef or lamb chunks, sautéed hot on a wide flat-top with onion, baharat, turmeric, paprika and a generous slick of olive oil. Stuffed into pita with hummus, pickles and amba. Different from the existing jerusalem-mixed-grill entry: this is the offal-heavy version named "me'orav" (mixed), born in the market stalls of Machane Yehuda.*
+*Jerusalem's market mixed grill: chicken hearts, livers, spleen and lamb chunks hit hot on a flat-top with onion, baharat and turmeric. Stuffed into pita.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Arroz con Leche Colombiano
 
 ![Arroz con Leche Colombiano](resources/arroz-con-leche-colombiano.jpg)
-*Colombian rice pudding - rice simmered in whole milk, cinnamon, lemon zest, and a generous amount of sugar until the grains are soft and the liquid is creamy. Lighter than a Filipino bibingka but creamier than a French riz au lait. Topped with raisins, a generous dusting of cinnamon, and sometimes a touch of grated lemon zest. Eats warm or cold; classic Colombian after-school snack.*
+*Colombia's after-school rice pudding: rice simmered slow in whole milk with cinnamon, lemon zest and sugar till creamy. Topped with raisins.*
 
 **Serves:** 6
 

@@ -1,7 +1,7 @@
 # Chouriço Assado
 
 ![Chourico Assado](resources/chourico-assado.jpg)
-*Portugal's flame-grilled chorizo: a whole chouriço (smoked paprika pork sausage - distinct from Spanish chorizo, which is harder; Portuguese chouriço is softer and smokier) charred over a small ceramic burner (the assador de barro - a clay pig-shaped dish) doused with aguardente or brandy and set alight at the table. Sliced thick and eaten by hand with bread. The defining Portuguese tasca bar-snack - theatrical, hot, garlicky, smoky.*
+*Portugal's flame-grilled chouriço: a whole smoky sausage doused with aguardente and lit at the table. Charred, sliced thick, eaten with bread.*
 
 **Serves:** 4 (as a snack)
 

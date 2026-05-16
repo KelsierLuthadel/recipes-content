@@ -1,7 +1,7 @@
 # Mint Sauce
 
 ![Mint Sauce](resources/mint-sauce.jpg)
-*The traditional British condiment for roast lamb: a quick-made sauce of finely chopped fresh mint, sugar, hot water and malt (or white wine) vinegar, served in a small jug at Sunday lunch. Tart, slightly sweet, bright green, cutting through the richness of lamb fat. Distinct from American mint jelly (which is a set-jelly, not a sauce). Made in 5 minutes; tastes best after 15 minutes' rest so the mint flavour infuses.*
+*The British roast-lamb companion: finely chopped fresh mint stirred into sugar dissolved in hot water and a splash of malt vinegar. Bright, sharp.*
 
 **Serves:** 6 (makes ~150 ml)
 

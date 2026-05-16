@@ -1,7 +1,7 @@
 # Chicken Shawarma
 
 ![Chicken Shawarma](resources/chicken-shawarma.jpg)
-*The Israeli street-food staple: boneless chicken thighs marinated overnight in baharat, garlic, turmeric, lemon and yogurt, then layer-grilled (the spit) or oven-roasted as a stack, sliced thin, and stuffed into pita with hummus, salata, amba, pickles and zhug. Home version uses an oven and a sheet pan; close approximation in 60 minutes.*
+*The Israeli street staple: boneless chicken thighs marinated overnight in baharat, garlic, turmeric, lemon and yogurt, then stack-roasted, sliced into pita.*
 
 **Serves:** 4
 

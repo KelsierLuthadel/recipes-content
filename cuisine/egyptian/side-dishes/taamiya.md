@@ -1,7 +1,7 @@
 # Ta'amiya
 
 ![Ta'amiya](resources/taamiya.jpg)
-*Egyptian falafel: ground fava beans (not chickpeas), parsley, coriander, dill, leek, garlic and onion blitzed to a soft green paste, shaped into small flat patties and deep-fried until darkly crusted outside, vivid green inside. Distinct from Levantine chickpea falafel; the Egyptian original. Eaten in pita with tahina, salata baladi and pickles.*
+*Egypt's falafel: ground fava beans, parsley, coriander, dill, leek and garlic blitzed to a soft green paste, fried into small darkly crusted patties.*
 
 **Serves:** 6 (makes about 24)
 

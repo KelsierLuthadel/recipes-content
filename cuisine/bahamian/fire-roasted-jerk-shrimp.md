@@ -1,7 +1,7 @@
 # Fire-Roasted Jerk Shrimp
 
 ![Fire-Roasted Jerk Shrimp](resources/fire-roasted-jerk-shrimp.jpg)
-*Bahamian-style scampi: medium shrimp roasted in a screaming-hot oven in a beer-and-butter bath flavoured with Scotch bonnet, allspice, thyme, garlic and scallion. The whole thing's done in five minutes - the oven at 260°C does the work. Toasted Cuban bread or French baguette goes on the same rack to crisp; you dunk the bread into the butter pan as you eat. Adapted from the Bahama Breeze chain recipe.*
+*Bahamian jerk scampi: shrimp roasted in a screaming oven in a beer-and-butter bath with Scotch bonnet, allspice, thyme and scallion.*
 
 **Serves:** 2
 

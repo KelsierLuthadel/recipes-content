@@ -1,7 +1,7 @@
 # Bánh Xèo Chay
 
 ![Bánh Xèo Chay](resources/banh-xeo-chay.jpg)
-*Vietnamese rice-flour and turmeric pancake, crispy at the edges and slightly chewy in the centre, folded over a stir-fried filling of mushrooms, beansprouts and tofu. The name "bánh xèo" comes from the sizzle the batter makes hitting the hot pan. Eaten by tearing pieces, wrapping in lettuce and herbs, dipping in nuoc cham.*
+*Vietnam's sizzling rice-flour pancake: crispy at the edges, slightly chewy in the centre, folded around a stir-fried filling of mushrooms, beansprouts and tofu.*
 
 **Serves:** 4
 

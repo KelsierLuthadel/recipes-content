@@ -2,7 +2,7 @@
 
 ![Octopus Curry](resources/octopus-curry.jpg)
 
-*A classic Mauritian Creole curry: octopus simmered with thyme, tomato and garam masala until the tentacles are tender and the gravy is dark, glossy and faintly smoky from the seafood. Eaten on Sunday afternoons with rice and a chilli pickle, often soundtracked by a sega record on the radio. Coastal Mauritian cooking at its most direct.*
+*A Mauritian Creole curry: octopus simmered with thyme, tomato and garam masala till the tentacles are tender and the gravy dark, glossy and smoky.*
 
 **Serves:** 4
 

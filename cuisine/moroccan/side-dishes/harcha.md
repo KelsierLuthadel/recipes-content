@@ -1,7 +1,7 @@
 # Harcha
 
 ![Harcha](resources/harcha.jpg)
-*A semolina pan-bread, dense and slightly crumbly, with a soft inside and a golden crust from being fried on a hot griddle. Eats split open like an English muffin, slathered with butter, honey, jam, or amlou (almond-argan paste). The Moroccan teatime staple - afternoon mint tea always comes with a plate of harcha. Different from msemen (layered laminated bread) - harcha is a single thick disc, no layers.*
+*Morocco's teatime semolina pan-bread: a dense, slightly crumbly disc fried gold on a hot griddle. Split and slathered with butter and honey.*
 
 **Serves:** Makes 6 harcha
 

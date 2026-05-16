@@ -2,7 +2,7 @@
 
 ![Nga Pyaw Kyaw](resources/nga-pyaw-kyaw.jpg)
 
-*Burmese banana fritters: ripe finger bananas (or short stubby Cavendish) dipped in a turmeric-tinted rice-flour batter and deep-fried until the crust shatters and the fruit inside collapses to caramel. Sold from charcoal-heated woks at evening street stalls, scooped onto a square of newspaper, dusted with sesame and eaten so hot it burns your fingers. The cheapest and most universally beloved Burmese teashop sweet.*
+*Burma's teashop banana fritter: ripe finger bananas dipped in turmeric-tinted rice-flour batter and deep-fried till the crust shatters and the fruit caramels.*
 
 **Serves:** 4 (makes about 12 fritters)
 

@@ -1,7 +1,7 @@
 # Kabsa
 
 ![Kabsa](resources/kabsa.jpg)
-*Saudi Arabia's national dish: long-grain rice cooked in spiced tomato stock with chicken or lamb, scented with dried lime, cardamom and cinnamon. The protein lifts onto a mound of rice; toasted almonds and raisins scatter on top; a punchy salsa of tomato, chilli and lime serves alongside. Eaten communally from a single platter.*
+*Saudi Arabia's national dish: long-grain rice cooked in spiced tomato stock with chicken or lamb, scented with dried lime, cardamom and cinnamon.*
 
 **Serves:** 6
 

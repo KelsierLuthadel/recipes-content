@@ -1,7 +1,7 @@
 # Briouat bil Jben (Cheese Briouats)
 
 ![Briouat bil Jben](resources/briouat-bil-jben.jpg)
-*Triangular Moroccan filo pastries filled with a tangy mix of soft fresh cheese (jben), beaten egg, herbs, and a hint of cumin. Deep-fried golden and crisp, eaten warm as a snack with mint tea or as a starter before a tagine. The cheese-version sister to the meat-filled briouat bil lahm. Smaller and crisper than a Greek tyropita; the filling stays soft and almost molten while the filo stays crackingly crisp.*
+*Morocco's cheese briouats: triangular filo pastries filled with soft fresh cheese, beaten egg, herbs and a hint of cumin. Deep-fried golden and crisp.*
 
 **Serves:** Makes 18 triangles
 

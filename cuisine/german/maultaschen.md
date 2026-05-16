@@ -1,7 +1,7 @@
 # Maultaschen
 
 ![Maultaschen](resources/maultaschen.jpg)
-*Swabian "Lent dumplings": large, oblong filled pasta with a vegetarian filling of spinach, breadcrumbs, eggs and cheese. Tradition says they were invented by monks who hid meat from God during Lent - the vegetarian version is the older, more honest expression of the dish. Served two ways: in clear broth, or pan-fried with onions and a fried egg.*
+*Swabia's Lent dumplings: large oblong filled pasta with a vegetarian filling of spinach, breadcrumbs, eggs and cheese. Served in broth or pan-fried with onions.*
 
 **Makes:** 12-15 large maultaschen (serves 4)
 

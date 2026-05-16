@@ -1,7 +1,7 @@
 # Gumbo Z'Herbes
 
 ![Gumbo Z'Herbes](resources/gumbo-z-herbes.jpg)
-*Lent-time Louisiana gumbo built on greens - collards, mustard greens, kale, spinach, parsley - chopped and stewed in a roux-thickened broth. Originally a "no meat" Friday dish that, traditionally, you put as many different greens in as you wanted blessings. Eats over rice; tastes deeper than the simple ingredients suggest.*
+*A Lent-time Louisiana gumbo: collards, mustard greens, kale, spinach and parsley stewed in a roux-thickened broth. The 'no meat' Friday dish of yesteryear.*
 
 **Serves:** 6
 

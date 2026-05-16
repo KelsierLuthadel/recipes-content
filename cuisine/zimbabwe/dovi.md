@@ -1,7 +1,7 @@
 # Dovi
 
 ![Dovi](resources/dovi.jpg)
-*The Zimbabwean peanut stew: chicken or beef simmered in a thick, mahogany-coloured peanut butter sauce sharpened with tomato and onion. Rich, savoury, just slightly sweet from the peanuts. Variants run through every household; this one uses chicken thighs and dark, smooth peanut butter for body. Eaten with sadza, the peanut sauce thinning slightly under the heat of the porridge.*
+*Zimbabwe's peanut stew: chicken or beef simmered in a thick mahogany peanut-butter sauce sharpened with tomato and onion. Eaten with sadza.*
 
 **Serves:** 4
 

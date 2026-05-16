@@ -1,7 +1,7 @@
 # Sepen
 
 ![Sepen](resources/sepen.jpg)
-*Tibetan tomato hot sauce, made in summer when tomatoes are plentiful in Lhasa. Mild rather than aggressively hot - the design is about flavour, not heat - with celery for body and fresh cilantro to finish. Eats with momos, shabalep, or spooned over rice alongside a mixed-vegetable dish. Featured once in the New York Times dining section in a YoWangdu profile.*
+*A Tibetan tomato hot sauce: summer tomatoes with celery, cilantro and chilli pounded into a mild flavourful condiment. Spooned over momos and rice.*
 
 **Serves:** Makes about 750 ml (4-6 servings)
 

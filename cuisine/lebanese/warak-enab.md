@@ -1,7 +1,7 @@
 # Warak Enab
 
 ![Warak Enab](resources/warak-enab.jpg)
-*Lebanese stuffed vine leaves with spiced lamb-and-rice filling, packed tight in a wide pot, weighted down, slow-braised in lemon-and-stock until the leaves are tender and the rice is plump. Eaten warm or at room temperature with yogurt and lemon. A celebration dish - labour-intensive enough to be made for company; Friday-lunch enough to be made every week.*
+*Lebanon's stuffed vine leaves: leaves rolled around a spiced lamb-and-rice filling, packed tight in a pot and slow-braised in lemon and stock.*
 
 **Serves:** 6
 

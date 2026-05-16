@@ -1,7 +1,7 @@
 # Galinha à Zambeziana
 
 ![Galinha à Zambeziana](resources/galinha-zambeziana.jpg)
-*Chicken from the Zambezia province: spatchcocked, marinated in coconut milk, lime and piri-piri, grilled or roasted, and served slathered in a coconut-cashew-paprika sauce. Less aggressive than frango piri-piri (it's coastal and rich rather than charcoal-driven), but unmistakably Mozambican. Served with coconut rice and a green salad.*
+*Zambezia province's coastal chicken: spatchcocked bird marinated in coconut milk, lime and piri-piri, grilled and bathed in a coconut-cashew-paprika sauce.*
 
 **Serves:** 4
 

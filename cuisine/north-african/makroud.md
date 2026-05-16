@@ -1,7 +1,7 @@
 # Makroud
 
 ![Makroud](resources/makroud.jpg)
-*North African date-and-semolina diamonds: a buttery, lightly-spiced semolina dough wrapped around a softened date paste, cut into diamonds, fried until golden, then dipped in honey-orange syrup. Algerian, Tunisian and Libyan kitchens all claim some version; the dough's slightly grainy texture against the soft date filling is what makes them. Eaten across Eid and at any tea-table moment.*
+*North Africa's date diamonds: a buttery semolina dough wrapped around softened date paste, cut into diamonds, fried, then dipped in honey-orange syrup.*
 
 **Makes:** 30 diamonds
 

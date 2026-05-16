@@ -1,7 +1,7 @@
 # Okra Soup
 
 ![Okra Soup](resources/okra-soup.jpg)
-*Nigeria's iconic glossy, slippery (the polite word is "draw") soup: fresh okra chopped fine and simmered briefly in a base of palm oil, smoked fish, beef, ground crayfish and Scotch bonnet, the okra's mucilage thickening the soup into a glossy ribboned mess that clings to fufu. Eaten with the right hand - pinch fufu, dip, mouth, swallow. Don't chew the fufu, just swallow it; the okra slips down with it. The dish is humble but utterly Nigerian.*
+*Nigeria's glossy, draw-thick soup: chopped okra briefly simmered with palm oil, smoked fish, beef, crayfish and Scotch bonnet. Eaten with fufu by the fingers.*
 
 **Serves:** 4
 

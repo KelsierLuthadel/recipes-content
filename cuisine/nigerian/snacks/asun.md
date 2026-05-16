@@ -1,7 +1,7 @@
 # Asun (Spicy Smoky Goat Meat)
 
 ![Asun](resources/asun.jpg)
-*Smoky barbecued goat meat - pieces of goat charred over fire, then sautéed in a fiery pepper sauce with scotch bonnet, onion and red pepper. The Yoruba (south-western Nigeria) party snack par excellence. Eats with toothpicks alongside cold beer or palm wine; common at owambe (Yoruba parties) and after-work bars across Lagos. Different from suya (peanut-coated skewers): asun is sautéed, soupy at the edges, intensely spicy.*
+*Yoruba party snack: charred goat tossed hot in a fiery pepper sauce of Scotch bonnet, red pepper and onion. Eaten with toothpicks and cold beer.*
 
 **Serves:** 4 as a snack
 

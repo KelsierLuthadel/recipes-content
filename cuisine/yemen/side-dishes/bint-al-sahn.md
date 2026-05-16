@@ -1,7 +1,7 @@
 # Bint al-Sahn
 
 ![Bint al-Sahn](resources/bint-al-sahn.jpg)
-*"Daughter of the plate": Yemen's iconic celebration bread - a layered, paper-thin pastry brushed with melted ghee, stacked seven or eight layers deep, baked golden and drowned in dark honey and toasted black caraway seeds. Made for weddings, Eid, important guests. Pulled apart in flakes, eaten with the right hand, washed down with cardamom-spiced black tea. Sweet, rich, layered, deeply special.*
+*Yemen's celebration bread: paper-thin pastry stacked seven layers deep with ghee, baked golden and drenched in dark honey and black caraway seeds.*
 
 **Serves:** 6
 

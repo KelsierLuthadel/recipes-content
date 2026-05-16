@@ -1,7 +1,7 @@
 # Pollo Asado
 
 ![Pollo Asado](resources/pollo-asado.jpg)
-*Bone-in chicken pieces stained brick-red with achiote and bathed in a marinade of bitter orange, lime, garlic and oregano, then grilled over hot coals until the skin chars and the meat stays juicy. The smell is citrus oil hitting smoke, then warm cumin and the earthy perfume of annatto. A weekend grill staple across northern Mexico, Yucatán and the Mexican diaspora in the American Southwest.*
+*Northern Mexico's grilled chicken: bone-in pieces stained brick-red with achiote and bathed in bitter orange, lime, garlic and oregano, then charred.*
 
 **Serves:** 4
 

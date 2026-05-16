@@ -1,7 +1,7 @@
 # Aloo Paratha
 
 ![Aloo Paratha](resources/aloo-paratha.jpg)
-*Pakistan's stuffed griddled flatbread: whole-wheat dough rolled around a filling of mashed boiled potato spiced with cumin, ginger, green chilli, coriander and amchoor (dried mango powder), then rolled again and cooked on a hot tawa with a generous slick of ghee until golden, blistered and oily-crisp. The breakfast staple from Punjabi households on both sides of the border. Eaten with thick yogurt, lime pickle, butter or a fried egg on top.*
+*Punjab's stuffed flatbread: whole-wheat dough rolled around spiced mashed potato, cooked on a hot tawa with ghee till blistered and crisp.*
 
 **Serves:** 4 (makes 8 parathas)
 

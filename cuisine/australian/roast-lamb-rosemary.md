@@ -2,7 +2,7 @@
 
 ![Roast Lamb with Rosemary and Garlic](resources/roast-lamb-rosemary.jpg)
 
-*The Sunday lamb roast is so embedded in Australian food culture that "Throw another lamb on" became a national advertising slogan, and the dish anchors family gatherings, Anzac Day and (controversially) Australia Day. The classic is a bone-in leg, studded deeply with garlic and rosemary, roasted high then low until the outside is mahogany-crusted and the inside still blushing pink. Served with rich pan gravy and roast vegetables.*
+*Australia's Sunday lamb: a bone-in leg studded with garlic and rosemary, roasted high then low till mahogany-crusted outside and blushing pink within.*
 
 **Serves:** 6-8
 

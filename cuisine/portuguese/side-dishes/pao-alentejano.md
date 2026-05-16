@@ -1,7 +1,7 @@
 # Pão Alentejano
 
 ![Pão Alentejano](resources/pao-alentejano.jpg)
-*The Alentejo's dense crusty country bread: a slow-fermented sourdough-style loaf made from a high-extraction wheat flour, with a tight chewy crumb and a thick deeply-coloured crust. The signature bread of southern Portugal; the bread you tear into to soak up açorda or migas, or eat with fresh cheese, presunto and olive oil. Bakes for over an hour to develop that characteristic crust. Keeps for a week and only gets better for soaking.*
+*The Alentejo's country bread: a slow-fermented loaf with a tight chewy crumb and a thick deep-coloured crust. Made for soaking up açorda and migas.*
 
 **Serves:** 8 (makes 1 large loaf)
 

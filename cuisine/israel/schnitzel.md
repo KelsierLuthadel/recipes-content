@@ -1,7 +1,7 @@
 # Israeli Schnitzel
 
 ![Israeli Schnitzel](resources/schnitzel.jpg)
-*Israel's national fast lunch: a thin chicken breast cutlet pounded flat, breaded with seasoned panko, deep-fried golden. Eaten in a pita with salata, hummus and pickles; or on a plate with rice and Israeli salad; or in a sandwich with mayo and lettuce. Imported from the Austrian-Jewish diaspora, made national by mass adoption.*
+*Israel's national fast lunch: a thin chicken breast pounded flat, breaded with seasoned panko, deep-fried golden. Eaten in pita with hummus and pickles.*
 
 **Serves:** 4
 

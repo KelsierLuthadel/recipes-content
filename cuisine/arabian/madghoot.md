@@ -1,7 +1,7 @@
 # Madghoot
 
 ![Madghoot](resources/madghoot.jpg)
-*A Saudi pressure-cooked rice and lamb dish: bone-in lamb shoulder marinated in baharat, tomato, garlic and dried lime, then pressure-cooked with onion, basmati rice and stock for a fast version of the slow-roasted desert classics (mandi, kabsa). The pressure cooker compresses three hours of work into 35 minutes; the result is fall-apart lamb on aromatic, deep-orange rice. Common at Saudi family dinners.*
+*Saudi Arabia's pressure-cooked rice and lamb: bone-in shoulder marinated in baharat and dried lime, cooked fast with onion, basmati and stock.*
 
 **Serves:** 4
 

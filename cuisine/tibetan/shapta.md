@@ -2,7 +2,7 @@
 
 ![Shapta](resources/shapta.jpg)
 
-*A Tibetan stir-fry of beef or yak with onion, capsicum, soy and chilli, served with rice or pulled apart in a tingmo steamed bun. Quick, punchy, very different from the slower noodle soups Tibet is better known for. Shapta is a meat-eater's dish, popular in Lhasa restaurants and in the Tibetan diaspora across Nepal and northern India. The trick is to slice the meat across the grain very thinly and to keep the wok hot.*
+*The Tibetan stir-fry: thinly sliced beef flashed in a hot wok with onion, capsicum, soy and chilli. Served with rice or tucked into tingmo buns.*
 
 **Serves:** 4
 

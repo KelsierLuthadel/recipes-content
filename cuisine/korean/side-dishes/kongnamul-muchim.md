@@ -1,7 +1,7 @@
 # Kongnamul Muchim (Soybean Sprout Side Dish)
 
 ![Kongnamul Muchim](resources/kongnamul-muchim.jpg)
-*Blanched soybean sprouts (the long ones with yellow bean tops, not mung bean sprouts) dressed simply with garlic, salt, soy sauce, sesame oil and sesame seeds. The most basic banchan, on every Korean table. The bean tops give a nutty bite, the stems a refreshing snap. Served cool. Different from mung bean sprouts: kongnamul are bigger, yellow-topped, distinctly nutty.*
+*The most basic Korean banchan: blanched soybean sprouts dressed with garlic, salt, soy, sesame oil and sesame seeds. Nutty and refreshing.*
 
 **Serves:** 4 as a side
 

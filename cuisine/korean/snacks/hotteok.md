@@ -1,7 +1,7 @@
 # Hotteok
 
 ![Hotteok](resources/hotteok.jpg)
-*Korean winter street food: a yeasted pancake with a generous filling of dark muscovado, cinnamon and chopped peanuts that melts to molten caramel as it cooks. Pressed flat on a griddle with a special spatula and cooked golden. The first bite cracks the crust, the brown-sugar caramel oozes out - hot enough to scald, sweet enough to be worth it. Sold from carts in Seoul markets, eaten with frozen fingers.*
+*Korea's winter street pancake: a yeasted disc filled with brown sugar, cinnamon and peanuts that melt to molten caramel as it griddles.*
 
 **Serves:** Makes 8 hotteok
 

@@ -1,7 +1,7 @@
 # Samkeh Harra
 
 ![Samkeh Harra](resources/samkeh-harra.jpg)
-*The Gaza / coastal Palestinian "spicy fish" - a whole sea bass or sea bream baked on a bed of a tahini-and-fresh-coriander sauce that's spiked with garlic, Aleppo pepper, cumin, lemon juice and a touch of chilli. The fish comes out moist and dripping with the green-gold sauce, the top scattered with toasted pine nuts and pomegranate seeds. Coastal Mediterranean Palestine on a plate - herby, lemony, gently spicy, indispensably tahini-rich.*
+*Gaza's spicy fish: a whole sea bream baked on a bed of tahini-and-coriander sauce spiked with garlic, Aleppo pepper and lemon. Pomegranate on top.*
 
 **Serves:** 4
 

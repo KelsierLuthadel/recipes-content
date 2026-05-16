@@ -1,7 +1,7 @@
 # Three Sisters Succotash
 
 ![Three Sisters Succotash](resources/three-sisters-succotash.jpg)
-*A side built on the indigenous trio that defined eastern-woodland and Plains agriculture for centuries - corn, beans and squash, planted together because they grow in symbiosis. Stewed gently with butter, onion and a pinch of sage, lifted with sweet maple syrup and finished with cider vinegar. Eats next to roast meat, fish, or stands alone with bread.*
+*A side built on the indigenous trio of corn, beans and squash: stewed gently with butter, onion and sage, lifted with maple syrup and cider vinegar.*
 
 **Serves:** 6 as a side
 

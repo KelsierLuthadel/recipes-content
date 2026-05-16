@@ -1,7 +1,7 @@
 # Fatteh Djaj
 
 ![Fatteh Djaj](resources/fatteh-djaj.jpg)
-*Lebanese layered chicken fatteh: crisp shards of toasted pita on the bottom, a layer of slow-cooked chickpeas and shredded chicken, blanketed in a garlic-yogurt-tahini sauce, finished with toasted pine nuts and a sizzle of cumin-spiced butter (taqliya). A Friday-lunch celebration dish; the layers contrast crisp / soft / cool / hot in every spoonful.*
+*Lebanon's layered fatteh: crisp toasted pita beneath chickpeas and shredded chicken, blanketed in garlic-yogurt-tahini and finished with cumin butter.*
 
 **Serves:** 4
 

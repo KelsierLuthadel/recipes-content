@@ -1,7 +1,7 @@
 # Zalabia
 
 ![Zalabia](resources/zalabia.jpg)
-*Yemeni fried dough balls drenched in sugar syrup or honey - the after-iftar Ramadan snack across the Arab world but with a Yemeni accent: smaller than the Egyptian or Lebanese versions, with cardamom and a touch of saffron in the batter, soaked in honey rather than sugar syrup. Crisp shell, soft middle, sticky-glazed top. Made by the dozen and eaten in twos.*
+*Yemen's after-iftar sweet: small cardamom-and-saffron-scented fried dough balls drenched in honey. Crisp shell, soft middle, sticky-glazed top.*
 
 **Serves:** 6 (makes about 30 small balls)
 

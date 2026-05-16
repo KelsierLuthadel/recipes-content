@@ -1,7 +1,7 @@
 # Somlói Galuska
 
 ![Somlói Galuska](resources/somloi-galuska.jpg)
-*Hungary's celebrated trifle, named after Somló hill: three sponges (plain, cocoa, walnut) layered with rum-and-citrus syrup, raisins and walnuts, drowned in dark chocolate sauce and topped with whipped cream. Invented in the 1950s in Budapest; sold by weight at café counters because the layers crumble as you spoon. Served scoop-style; not a slice.*
+*Hungary's celebrated trifle: three sponges layered with rum-citrus syrup, raisins and walnuts, drowned in dark chocolate sauce and topped with whipped cream.*
 
 **Serves:** 8 to 10
 

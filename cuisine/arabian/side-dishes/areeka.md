@@ -2,7 +2,7 @@
 
 ![Areeka](resources/areeka.jpg)
 
-*A Saudi date-and-bread sweet, popular in the south and central regions: hot, just-toasted whole-wheat bread torn into a serving dish, layered with pitted dates, drenched in melted butter or samna (clarified butter) and pressed lightly so the bread soaks up the buttery dates. Eaten warm with the fingers, often as a snack with coffee. Heavily sustaining; the bedouin equivalent of a doorstop fruit bun.*
+*A Saudi date-and-bread sweet: toasted whole-wheat bread torn into a dish with pitted dates, drenched in melted samna, pressed lightly to soak.*
 
 **Serves:** 4 as a snack
 

@@ -1,7 +1,7 @@
 # Gai Yang
 
 ![Gai Yang](resources/gai-yang.jpg)
-*Butterflied chicken pounded with coriander root, garlic, white pepper and fish sauce, then grilled slowly over charcoal until the skin is mahogany-dark and the meat smoky and tender. The smell is unmistakable Thai street food: garlic and fish sauce caramelising into smoke, with the green earthy perfume of coriander root underneath. The Isaan grilled chicken eaten across Thailand, usually with sticky rice and a fiery nam jim jaew dipping sauce.*
+*Isaan's grilled chicken: butterflied bird pounded with coriander root, garlic, white pepper and fish sauce, slow-charred over coals till mahogany-dark.*
 
 **Serves:** 4
 

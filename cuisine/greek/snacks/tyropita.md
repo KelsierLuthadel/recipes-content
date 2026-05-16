@@ -1,7 +1,7 @@
 # Tyropita
 
 ![Tyropita](resources/tyropita.jpg)
-*Buttery filo triangles wrapped around a creamy filling of feta, ricotta and egg. Tyropita means "cheese pie" - every Greek bakery sells them by the dozen at breakfast time. Crisp shell, soft savoury cheese filling, eats hot in two bites. Made into triangles for snack-size, into a giant spiral coil for a sharing pie. The eternal Greek travel food.*
+*Greece's bakery pastry: buttery filo triangles wrapped around a creamy filling of feta, ricotta and egg. The eternal Greek travel food.*
 
 **Serves:** Makes 16 triangles
 

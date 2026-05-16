@@ -1,7 +1,7 @@
 # Chanasan Makh
 
 ![Chanasan Makh](resources/chanasan-makh.jpg)
-*The plainest, oldest Mongolian dish: mutton on the bone (or whole goat, or whole sheep, or a leg of horse) boiled in salted water with nothing else. The traditional honour-meat of the steppe, served on a wide platter, eaten by hand with a knife; the broth drunk after. Aromatic-free, vegetable-free; the salt and the long simmer do everything. The Mongolian winter staple.*
+*Mongolia's plainest dish: mutton on the bone boiled in salted water with nothing else. The honour-meat of the steppe, eaten by hand with a knife.*
 
 **Serves:** 4
 

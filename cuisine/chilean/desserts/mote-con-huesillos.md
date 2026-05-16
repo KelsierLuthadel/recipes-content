@@ -1,7 +1,7 @@
 # Mote con Huesillos
 
 ![Mote con Huesillos](resources/mote-con-huesillos.jpg)
-*A Chilean summer drink-dessert hybrid: sun-dried peaches (huesillos) rehydrated in spiced sugar syrup, served in a tall glass with cooked husked wheat (mote) at the bottom. You drink the syrup, eat the peach, then spoon the wheat. Sold from carts across Chilean parks and beaches in summer; refreshing, sweet, peach-and-cinnamon scented.*
+*Chile's summer drink-dessert: sun-dried peaches rehydrated in spiced sugar syrup, served in a tall glass over cooked husked wheat. Drunk, then spooned.*
 
 **Serves:** 6
 

@@ -1,7 +1,7 @@
 # Knafeh Nabulsiya
 
 ![Knafeh Nabulsiya](resources/knafeh-nabulsiya.jpg)
-*The Nablus-style cheese knafeh: a layer of fine semolina pastry threads (kataifi) tinted bright orange, baked over melted unsalted akkawi cheese, then drowned in cold rosewater syrup and topped with crushed pistachios. Hot, gooey, sweet-salty, and very Palestinian. Eats in a flat tray, cut into squares, eaten while the cheese still pulls in long strings.*
+*The Nablus-style cheese knafeh: orange-tinted kataifi pastry baked over melted akkawi cheese, drenched in cold rosewater syrup, scattered with pistachio.*
 
 **Serves:** 8
 

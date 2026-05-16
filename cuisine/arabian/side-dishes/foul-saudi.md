@@ -1,7 +1,7 @@
 # Foul Saudi
 
 ![Foul Saudi](resources/foul-saudi.jpg)
-*Saudi-style fava beans: dried fava beans slow-cooked overnight (or pressure-cooked in 45 minutes), then warmed in olive oil with garlic, cumin, lemon and a pinch of chilli, and crushed lightly into a chunky, savoury paste. Served warm for breakfast with khubz, tomato, onion, and a drizzle of olive oil. The Saudi version is plainer than the Egyptian ful medames - more lemon and oil, less cumin.*
+*Saudi-style fava beans: dried favas slow-cooked till soft, warmed in olive oil with garlic, cumin and lemon, crushed into a chunky paste.*
 
 **Serves:** 4
 

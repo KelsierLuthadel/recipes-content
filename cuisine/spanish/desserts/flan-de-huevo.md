@@ -1,7 +1,7 @@
 # Flan de Huevo (Spanish Egg Flan)
 
 ![Flan de Huevo](resources/flan-de-huevo.jpg)
-*The classic Spanish version of caramel custard: lighter than the French crème caramel, less dense than Filipino leche flan. Uses whole eggs (not just yolks), milk (not condensed), and a hint of lemon zest. The caramel layer is amber-bitter, the custard is wobbly and silky. Served chilled, inverted onto a plate, the caramel pouring down like a glaze. Spain's national pudding, on every taverna menu.*
+*Spain's national pudding: a lighter caramel custard of whole eggs and milk, inverted onto a plate so the amber caramel pours down the dome.*
 
 **Serves:** 6
 

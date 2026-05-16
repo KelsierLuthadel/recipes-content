@@ -1,7 +1,7 @@
 # Keftedakia (Greek Mini Meatballs)
 
 ![Keftedakia](resources/keftedakia.jpg)
-*Small fried meatballs the size of a walnut, seasoned heavily with mint, oregano and onion, often with a splash of ouzo or red wine in the mix. The defining Greek meatball: fragrant from the herbs, slightly crisp on the outside, juicy inside. Eats as a meze with a saucer of tzatziki or yogurt-and-lemon dip, or piled high alongside a bowl of orzo. Smaller than meatballs you'd serve as a main; bigger than the canapé size.*
+*Greece's defining meze meatball: walnut-sized fried balls seasoned heavily with mint, oregano and grated onion. Eaten with tzatziki and lemon.*
 
 **Serves:** 6 as meze (makes about 30 keftedakia)
 

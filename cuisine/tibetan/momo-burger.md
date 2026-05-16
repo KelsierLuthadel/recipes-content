@@ -1,7 +1,7 @@
 # Tibetan Momo Burger
 
 ![Tibetan Momo Burger](resources/momo-burger.jpg)
-*A fusion: the flavours of Tibetan momo (steamed dumpling) filling, pressed into a beef-burger format. Ground beef seasons with soy sauce, garlic, ginger and the savoury Tibetan momo-filling profile, then grills or pans. Served on a whole-wheat English muffin (or burger bun) with a swipe of light mayo. Adapted by the YoWangdu kitchen from their own momo recipe.*
+*A modern fusion: Tibetan momo flavours pressed into a beef burger. Ground beef seasoned with soy, garlic and ginger, grilled and served on a soft bun.*
 
 **Serves:** 4
 

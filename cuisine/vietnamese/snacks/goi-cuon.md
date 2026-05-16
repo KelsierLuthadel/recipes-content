@@ -2,7 +2,7 @@
 
 ![Goi Cuon](resources/goi-cuon.jpg)
 
-*Gỏi cuốn are the classic Vietnamese fresh summer rolls: rice paper wrapped around boiled prawns, sliced pork belly, vermicelli, lettuce and herbs, served cool with a peanut-hoisin dipping sauce. Light, fresh and entirely uncooked once the protein is done, they're the antidote to deep-fried chả giò and the standard order at any Vietnamese gathering.*
+*Vietnam's fresh summer rolls: rice paper wrapped around prawns, sliced pork belly, vermicelli, lettuce and herbs. Served cool with peanut-hoisin sauce.*
 
 **Makes:** 12 rolls (serves 4)
 

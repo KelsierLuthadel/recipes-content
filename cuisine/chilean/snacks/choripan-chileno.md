@@ -1,7 +1,7 @@
 # Choripán Chileno
 
 ![Choripán Chileno](resources/choripan-chileno.jpg)
-*Grilled Chilean chorizo (longaniza) split lengthways and tucked into a marraqueta or hot-dog roll, topped with pebre - a fresh salsa of tomato, onion, coriander, garlic and aji. Different from the Argentine version (no chimichurri, smaller sausage, focus on pebre). The Chilean street-food standard; eats with one hand while standing by the grill.*
+*Chile's street sandwich: grilled longaniza chorizo split lengthways, tucked into a roll and topped with pebre, a fresh tomato-coriander-garlic salsa.*
 
 **Serves:** 4
 

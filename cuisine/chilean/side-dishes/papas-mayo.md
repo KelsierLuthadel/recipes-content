@@ -1,7 +1,7 @@
 # Papas Mayo
 
 ![Papas Mayo](resources/papas-mayo.jpg)
-*Chilean potato salad: warm boiled potatoes folded with mayonnaise, sliced spring onion, hard-boiled egg, a touch of mustard and parsley. Simpler than the German or American versions, more about good potatoes and a generous mayo than about pickles or bacon. Eaten alongside grilled meats, fried fish or roast chicken - the Sunday-lunch staple.*
+*A Chilean potato salad: warm boiled potatoes folded with mayonnaise, spring onion, hard-boiled egg, a touch of mustard and parsley. The Sunday-lunch staple.*
 
 **Serves:** 4 as a side
 

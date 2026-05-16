@@ -1,7 +1,7 @@
 # Vindaloo 
 
 ![Vindaloo](resources/vindaloo.jpg)   
-*Many restaurants include potato in their vindaloo curries. ‘Aloo’ means potato in Hindi, so a lot of the original self-taught Bangladeshi and Pakistani chefs in the UK mistakenly added potatoes to this fiery curry, and it stuck. Vindaloo, however, owes its origins to Portuguese- controlled Goa in the 15th century, where the dish was usually served with pork.*
+*The Goan-Portuguese fusion: pork shoulder marinated overnight in a thick paste of Kashmiri chillies, vinegar, garlic, ginger and pepper, slow-cooked dark.*
 
 **Note**: The recipe here calls for Indian Bay leaf, which has a subtle cinnamon and clove taste, and less woody than the European counterpart.
 

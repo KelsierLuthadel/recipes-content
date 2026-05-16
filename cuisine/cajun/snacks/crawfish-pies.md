@@ -1,7 +1,7 @@
 # Crawfish Pies
 
 ![Crawfish Pies](resources/crawfish-pies.jpg)
-*Small hand-held fried pies, the size of an egg, with a flaky savoury crust hiding a rich filling of crawfish étouffée - tail meat in a buttery roux with the trinity, tomato, Cajun spice and a hit of hot sauce. The kind of thing sold from the back of a truck at the Breaux Bridge Crawfish Festival. Made with peeled crawfish tails where available; prawns are the easy UK substitute.*
+*Egg-sized Cajun hand pies: a flaky savoury crust hiding a buttery roux-bound filling of crawfish étouffée with the trinity and hot sauce.*
 
 **Serves:** Makes 12 pies (4-6 servings)
 

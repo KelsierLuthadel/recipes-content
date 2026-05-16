@@ -2,7 +2,7 @@
 
 ![Sambal Belacan](resources/sambal-belacan.jpg)
 
-*Sambal belacan is the everyday Malay chilli condiment, a raw pounded paste of fresh red chillies and toasted shrimp paste finished with a sharp squeeze of lime. It sits on the table the way salt and pepper do elsewhere, ready to be spooned next to nasi lemak, grilled fish, ulam (raw herb salads) or a plate of rice and fried chicken.*
+*Malaysia's everyday chilli condiment: a raw pounded paste of fresh red chillies and toasted shrimp paste finished with a sharp squeeze of lime.*
 
 **Serves:** 6 (as a condiment)
 **Prep Time:** 10 minutes

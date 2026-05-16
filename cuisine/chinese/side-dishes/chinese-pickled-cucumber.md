@@ -1,7 +1,7 @@
 # Chinese Pickled Cucumber
 
 ![Chinese Pickled Cucumber](resources/chinese-pickled-cucumber.jpg)
-*Sichuan-style quick pickle: cucumber spears or rounds salted to weep their water, then bathed in a sweet-sour-spicy brine of rice vinegar, sugar, soy sauce, Sichuan peppercorns and dried chillies. Crunchy, faintly numbing from the Sichuan peppercorn, sharp and bright; eaten cold as a palate-cleansing side, on a noodle bowl, or as a chopstick snack with rice. Ready in 1 hour at room temperature; tastes better after a day in the fridge.*
+*Sichuan's quick pickle: cucumber spears salted to weep, then bathed in a sweet-sour brine of rice vinegar, soy, Sichuan peppercorns and dried chillies.*
 
 **Serves:** 6 (as a side / pickle)
 

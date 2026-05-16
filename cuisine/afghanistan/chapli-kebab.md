@@ -1,7 +1,7 @@
 # Chapli Kebab
 
 ![Chapli Kebab](resources/chapli-kebab.jpg)
-*Flat, ragged-edged Afghan beef (or lamb) patties shot through with chopped onion, tomato, coriander, mint and a heavy hand of dried pomegranate seeds, ground coriander and chilli. Cooked hot and fast on a flat griddle until darkly crusted; eaten on naan with sliced tomato and raw onion. The name "chapli" means slipper-shaped - the patty is famously thin and lacy at the edges.*
+*Afghanistan's slipper-shaped patty: ragged-edged beef shot through with onion, tomato, herbs and a heavy hand of pomegranate seeds, griddled hard.*
 
 **Serves:** 4
 

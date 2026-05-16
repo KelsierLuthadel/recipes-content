@@ -1,7 +1,7 @@
 # Bourek Tunisien
 
 ![Bourek Tunisien](resources/bourek-tunisien.jpg)
-*Long cigar-shaped Tunisian fried pastries - sheets of warka or filo wrapped around a filling of tuna, potato, harissa, capers and a whole raw egg (cracked into the filling just before frying so it cooks inside the cigar). Deep-fries golden and crisp. The most beloved Tunisian Ramadan starter / iftar snack. Different from Moroccan briouats: the shape is cylindrical, the egg-in-the-cigar is the iconic Tunisian twist.*
+*Tunisia's Ramadan cigar: warka wrapped around tuna, mashed potato, harissa and capers, with a whole raw egg cracked in to cook as it fries.*
 
 **Serves:** Makes 8 bourek
 

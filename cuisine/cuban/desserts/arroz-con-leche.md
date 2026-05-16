@@ -1,7 +1,7 @@
 # Arroz con Leche
 
 ![Arroz con Leche](resources/arroz-con-leche.jpg)
-*Cuban rice pudding: short-grain rice cooked slow in whole milk with a cinnamon stick, a strip of lemon zest, vanilla and condensed milk for sweetness. Eaten warm in a glass or cold from the fridge, dusted with cinnamon. The standard nursery sweet across the Spanish-speaking Caribbean, with each island's small variation. The Cuban version leans on condensed milk for richness.*
+*Cuban rice pudding: short-grain rice slow-cooked in whole milk with cinnamon, lemon zest, vanilla and condensed milk. Eaten warm or cold, dusted with cinnamon.*
 
 **Serves:** 6
 

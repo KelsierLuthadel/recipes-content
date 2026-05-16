@@ -1,7 +1,7 @@
 # Kotlet
 
 ![Kotlet](resources/kotlet.jpg)
-*Persia's everyday cutlet: oval-shaped patties of minced beef (or lamb), grated potato, grated onion and egg, lightly spiced with turmeric, salt and a faint pinch of cinnamon, then shallow-fried gold and crisp on both sides. The Persian school lunchbox / picnic / quick-dinner staple. Eaten warm with bread, tomato, pickles and herbs; or cold the next day as a sandwich filling. Friendly, cheap, foolproof.*
+*Persia's everyday cutlet: oval patties of mince, grated potato and onion lightly spiced with turmeric, shallow-fried gold and crisp.*
 
 **Serves:** 4 (makes 12 kotlet)
 

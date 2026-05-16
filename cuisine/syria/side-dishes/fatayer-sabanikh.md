@@ -1,7 +1,7 @@
 # Fatayer bi Sabanikh
 
 ![Fatayer bi Sabanikh](resources/fatayer-sabanikh.jpg)
-*Triangular spinach turnovers - the staple Levantine vegetarian street snack. Soft yeasted dough rounds filled with a wilted spinach mixture sharpened with sumac, lemon, onion and pomegranate molasses, folded into a three-cornered closed parcel, baked golden. Eaten warm with a glass of mint tea. Lemony, slightly tart, completely savoury.*
+*The Levantine spinach turnover: yeasted dough rounds filled with wilted spinach sharpened with sumac, lemon and pomegranate, folded into tricorns and baked.*
 
 **Serves:** 6 (makes 18)
 

@@ -1,7 +1,7 @@
 # Sanwin Makin
 
 ![Sanwin Makin](resources/sanwin-makin.jpg)
-*Burma's classic semolina cake: butter-rich, lightly sweetened, scented with cardamom and topped with poppy seeds and raisins. Sometimes called "Burmese semolina cake" in English; eaten across teashops with milk tea (lahpet yay) and at weddings. Distinctive baking-then-grilling finish gives the surface a charred, almost burnt-sugar crust over a tender, moist crumb.*
+*Burma's semolina cake: butter-rich and lightly sweetened, scented with cardamom and topped with poppy seeds and raisins. Eaten in teashops with milk tea.*
 
 **Serves:** 12
 

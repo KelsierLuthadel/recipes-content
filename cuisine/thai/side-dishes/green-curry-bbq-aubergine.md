@@ -1,7 +1,7 @@
 # Green Curry BBQ Aubergine
 
 ![Green Curry BBQ Aubergine](resources/green-curry-bbq-aubergine.jpg)
-*Thick wedges of aubergine marinated overnight in a reduced green curry sauce, then grilled over coals until the surface blackens and the coconut-paste glaze caramelises into sticky black-edged crust. The smell is grill smoke meeting kaffir lime, galangal and Thai basil. A side, not a curry. The aubergine carries the curry flavour without being submerged in it.*
+*Thai grilled aubergine: thick wedges marinated overnight in reduced green curry, then grilled over coals till the coconut paste glazes into sticky char.*
 
 **Serves:** 4 (as a side) or 2 (as a main with rice)
 

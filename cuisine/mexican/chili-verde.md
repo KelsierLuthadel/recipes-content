@@ -1,7 +1,7 @@
 # Chili Verde
 
 ![Chili Verde](resources/chili-verde.jpg)
-*The Mexican-American slow-braised pork-and-tomatillo stew: pork shoulder simmered in a roasted tomatillo-poblano-jalapeño salsa with cumin, oregano, garlic, onion and stock until the meat falls apart and the green sauce coats every fork. Served with warm tortillas, lime, fresh coriander, white rice or pinto beans. Sour, herbal, gently hot, deeply savoury.*
+*The Mexican-American pork-and-tomatillo stew: shoulder simmered in a roasted tomatillo-poblano-jalapeño salsa till the meat falls apart in a green sauce.*
 
 **Serves:** 6
 

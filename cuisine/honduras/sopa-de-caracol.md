@@ -1,7 +1,7 @@
 # Sopa de Caracol
 
 ![Sopa de Caracol](resources/sopa-de-caracol.jpg)
-*The Garifuna coastal soup that's also an unofficial Honduran anthem: conch (caracol) and yuca slow-cooked in coconut milk with green plantain, sweet pepper, cilantro and a bit of butter. Rich, sweet, marine. Served in a deep bowl with extra lime and a piece of corn tortilla. Conch is the iconic version; the same soup with shrimp or fish is sopa marinera.*
+*Honduras' Garifuna coastal soup: conch and yuca slow-cooked in coconut milk with green plantain, sweet pepper and cilantro. Rich, sweet and marine.*
 
 **Serves:** 4
 

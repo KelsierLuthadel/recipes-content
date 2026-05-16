@@ -1,7 +1,7 @@
 # Authentic Cajun Gumbo
 
 ![Authentic Cajun Gumbo](resources/authentic-cajun-gumbo.jpg)
-*The "everything" Louisiana gumbo: chicken thighs, andouille, lump crab and shrimp, all in a deep-chocolate roux base. The roux takes 30 minutes of constant stirring at medium-low - the colour goes from blond to peanut butter to dark chocolate; this is what separates Cajun gumbo from everything else. Filé powder thickens at the end. Eats over white rice.*
+*Louisiana's everything gumbo: chicken, andouille, crab and shrimp in a deep-chocolate roux base. The 30-minute stirred roux is what makes it Cajun.*
 
 **Serves:** 8-10
 

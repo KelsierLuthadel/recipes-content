@@ -1,7 +1,7 @@
 # Sichuan Dry-Fried Green Beans
 
 ![Sichuan Dry-Fried Green Beans](resources/stir-fried-green-beans.jpg)
-*Gānbiān sìjì dòu - a Sichuan classic of long beans (or green beans) blistered black-spotted in hot oil, then tossed with garlic, ginger, dried chillies, Sichuan peppercorns and a small amount of preserved vegetable for that sharp, salty hit. The beans should be wrinkled, deeply caramelised, with chewy patches. A vegetarian main on its own with rice.*
+*A Sichuan dry-fried bean dish: long beans blistered black-spotted in hot oil, tossed with garlic, ginger, dried chillies and Sichuan peppercorns.*
 
 **Serves:** 3-4
 

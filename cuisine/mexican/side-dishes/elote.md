@@ -1,7 +1,7 @@
 # Elote
 
 ![Elote](resources/elote.jpg)
-*Mexican grilled corn on the cob: a hot ear of charred corn slathered in a mayo-and-crema mixture, dusted with crumbled cotija cheese, dusted again with chilli powder, and finished with a wedge of lime. The defining Mexican street snack. Smoky from the grill, creamy from the dressing, salty from the cheese, hot from the chilli, sour from the lime - every Mexican flavour note in one bite. Eaten by hand, on a stick or by the husk.*
+*Mexico's street-cart corn: charred corn cobs slathered in mayo-and-crema, dusted with crumbled cotija, chilli powder and finished with a lime wedge.*
 
 **Serves:** 4
 

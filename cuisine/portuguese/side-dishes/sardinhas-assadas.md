@@ -1,7 +1,7 @@
 # Sardinhas Assadas
 
 ![Sardinhas Assadas](resources/sardinhas-assadas.jpg)
-*Portugal's summer-festival fish: whole fresh sardines, salted heavily for an hour, then grilled hard over open coals until the skin is charred and the flesh is just-flaking. Eaten with the fingers, with crusty bread and roasted peppers; the smell of grilling sardines drifts through every Portuguese coastal street in June (the feast of Santo António). Smoky, oily, crackling, defiantly simple. The seasonal Portuguese summer.*
+*Portugal's summer festival fish: whole fresh sardines salted heavily and grilled hard over open coals till the skin chars and the flesh just flakes.*
 
 **Serves:** 4
 

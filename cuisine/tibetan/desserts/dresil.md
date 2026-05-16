@@ -1,7 +1,7 @@
 # Dresil
 
 ![Dresil](resources/dresil.jpg)
-*Tibetan sweet rice for Losar (Tibetan New Year) and other special occasions. Plain steamed basmati is mixed with melted butter, cashews, raisins and a touch of sugar; traditional versions also include droma - a small wild root that's boiled and folded in. Served in small bowls with sweet tea or salty butter tea, hot, warm, or at room temperature. The first thing eaten on the first morning of Losar in many Central Tibetan families.*
+*Tibet's Losar sweet rice: hot basmati glossed with butter, fattened with cashews and softened raisins, lightly sweetened. Eaten with sweet tea.*
 
 **Serves:** 4-6
 

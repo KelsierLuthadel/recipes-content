@@ -2,7 +2,7 @@
 
 ![Mafé](resources/mafe.jpg)
 
-*Mafé (also spelled maafe or tigadèguèna) is West Africa's great peanut stew, originating with the Bambara of Mali and adopted across Senegal as a Sunday-lunch staple. Beef or lamb braises in a thick, rust-coloured sauce of peanut butter, tomato and stock until the meat falls apart and the sauce slicks the rice. It is rich, faintly sweet from the peanuts, savoury from tomato and stock cube, and warmed by chilli.*
+*West Africa's great peanut stew: bone-in beef or lamb braised in a thick rust-coloured peanut-butter-and-tomato sauce. Served over plain rice.*
 
 **Serves:** 6
 

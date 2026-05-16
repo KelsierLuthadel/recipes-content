@@ -2,7 +2,7 @@
 
 ![Lamb Nihari](resources/nihari.png)
 
-*A mild sauce that has a delicious flavour that when mixed with tender lamb shanks. Lamb nihari is a fantastic all-round option for entertaining. Your guests can add chopped green chillies, lemon juice, julienned ginger and fresh coriander (cilantro) to taste at the table. If you want the curry to be fiery hot, add loads of chillies*
+*A mild lamb curry: shanks simmered tender in a deep masala. Diners add chilli, lemon, ginger and coriander at the table. Excellent for entertaining.*
 
 **Serves:** 4
 **Prep Time:** 20 minutes

@@ -1,7 +1,7 @@
 # Oi Muchim (Korean Spicy Cucumber Salad)
 
 ![Oi Muchim](resources/oi-muchim.jpg)
-*A quick, sharp, fiery banchan: cucumber tossed with gochugaru (Korean chilli flakes), garlic, soy sauce, sesame oil, vinegar and a touch of sugar. Salts briefly to draw out moisture, then dresses 10 minutes before serving so it stays crisp. The everyday side dish: 5 minutes of prep, ready 15 minutes after that. Bright red, garlicky, crunchy.*
+*A quick Korean banchan: cucumber tossed with gochugaru, garlic, soy, sesame oil and a touch of vinegar. Bright red, sharp, garlicky and crunchy.*
 
 **Serves:** 4 as a side
 

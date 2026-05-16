@@ -1,7 +1,7 @@
 # Shish Tawook Jordani
 
 ![Shish Tawook Jordani](resources/shish-tawook-jordani.jpg)
-*Jordanian grilled chicken skewers: boneless chicken thighs marinated overnight in garlic, lemon, yogurt, tomato puree, allspice and a hint of paprika, threaded onto skewers and grilled hard over charcoal. Eaten wrapped in shrak (or pita) with garlic toum, pickles and grilled tomato. The lunchtime mainstay of every Jordanian sandwich stand.*
+*Jordan's grilled chicken skewers: boneless thighs marinated overnight in garlic, lemon, yogurt, tomato puree, allspice and paprika, then charred.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Tsuivan
 
 ![Tsuivan](resources/tsuivan.jpg)
-*Mongolia's national one-pot noodle dish: hand-cut wheat noodles steamed atop a stew of mutton, onion and cabbage, the noodles absorbing the meat fat and stock from below into something between a dry stir-fry and a soupless broth-noodle. The everyday family supper of the steppe, made in a deep pot over a wood or dung fire. Best with fatty mutton; pleasant with beef.*
+*Mongolia's one-pot noodle dish: hand-cut wheat noodles steamed atop a mutton-and-cabbage stew, the noodles drinking up the meat fat from below.*
 
 **Serves:** 4
 

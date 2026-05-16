@@ -2,7 +2,7 @@
 
 ![Biryani](resources/biryani.jpg)
 
-*Biryani is a royal one-pot rice and meat preparation traditionally cooked during festival celebrations, combining yogurt-marinated meat with fragrant basmati rice infused with whole spices and saffron. Each component builds in flavor layering, aromatic yogurt marinade, slow-cooked meat sauce, fragrant rice, creating a dish of profound depth that unites all elements through careful assembly.*
+*India's royal one-pot: yogurt-marinated meat layered with basmati rice infused with whole spices and saffron, slow-cooked sealed for the dum effect.*
 
 **Prep Time:** 4-6 hours
 **Cook Time:** 45 minutes

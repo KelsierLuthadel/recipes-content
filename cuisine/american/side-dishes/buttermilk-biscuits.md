@@ -1,7 +1,7 @@
 # Buttermilk Biscuits
 
 ![Buttermilk Biscuits](resources/buttermilk-biscuits.jpg)
-*The American flaky soft biscuit - short by butter, leavened by baking powder and buttermilk, baked tall and gold. Eaten warm at breakfast with butter, jam or sausage gravy; split for ham biscuits at brunch; piled into Southern sides at dinner. Different to the British biscuit (a cookie); closer in spirit to a scone, but more layered and less sweet.*
+*The American flaky soft biscuit: short by butter, leavened by baking powder and buttermilk, baked tall and gold. Eaten warm with butter, jam or gravy.*
 
 **Serves:** 8 (makes 8-10 biscuits)
 

@@ -1,7 +1,7 @@
 # Yassa Spice-Rubbed Grilled Chicken
 
 ![Yassa Spice-Rubbed Grilled Chicken](resources/yassa-grilled-chicken.jpg)
-*The iconic dish of Casamance in southern Senegal: chicken steeped overnight in a tart, mustardy onion marinade, then grilled until smoky-edged and served back into its own slow-cooked onion sauce. The smell is lemon and Dijon hitting hot coals, then the slow sweetness of caramelising onions. A Wolof and Joola household staple now eaten across West Africa.*
+*Casamance's grilled chicken: bird steeped overnight in a tart mustardy onion marinade, grilled smoky and served back into its slow-cooked onion sauce.*
 
 **Serves:** 4
 

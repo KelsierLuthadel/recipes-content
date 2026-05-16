@@ -1,7 +1,7 @@
 # Eszterházy Torte
 
 ![Eszterházy Torte](resources/eszterhazy-torte.jpg)
-*Named in honour of Prince Pál Antal Eszterházy in 19th-century Vienna and adopted into Hungarian patisserie: five almond meringue discs sandwiched with cognac-laced French buttercream, the top finished in white fondant marbled with chocolate in the signature spider-web pattern, the sides masked with flaked almonds. The aristocrat to Dobos's bourgeoisie.*
+*Hungary's aristocrat cake: five almond meringue discs sandwiched with cognac French buttercream, topped with white fondant and a chocolate spider-web.*
 
 **Serves:** 12
 

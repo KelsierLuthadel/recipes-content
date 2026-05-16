@@ -1,7 +1,7 @@
 # Tarka Dal
 
 ![Tarka Dal](resources/tarka-dal.jpg)
-*The yellow lentil dal of every North Indian kitchen: split yellow moong dal (or toor dal) cooked soft with turmeric and salt, then crowned with a hot, sputtering tempering (tarka) of ghee, cumin, garlic, dried chilli and asafoetida poured over at the table. The pour is the point - the kitchen fills with the smell of garlic frying in ghee, and the dal comes alive.*
+*Every North Indian kitchen's dal: split yellow lentils cooked soft with turmeric, then crowned with a sputtering tarka of ghee, cumin, garlic and chilli.*
 
 **Serves:** 4 as a side
 

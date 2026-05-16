@@ -1,7 +1,7 @@
 # Saltfish Fritters / Stamp and Go
 
 ![Saltfish Fritters](resources/saltfish-fritters.jpg)
-*Crisp, golden fried fritters of salt cod, flour, spring onion, thyme and scotch bonnet, dropped by the spoonful into hot oil. Known as "stamp and go" - Jamaican sailor slang for grabbing one quickly on the move from a roadside vendor. Crunchy on the outside, fluffy in the middle, salty-savoury all through. The original Caribbean street snack.*
+*Jamaica's 'stamp and go': crisp, golden fritters of salt cod, flour, spring onion, thyme and Scotch bonnet, dropped by the spoonful into hot oil.*
 
 **Serves:** Makes about 16 fritters (4-6 servings)
 

@@ -1,7 +1,7 @@
 # Bansh
 
 ![Bansh](resources/bansh.jpg)
-*Mongolia's small boiled mutton dumplings: roughly thumb-sized parcels of unleavened wheat dough wrapped around a teaspoon of seasoned minced mutton, simmered in salted water (or in mutton broth for the soup version). Smaller and humbler than buuz, eaten by the dozen, often as a workaday weeknight supper. Served plain with a splash of soy and chilli, or floated in clear mutton broth for bansh-tai-shul.*
+*Mongolia's small boiled dumplings: thumb-sized parcels of unleavened dough around seasoned mutton, simmered in salted water or in mutton broth.*
 
 **Serves:** 4 (makes ~60 bansh)
 

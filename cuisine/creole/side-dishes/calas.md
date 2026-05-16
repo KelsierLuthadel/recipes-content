@@ -1,7 +1,7 @@
 # Calas
 
 ![Calas](resources/calas.jpg)
-*Old New Orleans rice fritters: leftover cooked rice mixed with sugar, egg, flour, baking powder, nutmeg and vanilla, dropped into hot oil and fried into puffy golden balls, dusted with icing sugar. Pre-Civil-War street food, sold on Sundays by African-American women in the French Quarter, calling "belles calas, tout chaud!". Faded out, now revived. Eaten warm with chicory coffee.*
+*Old New Orleans rice fritters: leftover cooked rice mixed with sugar, egg, flour and nutmeg, dropped into hot oil and fried golden puffy balls.*
 
 **Serves:** 4 (makes about 20 fritters)
 

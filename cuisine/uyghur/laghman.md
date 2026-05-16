@@ -1,7 +1,7 @@
 # Laghman
 
 ![Laghman](resources/laghman.jpg)
-*The Uyghur signature noodle: a single long rope of dough pulled by hand into long springy noodles, served under a wok-fried topping of lamb, tomato, peppers, beans and aromatics in a slightly spicy savoury sauce. The pulling technique is a small spectacle - a coiled rope of rested dough is stretched between the hands and danced on the tabletop until it thins into noodles. Eaten every region of Xinjiang in family-distinct variations.*
+*The Uyghur hand-pulled noodle: a single rope of dough stretched into long springy strands, served under a wok-fried lamb, tomato and pepper sauce.*
 
 **Serves:** 3
 

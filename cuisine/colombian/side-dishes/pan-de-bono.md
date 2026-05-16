@@ -1,7 +1,7 @@
 # Pan de Bono
 
 ![Pan de Bono](resources/pan-de-bono.jpg)
-*Colombian cheese-and-yuca breads: small dense ring-shaped buns made from yuca flour, a soft fresh cheese (queso costeño or feta), an egg and a touch of cornmeal. Crusty outside, intensely chewy and stretchy inside (almost mochi-like). A breakfast staple eaten warm with hot chocolate; sold from corner bakeries across Colombia. Close cousin to Brazilian pão de queijo.*
+*Colombia's breakfast bread: small dense rings of yuca flour and fresh cheese, crusty outside and intensely chewy within. Eaten with hot chocolate.*
 
 **Serves:** 4 (makes 12 small rings)
 

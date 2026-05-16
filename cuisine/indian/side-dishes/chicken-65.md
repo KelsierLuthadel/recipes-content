@@ -1,7 +1,7 @@
 # Chicken 65
 
 ![Chicken 65](resources/chicken-65.jpg)
-*The South Indian (Hyderabad / Madras) deep-fried chilli chicken: cubes of boneless chicken thigh marinated in yogurt, ginger-garlic, chilli and a heavy hand of Kashmiri red, double-fried until crisp, then tossed in a sputtering tempering of curry leaves, dried chilli, garlic and a splash of vinegar. Hot, deeply red, intensely savoury. Eaten as a starter with raw onion and lime wedges, or as a beer snack.*
+*Hyderabad's fierce chilli chicken: yogurt-marinated thigh cubes double-fried crisp, then tossed in a sputtering tempering of curry leaves.*
 
 **Serves:** 4 as a starter
 

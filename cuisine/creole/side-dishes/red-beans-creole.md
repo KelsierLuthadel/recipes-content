@@ -1,7 +1,7 @@
 # Red Beans (Creole)
 
 ![Red Beans (Creole)](resources/red-beans-creole.jpg)
-*New Orleans Creole red beans: small red beans slow-cooked with the trinity, smoked ham hock and andouille sausage, finished creamy and slightly thick from natural starch. Traditionally cooked on Mondays (laundry day in old New Orleans - the pot looked after itself while the household washed). Served over white rice, with hot sauce on the table.*
+*New Orleans Creole red beans: small red beans slow-cooked with the trinity, smoked ham hock and andouille till creamy. The Monday-laundry-day pot.*
 
 **Serves:** 6
 

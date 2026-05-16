@@ -1,7 +1,7 @@
 # Yemeni Sambusa
 
 ![Yemeni Sambusa](resources/sambusa-yemen.jpg)
-*The Yemeni samosa: small triangular fried pastries filled with spiced minced lamb, onion and chilli, crisp and golden-shelled. Traditional Ramadan food (broken with at iftar across Yemen), eaten any time as a starter or snack. Smaller, flakier and more chilli-forward than its South Asian cousin; the pastry is folded thin and fried hard.*
+*Yemen's samosa: small triangular fried pastries filled with spiced minced lamb, onion and chilli. The traditional Ramadan iftar snack.*
 
 **Serves:** 6 (makes about 24)
 

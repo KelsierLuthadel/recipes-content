@@ -1,7 +1,7 @@
 # Croquetas
 
 ![Croquetas](resources/croquetas.jpg)
-*Cuba's small, slim croquettes: smaller and lighter than the Spanish original, just a few bites each. A bechamel-based filling enriched with finely chopped ham (jamón) or chicken, chilled until firm, shaped, breaded and shallow-fried golden. The cafeteria classic, the picnic classic, the late-night cafetín counter classic. Eaten with a squeeze of lime.*
+*Cuba's small slim croquettes: a bechamel filling enriched with finely chopped ham, chilled firm, breaded and shallow-fried golden. The cafetín classic.*
 
 **Serves:** 4 to 6 (makes about 18 croquetas)
 

@@ -1,7 +1,7 @@
 # Ajad
 
 ![Ajad](resources/ajad.jpg)
-*Thailand's quick cucumber relish: sliced cucumber, shallot and fresh chilli macerated briefly in a sweet-sour-salt syrup of rice vinegar and palm sugar. Used as the obligatory dipping accompaniment to chicken satay, fish cakes (tod mun pla), curry puffs and any deep-fried Thai snack. Bright, sharp, lightly hot; the foil to anything fried and rich. Made in 10 minutes; eats best within 2 hours; not a long-keeping pickle.*
+*Thailand's quick cucumber relish: sliced cucumber, shallot and chilli macerated in a sweet-sour rice vinegar and palm-sugar syrup. The fried-snack foil.*
 
 **Serves:** 4 (as a dipping side)
 

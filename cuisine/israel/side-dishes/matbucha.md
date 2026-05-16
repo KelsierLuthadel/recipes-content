@@ -1,7 +1,7 @@
 # Matbucha
 
 ![Matbucha](resources/matbucha.jpg)
-*The North African / Israeli-Moroccan slow-cooked tomato-and-pepper salad: tomatoes, red bell peppers, garlic and hot green chillies cooked very slowly down to a thick jammy spreadable paste. Eaten cold or at room temperature as part of a mezze, scooped with pita or piled onto bread for breakfast. The salads bowl on every Israeli Friday-night dinner table.*
+*A North African-Israeli salad: tomatoes, red peppers, garlic and chillies cooked very slowly down to a thick jammy spreadable paste. Eaten cold with pita.*
 
 **Serves:** 6 as a mezze
 

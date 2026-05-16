@@ -1,7 +1,7 @@
 # Tortilla Española
 
 ![Tortilla Española](resources/tortilla-espanola.jpg)
-*Spain's national dish: thinly-sliced potatoes and onion poached gently in olive oil, then bound with eggs and cooked into a thick, juicy round. The classic argument is whether the centre should be jugosa (juicy, just-set) or fully cooked through. Either way, eats hot, warm or cold; the bocadillo de tortilla - tortilla in a bread roll - is a national lunch.*
+*Spain's national dish: thinly sliced potato and onion poached gently in olive oil, then bound with eggs and cooked into a thick juicy round.*
 
 **Serves:** 4-6
 

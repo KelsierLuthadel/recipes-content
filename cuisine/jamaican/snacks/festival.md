@@ -1,7 +1,7 @@
 # Festival
 
 ![Festival](resources/festival.jpg)
-*Sweet, fried Jamaican cornmeal dumplings shaped like fat little fingers - crisp on the outside, soft and slightly sweet inside, perfumed with vanilla and nutmeg. The classic companion to jerk chicken, fried fish, and escovitch. Sold from the back of every Jamaican beachside fish shack, hot from the fryer, wrapped in newspaper.*
+*Jamaica's beachside dumpling: sweet fried cornmeal fingers, crisp outside and slightly sweet within, perfumed with vanilla and nutmeg. Served with fried fish.*
 
 **Serves:** Makes 10-12 festivals (4-6 servings)
 

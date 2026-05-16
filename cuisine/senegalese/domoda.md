@@ -2,7 +2,7 @@
 
 ![Domoda](resources/domoda.jpg)
 
-*Domoda is The Gambia's national dish and one of the great groundnut stews of Senegambia: a lighter, brighter cousin to mafé built around chicken or lamb, with a thinner peanut-and-tomato sauce sharpened by a squeeze of lime and a pinch of bitter tomato or tamarind. It cooks quickly, leans aromatic rather than heavy, and is poured generously over rice.*
+*The Gambia's national stew: chicken or lamb in a thinner peanut-and-tomato sauce sharpened by lime and tamarind. Poured generously over rice.*
 
 **Serves:** 4-6
 

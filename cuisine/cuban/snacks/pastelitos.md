@@ -1,7 +1,7 @@
 # Pastelitos
 
 ![Pastelitos](resources/pastelitos.jpg)
-*Cuba's puff pastry pastries: small flaky squares filled with the iconic pairing of guava paste and cream cheese, baked until the pastry is shatteringly gold and the centre is soft and warm. Sold by the box at every Cuban bakery in Miami and Havana, eaten with strong sweet coffee at 9am or 4pm. The guava-cream-cheese combination is the king; the savoury variants are common too.*
+*Cuba's bakery pastry: small flaky puff-pastry squares filled with guava paste and cream cheese, baked till the pastry is shatteringly gold.*
 
 **Serves:** 4 to 6 (makes 12 pastelitos)
 

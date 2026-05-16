@@ -1,7 +1,7 @@
 # Brown Stew Chicken
 
 ![Brown Stew Chicken](resources/brown-stew-chicken.jpg)
-*The Jamaican Sunday standard. Bone-in chicken pieces marinate in onion, bell pepper, scallion, garlic, brown sugar, allspice and ginger overnight, brown hard in oil, then braise low for 1.5-2 hours in chicken stock with tomato sauce, thyme, bay leaves, carrots and a whole pierced Scotch bonnet. The gravy is dark mahogany; the meat falls off the bone.*
+*Jamaica's Sunday standard: chicken marinated overnight in seasoning, browned hard, then braised low in stock and tomato till the gravy turns dark mahogany.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Chalow
 
 ![Chalow](resources/chalow.jpg)
-*The plain Afghan white rice - basmati par-boiled, drained, then steam-finished in a covered pot with a drizzle of oil and a pinch of salt. Light, separate, faintly buttery, with the long grains intact and a thin golden crust on the bottom of the pot. The everyday rice that sits beneath kebabs, curries and stews - the canvas, not the painting.*
+*The plain Afghan white rice: basmati par-boiled, drained, then steam-finished in a covered pot with oil and salt. The canvas for kebabs and stews.*
 
 **Serves:** 4
 

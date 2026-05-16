@@ -2,7 +2,7 @@
 
 ![Burmese Samosa](resources/burmese-samosa.jpg)
 
-*Burma's version of the samosa is smaller, thinner-skinned and lighter than its Indian cousin, a legacy of the long Indian-Burmese exchange but adapted to local taste. Pastry is paper-thin and shatters when bitten; the filling is gently spiced potato or yellow split pea rather than the heavily masala-laden Indian filling. Eaten at teashops as a mid-morning snack, often with a saucer of raw onion and a green chilli on the side.*
+*Burma's lighter samosa: paper-thin pastry around a gently spiced potato-and-pea filling. Eaten at teashops with raw onion and a green chilli on the side.*
 
 **Serves:** 4 (makes 12 samosas)
 

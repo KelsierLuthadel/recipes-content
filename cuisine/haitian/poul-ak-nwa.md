@@ -1,7 +1,7 @@
 # Poul ak Nwa
 
 ![Poul ak Nwa](resources/poul-ak-nwa.jpg)
-*Haitian chicken with cashews - a Sunday dish from Cap-Haïtien on the north coast. Chicken leg quarters braise in a tomato-and-cashew gravy thickened with ground cashews; toasted cashew halves, bell pepper and onion go in for the last few minutes. The cashew flavour binds the dish: equal parts dry-roasted nut, dry-toasted spice and warm Haitian aromatics. Eats with white rice and avocado slices.*
+*Haiti's north-coast Sunday dish: chicken leg quarters braised in a tomato-and-cashew gravy, toasted cashew halves scattered through.*
 
 **Serves:** 4
 

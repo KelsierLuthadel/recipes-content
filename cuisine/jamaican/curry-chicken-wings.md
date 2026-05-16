@@ -1,7 +1,7 @@
 # Jamaican Curry Chicken Wings
 
 ![Jamaican Curry Chicken Wings](resources/curry-chicken-wings.jpg)
-*Whole chicken wings marinated overnight in buttermilk + Jamaican curry powder + Creole seasoning + a touch of mustard, then dredged in a curry-flour mix and deep-fried until the crust is shatteringly crisp. Caribbean-meets-Southern fried chicken; the wings carry warm pimento (allspice) notes through both the marinade and the breading.*
+*Caribbean-Southern fried chicken: whole wings marinated in buttermilk, Jamaican curry powder and Creole seasoning, dredged and deep-fried shatter-crisp.*
 
 **Serves:** 4
 

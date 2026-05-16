@@ -1,7 +1,7 @@
 # Borani Banjan
 
 ![Borani Banjan](resources/borani-banjan.jpg)
-*The classic Afghan eggplant side: thick slices of aubergine fried until silky-soft, layered with a quick tomato-onion sauce and topped with a generous spoonful of garlicky strained yogurt (chaka) and a sprinkle of dried mint. Eaten warm with naan or alongside a meat curry. Yogurt is what defines it - without the cold tangy yogurt over the hot eggplant, it's just stewed aubergine.*
+*The Afghan eggplant side: aubergine slices fried silky-soft, layered with a tomato-onion sauce and topped with garlicky strained yogurt and dried mint.*
 
 **Serves:** 4 as a side
 

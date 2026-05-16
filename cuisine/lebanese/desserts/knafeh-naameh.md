@@ -1,7 +1,7 @@
 # Knafeh Naameh
 
 ![Knafeh Naameh](resources/knafeh-naameh.jpg)
-*Lebanese knafeh with the "smooth" (naameh) base: a fine semolina dough (rather than the shredded-pastry kataifi of the Palestinian Nabulsiya version) layered with melted akkawi cheese, baked dome-up, flipped onto a serving tray, drenched in rose-and-orange-blossom sugar syrup and sprinkled with crushed pistachios. The classic Tripoli / Beirut breakfast pastry. Eaten hot, the cheese stretching, the syrup soaking.*
+*The Lebanese smooth knafeh: a fine semolina dough layered with melted akkawi cheese, baked dome-up, drenched in rose-and-orange-blossom syrup, pistachio-topped.*
 
 **Serves:** 6
 

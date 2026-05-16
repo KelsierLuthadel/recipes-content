@@ -1,7 +1,7 @@
 # Mutabbal Jordani
 
 ![Mutabbal Jordani](resources/mutabbal-jordani.jpg)
-*Levantine smoky eggplant dip with tahini and yogurt: open-flame charred aubergine, mashed with tahini, yogurt, garlic, salt and lemon. Smoother and richer than baba ganoush (yogurt adds creaminess); served as a mezze with pomegranate seeds, parsley and olive oil. The Jordanian / Lebanese version of the smoky-aubergine genre.*
+*The Levantine smoky aubergine dip with yogurt: charred aubergine mashed with tahini, yogurt, garlic, salt and lemon. Smoother and richer than baba ganoush.*
 
 **Serves:** 4 as a mezze
 

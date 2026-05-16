@@ -1,7 +1,7 @@
 # Melktert
 
 ![Melktert](resources/melktert.jpg)
-*South Africa's beloved milk tart: a thin pastry shell holding a delicate milk-and-egg custard, set firm enough to slice but still wobbly, dusted heavily with cinnamon. Brought to the Cape by Dutch settlers in the 17th century; now a Sunday-tea staple and the dessert of choice at every kerk-bazaar. Lightly sweet, slightly eggy, the cinnamon top doing as much work as the custard underneath.*
+*South Africa's milk tart: a thin pastry shell holding a delicate milk-and-egg custard set firm enough to slice, dusted heavily with cinnamon.*
 
 **Serves:** 8
 

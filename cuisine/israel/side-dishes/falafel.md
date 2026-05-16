@@ -1,7 +1,7 @@
 # Falafel
 
 ![Falafel](resources/falafel.jpg)
-*The Levantine chickpea fritter: ground dried chickpeas (not cooked - raw soaked!) blitzed with parsley, coriander, onion, garlic, cumin, coriander seed and a pinch of bicarbonate of soda, shaped into balls and deep-fried until darkly crusted outside, vivid green inside. Stuffed into pita with hummus, tahina, salata, pickles. The Levant and Israel disagree about the origin; both make it excellently.*
+*The Levantine chickpea fritter: soaked dried chickpeas blitzed with parsley, coriander and spices, deep-fried till crusted dark, vivid green within.*
 
 **Serves:** 6 (makes about 24)
 

@@ -1,7 +1,7 @@
 # Klepon
 
 ![Klepon](resources/klepon.jpg)
-*Bright-green pandan-flavoured glutinous rice balls with a molten palm-sugar centre, rolled in fresh grated coconut. Bite one and the liquid palm-sugar floods out - burnt sugar, salty coconut, soft chew. The colour comes from suji-leaf or pandan paste blended into the dough. A traditional Indonesian-Malaysian snack found at every kueh stall, eaten cool with sweet tea.*
+*Indonesia's bite-sized sweet: bright-green pandan glutinous rice balls with a molten palm-sugar centre, rolled in fresh grated coconut.*
 
 **Serves:** Makes 20 balls (serves 4)
 

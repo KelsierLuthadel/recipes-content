@@ -1,7 +1,7 @@
 # Watalappam
 
 ![Watalappam](resources/watalappam.jpg)
-*Sri Lanka's signature steamed coconut-jaggery custard, scented heavily with cardamom, cloves and nutmeg, topped with toasted cashews. Brought to the island by Malay traders; eaten especially during Eid and at weddings, but also as everyday family dessert. The kithul jaggery (palm sugar) gives it an almost-caramel depth that ordinary brown sugar can't quite match.*
+*Sri Lanka's steamed coconut-jaggery custard: heavily scented with cardamom, cloves and nutmeg, topped with toasted cashews. The Eid centrepiece.*
 
 **Serves:** 6
 

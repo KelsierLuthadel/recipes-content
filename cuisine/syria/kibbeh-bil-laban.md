@@ -1,7 +1,7 @@
 # Kibbeh bil Laban
 
 ![Kibbeh bil Laban](resources/kibbeh-bil-laban.jpg)
-*Syrian kibbeh in a yogurt sauce: shoulder-of-lamb mince and bulgur shaped into small torpedoes with a fried lamb-and-pine-nut filling, dropped briefly into a warm stabilised yogurt-and-garlic sauce, finished with sizzled mint butter. The classic Aleppine kibbeh treatment, elegant and warming. Eaten with a spoon and torn flatbread.*
+*Syria's kibbeh in yogurt: small lamb-and-bulgur torpedoes with a fried lamb-and-pine-nut filling, dropped into a warm stabilised yogurt-garlic sauce.*
 
 **Serves:** 4
 

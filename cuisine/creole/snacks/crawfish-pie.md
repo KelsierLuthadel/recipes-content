@@ -1,7 +1,7 @@
 # Crawfish Pie (Mini)
 
 ![Crawfish Pie](resources/crawfish-pie.jpg)
-*Louisiana mini hand pies filled with a buttery roux-thickened crawfish filling spiced with Cajun seasoning and finished with green onion and parsley. The same filling as full-size crawfish pie, scaled to bite size and served as a party / festival snack. Famously sung about in Hank Williams' Jambalaya ("filé gumbo / 'cause tonight I'm gonna see my ma cher amio / Crawfish pie..."). Eats hot, golden, oozing.*
+*Louisiana mini hand pies: a buttery roux-thickened crawfish filling spiced Cajun, finished with green onion and parsley, baked golden in shortcrust.*
 
 **Serves:** Makes 12 mini pies
 

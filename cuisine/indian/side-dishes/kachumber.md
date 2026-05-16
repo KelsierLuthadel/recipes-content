@@ -1,7 +1,7 @@
 # Kachumber
 
 ![Kachumber](resources/kachumber.jpg)
-*The Indian table salad: finely diced cucumber, tomato, onion and green chilli dressed with lime, salt and roasted cumin. Sometimes a small handful of coriander or mint. Fresh, crunchy, slightly hot. Served alongside dal, biryani, curry - the cold counterpoint to anything heavy and saucy. Made fresh and eaten within an hour, otherwise the vegetables weep.*
+*India's table salad: finely diced cucumber, tomato, onion and chilli dressed with lime, salt and roasted cumin. The cold counterpoint to anything saucy.*
 
 **Serves:** 4 as a side
 

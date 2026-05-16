@@ -1,7 +1,7 @@
 # Brik à l'Œuf
 
 ![Brik à l'Œuf](resources/brik-a-l-oeuf.jpg)
-*Tunisia's signature street food: a thin sheet of malsouka (or filo) wrapped around tuna, capers, parsley and a whole egg, then deep-fried fast - long enough to crisp the pastry and barely set the white, leaving the yolk runny. Eats by hand; the first bite breaks the yolk and floods the filling. Squeezed with lemon and dipped in harissa.*
+*Tunisia's signature street food: a thin sheet of malsouka wrapped around tuna, capers, parsley and a whole egg, deep-fried fast so the yolk runs.*
 
 **Serves:** 4
 

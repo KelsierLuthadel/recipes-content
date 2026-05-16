@@ -1,7 +1,7 @@
 # Pimientos de Padrón
 
 ![Pimientos de Padrón](resources/pimientos-de-padron.jpg)
-*Small green Galician peppers blistered hot in olive oil and finished with a generous sprinkle of flaky sea salt. The Padrón pepper roulette is the dish's charm: 9 out of 10 are mild and sweet; the 10th is fiery. The Galician saying - "uns pican e outros non" (some sting, some don't) - is the marketing. Cooks in 3 minutes; eaten with fingers, holding the stem, biting off the blistered flesh in one go.*
+*Galicia's blistered green peppers: Padróns fried hot in olive oil and finished with flaky salt. Nine out of ten mild and sweet; the tenth fiery.*
 
 **Serves:** 4 as a tapa
 

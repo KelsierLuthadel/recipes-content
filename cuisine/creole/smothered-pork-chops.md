@@ -1,7 +1,7 @@
 # Smothered Pork Chops
 
 ![Smothered Pork Chops](resources/smothered-pork-chops.jpg)
-*Bone-in pork chops dredged in seasoned flour, seared, then slow-braised in a dark onion gravy until the meat is fork-tender and the gravy clings thick. A New Orleans Creole "smothering" - the technique of finishing meat under a long-cooked sauce. Eaten over white rice or mashed potatoes; the rice is required, the gravy is the point.*
+*A Creole smother: bone-in pork chops dredged in seasoned flour, seared, then slow-braised in a dark onion gravy till fork-tender. Eaten over rice.*
 
 **Serves:** 4
 

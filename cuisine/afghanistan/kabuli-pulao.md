@@ -1,7 +1,7 @@
 # Kabuli Pulao
 
 ![Kabuli Pulao](resources/kabuli-pulao.jpg)
-*Afghanistan's national dish: long-grain basmati rice cooked with tender lamb, topped with sweet-cooked carrots, raisins and toasted nuts. The rice is amber from the lamb stock and a little caramel; the carrots are soft and golden; the whole thing is celebratory food. The protein is buried in the rice; the topping crowns it.*
+*Afghanistan's national dish: long-grain basmati cooked with tender lamb, topped with sweet-cooked carrots, raisins and toasted nuts. Celebration food.*
 
 **Serves:** 6
 

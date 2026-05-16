@@ -1,7 +1,7 @@
 # Chicken Tagine with Preserved Lemons
 
 ![Chicken Tagine with Preserved Lemons](resources/chicken-tagine-with-preserved-lemons.jpg)
-*Morocco's defining tagine: bone-in chicken pieces braised with onion, ginger, saffron, preserved lemons and green olives in the wide conical clay pot the dish is named after. Bright, tangy from the preserved lemons, deeply golden from the saffron and turmeric, savoury from the slow chicken juices. The everyday Casablanca Friday lunch, but elegant enough for guests. Eaten with crusty Moroccan khobz to mop the sauce.*
+*Morocco's defining tagine: bone-in chicken slow-braised with onion, ginger and saffron, finished with strips of preserved lemon and green olives.*
 
 **Serves:** 4
 

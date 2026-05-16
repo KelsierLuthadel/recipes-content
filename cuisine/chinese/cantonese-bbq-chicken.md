@@ -1,7 +1,7 @@
 # Cantonese BBQ Chicken
 
 ![Cantonese BBQ Chicken](resources/cantonese-bbq-chicken.jpg)
-*Chicken thighs lacquered in a hoisin, soy and honey glaze, grilled over coals until the skin crisps to a deep mahogany and the maltose-tinged glaze catches into sticky black-edged patches. The smell is roast-shop window in Mong Kok: five-spice, ginger, garlic and caramelising sugar. The texture sits between char siu and Cantonese roast chicken, half BBQ, half siu mei.*
+*Cantonese roast-shop chicken: thighs lacquered in hoisin, soy and honey, grilled over coals till the skin crisps to deep mahogany and the glaze sticks.*
 
 **Serves:** 4
 

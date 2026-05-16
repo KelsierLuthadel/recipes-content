@@ -1,7 +1,7 @@
 # Urum (Mongolian Clotted Cream and Sugar)
 
 ![Urum](resources/urum.jpg)
-*The Mongolian counterpart to clotted cream: whole milk simmered for hours, the slowly-forming skin of cream lifted off and stacked, then layered with sugar in a shallow dish to set. Eaten in slabs with hot black tea or scooped onto bread for breakfast. The traditional version uses milk straight from the cow or yak; supermarket whole milk works, but you need the highest-fat milk you can find. Effort is in the time, not the technique.*
+*The Mongolian clotted cream: whole milk simmered for hours, the cream skin lifted off and stacked in layers with sugar to set into a soft slab.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Peushkel
 
 ![Peushkel](resources/peushkel.jpg)
-*The simplest Uyghur fried donut: flour, water, yeast. No milk, no sugar, no eggs. The minimal dough rises, gets a hot-oil bloom with baking soda (as in twisted donuts), then flattens into discs cut with two short slits down the middle. Deep-fried until golden and dusted with icing sugar. Eaten warm for breakfast or with afternoon tea across Xinjiang.*
+*The simplest Uyghur donut: flour, water and yeast deep-fried till golden and dusted with icing sugar. Eaten warm for breakfast or with afternoon tea.*
 
 **Serves:** Makes 12-15 donuts
 

@@ -1,7 +1,7 @@
 # Three Sisters Stew
 
 ![Three Sisters Stew](resources/three-sisters-stew.jpg)
-*The deep-winter Iroquois (Haudenosaunee) one-pot built around the "three sisters" of companion-planted corn, beans and squash, with garlic, onion, sage and a touch of maple. Distinct from the lighter summer succotash, this is a long-simmered stew thick with butternut, hominy and pinto beans, finished with toasted pumpkin seeds and fresh sage. Entirely plant-based (and historically so), deeply nourishing, easy to scale up.*
+*The Haudenosaunee winter one-pot built on corn, beans and squash: butternut, hominy and pinto beans simmered slow with sage and a touch of maple.*
 
 **Serves:** 4
 

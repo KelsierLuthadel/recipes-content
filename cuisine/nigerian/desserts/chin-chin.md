@@ -1,7 +1,7 @@
 # Chin-Chin
 
 ![Chin-Chin](resources/chin-chin.jpg)
-*Small crispy fried dough nibbles - Nigerian sugar-and-spice cookies cut into tiny rectangles, deep-fried golden, eaten by the handful. Variations span dry-and-crunchy (the standard) to soft-and-buttery (the "soft chin-chin"); flavoured with nutmeg, cinnamon and sometimes lemon zest. The eternal Nigerian snack - sold in plastic bags everywhere from village markets to Lagos malls; made by the kilo for Christmas and Sallah (Eid) celebrations.*
+*Nigeria's eternal snack: small nutmeg-spiced dough nibbles deep-fried crisp gold. Sold in plastic bags everywhere, made by the kilo at Christmas.*
 
 **Serves:** Makes about 800 g
 

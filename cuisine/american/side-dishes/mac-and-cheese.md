@@ -1,7 +1,7 @@
 # Mac and Cheese
 
 ![Mac and Cheese](resources/mac-and-cheese.jpg)
-*The American baked pasta side: short pasta in a thick cheese sauce of cheddar (and often Gruyère or Monterey Jack), bound by a roux-thickened béchamel, topped with buttered breadcrumbs and baked until bubbly with a deep gold crust. Thanksgiving table fixture across the Southern US and a comfort-food weeknight everywhere else.*
+*America's baked pasta side: short pasta in a roux-thickened cheddar béchamel, topped with buttered breadcrumbs and baked till bubbly and deep gold.*
 
 **Serves:** 6
 

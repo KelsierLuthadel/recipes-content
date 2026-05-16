@@ -1,7 +1,7 @@
 # Bahamian Stew Chicken
 
 ![Bahamian Stew Chicken](resources/stew-chicken.jpg)
-*Bahamian Sunday-lunch stew: chicken thighs marinated in vinegar and a seasoned-salt blend, seared, then simmered in a dark roux base with sweet potato, cassava, carrots, corn-on-the-cob pieces, and plantain. Thyme is the dominant herb. Eats over rice with lime wedges, traditionally alongside Johnny Cake (a Bahamian cornbread). Adapted from Chef Raquel Fox's recipe.*
+*A Bahamian Sunday stew: chicken thighs seared and simmered in a dark roux base with sweet potato, cassava, carrots, corn and plantain. Thyme is the herb.*
 
 **Serves:** 4
 

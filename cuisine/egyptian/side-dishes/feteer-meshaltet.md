@@ -1,7 +1,7 @@
 # Feteer Meshaltet
 
 ![Feteer Meshaltet](resources/feteer-meshaltet.jpg)
-*Egyptian layered pastry-bread: a simple flour-and-water dough stretched paper-thin, folded with ghee or butter into many flaky layers, then baked. Eaten plain with honey or molasses (the sweet version), or split and stuffed with meat or cheese (the savoury). Sometimes called "King's bread" - fed to pharaohs, still made in every village bakery.*
+*Egypt's pillowy pastry-bread: a simple flour-and-water dough stretched paper-thin, folded with ghee into many layers, then baked. Eaten with honey.*
 
 **Serves:** 4 (makes 2 layered breads)
 

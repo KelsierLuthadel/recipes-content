@@ -1,7 +1,7 @@
 # Nigerian Coconut Candy
 
 ![Nigerian Coconut Candy](resources/coconut-candy.jpg)
-*Caramelised coconut chunks bound in a thick brown-sugar syrup - Nigeria's nostalgic childhood sweet. Fresh grated coconut (or chunks) cooks with sugar and a little water until the sugar caramelises into a thick golden coating; tipped onto greased parchment to set into a chewy-crunchy slab. Eats in irregular pieces broken from the slab. Sold from glass jars at small Nigerian shops alongside puff-puff and chin-chin.*
+*Nigeria's childhood sweet: grated coconut cooked with brown sugar and nutmeg until the sugar caramelises around it into a chewy, golden slab.*
 
 **Serves:** Makes about 400 g
 

@@ -1,7 +1,7 @@
 # Choban Salata (Azerbaijani Shepherd's Salad)
 
 ![Choban Salata](resources/choban-salata-azerbaijani.jpg)
-*The Azerbaijani version of the pan-Caucasian shepherd's salad: ripe summer tomato, crisp cucumber, sweet red onion, a small handful of fresh dill, mint and tarragon. Dressed simply with olive oil, lemon and salt - no garlic, no cheese (Azeri choban skips the feta of the Turkish version). Diced fine and uniform so a spoonful catches all the elements in one bite. Lives on every Azeri summer table next to kebabs, plov or just bread and cheese.*
+*Azerbaijan's shepherd's salad: tomato, cucumber and red onion diced fine, tossed with dill, mint and tarragon, dressed with olive oil and lemon.*
 
 **Serves:** 4
 

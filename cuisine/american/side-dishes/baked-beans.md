@@ -1,7 +1,7 @@
 # Baked Beans
 
 ![Baked Beans](resources/baked-beans.jpg)
-*American smoked-pork baked beans: navy beans slow-baked for hours in a sticky molasses-and-tomato sauce with bacon, onion, mustard and brown sugar. Sweet, smoky, deeply savoury. A regional thing across the US - Boston (more molasses), Southern (more pork), Kansas City (more BBQ sauce). The Northeastern style is the canonical "Boston baked beans" served Saturday-night-into-Sunday-morning.*
+*American smoked-pork baked beans: navy beans slow-baked for hours in a sticky molasses-and-tomato sauce with bacon, onion and brown sugar.*
 
 **Serves:** 6 as a side
 

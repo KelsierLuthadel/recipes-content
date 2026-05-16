@@ -1,7 +1,7 @@
 # Kuchen Alemán
 
 ![Kuchen Alemán](resources/kuchen-aleman.jpg)
-*The German-Chilean fruit cake from the southern Lakes Region (Llanquihue, Osorno, Valdivia - where 19th-century German settlers brought their baking). A soft butter-cake base topped with seasonal fruit (apples, plums, raspberries, rhubarb) and a streusel crumble. The Chilean "once" - the late-afternoon tea-and-cake ritual - owes itself in part to this tradition. Eats slightly warm with coffee.*
+*The German-Chilean fruit cake from the Lakes Region: a butter-cake base topped with seasonal fruit and a streusel crumble. Eaten with afternoon coffee.*
 
 **Serves:** 8
 

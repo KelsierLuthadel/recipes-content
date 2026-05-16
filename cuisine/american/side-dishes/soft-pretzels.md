@@ -1,7 +1,7 @@
 # Soft Pretzels
 
 ![Soft Pretzels](resources/soft-pretzels.jpg)
-*The Philadelphia/Bavarian-American street snack: large, knotted pretzels with a chewy, slightly malty interior and a deeply burnished dark-brown crust, scattered with pretzel salt. Bath-dunked in a baking-soda solution before baking (the secret of the colour and the slightly alkaline flavour). Eaten warm with yellow mustard or melted cheese; cool with butter.*
+*The Philadelphia-Bavarian pretzel: large knotted bread with a chewy malty interior and a dark burnished crust. Bath-dunked in soda water before baking.*
 
 **Serves:** 6 (makes 6 pretzels)
 

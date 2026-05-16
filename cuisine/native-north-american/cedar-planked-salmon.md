@@ -1,7 +1,7 @@
 # Cedar-Planked Salmon
 
 ![Cedar-Planked Salmon](resources/cedar-planked-salmon.jpg)
-*A Pacific Northwest indigenous technique adapted for the home grill: salmon fillet rests on a soaked cedar plank set over high heat. The plank smokes slowly; the salmon picks up its woody, slightly sweet aroma and steam-cooks gently from underneath. Brown sugar, maple syrup and a little salt cure the fish briefly before grilling - the glaze caramelises on top.*
+*A Pacific Northwest technique: salmon fillet rested on a soaked cedar plank over high heat, glazed with brown sugar and maple. Smoky and gently sweet.*
 
 **Serves:** 4
 

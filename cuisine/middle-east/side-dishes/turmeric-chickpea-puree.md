@@ -2,7 +2,7 @@
 
 ![Turmeric Chickpea Purée](resources/turmeric-chickpea-puree.jpg)
 
-*This plain yet sophisticated chickpea purée is beloved throughout the Middle East and beyond. The addition of turmeric elevates it beyond simple chickpea paste, imparting subtle warmth and golden hue. Other flavorings, chilli, ginger, harissa, can be added for variation, but the plain version celebrates the chickpeas themselves.*
+*A plain Middle Eastern chickpea purée: chickpea paste warmed with turmeric for subtle warmth and a golden hue. Eats with bread or as a side.*
 
 **Prep Time:** 8 hours
 **Yield:** Approximately 400 milliliters (8-10 servings as appetizer)

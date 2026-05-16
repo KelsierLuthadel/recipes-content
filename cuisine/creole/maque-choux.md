@@ -1,7 +1,7 @@
 # Maque Choux
 
 ![Maque Choux](resources/maque-choux.jpg)
-*Louisiana Creole-Cajun corn side: fresh corn kernels stewed slowly with tomatoes, peppers, onion and butter into a sweet-savoury, slightly creamy mass. Eats alongside fried fish, gumbo, or grilled meats. Native American (Choctaw and Houma) in origin, taken in by both Creole and Cajun kitchens; the variations (cream-rich, tomato-heavy, with bacon, without) are endless.*
+*Louisiana's corn side: fresh corn kernels stewed slow with tomato, peppers, onion and butter into a sweet-savoury, slightly creamy mass.*
 
 **Serves:** 4
 

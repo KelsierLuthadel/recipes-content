@@ -1,7 +1,7 @@
 # Jamaican Goat Curry
 
 ![Jamaican Goat Curry](resources/goat-curry.jpg)
-*Bone-in goat slow-braised with Caribbean curry powder, Scotch bonnet, thyme, allspice and pimento until the meat is sticky and slipping off the bone in a deep yellow gravy. Goat is the meat of choice for Sunday lunches across Jamaica, brought to the island by Indian indentured labourers in the 1840s and adapted into something distinctly Caribbean. Eats with rice and peas, fried plantains, and a cold Red Stripe.*
+*Jamaica's Sunday-lunch curry: bone-in goat slow-braised with Caribbean curry powder, Scotch bonnet, thyme and allspice until the meat slips off the bone.*
 
 **Serves:** 4-6
 

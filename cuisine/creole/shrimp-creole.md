@@ -1,7 +1,7 @@
 # Shrimp Creole
 
 ![Shrimp Creole](resources/shrimp-creole.jpg)
-*Louisiana Creole's signature shrimp dish: prawns simmered in a tomato-based sauce of holy trinity (onion, celery, pepper), garlic, herbs and Creole spice - distinctly different from Cajun gumbo by the use of tomato. Served over white rice; eats brightly, with a slight kick. The prawns add at the end so they stay tender; the sauce does the work.*
+*Louisiana Creole's signature shrimp dish: prawns simmered in a tomato-based holy-trinity sauce with garlic, herbs and Creole spice. Served over white rice.*
 
 **Serves:** 4
 

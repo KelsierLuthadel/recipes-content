@@ -1,7 +1,7 @@
 # Chopped Egg and Onion
 
 ![Chopped Egg and Onion](resources/chopped-egg-and-onion.jpg)
-*An Ashkenazi Jewish starter: hard-boiled eggs and softened onions chopped to a coarse paste, bound with schmaltz (chicken fat) or oil, seasoned only with salt and pepper. Eats on rye bread, with crackers, or piled onto matzo. The kind of dish that's been on Jewish appetiser tables for over a century, and tastes better than it has any right to.*
+*An Ashkenazi Jewish starter: hard-boiled eggs and softened onions chopped to a coarse paste, bound with schmaltz, seasoned only with salt and pepper.*
 
 **Serves:** 4-6 as a starter
 

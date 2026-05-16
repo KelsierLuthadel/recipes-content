@@ -1,7 +1,7 @@
 # Mandi
 
 ![Mandi](resources/mandi.jpg)
-*Yemen's most famous dish, eaten across the Arabian peninsula: lamb (or chicken) slow-cooked in a covered pot or buried clay oven (taboon), set over saffron-and-spice-perfumed long-grain rice, with a smoky finishing touch from a piece of glowing charcoal sealed under foil with the rice for the last few minutes. Eaten communally from a single tray, with sahawiq (green chilli relish) and a little salata.*
+*Yemen's most famous dish: lamb slow-cooked over saffron-and-spice rice, finished with a piece of glowing charcoal sealed under foil for smoke.*
 
 **Serves:** 6
 

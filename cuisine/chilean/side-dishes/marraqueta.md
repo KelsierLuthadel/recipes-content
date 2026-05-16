@@ -1,7 +1,7 @@
 # Marraqueta
 
 ![Marraqueta](resources/marraqueta.jpg)
-*The everyday Chilean bread: a small crusty white-bread roll shaped as a four-segment lump, scored deep so the four pieces pull apart cleanly. Crisp shell, soft white crumb. Eaten at breakfast with butter and jam, at tea with avocado, with cheese after dinner. Sold by the dozen from every panadería in Santiago. Also called pan francés or pan batido in regional Chile.*
+*Chile's everyday bread: a small crusty four-segment roll that pulls apart cleanly along its deep score. Eaten with butter, avocado or cheese.*
 
 **Serves:** 8 (makes 8 small rolls, in 4-segment shapes)
 

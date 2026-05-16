@@ -1,7 +1,7 @@
 # Cari Poulet et Pomme de Terre
 
 ![Cari Poulet et Pomme de Terre](resources/cari-poulet-pomme-de-terre.jpg)
-*A Sunday lunch staple of Creole-Mauritian households: chicken and potato simmered in a fragrant tomato curry built on home-pounded masala, fresh thyme and curry leaves. The first whiff is curry leaves crackling in oil, then ginger and garlic, then ripe tomato collapsing into the pot. A dish that sits at the centre of Mauritian Creole cooking and changes house by house.*
+*A Mauritian Sunday staple: chicken and potato simmered in a fragrant tomato curry built on home-pounded masala, fresh thyme and curry leaves.*
 
 **Serves:** 4
 

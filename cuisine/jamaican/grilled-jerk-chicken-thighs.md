@@ -1,7 +1,7 @@
 # Grilled Jerk Chicken Thighs
 
 ![Grilled Jerk Chicken Thighs](resources/grilled-jerk-chicken-thighs.jpg)
-*Boneless thighs marinated in jerk seasoning thinned with coconut milk and lime, then grilled (or stovetop griddle-pan) until the surface chars and the inside stays juicy. The coconut milk does double duty: it tames the heat and keeps the meat tender. Works from a charcoal grill, a gas grill, or a heavy ridged pan when the weather's against you.*
+*Boneless jerk thighs marinated in jerk seasoning thinned with coconut milk and lime, then grilled till the surface chars and the inside stays juicy.*
 
 **Serves:** 6
 

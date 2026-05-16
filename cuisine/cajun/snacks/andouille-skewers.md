@@ -1,7 +1,7 @@
 # Andouille Skewers
 
 ![Andouille Skewers](resources/andouille-skewers.jpg)
-*Thick slices of smoky andouille sausage threaded onto skewers with chunks of red and green pepper and red onion, brushed with a Cajun-spiced glaze of butter, garlic, brown sugar and hot sauce, then grilled until the sausage is blistered and the peppers are charred at the edges. A staple of LSU tailgates and back-garden cookouts. The Cajun answer to a kebab.*
+*A Cajun kebab: thick slices of smoky andouille threaded with peppers and onion, brushed with butter-garlic-brown-sugar-hot-sauce glaze, grilled blistered.*
 
 **Serves:** Makes 8 skewers (4 servings)
 

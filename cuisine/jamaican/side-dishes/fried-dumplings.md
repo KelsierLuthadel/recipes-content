@@ -1,7 +1,7 @@
 # Fried Dumplings / Johnny Cakes
 
 ![Fried Dumplings](resources/fried-dumplings.jpg)
-*Golden, crisp-edged fried bread rounds with a soft, slightly chewy interior. Known as Johnny Cakes in Jamaica (a corruption of "journey cakes", food for travellers), these are the classic breakfast bread for ackee and saltfish, callaloo, or simply split open and stuffed with butter and cheese. Made from flour, baking powder, sugar, salt and water - no yeast, no waiting.*
+*Jamaica's Johnny Cakes: golden, crisp-edged fried bread rounds with a soft chewy interior. The classic breakfast bread for ackee and saltfish.*
 
 **Serves:** Makes 8 dumplings (4 servings)
 

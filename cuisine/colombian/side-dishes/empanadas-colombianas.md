@@ -1,7 +1,7 @@
 # Empanadas Colombianas
 
 ![Empanadas Colombianas](resources/empanadas-colombianas.jpg)
-*Colombia's snack-counter empanadas: deep-fried half-moons of yellow-corn dough filled with a spiced-beef-and-potato mash, served hot with a small bowl of ají picante (fresh chilli-coriander sauce). Distinct from the Argentine / Chilean baked empanadas - these are smaller, crisper, fried in oil, and the shell is made from masarepa (white-corn flour) not wheat.*
+*Colombia's snack-counter empanadas: deep-fried half-moons of yellow corn dough filled with a spiced beef-and-potato mash. Served with fresh ají.*
 
 **Serves:** 6 (makes 18-20)
 

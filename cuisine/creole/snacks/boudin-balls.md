@@ -1,7 +1,7 @@
 # Boudin Balls
 
 ![Boudin Balls](resources/boudin-balls.jpg)
-*Cajun boudin sausage filling rolled into balls, breaded, and deep-fried into crisp-shelled spheres of seasoned pork, rice and aromatics. Eats with Creole mustard or Crystal hot sauce. The Louisiana bar-and-festival snack: take the soft pork-and-rice mixture out of its casing, shape, fry. A way to extend boudin sausage into something portable and snackable.*
+*Cajun bar-snack: boudin sausage filling pulled from the casing, rolled into balls, breaded and deep-fried into crisp-shelled spheres of pork and rice.*
 
 **Serves:** Makes 16 balls
 

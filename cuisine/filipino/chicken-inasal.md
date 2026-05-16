@@ -1,7 +1,7 @@
 # Chicken Inasal
 
 ![Chicken Inasal](resources/chicken-inasal.jpg)
-*The signature grilled chicken of Bacolod and the wider Visayas: butterflied chicken marinated in calamansi, vinegar, lemongrass and annatto, then grilled over coals while being basted with bright orange annatto oil. The smell is sharp citrus over woodsmoke and the herbal perfume of lemongrass and bay. Eaten with garlic rice, a sawsawan of vinegar, soy and calamansi, and inevitably more annatto oil drizzled over the rice.*
+*Bacolod's grilled chicken: butterflied bird marinated in calamansi, vinegar and lemongrass, basted with bright orange annatto oil while it chars.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Keema Samosa
 
 ![Keema Samosa](resources/keema-samosa.jpg)
-*The meat samosa: triangular pastries filled with spiced lamb (or beef) mince cooked dry with onion, ginger, garlic, garam masala and peas, encased in a sturdy hand-rolled or spring-roll pastry, deep-fried until shatteringly golden. Eaten warm with tamarind or mint chutney. The traditional Indian, Pakistani, East African meat samosa - bigger and more substantial than its samusa cousins.*
+*The meat samosa: triangular pastries filled with spiced lamb mince and peas cooked dry, deep-fried until shatteringly golden. Served with chutneys.*
 
 **Serves:** 6 (makes 16)
 

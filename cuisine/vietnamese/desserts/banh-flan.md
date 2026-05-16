@@ -2,7 +2,7 @@
 
 ![Banh Flan](resources/banh-flan.jpg)
 
-*Bánh flan is Vietnam's take on French crème caramel, a colonial inheritance that became a beloved dessert in its own right. Smoother and more egg-rich than its European cousin, it's traditionally served not just with caramel but over crushed ice with a shot of strong coffee or a drizzle of coconut cream poured over the top.*
+*Vietnam's crème caramel: smoother and more egg-rich than its French cousin, served over crushed ice with a shot of strong coffee or coconut cream poured on top.*
 
 **Serves:** 6
 

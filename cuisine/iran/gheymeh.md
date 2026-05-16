@@ -1,7 +1,7 @@
 # Gheymeh
 
 ![Gheymeh](resources/gheymeh.jpg)
-*The Persian split-pea stew: cubed lamb (or beef) simmered with yellow split peas, tomato puree, dried limes, turmeric and cinnamon, finished with crisp matchstick potatoes on top. Served over chelo. A weekday Iranian khoresh, more straightforward than ghormeh sabzi but unmistakably Persian - the dried lime, the saffron, the matchstick potatoes on top.*
+*Persia's split-pea stew: cubed lamb simmered with yellow split peas, tomato, dried lime, turmeric and cinnamon, finished with crisp matchstick potatoes.*
 
 **Serves:** 4
 

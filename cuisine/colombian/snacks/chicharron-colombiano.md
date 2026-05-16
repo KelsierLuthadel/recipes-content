@@ -1,7 +1,7 @@
 # Chicharrón Colombiano
 
 ![Chicharrón Colombiano](resources/chicharron-colombiano.jpg)
-*The Colombian version of pork crackling: thick strips of pork belly with skin and fat layers visible, simmered in seasoned water until the meat is tender, then fried in its own rendered fat until the skin puffs and crackles into shatter-crisp ridges. Eats with a squeeze of lime, a slice of avocado, and a hot arepa. The defining bandeja paisa side, also served as a standalone snack.*
+*Colombia's pork crackling: thick strips of pork belly with skin on, simmered tender then fried in their own fat till the skin puffs and crackles.*
 
 **Serves:** 4 as a snack
 

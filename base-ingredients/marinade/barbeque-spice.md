@@ -2,7 +2,7 @@
 
 ![BBQ](resources/bbq-spice.jpg)
 
-*This versatile spice blend works equally well as a dry rub for grilled meats or as a wet paste marinade when combined with wine and oil. The celery seed and nutmeg provide unexpected sweetness and aromatic warmth; brown sugar adds depth; the spices together create complex barbecue character without overwhelming smokiness or heat.*
+*A versatile spice blend: works as a dry rub or as a wet paste marinade when mixed with wine and oil. Celery seed and nutmeg supply unexpected warmth.*
 
 **Yield:** Approximately 50 milliliters or 40 grams dry spice (**enough for 4-6 large meat portions when used as rub or marinade base**)
 

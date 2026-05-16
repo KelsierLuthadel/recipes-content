@@ -1,7 +1,7 @@
 # Suykash
 
 ![Suykash](resources/suykash.jpg)
-*Uyghur hand-torn pasta soup. Lamb and seasonal vegetables simmer in a tomato-and-pepper broth while the cook tears fresh dough into nail-sized pieces directly into the pot. A family dish: multiple hands tearing pasta around the same pot is the traditional way. Eats with a spoon, hot, with the broth thick from the starch the dough releases as it cooks.*
+*The Uyghur hand-torn pasta soup: lamb and vegetables in a tomato-pepper broth, with fresh dough torn into nail-sized pieces directly into the pot.*
 
 **Serves:** 3-4
 

@@ -2,7 +2,7 @@
 
 ![Rougaille Saucisse](resources/rougaille.jpg)
 
-*The most-cooked dish on the island: a sharp, fragrant Mauritian tomato stew built on fresh thyme, ginger and chilli, here in its classic home form with smoked sausages braised through the sauce. Rougaille saucisse turns up on Tuesday-night family tables, in roadside dholl puri stalls and at every Creole canteen lunch. The smell is thyme hitting hot oil; the colour is the deep orange-red of long-cooked tomatoes.*
+*Mauritius's everyday tomato stew: onion, ginger, garlic and fresh thyme bloomed in oil, simmered long with ripe tomatoes and braised smoked sausages.*
 
 **Serves:** 4
 

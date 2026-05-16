@@ -1,7 +1,7 @@
 # Samoon
 
 ![Samoon](resources/samoon.jpg)
-*The everyday Iraqi bread: a small football-shaped white-bread roll with a slightly chewy crumb and a crisp gold crust, scored down the length so it splits cleanly when pulled apart. Eaten at breakfast with eggs and white cheese; at lunch alongside any stew; at dinner stuffed with kebabs. Sold by the dozen from every Baghdad bakery.*
+*Iraq's everyday bread: small football-shaped white rolls with a chewy crumb and a crisp gold crust, scored along the length so they split cleanly.*
 
 **Serves:** 6 (makes 8 rolls)
 

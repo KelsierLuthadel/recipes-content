@@ -1,7 +1,7 @@
 # Khubz Tameez
 
 ![Khubz Tameez](resources/khubz-tameez.jpg)
-*Saudi tandoor-style flatbread, baked at high heat against the side of a clay oven (tannur) until blistered and golden. At home, a heavy baking stone in a 250°C oven gets close. Thicker than a roti, more pliable than a naan; the everyday bread of central and western Saudi Arabia. Eaten with foul, kabsa, or simply with white cheese and tea.*
+*A Saudi tandoor-style flatbread: baked at high heat against the side of a clay oven till blistered and golden. Thicker than roti, more pliable than naan.*
 
 **Serves:** 4 (makes 6 breads)
 

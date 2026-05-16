@@ -1,7 +1,7 @@
 # Thai Green Curry (Vegetarian)
 
 ![Thai Green Curry (Vegetarian)](resources/thai-green-curry-vegetarian.jpg)
-*Thai green curry built on a fresh paste of green chillies, lemongrass, galangal, kaffir lime, garlic, shallots and coriander root, with tofu and aubergine standing in for the usual chicken or fish. Coconut cream cracks first; the paste fries until it darkens; the rest of the coconut milk thins to a sauce; vegetables and tofu poach until just-tender. Thai basil and lime at the end.*
+*A vegetarian Thai green curry: fresh green-chilli paste fried in coconut cream, with tofu and aubergine poached in the thinned coconut sauce.*
 
 **Serves:** 4
 

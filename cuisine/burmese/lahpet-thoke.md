@@ -1,7 +1,7 @@
 # Lahpet Thoke
 
 ![Lahpet Thoke](resources/lahpet-thoke.jpg)
-*Burma's fermented tea leaf salad - sour, salty, garlicky, crunchy. Pickled tea leaves (lahpet) tossed with shredded cabbage, tomato, fried garlic, fried split peas and peanuts, sesame seeds, dried shrimp, fish sauce and lime. Eaten as a side, a snack, an aperitif; the only major cuisine in the world that eats fermented tea as food, not just drink.*
+*Burma's fermented tea-leaf salad: pickled tea leaves tossed with cabbage, tomato, fried garlic, fried split peas, peanuts, sesame, dried shrimp and lime.*
 
 **Serves:** 4 as a side / starter
 

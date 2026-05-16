@@ -1,7 +1,7 @@
 # Uyghur Kebab Burger
 
 ![Uyghur Kebab Burger](resources/kebab-burger.jpg)
-*Uyghur kebab flavours pressed into a burger patty. Minced lamb seasoned with cumin, sweet chilli powder and chilli flakes is shaped into thick rounds and grilled until the edges char to gold. Eaten on toasted buns with onion rings, tomato, lettuce and a swipe of shashlik or garlic sauce. Traditional Uyghur kebabs come from a clay tandoor (tonur); this is the home-kitchen variant that gets you the same flavour from an oven or pan.*
+*Uyghur kebab in burger form: minced lamb seasoned with cumin and sweet chilli, grilled into thick rounds and stacked on a toasted bun with onion and tomato.*
 
 **Serves:** 4 (1 burger each)
 

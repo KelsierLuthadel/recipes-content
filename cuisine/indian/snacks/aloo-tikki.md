@@ -2,7 +2,7 @@
 
 ![Aloo Tikki](resources/aloo-tikki.jpg)
 
-*The Delhi street-food staple: shallow-fried spiced potato patties with a crisp lacquered crust and a soft, herb-fragrant centre. Served from chaat carts piled with tamarind and mint chutneys, yoghurt, chickpeas and pomegranate seeds - the foundation of countless chaat dishes (aloo tikki chaat, tikki chole, ragda pattice). Made at home as a tea-time snack with a single chutney.*
+*Delhi's chaat staple: shallow-fried spiced potato patties with a crisp lacquered crust and a soft herb-fragrant centre. Eaten with tamarind and mint.*
 
 **Serves:** 4 (makes 8 tikkis)
 

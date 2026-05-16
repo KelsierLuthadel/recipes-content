@@ -1,7 +1,7 @@
 # Shwe Htamin
 
 ![Shwe Htamin](resources/shwe-htamin.jpg)
-*"Golden rice": Burmese turmeric rice, lightly fried with sliced onion and a generous pinch of turmeric, then cooked absorption-style with salt and water. Soft, faintly perfumed, yellow-gold. The everyday side rice in Burmese homes, especially with stronger curries (ohn no, beef si byan) where a plain white rice would feel under-dressed.*
+*Burma's golden rice: turmeric-tinted rice lightly fried with sliced onion, then cooked absorption-style with salt. The everyday side for stronger curries.*
 
 **Serves:** 4
 

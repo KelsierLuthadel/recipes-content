@@ -2,7 +2,7 @@
 
 ![Black Forest Cake](resources/black-forest-cake.jpg)
 
-*Schwarzwälder Kirschtorte: three layers of light chocolate sponge, drowned in kirsch syrup, sandwiched with morello cherries and clouds of vanilla whipped cream. Iced in more cream, scattered with dark chocolate shavings, crowned with whole cherries. The Black Forest's most famous export, from the 1930s Tortenstuben of Tübingen.*
+*Germany's Black Forest cake: three layers of chocolate sponge drowned in kirsch, sandwiched with morello cherries and vanilla whipped cream.*
 
 **Serves:** 12
 

@@ -1,7 +1,7 @@
 # Sichuan Hot Pot
 
 ![Sichuan Hot Pot](resources/sichuan-hot-pot.jpg)
-*The fiery Sichuanese communal pot: a deep-red broth bubbling with Sichuan peppercorns, dried chillies, doubanjiang (fermented bean paste), star anise, cassia bark and beef tallow at the centre of the table. Diners cook thin-sliced beef, lamb, mushrooms, leafy greens, noodles and tofu in the broth themselves, dipping each piece in a sesame-oil sauce as they eat. Numbing-hot (the famous mala) - Sichuan's signature.*
+*Sichuan's communal pot: a deep-red broth of doubanjiang, Sichuan peppercorns and dried chillies bubbling at the table. Diners cook their own meat and greens.*
 
 **Serves:** 4-6
 

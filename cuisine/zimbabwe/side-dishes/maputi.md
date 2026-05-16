@@ -1,7 +1,7 @@
 # Maputi
 
 ![Maputi](resources/maputi.jpg)
-*Toasted (or popped) maize kernels - the original Zimbabwean snack. Dried mealies are tossed in a hot pan or pot until they crackle, split and puff into pale, nutty bites. Salt is the only seasoning. Sold in small twists of paper at bus stops and football matches; eaten by the handful on long car journeys; the snack that costs nothing and tastes of childhood.*
+*Zimbabwe's roadside snack: dried maize kernels tossed in a hot pan till they crackle, split and puff into pale nutty bites. Salt is the only seasoning.*
 
 **Serves:** 4 as a snack
 

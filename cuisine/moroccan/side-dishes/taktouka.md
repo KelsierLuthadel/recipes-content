@@ -1,7 +1,7 @@
 # Taktouka
 
 ![Taktouka](resources/taktouka.jpg)
-*A smoky Moroccan side of roasted red peppers and tomatoes cooked down with garlic, cumin and paprika to a glossy spoonable relish. Eats with bread, mops oils from a tagine plate, fills tortillas as a quick lunch. Smokier than ratatouille, simpler than Spanish romesco. Wherever there's grilling in Morocco there's a small bowl of taktouka.*
+*Morocco's smoky vegetable side: roasted red peppers and tomatoes cooked down with garlic, cumin and paprika to a glossy spoonable relish. Eaten with bread.*
 
 **Serves:** 4-6
 

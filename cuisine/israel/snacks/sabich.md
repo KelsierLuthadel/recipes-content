@@ -1,7 +1,7 @@
 # Sabich
 
 ![Sabich](resources/sabich.jpg)
-*An Iraqi-Israeli pita stuffed with fried aubergine slices, hard-boiled egg, hummus, tahini, an Israeli salad of cucumber and tomato, pickled mango sauce (amba), and a parsley garnish. Originally a Shabbat breakfast brought to Israel by Iraqi Jews; now a Tel Aviv street-food institution. Different from a falafel pita: no falafel; the aubergine is the star, and the amba mango pickle is the distinctive sour-sweet note.*
+*The Iraqi-Israeli pita: fried aubergine, hard-boiled egg, hummus, tahini, cucumber-tomato salad and pickled-mango amba sauce piled into warm pita.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Acar Timun
 
 ![Acar Timun](resources/acar-timun.jpg)
-*The crisp, sour, fresh Indonesian quick-pickle: cucumber, carrot, shallot and red chilli tossed in white-wine vinegar, sugar, salt, and a sliver of fresh ginger. Eats alongside grilled meat (sate, ayam bakar), nasi goreng, mee goreng, or anything rich and saucy. Different from a long-fermented pickle - acar lives 24 hours. The point is freshness and bright crunch, not depth.*
+*Indonesia's quick pickle: cucumber, carrot, shallot and red chilli tossed in vinegar, sugar, salt and a sliver of ginger. The grilled-meat foil.*
 
 **Serves:** 4-6 as a side
 

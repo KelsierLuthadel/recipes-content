@@ -1,7 +1,7 @@
 # Leche Asada
 
 ![Leche Asada](resources/leche-asada.jpg)
-*Chile's homely cousin to flan: a baked milk-and-egg custard that develops a dark golden surface in the oven (asada = "roasted"). No caramel sauce, no water bath - just whole milk, eggs, sugar and vanilla baked directly until the surface turns toffee-brown and the inside is silky soft. Eats warm or cold, often with fresh fruit or a drizzle of dulce de leche.*
+*Chile's homely flan: a baked milk-and-egg custard that develops a dark roasted top in the oven. No caramel sauce, no water bath. Silky soft beneath.*
 
 **Serves:** 6
 

@@ -1,7 +1,7 @@
 # Nyama Stew
 
 ![Nyama Stew](resources/nyama-stew.jpg)
-*The Zimbabwean weekday plate: chunks of beef slowly braised with onion, tomato and garlic until the gravy is dark and clinging, eaten with a stiff helping of sadza and a side of greens. Salt, pepper, an Oxo cube or two and patience are the seasoning; the cut is shin or stewing chuck so it breaks down into ribbons of soft meat in a thick, brick-red sauce.*
+*Zimbabwe's weekday plate: chunks of beef slowly braised with onion, tomato and garlic till the gravy is dark and clinging. Eaten with sadza.*
 
 **Serves:** 4
 

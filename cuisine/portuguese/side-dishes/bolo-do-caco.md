@@ -1,7 +1,7 @@
 # Bolo do Caco
 
 ![Bolo do Caco](resources/bolo-do-caco.jpg)
-*Madeira's iconic flatbread: a round-disc bread made with sweet potato in the dough (the Madeiran twist), traditionally cooked on a hot basalt stone (caco) - hence the name - and served warm split open and slathered with garlic-and-parsley butter (manteiga de alho). Soft, chewy, slightly sweet from the sweet potato, irresistible with garlic butter melting in. The Madeira beach café staple; a fine snack with a glass of poncha.*
+*Madeira's sweet-potato flatbread: a soft round disc cooked on a hot stone, split open and slathered with garlic-and-parsley butter while still warm.*
 
 **Serves:** 4 (makes 4 round breads)
 

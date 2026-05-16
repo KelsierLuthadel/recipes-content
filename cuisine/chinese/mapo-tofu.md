@@ -1,7 +1,7 @@
 # Mapo Tofu
 
 ![Mapo Tofu](resources/mapo-tofu.jpg)
-*The Sichuanese mapo: silken tofu cubes braised in a red-brown sauce of doubanjiang, douchi (fermented black beans), pork mince, garlic, ginger and Sichuan peppercorns. Numbing-hot (mala), savoury, deeply complex. The original "pock-marked grandmother's tofu" from Chengdu. Served bubbling-hot over white rice; the tofu is silky and slips around the spoon.*
+*Sichuan's mapo tofu: silken tofu cubes braised in a red-brown sauce of doubanjiang, black beans, pork mince, garlic, ginger and Sichuan peppercorns.*
 
 **Serves:** 4
 

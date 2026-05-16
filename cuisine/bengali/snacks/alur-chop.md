@@ -1,7 +1,7 @@
 # Alur Chop
 
 ![Alur Chop](resources/alur-chop.jpg)
-*A fist-sized croquette of spiced mashed potato wrapped in a crisp chickpea-flour batter, deep-fried to a deep mahogany shell that cracks open onto a soft, fragrant centre warm with ginger, green chilli and roasted cumin. The Bengali tea-stall standard, eaten from paper plates with a smear of kasundi mustard or a tangle of raw onion and a slit green chilli.*
+*Bengal's tea-stall croquette: a fist-sized ball of spiced mashed potato wrapped in chickpea-flour batter, deep-fried mahogany. Eaten with kasundi mustard.*
 
 **Serves:** 4 (makes 8 chops)
 

@@ -1,7 +1,7 @@
 # Maklouba
 
 ![Maklouba](resources/maklouba.jpg)
-*"Upside-down" rice with chicken and aubergine: layered in a pot, cooked together, then flipped onto a platter - the layers become a striped tower. Aubergine, cauliflower and tomato sit on top of golden rice; chicken pieces tuck in between; spices perfume everything. Served as a side at a feast or a centrepiece for family dinner.*
+*Palestine's upside-down rice: aubergine, cauliflower, tomato, chicken and rice layered in a pot, cooked together, then flipped onto a platter as a striped tower.*
 
 **Serves:** 6
 

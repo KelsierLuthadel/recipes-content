@@ -1,7 +1,7 @@
 # Chicken Chettinad
 
 ![Chicken Chettinad](resources/chicken-chettinad.jpg)
-*The hot, black, peppery chicken curry of Tamil Nadu's Chettinad region: chicken pieces simmered in a freshly-ground paste of dry-roasted whole spices (black peppercorns, dried red chilli, fennel, coriander, cinnamon, cloves, star anise) with grated coconut, curry leaves and shallots. Less yogurt and tomato than North Indian curries; more aggressive on peppercorns and dry spices.*
+*Tamil Nadu's peppery chicken: chicken simmered in a freshly ground paste of dry-roasted whole spices with grated coconut, curry leaves and shallots.*
 
 **Serves:** 4
 

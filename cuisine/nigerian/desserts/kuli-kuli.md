@@ -1,7 +1,7 @@
 # Kuli-Kuli (Roasted Peanut Sticks)
 
 ![Kuli-Kuli](resources/kuli-kuli.jpg)
-*Northern Nigerian (Hausa) peanut snack: roasted peanuts ground to a paste, the oil pressed out (the squeezed-out peanut oil - manshanu - is itself prized), then the de-oiled paste is shaped into sticks, rings or coins and deep-fried until golden and crunchy. Crisp, peanutty, slightly sweet-savoury, with the iconic chalky texture of dehydrated peanut. Eats by itself, crumbled over kunu (a millet drink), or sprinkled into porridge.*
+*Northern Nigeria's peanut snack: roasted peanuts ground to a paste, pressed of their oil, shaped into sticks and deep-fried golden and crunchy.*
 
 **Serves:** Makes about 400 g
 

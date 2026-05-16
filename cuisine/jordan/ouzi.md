@@ -1,7 +1,7 @@
 # Ouzi
 
 ![Ouzi](resources/ouzi.jpg)
-*The Jordanian celebration parcel: spiced minced lamb, rice, peas, almonds and pine nuts wrapped in a thin pastry (phyllo or markook bread) and baked into a golden dome, sliced at the table like a cake. Served at weddings, Eid feasts and big family lunches. The pastry shell stays crisp; the rice-and-meat filling is rich, perfumed with baharat, allspice and cinnamon.*
+*Jordan's celebration parcel: spiced lamb, rice, peas, almonds and pine nuts wrapped in markook bread and baked into a golden dome, sliced at the table.*
 
 **Serves:** 6
 

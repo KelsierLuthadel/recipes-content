@@ -2,7 +2,7 @@
 
 ![Aroog](resources/aroog.jpg)
 
-*The Iraqi family-table fritter (also written ouruq, oruq, or 'urug): fine bulgur soaked, mixed with minced lamb or beef, lots of finely chopped herbs and onion, then pan-fried as thin discs in a slick of oil. Crisp-edged outside, soft and slightly nubby inside from the bulgur. Eaten at Iraqi homes as a snack with tea, or as part of a mezze table; sometimes folded into samoon with pickles for a quick lunch.*
+*An Iraqi family-table fritter: fine bulgur soaked, mixed with minced lamb, onion and a heap of herbs, then pan-fried as thin crisp-edged discs.*
 
 **Serves:** 4 (makes 12 aroog)
 

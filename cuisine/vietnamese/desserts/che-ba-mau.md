@@ -2,7 +2,7 @@
 
 ![Che Ba Mau](resources/che-ba-mau.jpg)
 
-*Chè ba màu literally means "three-colour dessert", layered red bean, yellow mung bean and emerald pandan jelly in a tall glass, topped with crushed ice and coconut cream. It's a Saigon street-cart classic and one of the most photogenic desserts in Southeast Asia: spoon it from the bottom up to mix all three layers as you eat.*
+*Vietnam's three-colour dessert: red bean, yellow mung bean and emerald pandan jelly layered in a tall glass, topped with crushed ice and coconut cream.*
 
 **Serves:** 4
 

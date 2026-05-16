@@ -1,7 +1,7 @@
 # Muhammara
 
 ![Muhammara](resources/muhammara.jpg)
-*The deep-crimson Aleppo dip of roasted red pepper, walnut, pomegranate molasses and Aleppo pepper, sharpened with cumin and softened with breadcrumbs. Spread on a plate, drizzled with olive oil, scattered with walnut halves, scooped with warm pita. Smoky, slightly sweet, gently hot - and one of the great Levantine mezze. Best made a few hours ahead; the flavours settle.*
+*Aleppo's deep-crimson dip: roasted red pepper and walnut pounded with pomegranate molasses, Aleppo pepper and cumin. Scooped with warm pita.*
 
 **Serves:** 6 as a mezze
 

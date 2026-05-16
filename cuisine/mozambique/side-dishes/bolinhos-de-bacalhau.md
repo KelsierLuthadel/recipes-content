@@ -1,7 +1,7 @@
 # Bolinhos de Bacalhau
 
 ![Bolinhos de Bacalhau](resources/bolinhos-de-bacalhau.jpg)
-*Salt-cod fritters - the great Lusophone snack, eaten across Portugal, Brazil, Cape Verde and Mozambique. Flaked salt cod folded into a fluffy mash of potato, onion, parsley and egg, shaped into small oval croquettes and deep-fried until cracking-crisp outside, soft inside. Eaten warm with a wedge of lemon and a cold beer.*
+*The great Lusophone snack: flaked salt cod folded into a mash of potato, onion, parsley and egg, shaped into small oval croquettes and deep-fried.*
 
 **Serves:** 6 (makes about 24)
 

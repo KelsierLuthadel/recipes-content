@@ -2,7 +2,7 @@
 
 ![Conch Fritters](resources/conch-fritters.jpg)
 
-*Golf-ball sized fritters of finely chopped conch, peppers, onion and goat pepper held together with a thick batter and deep-fried until crisp on the outside and steaming inside. Sold from paper bags at every Bahamian conch shack and fish fry, with a small pot of Bahamian dipping sauce - usually a ketchup-mayo-lime-hot-pepper mix sometimes called "fritter sauce" or "pink sauce". A starter the size of a meal.*
+*The Bahamas' fish-shack starter: golf-ball fritters of finely chopped conch, peppers and onion in a thick batter, deep-fried with a pink dipping sauce.*
 
 **Serves:** 4 (makes about 20 fritters)
 

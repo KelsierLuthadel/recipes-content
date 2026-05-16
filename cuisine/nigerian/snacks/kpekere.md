@@ -1,7 +1,7 @@
 # Kpekere (Plantain Chips)
 
 ![Kpekere](resources/kpekere.jpg)
-*Thin slices of green (unripe) plantain deep-fried into crisp chips, salted while hot. The Nigerian answer to potato crisps - sold in cellophane bags at bus stations and markets across the country, sliced wafer-thin and fried in palm or vegetable oil. Eats with cold beer, ice-cold Maltina, or just by the handful as a snack. Sometimes spiced with chilli powder and salt.*
+*Nigeria's plantain crisps: thin slices of green plantain deep-fried into salted wafer-thin chips. Sold in cellophane bags at bus stations.*
 
 **Serves:** 4
 

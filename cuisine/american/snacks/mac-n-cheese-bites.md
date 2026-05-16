@@ -1,7 +1,7 @@
 # Mac 'n' Cheese Bites
 
 ![Mac 'n' Cheese Bites](resources/mac-n-cheese-bites.jpg)
-*Cold leftover mac-and-cheese cut into cubes, dredged in seasoned breadcrumbs, then deep-fried until the shell shatters and the interior is molten cheesy pasta. The original use-up-the-leftovers snack turned into a bar staple. Eats with a saucer of ranch, chipotle mayo, or just plain hot sauce. Use very firm mac-and-cheese (cooled overnight in the fridge so it slices clean).*
+*Bar-snack fritter: cold leftover mac-and-cheese cubed, dredged in seasoned breadcrumbs and deep-fried till the shell shatters and the inside oozes.*
 
 **Serves:** Makes 24 bites (serves 4-6 as a snack)
 

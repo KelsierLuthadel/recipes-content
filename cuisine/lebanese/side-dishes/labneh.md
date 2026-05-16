@@ -1,7 +1,7 @@
 # Labneh
 
 ![Labneh](resources/labneh.jpg)
-*Lebanese strained yogurt cheese: thick natural yogurt salted and drained through cheesecloth overnight (or longer) into a soft, tangy, spreadable cheese. Served on a wide plate, swirled with the back of a spoon, drizzled with olive oil, dusted with za'atar and dried mint. Eaten with warm pita at breakfast, as part of mezze, or rolled into balls and stored in olive oil.*
+*Lebanon's strained-yogurt cheese: natural yogurt salted and drained overnight into a soft, tangy spread. Drizzled with olive oil and dusted with za'atar.*
 
 **Serves:** 4 as a mezze
 

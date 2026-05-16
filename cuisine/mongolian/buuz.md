@@ -1,7 +1,7 @@
 # Buuz
 
 ![Buuz](resources/buuz.jpg)
-*Mongolia's signature steamed dumplings: thick wheat-flour wrappers gathered around a juicy filling of seasoned mutton (or beef) with onion and garlic, pleated into a small drawstring purse, steamed until the wrapper goes glossy and the broth inside is hot. Eaten by hand: bite a small hole, slurp the juice, then eat the rest. Central to Tsagaan Sar (the Lunar New Year), where each household stocks hundreds - sometimes thousands - for the feast.*
+*Mongolia's signature dumplings: thick wheat wrappers gathered around juicy seasoned mutton, pleated into a small purse and steamed till the wrapper goes glossy.*
 
 **Makes:** 30 buuz (serves 4-6)
 

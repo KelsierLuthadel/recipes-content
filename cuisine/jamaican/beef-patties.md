@@ -1,7 +1,7 @@
 # Jamaican Beef Patties
 
 ![Jamaican Beef Patties](resources/beef-patties.jpg)
-*The yellow-pastry handheld of Caribbean street food. A turmeric-and-curry-tinted shortcrust folds around a spiced ground beef filling - allspice, thyme, Scotch bonnet, garlic, ginger, scallions - sealed crescent-style and baked until the pastry is flaky and the filling juicy. Sold from patty shops across Kingston to Toronto.*
+*Jamaica's yellow-pastry handheld: a turmeric-curry shortcrust folded around a spiced beef filling with allspice, thyme, Scotch bonnet and scallion. Baked golden.*
 
 **Serves:** Makes 8 patties
 

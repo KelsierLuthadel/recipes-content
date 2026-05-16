@@ -1,7 +1,7 @@
 # Fish Roll
 
 ![Fish Roll](resources/fish-roll.jpg)
-*Nigerian deep-fried savoury pastry roll filled with sardine-and-spice mince. The cylindrical, palm-sized snack sold at every "buns and rolls" street cart and at every Nigerian school canteen. Different from a sausage roll: dough is unleavened and slightly sweetened (similar to puff-puff dough), filling is tinned-sardine-based (or fresh fish), shape is a cigar not a log.*
+*Nigeria's bus-stop pastry: a deep-fried savoury cigar of unleavened dough wrapped around sardine-and-spice mince. The school-canteen mainstay.*
 
 **Serves:** Makes 12 fish rolls
 

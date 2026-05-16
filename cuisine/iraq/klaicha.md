@@ -1,7 +1,7 @@
 # Klaicha
 
 ![Klaicha](resources/klaicha.jpg)
-*Iraq's national pastry: small filled cookies of cardamom-scented dough, traditionally stuffed with a date paste or with chopped walnuts and sugar. Eaten across Eid al-Fitr, weddings and family gatherings; the patterns pressed into the surface are personal and signature, often with a klaicha cutter passed down through generations.*
+*Iraq's national pastry: small filled cookies of cardamom-scented dough, stuffed with date paste or chopped walnuts and sugar. Pressed with a klaicha cutter.*
 
 **Makes:** 30 cookies
 

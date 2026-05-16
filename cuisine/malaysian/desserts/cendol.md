@@ -2,7 +2,7 @@
 
 ![Cendol](resources/cendol.jpg)
 
-*Cendol is the iconic shaved-ice dessert of Malaysia, served from streetside carts in plastic bowls and clay cups across the peninsula. The name refers to the worm-shaped green pandan jellies that wriggle through a pool of coconut milk and dark palm sugar syrup. Penang's cendol stalls have queued from morning to night since the 1930s.*
+*Malaysia's shaved-ice dessert: worm-shaped green pandan jellies in a pool of coconut milk and dark palm sugar syrup. The Penang night-market obsession.*
 
 **Serves:** 4
 **Prep Time:** 25 minutes (plus 30 minutes chilling)

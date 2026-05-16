@@ -1,7 +1,7 @@
 # Pineapple Cake
 
 ![Pineapple Cake](resources/pineapple-cake.jpg)
-*Feng li su - Taiwan's signature gift cake: small rectangular shortbread biscuits filled with thick pineapple jam, baked golden in metal moulds, then wrapped individually. Sold in beautifully boxed sets at every Taipei airport and city bakery. Slightly crumbly, lightly sweet, with the chewy-bright pineapple filling that's the soul of the bite. Often made with winter melon mixed in, but a pure-pineapple version is what most home cooks make.*
+*Taiwan's signature gift cake: small shortbread rectangles filled with thick chewy pineapple jam, baked golden in metal moulds and individually wrapped.*
 
 **Makes:** 16 cakes
 

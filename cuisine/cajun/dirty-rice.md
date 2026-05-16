@@ -1,7 +1,7 @@
 # Dirty Rice
 
 ![Dirty Rice](resources/dirty-rice.jpg)
-*Cajun "dirty" rice: white rice cooked with browned chicken livers and minced pork or beef, the trinity, Cajun spice, stock - the meat tints the rice grey-brown ("dirty"), and the liver gives an iron-rich, deeply savoury background note. Served as a side or a meal in itself; one of the most defining Cajun dishes despite its modest ingredients.*
+*Cajun dirty rice: white rice cooked with browned chicken livers and minced pork with the trinity and Cajun spice, the meat tinting the rice grey-brown.*
 
 **Serves:** 6 as a side
 

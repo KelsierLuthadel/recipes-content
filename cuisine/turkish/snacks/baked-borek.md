@@ -2,7 +2,7 @@
 
 ![Baked Börek](resources/borek.jpg)
 
-*These delicate, crispy-pastried Turkish appetizers enclose a savory eggplant, onion, and tomato filling (khandrajo) that's somewhat akin to ratatouille. The pastry exterior becomes shatteringly crisp while the filling remains moist and deeply flavored. These are substantial enough for a light meal yet elegant enough for appetizer spreads.*
+*Turkey's vegetable börek: delicate crispy pastry enclosing a savoury eggplant, onion and tomato filling. Eaten as appetiser or a light meal.*
 
 **Prep Time:** 1 hour 15 minutes
 **Cook Time:** 40 minutes

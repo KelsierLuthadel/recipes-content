@@ -1,7 +1,7 @@
 # Flan Cubano
 
 ![Flan Cubano](resources/flan-cubano.jpg)
-*Cuba's dense, glossy caramel custard. Unlike its lighter French or Spanish cousins, flan cubano uses condensed and evaporated milk together with whole eggs, making a richer, denser, more deeply sweet custard with a thick mahogany caramel cape on top once unmoulded. The standard ending to every Cuban dinner, the standard birthday dessert, the standard sweet at every celebration.*
+*Cuba's caramel custard: a dense, glossy flan of condensed and evaporated milk with whole eggs, set firm and unmoulded under a deep mahogany caramel.*
 
 **Serves:** 8
 

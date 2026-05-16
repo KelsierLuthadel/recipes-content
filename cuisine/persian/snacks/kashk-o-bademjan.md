@@ -1,7 +1,7 @@
 # Kashk o Bademjan
 
 ![Kashk o Bademjan](resources/kashk-o-bademjan.jpg)
-*Persia's defining eggplant dip: roasted aubergines mashed with crushed garlic, dried mint and turmeric-infused oil, swirled with kashk (Persian fermented dried whey) and topped with crispy fried onions, more dried mint, and walnut shards. The salty-tangy kashk is the heart of the dish; without it, you have a generic eggplant dip. Eaten warm with sangak bread (or any flatbread) as a starter, a side at a sofreh table, or a light vegetarian meal.*
+*Persia's defining aubergine dip: roasted aubergines mashed with garlic and dried mint, swirled with kashk and topped with crispy onions and walnuts.*
 
 **Serves:** 4 (as a starter / snack)
 

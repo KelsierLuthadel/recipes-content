@@ -1,7 +1,7 @@
 # Sadza
 
 ![Sadza](resources/sadza.jpg)
-*The Zimbabwean staple: white-maize meal cooked with water into a stiff, glossy porridge that pulls clean from the pot. Eaten with the right hand, rolled into a small ball, dimpled with the thumb and used to scoop stew, gravy or relish. Twice or three times a day in most homes; the constant against which every meal is plated.*
+*Zimbabwe's staple: white-maize meal cooked with water into a stiff glossy porridge. Eaten with the right hand, rolled into a ball and used to scoop stew.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Kayan Thee Hnut
 
 ![Kayan Thee Hnut](resources/kayan-thee-hnut.jpg)
-*Burmese aubergine stir-fry: cubed aubergine fried hard until soft and silky, then folded into a quick masala of fried onion, garlic, chilli, fish sauce and a handful of toasted crushed peanuts. Salty, savoury, slightly sweet, with the peanut crunch lifting the soft aubergine. Eaten with rice as a vegetable side, often beside a meat curry.*
+*A Burmese aubergine stir-fry: cubed aubergine fried silky-soft, folded into a quick masala of fried onion, garlic, chilli, fish sauce and crushed peanuts.*
 
 **Serves:** 4 as a side
 

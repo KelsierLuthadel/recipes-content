@@ -1,7 +1,7 @@
 # Fattoush
 
 ![Fattoush](resources/fattoush.jpg)
-*The Levantine chopped salad with toasted pita: cucumber, tomato, radish, sumac onion, parsley and mint dressed with a sharp lemon-pomegranate-sumac vinaigrette, with shards of fried or toasted pita scattered through. Crisp, sour, salty, herbal. The summer salad of every Damascene table; sits beside hummus, mutabbal and grilled meats. Doesn't keep - eat within 30 minutes of dressing.*
+*The Levantine chopped salad: cucumber, tomato, radish, sumac onion and herbs dressed with lemon, sumac and pomegranate, with toasted pita shards.*
 
 **Serves:** 4
 

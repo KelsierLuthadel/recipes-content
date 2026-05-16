@@ -2,7 +2,7 @@
 
 ![Pissalàdiers](resources/Pissaladiers.jpg)
 
-*These French variations on pizza are, in fact, ideal either as a snack or cut into small fingers and served as canapés. Caramelized onions, slowly cooked for 2 hours until meltingly sweet and tender, topped with a lattice of anchovy fillets and dotted with briny black olives. Rustic, sophisticated, and deceptively simple.*
+*The French answer to pizza: caramelised onions slowly cooked for hours till meltingly sweet, topped with a lattice of anchovies and dotted with black olives.*
 
 **Serves:** 4 (makes 2 pissaladières)
 

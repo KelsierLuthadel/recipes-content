@@ -1,7 +1,7 @@
 # Frango Piri-Piri
 
 ![Frango Piri-Piri](resources/frango-piri-piri.jpg)
-*The Mozambican (and Portuguese-Mozambican) national chicken dish: spatchcocked chicken marinated in a fiery garlic-lemon-piri-piri sauce, grilled hard over charcoal, basted as it cooks, and served with the same sauce on the side. The dish that gave Nando's its career; eaten across Maputo with chips, salad, and a cold beer. Heat is adjustable - traditional is hot.*
+*Mozambique's national grilled chicken: spatchcocked bird marinated in fiery garlic-lemon-piri-piri, grilled hard over charcoal and basted as it cooks.*
 
 **Serves:** 4
 

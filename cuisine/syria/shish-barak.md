@@ -1,7 +1,7 @@
 # Shish Barak
 
 ![Shish Barak](resources/shish-barak.jpg)
-*The Syrian (and broader Levantine) lamb-and-onion dumpling in a hot yogurt sauce: small ravioli-sized parcels of spiced lamb mince in a thin pasta wrapper, baked or boiled, then bathed in a stabilised garlic-and-mint yogurt sauce that's brought to a low simmer without splitting. Finished with sizzled garlic-and-dried-mint butter. A formal Damascene dish, slow and worth it.*
+*Syria's lamb dumplings in hot yogurt: small ravioli-sized lamb parcels bathed in a stabilised garlic-mint yogurt sauce, finished with mint butter.*
 
 **Serves:** 4
 

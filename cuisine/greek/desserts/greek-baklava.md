@@ -1,7 +1,7 @@
 # Greek Baklava
 
 ![Greek Baklava](resources/greek-baklava.jpg)
-*Layered filo with crushed walnuts and a hint of cinnamon, soaked in lemon-honey syrup. The Greek take on baklava: the filling leans heavily on walnut (the Turkish version often features pistachios), the syrup is honey-forward rather than purely sugary, the cut is square not diamond, and a clove pegs each square as a marker. Dense, rich, eaten in small squares with a glass of strong coffee.*
+*Greece's defining filo dessert: layered pastry packed with walnut and cinnamon, soaked in lemon-honey syrup. A clove pegs each diamond square.*
 
 **Serves:** Makes 20-24 squares
 

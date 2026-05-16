@@ -1,7 +1,7 @@
 # Bantan
 
 ![Bantan](resources/bantan.jpg)
-*Mongolia's flour-and-mutton broth: a comforting, slightly thick broth where pinches of raw flour are dropped into simmering mutton stock and break up into pea-sized flour-pearls as they cook. Sustaining, plain, gentle on the stomach; the dish Mongolians make for a sick child or a hungover adult. A handful of minced mutton and onion provide the savoury backbone; the flour-pearls give the texture.*
+*Mongolia's flour-and-mutton broth: simmering mutton stock with pinches of raw flour rubbed into pea-sized pearls. The cure for a hungover adult.*
 
 **Serves:** 4
 

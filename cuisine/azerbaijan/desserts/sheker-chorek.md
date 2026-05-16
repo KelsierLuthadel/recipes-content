@@ -1,7 +1,7 @@
 # Sheker Chorek
 
 ![Sheker Chorek](resources/sheker-chorek.jpg)
-*Azerbaijan's everyday sugar shortbread - soft, melt-in-the-mouth rounds with a single egg-yolk glaze and a pinch of sesame or nigella seeds. The name simply means "sugar bread"; that's the recipe. Five ingredients: butter, sugar, egg yolk, flour, vanilla. The texture sits between a Scottish shortbread and a Polish kruche ciastka - drier than a butter cookie, more tender than a biscuit. Tea-time staple, present at every Caucasian gathering.*
+*Azerbaijan's everyday tea cookie: a soft melt-in-the-mouth sugar shortbread brushed with egg yolk and scattered with sesame or nigella.*
 
 **Serves:** Makes about 20 cookies
 

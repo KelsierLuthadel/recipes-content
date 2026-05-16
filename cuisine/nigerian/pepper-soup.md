@@ -1,7 +1,7 @@
 # Pepper Soup
 
 ![Pepper Soup](resources/pepper-soup.jpg)
-*Nigerian peppery clear broth: goat (or chicken / catfish) simmered with onion, garlic, scotch bonnet, ginger and an aromatic blend of pepper-soup spices (uda - calabash nutmeg, uziza, ehuru, and grains of paradise). Drunk hot to clear a head cold, served as a starter at parties, eaten over rice for dinner. Thin, bracing, deeply peppery - not creamy, not thick.*
+*Nigeria's peppery clear broth: goat or chicken simmered with onion, garlic, Scotch bonnet, ginger and aromatic pepper-soup spices. The head-cold cure.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Tunisian Fricassé
 
 ![Tunisian Fricassé](resources/tunisian-fricasse.jpg)
-*Small deep-fried Tunisian sandwich buns - fluffy yeasted dough rolls puff in hot oil, then split open and stuff with a generous filling: tuna, harissa, capers, olives, lemon, hard-boiled egg, parsley. The Tunisian version of a stuffed pita, but the bread is fried not baked. Sold at every Tunis sandwich kiosk and at every café on the Algerian-Tunisian coast. Defines the "casse-croûte" street-food category.*
+*Tunisia's deep-fried sandwich bun: yeasted dough puffed in hot oil, split open and stuffed with tuna, harissa, capers, olives and egg.*
 
 **Serves:** Makes 8 fricassés
 

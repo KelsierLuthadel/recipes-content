@@ -1,7 +1,7 @@
 # Birria
 
 ![Birria](resources/birria.jpg)
-*Slow-braised beef in a deep red chile broth scented with cinnamon, oregano and clove, shreddable with the back of a spoon and resting in its own consomme. The smell is toasted dried chillies, beef fat, and warm spice working away in the oven for hours. From the highlands of Jalisco, now eaten across Mexico and reborn worldwide as the dripping, cheesy birria taco.*
+*Jalisco's slow-braised beef: shredded chuck in a deep red chile broth scented with cinnamon, oregano and clove. Eaten in its own consomme or as a taco.*
 
 **Serves:** 8
 

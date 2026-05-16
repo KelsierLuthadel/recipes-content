@@ -2,7 +2,7 @@
 
 ![Gnocchi](resources/gnocchi.jpg)
 
-*Homemade gnocchi represents the pinnacle of Italian potato cookery. Oven-baked potatoes rendered through a ricer, combined with minimal flour and just an egg yolk, create the lightest, most ethereal pillows of dough. Boil them until they float to the surface, top with your favorite sauce, and savor the essence of simplicity elevated to art.*
+*Italy's potato pillows: oven-baked potatoes pushed through a ricer with minimal flour and an egg yolk, boiled till they float and tossed in your sauce.*
 
 **Serves:** 6
 **Prep Time:** 10 minutes

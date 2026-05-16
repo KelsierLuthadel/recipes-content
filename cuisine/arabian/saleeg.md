@@ -1,7 +1,7 @@
 # Saleeg
 
 ![Saleeg](resources/saleeg.jpg)
-*A Hijazi (western Saudi) speciality: short-grain rice cooked in chicken broth and full-cream milk into a creamy, savoury rice porridge, served under chunks of butter-glazed roast chicken and finished with a final drizzle of brown butter (samna) and crushed black pepper. Distinct from Saudi kabsa - softer, creamier, more comforting. The dish of Hijazi Friday lunches and family Ramadan tables.*
+*A Hijazi speciality: short-grain rice cooked in chicken broth and full-cream milk into a creamy savoury porridge, topped with butter-glazed chicken.*
 
 **Serves:** 4
 

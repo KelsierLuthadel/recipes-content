@@ -2,7 +2,7 @@
 
 ![Bengali Paratha](resources/bengali-paratha.jpg)
 
-*Bengali parathas are layered, flaky flatbreads built on the lachha technique, where the dough is pleated and coiled before rolling so it opens into dozens of paper-thin strips on the hot tawa. The chilli, herb and crushed Tellicherry pepper filling threaded through those layers turns a workaday roti into something fragrant and almost crisp.*
+*Bengal's layered flatbread: dough pleated and coiled before rolling, so it opens into dozens of paper-thin strips on the hot tawa. Threaded with chilli and herb.*
 
 **Makes:** 4-5 parathas
 

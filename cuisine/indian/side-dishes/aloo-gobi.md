@@ -1,7 +1,7 @@
 # Aloo Gobi
 
 ![Aloo Gobi](resources/aloo-gobi.jpg)
-*The everyday North Indian dry potato-and-cauliflower curry: chunks of both pan-fried with cumin, ginger, garlic, turmeric and a quick tomato sauce, finished with garam masala and fresh coriander. Dry, not saucy - the vegetables are the main event, lightly coated rather than swimming. Eaten with roti or paratha as a side beside dal, or as a simple main with rice and yogurt.*
+*North India's everyday dry curry: chunks of potato and cauliflower pan-fried with cumin, ginger, garlic, turmeric and a quick tomato sauce.*
 
 **Serves:** 4 as a side
 

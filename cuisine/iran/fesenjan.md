@@ -1,7 +1,7 @@
 # Khoresh-e Fesenjan
 
 ![Khoresh-e Fesenjan](resources/fesenjan.jpg)
-*Persian walnut and pomegranate stew: chicken (or duck) braised in a sauce of finely-ground toasted walnuts and pomegranate molasses until the sauce turns deep mahogany and silky. Sweet, sour, intensely savoury - one of Iran's most distinctive flavour profiles. Saffron and a pinch of sugar balance the molasses; eats over white rice.*
+*Persia's walnut and pomegranate stew: chicken braised in a sauce of ground toasted walnuts and pomegranate molasses till mahogany and silky. Saffron at the end.*
 
 **Serves:** 6
 

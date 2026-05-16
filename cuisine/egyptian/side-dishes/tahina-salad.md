@@ -1,7 +1,7 @@
 # Tahina Salad
 
 ![Tahina Salad](resources/tahina-salad.jpg)
-*The Egyptian tahina dip: tahini thinned with garlic, lemon, salt and water (or yogurt) into a pourable savoury cream. Spread on a plate, drizzled with olive oil, sprinkled with cumin or sumac, scooped with bread. Sits on every Egyptian mezze table beside ful, baba ganoush and salata baladi. Looser than hummus, denser than yogurt.*
+*Egypt's tahina dip: tahini thinned with garlic, lemon, salt and water into a pourable savoury cream. Spread on a plate, drizzled with oil, scooped with bread.*
 
 **Serves:** 4 as a mezze
 

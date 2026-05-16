@@ -1,7 +1,7 @@
 # American Coleslaw
 
 ![American Coleslaw](resources/american-coleslaw.jpg)
-*The American picnic and BBQ side: finely shredded green and red cabbage with carrot, in a mayonnaise-and-cider-vinegar dressing seasoned with mustard, sugar, salt and pepper. Crunchy, creamy, slightly sweet, sharp. Holds well in the fridge; goes alongside fried chicken, pulled pork, brisket, burgers - anywhere on a plate that needs a cool counterpoint.*
+*The American picnic side: shredded green and red cabbage with carrot in a mayonnaise-and-cider-vinegar dressing seasoned with mustard and sugar.*
 
 **Serves:** 6 as a side
 

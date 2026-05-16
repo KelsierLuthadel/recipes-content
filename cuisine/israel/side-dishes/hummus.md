@@ -1,7 +1,7 @@
 # Hummus
 
 ![Hummus](resources/hummus.jpg)
-*The Levantine chickpea dip - silky, lemony, garlicky, deeply tahini-forward. Israeli hummus has its own school: chickpeas cooked from dry with baking soda until almost falling apart, blended hot with high-quality tahini, lemon, garlic, salt and a few ice cubes for the silkiest texture. Plated swirled in a wide bowl; topped with whole warm chickpeas, paprika, parsley and olive oil. Eaten scooped with warm pita.*
+*The Levantine chickpea dip: chickpeas cooked with bicarb till falling apart, blended hot with tahini, lemon and garlic. Plated swirled, eaten with warm pita.*
 
 **Serves:** 6
 

@@ -1,7 +1,7 @@
 # Mujadara
 
 ![Mujadara](resources/mujadara.jpg)
-*The Lebanese poor-man's-feast: lentils and rice cooked together with deeply caramelised onion folded through, finished with more crispy fried onion on top and a side of cucumber-yogurt salad. Humble in ingredient list, deep in flavour. Lentil-and-rice protein, onion-sweetness, the slight char of the topping. Eaten every Lent; eaten every Friday in fasting Christian households; eaten any night you want comfort.*
+*Lebanon's poor-man's-feast: brown lentils and rice cooked together with deeply caramelised onion folded through, crisp fried onions piled on top.*
 
 **Serves:** 4
 

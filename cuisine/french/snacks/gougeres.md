@@ -1,7 +1,7 @@
 # Gougères
 
 ![Gougeres](resources/gougeres.jpg)
-*Burgundy's signature savoury: small choux-pastry puffs flavoured generously with grated Gruyère and Comté cheese, baked until puffed and crisp on the outside, hollow and slightly chewy inside. Served warm as an apéritif with a glass of Burgundy wine, or as a starter at a French dinner party. Made from the same choux dough as profiteroles or éclairs, with cheese folded in before piping. The defining French canapé.*
+*Burgundy's apéritif puff: small choux-pastry rounds flavoured with grated Gruyère and Comté, baked till puffed and crisp outside, hollow within.*
 
 **Serves:** 6 (makes ~30 small gougères)
 

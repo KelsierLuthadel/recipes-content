@@ -1,7 +1,7 @@
 # Gambas al Ajillo
 
 ![Gambas al Ajillo](resources/gambas-al-ajillo.jpg)
-*Whole peeled prawns sizzled in a small earthenware cazuela with sliced garlic, dried red chilli flakes and a generous glug of olive oil - served at the table still bubbling, the oil flecked with garlic and a hint of red from the chilli. Bread comes alongside to soak up the garlic-prawn oil at the bottom of the dish. A Madrid tapas-bar essential. The simplest cooking - 4 minutes - and the most addictive when done right.*
+*The Madrid tapas-bar essential: whole peeled prawns sizzled in olive oil with sliced garlic and dried chilli. Bread alongside to soak the oil.*
 
 **Serves:** 4 (as a tapa)
 

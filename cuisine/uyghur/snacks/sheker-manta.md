@@ -1,7 +1,7 @@
 # Sheker Manta
 
 ![Sheker Manta](resources/sheker-manta.jpg)
-*Steamed Uyghur "sugar dumplings". A yeasted dough wraps a filling of chopped walnuts, raisins, sugar and rendered lamb fat (or oil for the vegetarian version); the parcels pinch into triangles and steam in stacking trays for 15 minutes. Eaten warm with the fingers. Lamb fat is the traditional binder - rendered slowly until it dissolves into oil, then combined with the dried fruits.*
+*Uyghur sugar dumplings: yeasted dough wrapping chopped walnuts, raisins, sugar and lamb fat, pinched into triangles and steamed in stacking trays.*
 
 **Serves:** Makes 12 dumplings
 

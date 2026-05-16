@@ -1,7 +1,7 @@
 # Masgouf
 
 ![Masgouf](resources/masgouf.jpg)
-*Iraq's national dish: a whole large freshwater fish (traditionally carp from the Tigris) butterflied, marinated in olive oil, salt, tamarind, lemon and a pinch of turmeric, then slow-grilled vertically beside (not over) an open wood fire until the skin is darkly crusted and the flesh smoky and just-cooked. Eaten directly from the wood plank with bread, tomato, onion and lime. At home, a strong oven grill or BBQ approximates the technique.*
+*Iraq's national fish: a whole butterflied carp marinated in tamarind, olive oil and turmeric, slow-grilled vertically beside an open wood fire.*
 
 **Serves:** 4
 

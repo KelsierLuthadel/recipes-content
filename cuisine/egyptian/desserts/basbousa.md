@@ -1,7 +1,7 @@
 # Basbousa
 
 ![Basbousa](resources/basbousa.jpg)
-*Egyptian semolina cake soaked in hot orange-blossom or rose syrup, golden on top, almost custardy beneath. Eaten across the Levant and North Africa under different names (revani in Turkey, hareeseh in Lebanon); the Egyptian version leans coconut-rich, with a glossy syrup that drowns the cake while it's still hot from the oven.*
+*Egypt's semolina cake: soaked in hot orange-blossom or rose syrup, golden on top, almost custardy beneath. The coconut-rich version of a Levantine staple.*
 
 **Serves:** 12
 

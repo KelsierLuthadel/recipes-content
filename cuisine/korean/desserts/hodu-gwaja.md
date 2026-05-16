@@ -1,7 +1,7 @@
 # Hodu Gwaja (Walnut Cake)
 
 ![Hodu Gwaja](resources/hodu-gwaja.jpg)
-*Small walnut-shaped cakes from the Cheonan area: a tender flour-and-egg batter cooks in a walnut-shaped iron mould around a filling of sweetened red bean paste and a whole walnut piece. Bigger than a coin, smaller than a tennis ball; the outside has the texture of a soft cake, the inside the sweet earthy pat with a crunch from the nut. Sold by the dozen at every Cheonan-area train station; a Korean rest-stop classic.*
+*Cheonan's walnut-shaped cake: a tender flour-and-egg batter cooked in iron moulds around sweet red bean paste and a whole walnut piece.*
 
 **Serves:** Makes 12 cakes
 

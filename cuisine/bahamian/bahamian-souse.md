@@ -2,7 +2,7 @@
 
 ![Bahamian Souse](resources/bahamian-souse.jpg)
 
-*A clear, citrus-bright broth of poached meat - chicken, pig's feet, sheep tongue or oxtail - finished with lime juice, fiery goat pepper, onion, celery and potato. The Bahamian Saturday-morning dish and famous national hangover cure. Chicken souse is the most home-friendly version: cheap, clean-tasting, takes care of itself on the stove while you wake up. Served with johnnycake on the side and an enormous wedge of lime.*
+*The Bahamas' Saturday-morning hangover cure: a clear, citrus-bright broth of poached chicken with onion, celery, potato and a fierce squeeze of lime.*
 
 **Serves:** 4-6
 

@@ -1,7 +1,7 @@
 # Green Beans Amandine
 
 ![Green Beans Amandine](resources/green-beans-amandine.jpg)
-*The classic French bistro side: tender green beans blanched until just-tender-and-bright, tossed in butter that's been browned to a nutty hazelnut colour with toasted flaked almonds and a squeeze of lemon. Sometimes finished with a dab of mustard or a pinch of garlic. Made in 8 minutes. Goes alongside any roast (chicken, fish, lamb), particularly a steak frites, or as a vegetable course on its own.*
+*The French bistro side: green beans blanched just-tender, tossed in browned butter with toasted flaked almonds and a squeeze of lemon.*
 
 **Serves:** 4 (as a side)
 

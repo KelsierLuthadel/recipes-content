@@ -1,7 +1,7 @@
 # Goghal
 
 ![Goghal](resources/goghal.jpg)
-*Spiced flaky pastry layered with butter and a generous filling of crushed black pepper, caraway and saffron - Azerbaijan's savoury answer to mille-feuille. Eats with sweet tea as a morning snack or breaks open at the start of a celebration meal. The defining technique: laminate the dough in layers similar to puff pastry but rolled rather than chilled, then cut into rounds, baked golden, the layers visibly distinct in the cross-section.*
+*Azerbaijan's spiced flaky pastry: laminated dough layered with butter and a heady mix of black pepper, caraway and saffron. Eaten with sweet tea.*
 
 **Serves:** Makes 12 goghal
 

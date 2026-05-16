@@ -1,7 +1,7 @@
 # Rasgulla
 
 ![Rasgulla](resources/rasgulla.jpg)
-*White spheres of fresh chhena cheese, doubled in size by long simmering in light cardamom-scented sugar syrup, soft and spongy and dripping with sweet liquid when you press them. The smell is gentle milk and green cardamom. The most iconic Bengali sweet of all, claimed equally by West Bengal and Odisha and fought over by both, but everywhere recognised as the queen of the misti shop.*
+*Bengal's queen of sweets: white spheres of fresh chhena doubled in size by long simmering in light cardamom-scented sugar syrup. Spongy and sweet.*
 
 **Serves:** 6 (makes 12 rasgulla)
 

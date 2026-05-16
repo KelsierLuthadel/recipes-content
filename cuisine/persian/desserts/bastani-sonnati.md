@@ -1,7 +1,7 @@
 # Bastani Sonnati
 
 ![Bastani Sonnati](resources/bastani-sonnati.jpg)
-*Persia's saffron-pistachio-rosewater ice cream, traditionally studded with shards of frozen cream that crunch through the dense base. The flavour is intense - saffron isn't a hint, it's the foundation - and the texture is unmistakably Persian, partly from rosewater, partly from the small amount of mastic gum that gives a faint chew. Sometimes served between two thin wafers as a sandwich.*
+*Persia's saffron-pistachio-rosewater ice cream: studded with shards of frozen cream and a touch of mastic gum for a faint chew.*
 
 **Makes:** about 1 ½ litres
 

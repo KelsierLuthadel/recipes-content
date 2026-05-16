@@ -1,7 +1,7 @@
 # Nga Hpe (Burmese Fish Cakes)
 
 ![Nga Hpe](resources/nga-hpe.jpg)
-*Pounded fish cakes - the Burmese street starter eaten between meals and as part of a full lunch. Firm white fish minced (originally in a stone mortar; now in a food processor) with shallot, garlic, fish sauce, lime, chilli and curry leaves, formed into 4 cm patties and shallow-fried until deep gold. Eaten with lime wedges and a hot dipping sauce of sweet chilli or sahawiq-style green relish.*
+*Burma's teashop fish cakes: white fish minced with shallot, garlic, fish sauce, lime, chilli and curry leaves, shaped small and shallow-fried gold.*
 
 **Serves:** 6 as a starter (makes 18 small cakes)
 

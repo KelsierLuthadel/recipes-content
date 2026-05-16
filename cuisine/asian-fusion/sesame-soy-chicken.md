@@ -1,7 +1,7 @@
 # Sesame Soy Chicken
 
 ![Sesame Soy Chicken](resources/sesame-soy-chicken.jpg)
-*Glossy, lacquered chicken thighs in a sweet-savoury soy and sesame glaze, finished with toasted sesame seeds. The smell is unmistakable: hot sesame oil, soy hitting a screaming pan, and the caramel sigh of brown sugar reducing into a sticky coat. An Asian-inspired weeknight dish that punches well above its 25-minute weight.*
+*An Asian-inspired weeknight chicken: thighs glazed in sweet-savoury soy and sesame, finished with toasted sesame seeds. Hot sesame oil and brown sugar caramel.*
 
 **Serves:** 6
 

@@ -2,7 +2,7 @@
 
 ![Spinach and Fennel soup](resources/spinach-fennel-soup.jpg)
 
-*This delicious and hearty soup is surprisingly rich yet elegant at the same time. The two main ingredients of spinach and fennel have unique and potent tastes, yet blend together perfectly. Take care not to overcook this soup, as the wonderful fresh colour and flavours will diminish. Serve this soup with a loaf of good fresh bread, and a generous helping of butter.*
+*A British country soup: spinach and fennel cooked just enough to stay bright green, blended smooth with stock. Eaten with crusty bread and butter.*
 
 **Serves:** 4
 

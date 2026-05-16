@@ -1,7 +1,7 @@
 # Gemista
 
 ![Gemista](resources/gemista.jpg)
-*Greek stuffed peppers and tomatoes - the vegetables hollowed out and filled with a rice mix loaded with herbs (mint, dill, parsley), pine nuts, currants and olive oil, then baked slow in a tray with potato wedges around them. The juices run; the rice swells; the peppers blister and soften. Eaten warm or at room temperature with bread and feta.*
+*Greece's stuffed peppers and tomatoes: vegetables hollowed and filled with a herb-heavy rice mix with pine nuts and currants, slow-baked in a tray.*
 
 **Serves:** 4-6
 
