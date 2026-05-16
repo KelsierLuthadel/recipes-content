@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Almond paste: ground almonds, icing sugar, melted butter, cinnamon, orange-flower water - pulses or kneads to a soft pliable paste. Divides into walnut-sized portions; each rolls into a thin cylinder 10 cm long. Warka strips wrap around the cylinder; seal with egg-wash. Fries in moderately hot oil till deep gold. Submerges briefly in warm honey with orange-flower water; lifts; drains; cools.
+Almond paste: ground almonds, icing sugar, melted butter, cinnamon, orange-flower water, pulses or kneads to a soft pliable paste. Divides into walnut-sized portions; each rolls into a thin cylinder 10 cm long. Warka strips wrap around the cylinder; seal with egg-wash. Fries in moderately hot oil till deep gold. Submerges briefly in warm honey with orange-flower water; lifts; drains; cools.
 
 ## Ingredients
 

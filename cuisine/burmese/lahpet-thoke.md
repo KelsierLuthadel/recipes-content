@@ -10,7 +10,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Pre-pickled tea leaves (sold at SE Asian grocers; rinse to mellow if very sour) form the central element. Shredded white cabbage, diced tomato and a generous handful of crispy fried items - fried garlic, fried peanuts, fried yellow split peas, sesame seeds - toss together with fish sauce and lime juice. Each spoonful is a contrast of soft-bitter-tea with crunchy fried things and bright lime.
+Pre-pickled tea leaves (sold at SE Asian grocers; rinse to mellow if very sour) form the central element. Shredded white cabbage, diced tomato and a generous handful of crispy fried items, fried garlic, fried peanuts, fried yellow split peas, sesame seeds, toss together with fish sauce and lime juice. Each spoonful is a contrast of soft-bitter-tea with crunchy fried things and bright lime.
 
 ## Ingredients
 

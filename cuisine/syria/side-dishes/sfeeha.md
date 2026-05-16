@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A simple yeasted bread dough rises for 1 hour; balls are divided and rolled into 9 cm rounds. A raw mince mixture of lamb, grated onion, tomato, pomegranate molasses, Aleppo pepper, allspice and pine nuts is spread thinly on top. Baked for 12-14 minutes at 230°C - high heat so the dough turns crisp before the meat dries out. Served warm with lemon wedges and yogurt.
+A simple yeasted bread dough rises for 1 hour; balls are divided and rolled into 9 cm rounds. A raw mince mixture of lamb, grated onion, tomato, pomegranate molasses, Aleppo pepper, allspice and pine nuts is spread thinly on top. Baked for 12-14 minutes at 230°C, high heat so the dough turns crisp before the meat dries out. Served warm with lemon wedges and yogurt.
 
 ## Ingredients
 

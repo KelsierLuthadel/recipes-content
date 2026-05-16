@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Pork belly cuts into thick strips (5 cm wide × 3 cm thick) with skin on. Simmers in water seasoned with cumin, salt, garlic and a bay leaf for 45 minutes - this tenderises the meat and renders some fat. Lifts out; pats dry. The same pan (with rendered fat) heats hot; strips return skin-side-down; fry for 15-20 minutes until the skin blisters and puffs into the crackling crust. Drains briefly. Eats hot.
+Pork belly cuts into thick strips (5 cm wide × 3 cm thick) with skin on. Simmers in water seasoned with cumin, salt, garlic and a bay leaf for 45 minutes, this tenderises the meat and renders some fat. Lifts out; pats dry. The same pan (with rendered fat) heats hot; strips return skin-side-down; fry for 15-20 minutes until the skin blisters and puffs into the crackling crust. Drains briefly. Eats hot.
 
 ## Ingredients
 - 1 kg pork belly with skin (cut into strips 5 cm wide × 3 cm thick)

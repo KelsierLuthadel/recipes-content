@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Cabbage shreds very fine; carrot grates; both rest with a generous pinch of salt for 20 minutes to draw out water (squeeze before dressing). A dressing of mayo, sour cream (or buttermilk), Dijon, cider vinegar, sugar, celery seed, salt and pepper whisks. Toss; rest at least 30 minutes before serving - flavours need time to mingle.
+Cabbage shreds very fine; carrot grates; both rest with a generous pinch of salt for 20 minutes to draw out water (squeeze before dressing). A dressing of mayo, sour cream (or buttermilk), Dijon, cider vinegar, sugar, celery seed, salt and pepper whisks. Toss; rest at least 30 minutes before serving, flavours need time to mingle.
 
 ## Ingredients
 

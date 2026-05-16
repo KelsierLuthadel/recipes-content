@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A thick béchamel - three times the flour-to-milk ratio of standard béchamel - is studded with chopped jamón serrano, chilled until firm enough to shape, rolled into ovals, breaded with flour-egg-panko, and deep-fried at 180°C until deep golden. Eat hot.
+A thick béchamel, three times the flour-to-milk ratio of standard béchamel, is studded with chopped jamón serrano, chilled until firm enough to shape, rolled into ovals, breaded with flour-egg-panko, and deep-fried at 180°C until deep golden. Eat hot.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 22 minutes
 
 ## Overview
-A simple lean dough - bread flour, yeast, water, salt, no sugar, no fat. Long first rise (1 hour). Divided into 16 small balls, paired into 4-segment shapes (two balls side-by-side, pressed in the middle to form 4 lobes). Second short rise. Baked at 230°C with steam (a tray of hot water at the bottom of the oven) until deeply crusty.
+A simple lean dough, bread flour, yeast, water, salt, no sugar, no fat. Long first rise (1 hour). Divided into 16 small balls, paired into 4-segment shapes (two balls side-by-side, pressed in the middle to form 4 lobes). Second short rise. Baked at 230°C with steam (a tray of hot water at the bottom of the oven) until deeply crusty.
 
 ## Ingredients
 

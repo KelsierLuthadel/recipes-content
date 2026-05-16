@@ -12,7 +12,7 @@
 **Total Time:** 4-12 hours (soaking time)
 
 ## Overview
-A sponge cake separates yolks and whites; the whites whip with sugar to stiff peaks; the yolks fold with sugar, milk, vanilla, flour and baking powder. The two mixtures fold together carefully (don't deflate the whites). Baked at 175°C for 25-30 minutes until golden and just-springy. While still slightly warm, the top is pricked all over with a skewer to make absorption channels. The "tres leches" - evaporated milk + condensed milk + double cream whisked together - pours over the warm cake, slowly. The cake drinks the milk; rests in the fridge at least 4 hours (overnight ideal). Topped with whipped cream and a dusting of cinnamon just before serving.
+A sponge cake separates yolks and whites; the whites whip with sugar to stiff peaks; the yolks fold with sugar, milk, vanilla, flour and baking powder. The two mixtures fold together carefully (don't deflate the whites). Baked at 175°C for 25-30 minutes until golden and just-springy. While still slightly warm, the top is pricked all over with a skewer to make absorption channels. The "tres leches", evaporated milk + condensed milk + double cream whisked together, pours over the warm cake, slowly. The cake drinks the milk; rests in the fridge at least 4 hours (overnight ideal). Topped with whipped cream and a dusting of cinnamon just before serving.
 
 ## Ingredients
 

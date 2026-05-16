@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A batter is made from chickpea flour (besan), rice flour for crispness, water, salt, turmeric, ground coriander, chilli powder, ajwain seeds, crushed garlic and a pinch of baking soda. Rested for 10 minutes so the chickpea flour hydrates. Potatoes slice into 3 mm rounds, salted briefly. Each slice dips in the batter; lifted with chopsticks; lowered into hot oil; fried for 3 minutes per side until amber. Drained; salted with chaat masala. Served with a quick mint-and-coriander chutney.
+A batter is made from chickpea flour (besan), rice flour for crispness, water, salt, turmeric, ground coriander, chilli powder, ajwain seeds, crushed garlic and a pinch of baking soda. Rested for 10 minutes so the chickpea flour hydrates. Potatoes slice into 3 mm rounds, salted briefly. Each slice dips in the batter; lifted with chopsticks; lowered into hot oil; fried for 3 minutes per side until amber. Once drained, they are salted with chaat masala. Served with a quick mint-and-coriander chutney.
 
 ## Ingredients
 

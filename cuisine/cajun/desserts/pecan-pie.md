@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-A simple all-butter shortcrust blind-bakes to a deep golden shell. Pecans toast briefly to bring out their oils. The filling - eggs, brown sugar, golden syrup (or corn syrup), butter, vanilla, bourbon, salt - whisks smooth and pours over the pecans. Bakes at moderate heat until the centre has just set with a slight wobble.
+A simple all-butter shortcrust blind-bakes to a deep golden shell. Pecans toast briefly to bring out their oils. The filling, eggs, brown sugar, golden syrup (or corn syrup), butter, vanilla, bourbon, salt, whisks smooth and pours over the pecans. Bakes at moderate heat until the centre has just set with a slight wobble.
 
 ## Ingredients
 

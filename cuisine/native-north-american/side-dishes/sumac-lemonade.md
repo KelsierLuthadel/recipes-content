@@ -10,7 +10,7 @@
 **Total Time:** 20 minutes (steep)
 
 ## Overview
-Two whole staghorn sumac drupes (or 3 tablespoons of dried, ground culinary sumac as a substitute) go into cold water for 20 minutes - never hot water, which extracts bitter tannins from the woody stems. The water steeps to a pale rose-pink with a tart citrus aroma. Strained twice through a coffee filter or fine muslin to remove the fine sumac hairs. Sweetened to taste with maple syrup; served over ice with a lemon wheel.
+Two whole staghorn sumac drupes (or 3 tablespoons of dried, ground culinary sumac as a substitute) go into cold water for 20 minutes, never hot water, which extracts bitter tannins from the woody stems. The water steeps to a pale rose-pink with a tart citrus aroma. Strained twice through a coffee filter or fine muslin to remove the fine sumac hairs. Sweetened to taste with maple syrup; served over ice with a lemon wheel.
 
 ## Ingredients
 

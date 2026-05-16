@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 45 minutes
 
 ## Overview
-Mutton on the bone - shoulder, breast, leg in big pieces - is placed in a deep pot. Cold water covers. Salt is added (heroically - about 1 tablespoon per litre). The pot comes to a boil; the surface is skimmed thoroughly; then it simmers, partially covered, until the meat is so tender it falls in big juicy pieces from the bone. The dish is piled onto a platter; the broth is reserved and drunk in cups alongside.
+Mutton on the bone, shoulder, breast, leg in big pieces, is placed in a deep pot. Cold water covers. Salt is added (heroically, about 1 tablespoon per litre). The pot comes to a boil; the surface is skimmed thoroughly; then it simmers, partially covered, until the meat is so tender it falls in big juicy pieces from the bone. The dish is piled onto a platter; the broth is reserved and drunk in cups alongside.
 
 ## Ingredients
 

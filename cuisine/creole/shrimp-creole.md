@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-The trinity (onion, celery, green pepper) softens in butter; garlic, Creole seasoning and herbs join. Tomato paste deepens; chopped tomatoes and stock loosen; the lot simmers for 20 minutes into a thick sauce. Prawns drop in at the end and cook for 3 minutes - pink and just-set. Hot sauce, lemon and parsley to finish.
+The trinity (onion, celery, green pepper) softens in butter; garlic, Creole seasoning and herbs join. Tomato paste deepens; chopped tomatoes and stock loosen; the lot simmers for 20 minutes into a thick sauce. Prawns drop in at the end and cook for 3 minutes, pink and just-set. Hot sauce, lemon and parsley to finish.
 
 ## Ingredients
 

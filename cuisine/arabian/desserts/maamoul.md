@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A short dough of fine semolina and plain flour rests overnight with butter, milk and orange blossom water - the semolina hydrates fully. Three classic fillings: date (with cinnamon and cloves), walnut (with sugar and rose), pistachio (with sugar and orange blossom). Each cookie wraps a teaspoon of filling, presses into a wooden mould (or scores by hand), bakes pale gold. Dusted with icing sugar.
+A short dough of fine semolina and plain flour rests overnight with butter, milk and orange blossom water, the semolina hydrates fully. Three classic fillings: date (with cinnamon and cloves), walnut (with sugar and rose), pistachio (with sugar and orange blossom). Each cookie wraps a teaspoon of filling, presses into a wooden mould (or scores by hand), bakes pale gold. Dusted with icing sugar.
 
 ## Ingredients
 

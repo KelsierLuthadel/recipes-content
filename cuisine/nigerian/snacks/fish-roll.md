@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Dough: flour, butter, sugar, salt, baking powder, egg, milk - mixes to a smooth firm dough. Rests for 30 min. Filling: tinned sardines mash with sautéed onion, chilli, curry powder, thyme, salt. Dough divides; each portion rolls to a 12 cm circle; filling pipes or spoons in a line down the centre; dough rolls around the filling into a cigar; ends pinch sealed. Deep-fries for 5 minutes at 170°C till deep gold.
+Dough: flour, butter, sugar, salt, baking powder, egg, milk, mixes to a smooth firm dough. Rests for 30 min. Filling: tinned sardines mash with sautéed onion, chilli, curry powder, thyme, salt. Dough divides; each portion rolls to a 12 cm circle; filling pipes or spoons in a line down the centre; dough rolls around the filling into a cigar; ends pinch sealed. Deep-fries for 5 minutes at 170°C till deep gold.
 
 ## Ingredients
 

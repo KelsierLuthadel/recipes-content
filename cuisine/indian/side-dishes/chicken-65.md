@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Chicken thighs cube small; marinate for 1 hour in yogurt, ginger-garlic paste, Kashmiri chilli, garam masala and cornflour. Deep-fried in two stages - first to cook through, second to crisp. While the chicken rests, a hot tempering of curry leaves, garlic, dried chillies, soy and vinegar sputters in a wok. The fried chicken tosses through the tempering for 30 seconds and goes straight to the plate.
+Chicken thighs cube small; marinate for 1 hour in yogurt, ginger-garlic paste, Kashmiri chilli, garam masala and cornflour. Deep-fried in two stages, first to cook through, second to crisp. While the chicken rests, a hot tempering of curry leaves, garlic, dried chillies, soy and vinegar sputters in a wok. The fried chicken tosses through the tempering for 30 seconds and goes straight to the plate.
 
 ## Ingredients
 

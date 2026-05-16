@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A simple enriched dough - flour, milk, butter, egg, yeast - rises until doubled. Twelve small balls form, arrange touching in a round tin and rise again. Bake until golden. While they bake, garlic-oil dressing is mashed in a mortar; the rolls come out and immediately get brushed all over with the warm garlicky oil.
+A simple enriched dough, flour, milk, butter, egg, yeast, rises until doubled. Twelve small balls form, arrange touching in a round tin and rise again. Bake until golden. While they bake, garlic-oil dressing is mashed in a mortar; the rolls come out and immediately get brushed all over with the warm garlicky oil.
 
 ## Ingredients
 

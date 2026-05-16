@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Vegetables (spinach, courgette, peas - anything) cook in an oven-proof pan with onion. Beaten eggs with parmesan, herbs and seasoning pour over; the bottom sets on the hob, the top finishes under a hot grill until just puffed.
+Vegetables (spinach, courgette, peas, anything) cook in an oven-proof pan with onion. Beaten eggs with parmesan, herbs and seasoning pour over; the bottom sets on the hob, the top finishes under a hot grill until just puffed.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Vegetables dice into 5 mm cubes - uniform size matters for both look and dressing. Lime juice, salt, chaat masala and a finely-chopped chilli toss through. Coriander on top. Eat within an hour or the salad goes watery.
+Vegetables dice into 5 mm cubes, uniform size matters for both look and dressing. Lime juice, salt, chaat masala and a finely-chopped chilli toss through. Coriander on top. Eat within an hour or the salad goes watery.
 
 ## Ingredients
 

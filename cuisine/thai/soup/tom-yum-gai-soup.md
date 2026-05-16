@@ -13,7 +13,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-When you go out for Thai food this is sure to be on the menu. I love the spiciness of this soup - you get a good hit of spice but it doesn’t linger. Some chefs add sugar to it but, for me, this is a spicy, savoury and tart soup with only a hint of natural sweetness from the fried shallots and tomatoes. Do, of course, taste the soup and adjust the flavour to your liking, adding sugar if you want. It makes a delicious starter but you could bulk it up by adding other ingredients such as noodles to make it a light main. The word ‘gai’ means chicken, so this is a chicken tom yum soup. You could substitute prawn (shrimp) stock and prawns to make a delicious tom yum goong, or go vegetarian and use water and tofu.
+When you go out for Thai food this is sure to be on the menu. I love the spiciness of this soup, you get a good hit of spice but it doesn’t linger. Some chefs add sugar to it but, for me, this is a spicy, savoury and tart soup with only a hint of natural sweetness from the fried shallots and tomatoes. Do, of course, taste the soup and adjust the flavour to your liking, adding sugar if you want. It makes a delicious starter but you could bulk it up by adding other ingredients such as noodles to make it a light main. The word ‘gai’ means chicken, so this is a chicken tom yum soup. You could substitute prawn (shrimp) stock and prawns to make a delicious tom yum goong, or go vegetarian and use water and tofu.
 
 ## Ingredients
 ### Fat

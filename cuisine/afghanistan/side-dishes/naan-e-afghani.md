@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes (with a hot stone)
 
 ## Overview
-A simple yeasted bread dough - plain flour, fast-action yeast, salt, sugar, oil and warm water - kneads, rises, divides into long ovals. Each oval is pressed and stretched into a 40-50 cm flat lozenge, scored with three fingertip-trails down the length, scattered with nigella and sesame, and slid onto a hot baking stone (or upturned heavy tray) at the oven's maximum heat.
+A simple yeasted bread dough, plain flour, fast-action yeast, salt, sugar, oil and warm water, kneads, rises, divides into long ovals. Each oval is pressed and stretched into a 40-50 cm flat lozenge, scored with three fingertip-trails down the length, scattered with nigella and sesame, and slid onto a hot baking stone (or upturned heavy tray) at the oven's maximum heat.
 
 ## Ingredients
 

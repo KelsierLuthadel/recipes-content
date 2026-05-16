@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Dark chocolate and butter melt over a bain-marie. Eggs and sugar whisk together until pale and ribbony - this gives the crackly top. The melted chocolate folds in, then a small amount of flour and cocoa, and chocolate chunks. Bake until the centre wobbles slightly; cool fully (or you'll get fudge soup).
+Dark chocolate and butter melt over a bain-marie. Eggs and sugar whisk together until pale and ribbony, this gives the crackly top. The melted chocolate folds in, then a small amount of flour and cocoa, and chocolate chunks. Bake until the centre wobbles slightly; cool fully (or you'll get fudge soup).
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Raw peanuts toast in a dry pan 10 min till deep gold and fragrant; skins rub off. The roasted peanuts pulse to a coarse paste, then a fine paste - eventually the oil starts to release. The paste squeezes hard in clean cloths to extract the oil; the de-oiled paste tightens into a clay-like dough seasoned with salt, ground chilli, ground ginger. Shapes into thin sticks or small rings. Deep-fries in vegetable oil 3-4 minutes till deep gold.
+Raw peanuts toast in a dry pan 10 min till deep gold and fragrant; skins rub off. The roasted peanuts pulse to a coarse paste, then a fine paste, eventually the oil starts to release. The paste squeezes hard in clean cloths to extract the oil; the de-oiled paste tightens into a clay-like dough seasoned with salt, ground chilli, ground ginger. Shapes into thin sticks or small rings. Deep-fries in vegetable oil 3-4 minutes till deep gold.
 
 ## Ingredients
 - 500 g raw peanuts (red-skin or blanched both work)

@@ -10,7 +10,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Sliced garlic (lots - like 8 cloves for a small dish) cooks slowly in olive oil till just turning gold. Dried chilli flakes go in. Heat goes up; peeled raw prawns join. Sizzles 2-3 minutes till the prawns turn pink and curl. A splash of sherry or sherry vinegar at the end. Parsley showers over. Served at the table still bubbling. Bread is essential - half the dish is the garlic oil.
+Sliced garlic (lots, like 8 cloves for a small dish) cooks slowly in olive oil till just turning gold. Dried chilli flakes go in. Heat goes up; peeled raw prawns join. Sizzles 2-3 minutes till the prawns turn pink and curl. A splash of sherry or sherry vinegar at the end. Parsley showers over. Served at the table still bubbling. Bread is essential, half the dish is the garlic oil.
 
 ## Ingredients
 - 400 g raw peeled prawns (medium, about 200-250 per kg)

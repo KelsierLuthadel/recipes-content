@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Pasta tubes get a quick boil and a buttery toss. A beef ragù with cinnamon, allspice and a touch of tomato cooks while the pasta drains. Béchamel - thick, egg-bound, cheese-spiked - pours over the top. Bakes until the surface is mahogany-bronze.
+Pasta tubes get a quick boil and a buttery toss. A beef ragù with cinnamon, allspice and a touch of tomato cooks while the pasta drains. Béchamel, thick, egg-bound, cheese-spiked, pours over the top. Bakes until the surface is mahogany-bronze.
 
 ## Ingredients
 

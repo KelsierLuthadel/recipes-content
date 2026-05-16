@@ -12,7 +12,7 @@
 **Total Time:** Overnight rest (essential for the texture)
 
 ## Overview
-Eggs whisk with sugar over a warm-water bath to ribbon stage - pale, thick, and tripled in volume. This is the most important step and what gives kasutera its fine crumb without baking powder. Honey-and-water-and-mirin warm together; whisk into the eggs. Bread flour (the higher protein gives the right slightly-chewy texture) sifts in and folds gently - no over-mixing. Poured into a tall narrow loaf tin lined with baking paper; a tray of hot water sits below in the oven for moist heat. Baked for 50 minutes at 160°C. As soon as it's out of the oven, the cake is dropped from a height (a small ritual that prevents collapse) and turned upside down onto cling film, wrapped tightly while still warm, and rested overnight. The next day, sliced into rectangles.
+Eggs whisk with sugar over a warm-water bath to ribbon stage, pale, thick, and tripled in volume. This is the most important step and what gives kasutera its fine crumb without baking powder. Honey-and-water-and-mirin warm together; whisk into the eggs. Bread flour (the higher protein gives the right slightly-chewy texture) sifts in and folds gently, no over-mixing. Poured into a tall narrow loaf tin lined with baking paper; a tray of hot water sits below in the oven for moist heat. Baked for 50 minutes at 160°C. As soon as it's out of the oven, the cake is dropped from a height (a small ritual that prevents collapse) and turned upside down onto cling film, wrapped tightly while still warm, and rested overnight. The next day, sliced into rectangles.
 
 ## Ingredients
 

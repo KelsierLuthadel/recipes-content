@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-A short pastry of plain flour, butter, margarine (the mix gives Nigerian pies their distinctive texture - flakier than all-butter, sturdier than all-margarine), a pinch of baking powder, salt and cold water is made and rested. The filling: minced beef browned with onion, garlic, curry powder, thyme and a stock cube, then a small dice of carrot and potato added and cooked through with a splash of stock and a touch of cornflour to give a thick gravy. Pastry rolls out 4 mm thick, cuts into 15 cm rounds; filling goes on half; egg-wash glues; crimp; egg-wash on top. Bake at 200°C 30-35 minutes until deep gold.
+A short pastry of plain flour, butter, margarine (the mix gives Nigerian pies their distinctive texture, flakier than all-butter, sturdier than all-margarine), a pinch of baking powder, salt and cold water is made and rested. The filling: minced beef browned with onion, garlic, curry powder, thyme and a stock cube, then a small dice of carrot and potato added and cooked through with a splash of stock and a touch of cornflour to give a thick gravy. Pastry rolls out 4 mm thick, cuts into 15 cm rounds; filling goes on half; egg-wash glues; crimp; egg-wash on top. Bake at 200°C 30-35 minutes until deep gold.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Semolina mixes with melted butter and rests so it absorbs fully - the result is a fragrant, buttery, slightly grainy dough. Dates soften with butter, cinnamon and rosewater into a smooth filling. The dough rolls into a long log; the date paste extrudes into the centre; the cylinder rolls together and slices into diamonds. Fried briefly and dipped hot into orange-blossom syrup.
+Semolina mixes with melted butter and rests so it absorbs fully, the result is a fragrant, buttery, slightly grainy dough. Dates soften with butter, cinnamon and rosewater into a smooth filling. The dough rolls into a long log; the date paste extrudes into the centre; the cylinder rolls together and slices into diamonds. Fried briefly and dipped hot into orange-blossom syrup.
 
 ## Ingredients
 

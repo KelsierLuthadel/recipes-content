@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes (for the sauce)
 
 ## Overview
-The sauce (the technical heart of the dish) reduces palm sugar, fish sauce, tamarind paste, water, ginger and dried shrimp to a thick, glossy, dark amber syrup. The fillings - diced lime (skin and all), diced ginger, sliced shallot, chopped roasted peanuts, dried shrimp, small chilli, and toasted shredded coconut - are arrayed in small mounds on a serving platter. Fresh young betel leaves go alongside. Each diner takes a leaf, layers a tiny pinch of each filling, drops a quarter-teaspoon of the sauce on top, folds and pops the whole thing in one bite.
+The sauce (the technical heart of the dish) reduces palm sugar, fish sauce, tamarind paste, water, ginger and dried shrimp to a thick, glossy, dark amber syrup. The fillings, diced lime (skin and all), diced ginger, sliced shallot, chopped roasted peanuts, dried shrimp, small chilli, and toasted shredded coconut, are arrayed in small mounds on a serving platter. Fresh young betel leaves go alongside. Each diner takes a leaf, layers a tiny pinch of each filling, drops a quarter-teaspoon of the sauce on top, folds and pops the whole thing in one bite.
 
 ## Ingredients
 

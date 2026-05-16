@@ -10,7 +10,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Thick-cut chips are deep-fried until crisp; thinly-sliced sirloin (lomo) is seared hot in a wide pan; onion is softened and lightly charred; eggs are fried sunny-side up. Everything is piled in a single wide platter - chips on the bottom, steak and onion on top, eggs over the lot. Eaten communally with beer.
+Thick-cut chips are deep-fried until crisp; thinly-sliced sirloin (lomo) is seared hot in a wide pan; onion is softened and lightly charred; eggs are fried sunny-side up. Everything is piled in a single wide platter, chips on the bottom, steak and onion on top, eggs over the lot. Eaten communally with beer.
 
 ## Ingredients
 

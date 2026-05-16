@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-The dough: water, butter, lemon zest and salt bring to a boil; flour dumps in all at once; cooked for 1-2 minutes stirring vigorously into a smooth elastic dough. Tipped onto a floured surface; rolled paper-thin. Filling: a quick béchamel makes from butter, flour, milk; cooked prawns chop fine; fold in with parsley, lemon zest, pepper. Filling cools fully (essential). Discs cut from dough; filling spoons on half; folded into a half-moon and crimped. Each rissoi dredges in flour, dips in egg, rolls in breadcrumbs. Deep-fried at 175°C 2 minutes per side until amber. Drained; eaten warm.
+The dough: water, butter, lemon zest and salt bring to a boil; flour dumps in all at once; cooked for 1-2 minutes stirring vigorously into a smooth elastic dough. Tipped onto a floured surface; rolled paper-thin. Filling: a quick béchamel makes from butter, flour, milk; cooked prawns chop fine; fold in with parsley, lemon zest, pepper. Filling cools fully (essential). Discs cut from dough; filling spoons on half; folded into a half-moon and crimped. Each rissoi dredges in flour, dips in egg, rolls in breadcrumbs. Deep-fried at 175°C 2 minutes per side until amber. Drained and eaten warm.
 
 ## Ingredients
 

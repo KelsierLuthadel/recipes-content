@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Dried split fava beans (sold as "split foul" or "ful asfar" at Egyptian or Middle Eastern shops) soak overnight (NEVER cooked - that's the key). Drained, blitzed with onion, garlic, parsley, coriander, dill, leek and a generous dose of cumin, coriander and chilli into a coarse green paste. Rested for 30 minutes; baking soda mixed in for fluffiness. Patties shape between palms; pressed into sesame seeds + crushed coriander seeds; deep-fried 175°C for 2-3 minutes per side until amber-crisp. Drained; stuffed into pita with tahini, salad and pickles.
+Dried split fava beans (sold as "split foul" or "ful asfar" at Egyptian or Middle Eastern shops) soak overnight (never cooked, that's the key). Once drained, the favas are blitzed with onion, garlic, parsley, coriander, dill, leek and a generous dose of cumin, coriander and chilli into a coarse green paste. Rested for 30 minutes; baking soda mixed in for fluffiness. Patties shape between palms; pressed into sesame seeds + crushed coriander seeds; deep-fried 175°C for 2-3 minutes per side until amber-crisp. Drained and stuffed into pita with tahini, salad and pickles.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 1 ½ hours
 
 ## Overview
-Yellow sweet potatoes (boniato or the Caribbean white-fleshed variety if you can find them; otherwise ordinary orange sweet potatoes work) are peeled and finely grated. Combined with coconut milk, brown sugar, plain flour, raisins, mixed peel, vanilla, nutmeg, allspice and a glug of dark rum. Baked low and slow until set but still slightly wobbly in the middle. Cooled completely before slicing - this is essential, as a warm pudding falls apart.
+Yellow sweet potatoes (boniato or the Caribbean white-fleshed variety if you can find them; otherwise ordinary orange sweet potatoes work) are peeled and finely grated. Combined with coconut milk, brown sugar, plain flour, raisins, mixed peel, vanilla, nutmeg, allspice and a glug of dark rum. Baked low and slow until set but still slightly wobbly in the middle. Cooled completely before slicing, this is essential, as a warm pudding falls apart.
 
 ## Ingredients
 

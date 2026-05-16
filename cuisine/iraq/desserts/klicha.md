@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A buttery cardamom-and-nigella dough enriched with milk and a touch of yeast (yeast gives a tender bite, not a rise) wraps around a soft date paste cooked down with butter, cardamom, cloves and cinnamon. Walnut-sized balls flatten, fill, fold and press into a klaicha mould (or score the top with the back of a fork in a herringbone pattern). Brushed with egg yolk and sprinkled with sesame seeds. Baked at 180°C until pale gold (not brown - Iraqi klicha stay light, almost biscuit-coloured).
+A buttery cardamom-and-nigella dough enriched with milk and a touch of yeast (yeast gives a tender bite, not a rise) wraps around a soft date paste cooked down with butter, cardamom, cloves and cinnamon. Walnut-sized balls flatten, fill, fold and press into a klaicha mould (or score the top with the back of a fork in a herringbone pattern). Brushed with egg yolk and sprinkled with sesame seeds. Baked at 180°C until pale gold (not brown, Iraqi klicha stay light, almost biscuit-coloured).
 
 ## Ingredients
 

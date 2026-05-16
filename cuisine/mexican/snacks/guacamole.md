@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Avocados halve, scoop out, mash chunky (not smooth - texture matters). Onion finely chops, jalapeño deseeds and chops, coriander chops. Lime juice, salt, mix. Eat immediately or press cling film flat onto the surface to slow oxidation.
+Avocados halve, scoop out, mash chunky (not smooth, texture matters). Onion finely chops, jalapeño deseeds and chops, coriander chops. Lime juice, salt, mix. Eat immediately or press cling film flat onto the surface to slow oxidation.
 
 ## Ingredients
 

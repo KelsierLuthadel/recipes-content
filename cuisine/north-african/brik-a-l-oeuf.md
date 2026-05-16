@@ -10,7 +10,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-The filling is built in a small bowl: drained tinned tuna, finely-chopped onion, parsley, capers, harissa, salt. A square of malsouka (or two stacked sheets of filo) is laid flat. Half the filling is spread on one half of the sheet; an egg is cracked into a small well on top; the other half folds over. The seam is pinched; the brik slides into hot oil for 90 seconds - out crisp and golden, yolk still soft.
+The filling is built in a small bowl: drained tinned tuna, finely-chopped onion, parsley, capers, harissa, salt. A square of malsouka (or two stacked sheets of filo) is laid flat. Half the filling is spread on one half of the sheet; an egg is cracked into a small well on top; the other half folds over. The seam is pinched; the brik slides into hot oil for 90 seconds, out crisp and golden, yolk still soft.
 
 ## Ingredients
 

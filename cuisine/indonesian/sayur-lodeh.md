@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A spice paste of shallots, garlic, candlenuts (or cashews), turmeric and chilli is fried in oil until fragrant. Lemongrass, kaffir lime leaves and galangal infuse the coconut milk. Vegetables go in by cooking time - firmer first, leafier last. Tofu joins; everything simmers gently. The broth should be thin, the vegetables tender but not collapsed.
+A spice paste of shallots, garlic, candlenuts (or cashews), turmeric and chilli is fried in oil until fragrant. Lemongrass, kaffir lime leaves and galangal infuse the coconut milk. Vegetables go in by cooking time, firmer first, leafier last. Tofu joins; everything simmers gently. The broth should be thin, the vegetables tender but not collapsed.
 
 ## Ingredients
 

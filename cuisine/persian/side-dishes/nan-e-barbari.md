@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes per loaf
 
 ## Overview
-A medium-hydration yeasted dough (about 65% hydration) of bread flour, yeast, salt, water and a small amount of oil rises for 1 hour. Divides into 2; each piece shapes into a long oval (about 35 cm x 15 cm) and proofs for 30 minutes. The roomal glaze cooks separately: flour-and-water-and-baking-soda whisks and brings to a boil - it sets into a glossy paste. Each loaf gets brushed all over with the warm glaze; deep parallel ridges press in with fingertips (4-5 ridges per loaf running lengthwise); sprinkled with sesame and nigella seeds. Slides onto a hot stone (or upside-down baking tray) preheated to maximum; bakes for 12-15 minutes until deep gold.
+A medium-hydration yeasted dough (about 65% hydration) of bread flour, yeast, salt, water and a small amount of oil rises for 1 hour. Divides into 2; each piece shapes into a long oval (about 35 cm x 15 cm) and proofs for 30 minutes. The roomal glaze cooks separately: flour-and-water-and-baking-soda whisks and brings to a boil, it sets into a glossy paste. Each loaf gets brushed all over with the warm glaze; deep parallel ridges press in with fingertips (4-5 ridges per loaf running lengthwise); sprinkled with sesame and nigella seeds. Slides onto a hot stone (or upside-down baking tray) preheated to maximum; bakes for 12-15 minutes until deep gold.
 
 ## Ingredients
 

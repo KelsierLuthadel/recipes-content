@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Cold risotto (saffron Milanese-style is traditional in arancini "alla Milanese"; plain works too) is mixed with grated parmesan and beaten egg to bind. Filling - a stew of beef-and-pork ragù with peas, OR a cube of mozzarella - sits in the centre of each ball. Hands wet with water shape the rice around the filling into a tight orange-sized ball (or cone, for the Catania style). Each ball is rolled first in flour, then in beaten egg, then in fine breadcrumbs (or in the doubled-up "panata" mix of flour + water for the Sicilian original). Deep-fried at 180°C in 4-5 cm of oil for 4-6 minutes per ball until deep gold. Drained on kitchen paper; eaten warm.
+Cold risotto (saffron Milanese-style is traditional in arancini "alla Milanese"; plain works too) is mixed with grated parmesan and beaten egg to bind. Filling, a stew of beef-and-pork ragù with peas, OR a cube of mozzarella, sits in the centre of each ball. Hands wet with water shape the rice around the filling into a tight orange-sized ball (or cone, for the Catania style). Each ball is rolled first in flour, then in beaten egg, then in fine breadcrumbs (or in the doubled-up "panata" mix of flour + water for the Sicilian original). Deep-fried at 180°C in 4-5 cm of oil for 4-6 minutes per ball until deep gold. Drained on kitchen paper; eaten warm.
 
 ## Ingredients
 

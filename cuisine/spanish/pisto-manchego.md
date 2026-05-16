@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Onion is softened slowly in olive oil; peppers join to break down sweetly; aubergine and courgette go in next to caramelise at the edges; tomatoes finish to bind. Each addition has time to take on the oil and contribute. The result is glossy, jam-like, deep - eaten with bread, fried eggs or alongside grilled food.
+Onion is softened slowly in olive oil; peppers join to break down sweetly; aubergine and courgette go in next to caramelise at the edges; tomatoes finish to bind. Each addition has time to take on the oil and contribute. The result is glossy, jam-like, deep, eaten with bread, fried eggs or alongside grilled food.
 
 ## Ingredients
 

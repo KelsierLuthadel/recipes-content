@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Dough: flour, salt, butter, warm milk, an egg - kneads to a smooth pliable dough; rests for 30 min. Filling: queso fresco or mozzarella cubes about 1 cm; a sprinkle of oregano. Dough divides; each ball rolls to a 10 cm disc; filling sits in the centre; folds in half; edges crimp with a fork. Deep-fries in moderately hot oil 3 minutes per side till deep gold. Drains briefly. Eats hot.
+Dough: flour, salt, butter, warm milk, an egg, kneads to a smooth pliable dough; rests for 30 min. Filling: queso fresco or mozzarella cubes about 1 cm; a sprinkle of oregano. Dough divides; each ball rolls to a 10 cm disc; filling sits in the centre; folds in half; edges crimp with a fork. Deep-fries in moderately hot oil 3 minutes per side till deep gold. Drains briefly. Eats hot.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-The brightest barszcz uses fermented beetroot kvas - beetroot, garlic and rye bread crust steeped in salted water for 24-48 hours - for the sour edge. Faster: simmer roasted beetroot, root vegetables and dried mushroom in vegetable stock with bay, peppercorns and allspice. Strain to clarity; finish with vinegar and a small amount of sugar to balance. Serve hot from a small bowl or mug.
+The brightest barszcz uses fermented beetroot kvas, beetroot, garlic and rye bread crust steeped in salted water for 24-48 hours, for the sour edge. Faster: simmer roasted beetroot, root vegetables and dried mushroom in vegetable stock with bay, peppercorns and allspice. Strain to clarity; finish with vinegar and a small amount of sugar to balance. Serve hot from a small bowl or mug.
 
 ## Ingredients
 

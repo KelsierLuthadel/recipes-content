@@ -10,7 +10,7 @@
 **Cook Time:** 4 hours
 
 ## Overview
-A bone-in lamb shoulder rubs with baharat, dried lime, garlic and yogurt; sits overnight; roasts long and slow until the meat falls from the bone. Saffron rice cooks separately with onion, raisins and toasted nuts. Everything assembles on a wide platter - rice mounded under the lamb, sauce spooned over, almonds and pine nuts scattered.
+A bone-in lamb shoulder rubs with baharat, dried lime, garlic and yogurt; sits overnight; roasts long and slow until the meat falls from the bone. Saffron rice cooks separately with onion, raisins and toasted nuts. Everything assembles on a wide platter, rice mounded under the lamb, sauce spooned over, almonds and pine nuts scattered.
 
 ## Ingredients
 

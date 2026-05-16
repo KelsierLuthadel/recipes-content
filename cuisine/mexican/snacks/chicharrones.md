@@ -10,7 +10,7 @@
 **Total Time:** 1-2 days (drying time, low-temp render, then fry)
 
 ## Overview
-Pork skin (the back-fat skin sold at butchers, or any thick skin from a fresh pork side) is scraped clean of all subcutaneous fat - this is the critical step; remaining fat prevents puffing. The clean skin then dries: either oven-dry at low heat for several hours, or air-dry in the fridge for 1-2 days, until completely brittle and almost translucent. The dried skin is then plunged into hot oil (200°C) where it puffs dramatically in 5-10 seconds into the characteristic crackling clouds. Drained, seasoned with salt and chilli salt, eaten warm. Some Mexican versions add a final spritz of lime juice + chilli powder + Tajín after frying.
+Pork skin (the back-fat skin sold at butchers, or any thick skin from a fresh pork side) is scraped clean of all subcutaneous fat, this is the critical step; remaining fat prevents puffing. The clean skin then dries: either oven-dry at low heat for several hours, or air-dry in the fridge for 1-2 days, until completely brittle and almost translucent. The dried skin is then plunged into hot oil (200°C) where it puffs dramatically in 5-10 seconds into the characteristic crackling clouds. The pork is drained, seasoned with salt and chilli salt, and eaten warm. Some Mexican versions add a final spritz of lime juice + chilli powder + Tajín after frying.
 
 ## Ingredients
 

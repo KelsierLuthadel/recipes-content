@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A whole fish is rubbed with salt, lemon, garlic and olive oil inside and out. While it rests, a sauce of tahini, lemon juice, water, garlic and chopped fresh coriander whisks together - adjusted with more water until the texture of pourable double cream. Diced red onion, Aleppo pepper, cumin and a pinch of cayenne fry briefly in olive oil. The tahini sauce stirs in; warms gently to a velvety consistency. The fish nestles on top in an oven dish; the sauce surrounds it; covered with foil; baked for 20 minutes; uncovered another 5-10 minutes. Topped with toasted pine nuts, pomegranate seeds and extra coriander at the table.
+A whole fish is rubbed with salt, lemon, garlic and olive oil inside and out. While it rests, a sauce of tahini, lemon juice, water, garlic and chopped fresh coriander whisks together, adjusted with more water until the texture of pourable double cream. Diced red onion, Aleppo pepper, cumin and a pinch of cayenne fry briefly in olive oil. The tahini sauce stirs in; warms gently to a velvety consistency. The fish nestles on top in an oven dish; the sauce surrounds it; covered with foil; baked for 20 minutes; uncovered another 5-10 minutes. Topped with toasted pine nuts, pomegranate seeds and extra coriander at the table.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Almond paste: ground almonds, icing sugar, melted butter, cinnamon, orange-flower water - mixes to a soft pliable paste. Rolls into long ropes 1 cm thick. Warka sheets lay flat, almond ropes line one long edge, sheet rolls into a long thin cylinder. Several cylinders form (typically 4-6). Brushes with egg-yolk wash. Starting at the centre of a buttered round tin, the first cylinder coils tightly; subsequent cylinders join end-to-end with a brush of water, continuing the coil outward until the tin is filled. Top brushes with butter; bakes at 180°C 35 minutes till deep gold. Dusts with icing sugar in a crisscross pattern, with lines of cinnamon between.
+Almond paste: ground almonds, icing sugar, melted butter, cinnamon, orange-flower water, mixes to a soft pliable paste. Rolls into long ropes 1 cm thick. Warka sheets lay flat, almond ropes line one long edge, sheet rolls into a long thin cylinder. Several cylinders form (typically 4-6). Brushes with egg-yolk wash. Starting at the centre of a buttered round tin, the first cylinder coils tightly; subsequent cylinders join end-to-end with a brush of water, continuing the coil outward until the tin is filled. Top brushes with butter; bakes at 180°C 35 minutes till deep gold. Dusts with icing sugar in a crisscross pattern, with lines of cinnamon between.
 
 ## Ingredients
 

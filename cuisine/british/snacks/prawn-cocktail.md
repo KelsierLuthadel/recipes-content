@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Marie Rose sauce - mayo, ketchup, Worcestershire, a squeeze of lemon, a splash of brandy if you're feeling decadent - coats cooked king prawns. Piled into glasses or plates over shredded iceberg or little gem; paprika dusts the top; lemon wedge alongside.
+Marie Rose sauce, mayo, ketchup, Worcestershire, a squeeze of lemon, a splash of brandy if you're feeling decadent, coats cooked king prawns. Piled into glasses or plates over shredded iceberg or little gem; paprika dusts the top; lemon wedge alongside.
 
 ## Ingredients
 

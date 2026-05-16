@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Corn tortillas are crisped: either deep-fried in 1 cm of oil at 180°C for 60 seconds per side, OR brushed with oil and baked at 200°C for 8-10 minutes (lower-fat option). Either way, the result is a flat crisp shell. Toppings build in layers: a base smear of refried beans, then a generous spoon of warm chicken tinga (or any seasoned protein), then cold fresh toppings - shredded lettuce, diced tomato, sliced red onion, sliced avocado, crumbled cotija. Crema drizzles over. Pickled jalapeño tops. Eat by hand (two-hand grip required).*
+Corn tortillas are crisped: either deep-fried in 1 cm of oil at 180°C for 60 seconds per side, OR brushed with oil and baked at 200°C for 8-10 minutes (lower-fat option). Either way, the result is a flat crisp shell. Toppings build in layers: a base smear of refried beans, then a generous spoon of warm chicken tinga (or any seasoned protein), then cold fresh toppings, shredded lettuce, diced tomato, sliced red onion, sliced avocado, crumbled cotija. Crema drizzles over. Pickled jalapeño tops. Eat by hand (two-hand grip required).*
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Chicken thighs poach in stock with shallot, garlic, ginger and turmeric for 25 minutes; lifted out and shredded. The stock cooks down with coconut milk, fish sauce and paprika; a slurry of chickpea flour and water thickens it to a silky soup. Yellow egg noodles cook separately. Everything piles into the bowl: noodles, soup, chicken, then heaping garnishes - sliced shallot, crispy fried shallot, boiled egg, lime, cilantro, chilli flakes. The garnishes are half the dish.
+Chicken thighs poach in stock with shallot, garlic, ginger and turmeric for 25 minutes; lifted out and shredded. The stock cooks down with coconut milk, fish sauce and paprika; a slurry of chickpea flour and water thickens it to a silky soup. Yellow egg noodles cook separately. Everything piles into the bowl: noodles, soup, chicken, then heaping garnishes, sliced shallot, crispy fried shallot, boiled egg, lime, cilantro, chilli flakes. The garnishes are half the dish.
 
 ## Ingredients
 

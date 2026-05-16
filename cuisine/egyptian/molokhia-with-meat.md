@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Bone-in chicken or beef simmers in stock 45-60 minutes with cardamom, bay and an onion to make a clear broth. Frozen chopped molokhia (or fresh chopped fine) goes in for the last 20 minutes - barely simmered, never boiled (over-boiling kills the texture). A taqliya of butter, garlic and ground coriander sizzles separately; poured hot into the pot at the end with a dramatic hiss. Serve over rice with lemon and bread.
+Bone-in chicken or beef simmers in stock 45-60 minutes with cardamom, bay and an onion to make a clear broth. Frozen chopped molokhia (or fresh chopped fine) goes in for the last 20 minutes, barely simmered, never boiled (over-boiling kills the texture). A taqliya of butter, garlic and ground coriander sizzles separately; poured hot into the pot at the end with a dramatic hiss. Serve over rice with lemon and bread.
 
 ## Ingredients
 

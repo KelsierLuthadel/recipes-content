@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Maize meal, plain flour, sugar, baking powder and salt are mixed dry; warm water and oil bring it together into a thick batter. The batter is poured into a greased tin, covered tightly with foil, and steamed inside a pot (sitting on a trivet or upturned saucer above water) for an hour. The result is a dense, moist loaf with no crust - more pudding than bread.
+Maize meal, plain flour, sugar, baking powder and salt are mixed dry; warm water and oil bring it together into a thick batter. The batter is poured into a greased tin, covered tightly with foil, and steamed inside a pot (sitting on a trivet or upturned saucer above water) for an hour. The result is a dense, moist loaf with no crust, more pudding than bread.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-A round baking dish (or shallow gratin dish, or 9-inch pie plate) butters and dusts with sugar. Ripe cherries (washed; traditionally stones in - see Notes) scatter in a single layer. A simple batter of eggs, sugar, salt, vanilla, plain flour, whole milk, double cream and a touch of melted butter whisks together (or blender'd) to a smooth thin consistency. Poured over the cherries; sprinkled with a little extra sugar. Baked at 180°C for 35-40 minutes until risen, golden, slightly cracked on the surface, just-set in the centre. Dusted with icing sugar; served warm with a glug of cream.
+A round baking dish (or shallow gratin dish, or 9-inch pie plate) butters and dusts with sugar. Ripe cherries (washed; traditionally stones in, see Notes) scatter in a single layer. A simple batter of eggs, sugar, salt, vanilla, plain flour, whole milk, double cream and a touch of melted butter whisks together (or blender'd) to a smooth thin consistency. Poured over the cherries; sprinkled with a little extra sugar. Baked at 180°C for 35-40 minutes until risen, golden, slightly cracked on the surface, just-set in the centre. Dusted with icing sugar; served warm with a glug of cream.
 
 ## Ingredients
 

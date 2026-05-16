@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Chicken thigh, liver and heart sear hard in a wide pan with onions; spices bloom; everything cooks together until the meat is just done and the onions are deeply caramelised. Stuffed into pita with hummus, salad, tahini, pickles. The signature is the spice blend - cumin, turmeric, paprika, black pepper, cardamom - and the onion-to-meat ratio (a lot of onion).
+Chicken thigh, liver and heart sear hard in a wide pan with onions; spices bloom; everything cooks together until the meat is just done and the onions are deeply caramelised. Stuffed into pita with hummus, salad, tahini, pickles. The signature is the spice blend, cumin, turmeric, paprika, black pepper, cardamom, and the onion-to-meat ratio (a lot of onion).
 
 ## Ingredients
 

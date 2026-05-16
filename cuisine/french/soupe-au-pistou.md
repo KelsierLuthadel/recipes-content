@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-A vegetable soup of cannellini beans, kidney beans, courgette, green beans, tomatoes and small pasta in a herb-scented broth. Pistou - Provençal pesto without nuts - gets pounded fresh in a mortar. Ladled into bowls; a generous spoonful of pistou stirred in just before eating.
+A vegetable soup of cannellini beans, kidney beans, courgette, green beans, tomatoes and small pasta in a herb-scented broth. Pistou, Provençal pesto without nuts, gets pounded fresh in a mortar. Ladled into bowls; a generous spoonful of pistou stirred in just before eating.
 
 ## Ingredients
 

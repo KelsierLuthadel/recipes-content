@@ -10,7 +10,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Napa cabbage quarters and salts in heavy salt water 4 hours; rinses well; drains. A sweet rice-flour porridge cooks briefly and cools. Aromatic paste: garlic, ginger, fish sauce, onion, apple/pear, gochugaru, sugar - pulses smooth, mixes with porridge. Daikon and carrot julienne fine; spring onion slices. Everything tosses with the paste. Cabbage stuffs leaf-by-leaf with the spiced mix. Packs tight in a jar. Ferments at room temperature 1-3 days, then refrigerates.
+Napa cabbage quarters and salts in heavy salt water 4 hours; rinses well; drains. A sweet rice-flour porridge cooks briefly and cools. Aromatic paste: garlic, ginger, fish sauce, onion, apple/pear, gochugaru, sugar, pulses smooth, mixes with porridge. Daikon and carrot julienne fine; spring onion slices. Everything tosses with the paste. Cabbage stuffs leaf-by-leaf with the spiced mix. Packs tight in a jar. Ferments at room temperature 1-3 days, then refrigerates.
 
 ## Ingredients
 

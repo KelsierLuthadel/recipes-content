@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Beef parboils briefly with stock cube and onion to make a quick stock. Smoked fish soaks in hot water and is flaked. Fresh okra is chopped very fine (or grated). Palm oil heats; chopped onion, garlic and Scotch bonnet pepper soften. Stock and meat go in; simmers for 5 minutes. Smoked fish, ground crayfish and iru join. Salt to season. Then the okra goes in and cooks just 5 minutes - barely - to keep the bright green colour and the unmistakable slippery thickness. Served over rice or with fufu.
+Beef parboils briefly with stock cube and onion to make a quick stock. Smoked fish soaks in hot water and is flaked. Fresh okra is chopped very fine (or grated). Palm oil heats; chopped onion, garlic and Scotch bonnet pepper soften. Stock and meat go in; simmers for 5 minutes. Smoked fish, ground crayfish and iru join. Salt to season. Then the okra goes in and cooks just 5 minutes, barely, to keep the bright green colour and the unmistakable slippery thickness. Served over rice or with fufu.
 
 ## Ingredients
 

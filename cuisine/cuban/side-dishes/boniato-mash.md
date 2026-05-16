@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Boniato is peeled, cubed and simmered in salted water until completely tender. Drained, returned to the warm pot to steam-dry, then mashed with butter, warmed garlic-infused olive oil, sour orange juice (or a lime-and-orange substitute), salt and pepper. The texture should be soft and spoonable, not stiff. Sour orange is the signature; without it the mash tastes flat.
+Boniato is peeled, cubed and simmered in salted water until completely tender. Once drained, the boniato is returned to the warm pot to steam-dry, then mashed with butter, warmed garlic-infused olive oil, sour orange juice (or a lime-and-orange substitute), salt and pepper. The texture should be soft and spoonable, not stiff. Sour orange is the signature; without it the mash tastes flat.
 
 ## Ingredients
 

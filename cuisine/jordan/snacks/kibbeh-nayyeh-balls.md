@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A fine-bulgur-and-lean-mince dough is blitzed smooth with onion, baharat, salt and a touch of ice water. Cold mince-with-fat (the filling) sautées with onion, baharat, allspice, cinnamon, and toasted pine nuts; cools. The kibbeh dough divides; each piece is wet-handled into a small football shape, hollowed with a finger, filled with the cool spiced mince, sealed and re-shaped into an oval. Deep-fried 175°C for 3-4 minutes until amber. Drained; served warm with lemon and a yogurt-mint sauce. The shape is the test: thin walls, plump bellies, pointed tips.
+A fine-bulgur-and-lean-mince dough is blitzed smooth with onion, baharat, salt and a touch of ice water. Cold mince-with-fat (the filling) sautées with onion, baharat, allspice, cinnamon, and toasted pine nuts; cools. The kibbeh dough divides; each piece is wet-handled into a small football shape, hollowed with a finger, filled with the cool spiced mince, sealed and re-shaped into an oval. Deep-fried 175°C for 3-4 minutes until amber. Drained and served warm with lemon and a yogurt-mint sauce. The shape is the test: thin walls, plump bellies, pointed tips.
 
 ## Ingredients
 

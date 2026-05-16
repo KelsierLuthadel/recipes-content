@@ -10,7 +10,7 @@
 **Cook Time:** 2 hours (or 45 min pressure cooker)
 
 ## Overview
-Dried pinto beans soak overnight (or quick-soak: 1 hour after boiling). They simmer slowly with halved onion, garlic, bay leaves and a pork bone (or salt + epazote leaves) until very tender - about 1 ½ hours stovetop, 30 min pressure cooker. The cooking liquid is reserved. Lard (or bacon fat, or oil - but lard is traditional) melts in a wide pan; diced onion fries to deep gold; the cooked beans go in by spoon, with a ladle of cooking liquid. Mashed with a potato masher to a chunky paste (or pureed smooth, depending on preference). Cooked another 10-12 minutes, stirring, until the beans thicken and develop a slight crust at the edges of the pan. Cumin and salt to season. Topped with crumbled cotija or queso fresco, chopped coriander, sliced jalapeño.
+Dried pinto beans soak overnight (or quick-soak: 1 hour after boiling). They simmer slowly with halved onion, garlic, bay leaves and a pork bone (or salt + epazote leaves) until very tender, about 1 ½ hours stovetop, 30 min pressure cooker. The cooking liquid is reserved. Lard (or bacon fat, or oil, but lard is traditional) melts in a wide pan; diced onion fries to deep gold; the cooked beans go in by spoon, with a ladle of cooking liquid. Mashed with a potato masher to a chunky paste (or pureed smooth, depending on preference). Cooked another 10-12 minutes, stirring, until the beans thicken and develop a slight crust at the edges of the pan. Cumin and salt to season. Topped with crumbled cotija or queso fresco, chopped coriander, sliced jalapeño.
 
 ## Ingredients
 

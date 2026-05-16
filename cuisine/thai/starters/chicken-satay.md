@@ -13,7 +13,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-I’m a big fan of Thai chicken satay with peanut sauce. Although it isn’t necessary, it is best to marinate the chicken for at least a day. You could get away with 30 minutes but a longer marinating time will get you much tastier results. As the chicken soaks up that incredible marinade, it not only tenderizes it but makes it much juicier when cooked. This recipe could be used with thinly sliced pork or beef - both are also popular at Thai restaurants and takeaways. Pork is the meat of choice in Thailand but chicken is the most popular in the UK. I also like to serve this dish with cucumber and chilli relish.
+I’m a big fan of Thai chicken satay with peanut sauce. Although it isn’t necessary, it is best to marinate the chicken for at least a day. You could get away with 30 minutes but a longer marinating time will get you much tastier results. As the chicken soaks up that incredible marinade, it not only tenderizes it but makes it much juicier when cooked. This recipe could be used with thinly sliced pork or beef, both are also popular at Thai restaurants and takeaways. Pork is the meat of choice in Thailand but chicken is the most popular in the UK. I also like to serve this dish with cucumber and chilli relish.
 
 ## Ingredients
 ### Protein

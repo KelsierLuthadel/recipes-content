@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Three components assemble at service. (1) Niku miso: ground pork stir-fries with garlic, ginger, doubanjiang and miso, then sweetened with sugar and finished with sesame oil. (2) Tare (concentrated seasoning paste): white sesame paste (tahini), soy sauce, rice vinegar, chilli oil, miso paste, garlic — whisked together. (3) Hot soup: chicken stock with a touch more sesame paste and chilli oil swirled in. Ramen noodles cook separately. Bowls layered: tare in the bottom, hot soup ladled over, cooked noodles, mound of niku miso, blanched bok choy, soft-boiled marinated egg, scallions, extra chilli oil.
+Three components assemble at service. (1) Niku miso: ground pork stir-fries with garlic, ginger, doubanjiang and miso, then sweetened with sugar and finished with sesame oil. (2) Tare (concentrated seasoning paste): white sesame paste (tahini), soy sauce, rice vinegar, chilli oil, miso paste, garlic, whisked together. (3) Hot soup: chicken stock with a touch more sesame paste and chilli oil swirled in. Ramen noodles cook separately. Bowls layered: tare in the bottom, hot soup ladled over, cooked noodles, mound of niku miso, blanched bok choy, soft-boiled marinated egg, scallions, extra chilli oil.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Raw shrimp marinate briefly in buttermilk and hot sauce; dredge in seasoned flour and cornmeal mix; deep-fry at 180°C until deep gold and crisp (2-3 minutes - shrimp cook fast). Long French rolls split lengthways; toasted on the cut side; slathered with mayo and Creole mustard; piled with shrimp, lettuce, tomato, pickles. Wrap halfway in paper; eat.
+Raw shrimp marinate briefly in buttermilk and hot sauce; dredge in seasoned flour and cornmeal mix; deep-fry at 180°C until deep gold and crisp (2-3 minutes, shrimp cook fast). Long French rolls split lengthways; toasted on the cut side; slathered with mayo and Creole mustard; piled with shrimp, lettuce, tomato, pickles. Wrap halfway in paper; eat.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Rice cooks slowly in lots of water until tender and mashable. Sugar dissolves with bloomed saffron; the lot simmers until thick - like loose porridge. Rosewater and a knob of butter join near the end; the pudding pours into shallow dishes to set. Cinnamon dust and pistachio patterns top each serving.
+Rice cooks slowly in lots of water until tender and mashable. Sugar dissolves with bloomed saffron; the lot simmers until thick, like loose porridge. Rosewater and a knob of butter join near the end; the pudding pours into shallow dishes to set. Cinnamon dust and pistachio patterns top each serving.
 
 ## Ingredients
 

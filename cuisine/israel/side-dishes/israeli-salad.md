@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Vegetables are diced into uniform 5 mm cubes - knife work matters. Lemon juice, olive oil and salt are the only dressing; sometimes a teaspoon of sumac or a clove of crushed garlic. Eaten freshly made; doesn't keep - the cucumbers weep.
+Vegetables are diced into uniform 5 mm cubes, knife work matters. Lemon juice, olive oil and salt are the only dressing; sometimes a teaspoon of sumac or a clove of crushed garlic. Eaten freshly made; doesn't keep, the cucumbers weep.
 
 ## Ingredients
 

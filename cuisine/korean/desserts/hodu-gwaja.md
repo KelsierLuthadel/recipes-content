@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A simple cake-style batter - flour, eggs, milk, sugar, butter - is whisked to a smooth pourable consistency. Filling: sweet red bean paste (pat) is rolled into 12 small balls; each ball receives a walnut half pressed into its centre. Baked in a walnut-mould pan (12-cavity, sometimes called "Korean walnut pan" or use a 12-cup muffin tin lined with paper) - the batter goes in half-full, the filling sits on top, more batter is added over. Baked for 12-15 minutes at 180°C; tapped out of moulds; cooled.
+A simple cake-style batter, flour, eggs, milk, sugar, butter, is whisked to a smooth pourable consistency. Filling: sweet red bean paste (pat) is rolled into 12 small balls; each ball receives a walnut half pressed into its centre. Baked in a walnut-mould pan (12-cavity, sometimes called "Korean walnut pan" or use a 12-cup muffin tin lined with paper), the batter goes in half-full, the filling sits on top, more batter is added over. Baked for 12-15 minutes at 180°C; tapped out of moulds; cooled.
 
 ## Ingredients
 

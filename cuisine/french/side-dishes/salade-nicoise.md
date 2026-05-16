@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Eggs hard-boil; cool; peel; quarter. New potatoes simmer in salted water until tender; drain; halve while warm; toss with a spoon of vinegar. Green beans blanch briefly; cool. Tomatoes wedge (the best you can find). The dressing: red wine vinegar, olive oil, Dijon mustard, crushed garlic, salt and pepper whisks together. Composition on a wide platter: a base of lettuce leaves (optional, traditional purists skip), then arranged piles of each cooked / prepared ingredient - wedges of tomato, halved eggs, halved potatoes, green beans, drained tuna chunks, niçoise olives, anchovy fillets. Drizzled with the dressing. Scattered with basil. Eaten with crusty bread.
+Eggs hard-boil; cool; peel; quarter. New potatoes simmer in salted water until tender; drain; halve while warm; toss with a spoon of vinegar. Green beans blanch briefly; cool. Tomatoes wedge (the best you can find). The dressing: red wine vinegar, olive oil, Dijon mustard, crushed garlic, salt and pepper whisks together. Composition on a wide platter: a base of lettuce leaves (optional, traditional purists skip), then arranged piles of each cooked / prepared ingredient, wedges of tomato, halved eggs, halved potatoes, green beans, drained tuna chunks, niçoise olives, anchovy fillets. Drizzled with the dressing. Scattered with basil. Eaten with crusty bread.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Dried chickpeas soak overnight - do NOT cook them. Blitz with onion, garlic, herbs and spices to a coarse green paste. Rest for 1 hour. A pinch of baking powder mixes in just before frying. Shape into balls; deep-fry at 175°C 4 minutes until darkly crusted. Stuffed into pita with hummus, tahina, salata, pickles.
+Dried chickpeas soak overnight, do not cook them. Blitz with onion, garlic, herbs and spices to a coarse green paste. Rest for 1 hour. A pinch of baking powder mixes in just before frying. Shape into balls; deep-fry at 175°C 4 minutes until darkly crusted. Stuffed into pita with hummus, tahina, salata, pickles.
 
 ## Ingredients
 

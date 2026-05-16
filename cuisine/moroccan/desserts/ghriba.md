@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Ground almonds, icing sugar, salt mix together. Beaten eggs, orange-flower water and a touch of melted butter bind. Dough chills for 30 minutes (the egg sets up; the dough firms enough to handle). Rolls into walnut-sized balls; each ball coats heavily in icing sugar (no half measures); places on a parchment-lined tray. Bakes at 170°C 12-15 minutes - the bake is gentle; ghriba shouldn't brown, just dry and crack on top.
+Ground almonds, icing sugar, salt mix together. Beaten eggs, orange-flower water and a touch of melted butter bind. Dough chills for 30 minutes (the egg sets up; the dough firms enough to handle). Rolls into walnut-sized balls; each ball coats heavily in icing sugar (no half measures); places on a parchment-lined tray. Bakes at 170°C 12-15 minutes, the bake is gentle; ghriba shouldn't brown, just dry and crack on top.
 
 ## Ingredients
 - 500 g ground almonds

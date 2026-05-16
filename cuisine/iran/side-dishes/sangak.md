@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A wholemeal-heavy dough (70% wholemeal, 30% white) with a long ferment - 3-4 hours room temp or overnight in the fridge. Stretches into a 40-50 cm long oval, ~5 mm thick. Pressed onto a hot baking tray scattered with small smooth pebbles (or stones from the garden, well-washed). Baked at maximum heat 6-8 minutes - the dough conforms to the pebbles, giving the dimpled bottom that defines sangak.
+A wholemeal-heavy dough (70% wholemeal, 30% white) with a long ferment, 3-4 hours room temp or overnight in the fridge. Stretches into a 40-50 cm long oval, ~5 mm thick. Pressed onto a hot baking tray scattered with small smooth pebbles (or stones from the garden, well-washed). Baked at maximum heat 6-8 minutes, the dough conforms to the pebbles, giving the dimpled bottom that defines sangak.
 
 ## Ingredients
 

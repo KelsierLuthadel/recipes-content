@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Corn kernels - fresh in season, frozen the rest of the year - are charred in a hot dry pan with a bit of oil until many kernels are blackened. Off the heat: mayo, sour cream, lime, garlic, chilli powder and cheese are folded through. Coriander and more cheese top each bowl.
+Corn kernels, fresh in season, frozen the rest of the year, are charred in a hot dry pan with a bit of oil until many kernels are blackened. Off the heat: mayo, sour cream, lime, garlic, chilli powder and cheese are folded through. Coriander and more cheese top each bowl.
 
 ## Ingredients
 

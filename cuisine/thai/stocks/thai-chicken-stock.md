@@ -13,7 +13,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-When making stocks for Asian dishes, it is important to use Asian ingredients. Chicken stock is used as a base for dishes in so many cuisines. Using a Western-style chicken stock or - even worse - chicken stock cubes to cook Thai recipes just won’t do, as the flavours will be wrong. This simple Thai stock will get you the flavour you need for your Thai dishes.
+When making stocks for Asian dishes, it is important to use Asian ingredients. Chicken stock is used as a base for dishes in so many cuisines. Using a Western-style chicken stock or, even worse, chicken stock cubes to cook Thai recipes just won’t do, as the flavours will be wrong. This simple Thai stock will get you the flavour you need for your Thai dishes.
 
 ## Ingredients
 ### Protein

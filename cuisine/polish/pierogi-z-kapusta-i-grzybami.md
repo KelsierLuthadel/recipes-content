@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Dried wild mushrooms (porcini if you can get them) rehydrate; sauerkraut squeezes dry. Both cook down with onion in butter until reduced and intense. The dough is plain - flour, egg, water, salt, oil - kneaded smooth and rested. Each circle gets a teaspoon of filling, folds, seals. Boiled until they float, then often pan-finished in butter with onions and a spoonful of soured cream on the side.
+Dried wild mushrooms (porcini if you can get them) rehydrate; sauerkraut squeezes dry. Both cook down with onion in butter until reduced and intense. The dough is plain, flour, egg, water, salt, oil, kneaded smooth and rested. Each circle gets a teaspoon of filling, folds, seals. Boiled until they float, then often pan-finished in butter with onions and a spoonful of soured cream on the side.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Rice flour, turmeric, coconut milk and water make a thin yellow batter. Filling vegetables - mushrooms, sliced onion, tofu - are sautéed in a hot pan; the batter is poured over to form a thin pancake; beansprouts pile in last; the lot is folded in half and slides out crisp. Pieces are wrapped in lettuce with herbs and dipped in nuoc cham.
+Rice flour, turmeric, coconut milk and water make a thin yellow batter. Filling vegetables, mushrooms, sliced onion, tofu, are sautéed in a hot pan; the batter is poured over to form a thin pancake; beansprouts pile in last; the lot is folded in half and slides out crisp. Pieces are wrapped in lettuce with herbs and dipped in nuoc cham.
 
 ## Ingredients
 

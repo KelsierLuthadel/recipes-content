@@ -10,7 +10,7 @@
 **Cook Time:** 6 hours (or 45 minutes pressure-cooked)
 
 ## Overview
-Dried fava beans soak overnight, then simmer with a chickpea or two and a garlic clove for 6 hours (low and slow), or pressure-cook for 45 minutes. The beans should be very soft, almost falling apart. Drained, returned to the pot, fried briefly with garlic, olive oil, cumin and chilli; crushed roughly with a fork; finished with lemon and parsley.
+Dried fava beans soak overnight, then simmer with a chickpea or two and a garlic clove for 6 hours (low and slow), or pressure-cook for 45 minutes. The beans should be very soft, almost falling apart. Once drained, the beans are returned to the pot and fried briefly with garlic, olive oil, cumin and chilli; crushed roughly with a fork; finished with lemon and parsley.
 
 ## Ingredients
 

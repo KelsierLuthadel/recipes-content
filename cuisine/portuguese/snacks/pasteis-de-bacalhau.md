@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Salt cod (bacalhau) desalts in cold water for 24-36 hours with multiple water changes - this step is non-negotiable and starts a day before. After desalting, the cod simmers gently in water for 8-10 minutes; cooled; flaked finely with fingers (removing all bones and skin). Floury potatoes boil in their skins, peel hot, mash dry. Onion sweats in olive oil; cooled. Everything mixes in a wide bowl with parsley, beaten eggs, white pepper. Shaped between two soup spoons into the iconic three-sided "quenelle" shape (or rolled into walnut-sized balls). Deep-fried at 175°C for 3-4 minutes until amber-gold. Drained; eaten warm.
+Salt cod (bacalhau) desalts in cold water for 24-36 hours with multiple water changes, this step is non-negotiable and starts a day before. After desalting, the cod simmers gently in water for 8-10 minutes; cooled; flaked finely with fingers (removing all bones and skin). Floury potatoes boil in their skins, peel hot, mash dry. Onion sweats in olive oil; cooled. Everything mixes in a wide bowl with parsley, beaten eggs, white pepper. Shaped between two soup spoons into the iconic three-sided "quenelle" shape (or rolled into walnut-sized balls). Deep-fried at 175°C for 3-4 minutes until amber-gold. Drained and eaten warm.
 
 ## Ingredients
 

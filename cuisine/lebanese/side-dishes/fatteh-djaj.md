@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Chicken poaches with onion, cardamom and bay 35 minutes; shredded off the bone. Chickpeas warm in the strained chicken stock. Pita pieces toast crisp under the grill. Yogurt-tahini-garlic sauce whisks together. Plated: pita on the bottom, chickpeas and chicken on top, yogurt sauce poured over, taqliya (butter + cumin + sliced garlic sizzled hot) drizzled on top, pine nuts scattered.
+Chicken poaches with onion, cardamom and bay 35 minutes; shredded off the bone. Chickpeas warm in the strained chicken stock. Pita pieces toast crisp under the grill. Yogurt-tahini-garlic sauce whisks together. Plated with pita on the bottom, chickpeas and chicken on top, yogurt sauce poured over, taqliya (butter, cumin and sliced garlic sizzled hot) drizzled on top, and pine nuts scattered.
 
 ## Ingredients
 

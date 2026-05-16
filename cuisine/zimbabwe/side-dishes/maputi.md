@@ -10,7 +10,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Dried white maize kernels (the same ones that grind into mealie meal) are heated in a heavy dry pan over medium heat. They crackle, jump and split open - some puff slightly, others stay whole and toasted. A pinch of oil keeps things moving; salt finishes. Faster than popcorn, denser, less puffy, more savoury.
+Dried white maize kernels (the same ones that grind into mealie meal) are heated in a heavy dry pan over medium heat. They crackle, jump and split open, some puff slightly, others stay whole and toasted. A pinch of oil keeps things moving; salt finishes. Faster than popcorn, denser, less puffy, more savoury.
 
 ## Ingredients
 

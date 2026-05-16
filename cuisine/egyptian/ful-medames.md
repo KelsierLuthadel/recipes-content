@@ -10,7 +10,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Whole dried fava beans soak overnight, then simmer slowly until the skins soften and the beans are completely tender - they'll break down on the edges, stay whole at the heart. Garlic, lemon, cumin and salt mash through; a generous pour of olive oil at the end. Tomato, onion, parsley and a hard-boiled egg or two on top.
+Whole dried fava beans soak overnight, then simmer slowly until the skins soften and the beans are completely tender, they'll break down on the edges, stay whole at the heart. Garlic, lemon, cumin and salt mash through; a generous pour of olive oil at the end. Tomato, onion, parsley and a hard-boiled egg or two on top.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Fresh grated coconut (or rehydrated desiccated coconut) is mashed with dried red chillies, salt and lime juice in a mortar - or pulsed briefly in a small food processor. Red onion, Maldive fish flakes and curry leaves are folded through. The mixture stays moist; the chillies soak in and turn the sambol deep red.
+Fresh grated coconut (or rehydrated desiccated coconut) is mashed with dried red chillies, salt and lime juice in a mortar, or pulsed briefly in a small food processor. Red onion, Maldive fish flakes and curry leaves are folded through. The mixture stays moist; the chillies soak in and turn the sambol deep red.
 
 ## Ingredients
 

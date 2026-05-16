@@ -10,7 +10,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Chicken poaches with onion, garlic and herbs into a clean, golden broth. The first potato (sabanera, or floury maris piper) drops in to start; the small yellow papa criolla follows to break down and thicken; pastusa or red potatoes go in last to hold shape. Cobs of sweet corn cook in the same pot. Guascas - the dish's signature herb - adds at the very end. Each bowl tops with shredded chicken, avocado, capers and a generous spoon of cream; rice on the side.
+Chicken poaches with onion, garlic and herbs into a clean, golden broth. The first potato (sabanera, or floury maris piper) drops in to start; the small yellow papa criolla follows to break down and thicken; pastusa or red potatoes go in last to hold shape. Cobs of sweet corn cook in the same pot. Guascas, the dish's signature herb, adds at the very end. Each bowl tops with shredded chicken, avocado, capers and a generous spoon of cream; rice on the side.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Tomatoes, cucumber and red onion dice to 5 mm cubes. Herbs chop fine. Everything tosses together with olive oil, lemon juice and salt 15 minutes before serving so the salt draws juice and the tomatoes start to relax. Best the same day - the salad weeps if held overnight.
+Tomatoes, cucumber and red onion dice to 5 mm cubes. Herbs chop fine. Everything tosses together with olive oil, lemon juice and salt 15 minutes before serving so the salt draws juice and the tomatoes start to relax. Best the same day, the salad weeps if held overnight.
 
 ## Ingredients
 - 4 ripe medium tomatoes (about 500 g, ideally a mix of red and yellow)

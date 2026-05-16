@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Andouille sausage - the heavily smoked, garlicky, Cajun pork sausage - is cut into thick coins, threaded onto pre-soaked wooden skewers (or metal) with red and green pepper, red onion and a few halved cherry tomatoes. Brushed with a quick Cajun glaze (melted butter, garlic, brown sugar, hot sauce, Cajun seasoning) and grilled over high heat until the sausage is shiny and the vegetables are softened with char.
+Andouille sausage, the heavily smoked, garlicky, Cajun pork sausage, is cut into thick coins, threaded onto pre-soaked wooden skewers (or metal) with red and green pepper, red onion and a few halved cherry tomatoes. Brushed with a quick Cajun glaze (melted butter, garlic, brown sugar, hot sauce, Cajun seasoning) and grilled over high heat until the sausage is shiny and the vegetables are softened with char.
 
 ## Ingredients
 

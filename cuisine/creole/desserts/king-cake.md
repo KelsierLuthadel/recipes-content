@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A rich enriched dough - flour, yeast, butter, milk, eggs, sugar - rises for 1 hour. Cinnamon filling: brown sugar, butter, cinnamon. Dough rolls into a large rectangle 40 × 25 cm; filling spreads across; rolls up like a Swiss roll; bends into an oval ring; ends pinch together. Rises for 45 minutes; bakes for 25 min. While warm, icing of icing sugar, milk, vanilla drizzles over. Coloured sugar (purple, green, gold) dusts in alternating bands. A small plastic baby (or a dried bean) hides inside the slice before serving.
+A rich enriched dough, flour, yeast, butter, milk, eggs, sugar, rises for 1 hour. Cinnamon filling: brown sugar, butter, cinnamon. Dough rolls into a large rectangle 40 × 25 cm; filling spreads across; rolls up like a Swiss roll; bends into an oval ring; ends pinch together. Rises for 45 minutes; bakes for 25 min. While warm, icing of icing sugar, milk, vanilla drizzles over. Coloured sugar (purple, green, gold) dusts in alternating bands. A small plastic baby (or a dried bean) hides inside the slice before serving.
 
 ## Ingredients
 

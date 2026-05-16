@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Green plantains peel - the trick is scoring lengthways down the ridges and then prying the skin off in strips (very different from a banana). The peeled plantain slices on a mandoline or with a sharp knife into 2 mm rounds. Fries in hot oil (180°C) 2-3 minutes till deep gold and crisp. Drains; salts while hot. Optional: tosses with chilli powder.
+Green plantains peel, the trick is scoring lengthways down the ridges and then prying the skin off in strips (very different from a banana). The peeled plantain slices on a mandoline or with a sharp knife into 2 mm rounds. Fries in hot oil (180°C) 2-3 minutes till deep gold and crisp. Drains; salts while hot. Optional: tosses with chilli powder.
 
 ## Ingredients
 - 4 green (unripe) plantains

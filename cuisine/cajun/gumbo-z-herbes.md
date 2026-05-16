@@ -10,7 +10,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-A dark roux is built first - flour cooked in oil to peanut-butter brown. The Cajun trinity (onion, celery, pepper) joins; greens - finely chopped - pile in with stock and simmer for 45 minutes until they're meltingly soft and the broth has darkened. Hot sauce, file powder and rice finish the bowl.
+A dark roux is built first, flour cooked in oil to peanut-butter brown. The Cajun trinity (onion, celery, pepper) joins; greens, finely chopped, pile in with stock and simmer for 45 minutes until they're meltingly soft and the broth has darkened. Hot sauce, file powder and rice finish the bowl.
 
 ## Ingredients
 

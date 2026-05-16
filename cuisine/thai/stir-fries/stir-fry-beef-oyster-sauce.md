@@ -13,7 +13,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-On Thai menus this is often called ‘pad nam mun hoy’, which means fried with oyster sauce. There are many versions of Thai oyster sauce curries, but this beef version is right up there when it comes to popularity. Stir-fried beef in oyster sauce usually also comes served with mushrooms and my favourite variety for this recipe are straw mushrooms, but you could use any type you can find - wild mushrooms work really well. Serve with a hot bowl of jasmine rice.
+On Thai menus this is often called ‘pad nam mun hoy’, which means fried with oyster sauce. There are many versions of Thai oyster sauce curries, but this beef version is right up there when it comes to popularity. Stir-fried beef in oyster sauce usually also comes served with mushrooms and my favourite variety for this recipe are straw mushrooms, but you could use any type you can find, wild mushrooms work really well. Serve with a hot bowl of jasmine rice.
 
 ## Ingredients
 

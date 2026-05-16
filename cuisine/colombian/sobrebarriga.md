@@ -10,7 +10,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Whole flank (or skirt) simmers in stock with aromatics 2 hours until tender enough to push apart with a fork but still holding shape. Cooled. The cooking liquid reduces with sofrito (onion, tomato, garlic) and a splash of beer into a thick gravy. The meat lifts onto a tray, gets brushed with the gravy, then grills under high heat 5-7 minutes until the surface caramelises dark and crackly. Slice; ladle gravy over.
+Whole flank (or skirt) simmers in stock with aromatics 2 hours until tender enough to push apart with a fork but still holding shape. Left to cool. The cooking liquid reduces with sofrito (onion, tomato, garlic) and a splash of beer into a thick gravy. The meat lifts onto a tray, gets brushed with the gravy, then grills under high heat 5-7 minutes until the surface caramelises dark and crackly. Slice; ladle gravy over.
 
 ## Ingredients
 

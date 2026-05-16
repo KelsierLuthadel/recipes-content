@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A yeast-leavened, fat-rich dough rests cold so the fat stays solid in flaky layers. Rolled, folded and rolled again like a rough puff pastry, it's cut into rounds, scored, brushed with egg and baked at high heat until golden and crisp on the outside, tender inside. Cheese is added by folding grated cheese into the dough and showering more on top.
+A yeast-leavened, fat-rich dough rests cold so the fat stays solid in flaky layers. The dough is rolled, folded and rolled again like a rough puff pastry, then cut into rounds, scored, brushed with egg and baked at high heat until golden and crisp on the outside, tender inside. Cheese is added by folding grated cheese into the dough and showering more on top.
 
 ## Ingredients
 

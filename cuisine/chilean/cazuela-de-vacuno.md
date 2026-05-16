@@ -10,7 +10,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Beef shin browns; cooks in a simple broth of onion, garlic, oregano and cumin for 90 minutes until tender. Vegetables (pumpkin, corn, potato, green beans) go in for the last 25 minutes - each chunk kept whole, served in the bowl. Rice or vermicelli cooks separately in some broth and goes in last. Heart attack of comfort.
+Beef shin browns; cooks in a simple broth of onion, garlic, oregano and cumin for 90 minutes until tender. Vegetables (pumpkin, corn, potato, green beans) go in for the last 25 minutes, each chunk kept whole, served in the bowl. Rice or vermicelli cooks separately in some broth and goes in last. Heart attack of comfort.
 
 ## Ingredients
 

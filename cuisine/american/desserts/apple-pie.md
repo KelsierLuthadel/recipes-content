@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-All-butter pie pastry rests in two discs. The filling - a mix of apples (Bramleys for tartness and break-down, Granny Smith and Braeburn for hold), brown sugar, cinnamon, lemon, cornflour - pre-cooks slightly to release water and keep the crust from going soggy. Bottom crust lines a pie dish; filling piles in tall (it sinks); top crust seals on, vented. Egg-washed and sugar-dusted; baked until deep gold.
+All-butter pie pastry rests in two discs. The filling, a mix of apples (Bramleys for tartness and break-down, Granny Smith and Braeburn for hold), brown sugar, cinnamon, lemon, cornflour, pre-cooks slightly to release water and keep the crust from going soggy. Bottom crust lines a pie dish; filling piles in tall (it sinks); top crust seals on, vented. Egg-washed and sugar-dusted; baked until deep gold.
 
 ## Ingredients
 

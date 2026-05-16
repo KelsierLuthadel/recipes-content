@@ -10,7 +10,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Dried marrowfat peas soak overnight in cold water with bicarbonate of soda (the soda softens the skins; without it the peas stay tough). Drained, rinsed, then simmered slowly in fresh water with a pinch of salt until they break down into a thick green porridge - about 40 minutes. A teaspoon of butter, a pinch more salt and (optionally) a small spoon of mint sauce or chopped fresh mint stir through at the end. Eaten warm. Some chip-shop versions add a teaspoon of sugar; some Yorkshire households add a splash of malt vinegar at the table.
+Dried marrowfat peas soak overnight in cold water with bicarbonate of soda (the soda softens the skins; without it the peas stay tough). The peas are drained, rinsed, then simmered slowly in fresh water with a pinch of salt until they break down into a thick green porridge, about 40 minutes. A teaspoon of butter, a pinch more salt and (optionally) a small spoon of mint sauce or chopped fresh mint stir through at the end. Eaten warm. Some chip-shop versions add a teaspoon of sugar; some Yorkshire households add a splash of malt vinegar at the table.
 
 ## Ingredients
 

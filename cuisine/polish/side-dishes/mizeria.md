@@ -11,7 +11,7 @@
 **Cook Time:** none
 
 ## Overview
-Cucumber slices very thin, salts for 20 minutes to draw out water, then squeezes dry. The squeeze is the technique - without it, the dressing ends up a watery puddle. The drained cucumber tosses with sour cream, lemon juice or white vinegar, plenty of fresh dill, a little sugar and pepper. Eats cold, on the day.
+Cucumber slices very thin, salts for 20 minutes to draw out water, then squeezes dry. The squeeze is the technique, without it, the dressing ends up a watery puddle. The drained cucumber tosses with sour cream, lemon juice or white vinegar, plenty of fresh dill, a little sugar and pepper. Eats cold, on the day.
 
 ## Ingredients
 

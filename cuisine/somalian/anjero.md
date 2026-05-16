@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A simple batter of plain flour, semolina, yeast and warm water is left to ferment overnight; this gives anjero its characteristic sourness and the bubbles that make the texture. The next day, batter ladles onto a hot pan and cooks just on one side - the bottom turns golden, the top sets with a lattice of bubble-craters. Stack between cloths to steam soft.
+A simple batter of plain flour, semolina, yeast and warm water is left to ferment overnight; this gives anjero its characteristic sourness and the bubbles that make the texture. The next day, batter ladles onto a hot pan and cooks just on one side, the bottom turns golden, the top sets with a lattice of bubble-craters. Stack between cloths to steam soft.
 
 ## Ingredients
 

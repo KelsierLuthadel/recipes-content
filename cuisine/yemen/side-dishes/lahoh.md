@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Plain flour, semolina, yeast, water and salt are whisked to a loose pancake batter; left to ferment 8 hours (or overnight). The batter goes onto a hot, lightly oiled pan; bubbles burst across the surface within 90 seconds; it's cooked one side only - no flipping. The top stays creamy white; the bottom turns pale gold. Pulled off the pan with a spatula, stacked, kept warm.
+Plain flour, semolina, yeast, water and salt are whisked to a loose pancake batter; left to ferment 8 hours (or overnight). The batter goes onto a hot, lightly oiled pan; bubbles burst across the surface within 90 seconds; it's cooked one side only, no flipping. The top stays creamy white; the bottom turns pale gold. Pulled off the pan with a spatula, stacked, kept warm.
 
 ## Ingredients
 

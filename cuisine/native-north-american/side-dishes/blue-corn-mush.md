@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Cold water and a pinch of baking soda (standing in for juniper ash - the ash's alkali helps the corn release niacin and keeps the colour blue rather than grey) come to a simmer. Blue cornmeal whisks in steadily as the heat continues. The mush thickens over 10 minutes of stirring; salt seasons; it cooks another 3 minutes to lose any raw-flour edge. Served in bowls with honey or maple, toasted piñon nuts (or pumpkin seeds), dried cranberries or blueberries, and a splash of cream.
+Cold water and a pinch of baking soda (standing in for juniper ash, the ash's alkali helps the corn release niacin and keeps the colour blue rather than grey) come to a simmer. Blue cornmeal whisks in steadily as the heat continues. The mush thickens over 10 minutes of stirring; salt seasons; it cooks another 3 minutes to lose any raw-flour edge. Served in bowls with honey or maple, toasted piñon nuts (or pumpkin seeds), dried cranberries or blueberries, and a splash of cream.
 
 ## Ingredients
 

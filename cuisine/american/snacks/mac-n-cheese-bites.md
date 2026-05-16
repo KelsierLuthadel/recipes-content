@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes (in batches)
 
 ## Overview
-Make a stiff mac-and-cheese - sharp cheddar, parmesan, a touch of mustard, just enough béchamel to bind, no more. Spread in a parchment-lined 20×20 cm tin; level; chill 4+ hours till firm. Lift out; cut into 3 cm cubes. Each cube dips in flour → egg → seasoned panko. Deep-fries for 2-3 minutes at 175°C until amber-gold. Drains briefly. Eats hot with ranch or chipotle mayo.
+Make a stiff mac-and-cheese, sharp cheddar, parmesan, a touch of mustard, just enough béchamel to bind, no more. Spread in a parchment-lined 20×20 cm tin; level; chill 4+ hours till firm. Lift out; cut into 3 cm cubes. Each cube dips in flour → egg → seasoned panko. Deep-fries for 2-3 minutes at 175°C until amber-gold. Drains briefly. Eats hot with ranch or chipotle mayo.
 
 ## Ingredients
 

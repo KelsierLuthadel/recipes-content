@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Bulgur soaks briefly in lemon juice - not water - so it tenderises while taking on flavour. Parsley is washed, dried thoroughly, and chopped to fine green confetti. Tomato dices small and drains. Mint and spring onion go in fine. Everything tosses with olive oil, lemon, salt, pepper. No need to rest; eat right away.
+Bulgur soaks briefly in lemon juice, not water, so it tenderises while taking on flavour. Parsley is washed, dried thoroughly, and chopped to fine green confetti. Tomato dices small and drains. Mint and spring onion go in fine. Everything tosses with olive oil, lemon, salt, pepper. No need to rest; eat right away.
 
 ## Ingredients
 

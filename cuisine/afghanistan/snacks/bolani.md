@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A simple flour-and-water dough rests, divides into balls, rolls thin. The filling - boiled mashed potato with sautéed leeks, onion, garlic, coriander and chillies - spreads over half of each round; the other half folds over and seals. Each bolani fries in a thin film of oil until each side is freckled gold.
+A simple flour-and-water dough rests, divides into balls, rolls thin. The filling, boiled mashed potato with sautéed leeks, onion, garlic, coriander and chillies, spreads over half of each round; the other half folds over and seals. Each bolani fries in a thin film of oil until each side is freckled gold.
 
 ## Ingredients
 

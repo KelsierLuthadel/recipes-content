@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Pino: beef chopped (not minced - knife-cut chunks), browned, then slow-cooked with three times its weight of onion until the onion melts and the meat is dark and sweet. Seasoned with cumin, paprika, oregano, ají de color. Cooled overnight ideally - better firm than warm. A rich dough of flour, butter, lard, egg yolks, salt and warm milk; folds, fills, seals, bakes at 200°C until deeply burnished.
+Pino: beef chopped (not minced, knife-cut chunks), browned, then slow-cooked with three times its weight of onion until the onion melts and the meat is dark and sweet. Seasoned with cumin, paprika, oregano, ají de color. Cooled overnight ideally, better firm than warm. A rich dough of flour, butter, lard, egg yolks, salt and warm milk; folds, fills, seals, bakes at 200°C until deeply burnished.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 55 minutes
 
 ## Overview
-Sweet shortcrust pastry is rolled into a 23 cm tin and blind-baked for 15 minutes (essential - an under-baked base goes soggy under the wet filling). Filling: dark brown sugar, light corn syrup (or golden syrup), eggs, melted butter, bourbon, vanilla and salt are whisked together. Pecan halves are arranged in concentric rings over the par-baked base; the filling is poured over. Baked for 40 minutes at 175°C until the filling has set with a slight wobble in the centre. Rested at least 2 hours before slicing (the filling firms as it cools).
+Sweet shortcrust pastry is rolled into a 23 cm tin and blind-baked for 15 minutes (essential, an under-baked base goes soggy under the wet filling). Filling: dark brown sugar, light corn syrup (or golden syrup), eggs, melted butter, bourbon, vanilla and salt are whisked together. Pecan halves are arranged in concentric rings over the par-baked base; the filling is poured over. Baked for 40 minutes at 175°C until the filling has set with a slight wobble in the centre. Rested at least 2 hours before slicing (the filling firms as it cools).
 
 ## Ingredients
 

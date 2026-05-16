@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Dried split fava beans (foul mudammas) soak overnight with bicarbonate of soda. Simmer with garlic, bay, coriander seeds and water for 1 hour until completely soft. Blitzed (or mashed) with garlic, ground cumin, ground coriander, salt and lemon juice into a thick spoonable purée - looser than hummus but thicker than soup. Plated in a wide shallow bowl: a swirl in the centre, doused with the green oil (olive oil + paprika + cumin + chopped parsley), maybe a sprinkle of dukkah on top, served warm with hot baladi bread.
+Dried split fava beans (foul mudammas) soak overnight with bicarbonate of soda. Simmer with garlic, bay, coriander seeds and water for 1 hour until completely soft. Blitzed (or mashed) with garlic, ground cumin, ground coriander, salt and lemon juice into a thick spoonable purée, looser than hummus but thicker than soup. Plated in a wide shallow bowl: a swirl in the centre, doused with the green oil (olive oil + paprika + cumin + chopped parsley), maybe a sprinkle of dukkah on top, served warm with hot baladi bread.
 
 ## Ingredients
 

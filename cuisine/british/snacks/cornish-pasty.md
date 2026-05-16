@@ -10,7 +10,7 @@
 **Cook Time:** 55 minutes
 
 ## Overview
-Shortcrust pastry uses a mix of lard and butter for the right sturdy-but-flaky texture; chilled, rested for 30 minutes, rolled to 4 mm thick, and cut into 22 cm discs (a small plate works as a guide). Filling: beef skirt (cut into 5 mm cubes, NEVER minced), potato (5 mm dice), swede (5 mm dice) and onion (5 mm dice), seasoned generously with salt and pepper. The filling is piled on half of each pastry disc, leaving a 1 cm border. The pastry is folded over; edges are crimped firmly with thumb-and-forefinger pressed-and-twisted rope crimps along the curved edge. Egg-washed; baked at 200°C for 15 min, then 180°C for 35-40 min until deep golden.
+Shortcrust pastry uses a mix of lard and butter for the right sturdy-but-flaky texture; chilled, rested for 30 minutes, rolled to 4 mm thick, and cut into 22 cm discs (a small plate works as a guide). Filling: beef skirt (cut into 5 mm cubes, never minced), potato (5 mm dice), swede (5 mm dice) and onion (5 mm dice), seasoned generously with salt and pepper. The filling is piled on half of each pastry disc, leaving a 1 cm border. The pastry is folded over; edges are crimped firmly with thumb-and-forefinger pressed-and-twisted rope crimps along the curved edge. Egg-washed; baked at 200°C for 15 min, then 180°C for 35-40 min until deep golden.
 
 ## Ingredients
 

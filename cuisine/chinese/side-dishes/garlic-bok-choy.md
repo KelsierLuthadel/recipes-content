@@ -10,7 +10,7 @@
 **Cook Time:** 6 minutes
 
 ## Overview
-Small heads of bok choy are halved or quartered lengthwise (keeping each piece together at the base). Sliced garlic fries gently in oil until golden - not brown. The bok choy is blanched briefly (30 seconds) in heavily salted water (the salt fixes the colour); refreshed in cold water; drained well. The blanched bok choy then stir-fries in the garlic oil for 2 minutes; oyster sauce, a pinch of sugar and a splash of stock or water glaze; sesame oil at the end. Plated with the dressing spooned over.
+Small heads of bok choy are halved or quartered lengthwise (keeping each piece together at the base). Sliced garlic fries gently in oil until golden, not brown. The bok choy is blanched briefly (30 seconds) in heavily salted water (the salt fixes the colour); refreshed in cold water; drained well. The blanched bok choy then stir-fries in the garlic oil for 2 minutes; oyster sauce, a pinch of sugar and a splash of stock or water glaze; sesame oil at the end. Plated with the dressing spooned over.
 
 ## Ingredients
 

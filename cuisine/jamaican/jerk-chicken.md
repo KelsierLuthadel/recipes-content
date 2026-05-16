@@ -10,7 +10,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-A wet jerk paste: scotch bonnet chillies, garlic, ginger, spring onions, thyme, allspice (whole or ground), brown sugar, soy sauce, lime, oil, salt and pepper - pureed in a blender. The chicken (bone-in skin-on thighs and drumsticks, or spatchcocked whole bird) marinates for 12 hours minimum. Slow-grilled over indirect heat with a pile of pimento wood chips or allspice berries on the coals for the signature smoke; alternatively, an oven-bake at 180°C with a final blast under the grill, supplemented with allspice in the marinade.
+A wet jerk paste: scotch bonnet chillies, garlic, ginger, spring onions, thyme, allspice (whole or ground), brown sugar, soy sauce, lime, oil, salt and pepper, pureed in a blender. The chicken (bone-in skin-on thighs and drumsticks, or spatchcocked whole bird) marinates for 12 hours minimum. Slow-grilled over indirect heat with a pile of pimento wood chips or allspice berries on the coals for the signature smoke; alternatively, an oven-bake at 180°C with a final blast under the grill, supplemented with allspice in the marinade.
 
 ## Ingredients
 

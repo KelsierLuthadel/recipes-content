@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A soft elastic dough rests; divides into 2 balls. Each ball stretches paper-thin on a heavily-oiled / ghee-buttered surface (similar to msemen or yufka - translucent dough). Layered with melted ghee between folds: stretch → ghee → fold into thirds → quarter-turn → stretch → ghee → fold. Repeated 3 times per ball. The two folded packets place stacked on top of each other in a buttered round dish (about 24 cm). Baked at 220°C 25-30 minutes until amber, golden, and the layers have separated dramatically. Served warm with honey, soft cheese, or molasses-and-tahini (the Egyptian classic dip).
+A soft elastic dough rests; divides into 2 balls. Each ball stretches paper-thin on a heavily-oiled / ghee-buttered surface (similar to msemen or yufka, translucent dough). Layered with melted ghee between folds: stretch → ghee → fold into thirds → quarter-turn → stretch → ghee → fold. Repeated 3 times per ball. The two folded packets place stacked on top of each other in a buttered round dish (about 24 cm). Baked at 220°C 25-30 minutes until amber, golden, and the layers have separated dramatically. Served warm with honey, soft cheese, or molasses-and-tahini (the Egyptian classic dip).
 
 ## Ingredients
 

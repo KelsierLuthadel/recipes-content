@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Catfish (or any firm white fish) cooks first in spiced water; the cooked flesh shreds; the cooking liquid becomes the base. A spice paste of shallot, garlic, ginger, lemongrass and turmeric fries in oil; chickpea-flour slurry thickens the broth; banana-stem (or hearts of palm / cabbage as substitute) softens in. Fish sauce, paprika and lime balance. Rice vermicelli portions into bowls; broth ladles over; a heavy plate of garnishes - crispy split peas, boiled egg, lime, herbs - go on top.
+Catfish (or any firm white fish) cooks first in spiced water; the cooked flesh shreds; the cooking liquid becomes the base. A spice paste of shallot, garlic, ginger, lemongrass and turmeric fries in oil; chickpea-flour slurry thickens the broth; banana-stem (or hearts of palm / cabbage as substitute) softens in. Fish sauce, paprika and lime balance. Rice vermicelli portions into bowls; broth ladles over; a heavy plate of garnishes, crispy split peas, boiled egg, lime, herbs, go on top.
 
 ## Ingredients
 

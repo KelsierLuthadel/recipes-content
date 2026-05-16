@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Floury potatoes grate into cold water with a squeeze of lemon (stops browning); a wrung-dry pile of grated potato mixes with finely-grated onion, eggs, salt and a small amount of flour. Spoonfuls fry in butter or oil until each side is crisp and golden - the inside should still be tender. Eat immediately with soured cream and dill.
+Floury potatoes grate into cold water with a squeeze of lemon (stops browning); a wrung-dry pile of grated potato mixes with finely-grated onion, eggs, salt and a small amount of flour. Spoonfuls fry in butter or oil until each side is crisp and golden, the inside should still be tender. Eat immediately with soured cream and dill.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes (in batches)
 
 ## Overview
-Chickpea flour and plain flour whisk with cold water and a pinch of salt and paprika to a thin batter - like single cream. Rests for 30 minutes (the flour fully hydrates). Tiny whole brown shrimp (camarones or krill - head and shell on, eaten whole) stir in with finely chopped spring onion and parsley. Olive oil heats hot in a wide pan. A small ladle of batter drops in; spreads naturally to a thin lacy disc 10 cm across. Fries for 2 minutes, flips, fries 1 more minute. Drains briefly on a rack. Eats hot.
+Chickpea flour and plain flour whisk with cold water and a pinch of salt and paprika to a thin batter, like single cream. Rests for 30 minutes (the flour fully hydrates). Tiny whole brown shrimp (camarones or krill, head and shell on, eaten whole) stir in with finely chopped spring onion and parsley. Olive oil heats hot in a wide pan. A small ladle of batter drops in; spreads naturally to a thin lacy disc 10 cm across. Fries for 2 minutes, flips, fries 1 more minute. Drains briefly on a rack. Eats hot.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Beef strips are marinated briefly in soy and aji amarillo paste. Fries are cooked separately - pre-fried, set aside. The wok hits high heat; beef is seared in batches; red onion and tomato are added briefly so they keep their bite; soy, vinegar, lime and stock are poured in to sauce. The fries go in last, just before serving - a 30-second toss so they pick up flavour without going soggy.
+Beef strips are marinated briefly in soy and aji amarillo paste. Fries are cooked separately, pre-fried, set aside. The wok hits high heat; beef is seared in batches; red onion and tomato are added briefly so they keep their bite; soy, vinegar, lime and stock are poured in to sauce. The fries go in last, just before serving, a 30-second toss so they pick up flavour without going soggy.
 
 ## Ingredients
 

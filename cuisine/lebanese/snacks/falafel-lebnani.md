@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Dried chickpeas soak overnight (NEVER cooked - chickpeas must remain raw). Drained, blitzed with onion, garlic, a heaped pile of fresh parsley and coriander, ground cumin, ground coriander, salt, black pepper and Aleppo pepper into a coarse green paste. Rested for 30 minutes. Baking soda mixed in just before frying. Shaped into small (3 cm) patties or balls - a falafel scoop (zalabia) gives the cleanest shape but two spoons work. Optionally rolled in sesame seeds. Deep-fried in oil at 175°C for 2-3 minutes per side until amber-gold and crisp. Stuffed into pita with tahini, salad and pickles.
+Dried chickpeas soak overnight (never cooked, chickpeas must remain raw). Drained, blitzed with onion, garlic, a heaped pile of fresh parsley and coriander, ground cumin, ground coriander, salt, black pepper and Aleppo pepper into a coarse green paste. Rested for 30 minutes. Baking soda mixed in just before frying. Shaped into small (3 cm) patties or balls, a falafel scoop (zalabia) gives the cleanest shape but two spoons work. Optionally rolled in sesame seeds. Deep-fried in oil at 175°C for 2-3 minutes per side until amber-gold and crisp. Stuffed into pita with tahini, salad and pickles.
 
 ## Ingredients
 

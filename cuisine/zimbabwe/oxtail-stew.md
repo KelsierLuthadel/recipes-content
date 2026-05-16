@@ -10,7 +10,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-Oxtail browns hard in batches so the fond builds. Onion, garlic and tomato cook down in the same pot; stock, bay and a beef cube go in; the oxtail returns and braises covered on the lowest heat for three hours. The meat should slide off the bone with a fork. Skim the fat at the end - it's significant.
+Oxtail browns hard in batches so the fond builds. Onion, garlic and tomato cook down in the same pot; stock, bay and a beef cube go in; the oxtail returns and braises covered on the lowest heat for three hours. The meat should slide off the bone with a fork. Skim the fat at the end, it's significant.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Curing Time:** 1-3 weeks
 
 ## Overview
-Tiny aubergines (the small Middle-Eastern variety, 5-7 cm - sold at Middle Eastern / Asian shops; if unavailable, use baby aubergines from any supermarket) blanch in salted water 6 minutes until just tender. Drain. Salt and pressed under weight 4-6 hours to drain bitter water. Each aubergine slits lengthwise (don't cut all the way through). A walnut-garlic-red-pepper-paste mixture stuffs into each slit. The stuffed aubergines pack tightly into a sterilised glass jar; covered in olive oil to fully submerge. Sealed; left at room temperature 7-21 days. The oil takes on the spice; the aubergines mellow.
+Tiny aubergines (the small Middle-Eastern variety, 5-7 cm, sold at Middle Eastern / Asian shops; if unavailable, use baby aubergines from any supermarket) blanch in salted water 6 minutes until just tender. Drain. Salt and pressed under weight 4-6 hours to drain bitter water. Each aubergine slits lengthwise (don't cut all the way through). A walnut-garlic-red-pepper-paste mixture stuffs into each slit. The stuffed aubergines pack tightly into a sterilised glass jar; covered in olive oil to fully submerge. Sealed and left at room temperature for 7-21 days. The oil takes on the spice; the aubergines mellow.
 
 ## Ingredients
 

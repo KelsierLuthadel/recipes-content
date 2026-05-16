@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Tomatillos, jalapeño, onion and garlic blitz into a green salsa, briefly cooked. Crisp tortilla chips toss into the simmering salsa for 2 minutes - long enough to coat, short enough that they keep some crunch. Topped with eggs and the standard creamy garnishes.
+Tomatillos, jalapeño, onion and garlic blitz into a green salsa, briefly cooked. Crisp tortilla chips toss into the simmering salsa for 2 minutes, long enough to coat, short enough that they keep some crunch. Topped with eggs and the standard creamy garnishes.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Sweet shortcrust pastry: plain flour rubs with cold butter to breadcrumb texture; icing sugar adds sweetness; an egg yolk binds with a splash of water. Rests in the fridge 1 hour. Rolled, lined into a 22 cm fluted tart tin, pricked, chilled again, blind-baked with baking beans 15 min, then 5 more min uncovered. Filling: warm golden syrup, lemon zest and juice, fresh breadcrumbs from a day-old loaf, a beaten egg and a small pinch of ginger / cinnamon. Stirred together; poured into the blind-baked case. Baked at 180°C 25-30 min until set with a slight wobble. Cooled to warm; served with cold clotted cream.
+Sweet shortcrust pastry: plain flour rubs with cold butter to breadcrumb texture; icing sugar adds sweetness; an egg yolk binds with a splash of water. Rests in the fridge 1 hour. The pastry is rolled, lined into a 22 cm fluted tart tin, pricked, chilled again, and blind-baked with baking beans for 15 min, then 5 more min uncovered. Filling: warm golden syrup, lemon zest and juice, fresh breadcrumbs from a day-old loaf, a beaten egg and a small pinch of ginger / cinnamon. Stirred together; poured into the blind-baked case. Baked at 180°C 25-30 min until set with a slight wobble. Cooled to warm; served with cold clotted cream.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Caramel cooks dry: sugar melts in a hot pan to a dark amber syrup; poured into a 22 cm round cake tin (or 8 individual ramekins) where it solidifies. Custard: eggs blend with sweetened condensed milk, evaporated milk, whole milk, vanilla and a pinch of salt (no fresh cream - the milk trio is what makes Mexican flan distinct). Strained for smoothness; poured over the set caramel; baked in a water bath at 160°C for 60-75 minutes until just set but with the slightest jiggle in the centre. Cooled fully; refrigerated overnight. Inverted onto a plate the next day; the caramel pools around the dome.
+Caramel cooks dry: sugar melts in a hot pan to a dark amber syrup; poured into a 22 cm round cake tin (or 8 individual ramekins) where it solidifies. Custard: eggs blend with sweetened condensed milk, evaporated milk, whole milk, vanilla and a pinch of salt (no fresh cream, the milk trio is what makes Mexican flan distinct). Strained for smoothness; poured over the set caramel; baked in a water bath at 160°C for 60-75 minutes until just set but with the slightest jiggle in the centre. Cooled fully; refrigerated overnight. Inverted onto a plate the next day; the caramel pools around the dome.
 
 ## Ingredients
 

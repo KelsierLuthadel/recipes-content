@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Rice rinses, then simmers in a pot with milk and a knob of butter over low heat - the same technique as risotto but unstirred. After 30 minutes the rice is just-soft. Sugar and raisins go in for the last 15 minutes. The finished pudding is glossy, sweet, and pourable but holds its shape when spooned. Toppings vary: pine nuts and butter, an extra knob of melted butter, or a few drops of fresh cream.
+Rice rinses, then simmers in a pot with milk and a knob of butter over low heat, the same technique as risotto but unstirred. After 30 minutes the rice is just-soft. Sugar and raisins go in for the last 15 minutes. The finished pudding is glossy, sweet, and pourable but holds its shape when spooned. Toppings vary: pine nuts and butter, an extra knob of melted butter, or a few drops of fresh cream.
 
 ## Ingredients
 - 250 g short-grain pudding rice (or arborio)

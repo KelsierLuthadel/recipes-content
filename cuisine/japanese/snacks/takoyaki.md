@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A thin batter is whisked from plain flour, dashi (Japanese stock), eggs, a touch of soy and mirin, salt - like a thin pancake batter. The takoyaki pan (cast-iron or non-stick with half-spherical dimples) heats; each dimple oils with vegetable oil. Batter fills each dimple plus the connecting flat surface (overflow is intentional). A small piece of pre-cooked octopus, a pinch of pickled red ginger, a few cubes of tempura crumbs (tenkasu) and a sprinkle of spring onion drop into each dimple. As the bottom sets, a sharp wooden skewer rotates each ball: scrape the overflow from around each, fold it into the bottom, twist 90° to expose the wet top, allow it to set, twist another 90°, eventually achieving a complete sphere. Cooked until golden all around. Plated; drizzled with takoyaki sauce, mayo, scattered with bonito flakes and aonori.
+A thin batter is whisked from plain flour, dashi (Japanese stock), eggs, a touch of soy and mirin, salt, like a thin pancake batter. The takoyaki pan (cast-iron or non-stick with half-spherical dimples) heats; each dimple oils with vegetable oil. Batter fills each dimple plus the connecting flat surface (overflow is intentional). A small piece of pre-cooked octopus, a pinch of pickled red ginger, a few cubes of tempura crumbs (tenkasu) and a sprinkle of spring onion drop into each dimple. As the bottom sets, a sharp wooden skewer rotates each ball: scrape the overflow from around each, fold it into the bottom, twist 90° to expose the wet top, allow it to set, twist another 90°, eventually achieving a complete sphere. Cooked until golden all around. The balls are plated and drizzled with takoyaki sauce and mayo, then scattered with bonito flakes and aonori.
 
 ## Ingredients
 

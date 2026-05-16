@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Pastry: a flaky shortcrust enriched with a little butter and lard (or all butter), made cold and rested. Filling: a small batch of crawfish étouffée - blond roux, the trinity, garlic, tomato, Cajun spice, stock and crawfish tails, simmered down until thick. Cooled fully so it can be spooned into pastry circles, folded, crimped, egg-washed and either deep-fried or baked. The fried version is the classic.
+Pastry: a flaky shortcrust enriched with a little butter and lard (or all butter), made cold and rested. Filling: a small batch of crawfish étouffée, blond roux, the trinity, garlic, tomato, Cajun spice, stock and crawfish tails, simmered down until thick. Cooled fully so it can be spooned into pastry circles, folded, crimped, egg-washed and either deep-fried or baked. The fried version is the classic.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A simple dough of flour, water, salt and a touch of oil rests for 30 minutes. Each portion stretches by hand on an oiled surface to a 40 cm thin disc - almost translucent in places. Cooks for 30-60 seconds on a hot dry surface (saj, upturned wok, or wide hot frying pan). Stacks under a tea towel.
+A simple dough of flour, water, salt and a touch of oil rests for 30 minutes. Each portion stretches by hand on an oiled surface to a 40 cm thin disc, almost translucent in places. Cooks for 30-60 seconds on a hot dry surface (saj, upturned wok, or wide hot frying pan). Stacks under a tea towel.
 
 ## Ingredients
 

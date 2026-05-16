@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Fresh corn kernels (or thawed frozen) blend with cream, eggs, melted butter, sugar, salt, pepper and a small amount of flour for body. Half the corn stays whole; the rest blends to a smooth purée - the texture contrast matters. Pour into a buttered dish, bake at 180°C 45 minutes until set with a slight wobble in the centre.
+Fresh corn kernels (or thawed frozen) blend with cream, eggs, melted butter, sugar, salt, pepper and a small amount of flour for body. Half the corn stays whole; the rest blends to a smooth purée, the texture contrast matters. Pour into a buttered dish, bake at 180°C 45 minutes until set with a slight wobble in the centre.
 
 ## Ingredients
 

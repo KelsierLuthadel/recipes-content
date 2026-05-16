@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes (plus overnight chilling)
 
 ## Overview
-A whisked sponge - beaten egg whites for lift, yolks-and-sugar base, flour folded in - bakes in a 30 × 20 cm tin until pale gold. Cooled to room temp. Three milks (evaporated, condensed, whole) whisk together. Cake gets pierced all over with a fork or skewer. Milk slurry pours over slowly so it absorbs evenly. Chills overnight. Whipped cream tops at service; dusting of cinnamon.
+A whisked sponge, beaten egg whites for lift, yolks-and-sugar base, flour folded in, bakes in a 30 × 20 cm tin until pale gold. Cooled to room temp. Three milks (evaporated, condensed, whole) whisk together. Cake gets pierced all over with a fork or skewer. Milk slurry pours over slowly so it absorbs evenly. Chills overnight. Whipped cream tops at service; dusting of cinnamon.
 
 ## Ingredients
 

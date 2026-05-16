@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes (using ready-made boondi)
 
 ## Overview
-Plain yogurt whisks with a little water (or milk) to a smooth pourable raita texture. Ground roasted cumin, finely chopped mint, salt, sugar (a pinch - balances the sour), and Kashmiri red chilli powder mix in. The boondi (ready-made; sold at Pakistani / Indian shops) folds in 5-10 minutes before serving - too early and they go soggy. Garnished with a sprinkle of cumin and chilli.
+Plain yogurt whisks with a little water (or milk) to a smooth pourable raita texture. Ground roasted cumin, finely chopped mint, salt, sugar (a pinch, balances the sour), and Kashmiri red chilli powder mix in. The boondi (ready-made; sold at Pakistani / Indian shops) folds in 5-10 minutes before serving, too early and they go soggy. Garnished with a sprinkle of cumin and chilli.
 
 ## Ingredients
 

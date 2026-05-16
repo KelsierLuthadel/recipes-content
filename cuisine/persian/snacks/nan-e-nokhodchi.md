@@ -10,7 +10,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Chickpea flour roasts briefly in a dry pan or oven to remove the raw flavour and develop nuttiness; cooled fully. Butter (softened, not melted) creams with icing sugar and ground cardamom until pale and fluffy. Rosewater works in. The cooled chickpea flour folds through (no other flour added; gluten-free). The dough rests for 2 hours at room temperature. Rolled to 1 cm thick on a board dusted with extra chickpea flour. Cut with a small four-leaf-clover stencil OR rolled into walnut-sized balls flattened slightly. Topped with a pinch of crushed pistachio. Baked at 150°C 15-18 minutes - gently, no browning. Cool fully before lifting (very fragile when warm).
+Chickpea flour roasts briefly in a dry pan or oven to remove the raw flavour and develop nuttiness; cooled fully. Butter (softened, not melted) creams with icing sugar and ground cardamom until pale and fluffy. Rosewater works in. The cooled chickpea flour folds through (no other flour added; gluten-free). The dough rests for 2 hours at room temperature. Rolled to 1 cm thick on a board dusted with extra chickpea flour. Cut with a small four-leaf-clover stencil OR rolled into walnut-sized balls flattened slightly. Topped with a pinch of crushed pistachio. Baked at 150°C 15-18 minutes, gently, no browning. Cool fully before lifting (very fragile when warm).
 
 ## Ingredients
 

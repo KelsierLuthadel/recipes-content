@@ -10,7 +10,7 @@
 **Cook Time:** 1 ¾ hours
 
 ## Overview
-Walnuts are toasted and ground to a paste. Onions are softened slowly with turmeric and saffron; chicken thighs are seared, then poached in a stock that the walnut paste loosens into. Pomegranate molasses, sugar and lemon balance the sauce as it darkens; chicken returns to absorb flavour. Slow-cooked until the oil splits out - the sign Fesenjan is ready.
+Walnuts are toasted and ground to a paste. Onions are softened slowly with turmeric and saffron; chicken thighs are seared, then poached in a stock that the walnut paste loosens into. Pomegranate molasses, sugar and lemon balance the sauce as it darkens; chicken returns to absorb flavour. Slow-cooked until the oil splits out, the sign Fesenjan is ready.
 
 ## Ingredients
 

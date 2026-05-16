@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Green (unripe) plantains peel and slice into 3 cm rounds. First fry: 5 minutes per side at 160°C - pale gold, soft inside. Lift out; smash each round flat with the back of a flat measuring cup or a tostonera. Second fry: 3 minutes per side at 180°C - deep gold and crisp. Salt while hot.
+Green (unripe) plantains peel and slice into 3 cm rounds. First fry: 5 minutes per side at 160°C, pale gold, soft inside. Lift out; smash each round flat with the back of a flat measuring cup or a tostonera. Second fry: 3 minutes per side at 180°C, deep gold and crisp. Salt while hot.
 
 ## Ingredients
 

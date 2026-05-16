@@ -10,7 +10,7 @@
 **Cook Time:** 4 hours (pressure cooker) or 6 hours (stovetop)
 
 ## Overview
-Cracked wheat (daleya), pearl barley, chana dal, masoor dal, moong dal and urad dal soak overnight together. Mutton on the bone (or beef shin) simmers separately with ginger-garlic paste, ground spices, onion and salt for 2 hours until tender. The drained grains and lentils join; everything simmers 2 more hours, beating periodically with a wooden masher (or blitzing in batches with a stick blender) until the meat strands break apart and integrate with the grain. The base goes intensely smooth - almost the texture of porridge. Off heat, fried onions, ghee-and-cumin tarka, julienned ginger, lemon, chilli and herbs finish each bowl.
+Cracked wheat (daleya), pearl barley, chana dal, masoor dal, moong dal and urad dal soak overnight together. Mutton on the bone (or beef shin) simmers separately with ginger-garlic paste, ground spices, onion and salt for 2 hours until tender. The drained grains and lentils join; everything simmers 2 more hours, beating periodically with a wooden masher (or blitzing in batches with a stick blender) until the meat strands break apart and integrate with the grain. The base goes intensely smooth, almost the texture of porridge. Off heat, fried onions, ghee-and-cumin tarka, julienned ginger, lemon, chilli and herbs finish each bowl.
 
 ## Ingredients
 

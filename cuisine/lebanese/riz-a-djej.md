@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-A whole chicken poaches with onion, cinnamon, cardamom and bay 45 minutes; chicken comes out, stock is strained. Mince (lamb or beef) browns hard with onion, baharat, cinnamon and allspice. Basmati rice toasts in ghee with the mince, then cooks absorption-style in the chicken stock for 18 minutes. Plated: rice on the bottom, mince mixed in, shredded poached chicken on top, toasted pine nuts and almonds and raisins scattered.
+A whole chicken poaches with onion, cinnamon, cardamom and bay 45 minutes; chicken comes out, stock is strained. Mince (lamb or beef) browns hard with onion, baharat, cinnamon and allspice. Basmati rice toasts in ghee with the mince, then cooks absorption-style in the chicken stock for 18 minutes. Plated with the rice on the bottom, the mince mixed through, shredded poached chicken on top, and toasted pine nuts, almonds and raisins scattered over.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Beans dry-fry in just a thin slick of oil over high heat for 6-8 minutes - they need to blister and wrinkle, not stay green and snappy. Aromatics - garlic, ginger, dried chillies, Sichuan peppercorns and zhacai (Sichuan preserved mustard tuber) - flash-cook. Beans return; soy and rice wine glaze; sesame oil to finish.
+Beans dry-fry in just a thin slick of oil over high heat for 6-8 minutes, they need to blister and wrinkle, not stay green and snappy. Aromatics, garlic, ginger, dried chillies, Sichuan peppercorns and zhacai (Sichuan preserved mustard tuber), flash-cook. Beans return; soy and rice wine glaze; sesame oil to finish.
 
 ## Ingredients
 

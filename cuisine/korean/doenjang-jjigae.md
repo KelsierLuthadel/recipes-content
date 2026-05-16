@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A quick anchovy-and-kelp stock makes the broth backbone (the Korean kitchen standard, taking 10 minutes). Doenjang (about 3 tablespoons) whisks into the hot stock with a small spoonful of gochujang for warmth — never aggressive heat. The vegetables go in by sturdiness: potato first, then courgette and mushrooms, then onion and chilli, finally cubed tofu and clams (or anchovies) at the end. Simmers for 12-15 minutes total. A little minced garlic stirs in at the very end so it doesn't dull. Brought to the table in the cooking pot, still bubbling.
+A quick anchovy-and-kelp stock makes the broth backbone (the Korean kitchen standard, taking 10 minutes). Doenjang (about 3 tablespoons) whisks into the hot stock with a small spoonful of gochujang for warmth, never aggressive heat. The vegetables go in by sturdiness: potato first, then courgette and mushrooms, then onion and chilli, finally cubed tofu and clams (or anchovies) at the end. Simmers for 12-15 minutes total. A little minced garlic stirs in at the very end so it doesn't dull. Brought to the table in the cooking pot, still bubbling.
 
 ## Ingredients
 

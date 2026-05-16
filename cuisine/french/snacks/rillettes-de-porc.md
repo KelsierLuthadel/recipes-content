@@ -10,7 +10,7 @@
 **Cook Time:** 4 hours
 
 ## Overview
-Pork shoulder (fatty cuts only - lean cuts will be dry) is cut into 3 cm chunks. Pork back fat (or lard) adds extra cooking fat; shallots, garlic, bay leaves, thyme, white wine and a glass of water go in with the pork. Cooked at the lowest oven temperature for 3-4 hours covered until the pork is completely tender and the fat has rendered into a clear pool. Drained: the fat is reserved separately; the pork is pulled into long strands with two forks. The strands are packed into sterilised jars; salt and pepper season to taste; some of the reserved fat is poured over to seal the surface. Refrigerated 3-5 days to mature; the flavours develop dramatically. Served with toasted baguette, cornichons and mustard.
+Pork shoulder (fatty cuts only, lean cuts will be dry) is cut into 3 cm chunks. Pork back fat (or lard) adds extra cooking fat; shallots, garlic, bay leaves, thyme, white wine and a glass of water go in with the pork. Cooked at the lowest oven temperature for 3-4 hours covered until the pork is completely tender and the fat has rendered into a clear pool. Once drained, the fat is reserved separately and the pork is pulled into long strands with two forks. The strands are packed into sterilised jars; salt and pepper season to taste; some of the reserved fat is poured over to seal the surface. Refrigerated for 3-5 days to mature; the flavours develop dramatically. Served with toasted baguette, cornichons and mustard.
 
 ## Ingredients
 

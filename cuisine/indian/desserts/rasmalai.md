@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Whole milk boils, then curdles with lemon juice; the curds drain to chhana (fresh paneer). The chhana kneads for 8-10 minutes until smooth and lump-free - this is what gives the dumpling its sponge. Small flattened discs poach gently in sugar syrup; they double in size. A separate pan reduces a second batch of milk by half with cardamom, saffron, almonds and sugar to a rich rabri. The squeezed dumplings float in the cool rabri to absorb the spiced milk overnight.
+Whole milk boils, then curdles with lemon juice; the curds drain to chhana (fresh paneer). The chhana kneads for 8-10 minutes until smooth and lump-free, this is what gives the dumpling its sponge. Small flattened discs poach gently in sugar syrup; they double in size. A separate pan reduces a second batch of milk by half with cardamom, saffron, almonds and sugar to a rich rabri. The squeezed dumplings float in the cool rabri to absorb the spiced milk overnight.
 
 ## Ingredients
 

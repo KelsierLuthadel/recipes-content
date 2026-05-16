@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Shortcrust pastry blind-bakes to a deep gold (essential - soggy bottom is a quiche's main enemy). Vegetables sauté separately to soften and dry; the custard mixes; everything assembles in the shell and bakes until set with a faint wobble in the centre.
+Shortcrust pastry blind-bakes to a deep gold (essential, soggy bottom is a quiche's main enemy). Vegetables sauté separately to soften and dry; the custard mixes; everything assembles in the shell and bakes until set with a faint wobble in the centre.
 
 ## Ingredients
 

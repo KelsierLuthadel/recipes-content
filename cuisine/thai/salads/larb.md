@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Sticky rice toasts in a dry pan to a deep gold, ground to a coarse powder (khao khua). Mince fries hot with a splash of stock until just cooked. Off heat - fish sauce, lime juice, chilli powder, sliced shallot, spring onion and rice powder toss through. Lots of fresh herbs fold in at the end. Served with sticky rice and raw vegetable plate.
+Sticky rice toasts in a dry pan to a deep gold, ground to a coarse powder (khao khua). Mince fries hot with a splash of stock until just cooked. Off heat, fish sauce, lime juice, chilli powder, sliced shallot, spring onion and rice powder toss through. Lots of fresh herbs fold in at the end. Served with sticky rice and raw vegetable plate.
 
 ## Ingredients
 

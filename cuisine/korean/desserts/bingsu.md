@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes (assembly only)
 
 ## Overview
-Whole milk freezes solid in a shallow tray overnight. The frozen milk shaves into a fluffy snow (an ice-shaving machine is ideal; a powerful blender pulsed briefly is the alternative). Piled into a large bowl. Topped with sweet red bean paste (pat), a drizzle of sweetened condensed milk, fresh fruit pieces, chewy mochi balls (or short-grain rice cake squares), a dusting of injeolmi (sweet soybean flour). Eaten quickly - the ice melts.
+Whole milk freezes solid in a shallow tray overnight. The frozen milk shaves into a fluffy snow (an ice-shaving machine is ideal; a powerful blender pulsed briefly is the alternative). Piled into a large bowl. Topped with sweet red bean paste (pat), a drizzle of sweetened condensed milk, fresh fruit pieces, chewy mochi balls (or short-grain rice cake squares), a dusting of injeolmi (sweet soybean flour). Eaten quickly, the ice melts.
 
 ## Ingredients
 

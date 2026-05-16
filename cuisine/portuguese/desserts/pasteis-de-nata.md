@@ -10,7 +10,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Puff pastry rolls thin into a long rectangle, brushes with butter, rolls back into a cylinder, and slices into pinwheels - the layered swirl creates the characteristic spiral shell. Each disc presses into a deep muffin tin, the centre stretched up the sides leaving a thin shell. The custard is a hot syrup whisked into milk-thickened-with-cornflour and tempered into egg yolks. Filled three-quarters full, baked at the highest oven temperature. The blackened blistered top is the signature.
+Puff pastry rolls thin into a long rectangle, brushes with butter, rolls back into a cylinder, and slices into pinwheels, the layered swirl creates the characteristic spiral shell. Each disc presses into a deep muffin tin, the centre stretched up the sides leaving a thin shell. The custard is a hot syrup whisked into milk-thickened-with-cornflour and tempered into egg yolks. Filled three-quarters full, baked at the highest oven temperature. The blackened blistered top is the signature.
 
 ## Ingredients
 

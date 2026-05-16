@@ -10,7 +10,7 @@
 **Cook Time:** 8 minutes (for the custard base)
 
 ## Overview
-A custard-free, fully coconut ice cream. Coconut milk (full-fat) and coconut cream combine with palm sugar, glucose syrup (or honey - keeps the texture smooth) and salt; warm together gently to dissolve the sugar. Cool fully (4 hours fridge or an ice bath). Churn in an ice-cream machine for 25-30 minutes until thick and creamy. Transfer to a container; freeze 2+ hours to firm. Serve in small bowls or - for the Bangkok cart presentation - in halved fresh coconut shells, topped with any combination of: small banana slices, sticky rice, roasted peanuts, sweet red beans, palm-sugar syrup, toasted coconut.
+A custard-free, fully coconut ice cream. Coconut milk (full-fat) and coconut cream combine with palm sugar, glucose syrup (or honey, keeps the texture smooth) and salt; warm together gently to dissolve the sugar. Cool fully (4 hours fridge or an ice bath). Churn in an ice-cream machine for 25-30 minutes until thick and creamy. Transfer to a container; freeze 2+ hours to firm. Serve in small bowls or, for the Bangkok cart presentation, in halved fresh coconut shells, topped with any combination of: small banana slices, sticky rice, roasted peanuts, sweet red beans, palm-sugar syrup, toasted coconut.
 
 ## Ingredients
 

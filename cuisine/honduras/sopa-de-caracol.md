@@ -10,7 +10,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Conch is tenderised by pounding (or by long cooking - whichever is at hand), then briefly simmered. Aromatics (onion, garlic, sweet pepper, achiote or paprika) fry in butter; coconut milk, water, yuca (cassava) and green plantain go in; the conch returns at the end so it stays tender. Cilantro, lime, salt.
+Conch is tenderised by pounding (or by long cooking, whichever is at hand), then briefly simmered. Aromatics (onion, garlic, sweet pepper, achiote or paprika) fry in butter; coconut milk, water, yuca (cassava) and green plantain go in; the conch returns at the end so it stays tender. Cilantro, lime, salt.
 
 ## Ingredients
 

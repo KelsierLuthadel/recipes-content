@@ -10,7 +10,7 @@
 **Cook Time:** 22 minutes
 
 ## Overview
-A batter of equal volumes of plain flour, eggs and whole milk (and a pinch of salt) is whisked to a smooth thin consistency - like single cream. Rested for 30 minutes (overnight is even better). A muffin tin or pudding tin is given a teaspoon of beef dripping (or vegetable oil) in each well; the tin goes into a screaming-hot 230°C oven for 8 minutes until the fat is smoking. The batter is poured into the smoking-hot fat - it should hiss and bubble immediately. Back in the oven for 22 minutes, undisturbed (NEVER OPEN THE DOOR). The Yorkshires rise dramatically into puffed golden cups. Served immediately - they collapse as they cool.
+A batter of equal volumes of plain flour, eggs and whole milk (and a pinch of salt) is whisked to a smooth thin consistency, like single cream. Rested for 30 minutes (overnight is even better). A muffin tin or pudding tin is given a teaspoon of beef dripping (or vegetable oil) in each well; the tin goes into a screaming-hot 230°C oven for 8 minutes until the fat is smoking. The batter is poured into the smoking-hot fat, it should hiss and bubble immediately. Back in the oven for 22 minutes, undisturbed (never OPEN THE DOOR). The Yorkshires rise dramatically into puffed golden cups. Served immediately, they collapse as they cool.
 
 ## Ingredients
 

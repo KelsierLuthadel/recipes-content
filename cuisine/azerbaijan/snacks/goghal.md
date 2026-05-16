@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A yeasted milk-and-egg dough rests for 1 hour. Spice mix combines black pepper, caraway, fennel, saffron and a hard cheese-like crumble (Azerbaijani gurut or a substitute). Dough rolls thin, brushes with butter, sprinkles with spice; folds, rolls, sprinkles again - repeated 3 times. Final dough rolls 1 cm thick; cuts with a glass into 12 rounds; eggwashes; bakes for 25 minutes at 180°C.
+A yeasted milk-and-egg dough rests for 1 hour. Spice mix combines black pepper, caraway, fennel, saffron and a hard cheese-like crumble (Azerbaijani gurut or a substitute). Dough rolls thin, brushes with butter, sprinkles with spice; folds, rolls, sprinkles again, repeated 3 times. Final dough rolls 1 cm thick; cuts with a glass into 12 rounds; eggwashes; bakes for 25 minutes at 180°C.
 
 ## Ingredients
 

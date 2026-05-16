@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Aubergine slices salt, drain 30 min, pat dry, fry crispy in olive oil. Eggs hard-boil (or for the traditional Iraqi-Jewish version, slow-cook overnight in a hamin pot - the brown eggs become beigene). Israeli salad: cucumber, tomato, red onion, parsley, lemon, olive oil. Tahini whisks with lemon juice and water to a pourable sauce. Pita warms briefly. Build: hummus smears inside; aubergine slices layer; egg quarters; salad; tahini drizzle; amba spoon; parsley.
+Aubergine slices salt, drain 30 min, pat dry, fry crispy in olive oil. Eggs hard-boil (or for the traditional Iraqi-Jewish version, slow-cook overnight in a hamin pot, the brown eggs become beigene). Israeli salad: cucumber, tomato, red onion, parsley, lemon, olive oil. Tahini whisks with lemon juice and water to a pourable sauce. Pita warms briefly. Build: hummus smears inside; aubergine slices layer; egg quarters; salad; tahini drizzle; amba spoon; parsley.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Fine bulgur (#1 grade) soaks in hot water until soft and fluffy. Lamb or beef mince mixes with the bulgur, grated onion, lots of chopped parsley and coriander, ground baharat, cumin and a pinch of cinnamon. The mixture should be soft enough to spread - if it's too dry the aroog crumble. Small portions press onto a hot oiled pan and flatten to 1 cm thick discs; cook for 4-5 minutes per side over medium heat until deeply browned and the meat is just cooked through. Lift, drain briefly, eat hot with lemon and yoghurt.
+Fine bulgur (#1 grade) soaks in hot water until soft and fluffy. Lamb or beef mince mixes with the bulgur, grated onion, lots of chopped parsley and coriander, ground baharat, cumin and a pinch of cinnamon. The mixture should be soft enough to spread, if it's too dry the aroog crumble. Small portions press onto a hot oiled pan and flatten to 1 cm thick discs; cook for 4-5 minutes per side over medium heat until deeply browned and the meat is just cooked through. Lift, drain briefly, eat hot with lemon and yoghurt.
 
 ## Ingredients
 

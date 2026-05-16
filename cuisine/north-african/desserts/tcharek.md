@@ -10,7 +10,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Almond filling: ground almonds, icing sugar, melted butter, lemon zest, orange-flower water - pulses or kneads to a soft paste. Rolls into ropes 1 cm thick; cuts into 4 cm pieces; each piece tapers slightly at the ends. Dough: plain flour, butter, icing sugar, egg yolk, salt - short shortbread-style. Each almond piece wraps in a small disc of dough; gently shaped into a crescent. Baked pale at 170°C. Dipped briefly in orange-flower syrup; rolled in icing sugar.
+Almond filling: ground almonds, icing sugar, melted butter, lemon zest, orange-flower water, pulses or kneads to a soft paste. Rolls into ropes 1 cm thick; cuts into 4 cm pieces; each piece tapers slightly at the ends. Dough: plain flour, butter, icing sugar, egg yolk, salt, short shortbread-style. Each almond piece wraps in a small disc of dough; gently shaped into a crescent. Baked pale at 170°C. Dipped briefly in orange-flower syrup; rolled in icing sugar.
 
 ## Ingredients
 

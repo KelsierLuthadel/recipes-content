@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Aubergines char directly on a gas flame or under a hot grill until the skin is uniformly black and the flesh is collapsed inside. Steamed briefly under foil; peeled. Flesh chops, then mashes (don't blend - the texture is the point) with tahini, lemon, garlic, salt. Plate; pool olive oil; scatter pomegranate seeds and parsley.
+Aubergines char directly on a gas flame or under a hot grill until the skin is uniformly black and the flesh is collapsed inside. Steamed briefly under foil; peeled. Flesh chops, then mashes (don't blend, the texture is the point) with tahini, lemon, garlic, salt. Plate; pool olive oil; scatter pomegranate seeds and parsley.
 
 ## Ingredients
 

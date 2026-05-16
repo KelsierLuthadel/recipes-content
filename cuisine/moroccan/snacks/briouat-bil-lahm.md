@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Onion is softened slowly in olive oil 15 minutes. Lamb mince browns with the onion; ras-el-hanout, cumin, cinnamon, salt and pepper season. Stock or a splash of water; simmered for 8-10 minutes till dry-fragrant. Off heat: parsley, coriander, beaten egg, finely chopped preserved lemon. Cooled. Warka strips lay flat; a teaspoon of filling at one end; flag-folded up the strip into a triangle. Sealed with egg-wash. Deep-fried for 3 minutes till deep gold.
+Onion is softened slowly in olive oil 15 minutes. Lamb mince browns with the onion; ras-el-hanout, cumin, cinnamon, salt and pepper season. Stock or a splash of water; simmered for 8-10 minutes till dry-fragrant. Off heat: parsley, coriander, beaten egg, finely chopped preserved lemon. Left to cool. Warka strips lay flat; a teaspoon of filling at one end; flag-folded up the strip into a triangle. Sealed with egg-wash. Deep-fried for 3 minutes till deep gold.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 3 hours (mostly hands-off) plus overnight chilling
 
 ## Overview
-Whole milk pours into a wide shallow heavy pan. Brought slowly to a bare simmer (no boiling - boiling tears the skin). Held just below simmer for 2-3 hours. As the milk reduces, a thick skin forms; lifted gently with a slotted spoon and stacked in a deep dish. Repeat every 20-30 minutes as new skins form. The layered cream sits with sugar between each layer overnight; sets to a soft slab. Sliced and served.
+Whole milk pours into a wide shallow heavy pan. Brought slowly to a bare simmer (no boiling, boiling tears the skin). Held just below simmer for 2-3 hours. As the milk reduces, a thick skin forms; lifted gently with a slotted spoon and stacked in a deep dish. Repeat every 20-30 minutes as new skins form. The layered cream sits with sugar between each layer overnight; sets to a soft slab. Sliced and served.
 
 ## Ingredients
 - 2 litres whole milk (full-fat, organic if possible - fat content makes urum)

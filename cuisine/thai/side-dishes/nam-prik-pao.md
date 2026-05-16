@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Dried red chillies are deseeded (most of them), garlic is sliced, shallots are sliced thin. All three fry separately in oil over medium heat until each is deep golden and crispy - sequence matters because they cook at different rates. Dried shrimp toasts briefly in the same oil. Everything pulses in a food processor (or pounds in a mortar - the traditional method) to a coarse paste. Returned to the pan with the residual oil; palm sugar, fish sauce, tamarind paste and a splash of water cook for 10 minutes more, stirring, until the colour deepens to mahogany and the paste is thick and glossy. Cooled, stored in oil, lasts weeks.
+Dried red chillies are deseeded (most of them), garlic is sliced, shallots are sliced thin. All three fry separately in oil over medium heat until each is deep golden and crispy, sequence matters because they cook at different rates. Dried shrimp toasts briefly in the same oil. Everything pulses in a food processor (or pounds in a mortar, the traditional method) to a coarse paste. Returned to the pan with the residual oil; palm sugar, fish sauce, tamarind paste and a splash of water cook for 10 minutes more, stirring, until the colour deepens to mahogany and the paste is thick and glossy. Once cooled and stored in oil, it lasts weeks.
 
 ## Ingredients
 

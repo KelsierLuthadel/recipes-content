@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Choux dough cooks on the stovetop: milk + water + butter + salt come to a rolling boil; flour is dumped in all at once; cooked for 1-2 minutes until the dough comes together as a ball that pulls away from the pan walls. Cooled slightly. Eggs whisk in one at a time to a smooth thick pipe-able paste. Grated Gruyère, Comté and a touch of Dijon mustard fold through. Piped or spooned into small mounds on a baking tray; brushed with egg wash; sprinkled with more cheese. Baked at 220°C for 10 minutes then 200°C for 15 more - the puffs rise dramatically, crack, and turn deep golden. Served warm.
+Choux dough cooks on the stovetop: milk + water + butter + salt come to a rolling boil; flour is dumped in all at once; cooked for 1-2 minutes until the dough comes together as a ball that pulls away from the pan walls. Cooled slightly. Eggs whisk in one at a time to a smooth thick pipe-able paste. Grated Gruyère, Comté and a touch of Dijon mustard fold through. Piped or spooned into small mounds on a baking tray; brushed with egg wash; sprinkled with more cheese. Baked at 220°C for 10 minutes then 200°C for 15 more, the puffs rise dramatically, crack, and turn deep golden. Served warm.
 
 ## Ingredients
 

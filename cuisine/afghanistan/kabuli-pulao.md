@@ -10,7 +10,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Lamb shoulder browns then braises in spiced stock until tender - the stock is the base for the rice. Carrots cut into matchsticks fry slowly in butter and sugar until golden and soft. Raisins plump in butter. Rice parboils in salted water, then layers in the cooking pot with lamb on the bottom, rice piled on top, drizzles of stock, and the lid clamped on for the steam-cook.
+Lamb shoulder browns then braises in spiced stock until tender, the stock is the base for the rice. Carrots cut into matchsticks fry slowly in butter and sugar until golden and soft. Raisins plump in butter. Rice parboils in salted water, then layers in the cooking pot with lamb on the bottom, rice piled on top, drizzles of stock, and the lid clamped on for the steam-cook.
 
 ## Ingredients
 

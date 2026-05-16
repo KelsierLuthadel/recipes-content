@@ -12,7 +12,7 @@
 **Yield:** Approximately 80 grams (makes 16-20 portions, half a tablespoon each)
 
 ## Overview
-Taco spice is a dry rub-and-stir blend used to season ground beef, pork, turkey or pinto beans for tacos, burritos, quesadillas, nachos and chilli con carne. The blend balances earthy cumin against sweet paprika, with garlic and onion powder doing the savoury heavy lifting, chilli for warmth, and a small dose of dried oregano for the herbal lift that distinguishes Tex-Mex from generic chilli powder. Salt is included so the blend is one-step at the pan - no extra seasoning needed.
+Taco spice is a dry rub-and-stir blend used to season ground beef, pork, turkey or pinto beans for tacos, burritos, quesadillas, nachos and chilli con carne. The blend balances earthy cumin against sweet paprika, with garlic and onion powder doing the savoury heavy lifting, chilli for warmth, and a small dose of dried oregano for the herbal lift that distinguishes Tex-Mex from generic chilli powder. Salt is included so the blend is one-step at the pan, no extra seasoning needed.
 
 ## Ingredients
 

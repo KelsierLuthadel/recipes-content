@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A simple yeasted dough - flour, baking powder, milk, salt, a touch of sugar - rests until soft and pliable. Each portion stretches by hand into a 15 cm disc, then drops into hot oil for 90 seconds per side. Wojapi simmers berries, water and maple syrup to a thick sauce; thickens slightly with a small amount of cornflour. The hot frybread piles on a plate; warm wojapi spoons over.
+A simple yeasted dough, flour, baking powder, milk, salt, a touch of sugar, rests until soft and pliable. Each portion stretches by hand into a 15 cm disc, then drops into hot oil for 90 seconds per side. Wojapi simmers berries, water and maple syrup to a thick sauce; thickens slightly with a small amount of cornflour. The hot frybread piles on a plate; warm wojapi spoons over.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Filling: black sesame seeds toasted in a dry pan, ground to a paste with sugar and softened lard (or butter); chilled until firm enough to roll into 16 small balls; frozen on a tray. Dough: glutinous rice flour mixed with just-boiled water (the hot water gelatinises some of the starch, giving the dough its characteristic chew) into a smooth pliable ball; rested briefly. Each piece of dough flattens between palms, takes a frozen filling ball, wraps around, rolls smooth - a hidden ball-in-ball. Boiled in water until they float and the outer dough is translucent (about 4 minutes from when the water comes back to boiling). Served in small bowls in a hot ginger-osmanthus syrup.
+Filling: black sesame seeds toasted in a dry pan, ground to a paste with sugar and softened lard (or butter); chilled until firm enough to roll into 16 small balls; frozen on a tray. Dough: glutinous rice flour mixed with just-boiled water (the hot water gelatinises some of the starch, giving the dough its characteristic chew) into a smooth pliable ball; rested briefly. Each piece of dough flattens between palms, takes a frozen filling ball, wraps around, rolls smooth, a hidden ball-in-ball. Boiled in water until they float and the outer dough is translucent (about 4 minutes from when the water comes back to boiling). Served in small bowls in a hot ginger-osmanthus syrup.
 
 ## Ingredients
 

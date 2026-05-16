@@ -10,7 +10,7 @@
 **Cook Time:** 2 hours 15 minutes
 
 ## Overview
-Dried red beans soak overnight. Bacon and chorizo render in a wide pot; aromatics build the base; soaked beans simmer with a chunk of green plantain (the trick - it dissolves over the cook and naturally thickens the broth) and pork belly for 2 hours. Hogao folds in at the end. Lime brightens.
+Dried red beans soak overnight. Bacon and chorizo render in a wide pot; aromatics build the base; soaked beans simmer with a chunk of green plantain (the trick, it dissolves over the cook and naturally thickens the broth) and pork belly for 2 hours. Hogao folds in at the end. Lime brightens.
 
 ## Ingredients
 

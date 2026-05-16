@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Drained dry cottage cheese (or quark, ricotta, farmer's cheese) mixes with eggs, flour, sugar and vanilla into a thick batter. Heaped tablespoons land on a buttered hot pan, flatten to 2 cm thick discs, and fry slowly to golden - the cheese cooks through, the surface crisps. Soured cream and jam on top.
+Drained dry cottage cheese (or quark, ricotta, farmer's cheese) mixes with eggs, flour, sugar and vanilla into a thick batter. Heaped tablespoons land on a buttered hot pan, flatten to 2 cm thick discs, and fry slowly to golden, the cheese cooks through, the surface crisps. Soured cream and jam on top.
 
 ## Ingredients
 

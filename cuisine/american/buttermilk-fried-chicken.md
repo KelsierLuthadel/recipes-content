@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Chicken pieces brine in buttermilk seasoned with garlic, paprika, salt and a splash of hot sauce - the buttermilk's acid tenderises while the seasoning penetrates. Dredged in heavily-seasoned flour, then dipped back in buttermilk briefly, then dredged again - the double coat is what gives the craggy, extra-crisp crust. Fried in 175°C oil 12-15 minutes per piece.
+Chicken pieces brine in buttermilk seasoned with garlic, paprika, salt and a splash of hot sauce, the buttermilk's acid tenderises while the seasoning penetrates. Dredged in heavily-seasoned flour, then dipped back in buttermilk briefly, then dredged again, the double coat is what gives the craggy, extra-crisp crust. Fried in 175°C oil 12-15 minutes per piece.
 
 ## Ingredients
 

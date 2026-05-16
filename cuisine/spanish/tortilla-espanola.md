@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Potatoes slice thin and cook slowly in shallow olive oil with onions until soft - not fried, almost steamed in the oil. They drain (oil saved); fold into beaten eggs with salt; pour into a hot pan with a little of the saved oil; cook until the bottom is set; flip onto a plate and slide back to cook the other side. Centre should still wobble slightly when nudged.
+Potatoes slice thin and cook slowly in shallow olive oil with onions until soft, not fried, almost steamed in the oil. They drain (oil saved); fold into beaten eggs with salt; pour into a hot pan with a little of the saved oil; cook until the bottom is set; flip onto a plate and slide back to cook the other side. Centre should still wobble slightly when nudged.
 
 ## Ingredients
 

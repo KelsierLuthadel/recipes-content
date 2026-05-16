@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Eggs hard-boil and cool. Onions cook slowly in oil or schmaltz until deeply golden and sweet. Both chop together with a fork or knife (not a food processor - the texture matters); salt and pepper season. Serve at room temperature.
+Eggs hard-boil and cool. Onions cook slowly in oil or schmaltz until deeply golden and sweet. Both chop together with a fork or knife (not a food processor, the texture matters); salt and pepper season. Serve at room temperature.
 
 ## Ingredients
 

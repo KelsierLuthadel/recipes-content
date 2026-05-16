@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A spice paste of green chillies and aromatics blends fresh (or starts from a good Thai paste with fresh additions). Coconut cream from the top of the can is cracked in the wok until oil splits out; paste fries; coconut milk loosens; vegetables - Thai aubergine, pea aubergine, bamboo shoots, broccoli, baby corn - go in by cook time. Tofu joins; the curry simmers briefly. Soy sauce (instead of fish sauce), palm sugar, lime leaves, Thai basil to finish.
+A spice paste of green chillies and aromatics blends fresh (or starts from a good Thai paste with fresh additions). Coconut cream from the top of the can is cracked in the wok until oil splits out; paste fries; coconut milk loosens; vegetables, Thai aubergine, pea aubergine, bamboo shoots, broccoli, baby corn, go in by cook time. Tofu joins; the curry simmers briefly. Soy sauce (instead of fish sauce), palm sugar, lime leaves, Thai basil to finish.
 
 ## Ingredients
 

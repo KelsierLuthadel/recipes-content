@@ -10,7 +10,7 @@
 **Total Time:** 50 minutes (with the essential 30-minute rest)
 
 ## Overview
-Day-old crusty bread is torn into rough pieces and briefly moistened with water-and-vinegar - just enough to soften without making mush. Ripe tomatoes are deseeded and cubed; juice is reserved for the dressing. Cucumber is peeled in stripes, deseeded and sliced. Red onion slices soak briefly in cold water to mellow. A dressing of red wine vinegar, good olive oil, the tomato juice, garlic and salt is whisked. Everything tosses together in a wide bowl; rests for 30 minutes at room temperature so the bread drinks in the juices; finished with torn basil and a final glug of olive oil at serving.
+Day-old crusty bread is torn into rough pieces and briefly moistened with water-and-vinegar, just enough to soften without making mush. Ripe tomatoes are deseeded and cubed; juice is reserved for the dressing. Cucumber is peeled in stripes, deseeded and sliced. Red onion slices soak briefly in cold water to mellow. A dressing of red wine vinegar, good olive oil, the tomato juice, garlic and salt is whisked. Everything tosses together in a wide bowl; rests for 30 minutes at room temperature so the bread drinks in the juices; finished with torn basil and a final glug of olive oil at serving.
 
 ## Ingredients
 

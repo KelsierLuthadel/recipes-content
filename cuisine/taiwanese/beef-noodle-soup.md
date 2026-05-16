@@ -10,7 +10,7 @@
 **Cook Time:** 2 ½-3 hours
 
 ## Overview
-Beef shank parboils briefly to remove scum. Aromatics - ginger, garlic, scallion, star anise, cinnamon, dried chilli, Sichuan peppercorn, doubanjiang (fermented chilli broad bean paste) - fry in oil until fragrant. Tomato deepens the broth. Beef stock, soy, rice wine, and rock sugar build the body. The shank simmers for 2-3 hours until fork-tender. Noodles cook fresh; broth ladles over; pickled greens and chilli oil top.
+Beef shank parboils briefly to remove scum. Aromatics, ginger, garlic, scallion, star anise, cinnamon, dried chilli, Sichuan peppercorn, doubanjiang (fermented chilli broad bean paste), fry in oil until fragrant. Tomato deepens the broth. Beef stock, soy, rice wine, and rock sugar build the body. The shank simmers for 2-3 hours until fork-tender. Noodles cook fresh; broth ladles over; pickled greens and chilli oil top.
 
 ## Ingredients
 

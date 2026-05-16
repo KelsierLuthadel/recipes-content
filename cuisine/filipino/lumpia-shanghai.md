@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A pork-mince filling with carrot, onion, garlic, soy and pepper rolls tightly into thin spring-roll wrappers, finger-sized. Deep-fries golden in 4 minutes. The wrappers are key - Filipino lumpia wrappers are thinner than Chinese spring-roll skins and crisp differently.
+A pork-mince filling with carrot, onion, garlic, soy and pepper rolls tightly into thin spring-roll wrappers, finger-sized. Deep-fries golden in 4 minutes. The wrappers are key, Filipino lumpia wrappers are thinner than Chinese spring-roll skins and crisp differently.
 
 ## Ingredients
 

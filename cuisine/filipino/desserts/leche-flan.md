@@ -10,7 +10,7 @@
 **Cook Time:** 45 minutes (plus 4 hours chilling)
 
 ## Overview
-Sugar caramelises in each llanera tin until amber and runny; tins set aside to cool. Yolks whisk gently (don't aerate - that creates bubbles in the set flan) with condensed milk, evaporated milk and a splash of vanilla. Custard strains through a fine sieve into the caramel-lined tins. Steams in a bain-marie 40-45 minutes (or oven-bakes covered in a water bath at 160°C). Cools completely; chills for 4 hours. Inverted onto plates at service - the caramel becomes the sauce.
+Sugar caramelises in each llanera tin until amber and runny; tins set aside to cool. Yolks whisk gently (don't aerate, that creates bubbles in the set flan) with condensed milk, evaporated milk and a splash of vanilla. Custard strains through a fine sieve into the caramel-lined tins. Steams in a bain-marie 40-45 minutes (or oven-bakes covered in a water bath at 160°C). Cools completely; chills for 4 hours. Inverted onto plates at service, the caramel becomes the sauce.
 
 ## Ingredients
 

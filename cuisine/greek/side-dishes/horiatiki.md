@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Tomatoes cut into thick wedges, cucumber peeled in stripes and cut into chunky rounds, red onion sliced thin and soaked in cold water 5 minutes (mellows the bite), green bell pepper sliced into rings, kalamata olives stoned or whole at the cook's discretion. Pile in a shallow bowl. A whole slab of feta sits on top - uncrumbled, dignified. Olive oil pours over, red-wine vinegar splashes, oregano sprinkles. Rest for 10 minutes before serving so the tomato juices mix with the oil.
+Tomatoes cut into thick wedges, cucumber peeled in stripes and cut into chunky rounds, red onion sliced thin and soaked in cold water 5 minutes (mellows the bite), green bell pepper sliced into rings, kalamata olives stoned or whole at the cook's discretion. Pile in a shallow bowl. A whole slab of feta sits on top, uncrumbled, dignified. Olive oil pours over, red-wine vinegar splashes, oregano sprinkles. Rest for 10 minutes before serving so the tomato juices mix with the oil.
 
 ## Ingredients
 - 4 ripe medium tomatoes (about 600 g)

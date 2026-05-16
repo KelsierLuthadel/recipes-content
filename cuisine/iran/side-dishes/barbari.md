@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes (with a hot stone)
 
 ## Overview
-A wet yeasted dough - high hydration (75%) of strong flour, yeast, salt, water and a touch of oil. Long first rise. Two portions; each stretches to a 40-50 cm long oval on an oiled work surface. A flour-water paste (roomal) brushes over the top - this gives the signature glossy crust. Deep parallel ridges press down with fingertips. Sesame and nigella seeds scatter. Baked at maximum heat 5-7 minutes on a screaming-hot stone.
+A wet yeasted dough, high hydration (75%) of strong flour, yeast, salt, water and a touch of oil. Long first rise. Two portions; each stretches to a 40-50 cm long oval on an oiled work surface. A flour-water paste (roomal) brushes over the top, this gives the signature glossy crust. Deep parallel ridges press down with fingertips. Sesame and nigella seeds scatter. Baked at maximum heat 5-7 minutes on a screaming-hot stone.
 
 ## Ingredients
 

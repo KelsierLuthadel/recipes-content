@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-The dish is an assembly, not a recipe. The four ingredients (tomato, mozzarella, basil, olive oil) all need to be the best you can afford - that's the whole technique. Tomatoes at peak ripeness, sliced 1 cm thick; mozzarella di bufala torn or sliced fresh from the brine; large whole basil leaves; cold-pressed extra-virgin olive oil. Layered on a plate alternating tomato slices with mozzarella, basil leaves tucked between, salt and pepper, finished with olive oil. Eaten with crusty bread.
+The dish is an assembly, not a recipe. The four ingredients (tomato, mozzarella, basil, olive oil) all need to be the best you can afford, that's the whole technique. Tomatoes at peak ripeness, sliced 1 cm thick; mozzarella di bufala torn or sliced fresh from the brine; large whole basil leaves; cold-pressed extra-virgin olive oil. Layered on a plate alternating tomato slices with mozzarella, basil leaves tucked between, salt and pepper, finished with olive oil. Eaten with crusty bread.
 
 ## Ingredients
 

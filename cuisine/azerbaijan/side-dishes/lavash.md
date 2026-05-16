@@ -10,7 +10,7 @@
 **Cook Time:** 24 minutes (3 minutes per sheet)
 
 ## Overview
-Flour, water and salt knead to a firm but pliable dough - drier than a pasta dough, smoother than a bread dough. 30 minutes rest under a damp cloth lets the gluten relax. Divides into 8 balls; each rolls out paper-thin (you should be able to read newsprint through it). Cooks on a heavy dry skillet over high heat - 60-90 seconds per side, just long enough to puff and blister.
+Flour, water and salt knead to a firm but pliable dough, drier than a pasta dough, smoother than a bread dough. 30 minutes rest under a damp cloth lets the gluten relax. Divides into 8 balls; each rolls out paper-thin (you should be able to read newsprint through it). Cooks on a heavy dry skillet over high heat, 60-90 seconds per side, just long enough to puff and blister.
 
 ## Ingredients
 - 500 g plain flour (plus extra for dusting)

@@ -10,7 +10,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-Trimmed green beans blanch in heavily salted boiling water for 3-4 minutes until just tender (still bright green and slightly crisp). Drained but NOT refreshed if serving immediately - the residual heat is wanted; if making ahead, refresh in ice water to stop cooking. Butter melts in a wide pan; flaked almonds toast in the butter until both go gold-amber together (the butter browns to beurre noisette / hazelnut butter). The blanched beans toss in the butter-almond pan over high heat for 1 minute; finished with a squeeze of lemon, a grind of pepper, optional Dijon mustard or garlic, and chopped parsley.
+Trimmed green beans blanch in heavily salted boiling water for 3-4 minutes until just tender (still bright green and slightly crisp). Drained but not refreshed if serving immediately, the residual heat is wanted; if making ahead, refresh in ice water to stop cooking. Butter melts in a wide pan; flaked almonds toast in the butter until both go gold-amber together (the butter browns to beurre noisette / hazelnut butter). The blanched beans toss in the butter-almond pan over high heat for 1 minute; finished with a squeeze of lemon, a grind of pepper, optional Dijon mustard or garlic, and chopped parsley.
 
 ## Ingredients
 

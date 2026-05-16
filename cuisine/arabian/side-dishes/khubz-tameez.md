@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes (with a baking stone)
 
 ## Overview
-A simple yeasted bread dough - plain flour, fast-action yeast, salt, sugar, olive oil and warm water - kneads, rises, divides into balls, shapes into thick rounds, and bakes on a screaming-hot stone or steel for 4-5 minutes per side. The result puffs slightly, blisters across the top, and stays soft inside.
+A simple yeasted bread dough, plain flour, fast-action yeast, salt, sugar, olive oil and warm water, kneads, rises, divides into balls, shapes into thick rounds, and bakes on a screaming-hot stone or steel for 4-5 minutes per side. The result puffs slightly, blisters across the top, and stays soft inside.
 
 ## Ingredients
 

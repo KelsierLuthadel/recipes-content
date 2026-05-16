@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A thin yeasted batter - flour, semolina, yogurt, yeast, sugar, water - ferments at room temperature 6+ hours till bubbly. Sugar syrup with rose water + lemon juice + saffron simmers for 5 minutes. Hot oil heats to 175°C. Batter pipes through a small bottle nozzle (or a piping bag fitted with a 5 mm round tip) into the oil in lacy spiral / pretzel shapes. Fries for 2 minutes till deep amber. Lifts directly into the warm syrup; soaks for 30 seconds. Drains.
+A thin yeasted batter, flour, semolina, yogurt, yeast, sugar, water, ferments at room temperature 6+ hours till bubbly. Sugar syrup with rose water + lemon juice + saffron simmers for 5 minutes. Hot oil heats to 175°C. Batter pipes through a small bottle nozzle (or a piping bag fitted with a 5 mm round tip) into the oil in lacy spiral / pretzel shapes. Fries for 2 minutes till deep amber. Lifts directly into the warm syrup; soaks for 30 seconds. Drains.
 
 ## Ingredients
 

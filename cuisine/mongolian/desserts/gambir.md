@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A simple dough - flour, warm water, salt - kneads to a smooth ball, rests for 30 minutes. Divides into 6 portions, each rolls paper-thin to 35 cm. The thin sheet brushes generously with melted butter, sprinkles with sugar, then rolls up like a Swiss roll, then coils tight like a snail shell. The coil flattens with the palm of the hand to a 12 cm disc - the layers compress but stay distinct. Pan-fries on a dry skillet 4 minutes per side, then bakes finish at 180°C for 8 minutes to dry out the centre.
+A simple dough, flour, warm water, salt, kneads to a smooth ball, rests for 30 minutes. Divides into 6 portions, each rolls paper-thin to 35 cm. The thin sheet brushes generously with melted butter, sprinkles with sugar, then rolls up like a Swiss roll, then coils tight like a snail shell. The coil flattens with the palm of the hand to a 12 cm disc, the layers compress but stay distinct. Pan-fries on a dry skillet 4 minutes per side, then bakes finish at 180°C for 8 minutes to dry out the centre.
 
 ## Ingredients
 

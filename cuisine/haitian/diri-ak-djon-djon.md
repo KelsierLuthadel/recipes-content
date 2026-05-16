@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Dried djon djon mushrooms are soaked in hot water for 30 minutes; the inky black soaking liquid is strained and reserved (the mushrooms themselves are mostly discarded or used minimally). Aromatics - shallot, garlic, thyme, parsley, Scotch bonnet, épis - are sweated in oil, then green peas and lima beans are added, then long-grain rice is stirred in to coat. The djon djon broth is poured over the rice; the pot is covered and steamed gently until the rice is tender and slate-black. Garnished with parsley and served as the centrepiece of any meal it appears in.
+Dried djon djon mushrooms are soaked in hot water for 30 minutes; the inky black soaking liquid is strained and reserved (the mushrooms themselves are mostly discarded or used minimally). Aromatics, shallot, garlic, thyme, parsley, Scotch bonnet, épis, are sweated in oil, then green peas and lima beans are added, then long-grain rice is stirred in to coat. The djon djon broth is poured over the rice; the pot is covered and steamed gently until the rice is tender and slate-black. Garnished with parsley and served as the centrepiece of any meal it appears in.
 
 ## Ingredients
 

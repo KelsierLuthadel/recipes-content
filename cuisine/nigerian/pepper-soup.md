@@ -10,7 +10,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Bone-in goat (or chicken or catfish - fish takes much less time) simmers in lightly salted water with onion, garlic, ginger, scotch bonnet and the pepper-soup spice mix for 75 minutes until tender. Crayfish (ground dried shrimp) and stock cube go in for depth. Scent leaf (Nigerian basil) or basil leaves and chopped onion finish at the table.
+Bone-in goat (or chicken or catfish, fish takes much less time) simmers in lightly salted water with onion, garlic, ginger, scotch bonnet and the pepper-soup spice mix for 75 minutes until tender. Crayfish (ground dried shrimp) and stock cube go in for depth. Scent leaf (Nigerian basil) or basil leaves and chopped onion finish at the table.
 
 ## Ingredients
 

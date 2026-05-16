@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes (for the rice)
 
 ## Overview
-Short-grain Japanese rice (sushi rice) is rinsed several times until the water runs clear, then cooked with slightly less water than for regular rice (so each grain stays separate-but-sticky). Cooled slightly to warm (NOT hot - hands burn; NOT cold - rice doesn't compress). Filling options prepare: umeboshi (sour pickled plum, sold whole or paste); salt-grilled salmon flaked; tinned tuna mixed with mayo and a pinch of soy. Hands wet with water, dust with salt, take a generous handful of rice, press a thumb-dent in the centre, drop a teaspoon of filling, fold the rice over to enclose, press into a triangular shape with the palms. Wrap each ball with a small strip of nori at the base.
+Short-grain Japanese rice (sushi rice) is rinsed several times until the water runs clear, then cooked with slightly less water than for regular rice (so each grain stays separate-but-sticky). Cooled slightly to warm (not hot, hands burn; not cold, rice doesn't compress). Filling options prepare: umeboshi (sour pickled plum, sold whole or paste); salt-grilled salmon flaked; tinned tuna mixed with mayo and a pinch of soy. Hands wet with water, dust with salt, take a generous handful of rice, press a thumb-dent in the centre, drop a teaspoon of filling, fold the rice over to enclose, press into a triangular shape with the palms. Wrap each ball with a small strip of nori at the base.
 
 ## Ingredients
 

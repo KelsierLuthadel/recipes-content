@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes (plus overnight resting)
 
 ## Overview
-A 30 × 22 cm tin is built in layers: 8 buttered filo sheets on the bottom; walnut-cinnamon filling; 4 buttered filo sheets; more walnut; 4 more filo; walnut; finally 8 more buttered filo on top. The top is scored into squares; a clove is pressed into the centre of each. Baked for 45 minutes at 180°C till amber. Syrup of honey, sugar, water, lemon and cinnamon stick simmers separately. The COOL syrup is poured over the HOT baklava. Rested overnight - non-negotiable.
+A 30 × 22 cm tin is built in layers: 8 buttered filo sheets on the bottom; walnut-cinnamon filling; 4 buttered filo sheets; more walnut; 4 more filo; walnut; finally 8 more buttered filo on top. The top is scored into squares; a clove is pressed into the centre of each. Baked for 45 minutes at 180°C till amber. Syrup of honey, sugar, water, lemon and cinnamon stick simmers separately. The COOL syrup is poured over the HOT baklava. Rested overnight, non-negotiable.
 
 ## Ingredients
 

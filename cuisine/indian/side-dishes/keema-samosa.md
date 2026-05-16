@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Lamb mince fries with onion, garlic, ginger and a spice mix of garam masala, cumin, coriander and chilli. Frozen peas thaw into the dry filling at the end; lemon juice and chopped coriander finish it. Cooled. Spring-roll pastry strips fold around a generous tablespoon of filling into triangular packets (flag-fold) and seal with flour paste. Deep-fried 175°C until deep gold.
+Lamb mince fries with onion, garlic, ginger and a spice mix of garam masala, cumin, coriander and chilli. Frozen peas thaw into the dry filling at the end; lemon juice and chopped coriander finish it. Left to cool. Spring-roll pastry strips fold around a generous tablespoon of filling into triangular packets (flag-fold) and seal with flour paste. Deep-fried 175°C until deep gold.
 
 ## Ingredients
 

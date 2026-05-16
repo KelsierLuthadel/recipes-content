@@ -12,7 +12,7 @@
 **Total Time:** 24+ hours (with the jelly-set overnight)
 
 ## Overview
-Pork shoulder (uncured, fatty) and a small amount of bacon are chopped into 5 mm dice (not minced - the texture is key). Mixed with white pepper, mace, sage, salt and a touch of anchovy paste for umami. The hot-water-crust pastry: flour is mixed with hot water-and-lard mixture, kneaded warm into a pliable dough. Two-thirds of the dough lines a tall round tin (or is moulded freestanding around a glass jar); the filling is packed in tight; a lid of remaining dough is laid over the top with a 1 cm steam hole punched. Baked at 200°C for 30 min, then 160°C for another 60-75 min. Cooled. A rich pork stock (made from trotters or with gelatin sheets) is poured through the steam hole while the pie is still warm. Refrigerated overnight to set the jelly. Sliced and eaten cold.
+Pork shoulder (uncured, fatty) and a small amount of bacon are chopped into 5 mm dice (not minced, the texture is key). Mixed with white pepper, mace, sage, salt and a touch of anchovy paste for umami. The hot-water-crust pastry: flour is mixed with hot water-and-lard mixture, kneaded warm into a pliable dough. Two-thirds of the dough lines a tall round tin (or is moulded freestanding around a glass jar); the filling is packed in tight; a lid of remaining dough is laid over the top with a 1 cm steam hole punched. Baked at 200°C for 30 min, then 160°C for another 60-75 min. Left to cool. A rich pork stock (made from trotters or with gelatin sheets) is poured through the steam hole while the pie is still warm. Refrigerated overnight to set the jelly. Sliced and eaten cold.
 
 ## Ingredients
 

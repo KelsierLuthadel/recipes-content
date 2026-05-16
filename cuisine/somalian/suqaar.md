@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Beef tenderloin or sirloin is cubed small. A spice mix of cumin, coriander, cardamom and cinnamon - Somalia's xawaash - seasons it. The cubes sear quickly in a hot pan with onion and pepper; tomato paste deepens; chilli and butter finish. Coriander piles on at the table.
+Beef tenderloin or sirloin is cubed small. A spice mix of cumin, coriander, cardamom and cinnamon, Somalia's xawaash, seasons it. The cubes sear quickly in a hot pan with onion and pepper; tomato paste deepens; chilli and butter finish. Coriander piles on at the table.
 
 ## Ingredients
 

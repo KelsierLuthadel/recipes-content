@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-An enriched dough - flour, butter, milk, egg yolks, yeast - is rolled into 8 layers, with crushed walnut filling between each. The top layer is scored in a diamond pattern, brushed with saffron-tinted egg yolk, and pressed with a nut at the centre of each diamond. Baked at 180°C for 45 minutes. Saffron-honey syrup is poured over hot. Rested overnight before slicing - the syrup absorbs fully and the layers set.
+An enriched dough, flour, butter, milk, egg yolks, yeast, is rolled into 8 layers, with crushed walnut filling between each. The top layer is scored in a diamond pattern, brushed with saffron-tinted egg yolk, and pressed with a nut at the centre of each diamond. Baked at 180°C for 45 minutes. Saffron-honey syrup is poured over hot. Rested overnight before slicing, the syrup absorbs fully and the layers set.
 
 ## Ingredients
 

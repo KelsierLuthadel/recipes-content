@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-The crepe batter: rice flour, plain flour, eggs, coconut milk, water, salt, pandan extract - whisked smooth, rested for 30 minutes. The filling (unti): palm sugar dissolves in a little water with a pandan leaf; fresh grated coconut stirs in; cooks for 5 minutes till just absorbed and sticky. Cool. Crepes cook for 1 minute per side in a small pan. Each crepe gets a heaped tablespoon of unti at one end; folds in the sides; rolls up like a cigar. Eats at room temperature.
+The crepe batter: rice flour, plain flour, eggs, coconut milk, water, salt, pandan extract, whisked smooth, rested for 30 minutes. The filling (unti): palm sugar dissolves in a little water with a pandan leaf; fresh grated coconut stirs in; cooks for 5 minutes till just absorbed and sticky. Cool. Crepes cook for 1 minute per side in a small pan. Each crepe gets a heaped tablespoon of unti at one end; folds in the sides; rolls up like a cigar. Eats at room temperature.
 
 ## Ingredients
 

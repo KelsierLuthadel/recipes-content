@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Mince mixes raw with finely chopped onion, garlic, parsley, chilli and Egyptian spices. The mixture spreads onto flatbread and folds shut; an egg-and-oil wash glazes the surface; a hot oven (or skillet) crisps the bread while the filling cooks through. The spice blend - cumin, coriander, cinnamon, allspice, sumac, paprika - is the dish's signature.
+Mince mixes raw with finely chopped onion, garlic, parsley, chilli and Egyptian spices. The mixture spreads onto flatbread and folds shut; an egg-and-oil wash glazes the surface; a hot oven (or skillet) crisps the bread while the filling cooks through. The spice blend, cumin, coriander, cinnamon, allspice, sumac, paprika, is the dish's signature.
 
 ## Ingredients
 

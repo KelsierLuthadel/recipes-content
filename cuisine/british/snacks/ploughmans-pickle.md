@@ -12,7 +12,7 @@
 **Total Time:** 2-4 weeks (matures in the jars)
 
 ## Overview
-Vegetables - swede, carrot, gherkins, onion, cauliflower - dice into small (4 mm) cubes. Dates chop finely. A pickling base of malt vinegar, dark brown sugar, black treacle, salt, mustard powder, ground cloves and allspice brings to a simmer. The diced vegetables join; everything simmers for 45-60 minutes until the liquid reduces by half and the vegetables are tender but still distinct. Cornflour-and-water slurry thickens the syrup to a glossy chutney consistency. Spooned hot into sterilised jars; sealed; cooled. Matures 2-4 weeks before opening - the flavours develop dramatically with rest.
+Vegetables, swede, carrot, gherkins, onion, cauliflower, dice into small (4 mm) cubes. Dates chop finely. A pickling base of malt vinegar, dark brown sugar, black treacle, salt, mustard powder, ground cloves and allspice brings to a simmer. The diced vegetables join; everything simmers for 45-60 minutes until the liquid reduces by half and the vegetables are tender but still distinct. Cornflour-and-water slurry thickens the syrup to a glossy chutney consistency. Spooned hot into sterilised jars; sealed; cooled. Matures 2-4 weeks before opening, the flavours develop dramatically with rest.
 
 ## Ingredients
 

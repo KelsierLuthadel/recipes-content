@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Pork loin (or pork shoulder) is sliced very thin across the grain - 3 mm thick, 5-6 cm wide. Marinated for 2 hours in white wine, garlic, paprika, bay leaves, black pepper and salt. Fried in olive oil and butter over high heat 1 minute per side; the marinade reduces in the pan to a thin sauce. Piled into halved papo-seco rolls (or sturdy white rolls), the bread soaked in the pan-juices. Mustard or piri-piri sauce alongside.
+Pork loin (or pork shoulder) is sliced very thin across the grain, 3 mm thick, 5-6 cm wide. Marinated for 2 hours in white wine, garlic, paprika, bay leaves, black pepper and salt. Fried in olive oil and butter over high heat 1 minute per side; the marinade reduces in the pan to a thin sauce. Piled into halved papo-seco rolls (or sturdy white rolls), the bread soaked in the pan-juices. Mustard or piri-piri sauce alongside.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A whole Portuguese chouriço (or paprika chorizo as substitute) sits on a clay assador (the pig-shaped dish for the purpose; or any heat-safe dish with high sides). Aguardente (Portuguese brandy / firewater) - or any high-proof brandy / rum - pours over to a depth of 1 cm. Lit with a match at the table. The blue alcohol flames cook and char the chouriço over 8-10 minutes; the sugar in the paprika caramelises; the kitchen fills with a dramatic smoky aroma. Once the flames die, the chouriço slices thick. Served with bread, the rendered oil from the dish, olives, and pickled chillies.
+A whole Portuguese chouriço (or paprika chorizo as substitute) sits on a clay assador (the pig-shaped dish for the purpose; or any heat-safe dish with high sides). Aguardente (Portuguese brandy / firewater), or any high-proof brandy / rum, pours over to a depth of 1 cm. Lit with a match at the table. The blue alcohol flames cook and char the chouriço over 8-10 minutes; the sugar in the paprika caramelises; the kitchen fills with a dramatic smoky aroma. Once the flames die, the chouriço slices thick. Served with bread, the rendered oil from the dish, olives, and pickled chillies.
 
 ## Ingredients
 

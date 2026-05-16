@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Sweet white onion is sliced thin and soaked in cold salted water 15 minutes - this draws out the sharpness and leaves a clean, mild onion flavour. Tomatoes slice into half-moons; everything tosses with olive oil, lime and salt. Coriander on top.
+Sweet white onion is sliced thin and soaked in cold salted water 15 minutes, this draws out the sharpness and leaves a clean, mild onion flavour. Tomatoes slice into half-moons; everything tosses with olive oil, lime and salt. Coriander on top.
 
 ## Ingredients
 

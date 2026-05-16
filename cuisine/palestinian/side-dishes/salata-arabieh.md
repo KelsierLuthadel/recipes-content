@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Tomato, cucumber and onion all diced very small (the cut is small - 5 mm pieces, not chunky). Fresh parsley, mint and an optional chilli chop. Everything mixes in a wide bowl with lemon juice, olive oil, sumac, salt and pepper. Rest for 5 minutes for the flavours to integrate. Eat immediately - the tomato weeps quickly and the salad goes watery after an hour.
+Tomato, cucumber and onion all diced very small (the cut is small, 5 mm pieces, not chunky). Fresh parsley, mint and an optional chilli chop. Everything mixes in a wide bowl with lemon juice, olive oil, sumac, salt and pepper. Rest for 5 minutes for the flavours to integrate. Eat immediately, the tomato weeps quickly and the salad goes watery after an hour.
 
 ## Ingredients
 

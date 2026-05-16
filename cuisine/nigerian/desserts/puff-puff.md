@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A loose, slightly slack yeasted batter (no kneading) rises until bubbly. Hot vegetable oil receives small balls scooped with wet hands or a spoon - they puff and turn themselves over as they fry, golden in 3-4 minutes. Drained briefly; eaten warm. The classic Nigerian version is faintly nutmeggy.
+A loose, slightly slack yeasted batter (no kneading) rises until bubbly. Hot vegetable oil receives small balls scooped with wet hands or a spoon, they puff and turn themselves over as they fry, golden in 3-4 minutes. Drained briefly; eaten warm. The classic Nigerian version is faintly nutmeggy.
 
 ## Ingredients
 

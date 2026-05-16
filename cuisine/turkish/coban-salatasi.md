@@ -10,7 +10,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Vegetables are diced into 1 cm cubes - slightly larger than Israeli salad. Olive oil, lemon and a generous shake of sumac bring it together. Eats at room temperature; doesn't keep - make right before serving.
+Vegetables are diced into 1 cm cubes, slightly larger than Israeli salad. Olive oil, lemon and a generous shake of sumac bring it together. Eats at room temperature; doesn't keep, make right before serving.
 
 ## Ingredients
 

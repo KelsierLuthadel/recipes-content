@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes (plus 30 minutes soaking)
 
 ## Overview
-Khoya (or a milk-powder shortcut) blends with a small amount of plain flour, semolina, baking powder and ghee to a smooth, soft dough. Small balls fry slowly in low-temperature oil until uniformly deep gold. They drop straight into warm rose-cardamom syrup and soak 30+ minutes - the whole point is the soaked, syrup-heavy bite.
+Khoya (or a milk-powder shortcut) blends with a small amount of plain flour, semolina, baking powder and ghee to a smooth, soft dough. Small balls fry slowly in low-temperature oil until uniformly deep gold. They drop straight into warm rose-cardamom syrup and soak 30+ minutes, the whole point is the soaked, syrup-heavy bite.
 
 ## Ingredients
 

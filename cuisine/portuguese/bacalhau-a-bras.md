@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Salt cod desalts in cold water (changed several times) for 24-48 hours, then poaches briefly and shreds. Onions cook slowly in olive oil with garlic until very soft. Pre-fried matchstick potatoes (palha) toss in. The cod joins; eggs whisk in over a low heat - they should coat everything like a loose carbonara, never set firm. Olives, parsley and lemon at the end.
+Salt cod desalts in cold water (changed several times) for 24-48 hours, then poaches briefly and shreds. Onions cook slowly in olive oil with garlic until very soft. Pre-fried matchstick potatoes (palha) toss in. The cod joins; eggs whisk in over a low heat, they should coat everything like a loose carbonara, never set firm. Olives, parsley and lemon at the end.
 
 ## Ingredients
 

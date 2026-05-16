@@ -10,7 +10,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Chicken livers blitz to a fine paste (so they melt into the rice rather than appearing as recognisable pieces). Minced beef or pork browns hard; trinity follows; spice blooms; rice toasts; stock joins. Everything simmers covered until the rice is tender. The result is grey-brown rice studded with meat - the "dirty" name describes the look, not the cleanliness.
+Chicken livers blitz to a fine paste (so they melt into the rice rather than appearing as recognisable pieces). Minced beef or pork browns hard; trinity follows; spice blooms; rice toasts; stock joins. Everything simmers covered until the rice is tender. The result is grey-brown rice studded with meat, the "dirty" name describes the look, not the cleanliness.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 2 ½ hours
 
 ## Overview
-Beef chuck cubes brown briefly, then simmer slow in a generous onion base with paprika as the dominant spice. Tomato, garlic and caraway add depth; potatoes go in late. The defining flavour is the paprika - Hungarian sweet paprika, not generic Spanish; the colour and flavour are different.
+Beef chuck cubes brown briefly, then simmer slow in a generous onion base with paprika as the dominant spice. Tomato, garlic and caraway add depth; potatoes go in late. The defining flavour is the paprika, Hungarian sweet paprika, not generic Spanish; the colour and flavour are different.
 
 ## Ingredients
 

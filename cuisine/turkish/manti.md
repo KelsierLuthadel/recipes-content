@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A simple egg-pasta dough rolls thin. Minced lamb, finely-chopped onion, parsley and spices form the filling - uncooked. Each dumpling is 1 ½ cm square: a teaspoon of filling, four corners pinched up to form a star/parcel. They boil briefly. Yogurt-garlic sauce ladles into bowls; dumplings pile in; melted butter with sumac and paprika pours over hot.
+A simple egg-pasta dough rolls thin. Minced lamb, finely-chopped onion, parsley and spices form the filling, uncooked. Each dumpling is 1 ½ cm square: a teaspoon of filling, four corners pinched up to form a star/parcel. They boil briefly. Yogurt-garlic sauce ladles into bowls; dumplings pile in; melted butter with sumac and paprika pours over hot.
 
 ## Ingredients
 

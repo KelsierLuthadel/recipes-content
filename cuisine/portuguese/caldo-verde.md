@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Onions cook in olive oil; potatoes simmer in stock until tender; the lot blends smooth into a thick velouté. Kale shreds (impossibly fine - almost like green confetti) drop into the simmering broth and cook just 2-3 minutes. Chouriço slices cook briefly on top. A generous drizzle of olive oil at the table. Bread on the side.
+Onions cook in olive oil; potatoes simmer in stock until tender; the lot blends smooth into a thick velouté. Kale shreds (impossibly fine, almost like green confetti) drop into the simmering broth and cook just 2-3 minutes. Chouriço slices cook briefly on top. A generous drizzle of olive oil at the table. Bread on the side.
 
 ## Ingredients
 

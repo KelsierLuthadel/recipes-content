@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A dough of flour, sesame oil, honey, sugar, soju (Korean rice wine), and a pinch of cinnamon and ginger rubs together - yakgwa dough is sandy, not stretchy (no gluten development is desired). Rests for 30 minutes. Rolls 8 mm thick; cuts into 3 cm flower shapes with a cutter. Pricks each piece with a fork or knife (helps the syrup soak in). Fries in two stages: gentle 110°C heat first to swell the dough; then 160°C to crisp. While frying, syrup of honey, rice syrup (or maple/corn), water and ginger simmers briefly. Hot fried cookies dunk into warm syrup; rest for 1 hour to absorb; lift onto a rack to drain excess.
+A dough of flour, sesame oil, honey, sugar, soju (Korean rice wine), and a pinch of cinnamon and ginger rubs together, yakgwa dough is sandy, not stretchy (no gluten development is desired). Rests for 30 minutes. Rolls 8 mm thick; cuts into 3 cm flower shapes with a cutter. Pricks each piece with a fork or knife (helps the syrup soak in). Fries in two stages: gentle 110°C heat first to swell the dough; then 160°C to crisp. While frying, syrup of honey, rice syrup (or maple/corn), water and ginger simmers briefly. Hot fried cookies dunk into warm syrup; rest for 1 hour to absorb; lift onto a rack to drain excess.
 
 ## Ingredients
 

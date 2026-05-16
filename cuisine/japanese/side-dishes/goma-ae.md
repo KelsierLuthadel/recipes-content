@@ -10,7 +10,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Spinach (or green beans, asparagus, kale) blanches briefly in salted boiling water; refreshes in cold water; squeezes hard to remove all excess water; cuts into 4 cm pieces. Sesame seeds toast in a dry pan until fragrant and slightly darker. The toasted seeds grind in a suribachi (Japanese mortar) or a small food processor to a coarse paste - NOT to butter consistency; some texture is wanted. The paste mixes with soy sauce, sugar, mirin and a teaspoon of sake (optional) into a thick dressing. The blanched, squeezed vegetable tosses with the dressing; rests briefly to integrate; served at room temperature.
+Spinach (or green beans, asparagus, kale) blanches briefly in salted boiling water; refreshes in cold water; squeezes hard to remove all excess water; cuts into 4 cm pieces. Sesame seeds toast in a dry pan until fragrant and slightly darker. The toasted seeds grind in a suribachi (Japanese mortar) or a small food processor to a coarse paste, not to butter consistency; some texture is wanted. The paste mixes with soy sauce, sugar, mirin and a teaspoon of sake (optional) into a thick dressing. The blanched, squeezed vegetable tosses with the dressing; rests briefly to integrate; served at room temperature.
 
 ## Ingredients
 

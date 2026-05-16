@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The filling: ground lamb mixes with grated onion (squeezed dry), garlic, ground coriander, cumin, cinnamon, salt and pepper. Wonton wrappers fold around a teaspoon of filling: pull all four corners up over the centre, pinch in pairs to form an X-shape with the meat visible in 4 small triangles at the top - like an open flower. Steamed in a bamboo basket 18-20 minutes over boiling water. While they steam, two sauces prepare: a chana dal-tomato-and-mint sauce (the legumes are simmered until soft and stewed with onion, tomato, dried mint and pepper into a slightly chunky topping), and a yogurt-garlic sauce. Plated like aushak: yogurt base, dumplings on top, lentil-tomato sauce, dried mint.
+The filling: ground lamb mixes with grated onion (squeezed dry), garlic, ground coriander, cumin, cinnamon, salt and pepper. Wonton wrappers fold around a teaspoon of filling: pull all four corners up over the centre, pinch in pairs to form an X-shape with the meat visible in 4 small triangles at the top, like an open flower. Steamed in a bamboo basket 18-20 minutes over boiling water. While they steam, two sauces prepare: a chana dal-tomato-and-mint sauce (the legumes are simmered until soft and stewed with onion, tomato, dried mint and pepper into a slightly chunky topping), and a yogurt-garlic sauce. Plated like aushak: yogurt base, dumplings on top, lentil-tomato sauce, dried mint.
 
 ## Ingredients
 

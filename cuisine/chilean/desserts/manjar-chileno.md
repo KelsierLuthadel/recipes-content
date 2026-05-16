@@ -10,7 +10,7 @@
 **Cook Time:** 2 hours 30 minutes (mostly hands-off)
 
 ## Overview
-Whole milk, sugar, vanilla pod and a pinch of bicarbonate of soda combine in a heavy wide pan. Simmers slowly for 2-3 hours, stirring more frequently as it thickens, until it reduces by two-thirds and turns a deep caramel colour. The bicarb is what gives manjar its iconic deep brown - it accelerates the Maillard reaction. Cools and stores.
+Whole milk, sugar, vanilla pod and a pinch of bicarbonate of soda combine in a heavy wide pan. Simmers slowly for 2-3 hours, stirring more frequently as it thickens, until it reduces by two-thirds and turns a deep caramel colour. The bicarb is what gives manjar its iconic deep brown, it accelerates the Maillard reaction. Cools and stores.
 
 ## Ingredients
 - 2 litres whole milk

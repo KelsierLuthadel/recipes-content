@@ -10,7 +10,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-A vanilla pod splits and scrapes into a saucepan with double cream; warmed to just below simmer and infused 20 minutes off heat. Egg yolks whisk with sugar until pale; the warm infused cream pours slowly into the yolks while whisking; everything strains into a clean jug. Ramekins fill in a deep oven tray; boiling water pours into the tray for a bain-marie to come halfway up the ramekins. Baked at 130°C for 35-50 minutes (depending on ramekin size) until just-set with a slight jiggle in the centre. Cooled, refrigerated overnight to firm. Just before serving, sugar sprinkles in a thin layer over each; torched (or grilled) until amber-glassy.
+A vanilla pod splits and scrapes into a saucepan with double cream; warmed to just below simmer and infused 20 minutes off heat. Egg yolks whisk with sugar until pale; the warm infused cream pours slowly into the yolks while whisking; everything strains into a clean jug. Ramekins fill in a deep oven tray; boiling water pours into the tray for a bain-marie to come halfway up the ramekins. Baked at 130°C for 35-50 minutes (depending on ramekin size) until just-set with a slight jiggle in the centre. Left to cool and refrigerated overnight to firm. Just before serving, sugar sprinkles in a thin layer over each; torched (or grilled) until amber-glassy.
 
 ## Ingredients
 

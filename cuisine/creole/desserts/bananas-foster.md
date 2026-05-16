@@ -10,7 +10,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-Brown sugar and butter melt in a wide pan; bananas split lengthwise then halved go in cut-side down; cinnamon and a splash of banana liqueur (or extra rum) join. Dark rum pours in and flames briefly - until burnt off. The pan-syrup, slightly thickened, spoons over generous scoops of vanilla ice cream.
+Brown sugar and butter melt in a wide pan; bananas split lengthwise then halved go in cut-side down; cinnamon and a splash of banana liqueur (or extra rum) join. Dark rum pours in and flames briefly, until burnt off. The pan-syrup, slightly thickened, spoons over generous scoops of vanilla ice cream.
 
 ## Ingredients
 

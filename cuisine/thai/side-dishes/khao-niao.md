@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Sticky rice MUST be the right variety: Thai glutinous rice (also called sweet rice, sticky rice, or kao niao - looks the same as ordinary white rice but opaque white when raw, not translucent). Soak the rice 4-12 hours in cold water until grains can be crushed easily between fingers. Drain. Steam over (not in) boiling water for 20-25 minutes in a traditional bamboo cone, banana leaves, or a steamer lined with muslin. Test by tasting a grain - fully cooked, chewy, slightly translucent. Transfer to a covered bamboo basket or wooden bowl for serving.
+Sticky rice must be the right variety: Thai glutinous rice (also called sweet rice, sticky rice, or kao niao, looks the same as ordinary white rice but opaque white when raw, not translucent). Soak the rice 4-12 hours in cold water until grains can be crushed easily between fingers. Drain. Steam over (not in) boiling water for 20-25 minutes in a traditional bamboo cone, banana leaves, or a steamer lined with muslin. Test by tasting a grain, fully cooked, chewy, slightly translucent. Transfer to a covered bamboo basket or wooden bowl for serving.
 
 ## Ingredients
 

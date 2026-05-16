@@ -10,7 +10,7 @@
 **Cook Time:** 1 ½ hours
 
 ## Overview
-Onions cook down for nearly an hour into a deep dark base - this is the foundation of doro wat and shouldn't be rushed. Berbere (Ethiopian spice blend) and niter kibbeh fold in. Chicken thighs and legs simmer in the sauce; hard-boiled eggs join late, taking on the deep red colour. Eaten communally from a single platter with injera; tears of injera scoop the stew.
+Onions cook down for nearly an hour into a deep dark base, this is the foundation of doro wat and shouldn't be rushed. Berbere (Ethiopian spice blend) and niter kibbeh fold in. Chicken thighs and legs simmer in the sauce; hard-boiled eggs join late, taking on the deep red colour. Eaten communally from a single platter with injera; tears of injera scoop the stew.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-A food-safe cedar plank submerges in water for an hour. The salmon (skin on, one side) gets a brief dry cure of brown sugar, salt and crushed juniper. Maple syrup and lemon zest go on at the end of the cure. The hot grill cooks the plank from below while the salmon cooks from the slow heat radiating up - a steam-smoke method, neither pure grilling nor pure baking. The result is a salmon that tastes faintly of forest, cured-cured-not-curried.*
+A food-safe cedar plank submerges in water for an hour. The salmon (skin on, one side) gets a brief dry cure of brown sugar, salt and crushed juniper. Maple syrup and lemon zest go on at the end of the cure. The hot grill cooks the plank from below while the salmon cooks from the slow heat radiating up, a steam-smoke method, neither pure grilling nor pure baking. The result is a salmon that tastes faintly of forest, cured-cured-not-curried.*
 
 ## Ingredients
 

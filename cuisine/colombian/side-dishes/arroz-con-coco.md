@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Coconut milk reduces in a heavy pot until the cream splits and turns to a dark caramel (titoté) - this takes 15 minutes and is non-negotiable. Then rice, more coconut milk, water and raisins go in. Cook absorption-style, lid on, lowest heat, 18 minutes. Rest for 5 minutes; fluff.
+Coconut milk reduces in a heavy pot until the cream splits and turns to a dark caramel (titoté), this takes 15 minutes and is non-negotiable. Then rice, more coconut milk, water and raisins go in. Cook absorption-style, lid on, lowest heat, 18 minutes. Rest for 5 minutes; fluff.
 
 ## Ingredients
 

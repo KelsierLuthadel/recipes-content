@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-A simple wheat-flour dough rests while a clear, ginger-and-garlic-forward broth simmers with beef (standing in for yak), Sichuan peppercorn and a tomato. The dough is rolled and cut into thin noodles - or, if you prefer, store-bought egg noodles. Vegetables and greens go in at the end; fresh coriander and chilli on top. Honest, restorative, not fancy.
+A simple wheat-flour dough rests while a clear, ginger-and-garlic-forward broth simmers with beef (standing in for yak), Sichuan peppercorn and a tomato. The dough is rolled and cut into thin noodles, or, if you prefer, store-bought egg noodles. Vegetables and greens go in at the end; fresh coriander and chilli on top. Honest, restorative, not fancy.
 
 ## Ingredients
 

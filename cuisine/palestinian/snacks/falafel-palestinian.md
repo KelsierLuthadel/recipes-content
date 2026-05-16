@@ -10,7 +10,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Dried chickpeas (or a chickpea-fava blend) soak overnight. Drained, blitzed with onion, leek, a heaped pile of fresh parsley AND coriander (the Palestinian style is herb-heavy and notably green), garlic, ground cumin, ground coriander, salt and Aleppo pepper. Rested. Baking soda mixed in right before frying. Shaped into small patties or balls; pressed into sesame seeds; deep-fried until amber. Stuffed into khobz with tahini sauce, salad and pickled vegetables.
+Dried chickpeas (or a chickpea-fava blend) soak overnight. Drained, blitzed with onion, leek, a heaped pile of fresh parsley AND coriander (the Palestinian style is herb-heavy and notably green), garlic, ground cumin, ground coriander, salt and Aleppo pepper. Left to rest. Baking soda mixed in right before frying. Shaped into small patties or balls; pressed into sesame seeds; deep-fried until amber. Stuffed into khobz with tahini sauce, salad and pickled vegetables.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Very ripe (almost black-skinned) plantains peel and slice in half lengthways, then in half crossways - four pieces per plantain. Each piece pan-fries briefly in oil to soften, then mashes between two pieces of parchment with a flat saucepan to flatten to a disc. A cube of cheese sits between two flattened discs, sandwiching the cheese. The whole package dips in a sweet batter of flour, egg, sugar and milk, then deep-fries golden.
+Very ripe (almost black-skinned) plantains peel and slice in half lengthways, then in half crossways, four pieces per plantain. Each piece pan-fries briefly in oil to soften, then mashes between two pieces of parchment with a flat saucepan to flatten to a disc. A cube of cheese sits between two flattened discs, sandwiching the cheese. The whole package dips in a sweet batter of flour, egg, sugar and milk, then deep-fries golden.
 
 ## Ingredients
 

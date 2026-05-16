@@ -10,7 +10,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-A blond roux (butter and flour, cooked just to the colour of peanut butter - lighter than gumbo's roux) cooks first. The trinity goes in to soften; tomato paste, Cajun spice and stock loosen; the lot simmers down to a thick gravy. Crawfish tails (or prawns) join near the end and cook briefly so they stay tender. Spring onion and parsley to finish.
+A blond roux (butter and flour, cooked just to the colour of peanut butter, lighter than gumbo's roux) cooks first. The trinity goes in to soften; tomato paste, Cajun spice and stock loosen; the lot simmers down to a thick gravy. Crawfish tails (or prawns) join near the end and cook briefly so they stay tender. Spring onion and parsley to finish.
 
 ## Ingredients
 
