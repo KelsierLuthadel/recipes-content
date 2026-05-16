@@ -1,7 +1,7 @@
 # Lo Bak Go
 
 ![Lo Bak Go](resources/lo-bak-go.jpg)
-*Cantonese turnip cake (better described as "radish cake" - lo bak means daikon radish): grated daikon braises with chopped dried shrimp, Chinese sausage (lap cheong), shiitake mushroom and rice flour into a thick batter, steamed in a tin into a dense savoury loaf, cooled, sliced and pan-fried until crusted gold on both sides. A defining dim-sum item; also a Chinese New Year staple ("gao" sounds like "rise" or "promotion"). Soft and savoury inside, crusted and chewy outside.*
+*The Cantonese dim-sum cake: grated daikon braised with dried shrimp, Chinese sausage and rice flour, steamed firm, then pan-fried crusty.*
 
 **Serves:** 8 (makes one 20 cm cake; 16 slices)
 

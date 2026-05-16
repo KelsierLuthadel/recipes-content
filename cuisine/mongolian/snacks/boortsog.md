@@ -1,7 +1,7 @@
 # Boortsog
 
 ![Boortsog](resources/boortsog.jpg)
-*Mongolia's everyday fried dough biscuits, eaten dipped in milk tea (suutei tsai), spread with butter and jam, or piled high at festive tables during Tsagaan Sar (Lunar New Year). Slightly sweet, slightly chewy, deep-fried until golden - somewhere between a doughnut and a shortbread biscuit. Each family shapes them differently: rectangles, twists, scored discs, decorative knots. The festival pyramids of boortsog stacked on Tsagaan Sar tables can stand half a metre tall.*
+*Mongolia's everyday fried dough: slightly sweet biscuits deep-fried golden. Dipped in milk tea or piled high for Tsagaan Sar.*
 
 **Makes:** about 30 boortsog
 

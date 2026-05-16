@@ -1,7 +1,7 @@
 # Bessara
 
 ![Bessara](resources/bessara.jpg)
-*Egypt's fava bean dip - winter peasant food turned modern brunch favourite: dried fava beans simmered until completely soft, blended with garlic, cumin and coriander, swirled with green oil (olive oil + chopped parsley + paprika + cumin) and served warm with hot baladi bread. Cousin to Moroccan bessara (which is more often served as a soup) and to the Greek fava (which uses yellow split peas). Eaten in winter on chilly Cairo mornings; warming, savoury, deeply earthy.*
+*Egypt's winter fava dip: dried fava beans simmered soft, blended with garlic and cumin, swirled with green oil. Served with hot baladi bread.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Nam Prik Pao
 
 ![Nam Prik Pao](resources/nam-prik-pao.jpg)
-*Thailand's roasted chilli jam: dried red chillies, shallots, garlic and dried shrimp are dry-roasted (or pan-fried in oil) until darkly aromatic, then pounded with palm sugar, fish sauce and tamarind into a thick, deep-red-mahogany paste. Smoky, sweet, savoury, fiery; stirred into tom yum soup, spread on bread or rice, stirred into stir-fries at the end, or used as the condiment for any grilled meat. A pantry staple in every Thai kitchen; one tablespoon transforms a bland dish.*
+*Thailand's roasted chilli jam: dried chillies, shallots, garlic and dried shrimp pounded with palm sugar and tamarind into a smoky paste.*
 
 **Serves:** 8 (makes ~250 ml)
 

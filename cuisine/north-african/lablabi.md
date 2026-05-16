@@ -1,7 +1,7 @@
 # Lablabi
 
 ![Lablabi](resources/lablabi.jpg)
-*Tunisia's everyman breakfast and late-night street-stall soup: a hot broth of chickpeas, garlic, cumin and harissa, poured over chunks of stale baguette in a deep bowl, finished with a poached or soft-boiled egg, a glug of olive oil, a squeeze of lemon, a spoon of harissa, a tin of tuna (yes, tuna), olives and a scatter of capers. Customised at the table by each diner. The breakfast of Tunis market porters; the post-Ramadan iftar; the worker's hangover cure. Cheap, fierce, bracing.*
+*Tunisia's market-stall breakfast: hot chickpea broth poured over stale baguette, finished with poached egg, harissa, lemon and capers.*
 
 **Serves:** 4
 

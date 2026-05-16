@@ -1,7 +1,7 @@
 # Tres Leches Colombiano
 
 ![Tres Leches Colombiano](resources/tres-leches-colombiano.jpg)
-*A light sponge cake soaked in three milks - evaporated milk, sweetened condensed milk, and whole milk (or single cream) - until thoroughly drenched, then topped with whipped cream and a dusting of cinnamon. The Colombian version is slightly less sweet than the Mexican (which uses dulce de leche on top), eaten cold with strong black coffee. The soaking is what makes it: a dry-ish sponge that drinks the milk slurry overnight and emerges as a tender, milky, deeply hydrated cake.*
+*Colombia's three-milks cake: a light sponge soaked overnight in evaporated milk, condensed milk and cream, topped with whipped cream.*
 
 **Serves:** 12
 

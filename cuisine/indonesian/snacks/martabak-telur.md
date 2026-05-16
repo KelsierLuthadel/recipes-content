@@ -1,7 +1,7 @@
 # Martabak Telur
 
 ![Martabak Telur](resources/martabak-telur.jpg)
-*A square pan-fried savoury pancake: a thin elastic dough wraps around a filling of beaten eggs, minced beef or chicken, spring onion, and ground spices, then folds into a flat packet and pan-fries on both sides until crisp and golden. The version sold from Indonesian street stalls at 9pm with a paper packet, a small saucer of pickled chilli, and a satisfying crunch on the first bite. Different from sweet martabak (which is a thick pancake with chocolate-cheese filling).*
+*Indonesia's late-night street snack: a paper-thin dough wrapped around beaten eggs, spiced minced beef and spring onion, pan-fried flat.*
 
 **Serves:** Makes 4 martabak (serves 4)
 

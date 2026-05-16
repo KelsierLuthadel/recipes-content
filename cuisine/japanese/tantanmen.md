@@ -1,7 +1,7 @@
 # Tantanmen
 
 ![Tantanmen](resources/tantanmen.jpg)
-*The Japanese take on Chinese dan-dan noodles, evolved into a brothy ramen with a thick, sesame-and-chilli-rich tare at the base, topped with a generous pile of spiced ground pork (niku miso), bok choy, scallions, and a soft-boiled ramen egg. Different from the Sichuan original: Japanese tantanmen is soupy, the heat is more chilli-oil-based than Sichuan-pepper-led, and the sesame paste is the defining flavour. The most popular non-tonkotsu ramen in Tokyo since the 1990s.*
+*Japan's take on dan-dan noodles: a brothy ramen with a thick sesame-and-chilli tare, topped with spiced ground pork and a soft-boiled egg.*
 
 **Serves:** 2
 

@@ -2,7 +2,7 @@
 
 ![Iraqi Falafel](resources/iraqi-falafel.jpg)
 
-*The Iraqi take on the Levant's most-travelled snack: lighter, paler and more aromatic than its Egyptian or Palestinian cousins, made from soaked (never cooked) chickpeas blitzed with cardamom, dill, plenty of fresh herbs and a touch of baking soda for a near-soufflé interior. Eaten in samoon - the diamond-shaped Iraqi bread - with sliced tomato, pickled mango (amba) and a tahini-yoghurt sauce. The cardamom is the Iraqi signature: nothing else in the falafel world uses it.*
+*Iraq's lighter falafel: soaked chickpeas blitzed with cardamom and a heap of fresh herbs, deep-fried fluffy and stuffed into samoon bread.*
 
 **Serves:** 4 (makes 16 falafel)
 

@@ -2,7 +2,7 @@
 
 ![Dholl Puri](resources/dholl-puri.jpg)
 
-*The iconic street food of Mauritius: thin, soft flatbreads stuffed with seasoned ground yellow split peas, griddled on a hot tawa and folded around a curry of butter beans, rougaille tomato sauce and chilli chutney. Sold from carts on every Mauritian corner, eaten standing up, wrapped in greaseproof paper. The flatbread itself is the heart of the dish, descended from the Bihari puri carried over by Indian indentured labourers in the 1830s and quietly reinvented on the island.*
+*Mauritius's street flatbread: thin breads stuffed with seasoned ground yellow split peas, griddled hot and folded around bean curry.*
 
 **Serves:** 4 (makes 8 dholl puris)
 

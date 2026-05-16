@@ -1,7 +1,7 @@
 # Ash Reshteh
 
 ![Ash Reshteh](resources/ash-reshteh.jpg)
-*Persia's thick herb-and-bean noodle soup: chickpeas, kidney beans and lentils simmered with a heap of chopped fresh herbs (parsley, coriander, dill, spinach), Persian reshteh noodles thrown in at the end, and the whole bowl finished with kashk (Persian fermented whey, salty and tangy), crispy fried onions, mint-and-garlic oil and a swirl of yogurt. The traditional Nowruz (New Year) dish and a Friday-lunch staple. Hearty, herbal, deeply savoury - and entirely vegetarian.*
+*Persia's Nowruz noodle soup: chickpeas, beans, lentils and reshteh noodles simmered with a heap of fresh herbs, finished with kashk.*
 
 **Serves:** 6
 

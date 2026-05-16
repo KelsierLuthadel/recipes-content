@@ -1,7 +1,7 @@
 # Aushak
 
 ![Aushak](resources/aushak.jpg)
-*Afghanistan's leek dumplings: thin wonton-style wrappers filled with chopped leek (or scallion) and a touch of fresh mint, boiled until tender, then plated under a generous spoon of garlicky yogurt sauce and topped with a spiced ground-lamb (or beef) sauce and a sprinkle of dried mint. The contrast of textures - chewy wrapper, soft green filling, cool tangy yogurt, hot meat - is the dish. Served at celebrations and at any Afghan family gathering as an appetiser or light meal.*
+*Afghanistan's leek dumplings: wonton wrappers folded around chopped leek, boiled, then served under garlicky yogurt and a spiced meat sauce.*
 
 **Serves:** 4 (about 30 dumplings)
 

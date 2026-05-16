@@ -1,7 +1,7 @@
 # Efo Riro
 
 ![Efo Riro](resources/efo-riro.jpg)
-*The Yoruba "stirred greens" stew: leafy spinach (or shoko, ugu, or amaranth in Nigeria) wilted into a rich red pepper-and-tomato sauce built on palm oil, smoked fish, locust beans and your choice of beef, goat, prawns or stockfish. Considered the more elegant Yoruba green-leaf stew (compared to the everyday efo elegusi); the dish you make for guests. Earthy, slightly bitter, deeply savoury from the iru and ground crayfish, balanced by the sweetness of the palm oil.*
+*The Yoruba 'stirred greens' stew: spinach wilted into a rich palm-oil, smoked-fish and red-pepper sauce. Served with rice or pounded yam.*
 
 **Serves:** 4
 

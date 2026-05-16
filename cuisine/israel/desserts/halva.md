@@ -1,7 +1,7 @@
 # Halva
 
 ![Halva](resources/halva.jpg)
-*Sesame halva - the dense, slightly crumbly sweet of the eastern Mediterranean and Middle East, made by combining hot sugar syrup with tahini and pulling it together into a marbled block. Sold in giant slabs at every Israeli market (Mahane Yehuda, Carmel); often studded with pistachios, swirled with chocolate, or layered with cocoa. Eats sliced thin with strong coffee or tea, or crumbled over yogurt with date syrup. Different from Indian halwa (which is semolina-based and softer).*
+*Eastern Mediterranean sesame halva: hot sugar syrup pulled into tahini until it marbles, then set in slabs and sliced with strong coffee.*
 
 **Serves:** Makes about 700 g (cut into 20 small pieces)
 

@@ -1,7 +1,7 @@
 # Boerewors
 
 ![Boerewors](resources/boerewors.jpg)
-*A long, fat coil of coarse-ground beef and pork sausage, generously spiced with toasted coriander, clove and nutmeg, grilled over open coals on the braai until the casing blisters and the spice perfume fills the garden. The smell is unmistakably southern African: charcoal smoke, toasted coriander, beef fat and a faint hit of malt vinegar. Cooked on every braai from Cape Town to the Limpopo bushveld, served in a fresh roll as boerie roll or simply alongside pap and tomato relish.*
+*South Africa's braai sausage: a long coil of coarse-ground beef and pork, generously spiced with toasted coriander, grilled over coals.*
 
 **Serves:** 6
 

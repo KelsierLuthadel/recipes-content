@@ -1,7 +1,7 @@
 # Mongolian Sweet Rice
 
 ![Mongolian Sweet Rice](resources/mongolian-sweet-rice.jpg)
-*Festival rice pudding from the Mongolian steppe: short-grain rice simmered in fresh whole milk with butter, sugar and a handful of raisins until the grains are soft and the liquid has reduced to a thick, creamy porridge. Each spoonful streaks pale yellow from the butter, dotted with plumped raisins. Served warm in shallow bowls at Tsagaan Sar (Lunar New Year), weddings, and milestone birthdays - Mongolian celebrations always feature white food, and this is among the most beloved.*
+*A festival rice pudding from the Mongolian steppe: pudding rice simmered in whole milk with butter, sugar and raisins until thick and creamy.*
 
 **Serves:** 6
 

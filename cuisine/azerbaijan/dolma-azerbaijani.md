@@ -1,7 +1,7 @@
 # Dolma (Azerbaijani Stuffed Vine Leaves)
 
 ![Azerbaijani Dolma](resources/dolma-azerbaijani.jpg)
-*Vine leaves rolled around a filling of minced lamb, short-grain rice, fresh mint and dill, plus a generous slug of butter. Packed tight in a heavy pot, weighted down with an inverted plate so they don't unfurl while cooking, simmered in lamb stock with a splash of tart sumac water. Served warm or room temperature with garlic yogurt. Different from Greek dolmades - Azerbaijani dolma uses raw rice (cooks inside the leaf) and fresh herbs, not the lemon-and-mint Mediterranean version.*
+*Azerbaijan's stuffed vine leaves: leaves rolled around lamb mince, rice, mint and dill, simmered slow in lamb stock under a weighted plate.*
 
 **Serves:** 6 (makes about 40 rolls)
 

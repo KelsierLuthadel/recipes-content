@@ -1,7 +1,7 @@
 # Insalata Tricolore
 
 ![Insalata Tricolore](resources/insalata-tricolore.jpg)
-*The Italian flag on a plate: thick slices of ripe tomato, slabs of fresh mozzarella di bufala, fanned with whole green basil leaves, drizzled with first-cold-press olive oil and finished with flaky salt and pepper. The classic Caprese composition done with the cleanest tricolore presentation: green, white, red, end of story. No vinegar, no balsamic reduction, no dressing other than olive oil. Made well, this is one of the great dishes; made badly, it's hotel-buffet sadness.*
+*The Italian flag on a plate: thick slices of ripe tomato, slabs of mozzarella di bufala, whole basil leaves and a slick of olive oil.*
 
 **Serves:** 4 (as a starter or side)
 

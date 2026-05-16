@@ -1,7 +1,7 @@
 # Thai Coconut Ice Cream
 
 ![Thai Coconut Ice Cream](resources/thai-coconut-ice-cream.jpg)
-*The Bangkok-street-cart dessert: a churned ice cream of pure coconut milk and palm sugar, served in a coconut shell (or just a small bowl) with a small banana, sweet sticky rice, salted peanuts, sweetened red beans, and a drizzle of palm-sugar syrup. The "build your own" Thai sundae. Three textures: smooth ice cream, soft fruit/rice/beans, crunchy peanuts. The ice cream itself is rich and faintly salty (Thais salt their coconut deserts on purpose); the toppings add the sweetness.*
+*Bangkok's coconut ice cream: a churned ice cream of pure coconut milk and palm sugar, served with sticky rice, peanuts and palm-sugar syrup.*
 
 **Serves:** 6 (makes about 1 litre)
 

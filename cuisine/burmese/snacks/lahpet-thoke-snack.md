@@ -2,7 +2,7 @@
 
 ![Burmese Tea-Leaf Snack Mix](resources/lahpet-thoke-snack.jpg)
 
-*The drier, dressing-free cousin of the famous tea-leaf salad: fermented tea leaves combined with fried garlic, peanuts, fried yellow split peas, sesame seeds and dried shrimp, eaten by the spoonful with strong tea or as a digestif at the end of a meal. In teashops it arrives in a small lacquered tray with separate compartments for each component; you pinch a little of each between fingertips and pop it in. Salty, sour, crunchy, bitter, the whole flavour register in one bite.*
+*Burma's teashop snack tray: fermented tea leaves, fried garlic, peanuts, split peas, sesame and dried shrimp, eaten a pinch at a time.*
 
 **Serves:** 6 as a snack
 

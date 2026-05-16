@@ -1,7 +1,7 @@
 # Fatayer Sabanikh
 
 ![Fatayer Sabanikh](resources/fatayer-sabanikh.jpg)
-*Palestinian (and broader Levantine) spinach turnovers: a soft olive-oil dough wrapped around a lemon-bright filling of wilted spinach, sumac, onion, pine nuts and pomegranate molasses, formed into the iconic three-cornered tricorn shape (also called "spinach pies") and baked until golden. The lunchbox / picnic / iftar staple; equally good warm and at room temperature. The sumac and lemon keep them bright; the olive oil dough keeps them tender. Vegan by default; easy to scale.*
+*Palestine's spinach tricorns: a soft olive-oil dough folded around wilted spinach, sumac, onion and pine nuts, baked golden.*
 
 **Serves:** 4 (makes 12 fatayer)
 

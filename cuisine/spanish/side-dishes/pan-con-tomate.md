@@ -1,7 +1,7 @@
 # Pan con Tomate
 
 ![Pan con Tomate](resources/pan-con-tomate.jpg)
-*A slice of crusty country bread, lightly toasted, rubbed with a cut clove of garlic, then with the cut side of a halved ripe tomato until the bread is soaked in tomato juice and pulp, then drizzled generously with extra-virgin olive oil and dusted with sea salt. The defining Catalan starter: four ingredients, no cooking beyond toasting the bread. The whole dish hinges on the quality of each - bread, garlic, tomato, oil. Eats alongside ham, cheese, anchovies, or just by itself.*
+*Catalonia's defining starter: toasted country bread rubbed with raw garlic and a halved ripe tomato, drizzled with good olive oil and salt.*
 
 **Serves:** 4 (as starter or tapa)
 

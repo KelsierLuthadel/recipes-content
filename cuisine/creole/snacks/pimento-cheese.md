@@ -1,7 +1,7 @@
 # Pimento Cheese
 
 ![Pimento Cheese](resources/pimento-cheese.jpg)
-*The "caviar of the South": grated sharp cheddar mixed with mayonnaise, finely diced pimento peppers (jarred roasted red pepper), a touch of Worcestershire, and a generous amount of cracked black pepper. Eats on crackers, spread on white bread for the iconic pimento cheese sandwich, stuffed into celery sticks, or melted as a dip. Defines southern American party food alongside deviled eggs. Variants run from cream-cheese-heavy to mayo-heavy; this is the classic Carolina mayo version.*
+*The American South's spread: grated sharp cheddar mixed with mayonnaise, pimentos and cracked pepper. Served on crackers or white bread.*
 
 **Serves:** Makes 500 g (10-12 small servings)
 

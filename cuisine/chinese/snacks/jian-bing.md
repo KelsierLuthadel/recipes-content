@@ -1,7 +1,7 @@
 # Jian Bing
 
 ![Jian Bing](resources/jian-bing.jpg)
-*Beijing's defining street-cart breakfast: a thin mung-bean-and-millet-flour crepe cooked on a hot griddle, an egg cracked over and spread with a spatula, the cooked side painted with sweet bean sauce and chilli paste, scattered with chopped spring onion and coriander, topped with a sheet of crisp deep-fried wonton (or a fried Chinese doughnut), folded into quarters, eaten standing up. The Chinese equivalent of a breakfast burrito or a kebab - fast, hot, addictive, hangover-curing.*
+*Beijing's morning street crepe: a mung-bean batter griddled thin, with egg, bean sauce, herbs and a sheet of crisp wonton folded inside.*
 
 **Serves:** 4 (makes 4 jian bing)
 

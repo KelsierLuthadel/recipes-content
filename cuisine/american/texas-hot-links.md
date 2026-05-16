@@ -1,7 +1,7 @@
 # Texas Hot-Link Sausage
 
 ![Texas Hot-Link Sausage](resources/texas-hot-links.jpg)
-*Coarse-ground beef and pork links, packed with cayenne, paprika and a thick blanket of black pepper, slow-smoked over post-oak until the casings turn dark and the fat renders into a juicy spicy bite. The smell is East Texas BBQ pit: post-oak smoke, beef fat, sharp chilli heat and warm spice. A fixture of the Black-owned smokehouses of Pittsburg, Tyler and Marshall in East Texas, served on butcher paper with white bread, pickles, raw onion and a side of mustard.*
+*East Texas BBQ sausage: coarse beef and pork links packed with cayenne and pepper, slow-smoked over post-oak till the casings darken.*
 
 **Serves:** 6
 

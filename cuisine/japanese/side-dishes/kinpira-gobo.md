@@ -1,7 +1,7 @@
 # Kinpira Gobo
 
 ![Kinpira Gobo](resources/kinpira-gobo.jpg)
-*The classic Japanese root-vegetable side: julienned burdock root (gobo) and carrot stir-fried in a small amount of sesame oil with chillies, then glazed with soy sauce, mirin and sugar until the vegetables are tender-crisp and the sauce has reduced to a glossy clinging coat. Earthy, sweet-salty, lightly spicy; an excellent foil to plain steamed rice. Served cold or at room temperature in small bowls as part of a bento box or as one of multiple small sides at a Japanese meal.*
+*Japan's root-vegetable side: julienned burdock and carrot stir-fried with chilli, then glazed with soy, mirin and sugar till glossy.*
 
 **Serves:** 4 (as a side)
 

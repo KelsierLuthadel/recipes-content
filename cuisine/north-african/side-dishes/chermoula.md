@@ -1,7 +1,7 @@
 # Chermoula
 
 ![Chermoula](resources/chermoula.jpg)
-*Morocco's all-purpose green herb sauce: a vibrant paste of fresh coriander and flat-leaf parsley, garlic, cumin, paprika, saffron, lemon juice and olive oil, with optional preserved lemon and a pinch of cayenne. Used as a marinade for fish (the classic), as a rub for chicken, as a dressing for grilled vegetables, as a finishing sauce for tagines, or as a dip for bread. Each Moroccan household has its version; this one leans on the fresh herbs and lemon over the spice.*
+*Morocco's all-purpose green herb sauce: coriander, parsley, garlic, cumin, paprika, saffron and lemon, bound with good olive oil.*
 
 **Serves:** 6 (makes ~250 ml)
 

@@ -1,7 +1,7 @@
 # Salata Arabieh
 
 ![Salata Arabieh](resources/salata-arabieh.jpg)
-*The Palestinian / Levantine "Arabic salad": ripe tomato, cucumber and onion (sometimes red onion, sometimes spring), all diced very fine, dressed in olive oil, lemon juice, sumac, a heap of fresh parsley and mint and a generous pinch of salt. Distinguished from Israeli "Israeli salad" by the generous sumac and lemon, and from Greek by the absence of feta and olives. The everyday Palestinian salad served alongside almost every meal - kebabs, mezze platters, msakhan, mansaf, fish.*
+*Palestine's everyday salad: tomato, cucumber and onion diced fine, dressed with lemon, olive oil, sumac, parsley and mint.*
 
 **Serves:** 4
 

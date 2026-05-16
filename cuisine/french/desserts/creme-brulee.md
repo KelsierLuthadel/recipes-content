@@ -1,7 +1,7 @@
 # Crème Brûlée
 
 ![Creme Brulee](resources/creme-brulee.jpg)
-*The defining French dinner-party dessert: a rich vanilla custard baked in shallow ramekins until just-set, chilled, topped with caster sugar that's caramelised under a kitchen blowtorch (or hot grill) into a glassy amber crust. The pleasure is the contrast: cracking the dark sugar shell with the back of a spoon to reach the cold pale custard underneath. The custard is built on egg yolks and cream - no flour, no cornstarch - so the texture is silky and dense rather than firm.*
+*The French dinner-party dessert: a chilled vanilla custard topped with a glassy amber crust of caramelised sugar, cracked with a spoon.*
 
 **Serves:** 6
 

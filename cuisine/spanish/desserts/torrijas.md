@@ -1,7 +1,7 @@
 # Torrijas
 
 ![Torrijas](resources/torrijas.jpg)
-*Spain's version of French toast, traditionally eaten during Semana Santa (Holy Week): thick slices of stale country bread soaked in milk infused with cinnamon and lemon zest, dipped in beaten egg, fried in olive oil, then drenched in honey or dusted with cinnamon sugar. Different from American French toast - Spanish torrijas use a milk-soak FIRST (not just egg dip) for a creamy interior, and finish in honey rather than maple syrup. Comfort dessert in 25 minutes; uses up stale bread.*
+*Spain's Holy Week pudding: thick stale country bread soaked in cinnamon milk, dipped in egg, fried in olive oil and drenched in honey.*
 
 **Serves:** 4 (makes 8 torrijas)
 

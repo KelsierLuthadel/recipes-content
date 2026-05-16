@@ -1,7 +1,7 @@
 # Fufu
 
 ![Fufu](resources/fufu.jpg)
-*The starchy swallowing-companion to every Nigerian soup and stew: cassava (or cassava-and-plantain, or yam-flour) cooked and pounded to a soft, slightly sticky dough that comes together in a smooth ball. Pinched off in lumps, dipped into egusi, okra or pepper-soup, and swallowed (not chewed). This recipe uses fermented cassava flour (akpu flour), which is the Igbo / Niger Delta version - fast in a pan, with the unmistakable slightly tangy aroma of properly fermented cassava.*
+*Nigeria's swallow: fermented cassava flour stirred into hot water with a wooden stick until a soft, sticky dough comes together.*
 
 **Serves:** 4
 

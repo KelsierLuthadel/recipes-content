@@ -2,7 +2,7 @@
 
 ![Shwe Yin Aye](resources/shwe-yin-aye.jpg)
 
-*Literally "golden cool", a Burmese hot-season classic and the quietly extravagant cousin of mont let saung. Cubes of green agar jelly, sago pearls, white bread cubes and sometimes pieces of sticky rice cake all suspended in cold coconut milk with a slick of palm sugar syrup. Sold in the same hot months as mont let saung but considered the more festive option: more textures, more colour, more drama. Often eaten after iftar during Ramadan in Burma's Muslim communities.*
+*Burma's hot-season dessert: green agar jelly, sago pearls, white bread and sticky rice cake floating in cold coconut milk with palm sugar.*
 
 **Serves:** 4-6
 

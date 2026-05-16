@@ -2,7 +2,7 @@
 
 ![Beef Meat Pie](resources/beef-meat-pie.jpg)
 
-*The Australian meat pie is the country's iconic hand-held lunch: hot beef gravy in a sturdy shortcrust base and a flaky puff lid, eaten standing up at the footy with tomato sauce on top. Often called the "rectangular pasty's antipodean cousin," it descends from British pies but evolved into a uniquely Aussie pocket-sized meal, brought to commercial fame by the Four'N Twenty brand in 1947. This version is single-pie sized (around 12 cm), with proper homemade gravy filling.*
+*Australia's hand-held lunch: hot beef gravy in a shortcrust base under a flaky puff lid. Eaten standing up at the footy with tomato sauce.*
 
 **Serves:** 6 pies
 

@@ -1,7 +1,7 @@
 # Moin Moin
 
 ![Moin Moin](resources/moin-moin.jpg)
-*Nigeria's steamed bean pudding: peeled black-eyed beans blended with red pepper, onion, Scotch bonnet, ground crayfish and palm oil, poured into small ramekins or banana-leaf parcels, embellished with a hard-boiled egg, a piece of smoked fish or a spoon of cooked beef, and steamed to a soft, savoury, deeply spiced custard-like loaf. Yoruba in origin but eaten across Nigeria; the natural companion to jollof rice, or eaten alone with a slice of bread for breakfast.*
+*Nigeria's steamed bean pudding: peeled black-eyed beans blended with pepper, palm oil and crayfish, ladled into ramekins and steamed soft.*
 
 **Serves:** 4-6 (makes 6 ramekins)
 

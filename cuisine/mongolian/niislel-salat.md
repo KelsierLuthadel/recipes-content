@@ -1,7 +1,7 @@
 # Niislel Salat
 
 ![Niislel Salat](resources/niislel-salat.jpg)
-*Mongolia's "Capital City Salad" - a Mongolian take on the Soviet-era Olivier salad, ubiquitous on family-meal tables across Ulaanbaatar. Boiled potatoes, carrots, eggs and pickles diced into 5 mm cubes, mixed with peas and cooked sausage or beef, dressed in mayo and a little mustard. Served chilled at any large meal - particularly alongside dumplings (buuz, khuushuur) and at Tsagaan Sar (Lunar New Year). Rich, creamy, comforting; the salad-by-default of an entire generation.*
+*Mongolia's 'capital city salad': diced boiled potato, carrot, egg, pickles and sausage bound with mayo. Served chilled at any large meal.*
 
 **Serves:** 6 as a side
 

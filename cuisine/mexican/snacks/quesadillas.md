@@ -1,7 +1,7 @@
 # Quesadillas
 
 ![Quesadillas](resources/quesadillas.jpg)
-*The simplest, most useful Mexican snack: a tortilla folded around melted cheese (and any extra fillings), griddled until the outside is crisp-spotted and the inside is gooey. Made traditionally with corn tortillas and Oaxacan string cheese (a fresh moist mozzarella-like cheese that melts to a perfect stretch), but flour tortillas and any good melting cheese work too. The blank canvas - fillings can be huitlacoche, chorizo, mushrooms, leftover chicken, beans, anything.*
+*Mexico's simplest snack: a tortilla folded around melted cheese (and any extras), griddled till crisp-spotted outside and gooey inside.*
 
 **Serves:** 4 (makes 4 large quesadillas, halved for sharing)
 

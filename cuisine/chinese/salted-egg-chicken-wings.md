@@ -1,7 +1,7 @@
 # Salted Egg Chicken Wings
 
 ![Salted Egg Chicken Wings](resources/salted-egg-chicken-wings.jpg)
-*A Cantonese-Sichuan crossover that has become wildly popular across modern Chinese kitchens: shallow-fried chicken wings tossed through a foaming, sandy coating of crumbled salted duck egg yolks. The yolks (cured raw in brine for weeks until firm) melt into a buttery, savoury "sand" when heated in oil, clinging to every crevice of the crisp coating. Smells of warm cured-yolk richness and toasted starch; tastes like the most luxurious version of a salt-and-pepper wing.*
+*A Cantonese-Sichuan crossover: shallow-fried chicken wings tossed through a foaming, sandy coating of crumbled salted duck egg yolks.*
 
 **Serves:** 3-4 (as part of a larger meal)
 

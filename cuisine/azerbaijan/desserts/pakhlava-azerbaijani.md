@@ -1,7 +1,7 @@
 # Pakhlava (Azerbaijani)
 
 ![Azerbaijani Pakhlava](resources/pakhlava-azerbaijani.jpg)
-*Azerbaijan's take on baklava: diamond-cut squares of butter-laminated layers, packed with crushed walnuts spiced with cardamom and a hint of saffron, finished with a saffron-and-honey syrup poured over hot. Different from the Turkish or Greek versions: thicker, fewer layers, denser filling, and a saffron-tinted golden top from the egg-yolk glaze. A single almond or half-walnut presses into the centre of each diamond as a final marker. The crown of the Novruz table.*
+*Azerbaijan's pakhlava: butter-laminated layers packed with cardamom-and-saffron walnuts, glazed with saffron honey and cut into diamonds.*
 
 **Serves:** Makes 20-24 diamonds
 

@@ -1,7 +1,7 @@
 # Gratin Dauphinois
 
 ![Gratin Dauphinois](resources/gratin-dauphinois.jpg)
-*The defining French potato side: thinly sliced waxy potatoes layered in a heavily-buttered dish rubbed with raw garlic, drenched in cream-and-milk infused with nutmeg, baked slowly until the potatoes are tender and the top is deep golden bubbling crust. The classic Dauphinois (from the Dauphiné region of southeast France) uses NO cheese - that's a Lyonnais or Savoyarde variation. Just cream, milk, garlic and potato. Served alongside roast meats, particularly lamb or beef.*
+*The defining French potato side: waxy slices layered in a buttered garlic-rubbed dish, drowned in nutmeg cream and baked slow till golden.*
 
 **Serves:** 6 (as a side)
 

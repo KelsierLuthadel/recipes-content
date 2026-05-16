@@ -1,7 +1,7 @@
 # Goan Pork Vindaloo
 
 ![Goan Pork Vindaloo](resources/goan-pork-vindaloo.jpg)
-*The original Vindaloo - a Goan-Portuguese fusion of pork preserved in vinegar and garlic (vinha d'alhos), evolved into the famous fiery red curry. This is the home version, not the BIR curry-house adaptation: pork shoulder marinated overnight in a thick spice paste of red Kashmiri chillies, vinegar, garlic, ginger, cumin and pepper, then slow-cooked until the meat is silky and the gravy is dark, rich and bright with vinegar. Hot, but the heat is balanced by acid and depth.*
+*The original Goan vindaloo: pork shoulder marinated overnight in a thick paste of Kashmiri chillies, vinegar and garlic, slow-cooked dark.*
 
 **Serves:** 4
 

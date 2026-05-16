@@ -1,7 +1,7 @@
 # Kibbeh Mqliyeh
 
 ![Kibbeh Mqliyeh](resources/kibbeh-mqliyeh.jpg)
-*The fried Lebanese football-kibbeh: small (6 cm) bulgur-and-meat dough footballs wrapped around a spiced lamb-mince-and-pine-nut filling, deep-fried until amber-crisp. Smaller and crispier than baked kibbeh-bil-saneeyeh; eaten warm with a yogurt-mint sauce or alongside a fattoush salad at a Lebanese mezze table. The defining mezze-platter centrepiece across Beirut, Tripoli and the Bekaa Valley. Shapes vary by region - pointed footballs in the south, plumper ovals in the north.*
+*Lebanon's fried kibbeh: small bulgur-and-lamb footballs wrapped around a spiced mince and pine-nut filling, deep-fried amber-crisp.*
 
 **Serves:** 4 (makes 18 footballs)
 

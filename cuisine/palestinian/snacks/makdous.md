@@ -1,7 +1,7 @@
 # Makdous
 
 ![Makdous](resources/makdous.jpg)
-*Palestinian (and Syrian) oil-cured stuffed mini aubergines: tiny eggplants briefly boiled, scooped, stuffed with a mixture of crushed walnuts, garlic and red pepper paste, packed into a jar, weighed down and covered in olive oil. Cured for 1-3 weeks; the aubergines absorb the oil and the stuffing intensifies. Eaten as a snack with breakfast, on toast, or as a mezze item with bread and tea. The defining Levantine winter pantry preserve; every Palestinian home has a jar in the larder.*
+*Palestine's winter pantry preserve: tiny aubergines stuffed with walnuts, garlic and red pepper paste, submerged in olive oil for weeks.*
 
 **Serves:** 8 (makes about 18 stuffed mini aubergines in a 1-litre jar)
 

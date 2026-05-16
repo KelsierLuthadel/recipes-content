@@ -1,7 +1,7 @@
 # Pecan Pie
 
 ![Pecan Pie](resources/pecan-pie.jpg)
-*The southern American Thanksgiving classic: a blind-baked sweet shortcrust filled with pecans suspended in a glossy filling of corn syrup (or golden syrup), eggs, dark brown sugar, melted butter and a splash of bourbon. The filling sets to a soft custard around the toasted pecan halves; the top crisps to a candied shell. Different from the structurally-broken "pecan pie" we deleted a while back: this version has the correct syrup-and-egg custard base, not a butter-flour batter.*
+*The Southern Thanksgiving pie: pecans suspended in a glossy filling of corn syrup, eggs and dark brown sugar, baked into a soft custard.*
 
 **Serves:** 8
 

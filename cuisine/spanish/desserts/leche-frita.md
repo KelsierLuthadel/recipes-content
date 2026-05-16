@@ -1,7 +1,7 @@
 # Leche Frita (Fried Milk)
 
 ![Leche Frita](resources/leche-frita.jpg)
-*Spain's most unusual dessert: a thick milk custard set firm in a tray, cut into squares, dredged in flour and egg, then deep-fried until the outside is crisp gold and the inside is hot, soft, almost-melting custard. Dusted with cinnamon sugar at the end. The name means "fried milk"; the technique is closer to a creme patissiere set so firmly it can be cubed and breaded. A northern Spanish (Cantabria, Asturias, Castile) speciality, served warm at the end of a heavy meal.*
+*Spain's fried milk: a thick milk custard set firm, dredged in flour and egg, then fried crisp gold and dusted in cinnamon sugar.*
 
 **Serves:** 6 (makes 18 squares)
 

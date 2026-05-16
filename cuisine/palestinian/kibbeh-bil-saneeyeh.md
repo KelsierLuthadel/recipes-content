@@ -1,7 +1,7 @@
 # Kibbeh bil Saneeyeh
 
 ![Kibbeh bil Saneeyeh](resources/kibbeh-bil-saneeyeh.jpg)
-*Palestinian baked-tray kibbeh: the alternative to fiddly fried kibbeh balls. Two layers of bulgur-and-meat dough sandwich a richly spiced filling of lamb mince, pine nuts, onion and seven-spice. Scored into diamonds before baking, drizzled with olive oil, and baked until the top is deep golden and the centre is moist. Cut along the scored lines and served warm with yogurt and a green salad. The Palestinian Friday-dinner classic; impressive to look at, surprisingly straightforward.*
+*Palestine's Friday-dinner kibbeh: two layers of bulgur-and-lamb dough sandwiching a spiced mince and pine-nut filling, scored and baked.*
 
 **Serves:** 6
 

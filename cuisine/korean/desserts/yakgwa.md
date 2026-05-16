@@ -1,7 +1,7 @@
 # Yakgwa (Honey-Fried Wheat Cookies)
 
 ![Yakgwa](resources/yakgwa.jpg)
-*The royal court cookie of Korea - a small flower-shaped pastry made from sesame-oil-and-honey-enriched dough, deep-fried golden, then soaked in a rice-syrup-and-ginger glaze. Texture between a soft cookie and a sticky honey biscuit. Once reserved for royalty and ancestor ceremonies (the most expensive of all Korean traditional sweets - flour, sesame oil and honey were all luxuries). Now sold in shops, made at home for Lunar New Year (Seollal) and ancestral rites (jesa).*
+*Korea's royal cookie: a sesame-oil-and-honey dough deep-fried golden, then soaked in a rice-syrup-and-ginger glaze. Eaten at Seollal.*
 
 **Serves:** Makes 20-24 cookies
 

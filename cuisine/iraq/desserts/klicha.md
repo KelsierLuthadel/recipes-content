@@ -2,7 +2,7 @@
 
 ![Klicha](resources/klicha.jpg)
 
-*Iraq's national cookie: a tender cardamom-scented dough wrapped around a spiced date paste, scored or pressed with a klaicha mould, then baked pale gold. Eaten at every Eid al-Fitr and Eid al-Adha, at weddings and at family tea-times across Iraq and the Iraqi-Jewish diaspora; the date version is the everyday one, but walnut, almond and coconut fillings appear at festivals. The patterned tops are made with traditional wooden klaicha moulds passed down through generations.*
+*Iraq's national cookie: a cardamom-scented dough wrapped around a spiced date paste, scored or moulded and baked pale gold.*
 
 **Serves:** 8 (makes 30 cookies)
 

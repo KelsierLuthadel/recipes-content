@@ -1,7 +1,7 @@
 # Gambir
 
 ![Gambir](resources/gambir.jpg)
-*Mongolian layered sweet pastry: an unleavened flour-and-water dough rolled paper-thin, slathered with melted butter and sugar between each layer, then folded over itself in a coil and pan-fried golden. The cross-section shows dozens of thin buttery layers like a flat croissant, but without yeast. Eaten warm with milk tea, the layers crackle on the first bite then dissolve into butter and sugar. Common at Tsagaan Sar tables and as a fortifying breakfast for long rides.*
+*Mongolia's layered sweet pastry: paper-thin dough rolled with butter and sugar, coiled tight and pan-fried till the layers crackle.*
 
 **Serves:** Makes 6 gambir (serves 6)
 

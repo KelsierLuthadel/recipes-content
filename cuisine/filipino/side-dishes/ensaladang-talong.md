@@ -1,7 +1,7 @@
 # Ensaladang Talong (Grilled Eggplant Salad)
 
 ![Ensaladang Talong](resources/ensaladang-talong.jpg)
-*A smoky-tangy side dish ubiquitous on Filipino tables: long Asian aubergines char-grilled directly over flame until the skin blisters and the flesh inside is silky soft, then peeled, torn into chunks, dressed with tomato, red onion, fish sauce, vinegar and a fresh squeeze of calamansi (or lime). Different from baba ganoush - no tahini, no garlic paste, the eggplant stays in distinct strands rather than being pulped. Pairs especially well with fried fish or grilled pork.*
+*The Filipino smoky aubergine salad: long aubergines char-grilled till silky, then dressed with tomato, onion, fish sauce and calamansi.*
 
 **Serves:** 4
 
