@@ -1,7 +1,7 @@
 # Kasutera
 
 ![Kasutera](resources/kasutera.jpg)
-*Japan's Castile sponge cake (also spelled castella): a dense honey-rich golden sponge baked in a tall narrow box mould, with a distinctive smooth flat top, fine even crumb and slightly chewy texture. Brought to Nagasaki by Portuguese traders in the 16th century, then naturalised over 400 years of Japanese baking until it became a defining Japanese dessert. Sliced into thick rectangles and eaten with green tea. Made from only five ingredients - eggs, sugar, honey, bread flour, mirin - but technique is everything.*
+*Japan's Nagasaki sponge: a dense honey-rich golden cake baked in a tall narrow tin. Brought by Portuguese traders four centuries ago.*
 
 **Serves:** 8 (makes 1 loaf cake, 8 slices)
 

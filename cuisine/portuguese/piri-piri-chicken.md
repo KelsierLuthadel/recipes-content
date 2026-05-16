@@ -1,7 +1,7 @@
 # Piri Piri Chicken
 
 ![Piri Piri Chicken](resources/piri-piri-chicken.jpg)
-*Portugal's defining grilled chicken: spatchcocked bird marinated in a fiery sauce of African bird's-eye chillies (piri-piri), garlic, lemon, olive oil, paprika and a splash of vinegar, then grilled hard over open flame (or under a domestic broiler) until the skin is charred and the inside is juicy. Brought to Portugal by traders from Mozambique and Angola in the 16th century; now a defining dish of Algarve summer evenings and the Portuguese international export. Eaten with french fries, salad and more piri-piri sauce at the table.*
+*Portugal's grill plate: spatchcocked chicken marinated in a fiery piri-piri sauce, then charred hard over flame.*
 
 **Serves:** 4
 

@@ -1,7 +1,7 @@
 # Mutabbaq
 
 ![Mutabbaq](resources/mutabbaq.jpg)
-*Saudi Arabia's defining street snack - also widely loved in Yemen, Indonesia and across the Indian Ocean trade route: thin elastic dough stretched to a paper-thin sheet, folded around a savoury filling of seasoned mince, egg, onion, leek and herbs, then crisped on a hot griddle into a flat square parcel with a crackling crust and a soft melted-egg interior. The name means "folded" in Arabic. Sold from late-afternoon Ramadan stalls; eaten by hand, with a wedge of lime and a small bowl of pickled chilli.*
+*Saudi Arabia's folded street snack: paper-thin dough wrapped around spiced mince and egg, then crisped flat on a hot griddle.*
 
 **Serves:** 4 (makes 4 large folded parcels, each cut in 4 squares)
 

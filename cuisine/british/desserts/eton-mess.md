@@ -1,7 +1,7 @@
 # Eton Mess
 
 ![Eton Mess](resources/eton-mess.jpg)
-*The defining British summer dessert: a barely-mixed jumble of crushed meringue, sliced strawberries (with some pureed for the sauce), and softly whipped cream. Originally served at Eton College's annual cricket match against Harrow, the dish is meant to be a mess - irregular layers, broken meringue shards, strawberry juice bleeding pink into the cream. Made in 10 minutes. The opposite of a chef-fussy plated dessert: maximum visual energy, minimum technique. Best in early summer when strawberries are at their peak.*
+*A proper British summer pudding: crushed meringue, sliced strawberries and softly whipped cream jumbled together. A glorious mess.*
 
 **Serves:** 4
 

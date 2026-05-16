@@ -1,7 +1,7 @@
 # Qutab
 
 ![Qutab](resources/qutab.jpg)
-*Paper-thin Azerbaijani savoury flatbread folded around a filling and pan-fried dry on both sides until blistered and tender. Two classic fillings: a herb-and-pomegranate version with spinach, sorrel, dill and pomegranate seeds, or a spiced lamb-and-onion mince. Eats hot brushed with butter and a dusting of sumac, dipped in garlicky yogurt. Different from a quesadilla (no cheese) or a gozleme (no yeast in the dough) - qutab dough is just flour-water-salt, rolled as thin as lavash, the filling cool when it goes in.*
+*Azerbaijan's folded flatbread: a herb-and-pomegranate filling sealed in paper-thin dough and pan-fried dry. Brushed with butter and sumac.*
 
 **Serves:** 4 (makes 8 qutab)
 

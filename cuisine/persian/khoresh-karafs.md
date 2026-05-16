@@ -1,7 +1,7 @@
 # Khoresh Karafs
 
 ![Khoresh Karafs](resources/khoresh-karafs.jpg)
-*Persia's celery-and-lamb stew: chunks of lamb shoulder slow-cooked with onion and turmeric, then finished with sautéed celery and a heavy folding-in of fresh herbs - parsley and mint, both in generous quantity - and a final dose of lemon juice and saffron. The colour is bright green from the herbs; the flavour is earthy from the celery, herbal-bright from the parsley-mint, mellow and rich from the lamb. Served over chelo rice. A staple of the Persian khoresh repertoire; quieter than fesenjan, more interesting than gheymeh.*
+*Persia's celery stew: lamb simmered with celery, parsley and mint until the pot is herb-bright, then finished with saffron and lemon.*
 
 **Serves:** 4
 

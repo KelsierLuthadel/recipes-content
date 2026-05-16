@@ -1,7 +1,7 @@
 # Mushy Peas
 
 ![Mushy Peas](resources/mushy-peas.jpg)
-*The defining side at a British chippy: marrowfat peas, soaked overnight with bicarbonate of soda, then simmered until they collapse into a vibrant green, slightly sweet, slightly savoury mush, finished with a knob of butter, salt and a glug of mint sauce or chopped fresh mint. Eaten alongside fish and chips, pie and chips, or with a Friday-night curry house meal. Not to be confused with French peas, mint-pea purée, or any "fresh pea" preparation - mushy peas are specifically made from dried marrowfat peas, and they should be mushy by name and texture.*
+*The British chippy side: marrowfat peas soaked overnight, then simmered slow till they collapse into a sweet, savoury green mush.*
 
 **Serves:** 4 (as a side)
 

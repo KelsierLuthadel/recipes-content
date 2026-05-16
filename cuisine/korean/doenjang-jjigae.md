@@ -1,7 +1,7 @@
 # Doenjang Jjigae
 
 ![Doenjang Jjigae](resources/doenjang-jjigae.jpg)
-*Korea's everyday stew: a deep, funky, savoury broth built on doenjang (fermented soybean paste) — the older, more pungent cousin of Japanese miso. Chunks of soft tofu, courgette, mushrooms, potato, onion and a few clams or anchovies simmer together until the soup is a thick murky brown. Eats bubbling-hot from a stone bowl (ttukbaegi) at the centre of the table, with rice and banchan around it. Different from kimchi jjigae (which is sour-spicy from fermented cabbage) — doenjang jjigae is the deep-savoury one, less spicy, more umami.*
+*Korea's everyday stew: tofu, courgette and clams simmered in a deep, funky doenjang broth. Served bubbling at the table.*
 
 **Serves:** 4
 

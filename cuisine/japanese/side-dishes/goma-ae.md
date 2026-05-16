@@ -1,7 +1,7 @@
 # Goma-ae
 
 ![Goma-ae](resources/goma-ae.jpg)
-*The defining Japanese sesame side: blanched green vegetables (spinach is the classic; green beans, asparagus, and broccoli also work) dressed in a paste of ground toasted sesame seeds, soy sauce, sugar and a touch of mirin. Nutty, sweet-salty, deeply savoury. Served cold or at room temperature as part of a bento box or a multi-side Japanese meal alongside rice, miso soup and a grilled fish. Made in 15 minutes; the sesame dressing is the heart of the dish and is the same paste used in countless Japanese preparations.*
+*Japan's sesame side: blanched spinach tossed in a paste of ground toasted sesame, soy, sugar and mirin. Bento-box mainstay.*
 
 **Serves:** 4 (as a side)
 

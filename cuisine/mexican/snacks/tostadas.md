@@ -1,7 +1,7 @@
 # Tostadas
 
 ![Tostadas](resources/tostadas.jpg)
-*Crisp flat corn tortillas, fried or oven-baked to a shattering crunch, then layered with refried beans, taco-spiced shredded chicken (or chicken tinga, or carnitas), shredded lettuce, cubed tomato, a drizzle of crema, crumbled cotija, sliced avocado and pickled jalapeños. The Mexican answer to nachos but architecturally distinct: each tostada is one tortilla, eaten in 3-4 bites, with a clear hierarchy of toppings. Crisp, fresh, layered, satisfying. Found at every Mexican market and in every family kitchen.*
+*Mexico's crisp tortilla plate: fried-flat tortillas layered with refried beans, shredded chicken, lettuce, tomato, crema and cotija.*
 
 **Serves:** 4 (8 tostadas)
 

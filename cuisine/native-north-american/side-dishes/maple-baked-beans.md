@@ -1,7 +1,7 @@
 # Maple Baked Beans
 
 ![Maple Baked Beans](resources/maple-baked-beans.jpg)
-*The Wabanaki / Algonquian original of New England baked beans: navy beans (or local soldier beans) slow-baked all day in a pit or low oven with maple syrup, salt pork (or bacon), mustard and a knob of onion. The colonists adopted the dish unchanged; the result is the deep mahogany-glazed beans now associated with Boston, but the recipe was already centuries old when the Mayflower arrived. Sweet, smoky, salt-cured, and the perfect side to grilled meats or as a dish in its own right with cornbread.*
+*The Wabanaki and New England original: navy beans slow-baked all day with maple syrup, salt pork, mustard and onion.*
 
 **Serves:** 6
 

@@ -1,7 +1,7 @@
 # Tres Leches Cake
 
 ![Tres Leches Cake](resources/tres-leches-cake.jpg)
-*"Three milks cake": a light airy sponge soaked in a mixture of evaporated milk, condensed milk and double cream, finished with a snowy layer of whipped cream and dusted with cinnamon. The cake drinks the milk soak overnight and emerges saturated but never soggy - the trick is a sponge that's structured enough to hold the liquid without collapsing. Across Latin America, every cuisine claims the original, but Mexico's everyday-celebration version is widely associated with the dish. Eaten cold, with strawberries or a drizzle of caramel sauce.*
+*Latin America's celebration cake: an airy sponge soaked in evaporated milk, condensed milk and cream, finished with whipped cream.*
 
 **Serves:** 12 (one 22 x 28 cm tray)
 

@@ -1,7 +1,7 @@
 # Onigiri
 
 ![Onigiri](resources/onigiri.jpg)
-*Japan's defining hand-held food: triangular rice balls of cooked short-grain rice salted in the hand and pressed around a filling (umeboshi plum, salmon flake, tuna mayo, or kombu) and wrapped in a sheet of nori. Carried in bento boxes, sold at every Japanese convenience store, eaten by schoolchildren, salarymen and grandmothers. Simple by ingredients, technical in execution: rice temperature, salting, pressure all matter. Lasts hours at room temperature; doesn't refrigerate well (rice goes hard).*
+*Japan's hand-held rice: salted short-grain rice pressed into triangles around a filling of pickled plum or salmon, wrapped in nori.*
 
 **Serves:** 4 (8 onigiri)
 

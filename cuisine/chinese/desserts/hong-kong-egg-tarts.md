@@ -1,7 +1,7 @@
 # Hong Kong Egg Tarts
 
 ![Hong Kong Egg Tarts](resources/hong-kong-egg-tarts.jpg)
-*The defining Cantonese pastry: small palm-sized tarts in a sweet shortcrust shell (the Cantonese style, distinct from the Portuguese / Macanese puff-pastry version), filled with a delicate yellow egg custard, baked until the custard is just-set and the surface is matte. The shell is biscuit-like rather than flaky. The Cantonese egg tart (gai daan jai) was adapted from English custard tarts in the 1940s in Guangzhou and is now the signature dim-sum dessert. Eaten warm, two at a time.*
+*Cantonese egg tarts: small biscuit-style shortcrust shells filled with a delicate yellow custard, baked till just-set and matte.*
 
 **Serves:** 6 (makes 12 tarts)
 

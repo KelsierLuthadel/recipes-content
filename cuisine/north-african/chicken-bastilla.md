@@ -1,7 +1,7 @@
 # Chicken Bastilla
 
 ![Chicken Bastilla](resources/chicken-bastilla.jpg)
-*Morocco's celebration pie - also spelled b'stilla, pastilla, bisteeya - built from shredded slow-cooked chicken, a fragrant egg-and-onion confit, toasted blanched almonds with sugar and orange-flower water, all wrapped in crisp warqa (or, in this version, filo) and finished with a snow of icing sugar and a lattice of cinnamon. Sweet, savoury, crisp, soft, fragrant: an entire layered argument for Moroccan complexity. Traditionally served at weddings and Eid feasts; equally suited to a Sunday lunch when you want to be impressive.*
+*Morocco's celebration pie: shredded slow-cooked chicken, almonds and eggs wrapped in crisp filo, dusted with sugar and cinnamon.*
 
 **Serves:** 6
 

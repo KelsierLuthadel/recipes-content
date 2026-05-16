@@ -1,7 +1,7 @@
 # Sambousek Jibneh
 
 ![Sambousek Jibneh](resources/sambousek-jibneh.jpg)
-*The cheese counterpart to the meat sambousek already in the Arabian repertoire: small half-moon pastries filled with a melty blend of akkawi (or low-moisture mozzarella + halloumi), feta and chopped parsley, sealed with a fork-crimp and either deep-fried golden or baked. Eaten warm at Saudi iftar tables, in mezze platters, and at family tea-time. Cousin to Greek tyropita and Lebanese fatayer jibneh; the Arabian version uses a slightly thicker pastry and a deeper salt profile from the akkawi.*
+*The Arabian cheese sambousek: half-moon pastries filled with akkawi, halloumi and parsley, deep-fried or baked golden.*
 
 **Serves:** 4 (makes 24 sambousek)
 

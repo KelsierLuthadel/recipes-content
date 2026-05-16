@@ -1,7 +1,7 @@
 # Akara
 
 ![Akara](resources/akara.jpg)
-*Nigerian black-eyed bean fritters: peeled black-eyed beans blended with onion and Scotch bonnet into a smooth fluffy batter, whipped until light, then deep-fried in spoonfuls into golden-brown nuggets that are crisp outside and steamy-savoury inside. A street-corner breakfast staple across West Africa (where they're also called acarajé in Brazil, brought there by enslaved Yoruba people); eaten with akamu (corn porridge), bread, or just on their own with a sprinkle of salt and a side of fresh pepper sauce.*
+*Nigeria's breakfast fritter: peeled black-eyed beans whipped fluffy with onion and Scotch bonnet, then deep-fried in spoonfuls.*
 
 **Serves:** 4 (makes 16 fritters)
 

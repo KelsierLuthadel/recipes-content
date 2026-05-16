@@ -1,7 +1,7 @@
 # Tirokafteri (Spicy Feta Dip)
 
 ![Tirokafteri](resources/tirokafteri.jpg)
-*Whipped feta dip from northern Greece, sharpened with red chilli - the name literally means "burning cheese". A wedge of feta blends with roasted red pepper, a fresh red chilli (or two), olive oil, a splash of vinegar, and a knob of cream cheese for spreadability. Eats with warm pita, raw vegetables, or smeared into a sandwich with grilled vegetables and meat. Pink-orange and creamy, with a slow chilli build behind the tang of feta. Different from a tzatziki - no yogurt, no cucumber, all cheese and chilli.*
+*Northern Greece's spicy feta dip: feta blended with roasted red pepper, fresh chilli and olive oil. The name means 'burning cheese'.*
 
 **Serves:** 4-6 (makes about 400 ml)
 

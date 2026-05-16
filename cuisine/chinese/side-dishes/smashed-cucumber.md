@@ -1,7 +1,7 @@
 # Smashed Cucumber
 
 ![Smashed Cucumber](resources/smashed-cucumber.jpg)
-*Pai huang gua, the smashed-cucumber salad of northern China: cucumbers bashed with the flat of a cleaver until they split unevenly, torn into ragged chunks, salted to weep, then dressed in a sharp soy-vinegar-garlic-sesame-chilli oil dressing. The smashing matters: the irregular surfaces drink the dressing far better than clean knife cuts. Cooling, sharp, savoury, garlicky; served as a cold side alongside hot rich dishes (Sichuan hot pot, dumplings, fatty pork). Made in 10 minutes; rests in the dressing for an hour to peak.*
+*Northern China's smashed-cucumber salad: bashed cucumber salted to weep, dressed sharp with soy, vinegar, garlic and chilli oil.*
 
 **Serves:** 4 (as a side)
 

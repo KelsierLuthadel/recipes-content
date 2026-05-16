@@ -1,7 +1,7 @@
 # Bruschetta al Pomodoro
 
 ![Bruschetta al Pomodoro](resources/bruschetta-al-pomodoro.jpg)
-*The defining summer Italian antipasto: thick slices of crusty country bread grilled or toasted hard until charred at the edges, rubbed with a raw garlic clove while still warm, drizzled with extra-virgin olive oil and topped with cubed ripe tomatoes tossed in salt, olive oil and fresh basil. The whole point is the bread: it must be sturdy, the toasting must be aggressive, and the topping must go on at the last second so the bread stays crisp. Eaten warm, with the fingers, while everything else cooks.*
+*The Italian summer antipasto: country bread grilled hard, rubbed with raw garlic, drizzled with oil and piled with macerated tomato.*
 
 **Serves:** 4 (8 bruschetta)
 

@@ -1,7 +1,7 @@
 # Chicharrones
 
 ![Chicharrones](resources/chicharrones.jpg)
-*Mexican pork crackling: large dried pieces of pork skin slowly rendered of all their fat, then deep-fried (or oven-puffed) into airy, blistered, salty crunchy clouds. The Mexican / Latin American version is large and dramatically puffed (unlike Spanish chicharrón, which is denser and meatier). Sold by the bag at markets; eaten as a snack with hot sauce and lime, broken into pieces over soups (pozole), used as a filler in tacos, or stewed in salsa (chicharrón en salsa verde). Made well: weightless, shatteringly crisp, intensely savoury.*
+*Mexico's pork crackling: dried pork skin plunged into hot oil until it puffs into shattering, salty, weightless clouds.*
 
 **Serves:** 6 (as a snack - makes ~150 g cooked chicharrones from 400 g raw skin)
 

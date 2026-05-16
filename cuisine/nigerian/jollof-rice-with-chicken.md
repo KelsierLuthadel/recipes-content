@@ -1,7 +1,7 @@
 # Jollof Rice with Chicken
 
 ![Jollof Rice with Chicken](resources/jollof-rice-with-chicken.jpg)
-*West Africa's most-beloved party dish, hotly contested between Nigeria, Ghana and Senegal. The Nigerian version: long-grain rice cooked in a deep-orange-red base of blended tomatoes, scotch bonnet peppers, onions and red bell peppers, perfumed with thyme, curry powder, bay and stock cubes, the rice taking on a gentle smokiness from the bottom of the pot ("party jollof" prizes the slightly-charred bottom layer). Bone-in chicken pre-cooks with onion and stock, then crisps under the grill, before being served on top.*
+*West Africa's most-argued-over party rice: long-grain cooked in a deep red tomato-and-scotch-bonnet base, with crisp-skinned chicken.*
 
 **Serves:** 6
 

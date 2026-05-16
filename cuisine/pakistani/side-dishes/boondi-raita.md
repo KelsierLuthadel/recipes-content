@@ -1,7 +1,7 @@
 # Boondi Raita
 
 ![Boondi Raita](resources/boondi-raita.jpg)
-*Pakistan's crowning yogurt side: full-fat yogurt whisked smooth, seasoned with cumin, mint, salt and a pinch of chilli, and finished with golden boondi (tiny chickpea-flour fritters) folded in just before serving. The boondi softens slightly in the yogurt and stays just-chewy - that texture against the cooling tang is what makes boondi raita the necessary accompaniment to spicy mains like biryani, nihari and haleem. Sold ready-made at every South Asian shop; making your own boondi from scratch is satisfying if you have a slotted spoon.*
+*Pakistan's cooling raita: whisked yogurt with cumin and mint, finished with golden boondi just before serving.*
 
 **Serves:** 4
 

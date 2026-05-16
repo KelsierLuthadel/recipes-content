@@ -1,7 +1,7 @@
 # Kuku Sib Zamini
 
 ![Kuku Sib Zamini](resources/kuku-sib-zamini.jpg)
-*Persia's potato kuku - a savoury egg-and-potato cake, baked or pan-fried in a wide pan and cut into squares for snacking. Grated boiled potato folds with beaten eggs, sautéed onion, turmeric, and a pinch of saffron; baked until just-set with golden crust. Eaten cold at picnics, packed into Tehran-style sandwiches with sliced tomato and pickled cucumber, or served warm with yogurt as a light meal. Cousin to kuku sabzi (the herb-version); this potato variant is the comfort-food everyday kuku.*
+*Persia's potato omelette: grated boiled potato folded with eggs, onion, turmeric and saffron, baked till just-set and gold.*
 
 **Serves:** 6 (one 24 cm tray, cut into 12 squares)
 

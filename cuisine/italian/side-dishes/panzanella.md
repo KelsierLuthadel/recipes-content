@@ -1,7 +1,7 @@
 # Panzanella
 
 ![Panzanella](resources/panzanella.jpg)
-*Tuscany's stale-bread summer salad: chunks of day-old country bread soaked in a vinaigrette of red wine vinegar and good olive oil, tossed with ripe summer tomatoes, sliced cucumber, sweet red onion, torn basil and a tin's worth of capers. The bread softens into the dressing without disintegrating; the tomatoes weep their juice into the bowl; the result is the platonic ideal of summer eating. The recipe rules: stale bread (not toasted, not fresh), good tomatoes (no other time of year matters), and rest time (30 minutes minimum).*
+*Tuscany's summer salad: torn day-old bread soaked in red wine vinegar and oil, tossed with ripe tomatoes, cucumber, onion and basil.*
 
 **Serves:** 4 (as a starter or side)
 

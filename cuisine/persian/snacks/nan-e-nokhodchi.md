@@ -1,7 +1,7 @@
 # Nan-e Nokhodchi
 
 ![Nan-e Nokhodchi](resources/nan-e-nokhodchi.jpg)
-*Persian chickpea-flour shortbread cookies cut into the iconic four-leaf-clover shape, dusted with crushed pistachios. The dough is gluten-free - roasted chickpea flour bound by butter, sugar, cardamom and rosewater - giving a melt-in-the-mouth, slightly crumbly texture. Made for Nowruz (Persian New Year) and Eid celebrations; eaten with strong black tea or after dinner with rosewater syrup. Distinct from Western shortbread by the cardamom-rosewater perfume and the powdery, almost dissolving crumb.*
+*Persia's chickpea-flour cookies: tiny clover-shaped shortbreads scented with rosewater and cardamom, dusted with crushed pistachios.*
 
 **Serves:** 8 (makes 40 small cookies)
 

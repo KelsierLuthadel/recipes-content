@@ -1,7 +1,7 @@
 # Shuizhu Niurou
 
 ![Shuizhu Niurou](resources/shuizhu-niurou.jpg)
-*Sichuan "water-boiled beef" - the name is deeply misleading. Thinly-sliced beef is poached in a fiery broth heavy with doubanjiang and Sichuan peppercorns, then drowned in a lake of crackling chilli oil that's poured smoking-hot over the bowl at the table. Built on the mala flavour pair: la (chilli heat) and ma (the tingling numbness of Sichuan peppercorns). Sits over a bed of crisp greens that wilt under the hot oil. A signature dish of Sichuan, on every chuanwei (Sichuan-flavour) menu.*
+*Sichuan's water-boiled beef: silk-thin beef poached in a fiery doubanjiang broth, drowned in smoking chilli oil at the table.*
 
 **Serves:** 4
 

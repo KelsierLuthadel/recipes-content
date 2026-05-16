@@ -1,7 +1,7 @@
 # Kuku Sabzi
 
 ![Kuku Sabzi](resources/kuku-sabzi.jpg)
-*Persia's herb omelette: a chopped-and-fried frittata heavy with fresh herbs - parsley, coriander, dill, chives - and a touch of fenugreek for the unmistakable Persian aroma, bound with eggs and a small amount of flour or chickpea flour, baked or pan-fried into a deep-green slab. Eaten warm or cold; served at Nowruz on the haftsin table (where it represents the rebirth of spring), and at any Persian family lunch. Cut into squares; eaten with bread, yogurt, walnuts and a wedge of lemon.*
+*Persia's herb omelette: a deep-green frittata heavy with parsley, coriander, dill and fenugreek. The Nowruz table-centre dish.*
 
 **Serves:** 6
 

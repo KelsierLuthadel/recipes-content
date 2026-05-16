@@ -1,7 +1,7 @@
 # Haleem
 
 ![Haleem](resources/haleem.jpg)
-*Pakistan's hours-cooked slow-stew: cracked wheat, barley and assorted lentils simmered for 6+ hours with bone-in mutton or beef, ground spices, ginger and garlic, then beaten with a wooden tool (or, in this kitchen version, blitzed briefly) until the meat has fully integrated with the grain into a thick savoury porridge. Finished with sizzling fried onions, fresh ginger juliennes, green chilli, coriander, mint, lemon and garam masala. The defining Ramadan iftar dish and the funeral / wedding solidarity-meal across South Asia. Deeply nourishing; entirely transformative.*
+*Pakistan's iftar pot: cracked wheat, lentils and mutton simmered for hours until they collapse into a rich, savoury porridge.*
 
 **Serves:** 6
 

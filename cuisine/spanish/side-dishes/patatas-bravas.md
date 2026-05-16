@@ -1,7 +1,7 @@
 # Patatas Bravas
 
 ![Patatas Bravas](resources/patatas-bravas.jpg)
-*Spain's most-ordered tapa: crisp twice-fried potato cubes drenched in a smoky-spicy paprika-tomato sauce (salsa brava), often with a drizzle of garlic aioli for richness. Each bite shatters crisp, then yields to a fluffy interior soaked in the smoky-tangy sauce. Different from a generic patatas with sauce: the brava sauce is iconic - smoked Pimentón de la Vera, tomato passata, a hint of cayenne, vinegar. Madrid-style serves brava sauce only; Barcelona piles brava AND aioli for the marbled look.*
+*Spain's most-ordered tapa: twice-fried potato cubes drenched in a smoky paprika-tomato sauce, drizzled with garlic aioli.*
 
 **Serves:** 4 as a side / 6 as a tapa
 

@@ -1,7 +1,7 @@
 # Polvo à Lagareiro
 
 ![Polvo a Lagareiro](resources/polvo-a-lagareiro.jpg)
-*The Portuguese olive-oil press worker's octopus: a whole octopus tenderised by long simmering, then roasted hard in the oven with whole "punched" potatoes (small new potatoes pressed and broken slightly to expose interior), drowning in a generous quantity of olive oil, garlic and bay. The dish references the lagareiros (olive-oil press workers) of the central Portuguese countryside who would use their fresh-pressed oil generously. The octopus comes out tender, slightly chewy, smoky from the oven; the potatoes are crisp and oily.*
+*Portugal's olive-press-day plate: tender octopus and punched new potatoes roasted hard under a generous flood of garlicky olive oil.*
 
 **Serves:** 4
 

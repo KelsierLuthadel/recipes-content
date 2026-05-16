@@ -1,7 +1,7 @@
 # Sumac Lemonade
 
 ![Sumac Lemonade](resources/sumac-lemonade.jpg)
-*The Eastern Woodlands cold drink - also called "sumacade" or "indian lemonade" - made from the deep-crimson fruit clusters of staghorn or smooth sumac, steeped briefly in cool water to release their tart citric edge, then strained and sweetened with maple. The dried red drupes contain malic and citric acids that give the drink an unmistakable lemonade-like sharpness, with a faint resin-and-rose note. Drunk by Algonquian, Iroquois and Wabanaki peoples for centuries; entirely caffeine-free and refreshing.*
+*The Eastern Woodlands' summer drink: red sumac drupes steeped cold and sweetened with maple. Caffeine-free, sharp, rose-tinged.*
 
 **Serves:** 4 (makes about 1.2 litres)
 

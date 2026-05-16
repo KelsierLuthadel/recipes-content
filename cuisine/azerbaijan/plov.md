@@ -1,7 +1,7 @@
 # Plov
 
 ![Plov](resources/plov.jpg)
-*Azerbaijan's national dish: long-grain basmati cooked under a thick saffron-stained butter crust (qazmaq), served with a slow-stewed lamb-and-dried-fruit topping (qara). The rice is steamed dry-fluffy with each grain separate, the crust comes out lacquered amber, and the lamb is braised with chestnuts, dried apricots, prunes and a fistful of saffron threads. Eats with a glass of dough (salty yogurt drink) and a plate of fresh herbs. The number-one Azerbaijani plate, present at every wedding, eid and celebration.*
+*Azerbaijan's wedding rice: basmati steamed under a buttery saffron crust, served with slow-stewed lamb, dried apricots and chestnuts.*
 
 **Serves:** 6
 

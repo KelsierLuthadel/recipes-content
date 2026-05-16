@@ -1,7 +1,7 @@
 # Khanom Krok
 
 ![Khanom Krok](resources/khanom-krok.jpg)
-*The coconut-cream half-spheres sold from every Thai street stall and morning market: a thin batter of rice flour, coconut milk and palm sugar is poured into half-moon dimples in a special pan, topped with a richer second batter of pure coconut cream, and griddled until the bases are crisp-golden and the tops are barely-set custard. Two halves are paired together (some sellers add spring onion, others sweetcorn or pumpkin between) and eaten warm. Slightly salty-sweet, crisp-then-soft, deeply coconutty.*
+*Thailand's coconut-cream dimples: rice-flour batter and pure coconut cream griddled into crisp-bottomed, custard-topped half-spheres.*
 
 **Serves:** 4 (makes ~24 half-spheres / 12 paired snacks)
 

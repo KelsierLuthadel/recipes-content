@@ -1,7 +1,7 @@
 # Ojja with Merguez
 
 ![Ojja with Merguez](resources/ojja-merguez.jpg)
-*Tunisia's spicy tomato-and-egg pan supper: harissa-rich tomato sauce simmered with caraway, garlic and a kick of red pepper, then loaded with charred merguez sausages (the spicy North African lamb sausage), with eggs cracked over the top and steamed in the simmering sauce until the whites are set and the yolks still soft. Cousin to shakshouka but distinct: more harissa, more cumin/caraway, the unmistakable merguez. Eaten with crusty bread and a side salad; the Friday-night Tunisian comfort meal.*
+*Tunisia's pan supper: harissa-spiced tomato sauce loaded with charred merguez and finished with eggs cracked over the top.*
 
 **Serves:** 4
 

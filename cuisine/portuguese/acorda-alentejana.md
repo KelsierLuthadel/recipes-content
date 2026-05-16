@@ -1,7 +1,7 @@
 # Açorda Alentejana
 
 ![Açorda Alentejana](resources/acorda-alentejana.jpg)
-*The Alentejo bread-and-egg soup: stale country bread softened in a fragrant broth of garlic, fresh coriander, olive oil and boiling water, finished with poached eggs whose yolks break into the bowl when stirred. A peasant dish from southern Portugal - the kind of recipe a shepherd would make from a heel of yesterday's bread and whatever grew at his feet. Astonishing how four ingredients can taste this rich. Eaten as a soup-starter, or as a complete meal with the bread sopping up the eggy garlicky broth.*
+*Portugal's shepherd soup: stale country bread softened in a fragrant broth of garlic, coriander and olive oil, finished with poached eggs.*
 
 **Serves:** 4
 

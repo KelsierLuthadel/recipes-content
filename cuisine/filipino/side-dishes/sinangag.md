@@ -1,7 +1,7 @@
 # Sinangag (Garlic Fried Rice)
 
 ![Sinangag](resources/sinangag.jpg)
-*The Filipino breakfast cornerstone: day-old rice stir-fried in oil with a punishing amount of crisped garlic, salt and pepper. Eats as the carb component of any silog combo - tapsilog (with cured beef), longsilog (with sweet sausage), tocilog (with sweet pork). Texture is everything: leftover rice that's been refrigerated has the dry, separated grains needed for stir-frying; fresh rice steams into a sticky mush. A breakfast cooked in three minutes, the smell of frying garlic doing most of the work.*
+*The Filipino breakfast cornerstone: day-old rice stir-fried hard in oil with a punishing amount of crisped garlic, salt and pepper.*
 
 **Serves:** 4
 

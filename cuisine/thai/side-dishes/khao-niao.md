@@ -1,7 +1,7 @@
 # Khao Niao
 
 ![Khao Niao](resources/khao-niao.jpg)
-*Thailand's sticky rice: pearly white grains of glutinous rice steamed (never boiled) over water until they cling together in a pliable, chewy, slightly sweet mass. Eaten with the fingers across the north and northeast of Thailand and across Laos, where it's the daily staple. Pinched off in small balls and dipped into curry, larb, grilled meats, or a chilli sauce; eaten alongside som tam green papaya salad; sweetened with coconut milk and mango for the dessert version. Not the same as ordinary white rice - the variety, the soaking, and the steaming method are all different.*
+*Thailand's sticky rice: glutinous grains steamed in a bamboo cone until they cling together. Pinched into balls and dipped in everything.*
 
 **Serves:** 4 (with mains)
 

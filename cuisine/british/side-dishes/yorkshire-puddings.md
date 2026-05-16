@@ -1,7 +1,7 @@
 # Yorkshire Puddings
 
 ![Yorkshire Puddings](resources/yorkshire-puddings.jpg)
-*The defining side of any British Sunday roast: small puffed-up batter cups, golden and crisp on the edges, hollow inside, designed to hold a flood of gravy. Made from a simple equal-volumes batter of flour, eggs and milk, baked in pre-heated beef-fat-filled muffin or pudding tins until they rise dramatically up the sides. The rise is the whole point: a flat heavy Yorkshire is a failed Yorkshire. Eaten alongside roast beef (mandatory), roast chicken (acceptable), or as a giant single "Yorkshire pudding" filled with sausages and gravy for "toad in the hole".*
+*The Sunday-roast side: puffed-up batter cups baked in beef-dripping tins, hollow inside, ready to hold a flood of gravy.*
 
 **Serves:** 4 (makes 8 individual Yorkshires)
 

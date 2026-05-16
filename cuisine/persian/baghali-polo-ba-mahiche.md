@@ -1,7 +1,7 @@
 # Baghali Polo ba Mahiche
 
 ![Baghali Polo ba Mahiche](resources/baghali-polo-ba-mahiche.jpg)
-*The Persian feast plate: dill-and-broad-bean rice (baghali polo) served alongside lamb shanks (mahiche) that have been braised for hours in onion, turmeric, saffron and a little stock until they fall away from the bone in tender mahogany strands. The rice is the dish's signature: a generous quantity of fresh dill and tender broad beans folded through Persian-style steamed basmati, with a crispy saffron tahdig at the bottom of the pot. Served at celebrations, Nowruz, weddings; deeply impressive but not difficult.*
+*A Persian feast plate: dill-and-broad-bean rice with a saffron tahdig, served alongside slow-braised lamb shanks. A Nowruz dish.*
 
 **Serves:** 4
 

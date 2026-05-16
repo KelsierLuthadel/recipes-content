@@ -1,7 +1,7 @@
 # Mango Sticky Rice
 
 ![Mango Sticky Rice](resources/mango-sticky-rice.jpg)
-*Thailand's defining dessert - and by some measures one of the great desserts of the world: a mound of pearly sticky rice soaked in sweetened salted coconut sauce, served alongside cool slices of ripe Thai honey mango, drizzled with a final pour of unsweetened coconut cream, topped with toasted sesame seeds and (sometimes) crisped mung beans. The contrast is the dish: warm sticky chewy rice + cold fragrant juicy mango + salt-rich coconut. Made in season, late spring through summer when the mangoes are at their peak.*
+*Thailand's mango plate: sticky rice steeped in salted-sweet coconut sauce, served alongside cool slices of ripe honey mango.*
 
 **Serves:** 4
 

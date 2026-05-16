@@ -1,7 +1,7 @@
 # Frybread with Wojapi
 
 ![Frybread with Wojapi](resources/frybread-with-wojapi.jpg)
-*Indian frybread - pillowy disks of dough fried golden - served warm with wojapi, a thick Lakota berry sauce of chokecherries (or whatever's in season - blueberries, blackberries, saskatoon berries) cooked down with maple syrup and a little water. Frybread has a complex history (it dates from 1864, when Navajo people on the Long Walk were rationed flour and sugar instead of traditional foods); it's now an icon of Native American cuisine, eaten at powwows, family gatherings and any chance to gather. The sweet version with wojapi is a dessert; savoury versions ("Indian tacos") build on it.*
+*Pillowy fried-bread disks served with a thick Lakota berry sauce of chokecherries and maple. A powwow plate.*
 
 **Serves:** 6
 

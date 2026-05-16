@@ -1,7 +1,7 @@
 # Kachalou Pakora
 
 ![Kachalou Pakora](resources/kachalou-pakora.jpg)
-*Afghanistan's spiced potato fritters: thin slices of waxy potato dipped in a chickpea-flour batter spiked with turmeric, chilli, coriander seeds, ajwain (carom seed) and garlic, then deep-fried into golden, crisp-edged discs. Sold by Kabul street vendors with a small cup of green chutney and an extra dish of chaat masala. Cousin to Indian aloo pakora; the Afghan version uses a slightly thicker batter and a more pronounced ajwain note. Served at tea time, snack tray, or as part of a chai-and-finger-food evening.*
+*Kabul's tea-time fritter: thin potato slices dipped in chickpea-flour batter spiked with turmeric, chilli and ajwain, deep-fried golden.*
 
 **Serves:** 4 (makes 24 pakoras)
 

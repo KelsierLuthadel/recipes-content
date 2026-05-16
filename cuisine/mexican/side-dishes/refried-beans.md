@@ -1,7 +1,7 @@
 # Refried Beans
 
 ![Refried Beans](resources/refried-beans.jpg)
-*Frijoles refritos: pinto beans (the most traditional choice) slow-cooked from dried with onion and garlic, then mashed and fried in lard with sliced onion and cumin until thick, glossy, and deeply savoury. The "re-" in "refried" is a mistranslation - frijoles refritos means "well-fried" beans, not "twice-fried". A meal on its own with tortillas, a dip with chips, a layer in a burrito, a side at every Mexican plate. Made well: rich, slightly soupy, deeply flavoured. Made poorly: dry, pasty, sad.*
+*Mexico's frijoles refritos: pinto beans slow-cooked from dried, then mashed and fried in lard with onion until thick and glossy.*
 
 **Serves:** 6 (as a side)
 

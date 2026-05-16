@@ -1,7 +1,7 @@
 # Egusi Soup
 
 ![Egusi Soup](resources/egusi-soup.jpg)
-*Nigeria's defining thick stew: ground egusi (white melon seeds) simmered with palm oil, smoked fish, beef or goat, peppers, leafy greens (bitter leaf or spinach), and a small constellation of ground crayfish, locust beans and Scotch bonnet chilli. The egusi swells and binds the sauce into a thick textured stew that's spooned over fufu, eba or pounded yam and eaten with the fingers. Found on every Igbo, Yoruba and Edo table at Sunday lunch; the indisputable centrepiece of Nigerian home cooking.*
+*Nigeria's defining stew: ground melon seeds simmered with palm oil, smoked fish, meat and greens. Eaten with fufu by the fingers.*
 
 **Serves:** 6
 

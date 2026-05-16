@@ -1,7 +1,7 @@
 # Chicken Karahi
 
 ![Chicken Karahi](resources/chicken-karahi.jpg)
-*Pakistan's defining wok-cooked chicken: bone-in chicken pieces seared hard in a karahi (a deep wok-like pan, often two-handled), then simmered with ginger, garlic, fresh green chillies, tomato and yogurt, finished with a generous shower of fresh coriander and slivered green chilli at the table. The Lahori roadside dhaba dish - fast, fierce, intensely tomatoey, with no heavy spice rack: just black pepper, cumin, ginger, garlic, fresh chilli. Distinct from Indian curries by its lack of onion paste and its emphatic tomato-and-pepper-and-coriander finish.*
+*Lahore's roadside dhaba dish: bone-in chicken seared hard in a karahi, then simmered with ginger, garlic, tomato and green chillies.*
 
 **Serves:** 4
 

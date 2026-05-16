@@ -1,7 +1,7 @@
 # Nan e Barbari
 
 ![Nan e Barbari](resources/nan-e-barbari.jpg)
-*Iran's everyday breakfast flatbread: a long oval loaf with characteristic deep parallel ridges scored into the top, brushed with a roomal glaze (a flour-and-water paste that gives the crust its glossy crackle), sprinkled with sesame and nigella seeds, baked on a heavy hot stone until golden and crisp-edged. Originally from northeast Iran, it became Tehran's defining bread when refugees brought it south in the 19th century. Eaten still warm from the oven with feta, walnuts, fresh herbs, and a glass of black tea - the Persian Sunday breakfast.*
+*Iran's morning flatbread: a long ridged loaf with a glossy crackle, scattered with sesame and nigella, baked on a hot stone.*
 
 **Serves:** 4 (makes 2 long loaves)
 

@@ -1,7 +1,7 @@
 # Karaage
 
 ![Karaage](resources/karaage.jpg)
-*Japanese fried chicken: bite-sized chunks of boneless chicken thigh marinated briefly in soy, sake, ginger and garlic, then dredged in potato starch (NOT flour - this is the secret) and twice-fried in oil for an extraordinarily crisp, light, shatter-crunchy crust around tender juicy meat. The defining Japanese izakaya snack; also a bento-box mainstay. Served with a wedge of lemon, Japanese mayo (Kewpie) and shichimi togarashi. Made well, karaage is the platonic ideal of fried chicken - light, crisp, deeply flavoured.*
+*Japan's izakaya fried chicken: marinated thigh dredged in potato starch and twice-fried for an impossibly crisp shatter-crunchy crust.*
 
 **Serves:** 4 (as a snack)
 

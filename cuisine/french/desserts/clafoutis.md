@@ -1,7 +1,7 @@
 # Clafoutis
 
 ![Clafoutis](resources/clafoutis.jpg)
-*The Limousin region's defining baked dessert: ripe cherries (traditionally with stones in, which give a faint almond aroma during baking) sit in a buttered dish, drowned in a thick batter halfway between a Yorkshire pudding and a sweet pancake - eggs, sugar, milk, cream, flour, vanilla - and baked until puffed, gold and just-set. Served warm, dusted with icing sugar. Made with stone fruit other than cherries (peaches, plums, pears) it's properly called a flaugnarde, but most recipes use the names interchangeably.*
+*The Limousin's harvest pudding: ripe cherries sat in a buttered dish and drowned in a sweet eggy batter. Baked till puffed and gold.*
 
 **Serves:** 6
 

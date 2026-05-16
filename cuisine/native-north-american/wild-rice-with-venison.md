@@ -1,7 +1,7 @@
 # Wild Rice with Venison
 
 ![Wild Rice with Venison](resources/wild-rice-with-venison.jpg)
-*A Great Lakes / Anishinaabe one-pot of hand-harvested wild rice (manoomin - "the food that grows on water") cooked with venison shoulder, dried mushrooms, onion, juniper and a glug of maple at the end. Wild rice is not actually rice but the seed of an aquatic grass native to the lakes of Minnesota, Wisconsin and Ontario; it has a faint nutty smoke from the parching step in its harvest. The dish is hearty, dark, with the wild grass's mineral edge balanced by the venison's iron and the maple's sweetness.*
+*A Great Lakes one-pot: hand-harvested wild rice stewed with venison shoulder, dried mushrooms, juniper and a final spoon of maple.*
 
 **Serves:** 4
 

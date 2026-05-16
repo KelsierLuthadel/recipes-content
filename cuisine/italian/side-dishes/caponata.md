@@ -1,7 +1,7 @@
 # Caponata
 
 ![Caponata](resources/caponata.jpg)
-*Sicily's sweet-and-sour aubergine relish: cubes of aubergine fried gold, folded through a celery-and-tomato base sharpened with red wine vinegar and sweetened with sugar, studded with green olives, capers and toasted pine nuts, finished with fresh basil. The agrodolce sweet-sour signature dish of Sicily; better the next day after the flavours marry overnight. Served at room temperature as antipasto, scooped onto crusty bread, alongside grilled fish, or piled into a sandwich. Vegan, deeply savoury, addictive.*
+*Sicily's sweet-and-sour aubergine relish: fried aubergine folded through a celery-and-tomato base with olives, capers and pine nuts.*
 
 **Serves:** 6 (as a side)
 

@@ -1,7 +1,7 @@
 # Chana Chaat
 
 ![Chana Chaat](resources/chana-chaat.jpg)
-*Pakistan's tangy chickpea snack-salad: boiled chickpeas mixed with diced onion, tomato, potato and fresh coriander, dressed in lemon juice, chaat masala, cumin and a hot sauce or tamarind chutney, finished with a sprinkle of crushed papri (or, in a pinch, just crackers). The Ramadan iftar staple sold from every Lahori street cart and made at every Karachi home for a quick high-protein side. Sharp, fresh, varied in texture - soft chickpea, crunch of onion, sour of lemon, hit of chilli, salty crunch of papri.*
+*Pakistan's tangy chickpea snack: boiled chickpeas tossed with onion, tomato and potato, dressed with lemon, chaat masala and tamarind.*
 
 **Serves:** 4
 

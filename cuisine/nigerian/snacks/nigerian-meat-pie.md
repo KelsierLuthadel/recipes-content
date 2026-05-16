@@ -1,7 +1,7 @@
 # Nigerian Meat Pie
 
 ![Nigerian Meat Pie](resources/nigerian-meat-pie.jpg)
-*Nigeria's lunchbox / petrol-station / corner-shop staple: a sturdy butter-and-margarine shortcrust pastry pasty filled with a savoury, spiced minced beef and diced potato-and-carrot mixture in a thick stock-cube-rich gravy. Inherited from British colonial cooking and made firmly Nigerian by the addition of curry powder, thyme, plenty of stock cube, and the unmistakable Nigerian pepper-and-onion base. Eaten hot from a brown paper bag on a long bus journey; cold for breakfast; reheated in a toaster oven the next day.*
+*Nigeria's bus-stop pasty: a sturdy shortcrust filled with spiced beef mince, potato and carrot in a thick, stock-cube-rich gravy.*
 
 **Serves:** 6 (makes 6 large pies)
 

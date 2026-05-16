@@ -1,7 +1,7 @@
 # Cornish Pasty
 
 ![Cornish Pasty](resources/cornish-pasty.jpg)
-*The traditional Cornish workman's lunch: a sturdy shortcrust pastry semicircle filled with raw chopped beef skirt, potato, swede (turnip in Cornwall), onion, salt and pepper, sealed with a thick rope-crimped edge, baked until golden. The defining detail: ingredients go in raw, the pastry seals tight, and the steam created during baking cooks everything inside. Originally made as a portable lunch for Cornish tin miners - the thick crimp was a handle to hold by, then discarded. Protected Geographical Indication: a Cornish Pasty must be made in Cornwall to the traditional recipe.*
+*The Cornish tin miner's lunch: beef, potato, swede and onion sealed raw in shortcrust pastry and baked till the steam cooks it through.*
 
 **Serves:** 4 (4 large pasties)
 

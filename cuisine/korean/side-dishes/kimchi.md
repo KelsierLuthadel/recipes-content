@@ -1,7 +1,7 @@
 # Kimchi (Cabbage)
 
 ![Kimchi](resources/kimchi.jpg)
-*The Korean side dish: napa cabbage salted overnight, then coated with a thick paste of gochugaru (Korean chilli flakes), fish sauce, garlic, ginger, and a sweet rice-flour porridge that binds everything together. Ferments at room temperature 1-3 days, then continues developing in the fridge for weeks. Lives on every Korean table as a side, but is also the base for kimchi-jjigae, kimchi pancakes, kimchi fried rice. The signature isn't heat - it's the tangy-sour-funky deep flavour that develops over time.*
+*The Korean side dish: napa cabbage salted overnight, then packed with gochugaru, garlic and fish sauce. Ferments deeper for weeks.*
 
 **Serves:** Makes a 1.5 L jar (~20 servings)
 

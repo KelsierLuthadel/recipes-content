@@ -1,7 +1,7 @@
 # Sindhi Biryani
 
 ![Sindhi Biryani](resources/sindhi-biryani.jpg)
-*Sindh's distinctive biryani: spicier and tangier than its Hyderabadi cousin, made with bone-in mutton (or chicken) marinated in yogurt, ginger, garlic, fresh mint and a generous masala, then layered with fluffy basmati rice, soft prunes (alu bukhara - the giveaway ingredient), green chillies, fried onions and saffron-milk, and slow-cooked on dum (sealed lid, gentle heat) until the rice is perfumed and the meat falls apart. The biryani of Pakistani trains, weddings and Friday-night kitchens; tangier and chilli-forward where Hyderabadi is rich-and-savoury.*
+*Sindh's chilli-tangy biryani: yogurt-marinated mutton layered with basmati, fried onions, soft prunes and chillies, slow-cooked on dum.*
 
 **Serves:** 6
 

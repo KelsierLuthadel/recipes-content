@@ -1,7 +1,7 @@
 # Rillettes de Porc
 
 ![Rillettes de Porc](resources/rillettes-de-porc.jpg)
-*The defining French potted-pork charcuterie: cubed pork shoulder slow-cooked for 4 hours in its own fat with garlic, herbs and wine until completely tender, shredded into long strands, packed into jars and sealed with a layer of pork fat. Spread thickly onto toasted baguette or crackers; eaten as an apéritif with cornichons, Dijon and a glass of dry white wine. Originally from the Loire Valley (Tours / Le Mans); now a defining country-French food. Made in 4 hours; matures over 3-5 days; keeps refrigerated for 3 weeks.*
+*The Loire's potted pork: shoulder slow-cooked for hours in its own fat with garlic and wine, shredded into jars, sealed with lard.*
 
 **Serves:** 8 (makes ~600 g in 2-3 small jars)
 

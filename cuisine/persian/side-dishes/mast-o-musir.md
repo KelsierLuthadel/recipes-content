@@ -1,7 +1,7 @@
 # Mast o Musir
 
 ![Mast o Musir](resources/mast-o-musir.jpg)
-*Persia's pickled-wild-shallot yogurt: thick strained yogurt mixed with dried Persian shallots (musir) that have been rehydrated and finely chopped, with a sprinkle of salt and a drizzle of olive oil at serving. The shallots - sun-dried wild garlic shallots from the Zagros mountains - give the yogurt a faintly garlicky, slightly funky tang that distinguishes mast o musir from any other yogurt dip in the region. Served alongside kabob koobideh, chelo, sangak bread; or as a starter with bread for dipping.*
+*Persia's wild-shallot yogurt: thick strained yogurt mixed with dried Zagros-mountain shallots. Served with rice or for dipping bread.*
 
 **Serves:** 4
 

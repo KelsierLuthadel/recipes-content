@@ -1,7 +1,7 @@
 # Murgh Cholay
 
 ![Murgh Cholay](resources/murgh-cholay.jpg)
-*Pakistan's everyday chicken-and-chickpea curry: bone-in chicken pieces simmered with chickpeas in a deep tomato-and-onion masala spiced with cumin, coriander, turmeric, ginger, garlic and a kick of green chilli. Light enough for a weeknight, rich enough for guests, and one-pot. Eaten with naan or basmati rice, with a wedge of lemon and a side of raita. The protein-and-pulse combination is what makes it a complete meal - the curry that Pakistani mums make when the freezer is bare and the fridge has chicken.*
+*Pakistan's weeknight chicken-and-chickpea curry: bone-in chicken simmered with chickpeas in a deep tomato-and-onion masala.*
 
 **Serves:** 4
 

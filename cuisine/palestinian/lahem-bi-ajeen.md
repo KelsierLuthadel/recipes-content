@@ -1,7 +1,7 @@
 # Lahem bi Ajeen
 
 ![Lahem bi Ajeen](resources/lahem-bi-ajeen.jpg)
-*Palestinian-style flat meat pies: a thin yeasted dough topped with a generous, well-spiced minced lamb (or beef-and-lamb) mixture with tomato, onion, pomegranate molasses and seven-spice (baharat), baked in a hot oven until the dough is crisp at the edges and the meat is glossy-set. The Palestinian version is generally sharper and more tomato-forward than the Lebanese sfiha, with a clear pomegranate-molasses tang. Eaten with yogurt and a wedge of lemon, rolled around fresh mint and parsley, or stacked at a meze with everything else.*
+*Palestine's flat meat pies: spiced minced lamb with tomato, pomegranate molasses and baharat on thin yeasted dough, baked hot till glossy.*
 
 **Serves:** 6 (makes 12 small pies)
 

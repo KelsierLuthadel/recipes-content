@@ -1,7 +1,7 @@
 # Shish Barak
 
 ![Shish Barak](resources/shish-barak.jpg)
-*Palestinian (and Syrian, Lebanese) tiny meat dumplings in warm yogurt sauce: thumb-sized parcels of plain wheat dough filled with a spiced lamb-mince-and-onion mix, baked briefly to firm them (the trick that elevates this dish above plain boiled dumplings), then dropped into a gently heated yogurt-and-mint sauce stabilised with egg white or cornstarch so it doesn't split. Topped with a sizzle of butter, sliced garlic and fresh mint. A dish that rewards patience; eaten on celebration days and Friday lunches.*
+*Palestine's celebration dumplings: tiny lamb-stuffed parcels baked till firm, then warmed in a yogurt-and-mint sauce with garlicky butter.*
 
 **Serves:** 4
 

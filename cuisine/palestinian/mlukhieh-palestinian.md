@@ -1,7 +1,7 @@
 # Mlukhieh Palestinian
 
 ![Mlukhieh Palestinian](resources/mlukhieh-palestinian.jpg)
-*Palestinian jute-leaf stew: the slightly slippery, deeply green leaves of the mlukhieh plant (jute mallow), finely chopped, simmered in a chicken stock with garlic, coriander and onion, finished with a fried-garlic-and-coriander tarka. Eaten over a bed of rice with poached chicken on top and a wedge of lemon. The Palestinian version of mlukhieh keeps the leaves chopped fine (not whole-leaf as in Egypt); the texture is intentional and what distinguishes the dish - slightly viscous, deeply savoury. Found at every traditional Palestinian summer table.*
+*Palestine's summer stew: finely chopped jute leaves simmered in chicken stock and finished with a fried-garlic-and-coriander tarka.*
 
 **Serves:** 4
 

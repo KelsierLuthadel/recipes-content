@@ -1,7 +1,7 @@
 # Arroz de Pato
 
 ![Arroz de Pato](resources/arroz-de-pato.jpg)
-*Portugal's "duck rice": a generous casserole of long-grain rice cooked in rich duck stock, shredded confit-style duck meat folded through, topped with thin slices of chouriço sausage and finished in the oven until the top is gold and the rice is fragrant with bay, clove and lemon zest. A dish of weekend lunches and special occasions in northern and central Portugal. Less wet than a pilaf, less dry than a paella; the rice is meant to be glossy and sticky together, soaked through with duck fat.*
+*Portugal's duck rice: long-grain cooked in rich duck stock with shredded confit meat, topped with sliced chouriço and baked golden.*
 
 **Serves:** 6
 

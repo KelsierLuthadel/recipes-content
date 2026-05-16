@@ -1,7 +1,7 @@
 # Ghriba (Moroccan Almond Shortbread)
 
 ![Ghriba](resources/ghriba.jpg)
-*Round, cracked-topped almond cookies with a chewy-soft centre and a powdered-sugar coat - like a Moroccan amaretti morbidi or a Sephardi-style ghraybeh. Made from ground almonds, icing sugar, eggs and orange-flower water - no flour, no leavening except the egg, no fat except what's in the almonds. The cracked surface comes from rolling the dough balls in icing sugar before baking; as they expand the sugar coat splits open into a textured snow-cap. Tea-table classic and Ramadan staple.*
+*Morocco's almond shortbread: ground almonds, sugar, eggs and orange-flower water rolled in icing sugar and baked till cracked on top.*
 
 **Serves:** Makes 24 cookies
 

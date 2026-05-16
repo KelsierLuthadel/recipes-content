@@ -1,7 +1,7 @@
 # Chocolate Babka
 
 ![Babka](resources/babka.jpg)
-*The Polish-Jewish enriched yeasted bread that became an Israeli (and New York) bakery icon: a rich brioche-style dough rolled around a filling of dark chocolate, butter and cinnamon, then twisted into a spiral so the cross-section shows dramatic dark swirls. Bakes in a loaf tin to a tall braided crown; the warm chocolate seeps slightly into the dough giving moist deep-flavoured slices. Eats torn, with strong coffee. Cinnamon-only is the traditional version; chocolate has overtaken it in popularity since the 1980s.*
+*The Polish-Jewish bakery braid: enriched dough rolled around dark chocolate and cinnamon, twisted into a tin and baked tall.*
 
 **Serves:** Makes 2 large loaves
 

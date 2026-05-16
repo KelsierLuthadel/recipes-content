@@ -1,7 +1,7 @@
 # Mantu
 
 ![Mantu](resources/mantu.jpg)
-*Afghanistan's spiced lamb dumplings: small thin square wrappers folded around a filling of ground lamb (or beef), grated onion, garlic, coriander, cumin and a pinch of cinnamon - sealed into open-topped flower-shapes and steamed (never boiled). Served under a generous layer of garlicky yogurt and topped with a chana dal-and-tomato sauce, a sprinkle of dried mint and chilli. Brought to Kabul along the Silk Road from Central Asia (the cousin of Turkish manti and Korean mandu). The Afghan-dinner-party showstopper.*
+*Kabul's Silk Road dumplings: thin pasta wrappers folded around spiced lamb, steamed, then bathed in garlicky yogurt and a chana-dal sauce.*
 
 **Serves:** 4 (about 24 dumplings)
 

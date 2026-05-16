@@ -1,7 +1,7 @@
 # Msabaha
 
 ![Msabaha](resources/msabaha.jpg)
-*Warm whole-chickpea hummus, also called Palestinian breakfast hummus or musabbaha (literally "floating" or "swimming"): chickpeas slow-cooked until very tender, ladled warm into a bowl, drenched in a tahini-and-lemon sauce, topped with a spoon of garlicky chickpea purée from the same pot, scattered with cumin, parsley and a drizzle of olive oil. Eaten with hot flatbread and a side of pickles for breakfast across the West Bank. The cousin to smooth hummus, but with the texture intact and the chickpeas hot.*
+*Palestine's breakfast hummus: warm whole chickpeas piled into a bowl of tahini-and-lemon, drizzled with olive oil and cumin.*
 
 **Serves:** 4
 

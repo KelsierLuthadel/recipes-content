@@ -1,7 +1,7 @@
 # Pav Bhaji
 
 ![Pav Bhaji](resources/pav-bhaji.jpg)
-*Mumbai's most famous street snack: a thick, spicy mashed-vegetable curry (bhaji) ladled into a bowl, served with butter-griddled milk-bread rolls (pav). Onions, tomatoes, capsicum, potatoes, peas and cauliflower simmer with garlic-ginger paste, butter and the iconic pav bhaji masala blend, then mash together into a deep-orange paste finished with extra butter, lemon, and a heap of raw onion. Eats torn pav scoops a generous dollop of bhaji. Bombay night-market food turned national obsession.*
+*Mumbai's night-market plate: a thick spiced mash of vegetables, scooped with butter-griddled pav rolls. Built around pav bhaji masala.*
 
 **Serves:** 4
 

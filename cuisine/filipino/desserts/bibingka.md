@@ -1,7 +1,7 @@
 # Bibingka
 
 ![Bibingka](resources/bibingka.jpg)
-*Filipino rice-flour cake baked traditionally in a clay pot lined with banana leaf, with charcoal on top and bottom - a kind of double-sided clay oven. The simba (post-mass) Christmas cake: pale spongy rice-cake base, topped with salted egg, slivers of kesong puti (white salty cheese), butter and a generous shower of grated coconut. The texture is springy from glutinous rice flour, the salted egg gives a savoury counterpoint to the sweetness. A clay-pot version is the gold standard; oven-baked is the practical home version.*
+*The Philippines' Christmas cake: a springy rice-flour cake baked in banana leaf, topped with salted egg, cheese and grated coconut.*
 
 **Serves:** Makes 1 large bibingka (serves 6) or 6 individual portions
 

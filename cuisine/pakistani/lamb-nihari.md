@@ -1,7 +1,7 @@
 # Lamb Nihari
 
 ![Lamb Nihari](resources/lamb-nihari.jpg)
-*Pakistan's deep, slow-cooked lamb stew (the lamb cousin to the beef nihari): bone-in lamb shanks or shoulder simmered for 5+ hours in a masala thick with ginger, garlic, mustard oil, ground chilli, fennel and a special whole-spice nihari mix, finished with a fried-onion tarka and a generous garnish of julienned ginger, green chilli and coriander. Eaten with naan for breakfast or for a fortifying late dinner; the Lahori speciality that distinguishes Pakistani nihari from its Mughal-era beef original. The wheat-flour slurry at the end gives the broth its characteristic thick velvety body.*
+*Lahore's slow lamb stew: shoulder simmered for hours in mustard oil, ginger and a fragrant masala. Eaten with naan at dawn.*
 
 **Serves:** 4-6
 

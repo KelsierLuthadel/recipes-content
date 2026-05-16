@@ -1,7 +1,7 @@
 # Adana Kebab
 
 ![Adana Kebab](resources/adana-kebab.jpg)
-*Hand-minced lamb pressed onto flat metal skewers and grilled over hot charcoal — Turkey's most defended kebab. Named after the city of Adana in the south-east; protected by Turkish geographical indication, with strict rules about meat composition (lamb shoulder + tail fat, hand-chopped not machine-minced) and skewer shape (wide flat, never round). Served on lavash with sumac onion, char-grilled long peppers and tomatoes, and a glass of ayran. The most-ordered dish in any Turkish kebabci.*
+*Turkey's most defended kebab: hand-minced lamb shoulder kneaded with hot pepper, pressed onto wide flat skewers and grilled over charcoal.*
 
 **Serves:** 4
 

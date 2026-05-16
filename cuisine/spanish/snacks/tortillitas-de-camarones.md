@@ -1,7 +1,7 @@
 # Tortillitas de Camarones
 
 ![Tortillitas de Camarones](resources/tortillitas-de-camarones.jpg)
-*Lace-thin, shatteringly crisp shrimp fritters from Cadiz, made from a batter of chickpea flour, plain flour and water - no eggs, no yeast - laced with whole tiny shrimp (camarones), finely chopped spring onion and parsley. The batter is dropped into very hot olive oil where it spreads into a thin, irregular disc with shrimp suspended throughout. The signature is the LACE: gaps and holes through the fritter, not a solid pancake. A Cadiz tapas-bar classic, eaten with a glass of cold fino sherry.*
+*Cadiz's lace-thin tapa: a chickpea-and-flour batter laced with whole tiny shrimp, dropped into hot olive oil and fried shatter-crisp.*
 
 **Serves:** 4 (makes 12 tortillitas)
 

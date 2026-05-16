@@ -2,7 +2,7 @@
 
 ![Pan-fried Barramundi](resources/pan-fried-barramundi.jpg)
 
-*Barramundi is Australia's defining native fish: a firm-fleshed estuarine and freshwater species found from the Kimberleys to the Queensland coast, prized in Indigenous food tradition and now a fixture on every coastal pub menu. The name comes from a Rockhampton-region Aboriginal language and means "large-scaled river fish." Pan-frying skin-on fillets to crackling crispness and serving with little more than lemon and parsley is the classic preparation; the fish has enough character to need nothing else.*
+*Australia's pub-menu fish: skin-on barramundi fillets pan-fried to crackling crispness and served with lemon and parsley.*
 
 **Serves:** 2
 

@@ -1,7 +1,7 @@
 # Msemen
 
 ![Msemen](resources/msemen.jpg)
-*Morocco's square pan-fried laminated flatbread: a soft semolina-and-flour dough stretched paper-thin, folded multiple times with oil and butter into a layered square, then cooked on a hot griddle until crisp at the edges and tender inside. Eaten for breakfast with honey, butter, or amlou (almond-and-argan spread); equally good torn alongside a tagine to mop up the sauce; or sandwiched around grated cheese and fried again. The Moroccan pancake's slightly austere, more sophisticated cousin.*
+*Morocco's pan-fried laminated flatbread: a soft semolina dough stretched paper-thin, folded with butter into a square, griddled crisp.*
 
 **Serves:** 4 (makes 8 msemen)
 

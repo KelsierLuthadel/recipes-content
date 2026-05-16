@@ -1,7 +1,7 @@
 # Ploughman's Pickle
 
 ![Ploughman's Pickle](resources/ploughmans-pickle.jpg)
-*The defining British pickle for cheese: a homemade equivalent of Branston pickle, a chunky brown sweet-and-sour relish of diced swede, carrot, gherkin, onion, cauliflower and dates, simmered in a tangy malt-vinegar-and-treacle base spiced with cloves, allspice and mustard powder. Eaten with cheese (mature cheddar, sharp ones), in a ploughman's lunch plate (cheese, bread, pickle, pickled onion, apple), on a ham sandwich, or with cold pork pie. The pickle that defines British pub food.*
+*The British pub pickle: a chunky brown relish of swede, carrot, gherkin and dates simmered in malt vinegar and treacle. With cheese.*
 
 **Serves:** ~10 (makes 1 litre, in 2 jars)
 

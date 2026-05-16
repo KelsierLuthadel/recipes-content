@@ -1,7 +1,7 @@
 # Cataplana de Marisco
 
 ![Cataplana de Marisco](resources/cataplana-de-marisco.jpg)
-*The Algarve's clam-shell seafood stew: prawns, clams, mussels, chunks of white fish and slices of chouriço cook together in a tomato-and-white-wine base in the eponymous copper cataplana - a hinged metal pot that locks shut to steam the contents under pressure, then opens dramatically at the table to release a cloud of seafood-scented steam. A heavy lidded pot or Dutch oven works as a substitute. The defining Algarve coastal dish; meant to be shared, eaten with crusty bread to soak up the broth.*
+*The Algarve's clam-shell stew: prawns, clams, mussels and chouriço cooked in a tomato-and-white-wine base inside a copper pot.*
 
 **Serves:** 4
 

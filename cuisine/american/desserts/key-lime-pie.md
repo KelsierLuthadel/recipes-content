@@ -1,7 +1,7 @@
 # Key Lime Pie
 
 ![Key Lime Pie](resources/key-lime-pie.jpg)
-*Florida's official state pie: a graham-cracker crust holding a filling of just lime juice, sweetened condensed milk, and egg yolks - chemically set, not baked-set, by the acid of the lime reacting with the milk proteins. Brief bake just stabilises the custard. Topped with lightly sweetened whipped cream and lime zest. Defining feature: pale yellow (not green), tart enough to make your jaw clench, sweet enough to come back for a second slice. The "key" in the name refers to Key limes (the small Florida ones) but supermarket Persian limes work fine.*
+*Florida's state pie: a graham-cracker crust holding a tart lime-and-condensed-milk filling, set by acid, topped with whipped cream.*
 
 **Serves:** 8
 

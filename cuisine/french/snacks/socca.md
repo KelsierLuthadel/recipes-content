@@ -1,7 +1,7 @@
 # Socca
 
 ![Socca](resources/socca.jpg)
-*Nice's defining street food: a giant thin chickpea-flour pancake cooked in a hot oven on a heavily-olive-oiled copper pan, sliced into rough wedges with a spatula, dusted with black pepper and flaky salt, eaten with the fingers from a paper cone. The cooked exterior is crisp and slightly charred; the interior is creamy-soft like polenta. Made with only four ingredients (chickpea flour, water, olive oil, salt). Gluten-free, vegan, naturally rich, irresistibly snackable. Sold in Niçoise market stalls for over 150 years.*
+*Nice's market snack: a thin chickpea-flour pancake cooked on a copper pan, sliced with a spatula, eaten hot from a paper cone.*
 
 **Serves:** 4 (makes one 30 cm socca)
 

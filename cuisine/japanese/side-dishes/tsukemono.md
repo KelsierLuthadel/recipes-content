@@ -1,7 +1,7 @@
 # Tsukemono
 
 ![Tsukemono](resources/tsukemono.jpg)
-*Japanese quick-pickled vegetables: a small bowl of mixed pickles served at every Japanese meal alongside rice and miso soup. The simplest form - asazuke ("shallow pickle") - is a fresh-tasting quick salt-pickle, made same-day. This recipe covers three classics in one batch: cucumber pickled in salt-and-kombu (kyuri no asazuke), daikon pickled in sweet rice vinegar (daikon no amazu-zuke), and Chinese-cabbage with shiso (hakusai no asazuke). Cool, crisp, salty-sour-slightly-sweet; the palate-cleansing companion to rich Japanese mains.*
+*Japan's quick pickles: cucumber, daikon and cabbage briefly salted and dressed in rice vinegar. The companion to every meal.*
 
 **Serves:** 6 (makes 3 small pickle bowls)
 

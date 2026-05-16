@@ -1,7 +1,7 @@
 # Paya
 
 ![Paya](resources/paya.jpg)
-*Pakistan's slow-cooked trotter stew: lamb or goat feet (paya - literally "feet") simmered for 6-8 hours with onion, ginger, garlic and a deep masala until the broth is silky and rich with gelatin, and the meat falls in tender strips from the bones. The classic Lahori Sunday breakfast, served from giant copper pots at dawn alongside fresh naan. Light to look at, intensely rich to eat. The gelatin from the long simmer gives paya its characteristic lip-sticking quality and is the reason it's prescribed for the recovering, the elderly and the newly delivered.*
+*Lahore's Sunday breakfast: lamb trotters simmered all night in a deep masala until the broth turns silky with gelatin.*
 
 **Serves:** 6
 

@@ -1,7 +1,7 @@
 # Shekerbura
 
 ![Shekerbura](resources/shekerbura.jpg)
-*Crescent-shaped pastries with a delicate, almost flaky milk-and-egg dough wrapped around a generous filling of ground walnuts or hazelnuts blended with sugar and cardamom. The defining touch: the closed edge gets crimped with a tiny pinchwork pattern (maqqaş) that traditionally signified the maker's family - every Azerbaijani household has its variation. Made by the dozen for Novruz (Persian / Azeri new year, 21 March), served with strong tea. Eats like a less-sticky, more delicate baklava - the nuts dominate, not the syrup.*
+*Novruz pastry from Azerbaijan: crescent pies of milk-and-egg dough wrapped around ground walnuts, sugar and cardamom. With strong tea.*
 
 **Serves:** Makes about 24 pieces
 

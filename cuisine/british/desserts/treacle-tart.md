@@ -1,7 +1,7 @@
 # Treacle Tart
 
 ![Treacle Tart](resources/treacle-tart.jpg)
-*The defining British pudding tart: a sweet pastry case filled with a golden syrup and breadcrumb mixture, baked until the filling is set and slightly sticky, served with clotted cream, custard or vanilla ice cream. Despite the name, treacle tart is made with golden syrup, not black treacle (which would be too bitter). The "treacle" name is historic - in the Victorian era, "treacle" referred to all syrups. Filled with the simplest sweet filling possible: bread, syrup, lemon. Served warm at school dinners, Sunday lunches, and Harry Potter feasts.*
+*A proper British pudding: a sweet pastry case filled with golden syrup, breadcrumbs and lemon, baked sticky-set. Served with cream.*
 
 **Serves:** 8 (one 22 cm tart)
 

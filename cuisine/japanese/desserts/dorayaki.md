@@ -1,7 +1,7 @@
 # Dorayaki
 
 ![Dorayaki](resources/dorayaki.jpg)
-*Japan's defining sweet sandwich: two small pancake-discs (similar to American silver-dollar pancakes but sweeter and softer, with honey for the glossy gold colour) pressed together around a generous filling of sweet red bean paste (anko). The name "dorayaki" means "gong-grilled" - supposedly the original was cooked on a samurai's gong. Famous internationally as the favourite snack of the cartoon character Doraemon. Eaten by hand, with green tea, as a 3pm pick-me-up or a child's after-school snack.*
+*Japan's pancake sandwich: two honey-sweetened domed discs pressed around a generous spoon of sweet red bean paste.*
 
 **Serves:** 6 (makes 6 dorayaki - 12 pancake discs)
 

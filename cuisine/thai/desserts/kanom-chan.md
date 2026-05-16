@@ -1,7 +1,7 @@
 # Kanom Chan
 
 ![Kanom Chan](resources/kanom-chan.jpg)
-*The Thai "layer cake": multiple thin layers of pandan-and-coconut-milk-and-tapioca jelly, each colour set before the next is poured, building up to a glossy nine-layer slab that's cut into squares or rolled and unrolled with the fingers. The number nine has auspicious meaning in Thai culture (it sounds like the word for "progress"); kanom chan often appears at weddings and New Year celebrations. Mildly sweet, fragrant with pandan, slightly chewy from the tapioca, a beautiful jewel-coloured dessert.*
+*Thailand's auspicious layer cake: nine pandan-and-coconut-milk jelly layers, each set before the next is poured. Eaten at weddings.*
 
 **Serves:** 8 (makes a 20 cm square tray)
 

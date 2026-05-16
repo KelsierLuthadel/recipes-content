@@ -1,7 +1,7 @@
 # Halo-Halo
 
 ![Halo-Halo](resources/halo-halo.jpg)
-*The Filipino summer dessert par excellence: a tall glass layered with sweetened beans, jellies, fruits, sago pearls, shaved ice, evaporated milk, and a crown of ube ice cream and a slice of leche flan. "Halo-halo" means "mix-mix" - diners destroy the layered presentation with a long spoon, swirling everything into a multi-textured slush. Variable in components (each region claims its own recipe), unchanging in spirit: a sweet cooling assembly of contrasting textures. The 38°C July afternoon dessert.*
+*The Philippines' hot-afternoon dessert: a tall glass of sweetened beans, jellies and fruit topped with shaved ice and ube ice cream.*
 
 **Serves:** 4
 

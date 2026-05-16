@@ -1,7 +1,7 @@
 # Latkes (Potato Pancakes)
 
 ![Latkes](resources/latkes.jpg)
-*Crisp shredded-potato pancakes, fried golden in oil - the iconic Hanukkah food across Ashkenazi-Jewish kitchens worldwide. The oil is the symbolic element (commemorating the miracle of the temple oil that lasted eight nights), but the texture is the eating point: lacy-crisp edges, tender middle, the potato just-cooked through. Eats hot with sour cream and applesauce on either side, sometimes both. Israel has adopted latkes through its Ashkenazi inheritance and made them a winter staple.*
+*The Hanukkah pancake: shredded potato and onion bound with egg, fried lacy-crisp in hot oil. Served with sour cream and apple sauce.*
 
 **Serves:** 4 (makes 12 latkes)
 

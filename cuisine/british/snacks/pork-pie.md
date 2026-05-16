@@ -1,7 +1,7 @@
 # Pork Pie
 
 ![Pork Pie](resources/pork-pie.jpg)
-*The defining British cold-eating savoury pie: a sturdy hot-water-crust pastry filled with seasoned chopped pork, baked, then filled with savoury jellied pork stock through a hole in the top so the jelly sets between the meat and the pastry. Eaten cold, sliced, with English mustard and pickles, or whole as a picnic item. Originally a Melton Mowbray speciality (where the meat is uncured and the bake is freestanding); commercial pork pies often use pre-cured meat and pork-pie tins to maintain shape. The home version is a satisfying weekend project.*
+*The British picnic pie: chopped seasoned pork in a hot-water-crust pastry, filled with savoury jelly through a hole in the lid.*
 
 **Serves:** 6 (one 18 cm pie, sliced into 6-8 wedges)
 

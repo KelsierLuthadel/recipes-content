@@ -1,7 +1,7 @@
 # Sfeeha Jordani
 
 ![Sfeeha Jordani](resources/sfeeha-jordani.jpg)
-*Jordan's defining open-topped meat pastries: small (8 cm) discs of yeasted dough topped with a layer of spiced minced lamb (or beef-lamb) mixed with tomato, onion, pine nuts, baharat and pomegranate molasses, baked open-faced until the meat is glossy-set and the dough is golden. The cousin to Lebanese lahem-bi-ajeen but smaller, plumper, and with a thicker dough; eaten as a snack, mezze item, or two-or-three-at-a-time as a light lunch. Found at every Jordanian bakery and at every Friday family lunch.*
+*Jordan's open-top meat pastries: small yeasted discs topped with spiced minced lamb, tomato and pomegranate molasses, baked till glossy.*
 
 **Serves:** 6 (makes 18 sfeeha)
 

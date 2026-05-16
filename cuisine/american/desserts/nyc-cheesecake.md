@@ -1,7 +1,7 @@
 # New York Cheesecake
 
 ![New York Cheesecake](resources/nyc-cheesecake.jpg)
-*The dense, tall, crack-on-top cheesecake from Brooklyn delicatessens: cream cheese, sour cream, eggs, sugar, vanilla and lemon zest on a buttery graham-cracker base. Different from Italian ricotta cheesecake (lighter, dryer), San Sebastián burnt cheesecake (deliberately scorched, no crust) or no-bake British versions (chilled-set with gelatin). NYC cheesecake bakes long and slow in a water bath, then cools and chills overnight to set firm. Cuts into thick slices that hold their shape on a plate. Serve plain or with a strawberry compote.*
+*Brooklyn's dense baked cheesecake: cream cheese, sour cream and eggs on a graham-cracker base, baked long and slow in a water bath.*
 
 **Serves:** 12
 

@@ -1,7 +1,7 @@
 # Spotted Dick
 
 ![Spotted Dick](resources/spotted-dick.jpg)
-*A proper old-school British steamed suet pudding: a beef-suet sponge studded with currants and sultanas (the "spots"), flavoured with lemon zest and a pinch of cinnamon, steamed in a covered pudding basin for two hours until soft, pillowy and faintly squidgy. Served thick-sliced with a generous flood of hot vanilla custard. The pub-grub dessert that grandparents made for Sunday lunch; once the Royal Navy's standard "pudding day" sweet. The name is innocent - "dick" was British slang for pudding in the 18th century.*
+*An old British steamed pudding: a suet sponge studded with currants and lemon zest, steamed slow in a basin and flooded with custard.*
 
 **Serves:** 6
 

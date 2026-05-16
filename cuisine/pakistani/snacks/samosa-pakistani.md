@@ -1,7 +1,7 @@
 # Samosa Pakistani
 
 ![Samosa Pakistani](resources/samosa-pakistani.jpg)
-*Pakistan's defining snack: triangular fried pastries filled with spiced minced beef (or lamb) and peas - distinct from the more common potato samosa (which is at the Indian end of the subcontinent) by virtue of being meat-stuffed. The pastry is a stiff oil-rich dough rolled thin, cut into half-moons, folded into cones, stuffed, sealed. Fried to amber crispness. Served at Ramadan iftar tables, family gatherings, and as the universal Pakistani party finger food. Accompanied by tamarind chutney and mint chutney.*
+*Pakistan's beef samosa: triangular fried pastries stuffed with spiced minced beef and peas. Served with tamarind and mint chutneys.*
 
 **Serves:** 6 (makes 20 samosas)
 

@@ -1,7 +1,7 @@
 # Musakhan Rolls
 
 ![Musakhan Rolls](resources/musakhan-rolls.jpg)
-*The modern roll-up of the Palestinian national dish: musakhan filling (sumac-drenched onions and shredded chicken, with pine nuts) rolled inside small markook flatbreads or thin lavash, sealed with a brush of olive oil, baked or pan-toasted until golden, served with a squeeze of lemon and a small bowl of yogurt. The traditional full-size musakhan (chicken-and-onion-topped flatbread, eaten with the fingers) is a celebration plate; the rolls are the snack-sized version that fit a mezze table or a packed lunch. Bright with sumac, sweet with caramelised onions, smoky with the chicken.*
+*The roll-up version of Palestine's national dish: caramelised sumac onions and shredded chicken wrapped in flatbread, baked golden.*
 
 **Serves:** 4 (makes 12 rolls)
 

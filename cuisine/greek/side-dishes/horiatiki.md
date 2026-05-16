@@ -1,7 +1,7 @@
 # Horiatiki (Greek Village Salad)
 
 ![Horiatiki](resources/horiatiki.jpg)
-*The genuine Greek salad. Big rough chunks of ripe tomato, cucumber, green pepper, red onion, capers, kalamata olives, a whole slab of feta on top (never crumbled), drizzled with olive oil and a splash of red-wine vinegar, dusted with dried oregano. No lettuce, no lemon, no balsamic - these are the markers of an inauthentic taverna. The vegetables are the dish; the feta is the crown; the olive oil is dinner. Eats with crusty bread to soak up the tomato-and-oil pool at the bottom of the plate.*
+*The proper Greek village salad: chunks of tomato, cucumber, pepper and onion under a whole slab of feta, dressed with oil and oregano.*
 
 **Serves:** 4
 

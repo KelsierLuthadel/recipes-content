@@ -1,7 +1,7 @@
 # Suya
 
 ![Suya](resources/suya.jpg)
-*Nigeria's open-fire skewered beef: thin strips of marbled beef rump coated in suya spice (a fiery, peanutty-savoury rub built around ground roasted groundnuts, ginger, chilli, paprika and salt), skewered, charred hard over hot embers (or under a domestic grill), then re-dredged in more spice and served with sliced raw onion, tomato and cabbage. Northern Nigerian street food now eaten across the country at every corner suya spot from dusk into the small hours. Smoky, peanutty, salty, gloriously spicy.*
+*Nigeria's open-fire skewer: thin strips of marbled beef coated in a peanutty-spicy yaji rub and charred hard over embers.*
 
 **Serves:** 4
 

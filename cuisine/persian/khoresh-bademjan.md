@@ -1,7 +1,7 @@
 # Khoresh Bademjan
 
 ![Khoresh Bademjan](resources/khoresh-bademjan.jpg)
-*Persia's defining aubergine stew: peeled aubergines (the dark glossy variety) pre-salted to lose their bitterness, then fried gold and laid on top of a long-simmered base of lamb shoulder, onion, turmeric, saffron and yellow split peas. The split peas thicken the sauce; the saffron tints it amber; the verjuice (or lemon juice) brightens it; and the aubergines, near the end of the cook, soak up the meaty stock without disintegrating. Served over fluffy chelo (Persian steamed rice) with a layer of crispy tahdig.*
+*Persia's aubergine stew: golden-fried aubergines laid over lamb shoulder simmered with onion, turmeric, saffron and yellow split peas.*
 
 **Serves:** 4
 

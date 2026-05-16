@@ -1,7 +1,7 @@
 # Siopao
 
 ![Siopao](resources/siopao.jpg)
-*Filipino steamed buns, descended from Cantonese cha siu bao but with their own pork-and-sweet-sauce filling: minced pork, soy, oyster sauce, brown sugar and Chinese five-spice, often with a sliced hard-boiled egg in the centre. The white pillowy dough wraps around a generous spoonful of meat, steams in bamboo baskets, comes out fluffy enough to pull apart with chopsticks. Eats with a side cup of soy-vinegar dip or sweet hoisin-style sauce. Sold in every panaderia, every 7-Eleven, every street-corner cart from Quezon City to Cebu.*
+*The Philippines' street-stand bun: a pillowy steamed pocket of sweet pork and hoisin, sold from every cart from Manila to Cebu.*
 
 **Serves:** Makes 12 buns
 

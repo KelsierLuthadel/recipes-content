@@ -1,7 +1,7 @@
 # Panna Cotta
 
 ![Panna Cotta](resources/panna-cotta.jpg)
-*"Cooked cream" from Piedmont: double cream, sugar and a vanilla pod heated just enough to dissolve a small amount of gelatin, set in moulds in the fridge and turned out onto a plate. The classic accompaniment is a berry compote (raspberry, strawberry, or mixed) but caramel, espresso, or amaretto sauces all work. The texture is the test: a properly set panna cotta wobbles when you tap the plate but holds its dome shape. Too much gelatin = rubber; too little = liquid. The Piedmontese ratio is precise.*
+*Piedmont's cooked cream: cream, sugar and vanilla set with a touch of gelatin, turned out on a plate and crowned with berry compote.*
 
 **Serves:** 6
 
