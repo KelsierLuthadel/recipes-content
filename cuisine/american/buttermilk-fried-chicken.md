@@ -1,7 +1,7 @@
 # Buttermilk Fried Chicken
 
 ![Buttermilk Fried Chicken](resources/buttermilk-fried-chicken.jpg)
-*The American Southern classic: chicken brined overnight in buttermilk, dredged in seasoned flour, then double-dipped and fried until shatteringly crisp. The crust shatters; the meat under is moist and seasoned through. Eats hot with hot sauce, cold the next day with iced tea, anywhere in between with biscuits and gravy.*
+*The American Southern classic: chicken brined overnight in buttermilk, double-dredged in seasoned flour, fried till the crust shatters and the meat stays moist.*
 
 **Serves:** 4
 

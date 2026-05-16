@@ -1,7 +1,7 @@
 # Sambousak Afghani
 
 ![Sambousak Afghani](resources/sambousak-afghani.jpg)
-*Crisp triangular Afghan pastries filled with spiced lamb mince, leek and dried coriander, deep-fried golden. Smaller than an Indian samosa, with leek folded through the filling - a Central Asian crossover. Eaten warm with mint chutney or a yogurt dipping sauce. Made by the dozen for parties, weddings and Friday lunches.*
+*An Afghan triangular pastry: spiced lamb mince with leek and dried coriander, sealed in thin dough and deep-fried golden. Made by the dozen for parties.*
 
 **Serves:** 6 (makes 18-20)
 

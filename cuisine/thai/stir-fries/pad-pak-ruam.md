@@ -1,7 +1,7 @@
 # Pad Pak Ruam
 
 ![Pad Pak Ruam](resources/pad-pak-ruam.jpg)
-*Thai-style stir-fried mixed vegetables: a fast, hot wok of garlic, soy and a splash of stock, with whatever vegetables are crisp and fresh - broccoli, baby corn, carrot, snow peas, mushroom, water spinach. The veg stay bright, just-tender; the sauce barely coats. Eats over rice; the everyday vegetable plate of Thailand.*
+*A Thai mixed-vegetable stir-fry: a hot wok of garlic and soy, with whatever's crisp and fresh, the vegetables just-tender and the sauce barely coating.*
 
 **Serves:** 4
 

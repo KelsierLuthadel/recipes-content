@@ -1,7 +1,7 @@
 # Sausage and Peppers
 
 ![Sausage and Peppers](resources/sausage-and-peppers.jpg)
-*Italian-American skillet basic: a wide pan, butter + oil, sliced peppers and onion cooked till caramelised, sliced pre-cooked sausage browned, garlic and Italian herbs in at the end. Five-ingredient list (give or take), 25 minutes, eats over rice or in a hoagie roll. The weeknight dinner everyone forgets and rediscovers.*
+*An Italian-American skillet basic: sliced peppers and onion caramelised, pre-cooked sausage browned, garlic and herbs in at the end. Over rice or in a hoagie.*
 
 **Serves:** 4-6
 

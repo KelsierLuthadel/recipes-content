@@ -1,7 +1,7 @@
 # Çoban Salatası
 
 ![Çoban Salatası](resources/coban-salatasi.jpg)
-*Turkey's "shepherd's salad": tomato, cucumber, onion, pepper and parsley diced and dressed with lemon, olive oil and a sprinkle of sumac. Always on the table beside grilled meats; the difference between a good kebap meal and a great one. Sometimes finished with crumbled feta or olives, but the classic is plain and bright.*
+*Turkey's shepherd's salad: tomato, cucumber, onion, pepper and parsley diced and dressed with lemon, olive oil and a sprinkle of sumac.*
 
 **Serves:** 4
 

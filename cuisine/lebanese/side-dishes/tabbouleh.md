@@ -1,7 +1,7 @@
 # Tabbouleh
 
 ![Tabbouleh](resources/tabbouleh.jpg)
-*Lebanon's iconic salad: very finely chopped flat-leaf parsley with a small amount of bulgur, tomato, mint and spring onion, dressed with lemon and olive oil. Mostly herb, never grain-heavy. Bright, sharp, refreshing - a counterpoint to the rich meats it's served alongside. Knife work matters; a food processor wrecks it.*
+*Lebanon's iconic salad: very finely chopped parsley with a little bulgur, tomato, mint and spring onion, dressed with lemon and olive oil. Mostly herb.*
 
 **Serves:** 4
 

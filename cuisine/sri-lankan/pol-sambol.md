@@ -1,7 +1,7 @@
 # Pol Sambol
 
 ![Pol Sambol](resources/pol-sambol.jpg)
-*Sri Lanka's table sambal of fresh grated coconut, dried red chillies, lime, onion and Maldive fish flakes - fiery red, eaten with everything from rice and curry to string hoppers and roti. Made fresh, eaten the same day; tasted on its own it's almost too hot, but spread next to coconut rice it transforms the whole plate.*
+*Sri Lanka's table sambal: fresh grated coconut, dried red chillies, lime, onion and Maldive fish flakes pounded together fiery red. Eaten with everything.*
 
 **Serves:** 4 as a condiment
 

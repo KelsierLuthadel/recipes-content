@@ -1,7 +1,7 @@
 # Mazondo
 
 ![Mazondo](resources/mazondo.jpg)
-*Spicy stewed cow trotters - the sticky, gelatinous, deeply savoury sharing dish that turns up at gatherings, funerals, weddings and weekend braais. Long simmered with onion, tomato, garlic and chilli until the meat falls off and the sauce is dark and clinging. Sucked, gnawed, scooped onto sadza, and eaten with the hands.*
+*Zimbabwe's spicy stewed cow trotters: a sticky, gelatinous, deeply savoury sharing dish, simmered long with onion, tomato, garlic and chilli.*
 
 **Serves:** 6 as a starter
 
