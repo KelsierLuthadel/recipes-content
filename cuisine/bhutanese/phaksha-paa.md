@@ -2,7 +2,7 @@
 
 ![Phaksha Paa](resources/phaksha-paa.jpg)
 
-*Bhutanese pork with dried red chillies and white radish - one of the country's signature meat dishes. "Phaksha" is pork; "paa" is the term for a dish of meat stir-stewed with chilli. Strips of pork belly are slow-cooked with whole dried red chillies, sliced daikon radish, ginger, garlic and Bhutanese mountain pepper (Sichuan pepper) until the pork is meltingly tender and the radish has absorbed the fierce chilli broth. The dish is hot but not overwhelming; the radish tempers the heat the way potato does in ema datshi. Eaten with red rice across western and central Bhutan; in the eastern districts and Tibetan border regions the dish is sometimes made with dried pork (sikam phaksha).*
+*Bhutanese pork belly stewed slow with whole dried chillies and daikon, the radish softening into the fierce red broth.*
 
 **Serves:** 4
 

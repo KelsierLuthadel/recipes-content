@@ -2,7 +2,7 @@
 
 ![Kewa Datshi](resources/kewa-datshi.jpg)
 
-*Kewa Datshi is the potato sibling of Bhutan's national dish ema datshi - "kewa" is potato, "datshi" is cheese - sliced potatoes simmered with green chillies and melted cheese until the spuds are tender and bathed in a fierce, creamy chilli-cheese sauce. Where ema datshi is dominated by chillies (and is genuinely punishing for a Western palate), kewa datshi is the gentler everyday dish: still hot, but the starch of the potatoes and the volume of cheese pull the heat down to merely lively. The dish is one of three classic datshi pairings (with shamu datshi, the mushroom version) and turns up on every Bhutanese table somewhere in the meal. The traditional cheese, churpi made from yak milk, is impossible to find outside Bhutan; the working substitute is a blend of mild Edam and processed cheese, which approximates the salty, melting, slightly rubbery quality of the original.*
+*A Bhutanese family supper: sliced potatoes simmered with green chillies and melted cheese into a rich, lively sauce.*
 
 **Serves:** 4
 

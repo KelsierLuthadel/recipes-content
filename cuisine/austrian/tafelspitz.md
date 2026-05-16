@@ -2,7 +2,7 @@
 
 ![Tafelspitz](resources/tafelspitz.jpg)
 
-*The "tip of the table" - a rump-cap of beef gently poached in aromatic broth with root vegetables, sliced across the grain and served in shallow bowls with horseradish and an apple-horseradish sauce. The signature dish of Vienna's Beisl (bistro) culture, said to have been the favourite of Emperor Franz Joseph I, who reportedly ate it weekly for sixty years. The cut is essential: tafelspitz refers both to the dish and to the specific triangular muscle from the bovine rump, which sits between the topside and the silverside. Lean, lightly marbled, demanding gentle poaching rather than braising. The broth, served first as a clear soup with semolina dumplings or pancake strips, is half the dish.*
+*Vienna's beef rump cap, gently poached in aromatic broth and served with apple-horseradish. The Habsburg Sunday lunch.*
 
 **Serves:** 6
 

@@ -2,7 +2,7 @@
 
 ![Jasha Maru](resources/jasha-maru.jpg)
 
-*Jasha Maru is the everyday Bhutanese chicken stew - "jasha" means chicken, "maru" suggests a quick, simple cook. It is the dish a Bhutanese cook turns to on a weeknight: bone-in chicken pieces simmered with fresh ginger, garlic, tomato, green chillies and coriander leaves until the gravy reduces to a thin spiced broth. Less ferocious than ema datshi, less long-cooked than phaksha paa, more weeknight than feast. The dish is forgiving and quick; the spicing is restrained for Bhutanese cooking, leaning on fresh aromatics rather than dried chillies. Eats with red rice and the inevitable side of ezay.*
+*Bhutan's weeknight chicken stew, the dish a cook turns to after work. Bone-in chicken with ginger, garlic, tomato and chillies.*
 
 **Serves:** 4
 

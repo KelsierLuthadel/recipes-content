@@ -2,7 +2,7 @@
 
 ![Soup Joumou](resources/soup-joumou.jpg)
 
-*Soup joumou is the most politically charged dish in the Caribbean. A rich pumpkin-and-beef soup with vegetables, pasta and citrus, it is the dish Haitians eat every January 1st - Haitian Independence Day - to commemorate the abolition of slavery and the founding of the world's first Black republic in 1804. Under French colonial rule, enslaved Haitians were forbidden from eating the pumpkin soup their captors enjoyed. On the morning of January 1st, 1804, after the revolution had succeeded, Haitians made and ate the soup as an act of liberation. The recipe is passed mother to daughter; UNESCO inscribed soup joumou on the Representative List of the Intangible Cultural Heritage of Humanity in 2021. The soup itself is built on giraumon (calabaza or West Indian pumpkin) puréed into a deeply spiced beef broth, with vegetables, vermicelli and a final brightening with lime. It is hearty enough to be a meal in itself, slightly sweet, deeply savoury and shot through with thyme and Scotch bonnet.*
+*The pumpkin soup Haitians have eaten on New Year's morning since independence. Slow-simmered beef, vermicelli, a squeeze of lime.*
 
 **Serves:** 8
 

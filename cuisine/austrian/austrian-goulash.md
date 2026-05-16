@@ -2,7 +2,7 @@
 
 ![Austrian Goulash](resources/austrian-goulash.jpg)
 
-*Wiener Saftgulasch - "juicy" Viennese goulash - is the Austrian reading of a dish that crossed from Hungary in the late 1700s when the two empires were one. Where Hungarian gulyás is a brothy soup, the Viennese version cooks down to a thick, glossy stew with almost as many onions as beef by weight. The trick is patience: onions and paprika first form a paste called Wurzelwerk that takes a long slow stew (an hour or more on a low flame) and concentrates onto itself before the meat goes in. The Viennese eat it for breakfast in working-class cafés (Fiakergulasch is the morning version, with a fried egg and a Frankfurter on top), at lunch in Beisls, and at dinner with bread dumplings. Sweet paprika is mandatory; the genuine article is Hungarian noble-sweet (édesnemes), not the muddy supermarket dust.*
+*Viennese beef goulash, the proper one: onions, sweet paprika and beef simmered low and slow until the gravy is dark as treacle.*
 
 **Serves:** 4-6
 

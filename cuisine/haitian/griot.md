@@ -2,7 +2,7 @@
 
 ![Griot](resources/griot.jpg)
 
-*Griot is the Haitian national dish: cubes of pork shoulder marinated overnight in épis (Haitian green seasoning) and bitter orange juice, simmered slowly until tender, then deep-fried until the outside crackles and the inside stays succulent. It is served on every occasion in Haiti - Sunday dinners, weddings, parties, street vendors - and is the dish most associated with Haitian cooking abroad. The mandatory companion is pikliz, a fiercely vinegared raw slaw of cabbage, carrot, onion and Scotch bonnet that cuts straight through the richness of the pork. The name "griot" (sometimes spelled griyo) comes from the West African word for a storyteller, though the dish itself is Haitian Creole through and through, drawing on Taíno boucanage (slow-cooking over a fire), West African slow-braising, and French confit-and-fry technique. Eats with rice and beans (diri ak pwa) and fried plantains.*
+*Haiti's Sunday-dinner pork: shoulder steeped in épis, simmered slow, then fried until it crackles. Served with sharp pikliz slaw.*
 
 **Serves:** 6
 

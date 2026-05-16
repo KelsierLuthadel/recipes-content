@@ -1,7 +1,7 @@
 # Falafel Lebnani
 
 ![Falafel Lebnani](resources/falafel-lebnani.jpg)
-*Lebanon's defining street-food snack: small (3 cm) crisp green-inside fritters made from soaked-not-cooked chickpeas (or a chickpea-fava blend), blitzed with onion, garlic, parsley, coriander and a generous load of cumin and coriander seed, fried in hot oil until deep amber. Stuffed into hot pita with tahini sauce, fresh tomato, cucumber, pickled turnip and a pinch of sumac. Distinct from the Egyptian fava-only tameya and the heavier Israeli version - Lebanese falafel uses chickpeas (or a chickpea-fava blend), is greener inside from the generous fresh herbs, and is small and crisp rather than oversized.*
+*Lebanon's street-corner fritter: a herb-flecked chickpea ball fried golden and tucked into warm pita with tahini and pickled turnip.*
 
 **Serves:** 4 (makes 20 patties)
 

@@ -2,7 +2,7 @@
 
 ![Diri ak Djon Djon](resources/diri-ak-djon-djon.jpg)
 
-*Diri ak djon djon is the celebration rice of northern Haiti - "diri" is rice, "djon djon" is a tiny black wild mushroom (Psathyrella coprinoceps) that grows only in the limestone hills around Cap-Haïtien and Gonaïves for a few months of the year. The mushrooms are dried, then steeped in hot water to release their inky black liquor, which is used to cook long-grain rice into something the colour of wet slate, flecked with peas and aromatics, and tasting unlike anything else in the Caribbean. The mushrooms themselves are mostly discarded after steeping (they have given their colour and flavour to the broth), though some cooks keep a few to scatter through the finished rice. Djon djon is served at weddings, funerals, baptisms and Sunday family dinners. The wild mushroom is hard to source outside Haiti and Haitian diaspora communities, but a fallback using dried porcini and a touch of squid ink gives a fair approximation of the colour and the savoury-earthy flavour.*
+*Slate-black celebration rice from northern Haiti. Long-grain steeped in wild djon djon mushroom broth, with peas folded through.*
 
 **Serves:** 6
 

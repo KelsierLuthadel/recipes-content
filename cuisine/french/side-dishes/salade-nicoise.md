@@ -1,7 +1,7 @@
 # Salade Niçoise
 
 ![Salade Niçoise](resources/salade-nicoise.jpg)
-*The defining salad of the French Mediterranean coast: ripe tomatoes, hard-boiled eggs, blanched green beans, boiled new potatoes (the debated addition), olives, anchovies and tinned tuna, dressed in olive oil and red wine vinegar with garlic, basil and a touch of mustard. Composed (not tossed), arranged on a wide platter with each ingredient distinct and visible. The "real" version vs the international version is debated; Niçoise purists insist no cooked vegetables (potatoes, green beans) and no lettuce - only raw vegetables, eggs, tuna and anchovies. This recipe sits in the middle: the practical, widely-served version.*
+*A Provençal market-day plate: tomatoes, eggs, beans, olives, anchovies and tuna, dressed with good olive oil and vinegar.*
 
 **Serves:** 4 (as a main-course salad)
 
