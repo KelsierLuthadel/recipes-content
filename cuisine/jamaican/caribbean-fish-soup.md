@@ -1,4 +1,4 @@
-# Caribbean fish soup
+# Caribbean Fish Soup
 
 ![Caribbean fish soup](resources/caribbean-fish-soup.jpg)
 

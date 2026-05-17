@@ -1,4 +1,4 @@
-# Pâte à choux (Choux Pastry)
+# Pâte à Choux (Choux Pastry)
 
 ![Pâte à choux (Choux Pastry)](resources/choux.jpg)
 

@@ -1,4 +1,4 @@
-# Watercress sauce
+# Watercress Sauce
 
 ![Watercress sauce](resources/watercress-sauce.png)
 

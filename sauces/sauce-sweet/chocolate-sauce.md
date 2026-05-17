@@ -1,4 +1,4 @@
-# Chocolate sauce
+# Chocolate Sauce
 
 ![Chocolate sauce ](resources/chocolate-sauce.jpg)
 

@@ -1,4 +1,4 @@
-# Lime mousse with wild strawberries
+# Lime Mousse with Wild Strawberries
 
 ![Lime mousse with wild strawberries](resources/lime-mousse.jpg)
 

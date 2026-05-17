@@ -1,4 +1,4 @@
-# Fruity curry sauce
+# Fruity Curry Sauce
 
 ![Fruity curry sauce](resources/fruit-curry-sauce.png)
 

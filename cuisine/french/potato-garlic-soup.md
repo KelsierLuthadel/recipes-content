@@ -1,4 +1,4 @@
-# Potato and garlic soup
+# Potato and Garlic Soup
 
 ![Potato and garlic soup](resources/potato-garlic-soup.jpg)
 

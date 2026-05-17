@@ -1,4 +1,4 @@
-# Blackberry coulis
+# Blackberry Coulis
 
 ![Blackberry coulis](resources/blackberry-coulis.jpg)
 

@@ -1,4 +1,4 @@
-# Parsley sauce
+# Parsley Sauce
 
 ![Parsley sauce](resources/parsley-sauce.png)
 

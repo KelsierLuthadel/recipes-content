@@ -1,4 +1,4 @@
-# Chicken jus with savory
+# Chicken Jus with Savory
 
 ![Chicken jus with savory](resources/chicken-jus.jpg)
 

@@ -1,4 +1,4 @@
-# Thyme-scented fromage frais sorbet
+# Thyme-Scented Fromage Frais Sorbet
 
 ![Thyme-scented fromage frais sorbet](resources/thyme-scented-sorbet.jpg)
 

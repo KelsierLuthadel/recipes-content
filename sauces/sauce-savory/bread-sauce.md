@@ -1,4 +1,4 @@
-# Bread sauce
+# Bread Sauce
 
 ![Bread sauce](resources/bread-sauce.jpg)
 

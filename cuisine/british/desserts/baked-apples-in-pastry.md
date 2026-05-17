@@ -1,4 +1,4 @@
-# Baked apples in a pastry cage
+# Baked Apples in a Pastry Cage
 
 ![Baked apples in a pastry cage](resources/baked-apples-in-pastry.jpg)
 

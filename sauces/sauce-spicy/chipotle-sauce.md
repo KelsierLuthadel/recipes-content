@@ -1,4 +1,4 @@
-# Chipotle sauce
+# Chipotle Sauce
 
 ![Chipotle sauce](resources/chipotle.jpg)
 

@@ -1,4 +1,4 @@
-# Sweet custard tart with poached prunes
+# Sweet Custard Tart with Poached Prunes
 
 ![Sweet custard tart with poached prunes](resources/custard-tart.jpg)
 

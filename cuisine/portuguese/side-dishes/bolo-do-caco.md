@@ -1,4 +1,4 @@
-# Bolo do Caco
+# Bolo Do Caco
 
 ![Bolo do Caco](resources/bolo-do-caco.jpg)
 *Madeira's sweet-potato flatbread: a soft round disc cooked on a hot stone, split open and slathered with garlic-and-parsley butter while still warm.*

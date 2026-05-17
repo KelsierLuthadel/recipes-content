@@ -1,4 +1,4 @@
-# Stir-fried ginger broccoli
+# Stir-Fried Ginger Broccoli
 
 ![Stir-fried ginger broccoli](resources/broccoli-ginger-sesame.jpg)
 

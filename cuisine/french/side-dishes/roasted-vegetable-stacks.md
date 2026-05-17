@@ -1,4 +1,4 @@
-# Roasted vegetable stacks
+# Roasted Vegetable Stacks
 
 ![Roasted vegetable stacks](resources/roasted-vegetable-stacks.png)
 

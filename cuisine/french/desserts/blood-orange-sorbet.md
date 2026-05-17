@@ -1,4 +1,4 @@
-# Blood orange sorbet
+# Blood Orange Sorbet
 
 ![Blood orange sorbet](resources/blood-orange-sorbet.jpg)
 

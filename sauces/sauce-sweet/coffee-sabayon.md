@@ -1,4 +1,4 @@
-# Coffee sabayon with cinnamon
+# Coffee Sabayon with Cinnamon
 
 ![Coffee sabayon with cinnamon](resources/coffee-sabayon.png)
 

@@ -1,4 +1,4 @@
-# Wuntun soup
+# Wuntun Soup
 
 ![Wuntun soup](resources/wonton.jpg)
 

@@ -1,4 +1,4 @@
-# Spiced Chinese leaves
+# Spiced Chinese Leaves
 
 ![Spiced Chinese leaves](resources/chinese-leaves.jpg)
 

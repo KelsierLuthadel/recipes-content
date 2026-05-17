@@ -1,4 +1,4 @@
-# Tomato and basil fish fumet
+# Tomato and Basil Fish Fumet
 
 ![Tomato and basil fish fumet](resources/fumet.png)
 

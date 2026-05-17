@@ -1,4 +1,4 @@
-# Nonya pork satay
+# Nonya Pork Satay
 
 ![Nonya pork satay](resources/pork-satay.jpg)
 

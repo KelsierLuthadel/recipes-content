@@ -1,4 +1,4 @@
-# Vegetable soup
+# Vegetable Soup
 
 ![Vegetable soup](resources/vegetable-soup.jpg)
 

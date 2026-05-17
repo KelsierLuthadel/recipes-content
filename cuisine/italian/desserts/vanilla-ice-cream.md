@@ -1,4 +1,4 @@
-# Vanilla ice cream
+# Vanilla Ice Cream
 
 ![Vanilla ice cream](resources/vanilla-ice-cream.jpg)
 

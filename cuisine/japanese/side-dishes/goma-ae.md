@@ -1,4 +1,4 @@
-# Goma-ae
+# Goma-Ae
 
 ![Goma-ae](resources/goma-ae.jpg)
 *Japan's sesame side: blanched spinach tossed in a paste of ground toasted sesame, soy, sugar and mirin. Bento-box mainstay.*

@@ -1,4 +1,4 @@
-# Strawberry tart
+# Strawberry Tart
 
 ![Strawberry tart](resources/strawberry-tart.jpg)
 

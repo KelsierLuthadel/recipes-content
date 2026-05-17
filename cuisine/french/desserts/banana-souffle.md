@@ -1,4 +1,4 @@
-# Banana soufflé crêpes with chocolate sauce
+# Banana Soufflé Crêpes with Chocolate Sauce
 
 ![Banana soufflé crêpes with chocolate sauce](resources/souflee.jpg)
 

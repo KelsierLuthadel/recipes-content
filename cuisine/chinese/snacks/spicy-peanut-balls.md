@@ -1,4 +1,4 @@
-# Spicy peanut balls
+# Spicy Peanut Balls
 
 *Sichuan spicy peanut balls: roasted peanuts coated in a glossy chilli-sugar caramel and rolled into small clusters.*
 

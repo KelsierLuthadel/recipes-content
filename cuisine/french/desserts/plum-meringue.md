@@ -1,4 +1,4 @@
-# Plum meringues
+# Plum Meringues
 
 ![Plum meringues](resources/plum-meringue.jpg)
 

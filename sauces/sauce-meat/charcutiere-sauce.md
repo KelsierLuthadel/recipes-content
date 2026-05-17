@@ -1,4 +1,4 @@
-# Charcutière sauce
+# Charcutière Sauce
 
 ![Charcutière sauce](resources/charcutiere.png)
 

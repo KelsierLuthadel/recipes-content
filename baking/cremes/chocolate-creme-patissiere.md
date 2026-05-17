@@ -1,4 +1,4 @@
-# Chocolate crème pâtissière
+# Chocolate Crème Pâtissière
 
 ![Chocolate crème pâtissière](resources/choccream.jpg)
 

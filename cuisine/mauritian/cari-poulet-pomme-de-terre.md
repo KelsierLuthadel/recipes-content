@@ -1,4 +1,4 @@
-# Cari Poulet et Pomme de Terre
+# Cari Poulet Et Pomme de Terre
 
 ![Cari Poulet et Pomme de Terre](resources/cari-poulet-pomme-de-terre.jpg)
 *A Mauritian Sunday staple: chicken and potato simmered in a fragrant tomato curry built on home-pounded masala, fresh thyme and curry leaves.*

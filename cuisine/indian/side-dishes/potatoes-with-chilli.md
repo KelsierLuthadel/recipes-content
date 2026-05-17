@@ -1,4 +1,4 @@
-# Potatoes with red chillies
+# Potatoes with Red Chillies
 
 ![Potatoes with red chillies](resources/potatoes-with-chilli.jpg)
 

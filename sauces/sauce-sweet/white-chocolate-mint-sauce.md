@@ -1,4 +1,4 @@
-# White chocolate sauce with mint
+# White Chocolate Sauce with Mint
 
 ![White chocolate sauce with mint](resources/white-chocolate.png)
 

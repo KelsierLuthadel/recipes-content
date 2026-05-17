@@ -1,4 +1,4 @@
-# Orange cheesecake tart
+# Orange Cheesecake Tart
 
 ![Orange cheesecake tart](resources/orange-cheesecake-tart.jpg)
 

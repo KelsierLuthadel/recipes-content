@@ -1,4 +1,4 @@
-# Brandy snap baskets with rhubarb and raspberries
+# Brandy Snap Baskets with Rhubarb and Raspberries
 
 ![Brandy snap baskets](resources/brandy-snap-basket.jpg)
 

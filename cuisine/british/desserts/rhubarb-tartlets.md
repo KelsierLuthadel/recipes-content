@@ -1,4 +1,4 @@
-# Rhubarb tartlets with orange
+# Rhubarb Tartlets with Orange
 
 ![Rhubarb tartlets with orange](resources/rhubarb-orange-tart.jpg)
 

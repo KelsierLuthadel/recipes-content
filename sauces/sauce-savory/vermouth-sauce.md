@@ -1,4 +1,4 @@
-# Vermouth sauce
+# Vermouth Sauce
 
 ![Vermouth sauce](resources/vermouth-sauce.png)
 

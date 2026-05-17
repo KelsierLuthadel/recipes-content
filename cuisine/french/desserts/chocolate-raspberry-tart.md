@@ -1,4 +1,4 @@
-# Chocolate and raspberry tart
+# Chocolate and Raspberry Tart
 
 ![Chocolate and raspberry tart](resources/chocolate-raspberry-tart.jpg)
 

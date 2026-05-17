@@ -1,4 +1,4 @@
-# Hollandaise sauce
+# Hollandaise Sauce
 
 ![Hollandaise sauce](resources/hollandaise-sauce.png)
 

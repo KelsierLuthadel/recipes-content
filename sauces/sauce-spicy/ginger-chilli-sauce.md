@@ -1,4 +1,4 @@
-# Ginger and chilli sauce for sashimi
+# Ginger and Chilli Sauce for Sashimi
 
 ![Ginger and chilli sauce for sashimi](resources/ginger-chilli-sauce.png)
 

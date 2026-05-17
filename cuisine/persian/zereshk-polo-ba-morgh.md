@@ -1,4 +1,4 @@
-# Zereshk Polo ba Morgh
+# Zereshk Polo Ba Morgh
 
 ![Zereshk Polo ba Morgh](resources/zereshk-polo-ba-morgh.jpg)
 *The Persian wedding rice: basmati with a saffron tahdig, golden chicken on top, scattered with barberries, almonds and pistachios.*

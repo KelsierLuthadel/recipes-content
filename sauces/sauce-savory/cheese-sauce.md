@@ -1,4 +1,4 @@
-# Cheese sauce
+# Cheese Sauce
 
 ![Cheese sauce](resources/cheese-sauce.png)
 

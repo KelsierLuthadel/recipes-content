@@ -1,4 +1,4 @@
-# Prawn, lemongrass and coconut soup (Tom Yum)
+# Prawn, Lemongrass and Coconut Soup (Tom Yum)
 
 ![Prawn, lemongrass and coconut soup](resources/prawn-lemongrass-coconut-soup.jpg)
 

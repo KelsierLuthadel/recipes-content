@@ -1,4 +1,4 @@
-# Herb crêpes
+# Herb Crêpes
 
 *France's savoury herb crepes: a thin pancake batter spiked with chopped chives, parsley and chervil.*
 

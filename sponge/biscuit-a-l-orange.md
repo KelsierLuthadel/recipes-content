@@ -1,4 +1,4 @@
-# Biscuit à L'Orange
+# Biscuit à l'Orange
 
 ![Biscuit à L'Orange](resources/biscuit-a-l-orange.jpg)
 

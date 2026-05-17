@@ -1,4 +1,4 @@
-# Making bread
+# Making Bread
 ![bread](resources/bread.jpg)
 
 *A guide to bread-making fundamentals: flour, water, salt and yeast turned into a loaf through mixing, kneading, proving and baking.*

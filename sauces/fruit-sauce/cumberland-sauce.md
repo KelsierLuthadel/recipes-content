@@ -1,4 +1,4 @@
-# Cumberland sauce
+# Cumberland Sauce
 
 ![Cumberland sauce](resources/cumberland-sauce.png)
 

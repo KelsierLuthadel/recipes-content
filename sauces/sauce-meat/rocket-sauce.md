@@ -1,4 +1,4 @@
-# Rocket sauce with horseradish
+# Rocket Sauce with Horseradish
 
 ![Rocket sauce with horseradish](resources/rocket-sauce.png)
 

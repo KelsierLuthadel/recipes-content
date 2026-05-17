@@ -1,4 +1,4 @@
-# Mascarpone with dates and candied peel
+# Mascarpone with Dates and Candied Peel
 
 ![Mascarpone with dates and candied peel](resources/mascarpone-with-dates.jpg)
 

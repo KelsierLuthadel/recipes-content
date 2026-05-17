@@ -1,4 +1,4 @@
-# Vietnamese beef soup
+# Vietnamese Beef Soup
 
 ![Vietnamese beef soup](resources/beef-pho2.jpg)
 

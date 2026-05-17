@@ -1,4 +1,4 @@
-# Go Bo Hoi An
+# Go Bo Hoi an
 
 ![Go Bo Hoi An](resources/go-bo-hoi-an.jpg)
 

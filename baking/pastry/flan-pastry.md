@@ -1,4 +1,4 @@
-# Pâté à foncer (Flan Pastry)
+# Pâté à Foncer (Flan Pastry)
 
 ![Pâté à foncer (Flan Pastry)](resources/flan.png)
 

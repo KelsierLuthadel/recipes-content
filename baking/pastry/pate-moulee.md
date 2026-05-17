@@ -1,4 +1,4 @@
-# Pâte moulée (Raised pie pastry)
+# Pâte Moulée (Raised Pie Pastry)
 
 ![Pâte moulée (Raised pie pastry)](resources/pate-moulee.jpg)
 

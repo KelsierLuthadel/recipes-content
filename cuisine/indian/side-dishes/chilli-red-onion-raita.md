@@ -1,4 +1,4 @@
-# Chilli and red onion raita
+# Chilli and Red Onion Raita
 
 ![Chilli and red onion raita](resources/redonionraita.jpg)
 

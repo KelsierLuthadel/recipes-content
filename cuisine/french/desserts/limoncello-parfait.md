@@ -1,4 +1,4 @@
-# Chilled limoncello parfait with raspberries
+# Chilled Limoncello Parfait with Raspberries
 
 ![Chilled limoncello parfait with raspberries](resources/limoncello-parfait.jpg)
 

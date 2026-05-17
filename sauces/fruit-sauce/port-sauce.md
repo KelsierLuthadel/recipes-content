@@ -1,4 +1,4 @@
-# Port sauce
+# Port Sauce
 
 ![Port sauce](resources/port-sauce.png)
 

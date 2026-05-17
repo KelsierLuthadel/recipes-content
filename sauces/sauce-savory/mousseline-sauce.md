@@ -1,4 +1,4 @@
-# Mousseline sauce
+# Mousseline Sauce
 
 ![Mousseline sauce](resources/mousseline.jpg)
 

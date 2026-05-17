@@ -1,4 +1,4 @@
-# Nan-e Nokhodchi
+# Nan-E Nokhodchi
 
 ![Nan-e Nokhodchi](resources/nan-e-nokhodchi.jpg)
 *Persia's chickpea-flour cookies: tiny clover-shaped shortbreads scented with rosewater and cardamom, dusted with crushed pistachios.*

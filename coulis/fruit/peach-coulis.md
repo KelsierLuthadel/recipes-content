@@ -1,4 +1,4 @@
-# Coulis of peaches with lavender honey
+# Coulis of Peaches with Lavender Honey
 
 ![Coulis of peaches with lavender honey](resources/peaches.jpg)
 

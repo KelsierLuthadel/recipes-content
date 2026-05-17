@@ -1,4 +1,4 @@
-# Champagne sauce
+# Champagne Sauce
 
 ![Champagne sauce](resources/champagne-sauce.jpg)
 

@@ -1,4 +1,4 @@
-# Buccaneer's sauce
+# Buccaneer's Sauce
 
 ![Buccaneer's sauce](resources/buccaneer.jpg)
 

@@ -1,4 +1,4 @@
-# Fattah bil Lahma
+# Fattah Bil Lahma
 
 ![Fattah bil Lahma](resources/fattah-bil-lahma.jpg)
 *The Egyptian celebration dish: layered toasted bread (aysh baladi), rice, garlic-vinegar dakka sauce, tomato sauce, slow-braised lamb (or beef) and a drizzle of cooking liquor - assembled in a wide platter and eaten communally. Cooked for Eid al-Adha, weddings, Sham El-Nessim. A dish of celebration through and through.*

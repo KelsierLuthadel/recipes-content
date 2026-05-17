@@ -1,4 +1,4 @@
-# Kalb el-Louz (Almond-Semolina Cake)
+# Kalb El-Louz (Almond-Semolina Cake)
 
 ![Kalb el-Louz](resources/kalb-el-louz.jpg)
 *Algeria's almond-semolina cake: studded with whole blanched almonds, baked in a wide tin and drenched in orange-flower syrup. A Ramadan institution.*

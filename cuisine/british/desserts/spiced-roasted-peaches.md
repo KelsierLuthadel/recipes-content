@@ -1,4 +1,4 @@
-# Sweet spiced roasted peaches
+# Sweet Spiced Roasted Peaches
 
 ![Sweet spiced roasted peaches](resources/spiced-roasted-peaches.png)
 

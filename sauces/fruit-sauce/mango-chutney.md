@@ -1,4 +1,4 @@
-# Mango chutney
+# Mango Chutney
 
 ![Mango chutney](resources/mango-chutney.jpg)
 

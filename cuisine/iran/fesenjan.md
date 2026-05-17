@@ -1,4 +1,4 @@
-# Khoresh-e Fesenjan
+# Khoresh-E Fesenjan
 
 ![Khoresh-e Fesenjan](resources/fesenjan.jpg)
 *Persia's walnut and pomegranate stew: chicken braised in a sauce of ground toasted walnuts and pomegranate molasses till mahogany and silky. Saffron at the end.*

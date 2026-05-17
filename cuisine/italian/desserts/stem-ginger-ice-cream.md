@@ -1,4 +1,4 @@
-# Stem ginger ice cream
+# Stem Ginger Ice Cream
 
 ![Stem ginger ice cream](resources/stem-ginger-ice-cream.jpg)
 

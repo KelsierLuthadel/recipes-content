@@ -1,4 +1,4 @@
-# Shrimp Po-boy
+# Shrimp Po-Boy
 
 ![Shrimp Po-boy](resources/shrimp-po-boy.jpg)
 *The New Orleans po-boy: a long French roll slathered with mayo and Creole mustard, piled with fried shrimp, sliced tomato, lettuce and pickles.*

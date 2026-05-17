@@ -1,4 +1,4 @@
-# Thermidor sauce
+# Thermidor Sauce
 
 ![Thermidor sauce](resources/thermidor.png)
 

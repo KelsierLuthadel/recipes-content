@@ -1,4 +1,4 @@
-# Fiery vegetables in coconut milk
+# Fiery Vegetables in Coconut Milk
 
 ![Fiery vegetables in coconut milk](resources/fiery-vegetables-in-coconut-milk.png)
 

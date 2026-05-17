@@ -1,4 +1,4 @@
-# Béchamel sauce
+# Béchamel Sauce
 
 ![Béchamel sauce](resources/bechamel.png)
 

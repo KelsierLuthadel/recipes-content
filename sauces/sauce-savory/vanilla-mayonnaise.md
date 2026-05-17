@@ -1,4 +1,4 @@
-# Vanilla mayonnaise
+# Vanilla Mayonnaise
 
 ![Vanilla mayonnaise](resources/vanilla-mayonnaise.jpg)
 

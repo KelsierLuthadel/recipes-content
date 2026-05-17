@@ -1,4 +1,4 @@
-# Warm chocolate fondant
+# Warm Chocolate Fondant
 
 ![Warm chocolate fondant](resources/warm-chocolate-fondant.jpg)
 

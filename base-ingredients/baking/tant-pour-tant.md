@@ -1,4 +1,4 @@
-# Tant pour Tant
+# Tant Pour Tant
 
 ![Tant pour Tant](resources/tant-pour-tant.png)
 

@@ -1,4 +1,4 @@
-# Raspberry mousse
+# Raspberry Mousse
 
 ![Raspberry mousse](resources/raspberry-mousse.jpg)
 

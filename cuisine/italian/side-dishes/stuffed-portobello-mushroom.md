@@ -1,4 +1,4 @@
-# Stuffed portobello mushrooms
+# Stuffed Portobello Mushrooms
 
 ![Stuffed portobello mushrooms](resources/stuffed-portobello-mushroom.jpg)
 

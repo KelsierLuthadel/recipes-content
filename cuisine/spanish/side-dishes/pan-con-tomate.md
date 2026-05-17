@@ -1,4 +1,4 @@
-# Pan con Tomate
+# Pan Con Tomate
 
 ![Pan con Tomate](resources/pan-con-tomate.jpg)
 *Catalonia's defining starter: toasted country bread rubbed with raw garlic and a halved ripe tomato, drizzled with good olive oil and salt.*

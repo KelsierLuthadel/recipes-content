@@ -1,4 +1,4 @@
-# Chestnut crème with caramel sauce
+# Chestnut Crème with Caramel Sauce
 
 ![Chestnut crème with caramel sauce](resources/chestnut-creme.jpg)
 

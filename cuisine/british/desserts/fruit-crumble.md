@@ -1,4 +1,4 @@
-# Autumn fruit crumble
+# Autumn Fruit Crumble
 
 ![Autumn fruit crumble](resources/fruit-crumble.jpg)
 

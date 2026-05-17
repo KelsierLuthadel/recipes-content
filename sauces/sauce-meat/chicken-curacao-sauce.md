@@ -1,4 +1,4 @@
-# Chicken sauce with Curaçao
+# Chicken Sauce with Curaçao
 
 ![Chicken sauce with Curaçao](resources/chicken-curacao.png)
 

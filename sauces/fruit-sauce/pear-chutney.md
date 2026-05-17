@@ -1,4 +1,4 @@
-# Pear chutney
+# Pear Chutney
 
 ![Pear chutney](resources/Pear-chutney.png)
 

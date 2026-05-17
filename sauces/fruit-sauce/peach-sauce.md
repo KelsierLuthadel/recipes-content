@@ -1,4 +1,4 @@
-# Peach sauce
+# Peach Sauce
 
 ![Peach sauce](resources/peach-sauce.png)
 

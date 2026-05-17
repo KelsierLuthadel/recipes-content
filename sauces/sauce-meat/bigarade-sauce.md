@@ -1,4 +1,4 @@
-# Bigarade sauce
+# Bigarade Sauce
 
 ![Bigarade sauce](resources/bigarade-sauce.png)
 

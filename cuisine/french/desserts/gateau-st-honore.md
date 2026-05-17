@@ -1,4 +1,4 @@
-# Gâteau St. Honoré with cocoa dusted chantilly cream
+# Gâteau St. Honoré with Cocoa Dusted Chantilly Cream
 
 ![Gâteau St. Honoré with cocoa dusted chantilly cream](resources/gateau-st-honore.jpg)
 

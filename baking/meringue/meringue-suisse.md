@@ -1,4 +1,4 @@
-# Meringue Suisse (Swiss meringue)
+# Meringue Suisse (Swiss Meringue)
 
 ![Meringue Suisse (Swiss meringue)](resources/meringue-suisse.jpg)
 

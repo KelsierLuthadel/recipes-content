@@ -1,4 +1,4 @@
-# Liquorice sauce
+# Liquorice Sauce
 
 ![Liquorice sauce](resources/liquorice-sauce.png)
 

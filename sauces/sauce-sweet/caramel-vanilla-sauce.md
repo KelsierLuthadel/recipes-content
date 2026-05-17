@@ -1,4 +1,4 @@
-# Caramel with vanilla sauce
+# Caramel with Vanilla Sauce
 
 ![Caramel with vanilla sauce](resources/caramel-vanilla.png)
 

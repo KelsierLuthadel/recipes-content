@@ -1,4 +1,4 @@
-# Onion and green apple chutney
+# Onion and Green Apple Chutney
 
 ![Onion and green apple chutney](resources/onion-apple-chutney.png)
 

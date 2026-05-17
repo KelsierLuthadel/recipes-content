@@ -1,4 +1,4 @@
-# Crème au beurre
+# Crème au Beurre
 
 ![Crème au beurre](resources/creme-au-beurre.jpg)
 

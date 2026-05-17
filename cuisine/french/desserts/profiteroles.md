@@ -1,4 +1,4 @@
-# Profiteroles with ice cream and chocolate sauce
+# Profiteroles with Ice Cream and Chocolate Sauce
 
 ![Profiteroles with ice cream and chocolate sauce](resources/profiteroles.jpg)
 

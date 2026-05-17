@@ -1,4 +1,4 @@
-# Celeriac and potato dauphinoise
+# Celeriac and Potato Dauphinoise
 
 ![Celeriac and potato dauphinoise](resources/celeriac-and-potato-dauphinoise.jpg)
 

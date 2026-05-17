@@ -1,4 +1,4 @@
-# Béarnaise sauce
+# Béarnaise Sauce
 
 ![Béarnaise sauce](resources/bearnaise-sauce.jpg)
 

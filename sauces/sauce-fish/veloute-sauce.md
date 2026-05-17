@@ -1,4 +1,4 @@
-# Velouté sauce
+# Velouté Sauce
 
 ![Velouté sauce](resources/veloute.jpg)
 

@@ -1,4 +1,4 @@
-# Mulligatawny soup
+# Mulligatawny Soup
 
 ![Mulligatawny soup](resources/mulligatawny.jpg)
 

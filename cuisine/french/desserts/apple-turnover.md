@@ -1,4 +1,4 @@
-# Apple turnovers
+# Apple Turnovers
 
 ![Apple turnovers](resources/apple-turnover.jpg)
 

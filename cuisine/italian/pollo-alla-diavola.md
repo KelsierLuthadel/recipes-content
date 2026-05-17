@@ -1,4 +1,4 @@
-# Pollo alla Diavola
+# Pollo Alla Diavola
 
 ![Pollo alla Diavola](resources/pollo-alla-diavola.jpg)
 *Italy's devil's chicken: spatchcocked and marinated in lemon, garlic, pepper and chilli, pressed under a brick on a screaming-hot grill.*

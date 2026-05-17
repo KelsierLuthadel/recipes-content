@@ -1,4 +1,4 @@
-# Orange butter sauce
+# Orange Butter Sauce
 
 ![Orange butter sauce](resources/orange-sauce.jpg)
 

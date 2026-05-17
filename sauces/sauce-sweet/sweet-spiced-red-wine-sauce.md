@@ -1,4 +1,4 @@
-# Sweet spiced red wine sauce
+# Sweet Spiced Red Wine Sauce
 
 ![Sweet spiced red wine sauce](resources/spiced-red-wine.jpg)
 

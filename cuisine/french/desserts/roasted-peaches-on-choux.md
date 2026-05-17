@@ -1,4 +1,4 @@
-# Roasted peaches on choux crowns
+# Roasted Peaches on Choux Crowns
 
 ![Roasted peaches on choux crowns](resources/roasted-peach.jpg)
 

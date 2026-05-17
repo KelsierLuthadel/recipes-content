@@ -1,4 +1,4 @@
-# Américaine sauce
+# Américaine Sauce
 
 ![Américaine sauce](resources/americaine-sauce.png)
 

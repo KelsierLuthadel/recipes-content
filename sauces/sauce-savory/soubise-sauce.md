@@ -1,4 +1,4 @@
-# Soubise sauce
+# Soubise Sauce
 
 ![Soubise sauce](resources/soubise-sauce.png)
 

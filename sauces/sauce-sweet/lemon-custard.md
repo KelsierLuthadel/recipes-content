@@ -1,4 +1,4 @@
-# Lemon custard
+# Lemon Custard
 
 ![Lemon custard](resources/lemon-custard.png)
 

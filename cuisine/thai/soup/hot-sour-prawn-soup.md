@@ -1,4 +1,4 @@
-# Hot and sour prawn soup
+# Hot and Sour Prawn Soup
 
 ![Hot and sour prawn soup](resources/hot-sour-prawn-soup.jpg)
 

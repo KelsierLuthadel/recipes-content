@@ -1,4 +1,4 @@
-# Tamarind sauce
+# Tamarind Sauce
 
 ![Tamarind sauce](resources/tamarind-sauce.png)
 

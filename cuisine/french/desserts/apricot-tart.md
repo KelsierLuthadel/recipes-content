@@ -1,4 +1,4 @@
-# Apricot tart
+# Apricot Tart
 
 ![Apricot tart](resources/apricot-tart.jpg)
 

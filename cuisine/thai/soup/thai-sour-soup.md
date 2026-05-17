@@ -1,4 +1,4 @@
-# Thai spicy sour soup
+# Thai Spicy Sour Soup
 
 ![Thai spicy sour soup](resources/thai-sour-soup.jpg)
 

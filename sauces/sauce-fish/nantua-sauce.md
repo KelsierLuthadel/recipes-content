@@ -1,4 +1,4 @@
-# Nantua sauce
+# Nantua Sauce
 
 ![Nantua sauce](resources/nantua.png)
 

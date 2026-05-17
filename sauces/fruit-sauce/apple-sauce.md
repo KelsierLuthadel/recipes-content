@@ -1,4 +1,4 @@
-# Apple sauce
+# Apple Sauce
 
 ![Apple sauce](resources/apple-sauce.jpg)
 

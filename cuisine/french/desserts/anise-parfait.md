@@ -1,4 +1,4 @@
-# Anise parfait
+# Anise Parfait
 
 ![Anise parfait](resources/anise-parfait.jpg)
 

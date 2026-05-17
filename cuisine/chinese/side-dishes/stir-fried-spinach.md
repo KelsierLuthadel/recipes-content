@@ -1,4 +1,4 @@
-# Stir fried spinach with garlic
+# Stir Fried Spinach with Garlic
 
 ![Stir fried spinach with garlic](resources/spinach.jpg)
 

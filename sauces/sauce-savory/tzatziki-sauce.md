@@ -1,4 +1,4 @@
-# Tzatziki sauce
+# Tzatziki Sauce
 
 ![Tzatziki sauce](resources/tzatziki-sauce.png)
 

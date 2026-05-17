@@ -1,4 +1,4 @@
-# Yuca con Mojo
+# Yuca Con Mojo
 
 ![Yuca con Mojo](resources/yuca-con-mojo.jpg)
 *Cuban boiled cassava drowned in mojo: a vivid, raw sauce of crushed garlic, sour orange and olive oil. The starchy, almost waxy yuca soaks up everything; a fork of it, hot, with the mojo just spooned over and crackling in the pan-warmth, is one of the great simple plates of the Caribbean.*

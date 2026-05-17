@@ -1,4 +1,4 @@
-# Tortilla soup
+# Tortilla Soup
 
 ![Tortilla soup](resources/tortilla-soup.jpg)
 

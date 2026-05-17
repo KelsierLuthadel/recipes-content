@@ -1,4 +1,4 @@
-# Pan-fried Barramundi
+# Pan-Fried Barramundi
 
 ![Pan-fried Barramundi](resources/pan-fried-barramundi.jpg)
 

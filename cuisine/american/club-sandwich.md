@@ -1,4 +1,4 @@
-# Club sandwich
+# Club Sandwich
 
 ![Club sandwich](resources/club-sandwich.jpg)
 

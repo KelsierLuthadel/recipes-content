@@ -1,4 +1,4 @@
-# Crème chantilly
+# Crème Chantilly
 
 ![Crème chantilly](resources/creme-chantilly.jpg)
 

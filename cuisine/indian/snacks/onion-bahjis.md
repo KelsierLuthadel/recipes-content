@@ -1,4 +1,4 @@
-# Onion bhajis
+# Onion Bhajis
 
 *India's onion bhajis: sliced onion bound in a spiced gram-flour batter and deep-fried into crisp golden clusters.*
 

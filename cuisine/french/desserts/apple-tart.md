@@ -1,4 +1,4 @@
-# Apple tart
+# Apple Tart
 
 ![Apple tart](resources/apple-tart.jpg)
 

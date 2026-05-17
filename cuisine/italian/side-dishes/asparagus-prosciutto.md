@@ -1,4 +1,4 @@
-# Asparagus and prosciutto bundles
+# Asparagus and Prosciutto Bundles
 
 ![Asparagus and prosciutto bundles](resources/asparagus-parma.jpg)
 

@@ -1,4 +1,4 @@
-# Mornay sauce
+# Mornay Sauce
 
 ![Mornay sauce](resources/mornay-sauce.png)
 

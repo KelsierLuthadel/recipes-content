@@ -1,4 +1,4 @@
-# Kibbeh bil Laban
+# Kibbeh Bil Laban
 
 ![Kibbeh bil Laban](resources/kibbeh-bil-laban.jpg)
 *Syria's kibbeh in yogurt: small lamb-and-bulgur torpedoes with a fried lamb-and-pine-nut filling, dropped into a warm stabilised yogurt-garlic sauce.*

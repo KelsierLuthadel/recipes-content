@@ -1,4 +1,4 @@
-# Parcels of poached pears
+# Parcels of Poached Pears
 
 ![Parcels of poached pears](resources/parcels.jpg)
 

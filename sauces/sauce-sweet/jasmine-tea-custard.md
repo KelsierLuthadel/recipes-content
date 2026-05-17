@@ -1,4 +1,4 @@
-# Jasmine tea custard
+# Jasmine Tea Custard
 
 ![Jasmine tea custard](resources/jasmine-custard.PNG)
 

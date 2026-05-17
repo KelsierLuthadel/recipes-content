@@ -1,4 +1,4 @@
-# Meringue and red berry layers
+# Meringue and Red Berry Layers
 
 ![Meringue and red berry layers](resources/meringue-red-berry-layers.jpg)
 

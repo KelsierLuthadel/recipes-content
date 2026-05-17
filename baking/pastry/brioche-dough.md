@@ -1,4 +1,4 @@
-# Brioche dough
+# Brioche Dough
 
 *The French enriched dough: bread flour kneaded with eggs, butter, milk and a touch of sugar. The base for buns, loaves and pithiviers.*
 

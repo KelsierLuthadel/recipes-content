@@ -1,4 +1,4 @@
-# Creamy clam soup
+# Creamy Clam Soup
 
 ![Creamy clam soup](resources/creamy-clam-soup.jpg)
 

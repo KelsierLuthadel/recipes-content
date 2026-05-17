@@ -1,4 +1,4 @@
-# Crème chiboust
+# Crème Chiboust
 
 ![Crème chiboust](resources/creme-chiboust.png)
 

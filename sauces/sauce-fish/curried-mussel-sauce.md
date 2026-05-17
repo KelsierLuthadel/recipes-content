@@ -1,4 +1,4 @@
-# Curried mussel sauce
+# Curried Mussel Sauce
 
 ![Curried mussel sauce](resources/curried-mussel-sauce.png)
 

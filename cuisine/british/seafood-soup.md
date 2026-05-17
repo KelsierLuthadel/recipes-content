@@ -1,4 +1,4 @@
-# Seafood soup
+# Seafood Soup
 
 ![Seafood soup](resources/seafood-soup.jpg)
 

@@ -1,4 +1,4 @@
-# Beef and wine soup
+# Beef and Wine Soup
 
 ![Beef and wine soup](resources/beef-wine-soup.jpg)
 

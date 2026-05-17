@@ -1,4 +1,4 @@
-# Baked chocolate cheesecake with espresso sauce
+# Baked Chocolate Cheesecake with Espresso Sauce
 
 ![Baked chocolate cheesecake](resources/baked-chocolate-cheesecake.jpg)
 

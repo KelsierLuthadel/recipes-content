@@ -1,4 +1,4 @@
-# Lemon sauce
+# Lemon Sauce
 
 ![Lemon sauce](resources/lemon-sauce.jpg)
 

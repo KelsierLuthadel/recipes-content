@@ -1,4 +1,4 @@
-# Mini croquembouche
+# Mini Croquembouche
 
 ![Mini croquembouche](resources/mini-croquembouche.jpg)
 

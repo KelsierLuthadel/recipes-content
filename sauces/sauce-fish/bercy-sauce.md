@@ -1,4 +1,4 @@
-# Bercy sauce
+# Bercy Sauce
 
 ![Bercy sauce](resources/bercy-sauce.jpg)
 

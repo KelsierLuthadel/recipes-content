@@ -1,4 +1,4 @@
-# Stir fried mange tout with waterchestnuts
+# Stir Fried Mange Tout with Waterchestnuts
 
 *A Cantonese side: mange tout and sliced water chestnuts stir-fried hot with garlic, ginger and a splash of soy. Crisp, sweet and snappy.*
 

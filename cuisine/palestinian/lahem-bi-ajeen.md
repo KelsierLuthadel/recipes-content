@@ -1,4 +1,4 @@
-# Lahem bi Ajeen
+# Lahem Bi Ajeen
 
 ![Lahem bi Ajeen](resources/lahem-bi-ajeen.jpg)
 *Palestine's flat meat pies: spiced minced lamb with tomato, pomegranate molasses and baharat on thin yeasted dough, baked hot till glossy.*

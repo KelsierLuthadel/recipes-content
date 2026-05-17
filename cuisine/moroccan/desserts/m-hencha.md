@@ -1,4 +1,4 @@
-# M'hencha (Almond Snake Coil)
+# m'Hencha (Almond Snake Coil)
 
 ![M'hencha](resources/m-hencha.jpg)
 *Morocco's snake-coil dessert: warka pastry filled with cinnamon almond paste, rolled into a long cylinder and coiled tight into a spiral. Baked golden.*

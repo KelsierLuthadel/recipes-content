@@ -1,4 +1,4 @@
-# Bint al-Sahn
+# Bint Al-Sahn
 
 ![Bint al-Sahn](resources/bint-al-sahn.jpg)
 *Yemen's celebration bread: paper-thin pastry stacked seven layers deep with ghee, baked golden and drenched in dark honey and black caraway seeds.*

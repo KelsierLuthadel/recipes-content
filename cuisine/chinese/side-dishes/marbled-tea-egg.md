@@ -1,4 +1,4 @@
-# Marbled tea eggs
+# Marbled Tea Eggs
 
 *China's marbled tea eggs: hard-boiled eggs cracked all over the shell and steeped overnight in tea, soy and five-spice.*
 

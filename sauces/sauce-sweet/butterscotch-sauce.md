@@ -1,4 +1,4 @@
-# Butterscotch sauce
+# Butterscotch Sauce
 
 ![Butterscotch sauce](resources/butterscotch.png)
 

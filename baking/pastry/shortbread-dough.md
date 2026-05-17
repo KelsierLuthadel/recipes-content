@@ -1,4 +1,4 @@
-# Pâte sablée (Shortbread dough)
+# Pâte Sablée (Shortbread Dough)
 
 ![Pâte sablée (Shortbread dough)](resources/shortbread.png)
 

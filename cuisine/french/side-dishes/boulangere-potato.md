@@ -1,4 +1,4 @@
-# Boulangère potatoes
+# Boulangère Potatoes
 
 ![Boulangère potatoes](resources/boulangere.jpg)
 

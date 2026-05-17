@@ -1,4 +1,4 @@
-# Mexican soup with salsa
+# Mexican Soup with Salsa
 
 ![Mexican soup with salsa](resources/salsa-soup.jpg)
 

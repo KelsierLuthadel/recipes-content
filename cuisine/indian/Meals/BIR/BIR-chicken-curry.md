@@ -1,4 +1,4 @@
-# Chicken curry
+# Chicken Curry
 
 ![Chicken curry](resources/BIR-chicken-curry.jpg)
 

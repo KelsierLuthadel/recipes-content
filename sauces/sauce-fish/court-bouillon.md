@@ -1,4 +1,4 @@
-# Court bouillon
+# Court Bouillon
 
 ![Court bouillon](resources/court.jpg)
 

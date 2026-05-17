@@ -1,4 +1,4 @@
-# Kashk o Bademjan
+# Kashk O Bademjan
 
 ![Kashk o Bademjan](resources/kashk-o-bademjan.jpg)
 *Persia's defining aubergine dip: roasted aubergines mashed with garlic and dried mint, swirled with kashk and topped with crispy onions and walnuts.*

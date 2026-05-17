@@ -1,4 +1,4 @@
-# Filo pastry
+# Filo Pastry
 
 ![Filo pastry](resources/filo.jpg)
 

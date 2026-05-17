@@ -1,4 +1,4 @@
-# Mango coulis with saffron
+# Mango Coulis with Saffron
 
 ![Mango coulis with saffron](resources/mango-coulis.jpg)
 

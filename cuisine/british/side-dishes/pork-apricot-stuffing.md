@@ -1,4 +1,4 @@
-# Pork, apricot and pistachio stuffing
+# Pork, Apricot and Pistachio Stuffing
 
 *A British roast stuffing: pork sausagemeat with dried apricot, pistachios, onion, sage and breadcrumbs.*
 

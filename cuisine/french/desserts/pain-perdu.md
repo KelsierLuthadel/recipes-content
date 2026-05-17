@@ -1,4 +1,4 @@
-# Pain perdu
+# Pain Perdu
 
 ![Pain perdu](resources/pain-perdu.jpg)
 

@@ -1,4 +1,4 @@
-# Spinach and Fennel soup
+# Spinach and Fennel Soup
 
 ![Spinach and Fennel soup](resources/spinach-fennel-soup.jpg)
 

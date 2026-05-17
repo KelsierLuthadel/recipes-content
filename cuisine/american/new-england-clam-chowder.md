@@ -1,4 +1,4 @@
-# New England clam chowder
+# New England Clam Chowder
 
 ![New England clam chowder](resources/new-england.jpg)
 

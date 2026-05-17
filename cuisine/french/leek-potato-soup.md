@@ -1,4 +1,4 @@
-# Leek and potato soup
+# Leek and Potato Soup
 
 ![Leek and potato soup](resources/leek-potato-soup.jpg)
 

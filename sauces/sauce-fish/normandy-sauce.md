@@ -1,4 +1,4 @@
-# Normandy sauce
+# Normandy Sauce
 
 ![Normandy sauce](resources/normandy-sauce.png)
 

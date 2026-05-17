@@ -1,4 +1,4 @@
-# Chocolate salammbos
+# Chocolate Salammbos
 
 ![Chocolate salammbos](resources/salammbos.jpg)
 

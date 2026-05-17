@@ -1,4 +1,4 @@
-# Kashmiri chicken
+# Kashmiri Chicken
 
 ![Kashmiri chicken](resources/BIR-kashmiri-chicken.jpg)
 

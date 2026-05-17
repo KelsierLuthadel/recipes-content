@@ -1,4 +1,4 @@
-# Chasseur sauce
+# Chasseur Sauce
 
 ![Chasseur sauce](resources/chasseur-sauce.png)
 

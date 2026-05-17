@@ -1,4 +1,4 @@
-# Tcharek el-Ariane (Almond Crescents)
+# Tcharek El-Ariane (Almond Crescents)
 
 ![Tcharek](resources/tcharek.jpg)
 *The Maghreb's Eve's crescents: almond-paste filling wrapped in thin shortbread, baked pale, dipped in orange-flower syrup, rolled in icing sugar.*

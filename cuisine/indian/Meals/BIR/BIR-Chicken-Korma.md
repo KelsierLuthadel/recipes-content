@@ -1,4 +1,4 @@
-# Chicken korma
+# Chicken Korma
 
 ![Chicken korma](resources/BIR-Chicken-Korma.jpg)
 

@@ -1,4 +1,4 @@
-# Crème anglaise
+# Crème Anglaise
 
 ![Crème anglaise](resources/creme-anglaise.jpg)
 

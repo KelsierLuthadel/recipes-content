@@ -1,4 +1,4 @@
-# Pecan nut brownies
+# Pecan Nut Brownies
 
 ![Pecan nut brownies](resources/pecan-nut-brownie.jpg)
 

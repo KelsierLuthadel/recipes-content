@@ -1,4 +1,4 @@
-# Satay sauce
+# Satay Sauce
 
 ![Satay sauce](resources/satay.jpg)
 

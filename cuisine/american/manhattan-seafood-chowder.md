@@ -1,4 +1,4 @@
-# Manhattan seafood chowder
+# Manhattan Seafood Chowder
 
 ![Manhattan seafood chowder](resources/manhattan-chowder.png)
 

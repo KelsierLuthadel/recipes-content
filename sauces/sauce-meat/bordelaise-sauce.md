@@ -1,4 +1,4 @@
-# Bordelaise sauce
+# Bordelaise Sauce
 
 ![Bordelaise sauce](resources/bordelaise-sauce.png)
 

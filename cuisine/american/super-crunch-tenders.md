@@ -1,4 +1,4 @@
-# Super-Crunch Chicken Tenders with D'ussé Honey Sauce
+# Super-Crunch Chicken Tenders with d'Ussé Honey Sauce
 
 ![Super-Crunch Chicken Tenders](resources/super-crunch-tenders.jpg)
 *A competition-winning fried tender: chicken marinated in Buffalo-and-hot-sauce, dredged in clumpy seasoned flour and fried golden. Drizzled with cognac honey.*

@@ -1,4 +1,4 @@
-# Muriwo une Dovi
+# Muriwo Une Dovi
 
 ![Muriwo une Dovi](resources/muriwo-une-dovi.jpg)
 *Zimbabwe's collard greens: stewed with onion, tomato and a heaped spoon of peanut butter that melts into the leaves. Eaten alongside sadza.*

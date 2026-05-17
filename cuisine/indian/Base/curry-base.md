@@ -1,4 +1,4 @@
-# B.I.R Curry Base
+# B.i.r Curry Base
 
 *The British-Indian-Restaurant curry base: onion, garlic and ginger slow-simmered with spices, then blended smooth.*
 

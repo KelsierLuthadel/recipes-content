@@ -1,4 +1,4 @@
-# Banana sauce
+# Banana Sauce
 
 ![Banana sauce](resources/banana.jpg)
 

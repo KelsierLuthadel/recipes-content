@@ -1,4 +1,4 @@
-# Meringue Italienne (Italian meringue)
+# Meringue Italienne (Italian Meringue)
 
 ![Meringue Italienne (Italian meringue)](resources/meringue-italienne.jpg)
 

@@ -1,4 +1,4 @@
-# Frozen pineapple soufflé with blackberries
+# Frozen Pineapple Soufflé with Blackberries
 
 ![Frozen pineapple soufflé with blackberries](resources/pineapple-souffle.jpg)
 

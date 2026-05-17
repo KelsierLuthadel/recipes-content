@@ -1,4 +1,4 @@
-# Baghali Polo ba Mahiche
+# Baghali Polo Ba Mahiche
 
 ![Baghali Polo ba Mahiche](resources/baghali-polo-ba-mahiche.jpg)
 *A Persian feast plate: dill-and-broad-bean rice with a saffron tahdig, served alongside slow-braised lamb shanks. A Nowruz dish.*

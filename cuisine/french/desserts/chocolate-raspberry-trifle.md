@@ -1,4 +1,4 @@
-# Chocolate and raspberry trifle
+# Chocolate and Raspberry Trifle
 
 ![Chocolate and raspberry trifle](resources/chocolate-and-raspberry-trifle.jpg)
 

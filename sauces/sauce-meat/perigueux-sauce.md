@@ -1,4 +1,4 @@
-# Périgueux sauce
+# Périgueux Sauce
 
 ![Périgueux sauce](resources/perigueux.jpg)
 

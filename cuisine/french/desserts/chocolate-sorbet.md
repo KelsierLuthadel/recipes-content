@@ -1,4 +1,4 @@
-# Chocolate sorbet
+# Chocolate Sorbet
 
 ![Chocolate sorbet](resources/chocolate-sorbet.jpg)
 

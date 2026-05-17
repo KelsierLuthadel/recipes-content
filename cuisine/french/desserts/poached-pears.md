@@ -1,4 +1,4 @@
-# Poached pears stuffed with figs and dates
+# Poached Pears Stuffed with Figs and Dates
 
 ![Poached pears stuffed with figs and dates](resources/poached-pears.jpg)
 

@@ -1,4 +1,4 @@
-# Sorrel sauce
+# Sorrel Sauce
 
 ![Sorrel sauce](resources/sorrel-sauce.png)
 

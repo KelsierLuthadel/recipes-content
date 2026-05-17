@@ -1,4 +1,4 @@
-# Arroz con Leche Colombiano
+# Arroz Con Leche Colombiano
 
 ![Arroz con Leche Colombiano](resources/arroz-con-leche-colombiano.jpg)
 *Colombia's after-school rice pudding: rice simmered slow in whole milk with cinnamon, lemon zest and sugar till creamy. Topped with raisins.*

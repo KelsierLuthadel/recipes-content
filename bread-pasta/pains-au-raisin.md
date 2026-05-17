@@ -1,4 +1,4 @@
-# Pains au raisins
+# Pains au Raisins
 
 *France's spiral pastry: a butter-laminated croissant dough rolled around a crème pâtissière and raisins.*
 

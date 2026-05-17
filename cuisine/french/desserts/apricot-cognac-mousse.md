@@ -1,4 +1,4 @@
-# Apricot and cognac mousse with caramelised almonds
+# Apricot and Cognac Mousse with Caramelised Almonds
 
 ![Apricot and cognac mousse with caramelised almonds](resources/apricot-cognac-mousse.jpg)
 

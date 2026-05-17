@@ -1,4 +1,4 @@
-# Crème d'amande
+# Crème d'Amande
 
 ![Crème d'amande](resources/creme-damande.jpg)
 

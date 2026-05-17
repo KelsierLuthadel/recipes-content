@@ -1,4 +1,4 @@
-# Brussels sprouts au gratin
+# Brussels Sprouts au Gratin
 
 ![Brussels sprouts au gratin](resources/brussels-sprouts-au-gratin.jpg)
 

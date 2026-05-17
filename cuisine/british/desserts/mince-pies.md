@@ -1,4 +1,4 @@
-# Mini mince pies
+# Mini Mince Pies
 
 ![Mini mince pies](resources/mince-pies.jpg)
 

@@ -1,4 +1,4 @@
-# Passion fruit and kiwi soufflé
+# Passion Fruit and Kiwi Soufflé
 
 ![Passion fruit and kiwi soufflé](resources/passion-fruit-souffle.jpg)
 

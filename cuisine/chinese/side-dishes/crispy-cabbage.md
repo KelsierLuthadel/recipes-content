@@ -1,4 +1,4 @@
-# Crispy cabbage
+# Crispy Cabbage
 
 ![Crispy cabbage](resources/crispy-cabbage.jpg)
 

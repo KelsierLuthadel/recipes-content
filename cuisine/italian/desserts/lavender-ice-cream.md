@@ -1,4 +1,4 @@
-# Lavender ice cream
+# Lavender Ice Cream
 
 ![Lavender ice cream](resources/lavender-ice-cream.jpg)
 

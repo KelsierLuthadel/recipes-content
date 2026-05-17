@@ -1,4 +1,4 @@
-# Apple and passion fruit tartlets
+# Apple and Passion Fruit Tartlets
 
 ![Apple and passion fruit tartlets](resources/apple-passion-fruit-tart.jpg)
 

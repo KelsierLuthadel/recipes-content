@@ -1,4 +1,4 @@
-# Sweet and sour sauce
+# Sweet and Sour Sauce
 
 ![Sweet and sour sauce](resources/sweet-sour.png)
 

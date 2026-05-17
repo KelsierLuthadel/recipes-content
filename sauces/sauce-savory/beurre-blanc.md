@@ -1,4 +1,4 @@
-# Beurre blanc with cream
+# Beurre Blanc with Cream
 
 ![Beurre blanc with cream](resources/beurre-blanc.jpg)
 

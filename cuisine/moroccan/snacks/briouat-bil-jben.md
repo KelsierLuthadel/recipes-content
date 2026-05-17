@@ -1,4 +1,4 @@
-# Briouat bil Jben (Cheese Briouats)
+# Briouat Bil Jben (Cheese Briouats)
 
 ![Briouat bil Jben](resources/briouat-bil-jben.jpg)
 *Morocco's cheese briouats: triangular filo pastries filled with soft fresh cheese, beaten egg, herbs and a hint of cumin. Deep-fried golden and crisp.*

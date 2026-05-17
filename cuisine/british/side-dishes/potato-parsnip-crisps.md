@@ -1,4 +1,4 @@
-# Potato and parsnip crisps
+# Potato and Parsnip Crisps
 
 ![Potato and parsnip crisps](resources/potato-parsnip-crisps.jpg)
 

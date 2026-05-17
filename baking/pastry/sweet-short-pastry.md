@@ -1,4 +1,4 @@
-# Pâte sucrée (Sweet Short Pastry)
+# Pâte Sucrée (Sweet Short Pastry)
 
 ![Pâte sucrée (Sweet Short Pastry)](resources/sweet-short.png)
 

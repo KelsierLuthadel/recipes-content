@@ -1,4 +1,4 @@
-# Briouat bil Lahm (Meat Briouats)
+# Briouat Bil Lahm (Meat Briouats)
 
 ![Briouat bil Lahm](resources/briouat-bil-lahm.jpg)
 *Morocco's iftar starter: warka triangles wrapped around slow-cooked spiced lamb with onion, herbs, ras-el-hanout and preserved lemon. Deep-fried.*

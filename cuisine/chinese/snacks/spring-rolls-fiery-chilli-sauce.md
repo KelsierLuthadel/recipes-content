@@ -1,4 +1,4 @@
-# Spring rolls with fiery chilli sauce
+# Spring Rolls with Fiery Chilli Sauce
 
 ![Spring rolls with fiery chilli sauce](resources/springrolls.jpg)
 

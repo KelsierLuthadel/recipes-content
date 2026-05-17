@@ -1,4 +1,4 @@
-# Flash fried squid with paprika and garlic
+# Flash Fried Squid with Paprika and Garlic
 
 ![Flash fried squid with paprika and garlic](resources/squid.jpg)
 

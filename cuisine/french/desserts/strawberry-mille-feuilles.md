@@ -1,4 +1,4 @@
-# Glazed strawberry mille-feuilles
+# Glazed Strawberry Mille-Feuilles
 
 ![Strawberry mille-feuilles](resources/strawberry-mille-feuilles.jpg)
 

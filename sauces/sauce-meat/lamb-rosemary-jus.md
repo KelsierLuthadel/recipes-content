@@ -1,4 +1,4 @@
-# Lamb jus with rosemary
+# Lamb Jus with Rosemary
 
 ![Lamb jus with rosemary](resources/lamb-jus.png)
 

@@ -1,4 +1,4 @@
-# Fiery citrus salsa
+# Fiery Citrus Salsa
 
 ![Fiery citrus salsa](resources/citrus-salsa.jpg)
 

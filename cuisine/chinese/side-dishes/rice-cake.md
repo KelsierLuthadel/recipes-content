@@ -1,4 +1,4 @@
-# Rice cake
+# Rice Cake
 
 *A Chinese pressed rice cake: cooked short-grain rice pressed into a tin and cut into cubes.*
 

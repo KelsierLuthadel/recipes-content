@@ -1,4 +1,4 @@
-# Floating islands with rhubarb
+# Floating Islands with Rhubarb
 
 ![Floating islands](resources/floating-islands.jpg)
 

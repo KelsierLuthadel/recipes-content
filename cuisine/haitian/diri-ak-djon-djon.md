@@ -1,4 +1,4 @@
-# Diri ak Djon Djon
+# Diri Ak Djon Djon
 
 ![Diri ak Djon Djon](resources/diri-ak-djon-djon.jpg)
 

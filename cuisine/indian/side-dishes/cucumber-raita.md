@@ -1,4 +1,4 @@
-# Cucumber raita
+# Cucumber Raita
 
 ![Cucumber raita](resources/cucumber-raita.jpg)
 

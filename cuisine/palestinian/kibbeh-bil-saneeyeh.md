@@ -1,4 +1,4 @@
-# Kibbeh bil Saneeyeh
+# Kibbeh Bil Saneeyeh
 
 ![Kibbeh bil Saneeyeh](resources/kibbeh-bil-saneeyeh.jpg)
 *Palestine's Friday-dinner kibbeh: two layers of bulgur-and-lamb dough sandwiching a spiced mince and pine-nut filling, scored and baked.*

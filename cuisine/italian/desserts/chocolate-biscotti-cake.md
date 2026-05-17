@@ -1,4 +1,4 @@
-# Chocolate biscotti cake
+# Chocolate Biscotti Cake
 
 *An Italian dessert: a layered cake of chocolate sponge and crushed almond biscotti, set with whipped cream and cocoa. Sliced like a parfait.*
 

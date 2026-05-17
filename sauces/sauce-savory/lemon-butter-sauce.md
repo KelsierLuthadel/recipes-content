@@ -1,4 +1,4 @@
-# Lemon butter sauce
+# Lemon Butter Sauce
 
 ![Lemon butter sauce](resources/lemon-butter.jpg)
 

@@ -1,4 +1,4 @@
-# Feuilletage (puff pastry)
+# Feuilletage (Puff Pastry)
 
 ![Feuilletage (puff pastry)](resources/puff-pastry.png)
 

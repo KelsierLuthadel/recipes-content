@@ -1,4 +1,4 @@
-# Crab bisque
+# Crab Bisque
 
 ![Crab bisque](resources/crab-bisque.jpg)
 

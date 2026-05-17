@@ -1,4 +1,4 @@
-# Minestrone with pesto
+# Minestrone with Pesto
 
 ![Minestrone with pesto](resources/minestrone-pesto.jpg)
 

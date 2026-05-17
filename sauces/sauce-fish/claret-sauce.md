@@ -1,4 +1,4 @@
-# Claret sauce
+# Claret Sauce
 
 ![Claret sauce](resources/claret.jpg)
 

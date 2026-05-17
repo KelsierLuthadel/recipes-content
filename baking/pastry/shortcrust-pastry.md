@@ -1,4 +1,4 @@
-# Pâte brisée (Shortcrust)
+# Pâte Brisée (Shortcrust)
 
 ![Pâte brisée (Shortcrust)](resources/shortcrust.png)
 

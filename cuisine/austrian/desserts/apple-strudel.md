@@ -1,4 +1,4 @@
-# Apple strudel
+# Apple Strudel
 
 ![Apple strudel](resources/apple-strudel.jpg)
 

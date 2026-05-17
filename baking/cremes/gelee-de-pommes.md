@@ -1,4 +1,4 @@
-# Gelée de pommes
+# Gelée de Pommes
 
 ![Gelée de pommes](resources/gelee-de-pommes.jpg)
 

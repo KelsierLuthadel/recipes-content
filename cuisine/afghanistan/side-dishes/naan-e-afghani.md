@@ -1,4 +1,4 @@
-# Naan-e Afghani
+# Naan-E Afghani
 
 ![Naan-e Afghani](resources/naan-e-afghani.jpg)
 *Afghanistan's long flatbread: a 50 cm canoe baked in a tandoor with finger-trailed ridges and a scatter of nigella and sesame. Torn warm at every meal.*

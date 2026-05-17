@@ -1,4 +1,4 @@
-# Lamb pasties
+# Lamb Pasties
 
 ![Lamb pasties](resources/lamb-pasty.jpg)
 

@@ -1,4 +1,4 @@
-# Red berry beignets
+# Red Berry Beignets
 
 ![Red berry beignets](resources/beignets.jpg)
 
