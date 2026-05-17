@@ -1,5 +1,6 @@
 # Baingan Bharta
 
+![Baingan Bharta](resources/baingan-bharta.jpg)
 *Punjabi smoked aubergine mash, charred whole over an open flame for a deep smoky flavour, then folded into a tomato-onion masala. Eaten with roti or paratha.*
 
 **Serves:** 4

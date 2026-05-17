@@ -1,5 +1,6 @@
 # Tamarind Rice
 
+![Tamarind Rice](resources/tamarind-rice.jpg)
 *Puliyodarai: South Indian tamarind rice, the temple-prasad classic. Cooked rice tossed with a spiced tamarind paste (puli) thick with peanuts, sesame and curry leaves. Lunchbox legend; travels well, tastes better cold.*
 
 **Serves:** 4

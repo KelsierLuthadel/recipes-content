@@ -1,5 +1,6 @@
 # Lahori Gajar Halwa
 
+![Lahori Gajar Halwa](resources/lahori-gajar-halwa.jpg)
 *Winter carrot halwa: red carrots cooked low and slow in full-fat milk with sugar, ghee and cardamom until thick and dark orange. Topped with toasted nuts and a flake of silver leaf. The Punjabi winter dessert.*
 
 **Serves:** 6-8

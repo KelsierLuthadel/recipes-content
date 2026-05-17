@@ -1,5 +1,6 @@
 # Dal Makhani
 
+![Dal Makhani](resources/dal-makhani.jpg)
 *Punjabi slow-cooked black lentil and kidney bean dal, finished with butter and cream. The richest dal in the Northern repertoire; traditionally simmered overnight over a low flame.*
 
 **Serves:** 6

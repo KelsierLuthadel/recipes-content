@@ -1,5 +1,6 @@
 # Cochinita Pibil
 
+![Cochinita Pibil](resources/cochinita-pibil.jpg)
 *Yucatán's slow-roasted pork: shoulder rubbed with achiote, bitter orange and garlic, wrapped in banana leaf and cooked until the meat falls into shreds. Served with pickled red onion and warm tortillas.*
 
 **Serves:** 6-8

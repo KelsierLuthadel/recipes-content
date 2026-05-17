@@ -1,5 +1,6 @@
 # Pico de Gallo
 
+![Pico de Gallo](resources/pico-de-gallo.jpg)
 *Fresh tomato salsa, also called salsa fresca. Chopped tomato, white onion, jalapeño, coriander and lime; salted and rested so the juices come together. The fresh end of the salsa spectrum.*
 
 **Serves:** 6 (as a side)

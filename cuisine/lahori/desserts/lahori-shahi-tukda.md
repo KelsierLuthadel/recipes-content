@@ -1,5 +1,6 @@
 # Lahori Shahi Tukda
 
+![Lahori Shahi Tukda](resources/lahori-shahi-tukda.jpg)
 *Royal bread pudding: triangles of white bread fried in ghee until golden, soaked in a saffron-cardamom sugar syrup, then crowned with thickened cream and a scatter of nuts. A Mughal inheritance from Lahore's Old City sweet-makers.*
 
 **Serves:** 6

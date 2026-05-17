@@ -1,5 +1,6 @@
 # Calabacitas
 
+![Calabacitas](resources/calabacitas.jpg)
 *Mexican summer-squash sauté with sweetcorn, tomato and poblano. A bright vegetable side that holds its own next to grilled meat, often finished with crumbled queso fresco.*
 
 **Serves:** 4

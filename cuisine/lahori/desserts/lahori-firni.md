@@ -1,5 +1,6 @@
 # Lahori Firni
 
+![Lahori Firni](resources/lahori-firni.jpg)
 *Rice-flour pudding: ground rice cooked slowly in cardamom-scented milk until thick, set in small earthenware bowls and chilled. The cooling Lahori Eid dessert; smoother than kheer, paler, ground-rice-fine.*
 
 **Serves:** 6 (small earthenware bowls or ramekins)

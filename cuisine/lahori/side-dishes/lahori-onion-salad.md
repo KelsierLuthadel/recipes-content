@@ -1,5 +1,6 @@
 # Lahori Onion Salad
 
+![Lahori Onion Salad](resources/lahori-onion-salad.jpg)
 *The dhaba-table onion salad: thinly sliced red onion soaked briefly in iced vinegar-water, drained and tossed with lemon, chaat masala, chilli flakes and coriander. The cooling raw-bite alongside any chargrilled Lahori main.*
 
 **Serves:** 4-6 (as a side)

@@ -1,5 +1,6 @@
 # Matar Pulao
 
+![Matar Pulao](resources/matar-pulao.jpg)
 *Basmati pulao with peas, fried onion and whole spices. The North Indian wedding-table standard; sweet from the peas and warming from the cardamom.*
 
 **Serves:** 4-6

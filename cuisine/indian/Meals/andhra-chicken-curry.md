@@ -1,5 +1,6 @@
 # Andhra Chicken Curry
 
+![Andhra Chicken Curry](resources/andhra-chicken-curry.jpg)
 *Andhra Pradesh chicken curry: properly hot, dried-red-chilli forward, simmered in a coconut-and-poppy-seed gravy. The South Indian heat-bomb that still tastes nuanced underneath.*
 
 **Serves:** 4-6

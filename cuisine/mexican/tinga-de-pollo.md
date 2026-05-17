@@ -1,5 +1,6 @@
 # Tinga de Pollo
 
+![Tinga de Pollo](resources/tinga-de-pollo.jpg)
 *Shredded chicken in a smoky tomato-chipotle sauce. A Puebla classic that's the workhorse filling for tostadas, tacos and tortas; on the table in under an hour.*
 
 **Serves:** 4-6

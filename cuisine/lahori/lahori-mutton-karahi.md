@@ -1,5 +1,6 @@
 # Lahori Mutton Karahi
 
+![Lahori Mutton Karahi](resources/lahori-mutton-karahi.jpg)
 *The Lahori roadside karahi: mutton (or lamb) cooked hard and fast in a wok-shaped karahi with tomato, ginger and a heavy hand of fresh green chilli. No onion, no thick gravy: just meat, tomato and a slick of clarified butter at the end.*
 
 **Serves:** 4-6

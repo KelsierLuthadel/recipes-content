@@ -1,5 +1,6 @@
 # Lahori Falooda
 
+![Lahori Falooda](resources/lahori-falooda.jpg)
 *Chilled rose-milk dessert: a tall glass layered with rose syrup, soaked basil seeds, cold vermicelli, scoops of kulfi or ice cream, milk, and nuts. The Lahori summer answer to a hot afternoon.*
 
 **Serves:** 4 (large tall glasses)

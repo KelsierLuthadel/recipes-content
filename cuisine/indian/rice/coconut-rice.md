@@ -1,5 +1,6 @@
 # Coconut Rice
 
+![Coconut Rice](resources/coconut-rice.jpg)
 *South Indian coconut rice: steamed rice tossed with a coconut, mustard-seed and curry-leaf temper, finished with cashews and roasted gram. A breakfast staple in Tamil Nadu; a quick lunchbox staple everywhere.*
 
 **Serves:** 4

@@ -1,5 +1,6 @@
 # Lahori Tarka Dal
 
+![Lahori Tarka Dal](resources/lahori-tarka-dal.jpg)
 *The Lahori everyday dal: yellow lentils cooked soft, then finished with a sizzling tarka of ghee, garlic, dried red chilli and cumin poured hot over the top. The bowl-of-comfort that anchors every Punjabi lunch table.*
 
 **Serves:** 4-6

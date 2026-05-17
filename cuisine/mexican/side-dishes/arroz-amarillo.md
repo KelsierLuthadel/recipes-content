@@ -1,5 +1,6 @@
 # Arroz Amarillo
 
+![Arroz Amarillo](resources/arroz-amarillo.jpg)
 *Yellow rice coloured with achiote and finished with sweetcorn and peas. The Yucatecan answer to red Mexican rice; pairs beautifully with cochinita pibil and pollo asado.*
 
 **Serves:** 4-6

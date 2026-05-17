@@ -1,5 +1,6 @@
 # Mutton Sukka
 
+![Mutton Sukka](resources/mutton-sukka.jpg)
 *Tamil-style dry mutton: lamb (or goat) braised tender then finished hard with a black-pepper, fennel and coconut masala. The Chettinad-region answer to a thick stew, served bone-dry with rice or roti.*
 
 **Serves:** 4

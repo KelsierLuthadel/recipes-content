@@ -1,5 +1,6 @@
 # Coconut Chutney
 
+![Coconut Chutney](resources/coconut-chutney.jpg)
 *The South Indian breakfast chutney: fresh coconut ground with green chilli, ginger and roasted gram, finished with a hot mustard-and-curry-leaf temper. Goes with dosa, idli and vada.*
 
 **Serves:** 4 (as an accompaniment)
