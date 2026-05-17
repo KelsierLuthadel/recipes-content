@@ -19,7 +19,7 @@ A curry-house style chicken curry that builds flavor from whole spices and fresh
 ### Spice base
 - 3 tbsp rapeseed (canola) oil
 - 2 ½ cm (1 in) piece cinnamon stick
-- Seeds from 3 green cardamom pods
+- 9 Cardamom seeds
 - 2 star anise
 - 1 tsp cumin seeds
 
