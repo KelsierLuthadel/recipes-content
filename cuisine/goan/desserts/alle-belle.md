@@ -1,5 +1,6 @@
 # Alle Belle
 
+![Alle Belle](resources/alle-belle.jpg)
 *Goan coconut-and-jaggery pancakes: thin yellow crêpes filled with a warm coconut-jaggery mixture flavoured with cardamom and a hint of nutmeg. Sunday teatime in every Goan Catholic home.*
 
 **Serves:** 4 (makes 8 pancakes)

@@ -1,5 +1,6 @@
 # Chicken Cafreal
 
+![Chicken Cafreal](resources/chicken-cafreal.jpg)
 *The green Goan chicken: marinated overnight in a paste of coriander, green chilli, garlic, ginger and palm vinegar, then pan-fried until charred at the edges. A Portuguese-African inheritance with strong green-herb flavour.*
 
 **Serves:** 4

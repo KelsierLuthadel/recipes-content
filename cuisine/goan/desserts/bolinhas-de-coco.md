@@ -1,5 +1,6 @@
 # Bolinhas de Coco
 
+![Bolinhas de Coco](resources/bolinhas-de-coco.jpg)
 *Goan coconut macaroons: tender cookies of grated coconut, semolina and sugar, lightly bound with egg yolk. A Christmas-tree staple; eaten with afternoon tea or coffee throughout the year.*
 
 **Serves:** Makes about 30 cookies

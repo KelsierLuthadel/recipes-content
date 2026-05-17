@@ -1,5 +1,6 @@
 # Goan Prawn Pulao
 
+![Goan Prawn Pulao](resources/goan-prawn-pulao.jpg)
 *Goan prawn pulao: basmati cooked with a green-masala paste of coriander, mint and ginger, the prawns folded through at the end. A coastal weekday rice that does the work of a whole meal.*
 
 **Serves:** 4-6

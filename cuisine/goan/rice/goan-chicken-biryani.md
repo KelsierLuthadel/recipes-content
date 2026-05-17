@@ -1,5 +1,6 @@
 # Goan Chicken Biryani
 
+![Goan Chicken Biryani](resources/goan-chicken-biryani.jpg)
 *The Goan Catholic biryani: chicken marinated in a vinegar-spiked Goan masala, layered with saffron-fragrant basmati and finished in the dum. Distinct from its Hyderabadi cousin, with palm vinegar and a touch of toasted coconut in the masala.*
 
 **Serves:** 6

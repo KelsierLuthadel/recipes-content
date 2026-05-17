@@ -1,5 +1,6 @@
 # Doce de Grão
 
+![Doce de Grão](resources/doce-de-grao.jpg)
 *Goan chickpea-and-coconut fudge: cooked chickpeas blended smooth and cooked with coconut, sugar and ghee into a soft, pale-cream sweet. The Portuguese-inheritance dessert that surprises every first-time eater.*
 
 **Serves:** 16 squares

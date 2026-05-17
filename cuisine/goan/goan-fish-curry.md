@@ -1,5 +1,6 @@
 # Goan Fish Curry
 
+![Goan Fish Curry](resources/goan-fish-curry.jpg)
 *Peixe caril: the daily Goan fish curry. Pomfret or mackerel poached in a coconut and tamarind gravy bright with Kashmiri chilli and curry leaves. The rice-and-curry lunch of every Goan home.*
 
 **Serves:** 4

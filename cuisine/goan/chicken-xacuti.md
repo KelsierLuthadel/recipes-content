@@ -1,5 +1,6 @@
 # Chicken Xacuti
 
+![Chicken Xacuti](resources/chicken-xacuti.jpg)
 *Goan chicken xacuti: a deeply roasted spice and coconut masala, dark as black coffee, fragrant with star anise and kashmiri chilli. The Sunday lunch curry of Catholic Goa.*
 
 **Serves:** 4-6
