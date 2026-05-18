@@ -30,8 +30,11 @@ Cold risotto (saffron Milanese-style is traditional in arancini "alla Milanese";
 - 30 g extra parmesan (grated)
 
 ### Filling (choose one or do half-and-half)
-- **Meat ragù option**: 200 g leftover beef-and-pork ragù (Bolognese-style - see [cuisine/italian/ragu.md](../ragu.md)) + 50 g frozen peas (defrosted)
-- **Mozzarella option**: 150 g low-moisture mozzarella (cut into 1 ½ cm cubes - one cube per arancino)
+#### Meat Ragù option
+ - 200 g Ragù (Bolognese-style - see [Ragu](../ragu.md)) 
+
+ #### Mozzarella option
+- 150 g low-moisture mozzarella (cut into 1 ½ cm cubes - one cube per arancino)
 
 ### Coating
 - 100 g plain flour

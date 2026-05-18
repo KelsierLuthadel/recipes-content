@@ -27,7 +27,10 @@ Almond paste: ground almonds, icing sugar, melted butter, cinnamon, orange-flowe
 ### Pastry
 - 12 sheets warka (or filo pastry, large rounds preferred; rectangles work - cut to ~30 × 25 cm)
 - 80 g unsalted butter (melted, for brushing)
-- 1 egg yolk + 1 tablespoon water (for the final wash)
+
+### Eggwash
+- 1 egg yolk
+- 1 tablespoon water
 
 ### Garnish
 - 2 tablespoons icing sugar

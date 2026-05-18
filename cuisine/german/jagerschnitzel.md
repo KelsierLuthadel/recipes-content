@@ -21,7 +21,8 @@ Pork loin escalopes pound thin, bread, and shallow-fry. While they crisp, a sauc
 - 200 g fine breadcrumbs
 - salt
 - pepper
-- 4 tablespoons vegetable oil + 30 g butter for shallow-frying
+- 4 tablespoons vegetable oil 
+- 30 g butter
 
 ### Mushroom sauce
 - 100 g smoked bacon lardons
@@ -44,7 +45,7 @@ Pork loin escalopes pound thin, bread, and shallow-fry. While they crisp, a sauc
 ## Method
 
 ### Stage 1 - Sauce
-1. Heat the oil in a wide heavy pan; cook the lardons until the fat renders and they're crisp.
+1. Heat the oil and butter in a wide heavy pan; cook the lardons until the fat renders and they're crisp.
 1. Add the onion; cook 5 minutes.
 1. Add the garlic and mushrooms; cook 6-7 minutes until any liquid has evaporated and the mushrooms are golden.
 1. Pour in the wine; let it reduce by half.

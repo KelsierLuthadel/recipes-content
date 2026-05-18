@@ -34,7 +34,7 @@ Lamb mince fries with onion, garlic, cumin, coriander and chilli to a dry savour
 
 ### Wrapping and frying
 - 24 spring-roll pastry sheets (cut into 8 x 25 cm strips)
-- 2 tablespoons plain flour + 3 tablespoons water (paste, for sealing)
+- 2 tablespoons plain flour (with 3 tablespoons water)
 - 1 litre vegetable oil for deep frying
 - Lemon wedges and sahawiq, to serve
 

@@ -36,9 +36,12 @@ A simple egg-and-flour pasta dough rolls thin. The filling is spinach (frozen, t
 - pepper
 
 ### To serve
-- 1 ½ litres vegetable stock (for in-broth)
-- OR: 50 g butter + 1 large onion sliced (for pan-fried)
-- 4 fried eggs (optional, with pan-fried)
+#### For Broth
+- 1 ½ litres vegetable stock
+
+#### Pan Fried
+- 50 g butter + 1 large onion sliced
+- 4 fried eggs (optional)
 
 ## Method
 

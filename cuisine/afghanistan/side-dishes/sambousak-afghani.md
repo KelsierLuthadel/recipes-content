@@ -32,7 +32,7 @@ Lamb mince is fried with onion, leek, garlic, ginger, ground coriander, cumin, c
 
 ### Wrapping and frying
 - 20 spring-roll pastry sheets (cut into 8 x 25 cm strips)
-- 2 tablespoons plain flour + 3 tablespoons cold water (paste, for sealing)
+- 2 tablespoons plain flour (with 3 tablespoons cold water)
 - 1 litre vegetable oil for deep frying
 
 ### To serve

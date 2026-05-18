@@ -47,7 +47,8 @@ Bone-in mutton (or lamb) marinates for 4 hours in yogurt, ginger-garlic paste, d
 - 2 tablespoons ghee (melted)
 
 ### Seal
-- 300 g plain flour + 150 ml water (for dough seal - or use 2 layers of foil)
+- 300 g plain flour 
+- 150 ml water (for dough seal - or use 2 layers of foil)
 
 ## Method
 

@@ -26,11 +26,19 @@ Cake base: butter creams with sugar, eggs in one at a time, flour and baking pow
 - 1 lemon (zest)
 
 ### Fruit topping (choose one or mix)
+#### Apple
 - 500 g apples (peeled, cored, sliced 5 mm)
 - 1 tablespoon lemon juice
-- OR 400 g plums (stoned, halved)
-- OR 400 g raspberries
-- OR 350 g rhubarb (cut into 2 cm pieces) + 30 g extra sugar
+
+#### Plums
+- 400 g plums (stoned, halved)
+
+#### Raspberry
+- 400 g raspberries
+
+#### Rhubarb
+- 350 g rhubarb (cut into 2 cm pieces) 
+- 30 g extra sugar
 
 ### Streusel
 - 80 g plain flour

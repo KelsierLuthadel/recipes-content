@@ -26,7 +26,7 @@ Egg whites whip with sugar to stiff glossy peaks; cornflour and white wine vineg
 - 500 ml double cream
 - 2 tablespoons icing sugar
 - 1 teaspoon vanilla extract
-- 400 g mixed berries (strawberries, raspberries, blackberries) or passion fruit + mango or whatever's in season
+- 400 g mixed berries (strawberries, raspberries, blackberries)
 - A small handful of fresh mint leaves
 
 ## Method

@@ -2,7 +2,6 @@
 name: Summer BBQ
 tagline: Smoke, char, and cold drinks. The cookout season opens here.
 publishedAt: 2026-05-15
-seasonalrange: 06-01..08-31
 ---
 
 Summer cooking moves outdoors. The oven goes off and stays off, the grill takes over, and the kitchen is reduced to a holding area for the salads and the dessert. This is the season of long marinades, charred edges, smoke that hangs in your clothes for hours afterwards, and the kind of meals that start at five and finish whenever the light goes.

@@ -34,8 +34,13 @@ An enriched yeast dough (lots of egg yolks, butter, sugar, a splash of rum) prov
 - 350 g good-quality jam (rose petal, plum butter (powidła), or thick blackcurrant)
 
 ### To finish (choose one)
+#### Icing
 - 100 g icing sugar (for dusting)
-- OR 150 g icing sugar + 3 tablespoons fresh orange juice + finely chopped candied orange peel (for glazing)
+
+#### Orange Icing
+- 150 g icing sugar
+- 3 tablespoons fresh orange juice
+- candied orange peel (finely chopped)
 
 ## Method
 

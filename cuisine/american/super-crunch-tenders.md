@@ -15,7 +15,7 @@ A competition-winning fried tender from chef Jessica Fulks where everything is b
 ## Ingredients
 
 - 12 chicken tenders
-- 24 ml (Buffalo sauce)[../../sauces/sauce-spicy/buffalo-sauce.md]
+- 24 ml [Buffalo sauce](../../sauces/sauce-spicy/buffalo-sauce.md)
 
 ### Flour dredge
 - 2 ½ cups plain flour

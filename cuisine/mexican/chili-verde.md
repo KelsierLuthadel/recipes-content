@@ -41,7 +41,8 @@ Tomatillos, poblanos, jalapeños, garlic and onion roast under the grill until b
 - Lime wedges
 - Sliced radish
 - Crumbled queso fresco (or feta)
-- Diced white onion + coriander
+- Diced white onion 
+- Coriander
 - White rice (or pinto beans)
 
 ## Method

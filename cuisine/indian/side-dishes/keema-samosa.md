@@ -35,7 +35,7 @@ Lamb mince fries with onion, garlic, ginger and a spice mix of garam masala, cum
 
 ### Wrapping
 - 16 spring-roll pastry sheets (cut into 8 x 25 cm strips)
-- 2 tablespoons plain flour + 3 tablespoons water (paste)
+- 2 tablespoons plain flour (with 3 tablespoons water)
 - 1 litre vegetable oil for deep frying
 
 ### To serve

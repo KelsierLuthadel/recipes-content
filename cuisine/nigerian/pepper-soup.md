@@ -25,7 +25,7 @@ Bone-in goat (or chicken or catfish, fish takes much less time) simmers in light
 - 2 Maggi chicken stock cubes
 - 1 ½ teaspoons salt (to taste)
 - 1.8 litres water
-- 1 small bunch scent leaf (efinrin) or fresh basil + a sprig of mint
+- 1 small bunch scent leaf (or fresh basil + a sprig of mint)
 - 2 spring onions (sliced, to finish)
 
 ### To serve

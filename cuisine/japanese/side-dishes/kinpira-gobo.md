@@ -15,7 +15,7 @@ Burdock root (gobo, long thin brown root sold at Japanese / Korean / well-stocke
 ## Ingredients
 
 ### Vegetables
-- 200 g fresh burdock root (or gobo, about 1 large root, OR substitute 200 g parsnip)
+- 200 g fresh burdock root (or 200 g parsnip)
 - 200 g carrots (peeled)
 - 2 tablespoons rice vinegar (for the soaking water, gobo only)
 

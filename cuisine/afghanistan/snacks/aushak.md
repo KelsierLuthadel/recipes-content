@@ -23,7 +23,7 @@ Leeks (or scallions) are chopped fine, salted briefly to weep, squeezed dry, the
 - 1 tablespoon olive oil
 
 ### Wrappers
-- 30 square wonton wrappers (Asian shops) OR a fresh dough of 250 g plain flour + 130 ml water + ½ teaspoon salt, rested 30 min and rolled thin
+- 30 square wonton wrappers
 
 ### Meat sauce
 - 2 tablespoons sunflower oil

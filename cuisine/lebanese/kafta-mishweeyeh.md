@@ -35,7 +35,8 @@ Mince combines with grated onion, very-finely chopped parsley, garlic, allspice,
 - Garlic toum (lebanese garlic emulsion)
 - Hummus
 - Pickled turnips (pink)
-- Sliced raw onion + sumac
+- Sliced raw onion
+- Pinch of sumac
 - Fresh parsley sprigs
 - Lemon wedges
 
