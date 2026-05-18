@@ -19,11 +19,12 @@ Wilted spinach with onion, garlic and thyme is spread over pre-prepared pinsa ba
 - 1 garlic clove (thinly sliced)
 - 2 teaspoons fresh thyme (chopped)
 - 250 grams spinach leaves (washed)
-- Salt and pepper
+- salt
+- pepper
 
 ### Pizza
 - 2 pinsa romana bases
-- 125 grams fontina cheese or mozzarella (thinly sliced)
+- 125 grams fontina cheese (or mozzarella, thinly sliced)
 - 2 tablespoons pine nuts
 - 2 tablespoons grated parmesan
 

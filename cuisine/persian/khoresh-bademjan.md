@@ -34,7 +34,7 @@ Aubergines are peeled in stripes, sliced into 1 ½ cm-thick rounds (or 2 cm-thic
 
 ### To finish
 - 1 large pinch saffron threads (soaked in 3 tablespoons hot water)
-- 3 tablespoons verjuice (sour-grape juice) - OR juice of 1 lemon
+- 3 tablespoons verjuice (sour-grape juice, OR juice of 1 lemon)
 - 1 teaspoon dried mint (optional)
 - 2 tomatoes (sliced thin, optional, for topping)
 

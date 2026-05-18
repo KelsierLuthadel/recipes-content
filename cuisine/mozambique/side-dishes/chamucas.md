@@ -24,8 +24,9 @@ Mince browns with onion, garlic, curry powder, ginger and a small chopped chilli
 - 1 teaspoon paprika
 - 1 fresh bird's-eye chilli (very finely chopped)
 - 2 tablespoons fresh coriander (chopped)
-- Juice of ½ lime
-- Salt and black pepper
+- ½ lime (juice)
+- salt
+- pepper
 
 ### Pastry and sealing
 - 20 spring-roll pastry sheets (cut into 8 x 25 cm strips)

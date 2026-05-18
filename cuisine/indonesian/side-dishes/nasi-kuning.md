@@ -16,7 +16,7 @@ Jasmine or basmati rice rinses, soaks for 30 minutes. Coconut milk, water, fresh
 - 400 g long-grain rice (jasmine or basmati)
 - 400 ml coconut milk (1 standard tin)
 - 200 ml water
-- 30 g fresh turmeric (peeled, finely grated) - substitute 1 ½ teaspoons ground turmeric
+- 30 g fresh turmeric (peeled, finely grated, substitute 1 ½ teaspoons ground turmeric)
 - 2 lemongrass stalks (bashed with the back of a knife, knotted)
 - 4 kaffir lime leaves (torn, central rib removed)
 - 1 ½ teaspoons salt
@@ -26,7 +26,7 @@ Jasmine or basmati rice rinses, soaks for 30 minutes. Coconut milk, water, fresh
 ### To serve (typical accompaniments)
 - Fried shallots (bawang goreng - sold ready)
 - A fried egg per person
-- Sambal terasi or sambal oelek
+- Sambal terasi (or sambal oelek)
 - Cucumber slices
 
 ## Method

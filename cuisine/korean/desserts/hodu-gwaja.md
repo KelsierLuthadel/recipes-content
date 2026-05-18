@@ -25,7 +25,7 @@ A simple cake-style batter, flour, eggs, milk, sugar, butter, is whisked to a sm
 - 1 teaspoon vanilla extract
 
 ### Filling
-- 300 g sweet red bean paste (pat) - Korean koshi-an or Japanese tsubu-an; sold ready
+- 300 g sweet red bean paste (pat, Korean koshi-an or Japanese tsubu-an; sold ready)
 - 12 walnut halves (good quality - they're a visible feature)
 
 ### To finish

@@ -23,7 +23,7 @@ Dried marrowfat peas soak overnight in cold water with bicarbonate of soda (the 
 - 1 teaspoon salt (to taste)
 - ½ teaspoon black pepper
 - 1 teaspoon caster sugar (optional)
-- 1 tablespoon mint sauce OR 2 tablespoons fresh mint (chopped) - optional
+- 1 tablespoon mint sauce OR 2 tablespoons fresh mint (chopped, optional)
 
 ### To serve
 - Malt vinegar (on the table - optional)

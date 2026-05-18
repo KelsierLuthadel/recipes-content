@@ -26,13 +26,13 @@ Dried jameed balls soak overnight then break down in water to form the cooking l
 - 1 ½ litres water (for the lamb)
 
 ### Rice
-- 500 g long-grain or basmati rice (rinsed)
+- 500 g long-grain (or basmati rice, rinsed)
 - 50 g unsalted butter
 - ½ teaspoon ground turmeric
 - 1 teaspoon salt
 
 ### To finish
-- 4 sheets shrak bread or markook (or 2 large lavash sheets)
+- 4 sheets shrak bread (or markook, or 2 large lavash sheets)
 - 50 g flaked almonds
 - 50 g pine nuts
 - 30 g unsalted butter

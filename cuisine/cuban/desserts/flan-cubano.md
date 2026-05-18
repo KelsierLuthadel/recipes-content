@@ -25,7 +25,7 @@ A dry caramel is made by melting sugar to a deep amber and poured into the botto
 - 410 g tin evaporated milk
 - 1 ½ teaspoons vanilla extract
 - ¼ teaspoon salt
-- Optional: zest of ½ lemon or 1 cinnamon stick infused into the milks
+- Optional: zest of ½ lemon (or 1 cinnamon stick infused into the milks)
 
 ## Method
 

@@ -16,7 +16,7 @@ A sugar syrup is cooked to soft-ball stage (118°C). Tahini is warmed slightly. 
 - 500 g tahini (smooth, well-stirred - old separated tahini won't work)
 - 400 g caster sugar
 - 150 ml water
-- 1 tablespoon liquid glucose or honey (prevents crystallisation)
+- 1 tablespoon liquid glucose (or honey, prevents crystallisation)
 - 1 teaspoon vanilla extract
 - A pinch of salt
 - 50 g pistachios (chopped, for topping)

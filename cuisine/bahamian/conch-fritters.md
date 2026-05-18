@@ -23,7 +23,7 @@ Conch is pounded briefly and finely chopped, mixed with onion, green and red pep
 - 1 celery stalk (very finely diced)
 - 2 spring onions (finely sliced)
 - 1 garlic clove (grated)
-- 1 scotch bonnet or goat pepper (very finely chopped; remove seeds for less heat)
+- 1 scotch bonnet (or goat pepper, very finely chopped; remove seeds for less heat)
 - 2 tablespoons chopped flat-leaf parsley
 - 1 lime (juice)
 - 1 teaspoon salt

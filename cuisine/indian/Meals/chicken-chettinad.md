@@ -35,7 +35,7 @@ Whole spices dry-toast in a pan until aromatic; grind with grated coconut, dried
 - 1 tablespoon ginger-garlic paste
 
 ### To cook
-- 4 tablespoons coconut oil or vegetable oil
+- 4 tablespoons coconut oil (or vegetable oil)
 - 8 shallots (small, sliced) or 1 large onion (finely chopped)
 - 2 sprigs fresh curry leaves
 - 3 fresh green chillies (slit)

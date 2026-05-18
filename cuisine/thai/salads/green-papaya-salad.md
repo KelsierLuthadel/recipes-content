@@ -27,7 +27,7 @@ Famous Thai salad (som tum) with sour, sweet, savory, and spicy flavors. Pounded
 - 1 tbsp palm sugar, grated and finely chopped
 - 1 tbsp tamarind paste
 - 2 tbsp Thai fish sauce
-- Juice of 1 large lime
+- 1 lime (large, juice)
 
 ### Vegetables and fruit
 - 400 g (14 oz) green papaya, grated

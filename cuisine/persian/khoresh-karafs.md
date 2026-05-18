@@ -29,12 +29,12 @@ Lamb shoulder is browned in oil; sliced onion is softened to gold; turmeric and 
 - 1 large head celery (8-10 stalks, leaves reserved - about 500 g)
 - 3 tablespoons sunflower oil
 - 1 large bunch fresh flat-leaf parsley (chopped - about 50 g)
-- 1 small bunch fresh mint (chopped - about 25 g) - or 2 tablespoons dried mint
+- 1 small bunch fresh mint (chopped - about 25 g, or 2 tablespoons dried mint)
 - A handful of celery leaves (chopped - they go in for extra flavour)
 
 ### To finish
 - 1 large pinch saffron threads (soaked in 3 tablespoons hot water)
-- Juice of 2 lemons (about 4 tablespoons) - or 3 tablespoons verjuice
+- 2 lemons (about 4 tablespoons, or 3 tablespoons verjuice, juice)
 - 1 teaspoon salt (to taste)
 
 ### To serve

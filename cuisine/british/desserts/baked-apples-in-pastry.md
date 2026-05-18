@@ -37,7 +37,7 @@ An impressive individual dessert presentation featuring whole apples at their ce
 1. Put the 'caged' apple on a baking sheet and prepare the others in the same way.
 1. Bake in the oven for about 90 minutes, checking with a knife tip that the apples are cooked; it should slide in with no resistance.
 1. Remove the apples from the oven, dust with the sugar and glaze with a cook's blowtorch or place under a very hot grill until the sugar begins to melt on the pastry.
-1. Serve within half an hour.
+1. Serve within ½ hour.
 
 ## Notes
 - Jasmine tea provides subtle floral character without overpowering the delicate apple flavor; strong tea would be unpleasant, so use fragrant jasmine sparingly

@@ -12,18 +12,18 @@
 The Glaswegian curry-house favourite: a pink-orange sweet-and-savoury sauce built on tomato puree, mango chutney, yogurt and double cream. Mild, sweet, faintly tangy. Not authentic to any subcontinental region, but a defining BIR plate in Scotland.
 
 ## Ingredients
-- 3 tbsp ghee or rapeseed oil or seasoned oil
+- 3 tbsp ghee (or rapeseed oil or seasoned oil)
 - 2 tbsp garlic and ginger paste
 - ½ tsp ground turmeric 
 - 500ml [base curry sauce](../Base/curry-base.md) (heated )
 - 800g [pre-cooked stewed chicken](../Base/pre-cooked-chicken.md)
-- 125ml of curry base or stock from [pre-cooked stewed chicken](../Base/curry-base.md)
+- 125ml of curry base (or stock from [pre-cooked stewed chicken], ../Base/curry-base.md)
 - 3 tbsp smooth mango chutney
 - 2 tbsp mint sauce 
 - 3 tbsp tomato ketchup 
 - 1 tbsp ground cumin 
 - 200ml double cream 
-- Juice of 1 or 2 lemons, to taste 
+- 1 (or 2 lemons), to taste (juice)
 - Bright red food colouring powder (optional) 
 - ½ tsp [garam masala](../Spice-Mixes/garam-masala.md)
 - 3 tbsp very finely chopped coriander

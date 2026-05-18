@@ -11,7 +11,7 @@
 - 6 tablespoons runny honey
 - 4 star anise
 - 6 peaches
-- juice of 2 lemons
+- 2 lemons (juice)
 - small pinch of freshly grated nutmeg
 
 ## Overview

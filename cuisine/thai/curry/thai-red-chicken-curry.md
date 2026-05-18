@@ -17,7 +17,7 @@ Classic Thai restaurant favorite with red curry paste. Color from chillies; use 
 
 ## Ingredients
 ### Fat
-- 2 tbsp coconut oil or rapeseed (canola) oil
+- 2 tbsp coconut oil (or rapeseed, canola) oil
 
 ### Paste
 - 1 batch Thai red curry paste

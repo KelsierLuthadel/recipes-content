@@ -41,10 +41,10 @@ Alur chop (alu meaning potato, chop being a Bengali loan-word for a fried cutlet
 - 150-170 ml cold water
 
 ### To fry and serve
-- 500 ml mustard oil or neutral oil
+- 500 ml mustard oil (or neutral oil)
 - 1 red onion (small, sliced into rings, to serve)
 - 2 green chillies (to serve)
-- Kasundi mustard or tomato ketchup (to serve)
+- Kasundi mustard (or tomato ketchup, to serve)
 
 ## Method
 

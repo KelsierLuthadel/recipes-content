@@ -17,7 +17,7 @@ Whole beetroots roast in foil at 200°C until a knife slides through (45 minutes
 - 500 g medium beetroots (about 3)
 - 4 tablespoons tahini
 - 2 tablespoons Greek yogurt
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 garlic clove
 - ½ teaspoon ground cumin
 - ½ teaspoon salt

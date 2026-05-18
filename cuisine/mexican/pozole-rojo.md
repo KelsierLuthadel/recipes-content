@@ -21,7 +21,7 @@ Pork shoulder and pork ribs are simmered with onion, garlic and bay until tender
 - 6 garlic cloves (whole)
 - 2 bay leaves
 - 1 tablespoon salt
-- Water to cover (about 2.5 litres)
+- Water to cover (about 2 ½ litres)
 
 ### Red chilli base
 - 6 guajillo chillies (stems and seeds removed)
@@ -42,7 +42,7 @@ Pork shoulder and pork ribs are simmered with onion, garlic and bay until tender
 - 1 white onion (finely diced)
 - 1 lime (cut into wedges)
 - Dried Mexican oregano
-- Tostadas or warm corn tortillas
+- Tostadas (or warm corn tortillas)
 
 ## Method
 

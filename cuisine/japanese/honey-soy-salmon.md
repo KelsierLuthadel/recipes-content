@@ -29,7 +29,7 @@ Salmon fillets sear skin-side down for crisp skin, then bathe in a quick honey-s
 
 ### Vegetables
 - 1 head broccoli (florets) or 4 heads bok choy (halved)
-- 50 ml chicken stock or water
+- 50 ml chicken stock (or water)
 
 ### To finish
 - 2 spring onions (sliced)

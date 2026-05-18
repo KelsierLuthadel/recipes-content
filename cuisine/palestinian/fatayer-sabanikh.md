@@ -31,7 +31,7 @@ A soft yeasted olive-oil dough rises for 45 minutes. The filling: spinach wilts 
 - 2 tablespoons fresh lemon juice
 - 1 tablespoon pomegranate molasses
 - 3 tablespoons olive oil
-- 30 g pine nuts (toasted) - optional but traditional
+- 30 g pine nuts (toasted, optional but traditional)
 - 1 teaspoon chilli flakes
 - ½ teaspoon black pepper
 

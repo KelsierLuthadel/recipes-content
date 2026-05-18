@@ -25,7 +25,8 @@ A vibrant, classically French cold sauce combining hard-boiled egg yolks with ta
 - 30 grams capers (drained)
 - 30 grams cornichons (finely diced)
 - 2 tablespoons Fines Herbes (finely snipped)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

@@ -24,7 +24,7 @@ Chicken poaches with onion, cardamom and bay 35 minutes; shredded off the bone. 
 - 1.4 litres water
 
 ### Chickpeas
-- 1 (400 g) tin chickpeas (drained and rinsed) - or 200 g dried, soaked and cooked
+- 1 (400 g) tin chickpeas (drained and rinsed, or 200 g dried, soaked and cooked)
 
 ### Pita
 - 2 pita breads (large, split open and torn into 3-4 cm pieces)
@@ -34,11 +34,11 @@ Chicken poaches with onion, cardamom and bay 35 minutes; shredded off the bone. 
 - 500 g Greek yogurt
 - 3 tablespoons tahini
 - 4 garlic cloves (crushed to a paste with ½ tsp salt)
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 100 ml warm chicken stock (to loosen)
 
 ### Taqliya (sizzle)
-- 4 tablespoons unsalted butter or ghee
+- 4 tablespoons unsalted butter (or ghee)
 - 4 garlic cloves (sliced)
 - 1 teaspoon ground cumin
 - 1 teaspoon chilli flakes

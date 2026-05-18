@@ -28,7 +28,7 @@ Chicken breasts butterfly and pound to 5 mm thick. Dredge through seasoned flour
 ### To serve
 - Lemon wedges
 - Israeli salata
-- Pita or rice
+- Pita (or rice)
 
 ## Method
 

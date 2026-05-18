@@ -31,7 +31,7 @@ A dark roux is built first, flour cooked in oil to peanut-butter brown. The Caju
 
 ### Greens
 - 1 bunch collard greens (around 250 g; tough stems removed; chopped)
-- 1 bunch mustard greens or turnip tops (around 200 g; chopped)
+- 1 bunch mustard greens (or turnip tops, around 200 g; chopped)
 - 1 bunch kale (around 200 g; chopped)
 - 1 bunch flat-leaf parsley (chopped)
 - 200 g spinach (chopped)

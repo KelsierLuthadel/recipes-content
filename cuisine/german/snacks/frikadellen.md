@@ -23,7 +23,7 @@ A bread roll soaks in milk, squeezes out and mixes with minced pork and beef, fi
 - 1 onion (large, very finely chopped)
 - 1 tablespoon butter (for sweating the onion)
 - 1 egg (large)
-- 2 tablespoons German or Dijon mustard
+- 2 tablespoons German (or Dijon mustard)
 - 2 teaspoons dried marjoram
 - 2 teaspoons fine salt
 - 1 teaspoon freshly ground black pepper
@@ -35,7 +35,7 @@ A bread roll soaks in milk, squeezes out and mixes with minced pork and beef, fi
 
 ### To serve
 - German mustard (mittelscharf)
-- Bread rolls or rye bread
+- Bread rolls (or rye bread)
 - Gherkins
 
 ## Method

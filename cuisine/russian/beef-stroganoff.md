@@ -14,14 +14,15 @@ Strips of fillet or sirloin sear hard in a hot pan and lift out so they don't ov
 
 ## Ingredients
 
-- 600 g beef fillet or sirloin (cut into 1 cm strips against the grain)
+- 600 g beef fillet (or sirloin, cut into 1 cm strips against the grain)
 - 2 tablespoons plain flour
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - 30 g unsalted butter (split)
 - 2 tablespoons vegetable oil
 - 1 onion (finely sliced)
 - 300 g chestnut mushrooms (sliced)
-- 50 ml brandy or dry white wine
+- 50 ml brandy (or dry white wine)
 - 250 ml beef stock
 - 1 tablespoon Dijon mustard
 - 200 ml soured cream
@@ -29,7 +30,7 @@ Strips of fillet or sirloin sear hard in a hot pan and lift out so they don't ov
 - Lemon juice, to finish
 
 ### To serve
-- 400 g egg noodles or 250 g long-grain rice (cooked)
+- 400 g egg noodles (or 250 g long-grain rice, cooked)
 
 ## Method
 

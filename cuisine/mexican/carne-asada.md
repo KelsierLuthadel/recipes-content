@@ -16,8 +16,8 @@ Skirt or flank steak (cuts that take a marinade well and grill fast) sit in a pu
 
 ### Marinade
 - 1 kg skirt steak (or flank)
-- Juice of 4 limes
-- Juice of 1 large orange
+- 4 limes (juice)
+- 1 orange (large, juice)
 - 4 garlic cloves (crushed)
 - 1 jalapeño (seeded, finely chopped)
 - A handful of fresh coriander (chopped, stems included)
@@ -29,7 +29,7 @@ Skirt or flank steak (cuts that take a marinade well and grill fast) sit in a pu
 - ½ teaspoon black pepper
 
 ### To serve
-- Warm corn or flour tortillas
+- Warm corn (or flour tortillas)
 - Charred salsa (or pico de gallo)
 - Lime wedges
 - Sliced avocado

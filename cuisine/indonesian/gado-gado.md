@@ -34,7 +34,7 @@ A mix of raw and lightly-blanched vegetables; firm tofu pan-fried; hard-boiled e
 - 2 tablespoons light soy sauce
 - 1 tablespoon tamarind paste (or lime juice if unavailable)
 - 2 tablespoons brown sugar
-- Juice of 1 lime
+- 1 lime (juice)
 - 200-300 ml hot water (to loosen)
 - Salt to taste
 

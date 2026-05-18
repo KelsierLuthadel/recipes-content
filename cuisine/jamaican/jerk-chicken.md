@@ -27,7 +27,7 @@ A wet jerk paste: scotch bonnet chillies, garlic, ginger, spring onions, thyme, 
 - ½ teaspoon ground nutmeg
 - 3 tablespoons soft brown sugar
 - 3 tablespoons dark soy sauce
-- Juice of 2 limes
+- 2 limes (juice)
 - 4 tablespoons vegetable oil
 - 1 tablespoon white vinegar
 - 1 ½ teaspoons salt

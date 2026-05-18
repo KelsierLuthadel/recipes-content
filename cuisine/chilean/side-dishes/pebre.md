@@ -20,7 +20,7 @@ Tomato, onion and coriander chop fine. Garlic, ají chilli (or red chilli), oliv
 - 2 garlic cloves (crushed)
 - 1-2 fresh red chillies, or 1 ají chilli (very finely chopped)
 - 4 tablespoons olive oil
-- 2 tablespoons red wine vinegar or lemon juice
+- 2 tablespoons red wine vinegar (or lemon juice)
 - 1 teaspoon salt
 - ½ teaspoon ground black pepper
 

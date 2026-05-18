@@ -29,7 +29,7 @@ A whole aubergine is charred directly over a gas flame until the skin is blacken
 - A handful of coriander (chopped, plus extra to serve)
 
 ### To serve
-- Roti or paratha
+- Roti (or paratha)
 - A wedge of lime
 
 ## Method

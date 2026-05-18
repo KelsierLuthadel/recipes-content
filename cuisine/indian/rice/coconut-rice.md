@@ -15,7 +15,7 @@ Plain steamed rice (often last night's leftovers) is the base. A hot temper of m
 ## Ingredients
 
 ### Rice
-- 250 g basmati or sona masuri rice (cooked and cooled, about 600 g cooked weight)
+- 250 g basmati (or sona masuri rice, cooked and cooled, about 600 g cooked weight)
 
 ### Temper
 - 3 tablespoons coconut oil

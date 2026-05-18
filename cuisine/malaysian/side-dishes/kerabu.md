@@ -21,7 +21,7 @@ Winged beans are sliced thin and tossed with kerisik (toasted grated coconut pou
 - 8 Vietnamese mint (laksa) leaves (optional, torn)
 
 ### Kerisik (Toasted Coconut)
-- 60 grams fresh or frozen grated coconut, defrosted (or 50 grams desiccated coconut moistened with 2 tablespoons water)
+- 60 grams fresh (or frozen grated coconut), defrosted (or 50 grams desiccated coconut moistened with 2 tablespoons water)
 
 ### Dressing
 - 2 tablespoons dried shrimp

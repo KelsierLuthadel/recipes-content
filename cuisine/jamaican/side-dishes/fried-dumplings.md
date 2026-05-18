@@ -37,7 +37,7 @@ A no-yeast quick dough: plain flour, baking powder, a touch of sugar, salt, and 
 ### Stage 2 - Shape
 1. Divide the dough into 8 equal pieces.
 2. Roll each into a smooth ball between your palms.
-3. Flatten each slightly to about 1.5 cm thick and 6 cm wide.
+3. Flatten each slightly to about 1 ½ cm thick and 6 cm wide.
 
 ### Stage 3 - Fry
 1. Heat the oil in a deep frying pan or wide saucepan to 170°C (a small pinch of dough should sizzle steadily on contact, browning in about a minute).

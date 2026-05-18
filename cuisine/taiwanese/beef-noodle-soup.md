@@ -35,7 +35,7 @@ Beef shank parboils briefly to remove scum. Aromatics, ginger, garlic, scallion,
 - 100 ml light soy sauce
 - 2 tablespoons dark soy sauce (for colour)
 - 30 g rock sugar (or 2 tablespoons brown sugar)
-- 2 litres beef stock or water
+- 2 litres beef stock (or water)
 - 1 teaspoon salt (or to taste)
 
 ### To serve
@@ -44,7 +44,7 @@ Beef shank parboils briefly to remove scum. Aromatics, ginger, garlic, scallion,
 - 4 spring onions (sliced)
 - A small bunch of coriander (chopped)
 - Chilli oil (to drizzle)
-- Bok choy or pak choi (blanched briefly, optional)
+- Bok choy (or pak choi, blanched briefly, optional)
 
 ## Method
 

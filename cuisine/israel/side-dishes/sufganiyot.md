@@ -29,7 +29,7 @@ A rich yeasted dough, flour, yeast, sugar, salt, butter, eggs, milk and a splash
 - 1 ½ litres vegetable oil
 
 ### Filling and finish
-- 300 g strawberry, raspberry or apricot jam (smooth, not chunky)
+- 300 g strawberry, raspberry (or apricot jam, smooth, not chunky)
 - 150 g icing sugar
 
 ## Method

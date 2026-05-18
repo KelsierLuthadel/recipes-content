@@ -20,7 +20,7 @@ Fresh whole sardines (ideally the small finger-length variety from June-August) 
 
 ### To serve
 - 4 thick slices of crusty country bread
-- 2 red bell peppers (roasted, peeled, sliced) - optional
+- 2 red bell peppers (roasted, peeled, sliced, optional)
 - 1 small bunch fresh parsley
 - 2 lemons (cut into wedges)
 - 4 boiled new potatoes (optional)

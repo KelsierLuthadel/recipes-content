@@ -32,8 +32,8 @@ The combination of spices and tomato gives this rice its distinctive yellow-oran
 
 ### Liquid Base
 - 100ml tomato passata
-- 100ml light chicken stock or vegetable stock
-- water or stock as needed
+- 100ml light chicken stock (or vegetable stock)
+- water (or stock as needed)
 
 ## Method
 

@@ -25,13 +25,14 @@ Lamb shoulder cubes brown deeply, then simmer slow with onion, garlic and a Moro
 - 1 teaspoon sweet paprika
 - ½ teaspoon ground turmeric
 - A pinch of saffron threads
-- 700 ml chicken or lamb stock
+- 700 ml chicken (or lamb stock)
 - 2 tablespoons honey
 - 200 g dried apricots
 - 50 g toasted flaked almonds
 - A small bunch of coriander (chopped)
-- Salt and freshly ground black pepper
-- Couscous or flatbread, to serve
+- salt
+- pepper
+- Couscous (or flatbread), to serve
 
 ## Method
 

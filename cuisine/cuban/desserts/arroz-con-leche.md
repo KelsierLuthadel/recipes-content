@@ -28,7 +28,7 @@ Short-grain rice (paella-style or pudding rice) cooks slow in a mix of water the
 
 ### To serve
 - Ground cinnamon, for dusting
-- Optional: a tablespoon of raisins per serving, soaked in 1 tablespoon dark rum or hot water
+- Optional: a tablespoon of raisins per serving, soaked in 1 tablespoon dark rum (or hot water)
 
 ## Method
 

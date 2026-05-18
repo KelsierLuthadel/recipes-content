@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Fine semolina mixes with a little plain flour, sugar, baking powder, salt. Melted butter rubs in until the mixture resembles damp sand. Warm milk pours in to bind; the dough should be soft, slightly tacky, not sticky. Divides into 6 portions; each shapes into a disc 8 cm across and 1.5 cm thick. Dredges in extra semolina (the iconic crunchy coating). Pan-fries on a dry hot skillet 4-5 minutes per side, turning carefully (they're delicate).
+Fine semolina mixes with a little plain flour, sugar, baking powder, salt. Melted butter rubs in until the mixture resembles damp sand. Warm milk pours in to bind; the dough should be soft, slightly tacky, not sticky. Divides into 6 portions; each shapes into a disc 8 cm across and 1 ½ cm thick. Dredges in extra semolina (the iconic crunchy coating). Pan-fries on a dry hot skillet 4-5 minutes per side, turning carefully (they're delicate).
 
 ## Ingredients
 - 400 g fine semolina (durum)
@@ -24,7 +24,7 @@ Fine semolina mixes with a little plain flour, sugar, baking powder, salt. Melte
 
 ### To serve
 - Butter
-- Honey, jam, amlou or soft cheese
+- Honey, jam, amlou (or soft cheese)
 
 ## Method
 
@@ -40,7 +40,7 @@ Fine semolina mixes with a little plain flour, sugar, baking powder, salt. Melte
 ### Stage 3 - Shape
 1. Spread the extra semolina on a plate.
 1. Divide the dough into 6 portions (~120 g each).
-1. Shape each into a flat disc 8 cm across and 1.5 cm thick (use damp hands if it sticks).
+1. Shape each into a flat disc 8 cm across and 1 ½ cm thick (use damp hands if it sticks).
 1. Press each disc into the extra semolina to coat both sides.
 
 ### Stage 4 - Pan-fry

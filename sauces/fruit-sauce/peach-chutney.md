@@ -17,7 +17,7 @@ A jewelled preserve capturing summer peaches with warming spice and bright citru
 
 ### Base & aromatics
 - 60 grams cooking apples (cored, peeled and grated)
-- half a teaspoon salt
+- ½ teaspoon salt
 - 125 grams very ripe tomatoes (peeled, de-seeded and chopped)
 - 60 grams onion (finely chopped)
 - 1 clove garlic (crushed)
@@ -25,10 +25,10 @@ A jewelled preserve capturing summer peaches with warming spice and bright citru
 
 ### Spices & citrus
 - 1 lime (finely pared and chopped, zest)
-- juice of 1 lime
-- half a teaspoon ground cinnamon
-- half a teaspoon ground nutmeg
-- half a teaspoon white pepper
+- 1 lime (juice)
+- ½ teaspoon ground cinnamon
+- ½ teaspoon ground nutmeg
+- ½ teaspoon white pepper
 
 ### Sugar & liquid
 - 150 grams caster sugar

@@ -31,7 +31,8 @@ Elegant individual flans featuring fresh shellfish, mussels, scallops, and lango
 ### Custard
 - 75 ml double cream
 - 1 whole egg
-- Salt and freshly ground pepper
+- salt
+- pepper
 
 ## Method
 ### Make the filling

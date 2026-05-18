@@ -16,7 +16,7 @@ Herbs are chopped finely, really finely, to a green confetti. Eggs are whisked w
 
 - 100 g fresh parsley (40 g leaves and tender stems)
 - 100 g fresh coriander (leaves and tender stems)
-- 50 g fresh chives or spring onion greens
+- 50 g fresh chives (or spring onion greens)
 - 50 g fresh dill
 - 30 g fresh fenugreek leaves (or 1 tablespoon dried)
 - 1 leek (medium, white and pale green only - finely sliced)

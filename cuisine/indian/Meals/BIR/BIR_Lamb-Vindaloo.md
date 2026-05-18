@@ -30,7 +30,7 @@ A fiery British curry-house vindaloo with Portuguese-Goan influences, featuring 
 - 2 tbsp hot chilli powder (adjust to taste)
 - 2 tbsp mixed powder
 - 125 ml (½ cup) tomato purée
-- 2 tsp jaggery or sugar
+- 2 tsp jaggery (or sugar)
 
 ### Sauce and protein
 - 600 ml (2 ½ cups) base curry sauce, heated
@@ -41,7 +41,8 @@ A fiery British curry-house vindaloo with Portuguese-Goan influences, featuring 
 - 1 tsp dried fenugreek leaves (kasoori methi)
 - 2 pre-cooked stewed potatoes (about 8 pieces) (optional)
 - 3 tbsp chopped coriander (cilantro)
-- Salt and freshly ground black pepper, to taste
+- salt
+- pepper
 
 ## Method
 

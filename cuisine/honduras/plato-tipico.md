@@ -15,9 +15,9 @@ Steak (a thin cut like skirt or sirloin) is marinated briefly with sour orange, 
 ## Ingredients
 
 ### Steak
-- 600 g flank, skirt or sirloin steak (cut into thin pieces)
-- Juice of 1 orange (or sour orange/naranja agria)
-- Juice of 1 lime
+- 600 g flank, skirt (or sirloin steak, cut into thin pieces)
+- 1 orange (or sour orange/naranja agria, juice)
+- 1 lime (juice)
 - 4 garlic cloves (crushed)
 - 1 teaspoon ground cumin
 - 1 teaspoon salt
@@ -31,7 +31,7 @@ Steak (a thin cut like skirt or sirloin) is marinated briefly with sour orange, 
 - 400 g refried beans (warmed)
 - 250 ml mantequilla (Honduran sour cream - or crème fraîche thinned with milk)
 - 2 ripe avocados (sliced)
-- 8 flour or corn tortillas (warmed)
+- 8 flour (or corn tortillas, warmed)
 - Salt for finishing
 - Pickled cabbage (curtido) or a small chimol salsa, on the side
 

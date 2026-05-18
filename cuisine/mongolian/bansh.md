@@ -33,7 +33,7 @@ A wheat-flour-and-water dough rests for 30 minutes. Mutton mince mixes with onio
 - 1 tablespoon vinegar (optional)
 
 ### Optional broth (for bansh-tai-shul)
-- 1 ½ litres mutton or beef stock
+- 1 ½ litres mutton (or beef stock)
 - 1 onion (small, sliced)
 - Fresh dill (chopped, to scatter)
 

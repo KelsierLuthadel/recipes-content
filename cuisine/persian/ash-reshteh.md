@@ -25,17 +25,17 @@ Dried beans (chickpeas + kidney beans + green lentils, OR the popular cheat of m
 - 2 onions (large, one finely diced, one sliced thin and reserved for the topping)
 - 1 ½ teaspoons ground turmeric
 - 2 teaspoons salt
-- 2 ½ litres water or vegetable stock
+- 2 ½ litres water (or vegetable stock)
 
 ### Herbs
 - 1 large bunch fresh parsley (about 60 g, chopped fine)
 - 1 large bunch fresh coriander (about 60 g, chopped fine)
 - 1 large bunch fresh dill (about 50 g, chopped fine)
-- 1 small bunch chives or spring onions (about 30 g, chopped)
+- 1 small bunch chives (or spring onions, about 30 g, chopped)
 - 400 g fresh spinach (washed, roughly chopped)
 
 ### Noodles
-- 200 g Persian reshteh noodles (sold at Iranian shops) - substitute linguine broken into 5 cm pieces if unavailable
+- 200 g Persian reshteh noodles (sold at Iranian shops, substitute linguine broken into 5 cm pieces if unavailable)
 
 ### Toppings (essential!)
 - 4 tablespoons sunflower oil (for fried onions)
@@ -43,7 +43,7 @@ Dried beans (chickpeas + kidney beans + green lentils, OR the popular cheat of m
 - 3 tablespoons sunflower oil (for mint oil)
 - 6 garlic cloves (sliced thin)
 - 2 tablespoons dried mint
-- 150 g kashk (Persian fermented whey, sold at Iranian shops) - substitute thick Greek yogurt + lemon juice if unavailable
+- 150 g kashk (Persian fermented whey, sold at Iranian shops, substitute thick Greek yogurt + lemon juice if unavailable)
 - 4 tablespoons plain Greek yogurt (extra, for the swirl)
 
 ## Method

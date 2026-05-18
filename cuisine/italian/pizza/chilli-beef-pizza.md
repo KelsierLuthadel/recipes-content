@@ -19,7 +19,8 @@ This is a pizza with substance and spice. A generous topping of seasoned beef an
 **Either:**
 - 200 grams plum tomatoes (tinned)
 - 1 teaspoon dried oregano
-- Salt and pepper to taste   
+- salt
+- pepper
 
 **Or:**
 - 220 grams [Pizza Sauce](pizza-sauce.md)
@@ -34,7 +35,8 @@ This is a pizza with substance and spice. A generous topping of seasoned beef an
 - ½ teaspoon ground cumin
 - 2 fresh red chillies (de-seeded and chopped)
 - 115 grams canned red kidney beans (drained and rinsed)
-- Salt and freshly ground pepper to taste
+- salt
+- pepper
 
 ### Cheese Topping
 - 50 grams mozzarella (shredded)

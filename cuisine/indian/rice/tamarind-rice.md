@@ -15,7 +15,7 @@ A spiced tamarind paste is built with a dry-roast of coriander, cumin, fenugreek
 ## Ingredients
 
 ### Rice
-- 250 g basmati or sona masuri rice (cooked and cooled, about 600 g cooked weight)
+- 250 g basmati (or sona masuri rice, cooked and cooled, about 600 g cooked weight)
 
 ### Tamarind paste
 - 60 g tamarind (lump; or 4 tablespoons of tamarind concentrate paste)

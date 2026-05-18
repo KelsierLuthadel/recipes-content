@@ -17,12 +17,13 @@ Trimmed green beans blanch in heavily salted boiling water for 3-4 minutes until
 - 500 g fresh green beans (haricots verts if you can find them - thinner and more elegant than ordinary green beans)
 - 2 tablespoons salt (for the blanching water)
 - 60 g unsalted butter
-- 50 g flaked / sliced almonds
+- 50 g flaked (or sliced almonds)
 - 1 garlic clove (small, very finely chopped, optional)
 - 1 teaspoon Dijon mustard (optional)
 - 1 tablespoon fresh lemon juice
 - 2 tablespoons fresh flat-leaf parsley (chopped)
-- Salt and black pepper to taste
+- salt
+- pepper
 - 1 lemon (cut into wedges, to serve)
 
 ## Method

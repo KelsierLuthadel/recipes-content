@@ -26,7 +26,8 @@ The essence of this recipe lies in knife technique: the beef must be cut into ve
 - 3 cm piece fresh root ginger (shredded)
 - 1 carrot (very fine julienne)
 - 3 fresh chillies (finely chopped)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Garnish
 - Fresh chives

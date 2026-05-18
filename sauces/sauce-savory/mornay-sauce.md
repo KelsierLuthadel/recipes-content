@@ -25,7 +25,8 @@ A refined derivative of béchamel sauce enriched with egg yolks, cream, and shar
 
 ### Seasoning
 - 1 pinch nutmeg
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

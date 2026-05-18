@@ -22,15 +22,16 @@ Cabbage is shredded finely; carrots and onion are shredded or grated alongside. 
 
 ### Dressing
 - 6 tablespoons mayonnaise
-- 2 tablespoons natural yogurt or soured cream
+- 2 tablespoons natural yogurt (or soured cream)
 - 1 tablespoon Dijon mustard
 - 1 tablespoon white wine vinegar (or cider vinegar)
 - 1 teaspoon caster sugar
-- ½ teaspoon celery salt or ¼ teaspoon ground celery seed
-- Salt and freshly ground black pepper
+- ½ teaspoon celery salt (or ¼ teaspoon ground celery seed)
+- salt
+- pepper
 
 ### Optional
-- 2 tablespoons chopped chives or parsley
+- 2 tablespoons chopped chives (or parsley)
 - 1 apple (julienned or grated, for sweetness and crunch)
 
 ## Method

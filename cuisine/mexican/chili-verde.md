@@ -21,7 +21,7 @@ Tomatillos, poblanos, jalapeños, garlic and onion roast under the grill until b
 - 6 garlic cloves (peel on)
 - 1 white onion (large, quartered)
 - 1 large bunch fresh coriander (60 g, stems and leaves)
-- Juice of 1 lime
+- 1 lime (juice)
 - 2 teaspoons salt
 
 ### Pork
@@ -40,9 +40,9 @@ Tomatillos, poblanos, jalapeños, garlic and onion roast under the grill until b
 - 12 warm corn tortillas
 - Lime wedges
 - Sliced radish
-- Crumbled queso fresco or feta
+- Crumbled queso fresco (or feta)
 - Diced white onion + coriander
-- White rice or pinto beans
+- White rice (or pinto beans)
 
 ## Method
 

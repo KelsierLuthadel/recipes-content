@@ -20,7 +20,7 @@ A Tibetan tomato hot sauce that's about depth rather than burn. The base is summ
 - 2 garlic cloves
 - 60 ml vegetable oil (avocado or sunflower)
 - ½ teaspoon salt
-- ¼ teaspoon ground emma (Sichuan pepper) - optional
+- ¼ teaspoon ground emma (Sichuan pepper, optional)
 - A few sprigs fresh cilantro (roughly chopped, to finish)
 
 ## Method

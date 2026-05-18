@@ -16,7 +16,7 @@ Split mung beans (the green hulled kind) soak optionally 4 hours (cuts cooking t
 
 ### Porridge
 - 300 g whole green mung beans (the small green ones, hulled or unhulled both work)
-- 1.5 litres water (plus more as needed)
+- 1 ½ litres water (plus more as needed)
 - 3 pandan leaves (knotted; or 1 teaspoon pandan paste if unavailable)
 - 25 g fresh ginger (sliced thin)
 - ½ teaspoon salt
@@ -41,7 +41,7 @@ Split mung beans (the green hulled kind) soak optionally 4 hours (cuts cooking t
 1. Drain.
 
 ### Stage 2 - Cook the beans
-1. In a heavy pot, combine the mung beans, 1.5 L water, knotted pandan leaves, sliced ginger and salt.
+1. In a heavy pot, combine the mung beans, 1 ½ L water, knotted pandan leaves, sliced ginger and salt.
 1. Bring to a boil; reduce to a gentle simmer.
 1. Cook 35-45 minutes (or 25-30 if soaked), stirring occasionally, until the beans are very soft and starting to split open.
 1. The texture should be loose-stew (not soupy, not stiff).

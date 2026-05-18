@@ -23,7 +23,7 @@ Corn kernels, fresh in season, frozen the rest of the year, are charred in a hot
 - 100 g mayonnaise
 - 100 g soured cream (or Mexican crema)
 - 100 g cotija cheese (crumbled), or feta as substitute
-- Juice of 2 limes
+- 2 limes (juice)
 - 1 teaspoon chilli powder (or Tajín seasoning)
 - ½ teaspoon smoked paprika
 - ½ teaspoon salt

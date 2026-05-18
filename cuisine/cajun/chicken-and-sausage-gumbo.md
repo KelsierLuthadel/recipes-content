@@ -14,7 +14,7 @@ The everyday Cajun household gumbo, without the seafood and ceremony of its bigg
 
 ## Ingredients
 
-- 180 ml duck fat or bacon fat (or butter / oil)
+- 180 ml duck fat (or bacon fat, or butter / oil)
 - 1 cup plain flour
 - ¼ cup tomato paste
 - 1 yellow onion (medium, chopped)

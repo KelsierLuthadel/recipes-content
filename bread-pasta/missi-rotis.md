@@ -21,7 +21,7 @@ Missi rotis are wholesome, protein-rich flatbreads built on gram flour (chickpea
 - 115 grams gram flour
 - 115 grams wholemeal flour
 - 1 fresh green chilli (de-seeded and chopped)
-- half an onion (very finely chopped)
+- ½ onion (very finely chopped)
 - 1 tablespoon fresh coriander (chopped)
 - ½ teaspoon ground turmeric
 - ½ teaspoon fine sea salt

@@ -27,7 +27,7 @@ Chicken pieces are rubbed with a spice paste of garlic, ginger, saffron, turmeri
 - 1 teaspoon white pepper
 - 1 ½ teaspoons salt
 - 3 tablespoons olive oil
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ### Tagine
 - 3 tablespoons olive oil

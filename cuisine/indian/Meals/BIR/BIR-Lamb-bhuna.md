@@ -34,9 +34,10 @@ A restaurant-style bhuna using pre-cooked lamb for speed, while keeping the dry,
 
 ### Finishing
 - 2 tbsp Greek yoghurt
-- Salt and freshly ground black pepper, to taste
+- salt
+- pepper
 - Small bunch coriander leaves, finely chopped
-- Juice of 1-2 limes (optional)
+- 1-2 limes (optional, juice)
 - Sliced red chilli (optional)
 
 ## Method

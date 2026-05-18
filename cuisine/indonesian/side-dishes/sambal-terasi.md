@@ -17,7 +17,7 @@ Red chillies, garlic, shallots, tomato roast briefly under a grill until softene
 - 6 garlic cloves
 - 4 shallots
 - 2 ripe tomatoes (about 200 g)
-- 15 g terasi (Indonesian fermented shrimp paste) - substitute Malaysian belacan or Thai gapi
+- 15 g terasi (Indonesian fermented shrimp paste, substitute Malaysian belacan or Thai gapi)
 - 3 tablespoons neutral oil
 - 1 teaspoon palm sugar (gula merah) or dark brown sugar
 - 1 teaspoon salt

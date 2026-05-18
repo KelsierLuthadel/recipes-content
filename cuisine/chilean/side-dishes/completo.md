@@ -15,9 +15,9 @@ Long soft frankfurter rolls (pan de hot dog) split lengthways. Frankfurters poac
 ## Ingredients
 
 - 4 long soft hot dog rolls (pan de hot dog - softer and longer than American ones)
-- 4 good-quality frankfurters or German-style sausages
+- 4 good-quality frankfurters (or German-style sausages)
 - 2 ripe avocados
-- Juice of ½ lime
+- ½ lime (juice)
 - 1 teaspoon salt (for avocado)
 - 4 ripe tomatoes (small, very finely diced, seeds removed)
 - ½ teaspoon salt (for tomato)

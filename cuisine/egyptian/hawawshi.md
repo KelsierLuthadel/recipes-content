@@ -30,7 +30,7 @@ Mince mixes raw with finely chopped onion, garlic, parsley, chilli and Egyptian 
 - 1 ½ teaspoons salt
 
 ### Bread and finish
-- 4 large pita breads or thin flatbreads (around 24 cm)
+- 4 pita breads (large, or thin flatbreads, around 24 cm)
 - 1 egg (large, beaten with 1 tablespoon water)
 - 2 tablespoons olive oil
 - 1 teaspoon sesame seeds (optional)

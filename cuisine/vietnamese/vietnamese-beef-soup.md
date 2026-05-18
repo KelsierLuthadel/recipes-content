@@ -21,7 +21,7 @@ A classic Vietnamese pho featuring paper-thin beef slices cooked in a fragrant b
 - 400 grams rump steak (frozen)
 
 ### Aromatics
-- half an onion
+- ½ onion
 - 1 white onion (small, thinly sliced)
 
 ### Seasonings

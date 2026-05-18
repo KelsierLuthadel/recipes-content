@@ -46,7 +46,7 @@ Chicken pieces simmer with onion, thyme, curry powder, salt and bay until tender
 - 600 g long-grain rice (rinsed until the water runs clear)
 
 ### Topping
-- A small handful of fresh basil or curry leaves (optional)
+- A small handful of fresh basil (or curry leaves, optional)
 - 4 spring onions (sliced)
 
 ## Method

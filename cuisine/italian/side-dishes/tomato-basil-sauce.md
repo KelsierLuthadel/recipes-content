@@ -25,7 +25,7 @@ Tomato and basil salsa is a rustic Italian preparation that celebrates the quali
 
 ### Oil & Acid
 - 150 milliliters extra virgin olive oil (fruity, good quality)
-- Juice of 1 lemon (approximately 2-3 tablespoons)
+- 1 lemon (approximately 2-3 tablespoons, juice)
 
 ### Fresh Finish
 - 20 grams fresh basil leaves (finely snipped or torn, approximately 2-3 tablespoons packed)

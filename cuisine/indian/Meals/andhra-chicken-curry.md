@@ -28,7 +28,7 @@ Chicken thighs are marinated briefly with turmeric, ginger-garlic paste, yogurt 
 - 1 tablespoon coriander seeds
 - 1 teaspoon fennel seeds
 - 6-8 dried Kashmiri chillies (mild, for colour)
-- 2-4 dried byadgi or guntur chillies (for the heat; adjust to taste)
+- 2-4 dried byadgi (or guntur chillies, for the heat; adjust to taste)
 - 40 g fresh grated coconut (or 30 g desiccated)
 - 4 garlic cloves
 - 25 g fresh ginger
@@ -46,7 +46,7 @@ Chicken thighs are marinated briefly with turmeric, ginger-garlic paste, yogurt 
 
 ### To finish
 - A handful of fresh coriander (chopped)
-- Juice of ½ lime
+- ½ lime (juice)
 
 ## Method
 

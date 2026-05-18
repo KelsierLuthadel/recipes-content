@@ -22,7 +22,8 @@ A delicate, herbaceous sauce featuring peppery watercress against light vegetabl
 ### Liquid & aromatics
 - 500 ml Vegetable stock
 - 15 grams soft green peppercorns
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

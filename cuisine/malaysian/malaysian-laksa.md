@@ -28,7 +28,7 @@ A two-part dish: a deeply concentrated prawn-and-chicken stock built from roaste
 - 4 Asian red shallots (roughly chopped)
 - 5 garlic cloves (roughly chopped)
 - 3 coriander (cilantro) roots (roughly chopped)
-- 5 candlenuts or macadamia nuts
+- 5 candlenuts (or macadamia nuts)
 - 1 teaspoon coriander seeds
 - ½ teaspoon turmeric
 - 1 ½ teaspoons shrimp paste

@@ -24,10 +24,10 @@ A soft elastic dough rests; divides into 2 balls. Each ball stretches paper-thin
 - 1 teaspoon fast-action yeast (optional; some recipes skip; gives slightly puffier result)
 
 ### For laminating
-- 150 g ghee or unsalted butter (melted) - Egyptian feteer traditionally uses samna, which is clarified butter / ghee
+- 150 g ghee (or unsalted butter, melted, Egyptian feteer traditionally uses samna, which is clarified butter / ghee)
 
 ### Sweet topping (choose one or assemble at the table)
-- Honey or date molasses
+- Honey (or date molasses)
 - A drizzle of tahini whisked with the molasses
 - Soft white cheese (like a mild Egyptian areesh, or substitute ricotta)
 - Sweetened condensed milk

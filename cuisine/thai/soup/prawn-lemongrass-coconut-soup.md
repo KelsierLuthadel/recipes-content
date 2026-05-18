@@ -32,7 +32,7 @@ A vibrant Thai soup featuring prawns in a fragrant broth of lemongrass, coconut 
 - 1 tablespoon fish sauce
 
 ### Liquid/Broth
-- 1.2 litres fish or chicken stock
+- 1.2 litres fish (or chicken stock)
 - 400 ml coconut milk
 
 ### Garnishes

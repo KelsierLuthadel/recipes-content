@@ -35,7 +35,7 @@ On Thai menus this is often called ‘pad nam mun hoy’, which means fried with
 
 ### Seasoning
 - 3-4 tbsp oyster sauce*
-- 4 tbsp stock or water
+- 4 tbsp stock (or water)
 - ½ tsp ground white pepper
 - 1 tbsp cornflour (cornstarch), mixed with 1 ½ tbsp water
 

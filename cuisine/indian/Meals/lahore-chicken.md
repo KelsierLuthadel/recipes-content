@@ -37,7 +37,7 @@ A traditional Lahori-style chicken curry built on a base of caramelised onions, 
 
 ### To Finish
 - 30 g fresh coriander, chopped
-- Juice of 1 lemon (about 30 ml)
+- 1 lemon (about 30 ml, juice)
 
 ## Method
 

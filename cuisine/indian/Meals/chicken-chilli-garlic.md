@@ -12,7 +12,7 @@
 A garlic-forward BIR cooked hot and fast: pre-cooked chicken finished in a base sauce loaded with chopped garlic and fresh green chillies, with tomatoes, peppers and a tablespoon of vinegar to balance. Aromatic, sharp, fiery; eat with rice to tame it.
 
 ## Ingredients
-- 4 tbsp rapeseed oil or seasoned oil
+- 4 tbsp rapeseed oil (or seasoned oil)
 - 15 garlic cloves, cut into thin slivers 
 - 1 onion, finely chopped 
 - 4 tsp salt 
@@ -24,7 +24,7 @@ A garlic-forward BIR cooked hot and fast: pre-cooked chicken finished in a base 
 - 125ml [tomato purée ](../Base/tomato-puree.md)
 - 500ml [base curry sauce](../Base/curry-base.md) (heated )
 - 800g [pre-cooked stewed chicken](../Base/pre-cooked-chicken.md)
-- 125ml of chicken stock or stock from [pre-cooked stewed chicken](../Base/curry-base.md)
+- 125ml of chicken stock (or stock from [pre-cooked stewed chicken], ../Base/curry-base.md)
 - 1 tsp dried fenugreek leaves 
 - Salt 
 - Small bunch of coriander (finely chopped)

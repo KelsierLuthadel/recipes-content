@@ -23,12 +23,12 @@ Dry ingredients whisk in one bowl; wet (buttermilk, eggs, butter) in another. Co
 - 2 eggs (large)
 - 50 g unsalted butter (melted, cooled slightly)
 - 1 teaspoon vanilla extract
-- Butter or oil for the pan
+- Butter (or oil for the pan)
 
 ### To serve
 - Butter
 - Maple syrup
-- Fresh berries or sliced banana
+- Fresh berries (or sliced banana)
 
 ## Method
 

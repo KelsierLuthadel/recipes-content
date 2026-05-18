@@ -33,7 +33,7 @@ Halo-halo is an assembly, not a cooking project. Each tall glass gets a spoonful
 - A drizzle of leche-flan caramel (optional)
 
 ### Sago pearls (cooked from dry)
-- 100 g dry small sago / tapioca pearls
+- 100 g dry small sago (or tapioca pearls)
 - 1 litre water
 - 80 g caster sugar (added at the end)
 

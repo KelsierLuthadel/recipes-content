@@ -34,7 +34,7 @@ A fragrant Malaysian noodle soup combining shellfish with a spicy coconut curry 
 - 2 teaspoon shrimp paste
 - 1 teaspoon fennel seeds (crushed)
 - 45 ml Thai fish sauce
-- juice of 1 - 2 limes
+- 1 - 2 limes (juice)
 - 25 grams fresh coriander (with roots)
 - small bunch fresh basil
 

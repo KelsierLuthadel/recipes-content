@@ -30,7 +30,7 @@ The okra is washed, dried thoroughly and trimmed, then cut into 2 cm pieces. A d
 
 ### To serve
 - A handful of coriander (chopped)
-- Roti or paratha
+- Roti (or paratha)
 
 ## Method
 

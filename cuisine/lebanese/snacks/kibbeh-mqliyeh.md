@@ -46,7 +46,7 @@ Same technique as Jordan kibbeh-nayyeh-balls (these snacks are siblings across t
 - 250 g Greek yogurt
 - 2 garlic cloves (crushed to a paste with ¼ teaspoon salt)
 - 2 tablespoons fresh mint (chopped)
-- Juice of ½ lemon
+- ½ lemon (juice)
 - 1 tablespoon olive oil
 
 ### To serve

@@ -25,7 +25,7 @@ Strawberries are hulled and quartered (or sliced thick). Half are macerated in a
 - 1 teaspoon vanilla extract
 
 ### Meringue
-- 4 ready-made meringue nests (or 100 g homemade meringue cookies) - broken into rough 1-2 cm pieces
+- 4 ready-made meringue nests (or 100 g homemade meringue cookies, broken into rough 1-2 cm pieces)
 
 ### Optional finishing
 - A handful of toasted flaked almonds

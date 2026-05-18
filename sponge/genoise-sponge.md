@@ -17,7 +17,7 @@ Génoise (Génoise nature) is the foundational French sponge cake, distinguished
 ### Base Sponge
 - 250 grams granulated sugar
 - 8 eggs (large, room temperature preferred)
-- 250 grams cake flour or soft flour (sifted)
+- 250 grams cake flour (or soft flour, sifted)
 
 ### Fat
 - 50 grams clarified butter (melted and cooled to room temperature)

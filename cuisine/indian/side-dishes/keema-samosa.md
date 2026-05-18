@@ -29,7 +29,7 @@ Lamb mince fries with onion, garlic, ginger and a spice mix of garam masala, cum
 - 150 g frozen peas
 - 3 tablespoons fresh coriander (chopped)
 - 2 tablespoons fresh mint (chopped)
-- Juice of ½ lemon
+- ½ lemon (juice)
 - 1 teaspoon salt (to taste)
 - ½ teaspoon ground black pepper
 
@@ -39,7 +39,7 @@ Lamb mince fries with onion, garlic, ginger and a spice mix of garam masala, cum
 - 1 litre vegetable oil for deep frying
 
 ### To serve
-- 200 ml tamarind chutney or mint chutney
+- 200 ml tamarind chutney (or mint chutney)
 - Lemon wedges
 
 ## Method

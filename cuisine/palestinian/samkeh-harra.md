@@ -15,10 +15,10 @@ A whole fish is rubbed with salt, lemon, garlic and olive oil inside and out. Wh
 ## Ingredients
 
 ### Fish
-- 1 whole sea bass or sea bream (about 1.2 kg, scaled and gutted, head on) - OR 4 fillets if you prefer
+- 1 whole sea bass (or sea bream, about 1.2 kg, scaled and gutted, head on, OR 4 fillets if you prefer)
 - 2 garlic cloves (crushed to a paste)
 - 1 ½ teaspoons salt
-- Juice of ½ lemon
+- ½ lemon (juice)
 - 2 tablespoons olive oil
 
 ### Sauce
@@ -31,7 +31,7 @@ A whole fish is rubbed with salt, lemon, garlic and olive oil inside and out. Wh
 - ¼ teaspoon cayenne pepper (optional, for heat)
 - 200 g tahini (well-stirred)
 - 200 ml warm water (more as needed)
-- Juice of 2 lemons (about 4 tablespoons)
+- 2 lemons (about 4 tablespoons, juice)
 - 1 large bunch fresh coriander (chopped - leaves and fine stems, about 80 g)
 - 1 teaspoon salt (to taste)
 
@@ -43,7 +43,7 @@ A whole fish is rubbed with salt, lemon, garlic and olive oil inside and out. Wh
 
 ### To serve
 - Plain basmati rice
-- Khobz or pita
+- Khobz (or pita)
 
 ## Method
 

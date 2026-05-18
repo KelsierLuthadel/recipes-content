@@ -21,7 +21,8 @@ A vibrant, sophisticated cold sauce combining hard-boiled egg yolks with fragran
 - 1 tablespoon lemon juice
 
 ### Flavorings
-- salt and pepper
+- salt
+- pepper
 - 20 grams onion (finely chopped, blanched, refreshed and drained)
 - 3 tablespoons Mayonnaise
 - 1 tablespoon chives (snipped)

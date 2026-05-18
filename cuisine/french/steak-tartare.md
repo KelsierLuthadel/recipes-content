@@ -27,10 +27,11 @@ Centre-cut beef fillet is hand-chopped (don't blitz; the texture matters) and mi
 - 4 anchovy fillets (mashed; optional)
 - 4 egg yolks (large, in their half-shells or at the centre of the plate)
 - 4 tablespoons extra virgin olive oil
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### To serve
-- Toasted sourdough or brioche
+- Toasted sourdough (or brioche)
 - A dressed salad (small, lemon-dressed lamb's lettuce or rocket)
 
 ## Method

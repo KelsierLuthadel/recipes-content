@@ -23,7 +23,7 @@ Firm tofu blocks halve crossways into triangles. A small slit cuts into each tri
 - 4 garlic cloves (minced)
 - 20 g fresh ginger (minced)
 - 1 carrot (medium, julienned fine)
-- 150 g savoy or napa cabbage (shredded)
+- 150 g savoy (or napa cabbage, shredded)
 - 100 g mung bean sprouts
 - 2 spring onions (sliced thin)
 - 1 tablespoon kecap manis (Indonesian sweet soy)

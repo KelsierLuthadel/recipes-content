@@ -36,7 +36,7 @@ A British-Indian pathia curry with a sweet-and-sour profile, tuned for balanced 
 - 1 tbsp smooth mango chutney, or to taste
 - ½ tsp tamarind concentrate
 - 1 tsp dried fenugreek leaves (kasoori methi)
-- Juice of 1-2 lemons, to taste
+- 1-2 lemons, to taste (juice)
 - Red food colouring powder (optional)
 - 3 tbsp chopped coriander (cilantro)
 

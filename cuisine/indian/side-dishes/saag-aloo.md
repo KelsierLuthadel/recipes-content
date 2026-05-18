@@ -26,11 +26,11 @@ Potato cubes are par-boiled separately so the dish comes together quickly in the
 - ½ teaspoon Kashmiri chilli powder
 - 1 teaspoon salt (to taste)
 - ½ teaspoon garam masala
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ### To serve
 - A wedge of lemon
-- Chapati or paratha
+- Chapati (or paratha)
 
 ## Method
 

@@ -45,7 +45,7 @@ Whole chickpeas are soaked overnight and simmered until tender (or pressure-cook
 - A handful of fresh coriander (chopped)
 - 1 tablespoon dried pomegranate seeds (anardana, optional)
 - Reserved fried onion
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ## Method
 

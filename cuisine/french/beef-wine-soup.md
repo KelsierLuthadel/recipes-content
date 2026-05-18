@@ -18,7 +18,7 @@ This comforting beef and wine soup from the Italian Alps combines rich beef stoc
 ## Ingredients
 
 ### Seasonings
-- 1 litre strong beef stock or broth
+- 1 litre strong beef stock (or broth)
 - 500 ml white wine
 - ½ teaspoon ground cinnamon
 - 100 ml double cream
@@ -31,7 +31,7 @@ This comforting beef and wine soup from the Italian Alps combines rich beef stoc
 
 ### Cheese
 - 100 grams freshly grated Parmesan
-- Freshly grated Parmesan - to serve
+- Freshly grated Parmesan (to serve)
 
 ## Method
 

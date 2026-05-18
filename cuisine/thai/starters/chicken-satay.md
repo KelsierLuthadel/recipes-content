@@ -29,8 +29,8 @@ I’m a big fan of Thai chicken satay with peanut sauce. Although it isn’t nec
 - 1 generous tbsp chopped galangal
 - 200ml (generous ¾ cup) coconut milk
 - A pinch of ground cinnamon
-- 2 tsp palm or white sugar
-- 1 tbsp white wine or rice vinegar
+- 2 tsp palm (or white sugar)
+- 1 tbsp white wine (or rice vinegar)
 - 1 tsp salt
 
 ### Peanut sauce
@@ -40,7 +40,7 @@ I’m a big fan of Thai chicken satay with peanut sauce. Although it isn’t nec
 - 200ml (generous ¾ cup) smooth or chunky peanut butter
 - 2 tbsp Thai fish sauce* (or more to taste)
 - 1 tbsp sugar (or more to taste)
-- Juice of 1 lime
+- 1 lime (juice)
 - 2 tbsp tamarind water (or use more lime juice)
 
 ## Method

@@ -21,7 +21,7 @@ Tomato, cucumber and onion chop fine; parsley and green chilli go in; a quick dr
 - 4 tablespoons fresh parsley (finely chopped)
 - 2 tablespoons fresh mint (finely chopped, optional)
 - 3 tablespoons olive oil
-- Juice of 1 lemon
+- 1 lemon (juice)
 - ½ teaspoon ground cumin
 - ½ teaspoon salt
 - ¼ teaspoon ground black pepper

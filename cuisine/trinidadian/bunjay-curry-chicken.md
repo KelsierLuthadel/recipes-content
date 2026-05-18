@@ -15,7 +15,7 @@ A dry curry rather than a saucy one, "bunjay" is Trinidadian patois for "fry-dow
 ## Ingredients
 
 - 1.4 kg (3 lbs) chicken legs (bone-in, skin-on, halved at joint)
-- 1 lime or lemon (juiced)
+- 1 lime (or lemon, juiced)
 - ¾ tablespoon salt
 - ½ teaspoon black pepper
 - 3 tablespoons curry powder (divided)

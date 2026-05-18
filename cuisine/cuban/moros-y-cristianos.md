@@ -26,7 +26,8 @@ Black beans simmer with bay and oregano until tender. Sofrito (onion, pepper, ga
 - 250 g long-grain rice (rinsed)
 - 600 ml vegetable stock (or bean cooking liquid)
 - 2 tablespoons red wine vinegar
-- Salt and black pepper
+- salt
+- pepper
 - Fresh coriander (to serve)
 
 ## Method

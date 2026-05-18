@@ -45,7 +45,7 @@ Cracked wheat (daleya), pearl barley, chana dal, masoor dal, moong dal and urad 
 - 3 litres water
 
 ### Tarka (sizzle topping)
-- 100 ml ghee or sunflower oil
+- 100 ml ghee (or sunflower oil)
 - 2 onions (large, sliced very thin, fried to deep brown)
 - 1 teaspoon cumin seeds
 - 6 dried red chillies (whole, for the oil sizzle)

@@ -18,7 +18,7 @@ Classic vanilla ice cream with a luxurious, creamy texture enriched with double 
 1. Once cold, remove the vanilla pod and discard.
 1. Stir the cream into the crème anglaise.
 1. Pour the mixture into an ice-cream maker and churn for about 20 minutes, until the ice cream is firm but still creamy.
-1. Transfer the ice cream to a chilled freezer-proof container for half an hour before serving.
+1. Transfer the ice cream to a chilled freezer-proof container for ½ hour before serving.
 
 ## Notes
 - The crème anglaise should be made from a good-quality vanilla pod, splitting it lengthwise to release the seeds for maximum flavor impact

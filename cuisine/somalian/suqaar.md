@@ -14,7 +14,7 @@ Beef tenderloin or sirloin is cubed small. A spice mix of cumin, coriander, card
 
 ## Ingredients
 
-- 600 g beef sirloin or tenderloin (cut into 1 ½ cm cubes)
+- 600 g beef sirloin (or tenderloin, cut into 1 ½ cm cubes)
 - 3 tablespoons vegetable oil
 - 1 onion (large, finely chopped)
 - 1 red pepper (chopped)

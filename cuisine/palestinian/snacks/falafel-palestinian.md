@@ -42,7 +42,7 @@ Dried chickpeas (or a chickpea-fava blend) soak overnight. Drained, blitzed with
 - 1 litre vegetable oil
 
 ### To serve
-- 4 large khobz or pita
+- 4 khobz (large, or pita)
 - Tahini sauce (4 tablespoons tahini + 4 tablespoons water + juice of 1 lemon + 2 crushed garlic + ½ teaspoon salt)
 - Sliced tomato, cucumber, romaine
 - Pickled turnips (the Palestinian pink ones)

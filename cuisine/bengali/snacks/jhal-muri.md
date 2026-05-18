@@ -17,7 +17,7 @@ Jhal muri (literally "spicy puffed rice") is the most democratic snack in Bengal
 ### Base
 - 80 g muri (puffed rice)
 - 30 g roasted peanuts
-- 30 g chana chur or bhujia sev
+- 30 g chana chur (or bhujia sev)
 - 2 tbsp mustard oil (raw, pungent, not refined)
 
 ### Fresh mix-ins
@@ -25,7 +25,7 @@ Jhal muri (literally "spicy puffed rice") is the most democratic snack in Bengal
 - 1 tomato (small, deseeded, finely diced)
 - ¼ cucumber (finely diced)
 - 1-2 green chillies (finely chopped, to taste)
-- 1 small green mango or boiled potato, diced (optional but classic)
+- 1 green mango (small, or boiled potato), diced (optional but classic)
 - 10 g fresh coriander (chopped)
 - 8 g fresh mint (chopped, optional)
 

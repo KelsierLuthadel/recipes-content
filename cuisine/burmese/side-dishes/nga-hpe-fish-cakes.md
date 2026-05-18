@@ -14,11 +14,11 @@ Skinless firm fish fillets cube and pulse in a food processor with shallot, garl
 
 ## Ingredients
 
-- 500 g firm white fish fillets (cod, haddock, hake or pollock) - skin and bones removed, cubed
+- 500 g firm white fish fillets (cod, haddock, hake or pollock, skin and bones removed, cubed)
 - 4 shallots (or 1 small red onion - finely chopped)
 - 4 garlic cloves
 - 1 thumb fresh ginger (grated)
-- Juice of 1 lime
+- 1 lime (juice)
 - 2 tablespoons fish sauce
 - 1 egg (small)
 - 3 tablespoons cornflour
@@ -33,7 +33,7 @@ Skinless firm fish fillets cube and pulse in a food processor with shallot, garl
 
 ### To serve
 - Lime wedges
-- Sweet chilli sauce or sahawiq-style green sauce
+- Sweet chilli sauce (or sahawiq-style green sauce)
 - Sliced cucumber
 
 ## Method

@@ -20,7 +20,7 @@ The brightest barszcz uses fermented beetroot kvas, beetroot, garlic and rye bre
 - 2 carrots (chopped)
 - 2 celery sticks (chopped)
 - 4 garlic cloves (smashed)
-- 20 g dried wild mushrooms or porcini
+- 20 g dried wild mushrooms (or porcini)
 - 2 bay leaves
 - 6 allspice berries
 - 6 black peppercorns

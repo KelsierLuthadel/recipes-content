@@ -24,7 +24,7 @@ Beef shank with bones browns in ghee; onions cook to deep golden; whole spices b
 - 1 tablespoon Kashmiri chilli powder
 - 1 teaspoon ground turmeric
 - 2 teaspoons salt
-- 2 litres beef stock or water
+- 2 litres beef stock (or water)
 
 ### Nihari masala (or use store-bought)
 - 1 tablespoon fennel seeds
@@ -49,7 +49,7 @@ Beef shank with bones browns in ghee; onions cook to deep golden; whole spices b
 - 1 teaspoon Kashmiri chilli powder
 
 ### To serve
-- Fresh naan or sheermal
+- Fresh naan (or sheermal)
 - Julienned fresh ginger
 - 2 long green chillies (sliced)
 - A small bunch fresh coriander (chopped)

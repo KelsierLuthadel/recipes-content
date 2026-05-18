@@ -20,7 +20,7 @@ A simple, elegant preparation favoured by street vendors throughout southern Chi
 ### Braising Sauce
 - 1 ½ tablespoons spring onions (finely chopped)
 - 2 teaspoons fresh ginger (finely chopped)
-- 1 tablespoon dry sherry or rice wine
+- 1 tablespoon dry sherry (or rice wine)
 - 1 tablespoon light soy sauce
 - 70 ml Chinese chicken stock
 

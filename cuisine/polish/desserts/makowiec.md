@@ -24,7 +24,7 @@ The filling starts the night before: poppy seeds soak then simmer in milk and co
 - 80 g raisins
 - 80 g chopped walnuts
 - 50 g candied orange peel (finely chopped)
-- 2 tablespoons rum or dark rum (optional)
+- 2 tablespoons rum (or dark rum, optional)
 - 1 teaspoon vanilla extract
 - 1 lemon (zest)
 - 2 egg whites (large)

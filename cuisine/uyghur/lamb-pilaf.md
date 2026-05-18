@@ -70,7 +70,7 @@ A dish entirely about lamb fat carried through rice. Each grain ends up glossy a
 - **Fatty lamb is non-negotiable:** lean lamb gives a dry pilaf. The fat carries the flavour through the rice. Grass-fed if you can find it.
 - **Don't stir during the rice phase:** stirring breaks the steam pocket. The rice cooks by trapped steam from below.
 - **Medium-grain rice, not long:** medium-grain holds the structure without going gluey. Long-grain stays too separate; sticky short-grain clumps.
-- **Yellow carrots are traditional:** standard orange supermarket carrots work but yellow Central Asian carrots are sweeter and add depth. If using all orange, dial the honey up half a tablespoon.
+- **Yellow carrots are traditional:** standard orange supermarket carrots work but yellow Central Asian carrots are sweeter and add depth. If using all orange, dial the honey up ½ tablespoon.
 - **Lamb fat substitutes:** beef or pork fat work for the rendering stage. Vegetable oil alone gives a flatter dish.
 
 ## Storage

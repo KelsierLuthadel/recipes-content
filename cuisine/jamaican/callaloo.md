@@ -15,7 +15,7 @@ Onion, garlic and tomato cook in oil until softened. Callaloo (or spinach) goes 
 ## Ingredients
 
 - 500 g fresh callaloo (or 500 g spinach + 200 g chard if callaloo unavailable; chopped)
-- 3 tablespoons coconut oil or vegetable oil
+- 3 tablespoons coconut oil (or vegetable oil)
 - 1 onion (medium, sliced)
 - 4 garlic cloves (crushed)
 - 4 spring onions (sliced)

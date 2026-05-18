@@ -24,7 +24,7 @@ Onion, garlic, red and green peppers sweat slowly in olive oil. Sliced chouriço
 - 1 tablespoon smoked paprika
 - 1 teaspoon sweet paprika
 - 2 bay leaves
-- 1 fresh red chilli (sliced) - or 1 teaspoon piri-piri sauce
+- 1 fresh red chilli (sliced, or 1 teaspoon piri-piri sauce)
 - 4 ripe tomatoes (chopped) - OR 1 (400 g) tin chopped tomatoes
 - 250 ml dry white wine
 - 1 teaspoon salt (to taste)
@@ -34,12 +34,12 @@ Onion, garlic, red and green peppers sweat slowly in olive oil. Sliced chouriço
 - 500 g clams (live, well-rinsed and purged in salted water 30 min)
 - 500 g mussels (debearded, scrubbed)
 - 400 g large raw prawns (shelled, with tails on)
-- 400 g firm white fish - monkfish, hake or cod (cut into 4 cm chunks)
+- 400 g firm white fish - monkfish, hake (or cod, cut into 4 cm chunks)
 
 ### To finish
-- 1 large bunch fresh coriander (chopped) - about 50 g
-- 1 large bunch fresh parsley (chopped) - about 30 g
-- Juice of 1 lemon
+- 1 large bunch fresh coriander (chopped, about 50 g)
+- 1 large bunch fresh parsley (chopped, about 30 g)
+- 1 lemon (juice)
 - 2 tablespoons extra-virgin olive oil
 - Crusty bread
 

@@ -15,7 +15,7 @@ Beef parboils briefly with stock cube and onion to make a quick stock. Smoked fi
 ## Ingredients
 
 ### Meat and stock
-- 400 g beef shin or shaki (tripe), or a mix (cut into 2-3 cm chunks)
+- 400 g beef shin (or shaki, tripe), or a mix (cut into 2-3 cm chunks)
 - 1 onion (small, halved)
 - 1 stock cube
 - 1 teaspoon salt
@@ -28,12 +28,12 @@ Beef parboils briefly with stock cube and onion to make a quick stock. Smoked fi
 - 1 Scotch bonnet (deseeded and finely chopped)
 - 150 g smoked fish (smoked mackerel; bones removed, flaked)
 - 2 tablespoons ground crayfish
-- 1 tablespoon iru (locust beans) - optional
+- 1 tablespoon iru (locust beans, optional)
 - 1 teaspoon salt (to taste)
 - 500 g fresh okra (washed, dried thoroughly)
 
 ### To serve
-- Pounded yam, fufu, eba or rice
+- Pounded yam, fufu, eba (or rice)
 
 ## Method
 

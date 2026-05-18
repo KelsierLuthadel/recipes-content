@@ -19,7 +19,7 @@ Kosha mangsho takes its name from the verb kosha, which in Bengali means to slow
 - 200 g full-fat plain yoghurt
 - 1 tbsp ginger paste
 - 1 tbsp garlic paste
-- 1½ tsp turmeric
+- 1 ½ tsp turmeric
 - 1 tsp Kashmiri chilli powder
 - 1 tsp salt
 - 1 tbsp mustard oil
@@ -36,8 +36,8 @@ Kosha mangsho takes its name from the verb kosha, which in Bengali means to slow
 - 1 tbsp ginger paste
 - 1 tbsp garlic paste
 - 1 tsp Kashmiri chilli powder
-- 1½ tsp cumin powder
-- 1½ tsp coriander powder
+- 1 ½ tsp cumin powder
+- 1 ½ tsp coriander powder
 - 2 potatoes (medium), peeled and halved (optional but traditional)
 - 1 tsp sugar
 - 500 ml warm water

@@ -21,7 +21,7 @@ This is the most complex of Indian chutneys. Tamarind provides deep, fruity sour
 - 2 tablespoons water
 - 3 tablespoons sugar
 - 4 tablespoons tomato ketchup
-- Juice of 1 fresh lemon
+- 1 fresh lemon (juice)
 
 ### Fresh Elements
 - 3 fresh green chillies (finely chopped)

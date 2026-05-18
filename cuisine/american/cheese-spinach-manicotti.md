@@ -24,7 +24,8 @@ Italian-American baked pasta in the same family as stuffed shells and lasagna, w
 - 1 tablespoon garlic paste
 - 1 teaspoon dried oregano
 - ½ teaspoon red pepper flakes (optional)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - 1 jar (680 g / 24 oz) tomato basil sauce
 
 ## Method

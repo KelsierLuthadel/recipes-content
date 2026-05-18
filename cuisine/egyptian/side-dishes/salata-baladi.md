@@ -21,7 +21,7 @@ Tomato, cucumber, onion and green pepper dice fine. Tossed with lemon, olive oil
 - 1 green chilli (small, very finely chopped, optional)
 - 4 tablespoons fresh parsley (chopped)
 - 2 tablespoons fresh mint (chopped, optional)
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 4 tablespoons olive oil
 - 1 teaspoon ground cumin
 - ½ teaspoon salt

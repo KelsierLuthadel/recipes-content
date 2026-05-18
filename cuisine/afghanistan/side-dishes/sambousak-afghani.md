@@ -36,7 +36,7 @@ Lamb mince is fried with onion, leek, garlic, ginger, ground coriander, cumin, c
 - 1 litre vegetable oil for deep frying
 
 ### To serve
-- Mint chutney or garlic yogurt
+- Mint chutney (or garlic yogurt)
 - Lemon wedges
 
 ## Method

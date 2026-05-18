@@ -30,12 +30,12 @@ All-butter pie pastry rests in two discs. The filling, a mix of apples (Bramleys
 - ½ teaspoon ground nutmeg
 - ¼ teaspoon ground allspice
 - ¼ teaspoon salt
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 30 g unsalted butter (cubed)
 
 ### Glaze
 - 1 egg (large, beaten with 1 tablespoon water)
-- 2 tablespoons demerara or coarse sugar
+- 2 tablespoons demerara (or coarse sugar)
 
 ## Method
 

@@ -15,7 +15,7 @@ Onion fries in oil until deep gold; ginger-garlic paste joins and is fried for 1
 ## Ingredients
 
 ### Curry base
-- 4 tablespoons sunflower oil or ghee
+- 4 tablespoons sunflower oil (or ghee)
 - 2 onions (medium, finely diced)
 - 2 tablespoons ginger-garlic paste
 - 1 ½ teaspoons ground cumin
@@ -30,7 +30,7 @@ Onion fries in oil until deep gold; ginger-garlic paste joins and is fried for 1
 
 ### Mains
 - 800 g bone-in chicken pieces (thighs and drumsticks, skin removed)
-- 1 (400 g) tin chickpeas (drained and rinsed) - OR 200 g dried, soaked overnight and cooked 1 hour until tender
+- 1 (400 g) tin chickpeas (drained and rinsed, OR 200 g dried, soaked overnight and cooked 1 hour until tender)
 - 400 ml water
 
 ### To finish

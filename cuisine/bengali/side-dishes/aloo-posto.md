@@ -20,7 +20,7 @@ Aloo posto is the dish that Bengalis abroad miss most. Posto, white poppy seed, 
 - 3 tbsp warm water
 
 ### Potatoes and tempering
-- 4 potatoes (medium, about 500 g), peeled and cut into 1.5 cm cubes
+- 4 potatoes (medium, about 500 g), peeled and cut into 1 ½ cm cubes
 - 4 tbsp mustard oil
 - ½ tsp nigella seeds (kalo jeere)
 - 1 green chilli, slit lengthways

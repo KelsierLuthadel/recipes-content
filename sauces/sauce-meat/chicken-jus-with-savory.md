@@ -26,7 +26,8 @@ A simple, flavourful jus capturing the essence of roasted chicken with herb infu
 - 150 ml dry white wine
 - 50 grams savory sprigs (or tarragon)
 - 150 ml Chicken Stock (or water)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

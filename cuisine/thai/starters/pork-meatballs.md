@@ -33,7 +33,7 @@ These meatballs are packed with delicious flavours. I like to serve them with a 
 - 2 tbsp Thai fish sauce (gluten-free brands are available)
 
 ### Sweeteners
-- 1 tsp clear honey or grated palm sugar
+- 1 tsp clear honey (or grated palm sugar)
 
 ### Fat
 - 3 tbsp rapeseed (canola) oil

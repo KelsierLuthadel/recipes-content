@@ -17,7 +17,7 @@ Courgettes are diced and cooked with onion, garlic and roasted poblano until jus
 - 2 tablespoons olive oil
 - 1 onion (finely diced)
 - 3 garlic cloves (finely chopped)
-- 600 g courgettes (or Mexican calabacita, diced into 1.5 cm pieces)
+- 600 g courgettes (or Mexican calabacita, diced into 1 ½ cm pieces)
 - 200 g sweetcorn kernels (fresh from 2 cobs, or frozen)
 - 2 tomatoes (chopped)
 - 1 teaspoon ground cumin

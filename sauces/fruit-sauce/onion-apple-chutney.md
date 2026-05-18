@@ -27,9 +27,9 @@ A caramelized onion preserve with tart apple and bright tomato notes. This compl
 
 ### Spices & seasoning
 - 10 white peppercorns (crushed)
-- half a teaspoon fine sea salt
+- ½ teaspoon fine sea salt
 - 1 clove garlic (crushed into a purée)
-- half a teaspoon chilli powder
+- ½ teaspoon chilli powder
 - pinch ground cinnamon
 
 ## Method

@@ -25,7 +25,8 @@ A refined wine sauce featuring luxurious beef marrow and gentle pepper spice. Th
 
 ### Finishing
 - 30 grams butter (chilled and diced)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

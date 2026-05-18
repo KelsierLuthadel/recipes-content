@@ -16,7 +16,7 @@ The BIR icon: tandoori-grilled chicken finished in a velvety tomato-onion sauce 
 - 1 ½kg [grilled tandoori chicken](../side-dishes/tandoori-chicken-tikka.md)
 
 ### For the sauce
-- 4 tbsp rapeseed oil or seasoned oil
+- 4 tbsp rapeseed oil (or seasoned oil)
 - 2 ½cm (1in) piece of cinnamon stick
 - 2 star anise 
 - 6 green cardamom pods (lightly bruised)
@@ -32,7 +32,8 @@ The BIR icon: tandoori-grilled chicken finished in a velvety tomato-onion sauce 
 - 300ml double cream 
 - 3 tbsp butter, chilled 
 - 1 tbsp [garam masala](../Spice-Mixes/garam-masala.md)
-- Salt and freshly ground pepper 
+- salt
+- pepper
 
 ## Method
 1. Heat the oil in a large saucepan over medium-high heat. 

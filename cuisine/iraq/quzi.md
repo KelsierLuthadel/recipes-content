@@ -23,7 +23,7 @@ A bone-in lamb shoulder rubs with baharat, dried lime, garlic and yogurt; sits o
 - 2 dried limes (loomi; pierced)
 - 2 tablespoons olive oil
 - 1 tablespoon salt
-- 500 ml lamb stock or water (for the roasting tin)
+- 500 ml lamb stock (or water, for the roasting tin)
 
 ### Rice
 - 500 g basmati rice (rinsed)

@@ -16,10 +16,11 @@ Go Bo Hoi An is a piquant Vietnamese beef salad featuring thinly sliced seared b
 ## Ingredients
 
 ### Beef & Marinade
-- 200 grams beef sirloin or tenderloin (frozen)
+- 200 grams beef sirloin (or tenderloin, frozen)
 - 1 tablespoon tamarind paste
 - 1 teaspoon sugar
-- Salt and freshly ground black pepper to taste
+- salt
+- pepper
 - 1 garlic clove (crushed)
 
 ### Salad Base
@@ -31,7 +32,7 @@ Go Bo Hoi An is a piquant Vietnamese beef salad featuring thinly sliced seared b
 - 4 fresh red chillies (de-seeded and thinly sliced)
 
 ### Dressing
-- Juice of 1 lime
+- 1 lime (juice)
 - 1 tablespoon Thai fish sauce
 - 3 tablespoons sugar
 - 1 garlic clove (crushed)

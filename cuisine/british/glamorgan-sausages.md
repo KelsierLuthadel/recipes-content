@@ -23,8 +23,9 @@ Leeks soften in butter; mix with grated caerphilly (or mature cheddar), breadcru
 - 2 teaspoons fresh thyme leaves
 - 2 eggs (large, 1 for binding, 1 beaten for coating)
 - 50 g plain flour (for coating)
-- Salt and black pepper
-- 4 tablespoons sunflower or vegetable oil (for frying)
+- salt
+- pepper
+- 4 tablespoons sunflower (or vegetable oil, for frying)
 
 ## Method
 

@@ -14,7 +14,7 @@ Black pepper toasts in a dry pan; pasta cooks; the starchy pasta water plus fine
 
 ## Ingredients
 
-- 200 g spaghetti or tonnarelli (better: bucatini)
+- 200 g spaghetti (or tonnarelli, better: bucatini)
 - 100 g Pecorino Romano (very finely grated, plus extra for serving)
 - 2 teaspoons coarsely cracked black peppercorns
 - Salt for the pasta water (less than usual; pecorino is salty)

@@ -14,7 +14,7 @@ Boerewors, literally "farmer's sausage" in Afrikaans, is the national sausage of
 
 ## Ingredients
 
-### Boerewors mix (for homemade, makes about 1.5 kg)
+### Boerewors mix (for homemade, makes about 1 ½ kg)
 - 900 g beef chuck (coarsely ground)
 - 400 g pork shoulder (coarsely ground)
 - 200 g pork back fat (diced small)
@@ -24,17 +24,17 @@ Boerewors, literally "farmer's sausage" in Afrikaans, is the national sausage of
 - 3 g ground clove
 - 3 g ground nutmeg
 - 3 g ground allspice
-- 60 ml malt vinegar or brown vinegar
+- 60 ml malt vinegar (or brown vinegar)
 - 60 ml ice water
-- 1.5 m natural hog casings (rinsed)
+- 1 ½ m natural hog casings (rinsed)
 
 ### To grill (per coil)
-- 1.2-1.5 kg fresh boerewors coil (homemade or shop-bought)
+- 1.2-1 ½ kg fresh boerewors coil (homemade or shop-bought)
 
 ### To serve
-- Fresh white bread rolls or pap
+- Fresh white bread rolls (or pap)
 - Tomato-and-onion relish (sous)
-- Mrs Ball's chutney or other South African chutney
+- Mrs Ball's chutney (or other South African chutney)
 - Crispy fried onions
 
 ## Method

@@ -27,9 +27,9 @@ Chicken poaches with onion, garlic and herbs into a clean, golden broth. The fir
 - 2 ½ litres water
 
 ### Potatoes and corn
-- 600 g sabanera or maris piper potatoes (peeled, sliced 1 cm)
+- 600 g sabanera (or maris piper potatoes, peeled, sliced 1 cm)
 - 600 g papa criolla (peeled, halved if large; or substitute baby Yukon golds)
-- 600 g pastusa or red-skinned potatoes (peeled, cut into 3 cm chunks)
+- 600 g pastusa (or red-skinned potatoes, peeled, cut into 3 cm chunks)
 - 3 ears sweet corn (cut into 4 cm rounds)
 
 ### To finish
@@ -39,7 +39,7 @@ Chicken poaches with onion, garlic and herbs into a clean, golden broth. The fir
 ### To serve
 - 2 ripe avocados (sliced)
 - 4 tablespoons capers (rinsed)
-- 200 ml double cream or crème fraîche
+- 200 ml double cream (or crème fraîche)
 - 1 lime (cut into wedges)
 - Cooked white rice
 

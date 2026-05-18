@@ -15,7 +15,7 @@ Sliced beef velvets briefly in cornflour and soy, broccoli florets blanch to bri
 ## Ingredients
 
 ### Beef
-- 500 g rib-eye, sirloin or rump (sliced thin against the grain)
+- 500 g rib-eye, sirloin (or rump, sliced thin against the grain)
 - 1 tablespoon soy sauce
 - 1 tablespoon Shaoxing rice wine (or dry sherry)
 - 1 tablespoon cornflour
@@ -27,7 +27,7 @@ Sliced beef velvets briefly in cornflour and soy, broccoli florets blanch to bri
 - 1 tablespoon Shaoxing rice wine
 - 1 teaspoon sugar
 - 1 teaspoon toasted sesame oil
-- 100 ml chicken stock or water
+- 100 ml chicken stock (or water)
 - 1 teaspoon cornflour
 
 ### Stir-fry

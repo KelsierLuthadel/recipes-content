@@ -27,10 +27,10 @@ Eggs whisk with sugar over a warm-water bath to ribbon stage, pale, thick, and t
 
 ### Tin prep
 - 1 tablespoon caster sugar (granulated/coarse, sprinkled in the bottom of the tin - gives the slightly crunchy sugar layer on the bottom of traditional kasutera)
-- Baking paper (cut to line a 20 x 10 x 10 cm loaf tin completely, with overhang)
 
 ### Equipment
 - A 20 x 10 cm rectangular loaf tin (preferably tall - 10 cm deep - for the classic kasutera shape)
+- Baking paper (cut to line the loaf tin completely, with overhang)
 - Cling film (for wrapping the hot cake)
 
 ## Method

@@ -20,7 +20,7 @@ Vegetables are diced into 1 cm cubes, slightly larger than Israeli salad. Olive 
 - 1 long green pepper (Turkish sivri biber if you can find; diced)
 - A small bunch of flat-leaf parsley (chopped)
 - 4 tablespoons extra-virgin olive oil
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 teaspoon sumac (plus more for sprinkling)
 - 1 teaspoon salt
 - ½ teaspoon black pepper

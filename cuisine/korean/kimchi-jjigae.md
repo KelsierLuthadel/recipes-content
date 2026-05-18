@@ -22,7 +22,7 @@ Pork belly slices brown in a heavy pot, joined by chopped sour kimchi (the older
 - 1 tablespoon gochugaru (Korean chilli flakes)
 - 1 teaspoon doenjang (Korean fermented soybean paste; or miso)
 - 1 teaspoon sugar
-- 700 ml water or stock (anchovy stock is traditional)
+- 700 ml water (or stock, anchovy stock is traditional)
 - 200 g firm tofu (cubed)
 - 4 spring onions (sliced)
 - 2 teaspoons toasted sesame oil

@@ -22,7 +22,7 @@ An elegant onion-infused derivative of béchamel, where sweetly caramelized onio
 
 ### Finishing
 - 150 ml double cream
-- half a teaspoon nutmeg (freshly ground)
+- ½ teaspoon nutmeg (freshly ground)
 - 1 pinch salt and pepper
 
 ## Method

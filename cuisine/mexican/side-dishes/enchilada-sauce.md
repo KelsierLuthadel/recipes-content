@@ -24,7 +24,7 @@ Rich, robust, and a thousand times better than store-bought, this authentic ench
 - 4 garlic cloves (peeled)
 
 ### Broth & Seasonings
-- 1 litre boiling water or chicken broth (for deeper flavour)
+- 1 litre boiling water (or chicken broth, for deeper flavour)
 - 1 teaspoon sea salt
 - 1 teaspoon dried Mexican oregano
 - 1 teaspoon ground cumin

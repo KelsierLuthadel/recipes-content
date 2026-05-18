@@ -22,7 +22,8 @@ Sausages slow-pan-fried so the skins blister and the fat renders, served on top 
 - 1 kg floury potatoes (Maris Piper), peeled and cubed
 - 75 g unsalted butter
 - 100 ml whole milk
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Onion gravy
 - 2 tablespoons unsalted butter
@@ -33,7 +34,8 @@ Sausages slow-pan-fried so the skins blister and the fat renders, served on top 
 - 1 tablespoon Worcestershire sauce
 - 1 teaspoon Dijon mustard
 - 1 teaspoon fresh thyme leaves
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ## Method
 

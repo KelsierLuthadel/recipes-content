@@ -23,7 +23,8 @@ Anchovies dissolve into hot olive oil with garlic and chilli; tomatoes simmer br
 - 100 g pitted black olives (Kalamata or similar, halved)
 - 400 g tinned chopped tomatoes (or 6 ripe tomatoes, chopped)
 - A handful of flat-leaf parsley (chopped, to finish)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ## Method
 

@@ -26,7 +26,7 @@ Chicken thigh, liver and heart sear hard in a wide pan with onions; spices bloom
 - ½ teaspoon ground cardamom
 - ½ teaspoon ground cinnamon
 - 1 ½ teaspoons salt
-- Juice of 1 lemon
+- 1 lemon (juice)
 
 ### To serve
 - 4 pita breads (warmed)

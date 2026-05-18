@@ -21,7 +21,7 @@ Vegetables are diced into uniform 5 mm cubes, knife work matters. Lemon juice, o
 - A small bunch of flat-leaf parsley (chopped)
 - A small bunch of mint (chopped, optional)
 - 4 tablespoons extra-virgin olive oil
-- Juice of 1 large lemon (around 3 tablespoons)
+- 1 lemon (large, around 3 tablespoons, juice)
 - 1 teaspoon salt
 - ½ teaspoon black pepper
 - ½ teaspoon ground sumac (optional)

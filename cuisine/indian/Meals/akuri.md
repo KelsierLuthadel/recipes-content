@@ -18,7 +18,8 @@ Silky scrambled eggs infused with warm spices and fresh aromatics. The turmeric 
 - half teaspoon fresh chilli (de-seeded and chopped)
 - half teaspoon ground turmeric
 - 1 tomato (de-seeded and diced)
-- salt and freshly ground black pepper
+- salt
+- pepper
 - half teaspoon coriander leaves (chopped)
 
 ## Method

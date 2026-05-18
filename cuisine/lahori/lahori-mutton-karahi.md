@@ -15,7 +15,7 @@ Bone-in lamb is browned in ghee with a small handful of whole spices, then ginge
 ## Ingredients
 
 ### Mutton
-- 1 kg lamb shoulder or leg (cut into 4 cm bone-in chunks; mutton if you can find it)
+- 1 kg lamb shoulder (or leg, cut into 4 cm bone-in chunks; mutton if you can find it)
 - 1 teaspoon salt (for initial seasoning)
 
 ### Cooking fat
@@ -47,10 +47,10 @@ Bone-in lamb is browned in ghee with a small handful of whole spices, then ginge
 - A handful of fresh coriander (chopped)
 - 1 teaspoon garam masala
 - 1 teaspoon crushed kasuri methi (dried fenugreek)
-- 1 tablespoon butter or ghee (for the surface slick)
+- 1 tablespoon butter (or ghee, for the surface slick)
 
 ### To serve
-- Warm naan, roti or roghni naan
+- Warm naan, roti (or roghni naan)
 - Lemon wedges
 - Sliced onion
 

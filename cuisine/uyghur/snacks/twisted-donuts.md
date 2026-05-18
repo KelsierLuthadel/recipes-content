@@ -24,7 +24,7 @@ A fried dough with a glassy, slightly biscuit-crisp shell and a soft, chewy, sli
 - 30 ml sunflower oil (heated, for the dough)
 
 ### To fry and finish
-- Sunflower or vegetable oil (1 litre, for deep-frying)
+- Sunflower (or vegetable oil, 1 litre, for deep-frying)
 - Icing sugar, to dust
 
 ## Method

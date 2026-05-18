@@ -25,9 +25,9 @@ Chicken thighs poach with onion, bay, cardamom and cinnamon to make a fragrant s
 - 1.6 litres water
 
 ### Mlukhieh
-- 500 g frozen finely chopped mlukhieh (jute mallow / molokhia) - sold at Middle Eastern shops
+- 500 g frozen finely chopped mlukhieh (jute mallow / molokhia, sold at Middle Eastern shops)
 - OR 200 g dried whole mlukhieh leaves, soaked 1 hour and chopped fine
-- OR 1 kg fresh mlukhieh leaves (stripped from stems, chopped very fine) - rarely available outside the region
+- OR 1 kg fresh mlukhieh leaves (stripped from stems, chopped very fine, rarely available outside the region)
 
 ### Tarka
 - 4 tablespoons olive oil (or 2 tablespoons olive oil + 2 tablespoons ghee)
@@ -44,7 +44,7 @@ Chicken thighs poach with onion, bay, cardamom and cinnamon to make a fragrant s
 - 400 g basmati rice (cooked, fluffy)
 - 2 lemons (cut into wedges)
 - 1 red onion (small, diced and soaked briefly in vinegar - optional Palestinian-style relish)
-- Khobz or pita
+- Khobz (or pita)
 
 ## Method
 

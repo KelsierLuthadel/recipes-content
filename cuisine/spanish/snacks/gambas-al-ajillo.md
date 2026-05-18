@@ -17,7 +17,7 @@ Sliced garlic (lots, like 8 cloves for a small dish) cooks slowly in olive oil t
 - 8 garlic cloves (sliced 2 mm)
 - 1 dried red chilli (small, broken into pieces, or ½ teaspoon chilli flakes)
 - 100 ml olive oil (good quality - this is the dish)
-- 1 tablespoon dry sherry (fino or manzanilla) - optional but classic
+- 1 tablespoon dry sherry (fino or manzanilla, optional but classic)
 - 1 teaspoon flaky sea salt
 - 2 tablespoons fresh flat-leaf parsley (finely chopped)
 - Crusty bread (essential, for serving)

@@ -39,9 +39,9 @@ Whole spices dry-toast until smoky, then grind to a Sri Lankan curry powder (cor
 - 1-2 long green chillies (slit lengthwise)
 - 1 tablespoon Maldive fish flakes (or fish sauce; optional)
 - 400 ml tin coconut milk (separated into thick and thin - see method)
-- 200 ml chicken stock or water
+- 200 ml chicken stock (or water)
 - 2 teaspoons salt (or to taste)
-- Juice of half a lime
+- ½ lime (juice)
 
 ## Method
 

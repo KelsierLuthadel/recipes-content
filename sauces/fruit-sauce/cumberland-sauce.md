@@ -25,7 +25,7 @@ A jewel-coloured relish with punchy acidity balanced by fruity herbs and spice. 
 ### Finishing
 - 2 tablespoons redcurrant jelly
 - 1 teaspoon Worcestershire sauce
-- juice of one orange
+- one orange (juice)
 - one lemon (finely pared, zest)
 - salt
 

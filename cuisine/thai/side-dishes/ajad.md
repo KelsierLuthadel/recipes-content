@@ -24,7 +24,7 @@ A simple syrup of rice vinegar, palm sugar, water and salt is brought to a gentl
 - 1 cucumber (medium, about 250 g - peel partially in stripes, halve lengthwise, deseed with a teaspoon, slice 3 mm thick)
 - 2 shallots (small, sliced very thinly)
 - 1-2 red Thai bird's-eye chillies (small, sliced thin - deseed for less heat)
-- 2 spring onions (finely sliced, white and green parts) - optional
+- 2 spring onions (finely sliced, white and green parts, optional)
 
 ### To finish
 - 2 tablespoons roasted peanuts (lightly crushed)

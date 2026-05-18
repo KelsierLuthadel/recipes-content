@@ -31,7 +31,7 @@ Mince combines with grated onion, very-finely chopped parsley, garlic, allspice,
 - 1 green bell pepper (chunks, on skewers)
 
 ### To serve
-- 4 large pita or saj breads (warmed)
+- 4 pita (large, or saj breads, warmed)
 - Garlic toum (lebanese garlic emulsion)
 - Hummus
 - Pickled turnips (pink)

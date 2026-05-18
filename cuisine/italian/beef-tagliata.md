@@ -25,7 +25,8 @@ Beef Tagliata is an elegant simplicity itself: thick-cut sirloin seared until a 
 ### Garnish & Finishing
 - 60 grams rocket leaves
 - 40 grams Parmesan shavings
-- Salt and freshly ground black pepper to taste
+- salt
+- pepper
 
 ## Method
 

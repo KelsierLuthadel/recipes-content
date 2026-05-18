@@ -24,7 +24,7 @@ A bunch of mint and a bunch of coriander are blended with green chilli, garlic, 
 - ½ teaspoon black salt (kala namak; optional but distinctive)
 - 1 teaspoon salt (to taste)
 - 1 tablespoon caster sugar (or 1 teaspoon honey)
-- Juice of 1 lemon (or 2-3 tablespoons of white vinegar)
+- 1 lemon (or 2-3 tablespoons of white vinegar, juice)
 - 4 tablespoons cold water
 - 200 g thick natural yogurt (Greek-style is fine)
 

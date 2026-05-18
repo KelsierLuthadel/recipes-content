@@ -14,9 +14,9 @@ Saba (cooking) bananas halve lengthways; if using regular bananas, choose under-
 
 ## Ingredients
 - 6 saba bananas (or 6 firm regular bananas, just-ripe)
-- 200 g fresh or canned ripe jackfruit (drained and sliced into 5 mm strips)
+- 200 g fresh (or canned ripe jackfruit, drained and sliced into 5 mm strips)
 - 12 spring roll wrappers (8 inch / 20 cm size; usually called "lumpia wrappers")
-- 200 g light muscovado or dark brown sugar
+- 200 g light muscovado (or dark brown sugar)
 - 600 ml neutral oil (for frying)
 
 ### To finish (optional)

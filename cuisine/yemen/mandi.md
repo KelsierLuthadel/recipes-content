@@ -20,7 +20,7 @@ Lamb shoulder is rubbed with a Yemeni spice mix (hawaij), browned, then steam-ro
 - 1 tablespoon ground cardamom
 - 6 garlic cloves (crushed)
 - 1 tablespoon salt
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 3 tablespoons vegetable oil
 
 ### Rice
@@ -28,7 +28,7 @@ Lamb shoulder is rubbed with a Yemeni spice mix (hawaij), browned, then steam-ro
 - 1 large pinch saffron threads
 - 4 tablespoons hot water (for the saffron)
 - 2 onions (thinly sliced)
-- 4 tablespoons ghee or vegetable oil
+- 4 tablespoons ghee (or vegetable oil)
 - 4 cardamom pods (bruised)
 - 2 cinnamon sticks
 - 4 cloves

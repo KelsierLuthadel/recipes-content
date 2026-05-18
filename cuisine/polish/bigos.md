@@ -33,7 +33,8 @@ Pork shoulder, beef, smoked sausage and bacon all brown separately, then meet sa
 - 6 juniper berries (lightly crushed)
 - 1 teaspoon sweet paprika
 - 1 tablespoon brown sugar
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - 2 tablespoons olive oil
 
 ## Method

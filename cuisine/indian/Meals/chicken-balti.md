@@ -13,7 +13,7 @@
 Birmingham's defining curry, cooked hard and fast in a thin two-handled steel balti pan over a roaring flame. The high heat caramelises the masala onto the meat and burns off the oil, leaving a slightly smoky, tomato-forward sauce. Eaten straight from the pan with naan; the sauce is medium-thick, not soupy.
 
 ## Ingredients
-- 3 tbsp rapeseed oil or seasoned oil
+- 3 tbsp rapeseed oil (or seasoned oil)
 - 1 onion (small), roughly chopped 
 - 1 green pepper deseeded and roughly chopped 
 - 1 tomato, diced 
@@ -23,7 +23,7 @@ Birmingham's defining curry, cooked hard and fast in a thin two-handled steel ba
 - 1 tsp ground turmeric 
 - 1 tsp paprika 
 - 250ml [base curry sauce](../Base/curry-base.md) (heated)
-- 200g skinless chicken breast or thigh meat, cut into small pieces
+- 200g skinless chicken breast (or thigh meat), cut into small pieces
 - 1 tbsp [garam masala](../Spice-Mixes/garam-masala.md)
 - 1 tsp dried fenugreek leaves 
 - Salt 

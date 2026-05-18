@@ -18,7 +18,8 @@ True pesto is made by hand, not blended, but a food processor creates acceptable
 - 1 garlic clove (peeled)
 - 130 ml extra virgin olive oil
 - 25 grams Parmesan (freshly grated)
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Pasta
 - 500 grams linguine

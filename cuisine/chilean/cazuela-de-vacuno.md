@@ -23,7 +23,7 @@ Beef shin browns; cooks in a simple broth of onion, garlic, oregano and cumin fo
 - 1 teaspoon ground black pepper
 - 1 ½ teaspoons salt
 - 2 ½ litres hot beef stock
-- 1 small pumpkin or butternut wedge (4 chunks of 200 g each)
+- 1 pumpkin (small, or butternut wedge, 4 chunks of 200 g each)
 - 2 corn-on-the-cob (each cut in half)
 - 4 potatoes (medium, peeled, whole)
 - 200 g green beans (trimmed)
@@ -56,7 +56,7 @@ Beef shin browns; cooks in a simple broth of onion, garlic, oregano and cumin fo
 1. While the vegetables cook, ladle 400 ml of broth into a small pan; add rice (or vermicelli); cook to packet time.
 
 ### Stage 6 - Plate
-1. In each deep bowl, place a piece of beef, a chunk of pumpkin, half a corn cob, a potato, some green beans and carrot.
+1. In each deep bowl, place a piece of beef, a chunk of pumpkin, ½ corn cob, a potato, some green beans and carrot.
 1. Top with a spoonful of cooked rice (or vermicelli).
 1. Ladle generous broth over.
 1. Scatter coriander; lime wedge alongside.

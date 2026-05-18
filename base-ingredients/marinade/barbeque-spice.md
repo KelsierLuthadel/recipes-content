@@ -28,7 +28,7 @@ Barbecue spice isn't a single fixed preparation, it's a philosophy of layered ar
 ### Additional Ingredients (IF MAKING WET MARINADE)
 - 150 milliliters red wine (or white wine, or bourbon)
 - 4 tablespoons garlic-infused oil (or regular olive oil)
-- 2-3 thin slices fresh onion or 1 tablespoon minced shallot
+- 2-3 thin slices fresh onion (or 1 tablespoon minced shallot)
 - 1 tablespoon fresh lime juice (optional, for brightness)
 
 ## Method - DRY RUB PREPARATION

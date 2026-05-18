@@ -14,7 +14,7 @@ Soft butter beats together with crushed garlic, parsley and a touch of salt. The
 
 ## Ingredients
 
-- 1 large baguette or 1 ciabatta loaf
+- 1 baguette (large, or 1 ciabatta loaf)
 - 150 g unsalted butter (very soft, at room temperature)
 - 6 garlic cloves (crushed)
 - 1 small bunch flat-leaf parsley (very finely chopped)

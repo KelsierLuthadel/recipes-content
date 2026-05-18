@@ -32,7 +32,7 @@ Onion is softened in oil; garlic, ginger and curry powder bloom. Carrots cook br
 - 2 tablespoons cider vinegar
 - 1 ½ teaspoons salt
 - ½ teaspoon black pepper
-- A small bunch flat-leaf parsley or coriander (chopped)
+- A small bunch flat-leaf parsley (or coriander, chopped)
 
 ## Method
 

@@ -38,7 +38,8 @@ A hearty Spanish soup featuring sweet chestnuts paired with spicy chorizo sausag
 - 2 teaspoons fresh thyme leaves
 - 2 dried red chillies (small)
 - 20 saffron strands
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Liquid/Broth
 - 1 litre water

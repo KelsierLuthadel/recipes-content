@@ -17,7 +17,8 @@ A classic British cheese sauce, creamy, tangy, and rich with mature Cheddar, tha
 - 50 grams fresh white breadcrumbs
 - 1 tablespoon English mustard powder
 - half teaspoon Worcestershire sauce
-- salt and freshly ground white pepper
+- salt
+- pepper
 - 2 eggs
 - 2 egg yolks
 

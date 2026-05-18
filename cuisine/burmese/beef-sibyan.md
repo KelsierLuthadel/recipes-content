@@ -14,7 +14,7 @@ Beef chuck or shin chunks are marinated in turmeric, fish sauce and salt. Onions
 
 ## Ingredients
 
-- 1 kg beef shin or chuck (cut into 4 cm chunks)
+- 1 kg beef shin (or chuck, cut into 4 cm chunks)
 - 2 teaspoons ground turmeric (split)
 - 2 tablespoons fish sauce
 - 1 ½ teaspoons salt (added later)

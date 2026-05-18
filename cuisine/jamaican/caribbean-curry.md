@@ -27,7 +27,7 @@ In many Caribbean stew dishes there is an initial step of burning sugar in oil w
 - 2 tbsp vegetable oil
 - 55g brown sugar
 - 3 tsp curry powder
-- 600ml water or stock
+- 600ml water (or stock)
 - 1 bay leaf
 - 2 thyme sprigs
 - 1 scotch bonnet (whole)

@@ -22,7 +22,7 @@ This showstopper from western Chinese cooking combines spices and sauces in a si
 - 900 ml Chinese chicken stock
 - 1 tablespoon chilli bean sauce (or 2 teaspoons chilli powder)
 - 2 teaspoons sugar
-- 70 ml dry sherry or rice wine
+- 70 ml dry sherry (or rice wine)
 - 1 tablespoon dark soy sauce
 - 1 tablespoon light soy sauce
 - 2 teaspoons garlic (finely chopped)

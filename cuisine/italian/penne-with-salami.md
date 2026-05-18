@@ -18,7 +18,8 @@ This is baked pasta at its most elegant. Fresh courgettes sear quickly to mainta
 - 2 courgettes (large, cut into 5 mm cubes)
 - 250 grams salami Milano (cut into small strips)
 - 3 tablespoons fresh flat leaf parsley (chopped)
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Pasta
 - 350 grams penne rigate
@@ -29,7 +30,8 @@ This is baked pasta at its most elegant. Fresh courgettes sear quickly to mainta
 - 500 ml full-fat milk (cold)
 - ½ teaspoon paprika
 - Pinch of freshly grated nutmeg
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Topping & Assembly
 - 100 grams Parmesan (freshly grated)

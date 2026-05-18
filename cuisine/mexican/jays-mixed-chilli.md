@@ -30,10 +30,11 @@ Chilli con carne is a hearty, flavour-packed stew that celebrates bold Mexican s
 - 1 star anise
 - 1 ½ teaspoons ground coriander
 - 1 teaspoon chilli powder
-- Salt and black pepper to taste
+- salt
+- pepper
 
 ### Sauce & Umami Base
-- 125ml beef or vegetable stock
+- 125ml beef (or vegetable stock)
 - 1 teaspoon marmite
 - 2 teaspoons soy sauce
 - 1 tablespoon balsamic vinegar

@@ -33,7 +33,7 @@ A whole hen (or chicken thighs and drumsticks if you can't get a stewing bird) s
 - 4 potatoes (medium, peeled, halved)
 - 2 sweet potatoes (medium, peeled, cut into 5 cm chunks)
 - 2 corn-on-the-cob (cut into 4 pieces each)
-- Juice of 1 lime
+- 1 lime (juice)
 
 ### To serve
 - 4 servings cooked white rice

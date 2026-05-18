@@ -20,7 +20,7 @@ Ready-rolled all-butter puff pastry cuts into 12 squares (about 12 × 12 cm). Ch
 ### Cheese filling
 - 250 g feta cheese (crumbled fine)
 - 150 g ricotta (drained if very wet)
-- 30 g grated kashkaval, parmesan or kefalotyri (any hard salty cheese)
+- 30 g grated kashkaval, parmesan (or kefalotyri, any hard salty cheese)
 - 1 egg (large)
 - 2 tablespoons fresh flat-leaf parsley (chopped)
 - ½ teaspoon ground nutmeg

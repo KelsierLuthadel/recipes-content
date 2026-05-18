@@ -15,7 +15,7 @@ Rib-eye or sirloin sliced paper-thin sits in a marinade of soy, brown sugar, ses
 ## Ingredients
 
 ### Marinade
-- 600 g rib-eye or sirloin (paper-thin, butcher-sliced or freezer-sliced)
+- 600 g rib-eye (or sirloin, paper-thin, butcher-sliced or freezer-sliced)
 - 1 ripe Asian pear (or 1 small apple), grated
 - 4 tablespoons soy sauce
 - 2 tablespoons brown sugar
@@ -25,11 +25,11 @@ Rib-eye or sirloin sliced paper-thin sits in a marinade of soy, brown sugar, ses
 - 1 onion (small, grated)
 - 4 spring onions (chopped)
 - 1 tablespoon toasted sesame seeds
-- 1 tablespoon mirin or rice wine
+- 1 tablespoon mirin (or rice wine)
 
 ### To serve
 - Cooked short-grain rice
-- 1 head butter lettuce or red-leaf lettuce (separated into whole leaves)
+- 1 head butter lettuce (or red-leaf lettuce, separated into whole leaves)
 - 1 cucumber (sliced)
 - Kimchi
 - Ssamjang (Korean dipping sauce; shop-bought is fine)

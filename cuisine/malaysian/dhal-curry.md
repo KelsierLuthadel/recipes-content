@@ -28,7 +28,7 @@ Yellow split peas (chana dal) simmer with onion, turmeric and tomato until very 
 - 1 ½ teaspoons salt
 
 ### Tarka
-- 4 tablespoons coconut oil or vegetable oil
+- 4 tablespoons coconut oil (or vegetable oil)
 - 1 teaspoon black mustard seeds
 - 1 teaspoon cumin seeds
 - 4 dried red chillies
@@ -38,9 +38,9 @@ Yellow split peas (chana dal) simmer with onion, turmeric and tomato until very 
 - 1 long red chilli (sliced)
 
 ### To finish
-- Juice of half a lime
+- ½ lime (juice)
 - Fresh coriander
-- Hot rice or roti canai (to serve)
+- Hot rice (or roti canai, to serve)
 
 ## Method
 

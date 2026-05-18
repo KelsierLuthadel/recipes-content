@@ -26,9 +26,10 @@ Beef mince browned with aromatics, simmered into a thick red-wine gravy with tom
 - 100 ml red wine
 - 300 ml beef stock
 - 1 tablespoon plain flour
-- 1 teaspoon fresh thyme leaves or ½ teaspoon dried
+- 1 teaspoon fresh thyme leaves (or ½ teaspoon dried)
 - 1 bay leaf
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Topping
 - 1 kg floury potatoes (Maris Piper or King Edward), peeled and cubed

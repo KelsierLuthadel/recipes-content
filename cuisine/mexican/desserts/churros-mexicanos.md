@@ -24,7 +24,7 @@ A choux-like dough cooks on the stovetop: water, butter, sugar, salt and a touch
 - 2 eggs (large, room temperature, beaten)
 
 ### For frying
-- 1 litre vegetable oil or sunflower oil
+- 1 litre vegetable oil (or sunflower oil)
 
 ### Cinnamon sugar coating
 - 150 g caster sugar

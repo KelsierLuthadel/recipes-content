@@ -23,7 +23,7 @@ Essential base for dopiaza curries, biryanis, and marinades. Fried onions add ri
 - 2 onions (large), finely sliced
 
 ### For paste
-- Water or yoghurt, as needed for blending
+- Water (or yoghurt), as needed for blending
 
 ## Method
 

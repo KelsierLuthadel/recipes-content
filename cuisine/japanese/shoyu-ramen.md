@@ -73,7 +73,7 @@ Of the four main ramen styles, shoyu (soy) is the cleanest and most aromatic, le
 2. Ladle over the hot seasoned broth.
 3. Top with chashu pork (or your chosen protein).
 4. Slice the reserved shiitake mushrooms (discard the stems) and add to the bowls.
-5. Add half a soft-boiled egg to each.
+5. Add ½ soft-boiled egg to each.
 6. Sprinkle with finely sliced spring onion.
 
 ## Notes

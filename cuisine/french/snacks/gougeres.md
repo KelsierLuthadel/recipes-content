@@ -27,7 +27,7 @@ Choux dough cooks on the stovetop: milk + water + butter + salt come to a rollin
 
 ### Cheese
 - 100 g Gruyère cheese (finely grated)
-- 50 g Comté or aged Cheddar (finely grated)
+- 50 g Comté (or aged Cheddar, finely grated)
 - A grating of fresh nutmeg
 
 ### To finish

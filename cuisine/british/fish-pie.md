@@ -28,7 +28,8 @@ Mixed fish poaches briefly in milk, the milk becomes a parsley-cheddar béchamel
 - 100 g mature cheddar (grated)
 - 2 teaspoons Dijon mustard
 - 3 tablespoons fresh parsley (chopped)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Mash topping
 - 1 kg floury potatoes (Maris Piper), peeled and cubed

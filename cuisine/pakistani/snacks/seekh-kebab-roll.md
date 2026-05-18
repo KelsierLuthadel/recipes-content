@@ -31,7 +31,7 @@ Lamb mince (with enough fat for tenderness; 20%) combines with grated onion (squ
 - 1 tablespoon chickpea flour (besan; helps the mince hold its shape on the skewer)
 
 ### To assemble
-- 4 large paratha or thin laffa-style flatbread (ready-made works; or use thin chapati / lavash)
+- 4 paratha (large, or thin laffa-style flatbread, ready-made works; or use thin chapati / lavash)
 - 1 red onion (small, sliced very thin and soaked in cold water 5 minutes, drained)
 - 1 small bunch fresh coriander (leaves only)
 - 6 tablespoons mint-coriander chutney (blitz 1 bunch coriander + 1 bunch mint + 2 green chillies + 1 garlic + juice of 1 lime + 1 teaspoon salt + 2 tablespoons yogurt)

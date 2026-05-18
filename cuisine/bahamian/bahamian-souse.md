@@ -25,7 +25,7 @@ Chicken pieces (bone-in legs or wings) poach in lightly salted water with onion,
 - 1 carrot (sliced)
 - 1 tablespoon allspice berries (or 1 teaspoon ground)
 - 2 bay leaves
-- 1 whole scotch bonnet or goat pepper (left whole, pierced once with a knife)
+- 1 whole scotch bonnet (or goat pepper, left whole, pierced once with a knife)
 - 1 ½ teaspoons salt (plus more to taste)
 - 1 teaspoon freshly ground black pepper
 
@@ -44,7 +44,7 @@ Chicken pieces (bone-in legs or wings) poach in lightly salted water with onion,
 ## Method
 
 ### Stage 1 - Wash the chicken (traditional)
-1. Rinse the chicken pieces under cold water; rub with the juice of half a lime and a generous pinch of salt. Rinse again and pat dry. This step is universal in Bahamian kitchens; it's about flavour as much as cleaning.
+1. Rinse the chicken pieces under cold water; rub with the juice of ½ lime and a generous pinch of salt. Rinse again and pat dry. This step is universal in Bahamian kitchens; it's about flavour as much as cleaning.
 
 ### Stage 2 - Build the pot
 1. Place the chicken in a large heavy pot. Cover with the cold water.

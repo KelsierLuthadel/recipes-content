@@ -33,7 +33,7 @@ When you go out for Thai food this is sure to be on the menu. I love the spicine
 - 8 mushrooms, quartered
 - 2 tomatoes, quartered
 - 3 spring onions (scallions), roughly chopped
-- Handful of chopped or sliced vegetables, such as cabbage, bean sprouts, carrots (optional)
+- Handful of chopped (or sliced vegetables), such as cabbage, bean sprouts, carrots (optional)
 
 ### Seasonings
 - 1 tbsp tamarind paste
@@ -42,7 +42,7 @@ When you go out for Thai food this is sure to be on the menu. I love the spicine
 - 3-4 tbsp Thai fish sauce*
 - 3 green bird’s eye chillies, smashed and cut lengthwise
 - 1 small handful of coriander (cilantro), roughly chopped
-- 2 tsp palm or white sugar (optional and to taste)
+- 2 tsp palm (or white sugar, optional and to taste)
 
 ## Method
 

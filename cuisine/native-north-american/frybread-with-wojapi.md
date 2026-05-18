@@ -33,7 +33,7 @@ A simple yeasted dough, flour, baking powder, milk, salt, a touch of sugar, rest
 
 ### To finish
 - Icing sugar for dusting
-- Whipped cream or vanilla ice cream (optional)
+- Whipped cream (or vanilla ice cream, optional)
 
 ## Method
 

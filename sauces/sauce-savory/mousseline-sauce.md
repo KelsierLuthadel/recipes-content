@@ -25,7 +25,7 @@ An ethereal refinement of classic hollandaise, where whipped cream is folded int
 - 250 grams Clarified butter (cooled to tepid)
 - 75 ml whipping cream
 - salt
-- juice of half a lemon (optional)
+- ½ lemon (optional, juice)
 
 ## Method
 

@@ -26,7 +26,7 @@ A medium potato grates fine (on a box grater); a small onion grates the same way
 - 4 tablespoons sunflower oil (for frying)
 
 ### To serve
-- Sangak, taftoon or flatbread
+- Sangak, taftoon (or flatbread)
 - 2 tomatoes (medium, sliced)
 - 1 small bunch radishes (sliced or whole)
 - A handful fresh parsley sprigs

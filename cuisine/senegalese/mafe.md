@@ -16,7 +16,7 @@ Bone-in beef or lamb is browned, then simmered with onions, garlic, tomato and s
 ## Ingredients
 
 ### Stew base
-- 1 kg beef shin or lamb shoulder on the bone, cut in 4-5 cm pieces
+- 1 kg beef shin (or lamb shoulder on the bone), cut in 4-5 cm pieces
 - 3 tablespoons vegetable oil
 - 2 onions (large, chopped)
 - 5 garlic cloves (crushed)
@@ -26,8 +26,8 @@ Bone-in beef or lamb is browned, then simmered with onions, garlic, tomato and s
 - 1 Scotch bonnet chilli (left whole)
 - 2 bay leaves
 - 1 teaspoon ground black pepper
-- 2 Maggi or other seasoning cubes
-- 1.2 litres beef or chicken stock
+- 2 Maggi (or other seasoning cubes)
+- 1.2 litres beef (or chicken stock)
 - Salt
 
 ### Peanut sauce

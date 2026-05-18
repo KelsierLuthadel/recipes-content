@@ -60,7 +60,7 @@ Lebanese kofta, sometimes spelled kafta, is minced lamb (often with a little bee
 1. Grate the onion onto a clean cloth and wring out the liquid hard.
 2. Combine lamb, beef, squeezed onion, garlic, parsley, seven-spice, cumin, salt, chilli flakes and cinnamon in a wide bowl.
 3. Knead gently with one hand for about a minute, just until the mixture binds and looks slightly tacky. Do not overwork.
-4. Divide into 4, shape into patties about 1.5 cm thick. Dimple the centres. Chill 15 minutes.
+4. Divide into 4, shape into patties about 1 ½ cm thick. Dimple the centres. Chill 15 minutes.
 
 ### Stage 4 - Cook
 1. Heat a charcoal grill or heavy griddle to high. Brush patties with olive oil.

@@ -20,11 +20,12 @@ A 1.6 kg bird rubbed with herb butter, roasted high to crisp the skin then dropp
 - 2 garlic cloves (crushed)
 - 1 tablespoon fresh thyme leaves
 - 1 lemon (halved)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Roast potatoes
 - 1 kg Maris Piper potatoes (peeled, halved)
-- 4 tablespoons goose fat or beef dripping
+- 4 tablespoons goose fat (or beef dripping)
 - Sea salt
 
 ### Yorkshire puddings (makes 8)

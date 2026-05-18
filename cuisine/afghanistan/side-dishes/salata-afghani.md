@@ -21,7 +21,7 @@ Tomatoes, cucumbers and red onion dice fine and even. A fresh dressing of lemon 
 - 3 tablespoons fresh coriander (chopped)
 - 1 tablespoon fresh mint (chopped, optional)
 - 4 tablespoons olive oil
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 teaspoon dried mint
 - ½ teaspoon salt
 - ¼ teaspoon ground black pepper

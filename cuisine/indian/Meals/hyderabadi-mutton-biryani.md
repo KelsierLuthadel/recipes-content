@@ -15,7 +15,7 @@ Bone-in mutton (or lamb) marinates for 4 hours in yogurt, ginger-garlic paste, d
 ## Ingredients
 
 ### Marinade
-- 1.2 kg bone-in mutton or lamb (shoulder or neck, cut into 4 cm chunks)
+- 1.2 kg bone-in mutton (or lamb, shoulder or neck, cut into 4 cm chunks)
 - 400 g full-fat Greek yogurt
 - 4 tablespoons ginger-garlic paste
 - 200 g birista (deep-fried onions - see Notes)

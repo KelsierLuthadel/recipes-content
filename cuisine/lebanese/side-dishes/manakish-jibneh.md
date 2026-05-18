@@ -26,7 +26,7 @@ A soft yeasted bread dough rises for 1 hour. Divides into 6 portions, rolls into
 - 150 g low-moisture mozzarella 
 - 50 g grated halloumi
 - 50 g feta (crumbled)
-- 1 tablespoon nigella seeds or sesame seeds (optional)
+- 1 tablespoon nigella seeds (or sesame seeds, optional)
 - 1 teaspoon dried mint
 
 ### Finish

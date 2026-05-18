@@ -14,14 +14,14 @@ Dried hulled white corn (nixtamalised, also called posole or hominy corn, distin
 
 ## Ingredients
 
-- 250 g dried white hominy corn (nixtamalised, not just dried corn - sold as "posole corn" or "hominy") - alternatively 2 tins drained hominy for a faster version
-- 1 kg pork hocks (smoked or fresh) - OR 800 g venison neck, OR 2 smoked turkey legs
+- 250 g dried white hominy corn (nixtamalised, not just dried corn - sold as "posole corn" or "hominy", alternatively 2 tins drained hominy for a faster version)
+- 1 kg pork hocks (smoked or fresh, OR 800 g venison neck, OR 2 smoked turkey legs)
 - 3 litres water
 - 2 bay leaves
 - 1 onion (large, halved)
 - 2 garlic cloves (whole)
 - 2 teaspoons salt (to start; adjust)
-- 1 (400 g) tin red kidney beans (drained and rinsed) - OR 200 g dried, soaked and pre-cooked
+- 1 (400 g) tin red kidney beans (drained and rinsed, OR 200 g dried, soaked and pre-cooked)
 - 1 teaspoon black pepper
 
 ## Method

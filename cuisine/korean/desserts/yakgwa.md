@@ -21,7 +21,7 @@ A dough of flour, sesame oil, honey, sugar, soju (Korean rice wine), and a pinch
 - ¼ teaspoon ground ginger
 - 60 ml toasted sesame oil (the dark Korean kind)
 - 60 ml honey
-- 30 ml soju (Korean rice spirit) - substitute vodka or dry sake
+- 30 ml soju (Korean rice spirit, substitute vodka or dry sake)
 - 20 g caster sugar
 
 ### Frying
@@ -29,7 +29,7 @@ A dough of flour, sesame oil, honey, sugar, soju (Korean rice wine), and a pinch
 
 ### Soaking syrup
 - 100 g honey
-- 100 ml rice syrup (jocheong) - substitute maple syrup or light corn syrup
+- 100 ml rice syrup (jocheong, substitute maple syrup or light corn syrup)
 - 50 ml water
 - 20 g fresh ginger (sliced thin)
 - 1 cinnamon stick (small)

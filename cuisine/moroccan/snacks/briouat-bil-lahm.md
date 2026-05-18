@@ -25,14 +25,14 @@ Onion is softened slowly in olive oil 15 minutes. Lamb mince browns with the oni
 - ¼ teaspoon ground ginger
 - 1 teaspoon salt
 - ½ teaspoon ground black pepper
-- 100 ml stock or water
+- 100 ml stock (or water)
 - 30 g flat-leaf parsley (chopped)
 - 20 g fresh coriander (chopped)
 - 1 egg (large, lightly beaten)
 - ¼ preserved lemon (peel only, finely diced)
 
 ### Pastry
-- 18 sheets warka or filo pastry (cut to 8 × 25 cm strips)
+- 18 sheets warka (or filo pastry, cut to 8 × 25 cm strips)
 - 2 tablespoons olive oil (for light brushing)
 - 1 egg (beaten, for sealing)
 

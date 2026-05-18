@@ -31,7 +31,8 @@ A delicate yet flavorful soup pairing the subtle anise notes of fennel with vibr
 
 ### Garnishes
 - 4 tablespoons double cream
-- salt and pepper to taste
+- salt
+- pepper
 
 ## Method
 
@@ -45,7 +46,7 @@ A delicate yet flavorful soup pairing the subtle anise notes of fennel with vibr
 
 ### Stage 2 - Cook soup
 1. Melt the butter in a large casserole pot.
-2. Over a low heat, fry the onion and fennel together very gently for about half an hour.
+2. Over a low heat, fry the onion and fennel together very gently for about ½ hour.
 3. Add the potato to the pot, along with the water.
 4. Simmer for about 20 minutes until the potato has been thoroughly cooked.
 5. Stir the spinach into the soup and remove from the heat.

@@ -48,7 +48,7 @@ Chicken pieces or lamb shoulder brown; onions, garlic, ginger and tomato build t
 - 1 onion (small, finely chopped)
 - 2 long green chillies (or jalapeños; chopped)
 - 4 garlic cloves (crushed)
-- Juice of 1 lemon
+- 1 lemon (juice)
 - A small bunch coriander (chopped)
 - 1 teaspoon salt
 

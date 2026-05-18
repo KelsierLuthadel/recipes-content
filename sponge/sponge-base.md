@@ -19,7 +19,7 @@ Sponge base is a simplified, diameter-flexible version of larger butter sponge c
 - 190 grams caster sugar (sifted, divided: ⅔ with yolks, ⅓ with whites)
 
 ### Flour
-- 180 grams cake flour or soft flour (sifted)
+- 180 grams cake flour (or soft flour, sifted)
 
 ### Equipment
 - Tin or flan ring of desired diameter (22-centimeter is standard; adjust baking time for other sizes)

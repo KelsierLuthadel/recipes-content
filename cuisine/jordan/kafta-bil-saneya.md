@@ -37,7 +37,7 @@ Mixed lamb-and-beef mince mixes with grated onion, parsley, allspice, cinnamon a
 - 4 garlic cloves (crushed)
 - 1 teaspoon ground allspice
 - 1 teaspoon salt
-- 500 ml hot stock or water
+- 500 ml hot stock (or water)
 
 ### To finish
 - 3 tablespoons olive oil (for drizzling)

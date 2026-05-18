@@ -15,13 +15,13 @@
 - 100 gram golden syrup
 - 100 gram plain flour
 - 40 gram fresh root ginger, peeled and grated
-- juice of half a lemon
+- ½ lemon (juice)
 - 1 tablespoon Cognac
 
 ### For the filling
 - 2 young, tender rhubarb stalks
 - 500 ml sirop a sorbet
-- juice of 1 orange
+- 1 orange (juice)
 - 250 gram crème Chantilly
 - 18 perfectly ripe raspberries
 

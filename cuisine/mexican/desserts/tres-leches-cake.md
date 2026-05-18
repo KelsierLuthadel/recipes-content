@@ -38,7 +38,7 @@ A sponge cake separates yolks and whites; the whites whip with sugar to stiff pe
 - 2 tablespoons icing sugar
 - 1 teaspoon vanilla extract
 - 1 teaspoon ground cinnamon (for dusting)
-- Fresh strawberries or other berries to serve (optional)
+- Fresh strawberries (or other berries to serve, optional)
 
 ## Method
 

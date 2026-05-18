@@ -18,7 +18,7 @@ Tomato and cucumber are deseeded and diced into 5 mm cubes. Onion (preferably pu
 - 2 cucumbers (medium, around 300 g)
 - 1 red onion (small)
 - 4 tablespoons extra-virgin olive oil
-- Juice of 2 limes
+- 2 limes (juice)
 - 1 tablespoon dried mint
 - A small bunch fresh mint (chopped)
 - 1 teaspoon salt

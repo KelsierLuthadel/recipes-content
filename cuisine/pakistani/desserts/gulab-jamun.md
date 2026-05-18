@@ -15,7 +15,7 @@ Khoya (or a milk-powder shortcut) blends with a small amount of plain flour, sem
 ## Ingredients
 
 ### Dough
-- 200 g khoya (mawa); or substitute 200 g full-fat milk powder + 60 ml warm milk
+- 200 g khoya (or 200 g full-fat milk powder + 60 ml warm milk)
 - 60 g plain flour
 - 1 tablespoon fine semolina
 - ½ teaspoon baking powder
@@ -33,7 +33,7 @@ Khoya (or a milk-powder shortcut) blends with a small amount of plain flour, sem
 - 1 tablespoon lemon juice
 
 ### Frying
-- Vegetable oil or ghee (about 800 ml; for deep-frying)
+- Vegetable oil (or ghee, about 800 ml; for deep-frying)
 
 ### To garnish
 - A few pistachios (chopped) and rose petals

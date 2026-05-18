@@ -15,7 +15,7 @@ Beef (or goat, or prawns) parboils briefly. Smoked fish soaks. A pepper paste of
 ## Ingredients
 
 ### Meat
-- 400 g beef shin or goat shoulder (cut into 3 cm chunks)
+- 400 g beef shin (or goat shoulder, cut into 3 cm chunks)
 - 1 teaspoon salt
 - 1 onion (small, halved)
 - 1 stock cube
@@ -40,7 +40,7 @@ Beef (or goat, or prawns) parboils briefly. Smoked fish soaks. A pepper paste of
 - 400 g fresh spinach (washed, rough chopped) - or 250 g frozen spinach (defrosted, drained)
 
 ### To serve
-- White rice, eba, fufu, pounded yam or boiled yam
+- White rice, eba, fufu, pounded yam (or boiled yam)
 
 ## Method
 

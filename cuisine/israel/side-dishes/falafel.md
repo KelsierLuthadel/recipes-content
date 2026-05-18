@@ -38,7 +38,7 @@ Dried chickpeas soak overnight, do not cook them. Blitz with onion, garlic, herb
 - Tahina sauce
 - Salata baladi
 - Pickled cucumbers, pickled turnips
-- Zhug or sahawiq
+- Zhug (or sahawiq)
 
 ## Method
 

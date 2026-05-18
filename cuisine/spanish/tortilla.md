@@ -29,7 +29,8 @@ This classic Spanish omelette is a rustic, hearty dish featuring tender potatoes
 - 6 eggs (large)
 - 2 tablespoons olive oil
 - 1 tablespoon butter
-- Salt and freshly ground black pepper to taste
+- salt
+- pepper
 
 ## Method
 

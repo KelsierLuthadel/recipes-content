@@ -22,7 +22,7 @@ A soft warm dough of fine semolina, plain flour, salt, sugar, yeast (optional bu
 - 270 ml warm water
 
 ### For lamination
-- 80 g unsalted butter (melted) - or 50 g butter + 30 ml sunflower oil for a slightly less rich version
+- 80 g unsalted butter (melted, or 50 g butter + 30 ml sunflower oil for a slightly less rich version)
 - Extra fine semolina, for dusting (about 4 tablespoons)
 - Sunflower oil, for the work surface (about 4 tablespoons)
 

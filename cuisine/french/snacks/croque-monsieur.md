@@ -20,7 +20,8 @@ A quick béchamel goes onto two slices of bread, ham fills the middle, more béc
 - 300 ml whole milk (warm)
 - A grating of nutmeg
 - 1 teaspoon Dijon mustard
-- Salt and freshly ground white pepper
+- salt
+- pepper
 
 ### Sandwiches
 - 8 thick slices good white bread (sourdough or pain de mie)

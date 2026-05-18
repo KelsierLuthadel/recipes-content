@@ -17,7 +17,7 @@ Dried chickpeas soak overnight with a teaspoon of baking soda. Cook for 60-75 mi
 - 300 g dried chickpeas (soaked overnight in cold water with 1 teaspoon baking soda)
 - 1 teaspoon baking soda (for the cook)
 - 4 garlic cloves
-- Juice of 1 ½ lemons (more to taste)
+- 1 ½ lemons (more to taste, juice)
 - 200 g good tahini (Lebanese, Palestinian or Israeli brand - light and pourable)
 - 1 ½ teaspoons salt (to taste)
 - 60-100 ml ice water (added during blending)
@@ -26,7 +26,7 @@ Dried chickpeas soak overnight with a teaspoon of baking soda. Cook for 60-75 mi
 ### To finish
 - 2 tablespoons olive oil (extra-virgin)
 - ½ teaspoon ground cumin
-- ½ teaspoon paprika or sumac
+- ½ teaspoon paprika (or sumac)
 - 2 tablespoons fresh parsley (chopped)
 - 1 tablespoon reserved whole chickpeas
 - Warm pita

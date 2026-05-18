@@ -32,7 +32,8 @@ This traditional Hungarian goulash is a rich, hearty stew featuring tender beef 
 - 2 heaped tablespoons sweet Hungarian paprika
 - ½ teaspoon whole caraway seeds
 - 750 ml beef stock
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Garnish
 - Fresh flat leaf parsley

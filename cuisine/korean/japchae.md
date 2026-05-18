@@ -22,15 +22,15 @@ Sweet potato glass noodles (dangmyeon) boil and toss in a soy-sesame sauce. Vege
 - 3 tablespoons brown sugar
 - 3 tablespoons toasted sesame oil
 - 2 garlic cloves (crushed)
-- 1 tablespoon mirin or rice wine
+- 1 tablespoon mirin (or rice wine)
 
 ### Stir-fry
-- 200 g rib-eye or sirloin (thinly sliced)
+- 200 g rib-eye (or sirloin, thinly sliced)
 - 1 onion (sliced)
 - 1 carrot (julienned)
 - 1 red pepper (julienned)
 - 200 g spinach
-- 200 g shiitake or chestnut mushrooms (sliced)
+- 200 g shiitake (or chestnut mushrooms, sliced)
 - 4 spring onions (sliced into 4 cm pieces)
 - 2 tablespoons vegetable oil (split through cooking)
 - Toasted sesame seeds, to finish

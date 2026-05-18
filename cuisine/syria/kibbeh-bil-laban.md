@@ -32,7 +32,8 @@ Fine bulgur soaks; lamb mince blends with bulgur, grated onion, allspice and sal
 - 1 teaspoon ground allspice
 - ½ teaspoon ground cinnamon
 - 1 tablespoon pomegranate molasses
-- Salt and black pepper
+- salt
+- pepper
 - 1 tablespoon fresh parsley (chopped)
 
 ### To fry shells

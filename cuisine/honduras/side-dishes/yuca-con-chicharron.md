@@ -34,7 +34,7 @@ Pork belly cooks slow with its own fat (rendered chicharrón); cassava boils in 
 
 ### To serve
 - 2 limes (cut into wedges)
-- A small dish of salsa picante or chimol
+- A dish of salsa picante (small, or chimol)
 
 ## Method
 

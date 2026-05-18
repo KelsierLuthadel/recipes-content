@@ -19,7 +19,7 @@ The dough uses a low-protein cake flour (or plain flour with cornflour added) fo
 - 30 g caster sugar
 - 1 ½ teaspoons fast-action yeast
 - 1 teaspoon baking powder
-- 25 g lard or vegetable shortening (softened, NOT melted)
+- 25 g lard (or vegetable shortening, softened, NOT melted)
 - 200 ml warm whole milk
 - 1 tablespoon vegetable oil
 - A pinch of salt
@@ -34,11 +34,11 @@ The dough uses a low-protein cake flour (or plain flour with cornflour added) fo
 - 1 teaspoon light soy sauce
 - 2 tablespoons caster sugar
 - 1 teaspoon sesame oil
-- 100 ml chicken stock or water
+- 100 ml chicken stock (or water)
 - 1 tablespoon cornflour (mixed with 2 tablespoons cold water)
 
-### For steaming
-- 12 squares of baking paper (about 6 cm square - one per bun)
+### Equipment
+- 12 squares of baking paper (about 6 cm square, one per bun)
 - A bamboo steamer with lid
 
 ## Method

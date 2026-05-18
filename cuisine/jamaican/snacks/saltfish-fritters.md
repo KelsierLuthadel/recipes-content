@@ -35,7 +35,7 @@ Salt cod is soaked overnight (or boiled in two changes of water) to draw out the
 
 ### To serve
 - Lime wedges
-- Jamaican pepper sauce or hot sauce
+- Jamaican pepper sauce (or hot sauce)
 
 ## Method
 

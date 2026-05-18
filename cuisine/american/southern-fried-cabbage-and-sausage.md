@@ -15,7 +15,7 @@ A lighter, faster Southern cabbage dish than its heavier bacon-laden sibling, 30
 ## Ingredients
 
 - 3 tablespoons unsalted butter (or bacon grease / duck fat)
-- 340 g pre-cooked andouille or kielbasa (sliced into rounds)
+- 340 g pre-cooked andouille (or kielbasa, sliced into rounds)
 - 1 cup chopped yellow onion
 - 4 garlic cloves (minced)
 - 2 teaspoons brown sugar

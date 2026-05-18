@@ -18,11 +18,11 @@ A Caribbean reimagining of the American fried chicken sandwich, by Chef Winslow:
 - 450 g boneless skinless chicken thighs
 - 240 ml coconut milk
 - 1 ½ tablespoons minced Scotch bonnet
-- 2 tablespoons Citrus-and-Herb / Greens-and-Garlic Caribbean seasoning
+- 2 tablespoons Citrus-and-Herb (or Greens-and-Garlic Caribbean seasoning)
 
 ### Flour dredge
 - 2 cups self-rising flour
-- 2 tablespoons Citrus-and-Herb / Greens-and-Garlic Caribbean seasoning
+- 2 tablespoons Citrus-and-Herb (or Greens-and-Garlic Caribbean seasoning)
 - Oil for deep-frying
 
 ### Coleslaw

@@ -17,7 +17,8 @@ A foundational French white sauce using stock and roux, creating silky body and 
 - 30g butter
 - 30g plain flour (sifted)
 - 1 litre cold stock (fish, chicken, or vegetable)
-- salt and freshly ground black pepper
+- salt
+- pepper
 
 ## Method
 

@@ -12,7 +12,7 @@ A luxurious, silky mango sauce infused with delicate saffron and brightened by f
 
 ## Ingredients
 - 250 grams mango (diced)
-- juice of ½ a lemon
+- ½ lemon (juice)
 - 250 ml [sirop a sorbet](../../base-ingredients/syrup/sirop-a-sorbet.md)
 - pinch saffron threads
 

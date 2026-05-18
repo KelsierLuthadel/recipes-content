@@ -18,8 +18,8 @@ Silken tofu cubes are blanched briefly in salted water (firms slightly and seaso
 - 200 g pork mince (or beef)
 - 3 tablespoons vegetable oil
 - 3 tablespoons doubanjiang (Pixian fermented broad-bean paste)
-- 1 tablespoon douchi (fermented black beans, rinsed and chopped) - optional but classic
-- 1 tablespoon gochujang or chilli bean sauce (optional, extra heat)
+- 1 tablespoon douchi (fermented black beans, rinsed and chopped, optional but classic)
+- 1 tablespoon gochujang (or chilli bean sauce, optional, extra heat)
 - 4 garlic cloves (very finely chopped)
 - 1 thumb fresh ginger (very finely chopped)
 - 1 tablespoon Shaoxing rice wine

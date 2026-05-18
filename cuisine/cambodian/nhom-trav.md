@@ -16,7 +16,7 @@ Banana flower is sliced thin and immediately submerged in lemon water to stop br
 
 ### Salad
 - 1 banana flower (around 400 g; outer red leaves discarded)
-- Juice of 1 lemon (for the soaking water)
+- 1 lemon (for the soaking water, juice)
 - 200 g firm tofu (cubed and pan-fried until golden)
 - 1 carrot (small, julienned)
 - 50 g beansprouts

@@ -23,7 +23,7 @@ A bright green masala paste of coriander, mint, green chilli, ginger and garlic 
 - 400 g large peeled prawns (raw, deveined)
 - ½ teaspoon turmeric
 - 1 teaspoon salt
-- Juice of ½ lime
+- ½ lime (juice)
 
 ### Green masala
 - 30 g fresh coriander (stems included)

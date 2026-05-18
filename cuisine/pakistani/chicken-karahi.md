@@ -14,8 +14,8 @@ A whole chicken is jointed into 8 bone-in pieces (or 8 thighs). Oil heats in a w
 
 ## Ingredients
 
-- 1.4 kg chicken (a whole bird jointed into 8 bone-in skin-on pieces) - OR 8 chicken thighs bone-in skin-on
-- 80 ml sunflower oil or ghee
+- 1.4 kg chicken (a whole bird jointed into 8 bone-in skin-on pieces, OR 8 chicken thighs bone-in skin-on)
+- 80 ml sunflower oil (or ghee)
 - 8 garlic cloves (crushed)
 - 4 cm fresh ginger (half grated, half cut into matchsticks for the garnish)
 - 8 tomatoes (medium, halved through the core - about 800 g)

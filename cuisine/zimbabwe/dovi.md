@@ -25,8 +25,9 @@ Chicken thighs are browned in oil; onions and garlic are softened alongside. Tom
 - ½ teaspoon chilli powder
 - 200 g smooth peanut butter (unsweetened, no palm oil)
 - 600 ml hot chicken stock
-- 200 g spinach or covo (collard) leaves (shredded)
-- Salt and black pepper
+- 200 g spinach (or covo, collard) leaves (shredded)
+- salt
+- pepper
 
 ## Method
 

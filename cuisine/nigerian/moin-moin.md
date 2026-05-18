@@ -41,7 +41,7 @@ Dried black-eyed beans soak briefly to loosen the skins. The skins rub off; the 
 
 ### To steam
 - A wide deep pot
-- 6 ramekins (small, 180 ml each) - OR cleaned banana leaves
+- 6 ramekins (small, 180 ml each, OR cleaned banana leaves)
 - A round of foil to seal the pot
 
 ## Method

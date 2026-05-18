@@ -21,7 +21,7 @@ Red peppers char under a grill or in a hot oven until the skins blacken, then st
 - 1 tablespoon ground Aleppo pepper (or 1 ½ tsp paprika + ½ tsp chilli flakes)
 - 1 teaspoon ground cumin
 - 2 garlic cloves
-- Juice of ½ lemon
+- ½ lemon (juice)
 - 3 tablespoons extra-virgin olive oil (plus more to drizzle)
 - ½ teaspoon salt (to taste)
 

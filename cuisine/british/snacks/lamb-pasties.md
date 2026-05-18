@@ -17,17 +17,18 @@ A Cornish-inspired pastry parcel filled with seasoned lamb, tender vegetables, a
 
 ### For the filling
 - 450 grams lean lamb (coarsely minced or chopped)
-- 25 grams beef dripping or lamb fat
+- 25 grams beef dripping (or lamb fat)
 - 25 grams plain flour
 - 1 garlic clove (crushed)
-- half a teaspoon thyme (freshly chopped)
+- ½ teaspoon thyme (freshly chopped)
 - half teaspoon sage (freshly chopped)
 - 100 grams onions (small dice)
 - 100 grams carrots (small dice)
 - 100 grams celery (small dice)
 - 100 grams swede (small dice)
 - 100 grams parsnip (small dice)
-- salt and freshly ground white pepper
+- salt
+- pepper
 - 25 grams plain flour
 - 900 ml chicken stock (reduced to 300 ml)
 - 150 ml veal jus

@@ -47,7 +47,7 @@ Dried chickpeas soak overnight with a pinch of bicarbonate of soda. The next mor
 - 1 lemon (cut into wedges)
 
 ### To serve
-- Hot khobz, pita or flatbread
+- Hot khobz, pita (or flatbread)
 - Mixed pickles (turnip, cucumber)
 - Sliced raw onion (optional, traditional)
 

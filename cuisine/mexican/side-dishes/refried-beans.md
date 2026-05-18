@@ -32,13 +32,14 @@ Dried pinto beans soak overnight (or quick-soak: 1 hour after boiling). They sim
 - 1 teaspoon ground cumin
 - 1 teaspoon dried oregano
 - 1 jalapeño (small, optional, finely chopped)
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### To finish
-- 80 g cotija or queso fresco (crumbled - or feta as a substitute)
+- 80 g cotija (or queso fresco, crumbled - or feta as a substitute)
 - 3 tablespoons fresh coriander (chopped)
 - 1 jalapeño (small, sliced thin, for topping)
-- Warm corn or flour tortillas to serve
+- Warm corn (or flour tortillas to serve)
 - Tortilla chips (for dipping)
 
 ## Method

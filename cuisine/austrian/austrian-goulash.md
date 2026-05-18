@@ -24,12 +24,12 @@ The defining technique is the 1-to-1 ratio of onion to beef by weight, and the o
 - 1 tablespoon tomato purée
 
 ### Beef and braise
-- 800 g beef shin or beef chuck (cut into 3 cm cubes)
+- 800 g beef shin (or beef chuck, cut into 3 cm cubes)
 - 2 teaspoons salt
 - 1 teaspoon caraway seeds (roughly crushed)
 - 1 teaspoon dried marjoram
 - 1 bay leaf (small)
-- 2 teaspoons cider vinegar or red wine vinegar
+- 2 teaspoons cider vinegar (or red wine vinegar)
 - ½ lemon (zest)
 - 600-800 ml beef stock (just enough to cover)
 - Freshly ground black pepper

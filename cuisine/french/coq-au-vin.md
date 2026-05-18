@@ -25,11 +25,12 @@ Lardons rendered, chicken pieces browned in the fat, then simmered in red wine w
 - 50 ml brandy
 - 400 ml chicken stock
 - 1 bouquet garni (thyme, parsley, bay leaf)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Garnish
 - 30 g unsalted butter
-- 200 g pearl onions or shallots (peeled)
+- 200 g pearl onions (or shallots, peeled)
 - 250 g chestnut mushrooms (halved)
 - 2 tablespoons chopped flat-leaf parsley
 

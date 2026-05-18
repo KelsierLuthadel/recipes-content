@@ -18,9 +18,9 @@ The fish is scored and stuffed with rof, a fragrant paste of parsley, garlic, ch
 ### Rof (green stuffing paste)
 - 1 large bunch flat-leaf parsley (about 60 g)
 - 6 garlic cloves
-- 1 Scotch bonnet or habanero chilli (deseeded if you prefer mild)
+- 1 Scotch bonnet (or habanero chilli, deseeded if you prefer mild)
 - 1 onion (small)
-- 1 Maggi or other seasoning cube
+- 1 Maggi (or other seasoning cube)
 - 1 teaspoon black pepper
 - 1 tablespoon vegetable oil
 
@@ -32,9 +32,9 @@ The fish is scored and stuffed with rof, a fragrant paste of parsley, garlic, ch
 - 400 g tinned chopped tomatoes
 - 2 tablespoons nététou (fermented locust bean) or 1 tablespoon dark miso (see Notes)
 - 1 Maggi cube
-- 2 dried smoked fish pieces or 1 tablespoon shrimp paste (optional but traditional)
+- 2 dried smoked fish pieces (or 1 tablespoon shrimp paste, optional but traditional)
 - 2 bay leaves
-- 1.5 litres water
+- 1 ½ litres water
 
 ### Vegetables
 - 300 g cassava (peeled, cut in 4 cm chunks)

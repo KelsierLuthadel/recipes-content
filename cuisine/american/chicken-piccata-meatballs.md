@@ -23,7 +23,8 @@ Chicken piccata, the Italian-American mid-century classic of pounded chicken cut
 - ⅓ cup panko breadcrumbs
 - ½ teaspoon smoked paprika
 - ½ teaspoon red pepper flakes
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - 450 g (1 lb) ground chicken
 - 1-2 tablespoons olive oil
 

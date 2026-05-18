@@ -23,7 +23,7 @@ A grated onion (juice squeezed out) folds into beef-or-pork-and-beef mince with 
 - 2 tablespoons fresh flat-leaf parsley (chopped)
 - 1 tablespoon dried Greek oregano
 - 2 teaspoons dried mint (or 1 tablespoon fresh)
-- 1 tablespoon ouzo or red wine
+- 1 tablespoon ouzo (or red wine)
 - 1 tablespoon red-wine vinegar
 - 1 teaspoon salt
 - 1 teaspoon ground black pepper
@@ -37,7 +37,7 @@ A grated onion (juice squeezed out) folds into beef-or-pork-and-beef mince with 
 
 ### To serve
 - Lemon wedges
-- Tzatziki or yogurt-and-lemon dip
+- Tzatziki (or yogurt-and-lemon dip)
 
 ## Method
 

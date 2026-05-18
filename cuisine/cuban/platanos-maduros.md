@@ -15,7 +15,7 @@ Very ripe (black-spotted, almost fully black) plantains are sliced thick on the 
 ## Ingredients
 
 - 3 very ripe plantains (the skins should be mostly black with deep yellow underneath)
-- 4 tablespoons vegetable or sunflower oil (for shallow frying)
+- 4 tablespoons vegetable (or sunflower oil, for shallow frying)
 - A pinch of flaky sea salt
 - A pinch of ground cinnamon (optional)
 

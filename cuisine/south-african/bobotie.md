@@ -28,12 +28,12 @@ Bread is soaked in milk; mince is browned with onions; curry powder, turmeric an
 - ½ teaspoon ground cloves
 - ½ teaspoon ground cardamom
 - 2 bay leaves (for the cooking)
-- 80 g raisins or sultanas
+- 80 g raisins (or sultanas)
 - 50 g flaked almonds (toasted, plus more for topping)
 - 3 tablespoons apricot jam
 - 2 tablespoons mango chutney (Mrs Ball's if you can get it)
 - 2 tablespoons cider vinegar
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 ½ teaspoons salt
 - ½ teaspoon black pepper
 

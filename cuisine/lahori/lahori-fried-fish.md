@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Firm white fish is scored, rubbed with a spice paste of ginger-garlic, Kashmiri chilli, ajwain (carom), turmeric and lemon, and rested for half an hour. A separate gram-flour batter (besan, rice flour, ajwain and a pinch of bicarb for crispness) is whisked to a thick coating consistency. Each fillet is dipped in the batter and shallow-fried in mustard oil until the crust deep-gold-crackles. Eaten with a heavy dusting of chaat masala and a squeeze of lemon.
+Firm white fish is scored, rubbed with a spice paste of ginger-garlic, Kashmiri chilli, ajwain (carom), turmeric and lemon, and rested for ½ hour. A separate gram-flour batter (besan, rice flour, ajwain and a pinch of bicarb for crispness) is whisked to a thick coating consistency. Each fillet is dipped in the batter and shallow-fried in mustard oil until the crust deep-gold-crackles. Eaten with a heavy dusting of chaat masala and a squeeze of lemon.
 
 ## Ingredients
 
@@ -22,7 +22,7 @@ Firm white fish is scored, rubbed with a spice paste of ginger-garlic, Kashmiri 
 - 1 teaspoon ajwain (carom seeds; or fennel seeds)
 - 1 teaspoon ground cumin
 - 1 teaspoon salt
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 tablespoon mustard oil (for the marinade; smoke it first)
 
 ### Batter

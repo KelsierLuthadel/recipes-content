@@ -42,7 +42,7 @@ Chickpea flour and plain flour whisk with cold water and a pinch of salt and pap
 1. Just before frying, stir in the tiny shrimp, sliced spring onion and chopped parsley.
 
 ### Stage 3 - Heat the oil
-1. Pour the olive oil into a wide pan to a depth of 1.5 cm.
+1. Pour the olive oil into a wide pan to a depth of 1 ½ cm.
 1. Heat to 180°C (a tiny drop of batter should sizzle and rise immediately).
 
 ### Stage 4 - Fry

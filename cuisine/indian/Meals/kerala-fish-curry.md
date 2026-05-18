@@ -18,7 +18,7 @@ A masala paste of shallot, ginger, garlic and red chilli is bloomed in coconut o
 - 600 g firm white fish (kingfish, sea bream, hake or pollock; cut into 4 cm pieces)
 - ½ teaspoon turmeric
 - ½ teaspoon salt
-- Juice of ½ lime
+- ½ lime (juice)
 
 ### Curry
 - 3 tablespoons coconut oil

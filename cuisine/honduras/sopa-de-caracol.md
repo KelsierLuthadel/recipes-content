@@ -23,13 +23,13 @@ Conch is tenderised by pounding (or by long cooking, whichever is at hand), then
 - 1 teaspoon ground annatto (achiote) or paprika
 - 1 teaspoon dried oregano
 - 1 (400 ml) tin coconut milk
-- 500 ml water or fish stock
+- 500 ml water (or fish stock)
 - 1 green (large, unripe) plantain (peeled, sliced 1 cm thick)
 - 400 g yuca (peeled, cut into 3 cm chunks)
 - 2 carrots (medium, sliced 1 cm thick)
 - ¼ teaspoon ground black pepper
 - 1 teaspoon salt (to taste)
-- Juice of 1 lime
+- 1 lime (juice)
 - 3 tablespoons fresh cilantro (chopped)
 
 ## Method

@@ -26,7 +26,7 @@ Thinly sliced beef simmered briefly in dashi with mirin, sake, soy and sugar, al
 - 300 g thinly sliced beef (rib-eye or sirloin; ask the butcher to slice paper-thin, or freeze 30 minutes and slice yourself)
 
 ### To serve
-- 2 bowls cooked Japanese short-grain rice
+- rice
 - 1 spring onion (thinly sliced)
 - 2 tablespoons benishōga (red pickled ginger)
 - 2 soft-boiled eggs (optional)

@@ -15,7 +15,7 @@ Salt cod (bacalhau) desalts in cold water for 24-36 hours with multiple water ch
 ## Ingredients
 
 ### Bacalhau prep
-- 400 g salt cod loin / fillet (bacalhau - sold dried at Portuguese / Spanish / Iberian shops)
+- 400 g salt cod loin (or fillet, bacalhau - sold dried at Portuguese / Spanish / Iberian shops)
 - Cold water (for the 24-36 hour desalting soak)
 
 ### Cooking the cod

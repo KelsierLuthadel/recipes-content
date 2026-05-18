@@ -20,7 +20,7 @@ Vegetables dice into 5 mm cubes, uniform size matters for both look and dressing
 - 1 long green chilli (finely chopped; or to taste)
 - A small bunch fresh coriander (chopped)
 - A small handful fresh mint (chopped)
-- Juice of 1 lime
+- 1 lime (juice)
 - 1 teaspoon chaat masala (or 1 tsp lemon juice + ½ tsp ground cumin + pinch of black salt)
 - ½ teaspoon ground cumin (toasted, ideally)
 - ¾ teaspoon salt

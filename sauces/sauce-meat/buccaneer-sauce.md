@@ -28,7 +28,8 @@ A sophisticated sweet-savoury sauce combining tart raspberry vinegar with tropic
 ### Liquid
 - 6 tablespoons raspberry vinegar
 - 400 ml Veal stock
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

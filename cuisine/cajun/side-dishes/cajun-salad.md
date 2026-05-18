@@ -31,7 +31,8 @@ A fiery potato salad blending Cajun spices with a mayo-based dressing, featuring
 - ¼ tsp dried coriander
 - ¼ tsp cayenne pepper
 - 2 tsp thyme (chopped)
-- Salt and ground black pepper
+- salt
+- pepper
 
 ### To serve
 - Salad leaves

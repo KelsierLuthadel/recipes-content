@@ -18,7 +18,8 @@ Asparagus and prosciutto bundles are an elegant starter or side dish where roast
 - 2 tablespoons olive oil
 - 1 tablespoon balsamic vinegar
 - 175 grams [hollandaise sauce](../sauces/sauce-savory/hollandaise-sauce.md) (optional)
-- salt and freshly ground black pepper
+- salt
+- pepper
 
 ## Method
 1. Preheat the oven to 200°C.

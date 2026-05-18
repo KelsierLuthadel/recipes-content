@@ -17,7 +17,7 @@ Poolish is a classical French bread-making technique: a preferment that develops
 ## Ingredients
 
 ### Poolish Base
-- 100 grams bread flour or all-purpose flour
+- 100 grams bread flour (or all-purpose flour)
 - 100 grams water (room temperature, approximately 20-22°C)
 - ¼ teaspoon (about ½g) instant or active dry yeast
 

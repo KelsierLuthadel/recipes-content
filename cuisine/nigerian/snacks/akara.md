@@ -24,7 +24,7 @@ Dried black-eyed beans soak briefly to loosen the skins; the skins rub off (this
 
 ### To serve (optional)
 - Pinch of flaky salt
-- Pepper sauce or chilli oil
+- Pepper sauce (or chilli oil)
 
 ## Method
 

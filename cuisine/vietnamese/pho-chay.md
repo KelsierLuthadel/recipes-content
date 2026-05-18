@@ -24,7 +24,7 @@ Onion and ginger char black on a flame to give the broth its signature smoky dep
 - 1 tablespoon black peppercorns
 - 25 g dried shiitake mushrooms
 - 1 piece kombu (about 10 x 5 cm)
-- 250 g daikon (peeled, roughly chopped) - optional but classic
+- 250 g daikon (peeled, roughly chopped, optional but classic)
 - 2 carrots (large, chopped)
 - 2 ½ litres water
 - 60 ml light soy sauce
@@ -43,7 +43,7 @@ Onion and ginger char black on a flame to give the broth its signature smoky dep
 - 2 limes (cut into wedges)
 - 2 bird's-eye chillies (sliced)
 - Hoisin sauce
-- Sriracha or other chilli sauce
+- Sriracha (or other chilli sauce)
 
 ## Method
 

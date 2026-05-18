@@ -43,7 +43,7 @@ Lamb chunks are braised gently with turmeric, ginger-garlic paste and a small ha
 - 2 green chillies (slit)
 - ½ teaspoon salt (to adjust)
 - A handful of coriander (chopped)
-- Juice of ½ lime
+- ½ lime (juice)
 
 ## Method
 

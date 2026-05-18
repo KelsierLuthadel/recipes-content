@@ -22,7 +22,8 @@ A delicate pale pink sauce combining creamy béchamel with bright tomato coulis 
 ### Colourant & finishing
 - 120 ml [Tomato Coulis](../../coulis/vegetable/tomato-coulis.md)
 - 20 grams butter (chilled and diced)
-- salt and pepper (to taste)
+- salt
+- pepper
 
 ## Method
 

@@ -27,8 +27,9 @@ An elegant, silky emulsion balancing sharp tarragon with creamy, buttery richnes
 
 ### Finishing
 - 2 tablespoons parsley
-- juice of half a lemon
-- salt and pepper
+- ½ lemon (juice)
+- salt
+- pepper
 
 ## Method
 

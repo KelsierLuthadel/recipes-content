@@ -20,7 +20,7 @@ A simple flour-water-salt dough rests for 30 minutes. Mutton (or beef) is minced
 - ½ teaspoon salt
 
 ### Filling
-- 400 g minced mutton (20% fat) - or fatty beef mince
+- 400 g minced mutton (20% fat, or fatty beef mince)
 - 1 onion (medium, finely diced)
 - 3 garlic cloves (crushed)
 - 1 teaspoon salt

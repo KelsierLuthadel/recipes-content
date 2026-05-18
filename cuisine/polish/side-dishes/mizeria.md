@@ -21,7 +21,7 @@ Cucumber slices very thin, salts for 20 minutes to draw out water, then squeezes
 
 ### Dressing
 - 200 g full-fat sour cream
-- 1 tablespoon white wine vinegar or lemon juice
+- 1 tablespoon white wine vinegar (or lemon juice)
 - 1 garlic clove (small, finely grated; optional)
 - 1 teaspoon caster sugar
 - ½ teaspoon fine salt

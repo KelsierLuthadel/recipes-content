@@ -26,7 +26,8 @@ Spinach wilts and squeezes dry; mixes with crumbled feta, ricotta, eggs, dill an
 - A small bunch of dill (chopped)
 - A small bunch of parsley (chopped)
 - A grating of nutmeg
-- Salt and black pepper
+- salt
+- pepper
 
 ### Pastry
 - 270 g filo pastry (10-12 sheets)

@@ -37,7 +37,7 @@ Onion is softened in olive oil with chopped anchovies. Trimmed chicken livers jo
 - Extra-virgin olive oil to drizzle
 
 ### Crostini
-- 1 baguette or ciabatta (sliced 1 cm thick - about 24 slices)
+- 1 baguette (or ciabatta, sliced 1 cm thick - about 24 slices)
 - 3 tablespoons olive oil (for brushing)
 - 1 garlic clove (peeled, whole, for rubbing)
 

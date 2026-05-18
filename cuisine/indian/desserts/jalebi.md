@@ -33,7 +33,7 @@ A loose batter of plain flour, gram flour, yoghurt and water ferments 8-12 hours
 - 1 teaspoon rose water (optional)
 
 ### To fry
-- 1 litre vegetable oil or ghee (or a mix for richness)
+- 1 litre vegetable oil (or ghee, or a mix for richness)
 
 ### To garnish
 - 1 tablespoon pistachios (slivered)

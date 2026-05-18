@@ -34,7 +34,7 @@ A flavorful methi chicken tikka combining fresh fenugreek with aromatic spices a
 - 1 tbsp rapeseed (canola) oil
 
 ### Aromatics and acid
-- Juice of 2 lemons
+- 2 lemons (juice)
 
 ### Finishers
 - 50 g (3 ½ tbsp) unsalted butter, melted

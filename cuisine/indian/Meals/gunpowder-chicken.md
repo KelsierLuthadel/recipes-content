@@ -29,7 +29,7 @@ Gluten-free popcorn chicken bites made with gram flour batter, inspired by overp
 - ½ tsp salt (plus extra for tossing)
 
 ### Acid
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ### Binder
 - 1 egg, beaten

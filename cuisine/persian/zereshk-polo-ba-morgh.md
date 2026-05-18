@@ -26,7 +26,7 @@ Basmati rice rinses thoroughly; soaks for 1 hour in salted water. Bone-in chicke
 - ½ teaspoon black pepper
 - 1 large pinch saffron threads (soaked in 3 tablespoons hot water)
 - 250 ml water
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ### Rice
 - 500 g long-grain basmati rice

@@ -18,7 +18,7 @@ A warm and aromatic ice cream infused with the sweet spice of cinnamon, creating
 1. Once cold, remove the cinnamon and discard.
 1. Stir the cream into the crème anglaise.
 1. Pour the mixture into an ice-cream maker and churn for about 20 minutes, until the ice cream is firm but still creamy.
-1. Transfer the ice cream to a chilled freezer-proof container for half an hour before serving.
+1. Transfer the ice cream to a chilled freezer-proof container for ½ hour before serving.
 
 ## Notes
 - The cinnamon stick should be added to the crème anglaise while the milk is heating; this infuses the flavor throughout the custard base without requiring additional processing

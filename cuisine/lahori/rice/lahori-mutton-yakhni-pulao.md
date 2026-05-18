@@ -47,7 +47,7 @@ Bone-in mutton (or lamb shoulder, preferably with marrow bones) is simmered for 
 ### To finish
 - A handful of fresh coriander (chopped)
 - A handful of fresh mint leaves (chopped)
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ## Method
 

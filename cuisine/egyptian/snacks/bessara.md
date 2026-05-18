@@ -31,7 +31,7 @@ Dried split fava beans (foul mudammas) soak overnight with bicarbonate of soda. 
 - 1 ½ teaspoons ground cumin
 - 1 teaspoon ground coriander
 - ½ teaspoon Aleppo pepper
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 ½ teaspoons salt (to taste)
 - 3 tablespoons olive oil
 
@@ -43,7 +43,7 @@ Dried split fava beans (foul mudammas) soak overnight with bicarbonate of soda. 
 - A pinch of dried mint
 
 ### To serve
-- Hot baladi bread, pita or any flatbread
+- Hot baladi bread, pita (or any flatbread)
 - Sliced raw onion (optional, traditional)
 - Lemon wedges
 - A small bowl of dukkah (optional)

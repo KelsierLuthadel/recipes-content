@@ -31,7 +31,7 @@ The "everything" Louisiana gumbo, chicken thighs, andouille, lump crab and shrim
 - 450 g raw large shrimp (peeled, deveined)
 - 3 teaspoons gumbo filé powder
 - Louisiana hot sauce, to taste
-- Cooked white rice, scallions or parsley, to serve
+- Cooked white rice, scallions (or parsley), to serve
 
 ## Method
 

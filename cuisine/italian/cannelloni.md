@@ -25,7 +25,8 @@ This layered pasta masterpiece begins with fresh, delicate pasta sheets encasing
 - 150 grams rocket leaves (chopped)
 - 60 grams Pecorino (freshly grated)
 - ¼ teaspoon nutmeg (freshly grated)
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Béchamel Sauce
 - 100 grams salted butter

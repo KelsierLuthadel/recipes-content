@@ -10,10 +10,10 @@
 **Cook Time:** 4 minutes
 
 ## Overview
-Country bread (sourdough or pan rústico) slices 1.5 cm thick. Toasts in a hot oven, on a griddle, or under a grill until pale gold and crisp on the outside but still tender inside. Garlic clove halves; cut sides rub gently over the warm toast. Ripe tomatoes halve; cut sides rub harder, pressing tomato pulp into the bread until soaked. Olive oil drizzles; flaky salt sprinkles. Eat at once.
+Country bread (sourdough or pan rústico) slices 1 ½ cm thick. Toasts in a hot oven, on a griddle, or under a grill until pale gold and crisp on the outside but still tender inside. Garlic clove halves; cut sides rub gently over the warm toast. Ripe tomatoes halve; cut sides rub harder, pressing tomato pulp into the bread until soaked. Olive oil drizzles; flaky salt sprinkles. Eat at once.
 
 ## Ingredients
-- 4 thick slices country sourdough (about 1.5 cm thick)
+- 4 thick slices country sourdough (about 1 ½ cm thick)
 - 2 garlic cloves (peeled, halved)
 - 2 ripe tomatoes (the ripest you can find - vine-ripened, ideally)
 - 4 tablespoons extra-virgin olive oil (the best you have)
@@ -35,7 +35,7 @@ Country bread (sourdough or pan rústico) slices 1.5 cm thick. Toasts in a hot o
 1. Halve the tomatoes crossways.
 1. Take a tomato half by the skin; press the cut side firmly into the toast.
 1. Rub vigorously back and forth; the pulp and juice transfer to the bread; you should be left holding just the skin.
-1. Half a tomato per slice.
+1. ½ tomato per slice.
 
 ### Stage 4 - Oil and salt
 1. Drizzle 1 tablespoon of olive oil generously over each slice (be generous - this is a oil-heavy dish).

@@ -36,7 +36,7 @@ A yeasted bread dough rises for 1 hour. Topping: lamb mince mixed RAW with grate
 - ½ teaspoon ground cinnamon
 - 1 ½ teaspoons salt
 - ½ teaspoon black pepper
-- Juice of ½ lemon
+- ½ lemon (juice)
 - 3 tablespoons olive oil
 - 40 g pine nuts (toasted)
 

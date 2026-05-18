@@ -17,7 +17,7 @@ A stiff oil-rich plain-flour dough (maida) rolls thin and crisps in the fryer wi
 
 ### Pastry
 - 300 g plain flour
-- 4 tablespoons ghee or vegetable oil
+- 4 tablespoons ghee (or vegetable oil)
 - 1 teaspoon ajwain (carom) seeds
 - ¾ teaspoon salt
 - 120 ml cold water (approximately)
@@ -37,10 +37,10 @@ A stiff oil-rich plain-flour dough (maida) rolls thin and crisps in the fryer wi
 - ½ teaspoon Kashmiri chilli powder
 - 1 teaspoon salt
 - 1 small handful coriander leaves (chopped)
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ### To fry
-- 1 litre vegetable or sunflower oil
+- 1 litre vegetable (or sunflower oil)
 
 ## Method
 

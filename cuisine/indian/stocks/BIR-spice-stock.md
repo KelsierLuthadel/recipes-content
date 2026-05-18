@@ -22,7 +22,7 @@ A fragrant aromatic stock made from whole spices and fresh herbs. This versatile
 - Large handful of star anise
 - 1 tsp roasted cumin seeds
 - Large bunch of coriander (cilantro), stems and leaves roughly chopped
-- 1 or more fresh green chillies, to taste, halved lengthways (optional)
+- 1 (or more fresh green chillies), to taste, halved lengthways (optional)
 - 1 litre (4 ½ cups) water
 
 ## Method

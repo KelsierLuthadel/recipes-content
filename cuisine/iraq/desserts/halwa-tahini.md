@@ -22,7 +22,7 @@ Sugar and water dissolve, then boil to the soft-ball stage (118°C). Off the hea
 - 1 ½ teaspoons rose water
 - 80 g shelled pistachios (lightly toasted, roughly chopped; a handful kept whole for the top)
 - A pinch of salt
-- 1 tablespoon glucose syrup or honey (optional; helps prevent crystallisation)
+- 1 tablespoon glucose syrup (or honey, optional; helps prevent crystallisation)
 
 ### To garnish
 - 2 tablespoons whole pistachios

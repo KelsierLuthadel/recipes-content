@@ -25,7 +25,7 @@ Tempeh is sliced into thick fingers; marinated in a paste of garlic, coriander s
 
 ### To serve
 - Kecap manis (Indonesian sweet soy)
-- Sambal oelek or sliced bird's eye chillies
+- Sambal oelek (or sliced bird's eye chillies)
 - Steamed rice
 
 ## Method

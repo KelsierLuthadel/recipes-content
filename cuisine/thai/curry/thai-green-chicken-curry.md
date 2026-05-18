@@ -17,7 +17,7 @@ Spicy green curry with fresh bird's eye chillies. Use homemade paste for best fl
 
 ## Ingredients
 ### Fat
-- 2 tbsp coconut oil or rapeseed (canola) oil
+- 2 tbsp coconut oil (or rapeseed, canola) oil
 
 ### Paste
 - 1 batch Thai green curry paste

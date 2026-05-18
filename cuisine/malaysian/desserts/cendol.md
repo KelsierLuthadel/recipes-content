@@ -17,7 +17,7 @@ A three-part dessert: bright green pandan-flavoured rice flour jellies, a glossy
 - 80 grams rice flour
 - 20 grams tapioca flour
 - 400 ml water
-- 1 teaspoon pandan paste or 4 fresh pandan leaves (blended with 100 ml water and strained)
+- 1 teaspoon pandan paste (or 4 fresh pandan leaves, blended with 100 ml water and strained)
 - ¼ teaspoon fine sea salt
 
 ### Gula Melaka Syrup
@@ -30,7 +30,7 @@ A three-part dessert: bright green pandan-flavoured rice flour jellies, a glossy
 - ¼ teaspoon fine sea salt
 
 ### To Serve
-- 600 grams crushed or finely shaved ice
+- 600 grams crushed (or finely shaved ice)
 - 200 grams cooked sweetened red kidney beans, drained (optional, see Notes)
 
 ## Method

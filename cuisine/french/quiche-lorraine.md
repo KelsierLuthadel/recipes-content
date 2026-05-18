@@ -28,7 +28,8 @@ Buttery shortcrust pastry blind-baked first to set the base, then filled with re
 - 200 ml double cream
 - 200 ml whole milk
 - A grating of fresh nutmeg
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ## Method
 

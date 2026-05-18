@@ -25,7 +25,7 @@ Potatoes are boiled in their skins until tender (about 25 minutes); cooled sligh
 - 1 teaspoon salt
 - ½ teaspoon black pepper
 - 1 teaspoon dried mint (optional)
-- 2 tablespoons fresh chives or spring onion (chopped, optional)
+- 2 tablespoons fresh chives (or spring onion, chopped, optional)
 
 ### To finish
 - 30 g unsalted butter (for the tin)

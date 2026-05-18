@@ -15,10 +15,11 @@ A classic three-tier sandwich combining toasted bread, tender chicken, crispy ba
 - 2 slices of bread
 - soft butter
 - 1 chicken breast fillet
-- salt and freshly ground pepper
+- salt
+- pepper
 - 1 tablespoon olive oil
 - 2 smoked bacon rashers (rinded)
-- half an iceberg lettuce (shredded)
+- ½ iceberg lettuce (shredded)
 - 1 tablespoon onion (very finely chopped)
 - 2 tablespoons mayonnaise (fresh)
 - 2 tomatoes (thinly sliced)

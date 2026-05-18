@@ -23,7 +23,7 @@ Ripe tomatoes, cucumber, green pepper and stale bread soak in red wine vinegar w
 - 3 tablespoons sherry vinegar (or red wine vinegar)
 - 6 tablespoons extra virgin olive oil
 - 1 teaspoon salt
-- A pinch of cayenne or smoked paprika
+- A pinch of cayenne (or smoked paprika)
 - 200 ml ice-cold water (if needed to thin)
 
 ### Garnish

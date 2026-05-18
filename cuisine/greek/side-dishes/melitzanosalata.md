@@ -24,7 +24,7 @@ Whole aubergines char directly over flame or under a hot grill until the skin bl
 - ½ teaspoon ground black pepper
 
 ### To serve
-- Warm pita or country-style bread
+- Warm pita (or country-style bread)
 - A pinch of smoked paprika
 - A handful of kalamata olives
 

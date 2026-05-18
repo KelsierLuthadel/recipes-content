@@ -15,7 +15,7 @@ Pork loin (or pork shoulder) is sliced very thin across the grain, 3 mm thick, 5
 ## Ingredients
 
 ### Pork
-- 600 g pork loin or boneless pork shoulder (sliced 3 mm thin across the grain - about 12 slices)
+- 600 g pork loin (or boneless pork shoulder, sliced 3 mm thin across the grain - about 12 slices)
 
 ### Marinade
 - 200 ml dry white wine (vinho verde or any dry white)

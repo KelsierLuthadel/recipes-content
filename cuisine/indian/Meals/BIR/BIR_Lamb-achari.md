@@ -26,7 +26,7 @@ A Punjabi-inspired achari curry featuring pickle spices like panch poran and dri
 - 2 tbsp garlic and ginger paste
 - 2 bird’s eye chillies, finely chopped
 - 125 ml (½ cup) tomato purée, plain passata, or blended canned tomatoes
-- 2 tbsp mixed powder or curry powder
+- 2 tbsp mixed powder (or curry powder)
 - 1 tsp ground coriander
 - 1 tsp Kashmiri chilli powder
 
@@ -40,7 +40,7 @@ A Punjabi-inspired achari curry featuring pickle spices like panch poran and dri
 - 1 tsp dried fenugreek leaves (kasoori methi)
 - 1 tsp garam masala
 - Salt, to taste
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 3 tbsp finely chopped coriander leaves, to garnish
 
 ## Method

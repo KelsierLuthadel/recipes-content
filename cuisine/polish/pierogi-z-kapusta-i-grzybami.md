@@ -15,7 +15,7 @@ Dried wild mushrooms (porcini if you can get them) rehydrate; sauerkraut squeeze
 ## Ingredients
 
 ### Filling
-- 30 g dried porcini or wild mushrooms (rehydrated 30 min in 250 ml hot water)
+- 30 g dried porcini (or wild mushrooms, rehydrated 30 min in 250 ml hot water)
 - 500 g sauerkraut
 - 50 g unsalted butter
 - 2 onions (medium, finely chopped)

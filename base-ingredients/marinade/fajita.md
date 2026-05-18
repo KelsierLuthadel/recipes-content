@@ -32,7 +32,7 @@ Fajita marinade represents Tex-Mex efficiency and flavor: a quick-to-prepare liq
 ### Optional Additions
 - ½ teaspoon crushed red chilli flakes (for extra heat)
 - ½ teaspoon ground coriander (for complexity)
-- 1 teaspoon honey or agave (for slight sweetness balancing heat)
+- 1 teaspoon honey (or agave, for slight sweetness balancing heat)
 - 1 tablespoon fresh cilantro, chopped (optional)
 
 ## Method

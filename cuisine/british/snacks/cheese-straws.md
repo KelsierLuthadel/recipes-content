@@ -22,7 +22,7 @@ Cheese straws are the simplest of cold appetizers: store-bought puff pastry brus
 - Pinch of fine sea salt
 
 ### Cheese & Spice Coating
-- 80 grams Emmenthal or Parmesan cheese (freshly grated, not pre-shredded)
+- 80 grams Emmenthal (or Parmesan cheese, freshly grated, not pre-shredded)
 - 1 teaspoon sweet paprika (or smoked paprika for different character)
 - 1 small pinch cayenne pepper (optional, for subtle heat)
 

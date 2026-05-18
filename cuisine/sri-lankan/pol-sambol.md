@@ -19,7 +19,7 @@ Fresh grated coconut (or rehydrated desiccated coconut) is mashed with dried red
 - 1 red onion (small, very finely chopped)
 - 2 tablespoons Maldive fish flakes (umbalakada; pounded, optional)
 - 1 ½ teaspoons salt
-- Juice of 1 lime (about 2 tablespoons)
+- 1 lime (about 2 tablespoons, juice)
 - 4 fresh curry leaves (finely shredded; optional)
 - 1 teaspoon sugar (optional, balances the heat)
 

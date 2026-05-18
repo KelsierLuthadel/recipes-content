@@ -26,7 +26,7 @@ Prik king paste fries hard in oil until aromatic and the oil splits. Thinly slic
 - ½ teaspoon ground white pepper
 
 ### Stir-fry
-- 500 g pork shoulder or chicken thigh (sliced very thin)
+- 500 g pork shoulder (or chicken thigh, sliced very thin)
 - 300 g green beans (snake beans if you can find them - cut into 4 cm pieces)
 - 4 tablespoons vegetable oil
 - 3 tablespoons fish sauce

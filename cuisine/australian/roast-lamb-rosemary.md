@@ -16,7 +16,7 @@ A 2.2 kg bone-in leg is studded with slivers of garlic and rosemary, rubbed with
 ## Ingredients
 
 ### Lamb
-- 1 bone-in leg of lamb, 2.2-2.5 kg
+- 1 bone-in leg of lamb, 2.2-2 ½ kg
 - 8 garlic cloves (cut lengthways into slivers, about 4 slivers per clove)
 - 6 sprigs rosemary (leaves stripped, leaving 12 small tufts; finely chop the rest)
 - 3 tablespoons olive oil
@@ -31,14 +31,15 @@ A 2.2 kg bone-in leg is studded with slivers of garlic and rosemary, rubbed with
 
 ### Gravy
 - 250 ml red wine (or extra stock)
-- 500 ml lamb or beef stock (good quality)
-- 2 tablespoons redcurrant or quince jelly
+- 500 ml lamb (or beef stock, good quality)
+- 2 tablespoons redcurrant (or quince jelly)
 - 1 teaspoon Dijon mustard
 - 1 tablespoon plain flour (optional, for thickening)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### To serve
-- Mint sauce or mint jelly (see Notes)
+- Mint sauce (or mint jelly, see Notes)
 
 ## Method
 
@@ -57,7 +58,7 @@ A 2.2 kg bone-in leg is studded with slivers of garlic and rosemary, rubbed with
 
 ### Stage 3 - Drop heat and finish to temperature
 1. Lower the oven to 180°C / 160°C fan.
-2. Continue roasting. Total time for medium (just pink throughout) is roughly 18 minutes per 500 g including the initial hot blast. For a 2.2 kg leg, that is about 1 hour 20 minutes total in the oven; for 2.5 kg about 1 hour 30 minutes.
+2. Continue roasting. Total time for medium (just pink throughout) is roughly 18 minutes per 500 g including the initial hot blast. For a 2.2 kg leg, that is about 1 hour 20 minutes total in the oven; for 2 ½ kg about 1 hour 30 minutes.
 3. The only reliable way to nail doneness is a probe thermometer in the thickest part of the leg, away from the bone:
    - 55°C for rare
    - 60°C for medium-rare (this is the Aussie pub standard)

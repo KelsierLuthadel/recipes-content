@@ -23,7 +23,7 @@ Ginger is the Chinese cook's answer to lemon in European fish cookery. In this e
 - 1 ½ tablespoons fresh ginger (finely shredded)
 - 1 tablespoon Chinese chicken stock
 - ½ teaspoon salt
-- 1 tablespoon dry sherry or rice wine
+- 1 tablespoon dry sherry (or rice wine)
 - 1 teaspoon sugar
 
 ## Method

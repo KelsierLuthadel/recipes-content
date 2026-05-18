@@ -20,7 +20,7 @@ Potatoes and onion are coarsely grated; the mixture is squeezed bone-dry in a cl
 - 4 tablespoons matzo meal (or plain flour)
 - 1 ½ teaspoons salt
 - ½ teaspoon black pepper
-- Sunflower or vegetable oil for shallow frying
+- Sunflower (or vegetable oil for shallow frying)
 
 ### To serve
 - Soured cream

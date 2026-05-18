@@ -32,7 +32,7 @@ Carnitas are a classic Mexican dish of slow-cooked, tender pork that's finished 
 - ⅓ cup cola (Coca-Cola preferred)
 
 ### For Crisping
-- Cooking oil spray or oil for the baking sheet
+- Cooking oil spray (or oil for the baking sheet)
 
 ## Method
 

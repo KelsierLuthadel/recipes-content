@@ -21,7 +21,7 @@ These are grilled vegetables with spiced coating, crispy outside, tender inside.
 - 3 tablespoons gram (chickpea) flour
 - 2 tablespoons plain yoghurt
 - 1 tablespoon rapeseed oil
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 tablespoon garam masala
 - 1 teaspoon chilli powder
 - Pinch of ground turmeric

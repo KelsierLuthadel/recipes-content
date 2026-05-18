@@ -29,7 +29,8 @@ Bone-in chicken thighs and drumsticks rub with a saffron-cumin-ginger-paprika pa
 - 150 g pitted green olives
 - A small bunch of coriander (chopped)
 - A small bunch of flat-leaf parsley (chopped)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - Couscous, to serve
 
 ## Method

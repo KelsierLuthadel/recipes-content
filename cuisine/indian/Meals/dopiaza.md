@@ -11,10 +11,10 @@
 Two-onion curry: half the onions are blended into the base sauce for sweetness and body, the other half added late as chunky wedges to retain bite and texture. The result is an onion-double-act curry, medium-spiced, deeply savoury. Lamb or chicken both work; the method is what makes a dopiaza, not the protein.
 
 ## Ingredients
-- 4 tbsp rapeseed oil or seasoned oil
+- 4 tbsp rapeseed oil (or seasoned oil)
 - 600g [pre-cooked stewed chicken](../Base/curry-base.md)
 - 500ml [base curry sauce](../Base/curry-base.md) (heated)
-- 250ml of curry base or stock from [pre-cooked stewed chicken](../Base/curry-base.md)
+- 250ml of curry base (or stock from [pre-cooked stewed chicken], ../Base/curry-base.md)
 - 1 onion (small), quartered and divided into petals 
 - 6 green cardamom pods (bashed )
 - 1 tsp cumin seeds 
@@ -23,7 +23,7 @@ Two-onion curry: half the onions are blended into the base sauce for sweetness a
 - 125ml [tomato purée](../Base/tomato-puree.md)
 - 2 tbsp [mixed powder](../Spice-Mixes/mixed-powder.md)
 - 1 tsp ground cumin 
-- 1-2 tsp mild or hot chilli powder, to taste 
+- 1-2 tsp mild (or hot chilli powder), to taste 
 - 7 tbsp [onion paste made with yoghurt](../Base/fried-onion-paste.md)
 - 1 tsp dried fenugreek leaves 
 - Small bunch of coriander (chopped)

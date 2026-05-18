@@ -34,7 +34,7 @@ These cloud-like gnocchi begin with whole, unpeeled potatoes baked until fluffy.
 ### Stage 3 - Build Dough
 1. Make a well in the center of the riced potatoes.
 2. Add egg yolk and three-quarters of the flour.
-3. Add half a teaspoon of salt.
+3. Add ½ teaspoon of salt.
 4. Slowly work the mixture together with your fingers, handle minimally.
 5. When a loose dough forms, transfer to a lightly floured surface.
 6. Gently knead in the remaining flour.

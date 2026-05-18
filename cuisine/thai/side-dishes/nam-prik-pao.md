@@ -15,7 +15,7 @@ Dried red chillies are deseeded (most of them), garlic is sliced, shallots are s
 ## Ingredients
 
 ### Aromatics (each fried separately)
-- 200 ml sunflower or vegetable oil (most stays in the finished jam as a sealing layer)
+- 200 ml sunflower (or vegetable oil, most stays in the finished jam as a sealing layer)
 - 30 g dried red chillies (large mild - like Thai dried red chillies or Kashmiri; about 12-15 chillies)
 - 80 g shallots (thinly sliced - about 4 small shallots)
 - 80 g garlic (thinly sliced - about 2 whole bulbs)

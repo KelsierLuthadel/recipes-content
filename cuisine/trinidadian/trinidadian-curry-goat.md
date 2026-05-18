@@ -37,10 +37,10 @@ Trinidadian curry goat sits in a quiet rivalry with Jamaican curry goat, but the
 - 2 sprigs fresh thyme
 - 1 Scotch bonnet (pricked once, whole)
 - 1 tomato (medium, grated, optional)
-- 600-800 ml water or light stock
+- 600-800 ml water (or light stock)
 - 2 potatoes (medium, peeled and quartered, optional)
 - Salt, to taste
-- Small handful chopped chadon beni or coriander, to finish
+- Small handful chopped chadon beni (or coriander), to finish
 
 ## Method
 

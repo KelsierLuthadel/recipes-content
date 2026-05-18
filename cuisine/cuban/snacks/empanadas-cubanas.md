@@ -18,7 +18,7 @@ A simple yellow dough (flour, lard or butter, water, salt, annatto or paprika fo
 - 400 g plain flour
 - 1 teaspoon salt
 - 1 ½ teaspoons sweet paprika (for the yellow colour)
-- 100 g cold lard or cold unsalted butter, cubed
+- 100 g cold lard (or cold unsalted butter), cubed
 - 1 egg (large)
 - 150 ml cold water (more if needed)
 
@@ -36,13 +36,13 @@ A simple yellow dough (flour, lard or butter, water, salt, annatto or paprika fo
 - 60 g pitted green olives (chopped)
 - 40 g raisins
 - 2 tablespoons capers (drained and chopped)
-- 2 tablespoons dry white wine or dry sherry (optional)
+- 2 tablespoons dry white wine (or dry sherry, optional)
 - ½ teaspoon salt
 - Black pepper
 
 ### To assemble and fry
 - 1 egg (large, beaten with 1 teaspoon water, for sealing)
-- 1 litre sunflower or vegetable oil, for deep-frying
+- 1 litre sunflower (or vegetable oil), for deep-frying
 
 ## Method
 

@@ -24,7 +24,7 @@ Filling: fresh cheese (ricotta, paneer, or feta + cream cheese) mashes with a be
 - ¼ teaspoon salt (taste - feta may be salty enough)
 
 ### Pastry
-- 18 sheets warka or filo pastry (about 25 × 25 cm - cut filo to size if larger)
+- 18 sheets warka (or filo pastry, about 25 × 25 cm - cut filo to size if larger)
 - 2 tablespoons olive oil (for brushing the strips lightly)
 - 1 egg (large, beaten, for sealing)
 

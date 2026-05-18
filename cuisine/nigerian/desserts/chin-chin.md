@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes (in batches)
 
 ## Overview
-A simple dough: flour, butter, sugar, eggs, milk, ground nutmeg, baking powder. Kneads to a smooth firm dough; rests for 30 minutes. Rolls to 5 mm thick on a floured surface; cuts into tiny 1.5 × 1.5 cm squares (or 1 × 2 cm rectangles) with a knife or pasta-cutter wheel. Deep-fries in batches at 160°C for 4-5 minutes till deep amber. Drains; cools fully (chin-chin crisps as it cools).
+A simple dough: flour, butter, sugar, eggs, milk, ground nutmeg, baking powder. Kneads to a smooth firm dough; rests for 30 minutes. Rolls to 5 mm thick on a floured surface; cuts into tiny 1 ½ × 1 ½ cm squares (or 1 × 2 cm rectangles) with a knife or pasta-cutter wheel. Deep-fries in batches at 160°C for 4-5 minutes till deep amber. Drains; cools fully (chin-chin crisps as it cools).
 
 ## Ingredients
 - 500 g plain flour
@@ -44,8 +44,8 @@ A simple dough: flour, butter, sugar, eggs, milk, ground nutmeg, baking powder. 
 ### Stage 2 - Roll and cut
 1. Divide the dough into 3 portions (easier to handle).
 1. Roll each on a lightly floured surface to 5 mm thick.
-1. Cut into long strips 1.5 cm wide.
-1. Cut the strips crossways into 1.5 × 1.5 cm squares (or 1 × 2 cm rectangles for the traditional shape).
+1. Cut into long strips 1 ½ cm wide.
+1. Cut the strips crossways into 1 ½ × 1 ½ cm squares (or 1 × 2 cm rectangles for the traditional shape).
 1. Separate the cut pieces so they don't stick together.
 
 ### Stage 3 - Fry

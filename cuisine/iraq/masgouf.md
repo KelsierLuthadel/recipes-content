@@ -17,7 +17,7 @@ Whole large fish butterflies open (a long cut down the back, leaving the belly a
 - 1 whole large freshwater fish (1.4-1.8 kg - carp, perch, sea bass or trout) - butterflied (ask the fishmonger to remove the spine and open it flat, skin still on)
 - 4 tablespoons olive oil
 - 2 tablespoons tamarind paste (concentrate)
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 6 garlic cloves (crushed)
 - 1 teaspoon ground turmeric
 - 1 teaspoon ground cumin

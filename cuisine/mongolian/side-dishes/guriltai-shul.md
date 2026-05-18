@@ -31,7 +31,7 @@ Mutton on the bone simmers for 1 hour 15 minutes with onion, bay and a few peppe
 ### Add to soup
 - 1 carrot (medium, diced small)
 - 1 onion (medium, diced)
-- 1 potato (medium, diced 1 cm) - optional, common in winter
+- 1 potato (medium, diced 1 cm, optional, common in winter)
 
 ### Garnish
 - 2 spring onions (sliced) or 2 tablespoons fresh dill (chopped)

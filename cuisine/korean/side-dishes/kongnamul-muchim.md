@@ -13,7 +13,7 @@
 Soybean sprouts blanch in salted water 5-6 minutes (longer than mung sprouts because of the harder bean head). Drain immediately and rinse cold to stop cooking and preserve snap. Dressing: 2 minced garlic cloves, soy sauce, sesame oil, salt, sesame seeds, spring onion. Toss; chill for 15 minutes; serve cool. Some versions get a pinch of gochugaru for the spicy variant.
 
 ## Ingredients
-- 400 g soybean sprouts (kongnamul) - yellow-topped, with the bean still on
+- 400 g soybean sprouts (kongnamul, yellow-topped, with the bean still on)
 - 1 ½ teaspoons salt (for the blanching water)
 
 ### Dressing

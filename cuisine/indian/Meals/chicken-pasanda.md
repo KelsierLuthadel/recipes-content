@@ -13,7 +13,7 @@ A mild, creamy curry built around flattened, tenderised chicken (the meat-mallet
 
 ## Ingredients
 - 4 tbsp almond flakes 
-- 4 tbsp rapeseed oil or seasoned oil
+- 4 tbsp rapeseed oil (or seasoned oil)
 - 3 tbsp coconut flour 
 - 3 tbsp ground almonds 
 - 2 tbsp sugar 

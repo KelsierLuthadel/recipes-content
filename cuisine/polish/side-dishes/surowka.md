@@ -31,7 +31,7 @@ Three raw vegetables: coarse-grated carrot, coarse-grated apple, fine-shredded w
 ### Optional add-ins
 - 2 tablespoons raisins (soaked in hot water 5 minutes, drained)
 - 1 tablespoon sunflower seeds
-- 1 tablespoon fresh parsley or dill (chopped)
+- 1 tablespoon fresh parsley (or dill, chopped)
 
 ## Method
 

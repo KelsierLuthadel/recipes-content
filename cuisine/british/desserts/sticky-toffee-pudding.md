@@ -33,7 +33,7 @@ Dates are soaked in boiling water with bicarbonate of soda (which softens them a
 - A pinch of flaky sea salt
 
 ### To serve
-- Vanilla ice cream or extra cream
+- Vanilla ice cream (or extra cream)
 
 ## Method
 

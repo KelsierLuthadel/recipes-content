@@ -18,7 +18,7 @@ Sweet white onion is sliced thin and soaked in cold salted water 15 minutes, thi
 - 1 teaspoon salt (for the soaking water)
 - 4 ripe tomatoes (large, around 600 g; cut into 1 cm half-moons)
 - 4 tablespoons extra-virgin olive oil
-- Juice of 2 limes
+- 2 limes (juice)
 - ½ teaspoon flaky sea salt
 - ½ teaspoon black pepper
 - A small bunch of fresh coriander (chopped)

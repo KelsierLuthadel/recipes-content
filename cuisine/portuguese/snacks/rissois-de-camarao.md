@@ -43,7 +43,7 @@ The dough: water, butter, lemon zest and salt bring to a boil; flour dumps in al
 
 ### To serve
 - Lemon wedges
-- A small dish of piri-piri or hot sauce
+- A dish of piri-piri (small, or hot sauce)
 - Black olives, sliced pickled chillies
 
 ## Method

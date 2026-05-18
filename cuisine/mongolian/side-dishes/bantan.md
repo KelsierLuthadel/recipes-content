@@ -14,7 +14,7 @@ A small quantity of minced mutton and diced onion fries gently in fat. Mutton st
 
 ## Ingredients
 
-- 1 tablespoon vegetable oil or mutton fat
+- 1 tablespoon vegetable oil (or mutton fat)
 - 150 g minced mutton (or beef)
 - 1 onion (small, finely diced)
 - 1 ½ litres mutton stock (or water with 1 stock cube)

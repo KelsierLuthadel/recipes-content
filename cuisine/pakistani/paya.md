@@ -15,11 +15,11 @@ Cleaned lamb or goat trotters are blanched, scraped clean and then simmered slow
 ## Ingredients
 
 ### Paya (trotters)
-- 8 lamb trotters or 6 goat trotters (about 1 ½ kg total - your butcher will clean and chop them; ask for "paya cut")
+- 8 lamb trotters (or 6 goat trotters, about 1 ½ kg total - your butcher will clean and chop them; ask for "paya cut")
 - 1 tablespoon salt (for blanching)
 
 ### Masala
-- 5 tablespoons ghee or sunflower oil
+- 5 tablespoons ghee (or sunflower oil)
 - 3 onions (medium, sliced)
 - 3 tablespoons ginger-garlic paste
 - 1 ½ teaspoons Kashmiri red chilli powder
@@ -48,7 +48,7 @@ Cleaned lamb or goat trotters are blanched, scraped clean and then simmered slow
 - Small bunch coriander (chopped)
 - 4 lemons (cut into wedges)
 - 1 teaspoon garam masala
-- Fresh naan or roti
+- Fresh naan (or roti)
 
 ## Method
 
@@ -98,7 +98,7 @@ Cleaned lamb or goat trotters are blanched, scraped clean and then simmered slow
 ## Notes
 - **Slow simmer is the dish:** Paya cannot be rushed. 6 hours on the lowest heat is what extracts the gelatin and makes the meat tender. A pressure cooker shortcuts to 2 hours but the texture is slightly less silky.
 - **Black cardamom matters:** The smoky black cardamom pods are key to paya's traditional flavour. Don't substitute extra green cardamom - the smokiness is missed.
-- **Garnish generously:** A bowl of paya without lemon, fresh ginger, chilli and coriander on top is half a bowl. The fresh notes cut the richness.
+- **Garnish generously:** A bowl of paya without lemon, fresh ginger, chilli and coriander on top is ½ bowl. The fresh notes cut the richness.
 
 ## Storage
 - Refrigerate 5 days - paya sets to a savoury jelly in the fridge as the gelatin firms; reheats gently back to liquid.

@@ -25,7 +25,7 @@ Broccoli-bacon salad is a fixture of American potlucks, summer cookouts, and chu
 ### Dressing
 - 200 g good-quality mayonnaise
 - 2 tbsp cider vinegar
-- 2 tbsp caster sugar (or 1½ tbsp honey)
+- 2 tbsp caster sugar (or 1 ½ tbsp honey)
 - 1 tsp Dijon mustard
 - ¼ tsp fine sea salt
 - Freshly ground black pepper

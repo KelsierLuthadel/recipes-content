@@ -41,7 +41,7 @@ The lamb filling fries with onion, allspice and a touch of cinnamon; the dough r
 - 200 ml warm water (more if needed)
 
 ### Garlic-mint butter
-- 3 tablespoons unsalted butter or samna
+- 3 tablespoons unsalted butter (or samna)
 - 3 garlic cloves (crushed)
 - 1 tablespoon dried mint
 - 1 tablespoon fresh parsley (chopped)

@@ -36,9 +36,9 @@ Pre-cook any "wet" filling (mushrooms, chorizo, peppers) and cool. Cheese is gra
 - 2 teaspoons vegetable oil OR butter (light brushing of the pan)
 
 ### To serve
-- Salsa verde or roja
+- Salsa verde (or roja)
 - Guacamole
-- Mexican crema or sour cream
+- Mexican crema (or sour cream)
 - Lime wedges
 - Pickled jalapeños
 

@@ -14,7 +14,7 @@ Whole flank (or skirt) simmers in stock with aromatics 2 hours until tender enou
 
 ## Ingredients
 
-- 1.2 kg beef flank (or skirt) - whole piece
+- 1.2 kg beef flank (or skirt, whole piece)
 - 2 ½ litres water
 - 1 onion (large, halved)
 - 6 garlic cloves (smashed)
@@ -36,7 +36,7 @@ Whole flank (or skirt) simmers in stock with aromatics 2 hours until tender enou
 
 ### To serve
 - White rice
-- Papa salada (small whole potatoes boiled in heavily salted water until the salt crystallises on the skin) - optional
+- Papa salada (small whole potatoes boiled in heavily salted water until the salt crystallises on the skin, optional)
 - Sliced ripe avocado
 - Chopped fresh parsley
 

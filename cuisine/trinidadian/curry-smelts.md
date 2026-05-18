@@ -15,7 +15,7 @@ Trinidadian comfort food that brings together the East Indian and Afro-Caribbean
 ## Ingredients
 
 - 700 g (1 ½ lbs) smelts (or sardines, anchovies, whitebait)
-- 1 lime or lemon (juiced)
+- 1 lime (or lemon, juiced)
 - 1 teaspoon salt
 - 1 teaspoon black pepper (divided)
 - 1 ½ tablespoons Caribbean green seasoning

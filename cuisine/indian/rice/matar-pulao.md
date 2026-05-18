@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Sliced onions are fried into golden-brown crisps and lifted out. Basmati is rinsed, soaked for half an hour and drained. A whole-spice tempering of cumin, bay, cardamom, cinnamon and cloves is bloomed in the ghee left from the onions, the drained rice goes in to toast, then water and peas join the pot for a covered steam. The fried onions go back on top before serving.
+Sliced onions are fried into golden-brown crisps and lifted out. Basmati is rinsed, soaked for ½ hour and drained. A whole-spice tempering of cumin, bay, cardamom, cinnamon and cloves is bloomed in the ghee left from the onions, the drained rice goes in to toast, then water and peas join the pot for a covered steam. The fried onions go back on top before serving.
 
 ## Ingredients
 - 300 g aged basmati rice (rinsed, soaked for 30 minutes)
@@ -28,7 +28,7 @@ Sliced onions are fried into golden-brown crisps and lifted out. Basmati is rins
 - 1 green chilli (slit, optional)
 - 1 teaspoon salt (to taste)
 - 600 ml water (or 550 ml for freshly bought rice)
-- A handful of coriander or mint (chopped, to finish)
+- A handful of coriander (or mint, chopped, to finish)
 
 ## Method
 

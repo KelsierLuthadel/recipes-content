@@ -38,7 +38,8 @@ Chicken thighs (boneless, skin-on for the best result) are cut into 4 cm pieces 
 - 1 lemon (cut into wedges)
 - Japanese mayonnaise (Kewpie - the squeezy bottle, sold at Asian shops)
 - Shichimi togarashi (Japanese seven-spice - chilli, sesame, orange peel etc.)
-- A small bowl of soy sauce + grated daikon (optional, for dipping)
+- A small bowl of soy sauce 
+- grated daikon (optional, for dipping)
 
 ## Method
 

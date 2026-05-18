@@ -34,10 +34,10 @@ Vine leaves blanch briefly to soften; veins are trimmed. A filling of short-grai
 
 ### Base layer (prevents scorching)
 - 2 potatoes (medium, sliced 5 mm)
-- A few lamb bones or rib pieces (optional - add depth to the liquid)
+- A few lamb bones (or rib pieces, optional - add depth to the liquid)
 
 ### Cooking liquid
-- Juice of 3 lemons
+- 3 lemons (juice)
 - 4 tablespoons olive oil
 - 2 garlic cloves (smashed)
 - 1 ½ teaspoons salt

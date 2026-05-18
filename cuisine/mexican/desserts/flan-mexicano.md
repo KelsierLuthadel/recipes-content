@@ -25,7 +25,7 @@ Caramel cooks dry: sugar melts in a hot pan to a dark amber syrup; poured into a
 - 200 ml whole milk
 - 2 teaspoons vanilla extract (or use a scraped pod for the seeds)
 - A pinch of salt
-- 1 tablespoon rum or brandy (optional, traditional)
+- 1 tablespoon rum (or brandy, optional, traditional)
 
 ### Equipment
 - 1 round cake tin (22 cm, NOT springform - needs to be solid-bottomed; ideally 8 cm deep)

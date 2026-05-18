@@ -20,8 +20,8 @@ Chicken thighs are marinated briefly in onion, garlic, ginger, tomato and a spri
 - 1 teaspoon salt
 - 1 teaspoon ground black pepper
 - 2 teaspoons mild curry powder
-- 1 Royco or Maggi cube (crumbled)
-- Juice of 1 lemon
+- 1 Royco (or Maggi cube, crumbled)
+- 1 lemon (juice)
 
 ### Aromatics for the parcels
 - 2 onions (large, finely chopped)

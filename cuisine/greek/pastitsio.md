@@ -15,9 +15,9 @@ Pasta tubes get a quick boil and a buttery toss. A beef ragù with cinnamon, all
 ## Ingredients
 
 ### Pasta
-- 400 g bucatini or ziti
+- 400 g bucatini (or ziti)
 - 30 g unsalted butter
-- 50 g grated kefalotyri or parmesan
+- 50 g grated kefalotyri (or parmesan)
 - 1 egg (beaten)
 
 ### Beef ragù
@@ -32,14 +32,15 @@ Pasta tubes get a quick boil and a buttery toss. A beef ragù with cinnamon, all
 - ¼ teaspoon ground allspice
 - 1 bay leaf
 - 1 teaspoon dried oregano
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Béchamel
 - 75 g unsalted butter
 - 75 g plain flour
 - 800 ml whole milk (warm)
 - 2 eggs (large, beaten)
-- 100 g grated kefalotyri or parmesan
+- 100 g grated kefalotyri (or parmesan)
 - A grating of nutmeg
 
 ## Method

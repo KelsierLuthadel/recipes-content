@@ -21,7 +21,8 @@ This Tex-Mex-inspired beef enchilada recipe is richly seasoned, easy to make, an
 - 1 teaspoon ground cumin
 - 4 green chillies (deseeded and diced)
 - 439g black beans (rinsed and drained)
-- Salt and pepper to taste
+- salt
+- pepper
 - 1 tablespoon oil
 
 ### Tortillas & Cheese

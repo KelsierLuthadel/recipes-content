@@ -21,7 +21,8 @@ A thick béchamel, three times the flour-to-milk ratio of standard béchamel, is
 - 100 g plain flour
 - 700 ml whole milk (warm)
 - A grating of nutmeg
-- Salt and white pepper
+- salt
+- pepper
 
 ### Breading and frying
 - 100 g plain flour

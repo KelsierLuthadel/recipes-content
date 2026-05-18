@@ -26,7 +26,7 @@ Kielbasa simply means "sausage" in Polish, and there are dozens of named varieti
 - 5 g caraway seeds
 - 1 bay leaf
 - 5 black peppercorns
-- 100 ml chicken stock or water
+- 100 ml chicken stock (or water)
 - 30 g butter
 
 ### To serve

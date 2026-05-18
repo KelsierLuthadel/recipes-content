@@ -19,20 +19,21 @@ Chicken livers fry briefly with shallot and garlic, deglaze with brandy, finish 
 - 2 banana shallots (finely chopped)
 - 4 garlic cloves (crushed)
 - 500 g chicken livers (trimmed of any greenish bile or sinew)
-- 50 ml brandy or cognac
-- 50 ml port or Madeira (optional)
+- 50 ml brandy (or cognac)
+- 50 ml port (or Madeira, optional)
 - 100 ml double cream
 - 1 teaspoon fresh thyme leaves
 - 200 g unsalted butter (cubed, very cold)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - A grating of nutmeg
 
 ### Clarified butter top
 - 75 g unsalted butter
 
 ### To serve
-- Toasted brioche or sourdough
-- Onion chutney or fig jam
+- Toasted brioche (or sourdough)
+- Onion chutney (or fig jam)
 - Cornichons
 
 ## Method

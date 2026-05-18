@@ -38,7 +38,7 @@ Corn tortillas are crisped: either deep-fried in 1 cm of oil at 180°C for 60 se
 - 2 tablespoons diced tomato
 - 1 tablespoon sliced red onion
 - 2 slices avocado
-- 1 tablespoon crumbled cotija or queso fresco (or feta)
+- 1 tablespoon crumbled cotija (or queso fresco, or feta)
 - 1 tablespoon Mexican crema (or thinned sour cream)
 - 2-3 slices pickled jalapeño
 - A few coriander leaves

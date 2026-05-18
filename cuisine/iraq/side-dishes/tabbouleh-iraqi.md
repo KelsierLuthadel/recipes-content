@@ -22,7 +22,7 @@ Fine bulgur soaks in just enough boiling water to absorb (no draining). Parsley,
 - 1 large bunch fresh parsley (60 g, very finely chopped)
 - ½ small bunch fresh mint (20 g, very finely chopped)
 - 4 tablespoons olive oil
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 tablespoon pomegranate molasses
 - 1 teaspoon salt
 - ½ teaspoon ground allspice

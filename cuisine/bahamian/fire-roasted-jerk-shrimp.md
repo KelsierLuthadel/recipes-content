@@ -22,7 +22,7 @@ A fast, fragrant, hands-on dish: medium shrimp roasted hard in a beer-and-butter
 - 1 tablespoon spring onion (sliced)
 - 340 g medium shrimp (peeled, deveined; tail-on for presentation)
 - 4 tablespoons butter (melted)
-- 1 loaf Cuban bread or French baguette
+- 1 loaf Cuban bread (or French baguette)
 
 ## Method
 
@@ -36,7 +36,7 @@ A fast, fragrant, hands-on dish: medium shrimp roasted hard in a beer-and-butter
 1. Drizzle the melted butter over the top so every shrimp gets a swipe.
 
 ### Stage 3 - Bread
-1. Slice the bread into 2.5 cm-thick slices.
+1. Slice the bread into 2 ½ cm-thick slices.
 1. Lay the slices on a baking tray.
 
 ### Stage 4 - Roast

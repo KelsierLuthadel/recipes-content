@@ -37,7 +37,8 @@ Gaeng phed gai, this classic Thai red curry features tender chicken simmered in 
 - 1 tablespoon granulated sugar
 - 225 grams bamboo shoots (rinsed and sliced)
 - 5 kaffir lime leaves (torn)
-- Salt and freshly ground black pepper to taste
+- salt
+- pepper
 
 ### Garnish
 - Fresh red chillies (de-seeded and chopped)

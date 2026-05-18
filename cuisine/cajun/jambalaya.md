@@ -36,9 +36,10 @@ Jambalaya is a one-pot Cajun rice dish that combines proteins, vegetables, and a
 - 3 tablespoons fresh basil (chopped)
 
 ### Seasonings & Finish
-- 3 teaspoons cajun or creole spice mix
+- 3 teaspoons cajun (or creole spice mix)
 - 75 grams Parmesan cheese (freshly grated)
-- Salt and freshly ground black pepper to taste
+- salt
+- pepper
 
 ## Method
 

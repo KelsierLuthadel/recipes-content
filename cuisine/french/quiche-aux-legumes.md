@@ -28,7 +28,8 @@ Shortcrust pastry blind-bakes to a deep gold (essential, soggy bottom is a quich
 - 200 g spinach (or kale)
 - 1 garlic clove (crushed)
 - 1 tablespoon fresh thyme leaves
-- Salt and black pepper
+- salt
+- pepper
 
 ### Custard
 - 4 eggs (large)
@@ -36,7 +37,8 @@ Shortcrust pastry blind-bakes to a deep gold (essential, soggy bottom is a quich
 - 100 ml whole milk
 - 150 g gruyère (grated)
 - A grating of nutmeg
-- Salt and black pepper
+- salt
+- pepper
 
 ## Method
 

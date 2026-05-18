@@ -17,7 +17,7 @@ The chicken marinates in coconut milk, lime juice, garlic and a couple of crushe
 ### Marinade
 - 1 whole chicken (1.6-1.8 kg) (spatchcocked)
 - 200 ml coconut milk
-- Juice of 2 limes (plus zest of 1)
+- 2 limes (plus zest of 1, juice)
 - 6 garlic cloves (crushed)
 - 3 bird's-eye chillies (finely chopped)
 - 1 tablespoon paprika
@@ -28,7 +28,7 @@ The chicken marinates in coconut milk, lime juice, garlic and a couple of crushe
 - 50 g raw cashew nuts (lightly toasted, finely ground)
 - 200 ml coconut milk
 - 1 tablespoon paprika
-- 1 tablespoon piri-piri sauce or chilli paste
+- 1 tablespoon piri-piri sauce (or chilli paste)
 - 1 tablespoon lime juice
 - ½ teaspoon salt
 - 1 tablespoon coriander leaves (chopped, to finish)

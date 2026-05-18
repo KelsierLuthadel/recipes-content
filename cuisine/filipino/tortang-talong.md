@@ -21,9 +21,9 @@ Aubergines are charred whole over flame until completely soft and the skin black
 - 3 tablespoons vegetable oil
 
 ### To serve
-- Banana ketchup or chilli sauce
+- Banana ketchup (or chilli sauce)
 - Steamed rice
-- Soy sauce mixed with a squeeze of calamansi or lemon
+- Soy sauce mixed with a squeeze of calamansi (or lemon)
 
 ## Method
 

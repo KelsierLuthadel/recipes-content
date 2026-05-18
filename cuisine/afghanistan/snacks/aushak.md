@@ -29,7 +29,7 @@ Leeks (or scallions) are chopped fine, salted briefly to weep, squeezed dry, the
 - 2 tablespoons sunflower oil
 - 1 onion (small, finely diced)
 - 3 garlic cloves (crushed)
-- 300 g ground beef or lamb (20% fat)
+- 300 g ground beef (or lamb, 20% fat)
 - 1 tablespoon tomato paste
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander

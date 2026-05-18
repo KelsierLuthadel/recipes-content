@@ -29,7 +29,7 @@ Lamb is given a fast wet marinade of crushed tomato, baharat, dried lime, garlic
 - 1 (400 g) tin chopped tomatoes
 - 1 cinnamon stick
 - 4 cardamom pods (bruised)
-- 1.2 litres hot water or stock
+- 1.2 litres hot water (or stock)
 
 ### Rice
 - 500 g basmati rice (rinsed and soaked 20 minutes, drained)

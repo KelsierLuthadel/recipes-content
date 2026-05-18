@@ -19,7 +19,7 @@ Thick-cut chips are deep-fried until crisp; thinly-sliced sirloin (lomo) is sear
 - 1 tablespoon salt (for chips)
 
 ### Topping
-- 500 g sirloin or rump steak (sliced thin against the grain)
+- 500 g sirloin (or rump steak, sliced thin against the grain)
 - 200 g cured chorizo (sliced thin, optional)
 - 2 onions (large, sliced thin)
 - 4 tablespoons vegetable oil (split)
@@ -31,7 +31,7 @@ Thick-cut chips are deep-fried until crisp; thinly-sliced sirloin (lomo) is sear
 ### To plate
 - 4 eggs (large)
 - 3 tablespoons fresh parsley (chopped)
-- Pebre or chilli sauce on the side
+- Pebre (or chilli sauce on the side)
 
 ## Method
 

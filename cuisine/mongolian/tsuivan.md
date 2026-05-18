@@ -20,7 +20,7 @@ A stiff flour-and-water dough rests for 30 minutes, rolls thin, folds and is cut
 - ½ teaspoon salt
 
 ### Stew base
-- 500 g mutton shoulder or fatty beef (cut into 2 cm cubes)
+- 500 g mutton shoulder (or fatty beef, cut into 2 cm cubes)
 - 2 tablespoons vegetable oil
 - 2 onions (medium, sliced)
 - 4 garlic cloves (crushed)

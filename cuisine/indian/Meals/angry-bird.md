@@ -32,7 +32,7 @@ Simple tandoori-style chicken thighs marinated in yogurt and spices for tender, 
 - 5 cm (2 inch) piece fresh root ginger, peeled and grated
 - 3 garlic cloves, minced
 - ½ tsp salt
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ## Method
 

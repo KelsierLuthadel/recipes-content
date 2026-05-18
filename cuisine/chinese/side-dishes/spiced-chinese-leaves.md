@@ -21,7 +21,7 @@ Spiced Chinese leaves is a quick stir-fried side dish that transforms the mild, 
 - 2 teaspoons fresh ginger (finely chopped)
 - 2 teaspoons garlic (finely chopped)
 - 1 dried red chilli
-- 1 tablespoons dry sherry or rice wine
+- 1 tablespoons dry sherry (or rice wine)
 - 2 tablespoons dark soy sauce
 - 2 teaspoons sugar
 - 50 ml water

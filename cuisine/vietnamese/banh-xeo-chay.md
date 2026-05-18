@@ -39,7 +39,7 @@ Rice flour, turmeric, coconut milk and water make a thin yellow batter. Filling 
 - 3 tablespoons rice vinegar
 - 2 tablespoons sugar
 - 4 tablespoons water
-- Juice of 1 lime
+- 1 lime (juice)
 - 2 garlic cloves (crushed)
 - 1 bird's-eye chilli (finely sliced)
 - 1 carrot (julienned)

@@ -18,10 +18,11 @@ A deceptively simple classical sauce combining butter, bright lemon, and delicat
 ### Base
 - 225 grams unsalted butter (cut into 1 cm pieces)
 - 50 ml stock (Chicken or vegetable)
-- juice of 1 lemon
+- 1 lemon (juice)
 
 ### Seasoning
-- salt and freshly ground white pepper
+- salt
+- pepper
 
 ## Method
 

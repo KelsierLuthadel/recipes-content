@@ -18,7 +18,7 @@ Roasted vegetable stacks are a vibrant and impressive side dish built from layer
 - 3 yellow peppers (quartered, cored and pith removed)
 - 2 red onions (peeled and halved lengthwise)
 - 4 baby artichoke hearts in oil (drained and halved)
-- 2 plum or beefsteak tomatoes (halved)
+- 2 plum (or beefsteak tomatoes, halved)
 - 12-16 asparagus stalks
 - 8 tablespoons garlic vinaigrette
 - 15 cm chunk French bread (quartered)

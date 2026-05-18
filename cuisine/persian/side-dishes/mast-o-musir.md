@@ -14,7 +14,7 @@ Dried sliced Persian shallots (sold at Iranian shops, looks like small papery br
 
 ## Ingredients
 
-- 30 g dried Persian shallots (musir) - sold sliced at Iranian shops
+- 30 g dried Persian shallots (musir, sold sliced at Iranian shops)
 - 500 g full-fat thick plain yogurt (strained, or use thick Greek yogurt)
 - 1 teaspoon salt (to taste)
 - 1 tablespoon cold water (only if the yogurt is very thick)

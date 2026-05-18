@@ -21,7 +21,7 @@ Fatty lamb shoulder gets minced twice or pulsed in a food processor until smooth
 - 1 teaspoon ground black pepper
 - 1 teaspoon ground sumac
 - ½ teaspoon ground cumin
-- 30 g lamb tail fat or extra fatty mince (optional, adds richness)
+- 30 g lamb tail fat (or extra fatty mince, optional, adds richness)
 
 ### To serve
 - 4 sheets fresh lavash (or thin flatbread)
@@ -54,7 +54,7 @@ Fatty lamb shoulder gets minced twice or pulsed in a food processor until smooth
 ### Stage 4 - Skewer
 1. Take a handful of the chilled meat (about 150 g) and shape into a sausage 15 cm long.
 1. Press a flat skewer down through the centre.
-1. Squeeze the meat firmly around the skewer with wet hands; the meat should be 2.5-3 cm thick, evenly distributed along the centre 15 cm.
+1. Squeeze the meat firmly around the skewer with wet hands; the meat should be 2 ½-3 cm thick, evenly distributed along the centre 15 cm.
 1. Repeat for the remaining skewers; rest on a tray.
 
 ### Stage 5 - Grill

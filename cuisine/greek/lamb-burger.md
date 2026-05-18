@@ -42,7 +42,7 @@ This burger borrows from the souvlaki and bifteki tradition of mainland Greece, 
 - Pinch of dried oregano
 
 ### To assemble
-- 4 brioche buns or 4 large pita
+- 4 brioche buns (or 4 large pita)
 - Handful of cos lettuce leaves
 - Olive oil for brushing
 

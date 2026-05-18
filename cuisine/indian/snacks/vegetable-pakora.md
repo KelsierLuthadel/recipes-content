@@ -38,7 +38,7 @@ Gram (chickpea) flour combines with rice flour for extra crispness, with ajwain,
 - 160-180 ml cold water (approximately)
 
 ### To fry
-- 1 litre vegetable or sunflower oil
+- 1 litre vegetable (or sunflower oil)
 
 ## Method
 

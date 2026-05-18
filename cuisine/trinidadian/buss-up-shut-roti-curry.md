@@ -34,9 +34,9 @@ Buss-up-shut, also called paratha roti, is the flaky-layered Trinidadian roti th
 - ¾ tsp ground roasted geera (cumin)
 - 1 Scotch bonnet (whole, pricked, optional)
 - 1 sprig fresh thyme
-- 500 ml water or stock
+- 500 ml water (or stock)
 - 1 tsp salt, or to taste
-- Small handful chopped chadon beni or coriander
+- Small handful chopped chadon beni (or coriander)
 - 1 lime, cut in wedges
 
 ## Method

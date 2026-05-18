@@ -29,8 +29,8 @@ Eggs hard-boil; cool; peel; quarter. New potatoes simmer in salted water until t
 
 ### Olives and other
 - 80 g Niçoise olives (the small, dark, Provençal variety - or substitute Kalamata)
-- 1 red onion (small, sliced very thin) - optional, NOT traditional Niçoise
-- 1 green pepper (small, sliced thin) - optional, traditional in some Provençal versions
+- 1 red onion (small, sliced very thin, optional, NOT traditional Niçoise)
+- 1 green pepper (small, sliced thin, optional, traditional in some Provençal versions)
 
 ### Dressing
 - 5 tablespoons extra-virgin olive oil
@@ -44,7 +44,7 @@ Eggs hard-boil; cool; peel; quarter. New potatoes simmer in salted water until t
 - 1 small bunch fresh basil (leaves torn)
 - A small handful of fresh flat-leaf parsley (chopped)
 - Crusty bread to serve
-- Optional: a butterhead lettuce or romaine (leaves separated) as a base
+- Optional: a butterhead lettuce (or romaine, leaves separated) as a base
 
 ## Method
 

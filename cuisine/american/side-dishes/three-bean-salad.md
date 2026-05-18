@@ -24,7 +24,7 @@ Three-bean salad is one of those quietly enduring American classics that has bee
 
 ### Vinaigrette
 - 80 ml cider vinegar
-- 60 ml light olive oil or rapeseed oil
+- 60 ml light olive oil (or rapeseed oil)
 - 60 g caster sugar
 - 1 tsp Dijon mustard
 - ¾ tsp fine sea salt

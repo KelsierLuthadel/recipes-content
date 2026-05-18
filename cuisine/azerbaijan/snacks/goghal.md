@@ -35,7 +35,7 @@ A yeasted milk-and-egg dough rests for 1 hour. Spice mix combines black pepper, 
 ### Glaze
 - 1 egg yolk
 - 1 tablespoon milk
-- 1 teaspoon black caraway / nigella seeds (kalonji)
+- 1 teaspoon black caraway (or nigella seeds, kalonji)
 - 1 teaspoon sesame seeds
 
 ## Method

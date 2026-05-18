@@ -24,7 +24,7 @@ Lamb shanks brown hard; cook for 2 hours 30 minutes with onion, garlic, turmeric
 - 2 teaspoons salt
 - ½ teaspoon black pepper
 - 1 large pinch saffron threads (soaked in 4 tablespoons hot water)
-- 500 ml light lamb or chicken stock
+- 500 ml light lamb (or chicken stock)
 - 2 tablespoons tomato paste (optional)
 
 ### Rice

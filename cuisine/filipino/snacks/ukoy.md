@@ -24,7 +24,7 @@ Small whole head-on shrimp rinse but stay shell-on (shells provide crunch and fl
 - 250 ml cold water
 
 ### Mix-ins
-- 300 g grated kabocha or butternut squash (~2 cups loose)
+- 300 g grated kabocha (or butternut squash, ~2 cups loose)
 - 200 g mung bean sprouts
 - 4 spring onions (finely sliced)
 - 12 whole shrimp (small, head and shell on, about 200 g total; or 24 if very small)

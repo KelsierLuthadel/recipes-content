@@ -23,7 +23,7 @@ Eggs hard-boil for 9 minutes, cool fast in iced water, peel cleanly. The yolks g
 - ¼ teaspoon salt
 - Black pepper
 - A few drops of lemon juice
-- 1 tablespoon chives or flat-leaf parsley (finely chopped, to finish)
+- 1 tablespoon chives (or flat-leaf parsley, finely chopped, to finish)
 
 ## Method
 

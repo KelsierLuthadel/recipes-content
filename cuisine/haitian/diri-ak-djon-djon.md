@@ -35,7 +35,7 @@ Dried djon djon mushrooms are soaked in hot water for 30 minutes; the inky black
 - 1 small bunch parsley (chopped, to finish)
 
 ### To serve
-- Griot or stewed chicken
+- Griot (or stewed chicken)
 - Pikliz
 - Sliced avocado
 

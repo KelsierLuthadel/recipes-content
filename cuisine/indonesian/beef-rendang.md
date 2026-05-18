@@ -21,7 +21,7 @@ Rendang is a spicy meat dish which originated from the Minangkabau ethnic group 
 - 1 teaspoon turmeric powder
 - 225 grams shallots (roughly chopped)
 - 30 grams garlic (roughly chopped)
-- 50 grams peeled galangal or ginger
+- 50 grams peeled galangal (or ginger)
 - 6 hot red bird's eye chillies (de-seeded and roughly chopped)
 - 100 ml water
 

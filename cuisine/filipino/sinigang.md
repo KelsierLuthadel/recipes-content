@@ -22,12 +22,12 @@ Pork ribs simmer with onion, tomato and tamarind to build broth and tartness. Ve
 - 2 tablespoons fish sauce (plus more to taste)
 - 1 daikon radish (small, peeled, sliced 1 cm thick)
 - 1 taro root (small, peeled, cubed; optional)
-- 200 g green beans or yard-long beans (trimmed, cut into 5 cm)
+- 200 g green beans (or yard-long beans, trimmed, cut into 5 cm)
 - 200 g okra (trimmed)
-- 1 long green chilli or jalapeño (slit)
+- 1 long green chilli (or jalapeño, slit)
 - 1 bunch spinach (kangkong)
 - Cooked white rice, to serve
-- Lime or kalamansi wedges, to serve
+- Lime (or kalamansi wedges), to serve
 
 ## Method
 

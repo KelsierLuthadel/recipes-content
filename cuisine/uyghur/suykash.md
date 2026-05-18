@@ -34,7 +34,7 @@ A bowl of warm, slightly tangy tomato-and-lamb broth thickened by the starch of 
 - 1 teaspoon black pepper
 - ½ teaspoon ground cumin
 - 1 teaspoon salt (to taste)
-- 1.5 litres water
+- 1 ½ litres water
 - 10 g fresh basil (roughly chopped, to finish)
 - 1 tablespoon black rice vinegar (optional, to finish)
 

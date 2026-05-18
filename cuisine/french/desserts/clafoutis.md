@@ -20,7 +20,7 @@ A round baking dish (or shallow gratin dish, or 9-inch pie plate) butters and du
 
 ### Cherries
 - 500 g ripe sweet cherries (stones in OR pitted - your choice; see Notes)
-- 1 tablespoon kirsch or brandy (optional, to macerate)
+- 1 tablespoon kirsch (or brandy, optional, to macerate)
 - 1 tablespoon caster sugar (for the cherries)
 
 ### Batter

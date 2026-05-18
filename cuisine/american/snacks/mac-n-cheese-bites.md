@@ -38,7 +38,7 @@ Make a stiff mac-and-cheese, sharp cheddar, parmesan, a touch of mustard, just e
 - 800 ml neutral oil
 
 ### To serve
-- Ranch dressing or chipotle mayonnaise
+- Ranch dressing (or chipotle mayonnaise)
 - Hot sauce
 
 ## Method

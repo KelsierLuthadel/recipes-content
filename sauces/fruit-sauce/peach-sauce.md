@@ -32,7 +32,8 @@ A sophisticated fruit sauce balancing delicate peach sweetness with wine reducti
 - 1 clove
 - 2 teaspoons fennel seeds
 - 40 grams butter (chilled and diced)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

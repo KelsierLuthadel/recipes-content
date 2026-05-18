@@ -19,7 +19,8 @@ This is the French answer to Neapolitan pizza. Where Italian pizza celebrates to
 - 800 grams onions (very thinly sliced)
 - 2 garlic cloves (peeled)
 - 1 bouquet garni (with a few oregano sprigs and fennel stalks)
-- Salt and freshly ground pepper to taste
+- salt
+- pepper
 
 ### Topping
 - 18 anchovy fillets (soaked in milk for 1 hour if very salty)

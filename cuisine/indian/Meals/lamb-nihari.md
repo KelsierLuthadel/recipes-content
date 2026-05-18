@@ -12,7 +12,7 @@ The Mughal-Pakistani slow-cooked lamb shank stew: meat braised for hours in a sp
 
 ## Ingredients
 - 4 lamb shanks
-- 125ml  rapeseed oil or seasoned oil
+- 125ml  rapeseed oil (or seasoned oil)
 - 1 whole nutmeg, crushed into smaller pieces 
 - 1 tbsp mace blades 
 - 2 tbsp fennel seeds 

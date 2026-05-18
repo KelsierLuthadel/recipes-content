@@ -29,7 +29,7 @@ Spinach is wilted briefly with salt, drained, squeezed dry. Mixed with onion, su
 - 2 tablespoons sumac
 - 1 tablespoon pomegranate molasses
 - 3 tablespoons olive oil
-- Juice of ½ lemon
+- ½ lemon (juice)
 - ¼ teaspoon ground allspice
 - ¼ teaspoon ground black pepper
 

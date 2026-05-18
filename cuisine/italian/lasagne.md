@@ -24,7 +24,8 @@ A rich, layered Italian baked pasta combining slow-cooked meat ragù with silky 
 - 1 tablespoon tomato purée
 - 12 fresh lasagne sheets
 - 50 grams cold salted butter (cut into 1 cm cubes)
-- salt and pepper to taste
+- salt
+- pepper
 
 **For the béchamel**
 - 100 grams salted butter

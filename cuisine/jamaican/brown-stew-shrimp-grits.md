@@ -32,7 +32,8 @@ A Caribbean-Southern crossover that works because both traditions cook in a simi
 - 1 teaspoon ground allspice
 - 1 teaspoon onion powder
 - 1 teaspoon garlic powder
-- Salt and pepper
+- salt
+- pepper
 
 ### Sauce
 - 4 tablespoons unsalted butter

@@ -15,7 +15,7 @@ A whole chicken poaches with onion, cinnamon, cardamom and bay 45 minutes; chick
 ## Ingredients
 
 ### Chicken and stock
-- 1 whole chicken (about 1.4 kg) - or 6 bone-in thighs/drumsticks
+- 1 whole chicken (about 1.4 kg, or 6 bone-in thighs/drumsticks)
 - 1 onion (large, halved)
 - 1 cinnamon stick
 - 6 cardamom pods (bruised)
@@ -25,9 +25,9 @@ A whole chicken poaches with onion, cinnamon, cardamom and bay 45 minutes; chick
 - 2 litres water
 
 ### Mince and rice
-- 300 g lamb or beef mince
+- 300 g lamb (or beef mince)
 - 1 onion (medium, chopped)
-- 3 tablespoons ghee or olive oil
+- 3 tablespoons ghee (or olive oil)
 - 1 ½ tablespoons baharat
 - ½ teaspoon ground cinnamon
 - ½ teaspoon ground allspice
@@ -39,7 +39,7 @@ A whole chicken poaches with onion, cinnamon, cardamom and bay 45 minutes; chick
 - 40 g pine nuts
 - 40 g flaked almonds
 - 40 g raisins
-- 2 tablespoons ghee or oil (for toasting)
+- 2 tablespoons ghee (or oil, for toasting)
 
 ### To finish
 - 3 tablespoons fresh parsley (chopped)

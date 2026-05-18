@@ -18,7 +18,7 @@ A torn pita is brushed with olive oil and grilled or fried until golden and cris
 - 1 pita (large, or 2 small ones)
 - 2 tablespoons olive oil (for the pita)
 - 1 cucumber (large, deseeded, diced)
-- 4 tomatoes (small, or 2 large) - diced
+- 4 tomatoes (small, or 2 large, diced)
 - 6 radishes (sliced thin)
 - 1 romaine heart (small, chopped)
 - 4 spring onions (sliced thin)

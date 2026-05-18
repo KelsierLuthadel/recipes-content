@@ -26,7 +26,7 @@ Ricotta is drained in muslin for at least 4 hours (overnight ideal) to lose the 
 - 1 tablespoon white wine vinegar
 
 ### To fry
-- 1 litre sunflower or vegetable oil
+- 1 litre sunflower (or vegetable oil)
 - 1 egg white (for sealing the dough around the forms)
 - 12 metal cannoli forms (cylinders 13 cm long; widely sold at Italian shops and online)
 

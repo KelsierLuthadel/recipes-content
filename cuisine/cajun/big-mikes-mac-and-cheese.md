@@ -28,7 +28,8 @@ A creamy, spicy Cajun-style mac and cheese with sharp white Cheddar, hot sauce, 
 ### Seasonings
 - 2 tsp  dry mustard
 - 1 tbsp  hot sauce
-- Salt and black pepper, to taste
+- salt
+- pepper
 
 ## Method
 

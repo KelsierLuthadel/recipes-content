@@ -24,7 +24,8 @@ Bolognese is Italy's classic meat sauce, built on a foundation of soffritto, the
 - 1 glass (150 ml) red wine
 - 700 ml passata (homemade preferred)
 - 1 tablespoon tomato purée
-- Salt and freshly ground pepper to taste
+- salt
+- pepper
 
 ## Method
 

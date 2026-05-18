@@ -25,7 +25,8 @@ Onion is softened slowly in olive oil; peppers join to break down sweetly; auber
 - 1 teaspoon sweet smoked paprika
 - 1 teaspoon dried oregano
 - 1 teaspoon sugar
-- Salt and black pepper
+- salt
+- pepper
 - 4 eggs (large, optional, to serve)
 
 ## Method

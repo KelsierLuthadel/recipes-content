@@ -14,12 +14,12 @@ This is the quickest rice dish in the Indian repertoire. Cold cooked basmati ric
 
 ### Base
 - 500 ml (2 cups) cold cooked basmati rice (prepared the day before or several hours ahead)
-- 3 tablespoons rapeseed oil or ghee
+- 3 tablespoons rapeseed oil (or ghee)
 
 ### Aromatics
 - 1 teaspoon garlic and ginger paste
 - Finely grated zest of 2 unwaxed lemons
-- Juice of 1-2 fresh lemons
+- 1-2 fresh lemons (juice)
 
 ### Finishing
 - 3 fresh chives (finely chopped)

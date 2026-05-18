@@ -19,7 +19,8 @@ Pork loin escalopes pound thin, bread, and shallow-fry. While they crisp, a sauc
 - 100 g plain flour
 - 3 eggs (large, beaten)
 - 200 g fine breadcrumbs
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - 4 tablespoons vegetable oil + 30 g butter for shallow-frying
 
 ### Mushroom sauce
@@ -34,10 +35,11 @@ Pork loin escalopes pound thin, bread, and shallow-fry. While they crisp, a sauc
 - 1 teaspoon Dijon mustard
 - 1 teaspoon fresh thyme leaves
 - A small bunch of flat-leaf parsley (chopped)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### To serve
-- Spätzle or boiled new potatoes
+- Spätzle (or boiled new potatoes)
 
 ## Method
 

@@ -28,7 +28,8 @@ Onions cook slowly in butter until very soft and sweet. Mashed potato + grated c
 - 400 g mature cheddar (grated)
 - 2 teaspoons English mustard
 - 1 teaspoon fresh thyme leaves
-- Salt and black pepper
+- salt
+- pepper
 
 ## Method
 

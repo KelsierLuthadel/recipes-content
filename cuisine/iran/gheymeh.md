@@ -21,7 +21,7 @@ Onion fries dark gold; turmeric, cinnamon and meat brown in. Tomato puree, hot s
 - ½ teaspoon ground cinnamon
 - 1 teaspoon ground black pepper
 - 3 tablespoons tomato puree
-- 4 dried black limes (loomi) - pierced
+- 4 dried black limes (loomi, pierced)
 - 1 large pinch saffron threads (bloomed in 2 tablespoons hot water)
 - 1.2 litres hot stock
 - 1 ½ teaspoons salt (to taste)

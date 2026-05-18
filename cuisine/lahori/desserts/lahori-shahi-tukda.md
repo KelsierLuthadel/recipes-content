@@ -24,7 +24,7 @@ Slices of white bread are trimmed of their crusts and cut into triangles, then f
 - ½ teaspoon saffron threads
 - ½ teaspoon ground cardamom (or 4 pods, lightly crushed)
 - 1 tablespoon rose water (or kewra water)
-- Juice of ½ lemon (prevents crystallisation)
+- ½ lemon (prevents crystallisation, juice)
 
 ### Rabri (thickened cream)
 - 750 ml full-fat milk

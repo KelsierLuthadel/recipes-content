@@ -20,20 +20,20 @@ Few dishes feel as woven into American summer as potato salad. It appears at bac
 - 2 celery sticks, finely diced
 - ½ small red onion, finely diced
 - 3 tbsp dill pickles, finely chopped
-- 2 tbsp fresh dill or flat-leaf parsley, chopped
+- 2 tbsp fresh dill (or flat-leaf parsley), chopped
 
 ### Dressing
 - 200 g good-quality mayonnaise
 - 2 tbsp Dijon mustard
 - 1 tbsp yellow American mustard
-- 2 tbsp white wine vinegar or pickle brine
+- 2 tbsp white wine vinegar (or pickle brine)
 - 1 tsp caster sugar
 - ½ tsp fine sea salt
 - ½ tsp freshly ground black pepper
 
 ### To finish
 - Smoked paprika, for dusting
-- Snipped chives or extra dill
+- Snipped chives (or extra dill)
 
 ## Method
 

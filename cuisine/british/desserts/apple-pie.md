@@ -28,7 +28,7 @@ Buttery shortcrust rests then rolls; one disc lines a pie dish, fills with slice
 - 50 g soft light brown sugar
 - 1 teaspoon ground cinnamon
 - ¼ teaspoon ground nutmeg
-- Juice of ½ lemon
+- ½ lemon (juice)
 - 2 tablespoons cornflour
 - 25 g unsalted butter (cubed, for dotting)
 

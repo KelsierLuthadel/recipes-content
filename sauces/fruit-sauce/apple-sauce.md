@@ -19,8 +19,8 @@ A smooth, silky apple compote with warm spice notes from cinnamon. This classic 
 ### Base
 - 500 grams dessert apples (preferably Cox's)
 - 20 grams caster sugar
-- juice of half a lemon
-- half a stick cinnamon
+- ½ lemon (juice)
+- ½ stick cinnamon
 - 30 grams butter
 - pinch of salt
 

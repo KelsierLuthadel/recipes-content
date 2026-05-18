@@ -10,7 +10,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Milk warms with lemon and cinnamon. Cornflour, plain flour, sugar and egg yolks whisk; warm milk strains in slowly to make a smooth thick base. Returns to the pan; cooks for 6-8 minutes till very thick. Off heat; vanilla and butter stir in. Pours into a parchment-lined tray to 1.5 cm depth; chills for 4 hours minimum. Cuts into squares. Each square dredges in flour, dips in egg, fries in hot olive oil. Tossed in cinnamon sugar. Eats warm.
+Milk warms with lemon and cinnamon. Cornflour, plain flour, sugar and egg yolks whisk; warm milk strains in slowly to make a smooth thick base. Returns to the pan; cooks for 6-8 minutes till very thick. Off heat; vanilla and butter stir in. Pours into a parchment-lined tray to 1 ½ cm depth; chills for 4 hours minimum. Cuts into squares. Each square dredges in flour, dips in egg, fries in hot olive oil. Tossed in cinnamon sugar. Eats warm.
 
 ## Ingredients
 
@@ -54,7 +54,7 @@ Milk warms with lemon and cinnamon. Cornflour, plain flour, sugar and egg yolks 
 
 ### Stage 3 - Set
 1. Line a small square tray (20 × 20 cm) with parchment.
-1. Pour the custard in; smooth the surface with a spatula to 1.5 cm depth.
+1. Pour the custard in; smooth the surface with a spatula to 1 ½ cm depth.
 1. Cover the surface directly with cling film (prevents skin).
 1. Chill at least 4 hours (overnight is better).
 

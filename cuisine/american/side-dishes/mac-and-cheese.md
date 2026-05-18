@@ -25,7 +25,7 @@ Pasta cooks just past al dente in salted water. A béchamel builds from butter, 
 - 1 teaspoon salt
 - ½ teaspoon ground black pepper
 - 350 g mature cheddar (grated)
-- 100 g Gruyère or Monterey Jack (grated)
+- 100 g Gruyère (or Monterey Jack, grated)
 - 50 g Parmesan (finely grated)
 
 ### Topping

@@ -42,7 +42,7 @@ Three flavour systems stacked on a single sandwich: a buttermilk-brined fried ch
 - Vegetable oil for frying
 
 ### To build
-- 4 brioche or potato buns (halved and toasted)
+- 4 brioche (or potato buns, halved and toasted)
 - Dill pickle chips
 
 ## Method

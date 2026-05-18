@@ -35,7 +35,7 @@ A short pastry of plain flour, butter, margarine (the mix gives Nigerian pies th
 - ½ teaspoon black pepper
 - 1 carrot (medium, diced 5 mm)
 - 1 potato (large, diced 5 mm - about 200 g)
-- 200 ml beef or chicken stock
+- 200 ml beef (or chicken stock)
 - 1 tablespoon cornflour (mixed with 2 tablespoons cold water)
 
 ### To finish

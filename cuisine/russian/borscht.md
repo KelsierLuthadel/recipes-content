@@ -30,7 +30,8 @@ Beef shin or short rib simmers slow with aromatics to build a rich broth. Grated
 - 2 tablespoons vegetable oil
 - 2 tablespoons red wine vinegar
 - 1 teaspoon caster sugar
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### To serve
 - 200 g soured cream

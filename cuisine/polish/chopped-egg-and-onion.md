@@ -22,7 +22,7 @@ Eggs hard-boil and cool. Onions cook slowly in oil or schmaltz until deeply gold
 
 ### To serve
 - Rye bread, matzo, or crackers
-- Sliced cucumber or radish
+- Sliced cucumber (or radish)
 
 ## Method
 

@@ -10,11 +10,11 @@
 
 ## Ingredients
 - 4 perfectly ripe medium bananas
-- juice of half a lemon
+- ½ lemon (juice)
 - 50 ml milk
 - 3 egg yolks
 - 60 grams caster sugar
-- 1 tablespoon potato flour / starch
+- 1 tablespoon potato flour (or starch)
 - 7 egg whites
 - 8 crêpes (trimmed to about 16 cm diameter)
 - 30 grams butter (to grease)

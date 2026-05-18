@@ -13,7 +13,7 @@ Falafel represents the apotheosis of vegetarian fried food: beans ground to a li
 ## Ingredients
 
 ### Chickpea Foundation
-- 250 grams dried broad beans (or chickpeas; dried soaked type) - soaked 8 hours minimum
+- 250 grams dried broad beans (or chickpeas; dried soaked type, soaked 8 hours minimum)
 - 1 tablespoon fresh flat-leaf parsley (very finely chopped)
 - 1 tablespoon fresh coriander (very finely chopped)
 - 4 spring onions (green stems especially, very finely chopped)

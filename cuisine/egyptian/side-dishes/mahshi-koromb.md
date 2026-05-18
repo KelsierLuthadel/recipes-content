@@ -40,7 +40,7 @@ A large cabbage core-out, blanched briefly, leaves separated. Filling: short-gra
 - 1 tablespoon tomato puree
 - 2 tablespoons olive oil
 - 1 teaspoon salt
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 litre hot water (or beef stock)
 
 ### Base

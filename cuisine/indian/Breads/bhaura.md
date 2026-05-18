@@ -18,7 +18,7 @@ Soft, slightly leavened Indian flatbreads traditionally served with chole (chick
 ## Ingredients
 ### Yeast starter
 - 1 tsp sugar
-- 2 tsp fast-action/instant active dried yeast
+- 2 tsp fast-action (or instant) active dried yeast
 - 175 ml (6 fl oz/⅔ cup) warm water
 
 ### Dough

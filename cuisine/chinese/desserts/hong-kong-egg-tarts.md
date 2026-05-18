@@ -19,7 +19,7 @@ The shortcrust uses lard (or vegetable shortening + butter) for the right crumbl
 - 30 g cornflour
 - 60 g icing sugar (sifted)
 - A pinch of salt
-- 130 g cold lard (cubed) - OR 80 g cold butter + 50 g vegetable shortening
+- 130 g cold lard (cubed, OR 80 g cold butter + 50 g vegetable shortening)
 - 1 egg yolk (large)
 - 1 tablespoon cold water (if needed)
 

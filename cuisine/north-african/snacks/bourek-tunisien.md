@@ -24,14 +24,14 @@ Potato is boiled, peeled and mashed. Mixed with drained tuna, harissa, capers, p
 - ½ teaspoon ground coriander
 - 1 teaspoon salt
 - ½ teaspoon ground black pepper
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ### Pastry
-- 8 large sheets warka or filo pastry (each about 25 × 25 cm; cut larger filo to size)
+- 8 sheets warka (large, or filo pastry, each about 25 × 25 cm; cut larger filo to size)
 - 1 tablespoon plain flour (mixed with 1 tablespoon water for sealing)
 
 ### Egg insert
-- 8 or medium eggs (small, whole, raw - one per bourek)
+- 8 (or medium eggs, small, whole, raw - one per bourek)
 
 ### Frying
 - 800 ml neutral oil

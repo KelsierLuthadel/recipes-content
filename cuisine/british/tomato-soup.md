@@ -41,7 +41,8 @@ This classic tomato soup is rich, comforting, and versatile, made with fresh tom
 
 ### Seasonings
 - 750 ml chicken stock
-- salt and freshly ground black pepper
+- salt
+- pepper
 - 1 tablespoon tomato purée
 
 ## Method

@@ -5,7 +5,7 @@
 
 **Serves:** Makes 4 loaves
 
-**Prep Time:** 30 minutes (plus 1.5 hours rising)
+**Prep Time:** 30 minutes (plus 1 ½ hours rising)
 
 **Cook Time:** 25 minutes
 

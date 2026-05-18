@@ -21,7 +21,8 @@ This is pasta in its most elegant minimalist form. Ricotta cheese, warmed by fre
 - 10 fresh basil leaves (chopped, plus extra for garnish)
 - 4 tablespoons extra virgin olive oil
 - 2 tablespoons hot water
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Pasta
 - 500 grams spaghetti

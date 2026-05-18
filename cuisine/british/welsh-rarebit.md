@@ -14,7 +14,7 @@ Butter and flour cook to a roux; ale and milk loosen it; mature cheddar melts in
 
 ## Ingredients
 
-- 4 slices sourdough or good white bread
+- 4 slices sourdough (or good white bread)
 - 30 g unsalted butter
 - 30 g plain flour
 - 100 ml ale (or whole milk for a softer flavour)

@@ -34,7 +34,8 @@ A soft butter-and-yogurt dough rolls thin, stamps into 9 cm rounds, gets a teasp
 - 40 g pine nuts (toasted)
 - 1 tablespoon pomegranate molasses
 - 2 tablespoons fresh parsley (chopped)
-- Salt and black pepper
+- salt
+- pepper
 
 ### To finish
 - 1 egg yolk + 1 tablespoon milk (for egg wash if baking)

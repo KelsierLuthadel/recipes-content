@@ -31,7 +31,7 @@ Floury potatoes boil in their skins, then mash dry. A spice paste of green chill
 - 1 ¼ teaspoons salt
 
 ### To pan-fry
-- 4-6 tablespoons vegetable oil or ghee
+- 4-6 tablespoons vegetable oil (or ghee)
 
 ### To serve (chaat style)
 - 4 tablespoons thick yoghurt (whisked with a pinch of sugar and salt)

@@ -19,7 +19,7 @@ A simple flour-and-water dough rests for 30 minutes. Stretches paper-thin on an 
 - 1 teaspoon salt
 - 2 tablespoons vegetable oil
 - 250 ml warm water (approximately)
-- 200 g samna or melted unsalted butter (for brushing)
+- 200 g samna (or melted unsalted butter, for brushing)
 
 ### Sugar syrup
 - 300 g caster sugar

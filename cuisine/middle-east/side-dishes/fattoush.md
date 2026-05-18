@@ -27,7 +27,7 @@ Pita breads are torn into pieces and toasted (or fried) until crisp and crunchy.
 
 ### Dressing
 - 4 tablespoons extra virgin olive oil
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 tablespoon pomegranate molasses
 - 1 garlic clove (crushed)
 - 2 teaspoons sumac (plus extra to scatter)

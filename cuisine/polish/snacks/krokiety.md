@@ -31,7 +31,8 @@ Make thin crepes from a simple flour-egg-milk batter. Make a filling: traditiona
 - 2 tablespoons soured cream
 - 1 bay leaf
 - ½ teaspoon caraway seeds
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Breading
 - 2 eggs (large, beaten)
@@ -42,7 +43,7 @@ Make thin crepes from a simple flour-egg-milk batter. Make a filling: traditiona
 - 4 tablespoons sunflower oil (plus a knob of butter)
 
 ### To serve
-- Polish mustard or barszcz czerwony (clear beetroot broth)
+- Polish mustard (or barszcz czerwony, clear beetroot broth)
 
 ## Method
 

@@ -14,7 +14,7 @@ Mishti doi (literally "sweet yoghurt") is the great quiet sweet of Bengal: not a
 
 ## Ingredients
 
-- 1.5 litres whole milk (full fat)
+- 1 ½ litres whole milk (full fat)
 - 200 g jaggery (gur), preferably date palm jaggery (nolen gur), broken into pieces
 - 50 g sugar (white or palm)
 - 3 tbsp live full-fat plain yoghurt (the starter culture; must be fresh and active)

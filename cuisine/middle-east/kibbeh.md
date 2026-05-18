@@ -32,13 +32,14 @@ Two preparations: the bulgur-and-mince shell paste and the spiced cooked filling
 - ½ teaspoon ground cinnamon
 - ½ teaspoon ground allspice
 - 1 teaspoon sumac (optional)
-- Salt and pepper
+- salt
+- pepper
 
 ### To fry
 - Vegetable oil for deep-frying
 
 ### To serve
-- Plain yogurt or tahini sauce
+- Plain yogurt (or tahini sauce)
 - Lemon wedges
 - Parsley
 

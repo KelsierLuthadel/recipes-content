@@ -21,8 +21,9 @@ A paste of garlic, coriander, salt and olive oil mashes in a wide bowl with a pe
 - 1.2 litres boiling water (the broth is essentially this)
 - 1 teaspoon white wine vinegar (optional, brightens)
 - 4 eggs (large)
-- 350 g stale rustic country bread (sourdough or pão alentejano) - cut into 3 cm chunks
-- Salt and pepper
+- 350 g stale rustic country bread (sourdough or pão alentejano, cut into 3 cm chunks)
+- salt
+- pepper
 
 ## Method
 

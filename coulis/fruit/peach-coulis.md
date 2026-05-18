@@ -12,7 +12,7 @@ A fragrant, silky peach sauce infused with floral lavender honey. The result is 
 
 ## Ingredients
 - 4 very ripe peaches
-- juice of 1 lemon
+- 1 lemon (juice)
 - 4 tablespoons lavender honey
 - 1 flowering lavender sprig (optional)
 

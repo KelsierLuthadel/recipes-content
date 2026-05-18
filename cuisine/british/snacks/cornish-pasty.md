@@ -18,7 +18,7 @@ Shortcrust pastry uses a mix of lard and butter for the right sturdy-but-flaky t
 - 500 g plain flour
 - ½ teaspoon salt
 - 125 g cold butter (cubed)
-- 125 g cold lard or vegetable shortening (cubed)
+- 125 g cold lard (or vegetable shortening, cubed)
 - 1 egg
 - 150 ml ice water (more if needed)
 

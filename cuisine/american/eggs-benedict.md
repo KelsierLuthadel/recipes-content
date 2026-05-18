@@ -30,7 +30,7 @@ Hollandaise builds first (it can wait briefly in a warm spot). Eggs poach in vin
 ### To assemble
 - 4 English muffins (split in half)
 - 8 slices good ham (or smoked salmon)
-- 1 tablespoon chopped chives or parsley
+- 1 tablespoon chopped chives (or parsley)
 
 ## Method
 

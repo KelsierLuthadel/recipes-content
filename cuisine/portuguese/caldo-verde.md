@@ -18,14 +18,14 @@ Onions cook in olive oil; potatoes simmer in stock until tender; the lot blends 
 - 1 onion (large, chopped)
 - 4 garlic cloves (crushed)
 - 800 g floury potatoes (Maris Piper, King Edward; peeled and cubed)
-- 1 ½ litres water or vegetable stock
+- 1 ½ litres water (or vegetable stock)
 - 2 teaspoons salt (or to taste)
 - ½ teaspoon black pepper
 - 250 g kale (couve galega, or curly kale; tough stems removed and shredded as finely as you can - 2-3 mm wide)
 - 200 g chouriço (sliced 5 mm thick)
 
 ### To serve
-- Crusty country bread or broa de milho (Portuguese cornbread)
+- Crusty country bread (or broa de milho, Portuguese cornbread)
 - Extra-virgin olive oil
 
 ## Method

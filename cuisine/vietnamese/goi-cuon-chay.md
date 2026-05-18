@@ -21,7 +21,7 @@ Vermicelli noodles cook briefly and get tossed with sesame oil to stop sticking.
 - 1 tablespoon vegetable oil
 - 1 tablespoon light soy sauce
 - 12 sheets rice paper (22 cm rounds)
-- 1 small head butter lettuce or little gem (separated into leaves)
+- 1 small head butter lettuce (or little gem, separated into leaves)
 - 100 g beansprouts
 - 1 carrot (julienned)
 - 1 cucumber (julienned)

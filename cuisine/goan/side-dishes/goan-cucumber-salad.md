@@ -20,7 +20,7 @@ Cucumber is chopped, salted and rested briefly to draw out some of its water (th
 - 60 g fresh grated coconut (or 50 g desiccated, rehydrated in 2 tablespoons of warm water)
 - 1 green chilli (finely chopped, deseeded if you prefer milder)
 - 1 small handful of coriander (chopped)
-- Juice of ½ lime
+- ½ lime (juice)
 - A pinch of sugar
 
 ### Temper

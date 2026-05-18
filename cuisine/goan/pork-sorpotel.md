@@ -49,7 +49,7 @@ Pork shoulder and liver are par-boiled with whole spices, then diced. A masala p
 1. Bring to a boil; skim foam.
 1. Reduce to a low simmer and cook for 25-30 minutes, until the meat is just cooked.
 1. Lift the meat out with a slotted spoon and reserve the stock (about 500 ml).
-1. Cool the meat, then dice into 1.5 cm cubes.
+1. Cool the meat, then dice into 1 ½ cm cubes.
 
 ### Stage 2 - Make the masala paste
 1. Soak the dried chillies in hot water for 15 minutes to soften.

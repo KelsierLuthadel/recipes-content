@@ -14,7 +14,7 @@ Begun bhaja is the simplest, oldest and most loved of Bengali sides. Begun is th
 
 ## Ingredients
 - 1 round aubergine (large, about 400 g)
-- 1½ tsp turmeric
+- 1 ½ tsp turmeric
 - 1 tsp Kashmiri chilli powder (optional, for colour)
 - 1 tsp salt
 - ½ tsp sugar (optional)

@@ -18,7 +18,8 @@ Herb crêpes are thin, delicate pancakes enriched with fresh herbs such as parsl
 - 60 grams plain flour
 - 150 ml milk
 - 2 eggs
-- salt and fresh ground pepper
+- salt
+- pepper
 - 15 grams chopped herbs (parsley, chervil, chives)
 - 30 grams clarified butter
 

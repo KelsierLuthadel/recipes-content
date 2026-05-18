@@ -25,7 +25,7 @@ A soft eggy dough is rolled into 7-8 paper-thin discs (closer to filo than to br
 
 ### To finish
 - 200 g raw dark honey (sidr honey if you can find it)
-- 1 tablespoon black caraway or nigella seeds (lightly toasted)
+- 1 tablespoon black caraway (or nigella seeds, lightly toasted)
 
 ## Method
 

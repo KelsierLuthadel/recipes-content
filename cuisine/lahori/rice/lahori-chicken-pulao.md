@@ -51,7 +51,7 @@ A chicken yakhni (broth) is built first by simmering chicken pieces with onion, 
 ### To finish
 - A handful of fresh coriander (chopped)
 - A handful of fried onions (reserved from the slicing onion if you crisped some)
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ## Method
 

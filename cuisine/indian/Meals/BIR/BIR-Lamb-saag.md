@@ -18,7 +18,7 @@ A quick British curry-house version of classic Punjabi saag gosht, combining pre
 ## Ingredients
 ### Spinach puree
 - 225 g (8 oz) baby spinach leaves
-- A little water or spice stock
+- A little water (or spice stock)
 - 3-6 fresh green bullet chillies, to taste
 - Bunch coriander leaves (cilantro), leaves only
 
@@ -39,7 +39,7 @@ A quick British curry-house version of classic Punjabi saag gosht, combining pre
 
 ### Finishers
 - 2 tbsp plain yoghurt
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 tbsp garam masala
 
 ## Method

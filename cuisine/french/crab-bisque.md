@@ -20,8 +20,8 @@ A rich and elegant seafood bisque featuring fresh crab cooked in a flavorful bro
 - 50 grams butter
 
 ### Aromatics
-- half a carrot (finely chopped)
-- half an onion (finely chopped)
+- ½ carrot (finely chopped)
+- ½ onion (finely chopped)
 - 1 celery stalk (finely chopped)
 
 ### Protein

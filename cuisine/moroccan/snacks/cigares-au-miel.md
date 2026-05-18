@@ -23,7 +23,7 @@ Almond paste: ground almonds, icing sugar, melted butter, cinnamon, orange-flowe
 - 1 tablespoon water (only if needed to bind)
 
 ### Pastry
-- 24 sheets warka or filo pastry (cut to 12 × 10 cm strips)
+- 24 sheets warka (or filo pastry, cut to 12 × 10 cm strips)
 - 1 egg (large, beaten, for sealing)
 
 ### Frying
@@ -48,7 +48,7 @@ Almond paste: ground almonds, icing sugar, melted butter, cinnamon, orange-flowe
 
 ### Stage 2 - Shape
 1. Divide the paste into 24 walnut-sized portions (~22 g each).
-1. Roll each between palms into a thin cylinder about 10 cm long and 1.5 cm thick.
+1. Roll each between palms into a thin cylinder about 10 cm long and 1 ½ cm thick.
 
 ### Stage 3 - Wrap
 1. Take a warka strip; lay flat.
@@ -74,7 +74,7 @@ Almond paste: ground almonds, icing sugar, melted butter, cinnamon, orange-flowe
 
 ## Notes
 - **Don't over-knead the almond paste:** it should be plastic but not greasy. Over-mixing in a processor warms the almonds and the oil separates.
-- **Roll cylinders thin:** 1.5 cm is the sweet spot - too thick and the filling stays cold in the centre; too thin and the cigars bend during frying.
+- **Roll cylinders thin:** 1 ½ cm is the sweet spot - too thick and the filling stays cold in the centre; too thin and the cigars bend during frying.
 - **Honey warm, not boiling:** boiled honey crystallises on cooling. Keep at body-temperature warm.
 - **Sesame on the sticky cigars:** the seeds adhere only while honey is wet. Sprinkle within 30 seconds of removing from the glaze.
 

@@ -33,12 +33,12 @@ Pork belly is hand-diced into 1 cm cubes (skin on), parboiled, then braised slow
 - 80 ml light soy sauce
 - 2 tablespoons dark soy sauce (for colour)
 - 40 g rock sugar (or 2 tablespoons soft brown sugar)
-- 700 ml water or unsalted chicken stock
+- 700 ml water (or unsalted chicken stock)
 
 ### To serve
 - 4 eggs (large, soft-boiled, peeled)
 - Steamed jasmine rice
-- Pickled mustard greens or quick-pickled cucumber
+- Pickled mustard greens (or quick-pickled cucumber)
 - 1 spring onion (finely sliced)
 - Blanched pak choi (optional)
 

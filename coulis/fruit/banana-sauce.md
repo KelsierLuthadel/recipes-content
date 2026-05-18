@@ -13,7 +13,7 @@ A tropical, creamy dessert sauce featuring caramelized sugar, velvety banana pur
 
 ## Ingredients
 - 2 bananas (medium)
-- juice of 1 lemon
+- 1 lemon (juice)
 - 350 grams caster sugar
 - 200 grams crème fraîche
 - 100 ml white rum

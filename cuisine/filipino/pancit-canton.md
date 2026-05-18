@@ -31,7 +31,7 @@ Aromatics fry, then chicken and prawns sauté fast. Vegetables and Chinese sausa
 - 1 tablespoon fish sauce
 - 600 ml chicken stock
 - ½ teaspoon ground black pepper
-- Lemon or kalamansi wedges, to serve
+- Lemon (or kalamansi wedges), to serve
 
 ## Method
 

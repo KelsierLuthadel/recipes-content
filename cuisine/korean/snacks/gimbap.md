@@ -29,7 +29,8 @@ Rice cooks, dresses with sesame oil and salt while still warm. Fillings prep sep
 - 4 strips ham (or 200 g beef bulgogi cooked, or 1 tin tuna mixed with mayo)
 - 2 garlic cloves (minced)
 - 1 ½ tablespoons toasted sesame oil (for fillings)
-- Salt and ground pepper
+- salt
+- pepper
 
 ### Wrapping
 - 4 sheets gim (roasted seaweed for gimbap - bigger than nori)
@@ -69,7 +70,7 @@ Rice cooks, dresses with sesame oil and salt while still warm. Fillings prep sep
 ### Stage 5 - Finish
 1. Brush the outside of each roll with a thin coat of sesame oil.
 1. Sprinkle a few sesame seeds.
-1. With a very sharp wet knife (wipe between cuts), slice each roll into 10-12 rounds about 1.5 cm thick.
+1. With a very sharp wet knife (wipe between cuts), slice each roll into 10-12 rounds about 1 ½ cm thick.
 
 ### Stage 6 - Serve
 1. Arrange the slices on a plate, cut-side up to show the cross-section.

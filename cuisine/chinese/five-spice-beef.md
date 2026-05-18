@@ -58,7 +58,7 @@ Wuxiang niurou is one of China's great deli meats, descended from the spiced bra
 1. Tie the star anise, cassia, fennel, Sichuan peppercorns and cloves in muslin or place in a tea ball.
 1. Put the shanks in the smallest pot that fits them in a single layer. Add cold water to barely cover, plus the optional chicken bouillon. Bring to a simmer and skim.
 1. Pour in the caramel mixture (scrape every drop). Add Shaoxing wine, light and dark soy, soybean paste, and the spice bundle.
-1. Cover, reduce to the lowest simmer and cook 1½ hours. Test with a chopstick: when the beef slides off the chopstick easily, it is done. If it clings, simmer 15 more minutes and test again.
+1. Cover, reduce to the lowest simmer and cook 1 ½ hours. Test with a chopstick: when the beef slides off the chopstick easily, it is done. If it clings, simmer 15 more minutes and test again.
 
 ### Stage 5 - Cool and serve
 1. Let the beef cool completely in the braising liquid, then refrigerate overnight in the same liquid.

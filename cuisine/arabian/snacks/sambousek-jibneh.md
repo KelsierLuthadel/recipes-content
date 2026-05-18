@@ -17,7 +17,7 @@ A simple oil-and-yogurt-based pastry rolls into a smooth pliable dough; rests br
 ### Pastry
 - 300 g plain flour
 - ½ teaspoon salt
-- 100 ml sunflower or olive oil
+- 100 ml sunflower (or olive oil)
 - 100 g Greek yogurt
 - 1 egg (large)
 - 1 teaspoon white wine vinegar

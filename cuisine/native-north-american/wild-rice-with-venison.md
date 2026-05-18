@@ -14,7 +14,7 @@ Venison shoulder is cut into 2 cm cubes and browned hard. Dried wild mushrooms (
 
 ## Ingredients
 
-- 400 g venison shoulder (cut into 2 cm cubes) - substitute beef chuck if unavailable
+- 400 g venison shoulder (cut into 2 cm cubes, substitute beef chuck if unavailable)
 - 2 tablespoons sunflower oil
 - 25 g dried wild mushrooms (porcini, morel or a mix)
 - 400 ml just-boiled water (for the mushrooms)
@@ -23,7 +23,7 @@ Venison shoulder is cut into 2 cm cubes and browned hard. Dried wild mushrooms (
 - 200 g wild rice (the long black grain - not "wild rice blend" with brown rice mixed in)
 - 1 teaspoon juniper berries (lightly crushed)
 - 1 teaspoon dried thyme
-- 600 ml game or beef stock
+- 600 ml game (or beef stock)
 - 1 ½ teaspoons salt
 - ½ teaspoon black pepper
 - 1 tablespoon maple syrup

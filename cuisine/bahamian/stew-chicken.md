@@ -43,8 +43,9 @@ A dark, brown-roux-thickened stew that sits closer to Louisiana gumbo than to Ja
 - 1 teaspoon dried oregano
 - 2 tablespoons chopped parsley
 - 1 Scotch bonnet (diced; **optional, with gloves**)
-- Juice of 1 lime
-- Salt and pepper to taste
+- 1 lime (juice)
+- salt
+- pepper
 - Lime wedges to serve
 
 ## Method

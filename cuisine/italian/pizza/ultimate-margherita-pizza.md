@@ -30,7 +30,8 @@ A fresh-yeasted bread-flour dough proves for an hour while a deeply reduced toma
 - 350 grams tomato passata
 - 1 tablespoon Worcestershire sauce (or Henderson's Relish for vegetarians)
 - ¼ teaspoon caster sugar
-- Salt and pepper
+- salt
+- pepper
 
 ### Topping
 - 300 grams grated mozzarella

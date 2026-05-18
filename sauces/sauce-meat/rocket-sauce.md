@@ -24,9 +24,10 @@ A vibrant, herb-forward cold sauce combining peppery rocket with sharp horseradi
 - 3 teaspoons fresh horseradish (finely grated)
 - 2 tablespoons extra virgin olive oil
 - 2 tablespoons milk
-- juice of 1 lemon
+- 1 lemon (juice)
 - 1 clove garlic (finely chopped)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

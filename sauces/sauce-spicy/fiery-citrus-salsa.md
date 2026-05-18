@@ -25,8 +25,9 @@ A vibrant, unexpected salsa showcasing bright citrus balanced with fresh chilli 
 - 8 fresh mint leaves
 
 ### Finishing
-- juice of 1 lemon
-- salt and freshly ground black pepper
+- 1 lemon (juice)
+- salt
+- pepper
 
 ## Method
 

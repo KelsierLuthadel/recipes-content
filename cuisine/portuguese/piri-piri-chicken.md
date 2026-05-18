@@ -23,7 +23,7 @@ A whole chicken is spatchcocked (backbone removed, pressed flat). The piri-piri 
 - 1 tablespoon smoked paprika
 - 1 teaspoon sweet paprika
 - 1 lemon (zest)
-- Juice of 2 lemons (about 4 tablespoons)
+- 2 lemons (about 4 tablespoons, juice)
 - 3 tablespoons white wine vinegar
 - 4 tablespoons olive oil
 - 2 teaspoons salt

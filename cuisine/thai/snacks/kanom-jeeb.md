@@ -41,9 +41,9 @@ A filling of minced pork and chopped prawn binds with coriander root (pounded wi
 - 1-2 red Thai bird's-eye chillies (sliced thin)
 - 1 garlic clove (small, very finely chopped)
 
-### For steaming
+### Equipment
 - 1 bamboo steamer basket + matching lid (or any steamer setup)
-- Baking paper or a damp tea towel to line the basket
+- Baking paper (or a damp tea towel to line the basket)
 
 ## Method
 

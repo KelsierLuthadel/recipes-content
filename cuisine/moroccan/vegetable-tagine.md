@@ -31,7 +31,8 @@ Onions are softened with garlic and ras el hanout. Carrots, parsnips, potato and
 - 600 ml vegetable stock
 - 1 preserved lemon (small, rind only, finely chopped)
 - 1 tablespoon honey (optional)
-- Salt and black pepper
+- salt
+- pepper
 - 50 g flaked almonds (toasted)
 - A small bunch of coriander (chopped)
 - A small bunch of mint (chopped)

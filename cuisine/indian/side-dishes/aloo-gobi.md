@@ -16,7 +16,7 @@ Cumin seeds bloom in hot oil; chopped onion is fried until gold; ginger-garlic p
 
 - 500 g floury potatoes (peeled, cut into 3 cm chunks)
 - 1 cauliflower (medium, cut into florets, about 600 g prepared)
-- 4 tablespoons vegetable oil or ghee
+- 4 tablespoons vegetable oil (or ghee)
 - 1 teaspoon cumin seeds
 - 1 onion (medium, chopped)
 - 1 thumb fresh ginger (grated)

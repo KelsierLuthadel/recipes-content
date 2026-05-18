@@ -54,7 +54,7 @@ Lamb fat rendered slowly into a paprika-and-cumin glaze, with naan acting as bot
 1. Serve hot.
 
 ## Notes
-- **Fresh young lamb:** older lamb takes longer to soften. If your ribs aren't ready at 1.5 hours, give them another 15-20.
+- **Fresh young lamb:** older lamb takes longer to soften. If your ribs aren't ready at 1 ½ hours, give them another 15-20.
 - **Don't let the pan dry:** check at the halfway point. Add a splash of water if the sauce has reduced to glaze.
 - **Bazaar naan absorbs differently:** thick Central Asian naan stays firm enough to hold the sauce. Supermarket flatbread will dissolve.
 - **Mind the steam:** lift the lid towards you and step back; an hour of braising under pressure makes a hot release.

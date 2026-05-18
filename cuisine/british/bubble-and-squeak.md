@@ -15,11 +15,12 @@ Cooked potatoes and greens are roughly mashed together, pressed into a hot butte
 ## Ingredients
 
 - 600 g cooked potatoes (leftover roasties or boiled and mashed)
-- 300 g cooked Brussels sprouts or cabbage (chopped)
+- 300 g cooked Brussels sprouts (or cabbage, chopped)
 - 1 onion (finely chopped)
 - 50 g unsalted butter
-- 2 tablespoons goose fat or beef dripping (optional, for extra crust)
-- Salt and freshly ground black pepper
+- 2 tablespoons goose fat (or beef dripping, optional, for extra crust)
+- salt
+- pepper
 - A pinch of nutmeg (optional)
 
 ## Method

@@ -36,7 +36,7 @@ Fine bulgur soaks for 30 minutes. Lamb mince blends with bulgur, grated onion, a
 - 2 tablespoons fresh parsley (chopped)
 
 ### To finish
-- 4 tablespoons samna or melted butter (for drizzling)
+- 4 tablespoons samna (or melted butter, for drizzling)
 
 ## Method
 

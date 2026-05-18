@@ -21,11 +21,11 @@ American Southern diner food and a close cousin of "Salisbury steak": browned gr
 - 1 packet Sazon seasoning (~1 ½ teaspoons)
 - 1 tablespoon garlic paste
 - 1 tablespoon Worcestershire sauce
-- 1 tablespoon maple syrup or honey
+- 1 tablespoon maple syrup (or honey)
 - 1 teaspoon dried minced onion
 
 ### Onion gravy
-- 2 tablespoons olive or avocado oil
+- 2 tablespoons olive (or avocado oil)
 - 1 yellow onion (medium, roughly chopped)
 - 1 packet Lipton Beefy Onion soup mix
 - 2 tablespoons plain flour

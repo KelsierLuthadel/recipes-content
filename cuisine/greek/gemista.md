@@ -31,7 +31,8 @@ Tomatoes and peppers get tops cut off and centres scooped out. The tomato flesh 
 - A small bunch of flat-leaf parsley (chopped)
 - 200 ml hot water
 - 1 teaspoon sugar
-- Salt and black pepper
+- salt
+- pepper
 
 ### For the tray
 - 4 tablespoons olive oil (extra)

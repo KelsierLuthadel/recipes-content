@@ -32,15 +32,16 @@ A simple wheat-flour dough rests while a clear, ginger-and-garlic-forward broth 
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - ½ teaspoon turmeric
-- 1 ½ litres beef or chicken stock
+- 1 ½ litres beef (or chicken stock)
 - 1 tablespoon soy sauce
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Vegetables
 - 1 carrot (medium, julienned)
-- 1 small daikon or 6 radishes (julienned)
+- 1 daikon (small, or 6 radishes, julienned)
 - 100 g cabbage (shredded)
-- 100 g spinach or other dark greens
+- 100 g spinach (or other dark greens)
 - 2 spring onions (sliced)
 
 ### To serve

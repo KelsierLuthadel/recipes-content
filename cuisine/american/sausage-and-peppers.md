@@ -21,8 +21,9 @@ The Italian-American skillet basic that nearly everyone forgets about and then r
 - 1 white onion (large, sliced into half-moons)
 - 340-370 g pre-cooked sausage (kielbasa, andouille, smoked sausage), sliced into rounds
 - 8 garlic cloves (finely minced)
-- 2 teaspoons Italian seasoning or herbes de Provence
-- Salt and freshly ground black pepper
+- 2 teaspoons Italian seasoning (or herbes de Provence)
+- salt
+- pepper
 - Fresh chopped parsley, to garnish
 
 ## Method

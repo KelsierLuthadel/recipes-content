@@ -14,12 +14,12 @@ Dried red beans soak overnight, simmer with onion, garlic and bay until tender, 
 
 ## Ingredients
 
-- 400 g dried small red beans (rojos / habichuelas) - or pinto, but red is traditional
+- 400 g dried small red beans (rojos / habichuelas, or pinto, but red is traditional)
 - 1 onion (large, ½ left whole, ½ finely chopped)
 - 4 garlic cloves (2 whole, 2 crushed)
 - 2 bay leaves
 - 1 teaspoon salt (added after the beans soften)
-- 4 tablespoons vegetable oil or pork lard
+- 4 tablespoons vegetable oil (or pork lard)
 - ½ teaspoon ground cumin
 
 ## Method

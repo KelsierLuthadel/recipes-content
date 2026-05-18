@@ -30,7 +30,7 @@ A classic Roman salad featuring crisp cos lettuce coated in a rich, anchovy-base
 - 2 tsp Worcestershire sauce
 - ½ tsp Dijon mustard
 - Dash of Tabasco sauce
-- Juice of ½ lemon
+- ½ lemon (juice)
 - ½ garlic clove (crushed)
 - 2 tbsp Parmesan (finely grated)
 - 1 egg (boiled 90 seconds, shelled)

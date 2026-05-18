@@ -19,7 +19,7 @@ Four textures to make and chill: a firm green agar jelly cut into small cubes; c
 - 8 g agar-agar powder (or 1 stick agar)
 - 400 ml water
 - 60 g caster sugar
-- ¼ teaspoon pandan essence or 2 pandan leaves blitzed with the water and strained
+- ¼ teaspoon pandan essence (or 2 pandan leaves blitzed with the water and strained)
 - 2 drops green food colouring (optional; for the signature pale jade)
 
 ### Sago

@@ -35,7 +35,7 @@ Split yellow moong dal (or toor dal) cooks with turmeric, salt and water for 25 
 
 ### To finish
 - 2 tablespoons fresh coriander (chopped)
-- Juice of ½ lemon (at the table)
+- ½ lemon (at the table, juice)
 
 ## Method
 

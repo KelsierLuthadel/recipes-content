@@ -24,7 +24,7 @@ Coarse semolina is toasted in butter and ghee until lightly fragrant. Coconut mi
 - 1 teaspoon ground cardamom
 - 1 teaspoon vanilla extract
 - 4 eggs (large, lightly beaten)
-- 50 g raisins or sultanas
+- 50 g raisins (or sultanas)
 
 ### Topping
 - 2 tablespoons poppy seeds

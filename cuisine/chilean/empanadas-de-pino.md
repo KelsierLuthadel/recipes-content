@@ -15,7 +15,7 @@ Pino: beef chopped (not minced, knife-cut chunks), browned, then slow-cooked wit
 ## Ingredients
 
 ### Pino filling
-- 700 g beef chuck or skirt (cut into 5 mm dice with a knife - don't mince)
+- 700 g beef chuck (or skirt, cut into 5 mm dice with a knife - don't mince)
 - 4 tablespoons vegetable oil
 - 4 onions (large, finely chopped - about 1 ½ kg)
 - 4 garlic cloves (crushed)
@@ -37,7 +37,7 @@ Pino: beef chopped (not minced, knife-cut chunks), browned, then slow-cooked wit
 - 600 g plain flour
 - 1 teaspoon salt
 - 100 g unsalted butter (melted)
-- 60 g lard or shortening (melted)
+- 60 g lard (or shortening, melted)
 - 2 egg yolks (large, plus 1 for egg wash)
 - 280 ml warm whole milk
 

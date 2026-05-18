@@ -10,7 +10,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Long-grain rice (not basmati or jasmine, they're too slim) toasts in oil over medium heat until pale gold and nutty, 3-4 minutes. Diced onion and garlic join briefly. A blender pulses a ripe tomato, garlic clove, half an onion and a few sprigs of coriander into a smooth red puree; this strains through a sieve to remove fibre and pours into the pan with the toasted rice, along with chicken stock, salt, cumin and a bay leaf. Brought to a simmer, covered, reduced to lowest heat, cooked for 18-20 minutes until the liquid is absorbed and the rice is tender. Off heat 10 min rest; fluffed with a fork; finished with frozen peas and chopped coriander.
+Long-grain rice (not basmati or jasmine, they're too slim) toasts in oil over medium heat until pale gold and nutty, 3-4 minutes. Diced onion and garlic join briefly. A blender pulses a ripe tomato, garlic clove, ½ onion and a few sprigs of coriander into a smooth red puree; this strains through a sieve to remove fibre and pours into the pan with the toasted rice, along with chicken stock, salt, cumin and a bay leaf. Brought to a simmer, covered, reduced to lowest heat, cooked for 18-20 minutes until the liquid is absorbed and the rice is tender. Off heat 10 min rest; fluffed with a fork; finished with frozen peas and chopped coriander.
 
 ## Ingredients
 

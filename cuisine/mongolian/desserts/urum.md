@@ -47,7 +47,7 @@ Whole milk pours into a wide shallow heavy pan. Brought slowly to a bare simmer 
 1. Serve at the table with hot strong black tea (su tei tsai if you have it) or smeared on warm bread.
 
 ## Notes
-- **Whole milk is the minimum:** semi-skimmed barely forms a skin and tastes thin. Look for milk labelled ≥3.5% fat.
+- **Whole milk is the minimum:** semi-skimmed barely forms a skin and tastes thin. Look for milk labelled ≥3 ½% fat.
 - **Low heat, no boiling:** rolling boils tear the skin and you end up with milk solids at the bottom of the pan instead of cream on top.
 - **Wide pan, lots of surface:** the skin forms on top, so surface area beats depth. A 30 cm sauté pan beats a 20 cm saucepan even if both hold 2 L.
 - **Don't stir:** any agitation prevents the skin from forming. Lift skins gently; don't disturb the milk underneath.

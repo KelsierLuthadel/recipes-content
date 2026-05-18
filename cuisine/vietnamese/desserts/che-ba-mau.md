@@ -41,7 +41,7 @@ Three sweet components are prepared separately: red beans simmered until tender 
 
 ### To serve
 - 400 g crushed ice
-- 2 tablespoons toasted sesame seeds or crushed roasted peanuts (optional)
+- 2 tablespoons toasted sesame seeds (or crushed roasted peanuts, optional)
 
 ## Method
 

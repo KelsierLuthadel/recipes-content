@@ -25,12 +25,12 @@ The crepe batter: rice flour, plain flour, eggs, coconut milk, water, salt, pand
 - 1 ½ teaspoons pandan paste (or 3 tablespoons fresh pandan juice)
 - A few drops green food colouring (optional)
 - 1 tablespoon melted butter (for the batter)
-- Extra butter / oil for the pan
+- Extra butter (or oil for the pan)
 
 ### Filling (unti kelapa)
 - 200 g palm sugar (gula merah / gula jawa), chopped
 - 3 tablespoons water
-- 1 pandan leaf (knotted) - or a pinch of salt if unavailable
+- 1 pandan leaf (knotted, or a pinch of salt if unavailable)
 - 200 g fresh grated coconut (or rehydrated desiccated, see klepon recipe)
 - 1 pinch salt
 

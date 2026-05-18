@@ -81,7 +81,7 @@ An enriched dough, flour, butter, milk, egg yolks, yeast, is rolled into 8 layer
 1. Stir in the lemon juice; remove from heat.
 
 ### Stage 7 - Pour and rest
-1. While the pakhlava is still hot, slowly pour the warm syrup evenly over the entire surface - about half a small ladle per diamond.
+1. While the pakhlava is still hot, slowly pour the warm syrup evenly over the entire surface - about ½ small ladle per diamond.
 1. The syrup will hiss, foam briefly and absorb.
 1. Cool fully in the tin.
 1. Rest overnight at room temperature, uncovered.

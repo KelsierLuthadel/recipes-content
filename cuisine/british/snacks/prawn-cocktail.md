@@ -25,10 +25,10 @@ Marie Rose sauce, mayo, ketchup, Worcestershire, a squeeze of lemon, a splash of
 
 ### To assemble
 - 400 g cooked, peeled king prawns (deveined, tails removed)
-- 1 small iceberg or 2 little gems (very finely shredded)
+- 1 iceberg (small, or 2 little gems, very finely shredded)
 - 1 lemon (cut into 4 wedges)
 - ½ teaspoon sweet paprika (for dusting)
-- A few sprigs of dill or chives
+- A few sprigs of dill (or chives)
 
 ## Method
 

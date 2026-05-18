@@ -32,14 +32,15 @@ Aubergines and potatoes pan-fry or roast separately. Lamb mince cooks down with 
 - 1 teaspoon dried oregano
 - ¼ teaspoon ground allspice
 - 1 bay leaf
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Béchamel
 - 75 g unsalted butter
 - 75 g plain flour
 - 700 ml whole milk (warm)
 - 2 eggs (large, beaten)
-- 100 g grated kefalotyri or parmesan
+- 100 g grated kefalotyri (or parmesan)
 - A grating of nutmeg
 
 ## Method

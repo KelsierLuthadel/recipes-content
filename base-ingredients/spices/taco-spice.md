@@ -7,9 +7,9 @@
 
 ![Taco Spice Mix](resources/taco-spice.jpg)
 
-*The seasoning behind the Tex-Mex taco - earthy ground cumin, sweet and smoked paprika, garlic and onion powder, a hit of chilli and a small amount of oregano for the herbal back-note. Mixed dry, kept in a jar, and dosed at about half a tablespoon per 100 g of mince. A homemade blend beats the shop sachets because you control the salt and the heat level, and the spices stay fresh.*
+*The seasoning behind the Tex-Mex taco - earthy ground cumin, sweet and smoked paprika, garlic and onion powder, a hit of chilli and a small amount of oregano for the herbal back-note. Mixed dry, kept in a jar, and dosed at about ½ tablespoon per 100 g of mince. A homemade blend beats the shop sachets because you control the salt and the heat level, and the spices stay fresh.*
 
-**Yield:** Approximately 80 grams (makes 16-20 portions, half a tablespoon each)
+**Yield:** Approximately 80 grams (makes 16-20 portions, ½ tablespoon each)
 
 ## Overview
 Taco spice is a dry rub-and-stir blend used to season ground beef, pork, turkey or pinto beans for tacos, burritos, quesadillas, nachos and chilli con carne. The blend balances earthy cumin against sweet paprika, with garlic and onion powder doing the savoury heavy lifting, chilli for warmth, and a small dose of dried oregano for the herbal lift that distinguishes Tex-Mex from generic chilli powder. Salt is included so the blend is one-step at the pan, no extra seasoning needed.
@@ -58,7 +58,7 @@ Taco spice is a dry rub-and-stir blend used to season ground beef, pork, turkey 
 - **Bean-friendly:** Add ½ teaspoon ground chipotle for smoky depth in vegetarian taco filling.
 
 ## Serving
-- **Typical dose:** Half a tablespoon (about 4 g) per 100 g of mince, or per tin of beans.
+- **Typical dose:** ½ tablespoon (about 4 g) per 100 g of mince, or per tin of beans.
 - **Application:** Brown the mince first, drain excess fat, then add the spice mix with a splash of water or tomato passata. Simmer 5 minutes to bloom and coat. Don't add to a cold pan - toasting in the residual fat is what brings the cumin and paprika to life.
 - **Beyond taco mince:** Rub onto chicken thighs before roasting; toss with roast potatoes; sprinkle on popcorn; stir into sour cream for a dip.
 

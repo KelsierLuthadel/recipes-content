@@ -18,10 +18,11 @@ Onion is softened in oil; sweet paprika blooms off the heat (don't burn it). Str
 - 2 onions (large, sliced)
 - 1 tablespoon sweet Hungarian paprika
 - ½ teaspoon hot Hungarian paprika (optional)
-- 6 large yellow bell peppers (deseeded and sliced 1 cm thick)
+- 6 yellow bell peppers (large, deseeded and sliced 1 cm thick)
 - 4 ripe tomatoes (large, chopped) or 1 x 400 g tin chopped tomatoes
 - 1 teaspoon sugar
-- Salt and black pepper
+- salt
+- pepper
 - 2-4 eggs (large, optional, to finish)
 
 ## Method

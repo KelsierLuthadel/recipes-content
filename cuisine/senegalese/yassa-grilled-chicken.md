@@ -38,7 +38,7 @@ Yassa is one of the foundational dishes of Senegalese cooking, born in the Casam
 - 30 ml neutral oil (for the pan)
 - 1 tbsp Dijon mustard
 - Salt to taste
-- Steamed white rice or attieke, to serve
+- Steamed white rice (or attieke), to serve
 
 ## Method
 

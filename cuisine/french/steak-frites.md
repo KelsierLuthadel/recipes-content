@@ -16,16 +16,17 @@ The frites take the longest (peel, cut, soak, fry low, drain, fry high) so start
 
 ### Frites
 - 600 g Maris Piper potatoes (peeled, cut into 1 cm thick batons)
-- Vegetable oil or beef dripping for deep-frying
+- Vegetable oil (or beef dripping for deep-frying)
 - Sea salt
 
 ### Steaks
-- 2 rib-eye or sirloin steaks (about 250 g each, 2 ½ cm thick)
+- 2 rib-eye (or sirloin steaks, about 250 g each, 2 ½ cm thick)
 - 1 tablespoon vegetable oil
 - 30 g unsalted butter
 - 2 thyme sprigs
 - 1 garlic clove (smashed)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Béarnaise
 - 4 tablespoons white wine vinegar

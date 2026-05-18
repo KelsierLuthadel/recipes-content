@@ -14,10 +14,10 @@ Maris Piper potatoes peel and chunk, parboil in well-salted water until just pas
 
 ## Ingredients
 
-- 1 ½ kg Maris Piper or King Edward potatoes (peeled, cut into 4-5 cm chunks)
-- 6 tablespoons goose fat or beef dripping
+- 1 ½ kg Maris Piper (or King Edward potatoes, peeled, cut into 4-5 cm chunks)
+- 6 tablespoons goose fat (or beef dripping)
 - 1 tablespoon semolina (optional; helps the crust)
-- 4 sprigs fresh rosemary or thyme (optional)
+- 4 sprigs fresh rosemary (or thyme, optional)
 - 4 garlic cloves (skin on, smashed; optional)
 - Sea salt
 

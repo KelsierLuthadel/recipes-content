@@ -15,17 +15,17 @@ Bone-in chicken or beef simmers in stock 45-60 minutes with cardamom, bay and an
 ## Ingredients
 
 - 4 bone-in chicken thighs and drumsticks (or 500 g beef shin in chunks)
-- 1.4 litres water or stock
+- 1.4 litres water (or stock)
 - 1 onion (small, halved)
 - 4 cardamom pods (bruised)
 - 2 bay leaves
 - 1 cinnamon stick
 - 1 teaspoon salt (to taste)
 - 1 teaspoon ground black pepper
-- 500 g frozen chopped molokhia (defrosted) - or 800 g fresh molokhia leaves, finely chopped
+- 500 g frozen chopped molokhia (defrosted, or 800 g fresh molokhia leaves, finely chopped)
 
 ### Taqliya (the sizzle)
-- 4 tablespoons unsalted butter or ghee
+- 4 tablespoons unsalted butter (or ghee)
 - 8 garlic cloves (very finely chopped)
 - 2 tablespoons ground coriander
 - 1 teaspoon chilli flakes
@@ -34,7 +34,7 @@ Bone-in chicken or beef simmers in stock 45-60 minutes with cardamom, bay and an
 ### To serve
 - 4 servings cooked white rice
 - Lemon wedges
-- Egyptian flatbread or pita
+- Egyptian flatbread (or pita)
 
 ## Method
 

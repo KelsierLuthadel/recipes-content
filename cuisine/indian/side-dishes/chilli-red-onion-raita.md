@@ -18,7 +18,7 @@ Chilli and red onion raita is a cooling, yoghurt-based Indian condiment with toa
 - 1 fresh green chilli (small, de-seeded)
 - 150 ml natural yoghurt
 - 2 tablespoons coriander (freshly chopped)
-- half a tablespoon granulated sugar
+- ½ tablespoon granulated sugar
 - salt to taste
 
 ## Method

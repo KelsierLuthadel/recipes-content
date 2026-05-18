@@ -16,7 +16,7 @@ This is a contemporary fusion chutney that bridges traditional and modern Indian
 - 200 ml smooth mango chutney (store-bought or homemade)
 - 1-4 fresh green chillies (finely chopped, quantity to taste)
 - 2 garlic cloves (finely chopped)
-- Juice of 1 fresh lime
+- 1 fresh lime (juice)
 - Salt to taste
 
 ## Method

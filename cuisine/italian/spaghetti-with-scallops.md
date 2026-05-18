@@ -15,7 +15,8 @@ This is an elegant pasta that celebrates premium seafood and the beauty of simpl
 ### Scallops
 - 45 grams salted butter
 - 250 grams small scallops (without the roe/coral)
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Parsley Pesto
 - 50 grams fresh flat leaf parsley (leaves only, not curly)

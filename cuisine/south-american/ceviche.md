@@ -24,7 +24,8 @@ Ceviche is a vibrant, no-cook appetizer in which fresh seafood is "cooked" by th
 - 2 tablespoon caster sugar
 - 2 pink grapefruit
 - 3 oranges
-- salt and freshly ground black pepper
+- salt
+- pepper
 
 ## Method
 1. Cut the scallop into 1 cm dice, and add them to a bowl with the prawns.

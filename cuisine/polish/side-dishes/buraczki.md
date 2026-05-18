@@ -22,7 +22,7 @@ Beetroots roast in foil until tender (or boil for the quicker route), then peel 
 ### Dressing
 - 1 onion (medium, very finely chopped)
 - 40 g unsalted butter
-- 2 tablespoons white wine vinegar or fresh lemon juice
+- 2 tablespoons white wine vinegar (or fresh lemon juice)
 - 1 tablespoon caster sugar
 - 2 tablespoons grated fresh horseradish (or 1 tablespoon prepared horseradish from a jar)
 - ½ teaspoon ground caraway (optional)

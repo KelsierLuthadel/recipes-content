@@ -18,10 +18,10 @@ Aubergines char whole over a gas flame until completely soft and the skins black
 - 100 g tahini (well-stirred)
 - 100 g plain yogurt (Greek-style)
 - 4 garlic cloves (crushed to paste with salt)
-- Juice of 1 lemon (or to taste)
+- 1 lemon (or to taste, juice)
 - 1 teaspoon salt
 - ½ teaspoon ground cumin
-- A pinch of cayenne or Aleppo pepper
+- A pinch of cayenne (or Aleppo pepper)
 - 4 tablespoons extra-virgin olive oil
 
 ### To serve

@@ -14,7 +14,7 @@ Tandoori Chicken Tikka is restaurant-quality barbecue, sophisticated yet accessi
 
 ### Fresh Chicken & First Marinade
 - 1kg skinless, boneless chicken breasts (cut into bite-sized pieces/tikka)
-- Juice of 2 lemons
+- 2 lemons (juice)
 - 3 tablespoons garlic and ginger paste
 - Salt
 - Red food colouring powder (optional, for appearance)
@@ -27,7 +27,7 @@ Tandoori Chicken Tikka is restaurant-quality barbecue, sophisticated yet accessi
 - 1 tablespoon tandoori masala powder
 - 1 teaspoon amchoor (dried mango powder)
 - 1 teaspoon ground turmeric
-- 1 teaspoon paprika or chilli powder
+- 1 teaspoon paprika (or chilli powder)
 - 2 fresh green chillies (finely chopped)
 - 3 tablespoons finely grated Parmesan cheese
 - 20g fresh coriander leaves (finely chopped)

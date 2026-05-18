@@ -24,7 +24,7 @@ The musakhan filling: red onions (LOTS, for the dish to work, you need 4-5 large
 - 1 teaspoon ground allspice
 - ½ teaspoon black pepper
 - 60 g pine nuts (toasted in a dry pan 3 minutes)
-- Juice of ½ lemon
+- ½ lemon (juice)
 - 3 tablespoons fresh parsley (chopped)
 
 ### Wrappers

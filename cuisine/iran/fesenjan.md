@@ -20,10 +20,10 @@ Walnuts are toasted and ground to a paste. Onions are softened slowly with turme
 - 1 teaspoon ground turmeric
 - A generous pinch of saffron (steeped in 3 tablespoons hot water 10 min)
 - 400 g shelled walnuts
-- 1 litre chicken or vegetable stock
+- 1 litre chicken (or vegetable stock)
 - 4 tablespoons pomegranate molasses (Iranian if possible)
 - 2 tablespoons brown sugar (or to taste)
-- Juice of half a lemon
+- ½ lemon (juice)
 - 1 ½ teaspoons salt
 - ½ teaspoon black pepper
 - ½ teaspoon ground cinnamon

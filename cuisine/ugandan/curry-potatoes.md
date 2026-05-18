@@ -25,7 +25,7 @@ Ugandan curry potatoes are one of those everyday dishes that say more about a co
 - ½ tsp ground turmeric
 - 1 tbsp tomato paste
 - 45 ml neutral oil
-- 400 ml water or vegetable stock
+- 400 ml water (or vegetable stock)
 - 1 tsp salt (or to taste)
 - Small handful fresh coriander (chopped, to finish)
 

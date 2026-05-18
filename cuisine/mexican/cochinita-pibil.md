@@ -24,8 +24,8 @@ Pork shoulder is rubbed with a paste of achiote, orange and lime juices, garlic,
 - ¼ teaspoon ground cloves
 - 1 teaspoon salt
 - ½ teaspoon black pepper
-- Juice of 4 oranges (or 1 cup sour orange juice if available)
-- Juice of 2 limes
+- 4 oranges (or 1 cup sour orange juice if available, juice)
+- 2 limes (juice)
 - 2 tablespoons white vinegar
 - 2 tablespoons olive oil
 
@@ -37,7 +37,7 @@ Pork shoulder is rubbed with a paste of achiote, orange and lime juices, garlic,
 
 ### Pickled red onion (to serve)
 - 1 red onion (large, thinly sliced)
-- Juice of 2 limes
+- 2 limes (juice)
 - 2 tablespoons white vinegar
 - 1 teaspoon salt
 - ½ teaspoon dried oregano

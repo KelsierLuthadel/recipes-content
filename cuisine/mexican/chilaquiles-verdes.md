@@ -22,14 +22,14 @@ Tomatillos, jalapeño, onion and garlic blitz into a green salsa, briefly cooked
 - 1 tablespoon olive oil
 - A handful of fresh coriander
 - ½ teaspoon salt
-- 200 ml chicken or vegetable stock
+- 200 ml chicken (or vegetable stock)
 
 ### To assemble
 - 4 cups tortilla chips (about 200 g, ideally lightly stale)
 - 4 eggs
 - 1 tablespoon vegetable oil
 - 100 g queso fresco (or feta), crumbled
-- 4 tablespoons crema or sour cream
+- 4 tablespoons crema (or sour cream)
 - ½ red onion (very finely sliced)
 - 2 tablespoons chopped coriander
 

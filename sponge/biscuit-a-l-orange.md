@@ -25,7 +25,7 @@ Biscuit à l'Orange is an elegant French almond-based sponge enriched with fresh
 - 25 grams candied orange peel (finely chopped)
 
 ### Flour & Fat
-- 85 grams cake flour or soft flour (sifted)
+- 85 grams cake flour (or soft flour, sifted)
 - 1 teaspoon unsalted butter (melted, for greasing ring)
 - 30 grams unsalted butter (for greasing tin, optional)
 - 1 pinch flour (for dusting greased tin)

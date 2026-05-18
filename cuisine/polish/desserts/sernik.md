@@ -29,9 +29,9 @@ A buttery shortcrust pastry is pressed into a tin; a small piece is reserved for
 - 200 g unsalted butter (room temperature)
 - 200 g caster sugar
 - 6 eggs (large, separated)
-- 50 g fine semolina or 40 g cornflour
+- 50 g fine semolina (or 40 g cornflour)
 - 2 lemons (zest)
-- 1 tablespoon vanilla extract or 1 vanilla pod (seeds scraped)
+- 1 tablespoon vanilla extract (or 1 vanilla pod, seeds scraped)
 - 50 g raisins (optional; soaked in 2 tablespoons rum or warm water 15 minutes)
 - A pinch of salt
 

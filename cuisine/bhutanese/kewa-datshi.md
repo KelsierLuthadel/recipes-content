@@ -28,7 +28,7 @@ Waxy potatoes are sliced into thin rounds and simmered in water with green chill
 ### Cheese mix (yak churpi substitute)
 - 100 g Edam cheese (grated; or mild gouda)
 - 80 g processed cheese slices (chopped; e.g. supermarket American slices or Dairylea singles)
-- 40 g crumbled feta or a small handful of mild blue cheese (for the funky note - optional but recommended)
+- 40 g crumbled feta (or a small handful of mild blue cheese, for the funky note - optional but recommended)
 - 50 ml whole milk
 
 ### To finish
@@ -36,7 +36,7 @@ Waxy potatoes are sliced into thin rounds and simmered in water with green chill
 - Pinch of ground Sichuan pepper (optional)
 
 ### To serve
-- Bhutanese red rice or plain steamed rice
+- Bhutanese red rice (or plain steamed rice)
 
 ## Method
 

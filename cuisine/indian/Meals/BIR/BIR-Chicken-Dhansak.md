@@ -33,7 +33,7 @@ A British curry-house classic with sweet-sour notes of pineapple and lemon and e
 - 115 ml (scant ½ cup) pineapple juice
 - 3-4 canned pineapple rings, cut into pieces
 - Salt, to taste
-- Juice of 1-2 lemons, to taste
+- 1-2 lemons, to taste (juice)
 
 ### Finish
 - 3 tbsp chopped coriander (cilantro)

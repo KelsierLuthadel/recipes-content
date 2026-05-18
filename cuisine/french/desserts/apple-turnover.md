@@ -11,7 +11,7 @@
 ## Ingredients
 - 360 grams [feuilletage](../../baking/pastry/puff-pastry.md) (classic puff pastry)
 - 400 grams apples (preferably Cox's)
-- juice of 1 lemon
+- 1 lemon (juice)
 - 60  grams caster sugar
 - ½ teaspoon ground cinnamon
 - eggwash (1 egg yolk mixed with 1 tablespoon milk)

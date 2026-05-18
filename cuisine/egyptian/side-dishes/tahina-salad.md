@@ -16,7 +16,7 @@ Good-quality tahini whisks with crushed garlic, fresh lemon juice and a pinch of
 
 - 200 g good-quality tahini (Lebanese, Syrian or Palestinian brand - light and runny)
 - 3 garlic cloves (crushed to a paste with ½ tsp salt)
-- Juice of 1 ½ lemons
+- 1 ½ lemons (juice)
 - ½ teaspoon ground cumin
 - ½ teaspoon salt (to taste)
 - 100-150 ml cold water (added gradually)
@@ -25,7 +25,7 @@ Good-quality tahini whisks with crushed garlic, fresh lemon juice and a pinch of
 - 1 tablespoon olive oil
 - ½ teaspoon sumac (optional)
 - 1 tablespoon fresh parsley (chopped)
-- Egyptian flatbread or pita to scoop
+- Egyptian flatbread (or pita to scoop)
 
 ## Method
 

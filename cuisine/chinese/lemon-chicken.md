@@ -25,7 +25,7 @@ A Hong Kong specialty that pairs delicate chicken with a tart yet subtly sweet l
 - 1 ½ tablespoons fresh lemon juice
 - 2 teaspoons sugar
 - 2 teaspoons light soy sauce
-- 2 teaspoons dry sherry or rice wine
+- 2 teaspoons dry sherry (or rice wine)
 - ½ teaspoon garlic (finely chopped)
 - 1 dried red chilli
 - 1 teaspoon cornflour (blended with 1 teaspoon water)

@@ -45,7 +45,7 @@ Beef tenderloin or fillet is cut into 3 cm cubes and marinated in two stages. A 
 - Sliced red onion (soaked briefly in vinegar with a pinch of salt)
 - Mint-yogurt chutney
 - Lemon wedges
-- Warm naan or roghni naan
+- Warm naan (or roghni naan)
 - Pickled green chillies
 
 ## Method
@@ -83,7 +83,7 @@ Beef tenderloin or fillet is cut into 3 cm cubes and marinated in two stages. A 
 1. Pile with the sliced onion and serve with mint chutney, lemon, naan and pickled chillies.
 
 ## Notes
-- **Don't over-papaya:** Green papaya is a powerful tenderiser. Leave the beef in the first marinade for more than 45 minutes and it turns to mush. Half an hour is the sweet spot.
+- **Don't over-papaya:** Green papaya is a powerful tenderiser. Leave the beef in the first marinade for more than 45 minutes and it turns to mush. ½ hour is the sweet spot.
 - **Smoke the mustard oil:** Raw mustard oil is bitter. Heating to the smoke point knocks the rawness back and leaves a clean, warming pungency.
 - **White-hot coals:** Boti kebabs are a quick-cook. The grill needs to be aggressive. Anything cooler grey-steams the meat instead of charring it.
 

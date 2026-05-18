@@ -23,7 +23,8 @@ The Sunday-lunch counterpart to goat curry across Jamaica; not curry-driven but 
 - 1 teaspoon smoked paprika
 - ½ teaspoon ground allspice
 - ½ teaspoon ground ginger
-- Salt and pepper
+- salt
+- pepper
 
 ### Chicken
 - 8-9 chicken pieces (legs + boneless skinless thighs)
@@ -61,7 +62,7 @@ The Sunday-lunch counterpart to goat curry across Jamaica; not curry-driven but 
 
 ### Stage 4 - Braise
 1. Cover; reduce to medium-low.
-1. Simmer 1.5-2 hours until the chicken is meltingly tender and falling from the bone.
+1. Simmer 1 ½-2 hours until the chicken is meltingly tender and falling from the bone.
 
 ### Stage 5 - Finish
 1. Discard the thyme sprigs, bay leaves and Scotch bonnet.

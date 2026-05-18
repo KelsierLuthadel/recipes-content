@@ -25,7 +25,7 @@ A soft yeasted dough (plain flour, milk, water, oil, yeast, sugar, salt, a touch
 - 220 ml warm water (more as needed)
 
 ### Glaze
-- 2 tablespoons date or pomegranate molasses (or treacle)
+- 2 tablespoons date (or pomegranate molasses, or treacle)
 - 100 ml warm water
 
 ### Coating

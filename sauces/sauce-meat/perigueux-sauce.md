@@ -22,7 +22,8 @@ An elegant, luxurious sauce featuring prized truffles and their precious juice. 
 
 ### Finishing
 - 40 grams butter (chilled and diced)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

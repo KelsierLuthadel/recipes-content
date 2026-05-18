@@ -44,7 +44,7 @@ Three components assemble at service. (1) Niku miso: ground pork stir-fries with
 - 200-250 g fresh ramen noodles (or 200 g good dried ramen)
 
 ### Toppings
-- 2 soft-boiled eggs (6.5 minutes from cold water; peel and marinate in 2 tablespoons soy + 2 tablespoons mirin + 50 ml water overnight if possible)
+- 2 soft-boiled eggs (6 ½ minutes from cold water; peel and marinate in 2 tablespoons soy + 2 tablespoons mirin + 50 ml water overnight if possible)
 - 200 g baby bok choy (halved lengthways)
 - 4 spring onions (sliced thin, green parts)
 - 1 tablespoon toasted sesame seeds
@@ -61,7 +61,7 @@ Three components assemble at service. (1) Niku miso: ground pork stir-fries with
 1. Off heat; stir in sesame oil. Keep warm.
 
 ### Stage 2 - Tare
-1. In each serving bowl directly, whisk together: 1 ½ tablespoons sesame paste, 1 tablespoon soy sauce, ½ tablespoon rice vinegar, ½ tablespoon chilli oil, ½ teaspoon white miso, half a grated garlic clove, ¼ teaspoon sugar.
+1. In each serving bowl directly, whisk together: 1 ½ tablespoons sesame paste, 1 tablespoon soy sauce, ½ tablespoon rice vinegar, ½ tablespoon chilli oil, ½ teaspoon white miso, ½ grated garlic clove, ¼ teaspoon sugar.
 1. The tare will be a thick glossy paste at the bottom of the bowl.
 
 ### Stage 3 - Soup

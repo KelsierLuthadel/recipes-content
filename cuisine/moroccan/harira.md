@@ -28,13 +28,13 @@ Lamb shoulder cubes simmer slow with chickpeas, lentils, tomatoes, vermicelli no
 - A pinch of saffron threads
 - 2 tablespoons tomato purée
 - 800 g tinned chopped tomatoes (2 tins)
-- 200 g tinned or dried chickpeas (cooked if dried)
+- 200 g tinned (or dried chickpeas, cooked if dried)
 - 100 g brown lentils (rinsed)
-- 1 ½ litres chicken or lamb stock
+- 1 ½ litres chicken (or lamb stock)
 - 100 g vermicelli noodles (broken into short pieces)
 - A small bunch of fresh coriander (chopped)
 - A small bunch of fresh parsley (chopped)
-- Juice of 1 lemon
+- 1 lemon (juice)
 - Salt
 - Lemon wedges, to serve
 

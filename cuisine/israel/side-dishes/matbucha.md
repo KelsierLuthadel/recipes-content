@@ -20,7 +20,7 @@ Red bell peppers char briefly under the grill, skin peels off. Tomatoes (fresh o
 - 2 hot green chillies (finely chopped - adjust to taste)
 - 4 tablespoons olive oil
 - 2 teaspoons sweet paprika
-- 1 teaspoon hot paprika or smoked paprika
+- 1 teaspoon hot paprika (or smoked paprika)
 - 1 teaspoon ground cumin
 - 1 teaspoon caster sugar (more if tomatoes are sharp)
 - 1 ½ teaspoons salt (to taste)

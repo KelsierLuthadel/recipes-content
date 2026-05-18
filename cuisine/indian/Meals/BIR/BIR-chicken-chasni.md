@@ -17,7 +17,7 @@ A sweet and smooth British-Indian chasni that pairs best with tandoori chicken t
 
 ## Ingredients
 ### Fat and aromatics
-- 3 tbsp ghee or rapeseed (canola) oil or seasoned oil
+- 3 tbsp ghee (or rapeseed, canola) oil or seasoned oil
 - 2 tbsp garlic and ginger paste
 - ½ tsp ground turmeric
 
@@ -32,7 +32,7 @@ A sweet and smooth British-Indian chasni that pairs best with tandoori chicken t
 - 1 tbsp ground cumin
 - 200 ml (generous ¾ cup) double (heavy) cream
 - Salt, to taste
-- Juice of 1-2 lemons, to taste
+- 1-2 lemons, to taste (juice)
 - Bright red food colouring powder (optional)
 - ½ tsp garam masala
 - 3 tbsp very finely chopped coriander (cilantro)

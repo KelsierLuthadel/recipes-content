@@ -25,13 +25,14 @@ Croutons fry in olive oil with garlic. Romaine lettuce washes and crisps. Dressi
 - 2 garlic cloves (crushed)
 - 6 anchovy fillets in oil (drained and chopped)
 - 1 teaspoon Dijon mustard
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 4 tablespoons grated parmesan
 - 100 ml extra virgin olive oil
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Salad
-- 2 large heads cos / romaine lettuce (cleaned, leaves separated)
+- 2 large heads cos (or romaine lettuce, cleaned, leaves separated)
 - 50 g parmesan (shaved with a peeler)
 
 ### Optional

@@ -34,7 +34,7 @@ Dried split fava beans soak overnight. Blitz with herbs, garlic, onion, leek, gr
 
 ### To serve
 - Tahina salad (see recipe)
-- Aysh baladi or pita
+- Aysh baladi (or pita)
 - Pickled vegetables
 - Salata baladi
 

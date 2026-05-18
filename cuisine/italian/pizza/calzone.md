@@ -19,7 +19,8 @@ The calzone is pizza's elegant cousin, pizza dough folded like an envelope and s
 - 200 grams pancetta (cut into small cubes)
 - 40 fresh basil leaves (small, or more)
 - 60 ml extra virgin olive oil
-- Salt and freshly ground pepper to taste
+- salt
+- pepper
 - 200 grams fresh ricotta cheese
 
 ### Finishing

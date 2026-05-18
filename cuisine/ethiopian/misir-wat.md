@@ -23,7 +23,7 @@ Onions cook slowly in oil or niter kibbeh until they melt and turn jammy. Berber
 - 250 g red lentils (rinsed)
 - 1 litre vegetable stock (or water)
 - 1 teaspoon salt (or to taste)
-- Juice of half a lemon
+- ½ lemon (juice)
 - Black pepper
 
 ## Method

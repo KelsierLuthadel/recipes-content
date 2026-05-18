@@ -34,7 +34,7 @@ Lamb mince blends with onion, garlic, oregano, cumin and a bit of breadcrumb int
 - Tzatziki
 - 1 red onion (small, very finely sliced)
 - 2 tomatoes (sliced)
-- A small handful of fresh oregano or parsley
+- A small handful of fresh oregano (or parsley)
 - Optional: 200 g hot chips
 
 ## Method

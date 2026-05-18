@@ -15,7 +15,7 @@ Chicken inasal is the pride of Bacolod City on Negros Occidental, where streetsi
 ## Ingredients
 
 ### Chicken
-- 1.5 kg chicken pieces (thighs and drumsticks, bone-in skin-on, or butterflied chicken halves)
+- 1 ½ kg chicken pieces (thighs and drumsticks, bone-in skin-on, or butterflied chicken halves)
 
 ### Marinade
 - 80 ml calamansi juice (or 60 ml lime juice plus 20 ml orange juice)
@@ -40,7 +40,7 @@ Chicken inasal is the pride of Bacolod City on Negros Occidental, where streetsi
 
 ### Dipping sauce (toyomansi)
 - 45 ml soy sauce
-- 30 ml calamansi or lime juice
+- 30 ml calamansi (or lime juice)
 - 15 ml cane vinegar
 - 1 bird's eye chilli (sliced)
 - 1 shallot (small, finely chopped)

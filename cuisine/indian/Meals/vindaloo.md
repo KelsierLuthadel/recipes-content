@@ -34,7 +34,8 @@ The fiery Goan original: a vinegar-and-garlic-marinated meat (traditionally pork
 - 1 tsp Dried Fenugreek leaves
 - 2 pre-cooked stewed potatoes (quartered)
 - 3 Tbsp Chopped Coriander
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ## Method
 ### Step 1

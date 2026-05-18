@@ -45,7 +45,7 @@ Spinach is blanched for one minute then plunged into iced water (a step that loc
 
 ### To serve
 - A drizzle of cream
-- Naan, roti or basmati rice
+- Naan, roti (or basmati rice)
 
 ## Method
 

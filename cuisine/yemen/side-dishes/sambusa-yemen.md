@@ -28,8 +28,9 @@ Lamb mince fries with onion, garlic, cumin, coriander and chilli to a dry savour
 - 1 fresh green chilli (very finely chopped)
 - 3 tablespoons fresh coriander (chopped)
 - 3 tablespoons fresh parsley (chopped)
-- Juice of ½ lemon
-- Salt and black pepper
+- ½ lemon (juice)
+- salt
+- pepper
 
 ### Wrapping and frying
 - 24 spring-roll pastry sheets (cut into 8 x 25 cm strips)

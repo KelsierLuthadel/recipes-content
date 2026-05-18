@@ -35,7 +35,7 @@ Brined vine leaves are soaked for 20 minutes to leach the brine. Filling: short-
 ### Cooking liquid
 - 4 tablespoons olive oil
 - 3 tablespoons lemon juice
-- 400 ml hot water or light vegetable stock
+- 400 ml hot water (or light vegetable stock)
 - 1 teaspoon salt
 
 ### To serve

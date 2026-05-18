@@ -12,13 +12,13 @@
 A British curry-house classic loosely inspired by Sri Lankan flavours: a coconut-and-lemon sauce with mustard seeds, curry leaves and a touch of green chilli. Sharp from the lemon, sweet from the coconut, mildly hot. Distinguished from a korma by the lemony brightness and from a Goan curry by the lack of vinegar.
 
 ## Ingredients
-- 4 tbsp rapeseed oil or seasoned oil
+- 4 tbsp rapeseed oil (or seasoned oil)
 - 800g [pre-cooked chicken](../Base/pre-cooked-chicken.md)
 - 125ml [chicken stock](../Base/pre-cooked-chicken.md)
 - 2 star anise 
 - 3 inch piece of cinnamon stick
 - 4 green cardamom pods (bashed )
-- 20 fresh or frozen curry leaves 
+- 20 fresh (or frozen curry leaves)
 - 2 tbsp garlic and ginger paste 
 - 2 green bird’s-eye chillies (finely chopped )
 - 2 tbsp coconut flour 
@@ -33,7 +33,7 @@ A British curry-house classic loosely inspired by Sri Lankan flavours: a coconut
 - 1 tsp dried fenugreek leaves 
 - 2 tbsp smooth mango chutney 
 - Sugar, to taste 
-- Juice of 1 lime 
+- 1 lime (juice)
 - 1 tsp [garam masala](../Spice-Mixes/garam-masala.md)
 - 3 tbsp freshly chopped coriander
 - Salt 

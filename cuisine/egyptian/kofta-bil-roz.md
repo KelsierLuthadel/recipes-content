@@ -41,7 +41,7 @@ Mixed beef-lamb mince combines with grated onion, garlic, cumin, allspice, parsl
 
 ### Rice
 - 300 g long-grain rice (rinsed)
-- 700 ml hot beef or chicken stock
+- 700 ml hot beef (or chicken stock)
 
 ### To finish
 - 3 tablespoons fresh coriander (chopped)

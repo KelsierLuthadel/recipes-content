@@ -25,8 +25,9 @@ Onions and mushrooms cook in butter until the mushrooms have released and reabso
 - 3 tablespoons fresh dill (chopped)
 - 200 ml soured cream
 - 2 tablespoons soy sauce
-- Juice of half a lemon
-- Salt and black pepper
+- ½ lemon (juice)
+- salt
+- pepper
 - A few extra dill fronds (to serve)
 
 ## Method

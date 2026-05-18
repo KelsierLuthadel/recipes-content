@@ -35,7 +35,7 @@ Chicken thighs (or lamb) are browned, onions and tomato cooked down with garlic 
 - 250 ml hot water
 
 ### Vegetables
-- 1 medium sweet potato or 400 g pumpkin (peeled, cut in 3 cm chunks)
+- 1 sweet potato (medium, or 400 g pumpkin, peeled, cut in 3 cm chunks)
 - 2 carrots (sliced into thick rounds)
 
 ### To finish

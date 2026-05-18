@@ -23,7 +23,8 @@ Tomatoes cut into thick wedges, cucumber peeled in stripes and cut into chunky r
 - 6 tablespoons extra virgin olive oil (good quality - this is the dressing)
 - 1 ½ tablespoons red-wine vinegar
 - 1 tablespoon dried Greek oregano (rigani)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ## Method
 

@@ -15,7 +15,7 @@
 - 75 grams caster sugar
 - 100 grams butter
 - 1 tablespoon grenadine syrup (optional)
-- juice of 1 lemon
+- 1 lemon (juice)
 - icing sugar (to dust)
 
 ## Overview

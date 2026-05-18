@@ -30,10 +30,10 @@ The Texas hot link belongs to East Texas BBQ, a distinct tradition that grew out
 - 3 g ground coriander
 - 2 g pink curing salt #1 (optional, for traditional cured colour and flavour)
 - 100 ml ice water
-- 1.5 m natural hog casings (rinsed)
+- 1 ½ m natural hog casings (rinsed)
 
 ### To smoke
-- Post-oak or hickory wood chunks (2-3 fist-sized pieces)
+- Post-oak (or hickory wood chunks, 2-3 fist-sized pieces)
 
 ### To serve
 - Sliced white bread
@@ -61,7 +61,7 @@ The Texas hot link belongs to East Texas BBQ, a distinct tradition that grew out
 1. Set up a kettle grill or smoker for indirect heat at 110-120°C.
 1. Add 2-3 post-oak chunks to the coals (or wood chips in a smoker box).
 1. Place the links on the cool side; close the lid with the top vent open.
-1. Smoke 2-2½ hours, turning once at the halfway mark, until the internal temperature reads 70-72°C and the casings are mahogany-dark and beginning to wrinkle.
+1. Smoke 2-2 ½ hours, turning once at the halfway mark, until the internal temperature reads 70-72°C and the casings are mahogany-dark and beginning to wrinkle.
 1. The bark should be firm and burnished, the casing taut.
 
 ### Stage 4 - Rest and serve

@@ -34,8 +34,8 @@ Fenugreek-forward chicken methi curry with a rich base sauce and a tangy cream f
 - Stalks from a large bunch of coriander (cilantro)
 
 ### Spices and sauce
-- 1 tbsp mixed powder or curry powder
-- 1 tsp bassar curry masala or chilli powder
+- 1 tbsp mixed powder (or curry powder)
+- 1 tsp bassar curry masala (or chilli powder)
 - 75 ml (5 tbsp) plain passata (sieved or blended tomatoes)
 - 500 ml (2 cups) base curry sauce (see B.I.R Curry Base), heated
 

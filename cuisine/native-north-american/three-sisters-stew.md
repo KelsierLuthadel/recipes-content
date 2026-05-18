@@ -25,7 +25,7 @@ Diced onion and garlic sweat in sunflower oil. A whole butternut squash, peeled 
 - 1 (400 g) tin chopped tomatoes
 - 800 ml vegetable stock
 - 1 (400 g) tin pinto beans (drained and rinsed)
-- 1 (400 g) tin hominy (drained) - or substitute sweetcorn
+- 1 (400 g) tin hominy (drained, or substitute sweetcorn)
 - 1 tablespoon maple syrup
 - 1 ½ teaspoons salt (to taste)
 

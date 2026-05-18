@@ -41,7 +41,7 @@ Oxtail simmers slow with aromatics until the meat is falling-tender. The cooking
 
 ### To serve
 - Cooked white rice
-- Bagoong (Filipino fermented shrimp paste) - find at any Filipino or Asian shop
+- Bagoong (Filipino fermented shrimp paste, find at any Filipino or Asian shop)
 
 ## Method
 

@@ -18,7 +18,7 @@ Big bunches of fresh herbs (parsley, coriander, dill, chives) chop very fine. Be
 - 1 large bunch flat-leaf parsley (about 80 g)
 - 1 large bunch coriander (about 60 g)
 - 1 large bunch fresh dill (about 60 g)
-- 1 small bunch chives or spring onion tops (about 30 g)
+- 1 small bunch chives (or spring onion tops, about 30 g)
 - A handful fresh fenugreek leaves (shanbalileh) - OR 2 teaspoons dried fenugreek leaves (kasoori methi)
 
 ### Eggs
@@ -30,18 +30,18 @@ Big bunches of fresh herbs (parsley, coriander, dill, chives) chop very fine. Be
 - ½ teaspoon black pepper
 
 ### Optional add-ins
-- 40 g walnuts (chopped) - traditional in some households
-- 1 tablespoon zereshk (dried barberries, rinsed) - traditional in some
+- 40 g walnuts (chopped, traditional in some households)
+- 1 tablespoon zereshk (dried barberries, rinsed, traditional in some)
 - 1 large pinch saffron (soaked in 2 tablespoons hot water)
 
 ### For cooking
-- 4 tablespoons sunflower oil or 2 tablespoons oil + 2 tablespoons butter
+- 4 tablespoons sunflower oil (or 2 tablespoons oil + 2 tablespoons butter)
 
 ### To serve
 - Greek yogurt (or mast o musir)
 - Sliced tomato, cucumber
 - Fresh herbs and pickles
-- Sangak or other Persian bread
+- Sangak (or other Persian bread)
 
 ## Method
 

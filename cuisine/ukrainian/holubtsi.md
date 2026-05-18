@@ -39,7 +39,7 @@ A whole cabbage is cored and lowered into boiling water; the outer leaves soften
 - 3 garlic cloves (crushed)
 - 2 tablespoons tomato paste
 - 400 g tin chopped tomatoes
-- 600 ml beef or vegetable stock
+- 600 ml beef (or vegetable stock)
 - 200 g soured cream (at room temperature)
 - 1 bay leaf
 - 2 sprigs thyme

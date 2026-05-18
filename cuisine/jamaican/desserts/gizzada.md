@@ -53,7 +53,7 @@ A short, biscuity pastry shell, hand-rolled into discs and pinched around the ed
 2. Roll the chilled pastry on a floured surface to about 3 mm thick.
 3. Cut out 12 discs, about 10 cm across (use a saucer as a guide).
 4. Place each disc into the cup of a non-stick muffin tin (or onto a lined baking tray if shaping free-form).
-5. With your thumb and forefinger, pinch the edge upwards all the way around to form a fluted wall about 1.5 cm high; the centre should remain flat.
+5. With your thumb and forefinger, pinch the edge upwards all the way around to form a fluted wall about 1 ½ cm high; the centre should remain flat.
 6. Spoon a heaped tablespoon of the coconut filling into each shell, pressing down gently.
 
 ### Stage 4 - Bake

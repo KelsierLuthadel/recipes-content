@@ -15,7 +15,7 @@ Andouille sausage, the heavily smoked, garlicky, Cajun pork sausage, is cut into
 ## Ingredients
 
 ### Skewers
-- 600 g andouille sausage, cut into 1.5 cm thick coins
+- 600 g andouille sausage, cut into 1 ½ cm thick coins
 - 2 red peppers, deseeded and cut into 3 cm chunks
 - 1 green pepper, deseeded and cut into 3 cm chunks
 - 1 red onion (large), cut into 3 cm chunks (then separated into 2-layer pieces)
@@ -29,7 +29,7 @@ Andouille sausage, the heavily smoked, garlicky, Cajun pork sausage, is cut into
 - 1 ½ teaspoons Cajun seasoning
 - 1 teaspoon smoked paprika
 - 1 tablespoon olive oil
-- Juice of ½ lemon
+- ½ lemon (juice)
 - 1 tablespoon chopped flat-leaf parsley
 
 ### Equipment

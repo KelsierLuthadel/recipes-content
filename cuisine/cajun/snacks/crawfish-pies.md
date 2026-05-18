@@ -31,15 +31,16 @@ Pastry: a flaky shortcrust enriched with a little butter and lard (or all butter
 - ½ green pepper, deseeded and finely chopped
 - 2 garlic cloves, finely chopped
 - 1 tomato (small), deseeded and finely chopped
-- 200 ml seafood or chicken stock
+- 200 ml seafood (or chicken stock)
 - 1 ½ teaspoons Cajun seasoning
 - ½ teaspoon smoked paprika
 - 1 teaspoon hot sauce (Tabasco or Louisiana)
 - 1 teaspoon fresh thyme leaves
-- 250 g crawfish tail meat (cooked, peeled) - or peeled raw prawns, chopped
+- 250 g crawfish tail meat (cooked, peeled, or peeled raw prawns, chopped)
 - 3 spring onions, finely sliced
 - 2 tablespoons chopped flat-leaf parsley
-- Salt and black pepper
+- salt
+- pepper
 
 ### To finish
 - 1 egg, beaten with 1 tablespoon water (egg wash)

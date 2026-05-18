@@ -169,6 +169,138 @@ function applyDashAnnotationRule(body) {
   return { out: appendInParens(before, annotation), didChange: true };
 }
 
+// Find a '/' at paren-depth 0 (outside any parens). Skips slashes
+// flanked by digits on both sides ("50/50", "1/4", "2/3") since those
+// are numeric, not alternative-separators. Returns the index of the
+// slash, or -1 if not found.
+function depthZeroSlashIdx(body) {
+  let depth = 0;
+  for (let i = 0; i < body.length; i++) {
+    const ch = body[i];
+    if (ch === '(') depth++;
+    else if (ch === ')') depth--;
+    else if (depth === 0 && ch === '/') {
+      const prev = body[i - 1] || '';
+      const next = body[i + 1] || '';
+      if (/\d/.test(prev) && /\d/.test(next)) continue;
+      return i;
+    }
+  }
+  return -1;
+}
+
+// Wrap "X/Y" or "X / Y" alternative pairs in parens.
+//   "Coriander/cilantro"           -> "Coriander (or cilantro)"
+//   "Plain/all-purpose Flour"      -> "Plain (or all-purpose) Flour"
+//   "Black Caraway / Nigella Seeds"-> "Black Caraway (or Nigella Seeds)"
+// Glued slash (no spaces): the alt extends only to the next space, so
+// shared trailing nouns stay outside the parens. Spaced slash: the alt
+// extends to the next comma or open paren or end-of-line, like the
+// or-parens rule.
+function applySlashParensRule(body) {
+  const idx = depthZeroSlashIdx(body);
+  if (idx === -1) return { out: body, didChange: false };
+  if (body.slice(0, idx).includes('(')) return { out: body, didChange: false };
+  const beforeChar = body[idx - 1] || '';
+  const afterChar = body[idx + 1] || '';
+  const isGlued = beforeChar !== ' ' && afterChar !== ' ';
+  let before, altPhrase, trailing;
+  if (isGlued) {
+    const rest = body.slice(idx + 1);
+    const spaceIdx = rest.search(/[\s,(]/);
+    const altEnd = spaceIdx === -1 ? rest.length : spaceIdx;
+    before = body.slice(0, idx);
+    altPhrase = rest.slice(0, altEnd);
+    trailing = rest.slice(altEnd);
+  } else {
+    const rest = body.slice(idx + 1);
+    let endIdx = rest.length;
+    for (let i = 0; i < rest.length; i++) {
+      const ch = rest[i];
+      if (ch === '(' || ch === ',') { endIdx = i; break; }
+    }
+    before = body.slice(0, idx).trimEnd();
+    altPhrase = rest.slice(0, endIdx).trim();
+    trailing = rest.slice(endIdx);
+  }
+  if (!before || !altPhrase) return { out: body, didChange: false };
+  // If the trailing starts with a balanced paren group, merge the alt
+  // into that paren rather than producing two adjacent paren groups.
+  const trimmedTrailing = trailing.replace(/^\s+/, '');
+  if (trimmedTrailing.startsWith('(')) {
+    const parenEnd = trimmedTrailing.indexOf(')');
+    if (parenEnd !== -1) {
+      const inner = trimmedTrailing.slice(1, parenEnd);
+      const after = trimmedTrailing.slice(parenEnd + 1);
+      return {
+        out: `${before} (or ${altPhrase}, ${inner})${after}`,
+        didChange: true,
+      };
+    }
+  }
+  return { out: `${before} (or ${altPhrase})${trailing}`, didChange: true };
+}
+
+// Find ' or ' at paren-depth 0 (outside any parens). Returns the
+// index of the leading space, or -1 if not found.
+function depthZeroOrIdx(body) {
+  let depth = 0;
+  for (let i = 0; i < body.length - 3; i++) {
+    const ch = body[i];
+    if (ch === '(') depth++;
+    else if (ch === ')') depth--;
+    else if (depth === 0 && ch === ' ' &&
+             body[i+1] === 'o' && body[i+2] === 'r' && body[i+3] === ' ') {
+      return i;
+    }
+  }
+  return -1;
+}
+
+// Wrap "X or Y" alternatives in parens at depth 0:
+//   "500 ml beef or chicken stock" -> "500 ml beef (or chicken stock)"
+//   "200 g bok choy or napa cabbage" -> "200 g bok choy (or napa cabbage)"
+//   "500 ml beef or chicken stock (heated)" -> "500 ml beef (or chicken stock, heated)"
+// The alternative phrase extends from "or" up to the next comma or
+// open paren, or end-of-line.
+function applyOrParensRule(body) {
+  const orIdx = depthZeroOrIdx(body);
+  if (orIdx === -1) return { out: body, didChange: false };
+  // Skip list-pattern lines ("red, yellow, or orange peppers") - the
+  // ", or" prefix indicates a third item in an enumeration, not a
+  // single binary alternative.
+  if (orIdx >= 1 && body[orIdx - 1] === ',') return { out: body, didChange: false };
+  // Skip lines that already have parens before the "or" - those have
+  // mid-line annotations and wrapping a tail in more parens makes a
+  // mess. The user-listed cases never have a mid-line paren.
+  if (body.slice(0, orIdx).includes('(')) return { out: body, didChange: false };
+  // End of the alternative: next comma or open paren in the rest.
+  const rest = body.slice(orIdx);
+  let endIdx = rest.length;
+  for (let i = 0; i < rest.length; i++) {
+    const ch = rest[i];
+    if (ch === '(' || ch === ',') { endIdx = i; break; }
+  }
+  const before = body.slice(0, orIdx).trimEnd();
+  const altPhrase = rest.slice(0, endIdx).trim();
+  const trailing = rest.slice(endIdx);
+  if (!before || !altPhrase || altPhrase.length < 4) return { out: body, didChange: false };
+  // Merge with a following paren group if one immediately follows.
+  if (trailing.startsWith(' (') || trailing.startsWith('(')) {
+    const parenStart = trailing.indexOf('(');
+    const parenEnd = trailing.indexOf(')', parenStart);
+    if (parenEnd !== -1) {
+      const innerExisting = trailing.slice(parenStart + 1, parenEnd);
+      const afterParen = trailing.slice(parenEnd + 1);
+      return {
+        out: `${before} (${altPhrase}, ${innerExisting})${afterParen}`,
+        didChange: true,
+      };
+    }
+  }
+  return { out: `${before} (${altPhrase})${trailing}`, didChange: true };
+}
+
 // Rewrite "Zest ..." and "Zest and Juice of ..." lines into the
 // "<ingredient> (zest)" / "<ingredient> (juice and zest)" form. Also
 // folds "Half a"/"Half an" into the "½" symbol and lowercases the
@@ -198,6 +330,20 @@ function applyZestRule(body) {
   return { out: body, didChange: false };
 }
 
+// Rewrite "Juice of <ingredient>" -> "<ingredient> (juice)". Folds
+// "Half a/an" into "½" and lowercases the ingredient phrase to match
+// the rest of the site's ingredient styling.
+function applyJuiceRule(body) {
+  const m = body.match(/^Juice\s+of\s+(.+)$/i);
+  if (!m) return { out: body, didChange: false };
+  let rest = m[1].trim()
+    .replace(/^(half\s+an?)\s+/i, '½ ')
+    // Strip leftover article after "½" ("½ a lemon" -> "½ lemon").
+    .replace(/^(½|¼|¾|⅓|⅔|⅛|⅜|⅝|⅞)\s+an?\s+/i, '$1 ')
+    .toLowerCase();
+  return { out: appendInParens(rest, 'juice'), didChange: true };
+}
+
 // Process one ingredient bullet's content. Returns { out, didChange }.
 // Rules applied in order:
 //   1. Multiplier expansion (numeric, runs first so 2x100 -> 200 is
@@ -213,12 +359,18 @@ function processIngredientText(text) {
   if (multRes.didChange) { s = multRes.out; changed = true; }
   const zestRes = applyZestRule(s);
   if (zestRes.didChange) { s = zestRes.out; changed = true; }
+  const juiceRes = applyJuiceRule(s);
+  if (juiceRes.didChange) { s = juiceRes.out; changed = true; }
   const leadM = s.match(LEADING_WORD_RE);
   if (leadM) { s = leadM[1] + s.slice(leadM[0].length); changed = true; }
   const sizeRes = applySizeRule(s);
   if (sizeRes.didChange) { s = sizeRes.out; changed = true; }
   const dashRes = applyDashAnnotationRule(s);
   if (dashRes.didChange) { s = dashRes.out; changed = true; }
+  const orRes = applyOrParensRule(s);
+  if (orRes.didChange) { s = orRes.out; changed = true; }
+  const slashRes = applySlashParensRule(s);
+  if (slashRes.didChange) { s = slashRes.out; changed = true; }
   return { out: s, didChange: changed };
 }
 
@@ -227,6 +379,12 @@ function processIngredientText(text) {
 // `### Equipment`/`### Tools`/`### Kit`/`### Gear` sub-sections are
 // left untouched, matching the build script's skip behaviour.
 const EQUIPMENT_SUBSECTION_RE = /^###\s+(equipment|tools|kit|gear)\b/i;
+
+// "Salt and pepper" lines get split into two bullets ("- salt" and
+// "- pepper"), with any trailing "to taste" / "(to taste)" stripped.
+// Handles common modifier variants ("freshly ground black pepper",
+// "cracked pepper", "white pepper").
+const SALT_PEPPER_RE = /^salt(?:\s+and\s+|\s*&\s*)(?:fresh(?:ly)?\s+)?(?:cracked\s+|ground\s+|crushed\s+|coarsely\s+ground\s+|freshly\s+ground\s+)?(?:black\s+|white\s+)?pepper(?:\s*,?\s*\(?\s*to\s+taste\s*\)?)?\s*$/i;
 
 function rewriteFile(content) {
   const lines = content.split(/\r?\n/);
@@ -246,6 +404,17 @@ function rewriteFile(content) {
     if (!m) continue;
     const prefix = m[1];
     const body = m[2];
+
+    // Salt+pepper split runs first - it produces TWO bullets, replacing
+    // the original. Skip any further per-rule processing on these.
+    if (SALT_PEPPER_RE.test(body.trim())) {
+      lines[i] = prefix + 'salt';
+      lines.splice(i + 1, 0, prefix + 'pepper');
+      events.push({ line: i + 1, original: body, out: 'salt\n' + prefix + 'pepper' });
+      i++;  // Skip the inserted line; it's already final.
+      continue;
+    }
+
     const res = processIngredientText(body);
     if (!res.didChange) continue;
     lines[i] = prefix + res.out;

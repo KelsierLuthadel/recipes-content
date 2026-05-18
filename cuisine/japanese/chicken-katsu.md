@@ -19,7 +19,8 @@ Chicken breasts are flattened, dredged in flour, egg and panko, then shallow-fri
 - 4 tablespoons plain flour
 - 2 eggs (beaten)
 - 150 g panko breadcrumbs
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - 4 tablespoons vegetable oil for shallow-frying
 
 ### Katsu sauce

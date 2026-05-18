@@ -14,7 +14,7 @@ Pumpkin (or butternut) cubes boil, drain, mash. The warm purée mixes with flour
 
 ## Ingredients
 
-- 500 g pumpkin or butternut squash (peeled, cut into 3 cm chunks)
+- 500 g pumpkin (or butternut squash, peeled, cut into 3 cm chunks)
 - 1 teaspoon salt (for boil)
 - 450 g plain flour
 - 2 teaspoons baking powder

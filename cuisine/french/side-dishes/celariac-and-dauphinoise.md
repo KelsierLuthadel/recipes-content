@@ -16,7 +16,8 @@ Celeriac and potato dauphinoise is a rich, creamy French gratin that pairs the e
 - 50 grams butter
 - 600 ml double cream
 - 1 garlic clove (crushed)
-- salt and freshly ground black pepper
+- salt
+- pepper
 - 450 grams potatoes (thinly sliced)
 - 1 celeriac (large, peeled and thinly sliced)
 

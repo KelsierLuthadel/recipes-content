@@ -22,9 +22,9 @@ Coriander and parsley leaves blitz briefly in a food processor with garlic, cumi
 - 1 large pinch saffron threads (soaked in 1 tablespoon hot water)
 - ¼ teaspoon cayenne pepper (optional)
 - 1 ½ teaspoons salt
-- Juice of 1 lemon (about 3 tablespoons)
+- 1 lemon (about 3 tablespoons, juice)
 - 120 ml extra-virgin olive oil
-- 1 preserved lemon (small, rinsed; pulp discarded; skin diced) - optional
+- 1 preserved lemon (small, rinsed; pulp discarded; skin diced, optional)
 
 ## Method
 

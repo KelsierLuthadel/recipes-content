@@ -15,12 +15,12 @@ Two things define the dish: ferocious black pepper and dried chilli (the "diavol
 ## Ingredients
 
 ### Chicken
-- 1 whole chicken, 1.5-1.8 kg (free-range or organic if you can - the flavour matters here)
+- 1 whole chicken, 1 ½-1.8 kg (free-range or organic if you can - the flavour matters here)
 
 ### Marinade
 - 6 tablespoons extra-virgin olive oil
 - 2 lemons (zest)
-- Juice of 1 lemon (save the second for serving)
+- 1 lemon (save the second for serving, juice)
 - 6 garlic cloves (smashed flat with the side of a knife)
 - 2 tablespoons whole black peppercorns (cracked coarsely in a mortar - not ground to dust)
 - 2 tablespoons dried chilli flakes (peperoncino; Calabrian if you can find it, otherwise standard crushed red pepper)
@@ -33,7 +33,7 @@ Two things define the dish: ferocious black pepper and dried chilli (the "diavol
 - 1 lemon, halved (for grilling/charring alongside)
 - Extra peperoncino, for the table
 - Maldon salt for finishing
-- Crusty Italian bread or grilled ciabatta
+- Crusty Italian bread (or grilled ciabatta)
 - A green salad dressed with olive oil and lemon
 
 ### Equipment

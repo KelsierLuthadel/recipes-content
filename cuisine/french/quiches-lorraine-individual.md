@@ -19,12 +19,13 @@ Classic French quiches featuring a silky, custardy filling enriched with cream a
 
 ### Filling
 - 140 g lardons
-- 140 g Gruyère or Comté (freshly grated)
+- 140 g Gruyère (or Comté, freshly grated)
 - 1 egg
 - 3 egg yolks
 - 300 ml double cream
 - Pinch freshly grated nutmeg
-- Salt and freshly ground pepper
+- salt
+- pepper
 
 ## Method
 ### Making the flan cases

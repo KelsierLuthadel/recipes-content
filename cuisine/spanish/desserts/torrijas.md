@@ -31,8 +31,13 @@ Milk warms with sugar, cinnamon stick and lemon zest; cools. Stale country bread
 - 200 ml olive oil (mild - not extra-virgin)
 
 ### To finish (choose one)
-- **Honey version:** 200 g clear honey + 50 ml water, warmed
-- **Cinnamon-sugar version:** 100 g caster sugar + 2 teaspoons ground cinnamon, mixed
+#### Honey version
+- 200 g clear honey 
+- 50 ml water (warm)
+
+#### Cinnamon-sugar version
+- 100 g caster sugar 
+- 2 teaspoons ground cinnamon
 
 ## Method
 

@@ -32,7 +32,7 @@ Whole-wheat (atta) flour is mixed with salt and just enough warm water to make a
 - 3 tablespoons fresh coriander (chopped fine)
 
 ### For cooking
-- 100 g ghee or unsalted butter (melted)
+- 100 g ghee (or unsalted butter, melted)
 
 ### To serve
 - Thick plain yogurt

@@ -33,7 +33,7 @@ A simple wheat-flour-and-water dough rests for 30 minutes. The filling: onion fr
 
 ### Yogurt sauce
 - 800 g full-fat plain yogurt
-- 1 egg white (lightly whisked) - OR 1 tablespoon cornstarch mixed with 2 tablespoons cold water
+- 1 egg white (lightly whisked, OR 1 tablespoon cornstarch mixed with 2 tablespoons cold water)
 - 200 ml warm water (more if too thick)
 - 1 ½ teaspoons salt (to taste)
 - ½ teaspoon white pepper

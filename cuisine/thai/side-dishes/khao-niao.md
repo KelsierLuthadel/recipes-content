@@ -14,7 +14,7 @@ Sticky rice must be the right variety: Thai glutinous rice (also called sweet ri
 
 ## Ingredients
 
-- 400 g Thai glutinous / sticky rice (sold as "Thai sweet rice", "sticky rice" or labeled "ข้าวเหนียว" at Asian shops)
+- 400 g Thai glutinous (or sticky rice, sold as "Thai sweet rice", "sticky rice" or labeled "ข้าวเหนียว" at Asian shops)
 - Cold water (enough to cover by 5 cm for soaking)
 - Boiling water (in the steamer base)
 

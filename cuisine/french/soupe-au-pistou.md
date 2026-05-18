@@ -28,7 +28,8 @@ A vegetable soup of cannellini beans, kidney beans, courgette, green beans, toma
 - 200 g green beans (cut in 3 cm)
 - 2 courgettes (medium, diced)
 - 100 g small pasta (ditalini or small shells)
-- Salt and black pepper
+- salt
+- pepper
 
 ### Pistou
 - 1 large bunch basil (around 80 g; leaves only)

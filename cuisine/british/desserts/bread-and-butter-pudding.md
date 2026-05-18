@@ -17,7 +17,7 @@ Slices of buttered bread layer in a baking dish with raisins and lemon zest. A c
 ### Pudding
 - 8 slices day-old white bread (slightly stale; about 250 g)
 - 75 g unsalted butter (softened)
-- 75 g raisins or sultanas
+- 75 g raisins (or sultanas)
 - 50 g mixed peel (optional)
 - 1 lemon (zest)
 

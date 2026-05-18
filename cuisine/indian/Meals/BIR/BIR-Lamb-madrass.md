@@ -37,7 +37,7 @@ A classic British curry-house madras with a sweet-and-sour profile, featuring te
 
 ### Finishers
 - 1-2 tbsp smooth mango chutney, to taste
-- Juice of 1 lime
+- 1 lime (juice)
 - Salt, to taste
 - Pinch of garam masala
 - Coriander (cilantro), to garnish

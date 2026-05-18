@@ -18,7 +18,7 @@ Huevos rancheros is a classic Mexican breakfast dish featuring eggs poached in a
 - 1 onion (large, peeled and finely sliced)
 - 2 garlic cloves (peeled and finely sliced)
 - 2 red peppers (deseeded and finely sliced)
-- 2 fresh red or orange chillies (finely sliced)
+- 2 fresh red (or orange chillies, finely sliced)
 - 1 dried chilli (large)
 - 3 fresh bay leaves
 - 2 ripe tomatoes (large, sliced)

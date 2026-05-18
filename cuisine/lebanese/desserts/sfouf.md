@@ -22,7 +22,7 @@ Dry ingredients (semolina, flour, sugar, turmeric, baking powder, anise/fennel o
 - 1 teaspoon ground anise (optional, traditional)
 - ½ teaspoon ground mahleb (optional, traditional)
 - ½ teaspoon salt
-- 120 g unsalted butter (melted) - or 120 ml olive oil for the Lenten vegan version
+- 120 g unsalted butter (melted, or 120 ml olive oil for the Lenten vegan version)
 - 250 ml whole milk (or plant milk for vegan)
 - 1 teaspoon vanilla extract (optional)
 

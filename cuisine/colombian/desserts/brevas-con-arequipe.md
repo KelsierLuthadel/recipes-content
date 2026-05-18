@@ -16,7 +16,7 @@ Whole brown figs simmer slowly in a syrup of brown sugar, water, cinnamon and cl
 
 ### Figs
 - 12 fresh brown figs (firm-ripe; the slightly under-ripe ones hold up best)
-- 250 g panela or dark brown sugar
+- 250 g panela (or dark brown sugar)
 - 500 ml water
 - 1 cinnamon stick
 - 4 cloves
@@ -27,7 +27,7 @@ Whole brown figs simmer slowly in a syrup of brown sugar, water, cinnamon and cl
 - 250 g arequipe (Colombian dulce de leche; or Argentine/Mexican dulce de leche)
 
 ### To serve
-- 200 g queso fresco or mild feta (cubed; optional but classic)
+- 200 g queso fresco (or mild feta, cubed; optional but classic)
 - A few pistachios (chopped, optional)
 
 ## Method

@@ -40,14 +40,14 @@ This vibrant Mexican seafood soup features halibut, prawns, scallops, and clams 
 - 200 ml fish stock
 - 1 teaspoon caster sugar
 - 2 tablespoons coriander leaves (chopped)
-- juice of 2 limes
+- 2 limes (juice)
 - 125 grams double cream
 
 ### Salsa
-- half an avocado
+- ½ avocado
 - 1 tablespoon coriander leaves (finely chopped)
 - grated zest and juice of 1 lime
-- half an red onion (finely chopped)
+- ½ red onion (finely chopped)
 
 ## Method
 

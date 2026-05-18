@@ -38,7 +38,7 @@ Catfish (or any firm white fish) cooks first in spiced water; the cooked flesh s
 - 4 tablespoons fish sauce
 - 1 teaspoon brown sugar
 - 1 teaspoon salt (or to taste)
-- Juice of 1 lime
+- 1 lime (juice)
 
 ### Noodles + garnishes
 - 500 g dried thin rice vermicelli (or fresh round rice noodles)
@@ -84,7 +84,7 @@ Catfish (or any firm white fish) cooks first in spiced water; the cooked flesh s
 
 ### Stage 7 - Serve
 1. Ladle the hot broth (with the fish chunks and banana stem) over the noodles.
-1. Top each bowl with half a hard-boiled egg, a heap of crispy split peas, coriander, spring onions, sliced chilli and fried onions.
+1. Top each bowl with ½ hard-boiled egg, a heap of crispy split peas, coriander, spring onions, sliced chilli and fried onions.
 1. Pass lime wedges and extra fish sauce at the table.
 
 ## Notes

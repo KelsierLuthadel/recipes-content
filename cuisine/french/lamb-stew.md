@@ -29,7 +29,7 @@ Navarin d'agneau is a classic French spring stew, combining three different cuts
 ### Root Vegetables & Garnish
 - 1.2 kilogram small, firm-fleshed potatoes (charlottes)
 - 15 grams butter
-- 250 grams small new pearl or cippoline onions (peeled)
+- 250 grams small new pearl (or cippoline onions, peeled)
 - 1 teaspoon caster sugar
 - Fine salt
 - 2 tablespoons flat-leaf parsley (finely chopped)

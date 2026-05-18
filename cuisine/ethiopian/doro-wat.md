@@ -35,7 +35,7 @@ Onions cook down for nearly an hour into a deep dark base, this is the foundatio
 - 100 ml dry red wine (optional)
 - 500 ml chicken stock
 - 1 kg chicken thighs and drumsticks (skinned)
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 6 hard-boiled eggs (peeled, scored shallow lengthwise)
 - Salt
 

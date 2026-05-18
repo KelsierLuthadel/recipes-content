@@ -26,14 +26,14 @@ Rice flour, glutinous rice flour, sugar, baking powder and salt are sifted toget
 - 1 teaspoon vanilla extract
 
 ### Topping (per bibingka)
-- 1 salted duck egg (sliced 5 mm thick) - or substitute 1 salted hen egg
-- 50 g kesong puti / salty white cheese (or substitute mild feta or queso fresco)
+- 1 salted duck egg (sliced 5 mm thick, or substitute 1 salted hen egg)
+- 50 g kesong puti (or salty white cheese, or substitute mild feta or queso fresco)
 - 30 g unsalted butter (extra, for brushing)
 - 2 tablespoons caster sugar (for sprinkling)
 - 80 g fresh grated coconut (or rehydrated desiccated)
 
 ### Lining
-- Banana leaf (cut to fit the tin or ramekins) - pass over a gas flame briefly to soften
+- Banana leaf (cut to fit the tin or ramekins, pass over a gas flame briefly to soften)
 - Butter (for brushing the leaf)
 
 ## Method

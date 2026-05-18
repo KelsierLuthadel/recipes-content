@@ -44,7 +44,7 @@ Yellow-corn masarepa hydrates with water, salt and a pinch of paprika for colour
 - 4 spring onions (finely chopped)
 - 1 small bunch coriander (chopped)
 - 1-2 red chillies (finely chopped)
-- Juice of 1 lime
+- 1 lime (juice)
 - 3 tablespoons white vinegar
 - ¼ teaspoon salt
 

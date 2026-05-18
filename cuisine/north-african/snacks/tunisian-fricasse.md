@@ -30,7 +30,7 @@ A simple yeasted dough rises for 1 hour. Divides into 8 oval-shaped pieces about
 - 1 ½ teaspoons harissa (or to taste)
 - ½ hard-boiled egg (sliced)
 - 4-5 capers (drained, rinsed)
-- 4 small green or black olives (pitted, halved)
+- 4 green (small, or black olives, pitted, halved)
 - 1 thin slice preserved lemon peel (or substitute: zest of fresh lemon + pinch of salt)
 - 1 teaspoon chopped parsley
 

@@ -36,7 +36,7 @@ Thin pastry triangles wrap a lightly spiced potato-and-pea filling. The pastry u
 - 1 teaspoon salt (or to taste)
 - 2 tablespoons roasted peanuts (roughly crushed)
 - 2 tablespoons coriander leaves (chopped)
-- Juice of ½ lime
+- ½ lime (juice)
 
 ### For frying
 - 750 ml neutral oil

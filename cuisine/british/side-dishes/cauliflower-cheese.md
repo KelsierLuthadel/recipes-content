@@ -25,10 +25,11 @@ Cauliflower florets blanch briefly so they're not raw but not cooked through. A 
 - 50 g parmesan (grated)
 - 2 teaspoons English mustard (or Dijon)
 - A grating of nutmeg
-- Salt and freshly ground white pepper
+- salt
+- pepper
 
 ### Topping
-- 50 g panko or coarse breadcrumbs
+- 50 g panko (or coarse breadcrumbs)
 - 50 g cheddar (grated)
 - 30 g unsalted butter (melted)
 - A few sprigs of fresh thyme

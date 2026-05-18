@@ -27,7 +27,8 @@ Each vegetable browns in olive oil in batches so it keeps its texture; they meet
 - 2 sprigs fresh rosemary
 - 1 bay leaf
 - A handful of fresh basil (torn, to finish)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ## Method
 

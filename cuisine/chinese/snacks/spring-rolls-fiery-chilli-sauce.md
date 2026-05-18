@@ -21,14 +21,15 @@ Delicate spring rolls filled with silky cellophane noodles, tender wood ears, sa
 - 250 grams spring roll wrappers
 - flour and water paste (to seal spring rolls)
 - vegetable oil (for frying)
-- salt and freshly ground black pepper
+- salt
+- pepper
 
 ### For the sauce
 - 2 fresh red chillies (de-seeded)
 - 2 garlic  cloves (chopped)
 - 1 tablespoon granulated sugar
 - 3 tablespoons Thai fish sauce
-- juice of 1 lime (or half a lemon)
+- 1 lime (or ½ lemon, juice)
 
 ## Method
 

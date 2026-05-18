@@ -16,14 +16,14 @@ This is a smart, simple twist on a familiar pan sauce. The scampi method is inta
 
 ### Shrimp
 - 450 g large shrimp, peeled and deveined
-- Creole or Cajun seasoning, to taste
+- Creole (or Cajun seasoning), to taste
 - 30 ml olive oil (for marinating)
 
 ### Sauce
 - 30 ml olive oil (for the pan)
 - 85 g unsalted butter
 - 1 shallot (small), finely chopped
-- 8 garlic cloves, minced or pressed
+- 8 garlic cloves, minced (or pressed)
 - 1 g red pepper flakes (optional)
 - 120 ml dry white wine (sauvignon blanc, chardonnay or pinot blanc)
 - 30 ml fresh lemon juice

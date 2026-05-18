@@ -14,7 +14,7 @@ Bone-in goat (or chicken or catfish, fish takes much less time) simmers in light
 
 ## Ingredients
 
-- 1 kg goat meat (bone-in, cut into 4 cm chunks) - or 1 whole chicken, jointed
+- 1 kg goat meat (bone-in, cut into 4 cm chunks, or 1 whole chicken, jointed)
 - 1 onion (large, chopped)
 - 6 garlic cloves (crushed)
 - 1 large thumb fresh ginger (grated)

@@ -37,7 +37,7 @@ Spicy, thin jungle curry from Chiang Mai, traditionally made with jungle ingredi
 ### Seasoning
 - 2-3 tbsp Thai fish sauce
 - 6 lime leaves, stalks removed and leaves thinly sliced
-- Juice of ½ lime
+- ½ lime (juice)
 - 1 tsp palm sugar (optional)
 
 ### Garnish

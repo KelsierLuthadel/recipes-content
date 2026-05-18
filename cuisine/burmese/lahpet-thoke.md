@@ -28,7 +28,7 @@ Pre-pickled tea leaves (sold at SE Asian grocers; rinse to mellow if very sour) 
 
 ### Dressing
 - 3 tablespoons fish sauce
-- Juice of 1 lime
+- 1 lime (juice)
 - 1 teaspoon sesame oil
 - 1 teaspoon brown sugar
 

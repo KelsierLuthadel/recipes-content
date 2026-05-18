@@ -20,12 +20,12 @@ The combination of hot and sour is a signature of western Chinese cuisine. This 
 
 ### Hot and Sour Sauce
 - 70 ml Chinese chicken stock
-- 1 tablespoon dry sherry or rice wine
+- 1 tablespoon dry sherry (or rice wine)
 - 1 tablespoon dark soy sauce
 - 2 teaspoons tomato purée
-- ½ teaspoon chilli bean sauce or chilli powder
+- ½ teaspoon chilli bean sauce (or chilli powder)
 - ½ teaspoon white pepper
-- 1 tablespoon cider vinegar or black rice vinegar
+- 1 tablespoon cider vinegar (or black rice vinegar)
 - 1 teaspoon sugar
 
 ### Garnish

@@ -18,7 +18,7 @@ Fine bulgur (#1 grade) soaks in hot water until soft and fluffy. Lamb or beef mi
 ### Aroog
 - 200 g fine bulgur (#1 grade; not coarse)
 - 250 ml just-boiled water
-- 400 g lamb or beef mince (15-20% fat; leaner gives dry aroog)
+- 400 g lamb (or beef mince, 15-20% fat; leaner gives dry aroog)
 - 1 onion (large, grated, with juice)
 - 4 garlic cloves (finely chopped)
 - 1 small handful flat-leaf parsley (chopped fine, about 25 g)
@@ -35,12 +35,12 @@ Fine bulgur (#1 grade) soaks in hot water until soft and fluffy. Lamb or beef mi
 - 1 tablespoon plain flour (if the mix is loose)
 
 ### To pan-fry
-- 4-5 tablespoons vegetable or sunflower oil
+- 4-5 tablespoons vegetable (or sunflower oil)
 
 ### To serve
 - Lemon wedges
 - Thick yoghurt
-- Pickled turnips or amba
+- Pickled turnips (or amba)
 
 ## Method
 
