@@ -24,7 +24,10 @@ Chicken breasts are flattened, dredged in flour, egg and panko, then shallow-fri
 
 ### Katsu sauce
 - 4 tablespoons tonkatsu sauce, OR
-- 4 tablespoons Worcestershire sauce + 4 tablespoons ketchup + 2 teaspoons soy sauce + 2 teaspoons sugar
+- 4 tablespoons Worcestershire sauce
+- 4 tablespoons ketchup 
+- 2 teaspoons soy sauce 
+- 2 teaspoons sugar
 
 ### To serve
 - 300 g cooked Japanese short-grain rice

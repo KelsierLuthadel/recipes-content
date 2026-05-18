@@ -25,7 +25,7 @@ This Tex-Mex-inspired beef enchilada recipe is richly seasoned, easy to make, an
 - 1 tablespoon oil
 
 ### Tortillas & Cheese
-- 8 large flour tortillas
+- 8 flour tortillas (large)
 - 339g shredded cheese (Mexican-blend)
 
 ### Sauce & Garnish

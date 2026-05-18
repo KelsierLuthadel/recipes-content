@@ -13,7 +13,7 @@ Chilli con carne is a hearty, flavour-packed stew that celebrates bold Mexican s
 ## Ingredients
 
 ### Aromatics & Vegetables
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 2 garlic cloves (minced)
 - 1 celery stick (grated)
 - 1 carrot (grated)
@@ -38,7 +38,7 @@ Chilli con carne is a hearty, flavour-packed stew that celebrates bold Mexican s
 - 2 teaspoons soy sauce
 - 1 tablespoon balsamic vinegar
 - 2 tablespoons tomato paste
-- 2 × 500ml bottles passata (Napolina preferred)
+- 1000ml bottles passata (Napolina preferred)
 
 ## Method
 

@@ -16,9 +16,9 @@ Green papaya is peeled, seeded and shredded on a coarse grater. Carrot, ginger, 
 
 ### Vegetables
 - 500 g green (unripe) papaya
-- 1 medium carrot
+- 1 carrot (medium)
 - 1 red bell pepper
-- 1 small red onion
+- 1 red onion (small)
 - 4 garlic cloves
 - 30 g fresh ginger (peeled)
 - 30 g raisins (optional but traditional)
@@ -30,7 +30,7 @@ Green papaya is peeled, seeded and shredded on a coarse grater. Carrot, ginger, 
 - 350 ml white cane vinegar (or distilled white vinegar)
 - 200 g caster sugar (or muscovado for darker colour)
 - 1 teaspoon whole black peppercorns
-- 2 small dried red chillies (optional, for heat)
+- 2 dried red chillies (small, optional, for heat)
 - 1 teaspoon salt
 
 ## Method

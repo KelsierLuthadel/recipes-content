@@ -15,7 +15,7 @@ Cucumber is chopped, salted and rested briefly to draw out some of its water (th
 ## Ingredients
 
 ### Salad
-- 2 large cucumbers (about 600 g; peeled if waxy, deseeded if seedy, cut into 5 mm dice)
+- 2 cucumbers (large, about 600 g; peeled if waxy, deseeded if seedy, cut into 5 mm dice)
 - 1 teaspoon salt (for draining)
 - 60 g fresh grated coconut (or 50 g desiccated, rehydrated in 2 tablespoons of warm water)
 - 1 green chilli (finely chopped, deseeded if you prefer milder)

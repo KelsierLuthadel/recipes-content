@@ -14,8 +14,8 @@ Aubergines are charred whole over flame until completely soft and the skin black
 
 ## Ingredients
 
-- 2 medium aubergines (around 250 g each, with stems if possible)
-- 4 large eggs
+- 2 aubergines (medium, around 250 g each, with stems if possible)
+- 4 eggs (large)
 - ½ teaspoon salt
 - Black pepper
 - 3 tablespoons vegetable oil

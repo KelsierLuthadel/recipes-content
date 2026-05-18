@@ -22,7 +22,7 @@ Sugar caramelises in a small heavy pan until amber; tilts to coat the bottom of 
 - 600 ml whole milk
 - 1 strip lemon peel (yellow zest only)
 - 1 vanilla pod (split, seeds scraped) - or 1 teaspoon vanilla extract
-- 4 large eggs
+- 4 eggs (large)
 - 2 egg yolks (extra)
 - 100 g caster sugar
 

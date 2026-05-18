@@ -20,10 +20,10 @@ A rich yeasted dough, flour, yeast, sugar, salt, butter, eggs, milk and a splash
 - 60 g caster sugar
 - 1 teaspoon salt
 - 60 g unsalted butter (melted)
-- 2 large eggs (beaten)
+- 2 eggs (large, beaten)
 - 220 ml warm whole milk
 - 1 teaspoon vanilla extract
-- Zest of 1 lemon (optional)
+- 1 lemon (optional, zest)
 
 ### Frying
 - 1 ½ litres vegetable oil

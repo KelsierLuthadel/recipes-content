@@ -16,7 +16,7 @@ Bone-in chicken or beef simmers in stock 45-60 minutes with cardamom, bay and an
 
 - 4 bone-in chicken thighs and drumsticks (or 500 g beef shin in chunks)
 - 1.4 litres water or stock
-- 1 small onion (halved)
+- 1 onion (small, halved)
 - 4 cardamom pods (bruised)
 - 2 bay leaves
 - 1 cinnamon stick
@@ -28,7 +28,7 @@ Bone-in chicken or beef simmers in stock 45-60 minutes with cardamom, bay and an
 - 4 tablespoons unsalted butter or ghee
 - 8 garlic cloves (very finely chopped)
 - 2 tablespoons ground coriander
-- 1 teaspoon Aleppo pepper or chilli flakes
+- 1 teaspoon chilli flakes
 - 1 teaspoon dried mint (optional)
 
 ### To serve

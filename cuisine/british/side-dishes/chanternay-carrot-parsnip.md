@@ -16,7 +16,7 @@ Chanternay carrots and parsnips with maple syrup and mustard glaze is a sweet, s
 - 2 tablespoons olive oil
 - 3 tablespoons maple syrup
 - 1 tablespoon whole grain mustard
-- zest and juice of half an orange
+- ½ orange (juice and zest)
 
 ## Method
 1. Preheat the oven to 200°c

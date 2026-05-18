@@ -14,9 +14,9 @@ Börek are Turkish pastry packages filled with various ingredients: meat, cheese
 ## Ingredients
 
 ### Khandrajo Filling
-- 1 large onion (approximately 200 grams, finely chopped)
+- 1 onion (large, approximately 200 grams, finely chopped)
 - 30 milliliters groundnut oil
-- 2 large eggplants (approximately 800 grams total, cut into 3cm cubes)
+- 2 eggplants (large, approximately 800 grams total, cut into 3cm cubes)
 - Fine sea salt and freshly ground black pepper to taste
 - 400 grams tinned tomatoes (chopped, or fresh tomatoes puréed)
 

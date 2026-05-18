@@ -22,8 +22,8 @@ Rice cooks, dresses with sesame oil and salt while still warm. Fillings prep sep
 - 1 teaspoon sesame seeds (optional, mixed in)
 
 ### Fillings (per 4 rolls - adjust to taste)
-- 4 large eggs
-- 1 medium carrot (julienne 3 mm × 3 mm × 15 cm)
+- 4 eggs (large)
+- 1 carrot (medium, julienne 3 mm × 3 mm × 15 cm)
 - 200 g spinach (or pre-trimmed baby spinach)
 - 4 strips pickled yellow radish (danmuji), 15 cm long
 - 4 strips ham (or 200 g beef bulgogi cooked, or 1 tin tuna mixed with mayo)

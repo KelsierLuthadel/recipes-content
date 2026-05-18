@@ -23,8 +23,8 @@ A stretchy oil-rich dough rests for 1 hour to develop pliability; key to mutabba
 
 ### Filling
 - 2 tablespoons sunflower oil
-- 1 large onion (finely diced)
-- 1 small leek (white and pale green, finely chopped) OR 4 spring onions
+- 1 onion (large, finely diced)
+- 1 leek (small, white and pale green, finely chopped) OR 4 spring onions
 - 4 garlic cloves (crushed)
 - 400 g ground beef or lamb
 - 1 ½ teaspoons baharat
@@ -34,7 +34,7 @@ A stretchy oil-rich dough rests for 1 hour to develop pliability; key to mutabba
 - ½ teaspoon black pepper
 
 ### To assemble
-- 4 large eggs (beaten lightly)
+- 4 eggs (large, beaten lightly)
 - 4 tablespoons fresh parsley (chopped)
 - 4 tablespoons fresh coriander (chopped)
 - 1 green chilli (finely chopped, optional)

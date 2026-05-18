@@ -21,18 +21,18 @@ The sauce (the technical heart of the dish) reduces palm sugar, fish sauce, tama
 - 3 tablespoons fish sauce
 - 2 tablespoons tamarind paste
 - 3 cm fresh ginger (grated)
-- 2 small shallots (very finely chopped)
-- 1 small red chilli (chopped, optional)
+- 2 shallots (small, very finely chopped)
+- 1 red chilli (small, chopped, optional)
 
 ### Fillings (arrayed in small piles)
 - 1 lime (whole - diced into tiny 3 mm cubes, skin and all)
 - 3 cm fresh ginger (finely diced)
-- 1 medium shallot (finely diced)
+- 1 shallot (medium, finely diced)
 - 80 g unsalted roasted peanuts (lightly crushed)
 - 40 g dried shrimp (rinsed; can be left whole or coarsely chopped)
 - 80 g shredded coconut (toasted in a dry pan 4 minutes until golden)
-- 2-3 small Thai bird's-eye chillies (sliced thin)
-- A handful of young betel leaves (cha plu - sold at Thai/Vietnamese shops) OR substitute Cos lettuce hearts, sturdy spinach leaves, or perilla leaves
+- 2-3 Thai bird's-eye chillies (small, sliced thin)
+- A handful of young betel leaves
 
 ## Method
 

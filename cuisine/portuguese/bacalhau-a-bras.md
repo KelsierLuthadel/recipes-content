@@ -18,9 +18,9 @@ Salt cod desalts in cold water (changed several times) for 24-48 hours, then poa
 - 600 g potatoes (cut into matchsticks, 4-5 mm thick - palha cut)
 - Vegetable oil (for deep-frying - about 800 ml)
 - 5 tablespoons olive oil
-- 3 large onions (sliced thin)
+- 3 onions (large, sliced thin)
 - 6 garlic cloves (crushed)
-- 6 large eggs (lightly beaten)
+- 6 eggs (large, lightly beaten)
 - 1 teaspoon salt (or to taste)
 - ½ teaspoon black pepper
 - A small bunch flat-leaf parsley (chopped)

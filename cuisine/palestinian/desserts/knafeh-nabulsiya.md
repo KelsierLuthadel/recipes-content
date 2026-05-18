@@ -20,7 +20,8 @@ Kataifi pastry shreds are blitzed to a coarse rubble; mixed with melted ghee and
 - ¼ teaspoon orange food colouring paste (or 1 teaspoon liquid)
 
 ### Cheese
-- 800 g akkawi cheese (rinsed) or low-salt halloumi (rinsed and grated) or a mix of mozzarella and ricotta
+- 300 g mix of mozzarella 
+- 200 g ricotta
 
 ### Syrup
 - 400 g caster sugar

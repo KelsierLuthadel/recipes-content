@@ -16,7 +16,7 @@ Ground beef browns in a wide oven-safe skillet with onion and garlic. Spices (ch
 
 ### Beef base
 - 2 tablespoons neutral oil
-- 1 large onion (finely diced)
+- 1 onion (large, finely diced)
 - 4 garlic cloves (minced)
 - 500 g lean ground beef (15% fat)
 - 2 tablespoons chilli powder

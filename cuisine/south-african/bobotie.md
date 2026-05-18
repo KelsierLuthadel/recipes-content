@@ -17,7 +17,7 @@ Bread is soaked in milk; mince is browned with onions; curry powder, turmeric an
 ### Mince mixture
 - 1 kg minced beef (or lamb; 15-20% fat)
 - 3 tablespoons vegetable oil
-- 2 large onions (finely chopped)
+- 2 onions (large, finely chopped)
 - 6 garlic cloves (crushed)
 - 4 cm ginger (grated)
 - 2 tablespoons mild curry powder
@@ -42,7 +42,7 @@ Bread is soaked in milk; mince is browned with onions; curry powder, turmeric an
 - 200 ml whole milk
 
 ### Topping
-- 3 large eggs
+- 3 eggs (large)
 - 250 ml whole milk
 - ½ teaspoon salt
 - A grating of nutmeg

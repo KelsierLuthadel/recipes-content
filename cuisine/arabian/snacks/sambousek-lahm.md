@@ -20,13 +20,13 @@ A soft butter-and-yogurt dough rolls thin, stamps into 9 cm rounds, gets a teasp
 - 1 teaspoon caster sugar
 - 100 g unsalted butter (softened)
 - 3 tablespoons natural yogurt
-- 1 large egg
+- 1 egg (large)
 - 150 ml warm water
 
 ### Filling
 - 400 g lamb mince
 - 2 tablespoons olive oil
-- 1 medium onion (very finely chopped)
+- 1 onion (medium, very finely chopped)
 - 3 garlic cloves (crushed)
 - 1 ½ teaspoons baharat
 - ½ teaspoon ground cinnamon

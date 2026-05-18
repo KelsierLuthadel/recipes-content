@@ -17,7 +17,7 @@ An elegant refinement of classic mayonnaise where fragrant vanilla seeds infuse 
 ## Ingredients
 
 ### Base & emulsifier
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 1 whole large egg
 - 15 grams Dijon mustard
 - seeds from 2 vanilla pods

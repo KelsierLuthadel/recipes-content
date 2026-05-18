@@ -24,9 +24,9 @@ Buss-up-shut, also called paratha roti, is the flaky-layered Trinidadian roti th
 
 ### Channa and aloo curry (filling)
 - 1 can (400 g) chickpeas, drained and rinsed
-- 2 medium potatoes (about 400 g, peeled and cut into 2 cm cubes)
+- 2 potatoes (medium, about 400 g, peeled and cut into 2 cm cubes)
 - 3 tbsp neutral oil
-- 1 medium onion (finely chopped)
+- 1 onion (medium, finely chopped)
 - 5 garlic cloves (minced)
 - 1 tbsp Caribbean green seasoning
 - 2 tbsp Caribbean curry powder

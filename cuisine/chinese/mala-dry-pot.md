@@ -23,7 +23,7 @@ Ganguo, literally "dry pot", is the dry sister of hotpot. Where hotpot is a comm
 
 ### Vegetables
 - 200 g Chinese cauliflower or regular cauliflower, in florets
-- 150 g baby yu choy or similar greens, in large pieces
+- 150 g baby yu choi
 - 150 g green beans, trimmed and cut into 5 cm pieces
 - 200 g Yukon gold potato, in 1 cm half-moons
 - 2 tbsp dried wood ear mushrooms (soaked 30 minutes in boiling water)
@@ -33,7 +33,7 @@ Ganguo, literally "dry pot", is the dry sister of hotpot. Where hotpot is a comm
 - 4-5 garlic cloves, thinly sliced
 - 2 cm ginger, slivered
 - 4-5 dried er jing tiao chillies, torn (optional)
-- ½-1 tsp Sichuan peppercorns (optional)
+- ½ tsp Sichuan peppercorns (optional)
 - ½ tsp cumin seeds (optional)
 - 9 tbsp Sichuan mala dry-pot sauce (about 3 tbsp per 500 g of ingredients)
 - 1 tbsp toasted sesame seeds, to garnish

@@ -15,7 +15,7 @@ Pork shoulder is rubbed with a paste of achiote, orange and lime juices, garlic,
 ## Ingredients
 
 ### Achiote paste
-- 50 g achiote paste (annatto-based, also sold as recado rojo)
+- 50 g achiote paste
 - 4 garlic cloves
 - 1 teaspoon ground cumin
 - 1 teaspoon dried Mexican oregano
@@ -36,7 +36,7 @@ Pork shoulder is rubbed with a paste of achiote, orange and lime juices, garlic,
 - 4 bay leaves
 
 ### Pickled red onion (to serve)
-- 1 large red onion (thinly sliced)
+- 1 red onion (large, thinly sliced)
 - Juice of 2 limes
 - 2 tablespoons white vinegar
 - 1 teaspoon salt

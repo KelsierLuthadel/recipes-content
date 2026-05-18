@@ -25,15 +25,15 @@ A workday cross-cultural dinner that adds the Caribbean to the Tex-Mex format: j
 - ⅓ cup Walkerswood Jamaican Jerk seasoning paste (mild)
 - 60 ml chicken broth
 - 1 teaspoon browning sauce (Grace brand)
-- 1 small lime (zest + juice)
+- 1 lime (small, zest + juice)
 - Flour or corn tortillas, to serve
 
 ### Mango salsa
 - 2 cups diced fresh mango
-- 1 medium red bell pepper (finely chopped)
+- 1 red bell pepper (medium, finely chopped)
 - ½ cup diced red onion
 - ¼ cup chopped cilantro
-- 1 small lime (zest + juice)
+- 1 lime (small, zest + juice)
 - Salt to taste
 
 ## Method

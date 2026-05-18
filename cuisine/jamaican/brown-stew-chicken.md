@@ -16,7 +16,7 @@ The Sunday-lunch counterpart to goat curry across Jamaica; not curry-driven but 
 
 ### Marinade
 - ½ medium yellow onion (chopped)
-- 1 large bell pepper (chopped)
+- 1 bell pepper (large, chopped)
 - 4 spring onions (chopped)
 - 6 garlic cloves (minced) or 1 tablespoon garlic paste
 - 1 tablespoon brown sugar
@@ -31,7 +31,7 @@ The Sunday-lunch counterpart to goat curry across Jamaica; not curry-driven but 
 - 3 tablespoons vegetable oil
 
 ### Braise
-- 2 medium carrots (chopped)
+- 2 carrots (medium, chopped)
 - 1 can (240 ml) tomato sauce
 - 4-6 sprigs fresh thyme
 - 2 bay leaves

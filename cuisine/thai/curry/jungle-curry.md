@@ -30,7 +30,7 @@ Spicy, thin jungle curry from Chiang Mai, traditionally made with jungle ingredi
 
 ### Vegetables
 - 10 green (string) beans, cut into 2 ½ cm (1 in) pieces
-- 1 x 227 g (8 oz) tin (can) bamboo shoots, drained and cut into matchsticks
+- 227 g (8 oz) tin (can) bamboo shoots, drained and cut into matchsticks
 - 5 baby sweetcorn, cut into small pieces
 - 3 tbsp fresh green peppercorns
 

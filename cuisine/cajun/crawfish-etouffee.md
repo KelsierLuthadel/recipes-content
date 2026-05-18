@@ -17,7 +17,7 @@ A blond roux (butter and flour, cooked just to the colour of peanut butter, ligh
 ### Blond roux and trinity
 - 80 g unsalted butter
 - 60 g plain flour
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 3 celery sticks (chopped)
 - 1 green pepper (chopped)
 - 6 garlic cloves (crushed)

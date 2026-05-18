@@ -16,7 +16,7 @@ Trinity (onion, celery, pepper) softens in oil; smoked paprika and Cajun seasoni
 
 - 350 g dried red kidney beans (soaked overnight)
 - 4 tablespoons olive oil
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 4 celery sticks (chopped)
 - 1 green pepper (chopped)
 - 6 garlic cloves (crushed)

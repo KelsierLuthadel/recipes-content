@@ -22,7 +22,7 @@ Pork chops dust with seasoned flour. Sear hard; lift out. A blonde roux builds f
 - ½ teaspoon cayenne pepper
 - ½ teaspoon dried thyme
 - 4 tablespoons vegetable oil
-- 2 large onions (sliced)
+- 2 onions (large, sliced)
 - 1 green bell pepper (sliced)
 - 4 garlic cloves (crushed)
 - 3 tablespoons plain flour (for gravy)

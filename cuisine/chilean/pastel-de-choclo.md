@@ -16,7 +16,7 @@ Pino (the beef-onion mince base) is cooked first: onions are softened slowly wit
 
 ### Beef pino
 - 3 tablespoons vegetable oil
-- 3 large onions (finely chopped)
+- 3 onions (large, finely chopped)
 - 6 garlic cloves (crushed)
 - 600 g beef mince (15-20% fat)
 - 2 teaspoons ground cumin
@@ -30,7 +30,7 @@ Pino (the beef-onion mince base) is cooked first: onions are softened slowly wit
 
 ### Chicken
 - 4 chicken thighs (bone-in)
-- 1 small onion (quartered)
+- 1 onion (small, quartered)
 - 1 bay leaf
 - 500 ml water
 - 1 teaspoon salt

@@ -30,7 +30,7 @@ A spice paste of shallots, garlic, ginger, lemongrass and turmeric is fried in o
 - 400 ml water or vegetable stock
 - 500 g pumpkin or butternut squash (peeled and cubed)
 - 200 g long beans or green beans (in 5 cm lengths)
-- 1 small aubergine (cubed)
+- 1 aubergine (small, cubed)
 - 200 g firm tofu (cubed)
 - 1 teaspoon salt
 - 2 teaspoons sugar

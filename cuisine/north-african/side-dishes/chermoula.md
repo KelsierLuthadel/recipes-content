@@ -24,7 +24,7 @@ Coriander and parsley leaves blitz briefly in a food processor with garlic, cumi
 - 1 ½ teaspoons salt
 - Juice of 1 lemon (about 3 tablespoons)
 - 120 ml extra-virgin olive oil
-- 1 small preserved lemon (rinsed; pulp discarded; skin diced) - optional
+- 1 preserved lemon (small, rinsed; pulp discarded; skin diced) - optional
 
 ## Method
 

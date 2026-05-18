@@ -21,7 +21,7 @@ Pork belly is cut into thumb-length strips and simmered with whole dried red chi
 
 ### Chilli braise
 - 15 whole dried red chillies (Kashmiri or arbol; reduce to 8 for less heat)
-- 1 large daikon / mooli (~500 g, peeled and cut into 4 cm batons)
+- 1 daikon / mooli (large, ~500 g, peeled and cut into 4 cm batons)
 - 4 garlic cloves (sliced)
 - 4 cm fresh ginger (peeled, julienned)
 - 2 teaspoons Sichuan pepper (lightly crushed)

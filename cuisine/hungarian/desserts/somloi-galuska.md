@@ -15,7 +15,7 @@ Three thin sponges bake side by side or in batches: one vanilla, one cocoa, one 
 ## Ingredients
 
 ### Sponges (one batch divided into three)
-- 6 large eggs (separated)
+- 6 eggs (large, separated)
 - 180 g caster sugar
 - 180 g plain flour
 - 1 teaspoon vanilla extract
@@ -25,7 +25,7 @@ Three thin sponges bake side by side or in batches: one vanilla, one cocoa, one 
 
 ### Vanilla cream
 - 500 ml whole milk
-- 4 large egg yolks
+- 4 egg yolks (large)
 - 120 g caster sugar
 - 40 g cornflour
 - 1 teaspoon vanilla extract
@@ -34,8 +34,8 @@ Three thin sponges bake side by side or in batches: one vanilla, one cocoa, one 
 ### Rum syrup
 - 200 ml water
 - 150 g caster sugar
-- Zest of 1 lemon
-- Zest of 1 orange
+- 1 lemon (zest)
+- 1 orange (zest)
 - 4 tablespoons dark rum (or 2 tablespoons rum + 2 tablespoons orange juice)
 
 ### Layering extras

@@ -18,7 +18,7 @@ Pork shoulder is cubed and marinated overnight in a punchy mixture of épis, bit
 ### Pork and marinade
 - 1.5 kg pork shoulder (boneless, cut into 4 cm cubes - leave some fat on)
 - 4 tablespoons épis (Haitian green seasoning); recipe in Notes
-- 1 large shallot (finely chopped)
+- 1 shallot (large, finely chopped)
 - 6 garlic cloves (crushed)
 - 1 Scotch bonnet (deseeded and chopped; a whole one if you want serious heat)
 - 4 sprigs fresh thyme (leaves stripped)

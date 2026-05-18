@@ -31,7 +31,7 @@ Famous Thai salad (som tum) with sour, sweet, savory, and spicy flavors. Pounded
 
 ### Vegetables and fruit
 - 400 g (14 oz) green papaya, grated
-- 1 medium carrot, peeled and grated
+- 1 carrot (medium), peeled and grated
 - 6 baby plum tomatoes, halved
 
 ### Herbs

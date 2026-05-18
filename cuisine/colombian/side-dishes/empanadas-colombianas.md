@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Yellow-corn masarepa hydrates with water, salt and a pinch of annatto for colour. Beef mince cooks with onion, hogao, cumin and oregano; cooked potato dices fold in for body. The dough divides; each ball flattens between two pieces of cling film into thin discs; filling goes in the centre; folded into a half-moon, sealed with damp fingers, fried.
+Yellow-corn masarepa hydrates with water, salt and a pinch of paprika for colour. Beef mince cooks with onion, tomato cumin and oregano; cooked potato dices fold in for body. The dough divides; each ball flattens between two pieces of cling film into thin discs; filling goes in the centre; folded into a half-moon, sealed with damp fingers, fried.
 
 ## Ingredients
 
@@ -18,19 +18,21 @@ Yellow-corn masarepa hydrates with water, salt and a pinch of annatto for colour
 - 400 g beef mince
 - 300 g floury potato (peeled, diced, boiled tender, drained)
 - 2 tablespoons vegetable oil
-- 1 medium onion (very finely chopped)
+- 1 onion (medium, very finely chopped)
 - 4 garlic cloves (crushed)
 - 1 teaspoon ground cumin
 - 1 teaspoon dried oregano
-- ½ teaspoon ground annatto or paprika
-- 2 tablespoons hogao (see recipe) - or 1 grated tomato + 1 tbsp tomato puree
+- ½ teaspoon paprika
+- 1 tomato (grated)
+- 1 tbsp tomato puree
 - 1 teaspoon salt
 - ½ teaspoon ground black pepper
 - 2 tablespoons fresh coriander (chopped)
 
 ### Dough
 - 400 g yellow masarepa (Harina P.A.N. amarilla or similar)
-- 1 teaspoon ground annatto (or 1 tsp turmeric + ½ tsp paprika)
+- 1 tsp turmeric 
+- ½ tsp paprika
 - 1 teaspoon salt
 - 600 ml warm water (approximately - adjust as you go)
 - 1 tablespoon vegetable oil
@@ -51,14 +53,14 @@ Yellow-corn masarepa hydrates with water, salt and a pinch of annatto for colour
 ### Stage 1 - Filling
 1. Heat oil; brown the mince hard 5-6 minutes; pour off excess fat.
 1. Add onion; cook 5 minutes.
-1. Add garlic, cumin, oregano, annatto; cook 30 seconds.
-1. Stir in hogao (or tomato + puree); cook 4 minutes.
+1. Add garlic, cumin, oregano, paprika; cook 30 seconds.
+1. Stir in tomato and puree; cook 4 minutes.
 1. Add cooked potato; mash gently with a fork into the meat - keep some chunky.
 1. Season with salt, pepper, coriander.
 1. Cool completely.
 
 ### Stage 2 - Dough
-1. Whisk masarepa, annatto and salt in a wide bowl.
+1. Whisk masarepa, turmerc, paprika and salt in a wide bowl.
 1. Drizzle in oil; add warm water gradually, mixing with hands, to a soft pliable dough (similar to playdough - holds shape, doesn't stick).
 1. Knead briefly. Cover with damp cloth; rest 10 minutes.
 
@@ -86,7 +88,7 @@ Yellow-corn masarepa hydrates with water, salt and a pinch of annatto for colour
 
 ## Notes
 - **Cling-film press:** Masarepa dough is fragile and tears if rolled with a pin. The cling-film sandwich method is universal in Colombia.
-- **Annatto colour:** Gives the dough its sunny yellow-orange. Skipping it gives pale, sad empanadas.
+- **Turmeric colour:** Gives the dough its sunny yellow-orange. Skipping it gives pale, sad empanadas.
 - **Ají is non-negotiable:** The fresh, bright, slightly hot sauce is the empanada's other half. Don't skip.
 
 ## Storage

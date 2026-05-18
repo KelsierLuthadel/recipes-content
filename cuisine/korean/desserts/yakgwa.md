@@ -32,7 +32,7 @@ A dough of flour, sesame oil, honey, sugar, soju (Korean rice wine), and a pinch
 - 100 ml rice syrup (jocheong) - substitute maple syrup or light corn syrup
 - 50 ml water
 - 20 g fresh ginger (sliced thin)
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 
 ### To finish (optional)
 - 2 tablespoons pine nuts (chopped fine)

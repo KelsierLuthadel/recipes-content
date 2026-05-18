@@ -17,7 +17,7 @@ Lamb shoulder slow-cooks for 2 ½ hours until it shreds; the broth reduces hard 
 - 1 kg lamb shoulder (bone-in, cut into large pieces)
 - 1 tablespoon salt (for the boil)
 - 3 tablespoons vegetable oil
-- 2 large onions (chopped)
+- 2 onions (large, chopped)
 - 8 garlic cloves (crushed)
 - 1 thumb ginger (grated)
 - 1 (400 g) tin chopped tomatoes

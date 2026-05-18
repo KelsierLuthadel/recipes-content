@@ -17,7 +17,7 @@ Pork loin escalopes pound thin, bread, and shallow-fry. While they crisp, a sauc
 ### Schnitzel
 - 4 pork loin escalopes (about 150 g each)
 - 100 g plain flour
-- 3 large eggs (beaten)
+- 3 eggs (large, beaten)
 - 200 g fine breadcrumbs
 - Salt and freshly ground black pepper
 - 4 tablespoons vegetable oil + 30 g butter for shallow-frying
@@ -25,7 +25,7 @@ Pork loin escalopes pound thin, bread, and shallow-fry. While they crisp, a sauc
 ### Mushroom sauce
 - 100 g smoked bacon lardons
 - 1 tablespoon vegetable oil
-- 1 small onion (finely chopped)
+- 1 onion (small, finely chopped)
 - 2 garlic cloves (crushed)
 - 400 g mixed mushrooms (chestnut, oyster, etc.; sliced)
 - 100 ml dry white wine

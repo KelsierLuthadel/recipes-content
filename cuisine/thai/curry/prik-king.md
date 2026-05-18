@@ -17,7 +17,7 @@ Prik king paste fries hard in oil until aromatic and the oil splits. Thinly slic
 ### Prik king paste (or use 4 tbsp store-bought)
 - 8 dried Thai red chillies (de-stemmed, soaked 15 min in hot water, drained)
 - 4 garlic cloves
-- 4 small shallots
+- 4 shallots (small)
 - 1 stalk lemongrass (white part only, sliced)
 - 1 thumb galangal (sliced)
 - 1 teaspoon shrimp paste (kapi)

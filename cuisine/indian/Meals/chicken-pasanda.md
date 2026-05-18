@@ -17,7 +17,7 @@ A mild, creamy curry built around flattened, tenderised chicken (the meat-mallet
 - 3 tbsp coconut flour 
 - 3 tbsp ground almonds 
 - 2 tbsp sugar 
-- About 20 sultanas 
+- 20 sultanas 
 - 500ml [base curry sauce](../Base/curry-base.md)
 - 100g block coconut, cut into small pieces 
 - 800g (174 lb) skinless, boneless chicken breast, cut into thin slices on the diagonal 

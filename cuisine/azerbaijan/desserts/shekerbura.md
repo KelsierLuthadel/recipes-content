@@ -18,7 +18,7 @@ A short milk-and-egg dough rests for 1 hour. Walnuts grind fine (not powdered, t
 - 400 g plain flour
 - 200 g unsalted butter (cold, cubed)
 - 100 ml whole milk (cold)
-- 2 large egg yolks
+- 2 egg yolks (large)
 - 1 tablespoon caster sugar
 - ½ teaspoon salt
 
@@ -26,7 +26,7 @@ A short milk-and-egg dough rests for 1 hour. Walnuts grind fine (not powdered, t
 - 300 g walnuts (or hazelnuts), ground medium-fine
 - 150 g caster sugar
 - 1 teaspoon ground cardamom
-- 1 large egg white (lightly beaten)
+- 1 egg white (large, lightly beaten)
 
 ### To finish
 - Icing sugar (for dusting)

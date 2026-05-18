@@ -16,7 +16,7 @@ Lamb mince (with enough fat for tenderness; 20%) combines with grated onion (squ
 
 ### Seekh kebab
 - 500 g lamb mince (20% fat - fattier is better than leaner)
-- 1 small onion (grated, squeezed BONE-DRY in a tea towel)
+- 1 onion (small, grated, squeezed BONE-DRY in a tea towel)
 - 3 cm fresh ginger (grated)
 - 5 garlic cloves (crushed to a paste)
 - 2 green chillies (very finely chopped)
@@ -32,7 +32,7 @@ Lamb mince (with enough fat for tenderness; 20%) combines with grated onion (squ
 
 ### To assemble
 - 4 large paratha or thin laffa-style flatbread (ready-made works; or use thin chapati / lavash)
-- 1 small red onion (sliced very thin and soaked in cold water 5 minutes, drained)
+- 1 red onion (small, sliced very thin and soaked in cold water 5 minutes, drained)
 - 1 small bunch fresh coriander (leaves only)
 - 6 tablespoons mint-coriander chutney (blitz 1 bunch coriander + 1 bunch mint + 2 green chillies + 1 garlic + juice of 1 lime + 1 teaspoon salt + 2 tablespoons yogurt)
 - 2 lemons (cut into wedges)

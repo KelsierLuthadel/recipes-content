@@ -26,7 +26,7 @@ Sausages slow-pan-fried so the skins blister and the fat renders, served on top 
 
 ### Onion gravy
 - 2 tablespoons unsalted butter
-- 3 large onions (thinly sliced)
+- 3 onions (large, thinly sliced)
 - 1 teaspoon caster sugar
 - 1 tablespoon plain flour
 - 500 ml beef stock

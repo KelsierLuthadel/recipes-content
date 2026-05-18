@@ -16,7 +16,7 @@ Onion, garlic, red and green peppers sweat slowly in olive oil. Sliced chouriço
 
 ### Aromatics
 - 4 tablespoons olive oil
-- 1 large onion (sliced)
+- 1 onion (large, sliced)
 - 6 garlic cloves (sliced)
 - 1 red bell pepper (sliced thin)
 - 1 green bell pepper (sliced thin)

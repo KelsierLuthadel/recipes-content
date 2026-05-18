@@ -32,7 +32,7 @@ Vindaye, sometimes written vindaille, is a Mauritian cousin of the Goan vindaloo
 - ½ tsp ground black pepper
 
 ### To finish
-- 2 medium onions (thinly sliced)
+- 2 onions (medium, thinly sliced)
 - 60 ml neutral oil
 - 1 tsp black mustard seeds
 - 2 tbsp white wine vinegar (extra, to adjust)

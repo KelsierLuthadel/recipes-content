@@ -22,7 +22,7 @@ Each vegetable cooks separately and gets dressed with sesame oil, garlic and soy
 - 200 g bean sprouts
 - 1 carrot (julienned)
 - 200 g shiitake or chestnut mushrooms (sliced)
-- 1 small courgette (julienned)
+- 1 courgette (small, julienned)
 
 ### Seasoning (used across vegetables)
 - 4 tablespoons toasted sesame oil

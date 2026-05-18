@@ -25,7 +25,7 @@ Prawns are seasoned briefly with turmeric and salt. A balchão masala is built f
 - 1 tablespoon cumin seeds
 - 1 teaspoon black peppercorns
 - 6 cloves
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 30 g fresh ginger
 - 8 garlic cloves
 - 3 tablespoons palm vinegar (or cider vinegar)

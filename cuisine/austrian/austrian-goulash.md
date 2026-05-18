@@ -28,9 +28,9 @@ The defining technique is the 1-to-1 ratio of onion to beef by weight, and the o
 - 2 teaspoons salt
 - 1 teaspoon caraway seeds (roughly crushed)
 - 1 teaspoon dried marjoram
-- 1 small bay leaf
+- 1 bay leaf (small)
 - 2 teaspoons cider vinegar or red wine vinegar
-- Zest of ½ lemon
+- ½ lemon (zest)
 - 600-800 ml beef stock (just enough to cover)
 - Freshly ground black pepper
 

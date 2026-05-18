@@ -11,8 +11,8 @@
 Potato and parsnip crisps are paper-thin slices of potato and parsnip deep fried until golden and shatteringly crisp. The natural sweetness of the parsnip contrasts beautifully with the starchy potato, and together they make an elegant and addictive snack. They work equally well as a pre-dinner nibble or as a delicate garnish for a plated main course.
 
 ## Ingredients
-- 2 large potatoes (peeled)
-- 3 large parsnips (peeled)
+- 2 potatoes (large, peeled)
+- 3 parsnips (large, peeled)
 - 1 litre oil (for frying)
 - salt
 

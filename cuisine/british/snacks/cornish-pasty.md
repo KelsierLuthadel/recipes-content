@@ -26,7 +26,7 @@ Shortcrust pastry uses a mix of lard and butter for the right sturdy-but-flaky t
 - 400 g beef skirt steak (or chuck - cut into 5 mm dice, NEVER minced)
 - 400 g potato (peeled, cut into 5 mm dice - Maris Piper or other floury)
 - 250 g swede (peeled, cut into 5 mm dice - known as "turnip" in Cornwall)
-- 1 large onion (cut into 5 mm dice)
+- 1 onion (large, cut into 5 mm dice)
 - 1 ½ teaspoons salt (be generous; the meat is raw and needs seasoning to flavour through)
 - 1 teaspoon black pepper (coarsely ground)
 - 30 g butter (cubed - 8 small cubes, one per pasty fold)

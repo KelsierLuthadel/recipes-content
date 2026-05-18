@@ -19,17 +19,17 @@ Dried split fava beans (sold as "split foul" or "ful asfar" at Egyptian or Middl
 - Cold water (for overnight soaking)
 
 ### Blender
-- 1 medium onion (rough chunks)
+- 1 onion (medium, rough chunks)
 - 4 garlic cloves
 - 1 large bunch fresh coriander (about 30 g, leaves and stems)
 - 1 small bunch fresh parsley
 - 1 small bunch fresh dill
-- 1 small leek (white and pale green only, sliced thin)
+- 1 leek (small, white and pale green only, sliced thin)
 - 1 ½ teaspoons salt
 - 2 teaspoons ground cumin
 - 1 teaspoon ground coriander
 - ½ teaspoon black pepper
-- 1 teaspoon Aleppo pepper or chilli flakes
+- 1 teaspoon chilli flakes
 
 ### Just before frying
 - 1 teaspoon baking soda

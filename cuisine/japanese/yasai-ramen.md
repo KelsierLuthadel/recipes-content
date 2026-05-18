@@ -34,7 +34,7 @@ Mushroom (dried shiitake) and kombu (kelp) infuse hot water for the broth base. 
 - 200 g firm tofu (cubed)
 - 1 tablespoon vegetable oil (for the tofu)
 - 1 tablespoon soy sauce
-- 2 large eggs (soft-boiled, halved)
+- 2 eggs (large, soft-boiled, halved)
 - 1 small bok choy or pak choi (halved lengthwise)
 - 100 g sweet corn (frozen or tinned)
 - 4 spring onions (sliced)

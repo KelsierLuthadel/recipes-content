@@ -15,11 +15,11 @@ A small dice of butternut squash softens in butter with onion and garlic; corn k
 ## Ingredients
 
 - 2 tablespoons unsalted butter (or oil)
-- 1 medium onion (chopped)
+- 1 onion (medium, chopped)
 - 3 garlic cloves (crushed)
 - 600 g butternut or kabocha squash (peeled, deseeded; cut into 1 ½ cm cubes)
 - 400 g corn kernels (fresh from 4 cobs, or thawed frozen)
-- 1 x 400 g tin red kidney or pinto beans (drained) - or 250 g cooked from dried
+- 400 g tin red kidney or pinto beans (drained) - or 250 g cooked from dried
 - 350 ml vegetable stock or water
 - 1 bay leaf
 - 4 sage leaves (chopped) or 1 teaspoon dried

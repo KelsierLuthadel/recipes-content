@@ -19,7 +19,7 @@ Dough: flour, salt, butter, warm milk, an egg, kneads to a smooth pliable dough;
 - 1 ½ teaspoons salt
 - 80 g unsalted butter (melted)
 - 200 ml warm milk
-- 1 large egg
+- 1 egg (large)
 - 1 tablespoon white vinegar
 
 ### Filling

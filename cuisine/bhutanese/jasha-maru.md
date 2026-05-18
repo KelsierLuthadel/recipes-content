@@ -22,11 +22,11 @@ A whole bone-in chicken is jointed and stewed with onion, tomato, plenty of fres
 
 ### Stew
 - 2 tablespoons butter (or vegetable oil)
-- 2 medium brown onions (finely sliced)
+- 2 brown onions (medium, finely sliced)
 - 6 garlic cloves (crushed)
 - 6 cm fresh ginger (peeled and julienned)
 - 4 green chillies (slit lengthways; reduce to 2 for less heat)
-- 3 medium tomatoes (chopped)
+- 3 tomatoes (medium, chopped)
 - 1 teaspoon Sichuan pepper (lightly crushed, optional but traditional)
 - 500 ml water or light chicken stock
 

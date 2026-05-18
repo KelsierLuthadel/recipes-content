@@ -28,7 +28,7 @@ A batter is made from chickpea flour (besan), rice flour for crispness, water, s
 - 250-280 ml cold water
 
 ### Potatoes
-- 4 medium waxy potatoes (about 700 g - peeled and sliced into 3 mm rounds)
+- 4 waxy potatoes (medium, about 700 g - peeled and sliced into 3 mm rounds)
 - 1 teaspoon salt (for prepping)
 
 ### For frying

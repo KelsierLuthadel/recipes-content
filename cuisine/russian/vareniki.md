@@ -16,7 +16,7 @@ A simple egg-and-water dough rolls thin and cuts into circles. The filling is ma
 
 ### Dough
 - 500 g plain flour
-- 1 large egg
+- 1 egg (large)
 - 1 teaspoon salt
 - 250 ml warm water
 - 1 tablespoon sunflower oil
@@ -24,14 +24,14 @@ A simple egg-and-water dough rolls thin and cuts into circles. The filling is ma
 ### Filling
 - 700 g floury potatoes (peeled and cubed)
 - 50 g unsalted butter
-- 2 large onions (finely chopped)
+- 2 onions (large, finely chopped)
 - 2 tablespoons sunflower oil
 - 1 teaspoon salt (plus more for the potatoes)
 - Black pepper
 
 ### To serve
 - 50 g unsalted butter
-- 1 large onion (sliced; for fried onions)
+- 1 onion (large, sliced; for fried onions)
 - 200 g soured cream
 - A small bunch of dill (chopped)
 

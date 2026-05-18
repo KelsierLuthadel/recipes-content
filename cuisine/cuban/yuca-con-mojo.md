@@ -24,7 +24,7 @@ Cassava boils in salted water until a knife slides through easily. Garlic is cru
 - ½ teaspoon dried oregano
 - 100 ml olive oil
 - Juice of 2 sour oranges (or 60 ml fresh orange juice + 30 ml lime juice)
-- 1 small onion (very thinly sliced)
+- 1 onion (small, very thinly sliced)
 - Black pepper
 - Fresh parsley or coriander (chopped, to serve)
 

@@ -24,7 +24,7 @@ A jewelled preserve capturing summer peaches with warming spice and bright citru
 - 10 grams ginger (finely chopped)
 
 ### Spices & citrus
-- zest of 1 lime (finely pared and chopped)
+- 1 lime (finely pared and chopped, zest)
 - juice of 1 lime
 - half a teaspoon ground cinnamon
 - half a teaspoon ground nutmeg

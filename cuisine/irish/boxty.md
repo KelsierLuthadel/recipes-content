@@ -18,7 +18,7 @@ Half the potatoes are boiled and mashed; the other half are grated raw and squee
 - 250 g floury potatoes (peeled, for grating)
 - 100 g plain flour
 - 1 teaspoon baking powder
-- 1 large egg
+- 1 egg (large)
 - 100 ml whole milk
 - 1 teaspoon salt
 - Black pepper

@@ -20,7 +20,7 @@ Onion bhajis are golden, crispy fritters made from sliced onions bound in a spic
 - 1 teaspoon chilli powder
 - 1 teaspoon ground turmeric
 - 1 teaspoon coriander seeds (crushed)
-- 3 large onions (sliced)
+- 3 onions (large, sliced)
 - 6 fresh curry leaves
 - sunflower oil (for deep frying)
 - salt

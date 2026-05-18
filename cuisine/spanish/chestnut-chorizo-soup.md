@@ -21,8 +21,8 @@ A hearty Spanish soup featuring sweet chestnuts paired with spicy chorizo sausag
 - 4 tablespoons olive oil
 
 ### Aromatics
-- 1 large onion
-- 1 medium carrot
+- 1 onion (large)
+- 1 carrot (medium)
 - 1 celery stalk
 - 2 garlic cloves
 
@@ -36,7 +36,7 @@ A hearty Spanish soup featuring sweet chestnuts paired with spicy chorizo sausag
 ### Seasonings
 - 1 teaspoon ground cumin
 - 2 teaspoons fresh thyme leaves
-- 2 small dried red chillies
+- 2 dried red chillies (small)
 - 20 saffron strands
 - Salt and pepper to taste
 

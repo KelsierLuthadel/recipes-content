@@ -20,7 +20,7 @@ Essential base for dopiaza curries, biryanis, and marinades. Fried onions add ri
 - Rapeseed oil, for deep-frying (enough to cover onions)
 
 ### Vegetables
-- 2 large onions, finely sliced
+- 2 onions (large), finely sliced
 
 ### For paste
 - Water or yoghurt, as needed for blending

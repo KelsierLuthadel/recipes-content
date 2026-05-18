@@ -14,9 +14,9 @@ Aubergines roast or pan-fry until soft and silky. The flesh mashes with carameli
 
 ## Ingredients
 
-- 2 large aubergines (about 700 g)
+- 2 aubergines (large, about 700 g)
 - 4 tablespoons olive oil (split, for the aubergine)
-- 1 large onion (sliced thin)
+- 1 onion (large, sliced thin)
 - 4 garlic cloves (crushed)
 - 1 teaspoon ground turmeric
 - ½ teaspoon ground black pepper

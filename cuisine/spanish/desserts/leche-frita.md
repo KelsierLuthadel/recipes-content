@@ -21,13 +21,13 @@ Milk warms with lemon and cinnamon. Cornflour, plain flour, sugar and egg yolks 
 - 100 g caster sugar
 - 40 g cornflour
 - 40 g plain flour
-- 4 large egg yolks
+- 4 egg yolks (large)
 - 30 g unsalted butter
 - 1 teaspoon vanilla extract
 
 ### Coating
 - 80 g plain flour
-- 2 large eggs (beaten)
+- 2 eggs (large, beaten)
 
 ### Frying
 - 400 ml mild olive oil (or neutral oil)

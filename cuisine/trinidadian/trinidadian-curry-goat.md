@@ -31,14 +31,14 @@ Trinidadian curry goat sits in a quiet rivalry with Jamaican curry goat, but the
 
 ### Pot
 - 4 tbsp neutral oil
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 8 garlic cloves (minced)
 - 25 g fresh ginger (grated)
 - 2 sprigs fresh thyme
 - 1 Scotch bonnet (pricked once, whole)
-- 1 medium tomato (grated, optional)
+- 1 tomato (medium, grated, optional)
 - 600-800 ml water or light stock
-- 2 medium potatoes (peeled and quartered, optional)
+- 2 potatoes (medium, peeled and quartered, optional)
 - Salt, to taste
 - Small handful chopped chadon beni or coriander, to finish
 

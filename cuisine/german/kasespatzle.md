@@ -18,7 +18,7 @@ Make spätzle as the base. Caramelise onions slowly in butter. Layer the spätzl
 - 1 batch fresh spätzle (see [spatzle.md](spatzle.md)), or 700 g cooked
 
 ### Onions
-- 4 large onions (very thinly sliced)
+- 4 onions (large, very thinly sliced)
 - 50 g unsalted butter
 - 1 teaspoon caster sugar
 - ½ teaspoon salt

@@ -25,7 +25,7 @@ Saturday-soup in Trinidad, Guyana and Jamaica is a category rather than a single
 
 ### Base
 - 2 tablespoons olive oil
-- 1 large yellow onion (chopped)
+- 1 yellow onion (large, chopped)
 - 1 green bell pepper (chopped)
 - 60 ml sliced spring onions
 - 6-8 sprigs fresh thyme

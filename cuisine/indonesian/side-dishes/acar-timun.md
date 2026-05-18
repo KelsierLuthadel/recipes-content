@@ -13,8 +13,8 @@
 Cucumber, carrot, shallot, chilli prep into thin slices or matchsticks. Salt rests for 10 minutes to draw moisture, drains. A simple dressing of vinegar, sugar, water and ginger whisks together. Vegetables toss with the dressing; rest for 1 hour at room temperature. Eats cool, never refrigerated cold; the texture suffers.
 
 ## Ingredients
-- 2 small cucumbers (about 300 g)
-- 1 medium carrot
+- 2 cucumbers (small, about 300 g)
+- 1 carrot (medium)
 - 4 shallots (or ½ small red onion)
 - 2 fresh red chillies (1 hot, 1 mild - adjust to taste)
 - 30 g fresh ginger (peeled, julienned)

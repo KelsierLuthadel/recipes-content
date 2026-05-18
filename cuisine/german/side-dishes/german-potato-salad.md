@@ -21,7 +21,7 @@ Waxy potatoes boil in their skins, peel while still warm and slice into thick co
 
 ### Dressing
 - 150 g smoked streaky bacon (cut into 5 mm lardons)
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 200 ml hot chicken or vegetable stock
 - 4 tablespoons white wine vinegar
 - 1 tablespoon German or Dijon mustard

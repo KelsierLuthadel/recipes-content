@@ -21,7 +21,7 @@ Chicken thighs are marinated overnight in a yogurt-and-vinegar paste with a fres
 - 1 teaspoon cumin seeds
 - 1 teaspoon fennel seeds
 - 1 teaspoon black peppercorns
-- 1 small cinnamon stick (broken)
+- 1 cinnamon stick (small, broken)
 - 4 cloves
 - 4 garlic cloves
 - 25 g fresh ginger
@@ -39,7 +39,7 @@ Chicken thighs are marinated overnight in a yogurt-and-vinegar paste with a fres
 - 3 litres water
 - 2 tablespoons salt (for the water; aggressive seasoning at parboil)
 - 1 bay leaf
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 4 cloves
 - 3 green cardamom pods (lightly crushed)
 - 1 black cardamom pod

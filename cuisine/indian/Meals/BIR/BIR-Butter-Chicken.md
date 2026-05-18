@@ -34,7 +34,7 @@ A rich, creamy tomato-based curry with mild spice and buttery finish. A BIR-styl
 - 3 tbsp cream
 - 1 tbsp butter
 - 1 tsp sugar
-- Â½ tsp garam masala
+- ½ tsp garam masala
 
 ---
 

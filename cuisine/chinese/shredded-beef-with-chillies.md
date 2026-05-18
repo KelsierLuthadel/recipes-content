@@ -22,7 +22,7 @@ The essence of this recipe lies in knife technique: the beef must be cut into ve
 
 ### Vegetables & Cooking
 - 6 tablespoons vegetable oil
-- 1 large onion (thinly sliced)
+- 1 onion (large, thinly sliced)
 - 3 cm piece fresh root ginger (shredded)
 - 1 carrot (very fine julienne)
 - 3 fresh chillies (finely chopped)

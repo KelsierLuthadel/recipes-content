@@ -16,7 +16,7 @@ A batter of equal volumes of plain flour, eggs and whole milk (and a pinch of sa
 
 - 140 g plain flour
 - ½ teaspoon fine salt
-- 4 large eggs (at room temperature)
+- 4 eggs (large, at room temperature)
 - 200 ml whole milk
 - 50 ml cold water
 - 8 teaspoons beef dripping (best - taken from the roast) OR vegetable oil (sunflower works; olive oil burns)

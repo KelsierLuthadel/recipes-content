@@ -17,7 +17,7 @@ Pilau rice exemplifies spiced Indian cooking at its most refined. Rather than co
 - 450 grams basmati rice
 
 ### Aromatics & Spices
-- 1 large onion (approximately 200 grams, finely chopped)
+- 1 onion (large, approximately 200 grams, finely chopped)
 - 1 large knob butter (approximately 40-50 grams, plus extra to serve)
 - 4 cardamom pods (or 8 crushed seeds if pods unavailable)
 - 8 whole cloves

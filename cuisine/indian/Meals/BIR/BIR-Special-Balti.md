@@ -19,7 +19,7 @@ A customizable British curry-house special balti, mixing pre-cooked meats, seafo
 ### Base
 - 3 tbsp rapeseed (canola) oil
 - ½ onion, finely chopped
-- 1 large tomato, diced
+- 1 tomato (large), diced
 - 2 green chillies, finely chopped
 
 ### Proteins and veggies

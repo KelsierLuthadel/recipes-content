@@ -26,7 +26,7 @@ A good bánh mì is mostly assembly. The bread should be light and crackly, the 
 - 8 thin slices of Vietnamese pork roll (chả lụa) or cooked ham
 - 4 slices of Vietnamese head cheese (giò thủ) or cooked pork shoulder
 - 4 slices of char siu (Chinese roast pork) or grilled pork belly (optional but classic)
-- 1 small cucumber (cut into long batons)
+- 1 cucumber (small, cut into long batons)
 - 150 g dưa chua (Vietnamese pickled carrot and daikon, see do-chua recipe)
 - 1 bird's-eye chilli (thinly sliced; deseed for less heat)
 - A large handful coriander (whole sprigs, stems on)

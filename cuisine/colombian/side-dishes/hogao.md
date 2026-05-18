@@ -16,7 +16,7 @@ Long spring onion (cebolla larga) and white onion are softened in oil; garlic, c
 
 - 4 tablespoons vegetable oil
 - 6 spring onions (white and green parts, finely chopped - cebolla larga substitute)
-- 1 large onion (very finely chopped)
+- 1 onion (large, very finely chopped)
 - 4 garlic cloves (crushed)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground annatto (or smoked paprika)

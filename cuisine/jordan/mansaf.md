@@ -16,7 +16,7 @@ Dried jameed balls soak overnight then break down in water to form the cooking l
 
 - 1 ½ kg lamb shoulder (cut into large 8 cm chunks; bone-in is better)
 - 4 jameed balls (around 500 g; or 800 g goat's milk yogurt + 4 tablespoons salt as a substitute base)
-- 2 large onions (1 quartered, 1 finely chopped)
+- 2 onions (large, 1 quartered, 1 finely chopped)
 - 6 cardamom pods (bashed)
 - 1 cinnamon stick
 - 4 bay leaves

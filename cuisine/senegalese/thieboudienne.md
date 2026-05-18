@@ -19,7 +19,7 @@ The fish is scored and stuffed with rof, a fragrant paste of parsley, garlic, ch
 - 1 large bunch flat-leaf parsley (about 60 g)
 - 6 garlic cloves
 - 1 Scotch bonnet or habanero chilli (deseeded if you prefer mild)
-- 1 small onion
+- 1 onion (small)
 - 1 Maggi or other seasoning cube
 - 1 teaspoon black pepper
 - 1 tablespoon vegetable oil
@@ -27,7 +27,7 @@ The fish is scored and stuffed with rof, a fragrant paste of parsley, garlic, ch
 ### Fish and broth
 - 6 thick white fish steaks on the bone (sea bream, grouper or hake), about 1.2 kg total
 - 120 ml vegetable oil
-- 2 large onions (finely sliced)
+- 2 onions (large, finely sliced)
 - 4 tablespoons tomato purée
 - 400 g tinned chopped tomatoes
 - 2 tablespoons nététou (fermented locust bean) or 1 tablespoon dark miso (see Notes)
@@ -38,10 +38,10 @@ The fish is scored and stuffed with rof, a fragrant paste of parsley, garlic, ch
 
 ### Vegetables
 - 300 g cassava (peeled, cut in 4 cm chunks)
-- 2 large carrots (peeled, cut in 4 cm chunks)
-- 1 small white cabbage (cut into 6 wedges through the core)
-- 1 small aubergine (quartered)
-- 2 small turnips (peeled, halved) (optional)
+- 2 carrots (large, peeled, cut in 4 cm chunks)
+- 1 white cabbage (small, cut into 6 wedges through the core)
+- 1 aubergine (small, quartered)
+- 2 turnips (small, peeled, halved, optional)
 - 1 whole Scotch bonnet chilli (left intact, for aroma)
 
 ### Rice

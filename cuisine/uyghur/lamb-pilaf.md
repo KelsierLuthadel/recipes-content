@@ -22,7 +22,7 @@ A dish entirely about lamb fat carried through rice. Each grain ends up glossy a
 
 ### Rice and aromatics
 - 400 g medium-grain rice (Calrose, Nishiki, or basmati)
-- 1 small red onion (thinly sliced)
+- 1 red onion (small, thinly sliced)
 - 2 yellow carrots (peeled, cut into 5 cm batons, ⅛ inch thick)
 - 1 orange carrot (same prep)
 - 100 g raisins (yellow or green)

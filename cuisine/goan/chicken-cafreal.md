@@ -27,7 +27,7 @@ A vivid green masala is ground from coriander leaves, mint, green chilli, garlic
 - 1 tablespoon cumin seeds
 - 1 teaspoon black peppercorns
 - 4 cloves
-- 1 small cinnamon stick (broken)
+- 1 cinnamon stick (small, broken)
 - 3 tablespoons palm vinegar (or cider vinegar)
 - 1 tablespoon palm jaggery (or soft brown sugar)
 - 1 teaspoon salt

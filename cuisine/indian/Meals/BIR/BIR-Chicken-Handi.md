@@ -18,7 +18,7 @@ A rich, ghee-laden chicken handi cooked in the traditional style, featuring tend
 ## Ingredients
 ### Base
 - 125 ml (½ cup) ghee
-- 2 medium red onions, thinly sliced
+- 2 red onions (medium), thinly sliced
 - 2 tbsp garlic and ginger paste
 - 1 tsp cumin seeds
 - 2 tomatoes, diced

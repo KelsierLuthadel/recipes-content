@@ -17,7 +17,7 @@ Basmati rice rinses thoroughly; soaks for 1 hour in salted water. Bone-in chicke
 ### Chicken
 - 4 bone-in skin-on chicken thighs and 4 drumsticks (or 6 thighs)
 - 2 tablespoons sunflower oil
-- 1 large onion (sliced)
+- 1 onion (large, sliced)
 - 4 garlic cloves (crushed)
 - 1 ½ teaspoons ground turmeric
 - 2 tablespoons tomato paste
@@ -37,7 +37,7 @@ Basmati rice rinses thoroughly; soaks for 1 hour in salted water. Bone-in chicke
 - 1 large pinch saffron threads (soaked in 4 tablespoons hot water)
 
 ### Zereshk topping
-- 80 g zereshk (dried barberries) - sold at Iranian shops; substitute dried cranberries chopped if unavailable
+- 80 g zereshk (dried barberries)
 - 2 tablespoons unsalted butter
 - 1 tablespoon caster sugar
 - 1 small pinch saffron (extra)

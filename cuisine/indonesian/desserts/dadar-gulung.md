@@ -17,7 +17,7 @@ The crepe batter: rice flour, plain flour, eggs, coconut milk, water, salt, pand
 ### Crepe batter
 - 100 g rice flour
 - 100 g plain flour
-- 2 large eggs
+- 2 eggs (large)
 - 250 ml coconut milk
 - 250 ml water
 - ½ teaspoon salt

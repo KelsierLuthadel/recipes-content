@@ -16,7 +16,7 @@ Sausagemeat (or sausage casings squeezed) mixes with herbs, mustard and breadcru
 
 ### Filling
 - 600 g good-quality sausagemeat (or 800 g sausages, casings removed and squeezed out)
-- 1 small onion (very finely chopped)
+- 1 onion (small, very finely chopped)
 - 1 tablespoon Dijon mustard
 - 2 tablespoons fresh sage or thyme (finely chopped) or 1 teaspoon dried
 - 50 g fresh breadcrumbs
@@ -25,7 +25,7 @@ Sausagemeat (or sausage casings squeezed) mixes with herbs, mustard and breadcru
 
 ### Pastry
 - 2 sheets all-butter puff pastry (about 320 g each), chilled
-- 1 large egg (beaten, for egg wash)
+- 1 egg (large, beaten, for egg wash)
 - 1 tablespoon sesame seeds or poppy seeds (optional)
 
 ## Method

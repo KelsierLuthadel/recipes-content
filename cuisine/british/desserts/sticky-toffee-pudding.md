@@ -22,7 +22,7 @@ Dates are soaked in boiling water with bicarbonate of soda (which softens them a
 - 1 teaspoon baking powder
 - 75 g unsalted butter (softened)
 - 175 g soft dark brown sugar
-- 2 large eggs
+- 2 eggs (large)
 - 1 teaspoon vanilla extract
 
 ### Toffee sauce

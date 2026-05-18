@@ -15,7 +15,7 @@ Five thin discs of almond-meringue (a French dacquoise) bake low and slow. They 
 ## Ingredients
 
 ### Almond meringue layers (5 discs of 22 cm)
-- 6 large egg whites
+- 6 egg whites (large)
 - A pinch of salt
 - 200 g caster sugar
 - 200 g ground almonds
@@ -23,7 +23,7 @@ Five thin discs of almond-meringue (a French dacquoise) bake low and slow. They 
 - 1 teaspoon vanilla extract
 
 ### Cognac buttercream
-- 4 large egg yolks
+- 4 egg yolks (large)
 - 200 g caster sugar
 - 80 ml water
 - 350 g unsalted butter (very soft)

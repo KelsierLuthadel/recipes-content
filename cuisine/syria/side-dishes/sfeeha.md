@@ -24,8 +24,8 @@ A simple yeasted bread dough rises for 1 hour; balls are divided and rolled into
 
 ### Topping
 - 500 g lamb mince (shoulder, slightly fatty)
-- 1 medium onion (very finely grated, juices reserved)
-- 2 small tomatoes (deseeded, very finely chopped)
+- 1 onion (medium, very finely grated, juices reserved)
+- 2 tomatoes (small, deseeded, very finely chopped)
 - 2 tablespoons tomato puree
 - 3 tablespoons pomegranate molasses
 - 1 tablespoon Aleppo pepper (or 1 ½ tsp paprika + ½ tsp chilli flakes)

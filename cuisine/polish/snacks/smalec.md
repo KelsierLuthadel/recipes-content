@@ -18,8 +18,8 @@ Diced pork back-fat (or fatty belly) renders slowly with smoked streaky bacon, f
 ### Smalec
 - 500 g pork back-fat or skinless fatty pork belly (cut into 1 cm dice)
 - 200 g smoked streaky bacon (rind off, cut into 1 cm pieces)
-- 1 large onion (very finely chopped)
-- 1 small tart apple (Bramley or Granny Smith; peeled, cored, finely diced)
+- 1 onion (large, very finely chopped)
+- 1 tart apple (small, Bramley or Granny Smith; peeled, cored, finely diced)
 - 4 garlic cloves (finely chopped)
 - 2 teaspoons dried marjoram
 - 2 bay leaves

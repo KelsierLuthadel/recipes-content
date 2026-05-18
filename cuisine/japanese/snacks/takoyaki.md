@@ -17,7 +17,7 @@ A thin batter is whisked from plain flour, dashi (Japanese stock), eggs, a touch
 ### Batter
 - 200 g plain flour
 - 600 ml dashi (from instant dashi powder - 1 tablespoon dissolved in 600 ml hot water - OR homemade)
-- 2 large eggs
+- 2 eggs (large)
 - 1 tablespoon light soy sauce
 - 1 tablespoon mirin
 - ½ teaspoon salt
@@ -36,10 +36,10 @@ A thin batter is whisked from plain flour, dashi (Japanese stock), eggs, a touch
 - 4 tablespoons takoyaki sauce (sold in bottles; or substitute: 3 tablespoons Worcestershire + 1 tablespoon ketchup + 1 tablespoon mirin + 1 teaspoon soy)
 - 4 tablespoons Japanese mayonnaise (Kewpie - the squeezy bottle)
 - 4 tablespoons bonito flakes / katsuobushi (shaved dried tuna)
-- 2 tablespoons aonori (powdered green seaweed) - sold at Japanese shops
+- 2 tablespoons aonori (powdered green seaweed)
 
 ### Equipment
-- A takoyaki pan (cast iron half-sphere dimpled pan - sold at Japanese shops or online; or as an aebleskiver pan substitute)
+- A takoyaki pan (cast iron half-sphere dimpled pan)
 - A wooden / bamboo skewer or chopstick for rotating
 - A small ladle
 

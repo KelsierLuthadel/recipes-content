@@ -17,7 +17,7 @@ Veal escalopes are pounded to 5 mm thick, dredged through flour, egg and breadcr
 ### Schnitzel
 - 4 veal escalopes (about 150 g each)
 - 100 g plain flour
-- 3 large eggs (beaten)
+- 3 eggs (large, beaten)
 - 200 g fine breadcrumbs (ideally Semmelbrösel; or fine dried breadcrumbs)
 - Salt and freshly ground white pepper
 - 100 g clarified butter (or 50 g butter + 50 ml vegetable oil)

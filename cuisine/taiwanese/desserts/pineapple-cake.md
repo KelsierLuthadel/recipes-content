@@ -24,7 +24,7 @@ The filling cooks first: fresh or tinned pineapple (drained well), maltose syrup
 ### Dough
 - 200 g unsalted butter (softened)
 - 60 g icing sugar (sifted)
-- 2 large egg yolks
+- 2 egg yolks (large)
 - 30 g full-fat milk powder
 - 280 g plain flour
 - A pinch of salt

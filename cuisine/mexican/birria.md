@@ -24,7 +24,7 @@ Birria is a Mexican braise of long, patient ambition. Originally a goat or lamb 
 - 3 dried ancho chiles, deseeded
 - 2 dried pasilla chiles, deseeded
 - 4 dried arbol chiles, deseeded
-- 1 large white onion, halved
+- 1 white onion (large), halved
 - 1 Mexican cinnamon stick (canela)
 - 6 g black peppercorns
 - 6 garlic cloves

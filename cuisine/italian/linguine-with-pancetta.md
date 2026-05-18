@@ -14,7 +14,7 @@ This Roman classic showcases the magic of combining quality ingredients in the r
 
 ### Sauce Base
 - 4 tablespoons olive oil
-- 1 large red onion (peeled and finely sliced)
+- 1 red onion (large, peeled and finely sliced)
 - 250 grams diced pancetta
 - 100 ml dry white wine
 - ½ teaspoon dried chilli flakes

@@ -15,12 +15,12 @@ Aubergine slices salt, drain 30 min, pat dry, fry crispy in olive oil. Eggs hard
 ## Ingredients
 
 ### Aubergine
-- 2 medium aubergines (sliced 1 cm thick rounds)
+- 2 aubergines (medium, sliced 1 cm thick rounds)
 - 1 tablespoon salt (for drawing moisture)
 - 6 tablespoons olive oil
 
 ### Eggs
-- 4 large eggs (hard-boiled, peeled)
+- 4 eggs (large, hard-boiled, peeled)
 
 ### Hummus
 - 200 g hummus (homemade or shop-bought)
@@ -42,7 +42,7 @@ Aubergine slices salt, drain 30 min, pat dry, fry crispy in olive oil. Eggs hard
 - ½ teaspoon salt
 
 ### Pita
-- 4 large pitas (warmed)
+- 4 pitas (large, warmed)
 
 ### Amba (mango pickle sauce)
 - 4 tablespoons jarred amba (Iraqi mango pickle sauce - sold at Middle Eastern grocers)

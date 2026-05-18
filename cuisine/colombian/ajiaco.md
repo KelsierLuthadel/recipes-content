@@ -16,7 +16,7 @@ Chicken poaches with onion, garlic and herbs into a clean, golden broth. The fir
 
 ### Soup
 - 1 ½ kg chicken pieces (bone-in thighs and drumsticks)
-- 1 large onion (quartered)
+- 1 onion (large, quartered)
 - 6 garlic cloves (smashed)
 - 4 spring onions (whole, smashed)
 - 1 small bunch coriander stems (tied with string)

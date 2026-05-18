@@ -16,8 +16,8 @@ Floury potatoes grate fine; onion grates fine; both squeeze in a tea towel to re
 
 ### Latkes
 - 1 kg floury potatoes (Maris Piper, Russet, Idaho)
-- 1 large onion
-- 2 large eggs (beaten)
+- 1 onion (large)
+- 2 eggs (large, beaten)
 - 4 tablespoons matzo meal (or fine breadcrumbs / plain flour)
 - 1 ½ teaspoons salt
 - 1 teaspoon ground black pepper

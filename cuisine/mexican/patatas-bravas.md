@@ -16,7 +16,7 @@ Patatas bravas is a classic Spanish tapas dish featuring crispy roasted potatoes
 
 ### Tomato Sauce
 - 3 tbsp olive oil
-- 1 small onion (chopped)
+- 1 onion (small, chopped)
 - 2 garlic cloves (chopped)
 - 227g tin chopped tomatoes
 - 1 tbsp tomato purée

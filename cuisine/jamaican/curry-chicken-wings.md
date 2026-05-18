@@ -22,7 +22,7 @@ Buttermilk-fried wings in the American Southern tradition, with a Caribbean acce
 - 1 tablespoon caster sugar
 - 1 tablespoon yellow mustard
 - 480 ml buttermilk
-- 2 large eggs
+- 2 eggs (large)
 - Salt and pepper
 - Hot sauce (optional)
 

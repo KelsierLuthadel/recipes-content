@@ -14,14 +14,14 @@ Onions are softened in oil with turmeric. Garlic, ginger and a small amount of b
 
 ## Ingredients
 
-- 2 medium onions (sliced)
+- 2 onions (medium, sliced)
 - 60 ml vegetable oil
 - 1 teaspoon ground turmeric
 - 4 garlic cloves (crushed)
 - 2 cm fresh ginger (grated)
 - 1 teaspoon berbere (optional, for heat)
-- 3 medium carrots (cut into 1 cm batons)
-- 3 medium potatoes (peeled and cut into 2 cm chunks)
+- 3 carrots (medium, cut into 1 cm batons)
+- 3 potatoes (medium, peeled and cut into 2 cm chunks)
 - ½ medium green cabbage (about 600 g; sliced 1 cm thick)
 - 1 teaspoon salt
 - 100 ml water

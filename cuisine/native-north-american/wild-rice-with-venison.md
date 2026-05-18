@@ -18,7 +18,7 @@ Venison shoulder is cut into 2 cm cubes and browned hard. Dried wild mushrooms (
 - 2 tablespoons sunflower oil
 - 25 g dried wild mushrooms (porcini, morel or a mix)
 - 400 ml just-boiled water (for the mushrooms)
-- 1 large onion (diced)
+- 1 onion (large, diced)
 - 3 garlic cloves (sliced)
 - 200 g wild rice (the long black grain - not "wild rice blend" with brown rice mixed in)
 - 1 teaspoon juniper berries (lightly crushed)

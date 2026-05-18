@@ -29,7 +29,7 @@ Madrasi masala paste represents the very hot end of British-Indian curry pastes.
 ### Fresh Aromatics
 - 4 garlic cloves (peeled and chopped)
 - 2 tablespoons fresh ginger (finely minced)
-- 2 medium onions (roughly chopped)
+- 2 onions (medium, roughly chopped)
 - 150 ml white wine vinegar
 
 ### Spice Powders (Already Ground)
@@ -43,7 +43,7 @@ Madrasi masala paste represents the very hot end of British-Indian curry pastes.
 
 ### For Storage & Jars
 - Sterilized glass jars
-- Additional vegetable oil (for sealing)
+- vegetable oil (for sealing)
 
 ## Method
 

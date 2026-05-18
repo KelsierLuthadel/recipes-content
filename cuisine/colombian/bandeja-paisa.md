@@ -21,7 +21,7 @@ Each component cooks separately and arrives on the same wide platter: braised re
 - 1 chorizo (Colombian-style or Spanish chorizo)
 - 1 thin steak (sirloin or skirt, 100-120 g per person)
 - ½ ripe plantain (sliced lengthways and fried - tajadas)
-- 1 large egg
+- 1 egg (large)
 - ½ ripe avocado
 - 1 arepa de maíz blanco (white-corn arepa, 1 per person)
 - Vegetable oil for frying

@@ -31,7 +31,7 @@ A classic karahi curry inspired by Imran’s in Birmingham, featuring tender chi
 - 2 tbsp garlic and ginger paste
 - 1 quantity fried onions
 - 1 tbsp pungent dried red chilli flakes
-- 2 large tomatoes, diced
+- 2 tomatoes (large), diced
 
 ### Spices
 - 1 ½ tbsp ground cumin

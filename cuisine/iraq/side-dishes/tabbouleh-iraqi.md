@@ -16,8 +16,8 @@ Fine bulgur soaks in just enough boiling water to absorb (no draining). Parsley,
 
 - 80 g fine bulgur (#1 grade)
 - 120 ml boiling water (for soaking)
-- 2 medium tomatoes (deseeded, fine dice)
-- 1 medium cucumber (deseeded, fine dice)
+- 2 tomatoes (medium, deseeded, fine dice)
+- 1 cucumber (medium, deseeded, fine dice)
 - 4 spring onions (sliced thin)
 - 1 large bunch fresh parsley (60 g, very finely chopped)
 - ½ small bunch fresh mint (20 g, very finely chopped)

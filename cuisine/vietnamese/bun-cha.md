@@ -15,7 +15,7 @@ Two cuts of pork (sliced belly and seasoned mince patties) are marinated in a fi
 
 ### Marinade
 - ¼ cup fish sauce
-- 4 small Asian shallots (or 2 eschallots, finely chopped)
+- 4 Asian shallots (small, or 2 eschallots, finely chopped)
 - 6 garlic cloves (finely chopped)
 - 1 tablespoon dark soy sauce
 - 1 tablespoon white sugar

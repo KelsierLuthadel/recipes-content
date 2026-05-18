@@ -16,14 +16,14 @@ Beef tenderloin or sirloin is cubed small. A spice mix of cumin, coriander, card
 
 - 600 g beef sirloin or tenderloin (cut into 1 ½ cm cubes)
 - 3 tablespoons vegetable oil
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 1 red pepper (chopped)
 - 1 green pepper (chopped)
 - 5 garlic cloves (crushed)
 - 2 cm fresh ginger (grated)
 - 1 long green chilli (finely chopped)
 - 2 tablespoons tomato paste
-- 2 medium tomatoes (chopped)
+- 2 tomatoes (medium, chopped)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - ½ teaspoon ground cardamom

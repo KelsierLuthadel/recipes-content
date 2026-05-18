@@ -16,7 +16,7 @@ Few dishes feel as woven into American summer as potato salad. It appears at bac
 
 ### Salad
 - 1 kg waxy potatoes (Charlotte, Maris Peer or Yukon Gold), peeled and cubed
-- 4 large eggs
+- 4 eggs (large)
 - 2 celery sticks, finely diced
 - ½ small red onion, finely diced
 - 3 tbsp dill pickles, finely chopped

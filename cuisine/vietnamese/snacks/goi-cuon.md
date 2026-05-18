@@ -17,7 +17,7 @@ Pork belly is simmered until tender, prawns are poached briefly, and vermicelli 
 
 ### Protein
 - 300 g piece of pork belly (skin-on or off, your preference)
-- 12 large raw prawns (peeled, deveined, tails removed)
+- 12 raw prawns (large, peeled, deveined, tails removed)
 - 1 thumb-sized piece of ginger (sliced)
 - 1 spring onion (cut into 3 pieces)
 - 1 teaspoon fine sea salt

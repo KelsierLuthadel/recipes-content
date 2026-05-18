@@ -16,7 +16,7 @@ Onion is softened in oil; tomato paste is fried until darker and aromatic; rice 
 
 - 500 g basmati rice (rinsed and soaked 30 minutes)
 - 4 tablespoons vegetable oil
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 4 garlic cloves (crushed)
 - 4 tablespoons tomato paste
 - 1 ½ teaspoons baharat
@@ -25,7 +25,7 @@ Onion is softened in oil; tomato paste is fried until darker and aromatic; rice 
 - ½ teaspoon turmeric
 - 1.1 litres hot water (or chicken/lamb stock)
 - 1 ½ teaspoons salt
-- 2 medium potatoes (sliced 5 mm thick rounds)
+- 2 potatoes (medium, sliced 5 mm thick rounds)
 - 2 tablespoons unsalted butter
 
 ### Topping

@@ -15,7 +15,7 @@ Cooked long-grain rice (slightly over-cooked, soft) mashes lightly with sugar, b
 ## Ingredients
 
 - 300 g cooked long-grain rice (slightly soft - see Notes)
-- 2 large eggs (beaten)
+- 2 eggs (large, beaten)
 - 80 g caster sugar
 - 80 ml whole milk
 - 1 teaspoon vanilla extract

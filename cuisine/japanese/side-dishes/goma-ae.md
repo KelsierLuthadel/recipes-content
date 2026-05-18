@@ -15,10 +15,10 @@ Spinach (or green beans, asparagus, kale) blanches briefly in salted boiling wat
 ## Ingredients
 
 ### Vegetable (pick one)
-- **Spinach (classic)**: 400 g fresh spinach (washed)
-- **Green beans**: 400 g fresh green beans (trimmed)
-- **Asparagus**: 500 g fresh asparagus (woody ends snapped off)
-- **Broccoli**: 500 g broccoli (cut into florets)
+- 400 g fresh spinach (washed)
+- 400 g fresh green beans (trimmed)
+- 500 g fresh asparagus (woody ends snapped off)
+- 500 g broccoli (cut into florets)
 
 ### Blanching
 - 2 teaspoons salt (for the boiling water)

@@ -22,7 +22,7 @@ Dried beans (chickpeas + kidney beans + green lentils, OR the popular cheat of m
 
 ### Base
 - 4 tablespoons sunflower oil
-- 2 large onions (one finely diced, one sliced thin and reserved for the topping)
+- 2 onions (large, one finely diced, one sliced thin and reserved for the topping)
 - 1 ½ teaspoons ground turmeric
 - 2 teaspoons salt
 - 2 ½ litres water or vegetable stock
@@ -39,7 +39,7 @@ Dried beans (chickpeas + kidney beans + green lentils, OR the popular cheat of m
 
 ### Toppings (essential!)
 - 4 tablespoons sunflower oil (for fried onions)
-- 1 large onion (sliced thin, fried deep brown - about 12 minutes)
+- 1 onion (large, sliced thin, fried deep brown - about 12 minutes)
 - 3 tablespoons sunflower oil (for mint oil)
 - 6 garlic cloves (sliced thin)
 - 2 tablespoons dried mint

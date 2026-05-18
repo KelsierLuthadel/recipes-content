@@ -16,7 +16,7 @@ A loose batter of flour, egg and water rests briefly, then gets pressed through 
 
 ### Batter
 - 300 g plain flour
-- 3 large eggs
+- 3 eggs (large)
 - 180 ml water
 - 1 ½ teaspoons salt
 

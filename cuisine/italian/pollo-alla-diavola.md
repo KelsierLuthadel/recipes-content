@@ -19,7 +19,7 @@ Two things define the dish: ferocious black pepper and dried chilli (the "diavol
 
 ### Marinade
 - 6 tablespoons extra-virgin olive oil
-- Zest of 2 lemons
+- 2 lemons (zest)
 - Juice of 1 lemon (save the second for serving)
 - 6 garlic cloves (smashed flat with the side of a knife)
 - 2 tablespoons whole black peppercorns (cracked coarsely in a mortar - not ground to dust)

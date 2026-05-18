@@ -19,7 +19,7 @@ A soft eggy yeasted dough mixes, flour, yeast, sugar, salt, butter, egg, milk an
 - 60 g caster sugar
 - 1 teaspoon salt
 - 30 g unsalted butter (melted)
-- 1 large egg (beaten)
+- 1 egg (large, beaten)
 - 200 ml warm whole milk
 - 100 ml evaporated milk (or more whole milk)
 - 1 ½ litres vegetable oil for deep frying

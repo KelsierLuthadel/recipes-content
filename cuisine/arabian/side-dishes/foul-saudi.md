@@ -31,7 +31,7 @@ Dried fava beans soak overnight, then simmer with a chickpea or two and a garlic
 
 ### To serve
 - 1 tomato (diced)
-- 1 small onion (diced)
+- 1 onion (small, diced)
 - Lemon wedges
 - Khubz tameez or pita
 

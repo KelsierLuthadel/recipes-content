@@ -16,9 +16,9 @@ A grated onion (juice squeezed out) folds into beef-or-pork-and-beef mince with 
 
 ### Meatballs
 - 500 g beef mince (or 50/50 beef and pork)
-- 1 large onion (grated, then squeezed dry through a tea towel - keep the juice for the pan)
+- 1 onion (large, grated, then squeezed dry through a tea towel - keep the juice for the pan)
 - 60 g day-old white bread (crusts off, soaked in 100 ml milk, then squeezed dry)
-- 1 large egg
+- 1 egg (large)
 - 3 garlic cloves (finely minced)
 - 2 tablespoons fresh flat-leaf parsley (chopped)
 - 1 tablespoon dried Greek oregano

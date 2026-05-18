@@ -31,7 +31,7 @@ A sweet-spicy BIR-style mango chicken curry with plenty of tropical fruit bright
 
 ### Protein and fruit
 - 700 g (1 lb 9 oz) pre-cooked chicken
-- 1 small mango, cut into bite-size chunks (or canned mango)
+- 1 mango (small), cut into bite-size chunks (or canned mango)
 
 ### Finishers
 - Salt, to taste

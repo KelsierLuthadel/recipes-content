@@ -15,7 +15,7 @@ Fresh corn kernels (or thawed frozen) blend with cream, eggs, melted butter, sug
 ## Ingredients
 
 - 800 g sweetcorn kernels (fresh from 6-8 cobs, or frozen thawed)
-- 4 large eggs
+- 4 eggs (large)
 - 300 ml double cream
 - 100 ml whole milk
 - 80 g unsalted butter (melted)

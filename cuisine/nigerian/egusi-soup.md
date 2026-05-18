@@ -16,13 +16,13 @@ Beef or goat is parboiled with onion, stock cube and salt to make a base stock. 
 
 ### Meat and base
 - 500 g beef shin or goat shoulder (cut into 3 cm chunks)
-- 1 large onion (halved; one half left whole, the other chopped finely)
+- 1 onion (large, halved; one half left whole, the other chopped finely)
 - 1 stock cube (Maggi or chicken)
 - 1 teaspoon salt
 - 700 ml water
 
 ### Pepper paste
-- 1 large onion (the chopped half, plus another if you like it onion-forward)
+- 1 onion (large, the chopped half, plus another if you like it onion-forward)
 - 2 red bell peppers (deseeded, rough chunks)
 - 1-2 Scotch bonnet chillies (deseeded for less heat - leave seeds if you can take it)
 - 4 garlic cloves

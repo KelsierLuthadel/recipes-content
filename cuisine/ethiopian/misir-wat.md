@@ -14,7 +14,7 @@ Onions cook slowly in oil or niter kibbeh until they melt and turn jammy. Berber
 
 ## Ingredients
 
-- 3 large onions (very finely chopped)
+- 3 onions (large, very finely chopped)
 - 60 ml vegetable oil (or 50 g niter kibbeh; see notes)
 - 6 garlic cloves (crushed)
 - 2 cm fresh ginger (grated)

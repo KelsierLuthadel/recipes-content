@@ -18,10 +18,10 @@ Chicken thighs (or lamb) are browned, onions and tomato cooked down with garlic 
 ### Stew
 - 8 bone-in chicken thighs, skin removed (or 800 g lamb neck, cut in chunks)
 - 2 tablespoons vegetable oil
-- 2 large onions (finely chopped)
+- 2 onions (large, finely chopped)
 - 4 garlic cloves (crushed)
 - 2 tablespoons tomato purée
-- 2 medium tomatoes (chopped)
+- 2 tomatoes (medium, chopped)
 - 1 Scotch bonnet chilli (left whole)
 - 2 bay leaves
 - 1 Maggi cube

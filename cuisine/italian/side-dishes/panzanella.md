@@ -20,8 +20,8 @@ Day-old crusty bread is torn into rough pieces and briefly moistened with water-
 
 ### Vegetables
 - 700 g ripe summer tomatoes (the best you can find - mixed colours / shapes / sizes is ideal)
-- 1 large cucumber (peeled in alternating stripes, deseeded, sliced 5 mm)
-- 1 small red onion (sliced thin)
+- 1 cucumber (large, peeled in alternating stripes, deseeded, sliced 5 mm)
+- 1 red onion (small, sliced thin)
 - Cold water + 1 tablespoon vinegar (for soaking the onion)
 
 ### Dressing

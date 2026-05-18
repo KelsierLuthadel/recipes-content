@@ -31,7 +31,7 @@ Chicken pieces are rubbed with a spice paste of garlic, ginger, saffron, turmeri
 
 ### Tagine
 - 3 tablespoons olive oil
-- 2 large onions (sliced thin)
+- 2 onions (large, sliced thin)
 - 1 cinnamon stick
 - 300 ml water (or light chicken stock)
 

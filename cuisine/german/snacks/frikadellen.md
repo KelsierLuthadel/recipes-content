@@ -20,9 +20,9 @@ A bread roll soaks in milk, squeezes out and mixes with minced pork and beef, fi
 - 100 ml whole milk
 - 350 g minced pork (about 20% fat)
 - 350 g minced beef (about 15% fat)
-- 1 large onion (very finely chopped)
+- 1 onion (large, very finely chopped)
 - 1 tablespoon butter (for sweating the onion)
-- 1 large egg
+- 1 egg (large)
 - 2 tablespoons German or Dijon mustard
 - 2 teaspoons dried marjoram
 - 2 teaspoons fine salt

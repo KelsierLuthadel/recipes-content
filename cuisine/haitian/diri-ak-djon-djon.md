@@ -21,7 +21,7 @@ Dried djon djon mushrooms are soaked in hot water for 30 minutes; the inky black
 
 ### Rice
 - 4 tablespoons vegetable oil (or 2 tablespoons oil and 30 g butter)
-- 1 large shallot (finely chopped)
+- 1 shallot (large, finely chopped)
 - 6 garlic cloves (finely chopped)
 - 1 Scotch bonnet (whole, pierced; remove before serving)
 - 2 sprigs fresh thyme

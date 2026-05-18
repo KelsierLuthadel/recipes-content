@@ -18,7 +18,7 @@ An American weeknight pasta that compresses a Hamburger Helper-style box meal in
 - 450 g (1 lb) ground beef (grass-fed)
 - Salt and freshly ground black pepper
 - 1 teaspoon garlic powder
-- 1 large shallot (finely chopped)
+- 1 shallot (large, finely chopped)
 - 450 g (1 lb) dried short pasta (rigatoni recommended)
 - 950 ml chicken or beef broth
 - 240 ml heavy cream

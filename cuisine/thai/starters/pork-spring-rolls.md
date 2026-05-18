@@ -48,7 +48,7 @@ Made popular by Chinese restaurants and takeaways, these are another menu item t
 - 6 tbsp rapeseed (canola) oil, plus 750ml (3 cups) for deep-frying
 
 ### Other
-- 30 x 10cm (4in) spring roll wrappers
+- 300cm (4in) spring roll wrappers
 - 1 egg, beaten
 
 ### Serving

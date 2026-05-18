@@ -18,7 +18,7 @@ A British-Indian pathia curry with a sweet-and-sour profile, tuned for balanced 
 ## Ingredients
 ### Fat and aromatics
 - 4 tbsp rapeseed (canola) oil or seasoned oil
-- 1 small onion, very finely chopped
+- 1 onion (small), very finely chopped
 - 2 tbsp garlic and ginger paste
 - Salt, to taste
 

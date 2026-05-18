@@ -20,7 +20,7 @@ A steamed suet pudding: self-raising flour, shredded beef suet (or vegetarian su
 - 80 g caster sugar
 - A pinch of salt
 - ½ teaspoon ground cinnamon (optional)
-- Zest of 1 lemon
+- 1 lemon (zest)
 - 150 g currants
 - 100 g sultanas
 - 200-250 ml whole milk
@@ -37,7 +37,7 @@ A steamed suet pudding: self-raising flour, shredded beef suet (or vegetarian su
 
 ### Custard (or use shop-bought)
 - 500 ml whole milk
-- 4 large egg yolks
+- 4 egg yolks (large)
 - 60 g caster sugar
 - 1 vanilla pod (split and scraped) or 1 teaspoon vanilla extract
 - 1 tablespoon cornflour

@@ -23,7 +23,7 @@ Sweet shortcrust pastry chills for 30 min. Filling: butter + flour make a blonde
 ### Filling
 - 50 g unsalted butter
 - 30 g plain flour
-- 1 medium onion (finely diced)
+- 1 onion (medium, finely diced)
 - 2 celery stalks (finely diced)
 - ½ green pepper (finely diced)
 - 3 garlic cloves (minced)

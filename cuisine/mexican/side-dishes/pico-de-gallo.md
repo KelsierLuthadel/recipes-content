@@ -14,7 +14,7 @@ Ripe tomato, white onion, jalapeño and coriander are chopped fine and tossed wi
 
 ## Ingredients
 - 4 ripe tomatoes (about 500 g, deseeded and finely diced)
-- 1 small white onion (finely diced)
+- 1 white onion (small, finely diced)
 - 1-2 jalapeños (seeded and finely chopped)
 - A large handful of fresh coriander (chopped, stems included)
 - Juice of 2 limes

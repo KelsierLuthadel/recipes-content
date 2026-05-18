@@ -26,20 +26,20 @@ A chicken yakhni (broth) is built first by simmering chicken pieces with onion, 
 - 1 black cardamom pod
 - 4 cloves
 - 2 bay leaves
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 1 teaspoon salt
 - 1.2 litres water
 
 ### Pulao
 - 400 g aged basmati rice (rinsed, soaked for 30 minutes)
 - 4 tablespoons ghee
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 4 green cardamom pods (lightly crushed)
 - 1 black cardamom pod
 - 4 cloves
 - 1 bay leaf
 - 1 teaspoon cumin seeds
-- 1 large onion (finely sliced)
+- 1 onion (large, finely sliced)
 - 6 garlic cloves (finely chopped)
 - 25 g fresh ginger (finely grated)
 - 2 green chillies (slit)

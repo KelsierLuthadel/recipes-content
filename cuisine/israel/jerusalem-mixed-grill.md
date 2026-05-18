@@ -17,7 +17,7 @@ Chicken thigh, liver and heart sear hard in a wide pan with onions; spices bloom
 - 400 g boneless chicken thighs (cut into 1 ½ cm strips)
 - 200 g chicken livers (trimmed, cut in half)
 - 200 g chicken hearts (cleaned, halved)
-- 4 large onions (sliced)
+- 4 onions (large, sliced)
 - 4 tablespoons vegetable oil
 - 2 teaspoons ground cumin
 - 1 ½ teaspoons ground turmeric

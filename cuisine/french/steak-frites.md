@@ -33,7 +33,7 @@ The frites take the longest (peel, cut, soak, fry low, drain, fry high) so start
 - 1 shallot (finely chopped)
 - 1 tablespoon fresh tarragon (chopped)
 - 4 black peppercorns
-- 3 large egg yolks
+- 3 egg yolks (large)
 - 200 g unsalted butter (melted, kept warm)
 - Salt
 - An extra tablespoon of fresh tarragon (to finish)

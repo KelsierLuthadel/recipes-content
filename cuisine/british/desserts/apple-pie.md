@@ -18,7 +18,7 @@ Buttery shortcrust rests then rolls; one disc lines a pie dish, fills with slice
 - 350 g plain flour
 - 175 g cold unsalted butter (cubed)
 - 75 g caster sugar
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 3-4 tablespoons ice-cold water
 - ½ teaspoon salt
 

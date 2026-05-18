@@ -16,7 +16,7 @@ A soft eggy dough is rolled into 7-8 paper-thin discs (closer to filo than to br
 
 ### Dough
 - 400 g plain flour
-- 2 large eggs
+- 2 eggs (large)
 - 1 teaspoon salt
 - 1 tablespoon caster sugar
 - 200 ml warm milk

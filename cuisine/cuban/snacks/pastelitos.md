@@ -22,7 +22,7 @@ All-butter puff pastry (homemade if you've the patience, shop-bought all-butter 
 - 250 g full-fat cream cheese (cold; the firm block kind, not whipped)
 
 ### Egg wash and finish
-- 1 large egg (beaten with 1 teaspoon water and a pinch of salt)
+- 1 egg (large, beaten with 1 teaspoon water and a pinch of salt)
 - 50 g caster sugar
 - 50 ml water
 - ½ teaspoon vanilla extract

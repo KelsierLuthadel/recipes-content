@@ -15,8 +15,8 @@ These Cuban-style burgers are a vibrant fusion of Spanish and Cuban influences, 
 - 27 grams Spanish chorizo
 - 454 grams pork mince
 - 36 grams dried bread crumbs
-- 1 large egg (beaten)
-- 1 small yellow onion (minced)
+- 1 egg (large, beaten)
+- 1 yellow onion (small, minced)
 - 50 grams green bell pepper (minced)
 - 1 clove garlic (minced)
 - ¼ tsp. kosher salt

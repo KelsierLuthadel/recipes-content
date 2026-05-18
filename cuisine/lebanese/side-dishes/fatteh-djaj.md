@@ -16,7 +16,7 @@ Chicken poaches with onion, cardamom and bay 35 minutes; shredded off the bone. 
 
 ### Chicken
 - 4 bone-in skin-on chicken thighs
-- 1 small onion (halved)
+- 1 onion (small, halved)
 - 4 cardamom pods (bruised)
 - 1 cinnamon stick
 - 2 bay leaves
@@ -27,7 +27,7 @@ Chicken poaches with onion, cardamom and bay 35 minutes; shredded off the bone. 
 - 1 (400 g) tin chickpeas (drained and rinsed) - or 200 g dried, soaked and cooked
 
 ### Pita
-- 2 large pita breads (split open and torn into 3-4 cm pieces)
+- 2 pita breads (large, split open and torn into 3-4 cm pieces)
 - 2 tablespoons olive oil
 
 ### Yogurt sauce
@@ -41,7 +41,7 @@ Chicken poaches with onion, cardamom and bay 35 minutes; shredded off the bone. 
 - 4 tablespoons unsalted butter or ghee
 - 4 garlic cloves (sliced)
 - 1 teaspoon ground cumin
-- 1 teaspoon Aleppo pepper or chilli flakes
+- 1 teaspoon chilli flakes
 
 ### Garnish
 - 4 tablespoons pine nuts (toasted)

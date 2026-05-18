@@ -20,7 +20,7 @@ Soft butter-yellow biscuits with a layer of crystalline white sugar pressed into
 - 2 eggs
 - 1 teaspoon baking soda
 - 1 teaspoon baking powder
-- ~250 g plain flour (added gradually until firm)
+- 250 g plain flour (added gradually until firm)
 - Extra caster sugar, for topping
 
 ## Method

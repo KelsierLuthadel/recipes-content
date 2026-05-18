@@ -17,7 +17,7 @@ The musakhan filling: red onions (LOTS, for the dish to work, you need 4-5 large
 ### Filling
 - 500 g cooked chicken (poached or rotisserie; pulled into shreds - leftover roast chicken works ideally)
 - 6 tablespoons extra-virgin olive oil
-- 5 large red onions (sliced thin - about 1 kg)
+- 5 red onions (large, sliced thin - about 1 kg)
 - 1 teaspoon salt
 - 3 tablespoons sumac (the tart purple Levantine spice)
 - 1 teaspoon Aleppo pepper
@@ -28,7 +28,7 @@ The musakhan filling: red onions (LOTS, for the dish to work, you need 4-5 large
 - 3 tablespoons fresh parsley (chopped)
 
 ### Wrappers
-- 6 large markook breads (Palestinian thin flatbread; sold at Middle Eastern shops)
+- 6 markook breads (large, Palestinian thin flatbread; sold at Middle Eastern shops)
 - OR substitute 12 lavash sheets, OR 6 large flour tortillas cut in half
 
 ### To finish

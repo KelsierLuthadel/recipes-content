@@ -16,7 +16,7 @@ Filling: fresh cheese (ricotta, paneer, or feta + cream cheese) mashes with a be
 
 ### Filling
 - 250 g fresh soft cheese (Moroccan jben or substitute: 150 g ricotta + 100 g crumbled feta + 1 tablespoon cream cheese)
-- 1 large egg
+- 1 egg (large)
 - 20 g fresh flat-leaf parsley (chopped)
 - 15 g fresh mint (chopped)
 - 1 teaspoon ground cumin
@@ -26,7 +26,7 @@ Filling: fresh cheese (ricotta, paneer, or feta + cream cheese) mashes with a be
 ### Pastry
 - 18 sheets warka or filo pastry (about 25 × 25 cm - cut filo to size if larger)
 - 2 tablespoons olive oil (for brushing the strips lightly)
-- 1 large egg (beaten, for sealing)
+- 1 egg (large, beaten, for sealing)
 
 ### Frying
 - 600 ml neutral oil

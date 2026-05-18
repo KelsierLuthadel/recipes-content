@@ -18,7 +18,7 @@ Andouille sausage, the heavily smoked, garlicky, Cajun pork sausage, is cut into
 - 600 g andouille sausage, cut into 1.5 cm thick coins
 - 2 red peppers, deseeded and cut into 3 cm chunks
 - 1 green pepper, deseeded and cut into 3 cm chunks
-- 1 large red onion, cut into 3 cm chunks (then separated into 2-layer pieces)
+- 1 red onion (large), cut into 3 cm chunks (then separated into 2-layer pieces)
 - 16 cherry tomatoes (optional)
 
 ### Glaze

@@ -15,7 +15,7 @@ Roasted red pepper (jarred or homemade) blends with feta, cream cheese, garlic, 
 ## Ingredients
 - 200 g feta cheese (Greek, in brine)
 - 100 g cream cheese (full-fat)
-- 1 large roasted red pepper (about 100 g, jarred is fine - drained well)
+- 1 roasted red pepper (large, about 100 g, jarred is fine - drained well)
 - 1-2 fresh red chillies (deseeded if mild heat desired)
 - 1 garlic clove (small, peeled)
 - 3 tablespoons extra virgin olive oil

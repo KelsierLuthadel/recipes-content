@@ -36,7 +36,7 @@ Pork belly is hand-diced into 1 cm cubes (skin on), parboiled, then braised slow
 - 700 ml water or unsalted chicken stock
 
 ### To serve
-- 4 large eggs (soft-boiled, peeled)
+- 4 eggs (large, soft-boiled, peeled)
 - Steamed jasmine rice
 - Pickled mustard greens or quick-pickled cucumber
 - 1 spring onion (finely sliced)

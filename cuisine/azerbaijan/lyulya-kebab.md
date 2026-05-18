@@ -16,7 +16,7 @@ Fatty lamb shoulder gets minced twice or pulsed in a food processor until smooth
 
 ### Meat
 - 800 g lamb shoulder mince (20-25% fat is essential)
-- 1 large onion (about 200 g)
+- 1 onion (large, about 200 g)
 - 2 teaspoons salt
 - 1 teaspoon ground black pepper
 - 1 teaspoon ground sumac

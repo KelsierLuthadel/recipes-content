@@ -20,7 +20,7 @@ Cleaned lamb or goat trotters are blanched, scraped clean and then simmered slow
 
 ### Masala
 - 5 tablespoons ghee or sunflower oil
-- 3 medium onions (sliced)
+- 3 onions (medium, sliced)
 - 3 tablespoons ginger-garlic paste
 - 1 ½ teaspoons Kashmiri red chilli powder
 - ½ teaspoon ordinary chilli powder
@@ -39,7 +39,7 @@ Cleaned lamb or goat trotters are blanched, scraped clean and then simmered slow
 
 ### Tarka
 - 4 tablespoons ghee
-- 1 large onion (sliced thin, fried golden)
+- 1 onion (large, sliced thin, fried golden)
 - 1 teaspoon cumin seeds
 
 ### To finish (set at the table)

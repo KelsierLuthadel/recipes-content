@@ -21,10 +21,10 @@ Short-grain rice (paella-style or pudding rice) cooks slow in a mix of water the
 - 1 strip of orange zest (optional)
 - A pinch of salt
 - 750 ml whole milk
-- 1 × 397 g tin sweetened condensed milk
+- 397 g tin sweetened condensed milk
 - 1 teaspoon vanilla extract
 - 20 g unsalted butter (optional, for richness)
-- 1 large egg yolk (optional, for a custardy finish)
+- 1 egg yolk (large, optional, for a custardy finish)
 
 ### To serve
 - Ground cinnamon, for dusting

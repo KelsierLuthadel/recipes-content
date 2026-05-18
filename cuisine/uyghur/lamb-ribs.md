@@ -24,7 +24,7 @@ Lamb fat rendered slowly into a paprika-and-cumin glaze, with naan acting as bot
 - 1 green pointed paprika (cut into triangles)
 - 1 onion (sliced)
 - 200 ml water
-- 1 large fresh-baked naan (Bazaar naan or similar), cut into pizza-like wedges
+- 1 fresh-baked naan (large, Bazaar naan or similar), cut into pizza-like wedges
 
 ## Method
 

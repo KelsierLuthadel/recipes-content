@@ -18,7 +18,7 @@ Of the four main ramen styles, shoyu (soy) is the cleanest and most aromatic, le
 - 2 carrots (cut into small pieces)
 
 ### Broth
-- 2 x 20 cm pieces kombu
+- 40 cm pieces kombu
 - 6 dried shiitake mushrooms
 - 6 spring onions (plus extra finely sliced to serve)
 - 1 head of garlic (halved)

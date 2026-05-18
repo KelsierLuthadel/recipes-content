@@ -19,7 +19,7 @@ Lamb chunks are braised gently with turmeric, ginger-garlic paste and a small ha
 - 1 teaspoon turmeric
 - 1 tablespoon ginger-garlic paste (or 1 tablespoon each finely grated ginger and garlic)
 - 1 teaspoon salt
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 4 cloves
 - 2 green cardamom pods
 - 600 ml water
@@ -32,7 +32,7 @@ Lamb chunks are braised gently with turmeric, ginger-garlic paste and a small ha
 - 4 dried Kashmiri chillies (or 2 Kashmiri + 1 hotter)
 - 30 g fresh grated coconut (or 25 g desiccated coconut, rehydrated in 2 tablespoons of warm water)
 - 2 cloves
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 
 ### To finish
 - 3 tablespoons coconut oil (or sesame/gingelly oil)

@@ -16,7 +16,7 @@ Chicken thighs poach with onion, bay, cardamom and cinnamon to make a fragrant s
 
 ### Chicken stock
 - 4 bone-in skin-on chicken thighs (or 1 small whole chicken jointed)
-- 1 medium onion (halved)
+- 1 onion (medium, halved)
 - 2 bay leaves
 - 4 green cardamom pods (bruised)
 - 1 cinnamon stick
@@ -34,7 +34,7 @@ Chicken thighs poach with onion, bay, cardamom and cinnamon to make a fragrant s
 - 10 garlic cloves (crushed)
 - 1 tablespoon ground coriander
 - 1 small bunch fresh coriander (chopped - both leaves and stems)
-- ½ teaspoon Aleppo pepper or chilli flakes
+- ½ teaspoon chilli flakes
 
 ### To finish
 - 1 teaspoon salt (to taste)
@@ -43,7 +43,7 @@ Chicken thighs poach with onion, bay, cardamom and cinnamon to make a fragrant s
 ### To serve
 - 400 g basmati rice (cooked, fluffy)
 - 2 lemons (cut into wedges)
-- 1 small red onion (diced and soaked briefly in vinegar - optional Palestinian-style relish)
+- 1 red onion (small, diced and soaked briefly in vinegar - optional Palestinian-style relish)
 - Khobz or pita
 
 ## Method

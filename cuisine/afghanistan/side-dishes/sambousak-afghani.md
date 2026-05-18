@@ -17,8 +17,8 @@ Lamb mince is fried with onion, leek, garlic, ginger, ground coriander, cumin, c
 ### Filling
 - 400 g lamb mince
 - 2 tablespoons vegetable oil
-- 1 medium onion (very finely chopped)
-- 2 medium leeks (white and pale-green only, finely chopped)
+- 1 onion (medium, very finely chopped)
+- 2 leeks (medium, white and pale-green only, finely chopped)
 - 4 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
 - 1 ½ teaspoons ground cumin

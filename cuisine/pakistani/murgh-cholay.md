@@ -16,7 +16,7 @@ Onion fries in oil until deep gold; ginger-garlic paste joins and is fried for 1
 
 ### Curry base
 - 4 tablespoons sunflower oil or ghee
-- 2 medium onions (finely diced)
+- 2 onions (medium, finely diced)
 - 2 tablespoons ginger-garlic paste
 - 1 ½ teaspoons ground cumin
 - 1 ½ teaspoons ground coriander
@@ -25,7 +25,7 @@ Onion fries in oil until deep gold; ginger-garlic paste joins and is fried for 1
 - ½ teaspoon ordinary chilli powder (to taste)
 - 1 teaspoon garam masala
 - ½ teaspoon black pepper
-- 4 medium tomatoes (chopped fine - or 1 x 400 g tin chopped tomatoes)
+- 4 tomatoes (medium, chopped fine - or 1 x 400 g tin chopped tomatoes)
 - 1 ½ teaspoons salt (to taste)
 
 ### Mains

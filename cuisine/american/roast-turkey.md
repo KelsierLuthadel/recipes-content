@@ -28,11 +28,11 @@ A whole roast turkey is the centrepiece of the American Thanksgiving table and m
 - 2 tbsp finely chopped fresh sage leaves
 - 2 tbsp finely chopped fresh rosemary leaves
 - 2 tbsp finely chopped flat-leaf parsley
-- Zest of 1 lemon
+- 1 lemon (zest)
 - 1 tsp freshly ground black pepper
 
 ### Pan aromatics
-- 1 large onion (quartered, skin on)
+- 1 onion (large, quartered, skin on)
 - 2 carrots (cut in chunks)
 - 3 celery sticks (cut in chunks)
 - 1 head garlic (halved through the equator)

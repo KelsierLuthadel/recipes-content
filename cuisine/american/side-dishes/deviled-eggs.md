@@ -15,7 +15,7 @@ Deviled eggs are one of America's most enduring party foods, a fixture of Easter
 ## Ingredients
 
 ### Eggs
-- 6 large eggs, at least a week old (older eggs peel more easily)
+- 6 eggs (large), at least a week old (older eggs peel more easily)
 - 1 tsp white vinegar (for the cooking water)
 
 ### Filling

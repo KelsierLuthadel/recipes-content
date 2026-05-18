@@ -21,7 +21,7 @@ A pizza built on layered heat: nduja, roquito peppers, fresh green chilli, Calab
 - 45 grams mozzarella (cubed)
 - 30 grams nduja sausage (optional, from a good Italian deli)
 - 30 grams roquito peppers (chopped)
-- 4 large fresh green chillies (finely sliced)
+- 4 fresh green chillies (large, finely sliced)
 - ¼ yellow pepper (sliced)
 - ¼ red pepper (sliced)
 - 20 grams Grana Padano (grated)

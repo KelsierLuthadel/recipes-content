@@ -15,9 +15,9 @@ Ice-cold sparkling water meets soft flour in a barely-stirred batter; the batter
 ## Ingredients
 
 ### Tempura
-- 8 large raw king prawns (peeled, tails on, deveined)
+- 8 raw king prawns (large, peeled, tails on, deveined)
 - 1 sweet potato (peeled, sliced 5 mm thick)
-- 1 small aubergine (cut into wedges)
+- 1 aubergine (small, cut into wedges)
 - 1 courgette (sliced thick on the diagonal)
 - 8 green beans (trimmed)
 - 8 shiitake mushrooms (or chestnut)
@@ -27,7 +27,7 @@ Ice-cold sparkling water meets soft flour in a barely-stirred batter; the batter
 - 150 g plain flour
 - 50 g cornflour
 - 250 ml sparkling water (ice cold, straight from the fridge)
-- 1 large egg yolk
+- 1 egg yolk (large)
 - A few ice cubes (in the batter to keep it cold)
 
 ### Tentsuyu (dipping sauce)

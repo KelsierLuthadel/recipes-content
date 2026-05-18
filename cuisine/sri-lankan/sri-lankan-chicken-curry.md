@@ -19,7 +19,7 @@ Whole spices dry-toast until smoky, then grind to a Sri Lankan curry powder (cor
 - 1 tablespoon cumin seeds
 - 1 tablespoon fennel seeds
 - 4 cardamom pods
-- 1 small cinnamon stick (or 1 teaspoon ground)
+- 1 cinnamon stick (small, or 1 teaspoon ground)
 - 4 cloves
 - ½ teaspoon fenugreek seeds
 - 4 dried red chillies
@@ -27,18 +27,18 @@ Whole spices dry-toast until smoky, then grind to a Sri Lankan curry powder (cor
 ### Curry
 - 1 kg chicken thighs and drumsticks (bone-in, skin removed)
 - 3 tablespoons coconut oil
-- 2 large onions (sliced thin)
+- 2 onions (large, sliced thin)
 - 6 garlic cloves (crushed)
 - 3 cm fresh ginger (grated)
 - 2 sprigs fresh curry leaves
 - 1 pandan leaf (knotted; or 4 kaffir lime leaves)
 - 1 stalk lemongrass (bashed)
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 2 teaspoons ground turmeric
 - 2 teaspoons sweet paprika
 - 1-2 long green chillies (slit lengthwise)
 - 1 tablespoon Maldive fish flakes (or fish sauce; optional)
-- 1 x 400 ml tin coconut milk (separated into thick and thin - see method)
+- 400 ml tin coconut milk (separated into thick and thin - see method)
 - 200 ml chicken stock or water
 - 2 teaspoons salt (or to taste)
 - Juice of half a lime

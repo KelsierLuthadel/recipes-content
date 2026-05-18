@@ -21,7 +21,7 @@ Guizhou lazi ji is the southwest's answer to the Sichuan chongqing lazi ji, but 
 
 ### Braise
 - 240 ml vegetable oil
-- 1 small whole chicken (about 900 g), cut into 4 cm pieces, bone-in
+- 1 whole chicken (small, about 900 g), cut into 4 cm pieces, bone-in
 - 1 tbsp Pixian doubanjiang
 - 15 g fresh ginger, roughly chopped
 - 3 garlic cloves, smashed

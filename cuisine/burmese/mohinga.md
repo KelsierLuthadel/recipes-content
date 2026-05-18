@@ -16,7 +16,7 @@ Catfish (or any firm white fish) cooks first in spiced water; the cooked flesh s
 
 ### Fish
 - 600 g firm white fish (catfish, basa, sea bream; whole or fillets)
-- 1 small onion (quartered)
+- 1 onion (small, quartered)
 - 2 cm ginger (sliced)
 - 1 stalk lemongrass (bashed)
 - 1 teaspoon salt

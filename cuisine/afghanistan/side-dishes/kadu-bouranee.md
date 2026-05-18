@@ -16,7 +16,7 @@ Pumpkin (or butternut squash) cubes brown briefly in oil with chopped onion; sug
 
 - 800 g pumpkin or butternut squash (peeled, cut into 4 cm chunks)
 - 4 tablespoons vegetable oil
-- 1 medium onion (chopped)
+- 1 onion (medium, chopped)
 - 4 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
 - 1 fresh tomato (grated) or 4 tablespoons passata

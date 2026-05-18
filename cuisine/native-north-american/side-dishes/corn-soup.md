@@ -18,7 +18,7 @@ Dried hulled white corn (nixtamalised, also called posole or hominy corn, distin
 - 1 kg pork hocks (smoked or fresh) - OR 800 g venison neck, OR 2 smoked turkey legs
 - 3 litres water
 - 2 bay leaves
-- 1 large onion (halved)
+- 1 onion (large, halved)
 - 2 garlic cloves (whole)
 - 2 teaspoons salt (to start; adjust)
 - 1 (400 g) tin red kidney beans (drained and rinsed) - OR 200 g dried, soaked and pre-cooked

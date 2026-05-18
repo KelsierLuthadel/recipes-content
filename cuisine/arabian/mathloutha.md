@@ -21,7 +21,7 @@ Lamb shoulder and beef chunks brown and slow-cook in a kabsa-spiced tomato base 
 
 ### Aromatics
 - 3 tablespoons vegetable oil
-- 2 large onions (chopped)
+- 2 onions (large, chopped)
 - 8 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
 - 2 (400 g) tins chopped tomatoes

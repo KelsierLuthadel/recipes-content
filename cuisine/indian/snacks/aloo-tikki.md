@@ -19,7 +19,7 @@ Floury potatoes boil in their skins, then mash dry. A spice paste of green chill
 - 700 g floury potatoes (Maris Piper or King Edward)
 - 2 tablespoons cornflour
 - 2 tablespoons gram flour (besan)
-- 1 small green chilli (finely chopped)
+- 1 green chilli (small, finely chopped)
 - 1 tablespoon ginger (finely grated)
 - 1 small handful coriander leaves (chopped)
 - 1 tablespoon fresh mint (chopped) or 1 teaspoon dried mint
@@ -37,7 +37,7 @@ Floury potatoes boil in their skins, then mash dry. A spice paste of green chill
 - 4 tablespoons thick yoghurt (whisked with a pinch of sugar and salt)
 - 3 tablespoons tamarind chutney
 - 3 tablespoons mint-coriander chutney
-- 1 small red onion (finely chopped)
+- 1 red onion (small, finely chopped)
 - 2 tablespoons pomegranate seeds (optional)
 - 1 teaspoon chaat masala
 - A small handful sev (crisp chickpea noodles; optional)

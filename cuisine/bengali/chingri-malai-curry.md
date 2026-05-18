@@ -27,7 +27,7 @@ Chingri malai curry is one of those rare Bengali dishes that crosses the river: 
 - 4 green cardamom pods, lightly crushed
 - 1 cinnamon stick (4 cm)
 - 4 cloves
-- 1 large onion, pureed to a smooth paste
+- 1 onion (large), pureed to a smooth paste
 - 1 tbsp ginger paste
 - 1 tsp Kashmiri chilli powder
 - ½ tsp turmeric

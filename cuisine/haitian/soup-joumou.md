@@ -30,7 +30,7 @@ Beef shank or stewing beef marinates overnight in épis and citrus, then browns 
 
 ### Soup base
 - 2 tablespoons olive oil
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 4 garlic cloves (crushed)
 - 2 sprigs fresh thyme
 - 2 bay leaves
@@ -40,11 +40,11 @@ Beef shank or stewing beef marinates overnight in épis and citrus, then browns 
 
 ### Vegetables and pasta
 - 3 carrots (peeled, cut into 2 cm chunks)
-- 2 medium turnips (peeled, cubed)
+- 2 turnips (medium, peeled, cubed)
 - 2 celery stalks (sliced)
 - 2 leeks (white and pale green, sliced)
 - ¼ small green cabbage (shredded)
-- 2 medium waxy potatoes (peeled, cubed)
+- 2 waxy potatoes (medium, peeled, cubed)
 - 100 g vermicelli or thin spaghetti (broken into 3 cm lengths)
 - 1 Scotch bonnet (whole, pierced; remove before serving)
 

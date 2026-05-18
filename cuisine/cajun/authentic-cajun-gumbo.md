@@ -18,8 +18,8 @@ The "everything" Louisiana gumbo, chicken thighs, andouille, lump crab and shrim
 - 450 g boneless skinless chicken thighs (cubed)
 - 3 teaspoons Creole Cajun seasoning (divided)
 - 340 g andouille sausage (sliced into rounds)
-- 1 large onion (chopped)
-- 2 large green bell peppers (chopped)
+- 1 onion (large, chopped)
+- 2 green bell peppers (large, chopped)
 - 3 celery ribs (chopped)
 - 8 garlic cloves (minced)
 - 1 cup plain flour

@@ -23,7 +23,7 @@ An aromatic curry-house classic that blends tandoori chicken with a sweet-spicy 
 - 2 cloves
 
 ### Aromatics and base
-- 1 small onion, very finely chopped
+- 1 onion (small), very finely chopped
 - 1 tbsp garlic and ginger paste
 - 2 tbsp ground almonds
 - ½ green bell pepper, thinly sliced

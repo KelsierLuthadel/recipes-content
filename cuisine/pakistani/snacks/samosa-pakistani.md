@@ -23,7 +23,7 @@ Pastry dough: plain flour, ghee, salt, ajwain seeds, and warm water are kneaded 
 
 ### Filling
 - 2 tablespoons sunflower oil or ghee
-- 1 medium onion (finely diced)
+- 1 onion (medium, finely diced)
 - 2 cm fresh ginger (grated)
 - 4 garlic cloves (crushed)
 - 2 green chillies (finely chopped)

@@ -24,7 +24,7 @@ A sofrito of onion, garlic and tomato is built in the paella pan, then bomba ric
 - 350 g bomba rice
 - 200 g squid (cleaned, cut into rings)
 - 300 g firm white fish (monkfish or hake), cubed
-- 12 large raw prawns (shell on)
+- 12 raw prawns (large, shell on)
 - 200 g mussels (scrubbed, beards removed)
 - 200 g clams (scrubbed)
 - 100 g peas (frozen are fine)

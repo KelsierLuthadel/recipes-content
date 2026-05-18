@@ -19,7 +19,7 @@ Brisket sears in a heavy pot; onions caramelise on the rendered fat; garlic and 
 - Salt and black pepper
 
 ### Braise
-- 4 large onions (sliced)
+- 4 onions (large, sliced)
 - 8 garlic cloves (smashed)
 - 3 tablespoons tomato paste
 - 2 tablespoons brown sugar

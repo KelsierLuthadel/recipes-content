@@ -14,9 +14,9 @@ A small dice of cucumber (seeds out), tomato (seeds out), red onion and green ch
 
 ## Ingredients
 
-- 1 large cucumber (deseeded; small dice)
+- 1 cucumber (large, deseeded; small dice)
 - 3 ripe tomatoes (deseeded; small dice)
-- 1 small red onion (small dice)
+- 1 red onion (small, small dice)
 - 1 green chilli (finely chopped, optional)
 - 2 tablespoons fresh coriander (finely chopped)
 - 1 tablespoon fresh mint (finely chopped, optional)

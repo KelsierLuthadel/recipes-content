@@ -17,7 +17,7 @@ Garlic browns in oil; long beans toss in to colour briefly. Soy and vinegar pour
 - 500 g long beans (or green beans; cut into 8 cm lengths)
 - 3 tablespoons vegetable oil
 - 8 garlic cloves (crushed)
-- 1 small onion (sliced)
+- 1 onion (small, sliced)
 - 60 ml light soy sauce
 - 60 ml white cane vinegar (or rice vinegar)
 - 2 bay leaves

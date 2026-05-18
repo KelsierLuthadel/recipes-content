@@ -12,7 +12,7 @@
 ## Ingredients
 - 50 grams butter (melted and cooled)
 - butter (to grease)
-- 3 small eggs (at room temperature)
+- 3 eggs (small, at room temperature)
 - 175 grams caster sugar
 - finely grated zest of 2 lemons
 - pinch of salt

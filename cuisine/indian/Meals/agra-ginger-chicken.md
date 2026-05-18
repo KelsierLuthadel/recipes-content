@@ -19,7 +19,7 @@ A light, cleansing chicken curry from Agra with fresh ginger, warm spices and br
 - 80 ml (2 ½ fl oz/⅓ cup) vegetable oil
 
 ### Aromatics
-- 2 large white onions, halved and thinly sliced
+- 2 white onions (large), halved and thinly sliced
 - 5 cm (2 inch) fresh root ginger, peeled and grated
 - 6 garlic cloves, minced
 
@@ -43,7 +43,7 @@ A light, cleansing chicken curry from Agra with fresh ginger, warm spices and br
 
 ### Greens and garnish
 - 200 g (7 oz) baby spinach, washed
-- Zest of 1 lime
+- 1 lime (zest)
 - 1 small bunch fresh coriander/cilantro, leaves and stalks roughly chopped
 
 ## Method

@@ -15,8 +15,8 @@ Green (unripe) plantains are peeled, sliced into thick rounds and fried gently i
 ## Ingredients
 
 ### Tostones
-- 3 large green plantains (firm, unripe, dark green skin)
-- About 500 ml sunflower or vegetable oil (for frying; needs to come 1 cm deep in the pan)
+- 3 green plantains (large, firm, unripe, dark green skin)
+- 500 ml sunflower or vegetable oil (for frying; needs to come 1 cm deep in the pan)
 - Flaky salt
 
 ### Garlic-mojo dipper

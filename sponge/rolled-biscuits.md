@@ -15,8 +15,8 @@ Rolled biscuits are the ultimate flexible sponge base, created by piping through
 ## Ingredients
 
 ### Egg Components (7 Yolks Total)
-- 4 large eggs (separated, approximately 75 grams yolks, 120 grams whites)
-- 3 additional large egg yolks (approximately 60 grams, add to yolk bowl)
+- 4 eggs (large, separated, approximately 75 grams yolks, 120 grams whites)
+- 3 egg yolks (large, approximately 60 grams, add to yolk bowl)
 - 85 grams caster sugar (sifted, divided: ⅔ with yolks, ⅓ with whites)
 
 ### Flours

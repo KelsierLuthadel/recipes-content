@@ -14,7 +14,7 @@ Each vegetable browns in olive oil in batches so it keeps its texture; they meet
 
 ## Ingredients
 
-- 1 large aubergine (cut into 2 cm cubes)
+- 1 aubergine (large, cut into 2 cm cubes)
 - 2 courgettes (cut into 2 cm cubes)
 - 1 red pepper (seeded, cut into 2 cm pieces)
 - 1 yellow pepper (seeded, cut into 2 cm pieces)

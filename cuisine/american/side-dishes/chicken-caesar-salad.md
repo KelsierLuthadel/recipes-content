@@ -15,7 +15,7 @@ A classic Roman salad featuring crisp cos lettuce coated in a rich, anchovy-base
 
 ## Ingredients
 ### Protein
-- 2 medium chicken fillets (sliced)
+- 2 chicken fillets (medium, sliced)
 - 300 g pancetta
 
 ### Greens and vegetables

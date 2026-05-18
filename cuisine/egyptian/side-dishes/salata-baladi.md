@@ -15,10 +15,10 @@ Tomato, cucumber, onion and green pepper dice fine. Tossed with lemon, olive oil
 ## Ingredients
 
 - 4 ripe tomatoes (deseeded, small dice)
-- 1 large cucumber (deseeded, small dice)
-- 1 small red onion (very finely chopped)
-- 1 small green bell pepper (small dice)
-- 1 small green chilli (very finely chopped, optional)
+- 1 cucumber (large, deseeded, small dice)
+- 1 red onion (small, very finely chopped)
+- 1 green bell pepper (small, small dice)
+- 1 green chilli (small, very finely chopped, optional)
 - 4 tablespoons fresh parsley (chopped)
 - 2 tablespoons fresh mint (chopped, optional)
 - Juice of 1 lemon

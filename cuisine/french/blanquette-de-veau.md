@@ -34,7 +34,7 @@ Veal shoulder or breast simmers in white stock with onion, carrot and bouquet ga
 - 50 g unsalted butter
 - 50 g plain flour
 - 200 ml double cream
-- 2 large egg yolks
+- 2 egg yolks (large)
 - 1 tablespoon lemon juice
 - A grating of nutmeg
 - Salt and white pepper

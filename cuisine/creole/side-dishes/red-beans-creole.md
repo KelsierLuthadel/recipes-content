@@ -16,11 +16,11 @@ Dried small red beans soak overnight. A smoked ham hock simmers with the trinity
 
 - 500 g dried small red beans (or kidney beans - soaked 12 hours, drained)
 - 1 smoked ham hock (about 800 g)
-- 300 g andouille sausage (or smoked kielbasa) - sliced 1 cm thick
+- 300 g andouille sausage (sliced 1 cm thick)
 - 2 tablespoons vegetable oil
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 3 sticks celery (chopped)
-- 1 large green bell pepper (chopped)
+- 1 green bell pepper (large, chopped)
 - 6 garlic cloves (crushed)
 - 3 bay leaves
 - 1 tablespoon dried thyme (or 4 sprigs fresh)

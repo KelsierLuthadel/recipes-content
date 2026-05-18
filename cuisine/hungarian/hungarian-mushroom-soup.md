@@ -15,7 +15,7 @@ Onions and mushrooms cook in butter until the mushrooms have released and reabso
 ## Ingredients
 
 - 50 g unsalted butter
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 600 g mixed mushrooms (chestnut, plus a handful of oyster mushrooms or porcini; sliced)
 - 2 garlic cloves (crushed)
 - 2 tablespoons sweet Hungarian paprika

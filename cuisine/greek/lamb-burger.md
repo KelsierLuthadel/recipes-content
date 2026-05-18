@@ -16,7 +16,7 @@ This burger borrows from the souvlaki and bifteki tradition of mainland Greece, 
 
 ### Patties
 - 600 g minced lamb shoulder
-- 1 small red onion, finely grated
+- 1 red onion (small), finely grated
 - 2 garlic cloves, finely grated
 - 1 tbsp dried oregano, ideally Greek
 - 1 tsp ground cumin

@@ -22,7 +22,7 @@ Bone-in lamb is browned in ghee with a small handful of whole spices, then ginge
 - 4 tablespoons ghee (or vegetable oil + butter)
 
 ### Whole spices
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 6 cloves
 - 4 green cardamom pods (lightly crushed)
 - 1 black cardamom pod

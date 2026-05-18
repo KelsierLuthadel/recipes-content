@@ -17,7 +17,7 @@ Lamb shanks brown hard; cook for 2 hours 30 minutes with onion, garlic, turmeric
 ### Lamb shanks
 - 4 lamb shanks (about 350 g each)
 - 3 tablespoons sunflower oil
-- 2 large onions (sliced)
+- 2 onions (large, sliced)
 - 6 garlic cloves (crushed)
 - 2 teaspoons ground turmeric
 - 1 teaspoon ground cinnamon

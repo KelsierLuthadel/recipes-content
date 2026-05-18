@@ -20,7 +20,7 @@ A two-part dish: a deeply concentrated prawn-and-chicken stock built from roaste
 - 2 bone-in chicken thigh pieces
 
 ### Laksa Paste
-- 8 large dried red chillies
+- 8 dried red chillies (large)
 - 1 tablespoon dried shrimp
 - 1 tablespoon chopped fresh galangal
 - 1 tablespoon chopped ginger

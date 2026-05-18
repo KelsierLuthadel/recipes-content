@@ -17,7 +17,7 @@ Boudin filling combines pork shoulder, pork liver (optional, traditional), cooke
 ### Boudin filling (or use 500 g of pre-made boudin, casings removed)
 - 400 g pork shoulder (cut into 3 cm cubes)
 - 100 g pork liver (optional, traditional - gives the iconic boudin earthiness)
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 2 celery stalks (chopped)
 - ½ green pepper (chopped)
 - 6 garlic cloves

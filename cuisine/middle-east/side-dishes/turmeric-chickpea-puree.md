@@ -15,10 +15,10 @@ Hummus is the simplest and most elegant of Middle Eastern dips: cooked chickpeas
 ### Chickpea Base
 - 120 grams dried chickpeas (or 1 ½ cups, soaked minimum 8 hours)
 - Soaking water (reserved after draining)
-- Approximately 1 ½ liters water (for cooking, fresh cold water)
+- 1 ½ liters water (for cooking, fresh cold water)
 
 ### Aromatics & Seasonings
-- 1 medium onion (approximately 120 grams, very finely chopped)
+- 1 onion (medium, approximately 120 grams, very finely chopped)
 - 1 tablespoon sunflower oil (for cooking aromatics)
 - 1 garlic clove (very finely chopped)
 - ½ teaspoon ground turmeric

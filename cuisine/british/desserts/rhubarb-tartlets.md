@@ -20,7 +20,7 @@ These rhubarb tartlets feature sweet shortcrust cases filled with crème pâtiss
 ### Rhubarb filling
 - 400 grams tender young rhubarb
 - 140 grams caster sugar
-- 1 large juicy orange
+- 1 juicy orange (large)
 - 40 grams butter
 - 120 grams [crème pâtissière](../../baking/cremes/creme-patissiere.md)
 

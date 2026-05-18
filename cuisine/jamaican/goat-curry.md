@@ -30,10 +30,10 @@ A deep, brick-yellow gravy stained with turmeric and allspice (called pimento in
 
 ### To cook
 - 2 tablespoons vegetable oil
-- 1 large onion (sliced)
+- 1 onion (large, sliced)
 - 2 tablespoons Caribbean curry powder (extra, for blooming)
 - 1 litre chicken stock (or water)
-- 2 medium potatoes (peeled, cut into 3 cm chunks)
+- 2 potatoes (medium, peeled, cut into 3 cm chunks)
 - 1 whole Scotch bonnet (left whole, pierced once with a knife - **do not break**)
 - 2 sprigs fresh thyme
 - Salt and black pepper, to adjust at the end

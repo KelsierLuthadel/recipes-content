@@ -13,7 +13,7 @@ Fresh pasta dough is foundational to Italian cooking. The traditional method, ma
 
 ### Base Dough
 - 300 grams Italian 00 flour (doppio zero)
-- 3 large eggs
+- 3 eggs (large)
 - 1 pinch fine sea salt
 
 ### For Working

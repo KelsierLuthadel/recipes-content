@@ -18,7 +18,7 @@ Prawns (shrimp) curl naturally into half-circles. To get your firecracker prawns
 ## Ingredients
 
 ### Protein
-- 20 large raw prawns (shrimp), peeled and deveined but tails left on
+- 20 raw prawns (large, shrimp), peeled and deveined but tails left on
 
 ### Marinade
 - 1 garlic clove, finely minced

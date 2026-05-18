@@ -24,8 +24,8 @@ A soft yeasted bread dough rises for 1 hour. While it rises, the lamb mince is m
 
 ### Topping
 - 500 g lamb mince (20% fat) - or a 70/30 lamb/beef mix
-- 1 large onion (grated; squeeze excess water out)
-- 2 medium tomatoes (deseeded, very finely diced) - about 200 g
+- 1 onion (large, grated; squeeze excess water out)
+- 2 tomatoes (medium, deseeded, very finely diced) - about 200 g
 - 4 garlic cloves (crushed)
 - 3 tablespoons fresh flat-leaf parsley (chopped fine)
 - 1 ½ tablespoons pomegranate molasses

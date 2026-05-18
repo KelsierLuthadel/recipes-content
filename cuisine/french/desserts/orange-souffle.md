@@ -22,7 +22,7 @@
 - 30 grams icing sugar (to dust)
 
 ### To serve
-- 4 large oranges (shell only)
+- 4 oranges (large, shell only)
 
 ## Overview
 A vibrant and fragrant orange soufflé with Grand Marnier, baked and served in its own hollowed orange shell for a striking table presentation. This classic French dessert showcases the bright flavor of fresh orange juice combined with a light, airy soufflé base that rises beautifully in the oven.

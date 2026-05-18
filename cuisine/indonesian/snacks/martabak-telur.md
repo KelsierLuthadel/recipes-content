@@ -22,7 +22,7 @@ A simple flour-water-oil dough rests for 1 hour (gluten relaxes; will roll paper
 
 ### Beef filling
 - 2 tablespoons oil
-- 1 small onion (finely diced)
+- 1 onion (small, finely diced)
 - 4 garlic cloves (minced)
 - 20 g fresh ginger (minced)
 - 300 g beef mince
@@ -33,7 +33,7 @@ A simple flour-water-oil dough rests for 1 hour (gluten relaxes; will roll paper
 - ½ teaspoon ground black pepper
 
 ### Egg mix (combined just before frying)
-- 4 large eggs
+- 4 eggs (large)
 - 4 spring onions (sliced thin)
 - 20 g fresh coriander (chopped)
 - ½ teaspoon salt

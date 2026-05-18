@@ -21,7 +21,7 @@ A luxurious, mildly spiced sauce with tropical fruit sweetness balanced by warm 
 
 ### Fruit & aromatics
 - 300 grams pineapple (cut into small pieces)
-- 1 medium banana (cut into rounds)
+- 1 banana (medium, cut into rounds)
 - 1 desert apple (Preferably Cox's, peeled, de-seeded and chopped)
 
 ### Spice & liquid

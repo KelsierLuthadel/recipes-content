@@ -15,7 +15,7 @@ This is baked pasta at its most elegant. Fresh courgettes sear quickly to mainta
 
 ### Courgettes & Salami
 - 6 tablespoons extra virgin olive oil
-- 2 large courgettes (cut into 5 mm cubes)
+- 2 courgettes (large, cut into 5 mm cubes)
 - 250 grams salami Milano (cut into small strips)
 - 3 tablespoons fresh flat leaf parsley (chopped)
 - Salt and pepper to taste

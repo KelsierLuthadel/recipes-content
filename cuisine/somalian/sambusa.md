@@ -18,7 +18,7 @@ Spring roll wrappers fold around a filling of cooked lentils, peas, onion, garli
 - 200 g brown lentils (rinsed)
 - 600 ml water
 - 3 tablespoons vegetable oil
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 4 garlic cloves (crushed)
 - 2 cm fresh ginger (grated)
 - 1 long green chilli (finely chopped)

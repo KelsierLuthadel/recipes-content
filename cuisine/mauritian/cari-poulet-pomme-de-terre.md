@@ -17,8 +17,8 @@ Mauritian cuisine is a layered conversation between Indian, African, Chinese and
 ### Curry base
 - 900 g bone-in chicken pieces (thighs and drumsticks, skin on or off)
 - 500 g waxy potatoes (peeled, halved or quartered)
-- 2 medium onions (finely chopped)
-- 4 medium tomatoes (about 400 g, finely chopped)
+- 2 onions (medium, finely chopped)
+- 4 tomatoes (medium, about 400 g, finely chopped)
 - 1 tbsp tomato paste
 - 6 garlic cloves (minced)
 - 20 g fresh ginger (grated)

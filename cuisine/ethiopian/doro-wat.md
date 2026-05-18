@@ -18,7 +18,7 @@ Onions cook down for nearly an hour into a deep dark base, this is the foundatio
 - 250 g unsalted butter
 - 2 garlic cloves (crushed)
 - 1 thumb fresh ginger (sliced)
-- 1 small onion (chopped)
+- 1 onion (small, chopped)
 - 1 teaspoon fenugreek seeds
 - 1 teaspoon cumin seeds
 - 1 teaspoon coriander seeds
@@ -26,7 +26,7 @@ Onions cook down for nearly an hour into a deep dark base, this is the foundatio
 - 4 cardamom pods (cracked)
 
 ### Stew
-- 4 large red onions (very finely chopped - about 800 g)
+- 4 red onions (large, very finely chopped - about 800 g)
 - 4 tablespoons niter kibbeh (from above)
 - 1 thumb fresh ginger (grated)
 - 6 garlic cloves (crushed)

@@ -21,7 +21,7 @@ A simple flour-and-water dough rests until pliable. The filling is finely choppe
 
 ### Filling
 - 600 g minced mutton or lamb (20% fat - fat is essential for juicy buuz; or 60/40 lamb-beef mix)
-- 2 medium onions (very finely chopped)
+- 2 onions (medium, very finely chopped)
 - 6 garlic cloves (crushed)
 - 2 teaspoons salt
 - 1 teaspoon black pepper

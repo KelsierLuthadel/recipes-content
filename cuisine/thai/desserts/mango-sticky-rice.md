@@ -30,7 +30,7 @@ Glutinous (sticky) rice is soaked at least 6 hours, then steamed for 20-25 minut
 - 2 teaspoons rice flour (helps it thicken slightly without sugar)
 
 ### To finish
-- 2 large ripe mangoes (Nam Dok Mai or any sweet ripe variety - Ataulfo / honey mangoes work well; about 600 g total)
+- 2 ripe mangoes (large, Nam Dok Mai or any sweet ripe variety - Ataulfo / honey mangoes work well; about 600 g total)
 - 2 tablespoons toasted sesame seeds (white, black, or a mix)
 - 2 tablespoons toasted mung beans (optional but traditional - crispy / nutty)
 

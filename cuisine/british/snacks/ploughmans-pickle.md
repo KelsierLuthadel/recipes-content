@@ -20,7 +20,7 @@ Vegetables, swede, carrot, gherkins, onion, cauliflower, dice into small (4 mm) 
 - 200 g swede (peeled)
 - 150 g carrot (peeled)
 - 150 g cauliflower florets (the tighter inner ones, not the leafy stems)
-- 1 large onion (peeled)
+- 1 onion (large, peeled)
 - 80 g gherkins (drained, chopped fine - the small sweet variety)
 - 100 g pitted dates (chopped fine)
 - 80 g sultanas

@@ -19,7 +19,7 @@ Soft ripe Camembert mashes with butter, finely grated onion, sweet paprika, cara
 - 250 g ripe Camembert (room temperature; the riper the better)
 - 100 g soft unsalted butter
 - 50 g cream cheese or quark (smooths the mix; optional)
-- 1 small white onion (finely grated; about 60 g)
+- 1 white onion (small, finely grated; about 60 g)
 - 1 garlic clove (finely grated; optional)
 - 2 teaspoons sweet paprika
 - ½ teaspoon caraway seeds (lightly crushed in a mortar)
@@ -27,7 +27,7 @@ Soft ripe Camembert mashes with butter, finely grated onion, sweet paprika, cara
 - Salt and freshly ground black pepper
 
 ### To finish
-- 1 small white onion (very thinly sliced into rings)
+- 1 white onion (small, very thinly sliced into rings)
 - A pinch of sweet paprika (for dusting)
 - A small bunch of fresh chives (snipped; optional)
 

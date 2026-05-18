@@ -29,7 +29,7 @@ Maris Piper or floury potatoes peel and cube 2.5 cm. Double-cook for shatter-cri
 - 2 tablespoons sherry vinegar (or red-wine vinegar)
 - 1 teaspoon caster sugar
 - 1 teaspoon salt
-- 1 small bay leaf
+- 1 bay leaf (small)
 
 ### Garlic aioli (optional)
 - 1 egg yolk

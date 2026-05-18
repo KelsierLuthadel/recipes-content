@@ -34,7 +34,7 @@ All-butter pie pastry rests in two discs. The filling, a mix of apples (Bramleys
 - 30 g unsalted butter (cubed)
 
 ### Glaze
-- 1 large egg (beaten with 1 tablespoon water)
+- 1 egg (large, beaten with 1 tablespoon water)
 - 2 tablespoons demerara or coarse sugar
 
 ## Method

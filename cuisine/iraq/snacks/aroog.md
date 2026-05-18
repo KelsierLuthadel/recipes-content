@@ -19,7 +19,7 @@ Fine bulgur (#1 grade) soaks in hot water until soft and fluffy. Lamb or beef mi
 - 200 g fine bulgur (#1 grade; not coarse)
 - 250 ml just-boiled water
 - 400 g lamb or beef mince (15-20% fat; leaner gives dry aroog)
-- 1 large onion (grated, with juice)
+- 1 onion (large, grated, with juice)
 - 4 garlic cloves (finely chopped)
 - 1 small handful flat-leaf parsley (chopped fine, about 25 g)
 - 1 small handful coriander leaves (chopped fine, about 25 g)
@@ -31,7 +31,7 @@ Fine bulgur (#1 grade) soaks in hot water until soft and fluffy. Lamb or beef mi
 - ¼ teaspoon ground cinnamon
 - ½ teaspoon black pepper
 - 1 ½ teaspoons salt
-- 1 large egg (lightly beaten)
+- 1 egg (large, lightly beaten)
 - 1 tablespoon plain flour (if the mix is loose)
 
 ### To pan-fry

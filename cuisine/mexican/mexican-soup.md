@@ -20,7 +20,7 @@ This vibrant Mexican seafood soup features halibut, prawns, scallops, and clams 
 - 3 tablespoons olive oil
 
 ### Vegetables
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 2 corn cobs (kernels removed)
 - 800 grams tinned chopped tomatoes
 

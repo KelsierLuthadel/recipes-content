@@ -26,8 +26,8 @@ The filling starts the night before: poppy seeds soak then simmer in milk and co
 - 50 g candied orange peel (finely chopped)
 - 2 tablespoons rum or dark rum (optional)
 - 1 teaspoon vanilla extract
-- Zest of 1 lemon
-- 2 large egg whites
+- 1 lemon (zest)
+- 2 egg whites (large)
 - A pinch of salt
 
 ### Yeast dough
@@ -36,9 +36,9 @@ The filling starts the night before: poppy seeds soak then simmer in milk and co
 - 60 g caster sugar
 - 1 teaspoon salt
 - 150 ml warm whole milk
-- 2 large egg yolks
+- 2 egg yolks (large)
 - 80 g unsalted butter (soft)
-- Zest of ½ lemon
+- ½ lemon (zest)
 
 ### Egg wash
 - 1 egg yolk

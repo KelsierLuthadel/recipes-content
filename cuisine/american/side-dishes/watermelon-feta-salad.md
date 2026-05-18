@@ -30,7 +30,7 @@ Watermelon and feta sounds, on paper, like a culinary trick that should not work
 
 ### To finish
 - Extra mint leaves
-- A pinch of Aleppo pepper or chilli flakes (optional)
+- A pinch of chilli flakes (optional)
 
 ## Method
 
@@ -51,7 +51,7 @@ Watermelon and feta sounds, on paper, like a culinary trick that should not work
 4. Drizzle the dressing evenly over the salad just before serving.
 
 ### Stage 5 - Finish
-1. Top with a few extra whole mint leaves and a pinch of Aleppo pepper or chilli flakes if you like a gentle warmth against the sweetness.
+1. Top with a few extra whole mint leaves and a pinch of chilli flakes if you like a gentle warmth against the sweetness.
 2. Serve immediately, while everything is still cold and crisp.
 
 ## Notes

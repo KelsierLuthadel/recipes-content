@@ -16,11 +16,11 @@ Gram (chickpea) flour combines with rice flour for extra crispness, with ajwain,
 ## Ingredients
 
 ### Vegetables (use any mix totalling about 500 g)
-- 1 medium onion (thinly sliced)
-- 1 medium potato (peeled, cut into 4 mm thick batons)
+- 1 onion (medium, thinly sliced)
+- 1 potato (medium, peeled, cut into 4 mm thick batons)
 - 150 g cauliflower (broken into small florets)
 - 1 small handful spinach (roughly chopped)
-- 1 small green chilli (finely chopped)
+- 1 green chilli (small, finely chopped)
 - 1 tablespoon ginger (finely grated)
 - 1 small handful coriander leaves (chopped)
 

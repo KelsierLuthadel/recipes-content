@@ -22,7 +22,7 @@ Crispy, buttery shortbread pastry encasing rich, spiced mincemeat studded with d
 - 450 grams raisins
 - 450 grams currant
 - 450 grams beef fat or suet (finely minced)
-- 1 large cooking apple (peeled, cored and grated)
+- 1 cooking apple (large, peeled, cored and grated)
 - 100 grams glacé fruits
 - 350 grams soft brown sugar
 - 1 teaspoon freshly grated nutmeg

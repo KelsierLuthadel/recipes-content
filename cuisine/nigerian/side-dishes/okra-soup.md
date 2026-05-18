@@ -16,14 +16,14 @@ Beef parboils briefly with stock cube and onion to make a quick stock. Smoked fi
 
 ### Meat and stock
 - 400 g beef shin or shaki (tripe), or a mix (cut into 2-3 cm chunks)
-- 1 small onion (halved)
+- 1 onion (small, halved)
 - 1 stock cube
 - 1 teaspoon salt
 - 700 ml water
 
 ### To finish
 - 80 ml red palm oil
-- 1 small onion (finely diced)
+- 1 onion (small, finely diced)
 - 3 garlic cloves (crushed)
 - 1 Scotch bonnet (deseeded and finely chopped)
 - 150 g smoked fish (smoked mackerel; bones removed, flaked)

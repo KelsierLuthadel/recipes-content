@@ -17,7 +17,7 @@ A sponge cake separates yolks and whites; the whites whip with sugar to stiff pe
 ## Ingredients
 
 ### Cake
-- 5 large eggs (room temperature, separated)
+- 5 eggs (large, room temperature, separated)
 - 200 g caster sugar (divided: 150 g for the whites, 50 g for the yolks)
 - 80 ml whole milk
 - 1 teaspoon vanilla extract

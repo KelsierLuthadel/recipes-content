@@ -11,7 +11,7 @@
 A fresh, herbaceous garden sauce featuring smooth cucumber purée infused with chilli, parsley, and sage, finished with silky olive oil. This elegant savory coulis is surprisingly versatile, working beautifully with delicate fish, cold dishes, or as a sophisticated finishing sauce. Light yet flavorful.
 
 ## Ingredients
-- 1 medium cucumber
+- 1 cucumber (medium)
 - 1 red chilli (de-seeded and diced)
 - 4 sprigs parsley (roughly chopped)
 - 6 sage leaves (roughly chopped)

@@ -25,7 +25,7 @@ Thinly sliced beef marinates briefly in soy, garlic, ginger and a touch of cornf
 
 ### Stir-fry
 - 3 tablespoons vegetable oil (split)
-- 1 large onion (sliced into thick wedges)
+- 1 onion (large, sliced into thick wedges)
 - 2 capsicums (one red, one green; sliced)
 - 4 garlic cloves (chopped)
 - 4 cm fresh ginger (julienned)

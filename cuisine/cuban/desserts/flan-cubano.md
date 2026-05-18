@@ -19,10 +19,10 @@ A dry caramel is made by melting sugar to a deep amber and poured into the botto
 - 3 tablespoons water (for a wet caramel, which is more forgiving for beginners)
 
 ### Custard
-- 4 large whole eggs
-- 2 large egg yolks
-- 1 × 397 g tin sweetened condensed milk
-- 1 × 410 g tin evaporated milk
+- 4 whole eggs (large)
+- 2 egg yolks (large)
+- 397 g tin sweetened condensed milk
+- 410 g tin evaporated milk
 - 1 ½ teaspoons vanilla extract
 - ¼ teaspoon salt
 - Optional: zest of ½ lemon or 1 cinnamon stick infused into the milks

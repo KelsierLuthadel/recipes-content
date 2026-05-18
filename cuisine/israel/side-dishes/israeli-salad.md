@@ -14,10 +14,10 @@ Vegetables are diced into uniform 5 mm cubes, knife work matters. Lemon juice, o
 
 ## Ingredients
 
-- 4 medium tomatoes (around 400 g; cores cut out)
-- 2 medium cucumbers (around 350 g)
-- 1 small red onion
-- 1 small green pepper (optional)
+- 4 tomatoes (medium, around 400 g; cores cut out)
+- 2 cucumbers (medium, around 350 g)
+- 1 red onion (small)
+- 1 green pepper (small, optional)
 - A small bunch of flat-leaf parsley (chopped)
 - A small bunch of mint (chopped, optional)
 - 4 tablespoons extra-virgin olive oil

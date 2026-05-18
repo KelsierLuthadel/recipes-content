@@ -30,7 +30,7 @@ Aged basmati rice is soaked briefly and ground to a coarse paste (the Lahori way
 - 30 g pistachios (slivered)
 - 1-2 sheets of silver leaf (vark; optional)
 - A few extra saffron threads
-- 6 small earthenware bowls (kulhars) or ramekins
+- 6 earthenware bowls (small, kulhars) or ramekins
 
 ## Method
 

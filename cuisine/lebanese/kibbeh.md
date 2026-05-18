@@ -17,7 +17,7 @@ Fine bulgur soaks until soft. The shell mixture combines bulgur, raw minced lamb
 ### Shell
 - 250 g fine bulgur
 - 500 g lean minced lamb (or beef)
-- 1 large onion (very finely grated)
+- 1 onion (large, very finely grated)
 - 1 teaspoon ground allspice
 - 1 teaspoon ground cumin
 - ½ teaspoon ground cinnamon
@@ -27,7 +27,7 @@ Fine bulgur soaks until soft. The shell mixture combines bulgur, raw minced lamb
 
 ### Filling
 - 2 tablespoons olive oil
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 300 g minced lamb (or beef)
 - 50 g pine nuts
 - 1 teaspoon ground allspice

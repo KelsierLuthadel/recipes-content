@@ -19,7 +19,7 @@ A short, biscuity pastry shell, hand-rolled into discs and pinched around the ed
 - 50 g caster sugar
 - ¼ teaspoon fine salt
 - 125 g cold unsalted butter, cubed
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 3-4 tablespoons cold water
 
 ### Filling

@@ -25,7 +25,7 @@ This classic Thai hot and sour soup features succulent prawns in a fragrant brot
 ### Aromatics
 - 3 lemongrass stems (white part only)
 - 3 thin slices fresh galangal
-- 3 - 5 small fresh red chillies
+- 3 - 5 fresh red chillies (small)
 - 5 lime leaves (finely shredded)
 
 ### Vegetables

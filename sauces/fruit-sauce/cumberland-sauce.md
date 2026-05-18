@@ -16,7 +16,7 @@ A jewel-coloured relish with punchy acidity balanced by fruity herbs and spice. 
 ## Ingredients
 
 ### Base
-- 1 medium shallot (finely chopped)
+- 1 shallot (medium, finely chopped)
 - 4 tablespoons red wine vinegar
 - 12 white peppercorns (crushed)
 - 100 ml Veal stock
@@ -26,7 +26,7 @@ A jewel-coloured relish with punchy acidity balanced by fruity herbs and spice. 
 - 2 tablespoons redcurrant jelly
 - 1 teaspoon Worcestershire sauce
 - juice of one orange
-- zest of one lemon (finely pared)
+- one lemon (finely pared, zest)
 - salt
 
 ## Method

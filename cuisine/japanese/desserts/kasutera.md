@@ -17,7 +17,7 @@ Eggs whisk with sugar over a warm-water bath to ribbon stage, pale, thick, and t
 ## Ingredients
 
 ### Cake batter
-- 6 large eggs (room temperature)
+- 6 eggs (large, room temperature)
 - 200 g caster sugar
 - 50 g honey (mild - acacia, orange-blossom, or clover; avoid strong-tasting honeys like manuka)
 - 1 tablespoon mirin (or substitute 1 teaspoon vanilla extract)

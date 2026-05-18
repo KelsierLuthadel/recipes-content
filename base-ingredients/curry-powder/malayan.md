@@ -19,7 +19,7 @@ Malayan curry powder reflects the geographic and cultural blending of Southeast 
 ### Whole Spices
 - 2 dried red chillies (deseeded for milder blend)
 - 6 white cloves
-- 1 small cinnamon stick (broken into pieces)
+- 1 cinnamon stick (small, broken into pieces)
 - 1 teaspoon coriander seeds
 - 1 teaspoon fennel seeds
 - 2 teaspoons Sichuan peppercorns

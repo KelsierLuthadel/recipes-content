@@ -23,7 +23,7 @@ A simple batter of semolina, yogurt, sugar, butter and coconut is baked in a sha
 - 1 teaspoon baking powder
 - 1 teaspoon vanilla extract
 - 4 tablespoons milk (if needed)
-- About 24 blanched almonds
+- 24 blanched almonds
 
 ### Syrup
 - 400 g caster sugar

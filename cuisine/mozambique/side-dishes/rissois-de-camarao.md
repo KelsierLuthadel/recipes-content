@@ -23,7 +23,7 @@ A boiled water-butter-flour dough rolls thin; a thick shrimp béchamel goes on t
 ### Shrimp filling
 - 400 g cooked small shrimp or prawns (peeled, finely chopped)
 - 2 tablespoons butter
-- 1 small onion (very finely chopped)
+- 1 onion (small, very finely chopped)
 - 1 garlic clove (crushed)
 - 2 tablespoons plain flour
 - 200 ml whole milk (warm)

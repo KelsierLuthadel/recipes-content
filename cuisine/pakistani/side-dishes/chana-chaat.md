@@ -16,10 +16,10 @@ Cooked chickpeas (tinned for speed, OR overnight-soaked and home-cooked for the 
 
 ### Salad base
 - 2 (400 g) tins chickpeas (drained and rinsed) - OR 200 g dried chickpeas, soaked overnight and simmered 1 hour until tender
-- 1 medium red onion (finely diced)
-- 2 medium tomatoes (deseeded, finely diced)
-- 1 large potato (boiled in its skin until tender, then peeled and diced 1 cm)
-- 1 small green chilli (deseeded and finely chopped)
+- 1 red onion (medium, finely diced)
+- 2 tomatoes (medium, deseeded, finely diced)
+- 1 potato (large, boiled in its skin until tender, then peeled and diced 1 cm)
+- 1 green chilli (small, deseeded and finely chopped)
 - 4 tablespoons fresh coriander (chopped)
 - 2 tablespoons fresh mint (chopped) - optional
 

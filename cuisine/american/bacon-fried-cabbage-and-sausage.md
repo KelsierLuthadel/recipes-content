@@ -16,7 +16,7 @@ A heartier descendant of Southern fried cabbage and its more substantial sibling
 
 - 450 g bacon (chopped)
 - 340 g pre-cooked andouille (diced)
-- 1 medium yellow onion (sliced)
+- 1 yellow onion (medium, sliced)
 - 1 green bell pepper (sliced)
 - 1 red bell pepper (sliced)
 - 1 medium head green cabbage (~900 g, roughly chopped)

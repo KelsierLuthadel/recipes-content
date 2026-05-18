@@ -15,7 +15,7 @@ Beguni (from begun, the Bengali word for brinjal/eggplant) is the simplest of th
 ## Ingredients
 
 ### Eggplant
-- 1 large aubergine (around 400 g, long slim variety preferred)
+- 1 aubergine (large, around 400 g, long slim variety preferred)
 - 1 tsp salt (for salting)
 
 ### Batter
@@ -36,7 +36,7 @@ Beguni (from begun, the Bengali word for brinjal/eggplant) is the simplest of th
 - 500 ml mustard oil (or neutral oil)
 
 ### To serve
-- 1 small red onion (thinly sliced)
+- 1 red onion (small, thinly sliced)
 - 2 green chillies (whole)
 - 1 lime (cut into wedges)
 

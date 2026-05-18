@@ -16,7 +16,7 @@ A burger that eats with a Himalayan accent rather than a Western one. The season
 
 ### Patties
 - 500 g grass-fed beef mince (or chicken mince)
-- 1 small white onion (very finely chopped)
+- 1 white onion (small, very finely chopped)
 - 2 spring onions (finely chopped, whites and greens)
 - 4 garlic cloves (grated)
 - 25 g fresh ginger (grated)

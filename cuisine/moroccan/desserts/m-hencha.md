@@ -20,7 +20,7 @@ Almond paste: ground almonds, icing sugar, melted butter, cinnamon, orange-flowe
 - 80 g unsalted butter (melted)
 - 1 tablespoon ground cinnamon
 - 3 tablespoons orange-flower water
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 1 tablespoon honey
 - A pinch of salt
 

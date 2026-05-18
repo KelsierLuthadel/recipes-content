@@ -19,7 +19,7 @@ A buttery shortcrust pastry is pressed into a tin; a small piece is reserved for
 - 250 g plain flour
 - 80 g icing sugar
 - 150 g cold unsalted butter (cubed)
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 2 tablespoons cold milk
 - ½ teaspoon vanilla extract
 - A pinch of salt
@@ -28,9 +28,9 @@ A buttery shortcrust pastry is pressed into a tin; a small piece is reserved for
 - 1 kg twaróg cheese (or 1 kg drained full-fat cottage cheese; see Notes)
 - 200 g unsalted butter (room temperature)
 - 200 g caster sugar
-- 6 large eggs (separated)
+- 6 eggs (large, separated)
 - 50 g fine semolina or 40 g cornflour
-- Zest of 2 lemons
+- 2 lemons (zest)
 - 1 tablespoon vanilla extract or 1 vanilla pod (seeds scraped)
 - 50 g raisins (optional; soaked in 2 tablespoons rum or warm water 15 minutes)
 - A pinch of salt

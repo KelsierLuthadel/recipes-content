@@ -15,8 +15,8 @@ Tomato, cucumber and onion chop fine; parsley and green chilli go in; a quick dr
 ## Ingredients
 
 - 3 ripe tomatoes (small dice)
-- 1 medium cucumber (seeded, small dice)
-- 1 small red onion (very finely chopped)
+- 1 cucumber (medium, seeded, small dice)
+- 1 red onion (small, very finely chopped)
 - 1-2 fresh green chillies (deseeded, finely chopped)
 - 4 tablespoons fresh parsley (finely chopped)
 - 2 tablespoons fresh mint (finely chopped, optional)

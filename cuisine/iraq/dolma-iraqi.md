@@ -32,11 +32,11 @@ A filling of short-grain rice, lamb mince, onion, parsley, dill, mint, tomato pu
 
 ### Vegetables (about)
 - 30 fresh or jarred vine leaves (rinsed)
-- 6 small peppers (capsicums, mix of colours)
-- 4 small courgettes (5 cm pieces, cored)
-- 4 small aubergines (4 cm pieces, cored)
-- 4 small onions (cored, layers separated for stuffing)
-- 4 small tomatoes (cored, top reserved as lid)
+- 6 peppers (small, capsicums, mix of colours)
+- 4 courgettes (small, 5 cm pieces, cored)
+- 4 aubergines (small, 4 cm pieces, cored)
+- 4 onions (small, cored, layers separated for stuffing)
+- 4 tomatoes (small, cored, top reserved as lid)
 
 ### Cooking liquid
 - 3 tablespoons tamarind paste

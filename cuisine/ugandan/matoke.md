@@ -32,7 +32,7 @@ Beef is browned and simmered with onions, garlic, ginger, tomato and a touch of 
 - Salt
 
 ### Plantains
-- 8 large green plantains (unripe, skin firm and dark green)
+- 8 green plantains (large, unripe, skin firm and dark green)
 - 1 lemon (juiced; for the peeling water)
 
 ### Peanut sauce

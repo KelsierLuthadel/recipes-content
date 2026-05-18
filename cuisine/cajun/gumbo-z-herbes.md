@@ -19,7 +19,7 @@ A dark roux is built first, flour cooked in oil to peanut-butter brown. The Caju
 - 80 g plain flour
 
 ### Trinity and aromatics
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 4 celery sticks (chopped)
 - 1 green pepper (chopped)
 - 6 garlic cloves (crushed)

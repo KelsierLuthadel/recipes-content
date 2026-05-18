@@ -15,7 +15,7 @@ Cucumbers are placed on a cutting board, the flat of a cleaver (or a heavy rolli
 ## Ingredients
 
 ### Cucumbers
-- 3 small / medium cucumbers (about 600 g total - Persian or English; if using a thick-skinned English cucumber, peel partially in stripes)
+- 3 cucumbers (small)
 - 1 ½ teaspoons fine salt
 
 ### Dressing
@@ -37,6 +37,7 @@ Cucumbers are placed on a cutting board, the flat of a cleaver (or a heavy rolli
 
 ### Stage 1 - Smash
 1. Place a cucumber on a cutting board.
+1. Peel into strips
 1. Lay the flat side of a heavy cleaver (or rolling pin / small pan) on top.
 1. Strike the cleaver firmly with the heel of your hand to crack the cucumber lengthwise - the skin and flesh split unevenly.
 1. Repeat with remaining cucumbers.

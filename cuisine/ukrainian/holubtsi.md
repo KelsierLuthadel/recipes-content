@@ -15,7 +15,7 @@ A whole cabbage is cored and lowered into boiling water; the outer leaves soften
 ## Ingredients
 
 ### Cabbage
-- 1 large green cabbage (around 1 ½ kg)
+- 1 green cabbage (large, around 1 ½ kg)
 - 1 tablespoon salt (for the blanching water)
 
 ### Filling
@@ -23,9 +23,9 @@ A whole cabbage is cored and lowered into boiling water; the outer leaves soften
 - 300 ml water
 - 500 g minced beef
 - 250 g minced pork
-- 1 large onion (very finely chopped)
+- 1 onion (large, very finely chopped)
 - 4 garlic cloves (crushed)
-- 1 large egg
+- 1 egg (large)
 - 1 teaspoon dried marjoram
 - 1 teaspoon paprika
 - 1 ½ teaspoons salt
@@ -34,11 +34,11 @@ A whole cabbage is cored and lowered into boiling water; the outer leaves soften
 
 ### Sauce
 - 2 tablespoons sunflower oil
-- 1 medium onion (chopped)
-- 2 medium carrots (grated)
+- 1 onion (medium, chopped)
+- 2 carrots (medium, grated)
 - 3 garlic cloves (crushed)
 - 2 tablespoons tomato paste
-- 1 x 400 g tin chopped tomatoes
+- 400 g tin chopped tomatoes
 - 600 ml beef or vegetable stock
 - 200 g soured cream (at room temperature)
 - 1 bay leaf

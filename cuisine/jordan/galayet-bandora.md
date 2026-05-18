@@ -14,7 +14,7 @@ Whole peeled garlic cloves and chillies fry in a generous pour of olive oil unti
 
 ## Ingredients
 
-- 6 large ripe tomatoes (around 800 g)
+- 6 ripe tomatoes (large, around 800 g)
 - 8 garlic cloves (peeled, lightly smashed)
 - 2 long green chillies (or 1 jalapeño; sliced)
 - 60 ml olive oil

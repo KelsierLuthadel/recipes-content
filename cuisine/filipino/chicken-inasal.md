@@ -43,7 +43,7 @@ Chicken inasal is the pride of Bacolod City on Negros Occidental, where streetsi
 - 30 ml calamansi or lime juice
 - 15 ml cane vinegar
 - 1 bird's eye chilli (sliced)
-- 1 small shallot (finely chopped)
+- 1 shallot (small, finely chopped)
 
 ## Method
 

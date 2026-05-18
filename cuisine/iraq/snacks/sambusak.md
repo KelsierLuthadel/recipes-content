@@ -25,7 +25,7 @@ A simple flour-oil-water dough with a little turmeric for colour rests briefly w
 ### Filling
 - 250 g cooked chickpeas (drained; tinned is fine, rinsed)
 - 2 tablespoons olive oil
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 3 garlic cloves (crushed)
 - 1 ½ teaspoons ground cumin
 - 1 teaspoon ground coriander

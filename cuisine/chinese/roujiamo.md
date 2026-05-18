@@ -37,7 +37,7 @@ Roujiamo is often, lazily, called the Chinese hamburger, but it is older than th
 - 4 bay leaves
 - 2 spring onion whites, cut into 5 cm pieces
 - 2 star anise
-- 1 large cinnamon stick
+- 1 cinnamon stick (large)
 - 2 tsp salt
 
 ### Assembly

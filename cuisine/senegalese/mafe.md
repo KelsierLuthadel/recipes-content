@@ -18,7 +18,7 @@ Bone-in beef or lamb is browned, then simmered with onions, garlic, tomato and s
 ### Stew base
 - 1 kg beef shin or lamb shoulder on the bone, cut in 4-5 cm pieces
 - 3 tablespoons vegetable oil
-- 2 large onions (chopped)
+- 2 onions (large, chopped)
 - 5 garlic cloves (crushed)
 - 2 cm piece of ginger (grated)
 - 3 tablespoons tomato purée
@@ -36,7 +36,7 @@ Bone-in beef or lamb is browned, then simmered with onions, garlic, tomato and s
 
 ### Vegetables
 - 400 g cassava (peeled, cut in 4 cm chunks)
-- 1 medium sweet potato (peeled, cut in 4 cm chunks)
+- 1 sweet potato (medium, peeled, cut in 4 cm chunks)
 - 2 carrots (cut in thick batons)
 - ½ small white cabbage (cut in wedges)
 

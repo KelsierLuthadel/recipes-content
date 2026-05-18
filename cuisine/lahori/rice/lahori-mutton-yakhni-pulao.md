@@ -30,14 +30,14 @@ Bone-in mutton (or lamb shoulder, preferably with marrow bones) is simmered for 
 - 6 green cardamom pods (lightly crushed)
 - 2 black cardamom pods
 - 6 cloves
-- 1 small cinnamon stick (broken)
+- 1 cinnamon stick (small, broken)
 - 2 bay leaves
 - 1 blade of mace
 
 ### Pulao
 - 500 g aged basmati rice (rinsed, soaked for 45 minutes)
 - 4 tablespoons ghee
-- 1 large onion (finely sliced)
+- 1 onion (large, finely sliced)
 - 1 tablespoon ginger-garlic paste
 - 1 teaspoon cumin seeds
 - 2 green chillies (slit)

@@ -22,7 +22,7 @@ Brown lentils boil until almost tender; long-grain rice and water join them alon
 - ¼ teaspoon black pepper
 
 ### Caramelised onions
-- 3 large onions (very thinly sliced)
+- 3 onions (large, very thinly sliced)
 - 6 tablespoons olive oil
 - ½ teaspoon salt
 

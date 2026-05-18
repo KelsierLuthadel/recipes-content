@@ -19,11 +19,11 @@ Slices of buttered bread layer in a baking dish with raisins and lemon zest. A c
 - 75 g unsalted butter (softened)
 - 75 g raisins or sultanas
 - 50 g mixed peel (optional)
-- Zest of 1 lemon
+- 1 lemon (zest)
 
 ### Custard
-- 4 large egg yolks
-- 1 large egg
+- 4 egg yolks (large)
+- 1 egg (large)
 - 100 g caster sugar
 - 1 teaspoon vanilla extract
 - 300 ml whole milk

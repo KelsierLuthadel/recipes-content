@@ -27,7 +27,7 @@ A Caribbean-Southern crossover that works because both traditions cook in a simi
 
 ### Brown stew shrimp
 - 450 g (1 lb) jumbo shrimp (peeled, deveined)
-- 1 tablespoon avocado or olive oil
+- 1 tablespoon olive oil
 - 1 teaspoon smoked paprika
 - 1 teaspoon ground allspice
 - 1 teaspoon onion powder
@@ -39,7 +39,7 @@ A Caribbean-Southern crossover that works because both traditions cook in a simi
 - ½ green bell pepper (finely diced)
 - ½ red bell pepper (finely diced)
 - ½ small yellow onion (finely diced)
-- 1 large carrot (finely diced)
+- 1 carrot (large, finely diced)
 - 1 Scotch bonnet (deseeded and chopped)
 - 1 tablespoon garlic paste
 - 2 teaspoons ginger paste

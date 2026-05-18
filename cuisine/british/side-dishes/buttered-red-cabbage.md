@@ -14,7 +14,7 @@ Onion is softened in butter; red cabbage joins along with sliced apple, brown su
 
 ## Ingredients
 
-- 1 medium red cabbage (about 1 kg, cored and finely shredded)
+- 1 red cabbage (medium, about 1 kg, cored and finely shredded)
 - 50 g unsalted butter
 - 2 onions (sliced)
 - 2 Bramley or other tart apples (peeled, cored, sliced)

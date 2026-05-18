@@ -17,7 +17,7 @@ Alur chop (alu meaning potato, chop being a Bengali loan-word for a fried cutlet
 ### Mash
 - 500 g floury potatoes (peeled, cut into 3 cm chunks)
 - 2 tbsp mustard oil
-- 1 small red onion (finely chopped)
+- 1 red onion (small, finely chopped)
 - 15 g ginger (finely grated)
 - 2 green chillies (finely chopped)
 - ½ tsp ground turmeric
@@ -42,7 +42,7 @@ Alur chop (alu meaning potato, chop being a Bengali loan-word for a fried cutlet
 
 ### To fry and serve
 - 500 ml mustard oil or neutral oil
-- 1 small red onion (sliced into rings, to serve)
+- 1 red onion (small, sliced into rings, to serve)
 - 2 green chillies (to serve)
 - Kasundi mustard or tomato ketchup (to serve)
 

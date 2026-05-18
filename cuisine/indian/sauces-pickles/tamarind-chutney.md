@@ -28,7 +28,7 @@ This is the most complex of Indian chutneys. Tamarind provides deep, fruity sour
 - ½ medium onion (finely chopped)
 - 3 spring onions (finely chopped greens and whites)
 - 4 tablespoons fresh coriander (finely chopped)
-- 1 large carrot (grated)
+- 1 carrot (large, grated)
 
 ### Spices
 - 1 teaspoon Madras curry powder (or to taste)

@@ -14,12 +14,12 @@ Beetroot, potatoes and carrots boil in their skins. Once cool, they're peeled an
 
 ## Ingredients
 
-- 3 medium beetroots (around 400 g)
-- 3 medium potatoes (around 500 g)
-- 2 medium carrots
+- 3 beetroots (medium, around 400 g)
+- 3 potatoes (medium, around 500 g)
+- 2 carrots (medium)
 - 200 g sauerkraut
 - 3 dill pickles (around 150 g)
-- 1 x 400 g tin red kidney beans (drained) or 200 g cooked chickpeas
+- 400 g tin red kidney beans (drained) or 200 g cooked chickpeas
 - 5 spring onions (sliced)
 - 4 tablespoons sunflower oil (or other neutral oil)
 - 2 tablespoons cider vinegar (or white wine vinegar)

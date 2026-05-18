@@ -17,7 +17,7 @@ Lentils (brown or green, not red) simmer for 25 minutes until tender. Two batche
 - 250 g brown or green lentils (rinsed)
 - 1 litre water (for cooking lentils)
 - 100 ml olive oil
-- 3 large onions (sliced thin)
+- 3 onions (large, sliced thin)
 - 300 g basmati rice (rinsed; soaked 15 minutes; drained)
 - 1 ½ teaspoons ground cumin
 - 1 teaspoon ground allspice
@@ -27,7 +27,7 @@ Lentils (brown or green, not red) simmer for 25 minutes until tender. Two batche
 
 ### To serve
 - 200 g Greek yogurt
-- 1 small cucumber (diced)
+- 1 cucumber (small, diced)
 - 1 tablespoon dried mint
 - A pinch of salt
 

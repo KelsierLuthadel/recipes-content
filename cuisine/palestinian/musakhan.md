@@ -27,7 +27,7 @@ A whole chicken or chicken pieces marinate in olive oil, sumac, allspice and lem
 - Juice of 1 lemon
 
 ### Onions
-- 6 large onions (around 1.2 kg; sliced thin)
+- 6 onions (large, around 1.2 kg; sliced thin)
 - 150 ml olive oil
 - 4 tablespoons sumac (plus more for sprinkling)
 - 1 teaspoon salt

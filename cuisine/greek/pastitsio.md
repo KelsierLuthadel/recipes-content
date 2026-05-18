@@ -38,7 +38,7 @@ Pasta tubes get a quick boil and a buttery toss. A beef ragù with cinnamon, all
 - 75 g unsalted butter
 - 75 g plain flour
 - 800 ml whole milk (warm)
-- 2 large eggs (beaten)
+- 2 eggs (large, beaten)
 - 100 g grated kefalotyri or parmesan
 - A grating of nutmeg
 

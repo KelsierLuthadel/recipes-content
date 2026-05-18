@@ -18,7 +18,7 @@ Sweet (sour, "polvilho doce" or sweet) tapioca starch combines with hot milk-and
 - 80 ml vegetable oil (or 80 g unsalted butter)
 - ½ teaspoon salt
 - 250 g sour tapioca starch (polvilho azedo) or sweet tapioca starch (polvilho doce; both work; sour gives the proper Minas style)
-- 2 large eggs
+- 2 eggs (large)
 - 200 g parmesan (or a mix of parmesan and a soft, mild Brazilian-style cheese like queso fresco or feta)
 
 ## Method

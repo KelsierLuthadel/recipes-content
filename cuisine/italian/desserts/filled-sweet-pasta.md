@@ -22,7 +22,7 @@
 ### For the filling
 - 40 grams caster sugar
 - 250 grams ricotta cheese
-- zest of 1 orange (finely chopped)
+- 1 orange (finely chopped, zest)
 - 10 almonds (finely chopped)
 - 40 grams candied fruit (finely chopped)
 

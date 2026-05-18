@@ -16,7 +16,7 @@ Dried shrimp pulse-grind to a coarse floss. A pile of sliced garlic and shallot 
 
 - 150 g dried shrimp (small, available from East Asian shops)
 - 200 ml vegetable oil
-- 1 large onion (very finely sliced)
+- 1 onion (large, very finely sliced)
 - 12 garlic cloves (very finely sliced)
 - 2 tablespoons ginger (julienned)
 - 4 tablespoons Kashmiri chilli powder (or 2 tbsp paprika + 2 tbsp chilli flakes)

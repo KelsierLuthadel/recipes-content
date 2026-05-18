@@ -20,17 +20,17 @@ The shortcrust uses lard (or vegetable shortening + butter) for the right crumbl
 - 60 g icing sugar (sifted)
 - A pinch of salt
 - 130 g cold lard (cubed) - OR 80 g cold butter + 50 g vegetable shortening
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 1 tablespoon cold water (if needed)
 
 ### Custard
-- 4 large eggs
+- 4 eggs (large)
 - 150 g caster sugar
 - 200 ml just-boiled water
 - 100 ml evaporated milk (NOT condensed; sold in tins)
 - 1 teaspoon vanilla extract
 
-### For the tin
+### Equipment
 - A 12-cup muffin tin, OR 12 individual tart tins (about 7 cm diameter)
 
 ## Method

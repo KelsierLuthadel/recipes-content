@@ -30,7 +30,7 @@ A loose batter of fine semolina, plain flour, yeast, sugar and warm water rests 
 - 1 tablespoon rosewater
 
 ### Cheese filling (alternative)
-- 250 g akkawi or low-salt halloumi (rinsed of salt; grated)
+- 250 g low-salt halloumi (rinsed of salt; grated)
 - 2 tablespoons caster sugar
 
 ### Syrup

@@ -16,7 +16,7 @@ Whole flank (or skirt) simmers in stock with aromatics 2 hours until tender enou
 
 - 1.2 kg beef flank (or skirt) - whole piece
 - 2 ½ litres water
-- 1 large onion (halved)
+- 1 onion (large, halved)
 - 6 garlic cloves (smashed)
 - 1 teaspoon dried oregano
 - 1 teaspoon ground cumin
@@ -25,7 +25,7 @@ Whole flank (or skirt) simmers in stock with aromatics 2 hours until tender enou
 
 ### Sofrito and finishing gravy
 - 3 tablespoons vegetable oil
-- 2 medium onions (chopped)
+- 2 onions (medium, chopped)
 - 4 garlic cloves (crushed)
 - 4 fresh tomatoes (grated) or 1 (400 g) tin chopped tomatoes
 - 1 tablespoon tomato puree

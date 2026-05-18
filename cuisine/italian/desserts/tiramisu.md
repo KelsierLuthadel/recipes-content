@@ -15,7 +15,7 @@ Egg yolks whisk with sugar over hot water (zabaglione method, gentle heat) until
 ## Ingredients
 
 ### The cream
-- 4 large eggs (separated - yolks for the cream, whites for lightening)
+- 4 eggs (large, separated - yolks for the cream, whites for lightening)
 - 100 g caster sugar (for the yolks)
 - 50 g caster sugar (for the whites)
 - 500 g mascarpone (cold, from the fridge)

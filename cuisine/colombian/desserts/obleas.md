@@ -18,7 +18,7 @@ This isn't a from-scratch wafer recipe (obleas wafers require a specialised iron
 - 12 obleas wafers (large, thin, round - from a Colombian / Latin grocer; substitute: large Italian wafer biscuits if obleas are not available)
 
 ### Filling
-- 300 g arequipe (Colombian dulce de leche / manjar) - see our `manjar-chileno` recipe to make from scratch; or use any commercial dulce de leche
+- 300 g arequipe (Colombian dulce de leche / manjar)
 
 ### Topping options (choose 2-3 per sandwich)
 - 80 g grated mozzarella (or queso fresco)

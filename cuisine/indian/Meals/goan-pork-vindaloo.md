@@ -31,7 +31,7 @@ Whole Kashmiri red chillies soak in white wine vinegar; ground with garlic, ging
 ### Pork
 - 1 kg pork shoulder (cut into 4 cm cubes)
 - 4 tablespoons vegetable oil
-- 3 medium onions (finely chopped)
+- 3 onions (medium, finely chopped)
 - 2 fresh tomatoes (grated)
 - 400 ml hot water
 - 1 tablespoon palm jaggery (or brown sugar)

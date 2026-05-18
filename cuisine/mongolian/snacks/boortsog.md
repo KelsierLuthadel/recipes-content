@@ -19,7 +19,7 @@ A simple dough of flour, butter, sugar, milk and an egg rests until smooth. The 
 - 1 teaspoon salt
 - ½ teaspoon baking powder
 - 100 g unsalted butter (softened)
-- 1 large egg
+- 1 egg (large)
 - 200 ml whole milk (warm; plus 50 ml extra if needed)
 
 ### Frying

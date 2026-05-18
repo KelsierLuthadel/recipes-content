@@ -23,7 +23,7 @@ Navarin d'agneau is a classic French spring stew, combining three different cuts
 - 30 grams flour
 - 1 bouquet garni
 - 4 cloves garlic (peeled and crushed)
-- 1 large tomato (cut into large dice)
+- 1 tomato (large, cut into large dice)
 - Sea salt and pepper to taste
 
 ### Root Vegetables & Garnish

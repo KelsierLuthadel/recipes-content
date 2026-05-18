@@ -20,14 +20,14 @@ A yeasted dough enriched with milk, sugar and butter rises for 1 hour. Filling: 
 - 80 g caster sugar
 - ½ teaspoon salt
 - 240 ml warm milk
-- 1 large egg
+- 1 egg (large)
 - 50 g unsalted butter (melted)
 
 ### Filling
 - 500 g pork mince (20% fat)
 - 2 tablespoons neutral oil
 - 4 garlic cloves (minced)
-- 1 small onion (finely diced)
+- 1 onion (small, finely diced)
 - 3 tablespoons soy sauce
 - 2 tablespoons oyster sauce
 - 2 tablespoons dark brown sugar

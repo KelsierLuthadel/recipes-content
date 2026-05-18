@@ -15,7 +15,7 @@ Onions cook in olive oil; potatoes simmer in stock until tender; the lot blends 
 ## Ingredients
 
 - 4 tablespoons olive oil (plus more for serving)
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 4 garlic cloves (crushed)
 - 800 g floury potatoes (Maris Piper, King Edward; peeled and cubed)
 - 1 ½ litres water or vegetable stock

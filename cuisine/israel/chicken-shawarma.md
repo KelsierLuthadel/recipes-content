@@ -30,7 +30,7 @@ Chicken thighs marinate 6+ hours in baharat, turmeric, paprika, cumin, garlic, y
 - 1 teaspoon ground black pepper
 
 ### To serve
-- 4 large pita breads (warmed; split open)
+- 4 pita breads (large, warmed; split open)
 - Hummus (see recipe)
 - Salata (Israeli chopped salad)
 - Pickled cucumbers (dill or sour)

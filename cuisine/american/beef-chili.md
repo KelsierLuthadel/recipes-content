@@ -15,9 +15,9 @@ The American household chili, sitting somewhere between Texas-style "no beans" p
 ## Ingredients
 
 - 1 tablespoon extra-virgin olive oil
-- 1 medium white onion (finely chopped)
-- 1 medium red bell pepper (chopped)
-- 1 medium green bell pepper (chopped)
+- 1 white onion (medium, finely chopped)
+- 1 red bell pepper (medium, chopped)
+- 1 green bell pepper (medium, chopped)
 - 900 g (2 lbs) lean ground beef
 - 2 tablespoons tomato paste
 - 4 garlic cloves (minced)

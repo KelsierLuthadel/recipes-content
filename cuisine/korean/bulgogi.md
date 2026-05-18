@@ -22,7 +22,7 @@ Rib-eye or sirloin sliced paper-thin sits in a marinade of soy, brown sugar, ses
 - 2 tablespoons toasted sesame oil
 - 4 garlic cloves (crushed)
 - 1 tablespoon grated ginger
-- 1 small onion (grated)
+- 1 onion (small, grated)
 - 4 spring onions (chopped)
 - 1 tablespoon toasted sesame seeds
 - 1 tablespoon mirin or rice wine

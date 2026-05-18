@@ -29,7 +29,7 @@ Cleaned conch is pounded between sheets of cling film with a meat mallet until t
 - ½ teaspoon cayenne
 - ½ teaspoon salt
 - ½ teaspoon black pepper
-- 2 large eggs
+- 2 eggs (large)
 - 80 ml milk
 
 ### Slaw

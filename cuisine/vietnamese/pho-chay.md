@@ -25,7 +25,7 @@ Onion and ginger char black on a flame to give the broth its signature smoky dep
 - 25 g dried shiitake mushrooms
 - 1 piece kombu (about 10 x 5 cm)
 - 250 g daikon (peeled, roughly chopped) - optional but classic
-- 2 large carrots (chopped)
+- 2 carrots (large, chopped)
 - 2 ½ litres water
 - 60 ml light soy sauce
 - 2 teaspoons salt (or to taste)

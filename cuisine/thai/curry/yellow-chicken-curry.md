@@ -17,7 +17,7 @@ Mild yellow curry with Indian influences from turmeric and curry powder. Similar
 
 ## Ingredients
 ### Vegetables
-- 10 small waxy new potatoes, quartered
+- 10 waxy new potatoes (small), quartered
 - 1 carrot, cut into thin rounds
 - 10 baby plum tomatoes, halved (optional)
 

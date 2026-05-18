@@ -16,13 +16,13 @@ Cucumber slices very thin, salts for 20 minutes to draw out water, then squeezes
 ## Ingredients
 
 ### Salad
-- 2 large cucumbers (about 600 g; English cucumbers or 4 Lebanese)
+- 2 cucumbers (large, about 600 g; English cucumbers or 4 Lebanese)
 - 1 teaspoon fine salt
 
 ### Dressing
 - 200 g full-fat sour cream
 - 1 tablespoon white wine vinegar or lemon juice
-- 1 small garlic clove (finely grated; optional)
+- 1 garlic clove (small, finely grated; optional)
 - 1 teaspoon caster sugar
 - ½ teaspoon fine salt
 - Freshly ground black pepper

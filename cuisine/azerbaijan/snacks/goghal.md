@@ -20,7 +20,7 @@ A yeasted milk-and-egg dough rests for 1 hour. Spice mix combines black pepper, 
 - 1 teaspoon salt
 - 1 teaspoon caster sugar
 - 250 ml warm milk
-- 2 large eggs
+- 2 eggs (large)
 - 50 g unsalted butter (melted, plus extra for laminating)
 
 ### Spice paste

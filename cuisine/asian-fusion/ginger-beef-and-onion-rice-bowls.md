@@ -20,7 +20,7 @@ A bowl dinner that punches above its ingredient list. Sirloin is sliced into thi
 - 30 g fresh ginger, finely sliced or grated
 - 120 ml soy sauce
 - 60 ml rice vinegar
-- 1 medium white onion, thinly sliced
+- 1 white onion (medium), thinly sliced
 - 12 g brown sugar
 
 ### To cook and serve

@@ -15,7 +15,7 @@ Egg whites whip with sugar to stiff glossy peaks; cornflour and white wine vineg
 ## Ingredients
 
 ### Meringue base
-- 6 large egg whites (room temperature)
+- 6 egg whites (large, room temperature)
 - 350 g caster sugar
 - 2 teaspoons cornflour
 - 1 teaspoon white wine vinegar (or lemon juice)

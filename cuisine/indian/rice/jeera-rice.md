@@ -17,7 +17,7 @@ Aged basmati rice is rinsed and soaked for 30 minutes (a step that helps the gra
 - 600 ml water (or 550 ml if your rice is freshly bought)
 - 2 tablespoons ghee (or oil + butter)
 - 1 tablespoon cumin seeds
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 4 cloves
 - 3 green cardamom pods (lightly crushed)
 - 1 bay leaf

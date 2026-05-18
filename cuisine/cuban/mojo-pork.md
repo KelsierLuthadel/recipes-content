@@ -25,7 +25,7 @@ Mojo, pronounced moh-ho, is the foundational citrus and garlic marinade of Cuban
 - 1 tbsp flaky salt
 - 1 tsp black pepper
 - 100 ml olive oil
-- 1 small onion, thinly sliced
+- 1 onion (small), thinly sliced
 - 2 bay leaves
 
 ### To serve

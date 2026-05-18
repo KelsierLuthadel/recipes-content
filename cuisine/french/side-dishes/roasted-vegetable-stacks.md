@@ -22,7 +22,7 @@ Roasted vegetable stacks are a vibrant and impressive side dish built from layer
 - 12-16 asparagus stalks
 - 8 tablespoons garlic vinaigrette
 - 15 cm chunk French bread (quartered)
-- 1 large garlic clove (unpeeled and cut in half)
+- 1 garlic clove (large, unpeeled and cut in half)
 
 ## Method
 1. Heat the oven to 220°C.

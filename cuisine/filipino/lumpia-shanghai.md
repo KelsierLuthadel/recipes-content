@@ -16,11 +16,11 @@ A pork-mince filling with carrot, onion, garlic, soy and pepper rolls tightly in
 
 ### Filling
 - 500 g pork mince
-- 1 small onion (very finely chopped)
+- 1 onion (small, very finely chopped)
 - 1 carrot (very finely grated)
 - 4 garlic cloves (crushed)
 - 2 spring onions (very finely chopped)
-- 1 large egg
+- 1 egg (large)
 - 2 tablespoons soy sauce
 - 1 teaspoon ground white pepper
 - 1 teaspoon salt

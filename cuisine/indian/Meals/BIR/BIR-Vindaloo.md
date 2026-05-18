@@ -23,7 +23,7 @@ A hot, sour, and deeply spiced curry originating from Goa. Built on a vinegar-ba
 - 1 tsp coriander seeds
 - 4-6 black peppercorns
 - 2 cloves
-- 1 small cinnamon stick (or ½ tsp ground)
+- 1 cinnamon stick (small, or ½ tsp ground)
 - 2-3 tbsp white vinegar
 - 1 tsp sugar
 - ½ tsp turmeric

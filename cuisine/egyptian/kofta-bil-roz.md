@@ -17,10 +17,10 @@ Mixed beef-lamb mince combines with grated onion, garlic, cumin, allspice, parsl
 ### Meatballs
 - 400 g beef mince
 - 300 g lamb mince
-- 1 large onion (very finely grated, juices reserved)
+- 1 onion (large, very finely grated, juices reserved)
 - 4 garlic cloves (crushed)
 - 50 g dried breadcrumbs
-- 1 large egg
+- 1 egg (large)
 - 1 ½ teaspoons ground cumin
 - 1 teaspoon ground allspice
 - ½ teaspoon ground cinnamon
@@ -30,7 +30,7 @@ Mixed beef-lamb mince combines with grated onion, garlic, cumin, allspice, parsl
 
 ### Sauce
 - 2 tablespoons vegetable oil
-- 1 medium onion (chopped)
+- 1 onion (medium, chopped)
 - 4 garlic cloves (crushed)
 - 1 (400 g) tin chopped tomatoes
 - 2 tablespoons tomato puree

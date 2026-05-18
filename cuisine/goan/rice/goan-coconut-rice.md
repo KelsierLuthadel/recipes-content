@@ -15,11 +15,11 @@ Aged basmati is rinsed and soaked. A whole-spice tempering of cinnamon, cardamom
 ## Ingredients
 - 300 g aged basmati rice (rinsed, soaked for 30 minutes)
 - 2 tablespoons coconut oil (or ghee)
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 4 green cardamom pods (lightly crushed)
 - 4 cloves
 - 1 bay leaf
-- 1 small onion (finely sliced)
+- 1 onion (small, finely sliced)
 - 1 green chilli (slit, optional)
 - 2 garlic cloves (finely chopped)
 - 300 ml coconut milk (full-fat, well-shaken)

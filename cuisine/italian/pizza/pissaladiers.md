@@ -23,7 +23,7 @@ This is the French answer to Neapolitan pizza. Where Italian pizza celebrates to
 
 ### Topping
 - 18 anchovy fillets (soaked in milk for 1 hour if very salty)
-- 40 small black olives (Nicoise or similar)
+- 40 black olives (small, Nicoise or similar)
 - 1 teaspoon tiny fresh thyme sprigs
 
 ## Method

@@ -16,7 +16,7 @@ Chicken thighs poach with onion, saffron, ginger, cinnamon and orange-flower wat
 
 ### Chicken
 - 800 g boneless skinless chicken thighs
-- 1 large onion (sliced)
+- 1 onion (large, sliced)
 - 50 g unsalted butter
 - 2 tablespoons olive oil
 - 1 large pinch saffron threads
@@ -31,7 +31,7 @@ Chicken thighs poach with onion, saffron, ginger, cinnamon and orange-flower wat
 - 300 ml water
 
 ### Egg layer
-- 4 large eggs (beaten)
+- 4 eggs (large, beaten)
 
 ### Almond layer
 - 200 g blanched whole almonds

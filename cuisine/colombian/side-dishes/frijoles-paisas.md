@@ -18,9 +18,9 @@ Dried red beans soak overnight. Bacon and chorizo render in a wide pot; aromatic
 - 200 g smoked streaky bacon or pancetta (cut into 1 cm cubes)
 - 1 chorizo (Spanish or Colombian-style, sliced thick)
 - 200 g cured pork belly or hock (in 1 piece)
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 4 garlic cloves (crushed)
-- 1 medium green plantain (peeled, cut into 4 chunks)
+- 1 green plantain (medium, peeled, cut into 4 chunks)
 - 1 carrot (chopped, optional)
 - 2 fresh tomatoes (grated)
 - 1 teaspoon ground cumin

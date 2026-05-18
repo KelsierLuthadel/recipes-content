@@ -15,7 +15,7 @@ Chicken piccata, the Italian-American mid-century classic of pounded chicken cut
 ## Ingredients
 
 ### Meatballs
-- 1 large egg
+- 1 egg (large)
 - 4 garlic cloves (minced)
 - 2 tablespoons fresh chopped parsley
 - 1 tablespoon whole milk ricotta
@@ -29,7 +29,7 @@ Chicken piccata, the Italian-American mid-century classic of pounded chicken cut
 
 ### Pan sauce
 - 4 tablespoons unsalted butter
-- 1 large shallot (chopped)
+- 1 shallot (large, chopped)
 - 2 garlic cloves (minced)
 - 1 tablespoon plain flour
 - 240 ml chicken broth

@@ -14,10 +14,10 @@ Aubergine slices salt and sweat to remove moisture; fry hard in oil until golden
 
 ## Ingredients
 
-- 2 large aubergines (cut into 1 ½ cm rounds)
+- 2 aubergines (large, cut into 1 ½ cm rounds)
 - 1 tablespoon salt (for sweating)
 - 6 tablespoons vegetable oil (for frying)
-- 1 medium onion (finely chopped)
+- 1 onion (medium, finely chopped)
 - 4 garlic cloves (crushed)
 - 2 fresh tomatoes (chopped) or 200 ml passata
 - 1 teaspoon ground turmeric

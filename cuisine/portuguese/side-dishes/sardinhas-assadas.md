@@ -14,7 +14,7 @@ Fresh whole sardines (ideally the small finger-length variety from June-August) 
 
 ## Ingredients
 
-- 12 small fresh whole sardines (about 600 g total - ideally finger-length, no longer than your hand)
+- 12 fresh whole sardines (small, about 600 g total - ideally finger-length, no longer than your hand)
 - 4 tablespoons coarse sea salt (yes, that much)
 - Olive oil (for the grill or pan)
 

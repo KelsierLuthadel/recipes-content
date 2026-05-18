@@ -16,7 +16,7 @@ Walnuts are toasted and ground to a paste. Onions are softened slowly with turme
 
 - 6 chicken thighs (bone-in, skin on) or 1 duck (jointed)
 - 2 tablespoons olive oil
-- 2 large onions (finely chopped)
+- 2 onions (large, finely chopped)
 - 1 teaspoon ground turmeric
 - A generous pinch of saffron (steeped in 3 tablespoons hot water 10 min)
 - 400 g shelled walnuts

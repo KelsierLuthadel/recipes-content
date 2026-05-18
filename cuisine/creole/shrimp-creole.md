@@ -16,12 +16,12 @@ The trinity (onion, celery, green pepper) softens in butter; garlic, Creole seas
 
 ### Sauce
 - 50 g unsalted butter
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 3 celery sticks (chopped)
 - 1 green pepper (chopped)
 - 6 garlic cloves (crushed)
 - 2 tablespoons tomato paste
-- 1 x 400 g tin chopped tomatoes
+- 400 g tin chopped tomatoes
 - 400 ml seafood, chicken or vegetable stock
 - 2 bay leaves
 - 4 sprigs fresh thyme

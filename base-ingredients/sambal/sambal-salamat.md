@@ -17,7 +17,7 @@ Sambal salamat is the tomato-forward answer for cooks who want fresh vegetable f
 ## Ingredients
 
 ### Primary Ingredients
-- 3-4 medium ripe tomatoes (approximately 500-600 grams total)
+- 3-4 ripe tomatoes (medium, approximately 500-600 grams total)
 - 1-2 fresh red chillies (adjust for heat preference)
 - 3-4 tablespoons fish sauce (Southeast Asian style)
 - ¼ teaspoon fine sea salt

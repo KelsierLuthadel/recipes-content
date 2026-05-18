@@ -29,7 +29,7 @@ A no-yeast dough rolled thin and topped with a crème fraîche, parmesan, lemon 
 
 ### Topping
 - 1 bunch salad onions (white parts thinly sliced, green parts roughly chopped)
-- 1 small red onion (thinly sliced)
+- 1 red onion (small, thinly sliced)
 - 8 to 9 slices smoked pancetta
 
 ### To Serve

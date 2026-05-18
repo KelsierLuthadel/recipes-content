@@ -20,8 +20,8 @@ Dried chickpeas (or a chickpea-fava blend) soak overnight. Drained, blitzed with
 - Cold water (for the soak)
 
 ### Blender (the herb load is the Palestinian signature)
-- 1 medium onion (rough chunks)
-- 1 small leek (white and pale green only, chopped) OR 4 spring onions
+- 1 onion (medium, rough chunks)
+- 1 leek (small, white and pale green only, chopped) OR 4 spring onions
 - 5 garlic cloves
 - 1 large bunch fresh parsley (~50 g, leaves and fine stems)
 - 1 large bunch fresh coriander (~30 g)

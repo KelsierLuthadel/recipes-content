@@ -17,7 +17,7 @@ Make thin crepes from a simple flour-egg-milk batter. Make a filling: traditiona
 
 ### Crepes
 - 200 g plain flour
-- 3 large eggs
+- 3 eggs (large)
 - 400 ml whole milk
 - 100 ml sparkling water
 - ½ teaspoon salt
@@ -26,7 +26,7 @@ Make thin crepes from a simple flour-egg-milk batter. Make a filling: traditiona
 ### Mushroom-and-cabbage filling (Christmas Eve version)
 - 25 g dried porcini mushrooms (soaked in 200 ml hot water 30 minutes)
 - 250 g sauerkraut (rinsed, drained, squeezed dry, chopped)
-- 1 medium onion (finely chopped)
+- 1 onion (medium, finely chopped)
 - 30 g unsalted butter
 - 2 tablespoons soured cream
 - 1 bay leaf
@@ -34,7 +34,7 @@ Make thin crepes from a simple flour-egg-milk batter. Make a filling: traditiona
 - Salt and freshly ground black pepper
 
 ### Breading
-- 2 large eggs (beaten)
+- 2 eggs (large, beaten)
 - 200 g fine dried breadcrumbs (panko works too)
 - 50 g plain flour (for an initial light dredge)
 

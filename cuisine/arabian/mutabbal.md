@@ -14,7 +14,7 @@ Aubergines char whole over a gas flame until completely soft and the skins black
 
 ## Ingredients
 
-- 3 large aubergines (around 1.2 kg total)
+- 3 aubergines (large, around 1.2 kg total)
 - 100 g tahini (well-stirred)
 - 100 g plain yogurt (Greek-style)
 - 4 garlic cloves (crushed to paste with salt)

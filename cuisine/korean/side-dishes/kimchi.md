@@ -15,7 +15,7 @@ Napa cabbage quarters and salts in heavy salt water 4 hours; rinses well; drains
 ## Ingredients
 
 ### Cabbage and salt
-- 1 large napa (Chinese) cabbage (1.5-2 kg)
+- 1 napa (large, Chinese) cabbage (1.5-2 kg)
 - 80 g coarse sea salt (do NOT use table salt - iodine kills fermentation)
 
 ### Rice porridge
@@ -24,7 +24,7 @@ Napa cabbage quarters and salts in heavy salt water 4 hours; rinses well; drains
 - 2 tablespoons caster sugar
 
 ### Aromatic paste
-- 1 small onion (about 100 g)
+- 1 onion (small, about 100 g)
 - 1 small Korean pear or apple (about 150 g, peeled and cored)
 - 8 garlic cloves
 - 30 g fresh ginger
@@ -34,7 +34,7 @@ Napa cabbage quarters and salts in heavy salt water 4 hours; rinses well; drains
 
 ### Vegetables
 - 200 g daikon radish (julienned)
-- 1 medium carrot (julienned)
+- 1 carrot (medium, julienned)
 - 6 spring onions (sliced 4 cm long)
 - 1 small bunch garlic chives (cut 4 cm long, optional)
 

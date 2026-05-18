@@ -16,7 +16,7 @@ A rich, layered Italian baked pasta combining slow-cooked meat ragù with silky 
 ## Ingredients
 - 3 tablespoons of olive oil
 - 1 onion (peeled and finely chopped)
-- 1 large carrot (peeled and finely chopped)
+- 1 carrot (large, peeled and finely chopped)
 - 1 celery stick (finely chopped)
 - 500 grams minced beef
 - 350 ml Italian red wine

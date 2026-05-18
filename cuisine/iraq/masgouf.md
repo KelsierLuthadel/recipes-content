@@ -23,8 +23,8 @@ Whole large fish butterflies open (a long cut down the back, leaving the belly a
 - 1 teaspoon ground cumin
 - 1 ½ teaspoons salt
 - 1 teaspoon ground black pepper
-- 1 large onion (sliced)
-- 2 large tomatoes (sliced)
+- 1 onion (large, sliced)
+- 2 tomatoes (large, sliced)
 - 1 small bunch fresh parsley (chopped)
 - 1 lemon (cut into wedges)
 

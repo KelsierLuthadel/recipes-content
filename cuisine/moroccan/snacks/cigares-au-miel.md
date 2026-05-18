@@ -24,7 +24,7 @@ Almond paste: ground almonds, icing sugar, melted butter, cinnamon, orange-flowe
 
 ### Pastry
 - 24 sheets warka or filo pastry (cut to 12 × 10 cm strips)
-- 1 large egg (beaten, for sealing)
+- 1 egg (large, beaten, for sealing)
 
 ### Frying
 - 600 ml neutral oil

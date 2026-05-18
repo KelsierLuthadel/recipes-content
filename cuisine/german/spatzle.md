@@ -15,7 +15,7 @@ A loose egg-rich batter rests briefly to relax the gluten. It presses through a 
 ## Ingredients
 
 - 300 g plain flour
-- 4 large eggs
+- 4 eggs (large)
 - 150 ml whole milk
 - 1 teaspoon salt
 - A grating of nutmeg

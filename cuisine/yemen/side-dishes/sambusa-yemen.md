@@ -17,7 +17,7 @@ Lamb mince fries with onion, garlic, cumin, coriander and chilli to a dry savour
 ### Filling
 - 400 g lamb mince (or beef)
 - 2 tablespoons vegetable oil
-- 1 medium onion (very finely chopped)
+- 1 onion (medium, very finely chopped)
 - 4 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
 - 1 ½ teaspoons ground cumin

@@ -20,8 +20,8 @@ A pork and prawn filling is bound with shredded carrot, glass noodles and recons
 - 200 g raw prawns (peeled, deveined and finely chopped)
 - 50 g dried wood-ear mushrooms (mộc nhĩ)
 - 30 g dried glass noodles (mung bean vermicelli)
-- 1 medium carrot (very finely grated or julienned)
-- 1 small shallot (finely chopped)
+- 1 carrot (medium, very finely grated or julienned)
+- 1 shallot (small, finely chopped)
 - 3 garlic cloves (finely chopped)
 - 2 spring onions (finely sliced)
 - 1 egg yolk

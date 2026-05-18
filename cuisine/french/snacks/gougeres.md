@@ -22,7 +22,7 @@ Choux dough cooks on the stovetop: milk + water + butter + salt come to a rollin
 - A pinch of caster sugar
 - A pinch of black pepper
 - 150 g plain flour (sifted)
-- 4 large eggs (room temperature, beaten)
+- 4 eggs (large, room temperature, beaten)
 - 1 teaspoon Dijon mustard
 
 ### Cheese

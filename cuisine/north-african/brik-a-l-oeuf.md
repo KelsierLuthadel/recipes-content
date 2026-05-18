@@ -15,8 +15,8 @@ The filling is built in a small bowl: drained tinned tuna, finely-chopped onion,
 ## Ingredients
 
 ### Filling
-- 1 x 160 g tin tuna (in olive oil, drained)
-- 1 medium onion (very finely chopped)
+- 160 g tin tuna (in olive oil, drained)
+- 1 onion (medium, very finely chopped)
 - A small bunch flat-leaf parsley (chopped)
 - 2 tablespoons capers (rinsed, chopped)
 - 2 tablespoons grated parmesan or aged gouda (optional)
@@ -26,7 +26,7 @@ The filling is built in a small bowl: drained tinned tuna, finely-chopped onion,
 
 ### Brik
 - 4 sheets malsouka pastry (or 8 sheets filo, kept under a damp cloth)
-- 4 large eggs
+- 4 eggs (large)
 - Vegetable oil for shallow frying
 
 ### To serve

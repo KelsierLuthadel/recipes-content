@@ -19,7 +19,7 @@ Sugar caramelises in each llanera tin until amber and runny; tins set aside to c
 - 2 tablespoons water
 
 ### Custard
-- 10 large egg yolks
+- 10 egg yolks (large)
 - 400 g sweetened condensed milk (1 standard tin)
 - 350 ml evaporated milk
 - 1 tablespoon vanilla extract

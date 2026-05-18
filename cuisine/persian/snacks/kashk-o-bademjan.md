@@ -15,9 +15,9 @@ Aubergines are roasted whole until completely soft and the skin chars (oven, bro
 ## Ingredients
 
 ### Aubergine base
-- 3 large aubergines (about 800 g total)
+- 3 aubergines (large, about 800 g total)
 - 4 tablespoons olive oil OR sunflower oil
-- 2 medium onions (finely diced)
+- 2 onions (medium, finely diced)
 - 4 garlic cloves (crushed)
 - 1 teaspoon ground turmeric
 - 1 large pinch saffron threads (soaked in 2 tablespoons hot water)
@@ -31,7 +31,7 @@ Aubergines are roasted whole until completely soft and the skin chars (oven, bro
 - 2 tablespoons dried mint
 
 ### Crispy fried onions
-- 1 large onion (sliced VERY thin)
+- 1 onion (large, sliced VERY thin)
 - 3 tablespoons sunflower oil (for frying)
 
 ### To plate

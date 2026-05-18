@@ -22,13 +22,13 @@ Beef shank parboils briefly to remove scum. Aromatics, ginger, garlic, scallion,
 - 6 cm fresh ginger (sliced)
 - 6 garlic cloves (smashed)
 - 4 spring onions (whole, smashed)
-- 1 medium onion (quartered)
+- 1 onion (medium, quartered)
 - 4 star anise
 - 1 cinnamon stick
 - 4 dried red chillies
 - 2 tablespoons Sichuan peppercorns (lightly crushed)
 - 3 tablespoons doubanjiang (Pixian-style)
-- 2 medium tomatoes (quartered)
+- 2 tomatoes (medium, quartered)
 
 ### Liquid and seasoning
 - 100 ml Shaoxing rice wine

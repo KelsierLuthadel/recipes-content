@@ -16,7 +16,7 @@ The trotters get a hard initial boil to set the meat and start releasing gelatin
 
 - 1 ½ kg cow trotters (cleaned, cut into pieces by the butcher - 4-6 cm chunks)
 - 3 tablespoons vegetable oil
-- 2 large onions (chopped)
+- 2 onions (large, chopped)
 - 6 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
 - 1 (400 g) tin chopped tomatoes

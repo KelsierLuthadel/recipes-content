@@ -14,9 +14,9 @@ Tomatoes cut into thick wedges, cucumber peeled in stripes and cut into chunky r
 
 ## Ingredients
 - 4 ripe medium tomatoes (about 600 g)
-- 2 small cucumbers (about 300 g)
+- 2 cucumbers (small, about 300 g)
 - 1 green bell pepper
-- 1 small red onion
+- 1 red onion (small)
 - 16 kalamata olives (pitted or whole, your call)
 - 2 tablespoons capers in brine (drained)
 - 200 g feta cheese (one slab, NOT pre-crumbled)

@@ -24,11 +24,11 @@ A graham-cracker base is pressed into a 23 cm springform tin and pre-baked for 1
 - 900 g full-fat cream cheese (Philadelphia or equivalent; room temperature)
 - 250 g caster sugar
 - 30 g plain flour
-- 4 large eggs (room temperature)
-- 1 large egg yolk
+- 4 eggs (large, room temperature)
+- 1 egg yolk (large)
 - 200 g full-fat sour cream
 - 2 teaspoons vanilla extract
-- Zest of 1 lemon
+- 1 lemon (zest)
 - 1 tablespoon lemon juice
 
 ### To serve (optional)

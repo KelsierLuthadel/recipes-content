@@ -19,11 +19,11 @@ A delicate yet flavorful soup pairing the subtle anise notes of fennel with vibr
 - 60 grams unsalted butter
 
 ### Aromatics
-- 2 small onions (very finely chopped)
-- 2 small fennel bulbs (very finely chopped)
+- 2 onions (small, very finely chopped)
+- 2 fennel bulbs (small, very finely chopped)
 
 ### Vegetables
-- 1 small potato (peeled and chopped)
+- 1 potato (small, peeled and chopped)
 - 700 grams spinach (stalks removed, leaves washed)
 
 ### Liquid/Broth

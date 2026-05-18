@@ -29,7 +29,7 @@ A 1.6 kg bird rubbed with herb butter, roasted high to crisp the skin then dropp
 
 ### Yorkshire puddings (makes 8)
 - 140 g plain flour
-- 4 large eggs
+- 4 eggs (large)
 - 200 ml whole milk
 - ½ teaspoon salt
 - 4 tablespoons vegetable oil

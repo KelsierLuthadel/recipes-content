@@ -23,7 +23,7 @@ A whole fish is rubbed with salt, lemon, garlic and olive oil inside and out. Wh
 
 ### Sauce
 - 4 tablespoons olive oil
-- 1 large red onion (finely diced)
+- 1 red onion (large, finely diced)
 - 6 garlic cloves (sliced thin)
 - 2 teaspoons Aleppo pepper (or 1 teaspoon mild chilli powder)
 - 1 ½ teaspoons ground cumin

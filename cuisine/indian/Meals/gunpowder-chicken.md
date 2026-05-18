@@ -17,7 +17,7 @@ Gluten-free popcorn chicken bites made with gram flour batter, inspired by overp
 
 ## Ingredients
 ### Protein
-- 2 large chicken breasts, chopped into 2 cm (¾ inch) pieces
+- 2 chicken breasts (large), chopped into 2 cm (¾ inch) pieces
 
 ### Aromatics
 - 2 tsp crushed garlic
@@ -41,7 +41,7 @@ Gluten-free popcorn chicken bites made with gram flour batter, inspired by overp
 - Vegetable oil, for deep frying
 
 ### Toppings
-- 1 large red chilli, finely sliced
+- 1 red chilli (large), finely sliced
 - ½ red onion, finely sliced
 - 1 tbsp chopped fresh coriander (cilantro)
 - 2 tbsp Tamarind Chutney

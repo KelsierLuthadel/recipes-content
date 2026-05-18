@@ -19,8 +19,8 @@ A semolina custard is simmered on the stove, milk, semolina, sugar, lemon zest, 
 - 120 g fine semolina
 - 200 g caster sugar
 - 1 tablespoon vanilla extract
-- Zest of 1 lemon
-- 4 large eggs
+- 1 lemon (zest)
+- 4 eggs (large)
 - 80 g unsalted butter
 
 ### Filo
@@ -31,7 +31,7 @@ A semolina custard is simmered on the stove, milk, semolina, sugar, lemon zest, 
 - 300 g caster sugar
 - 250 ml water
 - 1 strip lemon peel
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 2 tablespoons lemon juice
 
 ## Method

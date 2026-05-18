@@ -21,7 +21,7 @@ A mix of raw and lightly-blanched vegetables; firm tofu pan-fried; hard-boiled e
 - 200 g beansprouts
 - 200 g firm tofu (cut into 2 cm cubes)
 - 2 tablespoons vegetable oil (for frying tofu)
-- 4 large eggs (hard-boiled, halved)
+- 4 eggs (large, hard-boiled, halved)
 - ½ cucumber (sliced)
 - 50 g prawn crackers (vegetarian; for serving - optional)
 

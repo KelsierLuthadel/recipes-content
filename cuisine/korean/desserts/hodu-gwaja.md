@@ -18,7 +18,7 @@ A simple cake-style batter, flour, eggs, milk, sugar, butter, is whisked to a sm
 - 200 g plain flour
 - 1 ½ teaspoons baking powder
 - ¼ teaspoon salt
-- 2 large eggs
+- 2 eggs (large)
 - 100 g caster sugar
 - 50 g unsalted butter (melted)
 - 150 ml whole milk

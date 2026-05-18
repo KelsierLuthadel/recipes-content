@@ -20,7 +20,7 @@ This is a sophisticated pizza dough made with a long, cool fermentation (8-12 ho
 - 20 grams fine sea salt
 - 25 grams caster sugar
 - 50 ml extra virgin olive oil
-- 120 grams additional Italian '00' flour
+- 120 grams Italian '00' flour
 
 ### For Handling
 - Extra flour for dusting

@@ -14,7 +14,7 @@ Ripe summer tomatoes and good buffalo mozzarella alternate in a row, with whole 
 
 ## Ingredients
 
-- 4 large ripe tomatoes (a mix of colours if you can - yellow, beefsteak, plum)
+- 4 ripe tomatoes (large, a mix of colours if you can - yellow, beefsteak, plum)
 - 250 g buffalo mozzarella (drained, ideally fresh-from-the-deli)
 - A small bunch of fresh basil (whole leaves)
 - 4 tablespoons excellent extra virgin olive oil

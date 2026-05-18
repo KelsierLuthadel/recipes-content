@@ -18,7 +18,7 @@ Chicken pieces (bone-in legs or wings) poach in lightly salted water with onion,
 ### Chicken and broth
 - 1.2 kg bone-in chicken pieces (a mix of thighs, drumsticks and wings)
 - 2 litres cold water
-- 1 large onion (sliced)
+- 1 onion (large, sliced)
 - 2 celery stalks (sliced; reserve the leafy tops)
 - 4 garlic cloves (smashed)
 - 4 spring onions (whole)

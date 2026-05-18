@@ -16,7 +16,7 @@ Chicken thighs are browned in oil; onions and garlic are softened alongside. Tom
 
 - 8 boneless skinless chicken thighs (or 1 whole chicken, jointed)
 - 2 tablespoons vegetable oil
-- 2 large onions (chopped)
+- 2 onions (large, chopped)
 - 4 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
 - 4 tomatoes (grated) or 1 (400 g) tin chopped tomatoes

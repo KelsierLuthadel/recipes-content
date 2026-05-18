@@ -23,7 +23,7 @@ Sticky rice toasts in a dry pan to a deep gold, ground to a coarse powder (khao 
 - 3 tablespoons fish sauce
 - Juice of 2 limes (about 5 tablespoons)
 - 1-2 teaspoons Thai dried chilli flakes (or 2 fresh bird's-eye chillies, finely chopped)
-- 4 small shallots (sliced thin)
+- 4 shallots (small, sliced thin)
 - 4 spring onions (sliced thin)
 - ½ teaspoon sugar (optional)
 - 1 large handful fresh mint leaves

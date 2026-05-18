@@ -19,7 +19,7 @@ Long soft frankfurter rolls (pan de hot dog) split lengthways. Frankfurters poac
 - 2 ripe avocados
 - Juice of ½ lime
 - 1 teaspoon salt (for avocado)
-- 4 small ripe tomatoes (very finely diced, seeds removed)
+- 4 ripe tomatoes (small, very finely diced, seeds removed)
 - ½ teaspoon salt (for tomato)
 - 150 g sauerkraut (drained well)
 - 4 tablespoons mayonnaise (Chilean-style, very thick)

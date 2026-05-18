@@ -28,7 +28,7 @@ Make a stiff mac-and-cheese, sharp cheddar, parmesan, a touch of mustard, just e
 
 ### Breading
 - 100 g plain flour
-- 2 large eggs (beaten with 2 tablespoons milk)
+- 2 eggs (large, beaten with 2 tablespoons milk)
 - 200 g panko breadcrumbs
 - 1 teaspoon paprika
 - 1 teaspoon garlic powder

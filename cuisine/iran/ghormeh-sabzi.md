@@ -16,7 +16,7 @@ Onion fries deep golden in oil; turmeric and a touch of cinnamon toast in. Cubed
 
 - 800 g lamb shoulder (or beef chuck) - 3 cm cubes
 - 4 tablespoons vegetable oil (split)
-- 2 large onions (chopped)
+- 2 onions (large, chopped)
 - 1 teaspoon ground turmeric
 - ¼ teaspoon ground cinnamon
 - 1 teaspoon ground black pepper

@@ -23,7 +23,7 @@ Chicken thigh chunks simmer in dashi-mirin-soy broth with sliced onion until ten
 ### To simmer
 - 300 g chicken thigh (boneless, skinless, cut into 2 cm pieces)
 - 1 onion (thinly sliced)
-- 4 large eggs (lightly beaten, leaving streaks)
+- 4 eggs (large, lightly beaten, leaving streaks)
 
 ### To serve
 - 2 bowls cooked Japanese short-grain rice

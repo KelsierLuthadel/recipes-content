@@ -18,7 +18,7 @@ Ceviche is a vibrant, no-cook appetizer in which fresh seafood is "cooked" by th
 - 350 grams salmon fillet
 - 2 tomatoes
 - 1 red onion (finely chopped)
-- 1 small mango
+- 1 mango (small)
 - 1 fresh red chilli (de-seeded and chopped)
 - 12 limes
 - 2 tablespoon caster sugar

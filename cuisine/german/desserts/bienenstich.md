@@ -21,7 +21,7 @@ A milk-and-butter enriched yeast dough proves to soft and pillowy. A honey-almon
 - 50 g caster sugar
 - 1 teaspoon salt
 - 150 ml warm whole milk
-- 1 large egg
+- 1 egg (large)
 - 60 g unsalted butter (soft)
 
 ### Honey-almond topping
@@ -36,7 +36,7 @@ A milk-and-butter enriched yeast dough proves to soft and pillowy. A honey-almon
 ### Vanilla pastry cream filling
 - 500 ml whole milk
 - 1 vanilla pod (split and scraped), or 2 teaspoons vanilla extract
-- 5 large egg yolks
+- 5 egg yolks (large)
 - 100 g caster sugar
 - 40 g cornflour
 - 50 g unsalted butter

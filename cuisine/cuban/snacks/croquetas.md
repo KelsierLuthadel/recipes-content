@@ -26,9 +26,9 @@ A thick bechamel cooks with finely diced ham or cooked chicken until it pulls aw
 
 ### Breading
 - 80 g plain flour
-- 2 large eggs (beaten with 1 tablespoon water)
+- 2 eggs (large, beaten with 1 tablespoon water)
 - 200 g fine dry breadcrumbs (panko or homemade)
-- About 250 ml sunflower oil, for shallow-frying
+- 250 ml sunflower oil, for shallow-frying
 - Lime wedges, to serve
 
 ## Method

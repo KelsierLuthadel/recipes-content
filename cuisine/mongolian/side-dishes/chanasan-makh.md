@@ -17,7 +17,7 @@ Mutton on the bone, shoulder, breast, leg in big pieces, is placed in a deep pot
 - 1 ½ kg mutton on the bone (shoulder, leg, breast, ribs - mixed cuts are traditional)
 - 3 litres cold water
 - 3 tablespoons salt (yes, 3)
-- 1 small onion (halved - optional; traditionalists use nothing)
+- 1 onion (small, halved - optional; traditionalists use nothing)
 - 1 bay leaf (optional)
 
 ### To serve

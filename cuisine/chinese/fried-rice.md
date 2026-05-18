@@ -21,7 +21,7 @@ Fried rice is fundamentally about texture contrast: individual grains coated ent
 
 ### Proteins & Meat
 - 50 grams Parma ham (or quality cured ham)
-- 2 large eggs (room temperature)
+- 2 eggs (large, room temperature)
 
 ### Vegetables
 - 110 grams fresh bean sprouts (about 1 cup)

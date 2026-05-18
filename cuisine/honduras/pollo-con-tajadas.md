@@ -33,15 +33,15 @@ Bone-in chicken pieces marinate in lime, garlic, achiote and cumin, then are flo
 
 ### Curtido (cabbage relish)
 - 200 g white cabbage (finely shredded)
-- 1 small carrot (grated)
-- 1 small red onion (very thinly sliced)
+- 1 carrot (small, grated)
+- 1 red onion (small, very thinly sliced)
 - 3 tablespoons white vinegar
 - ½ teaspoon salt
 - ½ teaspoon dried oregano
 
 ### Chimol
 - 3 ripe tomatoes (finely diced)
-- 1 small white onion (finely diced)
+- 1 white onion (small, finely diced)
 - 3 tablespoons fresh cilantro (chopped)
 - Juice of 1 lime
 - ½ teaspoon salt

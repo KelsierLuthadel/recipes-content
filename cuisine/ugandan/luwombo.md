@@ -24,17 +24,17 @@ Chicken thighs are marinated briefly in onion, garlic, ginger, tomato and a spri
 - Juice of 1 lemon
 
 ### Aromatics for the parcels
-- 2 large onions (finely chopped)
+- 2 onions (large, finely chopped)
 - 4 garlic cloves (crushed)
 - 2 cm piece of ginger (grated)
-- 4 medium tomatoes (chopped)
+- 4 tomatoes (medium, chopped)
 - 1 green chilli (finely chopped, seeds removed)
 - 2 tablespoons tomato purée
 - 40 g unsalted butter, in 4 knobs
 - Small bunch coriander (roughly chopped)
 
 ### Wrapping
-- 4 large banana leaves (about 40 x 50 cm each), passed briefly over an open flame until they soften and turn glossy (see Notes for alternative)
+- 4 banana leaves (large, about 40 x 50 cm each), passed briefly over an open flame until they soften and turn glossy (see Notes for alternative)
 - Kitchen string
 
 ## Method

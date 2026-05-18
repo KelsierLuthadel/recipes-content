@@ -20,8 +20,8 @@ Vine leaves blanch briefly to soften; veins are trimmed. A filling of short-grai
 ### Filling
 - 300 g short-grain rice (rinsed, not pre-cooked)
 - 400 g lamb mince
-- 2 medium tomatoes (very finely diced)
-- 1 medium onion (very finely chopped)
+- 2 tomatoes (medium, very finely diced)
+- 1 onion (medium, very finely chopped)
 - 4 tablespoons fresh parsley (chopped)
 - 3 tablespoons fresh mint (chopped)
 - 4 garlic cloves (crushed)
@@ -33,7 +33,7 @@ Vine leaves blanch briefly to soften; veins are trimmed. A filling of short-grai
 - 80 ml olive oil
 
 ### Base layer (prevents scorching)
-- 2 medium potatoes (sliced 5 mm)
+- 2 potatoes (medium, sliced 5 mm)
 - A few lamb bones or rib pieces (optional - add depth to the liquid)
 
 ### Cooking liquid

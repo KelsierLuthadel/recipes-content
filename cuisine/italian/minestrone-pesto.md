@@ -23,7 +23,7 @@ This hearty Italian minestrone soup is loaded with vegetables, beans, and pasta,
 - 3 tablespoons olive oil
 
 ### Vegetables
-- 1 large onion (coarsely chopped)
+- 1 onion (large, coarsely chopped)
 - 1 celery stick (halved length-ways then cut into 1 cm slices)
 - 1 carrot (halved length-ways then cut into 1 cm slices)
 - 1 potato (diced)

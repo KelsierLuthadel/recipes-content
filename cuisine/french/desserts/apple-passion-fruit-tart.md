@@ -19,7 +19,7 @@ These tartlets combine flaky puff pastry with a creamy crème pâtissière and d
 
 ### Filling
 - 180 grams [crème pâtissière](../../baking/cremes/creme-patissiere.md)
-- 3 medium apples (preferably Cox's)
+- 3 apples (medium, preferably Cox's)
 - 60 grams caster sugar
 
 ### Finish

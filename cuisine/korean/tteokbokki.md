@@ -27,7 +27,7 @@ Cylindrical rice cakes (refrigerated or frozen) soak for 10-30 minutes if dry/fi
 - 600 g Korean rice cake cylinders (tteok - refrigerated or frozen, thawed if needed)
 - 200 g fish cakes (eomuk - flat sheets cut into strips, or tube-shape sliced)
 - 4 hard-boiled eggs (peeled, whole)
-- 1 small onion (sliced)
+- 1 onion (small, sliced)
 
 ### To finish
 - 1 tablespoon toasted sesame oil

@@ -35,8 +35,8 @@ A vibrant Mexican soup featuring crispy fried tortilla strips in a smoky tomato 
 ### Other
 - 6 corn tortillas
 - 200 grams buffalo mozzarella (diced into ½ cm pieces)
-- 1 large ripe avocado (stoned, peeled, and diced)
-- 1 large lime (cut into wedges)
+- 1 ripe avocado (large, stoned, peeled, and diced)
+- 1 lime (large, cut into wedges)
 - 1 bunch fresh flat leaf parsley (finely chopped)
 - 1 bunch fresh coriander (finely chopped)
 

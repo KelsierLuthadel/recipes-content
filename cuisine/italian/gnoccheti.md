@@ -15,13 +15,13 @@ These handmade potato gnocchetti showcase Italian rustic cooking at its finest. 
 
 ### Gnocchetti Dough
 - 300 grams floury potatoes (unpeeled)
-- 1 small egg (lightly beaten)
+- 1 egg (small, lightly beaten)
 - 100 grams plain flour (plus extra for dusting)
 - Salt to taste
 
 ### Butter Sage Sauce
 - 100 grams salted butter
-- 2 medium courgettes (cut into 1 cm cubes)
+- 2 courgettes (medium, cut into 1 cm cubes)
 - 1 tablespoon fresh sage (finely sliced)
 - 300 grams Parmesan (freshly grated)
 - Salt and pepper to taste

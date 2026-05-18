@@ -18,7 +18,7 @@ Feta crumbles into a bowl with ricotta, egg, dill, mint, nutmeg and black pepper
 - 250 g feta cheese (crumbled)
 - 200 g ricotta (drained if very wet)
 - 50 g parmesan or kefalotyri (finely grated)
-- 1 large egg
+- 1 egg (large)
 - 2 tablespoons fresh dill (chopped)
 - 1 tablespoon fresh mint (chopped)
 - ¼ teaspoon ground nutmeg

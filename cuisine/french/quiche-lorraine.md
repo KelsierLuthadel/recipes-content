@@ -18,13 +18,13 @@ Buttery shortcrust pastry blind-baked first to set the base, then filled with re
 - 200 g plain flour
 - 100 g cold unsalted butter (cubed)
 - ½ teaspoon salt
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 2-3 tablespoons ice-cold water
 
 ### Filling
 - 200 g smoked bacon lardons
 - 200 g gruyère cheese (grated)
-- 4 large eggs
+- 4 eggs (large)
 - 200 ml double cream
 - 200 ml whole milk
 - A grating of fresh nutmeg

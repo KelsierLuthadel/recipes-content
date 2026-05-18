@@ -22,7 +22,7 @@ Big bunches of fresh herbs (parsley, coriander, dill, chives) chop very fine. Be
 - A handful fresh fenugreek leaves (shanbalileh) - OR 2 teaspoons dried fenugreek leaves (kasoori methi)
 
 ### Eggs
-- 6 large eggs
+- 6 eggs (large)
 - 2 tablespoons plain flour (or chickpea flour for a gluten-free version)
 - 1 teaspoon baking powder
 - 1 teaspoon ground turmeric

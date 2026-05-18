@@ -14,9 +14,9 @@ Tomato and cucumber are deseeded and diced into 5 mm cubes. Onion (preferably pu
 
 ## Ingredients
 
-- 4 medium tomatoes (around 400 g)
-- 2 medium cucumbers (around 300 g)
-- 1 small red onion
+- 4 tomatoes (medium, around 400 g)
+- 2 cucumbers (medium, around 300 g)
+- 1 red onion (small)
 - 4 tablespoons extra-virgin olive oil
 - Juice of 2 limes
 - 1 tablespoon dried mint

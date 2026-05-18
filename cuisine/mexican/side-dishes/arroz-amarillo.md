@@ -15,9 +15,9 @@ Achiote seeds are bloomed in hot oil to draw out their deep yellow-orange colour
 ## Ingredients
 - 2 tablespoons olive oil
 - 2 teaspoons annatto (achiote) seeds (or 1 teaspoon achiote powder, or ¼ teaspoon ground turmeric)
-- 1 small onion (finely diced)
+- 1 onion (small, finely diced)
 - 3 garlic cloves (finely chopped)
-- 1 small carrot (finely diced)
+- 1 carrot (small, finely diced)
 - 300 g long-grain white rice (rinsed until the water runs clear, drained)
 - 500 ml chicken stock (or vegetable stock)
 - 1 teaspoon ground cumin

@@ -18,7 +18,7 @@ Saffron blooms in hot water. Onion grates fine and squeezes through a sieve to r
 - 1 kg boneless chicken thigh (cut into 4 cm pieces)
 - 1 large pinch saffron threads
 - 2 tablespoons hot water
-- 1 large onion (grated, juice squeezed out - discard the pulp, use the juice)
+- 1 onion (large, grated, juice squeezed out - discard the pulp, use the juice)
 - 250 ml plain yogurt
 - Juice of 1 lemon
 - 3 tablespoons olive oil

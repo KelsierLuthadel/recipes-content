@@ -24,7 +24,7 @@ A round baking dish (or shallow gratin dish, or 9-inch pie plate) butters and du
 - 1 tablespoon caster sugar (for the cherries)
 
 ### Batter
-- 3 large eggs (room temperature)
+- 3 eggs (large, room temperature)
 - 80 g caster sugar (plus 1 tablespoon for sprinkling on top)
 - A pinch of salt
 - 1 teaspoon vanilla extract (OR scraped seeds from ½ vanilla pod)

@@ -13,7 +13,7 @@
 Red onion is sliced as thin as possible (mandoline is ideal). The slices are soaked in iced water with a small splash of vinegar for 15 minutes, which kills the raw sulphurous bite and crisps them up. Drained and patted dry, the slices are tossed with lemon juice, chaat masala, salt, a pinch of sugar and a small handful of finely chopped fresh coriander or mint. Pickled green chillies on the side complete it.
 
 ## Ingredients
-- 2 large red onions (about 350 g; peeled and very thinly sliced)
+- 2 red onions (large, about 350 g; peeled and very thinly sliced)
 - 400 ml iced water (for the soak)
 - 1 tablespoon white vinegar (for the soak)
 - 1 teaspoon salt (for the soak)
@@ -23,7 +23,8 @@ Red onion is sliced as thin as possible (mandoline is ideal). The slices are soa
 - ¼ teaspoon ground black pepper
 - A pinch of sugar
 - ½ teaspoon salt (to adjust)
-- A handful of fresh coriander (chopped) (or fresh mint, or both)
+- A handful of fresh coriander (chopped)
+- A handful of fresh mint (chopped)
 - 1 green chilli (finely chopped, optional)
 
 ### To finish
@@ -49,7 +50,7 @@ Red onion is sliced as thin as possible (mandoline is ideal). The slices are soa
 1. Transfer to a bowl.
 1. Add the lemon juice, chaat masala, chilli flakes, black pepper, sugar and salt.
 1. Toss to coat.
-1. Add the coriander and green chilli (if using).
+1. Add the coriander, mint and green chilli (if using).
 1. Toss again.
 
 ### Stage 5 - Serve

@@ -21,12 +21,12 @@ A nourishing, chunky vegetable soup packed with beans, squash, and seasonal vege
 
 ### Aromatics
 - 1 leek (halved length-ways and chopped)
-- 1 small onion (diced)
+- 1 onion (small, diced)
 
 ### Vegetables
 - 2 carrots (chopped)
 - 2 celery stalks (chopped)
-- 1 large courgette (chopped)
+- 1 courgette (large, chopped)
 - 400 grams butternut squash (cut into 2 cm cubes)
 - 2 potatoes (cut into 2 cm cubes)
 

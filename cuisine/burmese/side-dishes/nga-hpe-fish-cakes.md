@@ -20,7 +20,7 @@ Skinless firm fish fillets cube and pulse in a food processor with shallot, garl
 - 1 thumb fresh ginger (grated)
 - Juice of 1 lime
 - 2 tablespoons fish sauce
-- 1 small egg
+- 1 egg (small)
 - 3 tablespoons cornflour
 - ½ teaspoon ground turmeric
 - 1 small handful fresh curry leaves (chopped, or 1 small handful cilantro if curry leaves unavailable)

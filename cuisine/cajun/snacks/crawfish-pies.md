@@ -20,17 +20,17 @@ Pastry: a flaky shortcrust enriched with a little butter and lard (or all butter
 - ¾ teaspoon Cajun seasoning
 - 120 g cold unsalted butter, cubed
 - 50 g cold lard, cubed (or another 50 g cold butter)
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 6-7 tablespoons ice-cold water
 
 ### Filling
 - 50 g unsalted butter
 - 2 tablespoons plain flour
-- 1 small onion, finely chopped
+- 1 onion (small), finely chopped
 - 1 celery stick, finely chopped
 - ½ green pepper, deseeded and finely chopped
 - 2 garlic cloves, finely chopped
-- 1 small tomato, deseeded and finely chopped
+- 1 tomato (small), deseeded and finely chopped
 - 200 ml seafood or chicken stock
 - 1 ½ teaspoons Cajun seasoning
 - ½ teaspoon smoked paprika

@@ -19,7 +19,7 @@ Beef chuck or shin chunks are marinated in turmeric, fish sauce and salt. Onions
 - 2 tablespoons fish sauce
 - 1 ½ teaspoons salt (added later)
 - 8 tablespoons vegetable oil (more than feels right - this is the dish)
-- 3 large onions (chopped)
+- 3 onions (large, chopped)
 - 8 garlic cloves (crushed)
 - 1 large thumb fresh ginger (grated)
 - 3 tablespoons paprika

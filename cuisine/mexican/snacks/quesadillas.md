@@ -15,7 +15,7 @@ Pre-cook any "wet" filling (mushrooms, chorizo, peppers) and cool. Cheese is gra
 ## Ingredients
 
 ### Per quesadilla
-- 1 large flour tortilla (20-25 cm) OR 2 corn tortillas overlapped
+- 1 flour tortilla (large, 20-25 cm) OR 2 corn tortillas overlapped
 - 80 g melting cheese (Oaxacan string cheese / queso Oaxaca, monterey jack, mild cheddar, or low-moisture mozzarella - grated)
 - Optional filling (any combination, 2-3 tablespoons total):
   - Sautéed mushrooms with garlic and thyme
@@ -27,9 +27,9 @@ Pre-cook any "wet" filling (mushrooms, chorizo, peppers) and cool. Cheese is gra
   - Huitlacoche (the prized Mexican corn fungus, sold tinned at specialist shops)
 
 ### Optional fold-ins
-- 1 small jalapeño (sliced thin)
+- 1 jalapeño (small, sliced thin)
 - 2 tablespoons chopped fresh coriander
-- 1 small spring onion (sliced)
+- 1 spring onion (small, sliced)
 - 1 teaspoon chilli powder (sprinkled on the cheese)
 
 ### For cooking

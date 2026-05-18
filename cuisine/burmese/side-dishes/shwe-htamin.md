@@ -16,7 +16,7 @@ Long-grain rice is toasted briefly in oil with a chopped onion, turmeric and a s
 
 - 400 g long-grain rice (jasmine or basmati - rinsed thoroughly)
 - 3 tablespoons vegetable oil
-- 1 small onion (very finely chopped)
+- 1 onion (small, very finely chopped)
 - 1 ½ teaspoons ground turmeric
 - 1 teaspoon salt
 - 700 ml hot water

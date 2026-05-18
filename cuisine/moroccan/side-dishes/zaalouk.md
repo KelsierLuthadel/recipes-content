@@ -14,7 +14,7 @@ Aubergines are charred whole over a flame or roasted until collapsed; their fles
 
 ## Ingredients
 
-- 2 large aubergines (around 800 g total)
+- 2 aubergines (large, around 800 g total)
 - 4 tablespoons olive oil
 - 6 garlic cloves (crushed)
 - 4 ripe tomatoes (skinned and chopped) or 1 x 400 g tin chopped tomatoes

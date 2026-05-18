@@ -24,7 +24,7 @@ A 2.2 kg bone-in leg is studded with slivers of garlic and rosemary, rubbed with
 - 1 teaspoon ground black pepper
 
 ### Roasting tin aromatics
-- 1 large onion (cut in 8 wedges)
+- 1 onion (large, cut in 8 wedges)
 - 2 carrots (cut in thick rounds)
 - 1 head garlic, halved across the equator
 - A few extra rosemary sprigs

@@ -15,10 +15,10 @@ Potatoes are boiled in their skins until tender (about 25 minutes); cooled sligh
 ## Ingredients
 
 - 700 g waxy potatoes (about 4 medium - Charlotte, Yukon Gold or other waxy)
-- 1 large onion (finely diced)
+- 1 onion (large, finely diced)
 - 3 tablespoons sunflower oil OR ghee
 - 1 teaspoon ground turmeric
-- 5 large eggs (room temperature)
+- 5 eggs (large, room temperature)
 - 1 teaspoon baking powder
 - 1 tablespoon plain flour
 - 1 large pinch saffron threads (soaked in 2 tablespoons hot water)

@@ -44,9 +44,9 @@ Tandoori masala paste is unique: it's designed to be diluted with yogurt to crea
 - ½ teaspoon ground cardamom seeds (already ground)
 
 ### Liquids & Storage
-- 50 ml additional vegetable oil (for finishing)
+- 50 ml vegetable oil (for finishing)
 - Sterilized glass jars
-- Additional oil (for sealing)
+- oil (for sealing)
 
 ## Method
 

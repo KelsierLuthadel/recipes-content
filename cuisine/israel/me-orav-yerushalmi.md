@@ -18,7 +18,7 @@ A mix of chicken livers, hearts, spleen (if you can get it) and small chunks of 
 - 200 g chicken hearts (halved, fat trimmed)
 - 200 g lamb shoulder (cut into 2 cm chunks)
 - 200 g chicken thigh (cut into 2 cm chunks)
-- 2 large onions (sliced thin)
+- 2 onions (large, sliced thin)
 - 6 tablespoons olive oil (split)
 - 4 garlic cloves (crushed)
 - 2 tablespoons baharat
@@ -30,7 +30,7 @@ A mix of chicken livers, hearts, spleen (if you can get it) and small chunks of 
 - 2 tablespoons fresh parsley (chopped)
 
 ### To serve
-- 4 large pita breads (warmed)
+- 4 pita breads (large, warmed)
 - Hummus
 - Tahina sauce
 - Sliced pickles

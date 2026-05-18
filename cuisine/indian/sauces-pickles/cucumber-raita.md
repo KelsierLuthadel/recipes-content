@@ -11,7 +11,7 @@
 This is the most essential Indian yoghurt-based side dish. Cooling yoghurt, refreshing cucumber, and a hint of heat from green chilli create a balance that's perfect alongside any spiced main course. The technique is simple: dice cucumber finely, fold into yoghurt with minimal seasonings, and garnish. This is a template raita; it anchors the Indian meal.
 
 ## Ingredients
-- 1 medium cucumber
+- 1 cucumber (medium)
 - 300 ml natural yoghurt (preferably plain, full-fat)
 - ¼ teaspoon salt
 - ¼ teaspoon ground cumin

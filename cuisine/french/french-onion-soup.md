@@ -15,7 +15,7 @@ Onions cook for nearly an hour in butter and oil until they're deep mahogany, al
 ## Ingredients
 
 ### Onion base
-- 6 large onions (about 1 ½ kg, very thinly sliced)
+- 6 onions (large, about 1 ½ kg, very thinly sliced)
 - 50 g unsalted butter
 - 2 tablespoons olive oil
 - 1 teaspoon caster sugar

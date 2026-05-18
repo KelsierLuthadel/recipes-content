@@ -18,7 +18,7 @@ Basmati rinses and soaks for 20 minutes. Cooked frozen broad beans (or shelled f
 - 1 large pinch saffron threads (bloomed in 2 tablespoons hot water)
 - 4 tablespoons unsalted butter or samna
 - 300 g frozen broad beans (no need to thaw - use double-podded for best texture)
-- 1 small onion (finely chopped, optional)
+- 1 onion (small, finely chopped, optional)
 - 1 ½ teaspoons salt
 - 750 ml hot stock or stock substitute
 - 4 tablespoons fresh dill (chopped)

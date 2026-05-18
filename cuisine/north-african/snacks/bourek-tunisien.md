@@ -31,7 +31,7 @@ Potato is boiled, peeled and mashed. Mixed with drained tuna, harissa, capers, p
 - 1 tablespoon plain flour (mixed with 1 tablespoon water for sealing)
 
 ### Egg insert
-- 8 small or medium eggs (whole, raw - one per bourek)
+- 8 or medium eggs (small, whole, raw - one per bourek)
 
 ### Frying
 - 800 ml neutral oil

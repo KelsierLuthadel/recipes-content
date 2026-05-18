@@ -27,7 +27,7 @@ The dough uses a low-protein cake flour (or plain flour with cornflour added) fo
 ### Filling
 - 250 g char siu (Chinese BBQ pork - sold ready-cooked at Chinese supermarkets, or use leftover roast pork)
 - 2 tablespoons vegetable oil
-- 1 small shallot (finely diced)
+- 1 shallot (small, finely diced)
 - 2 tablespoons oyster sauce
 - 2 tablespoons hoisin sauce
 - 1 tablespoon dark soy sauce

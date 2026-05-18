@@ -26,7 +26,7 @@ American Southern diner food and a close cousin of "Salisbury steak": browned gr
 
 ### Onion gravy
 - 2 tablespoons olive or avocado oil
-- 1 medium yellow onion (roughly chopped)
+- 1 yellow onion (medium, roughly chopped)
 - 1 packet Lipton Beefy Onion soup mix
 - 2 tablespoons plain flour
 - 480 ml beef broth

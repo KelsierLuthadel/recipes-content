@@ -24,8 +24,8 @@ A yeasted bread dough rises for 1 hour. Topping: lamb mince mixed RAW with grate
 
 ### Meat topping
 - 500 g lamb mince (20% fat) OR a 50/50 lamb-beef mix
-- 1 large onion (grated, squeezed bone-dry)
-- 2 medium tomatoes (deseeded, finely diced)
+- 1 onion (large, grated, squeezed bone-dry)
+- 2 tomatoes (medium, deseeded, finely diced)
 - 4 garlic cloves (crushed)
 - 3 tablespoons fresh parsley (chopped)
 - 1 ½ tablespoons pomegranate molasses

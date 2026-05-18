@@ -15,7 +15,7 @@ Wilted spinach with onion, garlic and thyme is spread over pre-prepared pinsa ba
 
 ### Spinach Topping
 - 2 tablespoons olive oil
-- 1 small onion (thinly sliced)
+- 1 onion (small, thinly sliced)
 - 1 garlic clove (thinly sliced)
 - 2 teaspoons fresh thyme (chopped)
 - 250 grams spinach leaves (washed)

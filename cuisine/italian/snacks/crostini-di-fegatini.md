@@ -21,7 +21,7 @@ Onion is softened in olive oil with chopped anchovies. Trimmed chicken livers jo
 ### Cooking
 - 3 tablespoons olive oil
 - 30 g unsalted butter (for cooking)
-- 1 large onion (finely diced)
+- 1 onion (large, finely diced)
 - 4 anchovy fillets in oil (chopped)
 - 2 tablespoons capers (drained, rinsed)
 - 6 fresh sage leaves

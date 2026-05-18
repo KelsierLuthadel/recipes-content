@@ -16,7 +16,7 @@ Mince mixes with very finely-grated onion (squeezed dry), salt, pepper, turmeric
 
 ### Kababs
 - 700 g minced lamb (or 500 g lamb + 200 g beef; 20% fat)
-- 1 large onion (finely grated; squeezed hard to remove all liquid)
+- 1 onion (large, finely grated; squeezed hard to remove all liquid)
 - 1 ½ teaspoons salt
 - 1 teaspoon black pepper
 - ½ teaspoon ground turmeric

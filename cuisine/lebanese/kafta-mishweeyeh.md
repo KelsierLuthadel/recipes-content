@@ -17,7 +17,7 @@ Mince combines with grated onion, very-finely chopped parsley, garlic, allspice,
 ### Kafta
 - 500 g lamb mince (slightly fatty - shoulder)
 - 300 g beef mince
-- 1 large onion (very finely chopped - grate then squeeze out and chop the pulp)
+- 1 onion (large, very finely chopped - grate then squeeze out and chop the pulp)
 - 4 tablespoons fresh parsley (very finely chopped)
 - 4 garlic cloves (crushed)
 - 1 ½ teaspoons ground allspice

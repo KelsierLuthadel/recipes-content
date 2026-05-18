@@ -15,7 +15,7 @@ Sliced garlic (lots, like 8 cloves for a small dish) cooks slowly in olive oil t
 ## Ingredients
 - 400 g raw peeled prawns (medium, about 200-250 per kg)
 - 8 garlic cloves (sliced 2 mm)
-- 1 small dried red chilli (broken into pieces, or ½ teaspoon chilli flakes)
+- 1 dried red chilli (small, broken into pieces, or ½ teaspoon chilli flakes)
 - 100 ml olive oil (good quality - this is the dish)
 - 1 tablespoon dry sherry (fino or manzanilla) - optional but classic
 - 1 teaspoon flaky sea salt

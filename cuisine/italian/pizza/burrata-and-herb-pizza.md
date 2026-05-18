@@ -28,7 +28,7 @@ The dough is baked plain with just tomatoes and oil, then crowned off the heat w
 - 75 to 100 ml extra-virgin olive oil (plus extra to drizzle)
 
 ### To Finish
-- 2 x 100 gram balls burrata or buffalo mozzarella (roughly torn)
+- 200 gram balls burrata or buffalo mozzarella (roughly torn)
 - Rocket leaves
 - Parmesan shavings (or vegetarian equivalent)
 

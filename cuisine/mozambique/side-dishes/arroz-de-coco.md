@@ -16,7 +16,7 @@ The rice toasts briefly in oil with a chopped onion (optional), then cooks absor
 
 - 300 g long-grain rice (basmati or jasmine)
 - 1 tablespoon vegetable oil or butter
-- 1 small onion (finely chopped, optional)
+- 1 onion (small, finely chopped, optional)
 - 1 (400 ml) tin coconut milk
 - 250 ml water
 - 1 teaspoon salt

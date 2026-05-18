@@ -31,7 +31,7 @@ Lamb shoulder is cut into large chunks. A spice paste of garlic, ginger, saffron
 
 ### Tagine
 - 3 tablespoons olive oil (additional)
-- 2 large onions (sliced thin)
+- 2 onions (large, sliced thin)
 - 1 cinnamon stick
 - 500 ml water or light lamb stock
 

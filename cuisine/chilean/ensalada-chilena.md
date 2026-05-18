@@ -14,9 +14,9 @@ Sweet white onion is sliced thin and soaked in cold salted water 15 minutes, thi
 
 ## Ingredients
 
-- 1 large sweet white onion (or red onion; thinly sliced)
+- 1 sweet white onion (large, or red onion; thinly sliced)
 - 1 teaspoon salt (for the soaking water)
-- 4 large ripe tomatoes (around 600 g; cut into 1 cm half-moons)
+- 4 ripe tomatoes (large, around 600 g; cut into 1 cm half-moons)
 - 4 tablespoons extra-virgin olive oil
 - Juice of 2 limes
 - ½ teaspoon flaky sea salt

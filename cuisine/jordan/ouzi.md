@@ -17,7 +17,7 @@ Lamb mince is fried with onion, garlic, baharat, cinnamon, allspice and pine nut
 ### Filling
 - 500 g lamb mince
 - 3 tablespoons ghee or olive oil
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 4 garlic cloves (crushed)
 - 2 tablespoons baharat
 - 1 teaspoon ground allspice

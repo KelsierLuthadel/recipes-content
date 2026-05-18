@@ -23,7 +23,7 @@ Green chillies (the long Anaheim-style or Hatch; bird's-eye for serious heat), g
 - ¼ teaspoon ground cumin
 - 1 tablespoon olive oil
 - Juice of ½ lemon
-- 1 small tomato (deseeded, very finely chopped - optional, for the red Yemeni variant)
+- 1 tomato (small, deseeded, very finely chopped - optional, for the red Yemeni variant)
 
 ## Method
 

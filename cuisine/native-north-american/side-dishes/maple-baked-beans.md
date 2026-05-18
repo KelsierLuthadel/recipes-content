@@ -17,13 +17,13 @@ Dried navy beans soak overnight, then drain. They go into a deep heavy lidded po
 - 500 g dried navy beans (or haricot beans)
 - 1 tablespoon salt (for the soaking water - softens the skins)
 - 150 g salt pork or thick-cut smoked bacon (cut into 2 cm pieces)
-- 1 large onion (diced)
+- 1 onion (large, diced)
 - 150 ml pure maple syrup (Grade A dark or Grade B; not maple-flavoured syrup)
 - 2 tablespoons brown mustard (or 1 tablespoon dried mustard powder)
 - 1 tablespoon molasses (optional - for extra depth)
 - 1 ½ teaspoons salt
 - ½ teaspoon black pepper
-- About 800 ml water (enough to cover the beans by 2 cm)
+- 800 ml water (enough to cover the beans by 2 cm)
 
 ## Method
 

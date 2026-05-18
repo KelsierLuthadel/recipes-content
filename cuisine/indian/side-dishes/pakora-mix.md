@@ -26,8 +26,8 @@ A thick batter of gram (chickpea) flour, rice flour, ajwain, turmeric, chilli po
 - 250 ml cold water (approximately)
 
 ### Vegetables
-- 1 large onion (halved, sliced thin)
-- 1 medium potato (peeled, small dice)
+- 1 onion (large, halved, sliced thin)
+- 1 potato (medium, peeled, small dice)
 - 200 g cauliflower (cut into small florets, 2 cm)
 - 100 g spinach leaves (washed, roughly torn)
 - 2 green chillies (finely chopped, optional)

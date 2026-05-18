@@ -16,7 +16,7 @@ Beef or lamb mince is mixed with grated onion, garlic, fresh parsley and coriand
 
 ### Meatballs
 - 500 g beef or lamb mince (or a 50/50 mix)
-- 1 small onion (grated)
+- 1 onion (small, grated)
 - 3 garlic cloves (crushed)
 - 2 tablespoons fresh flat-leaf parsley (chopped)
 - 2 tablespoons fresh coriander (chopped)
@@ -28,7 +28,7 @@ Beef or lamb mince is mixed with grated onion, garlic, fresh parsley and coriand
 
 ### Sauce
 - 3 tablespoons olive oil
-- 1 large onion (sliced)
+- 1 onion (large, sliced)
 - 4 garlic cloves (sliced)
 - 1 teaspoon ground cumin
 - 1 teaspoon sweet paprika
@@ -40,12 +40,12 @@ Beef or lamb mince is mixed with grated onion, garlic, fresh parsley and coriand
 - 1 teaspoon caster sugar
 
 ### Eggs
-- 4 large eggs
+- 4 eggs (large)
 
 ### To finish
 - 2 tablespoons fresh flat-leaf parsley (chopped)
 - 2 tablespoons fresh coriander (chopped)
-- 1 small pickled lemon (optional - peel sliced into strips)
+- 1 pickled lemon (small, optional - peel sliced into strips)
 
 ### To serve
 - Khobz, pita or crusty bread

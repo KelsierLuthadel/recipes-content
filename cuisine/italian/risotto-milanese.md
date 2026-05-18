@@ -18,7 +18,7 @@ Carnaroli or arborio rice toasts briefly in butter and oil with shallot, gets a 
 - 1 litre chicken or vegetable stock
 - 50 g unsalted butter (split)
 - 1 tablespoon olive oil
-- 1 small shallot (very finely chopped)
+- 1 shallot (small, very finely chopped)
 - 300 g carnaroli or arborio rice
 - 100 ml dry white wine
 - 60 g parmesan (finely grated)

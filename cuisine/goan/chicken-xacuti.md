@@ -22,7 +22,7 @@ A xacuti masala is built by dry-roasting fresh coconut to a deep mahogany brown 
 - 1 teaspoon cumin seeds
 - 1 teaspoon fennel seeds
 - 1 teaspoon black peppercorns
-- 1 small cinnamon stick (broken)
+- 1 cinnamon stick (small, broken)
 - 4 cloves
 - 1 whole star anise
 - 1 blade of mace (or ¼ teaspoon ground nutmeg)

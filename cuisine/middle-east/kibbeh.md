@@ -17,7 +17,7 @@ Two preparations: the bulgur-and-mince shell paste and the spiced cooked filling
 ### Shell
 - 200 g fine bulgur wheat
 - 500 g lean lamb mince
-- 1 small onion (very finely grated)
+- 1 onion (small, very finely grated)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground allspice
 - ½ teaspoon ground cinnamon
@@ -26,7 +26,7 @@ Two preparations: the bulgur-and-mince shell paste and the spiced cooked filling
 
 ### Filling
 - 2 tablespoons olive oil
-- 1 small onion (finely chopped)
+- 1 onion (small, finely chopped)
 - 250 g lamb mince
 - 50 g pine nuts (toasted)
 - ½ teaspoon ground cinnamon

@@ -16,14 +16,14 @@ A bright, punchy raw sambal built around belacan, the fermented Malaysian shrimp
 ### Sambal
 - 1 tablespoon belacan (Malaysian shrimp paste)
 - 6 fresh red bird's eye chillies (stems removed)
-- 2 large fresh red chillies (deseeded if you prefer less heat)
-- 1 small Asian red shallot (roughly chopped)
+- 2 fresh red chillies (large, deseeded if you prefer less heat)
+- 1 Asian red shallot (small, roughly chopped)
 - ½ teaspoon caster sugar
 - ¼ teaspoon sea salt
 
 ### To Finish
 - 1 ½ tablespoons fresh lime juice (from 1 large lime or 2 calamansi)
-- 1 small red chilli (sliced into rings, to garnish)
+- 1 red chilli (small, sliced into rings, to garnish)
 
 ## Method
 

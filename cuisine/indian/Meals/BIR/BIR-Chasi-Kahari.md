@@ -22,7 +22,7 @@ A minimalist charsi karahi featuring tender lamb chunks cooked in their own fat 
 
 ### Aromatics and veggies
 - 2 tbsp garlic paste*
-- 5 medium tomatoes, quartered
+- 5 tomatoes (medium), quartered
 - 10 green bullet chillies or similar, cut lengthwise
 
 ### Base

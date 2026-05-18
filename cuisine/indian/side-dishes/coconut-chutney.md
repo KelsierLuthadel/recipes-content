@@ -16,7 +16,7 @@ Fresh coconut is ground with green chilli, ginger, roasted gram and a small spla
 
 ### Chutney
 - 100 g fresh grated coconut (or 80 g desiccated, rehydrated in 6 tablespoons of warm water)
-- 2 tablespoons roasted chana dal (also sold as putnalu or daria; substitute with 2 tablespoons of soaked cashews if unavailable)
+- 2 tablespoons soaked cashews
 - 2-3 green chillies
 - 15 g fresh ginger
 - A small handful of fresh coriander (optional)
@@ -35,7 +35,7 @@ Fresh coconut is ground with green chilli, ginger, roasted gram and a small spla
 ## Method
 
 ### Stage 1 - Grind the chutney
-1. Place the grated coconut, roasted chana dal, green chillies, ginger, coriander (if using), salt and tamarind in a blender.
+1. Place the grated coconut, soaked cashews, green chillies, ginger, coriander (if using), salt and tamarind in a blender.
 1. Add 100 ml of water.
 1. Blend to a smooth paste; add another tablespoon or two of water if needed to keep the blade turning.
 1. Taste and adjust salt and chilli.

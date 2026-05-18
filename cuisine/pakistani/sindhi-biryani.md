@@ -30,11 +30,11 @@ Mutton on the bone marinates for 2 hours in yogurt, ginger-garlic paste, ground 
 - Juice of ½ lemon
 
 ### Fried onions
-- 4 large onions (sliced very thin)
+- 4 onions (large, sliced very thin)
 - 200 ml sunflower oil
 
 ### Tomato and braise
-- 2 medium tomatoes (chopped)
+- 2 tomatoes (medium, chopped)
 - 200 ml water
 
 ### Rice

@@ -14,9 +14,9 @@ Vegetables dice into 5 mm cubes, uniform size matters for both look and dressing
 
 ## Ingredients
 
-- 1 large cucumber (deseeded, diced 5 mm)
-- 3 medium tomatoes (deseeded, diced 5 mm)
-- 1 small red onion (diced 5 mm)
+- 1 cucumber (large, deseeded, diced 5 mm)
+- 3 tomatoes (medium, deseeded, diced 5 mm)
+- 1 red onion (small, diced 5 mm)
 - 1 long green chilli (finely chopped; or to taste)
 - A small bunch fresh coriander (chopped)
 - A small handful fresh mint (chopped)

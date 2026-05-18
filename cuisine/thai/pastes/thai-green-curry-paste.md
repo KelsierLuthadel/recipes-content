@@ -22,14 +22,14 @@ Spicy paste with green bird's eye chillies. Adjust chillies for heat; taste and 
 - 1 ½ tsp white pepper
 
 ### Chillies and aromatics
-- About 20 green bird’s eye chillies, roughly chopped (more or less to taste)
+- 20 green bird’s eye chillies, roughly chopped (more or less to taste)
 - 2 lemongrass stalks (white parts only), thinly sliced (about 4 generous tbsp)
 - 8 garlic cloves, smashed
 - 1 thumb-sized piece galangal, thinly sliced
-- 3 small shallots, roughly chopped
+- 3 shallots (small), roughly chopped
 - 10 Thai sweet basil stalks (about 1 tbsp)
 - 5 coriander (cilantro) stalks (about ½ tbsp)
-- Zest of ½ lime
+- ½ lime (zest)
 - 5 lime leaves (fresh or frozen)
 
 ### Paste

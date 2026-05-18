@@ -16,7 +16,7 @@ Onion, garlic and tomato fry to a sofrito. Peanut paste loosened with hot water 
 
 - 800 g clams (live, scrubbed) OR 500 g raw shrimp, peeled
 - 3 tablespoons vegetable oil
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 4 garlic cloves (crushed)
 - 2 fresh tomatoes (grated)
 - 1 tablespoon tomato puree

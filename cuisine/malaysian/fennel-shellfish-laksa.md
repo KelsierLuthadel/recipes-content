@@ -21,12 +21,12 @@ A fragrant Malaysian noodle soup combining shellfish with a spicy coconut curry 
 ### Aromatics
 - 5 garlic cloves
 - 1 ½ tablespoon chopped fresh root ginger
-- 7 small red shallots
+- 7 red shallots (small)
 - 2 fennel bulbs (cut into thin wedges)
 
 ### Protein
 - 450 grams white fish fillet
-- 20 large prawns (peeled and de-veined)
+- 20 prawns (large, peeled and de-veined)
 
 ### Seasonings
 - 3 fresh medium hot red chillies (de-seeded and chopped)

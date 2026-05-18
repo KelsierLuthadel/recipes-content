@@ -20,7 +20,7 @@ Rice flour, glutinous rice flour, sugar, baking powder and salt are sifted toget
 - 200 g caster sugar
 - 2 teaspoons baking powder
 - ½ teaspoon salt
-- 3 large eggs
+- 3 eggs (large)
 - 400 ml coconut milk
 - 60 g unsalted butter (melted)
 - 1 teaspoon vanilla extract

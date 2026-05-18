@@ -35,7 +35,7 @@ A curry-house style chicken curry that builds flavor from whole spices and fresh
 - ½ tsp ground turmeric
 - 1-2 tbsp paprika
 - ½ tsp garam masala
-- 2 medium tomatoes, diced
+- 2 tomatoes (medium), diced
 
 ### Protein
 - 900 g (2 lb) chicken thighs or breast, cut into bite-size pieces

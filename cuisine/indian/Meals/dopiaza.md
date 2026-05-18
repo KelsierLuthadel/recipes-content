@@ -15,7 +15,7 @@ Two-onion curry: half the onions are blended into the base sauce for sweetness a
 - 600g [pre-cooked stewed chicken](../Base/curry-base.md)
 - 500ml [base curry sauce](../Base/curry-base.md) (heated)
 - 250ml of curry base or stock from [pre-cooked stewed chicken](../Base/curry-base.md)
-- 1 small onion, quartered and divided into petals 
+- 1 onion (small), quartered and divided into petals 
 - 6 green cardamom pods (bashed )
 - 1 tsp cumin seeds 
 - 1 tsp coriander seeds (roughly chopped)

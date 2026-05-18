@@ -25,9 +25,9 @@ Sweet shortcrust pastry: plain flour rubs with cold butter to breadcrumb texture
 ### Filling
 - 450 g golden syrup (Lyle's Golden Syrup - a full tin)
 - 100 g fresh fine breadcrumbs (from a day-old white loaf - crusts cut off, blitzed in a food processor)
-- 1 large egg (beaten)
+- 1 egg (large, beaten)
 - 50 ml double cream (optional, for extra richness)
-- Zest of 1 lemon
+- 1 lemon (zest)
 - 2 tablespoons lemon juice
 - 1 tablespoon dark golden syrup (the slightly darker amber kind, optional, for depth)
 - ¼ teaspoon ground ginger (optional)

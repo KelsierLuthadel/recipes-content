@@ -14,7 +14,7 @@ Birmingham's defining curry, cooked hard and fast in a thin two-handled steel ba
 
 ## Ingredients
 - 3 tbsp rapeseed oil or seasoned oil
-- 1 small onion, roughly chopped 
+- 1 onion (small), roughly chopped 
 - 1 green pepper deseeded and roughly chopped 
 - 1 tomato, diced 
 - 1 tbsp garlic and ginger paste 
@@ -22,7 +22,7 @@ Birmingham's defining curry, cooked hard and fast in a thin two-handled steel ba
 - 1 tsp ground cumin 
 - 1 tsp ground turmeric 
 - 1 tsp paprika 
-- 250ml [base curry sauce](../Base/curry-base.md) (heated )
+- 250ml [base curry sauce](../Base/curry-base.md) (heated)
 - 200g skinless chicken breast or thigh meat, cut into small pieces
 - 1 tbsp [garam masala](../Spice-Mixes/garam-masala.md)
 - 1 tsp dried fenugreek leaves 

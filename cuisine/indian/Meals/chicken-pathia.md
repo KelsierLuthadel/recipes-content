@@ -12,13 +12,13 @@ BIR hot-sweet-sour: a medium-hot curry sweetened with sugar (or jaggery) and sha
 
 ## Ingredients
 - 4 tbsp rapeseed oil or seasoned oil
-- 1 small onion, very finely chopped 
+- 1 onion (small), very finely chopped 
 - 2 tbsp garlic and ginger paste
 - 2 tbsp [mixed powder](../Spice-Mixes/mixed-powder.md)
 - 1 tsp chilli powder 
 - 2 tbsp sugar 
 - 125ml [tomato purée ](../Base/tomato-puree.md)
-- 500ml [base curry sauce](../Base/curry-base.md) (heated )
+- 500ml [base curry sauce](../Base/curry-base.md) (heated)
 - 800g [pre-cooked stewed chicken](../Base/pre-cooked-chicken.md)
 - 125ml of curry base or stock from [pre-cooked stewed chicken](../Base/curry-base.md)
 - 1 tbsp smooth mango chutney 

@@ -20,8 +20,8 @@ Brioche-style dough: bread flour, yeast, milk, eggs, butter, sugar, salt. Kneads
 - 80 g caster sugar
 - 1 ½ teaspoons salt
 - 180 ml warm milk
-- 2 large eggs
-- 1 large egg yolk
+- 2 eggs (large)
+- 1 egg yolk (large)
 - 120 g unsalted butter (softened, cubed)
 - 1 teaspoon vanilla extract
 

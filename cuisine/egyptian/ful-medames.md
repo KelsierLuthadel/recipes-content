@@ -30,8 +30,8 @@ Whole dried fava beans soak overnight, then simmer slowly until the skins soften
 - 4 hard-boiled eggs (halved, optional)
 
 ### Toppings
-- 2 medium tomatoes (diced)
-- 1 small red onion (finely chopped)
+- 2 tomatoes (medium, diced)
+- 1 red onion (small, finely chopped)
 - A small bunch of flat-leaf parsley (chopped)
 - 4 tablespoons tahini sauce (optional)
 - Pickled chillies

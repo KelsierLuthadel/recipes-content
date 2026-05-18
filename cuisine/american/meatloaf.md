@@ -17,12 +17,12 @@ Onion and garlic are softened in butter; cooled. Breadcrumbs soak in milk to a p
 ### Loaf
 - 700 g beef mince (15-20% fat)
 - 300 g pork mince (or 300 g more beef)
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 4 garlic cloves (crushed)
 - 2 tablespoons unsalted butter
 - 100 g dried breadcrumbs (panko or fine)
 - 200 ml whole milk
-- 2 large eggs (lightly beaten)
+- 2 eggs (large, lightly beaten)
 - 2 tablespoons Worcestershire sauce
 - 1 tablespoon Dijon mustard
 - 3 tablespoons fresh parsley (chopped)

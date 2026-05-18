@@ -15,7 +15,7 @@ Cauliflower florets blanch briefly so they're not raw but not cooked through. A 
 ## Ingredients
 
 ### Cauliflower
-- 1 large cauliflower (broken into large florets)
+- 1 cauliflower (large, broken into large florets)
 
 ### Sauce
 - 50 g unsalted butter

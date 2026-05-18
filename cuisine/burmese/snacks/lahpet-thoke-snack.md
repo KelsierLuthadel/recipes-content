@@ -20,7 +20,7 @@ This is the older, more ceremonial form of lahpet. Unlike the salad version (lah
 - 1 tablespoon sesame oil
 - 1 tablespoon fish sauce (or to taste)
 - 1 tablespoon lime juice
-- 1 small garlic clove (grated)
+- 1 garlic clove (small, grated)
 
 ### Fried components
 - 4 tablespoons vegetable oil

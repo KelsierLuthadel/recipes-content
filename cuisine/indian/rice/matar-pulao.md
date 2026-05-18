@@ -15,11 +15,11 @@ Sliced onions are fried into golden-brown crisps and lifted out. Basmati is rins
 ## Ingredients
 - 300 g aged basmati rice (rinsed, soaked for 30 minutes)
 - 200 g peas (fresh or frozen)
-- 1 large onion (thinly sliced)
+- 1 onion (large, thinly sliced)
 - 3 tablespoons ghee (or oil + butter)
 - 1 teaspoon cumin seeds
 - 1 bay leaf
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 4 green cardamom pods (lightly crushed)
 - 4 cloves
 - 1 black cardamom pod (optional, for depth)

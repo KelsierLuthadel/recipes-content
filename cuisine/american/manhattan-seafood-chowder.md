@@ -23,7 +23,7 @@ This hearty Manhattan seafood chowder combines fresh clams, cod, and prawns in a
 - 3 bacon slices (chopped)
 - 1 kg baby clams
 - 375 grams skinless cod fillets (cut into cubes)
-- 12 large prawns (peeled and de-veined, tails intact)
+- 12 prawns (large, peeled and de-veined, tails intact)
 
 ### Vegetables
 - 2 onions (chopped)

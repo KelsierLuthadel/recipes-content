@@ -32,13 +32,13 @@ Kosha mangsho takes its name from the verb kosha, which in Bengali means to slow
 - 1 cinnamon stick (5 cm)
 - 4 cloves
 - 1 tsp cumin seeds
-- 3 large onions (about 500 g), finely sliced
+- 3 onions (large, about 500 g), finely sliced
 - 1 tbsp ginger paste
 - 1 tbsp garlic paste
 - 1 tsp Kashmiri chilli powder
 - 1½ tsp cumin powder
 - 1½ tsp coriander powder
-- 2 medium potatoes, peeled and halved (optional but traditional)
+- 2 potatoes (medium), peeled and halved (optional but traditional)
 - 1 tsp sugar
 - 500 ml warm water
 - 1 tsp garam masala

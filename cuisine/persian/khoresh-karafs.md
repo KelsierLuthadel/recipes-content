@@ -17,7 +17,7 @@ Lamb shoulder is browned in oil; sliced onion is softened to gold; turmeric and 
 ### Lamb base
 - 600 g lamb shoulder (cut into 3 cm cubes)
 - 3 tablespoons sunflower oil
-- 2 large onions (sliced)
+- 2 onions (large, sliced)
 - 4 garlic cloves (sliced)
 - 1 ½ teaspoons ground turmeric
 - ½ teaspoon ground cinnamon

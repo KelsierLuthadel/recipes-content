@@ -20,7 +20,7 @@ Basmati is parboiled with saffron, orange colouring, whole cardamom and cinnamon
 - ¼ teaspoon saffron threads
 - 1 teaspoon orange food colouring (or a generous pinch of saffron alone)
 - 4 green cardamom pods
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 4 cloves
 - 1 teaspoon salt
 

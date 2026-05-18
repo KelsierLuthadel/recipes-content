@@ -14,9 +14,9 @@ Onion is softened in lard or oil, paprika blooms off the heat, then shredded cab
 
 ## Ingredients
 
-- 1 medium white cabbage, about 1 kg (cored and finely shredded)
+- 1 white cabbage (medium), about 1 kg (cored and finely shredded)
 - 2 tablespoons lard or sunflower oil
-- 2 medium onions (finely sliced)
+- 2 onions (medium, finely sliced)
 - 2 garlic cloves (crushed)
 - 1 ½ tablespoons Hungarian sweet paprika
 - ½ teaspoon caraway seeds (lightly crushed)

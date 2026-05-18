@@ -7,7 +7,7 @@
 **Serves:** 12
 
 ## Ingredients
-- 1 large egg (plus 5 egg yolks)
+- 1 egg (large, plus 5 egg yolks)
 - 100 grams caster sugar
 - finely grate zest of 2 lemons
 - 25 ml freshly squeezed lemon juice (2 - 3 lemons)

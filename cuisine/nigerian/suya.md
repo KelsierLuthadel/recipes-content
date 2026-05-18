@@ -31,7 +31,7 @@ Beef sirloin or rump is sliced very thin across the grain. A suya spice (yaji) i
 - 1 stock cube (Maggi), crumbled - optional but traditional
 
 ### To serve
-- 1 medium red onion (sliced very thin)
+- 1 red onion (medium, sliced very thin)
 - 2 tomatoes (diced)
 - ¼ small cabbage (shredded)
 - 1 lime (cut into wedges)

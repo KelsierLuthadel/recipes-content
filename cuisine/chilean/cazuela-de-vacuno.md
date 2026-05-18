@@ -16,7 +16,7 @@ Beef shin browns; cooks in a simple broth of onion, garlic, oregano and cumin fo
 
 - 1 kg beef shin (bone-in, in 4-6 large pieces)
 - 2 tablespoons vegetable oil
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 4 garlic cloves (crushed)
 - 1 teaspoon ground cumin
 - 1 teaspoon dried oregano
@@ -25,7 +25,7 @@ Beef shin browns; cooks in a simple broth of onion, garlic, oregano and cumin fo
 - 2 ½ litres hot beef stock
 - 1 small pumpkin or butternut wedge (4 chunks of 200 g each)
 - 2 corn-on-the-cob (each cut in half)
-- 4 medium potatoes (peeled, whole)
+- 4 potatoes (medium, peeled, whole)
 - 200 g green beans (trimmed)
 - 1 carrot (cut into 4 chunks)
 - 100 g long-grain rice (or fine vermicelli)

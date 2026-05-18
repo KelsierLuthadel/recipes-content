@@ -17,7 +17,7 @@ The calzone is pizza's elegant cousin, pizza dough folded like an envelope and s
 ### Filling
 - 200 grams cherry tomatoes (halved)
 - 200 grams pancetta (cut into small cubes)
-- 40 small fresh basil leaves (or more)
+- 40 fresh basil leaves (small, or more)
 - 60 ml extra virgin olive oil
 - Salt and freshly ground pepper to taste
 - 200 grams fresh ricotta cheese

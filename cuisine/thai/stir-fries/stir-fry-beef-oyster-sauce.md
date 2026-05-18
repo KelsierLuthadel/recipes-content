@@ -31,7 +31,7 @@ On Thai menus this is often called ‘pad nam mun hoy’, which means fried with
 
 ### Vegetables
 - Large handful (about 100g) of whole straw mushrooms
-- 1 medium onion, thinly sliced
+- 1 onion (medium), thinly sliced
 
 ### Seasoning
 - 3-4 tbsp oyster sauce*

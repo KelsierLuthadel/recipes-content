@@ -12,7 +12,7 @@
 - 520 grams [pâte brisée](../../baking/pastry/shortcrust-pastry.md) (Shortcrust pastry)
 - 8 dates (pitted and diced)
 - 50 ml very fragrant jasmine tea
-- 4 medium crisp apples (preferable Cox's)
+- 4 crisp apples (medium, preferable Cox's)
 - 30 grams caster sugar (to dust)
 
 ## Overview

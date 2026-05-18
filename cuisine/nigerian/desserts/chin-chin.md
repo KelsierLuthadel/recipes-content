@@ -19,9 +19,9 @@ A simple dough: flour, butter, sugar, eggs, milk, ground nutmeg, baking powder. 
 - 1 ½ teaspoons ground nutmeg (yes, that much - the iconic chin-chin flavour)
 - ½ teaspoon ground cinnamon
 - ½ teaspoon salt
-- Zest of 1 lemon (optional)
+- 1 lemon (optional, zest)
 - 100 g unsalted butter (cold, cubed)
-- 2 large eggs
+- 2 eggs (large)
 - 100 ml whole milk (more as needed)
 
 ### Frying

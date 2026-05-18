@@ -19,8 +19,8 @@ Dry ingredients whisk in one bowl; wet (buttermilk, eggs, butter) in another. Co
 - 1 teaspoon baking powder
 - ½ teaspoon bicarbonate of soda
 - ½ teaspoon salt
-- 350 ml buttermilk (or 350 ml whole milk + 1 tablespoon lemon juice, rested 5 minutes)
-- 2 large eggs
+- 350 ml buttermilk
+- 2 eggs (large)
 - 50 g unsalted butter (melted, cooled slightly)
 - 1 teaspoon vanilla extract
 - Butter or oil for the pan

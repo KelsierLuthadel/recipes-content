@@ -15,7 +15,7 @@ Six thin sponge discs are baked separately at high heat for 6-8 minutes each. Fi
 ## Ingredients
 
 ### Sponge layers (makes 6 discs of 22 cm)
-- 6 large eggs (separated, at room temperature)
+- 6 eggs (large, separated, at room temperature)
 - 150 g caster sugar
 - 1 teaspoon vanilla extract
 - 150 g plain flour
@@ -23,7 +23,7 @@ Six thin sponge discs are baked separately at high heat for 6-8 minutes each. Fi
 - A pinch of salt
 
 ### Chocolate buttercream
-- 4 large egg yolks
+- 4 egg yolks (large)
 - 200 g caster sugar
 - 80 ml water
 - 350 g unsalted butter (very soft)

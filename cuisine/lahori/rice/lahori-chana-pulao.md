@@ -18,7 +18,7 @@ Whole chickpeas are soaked overnight and simmered until tender (or pressure-cook
 - 250 g dried chickpeas (soaked overnight)
 - 1 teaspoon salt
 - 1 bay leaf
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 4 cloves
 - 1 black cardamom pod
 - 1 litre water (for cooking)
@@ -26,8 +26,8 @@ Whole chickpeas are soaked overnight and simmered until tender (or pressure-cook
 ### Pulao
 - 400 g aged basmati rice (rinsed, soaked for 30 minutes)
 - 4 tablespoons ghee (or oil + butter)
-- 1 large onion (finely sliced)
-- 1 small cinnamon stick
+- 1 onion (large, finely sliced)
+- 1 cinnamon stick (small)
 - 4 green cardamom pods (lightly crushed)
 - 4 cloves
 - 1 bay leaf

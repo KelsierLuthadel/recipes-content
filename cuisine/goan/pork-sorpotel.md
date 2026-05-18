@@ -18,7 +18,7 @@ Pork shoulder and liver are par-boiled with whole spices, then diced. A masala p
 - 800 g pork shoulder (with a good cap of fat, cut into 8 cm chunks)
 - 200 g pork liver (cut into 4 cm chunks)
 - 100 g pork heart (cut into 4 cm chunks, optional but traditional)
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 4 cloves
 - 6 black peppercorns
 - 1 teaspoon salt
@@ -30,7 +30,7 @@ Pork shoulder and liver are par-boiled with whole spices, then diced. A masala p
 - 1 tablespoon cumin seeds
 - 1 tablespoon black peppercorns
 - 8 cloves
-- 1 small cinnamon stick (broken)
+- 1 cinnamon stick (small, broken)
 - 1 teaspoon ground turmeric
 - 30 g fresh ginger
 - 12 garlic cloves

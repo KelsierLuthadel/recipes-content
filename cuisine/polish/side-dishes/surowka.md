@@ -16,8 +16,8 @@ Three raw vegetables: coarse-grated carrot, coarse-grated apple, fine-shredded w
 ## Ingredients
 
 ### Salad
-- 3 medium carrots (about 300 g; peeled, coarsely grated)
-- 1 large tart apple (Granny Smith or Cox; peeled, coarsely grated)
+- 3 carrots (medium, about 300 g; peeled, coarsely grated)
+- 1 tart apple (large, Granny Smith or Cox; peeled, coarsely grated)
 - 200 g white cabbage (very finely shredded; about a quarter of a small head)
 - ½ teaspoon salt
 

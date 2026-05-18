@@ -17,7 +17,7 @@ Pre-pickled tea leaves (sold at SE Asian grocers; rinse to mellow if very sour) 
 ### Salad base
 - 100 g pickled tea leaves (lahpet; sold at Burmese / SE Asian grocers in jars or vacuum packs)
 - 200 g white cabbage (very finely shredded)
-- 2 medium tomatoes (deseeded and diced 5 mm)
+- 2 tomatoes (medium, deseeded and diced 5 mm)
 - 2 garlic cloves (sliced thin)
 - 4 tablespoons vegetable oil (for frying)
 - 50 g unsalted peanuts (raw)

@@ -23,7 +23,7 @@ Balti masala paste is a one-of-a-kind category: it's made from pre-ground spice 
 - Water (as needed for consistency)
 
 ### For Storage & Serving
-- Additional vegetable oil (for sealing jars)
+- vegetable oil (for sealing jars)
 - Sterilized jars (for bottling)
 
 ## Method

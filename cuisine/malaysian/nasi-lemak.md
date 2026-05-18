@@ -27,7 +27,7 @@ A platter built around fragrant coconut and lemongrass rice, served with a fiery
 - 1 teaspoon shrimp paste
 - ¼ cup peanut oil
 - 1 cup dried anchovies (ikan bilis)
-- 1 small red onion (sliced into rings)
+- 1 red onion (small, sliced into rings)
 - 1 tablespoon brown sugar
 - 1 tablespoon tamarind puree
 

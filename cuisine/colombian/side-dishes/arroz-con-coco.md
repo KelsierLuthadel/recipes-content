@@ -15,7 +15,7 @@ Coconut milk reduces in a heavy pot until the cream splits and turns to a dark c
 ## Ingredients
 
 - 1 (400 ml) tin coconut milk (full-fat)
-- 200 ml additional coconut milk or coconut cream
+- 200 ml coconut milk or coconut cream
 - 300 g long-grain rice (basmati or jasmine - rinsed)
 - 300 ml warm water
 - 50 g raisins

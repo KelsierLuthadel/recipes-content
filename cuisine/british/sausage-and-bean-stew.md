@@ -22,7 +22,7 @@ Sausages browned in a casserole, joined by onion, garlic and rosemary, then a ti
 - 1 teaspoon smoked paprika
 - 1 tablespoon tomato purée
 - 400 g tinned chopped tomatoes
-- 2 x 400 g tins butter beans (drained and rinsed)
+- 800 g tins butter beans (drained and rinsed)
 - 200 ml chicken stock
 - 1 teaspoon brown sugar
 - Salt and freshly ground black pepper

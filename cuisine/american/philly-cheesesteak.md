@@ -15,7 +15,7 @@ Ribeye is partially frozen (1 hour in the freezer) so it slices paper-thin. Onio
 ## Ingredients
 
 - 500 g ribeye steak (partially frozen for 1 hour, then shaved paper-thin against the grain)
-- 1 large onion (sliced thin)
+- 1 onion (large, sliced thin)
 - 1 green bell pepper (sliced thin, optional)
 - 100 g chestnut mushrooms (sliced, optional)
 - 3 tablespoons vegetable oil

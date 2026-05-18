@@ -28,7 +28,7 @@ Versatile paste with yellow color from turmeric. Use fresh turmeric for better f
 - 1 thumb-sized piece galangal, thinly sliced
 - 1 thumb-sized piece fresh turmeric, peeled and thinly sliced, or 1-1 ½ tsp ground turmeric
 - 3 lime leaves, stalks removed and finely chopped
-- 3 medium shallots, halved
+- 3 shallots (medium), halved
 - 10 thick coriander stalks (about 1 generous tbsp)
 - 2 tbsp sliced lemongrass (½ lemongrass stalk)
 

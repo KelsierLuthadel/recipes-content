@@ -40,7 +40,7 @@ Split yellow moong dal (or chana dal, or a mix) is rinsed and pressure-cooked or
 
 ### To serve
 - Steamed basmati rice or warm chapati
-- A small dish of sliced red onion
+- A dish of sliced red onion (small)
 
 ## Method
 

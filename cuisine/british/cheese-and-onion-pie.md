@@ -22,7 +22,7 @@ Onions cook slowly in butter until very soft and sweet. Mashed potato + grated c
 - 1 egg (beaten, for glaze)
 
 ### Filling
-- 4 large onions (thinly sliced)
+- 4 onions (large, thinly sliced)
 - 50 g unsalted butter
 - 300 g floury potatoes (peeled and cubed)
 - 400 g mature cheddar (grated)

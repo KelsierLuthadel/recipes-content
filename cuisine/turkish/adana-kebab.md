@@ -18,7 +18,7 @@ Lamb shoulder and lamb tail fat (or extra fatty trim) chop fine with a heavy kni
 - 800 g lamb shoulder mince (or hand-chopped from shoulder if you have the time)
 - 200 g lamb tail fat OR very fatty lamb breast (the fat is non-negotiable — at least 20% fat content)
 - 1 tablespoon salt
-- 1 ½ tablespoons Aleppo or Maraş hot pepper flakes (acı biber — Turkish red chilli flakes, not generic crushed red pepper)
+- 1 ½ tablespoons mild pepper flakes
 - 1 teaspoon sweet paprika
 - 2 teaspoons ground sumac
 - 4 garlic cloves (crushed to a paste with the salt)
@@ -33,12 +33,12 @@ Lamb shoulder and lamb tail fat (or extra fatty trim) chop fine with a heavy kni
 
 ### Grilled accompaniments
 - 4 long Turkish green peppers (sivri biber) or banana peppers
-- 4 small tomatoes (on the vine)
+- 4 tomatoes (small, on the vine)
 - 2 tablespoons olive oil
 - Salt
 
 ### To serve
-- 4-8 large fresh lavash sheets (warm; substitute large soft flatbreads)
+- 4-8 fresh lavash sheets (large, warm; substitute large soft flatbreads)
 - Salt-water-and-lemon ayran (yogurt drink) on the side
 
 ### Equipment

@@ -15,9 +15,9 @@ Tomatoes, cucumbers and red onion dice fine and even. A fresh dressing of lemon 
 ## Ingredients
 
 - 4 ripe tomatoes (deseeded, small dice)
-- 1 large cucumber (deseeded, small dice)
-- 1 small red onion (small dice)
-- 1 small green chilli (very finely chopped, optional)
+- 1 cucumber (large, deseeded, small dice)
+- 1 red onion (small, small dice)
+- 1 green chilli (small, very finely chopped, optional)
 - 3 tablespoons fresh coriander (chopped)
 - 1 tablespoon fresh mint (chopped, optional)
 - 4 tablespoons olive oil

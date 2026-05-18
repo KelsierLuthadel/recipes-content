@@ -16,7 +16,7 @@ Conch is tenderised by pounding (or by long cooking, whichever is at hand), then
 
 - 500 g conch meat (tenderised by pounding to 5 mm; or use 500 g raw shrimp / 500 g firm white fish if conch is unavailable)
 - 2 tablespoons butter
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 1 green bell pepper (chopped)
 - 1 red bell pepper (chopped)
 - 4 garlic cloves (crushed)
@@ -24,9 +24,9 @@ Conch is tenderised by pounding (or by long cooking, whichever is at hand), then
 - 1 teaspoon dried oregano
 - 1 (400 ml) tin coconut milk
 - 500 ml water or fish stock
-- 1 large green (unripe) plantain (peeled, sliced 1 cm thick)
-- 400 g yuca / cassava (peeled, cut into 3 cm chunks)
-- 2 medium carrots (sliced 1 cm thick)
+- 1 green (large, unripe) plantain (peeled, sliced 1 cm thick)
+- 400 g yuca (peeled, cut into 3 cm chunks)
+- 2 carrots (medium, sliced 1 cm thick)
 - ¼ teaspoon ground black pepper
 - 1 teaspoon salt (to taste)
 - Juice of 1 lime

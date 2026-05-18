@@ -15,12 +15,12 @@ Shukto is the dish that confuses newcomers and converts Bengalis for life. It is
 ## Ingredients
 
 ### Vegetables (cut into 5 cm finger pieces)
-- 1 small bitter gourd (korola), about 100 g, deseeded and sliced thin
+- 1 bitter gourd (small, korola), about 100 g, deseeded and sliced thin
 - 1 raw green plantain, peeled
-- 1 small sweet potato, peeled
-- 1 small aubergine
+- 1 sweet potato (small), peeled
+- 1 aubergine (small)
 - 1 drumstick (moringa pod), cut into 5 cm lengths
-- 1 small radish, peeled
+- 1 radish (small), peeled
 - 100 g potato
 
 ### Pastes and tempering

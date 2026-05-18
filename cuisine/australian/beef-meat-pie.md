@@ -24,7 +24,7 @@ The filling is built like a thick gravy: minced beef cooked down with onion, bee
 
 ### Filling
 - 2 tablespoons vegetable oil
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 2 garlic cloves (crushed)
 - 600 g beef mince (20% fat)
 - 2 tablespoons plain flour

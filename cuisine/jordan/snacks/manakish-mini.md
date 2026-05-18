@@ -27,17 +27,18 @@ A soft yeasted bread dough rises for 1 hour. Three toppings prep simultaneously:
 - 4 tablespoons extra-virgin olive oil
 
 ### Topping 2 - Cheese
-- 100 g akkawi cheese (desalted, grated) OR 80 g low-moisture mozzarella + 20 g halloumi (grated)
+- 80 g low-moisture mozzarella 
+- 20 g halloumi (grated)
 - 50 g feta (crumbled)
 - 1 teaspoon nigella seeds
 - 1 teaspoon dried mint
 
 ### Topping 3 - Lamb
 - 2 tablespoons olive oil
-- 1 small onion (very finely diced)
+- 1 onion (small, very finely diced)
 - 200 g lamb mince
 - 2 garlic cloves (crushed)
-- 1 small tomato (deseeded, finely diced)
+- 1 tomato (small, deseeded, finely diced)
 - 1 teaspoon baharat
 - ½ teaspoon ground cinnamon
 - 1 tablespoon pomegranate molasses

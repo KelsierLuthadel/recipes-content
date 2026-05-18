@@ -23,7 +23,7 @@ The smashburger is the American griddle cook's answer to a thick pub patty: take
 ### To assemble
 - 4 soft potato buns, split
 - 30 g unsalted butter, softened
-- 1 small white onion, very thinly sliced
+- 1 white onion (small), very thinly sliced
 - 4 dill pickle chips per burger
 - 2 tbsp yellow mustard
 - 4 tbsp tomato ketchup

@@ -13,7 +13,7 @@
 Begun bhaja is the simplest, oldest and most loved of Bengali sides. Begun is the Bengali word for aubergine, bhaja means fried, and the dish is exactly what it sounds like: thick, round slices of aubergine, salted and turmericked, then shallow-fried in mustard oil. It is served on the rice plate alongside the dal, traditionally as the second course after shukto, and is eaten by pressing a slice with the back of the thumb onto a small mound of rice and dal. The dish has only four ingredients and yet there are countless mistakes a cook can make: slicing the aubergine too thin (it disintegrates), not resting it after salting (it spits in the oil and stays soggy), under-heating the mustard oil (it tastes raw and acrid), or flipping the slices too soon (they tear). Done properly, the slice should have a thin crisp shell from the natural sugars caramelising on contact with hot oil, and a yielding silky centre. Some households dust the slices with a little rice flour or semolina for an extra-crisp coat; the purist version uses nothing at all. The variety of aubergine matters too: the long pale lavender Bangladeshi begun or the round dark-purple kalo begun both work, but the slim Japanese aubergine does not give enough flesh. Begun bhaja is humble, fast and beloved across all classes and both sides of Bengal, served in Kolkata bhater hotels (rice canteens) and at Dhaka wedding feasts alike.
 
 ## Ingredients
-- 1 large round aubergine (about 400 g)
+- 1 round aubergine (large, about 400 g)
 - 1½ tsp turmeric
 - 1 tsp Kashmiri chilli powder (optional, for colour)
 - 1 tsp salt

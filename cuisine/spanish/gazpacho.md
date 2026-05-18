@@ -17,7 +17,7 @@ Ripe tomatoes, cucumber, green pepper and stale bread soak in red wine vinegar w
 - 1 kg very ripe tomatoes (cored and chopped)
 - 1 cucumber (peeled, seeded, chopped)
 - 1 green pepper (seeded, chopped)
-- 1 small red onion (chopped)
+- 1 red onion (small, chopped)
 - 2 garlic cloves
 - 100 g stale white bread (crust off, soaked in cold water for 5 minutes, squeezed)
 - 3 tablespoons sherry vinegar (or red wine vinegar)

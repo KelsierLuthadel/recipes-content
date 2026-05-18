@@ -20,7 +20,7 @@ Aubergine cubes are salted to weep, fried hard in olive oil to deep gold, and re
 - 100 ml olive oil (for frying)
 
 ### The agrodolce base
-- 1 large onion (diced)
+- 1 onion (large, diced)
 - 3 celery stalks (sliced 5 mm)
 - 4 garlic cloves (sliced)
 - 1 (400 g) tin chopped tomatoes (or 400 g ripe fresh tomatoes, peeled and chopped)

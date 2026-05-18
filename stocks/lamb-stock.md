@@ -15,7 +15,7 @@ Lamb stock (fond d'agneau) occupies a distinct position between delicate white s
 ## Ingredients
 
 ### Meat Base
-- Approximately 800 grams lamb bones or lamb scraps/trimmings
+- 800 grams lamb bones or lamb scraps/trimmings
 
 ### Aromatics & Vegetables
 - 150 grams carrots (cut into rounds, approximately 1 centimeter)
@@ -27,7 +27,7 @@ Lamb stock (fond d'agneau) occupies a distinct position between delicate white s
 - 2 ½ litres cold water
 
 ### Seasonings & Aromatics
-- 4 medium tomatoes (peeled, de-seeded, and coarsely chopped, or 100 grams canned tomatoes)
+- 4 tomatoes (medium, peeled, de-seeded, and coarsely chopped, or 100 grams canned tomatoes)
 - 2 cloves garlic (unpeeled)
 - 1 Bouquet garni
 - 2 sprigs fresh tarragon (essential, do not substitute)

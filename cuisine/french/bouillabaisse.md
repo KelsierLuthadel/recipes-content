@@ -39,7 +39,7 @@ A fish stock built from heads and bones is enriched with tomato, fennel, leek, s
 ### Rouille
 - 1 thick slice white bread (crust off, soaked in stock then squeezed)
 - 4 garlic cloves
-- 1 small red chilli (seeded)
+- 1 red chilli (small, seeded)
 - 1 egg yolk
 - A pinch of saffron
 - 200 ml extra virgin olive oil

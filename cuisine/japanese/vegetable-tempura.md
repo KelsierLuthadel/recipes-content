@@ -16,15 +16,15 @@ The batter is the technique: ice-cold sparkling water, plain flour, an egg yolk,
 
 ### Batter
 - 200 g plain flour (chilled in the freezer 30 min)
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 300 ml ice-cold sparkling water
 - A handful of ice cubes (to keep the batter cold)
 
 ### Vegetables (any selection)
 - 1 sweet potato (sliced 5 mm thick)
 - 8 shiitake mushrooms (stems trimmed)
-- 1 small kabocha squash (sliced 5 mm thick crescents)
-- 1 medium aubergine (sliced 5 mm thick rounds)
+- 1 kabocha squash (small, sliced 5 mm thick crescents)
+- 1 aubergine (medium, sliced 5 mm thick rounds)
 - 8 green beans
 - 1 red onion (cut into 2 cm wedges, kept together with a toothpick)
 - 8 shiso leaves (or basil, optional)

@@ -28,7 +28,7 @@ Boneless chicken thighs cube up and marinate in a gochujang-soy-garlic-ginger pa
 ### Stir-fry
 - 2 tablespoons vegetable oil
 - 1 onion (sliced)
-- 1 small sweet potato (peeled, cubed; about 200 g)
+- 1 sweet potato (small, peeled, cubed; about 200 g)
 - ¼ small cabbage (chopped into 3 cm pieces)
 - 200 g Korean rice cakes (tteokbokki / tteok), soaked in warm water for 10 minutes if using dried
 - 4 spring onions (cut into 4 cm pieces)

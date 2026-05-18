@@ -15,21 +15,21 @@ Huevos rancheros is a classic Mexican breakfast dish featuring eggs poached in a
 ## Ingredients
 
 ### Aromatics & Vegetables
-- 1 large onion (peeled and finely sliced)
+- 1 onion (large, peeled and finely sliced)
 - 2 garlic cloves (peeled and finely sliced)
 - 2 red peppers (deseeded and finely sliced)
 - 2 fresh red or orange chillies (finely sliced)
-- 1 large dried chilli
+- 1 dried chilli (large)
 - 3 fresh bay leaves
-- 2 large ripe tomatoes (sliced)
+- 2 ripe tomatoes (large, sliced)
 
 ### Sauce Base
-- 2 × 400g tins quality plum tomatoes
+- 800g tins quality plum tomatoes
 - Several good lugs of olive oil
 - Sea salt and black pepper to taste
 
 ### Eggs & Tortillas
-- 6 large eggs
+- 6 eggs (large)
 - 6 flour tortillas
 - Cheddar cheese (for grating, optional)
 

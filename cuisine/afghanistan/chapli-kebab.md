@@ -15,11 +15,11 @@ Beef mince mixes with grated onion, chopped tomato, ginger, garlic, beaten egg, 
 ## Ingredients
 
 - 600 g beef mince (or half beef, half lamb)
-- 1 large onion (very finely chopped, juices reserved)
-- 1 medium tomato (deseeded, very finely chopped)
+- 1 onion (large, very finely chopped, juices reserved)
+- 1 tomato (medium, deseeded, very finely chopped)
 - 4 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
-- 1 large egg (beaten)
+- 1 egg (large, beaten)
 - 4 tablespoons gram (chickpea) flour
 - 2 tablespoons coriander seeds (lightly toasted, coarsely ground)
 - 2 tablespoons dried pomegranate seeds (anardana, coarsely ground)

@@ -22,7 +22,7 @@ This is a smart, simple twist on a familiar pan sauce. The scampi method is inta
 ### Sauce
 - 30 ml olive oil (for the pan)
 - 85 g unsalted butter
-- 1 small shallot, finely chopped
+- 1 shallot (small), finely chopped
 - 8 garlic cloves, minced or pressed
 - 1 g red pepper flakes (optional)
 - 120 ml dry white wine (sauvignon blanc, chardonnay or pinot blanc)

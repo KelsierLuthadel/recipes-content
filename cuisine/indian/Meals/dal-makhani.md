@@ -15,7 +15,7 @@ Whole black urad lentils and a small handful of red kidney beans are soaked over
 ## Ingredients
 
 ### Lentils
-- 250 g whole black urad dal (also sold as kali dal or sabut urad)
+- 250 g whole black urad dal
 - 50 g red kidney beans (rajma)
 - 1.5 litres water (for cooking)
 - 1 teaspoon salt (added late)

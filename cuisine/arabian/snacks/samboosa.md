@@ -17,7 +17,7 @@ Minced beef (or chicken) browns with diced onion, garlic and Saudi spice mix (ba
 ### Filling
 - 400 g lean ground beef (or chicken)
 - 2 tablespoons sunflower oil
-- 1 medium onion (finely diced)
+- 1 onion (medium, finely diced)
 - 4 garlic cloves (crushed)
 - 1 ½ teaspoons baharat (Saudi seven-spice - sold at Middle Eastern shops)
 - 1 teaspoon ground allspice
@@ -27,7 +27,7 @@ Minced beef (or chicken) browns with diced onion, garlic and Saudi spice mix (ba
 - ½ teaspoon black pepper
 - 30 g pine nuts (toasted)
 - 3 tablespoons fresh parsley (chopped fine)
-- Zest of ½ lemon
+- ½ lemon (zest)
 
 ### Wrappers and sealing paste
 - 20 spring-roll wrappers (the thin square or rectangular kind - sold at Asian shops) OR 20 samboosa pastry sheets

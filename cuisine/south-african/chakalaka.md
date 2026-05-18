@@ -15,10 +15,10 @@ Onion is softened in oil; garlic, ginger and curry powder bloom. Carrots cook br
 ## Ingredients
 
 - 4 tablespoons vegetable oil
-- 2 large onions (chopped)
+- 2 onions (large, chopped)
 - 6 garlic cloves (crushed)
 - 4 cm ginger (grated)
-- 3 medium carrots (coarsely grated)
+- 3 carrots (medium, coarsely grated)
 - 2 red bell peppers (chopped)
 - 1 green bell pepper (chopped)
 - 2-3 long green chillies (sliced)
@@ -26,9 +26,9 @@ Onion is softened in oil; garlic, ginger and curry powder bloom. Carrots cook br
 - 1 teaspoon ground turmeric
 - 1 teaspoon paprika
 - 1 teaspoon dried thyme
-- 1 x 400 g tin chopped tomatoes
+- 400 g tin chopped tomatoes
 - 1 tablespoon tomato paste
-- 1 x 400 g tin baked beans (in tomato sauce - the standard supermarket kind)
+- 400 g tin baked beans (in tomato sauce - the standard supermarket kind)
 - 2 tablespoons cider vinegar
 - 1 ½ teaspoons salt
 - ½ teaspoon black pepper

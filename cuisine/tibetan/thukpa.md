@@ -24,7 +24,7 @@ A simple wheat-flour dough rests while a clear, ginger-and-garlic-forward broth 
 ### Broth and meat
 - 2 tablespoons vegetable oil
 - 400 g lean beef (or mutton), sliced thinly across the grain into 4 cm strips
-- 1 large onion (sliced)
+- 1 onion (large, sliced)
 - 6 garlic cloves (chopped)
 - 5 cm fresh ginger (chopped)
 - 1 tomato (chopped)
@@ -37,7 +37,7 @@ A simple wheat-flour dough rests while a clear, ginger-and-garlic-forward broth 
 - Salt and freshly ground black pepper
 
 ### Vegetables
-- 1 medium carrot (julienned)
+- 1 carrot (medium, julienned)
 - 1 small daikon or 6 radishes (julienned)
 - 100 g cabbage (shredded)
 - 100 g spinach or other dark greens

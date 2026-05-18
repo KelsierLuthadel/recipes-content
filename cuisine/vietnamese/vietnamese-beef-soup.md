@@ -22,7 +22,7 @@ A classic Vietnamese pho featuring paper-thin beef slices cooked in a fragrant b
 
 ### Aromatics
 - half an onion
-- 1 small white onion (thinly sliced)
+- 1 white onion (small, thinly sliced)
 
 ### Seasonings
 - 1 ½ tablespoons fish sauce
@@ -39,7 +39,7 @@ A classic Vietnamese pho featuring paper-thin beef slices cooked in a fragrant b
 - 3 spring onions (thinly sliced)
 - 15 grams mint leaves
 - 90 grams bean sprouts (washed and trimmed)
-- 1 small red chilli (thinly sliced)
+- 1 red chilli (small, thinly sliced)
 - lemon wedges (to serve)
 
 ## Method

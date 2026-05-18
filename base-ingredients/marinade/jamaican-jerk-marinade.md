@@ -19,7 +19,7 @@ Jamaican jerk marinade represents Caribbean outdoor cooking at its finest: a bal
 
 ### Aromatics & Base
 - 3 tablespoons vegetable oil (or olive oil)
-- 2 medium onions (approximately 300 grams, finely chopped)
+- 2 onions (medium, approximately 300 grams, finely chopped)
 - 2 fresh Scotch bonnet chillies (or 2-3 fresh red chillies as substitute)
 - 4-5 garlic cloves (crushed)
 - 2 ½ cm piece fresh ginger root (roughly grated)

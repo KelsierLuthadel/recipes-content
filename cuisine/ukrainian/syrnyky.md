@@ -16,12 +16,12 @@ Drained dry cottage cheese (or quark, ricotta, farmer's cheese) mixes with eggs,
 
 ### Batter
 - 500 g dry cottage cheese (curd cheese, quark, or well-drained ricotta)
-- 2 large eggs
+- 2 eggs (large)
 - 80 g caster sugar (or to taste)
 - 1 teaspoon vanilla extract
 - 5 tablespoons plain flour (plus more for shaping)
 - ½ teaspoon salt
-- Zest of 1 lemon (optional)
+- 1 lemon (optional, zest)
 - 50 g raisins (optional)
 
 ### Frying

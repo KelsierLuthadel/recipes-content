@@ -14,13 +14,13 @@ Tomatoes and peppers get tops cut off and centres scooped out. The tomato flesh 
 
 ## Ingredients
 
-- 4 large beef tomatoes
-- 4 large red, yellow or green peppers
-- 4 medium potatoes (peeled and cut into thick wedges)
+- 4 beef tomatoes (large)
+- 4 red (large), yellow or green peppers
+- 4 potatoes (medium, peeled and cut into thick wedges)
 
 ### Filling
 - 5 tablespoons olive oil
-- 2 large onions (finely chopped)
+- 2 onions (large, finely chopped)
 - 4 garlic cloves (crushed)
 - 200 g long-grain rice (rinsed)
 - 50 g pine nuts

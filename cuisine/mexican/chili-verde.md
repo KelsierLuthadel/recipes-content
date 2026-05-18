@@ -19,7 +19,7 @@ Tomatillos, poblanos, jalapeños, garlic and onion roast under the grill until b
 - 4 poblano chillies
 - 2-3 jalapeños (deseed for milder)
 - 6 garlic cloves (peel on)
-- 1 large white onion (quartered)
+- 1 white onion (large, quartered)
 - 1 large bunch fresh coriander (60 g, stems and leaves)
 - Juice of 1 lime
 - 2 teaspoons salt

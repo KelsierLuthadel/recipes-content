@@ -24,15 +24,15 @@ Jamaican curry sits in its own corner of the global curry map: heavier on turmer
 - ½ teaspoon ground coriander
 - 2 tablespoons Worcestershire sauce
 - 2-3 tablespoons vegetable oil
-- 1 large green bell pepper (sliced)
-- 1 medium yellow onion (chopped)
+- 1 green bell pepper (large, sliced)
+- 1 yellow onion (medium, chopped)
 - 4 spring onions (chopped)
 - 4 garlic cloves (minced)
 - 6 sprigs fresh thyme
 - 1 Scotch bonnet (whole, pierced once)
 - 480 ml low-sodium chicken stock
-- 2 medium carrots (chopped)
-- 1 large russet potato (peeled and chopped)
+- 2 carrots (medium, chopped)
+- 1 russet potato (large, peeled and chopped)
 - White rice, to serve
 - Spring onions, to garnish
 

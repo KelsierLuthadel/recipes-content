@@ -17,7 +17,7 @@ Cabbage is shredded finely; carrots and onion are shredded or grated alongside. 
 ### Salad
 - ½ medium white cabbage (about 500 g; very finely shredded)
 - 2 carrots (coarsely grated)
-- 1 small red onion (very finely sliced)
+- 1 red onion (small, very finely sliced)
 - 1 teaspoon salt (to draw moisture)
 
 ### Dressing

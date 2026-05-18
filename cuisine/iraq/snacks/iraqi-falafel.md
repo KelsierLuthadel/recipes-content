@@ -17,7 +17,7 @@ Dried chickpeas soak in cold water 24 hours, the long soak hydrates them fully w
 
 ### Falafel
 - 250 g dried chickpeas (soaked in plenty of cold water 24 hours; not tinned)
-- 1 medium onion (roughly chopped)
+- 1 onion (medium, roughly chopped)
 - 4 garlic cloves
 - 1 green chilli (deseeded for mild, kept for hot)
 - 1 large handful flat-leaf parsley (about 30 g)
@@ -43,8 +43,8 @@ Dried chickpeas soak in cold water 24 hours, the long soak hydrates them fully w
 ### To serve
 - 4 warm samoon (or pita / khobz)
 - 2 tomatoes (sliced)
-- 1 small cucumber (sliced)
-- 1 small red onion (thinly sliced)
+- 1 cucumber (small, sliced)
+- 1 red onion (small, thinly sliced)
 - 4 tablespoons amba (Iraqi mango pickle; optional but signature)
 - 1 small handful parsley
 - 1 teaspoon sumac

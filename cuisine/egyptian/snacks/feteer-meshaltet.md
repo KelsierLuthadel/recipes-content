@@ -18,7 +18,7 @@ A soft elastic dough rests; divides into 2 balls. Each ball stretches paper-thin
 - 400 g plain flour
 - ½ teaspoon salt
 - 1 teaspoon caster sugar
-- 1 large egg
+- 1 egg (large)
 - 60 ml whole milk (warm)
 - 200 ml water (warm)
 - 1 teaspoon fast-action yeast (optional; some recipes skip; gives slightly puffier result)

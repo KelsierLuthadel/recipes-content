@@ -33,7 +33,7 @@ This is a hugely popular dish at Thai restaurants and takeaways, and my family l
 - 4 spring onions (scallions), sliced
 
 ### Vegetables
-- 1 large onion, thinly sliced
+- 1 onion (large), thinly sliced
 - 3 red spur chillies, thinly sliced
 - 2 green bird’s eye chillies, cut into thin rings
 

@@ -23,7 +23,7 @@ Very ripe (almost black-skinned) plantains peel and slice in half lengthways, th
 
 ### Batter
 - 100 g plain flour
-- 2 large eggs
+- 2 eggs (large)
 - 100 ml whole milk
 - 2 tablespoons caster sugar
 - ½ teaspoon salt

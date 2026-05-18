@@ -16,7 +16,7 @@ Long-grain rice (not basmati or jasmine, they're too slim) toasts in oil over me
 
 ### Tomato base
 - 2 ripe tomatoes (about 300 g)
-- 1 small onion (rough chunks for the blender)
+- 1 onion (small, rough chunks for the blender)
 - 2 garlic cloves
 - 1 small handful fresh coriander stems
 - 1 chipotle in adobo (optional, for smoke; or 1 teaspoon smoked paprika)
@@ -25,7 +25,7 @@ Long-grain rice (not basmati or jasmine, they're too slim) toasts in oil over me
 ### Rice
 - 300 g long-grain white rice (not parboiled, not basmati)
 - 3 tablespoons sunflower oil
-- 1 small onion (the remaining half, finely diced)
+- 1 onion (small, the remaining half, finely diced)
 - 2 garlic cloves (finely diced)
 - 1 teaspoon ground cumin
 - 1 teaspoon dried oregano (Mexican oregano if available)

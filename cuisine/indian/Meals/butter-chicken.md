@@ -24,7 +24,7 @@ The BIR icon: tandoori-grilled chicken finished in a velvety tomato-onion sauce 
 - 2 onions (finely chopped)
 - 1 carrot, grated 
 - 2 tbsp garlic and ginger paste
-- 2 X 400g tins of chopped tomatoes 
+- 800g tins of chopped tomatoes 
 - 1 tsp paprika 
 - 1 tbsp ground cumin 
 - 1 tbsp ground coriander 

@@ -18,7 +18,7 @@ Banana flower is sliced thin and immediately submerged in lemon water to stop br
 - 1 banana flower (around 400 g; outer red leaves discarded)
 - Juice of 1 lemon (for the soaking water)
 - 200 g firm tofu (cubed and pan-fried until golden)
-- 1 small carrot (julienned)
+- 1 carrot (small, julienned)
 - 50 g beansprouts
 - A small bunch Thai basil
 - A small bunch coriander

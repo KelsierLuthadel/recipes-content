@@ -27,7 +27,7 @@ Spinach is blanched for one minute then plunged into iced water (a step that loc
 ### Masala
 - 2 tablespoons ghee (or oil)
 - 1 teaspoon cumin seeds
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 4 garlic cloves (finely chopped)
 - 30 g fresh ginger (finely grated)
 - 2 ripe tomatoes (chopped, or 1 tablespoon tomato paste plus 100 ml water)

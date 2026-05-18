@@ -16,7 +16,7 @@ Yellow split peas (chana dal) simmer with onion, turmeric and tomato until very 
 
 ### Dhal
 - 250 g chana dal (yellow split peas; rinsed and soaked 30 min)
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 3 garlic cloves (crushed)
 - 2 cm ginger (grated)
 - 1 tomato (chopped)

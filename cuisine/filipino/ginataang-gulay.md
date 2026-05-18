@@ -15,13 +15,13 @@ Garlic, onion and ginger soften in oil; coconut milk adds; squash goes in first 
 ## Ingredients
 
 - 2 tablespoons coconut oil (or vegetable oil)
-- 1 medium onion (sliced)
+- 1 onion (medium, sliced)
 - 6 garlic cloves (crushed)
 - 3 cm fresh ginger (julienned)
 - 500 g kabocha squash or butternut (peeled and cut into 3 cm chunks)
 - 400 ml coconut milk
 - 200 ml water or vegetable stock
-- 1 small aubergine (cut into 3 cm chunks)
+- 1 aubergine (small, cut into 3 cm chunks)
 - 200 g long beans (or green beans; cut into 5 cm lengths)
 - 2 tablespoons light soy sauce (or 1 teaspoon salt)
 - 1 long red chilli (sliced, optional)
