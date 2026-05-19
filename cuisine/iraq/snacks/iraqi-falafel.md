@@ -50,7 +50,7 @@ Dried chickpeas soak in cold water 24 hours, the long soak hydrates them fully w
 - 1 teaspoon sumac
 
 ### To fry
-- 1 litre vegetable (or sunflower oil)
+- 1 litre vegetable oil (or sunflower oil)
 
 ## Method
 

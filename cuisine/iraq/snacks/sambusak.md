@@ -19,7 +19,7 @@ A simple flour-oil-water dough with a little turmeric for colour rests briefly w
 - 350 g plain flour
 - ¾ teaspoon salt
 - ¼ teaspoon ground turmeric
-- 100 ml sunflower (or olive oil)
+- 100 ml sunflower oil (or olive oil)
 - 130-150 ml warm water
 
 ### Filling

@@ -18,7 +18,7 @@ A British curry-house classic loosely inspired by Sri Lankan flavours: a coconut
 - 2 star anise 
 - 3 inch piece of cinnamon stick
 - 4 green cardamom pods (bashed )
-- 20 fresh (or frozen curry leaves)
+- 20 fresh curry leaves (or frozen curry leaves)
 - 2 tbsp garlic and ginger paste 
 - 2 green bird’s-eye chillies (finely chopped )
 - 2 tbsp coconut flour 

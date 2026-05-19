@@ -26,7 +26,7 @@ Navy beans soak overnight. Bacon and onion render in a wide pot; cooked beans go
 - 1 teaspoon smoked paprika
 - 1 teaspoon salt (to taste)
 - ½ teaspoon ground black pepper
-- 700 ml hot beef (or chicken stock, more as needed)
+- 700 ml hot beef stock (or chicken stock, more as needed)
 
 ## Method
 

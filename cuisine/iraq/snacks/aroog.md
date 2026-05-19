@@ -35,7 +35,7 @@ Fine bulgur (#1 grade) soaks in hot water until soft and fluffy. Lamb or beef mi
 - 1 tablespoon plain flour (if the mix is loose)
 
 ### To pan-fry
-- 4-5 tablespoons vegetable (or sunflower oil)
+- 4-5 tablespoons vegetable oil (or sunflower oil)
 
 ### To serve
 - Lemon wedges

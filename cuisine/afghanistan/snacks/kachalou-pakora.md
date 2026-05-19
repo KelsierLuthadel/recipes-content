@@ -32,7 +32,7 @@ A batter is made from chickpea flour (besan), rice flour for crispness, water, s
 - 1 teaspoon salt (for prepping)
 
 ### For frying
-- 1 litre vegetable (or sunflower oil)
+- 1 litre vegetable oil (or sunflower oil)
 
 ### Quick green chutney (or use ready-made)
 - 1 large bunch coriander (about 40 g)

@@ -24,7 +24,7 @@ Three margherita-style pizzas with a long-cooked plum tomato ragù as the base, 
 - 100 grams chorizo (thinly sliced)
 - 3 tablespoons capers (drained)
 - 30 grams pitted black olives (halved)
-- 250 grams buffalo mozzarella cheese (sliced)
+- 250 grams buffalo mozzarella (sliced)
 - Handful of fresh basil leaves
 
 ## Method

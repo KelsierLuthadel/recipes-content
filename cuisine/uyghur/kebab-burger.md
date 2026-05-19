@@ -19,7 +19,7 @@ A burger that tastes like a Kashgar street kebab rather than a Western quarter-p
 - 1 white onion (finely chopped)
 - 1 egg
 - 2 teaspoons plain flour
-- 2 teaspoons sunflower (or olive oil)
+- 2 teaspoons sunflower oil (or olive oil)
 - 1 teaspoon chilli flakes
 - 2 teaspoons sweet chilli pepper powder (Aleppo, Kashmiri or Hungarian sweet)
 - 2 teaspoons ground cumin

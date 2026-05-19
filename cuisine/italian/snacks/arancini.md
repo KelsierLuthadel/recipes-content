@@ -16,7 +16,7 @@ Cold risotto (saffron Milanese-style is traditional in arancini "alla Milanese";
 
 ### Rice base (or use 500 g cold leftover risotto)
 - 300 g arborio rice
-- 1 litre hot chicken (or vegetable stock)
+- 1 litre hot chicken stock (or vegetable stock)
 - 1 large pinch saffron threads (soaked in 2 tablespoons hot water)
 - 50 g unsalted butter
 - 1 onion (small, finely diced)
@@ -34,7 +34,7 @@ Cold risotto (saffron Milanese-style is traditional in arancini "alla Milanese";
  - 200 g Ragù (Bolognese-style - see [Ragu](../ragu.md)) 
 
  #### Mozzarella option
-- 150 g low-moisture mozzarella cheese (cut into 1 ½ cm cubes - one cube per arancino)
+- 150 g low-moisture mozzarella (cut into 1 ½ cm cubes - one cube per arancino)
 
 ### Coating
 - 100 g plain flour

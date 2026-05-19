@@ -34,7 +34,7 @@ A fresh-yeasted bread-flour dough proves for an hour while a deeply reduced toma
 - pepper
 
 ### Topping
-- 300 grams grated mozzarella cheese
+- 300 grams grated mozzarella
 - Extra-virgin olive oil (to drizzle)
 
 ## Method

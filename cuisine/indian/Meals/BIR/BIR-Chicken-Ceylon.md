@@ -21,7 +21,7 @@ A bright and spicy Sri Lankan-inspired curry with a curry-house spin, featuring 
 - 2 star anise
 - 7 ½ cm (3 in) piece cinnamon stick or cassia bark
 - 4 green cardamom pods, bashed
-- 20 fresh (or frozen curry leaves)
+- 20 fresh curry leaves (or frozen curry leaves)
 
 ### Aromatics and spice paste
 - 2 tbsp garlic and ginger paste

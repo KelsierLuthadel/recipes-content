@@ -18,7 +18,7 @@ Chicken piccata, the Italian-American mid-century classic of pounded chicken cut
 - 1 egg (large)
 - 4 garlic cloves (minced)
 - 2 tablespoons fresh chopped parsley
-- 1 tablespoon whole milk ricotta cheese
+- 1 tablespoon whole ricotta
 - ⅓ cup grated parmesan cheese
 - ⅓ cup panko breadcrumbs
 - ½ teaspoon smoked paprika

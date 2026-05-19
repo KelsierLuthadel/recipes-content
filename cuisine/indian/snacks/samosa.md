@@ -40,7 +40,7 @@ A stiff oil-rich plain-flour dough (maida) rolls thin and crisps in the fryer wi
 - ½ lemon (juice)
 
 ### To fry
-- 1 litre vegetable (or sunflower oil)
+- 1 litre vegetable oil (or sunflower oil)
 
 ## Method
 

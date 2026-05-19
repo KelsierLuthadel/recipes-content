@@ -36,7 +36,7 @@ A breadlike yeasted dough is pressed into 23 cm cake tins, given a thick rim, an
 ### Topping
 - 12 slices spicy salami
 - 12 slices regular salami
-- 150 grams cooking mozzarella cheese (grated)
+- 150 grams mozzarella (mozzarella block, grated)
 - 50 grams strong cheddar cheese (grated)
 - 1 to 2 jalapeño chillies (sliced)
 

@@ -32,7 +32,7 @@ Lamb mince is fried with onion, garlic, baharat, cinnamon, allspice and pine nut
 ### Rice
 - 300 g basmati rice (rinsed; soaked 20 minutes; drained)
 - 2 tablespoons ghee
-- 600 ml hot lamb (or chicken stock)
+- 600 ml hot lamb stock (or chicken stock)
 - 1 teaspoon salt
 - 1 cinnamon stick
 - 4 cardamom pods (bruised)

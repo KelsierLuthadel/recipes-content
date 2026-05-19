@@ -26,12 +26,12 @@ Ricotta is drained in muslin for at least 4 hours (overnight ideal) to lose the 
 - 1 tablespoon white wine vinegar
 
 ### To fry
-- 1 litre sunflower (or vegetable oil)
+- 1 litre sunflower oil (or vegetable oil)
 - 1 egg white (for sealing the dough around the forms)
 - 12 metal cannoli forms (cylinders 13 cm long; widely sold at Italian shops and online)
 
 ### Ricotta filling
-- 600 g whole-milk ricotta cheese (drain overnight in muslin in the fridge - see Stage 1)
+- 600 g whole-ricotta (drain overnight in muslin in the fridge - see Stage 1)
 - 120 g icing sugar (sifted)
 - 1 teaspoon vanilla extract
 - 1 orange (zest)

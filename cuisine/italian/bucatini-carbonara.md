@@ -20,7 +20,7 @@ Bucatini Carbonara is a masterclass in simplicity and technique. Five ingredient
 
 ### Egg Sauce
 - 4 eggs (large)
-- 4 tablespoons Pecorino Romano cheese (freshly grated)
+- 4 tablespoons pecorino romano (freshly grated)
 - salt
 - pepper
 

@@ -22,7 +22,7 @@ Ribeye is partially frozen (1 hour in the freezer) so it slices paper-thin. Onio
 - 2 tablespoons unsalted butter
 - 1 teaspoon salt (to taste)
 - ½ teaspoon ground black pepper
-- 6-8 slices provolone cheese (or American singles, or Cheez Whiz spread)
+- 6-8 slices provolone (or American singles, or Cheez Whiz spread)
 - 2 long hoagie rolls (12-15 cm, soft inside, lightly crusty)
 
 ## Method

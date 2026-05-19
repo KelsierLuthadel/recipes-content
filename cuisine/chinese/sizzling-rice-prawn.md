@@ -21,7 +21,7 @@ This is a dramatic dish sure to earn you compliments. Moderately easy to make bu
 - 1 ½ tablespoons spring onions (finely chopped)
 
 ### Sauce
-- 110 grams red (or green pepper, diced)
+- 110 grams red bell pepper (or green bell pepper, diced)
 - 1 tablespoon cider (or black rice vinegar)
 - 1 tablespoon dark soy sauce
 - 2 dried red chillies

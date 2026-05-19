@@ -25,7 +25,7 @@ Leeks soften in butter; mix with grated caerphilly (or mature cheddar), breadcru
 - 50 g plain flour (for coating)
 - salt
 - pepper
-- 4 tablespoons sunflower (or vegetable oil, for frying)
+- 4 tablespoons sunflower oil (or vegetable oil, for frying)
 
 ## Method
 

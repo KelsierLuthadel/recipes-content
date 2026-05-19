@@ -33,7 +33,7 @@ Chicken thighs poach in stock with shallot, garlic, ginger and turmeric for 25 m
 - ½ teaspoon ground black pepper
 
 ### Noodles
-- 400 g fresh (or dried yellow egg noodles, or thin Chinese egg noodles)
+- 400 g fresh egg noodles (or dried yellow egg noodles, or thin Chinese egg noodles)
 
 ### Garnish (essential)
 - 4 hard-boiled eggs (halved)

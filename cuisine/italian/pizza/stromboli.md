@@ -22,8 +22,8 @@ A bricklayer's calzone: pizza dough rolled into a 12 by 18 inch rectangle, brush
 ### Filling
 - 300 grams sliced Italian deli meat (e.g. salami, capicola, mortadella)
 - Handful fresh basil leaves
-- 300 grams sliced provolone cheese
-- 300 grams mozzarella cheese (drained, finely diced)
+- 300 grams sliced provolone
+- 300 grams mozzarella (drained, finely diced)
 
 ### Garlic Butter
 - 2 tablespoons salted butter (melted)

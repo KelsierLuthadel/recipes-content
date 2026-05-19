@@ -29,7 +29,7 @@ Lamb chunks are browned hard; onion is softened in the same pot; tomato and pome
 - 2 bay leaves
 - 1 dried black lime (loomi, pierced, optional)
 - 1 ½ teaspoons salt
-- 800 ml hot lamb (or beef stock)
+- 800 ml hot lamb stock (or beef stock)
 - 600 g small whole okra (fresh or frozen)
 
 ### Taqliya

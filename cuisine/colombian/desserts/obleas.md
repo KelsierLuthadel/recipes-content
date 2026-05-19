@@ -21,7 +21,7 @@ This isn't a from-scratch wafer recipe (obleas wafers require a specialised iron
 - 300 g arequipe (Colombian dulce de leche / manjar)
 
 ### Topping options (choose 2-3 per sandwich)
-- 80 g grated mozzarella cheese (or queso fresco)
+- 80 g grated mozzarella (or queso fresco)
 - 4 tablespoons strawberry jam (or guava paste, sliced)
 - 4 tablespoons shredded sweetened coconut
 - 4 tablespoons chopped roasted peanuts

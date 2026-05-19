@@ -42,7 +42,7 @@ When you go out for Thai food this is sure to be on the menu. I love the spicine
 - 3-4 tbsp Thai fish sauce*
 - 3 green bird’s eye chillies, smashed and cut lengthwise
 - 1 small handful of coriander (cilantro), roughly chopped
-- 2 tsp palm (or white sugar, optional and to taste)
+- 2 tsp palm sugar (or white sugar, optional and to taste)
 
 ## Method
 

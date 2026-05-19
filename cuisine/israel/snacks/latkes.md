@@ -21,7 +21,7 @@ Floury potatoes grate fine; onion grates fine; both squeeze in a tea towel to re
 - 4 tablespoons matzo meal (or fine breadcrumbs / plain flour)
 - 1 ½ teaspoons salt
 - 1 teaspoon ground black pepper
-- 200 ml neutral oil (sunflower or rapeseed, generous for shallow frying)
+- 200 ml neutral oil (generous for shallow frying)
 
 ### To serve
 - 200 g sour cream

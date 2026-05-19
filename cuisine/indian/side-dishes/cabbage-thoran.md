@@ -15,7 +15,7 @@ Cabbage is finely shredded into ribbons. A temper of mustard seeds, urad dal, dr
 ## Ingredients
 
 ### Cabbage
-- 400 g green (or white cabbage, finely shredded)
+- 400 g green cabbage (or white cabbage, finely shredded)
 - ¼ teaspoon turmeric
 - 1 teaspoon salt (to taste)
 

@@ -94,7 +94,7 @@ Birria is a Mexican braise of long, patient ambition. Originally a goat or lamb 
 - **All chuck works too:** if you cannot find short ribs, use 1.8 kg total of chuck roast; the dish is slightly leaner but still excellent.
 - **Heat level:** the dish lands at a medium heat; reduce the arbol chiles to 2 for milder, or push to 6 for spicier.
 - **Make ahead:** cook a day in advance, chill overnight, lift the solid fat from the surface and reheat. The flavour deepens noticeably.
-- **For quesabirria:** dip corn tortillas into the surface fat of the consomme, fill with shredded beef and Oaxaca or mozzarella cheese, crisp on a griddle, and serve with a small bowl of warm consomme for dunking.
+- **For quesabirria:** dip corn tortillas into the surface fat of the consomme, fill with shredded beef and Oaxaca or mozzarella, crisp on a griddle, and serve with a small bowl of warm consomme for dunking.
 - **Pressure cooker:** sear in the pot, add all ingredients, cook on high pressure for 50 minutes with a natural release.
 - **Slow cooker:** sear separately, transfer everything to the slow cooker, low for 6-7 hours or high for 4-5.
 

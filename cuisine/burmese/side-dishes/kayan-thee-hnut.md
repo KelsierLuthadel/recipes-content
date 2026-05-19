@@ -23,7 +23,7 @@ Cubed aubergine salts for 20 minutes to draw out water; squeezes dry. Onion frie
 - 1 teaspoon ground turmeric
 - 1 teaspoon Kashmiri chilli powder
 - 2 tablespoons fish sauce
-- 1 tablespoon palm (or brown sugar)
+- 1 tablespoon palm sugar (or brown sugar)
 - 60 ml hot water
 - 3 tablespoons unsalted peanuts (lightly toasted, roughly crushed)
 - 2 tablespoons crispy fried shallots (to finish)

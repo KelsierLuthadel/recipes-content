@@ -42,7 +42,7 @@ A simple yellow dough (flour, lard or butter, water, salt, annatto or paprika fo
 
 ### To assemble and fry
 - 1 egg (large, beaten with 1 teaspoon water, for sealing)
-- 1 litre sunflower (or vegetable oil), for deep-frying
+- 1 litre sunflower oil (or vegetable oil), for deep-frying
 
 ## Method
 

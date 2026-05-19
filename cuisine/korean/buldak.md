@@ -31,7 +31,7 @@ Boneless chicken thighs cube small; marinate for 1 hour in gochujang, gochugaru,
 - 2 tablespoons vegetable oil
 
 ### Topping
-- 250 g grated mozzarella cheese (low-moisture, full-fat)
+- 250 g grated mozzarella (low-moisture, full-fat)
 - 2 spring onions (sliced thin)
 - 1 tablespoon toasted sesame seeds
 - 1 sheet roasted seaweed (cut into thin strips, optional)

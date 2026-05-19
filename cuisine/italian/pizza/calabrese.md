@@ -18,7 +18,7 @@ A pizza built on layered heat: nduja, roquito peppers, fresh green chilli, Calab
 - 80 grams [tomato sauce](pizza-sauce.md)
 
 ### Topping (Pre-Bake)
-- 45 grams mozzarella cheese (cubed)
+- 45 grams mozzarella (cubed)
 - 30 grams nduja sausage (optional, from a good Italian deli)
 - 30 grams roquito peppers (chopped)
 - 4 fresh green chillies (large, finely sliced)
@@ -31,7 +31,7 @@ A pizza built on layered heat: nduja, roquito peppers, fresh green chilli, Calab
 ### Topping (Post-Bake)
 - 20 grams watercress (stalks trimmed)
 - 1 teaspoon fresh pesto
-- 50 grams fior di latte mozzarella cheese (or buffalo mozzarella)
+- 50 grams fior di latte mozzarella (or buffalo mozzarella)
 
 ## Method
 

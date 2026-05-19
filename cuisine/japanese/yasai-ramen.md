@@ -24,7 +24,7 @@ Mushroom (dried shiitake) and kombu (kelp) infuse hot water for the broth base. 
 
 ### Tare and aroma
 - 2 tablespoons sesame oil
-- 4 tablespoons white (or red miso paste)
+- 4 tablespoons white misto paste(or red miso paste)
 - 3 tablespoons light soy sauce
 - 2 tablespoons mirin
 - 1 tablespoon Shaoxing rice wine (optional)
@@ -43,7 +43,7 @@ Mushroom (dried shiitake) and kombu (kelp) infuse hot water for the broth base. 
 - A few drops chilli oil (optional)
 
 ### Noodles
-- 200 g fresh (or 150 g dried ramen noodles)
+- 200 g fresh ramen noodles (or 150 g dried ramen noodles)
 
 ## Method
 

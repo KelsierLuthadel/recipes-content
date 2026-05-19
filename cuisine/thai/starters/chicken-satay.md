@@ -29,7 +29,7 @@ I’m a big fan of Thai chicken satay with peanut sauce. Although it isn’t nec
 - 1 generous tbsp chopped galangal
 - 200ml (generous ¾ cup) coconut milk
 - A pinch of ground cinnamon
-- 2 tsp palm (or white sugar)
+- 2 tsp palm sugar (or white sugar)
 - 1 tbsp white wine (or rice vinegar)
 - 1 tsp salt
 

@@ -17,7 +17,7 @@ Tomato, cucumber and onion all diced very small (the cut is small, 5 mm pieces, 
 - 4 ripe medium tomatoes (deseeded, diced 5 mm, about 400 g)
 - 1 cucumber (large, deseeded, diced 5 mm, about 250 g)
 - ½ small red onion (very finely diced, about 60 g)
-- 1 green (small, or red chilli, deseeded, finely chopped, optional)
+- 1 green chilli (small, or red chilli, deseeded, finely chopped, optional)
 - 1 large bunch fresh flat-leaf parsley (chopped fine - about 30 g)
 - 3 tablespoons fresh mint (chopped fine, about 10 g)
 - 2 spring onions (sliced very thin, optional)

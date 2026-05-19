@@ -14,7 +14,7 @@ Lentils (brown or green, not red) simmer for 25 minutes until tender. Two batche
 
 ## Ingredients
 
-- 250 g brown (or green lentils, rinsed)
+- 250 g brown lentils (or green lentils, rinsed)
 - 1 litre water (for cooking lentils)
 - 100 ml olive oil
 - 3 onions (large, sliced thin)

@@ -35,7 +35,7 @@ A pork and prawn filling is bound with shredded carrot, glass noodles and recons
 - 2 tablespoons rice vinegar mixed with 250 ml warm water (for dipping wrappers)
 
 ### For frying
-- 1 litre vegetable (or rapeseed oil)
+- 1 litre vegetable oil (or rapeseed oil)
 
 ### Nước chấm dipping sauce
 - 3 tablespoons fish sauce

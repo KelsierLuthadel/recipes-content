@@ -33,7 +33,7 @@ Boneless chicken thighs cube up and marinate in a gochujang-soy-garlic-ginger pa
 - 200 g Korean rice cakes (tteokbokki / tteok), soaked in warm water for 10 minutes if using dried
 - 4 spring onions (cut into 4 cm pieces)
 - 1 tablespoon toasted sesame seeds
-- 100 g mozzarella cheese (optional, for the cheesy variant)
+- 100 g mozzarella (optional, for the cheesy variant)
 
 ### To serve
 - Cooked short-grain rice

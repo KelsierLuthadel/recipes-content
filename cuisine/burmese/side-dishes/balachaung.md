@@ -22,7 +22,7 @@ Dried shrimp pulse-grind to a coarse floss. A pile of sliced garlic and shallot 
 - 4 tablespoons Kashmiri chilli powder (or 2 tbsp paprika + 2 tbsp chilli flakes)
 - 4 tablespoons fish sauce
 - 2 tablespoons tamarind paste (or 1 ½ tablespoons tamarind concentrate)
-- 2 tablespoons palm (or brown sugar)
+- 2 tablespoons palm sugar (or brown sugar)
 - 80 ml hot water
 - ½ teaspoon salt (to taste)
 

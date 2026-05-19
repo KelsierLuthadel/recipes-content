@@ -31,7 +31,7 @@ A filling of short-grain rice, lamb mince, onion, parsley, dill, mint, tomato pu
 - 100 ml olive oil
 
 ### Vegetables (about)
-- 30 fresh (or jarred vine leaves, rinsed)
+- 30 fresh vine leaves (or jarred vine leaves, rinsed)
 - 6 peppers (small, capsicums, mix of colours)
 - 4 courgettes (small, 5 cm pieces, cored)
 - 4 aubergines (small, 4 cm pieces, cored)
