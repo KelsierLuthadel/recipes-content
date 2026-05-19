@@ -25,8 +25,8 @@ British-Indian Pasanda is a mild, creamy curry based on almond and coconut richn
 - 20 sultanas
 
 ### Curry sauce
-- 500 ml (2 cups) base curry sauce (see B.I.R Curry Base), heated
-- 100 g (3 ½ oz) block coconut, cut into small pieces
+- 500 ml [Curry Base Gravy](../../Base/curry-base.md)
+- 100 g block coconut, cut into small pieces
 
 ### Protein
 - 800 g (1 lb 12 oz) skinless, boneless chicken breast, thinly sliced diagonally

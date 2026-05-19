@@ -18,7 +18,7 @@ A creamy, nutty British-Indian korma that uses both block coconut and coconut fl
 ## Ingredients
 ### Fat and whole spices
 - 4 tbsp ghee, rapeseed (canola) oil or seasoned oil
-- 2 ½ cm (1 in) piece cinnamon stick or cassia bark
+- 2 ½ cm  piece cinnamon stick or cassia bark
 - 4 green cardamom pods, lightly bruised
 
 ### Aromatics and thickener
@@ -28,11 +28,11 @@ A creamy, nutty British-Indian korma that uses both block coconut and coconut fl
 - 2 tbsp coconut flour
 
 ### Sauce and coconut
-- 700 ml (3 cups) base curry sauce (see B.I.R Curry Base), heated
-- 100 g (3 ½ oz) block coconut
+- 700 ml [Curry Base Gravy](../../Base/curry-base.md)
+- 100 g  block coconut
 
 ### Protein
-- 800 g (1 lb 12 oz) raw chicken breast, cut on the diagonal into 5 mm (¼ in) slices, or pre-cooked stewed chicken
+- 800 g raw chicken breast, cut on the diagonal into 5 mm (¼ in) slices, or pre-cooked stewed chicken
 
 ### Finishing
 - 1 tbsp garam masala
@@ -50,7 +50,7 @@ A creamy, nutty British-Indian korma that uses both block coconut and coconut fl
 
 ### Stage 2 - Build korma base
 1. Add sugar, ground almonds and coconut flour; stir to combine.
-1. Add about 250 ml (1 cup) base curry sauce and bring to a simmer.
+1. Add about 250 ml  base curry sauce and bring to a simmer.
 1. Break up the block coconut, add to sauce and allow it to dissolve.
 
 ### Stage 3 - Add chicken and simmer

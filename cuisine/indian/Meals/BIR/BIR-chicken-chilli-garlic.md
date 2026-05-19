@@ -29,10 +29,10 @@ A bold, garlicky curry with a brisk curry-house kick. This jalfrezi-style dish u
 - 2 tbsp mixed powder
 - 2 tbsp tandoori masala
 - 125 ml (½ cup) tomato purée
-- 500 ml (2 cups) base curry sauce, heated
+- 500 ml [Curry Base Gravy](../../Base/curry-base.md)
 
 ### Protein
-- 800 g (1 lb 12 oz) tandoori chicken tikka
+- 800 g tandoori chicken tikka
 - 125 ml (½ cup) pre-cooked stewed chicken stock or spice stock
 
 ### Finishers

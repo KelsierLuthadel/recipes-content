@@ -18,7 +18,7 @@ An aromatic curry-house classic that blends tandoori chicken with a sweet-spicy 
 ## Ingredients
 ### Spice base
 - 3 tbsp melted ghee (or rapeseed, canola) oil
-- 2 ½ cm (1 in) piece cinnamon stick
+- 2 ½ cm piece cinnamon stick
 - Seeds from 3 green cardamom pods
 - 2 cloves
 
@@ -32,11 +32,11 @@ An aromatic curry-house classic that blends tandoori chicken with a sweet-spicy 
 - 1 ½ tsp mixed powder (or curry powder)
 - ½ tsp Kashmiri chilli powder
 - 70 ml (¼ cup) tomato purée
-- 500 ml (2 cups) base curry sauce (base sauce), heated
+- 500 ml [Curry Base Gravy](../../Base/curry-base.md)
 - 1 tsp tamarind concentrate
 
 ### Protein and finish
-- 700 g (1 lb 9 oz) tandoori chicken tikka
+- 700 g tandoori chicken tikka
 - ½ banana, sliced into coins
 - 2 tbsp raisins (optional)
 - 2 tsp smooth mango chutney

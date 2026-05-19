@@ -22,7 +22,7 @@ A sweet, creamy Scottish curry with minimal spice.
 - 1 onion
 - 1 tbsp ginger-garlic paste
 - 2 tbsp tomato paste
-- 250ml base gravy
+- 250ml [Curry Base Gravy](../../Base/curry-base.md)
 
 ### Finish
 - 3 tbsp cream

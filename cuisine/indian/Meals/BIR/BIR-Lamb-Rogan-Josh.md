@@ -32,10 +32,10 @@ A British-Indian take on the classic Kashmiri lamb rogan josh, featuring a deep 
 
 ### Sauce and base
 - 125 ml (½ cup) tomato purée
-- 500 ml (2 cups) base curry sauce (see B.I.R Curry Base), heated
+- 500 ml (2 cups) [Curry Base Gravy](../../Base/curry-base.md)
 
 ### Protein
-- 700 g (1 lb 9 oz) pre-cooked stewed lamb, plus 200 ml (generous ¾ cup) of its cooking stock
+- 700 g pre-cooked stewed lamb, plus 200 ml (generous ¾ cup) of its cooking stock
 
 ### Vegetables
 - 2 tomatoes, quartered

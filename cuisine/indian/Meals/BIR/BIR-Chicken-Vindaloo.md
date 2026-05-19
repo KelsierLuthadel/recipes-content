@@ -27,7 +27,7 @@ The fiery Goan original: a vinegar-and-garlic-marinated meat (traditionally pork
 - 125ml [tomato purée](../Base/tomato-puree.md)
 - 2 tsp sugar
 ### Step 3
-- 600ml (2 ½ Cups) [base sauce](../Base/curry-base.md)
+- 600ml (2 ½ Cups) [Curry Base Gravy](../../Base/curry-base.md)
 - 8 pieces of [pre-cooked Chicken](../Base/pre-cooked-chicken.md) or [pre-cooked Lamb](../Base/pre-cooked-lamb.md)
 ### Step 4
 - 2 Tbsp white wine vinegar

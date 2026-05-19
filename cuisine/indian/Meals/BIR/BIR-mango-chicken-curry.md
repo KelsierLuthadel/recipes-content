@@ -25,12 +25,12 @@ A sweet-spicy BIR-style mango chicken curry with plenty of tropical fruit bright
 - 2 fresh green chillies (bird’s eye or bullet), thinly sliced
 
 ### Sauce and sweeteners
-- 600 ml (2 ½ cups) base curry sauce, heated (plus extra if needed)
+- 600 ml  [Curry Base Gravy](../../Base/curry-base.md) (plus extra if needed)
 - 6 tbsp coconut flour
 - 4 tbsp smooth mango chutney
 
 ### Protein and fruit
-- 700 g (1 lb 9 oz) pre-cooked chicken
+- 700 g  pre-cooked chicken
 - 1 mango (small), cut into bite-size chunks (or canned mango)
 
 ### Finishers

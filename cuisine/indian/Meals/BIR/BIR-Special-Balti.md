@@ -23,7 +23,7 @@ A customizable British curry-house special balti, mixing pre-cooked meats, seafo
 - 2 green chillies, finely chopped
 
 ### Proteins and veggies
-- 200 g (7 oz) pre-cooked lamb keema
+- 200 g pre-cooked lamb keema
 - 3 pieces tandoori chicken tikka
 - 3 pieces tandoori lamb tikka
 - 2 handfuls chopped spinach
@@ -36,8 +36,8 @@ A customizable British curry-house special balti, mixing pre-cooked meats, seafo
 - ½ tsp ground turmeric
 - 1 tsp mixed powder (or curry powder)
 - 1 tsp chilli powder (optional)
-- 150 ml (generous ½ cup) base curry sauce, heated
-- 100 ml (3 ½ fl oz) thick coconut milk
+- 150 ml [Curry Base Gravy](../../Base/curry-base.md)
+- 100 ml  thick coconut milk
 
 ### Finishers
 - Salt, to taste

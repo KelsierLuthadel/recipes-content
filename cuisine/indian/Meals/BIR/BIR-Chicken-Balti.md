@@ -1,63 +1,46 @@
 # Chicken Balti
 
-*The Birmingham balti: pre-cooked chicken finished hot in a balti pan with the curry base, balti masala, fresh tomato and coriander.*
+![Chicken Balti](resources/balti.png)
 
+*Authentic baltis are cooked over a high gas flame that is much hotter than is possible on most conventional hobs. As they are cooked, the whole pan turns into a big ball of fire as the oil catches light, cooking off the oil and adding a delicious smoky flavour*
 
-**Prep Time:** 10 minutes
-**Cook Time:** 3 minutes
+*This is normally cooked in a large balti pan, but you can you can substitute this with a frying pan*
 
-![Chicken Balti](../resources/balti.png)
+**Serves:** 4
+**Prep Time:** 20 minutes
 
 ## Overview
-A fast-cooked, medium-spiced curry with fresh flavours and minimal sauce.
-
----
+Birmingham's defining curry, cooked hard and fast in a thin two-handled steel balti pan over a roaring flame. The high heat caramelises the masala onto the meat and burns off the oil, leaving a slightly smoky, tomato-forward sauce. Eaten straight from the pan with naan; the sauce is medium-thick, not soupy.
 
 ## Ingredients
-
-### Protein
-- 00g chicken
-
-### Base
-- 2 tbsp oil
-- 1 onion
-- 1 tbsp ginger-garlic paste
-- 2 tbsp tomato paste
-- 200ml base gravy
-
-### Spices
-- 1 tsp cumin
-- 1 tsp coriander
-- 1 tsp garam masala
-- 1 tsp chilli powder
-
-### Finish
-- Fresh coriander
-
----
+- 3 tbsp rapeseed oil (or seasoned oil)
+- 1 onion (small), roughly chopped 
+- 1 green pepper deseeded and roughly chopped 
+- 1 tomato, diced 
+- 1 tbsp garlic and ginger paste 
+- 1 tbsp finely chopped green chillis
+- 1 tsp ground cumin 
+- 1 tsp ground turmeric 
+- 1 tsp paprika 
+- 250ml [Curry Base Gravy](../../Base/curry-base.md)
+- 200g skinless chicken breast (or thigh meat), cut into small pieces
+- 1 tbsp [garam masala](../Spice-Mixes/garam-masala.md)
+- 1 tsp dried fenugreek leaves 
+- Salt 
+- Chopped coriander to serve 
 
 ## Method
-
-### Stage 1 Base
-1. Heat oil and cook onions until soft.
-1. Add ginger-garlic paste and cook 1 minute.
-1. Add tomato paste and cook down.
-
-### Stage 2 Cook
-1. Add spices and bloom briefly.
-1. Add chicken and fry 35 minutes.
-1. Add base gravy and simmer 1015 minutes.
-
-### Stage 3 Finish
-1. Add coriander and reduce to desired consistency.
-
----
-
-## Notes
-- Slightly drier than standard curries
-## Storage
-- Refrigerate 2-3 days in airtight container
-- Freeze up to 2 months; thaw fully before reheating
-- Reheat gently on low heat with a splash of stock or water
-- Best eaten within 24 hours for peak flavour
-
+1. Heat the oil in a frying pan (or wok, karahi or balti pan) over a high heat until almost smoking. 
+1. Add the onion, pepper (bell pepper) and tomato, and fry for about a minute. 
+1. Stir in the garlic and ginger paste and chilli paste. 
+1. The oil will sizzle as they release their moisture. 
+1. If you’re feeling brave and have a gas hob, tilt the pan towards the flame and see if you can get the oil to catch fire. 
+1. Don’t panic if it lights.
+1. Add the ground spices and 5 tbsp of the base curry sauce. 
+1. Let this come to a boil then add the chicken pieces and another 5 tbsp of the base sauce. 
+1. Stir occasionally so that the sauce doesn’t catch, and scrape the caramelized sauce from the sides of the pan. 
+1. Pour in the remaining base sauce and let the curry simmer until the chicken is cooked through and the sauce is quite thick. 
+1. Baltis are usually served with fresh naans or chapatis, which are used to soak up the sauce and meat instead of cutlery, and your sauce needs to be thick enough to do this. 
+1. To finish, stir in the garam masala and dried fenugreek leaves and check for seasoning. 
+1. If there is any oil on the surface, skim it off for a healthier curry. 
+Top with chopped coriander to serve. 

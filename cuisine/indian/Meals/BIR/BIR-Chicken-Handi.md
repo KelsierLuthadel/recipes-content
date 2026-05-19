@@ -30,7 +30,7 @@ A rich, ghee-laden chicken handi cooked in the traditional style, featuring tend
 - 1 tsp ground coriander
 
 ### Protein and liquids
-- 800 g (1 lb 12 oz) skinless chicken thighs, on or off bone, cut into small pieces
+- 800 g skinless chicken thighs, on or off bone, cut into small pieces
 - 125 ml (½ cup) water, unsalted chicken stock, or spice stock
 - 250 g (1 cup) plain yoghurt, whisked smooth
 - 70 ml (¼ cup) single (light) cream (optional)

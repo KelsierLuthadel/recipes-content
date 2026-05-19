@@ -19,7 +19,7 @@ A bright and spicy Sri Lankan-inspired curry with a curry-house spin, featuring 
 ### Base
 - 4 tbsp rapeseed (canola) oil or seasoned oil
 - 2 star anise
-- 7 ½ cm (3 in) piece cinnamon stick or cassia bark
+- 7 ½ cm piece cinnamon stick or cassia bark
 - 4 green cardamom pods, bashed
 - 20 fresh curry leaves (or frozen curry leaves)
 
@@ -35,10 +35,10 @@ A bright and spicy Sri Lankan-inspired curry with a curry-house spin, featuring 
 - 125 ml (½ cup) tomato purée
 
 ### Sauces and proteins
-- 625 ml (2 ½ cups) base curry sauce (see B.I.R Curry Base), heated
-- 800 g (1 lb 12 oz) tandoori chicken tikka
+- 625 ml [Curry Base Gravy](../../Base/curry-base.md)
+- 800 g tandoori chicken tikka
 - 125 ml (½ cup) spice stock or pre-cooked stewed chicken stock
-- 100 g (3 ½ oz) block coconut, cut into small pieces
+- 100 g block coconut, cut into small pieces
 
 ### Finishers
 - 1 tsp dried fenugreek leaves (kasoori methi)

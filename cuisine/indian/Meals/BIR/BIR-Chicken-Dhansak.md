@@ -25,11 +25,11 @@ A British curry-house classic with sweet-sour notes of pineapple and lemon and e
 - 125 ml (½ cup) tomato purée
 
 ### Base sauce
-- 500 ml (2 cups) base curry sauce (see B.I.R Curry Base), heated
+- 500 ml [Curry Base Gravy](../../Base/curry-base.md)
 - 180 g (1 cup) red split lentils, rinsed and cooked until soft (e.g., tarka dhal)
 
 ### Protein and sweet-sour
-- 800 g (1 lb 12 oz) pre-cooked stewed chicken, plus a splash of cooking stock or spice stock
+- 800 g  pre-cooked stewed chicken, plus a splash of cooking stock or spice stock
 - 115 ml (scant ½ cup) pineapple juice
 - 3-4 canned pineapple rings, cut into pieces
 - Salt, to taste

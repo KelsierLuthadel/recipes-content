@@ -37,10 +37,10 @@ Fenugreek-forward chicken methi curry with a rich base sauce and a tangy cream f
 - 1 tbsp mixed powder (or curry powder)
 - 1 tsp bassar curry masala (or chilli powder)
 - 75 ml (5 tbsp) plain passata (sieved or blended tomatoes)
-- 500 ml (2 cups) base curry sauce (see B.I.R Curry Base), heated
+- 500 ml [Curry Base Gravy](../../Base/curry-base.md)
 
 ### Protein and finish
-- 700 g (1 lb 9 oz) pre-cooked chicken, plus 120 ml (½ cup) cooking stock
+- 700 g [pre-cooked stewed chicken](../Base/curry-base.md)
 - 4 tbsp plain yoghurt
 - Salt, to taste
 - 3 tbsp chopped coriander (cilantro) leaves

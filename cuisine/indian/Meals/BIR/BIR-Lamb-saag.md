@@ -34,8 +34,8 @@ A quick British curry-house version of classic Punjabi saag gosht, combining pre
 - 180 ml (¾ cup) tomato purée
 
 ### Sauce and protein
-- 375 ml (generous 1 ½ cups) base curry sauce, heated
-- 600 g (1 lb 5 oz) pre-cooked stewed lamb, plus 250 ml (1 cup) cooking stock
+- 375 ml [Curry Base Gravy](../../Base/curry-base.md)
+- 600 g  pre-cooked stewed lamb, plus 250 ml (1 cup) cooking stock
 
 ### Finishers
 - 2 tbsp plain yoghurt

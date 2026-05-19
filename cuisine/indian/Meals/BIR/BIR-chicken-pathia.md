@@ -29,8 +29,8 @@ A British-Indian pathia curry with a sweet-and-sour profile, tuned for balanced 
 - 125 ml (½ cup) tomato purée
 
 ### Sauce and protein
-- 500 ml (2 cups) base curry sauce (see B.I.R Curry Base), heated
-- 800 g (1 lb 12 oz) pre-cooked stewed chicken, plus 125 ml (½ cup) cooking stock, or extra base curry sauce
+- 500 ml [Curry Base Gravy](../../Base/curry-base.md)
+- 800 g ( pre-cooked stewed chicken, plus 125 ml (½ cup) cooking stock, or extra base curry sauce
 
 ### Finishers
 - 1 tbsp smooth mango chutney, or to taste

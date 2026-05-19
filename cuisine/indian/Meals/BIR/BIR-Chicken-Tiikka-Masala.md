@@ -25,10 +25,10 @@ A creamy, mildly spiced tomato-based curry using grilled or pan-fried marinated 
 
 ### Base
 - 2 tbsp oil  
-- 1 onion (150g), chopped  
+- 1 onion (chopped)
 - 1 tbsp ginger-garlic paste  
 - 2 tbsp tomato paste  
-- 250ml base gravy  
+- 250ml [Curry Base Gravy](../../Base/curry-base.md)
 
 ### Finish
 - 3 tbsp cream  

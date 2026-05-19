@@ -29,8 +29,8 @@ A restaurant-style bhuna using pre-cooked lamb for speed, while keeping the dry,
 - 2 tbsp tandoori masala
 
 ### Sauce + protein
-- 500 ml (2 cups) base curry sauce, heated
-- 800 g (1 lb 12 oz) pre-cooked stewed lamb, plus 250 ml (1 cup) cooking stock (or extra base sauce)
+- 500 ml [Curry Base Gravy](../../Base/curry-base.md)
+- 800 g  pre-cooked stewed lamb, plus 250 ml (1 cup) cooking stock (or extra base sauce)
 
 ### Finishing
 - 2 tbsp Greek yoghurt

@@ -31,8 +31,9 @@ A Punjabi-inspired achari curry featuring pickle spices like panch poran and dri
 - 1 tsp Kashmiri chilli powder
 
 ### Sauce and protein
-- 600 ml (2 ½ cups) base curry sauce, heated
-- 750 g (1 lb 10 oz) pre-cooked lamb, plus 200 ml (generous ¾ cup) cooking stock
+- 600 ml [Curry Base Gravy](../../Base/curry-base.md)
+- 750 g pre-cooked lamb
+- 200 ml (generous ¾ cup) cooking stock
 
 ### Finishers
 - 2 tbsp lime pickle, or 1 tbsp each lime pickle and smooth mango chutney

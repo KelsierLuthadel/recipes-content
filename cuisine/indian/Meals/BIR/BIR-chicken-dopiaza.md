@@ -31,8 +31,8 @@ A vibrant do-piaza curry based on layered onion textures and warming spices. Thi
 - 125 ml (½ cup) tomato purée
 
 ### Sauce and chicken
-- 500 ml (2 cups) base curry sauce (see B.I.R Curry Base), heated
-- 600 g (1 lb 5 oz) pre-cooked stewed chicken, plus 250 ml (1 cup) of its cooking stock, or extra base curry sauce
+- 500 ml [Curry Base Gravy](../../Base/curry-base.md)
+- 600 g  pre-cooked stewed chicken, plus 250 ml (1 cup) of its cooking stock, or extra base curry sauce
 
 ### Finishers
 - 7 tbsp onion paste made with yoghurt

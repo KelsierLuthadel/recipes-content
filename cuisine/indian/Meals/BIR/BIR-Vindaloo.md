@@ -33,7 +33,7 @@ A hot, sour, and deeply spiced curry originating from Goa. Built on a vinegar-ba
 - 1 onion (150g), finely chopped
 - 1 tbsp ginger-garlic paste
 - 2 tbsp tomato paste (optional, BIR-style)
-- 250-300ml base curry gravy
+- 250-300ml [Curry Base Gravy](../../Base/curry-base.md)
 - Water as needed
 ### Finish
 - 1-2 tsp vinegar (to taste)
