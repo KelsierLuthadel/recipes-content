@@ -16,7 +16,7 @@ Authentic shanklish is aged 3-6 weeks. A practical home version uses pre-made sh
 
 ### Shanklish (store-bought) or substitute
 - 4 shanklish balls (about 200 g)
-- OR substitute: 200 g feta, 100 g labneh, 2 tablespoons za'atar, 1 teaspoon dried mint, 1 teaspoon ground cumin, ¼ teaspoon dried chilli flakes (mixed and shaped into balls, rolled in za'atar, refrigerated overnight)
+- OR substitute: 200 g feta cheese, 100 g labneh, 2 tablespoons za'atar, 1 teaspoon dried mint, 1 teaspoon ground cumin, ¼ teaspoon dried chilli flakes (mixed and shaped into balls, rolled in za'atar, refrigerated overnight)
 
 ### Plate
 - 2 ripe tomatoes (small dice)

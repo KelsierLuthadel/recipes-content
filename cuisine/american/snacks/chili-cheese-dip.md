@@ -31,8 +31,8 @@ Ground beef browns in a wide oven-safe skillet with onion and garlic. Spices (ch
 - 2 tablespoons tomato purée
 
 ### Topping
-- 200 g mature cheddar (grated)
-- 100 g Monterey Jack (or mozzarella; grated)
+- 200 g mature cheddar cheese (grated)
+- 100 g Monterey Jack cheese (or mozzarella cheese; grated)
 - 2 spring onions (sliced thin)
 - 1 fresh jalapeño (sliced into rings)
 - 100 g soured cream

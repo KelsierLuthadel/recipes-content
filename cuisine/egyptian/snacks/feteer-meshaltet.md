@@ -34,7 +34,7 @@ A soft elastic dough rests; divides into 2 balls. Each ball stretches paper-thin
 - Powdered sugar dusting
 
 ### Savoury topping (optional - for the assembled meshaltet)
-- 150 g feta (crumbled)
+- 150 g feta cheese (crumbled)
 - 50 g melting cheese (mozzarella, grated)
 - 2 tablespoons fresh dill (chopped)
 

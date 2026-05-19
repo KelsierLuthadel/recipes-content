@@ -15,7 +15,7 @@ A no-yeast dough rolled thin and topped with a crème fraîche, parmesan, lemon 
 
 ### Crème Fraîche Sauce
 - 125 grams full-fat crème fraîche
-- 30 grams parmesan (finely grated)
+- 30 grams parmesan cheese (finely grated)
 - Grated zest and juice of 1 lemon
 - Pinch of freshly ground nutmeg
 - Black pepper

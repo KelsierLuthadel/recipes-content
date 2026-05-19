@@ -15,7 +15,7 @@ This is a northern Chinese beef speciality that lends itself to using dried tang
 ## Ingredients
 
 ### Beef & Marinade
-- 350 grams lean beef steak (cut against the grain into thin slices, about 5 cm long)
+- 350 grams rump steak (cut against the grain into thin slices, about 5 cm long)
 - 2 teaspoon dark soy sauce
 - 2 teaspoons dry sherry
 - 1 teaspoon fresh ginger (finely chopped)

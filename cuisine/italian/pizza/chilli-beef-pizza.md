@@ -39,7 +39,7 @@ This is a pizza with substance and spice. A generous topping of seasoned beef an
 - pepper
 
 ### Cheese Topping
-- 50 grams mozzarella (shredded)
+- 50 grams mozzarella cheese (shredded)
 - 75 grams cheddar cheese (grated)
 - 1 tablespoon fresh oregano (chopped)
 

@@ -35,7 +35,7 @@ Chicken thighs are poached with onion, garlic and bay until just cooked, then sh
 ### To serve
 - 12 corn tostadas (or warm corn tortillas for tacos)
 - 1 avocado (sliced)
-- 100 g queso fresco (or feta, crumbled)
+- 100 g queso fresco (or feta cheese, crumbled)
 - Mexican crema (or soured cream)
 - Coriander leaves
 - Lime wedges

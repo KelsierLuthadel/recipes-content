@@ -26,7 +26,7 @@ Courgettes are diced and cooked with onion, garlic and roasted poblano until jus
 - ¼ teaspoon black pepper
 
 ### To finish
-- 80 g queso fresco (or feta, crumbled)
+- 80 g queso fresco (or feta cheese, crumbled)
 - A handful of coriander (chopped)
 - 1 lime (cut into wedges)
 

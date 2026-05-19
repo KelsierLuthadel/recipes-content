@@ -40,7 +40,7 @@ Tomatillos, poblanos, jalapeños, garlic and onion roast under the grill until b
 - 12 warm corn tortillas
 - Lime wedges
 - Sliced radish
-- Crumbled queso fresco (or feta)
+- Crumbled queso fresco (or feta cheese)
 - Diced white onion 
 - Coriander
 - White rice (or pinto beans)

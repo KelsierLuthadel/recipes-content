@@ -40,7 +40,7 @@ Tomatoes and peppers get tops cut off and centres scooped out. The tomato flesh 
 - 200 ml hot water
 
 ### To serve
-- 200 g feta (crumbled)
+- 200 g feta cheese (crumbled)
 - Crusty bread
 
 ## Method

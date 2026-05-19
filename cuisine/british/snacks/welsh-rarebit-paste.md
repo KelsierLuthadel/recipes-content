@@ -11,7 +11,7 @@
 A classic British cheese sauce, creamy, tangy, and rich with mature Cheddar, that's baked until bubbling. While traditionally spooned over toast, this versatile preparation also works beautifully over smoked haddock or vegetables. The silky sauce coating crispy bread is pure comfort food elevated to bistro standards.
 
 ## Ingredients
-- 700 grams mature Cheddar (grated)
+- 700 grams mature Cheddar cheese (grated)
 - 150 ml milk
 - 25 grams plain flour
 - 50 grams fresh white breadcrumbs

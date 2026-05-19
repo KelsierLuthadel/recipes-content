@@ -27,12 +27,12 @@ Choux dough cooks on the stovetop: milk + water + butter + salt come to a rollin
 
 ### Cheese
 - 100 g Gruyère cheese (finely grated)
-- 50 g Comté (or aged Cheddar, finely grated)
+- 50 g Comté (or aged Cheddar cheese, finely grated)
 - A grating of fresh nutmeg
 
 ### To finish
 - 1 egg yolk (beaten with 1 tablespoon milk - for egg wash)
-- 30 g extra grated Gruyère (for sprinkling on top)
+- 30 g extra grated Gruyère cheese (for sprinkling on top)
 - A pinch of paprika (optional)
 
 ## Method

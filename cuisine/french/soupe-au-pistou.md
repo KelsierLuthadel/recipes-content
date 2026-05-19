@@ -34,7 +34,7 @@ A vegetable soup of cannellini beans, kidney beans, courgette, green beans, toma
 ### Pistou
 - 1 large bunch basil (around 80 g; leaves only)
 - 4 garlic cloves
-- 50 g parmesan (finely grated)
+- 50 g parmesan cheese (finely grated)
 - 5 tablespoons olive oil
 - ½ teaspoon salt
 

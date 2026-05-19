@@ -27,9 +27,9 @@ A soft yeasted bread dough rises for 1 hour. Three toppings prep simultaneously:
 - 4 tablespoons extra-virgin olive oil
 
 ### Topping 2 - Cheese
-- 80 g low-moisture mozzarella 
-- 20 g halloumi (grated)
-- 50 g feta (crumbled)
+- 80 g low-moisture mozzarella cheese 
+- 20 g halloumi cheese (grated)
+- 50 g feta cheese (crumbled)
 - 1 teaspoon nigella seeds
 - 1 teaspoon dried mint
 

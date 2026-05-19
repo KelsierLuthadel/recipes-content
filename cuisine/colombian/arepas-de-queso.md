@@ -17,7 +17,7 @@ Masarepa (pre-cooked, instant white maize flour, sold as "masarepa", "harina pan
 - 350 g pre-cooked white maize flour (masarepa / harina P.A.N. / harina pan)
 - 1 ¼ teaspoons salt
 - 500 ml warm water (approximate)
-- 200 g mild mozzarella (or queso fresco; grated)
+- 200 g mild mozzarella cheese (or queso fresco; grated)
 - 30 g unsalted butter (melted; for cooking)
 
 ### To serve

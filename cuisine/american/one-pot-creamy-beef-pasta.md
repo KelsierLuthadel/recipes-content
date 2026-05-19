@@ -24,7 +24,7 @@ An American weeknight pasta that compresses a Hamburger Helper-style box meal in
 - 950 ml chicken (or beef broth)
 - 240 ml heavy cream
 - 225 g sharp white cheddar cheese (shredded)
-- 1 cup freshly grated parmesan (plus more to top)
+- 1 cup freshly grated parmesan cheese (plus more to top)
 
 ## Method
 

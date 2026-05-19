@@ -19,7 +19,7 @@ The filling is built in a small bowl: drained tinned tuna, finely-chopped onion,
 - 1 onion (medium, very finely chopped)
 - A small bunch flat-leaf parsley (chopped)
 - 2 tablespoons capers (rinsed, chopped)
-- 2 tablespoons grated parmesan (or aged gouda, optional)
+- 2 tablespoons grated parmesan cheese (or aged gouda, optional)
 - 1 teaspoon harissa
 - ½ teaspoon ground cumin
 - salt

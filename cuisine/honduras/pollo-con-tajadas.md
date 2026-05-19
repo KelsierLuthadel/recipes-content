@@ -18,7 +18,7 @@ Bone-in chicken pieces marinate in lime, garlic, achiote and cumin, then are flo
 - 8 bone-in chicken thighs and drumsticks (or 1.2 kg cut chicken pieces)
 - 2 limes (juice)
 - 6 garlic cloves (crushed)
-- 1 teaspoon ground annatto (achiote) or paprika
+- 1 teaspoon ground annatto (achiote)
 - 1 teaspoon ground cumin
 - 1 teaspoon dried oregano
 - 1 ½ teaspoons salt

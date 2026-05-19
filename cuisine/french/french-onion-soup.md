@@ -34,8 +34,8 @@ Onions cook for nearly an hour in butter and oil until they're deep mahogany, al
 
 ### To finish
 - 1 baguette (cut into 8-12 thick slices)
-- 200 g gruyère (grated)
-- 50 g comté (or extra gruyère, for the top)
+- 200 g gruyère cheese (grated)
+- 50 g comté (or extra gruyère cheese, for the top)
 
 ## Method
 

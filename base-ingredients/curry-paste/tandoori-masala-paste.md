@@ -46,7 +46,6 @@ Tandoori masala paste is unique: it's designed to be diluted with yogurt to crea
 ### Liquids & Storage
 - 50 ml vegetable oil (for finishing)
 - Sterilized glass jars
-- oil (for sealing)
 
 ## Method
 

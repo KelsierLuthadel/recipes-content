@@ -26,7 +26,7 @@ This is peasant cooking with refined sensibilities. Sausage, freed from its casi
 ### Pasta & Finish
 - 500 grams penne rigate
 - 2 tablespoons fresh flat leaf parsley (chopped)
-- 30 grams Parmesan (freshly grated)
+- 30 grams Parmesan cheese (freshly grated)
 
 ## Method
 

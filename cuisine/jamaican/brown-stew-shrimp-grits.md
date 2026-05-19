@@ -22,7 +22,7 @@ A Caribbean-Southern crossover that works because both traditions cook in a simi
 - ½ cup sweet potato purée (or pumpkin purée)
 - 2 tablespoons butter
 - 120 ml half-and-half (or single cream)
-- 100 g shredded gouda (or sharp cheddar)
+- 100 g shredded gouda cheese (or sharp cheddar)
 - ¼ teaspoon white pepper
 
 ### Brown stew shrimp

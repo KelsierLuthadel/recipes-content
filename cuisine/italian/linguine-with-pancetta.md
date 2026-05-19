@@ -22,7 +22,7 @@ This Roman classic showcases the magic of combining quality ingredients in the r
 ### Tomatoes & Finishing
 - 800 grams cherry tomatoes (tinned, or fresh and de-seeded)
 - 3 tablespoons fresh flat-leaf parsley (finely chopped)
-- 100 grams Pecorino Romano (freshly grated)
+- 100 grams Pecorino Romano cheese (freshly grated)
 - Salt to taste
 
 ### Pasta

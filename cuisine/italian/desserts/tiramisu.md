@@ -18,7 +18,7 @@ Egg yolks whisk with sugar over hot water (zabaglione method, gentle heat) until
 - 4 eggs (large, separated - yolks for the cream, whites for lightening)
 - 100 g caster sugar (for the yolks)
 - 50 g caster sugar (for the whites)
-- 500 g mascarpone (cold, from the fridge)
+- 500 g mascarpone cheese (cold, from the fridge)
 - A pinch of salt
 
 ### The dipping coffee

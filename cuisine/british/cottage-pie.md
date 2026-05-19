@@ -35,7 +35,7 @@ Beef mince browned with aromatics, simmered into a thick red-wine gravy with tom
 - 1 kg floury potatoes (Maris Piper or King Edward), peeled and cubed
 - 75 g unsalted butter
 - 75 ml whole milk
-- 75 g mature cheddar (grated)
+- 75 g mature cheddar cheese (grated)
 - Salt
 
 ## Method

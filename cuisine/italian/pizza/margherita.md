@@ -29,7 +29,7 @@ This is the essence of pizza. A thin, crisp crust topped with a simple tomato sa
 - pepper
 
 ### Topping
-- 150 grams buffalo mozzarella (fresh)
+- 150 grams buffalo mozzarella cheese (fresh)
 - 24 fresh basil leaves (or more)
 - 1 teaspoon dried oregano
 - Extra virgin olive oil for drizzling

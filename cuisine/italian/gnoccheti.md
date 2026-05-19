@@ -23,7 +23,7 @@ These handmade potato gnocchetti showcase Italian rustic cooking at its finest. 
 - 100 grams salted butter
 - 2 courgettes (medium, cut into 1 cm cubes)
 - 1 tablespoon fresh sage (finely sliced)
-- 300 grams Parmesan (freshly grated)
+- 300 grams Parmesan cheese (freshly grated)
 - salt
 - pepper
 

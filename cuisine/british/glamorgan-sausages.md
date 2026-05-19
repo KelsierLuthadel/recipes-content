@@ -16,7 +16,7 @@ Leeks soften in butter; mix with grated caerphilly (or mature cheddar), breadcru
 
 - 2 leeks (medium, white and pale green only, very finely chopped)
 - 30 g unsalted butter
-- 200 g caerphilly (or mature cheddar; grated)
+- 200 g caerphilly cheese (or mature cheddar; grated)
 - 200 g fresh white breadcrumbs (plus 100 g for coating)
 - 2 tablespoons fresh sage (chopped) or 1 teaspoon dried
 - 1 tablespoon English mustard

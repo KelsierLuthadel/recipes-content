@@ -40,7 +40,7 @@ Aubergines and potatoes pan-fry or roast separately. Lamb mince cooks down with 
 - 75 g plain flour
 - 700 ml whole milk (warm)
 - 2 eggs (large, beaten)
-- 100 g grated kefalotyri (or parmesan)
+- 100 g grated kefalotyri (or parmesan cheese)
 - A grating of nutmeg
 
 ## Method

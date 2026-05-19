@@ -26,7 +26,7 @@ A whole hen (or chicken thighs and drumsticks if you can't get a stewing bird) s
 - 2 bay leaves
 - 3 onions (medium, 1 added later, chopped)
 - 2 fresh tomatoes (grated)
-- 1 tablespoon ground annatto (achiote) or paprika
+- 1 tablespoon ground annatto (achiote)
 - 2 tablespoons vegetable oil
 - 800 g yuca (peeled, cut into 5 cm chunks)
 - 2 green plantains (large, peeled, cut into 5 cm chunks)

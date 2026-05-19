@@ -48,7 +48,7 @@ This hearty Italian minestrone soup is loaded with vegetables, beans, and pasta,
 - 20 grams pine nuts (toasted)
 - 2 garlic cloves
 - 100 ml olive oil
-- 25 grams Parmesan (freshly grated)
+- 25 grams Parmesan cheese (freshly grated)
 
 ## Method
 

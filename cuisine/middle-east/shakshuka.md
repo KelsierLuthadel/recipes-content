@@ -29,7 +29,7 @@ A pepper-and-onion sofrito is seasoned with cumin, paprika and chilli, then simm
 - salt
 - pepper
 - 6 eggs (large)
-- 100 g feta (crumbled, optional)
+- 100 g feta cheese (crumbled, optional)
 - A small handful of flat-leaf parsley (or coriander, chopped)
 - Crusty bread, to serve
 

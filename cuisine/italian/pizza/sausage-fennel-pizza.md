@@ -28,8 +28,8 @@ The dough is a quick mix of plain flour, baking powder and Greek yogurt, rolled 
 - 1 garlic clove (large, crushed)
 - 1 teaspoon fennel seeds (lightly crushed)
 - 60 grams young leaf spinach
-- 3 tablespoons ricotta
-- 25 grams parmesan (grated)
+- 3 tablespoons ricotta cheese
+- 25 grams parmesan cheese (grated)
 
 ## Method
 

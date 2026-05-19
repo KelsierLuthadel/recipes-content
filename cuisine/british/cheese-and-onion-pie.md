@@ -25,7 +25,7 @@ Onions cook slowly in butter until very soft and sweet. Mashed potato + grated c
 - 4 onions (large, thinly sliced)
 - 50 g unsalted butter
 - 300 g floury potatoes (peeled and cubed)
-- 400 g mature cheddar (grated)
+- 400 g mature cheddar cheese (grated)
 - 2 teaspoons English mustard
 - 1 teaspoon fresh thyme leaves
 - salt

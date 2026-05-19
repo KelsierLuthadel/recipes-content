@@ -24,7 +24,7 @@ Vegetables are diced into 1 cm cubes, slightly larger than Israeli salad. Olive 
 - 1 teaspoon sumac (plus more for sprinkling)
 - 1 teaspoon salt
 - ½ teaspoon black pepper
-- 100 g feta (crumbled, optional)
+- 100 g feta cheese (crumbled, optional)
 - A handful of kalamata olives (optional)
 
 ## Method

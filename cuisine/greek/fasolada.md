@@ -29,7 +29,7 @@ Soaked beans simmer slow with chopped vegetables, tomato and herbs in a generous
 - salt
 - pepper
 - A small bunch of flat-leaf parsley (chopped, to finish)
-- 100 g feta (optional, to finish)
+- 100 g feta cheese (optional, to finish)
 
 ## Method
 

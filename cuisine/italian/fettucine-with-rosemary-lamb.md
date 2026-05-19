@@ -28,7 +28,7 @@ This elegant pasta dish marries tender minced lamb with a fragrant base of onion
 
 ### Pasta & Finishing
 - 400 grams fettuccine
-- 100 grams Parmesan (freshly grated)
+- 100 grams Parmesan cheese (freshly grated)
 
 ## Method
 

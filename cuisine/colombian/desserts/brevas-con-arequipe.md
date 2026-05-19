@@ -27,7 +27,7 @@ Whole brown figs simmer slowly in a syrup of brown sugar, water, cinnamon and cl
 - 250 g arequipe (Colombian dulce de leche; or Argentine/Mexican dulce de leche)
 
 ### To serve
-- 200 g queso fresco (or mild feta, cubed; optional but classic)
+- 200 g queso fresco (or mild feta cheese, cubed; optional but classic)
 - A few pistachios (chopped, optional)
 
 ## Method

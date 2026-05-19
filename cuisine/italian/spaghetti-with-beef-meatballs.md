@@ -16,7 +16,7 @@ Beef meatballs represent the heart of Italian home cooking, simple ingredients t
 - 1 onion (finely chopped)
 - 750 grams beef mince (or combination of pork and veal)
 - 140 grams fresh breadcrumbs
-- 35 grams Parmesan (freshly grated)
+- 35 grams Parmesan cheese (freshly grated)
 - 2 tablespoons flat leaf parsley (freshly chopped)
 - 1 egg (beaten)
 - 1 garlic clove (crushed)

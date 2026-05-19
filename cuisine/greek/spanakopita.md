@@ -20,8 +20,8 @@ Spinach wilts and squeezes dry; mixes with crumbled feta, ricotta, eggs, dill an
 - 1 onion (small, finely chopped)
 - 6 spring onions (sliced)
 - 4 garlic cloves (crushed)
-- 300 g feta (crumbled)
-- 200 g ricotta
+- 300 g feta cheese (crumbled)
+- 200 g ricotta cheese
 - 3 eggs (large, beaten)
 - A small bunch of dill (chopped)
 - A small bunch of parsley (chopped)

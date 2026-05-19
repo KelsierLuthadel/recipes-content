@@ -20,7 +20,7 @@ Spinach is blanched for one minute then plunged into iced water (a step that loc
 - A small handful of fresh coriander (stems included)
 
 ### Paneer
-- 300 g paneer (cut into 2 cm cubes)
+- 300 g paneer cheese (cut into 2 cm cubes)
 - 2 tablespoons oil
 - ¼ teaspoon turmeric
 

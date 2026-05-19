@@ -24,8 +24,8 @@ Make spätzle as the base. Caramelise onions slowly in butter. Layer the spätzl
 - ½ teaspoon salt
 
 ### Layered cheese
-- 300 g emmental (or gruyère, grated)
-- 100 g mature cheddar (grated)
+- 300 g emmental cheese (or gruyère, grated)
+- 100 g mature cheddar cheese (grated)
 - 200 ml double cream
 - A grating of fresh nutmeg
 - Black pepper

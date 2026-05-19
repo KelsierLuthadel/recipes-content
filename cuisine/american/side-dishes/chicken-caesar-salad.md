@@ -21,8 +21,8 @@ A classic Roman salad featuring crisp cos lettuce coated in a rich, anchovy-base
 ### Greens and vegetables
 - 2 cos lettuces
 - 4 thick slices wholemeal bread
-- 25 g Parmesan (grated)
-- 50 g Parmesan (flakes)
+- 25 g Parmesan cheese (grated)
+- 50 g Parmesan cheese (flakes)
 
 ### Dressing
 - 15 g anchovy fillets (drained and chopped)
@@ -32,7 +32,7 @@ A classic Roman salad featuring crisp cos lettuce coated in a rich, anchovy-base
 - Dash of Tabasco sauce
 - ½ lemon (juice)
 - ½ garlic clove (crushed)
-- 2 tbsp Parmesan (finely grated)
+- 2 tbsp Parmesan cheese (finely grated)
 - 1 egg (boiled 90 seconds, shelled)
 - 150-300 ml extra virgin olive oil
 - Freshly ground black pepper

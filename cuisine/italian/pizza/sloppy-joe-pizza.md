@@ -21,7 +21,7 @@ Two pizza bases topped with passata, salami, dollops of bolognese and grated moz
 - 50 ml passata
 - 80 grams salami
 - 50 ml fresh bolognese sauce (or [bolognese](../italian/bolognese.md))
-- 100 grams grated mozzarella
+- 100 grams grated mozzarella cheese
 - Chilli oil (for drizzling, plus extra to serve)
 
 ### To Serve

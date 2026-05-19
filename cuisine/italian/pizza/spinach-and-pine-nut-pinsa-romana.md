@@ -26,7 +26,7 @@ Wilted spinach with onion, garlic and thyme is spread over pre-prepared pinsa ba
 - 2 pinsa romana bases
 - 125 grams fontina cheese (or mozzarella, thinly sliced)
 - 2 tablespoons pine nuts
-- 2 tablespoons grated parmesan
+- 2 tablespoons grated parmesan cheese
 
 ## Method
 

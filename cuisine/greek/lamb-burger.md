@@ -21,7 +21,7 @@ This burger borrows from the souvlaki and bifteki tradition of mainland Greece, 
 - 1 tbsp dried oregano, ideally Greek
 - 1 tsp ground cumin
 - 1 tbsp red wine vinegar
-- 100 g feta, crumbled
+- 100 g feta cheese, crumbled
 - 1 tsp flaky salt
 - ½ tsp black pepper
 

@@ -17,13 +17,13 @@ This layered pasta masterpiece begins with fresh, delicate pasta sheets encasing
 - 400 grams fresh pasta dough
 - 720 ml passata
 - 15 fresh basil leaves
-- 30 grams Pecorino (freshly grated)
+- 30 grams Pecorino cheese (freshly grated)
 
 ### Ricotta Filling
 - 500 grams ricotta cheese
 - 150 grams frozen spinach (defrosted and squeezed dry)
 - 150 grams rocket leaves (chopped)
-- 60 grams Pecorino (freshly grated)
+- 60 grams Pecorino cheese (freshly grated)
 - ¼ teaspoon nutmeg (freshly grated)
 - salt
 - pepper

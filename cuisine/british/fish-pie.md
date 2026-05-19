@@ -25,7 +25,7 @@ Mixed fish poaches briefly in milk, the milk becomes a parsley-cheddar béchamel
 ### Sauce
 - 50 g unsalted butter
 - 50 g plain flour
-- 100 g mature cheddar (grated)
+- 100 g mature cheddar cheese (grated)
 - 2 teaspoons Dijon mustard
 - 3 tablespoons fresh parsley (chopped)
 - salt
@@ -35,7 +35,7 @@ Mixed fish poaches briefly in milk, the milk becomes a parsley-cheddar béchamel
 - 1 kg floury potatoes (Maris Piper), peeled and cubed
 - 75 g unsalted butter
 - 75 ml whole milk
-- 50 g mature cheddar (grated)
+- 50 g mature cheddar cheese (grated)
 - Salt
 
 ## Method

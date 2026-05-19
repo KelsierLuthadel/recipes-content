@@ -34,7 +34,7 @@ This is baked pasta at its most elegant. Fresh courgettes sear quickly to mainta
 - pepper
 
 ### Topping & Assembly
-- 100 grams Parmesan (freshly grated)
+- 100 grams Parmesan cheese (freshly grated)
 - Butter for greasing (2 tablespoons)
 
 ## Method

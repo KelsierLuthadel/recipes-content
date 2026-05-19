@@ -27,8 +27,8 @@ A quick béchamel goes onto two slices of bread, ham fills the middle, more béc
 - 8 thick slices good white bread (sourdough or pain de mie)
 - 30 g unsalted butter (softened, for outside)
 - 8 slices good ham
-- 200 g gruyère (grated)
-- 50 g parmesan (grated)
+- 200 g gruyère cheese (grated)
+- 50 g parmesan cheese (grated)
 
 ## Method
 

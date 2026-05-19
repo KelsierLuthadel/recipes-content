@@ -16,7 +16,7 @@ A small pizza built on tomato sauce and cubed mozzarella, baked until crisp and 
 ### Pizza Base
 - ½ quantity [pizza dough](basic-pizza-dough.md)
 - 80 grams [pizza sauce](pizza-sauce.md)
-- 65 grams mozzarella (cubed)
+- 65 grams mozzarella cheese (cubed)
 
 ### Topping
 - 4 thin slices Italian smoked pancetta

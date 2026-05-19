@@ -25,7 +25,7 @@ The Aussie burger, sometimes called "the lot", is a milk-bar institution that em
 - 4 eggs
 - 4 canned pineapple rings, drained and patted dry
 - 4 slices canned (or jarred pickled beetroot)
-- 4 slices tasty cheddar
+- 4 slices tasty cheddar cheese
 - 4 lettuce leaves (large, iceberg or cos)
 - 1 tomato (large), sliced
 - 1 brown onion (small), sliced into rings

@@ -34,7 +34,7 @@ Lamb mince browned with onion, carrot and celery, simmered with stock, tomato pu
 - 1 kg floury potatoes (Maris Piper or King Edward), peeled and cubed
 - 75 g unsalted butter
 - 75 ml whole milk
-- 50 g mature cheddar (grated, optional)
+- 50 g mature cheddar cheese (grated, optional)
 - Salt
 
 ## Method

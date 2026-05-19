@@ -16,7 +16,7 @@ Soft ripe Camembert mashes with butter, finely grated onion, sweet paprika, cara
 ## Ingredients
 
 ### Spread
-- 250 g ripe Camembert (room temperature; the riper the better)
+- 250 g ripe Camembert cheese (room temperature; the riper the better)
 - 100 g soft unsalted butter
 - 50 g cream cheese (or quark, smooths the mix; optional)
 - 1 white onion (small, finely grated; about 60 g)

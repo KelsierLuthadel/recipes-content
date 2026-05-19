@@ -35,7 +35,7 @@ Shortcrust pastry blind-bakes to a deep gold (essential, soggy bottom is a quich
 - 4 eggs (large)
 - 200 ml double cream
 - 100 ml whole milk
-- 150 g gruyère (grated)
+- 150 g gruyère cheese (grated)
 - A grating of nutmeg
 - salt
 - pepper

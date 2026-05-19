@@ -28,7 +28,7 @@ Tomatillos, jalapeño, onion and garlic blitz into a green salsa, briefly cooked
 - 4 cups tortilla chips (about 200 g, ideally lightly stale)
 - 4 eggs
 - 1 tablespoon vegetable oil
-- 100 g queso fresco (or feta), crumbled
+- 100 g queso fresco (or feta cheese), crumbled
 - 4 tablespoons crema (or sour cream)
 - ½ red onion (very finely sliced)
 - 2 tablespoons chopped coriander

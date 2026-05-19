@@ -32,14 +32,14 @@ A rich, layered Italian baked pasta combining slow-cooked meat ragù with silky 
 - 100 grams plain flour
 - 1 litre cold full-fat milk
 - ¼ teaspoon nutmeg (freshly grated)
-- 100 grams Parmesan (freshly grated)
+- 100 grams Parmesan cheese (freshly grated)
 
 **For the pesto**
 - 40 grams fresh basil leaves
 - 1 garlic clove (peeled)
 - 30 grams pine nuts
 - 120 ml extra virgin olive oil
-- 20 grams Parmesan (freshly grated)
+- 20 grams Parmesan cheese (freshly grated)
 - pinch of salt
 
 ## Method
