@@ -26,7 +26,7 @@ Chilli con carne is a hearty, flavour-packed stew that celebrates bold Mexican s
 - 400g minced beef
 - 400g minced pork
 - 1 tin (400g) Kidney beans (drained and rinsed)
-- 1 tin (400g) Baked beans
+- 1 tin (400g) [Baked Beans](../american/side-dishes/baked-beans.md)
 - 1 tin (400g) Pinto beans (drained and rinsed)
 - 2 tablespoons tomato puree
 

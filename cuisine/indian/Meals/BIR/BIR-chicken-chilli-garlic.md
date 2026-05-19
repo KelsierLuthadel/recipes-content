@@ -26,8 +26,8 @@ A bold, garlicky curry with a brisk curry-house kick. This jalfrezi-style dish u
 ### Heat and sauce
 - 3 fresh green chillies, thinly sliced (plus extra to serve)
 - 1 tsp chilli powder
-- 2 tbsp mixed powder
-- 2 tbsp tandoori masala
+- 2 tbsp [Mixed Powder](../../Spice-Mixes/mixed-powder.md)
+- 2 tbsp [Tandoori Masala](../../Spice-Mixes/tandoori-masala.md)
 - 125 ml (½ cup) tomato purée
 - 500 ml [Curry Base Gravy](../../Base/curry-base.md)
 

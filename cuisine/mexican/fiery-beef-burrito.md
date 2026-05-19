@@ -20,7 +20,7 @@ The combination of already flavourful spiced beef with the particularly fiery sa
 
 ### Protein & Rice
 - 1 portion cooked spiced minced beef (warmed)
-- 1 portion spiced rice (cooked)
+- 1 portion [Spiced Rice](side-dishes/spiced-rice.md) (cooked)
 
 ### Fillings & Toppings
 - 1 handful fried tortilla chips (lightly crushed)

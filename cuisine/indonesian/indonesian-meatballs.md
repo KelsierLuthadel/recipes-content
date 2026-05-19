@@ -19,7 +19,7 @@ Tender chicken meatballs simmered in a fragrant coconut and curry sauce, this In
 - 100 grams panko breadcrumbs
 - 1 red chilli pepper (chopped)
 - 4 cloves garlic (minced)
-- 1 tbsp garam masala
+- 1 tbsp [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
 - ½ tsp ground nutmeg
 - 5 green onions (chopped)
 - 4 grams fresh coriander (chopped)
@@ -34,7 +34,7 @@ Tender chicken meatballs simmered in a fragrant coconut and curry sauce, this In
 - 237 ml low-sodium chicken broth
 - 2 tbsp red curry paste
 - 391 ml unsweetened coconut milk
-- 1 tbsp curry powder
+- 1 tbsp [Curry Powder](../indian/Spice-Mixes/curry-powder.md)
 - ¼ tsp salt (or to taste)
 - ¼ tsp pepper (or to taste)
 - 5 fresh kaffir lime leaves

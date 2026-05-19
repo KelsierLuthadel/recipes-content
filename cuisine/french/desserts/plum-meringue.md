@@ -9,7 +9,7 @@
 
 ## Ingredients
 - 300 grams plums
-- 300 ml sirop a sorbet
+- 300 ml [Syrup for Sorbet (Sirop à Sorbet)](../../../base-ingredients/syrup/sirop-a-sorbet.md)
 - 2 bay leaves
 - 275 grams [meringue Francaise](../../baking/meringue/meringue-francais.md)
 

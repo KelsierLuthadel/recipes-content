@@ -29,7 +29,7 @@ A quick British curry-house version of classic Punjabi saag gosht, combining pre
 - 3 tbsp finely chopped coriander stalks
 - 1 tbsp ground cumin
 - 1 tbsp ground coriander
-- 1 tbsp mixed powder
+- 1 tbsp [Mixed Powder](../../Spice-Mixes/mixed-powder.md)
 - 1 tsp chilli powder
 - 180 ml (¾ cup) tomato purée
 
@@ -41,7 +41,7 @@ A quick British curry-house version of classic Punjabi saag gosht, combining pre
 ### Finishers
 - 2 tbsp plain yoghurt
 - 1 lemon (juice)
-- 1 tbsp garam masala
+- 1 tbsp [Garam Masala](../../Spice-Mixes/garam-masala.md)
 
 ## Method
 

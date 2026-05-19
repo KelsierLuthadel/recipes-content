@@ -38,8 +38,8 @@ A thick batter of gram (chickpea) flour, rice flour, ajwain, turmeric, chilli po
 - 1 litre vegetable oil
 
 ### To serve
-- Mint chutney
-- Tamarind chutney
+- [Mint Chutney](../sauces-pickles/mint-chutney.md)
+- [Tamarind Chutney](../sauces-pickles/tamarind-chutney.md)
 - Lemon wedges
 
 ## Method

@@ -10,7 +10,7 @@
 
 ## Ingredients
 ### Filling
-- 500 ml sirop a sorbet
+- 500 ml [Syrup for Sorbet (Sirop à Sorbet)](../../../base-ingredients/syrup/sirop-a-sorbet.md)
 - 340 grams cranberries
 - 4 quince
 - 1 Bramley (or other cooking apple)

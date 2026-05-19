@@ -23,8 +23,8 @@ A whole chicken is slashed to the bone and rubbed with a yogurt-based marinade t
 - 200 g natural yogurt (thick; strained if loose)
 - 2 tablespoons ginger-garlic paste
 - 2 tablespoons Kashmiri chilli powder
-- 1 tablespoon chaat masala
-- 1 teaspoon garam masala
+- 1 tablespoon [Chaat Masala](../indian/Spice-Mixes/chaat-masala.md)
+- 1 teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - 1 teaspoon turmeric

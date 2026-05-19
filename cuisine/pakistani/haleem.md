@@ -31,7 +31,7 @@ Cracked wheat (daleya), pearl barley, chana dal, masoor dal, moong dal and urad 
 - 1 teaspoon ground turmeric
 - 1 ½ teaspoons ground coriander
 - 1 teaspoon ground cumin
-- 1 ½ teaspoons garam masala
+- 1 ½ teaspoons [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
 - 1 teaspoon black peppercorns (whole)
 - 2 black cardamom pods
 - 4 cloves
@@ -56,7 +56,7 @@ Cracked wheat (daleya), pearl barley, chana dal, masoor dal, moong dal and urad 
 - 4 lemons (cut into wedges)
 - Small bunch fresh coriander (chopped)
 - Small bunch fresh mint (chopped)
-- 1 teaspoon garam masala
+- 1 teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
 
 ## Method
 

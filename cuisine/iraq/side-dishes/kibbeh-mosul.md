@@ -28,7 +28,7 @@ Fine bulgur soaks for 30 minutes. Lamb mince blends with bulgur, grated onion, a
 - 2 tablespoons olive oil
 - 1 onion (medium, finely chopped)
 - 3 garlic cloves (crushed)
-- 1 ½ teaspoons baharat
+- 1 ½ teaspoons [Baharat](../../../base-ingredients/spices/baharat.md)
 - 40 g pine nuts (toasted)
 - 2 tablespoons pomegranate molasses
 - 1 teaspoon salt

@@ -17,7 +17,7 @@ Irish stew is the epitome of rustic, peasant cooking elevated to comfort food st
 - 750 grams middle neck of lamb (cut into chunks)
 - 100 grams butter
 - 1 ½ litres chicken stock
-- 1 bouquet garni
+- 1 [Bouquet Garni](../../base-ingredients/herbs/bouquet-garni.md)
 - 1 garlic clove
 - salt
 - pepper

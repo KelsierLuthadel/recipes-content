@@ -22,7 +22,7 @@
 - 325 ml milk
 - 100 ml double cream
 - few drops of vanilla extract
-- 20 grams clarified butter (to cook)
+- 20 grams [Clarified Butter (Beurre Clarifié)](../../../base-ingredients/baking/clarified-butter.md) (to cook)
 
 ## Overview
 Classic French crèpes: delicate, tissue-thin pancakes with a tender crumb and subtle vanilla flavor, serving as the foundation for infinite sweet and savory variations. These timeless crèpes are fundamental to French cuisine yet require precision and practice to master, rewarding with elegant, versatile results.

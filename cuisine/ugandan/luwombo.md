@@ -19,7 +19,7 @@ Chicken thighs are marinated briefly in onion, garlic, ginger, tomato and a spri
 - 8 bone-in chicken thighs, skin on (about 1.2 kg)
 - 1 teaspoon salt
 - 1 teaspoon ground black pepper
-- 2 teaspoons mild curry powder
+- 2 teaspoons mild [Curry Powder](../indian/Spice-Mixes/curry-powder.md)
 - 1 Royco (or Maggi cube, crumbled)
 - 1 lemon (juice)
 

@@ -21,7 +21,7 @@ Naan is exceptional bread, leavened with yoghurt and baking powder (not yeast), 
 - 1 tablespoon baking powder
 - 1 tablespoon white granulated sugar
 - 2 tablespoons Greek yoghurt (or full-fat plain yoghurt)
-- 1 teaspoon aromatic salt
+- 1 teaspoon [Aromatic Salt](../base-ingredients/spices/aromatic-salt.md)
 - Lukewarm water (added gradually, approximately 100-125 ml)
 
 ### For Finishing & Cooking

@@ -24,7 +24,7 @@ Fresh sweetcorn is shucked; the husks are saved in warm water to soften. The ker
 
 ### To serve
 - Sugar (a bowl at the table - guests sprinkle to taste)
-- Pebre (Chilean salsa), optional
+- [Pebre](../side-dishes/pebre.md) (Chilean salsa), optional
 
 ## Method
 

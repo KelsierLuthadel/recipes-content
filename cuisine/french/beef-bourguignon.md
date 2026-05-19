@@ -24,7 +24,7 @@ Beef Bourguignon is the quintessential French braise, tender beef cubes slow-coo
 - 2 carrots (medium, sliced into 5 mm rounds)
 - 2 onions (medium, sliced into 5 mm rounds)
 - 2 tablespoons flour
-- 1 bouquet garni
+- 1 [Bouquet Garni](../../base-ingredients/herbs/bouquet-garni.md)
 - 2 cloves garlic (de-germed)
 - Crushed pepper
 - Salt to taste

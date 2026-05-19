@@ -25,8 +25,8 @@ A restaurant-style bhuna using pre-cooked lamb for speed, while keeping the dry,
 - 125 ml (½ cup) tomato purée
 
 ### Spices
-- 2 tbsp mixed powder
-- 2 tbsp tandoori masala
+- 2 tbsp [Mixed Powder](../../Spice-Mixes/mixed-powder.md)
+- 2 tbsp [Tandoori Masala](../../Spice-Mixes/tandoori-masala.md)
 
 ### Sauce + protein
 - 500 ml [Curry Base Gravy](../../Base/curry-base.md)

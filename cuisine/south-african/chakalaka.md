@@ -22,13 +22,13 @@ Onion is softened in oil; garlic, ginger and curry powder bloom. Carrots cook br
 - 2 red bell peppers (chopped)
 - 1 green bell pepper (chopped)
 - 2-3 long green chillies (sliced)
-- 2 tablespoons mild curry powder
+- 2 tablespoons mild [Curry Powder](../indian/Spice-Mixes/curry-powder.md)
 - 1 teaspoon ground turmeric
 - 1 teaspoon paprika
 - 1 teaspoon dried thyme
 - 400 g tin chopped tomatoes
 - 1 tablespoon tomato paste
-- 400 g tin baked beans (in tomato sauce - the standard supermarket kind)
+- 400 g tin [Baked Beans](../american/side-dishes/baked-beans.md) (in tomato sauce - the standard supermarket kind)
 - 2 tablespoons cider vinegar
 - 1 ½ teaspoons salt
 - ½ teaspoon black pepper

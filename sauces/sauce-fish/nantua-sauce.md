@@ -29,7 +29,7 @@ A sumptuous, pale pink sauce built on a foundation of crayfish shells and aromat
 - 300 ml Fish stock
 
 ### Vegetables & finishing
-- 1 Bouquet garni
+- 1 [Bouquet Garni](../../base-ingredients/herbs/bouquet-garni.md)
 - 2 sprigs tarragon
 - 80 grams tomatoes (very ripe, peeled and de-seeded)
 - 1 pinch cayenne pepper

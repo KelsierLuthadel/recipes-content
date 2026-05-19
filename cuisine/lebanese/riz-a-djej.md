@@ -28,7 +28,7 @@ A whole chicken poaches with onion, cinnamon, cardamom and bay 45 minutes; chick
 - 300 g lamb (or beef mince)
 - 1 onion (medium, chopped)
 - 3 tablespoons ghee (or olive oil)
-- 1 ½ tablespoons baharat
+- 1 ½ tablespoons [Baharat](../../base-ingredients/spices/baharat.md)
 - ½ teaspoon ground cinnamon
 - ½ teaspoon ground allspice
 - 400 g basmati rice (rinsed; soaked 20 minutes; drained)

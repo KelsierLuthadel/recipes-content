@@ -26,7 +26,7 @@ A fiery potato salad blending Cajun spices with a mayo-based dressing, featuring
 ### Seasonings and spices
 - 1 tbsp Dijon mustard
 - Tabasco sauce (to taste)
-- ¼ tsp garam masala
+- ¼ tsp [Garam Masala](../../indian/Spice-Mixes/garam-masala.md)
 - ¼ tsp ground cumin
 - ¼ tsp dried coriander
 - ¼ tsp cayenne pepper

@@ -23,7 +23,7 @@ A small dice of cucumber (seeds out), tomato (seeds out), red onion and green ch
 - 1 lime (juice)
 - 1 teaspoon roasted cumin powder (see Notes)
 - ½ teaspoon salt
-- ¼ teaspoon chaat masala (optional)
+- ¼ teaspoon [Chaat Masala](../Spice-Mixes/chaat-masala.md) (optional)
 - ¼ teaspoon ground black pepper
 
 ## Method

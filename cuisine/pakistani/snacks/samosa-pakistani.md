@@ -29,7 +29,7 @@ Pastry dough: plain flour, ghee, salt, ajwain seeds, and warm water are kneaded 
 - 2 green chillies (finely chopped)
 - 500 g ground beef (or lamb)
 - 1 teaspoon ground turmeric
-- 1 ½ teaspoons garam masala
+- 1 ½ teaspoons [Garam Masala](../../indian/Spice-Mixes/garam-masala.md)
 - 1 ½ teaspoons ground cumin
 - 1 ½ teaspoons ground coriander
 - 1 teaspoon Kashmiri red chilli powder
@@ -46,7 +46,7 @@ Pastry dough: plain flour, ghee, salt, ajwain seeds, and warm water are kneaded 
 - 1 litre vegetable oil
 
 ### To serve
-- Tamarind chutney (sold ready-made)
+- [Tamarind Chutney](../../indian/sauces-pickles/tamarind-chutney.md) (sold ready-made)
 - Green mint chutney (see [aushak.md](../../afghanistan/snacks/aushak.md) for a similar yogurt-based one, or blitz 1 bunch mint + 1 bunch coriander + 2 green chillies + 1 garlic + juice of 1 lime + 1 teaspoon salt)
 - Lime wedges
 - Sliced raw red onion

@@ -23,7 +23,7 @@ White chicken stock (fond blanc de volaille) is the foundation for classical lig
 - 1 stalk celery (approximately 10 centimeters, coarsely chopped)
 - 1 onion (medium, studded with 2 whole cloves)
 - 150 grams button mushrooms (thinly sliced)
-- 1 Bouquet garni (thyme, bay leaf, parsley stems)
+- 1 [Bouquet Garni](../base-ingredients/herbs/bouquet-garni.md) (thyme, bay leaf, parsley stems)
 
 ### Liquid Base
 - 2 ½ litres cold water

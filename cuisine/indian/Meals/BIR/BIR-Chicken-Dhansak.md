@@ -20,7 +20,7 @@ A British curry-house classic with sweet-sour notes of pineapple and lemon and e
 - 4 tbsp rapeseed (canola) oil or seasoned oil
 - 2 tbsp garlic and ginger paste
 - 1 tsp ground turmeric
-- 2 tbsp mixed powder
+- 2 tbsp [Mixed Powder](../../Spice-Mixes/mixed-powder.md)
 - 1 tbsp chilli powder, or to taste
 - 125 ml (½ cup) tomato purée
 

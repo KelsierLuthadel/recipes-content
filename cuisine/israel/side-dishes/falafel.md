@@ -34,9 +34,9 @@ Dried chickpeas soak overnight, do not cook them. Blitz with onion, garlic, herb
 
 ### To serve
 - Warm pita
-- Hummus
+- [Hummus](hummus.md)
 - Tahina sauce
-- Salata baladi
+- [Salata Baladi](../../egyptian/side-dishes/salata-baladi.md)
 - Pickled cucumbers, pickled turnips
 - Zhug (or sahawiq)
 

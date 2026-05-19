@@ -29,7 +29,7 @@ A classic British curry-house madras with a sweet-and-sour profile, featuring te
 - 1 tsp ground coriander
 - ¼ tsp ground turmeric
 - 1-2 tbsp chilli powder, to taste
-- 2 tbsp mixed powder
+- 2 tbsp [Mixed Powder](../../Spice-Mixes/mixed-powder.md)
 
 ### Sauce and protein
 - 500 ml [Curry Base Gravy](../../Base/curry-base.md)
@@ -40,7 +40,7 @@ A classic British curry-house madras with a sweet-and-sour profile, featuring te
 - 1-2 tbsp smooth mango chutney, to taste
 - 1 lime (juice)
 - Salt, to taste
-- Pinch of garam masala
+- Pinch of [Garam Masala](../../Spice-Mixes/garam-masala.md)
 - Coriander (cilantro), to garnish
 
 ## Method

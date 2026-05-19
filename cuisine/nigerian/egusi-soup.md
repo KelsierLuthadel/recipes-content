@@ -41,7 +41,7 @@ Beef or goat is parboiled with onion, stock cube and salt to make a base stock. 
 - 200 g leafy greens - bitter leaf (cleaned, repeatedly washed to debitter) OR spinach OR ugu (fluted pumpkin leaves)
 
 ### To serve
-- Fufu, pounded yam, eba (cassava semolina) or rice
+- [Fufu](side-dishes/fufu.md), pounded yam, eba (cassava semolina) or rice
 
 ## Method
 

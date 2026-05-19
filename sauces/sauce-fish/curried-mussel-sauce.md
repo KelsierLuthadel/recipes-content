@@ -20,12 +20,12 @@ A creamy, warmly spiced sauce featuring mussel cooking juices and curry powder. 
 - 60 grams onions, finely chopped
 
 ### Spice & flour
-- 2 teaspoons curry powder
+- 2 teaspoons [Curry Powder](../../cuisine/indian/Spice-Mixes/curry-powder.md)
 - 15 grams plain flour
 
 ### Liquid & finishing
 - 500 ml cooking liquor from mussels and other shellfish (cooled)
-- 1 Bouquet garni
+- 1 [Bouquet Garni](../../base-ingredients/herbs/bouquet-garni.md)
 - 150 ml double cream
 - salt
 - pepper

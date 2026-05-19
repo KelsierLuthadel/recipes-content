@@ -28,7 +28,7 @@ A light, cleansing chicken curry from Agra with fresh ginger, warm spices and br
 - 2 cinnamon sticks
 
 ### Ground spices
-- 3 tbsp garam masala
+- 3 tbsp [Garam Masala](../Spice-Mixes/garam-masala.md)
 - ½ tsp ground turmeric
 - ¼ tsp chilli powder
 

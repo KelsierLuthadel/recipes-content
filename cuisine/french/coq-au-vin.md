@@ -24,7 +24,7 @@ Lardons rendered, chicken pieces browned in the fat, then simmered in red wine w
 - 750 ml red wine (Burgundy or Pinot Noir)
 - 50 ml brandy
 - 400 ml chicken stock
-- 1 bouquet garni (thyme, parsley, bay leaf)
+- 1 [Bouquet Garni](../../base-ingredients/herbs/bouquet-garni.md) (thyme, parsley, bay leaf)
 - salt
 - pepper
 

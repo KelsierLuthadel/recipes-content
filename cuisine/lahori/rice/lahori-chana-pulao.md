@@ -38,7 +38,7 @@ Whole chickpeas are soaked overnight and simmered until tender (or pressure-cook
 - 1 teaspoon Kashmiri chilli powder
 - ½ teaspoon turmeric
 - 1 teaspoon salt (to taste)
-- ½ teaspoon garam masala
+- ½ teaspoon [Garam Masala](../../indian/Spice-Mixes/garam-masala.md)
 - 800 ml chickpea cooking liquor (topped up with hot water if needed)
 
 ### To finish

@@ -23,7 +23,7 @@ A British-Indian pathia curry with a sweet-and-sour profile, tuned for balanced 
 - Salt, to taste
 
 ### Spices and sweet/sour
-- 2 tbsp mixed powder
+- 2 tbsp [Mixed Powder](../../Spice-Mixes/mixed-powder.md)
 - 1 tsp chilli powder
 - 2 tbsp sugar, or to taste
 - 125 ml (½ cup) tomato purée

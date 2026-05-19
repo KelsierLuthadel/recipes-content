@@ -18,7 +18,7 @@ Lamb shoulder is browned hard; onion is softened; garlic, baharat and tomato pas
 - 3 tablespoons vegetable oil (or samna)
 - 2 onions (chopped)
 - 8 garlic cloves (split: 4 crushed for the stew, 4 finely chopped for taqliya)
-- 2 tablespoons baharat (or 1 tsp each: ground cumin, coriander, allspice, black pepper, cinnamon)
+- 2 tablespoons [Baharat](../../base-ingredients/spices/baharat.md) (or 1 tsp each: ground cumin, coriander, allspice, black pepper, cinnamon)
 - 2 tablespoons tomato puree
 - 1 (400 g) tin chopped tomatoes
 - 2 tablespoons tamarind paste

@@ -18,10 +18,10 @@ Classic British Indian Restaurant (B.I.R.) curry powder used for most classic cu
 ### Ground spices
 - 3 tbsp ground cumin
 - 3 tbsp ground coriander
-- 4 tbsp curry powder
+- 4 tbsp [Curry Powder](curry-powder.md)
 - 3 tbsp paprika
 - 3 tbsp ground turmeric
-- 1 tbsp garam masala
+- 1 tbsp [Garam Masala](garam-masala.md)
 
 ## Method
 

@@ -22,7 +22,7 @@ A versatile, silky tomato sauce made from slowly reduced fresh tomatoes, aromati
 - 1 pinch sugar
 - 6 peppercorns (crushed)
 - 1 pinch salt
-- 1 Bouquet garni (with extra thyme sprigs)
+- 1 [Bouquet Garni](../../base-ingredients/herbs/bouquet-garni.md) (with extra thyme sprigs)
 
 ## Method
 1. First peel the tomatoes: cut a cross on the top and cut out the core, then immerse the tomatoes in a bowl of boiling water for 10-20 seconds until the skin starts to split. 

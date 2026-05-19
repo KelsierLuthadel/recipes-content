@@ -19,7 +19,7 @@ A delicate, aromatic poaching liquid balancing vegetable sweetness with wine aci
 - 2 leeks (white part only, chopped into large rounds)
 - 2 carrots (peeled and sliced into large rounds)
 - 2 onions (roughly chopped)
-- 1 bouquet garni
+- 1 [Bouquet Garni](../../base-ingredients/herbs/bouquet-garni.md)
 - 10 black peppercorns
 
 ### Liquid acid

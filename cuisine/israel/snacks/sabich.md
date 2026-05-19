@@ -23,7 +23,7 @@ Aubergine slices salt, drain 30 min, pat dry, fry crispy in olive oil. Eggs hard
 - 4 eggs (large, hard-boiled, peeled)
 
 ### Hummus
-- 200 g hummus (homemade or shop-bought)
+- 200 g [Hummus](../side-dishes/hummus.md) (homemade or shop-bought)
 
 ### Tahini sauce
 - 80 g tahini

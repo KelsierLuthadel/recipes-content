@@ -27,7 +27,7 @@ Trinidadian comfort food that brings together the East Indian and Afro-Caribbean
 - 1 Scotch bonnet (whole, pierced)
 - ¾ tablespoon anchar masala
 - ¾ tablespoon ground roasted geera (cumin)
-- 2 tablespoons curry powder
+- 2 tablespoons [Curry Powder](../indian/Spice-Mixes/curry-powder.md)
 - 480 ml water
 - 2 tablespoons chopped cilantro
 

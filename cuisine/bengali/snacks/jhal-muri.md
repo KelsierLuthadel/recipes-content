@@ -31,7 +31,7 @@ Jhal muri (literally "spicy puffed rice") is the most democratic snack in Bengal
 
 ### Seasoning
 - ½ tsp black salt (kala namak)
-- ½ tsp chaat masala
+- ½ tsp [Chaat Masala](../../indian/Spice-Mixes/chaat-masala.md)
 - ¼ tsp roasted cumin powder
 - ½ lime (juiced, plus extra wedges to serve)
 

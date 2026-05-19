@@ -41,7 +41,7 @@ Kosha mangsho takes its name from the verb kosha, which in Bengali means to slow
 - 2 potatoes (medium), peeled and halved (optional but traditional)
 - 1 tsp sugar
 - 500 ml warm water
-- 1 tsp garam masala
+- 1 tsp [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
 - Salt to taste
 - 1 tsp ghee, to finish
 

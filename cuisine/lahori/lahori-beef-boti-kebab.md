@@ -26,7 +26,7 @@ Beef tenderloin or fillet is cut into 3 cm cubes and marinated in two stages. A 
 ### Second marinade
 - 200 g natural yogurt (thick; strained if loose)
 - 1 tablespoon Kashmiri chilli powder
-- 1 teaspoon garam masala
+- 1 teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - ½ teaspoon turmeric

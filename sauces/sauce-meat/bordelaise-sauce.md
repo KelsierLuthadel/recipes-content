@@ -20,7 +20,7 @@ A refined wine sauce featuring luxurious beef marrow and gentle pepper spice. Th
 
 ### Stock & marrow
 - 300 ml Veal stock
-- 1 Bouquet garni
+- 1 [Bouquet Garni](../../base-ingredients/herbs/bouquet-garni.md)
 - 200 grams beef marrow (soaked in ice water for 4 hours)
 
 ### Finishing

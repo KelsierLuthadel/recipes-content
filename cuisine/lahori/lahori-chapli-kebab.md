@@ -30,7 +30,7 @@ Minced beef is mixed with crushed coriander seed, anardana (pomegranate seed) fo
 - ½ teaspoon ground black pepper
 - 1 teaspoon Kashmiri chilli powder
 - 1 teaspoon salt (to taste)
-- ¼ teaspoon garam masala
+- ¼ teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
 
 ### To cook
 - 4 tablespoons beef dripping (or vegetable oil), for shallow-frying

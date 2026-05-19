@@ -28,7 +28,7 @@ A flavorful methi chicken tikka combining fresh fenugreek with aromatic spices a
 - 5 tbsp finely chopped coriander (cilantro) leaves
 - 1 tbsp green chilli paste
 - 1 tbsp red chilli powder
-- 1 tbsp garam masala
+- 1 tbsp [Garam Masala](../../Spice-Mixes/garam-masala.md)
 - 1 tbsp gram (chickpea) flour
 - 3 tbsp cream cheese
 - 1 tbsp rapeseed (canola) oil

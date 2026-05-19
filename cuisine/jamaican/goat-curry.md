@@ -40,7 +40,7 @@ A deep, brick-yellow gravy stained with turmeric and allspice (called pimento in
 
 ### To serve
 - Rice and peas (see [cuisine/jamaican/side-dishes/rice-and-peas.md](side-dishes/rice-and-peas.md))
-- Fried plantains
+- [Fried Plantains](side-dishes/fried-plantains.md)
 - Lime wedges
 - Cold Red Stripe (or similar)
 

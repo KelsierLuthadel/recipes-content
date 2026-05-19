@@ -23,7 +23,7 @@ An elegant, silky emulsion balancing sharp tarragon with creamy, buttery richnes
 
 ### Emulsion
 - 4 egg yolks
-- 250 grams Clarified butter (cooled to tepid)
+- 250 grams [Clarified Butter (Beurre Clarifié)](../../base-ingredients/baking/clarified-butter.md) (cooled to tepid)
 
 ### Finishing
 - 2 tablespoons parsley

@@ -37,7 +37,7 @@ A rich, ghee-laden chicken handi cooked in the traditional style, featuring tend
 
 ### Finishers
 - 1 tsp dried fenugreek leaves (kasoori methi)
-- 1 tsp garam masala
+- 1 tsp [Garam Masala](../../Spice-Mixes/garam-masala.md)
 - Salt, to taste
 - Bunch coriander (cilantro), chopped
 - 5 cm (2 in) piece ginger, peeled and julienned

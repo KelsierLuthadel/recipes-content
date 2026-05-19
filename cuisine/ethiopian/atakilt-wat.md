@@ -19,7 +19,7 @@ Onions are softened in oil with turmeric. Garlic, ginger and a small amount of b
 - 1 teaspoon ground turmeric
 - 4 garlic cloves (crushed)
 - 2 cm fresh ginger (grated)
-- 1 teaspoon berbere (optional, for heat)
+- 1 teaspoon [Berbere](../../base-ingredients/spices/berbere.md) (optional, for heat)
 - 3 carrots (medium, cut into 1 cm batons)
 - 3 potatoes (medium, peeled and cut into 2 cm chunks)
 - ½ medium green cabbage (about 600 g; sliced 1 cm thick)

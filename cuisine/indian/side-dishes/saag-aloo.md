@@ -25,7 +25,7 @@ Potato cubes are par-boiled separately so the dish comes together quickly in the
 - 1 teaspoon ground coriander
 - ½ teaspoon Kashmiri chilli powder
 - 1 teaspoon salt (to taste)
-- ½ teaspoon garam masala
+- ½ teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
 - ½ lemon (juice)
 
 ### To serve

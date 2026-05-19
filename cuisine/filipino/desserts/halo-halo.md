@@ -23,7 +23,7 @@ Halo-halo is an assembly, not a cooking project. Each tall glass gets a spoonful
 - 2 tablespoons sweetened saba banana slices
 - 2 tablespoons sago pearls (cooked from dry; see below)
 - 2 tablespoons macapuno (sweetened young coconut strings)
-- A small piece of leche flan (about 50 g)
+- A small piece of [Leche Flan](leche-flan.md) (about 50 g)
 
 ### Top
 - 2 cups shaved ice (very finely shaved - a snow texture)

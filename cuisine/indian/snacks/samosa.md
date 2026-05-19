@@ -31,7 +31,7 @@ A stiff oil-rich plain-flour dough (maida) rolls thin and crisps in the fryer wi
 - 2 green chillies (finely chopped)
 - 1 teaspoon coriander seeds (lightly crushed)
 - 1 teaspoon ground cumin
-- 1 teaspoon garam masala
+- 1 teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
 - ½ teaspoon ground turmeric
 - 1 ½ teaspoons amchur (dried mango powder)
 - ½ teaspoon Kashmiri chilli powder

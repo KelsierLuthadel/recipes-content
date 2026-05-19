@@ -25,7 +25,7 @@ Floury potatoes boil in their skins, then mash dry. A spice paste of green chill
 - 1 tablespoon fresh mint (chopped) or 1 teaspoon dried mint
 - 1 teaspoon cumin seeds (toasted, lightly crushed)
 - ½ teaspoon Kashmiri chilli powder
-- 1 teaspoon garam masala
+- 1 teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
 - 1 teaspoon amchur (dried mango powder)
 - ½ teaspoon black pepper
 - 1 ¼ teaspoons salt
@@ -35,11 +35,11 @@ Floury potatoes boil in their skins, then mash dry. A spice paste of green chill
 
 ### To serve (chaat style)
 - 4 tablespoons thick yoghurt (whisked with a pinch of sugar and salt)
-- 3 tablespoons tamarind chutney
+- 3 tablespoons [Tamarind Chutney](../sauces-pickles/tamarind-chutney.md)
 - 3 tablespoons mint-coriander chutney
 - 1 red onion (small, finely chopped)
 - 2 tablespoons pomegranate seeds (optional)
-- 1 teaspoon chaat masala
+- 1 teaspoon [Chaat Masala](../Spice-Mixes/chaat-masala.md)
 - A small handful sev (crisp chickpea noodles; optional)
 
 ## Method

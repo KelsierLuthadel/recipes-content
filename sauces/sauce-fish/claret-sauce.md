@@ -23,7 +23,7 @@ A deeply coloured, wine-rich sauce combining red wine, dual stocks, and mushroom
 ### Aromatics & vegetables
 - 50 grams shallots (finely sliced)
 - 60 grams button mushrooms (finely sliced)
-- 1 Bouquet garni
+- 1 [Bouquet Garni](../../base-ingredients/herbs/bouquet-garni.md)
 
 ### Finishing
 - 50 ml double cream

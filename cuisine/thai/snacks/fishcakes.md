@@ -27,7 +27,7 @@ Thai fishcakes (often called ‘tod mun pla’ on menus) are known for their spo
 - 8 green (string) beans, thinly sliced
 
 ### Seasoning
-- 3-4 tbsp Thai red curry paste
+- 3-4 tbsp [Thai Red Curry Paste](../pastes/thai-red-curry-paste.md)
 - 1 tbsp Thai fish sauce (gluten-free brands are available)
 - 1 tbsp lime juice
 

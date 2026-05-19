@@ -20,7 +20,7 @@ A grill-cooked version of the traditional tandoor naan: large, light and slightl
 - 1 tablespoon baking powder
 - 1 tablespoon granulated sugar
 - 2 tablespoons Greek yoghurt
-- 1 teaspoon aromatic salt
+- 1 teaspoon [Aromatic Salt (Two Versions)](../../../base-ingredients/spices/aromatic-salt.md)
 - 2 teaspoons sesame seeds
 - ½ teaspoon wild onion seed (kalonji / nigella)
 - Lukewarm water (as needed)

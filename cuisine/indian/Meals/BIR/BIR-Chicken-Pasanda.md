@@ -35,7 +35,7 @@ British-Indian Pasanda is a mild, creamy curry based on almond and coconut richn
 
 ### Finishers
 - 100 ml (scant ½ cup) single (light) cream
-- 1 tsp garam masala
+- 1 tsp [Garam Masala](../../Spice-Mixes/garam-masala.md)
 
 ## Method
 

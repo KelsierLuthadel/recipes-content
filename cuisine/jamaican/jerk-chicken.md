@@ -40,7 +40,7 @@ A wet jerk paste: scotch bonnet chillies, garlic, ginger, spring onions, thyme, 
 - Or: 4 tablespoons whole allspice berries scattered on the coals
 
 ### To serve
-- Rice and peas (Jamaican rice with kidney beans + coconut)
+- [Rice and Peas](side-dishes/rice-and-peas.md) (Jamaican rice with kidney beans + coconut)
 - Lime wedges
 - Sliced cucumber
 - Hot sauce (if you want more heat)

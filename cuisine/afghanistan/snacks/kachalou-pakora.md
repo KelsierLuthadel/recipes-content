@@ -44,7 +44,7 @@ A batter is made from chickpea flour (besan), rice flour for crispness, water, s
 - 2 tablespoons Greek yogurt (optional, for a creamier chutney)
 
 ### To finish
-- 1 teaspoon chaat masala (sold at Indian shops)
+- 1 teaspoon [Chaat Masala](../../indian/Spice-Mixes/chaat-masala.md) (sold at Indian shops)
 - Lime wedges
 
 ## Method

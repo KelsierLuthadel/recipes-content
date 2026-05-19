@@ -42,7 +42,7 @@ Thinly sliced beef marinates briefly in soy, garlic, ginger and a touch of cornf
 ### To serve
 - 3 spring onions (sliced on the diagonal)
 - A small bunch of coriander (chopped)
-- Steamed rice (or tingmo, Tibetan steamed buns)
+- [Steamed Rice](../chinese/side-dishes/steamed-rice.md) (or tingmo, Tibetan steamed buns)
 
 ## Method
 

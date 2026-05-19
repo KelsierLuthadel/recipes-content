@@ -25,7 +25,7 @@ Fine bulgur (#1 grade) soaks in hot water until soft and fluffy. Lamb or beef mi
 - 1 small handful coriander leaves (chopped fine, about 25 g)
 - 4 spring onions (finely chopped)
 - 1 green chilli (deseeded, finely chopped; optional)
-- 1 ½ teaspoons baharat (Iraqi seven-spice mix)
+- 1 ½ teaspoons [Baharat](../../../base-ingredients/spices/baharat.md) (Iraqi seven-spice mix)
 - 1 teaspoon ground cumin
 - ½ teaspoon ground coriander
 - ¼ teaspoon ground cinnamon

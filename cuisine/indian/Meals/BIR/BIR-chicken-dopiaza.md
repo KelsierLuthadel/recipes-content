@@ -25,7 +25,7 @@ A vibrant do-piaza curry based on layered onion textures and warming spices. Thi
 ### Onions and aromatics
 - 1 onion (small), quartered and divided into petals
 - 3 tbsp garlic and ginger paste
-- 2 tbsp mixed powder
+- 2 tbsp [Mixed Powder](../../Spice-Mixes/mixed-powder.md)
 - 1 tsp ground cumin
 - 1-2 tsp mild (or hot chilli powder), to taste
 - 125 ml (½ cup) tomato purée
@@ -40,7 +40,7 @@ A vibrant do-piaza curry based on layered onion textures and warming spices. Thi
 - 7 tbsp onion paste made with yoghurt
 - 1 tsp dried fenugreek leaves (kasoori methi)
 - Salt, to taste
-- 1 tsp garam masala
+- 1 tsp [Garam Masala](../../Spice-Mixes/garam-masala.md)
 - Small bunch coriander (cilantro), chopped
 - 2 handfuls fried onions
 

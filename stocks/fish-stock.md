@@ -30,7 +30,7 @@ Fish stock (fumet de poisson) is fundamentally different from meat stocks in tec
 - 2 ½ litres cold water
 
 ### Aromatics & Seasoning
-- 1 Bouquet garni
+- 1 [Bouquet Garni](../base-ingredients/herbs/bouquet-garni.md)
 - 2 slices fresh lemon (with peel)
 - 8 white peppercorns (crushed and tied in muslin)
 

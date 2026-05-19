@@ -19,7 +19,7 @@ Minced beef (or chicken) browns with diced onion, garlic and Saudi spice mix (ba
 - 2 tablespoons sunflower oil
 - 1 onion (medium, finely diced)
 - 4 garlic cloves (crushed)
-- 1 ½ teaspoons baharat (Saudi seven-spice - sold at Middle Eastern shops)
+- 1 ½ teaspoons [Baharat](../../../base-ingredients/spices/baharat.md) (Saudi seven-spice)
 - 1 teaspoon ground allspice
 - ½ teaspoon ground cinnamon
 - 1 dried black lime (loomi, crushed; optional, traditional)

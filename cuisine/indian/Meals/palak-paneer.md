@@ -34,13 +34,13 @@ Spinach is blanched for one minute then plunged into iced water (a step that loc
 - 1 teaspoon ground coriander
 - 1 teaspoon Kashmiri chilli powder
 - ½ teaspoon turmeric
-- 1 teaspoon garam masala
+- 1 teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
 - 1 teaspoon salt (to taste)
 
 ### To finish
 - 80 ml double cream
 - 1 teaspoon kasuri methi (crushed between palms)
-- ½ teaspoon garam masala
+- ½ teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
 - A knob of butter
 
 ### To serve

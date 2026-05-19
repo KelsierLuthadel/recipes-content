@@ -24,7 +24,7 @@ Vegetable stock (fond de légumes) is the cornerstone of vegetarian cooking and 
 - 2 cloves garlic (unpeeled, lightly crushed)
 
 ### Aromatics & Liquid
-- 1 Bouquet garni
+- 1 [Bouquet Garni](../base-ingredients/herbs/bouquet-garni.md)
 - 250 millilitres dry white wine
 - 2 litres cold water
 

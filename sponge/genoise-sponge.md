@@ -20,7 +20,7 @@ Génoise (Génoise nature) is the foundational French sponge cake, distinguished
 - 250 grams cake flour (or soft flour, sifted)
 
 ### Fat
-- 50 grams clarified butter (melted and cooled to room temperature)
+- 50 grams [Clarified Butter (Beurre Clarifié)](../base-ingredients/baking/clarified-butter.md) (melted and cooled to room temperature)
 - 30 grams unsalted butter (for greasing moulds)
 - 1 pinch flour (for coating greased moulds)
 

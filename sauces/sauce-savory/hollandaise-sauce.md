@@ -22,7 +22,7 @@ A silky classic French mother sauce showcasing the art of emulsification. Egg yo
 - 4 egg yolks
 
 ### Emulsion
-- 250 grams Clarified butter (cooled to tepid)
+- 250 grams [Clarified Butter (Beurre Clarifié)](../../base-ingredients/baking/clarified-butter.md) (cooled to tepid)
 - salt
 - ½ lemon (optional, juice)
 

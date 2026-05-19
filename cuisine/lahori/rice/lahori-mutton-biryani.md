@@ -19,7 +19,7 @@ Mutton is marinated overnight in yogurt with browned onion, ginger-garlic, Kashm
 - 250 g natural yogurt (thick)
 - 2 tablespoons ginger-garlic paste
 - 2 tablespoons Kashmiri chilli powder
-- 1 tablespoon garam masala
+- 1 tablespoon [Garam Masala](../../indian/Spice-Mixes/garam-masala.md)
 - 1 teaspoon ground turmeric
 - 1 teaspoon ground coriander
 - 1 teaspoon black pepper

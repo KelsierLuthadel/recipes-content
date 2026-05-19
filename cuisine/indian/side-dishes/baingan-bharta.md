@@ -24,7 +24,7 @@ A whole aubergine is charred directly over a gas flame until the skin is blacken
 - 1 teaspoon Kashmiri chilli powder
 - 1 teaspoon ground coriander
 - ½ teaspoon turmeric
-- ½ teaspoon garam masala
+- ½ teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
 - 1 teaspoon salt (to taste)
 - A handful of coriander (chopped, plus extra to serve)
 

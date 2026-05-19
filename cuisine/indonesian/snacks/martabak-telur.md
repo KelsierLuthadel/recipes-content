@@ -26,7 +26,7 @@ A simple flour-water-oil dough rests for 1 hour (gluten relaxes; will roll paper
 - 4 garlic cloves (minced)
 - 20 g fresh ginger (minced)
 - 300 g beef mince
-- 2 teaspoons curry powder (Indonesian or generic)
+- 2 teaspoons [Curry Powder](../../indian/Spice-Mixes/curry-powder.md) (Indonesian or generic)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - 1 teaspoon salt

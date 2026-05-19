@@ -23,7 +23,7 @@ Mutton on the bone marinates for 2 hours in yogurt, ginger-garlic paste, ground 
 - 1 teaspoon ground turmeric
 - 1 teaspoon ground coriander
 - 1 teaspoon ground cumin
-- 1 ½ teaspoons garam masala
+- 1 ½ teaspoons [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
 - 1 tablespoon fresh mint (chopped)
 - 2 tablespoons fresh coriander (chopped)
 - 2 teaspoons salt

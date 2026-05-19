@@ -21,7 +21,7 @@ All-butter puff pastry rolls thin; cuts into 4 long strips. Merguez sausages cut
 - 1 teaspoon ground cumin (optional sprinkle)
 
 ### To serve
-- 2 tablespoons harissa
+- 2 tablespoons [Harissa](../../../base-ingredients/sauces/harissa.md)
 - 2 tablespoons clear honey (warmed briefly to thin)
 - 200 g yogurt (whisked with 1 tablespoon lemon juice and a pinch of salt)
 

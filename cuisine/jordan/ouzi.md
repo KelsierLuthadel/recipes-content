@@ -19,7 +19,7 @@ Lamb mince is fried with onion, garlic, baharat, cinnamon, allspice and pine nut
 - 3 tablespoons ghee (or olive oil)
 - 1 onion (large, finely chopped)
 - 4 garlic cloves (crushed)
-- 2 tablespoons baharat
+- 2 tablespoons [Baharat](../../base-ingredients/spices/baharat.md)
 - 1 teaspoon ground allspice
 - ½ teaspoon ground cinnamon
 - ½ teaspoon ground black pepper

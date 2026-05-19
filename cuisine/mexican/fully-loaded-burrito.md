@@ -23,7 +23,7 @@ The fully loaded burrito is where all of your hard work and efforts come togethe
 - 1 portion cooked pork, beef, chicken, or additional beans as desired
 
 ### Fillings & Toppings
-- 1 portion spiced rice (cooked)
+- 1 portion [Spiced Rice](side-dishes/spiced-rice.md) (cooked)
 - 1 portion fresh tomato salsa
 - 1 handful grated cheese (Cheddar, Monterey Jack, mozzarella, or a mix)
 - 1 tablespoon sour cream

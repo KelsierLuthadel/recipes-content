@@ -26,7 +26,7 @@ Elegant individual flans featuring fresh shellfish, mussels, scallops, and lango
 ### Flavouring
 - 75 ml dry white wine
 - 1 shallot (finely chopped)
-- 1 tbsp curry powder
+- 1 tbsp [Curry Powder](../../indian/Spice-Mixes/curry-powder.md)
 
 ### Custard
 - 75 ml double cream

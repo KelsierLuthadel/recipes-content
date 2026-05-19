@@ -23,7 +23,7 @@ Spicy, thin jungle curry from Chiang Mai, traditionally made with jungle ingredi
 - 2 tbsp rapeseed (canola), peanut or coconut oil
 
 ### Paste
-- 6 tbsp Thai red curry paste
+- 6 tbsp [Thai Red Curry Paste](../pastes/thai-red-curry-paste.md)
 
 ### Liquid
 - 500 ml (2 cups) Thai chicken stock or water

@@ -46,7 +46,7 @@ Lamb and chicken poach slowly in a saffron-tomato broth with chunks of root vege
 - 600 ml just-boiled water
 
 ### To serve
-- 4 tablespoons harissa
+- 4 tablespoons [Harissa](../../base-ingredients/sauces/harissa.md)
 - Lemon wedges
 
 ## Method

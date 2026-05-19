@@ -23,7 +23,7 @@ Tandoori Chicken Tikka is restaurant-quality barbecue, sophisticated yet accessi
 - 210g (1 cup) Greek yoghurt (whisked)
 - 1 tablespoon ground cumin
 - 1 tablespoon ground coriander
-- 1 tablespoon garam masala
+- 1 tablespoon [Garam Masala](../Spice-Mixes/garam-masala.md)
 - 1 tablespoon tandoori masala powder
 - 1 teaspoon amchoor (dried mango powder)
 - 1 teaspoon ground turmeric

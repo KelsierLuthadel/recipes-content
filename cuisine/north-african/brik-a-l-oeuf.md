@@ -20,7 +20,7 @@ The filling is built in a small bowl: drained tinned tuna, finely-chopped onion,
 - A small bunch flat-leaf parsley (chopped)
 - 2 tablespoons capers (rinsed, chopped)
 - 2 tablespoons grated parmesan cheese (or aged gouda, optional)
-- 1 teaspoon harissa
+- 1 teaspoon [Harissa](../../base-ingredients/sauces/harissa.md)
 - ½ teaspoon ground cumin
 - salt
 - pepper
@@ -32,7 +32,7 @@ The filling is built in a small bowl: drained tinned tuna, finely-chopped onion,
 
 ### To serve
 - 2 lemons (cut into wedges)
-- Harissa
+- [Harissa](../../base-ingredients/sauces/harissa.md)
 - A simple salad
 
 ## Method

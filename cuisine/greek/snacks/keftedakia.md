@@ -37,7 +37,7 @@ A grated onion (juice squeezed out) folds into beef-or-pork-and-beef mince with 
 
 ### To serve
 - Lemon wedges
-- Tzatziki (or yogurt-and-lemon dip)
+- [Tzatziki](../side-dishes/tzatziki.md) (or yogurt-and-lemon dip)
 
 ## Method
 

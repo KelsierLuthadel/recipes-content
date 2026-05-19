@@ -34,7 +34,7 @@ This aromatic Thai-inspired soup combines tender chicken, rice noodles, and coco
 - 1 tablespoon fresh ginger (finely chopped)
 
 ### Seasonings
-- 2 tablespoons curry powder
+- 2 tablespoons [Curry Powder](../../indian/Spice-Mixes/curry-powder.md)
 - 750 ml chicken stock
 - 800 ml coconut milk
 - 20 grams basil (torn)

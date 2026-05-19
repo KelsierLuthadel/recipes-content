@@ -33,7 +33,7 @@ Mince combines with grated onion, very-finely chopped parsley, garlic, allspice,
 ### To serve
 - 4 pita (large, or saj breads, warmed)
 - Garlic toum (lebanese garlic emulsion)
-- Hummus
+- [Hummus](../israel/side-dishes/hummus.md)
 - Pickled turnips (pink)
 - Sliced raw onion
 - Pinch of sumac

@@ -26,7 +26,7 @@ In many Caribbean stew dishes there is an initial step of burning sugar in oil w
 ### Curry
 - 2 tbsp vegetable oil
 - 55g brown sugar
-- 3 tsp curry powder
+- 3 tsp [Curry Powder](../indian/Spice-Mixes/curry-powder.md)
 - 600ml water (or stock)
 - 1 bay leaf
 - 2 thyme sprigs

@@ -18,7 +18,7 @@ A bone-in lamb shoulder rubs with baharat, dried lime, garlic and yogurt; sits o
 - 2 kg lamb shoulder (bone-in)
 - 4 tablespoons plain yogurt
 - 8 garlic cloves (crushed)
-- 2 tablespoons baharat (or 1 tsp each cumin, coriander, paprika, cinnamon, allspice + ½ tsp cardamom)
+- 2 tablespoons [Baharat](../../base-ingredients/spices/baharat.md) (or 1 tsp each cumin, coriander, paprika, cinnamon, allspice + ½ tsp cardamom)
 - 1 tablespoon ground turmeric
 - 2 dried limes (loomi; pierced)
 - 2 tablespoons olive oil
@@ -49,7 +49,7 @@ A bone-in lamb shoulder rubs with baharat, dried lime, garlic and yogurt; sits o
 - 2 tablespoons tomato paste
 - 1 garlic clove (crushed)
 - 200 ml lamb cooking liquid
-- 1 teaspoon baharat
+- 1 teaspoon [Baharat](../../base-ingredients/spices/baharat.md)
 - 1 tablespoon lemon juice
 
 ## Method

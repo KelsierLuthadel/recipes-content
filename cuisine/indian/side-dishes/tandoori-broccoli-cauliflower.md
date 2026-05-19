@@ -22,7 +22,7 @@ These are grilled vegetables with spiced coating, crispy outside, tender inside.
 - 2 tablespoons plain yoghurt
 - 1 tablespoon rapeseed oil
 - 1 lemon (juice)
-- 1 tablespoon garam masala
+- 1 tablespoon [Garam Masala](../Spice-Mixes/garam-masala.md)
 - 1 teaspoon chilli powder
 - Pinch of ground turmeric
 - Salt to taste

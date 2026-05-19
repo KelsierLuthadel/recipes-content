@@ -16,7 +16,7 @@ Chicken pieces simmer with onion, thyme, curry powder, salt and bay until tender
 
 ### Chicken
 - 1.4 kg chicken pieces (drumsticks, thighs, breasts cut in half - bone-in, skin-on)
-- 2 tablespoons curry powder (Nigerian-style if possible)
+- 2 tablespoons [Curry Powder](../indian/Spice-Mixes/curry-powder.md) (Nigerian-style if possible)
 - 2 teaspoons dried thyme
 - 2 stock cubes (Maggi or knorr)
 - 1 onion (large, chopped)
@@ -37,7 +37,7 @@ Chicken pieces simmer with onion, thyme, curry powder, salt and bay until tender
 - 100 ml vegetable oil (palm oil for a more traditional flavour, vegetable oil for a lighter version)
 - 1 onion (large, sliced)
 - 4 tablespoons tomato paste
-- 1 tablespoon curry powder
+- 1 tablespoon [Curry Powder](../indian/Spice-Mixes/curry-powder.md)
 - 1 tablespoon dried thyme
 - 4 bay leaves
 - 1 teaspoon dried oregano

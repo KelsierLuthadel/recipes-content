@@ -30,7 +30,7 @@ Spinach wilts and squeezes dry; mixes with crumbled feta, ricotta, eggs, dill an
 - pepper
 
 ### Pastry
-- 270 g filo pastry (10-12 sheets)
+- 270 g [Filo Pastry](../../baking/pastry/filo-pastry.md) (10-12 sheets)
 - 100 g unsalted butter (melted)
 - 2 tablespoons olive oil
 

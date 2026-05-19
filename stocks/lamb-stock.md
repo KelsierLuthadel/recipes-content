@@ -29,7 +29,7 @@ Lamb stock (fond d'agneau) occupies a distinct position between delicate white s
 ### Seasonings & Aromatics
 - 4 tomatoes (medium, peeled, de-seeded, and coarsely chopped, or 100 grams canned tomatoes)
 - 2 cloves garlic (unpeeled)
-- 1 Bouquet garni
+- 1 [Bouquet Garni](../base-ingredients/herbs/bouquet-garni.md)
 - 2 sprigs fresh tarragon (essential, do not substitute)
 - 6 white peppercorns (crushed and tied in muslin)
 

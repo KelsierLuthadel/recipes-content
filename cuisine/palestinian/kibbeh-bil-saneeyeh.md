@@ -19,7 +19,7 @@ Fine bulgur (#1 grade, the smallest) soaks for 20 minutes; squeezed dry. The kib
 - 250 ml cold water (for soaking)
 - 400 g lean lamb (or beef, leg meat, twice-minced from the butcher OR processed at home)
 - 1 onion (small, rough chunks, for the blender)
-- 1 ½ teaspoons baharat (Palestinian seven-spice)
+- 1 ½ teaspoons [Baharat](../../base-ingredients/spices/baharat.md) (Palestinian seven-spice)
 - 1 teaspoon ground allspice
 - ½ teaspoon ground cinnamon
 - 1 ½ teaspoons salt
@@ -30,7 +30,7 @@ Fine bulgur (#1 grade, the smallest) soaks for 20 minutes; squeezed dry. The kib
 - 3 tablespoons olive oil
 - 1 onion (large, finely diced)
 - 400 g fattier lamb mince (around 20% fat - keeps the filling juicy)
-- 1 ½ teaspoons baharat
+- 1 ½ teaspoons [Baharat](../../base-ingredients/spices/baharat.md)
 - 1 teaspoon ground allspice
 - ½ teaspoon ground cinnamon
 - 1 teaspoon salt

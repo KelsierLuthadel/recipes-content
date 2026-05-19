@@ -22,7 +22,7 @@ Lamb mince (with enough fat for tenderness; 20%) combines with grated onion (squ
 - 2 green chillies (very finely chopped)
 - 3 tablespoons fresh coriander (chopped fine)
 - 2 tablespoons fresh mint (chopped fine)
-- 1 ½ teaspoons garam masala
+- 1 ½ teaspoons [Garam Masala](../../indian/Spice-Mixes/garam-masala.md)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - ½ teaspoon Kashmiri red chilli powder
@@ -36,7 +36,7 @@ Lamb mince (with enough fat for tenderness; 20%) combines with grated onion (squ
 - 1 small bunch fresh coriander (leaves only)
 - 6 tablespoons mint-coriander chutney (blitz 1 bunch coriander + 1 bunch mint + 2 green chillies + 1 garlic + juice of 1 lime + 1 teaspoon salt + 2 tablespoons yogurt)
 - 2 lemons (cut into wedges)
-- 1 teaspoon chaat masala (optional)
+- 1 teaspoon [Chaat Masala](../../indian/Spice-Mixes/chaat-masala.md) (optional)
 
 ### Equipment
 - 8 metal skewers (or wooden skewers soaked in water 30 minutes)

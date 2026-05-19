@@ -29,7 +29,7 @@ Dough: flour, butter, sugar, salt, baking powder, egg, milk, mixes to a smooth f
 - 1 onion (small, finely diced)
 - 1 fresh red chilli (deseeded, minced)
 - 3 garlic cloves (minced)
-- 1 teaspoon curry powder (Nigerian or generic)
+- 1 teaspoon [Curry Powder](../../indian/Spice-Mixes/curry-powder.md) (Nigerian or generic)
 - 1 teaspoon dried thyme
 - ½ teaspoon salt
 - ½ teaspoon ground black pepper

@@ -33,7 +33,7 @@ Aubergines are fried first to soften and develop colour. Cauliflower is fried to
 
 ### Rice
 - 500 g basmati rice (rinsed, soaked 30 min)
-- 2 tablespoons baharat (or 1 tsp each cumin, coriander, cinnamon, allspice + ½ tsp cardamom)
+- 2 tablespoons [Baharat](../../base-ingredients/spices/baharat.md) (or 1 tsp each cumin, coriander, cinnamon, allspice + ½ tsp cardamom)
 - 1 teaspoon ground turmeric
 
 ### Topping

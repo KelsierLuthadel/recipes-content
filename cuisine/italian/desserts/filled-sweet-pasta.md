@@ -24,7 +24,7 @@
 - 250 grams ricotta cheese
 - 1 orange (finely chopped, zest)
 - 10 almonds (finely chopped)
-- 40 grams candied fruit (finely chopped)
+- 40 grams [Candied Fruit Peel](../../../petit-four/candied-fruit.md) (finely chopped)
 
 ## Overview
 A festive Neapolitan specialty of delicate fried pasta half-moons filled with sweet ricotta, candied fruit, and almonds. These charming little pastries epitomize Italian Easter celebrations and can be served either as an elegant petit four or a light dessert, dusted generously with powdered sugar for a snow-like finish.

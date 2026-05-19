@@ -28,7 +28,7 @@ Dried red beans soak overnight. Bacon and chorizo render in a wide pot; aromatic
 - 1 ½ teaspoons salt (to taste)
 - ½ teaspoon ground black pepper
 - 2 ½ litres hot stock (or water, top up as needed)
-- 4 tablespoons hogao (see recipe)
+- 4 tablespoons [Hogao](hogao.md)
 - 1 lime (juice)
 - 3 tablespoons fresh coriander (chopped, to finish)
 

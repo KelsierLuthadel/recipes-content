@@ -30,7 +30,7 @@ A pizza built on layered heat: nduja, roquito peppers, fresh green chilli, Calab
 
 ### Topping (Post-Bake)
 - 20 grams watercress (stalks trimmed)
-- 1 teaspoon fresh pesto
+- 1 teaspoon fresh [Pesto](../pesto.md)
 - 50 grams fior di latte mozzarella (or buffalo mozzarella)
 
 ## Method

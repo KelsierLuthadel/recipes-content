@@ -27,7 +27,7 @@ Cumin seeds bloom in hot oil; chopped onion is fried until gold; ginger-garlic p
 - 1 teaspoon ground coriander
 - 1 teaspoon Kashmiri chilli powder
 - 1 teaspoon salt (to taste)
-- 1 teaspoon garam masala
+- 1 teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
 - 3 tablespoons fresh coriander (chopped)
 
 ## Method

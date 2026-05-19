@@ -19,7 +19,7 @@ Onion is softened in oil; tomato paste is fried until darker and aromatic; rice 
 - 1 onion (large, finely chopped)
 - 4 garlic cloves (crushed)
 - 4 tablespoons tomato paste
-- 1 ½ teaspoons baharat
+- 1 ½ teaspoons [Baharat](../../base-ingredients/spices/baharat.md)
 - 1 teaspoon ground cumin
 - ½ teaspoon ground cinnamon
 - ½ teaspoon turmeric

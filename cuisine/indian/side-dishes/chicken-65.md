@@ -20,7 +20,7 @@ Chicken thighs cube small; marinate for 1 hour in yogurt, ginger-garlic paste, K
 - 2 tablespoons ginger-garlic paste
 - 2 tablespoons Kashmiri chilli powder
 - 1 teaspoon Kashmiri red food colour (optional - for the signature deep red)
-- 1 teaspoon garam masala
+- 1 teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
 - 1 teaspoon ground turmeric
 - 1 teaspoon salt
 - 1 tablespoon lemon juice

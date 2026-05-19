@@ -14,7 +14,7 @@ A simple spiced yoghurt marinade used for tandoori-style dishes. Combines yoghur
 ## Ingredients
 - 500 ml yoghurt
 - Pinch of chilli powder
-- Pinch of garam masala
+- Pinch of [Garam Masala](../Spice-Mixes/garam-masala.md)
 - Pinch of coriander powder
 - 1 tsp salt
 - 1 heaped tbsp Pataks tandoori paste

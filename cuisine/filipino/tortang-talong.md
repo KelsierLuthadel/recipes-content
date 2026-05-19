@@ -22,7 +22,7 @@ Aubergines are charred whole over flame until completely soft and the skin black
 
 ### To serve
 - Banana ketchup (or chilli sauce)
-- Steamed rice
+- [Steamed Rice](../chinese/side-dishes/steamed-rice.md)
 - Soy sauce mixed with a squeeze of calamansi (or lemon)
 
 ## Method

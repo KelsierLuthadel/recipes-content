@@ -20,7 +20,7 @@ Tsire is fundamentally different from other spice blends: it's a coating powder 
 - 50 grams unsalted roasted peanuts (finely ground)
 
 ### Spice Additions
-- 1 teaspoon ground mixed spice (cinnamon, nutmeg, cloves blend)
+- 1 teaspoon ground [Mixed Spice](mixed-spice.md) (cinnamon, nutmeg, cloves blend)
 - 1 teaspoon chilli powder
 - 1 teaspoon fine sea salt
 - ½ teaspoon ground ginger (optional)

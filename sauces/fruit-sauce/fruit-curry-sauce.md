@@ -26,7 +26,7 @@ A luxurious, mildly spiced sauce with tropical fruit sweetness balanced by warm 
 
 ### Spice & liquid
 - 2 tablespoons ground almonds
-- 40 grams curry powder
+- 40 grams [Curry Powder](../../cuisine/indian/Spice-Mixes/curry-powder.md)
 - 300 ml Veal stock
 - 200 ml coconut milk
 

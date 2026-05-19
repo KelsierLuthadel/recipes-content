@@ -33,10 +33,10 @@ Dried split fava beans soak overnight. Blitz with herbs, garlic, onion, leek, gr
 - 1 ½ litres vegetable oil for deep frying
 
 ### To serve
-- Tahina salad (see recipe)
+- [Tahina Salad](tahina-salad.md)
 - Aysh baladi (or pita)
 - Pickled vegetables
-- Salata baladi
+- [Salata Baladi](salata-baladi.md)
 
 ## Method
 

@@ -31,7 +31,7 @@ Lamb shoulder slow-cooks for 2 ½ hours until it shreds; the broth reduces hard 
 
 ### To finish
 - 1 batch hulba (whipped fenugreek - see Saltah recipe)
-- 4 tablespoons sahawiq
+- 4 tablespoons [Sahawiq](side-dishes/sahawiq.md)
 - Lahoh (or flatbread)
 
 ## Method

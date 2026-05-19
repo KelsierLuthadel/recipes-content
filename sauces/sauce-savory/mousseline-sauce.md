@@ -22,7 +22,7 @@ An ethereal refinement of classic hollandaise, where whipped cream is folded int
 - 4 egg yolks
 
 ### Emulsion & finishing
-- 250 grams Clarified butter (cooled to tepid)
+- 250 grams [Clarified Butter (Beurre Clarifié)](../../base-ingredients/baking/clarified-butter.md) (cooled to tepid)
 - 75 ml whipping cream
 - salt
 - ½ lemon (optional, juice)

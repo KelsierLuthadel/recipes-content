@@ -10,7 +10,7 @@
 ## Ingredients
 - 275 grams [meringue Francaise](../../baking/meringue/meringue-francais.md)
 - 50 grams flaked almonds (lightly toasted)
-- 400 ml sirop a sorbet
+- 400 ml [Syrup for Sorbet (Sirop à Sorbet)](../../../base-ingredients/syrup/sirop-a-sorbet.md)
 - 500 grams ripe mixed berries
 - 1 lemon (juice)
 

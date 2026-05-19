@@ -17,7 +17,7 @@ Potato is boiled, peeled and mashed. Mixed with drained tuna, harissa, capers, p
 ### Filling (for 8 bourek)
 - 400 g potatoes (peeled, cubed)
 - 2 tins (120 g each) tuna in olive oil, drained
-- 2 tablespoons harissa
+- 2 tablespoons [Harissa](../../../base-ingredients/sauces/harissa.md)
 - 2 tablespoons capers (drained, chopped)
 - 30 g flat-leaf parsley (chopped)
 - 1 teaspoon ground caraway
@@ -38,8 +38,8 @@ Potato is boiled, peeled and mashed. Mixed with drained tuna, harissa, capers, p
 
 ### To serve
 - Lemon wedges
-- Extra harissa
-- Slata mechouia (grilled-pepper salad, optional)
+- Extra [Harissa](../../../base-ingredients/sauces/harissa.md)
+- [Slata Mechouia](../slata-mechouia.md) (grilled-pepper salad, optional)
 
 ## Method
 

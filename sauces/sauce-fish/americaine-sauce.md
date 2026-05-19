@@ -31,7 +31,7 @@ A luxurious, amber-hued sauce featuring tender lobster meat and shells creating 
 
 ### Vegetable & finishing
 - 200 grams tomatoes (very ripe, peeled, de-seeded and chopped)
-- 1 Bouquet garni (with extra tarragon sprig)
+- 1 [Bouquet Garni](../../base-ingredients/herbs/bouquet-garni.md) (with extra tarragon sprig)
 - 75 ml double cream (optional)
 - 60 grams butter
 - 10 grams plain flour

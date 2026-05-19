@@ -17,7 +17,7 @@ Fried rice is fundamentally about texture contrast: individual grains coated ent
 ## Ingredients
 
 ### Rice Base
-- 400 milliliters steamed rice (cold, preferably overnight refrigerated)
+- 400 milliliters [Steamed Rice](side-dishes/steamed-rice.md) (cold, preferably overnight refrigerated)
 
 ### Proteins & Meat
 - 50 grams Parma ham (or quality cured ham)

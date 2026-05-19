@@ -24,7 +24,7 @@ Long soft frankfurter rolls (pan de hot dog) split lengthways. Frankfurters poac
 - 150 g sauerkraut (drained well)
 - 4 tablespoons mayonnaise (Chilean-style, very thick)
 - 2 tablespoons American yellow mustard (optional)
-- Optional: pebre (see recipe) or ají sauce
+- Optional: pebre (or ají sauce)
 
 ## Method
 

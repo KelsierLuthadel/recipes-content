@@ -19,7 +19,7 @@ Lamb mince mixes with grated onion, parsley, allspice, baharat, pine nuts (optio
 - 1 onion (medium, very finely grated, juices reserved)
 - 4 tablespoons fresh parsley (chopped)
 - 2 garlic cloves (crushed)
-- 1 ½ teaspoons baharat
+- 1 ½ teaspoons [Baharat](../../../base-ingredients/spices/baharat.md)
 - 1 teaspoon ground allspice
 - ½ teaspoon ground cinnamon
 - 1 teaspoon salt

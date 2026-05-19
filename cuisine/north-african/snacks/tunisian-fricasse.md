@@ -27,7 +27,7 @@ A simple yeasted dough rises for 1 hour. Divides into 8 oval-shaped pieces about
 
 ### Filling (per fricassé)
 - 1 small tin (100 g) tuna in olive oil (drained, but reserve a little oil)
-- 1 ½ teaspoons harissa (or to taste)
+- 1 ½ teaspoons [Harissa](../../../base-ingredients/sauces/harissa.md) (or to taste)
 - ½ hard-boiled egg (sliced)
 - 4-5 capers (drained, rinsed)
 - 4 green olives (small, or black olives, pitted, halved)
@@ -36,7 +36,7 @@ A simple yeasted dough rises for 1 hour. Divides into 8 oval-shaped pieces about
 
 ### Per batch of 8 - total filling
 - 4 small tins tuna
-- 4 tablespoons harissa
+- 4 tablespoons [Harissa](../../../base-ingredients/sauces/harissa.md)
 - 4 hard-boiled eggs
 - 4 tablespoons capers
 - 100 g olives

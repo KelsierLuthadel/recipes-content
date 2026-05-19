@@ -20,7 +20,7 @@ Veal shoulder or breast simmers in white stock with onion, carrot and bouquet ga
 - 1 onion (whole, studded with 4 cloves)
 - 1 carrot (split lengthways)
 - 1 leek (white part)
-- 1 bouquet garni (thyme, parsley, bay)
+- 1 [Bouquet Garni](../../base-ingredients/herbs/bouquet-garni.md) (thyme, parsley, bay)
 - ½ teaspoon white peppercorns
 - Salt
 

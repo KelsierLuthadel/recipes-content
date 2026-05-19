@@ -35,7 +35,7 @@ I’m a big fan of Thai chicken satay with peanut sauce. Although it isn’t nec
 
 ### Peanut sauce
 - 1 tbsp rapeseed (canola) oil
-- 2 tbsp Thai red curry paste
+- 2 tbsp [Thai Red Curry Paste](../pastes/thai-red-curry-paste.md)
 - 400ml (1 ¾ cups) thick coconut milk
 - 200ml (generous ¾ cup) smooth or chunky peanut butter
 - 2 tbsp Thai fish sauce* (or more to taste)

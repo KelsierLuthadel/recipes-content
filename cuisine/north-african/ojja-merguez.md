@@ -22,7 +22,7 @@ Merguez sausages are browned in a wide deep pan, lifted out and roughly cut into
 - 1 teaspoon caraway seeds
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
-- 1-2 tablespoons harissa (to taste - Tunisian harissa is fiery)
+- 1-2 tablespoons [Harissa](../../base-ingredients/sauces/harissa.md) (to taste - Tunisian harissa is fiery)
 - 1 teaspoon sweet paprika
 - 800 g tins chopped tomatoes (or 800 g passata)
 - 1 teaspoon caster sugar

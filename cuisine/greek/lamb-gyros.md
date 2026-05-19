@@ -31,7 +31,7 @@ Lamb mince blends with onion, garlic, oregano, cumin and a bit of breadcrumb int
 
 ### To serve
 - 6 pita breads (warmed)
-- Tzatziki
+- [Tzatziki](side-dishes/tzatziki.md)
 - 1 red onion (small, very finely sliced)
 - 2 tomatoes (sliced)
 - A small handful of fresh oregano (or parsley)

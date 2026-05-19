@@ -23,7 +23,7 @@ Onion fries in oil until deep gold; ginger-garlic paste joins and is fried for 1
 - 1 teaspoon ground turmeric
 - 1 teaspoon Kashmiri red chilli powder (mild)
 - ½ teaspoon ordinary chilli powder (to taste)
-- 1 teaspoon garam masala
+- 1 teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
 - ½ teaspoon black pepper
 - 4 tomatoes (medium, chopped fine - or 1 x 400 g tin chopped tomatoes)
 - 1 ½ teaspoons salt (to taste)
@@ -37,7 +37,7 @@ Onion fries in oil until deep gold; ginger-garlic paste joins and is fried for 1
 - 2 cm fresh ginger (cut into matchsticks)
 - 2 green chillies (slit lengthwise)
 - 3 tablespoons fresh coriander (chopped)
-- ½ teaspoon garam masala (extra, to finish)
+- ½ teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md) (extra, to finish)
 - 1 lemon (cut into wedges)
 
 ## Method

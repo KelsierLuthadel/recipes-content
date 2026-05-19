@@ -29,7 +29,7 @@ An aromatic curry-house classic that blends tandoori chicken with a sweet-spicy 
 - ½ green bell pepper, thinly sliced
 
 ### Curry seasoning
-- 1 ½ tsp mixed powder (or curry powder)
+- 1 ½ tsp [Mixed Powder](../../Spice-Mixes/mixed-powder.md) (or curry powder)
 - ½ tsp Kashmiri chilli powder
 - 70 ml (¼ cup) tomato purée
 - 500 ml [Curry Base Gravy](../../Base/curry-base.md)

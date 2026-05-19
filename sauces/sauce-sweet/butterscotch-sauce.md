@@ -17,7 +17,7 @@ A luxuriously rich, creamy sauce showcasing butter, vanilla, and deep caramel co
 
 ### Base
 - 400 ml single cream
-- 120 ml Sirop a sorbet (heavy)
+- 120 ml [Syrup for Sorbet (Sirop à Sorbet)](../../base-ingredients/syrup/sirop-a-sorbet.md) (heavy)
 - 75 grams caster sugar
 
 ### Flavoring & enrichment

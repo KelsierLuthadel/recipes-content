@@ -37,7 +37,7 @@ Pork shoulder is cubed and marinated overnight in a punchy mixture of épis, bit
 ### To serve
 - Pikliz (Haitian pickled slaw with Scotch bonnet)
 - Diri ak pwa (rice and red beans)
-- Fried plantains
+- [Fried Plantains](../jamaican/side-dishes/fried-plantains.md)
 - Lime wedges
 
 ## Method

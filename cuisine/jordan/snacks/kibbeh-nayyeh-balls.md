@@ -19,7 +19,7 @@ A fine-bulgur-and-lean-mince dough is blitzed smooth with onion, baharat, salt a
 - 300 ml cold water (for soaking)
 - 400 g very lean lamb (or beef, leg, trimmed of all fat; the leanness is key for the dough)
 - 1 onion (small, rough chunks)
-- 1 ½ teaspoons baharat
+- 1 ½ teaspoons [Baharat](../../../base-ingredients/spices/baharat.md)
 - 1 teaspoon ground allspice
 - 1 ½ teaspoons salt
 - ½ teaspoon black pepper
@@ -29,7 +29,7 @@ A fine-bulgur-and-lean-mince dough is blitzed smooth with onion, baharat, salt a
 - 2 tablespoons olive oil
 - 1 onion (medium, finely diced)
 - 300 g fattier lamb mince (20% fat)
-- 1 ½ teaspoons baharat
+- 1 ½ teaspoons [Baharat](../../../base-ingredients/spices/baharat.md)
 - 1 teaspoon ground allspice
 - ½ teaspoon ground cinnamon
 - 1 teaspoon salt

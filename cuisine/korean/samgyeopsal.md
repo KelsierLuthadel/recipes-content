@@ -42,7 +42,7 @@ Samgyeopsal, literally "three-layered flesh" after the visible stripes of meat a
 - 2 green chillies, sliced
 - Coarse salt mixed with a few twists of black pepper, in a small dish
 - 2 tbsp toasted sesame oil mixed with a pinch of salt, for dipping
-- Kimchi
+- [Kimchi (Cabbage)](side-dishes/kimchi.md)
 - Steamed white rice
 
 ## Method

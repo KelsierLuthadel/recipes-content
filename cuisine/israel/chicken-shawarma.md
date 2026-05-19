@@ -20,7 +20,7 @@ Chicken thighs marinate 6+ hours in baharat, turmeric, paprika, cumin, garlic, y
 - 4 tablespoons natural yogurt
 - 1 lemon (juice)
 - 6 garlic cloves (crushed)
-- 1 tablespoon ground baharat
+- 1 tablespoon ground [Baharat](../../base-ingredients/spices/baharat.md)
 - 1 tablespoon ground turmeric
 - 1 tablespoon sweet paprika
 - 1 ½ teaspoons ground cumin
@@ -31,7 +31,7 @@ Chicken thighs marinate 6+ hours in baharat, turmeric, paprika, cumin, garlic, y
 
 ### To serve
 - 4 pita breads (large, warmed; split open)
-- Hummus (see recipe)
+- [Hummus](side-dishes/hummus.md)
 - Salata (Israeli chopped salad)
 - Pickled cucumbers (dill or sour)
 - Pickled turnips (optional, pink lift)

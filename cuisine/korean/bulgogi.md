@@ -31,7 +31,7 @@ Rib-eye or sirloin sliced paper-thin sits in a marinade of soy, brown sugar, ses
 - Cooked short-grain rice
 - 1 head butter lettuce (or red-leaf lettuce, separated into whole leaves)
 - 1 cucumber (sliced)
-- Kimchi
+- [Kimchi (Cabbage)](side-dishes/kimchi.md)
 - Ssamjang (Korean dipping sauce; shop-bought is fine)
 
 ## Method

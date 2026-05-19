@@ -21,7 +21,7 @@ This is the quintessential dipping sauce for pakora and bhajis at Indian restaur
 - 200 grams (about 1 cup) plain yoghurt
 - 2 tablespoons smooth mango chutney
 - 3 tablespoons tomato ketchup
-- 1 teaspoon mint sauce (preferably commercial)
+- 1 teaspoon [Mint Sauce](../../british/side-dishes/mint-sauce.md) (preferably commercial)
 - ½ teaspoon roasted cumin seeds
 - ½ teaspoon chilli powder (or to taste)
 

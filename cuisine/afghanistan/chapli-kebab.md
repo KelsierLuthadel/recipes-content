@@ -25,7 +25,7 @@ Beef mince mixes with grated onion, chopped tomato, ginger, garlic, beaten egg, 
 - 2 tablespoons dried pomegranate seeds (anardana, coarsely ground)
 - 1 tablespoon ground cumin
 - 1 tablespoon dried chilli flakes
-- 1 teaspoon garam masala
+- 1 teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
 - 1 teaspoon ground black pepper
 - 1 ½ teaspoons salt
 - 4 tablespoons fresh coriander (chopped)

@@ -30,7 +30,7 @@ Goat meat (bone-in pieces, ideally) simmers in water with onion, garlic, bay, sa
 - 3 garlic cloves
 - 25 g fresh ginger (peeled)
 - 4 tablespoons neutral oil (or red palm oil for traditional flavour)
-- 2 teaspoons curry powder
+- 2 teaspoons [Curry Powder](../../indian/Spice-Mixes/curry-powder.md)
 - 1 teaspoon dried thyme
 - 1 teaspoon ground crayfish (optional but traditional - sold at African grocers)
 - 1 teaspoon salt

@@ -21,7 +21,7 @@ Lamb mince fries with onion, garlic, ginger and a spice mix of garam masala, cum
 - 4 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
 - 2 green chillies (finely chopped)
-- 1 ½ teaspoons garam masala
+- 1 ½ teaspoons [Garam Masala](../Spice-Mixes/garam-masala.md)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - 1 teaspoon Kashmiri chilli powder
@@ -39,7 +39,7 @@ Lamb mince fries with onion, garlic, ginger and a spice mix of garam masala, cum
 - 1 litre vegetable oil for deep frying
 
 ### To serve
-- 200 ml tamarind chutney (or mint chutney)
+- 200 ml [Tamarind Chutney](../sauces-pickles/tamarind-chutney.md) (or mint chutney)
 - Lemon wedges
 
 ## Method

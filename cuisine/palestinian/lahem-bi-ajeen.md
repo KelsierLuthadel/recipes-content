@@ -30,7 +30,7 @@ A soft yeasted bread dough rises for 1 hour. While it rises, the lamb mince is m
 - 3 tablespoons fresh flat-leaf parsley (chopped fine)
 - 1 ½ tablespoons pomegranate molasses
 - 2 tablespoons tomato paste
-- 1 ½ teaspoons baharat (Palestinian seven-spice)
+- 1 ½ teaspoons [Baharat](../../base-ingredients/spices/baharat.md) (Palestinian seven-spice)
 - ½ teaspoon ground allspice
 - ½ teaspoon ground cinnamon
 - 1 teaspoon Aleppo pepper (or ½ teaspoon chilli flakes)

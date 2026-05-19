@@ -20,7 +20,7 @@ A rich, creamy tomato-based curry with mild spice and buttery finish. A BIR-styl
 - 2 tbsp yogurt
 - 1 tbsp ginger-garlic paste
 - 1 tsp chilli powder
-- 1 tsp garam masala
+- 1 tsp [Garam Masala](../../Spice-Mixes/garam-masala.md)
 - Salt
 
 ### Base
@@ -34,7 +34,7 @@ A rich, creamy tomato-based curry with mild spice and buttery finish. A BIR-styl
 - 3 tbsp cream
 - 1 tbsp butter
 - 1 tsp sugar
-- ½ tsp garam masala
+- ½ tsp [Garam Masala](../../Spice-Mixes/garam-masala.md)
 
 ---
 

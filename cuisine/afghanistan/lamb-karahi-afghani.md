@@ -29,7 +29,7 @@ Lamb shoulder browns hard in oil; onions cook deep brown alongside. Ginger, garl
 - 600 ml hot lamb stock (or chicken stock)
 - 3 green chillies (slit lengthways)
 - 3 tablespoons fresh coriander (chopped)
-- 1 teaspoon garam masala (to finish)
+- 1 teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md) (to finish)
 
 ## Method
 

@@ -16,7 +16,7 @@ Lamb is given a fast wet marinade of crushed tomato, baharat, dried lime, garlic
 
 ### Lamb
 - 1.2 kg bone-in lamb shoulder (cut into 4-6 large chunks)
-- 2 tablespoons baharat (or 1 tsp each: ground cumin, coriander, black pepper, allspice, cinnamon)
+- 2 tablespoons [Baharat](../../base-ingredients/spices/baharat.md) (or 1 tsp each: ground cumin, coriander, black pepper, allspice, cinnamon)
 - 4 garlic cloves (crushed)
 - 1 tablespoon tomato puree
 - 2 dried black limes (loomi, pierced; whole)

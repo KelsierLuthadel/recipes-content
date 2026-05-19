@@ -18,7 +18,7 @@ Onion melts in oil; berbere and tomato bloom in; water joins. Chickpea flour is 
 - 60 ml vegetable oil
 - 5 garlic cloves (crushed)
 - 2 cm fresh ginger (grated)
-- 2 tablespoons berbere
+- 2 tablespoons [Berbere](../../base-ingredients/spices/berbere.md)
 - 2 tablespoons tomato paste
 - 600 ml hot water (or vegetable stock)
 - 100 g chickpea (gram) flour

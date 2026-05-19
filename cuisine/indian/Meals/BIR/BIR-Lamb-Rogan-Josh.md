@@ -26,9 +26,9 @@ A British-Indian take on the classic Kashmiri lamb rogan josh, featuring a deep 
 - 2 tbsp paprika
 - 1 tsp chilli powder, or more to taste
 - 1 tbsp ground cumin
-- 1 ½ tbsp mixed powder
+- 1 ½ tbsp [Mixed Powder](../../Spice-Mixes/mixed-powder.md)
 - 1 tsp dried fenugreek leaves (kasoori methi)
-- 1 tsp garam masala
+- 1 tsp [Garam Masala](../../Spice-Mixes/garam-masala.md)
 
 ### Sauce and base
 - 125 ml (½ cup) tomato purée

@@ -18,7 +18,7 @@ A dry curry rather than a saucy one, "bunjay" is Trinidadian patois for "fry-dow
 - 1 lime (or lemon, juiced)
 - ¾ tablespoon salt
 - ½ teaspoon black pepper
-- 3 tablespoons curry powder (divided)
+- 3 tablespoons [Curry Powder](../indian/Spice-Mixes/curry-powder.md) (divided)
 - 1 ½ tablespoons Caribbean green seasoning
 - 3 tablespoons vegetable oil
 - 1 onion (medium, diced)

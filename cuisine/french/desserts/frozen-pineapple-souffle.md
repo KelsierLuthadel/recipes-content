@@ -11,11 +11,11 @@
 ## Ingredients
 - 1 ripe pineapple (about 1 kg)
 - 12 cloves
-- 750 ml sirop a sorbet
+- 750 ml [Syrup for Sorbet (Sirop à Sorbet)](../../../base-ingredients/syrup/sirop-a-sorbet.md)
 - 250 grams blackberries
 - 1 teaspoon groundnut oil (to brush)
 - 1 sheet leaf gelatine
-- 150 grams meringue Italienne
+- 150 grams [Meringue Italienne (Italian Meringue)](../../../baking/meringue/meringue-italienne.md)
 - 150 ml whipping cream
 - 30 ml kirsch
 - 40 grams lightly toasted flaked almonds

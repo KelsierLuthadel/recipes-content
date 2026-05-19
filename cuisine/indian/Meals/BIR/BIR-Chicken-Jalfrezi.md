@@ -26,7 +26,7 @@ A curry-house jalfrezi inspired by a Balti House classic, featuring quick stir-f
 
 ### Spices and sauce
 - 6 tbsp tomato purée
-- 2 tbsp mixed powder
+- 2 tbsp [Mixed Powder](../../Spice-Mixes/mixed-powder.md)
 - 1 tsp chilli powder (optional)
 - 500 ml [Curry Base Gravy](../../Base/curry-base.md)
 - 800 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
@@ -36,7 +36,7 @@ A curry-house jalfrezi inspired by a Balti House classic, featuring quick stir-f
 ### Finishers
 - 1 tsp dried fenugreek leaves (kasoori methi)
 - Salt, to taste
-- 1 tsp garam masala
+- 1 tsp [Garam Masala](../../Spice-Mixes/garam-masala.md)
 - 2 tbsp chopped coriander (cilantro) leaves
 - 2 green finger chillies, halved lengthwise
 

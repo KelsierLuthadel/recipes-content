@@ -26,7 +26,7 @@ Jasmine or basmati rice rinses, soaks for 30 minutes. Coconut milk, water, fresh
 ### To serve (typical accompaniments)
 - Fried shallots (bawang goreng - sold ready)
 - A fried egg per person
-- Sambal terasi (or sambal oelek)
+- [Sambal Terasi](sambal-terasi.md) (or sambal oelek)
 - Cucumber slices
 
 ## Method

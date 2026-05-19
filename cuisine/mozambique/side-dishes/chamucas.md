@@ -20,7 +20,7 @@ Mince browns with onion, garlic, curry powder, ginger and a small chopped chilli
 - 1 onion (medium, very finely chopped)
 - 3 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
-- 2 teaspoons curry powder
+- 2 teaspoons [Curry Powder](../../indian/Spice-Mixes/curry-powder.md)
 - 1 teaspoon paprika
 - 1 fresh bird's-eye chilli (very finely chopped)
 - 2 tablespoons fresh coriander (chopped)

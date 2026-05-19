@@ -14,7 +14,7 @@ Cheese straws are the simplest of cold appetizers: store-bought puff pastry brus
 ## Ingredients
 
 ### Pastry Base
-- 400 grams puff pastry (approximately 1 sheet, thawed if frozen)
+- 400 grams [Feuilletage (Puff Pastry)](../../../baking/pastry/puff-pastry.md) (approximately 1 sheet, thawed if frozen)
 
 ### Egg Wash
 - 1 egg yolk (approximately 1 tablespoon)

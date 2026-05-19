@@ -24,7 +24,7 @@ Pork belly cuts into thick strips (5 cm wide × 3 cm thick) with skin on. Simmer
 - Lime wedges
 - Sliced avocado
 - Hot arepas
-- Hogao (Colombian tomato-onion sauce, optional)
+- [Hogao](../side-dishes/hogao.md) (Colombian tomato-onion sauce, optional)
 
 ## Method
 

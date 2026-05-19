@@ -27,7 +27,7 @@ Cleaned lamb or goat trotters are blanched, scraped clean and then simmered slow
 - 1 ½ teaspoons ground turmeric
 - 1 ½ teaspoons ground coriander
 - 1 teaspoon ground cumin
-- 1 ½ teaspoons garam masala
+- 1 ½ teaspoons [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
 - 2 bay leaves
 - 4 green cardamom pods
 - 2 black cardamom pods (the smoky kind - important for paya)
@@ -47,7 +47,7 @@ Cleaned lamb or goat trotters are blanched, scraped clean and then simmered slow
 - 3 green chillies (sliced)
 - Small bunch coriander (chopped)
 - 4 lemons (cut into wedges)
-- 1 teaspoon garam masala
+- 1 teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
 - Fresh naan (or roti)
 
 ## Method

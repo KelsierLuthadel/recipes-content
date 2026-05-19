@@ -20,7 +20,7 @@
 
 ### For the filling
 - 2 young, tender rhubarb stalks
-- 500 ml sirop a sorbet
+- 500 ml [Syrup for Sorbet (Sirop à Sorbet)](../../../base-ingredients/syrup/sirop-a-sorbet.md)
 - 1 orange (juice)
 - 250 gram crème Chantilly
 - 18 perfectly ripe raspberries

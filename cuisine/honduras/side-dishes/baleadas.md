@@ -22,7 +22,7 @@ Soft flour tortillas, thicker than Mexican ones, are griddled until lightly blis
 - 220 ml warm water
 
 ### Fillings
-- 300 g refried beans (warmed)
+- 300 g [Refried Beans](../../mexican/side-dishes/refried-beans.md) (warmed)
 - 150 g mantequilla, sour cream (or crème fraîche)
 - 150 g queso fresco, feta (or cotija cheese, crumbled)
 

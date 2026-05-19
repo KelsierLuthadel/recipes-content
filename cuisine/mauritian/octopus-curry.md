@@ -32,12 +32,12 @@ Cari ourite is the dish that turns up at every Mauritian fisherman's Sunday lunc
 - 1 tbsp tomato paste
 
 ### Spices
-- 1 ½ tbsp mild curry powder (Mauritian or Madras)
+- 1 ½ tbsp mild [Curry Powder](../indian/Spice-Mixes/curry-powder.md) (Mauritian or Madras)
 - 1 tsp ground cumin
 - ½ tsp ground coriander
 - ½ tsp sweet paprika
 - ¼ tsp ground turmeric
-- 1 tsp garam masala (added at the end)
+- 1 tsp [Garam Masala](../indian/Spice-Mixes/garam-masala.md) (added at the end)
 
 ### To finish
 - 250 ml water (or light fish stock)

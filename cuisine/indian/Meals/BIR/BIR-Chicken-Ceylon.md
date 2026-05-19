@@ -29,8 +29,8 @@ A bright and spicy Sri Lankan-inspired curry with a curry-house spin, featuring 
 - 2 tbsp coconut flour
 - 3 tbsp finely chopped coriander (cilantro) stalks
 - 1 tsp Kashmiri chilli powder
-- 2 tbsp mixed powder
-- 1 tbsp tandoori masala
+- 2 tbsp [Mixed Powder](../../Spice-Mixes/mixed-powder.md)
+- 1 tbsp [Tandoori Masala](../../Spice-Mixes/tandoori-masala.md)
 - ½ tbsp freshly ground black pepper
 - 125 ml (½ cup) tomato purée
 
@@ -47,7 +47,7 @@ A bright and spicy Sri Lankan-inspired curry with a curry-house spin, featuring 
 - Salt, to taste
 - Sugar, to taste
 - 1 lime (juice)
-- 1 tsp garam masala
+- 1 tsp [Garam Masala](../../Spice-Mixes/garam-masala.md)
 - 3 tbsp chopped coriander (cilantro), to finish
 
 ## Method

@@ -26,7 +26,7 @@ Balti chicken stock is a transformed use of the chicken carcass, the skeletal fr
 - 4 bay leaves (whole, dried preferred)
 
 ### Spice & Seasonings
-- 1 tablespoon Balti masala paste (approximately 20 grams, genuine paste, not powdered spice blend)
+- 1 tablespoon [Balti Masala Paste](../base-ingredients/curry-paste/balti-masala-paste.md) (approximately 20 grams, genuine paste, not powdered spice blend)
 - 1 tablespoon granulated sugar (approximately 12 grams)
 - 1 teaspoon fine sea salt (approximately 6 grams)
 

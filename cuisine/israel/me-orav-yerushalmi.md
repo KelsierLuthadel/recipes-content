@@ -21,7 +21,7 @@ A mix of chicken livers, hearts, spleen (if you can get it) and small chunks of 
 - 2 onions (large, sliced thin)
 - 6 tablespoons olive oil (split)
 - 4 garlic cloves (crushed)
-- 2 tablespoons baharat
+- 2 tablespoons [Baharat](../../base-ingredients/spices/baharat.md)
 - 1 tablespoon ground turmeric
 - 1 tablespoon sweet paprika
 - 1 teaspoon ground cumin
@@ -31,7 +31,7 @@ A mix of chicken livers, hearts, spleen (if you can get it) and small chunks of 
 
 ### To serve
 - 4 pita breads (large, warmed)
-- Hummus
+- [Hummus](side-dishes/hummus.md)
 - Tahina sauce
 - Sliced pickles
 - Amba (mango pickle)

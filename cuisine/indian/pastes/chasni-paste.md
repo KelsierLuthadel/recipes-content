@@ -16,7 +16,7 @@ A sweet and tangy paste used in Pathia and Chasni curries, combining mango chutn
 
 ## Ingredients
 ### Sweeteners
-- 175 g mango chutney
+- 175 g [Mango Chutney](../sauces-pickles/mango-chutney.md)
 
 ### Sauces
 - 4 tbsp tomato ketchup

@@ -28,7 +28,7 @@ Steak (a thin cut like skirt or sirloin) is marinated briefly with sour orange, 
 - 2 ripe plantains (peeled, sliced 1 cm thick on the bias)
 - 200 ml vegetable oil for frying
 - 300 g white rice (cooked)
-- 400 g refried beans (warmed)
+- 400 g [Refried Beans](../mexican/side-dishes/refried-beans.md) (warmed)
 - 250 ml mantequilla (Honduran sour cream - or crème fraîche thinned with milk)
 - 2 ripe avocados (sliced)
 - 8 flour (or corn tortillas, warmed)

@@ -43,7 +43,7 @@ A classic karahi curry inspired by Imran’s in Birmingham, featuring tender chi
 ### Finishers
 - 7 ½ cm (3 in) piece ginger, peeled and julienned
 - 2 fresh green bullet chillies, roughly chopped
-- 1 tsp garam masala
+- 1 tsp [Garam Masala](../../Spice-Mixes/garam-masala.md)
 - Coriander (cilantro), to serve
 
 ## Method

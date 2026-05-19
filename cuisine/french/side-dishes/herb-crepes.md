@@ -21,7 +21,7 @@ Herb crêpes are thin, delicate pancakes enriched with fresh herbs such as parsl
 - salt
 - pepper
 - 15 grams chopped herbs (parsley, chervil, chives)
-- 30 grams clarified butter
+- 30 grams [Clarified Butter (Beurre Clarifié)](../../../base-ingredients/baking/clarified-butter.md)
 
 ## Method
 ## Making the batter

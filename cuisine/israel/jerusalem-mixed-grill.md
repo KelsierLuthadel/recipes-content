@@ -30,7 +30,7 @@ Chicken thigh, liver and heart sear hard in a wide pan with onions; spices bloom
 
 ### To serve
 - 4 pita breads (warmed)
-- 200 g hummus
+- 200 g [Hummus](side-dishes/hummus.md)
 - Tahini sauce
 - Pickled cucumbers
 - Sliced tomato and onion

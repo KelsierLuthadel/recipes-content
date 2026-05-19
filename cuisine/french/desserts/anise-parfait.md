@@ -19,7 +19,7 @@
 - 100 ml strawberry coulis
 - 100 ml kiwi coulis
 - 8 strawberries
-- 100 ml Sirop a sorbet
+- 100 ml [Syrup for Sorbet (Sirop à Sorbet)](../../../base-ingredients/syrup/sirop-a-sorbet.md)
 
 ## Overview
 A glamorous chilled parfait infused with the sophisticated anise flavor of Ricard or Pernod, served in a frozen ring and garnished with fresh berries and colorful fruit coulis. This frozen confection offers the lightness of whipped cream with the richness of egg custard, making it an elegant choice for formal dinners without requiring last-minute oven work.

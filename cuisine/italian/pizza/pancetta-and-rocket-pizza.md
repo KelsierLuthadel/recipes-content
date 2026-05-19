@@ -22,7 +22,7 @@ A small pizza built on tomato sauce and cubed mozzarella, baked until crisp and 
 - 4 thin slices Italian smoked pancetta
 - 4 whole sun-dried tomatoes
 - 40 grams rocket leaves
-- 2 tablespoons Caesar dressing
+- 2 tablespoons [Caesar Dressing](../../../vinaigrette/caesar-dressing.md)
 - Pinch of dried oregano
 - 15 grams Grana Padano (grated)
 

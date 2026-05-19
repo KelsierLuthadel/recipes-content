@@ -19,7 +19,7 @@
 - 1 tsp Chilli Powder
 - 1 tbsp Turmeric
 - 1 tbsp Methi
-- 1 tsp Garam Masala
+- 1 tsp [Garam Masala](../Spice-Mixes/garam-masala.md)
 - 1 Curry leaf
 - 1 tsp Sugar
 - 1 tsp Salt

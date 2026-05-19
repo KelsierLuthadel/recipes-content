@@ -39,7 +39,7 @@ A soft yeasted bread dough rises for 1 hour. Three toppings prep simultaneously:
 - 200 g lamb mince
 - 2 garlic cloves (crushed)
 - 1 tomato (small, deseeded, finely diced)
-- 1 teaspoon baharat
+- 1 teaspoon [Baharat](../../../base-ingredients/spices/baharat.md)
 - ½ teaspoon ground cinnamon
 - 1 tablespoon pomegranate molasses
 - 1 teaspoon salt

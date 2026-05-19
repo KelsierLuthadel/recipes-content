@@ -19,7 +19,7 @@ Dried haricot beans soak overnight, then simmer with bacon and aromatics. Pork s
 - 200 g pork belly (or pancetta in one piece)
 - 1 onion (whole, studded with 4 cloves)
 - 4 garlic cloves
-- 1 bouquet garni
+- 1 [Bouquet Garni](../../base-ingredients/herbs/bouquet-garni.md)
 - 1 tablespoon tomato purée
 - 1 ½ litres chicken (or duck stock)
 

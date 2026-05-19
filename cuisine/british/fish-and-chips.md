@@ -42,7 +42,7 @@ Floury Maris Piper potatoes are blanched, drained, and fried twice (once at low 
 ### To serve
 - Lemon wedges
 - Malt vinegar
-- Tartare sauce
+- [Tartare Sauce](../../sauces/sauce-savory/tartare-sauce.md)
 
 ## Method
 

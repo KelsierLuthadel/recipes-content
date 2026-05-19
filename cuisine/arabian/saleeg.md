@@ -36,7 +36,7 @@ Whole chicken pokes in a stock of onion, cardamom, black lime, mastic and bay fo
 - 60 g unsalted butter
 - 1 teaspoon coarsely ground black pepper
 - Yogurt
-- Sahawiq
+- [Sahawiq](../yemen/side-dishes/sahawiq.md)
 
 ## Method
 

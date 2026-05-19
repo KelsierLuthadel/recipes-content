@@ -31,7 +31,7 @@ Thick-cut chips are deep-fried until crisp; thinly-sliced sirloin (lomo) is sear
 ### To plate
 - 4 eggs (large)
 - 3 tablespoons fresh parsley (chopped)
-- Pebre (or chilli sauce on the side)
+- [Pebre](side-dishes/pebre.md) (or chilli sauce on the side)
 
 ## Method
 

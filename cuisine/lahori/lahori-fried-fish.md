@@ -40,7 +40,7 @@ Firm white fish is scored, rubbed with a spice paste of ginger-garlic, Kashmiri 
 - 400 ml mustard oil (or vegetable oil), for shallow-frying
 
 ### To serve
-- 2 teaspoons chaat masala
+- 2 teaspoons [Chaat Masala](../indian/Spice-Mixes/chaat-masala.md)
 - Lemon wedges
 - Sliced red onion
 - Green chutney (mint-coriander-yogurt)

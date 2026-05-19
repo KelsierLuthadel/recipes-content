@@ -26,14 +26,14 @@ A sweet and smooth British-Indian chasni that pairs best with tandoori chicken t
 
 ### Flavourings and finishers
 - 3 tbsp smooth mango chutney
-- 2 tbsp mint sauce
+- 2 tbsp [Mint Sauce](../../../british/side-dishes/mint-sauce.md)
 - 3 tbsp tomato ketchup
 - 1 tbsp ground cumin
 - 200 ml (generous ¾ cup) double (heavy) cream
 - Salt, to taste
 - 1-2 lemons, to taste (juice)
 - Bright red food colouring powder (optional)
-- ½ tsp garam masala
+- ½ tsp [Garam Masala](../../Spice-Mixes/garam-masala.md)
 - 3 tbsp very finely chopped coriander (cilantro)
 
 ## Method

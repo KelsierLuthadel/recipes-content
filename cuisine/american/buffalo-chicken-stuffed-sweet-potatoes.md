@@ -16,7 +16,7 @@ A lighter remix of the classic Buffalo wings format: the same flavour trio (Fran
 
 - 4 medium-large sweet potatoes (washed)
 - 2 boneless skinless chicken breasts
-- 120 ml buffalo sauce (Frank's RedHot recommended)
+- 120 ml [Buffalo Sauce](../../sauces/sauce-spicy/buffalo-sauce.md) (Frank's RedHot recommended)
 - 100 g blue cheese crumbles
 - salt
 - pepper

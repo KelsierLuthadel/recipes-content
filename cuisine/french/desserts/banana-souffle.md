@@ -18,7 +18,7 @@
 - 7 egg whites
 - 8 crêpes (trimmed to about 16 cm diameter)
 - 30 grams butter (to grease)
-- chocolate sauce (to serve)
+- [Chocolate Sauce](../../../sauces/sauce-sweet/chocolate-sauce.md) (to serve)
 
 ## Overview
 Delicate crèpes folded around a light banana soufflé mixture and baked until the soufflé rises impressively above the edges, creating a dramatic and sophisticated dessert. The combination of creamy banana flavor with the ethereal soufflé texture delivers luxury in every bite, finished with warm chocolate sauce.

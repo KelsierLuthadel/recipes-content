@@ -38,7 +38,7 @@ Boneless chicken thighs cube small; marinate for 1 hour in gochujang, gochugaru,
 
 ### To serve
 - Steamed white rice
-- Kimchi
+- [Kimchi (Cabbage)](side-dishes/kimchi.md)
 - Lettuce leaves (for wrapping, optional)
 
 ## Method

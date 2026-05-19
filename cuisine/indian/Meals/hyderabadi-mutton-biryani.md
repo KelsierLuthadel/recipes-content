@@ -19,7 +19,7 @@ Bone-in mutton (or lamb) marinates for 4 hours in yogurt, ginger-garlic paste, d
 - 400 g full-fat Greek yogurt
 - 4 tablespoons ginger-garlic paste
 - 200 g birista (deep-fried onions - see Notes)
-- 2 tablespoons garam masala
+- 2 tablespoons [Garam Masala](../Spice-Mixes/garam-masala.md)
 - 1 tablespoon ground turmeric
 - 1 tablespoon Kashmiri chilli powder (or 1 tsp regular chilli + 2 tsp paprika)
 - 1 tablespoon salt

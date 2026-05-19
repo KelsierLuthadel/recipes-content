@@ -10,7 +10,7 @@
 A medium-hot spice blend with strong chilli and earthy notes, suited to Madras-style curries.
 
 ## Ingredients
-- 2 tsp base curry powder
+- 2 tsp [Base Curry Powder](base-curry-powder.md)
 - 1 tsp chilli powder
 - 1 tsp paprika
 - ½ tsp cumin

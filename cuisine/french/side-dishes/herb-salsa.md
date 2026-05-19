@@ -21,7 +21,7 @@ Herb salsa is uniquely French despite the Spanish name: it's essentially a warm 
 - Water (for boiling)
 
 ### Herbs & Aromatics
-- 60 grams fresh fines herbes (approximately 4 tablespoons, or substitute 2 tablespoons parsley + 1 ½ tablespoons chives + ½ tablespoon fresh tarragon + ½ tablespoon chervil if fines herbes unavailable)
+- 60 grams fresh [Fines Herbes](../../../base-ingredients/herbs/fines-herbes.md) 
 
 ### Oil & Acid
 - 120 milliliters extra virgin olive oil (approximately 1 cup)

@@ -18,7 +18,7 @@ Red onion is sliced as thin as possible (mandoline is ideal). The slices are soa
 - 1 tablespoon white vinegar (for the soak)
 - 1 teaspoon salt (for the soak)
 - 1 lemon (juice)
-- 1 teaspoon chaat masala
+- 1 teaspoon [Chaat Masala](../../indian/Spice-Mixes/chaat-masala.md)
 - ½ teaspoon Kashmiri chilli flakes
 - ¼ teaspoon ground black pepper
 - A pinch of sugar

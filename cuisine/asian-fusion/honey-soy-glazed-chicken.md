@@ -25,7 +25,7 @@ This is roast chicken at its most rewarding: bone-in, skin-on thighs that braise
 - 30 ml rice vinegar
 - 15 g ginger paste
 - 15 g garlic paste (or finely minced garlic)
-- 10 g sambal oelek (red chilli paste)
+- 10 g [Sambal Oelek](../../base-ingredients/sambal/sambal-oelek.md) (red chilli paste)
 - 2 g onion powder
 
 ### To garnish

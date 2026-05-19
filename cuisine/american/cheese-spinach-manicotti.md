@@ -26,7 +26,7 @@ Italian-American baked pasta in the same family as stuffed shells and lasagna, w
 - ½ teaspoon red pepper flakes (optional)
 - salt
 - pepper
-- 1 jar (680 g / 24 oz) tomato basil sauce
+- 1 jar (680 g / 24 oz) [Tomato and Basil Sauce](../italian/side-dishes/tomato-basil-sauce.md)
 
 ## Method
 

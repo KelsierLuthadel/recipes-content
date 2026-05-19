@@ -40,7 +40,7 @@ Lamb (or beef) is slow-cooked in a Yemeni tomato-onion-spice stew (called maraq)
 - 2 tablespoons cold water (for whipping)
 
 ### To finish
-- 4 tablespoons sahawiq (Yemeni green chilli sauce, recipe in the sides)
+- 4 tablespoons [Sahawiq](side-dishes/sahawiq.md) (Yemeni green chilli sauce, recipe in the sides)
 - Lahoh (or hot flatbread, to scoop)
 
 ## Method

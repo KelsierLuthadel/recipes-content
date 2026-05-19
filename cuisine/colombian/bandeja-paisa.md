@@ -15,7 +15,7 @@ Each component cooks separately and arrives on the same wide platter: braised re
 ## Ingredients
 
 ### Per serving
-- 250 g cooked frijoles paisas (see recipe)
+- 250 g cooked [Frijoles Paisas](side-dishes/frijoles-paisas.md)
 - 200 g cooked white rice
 - 1 piece chicharrón (90 g pre-cooked pork belly - see Notes)
 - 1 chorizo (Colombian-style or Spanish chorizo)

@@ -24,7 +24,7 @@ Potatoes and onion are coarsely grated; the mixture is squeezed bone-dry in a cl
 
 ### To serve
 - Soured cream
-- Apple sauce
+- [Apple Sauce](../../sauces/fruit-sauce/apple-sauce.md)
 - Smoked salmon (optional)
 
 ## Method

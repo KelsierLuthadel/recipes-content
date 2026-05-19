@@ -34,7 +34,7 @@ Fenugreek-forward chicken methi curry with a rich base sauce and a tangy cream f
 - Stalks from a large bunch of coriander (cilantro)
 
 ### Spices and sauce
-- 1 tbsp mixed powder (or curry powder)
+- 1 tbsp [Mixed Powder](../../Spice-Mixes/mixed-powder.md) (or curry powder)
 - 1 tsp bassar curry masala (or chilli powder)
 - 75 ml (5 tbsp) plain passata (sieved or blended tomatoes)
 - 500 ml [Curry Base Gravy](../../Base/curry-base.md)
@@ -44,7 +44,7 @@ Fenugreek-forward chicken methi curry with a rich base sauce and a tangy cream f
 - 4 tbsp plain yoghurt
 - Salt, to taste
 - 3 tbsp chopped coriander (cilantro) leaves
-- ½ tsp garam masala
+- ½ tsp [Garam Masala](../../Spice-Mixes/garam-masala.md)
 - 1 tsp dried fenugreek leaves (kasoori methi)
 
 ## Method

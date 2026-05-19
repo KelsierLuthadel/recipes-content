@@ -24,7 +24,7 @@ A simple wheat-flour-and-water dough rests for 30 minutes. The filling: onion fr
 - 2 tablespoons olive oil
 - 1 onion (medium, very finely diced)
 - 300 g lamb mince (20% fat)
-- 1 teaspoon baharat
+- 1 teaspoon [Baharat](../../base-ingredients/spices/baharat.md)
 - ½ teaspoon ground allspice
 - ½ teaspoon ground cinnamon
 - 1 teaspoon salt

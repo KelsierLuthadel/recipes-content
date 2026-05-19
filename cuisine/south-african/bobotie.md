@@ -20,7 +20,7 @@ Bread is soaked in milk; mince is browned with onions; curry powder, turmeric an
 - 2 onions (large, finely chopped)
 - 6 garlic cloves (crushed)
 - 4 cm ginger (grated)
-- 2 tablespoons mild curry powder
+- 2 tablespoons mild [Curry Powder](../indian/Spice-Mixes/curry-powder.md)
 - 1 teaspoon ground turmeric
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
@@ -31,7 +31,7 @@ Bread is soaked in milk; mince is browned with onions; curry powder, turmeric an
 - 80 g raisins (or sultanas)
 - 50 g flaked almonds (toasted, plus more for topping)
 - 3 tablespoons apricot jam
-- 2 tablespoons mango chutney (Mrs Ball's if you can get it)
+- 2 tablespoons [Mango Chutney](../indian/sauces-pickles/mango-chutney.md) (Mrs Ball's if you can get it)
 - 2 tablespoons cider vinegar
 - 1 lemon (juice)
 - 1 ½ teaspoons salt

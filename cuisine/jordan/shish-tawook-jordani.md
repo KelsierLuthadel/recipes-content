@@ -36,7 +36,7 @@ Yogurt-based marinade with lemon, garlic, tomato puree, allspice, paprika and ol
 - Garlic toum (or yogurt sauce)
 - 4 pita (large, or shrak breads)
 - Pickles (turnips, cucumbers)
-- Salata baladi
+- [Salata Baladi](../egyptian/side-dishes/salata-baladi.md)
 
 ## Method
 

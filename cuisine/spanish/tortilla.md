@@ -20,7 +20,7 @@ This classic Spanish omelette is a rustic, hearty dish featuring tender potatoes
 - 1 green bell pepper (de-seeded and finely diced)
 - 2 tomatoes (medium, peeled, de-seeded, and diced)
 - 1 garlic clove (peeled, de-germed, and finely chopped)
-- 1 bouquet garni
+- 1 [Bouquet Garni](../../base-ingredients/herbs/bouquet-garni.md)
 
 ### Protein
 - 1 chorizo sausage (finely diced)

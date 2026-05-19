@@ -28,7 +28,7 @@ Crispy, sweet, and sticky chicken wings with a rich, fruity glaze from date syru
 - 5 cm (2 inch) piece fresh root ginger, peeled and grated
 
 ### Spices
-- 1 tsp garam masala
+- 1 tsp [Garam Masala](../Spice-Mixes/garam-masala.md)
 - 2 tsp ground cumin
 - ½ tsp black mustard seeds
 

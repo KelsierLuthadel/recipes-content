@@ -15,7 +15,7 @@ Biscuit joconde is the apotheosis of French patisserie elegance: a delicate, pap
 ## Ingredients
 
 ### Almond-Based Foundation
-- 375 grams tant pour tant (equal parts ground almonds and icing sugar, finely sifted together)
+- 375 grams [Tant Pour Tant](../base-ingredients/baking/tant-pour-tant.md) (equal parts ground almonds and icing sugar, finely sifted together)
 
 ### Egg Components
 - 5 whole eggs (room temperature)

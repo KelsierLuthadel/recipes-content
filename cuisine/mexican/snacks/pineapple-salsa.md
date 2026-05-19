@@ -22,7 +22,7 @@ Pineapple salsa bridges sweet tropical fruit with heat and umami. The key techni
 
 ### Heat & Umami Layers
 - ½ fresh red chilli (mild varieties preferred unless more heat desired, finely diced with seeds)
-- 1 tablespoon sambal oelek (Indonesian chilli paste)
+- 1 tablespoon [Sambal Oelek](../../../base-ingredients/sambal/sambal-oelek.md) (Indonesian chilli paste)
 
 ### Acid & Brightness
 - 1 teaspoon fresh lime juice (never bottled)

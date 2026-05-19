@@ -18,7 +18,7 @@ This is the French answer to Neapolitan pizza. Where Italian pizza celebrates to
 - 100 ml light extra virgin olive oil
 - 800 grams onions (very thinly sliced)
 - 2 garlic cloves (peeled)
-- 1 bouquet garni (with a few oregano sprigs and fennel stalks)
+- 1 [Bouquet Garni](../../../base-ingredients/herbs/bouquet-garni.md) (with a few oregano sprigs and fennel stalks)
 - salt
 - pepper
 

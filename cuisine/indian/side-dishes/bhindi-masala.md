@@ -25,7 +25,7 @@ The okra is washed, dried thoroughly and trimmed, then cut into 2 cm pieces. A d
 - 1 teaspoon ground coriander
 - ½ teaspoon turmeric
 - 1 teaspoon amchur (dried mango powder, or 2 teaspoons lemon juice at the end)
-- ½ teaspoon garam masala
+- ½ teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
 - 1 teaspoon salt (to taste)
 
 ### To serve

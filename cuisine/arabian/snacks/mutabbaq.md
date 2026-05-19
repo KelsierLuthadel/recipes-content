@@ -27,7 +27,7 @@ A stretchy oil-rich dough rests for 1 hour to develop pliability; key to mutabba
 - 1 leek (small, white and pale green, finely chopped) OR 4 spring onions
 - 4 garlic cloves (crushed)
 - 400 g ground beef (or lamb)
-- 1 ½ teaspoons baharat
+- 1 ½ teaspoons [Baharat](../../../base-ingredients/spices/baharat.md)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - 1 ½ teaspoons salt

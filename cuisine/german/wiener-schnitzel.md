@@ -21,7 +21,7 @@ Veal escalopes are pounded to 5 mm thick, dredged through flour, egg and breadcr
 - 200 g fine breadcrumbs (ideally Semmelbrösel; or fine dried breadcrumbs)
 - salt
 - pepper
-- 100 g clarified butter (or 50 g butter + 50 ml vegetable oil)
+- 100 g [Clarified Butter (Beurre Clarifié)](../../base-ingredients/baking/clarified-butter.md) (or 50 g butter + 50 ml vegetable oil)
 
 ### To serve
 - 1 lemon (cut into wedges)

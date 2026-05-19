@@ -24,7 +24,7 @@ Lump tamarind is soaked in hot water and strained for a thick brown extract. The
 - ¼ teaspoon ground black pepper
 - ¼ teaspoon ground cinnamon
 - ½ teaspoon Kashmiri chilli powder
-- 1 teaspoon chaat masala
+- 1 teaspoon [Chaat Masala](../../indian/Spice-Mixes/chaat-masala.md)
 - 1 tablespoon raisins (optional, for the sweet pop)
 - 1 tablespoon dates (chopped, optional)
 - 200 ml water

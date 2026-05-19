@@ -25,7 +25,7 @@ A showstopping dish featuring a rare beef tenderloin encased in layers of mushro
 - 1 fillet of beef (about 800 grams)
 - salt
 - pepper
-- 80 grams clarified butter
+- 80 grams [Clarified Butter (Beurre Clarifié)](../../base-ingredients/baking/clarified-butter.md)
 - 60 grams butter
 - 500 grams button mushrooms (finely chopped)
 - 1 lemon (juice)

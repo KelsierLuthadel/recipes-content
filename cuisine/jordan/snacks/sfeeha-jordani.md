@@ -30,7 +30,7 @@ A yeasted bread dough rises for 1 hour. Topping: lamb mince mixed RAW with grate
 - 3 tablespoons fresh parsley (chopped)
 - 1 ½ tablespoons pomegranate molasses
 - 1 tablespoon tomato paste
-- 2 teaspoons baharat
+- 2 teaspoons [Baharat](../../../base-ingredients/spices/baharat.md)
 - 1 teaspoon ground allspice
 - 1 teaspoon Aleppo pepper
 - ½ teaspoon ground cinnamon

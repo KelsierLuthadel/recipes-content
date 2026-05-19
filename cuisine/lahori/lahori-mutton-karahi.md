@@ -45,7 +45,7 @@ Bone-in lamb is browned in ghee with a small handful of whole spices, then ginge
 - 4 fresh green chillies (slit lengthways)
 - 30 g fresh ginger (cut into matchsticks)
 - A handful of fresh coriander (chopped)
-- 1 teaspoon garam masala
+- 1 teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
 - 1 teaspoon crushed kasuri methi (dried fenugreek)
 - 1 tablespoon butter (or ghee, for the surface slick)
 

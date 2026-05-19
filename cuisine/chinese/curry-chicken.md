@@ -26,7 +26,7 @@ Curry blends beautifully with chicken when prepared in the style of southern Chi
 
 ### Sauce
 - 70 ml Chinese chicken stock
-- 2 teaspoons curry powder (or curry paste)
+- 2 teaspoons [Curry Powder](../indian/Spice-Mixes/curry-powder.md) (or curry paste)
 - 1 teaspoon sugar
 - 2 teaspoons dry sherry (or rice wine)
 - 1 tablespoon light soy sauce

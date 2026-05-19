@@ -29,7 +29,7 @@ Pork shoulder cubes marinate at least two hours in a lemon-olive oil-garlic-oreg
 
 ### To serve
 - 4 pita breads (warmed)
-- Tzatziki
+- [Tzatziki](side-dishes/tzatziki.md)
 - 1 red onion (sliced)
 - 2 tomatoes (sliced)
 - A handful of fresh oregano (or parsley)

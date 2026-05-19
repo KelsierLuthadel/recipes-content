@@ -26,7 +26,7 @@ A whole chicken is jointed into 8 bone-in pieces (or 8 thighs). Oil heats in a w
 - 1 teaspoon ground coriander
 - 100 g full-fat plain yogurt (whisked smooth)
 - 3 tablespoons fresh coriander (chopped - both leaves and fine stems)
-- ½ teaspoon garam masala (optional, to finish)
+- ½ teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md) (optional, to finish)
 - 1 lemon (cut into wedges)
 
 ## Method

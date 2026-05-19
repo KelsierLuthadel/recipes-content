@@ -28,7 +28,7 @@ A soft butter-and-yogurt dough rolls thin, stamps into 9 cm rounds, gets a teasp
 - 2 tablespoons olive oil
 - 1 onion (medium, very finely chopped)
 - 3 garlic cloves (crushed)
-- 1 ½ teaspoons baharat
+- 1 ½ teaspoons [Baharat](../../../base-ingredients/spices/baharat.md)
 - ½ teaspoon ground cinnamon
 - ½ teaspoon ground allspice
 - 40 g pine nuts (toasted)

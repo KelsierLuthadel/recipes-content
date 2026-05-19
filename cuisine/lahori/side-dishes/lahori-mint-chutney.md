@@ -20,7 +20,7 @@ A bunch of mint and a bunch of coriander are blended with green chilli, garlic, 
 - 15 g fresh ginger
 - 2 tablespoons roasted cashews
 - ½ teaspoon ground cumin (lightly toasted in a dry pan)
-- 1 teaspoon chaat masala
+- 1 teaspoon [Chaat Masala](../../indian/Spice-Mixes/chaat-masala.md)
 - ½ teaspoon black salt (kala namak; optional but distinctive)
 - 1 teaspoon salt (to taste)
 - 1 tablespoon caster sugar (or 1 teaspoon honey)

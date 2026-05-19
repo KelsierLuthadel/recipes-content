@@ -25,12 +25,12 @@ Cooked chickpeas (tinned for speed, OR overnight-soaked and home-cooked for the 
 
 ### Dressing
 - 2 lemons (about 4 tablespoons, juice)
-- 1 ½ teaspoons chaat masala (sold at South Asian shops - distinctive sour-and-salty)
+- 1 ½ teaspoons [Chaat Masala](../../indian/Spice-Mixes/chaat-masala.md) (sold at South Asian shops - distinctive sour-and-salty)
 - 1 teaspoon ground roasted cumin (see notes)
 - ½ teaspoon Kashmiri red chilli powder
 - ½ teaspoon black salt (kala namak, optional but traditional, gives a faint sulphurous tang)
 - ½ teaspoon salt (to taste)
-- 1 tablespoon tamarind chutney (sold ready-made, optional but classic)
+- 1 tablespoon [Tamarind Chutney](../../indian/sauces-pickles/tamarind-chutney.md) (sold ready-made, optional but classic)
 - 1 teaspoon hot green chilli sauce (or Pakistani hot sauce)
 
 ### To finish
