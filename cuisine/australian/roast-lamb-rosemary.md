@@ -39,7 +39,7 @@ A 2.2 kg bone-in leg is studded with slivers of garlic and rosemary, rubbed with
 - pepper
 
 ### To serve
-- Mint sauce (or mint jelly, see Notes)
+- [Mint Sauce](../british/side-dishes/mint-sauce.md) (or mint jelly, see Notes)
 
 ## Method
 
