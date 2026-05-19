@@ -16,9 +16,9 @@ This classic Spanish omelette is a rustic, hearty dish featuring tender potatoes
 
 ### Potatoes & Aromatics
 - 250 grams baby new potatoes (diced into 5mm cubes)
-- 1 medium onion (finely diced)
+- 1 onion (medium, finely diced)
 - 1 green bell pepper (de-seeded and finely diced)
-- 2 medium tomatoes (peeled, de-seeded, and diced)
+- 2 tomatoes (medium, peeled, de-seeded, and diced)
 - 1 garlic clove (peeled, de-germed, and finely chopped)
 - 1 bouquet garni
 
@@ -26,10 +26,11 @@ This classic Spanish omelette is a rustic, hearty dish featuring tender potatoes
 - 1 chorizo sausage (finely diced)
 
 ### Eggs & Oil
-- 6 large eggs
+- 6 eggs (large)
 - 2 tablespoons olive oil
 - 1 tablespoon butter
-- Salt and freshly ground black pepper to taste
+- salt
+- pepper
 
 ## Method
 

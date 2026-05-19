@@ -26,7 +26,7 @@ Pelau is the Trinidadian one-pot, a meld of West African jollof technique with S
 ### Burnt sugar and aromatics
 - 3 tbsp neutral oil
 - 3 tbsp soft brown sugar
-- 1 medium onion (finely chopped)
+- 1 onion (medium, finely chopped)
 - 4 garlic cloves (minced)
 - 2 sprigs fresh thyme
 - 1 Scotch bonnet pepper (whole, pricked once)
@@ -35,14 +35,14 @@ Pelau is the Trinidadian one-pot, a meld of West African jollof technique with S
 - 1 can (400 g) pigeon peas, drained and rinsed (or 200 g dried, soaked and cooked until tender)
 - 400 g parboiled long-grain rice (rinsed until water runs clear)
 - 400 ml coconut milk
-- 400 ml chicken stock or water
-- 1 medium carrot (diced, optional but classic)
+- 400 ml chicken stock (or water)
+- 1 carrot (medium, diced, optional but classic)
 - 1 tsp salt (or to taste)
 - 1 tbsp ketchup (optional, but traditional for colour and tang)
 
 ### To finish
 - 2 spring onions (sliced)
-- Small handful chopped fresh chadon beni or coriander
+- Small handful chopped fresh chadon beni (or coriander)
 
 ## Method
 

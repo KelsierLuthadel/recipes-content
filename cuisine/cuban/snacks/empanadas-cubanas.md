@@ -17,14 +17,14 @@ A simple yellow dough (flour, lard or butter, water, salt, annatto or paprika fo
 ### Dough
 - 400 g plain flour
 - 1 teaspoon salt
-- 1 teaspoon ground annatto (achiote) or 1 ½ teaspoons sweet paprika (for the yellow colour)
-- 100 g cold lard or cold unsalted butter, cubed
-- 1 large egg
+- 1 ½ teaspoons sweet paprika (for the yellow colour)
+- 100 g cold lard (or cold unsalted butter), cubed
+- 1 egg (large)
 - 150 ml cold water (more if needed)
 
 ### Picadillo filling
 - 2 tablespoons olive oil
-- 1 medium onion (finely chopped)
+- 1 onion (medium, finely chopped)
 - 1 green pepper (finely chopped)
 - 4 garlic cloves (crushed)
 - 1 teaspoon ground cumin
@@ -32,22 +32,22 @@ A simple yellow dough (flour, lard or butter, water, salt, annatto or paprika fo
 - 1 teaspoon sweet paprika
 - 400 g ground beef (15 to 20 percent fat)
 - 2 tablespoons tomato purée
-- 1 large ripe tomato (chopped) or 100 g tinned chopped tomatoes
+- 1 ripe tomato (large, chopped) or 100 g tinned chopped tomatoes
 - 60 g pitted green olives (chopped)
 - 40 g raisins
 - 2 tablespoons capers (drained and chopped)
-- 2 tablespoons dry white wine or dry sherry (optional)
+- 2 tablespoons dry white wine (or dry sherry, optional)
 - ½ teaspoon salt
 - Black pepper
 
 ### To assemble and fry
-- 1 large egg (beaten with 1 teaspoon water, for sealing)
-- About 1 litre sunflower or vegetable oil, for deep-frying
+- 1 egg (large, beaten with 1 teaspoon water, for sealing)
+- 1 litre sunflower oil (or vegetable oil), for deep-frying
 
 ## Method
 
 ### Stage 1 - Dough
-1. Whisk the flour, salt and annatto (or paprika) in a bowl.
+1. Whisk the flour, salt and paprika in a bowl.
 2. Rub in the cold fat until you have rough pea-sized lumps.
 3. Beat the egg with the cold water; pour in. Mix with a knife then bring together into a rough ball. Add a tablespoon more water if the dough won't come together.
 4. Press into a flat disc; wrap and chill 30 minutes.

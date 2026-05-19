@@ -15,7 +15,7 @@ A simple egg sponge bakes in a deep tin (no butter, no oil; the cake stays light
 ## Ingredients
 
 ### Sponge
-- 5 large eggs (separated, at room temperature)
+- 5 eggs (large, separated, at room temperature)
 - 200 g caster sugar (split: 130 g for yolks, 70 g for whites)
 - 1 teaspoon vanilla extract
 - 150 g plain flour
@@ -24,8 +24,8 @@ A simple egg sponge bakes in a deep tin (no butter, no oil; the cake stays light
 - 60 ml whole milk
 
 ### Three milks soak
-- 1 × 397 g tin sweetened condensed milk
-- 1 × 410 g tin evaporated milk
+- 397 g tin sweetened condensed milk
+- 410 g tin evaporated milk
 - 250 ml double cream
 - 1 teaspoon vanilla extract
 - 1 tablespoon dark rum (optional, traditional)

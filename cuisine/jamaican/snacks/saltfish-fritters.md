@@ -25,17 +25,17 @@ Salt cod is soaked overnight (or boiled in two changes of water) to draw out the
 - ½ teaspoon paprika
 - 3 spring onions, finely chopped
 - 2 garlic cloves, finely chopped
-- 1 small tomato, deseeded and finely chopped
+- 1 tomato (small), deseeded and finely chopped
 - 1 teaspoon fresh thyme leaves
 - ½ scotch bonnet chilli, deseeded and finely chopped (or to taste)
-- About 280 ml cold water
+- 280 ml cold water
 
 ### For frying
 - 500 ml vegetable oil
 
 ### To serve
 - Lime wedges
-- Jamaican pepper sauce or hot sauce
+- Jamaican pepper sauce (or hot sauce)
 
 ## Method
 

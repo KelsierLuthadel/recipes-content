@@ -32,7 +32,8 @@ Pinto beans are soaked overnight, then simmered with onion and garlic until tend
 - 1 teaspoon ground cumin
 - 1 teaspoon dried Mexican oregano
 - 250 ml lager beer (optional, but traditional)
-- Salt and black pepper to taste
+- salt
+- pepper
 
 ### To finish
 - A large handful of coriander (chopped)

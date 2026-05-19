@@ -25,7 +25,7 @@ Thin pastry triangles wrap a lightly spiced potato-and-pea filling. The pastry u
 ### Filling
 - 400 g floury potatoes (Maris Piper or King Edward)
 - 2 tablespoons vegetable oil
-- 1 small onion (finely diced)
+- 1 onion (small, finely diced)
 - 2 garlic cloves (grated)
 - 2 cm ginger (grated)
 - 1 long green chilli (finely chopped)
@@ -36,13 +36,13 @@ Thin pastry triangles wrap a lightly spiced potato-and-pea filling. The pastry u
 - 1 teaspoon salt (or to taste)
 - 2 tablespoons roasted peanuts (roughly crushed)
 - 2 tablespoons coriander leaves (chopped)
-- Juice of ½ lime
+- ½ lime (juice)
 
 ### For frying
 - 750 ml neutral oil
 
 ### To serve
-- 1 small red onion (very thinly sliced)
+- 1 red onion (small, very thinly sliced)
 - 2 long green chillies (whole)
 - Lime wedges
 

@@ -16,7 +16,7 @@ Mince mixes raw with finely chopped onion, garlic, parsley, chilli and Egyptian 
 
 ### Filling
 - 500 g minced beef (or lamb; 15-20% fat)
-- 1 large onion (very finely chopped)
+- 1 onion (large, very finely chopped)
 - 6 garlic cloves (crushed)
 - 1 long green chilli (finely chopped)
 - 1 small bunch flat-leaf parsley (chopped)
@@ -30,8 +30,8 @@ Mince mixes raw with finely chopped onion, garlic, parsley, chilli and Egyptian 
 - 1 ½ teaspoons salt
 
 ### Bread and finish
-- 4 large pita breads or thin flatbreads (around 24 cm)
-- 1 large egg (beaten with 1 tablespoon water)
+- 4 pita breads (large, or thin flatbreads, around 24 cm)
+- 1 egg (large, beaten with 1 tablespoon water)
 - 2 tablespoons olive oil
 - 1 teaspoon sesame seeds (optional)
 

@@ -83,6 +83,10 @@ function normalizeText(text) {
   // Pass 4: glued unicode (`1½`) -> spaced (`1 ½`).
   text = text.replace(/(\d)([½¼¾⅓⅔⅛⅜⅝⅞])/g, '$1 $2');
 
+  // Pass 5: "half a" / "half an" -> "½". Case-insensitive but the
+  // replacement is always the symbol followed by a single space.
+  text = text.replace(/\bhalf\s+an?\b\s*/gi, '½ ');
+
   return text;
 }
 

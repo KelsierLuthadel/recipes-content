@@ -14,7 +14,7 @@ Dried white maize kernels (the same ones that grind into mealie meal) are heated
 
 ## Ingredients
 
-- 200 g dried white maize kernels (whole, not cracked) - or popcorn kernels at a stretch
+- 200 g dried white maize kernels (whole, not cracked, or popcorn kernels at a stretch)
 - 1 tablespoon vegetable oil
 - ½ teaspoon salt
 

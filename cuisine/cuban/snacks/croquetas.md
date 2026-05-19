@@ -22,13 +22,14 @@ A thick bechamel cooks with finely diced ham or cooked chicken until it pulls aw
 - 200 g finely diced cooked ham (jamón cocido) or cooked chicken breast
 - 2 tablespoons grated onion (with its juice)
 - 1 tablespoon dry sherry (optional but traditional)
-- Salt and white pepper
+- salt
+- pepper
 
 ### Breading
 - 80 g plain flour
-- 2 large eggs (beaten with 1 tablespoon water)
+- 2 eggs (large, beaten with 1 tablespoon water)
 - 200 g fine dry breadcrumbs (panko or homemade)
-- About 250 ml sunflower oil, for shallow-frying
+- 250 ml sunflower oil, for shallow-frying
 - Lime wedges, to serve
 
 ## Method

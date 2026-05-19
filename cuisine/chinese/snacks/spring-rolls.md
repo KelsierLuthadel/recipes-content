@@ -29,7 +29,7 @@ These spring rolls are filled with a stir-fried mixture of Parma ham, mange tout
 - 1 teaspoon light soy sauce
 - 1 teaspoon dark soy sauce
 - 1 teaspoon sesame oil
-- 1 ½ tablespoons dry sherry or rice wine
+- 1 ½ tablespoons dry sherry (or rice wine)
 - 1 litre oil (for deep frying)
 - 3 tablespoons plain flour (blended with 1 ½ tablespoons water)
 

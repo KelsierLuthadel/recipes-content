@@ -18,7 +18,7 @@ Almond filling: ground almonds, icing sugar, melted butter, lemon zest, orange-f
 - 250 g ground almonds
 - 100 g icing sugar
 - 30 g unsalted butter (melted)
-- Zest of 1 lemon
+- 1 lemon (zest)
 - 1 tablespoon orange-flower water
 - ½ teaspoon ground cinnamon (optional)
 
@@ -27,7 +27,7 @@ Almond filling: ground almonds, icing sugar, melted butter, lemon zest, orange-f
 - 120 g unsalted butter (cold, cubed)
 - 50 g icing sugar
 - ½ teaspoon salt
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 1 tablespoon orange-flower water
 - 2-3 tablespoons cold water
 

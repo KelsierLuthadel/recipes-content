@@ -23,7 +23,7 @@ Mutton is marinated overnight in yogurt with browned onion, ginger-garlic, Kashm
 - 1 teaspoon ground turmeric
 - 1 teaspoon ground coriander
 - 1 teaspoon black pepper
-- 8 dried aloo bukhara (sour plums; soaked 30 min) (or 5 prunes + 1 tablespoon lemon juice)
+- 8 dried aloo bukhara (sour plums; soaked 30 min)
 - 1 tablespoon crushed kasuri methi
 - 2 teaspoons salt
 
@@ -38,7 +38,7 @@ Mutton is marinated overnight in yogurt with browned onion, ginger-garlic, Kashm
 - 3 litres water
 - 2 tablespoons salt
 - 2 bay leaves
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 6 cloves
 - 6 green cardamom pods (lightly crushed)
 - 2 black cardamom pods

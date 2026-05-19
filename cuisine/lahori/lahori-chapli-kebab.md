@@ -21,10 +21,10 @@ Minced beef is mixed with crushed coriander seed, anardana (pomegranate seed) fo
 - 1 tablespoon ginger-garlic paste
 - A handful of fresh coriander (chopped fine, stems included)
 - 2 tomatoes (very finely chopped, then squeezed dry; reserve a tablespoon of slices for pressing onto the patties)
-- 1 large egg (beaten)
+- 1 egg (large, beaten)
 - 2 tablespoons gram flour (besan, toasted briefly in a dry pan)
 - 1 tablespoon cornflour
-- 1½ tablespoons coriander seeds (coarsely crushed, not powdered)
+- 1 ½ tablespoons coriander seeds (coarsely crushed, not powdered)
 - 1 tablespoon dried pomegranate seeds (anardana; or 1 teaspoon amchur as a substitute)
 - 1 teaspoon cumin seeds (lightly crushed)
 - ½ teaspoon ground black pepper
@@ -39,7 +39,7 @@ Minced beef is mixed with crushed coriander seed, anardana (pomegranate seed) fo
 - Lemon wedges
 - Sliced red onion
 - Mint-yogurt chutney
-- Warm naan or roti
+- Warm naan (or roti)
 
 ## Method
 

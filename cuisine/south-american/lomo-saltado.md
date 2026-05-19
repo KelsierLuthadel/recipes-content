@@ -15,7 +15,7 @@ Beef strips are marinated briefly in soy and aji amarillo paste. Fries are cooke
 ## Ingredients
 
 ### Beef and marinade
-- 600 g beef sirloin or rump (cut into 1 cm strips)
+- 600 g beef sirloin (or rump, cut into 1 cm strips)
 - 2 tablespoons soy sauce
 - 1 tablespoon aji amarillo paste (Peruvian; or 2 tsp sambal oelek)
 - 4 garlic cloves (crushed)
@@ -30,13 +30,13 @@ Beef strips are marinated briefly in soy and aji amarillo paste. Fries are cooke
 
 ### Stir-fry
 - 2 tablespoons vegetable oil
-- 1 large red onion (cut into wedges)
-- 4 medium tomatoes (deseeded; cut into wedges)
+- 1 red onion (large, cut into wedges)
+- 4 tomatoes (medium, deseeded; cut into wedges)
 - 2 long green chillies (sliced)
 - 4 tablespoons soy sauce
 - 2 tablespoons red wine vinegar
-- 2 tablespoons beef stock or water
-- Juice of 1 lime
+- 2 tablespoons beef stock (or water)
+- 1 lime (juice)
 - A small bunch of coriander (chopped)
 - Black pepper
 

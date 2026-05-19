@@ -15,7 +15,7 @@ Chicken meatballs represent the healthier, lighter side of Italian comfort food.
 
 ### Chicken Meatballs
 - 500 grams chicken mince
-- 60 grams Parmesan (freshly grated)
+- 60 grams Parmesan cheese (freshly grated)
 - 160 grams fresh white breadcrumbs
 - 2 garlic cloves (crushed)
 - 1 egg (beaten)
@@ -35,7 +35,7 @@ Chicken meatballs represent the healthier, lighter side of Italian comfort food.
 ### To Serve
 - 500 grams spaghetti
 - 2 tablespoons fresh oregano (finely chopped)
-- Extra Parmesan (for serving)
+- Extra Parmesan cheese (for serving)
 
 ## Method
 

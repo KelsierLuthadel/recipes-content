@@ -15,7 +15,8 @@ Boulangère potatoes are a classic French gratin of thinly sliced potatoes and s
 - 50 grams butter
 - 2 onions (sliced)
 - 675 grams potatoes (thinly sliced)
-- salt and freshly ground white pepper
+- salt
+- pepper
 - 450 ml hot chicken stock (or vegetable stock)
 
 ## Method

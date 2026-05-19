@@ -26,7 +26,7 @@ A simple batter of chickpea flour (also called gram flour or besan), water, oliv
 - Flaky sea salt
 - Extra coarse black pepper
 - 1 lemon (wedges, optional)
-- A small dish of olive oil for drizzling
+- A dish of olive oil for drizzling (small)
 - A glass of Provençal rosé (the traditional pairing)
 
 ## Method

@@ -21,10 +21,11 @@ A whole chicken poaches in water with onion, carrot and celery, building broth a
 - 2 bay leaves
 - 1 teaspoon black peppercorns
 - 2 litres water
-- 100 g long-grain rice or orzo
-- 3 large eggs
-- Juice of 2 lemons
-- Salt and freshly ground white pepper
+- 100 g long-grain rice (or orzo)
+- 3 eggs (large)
+- 2 lemons (juice)
+- salt
+- pepper
 - A small bunch of dill (chopped, to finish)
 
 ## Method

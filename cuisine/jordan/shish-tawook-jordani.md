@@ -18,7 +18,7 @@ Yogurt-based marinade with lemon, garlic, tomato puree, allspice, paprika and ol
 - 1 kg boneless skinless chicken thighs (cut into 3 cm cubes)
 - 300 ml plain yogurt
 - 4 tablespoons olive oil
-- Juice of 2 lemons
+- 2 lemons (juice)
 - 6 garlic cloves (crushed)
 - 2 tablespoons tomato puree
 - 2 teaspoons ground allspice
@@ -33,8 +33,8 @@ Yogurt-based marinade with lemon, garlic, tomato puree, allspice, paprika and ol
 - 1 lemon (cut into wedges)
 
 ### To serve
-- Garlic toum or yogurt sauce
-- 4 large pita or shrak breads
+- Garlic toum (or yogurt sauce)
+- 4 pita (large, or shrak breads)
 - Pickles (turnips, cucumbers)
 - Salata baladi
 

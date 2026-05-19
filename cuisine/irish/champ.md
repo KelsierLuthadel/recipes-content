@@ -18,7 +18,8 @@ Spring onions infuse hot milk for 10 minutes off the heat. Floury potatoes boil 
 - 250 ml whole milk
 - 1 large bunch spring onions (12-14; thinly sliced, white and green parts)
 - 100 g unsalted butter (plus more to serve)
-- Salt and white pepper
+- salt
+- pepper
 
 ## Method
 

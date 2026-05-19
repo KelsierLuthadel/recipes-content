@@ -15,8 +15,8 @@ Lamb chunks are browned hard; onion is softened in the same pot; tomato and pome
 ## Ingredients
 
 ### Stew
-- 800 g lamb shoulder or neck (cut into 4 cm chunks)
-- 3 tablespoons vegetable oil or samna
+- 800 g lamb shoulder (or neck, cut into 4 cm chunks)
+- 3 tablespoons vegetable oil (or samna)
 - 2 onions (chopped)
 - 6 garlic cloves (crushed)
 - 1 (400 g) tin chopped tomatoes
@@ -27,13 +27,13 @@ Lamb chunks are browned hard; onion is softened in the same pot; tomato and pome
 - ½ teaspoon ground cinnamon
 - 1 teaspoon ground black pepper
 - 2 bay leaves
-- 1 dried black lime (loomi, pierced) - optional
+- 1 dried black lime (loomi, pierced, optional)
 - 1 ½ teaspoons salt
-- 800 ml hot lamb or beef stock
+- 800 ml hot lamb stock (or beef stock)
 - 600 g small whole okra (fresh or frozen)
 
 ### Taqliya
-- 3 tablespoons butter or samna
+- 3 tablespoons butter (or samna)
 - 6 garlic cloves (crushed)
 - 1 small bunch fresh coriander (chopped)
 

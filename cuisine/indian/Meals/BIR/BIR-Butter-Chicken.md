@@ -24,7 +24,7 @@ A rich, creamy tomato-based curry with mild spice and buttery finish. A BIR-styl
 - Salt
 
 ### Base
-- 2 tbsp butter or oil
+- 2 tbsp butter (or oil)
 - 1 onion (150g), chopped
 - 1 tbsp ginger-garlic paste
 - 2 tbsp tomato paste
@@ -34,7 +34,7 @@ A rich, creamy tomato-based curry with mild spice and buttery finish. A BIR-styl
 - 3 tbsp cream
 - 1 tbsp butter
 - 1 tsp sugar
-- Â½ tsp garam masala
+- ½ tsp garam masala
 
 ---
 

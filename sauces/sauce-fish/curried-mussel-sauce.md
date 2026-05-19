@@ -27,7 +27,8 @@ A creamy, warmly spiced sauce featuring mussel cooking juices and curry powder. 
 - 500 ml cooking liquor from mussels and other shellfish (cooled)
 - 1 Bouquet garni
 - 150 ml double cream
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

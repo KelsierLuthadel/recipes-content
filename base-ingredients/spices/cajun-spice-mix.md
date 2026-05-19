@@ -17,7 +17,7 @@ Cajun spice mix is the heart of Louisiana cooking, a blend that speaks to the re
 ## Ingredients
 
 ### Base Vegetables (Finely Chopped)
-- 1 medium onion (finely chopped)
+- 1 onion (medium, finely chopped)
 - 2 garlic cloves (finely chopped)
 
 ### Whole Spices to Roast

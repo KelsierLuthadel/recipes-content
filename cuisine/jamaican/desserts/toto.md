@@ -26,7 +26,7 @@ A creamed-butter cake enriched with desiccated coconut (or fresh grated coconut)
 ### Wet
 - 175 g unsalted butter, softened
 - 200 g soft dark brown sugar
-- 3 large eggs, room temperature
+- 3 eggs (large), room temperature
 - 1 teaspoon vanilla extract
 - 150 ml coconut milk (full-fat tinned)
 - 2 tablespoons dark rum (optional)

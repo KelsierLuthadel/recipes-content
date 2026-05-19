@@ -25,25 +25,25 @@ A filling of minced pork and chopped prawn binds with coriander root (pounded wi
 - 1 teaspoon dark soy sauce (for colour)
 - 2 teaspoons caster sugar
 - 1 teaspoon sesame oil
-- 1 large egg (beaten, half for the filling, half for brushing)
+- 1 egg (large, beaten, half for the filling, half for brushing)
 - 1 tablespoon cornstarch
 - 2 dried shiitake mushrooms (soaked, finely chopped - optional, traditional)
 - 2 spring onions (finely chopped)
 
 ### Assembly
 - 20 square wonton wrappers (the thin yellow kind, sold at Asian shops in the chilled section)
-- 1 small carrot (peeled; thinly sliced into 20 small discs or julienne for topping)
+- 1 carrot (small, peeled; thinly sliced into 20 small discs or julienne for topping)
 
 ### Dipping sauce
 - 4 tablespoons black soy sauce (or 3 tablespoons regular soy + 1 tablespoon dark soy)
 - 2 tablespoons rice vinegar
 - 1 teaspoon caster sugar
 - 1-2 red Thai bird's-eye chillies (sliced thin)
-- 1 small garlic clove (very finely chopped)
+- 1 garlic clove (small, very finely chopped)
 
-### For steaming
+### Equipment
 - 1 bamboo steamer basket + matching lid (or any steamer setup)
-- Baking paper or a damp tea towel to line the basket
+- Baking paper (or a damp tea towel to line the basket)
 
 ## Method
 

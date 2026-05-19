@@ -22,8 +22,8 @@ A bowl of warm, slightly tangy tomato-and-lamb broth thickened by the starch of 
 ### Soup
 - 155 g lamb (diced small)
 - 50 ml olive oil
-- 1 medium turnip (purple-top or green-top, diced)
-- 1 medium potato (~120 g, diced small)
+- 1 turnip (medium, purple-top or green-top, diced)
+- 1 potato (medium, ~120 g, diced small)
 - 1 red sweet pepper (diced)
 - ½ green bell pepper (diced)
 - 25 g fresh ginger (finely chopped)
@@ -34,7 +34,7 @@ A bowl of warm, slightly tangy tomato-and-lamb broth thickened by the starch of 
 - 1 teaspoon black pepper
 - ½ teaspoon ground cumin
 - 1 teaspoon salt (to taste)
-- 1.5 litres water
+- 1 ½ litres water
 - 10 g fresh basil (roughly chopped, to finish)
 - 1 tablespoon black rice vinegar (optional, to finish)
 

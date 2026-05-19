@@ -15,8 +15,8 @@ Dried split fava beans soak overnight. Blitz with herbs, garlic, onion, leek, gr
 ## Ingredients
 
 - 400 g dried split fava beans (skinless - soaked 12 hours, drained)
-- 1 medium onion (chopped)
-- 1 medium leek (white part only, chopped)
+- 1 onion (medium, chopped)
+- 1 leek (medium, white part only, chopped)
 - 8 garlic cloves
 - 1 large bunch fresh parsley (40 g, stems and leaves)
 - 1 large bunch fresh coriander (40 g, stems and leaves)
@@ -26,7 +26,7 @@ Dried split fava beans soak overnight. Blitz with herbs, garlic, onion, leek, gr
 - 1 teaspoon ground black pepper
 - 1 ½ teaspoons salt
 - 1 teaspoon baking powder (added just before frying)
-- 1 small green chilli (optional)
+- 1 green chilli (small, optional)
 
 ### To finish
 - 3 tablespoons sesame seeds (for coating)
@@ -34,7 +34,7 @@ Dried split fava beans soak overnight. Blitz with herbs, garlic, onion, leek, gr
 
 ### To serve
 - Tahina salad (see recipe)
-- Aysh baladi or pita
+- Aysh baladi (or pita)
 - Pickled vegetables
 - Salata baladi
 

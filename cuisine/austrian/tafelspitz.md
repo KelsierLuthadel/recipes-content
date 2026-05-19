@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-A whole 1.5 kg piece of beef rump cap simmers very gently for 2 ½-3 hours with onions, roots and bones until tender but still sliceable. The broth comes to the table first, clarified and served with chives, semolina dumplings or fine pancake strips (Frittaten). The beef is then sliced and presented with apple-horseradish sauce, chive sauce, roast potatoes (Bratkartoffeln) and creamed spinach. Two courses, one pot.
+A whole 1 ½ kg piece of beef rump cap simmers very gently for 2 ½-3 hours with onions, roots and bones until tender but still sliceable. The broth comes to the table first, clarified and served with chives, semolina dumplings or fine pancake strips (Frittaten). The beef is then sliced and presented with apple-horseradish sauce, chive sauce, roast potatoes (Bratkartoffeln) and creamed spinach. Two courses, one pot.
 
 ## Ingredients
 
@@ -46,7 +46,8 @@ A whole 1.5 kg piece of beef rump cap simmers very gently for 2 ½-3 hours with 
 - 1 tablespoon white wine vinegar
 - 1 large bunch chives (finely snipped)
 - 4 tablespoons soured cream
-- Salt and white pepper
+- salt
+- pepper
 
 ### To serve
 - Roast potatoes (Bratkartoffeln) or buttered new potatoes

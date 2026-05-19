@@ -22,7 +22,8 @@ These are show-stopping pasta parcels filled with delicate cheese and fiery chor
 - 3 medium-hot chillies (de-seeded and finely chopped)
 - 750 grams fresh ricotta cheese
 - 3 tablespoons fresh flat leaf parsley (finely chopped)
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### To Cook & Finish
 - 200 ml extra virgin olive oil

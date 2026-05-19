@@ -20,7 +20,7 @@ Kroeung is pounded fresh from lemongrass, galangal, turmeric, garlic, shallots, 
 - 3 cm fresh turmeric (or 1 ½ teaspoons ground)
 - 6 garlic cloves
 - 4 shallots
-- Zest of 2 kaffir limes (or 4 lime leaves, central stems out, finely chopped)
+- 2 kaffir limes (or 4 lime leaves, central stems out, finely chopped, zest)
 - 1 small bunch coriander roots (cleaned)
 - 1 long red chilli
 - 1 teaspoon shrimp paste (skip for vegetarian; 1 teaspoon brown miso instead)
@@ -28,13 +28,13 @@ Kroeung is pounded fresh from lemongrass, galangal, turmeric, garlic, shallots, 
 ### Custard
 - 600 g white fish fillet (cod, basa, sea bass; cut into 3 cm chunks)
 - 250 ml thick coconut cream
-- 100 ml fish stock or water
-- 2 large eggs
+- 100 ml fish stock (or water)
+- 2 eggs (large)
 - 2 tablespoons fish sauce (or vegetarian fish sauce / soy)
 - 1 tablespoon palm sugar
 - 1 teaspoon salt
 - 1 small handful Thai basil (chopped)
-- 100 g spinach or noni leaves (shredded)
+- 100 g spinach (or noni leaves, shredded)
 
 ### To assemble
 - 4 banana leaves (cut into 18 cm squares; or use 4 ramekins)

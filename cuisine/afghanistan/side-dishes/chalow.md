@@ -17,7 +17,7 @@ Long-grain basmati rinses thoroughly until the water runs almost clear, then soa
 - 400 g basmati rice
 - 2 litres water (for the par-boil)
 - 1 tablespoon salt (for the par-boil)
-- 3 tablespoons vegetable oil or ghee
+- 3 tablespoons vegetable oil (or ghee)
 - ½ teaspoon salt (for the dum)
 
 ## Method

@@ -14,7 +14,7 @@ Eggs hard-boil for 9 minutes, cool fast in iced water, peel cleanly. The yolks g
 
 ## Ingredients
 
-- 6 large eggs (as fresh as practical; very fresh eggs are hard to peel, 1-week-old is ideal)
+- 6 eggs (large, as fresh as practical; very fresh eggs are hard to peel, 1-week-old is ideal)
 - 40 g unsalted butter (soft)
 - 2 tablespoons sour cream
 - 1 teaspoon Dijon mustard (or 1 teaspoon Hungarian mustard if you have it)
@@ -23,7 +23,7 @@ Eggs hard-boil for 9 minutes, cool fast in iced water, peel cleanly. The yolks g
 - ¼ teaspoon salt
 - Black pepper
 - A few drops of lemon juice
-- 1 tablespoon chives or flat-leaf parsley (finely chopped, to finish)
+- 1 tablespoon chives (or flat-leaf parsley, finely chopped, to finish)
 
 ## Method
 

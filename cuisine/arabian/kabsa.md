@@ -20,11 +20,11 @@ Chicken pieces or lamb shoulder brown; onions, garlic, ginger and tomato build t
 - 1 tablespoon salt
 
 ### Stock base
-- 2 large onions (chopped)
+- 2 onions (large, chopped)
 - 4 garlic cloves (crushed)
 - 2 cm ginger (grated)
 - 2 tablespoons tomato paste
-- 2 medium tomatoes (chopped) or 1 x 400 g tin
+- 2 tomatoes (medium, chopped) or 1 x 400 g tin
 - 2 dried limes (loomi; pierced)
 - 1 cinnamon stick
 - 6 cardamom pods (bashed)
@@ -45,10 +45,10 @@ Chicken pieces or lamb shoulder brown; onions, garlic, ginger and tomato build t
 
 ### Daqqus (salsa) - to serve
 - 4 tomatoes (chopped)
-- 1 small onion (finely chopped)
+- 1 onion (small, finely chopped)
 - 2 long green chillies (or jalapeños; chopped)
 - 4 garlic cloves (crushed)
-- Juice of 1 lemon
+- 1 lemon (juice)
 - A small bunch coriander (chopped)
 - 1 teaspoon salt
 

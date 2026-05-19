@@ -25,7 +25,7 @@ A clear, golden chicken broth fortified with a freshly pounded turmeric, lemongr
 
 ### Spice Paste
 - 1 stalk lemongrass (pale part only, finely chopped)
-- 6 small red Asian shallots (or 3 brown eschallots, roughly chopped)
+- 6 red Asian shallots (small, or 3 brown eschallots, roughly chopped)
 - 3 garlic cloves (roughly chopped)
 - 4 cm fresh turmeric (peeled and roughly chopped, or 1 teaspoon turmeric powder)
 - 3 cm ginger (peeled and roughly chopped)

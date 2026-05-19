@@ -13,7 +13,7 @@
 A litre and a half of full-fat milk is brought to a boil and reduced over medium heat for about an hour, stirring every few minutes, until it has shrunk to a third of its volume and gone the colour of pale toffee. Sugar, cardamom, ground pistachios and a touch of saffron go in once the reduction is complete. The mixture is poured into small conical moulds (or paper cups) and frozen hard. No churning; no ice cream maker; the dense texture comes from the long reduction.
 
 ## Ingredients
-- 1.5 litres full-fat milk (whole milk; semi-skimmed gives a thin kulfi)
+- 1 ½ litres full-fat milk (whole milk; semi-skimmed gives a thin kulfi)
 - 80 g caster sugar (adjust to taste; the milk concentrates so sweet is built in)
 - 2 tablespoons cornflour (mixed with 4 tablespoons cold milk; for body and to prevent ice crystals)
 - 50 g ground pistachios (or almonds)
@@ -21,7 +21,7 @@ A litre and a half of full-fat milk is brought to a boil and reduced over medium
 - ¼ teaspoon saffron threads
 - 2 tablespoons sweetened condensed milk (modern shortcut; gives extra body)
 - A pinch of salt
-- ½ teaspoon rose water or kewra water (optional)
+- ½ teaspoon rose water (or kewra water, optional)
 
 ### To finish
 - 30 g pistachios (slivered, for the moulds and the top)

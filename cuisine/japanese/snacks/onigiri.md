@@ -20,10 +20,19 @@ Short-grain Japanese rice (sushi rice) is rinsed several times until the water r
 - 1 teaspoon salt (to fold in after cooking, optional)
 
 ### Fillings (pick 1-2; each makes 4 onigiri)
-- **Umeboshi (classic)**: 4 umeboshi plums (whole; pitted; or 4 teaspoons umeboshi paste)
-- **Salmon flake (yaki shake)**: 200 g fresh salmon fillet + 1 teaspoon salt
-- **Tuna mayo (tsuna mayo)**: 1 (110 g) tin tuna in oil (drained); 2 tablespoons Japanese mayonnaise (Kewpie); 1 teaspoon light soy sauce
-- **Kombu (kombu no tsukudani)**: 30 g kombu seaweed simmered in soy sauce, sugar and mirin
+#### Umeboshi (classic)
+- 4 umeboshi plums (whole; pitted; or 4 teaspoons umeboshi paste)
+
+#### Salmon flake (yaki shake)
+- 200 g fresh salmon fillet + 1 teaspoon salt
+
+#### Tuna mayo (tsuna mayo)
+- 110 g tuna in oil (drained)
+- 2 tablespoons Japanese mayonnaise (Kewpie)
+- 1 teaspoon light soy sauce
+
+#### Kombu (kombu no tsukudani)
+- 30 g kombu seaweed simmered in soy sauce, sugar and mirin
 
 ### To shape and wrap
 - Cold water (for wetting hands)

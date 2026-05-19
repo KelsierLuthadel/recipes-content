@@ -15,13 +15,13 @@ Dried haricot beans soak overnight, then simmer with bacon and aromatics. Pork s
 ## Ingredients
 
 ### Beans
-- 500 g dried haricot or cannellini beans (soaked overnight)
-- 200 g pork belly or pancetta in one piece
+- 500 g dried haricot (or cannellini beans, soaked overnight)
+- 200 g pork belly (or pancetta in one piece)
 - 1 onion (whole, studded with 4 cloves)
 - 4 garlic cloves
 - 1 bouquet garni
 - 1 tablespoon tomato purée
-- 1 ½ litres chicken or duck stock
+- 1 ½ litres chicken (or duck stock)
 
 ### Meats
 - 4 confit duck legs (jarred or homemade)

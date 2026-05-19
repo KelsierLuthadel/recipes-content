@@ -89,7 +89,7 @@ Charring pepper skins under heat causes them to separate from the flesh, allowin
 Use for: Roasted pepper salads, antipasto, pasta dishes, tapas, sandwich fillings, soup bases, ratatouille
 Temperature: Room temperature or warm
 Storage: In olive oil to prevent oxidation and drying
-Amount: Half a pepper per serving
+Amount: ½ pepper per serving
 
 ## Storage
 - In an airtight container with olive oil cover, keeps refrigerated for up to 1 week

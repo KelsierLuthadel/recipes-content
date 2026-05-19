@@ -14,14 +14,14 @@ Red peppers char under a grill or in a hot oven until the skins blacken, then st
 
 ## Ingredients
 
-- 4 large red bell peppers (or 2 jars / 350 g drained jarred roasted red peppers)
+- 4 red bell peppers (large, or 2 jars / 350 g drained jarred roasted red peppers)
 - 150 g walnut halves (lightly toasted)
 - 60 g fresh breadcrumbs (from a day-old sourdough or pita)
 - 2 tablespoons pomegranate molasses
 - 1 tablespoon ground Aleppo pepper (or 1 ½ tsp paprika + ½ tsp chilli flakes)
 - 1 teaspoon ground cumin
 - 2 garlic cloves
-- Juice of ½ lemon
+- ½ lemon (juice)
 - 3 tablespoons extra-virgin olive oil (plus more to drizzle)
 - ½ teaspoon salt (to taste)
 

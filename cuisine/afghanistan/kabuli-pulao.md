@@ -17,7 +17,7 @@ Lamb shoulder browns then braises in spiced stock until tender, the stock is the
 ### Lamb
 - 1 kg lamb shoulder (cut into 6 cm chunks, bone-in if possible)
 - 2 tablespoons vegetable oil
-- 2 large onions (sliced)
+- 2 onions (large, sliced)
 - 6 garlic cloves (crushed)
 - 2 cm ginger (grated)
 - 4 cardamom pods (bashed)
@@ -29,7 +29,7 @@ Lamb shoulder browns then braises in spiced stock until tender, the stock is the
 - 2 teaspoons salt
 
 ### Carrots and raisins
-- 4 large carrots (julienned into matchsticks)
+- 4 carrots (large, julienned into matchsticks)
 - 50 g unsalted butter
 - 4 tablespoons caster sugar
 - 100 g raisins (or sultanas)

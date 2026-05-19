@@ -18,7 +18,8 @@ A lighter remix of the classic Buffalo wings format: the same flavour trio (Fran
 - 2 boneless skinless chicken breasts
 - 120 ml buffalo sauce (Frank's RedHot recommended)
 - 100 g blue cheese crumbles
-- Salt and pepper
+- salt
+- pepper
 - Olive oil, for drizzling
 - Sliced spring onions, to garnish (optional)
 

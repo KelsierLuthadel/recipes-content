@@ -17,14 +17,14 @@ Beef shank with bones browns in ghee; onions cook to deep golden; whole spices b
 ### Nihari
 - 1 ½ kg bone-in beef shank (or beef shin), cut into 4-5 cm pieces
 - 4 tablespoons ghee
-- 3 large onions (sliced thin)
+- 3 onions (large, sliced thin)
 - 8 garlic cloves (crushed)
 - 4 cm fresh ginger (grated)
 - 2 tablespoons nihari masala (see below) or store-bought
 - 1 tablespoon Kashmiri chilli powder
 - 1 teaspoon ground turmeric
 - 2 teaspoons salt
-- 2 litres beef stock or water
+- 2 litres beef stock (or water)
 
 ### Nihari masala (or use store-bought)
 - 1 tablespoon fennel seeds
@@ -49,7 +49,7 @@ Beef shank with bones browns in ghee; onions cook to deep golden; whole spices b
 - 1 teaspoon Kashmiri chilli powder
 
 ### To serve
-- Fresh naan or sheermal
+- Fresh naan (or sheermal)
 - Julienned fresh ginger
 - 2 long green chillies (sliced)
 - A small bunch fresh coriander (chopped)

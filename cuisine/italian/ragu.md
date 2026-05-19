@@ -16,7 +16,7 @@ True ragu demands patience, precision, and respect for the process. Ground beef 
 ### Meat & Aromatics
 - 2-3 tablespoons extra virgin olive oil
 - 500 grams ground beef (or 250g beef + 250g pork mix)
-- 75 grams pancetta or bacon (finely chopped, optional but recommended)
+- 75 grams pancetta (or bacon, finely chopped, optional but recommended)
 - 1 onion (finely diced)
 - 1 carrot (finely diced)
 - 1 celery stalk (finely diced)
@@ -24,14 +24,15 @@ True ragu demands patience, precision, and respect for the process. Ground beef 
 
 ### Building Depth
 - 1-2 tablespoons tomato paste
-- 150 ml dry red or white wine
-- 400 grams canned tomatoes or passata
-- 300 ml beef stock or water
-- 1 bay leaf or small sprig thyme (optional)
-- Salt and freshly ground black pepper
+- 150 ml dry red (or white wine)
+- 400 grams canned tomatoes (or passata)
+- 300 ml beef stock (or water)
+- 1 bay leaf (or small sprig thyme, optional)
+- salt
+- pepper
 
 ### Finishing
-- 1 tablespoon butter or extra virgin olive oil
+- 1 tablespoon butter (or extra virgin olive oil)
 - Pasta of choice (approximately 500 grams)
 - 1 cup reserved pasta water
 - Parmesan cheese (freshly grated, for serving)

@@ -15,21 +15,22 @@ Cauliflower florets blanch briefly so they're not raw but not cooked through. A 
 ## Ingredients
 
 ### Cauliflower
-- 1 large cauliflower (broken into large florets)
+- 1 cauliflower (large, broken into large florets)
 
 ### Sauce
 - 50 g unsalted butter
 - 50 g plain flour
 - 700 ml whole milk (warm)
-- 200 g mature cheddar (grated)
-- 50 g parmesan (grated)
+- 200 g mature cheddar cheese (grated)
+- 50 g parmesan cheese (grated)
 - 2 teaspoons English mustard (or Dijon)
 - A grating of nutmeg
-- Salt and freshly ground white pepper
+- salt
+- pepper
 
 ### Topping
-- 50 g panko or coarse breadcrumbs
-- 50 g cheddar (grated)
+- 50 g panko (or coarse breadcrumbs)
+- 50 g cheddar cheese (grated)
 - 30 g unsalted butter (melted)
 - A few sprigs of fresh thyme
 

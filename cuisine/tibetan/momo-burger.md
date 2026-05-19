@@ -16,12 +16,12 @@ A burger that eats with a Himalayan accent rather than a Western one. The season
 
 ### Patties
 - 500 g grass-fed beef mince (or chicken mince)
-- 1 small white onion (very finely chopped)
+- 1 white onion (small, very finely chopped)
 - 2 spring onions (finely chopped, whites and greens)
 - 4 garlic cloves (grated)
 - 25 g fresh ginger (grated)
 - 2 tablespoons light soy sauce (low-sodium)
-- 1 teaspoon ground Sichuan pepper (emma) - optional
+- 1 teaspoon ground Sichuan pepper (emma, optional)
 - ½ teaspoon salt
 - ½ teaspoon ground black pepper
 
@@ -29,7 +29,7 @@ A burger that eats with a Himalayan accent rather than a Western one. The season
 - 4 whole-wheat English muffins (or burger buns)
 - 3 tablespoons light mayonnaise
 - 1 white onion (thinly sliced into rings)
-- Shredded iceberg or romaine lettuce
+- Shredded iceberg (or romaine lettuce)
 - Tibetan sepen hot sauce (optional, see [sepen.md](side-dishes/sepen.md))
 
 ## Method
@@ -41,7 +41,7 @@ A burger that eats with a Himalayan accent rather than a Western one. The season
 
 ### Stage 2 - Shape
 1. Divide the mix into 4 equal portions.
-1. Form each into a slim patty about 1.5 cm thick (it'll plump on the grill).
+1. Form each into a slim patty about 1 ½ cm thick (it'll plump on the grill).
 
 ### Stage 3 - Cook
 1. **Grill or BBQ:** preheat to medium-high. Grill 4 minutes per side for medium.

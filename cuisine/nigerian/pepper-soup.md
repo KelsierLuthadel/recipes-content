@@ -14,8 +14,8 @@ Bone-in goat (or chicken or catfish, fish takes much less time) simmers in light
 
 ## Ingredients
 
-- 1 kg goat meat (bone-in, cut into 4 cm chunks) - or 1 whole chicken, jointed
-- 1 large onion (chopped)
+- 1 kg goat meat (bone-in, cut into 4 cm chunks, or 1 whole chicken, jointed)
+- 1 onion (large, chopped)
 - 6 garlic cloves (crushed)
 - 1 large thumb fresh ginger (grated)
 - 2 scotch bonnet chillies (whole, pierced - or chopped for extra heat)
@@ -25,7 +25,7 @@ Bone-in goat (or chicken or catfish, fish takes much less time) simmers in light
 - 2 Maggi chicken stock cubes
 - 1 ½ teaspoons salt (to taste)
 - 1.8 litres water
-- 1 small bunch scent leaf (efinrin) or fresh basil + a sprig of mint
+- 1 small bunch scent leaf (or fresh basil + a sprig of mint)
 - 2 spring onions (sliced, to finish)
 
 ### To serve

@@ -22,7 +22,7 @@ Balti chicken stock is a transformed use of the chicken carcass, the skeletal fr
 - 6 garlic cloves (quartered, approximately 30 grams)
 - 100 grams onion (coarsely sliced, approximately ½ medium onion)
 - 2 celery sticks (chopped into 3-4 centimeter pieces)
-- 1 large carrot (approximately 200 grams, chopped into chunks)
+- 1 carrot (large, approximately 200 grams, chopped into chunks)
 - 4 bay leaves (whole, dried preferred)
 
 ### Spice & Seasonings

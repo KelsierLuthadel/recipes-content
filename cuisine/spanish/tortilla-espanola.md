@@ -15,9 +15,9 @@ Potatoes slice thin and cook slowly in shallow olive oil with onions until soft,
 ## Ingredients
 
 - 600 g floury potatoes (peeled and sliced 3 mm thick)
-- 1 large onion (sliced thin)
+- 1 onion (large, sliced thin)
 - 300 ml olive oil
-- 6 large eggs
+- 6 eggs (large)
 - 1 ½ teaspoons salt
 - Black pepper
 

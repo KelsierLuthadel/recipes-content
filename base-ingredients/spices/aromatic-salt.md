@@ -37,7 +37,7 @@ Aromatic salt is specifically designed for British-Indian Balti cooking, a finis
 - ½ teaspoon ground fenugreek seeds
 - 1 teaspoon dried mint (finely crushed)
 - ½ teaspoon ground turmeric
-- ¼-½ teaspoon chilli powder
+- ½ teaspoon chilli powder
 
 **Nuts for Texture & Depth:**
 - 1 ½ tablespoons ground almond (finely ground)

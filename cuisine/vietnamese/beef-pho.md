@@ -24,7 +24,7 @@ This dish works best with raw beef that has been sliced paper thin, as it cooks 
 - 1 star anise
 - 4 cm fresh ginger (sliced)
 - 2 pigs trotters
-- half an onion studded with 2 cloves
+- ½ onion studded with 2 cloves
 - 2 lemon grass stems (pounded)
 - 2 garlic cloves (crushed)
 - ¼ teaspoons white pepper

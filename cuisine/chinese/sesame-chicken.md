@@ -23,11 +23,11 @@ This is a version of the fragrant Sichuan dish popularly known as 'Strange taste
 
 ### Sauce
 - 1 teaspoon dark soy sauce
-- 1 teaspoon cider or black rice vinegar
+- 1 teaspoon cider (or black rice vinegar)
 - ½ teaspoon chilli bean sauce
 - ½ teaspoon sesame oil
 - 1 teaspoon sugar
-- 2 teaspoons dry sherry or rice wine
+- 2 teaspoons dry sherry (or rice wine)
 - ½ teaspoon Sichuan peppercorns (roasted and ground)
 - 2 teaspoons spring onions (chopped)
 

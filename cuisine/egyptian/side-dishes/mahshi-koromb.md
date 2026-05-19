@@ -21,7 +21,7 @@ A large cabbage core-out, blanched briefly, leaves separated. Filling: short-gra
 ### Filling
 - 300 g short-grain rice (rinsed; not pre-cooked)
 - 400 g beef mince (or all rice for vegetarian)
-- 1 large onion (very finely chopped)
+- 1 onion (large, very finely chopped)
 - 4 garlic cloves (crushed)
 - 2 fresh tomatoes (very finely diced)
 - 3 tablespoons tomato puree
@@ -40,11 +40,11 @@ A large cabbage core-out, blanched briefly, leaves separated. Filling: short-gra
 - 1 tablespoon tomato puree
 - 2 tablespoons olive oil
 - 1 teaspoon salt
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 litre hot water (or beef stock)
 
 ### Base
-- 2 medium tomatoes (sliced - line the pot)
+- 2 tomatoes (medium, sliced - line the pot)
 
 ## Method
 

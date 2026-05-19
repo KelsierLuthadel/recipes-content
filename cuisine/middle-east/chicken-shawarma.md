@@ -17,7 +17,7 @@ Boneless chicken thighs swim in a yogurt-spice marinade for at least 4 hours. Th
 ### Marinade
 - 1 kg boneless chicken thighs (skin on or off)
 - 200 g Greek yogurt
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 4 tablespoons olive oil
 - 6 garlic cloves (crushed)
 - 2 teaspoons ground cumin
@@ -32,9 +32,9 @@ Boneless chicken thighs swim in a yogurt-spice marinade for at least 4 hours. Th
 - A pinch of cayenne
 
 ### To serve
-- Warm pita or flatbread
+- Warm pita (or flatbread)
 - Toum (garlic sauce) or tahini sauce
-- Pickled turnips or red onion
+- Pickled turnips (or red onion)
 - A small bunch of parsley
 - Lemon wedges
 

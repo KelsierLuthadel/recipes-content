@@ -16,8 +16,8 @@ This is a very popular Chinese dish where the sweet and pungent flavours of the 
 
 ### Protein & Vegetables
 - 225 grams prawns (shelled and de-veined)
-- 110 grams tinned or fresh water chestnuts (drained, sliced)
-- 75 grams red or green pepper (roughly chopped)
+- 110 grams tinned chestnuts (or fresh water chestnuts, drained, sliced)
+- 75 grams red bell pepper (or green bell pepper, roughly chopped)
 - 2 spring onions
 
 ### Cooking
@@ -26,7 +26,7 @@ This is a very popular Chinese dish where the sweet and pungent flavours of the 
 
 ### Sauce
 - 70 ml Chinese chicken stock
-- 1 tablespoon dry sherry or rice wine
+- 1 tablespoon dry sherry (or rice wine)
 - 2 teaspoons light soy sauce
 - 1 tablespoon tomato purée
 - 1 tablespoon cider vinegar

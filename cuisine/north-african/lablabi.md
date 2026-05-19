@@ -22,10 +22,10 @@ Chickpeas (pre-soaked overnight and slow-cooked, OR tinned for speed) simmer in 
 - 2 tablespoons olive oil
 - 1 teaspoon salt (to taste)
 - ½ teaspoon black pepper
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ### Per bowl (toppings)
-- 2 thick slices stale baguette or country bread, torn into bite pieces
+- 2 thick slices stale baguette (or country bread), torn into bite pieces
 - 1 egg (soft-boiled 6 minutes, or freshly poached)
 - 1 teaspoon harissa paste
 - 1 tablespoon extra-virgin olive oil

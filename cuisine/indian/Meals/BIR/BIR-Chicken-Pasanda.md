@@ -22,7 +22,7 @@ British-Indian Pasanda is a mild, creamy curry based on almond and coconut richn
 - 3 tbsp coconut flour
 - 3 tbsp ground almonds
 - 2 tbsp sugar
-- About 20 sultanas
+- 20 sultanas
 
 ### Curry sauce
 - 500 ml (2 cups) base curry sauce (see B.I.R Curry Base), heated

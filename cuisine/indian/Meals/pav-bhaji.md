@@ -15,17 +15,17 @@ Potatoes, cauliflower, peas boil until tender. A masala base softens onions and 
 ## Ingredients
 
 ### Boiled vegetables
-- 2 large potatoes (about 350 g, peeled, cubed 2 cm)
+- 2 potatoes (large, about 350 g, peeled, cubed 2 cm)
 - 200 g cauliflower florets
 - 100 g frozen peas
-- 1 small carrot (peeled, diced)
+- 1 carrot (small, peeled, diced)
 - 1 teaspoon salt
 - Water to cover
 
 ### Bhaji
 - 80 g unsalted butter (plus more to finish)
 - 2 tablespoons vegetable oil
-- 1 large onion (finely diced)
+- 1 onion (large, finely diced)
 - 1 tablespoon ginger-garlic paste
 - 2 green chillies (finely chopped)
 - 1 green capsicum (deseeded, finely diced)
@@ -42,7 +42,7 @@ Potatoes, cauliflower, peas boil until tender. A masala base softens onions and 
 - 8 pav rolls (soft milk bread; substitute: brioche buns or soft hot-dog rolls)
 - 40 g butter (for griddling the pav)
 - 1 teaspoon pav bhaji masala (for the pav)
-- 1 small red onion (very finely diced)
+- 1 red onion (small, very finely diced)
 - 2 lemons (cut into wedges)
 - Extra coriander (chopped)
 

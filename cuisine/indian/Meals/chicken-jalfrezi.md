@@ -12,7 +12,7 @@
 A quick stir-fried curry with crunchy bell peppers, onion wedges and fresh tomato around tender chicken in a tomato-and-chilli sauce. Medium-hot, dry-ish (no cream), with the vegetables retaining bite. The dish that was invented to use up leftover Sunday roast meat with fresh aromatics.
 
 ## Ingredients
-- 4 tbsp rapeseed oil or seasoned oil
+- 4 tbsp rapeseed oil (or seasoned oil)
 - 1 onion, thinly sliced 
 - 1 red pepper (bell pepper), deseeded and thinly sliced 
 - 3 green bird’s-eye chillies, roughly chopped 
@@ -23,7 +23,7 @@ A quick stir-fried curry with crunchy bell peppers, onion wedges and fresh tomat
 - 1 tsp chilli powder
 - 500ml [base curry sauce](../Base/curry-base.md) (heated)
 - 700g [pre-cooked stewed chicken](../Base/curry-base.md)
-- 100ml of curry base or stock from [pre-cooked stewed chicken](../Base/curry-base.md)
+- 100ml of curry base (or stock from [pre-cooked stewed chicken], ../Base/curry-base.md)
 - 2 tomatoes, quartered 
 - 1 tsp dried fenugreek leaves 
 - 1 tsp [garam masala](../Spice-Mixes/garam-masala.md)

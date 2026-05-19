@@ -13,7 +13,7 @@
 - 100 grams raisins
 - 1 tablespoon rum (optional)
 - 4 apples
-- juice of 1 lemon
+- 1 lemon (juice)
 - 60 grams caster sugar
 - 1 teaspoon ground cinnamon
 - 30 grams icing sugar

@@ -25,7 +25,7 @@ Onion bhajis are the simplest fritters yet utterly addictive. Thinly sliced onio
 - Salt to taste
 
 ### Fresh Elements & Vegetables
-- 3 large onions (sliced thinly)
+- 3 onions (large, sliced thinly)
 - 6 fresh curry leaves
 
 ### For Cooking

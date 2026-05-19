@@ -15,13 +15,13 @@ Bhuna means "fried" or "sauteed"; the dish is dry-style, with the sauce cooked r
 
 ## Ingredients
 - 3 tbsp Vegetable Oil
-- 1 Small Onion (finely chopped)
+- 1 Onion (small, finely chopped)
 - 5 Pieces [Pre-cooked Lamb](../Base/pre-cooked-lamb.md)
 - Pinch Salt
 - 2 tsp Fenugreek Leaves
 - 1 tsp Cumin Seeds
 - 1 tsp Turmeric Powder
-- 2 tbsp Garlic/Ginger Paste
+- 2 tbsp Garlic (or Ginger) Paste
 - 2 Fresh green Chillies (finely chopped)
 - 2 tbsp tomato purée 
 - 1 Tomato (diced)

@@ -19,8 +19,8 @@ Dried black-eyed beans soak briefly to loosen the skins. The skins rub off; the 
 - 250 ml warm water (for soaking)
 
 ### Blender
-- 1 large red bell pepper (deseeded, chunked)
-- 1 large red onion (chunked)
+- 1 red bell pepper (large, deseeded, chunked)
+- 1 red onion (large, chunked)
 - 1-2 Scotch bonnet chillies (to taste)
 - 4 garlic cloves
 - 2 cm fresh ginger
@@ -41,7 +41,7 @@ Dried black-eyed beans soak briefly to loosen the skins. The skins rub off; the 
 
 ### To steam
 - A wide deep pot
-- 6 small ramekins (180 ml each) - OR cleaned banana leaves
+- 6 ramekins (small, 180 ml each, OR cleaned banana leaves)
 - A round of foil to seal the pot
 
 ## Method

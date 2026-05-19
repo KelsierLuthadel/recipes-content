@@ -30,7 +30,8 @@ A delicate, sophisticated sauce featuring orange liqueur richness balanced by li
 
 ### Finishing
 - 230 grams butter (chilled and diced)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

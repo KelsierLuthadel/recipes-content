@@ -34,7 +34,7 @@ Although there is no rule about how to cut your chicken for this popular Thai st
 - 1 ½ tsp dark soy sauce*
 
 ### Herbs
-- Large handful of Thai holy basil leaves, finely or roughly chopped
+- Large handful of Thai holy basil leaves, finely (or roughly chopped)
 
 ## Method
 

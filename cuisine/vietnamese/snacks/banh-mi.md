@@ -16,17 +16,17 @@ A good bánh mì is mostly assembly. The bread should be light and crackly, the 
 ## Ingredients
 
 ### Bread
-- 2 small Vietnamese baguettes or short French baguettes (each about 25 cm long, with thin crusts)
+- 2 Vietnamese baguettes (small, or short French baguettes, each about 25 cm long, with thin crusts)
 
 ### Spread
-- 4 tablespoons good-quality smooth pork or chicken pâté (Brussels-style if available)
-- 4 tablespoons Kewpie or other Japanese-style mayonnaise
+- 4 tablespoons good-quality smooth pork (or chicken pâté, Brussels-style if available)
+- 4 tablespoons Kewpie (or other Japanese-style mayonnaise)
 
 ### Filling
 - 8 thin slices of Vietnamese pork roll (chả lụa) or cooked ham
 - 4 slices of Vietnamese head cheese (giò thủ) or cooked pork shoulder
 - 4 slices of char siu (Chinese roast pork) or grilled pork belly (optional but classic)
-- 1 small cucumber (cut into long batons)
+- 1 cucumber (small, cut into long batons)
 - 150 g dưa chua (Vietnamese pickled carrot and daikon, see do-chua recipe)
 - 1 bird's-eye chilli (thinly sliced; deseed for less heat)
 - A large handful coriander (whole sprigs, stems on)

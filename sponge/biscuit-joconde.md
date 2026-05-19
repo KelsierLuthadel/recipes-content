@@ -20,10 +20,10 @@ Biscuit joconde is the apotheosis of French patisserie elegance: a delicate, pap
 ### Egg Components
 - 5 whole eggs (room temperature)
 - 5 egg whites (room temperature)
-- 25 grams granulated or caster sugar
+- 25 grams granulated (or caster sugar)
 
 ### Flour & Fat
-- 50 grams cake flour or soft flour (sifted)
+- 50 grams cake flour (or soft flour, sifted)
 - 40 grams unsalted butter (melted and cooled)
 - 30 grams unsalted butter (for greasing baking sheet, optional)
 

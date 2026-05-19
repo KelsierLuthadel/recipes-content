@@ -28,10 +28,10 @@ Spice-heavy paste for massaman curries, with Muslim roots. More spices than othe
 ### Chillies and aromatics
 - 12 dried red bird’s eye chillies, soaked in water for 30 minutes and cut into small pieces
 - 8 garlic cloves, smashed
-- 2-3 small shallots, thinly sliced
+- 2-3 shallots (small), thinly sliced
 - 1 long lemongrass stalk (white part only), thinly sliced (about 3 generous tbsp)
 - 1 thumb-sized piece galangal, sliced into thin rounds
-- Zest of ½ lime
+- ½ lime (zest)
 - 3 lime leaves (fresh or frozen)
 
 ### Paste

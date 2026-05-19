@@ -18,12 +18,12 @@ A whole chicken is spatchcocked (backbone removed, pressed flat). The piri-piri 
 - 1 ½ kg whole chicken (spatchcocked - backbone removed, bird flattened)
 
 ### Marinade and sauce
-- 8-12 African bird's-eye chillies (piri-piri, also sold as African Devil chilli) - adjust to heat tolerance
+- 8-12 African bird's-eye chillies (piri-piri, also sold as African Devil chilli, adjust to heat tolerance)
 - 8 garlic cloves
 - 1 tablespoon smoked paprika
 - 1 teaspoon sweet paprika
-- Zest of 1 lemon
-- Juice of 2 lemons (about 4 tablespoons)
+- 1 lemon (zest)
+- 2 lemons (about 4 tablespoons, juice)
 - 3 tablespoons white wine vinegar
 - 4 tablespoons olive oil
 - 2 teaspoons salt

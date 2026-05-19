@@ -19,19 +19,22 @@ This is the essence of pizza. A thin, crisp crust topped with a simple tomato sa
 - 200 grams plum tomatoes (tinned)
 - 1 teaspoon dried oregano
 - 1 tablespoon extra virgin olive oil
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Marinated Cherry Tomatoes
 - 120 grams cherry tomatoes
 - 60 ml extra virgin olive oil
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Topping
 - 150 grams buffalo mozzarella (fresh)
 - 24 fresh basil leaves (or more)
 - 1 teaspoon dried oregano
 - Extra virgin olive oil for drizzling
-- Salt and cracked pepper
+- salt
+- pepper
 
 ## Method
 

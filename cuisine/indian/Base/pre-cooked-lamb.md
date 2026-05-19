@@ -13,7 +13,7 @@
 - 3 lbs Lamb, diced with fat and skin cut off
 - 2 onions, finely diced
 - 1 tbsp Cumin seeds
-- 2 tbsp Garlic/Ginger paste
+- 2 tbsp Garlic (or Ginger) paste
 - 2 tbsp Tomato Purée 
 - 1 tsp Coriander Powder
 - 1 tsp Chilli Powder

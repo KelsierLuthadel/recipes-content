@@ -17,16 +17,17 @@ A bowl dinner that punches above its ingredient list. Sirloin is sliced into thi
 ### Beef and marinade
 - 900 g sirloin steak, sliced into thin strips
 - 4 garlic cloves, finely minced
-- 30 g fresh ginger, finely sliced or grated
+- 30 g fresh ginger, finely sliced (or grated)
 - 120 ml soy sauce
 - 60 ml rice vinegar
-- 1 medium white onion, thinly sliced
+- 1 white onion (medium), thinly sliced
 - 12 g brown sugar
 
 ### To cook and serve
 - 15 ml extra virgin olive oil
 - 400 g uncooked long grain white rice
-- Salt and pepper, to taste
+- salt
+- pepper
 - Spring onions, sliced (to garnish)
 - Sesame seeds (to garnish)
 

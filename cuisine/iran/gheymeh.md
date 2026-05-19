@@ -16,19 +16,19 @@ Onion fries dark gold; turmeric, cinnamon and meat brown in. Tomato puree, hot s
 
 - 700 g lamb shoulder (or beef chuck) - 3 cm cubes
 - 3 tablespoons vegetable oil
-- 2 large onions (chopped)
+- 2 onions (large, chopped)
 - 1 teaspoon ground turmeric
 - ½ teaspoon ground cinnamon
 - 1 teaspoon ground black pepper
 - 3 tablespoons tomato puree
-- 4 dried black limes (loomi) - pierced
+- 4 dried black limes (loomi, pierced)
 - 1 large pinch saffron threads (bloomed in 2 tablespoons hot water)
 - 1.2 litres hot stock
 - 1 ½ teaspoons salt (to taste)
 - 200 g yellow split peas (soaked 1 hour, drained)
 
 ### Matchstick potatoes
-- 2 large potatoes (peeled, cut into 4 mm matchsticks)
+- 2 potatoes (large, peeled, cut into 4 mm matchsticks)
 - 500 ml vegetable oil for frying
 - Salt for finishing
 

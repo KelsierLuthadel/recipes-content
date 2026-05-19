@@ -20,7 +20,7 @@ A simple yeasted bread dough, plain flour, fast-action yeast, salt, sugar, olive
 - 1 tablespoon caster sugar
 - 2 tablespoons olive oil
 - 320 ml warm water
-- 1 teaspoon black sesame or nigella seeds (optional, for the top)
+- 1 teaspoon black sesame (or nigella seeds, optional, for the top)
 
 ## Method
 

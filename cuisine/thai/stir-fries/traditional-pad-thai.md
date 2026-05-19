@@ -28,7 +28,7 @@ Pad thai began as a 1930s government-promoted national dish during a campaign to
 - 2 tablespoons dried shrimp
 - 50 grams firm tofu (finely diced)
 - 2 eggs (lightly whisked)
-- ½ cup Chinese garlic chives or spring onion (cut into batons)
+- ½ cup Chinese garlic chives (or spring onion, cut into batons)
 - ¼ cup bean sprouts
 
 ### To Serve
@@ -72,7 +72,7 @@ Pad thai began as a 1930s government-promoted national dish during a campaign to
 3. Serve with chilli powder and lime wedges on the side.
 
 ## Notes
-- **Pickled radish (chai po):** Salty-sweet fermented daikon, sold at Asian grocers. It's the traditional crunch in pad thai. The recipe still works without it; just bump the fish sauce by half a teaspoon.
+- **Pickled radish (chai po):** Salty-sweet fermented daikon, sold at Asian grocers. It's the traditional crunch in pad thai. The recipe still works without it; just bump the fish sauce by ½ teaspoon.
 - **Tamarind:** Look for tamarind puree or concentrate in the Asian aisle. If you only have tamarind block, soak 30 g in 60 ml hot water, mash, and strain to get the puree.
 - **Palm sugar:** Sold in small discs or jars. Grate it finely so it dissolves cleanly into the sauce.
 - **Wok hei:** A high heat is essential. The noodles should pick up a hint of char, not steam in their own moisture.

@@ -19,11 +19,11 @@ Very ripe (almost black-skinned) plantains peel and slice in half lengthways, th
 - 4 tablespoons neutral oil (for the first fry)
 
 ### Filling
-- 200 g mozzarella or queso fresco (cut into 8 cubes about 2 × 2 × 1.5 cm)
+- 200 g mozzarella (or queso fresco, cut into 8 cubes about 2 × 2 × 1 ½ cm)
 
 ### Batter
 - 100 g plain flour
-- 2 large eggs
+- 2 eggs (large)
 - 100 ml whole milk
 - 2 tablespoons caster sugar
 - ½ teaspoon salt

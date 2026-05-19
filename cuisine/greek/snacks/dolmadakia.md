@@ -19,14 +19,14 @@ Brined vine leaves are soaked for 20 minutes to leach the brine. Filling: short-
 
 ### Filling
 - 4 tablespoons olive oil
-- 1 large onion (finely diced)
+- 1 onion (large, finely diced)
 - 200 g short-grain rice (pudding rice or arborio)
 - 30 g pine nuts (lightly toasted)
 - 30 g currants
 - 30 g fresh dill (chopped)
 - 20 g fresh mint (leaves only, chopped)
 - 30 g fresh flat-leaf parsley (chopped)
-- Zest of 1 lemon
+- 1 lemon (zest)
 - 200 ml hot water
 - 1 teaspoon salt
 - ½ teaspoon ground black pepper
@@ -35,7 +35,7 @@ Brined vine leaves are soaked for 20 minutes to leach the brine. Filling: short-
 ### Cooking liquid
 - 4 tablespoons olive oil
 - 3 tablespoons lemon juice
-- 400 ml hot water or light vegetable stock
+- 400 ml hot water (or light vegetable stock)
 - 1 teaspoon salt
 
 ### To serve

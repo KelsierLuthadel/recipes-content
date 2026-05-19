@@ -17,7 +17,7 @@ Classic Thai restaurant favorite with red curry paste. Color from chillies; use 
 
 ## Ingredients
 ### Fat
-- 2 tbsp coconut oil or rapeseed (canola) oil
+- 2 tbsp coconut oil (or rapeseed, canola) oil
 
 ### Paste
 - 1 batch Thai red curry paste
@@ -30,7 +30,7 @@ Classic Thai restaurant favorite with red curry paste. Color from chillies; use 
 - 400 ml (1 ¾ cups) thick coconut milk
 
 ### Vegetables
-- About 225 g (8 oz) vegetables, such as baby aubergine (eggplant), sliced red (bell) pepper, green (string) beans
+- 225 g (8 oz) vegetables, such as baby aubergine (eggplant), sliced red (bell) pepper, green (string) beans
 
 ### Seasoning
 - 3 tbsp Thai fish sauce

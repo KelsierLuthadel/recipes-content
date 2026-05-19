@@ -14,9 +14,9 @@ Vegetables are julienned thin so the brine penetrates fast. Salt drains them bri
 
 ## Ingredients
 
-- 1 medium daikon radish (200 g; julienned)
-- 2 medium carrots (julienned)
-- 1 small cucumber (deseeded and julienned)
+- 1 daikon radish (medium, 200 g; julienned)
+- 2 carrots (medium, julienned)
+- 1 cucumber (small, deseeded and julienned)
 - 1 teaspoon salt (for the initial drain)
 
 ### Brine

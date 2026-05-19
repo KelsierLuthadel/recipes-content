@@ -16,7 +16,8 @@ Centre-cut beef fillet is seared hard for colour, smeared with English mustard, 
 
 ### Beef
 - 1 kg piece centre-cut beef fillet (chateaubriand)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - 1 tablespoon vegetable oil
 - 2 tablespoons English mustard
 
@@ -26,8 +27,9 @@ Centre-cut beef fillet is seared hard for colour, smeared with English mustard, 
 - 2 banana shallots (finely chopped)
 - 2 garlic cloves (crushed)
 - 1 tablespoon fresh thyme leaves
-- 50 ml dry sherry or Madeira
-- Salt and freshly ground black pepper
+- 50 ml dry sherry (or Madeira)
+- salt
+- pepper
 
 ### To wrap and bake
 - 8-10 slices prosciutto (about 100 g)

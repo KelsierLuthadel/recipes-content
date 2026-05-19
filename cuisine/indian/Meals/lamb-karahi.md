@@ -26,7 +26,7 @@ Cooked in a karahi (two-handled wok-like pan) over high heat: lamb chunks simmer
 - 2 tbsp garlic and ginger paste 
 - 1 quantity [fried onions](../Base/fried-onion-paste.md)
 - 1 tbsp pungent dried red chilli flakes 
-- 2 large tomatoes (diced )
+- 2 tomatoes (large, diced )
 - 1 ½ tbsp ground cumin 
 - 1 ½ tbsp ground coriander 
 - 1 tbsp Kashmiri chilli powder 

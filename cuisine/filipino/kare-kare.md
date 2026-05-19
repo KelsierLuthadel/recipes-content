@@ -25,7 +25,7 @@ Oxtail simmers slow with aromatics until the meat is falling-tender. The cooking
 - Salt
 
 ### Sauce
-- 4 tablespoons annatto seeds (achuete) - or 1 teaspoon paprika as substitute
+- 4 tablespoons annatto seeds
 - 4 tablespoons vegetable oil
 - 1 onion (chopped)
 - 6 garlic cloves (crushed)
@@ -35,13 +35,13 @@ Oxtail simmers slow with aromatics until the meat is falling-tender. The cooking
 
 ### Vegetables
 - 200 g green beans (trimmed, cut into 5 cm)
-- 1 small aubergine (sliced)
+- 1 aubergine (small, sliced)
 - 1 bunch pak choi (or bok choy), separated into leaves
 - 4 spring onions (sliced)
 
 ### To serve
 - Cooked white rice
-- Bagoong (Filipino fermented shrimp paste) - find at any Filipino or Asian shop
+- Bagoong (Filipino fermented shrimp paste, find at any Filipino or Asian shop)
 
 ## Method
 

@@ -20,7 +20,7 @@ Basmati is parboiled with saffron, orange colouring, whole cardamom and cinnamon
 - ¼ teaspoon saffron threads
 - 1 teaspoon orange food colouring (or a generous pinch of saffron alone)
 - 4 green cardamom pods
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 4 cloves
 - 1 teaspoon salt
 
@@ -35,8 +35,8 @@ Basmati is parboiled with saffron, orange colouring, whole cardamom and cinnamon
 - 30 g flaked almonds (lightly toasted)
 - 30 g cashew halves (lightly toasted in ghee)
 - 30 g pistachios (slivered)
-- 50 g candied or glacé fruit (mixed; cherries, orange peel, melon seed; traditional but optional)
-- 20 g charoli or sunflower seeds (optional)
+- 50 g candied (or glacé fruit, mixed; cherries, orange peel, melon seed; traditional but optional)
+- 20 g charoli (or sunflower seeds, optional)
 
 ### To finish
 - 1 tablespoon rose water (or kewra water; or a 50/50 mix, the Lahori signature)

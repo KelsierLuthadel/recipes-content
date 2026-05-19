@@ -25,7 +25,7 @@ Mini beef meatballs are first browned, then finished simmering in a quick passat
 ### Pizza
 - Plain flour (for dusting)
 - 2 balls of [pizza dough](basic-pizza-dough.md)
-- 100 grams cooking mozzarella (diced or grated)
+- 100 grams mozzarella (mozzarella block, diced or grated)
 - 2 spicy cured sausages, e.g. Peperami (sliced)
 - 12 slices pepperoni
 - ½ green pepper (sliced)

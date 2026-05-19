@@ -24,7 +24,8 @@ A crystal-clear, jewel-coloured consommé featuring ripe tomato and fragrant bas
 - 50 grams basil leaves (coarsely chopped)
 - 4 egg whites
 - 8 peppercorns (crushed)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

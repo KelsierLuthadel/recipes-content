@@ -19,23 +19,23 @@ Chicken pieces simmer with onion, thyme, curry powder, salt and bay until tender
 - 2 tablespoons curry powder (Nigerian-style if possible)
 - 2 teaspoons dried thyme
 - 2 stock cubes (Maggi or knorr)
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 6 garlic cloves (crushed)
 - 4 cm ginger (grated)
 - 1 teaspoon salt
 - 1 litre water
 
 ### Pepper sauce (the base)
-- 4 large ripe tomatoes (around 600 g)
-- 2 large red bell peppers (deseeded)
+- 4 ripe tomatoes (large, around 600 g)
+- 2 red bell peppers (large, deseeded)
 - 2-3 scotch bonnet peppers (deseeded; 1 for mild, 3 for proper Nigerian heat)
-- 1 medium onion (quartered)
+- 1 onion (medium, quartered)
 - 2 cm ginger
 - 4 garlic cloves
 
 ### Pot
 - 100 ml vegetable oil (palm oil for a more traditional flavour, vegetable oil for a lighter version)
-- 1 large onion (sliced)
+- 1 onion (large, sliced)
 - 4 tablespoons tomato paste
 - 1 tablespoon curry powder
 - 1 tablespoon dried thyme
@@ -46,7 +46,7 @@ Chicken pieces simmer with onion, thyme, curry powder, salt and bay until tender
 - 600 g long-grain rice (rinsed until the water runs clear)
 
 ### Topping
-- A small handful of fresh basil or curry leaves (optional)
+- A small handful of fresh basil (or curry leaves, optional)
 - 4 spring onions (sliced)
 
 ## Method

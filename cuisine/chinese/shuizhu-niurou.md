@@ -21,7 +21,7 @@ Two sensations at once: the bright, immediate burn of dried chilli (la) sitting 
 - 1 egg white
 - 2 tablespoons cornflour (cornstarch)
 - 1 teaspoon neutral oil
-- 1/2 teaspoon salt
+- ½ teaspoon salt
 
 ### Aromatic broth
 - 3 tablespoons neutral oil (vegetable or rapeseed)
@@ -39,7 +39,6 @@ Two sensations at once: the bright, immediate burn of dried chilli (la) sitting 
 ### Bed of greens
 - 200 g bean sprouts
 - 200 g Napa cabbage (or bok choy), torn into wide pieces
-- Or 1 head of celtuce / 200 g lettuce ribs - any quick-cooking green works
 
 ### Top dressing and finishing oil
 - 3 tablespoons whole dried Sichuan chillies (broken)

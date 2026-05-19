@@ -15,13 +15,13 @@ Three asazuke pickles in one batch. Cucumber: salted heavily, weighted for 1 hou
 ## Ingredients
 
 ### Pickle 1 - Cucumber (kyuri no asazuke)
-- 2 small Japanese / Persian cucumbers (or ½ English cucumber, deseeded)
+- 2 Japanese (or Persian cucumbers, small, or ½ English cucumber, deseeded)
 - 1 teaspoon fine salt
 - 1 tablespoon rice vinegar
 - 1 teaspoon caster sugar
 - 1 strip kombu (about 5 cm - sold dried at Japanese / Asian shops; soaked in 1 tablespoon water for 5 minutes)
 - 1 teaspoon toasted sesame seeds
-- 1 small red chilli (sliced thin, optional)
+- 1 red chilli (small, sliced thin, optional)
 
 ### Pickle 2 - Daikon (daikon no amazu-zuke)
 - 200 g daikon radish (peeled, sliced into 3 mm rounds or julienned)
@@ -31,7 +31,7 @@ Three asazuke pickles in one batch. Cucumber: salted heavily, weighted for 1 hou
 - 1 strip lemon zest (yellow part only)
 
 ### Pickle 3 - Chinese cabbage with shiso (hakusai no asazuke)
-- 200 g Chinese cabbage / napa cabbage (sliced 5 mm crosswise)
+- 200 g Chinese cabbage (or napa cabbage, sliced 5 mm crosswise)
 - ½ teaspoon fine salt
 - 4 shiso leaves (sold at Japanese / Asian shops - or substitute fresh basil leaves + a pinch of fennel seed)
 - 1 small piece kombu (3 cm, optional)

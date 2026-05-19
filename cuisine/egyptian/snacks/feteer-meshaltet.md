@@ -18,23 +18,23 @@ A soft elastic dough rests; divides into 2 balls. Each ball stretches paper-thin
 - 400 g plain flour
 - ½ teaspoon salt
 - 1 teaspoon caster sugar
-- 1 large egg
+- 1 egg (large)
 - 60 ml whole milk (warm)
 - 200 ml water (warm)
 - 1 teaspoon fast-action yeast (optional; some recipes skip; gives slightly puffier result)
 
 ### For laminating
-- 150 g ghee or unsalted butter (melted) - Egyptian feteer traditionally uses samna, which is clarified butter / ghee
+- 150 g ghee (or unsalted butter, melted, Egyptian feteer traditionally uses samna, which is clarified butter / ghee)
 
 ### Sweet topping (choose one or assemble at the table)
-- Honey or date molasses
+- Honey (or date molasses)
 - A drizzle of tahini whisked with the molasses
 - Soft white cheese (like a mild Egyptian areesh, or substitute ricotta)
 - Sweetened condensed milk
 - Powdered sugar dusting
 
 ### Savoury topping (optional - for the assembled meshaltet)
-- 150 g feta (crumbled)
+- 150 g feta cheese (crumbled)
 - 50 g melting cheese (mozzarella, grated)
 - 2 tablespoons fresh dill (chopped)
 

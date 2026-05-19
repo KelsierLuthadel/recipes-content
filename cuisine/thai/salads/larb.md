@@ -15,15 +15,15 @@ Sticky rice toasts in a dry pan to a deep gold, ground to a coarse powder (khao 
 ## Ingredients
 
 ### Rice powder
-- 3 tablespoons uncooked glutinous (sticky) rice - or jasmine rice
+- 3 tablespoons uncooked glutinous (sticky) rice (or jasmine rice)
 
 ### Larb
 - 500 g pork mince (or chicken / duck / beef)
-- 4 tablespoons stock or water
+- 4 tablespoons stock (or water)
 - 3 tablespoons fish sauce
-- Juice of 2 limes (about 5 tablespoons)
+- 2 limes (about 5 tablespoons, juice)
 - 1-2 teaspoons Thai dried chilli flakes (or 2 fresh bird's-eye chillies, finely chopped)
-- 4 small shallots (sliced thin)
+- 4 shallots (small, sliced thin)
 - 4 spring onions (sliced thin)
 - ½ teaspoon sugar (optional)
 - 1 large handful fresh mint leaves

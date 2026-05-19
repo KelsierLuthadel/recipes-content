@@ -23,7 +23,7 @@ Simple tandoori-style chicken thighs marinated in yogurt and spices for tender, 
 - 500 g (1 lb 2 oz/2 cups) plain yogurt
 - ½ tsp ground turmeric
 - ½ tsp chilli powder
-- 1 large green chilli, deseeded and finely sliced
+- 1 green chilli (large), deseeded and finely sliced
 - 2 tsp ground cumin
 - 2 tsp ground coriander
 - 1 tsp ground cinnamon
@@ -32,7 +32,7 @@ Simple tandoori-style chicken thighs marinated in yogurt and spices for tender, 
 - 5 cm (2 inch) piece fresh root ginger, peeled and grated
 - 3 garlic cloves, minced
 - ½ tsp salt
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ## Method
 

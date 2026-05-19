@@ -14,10 +14,10 @@ Potato cubes are par-boiled separately so the dish comes together quickly in the
 
 ## Ingredients
 - 500 g waxy potatoes (peeled, cut into 2 cm cubes)
-- 400 g fresh spinach (roughly chopped) (or 250 g frozen spinach, thawed and squeezed)
+- 400 g fresh spinach (roughly chopped, or 250 g frozen spinach, thawed and squeezed)
 - 3 tablespoons ghee (or oil)
 - 1 teaspoon cumin seeds
-- 1 small onion (finely chopped)
+- 1 onion (small, finely chopped)
 - 4 garlic cloves (finely chopped)
 - 25 g fresh ginger (finely grated)
 - 2 green chillies (slit lengthways)
@@ -26,11 +26,11 @@ Potato cubes are par-boiled separately so the dish comes together quickly in the
 - ½ teaspoon Kashmiri chilli powder
 - 1 teaspoon salt (to taste)
 - ½ teaspoon garam masala
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ### To serve
 - A wedge of lemon
-- Chapati or paratha
+- Chapati (or paratha)
 
 ## Method
 

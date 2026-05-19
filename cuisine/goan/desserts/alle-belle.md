@@ -16,7 +16,7 @@ A simple eggy flour-and-coconut-milk batter is whisked together with turmeric fo
 
 ### Pancake batter
 - 150 g plain flour
-- 2 large eggs
+- 2 eggs (large)
 - 300 ml coconut milk
 - 100 ml water
 - 1 tablespoon caster sugar

@@ -16,7 +16,7 @@ Dark chocolate and butter melt over a bain-marie. Eggs and sugar whisk together 
 
 - 250 g unsalted butter
 - 250 g dark chocolate (70%, broken into pieces)
-- 4 large eggs
+- 4 eggs (large)
 - 350 g caster sugar
 - 100 g plain flour
 - 50 g cocoa powder

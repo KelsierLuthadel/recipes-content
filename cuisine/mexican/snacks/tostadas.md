@@ -22,7 +22,7 @@ Corn tortillas are crisped: either deep-fried in 1 cm of oil at 180°C for 60 se
 ### Chicken tinga (a quick seasoned-chicken topping)
 - 400 g cooked shredded chicken (poached or rotisserie)
 - 2 tablespoons vegetable oil
-- 1 small onion (sliced thin)
+- 1 onion (small, sliced thin)
 - 3 garlic cloves (sliced)
 - 2 chipotles in adobo (chopped - plus 1 tablespoon of the adobo sauce)
 - 1 (400 g) tin chopped tomatoes
@@ -38,7 +38,7 @@ Corn tortillas are crisped: either deep-fried in 1 cm of oil at 180°C for 60 se
 - 2 tablespoons diced tomato
 - 1 tablespoon sliced red onion
 - 2 slices avocado
-- 1 tablespoon crumbled cotija or queso fresco (or feta)
+- 1 tablespoon crumbled cotija cheese (or queso fresco, or feta)
 - 1 tablespoon Mexican crema (or thinned sour cream)
 - 2-3 slices pickled jalapeño
 - A few coriander leaves

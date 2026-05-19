@@ -17,19 +17,28 @@ Cake base: butter creams with sugar, eggs in one at a time, flour and baking pow
 ### Cake base
 - 150 g unsalted butter (softened)
 - 150 g caster sugar
-- 3 large eggs
+- 3 eggs (large)
 - 250 g plain flour
 - 2 teaspoons baking powder
 - ½ teaspoon salt
 - 80 ml whole milk
 - 1 teaspoon vanilla extract
-- Zest of 1 lemon
+- 1 lemon (zest)
 
 ### Fruit topping (choose one or mix)
-- 500 g apples (peeled, cored, sliced 5 mm) + 1 tablespoon lemon juice
-- OR 400 g plums (stoned, halved)
-- OR 400 g raspberries
-- OR 350 g rhubarb (cut into 2 cm pieces) + 30 g extra sugar
+#### Apple
+- 500 g apples (peeled, cored, sliced 5 mm)
+- 1 tablespoon lemon juice
+
+#### Plums
+- 400 g plums (stoned, halved)
+
+#### Raspberry
+- 400 g raspberries
+
+#### Rhubarb
+- 350 g rhubarb (cut into 2 cm pieces) 
+- 30 g extra sugar
 
 ### Streusel
 - 80 g plain flour

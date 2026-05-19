@@ -23,14 +23,15 @@ A showstopping dish featuring a rare beef tenderloin encased in layers of mushro
 
 ### Filling
 - 1 fillet of beef (about 800 grams)
-- salt and freshly ground pepper
+- salt
+- pepper
 - 80 grams clarified butter
 - 60 grams butter
 - 500 grams button mushrooms (finely chopped)
-- juice of 1 lemon
+- 1 lemon (juice)
 - 60 grams shallot (finely chopped)
 - 100 ml double cream
-- 12 large spinach leaves
+- 12 spinach leaves (large)
 - 4 herb crêpes
 - eggwash (1 egg yolk mixed with 1 tablespoon milk)
 

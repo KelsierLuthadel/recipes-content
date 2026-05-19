@@ -24,7 +24,7 @@ Long Asian aubergines char directly over a gas flame or hot grill until blackene
 - 2 tablespoons white cane vinegar (or rice vinegar)
 - 2 tablespoons calamansi juice (or substitute lime juice)
 - 1 teaspoon caster sugar
-- 1 small red chilli (deseeded, finely sliced, optional)
+- 1 red chilli (small, deseeded, finely sliced, optional)
 - 2 tablespoons fresh coriander (chopped)
 
 ## Method

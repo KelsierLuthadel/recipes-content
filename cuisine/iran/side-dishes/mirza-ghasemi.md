@@ -14,7 +14,7 @@ Aubergines are charred over an open gas flame (or under a very hot grill) until 
 
 ## Ingredients
 
-- 2 large aubergines (about 700 g)
+- 2 aubergines (large, about 700 g)
 - 4 tablespoons olive oil
 - 6 garlic cloves (crushed)
 - 1 teaspoon ground turmeric
@@ -22,7 +22,7 @@ Aubergines are charred over an open gas flame (or under a very hot grill) until 
 - 1 tablespoon tomato puree
 - 1 teaspoon salt (to taste)
 - ½ teaspoon ground black pepper
-- 3 large eggs (beaten)
+- 3 eggs (large, beaten)
 
 ### To finish
 - 1 tablespoon olive oil (to drizzle)

@@ -20,7 +20,7 @@ A simple enriched dough, flour, milk, butter, egg, yeast, rises until doubled. T
 - 1 tablespoon caster sugar
 - 1 teaspoon salt
 - 250 ml whole milk (lukewarm)
-- 1 large egg (plus 1 yolk for glaze)
+- 1 egg (large, plus 1 yolk for glaze)
 - 50 g unsalted butter (softened)
 - 2 tablespoons sunflower oil
 

@@ -16,12 +16,12 @@ Lamb shoulder and beef chunks brown and slow-cook in a kabsa-spiced tomato base 
 
 ### Three meats
 - 600 g lamb shoulder (cut into 4 cm chunks)
-- 500 g beef shin or chuck (cut into 4 cm chunks)
+- 500 g beef shin (or chuck, cut into 4 cm chunks)
 - 6 bone-in chicken thighs
 
 ### Aromatics
 - 3 tablespoons vegetable oil
-- 2 large onions (chopped)
+- 2 onions (large, chopped)
 - 8 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
 - 2 (400 g) tins chopped tomatoes
@@ -42,7 +42,7 @@ Lamb shoulder and beef chunks brown and slow-cook in a kabsa-spiced tomato base 
 ### Garnish
 - 2 onions (deep-fried until crisp, kept aside)
 - 3 tablespoons sliced almonds (toasted)
-- 3 tablespoons pine nuts or pistachios (toasted)
+- 3 tablespoons pine nuts (or pistachios, toasted)
 - 4 tablespoons raisins (lightly fried)
 - Lemon wedges
 - Sahawiq and salata

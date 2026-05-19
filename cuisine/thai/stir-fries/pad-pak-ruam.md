@@ -21,12 +21,12 @@ A wok is heated hot; garlic flashes briefly in oil; vegetables go in by cook tim
 - 100 g baby corn (halved lengthwise)
 - 200 g mixed mushrooms (oyster mushroom, shiitake; sliced)
 - 100 g snow peas
-- 200 g pak choi or bok choy (separated into leaves)
+- 200 g pak choi (or bok choy, separated into leaves)
 - 100 g beansprouts
-- 4 tablespoons vegetable stock or water
+- 4 tablespoons vegetable stock (or water)
 - 3 tablespoons vegetarian oyster sauce (or 2 tablespoons soy + 1 tablespoon hoisin)
 - 2 tablespoons light soy sauce
-- 1 tablespoon Shaoxing rice wine or dry sherry
+- 1 tablespoon Shaoxing rice wine (or dry sherry)
 - 1 teaspoon sugar
 - ½ teaspoon white pepper
 - 1 long red chilli (sliced; optional)

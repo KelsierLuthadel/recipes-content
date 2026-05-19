@@ -43,7 +43,8 @@ A Caribbean-American fusion that works because both food cultures speak the lang
 - 60 ml fresh lime juice
 - 1 garlic clove (minced)
 - 2 teaspoons diced Scotch bonnet (optional)
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Nachos
 - 2 cups (~225 g) shredded cheese (Tillamook or similar)

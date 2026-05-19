@@ -21,7 +21,8 @@ A vibrant, deeply flavoured roasted red pepper salsa with shallots, fresh thyme,
 - 12 basil leaves (snipped)
 - 125 ml olive oil
 - 2 lemons (juice only)
-- salt and pepper (to taste)
+- salt
+- pepper
 
 ## Method
 1. Lightly oil the peppers, and either grill or roast them in the oven until the skin is blackened. 

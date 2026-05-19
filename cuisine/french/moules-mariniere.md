@@ -21,7 +21,8 @@ Cleaned mussels go into a hot pot with shallots, garlic, white wine and butter. 
 - 300 ml dry white wine (Muscadet or Sauvignon Blanc)
 - 200 ml double cream (optional, for moules à la crème)
 - A small bunch of flat-leaf parsley (chopped)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - 2 lemons (cut into wedges)
 - Crusty bread, to serve
 

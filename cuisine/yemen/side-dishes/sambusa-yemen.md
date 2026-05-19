@@ -17,7 +17,7 @@ Lamb mince fries with onion, garlic, cumin, coriander and chilli to a dry savour
 ### Filling
 - 400 g lamb mince (or beef)
 - 2 tablespoons vegetable oil
-- 1 medium onion (very finely chopped)
+- 1 onion (medium, very finely chopped)
 - 4 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
 - 1 ½ teaspoons ground cumin
@@ -28,12 +28,13 @@ Lamb mince fries with onion, garlic, cumin, coriander and chilli to a dry savour
 - 1 fresh green chilli (very finely chopped)
 - 3 tablespoons fresh coriander (chopped)
 - 3 tablespoons fresh parsley (chopped)
-- Juice of ½ lemon
-- Salt and black pepper
+- ½ lemon (juice)
+- salt
+- pepper
 
 ### Wrapping and frying
 - 24 spring-roll pastry sheets (cut into 8 x 25 cm strips)
-- 2 tablespoons plain flour + 3 tablespoons water (paste, for sealing)
+- 2 tablespoons plain flour (with 3 tablespoons water)
 - 1 litre vegetable oil for deep frying
 - Lemon wedges and sahawiq, to serve
 

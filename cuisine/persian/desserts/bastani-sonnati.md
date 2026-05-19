@@ -18,7 +18,7 @@ Milk and cream warm with sugar; saffron blooms in milk separately; egg yolks whi
 - 600 ml whole milk
 - 400 ml double cream
 - 200 g caster sugar
-- 6 large egg yolks
+- 6 egg yolks (large)
 - A generous pinch of saffron threads (steeped in 4 tablespoons hot milk 15 min)
 - 2 tablespoons rosewater
 - ½ teaspoon ground mastic gum (optional but classic - sold at Middle Eastern grocers)

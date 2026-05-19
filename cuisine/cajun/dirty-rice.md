@@ -16,8 +16,8 @@ Chicken livers blitz to a fine paste (so they melt into the rice rather than app
 
 - 200 g chicken livers (trimmed)
 - 250 g minced pork (or beef)
-- 3 tablespoons vegetable oil or pork fat
-- 1 large onion (chopped)
+- 3 tablespoons vegetable oil (or pork fat)
+- 1 onion (large, chopped)
 - 3 celery sticks (chopped)
 - 1 green pepper (chopped)
 - 6 garlic cloves (crushed)

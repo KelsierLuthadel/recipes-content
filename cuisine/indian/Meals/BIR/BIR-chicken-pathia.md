@@ -18,7 +18,7 @@ A British-Indian pathia curry with a sweet-and-sour profile, tuned for balanced 
 ## Ingredients
 ### Fat and aromatics
 - 4 tbsp rapeseed (canola) oil or seasoned oil
-- 1 small onion, very finely chopped
+- 1 onion (small), very finely chopped
 - 2 tbsp garlic and ginger paste
 - Salt, to taste
 
@@ -36,7 +36,7 @@ A British-Indian pathia curry with a sweet-and-sour profile, tuned for balanced 
 - 1 tbsp smooth mango chutney, or to taste
 - ½ tsp tamarind concentrate
 - 1 tsp dried fenugreek leaves (kasoori methi)
-- Juice of 1-2 lemons, to taste
+- 1-2 lemons, to taste (juice)
 - Red food colouring powder (optional)
 - 3 tbsp chopped coriander (cilantro)
 

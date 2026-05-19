@@ -23,9 +23,10 @@ A soft yeasted bread dough rises for 1 hour. Divides into 6 portions, rolls into
 - 320 ml warm water
 
 ### Cheese topping
-- 200 g akkawi cheese (or 150 g low-moisture mozzarella + 50 g grated halloumi)
-- 50 g feta (crumbled)
-- 1 tablespoon nigella seeds or sesame seeds (optional)
+- 150 g low-moisture mozzarella 
+- 50 g grated halloumi
+- 50 g feta cheese (crumbled)
+- 1 tablespoon nigella seeds (or sesame seeds, optional)
 - 1 teaspoon dried mint
 
 ### Finish

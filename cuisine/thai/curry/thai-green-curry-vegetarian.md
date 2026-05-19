@@ -30,21 +30,21 @@ A spice paste of green chillies and aromatics blends fresh (or starts from a goo
 - 1 tablespoon vegetable oil
 
 ### Curry
-- 1 x 400 ml tin coconut milk (do not shake; cream and milk separate)
-- 1 x 165 ml tin coconut cream (or use the cream from a second can of coconut milk)
+- 400 ml tin coconut milk (do not shake; cream and milk separate)
+- 165 ml tin coconut cream (or use the cream from a second can of coconut milk)
 - 300 g firm tofu (cubed)
-- 1 small Thai aubergine or 1 small regular aubergine (cubed)
+- 1 Thai aubergine (small, or 1 small regular aubergine, cubed)
 - 100 g pea aubergines (optional)
 - 200 g broccoli (cut into florets)
 - 100 g baby corn (halved)
-- 1 x 220 g tin bamboo shoots (drained)
+- 220 g tin bamboo shoots (drained)
 - 4 kaffir lime leaves (torn, stems out)
 - 3 tablespoons light soy sauce
 - 2 tablespoons palm sugar (or brown sugar)
-- 200 ml vegetable stock or water
+- 200 ml vegetable stock (or water)
 - A handful of Thai basil leaves
 - 2 long red chillies (sliced)
-- Juice of half a lime
+- ½ lime (juice)
 - Cooked jasmine rice (to serve)
 
 ## Method

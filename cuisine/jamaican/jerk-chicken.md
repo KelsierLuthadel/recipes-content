@@ -17,7 +17,7 @@ A wet jerk paste: scotch bonnet chillies, garlic, ginger, spring onions, thyme, 
 ### Jerk paste
 - 4-6 scotch bonnet chillies (de-stemmed; deseed for a tamer version)
 - 6 spring onions (chopped)
-- 1 small onion (chopped)
+- 1 onion (small, chopped)
 - 6 garlic cloves (peeled)
 - 1 large thumb fresh ginger (chopped)
 - 1 small bunch fresh thyme (4 tablespoons leaves)
@@ -27,7 +27,7 @@ A wet jerk paste: scotch bonnet chillies, garlic, ginger, spring onions, thyme, 
 - ½ teaspoon ground nutmeg
 - 3 tablespoons soft brown sugar
 - 3 tablespoons dark soy sauce
-- Juice of 2 limes
+- 2 limes (juice)
 - 4 tablespoons vegetable oil
 - 1 tablespoon white vinegar
 - 1 ½ teaspoons salt

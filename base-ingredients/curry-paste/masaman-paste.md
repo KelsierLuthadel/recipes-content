@@ -17,7 +17,7 @@ Masaman curry paste is perhaps Thailand's most complex paste, reflecting its mul
 ## Ingredients
 
 ### Dried Chillies & Aromatics
-- 12 large dried red chillies
+- 12 dried red chillies (large)
 - 1 lemon grass stalk (tender lower portion)
 - 4 tablespoons shallots (finely chopped)
 - 5 garlic cloves (peeled and chopped)

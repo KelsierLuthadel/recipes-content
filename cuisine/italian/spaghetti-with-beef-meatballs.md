@@ -16,12 +16,13 @@ Beef meatballs represent the heart of Italian home cooking, simple ingredients t
 - 1 onion (finely chopped)
 - 750 grams beef mince (or combination of pork and veal)
 - 140 grams fresh breadcrumbs
-- 35 grams Parmesan (freshly grated)
+- 35 grams Parmesan cheese (freshly grated)
 - 2 tablespoons flat leaf parsley (freshly chopped)
 - 1 egg (beaten)
 - 1 garlic clove (crushed)
 - Rind and juice of ½ unwaxed lemon
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - 68 grams plain flour (seasoned with salt and pepper)
 - 2 tablespoons olive oil (for frying)
 
@@ -32,7 +33,8 @@ Beef meatballs represent the heart of Italian home cooking, simple ingredients t
 - 120 grams red wine
 - 2 tablespoons fresh basil (chopped)
 - 1 garlic clove (crushed)
-- Salt and freshly ground black pepper to taste
+- salt
+- pepper
 
 ### To Serve
 - 500 grams spaghetti (or pasta of choice)

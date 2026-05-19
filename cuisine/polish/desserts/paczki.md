@@ -21,11 +21,11 @@ An enriched yeast dough (lots of egg yolks, butter, sugar, a splash of rum) prov
 - 80 g caster sugar
 - 1 teaspoon salt
 - 220 ml warm whole milk
-- 5 large egg yolks
+- 5 egg yolks (large)
 - 100 g unsalted butter (very soft)
 - 2 tablespoons spirit (rum, vodka, or grain alcohol; reduces oil absorption)
 - 1 teaspoon vanilla extract
-- Zest of 1 lemon
+- 1 lemon (zest)
 
 ### To fry
 - 2 litres neutral oil (sunflower or rapeseed) or lard for the traditional version
@@ -34,8 +34,13 @@ An enriched yeast dough (lots of egg yolks, butter, sugar, a splash of rum) prov
 - 350 g good-quality jam (rose petal, plum butter (powidła), or thick blackcurrant)
 
 ### To finish (choose one)
+#### Icing
 - 100 g icing sugar (for dusting)
-- OR 150 g icing sugar + 3 tablespoons fresh orange juice + finely chopped candied orange peel (for glazing)
+
+#### Orange Icing
+- 150 g icing sugar
+- 3 tablespoons fresh orange juice
+- candied orange peel (finely chopped)
 
 ## Method
 

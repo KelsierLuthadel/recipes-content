@@ -20,11 +20,11 @@ Rougaille is the workhorse tomato sauce of Mauritian Creole cooking, used as a c
 
 ### Sauce base
 - 3 tbsp neutral oil
-- 2 large onions (about 350 g, halved and thinly sliced)
+- 2 onions (large, about 350 g, halved and thinly sliced)
 - 6 garlic cloves (minced)
 - 25 g fresh ginger (grated)
 - 2-3 sprigs fresh thyme (leaves stripped, plus 1 whole sprig)
-- 2 green or red chillies (1 slit, 1 finely chopped; adjust to taste)
+- 2 green chillies (or red chillies, 1 slit, 1 finely chopped; adjust to taste)
 - 6 ripe medium tomatoes (about 700 g, finely chopped)
 - 1 tbsp tomato paste
 - 1 tsp sugar (optional, balances tomato acidity)

@@ -60,7 +60,7 @@ A thin yeasted batter, flour, semolina, yogurt, yeast, sugar, water, ferments at
 1. Transfer the fermented batter to a squeeze bottle or piping bag with a small nozzle.
 1. Hovering 10 cm above the oil, pipe directly into the oil in spirals, loops, or pretzel shapes - about 8 cm across.
 1. Pipe 3-4 zlabia at a time (don't crowd).
-1. Fry 1.5-2 minutes till deep amber and crisp.
+1. Fry 1 ½-2 minutes till deep amber and crisp.
 
 ### Stage 5 - Syrup soak
 1. Lift each zlabia with a slotted spoon directly from oil to the warm syrup.

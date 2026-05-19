@@ -17,7 +17,7 @@ Pumpkin chunks boil in salted water until tender. Drain, return to the dry pot, 
 - 1 kg pumpkin (kabocha, butternut or red-kuri - dense, floury types), peeled and cut into 4 cm chunks
 - 1 teaspoon salt
 - 50 g unsalted butter
-- 2 tablespoons brown sugar or honey
+- 2 tablespoons brown sugar (or honey)
 - ½ teaspoon ground cinnamon (optional)
 - 50 ml whole milk (optional, for a softer mash)
 

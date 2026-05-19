@@ -18,12 +18,12 @@ Pastry dough: plain flour, ghee, salt, ajwain seeds, and warm water are kneaded 
 - 400 g plain flour
 - 1 teaspoon salt
 - 1 teaspoon ajwain seeds (carom - sold at South Asian shops; or substitute thyme)
-- 100 g ghee or sunflower oil (NOT melted; cool / room temperature)
+- 100 g ghee (or sunflower oil, NOT melted; cool / room temperature)
 - 180-200 ml warm water
 
 ### Filling
-- 2 tablespoons sunflower oil or ghee
-- 1 medium onion (finely diced)
+- 2 tablespoons sunflower oil (or ghee)
+- 1 onion (medium, finely diced)
 - 2 cm fresh ginger (grated)
 - 4 garlic cloves (crushed)
 - 2 green chillies (finely chopped)
@@ -37,7 +37,7 @@ Pastry dough: plain flour, ghee, salt, ajwain seeds, and warm water are kneaded 
 - ½ teaspoon black pepper
 - 150 g frozen peas
 - 2 tablespoons fresh coriander (chopped)
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ### Flour paste (for sealing)
 - 2 tablespoons plain flour mixed with 3 tablespoons cold water

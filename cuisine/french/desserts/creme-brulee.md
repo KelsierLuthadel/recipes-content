@@ -17,7 +17,7 @@ A vanilla pod splits and scrapes into a saucepan with double cream; warmed to ju
 ### Custard
 - 500 ml double cream
 - 1 vanilla pod (split and scraped) OR 2 teaspoons good vanilla bean paste OR 1 tablespoon vanilla extract
-- 6 large egg yolks (room temperature)
+- 6 egg yolks (large, room temperature)
 - 80 g caster sugar
 - A pinch of salt
 

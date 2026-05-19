@@ -16,12 +16,12 @@ This burger borrows from the souvlaki and bifteki tradition of mainland Greece, 
 
 ### Patties
 - 600 g minced lamb shoulder
-- 1 small red onion, finely grated
+- 1 red onion (small), finely grated
 - 2 garlic cloves, finely grated
 - 1 tbsp dried oregano, ideally Greek
 - 1 tsp ground cumin
 - 1 tbsp red wine vinegar
-- 100 g feta, crumbled
+- 100 g feta cheese, crumbled
 - 1 tsp flaky salt
 - ½ tsp black pepper
 
@@ -42,7 +42,7 @@ This burger borrows from the souvlaki and bifteki tradition of mainland Greece, 
 - Pinch of dried oregano
 
 ### To assemble
-- 4 brioche buns or 4 large pita
+- 4 brioche buns (or 4 large pita)
 - Handful of cos lettuce leaves
 - Olive oil for brushing
 

@@ -16,7 +16,7 @@ Eggs whisk gently with sugar and vanilla. Warm milk drizzles in. Strains through
 - 1 litre whole milk
 - 1 strip lemon peel
 - 1 cinnamon stick
-- 6 large eggs
+- 6 eggs (large)
 - 200 g caster sugar
 - 2 teaspoons vanilla extract
 - A pinch of salt

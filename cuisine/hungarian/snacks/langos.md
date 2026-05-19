@@ -22,7 +22,7 @@ A soft potato-enriched yeast dough rises slowly, gets stretched thin (not rolled
 - 1 teaspoon salt
 - 160 ml warm milk
 - 2 tablespoons sunflower oil
-- About 1 litre sunflower oil, for frying
+- 1 litre sunflower oil, for frying
 
 ### Garlic rub
 - 4 garlic cloves (crushed)

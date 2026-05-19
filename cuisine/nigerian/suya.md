@@ -15,26 +15,28 @@ Beef sirloin or rump is sliced very thin across the grain. A suya spice (yaji) i
 ## Ingredients
 
 ### Beef
-- 800 g beef sirloin or rump (well-marbled, NOT lean - this is the dish)
+- 800 g beef sirloin (or rump, well-marbled, NOT lean - this is the dish)
 - 2 tablespoons sunflower oil
 - 1 teaspoon salt
 
 ### Yaji (suya spice)
 - 100 g dry-roasted unsalted peanuts (kuli-kuli, the Nigerian groundnut cake, is also commonly used)
 - 2 tablespoons ground ginger
-- 2 tablespoons cayenne pepper or hot chilli powder (adjust for heat - full whack is traditional)
+- 2 tablespoons cayenne pepper (or hot chilli powder, adjust for heat - full whack is traditional)
 - 1 tablespoon sweet paprika
 - 1 tablespoon garlic powder
 - 1 tablespoon onion powder
 - 1 teaspoon ground cloves
 - 2 teaspoons salt
-- 1 stock cube (Maggi), crumbled - optional but traditional
+- 1 stock cube (Maggi), crumbled (optional but traditional)
 
 ### To serve
-- 1 medium red onion (sliced very thin)
+- 1 red onion (medium, sliced very thin)
 - 2 tomatoes (diced)
 - ¼ small cabbage (shredded)
 - 1 lime (cut into wedges)
+
+### Equipment
 - 8 bamboo skewers (soaked in water for 30 minutes)
 
 ## Method

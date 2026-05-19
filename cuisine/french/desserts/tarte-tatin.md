@@ -24,7 +24,7 @@ A puff pastry round (homemade or all-butter shop-bought) is cut to fit the pan; 
 - 1 teaspoon vanilla extract (optional)
 
 ### Apples
-- 8 medium apples (about 1.2 kg) - firm tart variety: Granny Smith, Braeburn, Cox's Orange Pippin, or Bramley (UK)
+- 8 apples (medium, about 1.2 kg, Granny Smith, Braeburn, Cox's Orange Pippin, or Bramley)
 
 ### To serve
 - Crème fraîche (the classic)

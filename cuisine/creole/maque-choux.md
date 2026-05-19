@@ -16,11 +16,11 @@ Onion and pepper soften in butter; corn kernels (cut from the cob, with the milk
 
 - 8 ears fresh corn (kernels cut off; or 800 g frozen corn)
 - 60 g unsalted butter
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 1 green pepper (chopped)
 - 1 red pepper (chopped)
 - 4 garlic cloves (crushed)
-- 2 medium tomatoes (chopped) or 200 g tinned chopped
+- 2 tomatoes (medium, chopped) or 200 g tinned chopped
 - 1 long green chilli (finely chopped) or ½ teaspoon cayenne
 - 1 teaspoon Creole seasoning
 - 1 teaspoon sugar

@@ -29,7 +29,8 @@ A vibrant Jamaican pasta dish where tender prawns are coated in jerk seasoning a
 - 170 ml pasta water (reserved)
 - 170 ml double cream
 - 100 grams Parmesan cheese (shredded)
-- Salt and pepper to taste
+- salt
+- pepper
 
 ## Method
 

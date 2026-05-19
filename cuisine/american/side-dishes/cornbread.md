@@ -21,7 +21,7 @@ A 25 cm cast-iron skillet is preheated in the hot oven with a generous knob of b
 - 1 teaspoon salt
 - ½ teaspoon bicarbonate of soda
 - 350 ml buttermilk
-- 2 large eggs
+- 2 eggs (large)
 - 80 g unsalted butter (melted)
 - 50 g unsalted butter (extra, for the pan)
 

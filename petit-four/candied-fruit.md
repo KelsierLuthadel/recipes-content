@@ -17,7 +17,7 @@ Candied fruit peel represents a medieval technique that preserves fruit while de
 ### Sugar Syrup
 - 600 grams caster sugar
 - 450 milliliters water (for initial syrup)
-- Additional water (for repeated poaching, as needed)
+- water (for repeated poaching, as needed)
 
 ### Sugar Coating
 - 75 grams granulated sugar (for final coating)

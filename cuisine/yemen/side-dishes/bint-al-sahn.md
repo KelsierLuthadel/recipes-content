@@ -16,7 +16,7 @@ A soft eggy dough is rolled into 7-8 paper-thin discs (closer to filo than to br
 
 ### Dough
 - 400 g plain flour
-- 2 large eggs
+- 2 eggs (large)
 - 1 teaspoon salt
 - 1 tablespoon caster sugar
 - 200 ml warm milk
@@ -25,7 +25,7 @@ A soft eggy dough is rolled into 7-8 paper-thin discs (closer to filo than to br
 
 ### To finish
 - 200 g raw dark honey (sidr honey if you can find it)
-- 1 tablespoon black caraway or nigella seeds (lightly toasted)
+- 1 tablespoon black caraway (or nigella seeds, lightly toasted)
 
 ## Method
 

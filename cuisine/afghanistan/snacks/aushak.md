@@ -23,13 +23,13 @@ Leeks (or scallions) are chopped fine, salted briefly to weep, squeezed dry, the
 - 1 tablespoon olive oil
 
 ### Wrappers
-- 30 square wonton wrappers (Asian shops) OR a fresh dough of 250 g plain flour + 130 ml water + ½ teaspoon salt, rested 30 min and rolled thin
+- 30 square wonton wrappers
 
 ### Meat sauce
 - 2 tablespoons sunflower oil
-- 1 small onion (finely diced)
+- 1 onion (small, finely diced)
 - 3 garlic cloves (crushed)
-- 300 g ground beef or lamb (20% fat)
+- 300 g ground beef (or lamb, 20% fat)
 - 1 tablespoon tomato paste
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
@@ -45,7 +45,7 @@ Leeks (or scallions) are chopped fine, salted briefly to weep, squeezed dry, the
 
 ### To finish
 - 1 tablespoon dried mint
-- ½ teaspoon Aleppo pepper or paprika
+- ½ teaspoon paprika
 - 2 tablespoons fresh coriander (chopped)
 
 ## Method
@@ -80,7 +80,7 @@ Leeks (or scallions) are chopped fine, salted briefly to weep, squeezed dry, the
 1. Arrange the dumplings over the yogurt.
 1. Spoon over the remaining yogurt.
 1. Top with hot meat sauce.
-1. Sprinkle dried mint, Aleppo pepper and fresh coriander.
+1. Sprinkle dried mint, paprika pepper and fresh coriander.
 
 ## Notes
 - **Squeeze the leeks dry:** Wet leeks make a soggy filling that bursts the dumpling. The 20-minute salt-and-squeeze is essential.

@@ -12,13 +12,14 @@
 Celeriac and potato dauphinoise is a rich, creamy French gratin that pairs the earthy nuttiness of celeriac with tender potato slices, all baked in a garlicky double cream. The addition of softened onions and a golden grilled top makes this an indulgent accompaniment to steaks and robust beef dishes.
 
 ## Ingredients
-- 2 large onions (sliced)
+- 2 onions (large, sliced)
 - 50 grams butter
 - 600 ml double cream
 - 1 garlic clove (crushed)
-- salt and freshly ground black pepper
+- salt
+- pepper
 - 450 grams potatoes (thinly sliced)
-- 1 large celeriac (peeled and thinly sliced)
+- 1 celeriac (large, peeled and thinly sliced)
 
 ## Method
 1. Preheat the oven to 180 - 190°C.

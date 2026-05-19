@@ -19,7 +19,7 @@ Sponge fingers are the classic French biscuit à la cuillère, distinguished by 
 - 190 grams caster sugar (sifted, divided into ⅔ and ⅓ portions)
 
 ### Flour
-- 180 grams cake flour or soft flour (sifted)
+- 180 grams cake flour (or soft flour, sifted)
 
 ### Finishing
 - 30 grams icing sugar (sifted, for dusting)

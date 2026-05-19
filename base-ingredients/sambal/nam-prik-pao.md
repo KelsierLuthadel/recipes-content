@@ -19,7 +19,7 @@ Nam prik pao is the definition of Thai culinary philosophy: a simple dish of tre
 
 ### Seafood Components
 - 50-60 grams dried shrimp (small, raw)
-- 1 ½-2 cm cube of shrimp paste (belacan/terasi, approximately 15-20 grams)
+- 1 cm cube of shrimp paste (belacan/terasi, approximately 15-20 grams)
 - 50 grams cooked prawns, peeled and roughly chopped
 
 ### Aromatics & Heat
@@ -33,7 +33,7 @@ Nam prik pao is the definition of Thai culinary philosophy: a simple dish of tre
 ### Liquid & Seasoning
 - 4 tablespoons fresh lime juice (or lemon juice)
 - 2 tablespoons Thai fish sauce
-- 3 teaspoons soft light brown sugar or palm sugar
+- 3 teaspoons soft light brown sugar (or palm sugar)
 - Pinch of fine sea salt (adjust to taste)
 
 ## Method

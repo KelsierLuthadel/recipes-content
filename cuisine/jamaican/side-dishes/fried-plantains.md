@@ -15,7 +15,7 @@ Ripe plantains (not the green ones used for tostones) are peeled, sliced thick o
 ## Ingredients
 
 ### Plantains
-- 3 large ripe plantains (skins mostly black, soft to the touch)
+- 3 ripe plantains (large, skins mostly black, soft to the touch)
 - 4 tablespoons vegetable oil (or coconut oil for a richer flavour)
 - ¼ teaspoon fine salt (to finish)
 

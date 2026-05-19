@@ -16,13 +16,14 @@ Vegetables (spinach, courgette, peas, anything) cook in an oven-proof pan with o
 
 - 2 tablespoons olive oil
 - 1 onion (sliced)
-- 1 small courgette (cubed) or other vegetables (peas, asparagus, leftover potatoes, etc.)
+- 1 courgette (small, cubed) or other vegetables (peas, asparagus, leftover potatoes, etc.)
 - 200 g spinach
-- 8 large eggs
-- 50 g parmesan or pecorino (grated)
-- 100 g feta or goat cheese (crumbled, optional)
+- 8 eggs (large)
+- 50 g parmesan cheese (or pecorino, grated)
+- 100 g feta (or goat cheese, crumbled, optional)
 - A small bunch of fresh herbs (parsley, chives, basil, dill)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - A grating of nutmeg
 
 ## Method

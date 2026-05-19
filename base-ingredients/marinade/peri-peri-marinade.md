@@ -17,7 +17,7 @@ Peri-peri marinade is the bridge between Portuguese and African cooking traditio
 ## Ingredients
 
 ### Primary Ingredients
-- 1 large fresh red chilli or 2 medium red chillies
+- 1 fresh red chilli (large, or 2 medium red chillies)
 - 2-3 garlic cloves (crushed)
 - ½ teaspoon smoked paprika (Spanish style preferred)
 - ½ teaspoon ground coriander
@@ -30,7 +30,7 @@ Peri-peri marinade is the bridge between Portuguese and African cooking traditio
 - 1 teaspoon fresh lemon juice (in addition to lime, for brightness)
 - ¼ teaspoon crushed red chilli flakes (for extra heat)
 - ½ teaspoon fresh thyme leaves (optional, minimal)
-- 1 teaspoon honey or agave (optional, for balancing char)
+- 1 teaspoon honey (or agave, optional, for balancing char)
 
 ## Method
 

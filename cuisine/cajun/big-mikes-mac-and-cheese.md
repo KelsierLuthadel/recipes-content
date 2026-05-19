@@ -23,12 +23,13 @@ A creamy, spicy Cajun-style mac and cheese with sharp white Cheddar, hot sauce, 
 - 1 egg
 - 240 ml  evaporated milk
 - 120 ml (½ cup) whole milk
-- 100 g (1 cup) white Cheddar cheese (sharp), plus extra for topping
+- 100 g (1 cup) white cheddar (sharp), plus extra for topping
 
 ### Seasonings
 - 2 tsp  dry mustard
 - 1 tbsp  hot sauce
-- Salt and black pepper, to taste
+- salt
+- pepper
 
 ## Method
 

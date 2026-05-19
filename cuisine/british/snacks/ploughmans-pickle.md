@@ -20,7 +20,7 @@ Vegetables, swede, carrot, gherkins, onion, cauliflower, dice into small (4 mm) 
 - 200 g swede (peeled)
 - 150 g carrot (peeled)
 - 150 g cauliflower florets (the tighter inner ones, not the leafy stems)
-- 1 large onion (peeled)
+- 1 onion (large, peeled)
 - 80 g gherkins (drained, chopped fine - the small sweet variety)
 - 100 g pitted dates (chopped fine)
 - 80 g sultanas
@@ -87,7 +87,7 @@ Vegetables, swede, carrot, gherkins, onion, cauliflower, dice into small (4 mm) 
 1. Leave 2-4 weeks before opening (essential - the flavours mature dramatically in the first 2 weeks).
 
 ### Stage 9 - Serve
-1. Spoon onto a plate as part of a ploughman's lunch: mature cheddar, crusty bread, pickled onion, half an apple, the pickle, perhaps a slice of ham or pork pie.
+1. Spoon onto a plate as part of a ploughman's lunch: mature cheddar, crusty bread, pickled onion, ½ apple, the pickle, perhaps a slice of ham or pork pie.
 1. Also: layer in cheese sandwiches; spoon over baked potatoes with cheese; serve alongside cold cuts.
 
 ## Notes

@@ -27,7 +27,7 @@ Tom kha gai is a popular spicy coconut soup. The tasty broth is more important t
 - 400ml (1 ¾ cups) tinned (canned) thick coconut milk
 
 ### Vegetables
-- 8 mushrooms, quartered or halved
+- 8 mushrooms, quartered (or halved)
 - 3 spring onions (scallions), roughly chopped
 
 ### Seasonings

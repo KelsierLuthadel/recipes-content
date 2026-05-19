@@ -15,11 +15,11 @@ A handful of vegetables (drumstick, ash gourd, carrot, runner beans, green plant
 ## Ingredients
 
 ### Vegetables (use a mix of 4-5; aim for 600 g total)
-- 1 small green plantain (peeled, cut into 5 cm batons)
+- 1 green plantain (small, peeled, cut into 5 cm batons)
 - 1 carrot (cut into 5 cm batons)
 - 100 g runner beans (cut into 5 cm pieces)
-- 150 g ash gourd or pumpkin (cut into 5 cm batons)
-- 2 drumsticks (if available; cut into 5 cm pieces) (or substitute with green pepper)
+- 150 g ash gourd (cut into 5 cm batons)
+- 2 drumsticks (if available; cut into 5 cm pieces, or substitute with green pepper)
 - ½ teaspoon turmeric
 - 1 teaspoon salt
 - 200 ml water
@@ -41,7 +41,7 @@ A handful of vegetables (drumstick, ash gourd, carrot, runner beans, green plant
 ### Stage 1 - Cook the vegetables
 1. Place the harder vegetables (plantain, carrot, drumstick) in a wide pot with the turmeric, salt and water.
 1. Cover and cook for 5 minutes over medium heat.
-1. Add the runner beans, ash gourd or pumpkin.
+1. Add the runner beans and ash gourd.
 1. Cover and cook for another 5-6 minutes, until each vegetable is just tender but holds its shape.
 1. Drain any excess water (most should have cooked off, leaving 50-80 ml).
 

@@ -31,7 +31,8 @@ Thai vinaigrette sits at the intersection of acid, umami, and fragrance. Lemongr
 
 ### Seasonings
 - Fresh lime juice (1 teaspoon, added just before service)
-- Salt and freshly ground black pepper to taste
+- salt
+- pepper
 
 ## Method
 

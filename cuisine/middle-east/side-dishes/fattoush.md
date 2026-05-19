@@ -15,19 +15,19 @@ Pita breads are torn into pieces and toasted (or fried) until crisp and crunchy.
 ## Ingredients
 
 ### Salad
-- 2 large pita breads (1-2 days old, torn into 3 cm pieces)
+- 2 pita breads (large, 1-2 days old, torn into 3 cm pieces)
 - 3 tablespoons olive oil
 - 4 ripe tomatoes (cut into wedges)
 - 1 cucumber (cut into chunks)
 - 6 radishes (sliced)
 - 4 spring onions (sliced)
-- 1 small romaine lettuce (chopped)
+- 1 romaine lettuce (small, chopped)
 - A small bunch of fresh mint (leaves picked, torn)
 - A small bunch of flat-leaf parsley (chopped)
 
 ### Dressing
 - 4 tablespoons extra virgin olive oil
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 tablespoon pomegranate molasses
 - 1 garlic clove (crushed)
 - 2 teaspoons sumac (plus extra to scatter)

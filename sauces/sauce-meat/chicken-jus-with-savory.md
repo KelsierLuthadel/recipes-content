@@ -18,7 +18,7 @@ A simple, flavourful jus capturing the essence of roasted chicken with herb infu
 ### Vegetables & aromatics
 - 200 grams carrots (cut into rounds)
 - 150 grams onions (cut into dice)
-- 1 medium potato (peeled and cut into 8 pieces)
+- 1 potato (medium, peeled and cut into 8 pieces)
 - 1 sprig thyme
 - 2 cloves garlic (unpeeled)
 
@@ -26,7 +26,8 @@ A simple, flavourful jus capturing the essence of roasted chicken with herb infu
 - 150 ml dry white wine
 - 50 grams savory sprigs (or tarragon)
 - 150 ml Chicken Stock (or water)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

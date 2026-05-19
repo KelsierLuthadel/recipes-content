@@ -17,7 +17,7 @@ Lamb shoulder simmers in a spiced stock for 90 minutes until tender. Meanwhile, 
 ### Lamb
 - 1.2 kg lamb shoulder (cut into 5 cm chunks)
 - 2 tablespoons vegetable oil
-- 1 large onion (halved)
+- 1 onion (large, halved)
 - 4 cardamom pods (bruised)
 - 1 cinnamon stick
 - 2 bay leaves
@@ -27,7 +27,7 @@ Lamb shoulder simmers in a spiced stock for 90 minutes until tender. Meanwhile, 
 - 2 litres water
 
 ### Bread layer
-- 4 large pita breads or 8 small aysh baladi (cut into 4 cm squares)
+- 4 pita breads (large, or 8 small aysh baladi, cut into 4 cm squares)
 - 2 tablespoons olive oil
 
 ### Rice
@@ -42,11 +42,11 @@ Lamb shoulder simmers in a spiced stock for 90 minutes until tender. Meanwhile, 
 - 1 (400 g) tin chopped tomatoes
 - 1 tablespoon tomato puree
 - 1 teaspoon ground cumin
-- ½ teaspoon Aleppo pepper or chilli flakes
+- ½ teaspoon chilli flakes
 - ½ teaspoon salt
 
 ### Dakka (garlic-vinegar sizzle)
-- 4 tablespoons unsalted butter or ghee
+- 4 tablespoons unsalted butter (or ghee)
 - 8 garlic cloves (very finely chopped)
 - 3 tablespoons white vinegar
 - 1 teaspoon ground coriander

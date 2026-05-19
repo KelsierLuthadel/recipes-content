@@ -30,7 +30,7 @@ Cubed ripe tomatoes sit with salt, olive oil, basil and a touch of red wine vine
 - Black pepper
 
 ### Optional additions
-- 50 g shaved parmesan or pecorino
+- 50 g shaved parmesan cheese (or pecorino)
 - 1 teaspoon dried oregano
 - A pinch of chilli flakes
 

@@ -16,9 +16,9 @@ A yeast-leavened, fat-rich dough rests cold so the fat stays solid in flaky laye
 
 ### Dough
 - 400 g plain flour
-- 200 g cold lard or cold unsalted butter, cubed
+- 200 g cold lard (or cold unsalted butter), cubed
 - 100 g semi-hard cheese, finely grated (Trappista, mature cheddar or Gruyère)
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 100 ml sour cream
 - 100 ml whole milk (lukewarm)
 - 7 g instant dried yeast

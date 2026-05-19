@@ -16,7 +16,7 @@ A sweet rice that's about generosity rather than complexity: hot basmati glossed
 
 ### Base
 - 400 g (2 cups) basmati rice
-- 700 ml (3½ cups) water
+- 700 ml (3 ½ cups) water
 - 80 g (6 tablespoons) butter (salted or unsalted)
 - 70 g (½ cup) unsalted cashews
 - 150 g (1 cup) raisins

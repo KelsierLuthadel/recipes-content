@@ -25,7 +25,7 @@ Thinly sliced beef marinates briefly in soy, garlic, ginger and a touch of cornf
 
 ### Stir-fry
 - 3 tablespoons vegetable oil (split)
-- 1 large onion (sliced into thick wedges)
+- 1 onion (large, sliced into thick wedges)
 - 2 capsicums (one red, one green; sliced)
 - 4 garlic cloves (chopped)
 - 4 cm fresh ginger (julienned)
@@ -36,13 +36,13 @@ Thinly sliced beef marinates briefly in soy, garlic, ginger and a touch of cornf
 - 2 tablespoons light soy sauce
 - 1 tablespoon dark soy sauce
 - 1 teaspoon soft brown sugar
-- 100 ml beef stock or water
+- 100 ml beef stock (or water)
 - 1 teaspoon cornflour mixed with 1 tablespoon cold water
 
 ### To serve
 - 3 spring onions (sliced on the diagonal)
 - A small bunch of coriander (chopped)
-- Steamed rice or tingmo (Tibetan steamed buns)
+- Steamed rice (or tingmo, Tibetan steamed buns)
 
 ## Method
 

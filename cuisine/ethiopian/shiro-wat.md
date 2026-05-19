@@ -14,7 +14,7 @@ Onion melts in oil; berbere and tomato bloom in; water joins. Chickpea flour is 
 
 ## Ingredients
 
-- 2 large onions (very finely chopped)
+- 2 onions (large, very finely chopped)
 - 60 ml vegetable oil
 - 5 garlic cloves (crushed)
 - 2 cm fresh ginger (grated)

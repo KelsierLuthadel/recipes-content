@@ -16,7 +16,7 @@ Jambalaya is a one-pot Cajun rice dish that combines proteins, vegetables, and a
 ## Ingredients
 
 ### Proteins
-- 12 large shrimp (peeled and deveined)
+- 12 shrimp (large, peeled and deveined)
 - 2 chicken breast fillets (cut into 1 cm cubes)
 - 1 Andouille sausage (cut into 5 mm slices)
 
@@ -36,9 +36,10 @@ Jambalaya is a one-pot Cajun rice dish that combines proteins, vegetables, and a
 - 3 tablespoons fresh basil (chopped)
 
 ### Seasonings & Finish
-- 3 teaspoons cajun or creole spice mix
+- 3 teaspoons cajun (or creole spice mix)
 - 75 grams Parmesan cheese (freshly grated)
-- Salt and freshly ground black pepper to taste
+- salt
+- pepper
 
 ## Method
 

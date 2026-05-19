@@ -12,8 +12,8 @@
 A tropical, creamy dessert sauce featuring caramelized sugar, velvety banana purée, and a hint of rum. Perfect drizzled over fruit compotes, ice cream, or pastries. The balance of sweetness, slight bitterness from caramel, and warmth of rum makes this sauce unexpectedly sophisticated despite its simplicity.
 
 ## Ingredients
-- 2 medium bananas
-- juice of 1 lemon
+- 2 bananas (medium)
+- 1 lemon (juice)
 - 350 grams caster sugar
 - 200 grams crème fraîche
 - 100 ml white rum

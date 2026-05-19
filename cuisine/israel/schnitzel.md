@@ -16,7 +16,7 @@ Chicken breasts butterfly and pound to 5 mm thick. Dredge through seasoned flour
 
 - 4 chicken breasts (about 200 g each)
 - 100 g plain flour (seasoned with 1 tsp salt, 1 tsp paprika, ½ tsp pepper)
-- 3 large eggs (beaten with 1 tablespoon water)
+- 3 eggs (large, beaten with 1 tablespoon water)
 - 200 g panko breadcrumbs
 - 2 teaspoons sweet paprika
 - 1 teaspoon garlic powder
@@ -28,7 +28,7 @@ Chicken breasts butterfly and pound to 5 mm thick. Dredge through seasoned flour
 ### To serve
 - Lemon wedges
 - Israeli salata
-- Pita or rice
+- Pita (or rice)
 
 ## Method
 

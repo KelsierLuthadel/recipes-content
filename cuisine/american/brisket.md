@@ -16,10 +16,11 @@ Brisket sears in a heavy pot; onions caramelise on the rendered fat; garlic and 
 
 - 2 kg beef brisket (point or flat; trimmed of excess fat but leaving a thin cap)
 - 2 tablespoons vegetable oil
-- Salt and black pepper
+- salt
+- pepper
 
 ### Braise
-- 4 large onions (sliced)
+- 4 onions (large, sliced)
 - 8 garlic cloves (smashed)
 - 3 tablespoons tomato paste
 - 2 tablespoons brown sugar

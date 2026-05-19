@@ -19,7 +19,7 @@ Well-fermented sour kimchi is chopped fine; the juice is reserved. A batter of p
 - 4 tablespoons kimchi juice (squeezed from the kimchi)
 - 100 g plain flour
 - 1 tablespoon sweet rice flour (optional, for chewier texture)
-- 1 large egg
+- 1 egg (large)
 - 120 ml ice-cold water (or sparkling water for crisper edges)
 - 1 teaspoon sugar
 - 2 spring onions (sliced thin)

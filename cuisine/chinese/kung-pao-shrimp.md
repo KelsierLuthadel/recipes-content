@@ -28,7 +28,7 @@ Kung pao (gongbao) shrimp is the seafood cousin of the classic Sichuan gongbao j
 - 1 tbsp Chinkiang black vinegar
 - 2 tsp granulated sugar
 - 1 tsp cornflour
-- 3 tbsp water or chicken stock
+- 3 tbsp water (or chicken stock)
 
 ### Stir-fry
 - 3 tbsp vegetable oil (Sichuan caiziyou ideal)

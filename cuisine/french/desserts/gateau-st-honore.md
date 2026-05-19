@@ -9,7 +9,7 @@
 
 ## Ingredients
 - 200 grams [puff pastry](../../baking/pastry/puff-pastry.md)
-- 1 quantity freshly made [choux paste](../../baking/pastry/choux-pastry.md)
+- 1 quantity [choux paste](../../baking/pastry/choux-pastry.md)
 - eggwash (1 egg yolk mixed with 1 tablespoon milk)
 - Filling
 - 600 grams [chantilly cream](../../baking/cremes/creme-chantilly.md) (flavoured generously with vanilla)

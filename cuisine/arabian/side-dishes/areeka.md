@@ -15,7 +15,7 @@ Soft, slightly toasted whole-wheat flatbread (khubz tameez works) tears into a h
 
 ## Ingredients
 
-- 4 medium khubz tameez or other slightly toasted whole-wheat flatbreads
+- 4 khubz tameez (medium, or other slightly toasted whole-wheat flatbreads)
 - 250 g pitted dates (medjool, kholas, or ajwa)
 - 80 g samna (clarified butter) or unsalted butter
 - ½ teaspoon ground cardamom

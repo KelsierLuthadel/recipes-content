@@ -15,7 +15,7 @@ Bone-in chicken thighs and drumsticks rub with a saffron-cumin-ginger-paprika pa
 ## Ingredients
 
 - 8 bone-in chicken thighs and drumsticks
-- 1 large onion (sliced)
+- 1 onion (large, sliced)
 - 4 garlic cloves (crushed)
 - 1 large pinch saffron threads (about ½ g)
 - 1 teaspoon ground ginger
@@ -25,11 +25,12 @@ Bone-in chicken thighs and drumsticks rub with a saffron-cumin-ginger-paprika pa
 - ½ teaspoon ground turmeric
 - 4 tablespoons olive oil
 - 500 ml chicken stock
-- 1 large preserved lemon (quartered, pulp scooped out and discarded, peel sliced)
+- 1 preserved lemon (large, quartered, pulp scooped out and discarded, peel sliced)
 - 150 g pitted green olives
 - A small bunch of coriander (chopped)
 - A small bunch of flat-leaf parsley (chopped)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - Couscous, to serve
 
 ## Method

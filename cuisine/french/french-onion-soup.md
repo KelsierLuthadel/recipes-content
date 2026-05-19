@@ -15,7 +15,7 @@ Onions cook for nearly an hour in butter and oil until they're deep mahogany, al
 ## Ingredients
 
 ### Onion base
-- 6 large onions (about 1 ½ kg, very thinly sliced)
+- 6 onions (large, about 1 ½ kg, very thinly sliced)
 - 50 g unsalted butter
 - 2 tablespoons olive oil
 - 1 teaspoon caster sugar
@@ -24,17 +24,18 @@ Onions cook for nearly an hour in butter and oil until they're deep mahogany, al
 - 1 tablespoon plain flour
 
 ### Broth
-- 100 ml dry sherry, port or cognac
+- 100 ml dry sherry, port (or cognac)
 - 200 ml dry white wine
 - 1.2 litres rich beef stock
 - 2 bay leaves
 - 4 thyme sprigs
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### To finish
 - 1 baguette (cut into 8-12 thick slices)
-- 200 g gruyère (grated)
-- 50 g comté or extra gruyère (for the top)
+- 200 g gruyère cheese (grated)
+- 50 g comté (or extra gruyère cheese, for the top)
 
 ## Method
 

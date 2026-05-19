@@ -15,21 +15,21 @@ Dried red beans soak overnight. Bacon and chorizo render in a wide pot; aromatic
 ## Ingredients
 
 - 500 g dried red kidney beans (or cargamanto)
-- 200 g smoked streaky bacon or pancetta (cut into 1 cm cubes)
+- 200 g smoked streaky bacon (or pancetta, cut into 1 cm cubes)
 - 1 chorizo (Spanish or Colombian-style, sliced thick)
-- 200 g cured pork belly or hock (in 1 piece)
-- 1 large onion (chopped)
+- 200 g cured pork belly (or hock, in 1 piece)
+- 1 onion (large, chopped)
 - 4 garlic cloves (crushed)
-- 1 medium green plantain (peeled, cut into 4 chunks)
+- 1 green plantain (medium, peeled, cut into 4 chunks)
 - 1 carrot (chopped, optional)
 - 2 fresh tomatoes (grated)
 - 1 teaspoon ground cumin
 - 1 teaspoon dried oregano
 - 1 ½ teaspoons salt (to taste)
 - ½ teaspoon ground black pepper
-- 2 ½ litres hot stock or water (top up as needed)
+- 2 ½ litres hot stock (or water, top up as needed)
 - 4 tablespoons hogao (see recipe)
-- Juice of 1 lime
+- 1 lime (juice)
 - 3 tablespoons fresh coriander (chopped, to finish)
 
 ## Method

@@ -18,25 +18,27 @@ Shortcrust pastry blind-bakes to a deep gold (essential, soggy bottom is a quich
 - 250 g plain flour
 - 125 g cold unsalted butter (cubed)
 - ½ teaspoon salt
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 3-4 tablespoons cold water
 
 ### Vegetable filling
 - 30 g unsalted butter
-- 1 large leek (white and pale green, sliced thinly)
-- 1 medium courgette (diced small)
+- 1 leek (large, white and pale green, sliced thinly)
+- 1 courgette (medium, diced small)
 - 200 g spinach (or kale)
 - 1 garlic clove (crushed)
 - 1 tablespoon fresh thyme leaves
-- Salt and black pepper
+- salt
+- pepper
 
 ### Custard
-- 4 large eggs
+- 4 eggs (large)
 - 200 ml double cream
 - 100 ml whole milk
-- 150 g gruyère (grated)
+- 150 g gruyère cheese (grated)
 - A grating of nutmeg
-- Salt and black pepper
+- salt
+- pepper
 
 ## Method
 

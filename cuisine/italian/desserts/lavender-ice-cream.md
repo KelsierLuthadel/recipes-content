@@ -20,7 +20,7 @@ A delicate and fragrant ice cream infused with the gentle floral notes of culina
 1. Once cold, remove the lavender and discard.
 1. Stir the cream into the crème anglaise.
 1. Pour the mixture into an ice-cream maker and churn for about 20 minutes, until the ice cream is firm but still creamy.
-1. Transfer the ice cream to a chilled freezer-proof container for half an hour before serving.
+1. Transfer the ice cream to a chilled freezer-proof container for ½ hour before serving.
 
 ## Notes
 - Only use culinary lavender from suppliers catering to food preparation; ornamental lavender can be treated with pesticides and is not for consumption

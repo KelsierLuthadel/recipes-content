@@ -24,7 +24,7 @@ Spicy peanut balls are deep-fried rice balls seasoned with garlic, ginger, chill
 - 1 teaspoon chilli sauce
 - 2 teaspoons soy sauce
 - 2 tablespoon coriander (freshly chopped)
-- juice of half a lime
+- ½ lime (juice)
 - 225 grams cooked white long grain rice
 - 115 grams peanuts (chopped)
 - oil (for frying)

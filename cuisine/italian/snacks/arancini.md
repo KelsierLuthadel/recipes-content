@@ -15,27 +15,30 @@ Cold risotto (saffron Milanese-style is traditional in arancini "alla Milanese";
 ## Ingredients
 
 ### Rice base (or use 500 g cold leftover risotto)
-- 300 g arborio or carnaroli rice
-- 1 litre hot chicken or vegetable stock
+- 300 g arborio rice
+- 1 litre hot chicken stock (or vegetable stock)
 - 1 large pinch saffron threads (soaked in 2 tablespoons hot water)
 - 50 g unsalted butter
-- 1 small onion (finely diced)
+- 1 onion (small, finely diced)
 - 100 ml dry white wine
-- 60 g parmesan (finely grated)
+- 60 g parmesan cheese (finely grated)
 - 1 teaspoon salt
 - ½ teaspoon black pepper
 
 ### To shape (added to cold rice)
-- 1 large egg (beaten - to bind the cold rice)
-- 30 g extra parmesan (grated)
+- 1 egg (large, beaten - to bind the cold rice)
+- 30 g extra parmesan cheese (grated)
 
 ### Filling (choose one or do half-and-half)
-- **Meat ragù option**: 200 g leftover beef-and-pork ragù (Bolognese-style - see [cuisine/italian/ragu.md](../ragu.md)) + 50 g frozen peas (defrosted)
-- **Mozzarella option**: 150 g low-moisture mozzarella (cut into 1 ½ cm cubes - one cube per arancino)
+#### Meat Ragù option
+ - 200 g Ragù (Bolognese-style - see [Ragu](../ragu.md)) 
+
+ #### Mozzarella option
+- 150 g low-moisture mozzarella (cut into 1 ½ cm cubes - one cube per arancino)
 
 ### Coating
 - 100 g plain flour
-- 2 large eggs (beaten with 1 tablespoon water)
+- 2 eggs (large, beaten with 1 tablespoon water)
 - 200 g fine dried breadcrumbs (panko gives extra crunch; fine breadcrumbs are more traditional)
 
 ### For frying
@@ -43,7 +46,7 @@ Cold risotto (saffron Milanese-style is traditional in arancini "alla Milanese";
 
 ### To serve
 - Lemon wedges
-- Marinara or a herby tomato sauce (optional)
+- Marinara (or a herby tomato sauce, optional)
 - Crispy radicchio salad
 
 ## Method

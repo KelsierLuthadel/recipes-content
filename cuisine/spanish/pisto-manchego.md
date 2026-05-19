@@ -15,18 +15,19 @@ Onion is softened slowly in olive oil; peppers join to break down sweetly; auber
 ## Ingredients
 
 - 100 ml olive oil (or 60 ml; pisto is properly oily)
-- 2 large onions (chopped)
+- 2 onions (large, chopped)
 - 2 red peppers (chopped)
 - 2 green peppers (chopped)
 - 5 garlic cloves (crushed)
-- 1 large aubergine (diced)
-- 2 medium courgettes (diced)
-- 6 large ripe tomatoes (skinned and chopped) or 1 x 800 g tin chopped tomatoes
+- 1 aubergine (large, diced)
+- 2 courgettes (medium, diced)
+- 6 ripe tomatoes (large, skinned and chopped) or 1 x 800 g tin chopped tomatoes
 - 1 teaspoon sweet smoked paprika
 - 1 teaspoon dried oregano
 - 1 teaspoon sugar
-- Salt and black pepper
-- 4 large eggs (optional, to serve)
+- salt
+- pepper
+- 4 eggs (large, optional, to serve)
 
 ## Method
 

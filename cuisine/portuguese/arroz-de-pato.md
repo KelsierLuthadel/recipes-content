@@ -15,21 +15,21 @@ A whole duck (or 4 large legs) is poached with onion, garlic, bay, cloves and le
 ## Ingredients
 
 ### Duck stock
-- 1 small whole duck (about 2 kg) - OR 4 large duck legs (about 1.4 kg)
-- 1 large onion (halved)
+- 1 whole duck (small, about 2 kg) - OR 4 large duck legs (about 1.4 kg)
+- 1 onion (large, halved)
 - 6 garlic cloves (crushed)
 - 3 bay leaves
 - 4 whole cloves
 - 1 cinnamon stick
-- A 5 cm strip of lemon peel
-- 1 large carrot (chopped)
+- lemon peel (5cm strip)
+- 1 carrot (large, chopped)
 - 1 leek (chopped)
 - 2 teaspoons salt
 - 2 ½ litres cold water
 
 ### Rice
 - 400 g long-grain rice (or Carolino, Portuguese-style)
-- 1 large onion (finely diced)
+- 1 onion (large, finely diced)
 - 4 tablespoons duck fat (skimmed from the stock - or use olive oil)
 - 2 bay leaves
 - 1 teaspoon salt (to taste)

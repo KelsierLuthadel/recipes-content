@@ -12,7 +12,7 @@
 - 50 grams flaked almonds (lightly toasted)
 - 400 ml sirop a sorbet
 - 500 grams ripe mixed berries
-- juice of 1 lemon
+- 1 lemon (juice)
 
 ## Overview
 An impressive three-layer dessert built with crispy French meringue rounds interspersed with poached berries and their brilliant ruby coulis. This sophisticated construction offers multiple textural contrasts and celebratory visual appeal, perfect for special occasions when simple elegance impresses most.

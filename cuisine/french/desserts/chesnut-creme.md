@@ -9,10 +9,10 @@
 **Prep Time:** 5 minutes
 
 ## Ingredients
-- half a sheet gelatine
+- ½ sheet gelatine
 - 180 grams tinned sweet chestnut purée
 - 200 ml whipping cream (chilled)
-- 100 ml Cognac or Armagnac
+- 100 ml Cognac (or Armagnac)
 - 8 Chocolate-dipped langues de chat
 - half quantity Sauce caramel
 - 125 ml milk

@@ -13,7 +13,7 @@ A jewel-toned berry sauce featuring fresh blackberries blended with Kirsch and l
 - 450 grams blackberries
 - 150 ml [sirop a sorbet](../../base-ingredients/syrup/sirop-a-sorbet.md)
 - 50 ml Kirsch
-- juice of half a lemon
+- ½ lemon (juice)
 
 ## Method
 1. Place all the ingredients into a blender and purée for about 1 minute until it forms a purée, then rub through a fine-meshed conical sieve.

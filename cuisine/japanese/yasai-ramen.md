@@ -24,7 +24,7 @@ Mushroom (dried shiitake) and kombu (kelp) infuse hot water for the broth base. 
 
 ### Tare and aroma
 - 2 tablespoons sesame oil
-- 4 tablespoons white or red miso paste
+- 4 tablespoons white misto paste(or red miso paste)
 - 3 tablespoons light soy sauce
 - 2 tablespoons mirin
 - 1 tablespoon Shaoxing rice wine (optional)
@@ -34,8 +34,8 @@ Mushroom (dried shiitake) and kombu (kelp) infuse hot water for the broth base. 
 - 200 g firm tofu (cubed)
 - 1 tablespoon vegetable oil (for the tofu)
 - 1 tablespoon soy sauce
-- 2 large eggs (soft-boiled, halved)
-- 1 small bok choy or pak choi (halved lengthwise)
+- 2 eggs (large, soft-boiled, halved)
+- 1 bok choy (small, or pak choi, halved lengthwise)
 - 100 g sweet corn (frozen or tinned)
 - 4 spring onions (sliced)
 - 1 sheet nori (cut into 4 strips)
@@ -43,7 +43,7 @@ Mushroom (dried shiitake) and kombu (kelp) infuse hot water for the broth base. 
 - A few drops chilli oil (optional)
 
 ### Noodles
-- 200 g fresh or 150 g dried ramen noodles
+- 200 g fresh ramen noodles (or 150 g dried ramen noodles)
 
 ## Method
 

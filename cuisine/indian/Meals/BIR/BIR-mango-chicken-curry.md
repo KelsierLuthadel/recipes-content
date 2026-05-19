@@ -19,7 +19,7 @@ A sweet-spicy BIR-style mango chicken curry with plenty of tropical fruit bright
 ### Base
 - 2 tbsp rapeseed (canola) oil
 - 2 tbsp garlic and ginger paste
-- 1 tbsp mixed powder or curry powder
+- 1 tbsp mixed powder (or curry powder)
 - 1 tsp chilli powder (or to taste)
 - 3 tbsp finely chopped coriander stalks
 - 2 fresh green chillies (bird’s eye or bullet), thinly sliced
@@ -31,7 +31,7 @@ A sweet-spicy BIR-style mango chicken curry with plenty of tropical fruit bright
 
 ### Protein and fruit
 - 700 g (1 lb 9 oz) pre-cooked chicken
-- 1 small mango, cut into bite-size chunks (or canned mango)
+- 1 mango (small), cut into bite-size chunks (or canned mango)
 
 ### Finishers
 - Salt, to taste

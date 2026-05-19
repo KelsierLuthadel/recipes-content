@@ -17,7 +17,8 @@ The dough is baked plain with just tomatoes and oil, then crowned off the heat w
 - 3 prepared [pizza dough](basic-pizza-dough.md) bases
 - 1 kg mixed heirloom tomatoes (halved, quartered or sliced depending on size)
 - Olive oil (for drizzling)
-- Salt and pepper
+- salt
+- pepper
 
 ### Herb Pesto
 - 30 grams mixed fresh herbs (basil, mint, parsley, finely chopped)
@@ -28,7 +29,7 @@ The dough is baked plain with just tomatoes and oil, then crowned off the heat w
 - 75 to 100 ml extra-virgin olive oil (plus extra to drizzle)
 
 ### To Finish
-- 2 x 100 gram balls burrata or buffalo mozzarella (roughly torn)
+- 200 gram balls burrata (or buffalo mozzarella, roughly torn)
 - Rocket leaves
 - Parmesan shavings (or vegetarian equivalent)
 

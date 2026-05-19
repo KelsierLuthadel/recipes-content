@@ -15,13 +15,13 @@ Eggs are soft-boiled for 6 minutes (yolk barely set), cooled, peeled. Sausagemea
 ## Ingredients
 
 ### Eggs
-- 6 large eggs (room temperature)
+- 6 eggs (large, room temperature)
 - Plus 2 large eggs (for the egg wash)
 
 ### Sausage layer
 - 600 g good sausagemeat
 - 1 tablespoon Dijon mustard
-- 1 tablespoon chopped sage or thyme
+- 1 tablespoon chopped sage (or thyme)
 - 2 spring onions (very finely chopped)
 - 1 teaspoon ground black pepper
 - ½ teaspoon salt

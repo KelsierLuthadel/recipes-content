@@ -25,14 +25,14 @@ A soft yeasted olive-oil dough rises for 45 minutes. The filling: spinach wilts 
 ### Filling
 - 600 g fresh spinach (washed) - OR 500 g frozen spinach (defrosted, squeezed bone-dry)
 - 1 teaspoon salt (for spinach)
-- 1 large onion (very finely diced)
+- 1 onion (large, very finely diced)
 - 1 ½ teaspoons salt (for onion)
 - 2 tablespoons sumac
 - 2 tablespoons fresh lemon juice
 - 1 tablespoon pomegranate molasses
 - 3 tablespoons olive oil
-- 30 g pine nuts (toasted) - optional but traditional
-- 1 teaspoon Aleppo pepper or chilli flakes
+- 30 g pine nuts (toasted, optional but traditional)
+- 1 teaspoon chilli flakes
 - ½ teaspoon black pepper
 
 ### To finish

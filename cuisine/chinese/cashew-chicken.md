@@ -23,7 +23,7 @@ This dish exemplifies the Chinese penchant for contrasting textures. Tender succ
 ### Cooking & Sauce
 - 150 ml groundnut oil
 - 50 grams cashew nuts
-- 2 teaspoons dry sherry or rice wine
+- 2 teaspoons dry sherry (or rice wine)
 - 1 tablespoon light soy sauce
 
 ### Garnish

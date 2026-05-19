@@ -31,10 +31,10 @@ Lamb shanks (or bone-in shoulder pieces) brown in mustard oil and ghee with slic
 - ½ teaspoon ground long pepper (or extra black pepper)
 
 ### Meat and base
-- 1.2 kg lamb shanks (4 small shanks) - OR bone-in lamb shoulder, cut into 5 cm chunks
+- 1.2 kg lamb shanks (4 small shanks, OR bone-in lamb shoulder, cut into 5 cm chunks)
 - 4 tablespoons mustard oil (Pakistani-style; if unavailable use sunflower)
 - 4 tablespoons ghee
-- 2 large onions (sliced)
+- 2 onions (large, sliced)
 - 3 tablespoons ginger-garlic paste
 - 2 teaspoons Kashmiri red chilli powder
 - 1 teaspoon ordinary chilli powder
@@ -48,7 +48,7 @@ Lamb shanks (or bone-in shoulder pieces) brown in mustard oil and ghee with slic
 
 ### Tarka
 - 4 tablespoons ghee
-- 1 large onion (sliced very thin; fried deep brown)
+- 1 onion (large, sliced very thin; fried deep brown)
 - 1 teaspoon cumin seeds
 
 ### Garnish
@@ -56,7 +56,7 @@ Lamb shanks (or bone-in shoulder pieces) brown in mustard oil and ghee with slic
 - 3 green chillies (sliced)
 - Small bunch coriander (chopped)
 - 1 lemon (cut into wedges)
-- Naan or paratha to serve
+- Naan (or paratha to serve)
 
 ## Method
 

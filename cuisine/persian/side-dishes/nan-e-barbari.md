@@ -30,7 +30,7 @@ A medium-hydration yeasted dough (about 65% hydration) of bread flour, yeast, sa
 
 ### Topping
 - 2 tablespoons white sesame seeds
-- 1 tablespoon black sesame seeds or nigella seeds
+- 1 tablespoon black sesame seeds (or nigella seeds)
 
 ## Method
 

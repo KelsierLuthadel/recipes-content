@@ -14,17 +14,18 @@ Lamb shoulder or middle-neck chunks layered with onions and stock in a deep dish
 
 ## Ingredients
 
-- 700 g lamb shoulder or middle-neck (cut into 3 cm chunks)
+- 700 g lamb shoulder (or middle-neck, cut into 3 cm chunks)
 - 2 tablespoons plain flour
 - 2 tablespoons vegetable oil
 - 2 onions (sliced)
 - 2 carrots (sliced)
 - 1 tablespoon Worcestershire sauce
 - 1 teaspoon fresh thyme leaves
-- 500 ml lamb or beef stock
+- 500 ml lamb (or beef stock)
 - 1 kg waxy potatoes (Charlotte or similar), peeled and sliced 5 mm thick
 - 50 g unsalted butter (melted)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ## Method
 

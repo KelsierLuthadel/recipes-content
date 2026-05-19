@@ -15,9 +15,9 @@ Vegetable oil bloomed with onion, garlic and a fresh thyme stripping. Shredded w
 ## Ingredients
 
 ### Vegetables
-- 1 medium green cabbage (about 800 g), tough core removed, shredded
-- 1 large carrot, peeled and cut into thin matchsticks
-- 1 medium onion, halved and sliced thin
+- 1 green cabbage (medium, about 800 g), tough core removed, shredded
+- 1 carrot (large), peeled and cut into thin matchsticks
+- 1 onion (medium), halved and sliced thin
 - 1 red pepper, deseeded and thinly sliced
 - 3 garlic cloves, finely chopped
 - 1 scotch bonnet chilli (whole, left intact)

@@ -23,7 +23,7 @@ Fajita marinade represents Tex-Mex efficiency and flavor: a quick-to-prepare liq
 
 ### Aromatics & Spices
 - 4-5 garlic cloves (crushed or minced)
-- 1 ½-2 teaspoons ground cumin
+- 2 teaspoons ground cumin
 - 1 teaspoon chilli powder (or ground dried chilli)
 - ½ teaspoon smoked paprika (optional, for depth)
 - ½ teaspoon fine sea salt (adjust to taste)
@@ -32,7 +32,7 @@ Fajita marinade represents Tex-Mex efficiency and flavor: a quick-to-prepare liq
 ### Optional Additions
 - ½ teaspoon crushed red chilli flakes (for extra heat)
 - ½ teaspoon ground coriander (for complexity)
-- 1 teaspoon honey or agave (for slight sweetness balancing heat)
+- 1 teaspoon honey (or agave, for slight sweetness balancing heat)
 - 1 tablespoon fresh cilantro, chopped (optional)
 
 ## Method
@@ -52,7 +52,7 @@ Fajita marinade represents Tex-Mex efficiency and flavor: a quick-to-prepare liq
 1. The garlic will begin to flavor the oil and citrus.
 
 ### Stage 3 - Add Dry Spices
-1. Add 1 ½-2 teaspoons ground cumin.
+1. Add 2 teaspoons ground cumin.
 1. Add 1 teaspoon chilli powder (or ground dried chilli).
 1. Add ½ teaspoon smoked paprika (optional, for depth).
 1. Add ½ teaspoon fine sea salt.

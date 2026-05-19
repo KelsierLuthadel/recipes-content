@@ -15,16 +15,16 @@ Stale French bread (a day-old baguette is perfect) tears into 3 cm chunks. Custa
 ## Ingredients
 
 ### Bread pudding
-- 400 g stale French bread or baguette (cubed into 3 cm pieces)
+- 400 g stale French bread (or baguette, cubed into 3 cm pieces)
 - 700 ml whole milk
-- 4 large eggs
+- 4 eggs (large)
 - 150 g caster sugar
 - 100 g raisins
-- 4 tablespoons bourbon (or rum) - for steeping the raisins
+- 4 tablespoons bourbon (or rum, for steeping the raisins)
 - 2 teaspoons vanilla extract
 - 1 teaspoon ground cinnamon
 - ½ teaspoon ground nutmeg
-- Zest of 1 lemon
+- 1 lemon (zest)
 - ½ teaspoon salt
 - 30 g unsalted butter (for dotting on top)
 
@@ -32,7 +32,7 @@ Stale French bread (a day-old baguette is perfect) tears into 3 cm chunks. Custa
 - 100 g unsalted butter
 - 200 g caster sugar
 - 200 ml double cream
-- 1 large egg (lightly beaten)
+- 1 egg (large, lightly beaten)
 - 3 tablespoons bourbon
 - 1 teaspoon vanilla extract
 

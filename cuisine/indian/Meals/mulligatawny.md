@@ -22,8 +22,8 @@ This Anglo-Indian mulligatawny soup blends curry spices with vegetables in a smo
 
 ### Vegetables
 - 1 potato (cut in 1 cm dice)
-- 1 large carrot (cut into 1 cm dice)
-- 1 large onion (cut into 1 cm dice)
+- 1 carrot (large, cut into 1 cm dice)
+- 1 onion (large, cut into 1 cm dice)
 - 1 leek (cut into 1 cm dice)
 - 2 celery sticks (cut into 1 cm dice)
 - 2 tomatoes (quartered)
@@ -31,7 +31,7 @@ This Anglo-Indian mulligatawny soup blends curry spices with vegetables in a smo
 ### Aromatics
 - 1 garlic clove (crushed)
 - 1 teaspoon fresh ginger (chopped finely)
-- half a teaspoon fresh thyme (chopped finely)
+- ½ teaspoon fresh thyme (chopped finely)
 
 ### Seasonings
 - 1 teaspoon ground turmeric

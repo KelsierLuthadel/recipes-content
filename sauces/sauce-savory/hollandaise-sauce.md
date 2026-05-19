@@ -24,7 +24,7 @@ A silky classic French mother sauce showcasing the art of emulsification. Egg yo
 ### Emulsion
 - 250 grams Clarified butter (cooled to tepid)
 - salt
-- juice of half a lemon (optional)
+- ½ lemon (optional, juice)
 
 ## Method
 

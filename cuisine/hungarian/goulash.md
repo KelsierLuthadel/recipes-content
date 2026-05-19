@@ -15,7 +15,7 @@ Beef chuck cubes brown briefly, then simmer slow in a generous onion base with p
 ## Ingredients
 
 - 1 kg beef chuck (cut into 3 cm cubes)
-- 3 tablespoons lard or vegetable oil
+- 3 tablespoons lard (or vegetable oil)
 - 4 onions (chopped; equal weight to the meat is traditional)
 - 4 garlic cloves (crushed)
 - 4 tablespoons Hungarian sweet paprika
@@ -27,7 +27,8 @@ Beef chuck cubes brown briefly, then simmer slow in a generous onion base with p
 - 2 bay leaves
 - 1 litre beef stock
 - 600 g potatoes (peeled, cubed)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - A small bunch of flat-leaf parsley (chopped)
 
 ## Method

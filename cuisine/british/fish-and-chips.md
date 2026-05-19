@@ -16,13 +16,14 @@ Floury Maris Piper potatoes are blanched, drained, and fried twice (once at low 
 
 ### Chips
 - 1 kg Maris Piper potatoes (peeled, cut into 1 ½ cm thick chips)
-- Vegetable oil or beef dripping for deep-frying
+- Vegetable oil (or beef dripping for deep-frying)
 - Sea salt
 
 ### Fish
-- 4 skinless cod or haddock fillets (about 150 g each)
+- 4 skinless cod (or haddock fillets, about 150 g each)
 - 2 tablespoons plain flour (for dusting)
-- Salt and pepper
+- salt
+- pepper
 
 ### Beer batter
 - 200 g plain flour
@@ -35,7 +36,8 @@ Floury Maris Piper potatoes are blanched, drained, and fried twice (once at low 
 - 30 g unsalted butter
 - 2 tablespoons crème fraîche
 - 1 tablespoon mint (chopped, optional)
-- Salt and pepper
+- salt
+- pepper
 
 ### To serve
 - Lemon wedges

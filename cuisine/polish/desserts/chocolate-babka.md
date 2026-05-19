@@ -19,7 +19,7 @@ A rich enriched dough is mixed and kneaded; first rise overnight in the fridge f
 - 100 g caster sugar
 - 1 sachet (7 g) fast-action yeast
 - 1 teaspoon salt
-- 4 large eggs
+- 4 eggs (large)
 - 100 ml whole milk (lukewarm)
 - 150 g unsalted butter (very soft, cubed)
 

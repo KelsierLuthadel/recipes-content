@@ -17,13 +17,13 @@ Cubed aubergine salts for 20 minutes to draw out water; squeezes dry. Onion frie
 - 600 g aubergine (cut into 3 cm cubes)
 - 1 ½ teaspoons salt (for sweating)
 - 4 tablespoons vegetable oil
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 6 garlic cloves (sliced)
 - 1 thumb fresh ginger (julienned)
 - 1 teaspoon ground turmeric
 - 1 teaspoon Kashmiri chilli powder
 - 2 tablespoons fish sauce
-- 1 tablespoon palm or brown sugar
+- 1 tablespoon palm sugar (or brown sugar)
 - 60 ml hot water
 - 3 tablespoons unsalted peanuts (lightly toasted, roughly crushed)
 - 2 tablespoons crispy fried shallots (to finish)

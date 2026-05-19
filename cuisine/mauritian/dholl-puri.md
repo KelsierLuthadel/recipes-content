@@ -35,7 +35,7 @@ Dholl puri is the bread, not the wrap. What you are making is a soft, lightly el
 ### Typical accompaniments (assemble on the side)
 - Butter bean curry (cari gros pois)
 - Rougaille tomato sauce
-- Coriander satini or mazavaroo chilli paste
+- Coriander satini (or mazavaroo chilli paste)
 - Wedge of lime
 
 ## Method

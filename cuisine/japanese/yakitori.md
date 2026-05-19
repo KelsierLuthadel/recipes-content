@@ -24,10 +24,12 @@ Chicken thigh and spring onion are threaded alternately on bamboo skewers, grill
 
 ### Skewers
 - 600 g boneless chicken thigh (skin on if possible, cut into 2 ½ cm cubes)
-- 6 spring onions or 2 leeks (white parts, cut into 2 ½ cm pieces)
-- 12 bamboo skewers (soaked 30 minutes in water)
+- 6 spring onions (or 2 leeks, white parts, cut into 2 ½ cm pieces)
 - A pinch of salt
 - Shichimi togarashi (to serve)
+
+### Equipment
+- 12 bamboo skewers (soaked 30 minutes in water)
 
 ## Method
 

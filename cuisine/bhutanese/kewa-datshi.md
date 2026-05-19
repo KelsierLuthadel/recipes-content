@@ -18,9 +18,9 @@ Waxy potatoes are sliced into thin rounds and simmered in water with green chill
 ### Main
 - 700 g waxy potatoes (Charlotte, new potatoes or Yukon Gold; peeled and sliced 5 mm thick)
 - 6 green chillies (slit lengthways, stems removed; reduce to 3-4 for less heat)
-- 1 medium onion (sliced into half-moons)
+- 1 onion (medium, sliced into half-moons)
 - 4 garlic cloves (smashed)
-- 2 small tomatoes (cut into wedges)
+- 2 tomatoes (small, cut into wedges)
 - 30 g butter
 - 300 ml water
 - 1 teaspoon salt
@@ -28,7 +28,7 @@ Waxy potatoes are sliced into thin rounds and simmered in water with green chill
 ### Cheese mix (yak churpi substitute)
 - 100 g Edam cheese (grated; or mild gouda)
 - 80 g processed cheese slices (chopped; e.g. supermarket American slices or Dairylea singles)
-- 40 g crumbled feta or a small handful of mild blue cheese (for the funky note - optional but recommended)
+- 40 g crumbled feta (or a small handful of mild blue cheese, for the funky note - optional but recommended)
 - 50 ml whole milk
 
 ### To finish
@@ -36,7 +36,7 @@ Waxy potatoes are sliced into thin rounds and simmered in water with green chill
 - Pinch of ground Sichuan pepper (optional)
 
 ### To serve
-- Bhutanese red rice or plain steamed rice
+- Bhutanese red rice (or plain steamed rice)
 
 ## Method
 

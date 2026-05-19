@@ -27,7 +27,8 @@ A glossy, rich sauce balancing fruity wine reduction with bright citrus zest and
 ### Liquid & finishing
 - 2 tablespoons olive oil
 - 700 ml Veal stock
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

@@ -20,14 +20,14 @@ Spinach is blanched for one minute then plunged into iced water (a step that loc
 - A small handful of fresh coriander (stems included)
 
 ### Paneer
-- 300 g paneer (cut into 2 cm cubes)
+- 300 g paneer cheese (cut into 2 cm cubes)
 - 2 tablespoons oil
 - ¼ teaspoon turmeric
 
 ### Masala
 - 2 tablespoons ghee (or oil)
 - 1 teaspoon cumin seeds
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 4 garlic cloves (finely chopped)
 - 30 g fresh ginger (finely grated)
 - 2 ripe tomatoes (chopped, or 1 tablespoon tomato paste plus 100 ml water)
@@ -45,7 +45,7 @@ Spinach is blanched for one minute then plunged into iced water (a step that loc
 
 ### To serve
 - A drizzle of cream
-- Naan, roti or basmati rice
+- Naan, roti (or basmati rice)
 
 ## Method
 

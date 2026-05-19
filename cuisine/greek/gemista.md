@@ -14,13 +14,13 @@ Tomatoes and peppers get tops cut off and centres scooped out. The tomato flesh 
 
 ## Ingredients
 
-- 4 large beef tomatoes
-- 4 large red, yellow or green peppers
-- 4 medium potatoes (peeled and cut into thick wedges)
+- 4 beef tomatoes (large)
+- 4 red (large), yellow or green peppers
+- 4 potatoes (medium, peeled and cut into thick wedges)
 
 ### Filling
 - 5 tablespoons olive oil
-- 2 large onions (finely chopped)
+- 2 onions (large, finely chopped)
 - 4 garlic cloves (crushed)
 - 200 g long-grain rice (rinsed)
 - 50 g pine nuts
@@ -31,7 +31,8 @@ Tomatoes and peppers get tops cut off and centres scooped out. The tomato flesh 
 - A small bunch of flat-leaf parsley (chopped)
 - 200 ml hot water
 - 1 teaspoon sugar
-- Salt and black pepper
+- salt
+- pepper
 
 ### For the tray
 - 4 tablespoons olive oil (extra)
@@ -39,7 +40,7 @@ Tomatoes and peppers get tops cut off and centres scooped out. The tomato flesh 
 - 200 ml hot water
 
 ### To serve
-- 200 g feta (crumbled)
+- 200 g feta cheese (crumbled)
 - Crusty bread
 
 ## Method

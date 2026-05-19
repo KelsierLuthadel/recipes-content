@@ -21,7 +21,8 @@ A rustic yet sophisticated tart featuring slowly roasted cherry tomatoes with fr
 - 4 tbsp white rice
 - 3 tbsp strong Dijon mustard
 - 2 tbsp double cream (lightly whipped)
-- Salt and freshly ground pepper
+- salt
+- pepper
 
 ### Topping
 - 500 g semi-confit cherry tomatoes

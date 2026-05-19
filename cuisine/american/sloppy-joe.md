@@ -16,8 +16,8 @@ Beef mince browns hard with onion, green pepper, garlic. A sauce of ketchup, tom
 
 - 600 g beef mince (15-20% fat)
 - 2 tablespoons vegetable oil
-- 1 large onion (chopped)
-- 1 small green bell pepper (chopped)
+- 1 onion (large, chopped)
+- 1 green bell pepper (small, chopped)
 - 4 garlic cloves (crushed)
 - 4 tablespoons tomato ketchup
 - 2 tablespoons tomato puree

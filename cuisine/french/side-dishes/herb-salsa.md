@@ -28,10 +28,11 @@ Herb salsa is uniquely French despite the Spanish name: it's essentially a warm 
 - 40 milliliters sherry vinegar (approximately 3 tablespoons)
 
 ### Other Seasonings
-- Juice of 1 lemon (approximately 2-3 tablespoons)
+- 1 lemon (approximately 2-3 tablespoons, juice)
 - 30 grams spring onions (approximately 2 large, finely chopped)
 - 1 tablespoon coarse-grain Meaux mustard (or whole-grain Dijon)
-- Salt and freshly ground pepper to taste
+- salt
+- pepper
 
 ## Method
 

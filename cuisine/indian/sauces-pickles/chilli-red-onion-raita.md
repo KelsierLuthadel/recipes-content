@@ -14,10 +14,10 @@ This is raita with structural elements and textural interest. Cool yoghurt ancho
 ## Ingredients
 
 ### Base
-- 1 small garlic clove
+- 1 garlic clove (small)
 - 150 ml natural yoghurt (full-fat preferred)
-- 1 large red onion
-- 1 small fresh green chilli (de-seeded)
+- 1 red onion (large)
+- 1 fresh green chilli (small, de-seeded)
 
 ### Spices & Aromatics
 - 1 teaspoon cumin seeds

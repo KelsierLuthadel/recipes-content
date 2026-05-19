@@ -14,7 +14,7 @@ Mint chutney is the Indian restaurant staple for good reason. A bright green ble
 - 270 grams plain yoghurt (full-fat preferred)
 - 1 tablespoon garlic and ginger paste
 - 1-3 bird's-eye green chillies (finely chopped)
-- Juice of 1 fresh lime
+- 1 fresh lime (juice)
 - 1-2 tablespoons commercial mint sauce (or fresh mint leaves blended)
 - Pinch of salt
 

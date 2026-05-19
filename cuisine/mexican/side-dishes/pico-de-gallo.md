@@ -10,14 +10,14 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Ripe tomato, white onion, jalapeño and coriander are chopped fine and tossed with lime and salt, then left to rest for half an hour for the juices to draw out and the flavours to combine. Texture matters: each bite should have all four colours. A staple alongside grilled meat, tacos and chips.
+Ripe tomato, white onion, jalapeño and coriander are chopped fine and tossed with lime and salt, then left to rest for ½ hour for the juices to draw out and the flavours to combine. Texture matters: each bite should have all four colours. A staple alongside grilled meat, tacos and chips.
 
 ## Ingredients
 - 4 ripe tomatoes (about 500 g, deseeded and finely diced)
-- 1 small white onion (finely diced)
+- 1 white onion (small, finely diced)
 - 1-2 jalapeños (seeded and finely chopped)
 - A large handful of fresh coriander (chopped, stems included)
-- Juice of 2 limes
+- 2 limes (juice)
 - 1 teaspoon salt (to taste)
 - ¼ teaspoon black pepper
 

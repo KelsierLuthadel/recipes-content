@@ -30,14 +30,14 @@ A traditional Lahori-style chicken curry built on a base of caramelised onions, 
 - 12 green cardamom pods
 - 9 whole cloves
 - 9 black peppercorns
-- 2 large tomatoes, chopped (about 300 g)
+- 2 tomatoes (large), chopped (about 300 g)
 - 30 ml tomato paste
 - 60 ml plain yogurt, whisked smooth
 - 240 ml water
 
 ### To Finish
 - 30 g fresh coriander, chopped
-- Juice of 1 lemon (about 30 ml)
+- 1 lemon (about 30 ml, juice)
 
 ## Method
 

@@ -16,7 +16,7 @@ A simple flour-egg-warm-water dough rests then rolls thin. Discs cut, filling sp
 
 ### Dough
 - 500 g plain flour
-- 1 large egg
+- 1 egg (large)
 - 1 teaspoon salt
 - 250 ml warm water
 - 2 tablespoons vegetable oil
@@ -24,7 +24,7 @@ A simple flour-egg-warm-water dough rests then rolls thin. Discs cut, filling sp
 ### Filling
 - 600 g floury potatoes (peeled, cubed)
 - 250 g twaróg cheese (or quark, ricotta, or a mix of cottage cheese and feta)
-- 1 medium onion (very finely chopped)
+- 1 onion (medium, very finely chopped)
 - 30 g unsalted butter
 - 1 teaspoon salt
 - ½ teaspoon black pepper

@@ -16,7 +16,7 @@ Yassa is one of the foundational dishes of Senegalese cooking, born in the Casam
 
 ### Chicken and marinade
 - 1.2 kg bone-in chicken thighs and drumsticks (skin on)
-- 4 large yellow onions (about 700 g, thinly sliced)
+- 4 yellow onions (large, about 700 g, thinly sliced)
 - 120 ml fresh lemon juice (about 3 lemons)
 - 3 tbsp Dijon mustard
 - 6 garlic cloves (minced)
@@ -38,7 +38,7 @@ Yassa is one of the foundational dishes of Senegalese cooking, born in the Casam
 - 30 ml neutral oil (for the pan)
 - 1 tbsp Dijon mustard
 - Salt to taste
-- Steamed white rice or attieke, to serve
+- Steamed white rice (or attieke), to serve
 
 ## Method
 

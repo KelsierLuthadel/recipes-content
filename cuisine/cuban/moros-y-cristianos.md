@@ -18,7 +18,7 @@ Black beans simmer with bay and oregano until tender. Sofrito (onion, pepper, ga
 - 1 bay leaf
 - 1 teaspoon dried oregano
 - 4 tablespoons olive oil
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 1 green pepper (finely chopped)
 - 6 garlic cloves (crushed)
 - 1 teaspoon ground cumin
@@ -26,7 +26,8 @@ Black beans simmer with bay and oregano until tender. Sofrito (onion, pepper, ga
 - 250 g long-grain rice (rinsed)
 - 600 ml vegetable stock (or bean cooking liquid)
 - 2 tablespoons red wine vinegar
-- Salt and black pepper
+- salt
+- pepper
 - Fresh coriander (to serve)
 
 ## Method

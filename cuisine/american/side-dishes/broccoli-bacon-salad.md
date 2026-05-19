@@ -20,12 +20,12 @@ Broccoli-bacon salad is a fixture of American potlucks, summer cookouts, and chu
 - ½ small red onion, very finely diced
 - 75 g sunflower seeds
 - 75 g dried cranberries
-- 75 g mature Cheddar, diced small (optional)
+- 75 g mature Cheddar cheese, diced small (optional)
 
 ### Dressing
 - 200 g good-quality mayonnaise
 - 2 tbsp cider vinegar
-- 2 tbsp caster sugar (or 1½ tbsp honey)
+- 2 tbsp caster sugar (or 1 ½ tbsp honey)
 - 1 tsp Dijon mustard
 - ¼ tsp fine sea salt
 - Freshly ground black pepper

@@ -27,7 +27,7 @@ A yeasted bread dough rises for 1 hour. Divided into 6 ropes (50 cm each); each 
 - 4 tablespoons baking soda
 
 ### To finish
-- 1 large egg (beaten with 1 tbsp water)
+- 1 egg (large, beaten with 1 tbsp water)
 - 2-3 tablespoons coarse pretzel salt (or coarse sea salt)
 - 30 g unsalted butter (melted, for brushing after baking)
 

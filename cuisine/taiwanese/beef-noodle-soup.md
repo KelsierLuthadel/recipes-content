@@ -22,20 +22,20 @@ Beef shank parboils briefly to remove scum. Aromatics, ginger, garlic, scallion,
 - 6 cm fresh ginger (sliced)
 - 6 garlic cloves (smashed)
 - 4 spring onions (whole, smashed)
-- 1 medium onion (quartered)
+- 1 onion (medium, quartered)
 - 4 star anise
 - 1 cinnamon stick
 - 4 dried red chillies
 - 2 tablespoons Sichuan peppercorns (lightly crushed)
 - 3 tablespoons doubanjiang (Pixian-style)
-- 2 medium tomatoes (quartered)
+- 2 tomatoes (medium, quartered)
 
 ### Liquid and seasoning
 - 100 ml Shaoxing rice wine
 - 100 ml light soy sauce
 - 2 tablespoons dark soy sauce (for colour)
 - 30 g rock sugar (or 2 tablespoons brown sugar)
-- 2 litres beef stock or water
+- 2 litres beef stock (or water)
 - 1 teaspoon salt (or to taste)
 
 ### To serve
@@ -44,7 +44,7 @@ Beef shank parboils briefly to remove scum. Aromatics, ginger, garlic, scallion,
 - 4 spring onions (sliced)
 - A small bunch of coriander (chopped)
 - Chilli oil (to drizzle)
-- Bok choy or pak choi (blanched briefly, optional)
+- Bok choy (or pak choi, blanched briefly, optional)
 
 ## Method
 

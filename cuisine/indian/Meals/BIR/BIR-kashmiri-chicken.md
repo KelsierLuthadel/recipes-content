@@ -17,19 +17,19 @@ An aromatic curry-house classic that blends tandoori chicken with a sweet-spicy 
 
 ## Ingredients
 ### Spice base
-- 3 tbsp melted ghee or rapeseed (canola) oil
+- 3 tbsp melted ghee (or rapeseed, canola) oil
 - 2 ½ cm (1 in) piece cinnamon stick
 - Seeds from 3 green cardamom pods
 - 2 cloves
 
 ### Aromatics and base
-- 1 small onion, very finely chopped
+- 1 onion (small), very finely chopped
 - 1 tbsp garlic and ginger paste
 - 2 tbsp ground almonds
 - ½ green bell pepper, thinly sliced
 
 ### Curry seasoning
-- 1 ½ tsp mixed powder or curry powder
+- 1 ½ tsp mixed powder (or curry powder)
 - ½ tsp Kashmiri chilli powder
 - 70 ml (¼ cup) tomato purée
 - 500 ml (2 cups) base curry sauce (base sauce), heated

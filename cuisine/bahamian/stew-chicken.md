@@ -36,15 +36,16 @@ A dark, brown-roux-thickened stew that sits closer to Louisiana gumbo than to Ja
 - 1 Caribbean sweet potato (peeled, diced)
 - 1 regular sweet potato (peeled, diced)
 - 1 piece cassava (~200 g, peeled, diced)
-- 1 large carrot (peeled, diced)
+- 1 carrot (large, peeled, diced)
 - 2 corn cobs (cut into 7 cm pieces)
 - 1 yellow plantain (cut into 5 cm pieces)
 - 1 teaspoon fresh thyme leaves
 - 1 teaspoon dried oregano
 - 2 tablespoons chopped parsley
 - 1 Scotch bonnet (diced; **optional, with gloves**)
-- Juice of 1 lime
-- Salt and pepper to taste
+- 1 lime (juice)
+- salt
+- pepper
 - Lime wedges to serve
 
 ## Method

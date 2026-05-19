@@ -15,7 +15,7 @@ Mojo, pronounced moh-ho, is the foundational citrus and garlic marinade of Cuban
 ## Ingredients
 
 ### Pork
-- 2.5 kg bone-in pork shoulder, skin on if available
+- 2 ½ kg bone-in pork shoulder, skin on if available
 
 ### Mojo marinade
 - 250 ml fresh sour orange juice (or 170 ml orange juice + 80 ml lime juice)
@@ -25,7 +25,7 @@ Mojo, pronounced moh-ho, is the foundational citrus and garlic marinade of Cuban
 - 1 tbsp flaky salt
 - 1 tsp black pepper
 - 100 ml olive oil
-- 1 small onion, thinly sliced
+- 1 onion (small), thinly sliced
 - 2 bay leaves
 
 ### To serve

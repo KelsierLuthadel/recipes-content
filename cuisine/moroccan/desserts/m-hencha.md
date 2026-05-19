@@ -20,14 +20,17 @@ Almond paste: ground almonds, icing sugar, melted butter, cinnamon, orange-flowe
 - 80 g unsalted butter (melted)
 - 1 tablespoon ground cinnamon
 - 3 tablespoons orange-flower water
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 1 tablespoon honey
 - A pinch of salt
 
 ### Pastry
-- 12 sheets warka or filo pastry (large rounds preferred; rectangles work - cut to ~30 × 25 cm)
+- 12 sheets warka (or filo pastry, large rounds preferred; rectangles work - cut to ~30 × 25 cm)
 - 80 g unsalted butter (melted, for brushing)
-- 1 egg yolk + 1 tablespoon water (for the final wash)
+
+### Eggwash
+- 1 egg yolk
+- 1 tablespoon water
 
 ### Garnish
 - 2 tablespoons icing sugar
@@ -38,7 +41,7 @@ Almond paste: ground almonds, icing sugar, melted butter, cinnamon, orange-flowe
 ### Stage 1 - Almond paste
 1. In a wide bowl, combine ground almonds, icing sugar, salt, cinnamon, melted butter, orange-flower water, honey and egg yolk.
 1. Mix until the mixture comes together as a soft pliable paste.
-1. Divide into 6 equal portions; roll each into a rope 35 cm long, 1.5 cm thick.
+1. Divide into 6 equal portions; roll each into a rope 35 cm long, 1 ½ cm thick.
 
 ### Stage 2 - Cylinder assembly
 1. Lay a warka or filo sheet flat (use 2 stacked thin filo sheets if substituting; warka is naturally a bit thicker).

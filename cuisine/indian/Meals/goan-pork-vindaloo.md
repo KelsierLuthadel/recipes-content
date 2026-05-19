@@ -26,12 +26,12 @@ Whole Kashmiri red chillies soak in white wine vinegar; ground with garlic, ging
 - ½ teaspoon cardamom seeds (from green pods)
 - 8 garlic cloves
 - 1 thumb fresh ginger
-- 1 teaspoon caster sugar or jaggery
+- 1 teaspoon caster sugar (or jaggery)
 
 ### Pork
 - 1 kg pork shoulder (cut into 4 cm cubes)
 - 4 tablespoons vegetable oil
-- 3 medium onions (finely chopped)
+- 3 onions (medium, finely chopped)
 - 2 fresh tomatoes (grated)
 - 400 ml hot water
 - 1 tablespoon palm jaggery (or brown sugar)

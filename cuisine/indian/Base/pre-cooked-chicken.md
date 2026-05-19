@@ -16,11 +16,11 @@
 - 1 tsp Cumin seeds
 - 1 tsp coriander seeds
 - 3 Indian Bay leaves
-- 2 Large Onions (finely chopped)
+- 2 Onions (large, finely chopped)
 - ½ tsp sea salt
 - 2 Tbsp Garlic and Ginger paste
 - 1 tsp ground turmeric
-- 2 x 400g tins chopped Tomatoes
+- 800g tins chopped Tomatoes
 - Water (to cover)
 - 1 tsp [Garam Masala](garam-masala.md)
 

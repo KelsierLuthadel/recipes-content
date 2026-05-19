@@ -17,7 +17,8 @@ Brussels sprouts au gratin transforms humble sprouts into a rich and crunchy sid
 - 120 grams flat leaf parsley (finely chopped)
 - 4 cloves garlic (finely chopped)
 - 180 grams pecorino cheese (freshly grated)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 1. Preheat the oven to 200°C. 

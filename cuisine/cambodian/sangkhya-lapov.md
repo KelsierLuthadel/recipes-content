@@ -14,13 +14,13 @@ A small kabocha or buttercup pumpkin has its top cut off and seeds scooped out. 
 
 ## Ingredients
 
-- 1 small kabocha or buttercup pumpkin (around 1 ½ kg)
-- 5 large eggs
+- 1 kabocha (small, or buttercup pumpkin, around 1 ½ kg)
+- 5 eggs (large)
 - 250 ml thick coconut milk (or coconut cream)
 - 200 g palm sugar (or brown sugar)
 - ½ teaspoon salt
 - 1 teaspoon vanilla extract (optional)
-- A few pandan leaves (knotted) - optional but classic
+- A few pandan leaves (knotted, optional but classic)
 
 ## Method
 

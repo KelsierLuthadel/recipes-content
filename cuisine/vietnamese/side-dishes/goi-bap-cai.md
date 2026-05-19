@@ -23,8 +23,8 @@ Poached chicken is shredded and tossed with finely shredded cabbage, carrot and 
 
 ### Salad
 - 400 g white cabbage (very finely shredded)
-- 1 medium carrot (julienned)
-- 1 small red onion (very thinly sliced)
+- 1 carrot (medium, julienned)
+- 1 red onion (small, very thinly sliced)
 - 2 tablespoons rice vinegar
 - ½ teaspoon caster sugar
 - A large handful mint leaves

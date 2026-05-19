@@ -16,7 +16,7 @@ Bratwurst is less a single sausage than a whole family of them, with each German
 
 ### Bratwurst
 - 8 fresh bratwurst (about 120 g each)
-- 500 ml weak lager or water
+- 500 ml weak lager (or water)
 - 1 bay leaf
 - 5 g caraway seeds
 - ½ onion (sliced)
@@ -28,14 +28,15 @@ Bratwurst is less a single sausage than a whole family of them, with each German
 - 5 g caraway seeds
 - 2 juniper berries (crushed)
 - 1 bay leaf
-- 150 ml dry white wine or apple juice
-- 100 ml chicken or vegetable stock
+- 150 ml dry white wine (or apple juice)
+- 100 ml chicken (or vegetable stock)
 - 5 g sugar
-- Salt and black pepper
+- salt
+- pepper
 
 ### To serve
 - Sharp German mustard (Löwensenf medium-hot or Düsseldorf)
-- Crusty rye bread or pretzel rolls
+- Crusty rye bread (or pretzel rolls)
 
 ## Method
 

@@ -16,22 +16,23 @@ A simple egg-flour-milk batter (Yorkshire pudding ratio) poured around browned s
 
 ### Toad
 - 8 good-quality pork sausages (Cumberland or Lincolnshire are ideal)
-- 2 tablespoons beef dripping or vegetable oil
+- 2 tablespoons beef dripping (or vegetable oil)
 - 140 g plain flour
-- 4 large eggs
+- 4 eggs (large)
 - 200 ml whole milk
 - ½ teaspoon salt
 - A few sprigs of fresh thyme (optional)
 
 ### Onion gravy
 - 2 tablespoons unsalted butter
-- 2 large onions (thinly sliced)
+- 2 onions (large, thinly sliced)
 - 1 teaspoon caster sugar
 - 1 tablespoon plain flour
 - 400 ml beef stock
 - 1 tablespoon Worcestershire sauce
 - 1 teaspoon Dijon mustard
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ## Method
 

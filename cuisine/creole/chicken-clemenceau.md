@@ -20,12 +20,12 @@ Chicken pieces brown in oil and butter; finished in the oven 20 minutes. Tiny di
 - 1 ½ teaspoons salt
 - 1 teaspoon ground black pepper
 - 600 g floury potatoes (peeled, cut into 1 cm dice - brunoise)
-- 250 g cremini or button mushrooms (quartered)
+- 250 g cremini (or button mushrooms, quartered)
 - 200 g frozen petits pois
 - 6 garlic cloves (crushed)
 - 3 tablespoons dry sherry (or dry white wine)
 - 4 tablespoons fresh parsley (chopped)
-- Juice of ½ lemon
+- ½ lemon (juice)
 - 200 ml vegetable oil for frying potatoes
 
 ## Method

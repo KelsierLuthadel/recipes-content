@@ -17,7 +17,7 @@ A classic Chinese dish bursting with the fragrance of black bean and garlic. Chi
 ### Protein & Marinade
 - 450 grams chicken wings (cut in half at the joint)
 - 1 tablespoon light soy sauce
-- 1 tablespoon dry sherry or rice wine
+- 1 tablespoon dry sherry (or rice wine)
 
 ### Cooking
 - 2 teaspoons groundnut oil

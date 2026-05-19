@@ -29,7 +29,8 @@ Silken tofu poaches briefly in salted water (firms it up so it doesn't break). D
 - 2 cm fresh ginger (grated)
 
 ### Liquid and finish
-- 300 ml mushroom-soaking liquid (strained) + 150 ml vegetable stock
+- 300 ml mushroom-soaking liquid (strained)
+- 150 ml vegetable stock
 - 1 tablespoon light soy sauce
 - 1 teaspoon dark soy sauce (for colour)
 - 1 teaspoon sugar

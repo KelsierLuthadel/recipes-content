@@ -25,7 +25,7 @@ French beans are trimmed and chopped into 1 cm pieces. A temper of mustard seeds
 - 1 teaspoon urad dal
 - 2 dried red chillies (broken in half)
 - 15 fresh curry leaves
-- 1 small onion (finely chopped)
+- 1 onion (small, finely chopped)
 - 2 garlic cloves (finely chopped)
 
 ### To finish

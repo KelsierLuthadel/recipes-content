@@ -17,7 +17,7 @@ Crème chiboust is a sophisticated cream that marries the velvety texture of cus
 - 80 grams sugar
 - 30 grams custard powder
 - 350 ml milk
-- half a vanilla pod
+- ½ vanilla pod
 
 ### For the Meringue Italienne
 - 80 ml water

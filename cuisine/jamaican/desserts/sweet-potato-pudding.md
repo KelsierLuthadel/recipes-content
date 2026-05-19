@@ -22,7 +22,7 @@ Yellow sweet potatoes (boniato or the Caribbean white-fleshed variety if you can
 - 75 g raisins
 - 50 g mixed candied peel (optional but traditional)
 - 60 g unsalted butter, melted
-- 1 large egg, beaten
+- 1 egg (large), beaten
 - 2 tablespoons dark rum
 - 1 teaspoon vanilla extract
 - 1 teaspoon ground nutmeg

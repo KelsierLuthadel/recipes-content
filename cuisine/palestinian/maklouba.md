@@ -26,10 +26,10 @@ Aubergines are fried first to soften and develop colour. Cauliflower is fried to
 - 1 ½ teaspoons salt
 
 ### Vegetables
-- 2 medium aubergines (sliced 1 cm rounds)
-- 1 medium cauliflower (small florets)
+- 2 aubergines (medium, sliced 1 cm rounds)
+- 1 cauliflower (medium, small florets)
 - Vegetable oil for frying
-- 2 medium tomatoes (sliced)
+- 2 tomatoes (medium, sliced)
 
 ### Rice
 - 500 g basmati rice (rinsed, soaked 30 min)

@@ -24,7 +24,7 @@ A custard-free, fully coconut ice cream. Coconut milk (full-fat) and coconut cre
 - 1 teaspoon vanilla extract (optional)
 
 ### Topping bar (per serving - set out for everyone to mix)
-- 2 small bananas (sliced)
+- 2 bananas (small, sliced)
 - 200 g sweet sticky rice (cooked, with coconut sauce - see [khao-niao.md](../side-dishes/khao-niao.md))
 - 80 g salted roasted peanuts (crushed)
 - 200 g sweet red bean paste OR cooked azuki beans in syrup (sold tinned at Asian shops)

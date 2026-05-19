@@ -13,7 +13,7 @@
 ### Berry compote
 - 200 grams caster sugar
 - 400 grams mixed red berries
-- juice of 1 lemon
+- 1 lemon (juice)
 
 ### Base
 - 400 grams chocolate Genoese sponge mixture

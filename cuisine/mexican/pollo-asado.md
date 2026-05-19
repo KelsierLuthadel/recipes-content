@@ -15,7 +15,7 @@ Pollo asado is the Mexican answer to grilled chicken, and the marinade is the en
 ## Ingredients
 
 ### Chicken
-- 1.5 kg bone-in chicken pieces (mix of thighs, drumsticks, breast halves)
+- 1 ½ kg bone-in chicken pieces (mix of thighs, drumsticks, breast halves)
 
 ### Marinade
 - 50 g achiote paste
@@ -35,7 +35,7 @@ Pollo asado is the Mexican answer to grilled chicken, and the marinade is the en
 - Warm corn tortillas
 - Lime wedges
 - Charred spring onions
-- Salsa roja or guacamole
+- Salsa roja (or guacamole)
 
 ## Method
 

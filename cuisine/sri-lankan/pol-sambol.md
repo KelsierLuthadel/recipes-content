@@ -16,10 +16,10 @@ Fresh grated coconut (or rehydrated desiccated coconut) is mashed with dried red
 
 - 200 g freshly grated coconut (frozen and thawed is fine; or 100 g desiccated coconut rehydrated with 100 ml hot water for 10 min)
 - 4 dried red chillies (Kashmiri or Guntur), or 2 teaspoons Sri Lankan red chilli powder
-- 1 small red onion (very finely chopped)
+- 1 red onion (small, very finely chopped)
 - 2 tablespoons Maldive fish flakes (umbalakada; pounded, optional)
 - 1 ½ teaspoons salt
-- Juice of 1 lime (about 2 tablespoons)
+- 1 lime (about 2 tablespoons, juice)
 - 4 fresh curry leaves (finely shredded; optional)
 - 1 teaspoon sugar (optional, balances the heat)
 

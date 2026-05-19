@@ -15,7 +15,7 @@ Egg whites whip with sugar to stiff glossy peaks; cornflour and white wine vineg
 ## Ingredients
 
 ### Meringue base
-- 6 large egg whites (room temperature)
+- 6 egg whites (large, room temperature)
 - 350 g caster sugar
 - 2 teaspoons cornflour
 - 1 teaspoon white wine vinegar (or lemon juice)
@@ -26,7 +26,7 @@ Egg whites whip with sugar to stiff glossy peaks; cornflour and white wine vineg
 - 500 ml double cream
 - 2 tablespoons icing sugar
 - 1 teaspoon vanilla extract
-- 400 g mixed berries (strawberries, raspberries, blackberries) or passion fruit + mango or whatever's in season
+- 400 g mixed berries (strawberries, raspberries, blackberries)
 - A small handful of fresh mint leaves
 
 ## Method

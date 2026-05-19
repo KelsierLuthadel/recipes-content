@@ -15,7 +15,7 @@ Three margherita-style pizzas with a long-cooked plum tomato ragù as the base, 
 
 ### Tomato Ragù
 - 500 grams ripe plum tomatoes (roughly chopped)
-- 1 large garlic clove (finely chopped)
+- 1 garlic clove (large, finely chopped)
 - 2 tablespoons olive oil
 - ¼ teaspoon sugar
 

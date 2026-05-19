@@ -30,7 +30,7 @@ This aromatic Thai-inspired soup combines tender chicken, rice noodles, and coco
 - 300 grams pak choy (cut into long strips)
 
 ### Aromatics
-- 1 small fresh red chilli (de-seeded and finely chopped)
+- 1 fresh red chilli (small, de-seeded and finely chopped)
 - 1 tablespoon fresh ginger (finely chopped)
 
 ### Seasonings

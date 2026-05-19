@@ -28,7 +28,7 @@ Poblanos are charred and skinned, slit and stuffed with melting cheese. They get
 - 200 ml chicken stock
 
 ### Batter and frying
-- 4 large eggs (separated)
+- 4 eggs (large, separated)
 - 4 tablespoons plain flour (for dusting peppers)
 - A pinch of salt
 - Vegetable oil for shallow-frying (about 200 ml)

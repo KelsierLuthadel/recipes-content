@@ -28,8 +28,8 @@ Chicken poaches in a heavily spiced broth (saffron, ginger, cinnamon, lemon). Th
 - 600 ml chicken stock
 - A small bunch of fresh coriander
 - A small bunch of flat-leaf parsley
-- Juice of 1 lemon
-- 4 large eggs (beaten)
+- 1 lemon (juice)
+- 4 eggs (large, beaten)
 - Salt
 
 ### Almond layer

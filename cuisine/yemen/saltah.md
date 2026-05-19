@@ -15,7 +15,7 @@ Lamb (or beef) is slow-cooked in a Yemeni tomato-onion-spice stew (called maraq)
 ## Ingredients
 
 ### Maraq (meat stew)
-- 800 g lamb shoulder, neck or beef shin (cut into 3 cm chunks)
+- 800 g lamb shoulder, neck (or beef shin, cut into 3 cm chunks)
 - 3 tablespoons vegetable oil
 - 2 onions (chopped)
 - 6 garlic cloves (crushed)
@@ -34,14 +34,14 @@ Lamb (or beef) is slow-cooked in a Yemeni tomato-onion-spice stew (called maraq)
 ### Hulba (whipped fenugreek)
 - 3 tablespoons fenugreek seeds (the smaller, more bitter Yemeni variety if available)
 - 250 ml cold water (for overnight soaking)
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 garlic clove
 - ½ teaspoon salt
 - 2 tablespoons cold water (for whipping)
 
 ### To finish
 - 4 tablespoons sahawiq (Yemeni green chilli sauce, recipe in the sides)
-- Lahoh or hot flatbread (to scoop)
+- Lahoh (or hot flatbread, to scoop)
 
 ## Method
 

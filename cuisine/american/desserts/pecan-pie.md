@@ -18,7 +18,7 @@ Sweet shortcrust pastry is rolled into a 23 cm tin and blind-baked for 15 minute
 - 200 g plain flour
 - 100 g cold unsalted butter (cubed)
 - 50 g icing sugar
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 2 tablespoons ice-cold water
 - A pinch of salt
 
@@ -26,7 +26,7 @@ Sweet shortcrust pastry is rolled into a 23 cm tin and blind-baked for 15 minute
 - 200 g dark brown sugar
 - 250 ml light corn syrup (or golden syrup if corn syrup is unavailable)
 - 80 g unsalted butter (melted)
-- 4 large eggs
+- 4 eggs (large)
 - 2 tablespoons bourbon (or rye whiskey)
 - 1 tablespoon vanilla extract
 - ½ teaspoon fine sea salt

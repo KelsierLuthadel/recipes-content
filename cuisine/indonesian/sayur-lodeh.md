@@ -17,7 +17,7 @@ A spice paste of shallots, garlic, candlenuts (or cashews), turmeric and chilli 
 ### Spice paste
 - 6 shallots (peeled)
 - 5 garlic cloves
-- 3 candlenuts or cashews (raw)
+- 3 candlenuts (or cashews, raw)
 - 2 long red chillies (deseeded for less heat)
 - 2 cm fresh turmeric (or 1 teaspoon ground)
 - 1 cm fresh ginger
@@ -28,16 +28,16 @@ A spice paste of shallots, garlic, candlenuts (or cashews), turmeric and chilli 
 - 4 kaffir lime leaves
 - 3 cm galangal (sliced; or extra ginger)
 - 400 ml coconut milk
-- 600 ml vegetable stock or water
+- 600 ml vegetable stock (or water)
 - 200 g long beans (in 5 cm lengths)
-- 200 g chayote or kabocha squash (peeled and cubed)
-- 1 small aubergine (cubed)
+- 200 g chayote (or kabocha squash, peeled and cubed)
+- 1 aubergine (small, cubed)
 - 200 g firm tofu (cubed)
 - 100 g cabbage (shredded)
 - 2 tablespoons palm sugar (or brown sugar)
 - 2 tablespoons light soy sauce
 - 1 teaspoon salt
-- Juice of half a lime
+- ½ lime (juice)
 
 ## Method
 

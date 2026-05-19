@@ -14,11 +14,11 @@ Yuca flour (sour cassava flour, almidón agrio), masarepa (white-corn flour), sa
 
 ## Ingredients
 
-- 300 g yuca (cassava) flour - preferably sour cassava flour (almidón agrio); regular almidón dulce works
+- 300 g yuca (cassava) flour
 - 100 g masarepa (white pre-cooked corn flour, P.A.N. or similar)
 - 250 g feta (or fresh white cheese - queso costeño, ricotta salata, or salted ricotta)
-- 100 g mature cheddar (finely grated, optional - adds richness)
-- 1 large egg
+- 100 g mature cheddar cheese (finely grated, optional - adds richness)
+- 1 egg (large)
 - 1 tablespoon caster sugar
 - ½ teaspoon salt (taste - depends on the cheese saltiness)
 - 80 ml whole milk (more as needed)

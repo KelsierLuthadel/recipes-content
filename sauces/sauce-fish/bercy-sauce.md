@@ -23,9 +23,10 @@ A delicate, pale sauce combining shallot-kissed white wine reduction with velout
 
 ### Base & finishing
 - 400 ml [Velouté sauce](./veloute-sauce.md)
-- juice of half a lemon
+- ½ lemon (juice)
 - 2 tablespoons parsley (chopped)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

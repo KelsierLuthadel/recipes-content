@@ -12,7 +12,7 @@
 ## Ingredients
 - 50 grams butter (melted and cooled)
 - butter (to grease)
-- 3 small eggs (at room temperature)
+- 3 eggs (small, at room temperature)
 - 175 grams caster sugar
 - finely grated zest of 2 lemons
 - pinch of salt
@@ -24,7 +24,7 @@
 
 ### Icing
 - 80 grams icing sugar
-- juice of 1 lemon
+- 1 lemon (juice)
 
 ## Overview
 Moist and fragrant lemon cakes with a tender crumb, brushed with rum syrup and topped with a shimmering lemon icing glaze. These elegant loaves showcase brightness and simplicity, making them perfect for elegant entertaining or afternoon tea service, best sliced thin and served with fresh tea.

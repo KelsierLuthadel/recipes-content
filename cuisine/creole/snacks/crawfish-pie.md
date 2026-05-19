@@ -23,13 +23,13 @@ Sweet shortcrust pastry chills for 30 min. Filling: butter + flour make a blonde
 ### Filling
 - 50 g unsalted butter
 - 30 g plain flour
-- 1 medium onion (finely diced)
+- 1 onion (medium, finely diced)
 - 2 celery stalks (finely diced)
 - ½ green pepper (finely diced)
 - 3 garlic cloves (minced)
 - 300 g cooked crawfish tail meat (frozen or fresh; substitute small peeled shrimp)
 - 2 tablespoons tomato paste
-- 150 ml chicken or shellfish stock
+- 150 ml chicken (or shellfish stock)
 - 80 ml double cream
 - 2 teaspoons Cajun seasoning (paprika + cayenne + thyme + garlic powder + onion powder)
 - 1 teaspoon Worcestershire sauce

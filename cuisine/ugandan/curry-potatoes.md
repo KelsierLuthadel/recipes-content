@@ -14,8 +14,8 @@ Ugandan curry potatoes are one of those everyday dishes that say more about a co
 
 ## Ingredients
 - 800 g waxy potatoes (peeled, cut into 3 cm chunks)
-- 2 medium onions (finely chopped)
-- 4 medium tomatoes (about 400 g, finely chopped)
+- 2 onions (medium, finely chopped)
+- 4 tomatoes (medium, about 400 g, finely chopped)
 - 4 garlic cloves (minced)
 - 15 g fresh ginger (grated)
 - 1 green chilli (finely chopped, optional)
@@ -25,7 +25,7 @@ Ugandan curry potatoes are one of those everyday dishes that say more about a co
 - ½ tsp ground turmeric
 - 1 tbsp tomato paste
 - 45 ml neutral oil
-- 400 ml water or vegetable stock
+- 400 ml water (or vegetable stock)
 - 1 tsp salt (or to taste)
 - Small handful fresh coriander (chopped, to finish)
 

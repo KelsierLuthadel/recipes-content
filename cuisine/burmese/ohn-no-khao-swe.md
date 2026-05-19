@@ -17,7 +17,7 @@ Chicken thighs poach in stock with shallot, garlic, ginger and turmeric for 25 m
 ### Chicken and broth
 - 8 bone-in chicken thighs
 - 2 tablespoons vegetable oil
-- 2 medium onions (chopped)
+- 2 onions (medium, chopped)
 - 6 garlic cloves (crushed)
 - 1 thumb fresh ginger (sliced)
 - 2 teaspoons ground turmeric
@@ -33,17 +33,17 @@ Chicken thighs poach in stock with shallot, garlic, ginger and turmeric for 25 m
 - ½ teaspoon ground black pepper
 
 ### Noodles
-- 400 g fresh or dried yellow egg noodles (or thin Chinese egg noodles)
+- 400 g fresh egg noodles (or dried yellow egg noodles, or thin Chinese egg noodles)
 
 ### Garnish (essential)
 - 4 hard-boiled eggs (halved)
 - 100 g crispy fried shallots (from a packet, or home-fried)
-- 1 small red onion (sliced thin)
+- 1 red onion (small, sliced thin)
 - 1 small handful fresh cilantro (chopped)
 - 4 spring onions (sliced)
 - 2 limes (cut into wedges)
-- 4 small dried red chillies (broken into flakes)
-- Dried red chilli oil or chilli flakes
+- 4 dried red chillies (small, broken into flakes)
+- Dried red chilli oil (or chilli flakes)
 - 4 tablespoons gram flour fried into a chickpea-flour crunch (optional but classic)
 
 ## Method
@@ -71,7 +71,7 @@ Chicken thighs poach in stock with shallot, garlic, ginger and turmeric for 25 m
 ### Stage 5 - Plate
 1. Divide noodles between four wide bowls.
 1. Ladle the hot soup with shredded chicken over the top.
-1. Top each bowl with half a boiled egg, a small handful of fried shallots, sliced raw onion, cilantro and spring onion.
+1. Top each bowl with ½ boiled egg, a small handful of fried shallots, sliced raw onion, cilantro and spring onion.
 1. Sprinkle with chilli flakes; place a lime wedge alongside.
 
 ### Stage 6 - Eat

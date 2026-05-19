@@ -26,7 +26,7 @@ This fast, easy, and delicious supper showcases how Chinese five-spice powder fl
 - 2 tablespoon groundnut oil
 
 ### Vegetables & Sauce
-- 1 medium red chilli (deseeded and chopped)
+- 1 red chilli (medium, deseeded and chopped)
 - ½ onion (chopped)
 - 1 small handful broccoli
 - 1 small handful chopped mangetout
@@ -36,7 +36,8 @@ This fast, easy, and delicious supper showcases how Chinese five-spice powder fl
 - 1 tablespoon light soy sauce
 - 1 tablespoon cornflour (blended with 2 tablespoon cold water)
 - 1 spring onion (finely sliced)
-- Salt and ground white pepper
+- salt
+- pepper
 
 ## Method
 

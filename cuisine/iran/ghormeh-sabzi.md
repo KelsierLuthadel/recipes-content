@@ -16,25 +16,25 @@ Onion fries deep golden in oil; turmeric and a touch of cinnamon toast in. Cubed
 
 - 800 g lamb shoulder (or beef chuck) - 3 cm cubes
 - 4 tablespoons vegetable oil (split)
-- 2 large onions (chopped)
+- 2 onions (large, chopped)
 - 1 teaspoon ground turmeric
 - ¼ teaspoon ground cinnamon
 - 1 teaspoon ground black pepper
 - 1 ½ teaspoons salt
 - 4 dried black limes (loomi - pierced, whole)
 - 1 litre hot stock
-- 1 (400 g) tin red kidney beans (drained) - or 100 g dried, soaked overnight and pre-cooked
+- 1 (400 g) tin red kidney beans (drained, or 100 g dried, soaked overnight and pre-cooked)
 
 ### Herbs (fry separately)
 - 200 g fresh parsley (leaves and tender stems, chopped fine)
 - 200 g fresh coriander (chopped fine)
-- 100 g chives or spring onion greens (chopped fine)
-- 30 g dried fenugreek leaves (kasuri methi) - or 50 g fresh fenugreek if available
+- 100 g chives (or spring onion greens, chopped fine)
+- 30 g dried fenugreek leaves (kasuri methi, or 50 g fresh fenugreek if available)
 - 4 tablespoons vegetable oil (for frying herbs)
 
 ### To serve
 - 4 servings cooked chelo (Persian white rice - see tahdig recipe for technique)
-- Juice of 1 lime (to finish)
+- 1 lime (to finish, juice)
 
 ## Method
 

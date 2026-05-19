@@ -21,9 +21,9 @@ Cold water and a pinch of baking soda (standing in for juniper ash, the ash's al
 - 30 g butter (optional, modern addition)
 
 ### Toppings (per bowl)
-- 1 tablespoon honey or maple syrup
+- 1 tablespoon honey (or maple syrup)
 - 1 tablespoon toasted piñon nuts (or pumpkin seeds or sliced almonds)
-- 1 tablespoon dried cranberries or blueberries
+- 1 tablespoon dried cranberries (or blueberries)
 - 1-2 tablespoons single cream (optional)
 
 ## Method

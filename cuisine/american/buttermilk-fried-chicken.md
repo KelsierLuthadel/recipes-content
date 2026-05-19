@@ -36,7 +36,7 @@ Chicken pieces brine in buttermilk seasoned with garlic, paprika, salt and a spl
 - 1 teaspoon dried thyme
 
 ### Frying
-- Vegetable or peanut oil (about 1 ½ litres)
+- 1 ½ litres Vegetable oil (or peanut oil)
 
 ## Method
 

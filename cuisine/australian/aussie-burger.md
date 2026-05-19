@@ -24,23 +24,23 @@ The Aussie burger, sometimes called "the lot", is a milk-bar institution that em
 - 4 rashers streaky bacon
 - 4 eggs
 - 4 canned pineapple rings, drained and patted dry
-- 4 slices canned or jarred pickled beetroot
-- 4 slices tasty cheddar
-- 4 large lettuce leaves (iceberg or cos)
-- 1 large tomato, sliced
-- 1 small brown onion, sliced into rings
+- 4 slices canned (or jarred pickled beetroot)
+- 4 slices tasty cheddar cheese
+- 4 lettuce leaves (large, iceberg or cos)
+- 1 tomato (large), sliced
+- 1 brown onion (small), sliced into rings
 
 ### To assemble
 - 4 soft sesame burger buns, split
 - Butter for toasting
-- 4 tbsp tomato chutney or Australian tomato sauce
+- 4 tbsp tomato chutney (or Australian tomato sauce)
 - 1 tbsp neutral oil for the grill
 
 ## Method
 
 ### Stage 1 - Patties
 1. Mix the beef, salt, pepper and Worcestershire gently with your hands. Do not knead.
-2. Divide into 4 patties slightly wider than the buns, about 1.5 cm thick. Dimple the centres. Rest in the fridge.
+2. Divide into 4 patties slightly wider than the buns, about 1 ½ cm thick. Dimple the centres. Rest in the fridge.
 
 ### Stage 2 - Components
 1. Heat a heavy frying pan over medium heat. Cook the bacon until crisp, transfer to paper towel.

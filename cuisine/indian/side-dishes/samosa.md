@@ -25,7 +25,8 @@ Samosas are the ultimate Indian snack: crispy, angular parcels of golden filo pa
 - 50 grams cooked potato (diced)
 - 4 tablespoons fresh coriander leaves (finely chopped)
 - 4 tablespoons fresh mint leaves (finely chopped)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Pastry & Assembly
 - 5 sheets filo pastry (25 x 50 cm)

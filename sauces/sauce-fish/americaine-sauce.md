@@ -36,7 +36,8 @@ A luxurious, amber-hued sauce featuring tender lobster meat and shells creating 
 - 60 grams butter
 - 10 grams plain flour
 - 1 pinch cayenne pepper
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

@@ -31,10 +31,11 @@ This ragù blends deep browning, layered aromatics, and a long, gentle oven brai
 - 1 parmesan rind
 - 2 bay leaves
 - 1 pinch freshly grated nutmeg
-- 500 milliliters chicken or beef stock
+- 500 milliliters chicken (or beef stock)
 - 100 milliliters whole milk (second addition)
 - 30 grams butter
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Finishing & Gnocchi
 - 100 grams red wine vinegar (good quality)
@@ -43,7 +44,7 @@ This ragù blends deep browning, layered aromatics, and a long, gentle oven brai
 - 1 egg yolk
 - 65 grams 00 flour
 - 1 tablespoon neutral oil
-- 30 grams Parmesan, grated (to finish)
+- 30 grams Parmesan cheese, grated (to finish)
 
 ## Method
 

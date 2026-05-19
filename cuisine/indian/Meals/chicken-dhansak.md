@@ -11,7 +11,7 @@
 The British-Indian adaptation of the Parsi original: chicken simmered in a yellow split-pea (toor dal) sauce that's both sweet (from pineapple chunks or jaggery) and sour (from tamarind and lemon). Thick, hearty, distinctive. The dhansak signature is the lentil body plus the sweet/sour balance.
 
 ## Ingredients
-- 4 tbsp rapeseed oil or seasoned oil
+- 4 tbsp rapeseed oil (or seasoned oil)
 - 2 tbsp garlic and ginger paste
 - 1 tsp ground turmeric 
 - 2 tbsp [mixed powder](../Spice-Mixes/mixed-powder.md)
@@ -22,7 +22,7 @@ The British-Indian adaptation of the Parsi original: chicken simmered in a yello
 - 180g red split lentils, rinsed and cooked in water until soft 
 - 115ml pineapple juice 
 - 3-4 tinned pineapple rings, cut into pieces 
-- Juice of 1 or 2 lemons, to taste 
+- 1 (or 2 lemons), to taste (juice)
 - 3 tbsp freshly chopped coriander
 - Salt 
 

@@ -16,7 +16,7 @@ A genoise-style chocolate sponge bakes in three thin layers (or one thick layer 
 ## Ingredients
 
 ### Chocolate sponge
-- 6 large eggs (room temperature)
+- 6 eggs (large, room temperature)
 - 180 g caster sugar
 - 1 teaspoon vanilla extract
 - 120 g plain flour

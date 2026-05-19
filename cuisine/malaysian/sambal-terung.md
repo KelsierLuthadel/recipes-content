@@ -14,9 +14,9 @@ Aubergines are deep-fried in batches until soft and lightly charred. The sambal 
 
 ## Ingredients
 
-- 3 medium aubergines (around 750 g; cut into 4 cm wedges)
+- 3 aubergines (medium, around 750 g; cut into 4 cm wedges)
 - 4 tablespoons vegetable oil (plus more for deep-frying)
-- 1 small onion (sliced; for the finish)
+- 1 onion (small, sliced; for the finish)
 - Salt to taste
 
 ### Sambal paste

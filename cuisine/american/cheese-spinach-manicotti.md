@@ -16,15 +16,16 @@ Italian-American baked pasta in the same family as stuffed shells and lasagna, w
 
 - 1 box (225 g / 8 oz) manicotti pasta shells
 - 1 carton (140 g / 5 oz) fresh baby spinach
-- 400 g (14 oz) whole milk ricotta cheese
-- 225 g (1 package) shredded mozzarella cheese (about 2 cups; reserve ½ for topping)
-- ½ cup freshly grated parmesan
+- 400 g (14 oz) whole ricotta
+- 225 g (1 package) shredded mozzarella (about 2 cups; reserve ½ for topping)
+- ½ cup freshly grated parmesan cheese
 - ¼ cup freshly chopped parsley
 - 2 tablespoons fresh chopped basil
 - 1 tablespoon garlic paste
 - 1 teaspoon dried oregano
 - ½ teaspoon red pepper flakes (optional)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - 1 jar (680 g / 24 oz) tomato basil sauce
 
 ## Method

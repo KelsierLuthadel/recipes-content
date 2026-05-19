@@ -47,7 +47,7 @@ Pork shoulder (uncured, fatty) and a small amount of bacon are chopped into 5 mm
 ### To serve
 - English mustard
 - Branston pickle (or similar piccalilli)
-- Sharp cheddar
+- Sharp cheddar cheese
 - Pickled onions
 
 ## Method

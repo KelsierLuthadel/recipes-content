@@ -21,10 +21,10 @@ Graham crackers (or digestive biscuits) crush fine, mix with melted butter and s
 - A pinch of salt
 
 ### Filling
-- 4 large egg yolks
+- 4 egg yolks (large)
 - 1 tin (400 g) sweetened condensed milk
 - 150 ml lime juice (about 8 Persian limes or 18 Key limes)
-- Zest of 4 limes
+- 4 limes (zest)
 
 ### Topping
 - 300 ml double cream (chilled)

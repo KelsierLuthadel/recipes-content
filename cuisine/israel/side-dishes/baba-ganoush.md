@@ -14,10 +14,10 @@ Aubergines char directly on a gas flame or under a hot grill until the skin is u
 
 ## Ingredients
 
-- 2 large aubergines (about 700 g)
+- 2 aubergines (large, about 700 g)
 - 4 tablespoons tahini (good quality)
 - 2 garlic cloves (crushed to a paste with ½ tsp salt)
-- Juice of 1 lemon
+- 1 lemon (juice)
 - ½ teaspoon ground cumin
 - ½ teaspoon salt (to taste)
 - 2 tablespoons olive oil

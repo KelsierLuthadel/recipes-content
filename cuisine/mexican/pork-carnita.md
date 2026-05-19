@@ -16,7 +16,7 @@ Carnitas are a classic Mexican dish of slow-cooked, tender pork that's finished 
 
 ### Pork & Aromatics
 - 1kg skinless, boneless pork shoulder (cut into large chunks)
-- 1 small onion (cut into wedges)
+- 1 onion (small, cut into wedges)
 - 4 cloves garlic (smashed)
 - 1 bay leaf
 
@@ -28,11 +28,11 @@ Carnitas are a classic Mexican dish of slow-cooked, tender pork that's finished 
 
 ### Liquid & Flavouring
 - 1 lime (juiced)
-- 1 large orange (juiced)
+- 1 orange (large, juiced)
 - ⅓ cup cola (Coca-Cola preferred)
 
 ### For Crisping
-- Cooking oil spray or oil for the baking sheet
+- Cooking oil spray (or oil for the baking sheet)
 
 ## Method
 

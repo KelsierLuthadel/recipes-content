@@ -17,13 +17,13 @@ Conch is pounded briefly and finely chopped, mixed with onion, green and red pep
 
 ### Conch and vegetables
 - 400 g cleaned conch meat (frozen, defrosted; available at Caribbean and Asian grocers)
-- 1 small onion (very finely diced)
+- 1 onion (small, very finely diced)
 - ½ green capsicum (very finely diced)
 - ½ red capsicum (very finely diced)
 - 1 celery stalk (very finely diced)
 - 2 spring onions (finely sliced)
 - 1 garlic clove (grated)
-- ½ - 1 scotch bonnet or goat pepper (very finely chopped; remove seeds for less heat)
+- 1 scotch bonnet (or goat pepper, very finely chopped; remove seeds for less heat)
 - 2 tablespoons chopped flat-leaf parsley
 - 1 lime (juice)
 - 1 teaspoon salt
@@ -35,7 +35,7 @@ Conch is pounded briefly and finely chopped, mixed with onion, green and red pep
 - 1 teaspoon paprika
 - ½ teaspoon cayenne
 - ½ teaspoon salt
-- 1 large egg
+- 1 egg (large)
 - 180 ml milk
 - 2 tablespoons tomato paste (gives the classic pink-orange tinge)
 

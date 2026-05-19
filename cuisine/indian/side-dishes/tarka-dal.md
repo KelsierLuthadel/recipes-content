@@ -19,8 +19,8 @@ Split yellow moong dal (or toor dal) cooks with turmeric, salt and water for 25 
 - 1.2 litres water
 - 1 teaspoon ground turmeric
 - 1 ½ teaspoons salt (to taste)
-- 1 small tomato (chopped, optional)
-- 1 small green chilli (slit, optional)
+- 1 tomato (small, chopped, optional)
+- 1 green chilli (small, slit, optional)
 
 ### Tarka (tempering)
 - 4 tablespoons ghee
@@ -35,7 +35,7 @@ Split yellow moong dal (or toor dal) cooks with turmeric, salt and water for 25 
 
 ### To finish
 - 2 tablespoons fresh coriander (chopped)
-- Juice of ½ lemon (at the table)
+- ½ lemon (at the table, juice)
 
 ## Method
 

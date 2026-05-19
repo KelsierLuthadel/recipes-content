@@ -10,7 +10,7 @@
 - 350 ml [sirop a sorbet](../../base-ingredients/syrup/sirop-a-sorbet.md)
 - 2 thyme sprigs
 - 400 grams fromage frais (20 - 40% fat)
-- juice of 2 lemons (strained)
+- 2 lemons (strained, juice)
 - pinch of white pepper
 
 ## Overview

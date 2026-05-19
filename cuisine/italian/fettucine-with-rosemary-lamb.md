@@ -15,7 +15,7 @@ This elegant pasta dish marries tender minced lamb with a fragrant base of onion
 
 ### Lamb Sauce Base
 - 6 tablespoons olive oil
-- 3 large onions (peeled and finely sliced)
+- 3 onions (large, peeled and finely sliced)
 - 1 carrot (peeled and finely grated)
 - 1 tablespoon fresh rosemary (chopped)
 - 200 grams top-quality minced lamb
@@ -23,11 +23,12 @@ This elegant pasta dish marries tender minced lamb with a fragrant base of onion
 ### Liquid Components
 - 200 ml dry white wine
 - 300 ml vegetable stock
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Pasta & Finishing
 - 400 grams fettuccine
-- 100 grams Parmesan (freshly grated)
+- 100 grams Parmesan cheese (freshly grated)
 
 ## Method
 

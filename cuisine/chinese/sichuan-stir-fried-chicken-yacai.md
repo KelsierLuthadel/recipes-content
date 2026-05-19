@@ -27,7 +27,7 @@ Jimi yacai (literally "chicken rice yacai") is a Sichuan home-cook classic that 
 - 50 g mixed fresh red and green chillies
 - 2 garlic cloves, minced
 - 1 tbsp ginger, minced
-- 2 tbsp + 1 tsp vegetable oil (caiziyou if available)
+- 2 tbsp vegetable oil
 
 ### Seasoning
 - 2 tsp light soy sauce

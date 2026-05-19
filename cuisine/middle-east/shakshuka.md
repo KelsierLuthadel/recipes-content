@@ -18,7 +18,7 @@ A pepper-and-onion sofrito is seasoned with cumin, paprika and chilli, then simm
 - 1 onion (sliced)
 - 1 red pepper (sliced)
 - 4 garlic cloves (sliced)
-- 1 small red chilli (chopped, optional)
+- 1 red chilli (small, chopped, optional)
 - 2 teaspoons ground cumin
 - 1 teaspoon sweet paprika
 - 1 teaspoon smoked paprika
@@ -26,10 +26,11 @@ A pepper-and-onion sofrito is seasoned with cumin, paprika and chilli, then simm
 - 2 tablespoons tomato purée
 - 800 g tinned chopped tomatoes (2 tins)
 - 1 teaspoon caster sugar
-- Salt and freshly ground black pepper
-- 6 large eggs
-- 100 g feta (crumbled, optional)
-- A small handful of flat-leaf parsley or coriander (chopped)
+- salt
+- pepper
+- 6 eggs (large)
+- 100 g feta cheese (crumbled, optional)
+- A small handful of flat-leaf parsley (or coriander, chopped)
 - Crusty bread, to serve
 
 ## Method

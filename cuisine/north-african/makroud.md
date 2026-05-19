@@ -34,7 +34,7 @@ Semolina mixes with melted butter and rests so it absorbs fully, the result is a
 - 200 ml water
 - 4 tablespoons honey
 - 2 tablespoons orange blossom water
-- Juice of half a lemon
+- ½ lemon (juice)
 
 ### Frying
 - Vegetable oil for shallow-frying

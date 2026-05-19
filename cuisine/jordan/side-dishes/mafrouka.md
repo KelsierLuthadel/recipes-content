@@ -24,7 +24,7 @@ Fine semolina is toasted in butter; sugar syrup is poured in to hydrate; the mix
 - 1 large pinch saffron threads (bloomed in 1 tbsp hot water, optional)
 
 ### Ashta topping
-- 250 g clotted cream (or 150 g clotted cream + 100 g mascarpone)
+- 250 g clotted cream (or 150 g clotted cream + 100 g mascarpone cheese)
 - 2 tablespoons icing sugar
 - 1 teaspoon rose water
 - 1 teaspoon orange blossom water

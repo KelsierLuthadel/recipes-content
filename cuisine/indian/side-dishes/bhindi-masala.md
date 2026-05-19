@@ -16,7 +16,7 @@ The okra is washed, dried thoroughly and trimmed, then cut into 2 cm pieces. A d
 - 500 g okra (small, fresh pods if possible)
 - 3 tablespoons oil (mustard oil if available, otherwise vegetable or sunflower)
 - 1 teaspoon cumin seeds
-- 1 large onion (finely sliced)
+- 1 onion (large, finely sliced)
 - 4 garlic cloves (finely chopped)
 - 25 g fresh ginger (finely grated)
 - 2 green chillies (slit lengthways)
@@ -30,7 +30,7 @@ The okra is washed, dried thoroughly and trimmed, then cut into 2 cm pieces. A d
 
 ### To serve
 - A handful of coriander (chopped)
-- Roti or paratha
+- Roti (or paratha)
 
 ## Method
 

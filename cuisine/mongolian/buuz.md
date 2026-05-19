@@ -20,18 +20,23 @@ A simple flour-and-water dough rests until pliable. The filling is finely choppe
 - 250-280 ml warm water
 
 ### Filling
-- 600 g minced mutton or lamb (20% fat - fat is essential for juicy buuz; or 60/40 lamb-beef mix)
-- 2 medium onions (very finely chopped)
+- 600 g minced mutton (or lamb, 20% fat - fat is essential for juicy buuz; or 60/40 lamb-beef mix)
+- 2 onions (medium, very finely chopped)
 - 6 garlic cloves (crushed)
 - 2 teaspoons salt
 - 1 teaspoon black pepper
 - 1 teaspoon ground caraway seed (optional, traditional)
 - 4 tablespoons cold water (for juiciness)
 
+### Soy-Vinegar Dipping sauce
+- 4 tbsp light soy 
+- 2 tbsp rice vinegar 
+- 1 sliced spring onion
+
 ### To serve
 - Soured cream (or natural yogurt mixed with a little salt)
 - Pickled cabbage (suan cai or simple sauerkraut)
-- A small bowl of soy-vinegar dipping sauce: 4 tbsp light soy + 2 tbsp rice vinegar + 1 sliced spring onion
+- A small bowl of soy-vinegar dipping sauce
 
 ## Method
 

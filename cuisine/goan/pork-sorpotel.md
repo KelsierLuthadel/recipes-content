@@ -18,7 +18,7 @@ Pork shoulder and liver are par-boiled with whole spices, then diced. A masala p
 - 800 g pork shoulder (with a good cap of fat, cut into 8 cm chunks)
 - 200 g pork liver (cut into 4 cm chunks)
 - 100 g pork heart (cut into 4 cm chunks, optional but traditional)
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 4 cloves
 - 6 black peppercorns
 - 1 teaspoon salt
@@ -30,7 +30,7 @@ Pork shoulder and liver are par-boiled with whole spices, then diced. A masala p
 - 1 tablespoon cumin seeds
 - 1 tablespoon black peppercorns
 - 8 cloves
-- 1 small cinnamon stick (broken)
+- 1 cinnamon stick (small, broken)
 - 1 teaspoon ground turmeric
 - 30 g fresh ginger
 - 12 garlic cloves
@@ -49,7 +49,7 @@ Pork shoulder and liver are par-boiled with whole spices, then diced. A masala p
 1. Bring to a boil; skim foam.
 1. Reduce to a low simmer and cook for 25-30 minutes, until the meat is just cooked.
 1. Lift the meat out with a slotted spoon and reserve the stock (about 500 ml).
-1. Cool the meat, then dice into 1.5 cm cubes.
+1. Cool the meat, then dice into 1 ½ cm cubes.
 
 ### Stage 2 - Make the masala paste
 1. Soak the dried chillies in hot water for 15 minutes to soften.

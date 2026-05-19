@@ -15,7 +15,7 @@ Glutinous (sticky) rice is soaked at least 6 hours, then steamed for 20-25 minut
 ## Ingredients
 
 ### Rice
-- 300 g Thai glutinous / sticky rice
+- 300 g Thai glutinous (or sticky rice)
 - Cold water (for soaking)
 
 ### Sweet coconut sauce (for soaking the rice)
@@ -30,7 +30,7 @@ Glutinous (sticky) rice is soaked at least 6 hours, then steamed for 20-25 minut
 - 2 teaspoons rice flour (helps it thicken slightly without sugar)
 
 ### To finish
-- 2 large ripe mangoes (Nam Dok Mai or any sweet ripe variety - Ataulfo / honey mangoes work well; about 600 g total)
+- 2 ripe mangoes (large, Nam Dok Mai or any sweet ripe variety - Ataulfo / honey mangoes work well; about 600 g total)
 - 2 tablespoons toasted sesame seeds (white, black, or a mix)
 - 2 tablespoons toasted mung beans (optional but traditional - crispy / nutty)
 
@@ -77,7 +77,7 @@ Glutinous (sticky) rice is soaked at least 6 hours, then steamed for 20-25 minut
 1. Slice each cheek into thin slabs (about 5 mm thick) or large dice.
 
 ### Stage 8 - Plate
-1. Spoon a mound of coconut-soaked rice in the centre of each plate (about half a cup per serving).
+1. Spoon a mound of coconut-soaked rice in the centre of each plate (about ½ cup per serving).
 1. Fan mango slices alongside.
 1. Drizzle the rice with the plain coconut cream - about 2 tablespoons per plate.
 1. Drizzle the remaining sweet sauce over (it'll pool slightly around the rice - that's fine).

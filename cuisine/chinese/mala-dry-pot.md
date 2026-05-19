@@ -10,7 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Ganguo, literally "dry pot", is the dry sister of hotpot. Where hotpot is a communal soup simmered at the table, dry pot is a wok composition: each ingredient pre-cooked separately, then everything tossed together at the last moment in a fragrant mala sauce based on Pixian doubanjiang, fermented black beans and chilli oil. The result lands somewhere between a stir-fry, a casserole and a giant heap of bar snacks. The dish is usually credited to Chongqing in the 1990s and exploded into nationwide popularity in the 2000s; it now anchors the menu of countless ganguo restaurants where you point at ingredients on a fridge and they appear minutes later in a single-handled wok at your table. Difficulty for a home cook is low if you accept the rhythm: blanch the vegetables, sear the proteins, then build the final dish from already-cooked components. The trick is restraint with the sauce, generous heat under the wok, and the willingness to commit to a long ingredient list. The recipe is endlessly flexible: lotus root, potato, cauliflower, mushrooms, squid, chicken wings, beef, fish balls, tofu skin, whatever you have, in any combination, totalling 1-1.5 kg.
+Ganguo, literally "dry pot", is the dry sister of hotpot. Where hotpot is a communal soup simmered at the table, dry pot is a wok composition: each ingredient pre-cooked separately, then everything tossed together at the last moment in a fragrant mala sauce based on Pixian doubanjiang, fermented black beans and chilli oil. The result lands somewhere between a stir-fry, a casserole and a giant heap of bar snacks. The dish is usually credited to Chongqing in the 1990s and exploded into nationwide popularity in the 2000s; it now anchors the menu of countless ganguo restaurants where you point at ingredients on a fridge and they appear minutes later in a single-handled wok at your table. Difficulty for a home cook is low if you accept the rhythm: blanch the vegetables, sear the proteins, then build the final dish from already-cooked components. The trick is restraint with the sauce, generous heat under the wok, and the willingness to commit to a long ingredient list. The recipe is endlessly flexible: lotus root, potato, cauliflower, mushrooms, squid, chicken wings, beef, fish balls, tofu skin, whatever you have, in any combination, totalling 1-1 ½ kg.
 
 ## Ingredients
 
@@ -22,8 +22,8 @@ Ganguo, literally "dry pot", is the dry sister of hotpot. Where hotpot is a comm
 - 170 g fried tofu cubes
 
 ### Vegetables
-- 200 g Chinese cauliflower or regular cauliflower, in florets
-- 150 g baby yu choy or similar greens, in large pieces
+- 200 g Chinese cauliflower (or regular cauliflower), in florets
+- 150 g baby yu choi
 - 150 g green beans, trimmed and cut into 5 cm pieces
 - 200 g Yukon gold potato, in 1 cm half-moons
 - 2 tbsp dried wood ear mushrooms (soaked 30 minutes in boiling water)
@@ -33,7 +33,7 @@ Ganguo, literally "dry pot", is the dry sister of hotpot. Where hotpot is a comm
 - 4-5 garlic cloves, thinly sliced
 - 2 cm ginger, slivered
 - 4-5 dried er jing tiao chillies, torn (optional)
-- ½-1 tsp Sichuan peppercorns (optional)
+- ½ tsp Sichuan peppercorns (optional)
 - ½ tsp cumin seeds (optional)
 - 9 tbsp Sichuan mala dry-pot sauce (about 3 tbsp per 500 g of ingredients)
 - 1 tbsp toasted sesame seeds, to garnish

@@ -16,9 +16,9 @@ Salt cod soaks for 24 hours with several water changes to draw out the salt. Onc
 
 - 400 g salt cod (bacalhau)
 - 600 g floury potatoes (peeled, cut into chunks)
-- 1 small onion (very finely chopped)
+- 1 onion (small, very finely chopped)
 - 3 tablespoons fresh parsley (finely chopped)
-- 2 large eggs (beaten)
+- 2 eggs (large, beaten)
 - 1 garlic clove (crushed)
 - ¼ teaspoon ground white pepper
 - 1 litre vegetable oil for deep frying

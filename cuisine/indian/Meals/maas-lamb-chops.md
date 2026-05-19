@@ -27,7 +27,7 @@ Tender lamb chops marinated in spiced yogurt, evoking the aroma of family partie
 - 1 tsp ground green cardamom
 - 1 tsp fenugreek powder
 - 1 tsp ground turmeric
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 4 garlic cloves, minced
 - 1 tbsp minced fresh root ginger
 - 2 tsp salt

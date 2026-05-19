@@ -23,11 +23,11 @@ A vibrant do-piaza curry based on layered onion textures and warming spices. Thi
 - 1 tsp coriander seeds, roughly chopped
 
 ### Onions and aromatics
-- 1 small onion, quartered and divided into petals
+- 1 onion (small), quartered and divided into petals
 - 3 tbsp garlic and ginger paste
 - 2 tbsp mixed powder
 - 1 tsp ground cumin
-- 1-2 tsp mild or hot chilli powder, to taste
+- 1-2 tsp mild (or hot chilli powder), to taste
 - 125 ml (½ cup) tomato purée
 
 ### Sauce and chicken

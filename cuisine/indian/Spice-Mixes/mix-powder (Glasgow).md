@@ -16,7 +16,7 @@ A curry house-style spice blend and one of the secret ingredients that makes BIR
 ## Ingredients
 - Homemade garam masala (see Garam Masala recipe)
 - Homemade curry powder (see Curry Powder recipe)
-- Additional ground coriander, cumin, paprika, and turmeric (quantities adjusted to taste)
+- ground coriander, cumin, paprika, and turmeric (quantities adjusted to taste)
 
 ## Method
 

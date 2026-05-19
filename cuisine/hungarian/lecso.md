@@ -15,14 +15,15 @@ Onion is softened in oil; sweet paprika blooms off the heat (don't burn it). Str
 ## Ingredients
 
 - 4 tablespoons sunflower oil (or 50 g unsalted butter)
-- 2 large onions (sliced)
+- 2 onions (large, sliced)
 - 1 tablespoon sweet Hungarian paprika
 - ½ teaspoon hot Hungarian paprika (optional)
-- 6 large yellow Hungarian peppers or yellow bell peppers (deseeded and sliced 1 cm thick)
-- 4 large ripe tomatoes (chopped) or 1 x 400 g tin chopped tomatoes
+- 6 yellow bell peppers (large, deseeded and sliced 1 cm thick)
+- 4 ripe tomatoes (large, chopped) or 1 x 400 g tin chopped tomatoes
 - 1 teaspoon sugar
-- Salt and black pepper
-- 2-4 large eggs (optional, to finish)
+- salt
+- pepper
+- 2-4 eggs (large, optional, to finish)
 
 ## Method
 

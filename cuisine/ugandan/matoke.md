@@ -25,19 +25,19 @@ Beef is browned and simmered with onions, garlic, ginger, tomato and a touch of 
 - 400 g tinned chopped tomatoes
 - 1 teaspoon mild curry powder
 - 1 teaspoon ground black pepper
-- 1 Royco or Maggi cube
+- 1 Royco (or Maggi cube)
 - 2 bay leaves
 - 1 green chilli (split lengthways, seeds in or out to taste)
-- 700 ml beef or chicken stock
+- 700 ml beef (or chicken stock)
 - Salt
 
 ### Plantains
-- 8 large green plantains (unripe, skin firm and dark green)
+- 8 green plantains (large, unripe, skin firm and dark green)
 - 1 lemon (juiced; for the peeling water)
 
 ### Peanut sauce
 - 4 tablespoons smooth natural peanut butter
-- 150 ml hot water or stock
+- 150 ml hot water (or stock)
 
 ### To finish
 - Small bunch coriander (chopped)

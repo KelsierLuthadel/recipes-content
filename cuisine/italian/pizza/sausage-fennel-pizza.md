@@ -21,15 +21,15 @@ The dough is a quick mix of plain flour, baking powder and Greek yogurt, rolled 
 - 200 grams Greek yogurt
 
 ### Toppings
-- 1 small fennel bulb (cut into wedges)
+- 1 fennel bulb (small, cut into wedges)
 - 2 tablespoons olive oil
 - 200 grams sausagemeat
-- 1 small red onion (sliced)
-- 1 large garlic clove (crushed)
+- 1 red onion (small, sliced)
+- 1 garlic clove (large, crushed)
 - 1 teaspoon fennel seeds (lightly crushed)
 - 60 grams young leaf spinach
-- 3 tablespoons ricotta
-- 25 grams parmesan (grated)
+- 3 tablespoons ricotta cheese
+- 25 grams parmesan cheese (grated)
 
 ## Method
 

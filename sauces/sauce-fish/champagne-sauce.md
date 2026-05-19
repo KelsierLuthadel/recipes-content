@@ -26,7 +26,8 @@ An elegant, cream-enriched sauce with effervescent wine and delicate mushroom un
 - 400 ml champagne
 - 300 ml Fish stock
 - 350 ml double cream
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

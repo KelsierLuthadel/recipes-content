@@ -38,7 +38,7 @@ A whole octopus (frozen-then-thawed is best, freezing tenderises it; OR pre-clea
 ### Garnish
 - 3 tablespoons fresh flat-leaf parsley (chopped)
 - 1 lemon (cut into wedges)
-- Extra 2 tablespoons raw olive oil (drizzle)
+- 2 tablespoons raw olive oil (drizzle)
 
 ## Method
 

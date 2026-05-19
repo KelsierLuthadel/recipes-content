@@ -17,9 +17,10 @@ Floury potatoes boil; cabbage or kale wilts in butter with spring onions; the lo
 - 1 kg floury potatoes (Maris Piper, King Edward; peeled and cubed)
 - 80 g unsalted butter (plus more to melt on top)
 - 6 spring onions (sliced; or 1 small leek, white and pale green only)
-- 300 g savoy cabbage or kale (tough stems removed; shredded)
+- 300 g savoy cabbage (or kale, tough stems removed; shredded)
 - 200 ml whole milk (warmed)
-- Salt and white pepper
+- salt
+- pepper
 - A grating of nutmeg
 
 ## Method

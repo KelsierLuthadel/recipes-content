@@ -16,18 +16,18 @@ Roujiamo is often, lazily, called the Chinese hamburger, but it is older than th
 
 ### Tongguan buns
 - 400 g plain flour
-- 1½ tsp instant yeast
+- 1 ½ tsp instant yeast
 - ½ tsp baking powder
 - ½ tsp bicarbonate of soda
 - ½ tsp salt
 - 1 tbsp granulated sugar
 - 250-280 ml warm water
-- 60 ml melted lard or butter
+- 60 ml melted lard (or butter)
 - 1 tsp five-spice powder
 - Peanut oil for frying
 
 ### Braised pork
-- 750 g pork shoulder or pork belly
+- 750 g pork shoulder (or pork belly)
 - 10 thin ginger slices
 - 2 tbsp peanut oil
 - 60 g rock sugar (about 8 lumps)
@@ -37,7 +37,7 @@ Roujiamo is often, lazily, called the Chinese hamburger, but it is older than th
 - 4 bay leaves
 - 2 spring onion whites, cut into 5 cm pieces
 - 2 star anise
-- 1 large cinnamon stick
+- 1 cinnamon stick (large)
 - 2 tsp salt
 
 ### Assembly

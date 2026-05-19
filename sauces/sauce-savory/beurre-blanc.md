@@ -23,7 +23,8 @@ A silky, butter-enriched reduction combining wine, vinegar, and shallot reductio
 ### Finishing
 - 50 ml double cream
 - 200 grams butter (chilled and diced)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

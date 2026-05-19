@@ -23,12 +23,13 @@ A soft yeasted olive-oil dough rises for 45 minutes. Filling: grated akkawi (des
 - 4 tablespoons olive oil
 
 ### Filling
-- 150 g akkawi cheese (desalted by soaking 30 min in cold water, drained, grated) OR 120 g low-moisture mozzarella + 30 g halloumi (rinsed and grated)
-- 80 g feta (crumbled)
+- 120 g low-moisture mozzarella 
+- 30 g halloumi (rinsed and grated)
+- 80 g feta cheese (crumbled)
 - 3 tablespoons fresh flat-leaf parsley (chopped fine)
 - 2 tablespoons fresh mint (chopped) or 1 teaspoon dried mint
 - 1 spring onion (sliced thin, optional)
-- 1 large egg yolk (helps the binding)
+- 1 egg yolk (large, helps the binding)
 - ½ teaspoon black pepper
 - ½ teaspoon nigella seeds
 

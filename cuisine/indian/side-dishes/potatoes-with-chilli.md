@@ -12,7 +12,7 @@
 Potatoes with red chillies is a vibrant, spice-forward side dish in which par-boiled new potatoes are tossed with toasted whole spices, golden onion, and fiery fresh red chillies. The combination of cumin, fennel, and coriander seeds creates a fragrant base that infuses the potatoes with warmth and depth. Fresh coriander stirred through and used as a garnish adds a bright, herbal finish.
 
 ## Ingredients
-- 12 small new potatoes (halved)
+- 12 new potatoes (small, halved)
 - 2 tablespoons vegetable oil
 - ½ teaspoon crushed dried chillies
 - ½ teaspoon white cumin seeds

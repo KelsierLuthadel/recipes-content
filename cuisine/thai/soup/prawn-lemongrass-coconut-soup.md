@@ -23,7 +23,7 @@ A vibrant Thai soup featuring prawns in a fragrant broth of lemongrass, coconut 
 - 1 inch fresh ginger (peeled and sliced)
 
 ### Protein
-- 16 large raw prawns (shelled and de-veined, tails intact)
+- 16 raw prawns (large, shelled and de-veined, tails intact)
 
 ### Seasonings
 - 1 tablespoon red curry paste
@@ -32,7 +32,7 @@ A vibrant Thai soup featuring prawns in a fragrant broth of lemongrass, coconut 
 - 1 tablespoon fish sauce
 
 ### Liquid/Broth
-- 1.2 litres fish or chicken stock
+- 1.2 litres fish (or chicken stock)
 - 400 ml coconut milk
 
 ### Garnishes

@@ -19,13 +19,13 @@ Pork is marinated briefly in turmeric, salt and a splash of fish sauce. Onions a
 - 1 ½ teaspoons salt (split)
 - 2 tablespoons fish sauce
 - 6 tablespoons vegetable oil
-- 3 large onions (chopped)
+- 3 onions (large, chopped)
 - 6 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
 - 2 tablespoons paprika
 - 1 teaspoon Kashmiri chilli powder
 - 1 dried bird's-eye chilli (broken) or 1 fresh chilli
-- 2 large tomatoes (chopped) or 1 small tin chopped tomatoes
+- 2 tomatoes (large, chopped) or 1 small tin chopped tomatoes
 - 1 teaspoon dark soy sauce
 - 500 ml hot water
 - 1 stick lemongrass (bruised, optional)

@@ -20,7 +20,7 @@ Chow mein literally means 'stir-fried noodles' and this contemporary dish is equ
 ### Chicken & Marinade
 - 100 grams chicken breast (skinned)
 - 2 teaspoons light soy sauce
-- 2 teaspoons dry sherry or rice wine
+- 2 teaspoons dry sherry (or rice wine)
 - 2 teaspoons groundnut oil
 
 ### Stir-Fry

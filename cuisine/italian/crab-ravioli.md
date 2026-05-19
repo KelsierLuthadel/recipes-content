@@ -24,11 +24,12 @@ These striking ravioli unite fresh crab meat with silken mascarpone, sharpened b
 - 2 tablespoons fresh flat-leaf parsley (finely chopped)
 - Rind of 1 lemon (finely grated)
 - Pinch of crushed dried chillies
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Finishing
 - 75 grams butter
-- Juice of 1 lemon
+- 1 lemon (juice)
 - Fresh basil leaves (chopped)
 
 ## Method

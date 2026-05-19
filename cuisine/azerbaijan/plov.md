@@ -24,7 +24,7 @@ Basmati is soaked for 1 hour in salted water, drained, par-boiled for 5 minutes 
 
 ### Lamb topping (qara)
 - 800 g boneless lamb shoulder (cut into 4 cm cubes)
-- 3 medium onions (finely sliced)
+- 3 onions (medium, finely sliced)
 - 50 g butter
 - 100 g dried apricots
 - 100 g prunes (stoned)

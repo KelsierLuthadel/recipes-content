@@ -16,43 +16,44 @@ Beef shank or stewing beef marinates overnight in épis and citrus, then browns 
 ## Ingredients
 
 ### Beef and marinade
-- 1 kg beef shank or stewing beef (cut into 4 cm cubes)
+- 1 kg beef shank (or stewing beef, cut into 4 cm cubes)
 - 4 tablespoons épis (Haitian green seasoning - see griot recipe Notes)
-- Juice of 2 limes
-- Juice of 1 orange
+- 2 limes (juice)
+- 1 orange (juice)
 - 4 garlic cloves (crushed)
 - 1 teaspoon salt
 - 1 teaspoon black pepper
 
 ### Pumpkin
-- 1.5 kg calabaza or West Indian pumpkin (or kabocha squash; butternut as last resort)
+- 1 ½ kg calabaza (or West Indian pumpkin, or kabocha squash; butternut as last resort)
 - Water to cover
 
 ### Soup base
 - 2 tablespoons olive oil
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 4 garlic cloves (crushed)
 - 2 sprigs fresh thyme
 - 2 bay leaves
 - 4 cloves
-- 1 ½ litres beef stock or water
+- 1 ½ litres beef stock (or water)
 - 1 tablespoon tomato paste
 
 ### Vegetables and pasta
 - 3 carrots (peeled, cut into 2 cm chunks)
-- 2 medium turnips (peeled, cubed)
+- 2 turnips (medium, peeled, cubed)
 - 2 celery stalks (sliced)
 - 2 leeks (white and pale green, sliced)
 - ¼ small green cabbage (shredded)
-- 2 medium waxy potatoes (peeled, cubed)
-- 100 g vermicelli or thin spaghetti (broken into 3 cm lengths)
+- 2 waxy potatoes (medium, peeled, cubed)
+- 100 g vermicelli (or thin spaghetti, broken into 3 cm lengths)
 - 1 Scotch bonnet (whole, pierced; remove before serving)
 
 ### To finish
 - 30 g butter
-- Juice of 1 lime
+- 1 lime (juice)
 - 1 small bunch parsley (chopped)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ## Method
 

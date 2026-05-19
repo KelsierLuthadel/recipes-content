@@ -22,7 +22,8 @@ This satisfying sauce combines golden-fried chicken breast strips with melting D
 - 150 ml double cream
 - 50 ml dry white wine
 - 3 tablespoons fresh chives (finely chopped)
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Pasta
 - 400 grams fresh fettuccine (or tagliatelle)

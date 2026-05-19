@@ -10,12 +10,12 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Samgyeopsal, literally "three-layered flesh" after the visible stripes of meat and fat, is the most beloved grill-at-the-table meal in South Korea. It is not a marinade-heavy preparation: the entire point is the quality of the pork belly itself, sliced thick and grilled fresh over charcoal or a hot griddle while everyone sits around the table with side dishes, garlic, and a pile of lettuce leaves. The eating ritual is as important as the cooking. You take a leaf of lettuce or sesame perilla, lay on a piece of grilled belly fresh off the heat, add a smear of ssamjang (a thick, savoury paste of doenjang fermented soybean paste and gochujang chilli paste), a sliver of raw garlic grilled briefly in the pork fat, maybe a strand of spring onion salad, then wrap the whole thing tight, pop it into your mouth in one bite, and chase it with a shot of soju. Korean restaurants do not slice the belly for you at the table on purpose: the host or eldest cuts it with kitchen scissors as it cooks, in messy diagonals, which is part of the relaxed, social character of the meal. Difficulty is low; the cook is essentially supervision and a pair of tongs. The skill is in the side dishes (banchan) and the pacing. Sourcing matters: ask for skin-off pork belly cut between 1.5 and 2 cm thick. Thin belly burns; thicker belly stays juicy.
+Samgyeopsal, literally "three-layered flesh" after the visible stripes of meat and fat, is the most beloved grill-at-the-table meal in South Korea. It is not a marinade-heavy preparation: the entire point is the quality of the pork belly itself, sliced thick and grilled fresh over charcoal or a hot griddle while everyone sits around the table with side dishes, garlic, and a pile of lettuce leaves. The eating ritual is as important as the cooking. You take a leaf of lettuce or sesame perilla, lay on a piece of grilled belly fresh off the heat, add a smear of ssamjang (a thick, savoury paste of doenjang fermented soybean paste and gochujang chilli paste), a sliver of raw garlic grilled briefly in the pork fat, maybe a strand of spring onion salad, then wrap the whole thing tight, pop it into your mouth in one bite, and chase it with a shot of soju. Korean restaurants do not slice the belly for you at the table on purpose: the host or eldest cuts it with kitchen scissors as it cooks, in messy diagonals, which is part of the relaxed, social character of the meal. Difficulty is low; the cook is essentially supervision and a pair of tongs. The skill is in the side dishes (banchan) and the pacing. Sourcing matters: ask for skin-off pork belly cut between 1 ½ and 2 cm thick. Thin belly burns; thicker belly stays juicy.
 
 ## Ingredients
 
 ### Pork
-- 800 g skinless pork belly, cut into slabs 1.5 to 2 cm thick
+- 800 g skinless pork belly, cut into slabs 1 ½ to 2 cm thick
 
 ### Ssamjang
 - 2 tbsp doenjang (Korean fermented soybean paste)
@@ -24,7 +24,7 @@ Samgyeopsal, literally "three-layered flesh" after the visible stripes of meat a
 - 1 tsp toasted sesame seeds
 - 1 garlic clove, grated
 - 1 spring onion, finely chopped
-- 1 tsp honey or rice syrup
+- 1 tsp honey (or rice syrup)
 
 ### Spring onion salad (pa muchim)
 - 4 spring onions, julienned lengthwise and soaked in iced water
@@ -72,7 +72,7 @@ Samgyeopsal, literally "three-layered flesh" after the visible stripes of meat a
 3. Wrap into a tight parcel and eat in one bite. Repeat. Drink soju.
 
 ## Notes
-- **Thickness is everything:** under 1.5 cm and the belly turns to crackling before the inside has rendered. A butcher's belly cut to order is ideal.
+- **Thickness is everything:** under 1 ½ cm and the belly turns to crackling before the inside has rendered. A butcher's belly cut to order is ideal.
 - **Dry pan:** no oil needed. The pork's own fat is the cooking medium and a key part of the flavour.
 - **Sesame oil dip:** the small dish of sesame oil with salt is non-negotiable in Korean restaurants. Dip the cooked pork into it before wrapping.
 - **Perilla leaves:** sesame perilla (kkaennip) tastes nothing like Japanese shiso despite the similar look. If you cannot find it, just use lettuce.

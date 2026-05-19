@@ -29,7 +29,7 @@ Cleaned conch is pounded between sheets of cling film with a meat mallet until t
 - ½ teaspoon cayenne
 - ½ teaspoon salt
 - ½ teaspoon black pepper
-- 2 large eggs
+- 2 eggs (large)
 - 80 ml milk
 
 ### Slaw
@@ -40,12 +40,13 @@ Cleaned conch is pounded between sheets of cling film with a meat mallet until t
 - 1 tablespoon white wine vinegar
 - 1 lime (juice)
 - ½ teaspoon caster sugar
-- Salt and pepper
+- salt
+- pepper
 
 ### To fry and serve
 - 500 ml vegetable oil (for shallow-frying)
 - 2 limes (cut into wedges)
-- Bahamian-style hot sauce or pepper sauce
+- Bahamian-style hot sauce (or pepper sauce)
 
 ## Method
 

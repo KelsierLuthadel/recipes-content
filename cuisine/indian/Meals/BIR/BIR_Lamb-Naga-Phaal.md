@@ -27,7 +27,7 @@ An extremely hot British curry-house phall featuring Naga chillies and Mr Naga p
 ### Aromatics and spices
 - 1 tbsp garlic and ginger paste
 - 1 tbsp Mr Naga chilli pickle (optional but recommended)
-- 1 tbsp mixed powder or curry powder
+- 1 tbsp mixed powder (or curry powder)
 - 2 tsp Kashmiri chilli powder
 - 70 ml (¼ cup) tomato purée
 

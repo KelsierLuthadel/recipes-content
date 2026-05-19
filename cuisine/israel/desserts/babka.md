@@ -10,7 +10,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Brioche-style dough: bread flour, yeast, milk, eggs, butter, sugar, salt. Kneads 10 min till elastic; rises 1.5 hours. Chocolate filling: dark chocolate + butter melted with cocoa, sugar, cinnamon, cools to spreadable. Dough divides in half; each rolls to a rectangle 40 × 25 cm; filling spreads to edges; rolls up tight; cuts lengthways down the middle; the two halves twist around each other (the iconic babka braid). Lifts into a buttered loaf tin; rises for 45 min; bakes for 35 min at 180°C. Sugar syrup brushes over hot.
+Brioche-style dough: bread flour, yeast, milk, eggs, butter, sugar, salt. Kneads 10 min till elastic; rises 1 ½ hours. Chocolate filling: dark chocolate + butter melted with cocoa, sugar, cinnamon, cools to spreadable. Dough divides in half; each rolls to a rectangle 40 × 25 cm; filling spreads to edges; rolls up tight; cuts lengthways down the middle; the two halves twist around each other (the iconic babka braid). Lifts into a buttered loaf tin; rises for 45 min; bakes for 35 min at 180°C. Sugar syrup brushes over hot.
 
 ## Ingredients
 
@@ -20,8 +20,8 @@ Brioche-style dough: bread flour, yeast, milk, eggs, butter, sugar, salt. Kneads
 - 80 g caster sugar
 - 1 ½ teaspoons salt
 - 180 ml warm milk
-- 2 large eggs
-- 1 large egg yolk
+- 2 eggs (large)
+- 1 egg yolk (large)
 - 120 g unsalted butter (softened, cubed)
 - 1 teaspoon vanilla extract
 
@@ -46,7 +46,7 @@ Brioche-style dough: bread flour, yeast, milk, eggs, butter, sugar, salt. Kneads
 1. Mix on low 3 minutes till shaggy.
 1. Add the softened butter cubes 1-2 at a time, mixing on medium speed; let each absorb before adding the next.
 1. Once all butter is in, knead on medium 8-10 minutes till smooth, elastic, and slightly tacky.
-1. Tip into a lightly oiled bowl; cover; rise 1.5 hours till doubled.
+1. Tip into a lightly oiled bowl; cover; rise 1 ½ hours till doubled.
 
 ### Stage 2 - Chocolate filling
 1. Melt the butter and chocolate together in a heatproof bowl over simmering water (or in a microwave in 30-second bursts).

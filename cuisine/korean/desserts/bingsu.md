@@ -19,7 +19,7 @@ Whole milk freezes solid in a shallow tray overnight. The frozen milk shaves int
 - 2 tablespoons sweetened condensed milk
 
 ### Sweet red bean (pat) - quick version
-- 200 g pre-cooked sweetened azuki / adzuki beans (canned or pre-made)
+- 200 g pre-cooked sweetened azuki (or adzuki beans, canned or pre-made)
 - (or make from scratch: 200 g dried red beans + 150 g sugar, cooked till soft)
 
 ### Toppings (vary to taste)

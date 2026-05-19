@@ -17,7 +17,7 @@ Two pots if you have them: a spicy red broth and a clear chicken broth. The red 
 ### Spicy red broth
 - 100 g beef tallow (or rendered lard, or 100 ml vegetable oil)
 - 6 tablespoons doubanjiang (Pixian fermented broad-bean paste)
-- 2 tablespoons gochujang or chilli bean sauce (optional, extra heat)
+- 2 tablespoons gochujang (or chilli bean sauce, optional, extra heat)
 - 30 g dried Sichuan red chillies (de-stemmed)
 - 3 tablespoons Sichuan peppercorns (mix of red and green if you can)
 - 2 star anise
@@ -27,7 +27,7 @@ Two pots if you have them: a spicy red broth and a clear chicken broth. The red 
 - 6 garlic cloves (smashed)
 - 4 spring onions (cut into 5 cm lengths)
 - 1 tablespoon Shaoxing rice wine
-- 2 ½ litres unsalted chicken or beef stock
+- 2 ½ litres unsalted chicken (or beef stock)
 - 2 tablespoons rock sugar (or 1 tablespoon caster sugar)
 - 1 tablespoon dark soy sauce
 - 1 ½ teaspoons salt (to taste)
@@ -47,9 +47,9 @@ Two pots if you have them: a spicy red broth and a clear chicken broth. The red 
 - 200 g enoki mushrooms
 - 200 g shiitake mushrooms (sliced)
 - 200 g lotus root (peeled, sliced thin)
-- 1 large bunch bok choy or napa cabbage
+- 1 large bunch bok choy (or napa cabbage)
 - 1 large bunch sweet potato glass noodles (soaked in warm water 10 min)
-- 200 g fish balls or processed Asian seafood balls
+- 200 g fish balls (or processed Asian seafood balls)
 
 ### Dipping sauce (per diner)
 - 2 tablespoons toasted sesame oil

@@ -25,7 +25,7 @@ Rasgulla is one of the great technical sweets of South Asia, and there is no sho
 
 ### Syrup
 - 400 g sugar
-- 1.5 litres water
+- 1 ½ litres water
 - 4 green cardamom pods (lightly crushed)
 - A few strands saffron (optional)
 - 1 tsp rose water (optional, added at the end)

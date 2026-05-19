@@ -15,7 +15,7 @@ A small orange sweet potato is boiled, peeled, mashed to a smooth purée. The do
 ## Ingredients
 
 ### Dough
-- 1 medium orange sweet potato (about 250 g)
+- 1 orange sweet potato (medium, about 250 g)
 - 500 g strong white bread flour
 - 1 sachet (7 g) fast-action yeast
 - 1 ½ teaspoons salt

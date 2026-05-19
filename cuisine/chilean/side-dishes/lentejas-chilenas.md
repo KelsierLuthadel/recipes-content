@@ -14,9 +14,9 @@ Smoked bacon renders in a heavy pot; onion, garlic and carrot soften in the fat.
 
 ## Ingredients
 
-- 400 g green or brown lentils (rinsed)
+- 400 g green lentils (or brown lentils, rinsed)
 - 200 g smoked streaky bacon (or smoked pancetta - cut into 1 cm pieces)
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 4 garlic cloves (crushed)
 - 2 carrots (diced)
 - 1 stick celery (diced)
@@ -29,7 +29,7 @@ Smoked bacon renders in a heavy pot; onion, garlic and carrot soften in the fat.
 - ½ teaspoon ground black pepper
 - 2 bay leaves
 - 1.4 litres hot stock
-- 2 medium potatoes (peeled, cut into 2 cm cubes)
+- 2 potatoes (medium, peeled, cut into 2 cm cubes)
 - 1 tablespoon red wine vinegar
 - 3 tablespoons fresh parsley (chopped)
 

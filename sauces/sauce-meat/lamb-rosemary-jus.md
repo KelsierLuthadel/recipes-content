@@ -25,7 +25,8 @@ A light, herb-infused jus capturing roasted lamb's natural juices enhanced by ro
 
 ### Liquid
 - 200 ml red wine (Preferably Grenache)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

@@ -15,18 +15,18 @@ Winged beans are sliced thin and tossed with kerisik (toasted grated coconut pou
 
 ### Salad
 - 200 grams winged beans (kacang botol)
-- 1 small Asian red shallot (very thinly sliced)
+- 1 Asian red shallot (small, very thinly sliced)
 - 2 kaffir lime leaves (centre rib removed, very finely shredded)
 - 10 mint leaves (torn)
 - 8 Vietnamese mint (laksa) leaves (optional, torn)
 
 ### Kerisik (Toasted Coconut)
-- 60 grams fresh or frozen grated coconut, defrosted (or 50 grams desiccated coconut moistened with 2 tablespoons water)
+- 60 grams fresh (or frozen grated coconut), defrosted (or 50 grams desiccated coconut moistened with 2 tablespoons water)
 
 ### Dressing
 - 2 tablespoons dried shrimp
 - 2 fresh red bird's eye chillies (finely chopped)
-- 1 large fresh red chilli (finely chopped)
+- 1 fresh red chilli (large, finely chopped)
 - 2 tablespoons fresh lime juice
 - 1 ½ tablespoons fish sauce
 - 1 teaspoon palm sugar (gula melaka, grated) or soft brown sugar

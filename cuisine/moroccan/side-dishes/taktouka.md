@@ -13,7 +13,7 @@
 Red peppers char under a grill till blackened; peel; deseed; slice. Tomatoes blanch, peel, dice. Olive oil heats with garlic, cumin and sweet paprika; peppers and tomatoes go in; salt; cook for 25 minutes till the moisture has gone and the mixture is jammy and glossy. Coriander stirs in. Eats warm or room temperature.
 
 ## Ingredients
-- 4 large red peppers (about 700 g)
+- 4 red peppers (large, about 700 g)
 - 4 ripe tomatoes (about 500 g)
 - 4 garlic cloves (minced)
 - 5 tablespoons olive oil

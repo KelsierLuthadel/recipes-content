@@ -15,7 +15,7 @@ Pulled pork is the slowest, simplest hero of American Southern barbecue. A whole
 ## Ingredients
 
 ### Pork and rub
-- 2.5 kg bone-in pork shoulder
+- 2 ½ kg bone-in pork shoulder
 - 3 tbsp light brown sugar
 - 2 tbsp smoked paprika
 - 2 tbsp sweet paprika
@@ -42,7 +42,8 @@ Pulled pork is the slowest, simplest hero of American Southern barbecue. A whole
 - 2 tbsp mayonnaise
 - 1 tbsp cider vinegar
 - 1 tsp Dijon mustard
-- Salt and pepper
+- salt
+- pepper
 
 ### To serve
 - 8 soft white burger buns

@@ -24,7 +24,7 @@ This simple vegetarian dish relies on technique and proper timing to shine. Tend
 
 ### Pasta & Finishing
 - 500 grams orecchiette shells
-- 150 grams Parmesan (freshly grated)
+- 150 grams Parmesan cheese (freshly grated)
 - 10 fresh basil leaves
 
 ## Method

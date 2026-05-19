@@ -58,7 +58,7 @@ Indonesia's national fried rice, traditionally a way to put yesterday's leftover
 ## Notes
 - **Day-old rice:** Cold rice fries far better than freshly cooked. The grains are drier and don't clump in the wok. Spread fresh rice out and chill for at least an hour if you can't wait until the next day.
 - **Searing the mince:** Pressing the beef into the wok and leaving it untouched develops a real crust. Resist the urge to stir for the first few minutes.
-- **Shrimp paste:** Half a teaspoon is enough to add the funky umami that sets nasi goreng apart from a generic fried rice.
+- **Shrimp paste:** ½ teaspoon is enough to add the funky umami that sets nasi goreng apart from a generic fried rice.
 
 ## Variations
 **Chicken nasi goreng:** Replace the beef with diced chicken thigh; cook the same way but stir-fry rather than sear.

@@ -18,17 +18,17 @@ Pork skin (the back-fat skin sold at butchers, or any thick skin from a fresh po
 
 ### Seasoning
 - 1 teaspoon flaky sea salt
-- ½ teaspoon Tajín or chilli salt
+- ½ teaspoon Tajín (or chilli salt)
 - ½ teaspoon smoked paprika
 - ¼ teaspoon ground cumin
 
 ### For frying
-- 1 litre vegetable oil or pork lard (lard gives a more authentic flavour but oil works)
+- 1 litre vegetable oil (or pork lard, lard gives a more authentic flavour but oil works)
 
 ### To serve
 - Lime wedges
 - Hot sauce (Cholula, Valentina, or any Mexican brand)
-- Salsa verde or red salsa (optional)
+- Salsa verde (or red salsa, optional)
 
 ## Method
 

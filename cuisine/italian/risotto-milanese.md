@@ -15,14 +15,15 @@ Carnaroli or arborio rice toasts briefly in butter and oil with shallot, gets a 
 ## Ingredients
 
 - 1 large pinch saffron threads (about ½ g)
-- 1 litre chicken or vegetable stock
+- 1 litre chicken (or vegetable stock)
 - 50 g unsalted butter (split)
 - 1 tablespoon olive oil
-- 1 small shallot (very finely chopped)
-- 300 g carnaroli or arborio rice
+- 1 shallot (small, very finely chopped)
+- 300 g carnaroli (or arborio rice)
 - 100 ml dry white wine
-- 60 g parmesan (finely grated)
-- Salt and freshly ground white pepper
+- 60 g parmesan cheese (finely grated)
+- salt
+- pepper
 
 ## Method
 

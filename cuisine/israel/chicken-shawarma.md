@@ -18,7 +18,7 @@ Chicken thighs marinate 6+ hours in baharat, turmeric, paprika, cumin, garlic, y
 - 1 kg boneless skinless chicken thighs (whole)
 - 4 tablespoons olive oil
 - 4 tablespoons natural yogurt
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 6 garlic cloves (crushed)
 - 1 tablespoon ground baharat
 - 1 tablespoon ground turmeric
@@ -30,14 +30,14 @@ Chicken thighs marinate 6+ hours in baharat, turmeric, paprika, cumin, garlic, y
 - 1 teaspoon ground black pepper
 
 ### To serve
-- 4 large pita breads (warmed; split open)
+- 4 pita breads (large, warmed; split open)
 - Hummus (see recipe)
 - Salata (Israeli chopped salad)
 - Pickled cucumbers (dill or sour)
 - Pickled turnips (optional, pink lift)
 - Tahina sauce (tahini + lemon + garlic + water)
 - Amba (mango pickle, optional)
-- Zhug or sahawiq (chilli sauce)
+- Zhug (or sahawiq, chilli sauce)
 
 ## Method
 

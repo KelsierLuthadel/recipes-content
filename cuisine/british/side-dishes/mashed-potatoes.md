@@ -14,11 +14,12 @@ Maris Piper potatoes peel and chunk, boil in well-salted water until very tender
 
 ## Ingredients
 
-- 1 kg Maris Piper or King Edward potatoes (peeled, cut into 4 cm chunks)
+- 1 kg Maris Piper (or King Edward potatoes, peeled, cut into 4 cm chunks)
 - 1 tablespoon salt (for the water)
 - 100 g unsalted butter (cold, cubed)
 - 150 ml whole milk (warm)
-- Salt and freshly ground white pepper
+- salt
+- pepper
 - A grating of nutmeg (optional)
 
 ## Method

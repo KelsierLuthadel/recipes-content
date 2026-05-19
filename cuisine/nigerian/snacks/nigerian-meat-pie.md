@@ -20,12 +20,12 @@ A short pastry of plain flour, butter, margarine (the mix gives Nigerian pies th
 - 1 teaspoon salt
 - 100 g unsalted butter (cold, cubed)
 - 150 g block margarine (cold, cubed)
-- 1 large egg
+- 1 egg (large)
 - 100-120 ml ice water
 
 ### Filling
 - 2 tablespoons sunflower oil
-- 1 large onion (finely diced)
+- 1 onion (large, finely diced)
 - 3 garlic cloves (crushed)
 - 400 g beef mince
 - 1 tablespoon curry powder (Nigerian-style yellow)
@@ -33,9 +33,9 @@ A short pastry of plain flour, butter, margarine (the mix gives Nigerian pies th
 - 1 stock cube (Maggi)
 - ½ teaspoon salt
 - ½ teaspoon black pepper
-- 1 medium carrot (diced 5 mm)
-- 1 large potato (diced 5 mm - about 200 g)
-- 200 ml beef or chicken stock
+- 1 carrot (medium, diced 5 mm)
+- 1 potato (large, diced 5 mm - about 200 g)
+- 200 ml beef (or chicken stock)
 - 1 tablespoon cornflour (mixed with 2 tablespoons cold water)
 
 ### To finish

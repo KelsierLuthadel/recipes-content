@@ -23,7 +23,7 @@ The lamb filling fries with onion, allspice and a touch of cinnamon; the dough r
 ### Filling
 - 300 g lamb mince
 - 2 tablespoons olive oil
-- 1 medium onion (very finely chopped)
+- 1 onion (medium, very finely chopped)
 - 2 garlic cloves (crushed)
 - 1 teaspoon ground allspice
 - ½ teaspoon ground cinnamon
@@ -34,14 +34,14 @@ The lamb filling fries with onion, allspice and a touch of cinnamon; the dough r
 
 ### Yogurt sauce
 - 800 g full-fat natural yogurt (Greek or strained)
-- 1 large egg white
+- 1 egg white (large)
 - 1 tablespoon cornflour
 - 4 garlic cloves (crushed)
 - 1 teaspoon salt
 - 200 ml warm water (more if needed)
 
 ### Garlic-mint butter
-- 3 tablespoons unsalted butter or samna
+- 3 tablespoons unsalted butter (or samna)
 - 3 garlic cloves (crushed)
 - 1 tablespoon dried mint
 - 1 tablespoon fresh parsley (chopped)

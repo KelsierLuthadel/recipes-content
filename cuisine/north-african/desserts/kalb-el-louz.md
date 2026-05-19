@@ -21,7 +21,7 @@ Semolina is mixed with melted butter and rested for 1 hour (hydrates fully). Sug
 - 200 g ground almonds
 - 1 ½ teaspoons baking powder
 - ½ teaspoon salt
-- 2 large eggs
+- 2 eggs (large)
 - 2 tablespoons orange-flower water
 - 100 ml warm milk (as needed)
 - 24 whole blanched almonds (for tops)

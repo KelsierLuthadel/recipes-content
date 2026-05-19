@@ -26,7 +26,7 @@ Chicken thighs cube small; marinate for 1 hour in yogurt, ginger-garlic paste, K
 - 1 tablespoon lemon juice
 - 3 tablespoons cornflour
 - 3 tablespoons plain flour
-- 1 large egg (lightly beaten)
+- 1 egg (large, lightly beaten)
 
 ### To fry
 - 1 litre vegetable oil
@@ -43,7 +43,7 @@ Chicken thighs cube small; marinate for 1 hour in yogurt, ginger-garlic paste, K
 - ¼ teaspoon ground black pepper
 
 ### To finish
-- 1 small red onion (sliced thin)
+- 1 red onion (small, sliced thin)
 - 2 tablespoons fresh coriander (chopped)
 - 2 limes (cut into wedges)
 

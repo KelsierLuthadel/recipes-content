@@ -31,9 +31,9 @@ A bricklayer's calzone: pizza dough rolled into a 12 by 18 inch rectangle, brush
 - ¼ teaspoon garlic powder
 
 ### To Finish
-- Finely chopped fresh parsley or basil
+- Finely chopped fresh parsley (or basil)
 - Flaky sea salt
-- Grated parmesan
+- Grated parmesan cheese
 - Marinara sauce (for dipping)
 
 ## Method

@@ -17,7 +17,7 @@ Spicy green curry with fresh bird's eye chillies. Use homemade paste for best fl
 
 ## Ingredients
 ### Fat
-- 2 tbsp coconut oil or rapeseed (canola) oil
+- 2 tbsp coconut oil (or rapeseed, canola)
 
 ### Paste
 - 1 batch Thai green curry paste
@@ -30,7 +30,7 @@ Spicy green curry with fresh bird's eye chillies. Use homemade paste for best fl
 - 400 ml (1 ¾ cups) thick coconut milk
 
 ### Vegetables
-- About 225 g (8 oz) vegetables, such as baby corn, bamboo shoots, aubergine (eggplant), broccoli, sliced lotus root
+- 225 g (8 oz) vegetables, such as baby corn, bamboo shoots, aubergine (eggplant), broccoli, sliced lotus root
 
 ### Seasoning
 - 2 tbsp sugar (more or less to taste)

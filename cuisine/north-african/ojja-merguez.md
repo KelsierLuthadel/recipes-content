@@ -16,7 +16,7 @@ Merguez sausages are browned in a wide deep pan, lifted out and roughly cut into
 
 - 400 g merguez sausages (Tunisian-style lamb merguez, ideally - sold at North African shops and many supermarkets)
 - 2 tablespoons olive oil (if needed - depends how fatty the sausages are)
-- 1 large onion (sliced)
+- 1 onion (large, sliced)
 - 1 red bell pepper (sliced thin)
 - 4 garlic cloves (sliced)
 - 1 teaspoon caraway seeds
@@ -24,11 +24,11 @@ Merguez sausages are browned in a wide deep pan, lifted out and roughly cut into
 - 1 teaspoon ground coriander
 - 1-2 tablespoons harissa (to taste - Tunisian harissa is fiery)
 - 1 teaspoon sweet paprika
-- 2 x 400 g tins chopped tomatoes (or 800 g passata)
+- 800 g tins chopped tomatoes (or 800 g passata)
 - 1 teaspoon caster sugar
 - 1 teaspoon salt
 - ½ teaspoon black pepper
-- 4 large eggs
+- 4 eggs (large)
 
 ### To finish
 - 3 tablespoons fresh flat-leaf parsley (chopped)

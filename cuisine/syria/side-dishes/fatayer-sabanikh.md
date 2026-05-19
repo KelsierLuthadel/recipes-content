@@ -25,11 +25,11 @@ Spinach is wilted briefly with salt, drained, squeezed dry. Mixed with onion, su
 ### Filling
 - 500 g fresh spinach (washed, chopped) or 250 g frozen, thawed
 - 1 teaspoon salt (for drawing water from spinach)
-- 1 medium onion (very finely chopped)
+- 1 onion (medium, very finely chopped)
 - 2 tablespoons sumac
 - 1 tablespoon pomegranate molasses
 - 3 tablespoons olive oil
-- Juice of ½ lemon
+- ½ lemon (juice)
 - ¼ teaspoon ground allspice
 - ¼ teaspoon ground black pepper
 

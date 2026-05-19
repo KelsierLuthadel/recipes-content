@@ -15,7 +15,7 @@ A deep, brick-yellow gravy stained with turmeric and allspice (called pimento in
 ## Ingredients
 
 ### Goat and marinade
-- 1.2 kg bone-in goat shoulder or leg (cut into 3-4 cm chunks; ask the butcher to chop through the bone)
+- 1.2 kg bone-in goat shoulder (or leg, cut into 3-4 cm chunks; ask the butcher to chop through the bone)
 - 3 tablespoons Caribbean curry powder (Betapac or similar; substitute a Madras + 1 teaspoon ground allspice + 1 teaspoon ground turmeric)
 - 1 teaspoon ground allspice (also called pimento)
 - 1 teaspoon ground black pepper
@@ -30,10 +30,10 @@ A deep, brick-yellow gravy stained with turmeric and allspice (called pimento in
 
 ### To cook
 - 2 tablespoons vegetable oil
-- 1 large onion (sliced)
+- 1 onion (large, sliced)
 - 2 tablespoons Caribbean curry powder (extra, for blooming)
 - 1 litre chicken stock (or water)
-- 2 medium potatoes (peeled, cut into 3 cm chunks)
+- 2 potatoes (medium, peeled, cut into 3 cm chunks)
 - 1 whole Scotch bonnet (left whole, pierced once with a knife - **do not break**)
 - 2 sprigs fresh thyme
 - Salt and black pepper, to adjust at the end
@@ -42,7 +42,7 @@ A deep, brick-yellow gravy stained with turmeric and allspice (called pimento in
 - Rice and peas (see [cuisine/jamaican/side-dishes/rice-and-peas.md](side-dishes/rice-and-peas.md))
 - Fried plantains
 - Lime wedges
-- Cold Red Stripe or similar
+- Cold Red Stripe (or similar)
 
 ## Method
 

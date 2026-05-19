@@ -24,7 +24,7 @@ A bold, garlicky curry with a brisk curry-house kick. This jalfrezi-style dish u
 - 2 tbsp garlic and ginger paste
 
 ### Heat and sauce
-- 3+ fresh green chillies, thinly sliced (plus extra to serve)
+- 3 fresh green chillies, thinly sliced (plus extra to serve)
 - 1 tsp chilli powder
 - 2 tbsp mixed powder
 - 2 tbsp tandoori masala

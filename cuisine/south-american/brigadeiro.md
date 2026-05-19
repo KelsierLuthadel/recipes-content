@@ -14,7 +14,7 @@ Sweetened condensed milk, cocoa powder and butter cook together in a heavy pan o
 
 ## Ingredients
 
-- 1 x 397 g tin sweetened condensed milk
+- 397 g tin sweetened condensed milk
 - 30 g unsalted butter (plus more for greasing hands and plate)
 - 4 tablespoons cocoa powder (good-quality, sifted)
 - ¼ teaspoon salt

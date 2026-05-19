@@ -16,7 +16,7 @@ Lamb mince blends with onion, garlic, oregano, cumin and a bit of breadcrumb int
 
 ### Gyros loaf
 - 800 g lamb mince
-- 1 small onion (very finely grated, juice squeezed out)
+- 1 onion (small, very finely grated, juice squeezed out)
 - 4 garlic cloves (crushed)
 - 1 tablespoon dried oregano
 - 1 teaspoon ground cumin
@@ -32,9 +32,9 @@ Lamb mince blends with onion, garlic, oregano, cumin and a bit of breadcrumb int
 ### To serve
 - 6 pita breads (warmed)
 - Tzatziki
-- 1 small red onion (very finely sliced)
+- 1 red onion (small, very finely sliced)
 - 2 tomatoes (sliced)
-- A small handful of fresh oregano or parsley
+- A small handful of fresh oregano (or parsley)
 - Optional: 200 g hot chips
 
 ## Method

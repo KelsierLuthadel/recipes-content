@@ -17,7 +17,7 @@ A pleated, multi-layered Bengali flatbread laminated with ghee and studded with 
 
 ### Dough
 - 180 g whole wheat flour (atta) or maida
-- 1 tablespoon ghee or oil
+- 1 tablespoon ghee (or oil)
 - ½ teaspoon salt
 - Warm water (as needed)
 

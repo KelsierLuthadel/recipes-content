@@ -26,7 +26,7 @@ Puff pastry rolls thin into a long rectangle, brushes with butter, rolls back in
 - 100 ml water
 - 1 cinnamon stick
 - A strip of lemon peel
-- 6 large egg yolks
+- 6 egg yolks (large)
 - ½ teaspoon vanilla extract
 
 ### To serve

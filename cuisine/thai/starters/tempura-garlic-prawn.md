@@ -32,7 +32,7 @@ Here is another Thai starter you might think belongs in a Japanese cookbook. How
 - Rapeseed (canola) oil, for deep-frying
 
 ### Serving
-- Thai seafood dipping sauce or sweet chilli sauce, to serve
+- Thai seafood dipping sauce (or sweet chilli sauce), to serve
 
 ## Method
 

@@ -19,7 +19,7 @@ Elegant individual flans featuring fresh shellfish, mussels, scallops, and lango
 
 ### Seafood
 - 24 fresh mussels (cleaned)
-- 3 large scallops
+- 3 scallops (large)
 - 6 langoustines (cleaned)
 - 100 g tender green seaweed (optional)
 
@@ -31,7 +31,8 @@ Elegant individual flans featuring fresh shellfish, mussels, scallops, and lango
 ### Custard
 - 75 ml double cream
 - 1 whole egg
-- Salt and freshly ground pepper
+- salt
+- pepper
 
 ## Method
 ### Make the filling

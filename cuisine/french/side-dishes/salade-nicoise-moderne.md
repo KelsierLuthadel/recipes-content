@@ -38,13 +38,15 @@ A classic Provençal salad featuring seared tuna, hard-boiled eggs, and crispy s
 - 8 tbsp olive oil
 - 2 tbsp tarragon vinegar
 - ½ tsp Dijon mustard
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - ½ garlic clove (finely chopped)
 - ½ tsp fresh chives (finely chopped)
 - ½ tsp tarragon (freshly chopped)
 
 ### For cooking tuna
-- Salt and pepper
+- salt
+- pepper
 - Oil for frying
 
 ## Method

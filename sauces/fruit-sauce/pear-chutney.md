@@ -17,7 +17,7 @@ A complex preserve with sweet pear balanced by warm spice and bright citrus. Thi
 
 ### Base & aromatics
 - 60 grams cooking apples (cored, peeled and chopped)
-- half a teaspoon salt
+- ½ teaspoon salt
 - 125 grams very ripe tomatoes (peeled, de-seeded and chopped)
 - 60 grams onion (finely chopped)
 - 15 grams ginger (finely chopped)
@@ -25,7 +25,7 @@ A complex preserve with sweet pear balanced by warm spice and bright citrus. Thi
 ### Fruit & citrus
 - 60 grams sultanas
 - 1 tablespoon orange zest (coarsely chopped)
-- juice of 1 orange
+- 1 orange (juice)
 - 375 grams ripe, but firm pears
 
 ### Spices & sugar

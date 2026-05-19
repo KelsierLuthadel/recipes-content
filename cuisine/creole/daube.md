@@ -16,8 +16,8 @@ Beef chuck cubes brown hard; the trinity (onion, celery, pepper) soften deep in 
 
 - 1 ½ kg beef chuck (cut into 5 cm chunks)
 - 4 tablespoons vegetable oil
-- 200 g smoked bacon lardons or chopped pancetta
-- 3 large onions (chopped)
+- 200 g smoked bacon lardons (or chopped pancetta)
+- 3 onions (large, chopped)
 - 4 sticks celery (chopped)
 - 2 green bell peppers (chopped)
 - 8 garlic cloves (crushed)
@@ -35,7 +35,7 @@ Beef chuck cubes brown hard; the trinity (onion, celery, pepper) soften deep in 
 - 4 tablespoons fresh parsley (chopped, to finish)
 
 ### To serve
-- 6 servings cooked white rice or wide egg noodles
+- 6 servings cooked white rice (or wide egg noodles)
 
 ## Method
 

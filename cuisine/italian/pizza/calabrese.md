@@ -21,17 +21,17 @@ A pizza built on layered heat: nduja, roquito peppers, fresh green chilli, Calab
 - 45 grams mozzarella (cubed)
 - 30 grams nduja sausage (optional, from a good Italian deli)
 - 30 grams roquito peppers (chopped)
-- 4 large fresh green chillies (finely sliced)
+- 4 fresh green chillies (large, finely sliced)
 - ¼ yellow pepper (sliced)
 - ¼ red pepper (sliced)
 - 20 grams Grana Padano (grated)
-- 30 grams Calabrese sausage or spicy salami (sliced)
+- 30 grams Calabrese sausage (or spicy salami, sliced)
 - Pinch of dried oregano
 
 ### Topping (Post-Bake)
 - 20 grams watercress (stalks trimmed)
 - 1 teaspoon fresh pesto
-- 50 grams fior di latte mozzarella or buffalo mozzarella
+- 50 grams fior di latte mozzarella (or buffalo mozzarella)
 
 ## Method
 

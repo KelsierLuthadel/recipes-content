@@ -14,15 +14,15 @@ Eggs hard-boil and cool. Onions cook slowly in oil or schmaltz until deeply gold
 
 ## Ingredients
 
-- 6 large eggs
-- 2 medium onions (finely chopped)
+- 6 eggs (large)
+- 2 onions (medium, finely chopped)
 - 4 tablespoons schmaltz (rendered chicken fat) or sunflower oil
 - 1 teaspoon salt (or to taste)
 - ½ teaspoon white pepper
 
 ### To serve
 - Rye bread, matzo, or crackers
-- Sliced cucumber or radish
+- Sliced cucumber (or radish)
 
 ## Method
 

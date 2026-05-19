@@ -15,7 +15,7 @@ A competition-winning fried tender from chef Jessica Fulks where everything is b
 ## Ingredients
 
 - 12 chicken tenders
-- Buffalo sauce + hot sauce mix (for marinade), about 240 ml
+- 24 ml [Buffalo sauce](../../sauces/sauce-spicy/buffalo-sauce.md)
 
 ### Flour dredge
 - 2 ½ cups plain flour
@@ -27,7 +27,7 @@ A competition-winning fried tender from chef Jessica Fulks where everything is b
 - 3 tablespoons dried basil
 
 ### Fry
-- 1.5 litres canola or vegetable oil
+- 1 ½ litres canola (or vegetable oil)
 
 ### Sauce
 - 300 g (10 oz) pure honey

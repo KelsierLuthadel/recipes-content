@@ -15,7 +15,7 @@ A whisked sponge, beaten egg whites for lift, yolks-and-sugar base, flour folded
 ## Ingredients
 
 ### Sponge
-- 6 large eggs (separated)
+- 6 eggs (large, separated)
 - 200 g caster sugar
 - 200 g plain flour
 - 1 ½ teaspoons baking powder

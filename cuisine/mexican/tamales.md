@@ -30,7 +30,7 @@ Masa harina mixes with lard or butter, baking powder and stock into a fluffy dou
 - 200 g lard (room temperature) or unsalted butter
 - 1 teaspoon baking powder
 - 1 teaspoon salt
-- 750 ml warm chicken stock or pork cooking liquid
+- 750 ml warm chicken stock (or pork cooking liquid)
 
 ### Wrapping
 - 30 dried corn husks (soaked in hot water 30 minutes until pliable)

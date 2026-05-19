@@ -18,7 +18,7 @@ Whole milk boils, then curdles with lemon juice; the curds drain to chhana (fres
 ### Chhana (for the dumplings)
 - 2 litres whole milk
 - 3 tablespoons lemon juice (or 2 tablespoons white vinegar)
-- 1 tablespoon plain flour or semolina (optional; helps the texture)
+- 1 tablespoon plain flour (or semolina, optional; helps the texture)
 
 ### Sugar syrup
 - 250 g caster sugar

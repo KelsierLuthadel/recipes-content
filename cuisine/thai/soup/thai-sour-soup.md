@@ -30,7 +30,7 @@ A zesty Thai soup featuring tofu and mushrooms in a spicy, sour broth infused wi
 
 ### Seasonings
 - 2 tablespoons tom yum paste
-- 1 small red chilli (finely sliced)
+- 1 red chilli (small, finely sliced)
 - 2 tablespoons lime juice
 
 ### Liquid/Broth

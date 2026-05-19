@@ -16,7 +16,7 @@ A simple egg-and-flour pasta dough rolls thin. The filling is spinach (frozen, t
 
 ### Dough
 - 400 g plain flour (or "00" flour)
-- 4 large eggs
+- 4 eggs (large)
 - 1 teaspoon salt
 - 2 tablespoons olive oil
 - 4-6 tablespoons cold water
@@ -25,19 +25,23 @@ A simple egg-and-flour pasta dough rolls thin. The filling is spinach (frozen, t
 - 100 g stale white bread (crusts off; torn into pieces)
 - 200 ml whole milk
 - 500 g frozen chopped spinach (thawed)
-- 1 medium onion (finely chopped)
+- 1 onion (medium, finely chopped)
 - 2 tablespoons unsalted butter
-- 100 g gruyère or emmental (grated)
-- 50 g parmesan (finely grated)
-- 2 large eggs
+- 100 g gruyère cheese (or emmental, grated)
+- 50 g parmesan cheese (finely grated)
+- 2 eggs (large)
 - A grating of nutmeg
 - A small bunch of parsley (chopped)
-- Salt and black pepper
+- salt
+- pepper
 
 ### To serve
-- 1 ½ litres vegetable stock (for in-broth)
-- OR: 50 g butter + 1 large onion sliced (for pan-fried)
-- 4 fried eggs (optional, with pan-fried)
+#### For Broth
+- 1 ½ litres vegetable stock
+
+#### Pan Fried
+- 50 g butter + 1 large onion sliced
+- 4 fried eggs (optional)
 
 ## Method
 

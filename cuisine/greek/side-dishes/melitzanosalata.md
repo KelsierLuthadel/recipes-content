@@ -13,18 +13,18 @@
 Whole aubergines char directly over flame or under a hot grill until the skin blackens and the inside collapses to softness. Cool, peel, drain on a sieve 15 minutes to release excess water. Roughly chop the flesh; mix with crushed garlic, lemon juice, olive oil, red-wine vinegar, chopped parsley, salt and pepper. Taste and balance. Serve in a wide bowl with a generous drizzle of olive oil.
 
 ## Ingredients
-- 3 medium aubergines (about 900 g total)
+- 3 aubergines (medium, about 900 g total)
 - 2 garlic cloves (very finely minced or grated)
 - 3 tablespoons lemon juice (about 1 lemon)
 - 4 tablespoons extra virgin olive oil (plus extra for drizzling)
 - 1 tablespoon red-wine vinegar
 - 30 g flat-leaf parsley (chopped, plus extra for garnish)
-- 1 small red onion (very finely diced, optional)
+- 1 red onion (small, very finely diced, optional)
 - 1 teaspoon salt
 - ½ teaspoon ground black pepper
 
 ### To serve
-- Warm pita or country-style bread
+- Warm pita (or country-style bread)
 - A pinch of smoked paprika
 - A handful of kalamata olives
 

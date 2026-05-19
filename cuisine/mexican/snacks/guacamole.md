@@ -15,14 +15,14 @@ Avocados halve, scoop out, mash chunky (not smooth, texture matters). Onion fine
 ## Ingredients
 
 - 3 ripe avocados (yields readily to gentle pressure)
-- 1 small white onion (very finely chopped)
-- 1 jalapeño or serrano chilli (seeds removed for less heat; finely chopped)
+- 1 white onion (small, very finely chopped)
+- 1 jalapeño (or serrano chilli, seeds removed for less heat; finely chopped)
 - A small bunch of fresh coriander (chopped)
-- Juice of 1 lime (plus more to taste)
+- 1 lime (plus more to taste, juice)
 - 1 teaspoon flaky sea salt (plus more to taste)
 
 ### Optional
-- 1 small ripe tomato (seeded, finely diced) - for the salsa-style version
+- 1 ripe tomato (small, seeded, finely diced, for the salsa-style version)
 
 ## Method
 

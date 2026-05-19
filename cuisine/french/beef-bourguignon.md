@@ -21,8 +21,8 @@ Beef Bourguignon is the quintessential French braise, tender beef cubes slow-coo
 
 ### Meat & Aromatics
 - 900 grams rump pot roast (cut into 5 cm cubes)
-- 2 medium carrots (sliced into 5 mm rounds)
-- 2 medium onions (sliced into 5 mm rounds)
+- 2 carrots (medium, sliced into 5 mm rounds)
+- 2 onions (medium, sliced into 5 mm rounds)
 - 2 tablespoons flour
 - 1 bouquet garni
 - 2 cloves garlic (de-germed)
@@ -30,7 +30,7 @@ Beef Bourguignon is the quintessential French braise, tender beef cubes slow-coo
 - Salt to taste
 
 ### Garnish
-- 16 small cippoline onions (peeled)
+- 16 cippoline onions (small, peeled)
 - 1 teaspoon sea salt
 - 1 teaspoon caster sugar
 - 125 grams lardons

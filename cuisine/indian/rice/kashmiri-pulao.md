@@ -20,7 +20,7 @@ Saffron is bloomed in warm milk to draw the colour and aroma. Basmati is rinsed,
 - 30 g flaked almonds
 - 30 g cashews (broken in half)
 - 30 g sultanas (or raisins)
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 4 green cardamom pods (lightly crushed)
 - 1 black cardamom pod
 - 4 cloves

@@ -15,7 +15,7 @@ Dried chickpeas soak overnight, do not cook them. Blitz with onion, garlic, herb
 ## Ingredients
 
 - 400 g dried chickpeas (soaked 12 hours, drained - DO NOT use tinned or cooked chickpeas)
-- 1 medium onion (chopped)
+- 1 onion (medium, chopped)
 - 6 garlic cloves
 - 1 large bunch fresh parsley (50 g, stems and leaves)
 - 1 large bunch fresh coriander (50 g)
@@ -23,7 +23,7 @@ Dried chickpeas soak overnight, do not cook them. Blitz with onion, garlic, herb
 - 1 ½ teaspoons ground cumin
 - 1 teaspoon ground black pepper
 - 1 ½ teaspoons salt
-- 1 small green chilli (optional)
+- 1 green chilli (small, optional)
 
 ### Add just before frying
 - 1 teaspoon baking powder
@@ -38,7 +38,7 @@ Dried chickpeas soak overnight, do not cook them. Blitz with onion, garlic, herb
 - Tahina sauce
 - Salata baladi
 - Pickled cucumbers, pickled turnips
-- Zhug or sahawiq
+- Zhug (or sahawiq)
 
 ## Method
 

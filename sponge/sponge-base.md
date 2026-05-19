@@ -15,13 +15,13 @@ Sponge base is a simplified, diameter-flexible version of larger butter sponge c
 ## Ingredients
 
 ### Egg & Sugar Base
-- 6 large eggs (separated into yolks and whites, approximately 100 grams yolks, 180 grams whites)
+- 6 eggs (large, separated into yolks and whites, approximately 100 grams yolks, 180 grams whites)
 - 190 grams caster sugar (sifted, divided: ⅔ with yolks, ⅓ with whites)
 
 ### Flour
-- 180 grams cake flour or soft flour (sifted)
+- 180 grams cake flour (or soft flour, sifted)
 
-### Pan Setup & Diameter Notes
+### Equipment
 - Tin or flan ring of desired diameter (22-centimeter is standard; adjust baking time for other sizes)
 - Parchment paper (optional but helpful)
 

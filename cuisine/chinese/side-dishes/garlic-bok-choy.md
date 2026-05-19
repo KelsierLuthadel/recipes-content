@@ -21,12 +21,12 @@ Small heads of bok choy are halved or quartered lengthwise (keeping each piece t
 - 2 tablespoons oyster sauce
 - 1 tablespoon light soy sauce
 - 1 teaspoon caster sugar
-- 3 tablespoons hot water or chicken stock
+- 3 tablespoons hot water (or chicken stock)
 - 1 teaspoon sesame oil
 - 1 teaspoon cornflour (mixed with 1 tablespoon cold water - optional, for a glossier finish)
 
 ### Optional
-- 1 small red chilli (sliced - for heat)
+- 1 red chilli (small, sliced - for heat)
 - 1 spring onion (sliced - to scatter)
 
 ## Method

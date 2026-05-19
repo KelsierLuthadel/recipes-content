@@ -22,8 +22,8 @@ A batter of fine cornmeal and plain flour (about 2:1), buttermilk, egg, baking p
 - 1 teaspoon caster sugar
 - ½ teaspoon cayenne pepper (optional)
 - ½ teaspoon ground black pepper
-- 1 small onion (very finely chopped, about 100 g)
-- 1 large egg (lightly beaten)
+- 1 onion (small, very finely chopped, about 100 g)
+- 1 egg (large, lightly beaten)
 - 280 ml buttermilk
 - 1 litre vegetable oil for deep frying
 

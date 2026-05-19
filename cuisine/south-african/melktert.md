@@ -18,7 +18,7 @@ A sweet shortcrust pastry rolls thin and lines a 24 cm tart tin; blind-bakes bri
 - 200 g plain flour
 - 100 g cold unsalted butter (cubed)
 - 50 g caster sugar
-- 1 large egg yolk
+- 1 egg yolk (large)
 - A pinch of salt
 - 1-2 tablespoons cold water
 
@@ -29,7 +29,7 @@ A sweet shortcrust pastry rolls thin and lines a 24 cm tart tin; blind-bakes bri
 - 100 g caster sugar
 - 30 g cornflour
 - 30 g plain flour
-- 3 large eggs (lightly beaten)
+- 3 eggs (large, lightly beaten)
 - 1 teaspoon vanilla extract
 - A pinch of salt
 

@@ -10,13 +10,13 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Long-grain rice (not basmati or jasmine, they're too slim) toasts in oil over medium heat until pale gold and nutty, 3-4 minutes. Diced onion and garlic join briefly. A blender pulses a ripe tomato, garlic clove, half an onion and a few sprigs of coriander into a smooth red puree; this strains through a sieve to remove fibre and pours into the pan with the toasted rice, along with chicken stock, salt, cumin and a bay leaf. Brought to a simmer, covered, reduced to lowest heat, cooked for 18-20 minutes until the liquid is absorbed and the rice is tender. Off heat 10 min rest; fluffed with a fork; finished with frozen peas and chopped coriander.
+Long-grain rice (not basmati or jasmine, they're too slim) toasts in oil over medium heat until pale gold and nutty, 3-4 minutes. Diced onion and garlic join briefly. A blender pulses a ripe tomato, garlic clove, ½ onion and a few sprigs of coriander into a smooth red puree; this strains through a sieve to remove fibre and pours into the pan with the toasted rice, along with chicken stock, salt, cumin and a bay leaf. Brought to a simmer, covered, reduced to lowest heat, cooked for 18-20 minutes until the liquid is absorbed and the rice is tender. Off heat 10 min rest; fluffed with a fork; finished with frozen peas and chopped coriander.
 
 ## Ingredients
 
 ### Tomato base
 - 2 ripe tomatoes (about 300 g)
-- 1 small onion (rough chunks for the blender)
+- 1 onion (small, rough chunks for the blender)
 - 2 garlic cloves
 - 1 small handful fresh coriander stems
 - 1 chipotle in adobo (optional, for smoke; or 1 teaspoon smoked paprika)
@@ -25,7 +25,7 @@ Long-grain rice (not basmati or jasmine, they're too slim) toasts in oil over me
 ### Rice
 - 300 g long-grain white rice (not parboiled, not basmati)
 - 3 tablespoons sunflower oil
-- 1 small onion (the remaining half, finely diced)
+- 1 onion (small, the remaining half, finely diced)
 - 2 garlic cloves (finely diced)
 - 1 teaspoon ground cumin
 - 1 teaspoon dried oregano (Mexican oregano if available)

@@ -15,7 +15,7 @@ A batter very similar to American pancake batter but enriched with honey (for th
 ## Ingredients
 
 ### Batter
-- 3 large eggs (room temperature)
+- 3 eggs (large, room temperature)
 - 100 g caster sugar
 - 2 tablespoons honey
 - 1 tablespoon mirin (or substitute 1 teaspoon vanilla extract)

@@ -18,16 +18,16 @@ Pork ribs simmer with onion, tomato and tamarind to build broth and tartness. Ve
 - 1 onion (quartered)
 - 2 tomatoes (quartered)
 - 1 ½ litres water
-- 4 tablespoons tamarind paste (or 1 sachet sinigang mix; or 200 g fresh tamarind boiled and strained)
+- 4 tablespoons tamarind paste
 - 2 tablespoons fish sauce (plus more to taste)
-- 1 small daikon radish (peeled, sliced 1 cm thick) or 1 mooli
-- 1 small taro root (peeled, cubed; optional)
-- 200 g green beans or yard-long beans (trimmed, cut into 5 cm)
+- 1 daikon radish (small, peeled, sliced 1 cm thick)
+- 1 taro root (small, peeled, cubed; optional)
+- 200 g green beans (or yard-long beans, trimmed, cut into 5 cm)
 - 200 g okra (trimmed)
-- 1 long green chilli or jalapeño (slit)
-- 1 bunch water spinach (kangkong) or regular spinach
+- 1 long green chilli (or jalapeño, slit)
+- 1 bunch spinach (kangkong)
 - Cooked white rice, to serve
-- Lime or kalamansi wedges, to serve
+- Lime (or kalamansi wedges), to serve
 
 ## Method
 
@@ -43,7 +43,7 @@ Pork ribs simmer with onion, tomato and tamarind to build broth and tartness. Ve
 ### Stage 3 - Vegetables
 1. Add the daikon and taro (if using); simmer 8 minutes.
 1. Add the green beans and okra; simmer 5 minutes.
-1. Add the chilli and water spinach; simmer 1 minute (the leaves should just wilt).
+1. Add the chilli and spinach; simmer 1 minute (the leaves should just wilt).
 
 ### Stage 4 - Serve
 1. Ladle into deep bowls.

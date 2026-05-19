@@ -14,7 +14,7 @@ Rice cooks slowly in lots of water until tender and mashable. Sugar dissolves wi
 
 ## Ingredients
 
-- 200 g short or medium-grain white rice (rinsed)
+- 200 g short (or medium-grain white rice, rinsed)
 - 1 ½ litres water
 - 350 g caster sugar
 - A generous pinch of saffron (steeped in 4 tablespoons hot water 15 min)

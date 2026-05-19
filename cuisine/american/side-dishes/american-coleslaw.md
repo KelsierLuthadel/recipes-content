@@ -16,7 +16,7 @@ Cabbage shreds very fine; carrot grates; both rest with a generous pinch of salt
 
 - 500 g green cabbage (very finely shredded)
 - 200 g red cabbage (very finely shredded)
-- 2 medium carrots (grated)
+- 2 carrots (medium, grated)
 - 1 tablespoon salt (for sweating)
 - 4 spring onions (sliced thin, optional)
 

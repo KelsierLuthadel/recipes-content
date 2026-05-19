@@ -18,18 +18,18 @@ Soft flour tortillas, thicker than Mexican ones, are griddled until lightly blis
 - 400 g plain flour
 - 1 teaspoon salt
 - 1 teaspoon baking powder
-- 4 tablespoons vegetable oil or melted lard
+- 4 tablespoons vegetable oil (or melted lard)
 - 220 ml warm water
 
 ### Fillings
 - 300 g refried beans (warmed)
-- 150 g mantequilla, sour cream or crème fraîche
-- 150 g queso fresco, feta or cotija cheese (crumbled)
+- 150 g mantequilla, sour cream (or crème fraîche)
+- 150 g queso fresco, feta (or cotija cheese, crumbled)
 
 ### Optional add-ons (con todo)
 - 4 eggs (scrambled)
 - 1 avocado (sliced)
-- 200 g cooked chorizo, shredded chicken or shredded beef
+- 200 g cooked chorizo, shredded chicken (or shredded beef)
 
 ## Method
 

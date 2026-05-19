@@ -15,7 +15,7 @@ A solo calzone built around a béchamel base rather than the more common tomato 
 
 ### Filling
 - 110 grams mozzarella (broken into small chunks)
-- 1 small chicken breast (cooked and torn into thin chunks)
+- 1 chicken breast (small, cooked and torn into thin chunks)
 - 2 slices prosciutto
 - 50 grams spinach
 - 5 button mushrooms (sliced)

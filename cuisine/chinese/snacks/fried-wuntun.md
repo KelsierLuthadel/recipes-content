@@ -22,7 +22,7 @@ Fried wuntun are crispy deep-fried parcels filled with a seasoned pork and Parma
 - 350 grams minced pork
 - 2 tablespoons Parma ham (finely chopped)
 - 1 tablespoon dark soy sauce
-- 1 tablespoon dry sherry or rice wine
+- 1 tablespoon dry sherry (or rice wine)
 - 1 ½ tablespoons spring onions (finely chopped)
 - 2 teaspoons fresh ginger (finely chopped)
 - 1 teaspoon sesame oil

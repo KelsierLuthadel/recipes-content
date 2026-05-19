@@ -14,7 +14,7 @@ Water comes to a hard simmer. Akpu (fermented cassava) flour is added in stages,
 
 ## Ingredients
 
-- 400 g akpu (fermented cassava) flour - also sold as "fufu flour" or "Nigerian fufu flour" at African shops
+- 400 g akpu (fermented cassava) flour
 - 700 ml water
 - ½ teaspoon salt (optional, modern)
 

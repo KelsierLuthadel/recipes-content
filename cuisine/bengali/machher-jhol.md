@@ -15,7 +15,7 @@ Machher jhol is the everyday fish curry of Bengal, eaten with steamed rice almos
 ## Ingredients
 
 ### Fish and marinade
-- 600 g rohu or katla, cut into 4 thick steaks (darnes)
+- 600 g rohu (or katla), cut into 4 thick steaks (darnes)
 - 1 tsp turmeric
 - 1 tsp salt
 
@@ -24,13 +24,13 @@ Machher jhol is the everyday fish curry of Bengal, eaten with steamed rice almos
 - 1 tsp nigella seeds (kalo jeere)
 - 2 dried red chillies
 - 2 bay leaves
-- 3 medium potatoes, peeled and cut into thick wedges
+- 3 potatoes (medium), peeled and cut into thick wedges
 - 2 green chillies, slit lengthways
-- 1½ tsp turmeric
+- 1 ½ tsp turmeric
 - 1 tsp Kashmiri chilli powder
 - 1 tbsp cumin powder
 - 1 tbsp ginger paste
-- 1 small tomato, finely chopped (optional)
+- 1 tomato (small), finely chopped (optional)
 - 750 ml warm water
 - 1 tsp salt, or to taste
 - 1 tsp ghee, to finish

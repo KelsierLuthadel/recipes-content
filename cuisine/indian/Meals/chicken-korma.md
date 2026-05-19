@@ -12,9 +12,9 @@
 The mildest of the classic BIR curries: a pale, gently spiced sauce of cooked onion, cream, ground almonds (or cashews) and a touch of coconut. Cardamom and cinnamon provide warmth without heat. The dish ordered when the table includes a child or anyone who shies from chilli.
 
 ## Ingredients
-- 4 tbsp ghee, rapeseed oil or seasoned oil 
+- 4 tbsp ghee, rapeseed oil (or seasoned oil)
 - 800g [pre-cooked stewed chicken](../Base/pre-cooked-chicken.md)
-- 2 ½cm piece of cinnamon stick or cassia bark 
+- 2 ½cm piece of cinnamon stick (or cassia bark)
 - 4 green cardamom pods, lightly bruised 
 - 1 tsp garlic and ginger paste 
 - 3 tbsp sugar, or to taste 
@@ -24,7 +24,7 @@ The mildest of the classic BIR curries: a pale, gently spiced sauce of cooked on
 - 100g block coconut
 - 1 tbsp garam masala
 - 125ml single cream, plus a little more to finish 
-- 1 tbsp rose water or to taste 
+- 1 tbsp rose water (or to taste)
 - 2 tbsp cold butter (optional) 
 - Salt 
 

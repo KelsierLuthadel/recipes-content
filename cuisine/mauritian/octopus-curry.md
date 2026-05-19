@@ -22,13 +22,13 @@ Cari ourite is the dish that turns up at every Mauritian fisherman's Sunday lunc
 
 ### Masala base
 - 3 tbsp neutral oil
-- 2 medium onions (finely chopped)
+- 2 onions (medium, finely chopped)
 - 6 garlic cloves (minced)
 - 20 g fresh ginger (grated)
 - 2 sprigs fresh thyme
 - 10 fresh curry leaves (optional but traditional)
 - 1 green chilli (slit lengthways)
-- 3 medium tomatoes (about 350 g, finely chopped)
+- 3 tomatoes (medium, about 350 g, finely chopped)
 - 1 tbsp tomato paste
 
 ### Spices

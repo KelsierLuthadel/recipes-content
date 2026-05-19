@@ -22,13 +22,13 @@ A whole bone-in chicken is jointed and stewed with onion, tomato, plenty of fres
 
 ### Stew
 - 2 tablespoons butter (or vegetable oil)
-- 2 medium brown onions (finely sliced)
+- 2 brown onions (medium, finely sliced)
 - 6 garlic cloves (crushed)
 - 6 cm fresh ginger (peeled and julienned)
 - 4 green chillies (slit lengthways; reduce to 2 for less heat)
-- 3 medium tomatoes (chopped)
+- 3 tomatoes (medium, chopped)
 - 1 teaspoon Sichuan pepper (lightly crushed, optional but traditional)
-- 500 ml water or light chicken stock
+- 500 ml water (or light chicken stock)
 
 ### To finish
 - 1 small bunch fresh coriander (chopped, leaves and stems)
@@ -36,7 +36,7 @@ A whole bone-in chicken is jointed and stewed with onion, tomato, plenty of fres
 - ½ teaspoon freshly ground black pepper
 
 ### To serve
-- Red rice or plain steamed rice
+- Red rice (or plain steamed rice)
 - Ezay (Bhutanese chilli relish), optional
 
 ## Method

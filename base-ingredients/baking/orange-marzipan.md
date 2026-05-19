@@ -17,7 +17,7 @@ Marzipan is a classical cake finishing technique particularly popular in English
 - 250 grams ground almonds (almond meal)
 
 ### Orange & Binding
-- 1 medium orange (washed, zest separated from juice)
+- 1 orange (medium, washed, zest separated from juice)
 - 1 egg (room temperature)
 - 1 egg yolk (room temperature)
 

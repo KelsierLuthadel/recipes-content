@@ -18,7 +18,7 @@ The dough: water, butter, lemon zest and salt bring to a boil; flour dumps in al
 - 250 ml water
 - 30 g unsalted butter
 - ½ teaspoon salt
-- Zest of 1 lemon
+- 1 lemon (zest)
 - 200 g plain flour (sifted)
 
 ### Filling
@@ -30,12 +30,12 @@ The dough: water, butter, lemon zest and salt bring to a boil; flour dumps in al
 - A grating of nutmeg
 - 300 g cooked peeled prawns (small or medium; chopped fine)
 - 2 tablespoons fresh parsley (chopped fine)
-- Zest of 1 lemon
-- 1 small shallot (very finely diced, sautéed 3 min in 1 teaspoon butter, optional)
+- 1 lemon (zest)
+- 1 shallot (small, very finely diced, sautéed 3 min in 1 teaspoon butter, optional)
 
 ### Breading
 - 100 g plain flour (for dredging)
-- 2 large eggs (beaten with 1 tablespoon milk)
+- 2 eggs (large, beaten with 1 tablespoon milk)
 - 200 g fine dried breadcrumbs (panko works for extra crisp)
 
 ### For frying
@@ -43,7 +43,7 @@ The dough: water, butter, lemon zest and salt bring to a boil; flour dumps in al
 
 ### To serve
 - Lemon wedges
-- A small dish of piri-piri or hot sauce
+- A dish of piri-piri (small, or hot sauce)
 - Black olives, sliced pickled chillies
 
 ## Method

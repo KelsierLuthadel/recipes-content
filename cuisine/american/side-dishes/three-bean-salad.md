@@ -16,15 +16,15 @@ Three-bean salad is one of those quietly enduring American classics that has bee
 
 ### Beans
 - 200 g green beans, trimmed and cut into 3 cm lengths
-- 1 x 400 g tin red kidney beans, drained and rinsed
-- 1 x 400 g tin cannellini beans, drained and rinsed
+- 400 g tin red kidney beans, drained and rinsed
+- 400 g tin cannellini beans, drained and rinsed
 - ½ small red onion, finely diced
-- 1 small green pepper, finely diced (optional but traditional)
+- 1 green pepper (small), finely diced (optional but traditional)
 - 2 tbsp flat-leaf parsley, finely chopped
 
 ### Vinaigrette
 - 80 ml cider vinegar
-- 60 ml light olive oil or rapeseed oil
+- 60 ml light olive oil (or rapeseed oil)
 - 60 g caster sugar
 - 1 tsp Dijon mustard
 - ¾ tsp fine sea salt

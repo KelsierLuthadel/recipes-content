@@ -13,7 +13,7 @@ This typically Cantonese dish is one of the quickest and tastiest ways to cook b
 ## Ingredients
 
 ### Beef (Frozen) & Marinade
-- 350 grams lean beef steak (frozen)
+- 350 grams rump steak (frozen)
 - ¼ teaspoon salt
 - 2 teaspoons light soy sauce
 - 2 teaspoons dry sherry

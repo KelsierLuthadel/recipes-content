@@ -17,7 +17,7 @@ Blanching garlic is a classical French technique that completely transforms the 
 
 ### Blanching Liquid
 - 500 ml whole milk (fresh, cold)
-- Additional fresh milk for subsequent blanches (about 1 ½ liters total)
+- fresh milk for subsequent blanches (about 1 ½ liters total)
 
 ## Method
 

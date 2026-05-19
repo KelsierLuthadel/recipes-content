@@ -15,12 +15,12 @@ Tomato, onion and coriander chop fine. Garlic, ají chilli (or red chilli), oliv
 ## Ingredients
 
 - 3 ripe tomatoes (deseeded, finely diced)
-- 1 small red onion (very finely chopped)
+- 1 red onion (small, very finely chopped)
 - 1 large bunch fresh coriander (40 g, finely chopped)
 - 2 garlic cloves (crushed)
 - 1-2 fresh red chillies, or 1 ají chilli (very finely chopped)
 - 4 tablespoons olive oil
-- 2 tablespoons red wine vinegar or lemon juice
+- 2 tablespoons red wine vinegar (or lemon juice)
 - 1 teaspoon salt
 - ½ teaspoon ground black pepper
 

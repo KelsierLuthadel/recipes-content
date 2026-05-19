@@ -17,7 +17,7 @@ Dried peaches soak overnight to soften, then simmer with sugar, cinnamon and clo
 ### Peaches
 - 12 dried peaches (huesillos; sold at Latin grocers)
 - 1 ½ litres water (for soaking + cooking)
-- 200 g panela or dark brown sugar
+- 200 g panela (or dark brown sugar)
 - 1 cinnamon stick
 - 4 cloves
 - 1 strip orange peel

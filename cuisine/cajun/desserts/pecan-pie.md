@@ -19,7 +19,7 @@ A simple all-butter shortcrust blind-bakes to a deep golden shell. Pecans toast 
 - 125 g cold unsalted butter (cubed)
 - 30 g caster sugar
 - ½ teaspoon salt
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 3-4 tablespoons cold water
 
 ### Filling
@@ -28,7 +28,7 @@ A simple all-butter shortcrust blind-bakes to a deep golden shell. Pecans toast 
 - 100 g caster sugar
 - 200 ml golden syrup (or light corn syrup)
 - 80 g unsalted butter (melted)
-- 4 large eggs
+- 4 eggs (large)
 - 2 tablespoons bourbon (optional but classic)
 - 2 teaspoons vanilla extract
 - ½ teaspoon salt

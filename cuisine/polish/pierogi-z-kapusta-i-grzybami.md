@@ -15,10 +15,10 @@ Dried wild mushrooms (porcini if you can get them) rehydrate; sauerkraut squeeze
 ## Ingredients
 
 ### Filling
-- 30 g dried porcini or wild mushrooms (rehydrated 30 min in 250 ml hot water)
+- 30 g dried porcini (or wild mushrooms, rehydrated 30 min in 250 ml hot water)
 - 500 g sauerkraut
 - 50 g unsalted butter
-- 2 medium onions (finely chopped)
+- 2 onions (medium, finely chopped)
 - 1 bay leaf
 - 5 black peppercorns (lightly cracked)
 - 200 g chestnut mushrooms (finely chopped)
@@ -28,7 +28,7 @@ Dried wild mushrooms (porcini if you can get them) rehydrate; sauerkraut squeeze
 
 ### Dough
 - 500 g plain flour
-- 1 large egg
+- 1 egg (large)
 - 1 teaspoon salt
 - 1 tablespoon sunflower oil
 - 250 ml warm water

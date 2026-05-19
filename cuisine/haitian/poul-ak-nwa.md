@@ -28,12 +28,13 @@ A Sunday dish from Cap-Haïtien on Haiti's north coast where cashews have been a
 - 6 oz (~170 g) épis (Haitian green seasoning)
 - Canola oil for searing
 - 6 oz (~170 g) tomato paste
-- 1 litre chicken stock or broth
+- 1 litre chicken stock (or broth)
 - 2 tablespoons cashews (ground to powder)
 - ½ cup toasted cashew halves
 - ½ green bell pepper (julienned)
 - ½ yellow onion (julienned)
-- Salt and pepper
+- salt
+- pepper
 
 ### To serve
 - White rice

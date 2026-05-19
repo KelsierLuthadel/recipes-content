@@ -16,7 +16,8 @@ An Asian-American takeout standard reimagined for the home kitchen, with one spe
 
 ### Chicken
 - 900 g (2 lbs) boneless skinless chicken thighs (cut into bite-sized pieces)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - 2 teaspoons garlic powder
 - 1 teaspoon onion powder
 - 1 teaspoon smoked paprika

@@ -16,16 +16,17 @@ A thick béchamel, three times the flour-to-milk ratio of standard béchamel, is
 
 ### Filling
 - 100 g unsalted butter
-- 1 small onion (very finely chopped)
+- 1 onion (small, very finely chopped)
 - 100 g jamón serrano (or prosciutto), finely chopped
 - 100 g plain flour
 - 700 ml whole milk (warm)
 - A grating of nutmeg
-- Salt and white pepper
+- salt
+- pepper
 
 ### Breading and frying
 - 100 g plain flour
-- 3 large eggs (beaten)
+- 3 eggs (large, beaten)
 - 200 g panko breadcrumbs
 - Vegetable oil for deep-frying
 

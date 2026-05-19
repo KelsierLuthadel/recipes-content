@@ -15,7 +15,7 @@ Cucumber dices fine and salts briefly to lose water. Folds into thick Greek yogu
 ## Ingredients
 
 - 500 g thick strained Greek yogurt
-- 1 large cucumber (deseeded, very finely diced)
+- 1 cucumber (large, deseeded, very finely diced)
 - ½ teaspoon salt (for sweating cucumber)
 - 50 g walnut halves (lightly toasted, chopped)
 - 3 tablespoons raisins (or sultanas)

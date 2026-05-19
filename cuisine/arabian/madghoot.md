@@ -25,17 +25,18 @@ Lamb is given a fast wet marinade of crushed tomato, baharat, dried lime, garlic
 - 2 tablespoons vegetable oil
 
 ### Cooking
-- 2 large onions (sliced)
+- 2 onions (large, sliced)
 - 1 (400 g) tin chopped tomatoes
 - 1 cinnamon stick
 - 4 cardamom pods (bruised)
-- 1.2 litres hot water or stock
+- 1.2 litres hot water (or stock)
 
 ### Rice
 - 500 g basmati rice (rinsed and soaked 20 minutes, drained)
 - 1 teaspoon salt (to taste)
 - 1 large pinch saffron threads (bloomed in 2 tablespoons hot water)
-- 3 tablespoons sliced almonds + 40 g pine nuts (toasted, optional)
+- 3 tablespoons sliced almonds 
+- 40 g pine nuts (toasted, optional)
 
 ## Method
 

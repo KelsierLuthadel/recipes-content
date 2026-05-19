@@ -22,7 +22,7 @@ A bright, Asian-inspired sauce balancing fresh lemon with umami-rich soy and aro
 - 1 ½ tablespoons lemon juice (freshly squeezed)
 - 2 teaspoons sugar
 - 2 teaspoons light soy sauce
-- 2 teaspoons dry sherry or rice wine
+- 2 teaspoons dry sherry (or rice wine)
 - ½ teaspoon garlic (finely chopped)
 
 ### Aromatics & thickener

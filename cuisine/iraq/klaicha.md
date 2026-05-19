@@ -22,7 +22,7 @@ A buttery cardamom-scented dough enriched with milk and a touch of yeast (gives 
 - ½ teaspoon ground nigella seeds (optional but classic)
 - 1 teaspoon active dry yeast
 - 200 ml whole milk (warm)
-- 1 large egg
+- 1 egg (large)
 - ¼ teaspoon salt
 
 ### Date filling
@@ -34,7 +34,7 @@ A buttery cardamom-scented dough enriched with milk and a touch of yeast (gives 
 - 2 tablespoons sesame seeds (optional)
 
 ### Glaze
-- 1 large egg yolk (beaten with 1 tablespoon milk)
+- 1 egg yolk (large, beaten with 1 tablespoon milk)
 - 1 tablespoon sesame seeds
 
 ## Method

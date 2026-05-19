@@ -16,7 +16,7 @@ Lamb mince mixes with grated onion, parsley, allspice, baharat, pine nuts (optio
 
 ### Filling
 - 500 g lamb mince (or beef)
-- 1 medium onion (very finely grated, juices reserved)
+- 1 onion (medium, very finely grated, juices reserved)
 - 4 tablespoons fresh parsley (chopped)
 - 2 garlic cloves (crushed)
 - 1 ½ teaspoons baharat
@@ -28,7 +28,7 @@ Lamb mince mixes with grated onion, parsley, allspice, baharat, pine nuts (optio
 - 1 tablespoon pomegranate molasses (optional)
 
 ### Pita
-- 4 large pita breads (split, but kept intact on one side as a pocket)
+- 4 pita breads (large, split, but kept intact on one side as a pocket)
 - 4 tablespoons olive oil (for brushing)
 
 ### To serve

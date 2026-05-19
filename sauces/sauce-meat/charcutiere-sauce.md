@@ -27,7 +27,8 @@ A rustic, mustard-forward sauce with sharp cornichon notes and white wine acidit
 - 1 tablespoon strong Dijon mustard
 - 40 grams beurre manié (see notes)
 - 30 grams cornichons (cut into long thin strips)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

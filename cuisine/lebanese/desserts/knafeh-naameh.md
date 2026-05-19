@@ -23,7 +23,8 @@ A fine semolina dough mixes with melted butter (and milk/water). Half spreads in
 - ½ teaspoon salt
 
 ### Cheese filling
-- 500 g akkawi cheese (or 400 g low-moisture mozzarella + 100 g halloumi blend) - desalted if akkawi
+- 400 g low-moisture mozzarella 
+- 100 g halloumi blend
 - 1 tablespoon caster sugar (to balance any residual salt)
 
 ### Sugar syrup (atter)

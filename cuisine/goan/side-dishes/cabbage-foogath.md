@@ -15,7 +15,7 @@ A foogath is the Goan version of a coconut-stir-fry vegetable: a temper of musta
 ## Ingredients
 
 ### Cabbage
-- 400 g green or white cabbage (finely shredded)
+- 400 g green cabbage (or white cabbage, finely shredded)
 - ½ teaspoon turmeric
 - 1 teaspoon salt (to taste)
 
@@ -25,7 +25,7 @@ A foogath is the Goan version of a coconut-stir-fry vegetable: a temper of musta
 - 1 teaspoon urad dal
 - 2 dried red chillies (broken in half)
 - 15 fresh curry leaves
-- 1 small onion (finely chopped)
+- 1 onion (small, finely chopped)
 - 2 garlic cloves (finely chopped)
 
 ### To finish

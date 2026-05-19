@@ -18,7 +18,7 @@ This ethereal pasta dish captures the essence of the Amalfi coast. Fresh crab me
 - 2 garlic cloves (peeled and finely chopped)
 - 1 medium-hot red chilli (de-seeded and finely chopped)
 - 3 tablespoons fresh flat-leaf parsley (finely chopped)
-- Zest of 1 lemon
+- 1 lemon (zest)
 - 3 tablespoons fresh lemon juice (squeezed)
 - Salt to taste
 

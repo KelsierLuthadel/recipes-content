@@ -16,7 +16,7 @@ Mutton on the bone simmers for 1 hour 15 minutes with onion, bay and a few peppe
 
 ### Broth
 - 800 g mutton on the bone (shoulder, neck or breast pieces)
-- 1 medium onion (halved)
+- 1 onion (medium, halved)
 - 2 bay leaves
 - 1 teaspoon black peppercorns
 - 1 carrot (rough chunks)
@@ -29,9 +29,9 @@ Mutton on the bone simmers for 1 hour 15 minutes with onion, bay and a few peppe
 - ¼ teaspoon salt
 
 ### Add to soup
-- 1 medium carrot (diced small)
-- 1 medium onion (diced)
-- 1 medium potato (diced 1 cm) - optional, common in winter
+- 1 carrot (medium, diced small)
+- 1 onion (medium, diced)
+- 1 potato (medium, diced 1 cm, optional, common in winter)
 
 ### Garnish
 - 2 spring onions (sliced) or 2 tablespoons fresh dill (chopped)

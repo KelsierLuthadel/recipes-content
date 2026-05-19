@@ -25,7 +25,8 @@ This is Italian elegance designed for romantic dinners. Fresh prawns, cooked at 
 - 60 ml brandy
 - 250 ml double cream
 - 1 tablespoon balsamic vinegar
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Pasta
 - 400 grams fresh egg tagliatelle

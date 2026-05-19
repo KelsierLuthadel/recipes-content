@@ -16,7 +16,7 @@ Goat meat (bone-in pieces, ideally) simmers in water with onion, garlic, bay, sa
 
 ### Goat
 - 1 kg bone-in goat meat (cut into 4 cm pieces; substitute lamb shoulder if goat unavailable)
-- 1 medium onion (chopped)
+- 1 onion (medium, chopped)
 - 4 garlic cloves
 - 1 bay leaf
 - 1 ½ teaspoons salt
@@ -25,8 +25,8 @@ Goat meat (bone-in pieces, ideally) simmers in water with onion, garlic, bay, sa
 
 ### Pepper base
 - 2 fresh scotch bonnet chillies (deseeded for less heat; whole if brave)
-- 1 large red bell pepper (deseeded, chopped)
-- 1 small onion (chopped)
+- 1 red bell pepper (large, deseeded, chopped)
+- 1 onion (small, chopped)
 - 3 garlic cloves
 - 25 g fresh ginger (peeled)
 - 4 tablespoons neutral oil (or red palm oil for traditional flavour)

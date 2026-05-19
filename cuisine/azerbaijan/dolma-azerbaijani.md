@@ -20,7 +20,7 @@ Brined vine leaves soak in warm water 20 minutes to remove the brine. Filling mi
 ### Filling
 - 500 g lamb mince (20% fat ideal)
 - 100 g short-grain rice
-- 1 large onion (very finely diced)
+- 1 onion (large, very finely diced)
 - 30 g fresh mint (leaves only, chopped)
 - 30 g fresh dill (chopped)
 - 50 g unsalted butter (softened)

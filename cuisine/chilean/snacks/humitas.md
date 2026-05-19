@@ -14,7 +14,7 @@ Fresh sweetcorn is shucked; the husks are saved in warm water to soften. The ker
 
 ## Ingredients
 - 6 fresh ears of sweetcorn (with their husks)
-- 1 medium onion (finely diced)
+- 1 onion (medium, finely diced)
 - 50 g butter
 - 1 teaspoon sweet paprika
 - 1 teaspoon salt

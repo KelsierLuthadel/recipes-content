@@ -24,7 +24,7 @@ A dough rich in toasted sesame seeds, almond, aniseed, cinnamon, orange-flower w
 - 1 pinch saffron threads (ground, steeped in 2 tablespoons hot water)
 - 1 sachet (7 g) instant yeast
 - 100 g unsalted butter (melted, cooled slightly)
-- 2 large eggs
+- 2 eggs (large)
 - 3 tablespoons white vinegar
 - 4 tablespoons orange-flower water
 - 100 ml warm water (or as needed)

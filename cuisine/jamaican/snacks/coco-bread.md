@@ -21,7 +21,7 @@ An enriched yeast dough made with coconut milk, butter, sugar and a little salt.
 - 1 teaspoon fine salt
 - 240 ml coconut milk (full-fat tinned), gently warmed
 - 80 ml whole milk, gently warmed
-- 1 large egg, beaten
+- 1 egg (large), beaten
 - 50 g unsalted butter, softened
 
 ### For folding and finishing

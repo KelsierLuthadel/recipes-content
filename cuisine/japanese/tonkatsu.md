@@ -19,7 +19,8 @@ Thick pork loin steaks are scored, seasoned, breaded with flour-egg-panko, and s
 - 4 tablespoons plain flour
 - 2 eggs (beaten)
 - 150 g panko breadcrumbs
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - Vegetable oil for shallow-frying (about 4 tablespoons)
 
 ### Katsu sauce

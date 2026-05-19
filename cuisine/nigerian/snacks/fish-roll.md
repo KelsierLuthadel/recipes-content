@@ -20,13 +20,13 @@ Dough: flour, butter, sugar, salt, baking powder, egg, milk, mixes to a smooth f
 - 1 teaspoon salt
 - 1 teaspoon baking powder
 - 100 g unsalted butter (melted, cooled)
-- 1 large egg
+- 1 egg (large)
 - 200 ml whole milk (warm)
 
 ### Filling
 - 2 tins (120 g each) sardines in oil, drained
 - 2 tablespoons neutral oil
-- 1 small onion (finely diced)
+- 1 onion (small, finely diced)
 - 1 fresh red chilli (deseeded, minced)
 - 3 garlic cloves (minced)
 - 1 teaspoon curry powder (Nigerian or generic)

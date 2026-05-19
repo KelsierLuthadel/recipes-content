@@ -21,7 +21,7 @@ A sumptuous, pale pink sauce built on a foundation of crayfish shells and aromat
 ### Aromatics & shellfish
 - 60 grams shallots (very finely sliced)
 - 60 grams button mushrooms (very finely sliced)
-- 16 crayfish or langoustine heads (roughly chopped)
+- 16 crayfish (or langoustine heads, roughly chopped)
 
 ### Liquid
 - 2 tablespoons cognac
@@ -35,7 +35,8 @@ A sumptuous, pale pink sauce built on a foundation of crayfish shells and aromat
 - 1 pinch cayenne pepper
 - 300 ml double cream
 - 1 pinch tarragon (very finely chopped to serve)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

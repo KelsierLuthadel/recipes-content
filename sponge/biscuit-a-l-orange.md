@@ -15,22 +15,22 @@ Biscuit à l'Orange is an elegant French almond-based sponge enriched with fresh
 ## Ingredients
 
 ### Egg & Sugar Base
-- 4 large eggs, size 4 (separated into yolks and whites, approximately 75 grams yolks, 120 grams whites)
-- 1 additional large egg, size 2 (approximately 50 grams, used as yolk only, or divided as needed)
+- 4 eggs (large), size 4 (separated into yolks and whites, approximately 75 grams yolks, 120 grams whites)
+- 1 egg (large), size 2 (approximately 50 grams, used as yolk only, or divided as needed)
 - 130 grams caster sugar (divided: ¾ with yolks, ¼ with whites)
 
 ### Almond & Citrus Flavoring
 - 85 grams ground almonds (finely ground)
-- 1 medium orange (zest finely chopped, approximately 10 grams)
+- 1 orange (medium, zest finely chopped, approximately 10 grams)
 - 25 grams candied orange peel (finely chopped)
 
 ### Flour & Fat
-- 85 grams cake flour or soft flour (sifted)
+- 85 grams cake flour (or soft flour, sifted)
 - 1 teaspoon unsalted butter (melted, for greasing ring)
 - 30 grams unsalted butter (for greasing tin, optional)
 - 1 pinch flour (for dusting greased tin)
 
-### Pan Setup
+### Equipment
 - 22-25 centimeter ring or springform cake tin
 - Baking parchment or greaseproof paper
 

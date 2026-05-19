@@ -15,8 +15,8 @@ Aubergines and potatoes pan-fry or roast separately. Lamb mince cooks down with 
 ## Ingredients
 
 ### Layers
-- 2 large aubergines (sliced 1 cm thick)
-- 3 large potatoes (peeled, sliced 5 mm thick)
+- 2 aubergines (large, sliced 1 cm thick)
+- 3 potatoes (large, peeled, sliced 5 mm thick)
 - Olive oil (for brushing/frying)
 - Salt
 
@@ -32,14 +32,15 @@ Aubergines and potatoes pan-fry or roast separately. Lamb mince cooks down with 
 - 1 teaspoon dried oregano
 - ¼ teaspoon ground allspice
 - 1 bay leaf
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Béchamel
 - 75 g unsalted butter
 - 75 g plain flour
 - 700 ml whole milk (warm)
-- 2 large eggs (beaten)
-- 100 g grated kefalotyri or parmesan
+- 2 eggs (large, beaten)
+- 100 g grated kefalotyri (or parmesan cheese)
 - A grating of nutmeg
 
 ## Method

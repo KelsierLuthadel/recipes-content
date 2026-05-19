@@ -19,7 +19,7 @@ Diced chuck steak and ox kidney browned hard, simmered slowly with onions, mushr
 - 200 g ox kidney (cleaned, cut into 2 cm pieces)
 - 2 tablespoons plain flour, seasoned with salt and pepper
 - 3 tablespoons vegetable oil
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 200 g chestnut mushrooms (quartered)
 - 2 tablespoons tomato purée
 - 1 tablespoon Worcestershire sauce

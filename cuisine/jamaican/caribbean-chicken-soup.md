@@ -21,11 +21,12 @@ Saturday-soup in Trinidad, Guyana and Jamaica is a category rather than a single
 - 1 tablespoon Sazon seasoning
 - 1 teaspoon ground allspice
 - 80 ml green seasoning (or sofrito)
-- Salt and pepper
+- salt
+- pepper
 
 ### Base
 - 2 tablespoons olive oil
-- 1 large yellow onion (chopped)
+- 1 yellow onion (large, chopped)
 - 1 green bell pepper (chopped)
 - 60 ml sliced spring onions
 - 6-8 sprigs fresh thyme

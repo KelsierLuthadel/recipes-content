@@ -17,7 +17,7 @@ Lamb mince fries with onion, garlic, ginger and a spice mix of garam masala, cum
 ### Filling
 - 500 g lamb mince (or beef)
 - 3 tablespoons vegetable oil
-- 1 large onion (very finely chopped)
+- 1 onion (large, very finely chopped)
 - 4 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
 - 2 green chillies (finely chopped)
@@ -29,17 +29,17 @@ Lamb mince fries with onion, garlic, ginger and a spice mix of garam masala, cum
 - 150 g frozen peas
 - 3 tablespoons fresh coriander (chopped)
 - 2 tablespoons fresh mint (chopped)
-- Juice of ½ lemon
+- ½ lemon (juice)
 - 1 teaspoon salt (to taste)
 - ½ teaspoon ground black pepper
 
 ### Wrapping
 - 16 spring-roll pastry sheets (cut into 8 x 25 cm strips)
-- 2 tablespoons plain flour + 3 tablespoons water (paste)
+- 2 tablespoons plain flour (with 3 tablespoons water)
 - 1 litre vegetable oil for deep frying
 
 ### To serve
-- 200 ml tamarind chutney or mint chutney
+- 200 ml tamarind chutney (or mint chutney)
 - Lemon wedges
 
 ## Method

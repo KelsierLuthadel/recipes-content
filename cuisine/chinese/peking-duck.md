@@ -21,7 +21,7 @@ The Chinese revere duck as a symbol of wholesomeness and fidelity. With Peking d
 - 1 litre water
 - 3 tablespoons honey
 - 3 tablespoons dark soy sauce
-- 150 ml dry sherry or rice wine
+- 150 ml dry sherry (or rice wine)
 
 ### To Serve
 - 12 Chinese pancakes

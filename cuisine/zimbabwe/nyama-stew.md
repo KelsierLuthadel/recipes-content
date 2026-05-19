@@ -14,11 +14,11 @@ Onion and garlic fry in oil until soft, beef chunks brown alongside, tomatoes (f
 
 ## Ingredients
 
-- 700 g beef shin or stewing chuck (cut into 3 cm chunks)
+- 700 g beef shin (or stewing chuck, cut into 3 cm chunks)
 - 3 tablespoons vegetable oil
-- 2 large onions (finely sliced)
+- 2 onions (large, finely sliced)
 - 4 garlic cloves (crushed)
-- 4 large tomatoes (grated, skins discarded)
+- 4 tomatoes (large, grated, skins discarded)
 - 1 tablespoon tomato puree
 - 1 beef stock cube (or 2 teaspoons salt)
 - 1 teaspoon ground black pepper

@@ -16,7 +16,7 @@ Biryani represents the height of Indian culinary technique: multiple components 
 ### Meat Component
 - 500 grams lamb (from leg or shoulder, cut into 3-4cm bite-sized pieces)
 - 4 tablespoons sunflower oil
-- 1 medium onion (approximately 150 grams, finely chopped)
+- 1 onion (medium, approximately 150 grams, finely chopped)
 - 1 tablespoon ground coriander
 - 1 teaspoon ground cumin
 - 1 teaspoon mild chilli powder
@@ -34,7 +34,7 @@ Biryani represents the height of Indian culinary technique: multiple components 
 ### Rice Component
 - 4 tablespoons sunflower oil
 - 2 teaspoons cumin seeds
-- 1 large onion (approximately 200 grams, thinly sliced)
+- 1 onion (large, approximately 200 grams, thinly sliced)
 - 6 whole cloves
 - 10 black peppercorns
 - 4 cardamom pods
@@ -45,8 +45,8 @@ Biryani represents the height of Indian culinary technique: multiple components 
 - Fine sea salt to taste
 
 ### Assembly & Finishing
-- Additional 2 tablespoons oil (for assembly)
-- Additional fresh coriander leaves (for garnish)
+- 2 tablespoons oil (for assembly)
+- fresh coriander leaves (for garnish)
 - Fried onions (optional, traditional garnish)
 
 ## Method

@@ -25,7 +25,7 @@ A wet yeasted dough, combining plain flour, sweet rice flour, yeast, milk and a 
 - Extra oil (for hands and pan)
 
 ### Filling
-- 120 g dark muscovado or soft dark brown sugar
+- 120 g dark muscovado (or soft dark brown sugar)
 - 30 g roasted peanuts (chopped)
 - 1 ½ teaspoons ground cinnamon
 - A pinch of salt

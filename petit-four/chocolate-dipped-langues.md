@@ -26,7 +26,7 @@ Langues de chat, "cat's tongues", are among the most elegant petit four cookies.
 
 ### Chocolate Coating
 - 200 grams dark chocolate (70% cocoa solids minimum)
-- 1 tablespoon butter or coconut oil (optional, for chocolate fluidity)
+- 1 tablespoon butter (or coconut oil, optional, for chocolate fluidity)
 
 ## Method
 

@@ -10,12 +10,12 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Maris Piper or floury potatoes peel and cube 2.5 cm. Double-cook for shatter-crisp shell + fluffy interior: blanch / boil for 8 minutes till just tender, drain, cool slightly. Brava sauce: olive oil heats with garlic and a touch of flour; smoked paprika + cayenne stir in 30 seconds; tomato passata, sherry vinegar, salt, sugar; simmer for 15 minutes; blend if you want a smooth sauce or leave rustic. Optional garlic aioli: garlic-and-egg-yolk mayonnaise. Potatoes fry in hot oil 6-8 minutes till deep gold. Plate with sauce zigzagged over; aioli alongside.
+Maris Piper or floury potatoes peel and cube 2 ½ cm. Double-cook for shatter-crisp shell + fluffy interior: blanch / boil for 8 minutes till just tender, drain, cool slightly. Brava sauce: olive oil heats with garlic and a touch of flour; smoked paprika + cayenne stir in 30 seconds; tomato passata, sherry vinegar, salt, sugar; simmer for 15 minutes; blend if you want a smooth sauce or leave rustic. Optional garlic aioli: garlic-and-egg-yolk mayonnaise. Potatoes fry in hot oil 6-8 minutes till deep gold. Plate with sauce zigzagged over; aioli alongside.
 
 ## Ingredients
 
 ### Potatoes
-- 1 kg Maris Piper or other floury potatoes
+- 1 kg Maris Piper (or other floury potatoes)
 - 1 tablespoon salt (for boiling water)
 - 600 ml neutral oil (for frying)
 
@@ -29,7 +29,7 @@ Maris Piper or floury potatoes peel and cube 2.5 cm. Double-cook for shatter-cri
 - 2 tablespoons sherry vinegar (or red-wine vinegar)
 - 1 teaspoon caster sugar
 - 1 teaspoon salt
-- 1 small bay leaf
+- 1 bay leaf (small)
 
 ### Garlic aioli (optional)
 - 1 egg yolk
@@ -41,7 +41,7 @@ Maris Piper or floury potatoes peel and cube 2.5 cm. Double-cook for shatter-cri
 ## Method
 
 ### Stage 1 - Boil potatoes
-1. Peel and cube the potatoes (2.5 cm cubes).
+1. Peel and cube the potatoes (2 ½ cm cubes).
 1. Boil in heavily salted water 8 minutes (the inside should be just tender; not falling apart).
 1. Drain in a colander; spread on a tray; cool to room temperature.
 

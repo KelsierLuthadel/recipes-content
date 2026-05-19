@@ -23,7 +23,7 @@ Dried kidney beans are soaked overnight and pressure-cooked (or simmered for 2 h
 ### Whole spices
 - 3 tablespoons ghee (or oil + butter)
 - 1 teaspoon cumin seeds
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 2 black cardamom pods (or 3 green if unavailable)
 - 4 cloves
 - 1 bay leaf

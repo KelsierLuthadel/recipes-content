@@ -11,7 +11,7 @@
 
 ## Ingredients
 - 250 grams dark chocolate
-- 3 medium eggs
+- 3 eggs (medium)
 - 50 grams candied fruit peel
 - 200 grams ground almonds
 - 150 grams biscotti

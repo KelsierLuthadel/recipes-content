@@ -20,14 +20,14 @@ Dried chickpeas soak overnight (never cooked, chickpeas must remain raw). Draine
 - Cold water (for the soak)
 
 ### Blender
-- 1 medium onion (rough chunks)
+- 1 onion (medium, rough chunks)
 - 5 garlic cloves
 - 1 large bunch fresh parsley (about 40 g)
 - 1 small bunch fresh coriander (about 20 g)
 - 1 ½ teaspoons salt
 - 2 teaspoons ground cumin
 - 1 teaspoon ground coriander
-- 1 teaspoon Aleppo pepper or chilli flakes
+- 1 teaspoonchilli flakes
 - ½ teaspoon black pepper
 
 ### Just before frying
@@ -40,7 +40,7 @@ Dried chickpeas soak overnight (never cooked, chickpeas must remain raw). Draine
 - 1 litre vegetable oil
 
 ### To serve
-- 4 large pita breads (warmed)
+- 4 pita breads (large, warmed)
 - Tahini sauce (4 tablespoons tahini + 4 tablespoons water + juice of 1 lemon + 2 crushed garlic + ½ teaspoon salt; whisked smooth)
 - Sliced tomato, cucumber, red onion, romaine lettuce
 - Pickled turnips (Lebanese pink turnips - sold at Middle Eastern shops)

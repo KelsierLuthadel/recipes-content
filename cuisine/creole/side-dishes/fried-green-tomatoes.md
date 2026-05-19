@@ -14,12 +14,12 @@ Firm green tomatoes slice 8 mm thick. Salt 10 minutes to draw water. Dredge: sea
 
 ## Ingredients
 
-- 4 large firm green tomatoes (cut into 8 mm slices)
+- 4 firm green tomatoes (large, cut into 8 mm slices)
 - 1 teaspoon salt (for sweating)
 
 ### Dredge
 - 100 g plain flour (seasoned with 1 tsp salt, 1 tsp paprika, ½ tsp pepper)
-- 2 large eggs (whisked with 100 ml buttermilk)
+- 2 eggs (large, whisked with 100 ml buttermilk)
 - 150 g fine yellow cornmeal mixed with 50 g panko breadcrumbs and 1 tsp Creole seasoning
 
 ### To fry

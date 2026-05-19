@@ -21,20 +21,20 @@ Ricotta is drained in muslin for at least 4 hours (overnight ideal) to lose the 
 - ½ teaspoon ground cinnamon
 - ¼ teaspoon salt
 - 30 g unsalted butter (cold, cubed)
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 80 ml sweet Marsala (or sweet sherry, or dry white wine + 1 tablespoon sugar)
 - 1 tablespoon white wine vinegar
 
 ### To fry
-- 1 litre sunflower or vegetable oil
+- 1 litre sunflower oil (or vegetable oil)
 - 1 egg white (for sealing the dough around the forms)
 - 12 metal cannoli forms (cylinders 13 cm long; widely sold at Italian shops and online)
 
 ### Ricotta filling
-- 600 g whole-milk ricotta (drain overnight in muslin in the fridge - see Stage 1)
+- 600 g whole-ricotta (drain overnight in muslin in the fridge - see Stage 1)
 - 120 g icing sugar (sifted)
 - 1 teaspoon vanilla extract
-- Zest of 1 orange
+- 1 orange (zest)
 - 60 g dark chocolate chips (or finely chopped dark chocolate)
 - 30 g candied orange peel (finely chopped)
 - 30 g candied citron (optional - sold at Italian / cake-decorating shops)

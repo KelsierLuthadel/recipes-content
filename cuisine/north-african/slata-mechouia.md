@@ -14,23 +14,23 @@ Peppers, tomatoes and chillies char whole on a gas flame (or under a fierce gril
 
 ## Ingredients
 
-- 4 large red peppers
-- 2 large green peppers
+- 4 red peppers (large)
+- 2 green peppers (large)
 - 4 ripe tomatoes
 - 4 long red chillies (or 2 jalapeños, deseed for less heat)
 - 6 garlic cloves (skin on)
 - 4 tablespoons extra-virgin olive oil
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 teaspoon ground caraway (or cumin)
 - 1 teaspoon salt
 - 2 tablespoons capers (rinsed)
 - A small bunch of flat-leaf parsley (chopped)
 
 ### To serve (optional)
-- 1 x 160 g tin tuna (in olive oil, drained)
+- 160 g tin tuna (in olive oil, drained)
 - 2 hard-boiled eggs (quartered)
 - 8 black olives
-- Crusty bread or flatbread
+- Crusty bread (or flatbread)
 
 ## Method
 

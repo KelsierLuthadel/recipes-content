@@ -30,8 +30,9 @@ An elegant, silky white sauce enriched with eggs and cream, featuring tender mus
 ### Finishing
 - 200 ml double cream
 - 3 egg yolks
-- juice of ½ a lemon
-- salt and pepper
+- ½ lemon (juice)
+- salt
+- pepper
 
 ## Method
 

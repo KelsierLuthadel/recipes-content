@@ -18,7 +18,7 @@ Semi-confit peppers begin with seared peppers (charred over direct flame) then f
 ## Ingredients
 
 ### Peppers
-- 500 grams red or yellow bell peppers (sweet varieties preferred)
+- 500 grams red bell peppers (or yellow bell peppers, sweet varieties preferred)
 - Extra virgin olive oil (for charring the peppers)
 
 ### Oil Poaching & Aromatics

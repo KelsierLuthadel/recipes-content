@@ -20,12 +20,13 @@ This is peasant cooking with refined sensibilities. Sausage, freed from its casi
 - 2 whole red chicory heads (washed and shredded)
 - 100 ml dry red wine
 - 30 ml double cream
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Pasta & Finish
 - 500 grams penne rigate
 - 2 tablespoons fresh flat leaf parsley (chopped)
-- 30 grams Parmesan (freshly grated)
+- 30 grams Parmesan cheese (freshly grated)
 
 ## Method
 

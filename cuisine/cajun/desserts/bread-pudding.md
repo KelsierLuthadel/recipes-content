@@ -15,10 +15,10 @@ A French baguette or stale brioche is torn into chunks and soaked in a custard o
 ## Ingredients
 
 ### Pudding
-- 500 g day-old French bread or brioche (about 1 large baguette or ½ a brioche loaf), torn into 3 cm chunks
+- 500 g day-old French bread (or brioche, about 1 large baguette or ½ a brioche loaf), torn into 3 cm chunks
 - 500 ml whole milk
 - 300 ml double cream
-- 4 large eggs
+- 4 eggs (large)
 - 150 g soft light brown sugar
 - 50 g caster sugar
 - 2 teaspoons vanilla extract
@@ -32,7 +32,7 @@ A French baguette or stale brioche is torn into chunks and soaked in a custard o
 ### Bourbon sauce
 - 100 g unsalted butter
 - 150 g caster sugar
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 80 ml bourbon
 - Pinch of salt
 

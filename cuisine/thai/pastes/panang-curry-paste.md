@@ -24,12 +24,12 @@ Milder, sweeter than red curry paste, with roasted peanuts. Key ingredient for P
 ### Chillies and aromatics
 - 12 dried red bird’s eye chillies, soaked in water for 30 minutes and cut into small pieces
 - 12 garlic cloves, roughly chopped
-- 2 medium shallots, finely chopped
+- 2 shallots (medium), finely chopped
 - 1 thumb-sized piece galangal, thinly sliced
 - 2 fresh red chillies, thinly sliced
 - 1 lemongrass stalk, tough outer part removed and thinly sliced
 - 10 thick coriander stalks (about 1 generous tbsp)
-- Zest of ½ lime
+- ½ lime (zest)
 - 4 lime leaves, stems removed and finely chopped
 
 ### Nuts and paste

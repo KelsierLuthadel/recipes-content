@@ -15,20 +15,20 @@ Deviled eggs are one of America's most enduring party foods, a fixture of Easter
 ## Ingredients
 
 ### Eggs
-- 6 large eggs, at least a week old (older eggs peel more easily)
+- 6 eggs (large), at least a week old (older eggs peel more easily)
 - 1 tsp white vinegar (for the cooking water)
 
 ### Filling
 - 4 tbsp good-quality mayonnaise
 - 1 tsp Dijon mustard
 - ½ tsp yellow American mustard
-- 1 tsp white wine vinegar or pickle brine
+- 1 tsp white wine vinegar (or pickle brine)
 - ¼ tsp fine sea salt
 - ⅛ tsp freshly ground black pepper
 - 1 tsp finely chopped chives (optional, mixed in)
 
 ### To finish
-- Smoked or sweet paprika, for dusting
+- Smoked (or sweet paprika), for dusting
 - Finely snipped chives
 - Optional: cornichon slices, capers, or crispy bacon crumbs
 

@@ -25,14 +25,19 @@ Milk warms with sugar, cinnamon stick and lemon zest; cools. Stale country bread
 - 8 thick slices of stale country bread (3 cm thick each, about 80 g per slice)
 
 ### Egg dip
-- 3 large eggs (beaten with a pinch of salt)
+- 3 eggs (large, beaten with a pinch of salt)
 
 ### Frying
 - 200 ml olive oil (mild - not extra-virgin)
 
 ### To finish (choose one)
-- **Honey version:** 200 g clear honey + 50 ml water, warmed
-- **Cinnamon-sugar version:** 100 g caster sugar + 2 teaspoons ground cinnamon, mixed
+#### Honey version
+- 200 g clear honey 
+- 50 ml water (warm)
+
+#### Cinnamon-sugar version
+- 100 g caster sugar 
+- 2 teaspoons ground cinnamon
 
 ## Method
 

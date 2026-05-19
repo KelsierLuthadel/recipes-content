@@ -13,8 +13,8 @@
 - 500 ml sirop a sorbet
 - 340 grams cranberries
 - 4 quince
-- 1 Bramley or other cooking apple
-- 4 Cox or Gala apples
+- 1 Bramley (or other cooking apple)
+- 4 Cox (or Gala apples)
 - 1 lemon juice
 - 180 grams caster sugar
 - 80 grams preserved stem ginger in syrup

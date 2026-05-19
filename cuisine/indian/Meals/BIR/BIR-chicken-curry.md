@@ -29,13 +29,13 @@ A curry-house style chicken curry that builds flavor from whole spices and fresh
 
 ### Sauce and seasoning
 - 125 ml (½ cup) tomato purée or plain passata
-- 2 tbsp mixed powder or curry powder
+- 2 tbsp mixed powder (or curry powder)
 - 2 tsp ground cumin
 - 2 tsp ground coriander
 - ½ tsp ground turmeric
 - 1-2 tbsp paprika
 - ½ tsp garam masala
-- 2 medium tomatoes, diced
+- 2 tomatoes (medium), diced
 
 ### Protein
 - 900 g (2 lb) chicken thighs or breast, cut into bite-size pieces

@@ -15,9 +15,9 @@ Diced onion and garlic sweat in sunflower oil. A whole butternut squash, peeled 
 ## Ingredients
 
 - 3 tablespoons sunflower oil
-- 1 large onion (diced)
+- 1 onion (large, diced)
 - 4 garlic cloves (sliced)
-- 1 medium butternut squash (peeled, seeded, cut into 2 ½ cm cubes - about 800 g prepared)
+- 1 butternut squash (medium, peeled, seeded, cut into 2 ½ cm cubes - about 800 g prepared)
 - 1 teaspoon dried sage
 - 1 teaspoon ground sumac (or substitute 2 teaspoons lemon juice at the end)
 - 1 teaspoon smoked paprika (modern; substitutes for hardwood-cooking smokiness)
@@ -25,7 +25,7 @@ Diced onion and garlic sweat in sunflower oil. A whole butternut squash, peeled 
 - 1 (400 g) tin chopped tomatoes
 - 800 ml vegetable stock
 - 1 (400 g) tin pinto beans (drained and rinsed)
-- 1 (400 g) tin hominy (drained) - or substitute sweetcorn
+- 1 (400 g) tin hominy (drained, or substitute sweetcorn)
 - 1 tablespoon maple syrup
 - 1 ½ teaspoons salt (to taste)
 

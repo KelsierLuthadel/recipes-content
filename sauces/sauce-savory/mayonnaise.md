@@ -24,7 +24,8 @@ The quintessential cold emulsion sauce combining egg yolks, mustard, and oil int
 - 2 tablespoons white wine vinegar (or lemon juice)
 
 ### Seasoning
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

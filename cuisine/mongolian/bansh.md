@@ -21,7 +21,7 @@ A wheat-flour-and-water dough rests for 30 minutes. Mutton mince mixes with onio
 
 ### Filling
 - 400 g minced mutton (or fatty beef)
-- 1 small onion (very finely diced)
+- 1 onion (small, very finely diced)
 - 3 garlic cloves (crushed)
 - 1 teaspoon salt
 - ½ teaspoon black pepper
@@ -33,8 +33,8 @@ A wheat-flour-and-water dough rests for 30 minutes. Mutton mince mixes with onio
 - 1 tablespoon vinegar (optional)
 
 ### Optional broth (for bansh-tai-shul)
-- 1 ½ litres mutton or beef stock
-- 1 small onion (sliced)
+- 1 ½ litres mutton (or beef stock)
+- 1 onion (small, sliced)
 - Fresh dill (chopped, to scatter)
 
 ## Method

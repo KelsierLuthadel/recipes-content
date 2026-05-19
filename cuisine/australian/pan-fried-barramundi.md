@@ -25,7 +25,7 @@ The trick to crispy-skin barramundi is the trick to crispy-skin anything: very d
 - 50 g unsalted butter
 - 1 tablespoon small capers (drained, patted dry)
 - 1 garlic clove (thinly sliced)
-- Juice of ½ lemon
+- ½ lemon (juice)
 - 1 tablespoon chopped flat-leaf parsley
 
 ### To serve

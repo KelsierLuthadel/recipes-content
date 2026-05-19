@@ -40,7 +40,7 @@ A simple dough of cornmeal, plain flour, sugar, baking powder, salt, vanilla and
 
 ### Stage 2 - Shape
 1. Divide the dough into 10-12 equal pieces.
-2. Roll each piece between your palms into a thick finger about 10 cm long and 2.5 cm wide, tapering slightly at the ends.
+2. Roll each piece between your palms into a thick finger about 10 cm long and 2 ½ cm wide, tapering slightly at the ends.
 
 ### Stage 3 - Fry
 1. Heat the oil to 165°C in a deep pan (a small piece of dough should brown in about 1 minute).

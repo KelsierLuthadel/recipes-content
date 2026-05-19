@@ -31,13 +31,13 @@ Lamb shoulder is cut into large chunks. A spice paste of garlic, ginger, saffron
 
 ### Tagine
 - 3 tablespoons olive oil (additional)
-- 2 large onions (sliced thin)
+- 2 onions (large, sliced thin)
 - 1 cinnamon stick
-- 500 ml water or light lamb stock
+- 500 ml water (or light lamb stock)
 
 ### Prunes
 - 300 g soft pitted prunes (the moist Agen-style, NOT dried)
-- 3 tablespoons brandy or warm water (to plump)
+- 3 tablespoons brandy (or warm water, to plump)
 - 1 tablespoon clear honey
 - ½ teaspoon ground cinnamon
 
@@ -47,7 +47,7 @@ Lamb shoulder is cut into large chunks. A spice paste of garlic, ginger, saffron
 - 2 tablespoons fresh coriander (chopped)
 
 ### To serve
-- Khobz or couscous
+- Khobz (or couscous)
 
 ## Method
 

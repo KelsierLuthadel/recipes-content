@@ -20,12 +20,12 @@ A simple yeasted milk-and-egg dough rises for 1 hour. Onions are softened slowly
 - 1 teaspoon salt
 - 1 teaspoon sugar
 - 200 ml warm milk
-- 1 large egg
+- 1 egg (large)
 - 30 g unsalted butter (melted)
 
 ### Filling
 - 80 g unsalted butter
-- 2 medium onions (finely diced)
+- 2 onions (medium, finely diced)
 - 40 g fresh coriander (leaves and tender stems, chopped)
 - 30 g fresh dill (chopped)
 - 30 g fresh mint (leaves, chopped)

@@ -18,7 +18,7 @@ Dried pinto beans soak overnight (or quick-soak: 1 hour after boiling). They sim
 - 400 g dried pinto beans (or borlotti / cranberry beans as substitute)
 - Cold water (for soaking)
 - 2 litres water (for cooking)
-- 1 large onion (halved)
+- 1 onion (large, halved)
 - 6 garlic cloves (whole, peeled)
 - 2 bay leaves
 - 2 sprigs fresh epazote (optional, traditional - sold dried at Mexican shops; an aromatic herb)
@@ -27,18 +27,19 @@ Dried pinto beans soak overnight (or quick-soak: 1 hour after boiling). They sim
 
 ### Refry stage
 - 80 g lard (or rendered bacon fat, or sunflower oil)
-- 1 large onion (finely diced)
+- 1 onion (large, finely diced)
 - 4 garlic cloves (finely diced)
 - 1 teaspoon ground cumin
 - 1 teaspoon dried oregano
-- 1 small jalapeño (optional, finely chopped)
-- Salt and pepper to taste
+- 1 jalapeño (small, optional, finely chopped)
+- salt
+- pepper
 
 ### To finish
-- 80 g cotija or queso fresco (crumbled - or feta as a substitute)
+- 80 g cotija cheese (or queso fresco, crumbled - or feta as a substitute)
 - 3 tablespoons fresh coriander (chopped)
-- 1 small jalapeño (sliced thin, for topping)
-- Warm corn or flour tortillas to serve
+- 1 jalapeño (small, sliced thin, for topping)
+- Warm corn (or flour tortillas to serve)
 - Tortilla chips (for dipping)
 
 ## Method

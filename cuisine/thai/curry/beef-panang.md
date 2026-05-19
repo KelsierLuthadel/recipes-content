@@ -30,7 +30,7 @@ A thick, sweet Panang curry with peanuts, served over jasmine rice. Similar to r
 - 600 ml (2 ½ cups) thick coconut milk
 
 ### Vegetables
-- About 225 g (8 oz) vegetables, such as chopped baby sweetcorn, courgette (zucchini), mushrooms
+- 225 g (8 oz) vegetables, such as chopped baby sweetcorn, courgette (zucchini), mushrooms
 
 ### Aromatics and seasoning
 - 3 lime leaves, stalks removed and leaves finely julienned

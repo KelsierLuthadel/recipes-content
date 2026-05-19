@@ -31,7 +31,7 @@ Raw shrimp marinate briefly in buttermilk and hot sauce; dredge in seasoned flou
 - 3 tablespoons mayonnaise
 - 2 tablespoons Creole mustard (or coarse Dijon)
 - 1 cup shredded iceberg lettuce
-- 1 medium tomato (sliced)
+- 1 tomato (medium, sliced)
 - 12 dill pickle slices
 - 1 lemon (cut into wedges)
 - More hot sauce on the table

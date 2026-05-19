@@ -18,7 +18,7 @@ Pork belly cuts into thick strips (5 cm wide × 3 cm thick) with skin on. Simmer
 - 2 teaspoons ground cumin
 - 4 garlic cloves (smashed)
 - 2 bay leaves
-- 1.5 litres water (or just enough to cover)
+- 1 ½ litres water (or just enough to cover)
 
 ### To serve
 - Lime wedges

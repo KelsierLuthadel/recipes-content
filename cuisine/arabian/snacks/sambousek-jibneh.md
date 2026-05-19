@@ -17,16 +17,17 @@ A simple oil-and-yogurt-based pastry rolls into a smooth pliable dough; rests br
 ### Pastry
 - 300 g plain flour
 - ½ teaspoon salt
-- 100 ml sunflower or olive oil
+- 100 ml sunflower oil (or olive oil)
 - 100 g Greek yogurt
-- 1 large egg
+- 1 egg (large)
 - 1 teaspoon white wine vinegar
 - 50-80 ml cold water (as needed)
 
 ### Filling
-- 200 g akkawi cheese (desalted by soaking in cold water 30 minutes, drained, grated) OR substitute 150 g low-moisture mozzarella + 50 g halloumi (grated, halloumi rinsed to reduce salt)
-- 100 g feta (crumbled)
-- 1 large egg yolk
+- 150 g low-moisture mozzarella 
+- 50 g halloumi (grated, halloumi rinsed to reduce salt)
+- 100 g feta cheese (crumbled)
+- 1 egg yolk (large)
 - 3 tablespoons fresh parsley (chopped fine)
 - 2 spring onions (finely chopped)
 - 1 tablespoon fresh mint (chopped) or 1 teaspoon dried mint

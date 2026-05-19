@@ -35,7 +35,7 @@ Thai fishcakes (often called ‘tod mun pla’ on menus) are known for their spo
 - 1 tsp sugar (optional)
 
 ### Other
-- 1 medium egg (optional)
+- 1 egg (medium, optional)
 - 1 tbsp tapioca starch
 
 ### Fat

@@ -19,7 +19,7 @@ This delightful meat dish engages the senses with many contrasting tastes. The s
 - 570 ml groundnut oil (for deep-frying)
 
 ### Marinade
-- 1 tablespoon dry sherry or rice wine
+- 1 tablespoon dry sherry (or rice wine)
 - 1 tablespoon light soy sauce
 - 1 tablespoon white rice vinegar
 - ½ teaspoon sesame oil

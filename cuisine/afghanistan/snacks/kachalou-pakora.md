@@ -28,17 +28,17 @@ A batter is made from chickpea flour (besan), rice flour for crispness, water, s
 - 250-280 ml cold water
 
 ### Potatoes
-- 4 medium waxy potatoes (about 700 g - peeled and sliced into 3 mm rounds)
+- 4 waxy potatoes (medium, about 700 g - peeled and sliced into 3 mm rounds)
 - 1 teaspoon salt (for prepping)
 
 ### For frying
-- 1 litre vegetable or sunflower oil
+- 1 litre vegetable oil (or sunflower oil)
 
 ### Quick green chutney (or use ready-made)
 - 1 large bunch coriander (about 40 g)
 - 1 small bunch mint (about 15 g)
 - 2 green chillies (deseeded)
-- Juice of 1 lime
+- 1 lime (juice)
 - 1 teaspoon caster sugar
 - 1 teaspoon salt
 - 2 tablespoons Greek yogurt (optional, for a creamier chutney)

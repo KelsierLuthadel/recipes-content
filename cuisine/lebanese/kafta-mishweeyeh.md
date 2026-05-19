@@ -17,7 +17,7 @@ Mince combines with grated onion, very-finely chopped parsley, garlic, allspice,
 ### Kafta
 - 500 g lamb mince (slightly fatty - shoulder)
 - 300 g beef mince
-- 1 large onion (very finely chopped - grate then squeeze out and chop the pulp)
+- 1 onion (large, very finely chopped - grate then squeeze out and chop the pulp)
 - 4 tablespoons fresh parsley (very finely chopped)
 - 4 garlic cloves (crushed)
 - 1 ½ teaspoons ground allspice
@@ -31,11 +31,12 @@ Mince combines with grated onion, very-finely chopped parsley, garlic, allspice,
 - 1 green bell pepper (chunks, on skewers)
 
 ### To serve
-- 4 large pita or saj breads (warmed)
+- 4 pita (large, or saj breads, warmed)
 - Garlic toum (lebanese garlic emulsion)
 - Hummus
 - Pickled turnips (pink)
-- Sliced raw onion + sumac
+- Sliced raw onion
+- Pinch of sumac
 - Fresh parsley sprigs
 - Lemon wedges
 

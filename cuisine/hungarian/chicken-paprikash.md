@@ -15,7 +15,7 @@ Onions are softened slowly with sweet paprika, tomato joins, then chicken thighs
 ## Ingredients
 
 - 8 bone-in chicken thighs and drumsticks (or 1 kg of either)
-- 3 tablespoons lard or vegetable oil
+- 3 tablespoons lard (or vegetable oil)
 - 2 onions (finely chopped)
 - 4 garlic cloves (crushed)
 - 3 tablespoons Hungarian sweet paprika
@@ -25,11 +25,12 @@ Onions are softened slowly with sweet paprika, tomato joins, then chicken thighs
 - 400 ml chicken stock
 - 200 ml soured cream (full fat)
 - 2 tablespoons plain flour (for stirring through the soured cream)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 - A small bunch of flat-leaf parsley (chopped, to finish)
 
 ### To serve
-- 400 g egg noodles or spätzle
+- 400 g egg noodles (or spätzle)
 - 50 g unsalted butter
 
 ## Method

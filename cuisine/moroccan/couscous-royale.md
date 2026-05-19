@@ -33,7 +33,8 @@ Lamb and chicken poach slowly in a saffron-tomato broth with chunks of root vege
 - 2 courgettes (cut into thick chunks)
 - 200 g tinned chickpeas (drained)
 - A small bunch of coriander (chopped)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Merguez
 - 8 merguez sausages

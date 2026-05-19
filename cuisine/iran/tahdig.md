@@ -20,7 +20,7 @@ Basmati rice is rinsed and soaked. It is parboiled briefly in salted water (al d
 - 4 tablespoons vegetable oil
 - A generous pinch of saffron (steeped in 3 tablespoons hot water 10 min)
 - 4 tablespoons plain yogurt
-- 1 large egg yolk
+- 1 egg yolk (large)
 
 ## Method
 

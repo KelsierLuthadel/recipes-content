@@ -13,21 +13,22 @@
 An alternative take on bhuna: same dry-style, masala-on-the-meat finish, but built on whole spices toasted in hot oil before the meat goes in. The whole-spice toasting perfumes the oil and gives a slightly different aromatic profile from the first bhuna recipe. Both end with the masala coating each piece of meat.
 
 ## Ingredients
-- 3 tbsp ghee, rapeseed oil or seasoned oil
-- 1 small onion, finely chopped 
+- 3 tbsp ghee, rapeseed oil (or seasoned oil)
+- 1 onion (small), finely chopped 
 - ¼ red pepper (bell pepper), deseeded and roughly chopped 
 - 2 tbsp garlic and ginger paste
 - 2 tbsp finely chopped coriander stalks
 - 125ml [tomato purée](../Base/tomato-puree.md)
 - 2 tbsp [mixed powder](../Spice-Mixes/mixed-powder.md)
 - 2 tbsp [tandoori masala](../Spice-Mixes/tandoori-masala.md)
-- 500ml [base curry sauce](../Base/curry-base.md) (heated )
+- 500ml [base curry sauce](../Base/curry-base.md) (heated)
 - 800g [pre-cooked stewed lamb](../Base/pre-cooked-lamb.md)
-- 250ml of curry base or stock from [pre-cooked stewed lamb](../Base/pre-cooked-lamb.md)
+- 250ml of curry base (or stock from [pre-cooked stewed lamb], ../Base/pre-cooked-lamb.md)
 - 2 tbsp Greek yoghurt 
-- Small bunch of coriander leaves (finely chopped 
-- Salt and freshly ground pepper 
-- Juice of 1 or 2 limes 
+- Small bunch of coriander leaves (finely chopped)
+- salt
+- pepper
+- 1 (or 2 limes, juice)
 - Sliced red chilli, to serve 
 
 ## Method

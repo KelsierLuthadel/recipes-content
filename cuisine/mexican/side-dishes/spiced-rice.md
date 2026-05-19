@@ -26,14 +26,14 @@ The combination of spices and tomato gives this rice its distinctive yellow-oran
 ### Rice & Aromatics
 - 150g long-grain white rice
 - 2 teaspoons olive oil
-- 1 small onion (finely chopped)
+- 1 onion (small, finely chopped)
 - 1 garlic clove (finely chopped)
 - 1 tablespoon pickled jalapeños (drained and finely chopped), or fresh jalapeños if preferred
 
 ### Liquid Base
 - 100ml tomato passata
-- 100ml light chicken stock or vegetable stock
-- Additional water or stock as needed
+- 100ml light chicken stock (or vegetable stock)
+- water (or stock as needed)
 
 ## Method
 

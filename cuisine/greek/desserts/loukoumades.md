@@ -25,7 +25,7 @@ A wet yeasted batter, flour, warm water, yeast, salt, sugar, rests for 1 hour. A
 - 200 g clear honey
 - 100 ml water
 - 1 strip lemon peel (yellow zest only)
-- 1 small cinnamon stick
+- 1 cinnamon stick (small)
 - 1 tablespoon lemon juice
 
 ### Frying

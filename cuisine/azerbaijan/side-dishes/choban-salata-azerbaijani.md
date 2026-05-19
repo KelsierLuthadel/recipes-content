@@ -15,7 +15,7 @@ Tomatoes, cucumber and red onion dice to 5 mm cubes. Herbs chop fine. Everything
 ## Ingredients
 - 4 ripe medium tomatoes (about 500 g, ideally a mix of red and yellow)
 - 2 short cucumbers (about 300 g, ridge cucumbers or Lebanese)
-- 1 small red onion (about 80 g)
+- 1 red onion (small, about 80 g)
 - 15 g fresh dill (leaves and tender stems)
 - 15 g fresh mint (leaves only)
 - 5 g fresh tarragon (leaves only)

@@ -24,16 +24,17 @@ Lamb mince browned with onion, carrot and celery, simmered with stock, tomato pu
 - 2 tablespoons tomato purée
 - 1 tablespoon Worcestershire sauce
 - 1 teaspoon fresh rosemary (chopped) or ½ teaspoon dried
-- 1 teaspoon fresh thyme leaves or ½ teaspoon dried
-- 300 ml lamb or beef stock
+- 1 teaspoon fresh thyme leaves (or ½ teaspoon dried)
+- 300 ml lamb (or beef stock)
 - 1 tablespoon plain flour
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Topping
 - 1 kg floury potatoes (Maris Piper or King Edward), peeled and cubed
 - 75 g unsalted butter
 - 75 ml whole milk
-- 50 g mature cheddar (grated, optional)
+- 50 g mature cheddar cheese (grated, optional)
 - Salt
 
 ## Method

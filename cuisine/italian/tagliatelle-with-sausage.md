@@ -25,7 +25,8 @@ This is rustic Italian cooking elevated to elegance. Sausage meat, freed from it
 
 ### Cream Sauce
 - 150 ml double cream
-- Salt and freshly ground black pepper to taste
+- salt
+- pepper
 
 ### Pasta
 - 500 grams fresh tagliatelle

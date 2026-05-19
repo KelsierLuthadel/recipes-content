@@ -28,7 +28,8 @@ A deeply coloured, wine-rich sauce combining red wine, dual stocks, and mushroom
 ### Finishing
 - 50 ml double cream
 - 200 grams butter
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

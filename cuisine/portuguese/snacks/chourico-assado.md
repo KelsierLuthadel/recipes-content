@@ -14,19 +14,18 @@ A whole Portuguese chouriço (or paprika chorizo as substitute) sits on a clay a
 
 ## Ingredients
 
-- 1 whole Portuguese chouriço (about 250 g - sold at Portuguese / Spanish shops; substitute Spanish chorizo if necessary; cured, not fresh)
-- 60 ml aguardente or any high-proof spirit (brandy, dark rum, white rum, or vodka - anything 40% or higher)
-- A few small slits in the chouriço skin (helps the flames cook through)
+- 1 whole Portuguese chouriço (A few small slits in the skin)
+- 60 ml rum (40% or higher)
 
 ### Equipment
-- 1 assador de barro (the clay pig-shaped Portuguese dish - sold at Portuguese shops; OR substitute a small heat-safe deep dish, a heavy iron pan, or any flameproof bowl)
+- 1 heavy iron pan
 - A long match or BBQ lighter
 
 ### To serve
 - Crusty bread (slices of rustic country loaf)
-- Olives (Portuguese black if possible)
+- Olives (Portuguese black)
 - Pickled chillies
-- A small dish of olive oil
+- A dish of olive oil (small)
 - A glass of vinho verde (chilled) or a young red
 
 ## Method

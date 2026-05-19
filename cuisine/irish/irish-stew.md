@@ -19,7 +19,8 @@ Irish stew is the epitome of rustic, peasant cooking elevated to comfort food st
 - 1 ½ litres chicken stock
 - 1 bouquet garni
 - 1 garlic clove
-- Salt and freshly ground black pepper to taste
+- salt
+- pepper
 
 ### Vegetables
 - 4 onions (sliced)

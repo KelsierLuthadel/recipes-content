@@ -15,26 +15,26 @@ Cooked chickpeas (tinned for speed, OR overnight-soaked and home-cooked for the 
 ## Ingredients
 
 ### Salad base
-- 2 (400 g) tins chickpeas (drained and rinsed) - OR 200 g dried chickpeas, soaked overnight and simmered 1 hour until tender
-- 1 medium red onion (finely diced)
-- 2 medium tomatoes (deseeded, finely diced)
-- 1 large potato (boiled in its skin until tender, then peeled and diced 1 cm)
-- 1 small green chilli (deseeded and finely chopped)
+- 2 (400 g) tins chickpeas (drained and rinsed, OR 200 g dried chickpeas, soaked overnight and simmered 1 hour until tender)
+- 1 red onion (medium, finely diced)
+- 2 tomatoes (medium, deseeded, finely diced)
+- 1 potato (large, boiled in its skin until tender, then peeled and diced 1 cm)
+- 1 green chilli (small, deseeded and finely chopped)
 - 4 tablespoons fresh coriander (chopped)
-- 2 tablespoons fresh mint (chopped) - optional
+- 2 tablespoons fresh mint (chopped, optional)
 
 ### Dressing
-- Juice of 2 lemons (about 4 tablespoons)
+- 2 lemons (about 4 tablespoons, juice)
 - 1 ½ teaspoons chaat masala (sold at South Asian shops - distinctive sour-and-salty)
 - 1 teaspoon ground roasted cumin (see notes)
 - ½ teaspoon Kashmiri red chilli powder
-- ½ teaspoon black salt (kala namak) - optional but traditional, gives a faint sulphurous tang
+- ½ teaspoon black salt (kala namak, optional but traditional, gives a faint sulphurous tang)
 - ½ teaspoon salt (to taste)
-- 1 tablespoon tamarind chutney (sold ready-made) - optional but classic
-- 1 teaspoon hot green chilli sauce or Pakistani hot sauce
+- 1 tablespoon tamarind chutney (sold ready-made, optional but classic)
+- 1 teaspoon hot green chilli sauce (or Pakistani hot sauce)
 
 ### To finish
-- 30 g papri (small fried wheat crackers) - substitute crushed Bombay mix, sev or salty potato crisps
+- 30 g papri (small fried wheat crackers, substitute crushed Bombay mix, sev or salty potato crisps)
 - 2 tablespoons sev (chickpea-flour vermicelli - optional)
 - Extra fresh coriander
 - 1 lemon (cut into wedges)
@@ -64,7 +64,7 @@ Cooked chickpeas (tinned for speed, OR overnight-soaked and home-cooked for the 
 
 ## Notes
 - **Chaat masala is the soul:** Without chaat masala - that very specific Indian / Pakistani blend of dried mango (amchoor), black salt, cumin, dried ginger and chillies - you have a chickpea salad, not chana chaat. Buy a small jar at any South Asian shop; it lasts months.
-- **Toss generously:** Pakistani chaat is meant to be vigorously dressed and assertive. Half a teaspoon of lemon juice and a pinch of salt is wrong; it should be tangy, salty and noisy on the palate.
+- **Toss generously:** Pakistani chaat is meant to be vigorously dressed and assertive. ½ teaspoon of lemon juice and a pinch of salt is wrong; it should be tangy, salty and noisy on the palate.
 - **Black salt (kala namak) is optional but characteristic:** Pink-grey rock salt with a sulphurous edge. Adds an unmistakable savoury depth. Not the same as ordinary table salt.
 
 ## Storage

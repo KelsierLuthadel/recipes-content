@@ -21,10 +21,11 @@ Chilean longaniza (or any good fresh pork sausage) splits lengthways but stays a
 
 ### Pebre
 - 2 ripe tomatoes (deseeded, finely diced)
-- 1 small red onion (finely diced)
+- 1 red onion (small, finely diced)
 - 30 g fresh coriander (chopped)
 - 2 garlic cloves (minced)
-- 1 tablespoon ají amarillo or merkén (Chilean smoked chilli) - substitute mild chilli + smoked paprika
+- ½ tablespoon mild chilli
+- ½ tablespoon smoked paprika
 - 3 tablespoons olive oil
 - 2 tablespoons red-wine vinegar
 - 1 teaspoon salt

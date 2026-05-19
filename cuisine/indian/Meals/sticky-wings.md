@@ -36,7 +36,7 @@ Crispy, sweet, and sticky chicken wings with a rich, fruity glaze from date syru
 - 4 tsp dark rum
 
 ### Acid
-- Juice of ½ lemon
+- ½ lemon (juice)
 - 2 tbsp white wine vinegar
 
 ### Seasoning

@@ -16,7 +16,7 @@ A whole hen (or chicken thighs and drumsticks if you can't get a stewing bird) s
 
 - 1.4 kg whole stewing chicken (jointed) or 1 kg bone-in chicken thighs and drumsticks
 - 2 ½ litres water
-- 1 large onion (halved)
+- 1 onion (large, halved)
 - 1 small bunch fresh coriander (stems for the boil; leaves for the finish)
 - 4 garlic cloves (crushed)
 - 1 tablespoon ground cumin
@@ -24,16 +24,16 @@ A whole hen (or chicken thighs and drumsticks if you can't get a stewing bird) s
 - 1 ½ teaspoons salt
 - 1 teaspoon ground black pepper
 - 2 bay leaves
-- 3 medium onions (1 added later, chopped)
+- 3 onions (medium, 1 added later, chopped)
 - 2 fresh tomatoes (grated)
-- 1 tablespoon ground annatto (achiote) or paprika
+- 1 tablespoon ground annatto (achiote)
 - 2 tablespoons vegetable oil
-- 800 g yuca / cassava (peeled, cut into 5 cm chunks)
-- 2 large green plantains (peeled, cut into 5 cm chunks)
-- 4 medium potatoes (peeled, halved)
-- 2 medium sweet potatoes (peeled, cut into 5 cm chunks)
+- 800 g yuca (peeled, cut into 5 cm chunks)
+- 2 green plantains (large, peeled, cut into 5 cm chunks)
+- 4 potatoes (medium, peeled, halved)
+- 2 sweet potatoes (medium, peeled, cut into 5 cm chunks)
 - 2 corn-on-the-cob (cut into 4 pieces each)
-- Juice of 1 lime
+- 1 lime (juice)
 
 ### To serve
 - 4 servings cooked white rice

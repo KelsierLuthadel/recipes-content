@@ -35,7 +35,7 @@ Two batters. The first (the base) is rice flour, palm sugar, salt, coconut milk 
 - 1 tablespoon toasted black sesame seeds
 
 ### For cooking
-- 3 tablespoons sunflower or coconut oil
+- 3 tablespoons sunflower oil (or coconut oil)
 - A khanom krok pan (sold at Thai shops), OR an aebleskiver / takoyaki pan, OR a small non-stick pan with deep dimples
 
 ## Method

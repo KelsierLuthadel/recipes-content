@@ -22,24 +22,25 @@ A Caribbean-Southern crossover that works because both traditions cook in a simi
 - ½ cup sweet potato purée (or pumpkin purée)
 - 2 tablespoons butter
 - 120 ml half-and-half (or single cream)
-- 100 g shredded gouda (or sharp cheddar)
+- 100 g shredded gouda cheese (or sharp cheddar)
 - ¼ teaspoon white pepper
 
 ### Brown stew shrimp
 - 450 g (1 lb) jumbo shrimp (peeled, deveined)
-- 1 tablespoon avocado or olive oil
+- 1 tablespoon olive oil
 - 1 teaspoon smoked paprika
 - 1 teaspoon ground allspice
 - 1 teaspoon onion powder
 - 1 teaspoon garlic powder
-- Salt and pepper
+- salt
+- pepper
 
 ### Sauce
 - 4 tablespoons unsalted butter
 - ½ green bell pepper (finely diced)
 - ½ red bell pepper (finely diced)
 - ½ small yellow onion (finely diced)
-- 1 large carrot (finely diced)
+- 1 carrot (large, finely diced)
 - 1 Scotch bonnet (deseeded and chopped)
 - 1 tablespoon garlic paste
 - 2 teaspoons ginger paste

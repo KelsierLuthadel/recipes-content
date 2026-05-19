@@ -20,7 +20,7 @@ Pork shoulder cubes marinate at least two hours in a lemon-olive oil-garlic-oreg
 
 ### Marinade
 - 100 ml olive oil
-- Juice of 2 lemons
+- 2 lemons (juice)
 - 4 garlic cloves (crushed)
 - 1 tablespoon dried Greek oregano
 - 1 teaspoon salt

@@ -23,7 +23,7 @@ This straightforward Sichuan preparation showcases the region's bold use of chil
 ### Cooking & Sauce
 - 1 tbsp oil
 - 3 cloves garlic (roughly chopped)
-- ½ red or green bell pepper
+- ½ red bell pepper (or green bell pepper)
 - 5 dried chillies
 - 2 tbsp oyster sauce
 - 4 tsp soy sauce

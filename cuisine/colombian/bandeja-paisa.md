@@ -10,7 +10,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Each component cooks separately and arrives on the same wide platter: braised red beans (frijoles paisas); white long-grain rice; fried pork belly (chicharrón); grilled or fried chorizo; sliced grilled steak; ripe plantain fried sweet; an egg sunny-side up; half an avocado; an arepa de maíz.
+Each component cooks separately and arrives on the same wide platter: braised red beans (frijoles paisas); white long-grain rice; fried pork belly (chicharrón); grilled or fried chorizo; sliced grilled steak; ripe plantain fried sweet; an egg sunny-side up; ½ avocado; an arepa de maíz.
 
 ## Ingredients
 
@@ -21,11 +21,12 @@ Each component cooks separately and arrives on the same wide platter: braised re
 - 1 chorizo (Colombian-style or Spanish chorizo)
 - 1 thin steak (sirloin or skirt, 100-120 g per person)
 - ½ ripe plantain (sliced lengthways and fried - tajadas)
-- 1 large egg
+- 1 egg (large)
 - ½ ripe avocado
 - 1 arepa de maíz blanco (white-corn arepa, 1 per person)
 - Vegetable oil for frying
-- Salt and ground black pepper
+- salt
+- pepper
 
 ### Garnish
 - 1 small bowl of hogao (Colombian sofrito, on the side)

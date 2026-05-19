@@ -17,7 +17,7 @@ Prik king paste fries hard in oil until aromatic and the oil splits. Thinly slic
 ### Prik king paste (or use 4 tbsp store-bought)
 - 8 dried Thai red chillies (de-stemmed, soaked 15 min in hot water, drained)
 - 4 garlic cloves
-- 4 small shallots
+- 4 shallots (small)
 - 1 stalk lemongrass (white part only, sliced)
 - 1 thumb galangal (sliced)
 - 1 teaspoon shrimp paste (kapi)
@@ -26,7 +26,7 @@ Prik king paste fries hard in oil until aromatic and the oil splits. Thinly slic
 - ½ teaspoon ground white pepper
 
 ### Stir-fry
-- 500 g pork shoulder or chicken thigh (sliced very thin)
+- 500 g pork shoulder (or chicken thigh, sliced very thin)
 - 300 g green beans (snake beans if you can find them - cut into 4 cm pieces)
 - 4 tablespoons vegetable oil
 - 3 tablespoons fish sauce

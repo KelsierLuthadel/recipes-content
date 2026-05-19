@@ -29,7 +29,8 @@ Normandy Chicken showcases the bounty of France's northern apple region, combini
 - 5 tablespoons crème fraîche
 - 2 tablespoons Dijon mustard
 - 1 tablespoon chopped tarragon (plus whole leaves to serve)
-- Salt and freshly ground black pepper to taste
+- salt
+- pepper
 
 ## Method
 

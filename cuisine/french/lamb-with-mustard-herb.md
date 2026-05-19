@@ -15,7 +15,7 @@ This composed dish showcases lamb breast's rich potential: the trimmed meat is b
 
 ### Lamb & Braising Liquid
 - 4 portions of lamb breast (rolled and tied)
-- 2 tablespoons lamb fat or cooking oil
+- 2 tablespoons lamb fat (or cooking oil)
 - 50 grams unsalted butter
 - 1 garlic clove (crushed)
 - 1 sprig fresh thyme
@@ -27,19 +27,21 @@ This composed dish showcases lamb breast's rich potential: the trimmed meat is b
 - Half leek (diced)
 - 1.2 litres chicken stock
 - Lamb bones (optional, for extra flavor)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Herb Crust
 - 6 slices white bread
 - 25 grams butter
 - 2 shallots (finely chopped)
 - 1 teaspoon chopped mixed thyme, sage, and rosemary
-- 2 teaspoons Dijon or grain mustard
-- Salt and freshly ground black pepper
+- 2 teaspoons Dijon (or grain mustard)
+- salt
+- pepper
 
 ### Finishing Sauce
 - 150 ml double cream
-- 2 teaspoons Dijon or grain mustard
+- 2 teaspoons Dijon (or grain mustard)
 
 ## Method
 

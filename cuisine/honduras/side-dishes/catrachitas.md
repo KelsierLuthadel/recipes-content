@@ -14,10 +14,10 @@ Small corn tortillas are shallow-fried until golden and crisp. While still hot, 
 
 ## Ingredients
 
-- 12 small corn tortillas (10-12 cm diameter)
+- 12 corn tortillas (small, 10-12 cm diameter)
 - 300 ml vegetable oil for shallow frying
 - 200 g warm refried beans
-- 150 g queso fresco, cotija or feta (crumbled)
+- 150 g queso fresco, cotija cheese (or feta, crumbled)
 - 100 ml chimol (tomato-onion-cilantro relish) or salsa picante (optional)
 - 1 avocado (sliced, optional)
 - Salt

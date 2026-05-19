@@ -18,7 +18,7 @@ A simple dough of flour, salt, oil, water rests for 30 minutes. Two portions; ea
 - 1 teaspoon salt
 - 2 tablespoons vegetable oil
 - 300 ml warm water (approximate)
-- 200 g ghee or unsalted butter (melted)
+- 200 g ghee (or unsalted butter, melted)
 - Extra oil for stretching
 
 ### To serve

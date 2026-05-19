@@ -17,16 +17,17 @@ Spinach wilts and squeezes dry; mixes with crumbled feta, ricotta, eggs, dill an
 ### Filling
 - 1 kg fresh spinach (or 600 g frozen, thawed)
 - 1 tablespoon olive oil
-- 1 small onion (finely chopped)
+- 1 onion (small, finely chopped)
 - 6 spring onions (sliced)
 - 4 garlic cloves (crushed)
-- 300 g feta (crumbled)
-- 200 g ricotta
-- 3 large eggs (beaten)
+- 300 g feta cheese (crumbled)
+- 200 g ricotta cheese
+- 3 eggs (large, beaten)
 - A small bunch of dill (chopped)
 - A small bunch of parsley (chopped)
 - A grating of nutmeg
-- Salt and black pepper
+- salt
+- pepper
 
 ### Pastry
 - 270 g filo pastry (10-12 sheets)

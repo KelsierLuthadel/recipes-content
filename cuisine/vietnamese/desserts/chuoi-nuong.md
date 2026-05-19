@@ -22,8 +22,8 @@ Sticky rice is soaked, steamed and pressed around small Asian bananas (Chuối s
 - ½ teaspoon fine sea salt
 
 ### Bananas
-- 4 small Vietnamese bananas (chuối sứ) or 2 large under-ripe regular bananas (cut in half lengthways)
-- 4 banana leaves cut into 25 x 25 cm squares (fresh or frozen-thawed; foil works as a substitute)
+- 4 Vietnamese bananas (small, chuối sứ) or 2 large under-ripe regular bananas (cut in half lengthways)
+- 4 banana leaves (fresh or frozen-thawed; cut into 25 x 25 cm squares)
 
 ### Coconut sauce
 - 250 ml coconut cream

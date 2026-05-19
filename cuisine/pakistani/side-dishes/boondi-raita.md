@@ -22,10 +22,10 @@ Plain yogurt whisks with a little water (or milk) to a smooth pourable raita tex
 - 1 ½ teaspoons ground roasted cumin (see notes)
 - ½ teaspoon Kashmiri red chilli powder
 - 1 tablespoon fresh mint (finely chopped)
-- 1 small green chilli (deseeded, finely chopped - optional)
+- 1 green chilli (small, deseeded, finely chopped - optional)
 
 ### To finish
-- 80 g ready-made boondi (the savoury yellow kind, NOT the sweet pink-and-white) - sold at South Asian shops
+- 80 g ready-made boondi (the savoury yellow kind, NOT the sweet pink-and-white, sold at South Asian shops)
 - Hot water (to refresh the boondi)
 - A pinch of ground roasted cumin (for garnish)
 - A pinch of Kashmiri red chilli powder (for garnish)

@@ -17,14 +17,14 @@ Butter creams with icing sugar 4 minutes until pale. Egg yolks beat in one at a 
 ### Cookies
 - 250 g unsalted butter (softened, not melted)
 - 100 g icing sugar
-- 2 large egg yolks
+- 2 egg yolks (large)
 - 1 teaspoon vanilla extract
 - ½ teaspoon ground cardamom
 - 400 g plain flour
 - ¼ teaspoon salt
 
 ### Glaze
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 1 tablespoon milk
 - 2 teaspoons sesame seeds
 - 1 teaspoon nigella (kalonji) seeds

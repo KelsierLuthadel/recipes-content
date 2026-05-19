@@ -16,13 +16,13 @@ A loose batter of flour, egg and water is pushed through a spätzle plane (or a 
 
 ### Nokedli
 - 250 g plain flour
-- 2 large eggs
+- 2 eggs (large)
 - 150 ml water
 - 1 teaspoon salt
 
 ### Finishing
 - 50 g unsalted butter
-- 4 large eggs (beaten)
+- 4 eggs (large, beaten)
 - ½ teaspoon salt
 - Black pepper
 - 2 tablespoons fresh parsley (chopped)

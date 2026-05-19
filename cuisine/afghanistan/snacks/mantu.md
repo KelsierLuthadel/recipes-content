@@ -16,7 +16,7 @@ The filling: ground lamb mixes with grated onion (squeezed dry), garlic, ground 
 
 ### Filling
 - 400 g ground lamb (20% fat)
-- 1 small onion (grated, squeezed dry - about 80 g after squeezing)
+- 1 onion (small, grated, squeezed dry - about 80 g after squeezing)
 - 4 garlic cloves (crushed)
 - 1 ½ teaspoons ground coriander
 - 1 teaspoon ground cumin
@@ -31,13 +31,13 @@ The filling: ground lamb mixes with grated onion (squeezed dry), garlic, ground 
 ### Chana dal sauce
 - 100 g chana dal (split chickpeas - soaked 2 hours; or substitute split yellow peas)
 - 2 tablespoons sunflower oil
-- 1 small onion (finely diced)
+- 1 onion (small, finely diced)
 - 3 garlic cloves (crushed)
 - 1 (400 g) tin chopped tomatoes
 - 1 tablespoon tomato paste
 - 1 teaspoon dried mint
 - 1 teaspoon ground coriander
-- ½ teaspoon Aleppo pepper or chilli flakes
+- ½ teaspoon chilli flakes
 - 1 teaspoon salt
 - 300 ml water
 

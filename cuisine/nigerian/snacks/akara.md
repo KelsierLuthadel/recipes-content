@@ -15,7 +15,7 @@ Dried black-eyed beans soak briefly to loosen the skins; the skins rub off (this
 ## Ingredients
 
 - 300 g dried black-eyed beans
-- 1 small red onion (rough chunks)
+- 1 red onion (small, rough chunks)
 - 1 Scotch bonnet chilli (to taste - deseeded for less heat)
 - 80-120 ml water (to blend, used sparingly)
 - 1 teaspoon salt
@@ -24,7 +24,7 @@ Dried black-eyed beans soak briefly to loosen the skins; the skins rub off (this
 
 ### To serve (optional)
 - Pinch of flaky salt
-- Pepper sauce or chilli oil
+- Pepper sauce (or chilli oil)
 
 ## Method
 

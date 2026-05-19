@@ -22,7 +22,7 @@ Skinned dried fava beans (or split peas as a substitute) simmer with garlic, cum
 - 1 teaspoon sweet paprika
 - 1 teaspoon salt
 - 4 tablespoons olive oil
-- Juice of 1 lemon
+- 1 lemon (juice)
 
 ### To finish (per bowl)
 - Extra-virgin olive oil

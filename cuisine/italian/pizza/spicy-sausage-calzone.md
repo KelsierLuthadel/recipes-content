@@ -19,15 +19,16 @@ A make-ahead calzone built around a deeply reduced chorizo ragù sharpened with 
 
 ### Spicy Tomato Sauce
 - 2 tablespoons olive oil
-- 1 large onion (finely diced)
+- 1 onion (large, finely diced)
 - 2 garlic cloves (crushed)
-- 180 grams chorizo or spicy salami (sliced into strips or diced)
+- 180 grams chorizo (or spicy salami, sliced into strips or diced)
 - Pinch of chilli flakes
 - Pinch of paprika
 - 400 gram tin chopped tomatoes
 - 200 ml passata
 - Bunch of basil (leaves chopped)
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Cheese
 - 250 grams mozzarella block (or 2 x 125 gram balls)

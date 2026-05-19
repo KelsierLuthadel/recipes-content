@@ -16,10 +16,10 @@ Oxtail browns hard in batches so the fond builds. Onion, garlic and tomato cook 
 
 - 1 ½ kg oxtail (cut into 3-4 cm pieces - ask the butcher)
 - 3 tablespoons vegetable oil
-- 2 large onions (chopped)
+- 2 onions (large, chopped)
 - 6 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
-- 4 large tomatoes (grated) or 1 (400 g) tin
+- 4 tomatoes (large, grated) or 1 (400 g) tin
 - 2 tablespoons tomato puree
 - 1 tablespoon paprika
 - 1 teaspoon ground black pepper

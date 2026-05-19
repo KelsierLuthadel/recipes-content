@@ -15,9 +15,9 @@ Floury potatoes grate into cold water with a squeeze of lemon (stops browning); 
 ## Ingredients
 
 - 1 kg floury potatoes (Maris Piper, King Edward; peeled)
-- Juice of half a lemon (for the soaking water)
-- 1 medium onion (finely grated)
-- 2 large eggs (lightly beaten)
+- ½ lemon (for the soaking water, juice)
+- 1 onion (medium, finely grated)
+- 2 eggs (large, lightly beaten)
 - 3 tablespoons plain flour
 - 1 ½ teaspoons salt
 - ½ teaspoon black pepper

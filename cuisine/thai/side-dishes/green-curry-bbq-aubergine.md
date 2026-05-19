@@ -15,13 +15,13 @@ This is a BBQ side built on the flavour profile of Thai green curry rather than 
 ## Ingredients
 
 ### Aubergines
-- 2 long Asian purple aubergines (about 600 g), cut into 3 cm thick wedges, or 1 large European aubergine cut into 2.5 cm slabs
+- 2 long Asian purple aubergines (about 600 g), cut into 3 cm thick wedges, or 1 large European aubergine cut into 2 ½ cm slabs
 - 1 tsp fine salt (to draw moisture before marinating)
 
 ### Marinade
 - 200 ml full-fat coconut cream (the thick layer skimmed from a tin of coconut milk)
 - 3 to 4 tbsp Thai green curry paste (see cuisine/thai/pastes/thai-green-curry-paste.md, or a quality shop-bought paste)
-- 1 tbsp coconut oil or neutral oil
+- 1 tbsp coconut oil (or neutral oil)
 - 2 tbsp fish sauce (or light soy sauce for a vegetarian version)
 - 1 tbsp palm sugar, shaved, or soft light brown sugar
 - 4 makrut (kaffir) lime leaves, central stems removed, torn
@@ -32,7 +32,7 @@ This is a BBQ side built on the flavour profile of Thai green curry rather than 
 - Extra Thai basil leaves
 - 1 long red chilli, sliced on the diagonal
 - Lime wedges
-- Sticky rice or jasmine rice (if serving as a main)
+- Sticky rice (or jasmine rice, if serving as a main)
 
 ## Method
 

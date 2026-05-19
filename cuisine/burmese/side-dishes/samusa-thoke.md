@@ -20,14 +20,14 @@ Yellow split peas cook with turmeric and salt into a thick soup; sliced onion, g
 - 1 ½ teaspoons ground turmeric
 - 1 ½ teaspoons salt
 - 4 tablespoons vegetable oil
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 6 garlic cloves (crushed)
 - 1 tablespoon paprika
 - 2 tablespoons fish sauce
 - 1 dried red chilli (broken)
 
 ### Samusas
-- 12 small Burmese-style samusas (use the keema-samosa recipe, scaled down, OR buy frozen Indian / Burmese mini samosas)
+- 12 Burmese-style samusas (small, use the keema-samosa recipe, scaled down, OR buy frozen Indian / Burmese mini samosas)
 - 500 ml vegetable oil for frying
 
 ### Crispy bits (sin-don)
@@ -37,7 +37,7 @@ Yellow split peas cook with turmeric and salt into a thick soup; sliced onion, g
 - ¼ teaspoon ground turmeric
 
 ### Garnish
-- 1 small red onion (sliced thin)
+- 1 red onion (small, sliced thin)
 - 1 small handful fresh cilantro (chopped)
 - 2 spring onions (sliced)
 - 2 limes (cut into wedges)

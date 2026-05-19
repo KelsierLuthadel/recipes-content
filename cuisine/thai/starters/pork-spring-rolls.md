@@ -29,7 +29,7 @@ Made popular by Chinese restaurants and takeaways, these are another menu item t
 
 ### Marinade
 - 2 tbsp light soy sauce
-- 1 tbsp Chinese rice wine or dry sherry
+- 1 tbsp Chinese rice wine (or dry sherry)
 - 1 tsp sesame oil
 - 1 tbsp Thai fish sauce
 - ½ tsp palm sugar, finely grated
@@ -38,7 +38,7 @@ Made popular by Chinese restaurants and takeaways, these are another menu item t
 
 ### Seasoning
 - ½ tsp palm sugar, grated (or use white sugar)
-- 1 tbsp Chinese rice wine or dry sherry
+- 1 tbsp Chinese rice wine (or dry sherry)
 - 1 tbsp dark soy sauce
 - 1 tsp Thai fish sauce
 - ½ tsp white pepper
@@ -48,7 +48,7 @@ Made popular by Chinese restaurants and takeaways, these are another menu item t
 - 6 tbsp rapeseed (canola) oil, plus 750ml (3 cups) for deep-frying
 
 ### Other
-- 30 x 10cm (4in) spring roll wrappers
+- 300cm (4in) spring roll wrappers
 - 1 egg, beaten
 
 ### Serving

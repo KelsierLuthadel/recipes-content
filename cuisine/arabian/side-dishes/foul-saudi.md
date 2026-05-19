@@ -24,16 +24,16 @@ Dried fava beans soak overnight, then simmer with a chickpea or two and a garlic
 - 4 tablespoons olive oil (extra virgin, plus more to drizzle)
 - 4 garlic cloves (crushed)
 - 1 teaspoon ground cumin
-- ½ teaspoon ground chilli or pinch of dried chilli flakes
-- Juice of 1 lemon
+- ½ teaspoon ground chilli (or pinch of dried chilli flakes)
+- 1 lemon (juice)
 - 3 tablespoons fresh parsley (chopped)
 - ½ teaspoon ground black pepper
 
 ### To serve
 - 1 tomato (diced)
-- 1 small onion (diced)
+- 1 onion (small, diced)
 - Lemon wedges
-- Khubz tameez or pita
+- Khubz tameez (or pita)
 
 ## Method
 

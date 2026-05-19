@@ -15,8 +15,8 @@ Green (unripe) plantains are peeled, sliced into thick rounds and fried gently i
 ## Ingredients
 
 ### Tostones
-- 3 large green plantains (firm, unripe, dark green skin)
-- About 500 ml sunflower or vegetable oil (for frying; needs to come 1 cm deep in the pan)
+- 3 green plantains (large, firm, unripe, dark green skin)
+- 500 ml sunflower oil (or vegetable oil, for frying; needs to come 1 cm deep in the pan)
 - Flaky salt
 
 ### Garlic-mojo dipper
@@ -35,7 +35,7 @@ Green (unripe) plantains are peeled, sliced into thick rounds and fried gently i
 1. Cut both ends off each plantain.
 2. Score the skin lengthways in 3-4 places, just through the skin not into the flesh.
 3. Slip your thumb under the skin at each score and peel it off in strips. Green plantain skin clings; cold water or a sharp knife under the edge helps.
-4. Slice each peeled plantain into 2.5 cm thick rounds (slightly thicker than a £1 coin times two).
+4. Slice each peeled plantain into 2 ½ cm thick rounds (slightly thicker than a £1 coin times two).
 
 ### Stage 2 - First fry
 1. Heat 1 cm of oil in a wide pan to 160°C (a piece of plantain should bubble gently when added).

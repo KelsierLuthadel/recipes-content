@@ -31,7 +31,7 @@ Pork shoulder (fatty cuts only, lean cuts will be dry) is cut into 3 cm chunks. 
 - 1 ½ to 2 teaspoons salt (depending on the saltiness of the pork)
 - 1 teaspoon black pepper
 - ¼ teaspoon ground white pepper (optional)
-- 1 tablespoon brandy or armagnac (optional)
+- 1 tablespoon brandy (or armagnac, optional)
 
 ### Equipment
 - A deep ovenproof pot with a tight-fitting lid (cast iron is ideal)

@@ -22,10 +22,10 @@ A wide shallow pot is brushed with beef fat, the warishita sauce (soy-mirin-sake
 - 200 ml dashi
 
 ### To cook
-- 600 g thinly sliced beef rib-eye or sirloin (paper-thin)
-- 1 small piece beef suet or 1 tablespoon vegetable oil
+- 600 g thinly sliced beef rib-eye (or sirloin, paper-thin)
+- 1 small piece beef suet (or 1 tablespoon vegetable oil)
 - 4 spring onions (cut into 4 cm pieces)
-- 200 g shiitake or chestnut mushrooms (sliced)
+- 200 g shiitake (or chestnut mushrooms, sliced)
 - 100 g enoki mushrooms (separated)
 - 200 g firm tofu (cut into 2 cm cubes)
 - ½ Chinese cabbage (cut into 4 cm pieces)

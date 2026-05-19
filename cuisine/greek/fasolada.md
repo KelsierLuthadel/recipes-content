@@ -14,7 +14,7 @@ Soaked beans simmer slow with chopped vegetables, tomato and herbs in a generous
 
 ## Ingredients
 
-- 400 g dried cannellini or butter beans (soaked overnight)
+- 400 g dried cannellini (or butter beans, soaked overnight)
 - 6 tablespoons olive oil (split through cooking)
 - 1 onion (chopped)
 - 2 carrots (diced)
@@ -24,11 +24,12 @@ Soaked beans simmer slow with chopped vegetables, tomato and herbs in a generous
 - 400 g tinned chopped tomatoes
 - 2 bay leaves
 - 1 teaspoon dried oregano
-- 1.2 litres vegetable stock or water
-- Juice of 1 lemon
-- Salt and freshly ground black pepper
+- 1.2 litres vegetable stock (or water)
+- 1 lemon (juice)
+- salt
+- pepper
 - A small bunch of flat-leaf parsley (chopped, to finish)
-- 100 g feta (optional, to finish)
+- 100 g feta cheese (optional, to finish)
 
 ## Method
 

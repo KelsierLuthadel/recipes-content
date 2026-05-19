@@ -22,8 +22,8 @@ A rich enriched dough, flour, yeast, butter, milk, eggs, sugar, rises for 1 hour
 - 2 teaspoons ground cinnamon
 - 180 ml warm milk
 - 80 g unsalted butter (melted)
-- 2 large eggs
-- Zest of 1 lemon
+- 2 eggs (large)
+- 1 lemon (zest)
 
 ### Cinnamon filling
 - 100 g unsalted butter (softened)
@@ -42,7 +42,7 @@ A rich enriched dough, flour, yeast, butter, milk, eggs, sugar, rises for 1 hour
 - (OR: buy pre-coloured Mardi Gras sugar from a baking-supply shop)
 
 ### Surprise
-- 1 small plastic baby (or a dried bean / a small marzipan ball as a substitute)
+- 1 plastic baby (small, or a dried bean / a small marzipan ball as a substitute)
 
 ## Method
 

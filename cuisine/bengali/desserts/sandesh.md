@@ -15,7 +15,7 @@ Sandesh is the most refined sweet in the Bengali misti repertoire: where rasgull
 ## Ingredients
 
 ### Chhena
-- 1.5 litres whole milk (full fat, fresh, not UHT)
+- 1 ½ litres whole milk (full fat, fresh, not UHT)
 - 2 tbsp lemon juice (or 2 tbsp white vinegar)
 - Ice cubes (a small handful)
 

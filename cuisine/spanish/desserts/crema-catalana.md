@@ -11,7 +11,7 @@
 ## Ingredients
 - 750 ml milk (ideally goats)
 - 1 heaped teaspoon fennel seeds (crushed)
-- 1 small cinnamon stick (broken)
+- 1 cinnamon stick (small, broken)
 - 150 grams caster sugar
 - 1 orange zest (finely grated)
 - 1 lemon zest (finely grated)

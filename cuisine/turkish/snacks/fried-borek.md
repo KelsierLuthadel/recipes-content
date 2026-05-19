@@ -14,7 +14,7 @@ Fried börek are Turkish-influenced pastries that combine simple pastry (made fr
 ## Ingredients
 
 ### Meat Filling
-- 1 medium onion (approximately 120 grams, very finely chopped)
+- 1 onion (medium, approximately 120 grams, very finely chopped)
 - 1 tablespoon groundnut oil
 - 1 garlic clove (very finely chopped)
 - 120 grams ground meat (lamb or beef preferred; pork acceptable)
@@ -29,7 +29,7 @@ Fried börek are Turkish-influenced pastries that combine simple pastry (made fr
 - 225 grams all-purpose flour
 - 1 teaspoon fine sea salt
 - 75 milliliters lukewarm water
-- 1-2 tablespoons additional oil (for rolling pin rubbing)
+- 1-2 tablespoons oil (for rolling pin rubbing)
 
 ### For Frying
 - Oil for deep frying (approximately 1 ½-2 liters; groundnut or vegetable oil)

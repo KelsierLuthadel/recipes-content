@@ -17,7 +17,7 @@ A simple flour-egg-oil dough kneads until silky, rests so the gluten relaxes, th
 
 ### Strudel dough
 - 250 g strong white flour (high gluten)
-- 1 large egg
+- 1 egg (large)
 - 2 tablespoons sunflower oil
 - 130 ml warm water
 - ½ teaspoon salt
@@ -27,7 +27,7 @@ A simple flour-egg-oil dough kneads until silky, rests so the gluten relaxes, th
 - 1.2 kg tart apples (Bramley, Granny Smith, or Boskoop; peeled, cored)
 - 100 g caster sugar
 - 2 teaspoons ground cinnamon
-- Zest of 1 lemon
+- 1 lemon (zest)
 - 1 tablespoon lemon juice
 - 80 g raisins (soaked in 3 tablespoons rum or apple juice for 30 minutes)
 - 60 g walnuts (roughly chopped)

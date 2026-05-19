@@ -17,7 +17,7 @@ Fine bulgur soaks for 30 minutes. Lamb mince blends with bulgur, grated onion, a
 ### Shell
 - 300 g fine bulgur (#1 grade)
 - 400 g lamb mince (lean)
-- 1 medium onion (grated, juices reserved)
+- 1 onion (medium, grated, juices reserved)
 - 1 ½ teaspoons ground allspice
 - ½ teaspoon ground black pepper
 - 1 ½ teaspoons salt
@@ -26,7 +26,7 @@ Fine bulgur soaks for 30 minutes. Lamb mince blends with bulgur, grated onion, a
 ### Filling
 - 250 g lamb mince
 - 2 tablespoons olive oil
-- 1 medium onion (finely chopped)
+- 1 onion (medium, finely chopped)
 - 3 garlic cloves (crushed)
 - 1 ½ teaspoons baharat
 - 40 g pine nuts (toasted)
@@ -36,7 +36,7 @@ Fine bulgur soaks for 30 minutes. Lamb mince blends with bulgur, grated onion, a
 - 2 tablespoons fresh parsley (chopped)
 
 ### To finish
-- 4 tablespoons samna or melted butter (for drizzling)
+- 4 tablespoons samna (or melted butter, for drizzling)
 
 ## Method
 

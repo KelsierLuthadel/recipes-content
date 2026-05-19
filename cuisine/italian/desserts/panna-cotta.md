@@ -20,7 +20,7 @@ Powdered gelatin blooms in cold milk 5 minutes. Double cream, the remaining milk
 - 500 ml double cream
 - 150 ml whole milk (additional, for the mixture)
 - 80 g caster sugar
-- 1 vanilla pod (split lengthwise, seeds scraped) - or 2 teaspoons vanilla bean paste
+- 1 vanilla pod (split lengthwise, seeds scraped, or 2 teaspoons vanilla bean paste)
 - A pinch of salt
 
 ### Berry compote

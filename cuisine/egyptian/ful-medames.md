@@ -22,20 +22,20 @@ Whole dried fava beans soak overnight, then simmer slowly until the skins soften
 
 ### To finish
 - 6 garlic cloves (crushed to paste with a pinch of salt)
-- Juice of 2 lemons
+- 2 lemons (juice)
 - 1 teaspoon ground cumin
-- ½ teaspoon hot paprika or chilli flakes
+- ½ teaspoon hot paprika (or chilli flakes)
 - 1 teaspoon salt (or to taste)
 - 5 tablespoons extra-virgin olive oil
 - 4 hard-boiled eggs (halved, optional)
 
 ### Toppings
-- 2 medium tomatoes (diced)
-- 1 small red onion (finely chopped)
+- 2 tomatoes (medium, diced)
+- 1 red onion (small, finely chopped)
 - A small bunch of flat-leaf parsley (chopped)
 - 4 tablespoons tahini sauce (optional)
 - Pickled chillies
-- Warm pita or aysh baladi (Egyptian bread)
+- Warm pita (or aysh baladi, Egyptian bread)
 
 ## Method
 

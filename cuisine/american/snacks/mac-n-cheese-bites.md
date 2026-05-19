@@ -19,8 +19,8 @@ Make a stiff mac-and-cheese, sharp cheddar, parmesan, a touch of mustard, just e
 - 50 g unsalted butter
 - 40 g plain flour
 - 500 ml whole milk (warm)
-- 250 g mature cheddar (grated)
-- 50 g parmesan (finely grated)
+- 250 g mature cheddar cheese (grated)
+- 50 g parmesan cheese (finely grated)
 - 1 teaspoon Dijon mustard
 - ½ teaspoon ground white pepper
 - ½ teaspoon salt
@@ -28,7 +28,7 @@ Make a stiff mac-and-cheese, sharp cheddar, parmesan, a touch of mustard, just e
 
 ### Breading
 - 100 g plain flour
-- 2 large eggs (beaten with 2 tablespoons milk)
+- 2 eggs (large, beaten with 2 tablespoons milk)
 - 200 g panko breadcrumbs
 - 1 teaspoon paprika
 - 1 teaspoon garlic powder
@@ -38,7 +38,7 @@ Make a stiff mac-and-cheese, sharp cheddar, parmesan, a touch of mustard, just e
 - 800 ml neutral oil
 
 ### To serve
-- Ranch dressing or chipotle mayonnaise
+- Ranch dressing (or chipotle mayonnaise)
 - Hot sauce
 
 ## Method

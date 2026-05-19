@@ -15,9 +15,9 @@ Whole black urad lentils and a small handful of red kidney beans are soaked over
 ## Ingredients
 
 ### Lentils
-- 250 g whole black urad dal (also sold as kali dal or sabut urad)
+- 250 g whole black urad dal
 - 50 g red kidney beans (rajma)
-- 1.5 litres water (for cooking)
+- 1 ½ litres water (for cooking)
 - 1 teaspoon salt (added late)
 - ½ teaspoon turmeric
 
@@ -46,14 +46,14 @@ Whole black urad lentils and a small handful of red kidney beans are soaked over
 - A swirl of cream
 - A small knob of butter
 - A handful of coriander
-- Naan or rice
+- Naan (or rice)
 
 ## Method
 
 ### Stage 1 - Soak and cook the lentils
 1. Rinse the urad dal and kidney beans, then soak overnight in plenty of cold water.
 1. Drain and rinse again.
-1. Place in a large heavy pot with 1.5 litres of water, the turmeric and a teaspoon of salt.
+1. Place in a large heavy pot with 1 ½ litres of water, the turmeric and a teaspoon of salt.
 1. Bring to a boil, skim any foam, then reduce to a low simmer.
 1. Cover partially and cook for 1 hour 30 minutes to 2 hours, until the urad is completely soft and starting to break (a pressure cooker reduces this to 30 minutes).
 1. Mash a quarter of the lentils against the side of the pot to thicken the cooking liquor.

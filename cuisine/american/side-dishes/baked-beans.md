@@ -14,9 +14,9 @@ Navy beans soak overnight. Bacon and onion render in a wide pot; cooked beans go
 
 ## Ingredients
 
-- 400 g dried navy beans (or haricot) - soaked 12 hours, drained
+- 400 g dried navy beans (or haricot, soaked 12 hours, drained)
 - 200 g smoked streaky bacon (or pancetta - cut into 1 cm pieces)
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 4 tablespoons molasses (blackstrap if you have it; black treacle works)
 - 4 tablespoons tomato puree
 - 3 tablespoons soft dark brown sugar
@@ -26,7 +26,7 @@ Navy beans soak overnight. Bacon and onion render in a wide pot; cooked beans go
 - 1 teaspoon smoked paprika
 - 1 teaspoon salt (to taste)
 - ½ teaspoon ground black pepper
-- 700 ml hot beef or chicken stock (more as needed)
+- 700 ml hot beef stock (or chicken stock, more as needed)
 
 ## Method
 

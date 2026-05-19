@@ -16,14 +16,15 @@ The Sunday-lunch counterpart to goat curry across Jamaica; not curry-driven but 
 
 ### Marinade
 - ½ medium yellow onion (chopped)
-- 1 large bell pepper (chopped)
+- 1 bell pepper (large, chopped)
 - 4 spring onions (chopped)
 - 6 garlic cloves (minced) or 1 tablespoon garlic paste
 - 1 tablespoon brown sugar
 - 1 teaspoon smoked paprika
 - ½ teaspoon ground allspice
 - ½ teaspoon ground ginger
-- Salt and pepper
+- salt
+- pepper
 
 ### Chicken
 - 8-9 chicken pieces (legs + boneless skinless thighs)
@@ -31,7 +32,7 @@ The Sunday-lunch counterpart to goat curry across Jamaica; not curry-driven but 
 - 3 tablespoons vegetable oil
 
 ### Braise
-- 2 medium carrots (chopped)
+- 2 carrots (medium, chopped)
 - 1 can (240 ml) tomato sauce
 - 4-6 sprigs fresh thyme
 - 2 bay leaves
@@ -61,7 +62,7 @@ The Sunday-lunch counterpart to goat curry across Jamaica; not curry-driven but 
 
 ### Stage 4 - Braise
 1. Cover; reduce to medium-low.
-1. Simmer 1.5-2 hours until the chicken is meltingly tender and falling from the bone.
+1. Simmer 1 ½-2 hours until the chicken is meltingly tender and falling from the bone.
 
 ### Stage 5 - Finish
 1. Discard the thyme sprigs, bay leaves and Scotch bonnet.

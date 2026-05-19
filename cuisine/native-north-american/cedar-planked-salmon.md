@@ -14,7 +14,7 @@ A food-safe cedar plank submerges in water for an hour. The salmon (skin on, one
 
 ## Ingredients
 
-- 1 large salmon fillet (around 800 g), skin on, pin bones removed
+- 1 salmon fillet (large, around 800 g), skin on, pin bones removed
 - 1 untreated cedar plank (around 30 x 15 cm)
 
 ### Cure
@@ -25,7 +25,7 @@ A food-safe cedar plank submerges in water for an hour. The salmon (skin on, one
 
 ### Glaze
 - 4 tablespoons pure maple syrup
-- Zest of 1 lemon
+- 1 lemon (zest)
 - 1 teaspoon Dijon mustard
 
 ### To finish

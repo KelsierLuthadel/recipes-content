@@ -20,12 +20,12 @@ Sambal belacan represents the true umami heart of Southeast Asian cooking. Belac
 ### Primary Ingredients
 - 4-5 fresh red chillies (medium to large, depending on heat preference)
 - 1-1 ½ cm cube of belacan (fermented shrimp paste, approximately 15-18 grams)
-- Juice of ½ lime (or full lime, about 1 ½-2 tablespoons, to taste)
+- ½ lime (or full lime, about 1 ½-2 tablespoons, to taste, juice)
 - ¼ teaspoon fine sea salt (adjust to taste)
 
 ### Optional Additions
 - 1 garlic clove (crushed; for additional pungency)
-- ½ teaspoon palm sugar or regular sugar (to balance umami)
+- ½ teaspoon palm sugar (or regular sugar, to balance umami)
 
 ## Method
 

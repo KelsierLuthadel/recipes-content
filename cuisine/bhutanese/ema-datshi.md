@@ -16,7 +16,7 @@ A dish defined by an honest premise: chillies and cheese, in roughly equal volum
 
 ### Main
 - 150 g blue cheese (Stilton or Gorgonzola)
-- 6 medium red potatoes (sliced into thin rounds)
+- 6 red potatoes (medium, sliced into thin rounds)
 - 1.1 kg beef top round (cut into bite-sized pieces)
 - 10 jalapeños (or similar spicy green chillies, halved lengthways, stems removed; reduce to 4-5 for milder palates)
 - 8 garlic cloves (smashed)
@@ -27,7 +27,7 @@ A dish defined by an honest premise: chillies and cheese, in roughly equal volum
 
 ### Optional traditional finish
 - 1 teaspoon ground Sichuan pepper (emma)
-- 4 slices American or cheddar cheese (for the yellow tinge)
+- 4 slices cheddar cheese (for the yellow tinge)
 - 30 g butter (for richness)
 
 ## Method

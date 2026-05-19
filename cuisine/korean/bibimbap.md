@@ -21,8 +21,8 @@ Each vegetable cooks separately and gets dressed with sesame oil, garlic and soy
 - 200 g spinach
 - 200 g bean sprouts
 - 1 carrot (julienned)
-- 200 g shiitake or chestnut mushrooms (sliced)
-- 1 small courgette (julienned)
+- 200 g shiitake (or chestnut mushrooms, sliced)
+- 1 courgette (small, julienned)
 
 ### Seasoning (used across vegetables)
 - 4 tablespoons toasted sesame oil
@@ -32,7 +32,7 @@ Each vegetable cooks separately and gets dressed with sesame oil, garlic and soy
 - Salt
 
 ### Beef (optional)
-- 200 g rib-eye or sirloin (very thinly sliced)
+- 200 g rib-eye (or sirloin, very thinly sliced)
 - 1 tablespoon soy sauce
 - 1 tablespoon sugar
 - 1 teaspoon sesame oil

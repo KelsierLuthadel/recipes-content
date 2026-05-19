@@ -27,7 +27,8 @@ A delicate, wine-based sauce with fruity port and umami-rich mushrooms balanced 
 - 250 ml ruby port
 - dried zest of ¼ of an orange (see notes)
 - 300 ml Veal stock
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

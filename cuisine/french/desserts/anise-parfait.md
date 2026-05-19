@@ -13,7 +13,7 @@
 - 50 grams caster sugar
 - 100 ml whipping cream
 - 100 ml double cream
-- 30 ml Ricard or Pernod
+- 30 ml Ricard (or Pernod)
 
 ### to serve
 - 100 ml strawberry coulis

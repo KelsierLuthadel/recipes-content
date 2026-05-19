@@ -14,9 +14,9 @@ A quick and elegant stir-fry that balances savoury oyster sauce with tender beef
 ## Ingredients
 
 ### Beef & Marinade
-- 350 grams lean beef steak (thinly sliced)
+- 350 grams rump steak (thinly sliced)
 - 2 teaspoons light soy sauce
-- 2 teaspoons dry sherry or rice wine
+- 2 teaspoons dry sherry (or rice wine)
 - 1 teaspoon cornflour
 
 ### Sauce

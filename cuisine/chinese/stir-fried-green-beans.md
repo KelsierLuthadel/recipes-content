@@ -20,7 +20,7 @@ Beans dry-fry in just a thin slick of oil over high heat for 6-8 minutes, they n
 - 2 cm fresh ginger (finely chopped)
 - 6 dried red chillies (left whole)
 - 1 teaspoon Sichuan peppercorns
-- 50 g zhacai (Sichuan preserved mustard tuber; rinsed and chopped) - optional but classic
+- 50 g zhacai (Sichuan preserved mustard tuber; rinsed and chopped)
 - 1 tablespoon Shaoxing rice wine (or dry sherry)
 - 1 tablespoon light soy sauce
 - 1 teaspoon dark soy sauce

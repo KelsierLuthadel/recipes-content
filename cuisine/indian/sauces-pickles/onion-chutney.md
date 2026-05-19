@@ -14,7 +14,7 @@ This is simplicity and technique combined. Paper-thin raw onion slices, chilled 
 ## Ingredients
 
 ### Onion Base
-- 1 large onion (finely sliced, about 200 grams)
+- 1 onion (large, finely sliced, about 200 grams)
 - Ice cubes (for chilling)
 
 ### Red Sauce

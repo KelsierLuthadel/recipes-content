@@ -14,11 +14,11 @@ Aubergines char on an open flame until skin is uniformly black and flesh is coll
 
 ## Ingredients
 
-- 2 large aubergines (about 700 g)
+- 2 aubergines (large, about 700 g)
 - 5 tablespoons tahini (good Lebanese / Palestinian quality)
 - 3 tablespoons Greek yogurt
 - 2 garlic cloves (crushed to a paste with ½ tsp salt)
-- Juice of 1 lemon
+- 1 lemon (juice)
 - ½ teaspoon ground cumin
 - ½ teaspoon salt (to taste)
 

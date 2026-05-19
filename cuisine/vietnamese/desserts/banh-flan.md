@@ -23,15 +23,15 @@ A simple custard of whole eggs, condensed milk and evaporated milk is poured ove
 ### Custard
 - 4 whole eggs
 - 2 egg yolks
-- 1 x 397 g tin sweetened condensed milk
-- 1 x 410 g tin evaporated milk (or 400 ml whole milk for a lighter flan)
+- 397 g tin sweetened condensed milk
+- 410 g tin evaporated milk (or 400 ml whole milk for a lighter flan)
 - 1 teaspoon vanilla extract
 - ½ teaspoon instant coffee granules (optional but traditional)
 - A pinch of fine sea salt
 
 ### To serve
 - Crushed ice
-- A small jug of strong black coffee (optional but classic)
+- A jug of strong black coffee (small, optional but classic)
 - 4 tablespoons coconut cream (optional)
 
 ## Method

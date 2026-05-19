@@ -19,9 +19,9 @@ Nuoc cham represents Vietnamese cooking philosophy distilled to its essence. Thi
 ### Primary Components
 - 2-3 fresh red chillies (medium to large, depending on heat preference)
 - 2-3 garlic cloves (fresh, pungent)
-- 1 ½-2 tablespoons granulated sugar (white or light brown)
-- 3 tablespoons Vietnamese or Thai fish sauce
-- Juice of 1-1 ½ limes (approximately 2-3 tablespoons)
+- 1 tablespoon granulated sugar (white or light brown)
+- 3 tablespoons Vietnamese (or Thai fish sauce)
+- 1-1 ½ limes (approximately 2-3 tablespoons, juice)
 - Pinch of fine sea salt (adjust to taste)
 
 ### Optional Additions

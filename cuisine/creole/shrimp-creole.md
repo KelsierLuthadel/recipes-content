@@ -16,13 +16,13 @@ The trinity (onion, celery, green pepper) softens in butter; garlic, Creole seas
 
 ### Sauce
 - 50 g unsalted butter
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 3 celery sticks (chopped)
 - 1 green pepper (chopped)
 - 6 garlic cloves (crushed)
 - 2 tablespoons tomato paste
-- 1 x 400 g tin chopped tomatoes
-- 400 ml seafood, chicken or vegetable stock
+- 400 g tin chopped tomatoes
+- 400 ml seafood, chicken (or vegetable stock)
 - 2 bay leaves
 - 4 sprigs fresh thyme
 - 2 teaspoons Creole seasoning (or 1 tsp paprika + ½ tsp each cayenne, garlic powder, oregano, salt, black pepper)
@@ -32,7 +32,7 @@ The trinity (onion, celery, green pepper) softens in butter; garlic, Creole seas
 
 ### To finish
 - 600 g raw prawns (shelled, deveined; tails on)
-- Juice of half a lemon
+- ½ lemon (juice)
 - 4 spring onions (sliced)
 - A small bunch of flat-leaf parsley (chopped)
 

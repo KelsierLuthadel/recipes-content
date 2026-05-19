@@ -19,7 +19,7 @@ A customizable British curry-house special balti, mixing pre-cooked meats, seafo
 ### Base
 - 3 tbsp rapeseed (canola) oil
 - ½ onion, finely chopped
-- 1 large tomato, diced
+- 1 tomato (large), diced
 - 2 green chillies, finely chopped
 
 ### Proteins and veggies
@@ -34,7 +34,7 @@ A customizable British curry-house special balti, mixing pre-cooked meats, seafo
 - 2 tbsp tomato purée
 - 1 tsp paprika
 - ½ tsp ground turmeric
-- 1 tsp mixed powder or curry powder
+- 1 tsp mixed powder (or curry powder)
 - 1 tsp chilli powder (optional)
 - 150 ml (generous ½ cup) base curry sauce, heated
 - 100 ml (3 ½ fl oz) thick coconut milk
@@ -42,7 +42,7 @@ A customizable British curry-house special balti, mixing pre-cooked meats, seafo
 ### Finishers
 - Salt, to taste
 - ½ tsp dried fenugreek leaves (kasoori methi)
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ## Method
 

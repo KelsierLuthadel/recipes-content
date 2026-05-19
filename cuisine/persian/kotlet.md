@@ -15,10 +15,10 @@ A medium potato grates fine (on a box grater); a small onion grates the same way
 ## Ingredients
 
 - 500 g beef mince (or lamb mince, or 50/50)
-- 1 medium potato (peeled - about 250 g)
-- 1 medium onion (peeled - about 150 g)
+- 1 potato (medium, peeled - about 250 g)
+- 1 onion (medium, peeled - about 150 g)
 - 2 garlic cloves (crushed)
-- 2 large eggs
+- 2 eggs (large)
 - 1 ½ teaspoons ground turmeric
 - ¼ teaspoon ground cinnamon
 - 2 teaspoons salt
@@ -26,8 +26,8 @@ A medium potato grates fine (on a box grater); a small onion grates the same way
 - 4 tablespoons sunflower oil (for frying)
 
 ### To serve
-- Sangak, taftoon or flatbread
-- 2 medium tomatoes (sliced)
+- Sangak, taftoon (or flatbread)
+- 2 tomatoes (medium, sliced)
 - 1 small bunch radishes (sliced or whole)
 - A handful fresh parsley sprigs
 - A handful fresh mint

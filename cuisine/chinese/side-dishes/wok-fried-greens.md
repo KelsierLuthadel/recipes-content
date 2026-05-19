@@ -15,7 +15,7 @@ A wok or wide pan is heated very hot; oil goes in; garlic and ginger flash; the 
 ## Ingredients
 
 - 200 g tenderstem broccoli (trimmed; thicker stems halved lengthwise)
-- 2 small heads bok choy or pak choi (around 200 g; halved lengthwise)
+- 2 small heads bok choy (or pak choi, around 200 g; halved lengthwise)
 - 100 g sugar snap peas
 - 2 tablespoons vegetable oil
 - 4 garlic cloves (sliced thin)

@@ -9,7 +9,7 @@
 **Cook Time:** 1 minutes
 
 ## Ingredients
-- 6 William or conference pears (ripe)
+- 6 William (or conference pears, ripe)
 - 1 lemon juice
 - 400 grams caster sugar
 - 1 cinnamon stick (broken up)

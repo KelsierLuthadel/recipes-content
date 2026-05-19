@@ -15,12 +15,12 @@ A torn pita is brushed with olive oil and grilled or fried until golden and cris
 ## Ingredients
 
 ### Salad
-- 1 large pita (or 2 small ones)
+- 1 pita (large, or 2 small ones)
 - 2 tablespoons olive oil (for the pita)
-- 1 large cucumber (deseeded, diced)
-- 4 small tomatoes (or 2 large) - diced
+- 1 cucumber (large, deseeded, diced)
+- 4 tomatoes (small, or 2 large, diced)
 - 6 radishes (sliced thin)
-- 1 small romaine heart (chopped)
+- 1 romaine heart (small, chopped)
 - 4 spring onions (sliced thin)
 - 1 small handful fresh parsley (chopped)
 - 1 small handful fresh mint (chopped)
@@ -31,7 +31,7 @@ A torn pita is brushed with olive oil and grilled or fried until golden and cris
 - 2 tablespoons lemon juice
 - 1 tablespoon pomegranate molasses
 - 2 teaspoons sumac
-- 1 small garlic clove (crushed)
+- 1 garlic clove (small, crushed)
 - ½ teaspoon salt
 - ¼ teaspoon ground black pepper
 

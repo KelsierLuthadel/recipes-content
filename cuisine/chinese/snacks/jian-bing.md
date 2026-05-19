@@ -24,7 +24,7 @@ A thin batter of mung-bean flour, millet flour, plain flour, water, salt and fiv
 - 500 ml cold water (more if needed)
 
 ### Per crepe
-- 1 large egg
+- 1 egg (large)
 - 2 teaspoons toasted black sesame seeds
 - 1 teaspoon white sesame seeds
 - 2 tablespoons chopped spring onion (green and white parts)

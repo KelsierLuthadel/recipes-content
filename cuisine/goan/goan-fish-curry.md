@@ -18,7 +18,7 @@ A Goan coconut masala paste is ground from soaked Kashmiri chillies, coriander s
 - 600 g firm white fish (pomfret, mackerel, kingfish, snapper or sea bream; cut into steaks or 4 cm chunks)
 - ½ teaspoon turmeric
 - 1 teaspoon salt
-- Juice of ½ lime
+- ½ lime (juice)
 
 ### Masala paste
 - 12 dried Kashmiri chillies

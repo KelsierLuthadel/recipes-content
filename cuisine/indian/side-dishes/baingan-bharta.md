@@ -13,10 +13,10 @@
 A whole aubergine is charred directly over a gas flame until the skin is blackened and the flesh inside is soft. The charred skin is peeled off and the flesh roughly mashed. A masala of onion, garlic, ginger, green chilli and tomato is cooked down to a thick base, and the smoky aubergine flesh is folded through with a finishing touch of garam masala and coriander. Vegetable-side or vegetarian main; the smoke is what makes it.
 
 ## Ingredients
-- 1 large aubergine (about 500 g)
+- 1 aubergine (large, about 500 g)
 - 2 tablespoons ghee (or oil)
 - 1 teaspoon cumin seeds
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 4 garlic cloves (finely chopped)
 - 25 g fresh ginger (finely grated)
 - 2 green chillies (finely chopped)
@@ -29,7 +29,7 @@ A whole aubergine is charred directly over a gas flame until the skin is blacken
 - A handful of coriander (chopped, plus extra to serve)
 
 ### To serve
-- Roti or paratha
+- Roti (or paratha)
 - A wedge of lime
 
 ## Method

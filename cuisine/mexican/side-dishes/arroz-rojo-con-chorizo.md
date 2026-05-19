@@ -15,7 +15,7 @@ Mexican chorizo is rendered in the pan to release its red, paprika-laden oil. On
 ## Ingredients
 - 200 g Mexican chorizo (or Spanish chorizo, diced or crumbled from casing)
 - 1 tablespoon olive oil (only if Spanish chorizo, which releases less fat)
-- 1 small onion (finely diced)
+- 1 onion (small, finely diced)
 - 3 garlic cloves (finely chopped)
 - 300 g long-grain white rice (rinsed until the water runs clear, drained)
 - 2 tablespoons tomato paste

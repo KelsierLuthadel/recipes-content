@@ -17,7 +17,7 @@ Dried chickpeas soak in cold water 24 hours, the long soak hydrates them fully w
 
 ### Falafel
 - 250 g dried chickpeas (soaked in plenty of cold water 24 hours; not tinned)
-- 1 medium onion (roughly chopped)
+- 1 onion (medium, roughly chopped)
 - 4 garlic cloves
 - 1 green chilli (deseeded for mild, kept for hot)
 - 1 large handful flat-leaf parsley (about 30 g)
@@ -29,7 +29,7 @@ Dried chickpeas soak in cold water 24 hours, the long soak hydrates them fully w
 - ½ teaspoon black pepper
 - 1 ½ teaspoons salt
 - 1 tablespoon sesame seeds (optional, for texture)
-- 1 tablespoon plain flour or chickpea flour
+- 1 tablespoon plain flour (or chickpea flour)
 - ¾ teaspoon bicarbonate of soda (added just before frying)
 
 ### Tahini-yoghurt sauce
@@ -38,19 +38,19 @@ Dried chickpeas soak in cold water 24 hours, the long soak hydrates them fully w
 - 2 tablespoons lemon juice
 - 1 garlic clove (crushed)
 - Salt
-- A tablespoon or two of cold water (to loosen)
+- A tablespoon (or two of cold water, to loosen)
 
 ### To serve
 - 4 warm samoon (or pita / khobz)
 - 2 tomatoes (sliced)
-- 1 small cucumber (sliced)
-- 1 small red onion (thinly sliced)
+- 1 cucumber (small, sliced)
+- 1 red onion (small, thinly sliced)
 - 4 tablespoons amba (Iraqi mango pickle; optional but signature)
 - 1 small handful parsley
 - 1 teaspoon sumac
 
 ### To fry
-- 1 litre vegetable or sunflower oil
+- 1 litre vegetable oil (or sunflower oil)
 
 ## Method
 

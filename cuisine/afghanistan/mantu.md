@@ -16,7 +16,7 @@ Lamb mince fries with onion and spices; cools. A simple flour dough rolls thin a
 
 ### Filling
 - 400 g lamb mince
-- 1 large onion (very finely chopped)
+- 1 onion (large, very finely chopped)
 - 4 garlic cloves (crushed)
 - 1 ½ teaspoons ground cumin
 - 1 teaspoon ground coriander
@@ -37,7 +37,7 @@ Lamb mince fries with onion and spices; cools. A simple flour dough rolls thin a
 
 ### Qorma topping
 - 100 g yellow split peas (chana dal, soaked 1 hour, drained)
-- 1 small onion (finely chopped)
+- 1 onion (small, finely chopped)
 - 2 tablespoons vegetable oil
 - 1 (200 g) tin chopped tomatoes
 - 1 tablespoon tomato puree

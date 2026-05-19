@@ -21,20 +21,20 @@ Pork belly cooks slow with its own fat (rendered chicharrón); cassava boils in 
 - 1 teaspoon ground black pepper
 
 ### Yuca
-- 1 kg yuca / cassava (peeled, cut into 6-8 cm pieces)
+- 1 kg yuca (peeled, cut into 6-8 cm pieces)
 - 1 teaspoon salt
 
 ### Curtido
 - 200 g white cabbage (finely shredded)
 - 1 carrot (grated)
-- 1 small red onion (very thinly sliced)
+- 1 red onion (small, very thinly sliced)
 - 3 tablespoons white vinegar
 - ½ teaspoon salt
 - ½ teaspoon dried oregano
 
 ### To serve
 - 2 limes (cut into wedges)
-- A small dish of salsa picante or chimol
+- A dish of salsa picante (small, or chimol)
 
 ## Method
 

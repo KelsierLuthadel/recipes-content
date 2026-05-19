@@ -16,7 +16,7 @@ Queso costeño (or feta-style salty cheese) mixes with cornstarch flour (almidó
 - 250 g queso costeño (or substitute: 200 g feta + 50 g mature cheddar, both finely crumbled / grated)
 - 250 g cornstarch flour (almidón de yuca / tapioca starch / mandioca flour)
 - 50 g cornmeal (fine)
-- 1 large egg
+- 1 egg (large)
 - 1 ½ tablespoons caster sugar
 - 1 teaspoon baking powder
 - ½ teaspoon salt (less if your cheese is very salty)

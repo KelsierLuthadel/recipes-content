@@ -18,13 +18,13 @@ Red cabbage shreds fine, then braises low and slow with grated apple, red wine v
 ### Cabbage
 - 1 kg red cabbage (about 1 small head; quartered, cored and finely shredded)
 - 2 tart apples (Bramley or Granny Smith; peeled, cored, coarsely grated)
-- 1 large onion (finely chopped)
-- 50 g unsalted butter or 3 tablespoons goose fat
+- 1 onion (large, finely chopped)
+- 50 g unsalted butter (or 3 tablespoons goose fat)
 
 ### Braising liquid and aromatics
 - 4 tablespoons red wine vinegar
 - 150 ml dry red wine
-- 200 ml water or apple juice
+- 200 ml water (or apple juice)
 - 3 tablespoons caster sugar (or 2 tablespoons redcurrant jelly)
 - 1 cinnamon stick
 - 4 whole cloves

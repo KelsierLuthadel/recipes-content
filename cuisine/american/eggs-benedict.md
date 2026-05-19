@@ -16,21 +16,21 @@ Hollandaise builds first (it can wait briefly in a warm spot). Eggs poach in vin
 
 ### Hollandaise
 - 200 g unsalted butter
-- 3 large egg yolks
+- 3 egg yolks (large)
 - 1 tablespoon water
 - 1 tablespoon lemon juice
 - A pinch of salt
 - A pinch of cayenne
 
 ### Poached eggs
-- 8 large eggs (very fresh)
+- 8 eggs (large, very fresh)
 - 2 tablespoons white wine vinegar
 - 1 teaspoon salt
 
 ### To assemble
 - 4 English muffins (split in half)
 - 8 slices good ham (or smoked salmon)
-- 1 tablespoon chopped chives or parsley
+- 1 tablespoon chopped chives (or parsley)
 
 ## Method
 

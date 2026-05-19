@@ -15,9 +15,9 @@ A whole chicken is slashed to the bone and rubbed with a yogurt-based marinade t
 ## Ingredients
 
 ### Chicken
-- 1 whole chicken (about 1.5 kg)
+- 1 whole chicken (about 1 ½ kg)
 - 2 teaspoons salt (for rubbing)
-- Juice of 1 lemon
+- 1 lemon (juice)
 
 ### Marinade
 - 200 g natural yogurt (thick; strained if loose)
@@ -33,7 +33,7 @@ A whole chicken is slashed to the bone and rubbed with a yogurt-based marinade t
 - 2 tablespoons mustard oil (or vegetable oil)
 - 1 tablespoon gram flour (besan; for thickening and the flavour)
 - 2 teaspoons salt
-- A few drops of orange or red food colouring (traditional but optional)
+- A few drops of orange (or red food colouring, traditional but optional)
 
 ### To cook
 - 2 litres vegetable oil (for deep-frying)
@@ -42,7 +42,7 @@ A whole chicken is slashed to the bone and rubbed with a yogurt-based marinade t
 - Mint-yogurt raita
 - Sliced red onion
 - Lemon wedges
-- Naan or roti
+- Naan (or roti)
 
 ## Method
 

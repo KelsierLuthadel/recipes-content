@@ -19,14 +19,15 @@ Bucatini Carbonara is a masterclass in simplicity and technique. Five ingredient
 - 15 grams salted butter
 
 ### Egg Sauce
-- 4 large eggs
-- 4 tablespoons Pecorino Romano (freshly grated)
-- Salt and freshly ground black pepper to taste
+- 4 eggs (large)
+- 4 tablespoons pecorino romano (freshly grated)
+- salt
+- pepper
 
 ### Pasta & Garnish
 - 500 grams bucatini
 - 4 tablespoons fresh flat-leaf parsley (finely chopped)
-- Additional Pecorino Romano for serving
+- Pecorino Romano for serving
 
 ## Method
 

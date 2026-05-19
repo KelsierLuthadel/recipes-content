@@ -24,16 +24,16 @@ A whole chicken or chicken pieces marinate in olive oil, sumac, allspice and lem
 - 1 teaspoon ground cardamom
 - 1 ½ teaspoons salt
 - ½ teaspoon black pepper
-- Juice of 1 lemon
+- 1 lemon (juice)
 
 ### Onions
-- 6 large onions (around 1.2 kg; sliced thin)
+- 6 onions (large, around 1.2 kg; sliced thin)
 - 150 ml olive oil
 - 4 tablespoons sumac (plus more for sprinkling)
 - 1 teaspoon salt
 
 ### To assemble
-- 2 large taboon breads or 4 flatbreads (around 30 cm; or pita rounds)
+- 2 taboon breads (large, or 4 flatbreads, around 30 cm; or pita rounds)
 - 100 g pine nuts (toasted in a dry pan)
 - A small bunch of flat-leaf parsley (chopped)
 

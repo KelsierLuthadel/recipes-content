@@ -22,7 +22,7 @@ Tarte Tatin is an upside-down caramel apple tart with a crisp pastry lid and sof
 - 3 free-range egg yolks
 
 ### Filling
-- 6 Cox or 4 Granny Smith apples (peeled, cored and cut into 8-12 wedges)
+- 6 Cox (or 4 Granny Smith apples, peeled, cored and cut into 8-12 wedges)
 - ¼ lemon
 - 110 grams caster sugar
 - 110 grams butter

@@ -31,7 +31,7 @@ This classic tomato soup is rich, comforting, and versatile, made with fresh tom
 - 900 grams ripe tomatoes
 
 ### Aromatics
-- 1 large garlic clove (crushed)
+- 1 garlic clove (large, crushed)
 - small bunch of fresh basil (chopped)
 - small bunch of tarragon (chopped)
 - 1 bay leaf
@@ -41,7 +41,8 @@ This classic tomato soup is rich, comforting, and versatile, made with fresh tom
 
 ### Seasonings
 - 750 ml chicken stock
-- salt and freshly ground black pepper
+- salt
+- pepper
 - 1 tablespoon tomato purée
 
 ## Method

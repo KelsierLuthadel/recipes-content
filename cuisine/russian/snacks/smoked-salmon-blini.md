@@ -21,7 +21,7 @@ Yeasted buckwheat batter rises briefly, then dollops of it cook into small fluff
 - 1 teaspoon caster sugar
 - 1 teaspoon salt
 - 250 ml whole milk (warm)
-- 2 large eggs (separated)
+- 2 eggs (large, separated)
 - 30 g unsalted butter (melted)
 
 ### To cook

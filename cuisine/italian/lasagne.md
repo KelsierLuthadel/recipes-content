@@ -16,7 +16,7 @@ A rich, layered Italian baked pasta combining slow-cooked meat ragù with silky 
 ## Ingredients
 - 3 tablespoons of olive oil
 - 1 onion (peeled and finely chopped)
-- 1 large carrot (peeled and finely chopped)
+- 1 carrot (large, peeled and finely chopped)
 - 1 celery stick (finely chopped)
 - 500 grams minced beef
 - 350 ml Italian red wine
@@ -24,21 +24,22 @@ A rich, layered Italian baked pasta combining slow-cooked meat ragù with silky 
 - 1 tablespoon tomato purée
 - 12 fresh lasagne sheets
 - 50 grams cold salted butter (cut into 1 cm cubes)
-- salt and pepper to taste
+- salt
+- pepper
 
 **For the béchamel**
 - 100 grams salted butter
 - 100 grams plain flour
 - 1 litre cold full-fat milk
 - ¼ teaspoon nutmeg (freshly grated)
-- 100 grams Parmesan (freshly grated)
+- 100 grams Parmesan cheese (freshly grated)
 
 **For the pesto**
 - 40 grams fresh basil leaves
 - 1 garlic clove (peeled)
 - 30 grams pine nuts
 - 120 ml extra virgin olive oil
-- 20 grams Parmesan (freshly grated)
+- 20 grams Parmesan cheese (freshly grated)
 - pinch of salt
 
 ## Method

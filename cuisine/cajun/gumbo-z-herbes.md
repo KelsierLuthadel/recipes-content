@@ -19,7 +19,7 @@ A dark roux is built first, flour cooked in oil to peanut-butter brown. The Caju
 - 80 g plain flour
 
 ### Trinity and aromatics
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 4 celery sticks (chopped)
 - 1 green pepper (chopped)
 - 6 garlic cloves (crushed)
@@ -31,7 +31,7 @@ A dark roux is built first, flour cooked in oil to peanut-butter brown. The Caju
 
 ### Greens
 - 1 bunch collard greens (around 250 g; tough stems removed; chopped)
-- 1 bunch mustard greens or turnip tops (around 200 g; chopped)
+- 1 bunch mustard greens (or turnip tops, around 200 g; chopped)
 - 1 bunch kale (around 200 g; chopped)
 - 1 bunch flat-leaf parsley (chopped)
 - 200 g spinach (chopped)

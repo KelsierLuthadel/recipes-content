@@ -21,17 +21,18 @@ Onions are softened with garlic and ras el hanout. Carrots, parsnips, potato and
 - 2 tablespoons ras el hanout
 - 1 teaspoon ground cinnamon
 - ½ teaspoon ground turmeric
-- 2 medium carrots (cut into 3 cm chunks)
+- 2 carrots (medium, cut into 3 cm chunks)
 - 2 parsnips (cut into 3 cm chunks)
 - 300 g butternut squash (peeled and cubed)
-- 2 medium potatoes (peeled and cubed)
-- 1 x 400 g tin chickpeas (drained)
-- 1 x 400 g tin chopped tomatoes
+- 2 potatoes (medium, peeled and cubed)
+- 400 g tin chickpeas (drained)
+- 400 g tin chopped tomatoes
 - 100 g dried apricots (halved)
 - 600 ml vegetable stock
-- 1 small preserved lemon (rind only, finely chopped)
+- 1 preserved lemon (small, rind only, finely chopped)
 - 1 tablespoon honey (optional)
-- Salt and black pepper
+- salt
+- pepper
 - 50 g flaked almonds (toasted)
 - A small bunch of coriander (chopped)
 - A small bunch of mint (chopped)

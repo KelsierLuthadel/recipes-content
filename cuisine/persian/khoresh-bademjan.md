@@ -17,7 +17,7 @@ Aubergines are peeled in stripes, sliced into 1 ½ cm-thick rounds (or 2 cm-thic
 ### Lamb base
 - 600 g lamb shoulder (cut into 3 cm cubes)
 - 3 tablespoons sunflower oil
-- 2 large onions (sliced)
+- 2 onions (large, sliced)
 - 4 garlic cloves (sliced)
 - 1 ½ teaspoons ground turmeric
 - 1 teaspoon ground cinnamon
@@ -28,13 +28,13 @@ Aubergines are peeled in stripes, sliced into 1 ½ cm-thick rounds (or 2 cm-thic
 - 800 ml water
 
 ### Aubergines
-- 4 medium aubergines (about 800 g)
+- 4 aubergines (medium, about 800 g)
 - 2 tablespoons salt (for salting)
 - 200 ml sunflower oil (for frying)
 
 ### To finish
 - 1 large pinch saffron threads (soaked in 3 tablespoons hot water)
-- 3 tablespoons verjuice (sour-grape juice) - OR juice of 1 lemon
+- 3 tablespoons verjuice (sour-grape juice, OR juice of 1 lemon)
 - 1 teaspoon dried mint (optional)
 - 2 tomatoes (sliced thin, optional, for topping)
 

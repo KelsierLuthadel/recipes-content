@@ -18,8 +18,8 @@ Ground almonds, icing sugar, salt mix together. Beaten eggs, orange-flower water
 - ½ teaspoon salt
 - ¾ teaspoon baking powder
 - 1 teaspoon ground cinnamon (optional)
-- Zest of 1 lemon
-- 3 large eggs
+- 1 lemon (zest)
+- 3 eggs (large)
 - 2 tablespoons orange-flower water
 - 30 g unsalted butter (melted)
 

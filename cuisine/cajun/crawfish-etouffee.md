@@ -17,7 +17,7 @@ A blond roux (butter and flour, cooked just to the colour of peanut butter, ligh
 ### Blond roux and trinity
 - 80 g unsalted butter
 - 60 g plain flour
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 3 celery sticks (chopped)
 - 1 green pepper (chopped)
 - 6 garlic cloves (crushed)
@@ -25,7 +25,7 @@ A blond roux (butter and flour, cooked just to the colour of peanut butter, ligh
 ### Sauce
 - 2 tablespoons tomato paste
 - 1 tablespoon Cajun seasoning (or 1 tsp paprika + ½ tsp each cayenne, garlic powder, oregano, thyme, salt, pepper)
-- 700 ml seafood, chicken or vegetable stock
+- 700 ml seafood, chicken (or vegetable stock)
 - 2 bay leaves
 - 1 tablespoon Worcestershire sauce
 - 1 tablespoon hot sauce (Crystal or Tabasco)
@@ -36,7 +36,7 @@ A blond roux (butter and flour, cooked just to the colour of peanut butter, ligh
 - 500 g crawfish tail meat (cooked, peeled; or 500 g raw shelled prawns)
 
 ### To finish
-- Juice of half a lemon
+- ½ lemon (juice)
 - 4 spring onions (sliced)
 - A small bunch of flat-leaf parsley (chopped)
 

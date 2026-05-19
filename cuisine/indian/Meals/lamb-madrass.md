@@ -11,7 +11,7 @@
 Hot, sharp curry inspired by the cooking of southern India. Reduced tomato base with a heavy dose of chilli powder, mustard seeds, curry leaves and tamarind. Sharper than a vindaloo (no vinegar) but in the same heat range; finished with lime juice and a spoon of mango chutney for sweet contrast.
 
 ## Ingredients
-- 3 tbsp rapeseed oil or seasoned oil 
+- 3 tbsp rapeseed oil (or seasoned oil)
 - 2-4 Kashmiri dried red chillies, to taste 
 - A few green cardamom pods, lightly bruised 
 - 3 tbsp garlic and ginger paste
@@ -24,9 +24,9 @@ Hot, sharp curry inspired by the cooking of southern India. Reduced tomato base 
 - 2 tbsp [mixed powder](../Spice-Mixes/mixed-powder.md)
 - 500ml [base curry sauce](../Base/curry-base.md) (heated )
 - 800g [pre-cooked stewed lamb](../Base/pre-cooked-lamb.md)
-- 250ml of curry base or stock from [pre-cooked stewed lamb](../Base/pre-cooked-lamb.md)
+- 250ml of curry base (or stock from [pre-cooked stewed lamb], ../Base/pre-cooked-lamb.md)
 - 1-2 tbsp smooth mango chutney
-- Juice of 1 lime 
+- 1 lime (juice)
 - Pinch of [garam masala](../Spice-Mixes/garam-masala.md)
 - Fresh coriander to garnish 
 - Salt 

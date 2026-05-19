@@ -17,7 +17,7 @@ Tahina dip is the essence of simplicity: sesame seed paste, crushed garlic, fres
 
 ### Aromatics & Acid
 - 1 garlic clove (medium, raw)
-- Juice of 1 lemon (approximately 2-3 tablespoons fresh juice)
+- 1 lemon (approximately 2-3 tablespoons fresh juice, juice)
 - Fine sea salt to taste (approximately ⅛ teaspoon, adjusted)
 
 ### Textural Adjustment

@@ -26,10 +26,11 @@ A handheld pastry that looks like a Cornish pasty but tastes nothing like one. T
 ### Filling
 - 2 tablespoons olive oil
 - 450 g ground beef
-- 1 large yellow onion (finely chopped)
+- 1 yellow onion (large, finely chopped)
 - 1 tablespoon garlic paste
 - 1 teaspoon ginger paste
-- Salt and black pepper
+- salt
+- pepper
 - 1 teaspoon fresh thyme (or dried)
 - 1 teaspoon ground allspice
 - ½ teaspoon Jamaican curry powder

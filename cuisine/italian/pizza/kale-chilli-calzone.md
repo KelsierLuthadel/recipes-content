@@ -24,7 +24,7 @@ A weeknight-friendly calzone built on a packet ciabatta mix that handles the dou
 - 100 grams kale (chopped, woody stems discarded)
 
 ### Cheese
-- 8 tablespoons ricotta (or 250 grams mozzarella, torn)
+- 8 tablespoons ricotta cheese (or 250 grams mozzarella, torn)
 
 ## Method
 

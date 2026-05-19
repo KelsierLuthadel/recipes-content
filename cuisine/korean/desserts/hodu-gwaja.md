@@ -18,14 +18,14 @@ A simple cake-style batter, flour, eggs, milk, sugar, butter, is whisked to a sm
 - 200 g plain flour
 - 1 ½ teaspoons baking powder
 - ¼ teaspoon salt
-- 2 large eggs
+- 2 eggs (large)
 - 100 g caster sugar
 - 50 g unsalted butter (melted)
 - 150 ml whole milk
 - 1 teaspoon vanilla extract
 
 ### Filling
-- 300 g sweet red bean paste (pat) - Korean koshi-an or Japanese tsubu-an; sold ready
+- 300 g sweet red bean paste (pat, Korean koshi-an or Japanese tsubu-an; sold ready)
 - 12 walnut halves (good quality - they're a visible feature)
 
 ### To finish

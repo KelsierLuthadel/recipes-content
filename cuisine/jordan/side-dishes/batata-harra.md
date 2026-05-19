@@ -21,7 +21,7 @@ Potato cubes par-boil for 6 minutes to set the inside, drain, dry. Fried in oliv
 - 1 ½ teaspoons dried chilli flakes (Aleppo or regular)
 - ½ teaspoon ground cumin
 - ½ teaspoon salt (to taste)
-- Juice of ½ lemon
+- ½ lemon (juice)
 - 1 small bunch fresh coriander (chopped - 4 tablespoons)
 - 1 tablespoon sumac (optional)
 

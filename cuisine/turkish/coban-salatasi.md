@@ -14,17 +14,17 @@ Vegetables are diced into 1 cm cubes, slightly larger than Israeli salad. Olive 
 
 ## Ingredients
 
-- 4 medium tomatoes (deseeded; diced 1 cm)
-- 1 large cucumber (deseeded; diced 1 cm)
-- 1 small red onion (diced 1 cm)
+- 4 tomatoes (medium, deseeded; diced 1 cm)
+- 1 cucumber (large, deseeded; diced 1 cm)
+- 1 red onion (small, diced 1 cm)
 - 1 long green pepper (Turkish sivri biber if you can find; diced)
 - A small bunch of flat-leaf parsley (chopped)
 - 4 tablespoons extra-virgin olive oil
-- Juice of 1 lemon
+- 1 lemon (juice)
 - 1 teaspoon sumac (plus more for sprinkling)
 - 1 teaspoon salt
 - ½ teaspoon black pepper
-- 100 g feta (crumbled, optional)
+- 100 g feta cheese (crumbled, optional)
 - A handful of kalamata olives (optional)
 
 ## Method

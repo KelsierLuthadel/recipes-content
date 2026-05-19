@@ -16,7 +16,7 @@ Long-grain rice is toasted briefly in oil with onion, garlic and sometimes a sma
 
 - 300 g long-grain rice (parboiled or Carolina)
 - 2 tablespoons vegetable oil
-- 1 small onion (very finely chopped)
+- 1 onion (small, very finely chopped)
 - 2 garlic cloves (crushed)
 - 1 small piece green bell pepper (very finely chopped, optional)
 - 1 teaspoon salt

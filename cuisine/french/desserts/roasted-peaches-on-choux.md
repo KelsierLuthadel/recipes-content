@@ -9,13 +9,13 @@
 
 ## Ingredients
 - 4 ripe peaches
-- ½ quantity freshly made [choux paste](../../baking/pastry/choux-pastry.md)
+- ½ quantity [choux paste](../../baking/pastry/choux-pastry.md)
 - eggwash (1 egg yolk mixed with 1 tablespoon milk)
 - 25 grams flaked almonds
 - 75 grams caster sugar
 - 100 grams butter
 - 1 tablespoon grenadine syrup (optional)
-- juice of 1 lemon
+- 1 lemon (juice)
 - icing sugar (to dust)
 
 ## Overview

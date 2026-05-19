@@ -16,24 +16,25 @@ A vegetable soup of cannellini beans, kidney beans, courgette, green beans, toma
 
 ### Soup
 - 3 tablespoons olive oil
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 2 leeks (sliced)
 - 3 carrots (diced)
 - 4 garlic cloves (crushed)
-- 4 medium tomatoes (skinned and chopped) or 1 x 400 g tin chopped
+- 4 tomatoes (medium, skinned and chopped) or 1 x 400 g tin chopped
 - 1 bay leaf
 - 1 ½ litres vegetable stock
-- 1 x 400 g tin cannellini beans (drained)
-- 1 x 400 g tin red kidney beans (drained)
+- 400 g tin cannellini beans (drained)
+- 400 g tin red kidney beans (drained)
 - 200 g green beans (cut in 3 cm)
-- 2 medium courgettes (diced)
+- 2 courgettes (medium, diced)
 - 100 g small pasta (ditalini or small shells)
-- Salt and black pepper
+- salt
+- pepper
 
 ### Pistou
 - 1 large bunch basil (around 80 g; leaves only)
 - 4 garlic cloves
-- 50 g parmesan (finely grated)
+- 50 g parmesan cheese (finely grated)
 - 5 tablespoons olive oil
 - ½ teaspoon salt
 

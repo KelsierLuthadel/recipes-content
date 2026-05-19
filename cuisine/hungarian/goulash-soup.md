@@ -26,13 +26,14 @@ This traditional Hungarian goulash is a rich, hearty stew featuring tender beef 
 ### Vegetables
 - 5 onions
 - 250 grams tomatoes
-- 3 large potatoes
+- 3 potatoes (large)
 
 ### Seasonings
 - 2 heaped tablespoons sweet Hungarian paprika
 - ½ teaspoon whole caraway seeds
 - 750 ml beef stock
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Garnish
 - Fresh flat leaf parsley

@@ -30,7 +30,7 @@ Skin-on salmon fillets are seared skin-side down to crisp, flipped briefly, then
 - 300 g cooked Japanese short-grain rice
 - 1 spring onion (sliced)
 - 1 tablespoon toasted sesame seeds
-- Steamed broccoli or pak choi
+- Steamed broccoli (or pak choi)
 
 ## Method
 

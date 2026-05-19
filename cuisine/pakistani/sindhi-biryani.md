@@ -27,14 +27,14 @@ Mutton on the bone marinates for 2 hours in yogurt, ginger-garlic paste, ground 
 - 1 tablespoon fresh mint (chopped)
 - 2 tablespoons fresh coriander (chopped)
 - 2 teaspoons salt
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ### Fried onions
-- 4 large onions (sliced very thin)
+- 4 onions (large, sliced very thin)
 - 200 ml sunflower oil
 
 ### Tomato and braise
-- 2 medium tomatoes (chopped)
+- 2 tomatoes (medium, chopped)
 - 200 ml water
 
 ### Rice
@@ -54,7 +54,7 @@ Mutton on the bone marinates for 2 hours in yogurt, ginger-garlic paste, ground 
 - 2 tablespoons fresh coriander (chopped)
 - 1 large pinch saffron threads (soaked in 4 tablespoons hot milk)
 - 2 tablespoons ghee
-- Juice of ½ lemon
+- ½ lemon (juice)
 
 ## Method
 

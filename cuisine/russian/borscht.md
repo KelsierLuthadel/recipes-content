@@ -21,16 +21,17 @@ Beef shin or short rib simmers slow with aromatics to build a rich broth. Grated
 - 2 bay leaves
 - 1 tablespoon black peppercorns
 - 2 litres water
-- 4 medium beetroots (peeled and coarsely grated)
+- 4 beetroots (medium, peeled and coarsely grated)
 - 4 garlic cloves (crushed)
 - ¼ small white cabbage (shredded)
-- 3 medium potatoes (peeled, cubed)
+- 3 potatoes (medium, peeled, cubed)
 - 400 g tinned chopped tomatoes
 - 2 tablespoons tomato purée
 - 2 tablespoons vegetable oil
 - 2 tablespoons red wine vinegar
 - 1 teaspoon caster sugar
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### To serve
 - 200 g soured cream

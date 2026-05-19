@@ -23,7 +23,7 @@ Three flavour systems stacked on a single sandwich: a buttermilk-brined fried ch
 ### Slaw and aioli
 - 120 ml full-fat mayonnaise
 - 1 tablespoon garlic paste
-- Zest and juice of 1 small lemon
+- 1 lemon (small, juice and zest)
 - 1 teaspoon Creole Cajun seasoning
 - 2 tablespoons fresh chopped dill
 - ¼ teaspoon red pepper flakes (optional)
@@ -42,7 +42,7 @@ Three flavour systems stacked on a single sandwich: a buttermilk-brined fried ch
 - Vegetable oil for frying
 
 ### To build
-- 4 brioche or potato buns (halved and toasted)
+- 4 brioche (or potato buns, halved and toasted)
 - Dill pickle chips
 
 ## Method

@@ -14,15 +14,16 @@ Boniato is peeled, cubed and simmered in salted water until completely tender. O
 
 ## Ingredients
 
-- 1 kg boniato (Caribbean white sweet potato) - or substitute with 700 g floury potato + 300 g orange-fleshed sweet potato (see notes)
+- 1 kg boniato (Caribbean white sweet potato)
 - 1 teaspoon salt (for the cooking water)
 - 60 g unsalted butter
 - 3 tablespoons olive oil
 - 4 garlic cloves (finely sliced)
-- 3 tablespoons sour orange juice (naranja agria) - or 2 tablespoons fresh orange juice + 1 tablespoon lime juice
+- 3 tablespoons sour orange juice (naranja agria, or 2 tablespoons fresh orange juice + 1 tablespoon lime juice)
 - ½ teaspoon ground cumin
-- Salt and black pepper
-- 1 tablespoon fresh coriander or flat-leaf parsley (chopped, to finish)
+- salt
+- pepper
+- 1 tablespoon fresh coriander (or flat-leaf parsley, chopped, to finish)
 
 ## Method
 

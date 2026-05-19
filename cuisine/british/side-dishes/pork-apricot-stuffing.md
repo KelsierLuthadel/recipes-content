@@ -17,12 +17,12 @@ This richly flavoured stuffing combines pork sausage meat with sweet dried apric
 
 ## Ingredients
 - 50 grams butter
-- 1 large onion, finely chopped
+- 1 onion (large), finely chopped
 - small bunch of flat leaf parsley
 - small bunch of sage leaves, chopped
 - 900 grams pork sausage meat
 - 75 grams fresh white bread crumbs
-- 1 large egg
+- 1 egg (large)
 - 100 grams dried apricots, chopped
 - 75 grams shelled pistachios, chopped
 - olive oil to drizzle

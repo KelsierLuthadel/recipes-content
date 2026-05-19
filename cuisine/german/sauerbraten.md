@@ -15,7 +15,7 @@ A beef chuck or topside joint marinates 3-4 days in red wine vinegar, red wine a
 ## Ingredients
 
 ### Marinade
-- 1 ½ kg beef topside or chuck (one piece)
+- 1 ½ kg beef topside (or chuck, one piece)
 - 500 ml red wine vinegar
 - 500 ml dry red wine
 - 500 ml water
@@ -35,7 +35,8 @@ A beef chuck or topside joint marinates 3-4 days in red wine vinegar, red wine a
 - 500 ml beef stock
 - 80 g ginger snap biscuits (crushed; about 6-8 biscuits)
 - 2 tablespoons raisins (optional)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### To serve
 - Potato dumplings (kartoffelklöße) or buttered red cabbage

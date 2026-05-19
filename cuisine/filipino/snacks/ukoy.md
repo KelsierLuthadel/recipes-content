@@ -20,14 +20,14 @@ Small whole head-on shrimp rinse but stay shell-on (shells provide crunch and fl
 - 1 teaspoon salt
 - ½ teaspoon ground white pepper
 - ½ teaspoon ground turmeric (for colour)
-- 1 large egg
+- 1 egg (large)
 - 250 ml cold water
 
 ### Mix-ins
-- 300 g grated kabocha or butternut squash (~2 cups loose)
+- 300 g grated kabocha (or butternut squash, ~2 cups loose)
 - 200 g mung bean sprouts
 - 4 spring onions (finely sliced)
-- 12 small whole shrimp (head and shell on, about 200 g total; or 24 if very small)
+- 12 whole shrimp (small, head and shell on, about 200 g total; or 24 if very small)
 
 ### Frying
 - 800 ml neutral oil (sunflower or rapeseed)
@@ -37,7 +37,7 @@ Small whole head-on shrimp rinse but stay shell-on (shells provide crunch and fl
 - 4 garlic cloves (minced)
 - 1 teaspoon salt
 - ½ teaspoon ground black pepper
-- 1 small red chilli (sliced thin)
+- 1 red chilli (small, sliced thin)
 
 ## Method
 

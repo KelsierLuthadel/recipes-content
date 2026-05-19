@@ -18,7 +18,7 @@ Same technique as Jordan kibbeh-nayyeh-balls (these snacks are siblings across t
 - 200 g fine bulgur (#1)
 - 300 ml cold water (for soaking)
 - 400 g very lean lamb (leg, trimmed)
-- 1 small onion (rough chunks)
+- 1 onion (small, rough chunks)
 - 1 ½ teaspoons baharat
 - 1 teaspoon ground allspice
 - 1 ½ teaspoons salt
@@ -28,7 +28,7 @@ Same technique as Jordan kibbeh-nayyeh-balls (these snacks are siblings across t
 
 ### Filling
 - 2 tablespoons olive oil
-- 1 medium onion (finely diced)
+- 1 onion (medium, finely diced)
 - 300 g fattier lamb mince (20% fat)
 - 1 ½ teaspoons baharat
 - 1 teaspoon ground allspice
@@ -46,7 +46,7 @@ Same technique as Jordan kibbeh-nayyeh-balls (these snacks are siblings across t
 - 250 g Greek yogurt
 - 2 garlic cloves (crushed to a paste with ¼ teaspoon salt)
 - 2 tablespoons fresh mint (chopped)
-- Juice of ½ lemon
+- ½ lemon (juice)
 - 1 tablespoon olive oil
 
 ### To serve

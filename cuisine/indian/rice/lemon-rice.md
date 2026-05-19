@@ -15,7 +15,7 @@ A temper of mustard seeds, chana dal, urad dal, peanuts, dried red chilli and cu
 ## Ingredients
 
 ### Rice
-- 250 g basmati or sona masuri rice (cooked and cooled, about 600 g cooked weight)
+- 250 g basmati (or sona masuri rice, cooked and cooled, about 600 g cooked weight)
 
 ### Temper
 - 3 tablespoons sesame oil (or vegetable oil)
@@ -34,7 +34,7 @@ A temper of mustard seeds, chana dal, urad dal, peanuts, dried red chilli and cu
 - 1 teaspoon salt (to taste)
 
 ### To finish
-- Juice of 2 lemons (about 5 tablespoons)
+- 2 lemons (about 5 tablespoons, juice)
 - A handful of fresh coriander (chopped)
 
 ## Method

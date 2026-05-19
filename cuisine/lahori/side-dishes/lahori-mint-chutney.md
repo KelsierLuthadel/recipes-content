@@ -18,13 +18,13 @@ A bunch of mint and a bunch of coriander are blended with green chilli, garlic, 
 - 2-3 green chillies (deseed if you want milder)
 - 2 garlic cloves
 - 15 g fresh ginger
-- 2 tablespoons roasted chana dal (also sold as putnalu or daria; or 2 tablespoons cashews)
+- 2 tablespoons roasted cashews
 - ½ teaspoon ground cumin (lightly toasted in a dry pan)
 - 1 teaspoon chaat masala
 - ½ teaspoon black salt (kala namak; optional but distinctive)
 - 1 teaspoon salt (to taste)
 - 1 tablespoon caster sugar (or 1 teaspoon honey)
-- Juice of 1 lemon (or 2-3 tablespoons of white vinegar)
+- 1 lemon (or 2-3 tablespoons of white vinegar, juice)
 - 4 tablespoons cold water
 - 200 g thick natural yogurt (Greek-style is fine)
 
@@ -39,7 +39,7 @@ A bunch of mint and a bunch of coriander are blended with green chilli, garlic, 
 1. Grind to a powder in a pestle and mortar (or use the ground cumin if you don't have whole).
 
 ### Stage 3 - Blend
-1. Place the mint, coriander, green chillies, garlic, ginger and roasted chana dal in a blender.
+1. Place the mint, coriander, green chillies, garlic, ginger and roasted cashews in a blender.
 1. Add the cumin, chaat masala, black salt, salt, sugar and lemon juice.
 1. Pour in the 4 tablespoons of cold water.
 1. Blend on high to a smooth, bright-green paste; add another tablespoon of water if needed to keep the blade turning.

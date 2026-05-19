@@ -18,7 +18,7 @@ A restaurant-style bhuna using pre-cooked lamb for speed, while keeping the dry,
 ## Ingredients
 ### Base
 - 3 tbsp ghee, rapeseed (canola) oil or seasoned oil
-- 1 small onion, finely chopped
+- 1 onion (small), finely chopped
 - ¼ red bell pepper, deseeded and roughly chopped
 - 2 tbsp garlic and ginger paste
 - 2 tbsp finely chopped coriander stalks
@@ -34,9 +34,10 @@ A restaurant-style bhuna using pre-cooked lamb for speed, while keeping the dry,
 
 ### Finishing
 - 2 tbsp Greek yoghurt
-- Salt and freshly ground black pepper, to taste
+- salt
+- pepper
 - Small bunch coriander leaves, finely chopped
-- Juice of 1-2 limes (optional)
+- 1-2 limes (optional, juice)
 - Sliced red chilli (optional)
 
 ## Method

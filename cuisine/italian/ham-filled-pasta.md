@@ -23,7 +23,8 @@ These tender, handmade pasta parcels are filled with a harmonious mixture of ric
 - 150 grams sun-dried tomato in oil (drained and chopped)
 - 15 fresh basil leaves (chopped)
 - 100 grams Pecorino cheese (freshly grated)
-- Salt and pepper to taste
+- salt
+- pepper
 
 ### Chorizo Oil
 - 200 ml extra virgin olive oil

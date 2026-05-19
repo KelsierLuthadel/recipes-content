@@ -11,20 +11,20 @@
 BIR hot-sweet-sour: a medium-hot curry sweetened with sugar (or jaggery) and sharpened with tamarind and lemon juice. Tomato-forward, chilli-warm, with the sweet-sour balance the defining note. A standard order alongside dhansak in the sweet-and-sour family of curry-house dishes.
 
 ## Ingredients
-- 4 tbsp rapeseed oil or seasoned oil
-- 1 small onion, very finely chopped 
+- 4 tbsp rapeseed oil (or seasoned oil)
+- 1 onion (small), very finely chopped 
 - 2 tbsp garlic and ginger paste
 - 2 tbsp [mixed powder](../Spice-Mixes/mixed-powder.md)
 - 1 tsp chilli powder 
 - 2 tbsp sugar 
 - 125ml [tomato purée ](../Base/tomato-puree.md)
-- 500ml [base curry sauce](../Base/curry-base.md) (heated )
+- 500ml [base curry sauce](../Base/curry-base.md) (heated)
 - 800g [pre-cooked stewed chicken](../Base/pre-cooked-chicken.md)
-- 125ml of curry base or stock from [pre-cooked stewed chicken](../Base/curry-base.md)
+- 125ml of curry base (or stock from [pre-cooked stewed chicken], ../Base/curry-base.md)
 - 1 tbsp smooth mango chutney 
 - ½ tsp tamarind concentrate 
 - 1 tsp dried fenugreek leaves 
-- Juice of 1 or 2 lemons, to taste 
+- 1 (or 2 lemons), to taste (juice)
 - 3 tbsp chopped fresh coriander 
 - Salt 
 

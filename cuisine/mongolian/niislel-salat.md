@@ -14,11 +14,11 @@ Potatoes, carrots and eggs boil separately to keep their texture distinct. Cooke
 
 ## Ingredients
 
-- 4 medium potatoes (around 600 g; waxy or all-rounders)
-- 3 medium carrots
-- 4 large eggs
+- 4 potatoes (medium, around 600 g; waxy or all-rounders)
+- 3 carrots (medium)
+- 4 eggs (large)
 - 200 g cooked smoked sausage (frankfurter or doctor's sausage; or boiled beef brisket)
-- 4 large dill pickles (about 200 g)
+- 4 dill pickles (large, about 200 g)
 - 200 g frozen peas (thawed; or tinned, drained)
 - 6 tablespoons mayonnaise
 - 1 tablespoon Dijon mustard

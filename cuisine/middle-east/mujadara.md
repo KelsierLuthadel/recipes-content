@@ -14,7 +14,7 @@ Brown lentils boil until almost tender; long-grain rice and water join them alon
 
 ## Ingredients
 
-- 200 g brown or green lentils (rinsed)
+- 200 g brown lentils (or green lentils, rinsed)
 - 200 g long-grain rice (rinsed)
 - 1 teaspoon ground cumin
 - ½ teaspoon ground cinnamon
@@ -22,7 +22,7 @@ Brown lentils boil until almost tender; long-grain rice and water join them alon
 - ¼ teaspoon black pepper
 
 ### Caramelised onions
-- 3 large onions (very thinly sliced)
+- 3 onions (large, very thinly sliced)
 - 6 tablespoons olive oil
 - ½ teaspoon salt
 

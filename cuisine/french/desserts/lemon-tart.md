@@ -18,14 +18,14 @@ Sweet shortcrust pastry blind-bakes to set the base. A custard of eggs, sugar, l
 - 200 g plain flour
 - 100 g cold unsalted butter (cubed)
 - 50 g icing sugar
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 2 tablespoons ice-cold water
 - A pinch of salt
 
 ### Lemon filling
-- 4 large eggs
+- 4 eggs (large)
 - 200 g caster sugar
-- Zest of 4 lemons (washed)
+- 4 lemons (washed, zest)
 - 200 ml lemon juice (from the zested lemons; about 4-5 lemons)
 - 100 g unsalted butter (cubed)
 

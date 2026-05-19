@@ -14,11 +14,11 @@ Onion is fried soft in oil; tomato softens to a jammy base; greens (covo, kale, 
 
 ## Ingredients
 
-- 500 g collard greens, covo, spring greens or cavolo nero (stems removed, leaves shredded)
+- 500 g collard greens, covo, spring greens (or cavolo nero, stems removed, leaves shredded)
 - 2 tablespoons vegetable oil
-- 1 large onion (finely chopped)
+- 1 onion (large, finely chopped)
 - 2 garlic cloves (crushed)
-- 2 medium tomatoes (chopped) or ½ (400 g) tin chopped tomatoes
+- 2 tomatoes (medium, chopped) or ½ (400 g) tin chopped tomatoes
 - ½ teaspoon salt
 - ¼ teaspoon ground black pepper
 - 3 tablespoons smooth peanut butter (unsweetened)

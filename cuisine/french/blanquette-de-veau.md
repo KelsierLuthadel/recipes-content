@@ -15,8 +15,8 @@ Veal shoulder or breast simmers in white stock with onion, carrot and bouquet ga
 ## Ingredients
 
 ### Veal
-- 1 kg veal shoulder or breast (cut into 4 cm cubes)
-- 1 ½ litres white veal or chicken stock (cold)
+- 1 kg veal shoulder (or breast, cut into 4 cm cubes)
+- 1 ½ litres white veal (or chicken stock, cold)
 - 1 onion (whole, studded with 4 cloves)
 - 1 carrot (split lengthways)
 - 1 leek (white part)
@@ -25,7 +25,7 @@ Veal shoulder or breast simmers in white stock with onion, carrot and bouquet ga
 - Salt
 
 ### Garnish
-- 200 g pearl onions or small shallots
+- 200 g pearl onions (or small shallots)
 - 250 g button mushrooms
 - 30 g unsalted butter
 - 1 tablespoon caster sugar
@@ -34,10 +34,11 @@ Veal shoulder or breast simmers in white stock with onion, carrot and bouquet ga
 - 50 g unsalted butter
 - 50 g plain flour
 - 200 ml double cream
-- 2 large egg yolks
+- 2 egg yolks (large)
 - 1 tablespoon lemon juice
 - A grating of nutmeg
-- Salt and white pepper
+- salt
+- pepper
 
 ## Method
 

@@ -34,7 +34,7 @@ Yellow split peas soak overnight until softened but not mushy, then blitz to a c
 - 3 tablespoons hot water
 - 1 tablespoon palm sugar (or soft brown sugar)
 - 1 tablespoon fish sauce
-- 1 small garlic clove (grated)
+- 1 garlic clove (small, grated)
 - ½ teaspoon dried chilli flakes
 
 ## Method

@@ -27,7 +27,7 @@ Full-fat natural yogurt salts; strains through a fine sieve lined with cheeseclo
 
 ### To serve
 - Warm pita
-- A small dish of black olives
+- A dish of black olives (small)
 - Sliced cucumber, tomato, radish (optional)
 
 ## Method

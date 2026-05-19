@@ -26,7 +26,7 @@ A vibrant Caribbean soup featuring fresh fish poached in a spicy tomato-based br
 
 ### Vegetables
 - 2 tomatoes
-- 1 large red pepper
+- 1 red pepper (large)
 - 275 grams sweet potato (peeled and cut into cubes)
 
 ### Protein

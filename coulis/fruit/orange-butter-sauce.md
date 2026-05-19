@@ -10,7 +10,7 @@
 A luxurious warm sauce combining fresh orange juice reduced to concentrate with silky butter. The result is glossy, bright, and intensely citrus, the perfect foil to rich desserts, chocolate, or delicate pastries. Restaurant-quality elegance in minutes.
 
 ## Ingredients
-- juice of 6 oranges
+- 6 oranges (juice)
 - 100 grams icing sugar
 - 125 grams butter (softened)
 

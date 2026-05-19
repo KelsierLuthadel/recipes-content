@@ -24,7 +24,7 @@ A firm wheat dough rests while you build a clear, ginger-forward broth with beef
 ### Broth
 - 2 tablespoons vegetable oil
 - 400 g lean beef (sirloin, rump or shin), sliced thinly across the grain
-- 1 large onion (sliced)
+- 1 onion (large, sliced)
 - 5 garlic cloves (chopped)
 - 5 cm fresh ginger (chopped)
 - 1 tomato (chopped)
@@ -34,11 +34,12 @@ A firm wheat dough rests while you build a clear, ginger-forward broth with beef
 - ½ teaspoon turmeric
 - 1 ½ litres beef stock
 - 1 tablespoon soy sauce
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### Vegetables
-- 1 medium carrot (sliced into half-moons)
-- 1 small daikon or a handful of radishes (sliced)
+- 1 carrot (medium, sliced into half-moons)
+- 1 daikon (small, or a handful of radishes, sliced)
 - 100 g cabbage (shredded)
 - 150 g spinach
 - 2 spring onions (sliced)

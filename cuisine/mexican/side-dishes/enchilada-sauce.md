@@ -19,12 +19,12 @@ Rich, robust, and a thousand times better than store-bought, this authentic ench
 - 85g dried ancho peppers
 - 85g dried guajillo peppers
 - 2-3 dried arbol peppers (optional, for extra heat)
-- 1 medium white onion (peeled and halved)
+- 1 white onion (medium, peeled and halved)
 - 2 ripe tomatoes (halved)
 - 4 garlic cloves (peeled)
 
 ### Broth & Seasonings
-- 1 litre boiling water or chicken broth (for deeper flavour)
+- 1 litre boiling water (or chicken broth, for deeper flavour)
 - 1 teaspoon sea salt
 - 1 teaspoon dried Mexican oregano
 - 1 teaspoon ground cumin

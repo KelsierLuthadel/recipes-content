@@ -30,9 +30,9 @@ Pork shoulder is sliced thin, marinated in a paste of rehydrated guajillo and an
 - 1 kg pork shoulder (very thinly sliced, 5 mm thick)
 
 ### To serve
-- 24 small corn tortillas
+- 24 corn tortillas (small)
 - ½ small fresh pineapple (cut into 1 cm chunks)
-- 1 small white onion (very finely chopped)
+- 1 white onion (small, very finely chopped)
 - A bunch of fresh coriander (chopped)
 - 4 limes (cut into wedges)
 

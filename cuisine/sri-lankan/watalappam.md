@@ -15,7 +15,7 @@ Eggs whisk with grated kithul jaggery (or palm sugar) until the sugar starts to 
 ## Ingredients
 
 - 200 g kithul jaggery (or palm sugar / dark brown sugar; grated or finely chopped)
-- 4 large eggs
+- 4 eggs (large)
 - 400 ml thick coconut milk
 - 100 ml whole milk (or extra coconut milk)
 - 1 teaspoon ground cardamom

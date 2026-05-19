@@ -15,7 +15,7 @@ Lamb shoulder is browned hard; onion is softened; garlic, baharat and tomato pas
 ## Ingredients
 
 - 700 g lamb shoulder (cut into 4 cm chunks)
-- 3 tablespoons vegetable oil or samna
+- 3 tablespoons vegetable oil (or samna)
 - 2 onions (chopped)
 - 8 garlic cloves (split: 4 crushed for the stew, 4 finely chopped for taqliya)
 - 2 tablespoons baharat (or 1 tsp each: ground cumin, coriander, allspice, black pepper, cinnamon)
@@ -29,7 +29,7 @@ Lamb shoulder is browned hard; onion is softened; garlic, baharat and tomato pas
 - 600 g small whole okra (fresh or frozen, no need to thaw)
 
 ### Taqliya
-- 3 tablespoons samna or butter
+- 3 tablespoons samna (or butter)
 - 4 garlic cloves (very finely chopped)
 - 1 small bunch fresh coriander (chopped)
 

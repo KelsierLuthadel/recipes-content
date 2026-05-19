@@ -20,7 +20,7 @@ An enriched dough, flour, butter, milk, egg yolks, yeast, is rolled into 8 layer
 - 1 teaspoon salt
 - 50 g caster sugar
 - 200 ml warm milk
-- 3 large egg yolks
+- 3 egg yolks (large)
 - 150 g unsalted butter (melted, cooled)
 
 ### Layer butter
@@ -33,9 +33,9 @@ An enriched dough, flour, butter, milk, egg yolks, yeast, is rolled into 8 layer
 - 1 pinch saffron threads (ground, steeped in 1 tablespoon hot water)
 
 ### Glaze and toppers
-- 1 large egg yolk
+- 1 egg yolk (large)
 - 1 pinch saffron threads (steeped in 1 tablespoon hot water)
-- 24 whole almonds or walnut halves
+- 24 whole almonds
 
 ### Syrup
 - 200 g caster sugar
@@ -69,7 +69,7 @@ An enriched dough, flour, butter, milk, egg yolks, yeast, is rolled into 8 layer
 ### Stage 4 - Score, glaze, top
 1. With a sharp thin knife, score the top layer (cutting through ONLY the top layer, not all the way down) in a diamond pattern: parallel diagonal lines 4 cm apart, then crossing diagonal lines 4 cm apart.
 1. Whisk the saffron infusion into the egg yolk; brush over the top.
-1. Press a whole almond or walnut half into the centre of each diamond.
+1. Press a whole almond into the centre of each diamond.
 
 ### Stage 5 - Bake
 1. Bake 45-50 minutes until deeply golden on top and the layers separate cleanly when you tap the side.
@@ -81,7 +81,7 @@ An enriched dough, flour, butter, milk, egg yolks, yeast, is rolled into 8 layer
 1. Stir in the lemon juice; remove from heat.
 
 ### Stage 7 - Pour and rest
-1. While the pakhlava is still hot, slowly pour the warm syrup evenly over the entire surface - about half a small ladle per diamond.
+1. While the pakhlava is still hot, slowly pour the warm syrup evenly over the entire surface - about ½ small ladle per diamond.
 1. The syrup will hiss, foam briefly and absorb.
 1. Cool fully in the tin.
 1. Rest overnight at room temperature, uncovered.

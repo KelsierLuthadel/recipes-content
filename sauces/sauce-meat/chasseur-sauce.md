@@ -28,7 +28,8 @@ A delicate, herbaceous sauce featuring tender mushrooms and fresh tarragon notes
 - 400 ml Veal stock
 - 1 tablespoon flat leaf parsley (snipped)
 - 1 teaspoon tarragon (snipped)
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

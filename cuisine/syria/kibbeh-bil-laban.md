@@ -17,7 +17,7 @@ Fine bulgur soaks; lamb mince blends with bulgur, grated onion, allspice and sal
 ### Kibbeh shell
 - 250 g fine bulgur (#1 grade)
 - 400 g lamb mince (lean shoulder)
-- 1 small onion (very finely grated)
+- 1 onion (small, very finely grated)
 - 1 teaspoon salt
 - 1 teaspoon ground allspice
 - ½ teaspoon ground black pepper
@@ -27,12 +27,13 @@ Fine bulgur soaks; lamb mince blends with bulgur, grated onion, allspice and sal
 ### Filling
 - 250 g lamb mince (fattier shoulder)
 - 1 tablespoon olive oil
-- 1 medium onion (very finely chopped)
+- 1 onion (medium, very finely chopped)
 - 30 g pine nuts (toasted)
 - 1 teaspoon ground allspice
 - ½ teaspoon ground cinnamon
 - 1 tablespoon pomegranate molasses
-- Salt and black pepper
+- salt
+- pepper
 - 1 tablespoon fresh parsley (chopped)
 
 ### To fry shells
@@ -40,7 +41,7 @@ Fine bulgur soaks; lamb mince blends with bulgur, grated onion, allspice and sal
 
 ### Yogurt sauce
 - 800 g full-fat natural yogurt (Greek or strained)
-- 1 large egg white
+- 1 egg white (large)
 - 1 tablespoon cornflour
 - 3 garlic cloves (crushed)
 - 1 teaspoon salt

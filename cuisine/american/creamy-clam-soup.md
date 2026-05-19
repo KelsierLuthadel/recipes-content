@@ -21,12 +21,12 @@ A luxurious, creamy soup featuring fresh clams cooked with vegetables and rice, 
 
 ### Aromatics
 - 1 onion (chopped)
-- 1 large leek (sliced)
+- 1 leek (large, sliced)
 
 ### Vegetables
-- 1 large carrot (chopped)
+- 1 carrot (large, chopped)
 - 250 grams swede (diced)
-- 75 grams medium or short grained rice
+- 75 grams medium (or short grained rice)
 
 ### Protein
 - 1 ¾ kg clams

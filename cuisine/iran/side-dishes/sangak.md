@@ -21,7 +21,7 @@ A wholemeal-heavy dough (70% wholemeal, 30% white) with a long ferment, 3-4 hour
 - 1 tablespoon olive oil
 - 380 ml warm water
 - 500 g small smooth river pebbles (washed, oven-safe - see Notes)
-- Cornmeal or extra flour (for dusting)
+- Cornmeal (or extra flour, for dusting)
 
 ## Method
 

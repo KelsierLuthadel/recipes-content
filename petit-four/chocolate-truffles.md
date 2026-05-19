@@ -22,7 +22,7 @@ Chocolate truffles represent the simplest and most elegant form of chocolate con
 
 ### Ganache Enhancement
 - 225 grams butter (chopped, room temperature)
-- 75 milliliters Armagnac or Grand Marnier liqueur
+- 75 milliliters Grand Marnier liqueur
 
 ### Assembly & Finishing
 - 300 grams dark chocolate (chopped, for dipping coat)
@@ -62,7 +62,7 @@ Chocolate truffles represent the simplest and most elegant form of chocolate con
 1. Once all butter is incorporated, the ganache should be smooth, glossy, and luxurious.
 
 ### Stage 5 - Add Liqueur
-1. Slowly pour 75 milliliters Armagnac (or Grand Marnier) into the ganache.
+1. Slowly pour 75 milliliters Grand Marnier into the ganache.
 1. Whisk gently with the balloon whisk until fully combined.
 1. The alcohol scent will be prominent at this point; it mellows as the ganache cools.
 1. The mixture should be completely smooth and uniform.

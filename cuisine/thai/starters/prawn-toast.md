@@ -32,7 +32,7 @@ These aren’t like those you find at most takeaways: thinly layered with a bit 
 
 ### Other
 - 1 French baguette, sliced into 2cm (¾in) thick slices
-- White or black sesame seeds, for sprinkling
+- Sesame seeds (for sprinkling)
 
 ### Fat
 - Rapeseed (canola) oil, for frying

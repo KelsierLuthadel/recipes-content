@@ -26,7 +26,7 @@ This is seafood in its purest form: clams, mussels, prawns, and squid cooked sim
 - ½ teaspoon dried chilli flakes
 - 800 grams cherry tomatoes
 - 4 tablespoons fresh flat-leaf parsley (chopped)
-- Zest of 1 unwaxed lemon
+- 1 unwaxed lemon (zest)
 - Salt to taste
 
 ### Pasta

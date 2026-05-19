@@ -16,13 +16,13 @@ A simple egg-pasta dough rolls thin. Minced lamb, finely-chopped onion, parsley 
 
 ### Dough
 - 400 g plain flour (or "00" flour)
-- 2 large eggs
+- 2 eggs (large)
 - ½ teaspoon salt
 - 100 ml water (approx)
 
 ### Filling
 - 300 g minced lamb (or beef, 15-20% fat)
-- 1 small onion (very finely chopped)
+- 1 onion (small, very finely chopped)
 - 2 garlic cloves (crushed)
 - A small bunch of flat-leaf parsley (chopped)
 - 1 teaspoon ground cumin
@@ -40,7 +40,7 @@ A simple egg-pasta dough rolls thin. Minced lamb, finely-chopped onion, parsley 
 - 80 g unsalted butter
 - 2 teaspoons paprika
 - 1 teaspoon sumac
-- ½ teaspoon Aleppo pepper or chilli flakes
+- ½ teaspoon chilli flakes
 
 ### To serve
 - Dried mint

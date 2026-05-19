@@ -15,12 +15,12 @@ Potatoes and onion are coarsely grated; the mixture is squeezed bone-dry in a cl
 ## Ingredients
 
 - 1 kg floury potatoes (Maris Piper, King Edward; peeled)
-- 1 large onion
-- 2 large eggs
+- 1 onion (large)
+- 2 eggs (large)
 - 4 tablespoons matzo meal (or plain flour)
 - 1 ½ teaspoons salt
 - ½ teaspoon black pepper
-- Sunflower or vegetable oil for shallow frying
+- Sunflower oil (or vegetable oil for shallow frying)
 
 ### To serve
 - Soured cream

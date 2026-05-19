@@ -34,7 +34,7 @@ Green Balti masala paste combines Indian spices with fresh herbs, creating a vib
 - 120 ml white wine vinegar
 - 120 ml vegetable oil
 - 50 ml sesame oil (traditional, though vegetable oil works)
-- Additional vegetable oil (for sealing jars)
+- vegetable oil (for sealing jars)
 
 ### For Storage
 - Sterilized glass jars

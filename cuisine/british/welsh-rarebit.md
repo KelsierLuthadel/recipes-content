@@ -14,12 +14,12 @@ Butter and flour cook to a roux; ale and milk loosen it; mature cheddar melts in
 
 ## Ingredients
 
-- 4 slices sourdough or good white bread
+- 4 slices sourdough (or good white bread)
 - 30 g unsalted butter
 - 30 g plain flour
-- 100 ml ale or stout (or whole milk for a softer flavour)
+- 100 ml ale (or whole milk for a softer flavour)
 - 50 ml whole milk
-- 250 g mature cheddar (grated)
+- 250 g mature cheddar cheese (grated)
 - 1 tablespoon English mustard
 - 2 teaspoons Worcestershire sauce (vegetarian if needed)
 - 1 egg yolk

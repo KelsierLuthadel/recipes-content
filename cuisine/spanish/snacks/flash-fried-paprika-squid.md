@@ -20,7 +20,8 @@ A Spanish tapas classic featuring tender squid rings and tentacles, quickly frie
 - 1 tablespoon sherry vinegar
 - 1 teaspoon shredded lemon rind
 - 2 tablespoons fresh parsley (finely chopped)
-- salt and black pepper
+- salt
+- pepper
 - salad leaves (optional)
 
 ## Method

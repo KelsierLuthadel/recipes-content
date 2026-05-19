@@ -15,13 +15,13 @@ Onion, carrot and beetroot sauté together; the colour bleeds out; cabbage and p
 ## Ingredients
 
 - 4 tablespoons sunflower oil
-- 1 large onion (chopped)
-- 2 medium carrots (grated)
-- 3 medium beetroots (around 400 g; peeled and grated)
+- 1 onion (large, chopped)
+- 2 carrots (medium, grated)
+- 3 beetroots (medium, around 400 g; peeled and grated)
 - 4 garlic cloves (crushed)
 - 2 tablespoons tomato paste
 - 1 ½ litres vegetable stock
-- 3 medium potatoes (peeled and cubed)
+- 3 potatoes (medium, peeled and cubed)
 - ½ small white cabbage (around 400 g; shredded)
 - 2 bay leaves
 - 5 black peppercorns

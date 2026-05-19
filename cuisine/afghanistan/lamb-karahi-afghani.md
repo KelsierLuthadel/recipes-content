@@ -16,7 +16,7 @@ Lamb shoulder browns hard in oil; onions cook deep brown alongside. Ginger, garl
 
 - 1 kg lamb shoulder (bone-in or out, cut into 4 cm chunks)
 - 6 tablespoons vegetable oil
-- 3 large onions (chopped)
+- 3 onions (large, chopped)
 - 6 garlic cloves (crushed)
 - 1 large thumb fresh ginger (half grated, half julienned)
 - 2 tablespoons coriander seeds (lightly toasted, ground)
@@ -26,7 +26,7 @@ Lamb shoulder browns hard in oil; onions cook deep brown alongside. Ginger, garl
 - 4 fresh tomatoes (grated) or 1 (400 g) tin chopped tomatoes
 - 2 tablespoons tomato puree
 - 1 ½ teaspoons salt
-- 600 ml hot lamb or chicken stock
+- 600 ml hot lamb stock (or chicken stock)
 - 3 green chillies (slit lengthways)
 - 3 tablespoons fresh coriander (chopped)
 - 1 teaspoon garam masala (to finish)

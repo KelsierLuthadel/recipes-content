@@ -25,7 +25,7 @@ Spinach, coriander, parsley and a charred poblano are blended with chicken stock
 
 ### Rice
 - 2 tablespoons olive oil
-- 1 small onion (finely diced)
+- 1 onion (small, finely diced)
 - 2 garlic cloves (finely chopped)
 - 300 g long-grain white rice (rinsed until the water runs clear, drained well)
 - ½ teaspoon ground cumin

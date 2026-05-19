@@ -26,8 +26,15 @@ Plain flour, cornflour, yeast, sugar, milk powder and a pinch of cardamom and sa
 - 1 litre vegetable oil for deep frying
 
 ### Syrup (choose one)
-- **Date syrup:** 200 g date syrup (dibs) warmed gently
-- **OR Sugar syrup:** 200 g caster sugar + 120 ml water + 1 teaspoon lemon juice + ½ teaspoon ground cardamom + small pinch saffron (boil 5 minutes, cool slightly)
+#### Date syrup
+-  200 g date syrup (warmed gently)
+
+#### Sugar syrup:
+- 200 g caster sugar 
+- 120 ml water 
+- 1 teaspoon lemon juice 
+- ½ teaspoon ground cardamom 
+- pinch saffron (boil 5 minutes, cool slightly)
 
 ### Garnish
 - 1 tablespoon toasted sesame seeds

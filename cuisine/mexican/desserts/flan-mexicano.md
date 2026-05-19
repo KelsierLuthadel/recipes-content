@@ -19,13 +19,13 @@ Caramel cooks dry: sugar melts in a hot pan to a dark amber syrup; poured into a
 - 3 tablespoons water (helps the start)
 
 ### Custard
-- 4 large eggs (room temperature)
+- 4 eggs (large, room temperature)
 - 1 (397 g) tin sweetened condensed milk
 - 1 (410 g) tin evaporated milk (NOT condensed; the unsweetened kind)
 - 200 ml whole milk
 - 2 teaspoons vanilla extract (or use a scraped pod for the seeds)
 - A pinch of salt
-- 1 tablespoon rum or brandy (optional, traditional)
+- 1 tablespoon rum (or brandy, optional, traditional)
 
 ### Equipment
 - 1 round cake tin (22 cm, NOT springform - needs to be solid-bottomed; ideally 8 cm deep)

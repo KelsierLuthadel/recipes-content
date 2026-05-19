@@ -10,7 +10,7 @@
 **Cook Time:** 24 minutes
 
 ## Overview
-Dough, flour, warm water, salt, kneads to a smooth firm ball, rests for 30 minutes. Filling: half a kilo of mixed greens wilts briefly with onion, drains hard, mixes with pomegranate seeds and herbs. Each ball of dough rolls into a 25 cm circle so thin it's translucent. Filling spreads over one half, the other half folds over, edges press to seal. Pan-fries on a dry skillet 90 seconds per side. Brushes with butter; sprinkles with sumac.
+Dough, flour, warm water, salt, kneads to a smooth firm ball, rests for 30 minutes. Filling: ½ kilo of mixed greens wilts briefly with onion, drains hard, mixes with pomegranate seeds and herbs. Each ball of dough rolls into a 25 cm circle so thin it's translucent. Filling spreads over one half, the other half folds over, edges press to seal. Pan-fries on a dry skillet 90 seconds per side. Brushes with butter; sprinkles with sumac.
 
 ## Ingredients
 

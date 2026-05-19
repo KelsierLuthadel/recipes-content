@@ -21,7 +21,7 @@ A classic white roux-based sauce brightened with fresh parsley and fragrant nutm
 
 ### Liquid components
 - 150 ml milk
-- 350 ml ham or chicken stock
+- 350 ml ham (or chicken stock)
 
 ### Flavoring
 - 2 tablespoons fresh parsley (chopped)

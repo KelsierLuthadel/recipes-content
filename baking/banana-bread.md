@@ -16,7 +16,7 @@ Wet ingredients (mashed banana, eggs, melted butter, sugar, vanilla) mix in one 
 
 - 4 very ripe bananas (about 450 g, the blacker the better)
 - 175 g caster sugar (or 100 g caster + 75 g brown for deeper flavour)
-- 2 large eggs
+- 2 eggs (large)
 - 100 g unsalted butter (melted, cooled slightly)
 - 2 teaspoons vanilla extract
 - 250 g plain flour

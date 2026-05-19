@@ -24,7 +24,7 @@ Gumbo is a traditional Cajun soup that's served over rice as a main course. This
 - 150 ml vegetable oil
 - 115 grams plain flour
 - 1 green pepper (deseeded and chopped)
-- 1 large onion (chopped)
+- 1 onion (large, chopped)
 - 2 celery sticks (sliced)
 - 1 fresh green chilli (deseeded and chopped)
 - 3 garlic cloves (finely chopped)

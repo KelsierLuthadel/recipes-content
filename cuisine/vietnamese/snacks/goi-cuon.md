@@ -17,7 +17,7 @@ Pork belly is simmered until tender, prawns are poached briefly, and vermicelli 
 
 ### Protein
 - 300 g piece of pork belly (skin-on or off, your preference)
-- 12 large raw prawns (peeled, deveined, tails removed)
+- 12 raw prawns (large, peeled, deveined, tails removed)
 - 1 thumb-sized piece of ginger (sliced)
 - 1 spring onion (cut into 3 pieces)
 - 1 teaspoon fine sea salt
@@ -26,11 +26,11 @@ Pork belly is simmered until tender, prawns are poached briefly, and vermicelli 
 - 100 g rice vermicelli noodles
 - 2 teaspoons toasted sesame oil
 - 12 sheets rice paper (22 cm rounds; bánh tráng)
-- 1 small head butter lettuce or little gem (separated into leaves, ribs trimmed)
+- 1 small head butter lettuce (or little gem, separated into leaves, ribs trimmed)
 - A large handful mint leaves
 - A large handful coriander leaves
 - A large handful Thai basil leaves (or perilla if available)
-- A handful chives or garlic chives (cut into 8 cm lengths)
+- A handful chives (or garlic chives, cut into 8 cm lengths)
 - ½ cucumber (cut into thin batons)
 
 ### Peanut-hoisin dipping sauce

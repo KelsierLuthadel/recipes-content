@@ -12,7 +12,7 @@
 Kashmir's signature red lamb curry: the colour comes from Kashmiri chillies and ratan jot (alkanet root) rather than tomato. Lamb braises slowly in yogurt with asafoetida, fennel, ginger and ground spices until the gravy is silky and the meat fork-tender. Medium heat, deeply aromatic, a celebration dish.
 
 ## Ingredients
-- tbsp rapeseed oil or seasoned oil
+- tbsp rapeseed oil (or seasoned oil)
 - 2 tbsp garlic and ginger paste 
 - 2 tbsp paprika 
 - 1 tsp chilli powder, or more to taste 
@@ -21,7 +21,7 @@ Kashmir's signature red lamb curry: the colour comes from Kashmiri chillies and 
 - 1 tbsp ground cumin 
 - 1 ½ tbsp [mixed powder](../Spice-Mixes/mixed-powder.md)
 - 700g [pre-cooked stewed lamb](../Base/pre-cooked-lamb.md)
-- 200ml of curry base or stock from [pre-cooked stewed lamb](../Base/pre-cooked-lamb.md)
+- 200ml of curry base (or stock from [pre-cooked stewed lamb], ../Base/pre-cooked-lamb.md)
 - 2 tomatoes, quartered 
 - 2-3 tbsp [raw cashew paste](../Base/raw-cashew-paste.md)
 - 3 tbsp plain yoghurt 

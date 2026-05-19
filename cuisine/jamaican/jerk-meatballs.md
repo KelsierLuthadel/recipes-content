@@ -15,14 +15,15 @@ Two strong Caribbean flavours pulled into a single one-pan dinner: jerk on the i
 ## Ingredients
 
 ### Meatballs
-- 680 g (1.5 lbs) ground pork
-- 1 large egg
+- 680 g (1 ½ lbs) ground pork
+- 1 egg (large)
 - ½ cup seasoned panko breadcrumbs
 - 4 garlic cloves (finely minced)
 - ¼ cup sliced scallions (plus more for garnish)
 - 2 tablespoons jerk seasoning (Walkerswood)
 - 1 teaspoon ginger paste (or 2 teaspoons grated fresh)
-- Salt and black pepper
+- salt
+- pepper
 - 2 tablespoons unsalted butter
 - 1 tablespoon olive oil
 
@@ -30,8 +31,8 @@ Two strong Caribbean flavours pulled into a single one-pan dinner: jerk on the i
 - 1 tablespoon unsalted butter
 - 1 shallot (finely chopped)
 - 3 garlic cloves (minced)
-- 1 small green bell pepper (thinly sliced)
-- 1 small red bell pepper (thinly sliced)
+- 1 green bell pepper (small, thinly sliced)
+- 1 red bell pepper (small, thinly sliced)
 - 3 teaspoons Jamaican curry powder
 - 1 can (400 ml) full-fat coconut milk
 - Rice and scallions, to serve

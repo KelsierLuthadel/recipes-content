@@ -10,7 +10,7 @@
 Sabayon is a classic French dessert sauce made by whisking egg yolks, sugar, and sweet wine over gentle heat until the mixture becomes pale, thick, and mousse-like. The technique relies on careful temperature control to cook the yolks without scrambling them, producing a light, ribbon-consistency foam. It can be served on its own in a glass or spooned over fruit and briefly gratinéed for a more indulgent finish.
 
 ## Ingredients
-- 100 ml Sauternes or other sweet white wine
+- 100 ml Sauternes (or other sweet white wine)
 - 3 egg yolks
 - 40 grams caster sugar
 

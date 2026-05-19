@@ -17,15 +17,17 @@ Pork loin escalopes pound thin, bread, and shallow-fry. While they crisp, a sauc
 ### Schnitzel
 - 4 pork loin escalopes (about 150 g each)
 - 100 g plain flour
-- 3 large eggs (beaten)
+- 3 eggs (large, beaten)
 - 200 g fine breadcrumbs
-- Salt and freshly ground black pepper
-- 4 tablespoons vegetable oil + 30 g butter for shallow-frying
+- salt
+- pepper
+- 4 tablespoons vegetable oil 
+- 30 g butter
 
 ### Mushroom sauce
 - 100 g smoked bacon lardons
 - 1 tablespoon vegetable oil
-- 1 small onion (finely chopped)
+- 1 onion (small, finely chopped)
 - 2 garlic cloves (crushed)
 - 400 g mixed mushrooms (chestnut, oyster, etc.; sliced)
 - 100 ml dry white wine
@@ -34,15 +36,16 @@ Pork loin escalopes pound thin, bread, and shallow-fry. While they crisp, a sauc
 - 1 teaspoon Dijon mustard
 - 1 teaspoon fresh thyme leaves
 - A small bunch of flat-leaf parsley (chopped)
-- Salt and freshly ground black pepper
+- salt
+- pepper
 
 ### To serve
-- Spätzle or boiled new potatoes
+- Spätzle (or boiled new potatoes)
 
 ## Method
 
 ### Stage 1 - Sauce
-1. Heat the oil in a wide heavy pan; cook the lardons until the fat renders and they're crisp.
+1. Heat the oil and butter in a wide heavy pan; cook the lardons until the fat renders and they're crisp.
 1. Add the onion; cook 5 minutes.
 1. Add the garlic and mushrooms; cook 6-7 minutes until any liquid has evaporated and the mushrooms are golden.
 1. Pour in the wine; let it reduce by half.

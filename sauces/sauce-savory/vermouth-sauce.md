@@ -28,7 +28,8 @@ A sophisticated, silky sauce showcasing dry vermouth's herbal complexity balance
 ### Finishing
 - 60 grams butter (well chilled and diced)
 - 1 pinch paprika
-- salt and pepper
+- salt
+- pepper
 
 ## Method
 

@@ -17,7 +17,7 @@ Mixed lamb-and-beef mince mixes with grated onion, parsley, allspice, cinnamon a
 ### Kafta
 - 500 g lamb mince
 - 300 g beef mince
-- 1 large onion (very finely grated, juices reserved)
+- 1 onion (large, very finely grated, juices reserved)
 - 4 tablespoons fresh parsley (chopped)
 - 2 garlic cloves (crushed)
 - 1 ½ teaspoons ground allspice
@@ -26,10 +26,10 @@ Mixed lamb-and-beef mince mixes with grated onion, parsley, allspice, cinnamon a
 - 1 ½ teaspoons salt
 
 ### Tray layers
-- 4 medium potatoes (peeled, sliced 5 mm thick)
-- 3 large tomatoes (sliced 5 mm)
+- 4 potatoes (medium, peeled, sliced 5 mm thick)
+- 3 tomatoes (large, sliced 5 mm)
 - 1 green bell pepper (sliced into rings)
-- 1 small red onion (sliced)
+- 1 red onion (small, sliced)
 
 ### Sauce
 - 3 tablespoons tomato puree
@@ -37,7 +37,7 @@ Mixed lamb-and-beef mince mixes with grated onion, parsley, allspice, cinnamon a
 - 4 garlic cloves (crushed)
 - 1 teaspoon ground allspice
 - 1 teaspoon salt
-- 500 ml hot stock or water
+- 500 ml hot stock (or water)
 
 ### To finish
 - 3 tablespoons olive oil (for drizzling)

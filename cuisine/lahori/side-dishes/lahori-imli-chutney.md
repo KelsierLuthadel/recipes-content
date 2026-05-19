@@ -27,7 +27,7 @@ Lump tamarind is soaked in hot water and strained for a thick brown extract. The
 - 1 teaspoon chaat masala
 - 1 tablespoon raisins (optional, for the sweet pop)
 - 1 tablespoon dates (chopped, optional)
-- 200 ml additional water
+- 200 ml water
 
 ## Method
 

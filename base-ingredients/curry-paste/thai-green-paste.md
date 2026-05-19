@@ -17,8 +17,8 @@ Thai green curry paste combines fresh green chillies (not reduced in heat like T
 ## Ingredients
 
 ### Fresh Aromatics & Herbs  
-- 4 large fresh green chillies (de-seeded for moderate heat; keep seeds for authentic spiciness)
-- 1 medium onion (finely chopped)
+- 4 fresh green chillies (large, de-seeded for moderate heat; keep seeds for authentic spiciness)
+- 1 onion (medium, finely chopped)
 - 1 tablespoon fresh garlic (minced)
 - 8 tablespoons fresh coriander (chopped, including stems)
 - 2 pieces lemon grass (tender portions, finely sliced)

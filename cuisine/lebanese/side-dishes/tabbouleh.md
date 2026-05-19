@@ -15,11 +15,11 @@ Bulgur soaks briefly in lemon juice, not water, so it tenderises while taking on
 ## Ingredients
 
 - 50 g fine bulgur
-- Juice of 2 lemons (about 6 tablespoons)
+- 2 lemons (about 6 tablespoons, juice)
 - 4 large bunches flat-leaf parsley (around 250 g; leaves only)
 - 1 small bunch mint (leaves only; around 30 g)
 - 4 spring onions (white and green; finely sliced)
-- 4 medium ripe tomatoes (deseeded; very finely diced)
+- 4 ripe tomatoes (medium, deseeded; very finely diced)
 - 6 tablespoons extra-virgin olive oil
 - 1 teaspoon salt
 - ½ teaspoon black pepper

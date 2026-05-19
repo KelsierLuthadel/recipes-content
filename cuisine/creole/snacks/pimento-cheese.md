@@ -13,7 +13,7 @@
 Sharp cheddar is grated on the LARGE side of a box grater (not the small, texture matters). A small amount of cream cheese is softened to bind. Jarred roasted red peppers (pimentos) are drained and chopped fine. Everything is mixed with mayonnaise, Worcestershire, garlic powder, paprika, lots of black pepper, and a tiny pinch of cayenne. Chilled for 30 min to let the flavours meld. Eaten with crackers or made into a sandwich.
 
 ## Ingredients
-- 400 g mature sharp cheddar (extra-mature or vintage; ORANGE cheddar gives the iconic colour but white works)
+- 400 g mature sharp cheddar cheese (extra-mature or vintage; ORANGE cheddar gives the iconic colour but white works)
 - 100 g cream cheese (softened)
 - 150 g mayonnaise (Duke's or Hellmann's - Southerners insist on Duke's)
 - 100 g jarred pimentos (or roasted red peppers; drained, patted dry, finely diced)

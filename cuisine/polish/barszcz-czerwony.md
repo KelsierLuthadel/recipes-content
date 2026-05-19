@@ -15,12 +15,12 @@ The brightest barszcz uses fermented beetroot kvas, beetroot, garlic and rye bre
 ## Ingredients
 
 ### Broth
-- 4 medium beetroots (around 600 g; peeled and chopped)
-- 1 large onion (quartered)
+- 4 beetroots (medium, around 600 g; peeled and chopped)
+- 1 onion (large, quartered)
 - 2 carrots (chopped)
 - 2 celery sticks (chopped)
 - 4 garlic cloves (smashed)
-- 20 g dried wild mushrooms or porcini
+- 20 g dried wild mushrooms (or porcini)
 - 2 bay leaves
 - 6 allspice berries
 - 6 black peppercorns
