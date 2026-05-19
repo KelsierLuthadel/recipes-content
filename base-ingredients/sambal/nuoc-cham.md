@@ -26,6 +26,7 @@ Nuoc cham represents Vietnamese cooking philosophy distilled to its essence. Thi
 
 ### Optional Additions
 - ¼ teaspoon white pepper (for heat variation)
+- 1-2 tablespoons water (to adjust consistency)
 
 ## Method
 
