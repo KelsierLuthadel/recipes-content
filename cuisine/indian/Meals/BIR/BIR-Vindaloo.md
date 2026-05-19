@@ -14,7 +14,7 @@ A hot, sour, and deeply spiced curry originating from Goa. Built on a vinegar-ba
 
 ## Ingredients
 ### Protein
-300-400g meat (chicken, lamb, beef, or pork), diced
+- 400 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
 ### Marinade (Vindaloo Paste)
 - 6-8 cloves garlic
 - 1 tbsp ginger (chopped)

@@ -32,7 +32,8 @@ A creamy, nutty British-Indian korma that uses both block coconut and coconut fl
 - 100 g  block coconut
 
 ### Protein
-- 800 g raw chicken breast, cut on the diagonal into 5 mm (¼ in) slices, or pre-cooked stewed chicken
+- 800 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
+- 125 ml (½ cup) Chicken stock (or stock from Pre-Cooked Chicken)
 
 ### Finishing
 - 1 tbsp garam masala

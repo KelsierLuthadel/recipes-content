@@ -21,7 +21,8 @@ A sweet and smooth British-Indian chasni that pairs best with tandoori chicken t
 
 ### Sauce and chicken
 - 500 ml [Curry Base Gravy](../../Base/curry-base.md)
-- 800 g  pre-cooked stewed chicken, plus 125 ml (½ cup) cooking stock, or extra base curry sauce
+- 800 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
+- 125 ml (½ cup) Chicken stock (or stock from Pre-Cooked Chicken)
 
 ### Flavourings and finishers
 - 3 tbsp smooth mango chutney

@@ -29,7 +29,7 @@ British-Indian Pasanda is a mild, creamy curry based on almond and coconut richn
 - 100 g block coconut, cut into small pieces
 
 ### Protein
-- 800 g (1 lb 12 oz) skinless, boneless chicken breast, thinly sliced diagonally
+- 800 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
 - Splash of red wine (125 ml/½ cup) (optional)
 - Salt, to taste
 

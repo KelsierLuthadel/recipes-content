@@ -29,7 +29,8 @@ A curry-house jalfrezi inspired by a Balti House classic, featuring quick stir-f
 - 2 tbsp mixed powder
 - 1 tsp chilli powder (optional)
 - 500 ml [Curry Base Gravy](../../Base/curry-base.md)
-- 700 g pre-cooked stewed chicken, plus 100 ml (scant ½ cup) cooking stock
+- 800 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
+- 125 ml (½ cup) Chicken stock (or stock from Pre-Cooked Chicken)
 - 2 tomatoes, quartered
 
 ### Finishers

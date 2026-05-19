@@ -36,7 +36,7 @@ An aromatic curry-house classic that blends tandoori chicken with a sweet-spicy 
 - 1 tsp tamarind concentrate
 
 ### Protein and finish
-- 700 g tandoori chicken tikka
+- 800 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
 - ½ banana, sliced into coins
 - 2 tbsp raisins (optional)
 - 2 tsp smooth mango chutney

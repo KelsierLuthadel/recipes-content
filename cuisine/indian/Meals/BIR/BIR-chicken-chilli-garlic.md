@@ -32,8 +32,8 @@ A bold, garlicky curry with a brisk curry-house kick. This jalfrezi-style dish u
 - 500 ml [Curry Base Gravy](../../Base/curry-base.md)
 
 ### Protein
-- 800 g tandoori chicken tikka
-- 125 ml (½ cup) pre-cooked stewed chicken stock or spice stock
+- 800 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
+- 125 ml (½ cup) Chicken stock (or stock from Pre-Cooked Chicken)
 
 ### Finishers
 - 1 tsp dried fenugreek leaves (kasoori methi)

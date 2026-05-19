@@ -33,7 +33,8 @@ A classic British curry-house madras with a sweet-and-sour profile, featuring te
 
 ### Sauce and protein
 - 500 ml [Curry Base Gravy](../../Base/curry-base.md)
-- 800 g  pre-cooked stewed lamb, plus 250 ml (1 cup) cooking stock, or extra base curry sauce
+- 750 g [Pre-cooked Lamb](../../Base/pre-cooked-lamb.md)
+- 200 ml (generous ¾ cup) Lamb stock (or stock from Pre-cooked Lamb)
 
 ### Finishers
 - 1-2 tbsp smooth mango chutney, to taste

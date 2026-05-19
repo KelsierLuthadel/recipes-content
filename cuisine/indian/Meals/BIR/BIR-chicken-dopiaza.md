@@ -32,7 +32,9 @@ A vibrant do-piaza curry based on layered onion textures and warming spices. Thi
 
 ### Sauce and chicken
 - 500 ml [Curry Base Gravy](../../Base/curry-base.md)
-- 600 g  pre-cooked stewed chicken, plus 250 ml (1 cup) of its cooking stock, or extra base curry sauce
+- 600 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
+- 125 ml (½ cup) Chicken stock (or stock from Pre-Cooked Chicken)
+
 
 ### Finishers
 - 7 tbsp onion paste made with yoghurt

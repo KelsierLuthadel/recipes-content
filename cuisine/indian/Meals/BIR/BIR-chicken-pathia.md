@@ -30,7 +30,8 @@ A British-Indian pathia curry with a sweet-and-sour profile, tuned for balanced 
 
 ### Sauce and protein
 - 500 ml [Curry Base Gravy](../../Base/curry-base.md)
-- 800 g ( pre-cooked stewed chicken, plus 125 ml (½ cup) cooking stock, or extra base curry sauce
+- 800 g [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
+- 125 ml (½ cup) Chicken Stock (or stock from Pre-cooked Chicken)
 
 ### Finishers
 - 1 tbsp smooth mango chutney, or to taste

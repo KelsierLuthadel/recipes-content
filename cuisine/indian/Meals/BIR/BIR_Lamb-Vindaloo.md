@@ -34,7 +34,8 @@ A fiery British curry-house vindaloo with Portuguese-Goan influences, featuring 
 
 ### Sauce and protein
 - 600 ml [Curry Base Gravy](../../Base/curry-base.md)
-- 800 g pre-cooked stewed lamb, plus generous ¾ cup cooking stock
+- 800 g [Pre-cooked Lamb](../../Base/pre-cooked-lamb.md) 
+- 175 ml Lamb Stock (or stock from Pre-cooked Lamb)
 
 ### Finishers
 - 2 tbsp white wine vinegar

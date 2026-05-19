@@ -38,7 +38,7 @@ A curry-house style chicken curry that builds flavor from whole spices and fresh
 - 2 tomatoes (medium), diced
 
 ### Protein
-- 900 g (2 lb) chicken thighs or breast, cut into bite-size pieces
+- 900 g (2 lb) chicken (cut into bite-size pieces)
 
 ### Finish
 - Pinch dried fenugreek leaves (kasoori methi)

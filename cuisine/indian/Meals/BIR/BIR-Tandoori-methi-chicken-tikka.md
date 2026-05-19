@@ -17,7 +17,7 @@ A flavorful methi chicken tikka combining fresh fenugreek with aromatic spices a
 
 ## Ingredients
 ### Protein
-- 800 g (1 lb 12 oz) skinless chicken thighs or breasts, cut into 7 ½ cm (3 in) pieces
+- 800 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
 
 ### Marinade
 - 2 large bunches (about 100 g/3 ½ oz) fresh fenugreek leaves*

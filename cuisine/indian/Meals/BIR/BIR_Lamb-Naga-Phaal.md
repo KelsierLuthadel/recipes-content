@@ -33,7 +33,7 @@ An extremely hot British curry-house phall featuring Naga chillies and Mr Naga p
 
 ### Sauce and protein
 - 300 ml [Curry Base Gravy](../../Base/curry-base.md)
-- 200 g lamb tikka or pre-cooked lamb in sauce
+- 200 g lamb tikka or [Pre-cooked Lamb](../../Base/pre-cooked-lamb.md)
 
 ### Finishers
 - Salt, to taste

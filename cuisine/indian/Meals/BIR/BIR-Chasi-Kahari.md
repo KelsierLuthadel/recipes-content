@@ -1,4 +1,4 @@
-# Charsi Karahi
+# Lamb Charsi Karahi
 
 ![Charsi Karahi](resources/BIR-Chasi-Kahari.jpg)
 

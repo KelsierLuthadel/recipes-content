@@ -16,7 +16,7 @@ A rich, creamy tomato-based curry with mild spice and buttery finish. A BIR-styl
 ## Ingredients
 
 ### Chicken Marinade
-- 400g chicken
+- 400 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
 - 2 tbsp yogurt
 - 1 tbsp ginger-garlic paste
 - 1 tsp chilli powder

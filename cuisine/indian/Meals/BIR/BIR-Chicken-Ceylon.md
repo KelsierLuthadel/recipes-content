@@ -36,8 +36,8 @@ A bright and spicy Sri Lankan-inspired curry with a curry-house spin, featuring 
 
 ### Sauces and proteins
 - 625 ml [Curry Base Gravy](../../Base/curry-base.md)
-- 800 g tandoori chicken tikka
-- 125 ml (½ cup) spice stock or pre-cooked stewed chicken stock
+- 800 g [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
+- 125 ml (½ cup) spice stock (or stock from Pre-Cooked Chicken)
 - 100 g block coconut, cut into small pieces
 
 ### Finishers

@@ -30,7 +30,8 @@ A restaurant-style bhuna using pre-cooked lamb for speed, while keeping the dry,
 
 ### Sauce + protein
 - 500 ml [Curry Base Gravy](../../Base/curry-base.md)
-- 800 g  pre-cooked stewed lamb, plus 250 ml (1 cup) cooking stock (or extra base sauce)
+- 750 g [Pre-cooked Lamb](../../Base/pre-cooked-lamb.md)
+- 200 ml (generous ¾ cup) Lamb stock (or stock from Pre-cooked Lamb)
 
 ### Finishing
 - 2 tbsp Greek yoghurt

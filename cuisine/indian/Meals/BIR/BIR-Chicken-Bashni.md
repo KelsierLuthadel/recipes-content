@@ -15,7 +15,7 @@ A sweet, creamy Scottish curry with minimal spice.
 ## Ingredients
 
 ### Protein
-- 400g chicken
+- 400 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
 
 ### Base
 - 2 tbsp oil

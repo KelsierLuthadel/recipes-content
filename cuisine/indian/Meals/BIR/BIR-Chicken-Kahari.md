@@ -24,7 +24,8 @@ A classic karahi curry inspired by Imran’s in Birmingham, featuring tender chi
 - 1 tbsp freshly ground black pepper
 
 ### Protein
-- 800 g (1 lb 12 oz) chicken leg and thigh, cut into pieces (on or off bone)
+- 800 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
+- 125 ml (½ cup) Chicken stock (or stock from Pre-Cooked Chicken)
 
 ### Base
 - 4 tbsp rapeseed (canola) oil

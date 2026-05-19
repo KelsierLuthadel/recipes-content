@@ -32,8 +32,8 @@ A Punjabi-inspired achari curry featuring pickle spices like panch poran and dri
 
 ### Sauce and protein
 - 600 ml [Curry Base Gravy](../../Base/curry-base.md)
-- 750 g pre-cooked lamb
-- 200 ml (generous ¾ cup) cooking stock
+- 750 g [Pre-cooked Lamb](../../Base/pre-cooked-lamb.md)
+- 200 ml (generous ¾ cup) Lamb stock (or stock from Pre-cooked Lamb)
 
 ### Finishers
 - 2 tbsp lime pickle, or 1 tbsp each lime pickle and smooth mango chutney

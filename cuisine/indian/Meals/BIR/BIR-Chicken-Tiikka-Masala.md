@@ -16,7 +16,7 @@ A creamy, mildly spiced tomato-based curry using grilled or pan-fried marinated 
 ## Ingredients
 
 ### Chicken Marinade
-- 400g chicken  
+- 400 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
 - 2 tbsp yogurt  
 - 1 tbsp ginger-garlic paste  
 - 1 tsp chilli powder  

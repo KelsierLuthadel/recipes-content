@@ -35,7 +35,8 @@ A British-Indian take on the classic Kashmiri lamb rogan josh, featuring a deep 
 - 500 ml (2 cups) [Curry Base Gravy](../../Base/curry-base.md)
 
 ### Protein
-- 700 g pre-cooked stewed lamb, plus 200 ml (generous ¾ cup) of its cooking stock
+- 750 g [Pre-cooked Lamb](../../Base/pre-cooked-lamb.md)
+- 200 ml (generous ¾ cup) Lamb stock (or stock from Pre-cooked Lamb)
 
 ### Vegetables
 - 2 tomatoes, quartered

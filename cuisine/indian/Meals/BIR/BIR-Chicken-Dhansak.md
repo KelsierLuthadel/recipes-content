@@ -29,7 +29,8 @@ A British curry-house classic with sweet-sour notes of pineapple and lemon and e
 - 180 g (1 cup) red split lentils, rinsed and cooked until soft (e.g., tarka dhal)
 
 ### Protein and sweet-sour
-- 800 g  pre-cooked stewed chicken, plus a splash of cooking stock or spice stock
+- 800 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
+- 125 ml (½ cup) Chicken stock (or stock from Pre-Cooked Chicken)
 - 115 ml (scant ½ cup) pineapple juice
 - 3-4 canned pineapple rings, cut into pieces
 - Salt, to taste

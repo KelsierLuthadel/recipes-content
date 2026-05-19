@@ -40,7 +40,7 @@ Fenugreek-forward chicken methi curry with a rich base sauce and a tangy cream f
 - 500 ml [Curry Base Gravy](../../Base/curry-base.md)
 
 ### Protein and finish
-- 700 g [pre-cooked stewed chicken](../Base/curry-base.md)
+- 800 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
 - 4 tbsp plain yoghurt
 - Salt, to taste
 - 3 tbsp chopped coriander (cilantro) leaves

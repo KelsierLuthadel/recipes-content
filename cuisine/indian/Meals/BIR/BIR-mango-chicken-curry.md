@@ -30,7 +30,7 @@ A sweet-spicy BIR-style mango chicken curry with plenty of tropical fruit bright
 - 4 tbsp smooth mango chutney
 
 ### Protein and fruit
-- 700 g  pre-cooked chicken
+- 800 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
 - 1 mango (small), cut into bite-size chunks (or canned mango)
 
 ### Finishers
