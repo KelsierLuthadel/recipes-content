@@ -3,6 +3,7 @@
 *Britain's curry-house favourite: tandoori-marinated chicken tikka simmered in a creamy tomato-and-spice sauce.*
 
 
+**Serves:** 2
 **Prep Time:** 10 minutes
 **Cook Time:** 2 minutes
 

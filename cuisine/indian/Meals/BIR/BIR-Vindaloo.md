@@ -3,6 +3,7 @@
 *The BIR vindaloo: pre-cooked meat in a fiery dark gravy of dried red chillies, vinegar, garlic and Madras spice.*
 
 
+**Serves:** 2
 **Prep Time:** 15 minutes
 **Cook Time:** 4 minutes
 

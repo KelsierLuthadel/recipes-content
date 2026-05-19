@@ -3,6 +3,7 @@
 *The BIR chicken chasni: pre-cooked chicken in a sweet-sour creamy sauce built on mango chutney, tomato ketchup and yogurt.*
 
 
+**Serves:** 2
 **Prep Time:** 10 minutes
 
 ![Chicken Chasni](../resources/chicken-chasni.png)
