@@ -1,4 +1,4 @@
-# Jay's Mixed Meat and Bean Chilli
+# Mixed Meat and Bean Chilli
 
 ![Chilli con carne](resources/jays_chilli.jpg)
 
