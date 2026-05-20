@@ -17,7 +17,7 @@ Dried shrimp and dried shiitake soak in warm water until plump; the soaking wate
 ### Flavour base
 - 20 g dried shrimp (sold at Asian shops)
 - 4 dried shiitake mushrooms
-- 200 ml just-boiled water (for soaking the shiitake and shrimp)
+- 200 ml water (just-boiled, for soaking the shiitake and shrimp)
 - 2 Chinese sausages (lap cheong, sold vacuum-packed at Asian shops)
 - 2 shallots (small, finely diced)
 - 2 tablespoons vegetable oil

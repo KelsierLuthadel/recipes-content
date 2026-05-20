@@ -22,7 +22,7 @@ Filling: black sesame seeds toasted in a dry pan, ground to a paste with sugar a
 
 ### Dough
 - 200 g glutinous rice flour (sometimes called sweet rice flour or sticky rice flour)
-- 130-150 ml just-boiled water
+- 130-150 ml water (just-boiled)
 - A pinch of salt
 
 ### Syrup

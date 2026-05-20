@@ -17,7 +17,7 @@ A boiling-water dough rests until pliable. Each piece rolls thin into a long rec
 ### Dough
 - 300 g plain flour (plus more for rolling)
 - ½ teaspoon salt
-- 200 ml just-boiled water
+- 200 ml water (just-boiled)
 - 2 tablespoons cold water
 
 ### Filling

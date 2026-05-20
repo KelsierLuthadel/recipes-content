@@ -15,7 +15,7 @@ Fresh mint leaves are chopped very fine (or pulsed in a small processor). Sugar 
 ## Ingredients
 
 - 1 large bunch fresh mint (about 30 g leaves only, stems discarded - spearmint is the traditional choice)
-- 2 tablespoons just-boiled water
+- 2 tablespoons water (just-boiled)
 - 1 tablespoon caster sugar
 - 3-4 tablespoons malt vinegar (traditional) - or white wine vinegar (more delicate)
 - A small pinch of salt

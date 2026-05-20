@@ -26,7 +26,7 @@ The shortcrust uses lard (or vegetable shortening + butter) for the right crumbl
 ### Custard
 - 4 eggs (large)
 - 150 g caster sugar
-- 200 ml just-boiled water
+- 200 ml water (just-boiled)
 - 100 ml evaporated milk (NOT condensed; sold in tins)
 - 1 teaspoon vanilla extract
 

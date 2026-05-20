@@ -43,7 +43,7 @@ Lamb and chicken poach slowly in a saffron-tomato broth with chunks of root vege
 - 500 g couscous
 - 50 g unsalted butter
 - 1 teaspoon salt
-- 600 ml just-boiled water
+- 600 ml water (just-boiled)
 
 ### To serve
 - 4 tablespoons [Harissa](../../base-ingredients/sauces/harissa.md)
