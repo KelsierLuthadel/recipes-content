@@ -7,7 +7,7 @@
 **Prep Time:** 10 minutes
 **Cook Time:** 2 minutes
 
-![Butter Chicken](../resources/butter-chicken.png)
+![Butter Chicken](resources/butter-chicken.png)
 
 ## Overview
 A rich, creamy tomato-based curry with mild spice and buttery finish. A BIR-style adaptation of murgh makhani.

@@ -1,6 +1,6 @@
 # Thai Red Curry
 
-![Thai Red Curry](../resources/thai-red.jpg)
+![Thai Red Curry](resources/thai-red.jpg)
 
 *Thailand's red curry: meat or vegetables simmered in a coconut sauce built on dried-red-chilli paste.*
 

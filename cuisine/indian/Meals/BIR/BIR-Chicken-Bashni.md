@@ -6,7 +6,7 @@
 **Serves:** 2
 **Prep Time:** 10 minutes
 
-![Chicken Chasni](../resources/chicken-chasni.png)
+![Chicken Chasni](resources/chicken-chasni.png)
 
 ## Overview
 A sweet, creamy Scottish curry with minimal spice.

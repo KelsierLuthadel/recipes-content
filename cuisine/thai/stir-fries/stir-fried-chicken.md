@@ -1,6 +1,6 @@
 # Stir Fried Chicken with Chilli and Basil
 
-![Stir Fried Chicken with Chilli and Basil](../resources/stir-fried-chicken.jpg)
+![Stir Fried Chicken with Chilli and Basil](resources/stir-fried-chicken.jpg)
 
 *Thailand's stir-fried chicken with chilli and basil: chicken tossed hot with garlic, fresh chilli and a handful of holy basil.*
 

@@ -7,7 +7,7 @@
 **Prep Time:** 10 minutes
 **Cook Time:** 2 minutes
 
-![Chicken Tikka Masala](../../side-dishes/resources/tikka.png)
+![Chicken Tikka Masala](resources/tikka.png)
 
 ## Overview
 A creamy, mildly spiced tomato-based curry using grilled or pan-fried marinated chicken, finished with a rich sauce.

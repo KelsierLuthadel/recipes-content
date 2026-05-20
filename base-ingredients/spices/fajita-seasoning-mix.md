@@ -6,7 +6,7 @@
 **Prep Time:** 5 minutes
 **Cook Time:** 7 minutes
 
-![Fajita Seasoning Mix](resources/fajita-seasoning.gif)
+![Fajita Seasoning Mix](resources/fajita-seasoning.jpg)
 
 *This is a dry spice blend designed to season fajita preparations, grilled meat and vegetables with a specific Tex-Mex character. Unlike wet marinades, this powder is added to hot oil and protein, creating a quick-cooking flavorful coating. This mix prioritizes speed and simplicity without sacrificing authentic taste.*
 
