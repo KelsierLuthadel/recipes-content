@@ -3,6 +3,7 @@ name: Spring Refresh
 tagline: Light, green, and a little bit indulgent. The first warm-weather plates of the year.
 publishedAt: 2026-05-15
 seasonalrange: 03-01..05-31
+kind: seasonal
 ---
 
 Spring cooking is about restraint. The shoulder-season produce is so good that the kitchen's job is mostly to stay out of its way: blanch the asparagus and dress it in something glossy, char the spring onions until they hum, fold peas through pasta at the last possible second. After a winter of slow roasts and root vegetables, this is the moment for sharp herbs, lemon zest, a little cream where it earns its place, and rhubarb on every dessert plate.

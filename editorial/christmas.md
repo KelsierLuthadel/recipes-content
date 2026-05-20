@@ -3,6 +3,8 @@ name: Christmas Feast
 tagline: A big roast, sprouts done right, and a table that smells of clove and orange.
 publishedAt: 2026-05-15
 seasonalrange: 12-01..12-26
+kind: religious
+origin: Christian tradition
 ---
 
 Christmas dinner is a feat of theatre as much as cookery. There is a moment, usually around half past two in the afternoon, when a very large piece of meat comes out of the oven, and everything else at the table has to be ready in the same fifteen-minute window. Yorkshire puddings rising, sprouts glazed, gravy hot, roast potatoes crisp, the table set. The rest of the day is the gentle decline that follows.

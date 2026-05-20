@@ -3,6 +3,8 @@ name: Lunar New Year
 tagline: A reunion table built on symbols: whole fish for abundance, long noodles for long life, sweet round things for togetherness.
 publishedAt: 2026-05-20
 seasonalrange: 01-21..02-20
+kind: festival
+origin: East Asia
 ---
 
 Lunar New Year is the most important feast in the Chinese calendar, and every dish on the table has a meaning. The fish is served whole because the word for fish is a homophone for surplus — and you don't finish it, you leave some over for next year. Long noodles uncut for long life; you don't bite through them in the middle. Round, sweet things like tang yuan, the glutinous-rice balls in warm syrup, stand for family togetherness because they're round and they stick.

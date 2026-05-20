@@ -3,6 +3,8 @@ name: Day of the Dead
 tagline: Mole, tamales, pan de muerto and tres leches: the Mexican feast for the ancestors. Built to honour the dead and feed the living.
 publishedAt: 2026-05-20
 seasonalrange: 10-25..11-05
+kind: festival
+origin: Mexico
 ---
 
 Día de los Muertos is the Mexican celebration that meets the dead at the table. Altars (ofrendas) carry photographs and marigolds and the favourite foods of the people being honoured — a tin of beer here, a plate of mole there, a bowl of tortilla soup steaming for someone who used to make it on Sundays.

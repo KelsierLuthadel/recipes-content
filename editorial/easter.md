@@ -3,6 +3,8 @@ name: Easter
 tagline: The roast lamb at the centre of the table. Hot cross buns at breakfast, simnel cake at tea. Spring on the plate after the slow grey end of winter.
 publishedAt: 2026-05-20
 seasonalrange: 03-20..04-25
+kind: religious
+origin: Christian tradition
 ---
 
 Easter is the slow Sunday lunch at the spring end of the calendar. The lamb is the headline — a leg, studded with garlic and rosemary, roasted to pink at the bone, carved at the table. Or a shoulder slow-cooked for hours until it pulls apart on the spoon. The sides are spring-coded: new potatoes, asparagus, peas, buttered carrots, mint sauce in a small glass jug.

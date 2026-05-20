@@ -3,6 +3,8 @@ name: Diwali
 tagline: The festival of lights: a table built around sweets, paneer, and the rich smell of ghee and cardamom.
 publishedAt: 2026-05-20
 seasonalrange: 10-15..11-15
+kind: festival
+origin: India
 ---
 
 Diwali cooking centres on two things: a generous vegetarian feast and a parade of sweets. The savoury side leans into the slow-cooked staples — dal simmered until it's almost a sauce, paneer in spinach gravies, biryanis layered with saffron and ghee, breads pulled fresh from the tawa. The sweets are the whole point for many households: jalebis still warm from the syrup, rasmalai in saffron-laced milk, kheer thickened slowly with cardamom and cashews.

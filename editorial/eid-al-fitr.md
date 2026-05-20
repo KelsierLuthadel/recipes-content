@@ -3,6 +3,8 @@ name: Eid al-Fitr
 tagline: The sweet Eid. Sheer khurma, sevaiyan, maamoul, baklava, gulab jamun. The morning after a month of fasting, the table is soft, sweet and short.
 publishedAt: 2026-05-20
 seasonalrange: 02-15..05-15
+kind: religious
+origin: Muslim world
 ---
 
 Eid al-Fitr — the Festival of Breaking the Fast — closes the month of Ramadan with a morning of sweet food. The first proper breakfast in thirty days is not a feast of meat: it is bowls of sweet vermicelli, plates of date cookies, glasses of milky tea and dates from the silver bowl on the side table. The cooking is gentle, family-quiet, gradual.

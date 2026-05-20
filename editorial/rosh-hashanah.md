@@ -3,6 +3,8 @@ name: Rosh Hashanah
 tagline: Apples and honey, slow-cooked brisket, round challah, sweet kugels. The Jewish New Year, signalled in the kitchen with sweetness for a sweet year ahead.
 publishedAt: 2026-05-20
 seasonalrange: 09-01..10-15
+kind: religious
+origin: Jewish tradition
 ---
 
 Rosh Hashanah, the Jewish New Year, has one organising principle for the cook: anything sweet, anything round. Sliced apples dipped in honey kick off the meal — the canonical opening gesture of the year — and the table goes from there. The challah is round rather than braided, often raisin-studded, glazed with extra honey. Brisket goes in low and slow, often with a sweet-sour braise of dried fruit and red wine. Roast chicken with figs. Honey cake — dense, spiced, dark with treacle — closes the meal.

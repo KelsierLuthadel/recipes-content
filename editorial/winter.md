@@ -3,6 +3,7 @@ name: Winter Comfort
 tagline: Stews, dumplings, braises, and anything that fogs the windows.
 publishedAt: 2026-05-15
 seasonalrange: 12-27..02-28
+kind: seasonal
 ---
 
 Once the Christmas roasts are over and the tree comes down, the kitchen settles into its longest, quietest stretch of the year. January and February are about cooking that takes hours and asks very little of you in return. A pot on a low heat, a slab of bread, somewhere warm to sit. The shopping list is short. The windows fog. The dog falls asleep on your feet.

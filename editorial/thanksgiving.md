@@ -3,6 +3,8 @@ name: Thanksgiving Table
 tagline: The big American family dinner: roast, stuffing, sweet potatoes, and two kinds of pie.
 publishedAt: 2026-05-15
 seasonalrange: 11-15..11-30
+kind: festival
+origin: United States
 ---
 
 Thanksgiving is the one meal of the year where almost everyone is cooking the same thing at the same time. The structure barely varies: a roast bird as the centrepiece, a stuffing it sits next to, mashed potatoes, sweet potatoes, something with corn, a green vegetable nobody really came for, and at least two pies. The skill is not improvisation. The skill is timing, oven space, and keeping the gravy hot.

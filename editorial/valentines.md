@@ -3,6 +3,7 @@ name: Valentine's Day
 tagline: Dinner for two. Steak, beef Wellington or a good piece of fish, with chocolate at the end. The cooking gets a little fancier than usual; the music is somebody's choice and not everyone's.
 publishedAt: 2026-05-20
 seasonalrange: 02-01..02-15
+kind: festival
 ---
 
 Valentine's Day in the kitchen is the small dinner: two plates, the good cutlery, a candle on the table. The food leans rich rather than abundant — one carefully cooked main rather than a parade of courses. A steak with a pan sauce. A beef Wellington if you are ambitious. A salmon fillet on a bed of butter-sweated leeks if you want light. Mussels in white wine if you want quick and romantic.

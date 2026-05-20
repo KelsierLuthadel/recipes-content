@@ -3,6 +3,8 @@ name: Halloween
 tagline: Pumpkin in every form, caramel apples on the side, bonfire-night soup. Treats by the trayful and a few savoury things that can sit in the oven while the doorbell goes.
 publishedAt: 2026-05-20
 seasonalrange: 10-15..11-01
+kind: festival
+origin: Celtic origin
 ---
 
 Halloween's cooking is the cooking of the late-October kitchen: pumpkin, squash, caramel, cinnamon, smoke. The cultural weight has shifted entirely toward the trick-or-treat trays of sweets, but the home kitchen still does its work: a soup ladled from a hollowed-out pumpkin for the early supper, a pie cooling on the counter for after, caramel apples lined up on a board for the kids and the grown-ups equally.

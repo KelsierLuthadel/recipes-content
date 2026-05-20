@@ -3,6 +3,8 @@ name: Eid al-Adha
 tagline: The big Eid. Whole-roast lamb, biryanis by the cauldron, kebabs over coals, mandi and kabsa with their mountains of rice. The festival of sacrifice, on the meat-heavy side of the table.
 publishedAt: 2026-05-20
 seasonalrange: 05-20..08-20
+kind: religious
+origin: Muslim world
 ---
 
 Eid al-Adha — the Festival of Sacrifice — commemorates the willingness of Ibrahim (Abraham) to sacrifice his son in obedience to God. The story is shared with Judaism and Christianity; the food is distinctively Muslim and distinctively meat-heavy. Where Eid al-Fitr is the sweet morning that closes Ramadan, al-Adha is the long afternoon of a feast cooked from the qurbani — the sacrificial animal — divided between the family, neighbours and the poor.

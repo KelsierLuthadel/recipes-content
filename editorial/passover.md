@@ -3,6 +3,8 @@ name: Passover
 tagline: The seder plate and the slow-roasted meats that follow. Eight days of unleavened cooking, with brisket at its centre.
 publishedAt: 2026-05-20
 seasonalrange: 03-15..04-30
+kind: religious
+origin: Jewish tradition
 ---
 
 Passover commemorates the exodus from Egypt, and the food carries the story. No leavened bread for eight days — matzo only, the unleavened cracker that recalls the bread the Israelites couldn't wait to rise. The seder itself, on the first two nights, is choreographed: each food on the seder plate stands for something — the bitter herbs for slavery, the charoset for the mortar, the egg for grief and renewal, the shank bone for the lamb of the original Passover.

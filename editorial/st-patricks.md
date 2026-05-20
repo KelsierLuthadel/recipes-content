@@ -3,6 +3,8 @@ name: St. Patrick's Day
 tagline: Irish stew, beef and Guinness, colcannon and champ, with a warm round of soda bread for the mopping. The cooking of the cottage kitchen, eaten in March with a pint on the side.
 publishedAt: 2026-05-20
 seasonalrange: 03-10..03-20
+kind: festival
+origin: Ireland
 ---
 
 St. Patrick's Day is the Irish national day on 17 March, and the food culture of the diaspora has wrapped it tightly. The cooking is straight Irish-cottage: long-simmered stews, mashed potato in three or four varieties, breads made without yeast, and stout in the pot as often as in the glass.

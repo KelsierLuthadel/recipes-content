@@ -3,6 +3,7 @@ name: Fall Harvest
 tagline: Mushrooms, root veg, apples, and the first proper fires of the year.
 publishedAt: 2026-05-15
 seasonalrange: 09-01..11-14
+kind: seasonal
 ---
 
 Autumn cooking starts the moment the evenings turn cool enough to want a soup. The shoulder lengthens, the oven comes back into rotation, and produce shifts from summer's clean greens to the earthier end of the spectrum: chestnuts, parsnips, beetroot, mushrooms the size of saucers, apples in every form. The light gets shorter and the food gets longer.

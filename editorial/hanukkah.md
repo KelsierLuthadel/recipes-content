@@ -3,6 +3,8 @@ name: Hanukkah
 tagline: Eight nights of oil — latkes, sufganiyot, brisket, and the warmth of fried dough.
 publishedAt: 2026-05-20
 seasonalrange: 12-01..12-31
+kind: religious
+origin: Jewish tradition
 ---
 
 Hanukkah is the festival of oil, and the food follows: anything fried earns a place at the table. Latkes are the centrepiece — grated potato squeezed dry, bound with egg and a whisper of onion, shallow-fried in oil until the edges go shatteringly crisp. They're eaten with sour cream or apple sauce, sometimes both, and they don't keep — you eat them as they come out of the pan.

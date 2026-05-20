@@ -3,6 +3,8 @@ name: Ramadan
 tagline: Iftar table by sunset: dates and water, harira, biryani, kebabs and a sweet to close. The slow-cooked food of a month-long fast.
 publishedAt: 2026-05-20
 seasonalrange: 01-15..04-15
+kind: religious
+origin: Muslim world
 ---
 
 Ramadan is the month-long daytime fast, and the food culture that fills it is the food culture of breaking that fast at sunset. Iftar starts at the call of the maghrib prayer with dates and water — the same three dates the Prophet broke his fast with — and then everything else.

@@ -3,6 +3,8 @@ name: Holi
 tagline: The festival of colour and the festival of snacks. Gujiya, jalebi, pakora, samosa, and thandai by the jug.
 publishedAt: 2026-05-20
 seasonalrange: 02-25..03-31
+kind: festival
+origin: India
 ---
 
 Holi is the spring festival of colour, and the food follows the energy: bright, fried, sweet, and shareable in big trays. People throw coloured powder at each other, drink thandai (a milk-and-nut drink spiced with cardamom, fennel and almond), and graze through the afternoon on plate after plate of snacks.
