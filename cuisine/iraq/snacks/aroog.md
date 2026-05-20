@@ -17,7 +17,7 @@ Fine bulgur (#1 grade) soaks in hot water until soft and fluffy. Lamb or beef mi
 
 ### Aroog
 - 200 g fine bulgur (#1 grade; not coarse)
-- 250 ml just-boiled water
+- 250 ml water (just-boiled)
 - 400 g lamb (or beef mince, 15-20% fat; leaner gives dry aroog)
 - 1 onion (large, grated, with juice)
 - 4 garlic cloves (finely chopped)
