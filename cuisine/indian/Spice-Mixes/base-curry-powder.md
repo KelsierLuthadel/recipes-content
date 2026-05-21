@@ -6,6 +6,8 @@
 
 **Prep Time:** 5 minutes
 
+**Makes:** about 50 g
+
 ## Overview
 A balanced, all-purpose curry powder used as the foundation for most BIR-style dishes.
 

@@ -4,7 +4,11 @@
 
 *A Chinese pressed rice cake: cooked short-grain rice pressed into a tin and cut into cubes.*
 
-**Cook Time:** 1 minute
+**Prep Time:** 5 minutes
+
+**Cook Time:** 50 minutes
+
+**Serves:** 4
 
 ## Overview
 Rice cake is a traditional Chinese preparation that transforms the crispy crust that forms at the bottom of a pot of slow-cooked rice into a versatile, crunchy ingredient. Once dried and deep fried, it develops a light, airy texture that sizzles dramatically when dropped into hot soup or stock. It is most famously used in Sizzling Rice Prawns and is a testament to the resourcefulness of Chinese cooking.

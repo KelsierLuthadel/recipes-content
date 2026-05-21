@@ -8,6 +8,8 @@
 
 **Yield:** 2 large naan (serves 4)
 
+**Cook Time:** 9 minutes
+
 ## Overview
 Naan is exceptional bread, leavened with yoghurt and baking powder (not yeast), resulting in tender, pillowy texture with characteristic charred patches. When cooked properly on a very hot grill or in a tandoor, the dough puffs dramatically and develops an irregular, tear-shaped silhouette. The yoghurt adds slight tang and richness. This is Indian bread-making at its most forgiving and rewarding, no extended fermentation required, yet the results are restaurant-quality.
 

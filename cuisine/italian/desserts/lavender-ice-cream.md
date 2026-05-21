@@ -6,6 +6,10 @@
 
 **Serves:** 
 
+**Prep Time:** 20 minutes
+
+**Cook Time:** 20 minutes
+
 ## Ingredients
 - 750 ml [crème anglaise](../../../baking/cremes/creme-anglaise.md) (warm, infused with 10 sprigs of lavender)
 - 100 ml double cream

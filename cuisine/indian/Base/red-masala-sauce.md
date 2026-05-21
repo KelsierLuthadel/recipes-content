@@ -6,6 +6,8 @@
 
 **Prep Time:** 10 minutes
 
+**Makes:** 500 ml marinade
+
 ## Overview
 A simple spiced yoghurt marinade used for tandoori-style dishes. Combines yoghurt with tandoori paste, warming spices, and a touch of lemon juice to create a vibrant red coating for chicken, lamb, or vegetables before grilling or roasting.
 

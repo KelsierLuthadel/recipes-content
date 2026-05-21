@@ -6,6 +6,8 @@
 
 **Yield:** Approximately 10-15 grams (makes 8-12 portions as a tempering blend)
 
+**Prep Time:** 5 minutes
+
 ## Overview
 Panch phoram is unique: instead of roasting and grinding, the typical spice blend approach, these five seeds are kept whole and briefly fried in hot oil to release their inherent aromas, then scattered over finished dishes. Each seed contributes equally: fenugreek for bitterness, cumin for earthiness, fennel for sweetness, mustard for pungency, and wild onion for sharpness. When tempered together in oil, they create a complex flavor base that's more about technique than blend chemistry.
 

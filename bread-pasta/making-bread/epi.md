@@ -4,6 +4,8 @@
 
 *The French wheat-sheaf loaf: a long baguette cut at angles to fan out as it bakes, mimicking an ear of wheat.*
 
+**Prep Time:** 20 minutes
+
 ## Overview
 Épi is a French bread shape that resembles an ear of wheat and is quite easy to make. A baguette is shaped first, then scissors snip diagonal cuts that fold outward into wheat-ear segments. In the oven, each segment puffs into its own pull-apart portion, easy to tear off at the table. The most decorative French bread shape and surprisingly simple.
 

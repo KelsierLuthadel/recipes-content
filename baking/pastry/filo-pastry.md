@@ -6,6 +6,8 @@
 
 **Serves:** 780 grams
 
+**Prep Time:** 15 minutes
+
 ## Overview
 Filo pastry is an extraordinarily thin, delicate dough that requires skill and patience to master but rewards the effort with its ethereal, crispy layers. Unlike laminated doughs, filo is stretched by hand to transparent thinness, creating a unique texture. Its versatility allows it to be used for both sweet and savory preparations, showcasing fillings visually while providing a delicate crunch.
 

@@ -6,6 +6,8 @@
 
 **Serves:** 4 (makes 2 pissaladières)
 
+**Prep Time:** 15 minutes
+
 ## Overview
 This is the French answer to Neapolitan pizza. Where Italian pizza celebrates tomato, French pissaladières celebrate caramelized onions cooked until they're almost jam-like in their sweetness and tenderness. A lattice of anchovy fillets and scattered black olives provide salt and briny depth against the onions' sweetness. Baked on a thin pizza crust, this is elegance and restraint.
 

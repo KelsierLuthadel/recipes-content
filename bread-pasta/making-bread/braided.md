@@ -10,6 +10,10 @@
 
 **Yield:** 1 braided loaf, or multiple if using more strands
 
+**Prep Time:** 20 minutes
+
+**Cook Time:** 30-35 minutes
+
 ## Overview
 Braided loaves leverage simple geometry and repetitive weaving to create sophisticated visual presentation. A three-strand braid is the most approachable for beginners; four-strand braids are intermediate; six-strand braids are advanced. The technique requires evenly rolling dough strands, then methodically weaving them in consistent over-and-under pattern. The woven structure creates gentle waves across the bread surface during baking, and the multiple strands create varied crust coloration from steam exposure during oven spring.
 

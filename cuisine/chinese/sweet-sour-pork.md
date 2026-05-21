@@ -9,7 +9,7 @@ Often mis-made in the West as doughy balls drowned in cloying sauce, properly pr
 
 **Serves:** 4
 **Prep Time:** 20 minutes
-**Cook Time:** 1 minute
+**Cook Time:** 4 minutes
 
 ## Ingredients
 

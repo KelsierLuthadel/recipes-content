@@ -6,6 +6,8 @@
 
 **Serves:** 6 - 8
 
+**Prep Time:** 15 minutes
+
 ## Overview
 A jewel-toned berry sauce featuring fresh blackberries blended with Kirsch and light sugar syrup. The tart, fruity coulis is elegant enough for fine dining yet simple enough for everyday desserts. Perfect for creating stunning plated presentations with vibrant color and bright berry flavor.
 

@@ -6,6 +6,8 @@
 
 **Yield:** Approximately 100 milliliters (4-6 servings)
 
+**Prep Time:** 15 minutes
+
 ## Overview
 French vinaigrette is the fundamental dressing in classical cuisine, a simple emulsion of vinegar, oil, and mustard in perfect balance. The ratio is essential: one part vinegar to three parts oil creates brightness without overwhelming acidity. Dijon mustard serves double duty as emulsifier and flavor agent. This is not a dressing meant for long storage; it's best made fresh, though it keeps refrigerated for several days.
 

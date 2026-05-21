@@ -8,6 +8,8 @@
 
 **Cook Time:** 33 minutes
 
+**Prep Time:** 15 minutes
+
 ## Overview
 This is a pizza with substance and spice. A generous topping of seasoned beef and kidney beans sits over a thin crust, topped with a blend of mozzarella and cheddar cheeses. The beef is properly browned and simmered to develop flavor, while chillies and cumin add warmth and complexity. This is not minimalist Italian pizza; this is bold, flavorful, filling pizza.
 

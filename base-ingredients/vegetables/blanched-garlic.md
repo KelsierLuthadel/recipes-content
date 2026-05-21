@@ -6,6 +6,8 @@
 
 **Yield:** 1 batch (about 12-15 cloves; varies by size)
 
+**Prep Time:** 15 minutes
+
 ## Overview
 Blanching garlic is a classical French technique that completely transforms the ingredient's character. By repeatedly blanching in fresh milk, the milk absorbs the harsh sulfur compounds responsible for raw garlic's bite, leaving behind only sweet, mild flavor with a subtle nuttiness. The result is garlic that's almost creamy and delicate, perfect as a garnish or side component where garlic's presence is desired without its aggressive character.
 

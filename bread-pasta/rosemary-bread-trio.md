@@ -6,9 +6,9 @@
 
 **Prep Time:** 10 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 26 minutes
 
-**Servings:** 10 people
+**Serves:** 10 people
 
 ## Overview
 These rustic bread buns are perfumed with fresh rosemary sprigs and shaped in trios, creating distinctive clover-like rolls. The dough is intentionally wet and soft, creating a tender crumb. They're ideal for accompanying soups or serving with butter, and the fragrant rosemary makes them special for entertaining. The key is not adding excessive flour to a naturally soft, slightly sticky dough.

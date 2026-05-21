@@ -8,7 +8,7 @@
 
 **Prep Time:** 5 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 20 minutes
 
 ## Overview
 A tropical, creamy dessert sauce featuring caramelized sugar, velvety banana purée, and a hint of rum. Perfect drizzled over fruit compotes, ice cream, or pastries. The balance of sweetness, slight bitterness from caramel, and warmth of rum makes this sauce unexpectedly sophisticated despite its simplicity.

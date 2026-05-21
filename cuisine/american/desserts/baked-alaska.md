@@ -8,7 +8,7 @@
 
 **Prep Time:** 10 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 43 minutes
 
 ## Overview
 A spectacular show-stopping frozen dessert featuring vanilla and coffee ice cream inside a sponge case, completely encased in Italian meringue and briefly torched or baked until golden. This impressive historic dessert creates drama at the table as a frozen filling remains cold while the exterior turns warm and golden.

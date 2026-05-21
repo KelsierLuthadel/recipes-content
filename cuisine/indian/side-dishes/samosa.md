@@ -6,7 +6,7 @@
 
 **Prep Time:** 15 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 10 minutes
 
 **Yield:** 20 samosas (serves 4-6)
 

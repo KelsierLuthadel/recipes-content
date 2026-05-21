@@ -8,6 +8,8 @@
 
 **Yield:** 1 large loaf (serves 6-8)
 
+**Cook Time:** 10 minutes
+
 ## Overview
 This is a simple, rustic white bread with excellent crust and tender crumb. The combination of salt, oil, and water creates a supple dough that develops wonderful flavor through slow fermentation. The high water content creates steam during baking, resulting in the characteristic crispy, shattering crust. This is a straightforward bread made with no enrichments, pure flour, water, yeast, salt, and time.
 

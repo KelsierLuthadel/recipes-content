@@ -8,7 +8,7 @@
 
 **Prep Time:** 10 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 9 minutes
 
 ## Ingredients
 - 200 grams butter (softened)

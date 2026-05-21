@@ -6,6 +6,8 @@
 
 **Yield:** Approximately 500-550 grams
 
+**Prep Time:** 15 minutes
+
 ## Overview
 Marzipan is a classical cake finishing technique particularly popular in English baking traditions, where it's rolled into thin sheets and applied under royal icing on celebration cakes. Orange zest elevates traditional marzipan beyond simple sweetness, adding citrus brightness. The egg binder creates a pliable paste that rolls smoothly without cracking. Fresh marzipan is better than commercial versions, more delicate, more pronounced almond flavor, and the orange adds a distinctive character perfect for special cakes.
 

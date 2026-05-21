@@ -8,6 +8,8 @@
 
 **Yield:** Approximately 675-700 grams
 
+**Cook Time:** 10 minutes
+
 ## Overview
 Balti masala paste is a one-of-a-kind category: it's made from pre-ground spice powder (Balti masala) rehydrated with vinegar and oil, creating a consistent base for curries. The vinegar preservation technique allows this paste to be made in large batches and jarred for months of storage. The paste's mild spice profile makes it a foundation that cooks build on with additional ingredients. This is British-Indian cooking at its most practical and efficient.
 

@@ -4,6 +4,10 @@
 
 *The Madras spice mix: a darker, hotter Tamil-inspired blend of mustard seed, fenugreek, curry leaves and dried chilli.*
 
+**Prep Time:** 5 minutes
+
+**Makes:** about 25 g
+
 ## Overview
 A medium-hot spice blend with strong chilli and earthy notes, suited to Madras-style curries.
 

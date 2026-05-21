@@ -8,6 +8,8 @@
 
 **Cook Time:** 1 hour
 
+**Prep Time:** 15 minutes
+
 ## Ingredients
 - 300 grams plums
 - 300 ml [Syrup for Sorbet (Sirop à Sorbet)](../../../base-ingredients/syrup/sirop-a-sorbet.md)

@@ -6,6 +6,8 @@
 
 **Serves:** 4 - 6
 
+**Prep Time:** 15 minutes
+
 ## Overview
 Crispy cabbage is a simple but satisfying deep-fried side dish that transforms savoy cabbage into light, golden, salted morsels with a satisfying crunch. Using a mix of outer and inner leaves creates a pleasing range of colour and texture, proving that cabbage can be far from tasteless or soggy.
 

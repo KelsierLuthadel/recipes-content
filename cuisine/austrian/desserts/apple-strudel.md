@@ -8,7 +8,7 @@
 
 **Prep Time:** 10 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 30 minutes
 
 ## Ingredients
 - 1 sheet of [filo](../../../baking/pastry/filo-pastry.md) (55 x 20 cm)

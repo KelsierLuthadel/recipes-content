@@ -6,6 +6,8 @@
 
 **Yield:** 1 bouquet (flavors ~1 ½ liters of liquid)
 
+**Prep Time:** 5 minutes
+
 ## Overview
 A bouquet garni is a classic French technique foundation: fresh herbs bundled and tied with string for easy removal. The combination of thyme, bay leaf, and parsley creates a balanced, mellow flavor base. It's designed to dissolve its essence into a dish without losing individual herb pieces to the finished food. Essential for French cooking and a staple in professional kitchens.
 

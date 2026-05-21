@@ -6,7 +6,9 @@
 
 **Serves:**  2 - 4
 
-**Cook Time:** 1 minute
+**Cook Time:** 4 minutes
+
+**Prep Time:** 15 minutes
 
 *This dish is best suited to sprouting broccoli, which has a lovely purple hue. This dish can be served at room temperature in the summer as a wonderful salad accompaniment. 
 *

@@ -6,9 +6,9 @@
 
 **Prep Time:** 15 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 5 minutes
 
-**Servings:** 
+**Serves:** 8 - 12
 
 ## Overview
 This richly flavoured stuffing combines pork sausage meat with sweet dried apricots, crunchy pistachios, and aromatic herbs, with nuggets of pan-fried chorizo tucked into each stuffing ball for a smoky surprise. It is designed to complement roasted game birds such as chicken, poussin, or turkey, providing both a cavity stuffing and individual balls for serving alongside. The combination of textures and sweet-savoury flavours makes it a standout element of a roast dinner.

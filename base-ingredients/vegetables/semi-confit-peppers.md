@@ -6,7 +6,7 @@
 
 **Prep Time:** 10 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 35 minutes
 
 **Yield:** Approximately 400 grams (in oil, from 500 grams fresh peppers)
 

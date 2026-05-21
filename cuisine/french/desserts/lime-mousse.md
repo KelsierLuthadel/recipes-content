@@ -8,6 +8,8 @@
 
 **Prep Time:** 5 minutes
 
+**Cook Time:** 5 minutes
+
 ## Ingredients
 - 1 sheet leaf gelatine
 - 100 ml lime juice

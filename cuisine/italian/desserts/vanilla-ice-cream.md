@@ -6,6 +6,10 @@
 
 **Serves:** 8
 
+**Prep Time:** 20 minutes
+
+**Cook Time:** 20 minutes
+
 ## Ingredients
 - 750 ml [crème anglaise](../../../baking/cremes/creme-anglaise.md) (warm)
 - 100 ml double cream

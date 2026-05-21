@@ -10,6 +10,8 @@ The secret to light and fluffy meatballs lies in proper technique: egg white and
 **Serves:** 4
 **Prep Time:** 15 minutes
 
+**Cook Time:** 20 minutes
+
 ## Ingredients
 
 ### Base

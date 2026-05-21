@@ -4,6 +4,8 @@
 
 *A British coburg: a round loaf slashed across the top in a deep cross, baked to open in four crusty quarters. Plain crumb, dramatic shape.*
 
+**Prep Time:** 20 minutes
+
 ## Overview
 A Coburg is similar to a cob except that it has a cross slashed into the top. The four resulting quarters open up dramatically in the oven, producing a distinctive blistered crust and a clear visual divide across the top. Same dough, same shaping as a cob; just a different finishing cut.
 

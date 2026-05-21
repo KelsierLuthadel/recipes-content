@@ -6,7 +6,7 @@
 
 **Prep Time:** 15 minutes
 
-**Servings:** 6
+**Serves:** 6
 
 ## Overview
 Fried wuntun are crispy deep-fried parcels filled with a seasoned pork and Parma ham mixture, flavoured with ginger, soy sauce, and sesame oil. The golden, crunchy wrappers give way to a juicy, aromatic filling that makes them an irresistible party snack or starter. They are best served immediately after frying with a selection of dipping sauces.

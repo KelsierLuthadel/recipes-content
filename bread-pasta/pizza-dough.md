@@ -6,6 +6,8 @@
 
 **Prep Time:** 15 minutes
 
+**Cook Time:** 5 minutes
+
 **Rising Time:** 1 hour
 
 **Yield:** 1 large pizza (approximately 30 cm diameter), serves 4-6

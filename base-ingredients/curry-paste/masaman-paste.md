@@ -8,6 +8,8 @@
 
 **Yield:** Approximately 175-200 grams
 
+**Cook Time:** 13 minutes
+
 ## Overview
 Masaman curry paste is perhaps Thailand's most complex paste, reflecting its multicultural origins at the Malaysia-Thailand border. It combines fragrant aromatics with toasted warm spices (cloves, cumin, coriander), creating a rich, almost stew-like curry base quite different from the bright green or red curries. The flavor builds with slow cooking, developing layers of warmth and spice. This paste is essential for classic Masaman curry made with beef and potatoes.
 

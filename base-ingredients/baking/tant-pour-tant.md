@@ -6,6 +6,8 @@
 
 **Yield:** Varies by proportions used (example: 100g almonds + 100g icing sugar = 200g tant pour tant)
 
+**Prep Time:** 15 minutes
+
 ## Overview
 Tant pour tant is a prepared dry ingredient combining ground almonds and superfine icing sugar in precise 1:1 ratio by weight. The icing sugar helps grind the almonds to a powder while simultaneously absorbing the natural oils released during grinding, creating a uniform, dry powder. This is a foundation ingredient in French pastry, indispensable for macarons, Gênoise sponges, and almond cakes. The quality of your tant pour tant directly affects the final texture of delicate French pastries.
 

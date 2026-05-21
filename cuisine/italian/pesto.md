@@ -6,7 +6,7 @@
 
 **Prep Time:** 10 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 10 minutes
 
 **Yield:** Approximately 180 milliliters (approximately 10-12 servings as a pasta sauce)
 

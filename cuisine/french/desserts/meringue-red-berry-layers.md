@@ -6,7 +6,9 @@
 
 **Serves:** 6
 
-**Cook Time:** 1 minute
+**Cook Time:** 10 minutes
+
+**Prep Time:** 15 minutes
 
 ## Ingredients
 - 275 grams [meringue Francaise](../../../baking/meringue/meringue-francais.md)

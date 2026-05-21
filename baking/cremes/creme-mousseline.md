@@ -8,6 +8,8 @@
 
 **Prep Time:** 10 minutes
 
+**Cook Time:** 8 minutes
+
 ## Overview
 Crème Mousseline is an elevated variation of crème au beurre, incorporating cooked custard with butter to create a lighter, more delicate texture. The flavoring options make it endlessly adaptable, allowing pastry chefs to craft custom creams for specific dessert applications. Its velvety smoothness and rich flavor profile make it ideal for festive and sophisticated presentations.
 

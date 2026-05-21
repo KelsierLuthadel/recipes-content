@@ -6,6 +6,8 @@
 
 **Serves:** 4
 
+**Prep Time:** 20 minutes
+
 ## Ingredients
 - 40 grams butter (softened)
 - 70 grams caster sugar (split 50 grams / 20 grams)

@@ -6,6 +6,10 @@
 
 **Serves:** 6
 
+**Prep Time:** 20 minutes
+
+**Cook Time:** 18 minutes
+
 ## Ingredients
 - 350 ml [sirop a sorbet](../../../base-ingredients/syrup/sirop-a-sorbet.md)
 - 2 thyme sprigs

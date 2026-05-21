@@ -6,6 +6,8 @@
 
 **Serves:**  750ml
 
+**Prep Time:** 15 minutes
+
 ## Overview
 The classic French pouring custard, silky, delicate, and versatile. This foundational cream sauce can be served warm alongside soufflés and fruit-based desserts, or chilled for trifles and pavlovas. With a palette of flavoring variations from classics like coffee and chocolate to creative options like pistachio, this sauce is endlessly adaptable.
 

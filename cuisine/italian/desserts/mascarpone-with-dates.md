@@ -6,6 +6,8 @@
 
 **Serves:** 4
 
+**Prep Time:** 15 minutes
+
 ## Ingredients
 - 120 grams Candied fruit peel (preferably grapefruit)
 - 4 dates

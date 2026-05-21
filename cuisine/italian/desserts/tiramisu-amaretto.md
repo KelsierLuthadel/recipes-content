@@ -8,6 +8,8 @@
 
 **Prep Time:** 5 minutes
 
+**Cook Time:** 5 minutes
+
 ## Ingredients
 - 90 ml  Amaretto liqueur
 - 300 ml Espresso coffee (cold)

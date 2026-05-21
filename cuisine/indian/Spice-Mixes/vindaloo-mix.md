@@ -6,6 +6,8 @@
 
 **Prep Time:** 5 minutes
 
+**Makes:** about 25 g
+
 ## Overview
 A hot, sharp spice mix designed to complement vinegar-based curries. High in chilli with warm supporting spices.
 

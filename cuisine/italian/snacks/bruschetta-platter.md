@@ -6,6 +6,8 @@
 
 **Serves:** 4 - 6
 
+**Prep Time:** 15 minutes
+
 ## Overview
 A fresh and elegant Italian starter featuring toasted bread topped with roasted peppers or fresh tomato and basil. This bruschetta celebrates simplicity and quality ingredients, the charred bread provides a textural contrast to cool, flavourful toppings. Perfect for entertaining as it can be partially prepared ahead.
 ### Pepper Topping

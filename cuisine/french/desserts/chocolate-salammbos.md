@@ -6,6 +6,8 @@
 
 **Serves:** 24
 
+**Prep Time:** 15 minutes
+
 ## Ingredients
 - 1 quantity fresh [choux paste](../../../baking/pastry/choux-pastry.md) (still warm)
 - 300 grams caster sugar

@@ -6,6 +6,8 @@
 
 **Serves:** 1kg
 
+**Prep Time:** 15 minutes
+
 ## Overview
 Crème d'amande is a smooth, nutty cream that showcases the natural flavors of ground almonds combined with butter and eggs. This versatile cream provides richness and subtle almond undertones to pastries and tarts. Its straightforward preparation and elegant flavor make it a valued component in both classic and contemporary pastry work.
 

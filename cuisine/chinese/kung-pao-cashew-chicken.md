@@ -9,7 +9,7 @@ This recipe from the Sichuan region of western China showcases the region's trad
 
 **Serves:** 4
 **Prep Time:** 15 minutes
-**Cook Time:** 1 minute
+**Cook Time:** 2 minutes
 
 ## Ingredients
 

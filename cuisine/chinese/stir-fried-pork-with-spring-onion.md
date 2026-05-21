@@ -9,7 +9,7 @@ This simple stir-fried dish in the southern Chinese tradition showcases how elem
 
 **Serves:** 4
 **Prep Time:** 10 minutes
-**Cook Time:** 1 minute
+**Cook Time:** 5 minutes
 
 ## Ingredients
 

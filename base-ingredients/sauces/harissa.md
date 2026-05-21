@@ -8,6 +8,8 @@
 
 **Yield:** Approximately 120 ml
 
+**Cook Time:** 8 minutes
+
 ## Overview
 Harissa is a foundational North African condiment made from dried red chillies, garlic, spices, and olive oil. The key technique is toasting the spices, which awakens their essential oils and creates a complex flavor profile beyond mere heat. Used as a dipping sauce, soup enrichment, or marinade base, harissa brings sophisticated spice complexity rather than simple burn. Quality harissa is about flavor, not flame.
 

@@ -8,6 +8,8 @@
 
 **Yield:** Approximately 450-500 grams
 
+**Cook Time:** 5 minutes
+
 ## Overview
 Green Balti masala paste combines Indian spices with fresh herbs, creating a vibrant paste used in British-Indian curries. Unlike Thai green pastes, this one includes fenugreek (for nutrition and earthiness), fresh mint (for cooling contrast), and turmeric (for color and warmth). It's preserved with vinegar like Balti masala paste, allowing batch preparation and long refrigerated storage. The color is striking and the flavor is complex, earthy from spices, bright from fresh herbs.
 

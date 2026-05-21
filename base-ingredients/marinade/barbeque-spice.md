@@ -6,6 +6,8 @@
 
 **Yield:** Approximately 50 milliliters or 40 grams dry spice (**enough for 4-6 large meat portions when used as rub or marinade base**)
 
+**Prep Time:** 5 minutes
+
 ## Overview
 Barbecue spice isn't a single fixed preparation, it's a philosophy of layered aromatic flavors that work either as dry rub coating meat before grilling or as paste marinade when combined with wine, aromatics, and oil. The spice mix itself is deceptively simple: celery seed ground fresh, warm spices like nutmeg and allspice character from paprika, heat from chilli powder, umami from garlic and onion powders, all balanced with brown sugar and salt. This is American barbecue tradition in a jar: designed for high-heat grilling where the spice crust develops a caramelized bark while the interior remains juicy. Both dry rub and marinade applications work; the choice depends on available time and texture preference.
 

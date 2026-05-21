@@ -6,7 +6,9 @@
 
 **Serves:** 6
 
-**Cook Time:** 1 minute
+**Cook Time:** 5 minutes
+
+**Prep Time:** 15 minutes
 
 ## Overview
 A fragrant, silky peach sauce infused with floral lavender honey. The result is a sophisticated sauce that's naturally sweet yet refined, perfect for elegant plated desserts. The gentle poaching creates a smooth purée that's both comforting and impressive.

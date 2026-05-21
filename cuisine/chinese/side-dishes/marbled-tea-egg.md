@@ -8,7 +8,7 @@
 
 **Cook Time:** 2 minutes
 
-**Servings:** 4 - 6
+**Serves:** 4 - 6
 
 ## Overview
 Marbled tea eggs are a classic Chinese preparation in which hard-boiled eggs are cracked and simmered in a spiced black tea broth, creating a striking web-like pattern on the surface once peeled. The soy sauce, cinnamon, and star anise infuse the eggs with a deep, aromatic flavour that complements their visual appeal. They are traditionally served cold and make an elegant garnish or snack alongside other cold dishes.

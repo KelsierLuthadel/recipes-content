@@ -10,6 +10,8 @@ This iconic hot and spicy chicken from western China showcases contrasting flavo
 **Serves:** 4
 **Prep Time:** 10 minutes
 
+**Cook Time:** 25 minutes
+
 ## Ingredients
 
 ### Chicken & Preparation

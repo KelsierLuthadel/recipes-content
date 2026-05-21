@@ -6,6 +6,8 @@
 
 **Serves:** 2 (makes 2 calzone)
 
+**Prep Time:** 15 minutes
+
 ## Overview
 The calzone is pizza's elegant cousin, pizza dough folded like an envelope and sealed, enclosing a luxurious filling of pancetta, cherry tomatoes, ricotta, and basil. The sealed construction creates its own moist environment, keeping the filling tender while the exterior becomes crisp and golden. This is rustic Italian cooking with refinement.
 

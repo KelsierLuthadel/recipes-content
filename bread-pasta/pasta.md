@@ -6,6 +6,10 @@
 
 **Yield:** Approximately 350 grams fresh pasta (serves 2-3)
 
+**Prep Time:** 15 minutes
+
+**Cook Time:** 33 minutes
+
 ## Overview
 Fresh pasta dough is foundational to Italian cooking. The traditional method, making a well in flour, cracking eggs into it, and gradually drawing in the flour, creates a perfectly textured dough. Resting allows the flour to fully hydrate and gluten to develop. This dough rolls thin for sheets (lasagne, ravioli) or can be cut into shapes (fettuccine, pappardelle, tagliatelle). The texture of fresh pasta is incomparably tender compared to factory-made dried pasta.
 

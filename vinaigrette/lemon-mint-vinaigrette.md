@@ -6,6 +6,8 @@
 
 **Yield:** Approximately 100 milliliters (4-6 servings)
 
+**Prep Time:** 15 minutes
+
 ## Overview
 This vinaigrette skips traditional vinegar in favor of fresh lemon juice paired with mint. The result is exceptionally light and fresh, perfect for delicate greens. Minimal cooking at its finest; just whisk together quality ingredients. Mint leaves are scattered on top just before serving, preserving fresh aromatics.
 

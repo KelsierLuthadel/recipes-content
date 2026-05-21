@@ -9,7 +9,7 @@ Sichuan cooking is becoming increasingly popular in Western restaurants, and thi
 
 **Serves:** 4
 **Prep Time:** 15 minutes
-**Cook Time:** 1 minute
+**Cook Time:** 5 minutes
 
 ## Ingredients
 

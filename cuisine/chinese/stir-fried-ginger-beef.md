@@ -8,6 +8,8 @@
 This typically Cantonese dish is one of the quickest and tastiest ways to cook beef. The ginger adds a subtle and fragrant spiciness that enhances without overwhelming the tender beef. Freezing the beef before slicing is essential for uniform, thin strips that cook instantly.
 
 **Serves:** 4
+**Prep Time:** 15 minutes
+
 
 ## Ingredients
 

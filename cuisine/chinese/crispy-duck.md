@@ -10,6 +10,8 @@ In China, duck is a special occasion treatment reserved for banquets and celebra
 **Serves:** 4-6
 **Prep Time:** 5 minutes
 
+**Cook Time:** 2 hours
+
 ## Ingredients
 
 ### Duck & Seasonings

@@ -6,6 +6,10 @@
 
 **Serves:** For approximately 1.3 liters of meringue or enough to cover and fill a large tart
 
+**Prep Time:** 15 minutes
+
+**Cook Time:** 15 minutes
+
 ## Overview
 Meringue Italienne is a sophisticated meringue made by pouring hot sugar syrup onto whipped egg whites, creating a stable, silky meringue with a velvety mouthfeel. The cooked sugar stabilizes the egg whites, making this meringue less susceptible to weeping than French meringue. Its luxurious texture makes it ideal for piped decorations and as a base for creams like crème au beurre.
 

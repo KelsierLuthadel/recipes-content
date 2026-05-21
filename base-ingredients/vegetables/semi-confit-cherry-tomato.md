@@ -6,7 +6,7 @@
 
 **Prep Time:** 10 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 8 minutes
 
 **Yield:** Approximately 700 grams (in oil)
 

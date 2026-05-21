@@ -6,6 +6,10 @@
 
 **Serves:** For approximately 24 meringue discs or kisses
 
+**Prep Time:** 15 minutes
+
+**Cook Time:** 10 minutes
+
 ## Overview
 Meringue Francaise is the simplest meringue preparation, requiring only whipped egg whites, sugar, and icing sugar. Its light, airy texture and delicate crunch make it ideal for countless applications from simple piped kisses to structural components in layered desserts. The gradual addition of sugar and careful folding of icing sugar preserves the airiness essential to this preparation.
 

@@ -6,6 +6,8 @@
 
 **Serves:** 6
 
+**Prep Time:** 15 minutes
+
 ## Overview
 This luxurious white chocolate sauce is lifted by an infusion of fresh mint and caraway seeds steeped in hot cream, adding herbal brightness to its natural richness. The melted chocolate and infused cream are combined and briefly boiled to give the sauce a smooth, glossy finish. It is particularly striking served over dark chocolate ice cream, where the contrast of flavours and temperatures makes for a dramatic dessert.
 

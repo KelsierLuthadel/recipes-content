@@ -10,6 +10,10 @@
 
 **Yield:** 1 loaf, sliced into 10-12 portions
 
+**Prep Time:** 20 minutes
+
+**Cook Time:** 30-35 minutes
+
 ## Overview
 The tin loaf is a classic bread shaping technique that creates visual drama and practical slicing. Two approaches exist: joining two dough portions side-by-side in the tin (creating two narrow loaves that appear fused), or shaping one rounded dough ball and scoring a deep slash down its length. Both methods produce the characteristic split appearance when baked. This technique requires no special equipment beyond a standard loaf tin, making it accessible to all home bakers.
 

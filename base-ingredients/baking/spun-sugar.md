@@ -6,6 +6,8 @@
 
 **Yield:** Approximately 250 grams of decorative spun sugar (yields a large nest or several small decorations)
 
+**Prep Time:** 15 minutes
+
 ## Overview
 Spun sugar is a classical pastry technique: caramelized sugar pulled into fine threads and shaped into nests or drapes. The process requires precision with temperature, timing, and technique. Once master, spun sugar adds theatrical elegance to plated desserts. It's completely edible, entirely sugar-based, and must be assembled and used immediately or stored in airtight conditions, as humidity causes melting.
 

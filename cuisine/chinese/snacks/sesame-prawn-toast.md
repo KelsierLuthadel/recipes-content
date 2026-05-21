@@ -8,7 +8,7 @@
 
 **Cook Time:** 4 minutes
 
-**Servings:** 30
+**Serves:** 30
 
 ## Overview
 Prawn toast is a classic dim sum snack of bread spread with a seasoned prawn paste, coated in sesame seeds, and deep fried until golden and crisp. The ginger, soy sauce, and sesame oil in the paste give the filling a distinctly aromatic, umami-rich flavour that contrasts with the crunchy, seed-studded exterior. Popular in Chinese restaurants worldwide, it makes an excellent finger food or starter.

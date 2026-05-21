@@ -8,7 +8,7 @@
 
 **Prep Time:** 10 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 1 hour 30 minutes
 
 ## Ingredients
 - 520 grams [pâte brisée](../../../baking/pastry/shortcrust-pastry.md) (Shortcrust pastry)

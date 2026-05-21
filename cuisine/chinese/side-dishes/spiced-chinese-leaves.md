@@ -8,7 +8,7 @@
 
 **Prep Time:** 10 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 5 minutes
 
 *Unlike the more familiar green and red cabbage, Chinese leaves have a bland, sweet flavour which is delicate, rather like lettuce. Cooking is needed to make it palatable, and because it is so light, it calls for a robust sauce.
 *

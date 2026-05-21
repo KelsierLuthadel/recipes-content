@@ -8,6 +8,8 @@
 
 **Prep Time:** 10 minutes
 
+**Cook Time:** 17 minutes
+
 ## Ingredients
 - 6 tablespoons runny honey
 - 4 star anise

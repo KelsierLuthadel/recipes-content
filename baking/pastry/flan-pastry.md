@@ -6,6 +6,8 @@
 
 **Serves:** 480 grams
 
+**Prep Time:** 15 minutes
+
 ## Overview
 Pâté à foncer is a tender, crumbly pastry traditionally used as the base for flans and tartlets. Its delicate texture and neutral flavor provide an elegant foundation that doesn't compete with fillings. The technique of rubbing fat into flour by hand creates the characteristic short, crumbly texture that distinguishes this pastry.
 

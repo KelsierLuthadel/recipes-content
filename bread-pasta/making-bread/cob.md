@@ -4,8 +4,10 @@
 
 *A round dome loaf: dough shaped into a tight ball with surface tension, slashed across the top, baked into a sturdy domed bread.*
 
+**Prep Time:** 20 minutes
+
 ## Overview
-Cob is a term that usually describes rounded loaves in Britain, while boule is a term that describes similar bread shapes in France. The technique is the foundational rounded-loaf shape — once you can tighten a ball of dough cleanly, most other domed breads follow the same method.
+Cob is a term that usually describes rounded loaves in Britain, while boule is a term that describes similar bread shapes in France. The technique is the foundational rounded-loaf shape: once you can tighten a ball of dough cleanly, most other domed breads follow the same method.
 
 ## Method
 1. Rounded loaves are fairly easy to create: simply push the dough into a rounded form, push down gently into the centre of the dough, and then flip the dough over to the other side.

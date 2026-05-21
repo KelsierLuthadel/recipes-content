@@ -6,7 +6,7 @@
 
 **Prep Time:** 15 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 2 minutes
 
 **Yield:** Approximately 175-200 grams
 

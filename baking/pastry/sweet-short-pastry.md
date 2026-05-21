@@ -6,6 +6,8 @@
 
 **Serves:** 520 grams
 
+**Prep Time:** 15 minutes
+
 ## Overview
 Pâte sucrée is a sweet, tender pastry that serves as an elegant base for fruit tarts and pastries. The addition of sugar and eggs creates a richer dough than pâte brisée, while maintaining the characteristic shortbread-like texture. This pastry provides a sweet backdrop that complements both tart and rich fillings.
 

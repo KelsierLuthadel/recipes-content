@@ -6,6 +6,10 @@
 
 **Yield:** Varies by number of peppers (one pepper yields about 100-120 grams skinned flesh)
 
+**Prep Time:** 15 minutes
+
+**Cook Time:** 18 minutes
+
 ## Overview
 Charring pepper skins under heat causes them to separate from the flesh, allowing easy removal while concentrating the pepper's sweet, fruity flavor. The key difference between the two methods: roasting in an oven cooks the internal flesh gently, creating a soft, luxurious result; searing over direct flame keeps the flesh firmer while still charring the exterior. Choose based on your intended use and desired texture.
 

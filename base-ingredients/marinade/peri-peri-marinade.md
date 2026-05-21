@@ -8,6 +8,8 @@
 
 **Yield:** Approximately 100 milliliters (makes 8-10 tablespoons)
 
+**Cook Time:** 19 minutes
+
 ## Overview
 Peri-peri marinade is the bridge between Portuguese and African cooking traditions, a marinade so simple and balanced that it elevates shellfish, fish, and chicken without overwhelming them. The acid from lime juice balances the heat from chillies; paprika provides earthy warmth; olive oil carries the flavors into the meat. Unlike thick paste marinades, peri-peri is liquid and light, meant for quick absorption (30 minutes to 1 hour) rather than long overnight marinating. The marinade also serves as a basting sauce during grilling, building caramelized flavor as proteins cook. This is restaurant-quality simplicity.
 

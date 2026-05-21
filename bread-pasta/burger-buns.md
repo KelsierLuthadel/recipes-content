@@ -8,6 +8,8 @@
 
 **Yield:** 10 buns (serves 10)
 
+**Cook Time:** 10 minutes
+
 ## Overview
 These are soft, pillowy burger buns with a tender crumb and sesame-seed finish. The combination of milk, lard (or butter), and a touch of sugar creates tender, slightly sweet dough that's ideal for burgers, pulled meat, or roasted vegetables. The dual egg wash and sesame seed topping create professional appearance and pleasant textural topping. These buns are best eaten the day they're made while still soft and warm.
 

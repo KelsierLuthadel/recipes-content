@@ -8,6 +8,8 @@
 
 **Prep Time:** 15 minutes
 
+**Cook Time:** 5 minutes
+
 ## Overview
 Seekh kebab is restaurant-quality barbecue. Unlike simple meatballs, seekh kebab is defined by its fine, dense, bound texture achieved through vigorous kneading. The spice profile is warm and aromatic without aggression. When charred over hot coals, the exterior develops a smoky, charred, visible "lace" pattern while the interior stays succulent. This is elegant Indian street food made at home, served with yoghurt and lemon.
 

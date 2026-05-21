@@ -6,6 +6,8 @@
 
 **Yield:** Approximately 400-450 grams (makes 15-20 portions)
 
+**Prep Time:** 10 minutes
+
 ## Overview
 Sambal oelek is the simplest condiment in Indonesian cuisine: nothing more than fresh chillies and salt, pounded together into a coarse paste. There's no hiding behind other flavors, the quality of chillies determines everything. This is straightforward, honest cooking. The result is vibrant red, fiery hot, and utterly essential for spice-loving Southeast Asian cooks. Sambal oelek is served alongside virtually every savory Indonesian dish as a condiment for individual adjustment of heat.
 

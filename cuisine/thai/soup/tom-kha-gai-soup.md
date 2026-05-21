@@ -6,6 +6,10 @@
 
 **Serves:** 4-6
 
+**Prep Time:** 15 minutes
+
+**Cook Time:** 5 minutes
+
 **Prep time:** 10 mins
 
 **Cooking time:** 20 mins

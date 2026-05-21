@@ -4,9 +4,11 @@
 
 *Brioches from St-Genix: enriched butter-and-egg dough studded with pink pralines (sugar-coated almonds), baked into small golden buns.*
 
-**Cook Time:** 1 minute
+**Cook Time:** 35 minutes
 
 **Yield:** 1 brioche with 20 pralines (serves 8-10)
+
+**Prep Time:** 15 minutes
 
 ## Overview
 This is a sophisticated French brioche studded with pink pralines (candied praline almonds). The brioche dough is rich and buttery; this recipe uses pre-made brioche dough, which can be made separately or purchased. The pralines provide sweet, crunchy candy-like bursts throughout the bread. This is special-occasion bread, elegant, slightly decadent, and utterly French. Serve for Sunday breakfast or as part of an elegant brunch.

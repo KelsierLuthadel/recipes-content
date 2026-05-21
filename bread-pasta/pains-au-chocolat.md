@@ -6,6 +6,8 @@
 
 **Yield:** 20-22 pastries
 
+**Prep Time:** 15 minutes
+
 ## Overview
 Pains au chocolat are French pastries made from laminated croissant dough enclosing dark chocolate sticks. The butter-layered dough creates a crispy, flaky exterior while the chocolate melts into the warm pastry. They're ideal for breakfast or afternoon tea, and freezing capability makes them practical for baking in advance.
 

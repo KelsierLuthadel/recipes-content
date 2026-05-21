@@ -6,7 +6,7 @@
 
 **Prep Time:** 10 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 9 minutes
 
 **Yield:** Approximately 75 grams (makes 15-20 curry portions)
 

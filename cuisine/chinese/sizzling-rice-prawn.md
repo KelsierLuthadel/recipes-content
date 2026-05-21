@@ -9,7 +9,7 @@ This is a dramatic dish sure to earn you compliments. Moderately easy to make bu
 
 **Serves:** 6-8
 **Prep Time:** 20 minutes
-**Cook Time:** 1 minute
+**Cook Time:** 2 minutes
 
 ## Ingredients
 

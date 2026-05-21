@@ -8,6 +8,8 @@
 
 **Cook Time:** 12 minutes
 
+**Prep Time:** 15 minutes
+
 ## Overview
 This is the essence of pizza. A thin, crisp crust topped with a simple tomato sauce, creamy fresh mozzarella, marinated cherry tomatoes, and just-wilted basil. The beauty lies in ingredient quality and the technique of assembly. Each component matters. Too much topping drowns the crust; too little leaves an empty plate. This is balance and respect for simplicity.
 

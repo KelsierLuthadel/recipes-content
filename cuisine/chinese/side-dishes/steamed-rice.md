@@ -8,6 +8,8 @@
 
 **Yield:** Approximately 1.2 liters cooked rice (4-5 servings)
 
+**Prep Time:** 15 minutes
+
 ## Overview
 Chinese steamed rice exemplifies the power of patience and precise technique. The key principle is using high heat initially to evaporate surface water visibly (watching for characteristic "crater" pattern), then radically reducing heat to allow gentle steaming. The lid must never be opened during steaming; this breaks the seal and ruins the delicate cooking process. The result is fluffy rice with grains that remain separate, never mushy or sticky. Long-grain rice (jasmine or basmati) works best; short-grain varieties retain excess moisture and become sticky regardless of technique.
 

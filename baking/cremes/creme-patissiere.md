@@ -6,6 +6,8 @@
 
 **Serves:** 750 grams
 
+**Prep Time:** 15 minutes
+
 ## Overview
 Crème pâtissière is the foundation of French pastry, serving as a versatile custard cream for fillings, sauces, and as a base for other cream preparations. Its smooth texture and delicate vanilla flavor provide an elegant backdrop for a wide range of desserts. The technique of tempering eggs and cooking with starch creates a silky, stable cream essential to pastry work.
 

@@ -6,6 +6,10 @@
 
 **Serves:** 1.3kg
 
+**Prep Time:** 15 minutes
+
+**Cook Time:** 5 minutes
+
 ## Overview
 Crème au beurre is an elegant butter-based cream that combines the lightness of Italian meringue with rich, creamy butter. This sophisticated filling is versatile enough for both classic and contemporary desserts, offering a perfect balance of richness and delicacy. The velvety texture and subtle sweetness make it ideal for layering between cake layers or piping into decorative borders.
 

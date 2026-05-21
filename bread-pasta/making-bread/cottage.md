@@ -4,6 +4,8 @@
 
 *The British cottage loaf: a large round base topped with a smaller round, joined by pressing a thumb-hole down through both.*
 
+**Prep Time:** 20 minutes
+
 ## Overview
 A cottage shape is a large, rounded shape similar to a cob or boule, but with a smaller round of dough placed on top. It is thought that the unusual shape was a result of the need to be as efficient as possible with the small baking space available in the ovens of earlier times. The upper round bakes more crusty; the lower stays softer.
 

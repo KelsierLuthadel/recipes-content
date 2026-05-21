@@ -6,7 +6,7 @@
 
 **Prep Time:** 15 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 9 minutes
 
 **Yield:** Approximately 200-250 grams (sufficient for 4-6 large meat pieces)
 

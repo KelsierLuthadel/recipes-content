@@ -6,6 +6,8 @@
 
 **Serves:** 6
 
+**Prep Time:** 15 minutes
+
 ## Overview
 These are show-stopping pasta parcels filled with delicate cheese and fiery chorizo, balanced by fresh parsley and the natural heat of chillies. Making ravioli from scratch demands patience and precision, but the reward is tender pasta envelopes that hug their savory-spicy filling. The cooking is quick, just 3 minutes in boiling water, finished with nothing but fruity olive oil and cracked pepper.
 

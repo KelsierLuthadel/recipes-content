@@ -6,6 +6,8 @@
 
 **Serves:** 8 - 10
 
+**Prep Time:** 15 minutes
+
 ## Overview
 A sophisticated meringue created by heating egg whites and sugar over a water bath before whipping. The result is more stable and less grainy than French meringue, ideal for piped decorations, tortes, or as a base for other desserts. More forgiving than its French cousin, without sacrificing elegance.
 

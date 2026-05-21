@@ -8,7 +8,7 @@
 
 **Cook Time:** 4 minutes
 
-**Servings:** 2 - 4
+**Serves:** 2 - 4
 
 ## Overview
 Stir-fried mange tout with waterchestnuts is a quick, sweet, and crunchy side dish that comes together in under 10 minutes. The combination of tender mange tout and crisp waterchestnuts, seasoned with soy sauce, sesame oil, and a touch of sugar, makes it a versatile companion to Chinese-style mains.

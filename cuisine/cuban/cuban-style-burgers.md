@@ -6,6 +6,8 @@
 
 **Serves:** 6
 
+**Prep Time:** 15 minutes
+
 ## Overview
 These Cuban-style burgers are a vibrant fusion of Spanish and Cuban influences, featuring tender pork patties infused with spicy chorizo, aromatic garlic, and fresh peppers. The patties are griddled to perfection and served with a distinctive potato filling and creamy dressing that makes them distinctly Cuban. The combination of flavors, savory, spicy, and tangy, makes this a signature Cuban comfort food.
 

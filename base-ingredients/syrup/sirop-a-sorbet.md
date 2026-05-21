@@ -6,6 +6,8 @@
 
 **Yield:** 1 liter
 
+**Prep Time:** 20 minutes
+
 ## Overview
 Sirop à sorbet is a carefully calibrated sugar syrup essential to sorbet making. The specific sugar concentration (30° Beaumé or 1.2624 density) ensures that sorbets freeze to a smooth, spoonable texture without becoming rock-hard or remaining mushy. This syrup is also used for soaking sponge biscuits and Genoise sponges in French pastry work. The glucose prevents crystallization. This is a foundation recipe used repeatedly in fine pastry and ice cream work.
 

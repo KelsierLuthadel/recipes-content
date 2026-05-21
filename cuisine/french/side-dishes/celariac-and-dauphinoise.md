@@ -8,7 +8,7 @@
 
 **Prep Time:** 15 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 53 minutes
 
 ## Overview
 Celeriac and potato dauphinoise is a rich, creamy French gratin that pairs the earthy nuttiness of celeriac with tender potato slices, all baked in a garlicky double cream. The addition of softened onions and a golden grilled top makes this an indulgent accompaniment to steaks and robust beef dishes.

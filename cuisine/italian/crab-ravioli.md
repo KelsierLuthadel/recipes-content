@@ -8,6 +8,8 @@
 
 **Prep Time:** 15 minutes
 
+**Cook Time:** 10 minutes
+
 ## Overview
 These striking ravioli unite fresh crab meat with silken mascarpone, sharpened by fresh lemon and parsley, all enveloped in a bold chilli-infused pasta. The combination of delicate seafood with the subtle heat of dried chillies creates sophisticated complexity, while lemon butter provides the perfect light sauce. This is restaurant-quality food made at home.
 

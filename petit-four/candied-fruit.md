@@ -6,6 +6,8 @@
 
 **Yield:** Approximately 20 pieces
 
+**Prep Time:** 15 minutes
+
 ## Overview
 Candied fruit peel represents a medieval technique that preserves fruit while developing profound sweetness and translucent beauty. The gradual infusion of sugar into peel tissue requires patience and multiple cooking stages; rushing this process results in tough, crystalline texture rather than the desired tender, glossy finish. Citrus peels, particularly grapefruit and bitter orange, shine when candied, their bitterness transformed into complexity through the sugaring process. These jeweled confections require nothing more than a hot drink or strong coffee to shine.
 

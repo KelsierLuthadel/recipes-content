@@ -8,6 +8,8 @@
 
 **Prep Time:** 5 minutes
 
+**Cook Time:** 30 minutes
+
 ## Overview
 Feuilletage (puff pastry) is arguably the most versatile laminated dough in the pastry kitchen, prized for its spectacular rise and delicate, flaky layers. The technique of encasing butter in dough and performing multiple folds creates hundreds of thin layers that puff when baked. Its applications range from elegant vol-au-vents to fruit tarts and savory applications.
 

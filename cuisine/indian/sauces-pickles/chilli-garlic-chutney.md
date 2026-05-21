@@ -6,7 +6,7 @@
 
 **Prep Time:** 10 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 2 minutes
 
 **Yield:** Approximately 300 ml (serves 4-6)
 

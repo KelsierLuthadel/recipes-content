@@ -8,7 +8,7 @@
 
 **Prep Time:** 10 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 13 minutes
 
 ## Ingredients
 - 6 William (or conference pears, ripe)

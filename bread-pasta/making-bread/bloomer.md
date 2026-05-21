@@ -4,7 +4,9 @@
 
 *A British bloomer: dough shaped into a long flat oval and slashed diagonally across the top.*
 
-**Cook Time:** 1 minute
+**Cook Time:** 30-35 minutes
+
+**Prep Time:** 20 minutes
 
 **Rising Time:** 45-60 minutes (final proof)
 

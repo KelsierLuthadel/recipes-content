@@ -6,6 +6,8 @@
 
 **Yield:** Approximately 1 kg dough (enough for 4-5 large pizzas or 8-10 medium pizzas)
 
+**Prep Time:** 15 minutes
+
 ## Overview
 This is a sophisticated pizza dough made with a long, cool fermentation (8-12 hours), a method inspired by master pizza makers. The two-stage process builds flavor and creates exceptional crumb structure. The liquid fermentation develops extensibility and dough strength. Upon waking (Stage 2), salt, sugar, oil, and more flour are incorporated, creating a supple, elastic dough. The result is pizza with light, crispy crust, tender interior, and complex flavor, far superior to quick-rise doughs.
 

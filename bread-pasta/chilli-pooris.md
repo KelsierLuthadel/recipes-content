@@ -8,6 +8,8 @@
 
 **Yield:** 12 pooris (serves 4)
 
+**Cook Time:** 10 minutes
+
 ## Overview
 Pooris are magical bread, simple dough that transforms into puffy, crispy-outside, tender-inside spheres when fried in hot oil. This version combines whole wheat flour with plain flour for nuttiness and texture, and adds fresh red chilli for heat. The dough is forgiving and requires no yeast; the high temperature of the oil creates the puff. Serve hot immediately, either plain or with curries, dals, and pickles. These are best made just before serving.
 

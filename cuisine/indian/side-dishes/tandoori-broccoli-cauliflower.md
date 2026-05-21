@@ -6,7 +6,9 @@
 
 **Serves:** 4
 
-**Cook Time:** 1 minute
+**Cook Time:** 15 minutes
+
+**Prep Time:** 15 minutes
 
 ## Overview
 These are grilled vegetables with spiced coating, crispy outside, tender inside. Par-cooking prevents the vegetables from drying out on the grill; the gram flour coating becomes golden and fragrant. The yoghurt adds richness and helps the spices cling; the lemon juice adds brightness. This is satisfying enough to serve as a starter or vegetarian main course, yet simple enough for a weeknight side. Serve warm or at room temperature.

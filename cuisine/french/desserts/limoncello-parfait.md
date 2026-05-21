@@ -6,6 +6,8 @@
 
 **Serves:** 12
 
+**Prep Time:** 20 minutes
+
 ## Ingredients
 - 1 egg (large, plus 5 egg yolks)
 - 100 grams caster sugar

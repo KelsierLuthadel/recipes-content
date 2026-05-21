@@ -8,6 +8,8 @@
 
 **Yield:** Approximately 150 milliliters (4-6 servings)
 
+**Cook Time:** 5 minutes
+
 ## Overview
 Caesar dressing transcends simple vinaigrette through raw egg yolk (creating richness and thicker emulsion), anchovy essence (providing deep umami), and Parmesan cheese (adding complexity). The result is a creamy dressing far more substantial than basic vinaigrette, with an assertive flavor profile that demands equally robust greens. Cos lettuce, with its sturdy texture and slight bitterness, is the perfect partner.
 

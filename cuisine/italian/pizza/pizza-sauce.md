@@ -8,6 +8,8 @@
 
 **Yield:** Approximately 600 ml (enough for 8 pizzas)
 
+**Prep Time:** 15 minutes
+
 ## Overview
 Pizza sauce is deceptively simple yet entirely dependent on quality ingredients and proper technique. San Marzano tomatoes are preferred for their low acidity and sweet flavor. The sauce is briefly cooked, never long-simmered, to preserve the fresh tomato character. Garlic, oregano, and basil are the only seasonings; they should enhance, never dominate. This is the classic sauce of Naples and New York, used for Margherita and simple cheese pizzas. 
 

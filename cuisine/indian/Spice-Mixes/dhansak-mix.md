@@ -6,6 +6,8 @@
 
 **Prep Time:** 5 minutes
 
+**Makes:** about 30 g
+
 ## Overview
 A complex blend balancing sweet, sour, and savoury flavours, suited to lentil-based dhansak curries.
 

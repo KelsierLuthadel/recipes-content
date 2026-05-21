@@ -10,6 +10,8 @@ The Chinese revere duck as a symbol of wholesomeness and fidelity. With Peking d
 **Serves:** 4-6
 **Cook Time:** 2 minutes
 
+**Prep Time:** 15 minutes
+
 ## Ingredients
 
 ### Duck

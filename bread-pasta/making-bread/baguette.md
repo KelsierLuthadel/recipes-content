@@ -4,7 +4,9 @@
 
 *The classic baguette shape: dough pre-shaped into rectangles, then rolled into long thin cylinders with tapered ends.*
 
-**Cook Time:** 1 minute
+**Cook Time:** 15-20 minutes
+
+**Prep Time:** 20 minutes
 
 **Rising Time:** 45-60 minutes (final proof after shaping)
 

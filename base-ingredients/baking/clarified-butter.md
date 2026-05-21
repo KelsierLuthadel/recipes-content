@@ -6,6 +6,10 @@
 
 **Yield:** Approximately 85 grams (from 120 grams butter)
 
+**Prep Time:** 15 minutes
+
+**Cook Time:** 8 minutes
+
 ## Overview
 Clarified butter is produced by gently melting butter and allowing its components to separate by density: water evaporates, milk solids either float or sink, and pure butterfat remains in the middle. The result is a clear golden liquid with a clean, buttery flavor and significantly higher smoke point (~450°F vs. ~350°F for regular butter). Essential for hollandaise, béarnaise, and high-heat sautéing.
 

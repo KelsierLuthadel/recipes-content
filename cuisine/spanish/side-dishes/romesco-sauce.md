@@ -6,7 +6,7 @@
 
 **Prep Time:** 10 minutes
 
-**Servings:** 8
+**Serves:** 8
 
 ## Overview
 A vibrant, deeply flavoured roasted red pepper salsa with shallots, fresh thyme, basil, lemon, and olive oil. Roasting the peppers until blackened intensifies their sweetness and adds a subtle smokiness. Versatile enough to serve with pasta, spread in a bouchée canapé, or as an accompaniment to grilled meats and fish.

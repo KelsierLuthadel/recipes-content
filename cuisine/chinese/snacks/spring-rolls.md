@@ -8,7 +8,7 @@
 
 **Cook Time:** 1 minute
 
-**Servings:** 12
+**Serves:** 12
 
 ## Overview
 These spring rolls are filled with a stir-fried mixture of Parma ham, mange tout, red pepper, waterchestnuts, and bean sprouts, wrapped in crisp deep-fried skins. The filling is seasoned with two soy sauces, sesame oil, and sherry, giving a well-rounded savoury flavour with excellent texture.

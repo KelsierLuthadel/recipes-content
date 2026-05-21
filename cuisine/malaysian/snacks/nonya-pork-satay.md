@@ -8,7 +8,7 @@
 
 **Prep Time:** 15 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 9 minutes
 
 ## Overview
 Indonesian-style pork satay featuring tender, spiced meat on bamboo skewers with a creamy, complex peanut sauce enriched with coconut milk. The pork is infused with a paste of lemongrass, ground spices, and aromatics, making each bite deeply flavorful. This dish showcases traditional Southeast Asian techniques and is perfect for entertaining.

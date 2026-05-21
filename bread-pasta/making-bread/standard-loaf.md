@@ -4,7 +4,9 @@
 
 *The standard tin loaf: dough shaped into a long cylinder and dropped into a buttered loaf tin.*
 
-**Cook Time:** 36 minutes
+**Cook Time:** 30-35 minutes
+
+**Prep Time:** 20 minutes
 
 **Rising Time:** 45-60 minutes (final proof)
 
