@@ -2,12 +2,12 @@
 
 ![Wok hei](resources/wok-hei.jpg)
 
-*Wok hei (literally "the breath of the wok") is the toasty, slightly-charred flavour that makes restaurant stir-fries taste like restaurant stir-fries. Home hobs can't quite match a 200,000-BTU restaurant burner, but you can get a lot closer than you'd think. This page is honest about what's reachable at home and how to get there.*
+*Wok hei (literally "the breath of the wok") is the toasty, slightly-charred flavour that makes restaurant stir-fries taste like restaurant stir-fries. Home hobs can't quite match a proper commercial wok burner, but you can get a lot closer than you'd think. This page is honest about what's reachable at home and how to get there.*
 
 ## Overview
 Wok hei is a Cantonese term that translates roughly to "the breath of the wok" or "the soul of the wok". It refers to the subtle smoky-toasty flavour that develops when food is stir-fried in a properly screaming-hot wok over an open flame. The flavour is partly Maillard browning (the same reaction that browns steak), partly caramelisation of sugars, partly tiny droplets of oil being vaporised on the wok surface and igniting briefly above the food.
 
-Restaurants achieve this routinely. Home cooks achieve it rarely. The reason is heat: a restaurant wok burner produces 100,000-200,000 BTU, with flames that lick up around the sides of the wok. A home gas hob produces 10-15,000 BTU. The temperature difference is the difference between vaporising oil and just heating it.
+Restaurants achieve this routinely. Home cooks achieve it rarely. The reason is heat. BTU (British Thermal Unit) is how gas burners are rated: it measures how much heat a burner delivers per hour. The higher the number, the more heat the burner can throw into the pan in a given moment. A commercial wok burner runs 40,000-100,000 BTU (with the highest-end Chinese-restaurant rigs going further), and the flames lick up around the sides of the wok. A home gas hob produces 10-15,000 BTU. The temperature difference is the difference between vaporising oil and just heating it.
 
 ## What wok hei actually tastes like
 

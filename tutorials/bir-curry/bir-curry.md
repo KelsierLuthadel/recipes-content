@@ -9,7 +9,7 @@ Walk into a Birmingham balti house and order a chicken vindaloo, chicken korma a
 
 This is the British-Indian-Restaurant (BIR) method, refined in the curry houses of the 1960s and 70s. It is not how anyone cooks at home in India. It is how restaurants serve thirty different curries fast, consistently, and to specification, on a Saturday night with a queue out the door.
 
-The method has four building blocks. Each is prepared in advance and lives in a hotel pan on the stove. When an order lands, the chef grabs a ladle of each, hits a hot pan with oil and spice, and the curry comes together in five minutes. That is the trick. None of the cooking happens during service. Service is just assembly.
+The method has four building blocks. Each is prepared in advance and lives in a large pan on the stove. When an order lands, the chef grabs a ladle of each, hits a hot pan with oil and spice, and the curry comes together in five minutes. That is the trick. None of the cooking happens during service. Service is just assembly.
 
 Master the four components and you can make any BIR curry you have ever ordered.
 
