@@ -8,7 +8,7 @@
 **Serves:** 8
 
 ## Ingredients
-- 750 ml [crème anglaise](../../baking/cremes/creme-anglaise.md) (warm)
+- 750 ml [crème anglaise](../../../baking/cremes/creme-anglaise.md) (warm)
 - 75 grams stem ginger
 - 30 grams desiccated coconut
 - 100 ml double cream

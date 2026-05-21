@@ -11,7 +11,7 @@
 - 300 grams plums
 - 300 ml [Syrup for Sorbet (Sirop à Sorbet)](../../../base-ingredients/syrup/sirop-a-sorbet.md)
 - 2 bay leaves
-- 275 grams [meringue Francaise](../../baking/meringue/meringue-francais.md)
+- 275 grams [meringue Francaise](../../../baking/meringue/meringue-francais.md)
 
 ## Overview
 Large, soft meringues studded with plums, creating a beautiful contrast between glossy poached fruit and fluffy meringue that softens into the plums. These rustic yet elegant individual showpieces celebrate the simplicity of fresh plums combined with light, delicate meringue.

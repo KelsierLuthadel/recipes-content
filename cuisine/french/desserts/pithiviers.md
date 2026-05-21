@@ -10,9 +10,9 @@
 **Cook Time:** 26 minutes
 
 ## Ingredients
-- 500 grams [feuilletage](../../baking/pastry/puff-pastry.md) (classic puff pastry)
-- 250 grams [crème d'amande](../../baking/cremes/creme-damande.md)
-- 50 grams [crème pâtissière](../../baking/cremes/creme-patissiere.md)
+- 500 grams [feuilletage](../../../baking/pastry/puff-pastry.md) (classic puff pastry)
+- 250 grams [crème d'amande](../../../baking/cremes/creme-damande.md)
+- 50 grams [crème pâtissière](../../../baking/cremes/creme-patissiere.md)
 - 1 tablespoon rum (optional)
 - eggwash (1 egg yolk mixed with 1 tablespoon of milk)
 - 30 grams icing sugar (to glaze)

@@ -10,7 +10,7 @@
 ## Ingredients
 -  ½ sheets of gelatine
 - 400 grams raspberries
-- 120 grams [meringue Italienne](../../baking/meringue/meringue-italienne.md)
+- 120 grams [meringue Italienne](../../../baking/meringue/meringue-italienne.md)
 - 100 ml whipping cream
 - 2 tablespoons raspberry eau-de-vie (or kirsch)
 - 18 raspberries to finish

@@ -7,11 +7,11 @@
 **Serves:** 24
 
 ## Ingredients
-- 1 quantity fresh [choux paste](../../baking/pastry/choux-pastry.md) (still warm)
+- 1 quantity fresh [choux paste](../../../baking/pastry/choux-pastry.md) (still warm)
 - 300 grams caster sugar
 - 24 crystallised violets
 - 500 grams chocolate crème pâtissière
-- 200 ml [crème chantilly](../../baking/cremes/creme-chantilly.md)
+- 200 ml [crème chantilly](../../../baking/cremes/creme-chantilly.md)
 
 ## Overview
 Elegan pear-shaped chocolate cream-filled choux buns, topped with a caramel coating and candied violets for ornament. These show-stopping petits fours combine the delicate sweetness of choux, rich chocolate cream, and brittle caramel, making them perfect for elegant receptions and special occasions.

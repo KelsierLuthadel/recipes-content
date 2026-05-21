@@ -9,7 +9,7 @@
 **Cook Time:** 1 minutes
 
 ## Ingredients
-- 520 grams [pâte brisée](../../baking/pastry/shortcrust-pastry.md) (Shortcrust pastry)
+- 520 grams [pâte brisée](../../../baking/pastry/shortcrust-pastry.md) (Shortcrust pastry)
 - 8 dates (pitted and diced)
 - 50 ml very fragrant jasmine tea
 - 4 crisp apples (medium, preferable Cox's)

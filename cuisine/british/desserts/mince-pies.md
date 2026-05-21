@@ -13,7 +13,7 @@
 Crispy, buttery shortbread pastry encasing rich, spiced mincemeat studded with dried fruit, nuts, and brandy. A beloved British Christmas tradition, these miniature gems are equally good served warm with sherry or cold with coffee. The mincemeat improves with time, making these ideal for advance preparation.
 
 ## Ingredients
-- 360 grams [shortbread pastry](../../baking/pastry/shortbread-dough.md) 
+- 360 grams [shortbread pastry](../../../baking/pastry/shortbread-dough.md) 
 - eggwash (1 egg yolk mixed with 1 tablespoon of milk)
 - 60 grams caster sugar
 

@@ -9,10 +9,10 @@
 **Cook Time:** 11 minutes
 
 ## Ingredients
-- 240 grams [puff pastry](../../baking/pastry/puff-pastry.md)
+- 240 grams [puff pastry](../../../baking/pastry/puff-pastry.md)
 - 60 grams icing sugar
 - 1 sheet leaf gelatine
-- 350 ml warm [crème anglaise](../../baking/cremes/creme-anglaise.md) (80°C with extra vanilla)
+- 350 ml warm [crème anglaise](../../../baking/cremes/creme-anglaise.md) (80°C with extra vanilla)
 - 50 ml whipping cream
 - 300 grams strawberries (cut into 2 mm slices)
 

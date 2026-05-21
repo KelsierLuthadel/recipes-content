@@ -8,7 +8,7 @@
 **Prep Time:** 10 minutes
 
 ## Ingredients
-- 600 grams [brioche dough](../../baking/pastry/brioche-dough.md)
+- 600 grams [brioche dough](../../../baking/pastry/brioche-dough.md)
 - 120 grams sultanas
 - 1 egg yolk (mixed with 2 tablespoons milk)
 - 250 ml cold milk

@@ -7,7 +7,7 @@
 **Serves:** 8
 
 ## Ingredients
-- 750 ml [crème anglaise](../../baking/cremes/creme-anglaise.md) (warm, infused with a stick of cinnamon)
+- 750 ml [crème anglaise](../../../baking/cremes/creme-anglaise.md) (warm, infused with a stick of cinnamon)
 - 100 ml double cream
 
 ## Overview

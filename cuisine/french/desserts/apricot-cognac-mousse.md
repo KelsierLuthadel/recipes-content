@@ -8,7 +8,7 @@
 **Prep Time:** 10 minutes
 
 ## Ingredients
-- 850 ml [sirop a sorbet](../../base-ingredients/syrup/sirop-a-sorbet.md)
+- 850 ml [sirop a sorbet](../../../base-ingredients/syrup/sirop-a-sorbet.md)
 - 1 vanilla pod (split length-ways)
 - 10 ripe apricots
 - 2 sheets leaf gelatine

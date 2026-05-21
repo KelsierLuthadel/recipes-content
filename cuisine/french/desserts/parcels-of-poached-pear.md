@@ -12,8 +12,8 @@
 - 500 grams caster sugar
 - 8 cloves
 - 4 perfectly ripe pears
-- 300 grams [puff pastry](../../baking/pastry/puff-pastry.md)
-- 6 [crêpes](../../desert/crepes/crepes.md) (20 cm in diameter)
+- 300 grams [puff pastry](../../../baking/pastry/puff-pastry.md)
+- 6 [crêpes](crepes.md) (20 cm in diameter)
 - 8 fresh mint leaves (finely chopped)
 - groundnut oil (to fry)
 - granulated sugar (to dust)

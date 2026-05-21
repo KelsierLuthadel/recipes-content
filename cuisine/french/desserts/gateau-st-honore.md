@@ -8,11 +8,11 @@
 **Prep Time:** 5 minutes
 
 ## Ingredients
-- 200 grams [puff pastry](../../baking/pastry/puff-pastry.md)
-- 1 quantity [choux paste](../../baking/pastry/choux-pastry.md)
+- 200 grams [puff pastry](../../../baking/pastry/puff-pastry.md)
+- 1 quantity [choux paste](../../../baking/pastry/choux-pastry.md)
 - eggwash (1 egg yolk mixed with 1 tablespoon milk)
 - Filling
-- 600 grams [chantilly cream](../../baking/cremes/creme-chantilly.md) (flavoured generously with vanilla)
+- 600 grams [chantilly cream](../../../baking/cremes/creme-chantilly.md) (flavoured generously with vanilla)
 - 2 tablespoons cocoa powder
 - Caramel
 - 200 grams caster sugar

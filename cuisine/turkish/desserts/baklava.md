@@ -8,7 +8,7 @@
 **Prep Time:** 5 minutes
 
 ## Ingredients
-- 16 sheets of [filo](../../baking/pastry/filo-pastry.md)
+- 16 sheets of [filo](../../../baking/pastry/filo-pastry.md)
 - 400 grams pistachios (skinned)
 - 60 grams caster sugar
 - 1 tablespoon ground cinnamon

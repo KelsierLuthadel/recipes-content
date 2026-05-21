@@ -9,7 +9,7 @@
 **Cook Time:** 1 minutes
 
 ## Ingredients
-- 1 sheet of [filo](../../baking/pastry/filo-pastry.md) (55 x 20 cm)
+- 1 sheet of [filo](../../../baking/pastry/filo-pastry.md) (55 x 20 cm)
 - 100 grams raisins
 - 1 tablespoon rum (optional)
 - 4 apples

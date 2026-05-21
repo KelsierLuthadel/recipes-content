@@ -24,7 +24,7 @@ Birmingham's defining curry, cooked hard and fast in a thin two-handled steel ba
 - 1 tsp paprika 
 - 250ml [Curry Base Gravy](../../Base/curry-base.md)
 - 200 g  [Pre-Cooked Chicken](../../Base/pre-cooked-chicken.md)
-- 1 tbsp [garam masala](../Spice-Mixes/garam-masala.md)
+- 1 tbsp [garam masala](../../Spice-Mixes/garam-masala.md)
 - 1 tsp dried fenugreek leaves 
 - Salt 
 - Chopped coriander to serve 

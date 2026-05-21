@@ -9,7 +9,7 @@
 **Serves:** 
 
 ## Ingredients
-- 750 ml [crème anglaise](../../baking/cremes/creme-anglaise.md) (warm, infused with 10 sprigs of lavender)
+- 750 ml [crème anglaise](../../../baking/cremes/creme-anglaise.md) (warm, infused with 10 sprigs of lavender)
 - 100 ml double cream
 
 ## Overview

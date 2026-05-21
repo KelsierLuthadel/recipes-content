@@ -22,7 +22,7 @@ Hot, sharp curry inspired by the cooking of southern India. Reduced tomato base 
 - ¼, tsp ground turmeric 
 - 1-2 tbsp chilli powder
 - 2 tbsp [mixed powder](../Spice-Mixes/mixed-powder.md)
-- 500ml [Curry Base Gravy](../../Base/curry-base.md)
+- 500ml [Curry Base Gravy](../Base/curry-base.md)
 - 800g [pre-cooked stewed lamb](../Base/pre-cooked-lamb.md)
 - 250ml of [Curry Base Gravy](../Base/curry-base.md) (or stock from [pre-cooked stewed lamb], ../Base/pre-cooked-lamb.md)
 - 1-2 tbsp smooth mango chutney

@@ -11,7 +11,7 @@
 - 1 sheet leaf gelatine
 - 100 ml lime juice
 - 45 grams caster sugar
-- 100 grams warm [meringue Italienne](../../baking/meringue/meringue-italienne.md)
+- 100 grams warm [meringue Italienne](../../../baking/meringue/meringue-italienne.md)
 - 170 ml whipping cream
 - 10 grams lime zest (julienne)
 - 250 grams hulled wild strawberries
