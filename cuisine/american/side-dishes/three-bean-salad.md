@@ -15,11 +15,11 @@ Three-bean salad is one of those quietly enduring American classics that has bee
 ## Ingredients
 
 ### Beans
-- 200 g green beans, trimmed and cut into 3 cm lengths
+- 200 g tib chickpeas, drained and rinsed 
 - 400 g tin red kidney beans, drained and rinsed
 - 400 g tin cannellini beans, drained and rinsed
 - ½ small red onion, finely diced
-- 1 green pepper (small), finely diced (optional but traditional)
+- 1 green pepper (finely diced, optional but traditional)
 - 2 tbsp flat-leaf parsley, finely chopped
 
 ### Vinaigrette
@@ -33,28 +33,23 @@ Three-bean salad is one of those quietly enduring American classics that has bee
 
 ## Method
 
-### Stage 1 - Cook the green beans
-1. Bring a small pan of salted water to the boil.
-2. Add the green beans and cook for 3 to 4 minutes, until just tender but still squeaky.
-3. Drain and plunge straight into iced water to stop the cooking and lock in the colour. Drain again and pat dry.
-
-### Stage 2 - Whisk the vinaigrette
+### Stage 1 - Whisk the vinaigrette
 1. In a large bowl whisk the cider vinegar and sugar together until the sugar has fully dissolved. This step matters, as undissolved sugar leaves a gritty edge.
 2. Whisk in the oil, mustard, salt, pepper, and celery seed if using, until glossy and emulsified.
 
-### Stage 3 - Combine
-1. Add the drained kidney beans, cannellini beans, blanched green beans, red onion, green pepper if using, and parsley to the bowl.
+### Stage 2 - Combine
+1. Add the drained kidney beans, cannellini beans, chickpeas, red onion, green pepper if using, and parsley to the bowl.
 2. Fold gently with a spatula until every bean is coated.
 
-### Stage 4 - Marinate
+### Stage 3 - Marinate
 1. Cover and refrigerate for at least 4 hours, ideally overnight. Stir once or twice during chilling if you remember.
 2. Taste before serving. Adjust with a splash more vinegar, a pinch more salt, or a dusting of sugar to balance.
 
-### Stage 5 - Serve
+### Stage 4 - Serve
 1. Stir well, lift the salad into a serving bowl with a slotted spoon (leaving most of the marinade behind), and finish with a final scatter of parsley.
 
 ## Notes
-- **Bean swaps:** Black beans, butter beans, or chickpeas all work in place of cannellini. The classic version uses kidney, cannellini, and fresh green, but it is forgiving.
+- **Bean swaps:** Black beans, green beans, butter beans, all work in place of cannellini. The classic version uses kidney, cannellini, and fresh green, but it is forgiving.
 - **Sugar level:** This salad is meant to be noticeably sweet-sour, almost pickle-like. Reduce sugar by a tablespoon if you prefer it sharper.
 - **No celery seed:** It adds a lovely vintage note, but the salad is still excellent without it.
 - **Make ahead:** This is one of the rare salads that genuinely improves over 2 to 3 days in the fridge.
