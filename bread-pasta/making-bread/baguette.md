@@ -4,7 +4,7 @@
 
 *The classic baguette shape: dough pre-shaped into rectangles, then rolled into long thin cylinders with tapered ends.*
 
-**Cook Time:** 15-20 minutes
+**Cook Time:** 1 hour 10 minutes
 
 **Prep Time:** 20 minutes
 
@@ -133,4 +133,4 @@ Temperature: Serve warm; baguettes are best eaten within 2-3 hours
 - Do not refrigerate; cold stales bread rapidly
 
 
-*The baguette shape is perhaps the most iconic French bread form: a long, thin cylinder with tapered ends and characteristic diagonal slashes across the top. The traditional method uses envelope-folding (important for gluten development) followed by careful rolling to create the long, even cylinder. The result is a bread of elegant proportions and distinctive crust pattern.*
+*The baguette shape is perhaps the most iconic French bread form: a long, thin cylinder with tapered ends and characteristic diagonal slashes across the top. The traditional method uses envelope-folding (important for gluten development) followed by careful rolling to create the long, even cylinder. The result is a bread of elegant proportions and distinctive crust pattern.*

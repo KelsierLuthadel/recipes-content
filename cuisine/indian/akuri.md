@@ -4,11 +4,11 @@
 
 *This is a great quick snack dish that also holds well as a starter or a canapé.*
 
-**Serves:** 
+**Serves:** 2
 
-**Prep Time:** 15 minutes
+**Prep Time:** 10 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 5 minutes
 
 ## Overview
 Silky scrambled eggs infused with warm spices and fresh aromatics. The turmeric adds a earthy golden color while ginger and chilli provide warmth and complexity. Served with fresh coriander, this makes an excellent quick snack, elegant starter, or gourmet canapé topping.
