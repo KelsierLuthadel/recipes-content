@@ -36,7 +36,7 @@ Mild yellow curry with Indian influences from turmeric and curry powder. Similar
 - 600 g (1 lb 5 oz) skinless chicken thigh fillets, cut into bite-size pieces
 
 ### Spices
-- 1 tsp [Curry Powder](../../indian/Spice-Mixes/curry-powder.md)
+- 1 tsp [Curry Powder](../indian/Spice-Mixes/curry-powder.md)
 
 ### Seasoning
 - 2 tbsp Thai fish sauce

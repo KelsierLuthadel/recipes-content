@@ -17,7 +17,7 @@ themselves, not like watered-down versions of someone else's.
 
 ## Recipes
 
-- [Thai Beef Massaman](../cuisine/thai/curry/thai-beef-massaman.md)
+- [Thai Beef Massaman](../cuisine/thai/thai-beef-massaman.md)
 - [Tandoori Chicken Tikka](../cuisine/indian/side-dishes/tandoori-chicken-tikka.md)
 - [Char Siu](../cuisine/chinese/char-siu.md)
 - [Samgyeopsal](../cuisine/korean/samgyeopsal.md)
