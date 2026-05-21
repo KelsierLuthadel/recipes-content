@@ -1,6 +1,7 @@
 # Callaloo
 
 ![Callaloo](resources/callaloo.jpg)
+
 *Jamaica's everyday greens dish: callaloo (or spinach as a stand-in) wilted with onion, garlic, scotch bonnet, thyme and tomato. The greens collapse into a soft, glossy mound; the scotch bonnet does its work without being eaten. Eats as a side, a breakfast with hard-dough bread, or piled over rice.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Begun Bhaja
 
 ![Begun Bhaja](resources/begun-bhaja.jpg)
+
 *Thick coins of aubergine, rubbed with turmeric and salt, shallow-fried in smoking mustard oil until the edges are crisp and lacy and the centre yields like cream. The aroma is unmistakable: nutty mustard oil and caramelised aubergine skin, the smell of a Bengali rice plate.*
 
 **Serves:** 4

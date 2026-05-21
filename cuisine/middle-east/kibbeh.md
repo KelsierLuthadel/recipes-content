@@ -1,6 +1,7 @@
 # Kibbeh
 
 ![Kibbeh](resources/kibbeh.jpg)
+
 *Levantine fried croquettes: a bulgur-and-ground-lamb shell encloses a spiced lamb-and-pine-nut filling. Football-shaped, fried golden, served as part of a mezze spread. The national dish of Lebanon and Syria.*
 
 **Makes:** 16 kibbeh

@@ -1,6 +1,7 @@
 # Sfeeha
 
 ![Sfeeha](resources/sfeeha.jpg)
+
 *Aleppo's open-faced lamb pies: small dough rounds topped with a tangy mince of tomato, pomegranate molasses, pine nuts and Aleppo pepper. Baked hot.*
 
 **Serves:** 6 (makes 24)

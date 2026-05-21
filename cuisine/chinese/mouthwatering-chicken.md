@@ -1,6 +1,7 @@
 # Mouthwatering Chicken (Kou Shui Ji)
 
 ![Mouthwatering Chicken (Kou Shui Ji)](resources/mouthwatering-chicken.jpg)
+
 *Cool, silky poached chicken sliced and bathed in a glossy crimson sauce of chilli oil, black vinegar, sesame paste and Sichuan pepper oil. The dish gets its name (literally "saliva chicken") from the way the aroma of toasted sesame and tingly mala forces the mouth to water before the first bite.*
 
 **Serves:** 2-4

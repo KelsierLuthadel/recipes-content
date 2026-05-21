@@ -1,6 +1,7 @@
 # Aushak
 
 ![Aushak](resources/aushak.jpg)
+
 *Afghanistan's leek dumplings: wonton wrappers folded around chopped leek, boiled, then served under garlicky yogurt and a spiced meat sauce.*
 
 **Serves:** 4 (about 30 dumplings)

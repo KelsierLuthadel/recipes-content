@@ -4,7 +4,6 @@
 
 *Beijing's banquet duck: a whole bird air-dried, lacquered with maltose syrup and roasted till the skin crisps to glass.*
 
-
 ## Overview
 The Chinese revere duck as a symbol of wholesomeness and fidelity. With Peking duck, Chinese cooks mastered the art of maximising the duck's rich, succulent flesh while minimising bone and fat. This simplified method produces similar results to traditional restaurant preparations. While the authentic version involves air-pumping and wood-burning ovens, this approach creates shatteringly crisp skin through a honey-syrup glaze and extended drying.
 

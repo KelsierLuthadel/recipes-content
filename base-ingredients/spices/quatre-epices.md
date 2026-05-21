@@ -1,13 +1,10 @@
 # Quatre Épices (Four Spices)
 
-*France's 'four spices': ground pepper, clove, ginger and nutmeg in a specific ratio.*
-
-
-**Prep Time:** 10 minutes
-
 ![Quatre Épices](resources/quatre.jpg)
 
-*Quatre épices (literally "four spices") is a classic French spice blend used primarily in charcuterie, meat pâtés, sausages, terrines, and ragouts. It appears across French cuisine in soups, slow-cooked meat dishes, and traditional preparations where subtle sophistication matters.*
+*France's 'four spices': ground pepper, clove, ginger and nutmeg in a specific ratio.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 25-30 grams (makes 15-20 portions)
 
@@ -86,3 +83,6 @@ Temperature: Works both in raw meat mixtures (for pâté) and in cooked applicat
 - Label with preparation date
 - Freshness is paramount for French cuisine where subtlety matters
 
+
+
+*Quatre épices (literally "four spices") is a classic French spice blend used primarily in charcuterie, meat pâtés, sausages, terrines, and ragouts. It appears across French cuisine in soups, slow-cooked meat dishes, and traditional preparations where subtle sophistication matters.*

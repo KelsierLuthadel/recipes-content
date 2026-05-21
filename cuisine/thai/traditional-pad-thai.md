@@ -4,10 +4,10 @@
 
 *Thailand's traditional pad thai: rice noodles stir-fried with prawns, dried shrimp, preserved radish, egg and a tamarind sauce.*
 
-
-
 **Serves:** 4
+
 **Prep Time:** 20 minutes
+
 **Cook Time:** 20 minutes
 
 ## Overview

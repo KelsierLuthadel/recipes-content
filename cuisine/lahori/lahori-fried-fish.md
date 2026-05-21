@@ -1,6 +1,7 @@
 # Lahori Fried Fish
 
 ![Lahori Fried Fish](resources/lahori-fried-fish.jpg)
+
 *The Lahori winter-street classic: river fish (rohu, pomfret or any firm white) coated in a spiced gram-flour batter and shallow-fried until shatter-crisp. Sold on the Old City pavements; eaten with chaat masala, lemon and a green chutney.*
 
 **Serves:** 4

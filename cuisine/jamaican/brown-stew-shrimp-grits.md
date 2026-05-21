@@ -1,6 +1,7 @@
 # Brown Stew Shrimp and Sweet Potato Grits
 
 ![Brown Stew Shrimp and Sweet Potato Grits](resources/brown-stew-shrimp-grits.jpg)
+
 *A Caribbean-Southern fusion: jumbo shrimp in a brown-stew sauce with peppers and Scotch bonnet, spooned over sweet potato grits enriched with gouda.*
 
 **Serves:** 4

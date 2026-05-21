@@ -1,13 +1,10 @@
 # Romesco Sauce
 
-*Catalonia's romesco: roasted red peppers, tomato, almonds and hazelnuts pounded with garlic.*
-
-
-**Prep Time:** 10 minutes
-
 ![Romesco Sauce](resources/romesco-sauce.png)
 
-*This salsa works well with pasta or in bouchée as a canapé*
+*Catalonia's romesco: roasted red peppers, tomato, almonds and hazelnuts pounded with garlic.*
+
+**Prep Time:** 10 minutes
 
 **Servings:** 8
 
@@ -48,3 +45,6 @@ Amount: 2-3 tablespoons per portion as a condiment
 - Refrigerate in an airtight container for up to 3 days
 - The olive oil may solidify when cold; return to room temperature before serving
 - Do not freeze; the texture of the diced pepper becomes watery when thawed
+
+
+*This salsa works well with pasta or in bouchée as a canapé*

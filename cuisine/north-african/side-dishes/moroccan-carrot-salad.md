@@ -1,6 +1,7 @@
 # Moroccan Carrot Salad
 
 ![Moroccan Carrot Salad](resources/moroccan-carrot-salad.jpg)
+
 *Morocco's bright orange side: carrots just-tender, dressed warm in cumin, paprika, garlic, lemon and olive oil with a pinch of cinnamon.*
 
 **Serves:** 4

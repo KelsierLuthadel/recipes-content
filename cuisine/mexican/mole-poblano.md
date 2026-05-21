@@ -1,6 +1,7 @@
 # Mole Poblano
 
 ![Mole Poblano](resources/mole-poblano.jpg)
+
 *Puebla's complex sauce of dried chillies, chocolate, nuts, seeds and spices, served over chicken or turkey. Twenty-plus ingredients; days of work in restaurants; here a faithful weekend version. The most labyrinthine sauce in Mexican cooking, and the one most worth the effort.*
 
 **Serves:** 6

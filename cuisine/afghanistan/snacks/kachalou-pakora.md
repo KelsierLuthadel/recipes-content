@@ -1,6 +1,7 @@
 # Kachalou Pakora
 
 ![Kachalou Pakora](resources/kachalou-pakora.jpg)
+
 *Kabul's tea-time fritter: thin potato slices dipped in chickpea-flour batter spiked with turmeric, chilli and ajwain, deep-fried golden.*
 
 **Serves:** 4 (makes 24 pakoras)

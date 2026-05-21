@@ -1,6 +1,7 @@
 # Spiced Mixed Nuts
 
 ![Spiced Mixed Nuts](resources/spiced-mixed-nuts.jpg)
+
 *Roasted nuts with rosemary, smoked paprika, butter and a pinch of cayenne. The cocktail-hour staple; far better than any bag from a shop. Makes a generous gift, keeps a fortnight in a tin, vanishes faster than that in any household.*
 
 **Makes:** 500 g

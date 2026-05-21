@@ -1,6 +1,7 @@
 # Gai Yang
 
 ![Gai Yang](resources/gai-yang.jpg)
+
 *Isaan's grilled chicken: butterflied bird pounded with coriander root, garlic, white pepper and fish sauce, slow-charred over coals till mahogany-dark.*
 
 **Serves:** 4

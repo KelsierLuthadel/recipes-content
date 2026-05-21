@@ -1,6 +1,7 @@
 # Gambir
 
 ![Gambir](resources/gambir.jpg)
+
 *Mongolia's layered sweet pastry: paper-thin dough rolled with butter and sugar, coiled tight and pan-fried till the layers crackle.*
 
 **Serves:** Makes 6 gambir (serves 6)

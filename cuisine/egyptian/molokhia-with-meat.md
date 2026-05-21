@@ -1,6 +1,7 @@
 # Molokhia with Meat
 
 ![Molokhia with Meat](resources/molokhia-with-meat.jpg)
+
 *Egypt's signature green stew: finely chopped molokhia leaves simmered in a meaty stock, finished with sizzled coriander-garlic butter.*
 
 **Serves:** 4

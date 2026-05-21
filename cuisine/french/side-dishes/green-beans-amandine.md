@@ -1,6 +1,7 @@
 # Green Beans Amandine
 
 ![Green Beans Amandine](resources/green-beans-amandine.jpg)
+
 *The French bistro side: green beans blanched just-tender, tossed in browned butter with toasted flaked almonds and a squeeze of lemon.*
 
 **Serves:** 4 (as a side)

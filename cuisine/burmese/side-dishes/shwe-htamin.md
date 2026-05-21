@@ -1,6 +1,7 @@
 # Shwe Htamin
 
 ![Shwe Htamin](resources/shwe-htamin.jpg)
+
 *Burma's golden rice: turmeric-tinted rice lightly fried with sliced onion, then cooked absorption-style with salt. The everyday side for stronger curries.*
 
 **Serves:** 4

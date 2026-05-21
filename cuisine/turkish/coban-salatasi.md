@@ -1,6 +1,7 @@
 # Çoban Salatası
 
 ![Çoban Salatası](resources/coban-salatasi.jpg)
+
 *Turkey's shepherd's salad: tomato, cucumber, onion, pepper and parsley diced and dressed with lemon, olive oil and a sprinkle of sumac.*
 
 **Serves:** 4

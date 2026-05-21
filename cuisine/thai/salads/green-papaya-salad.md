@@ -4,8 +4,6 @@
 
 *Thailand's som tam: shredded green papaya pounded with garlic, chilli, lime, fish sauce, palm sugar, peanuts and dried shrimp.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 15 minutes

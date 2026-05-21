@@ -1,6 +1,7 @@
 # Oyakodon
 
 ![Oyakodon](resources/oyakodon.jpg)
+
 *"Parent and child" rice bowl: chicken and egg simmered together in dashi-soy broth, set just barely soft, slid onto rice. Sentimental name; comforting dish; ready in fifteen minutes.*
 
 **Serves:** 2

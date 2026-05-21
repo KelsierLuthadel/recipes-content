@@ -1,6 +1,7 @@
 # Shrak
 
 ![Shrak](resources/shrak.jpg)
+
 *Jordanian Bedouin paper-thin bread: a simple flour-and-water dough stretched almost translucent and cooked in seconds on a convex iron griddle (saj) over an open fire. Used as the base of mansaf (laid under rice and lamb), wrapped around shish tawook, or torn for scooping mezze. Each piece is 40-50 cm wide.*
 
 **Serves:** 4 (makes 6 large breads)

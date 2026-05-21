@@ -1,6 +1,7 @@
 # Bhindi Masala
 
 ![Bhindi Masala](resources/bhindi-masala.jpg)
+
 *North Indian okra dish: pods cooked dry with onion, tomato and spice until tender, with none of the slime that puts cooks off the vegetable. The technique is in the cut and the timing.*
 
 **Serves:** 4

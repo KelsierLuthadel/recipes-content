@@ -1,6 +1,7 @@
 # Falafel
 
 ![Falafel](resources/falafel.jpg)
+
 *The Levantine chickpea fritter: soaked dried chickpeas blitzed with parsley, coriander and spices, deep-fried till crusted dark, vivid green within.*
 
 **Serves:** 6 (makes about 24)

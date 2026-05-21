@@ -1,6 +1,7 @@
 # Guacamole
 
 ![Guacamole](resources/guacamole.jpg)
+
 *Mexican avocado dip: ripe avocados mashed with lime, salt, white onion, fresh chilli and coriander. The pure version has no tomato, no cumin, no sour cream, no extras. The simpler version is the better one.*
 
 **Serves:** 4-6 (as a dip)

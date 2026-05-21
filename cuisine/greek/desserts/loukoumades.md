@@ -1,6 +1,7 @@
 # Loukoumades
 
 ![Loukoumades](resources/loukoumades.jpg)
+
 *Greece's festival doughnut: golf-ball puffs of yeasted batter dropped from a wet hand into hot oil, drenched in warm honey syrup, scattered with walnut.*
 
 **Serves:** 6 (makes about 30 loukoumades)

@@ -1,6 +1,7 @@
 # Colcannon
 
 ![Colcannon](resources/colcannon.jpg)
+
 *Mashed potatoes folded with shredded cabbage or kale that's been wilted in butter, finished with a generous pour of warm milk and a slick of melting butter on top. Irish home cooking at its plainest and best; eats as a main with a fried egg or alongside almost anything.*
 
 **Serves:** 4

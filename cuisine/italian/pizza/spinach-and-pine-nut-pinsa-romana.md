@@ -5,7 +5,9 @@
 *Pinsa romana is the older, lighter cousin of Roman pizza, made with a mixed-flour dough hydrated to around 80 percent and shaped into an elongated oval. The high water content gives an airy crumb and a beautifully crisp base.*
 
 **Serves:** 2 pinsa bases
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 18 minutes
 
 ## Overview

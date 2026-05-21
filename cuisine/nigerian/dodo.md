@@ -1,6 +1,7 @@
 # Dodo
 
 ![Dodo](resources/dodo.jpg)
+
 *Nigeria's everyday side: ripe plantains sliced and shallow-fried till the edges caramelise to deep mahogany and the centres turn jammy.*
 
 **Serves:** 4

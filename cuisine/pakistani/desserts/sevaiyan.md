@@ -1,6 +1,7 @@
 # Sevaiyan
 
 ![Sevaiyan](resources/sevaiyan.jpg)
+
 *The drier cousin of sheer khurma. Fine vermicelli toasted golden in ghee, simmered with sugar, milk, cardamom and a handful of nuts and raisins until the strands swell and the liquid disappears into a fragrant tangle. The morning-of-Eid breakfast, eaten warm with sweet tea.*
 
 **Serves:** 6

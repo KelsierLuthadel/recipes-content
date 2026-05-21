@@ -1,6 +1,7 @@
 # Pastelitos
 
 ![Pastelitos](resources/pastelitos.jpg)
+
 *Cuba's bakery pastry: small flaky puff-pastry squares filled with guava paste and cream cheese, baked till the pastry is shatteringly gold.*
 
 **Serves:** 4 to 6 (makes 12 pastelitos)

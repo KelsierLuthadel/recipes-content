@@ -1,6 +1,7 @@
 # Caldo Verde
 
 ![Caldo Verde](resources/caldo-verde.jpg)
+
 *Portugal's beloved soup: a smooth potato base with finely shredded collard kale, slices of chouriço floating on top and a generous slick of olive oil.*
 
 **Serves:** 6

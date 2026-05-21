@@ -1,6 +1,7 @@
 # Shukto
 
 ![Shukto](resources/shukto.jpg)
+
 *A pale, faintly milky stew studded with bitter gourd, drumstick, plantain and aubergine, scented with bay leaves, ghee and a whisper of ground radhuni. Its first taste is bitter, the second sweet, the finish nutty: a deliberate awakening of the palate that opens every formal Bengali meal.*
 
 **Serves:** 4 to 6

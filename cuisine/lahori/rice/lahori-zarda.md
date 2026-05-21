@@ -1,6 +1,7 @@
 # Lahori Zarda
 
 ![Lahori Zarda](resources/lahori-zarda.jpg)
+
 *Sweet saffron rice: basmati cooked with sugar, saffron and orange food colouring, studded with nuts, raisins and candied fruit. The wedding-and-Eid table sweet rice; eats as a dessert or alongside savoury biryani.*
 
 **Serves:** 6-8

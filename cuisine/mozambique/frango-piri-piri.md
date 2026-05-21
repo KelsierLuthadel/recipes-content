@@ -1,6 +1,7 @@
 # Frango Piri-Piri
 
 ![Frango Piri-Piri](resources/frango-piri-piri.jpg)
+
 *Mozambique's national grilled chicken: spatchcocked bird marinated in fiery garlic-lemon-piri-piri, grilled hard over charcoal and basted as it cooks.*
 
 **Serves:** 4

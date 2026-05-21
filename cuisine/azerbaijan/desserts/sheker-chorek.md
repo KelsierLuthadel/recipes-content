@@ -1,6 +1,7 @@
 # Sheker Chorek
 
 ![Sheker Chorek](resources/sheker-chorek.jpg)
+
 *Azerbaijan's everyday tea cookie: a soft melt-in-the-mouth sugar shortbread brushed with egg yolk and scattered with sesame or nigella.*
 
 **Serves:** Makes about 20 cookies

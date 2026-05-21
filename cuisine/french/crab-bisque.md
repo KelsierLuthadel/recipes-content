@@ -4,7 +4,6 @@
 
 *France's classic crab bisque: shells simmered for a rich stock, blended with cream, brandy and tomato paste into a silky smooth.*
 
-
 **Serves:** 4
 
 **Prep Time:** 20 minutes

@@ -5,7 +5,9 @@
 *A workhorse pizza dough made with a 50/50 blend of plain and strong bread flour, given a long, slow cold prove in the fridge to develop flavour and a more open crumb.*
 
 **Serves:** Makes 9 x 30 cm pizza bases
+
 **Prep Time:** 20 minutes
+
 **Cook Time:** 50 minutes (passive, plus overnight proof)
 
 ## Overview

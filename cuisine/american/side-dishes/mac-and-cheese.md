@@ -1,6 +1,7 @@
 # Mac and Cheese
 
 ![Mac and Cheese](resources/mac-and-cheese.jpg)
+
 *America's baked pasta side: short pasta in a roux-thickened cheddar béchamel, topped with buttered breadcrumbs and baked till bubbly and deep gold.*
 
 **Serves:** 6

@@ -1,6 +1,7 @@
 # Obleas
 
 ![Obleas](resources/obleas.jpg)
+
 *Colombia's street-cart wafer sandwich: paper-thin wafers slathered with arequipe and crowned with cheese, jam, coconut or chopped peanuts.*
 
 **Serves:** Makes 6 wafer sandwiches

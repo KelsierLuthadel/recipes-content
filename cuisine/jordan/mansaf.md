@@ -1,6 +1,7 @@
 # Mansaf
 
 ![Mansaf](resources/mansaf.jpg)
+
 *Jordan's national dish: lamb slow-cooked in a fermented dried-yogurt sauce (jameed), served on rice and shrak with toasted almonds and pine nuts.*
 
 **Serves:** 6

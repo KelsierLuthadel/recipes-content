@@ -1,6 +1,7 @@
 # Buttermilk Fried Chicken
 
 ![Buttermilk Fried Chicken](resources/buttermilk-fried-chicken.jpg)
+
 *The American Southern classic: chicken brined overnight in buttermilk, double-dredged in seasoned flour, fried till the crust shatters and the meat stays moist.*
 
 **Serves:** 4

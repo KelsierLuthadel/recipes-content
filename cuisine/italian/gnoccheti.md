@@ -5,7 +5,9 @@
 *Gnocchetti burro e salvia, though a bit fiddly to prepare, this delicate gnocchi dish is absolutely worth the effort. The earthy sage and sweet courgettes create perfect harmony, enriched by melting butter and Parmesan. Always use fresh sage, never dried.*
 
 **Serves:** 2
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 4 minutes
 
 ## Overview

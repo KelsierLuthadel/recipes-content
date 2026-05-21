@@ -1,6 +1,7 @@
 # Bánh Xèo Chay
 
 ![Bánh Xèo Chay](resources/banh-xeo-chay.jpg)
+
 *Vietnam's sizzling rice-flour pancake: crispy at the edges, slightly chewy in the centre, folded around a stir-fried filling of mushrooms, beansprouts and tofu.*
 
 **Serves:** 4

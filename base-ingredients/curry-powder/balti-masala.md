@@ -1,13 +1,10 @@
 # Balti Masala
 
-*A dry balti spice mix: coriander, cumin, fenugreek and dried chilli toasted and ground.*
-
-
-**Prep Time:** 10 minutes
-
 ![Balti Masala](resources/balti-masala.jpg)
 
-*Balti masala is the spice foundation for most British-Indian Balti curries. The mix is mild and well-rounded, designed to be used as a base that cooks build on with additional ingredients and fresh aromatics. Toast, grind, and store for year-round use.*
+*A dry balti spice mix: coriander, cumin, fenugreek and dried chilli toasted and ground.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 200 grams (makes enough for 20-25 curry portions)
 
@@ -107,3 +104,5 @@ Temperature: Works best when fried in hot oil to bloom the spices and release fl
 - Do not refrigerate; room temperature storage is best
 - Label with preparation date for easy tracking
 - Make fresh quarterly for optimal flavor and aroma
+
+*Balti masala is the spice foundation for most British-Indian Balti curries. The mix is mild and well-rounded, designed to be used as a base that cooks build on with additional ingredients and fresh aromatics. Toast, grind, and store for year-round use.*

@@ -1,6 +1,7 @@
 # Char Siu
 
 ![Char Siu](resources/char-siu.jpg)
+
 *Lacquered strips of pork the colour of dark cherry wood, edges blackened where the honey-maltose glaze has caramelised against the heat. The smell is unmistakable: five-spice, rose wine, fermented bean curd, and pork fat sizzling onto coals.*
 
 **Serves:** 6

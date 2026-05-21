@@ -1,6 +1,7 @@
 # Mongolian Sweet Rice
 
 ![Mongolian Sweet Rice](resources/mongolian-sweet-rice.jpg)
+
 *A festival rice pudding from the Mongolian steppe: pudding rice simmered in whole milk with butter, sugar and raisins until thick and creamy.*
 
 **Serves:** 6

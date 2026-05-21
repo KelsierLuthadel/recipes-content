@@ -1,6 +1,7 @@
 # Champurrado
 
 ![Champurrado](resources/champurrado.jpg)
+
 *The chocolate cousin of atole. Masa harina, milk, piloncillo, cinnamon and a generous bar of Mexican chocolate, whisked over a low heat until thick and silky. The drink of cold mornings, Día de los Muertos vigils, and any night that calls for hot chocolate with a backbone.*
 
 **Serves:** 4

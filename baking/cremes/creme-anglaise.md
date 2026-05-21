@@ -4,8 +4,6 @@
 
 *Crème anglaise (French for "English cream") is a light pouring custard used as a dessert cream or sauce.*
 
-*Crème anglaise is thought to have origins evolving from ancient Romans who used eggs as thickeners to create custards and creams*
-
 **Serves:**  750ml
 
 ## Overview
@@ -66,3 +64,5 @@ Temperature options: Warm alongside hot desserts; chilled for parfaits and trifl
 - Does not freeze well as texture becomes grainy upon thawing
 - Reheat gently over a water bath, whisking constantly, without boiling
 - Can be made 1-2 days ahead for entertaining
+
+*Crème anglaise is thought to have origins evolving from ancient Romans who used eggs as thickeners to create custards and creams*

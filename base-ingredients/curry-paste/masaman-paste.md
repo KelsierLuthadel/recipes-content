@@ -1,13 +1,10 @@
 # Thai Masaman Curry Paste (Kruang Kaeng Masaman)
 
-*Thailand's Massaman paste: dry-roasted dried chillies, lemongrass, galangal, cinnamon, cumin and shrimp paste pounded into a deep.*
-
-
-**Prep Time:** 15 minutes
-
 ![Masaman Curry Paste](resources/massaman-curry-paste.jpg)
 
-*Originating from the Malaysian border region, this paste combines Thai spices with Indian and Persian influences. It works beautifully with beef, chicken, or duck, particularly robust meats that can stand up to the paste's depth.*
+*Thailand's Massaman paste: dry-roasted dried chillies, lemongrass, galangal, cinnamon, cumin and shrimp paste pounded into a deep.*
+
+**Prep Time:** 15 minutes
 
 **Yield:** Approximately 175-200 grams
 
@@ -101,3 +98,5 @@ Temperature: Use immediately or refrigerate
 - Can be frozen for up to 3 months
 - Label with date; while this paste keeps longer, flavors peak within the first 2 weeks
 - The paste will firm up when cold; warm to room temperature before using in hot oil
+
+*Originating from the Malaysian border region, this paste combines Thai spices with Indian and Persian influences. It works beautifully with beef, chicken, or duck, particularly robust meats that can stand up to the paste's depth.*

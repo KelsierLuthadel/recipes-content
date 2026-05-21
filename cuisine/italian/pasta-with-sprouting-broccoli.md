@@ -5,7 +5,9 @@
 *Orecchiette al broccoli, the fresh, firm al dente broccoli mingles beautifully with nutty pine nuts and mild spicy undertones. The pasta shells capture every bit of the light oil sauce. This is vegetarian cooking at its most satisfying.*
 
 **Serves:** 4
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 3 minutes
 
 ## Overview

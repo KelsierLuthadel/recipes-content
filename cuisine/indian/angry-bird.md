@@ -4,8 +4,6 @@
 
 *A fiery Indian chicken curry: bone-in chicken in a chilli-heavy gravy of onion, tomato, dried chillies and Kashmiri red.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 5 minutes

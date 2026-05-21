@@ -1,6 +1,7 @@
 # Tortilla Española
 
 ![Tortilla Española](resources/tortilla-espanola.jpg)
+
 *Spain's national dish: thinly sliced potato and onion poached gently in olive oil, then bound with eggs and cooked into a thick juicy round.*
 
 **Serves:** 4-6

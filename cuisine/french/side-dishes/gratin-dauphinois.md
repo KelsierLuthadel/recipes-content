@@ -1,6 +1,7 @@
 # Gratin Dauphinois
 
 ![Gratin Dauphinois](resources/gratin-dauphinois.jpg)
+
 *The defining French potato side: waxy slices layered in a buttered garlic-rubbed dish, drowned in nutmeg cream and baked slow till golden.*
 
 **Serves:** 6 (as a side)

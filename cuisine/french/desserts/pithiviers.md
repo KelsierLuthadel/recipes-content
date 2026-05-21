@@ -4,9 +4,10 @@
 
 *A French puff-pastry pie: two discs of puff pastry sealed around a frangipane filling.*
 
-
 **Serves:** 8
+
 **Prep Time:** 5 minutes
+
 **Cook Time:** 26 minutes
 
 ## Ingredients

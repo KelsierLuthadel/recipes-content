@@ -4,12 +4,12 @@
 
 *A Cantonese broccoli side: florets blanched briefly, then stir-fried hot with sliced ginger, garlic and a splash of oyster sauce.*
 
+**Serves:**  2 - 4
+
+**Cook Time:** 1 minute
 
 *This dish is best suited to sprouting broccoli, which has a lovely purple hue. This dish can be served at room temperature in the summer as a wonderful salad accompaniment. 
 *
-
-**Serves:**  2 - 4
-**Cook Time:** 1 minutes
 
 ## Overview
 Stir-fried ginger broccoli is a simple, clean side dish that pairs blanched broccoli with fragrant shredded ginger and a finish of sesame oil. It works equally well served hot alongside Asian mains or at room temperature as a salad-style accompaniment in warmer months.

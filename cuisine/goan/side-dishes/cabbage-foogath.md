@@ -1,6 +1,7 @@
 # Cabbage Foogath
 
 ![Cabbage Foogath](resources/cabbage-foogath.jpg)
+
 *Goan dry cabbage with coconut, mustard seeds and dried red chilli. The most-cooked weekday vegetable side in Goa; on the table in 15 minutes.*
 
 **Serves:** 4

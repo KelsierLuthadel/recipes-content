@@ -1,6 +1,7 @@
 # Sambousek Bil Lahm
 
 ![Sambousek bil Lahm](resources/sambousek-lahm.jpg)
+
 *A Saudi meat sambousek: crescent-shaped pastries with a spiced lamb mince filling, crimped along the edge and either baked or fried. The iftar mainstay.*
 
 **Serves:** 6 (makes 24)

@@ -1,6 +1,7 @@
 # Socca
 
 ![Socca](resources/socca.jpg)
+
 *Nice's market snack: a thin chickpea-flour pancake cooked on a copper pan, sliced with a spatula, eaten hot from a paper cone.*
 
 **Serves:** 4 (makes one 30 cm socca)

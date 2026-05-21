@@ -1,6 +1,7 @@
 # Frijoles Charros
 
 ![Frijoles Charros](resources/frijoles-charros.jpg)
+
 *Cowboy beans: pinto beans cooked in a pork-and-tomato broth with bacon, chorizo, jalapeño and tomato. Hearty enough to be its own meal, but built to sit beside grilled meat.*
 
 **Serves:** 6

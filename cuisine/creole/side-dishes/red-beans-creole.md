@@ -1,6 +1,7 @@
 # Red Beans (Creole)
 
 ![Red Beans (Creole)](resources/red-beans-creole.jpg)
+
 *New Orleans Creole red beans: small red beans slow-cooked with the trinity, smoked ham hock and andouille till creamy. The Monday-laundry-day pot.*
 
 **Serves:** 6

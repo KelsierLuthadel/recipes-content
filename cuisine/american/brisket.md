@@ -1,6 +1,7 @@
 # Jewish Brisket
 
 ![Jewish Brisket](resources/brisket.jpg)
+
 *Slow-braised beef brisket in a sweet-savoury onion-and-tomato sauce, the meat cooked until it can be cut with a fork. The defining holiday main of Ashkenazi Jewish cooking - served at Rosh Hashanah, Passover, Shabbat, weddings. Best made the day before so it slices cleanly and the flavours deepen.*
 
 **Serves:** 8

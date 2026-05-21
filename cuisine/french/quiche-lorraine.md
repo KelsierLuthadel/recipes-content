@@ -1,6 +1,7 @@
 # Quiche Lorraine
 
 ![Quiche Lorraine](resources/quiche-lorraine.jpg)
+
 *The original quiche: shortcrust shell, lardons, gruyère and a custard of cream, milk and eggs. Lorraine in northeast France didn't include cheese in the original; the modern recipe is the version most cooks use.*
 
 **Serves:** 6-8

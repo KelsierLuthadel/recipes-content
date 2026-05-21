@@ -1,6 +1,7 @@
 # Refried Beans
 
 ![Refried Beans](resources/refried-beans.jpg)
+
 *Mexico's frijoles refritos: pinto beans slow-cooked from dried, then mashed and fried in lard with onion until thick and glossy.*
 
 **Serves:** 6 (as a side)

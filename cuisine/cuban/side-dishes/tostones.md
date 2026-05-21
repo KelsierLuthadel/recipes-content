@@ -1,6 +1,7 @@
 # Tostones
 
 ![Tostones](resources/tostones.jpg)
+
 *Twice-fried green plantain rounds: golden disks, crisp on the outside and starchy-tender inside, smashed flat between two fryings and dunked into garlic-mojo while still hot. The standard Cuban side with roast pork, fried fish or rice and beans; also a snack with a beer.*
 
 **Serves:** 4

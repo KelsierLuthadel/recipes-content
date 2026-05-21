@@ -1,6 +1,7 @@
 # Grilled Eggplant Salad
 
 ![Grilled Eggplant Salad](resources/grilled-eggplant-salad.jpg)
+
 *A Uyghur eggplant salad: aubergines roasted soft and torn smoky, tossed with chopped tomato, cucumber, mild green pepper and a garlic-browned oil.*
 
 **Serves:** 4

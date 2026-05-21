@@ -4,8 +4,8 @@
 
 *A Lahori lamb karahi: bone-in lamb seared hard in a karahi with tomato, ginger, green chilli and a heavy hand of black pepper.*
 
-
 **Serves:** 4
+
 **Prep Time:** 15 minutes
 
 ## Overview

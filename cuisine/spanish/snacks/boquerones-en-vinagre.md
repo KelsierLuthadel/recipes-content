@@ -1,6 +1,7 @@
 # Boquerones en Vinagre
 
 ![Boquerones en Vinagre](resources/boquerones-en-vinagre.jpg)
+
 *Spain's eternal tapa: fresh anchovy fillets cured in white-wine vinegar and salt, then bathed in olive oil with sliced garlic and parsley.*
 
 **Serves:** 4 as a tapa

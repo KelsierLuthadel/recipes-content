@@ -4,8 +4,6 @@
 
 *Thailand's pad krapow gai: minced chicken stir-fried hot with garlic, bird's-eye chilli and a generous handful of holy basil.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

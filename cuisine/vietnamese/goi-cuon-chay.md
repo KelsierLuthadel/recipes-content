@@ -1,6 +1,7 @@
 # Gỏi Cuốn Chay
 
 ![Gỏi Cuốn Chay](resources/goi-cuon-chay.jpg)
+
 *Vietnamese vegetarian summer rolls: cool rice paper wrapped around lettuce, herbs, vermicelli and tofu, dipped in a sweet-sour peanut sauce. Light, fresh, exactly the right thing in summer; the dipping sauce does most of the work.*
 
 **Makes:** 12 rolls (serves 4)

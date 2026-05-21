@@ -1,6 +1,7 @@
 # Yakgwa (Honey-Fried Wheat Cookies)
 
 ![Yakgwa](resources/yakgwa.jpg)
+
 *Korea's royal cookie: a sesame-oil-and-honey dough deep-fried golden, then soaked in a rice-syrup-and-ginger glaze. Eaten at Seollal.*
 
 **Serves:** Makes 20-24 cookies

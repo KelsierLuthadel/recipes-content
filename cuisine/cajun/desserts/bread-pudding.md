@@ -1,6 +1,7 @@
 # Bread Pudding with Bourbon Sauce
 
 ![Bread Pudding with Bourbon Sauce](resources/bread-pudding.jpg)
+
 *A New Orleans classic: thick slices of stale French bread soaked in an eggy cinnamon custard with raisins and pecans, doused in hot bourbon-butter.*
 
 **Serves:** 8

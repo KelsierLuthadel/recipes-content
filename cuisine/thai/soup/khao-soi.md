@@ -4,7 +4,6 @@
 
 *Northern Thailand's coconut curry noodle soup: egg noodles in a turmeric-and-curry coconut broth with chicken.*
 
-
 **Serves:** 4
 
 **Prep Time:** 15 minutes

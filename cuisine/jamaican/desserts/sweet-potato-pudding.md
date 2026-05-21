@@ -1,6 +1,7 @@
 # Sweet Potato Pudding
 
 ![Sweet Potato Pudding](resources/sweet-potato-pudding.jpg)
+
 *Jamaica's dense fudge-like pudding: grated yellow sweet potato bound with coconut milk, brown sugar, raisins, spice and a glug of dark rum. Baked slow.*
 
 **Serves:** 10-12 (one 23 cm square dish)

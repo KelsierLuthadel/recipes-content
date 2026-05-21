@@ -1,6 +1,7 @@
 # Boudin Balls
 
 ![Boudin Balls](resources/boudin-balls.jpg)
+
 *Cajun bar-snack: boudin sausage filling pulled from the casing, rolled into balls, breaded and deep-fried into crisp-shelled spheres of pork and rice.*
 
 **Serves:** Makes 16 balls

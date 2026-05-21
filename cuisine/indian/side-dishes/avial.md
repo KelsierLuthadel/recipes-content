@@ -1,6 +1,7 @@
 # Avial
 
 ![Avial](resources/avial.jpg)
+
 *Kerala mixed vegetable curry with coconut, green chilli and yogurt. A sadya-staple where each vegetable keeps its identity in a fragrant white-green gravy.*
 
 **Serves:** 4-6

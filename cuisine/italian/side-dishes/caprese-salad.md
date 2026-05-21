@@ -1,6 +1,7 @@
 # Caprese Salad
 
 ![Caprese Salad](resources/caprese-salad.jpg)
+
 *Slices of mozzarella, tomato and basil with olive oil, salt and a grind of pepper. Three ingredients, no negotiation, named for the island of Capri. The colours of the Italian flag (rosso, bianco, verde) on a plate. Lives or dies on tomato quality.*
 
 **Serves:** 4

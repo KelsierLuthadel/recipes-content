@@ -1,6 +1,7 @@
 # Spotted Dick
 
 ![Spotted Dick](resources/spotted-dick.jpg)
+
 *An old British steamed pudding: a suet sponge studded with currants and lemon zest, steamed slow in a basin and flooded with custard.*
 
 **Serves:** 6

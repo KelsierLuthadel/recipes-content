@@ -1,6 +1,7 @@
 # Rajma
 
 ![Rajma](resources/rajma.jpg)
+
 *Punjabi red kidney bean curry, simmered in a deeply spiced tomato-onion gravy. Served the traditional way: rajma-chawal, with steamed basmati rice.*
 
 **Serves:** 4-6

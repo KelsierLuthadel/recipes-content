@@ -1,13 +1,10 @@
 # Sambal Salamat
 
-*A Malay sambal: red chillies, garlic and shallot pounded with palm sugar and fried in oil. A sticky-spicy condiment for fried fish and rice.*
-
-
-**Prep Time:** 10 minutes
-
 ![Sambal Salamat](resources/sambal-salamat.jpg)
 
-*This Indonesian tomato-based sambal offers a unique balance of fresh tomato acidity, chilli heat, and fermented fish sauce umami, all brightened with live coriander. "Salamat" means thanks, fitting for a sambal so vibrant and flavorful that it elevates simple rice dishes into memorable meals.*
+*A Malay sambal: red chillies, garlic and shallot pounded with palm sugar and fried in oil. A sticky-spicy condiment for fried fish and rice.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 150 milliliters (makes 12-15 tablespoons)
 
@@ -117,3 +114,5 @@ Application: Served in small bowl or spooned onto side of plate; diners add as d
 - Check for any mold or musty smell before reheating
 - Does not keep at room temperature due to fresh tomato and coriander content
 - Make fresh regularly rather than relying on long-term storage for best results
+
+*This Indonesian tomato-based sambal offers a unique balance of fresh tomato acidity, chilli heat, and fermented fish sauce umami, all brightened with live coriander. "Salamat" means thanks, fitting for a sambal so vibrant and flavorful that it elevates simple rice dishes into memorable meals.*

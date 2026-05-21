@@ -1,6 +1,7 @@
 # Three-Bean Salad
 
 ![Three-Bean Salad](resources/three-bean-salad.jpg)
+
 *Glossy kidney beans, creamy cannellini, and snappy green beans tumbled together in a bright sweet-sour vinaigrette laced with sharp red onion. The smell is unmistakably picnic-table, vinegar and herbs, and each spoonful is cold, tangy, and quietly addictive in the way only a properly marinated salad can be.*
 
 **Serves:** 8

@@ -1,6 +1,7 @@
 # Lancashire Hotpot
 
 ![Lancashire Hotpot](resources/lancashire-hotpot.jpg)
+
 *Northern English layered casserole: lamb and onions sealed under overlapping discs of potato that crisp golden in the oven while the stew braises beneath. Slow-cooked, frugal, and the textbook example of how three ingredients become greater than their sum.*
 
 **Serves:** 4

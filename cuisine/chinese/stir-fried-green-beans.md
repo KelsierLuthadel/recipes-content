@@ -1,6 +1,7 @@
 # Sichuan Dry-Fried Green Beans
 
 ![Sichuan Dry-Fried Green Beans](resources/stir-fried-green-beans.jpg)
+
 *A Sichuan dry-fried bean dish: long beans blistered black-spotted in hot oil, tossed with garlic, ginger, dried chillies and Sichuan peppercorns.*
 
 **Serves:** 3-4

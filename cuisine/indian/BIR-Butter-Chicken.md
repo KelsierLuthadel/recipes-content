@@ -1,13 +1,14 @@
 # Butter Chicken
 
+![Butter Chicken](resources/butter-chicken.png)
+
 *The British-Indian-Restaurant butter chicken: tandoori-marinated chicken in a creamy tomato-and-butter gravy sweetened with cashew and a.*
 
-
 **Serves:** 2
-**Prep Time:** 10 minutes
-**Cook Time:** 2 minutes
 
-![Butter Chicken](resources/butter-chicken.png)
+**Prep Time:** 10 minutes
+
+**Cook Time:** 2 minutes
 
 ## Overview
 A rich, creamy tomato-based curry with mild spice and buttery finish. A BIR-style adaptation of murgh makhani.

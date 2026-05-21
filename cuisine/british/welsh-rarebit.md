@@ -1,6 +1,7 @@
 # Welsh Rarebit
 
 ![Welsh Rarebit](resources/welsh-rarebit.jpg)
+
 *Properly built Welsh rarebit: a thick, savoury cheese sauce loosened with ale, sharpened with mustard and Worcestershire, then grilled until it puffs and blisters on toast. Not just cheese on toast.*
 
 **Serves:** 2

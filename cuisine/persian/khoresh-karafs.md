@@ -1,6 +1,7 @@
 # Khoresh Karafs
 
 ![Khoresh Karafs](resources/khoresh-karafs.jpg)
+
 *Persia's celery stew: lamb simmered with celery, parsley and mint until the pot is herb-bright, then finished with saffron and lemon.*
 
 **Serves:** 4

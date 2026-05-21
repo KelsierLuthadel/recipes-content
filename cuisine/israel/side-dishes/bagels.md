@@ -1,6 +1,7 @@
 # Bagels
 
 ![Bagels](resources/bagels.jpg)
+
 *The Yom Kippur break-fast staple, the Sunday morning ritual, the deli's reason for being. Boiled before they're baked: that's what gives bagels their dense chewy crumb and shiny crust. Plain, sesame or everything-seed; eaten split and toasted with cream cheese and lox.*
 
 **Serves:** 8 (makes 8 bagels)

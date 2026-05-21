@@ -4,11 +4,10 @@
 
 *A tarte tatin with a shortbread base: caramelised apples turned out over a buttery biscuit crust instead of puff pastry.*
 
-
-
-
 **Serves:** 8 - 10
+
 **Prep Time:** 45 minutes
+
 **Cook Time:** 35 minutes
 
 ## Overview

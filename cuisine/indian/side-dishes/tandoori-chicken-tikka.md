@@ -5,6 +5,7 @@
 *Red food colouring powder is often added to chicken tikka to give it the appearance of being spicy hot.*
 
 **Serves:** 4
+
 **Prep Time:** 5 minutes
 
 ## Overview

@@ -1,6 +1,7 @@
 # Lumpia Shanghai
 
 ![Lumpia Shanghai](resources/lumpia-shanghai.jpg)
+
 *Filipino crisp pork-and-vegetable spring rolls: thin, finger-sized, deep-fried golden. Served with a sweet-sour dipping sauce or banana ketchup. Birthday-party staple, snack-time staple, every-occasion staple.*
 
 **Makes:** 30 lumpia

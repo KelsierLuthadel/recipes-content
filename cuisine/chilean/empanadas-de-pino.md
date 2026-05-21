@@ -1,6 +1,7 @@
 # Empanadas de Pino
 
 ![Empanadas de Pino](resources/empanadas-de-pino.jpg)
+
 *Chile's national pastry: large half-moon empanadas filled with pino - finely-chopped beef, onion cooked deep, hard-boiled egg, a black olive and a couple of raisins - folded into a rich butter-and-egg-yolk dough and baked until deep gold. Eaten with red wine on Independence Day and most Sunday lunches.*
 
 **Serves:** 6 (makes 12 large empanadas)

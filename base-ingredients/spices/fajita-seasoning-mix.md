@@ -1,14 +1,12 @@
 # Fajita Seasoning Mix
 
-*A dry fajita seasoning: chilli powder, cumin, paprika, garlic, oregano and salt. Rubbed into skirt steak or chicken before the hot griddle.*
-
-
-**Prep Time:** 5 minutes
-**Cook Time:** 7 minutes
-
 ![Fajita Seasoning Mix](resources/fajita-seasoning.jpg)
 
-*This is a dry spice blend designed to season fajita preparations, grilled meat and vegetables with a specific Tex-Mex character. Unlike wet marinades, this powder is added to hot oil and protein, creating a quick-cooking flavorful coating. This mix prioritizes speed and simplicity without sacrificing authentic taste.*
+*A dry fajita seasoning: chilli powder, cumin, paprika, garlic, oregano and salt. Rubbed into skirt steak or chicken before the hot griddle.*
+
+**Prep Time:** 5 minutes
+
+**Cook Time:** 7 minutes
 
 **Yield:** Approximately 25-30 grams (makes 6-8 fajita portions)
 
@@ -86,3 +84,5 @@ Accompaniments: Serve with warm tortillas, sour cream, guacamole, salsa, sautée
 - Label with preparation date
 - Very stable blend; can make large batches and store for extended periods
 - Cornstarch version may clump slightly if exposed to humidity; store with desiccant packet if needed
+
+*This is a dry spice blend designed to season fajita preparations, grilled meat and vegetables with a specific Tex-Mex character. Unlike wet marinades, this powder is added to hot oil and protein, creating a quick-cooking flavorful coating. This mix prioritizes speed and simplicity without sacrificing authentic taste.*

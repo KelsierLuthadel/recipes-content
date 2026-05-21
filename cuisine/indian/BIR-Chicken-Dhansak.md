@@ -4,8 +4,6 @@
 
 *The BIR chicken dhansak: pre-cooked chicken in a sweet-sour-spicy gravy of lentils, pineapple and dhansak spices.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

@@ -1,6 +1,7 @@
 # Bourekas
 
 ![Bourekas](resources/bourekas.jpg)
+
 *Israel's bakery-cabinet pastry: puff-pastry triangles filled with feta-and-ricotta, spinach, potato or mushroom. Sprinkled with sesame and nigella.*
 
 **Serves:** Makes 12 bourekas

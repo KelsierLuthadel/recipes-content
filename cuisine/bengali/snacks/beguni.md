@@ -1,6 +1,7 @@
 # Beguni
 
 ![Beguni](resources/beguni.jpg)
+
 *Bengal's monsoon snack: thin slices of brinjal dipped in a saffron-coloured chickpea-flour batter and fried till the batter blisters crisp.*
 
 **Serves:** 4

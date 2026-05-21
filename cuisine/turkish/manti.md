@@ -1,6 +1,7 @@
 # Manti
 
 ![Manti](resources/manti.jpg)
+
 *Turkish handmade dumplings - tiny squares of fresh pasta filled with seasoned minced lamb, boiled briefly, then drowned in garlicky yogurt and a hot melted-butter-and-paprika sauce. The dumplings are small (35 to a tablespoon, traditionally) and the work is the meal; weekends or family gatherings only.*
 
 **Serves:** 4

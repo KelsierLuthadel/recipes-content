@@ -1,6 +1,7 @@
 # Crème Brûlée
 
 ![Creme Brulee](resources/creme-brulee.jpg)
+
 *The French dinner-party dessert: a chilled vanilla custard topped with a glassy amber crust of caramelised sugar, cracked with a spoon.*
 
 **Serves:** 6

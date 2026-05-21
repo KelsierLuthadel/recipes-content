@@ -4,10 +4,10 @@
 
 *You'll come across versions of this sweet custard tart or flan boulanger in baker's shops all over France.*
 
-*This tart is especially delicious when served with poached prunes and candied citrus peel.*
-
 **Serves:** 6
+
 **Prep Time:** 35 minutes
+
 **Cook Time:** 45 minutes
 
 ## Overview
@@ -76,3 +76,5 @@ Serve the tart slightly chilled or at room temperature with the warm poached pru
 
 ## Storage
 Store leftovers in the refrigerator for up to 3 days, covered. Freezing is not recommended because the custard can become watery when thawed.
+
+*This tart is especially delicious when served with poached prunes and candied citrus peel.*

@@ -1,6 +1,7 @@
 # Tempeh Goreng
 
 ![Tempeh Goreng](resources/tempeh-goreng.jpg)
+
 *Indonesian fried tempeh: thick batons marinated in garlic, coriander and tamarind, then deep-fried until shatteringly crisp on the outside and dense and nutty within. Served as a snack, a side, or a main with rice and sambal.*
 
 **Serves:** 4

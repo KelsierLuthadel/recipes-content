@@ -1,6 +1,7 @@
 # Lamb Gyros
 
 ![Lamb Gyros](resources/lamb-gyros.jpg)
+
 *Greek street-food wrap: thinly sliced lamb shawarma-style, served in a pita with tomato, onion, tzatziki and a few chips. Restaurant gyros come off a vertical spit; the home version uses ground lamb pressed into a loaf and sliced thin after cooking.*
 
 **Serves:** 6

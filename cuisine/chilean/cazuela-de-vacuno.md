@@ -1,6 +1,7 @@
 # Cazuela de Vacuno
 
 ![Cazuela de Vacuno](resources/cazuela-de-vacuno.jpg)
+
 *The Chilean Sunday-lunch one-pot: bone-in beef shin slow-simmered in a clear broth with a generous chunk of pumpkin, a section of corn-on-the-cob, a whole potato, green beans and rice (sometimes noodles), eaten in deep bowls with a sprinkle of coriander and a wedge of lime. Plain but deep - the broth is the soul.*
 
 **Serves:** 4

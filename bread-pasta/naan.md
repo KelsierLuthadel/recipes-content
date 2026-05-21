@@ -1,13 +1,10 @@
 # Naan Bread
 
-*India's teardrop flatbread: a yeasted dough pressed onto the hot side of a tandoor, pulled down into a leaf shape by gravity.*
-
-
-**Prep Time:** 10 minutes
-
 ![Naan](resources/naan.jpg)
 
-*The original version of the naan and the oven it is cooked in, the tandoor, were brought to the North-West Frontier by the ancient Persians, who called them respectively nane and tonir. So they are a traditional staple food for Baltis and Kashmiris. The transition to the Balti house was a natural progression. As with the rotis, naan can be quite large. This method uses the grill and it produces a huge, light, fluffy, slightly sweet, and chewy, mouth-watering bread.*
+*India's teardrop flatbread: a yeasted dough pressed onto the hot side of a tandoor, pulled down into a leaf shape by gravity.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** 2 large naan (serves 4)
 
@@ -114,3 +111,5 @@ Vessel: Serve wrapped in cloth to maintain heat
 - Freeze naan in plastic wrap for up to 1 month; thaw and reheat wrapped in foil in a 180°C oven for 8-10 minutes
 - Refresh stale naan by wrapping loosely in foil and reheating gently
 - Do not refrigerate; it stales quickly in the cold
+
+*The original version of the naan and the oven it is cooked in, the tandoor, were brought to the North-West Frontier by the ancient Persians, who called them respectively nane and tonir. So they are a traditional staple food for Baltis and Kashmiris. The transition to the Balti house was a natural progression. As with the rotis, naan can be quite large. This method uses the grill and it produces a huge, light, fluffy, slightly sweet, and chewy, mouth-watering bread.*

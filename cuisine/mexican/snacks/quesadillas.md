@@ -1,6 +1,7 @@
 # Quesadillas
 
 ![Quesadillas](resources/quesadillas.jpg)
+
 *Mexico's simplest snack: a tortilla folded around melted cheese (and any extras), griddled till crisp-spotted outside and gooey inside.*
 
 **Serves:** 4 (makes 4 large quesadillas, halved for sharing)

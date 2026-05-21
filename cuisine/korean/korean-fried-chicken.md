@@ -1,6 +1,7 @@
 # Korean Fried Chicken
 
 ![Korean Fried Chicken](resources/korean-fried-chicken.jpg)
+
 *Twice-fried chicken with a thin shatter-crisp coating and a sticky-spicy gochujang glaze. The Korean version is lighter and crisper than American fried chicken; the second fry is what does it. Sweet, garlicky, hot, addictive.*
 
 **Serves:** 4

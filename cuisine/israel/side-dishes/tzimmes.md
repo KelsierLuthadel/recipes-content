@@ -1,6 +1,7 @@
 # Tzimmes
 
 ![Tzimmes](resources/tzimmes.jpg)
+
 *The slow-cooked carrot-and-sweet-potato side that signals Rosh Hashanah as clearly as apples and honey. Sweet, glossy, scented with cinnamon and orange, studded with prunes. Made in a baking dish, cooked until the carrots melt against the spoon.*
 
 **Serves:** 6 as a side

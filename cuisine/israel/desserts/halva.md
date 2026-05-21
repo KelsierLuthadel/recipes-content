@@ -1,6 +1,7 @@
 # Halva
 
 ![Halva](resources/halva.jpg)
+
 *Eastern Mediterranean sesame halva: hot sugar syrup pulled into tahini until it marbles, then set in slabs and sliced with strong coffee.*
 
 **Serves:** Makes about 700 g (cut into 20 small pieces)

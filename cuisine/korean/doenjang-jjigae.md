@@ -1,6 +1,7 @@
 # Doenjang Jjigae
 
 ![Doenjang Jjigae](resources/doenjang-jjigae.jpg)
+
 *Korea's everyday stew: tofu, courgette and clams simmered in a deep, funky doenjang broth. Served bubbling at the table.*
 
 **Serves:** 4

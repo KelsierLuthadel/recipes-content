@@ -1,13 +1,10 @@
 # Aromatic Salt (Two Versions)
 
-*A flavoured finishing salt: flaky salt blended with toasted whole spices, citrus zest or dried herbs.*
-
-
-**Prep Time:** 10 minutes
-
 ![Aromatic Salt](resources/aromatic-salt.jpg)
 
-*A lot of Balti recipes call for aromatic salt, which is a blend of spices with sea salt. Ordinarily plain salt can be used in its place, but the subtle spicing adds delicacy and nuance to a recipe. Two versions are provided: one light and aromatic, one spicier with toasted nuts.*
+*A flavoured finishing salt: flaky salt blended with toasted whole spices, citrus zest or dried herbs.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Each recipe makes approximately 120-130 grams
 
@@ -115,3 +112,6 @@ Temperature: Use as finishing salt; not mean for cooking into dishes from the st
 - Salt acts as preservative but spices and nuts gradually oxidize
 - Label with preparation date and version name
 - Make fresh quarterly for optimal flavor, especially spicy version
+
+
+*A lot of Balti recipes call for aromatic salt, which is a blend of spices with sea salt. Ordinarily plain salt can be used in its place, but the subtle spicing adds delicacy and nuance to a recipe. Two versions are provided: one light and aromatic, one spicier with toasted nuts.*

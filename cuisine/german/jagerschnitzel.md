@@ -1,6 +1,7 @@
 # Jägerschnitzel
 
 ![Jägerschnitzel](resources/jagerschnitzel.jpg)
+
 *"Hunter's schnitzel": pork (sometimes veal) schnitzel served under a creamy mushroom-and-onion sauce. Less Austrian, more German; the dish you'd eat at a forest restaurant after a winter walk. The mushroom sauce makes it; everything else is foundation.*
 
 **Serves:** 4

@@ -1,13 +1,10 @@
 # Malayan Curry Powder
 
-*A Malaysian-Chinese curry powder: turmeric, coriander, cumin and fennel scented with cinnamon and star anise.*
-
-
-**Prep Time:** 15 minutes
-
 ![Malayan Curry Powder](resources/malayan-curry-powder.jpg)
 
-*This spice blend is excellent for poultry, especially chicken, and works beautifully with robust fish curries. The balance of warm spices with Sichuan pepper creates a distinctive regional character that separates Malaysian cooking from Indian curry traditions.*
+*A Malaysian-Chinese curry powder: turmeric, coriander, cumin and fennel scented with cinnamon and star anise.*
+
+**Prep Time:** 15 minutes
 
 **Yield:** Approximately 60 grams (makes 12-15 curry portions)
 
@@ -81,3 +78,5 @@ Temperature: Works best fried in hot oil for flavor bloom
 - Store away from light and heat
 - Does not require refrigeration
 - Flavor fades after 3 months
+
+*This spice blend is excellent for poultry, especially chicken, and works beautifully with robust fish curries. The balance of warm spices with Sichuan pepper creates a distinctive regional character that separates Malaysian cooking from Indian curry traditions.*

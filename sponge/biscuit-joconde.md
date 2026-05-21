@@ -5,7 +5,9 @@
 *Biscuit joconde is a very fine, delicate sponge used as the base for all kinds of mousse and bavarois desserts, providing an elegant, thin, tender backdrop for creamy fillings.*
 
 **Prep Time:** 20 minutes
+
 **Cook Time:** 2-3 minutes
+
 **Yield:** 1 sheet cake (baked on parchment; portioned as desired)
 
 ## Overview

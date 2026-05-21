@@ -1,6 +1,7 @@
 # Samboosa
 
 ![Samboosa](resources/samboosa.jpg)
+
 *Saudi Arabia's Ramadan triangle: thin wrappers folded around spiced minced beef with onion and baharat, deep-fried amber-crisp.*
 
 **Serves:** 6 (makes 20 samboosa)

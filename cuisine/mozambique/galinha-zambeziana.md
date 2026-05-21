@@ -1,6 +1,7 @@
 # Galinha à Zambeziana
 
 ![Galinha à Zambeziana](resources/galinha-zambeziana.jpg)
+
 *Zambezia province's coastal chicken: spatchcocked bird marinated in coconut milk, lime and piri-piri, grilled and bathed in a coconut-cashew-paprika sauce.*
 
 **Serves:** 4

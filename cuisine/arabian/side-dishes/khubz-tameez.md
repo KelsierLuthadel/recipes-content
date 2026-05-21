@@ -1,6 +1,7 @@
 # Khubz Tameez
 
 ![Khubz Tameez](resources/khubz-tameez.jpg)
+
 *A Saudi tandoor-style flatbread: baked at high heat against the side of a clay oven till blistered and golden. Thicker than roti, more pliable than naan.*
 
 **Serves:** 4 (makes 6 breads)

@@ -1,14 +1,12 @@
 # Kashmiri Red Chilli and Garlic Chutney
 
-*Kashmir's red chilli and garlic chutney: dried Kashmiri chillies and garlic pounded with vinegar and salt into a deep red.*
-
-
-**Prep Time:** 10 minutes
-**Cook Time:** 1 minutes
-
 ![Kashmiri Red Chilli Chutney](resources/chilli-garlic-chutney.jpg)
 
-*This is a powerful chutney, full of flavor and heat. Dried Kashmiri chillies provide deep, fruity heat without excessive burn. Garlic adds pungency; toasting both ingredients before blending develops complexity.*
+*Kashmir's red chilli and garlic chutney: dried Kashmiri chillies and garlic pounded with vinegar and salt into a deep red.*
+
+**Prep Time:** 10 minutes
+
+**Cook Time:** 1 minute
 
 **Yield:** Approximately 300 ml (serves 4-6)
 
@@ -88,3 +86,5 @@ Garnish: Fresh coriander leaves (optional)
 - The fresh garlic and chillies are perishable; use within 1 week maximum
 - Do not freeze; the texture becomes separated and grainy
 - Best served fresh within 2-3 days of making
+
+*This is a powerful chutney, full of flavor and heat. Dried Kashmiri chillies provide deep, fruity heat without excessive burn. Garlic adds pungency; toasting both ingredients before blending develops complexity.*

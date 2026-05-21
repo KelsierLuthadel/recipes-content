@@ -1,13 +1,10 @@
 # Pre-Cooked Lamb
 
-*The BIR-style pre-cooked lamb: cubed lamb simmered slow with spices and onion till tender, then portioned.*
-
-
-**Prep Time:** 15 minutes
-
 ![Pre-Cooked Lamb](resources/pre-cooked-lamb.png)
 
-*Pre-cooked lamb recipe for use in BIR curries*
+*The BIR-style pre-cooked lamb: cubed lamb simmered slow with spices and onion till tender, then portioned.*
+
+**Prep Time:** 15 minutes
 
 ## Ingredients
 - 3 lbs Lamb, diced with fat and skin cut off
@@ -36,3 +33,6 @@
 1. Add the remaining ingredients.
 1. Turn the heat down to low and simmer for about 40 minutes, stirring occasionally.
 1. Place lid back on pot and cook for a further 20 minutes.
+
+
+*Pre-cooked lamb recipe for use in BIR curries*

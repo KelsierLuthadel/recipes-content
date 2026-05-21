@@ -5,6 +5,7 @@
 *A make-ahead rarebit paste: spread on lightly buttered toast and grilled till browned and bubbling. Also good over smoked haddock under a hot grill.*
 
 **Serves:** 16
+
 **Prep Time:** 10 minutes
 
 ## Overview

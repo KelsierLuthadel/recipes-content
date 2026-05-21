@@ -1,6 +1,7 @@
 # Cheese and Onion Pie
 
 ![Cheese and Onion Pie](resources/cheese-and-onion-pie.jpg)
+
 *A Northern British staple: shortcrust pastry filled with sweated onions, mature cheddar and a small amount of mash to bind. Eats hot or cold; just as good in a packed lunch as on a Sunday plate.*
 
 **Serves:** 6

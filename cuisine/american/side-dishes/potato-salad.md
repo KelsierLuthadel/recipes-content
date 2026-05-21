@@ -1,6 +1,7 @@
 # Classic American Potato Salad
 
 ![Classic American Potato Salad](resources/potato-salad.jpg)
+
 *Cool chunks of tender potato bound in a creamy, tangy mayo-mustard dressing, flecked with crunchy celery and sharp red onion. A whisper of dill pickle and a dusting of smoky paprika make this the quintessential cookout side, just as comforting straight from the fridge as it is on a paper plate beside ribs.*
 
 **Serves:** 6

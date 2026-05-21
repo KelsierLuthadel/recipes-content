@@ -1,6 +1,7 @@
 # Feteer Meshaltet
 
 ![Feteer Meshaltet](resources/feteer-meshaltet.jpg)
+
 *Egypt's pillowy pastry: paper-thin dough folded with ghee into a square and baked till amber, the layers steaming soft inside.*
 
 **Serves:** 4 (makes one 24 cm feteer; 8 wedges)

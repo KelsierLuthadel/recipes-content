@@ -1,6 +1,7 @@
 # Goghal
 
 ![Goghal](resources/goghal.jpg)
+
 *Azerbaijan's spiced flaky pastry: laminated dough layered with butter and a heady mix of black pepper, caraway and saffron. Eaten with sweet tea.*
 
 **Serves:** Makes 12 goghal

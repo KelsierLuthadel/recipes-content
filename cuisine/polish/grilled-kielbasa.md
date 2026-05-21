@@ -1,6 +1,7 @@
 # Grilled Kielbasa
 
 ![Grilled Kielbasa](resources/grilled-kielbasa.jpg)
+
 *Poland's garlic-and-marjoram smoked sausage grilled till the casing pops, served with sharp pickled cabbage and rye bread.*
 
 **Serves:** 6

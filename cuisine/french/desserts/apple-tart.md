@@ -5,7 +5,9 @@
 *This tart is truly delicious if it is eaten barely cool from the oven. Serve this with a quenelle of extra thick or clotted cream.*
 
 **Serves:** 8
+
 **Prep Time:** 30 minutes
+
 **Cook Time:** 55 minutes
 
 ## Overview

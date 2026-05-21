@@ -1,6 +1,7 @@
 # Suykash
 
 ![Suykash](resources/suykash.jpg)
+
 *The Uyghur hand-torn pasta soup: lamb and vegetables in a tomato-pepper broth, with fresh dough torn into nail-sized pieces directly into the pot.*
 
 **Serves:** 3-4

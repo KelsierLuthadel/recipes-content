@@ -4,8 +4,6 @@
 
 *This is a wonderful winter soup, the flavours combine and compliment each other to create a hearty warming and tasty soup. The soy, teriyaki and Worcestershire sauces are not essential or considered classic for this soup, but can be added to help release the wonderful flavours of the other ingredients.*
 
-*The vegetable stock can easily be replaced by a chicken stock,  both work equally well.*
-
 **Serves:** 4 - 6
 
 **Prep Time:** 15 minutes
@@ -72,3 +70,5 @@ Serve hot with naan or rice.
 
 ## Storage
 - Refrigerate up to 3 days; flavors improve. Freezes well up to 2 months.
+
+*The vegetable stock can easily be replaced by a chicken stock,  both work equally well.*

@@ -1,6 +1,7 @@
 # Batata Harra
 
 ![Batata Harra](resources/batata-harra.jpg)
+
 *Spicy Levantine potatoes: chunky potato cubes pan-fried until deep gold, tossed off-heat with garlic, fresh coriander, chilli flakes and lemon. Eaten as a mezze side or alongside grilled meats. Hot, garlicky, herbal - the classic Jordanian / Lebanese vegetable side that sits next to hummus on every mezze table.*
 
 **Serves:** 4 as a side

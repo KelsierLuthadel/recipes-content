@@ -1,6 +1,7 @@
 # Chicken Katsu
 
 ![Chicken Katsu](resources/chicken-katsu.jpg)
+
 *Panko-crumbed chicken cutlet shallow-fried golden, sliced and served with a sweet-savoury katsu sauce. The Japanese answer to schnitzel; ubiquitous in Tokyo lunch counters and now British high streets.*
 
 **Serves:** 4

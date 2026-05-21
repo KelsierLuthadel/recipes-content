@@ -1,6 +1,7 @@
 # Mahshi Koromb
 
 ![Mahshi Koromb](resources/mahshi-koromb.jpg)
+
 *Stuffed cabbage rolls Egyptian-style: blanched cabbage leaves wrapped around a herbed rice-and-meat filling (or all-rice for vegetarian), packed tight in a pot with garlic and tomato, slow-simmered until the rolls are soft and the cabbage has absorbed the flavours. A Friday-lunch staple, made by the dozen.*
 
 **Serves:** 6

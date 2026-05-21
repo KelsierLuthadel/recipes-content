@@ -1,6 +1,7 @@
 # Nigerian Coconut Candy
 
 ![Nigerian Coconut Candy](resources/coconut-candy.jpg)
+
 *Nigeria's childhood sweet: grated coconut cooked with brown sugar and nutmeg until the sugar caramelises around it into a chewy, golden slab.*
 
 **Serves:** Makes about 400 g

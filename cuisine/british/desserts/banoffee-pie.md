@@ -1,6 +1,7 @@
 # Banoffee Pie
 
 ![Banoffee Pie](resources/banoffee-pie.jpg)
+
 *The English pub classic from East Sussex, 1971. Digestive biscuit base, a thick layer of toffee made from condensed milk, sliced banana, a heap of barely-sweetened whipped cream, a dusting of cocoa. Cold from the fridge, sliced with a hot knife.*
 
 **Serves:** 8

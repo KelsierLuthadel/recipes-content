@@ -4,7 +4,6 @@
 
 *The Cantonese restaurant classic: chicken stir-fried hot with onion, pepper and roasted cashews in a soy-and-oyster-sauce glaze.*
 
-
 ## Overview
 This dish exemplifies the Chinese penchant for contrasting textures. Tender succulent pieces of chicken are paired with sweet, crunchy cashew nuts and a delicate sauce. While the original Chinese version would have used peanuts (as cashews were not traditionally featured in Chinese cookery), this adaptation showcases how the cuisine evolves while maintaining its core philosophy of textural harmony.
 

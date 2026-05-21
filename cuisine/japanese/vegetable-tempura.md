@@ -1,6 +1,7 @@
 # Vegetable Tempura
 
 ![Vegetable Tempura](resources/vegetable-tempura.jpg)
+
 *Japanese vegetable tempura: vegetables coated in a barely-mixed, ice-cold batter and deep-fried for under 2 minutes apiece. The batter shatters when bitten; the vegetables emerge just-cooked, distinct from each other. Tentsuyu dipping sauce on the side; grated daikon stirred through it at the table.*
 
 **Serves:** 4

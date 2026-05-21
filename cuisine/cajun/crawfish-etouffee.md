@@ -1,6 +1,7 @@
 # Crawfish Étouffée
 
 ![Crawfish Étouffée](resources/crawfish-etouffee.jpg)
+
 *Cajun shellfish smothered in a blond-roux gravy with the trinity (onion, celery, pepper), garlic, Cajun spice and a long simmer. "Étouffée" means "smothered"; the dish is exactly that - crawfish (or shrimp, prawns) buried in a thick, deeply-flavoured sauce, served over white rice. Quintessential Cajun home cooking.*
 
 **Serves:** 4

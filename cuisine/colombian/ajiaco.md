@@ -1,6 +1,7 @@
 # Ajiaco
 
 ![Ajiaco](resources/ajiaco.jpg)
+
 *Bogotá's Andean chicken soup: three different potato varieties cooked with chicken and the herb guascas. Served with avocado, capers, cream and corn.*
 
 **Serves:** 6

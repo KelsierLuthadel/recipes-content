@@ -1,6 +1,7 @@
 # Bananas Foster
 
 ![Bananas Foster](resources/bananas-foster.jpg)
+
 *New Orleans' theatrical dessert: bananas sautéed in butter, brown sugar and rum, flambéed at the table, then poured over vanilla ice cream. Invented at Brennan's restaurant in 1951, named for a friend of the owner. The rum flame is the show; the buttery cinnamon-rum syrup is the substance.*
 
 **Serves:** 4

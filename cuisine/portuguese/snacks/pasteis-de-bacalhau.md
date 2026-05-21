@@ -1,6 +1,7 @@
 # Pasteis de Bacalhau
 
 ![Pasteis de Bacalhau](resources/pasteis-de-bacalhau.jpg)
+
 *Portugal's defining tapa: small fritters of mashed potato, salt cod, onion and parsley, deep-fried amber-crisp. Eaten warm.*
 
 **Serves:** 6 (makes 24 fritters)

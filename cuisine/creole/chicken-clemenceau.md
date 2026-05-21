@@ -1,6 +1,7 @@
 # Chicken Clemenceau
 
 ![Chicken Clemenceau](resources/chicken-clemenceau.jpg)
+
 *A New Orleans Creole supper: sautéed chicken on the bone tossed at the last minute with brunoise potato, peas, mushrooms and a heavy hand of garlic butter.*
 
 **Serves:** 4

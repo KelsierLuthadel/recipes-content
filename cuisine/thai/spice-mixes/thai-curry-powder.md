@@ -4,8 +4,6 @@
 
 *A Thai-style curry powder: turmeric, coriander, cumin, fennel and chilli with a touch of cinnamon and star anise.*
 
-
-
 **Makes:** about 145g (1 ¼ cups)
 
 **Prep Time:** 8 minutes

@@ -1,6 +1,7 @@
 # Bibingka
 
 ![Bibingka](resources/bibingka.jpg)
+
 *The Philippines' Christmas cake: a springy rice-flour cake baked in banana leaf, topped with salted egg, cheese and grated coconut.*
 
 **Serves:** Makes 1 large bibingka (serves 6) or 6 individual portions

@@ -1,6 +1,7 @@
 # Saltfish Fritters / Stamp and Go
 
 ![Saltfish Fritters](resources/saltfish-fritters.jpg)
+
 *Jamaica's 'stamp and go': crisp, golden fritters of salt cod, flour, spring onion, thyme and Scotch bonnet, dropped by the spoonful into hot oil.*
 
 **Serves:** Makes about 16 fritters (4-6 servings)

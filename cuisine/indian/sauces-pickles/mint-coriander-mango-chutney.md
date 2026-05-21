@@ -5,6 +5,7 @@
 *This simple chutney works really well with lamb seekh kebabs; the flavor combinations are fresh, interesting, and balanced. Green chillies, pungent raw garlic, and cooling mint blend together with smooth mango chutney into an herbaceous condiment with hidden depth.*
 
 **Serves:** 4-6
+
 **Prep Time:** 10 minutes
 
 ## Overview

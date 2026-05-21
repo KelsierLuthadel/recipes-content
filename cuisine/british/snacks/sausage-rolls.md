@@ -1,6 +1,7 @@
 # Sausage Rolls
 
 ![Sausage Rolls](resources/sausage-rolls.jpg)
+
 *The British party staple: seasoned sausage meat wrapped in puff pastry, brushed with egg wash, baked until the pastry is shatteringly crisp and the filling is hot. Best served warm. Make a batch the day before and reheat; perfect for a buffet or a lunchbox.*
 
 **Makes:** 24 small rolls

@@ -1,6 +1,7 @@
 # Grilled Corn on the Cob
 
 ![Grilled Corn on the Cob](resources/grilled-corn.jpg)
+
 *Sweet kernels blistered black in patches by an open flame, glossy with melted garlic butter and a green flurry of chives. The smell is pure American summer, charred sugar and smoke drifting across the yard, and the first bite snaps and bursts with juice tempered by salty butter and a sharp squeeze of lime.*
 
 **Serves:** 6

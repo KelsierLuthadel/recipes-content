@@ -1,6 +1,7 @@
 # Siopao
 
 ![Siopao](resources/siopao.jpg)
+
 *The Philippines' street-stand bun: a pillowy steamed pocket of sweet pork and hoisin, sold from every cart from Manila to Cebu.*
 
 **Serves:** Makes 12 buns

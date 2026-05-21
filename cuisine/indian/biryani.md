@@ -5,7 +5,9 @@
 *India's royal one-pot: yogurt-marinated meat layered with basmati rice infused with whole spices and saffron, slow-cooked sealed for the dum effect.*
 
 **Prep Time:** 4-6 hours
+
 **Cook Time:** 45 minutes
+
 **Yield:** Approximately 1 ½ liters (4-6 servings)
 
 ## Overview

@@ -1,6 +1,7 @@
 # Gyudon
 
 ![Gyudon](resources/gyudon.jpg)
+
 *Beef and onion simmered in a sweet-savoury dashi-soy broth, served over rice. The Japanese fast-food classic; ten minutes start to finish if your rice is already cooked. The version that fuels Tokyo's lunch rush.*
 
 **Serves:** 2

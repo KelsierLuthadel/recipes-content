@@ -1,6 +1,7 @@
 # Sheker Manta
 
 ![Sheker Manta](resources/sheker-manta.jpg)
+
 *Uyghur sugar dumplings: yeasted dough wrapping chopped walnuts, raisins, sugar and lamb fat, pinched into triangles and steamed in stacking trays.*
 
 **Serves:** Makes 12 dumplings

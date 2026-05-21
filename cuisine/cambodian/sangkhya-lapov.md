@@ -1,6 +1,7 @@
 # Sangkhya Lapov
 
 ![Sangkhya Lapov](resources/sangkhya-lapov.jpg)
+
 *Cambodian pumpkin custard steamed inside a whole pumpkin: coconut milk, palm sugar and eggs poured into a hollowed kabocha and steamed until the custard sets and the pumpkin flesh softens. Cut into wedges; the layered pumpkin and custard slice together. A celebration dessert across Khmer New Year.*
 
 **Serves:** 6-8

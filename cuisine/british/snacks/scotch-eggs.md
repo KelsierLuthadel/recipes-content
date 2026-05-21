@@ -1,6 +1,7 @@
 # Scotch Eggs
 
 ![Scotch Eggs](resources/scotch-eggs.jpg)
+
 *Soft-yolk hard-boiled egg encased in seasoned sausagemeat, breaded and deep-fried until golden. The British pub classic; a proper one has a runny or just-set yolk in the middle, not hard-boiled to grey.*
 
 **Makes:** 6 Scotch eggs

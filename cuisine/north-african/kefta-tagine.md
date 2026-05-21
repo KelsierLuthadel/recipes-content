@@ -1,6 +1,7 @@
 # Kefta Tagine
 
 ![Kefta Tagine](resources/kefta-tagine.jpg)
+
 *Morocco's weeknight tagine: small spiced meatballs simmered in a cumin-and-tomato sauce, finished with eggs cracked into wells in the pan.*
 
 **Serves:** 4

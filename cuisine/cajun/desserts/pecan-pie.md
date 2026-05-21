@@ -1,6 +1,7 @@
 # Pecan Pie
 
 ![Pecan Pie](resources/pecan-pie.jpg)
+
 *Southern Cajun-influenced pecan pie: a pre-baked shortcrust shell filled with toasted pecans suspended in a custardy filling of brown sugar, eggs, butter, vanilla and a splash of bourbon. The filling sets to a barely-sweet caramel; the pecans on top toast deeply. Best slightly warm with bourbon-spiked whipped cream.*
 
 **Serves:** 8

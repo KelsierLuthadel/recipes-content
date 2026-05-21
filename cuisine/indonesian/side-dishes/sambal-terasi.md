@@ -1,6 +1,7 @@
 # Sambal Terasi
 
 ![Sambal Terasi](resources/sambal-terasi.jpg)
+
 *Indonesia's defining chilli sauce: chillies, garlic, shallot and tomato pounded with a lump of fermented shrimp paste, fried glossy and dark.*
 
 **Serves:** Makes 250 ml (about 12 servings)

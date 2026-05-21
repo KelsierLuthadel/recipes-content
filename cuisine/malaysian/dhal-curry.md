@@ -1,6 +1,7 @@
 # Malaysian Dhal Curry
 
 ![Malaysian Dhal Curry](resources/dhal-curry.jpg)
+
 *Malaysia's mamak-style dhal: yellow split peas slow-cooked with curry leaves, mustard seeds, turmeric and a spluttering tarka of fried shallot, chilli and dried red chillies. Looser and more spice-fragrant than Indian dhal; eaten with roti canai for breakfast or rice for any meal.*
 
 **Serves:** 4

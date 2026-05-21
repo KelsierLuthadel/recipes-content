@@ -5,8 +5,10 @@
 *This popular snack comes from South-East Asia, and would make a tasty first course. The sauce is traditionally made with hot chillies, but substitute milder ones, if you prefer.*
 
 **Serves:** 6 - 8
+
 **Prep Time:** 15 minutes
-**Cook Time:** 1 minutes
+
+**Cook Time:** 1 minute
 
 ## Overview
 Delicate spring rolls filled with silky cellophane noodles, tender wood ears, savory pork, and sweet crab, then deep-fried until golden and crispy. Served with a vibrant, fiery chilli sauce, these Southeast Asian gems are perfect as an appetizer or main snack. The contrast between crispy exterior and tender filling is irresistible.

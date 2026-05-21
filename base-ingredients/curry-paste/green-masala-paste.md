@@ -1,13 +1,10 @@
 # Green Balti Masala Paste
 
-*A fresh green masala paste: ginger, garlic, green chilli, coriander and mint pounded into a vivid herb-and-spice base for lighter curries.*
-
-
-**Prep Time:** 15 minutes
-
 ![Green Masala Paste](resources/green-masala.jpg)
 
-*This vivid green curry paste draws its color from fresh coriander and mint rather than green chillies. It's beautiful, aromatic, and distinctly different from Thai green pastes, with an Indian spice foundation and British-Indian preservation technique.*
+*A fresh green masala paste: ginger, garlic, green chilli, coriander and mint pounded into a vivid herb-and-spice base for lighter curries.*
+
+**Prep Time:** 15 minutes
 
 **Yield:** Approximately 450-500 grams
 
@@ -114,3 +111,6 @@ Temperature: Requires cooking in hot oil before use
 - If any mold or off-odor appears, discard entire jar
 - Do not freeze; freezing damages the texture and herbs
 - The oil seal must be undisturbed; don't puncture through it multiple times
+
+
+*This vivid green curry paste draws its color from fresh coriander and mint rather than green chillies. It's beautiful, aromatic, and distinctly different from Thai green pastes, with an Indian spice foundation and British-Indian preservation technique.*

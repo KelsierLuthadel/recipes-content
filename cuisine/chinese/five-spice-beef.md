@@ -1,6 +1,7 @@
 # Five-Spice Beef (Wuxiang Niurou)
 
 ![Five-Spice Beef (Wuxiang Niurou)](resources/five-spice-beef.jpg)
+
 *Slow-braised beef shank sliced cold into thin glossy rounds, dark from soy and rock sugar, perfumed with star anise, cassia and Sichuan pepper. A classic Northern Chinese deli meat with deep Hui Muslim roots, traditionally eaten as a cold appetiser or layered into noodle soups.*
 
 **Serves:** 4-6

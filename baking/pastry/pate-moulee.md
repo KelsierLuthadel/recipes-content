@@ -5,6 +5,7 @@
 *This pastry is best made at least two hours in advance, ideally 24 hours before you use it.*
 
 **Serves:** 950 grams
+
 **Prep Time:** 10 minutes
 
 ## Overview

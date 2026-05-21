@@ -1,12 +1,10 @@
 # Red Masala Sauce
 
-*The deep-red masala foundation: tomato puree, fried onion and ground spices simmered together.*
-
-
-**Prep Time:** 10 minutes
-
 ![Red Masala Sauce](resources/red-masala-sauce.jpg)
 
+*The deep-red masala foundation: tomato puree, fried onion and ground spices simmered together.*
+
+**Prep Time:** 10 minutes
 
 ## Overview
 A simple spiced yoghurt marinade used for tandoori-style dishes. Combines yoghurt with tandoori paste, warming spices, and a touch of lemon juice to create a vibrant red coating for chicken, lamb, or vegetables before grilling or roasting.

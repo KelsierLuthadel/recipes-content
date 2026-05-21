@@ -5,7 +5,9 @@
 *Tagliatelle con gamberi brandy, this is seduction on a plate. Delicate prawns sear briefly in heated oil, then brandy ignites and evaporates, building complexity. Cream carries walnuts, balsamic, and cherry tomato into a sauce that clings to delicate ribbons of pasta. This is sophisticated cooking meant to impress.*
 
 **Serves:** 4
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 3 minutes
 
 ## Overview

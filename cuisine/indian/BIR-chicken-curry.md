@@ -4,8 +4,6 @@
 
 *The plain BIR chicken curry: pre-cooked chicken in the curry base with mixed powder, garlic-ginger, tomato and a finishing slick of oil.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

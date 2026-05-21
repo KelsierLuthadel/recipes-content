@@ -1,6 +1,7 @@
 # Choripán Chileno
 
 ![Choripán Chileno](resources/choripan-chileno.jpg)
+
 *Chile's street sandwich: grilled longaniza chorizo split lengthways, tucked into a roll and topped with pebre, a fresh tomato-coriander-garlic salsa.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Latkes
 
 ![Latkes](resources/latkes.jpg)
+
 *Crisp Ashkenazi potato pancakes, fried in oil until shatteringly golden on the outside and soft inside. Eaten at Hanukkah (the oil is the point - celebrating the miracle of the Temple's lasting lamp), but eaten constantly the rest of the year too. Sour cream and apple sauce on top; argue forever about which is correct.*
 
 **Makes:** about 16 latkes

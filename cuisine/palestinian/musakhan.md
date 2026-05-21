@@ -1,6 +1,7 @@
 # Musakhan
 
 ![Musakhan](resources/musakhan.jpg)
+
 *Palestine's national dish: chicken roasted on a bed of slow-cooked, sumac-stained sweet onions, served on flatbread (taboon) with toasted pine nuts. The chicken juices and the onion's sweet-tartness soak into the bread; eaten communally, torn from the same platter.*
 
 **Serves:** 4

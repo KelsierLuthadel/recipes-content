@@ -1,13 +1,10 @@
 # Nuoc Cham
 
-*Vietnam's table sauce: fish sauce, lime juice, sugar.*
-
-
-**Prep Time:** 5 minutes
-
 ![Nuoc Cham](resources/nuoc-cham.jpg)
 
-*In Vietnam, this fiery-bright sauce serves the exact purpose that salt and pepper do in Western cuisine: it appears on every table as the fundamental condiment for seasoning dishes to individual taste. The name means "chilli sauce", simple, direct, and absolutely essential. Fresh lime juice provides brightness, fish sauce contributes umami depth, while chillies deliver both heat and flavor.*
+*Vietnam's table sauce: fish sauce, lime juice, sugar.*
+
+**Prep Time:** 5 minutes
 
 **Yield:** Approximately 120-140 milliliters (makes 10-12 tablespoons)
 
@@ -109,3 +106,5 @@ Application: Spooned onto plates alongside rice; diners add to taste; used as di
 - Does not keep at room temperature due to fresh chilli and garlic content
 - In tropical climates, use within 2-3 days for optimal flavor and safety
 - Traditional Vietnamese practice: make fresh frequently rather than store long-term
+
+*In Vietnam, this fiery-bright sauce serves the exact purpose that salt and pepper do in Western cuisine: it appears on every table as the fundamental condiment for seasoning dishes to individual taste. The name means "chilli sauce", simple, direct, and absolutely essential. Fresh lime juice provides brightness, fish sauce contributes umami depth, while chillies deliver both heat and flavor.*

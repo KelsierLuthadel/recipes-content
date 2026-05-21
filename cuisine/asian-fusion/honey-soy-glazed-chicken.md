@@ -1,6 +1,7 @@
 # Honey Soy Glazed Chicken
 
 ![Honey Soy Glazed Chicken](resources/honey-soy-glazed-chicken.jpg)
+
 *Bone-in chicken thighs roasted under a sticky honey, soy and ginger lacquer until the skin turns deep mahogany and the meat slides off the bone. The kitchen fills with the smell of caramelising honey, garlic and toasted soy. A weeknight roasting tray that feels far more deliberate than the effort it takes.*
 
 **Serves:** 4

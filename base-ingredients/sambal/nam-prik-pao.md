@@ -1,14 +1,12 @@
 # Nam Prik Pao
 
-*Thailand's roasted chilli jam: dried chillies, shallot, garlic and dried shrimp pounded with palm sugar and tamarind into a smoky.*
-
-
-**Prep Time:** 10 minutes
-**Cook Time:** 12 minutes
-
 ![Nam Prik Pao](resources/nam-prik-pao.jpg)
 
-*This universal Thai sauce appears on nearly every Thai table as a condiment, dip, and flavor agent. The name "nam prik" means chilli sauce in Thai, while "pao" refers to roasting, indicating the charred, complex flavors from toasted shrimp paste and the pounded-to-paste technique. This is Thailand's answer to sambal: powerful, umami-forward, and absolutely essential.*
+*Thailand's roasted chilli jam: dried chillies, shallot, garlic and dried shrimp pounded with palm sugar and tamarind into a smoky.*
+
+**Prep Time:** 10 minutes
+
+**Cook Time:** 12 minutes
 
 **Yield:** Approximately 300-350 grams (makes 24-28 tablespoons)
 
@@ -133,3 +131,6 @@ Application: Spooned onto plates, used as dipping sauce, stirred into soups, add
 - Does not keep at room temperature due to fresh vegetable and seafood content
 - In tropical climates, use within 5-6 days for safety
 
+
+
+*This universal Thai sauce appears on nearly every Thai table as a condiment, dip, and flavor agent. The name "nam prik" means chilli sauce in Thai, while "pao" refers to roasting, indicating the charred, complex flavors from toasted shrimp paste and the pounded-to-paste technique. This is Thailand's answer to sambal: powerful, umami-forward, and absolutely essential.*

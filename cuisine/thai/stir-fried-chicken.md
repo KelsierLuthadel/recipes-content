@@ -4,7 +4,6 @@
 
 *Thailand's stir-fried chicken with chilli and basil: chicken tossed hot with garlic, fresh chilli and a handful of holy basil.*
 
-
 ## Overview
 Pad krapow kai, this quick and easy chicken dish is an excellent introduction to Thai cuisine. Fiery chillies partner the holy basil, which has a pungent flavour that is spicy and sharp. Tender chicken pieces are stir-fried until just cooked through, then tossed with garlic, fresh chillies, and aromatic holy basil, creating a vibrant dish bursting with authentic Thai flavours.
 

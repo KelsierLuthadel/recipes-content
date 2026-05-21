@@ -1,6 +1,7 @@
 # Dolmadakia (Greek Stuffed Vine Leaves)
 
 ![Dolmadakia](resources/dolmadakia.jpg)
+
 *Greece's vegetarian meze: small vine-leaf rolls stuffed with rice, dill, mint, parsley, pine nuts and a hint of currant. Eaten cold with lemon and olive oil.*
 
 **Serves:** Makes about 40 dolmadakia (serves 6-8 as meze)

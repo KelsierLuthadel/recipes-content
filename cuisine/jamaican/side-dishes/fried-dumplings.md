@@ -1,6 +1,7 @@
 # Fried Dumplings / Johnny Cakes
 
 ![Fried Dumplings](resources/fried-dumplings.jpg)
+
 *Jamaica's Johnny Cakes: golden, crisp-edged fried bread rounds with a soft chewy interior. The classic breakfast bread for ackee and saltfish.*
 
 **Serves:** Makes 8 dumplings (4 servings)

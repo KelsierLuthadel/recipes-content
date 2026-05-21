@@ -1,6 +1,7 @@
 # Haleem
 
 ![Haleem](resources/haleem.jpg)
+
 *Pakistan's iftar pot: cracked wheat, lentils and mutton simmered for hours until they collapse into a rich, savoury porridge.*
 
 **Serves:** 6

@@ -1,6 +1,7 @@
 # Tyropita
 
 ![Tyropita](resources/tyropita.jpg)
+
 *Greece's bakery pastry: buttery filo triangles wrapped around a creamy filling of feta, ricotta and egg. The eternal Greek travel food.*
 
 **Serves:** Makes 16 triangles

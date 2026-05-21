@@ -1,6 +1,7 @@
 # Jiaozi
 
 ![Jiaozi](resources/jiaozi.jpg)
+
 *Hand-folded Chinese dumplings, pork and chive in a hot-water dough, pleated into half-moons. The shape is meant to look like a gold ingot — eat enough on the eve of Lunar New Year and prosperity follows. Boiled is traditional; pan-fried with a crisp underside (pot-stickers) is also fair game.*
 
 **Serves:** 4 (makes about 30 dumplings)

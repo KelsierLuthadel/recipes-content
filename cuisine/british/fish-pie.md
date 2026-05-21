@@ -1,6 +1,7 @@
 # Fish Pie
 
 ![Fish Pie](resources/fish-pie.jpg)
+
 *Smoked haddock, salmon and king prawns bound in a parsley-and-cheddar béchamel, sealed under a buttery mash crust. The British answer to gratin: forgiving, freezer-friendly, and the antidote to a cold Sunday.*
 
 **Serves:** 4-6

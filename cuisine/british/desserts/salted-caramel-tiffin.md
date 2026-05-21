@@ -1,6 +1,7 @@
 # Salted Caramel Tiffin
 
 ![Salted Caramel Tiffin](resources/salted-caramel-tiffin.jpg)
+
 *The tiffin gone three-layer. Cocoa-bound biscuit base, a thick chewy salted-caramel middle, a snappy dark-chocolate top finished with flakes of sea salt. Cold from the tin, sliced thin — it's rich.*
 
 **Makes:** 16 squares

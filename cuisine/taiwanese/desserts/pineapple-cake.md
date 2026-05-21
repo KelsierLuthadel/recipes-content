@@ -1,6 +1,7 @@
 # Pineapple Cake
 
 ![Pineapple Cake](resources/pineapple-cake.jpg)
+
 *Taiwan's signature gift cake: small shortbread rectangles filled with thick chewy pineapple jam, baked golden in metal moulds and individually wrapped.*
 
 **Makes:** 16 cakes

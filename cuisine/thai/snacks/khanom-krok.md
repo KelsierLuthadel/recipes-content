@@ -1,6 +1,7 @@
 # Khanom Krok
 
 ![Khanom Krok](resources/khanom-krok.jpg)
+
 *Thailand's coconut-cream dimples: rice-flour batter and pure coconut cream griddled into crisp-bottomed, custard-topped half-spheres.*
 
 **Serves:** 4 (makes ~24 half-spheres / 12 paired snacks)

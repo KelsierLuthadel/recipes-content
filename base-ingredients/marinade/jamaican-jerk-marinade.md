@@ -1,14 +1,12 @@
 # Jamaican Jerk Marinade
 
-*Jamaica's wet jerk marinade: Scotch bonnet, allspice, thyme, ginger, garlic, spring onion, soy and lime pureed into a fierce paste.*
-
-
-**Prep Time:** 15 minutes
-**Cook Time:** 1 minutes
-
 ![Jamaican Jerk](resources/jamaican-jerk.jpg)
 
-*The essence of Jamaican outdoor cooking, this fragrant paste of charred onions, fiery chillies, and warm spices coats meat for slow grilling over coals. The marinade develops flavor through hours of "jerk", both the spice blend name and the cooking technique of slow-grilling with rhythmic turning over smoky flames. Eight hours of resting allows the spice oils to penetrate meat.*
+*Jamaica's wet jerk marinade: Scotch bonnet, allspice, thyme, ginger, garlic, spring onion, soy and lime pureed into a fierce paste.*
+
+**Prep Time:** 15 minutes
+
+**Cook Time:** 1 minute
 
 **Yield:** Approximately 200-250 grams (sufficient for 4-6 large meat pieces)
 
@@ -140,3 +138,6 @@ Internal temperature for doneness: Chicken 74°C (165°F), Pork 71°C (160°F), 
 - Can be frozen in glass jar for 4-6 weeks; thaw in refrigerator before applying to meat
 - Does not keep at room temperature due to raw meat contact; always refrigerate
 - Discard any marinade that has been in contact with raw meat if meat is not cooked within marinating window
+
+
+*The essence of Jamaican outdoor cooking, this fragrant paste of charred onions, fiery chillies, and warm spices coats meat for slow grilling over coals. The marinade develops flavor through hours of "jerk", both the spice blend name and the cooking technique of slow-grilling with rhythmic turning over smoky flames. Eight hours of resting allows the spice oils to penetrate meat.*

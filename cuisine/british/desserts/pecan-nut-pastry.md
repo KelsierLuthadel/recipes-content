@@ -1,6 +1,7 @@
 # Pecan Nut Pastry Plait
 
 ![Pecan Nut Pastry Plait](resources/pecan-nut-pastry.jpg)
+
 *The bakery-window pastry plait, filled with a buttery pecan-and-brown-sugar paste, glazed with apricot jam straight from the oven and finished with a thin water icing drizzle. Cut into slices, eaten with mid-morning coffee.*
 
 **Serves:** 8 slices

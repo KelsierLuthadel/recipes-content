@@ -1,6 +1,7 @@
 # Onigiri
 
 ![Onigiri](resources/onigiri.jpg)
+
 *Japan's hand-held rice: salted short-grain rice pressed into triangles around a filling of pickled plum or salmon, wrapped in nori.*
 
 **Serves:** 4 (8 onigiri)

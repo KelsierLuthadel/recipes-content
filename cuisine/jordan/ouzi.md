@@ -1,6 +1,7 @@
 # Ouzi
 
 ![Ouzi](resources/ouzi.jpg)
+
 *Jordan's celebration parcel: spiced lamb, rice, peas, almonds and pine nuts wrapped in markook bread and baked into a golden dome, sliced at the table.*
 
 **Serves:** 6

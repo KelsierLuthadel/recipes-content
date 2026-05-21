@@ -4,10 +4,10 @@
 
 *The passion fruit in these tartlets enhances the flavour of the apple in a most unexpected way.*
 
-*To enjoy these tartlets at their best, serve them warm, about 10 minutes after they come out of the oven.*
-
 **Serves:** 6
+
 **Prep Time:** 25 minutes
+
 **Cook Time:** 20 minutes
 
 ## Overview
@@ -57,3 +57,5 @@ Serve the tartlets warm, about 10 minutes after they come out of the oven, so th
 
 ## Storage
 Store any leftover tartlets in an airtight container in the refrigerator for up to 2 days. Reheat gently in a warm oven before serving; avoid freezing as the pastry will lose its crispness.
+
+*To enjoy these tartlets at their best, serve them warm, about 10 minutes after they come out of the oven.*

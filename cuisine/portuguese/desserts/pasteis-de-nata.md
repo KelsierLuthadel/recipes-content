@@ -1,6 +1,7 @@
 # Pastéis de Nata
 
 ![Pastéis de Nata](resources/pasteis-de-nata.jpg)
+
 *Lisbon's egg custard tart: shatter-flaky puff pastry filled with a silky cream-and-yolk custard, blasted in a hot oven till the surface chars.*
 
 **Makes:** 12 pastéis

@@ -1,6 +1,7 @@
 # Honey Cake
 
 ![Honey Cake](resources/honey-cake.jpg)
+
 *Lekach. The Rosh Hashanah cake. Dark with honey and treacle, spiced with cinnamon and clove, kept moist by coffee and a generous slug of oil. The hopeful gesture on the New Year table: a sweet cake for a sweet year.*
 
 **Serves:** 10-12 (one large loaf or one bundt)

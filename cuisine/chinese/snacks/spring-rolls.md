@@ -1,14 +1,12 @@
 # Spring Rolls
 
-*Cantonese spring rolls: thin wheat wrappers rolled around shredded vegetables and pork (or prawn), deep-fried till the shell shatters.*
-
-
-**Prep Time:** 15 minutes
-**Cook Time:** 1 minutes
-
 ![Spring rolls](resources/mini-spring-rolls.jpg)
 
-*Spring rolls are among the best known Chinese snacks. They are not difficult to make and are a perfect starter for any meal.*
+*Cantonese spring rolls: thin wheat wrappers rolled around shredded vegetables and pork (or prawn), deep-fried till the shell shatters.*
+
+**Prep Time:** 15 minutes
+
+**Cook Time:** 1 minute
 
 **Servings:** 12
 
@@ -69,3 +67,5 @@ Amount: 2-3 rolls per person as a starter or side
 - Store uncooked assembled spring rolls in the fridge for up to 4 hours before frying, covered with a damp cloth to prevent drying out.
 - Cooked spring rolls can be stored in an airtight container in the fridge for up to 2 days and re-crisped in a hot oven.
 - Uncooked spring rolls can be frozen on a tray and then bagged; fry from frozen, allowing extra cooking time.
+
+*Spring rolls are among the best known Chinese snacks. They are not difficult to make and are a perfect starter for any meal.*

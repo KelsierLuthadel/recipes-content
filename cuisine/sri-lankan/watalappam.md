@@ -1,6 +1,7 @@
 # Watalappam
 
 ![Watalappam](resources/watalappam.jpg)
+
 *Sri Lanka's steamed coconut-jaggery custard: heavily scented with cardamom, cloves and nutmeg, topped with toasted cashews. The Eid centrepiece.*
 
 **Serves:** 6

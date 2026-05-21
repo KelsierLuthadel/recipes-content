@@ -5,6 +5,7 @@
 *Pre-cooking chicken until it is just cooked through really helps intensify the flavour of curries, especially when including the cooking stock.*
 
 **Prep Time:** 10 minutes
+
 **Cook Time:** 2 hours
 
 ## Ingredients

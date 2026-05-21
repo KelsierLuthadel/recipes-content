@@ -1,13 +1,10 @@
 # Fajita Marinade
 
-*A Tex-Mex fajita marinade: lime, oil, garlic, cumin, chilli and oregano. Soaks into skirt steak or chicken before a screaming-hot pan.*
-
-
-**Prep Time:** 15 minutes
-
 ![Fajita Marinade](resources/fajita.jpg)
 
-*This bright, citrus-forward marinade captures the essence of Tex-Mex outdoor cooking: the simplicity of lime and garlic balanced with chilli heat and cumin earthiness. "Fajita" comes from the Spanish word "fajita", meaning "little belt", referring to the thin strips of meat that cook quickly in a hot skillet, absorbed in the flavors of this essential marinade.*
+*A Tex-Mex fajita marinade: lime, oil, garlic, cumin, chilli and oregano. Soaks into skirt steak or chicken before a screaming-hot pan.*
+
+**Prep Time:** 15 minutes
 
 **Yield:** Approximately 100 milliliters (sufficient to marinate 4-6 servings of protein)
 
@@ -132,3 +129,5 @@ Serving with: Warm flour or corn tortillas, sautéed bell peppers and onions, gu
 - Can be prepared ahead (without meat) 2-3 days in advance and refrigerated
 - Does not keep at room temperature due to raw meat contact; always refrigerate
 - Fresh lime and garlic components are best used within 2-3 days of preparation
+
+*This bright, citrus-forward marinade captures the essence of Tex-Mex outdoor cooking: the simplicity of lime and garlic balanced with chilli heat and cumin earthiness. "Fajita" comes from the Spanish word "fajita", meaning "little belt", referring to the thin strips of meat that cook quickly in a hot skillet, absorbed in the flavors of this essential marinade.*

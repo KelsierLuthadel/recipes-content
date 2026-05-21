@@ -1,6 +1,7 @@
 # Tortillitas de Camarones
 
 ![Tortillitas de Camarones](resources/tortillitas-de-camarones.jpg)
+
 *Cadiz's lace-thin tapa: a chickpea-and-flour batter laced with whole tiny shrimp, dropped into hot olive oil and fried shatter-crisp.*
 
 **Serves:** 4 (makes 12 tortillitas)

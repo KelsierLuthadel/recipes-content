@@ -1,6 +1,7 @@
 # Tirokafteri (Spicy Feta Dip)
 
 ![Tirokafteri](resources/tirokafteri.jpg)
+
 *Northern Greece's spicy feta dip: feta blended with roasted red pepper, fresh chilli and olive oil. The name means 'burning cheese'.*
 
 **Serves:** 4-6 (makes about 400 ml)

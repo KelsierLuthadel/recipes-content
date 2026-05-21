@@ -1,6 +1,7 @@
 # Chocolate Babka
 
 ![Babka](resources/babka.jpg)
+
 *The Polish-Jewish bakery braid: enriched dough rolled around dark chocolate and cinnamon, twisted into a tin and baked tall.*
 
 **Serves:** Makes 2 large loaves

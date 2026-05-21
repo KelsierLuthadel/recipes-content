@@ -4,8 +4,6 @@
 
 *Maa's lamb chops: lamb chops marinated in yogurt, ginger, garlic and garam masala, then pan-fried till the spice crust chars.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 5 minutes

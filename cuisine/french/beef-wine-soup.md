@@ -4,8 +4,6 @@
 
 *Eisacktaler Weinsuppe*
 
-*From Eisacktaler in the Italian Valle d'Isarco - the extreme eastern part of the Alps - comes this heart-warming and delightful soup. There as as many people speak German as they do Italian, thus the name 'wine soup', a good example of the influence neighbouring countries have on the Italian regions and their food.*
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes
@@ -60,3 +58,5 @@ Serve hot, sprinkled with extra freshly grated Parmesan.
 
 ## Storage
 - Best served immediately; soup base can be refrigerated for 2 days. Reheat gently and assemble fresh.
+
+*From Eisacktaler in the Italian Valle d'Isarco - the extreme eastern part of the Alps - comes this heart-warming and delightful soup. There as as many people speak German as they do Italian, thus the name 'wine soup', a good example of the influence neighbouring countries have on the Italian regions and their food.*

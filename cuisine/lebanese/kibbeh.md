@@ -1,6 +1,7 @@
 # Kibbeh
 
 ![Kibbeh](resources/kibbeh.jpg)
+
 *Lebanon's fried torpedo: a thin bulgur-and-mince shell wrapped around a filling of lamb, onion and toasted pine nuts. Deep-fried shatteringly crisp.*
 
 **Makes:** 16 kibbeh

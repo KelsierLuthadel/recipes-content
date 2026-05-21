@@ -5,6 +5,7 @@
 *Cucumber raita is a wonderfully refreshing dish to serve with anything spicy.*
 
 **Serves:** 4
+
 **Prep Time:** 10 minutes
 
 ## Overview

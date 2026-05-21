@@ -4,10 +4,10 @@
 
 *For this tart filling, the crème pâtissière should be strongly flavoured with vanilla or, better still, the grated zest of 2 oranges.*
 
-*Assemble the tart just before serving to enjoy it at its best.*
-
 **Serves:** 6
+
 **Prep Time:** 30 minutes
+
 **Cook Time:** 40 minutes
 
 ## Overview
@@ -58,3 +58,5 @@ Serve the tart immediately after assembly at room temperature. It is perfect wit
 
 ## Storage
 Store any leftover tart in the refrigerator for up to 1 day, covered lightly to avoid crushing the fruit. Because the pastry softens quickly, this tart is best eaten the same day.
+
+*Assemble the tart just before serving to enjoy it at its best.*

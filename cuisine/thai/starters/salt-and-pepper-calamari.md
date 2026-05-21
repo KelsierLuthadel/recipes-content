@@ -4,8 +4,6 @@
 
 *Salt and pepper squid: calamari rings dredged in cornflour with white pepper and salt, deep-fried light and crisp.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 5 minutes

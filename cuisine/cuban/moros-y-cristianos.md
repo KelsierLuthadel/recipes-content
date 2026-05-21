@@ -1,6 +1,7 @@
 # Moros Y Cristianos
 
 ![Moros y Cristianos](resources/moros-y-cristianos.jpg)
+
 *Cuba's everyday rice and beans, cooked together in one pot with sofrito so the rice turns dusky purple from the bean liquor. The name ("Moors and Christians") refers to the colour contrast - but cooked properly, the rice is anything but pale.*
 
 **Serves:** 4

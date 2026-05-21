@@ -1,6 +1,7 @@
 # Ta'amiya
 
 ![Ta'amiya](resources/taamiya.jpg)
+
 *Egypt's falafel: ground fava beans, parsley, coriander, dill, leek and garlic blitzed to a soft green paste, fried into small darkly crusted patties.*
 
 **Serves:** 6 (makes about 24)

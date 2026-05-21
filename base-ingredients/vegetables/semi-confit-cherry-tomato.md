@@ -1,14 +1,12 @@
 # Semi-Confit Cherry Tomatoes
 
-*Cherry tomatoes slow-roasted with olive oil, garlic and thyme until they collapse but hold shape.*
-
-
-**Prep Time:** 10 minutes
-**Cook Time:** 1 minutes
-
 ![Semi-Confit Cherry Tomatoes](resources/Tomates-confit.jpg)
 
-*Semi-confit cherry tomatoes are oven-poached in gentle warmth, emerging soft and sweet while retaining their fresh tomato character. They're versatile: served as tapas, on crostini, stirred into pasta, layered in salads, or used as a flan filling.*
+*Cherry tomatoes slow-roasted with olive oil, garlic and thyme until they collapse but hold shape.*
+
+**Prep Time:** 10 minutes
+
+**Cook Time:** 1 minute
 
 **Yield:** Approximately 700 grams (in oil)
 
@@ -86,3 +84,5 @@ Garnish: Fresh basil, fleur de sel, or microgreens
 - Do not store at room temperature; the oil can support bacterial growth
 - If mold appears on surface, discard immediately
 - The oil can be reserved and re-used for cooking or dressing salads after the tomatoes are consumed
+
+*Semi-confit cherry tomatoes are oven-poached in gentle warmth, emerging soft and sweet while retaining their fresh tomato character. They're versatile: served as tapas, on crostini, stirred into pasta, layered in salads, or used as a flan filling.*

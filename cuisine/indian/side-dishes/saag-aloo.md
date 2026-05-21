@@ -1,6 +1,7 @@
 # Saag Aloo
 
 ![Saag Aloo](resources/saag-aloo.jpg)
+
 *Spinach and potato, spiced with cumin, ginger and green chilli. A North Indian everyday dish; eaten with chapati or alongside a heavier meat curry.*
 
 **Serves:** 4

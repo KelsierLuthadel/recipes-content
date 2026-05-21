@@ -1,6 +1,7 @@
 # Teriyaki Salmon
 
 ![Teriyaki Salmon](resources/teriyaki-salmon.jpg)
+
 *Salmon fillets pan-seared then glazed in a sticky soy-mirin-sake-sugar reduction. Twenty minutes; high-impact; works as well over rice as it does over noodles.*
 
 **Serves:** 4

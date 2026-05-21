@@ -1,6 +1,7 @@
 # Chorrillana
 
 ![Chorrillana](resources/chorrillana.jpg)
+
 *The Valparaíso bar classic: a giant platter of fries topped with thinly-sliced grilled steak, sautéed onion, fried eggs on top, sometimes chorizo, served with a beer at the centre of the table for sharing with hands and forks reaching from every side. Born in the port bars of Valparaíso, now Chile-wide.*
 
 **Serves:** 4 (sharing)

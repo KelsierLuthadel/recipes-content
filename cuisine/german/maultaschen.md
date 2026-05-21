@@ -1,6 +1,7 @@
 # Maultaschen
 
 ![Maultaschen](resources/maultaschen.jpg)
+
 *Swabia's Lent dumplings: large oblong filled pasta with a vegetarian filling of spinach, breadcrumbs, eggs and cheese. Served in broth or pan-fried with onions.*
 
 **Makes:** 12-15 large maultaschen (serves 4)

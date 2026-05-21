@@ -5,6 +5,7 @@
 *Tagliata takes its name from tagliare, meaning 'to cut' in Italian. Perfectly seared steaks are sliced and served with peppery rocket and shavings of Parmesan, finished with a fragrant rosemary and lemon oil. This is simple, elegant, and demands quality ingredients and technique.*
 
 **Serves:** 4
+
 **Prep Time:** 10 minutes
 
 ## Overview

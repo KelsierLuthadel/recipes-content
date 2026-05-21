@@ -5,7 +5,9 @@
 *Malaysia's everyday chilli condiment: a raw pounded paste of fresh red chillies and toasted shrimp paste finished with a sharp squeeze of lime.*
 
 **Serves:** 6 (as a condiment)
+
 **Prep Time:** 10 minutes
+
 **Cook Time:** 3 minutes
 
 ## Overview

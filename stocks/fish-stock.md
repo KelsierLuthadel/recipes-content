@@ -5,7 +5,9 @@
 *Delicate and refined, fish stock (fumet de poisson) is the essential foundation for classical French fish sauces, bisques, and fish-based preparations requiring subtle aquatic flavor.*
 
 **Prep Time:** 15 minutes
+
 **Cook Time:** 30 minutes
+
 **Yield:** Approximately 2 litres
 
 ## Overview

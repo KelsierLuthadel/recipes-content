@@ -1,6 +1,7 @@
 # Kachumber
 
 ![Kachumber](resources/kachumber.jpg)
+
 *India's table salad: finely diced cucumber, tomato, onion and chilli dressed with lime, salt and roasted cumin. The cold counterpoint to anything saucy.*
 
 **Serves:** 4 as a side

@@ -1,6 +1,7 @@
 # Cheesecake Brownies
 
 ![Cheesecake Brownies](resources/cheesecake-brownies.jpg)
+
 *The marbled brownie. A rich dark-chocolate brownie batter under-meets a sweetened cream-cheese ribbon swirled through the top, baked until the cheesecake layer is just-set with the slightest tan on the high points. Cool, slice; eat from the fridge.*
 
 **Serves:** 16 squares

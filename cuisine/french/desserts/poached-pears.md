@@ -5,8 +5,10 @@
 *Simple to prepare and delectable to eat - owing to the harmonious combination of flavours - this autumn and winter dessert par excellence.*
 
 **Serves:** 6
+
 **Prep Time:** 10 minutes
-**Cook Time:** 1 minutes
+
+**Cook Time:** 1 minute
 
 ## Ingredients
 - 6 William (or conference pears, ripe)

@@ -1,6 +1,7 @@
 # Big Plate Chicken
 
 ![Big Plate Chicken](resources/big-plate-chicken.jpg)
+
 *Xinjiang's celebration dish: bone-in chicken, potato, peppers and ginger simmered in a chilli-soy braise, with belt noodles draped to soak the juices.*
 
 **Serves:** 3-4

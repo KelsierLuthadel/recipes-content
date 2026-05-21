@@ -1,6 +1,7 @@
 # Bantan
 
 ![Bantan](resources/bantan.jpg)
+
 *Mongolia's flour-and-mutton broth: simmering mutton stock with pinches of raw flour rubbed into pea-sized pearls. The cure for a hungover adult.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Lentejas Chilenas
 
 ![Lentejas Chilenas](resources/lentejas-chilenas.jpg)
+
 *A Chilean lentil stew: green or brown lentils slow-cooked with onion, garlic, carrot, potato, smoked bacon and tomato, finished with oregano and vinegar.*
 
 **Serves:** 4

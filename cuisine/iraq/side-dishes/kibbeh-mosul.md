@@ -1,6 +1,7 @@
 # Kibbeh Mosul
 
 ![Kibbeh Mosul](resources/kibbeh-mosul.jpg)
+
 *The Mosul-style kibbeh: large flat disks rather than the small torpedoes of Levantine kibbeh, with a bulgur shell rolled thin and a spiced lamb-and-pine-nut filling inside. Baked on a tray, drizzled with samna, sliced into wedges. Less fiddly than torpedo kibbeh, just as deeply flavoured.*
 
 **Serves:** 6

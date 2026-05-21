@@ -5,7 +5,9 @@
 *A vegetarian calzone with garlic-fried kale and red chilli, folded into a quick ciabatta-mix dough and baked until puffed and golden. Ricotta or torn mozzarella inside keeps the filling creamy against the assertive greens and heat.*
 
 **Serves:** 2
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 25 minutes
 
 ## Overview

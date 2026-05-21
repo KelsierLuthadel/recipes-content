@@ -5,7 +5,9 @@
 *Ayam goreng translates simply as "fried chicken", but the Malaysian version is anything but plain. A pungent paste of shallots, galangal, lemongrass and toasted seeds is pounded into the meat before a light cornflour and egg coating crisps in hot oil.*
 
 **Serves:** 4
+
 **Prep Time:** 10 minutes
+
 **Cook Time:** 30 minutes
 
 ## Overview

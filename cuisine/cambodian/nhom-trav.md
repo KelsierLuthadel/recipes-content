@@ -1,6 +1,7 @@
 # Nhom Trav
 
 ![Nhom Trav](resources/nhom-trav.jpg)
+
 *Cambodian banana flower salad: thinly-sliced banana flower tossed with herbs, peanuts, fried shallots, lime and a salty-sweet dressing. The banana flower is bitter at first, but sliced thin and rinsed, it goes pale and floral. Eats as a starter or alongside grilled food.*
 
 **Serves:** 4 as a starter

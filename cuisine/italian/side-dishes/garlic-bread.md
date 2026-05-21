@@ -1,6 +1,7 @@
 # Garlic Bread
 
 ![Garlic Bread](resources/garlic-bread.jpg)
+
 *Crusty baguette split, slathered with garlic-parsley butter, wrapped in foil and baked until the butter has melted into every crumb. The pasta side that never disappoints; equally happy alongside a soup or grilled meats.*
 
 **Serves:** 6-8

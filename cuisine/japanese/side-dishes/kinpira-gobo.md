@@ -1,6 +1,7 @@
 # Kinpira Gobo
 
 ![Kinpira Gobo](resources/kinpira-gobo.jpg)
+
 *Japan's root-vegetable side: julienned burdock and carrot stir-fried with chilli, then glazed with soy, mirin and sugar till glossy.*
 
 **Serves:** 4 (as a side)

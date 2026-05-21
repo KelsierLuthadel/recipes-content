@@ -1,6 +1,7 @@
 # Pichene
 
 ![Pichene](resources/pichene.jpg)
+
 *Uyghur cut-out sugar-topped cookies. A simple oil-and-egg dough, rolled thin, cut into shapes, dipped sugar-side-down on a plate of sugar, baked until just-set. A childhood Uyghur snack served with milk tea.*
 
 **Serves:** Makes ~24 cookies

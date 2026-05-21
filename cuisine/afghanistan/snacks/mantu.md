@@ -1,6 +1,7 @@
 # Mantu
 
 ![Mantu](resources/mantu.jpg)
+
 *Kabul's Silk Road dumplings: thin pasta wrappers folded around spiced lamb, steamed, then bathed in garlicky yogurt and a chana-dal sauce.*
 
 **Serves:** 4 (about 24 dumplings)

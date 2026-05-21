@@ -1,6 +1,7 @@
 # Gefilte Fish
 
 ![Gefilte Fish](resources/gefilte-fish.jpg)
+
 *The seder starter. Quenelles of ground white fish bound with onion, egg and matzo meal, poached in a fish-and-vegetable broth until set, chilled, and served on lettuce with a sharp horseradish on the side. Old-fashioned, divisive, beloved.*
 
 **Serves:** 8 as a starter (makes about 16 quenelles)

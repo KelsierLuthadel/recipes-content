@@ -1,6 +1,7 @@
 # Pecan Pie
 
 ![Pecan Pie](resources/pecan-pie.jpg)
+
 *The Southern Thanksgiving pie: pecans suspended in a glossy filling of corn syrup, eggs and dark brown sugar, baked into a soft custard.*
 
 **Serves:** 8

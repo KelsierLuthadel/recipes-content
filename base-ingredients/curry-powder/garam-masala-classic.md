@@ -1,13 +1,10 @@
 # Garam Masala (Classic)
 
-*The classic garam masala: warm whole spices toasted and ground (cardamom, cinnamon, clove, pepper, cumin).*
-
-
-**Prep Time:** 10 minutes
-
 ![Garam Masala](resources/garam-masala.jpg)
 
-*Garam means "hot" and masala means "spices", together they describe a blend focused on spices that generate warmth: chillies, pepper, cinnamon, and cloves. This classic blend is added at the end of cooking or sprinkled over finished dishes as a final fragrant garnish, making it distinct from base curry powders.*
+*The classic garam masala: warm whole spices toasted and ground (cardamom, cinnamon, clove, pepper, cumin).*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 50-60 grams (makes 15-20 curry portions)
 
@@ -106,3 +103,5 @@ Temperature: Never cook extended time, add just before serving to preserve preci
 - Much more aromatic and flavorful when freshly ground than store-bought blends
 - Make fresh quarterly for optimal quality
 - Label with preparation date
+
+*Garam means "hot" and masala means "spices", together they describe a blend focused on spices that generate warmth: chillies, pepper, cinnamon, and cloves. This classic blend is added at the end of cooking or sprinkled over finished dishes as a final fragrant garnish, making it distinct from base curry powders.*

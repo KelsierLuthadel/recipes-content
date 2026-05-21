@@ -1,6 +1,7 @@
 # Kuchen Alemán
 
 ![Kuchen Alemán](resources/kuchen-aleman.jpg)
+
 *The German-Chilean fruit cake from the Lakes Region: a butter-cake base topped with seasonal fruit and a streusel crumble. Eaten with afternoon coffee.*
 
 **Serves:** 8

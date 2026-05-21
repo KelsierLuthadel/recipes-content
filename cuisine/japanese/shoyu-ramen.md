@@ -5,7 +5,9 @@
 *Shoyu ramen is the soy-sauce-based variant of Japan's iconic noodle soup, with a clean, golden chicken broth seasoned with kombu and shiitake.*
 
 **Serves:** 6
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 4 hours 30 minutes
 
 ## Overview

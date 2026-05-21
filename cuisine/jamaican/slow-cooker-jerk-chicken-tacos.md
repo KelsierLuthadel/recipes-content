@@ -1,6 +1,7 @@
 # Slow-Cooker Jerk Chicken Tacos
 
 ![Slow-Cooker Jerk Chicken Tacos](resources/slow-cooker-jerk-chicken-tacos.jpg)
+
 *Set-and-forget jerk chicken. Boneless breasts go into a slow cooker with chopped onion, fresh thyme, jerk seasoning paste, broth, browning sauce and lime; 6 hours on low. Shred in the pot, pile into warm tortillas, top with a fresh mango salsa. Caribbean-meets-Tex-Mex, made on a workday.*
 
 **Serves:** 8

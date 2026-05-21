@@ -1,16 +1,15 @@
 # Standard Loaf Pan Shaping
 
-*The standard tin loaf: dough shaped into a long cylinder and dropped into a buttered loaf tin.*
+![Standard Loaf Pan Step 1](resources/loaf-1.jpg)
 
+*The standard tin loaf: dough shaped into a long cylinder and dropped into a buttered loaf tin.*
 
 **Cook Time:** 36 minutes
 
-![Standard Loaf Pan Step 1](resources/loaf-1.jpg)
-
-*The standard loaf pan shape is perhaps the most straightforward approach to shaping bread: gently stretch the bulk-fermented dough into an oval approximately matching the pan length, then allow final proofing. The pan's shape guides the loaf during rising and baking, requiring minimal skill or special technique.*
-
 **Rising Time:** 45-60 minutes (final proof)
+
 **Baking Time:** 30-35 minutes (depending on dough recipe)
+
 **Yield:** 1 loaf, 10-12 slices
 
 ## Overview
@@ -101,3 +100,5 @@ Temperature: Serve at room temperature or warm
 - After 2 days, slice and freeze in plastic wrap for up to 1 month
 - Refresh stale loaf: Wrap loosely in foil and warm at 180°C for 5-10 minutes
 - Do not refrigerate; cold stales bread faster
+
+*The standard loaf pan shape is perhaps the most straightforward approach to shaping bread: gently stretch the bulk-fermented dough into an oval approximately matching the pan length, then allow final proofing. The pan's shape guides the loaf during rising and baking, requiring minimal skill or special technique.*

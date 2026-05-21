@@ -1,6 +1,7 @@
 # Kafta Bil Saneya
 
 ![Kafta bil Saneya](resources/kafta-bil-saneya.jpg)
+
 *Jordanian baked kafta: spiced lamb-and-beef mince patties layered in a tray over sliced potato and tomato, topped with tomato slices, peppers and a tomato-pomegranate sauce, baked until everything is tender and the top is bronzed. A Friday lunch or family dinner; eaten with rice or warm bread.*
 
 **Serves:** 4

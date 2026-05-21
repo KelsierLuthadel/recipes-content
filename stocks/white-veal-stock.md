@@ -5,7 +5,9 @@
 *The foundation of French cuisine, white veal stock is a delicate and gelatinous preparation that forms the base for most mother sauces and refined meat preparations.*
 
 **Prep Time:** 30 minutes
+
 **Cook Time:** 2 ½ hours
+
 **Yield:** Approximately 1 litre
 
 ## Overview

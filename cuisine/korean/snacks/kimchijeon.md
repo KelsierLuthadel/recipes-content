@@ -1,6 +1,7 @@
 # Kimchijeon (Kimchi Pancake)
 
 ![Kimchijeon](resources/kimchijeon.jpg)
+
 *Korea's rainy-day pancake: a thin flour-and-egg batter packed with sour ripe kimchi, pan-fried crisp at the edges. Served with a soy-vinegar dip.*
 
 **Serves:** 4

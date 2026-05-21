@@ -1,6 +1,7 @@
 # Croque Monsieur
 
 ![Croque Monsieur](resources/croque-monsieur.jpg)
+
 *French toasted ham-and-cheese sandwich elevated by a layer of béchamel and a generous grating of gruyère on top, baked or grilled until bubbling and golden. Add a fried egg on top and it becomes a Croque Madame.*
 
 **Serves:** 4

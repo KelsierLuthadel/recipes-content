@@ -1,6 +1,7 @@
 # Adana Kebab
 
 ![Adana Kebab](resources/adana-kebab.jpg)
+
 *Turkey's most defended kebab: hand-minced lamb shoulder kneaded with hot pepper, pressed onto wide flat skewers and grilled over charcoal.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Kibbeh Nayyeh Balls (Fried)
 
 ![Kibbeh Nayyeh Balls](resources/kibbeh-nayyeh-balls.jpg)
+
 *Jordan's fried kibbeh: bulgur-and-lamb dough wrapped around a spiced mince and pine-nut filling, deep-fried into amber-crisp ovals.*
 
 **Serves:** 4 (makes 18 balls)

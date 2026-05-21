@@ -4,7 +4,6 @@
 
 *Thailand's red curry: meat or vegetables simmered in a coconut sauce built on dried-red-chilli paste.*
 
-
 ## Overview
 Gaeng phed gai, this classic Thai red curry features tender chicken simmered in a rich, aromatic coconut sauce infused with homemade red curry paste. The chilli paste that forms the basis of this dish has superb flavour and is worth making in quantity, as it's useful in all sorts of spicy dishes. Taking the extra time to pound herbs and spices using a mortar and pestle releases their fragrances perfectly, creating an authentic, restaurant-quality curry.
 

@@ -1,6 +1,7 @@
 # Cauliflower Cheese
 
 ![Cauliflower Cheese](resources/cauliflower-cheese.jpg)
+
 *British Sunday-lunch staple: blanched cauliflower in a sharp cheddar and mustard béchamel, topped with extra cheese and breadcrumbs, baked until bubbling and golden. The white sister to mac and cheese; pairs with roasts, particularly beef.*
 
 **Serves:** 6

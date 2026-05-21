@@ -1,6 +1,7 @@
 # Goan Coconut Rice
 
 ![Goan Coconut Rice](resources/goan-coconut-rice.jpg)
+
 *Goan-style coconut rice: basmati cooked in coconut milk with bay, cinnamon and a green chilli. Mildly sweet, gently fragrant, the rice that goes alongside any Goan fish curry.*
 
 **Serves:** 4-6

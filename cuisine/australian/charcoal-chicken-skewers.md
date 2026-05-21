@@ -1,6 +1,7 @@
 # Charcoal Chicken Shop Chicken Skewers
 
 ![Charcoal Chicken Shop Chicken Skewers](resources/charcoal-chicken-skewers.jpg)
+
 *The flavour you get at a Melbourne charcoal-chicken takeaway, made at home. Chicken thigh in a dry-rub-meets-marinade of garlic powder, onion powder, paprika and a quiet hit of curry, soaked overnight, threaded onto skewers, pan-seared hot. The lemon at the table is non-negotiable.*
 
 **Serves:** 4-5 (makes 10-12 skewers)

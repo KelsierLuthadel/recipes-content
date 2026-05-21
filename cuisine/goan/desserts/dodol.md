@@ -1,6 +1,7 @@
 # Dodol
 
 ![Dodol](resources/dodol.jpg)
+
 *Goan dark fudge: rice flour cooked low and slow with palm jaggery and coconut milk until thick, dark and glossy. Set into squares and eaten by the slab. A Christmas-sweet tradition.*
 
 **Serves:** 16 (small squares)

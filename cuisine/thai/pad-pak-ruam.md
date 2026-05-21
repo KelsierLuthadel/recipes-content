@@ -1,6 +1,7 @@
 # Pad Pak Ruam
 
 ![Pad Pak Ruam](resources/pad-pak-ruam.jpg)
+
 *A Thai mixed-vegetable stir-fry: a hot wok of garlic and soy, with whatever's crisp and fresh, the vegetables just-tender and the sauce barely coating.*
 
 **Serves:** 4

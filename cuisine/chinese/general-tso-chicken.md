@@ -4,8 +4,6 @@
 
 *The Chinese-American sweet-spicy classic: battered chicken cubes deep-fried crisp and tossed in a sticky soy-vinegar-sugar-chilli sauce.*
 
-
-
 ## Overview
 This iconic American-Chinese dish combines deep-fried chicken with a sweet, spicy, and slightly tangy sauce. General Tso's chicken exemplifies the bold flavours of outside China Chinese cooking, where heat from dried chillies, sweetness from sugar, and complexity from vinegar create a sauce that is bold yet balanced. Restaurant-quality results require proper oil temperature and crispy, well-coated chicken.
 

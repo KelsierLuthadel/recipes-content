@@ -1,13 +1,10 @@
 # Spicy Peanut Balls
 
-*Sichuan spicy peanut balls: roasted peanuts coated in a glossy chilli-sugar caramel and rolled into small clusters.*
-
-
-**Prep Time:** 15 minutes
-
 ![Spicy peanut balls](resources/spicy-peanut-balls.jpg)
 
-*Tasty rice balls, rolled in chopped peanuts and deep-fried, make a delicious snack. Serve them as they are or with a chilli sauce for dipping.*
+*Sichuan spicy peanut balls: roasted peanuts coated in a glossy chilli-sugar caramel and rolled into small clusters.*
+
+**Prep Time:** 15 minutes
 
 **Yield:** 16
 
@@ -58,3 +55,5 @@ Amount: 3-4 balls per person as a snack or starter
 - Store unfried, chilled balls in the fridge for up to 24 hours before frying.
 - Once fried, store leftovers in an airtight container in the fridge for up to 2 days and reheat in a hot oven until crisp.
 - The balls are not suitable for freezing once fried as the coating loses its crunch.
+
+*Tasty rice balls, rolled in chopped peanuts and deep-fried, make a delicious snack. Serve them as they are or with a chilli sauce for dipping.*

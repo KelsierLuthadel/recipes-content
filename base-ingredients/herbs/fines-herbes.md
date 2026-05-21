@@ -1,13 +1,10 @@
 # Fines Herbes
 
-*France's classic herb blend: parsley, chives, tarragon and chervil finely chopped together.*
-
-
-**Prep Time:** 10 minutes
-
 ![Fines Herbes](resources/fines-herbes.png)
 
-*Fines herbes is a classic French fresh herb blend used to finish delicate dishes, adding brightness without overpowering subtle flavors.*
+*France's classic herb blend: parsley, chives, tarragon and chervil finely chopped together.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** About 3-4 tablespoons (fresh; adjust to recipe needs)
 
@@ -55,3 +52,5 @@ Amount: 1-2 teaspoons per serving, depending on dish intensity
 - Whole sprigs can be wrapped in a damp towel and refrigerated for up to 2 days
 - Best flavor on the day of purchase
 - Do not freeze; frozen herbs lose delicate character
+
+*Fines herbes is a classic French fresh herb blend used to finish delicate dishes, adding brightness without overpowering subtle flavors.*

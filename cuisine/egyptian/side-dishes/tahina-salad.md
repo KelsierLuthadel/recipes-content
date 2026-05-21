@@ -1,6 +1,7 @@
 # Tahina Salad
 
 ![Tahina Salad](resources/tahina-salad.jpg)
+
 *Egypt's tahina dip: tahini thinned with garlic, lemon, salt and water into a pourable savoury cream. Spread on a plate, drizzled with oil, scooped with bread.*
 
 **Serves:** 4 as a mezze

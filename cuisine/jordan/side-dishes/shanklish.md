@@ -1,6 +1,7 @@
 # Shanklish
 
 ![Shanklish](resources/shanklish.jpg)
+
 *Jordanian / Levantine aged cheese balls: strained yogurt-and-cheese curds rolled into balls, dried, rolled in za'atar and dried herbs, then aged. Eaten crumbled into a chopped tomato-onion-olive oil salad on a small mezze plate. Tangy, salty, herbal. A Druze and Levantine signature.*
 
 **Serves:** 4 as a mezze

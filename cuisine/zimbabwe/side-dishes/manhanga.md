@@ -1,6 +1,7 @@
 # Manhanga
 
 ![Manhanga](resources/manhanga.jpg)
+
 *Sweet boiled pumpkin mashed with butter, sugar and a pinch of salt. A side, a snack, or a quick supper with leftover sadza. The pumpkin used in Zimbabwe is dense and floury (closer to kabocha than to the watery jack-o-lantern pumpkin); cook it until a fork goes through cleanly, then mash by hand.*
 
 **Serves:** 4

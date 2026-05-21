@@ -1,6 +1,7 @@
 # Beef Si Byan
 
 ![Beef Si Byan](resources/beef-sibyan.jpg)
+
 *Burma's brick-red beef curry: meat slow-cooked till it falls apart and the oil 'returns' to the top, built on patient browning of onion and ginger.*
 
 **Serves:** 4

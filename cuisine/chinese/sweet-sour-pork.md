@@ -4,13 +4,12 @@
 
 *The Cantonese sweet and sour pork: battered pork cubes deep-fried crisp and tossed in a glossy pineapple-vinegar-sugar sauce with peppers.*
 
-
 ## Overview
 Often mis-made in the West as doughy balls drowned in cloying sauce, properly prepared sweet and sour pork is a delicate balance of flavours, neither strictly sweet nor sour, but harmoniously combined. The key is quality ingredients, proper deep-frying technique, and a refined sauce that complements rather than masks the tender pork. Tinned lychees add authentic sweetness and texture.
 
 **Serves:** 4
 **Prep Time:** 20 minutes
-**Cook Time:** 1 minutes
+**Cook Time:** 1 minute
 
 ## Ingredients
 

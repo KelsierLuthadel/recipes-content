@@ -1,6 +1,7 @@
 # Chicken Karahi
 
 ![Chicken Karahi](resources/chicken-karahi.jpg)
+
 *Lahore's roadside dhaba dish: bone-in chicken seared hard in a karahi, then simmered with ginger, garlic, tomato and green chillies.*
 
 **Serves:** 4

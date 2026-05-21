@@ -5,7 +5,9 @@
 *Elegant sponge biscuits perfect as a base for Swiss rolls, tiramisu, or charlottes, these delicate fingers can be served dipped in crème Chantilly or arranged as decorative elements on refined desserts.*
 
 **Prep Time:** 15 minutes
+
 **Cook Time:** 8-10 minutes
+
 **Yield:** Approximately 24-30 sponge fingers (1 ½cm wide x 10cm long)
 
 ## Overview

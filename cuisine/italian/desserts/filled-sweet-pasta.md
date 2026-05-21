@@ -4,9 +4,8 @@
 
 *Mezzelune dolci*
 
-*This is a classic Neapolitan dessert that is usually eaten around Easter time can be used either as a dessert or as a petit fours.*
-
 **Serves:** 6 - 8
+
 **Prep Time:** 10 minutes
 
 ## Ingredients
@@ -56,3 +55,6 @@ Arrange the warm fried pasta pieces on a decorative platter and dust generously 
 ## Storage
 Best served warm, shortly after frying. The unfried, filled pasta can be prepared up to 2 hours ahead and kept covered in the refrigerator until frying. Do not freeze as the filling becomes grainy. Fried mezzelune can be reheated gently in a 180°C oven for 3-4 minutes if made an hour or two in advance, but are best served freshly fried.
 
+
+
+*This is a classic Neapolitan dessert that is usually eaten around Easter time can be used either as a dessert or as a petit fours.*

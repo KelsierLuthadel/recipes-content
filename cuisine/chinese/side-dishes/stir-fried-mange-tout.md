@@ -1,14 +1,12 @@
 # Stir Fried Mange Tout with Waterchestnuts
 
-*A Cantonese side: mange tout and sliced water chestnuts stir-fried hot with garlic, ginger and a splash of soy. Crisp, sweet and snappy.*
-
-
-**Prep Time:** 10 minutes
-**Cook Time:** 4 minutes
-
 ![Stir fried mange tout with waterchestnuts](resources/mange-tout.jpg)
 
-*This sweet crunchy side dish is a perfect accompaniment to any Chinese dish, but works especially well with lemon chicken.*
+*A Cantonese side: mange tout and sliced water chestnuts stir-fried hot with garlic, ginger and a splash of soy. Crisp, sweet and snappy.*
+
+**Prep Time:** 10 minutes
+
+**Cook Time:** 4 minutes
 
 **Servings:** 2 - 4
 
@@ -52,3 +50,5 @@ Amount: 2-4 portions as a side dish
 - Best eaten immediately; leftovers can be stored in an airtight container in the fridge for up to 2 days.
 - Reheat briefly in a hot wok, the texture will soften but the flavour remains good.
 - Not suitable for freezing as the mange tout will become limp.
+
+*This sweet crunchy side dish is a perfect accompaniment to any Chinese dish, but works especially well with lemon chicken.*

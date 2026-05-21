@@ -1,6 +1,7 @@
 # Sfeeha Jordani
 
 ![Sfeeha Jordani](resources/sfeeha-jordani.jpg)
+
 *Jordan's open-top meat pastries: small yeasted discs topped with spiced minced lamb, tomato and pomegranate molasses, baked till glossy.*
 
 **Serves:** 6 (makes 18 sfeeha)

@@ -1,6 +1,7 @@
 # Eton Mess
 
 ![Eton Mess](resources/eton-mess.jpg)
+
 *A proper British summer pudding: crushed meringue, sliced strawberries and softly whipped cream jumbled together. A glorious mess.*
 
 **Serves:** 4

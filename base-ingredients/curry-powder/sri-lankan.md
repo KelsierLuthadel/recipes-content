@@ -1,14 +1,12 @@
 # Sri Lankan Curry Powder
 
-*Sri Lanka's roasted curry powder: whole spices dry-toasted till deep coffee-coloured before grinding.*
-
-
-**Prep Time:** 10 minutes
-**Cook Time:** 1 minutes
-
 ![Sri Lankan](resources/sri-lankan.jpg)
 
-*This distinctly different curry powder reflects Sri Lankan cooking traditions where spices are roasted separately to prevent burning, and presentation with vibrant colors matters as much as flavor. The result is a rich, dark curry powder ideal for all dishes, poultry, meat, and vegetables, with aromatic warmth rather than excessive heat.*
+*Sri Lanka's roasted curry powder: whole spices dry-toasted till deep coffee-coloured before grinding.*
+
+**Prep Time:** 10 minutes
+
+**Cook Time:** 1 minute
 
 **Yield:** Approximately 75 grams (makes 15-20 curry portions)
 
@@ -97,3 +95,5 @@ Color: The darker appearance is natural and indicates proper roasting technique
 - Check aroma after 4 months before using in important dishes
 - Label with preparation date
 - Make fresh quarterly for optimal aromatic quality 
+
+*This distinctly different curry powder reflects Sri Lankan cooking traditions where spices are roasted separately to prevent burning, and presentation with vibrant colors matters as much as flavor. The result is a rich, dark curry powder ideal for all dishes, poultry, meat, and vegetables, with aromatic warmth rather than excessive heat.*

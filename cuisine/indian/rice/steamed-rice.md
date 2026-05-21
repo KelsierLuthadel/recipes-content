@@ -5,7 +5,8 @@
 *This is the simplest and purest form of rice preparation: rinsed basmati, briefly cooked, then rested undisturbed. The result is separate, tender grains, the foundation rice for any curry.*
 
 **Serves:** 4
-**Cook Time:** 1 minutes
+
+**Cook Time:** 1 minute
 
 ## Overview
 Basic steamed rice is deceptively important. This method produces separate, tender grains with no mushiness or stickiness. The technique is simple: bring to boil, immediately remove from heat, and rest undisturbed for 40 minutes. The key is discipline, don't lift the lid during resting. Ghee adds richness and flavor. This is the ideal rice for pairing with any curry, dal, or Indian preparation. Master this technique and you've mastered rice cooking.

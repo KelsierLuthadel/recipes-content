@@ -1,6 +1,7 @@
 # Moussaka
 
 ![Moussaka](resources/moussaka.jpg)
+
 *Greek baked layered dish: aubergine, spiced lamb mince, potato slices and a thick béchamel topping. The Mediterranean lasagne. Time-consuming but freezer-friendly; one tray feeds a family for two nights.*
 
 **Serves:** 6-8

@@ -1,6 +1,7 @@
 # Qutab
 
 ![Qutab](resources/qutab.jpg)
+
 *Azerbaijan's folded flatbread: a herb-and-pomegranate filling sealed in paper-thin dough and pan-fried dry. Brushed with butter and sumac.*
 
 **Serves:** 4 (makes 8 qutab)

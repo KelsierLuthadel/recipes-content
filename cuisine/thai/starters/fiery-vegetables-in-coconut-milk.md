@@ -4,9 +4,8 @@
 
 *Tom kati pak*
 
-*Eight chillies may seem a bit excessive, but remember that the coconut milk will pacify your palate somewhat.*
-
 **Serves:** 4 - 6
+
 **Prep Time:** 10 minutes
 
 ## Overview
@@ -54,3 +53,5 @@ Accompaniment: Extra lime juice for squeezing at the table
 - Freezes well up to 3 months (freeze in portions for convenience)
 - Best reheated gently on stovetop with a splash of coconut milk to restore sauce consistency
 - Vegetables will soften slightly on reheating but remain palatable
+
+*Eight chillies may seem a bit excessive, but remember that the coconut milk will pacify your palate somewhat.*

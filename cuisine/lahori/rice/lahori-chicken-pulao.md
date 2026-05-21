@@ -1,6 +1,7 @@
 # Lahori Chicken Pulao
 
 ![Lahori Chicken Pulao](resources/lahori-chicken-pulao.jpg)
+
 *Lahori-style chicken pulao: basmati cooked in a yakhni (chicken stock) flavoured with whole spices and ginger, the chicken folded through. Lighter than biryani, the Friday-lunch staple.*
 
 **Serves:** 4-6

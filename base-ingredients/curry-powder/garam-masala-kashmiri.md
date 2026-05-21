@@ -1,13 +1,10 @@
 # Garam Masala (Kashmiri)
 
-*The Kashmiri garam masala: a more delicate blend with fennel, dried rose petals and a heavier hand of cardamom. Less heat, more perfume.*
-
-
-**Prep Time:** 10 minutes
-
 ![Garam Masala](resources/garam-masala.jpg)
 
-*Garam masala is one of the keys to Northern Indian, Moghul, and Pakistani cooking. This Kashmiri version emphasizes fragrance over fire, featuring rose petals and optional saffron for luxurious warmth. Garam means "hot" and masala means "spices", this one heats from the inside out.*
+*The Kashmiri garam masala: a more delicate blend with fennel, dried rose petals and a heavier hand of cardamom. Less heat, more perfume.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 200 grams (makes 30+ curry portions)
 
@@ -92,3 +89,6 @@ Temperature: Never cook for extended time; add near end of cooking only
 - Make fresh every 8-10 months for optimal quality
 - Label with preparation date
 - Does not require refrigeration
+
+
+*Garam masala is one of the keys to Northern Indian, Moghul, and Pakistani cooking. This Kashmiri version emphasizes fragrance over fire, featuring rose petals and optional saffron for luxurious warmth. Garam means "hot" and masala means "spices", this one heats from the inside out.*

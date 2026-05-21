@@ -1,6 +1,7 @@
 # Warak Enab
 
 ![Warak Enab](resources/warak-enab.jpg)
+
 *Lebanon's stuffed vine leaves: leaves rolled around a spiced lamb-and-rice filling, packed tight in a pot and slow-braised in lemon and stock.*
 
 **Serves:** 6

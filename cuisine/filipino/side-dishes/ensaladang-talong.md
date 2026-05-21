@@ -1,6 +1,7 @@
 # Ensaladang Talong (Grilled Eggplant Salad)
 
 ![Ensaladang Talong](resources/ensaladang-talong.jpg)
+
 *The Filipino smoky aubergine salad: long aubergines char-grilled till silky, then dressed with tomato, onion, fish sauce and calamansi.*
 
 **Serves:** 4

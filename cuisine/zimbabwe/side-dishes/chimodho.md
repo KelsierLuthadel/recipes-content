@@ -1,6 +1,7 @@
 # Chimodho
 
 ![Chimodho](resources/chimodho.jpg)
+
 *Zimbabwe's steamed cornbread: a sweet, dense, slightly chewy maize-meal bake steamed inside a covered pot till firm. Eaten with morning tea.*
 
 **Serves:** 6 (makes 1 round loaf)

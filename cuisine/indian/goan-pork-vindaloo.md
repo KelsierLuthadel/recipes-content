@@ -1,6 +1,7 @@
 # Goan Pork Vindaloo
 
 ![Goan Pork Vindaloo](resources/goan-pork-vindaloo.jpg)
+
 *The original Goan vindaloo: pork shoulder marinated overnight in a thick paste of Kashmiri chillies, vinegar and garlic, slow-cooked dark.*
 
 **Serves:** 4

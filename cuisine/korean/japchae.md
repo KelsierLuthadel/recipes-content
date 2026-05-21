@@ -1,6 +1,7 @@
 # Japchae
 
 ![Japchae](resources/japchae.jpg)
+
 *Korean stir-fried glass noodles with vegetables and beef in a soy-sesame sauce. Sweet-savoury, glossy, served warm or at room temperature. Traditionally a celebration dish; modern households eat it any time.*
 
 **Serves:** 4

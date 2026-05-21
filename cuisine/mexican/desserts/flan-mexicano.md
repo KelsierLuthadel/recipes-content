@@ -1,6 +1,7 @@
 # Flan Mexicano
 
 ![Flan Mexicano](resources/flan-mexicano.jpg)
+
 *Mexico's defining dessert: a silky baked custard sitting in a pool of bittersweet caramel, inverted so the syrup runs down the dome.*
 
 **Serves:** 8

@@ -1,6 +1,7 @@
 # Mushy Peas
 
 ![Mushy Peas](resources/mushy-peas.jpg)
+
 *The British chippy side: marrowfat peas soaked overnight, then simmered slow till they collapse into a sweet, savoury green mush.*
 
 **Serves:** 4 (as a side)

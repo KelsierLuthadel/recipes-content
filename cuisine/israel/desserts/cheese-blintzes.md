@@ -1,6 +1,7 @@
 # Cheese Blintzes
 
 ![Cheese Blintzes](resources/cheese-blintzes.jpg)
+
 *The Shavuot pancake. Thin crepes wrapped around a sweet farmer-cheese filling, folded into neat little envelopes, fried gently in butter until the skin crisps and the cheese inside warms through. Eaten with sour cream and a spoon of berry compote.*
 
 **Serves:** 4 (makes 12 blintzes)

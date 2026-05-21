@@ -1,6 +1,7 @@
 # Harcha
 
 ![Harcha](resources/harcha.jpg)
+
 *Morocco's teatime semolina pan-bread: a dense, slightly crumbly disc fried gold on a hot griddle. Split and slathered with butter and honey.*
 
 **Serves:** Makes 6 harcha

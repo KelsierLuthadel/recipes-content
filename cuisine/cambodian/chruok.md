@@ -1,6 +1,7 @@
 # Chruok
 
 ![Chruok](resources/chruok.jpg)
+
 *Cambodian quick-pickled vegetables: julienned daikon, carrot and cucumber in a sweet-sour brine of lime, vinegar, palm sugar and salt. Bright, sharp, slightly hot from chilli; eats alongside grilled meats and fish, or piled into rice with anything saucy. Ready in an hour; best after a few.*
 
 **Serves:** 4 as a side

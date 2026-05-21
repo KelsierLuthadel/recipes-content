@@ -1,6 +1,7 @@
 # Pimientos de Padrón
 
 ![Pimientos de Padrón](resources/pimientos-de-padron.jpg)
+
 *Galicia's blistered green peppers: Padróns fried hot in olive oil and finished with flaky salt. Nine out of ten mild and sweet; the tenth fiery.*
 
 **Serves:** 4 as a tapa

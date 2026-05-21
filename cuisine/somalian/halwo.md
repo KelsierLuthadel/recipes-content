@@ -1,6 +1,7 @@
 # Halwo
 
 ![Halwo](resources/halwo.jpg)
+
 *Somali halva: a deep amber, almost translucent confection of cornflour, sugar, ghee and cardamom, perfumed with saffron and studded with chopped peanuts. Ribbons fold thick over each other as it cools. Sliced into squares and eaten with tea - celebrations, weddings, holidays - across Somalia and the Horn of Africa.*
 
 **Makes:** about 700 g (12 squares)

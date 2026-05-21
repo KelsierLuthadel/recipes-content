@@ -5,6 +5,7 @@
 *Any delicate berries can be used instead of wild strawberries, try raspberries instead.*
 
 **Serves:** 8
+
 **Prep Time:** 5 minutes
 
 ## Ingredients
@@ -27,7 +28,7 @@ A zesty and sophisticated mousse infused with fresh lime juice and zest, lighten
 1. In another bowl, whip the cream to a ribbon consistency, then fold into the lime mixture using a spatula.
 1. Divide between 8 glasses and refrigerate.
 1. In a small saucepan, dissolve the remaining 30 grams of sugar in 6 tablespoons of water and bring gently to the boil.
-1. Add the lime zest julienne and simmer for 1 minutes, stirring with a fork, then drain the zest and set aside.
+1. Add the lime zest julienne and simmer for 1 minute, stirring with a fork, then drain the zest and set aside.
 1. To serve, neatly pile the strawberries on top of each lime mousse and arrange the zest julienne on top.
 1. Serve lightly chilled, not too cold.
 

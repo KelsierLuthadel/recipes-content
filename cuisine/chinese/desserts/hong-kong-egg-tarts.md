@@ -1,6 +1,7 @@
 # Hong Kong Egg Tarts
 
 ![Hong Kong Egg Tarts](resources/hong-kong-egg-tarts.jpg)
+
 *Cantonese egg tarts: small biscuit-style shortcrust shells filled with a delicate yellow custard, baked till just-set and matte.*
 
 **Serves:** 6 (makes 12 tarts)

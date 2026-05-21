@@ -5,6 +5,7 @@
 *Spaghetti con ricotta e pinoli, this is simplicity perfected. Warm pasta mingles with creamy ricotta, nutmeg's earthiness, sun-dried tomato's concentration, and toasted pine nuts' buttery crunch. No cooking of components, just assembly and gentle folding. The heat of the pasta itself carries the flavors.*
 
 **Serves:** 4
+
 **Prep Time:** 15 minutes
 
 ## Overview

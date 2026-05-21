@@ -4,8 +4,6 @@
 
 *A Thai-style edamame snack: pods tossed in a hot wok with garlic, dried chillies, soy and a splash of sesame oil.*
 
-
-
 **Serves:** 4 as a starter
 
 **Prep Time:** 5 minutes

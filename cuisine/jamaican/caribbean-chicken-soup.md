@@ -1,6 +1,7 @@
 # Caribbean Chicken Soup
 
 ![Caribbean Chicken Soup](resources/caribbean-chicken-soup.jpg)
+
 *West Indian Saturday-soup: a one-pot meal of curry-and-allspice-seasoned chicken parts, pumpkin-broth-thickened with carrots, corn rounds, potatoes and small hand-rolled dumplings. Coconut milk smooths the base. Eaten year-round in Caribbean households - "no specific season needed".*
 
 **Serves:** 8

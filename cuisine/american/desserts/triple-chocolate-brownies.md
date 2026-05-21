@@ -1,6 +1,7 @@
 # Triple Chocolate Brownies
 
 ![Triple Chocolate Brownies](resources/triple-chocolate-brownies.jpg)
+
 *The brownie loaded with three kinds of chocolate. Dark chocolate melted into the batter for depth; milk-chocolate chunks folded through for the meltable pockets; white-chocolate chunks scattered on top so they brown to caramel-flecked nubs. Crackly top, fudgy interior, three textures in one bite.*
 
 **Serves:** 16 squares

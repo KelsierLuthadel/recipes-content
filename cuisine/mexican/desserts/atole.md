@@ -1,6 +1,7 @@
 # Atole
 
 ![Atole](resources/atole.jpg)
+
 *The warm, thick Mexican comfort drink. Masa harina simmered with milk, piloncillo, cinnamon and vanilla until silky and pourable. Drunk in mugs at the breakfast table, beside tamales at dawn, and through long Día de los Muertos vigils.*
 
 **Serves:** 4

@@ -5,6 +5,7 @@
 *Crème Chantilly is used to lighten and enrich numerous creams - the Crème pâtissière in an Alméria for example. It can also be served just as it is and will complement many desserts, fruits or ice creams.*
 
 **Serves:** 600 grams
+
 **Prep Time:** 5 minutes
 
 ## Overview

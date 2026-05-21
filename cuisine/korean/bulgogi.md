@@ -1,6 +1,7 @@
 # Bulgogi
 
 ![Bulgogi](resources/bulgogi.jpg)
+
 *Thinly sliced beef marinated in a sweet-savoury soy-pear-garlic mix, then grilled or stir-fried fast. The Korean barbecue staple; the pear (or apple) is structural, tenderising the meat with natural enzymes.*
 
 **Serves:** 4

@@ -1,13 +1,10 @@
 # Classic Curry Powder
 
-*The classic British curry powder: toasted coriander, cumin, fenugreek, turmeric and dried chilli ground together.*
-
-
-**Prep Time:** 10 minutes
-
 ![Curry Powder](resources/curry-powder.jpg)
 
-*This is the classic British-Indian curry powder, the foundation for generalized curry dishes. Roast, grind, and store to create the aromatic base that transforms a simple dish into something memorable.*
+*The classic British curry powder: toasted coriander, cumin, fenugreek, turmeric and dried chilli ground together.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 115 grams (makes 20-25 curry portions)
 
@@ -89,3 +86,5 @@ Temperature: Best activated by hot oil for flavor blooming
 - Check aroma before using in important dishes
 - Make fresh every 6-8 months for optimal flavor
 - Label with preparation date
+
+*This is the classic British-Indian curry powder, the foundation for generalized curry dishes. Roast, grind, and store to create the aromatic base that transforms a simple dish into something memorable.*

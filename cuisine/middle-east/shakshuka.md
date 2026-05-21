@@ -1,6 +1,7 @@
 # Shakshuka
 
 ![Shakshuka](resources/shakshuka.jpg)
+
 *North African and Levantine breakfast: eggs poached in a spiced tomato-and-pepper sauce, served straight from the pan with bread to mop. Originally from Tunisia or Libya; widespread across Israel, Palestine, Egypt and the broader region.*
 
 **Serves:** 4

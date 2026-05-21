@@ -1,6 +1,7 @@
 # Pastitsio
 
 ![Pastitsio](resources/pastitsio.jpg)
+
 *Greek baked pasta: long tubes of bucatini or ziti layered with cinnamon-spiced beef ragù and topped with a thick béchamel. The Greek answer to lasagne; richer, sweeter, defined by the spices.*
 
 **Serves:** 6-8

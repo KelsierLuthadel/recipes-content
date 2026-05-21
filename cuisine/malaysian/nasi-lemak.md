@@ -5,7 +5,9 @@
 *Nasi lemak originated in Malay cuisine and is widely considered the national dish of Malaysia. The name translates as "rich rice", a reference to the coconut milk it is cooked in. It is eaten at all hours, from breakfast wrapped in banana leaf to a sit-down dinner.*
 
 **Serves:** 4
+
 **Prep Time:** 20 minutes
+
 **Cook Time:** 50 minutes
 
 ## Overview

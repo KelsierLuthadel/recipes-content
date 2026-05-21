@@ -1,6 +1,7 @@
 # Kuku Sabzi
 
 ![Kuku Sabzi](resources/kuku-sabzi.jpg)
+
 *Persia's herb omelette: a deep-green frittata heavy with parsley, coriander, dill and fenugreek. The Nowruz table-centre dish.*
 
 **Serves:** 6

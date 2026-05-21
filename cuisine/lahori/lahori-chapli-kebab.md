@@ -1,6 +1,7 @@
 # Lahori Chapli Kebab
 
 ![Lahori Chapli Kebab](resources/lahori-chapli-kebab.jpg)
+
 *Flat, crisp-edged minced beef patties studded with pomegranate seeds, fresh coriander and green chilli. A Khyber-Peshawari import that Lahore made its own; eaten with naan and a wedge of lemon.*
 
 **Serves:** 4 (makes 8 kebabs)

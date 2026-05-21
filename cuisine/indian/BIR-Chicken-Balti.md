@@ -4,9 +4,8 @@
 
 *Authentic baltis are cooked over a high gas flame that is much hotter than is possible on most conventional hobs. As they are cooked, the whole pan turns into a big ball of fire as the oil catches light, cooking off the oil and adding a delicious smoky flavour*
 
-*This is normally cooked in a large balti pan, but you can you can substitute this with a frying pan*
-
 **Serves:** 4
+
 **Prep Time:** 20 minutes
 
 ## Overview
@@ -44,3 +43,6 @@ Birmingham's defining curry, cooked hard and fast in a thin two-handled steel ba
 1. To finish, stir in the garam masala and dried fenugreek leaves and check for seasoning. 
 1. If there is any oil on the surface, skim it off for a healthier curry. 
 Top with chopped coriander to serve. 
+
+
+*This is normally cooked in a large balti pan, but you can you can substitute this with a frying pan*

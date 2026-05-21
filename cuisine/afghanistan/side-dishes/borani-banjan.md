@@ -1,6 +1,7 @@
 # Borani Banjan
 
 ![Borani Banjan](resources/borani-banjan.jpg)
+
 *The Afghan eggplant side: aubergine slices fried silky-soft, layered with a tomato-onion sauce and topped with garlicky strained yogurt and dried mint.*
 
 **Serves:** 4 as a side

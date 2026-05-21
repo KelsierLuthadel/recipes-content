@@ -1,6 +1,7 @@
 # Jollof Rice with Chicken
 
 ![Jollof Rice with Chicken](resources/jollof-rice-with-chicken.jpg)
+
 *West Africa's most-argued-over party rice: long-grain cooked in a deep red tomato-and-scotch-bonnet base, with crisp-skinned chicken.*
 
 **Serves:** 6

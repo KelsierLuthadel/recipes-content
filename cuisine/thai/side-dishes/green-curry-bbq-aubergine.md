@@ -1,6 +1,7 @@
 # Green Curry BBQ Aubergine
 
 ![Green Curry BBQ Aubergine](resources/green-curry-bbq-aubergine.jpg)
+
 *Thai grilled aubergine: thick wedges marinated overnight in reduced green curry, then grilled over coals till the coconut paste glazes into sticky char.*
 
 **Serves:** 4 (as a side) or 2 (as a main with rice)

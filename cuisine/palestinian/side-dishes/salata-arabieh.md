@@ -1,6 +1,7 @@
 # Salata Arabieh
 
 ![Salata Arabieh](resources/salata-arabieh.jpg)
+
 *Palestine's everyday salad: tomato, cucumber and onion diced fine, dressed with lemon, olive oil, sumac, parsley and mint.*
 
 **Serves:** 4

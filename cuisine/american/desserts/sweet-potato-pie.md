@@ -1,6 +1,7 @@
 # Sweet Potato Pie
 
 ![Sweet Potato Pie](resources/sweet-potato-pie.jpg)
+
 *The Southern Thanksgiving pie that crosses every African-American holiday table, Kwanzaa included. Smoother, lighter and more aromatic than pumpkin: roasted sweet potato whipped with butter, eggs, brown sugar and a quiet handful of spices, in an all-butter shortcrust shell.*
 
 **Serves:** 8

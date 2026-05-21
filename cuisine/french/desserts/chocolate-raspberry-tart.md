@@ -4,9 +4,10 @@
 
 *A French tart: a sweet shortcrust shell filled with a dark chocolate ganache and scattered with fresh raspberries.*
 
-
 **Serves:** 8
+
 **Prep Time:** 30 minutes
+
 **Cook Time:** 30 minutes
 
 ## Overview

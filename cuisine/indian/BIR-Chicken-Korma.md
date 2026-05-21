@@ -4,8 +4,6 @@
 
 *The BIR chicken korma: pre-cooked chicken in a sweet, mild creamy sauce of ground almond, coconut, sugar and cream.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

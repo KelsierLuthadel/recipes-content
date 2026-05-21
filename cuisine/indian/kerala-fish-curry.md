@@ -1,6 +1,7 @@
 # Kerala Fish Curry
 
 ![Kerala Fish Curry](resources/kerala-fish-curry.jpg)
+
 *Coastal Kerala fish curry: firm white fish simmered in a coconut-and-tamarind gravy fragranced with curry leaves, fenugreek and shallots. Bright red, sharp and rich at once.*
 
 **Serves:** 4

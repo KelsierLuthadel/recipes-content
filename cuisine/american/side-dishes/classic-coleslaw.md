@@ -1,6 +1,7 @@
 # Classic Coleslaw
 
 ![Classic Coleslaw](resources/classic-coleslaw.jpg)
+
 *Cabbage, carrot, onion, and a tangy mayo dressing. The barbecue and burger sidekick; better made the day before so the cabbage softens slightly and the dressing soaks in. The shop-bought kind doesn't compare.*
 
 **Serves:** 6-8

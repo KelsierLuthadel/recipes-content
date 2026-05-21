@@ -1,18 +1,14 @@
 # Brioche Dough
 
-*The French enriched dough: bread flour kneaded with eggs, butter, milk and a touch of sugar. The base for buns, loaves and pithiviers.*
-
-
-**Prep Time:** 5 minutes
-**Cook Time:** 31 minutes
-
 ![Brioche dough](resources/brioche.jpg)
 
-*This classic French dough can be frozen, well wrapped, for up to 2 weeks.*
+*The French enriched dough: bread flour kneaded with eggs, butter, milk and a touch of sugar. The base for buns, loaves and pithiviers.*
 
-*You will need a buttered brioche mould, measure 16 cm across the top, 8 cm across the base once the dough has rested in the refrigerator.*
+**Prep Time:** 5 minutes
 
-**Serve:** 1.2kg yield
+**Cook Time:** 31 minutes
+
+**Yield:** 1.2 kg
 
 ## Overview
 The quintessential French enriched yeast dough featuring butter and eggs for unmatched richness and tender crumb. This silky, golden dough is the foundation for elegant brioches, pastries, and breakfast breads. The long refrigeration develops flavor and makes the dough easier to shape. A showstopper on any breakfast or dessert table.
@@ -74,3 +70,6 @@ Best enjoyed: Warm from the oven with butter and jam, or sliced for French toast
 - Freezes well unbaked (shape, then freeze before proofing) for up to 3 months
 - Can be gently reheated in a 160°C oven for 8-10 minutes
 - Day-old brioche is excellent for French toast
+
+*This classic French dough can be frozen, well wrapped, for up to 2 weeks.*
+*You will need a buttered brioche mould, measure 16 cm across the top, 8 cm across the base once the dough has rested in the refrigerator.*

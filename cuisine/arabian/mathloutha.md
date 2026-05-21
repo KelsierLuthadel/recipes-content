@@ -1,6 +1,7 @@
 # Mathloutha
 
 ![Mathloutha](resources/mathloutha.jpg)
+
 *A Saudi celebration platter: chicken, lamb and beef cooked together on the same spiced basmati rice. Made when one cut isn't enough; eaten communally.*
 
 **Serves:** 8

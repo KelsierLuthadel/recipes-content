@@ -1,16 +1,15 @@
 # Bloomer Loaf Shaping
 
-*A British bloomer: dough shaped into a long flat oval and slashed diagonally across the top.*
-
-
-**Cook Time:** 1 minutes
-
 ![Bloomer Step 1](resources/bloomer-1.jpg)
 
-*The bloomer shape is a distinctly British bread form: cylindrical with slightly tapered ends, flat on the bottom, and topped with a series of evenly-spaced diagonal slashes. The shaping technique creates a distinctive silhouette and allows flour scoring to create a characteristic crust pattern when baked.*
+*A British bloomer: dough shaped into a long flat oval and slashed diagonally across the top.*
+
+**Cook Time:** 1 minute
 
 **Rising Time:** 45-60 minutes (final proof)
+
 **Baking Time:** 30-35 minutes (depending on dough recipe)
+
 **Yield:** 1 bloomer loaf, 10-12 slices
 
 ## Overview
@@ -109,3 +108,6 @@ Presentation: Striking appearance due to scored slashes; impressive for entertai
 - Store in paper bag at room temperature up to 2 days
 - After 2 days, slice and freeze for up to 1 month
 - Do not refrigerate; cold stales bread faster
+
+
+*The bloomer shape is a distinctly British bread form: cylindrical with slightly tapered ends, flat on the bottom, and topped with a series of evenly-spaced diagonal slashes. The shaping technique creates a distinctive silhouette and allows flour scoring to create a characteristic crust pattern when baked.*

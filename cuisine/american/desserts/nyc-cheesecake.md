@@ -1,6 +1,7 @@
 # New York Cheesecake
 
 ![New York Cheesecake](resources/nyc-cheesecake.jpg)
+
 *Brooklyn's dense baked cheesecake: cream cheese, sour cream and eggs on a graham-cracker base, baked long and slow in a water bath.*
 
 **Serves:** 12

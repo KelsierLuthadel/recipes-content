@@ -4,7 +4,6 @@
 
 *A Cajun take on mac and cheese: macaroni baked in a cheddar-and-cream sauce spiked with Cajun seasoning.*
 
-
 **Serves:** 6 to 8
 
 **Prep Time:** 10 minutes

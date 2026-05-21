@@ -1,6 +1,7 @@
 # Shiro Wat
 
 ![Shiro Wat](resources/shiro-wat.jpg)
+
 *A creamy Ethiopian chickpea-flour stew: chickpea flour whisked into spiced onion and tomato until it thickens to a smooth, savoury, paprika-orange porridge. The everyday vegan main of Ethiopia, eaten constantly during fasting periods.*
 
 **Serves:** 4

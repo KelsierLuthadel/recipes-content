@@ -4,8 +4,6 @@
 
 *A BIR Charsi Karahi: bone-in chicken seared in a wok with tomato, ginger, green chilli and black pepper.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 5 minutes

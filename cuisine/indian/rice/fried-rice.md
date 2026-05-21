@@ -5,6 +5,7 @@
 *This is a light, aromatic fried rice perfumed with fresh lemon and garlic. The technique is simple but precise: cold cooked rice, hot oil, fragrant aromatics, and a quick toss. You can get really creative with fried rice; for onion fried rice, simply fry some onion in the oil then stir in the cold, cooked rice.*
 
 **Serves:** 2
+
 **Prep Time:** 10 minutes
 
 ## Overview

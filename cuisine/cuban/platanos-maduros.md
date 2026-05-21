@@ -1,6 +1,7 @@
 # Plátanos Maduros
 
 ![Plátanos Maduros](resources/platanos-maduros.jpg)
+
 *Sweet ripe plantains, sliced and pan-fried until the edges caramelise to deep mahogany and the centres turn jammy and almost custard-like. The Cuban side that doubles as a dessert, depending on how you look at it.*
 
 **Serves:** 4

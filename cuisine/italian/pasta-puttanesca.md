@@ -1,6 +1,7 @@
 # Pasta Puttanesca
 
 ![Pasta Puttanesca](resources/pasta-puttanesca.jpg)
+
 *Naples-style sauce of tomatoes, anchovies, capers, olives and garlic, traditionally served over spaghetti. The bold-flavoured "anything in the cupboard" pasta. Etymology disputed; the name translates as "whore-style" with several origin stories of varying credibility.*
 
 **Serves:** 4

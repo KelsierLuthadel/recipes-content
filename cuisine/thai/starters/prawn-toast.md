@@ -4,8 +4,6 @@
 
 *Thailand's prawn toast: prawn paste seasoned with garlic, coriander root and fish sauce.*
 
-
-
 **Serves:** 6 or more
 
 **Prep Time:** 15 minutes

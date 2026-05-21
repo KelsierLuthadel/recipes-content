@@ -1,6 +1,7 @@
 # British Apple Pie
 
 ![British Apple Pie](resources/apple-pie.jpg)
+
 *Double-crust shortcrust pie filled with cinnamon-spiced apples. The American/British family standby; equally at home for a Sunday lunch as a Boxing Day pudding. The apples should be a mix of cooking and eating types so some break down and some hold their shape.*
 
 **Serves:** 8

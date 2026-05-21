@@ -1,6 +1,7 @@
 # Chebakia (Sesame Honey Rosettes)
 
 ![Chebakia](resources/chebakia.jpg)
+
 *Morocco's Ramadan rosette: a sesame-and-almond dough cut and twisted into ornate flowers, deep-fried, plunged into warm honey, dusted with more sesame.*
 
 **Serves:** Makes about 30 chebakia

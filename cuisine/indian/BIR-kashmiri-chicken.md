@@ -4,8 +4,6 @@
 
 *A BIR Kashmiri chicken: pre-cooked chicken in a sweet creamy sauce with lychees, banana and coconut.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

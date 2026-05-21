@@ -1,6 +1,7 @@
 # Pesto Babka
 
 ![Pesto Babka](resources/pesto-babka.jpg)
+
 *The savoury cousin of the chocolate babka. Enriched braided dough rolled around a layer of basil pesto and grated cheddar, twisted into a wreath, baked golden. Sliced warm, eaten with soup or pulled apart on a brunch table.*
 
 **Serves:** 8 (one wreath)

@@ -1,6 +1,7 @@
 # Mazondo
 
 ![Mazondo](resources/mazondo.jpg)
+
 *Zimbabwe's spicy stewed cow trotters: a sticky, gelatinous, deeply savoury sharing dish, simmered long with onion, tomato, garlic and chilli.*
 
 **Serves:** 6 as a starter

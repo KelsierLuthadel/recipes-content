@@ -1,6 +1,7 @@
 # Baleadas
 
 ![Baleadas](resources/baleadas.jpg)
+
 *Honduras' national snack: a thick soft flour tortilla folded around refried beans, a slick of mantequilla and a sprinkle of crumbled cheese.*
 
 **Serves:** 4 (8 baleadas)

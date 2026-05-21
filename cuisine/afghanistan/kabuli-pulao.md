@@ -1,6 +1,7 @@
 # Kabuli Pulao
 
 ![Kabuli Pulao](resources/kabuli-pulao.jpg)
+
 *Afghanistan's national dish: long-grain basmati cooked with tender lamb, topped with sweet-cooked carrots, raisins and toasted nuts. Celebration food.*
 
 **Serves:** 6

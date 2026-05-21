@@ -1,6 +1,7 @@
 # Mutabbal Shawandar
 
 ![Mutabbal Shawandar](resources/mutabbal-shawandar.jpg)
+
 *Syria's beetroot mutabbal: roasted beetroot blended with tahini, lemon, garlic and yogurt into a vivid magenta dip. Earthy and bright.*
 
 **Serves:** 4 as a mezze

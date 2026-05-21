@@ -1,6 +1,7 @@
 # Black-Eyed Peas
 
 ![Black-Eyed Peas](resources/black-eyed-peas.jpg)
+
 *The Southern good-luck bean. Slow-simmered with smoked ham hock, onion, garlic and a bay leaf until the broth turns silky and faintly smoky. Eaten on New Year's Day for luck, and on the Kwanzaa table as one of the ancestral African-diaspora dishes.*
 
 **Serves:** 6 as a side

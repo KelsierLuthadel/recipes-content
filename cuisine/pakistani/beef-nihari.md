@@ -1,6 +1,7 @@
 # Beef Nihari
 
 ![Beef Nihari](resources/beef-nihari.jpg)
+
 *Karachi's breakfast of kings: bone-in beef shank simmered overnight in spiced stock till the meat falls apart and the broth is glossy with marrow.*
 
 **Serves:** 6

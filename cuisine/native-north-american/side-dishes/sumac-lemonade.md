@@ -1,6 +1,7 @@
 # Sumac Lemonade
 
 ![Sumac Lemonade](resources/sumac-lemonade.jpg)
+
 *The Eastern Woodlands' summer drink: red sumac drupes steeped cold and sweetened with maple. Caffeine-free, sharp, rose-tinged.*
 
 **Serves:** 4 (makes about 1.2 litres)

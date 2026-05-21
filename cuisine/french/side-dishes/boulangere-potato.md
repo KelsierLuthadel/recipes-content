@@ -5,7 +5,9 @@
 *This classic French dish is simply potatoes with sliced onions and cooked in stock. It marries perfectly well with roast loin or leg of lamb.*
 
 **Serves:** 4
+
 **Prep Time:** 10 minutes
+
 **Cook Time:** 46 minutes
 
 ## Overview

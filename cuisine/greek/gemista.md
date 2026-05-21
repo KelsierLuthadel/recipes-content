@@ -1,6 +1,7 @@
 # Gemista
 
 ![Gemista](resources/gemista.jpg)
+
 *Greece's stuffed peppers and tomatoes: vegetables hollowed and filled with a herb-heavy rice mix with pine nuts and currants, slow-baked in a tray.*
 
 **Serves:** 4-6

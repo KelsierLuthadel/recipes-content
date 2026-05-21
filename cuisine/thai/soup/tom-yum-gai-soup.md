@@ -4,8 +4,6 @@
 
 *Thailand's tom yum gai: chicken in a hot-and-sour broth of lemongrass, galangal, kaffir lime, fish sauce and chilli.*
 
-
-
 **Serves:** 4-6
 
 **Prep Time:** 10 minutes

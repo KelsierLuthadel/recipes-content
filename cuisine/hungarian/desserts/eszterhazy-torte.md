@@ -1,6 +1,7 @@
 # Eszterházy Torte
 
 ![Eszterházy Torte](resources/eszterhazy-torte.jpg)
+
 *Hungary's aristocrat cake: five almond meringue discs sandwiched with cognac French buttercream, topped with white fondant and a chocolate spider-web.*
 
 **Serves:** 12

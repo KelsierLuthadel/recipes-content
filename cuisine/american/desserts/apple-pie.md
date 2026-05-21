@@ -1,6 +1,7 @@
 # Apple Pie
 
 ![Apple Pie](resources/apple-pie.jpg)
+
 *The American apple pie: double-crust, made-from-scratch, cooked-down apple filling spiced with cinnamon and a touch of nutmeg, sealed in flaky butter pastry, the top vented or lattice-cut. The crust shatters in shards; the filling is just-set, neither runny nor solid. Eats warm with a scoop of vanilla ice cream.*
 
 **Serves:** 8

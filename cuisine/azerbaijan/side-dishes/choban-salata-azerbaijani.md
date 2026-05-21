@@ -1,6 +1,7 @@
 # Choban Salata (Azerbaijani Shepherd's Salad)
 
 ![Choban Salata](resources/choban-salata-azerbaijani.jpg)
+
 *Azerbaijan's shepherd's salad: tomato, cucumber and red onion diced fine, tossed with dill, mint and tarragon, dressed with olive oil and lemon.*
 
 **Serves:** 4

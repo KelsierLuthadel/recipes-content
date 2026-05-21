@@ -4,8 +4,6 @@
 
 *Thailand's pork-and-vegetable spring rolls: thin rice-paper wrappers around a filling of pork mince, shredded carrot.*
 
-
-
 **Makes:** 30
 
 **Prep Time:** 30 minutes

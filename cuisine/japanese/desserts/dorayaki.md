@@ -1,6 +1,7 @@
 # Dorayaki
 
 ![Dorayaki](resources/dorayaki.jpg)
+
 *Japan's pancake sandwich: two honey-sweetened domed discs pressed around a generous spoon of sweet red bean paste.*
 
 **Serves:** 6 (makes 6 dorayaki - 12 pancake discs)

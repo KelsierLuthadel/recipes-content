@@ -1,6 +1,7 @@
 # Cacio E Pepe
 
 ![Cacio e Pepe](resources/cacio-e-pepe.jpg)
+
 *Roman pasta with three ingredients: Pecorino Romano, black pepper, pasta. Looks easy, isn't. The cheese must emulsify into the starchy water without scrambling. Worth practising; the result is the most luxurious cheese-and-pepper sauce you can make.*
 
 **Serves:** 2

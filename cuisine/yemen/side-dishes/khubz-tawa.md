@@ -1,6 +1,7 @@
 # Khubz Tawa
 
 ![Khubz Tawa](resources/khubz-tawa.jpg)
+
 *Yemen's griddle bread: a soft lightly leavened flatbread cooked on a hot dry pan or iron tawa. Pliable enough to fold around grilled meat.*
 
 **Serves:** 4 (makes 6 breads)

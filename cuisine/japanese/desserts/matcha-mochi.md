@@ -1,6 +1,7 @@
 # Matcha Mochi
 
 ![Matcha Mochi](resources/matcha-mochi.jpg)
+
 *Japan's bright-green mochi: chewy glutinous rice cakes flavoured with matcha, sometimes filled with sweet bean paste. Dusted with starch.*
 
 **Serves:** 6 (makes 12 mochi)

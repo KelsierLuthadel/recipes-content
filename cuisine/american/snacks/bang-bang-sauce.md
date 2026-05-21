@@ -1,6 +1,7 @@
 # Bang Bang Sauce
 
 ![Bang Bang Sauce](resources/bang-bang-sauce.jpg)
+
 *The creamy pink sauce. Mayo, sweet chilli sauce, sriracha. Three ingredients, two minutes, infinite uses. Born in American sit-down restaurants as a dip for crispy shrimp; works on chicken tenders, fries, burgers, salads, anything that wants a sweet-spicy creamy hit.*
 
 **Serves:** Makes ¾ cup

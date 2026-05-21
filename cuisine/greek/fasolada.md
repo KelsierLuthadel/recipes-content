@@ -1,6 +1,7 @@
 # Fasolada
 
 ![Fasolada](resources/fasolada.jpg)
+
 *Greek white bean soup: cannellini or butter beans simmered with carrot, celery, onion and tomato, finished with olive oil and lemon. Considered the unofficial national dish; everyday food, serious soul.*
 
 **Serves:** 6

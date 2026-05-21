@@ -1,6 +1,7 @@
 # Pisto Manchego
 
 ![Pisto Manchego](resources/pisto-manchego.jpg)
+
 *La Mancha's slow-cooked pepper, courgette, aubergine and tomato stew, eaten as a tapa, a side, or with a fried egg dropped on top as a main. Nothing rushed: each vegetable cooks separately or in stages so they each retain their character before the lot melds into a sweet, oily, deeply ripe stew.*
 
 **Serves:** 4

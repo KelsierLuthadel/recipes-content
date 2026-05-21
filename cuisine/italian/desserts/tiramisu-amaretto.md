@@ -4,11 +4,9 @@
 
 *A tiramisu with amaretto: espresso-soaked savoiardi layered with a mascarpone cream spiked with amaretto liqueur, dusted thickly with cocoa.*
 
-
 **Serves:** 4
-**Prep Time:** 5 minutes
 
-*The Amaretto in this Tiramisu really enhances the flavour and aroma of this classic Italian dessert.*
+**Prep Time:** 5 minutes
 
 ## Ingredients
 - 90 ml  Amaretto liqueur
@@ -48,3 +46,6 @@ Serve directly from chilled glasses, using a spoon to enjoy the layered presenta
 ## Storage
 Assembled tiramisu keeps refrigerated in a covered container for up to 3 days; the flavors actually improve over time as the coffee and Amaretto integrate. Do not freeze, as the whipped cream texture deteriorates. Dust with cocoa powder only immediately before serving. The unassembled components (egg mixture, whipped cream) should not be made more than 2-3 hours ahead.
 
+
+
+*The Amaretto in this Tiramisu really enhances the flavour and aroma of this classic Italian dessert.*

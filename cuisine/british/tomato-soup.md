@@ -4,16 +4,14 @@
 
 *The British tomato soup: ripe tomatoes simmered with onion, carrot and basil, blended smooth, finished with cream and a swirl of olive oil.*
 
-
-*This soup stands up as either a start or a main course, and can either be served as a stew or as a purée. If serving as a purée, then adding a little cream at the end makes this soup wonderfully smooth. The real beauty of course is how simple it is to make, especially when served with fresh warm bread and topped with croûtons. 
-
-This soup can be served as a vegetarian dish, by removing the bacon and substituting the chicken stock with vegetable stock.*
-
 **Serves:** 6 - 8
 
 **Prep Time:** 20 minutes
 
 **Cook Time:** 45 minutes
+
+*This soup stands up as either a start or a main course, and can either be served as a stew or as a purée. If serving as a purée, then adding a little cream at the end makes this soup wonderfully smooth. The real beauty of course is how simple it is to make, especially when served with fresh warm bread and topped with croûtons. 
+This soup can be served as a vegetarian dish, by removing the bacon and substituting the chicken stock with vegetable stock.*
 
 ## Overview
 This classic tomato soup is rich, comforting, and versatile, made with fresh tomatoes, vegetables, and herbs. It can be served chunky as a stew or blended into a smooth puree, with the option to add cream for extra smoothness. Simple to prepare yet full of flavor, it's perfect for any meal.

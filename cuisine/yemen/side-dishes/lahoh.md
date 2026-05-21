@@ -1,6 +1,7 @@
 # Lahoh
 
 ![Lahoh](resources/lahoh.jpg)
+
 *Yemeni sourdough flatbread, cooked on a hot dry pan: spongy, tangy, full of small even holes like an English crumpet, but pliable and torn rather than buttered. Eaten with saltah, fahsa or anything brothy that needs scooping. The fermentation gives it a slight sourness; the holes catch the sauce.*
 
 **Serves:** 4 (makes 6 lahoh)

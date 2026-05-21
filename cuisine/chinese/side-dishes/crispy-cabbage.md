@@ -4,9 +4,6 @@
 
 *This recipe dispels the myth that cabbage is tasteless and soggy, the crisp saltiness of the cabbage marries well with anything from a roast dinner to a Chinese dish.*
 
-*It is important that when frying the cabbage to place a lid on the pan, as the high water content in the cabbage will cause the oil to spit.*
-
-
 **Serves:** 4 - 6
 
 ## Overview
@@ -40,3 +37,5 @@ Amount: a generous handful per person as a side
 ## Storage
 - Best eaten immediately, the cabbage loses its crispiness quickly once cooked.
 - Not suitable for refrigerating or reheating as the texture will become limp.
+
+*It is important that when frying the cabbage to place a lid on the pan, as the high water content in the cabbage will cause the oil to spit.*

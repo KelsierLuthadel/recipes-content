@@ -5,6 +5,7 @@
 *A mild lamb curry: shanks simmered tender in a deep masala. Diners add chilli, lemon, ginger and coriander at the table. Excellent for entertaining.*
 
 **Serves:** 4
+
 **Prep Time:** 20 minutes
 
 ## Overview

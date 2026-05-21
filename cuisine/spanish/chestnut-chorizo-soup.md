@@ -4,8 +4,6 @@
 
 *Sopa de Castañas*
 
-*This recipe is based on the classic flavours of the mountainous regions of Spain where sweet chestnuts thrive, producing a warm and comforting autumnal soup.*
-
 **Serves:** 4
 
 **Prep Time:** 20 minutes
@@ -85,3 +83,6 @@ Serve hot with crusty bread or a dollop of sour cream. Garnish with extra thyme 
 - Refrigerate up to 3 days; flavors improve overnight.
 - Freezes well for up to 2 months.
 - Best eaten warm; reheat gently.
+
+
+*This recipe is based on the classic flavours of the mountainous regions of Spain where sweet chestnuts thrive, producing a warm and comforting autumnal soup.*

@@ -1,6 +1,7 @@
 # Bessara
 
 ![Bessara](resources/bessara.jpg)
+
 *Egypt's winter fava dip: dried fava beans simmered soft, blended with garlic and cumin, swirled with green oil. Served with hot baladi bread.*
 
 **Serves:** 4

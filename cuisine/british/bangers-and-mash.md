@@ -1,6 +1,7 @@
 # Bangers and Mash
 
 ![Bangers and Mash](resources/bangers-and-mash.jpg)
+
 *Pork sausages with buttery mash and slow-cooked onion gravy. The British pub plate that costs nothing, takes thirty minutes, and tastes like home cooking. Use the best sausages you can find; they're 80% of the dish.*
 
 **Serves:** 4

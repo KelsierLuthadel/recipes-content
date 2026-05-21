@@ -1,13 +1,10 @@
 # Thai Vinaigrette
 
-*A Thai-style vinaigrette: fish sauce, lime juice, palm sugar, garlic and chilli whisked together.*
-
-
-**Prep Time:** 10 minutes
-
 ![Thai Vinaigrette](resources/thai.png)
 
-*This aromatic Southeast Asian dressing combines lemongrass, fresh coriander, and traditional fish sauce with light rice wine vinegar. Perfect for noodle salads, vegetable preparations, or as a dipping sauce for spring rolls and grilled meats.*
+*A Thai-style vinaigrette: fish sauce, lime juice, palm sugar, garlic and chilli whisked together.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 300 milliliters (10 servings)
 
@@ -93,3 +90,5 @@ Application: Dress salads immediately before serving; excess soaking time wilts 
 - The complete dressing will keep refrigerated for 1-2 days but deteriorates in flavor quality significantly after 24 hours.
 - Do not freeze; oils become cloudy, fish sauce flavor becomes unpleasant, and fresh herb character is lost entirely.
 - Best consumed within 2 hours of final preparation (after herbs are added) for maximum freshness and aroma.
+
+*This aromatic Southeast Asian dressing combines lemongrass, fresh coriander, and traditional fish sauce with light rice wine vinegar. Perfect for noodle salads, vegetable preparations, or as a dipping sauce for spring rolls and grilled meats.*

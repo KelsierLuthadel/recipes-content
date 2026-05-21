@@ -1,6 +1,7 @@
 # Khobz (Moroccan Round Flatbread)
 
 ![Khobz](resources/khobz.jpg)
+
 *Morocco's everyday round bread: a slightly enriched semolina-and-flour dough baked into a flat disc. Torn at the table to scoop up tagines.*
 
 **Serves:** Makes 4 loaves

@@ -1,6 +1,7 @@
 # Lugaimat
 
 ![Lugaimat](resources/lugaimat.jpg)
+
 *A Khaleeji Ramadan sweet: small balls of yeasted batter deep-fried golden, drenched in date syrup or saffron sugar syrup, sprinkled with sesame.*
 
 **Serves:** 6 (makes about 40 small balls)

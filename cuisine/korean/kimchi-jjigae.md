@@ -1,6 +1,7 @@
 # Kimchi Jjigae
 
 ![Kimchi Jjigae](resources/kimchi-jjigae.jpg)
+
 *Korean kimchi stew: aged sour kimchi simmered with pork belly, tofu, gochujang and a touch of doenjang into a fiery red broth. The hangover/comfort/cold-night staple. Better the older the kimchi.*
 
 **Serves:** 4

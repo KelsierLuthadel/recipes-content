@@ -1,6 +1,7 @@
 # Egusi Soup
 
 ![Egusi Soup](resources/egusi-soup.jpg)
+
 *Nigeria's defining stew: ground melon seeds simmered with palm oil, smoked fish, meat and greens. Eaten with fufu by the fingers.*
 
 **Serves:** 6

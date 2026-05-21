@@ -1,6 +1,7 @@
 # Prawn Cocktail
 
 ![Prawn Cocktail](resources/prawn-cocktail.jpg)
+
 *The British seventies dinner-party throwback, refusing to die because it's actually good. Cooked prawns on shredded lettuce, smothered in a mayo-ketchup-Worcestershire sauce, paprika dusted, lemon wedge. Five minutes; all the joy of nostalgia.*
 
 **Serves:** 4

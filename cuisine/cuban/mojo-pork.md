@@ -1,6 +1,7 @@
 # Mojo Pork
 
 ![Mojo Pork](resources/mojo-pork.jpg)
+
 *Slow-roasted pork shoulder, the surface crackling and bronze, the inside falling into garlicky shreds that smell of bitter orange, cumin and toasted oregano. It is the smell of Cuban Sunday lunch, of Nochebuena, of family kitchens with the windows fogged.*
 
 **Serves:** 8

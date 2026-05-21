@@ -1,6 +1,7 @@
 # Caponata
 
 ![Caponata](resources/caponata.jpg)
+
 *Sicily's sweet-and-sour aubergine relish: fried aubergine folded through a celery-and-tomato base with olives, capers and pine nuts.*
 
 **Serves:** 6 (as a side)

@@ -1,13 +1,10 @@
 # Cajun Spice Mix
 
-*Louisiana's Cajun blackening blend: paprika, cayenne, garlic powder, onion powder, oregano and thyme.*
-
-
-**Prep Time:** 10 minutes
-
 ![Cajun Spice Mix](resources/cajun-spice-mix.jpg)
 
-*This iconic Cajun spice mix is famous in Louisiana classics such as gumbo and jambalaya. It also works beautifully in stews, thick soups, blackened fish, and any dish requiring bold, earthy, warming spices.*
+*Louisiana's Cajun blackening blend: paprika, cayenne, garlic powder, onion powder, oregano and thyme.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 100-120 grams (makes 20-25 portions)
 
@@ -90,3 +87,5 @@ Temperature: Works best in longer-cooked dishes where flavors have time to meld
 - Thaw in refrigerator before use
 - Check for mold or off odors before using after 2 weeks
 - Fresh-made is significantly better than stored; make in batches as needed
+
+*This iconic Cajun spice mix is famous in Louisiana classics such as gumbo and jambalaya. It also works beautifully in stews, thick soups, blackened fish, and any dish requiring bold, earthy, warming spices.*

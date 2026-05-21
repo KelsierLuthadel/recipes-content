@@ -1,14 +1,12 @@
 # Madrasi Masala Paste
 
-*A South Indian wet paste: dry-roasted curry leaves, chilli and coriander pounded with garlic, ginger and oil.*
-
-
-**Prep Time:** 15 minutes
-**Cook Time:** 2 minutes
-
 ![Madrasi Masala Paste](resources/madrasi-masala-paste.jpg)
 
-*Madras is heat delivered with complexity. This paste combines dry-roasted spices ground to powder with aromatic oil-cooked ingredients, creating a foundation for fierce curries that have structure beneath the kick.*
+*A South Indian wet paste: dry-roasted curry leaves, chilli and coriander pounded with garlic, ginger and oil.*
+
+**Prep Time:** 15 minutes
+
+**Cook Time:** 2 minutes
 
 **Yield:** Approximately 450 grams
 
@@ -124,3 +122,5 @@ Temperature: Requires cooking in hot oil before use
 - Always use clean, dry spoons when removing paste
 - Do not freeze
 - Label jars with preparation date; check odor before each use
+
+*Madras is heat delivered with complexity. This paste combines dry-roasted spices ground to powder with aromatic oil-cooked ingredients, creating a foundation for fierce curries that have structure beneath the kick.*

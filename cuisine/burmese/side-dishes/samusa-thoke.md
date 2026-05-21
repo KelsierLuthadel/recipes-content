@@ -1,6 +1,7 @@
 # Samusa Thoke
 
 ![Samusa Thoke](resources/samusa-thoke.jpg)
+
 *The Burmese street salad: broken samusas tossed in a thick yellow split-pea broth with crispy bits, raw onion, lime and coriander. A meal in a bowl.*
 
 **Serves:** 4

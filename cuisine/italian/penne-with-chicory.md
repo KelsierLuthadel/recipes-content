@@ -5,7 +5,9 @@
 *Penne alla trevisana, Italian sausage, crumbled and browned, meets bitter red chicory that wilts then absorbs the wine-enriched sauce. A slight cream finish adds richness without overwhelming the delicate interplay between the sausage's seasoning and chicory's subtle bitterness. Top-quality sausages are essential.*
 
 **Serves:** 4
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 4 minutes
 
 ## Overview

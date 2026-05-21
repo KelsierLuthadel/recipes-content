@@ -1,6 +1,7 @@
 # Lahori Mutton Yakhni Pulao
 
 ![Lahori Mutton Yakhni Pulao](resources/lahori-mutton-yakhni-pulao.jpg)
+
 *The wedding-table pulao: basmati cooked in a slow-simmered mutton broth fragrant with whole spices and bone marrow. Lahori cuisine's quietest pinnacle, all about the stock.*
 
 **Serves:** 6

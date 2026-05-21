@@ -1,6 +1,7 @@
 # Pita
 
 ![Pita](resources/pita.jpg)
+
 *The Middle Eastern pocket bread: a thin round of yeasted dough baked at extreme heat so it puffs into a perfect hollow balloon, then deflates leaving a pocket for stuffing. The everyday bread of Israel, Lebanon, Palestine, Syria, Jordan, Egypt. Stuffed with falafel, shawarma, schnitzel, or torn for scooping hummus.*
 
 **Serves:** 4 (makes 8 pitas)

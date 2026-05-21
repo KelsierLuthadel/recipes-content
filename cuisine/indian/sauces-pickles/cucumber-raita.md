@@ -5,6 +5,7 @@
 *Cucumber raita is a wonderfully refreshing accompaniment that cools and soothes the palate after spicy curries. Cool yoghurt suspends delicate diced cucumber and green chilli for a dish that's as simple as it is essential at the Indian table.*
 
 **Serves:** 4
+
 **Prep Time:** 10 minutes
 
 ## Overview

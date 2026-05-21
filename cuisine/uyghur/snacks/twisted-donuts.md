@@ -1,6 +1,7 @@
 # Uyghur Twisted Donuts
 
 ![Uyghur Twisted Donuts](resources/twisted-donuts.jpg)
+
 *Uyghur fried-dough ropes: hand-twisted into spirals and deep-fried till golden, then dusted with icing sugar. A milk-tea companion across Xinjiang.*
 
 **Serves:** Makes 7 twists

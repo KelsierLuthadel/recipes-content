@@ -1,6 +1,7 @@
 # Sambousek Jibneh
 
 ![Sambousek Jibneh](resources/sambousek-jibneh.jpg)
+
 *The Arabian cheese sambousek: half-moon pastries filled with akkawi, halloumi and parsley, deep-fried or baked golden.*
 
 **Serves:** 4 (makes 24 sambousek)

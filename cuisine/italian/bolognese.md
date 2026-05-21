@@ -5,7 +5,9 @@
 *This rich, fragrant Bolognese sauce is the heart of Italian home cooking. Whether served over fresh pasta or layered in lasagne, its deep, complex flavor develops through patient, slow simmering. Homemade passata elevates this further.*
 
 **Serves:** 4
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 4 hours
 
 ## Overview

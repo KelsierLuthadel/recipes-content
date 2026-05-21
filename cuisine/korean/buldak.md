@@ -1,6 +1,7 @@
 # Buldak
 
 ![Buldak](resources/buldak.jpg)
+
 *Korea's fire chicken: boneless thighs marinated in a vivid red sauce of gochujang, gochugaru, soy and garlic, pan-grilled hot, topped with melted mozzarella.*
 
 **Serves:** 4

@@ -1,14 +1,12 @@
 # Chinese Pancakes
 
-*China's paper-thin pancakes: a hot-water dough rolled in pairs with oil between, griddled dry and peeled apart.*
-
-
-**Prep Time:** 5 minutes
-**Cook Time:** 4 minutes
-
 ![Chinese Pancakes](resources/chinese-pancakes.jpg)
 
-*These thin, crispy-edged pancakes are made by layering two thin dough discs with sesame oil between them, creating steam pockets that allow them to separate after cooking. Serve as a vehicle for soups, curries, or stir-fries, they're sophisticated yet simple.*
+*China's paper-thin pancakes: a hot-water dough rolled in pairs with oil between, griddled dry and peeled apart.*
+
+**Prep Time:** 5 minutes
+
+**Cook Time:** 4 minutes
 
 **Yield:** 9 pancakes (made from 18 dough balls, serves 3-4)
 
@@ -112,3 +110,5 @@ Vessel: Stack on a warm plate, loosely covered with foil to retain heat
 - Refrigerate uncooked dough for up to 3 days; allow to come to room temperature before rolling and cooking
 - Freeze cooked pancakes: stack between parchment paper and freeze in a bag for up to 1 month; thaw and reheat as above
 - Do not freeze uncooked paired pancakes; thawing creates condensation that ruins the oil layer
+
+*These thin, crispy-edged pancakes are made by layering two thin dough discs with sesame oil between them, creating steam pockets that allow them to separate after cooking. Serve as a vehicle for soups, curries, or stir-fries, they're sophisticated yet simple.*

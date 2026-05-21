@@ -1,6 +1,7 @@
 # Key Lime Pie
 
 ![Key Lime Pie](resources/key-lime-pie.jpg)
+
 *Florida's state pie: a graham-cracker crust holding a tart lime-and-condensed-milk filling, set by acid, topped with whipped cream.*
 
 **Serves:** 8

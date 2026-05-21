@@ -1,6 +1,7 @@
 # Buffalo Chicken Stuffed Sweet Potatoes
 
 ![Buffalo Chicken Stuffed Sweet Potatoes](resources/buffalo-chicken-stuffed-sweet-potatoes.jpg)
+
 *Sweet potatoes baked till tender then split and stuffed with shredded chicken tossed in buffalo sauce and crumbled blue cheese. The sweet potato base balances the fire of the sauce; the blue cheese adds the funky-cool counterpoint. Lighter than a traditional buffalo chicken plate without losing the spice.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Takoyaki
 
 ![Takoyaki](resources/takoyaki.jpg)
+
 *Osaka's octopus balls: a dashi-spiked batter cooked in a dimpled pan around chunks of octopus, finished with sauce and dancing bonito.*
 
 **Serves:** 4 (makes about 30 takoyaki)

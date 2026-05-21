@@ -1,6 +1,7 @@
 # Sheer Khurma
 
 ![Sheer Khurma](resources/sheer-khurma.jpg)
+
 *The Eid morning dessert: vermicelli toasted in ghee, simmered in milk with dates, almonds, pistachios and cashews, scented with cardamom and saffron. The name means "milk with dates" in Persian, and it's eaten as a breakfast on Eid al-Fitr — first thing, after the morning prayers, before the rest of the day's feasting begins.*
 
 **Serves:** 8

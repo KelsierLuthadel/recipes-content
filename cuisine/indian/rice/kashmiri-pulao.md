@@ -1,6 +1,7 @@
 # Kashmiri Pulao
 
 ![Kashmiri Pulao](resources/kashmiri-pulao.jpg)
+
 *Saffron rice studded with nuts, dried fruit and pomegranate. The fragrant Kashmiri counterpart to a biryani; sweet, floral, gentle on the heat.*
 
 **Serves:** 4-6

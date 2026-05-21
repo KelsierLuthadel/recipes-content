@@ -5,7 +5,9 @@
 *Italy's potato pillows: oven-baked potatoes pushed through a ricer with minimal flour and an egg yolk, boiled till they float and tossed in your sauce.*
 
 **Serves:** 6
+
 **Prep Time:** 10 minutes
+
 **Cook Time:** 3 hours
 
 ## Overview

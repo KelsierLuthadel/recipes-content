@@ -1,6 +1,7 @@
 # Chicken Liver Pâté
 
 ![Chicken Liver Pâté](resources/chicken-liver-pate.jpg)
+
 *Smooth, butter-rich pâté: chicken livers fried fast in butter and brandy, blitzed silky with extra butter, set in a terrine. Serve cold with toasted brioche or sourdough and a sharp chutney. The classic dinner-party first course; keeps a week in the fridge.*
 
 **Makes:** 1 small terrine (8 servings)

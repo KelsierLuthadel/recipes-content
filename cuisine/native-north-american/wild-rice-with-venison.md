@@ -1,6 +1,7 @@
 # Wild Rice with Venison
 
 ![Wild Rice with Venison](resources/wild-rice-with-venison.jpg)
+
 *A Great Lakes one-pot: hand-harvested wild rice stewed with venison shoulder, dried mushrooms, juniper and a final spoon of maple.*
 
 **Serves:** 4

@@ -5,7 +5,9 @@
 *Mee goreng (literally "fried noodles") is a hawker classic across Indonesia and Malaysia, a fast wok-fried tangle of noodles with kecap manis, soy and a hit of shrimp paste.*
 
 **Serves:** 2
+
 **Prep Time:** 10 minutes
+
 **Cook Time:** 10 minutes
 
 ## Overview

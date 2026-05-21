@@ -1,6 +1,7 @@
 # Coco Bread
 
 ![Coco Bread](resources/coco-bread.jpg)
+
 *Jamaica's folded coconut-milk roll: soft, slightly sweet and pillowy, with a faint coconut sweetness. The traditional wrap for a Jamaican beef patty.*
 
 **Serves:** Makes 8 rolls

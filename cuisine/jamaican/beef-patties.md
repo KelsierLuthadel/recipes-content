@@ -1,6 +1,7 @@
 # Jamaican Beef Patties
 
 ![Jamaican Beef Patties](resources/beef-patties.jpg)
+
 *Jamaica's yellow-pastry handheld: a turmeric-curry shortcrust folded around a spiced beef filling with allspice, thyme, Scotch bonnet and scallion. Baked golden.*
 
 **Serves:** Makes 8 patties

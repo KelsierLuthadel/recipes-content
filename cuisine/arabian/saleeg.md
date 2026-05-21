@@ -1,6 +1,7 @@
 # Saleeg
 
 ![Saleeg](resources/saleeg.jpg)
+
 *A Hijazi speciality: short-grain rice cooked in chicken broth and full-cream milk into a creamy savoury porridge, topped with butter-glazed chicken.*
 
 **Serves:** 4

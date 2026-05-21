@@ -1,6 +1,7 @@
 # Goan Cucumber Salad
 
 ![Goan Cucumber Salad](resources/goan-cucumber-salad.jpg)
+
 *Goan cucumber kosambari: chopped cucumber tossed with grated coconut, green chilli, curry leaves and a quick mustard-seed temper. A cooling, crunchy side for any Goan fish or pork main.*
 
 **Serves:** 4

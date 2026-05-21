@@ -1,6 +1,7 @@
 # Miang Kham
 
 ![Miang Kham](resources/miang-kham.jpg)
+
 *Thailand's one-bite parcel: diced lime, ginger, shallot, dried shrimp, peanuts and coconut wrapped in a betel leaf with palm-sugar sauce.*
 
 **Serves:** 4

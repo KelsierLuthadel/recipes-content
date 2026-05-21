@@ -1,6 +1,7 @@
 # Thin Blue Corn Cakes
 
 ![Thin Blue Corn Cakes](resources/thin-blue-corn-cakes.jpg)
+
 *A home version of Hopi piki bread: paper-thin blue cornmeal pancakes cooked one at a time on a hot griddle. Served with stew.*
 
 **Serves:** 4 (makes 8 large thin cakes)

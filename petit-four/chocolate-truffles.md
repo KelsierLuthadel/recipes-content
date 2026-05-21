@@ -1,13 +1,10 @@
 # Chocolate Truffles
 
-*Hand-rolled chocolate truffles: a ganache of dark chocolate and cream chilled till firm, rolled into balls and dusted in cocoa.*
-
-
-**Prep Time:** 10 minutes
-
 ![Chocolate Truffles](resources/chocolate-truffles.jpg)
 
-*These dark, rich truffles are sophisticated petit fours made from silky chocolate ganache enhanced with Armagnac. Dust-coated in cocoa powder, they are elegant served with pre-dinner drinks or after formal dinners alongside strong coffee.*
+*Hand-rolled chocolate truffles: a ganache of dark chocolate and cream chilled till firm, rolled into balls and dusted in cocoa.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 80 truffles
 
@@ -137,3 +134,5 @@ Context: Formal dinners, afternoon gatherings, gift presentations, elegant final
 - Keep away from direct heat and humidity (both cause cocoa powder to stick and presentation to suffer)
 - Allow to come to room temperature before serving for optimal texture and flavor expression.
 - Alcohol content helps preserve these; they will keep longer than non-alcoholic ganache confections.
+
+*These dark, rich truffles are sophisticated petit fours made from silky chocolate ganache enhanced with Armagnac. Dust-coated in cocoa powder, they are elegant served with pre-dinner drinks or after formal dinners alongside strong coffee.*

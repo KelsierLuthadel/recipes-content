@@ -1,6 +1,7 @@
 # Khao Niao
 
 ![Khao Niao](resources/khao-niao.jpg)
+
 *Thailand's sticky rice: glutinous grains steamed in a bamboo cone until they cling together. Pinched into balls and dipped in everything.*
 
 **Serves:** 4 (with mains)

@@ -1,6 +1,7 @@
 # Pecan Pralines
 
 ![Pecan Pralines](resources/pecan-pralines.jpg)
+
 *A New Orleans candy: brown sugar, butter, cream and toasted pecans cooked to soft-ball, beaten till it sugars, dropped onto parchment.*
 
 **Serves:** Makes about 20 pralines

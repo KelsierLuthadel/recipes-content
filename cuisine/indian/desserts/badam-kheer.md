@@ -1,6 +1,7 @@
 # Badam Kheer
 
 ![Badam Kheer](resources/badam-kheer.jpg)
+
 *A pale-gold almond pudding, scented with saffron and cardamom and finished with slivered pistachios. The kind of dessert that's spooned warm into small bowls on Diwali night, or chilled for a hot afternoon. Both work; both are right.*
 
 **Serves:** 6

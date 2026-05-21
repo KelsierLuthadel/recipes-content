@@ -5,7 +5,9 @@
 *A simple white-and-red pizza given lift by crisp slices of smoked pancetta, peppery rocket and a drizzle of Caesar dressing. The pancetta is crisped separately so it stays crunchy on the finished pizza.*
 
 **Serves:** 1 to 2
+
 **Prep Time:** 10 minutes
+
 **Cook Time:** 15 minutes
 
 ## Overview

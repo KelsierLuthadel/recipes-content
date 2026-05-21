@@ -1,6 +1,7 @@
 # Mujadara
 
 ![Mujadara](resources/mujadara.jpg)
+
 *Lebanon's poor-man's-feast: brown lentils and rice cooked together with deeply caramelised onion folded through, crisp fried onions piled on top.*
 
 **Serves:** 4

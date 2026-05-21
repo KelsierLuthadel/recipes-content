@@ -1,6 +1,7 @@
 # Baklava with Rose, Cardamom and Pistachio
 
 ![Baklava with Rose, Cardamom and Pistachio](resources/baklava-rose-cardamom-pistachio.jpg)
+
 *The Levantine-leaning baklava. Filo cylinders filled with pistachio crushed with cardamom and icing sugar, baked to a deep gold, and drenched in a rose-scented sugar syrup. Floral, warm, light. The version that lands closest to the dessert tray at a Beirut bakery.*
 
 **Serves:** 12

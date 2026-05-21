@@ -1,6 +1,7 @@
 # Beef and Guinness Stew
 
 ![Beef and Guinness Stew](resources/beef-and-guinness-stew.jpg)
+
 *The St. Patrick's Day pot. Chunks of beef browned hard, simmered slow in a sauce thickened by stout and sweetened by long-cooked onions, with carrots, potatoes and pearl barley. The smell of malt and bay leaf in the kitchen all afternoon.*
 
 **Serves:** 6

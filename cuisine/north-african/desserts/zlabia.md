@@ -1,6 +1,7 @@
 # Zlabia
 
 ![Zlabia](resources/zlabia.jpg)
+
 *The Maghreb's iftar sweet: a thin yeasted batter piped into hot oil in lacy spirals, then drenched in honey-rose syrup till amber-glossy.*
 
 **Serves:** Makes about 20 zlabia

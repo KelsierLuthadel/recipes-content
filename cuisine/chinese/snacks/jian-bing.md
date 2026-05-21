@@ -1,6 +1,7 @@
 # Jian Bing
 
 ![Jian Bing](resources/jian-bing.jpg)
+
 *Beijing's morning street crepe: a mung-bean batter griddled thin, with egg, bean sauce, herbs and a sheet of crisp wonton folded inside.*
 
 **Serves:** 4 (makes 4 jian bing)

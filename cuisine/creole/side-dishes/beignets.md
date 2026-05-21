@@ -1,6 +1,7 @@
 # Beignets
 
 ![Beignets](resources/beignets.jpg)
+
 *The New Orleans pillowy fritter: a yeasted dough rolled thin, cut into squares and fried till puffed and pale gold. Doused in a snowdrift of icing sugar.*
 
 **Serves:** 6 (makes about 30)

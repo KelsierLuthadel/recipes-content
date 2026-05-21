@@ -1,6 +1,7 @@
 # Samosa Pakistani
 
 ![Samosa Pakistani](resources/samosa-pakistani.jpg)
+
 *Pakistan's beef samosa: triangular fried pastries stuffed with spiced minced beef and peas. Served with tamarind and mint chutneys.*
 
 **Serves:** 6 (makes 20 samosas)

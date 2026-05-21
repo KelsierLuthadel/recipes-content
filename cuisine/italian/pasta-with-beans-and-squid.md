@@ -5,6 +5,7 @@
 *Orecchiette con calamari e chorizo, the flavors and colours of this dish are simply amazing. Shell pasta captures the delicate sauce in its curves, while squid, chorizo, beans, and tomatoes create complexity and visual appeal. This is a perfect party pasta.*
 
 **Serves:** 6
+
 **Prep Time:** 15 minutes
 
 ## Overview

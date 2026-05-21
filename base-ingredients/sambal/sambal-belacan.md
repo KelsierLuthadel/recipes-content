@@ -1,14 +1,12 @@
 # Sambal Belacan
 
-*Malaysia's everyday chilli paste: fresh red chillies pounded with toasted belacan (shrimp paste) and lime juice.*
-
-
-**Prep Time:** 10 minutes
-**Cook Time:** 14 minutes
-
 ![Sambal Belacan](resources/sambal-belacan.jpg)
 
-*This is the sambal of champions, pungent, assertive shrimp paste tamed by heat and citrus, counterbalanced only by fiery chillies that match its intensity. Belacan, the fermented shrimp paste that gives this sambal its character, is not for the faint-hearted. In Southeast Asia, this powerful condiment is served in small quantities with rice dishes, the starch tempering both heat and umami fermentation.*
+*Malaysia's everyday chilli paste: fresh red chillies pounded with toasted belacan (shrimp paste) and lime juice.*
+
+**Prep Time:** 10 minutes
+
+**Cook Time:** 14 minutes
 
 **Yield:** Approximately 40-50 grams (makes 8-10 teaspoons)
 
@@ -104,3 +102,5 @@ Application: A small spoonful or teaspoon portion served on the side of the plat
 - Does not keep at room temperature due to fresh chilli content
 - Check for any mold or musty smell before using
 - Traditional practice: make fresh before serving, this is a fresh condiment, not meant for long storage
+
+*This is the sambal of champions, pungent, assertive shrimp paste tamed by heat and citrus, counterbalanced only by fiery chillies that match its intensity. Belacan, the fermented shrimp paste that gives this sambal its character, is not for the faint-hearted. In Southeast Asia, this powerful condiment is served in small quantities with rice dishes, the starch tempering both heat and umami fermentation.*

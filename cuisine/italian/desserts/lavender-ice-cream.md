@@ -4,8 +4,6 @@
 
 *Adding double cream makes this classic ice cream extra rich and creamy.*
 
-
-
 **Serves:** 
 
 ## Ingredients

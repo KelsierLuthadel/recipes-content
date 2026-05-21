@@ -4,13 +4,12 @@
 
 *China's sizzling rice prawn: prawns in a savoury sauce poured over fried crispy rice cakes at the table.*
 
-
 ## Overview
 This is a dramatic dish sure to earn you compliments. Moderately easy to make but requiring organisation and some Chinese cooking experience. The key to success is that both the prawn sauce mixture and rice cake must be fairly hot, this creates a dramatic, theatrical sizzle when they combine. A showstopping presentation perfect for entertaining.
 
 **Serves:** 6-8
 **Prep Time:** 20 minutes
-**Cook Time:** 1 minutes
+**Cook Time:** 1 minute
 
 ## Ingredients
 

@@ -1,6 +1,7 @@
 # Authentic Cajun Gumbo
 
 ![Authentic Cajun Gumbo](resources/authentic-cajun-gumbo.jpg)
+
 *Louisiana's everything gumbo: chicken, andouille, crab and shrimp in a deep-chocolate roux base. The 30-minute stirred roux is what makes it Cajun.*
 
 **Serves:** 8-10

@@ -5,7 +5,9 @@
 *A versatile, elegant sponge sheet that can be piped or spread to any thickness and shape, then immediately inverted and filled or rolled, providing the perfect foundation for Swiss rolls, filled layer cakes, and creative pastry applications.*
 
 **Prep Time:** 20 minutes
+
 **Cook Time:** 6-10 minutes
+
 **Yield:** 1 sheet cake, portioned as desired
 
 ## Overview

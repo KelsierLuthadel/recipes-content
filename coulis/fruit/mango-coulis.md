@@ -5,6 +5,7 @@
 *This fragrant coulis can be served topped with soft poached meringues, as a variation of the classic floating islands, which uses a base of crème anglaise.*
 
 **Serves:** 6
+
 **Prep Time:** 10 minutes
 
 ## Overview

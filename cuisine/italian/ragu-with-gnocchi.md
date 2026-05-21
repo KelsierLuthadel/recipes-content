@@ -2,11 +2,12 @@
 
 ![Ragù with GnocchiW](resources/ragu-with-gnocchi.jpg)
 
-
 *A technique-driven ragù using French and European cooking principles for maximum depth, richness, and complexity. Slow-cooked for 4 ½ hours with layered caramelisation at every stage.*
 
 **Serves:** 4-6
+
 **Prep Time:** 25 minutes
+
 **Cook Time:** 2 hours 34 minutes
 
 ## Overview

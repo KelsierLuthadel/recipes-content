@@ -1,6 +1,7 @@
 # Hyderabadi Mutton Biryani
 
 ![Hyderabadi Mutton Biryani](resources/hyderabadi-mutton-biryani.jpg)
+
 *Hyderabad's biryani: raw mutton marinated in yogurt, layered uncooked with par-cooked basmati, sealed under dough and slow-cooked in its own steam.*
 
 **Serves:** 6

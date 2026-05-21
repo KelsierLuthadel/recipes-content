@@ -4,8 +4,6 @@
 
 *Thailand's sweet crispy chicken wings: wings marinated in fish sauce and rice flour, deep-fried till the skin shatters.*
 
-
-
 **Makes:** 12
 
 **Prep Time:** 10 minutes

@@ -4,9 +4,8 @@
 
 *The mincemeat for these pies needs to macerate for at least 2 weeks before using, so make it well in advance. You'll have more than you need for one batch of pies; save the rest for the following year when it will taste even better.*
 
-*Make the mince pies a few days before Christmas and store in a dry place.*
-
 **Serves:** 48
+
 **Prep Time:** 20 minutes
 
 ## Overview
@@ -74,3 +73,5 @@ Accompaniment: Classic pairing with hot coffee or mulled wine
 - Freezes well up to 3 months (freeze baked pies or unbaked dough)
 - Best eaten warm on the day of baking
 - Can be gently reheated in a 160°C oven for 5 minutes
+
+*Make the mince pies a few days before Christmas and store in a dry place.*

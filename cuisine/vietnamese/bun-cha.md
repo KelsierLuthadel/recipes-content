@@ -5,7 +5,9 @@
 *Bun cha is a Hanoi street-food classic of grilled pork over rice vermicelli, with a sweet, sour, salty fish-sauce dipping broth and a tangle of fresh herbs.*
 
 **Serves:** 6
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 1 hour
 
 ## Overview

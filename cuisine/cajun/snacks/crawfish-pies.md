@@ -1,6 +1,7 @@
 # Crawfish Pies
 
 ![Crawfish Pies](resources/crawfish-pies.jpg)
+
 *Egg-sized Cajun hand pies: a flaky savoury crust hiding a buttery roux-bound filling of crawfish étouffée with the trinity and hot sauce.*
 
 **Serves:** Makes 12 pies (4-6 servings)

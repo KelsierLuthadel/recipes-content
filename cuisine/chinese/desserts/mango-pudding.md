@@ -1,6 +1,7 @@
 # Mango Pudding
 
 ![Mango Pudding](resources/mango-pudding.jpg)
+
 *Hong Kong's cold dessert: a wobbly pale-orange pudding of ripe mango set with gelatin, lightened with evaporated milk and cream.*
 
 **Serves:** 6 (one per dariole mould or small bowl)

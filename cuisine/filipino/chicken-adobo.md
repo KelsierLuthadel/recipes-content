@@ -1,6 +1,7 @@
 # Chicken Adobo
 
 ![Chicken Adobo](resources/chicken-adobo.jpg)
+
 *The Filipino national dish: chicken simmered in soy sauce, vinegar, garlic and bay until the sauce reduces to a glossy, salty-sour glaze. The simplest serious dish you'll cook. Adobo means "marinade" in Spanish; here it's the cooking method, not the marinade.*
 
 **Serves:** 4

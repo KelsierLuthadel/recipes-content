@@ -5,7 +5,9 @@
 *This luxury cheesecake is made in a pastry case rather than with a biscuit base, but none the less it is still an elegant tart with a delicious mouth-watering finish.*
 
 **Serves:** 8
+
 **Prep Time:** 35 minutes
+
 **Cook Time:** 90 minutes
 
 ## Overview

@@ -1,6 +1,7 @@
 # Lavash
 
 ![Lavash](resources/lavash.jpg)
+
 *The Caucasus' paper-thin flatbread: just flour, water and salt rolled obsessively thin and cooked seconds on a hot stone. Wraps grilled meat.*
 
 **Serves:** Makes 8 sheets (each about 35 × 25 cm)

@@ -1,6 +1,7 @@
 # Creamy Jalapeño Sauce
 
 ![Creamy Jalapeño Sauce](resources/jalapeno-sauce.jpg)
+
 *The Mexican-food drizzle. Pickled jalapeños, sour cream, mayo and a fistful of coriander blitzed smooth with a garlic clove and a squeeze of lime. Bright, tangy, mildly spicy. Cures any taco that needs a sauce.*
 
 **Serves:** Makes 1 cup (16-20 tacos worth, or 3-4 burritos)

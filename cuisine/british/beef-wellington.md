@@ -1,6 +1,7 @@
 # Beef Wellington
 
 ![Beef Wellington](resources/beef-wellington.jpg)
+
 *Britain's showpiece roast: a whole seared beef fillet slathered in mushroom duxelles and prosciutto, wrapped in puff pastry and baked till mahogany.*
 
 **Serves:** 6

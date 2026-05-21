@@ -1,6 +1,7 @@
 # Marraqueta
 
 ![Marraqueta](resources/marraqueta.jpg)
+
 *Chile's everyday bread: a small crusty four-segment roll that pulls apart cleanly along its deep score. Eaten with butter, avocado or cheese.*
 
 **Serves:** 8 (makes 8 small rolls, in 4-segment shapes)

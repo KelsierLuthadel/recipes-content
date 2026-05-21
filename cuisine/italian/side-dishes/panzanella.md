@@ -1,6 +1,7 @@
 # Panzanella
 
 ![Panzanella](resources/panzanella.jpg)
+
 *Tuscany's summer salad: torn day-old bread soaked in red wine vinegar and oil, tossed with ripe tomatoes, cucumber, onion and basil.*
 
 **Serves:** 4 (as a starter or side)

@@ -5,7 +5,9 @@
 *Tagliatelle con salsicce e porcini, Italian sausage, crumbled and fried until caramelized, meets earthy reconstituted porcini and fresh rosemary in a rich cream sauce. Each strand of fresh pasta carries this luxurious, warming sauce that whispers of Italian mountains and the depth of wild mushrooms.*
 
 **Serves:** 4
+
 **Prep Time:** 10 minutes
+
 **Cook Time:** 4 minutes
 
 ## Overview

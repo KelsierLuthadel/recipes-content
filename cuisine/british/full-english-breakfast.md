@@ -1,6 +1,7 @@
 # Full English Breakfast
 
 ![Full English Breakfast](resources/full-english-breakfast.jpg)
+
 *The Saturday-morning plate that breaks every modern food rule and gets away with it. Sausage, egg, bacon, black pudding, fried bread, chips, grilled tomato and baked beans on one platter. The trick is staging: nothing should be cold when you sit down, and the eggs go on last.*
 
 **Serves:** 2

@@ -1,6 +1,7 @@
 # Nokedli
 
 ![Nokedli](resources/nokedli.jpg)
+
 *Hungary's everyday dumpling: rough, comma-shaped scraps of egg-and-flour batter pushed through a spätzle plane into boiling water. The Central-European cousin of spätzle, served as the standard side under chicken paprikash, pörkölt, goulash sauces and anything else with gravy to soak up.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Madghoot
 
 ![Madghoot](resources/madghoot.jpg)
+
 *Saudi Arabia's pressure-cooked rice and lamb: bone-in shoulder marinated in baharat and dried lime, cooked fast with onion, basmati and stock.*
 
 **Serves:** 4

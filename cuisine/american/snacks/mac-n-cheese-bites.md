@@ -1,6 +1,7 @@
 # Mac 'n' Cheese Bites
 
 ![Mac 'n' Cheese Bites](resources/mac-n-cheese-bites.jpg)
+
 *Bar-snack fritter: cold leftover mac-and-cheese cubed, dredged in seasoned breadcrumbs and deep-fried till the shell shatters and the inside oozes.*
 
 **Serves:** Makes 24 bites (serves 4-6 as a snack)

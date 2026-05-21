@@ -4,8 +4,6 @@
 
 *Garlicky salt and pepper pork ribs: ribs marinated in soy and Shaoxing, dredged in cornflour.*
 
-
-
 **Serves:** 2-4
 
 **Prep Time:** 10 minutes

@@ -1,13 +1,10 @@
 # Tomato Vinaigrette
 
-*A tomato vinaigrette: ripe tomato blended smooth with olive oil, sherry vinegar and basil.*
-
-
-**Prep Time:** 5 minutes
-
 ![Tomato Vinaigrette](resources/tomato.png)
 
-*This bright, summer-forward dressing is made from fresh tomato juice balanced with sherry vinegar and enriched with delicate olive oil. Its fresh basil finish and subtle heat make it ideal for pasta salads, warm vegetable preparations, and tomato-forward dishes.*
+*A tomato vinaigrette: ripe tomato blended smooth with olive oil, sherry vinegar and basil.*
+
+**Prep Time:** 5 minutes
 
 **Yield:** Approximately 200 milliliters (6 servings)
 
@@ -86,3 +83,5 @@ Application: Dress salads or vegetables immediately before serving; this dressin
 - Separation is normal and expected; whisk or shake gently before each use.
 - Do not freeze; tomato juice becomes watery and oil properties degrade.
 - Best consumed within 1 hour of final preparation for maximum freshness and aromatic basil character.
+
+*This bright, summer-forward dressing is made from fresh tomato juice balanced with sherry vinegar and enriched with delicate olive oil. Its fresh basil finish and subtle heat make it ideal for pasta salads, warm vegetable preparations, and tomato-forward dishes.*

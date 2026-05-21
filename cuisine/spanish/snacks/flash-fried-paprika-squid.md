@@ -5,6 +5,7 @@
 *These quick fried squid are good served with a dry sherry as an appetizer or part of a mixed tapas. For a starter, serve them on a bed of salad leaves.*
 
 **Serves:** 4
+
 **Prep Time:** 15 minutes
 
 ## Overview

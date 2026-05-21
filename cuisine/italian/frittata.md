@@ -1,6 +1,7 @@
 # Frittata
 
 ![Frittata](resources/frittata.jpg)
+
 *Italian flat omelette: eggs and whatever vegetables, herbs and cheese the fridge offers, started on the hob and finished under the grill. Eats hot, warm or cold. The oldest leftover-redemption dish in Italian cooking.*
 
 **Serves:** 4-6

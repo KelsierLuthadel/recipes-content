@@ -1,6 +1,7 @@
 # Bobotie
 
 ![Bobotie](resources/bobotie.jpg)
+
 *South Africa's national dish: spiced minced beef baked under a savoury egg-and-milk topping, with bay leaves stuck on top to perfume the surface.*
 
 **Serves:** 6

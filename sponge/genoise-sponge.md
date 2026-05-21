@@ -5,7 +5,9 @@
 *The classic French butter sponge, Génoise is baked the day before serving, creating a tender, fine crumb that pairs beautifully with cream fillings, fruit, or traditional and chocolate trifles.*
 
 **Prep Time:** 15 minutes
+
 **Cook Time:** 30 minutes
+
 **Yield:** 1 sponge cake (size varies by mould used)
 
 ## Overview

@@ -4,7 +4,6 @@
 
 *A Chinese-American orange beef: crispy beef strips tossed in a sweet-savoury sauce of orange juice, zest, soy and ginger. Sticky and bright.*
 
-
 ## Overview
 This is a northern Chinese beef speciality that lends itself to using dried tangerine peel. The Chinese always use peel that has been dried, and the older the peel, the more prized the flavour. The combination creates a sophisticated, citrus-forward sauce that balances the richness of beef beautifully.
 

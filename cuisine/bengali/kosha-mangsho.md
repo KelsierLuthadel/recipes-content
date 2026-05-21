@@ -1,6 +1,7 @@
 # Kosha Mangsho
 
 ![Kosha Mangsho](resources/kosha-mangsho.jpg)
+
 *Mahogany-dark mutton clings to its bones in a glossy reduction of caramelised onion, ginger, garlic and mustard oil. Cardamom, cinnamon and clove rise from the pot; the meat falls apart at the press of a spoon. This is the Sunday lunch and wedding feast of Bengal, the dish that earns a cook their reputation.*
 
 **Serves:** 6

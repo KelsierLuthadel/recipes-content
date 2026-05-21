@@ -1,14 +1,12 @@
 # Onion Bhajis
 
-*India's onion bhajis: sliced onion bound in a spiced gram-flour batter and deep-fried into crisp golden clusters.*
-
-
-**Prep Time:** 10 minutes
-**Cook Time:** 1 minutes
-
 ![Onion Bhajis](resources/onionbhajji.jpg)
 
-*A popular accompaniment to a takeaway curry, onion bhajis are irresistible. When they are freshly made and served with cucumber and yoghurt relish, they make the perfect vegetarian snack food.*
+*India's onion bhajis: sliced onion bound in a spiced gram-flour batter and deep-fried into crisp golden clusters.*
+
+**Prep Time:** 10 minutes
+
+**Cook Time:** 1 minute
 
 **Yield:** 15 bhajis (serves 4)
 
@@ -81,3 +79,5 @@ Vessels: Serve on a warm plate lined with kitchen paper
 - Refrigerate cooked bhajis in an airtight container for 1 day (they soften)
 - Reheat in a 160°C oven for 6-8 minutes to re-crisp
 - Do not freeze; texture degrades significantly
+
+*A popular accompaniment to a takeaway curry, onion bhajis are irresistible. When they are freshly made and served with cucumber and yoghurt relish, they make the perfect vegetarian snack food.*

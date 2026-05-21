@@ -1,6 +1,7 @@
 # Maklouba
 
 ![Maklouba](resources/maklouba.jpg)
+
 *Palestine's upside-down rice: aubergine, cauliflower, tomato, chicken and rice layered in a pot, cooked together, then flipped onto a platter as a striped tower.*
 
 **Serves:** 6

@@ -5,7 +5,9 @@
 *This classic Norman dish pairs tender chicken with the region's signature ingredients: dry cider, apples, and rich crème fraîche. The result is a delicate, slightly sweet sauce that celebrates simplicity and regional tradition.*
 
 **Serves:** 6-8
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 12 minutes
 
 ## Overview

@@ -1,6 +1,7 @@
 # Pork Souvlaki
 
 ![Pork Souvlaki](resources/pork-souvlaki.jpg)
+
 *Greek pork skewers: cubed pork shoulder marinated in lemon, olive oil, oregano and garlic, then grilled over high heat. Served with pita, tzatziki, salad and grilled vegetables. The Athens lunch counter staple.*
 
 **Serves:** 4

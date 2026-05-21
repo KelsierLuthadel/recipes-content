@@ -1,6 +1,7 @@
 # Flan de Huevo (Spanish Egg Flan)
 
 ![Flan de Huevo](resources/flan-de-huevo.jpg)
+
 *Spain's national pudding: a lighter caramel custard of whole eggs and milk, inverted onto a plate so the amber caramel pours down the dome.*
 
 **Serves:** 6

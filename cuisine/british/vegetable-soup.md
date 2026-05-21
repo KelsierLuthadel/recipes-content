@@ -4,7 +4,6 @@
 
 *A British vegetable soup: leek, potato, carrot, celery and onion simmered in chicken or vegetable stock till tender.*
 
-
 **Serves:** 6
 
 **Prep Time:** 15 minutes

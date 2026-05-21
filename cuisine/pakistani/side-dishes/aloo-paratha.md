@@ -1,6 +1,7 @@
 # Aloo Paratha
 
 ![Aloo Paratha](resources/aloo-paratha.jpg)
+
 *Punjab's stuffed flatbread: whole-wheat dough rolled around spiced mashed potato, cooked on a hot tawa with ghee till blistered and crisp.*
 
 **Serves:** 4 (makes 8 parathas)

@@ -1,6 +1,7 @@
 # Klepon
 
 ![Klepon](resources/klepon.jpg)
+
 *Indonesia's bite-sized sweet: bright-green pandan glutinous rice balls with a molten palm-sugar centre, rolled in fresh grated coconut.*
 
 **Serves:** Makes 20 balls (serves 4)

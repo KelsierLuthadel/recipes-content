@@ -1,6 +1,7 @@
 # Garlic Bok Choy
 
 ![Garlic Bok Choy](resources/garlic-bok-choy.jpg)
+
 *The Cantonese restaurant side: small heads of bok choy blanched briefly, then stir-fried hard with sliced garlic and a glossy slick of oyster sauce.*
 
 **Serves:** 4 (as a side)

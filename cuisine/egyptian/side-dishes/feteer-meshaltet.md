@@ -1,6 +1,7 @@
 # Feteer Meshaltet
 
 ![Feteer Meshaltet](resources/feteer-meshaltet.jpg)
+
 *Egypt's pillowy pastry-bread: a simple flour-and-water dough stretched paper-thin, folded with ghee into many layers, then baked. Eaten with honey.*
 
 **Serves:** 4 (makes 2 layered breads)

@@ -1,6 +1,7 @@
 # Maamoul
 
 ![Maamoul](resources/maamoul.jpg)
+
 *The Middle East's holiday cookie: semolina shortbread shells pressed in carved wooden moulds and stuffed with date, walnut or pistachio paste.*
 
 **Makes:** 30 cookies

@@ -1,6 +1,7 @@
 # Empanadas Colombianas
 
 ![Empanadas Colombianas](resources/empanadas-colombianas.jpg)
+
 *Colombia's snack-counter empanadas: deep-fried half-moons of yellow corn dough filled with a spiced beef-and-potato mash. Served with fresh ají.*
 
 **Serves:** 6 (makes 18-20)

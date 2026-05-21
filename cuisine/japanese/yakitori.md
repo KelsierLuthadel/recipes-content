@@ -1,6 +1,7 @@
 # Yakitori
 
 ![Yakitori](resources/yakitori.jpg)
+
 *Skewered grilled chicken in a glossy soy-mirin tare. Izakaya street food at its most pure: chicken thigh, scallion, sometimes liver or skin, all charred over high heat and brushed with the sticky house sauce. Eat off the skewer.*
 
 **Serves:** 4 (about 12 skewers)

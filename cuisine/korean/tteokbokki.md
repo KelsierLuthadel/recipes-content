@@ -1,6 +1,7 @@
 # Tteokbokki
 
 ![Tteokbokki](resources/tteokbokki.jpg)
+
 *Korean spicy rice cakes: cylindrical Korean rice cakes (tteok) simmered in a sweet-spicy gochujang-based sauce with fish cakes, boiled egg and spring onion. Sold from every Seoul street cart in deep red sauce with steam rising. Chewy, sticky, sweet-hot. The classic Korean street snack, also a dinner-time comfort.*
 
 **Serves:** 4

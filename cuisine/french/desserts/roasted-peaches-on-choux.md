@@ -5,6 +5,7 @@
 *This is a lovely way to serve fresh peaches at the height of their season. For the best flavour, use perfectly ripe fruit.*
 
 **Serves:** 4
+
 **Prep Time:** 10 minutes
 
 ## Ingredients

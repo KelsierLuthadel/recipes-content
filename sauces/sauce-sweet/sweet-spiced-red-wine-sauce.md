@@ -5,6 +5,7 @@
 *This sauce goes perfectly with peaches or pears, or to enhance the flavour of a moulded rice pudding. You can also churn the sauce to make an excellent sorbet, just stir in 75 ml water before churning.*
 
 **Serves:** 8
+
 **Prep Time:** 10 minutes
 
 ## Overview

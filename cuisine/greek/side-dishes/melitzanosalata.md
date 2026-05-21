@@ -1,6 +1,7 @@
 # Melitzanosalata (Greek Aubergine Dip)
 
 ![Melitzanosalata](resources/melitzanosalata.jpg)
+
 *Greece's smoky aubergine dip: charred aubergine roughly mashed with garlic, lemon, olive oil and parsley. No tahini, no tomato.*
 
 **Serves:** 4-6 (makes about 400 g)

@@ -4,7 +4,6 @@
 
 *Thailand's tom yum goong: whole prawns in a hot-and-sour broth of lemongrass, galangal, kaffir lime, lime juice, fish sauce and chilli.*
 
-
 **Serves:** 4 - 6
 
 **Prep Time:** 15 minutes

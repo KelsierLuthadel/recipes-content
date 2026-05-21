@@ -1,6 +1,7 @@
 # Simnel Cake
 
 ![Simnel Cake](resources/simnel-cake.jpg)
+
 *The British Easter cake. A spiced fruit cake with a hidden layer of marzipan baked through the middle and a second layer topped with the eleven apostle balls (Judas excluded). Caramelised under the grill so the marzipan tops go burnished gold.*
 
 **Serves:** 12

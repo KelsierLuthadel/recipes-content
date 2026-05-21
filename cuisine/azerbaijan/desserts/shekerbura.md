@@ -1,6 +1,7 @@
 # Shekerbura
 
 ![Shekerbura](resources/shekerbura.jpg)
+
 *Novruz pastry from Azerbaijan: crescent pies of milk-and-egg dough wrapped around ground walnuts, sugar and cardamom. With strong tea.*
 
 **Serves:** Makes about 24 pieces

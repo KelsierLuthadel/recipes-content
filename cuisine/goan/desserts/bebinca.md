@@ -1,6 +1,7 @@
 # Bebinca
 
 ![Bebinca](resources/bebinca.jpg)
+
 *Goa's most-famous dessert: a layered coconut and egg-yolk cake, grilled one thin layer at a time so each disc has its own caramelised crust. The Christmas-table centrepiece of Goan Catholic homes.*
 
 **Serves:** 12-14

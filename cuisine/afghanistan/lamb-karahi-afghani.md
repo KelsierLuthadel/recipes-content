@@ -1,6 +1,7 @@
 # Lamb Karahi (Afghan Style)
 
 ![Lamb Karahi (Afghan Style)](resources/lamb-karahi-afghani.jpg)
+
 *Slow-cooked lamb shoulder simmered in a thick tomato-and-onion gravy with cumin, coriander, ginger and green chillies, finished with a slick of cooking fat on the surface (the Afghan signature of a properly built curry). Eaten over plain rice or with hot naan; the gravy is the point as much as the meat.*
 
 **Serves:** 4

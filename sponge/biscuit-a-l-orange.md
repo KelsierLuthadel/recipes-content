@@ -5,7 +5,9 @@
 *This elegant sponge can be served either as a complete cake or divided into individual biscuits, bringing citrus brightness and delicate almond character to refined desserts.*
 
 **Prep Time:** 20 minutes
+
 **Cook Time:** 25 minutes
+
 **Yield:** 1 cake (22-25 centimeter ring, 8 servings) or multiple individual cakes
 
 ## Overview

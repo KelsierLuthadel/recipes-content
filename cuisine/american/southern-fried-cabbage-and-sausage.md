@@ -1,6 +1,7 @@
 # Southern Fried Cabbage and Sausage
 
 ![Southern Fried Cabbage and Sausage](resources/southern-fried-cabbage-and-sausage.jpg)
+
 *A one-skillet Southern weeknight: andouille or kielbasa rounds brown in butter, then aromatics build, then cabbage joins in two stages with apple cider vinegar and a touch of brown sugar to balance. Cajun seasoning ties it together. Eats as a side or as a main over rice. Faster than feels possible.*
 
 **Serves:** 4-6

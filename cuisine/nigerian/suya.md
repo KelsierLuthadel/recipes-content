@@ -1,6 +1,7 @@
 # Suya
 
 ![Suya](resources/suya.jpg)
+
 *Nigeria's open-fire skewer: thin strips of marbled beef coated in a peanutty-spicy yaji rub and charred hard over embers.*
 
 **Serves:** 4

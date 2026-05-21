@@ -1,6 +1,7 @@
 # Salad Shirazi
 
 ![Salad Shirazi](resources/salad-shirazi.jpg)
+
 *Persia's everyday cucumber-and-tomato salad, named for the city of Shiraz: tomato, cucumber and onion finely diced, dressed with lime juice, olive oil and dried mint. Eats next to kabab, fesenjan, ghormeh sabzi - anything from the Persian table. The dice is small, almost like a relish; the dried mint is the signature.*
 
 **Serves:** 4

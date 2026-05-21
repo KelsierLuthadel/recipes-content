@@ -1,6 +1,7 @@
 # Miso Soup
 
 ![Miso Soup](resources/miso-soup.jpg)
+
 *The starter to almost every Japanese meal: dashi base, miso paste whisked in off the heat, silken tofu and seaweed. Five minutes start to finish. Critical to never boil the miso once it's in.*
 
 **Serves:** 4

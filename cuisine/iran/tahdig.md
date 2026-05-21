@@ -1,6 +1,7 @@
 # Tahdig
 
 ![Tahdig](resources/tahdig.jpg)
+
 *Persia's signature crispy rice "bottom of the pot": basmati rice cooked first by parboiling, then steamed in a heavy pan with butter and oil, the bottom layer left to crisp into a deep-golden, shatteringly crunchy crust. The diner's contest at every Iranian dinner is who gets the most tahdig.*
 
 **Serves:** 4-6

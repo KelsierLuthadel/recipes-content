@@ -1,6 +1,7 @@
 # Adobong Sitaw
 
 ![Adobong Sitaw](resources/adobong-sitaw.jpg)
+
 *Long beans braised adobo-style: vinegar, soy sauce, garlic, bay and pepper. The beans tenderise in the liquid; everything reduces to a glossy, sharp, savoury glaze. Filipino vegetable cooking at its most direct.*
 
 **Serves:** 4

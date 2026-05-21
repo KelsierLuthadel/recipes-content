@@ -1,6 +1,7 @@
 # Chicharrones
 
 ![Chicharrones](resources/chicharrones.jpg)
+
 *Mexico's pork crackling: dried pork skin plunged into hot oil until it puffs into shattering, salty, weightless clouds.*
 
 **Serves:** 6 (as a snack - makes ~150 g cooked chicharrones from 400 g raw skin)

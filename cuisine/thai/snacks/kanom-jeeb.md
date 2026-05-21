@@ -1,6 +1,7 @@
 # Kanom Jeeb
 
 ![Kanom Jeeb](resources/kanom-jeeb.jpg)
+
 *Thailand's open-topped dumplings: wonton wrappers cupped around a coriander-and-garlic pork-and-prawn filling, steamed and dipped in black soy.*
 
 **Serves:** 4 (makes 20 dumplings)

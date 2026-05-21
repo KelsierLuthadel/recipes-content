@@ -1,6 +1,7 @@
 # Mote Con Huesillos
 
 ![Mote con Huesillos](resources/mote-con-huesillos.jpg)
+
 *Chile's summer drink-dessert: sun-dried peaches rehydrated in spiced sugar syrup, served in a tall glass over cooked husked wheat. Drunk, then spooned.*
 
 **Serves:** 6

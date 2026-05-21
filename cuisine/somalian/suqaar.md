@@ -1,6 +1,7 @@
 # Suqaar
 
 ![Suqaar](resources/suqaar.jpg)
+
 *Somali cubed beef stir-fry: small dice of tender beef sautéed with onion, peppers and Somali spice mix (xawaash), finished with a pat of butter and fresh coriander. The meat stays just-cooked; the vegetables glaze. Eats with rice, anjero (Somali pancake), or stuffed into chapati.*
 
 **Serves:** 4

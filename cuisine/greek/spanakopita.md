@@ -1,6 +1,7 @@
 # Spanakopita
 
 ![Spanakopita](resources/spanakopita.jpg)
+
 *Greek spinach and feta pie: layers of crisp filo enclosing a generously herbed spinach-and-cheese filling. Eats hot as a main, room temperature as a starter, cold from the fridge for breakfast.*
 
 **Serves:** 6-8

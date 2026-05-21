@@ -1,6 +1,7 @@
 # Noodle Kugel
 
 ![Noodle Kugel](resources/noodle-kugel.jpg)
+
 *The Ashkenazi side that crosses every Jewish holiday table. Sweet, dense, buttery: egg noodles bound with cream cheese and sour cream, dotted with raisins, baked until the top is deeply browned and the underside catches against the dish. Eaten warm with the Yom Kippur break-fast or alongside brisket on Sukkot.*
 
 **Serves:** 8 as a side

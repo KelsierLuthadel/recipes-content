@@ -5,6 +5,7 @@
 *For this elegant and delicate dessert, the crunch of the almond caramel coating contrasts beautifully with the silkiness of the apricot mousse.*
 
 **Serves:** 6 - 8
+
 **Prep Time:** 10 minutes
 
 ## Ingredients

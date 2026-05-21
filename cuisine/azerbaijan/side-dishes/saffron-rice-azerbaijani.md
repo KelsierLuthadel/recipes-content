@@ -1,6 +1,7 @@
 # Saffron Rice (Azerbaijani Style)
 
 ![Azerbaijani Saffron Rice](resources/saffron-rice-azerbaijani.jpg)
+
 *The everyday cousin of plov: basmati steamed under a butter-and-saffron crust until the top is stained amber-gold.*
 
 **Serves:** 6

@@ -4,7 +4,6 @@
 
 *A Caribbean fusion: penne tossed in a creamy jerk sauce with sliced peppers in red, yellow and green.*
 
-
 ## Overview
 A vibrant Jamaican pasta dish where tender prawns are coated in jerk seasoning and tossed with peppers, spinach, and a creamy sauce. The jerk spicing brings heat and characteristic Caribbean flavours to this contemporary twist on traditional cuisine.
 

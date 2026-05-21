@@ -1,6 +1,7 @@
 # Watermelon-Feta Salad
 
 ![Watermelon-Feta Salad](resources/watermelon-feta-salad.jpg)
+
 *Cold, jewel-pink cubes of watermelon meet salty crumbles of feta, lifted by torn mint and a sharp hit of lime. The smell is summer itself, sweet melon and herb garden, and the first bite is the kind of cooling contradiction that makes you reach for a second forkful before you have finished the first.*
 
 **Serves:** 6

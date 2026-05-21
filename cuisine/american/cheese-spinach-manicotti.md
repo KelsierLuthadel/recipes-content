@@ -1,6 +1,7 @@
 # Three-Cheese Spinach Manicotti
 
 ![Three-Cheese Spinach Manicotti](resources/cheese-spinach-manicotti.jpg)
+
 *Italian-American baked pasta: manicotti shells stuffed with ricotta, mozzarella, parmesan, blanched spinach, garlic, parsley, basil and oregano, laid on tomato basil sauce in a baking dish, topped with more sauce and the reserved mozzarella, baked until bubbling and golden. Restaurant vibes; weeknight effort.*
 
 **Serves:** 4-6

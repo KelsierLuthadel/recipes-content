@@ -1,6 +1,7 @@
 # Harira
 
 ![Harira](resources/harira.jpg)
+
 *Moroccan tomato-and-lentil soup with chickpeas, lamb (often) and a swarm of spices and herbs. Traditionally served at iftar to break the Ramadan fast; equally good year-round on a cold evening.*
 
 **Serves:** 6-8

@@ -1,14 +1,12 @@
 # Thai Red Curry Paste (Kruang Kaeng Dang)
 
-*Thailand's red curry paste: dried red chillies, lemongrass, galangal, kaffir lime, garlic and shrimp paste pounded into a deep.*
-
-
-**Prep Time:** 15 minutes
-**Cook Time:** 1 minutes
-
 ![Thai Red Curry Paste](resources/thai-red.jpg)
 
-*This wonderful classic curry paste from Thailand has an amazing fragrant characteristic that works beautifully with coconut-based curries. The combination of fresh aromatics, toasted spices, and shrimp paste creates complex depth.*
+*Thailand's red curry paste: dried red chillies, lemongrass, galangal, kaffir lime, garlic and shrimp paste pounded into a deep.*
+
+**Prep Time:** 15 minutes
+
+**Cook Time:** 1 minute
 
 **Yield:** Approximately 175-200 grams
 
@@ -93,3 +91,5 @@ Temperature: Use immediately after making or refrigerate
 - The fresh herbs in this paste don't preserve well; it's best used within 3 days for optimal flavor
 - If storing, pour a thin layer of oil over the surface to help preserve it
 - Do not refrigerate long-term; fresh herbs deteriorate and oxidize
+
+*This wonderful classic curry paste from Thailand has an amazing fragrant characteristic that works beautifully with coconut-based curries. The combination of fresh aromatics, toasted spices, and shrimp paste creates complex depth.*

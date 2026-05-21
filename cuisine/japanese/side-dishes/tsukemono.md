@@ -1,6 +1,7 @@
 # Tsukemono
 
 ![Tsukemono](resources/tsukemono.jpg)
+
 *Japan's quick pickles: cucumber, daikon and cabbage briefly salted and dressed in rice vinegar. The companion to every meal.*
 
 **Serves:** 6 (makes 3 small pickle bowls)

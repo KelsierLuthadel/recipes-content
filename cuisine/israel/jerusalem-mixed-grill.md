@@ -1,6 +1,7 @@
 # Jerusalem Mixed Grill
 
 ![Jerusalem Mixed Grill](resources/jerusalem-mixed-grill.jpg)
+
 *Me'orav Yerushalmi: a fast, hot griddle of chicken livers, hearts and thigh meat with onions, cumin, turmeric and black pepper, stuffed into pita with hummus, pickles and tahini. Born of the Mahane Yehuda market in the 1970s; eats hot, dripping, and one-handed.*
 
 **Serves:** 4

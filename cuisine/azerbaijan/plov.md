@@ -1,6 +1,7 @@
 # Plov
 
 ![Plov](resources/plov.jpg)
+
 *Azerbaijan's wedding rice: basmati steamed under a buttery saffron crust, served with slow-stewed lamb, dried apricots and chestnuts.*
 
 **Serves:** 6

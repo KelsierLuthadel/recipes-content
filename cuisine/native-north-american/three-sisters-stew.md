@@ -1,6 +1,7 @@
 # Three Sisters Stew
 
 ![Three Sisters Stew](resources/three-sisters-stew.jpg)
+
 *The Haudenosaunee winter one-pot built on corn, beans and squash: butternut, hominy and pinto beans simmered slow with sage and a touch of maple.*
 
 **Serves:** 4

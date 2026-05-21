@@ -1,6 +1,7 @@
 # Quzi
 
 ![Quzi](resources/quzi.jpg)
+
 *Iraq's national feast dish: slow-roasted whole lamb (or shoulder) on a mountain of saffron rice, studded with raisins, almonds and pine nuts, often dressed with a thin tomato-and-spice sauce. Served at weddings, holidays, and large family meals; the lamb's juices flavour the rice underneath.*
 
 **Serves:** 6-8

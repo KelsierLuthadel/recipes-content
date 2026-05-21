@@ -1,6 +1,7 @@
 # Sri Lankan Chicken Curry
 
 ![Sri Lankan Chicken Curry](resources/sri-lankan-chicken-curry.jpg)
+
 *Sri Lanka's coconut-rich curry: chicken simmered in coconut milk with toasted whole-spice curry powder, curry leaves, pandan and lemongrass.*
 
 **Serves:** 4

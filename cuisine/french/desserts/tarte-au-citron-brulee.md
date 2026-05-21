@@ -5,7 +5,9 @@
 *This classic tart tastes even better if you make it in advance, and caramelise the surface using a cook's blowtorch.*
 
 **Serves:** 8
+
 **Prep Time:** 35 minutes
+
 **Cook Time:** 1 hour 35 minutes
 
 ## Overview

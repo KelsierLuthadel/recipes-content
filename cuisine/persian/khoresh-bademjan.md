@@ -1,6 +1,7 @@
 # Khoresh Bademjan
 
 ![Khoresh Bademjan](resources/khoresh-bademjan.jpg)
+
 *Persia's aubergine stew: golden-fried aubergines laid over lamb shoulder simmered with onion, turmeric, saffron and yellow split peas.*
 
 **Serves:** 4

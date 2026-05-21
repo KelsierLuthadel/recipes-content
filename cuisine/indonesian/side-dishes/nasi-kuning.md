@@ -1,6 +1,7 @@
 # Nasi Kuning (Yellow Rice)
 
 ![Nasi Kuning](resources/nasi-kuning.jpg)
+
 *Indonesia's celebration rice: long-grain steeped in coconut milk with turmeric, lemongrass and kaffir lime. Stained a deep mustard yellow.*
 
 **Serves:** 6

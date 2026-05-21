@@ -5,7 +5,8 @@
 *The meringue, fruit and coulis can all be prepared a day ahead, ready to assemble quickly as you are about to serve. For total indulgence, serve with a scoop of vanilla ice cream.*
 
 **Serves:** 6
-**Cook Time:** 1 minutes
+
+**Cook Time:** 1 minute
 
 ## Ingredients
 - 275 grams [meringue Francaise](../../../baking/meringue/meringue-francais.md)

@@ -1,6 +1,7 @@
 # Curry Smelts
 
 ![Curry Smelts](resources/curry-smelts.jpg)
+
 *Trinidad's comfort dish: small whole fish seasoned with green seasoning, lightly floured, fried crisp, then dropped into a Caribbean curry of roasted geera and chilli.*
 
 **Serves:** 5

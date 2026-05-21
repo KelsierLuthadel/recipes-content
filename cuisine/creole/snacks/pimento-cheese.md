@@ -1,6 +1,7 @@
 # Pimento Cheese
 
 ![Pimento Cheese](resources/pimento-cheese.jpg)
+
 *The American South's spread: grated sharp cheddar mixed with mayonnaise, pimentos and cracked pepper. Served on crackers or white bread.*
 
 **Serves:** Makes 500 g (10-12 small servings)

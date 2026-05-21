@@ -1,6 +1,7 @@
 # Lahori Chana Pulao
 
 ![Lahori Chana Pulao](resources/lahori-chana-pulao.jpg)
+
 *Chickpea pulao: basmati cooked in a fragrant onion-and-spice base with whole chickpeas folded through. A vegetarian Lahori workhorse, the dal-rice swap for a meatless meal.*
 
 **Serves:** 4-6

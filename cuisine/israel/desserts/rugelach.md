@@ -1,6 +1,7 @@
 # Rugelach
 
 ![Rugelach](resources/rugelach.jpg)
+
 *The Ashkenazi-Jewish crescent: a cream-cheese dough rolled around chocolate, jam or cinnamon-walnut filling, twisted into small curled pastries. Baked golden.*
 
 **Serves:** Makes 32 rugelach

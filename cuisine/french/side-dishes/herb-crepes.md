@@ -1,13 +1,10 @@
 # Herb Crêpes
 
-*France's savoury herb crepes: a thin pancake batter spiked with chopped chives, parsley and chervil.*
-
-
-**Prep Time:** 10 minutes
-
 ![Herb crêpes](resources/herb-crepes.jpg)
 
-*These crêpes work really well when sandwiched between meat and pastry, as it forms a protective layer beneath the pastry to help keep it dry and crisp.*
+*France's savoury herb crepes: a thin pancake batter spiked with chopped chives, parsley and chervil.*
+
+**Prep Time:** 10 minutes
 
 **Servings:** 6
 
@@ -54,3 +51,5 @@ Amount: 1-2 crêpes per person depending on use
 - Stack cooled crêpes with greaseproof paper between each one to prevent sticking.
 - Store wrapped in cling film in the refrigerator for up to 2 days.
 - Freeze interleaved with greaseproof paper for up to 1 month; defrost at room temperature before use.
+
+*These crêpes work really well when sandwiched between meat and pastry, as it forms a protective layer beneath the pastry to help keep it dry and crisp.*

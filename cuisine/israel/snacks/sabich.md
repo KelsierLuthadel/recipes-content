@@ -1,6 +1,7 @@
 # Sabich
 
 ![Sabich](resources/sabich.jpg)
+
 *The Iraqi-Israeli pita: fried aubergine, hard-boiled egg, hummus, tahini, cucumber-tomato salad and pickled-mango amba sauce piled into warm pita.*
 
 **Serves:** 4

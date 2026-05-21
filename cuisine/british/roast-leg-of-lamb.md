@@ -1,6 +1,7 @@
 # Roast Leg of Lamb
 
 ![Roast Leg of Lamb](resources/roast-leg-of-lamb.jpg)
+
 *The Easter centrepiece. A whole leg of lamb studded with garlic and rosemary, roasted to pink at the bone, rested, sliced thick onto warm plates with the juices spooned over. The kind of roast that anchors a long table on a Sunday afternoon.*
 
 **Serves:** 8

@@ -1,6 +1,7 @@
 # Creole Daube
 
 ![Creole Daube](resources/daube.jpg)
+
 *A New Orleans take on French daube: chuck slow-braised in red wine with the Creole holy trinity, tomato, garlic, bay and thyme. Eaten over rice or noodles.*
 
 **Serves:** 6

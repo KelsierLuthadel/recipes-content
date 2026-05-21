@@ -1,6 +1,7 @@
 # Khuushuur
 
 ![Khuushuur](resources/khuushuur.jpg)
+
 *Mongolia's Naadam pasty: a thin disc of wheat dough wrapped around minced mutton with onion and garlic, sealed into a half-moon and deep-fried.*
 
 **Serves:** 4 (makes 12 khuushuur)

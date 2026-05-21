@@ -1,6 +1,7 @@
 # Steak and Kidney Pie
 
 ![Steak and Kidney Pie](resources/steak-and-kidney-pie.jpg)
+
 *The British pub-pie classic: chunks of beef and ox kidney braised slow in a stout-rich gravy, sealed under a buttery shortcrust top. Kidney brings an iron-rich depth that beef alone can't manage; the long braise rewards patience.*
 
 **Serves:** 4-6

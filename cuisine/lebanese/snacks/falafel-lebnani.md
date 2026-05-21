@@ -1,6 +1,7 @@
 # Falafel Lebnani
 
 ![Falafel Lebnani](resources/falafel-lebnani.jpg)
+
 *Lebanon's street-corner fritter: a herb-flecked chickpea ball fried golden and tucked into warm pita with tahini and pickled turnip.*
 
 **Serves:** 4 (makes 20 patties)

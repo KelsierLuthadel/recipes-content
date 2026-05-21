@@ -1,6 +1,7 @@
 # Chamucas
 
 ![Chamucas](resources/chamucas.jpg)
+
 *Mozambique's samosa: smaller and crisper than the Indian original, filled with spiced minced beef and onion, folded into neat triangles and deep-fried.*
 
 **Serves:** 6 (makes about 20)

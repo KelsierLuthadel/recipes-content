@@ -1,6 +1,7 @@
 # Prawn Balchão
 
 ![Prawn Balchão](resources/prawn-balchao.jpg)
+
 *Goan prawn pickle-curry: prawns simmered in a thick vinegar-and-chilli paste, almost a condiment in its intensity. A spoonful with rice or bread is plenty; eaten by Goan Catholics as a make-ahead larder dish.*
 
 **Serves:** 4-6 (as a condiment); 4 (as a main with rice)

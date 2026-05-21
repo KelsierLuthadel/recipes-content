@@ -1,6 +1,7 @@
 # Rice and Peas
 
 ![Rice and Peas](resources/rice-and-peas.jpg)
+
 *Jamaica's "peas" are red kidney beans, cooked first with coconut milk, scotch bonnet, thyme, scallion and garlic, then rice goes in the pot to absorb that flavoured liquid. Long-grain rice tinted faint pink, scented with thyme and just-perceptible scotch bonnet heat. The Sunday-lunch staple, eats with anything.*
 
 **Serves:** 6

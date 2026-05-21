@@ -5,6 +5,7 @@
 *A plain Middle Eastern chickpea purée: chickpea paste warmed with turmeric for subtle warmth and a golden hue. Eats with bread or as a side.*
 
 **Prep Time:** 8 hours
+
 **Yield:** Approximately 400 milliliters (8-10 servings as appetizer)
 
 ## Overview

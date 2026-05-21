@@ -1,6 +1,7 @@
 # Mapo Tofu (Vegetarian)
 
 ![Mapo Tofu (Vegetarian)](resources/mapo-tofu-vegetarian.jpg)
+
 *Sichuan's signature tofu dish in a vegetarian build - silky tofu cubes braised in a numbing-hot sauce of doubanjiang (fermented broad-bean chilli paste), Sichuan peppercorns and finely-chopped mushrooms standing in for the usual minced pork. The numbness (málà) and the heat are the dish; tofu is the carrier.*
 
 **Serves:** 3-4

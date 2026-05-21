@@ -1,6 +1,7 @@
 # Lahori Kulfi
 
 ![Lahori Kulfi](resources/lahori-kulfi.jpg)
+
 *Lahore's frozen-milk dessert: full-fat milk reduced for an hour to a thick condensed cream, sweetened, flavoured with cardamom and pistachio, frozen hard in conical moulds. Denser than ice cream, with a slight chewiness.*
 
 **Serves:** 8 (small conical moulds; or 6 ramekins)

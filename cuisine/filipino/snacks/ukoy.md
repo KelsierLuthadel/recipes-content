@@ -1,6 +1,7 @@
 # Ukoy (Shrimp Fritters)
 
 ![Ukoy](resources/ukoy.jpg)
+
 *The Philippines' merienda fritter: whole shell-on shrimp buried in a batter of grated squash, sprouts and spring onion, deep-fried crisp gold.*
 
 **Serves:** Makes 12 fritters (serves 4 as a snack)

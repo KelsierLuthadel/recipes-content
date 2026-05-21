@@ -5,7 +5,9 @@
 *A margherita rebuilt from the ground up with a long-cooked tomato sauce and a yeasted dough that proves for an hour. The blend of shallots, garlic, red wine and Worcestershire gives the sauce a depth that supermarket passata can't match.*
 
 **Serves:** 2 pizzas
+
 **Prep Time:** 40 minutes
+
 **Cook Time:** 50 minutes
 
 ## Overview

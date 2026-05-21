@@ -1,6 +1,7 @@
 # Chakalaka
 
 ![Chakalaka](resources/chakalaka.jpg)
+
 *South Africa's spiced relish: onions, peppers, carrots and chillies fried hot with curry powder, sweetened with baked beans and tomato.*
 
 **Serves:** 6 as a side

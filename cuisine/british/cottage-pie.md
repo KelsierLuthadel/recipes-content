@@ -1,6 +1,7 @@
 # Cottage Pie
 
 ![Cottage Pie](resources/cottage-pie.jpg)
+
 *Beef mince's answer to shepherd's pie. The same comforting structure (rich savoury filling, mash on top, bake until crisp) but built around beef and a touch of red wine, giving a deeper, sweeter gravy. Named after the rural cottages where it traditionally fed working families.*
 
 **Serves:** 4-6

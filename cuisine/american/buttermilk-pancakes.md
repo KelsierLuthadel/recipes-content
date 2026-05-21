@@ -1,6 +1,7 @@
 # Buttermilk Pancakes
 
 ![Buttermilk Pancakes](resources/buttermilk-pancakes.jpg)
+
 *Fluffy American-style pancakes: tall, soft, the colour of caramel. The buttermilk reacts with baking soda for the lift; stand mixing optional, fluff is structural. Stack high, drown in butter and maple syrup.*
 
 **Makes:** 12 pancakes

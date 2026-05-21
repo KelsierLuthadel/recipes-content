@@ -1,6 +1,7 @@
 # Gumbo z'Herbes
 
 ![Gumbo Z'Herbes](resources/gumbo-z-herbes.jpg)
+
 *A Lent-time Louisiana gumbo: collards, mustard greens, kale, spinach and parsley stewed in a roux-thickened broth. The 'no meat' Friday dish of yesteryear.*
 
 **Serves:** 6

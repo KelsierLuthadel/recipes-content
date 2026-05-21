@@ -1,6 +1,7 @@
 # Mishti Doi
 
 ![Mishti Doi](resources/mishti-doi.jpg)
+
 *Bengal's defining Sunday dessert: thick set yoghurt the colour of pale caramel, sweetened with melted jaggery, served cold in unglazed clay pots.*
 
 **Serves:** 6

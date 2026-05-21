@@ -1,6 +1,7 @@
 # Galaktoboureko
 
 ![Galaktoboureko](resources/galaktoboureko.jpg)
+
 *Greece's milk pastry: a semolina custard cradled in layers of crackling buttered filo, soaked in lemon syrup straight from the oven.*
 
 **Serves:** 8-10

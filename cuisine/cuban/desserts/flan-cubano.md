@@ -1,6 +1,7 @@
 # Flan Cubano
 
 ![Flan Cubano](resources/flan-cubano.jpg)
+
 *Cuba's caramel custard: a dense, glossy flan of condensed and evaporated milk with whole eggs, set firm and unmoulded under a deep mahogany caramel.*
 
 **Serves:** 8

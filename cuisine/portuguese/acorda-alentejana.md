@@ -1,6 +1,7 @@
 # Açorda Alentejana
 
 ![Açorda Alentejana](resources/acorda-alentejana.jpg)
+
 *Portugal's shepherd soup: stale country bread softened in a fragrant broth of garlic, coriander and olive oil, finished with poached eggs.*
 
 **Serves:** 4

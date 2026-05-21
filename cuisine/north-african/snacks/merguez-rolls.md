@@ -1,6 +1,7 @@
 # Merguez Rolls
 
 ![Merguez Rolls](resources/merguez-rolls.jpg)
+
 *North African pigs-in-blankets: puff pastry wrapped around spicy merguez lamb sausage. Served with a drizzle of harissa-honey or yogurt.*
 
 **Serves:** Makes 16 rolls

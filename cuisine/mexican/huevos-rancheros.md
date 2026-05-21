@@ -4,7 +4,6 @@
 
 *Mexico's rancher's eggs: fried eggs nestled on warm corn tortillas, drenched in a hot tomato-and-chilli sauce.*
 
-
 ## Overview
 Huevos rancheros is a classic Mexican breakfast dish featuring eggs poached in a rich, spiced tomato sauce with peppers and chillies. This rustic, flavourful dish is traditionally served with warm tortillas for scooping, allowing diners to customize their own wraps. The combination of runny egg yolks with the thick, delicious tomato stew creates a truly memorable dish.
 

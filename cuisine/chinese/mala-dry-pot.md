@@ -1,6 +1,7 @@
 # Mala Dry-Pot (Ganguo)
 
 ![Mala Dry-Pot (Ganguo)](resources/mala-dry-pot.jpg)
+
 *A heaped wok of shrimp, pork belly, fried tofu and vegetables tossed in a glossy red mala sauce, scattered with sesame seeds and toasted whole chillies. The smell is pure Chongqing street kitchen: caraway-warm cumin, citrussy Sichuan pepper, and the sweet smoke of rendered pork fat hitting hot oil.*
 
 **Serves:** 4

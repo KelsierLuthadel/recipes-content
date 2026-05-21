@@ -1,6 +1,7 @@
 # Smashed Cucumber
 
 ![Smashed Cucumber](resources/smashed-cucumber.jpg)
+
 *Northern China's smashed-cucumber salad: bashed cucumber salted to weep, dressed sharp with soy, vinegar, garlic and chilli oil.*
 
 **Serves:** 4 (as a side)

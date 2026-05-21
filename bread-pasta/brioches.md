@@ -1,13 +1,10 @@
 # St-Genix Brioches with Pink Pralines
 
-*Brioches from St-Genix: enriched butter-and-egg dough studded with pink pralines (sugar-coated almonds), baked into small golden buns.*
-
-
-**Cook Time:** 1 minutes
-
 ![Brioches](resources/brioches.jpg)
 
-*Perfect for breakfast, these lovely brioches are best eaten as soon as they have cooled, while the pralines are still crunchy. The town of St-Genix is famous for its Pompadour pink pralines, which flavour and colour these brioches.*
+*Brioches from St-Genix: enriched butter-and-egg dough studded with pink pralines (sugar-coated almonds), baked into small golden buns.*
+
+**Cook Time:** 1 minute
 
 **Yield:** 1 brioche with 20 pralines (serves 8-10)
 
@@ -86,3 +83,5 @@ Pairing: Black coffee or hot chocolate are traditional
 - After 2 days, slice and freeze in plastic wrap for up to 1 month
 - Do not refrigerate; this stales brioche. If you must refrigerate, refresh in a 160°C oven for 5 minutes before serving
 - Brioche becomes dry and hard faster than plain bread due to its richness
+
+*Perfect for breakfast, these lovely brioches are best eaten as soon as they have cooled, while the pralines are still crunchy. The town of St-Genix is famous for its Pompadour pink pralines, which flavour and colour these brioches.*

@@ -1,6 +1,7 @@
 # Bamia Iraqi
 
 ![Bamia Iraqi](resources/bamia-iraqi.jpg)
+
 *Iraq's lamb-and-okra stew: small whole okra slow-cooked with cubed lamb in a tomato-and-tamarind broth sharpened with dried lime, finished with crushed garlic and coriander sizzled in oil (taqliya). Served over fluffy timman ahmar (Iraqi red rice). A weekday dinner, deeply savoury, classically Iraqi.*
 
 **Serves:** 4

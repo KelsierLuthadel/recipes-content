@@ -1,6 +1,7 @@
 # Latkes (Potato Pancakes)
 
 ![Latkes](resources/latkes.jpg)
+
 *The Hanukkah pancake: shredded potato and onion bound with egg, fried lacy-crisp in hot oil. Served with sour cream and apple sauce.*
 
 **Serves:** 4 (makes 12 latkes)

@@ -4,8 +4,6 @@
 
 *Thailand's tod mun pla: minced fish blended with red curry paste, kaffir lime leaf and green beans.*
 
-
-
 **Makes:** 12
 
 **Prep Time:** 15 minutes

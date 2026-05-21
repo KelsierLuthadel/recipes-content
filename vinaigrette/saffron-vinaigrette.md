@@ -1,13 +1,10 @@
 # Saffron Vinaigrette
 
-*A French saffron vinaigrette: saffron threads steeped in warm white wine vinegar, then whisked with olive oil and Dijon.*
-
-
-**Prep Time:** 5 minutes
-
 ![Saffron Vinaigrette](resources/saffron.jpg)
 
-*This luxurious, golden dressing infuses white wine vinegar with costly saffron threads, then incorporates both groundnut and sesame oils. Designed for elegant presentations with tender leaves and seafood garnishes like scallops or langoustine.*
+*A French saffron vinaigrette: saffron threads steeped in warm white wine vinegar, then whisked with olive oil and Dijon.*
+
+**Prep Time:** 5 minutes
 
 **Yield:** Approximately 150 milliliters (6 servings)
 
@@ -89,3 +86,5 @@ Presentation: The golden color should be visible; reserve for elegant plating
 - Do not freeze; oils degrade and saffron character dissipates
 - Best consumed within 1-2 days for maximum saffron freshness
 - Store in cool, dark place to preserve saffron's color
+
+*This luxurious, golden dressing infuses white wine vinegar with costly saffron threads, then incorporates both groundnut and sesame oils. Designed for elegant presentations with tender leaves and seafood garnishes like scallops or langoustine.*

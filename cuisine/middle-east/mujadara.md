@@ -1,6 +1,7 @@
 # Mujadara
 
 ![Mujadara](resources/mujadara.jpg)
+
 *Levantine lentils and rice topped with deeply caramelised crisp onions. Vegan, frugal, profoundly satisfying. The crisp onions are non-negotiable; they're 70% of the flavour.*
 
 **Serves:** 4

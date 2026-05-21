@@ -1,6 +1,7 @@
 # Kofta Burger
 
 ![Kofta Burger](resources/kofta-burger.jpg)
+
 *Charred lamb fragrant with allspice, cinnamon and black pepper, the inside still juicy from grated onion. The smell is unmistakable: a Beirut street grill at dusk, parsley and smoke and toasted flatbread.*
 
 **Serves:** 4

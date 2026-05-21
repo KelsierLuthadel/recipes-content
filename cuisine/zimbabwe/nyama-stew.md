@@ -1,6 +1,7 @@
 # Nyama Stew
 
 ![Nyama Stew](resources/nyama-stew.jpg)
+
 *Zimbabwe's weekday plate: chunks of beef slowly braised with onion, tomato and garlic till the gravy is dark and clinging. Eaten with sadza.*
 
 **Serves:** 4

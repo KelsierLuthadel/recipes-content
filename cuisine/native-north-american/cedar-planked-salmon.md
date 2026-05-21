@@ -1,6 +1,7 @@
 # Cedar-Planked Salmon
 
 ![Cedar-Planked Salmon](resources/cedar-planked-salmon.jpg)
+
 *A Pacific Northwest technique: salmon fillet rested on a soaked cedar plank over high heat, glazed with brown sugar and maple. Smoky and gently sweet.*
 
 **Serves:** 4

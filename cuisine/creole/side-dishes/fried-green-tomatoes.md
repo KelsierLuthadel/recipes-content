@@ -1,6 +1,7 @@
 # Fried Green Tomatoes
 
 ![Fried Green Tomatoes](resources/fried-green-tomatoes.jpg)
+
 *The Southern American (and Creole-adjacent) appetiser: thick slices of unripe green tomato dredged in seasoned cornmeal, shallow-fried until deep gold and crisp-edged, served warm with rémoulade or hot pepper jelly. Crunchy crust, slightly tart and juicy inside, the green tomato holding its shape under the fry.*
 
 **Serves:** 4 as a side

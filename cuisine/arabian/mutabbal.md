@@ -1,6 +1,7 @@
 # Mutabbal
 
 ![Mutabbal](resources/mutabbal.jpg)
+
 *Smoky aubergine dip, similar to baba ganoush but richer - yogurt joins the tahini, giving a creamier, slightly tart finish. The aubergines must char over flame for the proper smoky depth. Eats with warm flatbread, alongside meze, or smeared under grilled lamb.*
 
 **Serves:** 4-6 as a side or starter

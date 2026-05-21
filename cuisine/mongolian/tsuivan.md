@@ -1,6 +1,7 @@
 # Tsuivan
 
 ![Tsuivan](resources/tsuivan.jpg)
+
 *Mongolia's one-pot noodle dish: hand-cut wheat noodles steamed atop a mutton-and-cabbage stew, the noodles drinking up the meat fat from below.*
 
 **Serves:** 4

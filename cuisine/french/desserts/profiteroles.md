@@ -5,6 +5,7 @@
 *One of the delights of this  luscious  dessert is that all the elements can be prepared a few hours in advance.*
 
 **Serves:** 10
+
 **Prep Time:** 10 minutes
 
 ## Ingredients

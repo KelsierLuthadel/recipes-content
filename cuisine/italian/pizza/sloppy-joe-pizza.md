@@ -5,7 +5,9 @@
 *A pizza-meets-bolognese mash-up with passata, salami, a spoonful of bolognese and a generous drizzle of chilli oil. Quick to assemble, ideal for a weeknight when you have leftover ragù to use up.*
 
 **Serves:** 2
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 15 minutes
 
 ## Overview

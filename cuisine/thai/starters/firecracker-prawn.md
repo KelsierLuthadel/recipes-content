@@ -4,8 +4,6 @@
 
 *Thailand's firecracker prawns: prawns wrapped in spring-roll pastry around a sliver of chilli and spring onion.*
 
-
-
 **Makes:** 20
 
 **Prep Time:** 20 minutes

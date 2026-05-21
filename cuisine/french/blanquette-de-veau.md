@@ -1,6 +1,7 @@
 # Blanquette de Veau
 
 ![Blanquette de Veau](resources/blanquette-de-veau.jpg)
+
 *White veal stew: meat poached gently in stock with carrots and aromatics, the cooking liquid then thickened with cream, butter and egg yolks into a velvety pale sauce. Old-school French home cooking; gentle, restorative, the antithesis of a brown braise.*
 
 **Serves:** 4-6

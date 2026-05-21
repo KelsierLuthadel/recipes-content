@@ -1,6 +1,7 @@
 # Empanadas Cubanas
 
 ![Empanadas Cubanas](resources/empanadas-cubanas.jpg)
+
 *Cuban-style empanadas: deep-fried half-moons of yellow dough filled with picadillo-style beef cooked down with sofrito, olives, raisins and capers.*
 
 **Serves:** 4 to 6 (makes 12 empanadas)

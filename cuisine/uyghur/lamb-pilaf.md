@@ -1,6 +1,7 @@
 # Xinjiang Lamb Pilaf
 
 ![Xinjiang Lamb Pilaf](resources/lamb-pilaf.jpg)
+
 *Xinjiang's hand-grabbed rice: lamb and its fat browned with onion and yellow carrot, sweetened with honey, then steamed under medium-grain rice.*
 
 **Serves:** 4-6

@@ -1,6 +1,7 @@
 # Pogácsa
 
 ![Pogácsa](resources/pogacsa.jpg)
+
 *Hungary's savoury scone: a short, flaky, deeply buttery (or lardy) round, scored on top in a crosshatch and baked until burnished. Made for travelling, for gatherings, for the bowl on the bar with a glass of pálinka. Cheese pogácsa is the most common modern version; cracking varieties exist (crackling, dill, potato).*
 
 **Serves:** Makes 20 to 24

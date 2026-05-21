@@ -5,6 +5,7 @@
 *The simplest sesame dip: tahina paste loosened with cold water and lemon, sharpened with crushed garlic, salted to taste. Eaten with warm pita.*
 
 **Prep Time:** 10 minutes
+
 **Yield:** Approximately 200 milliliters (4-5 servings as appetizer dip)
 
 ## Overview

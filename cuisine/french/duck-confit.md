@@ -1,6 +1,7 @@
 # Duck Confit
 
 ![Duck Confit](resources/duck-confit.jpg)
+
 *Duck legs cured in salt, then cooked submerged in their own rendered fat at low temperature for hours until the meat is meltingly tender. Cooled in the fat, then crisped in a hot pan to serve. Originally a southwest French preservation method; now the most luxurious thing you can make from a duck leg.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Bread and Butter Pudding
 
 ![Bread and Butter Pudding](resources/bread-and-butter-pudding.jpg)
+
 *Stale bread soaked in vanilla custard with raisins and a sprinkle of demerara. The British nursery pudding that uses up the loaf you didn't finish; comes out with a crisp top and a soft custardy interior. Serve with cream or custard.*
 
 **Serves:** 6-8

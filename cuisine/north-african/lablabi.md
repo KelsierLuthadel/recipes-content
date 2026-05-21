@@ -1,6 +1,7 @@
 # Lablabi
 
 ![Lablabi](resources/lablabi.jpg)
+
 *Tunisia's market-stall breakfast: hot chickpea broth poured over stale baguette, finished with poached egg, harissa, lemon and capers.*
 
 **Serves:** 4

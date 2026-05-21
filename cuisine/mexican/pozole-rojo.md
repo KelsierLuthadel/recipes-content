@@ -1,6 +1,7 @@
 # Pozole Rojo
 
 ![Pozole Rojo](resources/pozole-rojo.jpg)
+
 *Hominy and pork simmered with a red chilli broth of guajillo and ancho. A Sunday and celebration soup, finished at the table with shredded cabbage, radish, oregano and lime.*
 
 **Serves:** 6

@@ -1,6 +1,7 @@
 # Easy Ugandan Curry Potatoes
 
 ![Easy Ugandan Curry Potatoes](resources/curry-potatoes.jpg)
+
 *A Ugandan weeknight plate: waxy potatoes simmered in a tomato-and-onion gravy lifted with curry powder and garlic. Eaten with chapati, rice or matooke.*
 
 **Serves:** 4

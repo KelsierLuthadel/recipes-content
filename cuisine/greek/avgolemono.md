@@ -1,6 +1,7 @@
 # Avgolemono
 
 ![Avgolemono](resources/avgolemono.jpg)
+
 *Greek lemon-egg-rice soup: chicken broth thickened with eggs and finished with lemon juice. Light, lemony, restorative; the Greek answer to chicken soup. Served with shredded chicken from the broth.*
 
 **Serves:** 4-6

@@ -1,6 +1,7 @@
 # Pão Alentejano
 
 ![Pão Alentejano](resources/pao-alentejano.jpg)
+
 *The Alentejo's country bread: a slow-fermented loaf with a tight chewy crumb and a thick deep-coloured crust. Made for soaking up açorda and migas.*
 
 **Serves:** 8 (makes 1 large loaf)

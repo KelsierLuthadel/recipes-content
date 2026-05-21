@@ -1,13 +1,10 @@
 # Baharat
 
-*The Middle Eastern seven-spice mix: black pepper, allspice, cardamom, cinnamon, clove, coriander and cumin toasted and ground.*
-
-
-**Prep Time:** 10 minutes
-
 ![Baharat](resources/baharat.jpg)
 
-*This aromatic spice blend is found throughout the Eastern Mediterranean, spreading from Egypt, Jordan, and Lebanon to Syria, Sudan, and Ethiopia. The Arabic name Baharat literally translates to "spice", a universal blend that spans borders and cultures.*
+*The Middle Eastern seven-spice mix: black pepper, allspice, cardamom, cinnamon, clove, coriander and cumin toasted and ground.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 115 grams (makes 20+ portions)
 
@@ -93,3 +90,6 @@ Temperature: Works best when fried in hot oil to release aromatic oils
 - Label with preparation date
 - Make fresh every 8-10 months for optimal color and potency
 
+
+
+*This aromatic spice blend is found throughout the Eastern Mediterranean, spreading from Egypt, Jordan, and Lebanon to Syria, Sudan, and Ethiopia. The Arabic name Baharat literally translates to "spice", a universal blend that spans borders and cultures.*

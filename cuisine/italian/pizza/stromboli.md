@@ -5,7 +5,9 @@
 *Stromboli is the New York Italian-American answer to calzone: a long, rolled, jelly-roll-style log of pizza dough wrapped around layers of cured meats, two cheeses, fresh basil and a brush of garlic butter. Sliced into pinwheels and served with marinara for dipping.*
 
 **Serves:** 2
+
 **Prep Time:** 30 minutes
+
 **Cook Time:** 30 minutes
 
 ## Overview

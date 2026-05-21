@@ -4,10 +4,10 @@
 
 *The flavours of orange and rhubarb work well together and the crème pâtissière counteracts their acidity perfectly.*
 
-*Don't fill the tartlet cases too soon before serving, or the syrup will soften the pastry.*
-
 **Serves:** 6
+
 **Prep Time:** 30 minutes
+
 **Cook Time:** 25 minutes
 
 ## Overview
@@ -72,3 +72,5 @@ Serve the tartlets at room temperature or slightly warm with a small spoonful of
 
 ## Storage
 Store unfilled tartlet cases and poached rhubarb separately in the refrigerator for up to 2 days. Assemble just before serving; these tartlets do not freeze well once filled.
+
+*Don't fill the tartlet cases too soon before serving, or the syrup will soften the pastry.*

@@ -5,7 +5,9 @@
 *A lighter Italian take on the classic meatball-and-sauce pairing. Chicken mince creates delicate, tender meatballs that soak up the vibrant tomato sauce without the heaviness of beef or pork. Fresh herbs binding the mixture ensure each ball is fragrant and flavorful while maintaining its shape through cooking.*
 
 **Serves:** 4-6
+
 **Prep Time:** 20 minutes
+
 **Cook Time:** 3 minutes
 
 ## Overview

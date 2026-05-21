@@ -1,6 +1,7 @@
 # Baba Ganoush
 
 ![Baba Ganoush](resources/baba-ganoush.jpg)
+
 *The Levantine smoky aubergine dip: flame-charred aubergine mashed with tahini, lemon and garlic, finished with olive oil, pomegranate and parsley.*
 
 **Serves:** 4 as a mezze

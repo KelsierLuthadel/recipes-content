@@ -1,6 +1,7 @@
 # Hotteok
 
 ![Hotteok](resources/hotteok.jpg)
+
 *Korea's winter street pancake: a yeasted disc filled with brown sugar, cinnamon and peanuts that melt to molten caramel as it griddles.*
 
 **Serves:** Makes 8 hotteok

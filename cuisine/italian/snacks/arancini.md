@@ -1,6 +1,7 @@
 # Arancini
 
 ![Arancini](resources/arancini.jpg)
+
 *Sicily's golden rice balls: cold risotto wrapped around meat ragù or mozzarella, breaded and deep-fried till crisp outside, soft within.*
 
 **Serves:** 4 (makes 8 arancini)

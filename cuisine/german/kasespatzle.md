@@ -1,6 +1,7 @@
 # Käsespätzle
 
 ![Käsespätzle](resources/kasespatzle.jpg)
+
 *Swabian cheese spätzle: layers of fresh spätzle and grated emmental or gruyère, baked until the cheese melts into glossy strings and the top crisps. Topped with deeply caramelised onions. The Alpine answer to mac and cheese.*
 
 **Serves:** 4-6

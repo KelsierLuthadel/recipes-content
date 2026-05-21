@@ -1,6 +1,7 @@
 # Dolma Iraqi
 
 ![Dolma Iraqi](resources/dolma-iraqi.jpg)
+
 *Iraq's mixed stuffed-vegetable feast: vine leaves, peppers, courgettes, aubergines and onions all packed with spiced lamb and rice, slow-simmered in tamarind broth.*
 
 **Serves:** 6

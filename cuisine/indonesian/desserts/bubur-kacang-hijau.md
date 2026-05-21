@@ -1,6 +1,7 @@
 # Bubur Kacang Hijau (Mung Bean Coconut Porridge)
 
 ![Bubur Kacang Hijau](resources/bubur-kacang-hijau.jpg)
+
 *Indonesia's warm sweet porridge: split mung beans slow-cooked with palm sugar, pandan and ginger, finished with thick coconut milk.*
 
 **Serves:** 6

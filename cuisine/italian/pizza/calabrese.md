@@ -5,7 +5,9 @@
 *Calabria is Italy's spicy southern toe, home of nduja, hot peppers and the boldly flavoured Calabrese sausage. This pizza brings them together with a watercress-pesto finish for fresh contrast.*
 
 **Serves:** 1 large pizza
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 12 minutes
 
 ## Overview

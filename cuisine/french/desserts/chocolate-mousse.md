@@ -4,9 +4,8 @@
 
 *This recipe really isn't suitable to make in small quantities, but the individual desserts freeze very well, for up to 15 days without diminishing at all in quality.*
 
-*You will need 12 x 6 ½ cm metal rings about 3 ½ cm high.*
-
 **Serves:** 12
+
 **Prep Time:** 10 minutes
 
 ## Ingredients
@@ -87,3 +86,6 @@ Remove from the ring by briefly heating the exterior with a warm tea towel or bl
 ## Storage
 Assembled and frozen in their rings, these desserts keep for up to 2 weeks in the freezer, well-wrapped to prevent freezer burn. The berry compote can be made several days ahead and refrigerated. Remove the mousse from the freezer 5-10 minutes before serving for the best texture; rock-hard frozen desserts are unpleasant and too-warm ones become soupy.
 
+
+
+*You will need 12 x 6 ½ cm metal rings about 3 ½ cm high.*

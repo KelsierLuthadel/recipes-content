@@ -1,6 +1,7 @@
 # Bolinhos de Bacalhau
 
 ![Bolinhos de Bacalhau](resources/bolinhos-de-bacalhau.jpg)
+
 *The great Lusophone snack: flaked salt cod folded into a mash of potato, onion, parsley and egg, shaped into small oval croquettes and deep-fried.*
 
 **Serves:** 6 (makes about 24)

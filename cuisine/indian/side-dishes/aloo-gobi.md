@@ -1,6 +1,7 @@
 # Aloo Gobi
 
 ![Aloo Gobi](resources/aloo-gobi.jpg)
+
 *North India's everyday dry curry: chunks of potato and cauliflower pan-fried with cumin, ginger, garlic, turmeric and a quick tomato sauce.*
 
 **Serves:** 4 as a side

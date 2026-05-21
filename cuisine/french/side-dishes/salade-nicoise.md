@@ -1,6 +1,7 @@
 # Salade Niçoise
 
 ![Salade Niçoise](resources/salade-nicoise.jpg)
+
 *A Provençal market-day plate: tomatoes, eggs, beans, olives, anchovies and tuna, dressed with good olive oil and vinegar.*
 
 **Serves:** 4 (as a main-course salad)

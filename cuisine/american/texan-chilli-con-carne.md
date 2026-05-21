@@ -1,6 +1,7 @@
 # Texan Chilli con Carne
 
 ![Texan Chilli con Carne](resources/texan-chilli-con-carne.jpg)
+
 *The Texas original. Cubed chuck steak (no mince), no beans, no tomatoes — slow-cooked in a deep red sauce built from rehydrated dried chillies, cumin, oregano and beef stock. The state dish, in its purest form: meat, chilli, and time.*
 
 **Serves:** 6-8

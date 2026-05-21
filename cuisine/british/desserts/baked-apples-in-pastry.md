@@ -5,8 +5,10 @@
 *Enveloped in crisp sugar-glazed pastry is an impressive way to serve baked apples.*
 
 **Serves:** 4
+
 **Prep Time:** 10 minutes
-**Cook Time:** 1 minutes
+
+**Cook Time:** 1 minute
 
 ## Ingredients
 - 520 grams [pâte brisée](../../../baking/pastry/shortcrust-pastry.md) (Shortcrust pastry)

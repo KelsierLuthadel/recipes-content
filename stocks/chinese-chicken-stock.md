@@ -5,7 +5,9 @@
 *This Chinese chicken stock is an all-purpose base, not only for soups but also for sauces and glazes. It is light and delicious, and easy to make, providing rich, clean broth with delicate chicken essence and subtle Oriental aromatics.*
 
 **Prep Time:** 20 minutes
+
 **Cook Time:** 2-4 hours
+
 **Yield:** Approximately 3 litres
 
 ## Overview

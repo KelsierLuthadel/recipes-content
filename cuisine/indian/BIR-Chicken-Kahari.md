@@ -4,8 +4,6 @@
 
 *A BIR chicken karahi: pre-cooked chicken finished hot in a wok with tomato, ginger, green chilli and a heavy hand of black pepper.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

@@ -4,8 +4,6 @@
 
 *Thai pork meatballs: pork mince spiked with red curry paste, kaffir lime leaf, garlic and coriander, rolled small and pan-fried golden.*
 
-
-
 **Makes:** 20
 
 **Prep Time:** 10 minutes

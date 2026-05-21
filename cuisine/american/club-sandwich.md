@@ -4,8 +4,8 @@
 
 *The American diner triple-decker: three slices of toasted white bread layered with chicken or turkey, bacon, lettuce, tomato and mayo.*
 
-
 **Serves:** 2
+
 **Prep Time:** 15 minutes
 
 ## Overview

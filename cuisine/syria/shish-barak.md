@@ -1,6 +1,7 @@
 # Shish Barak
 
 ![Shish Barak](resources/shish-barak.jpg)
+
 *Syria's lamb dumplings in hot yogurt: small ravioli-sized lamb parcels bathed in a stabilised garlic-mint yogurt sauce, finished with mint butter.*
 
 **Serves:** 4

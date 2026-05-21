@@ -5,7 +5,9 @@
 *This vibrant tart is a lovely way to enjoy fresh apricots during their short season, at other times you can use tinned fruit.*
 
 **Serves:** 6
+
 **Prep Time:** 30 minutes
+
 **Cook Time:** 45 minutes
 
 ## Overview

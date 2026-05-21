@@ -1,6 +1,7 @@
 # Tang Yuan
 
 ![Tang Yuan](resources/tang-yuan.jpg)
+
 *China's reunion-soup balls: chewy glutinous rice balls oozing sweet black sesame paste, served in a fragrant ginger-and-sugar syrup.*
 
 **Serves:** 4 (makes 16 balls)

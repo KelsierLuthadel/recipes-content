@@ -1,6 +1,7 @@
 # Deviled Eggs
 
 ![Deviled Eggs](resources/deviled-eggs.jpg)
+
 *Glossy halves of cold hard-boiled egg cradling a swirl of creamy, mustard-tangy yolk filling, dusted with a fine red haze of paprika. They smell faintly of vinegar and mayonnaise, taste rich and just a little sharp, and disappear from a platter faster than almost anything else at the table.*
 
 **Serves:** 6 (12 halves)

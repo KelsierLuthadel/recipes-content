@@ -1,6 +1,7 @@
 # Beef Stroganoff
 
 ![Beef Stroganoff](resources/beef-stroganoff.jpg)
+
 *Russian dish of beef strips in a mustard-soured-cream sauce with mushrooms and onions. Quick to cook, deeply savoury, served over buttered egg noodles or rice. Originally a 19th-century court dish; now international comfort food.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Ema Datshi
 
 ![Ema Datshi](resources/ema-datshi.jpg)
+
 *Bhutan's national dish: whole green chillies stewed with blue cheese, potato and tomato until the cheese melts into a fierce, creamy sauce.*
 
 **Serves:** 6

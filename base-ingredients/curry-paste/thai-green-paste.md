@@ -1,13 +1,10 @@
 # Thai Green Curry Paste (Kruang Kaeng Khiem Wan)
 
-*Thailand's green curry paste: fresh green chillies, lemongrass, galangal, kaffir lime, garlic.*
-
-
-**Prep Time:** 20 minutes
-
 ![Thai Green Curry Paste](resources/thai-green.jpg)
 
-*Don't let the pale green color fool you, a green curry can be devastatingly hot if prepared the traditional way. Fresh green chillies and herbs create brightness that builds heat throughout the meal.*
+*Thailand's green curry paste: fresh green chillies, lemongrass, galangal, kaffir lime, garlic.*
+
+**Prep Time:** 20 minutes
 
 **Yield:** Approximately 230-250 grams
 
@@ -90,3 +87,6 @@ Temperature: Use immediately after making
 - Thaw frozen paste at room temperature before using
 - Do not keep at room temperature; bacterial growth risk with fresh herbs and oil
 
+
+
+*Don't let the pale green color fool you, a green curry can be devastatingly hot if prepared the traditional way. Fresh green chillies and herbs create brightness that builds heat throughout the meal.*

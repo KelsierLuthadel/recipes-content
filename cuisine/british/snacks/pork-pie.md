@@ -1,6 +1,7 @@
 # Pork Pie
 
 ![Pork Pie](resources/pork-pie.jpg)
+
 *The British picnic pie: chopped seasoned pork in a hot-water-crust pastry, filled with savoury jelly through a hole in the lid.*
 
 **Serves:** 6 (one 18 cm pie, sliced into 6-8 wedges)

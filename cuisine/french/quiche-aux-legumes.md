@@ -1,6 +1,7 @@
 # Quiche aux Légumes
 
 ![Quiche aux Légumes](resources/quiche-aux-legumes.jpg)
+
 *A French vegetable quiche: blind-baked shortcrust shell filled with a custard of cream, eggs and gruyère, the vegetables - leek, courgette, spinach, herbs - softened in butter first to drive off water before they go in. Set just to the wobble; eaten hot, warm or cold.*
 
 **Serves:** 6

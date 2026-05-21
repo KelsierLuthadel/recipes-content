@@ -1,6 +1,7 @@
 # Vegetable and Prawn Tempura
 
 ![Vegetable and Prawn Tempura](resources/tempura.jpg)
+
 *Lightly battered, fried-fast vegetables and prawns with a paper-thin, lacy crust. The batter must be COLD and barely mixed; the oil must be hot. Serve straight from the fryer with a tentsuyu dipping sauce.*
 
 **Serves:** 4

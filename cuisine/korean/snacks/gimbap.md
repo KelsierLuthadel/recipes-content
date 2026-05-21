@@ -1,6 +1,7 @@
 # Gimbap
 
 ![Gimbap](resources/gimbap.jpg)
+
 *Korea's lunchbox roll: short-grain rice with sesame oil, rolled with pickled radish, spinach, carrot, ham and egg inside a sheet of nori.*
 
 **Serves:** Makes 4 rolls (serves 4)

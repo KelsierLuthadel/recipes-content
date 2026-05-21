@@ -1,13 +1,10 @@
 # Steamed Rice
 
-*China's plain steamed rice: long-grain rice rinsed and cooked in a covered pot till the water absorbs and the grains stay separate.*
-
-
-**Cook Time:** 20 minutes
-
 ![Steamed Rice](resources/steamed-rice.jpg)
 
-*This Chinese steaming method produces fluffy, individual grains of long-grain rice through a two-stage cooking process: initial boiling to evaporate surface liquid, then gentle steaming in residual moisture. The result is uniformly cooked rice that never becomes sticky, ideal as a neutral accompaniment to any Asian-inspired dish.*
+*China's plain steamed rice: long-grain rice rinsed and cooked in a covered pot till the water absorbs and the grains stay separate.*
+
+**Cook Time:** 20 minutes
 
 **Yield:** Approximately 1.2 liters cooked rice (4-5 servings)
 
@@ -96,3 +93,5 @@ Context: Neutral starch base, everyday cooking, meals where rice complements rat
 - Freezing causes some textural change; thaw at room temperature or reheat directly from frozen.
 - Do not store rice at room temperature for extended periods; bacteria can proliferate in moist starch.
 - Leftover rice hardens as it cools; this is normal and doesn't indicate spoilage if refrigerated promptly.
+
+*This Chinese steaming method produces fluffy, individual grains of long-grain rice through a two-stage cooking process: initial boiling to evaporate surface liquid, then gentle steaming in residual moisture. The result is uniformly cooked rice that never becomes sticky, ideal as a neutral accompaniment to any Asian-inspired dish.*

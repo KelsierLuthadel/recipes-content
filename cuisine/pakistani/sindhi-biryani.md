@@ -1,6 +1,7 @@
 # Sindhi Biryani
 
 ![Sindhi Biryani](resources/sindhi-biryani.jpg)
+
 *Sindh's chilli-tangy biryani: yogurt-marinated mutton layered with basmati, fried onions, soft prunes and chillies, slow-cooked on dum.*
 
 **Serves:** 6

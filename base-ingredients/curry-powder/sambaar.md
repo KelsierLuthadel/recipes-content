@@ -1,14 +1,12 @@
 # Sambar Powder
 
-*South India's sambar powder: dry-roasted lentils ground with coriander, cumin, fenugreek, chilli and curry leaves.*
-
-
-**Prep Time:** 10 minutes
-**Cook Time:** 4 minutes
-
 ![Sambar](resources/sambaar.jpg)
 
-*This distinctive South Indian blend combines whole spices with roasted lentils (dhal), creating a complex powder that flavors vegetable and lentil combinations while simultaneously thickening braised dishes and spicy broths. Sambar is essential to South Indian cooking.*
+*South India's sambar powder: dry-roasted lentils ground with coriander, cumin, fenugreek, chilli and curry leaves.*
+
+**Prep Time:** 10 minutes
+
+**Cook Time:** 4 minutes
 
 **Yield:** Approximately 105 grams (makes 20-25 curry portions)
 
@@ -90,3 +88,6 @@ Temperature: Can be stirred in during cooking (doesn't require blooming like som
 - Does not require refrigeration
 - The roasted legumes begin to lose potency and absorb moisture over time; make fresh quarters for optimal quality
 - Check for clumping or moisture before each use
+
+
+*This distinctive South Indian blend combines whole spices with roasted lentils (dhal), creating a complex powder that flavors vegetable and lentil combinations while simultaneously thickening braised dishes and spicy broths. Sambar is essential to South Indian cooking.*

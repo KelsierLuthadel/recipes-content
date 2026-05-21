@@ -5,7 +5,9 @@
 *This classic Burgundy stew was once prepared with whole roasts weighing several kilograms, but modern custom calls for cubed beef cooked more quickly. The rich wine sauce, thickened with just the right amount of flour, transforms humble beef into an elegant centerpiece.*
 
 **Serves:** 4-6
+
 **Prep Time:** 20 minutes
+
 **Cook Time:** 29 minutes
 
 ## Overview

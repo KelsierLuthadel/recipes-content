@@ -1,13 +1,10 @@
 # Chocolate-Dipped Langues de Chat
 
-*Thin French langues de chat (cat's tongues) cookies, half-dipped in melted dark chocolate.*
-
-
-**Prep Time:** 5 minutes
-
 ![Chocolate-Dipped Langues de Chat](resources/Langues-de-chat.jpg)
 
-*These delicate, tongue-shaped butter cookies piped from a paté à langue batter are baked until golden and crisp, then half-coated in glossy dark chocolate. A classic petit four served alongside coffee after formal dinners, or paired with fruit desserts and ice cream.*
+*Thin French langues de chat (cat's tongues) cookies, half-dipped in melted dark chocolate.*
+
+**Prep Time:** 5 minutes
 
 **Yield:** Approximately 40 cookies
 
@@ -119,3 +116,5 @@ Context: Coffee service, elegant finales, special occasions, tea time
 - Do not freeze; chocolate coating becomes brittle and texture suffers.
 - Can be stored in a sealed tin for up to 5-7 days with minimal quality degradation.
 - Consume within 3-4 days for maximum crispness; after that, they gradually soften despite airtight storage.
+
+*These delicate, tongue-shaped butter cookies piped from a paté à langue batter are baked until golden and crisp, then half-coated in glossy dark chocolate. A classic petit four served alongside coffee after formal dinners, or paired with fruit desserts and ice cream.*

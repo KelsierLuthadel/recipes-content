@@ -1,6 +1,7 @@
 # Chicken 65
 
 ![Chicken 65](resources/chicken-65.jpg)
+
 *Hyderabad's fierce chilli chicken: yogurt-marinated thigh cubes double-fried crisp, then tossed in a sputtering tempering of curry leaves.*
 
 **Serves:** 4 as a starter

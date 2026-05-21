@@ -1,6 +1,7 @@
 # Lemon Rice
 
 ![Lemon Rice](resources/lemon-rice.jpg)
+
 *South Indian lemon rice (chitra anna): steamed rice tossed with a turmeric-curry-leaf temper, finished with lemon juice and roasted peanuts. Bright yellow, citrus-tart, quick to make.*
 
 **Serves:** 4

@@ -4,7 +4,6 @@
 
 *Thailand's hot-and-sour prawn soup: lemongrass, galangal, kaffir lime, lime juice, fish sauce and chilli broth with whole prawns.*
 
-
 **Serves:** 4 - 6
 
 **Prep Time:** 15 minutes

@@ -1,6 +1,7 @@
 # Boondi Raita
 
 ![Boondi Raita](resources/boondi-raita.jpg)
+
 *Pakistan's cooling raita: whisked yogurt with cumin and mint, finished with golden boondi just before serving.*
 
 **Serves:** 4

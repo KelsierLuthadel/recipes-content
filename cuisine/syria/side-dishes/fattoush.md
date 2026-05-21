@@ -1,6 +1,7 @@
 # Fattoush
 
 ![Fattoush](resources/fattoush.jpg)
+
 *The Levantine chopped salad: cucumber, tomato, radish, sumac onion and herbs dressed with lemon, sumac and pomegranate, with toasted pita shards.*
 
 **Serves:** 4

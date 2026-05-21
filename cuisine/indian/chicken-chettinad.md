@@ -1,6 +1,7 @@
 # Chicken Chettinad
 
 ![Chicken Chettinad](resources/chicken-chettinad.jpg)
+
 *Tamil Nadu's peppery chicken: chicken simmered in a freshly ground paste of dry-roasted whole spices with grated coconut, curry leaves and shallots.*
 
 **Serves:** 4

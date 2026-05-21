@@ -5,6 +5,7 @@
 *This refreshing coulis goes well with poached fish, smoked salmon, cold omelettes and pasta salads.*
 
 **Serves:** 6
+
 **Prep Time:** 10 minutes
 
 ## Overview

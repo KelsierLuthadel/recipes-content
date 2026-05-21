@@ -1,6 +1,7 @@
 # Anjero
 
 ![Anjero](resources/anjero.jpg)
+
 *Somalia's spongy fermented pancake - close cousin to Ethiopian injera, but smaller and softer. Fermented batter of sorghum or wheat flour pours onto a hot pan; bubbles burst across the top as it cooks; one side only, so the surface stays porous and lacy. Eaten with stews, tea and honey, or rolled around suqaar.*
 
 **Makes:** 12 pancakes

@@ -1,12 +1,15 @@
 # Vindaloo 
 
 ![Vindaloo](resources/vindaloo.jpg)   
+
 *The Goan-Portuguese fusion: pork shoulder marinated overnight in a thick paste of Kashmiri chillies, vinegar, garlic, ginger and pepper, slow-cooked dark.*
 
 **Note**: The recipe here calls for Indian Bay leaf, which has a subtle cinnamon and clove taste, and less woody than the European counterpart.
 
 **Prep Time:** 10 Minutes
+
 **Cook Time:** 10 Minutes
+
 **Serves:** 4 People
 
 ## Overview

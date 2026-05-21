@@ -1,6 +1,7 @@
 # Aloo Posto
 
 ![Aloo Posto](resources/aloo-posto.jpg)
+
 *Soft, sand-coloured potato cubes coated in a creamy white poppyseed paste, the whole dish gleaming with mustard oil and tempered with nigella seeds and a single slit green chilli. The aroma is gentle, nutty and faintly sweet; the taste is pure home.*
 
 **Serves:** 4

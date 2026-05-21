@@ -1,6 +1,7 @@
 # Smoked Salmon Blini
 
 ![Smoked Salmon Blini](resources/smoked-salmon-blini.jpg)
+
 *Bite-sized buckwheat pancakes topped with crème fraîche, smoked salmon and dill. Russian in origin, now a fixture of Christmas drinks parties. Make the blini ahead; assemble in the last ten minutes.*
 
 **Serves:** 6 (makes 30 blini)

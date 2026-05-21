@@ -1,6 +1,7 @@
 # Káposzta
 
 ![Káposzta](resources/kaposzta.jpg)
+
 *Hungarian braised cabbage: sweet white cabbage cooked down with onion, lard and sweet paprika until it slumps into a glossy, paprika-stained tangle. The standard winter side, eaten alongside roast pork, sausages, stuffed peppers, or piled onto buttered noodles.*
 
 **Serves:** 4 to 6

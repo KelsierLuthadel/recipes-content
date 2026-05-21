@@ -1,6 +1,7 @@
 # Bissara
 
 ![Bissara](resources/bissara.jpg)
+
 *Northern Moroccan dried fava bean soup: cooked down to a thick, smooth, almost porridge-like texture, served with a deep slick of olive oil, cumin and chilli on top. Street-food breakfast in Chefchaouen and Fez; eaten with bread for dipping.*
 
 **Serves:** 4

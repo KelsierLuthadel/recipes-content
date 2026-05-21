@@ -1,6 +1,7 @@
 # Timman Ahmar
 
 ![Timman Ahmar](resources/timman-ahmar.jpg)
+
 *Iraqi red rice: long-grain rice cooked with tomato paste, onion, baharat and a touch of cinnamon, often topped with crispy fried potato slices. The rice goes orange-red from the tomato; the bottom of the pot turns into a hidden golden crust (hkake), the prize. Served alongside meat, fish or stew.*
 
 **Serves:** 4-6

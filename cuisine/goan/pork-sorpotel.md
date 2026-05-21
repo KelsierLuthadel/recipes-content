@@ -1,6 +1,7 @@
 # Pork Sorpotel
 
 ![Pork Sorpotel](resources/pork-sorpotel.jpg)
+
 *The Goan Catholic feast curry: pork, liver and heart cooked in a thick, vinegar-sharp masala of roasted chillies and warming spices. Made days ahead so the flavour can deepen.*
 
 **Serves:** 6-8

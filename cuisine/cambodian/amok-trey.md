@@ -1,6 +1,7 @@
 # Amok Trey
 
 ![Amok Trey](resources/amok-trey.jpg)
+
 *Cambodia's national dish: fish steamed in a banana-leaf cup with kroeung (the lemongrass-galangal-turmeric paste that defines Khmer cooking), coconut cream and noni leaves. The fish stays soft; the custard thickens around it; the leaves perfume everything. Served from the banana-leaf parcels with rice.*
 
 **Serves:** 4

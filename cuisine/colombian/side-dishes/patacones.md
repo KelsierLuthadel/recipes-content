@@ -1,6 +1,7 @@
 # Patacones
 
 ![Patacones](resources/patacones.jpg)
+
 *Twice-fried green plantain rounds - sliced thick, fried, smashed flat, fried again, salted hard. Crisp outside, starchy-soft inside, served as a side, a vehicle for shrimp ceviche, or topped with hogao. Different to ripe-plantain tajadas (sweet); patacones are savoury, crunchy, salty.*
 
 **Serves:** 4 as a side

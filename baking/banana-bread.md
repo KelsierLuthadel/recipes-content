@@ -1,6 +1,7 @@
 # Banana Bread
 
 ![Banana Bread](resources/banana-bread.jpg)
+
 *The blackest-banana redemption recipe. Mashed overripe bananas give moisture and sweetness; a touch of cinnamon gives warmth; walnut chunks give crunch. One bowl, no mixer needed.*
 
 **Makes:** 1 loaf (10 slices)

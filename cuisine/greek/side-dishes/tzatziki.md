@@ -1,6 +1,7 @@
 # Tzatziki
 
 ![Tzatziki](resources/tzatziki.jpg)
+
 *Greek yogurt dip with grated cucumber, garlic, dill and a splash of olive oil. The Greek table staple; goes with bread, grilled meats, vegetables, anything. The trick is squeezing the cucumber dry - wet cucumber gives a watery dip.*
 
 **Serves:** 4-6 (as a dip)

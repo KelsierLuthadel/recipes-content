@@ -1,6 +1,7 @@
 # Chin-Chin
 
 ![Chin-Chin](resources/chin-chin.jpg)
+
 *Nigeria's eternal snack: small nutmeg-spiced dough nibbles deep-fried crisp gold. Sold in plastic bags everywhere, made by the kilo at Christmas.*
 
 **Serves:** Makes about 800 g

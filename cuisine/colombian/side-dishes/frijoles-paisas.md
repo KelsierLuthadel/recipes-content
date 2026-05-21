@@ -1,6 +1,7 @@
 # Frijoles Paisas
 
 ![Frijoles Paisas](resources/frijoles-paisas.jpg)
+
 *Red beans the Antioquian way: kidney beans (or cargamanto) slow-cooked with a chunk of green plantain (which thickens the broth into a velvet texture), pork belly, chorizo, hogao and a final splash of lime. The bean dish at the centre of the bandeja paisa.*
 
 **Serves:** 6

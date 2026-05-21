@@ -1,6 +1,7 @@
 # Tunisian Fricassé
 
 ![Tunisian Fricassé](resources/tunisian-fricasse.jpg)
+
 *Tunisia's deep-fried sandwich bun: yeasted dough puffed in hot oil, split open and stuffed with tuna, harissa, capers, olives and egg.*
 
 **Serves:** Makes 8 fricassés

@@ -1,6 +1,7 @@
 # Falafel Palestinian
 
 ![Falafel Palestinian](resources/falafel-palestinian.jpg)
+
 *Palestine's herb-green falafel: soaked chickpeas blitzed with parsley, coriander and leek, deep-fried amber and tucked into thick khobz with tahini.*
 
 **Serves:** 4 (makes 20 patties)

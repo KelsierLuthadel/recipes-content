@@ -1,6 +1,7 @@
 # Kaju Barfi
 
 ![Kaju Barfi](resources/kaju-barfi.jpg)
+
 *Indian cashew fudge: ground cashews cooked with a one-string sugar syrup until they form a soft dough, rolled flat, dusted with rose petals, cut into diamonds. The kind of sweet that comes in a silver-leafed box for Diwali and disappears in two days.*
 
 **Serves:** 16 (makes about 20 diamonds)

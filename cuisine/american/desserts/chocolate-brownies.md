@@ -1,6 +1,7 @@
 # Chocolate Brownies
 
 ![Chocolate Brownies](resources/chocolate-brownies.png)
+
 *Fudgy, dense, glossy-topped chocolate brownies. The middle should be slightly underdone - set but still gooey; the edges should pull away from the tin. The crackly top is from sugar dissolved fully into the batter; whisk the eggs and sugar long enough to thicken before folding in everything else.*
 
 **Makes:** 16 brownies

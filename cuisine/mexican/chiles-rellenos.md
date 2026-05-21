@@ -1,6 +1,7 @@
 # Chiles Rellenos
 
 ![Chiles Rellenos](resources/chiles-rellenos.jpg)
+
 *Poblano peppers stuffed with cheese, dipped in egg-white batter and fried until golden, served in a tomato-onion broth. The puffy, soft, smoky-sweet pepper holds the molten cheese; the broth ties everything together. Worth the production.*
 
 **Serves:** 4

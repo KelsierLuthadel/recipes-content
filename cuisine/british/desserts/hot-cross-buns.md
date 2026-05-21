@@ -1,6 +1,7 @@
 # Hot Cross Buns
 
 ![Hot Cross Buns](resources/hot-cross-buns.jpg)
+
 *The Easter bake. Soft enriched dough scented with cinnamon, nutmeg and orange zest, studded with currants and chopped peel, marked with a flour-paste cross, glazed sticky with a sugar wash. Split warm, slathered with cold salty butter.*
 
 **Serves:** 12 buns

@@ -5,7 +5,9 @@
 *Rome's angry pasta: penne in a sauce of fresh tomato, fierce chilli, golden garlic and good olive oil. The dish's name refers to the chilli's heat.*
 
 **Serves:** 4
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 5 minutes
 
 ## Overview

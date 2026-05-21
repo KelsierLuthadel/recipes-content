@@ -1,6 +1,7 @@
 # Buttered Red Cabbage
 
 ![Buttered Red Cabbage](resources/buttered-red-cabbage.jpg)
+
 *Sweet-and-sour braised red cabbage with apple, onion, vinegar and butter. The German / British / Eastern European Sunday-lunch staple; goes with goose, duck, pork, sausages, anything rich. Improves over a couple of days; make ahead.*
 
 **Serves:** 6-8

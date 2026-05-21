@@ -1,6 +1,7 @@
 # Piri Piri Chicken
 
 ![Piri Piri Chicken](resources/piri-piri-chicken.jpg)
+
 *Portugal's grill plate: spatchcocked chicken marinated in a fiery piri-piri sauce, then charred hard over flame.*
 
 **Serves:** 4

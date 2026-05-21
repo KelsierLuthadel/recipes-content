@@ -1,6 +1,7 @@
 # Rissois de Camarão
 
 ![Rissois de Camarao](resources/rissois-de-camarao.jpg)
+
 *Portugal's snack-bar half-moon: a thin pot-cooked dough wrapped around a creamy béchamel-bound prawn filling, breaded and deep-fried.*
 
 **Serves:** 6 (makes 24 rissois)

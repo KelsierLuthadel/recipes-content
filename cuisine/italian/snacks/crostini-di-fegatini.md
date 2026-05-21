@@ -1,6 +1,7 @@
 # Crostini di Fegatini
 
 ![Crostini di Fegatini](resources/crostini-di-fegatini.jpg)
+
 *Tuscany's defining antipasto: chicken livers cooked with onion, anchovies, capers and Vin Santo, spread warm onto small crusty toasts.*
 
 **Serves:** 6 (makes about 24 crostini)

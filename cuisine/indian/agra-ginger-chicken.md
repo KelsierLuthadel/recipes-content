@@ -4,8 +4,6 @@
 
 *Agra's ginger chicken: bone-in chicken simmered in a deep tomato-onion gravy heavy with fresh ginger, garlic and green chilli.*
 
-
-
 **Serves:** 4-6
 
 **Prep Time:** 10 minutes

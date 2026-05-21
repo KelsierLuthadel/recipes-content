@@ -1,6 +1,7 @@
 # Salata Baladi
 
 ![Salata Baladi](resources/salata-baladi.jpg)
+
 *"Country salad" - Egypt's everyday tomato-cucumber-onion salad with lemon, olive oil, salt and cumin. Served alongside ful, koshari, mezze plates. Crunchy, sharp, very lightly seasoned - the foil to richer dishes.*
 
 **Serves:** 4 as a side

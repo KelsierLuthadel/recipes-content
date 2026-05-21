@@ -1,6 +1,7 @@
 # Makroud
 
 ![Makroud](resources/makroud.jpg)
+
 *North Africa's date diamonds: a buttery semolina dough wrapped around softened date paste, cut into diamonds, fried, then dipped in honey-orange syrup.*
 
 **Makes:** 30 diamonds

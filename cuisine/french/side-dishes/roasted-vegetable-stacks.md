@@ -4,10 +4,10 @@
 
 *Roasted vegetable stacks: slices of aubergine, courgette, pepper and onion roasted till tender.*
 
-
-
 **Prep Time:** 20 minutes
+
 **Cook Time:** 30 minutes
+
 **Serves:**  4
 
 ## Overview

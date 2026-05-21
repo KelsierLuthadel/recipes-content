@@ -1,6 +1,7 @@
 # Shepherd's Pie
 
 ![Shepherd's Pie](resources/shepherds-pie.jpg)
+
 *Lamb mince in a deeply savoury onion-and-rosemary gravy, sealed under a buttery mash crust that crisps on top in the oven. The British nursery-food staple, named after the lamb (a "shepherd" doesn't herd cattle); use beef and you're making cottage pie instead.*
 
 **Serves:** 4-6

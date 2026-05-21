@@ -1,6 +1,7 @@
 # Chanasan Makh
 
 ![Chanasan Makh](resources/chanasan-makh.jpg)
+
 *Mongolia's plainest dish: mutton on the bone boiled in salted water with nothing else. The honour-meat of the steppe, eaten by hand with a knife.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Birria
 
 ![Birria](resources/birria.jpg)
+
 *Jalisco's slow-braised beef: shredded chuck in a deep red chile broth scented with cinnamon, oregano and clove. Eaten in its own consomme or as a taco.*
 
 **Serves:** 8

@@ -1,6 +1,7 @@
 # Toad in the Hole
 
 ![Toad in the Hole](resources/toad-in-the-hole.jpg)
+
 *Sausages baked into a billowing, tray-sized Yorkshire-pudding batter, served with onion gravy. The name is older than the dish and the etymology is murky (most likely 18th-century slang for "looking like toads peering from holes"). Cheap, fast, deeply satisfying.*
 
 **Serves:** 4

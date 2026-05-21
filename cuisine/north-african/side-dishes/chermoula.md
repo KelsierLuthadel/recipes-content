@@ -1,6 +1,7 @@
 # Chermoula
 
 ![Chermoula](resources/chermoula.jpg)
+
 *Morocco's all-purpose green herb sauce: coriander, parsley, garlic, cumin, paprika, saffron and lemon, bound with good olive oil.*
 
 **Serves:** 6 (makes ~250 ml)

@@ -4,8 +4,6 @@
 
 *Thailand's green chicken curry: chicken simmered in a coconut sauce built on fresh-green-chilli paste with lemongrass.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

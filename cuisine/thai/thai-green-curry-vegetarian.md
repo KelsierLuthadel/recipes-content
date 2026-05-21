@@ -1,6 +1,7 @@
 # Thai Green Curry (Vegetarian)
 
 ![Thai Green Curry (Vegetarian)](resources/thai-green-curry-vegetarian.jpg)
+
 *A vegetarian Thai green curry: fresh green-chilli paste fried in coconut cream, with tofu and aubergine poached in the thinned coconut sauce.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Hogao
 
 ![Hogao](resources/hogao.jpg)
+
 *Colombia's national table sauce / sofrito: tomato, spring onion (cebolla larga), onion, garlic, ground cumin and annatto stewed down slow into a deep red-orange paste-sauce. Spooned over grilled meats, fried plantains, arepas and rice. Appears in almost every savoury Colombian dish, on the table at every meal.*
 
 **Serves:** 8 (small jar)

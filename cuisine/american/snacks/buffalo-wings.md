@@ -1,6 +1,7 @@
 # Buffalo Wings
 
 ![Buffalo Wings](resources/buffalo-wings.jpg)
+
 *The American bar snack: deep-fried wings tossed in glossy hot-sauce butter, served with celery sticks and blue-cheese dip. Born in Buffalo.*
 
 **Serves:** 4 (about 24 wings)

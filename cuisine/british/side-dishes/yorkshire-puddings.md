@@ -1,6 +1,7 @@
 # Yorkshire Puddings
 
 ![Yorkshire Puddings](resources/yorkshire-puddings.jpg)
+
 *The Sunday-roast side: puffed-up batter cups baked in beef-dripping tins, hollow inside, ready to hold a flood of gravy.*
 
 **Serves:** 4 (makes 8 individual Yorkshires)

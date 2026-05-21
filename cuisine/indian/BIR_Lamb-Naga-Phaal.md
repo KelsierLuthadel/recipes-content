@@ -4,8 +4,6 @@
 
 *The hottest curry-house dish: pre-cooked lamb in a fierce dark gravy built on Naga chillies and phaal-strength curry spice.*
 
-
-
 **Serves:** 1-2
 
 **Prep Time:** 10 minutes

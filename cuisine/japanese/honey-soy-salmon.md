@@ -1,6 +1,7 @@
 # Honey Soy Salmon (One-Pan)
 
 ![Honey Soy Salmon (One-Pan)](resources/honey-soy-salmon.jpg)
+
 *Fastest weeknight dinner: salmon fillets pan-roasted in a sticky honey-soy-ginger glaze with broccoli or bok choy on the side. Twenty minutes start to finish; hits the major Japanese-leaning weeknight notes.*
 
 **Serves:** 4

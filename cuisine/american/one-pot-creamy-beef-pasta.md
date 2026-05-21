@@ -1,6 +1,7 @@
 # One-Pot Creamy Beef Pasta
 
 ![One-Pot Creamy Beef Pasta](resources/one-pot-creamy-beef-pasta.jpg)
+
 *A 35-minute weeknight pasta where ground beef, dried rigatoni and broth all cook in the same pot, then heavy cream and two cheeses fold in to finish. Sharp white cheddar + parmesan; rigatoni's wide ribbed surface clings to the sauce. Single pot, single wash.*
 
 **Serves:** 6

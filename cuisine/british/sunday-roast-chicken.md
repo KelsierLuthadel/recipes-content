@@ -1,6 +1,7 @@
 # Sunday Roast Chicken
 
 ![Sunday Roast Chicken](resources/sunday-roast-chicken.jpg)
+
 *The full Sunday lunch: a butter-basted whole chicken with crisp skin, roast potatoes, Yorkshire puddings and pan gravy. The pub-roast template that builds week after week into a rotating set of muscle memories.*
 
 **Serves:** 4-6

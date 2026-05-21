@@ -1,6 +1,7 @@
 # Fish and Chips
 
 ![Fish and Chips](resources/fish-and-chips.jpg)
+
 *The British takeaway icon: cod or haddock in a beer-batter shell that shatters when you bite, alongside thick chunky chips fried twice for the crispest crust. Mushy peas and a wedge of lemon on the side; vinegar at the table.*
 
 **Serves:** 4

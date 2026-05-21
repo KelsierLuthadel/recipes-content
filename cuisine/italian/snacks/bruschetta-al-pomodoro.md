@@ -1,6 +1,7 @@
 # Bruschetta al Pomodoro
 
 ![Bruschetta al Pomodoro](resources/bruschetta-al-pomodoro.jpg)
+
 *The Italian summer antipasto: country bread grilled hard, rubbed with raw garlic, drizzled with oil and piled with macerated tomato.*
 
 **Serves:** 4 (8 bruschetta)

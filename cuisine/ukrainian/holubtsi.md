@@ -1,6 +1,7 @@
 # Holubtsi
 
 ![Holubtsi](resources/holubtsi.jpg)
+
 *Ukrainian stuffed cabbage rolls: blanched cabbage leaves wrapped around a filling of pork, beef, rice and onion, then braised in a tomato-and-soured-cream sauce until soft and tender. The leaves go almost translucent; the filling is juicy. A Sunday-dinner classic across Eastern Europe.*
 
 **Serves:** 6

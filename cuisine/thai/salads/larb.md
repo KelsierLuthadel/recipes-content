@@ -1,6 +1,7 @@
 # Larb
 
 ![Larb](resources/larb.jpg)
+
 *Thailand's Isaan minced-meat salad: hot-fried pork tossed with toasted rice powder, fish sauce, lime, dried chilli, shallot, mint and coriander.*
 
 **Serves:** 4

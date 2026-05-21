@@ -1,6 +1,7 @@
 # Arroz Rojo Con Chorizo
 
 ![Arroz Rojo con Chorizo](resources/arroz-rojo-con-chorizo.jpg)
+
 *Tomato-stained rice cooked with Mexican chorizo, onion and garlic. A heartier turn on the classic red rice; eats as a side or a meal on its own with a fried egg on top.*
 
 **Serves:** 4-6

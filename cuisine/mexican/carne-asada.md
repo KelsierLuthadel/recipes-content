@@ -1,6 +1,7 @@
 # Carne Asada
 
 ![Carne Asada](resources/carne-asada.jpg)
+
 *Mexican grilled steak: skirt or flank marinated in lime, citrus juices, garlic, chilli and coriander, then grilled hot over high heat and sliced against the grain. The classic taqueria filling; equally good as a steak with rice, beans and tortillas.*
 
 **Serves:** 4-6

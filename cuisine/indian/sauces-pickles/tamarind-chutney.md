@@ -1,13 +1,10 @@
 # Tamarind Chutney
 
-*India's sweet-sour tamarind chutney: tamarind pulp simmered with jaggery.*
-
-
-**Prep Time:** 15 minutes
-
 ![Tamarind Chutney](resources/tamarind-chutney.jpg)
 
-*This sweet, sour, savory, and spicy chutney is a must for any curry party. Tangy tamarind forms the base, balanced with sugar and brightened with lemon. Fresh vegetables and coriander provide texture and herbal notes. A complex condiment that's more than just a dipping sauce.*
+*India's sweet-sour tamarind chutney: tamarind pulp simmered with jaggery.*
+
+**Prep Time:** 15 minutes
 
 **Yield:** Approximately 400 ml
 
@@ -90,3 +87,5 @@ Garnish: None needed; this is a condiment
 - The high sugar, salt, and acid content preserve the chutney
 - Once prepared, flavors are best within 2-3 days
 - Do not freeze; texture and freshness suffer significantly 
+
+*This sweet, sour, savory, and spicy chutney is a must for any curry party. Tangy tamarind forms the base, balanced with sugar and brightened with lemon. Fresh vegetables and coriander provide texture and herbal notes. A complex condiment that's more than just a dipping sauce.*

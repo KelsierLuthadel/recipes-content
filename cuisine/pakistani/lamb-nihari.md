@@ -1,6 +1,7 @@
 # Lamb Nihari
 
 ![Lamb Nihari](resources/lamb-nihari.jpg)
+
 *Lahore's slow lamb stew: shoulder simmered for hours in mustard oil, ginger and a fragrant masala. Eaten with naan at dawn.*
 
 **Serves:** 4-6

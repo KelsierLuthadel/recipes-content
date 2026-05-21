@@ -1,6 +1,7 @@
 # Hamburger Steaks with Onion Gravy
 
 ![Hamburger Steaks with Onion Gravy](resources/hamburger-steaks.jpg)
+
 *Southern comfort food: seasoned ground beef patties browned hard, then simmered in a rich beef-and-onion gravy from a Lipton Beefy Onion soup packet. Pairs with mashed potatoes and peas; a workday "Salisbury steak" that doesn't apologise for being simple.*
 
 **Serves:** 6

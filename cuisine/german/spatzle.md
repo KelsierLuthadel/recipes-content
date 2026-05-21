@@ -1,6 +1,7 @@
 # Spätzle
 
 ![Spätzle](resources/spatzle.jpg)
+
 *Swabian egg noodles: a wet flour-egg-milk batter pressed through a perforated tool into boiling water, where the strands set into soft chewy noodles. Served buttered as a side, or made into Käsespätzle (cheese spätzle) as a main course.*
 
 **Serves:** 4

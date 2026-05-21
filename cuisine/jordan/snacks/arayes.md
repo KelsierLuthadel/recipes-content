@@ -1,6 +1,7 @@
 # Arayes
 
 ![Arayes](resources/arayes.jpg)
+
 *Stuffed pita pockets with spiced lamb mince, grilled or pan-fried until the bread is crisp and the filling is just cooked through. Eaten hot with tahina sauce, yogurt and a wedge of lemon. A Jordanian and Lebanese street snack that's also a fast weeknight dinner.*
 
 **Serves:** 4

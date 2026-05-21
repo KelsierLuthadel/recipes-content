@@ -1,6 +1,7 @@
 # Knafeh
 
 ![Knafeh](resources/knafeh.jpg)
+
 *The Turkish-Levantine dessert that closes Ramadan iftars from Istanbul to Beirut. Shredded kataifi pastry baked over a layer of soft cheese, soaked in orange-blossom syrup, served warm and dusted with crushed pistachios. The cheese stretches.*
 
 **Serves:** 8

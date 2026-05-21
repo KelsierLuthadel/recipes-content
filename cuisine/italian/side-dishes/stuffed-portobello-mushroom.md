@@ -5,6 +5,7 @@
 *This wonderfully aromatic stuffed mushroom is particularly good as a starter or a side dish.*
 
 **Serves:** 2
+
 **Prep Time:** 10 minutes
 
 ## Overview

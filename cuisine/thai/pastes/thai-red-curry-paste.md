@@ -4,8 +4,6 @@
 
 *Thailand's red curry paste: dried red chillies, lemongrass, galangal, kaffir lime, garlic and shrimp paste pounded into a deep.*
 
-
-
 **Makes:** Approx. 250 ml (1 cup)
 
 **Prep Time:** 40-60 minutes

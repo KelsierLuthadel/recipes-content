@@ -1,6 +1,7 @@
 # Kafta Mishweeyeh
 
 ![Kafta Mishweeyeh](resources/kafta-mishweeyeh.jpg)
+
 *Lebanon's grilled kafta: lamb-and-beef mince mixed with parsley, onion, allspice and cinnamon, shaped on flat skewers and grilled charred over charcoal.*
 
 **Serves:** 4

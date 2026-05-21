@@ -5,7 +5,9 @@
 *A New York style pizza loaded with mini beef meatballs, two kinds of cured sausage, mozzarella and a hit of chilli. The meatballs are simmered in their own tomato sauce before they meet the dough.*
 
 **Serves:** 2
+
 **Prep Time:** 20 minutes
+
 **Cook Time:** 35 minutes
 
 ## Overview

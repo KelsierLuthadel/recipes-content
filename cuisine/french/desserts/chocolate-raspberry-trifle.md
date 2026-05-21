@@ -5,6 +5,7 @@
 *In this trifle the layers are soft, with a hint of sharpness. Ideally the chocolate sponge will be made a day in advance.*
 
 **Serves:** 6
+
 **Prep Time:** 10 minutes
 
 ## Ingredients

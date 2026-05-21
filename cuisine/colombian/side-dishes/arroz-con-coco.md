@@ -1,6 +1,7 @@
 # Arroz Con Coco
 
 ![Arroz con Coco](resources/arroz-con-coco.jpg)
+
 *Coconut rice from Colombia's Caribbean coast (Cartagena, Santa Marta): long-grain rice cooked in coconut milk with a small handful of raisins and a final golden crust on the bottom (called "titoté"). Sweet-savoury, glossy, with the raisins plumping in the steam. Eaten alongside fried fish, ropa vieja or shrimp.*
 
 **Serves:** 4

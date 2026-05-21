@@ -1,14 +1,12 @@
 # Berbere
 
-*Ethiopia's signature spice mix: dried chilli, fenugreek, coriander, cardamom and clove toasted and ground.*
-
-
-**Prep Time:** 10 minutes
-**Cook Time:** 15 minutes
-
 ![Berbere](resources/berbere.jpg)
 
-*Ethiopia produces some of Africa's most delicious food. Dishes such as spicy stews, fueled by the fire of this legendary hot spice mixture, are traditionally served on large discs of spongy bread called injera. Berbere is the soul of Ethiopian cooking.*
+*Ethiopia's signature spice mix: dried chilli, fenugreek, coriander, cardamom and clove toasted and ground.*
+
+**Prep Time:** 10 minutes
+
+**Cook Time:** 15 minutes
 
 **Yield:** Approximately 50-60 grams (makes 15-20 portions)
 
@@ -100,3 +98,6 @@ Temperature: Requires simmering time; heat needs time to integrate
 - The chillies may cause the blend to absorb moisture; check for clumping
 - Label with preparation date
 
+
+
+*Ethiopia produces some of Africa's most delicious food. Dishes such as spicy stews, fueled by the fire of this legendary hot spice mixture, are traditionally served on large discs of spongy bread called injera. Berbere is the soul of Ethiopian cooking.*

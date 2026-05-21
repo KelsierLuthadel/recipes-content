@@ -1,6 +1,7 @@
 # Bolani
 
 ![Bolani](resources/bolani.jpg)
+
 *Afghan stuffed flatbread: thin dough rounds folded around a filling of spiced potato, leek and coriander, then pan-fried until golden, blistered and slightly crisp on the outside, soft inside. Eaten with a bowl of garlic-mint yogurt for dipping; sold from carts across Kabul.*
 
 **Makes:** 8 bolani (serves 4)

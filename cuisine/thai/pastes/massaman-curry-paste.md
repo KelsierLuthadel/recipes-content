@@ -4,8 +4,6 @@
 
 *Thailand's massaman curry paste: dry-roasted dried chillies, lemongrass, galangal, cinnamon.*
 
-
-
 **Makes:** Approx. 250 ml (1 cup)
 
 **Prep Time:** 40-60 minutes

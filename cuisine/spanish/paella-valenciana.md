@@ -1,6 +1,7 @@
 # Paella Valenciana
 
 ![Paella Valenciana](resources/paella-valenciana.jpg)
+
 *The original paella from Valencia: chicken, rabbit, beans, snails (or rosemary if you're squeamish) and saffron rice cooked in a wide flat pan. The rice is unstirred to develop the prized socarrat - the caramelised crust on the bottom of the pan.*
 
 **Serves:** 6

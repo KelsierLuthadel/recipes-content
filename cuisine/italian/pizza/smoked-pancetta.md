@@ -5,7 +5,9 @@
 *A French-leaning white pizza, closer in spirit to a tarte flambée than a Naples-style tomato pie. Crème fraîche stands in for tomato sauce, with smoked pancetta and two kinds of onion on top.*
 
 **Serves:** 3 to 4
+
 **Prep Time:** 10 minutes
+
 **Cook Time:** 25 minutes
 
 ## Overview

@@ -1,6 +1,7 @@
 # Pav Bhaji
 
 ![Pav Bhaji](resources/pav-bhaji.jpg)
+
 *Mumbai's night-market plate: a thick spiced mash of vegetables, scooped with butter-griddled pav rolls. Built around pav bhaji masala.*
 
 **Serves:** 4

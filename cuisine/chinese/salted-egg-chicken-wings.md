@@ -1,6 +1,7 @@
 # Salted Egg Chicken Wings
 
 ![Salted Egg Chicken Wings](resources/salted-egg-chicken-wings.jpg)
+
 *A Cantonese-Sichuan crossover: shallow-fried chicken wings tossed through a foaming, sandy coating of crumbled salted duck egg yolks.*
 
 **Serves:** 3-4 (as part of a larger meal)

@@ -5,7 +5,9 @@
 *A classic Thai prawn pad see ew looks like a simple stir-fried noodle dish, but the finesse is in the prep: charring the noodles, marinating the seafood, and finishing with a traditional chilli vinegar that lifts the whole plate.*
 
 **Serves:** 2
+
 **Prep Time:** 10 minutes
+
 **Cook Time:** 5 minutes
 
 ## Overview

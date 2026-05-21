@@ -1,6 +1,7 @@
 # Gizzada
 
 ![Gizzada](resources/gizzada.jpg)
+
 *Small Jamaican coconut tartlets - shortcrust pastry shells with a pinched, fluted edge, filled with a sticky, spiced coconut mixture cooked down with brown sugar, ginger, nutmeg and vanilla. Sometimes called "pinch-me-round" for the hand-pinched edge. A tea-time classic and a fixture at every Jamaican bakery.*
 
 **Serves:** Makes 12 tarts

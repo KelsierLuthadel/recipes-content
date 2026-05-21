@@ -1,6 +1,7 @@
 # Niislel Salat
 
 ![Niislel Salat](resources/niislel-salat.jpg)
+
 *Mongolia's 'capital city salad': diced boiled potato, carrot, egg, pickles and sausage bound with mayo. Served chilled at any large meal.*
 
 **Serves:** 6 as a side

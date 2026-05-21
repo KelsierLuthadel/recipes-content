@@ -1,6 +1,7 @@
 # Bouillabaisse
 
 ![Bouillabaisse](resources/bouillabaisse.jpg)
+
 *Marseille fishermen's stew: a saffron-tomato broth carrying multiple kinds of fish and sometimes shellfish, served with rouille-spread croutons. Built from whatever the catch threw up; what's traditional now was once just whatever was cheap.*
 
 **Serves:** 6

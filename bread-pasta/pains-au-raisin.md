@@ -1,13 +1,10 @@
 # Pains au Raisins
 
-*France's spiral pastry: a butter-laminated croissant dough rolled around a crème pâtissière and raisins.*
-
-
-**Prep Time:** 5 minutes
-
 ![Pains au raisins](resources/pains-aux-raisin.jpg)
 
-*These classic French breakfast pastries should be served with a steaming cup of hot chocolate.*
+*France's spiral pastry: a butter-laminated croissant dough rolled around a crème pâtissière and raisins.*
+
+**Prep Time:** 5 minutes
 
 **Yield:** 30 pastries
 
@@ -91,3 +88,5 @@ Accompaniments: Jam, pastry cream, or unsweetened crème fraîche
 - Reheat gently in a 160°C oven for 3-4 minutes to restore warmth
 - Can be prepared and frozen before baking; bake directly from frozen at 170°C for 14-15 minutes
 - Do not refrigerate; cold makes them stodgy
+
+*These classic French breakfast pastries should be served with a steaming cup of hot chocolate.*

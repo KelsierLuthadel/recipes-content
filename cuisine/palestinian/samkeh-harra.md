@@ -1,6 +1,7 @@
 # Samkeh Harra
 
 ![Samkeh Harra](resources/samkeh-harra.jpg)
+
 *Gaza's spicy fish: a whole sea bream baked on a bed of tahini-and-coriander sauce spiked with garlic, Aleppo pepper and lemon. Pomegranate on top.*
 
 **Serves:** 4

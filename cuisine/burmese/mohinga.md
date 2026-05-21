@@ -1,6 +1,7 @@
 # Mohinga
 
 ![Mohinga](resources/mohinga.jpg)
+
 *Myanmar's national breakfast: a fish-and-rice-noodle soup scented with lemongrass, ginger and shallot, thickened with toasted chickpea flour.*
 
 **Serves:** 6

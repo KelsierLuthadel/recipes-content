@@ -1,6 +1,7 @@
 # Matzo Ball Soup
 
 ![Matzo Ball Soup](resources/matzo-ball-soup.jpg)
+
 *The Passover soup. Light, fluffy matzo balls floating in a clear, deeply chicken-y broth, with carrots, dill and a slick of golden schmaltz on the surface. The opening of the seder meal, and the recovery food for everything else.*
 
 **Serves:** 6

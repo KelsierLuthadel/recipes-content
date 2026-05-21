@@ -1,6 +1,7 @@
 # Rasgulla
 
 ![Rasgulla](resources/rasgulla.jpg)
+
 *Bengal's queen of sweets: white spheres of fresh chhena doubled in size by long simmering in light cardamom-scented sugar syrup. Spongy and sweet.*
 
 **Serves:** 6 (makes 12 rasgulla)

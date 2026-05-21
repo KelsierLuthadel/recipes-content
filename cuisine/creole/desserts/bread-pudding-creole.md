@@ -1,6 +1,7 @@
 # Bread Pudding (Creole)
 
 ![Creole Bread Pudding](resources/bread-pudding-creole.jpg)
+
 *New Orleans bread pudding: stale French bread soaked in a cinnamon-raisin custard, baked golden and drenched in warm bourbon whiskey sauce.*
 
 **Serves:** 8

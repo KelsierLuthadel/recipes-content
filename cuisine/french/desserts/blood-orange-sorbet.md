@@ -5,6 +5,7 @@
 *A sorbet should be on the tart side rather than overly sweet. You may need to adjust the quantity of sugar syrup according to how sweet or acidic the fruit is.*
 
 **Serves:** 8 - 10
+
 **Prep Time:** 10 minutes
 
 ## Ingredients

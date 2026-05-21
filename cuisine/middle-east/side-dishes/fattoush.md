@@ -1,6 +1,7 @@
 # Fattoush
 
 ![Fattoush](resources/fattoush.jpg)
+
 *Levantine bread salad: chopped cucumber, tomato, radish, herbs and shards of toasted pita, all dressed with lemon, olive oil and sumac. The peasant salad that uses up stale bread; sumac gives it the characteristic tang.*
 
 **Serves:** 4

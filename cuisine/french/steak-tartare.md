@@ -1,6 +1,7 @@
 # Steak Tartare
 
 ![Steak Tartare](resources/steak-tartare.jpg)
+
 *Raw beef fillet hand-chopped fine, mixed with capers, gherkins, shallot, parsley, mustard and Worcestershire, topped with a raw egg yolk, served with toast and a green salad. The most adult dinner-party starter; not for the squeamish but the most luxurious thing you can eat at room temperature.*
 
 **Serves:** 4

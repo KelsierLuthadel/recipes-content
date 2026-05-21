@@ -1,6 +1,7 @@
 # Rocky Road Tiffin
 
 ![Rocky Road Tiffin](resources/rocky-road-tiffin.jpg)
+
 *Rocky road wearing the tiffin coat. Crushed digestive biscuits and chopped nuts bound in cocoa-butter mixture, studded with mini marshmallows and chunks of fudge, sealed under a milk-chocolate top with a white-chocolate drizzle. No bake, fridge-set, sliceable in twenty.*
 
 **Makes:** 16 squares

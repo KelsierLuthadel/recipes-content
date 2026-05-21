@@ -1,6 +1,7 @@
 # Shish Barak
 
 ![Shish Barak](resources/shish-barak.jpg)
+
 *Palestine's celebration dumplings: tiny lamb-stuffed parcels baked till firm, then warmed in a yogurt-and-mint sauce with garlicky butter.*
 
 **Serves:** 4

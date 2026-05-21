@@ -1,6 +1,7 @@
 # Fatayer Sabanikh
 
 ![Fatayer Sabanikh](resources/fatayer-sabanikh.jpg)
+
 *Palestine's spinach tricorns: a soft olive-oil dough folded around wilted spinach, sumac, onion and pine nuts, baked golden.*
 
 **Serves:** 4 (makes 12 fatayer)

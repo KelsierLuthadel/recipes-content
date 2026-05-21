@@ -1,6 +1,7 @@
 # Hummus
 
 ![Hummus](resources/hummus.jpg)
+
 *The Levantine chickpea dip: chickpeas cooked with bicarb till falling apart, blended hot with tahini, lemon and garlic. Plated swirled, eaten with warm pita.*
 
 **Serves:** 6

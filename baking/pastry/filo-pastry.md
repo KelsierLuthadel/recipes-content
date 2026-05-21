@@ -4,10 +4,6 @@
 
 *As with all pastry, mastering filo is very satisfying. The difficulty of rolling the dough to the required thinness of only ½ mm is not insurmountable, but it's certainly a challenge.*
 
-*Filo pastry dries out very quickly, so it is essential to cover it with a damp tea towel. Once the pastry has been made, it should be kept wrapped up in a damp tea towel and rested in the refrigerator and used within 24 hours.*
-
-*Most recipes call for interleaving layers of filo, these sheets will need to be brushed generously with melted butter whilst assembling the required dish.*
-
 **Serves:** 780 grams
 
 ## Overview
@@ -56,3 +52,6 @@ Use filo sheets layered with fillings (sweet or savory) and brush generously wit
 
 ## Storage
 Filo pastry is best used within 24 hours of preparation. Store wrapped in damp tea towels in the refrigerator for up to 24 hours. Keep in a sealed plastic bag to prevent drying. Once layered and assembled, bake immediately. Baked filo items are best consumed fresh but can be stored in an airtight container for 1-2 days.
+
+*Filo pastry dries out very quickly, so it is essential to cover it with a damp tea towel. Once the pastry has been made, it should be kept wrapped up in a damp tea towel and rested in the refrigerator and used within 24 hours.*
+*Most recipes call for interleaving layers of filo, these sheets will need to be brushed generously with melted butter whilst assembling the required dish.*

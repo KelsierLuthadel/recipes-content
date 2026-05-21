@@ -5,7 +5,9 @@
 *The beef can be wrapped in its pastry crust up to 4 hours in advance and kept in the fridge, ready to bake when you are ready to eat.*
 
 **Serves:** 6
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 42 minutes
 
 ## Overview

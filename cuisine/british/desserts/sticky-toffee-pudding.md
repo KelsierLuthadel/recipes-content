@@ -1,6 +1,7 @@
 # Sticky Toffee Pudding
 
 ![Sticky Toffee Pudding](resources/sticky-toffee-pudding.jpg)
+
 *Date sponge with a deeply caramel toffee sauce that gets poured over and around the pudding to soak in. The British end-of-Sunday-lunch winter pudding; debatably invented in the Lake District in the 1970s; entirely beloved.*
 
 **Serves:** 6-8

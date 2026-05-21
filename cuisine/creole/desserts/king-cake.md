@@ -1,6 +1,7 @@
 # King Cake
 
 ![King Cake](resources/king-cake.jpg)
+
 *Mardi Gras' official cake: a sweet brioche ring filled with cinnamon and brown sugar, iced and dusted with purple, green and gold sugar.*
 
 **Serves:** Makes 1 large king cake (serves 12)

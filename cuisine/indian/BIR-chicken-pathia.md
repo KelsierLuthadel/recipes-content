@@ -4,8 +4,6 @@
 
 *A BIR chicken pathia: pre-cooked chicken in a sweet-sour-spicy Parsi-inspired gravy of tamarind, sugar and chilli.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

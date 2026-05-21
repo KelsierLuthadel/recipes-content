@@ -4,8 +4,8 @@
 
 *A French chestnut cream: sweetened chestnut purée folded into whipped cream, set in a glass and finished with a dark caramel sauce.*
 
-
 **Serves:** 4
+
 **Prep Time:** 5 minutes
 
 ## Ingredients

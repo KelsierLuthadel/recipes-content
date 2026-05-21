@@ -1,6 +1,7 @@
 # Wet Tha Hin Lay
 
 ![Wet Tha Hin Lay](resources/wet-tha-hin-lay.jpg)
+
 *Burma's pork curry: cubed pork shoulder slow-cooked in a deep aromatic gravy of turmeric, paprika, fried onion, garlic, ginger and fish sauce.*
 
 **Serves:** 4

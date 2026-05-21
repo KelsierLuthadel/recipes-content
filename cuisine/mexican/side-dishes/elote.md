@@ -1,6 +1,7 @@
 # Elote
 
 ![Elote](resources/elote.jpg)
+
 *Mexico's street-cart corn: charred corn cobs slathered in mayo-and-crema, dusted with crumbled cotija, chilli powder and finished with a lime wedge.*
 
 **Serves:** 4

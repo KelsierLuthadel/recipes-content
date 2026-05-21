@@ -1,6 +1,7 @@
 # Kuli-Kuli (Roasted Peanut Sticks)
 
 ![Kuli-Kuli](resources/kuli-kuli.jpg)
+
 *Northern Nigeria's peanut snack: roasted peanuts ground to a paste, pressed of their oil, shaped into sticks and deep-fried golden and crunchy.*
 
 **Serves:** Makes about 400 g

@@ -1,6 +1,7 @@
 # Tortang Talong
 
 ![Tortang Talong](resources/tortang-talong.jpg)
+
 *Filipino aubergine omelette: a whole charred aubergine flattened into beaten eggs, then pan-fried until golden. Smoky, soft inside the crisped egg shell, served with banana ketchup or just rice and soy sauce. A breakfast, a lunch, an everywhere meal.*
 
 **Serves:** 2

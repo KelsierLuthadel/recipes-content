@@ -1,6 +1,7 @@
 # Sfouf
 
 ![Sfouf](resources/sfouf.jpg)
+
 *Lebanon's vivid yellow turmeric semolina cake: a dense, nutty loaf leavened with baking powder and scattered with pine nuts. Eaten with afternoon tea.*
 
 **Serves:** 8 (makes 1 round cake)

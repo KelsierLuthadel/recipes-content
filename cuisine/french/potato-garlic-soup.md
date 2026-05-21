@@ -4,7 +4,6 @@
 
 *A French potato-garlic soup: floury potatoes simmered with a whole head of slow-cooked garlic.*
 
-
 **Serves:** 6
 
 **Prep Time:** 15 minutes

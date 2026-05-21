@@ -1,11 +1,10 @@
 # Chocolate Biscotti Cake
 
+![Chocolate biscotti cake](resources/chocolate-biscotti-cake.jpg)
+
 *An Italian dessert: a layered cake of chocolate sponge and crushed almond biscotti, set with whipped cream and cocoa. Sliced like a parfait.*
 
-
 **Prep Time:** 10 minutes
-
-![Chocolate biscotti cake](resources/chocolate-biscotti-cake.jpg)
 
 **Yield:** 8
 

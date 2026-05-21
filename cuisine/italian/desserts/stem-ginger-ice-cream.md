@@ -4,7 +4,6 @@
 
 *A British-Italian ice cream: a vanilla custard base studded with chopped stem ginger in syrup, churned and frozen. Warming under cold cream.*
 
-
 **Serves:** 8
 
 ## Ingredients

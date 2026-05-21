@@ -1,6 +1,7 @@
 # Salted Caramel Brownies
 
 ![Salted Caramel Brownies](resources/salted-caramel-brownies.jpg)
+
 *The dense, fudgy chocolate brownie with a stovetop salted-caramel rippled through it. Half a tin of soft caramel swirled into the batter just before the bake; a final scatter of flaky sea salt on top. Cut into thick squares; eat warm with vanilla ice cream or cold the next day.*
 
 **Serves:** 16 squares

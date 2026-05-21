@@ -1,6 +1,7 @@
 # Cabbage Thoran
 
 ![Cabbage Thoran](resources/cabbage-thoran.jpg)
+
 *Kerala-style dry cabbage with coconut: finely shredded cabbage tossed with grated coconut, mustard seeds, curry leaves and green chilli. A weekday workhorse side, on the table in 15 minutes.*
 
 **Serves:** 4

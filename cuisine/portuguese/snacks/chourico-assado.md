@@ -1,6 +1,7 @@
 # Chouriço Assado
 
 ![Chourico Assado](resources/chourico-assado.jpg)
+
 *Portugal's flame-grilled chouriço: a whole smoky sausage doused with aguardente and lit at the table. Charred, sliced thick, eaten with bread.*
 
 **Serves:** 4 (as a snack)

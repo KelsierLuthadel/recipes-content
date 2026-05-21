@@ -1,6 +1,7 @@
 # Champ
 
 ![Champ](resources/champ.jpg)
+
 *Mashed potatoes folded through with finely-sliced spring onions that have been steeped in hot milk. The milk goes onion-mild and herbal; the mash takes that flavour, gets generous butter, and is served with a well of melted butter pooling in the middle. Northern Ireland's everyday potato dish.*
 
 **Serves:** 4

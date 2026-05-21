@@ -5,7 +5,9 @@
 *Soto ayam is a fragrant turmeric-and-coconut broth from across the Indonesian archipelago, served at street stalls and family tables alike. Mee soto is the closely related egg-noodle version; the two share the same spice paste and broth.*
 
 **Serves:** 4
+
 **Prep Time:** 10  minutes
+
 **Cook Time:** 1 hour 20 minutes
 
 ## Overview

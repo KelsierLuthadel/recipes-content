@@ -1,6 +1,7 @@
 # Ful Medames
 
 ![Ful Medames](resources/ful-medames.jpg)
+
 *Egypt's national breakfast: dried fava beans slow-cooked with garlic, lemon, cumin and olive oil into a rough mash, eaten warm with bread, eggs, tomato, onion and chilli. Sold from carts across Cairo; cooked overnight in tall copper pots called qidra. Cheap, ancient, deeply nourishing.*
 
 **Serves:** 4

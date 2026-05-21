@@ -5,7 +5,9 @@
 *These iconic, elegant appetizers are perfect nibbles with an aperitif or served alongside a light consommé or soup. Golden, crispy pastry ribbons are twisted to create visual appeal while the cheese and paprika create savory, peppery flavor. Warm from the oven, they're irresistible.*
 
 **Prep Time:** 30 minutes
+
 **Cook Time:** 5-6 minutes
+
 **Yield:** 24 cheese straws
 
 ## Overview

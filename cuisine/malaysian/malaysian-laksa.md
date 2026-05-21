@@ -5,7 +5,9 @@
 *A quintessential Peranakan (Nyonya) noodle soup, defined by its rich, spicy coconut and curry-paste broth. The "lemak" in laksa lemak refers to the creamy richness coconut milk lends the soup; the dish itself is a multicultural fixture across Malaysia and Singapore.*
 
 **Serves:** 4
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 1 hour 20 minutes
 
 ## Overview

@@ -1,6 +1,7 @@
 # Smashburger
 
 ![Smashburger](resources/smashburger.jpg)
+
 *Crackling beef pressed onto a screaming-hot griddle, lacy brown edges curling around molten American cheese. The smell is pure diner: seared fat, toasted bun, and onions caramelising in the rendered tallow.*
 
 **Serves:** 4

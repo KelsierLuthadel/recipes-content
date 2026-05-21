@@ -1,6 +1,7 @@
 # Frijoles Fritos
 
 ![Frijoles Fritos](resources/frijoles-fritos.jpg)
+
 *Honduran refried beans: small red beans simmered with onion till soft, then mashed and fried hard with more onion till thick, glossy and dark. The plato cornerstone.*
 
 **Serves:** 6 (cup measure)

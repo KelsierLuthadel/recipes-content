@@ -1,6 +1,7 @@
 # Thandai
 
 ![Thandai](resources/thandai.jpg)
+
 *The Holi drink. Cold milk infused with a ground paste of almonds, cashews, fennel, cardamom, peppercorn, poppy seeds, rose petals and saffron. Sweet, perfumed, lightly spiced, and traditionally served by the jug as colour flies.*
 
 **Serves:** 4

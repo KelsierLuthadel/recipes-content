@@ -1,6 +1,7 @@
 # Murgh Cholay
 
 ![Murgh Cholay](resources/murgh-cholay.jpg)
+
 *Pakistan's weeknight chicken-and-chickpea curry: bone-in chicken simmered with chickpeas in a deep tomato-and-onion masala.*
 
 **Serves:** 4

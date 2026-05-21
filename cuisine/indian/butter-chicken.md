@@ -3,10 +3,9 @@
 ![Butter Chicken](resources/butter-chicken.png)
 
 *In 1947, Kundan Lal Gujral opened the first tandoori restaurant, called Moti Mahal, in Delhi, India. Although tandoor-style ovens had already been used for thousands of years, he was the first to have large tandoors manufactured for use in a restaurant.*
-*The restaurant served delicious marinated chicken, meat and vegetables, all charred to perfection in a tandoor. Not one to waste, Gujral came up with the idea of using the leftover marinades in a curry, and butter chicken (murgh makhani) was born.*
-
 
 **Serves:** 4
+
 **Prep Time:** 15 minutes
 
 ## Overview
@@ -47,3 +46,5 @@ The BIR icon: tandoori-grilled chicken finished in a velvety tomato-onion sauce 
 1. To finish, whisk in the cream and reserved marinade from preparing the chicken, and turn the heat back up to medium-high. 
 1. Add the chilled butter, 1 tbsp at a time, and check for seasoning, adding more salt if needed. 
 1. Sprinkle with the garam masala and serve.
+
+*The restaurant served delicious marinated chicken, meat and vegetables, all charred to perfection in a tandoor. Not one to waste, Gujral came up with the idea of using the leftover marinades in a curry, and butter chicken (murgh makhani) was born.*

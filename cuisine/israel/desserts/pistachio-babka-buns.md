@@ -1,6 +1,7 @@
 # Pistachio Babka Buns
 
 ![Pistachio Babka Buns](resources/pistachio-babka-buns.jpg)
+
 *Individual babka spirals built from an enriched dough, filled with a sticky date-and-cinnamon paste, scattered with chopped pistachios, baked in a round tin so the buns rise into each other, and finished with a warm honey glaze. The result is the pull-apart babka loaf in single-portion form: soft, fragrant, sweet but not cloying.*
 
 **Serves:** 7 buns

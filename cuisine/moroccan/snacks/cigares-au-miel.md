@@ -1,6 +1,7 @@
 # Cigares au Miel (Honey Almond Cigars)
 
 ![Cigares au Miel](resources/cigares-au-miel.jpg)
+
 *Morocco's honey-almond cigars: long thin warka cylinders filled with cinnamon-orange-flower almond paste, deep-fried, then soaked in warm honey.*
 
 **Serves:** Makes 20-24 cigars

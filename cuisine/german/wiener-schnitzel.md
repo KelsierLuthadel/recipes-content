@@ -1,6 +1,7 @@
 # Wiener Schnitzel
 
 ![Wiener Schnitzel](resources/wiener-schnitzel.jpg)
+
 *Austrian veal cutlet pounded thin, breaded with flour-egg-breadcrumbs, and shallow-fried in lard or butter until pale gold. The crumb should puff away from the meat in soft folds. Served with a slice of lemon and parsley potatoes.*
 
 **Serves:** 4

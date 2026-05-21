@@ -1,6 +1,7 @@
 # Efo Riro
 
 ![Efo Riro](resources/efo-riro.jpg)
+
 *The Yoruba 'stirred greens' stew: spinach wilted into a rich palm-oil, smoked-fish and red-pepper sauce. Served with rice or pounded yam.*
 
 **Serves:** 4

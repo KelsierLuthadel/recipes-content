@@ -4,8 +4,6 @@
 
 *BIR tandoori methi chicken tikka: yogurt-marinated chicken thighs blended with dried fenugreek leaves and tandoori spice.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 15 minutes

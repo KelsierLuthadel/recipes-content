@@ -1,6 +1,7 @@
 # Buñuelos Colombianos
 
 ![Buñuelos Colombianos](resources/bunuelos-colombianos.jpg)
+
 *Colombia's Christmas snack: cheese-and-cornstarch dough balls deep-fried into golden orbs with a slightly crisp shell and a chewy cheesy interior.*
 
 **Serves:** Makes about 20 buñuelos

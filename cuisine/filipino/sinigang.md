@@ -1,6 +1,7 @@
 # Sinigang Na Baboy
 
 ![Sinigang na Baboy](resources/sinigang.jpg)
+
 *Filipino sour pork soup: pork ribs or belly simmered in a broth made tart with tamarind, with vegetables (taro, daikon, beans, water spinach) added in stages. The defining sour note comes from tamarind paste; sometimes from green mango or kalamansi.*
 
 **Serves:** 4-6

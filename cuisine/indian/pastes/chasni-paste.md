@@ -4,12 +4,9 @@
 
 *The wet chasni paste: mango chutney, ketchup, yogurt and lemon whisked with toasted spices.*
 
-
-
 **Makes:** About 1 cup
 
 **Prep Time:** 5 minutes
-
 
 ## Overview
 A sweet and tangy paste used in Pathia and Chasni curries, combining mango chutney, tomato ketchup, and lemon juice for a vibrant flavor base.

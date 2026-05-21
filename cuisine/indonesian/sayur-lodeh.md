@@ -1,6 +1,7 @@
 # Sayur Lodeh
 
 ![Sayur Lodeh](resources/sayur-lodeh.jpg)
+
 *A mild Indonesian vegetable curry built on coconut milk, lemongrass and turmeric. Vegetables - usually long beans, aubergine and tofu, but flexible - simmer until just-tender; the broth is gentle, fragrant, soup-meal thin. Comfort food across Java.*
 
 **Serves:** 4

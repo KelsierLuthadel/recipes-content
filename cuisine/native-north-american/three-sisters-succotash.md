@@ -1,6 +1,7 @@
 # Three Sisters Succotash
 
 ![Three Sisters Succotash](resources/three-sisters-succotash.jpg)
+
 *A side built on the indigenous trio of corn, beans and squash: stewed gently with butter, onion and sage, lifted with maple syrup and cider vinegar.*
 
 **Serves:** 6 as a side

@@ -1,6 +1,7 @@
 # Yasai Ramen
 
 ![Yasai Ramen](resources/yasai-ramen.jpg)
+
 *Vegetable ramen built on a mushroom-and-kombu broth: soy-tare for backbone, miso for body, fresh ramen noodles, and a colourful pile of toppings - soft-boiled egg, sweet corn, blanched bok choy, fried tofu, scallions, sesame, nori. The broth simmers 30 minutes; the assembly is the meal.*
 
 **Serves:** 2

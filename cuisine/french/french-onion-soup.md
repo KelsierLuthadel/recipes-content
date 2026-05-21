@@ -1,6 +1,7 @@
 # French Onion Soup
 
 ![French Onion Soup](resources/french-onion-soup.jpg)
+
 *Soupe à l'oignon: deeply caramelised onions in a rich beef broth, topped with a thick slice of toasted baguette and a heavy lid of melted gruyère. The Parisian late-night working-class supper that's now a bistro icon. Slow onions are 80% of the dish.*
 
 **Serves:** 4-6

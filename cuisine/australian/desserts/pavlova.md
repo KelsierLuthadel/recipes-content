@@ -1,6 +1,7 @@
 # Pavlova
 
 ![Pavlova](resources/pavlova.jpg)
+
 *Crisp-on-the-outside, marshmallow-on-the-inside meringue base, topped with whipped cream and fresh seasonal fruit. Australia and New Zealand both claim it; both names honour Anna Pavlova. Either way, it's the easiest spectacular dessert you can make.*
 
 **Serves:** 8

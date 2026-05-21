@@ -1,6 +1,7 @@
 # Dobos Torte
 
 ![Dobos Torte](resources/dobos-torte.jpg)
+
 *Invented by József Dobos in 1884 Budapest: five thin sponge layers stacked with chocolate buttercream, the top a single sponge glazed with shattering caramel, the sides masked with toasted hazelnuts. The original showpiece of Hungarian patisserie. Difficulty: high. Reward: high.*
 
 **Serves:** 12

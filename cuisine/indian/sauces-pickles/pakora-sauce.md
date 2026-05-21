@@ -1,14 +1,12 @@
 # Pakora Sauce
 
-*The Scottish pakora sauce: yogurt, mango chutney, mint sauce and chilli whisked together for the curry-house starter dip.*
-
-
-**Prep Time:** 10 minutes
-**Cook Time:** 1 minutes
-
 ![Pakora Sauce](resources/pakora-sauce.jpg)
 
-*Usually this sweet-and-sour sauce is red from food coloring, and it does look the part when bright red. The mango chutney and ketchup are already quite sweet but you might want to add a little sugar. The sour flavours come from the lemon and mint sauce. This is customizable to taste preferences.*
+*The Scottish pakora sauce: yogurt, mango chutney, mint sauce and chilli whisked together for the curry-house starter dip.*
+
+**Prep Time:** 10 minutes
+
+**Cook Time:** 1 minute
 
 **Yield:** Approximately 400 ml
 
@@ -84,3 +82,6 @@ Garnish: None needed; this is a condiment
 - Best served chilled
 - Do not freeze; yoghurt texture becomes grainy
 - Always use a clean spoon to prevent contamination 
+
+
+*Usually this sweet-and-sour sauce is red from food coloring, and it does look the part when bright red. The mango chutney and ketchup are already quite sweet but you might want to add a little sugar. The sour flavours come from the lemon and mint sauce. This is customizable to taste preferences.*

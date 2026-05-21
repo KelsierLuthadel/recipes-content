@@ -1,6 +1,7 @@
 # Karaage
 
 ![Karaage](resources/karaage.jpg)
+
 *Japan's izakaya fried chicken: marinated thigh dredged in potato starch and twice-fried for an impossibly crisp shatter-crunchy crust.*
 
 **Serves:** 4 (as a snack)

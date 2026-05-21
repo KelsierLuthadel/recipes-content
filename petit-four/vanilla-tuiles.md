@@ -5,7 +5,9 @@
 *These ultra-delicate, caramelized cookies are spread thin from a light batter and shaped over a rolling pin while still warm, creating elegant curved tiles. Their caramelized sweetness and crisp, glass-like texture make them perfect alongside ice cream, desserts, or on their own with strong coffee.*
 
 **Prep Time:** 25 minutes
+
 **Cook Time:** 8-10 minutes
+
 **Yield:** Approximately 12 tuiles
 
 ## Overview

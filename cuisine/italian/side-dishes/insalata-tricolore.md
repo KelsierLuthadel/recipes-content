@@ -1,6 +1,7 @@
 # Insalata Tricolore
 
 ![Insalata Tricolore](resources/insalata-tricolore.jpg)
+
 *The Italian flag on a plate: thick slices of ripe tomato, slabs of mozzarella di bufala, whole basil leaves and a slick of olive oil.*
 
 **Serves:** 4 (as a starter or side)

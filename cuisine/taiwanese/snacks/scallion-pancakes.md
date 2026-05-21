@@ -1,6 +1,7 @@
 # Scallion Pancakes
 
 ![Scallion Pancakes](resources/scallion-pancakes.jpg)
+
 *Taiwan's scallion pancakes: hand-rolled flaky discs laminated with sliced scallions, sesame oil and salt, pan-fried shatteringly crisp outside, chewy within.*
 
 **Makes:** 4 pancakes

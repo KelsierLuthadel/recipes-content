@@ -1,6 +1,7 @@
 # American Coleslaw
 
 ![American Coleslaw](resources/american-coleslaw.jpg)
+
 *The American picnic side: shredded green and red cabbage with carrot in a mayonnaise-and-cider-vinegar dressing seasoned with mustard and sugar.*
 
 **Serves:** 6 as a side

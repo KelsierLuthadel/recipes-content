@@ -1,6 +1,7 @@
 # Pisang Goreng (Indonesian Banana Fritters)
 
 ![Pisang Goreng](resources/pisang-goreng.jpg)
+
 *Indonesia's eternal street snack: saba bananas dipped in rice-flour batter and deep-fried into golden fritters with a glassy crisp shell.*
 
 **Serves:** 4 (makes 8-10 fritters)

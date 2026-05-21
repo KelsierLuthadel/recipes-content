@@ -1,6 +1,7 @@
 # Ginger Beef and Onion Rice Bowls
 
 ![Ginger Beef and Onion Rice Bowls](resources/ginger-beef-and-onion-rice-bowls.jpg)
+
 *A weeknight rice bowl: strips of sirloin braised in a ginger-garlic-soy bath with thin sliced onion, piled over hot white rice and finished with sesame.*
 
 **Serves:** 6

@@ -1,6 +1,7 @@
 # Polvo à Lagareiro
 
 ![Polvo a Lagareiro](resources/polvo-a-lagareiro.jpg)
+
 *Portugal's olive-press-day plate: tender octopus and punched new potatoes roasted hard under a generous flood of garlicky olive oil.*
 
 **Serves:** 4

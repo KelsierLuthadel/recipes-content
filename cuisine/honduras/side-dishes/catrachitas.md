@@ -1,6 +1,7 @@
 # Catrachitas
 
 ![Catrachitas](resources/catrachitas.jpg)
+
 *Honduras' bar snack: crisp corn-tortilla rounds topped with hot refried beans and a sprinkle of crumbled cheese. Washed down with a cold Salva Vida.*
 
 **Serves:** 4 as a snack (12 catrachitas)

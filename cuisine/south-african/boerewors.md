@@ -1,6 +1,7 @@
 # Boerewors
 
 ![Boerewors](resources/boerewors.jpg)
+
 *South Africa's braai sausage: a long coil of coarse-ground beef and pork, generously spiced with toasted coriander, grilled over coals.*
 
 **Serves:** 6

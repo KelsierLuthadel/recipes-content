@@ -1,6 +1,7 @@
 # Chicken Tagine with Preserved Lemons
 
 ![Chicken Tagine with Preserved Lemons](resources/chicken-tagine-with-preserved-lemons.jpg)
+
 *Morocco's defining tagine: bone-in chicken slow-braised with onion, ginger and saffron, finished with strips of preserved lemon and green olives.*
 
 **Serves:** 4

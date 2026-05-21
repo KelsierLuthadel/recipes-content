@@ -1,6 +1,7 @@
 # Treacle Tart
 
 ![Treacle Tart](resources/treacle-tart.jpg)
+
 *A proper British pudding: a sweet pastry case filled with golden syrup, breadcrumbs and lemon, baked sticky-set. Served with cream.*
 
 **Serves:** 8 (one 22 cm tart)

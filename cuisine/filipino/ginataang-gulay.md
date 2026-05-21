@@ -1,6 +1,7 @@
 # Ginataang Gulay
 
 ![Ginataang Gulay](resources/ginataang-gulay.jpg)
+
 *Filipino vegetables in coconut milk: squash, long beans and aubergine simmered until tender in a garlicky, gingered coconut sauce. Deep, gentle, comforting; works as a main with rice or as a side.*
 
 **Serves:** 4

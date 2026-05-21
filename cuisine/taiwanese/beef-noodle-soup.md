@@ -1,6 +1,7 @@
 # Taiwanese Beef Noodle Soup
 
 ![Taiwanese Beef Noodle Soup](resources/beef-noodle-soup.jpg)
+
 *Taiwan's national obsession: slow-braised beef shank in a soy-and-doubanjiang broth, served over hand-pulled noodles with pickled mustard greens.*
 
 **Serves:** 4

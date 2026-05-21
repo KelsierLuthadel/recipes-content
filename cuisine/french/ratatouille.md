@@ -1,6 +1,7 @@
 # Ratatouille
 
 ![Ratatouille](resources/ratatouille.jpg)
+
 *Provençal stew of summer vegetables (aubergine, courgette, peppers, tomato) cooked separately and combined for proper integrity, not one undifferentiated mush. Works as a side, a sauce or a meal in itself with rice or crusty bread.*
 
 **Serves:** 4-6

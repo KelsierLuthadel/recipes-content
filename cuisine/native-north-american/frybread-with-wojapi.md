@@ -1,6 +1,7 @@
 # Frybread with Wojapi
 
 ![Frybread with Wojapi](resources/frybread-with-wojapi.jpg)
+
 *Pillowy fried-bread disks served with a thick Lakota berry sauce of chokecherries and maple. A powwow plate.*
 
 **Serves:** 6

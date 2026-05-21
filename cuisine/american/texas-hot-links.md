@@ -1,6 +1,7 @@
 # Texas Hot-Link Sausage
 
 ![Texas Hot-Link Sausage](resources/texas-hot-links.jpg)
+
 *East Texas BBQ sausage: coarse beef and pork links packed with cayenne and pepper, slow-smoked over post-oak till the casings darken.*
 
 **Serves:** 6

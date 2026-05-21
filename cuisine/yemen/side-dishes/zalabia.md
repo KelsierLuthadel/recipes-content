@@ -1,6 +1,7 @@
 # Zalabia
 
 ![Zalabia](resources/zalabia.jpg)
+
 *Yemen's after-iftar sweet: small cardamom-and-saffron-scented fried dough balls drenched in honey. Crisp shell, soft middle, sticky-glazed top.*
 
 **Serves:** 6 (makes about 30 small balls)

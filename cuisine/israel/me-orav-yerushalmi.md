@@ -1,6 +1,7 @@
 # Me'orav Yerushalmi (Jerusalem Mixed Grill)
 
 ![Me'orav Yerushalmi](resources/me-orav-yerushalmi.jpg)
+
 *Jerusalem's market mixed grill: chicken hearts, livers, spleen and lamb chunks hit hot on a flat-top with onion, baharat and turmeric. Stuffed into pita.*
 
 **Serves:** 4

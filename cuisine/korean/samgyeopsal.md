@@ -1,6 +1,7 @@
 # Samgyeopsal
 
 ![Samgyeopsal](resources/samgyeopsal.jpg)
+
 *Thick slabs of pork belly sizzling on a tabletop grill, the fat rendering into glassy puddles, edges curling and turning amber. The air smells of sesame oil, raw garlic and toasted perilla, and everyone reaches in with chopsticks for the next crackling piece.*
 
 **Serves:** 4

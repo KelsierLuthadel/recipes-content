@@ -1,6 +1,7 @@
 # Fatayer Jibneh
 
 ![Fatayer Jibneh](resources/fatayer-jibneh.jpg)
+
 *Lebanon's cheese hand-pies: small tricorn pastries stuffed with melty akkawi, halloumi and feta with parsley and mint. Baked till golden.*
 
 **Serves:** 4 (makes 16 fatayer)

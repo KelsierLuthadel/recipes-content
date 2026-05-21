@@ -1,6 +1,7 @@
 # Kare-Kare
 
 ![Kare-Kare](resources/kare-kare.jpg)
+
 *Filipino oxtail and peanut stew: oxtail and tripe braised in a thick golden peanut sauce with green beans, aubergine and bok choy, served with bagoong (fermented shrimp paste) on the side. Rich, deep, the celebration centerpiece.*
 
 **Serves:** 6

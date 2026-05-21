@@ -5,7 +5,9 @@
 *The French name navarin almost certainly derives from navet, the word for turnip, though modern versions use potatoes instead. Traditionally made in larger quantities, this stew deep in flavor and requires patient, gentle cooking.*
 
 **Serves:** 8
+
 **Prep Time:** 25 minutes
+
 **Cook Time:** 35 minutes
 
 ## Overview

@@ -4,8 +4,6 @@
 
 *Thailand's yum woon sen: cellophane glass noodles tossed with prawns, pork mince, herbs, lime, fish sauce and chilli.*
 
-
-
 **Serves:** 2
 
 **Prep Time:** 15 minutes

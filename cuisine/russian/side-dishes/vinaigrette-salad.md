@@ -1,6 +1,7 @@
 # Vinaigrette Salad
 
 ![Vinaigrette Salad](resources/vinaigrette-salad.jpg)
+
 *Russian beetroot salad: cooked beetroot, potatoes, carrots, sauerkraut and pickles diced small and dressed with sunflower oil and vinegar. Earthy, sour, sweet, dressed simply; the colour-bleed of beetroot through everything makes it unmistakable. Eats cold from the fridge for days.*
 
 **Serves:** 6

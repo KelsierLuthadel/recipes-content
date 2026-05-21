@@ -1,6 +1,7 @@
 # Chana Chaat
 
 ![Chana Chaat](resources/chana-chaat.jpg)
+
 *Pakistan's tangy chickpea snack: boiled chickpeas tossed with onion, tomato and potato, dressed with lemon, chaat masala and tamarind.*
 
 **Serves:** 4

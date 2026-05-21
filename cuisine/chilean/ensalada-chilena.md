@@ -1,6 +1,7 @@
 # Ensalada Chilena
 
 ![Ensalada Chilena](resources/ensalada-chilena.jpg)
+
 *The Chilean table salad: ripe tomatoes, sweet onion soaked to take its bite off, fresh coriander, olive oil and lime. Three ingredients, properly handled. Eats next to roast meat, pastel de choclo, or anything off the grill; the soaked-onion technique is the difference between this and any other tomato salad.*
 
 **Serves:** 4

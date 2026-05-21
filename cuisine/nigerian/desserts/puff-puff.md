@@ -1,6 +1,7 @@
 # Puff Puff
 
 ![Puff Puff](resources/puff-puff.jpg)
+
 *West Africa's fried dough ball: sweet, fluffy, slightly stretchy yeasted batter deep-fried golden. Eaten warm at children's parties and naming ceremonies.*
 
 **Makes:** 25-30 puff puff (serves 6)

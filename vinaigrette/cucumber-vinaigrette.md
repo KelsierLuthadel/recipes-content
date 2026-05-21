@@ -1,13 +1,10 @@
 # Cucumber Vinaigrette
 
-*A cucumber vinaigrette: peeled cucumber blended smooth with olive oil, white wine vinegar, mint and a touch of sugar.*
-
-
-**Prep Time:** 10 minutes
-
 ![Cucumber Vinaigrette](resources/cucumber.png)
 
-*This fresh, herbaceous dressing captures summer in a bowl: cool cucumber, delicate herbs, and light rice wine vinegar combine to create a bright accompaniment for delicate vegetables.*
+*A cucumber vinaigrette: peeled cucumber blended smooth with olive oil, white wine vinegar, mint and a touch of sugar.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 350 milliliters (4-5 servings)
 
@@ -90,3 +87,5 @@ Timing: Use within 2-4 hours
 - Stir gently before serving if needed
 - Do not freeze; delicate texture destroyed
 - Best made just before serving
+
+*This fresh, herbaceous dressing captures summer in a bowl: cool cucumber, delicate herbs, and light rice wine vinegar combine to create a bright accompaniment for delicate vegetables.*

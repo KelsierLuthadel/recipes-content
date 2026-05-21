@@ -1,12 +1,10 @@
 # Dhansak Spice Mix
 
-*A Parsi-inspired dhansak spice mix: coriander, cumin, fenugreek.*
-
-
-**Prep Time:** 5 minutes
-
 ![Dhansak Spice Mix](resources/dhansak-mix.jpg)
 
+*A Parsi-inspired dhansak spice mix: coriander, cumin, fenugreek.*
+
+**Prep Time:** 5 minutes
 
 ## Overview
 A complex blend balancing sweet, sour, and savoury flavours, suited to lentil-based dhansak curries.

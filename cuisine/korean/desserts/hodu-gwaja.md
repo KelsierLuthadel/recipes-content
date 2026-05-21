@@ -1,6 +1,7 @@
 # Hodu Gwaja (Walnut Cake)
 
 ![Hodu Gwaja](resources/hodu-gwaja.jpg)
+
 *Cheonan's walnut-shaped cake: a tender flour-and-egg batter cooked in iron moulds around sweet red bean paste and a whole walnut piece.*
 
 **Serves:** Makes 12 cakes

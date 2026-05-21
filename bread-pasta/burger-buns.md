@@ -1,13 +1,10 @@
 # Burger Buns
 
-*The home-baker's burger bun: soft, slightly enriched white bread shaped into round buns, brushed with egg and topped with sesame seeds.*
-
-
-**Prep Time:** 10 minutes
-
 ![Burger Buns](resources/buns.jpg)
 
-*These golden-topped burger buns are simple to make, and work especially well when cut in half, toasted, and eaten as a steak sandwich. Where most people go wrong is not making the mixture wet enough and so the finished bread ends up too doughy and dry. Once the water is added, don't flood the work surface with flour as it will unbalance the recipe; instead, use olive oil if needed.*
+*The home-baker's burger bun: soft, slightly enriched white bread shaped into round buns, brushed with egg and topped with sesame seeds.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** 10 buns (serves 10)
 
@@ -100,3 +97,5 @@ Best within: 24 hours of baking; excellent toasted on day 2
 - After 2 days, slice and freeze in plastic wrap for up to 1 month
 - Refresh stale buns: Wrap loosely in foil and warm in a 180°C oven for 5-10 minutes
 - Do not refrigerate; refrigeration stales bread faster
+
+*These golden-topped burger buns are simple to make, and work especially well when cut in half, toasted, and eaten as a steak sandwich. Where most people go wrong is not making the mixture wet enough and so the finished bread ends up too doughy and dry. Once the water is added, don't flood the work surface with flour as it will unbalance the recipe; instead, use olive oil if needed.*

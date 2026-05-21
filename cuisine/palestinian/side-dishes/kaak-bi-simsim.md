@@ -1,6 +1,7 @@
 # Ka'ak Bi Simsim
 
 ![Kaak bi Simsim](resources/kaak-bi-simsim.jpg)
+
 *Jerusalem's sesame bread ring: a soft yeasted oblong crusted with toasted sesame. Torn at the table and stuffed with za'atar oil and hard-boiled egg.*
 
 **Serves:** 4 (makes 4 large rings or 8 small)

@@ -1,6 +1,7 @@
 # Cassoulet
 
 ![Cassoulet](resources/cassoulet.jpg)
+
 *Languedoc bean and meat casserole: white beans cooked with sausage, confit duck, pork shoulder and bacon, baked under a breadcrumb crust that's broken back into the beans repeatedly to build layers. The slow-food showpiece of southwest France; needs a weekend, rewards it.*
 
 **Serves:** 6-8

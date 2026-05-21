@@ -1,6 +1,7 @@
 # Chilli oil
 
 ![Chilli oil](resources/chilli-oil.jpg)
+
 *The Chinese condiment that goes on everything. A jar of slow-infused spice oil — bay, star anise, cinnamon, cardamom, Sichuan peppercorns — poured hot over a bowl of chilli flakes, smoked paprika and crispy fried shallots. Stir before each use. Spoon over rice, noodles, eggs, soup, anything that's hot and could be improved.*
 
 **Serves:** Makes ~1 ¼ cups (310 ml)

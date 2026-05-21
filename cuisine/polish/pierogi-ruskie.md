@@ -1,6 +1,7 @@
 # Pierogi Ruskie
 
 ![Pierogi Ruskie](resources/pierogi-ruskie.jpg)
+
 *Polish dumplings filled with potato, twaróg cheese and fried onion. Boiled, then traditionally pan-fried in butter until the edges crisp. Served with sour cream and more crisp onions on top. The most popular pierogi filling in Poland.*
 
 **Makes:** 30 pierogi

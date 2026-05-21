@@ -1,6 +1,7 @@
 # Guizhou Chili Chicken (Guizhou Lazi Ji)
 
 ![Guizhou Chili Chicken (Guizhou Lazi Ji)](resources/guizhou-chili-chicken.jpg)
+
 *Bone-in chicken pieces braised in a deep crimson sauce of pounded fresh chilli paste (ciba lajiao), ginger, garlic and Sichuan peppercorns. The aroma is rounded and toasty rather than fiery, with the slow-cooked sweetness of caramelised chilli skins layered over warm spice.*
 
 **Serves:** 4

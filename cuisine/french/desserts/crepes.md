@@ -1,16 +1,12 @@
 # Crêpes
 
-*France's thin pancake: a loose batter of flour, eggs, milk and butter swirled in a hot pan and cooked seconds till lacy at the edges.*
-
-
-**Prep Time:** 5 minutes
-**Cook Time:** 1 minutes
-
 ![Crêpes](resources/crepes.jpg)
 
-*Typically French, these classic crêpes can be filled with numerous delicious ingredients, ranging from lemon and sugar, to crème patissière and fruits. The choice is limited only by the imagination.*
+*France's thin pancake: a loose batter of flour, eggs, milk and butter swirled in a hot pan and cooked seconds till lacy at the edges.*
 
-*The vanilla extract can be replaced by orange water or a little grated lemon zest.*
+**Prep Time:** 5 minutes
+
+**Cook Time:** 1 minute
 
 **Yield:** 16 - 18
 
@@ -54,3 +50,7 @@ Serve crépes warm or at room temperature with sweet or savory fillings and acco
 ## Storage
 Cooled crépes stack beautifully on a plate and keep at room temperature, covered with plastic wrap, for up to 2 days. They can also be frozen between sheets of parchment paper for up to one month; thaw at room temperature before use. Reheat gently in a dry pan if needed, though room-temperature serving is often preferable.
 
+
+
+*Typically French, these classic crêpes can be filled with numerous delicious ingredients, ranging from lemon and sugar, to crème patissière and fruits. The choice is limited only by the imagination.*
+*The vanilla extract can be replaced by orange water or a little grated lemon zest.*

@@ -1,13 +1,10 @@
 # Herb Salsa
 
-*A French herb salsa: chopped parsley, tarragon, chervil and chives mixed with capers, shallot and olive oil.*
-
-
-**Cook Time:** 15 minutes
-
 ![Herb Salsa](resources/herb-salsa.png)
 
-*This delicate, herbaceous salsa pairs beautifully with fresh pasta, especially tortellini or cappelletti filled with ricotta or similar light fillings. The boiled potato base provides body, while fines herbes (a classic French blend of parsley, chives, tarragon, and chervil) offers bright, fresh herb character with subtle anise notes from the tarragon.*
+*A French herb salsa: chopped parsley, tarragon, chervil and chives mixed with capers, shallot and olive oil.*
+
+**Cook Time:** 15 minutes
 
 **Yield:** Approximately 300 milliliters (6 servings)
 
@@ -101,3 +98,5 @@ Context: Light pasta course, delicate plated presentations, spring dinners
 - Do not freeze; potato texture breaks down and herbs lose character entirely.
 - The potato base provides stability; this is more shelf-stable than purely fresh herb salsas.
 - Best served within 2 hours of final preparation for maximum herb aroma.
+
+*This delicate, herbaceous salsa pairs beautifully with fresh pasta, especially tortellini or cappelletti filled with ricotta or similar light fillings. The boiled potato base provides body, while fines herbes (a classic French blend of parsley, chives, tarragon, and chervil) offers bright, fresh herb character with subtle anise notes from the tarragon.*

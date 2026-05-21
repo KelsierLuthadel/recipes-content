@@ -1,13 +1,10 @@
 # KFC-Style Herbs and Spices
 
-*The home-cook take on KFC's eleven herbs and spices: a closely-guessed blend of paprika, garlic, ginger, thyme, oregano and white pepper.*
-
-
-**Prep Time:** 10 minutes
-
 ![KFC Spice Mix](resources/kfc.jpg)
 
-*This is a reverse-engineered blend attempting to replicate the famous KFC breading spice mix. While no one outside the company knows the exact recipe, this combination captures the characteristic warm, peppery, and herbaceous profile of the iconic fried chicken coating.*
+*The home-cook take on KFC's eleven herbs and spices: a closely-guessed blend of paprika, garlic, ginger, thyme, oregano and white pepper.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 85-90 grams (makes 15-20 portions)
 
@@ -85,3 +82,5 @@ Temperature: Use in hot oil (350°F/175°C) for best coating development
 - Does not require refrigeration
 - The potato starch or thickeners in real KFC flour won't be present here; adjust flour ratio as needed
 - Label with preparation date 
+
+*This is a reverse-engineered blend attempting to replicate the famous KFC breading spice mix. While no one outside the company knows the exact recipe, this combination captures the characteristic warm, peppery, and herbaceous profile of the iconic fried chicken coating.*

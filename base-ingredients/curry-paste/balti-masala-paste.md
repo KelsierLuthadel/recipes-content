@@ -1,13 +1,10 @@
 # Balti Masala Paste
 
-*A wet balti paste: dry-roasted whole spices ground with garlic, ginger and oil.*
-
-
-**Prep Time:** 5 minutes
-
 ![Balti Masala Paste](resources/balti-masala-paste.jpg)
 
-*The Balti is a mild, well-spiced paste that forms the base for most British-Indian Balti curry dishes. Using vinegar as the binding liquid (rather than all water) naturally preserves the paste in sealed jars, a practical advantage for batch preparation.*
+*A wet balti paste: dry-roasted whole spices ground with garlic, ginger and oil.*
+
+**Prep Time:** 5 minutes
 
 **Yield:** Approximately 675-700 grams
 
@@ -87,3 +84,5 @@ Temperature: Requires cooking in hot oil before use
 - If mold appears, discard the entire jar
 - Do not freeze; freezing damages the emulsion between oil and spices
 - Check regularly during the first 1-2 weeks for any sign of spoilage
+
+*The Balti is a mild, well-spiced paste that forms the base for most British-Indian Balti curry dishes. Using vinegar as the binding liquid (rather than all water) naturally preserves the paste in sealed jars, a practical advantage for batch preparation.*

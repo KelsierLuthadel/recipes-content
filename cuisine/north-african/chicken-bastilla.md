@@ -1,6 +1,7 @@
 # Chicken Bastilla
 
 ![Chicken Bastilla](resources/chicken-bastilla.jpg)
+
 *Morocco's celebration pie: shredded slow-cooked chicken, almonds and eggs wrapped in crisp filo, dusted with sugar and cinnamon.*
 
 **Serves:** 6

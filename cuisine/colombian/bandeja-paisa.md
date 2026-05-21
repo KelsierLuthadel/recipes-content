@@ -1,6 +1,7 @@
 # Bandeja Paisa
 
 ![Bandeja Paisa](resources/bandeja-paisa.jpg)
+
 *Colombia's national mega-plate: a single platter of red beans, white rice, chicharrón, chorizo, fried egg, avocado, arepa, plantain and grilled steak.*
 
 **Serves:** 4

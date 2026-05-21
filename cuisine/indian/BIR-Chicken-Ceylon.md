@@ -4,8 +4,6 @@
 
 *A BIR Chicken Ceylon: pre-cooked chicken in a coconut-and-curry-leaf sauce sharpened with lemon.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

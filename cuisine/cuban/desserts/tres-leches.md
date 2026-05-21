@@ -1,6 +1,7 @@
 # Tres Leches
 
 ![Tres Leches](resources/tres-leches.jpg)
+
 *The pan-Latin celebration cake: a light sponge drowned in evaporated milk, condensed milk and cream, crowned with whipped cream and a dust of cinnamon.*
 
 **Serves:** 10 to 12

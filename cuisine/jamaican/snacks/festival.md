@@ -1,6 +1,7 @@
 # Festival
 
 ![Festival](resources/festival.jpg)
+
 *Jamaica's beachside dumpling: sweet fried cornmeal fingers, crisp outside and slightly sweet within, perfumed with vanilla and nutmeg. Served with fried fish.*
 
 **Serves:** Makes 10-12 festivals (4-6 servings)

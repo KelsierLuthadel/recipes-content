@@ -1,6 +1,7 @@
 # Kashk-E-Bademjan
 
 ![Kashk-e-Bademjan](resources/kashk-e-bademjan.jpg)
+
 *A classic Persian starter: roasted aubergine mashed with caramelised onion, garlic, walnut, dried mint and kashk (fermented whey, very sour and salty). Topped with crisp fried onion, more kashk drizzle, dried mint sizzled in oil and toasted walnut. Eaten scooped with warm bread. Rich, salty, deeply layered.*
 
 **Serves:** 4 as a starter

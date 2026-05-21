@@ -1,13 +1,14 @@
 # Chicken Tikka Masala
 
+![Chicken Tikka Masala](resources/tikka.png)
+
 *Britain's curry-house favourite: tandoori-marinated chicken tikka simmered in a creamy tomato-and-spice sauce.*
 
-
 **Serves:** 2
-**Prep Time:** 10 minutes
-**Cook Time:** 2 minutes
 
-![Chicken Tikka Masala](resources/tikka.png)
+**Prep Time:** 10 minutes
+
+**Cook Time:** 2 minutes
 
 ## Overview
 A creamy, mildly spiced tomato-based curry using grilled or pan-fried marinated chicken, finished with a rich sauce.

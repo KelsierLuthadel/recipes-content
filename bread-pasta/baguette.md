@@ -1,13 +1,10 @@
 # Baguette
 
-*France's everyday loaf: a long thin crusty bread with a chewy white crumb.*
-
-
-**Prep Time:** 10 minutes
-
 ![Baguette](resources/baguette.jpg)
 
-*Many people think that a French baguette, a long, thin loaf, is a good test of a baker’s skill. The baguette seems so simple, just flour, water, salt and yeast, kneading, fermenting, shaping, rising, slashing and baking. The reality is that a lot of very good bakers have spent a considerable amount of time and energy perfecting their baguette. The important characteristic of a baguette is that it is a bread that is meant to be eaten shortly after it is baked; it is not a bread that is intended to be stored on the counter top until the next day or beyond.*
+*France's everyday loaf: a long thin crusty bread with a chewy white crumb.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** 2-3 baguettes (depending on size preferences)
 
@@ -129,3 +126,5 @@ Accompaniments: Salted butter, good cheese, or simple tomatoes and olive oil
 - Do not refrigerate; cold stales the bread rapidly due to starch retrogradation
 - Freeze whole baguettes in freezer bags for up to 2 weeks; thaw at room temperature wrapped in a kitchen towel
 - Once sliced, bread stales faster; use slices within 1 day or freeze individually
+
+*Many people think that a French baguette, a long, thin loaf, is a good test of a baker’s skill. The baguette seems so simple, just flour, water, salt and yeast, kneading, fermenting, shaping, rising, slashing and baking. The reality is that a lot of very good bakers have spent a considerable amount of time and energy perfecting their baguette. The important characteristic of a baguette is that it is a bread that is meant to be eaten shortly after it is baked; it is not a bread that is intended to be stored on the counter top until the next day or beyond.*

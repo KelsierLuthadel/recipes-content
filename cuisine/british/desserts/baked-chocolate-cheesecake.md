@@ -5,6 +5,7 @@
 *A rich cheesecake with a smooth velvety coffee sauce*
 
 **Serves:** 4
+
 **Prep Time:** 10 minutes
 
 ## Ingredients

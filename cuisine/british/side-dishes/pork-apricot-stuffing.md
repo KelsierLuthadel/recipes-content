@@ -1,14 +1,12 @@
 # Pork, Apricot and Pistachio Stuffing
 
-*A British roast stuffing: pork sausagemeat with dried apricot, pistachios, onion, sage and breadcrumbs.*
-
-
-**Prep Time:** 15 minutes
-**Cook Time:** 1 minutes
-
 ![Pork, apricot and pistachio stuffing](resources/pork-apricot-stuffing.jpg)
 
-*This delightful warm stuffing goes particularly well with roasted game such as chicken, poussin or turkey. This recipe includes stuffing for the bird, plus 20 individual stuffing balls.*
+*A British roast stuffing: pork sausagemeat with dried apricot, pistachios, onion, sage and breadcrumbs.*
+
+**Prep Time:** 15 minutes
+
+**Cook Time:** 1 minute
 
 **Servings:** 
 
@@ -55,3 +53,5 @@ Amount: 2-3 stuffing balls per person alongside the carved bird
 - Uncooked stuffing mix can be refrigerated for up to 24 hours before shaping and cooking.
 - Cooked stuffing balls can be stored in an airtight container in the refrigerator for up to 2 days.
 - Reheat in an oven at 180°C for 10-12 minutes until piping hot throughout before serving.
+
+*This delightful warm stuffing goes particularly well with roasted game such as chicken, poussin or turkey. This recipe includes stuffing for the bird, plus 20 individual stuffing balls.*

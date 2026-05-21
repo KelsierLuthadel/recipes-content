@@ -1,6 +1,7 @@
 # Vegetarian Borscht
 
 ![Vegetarian Borscht](resources/vegetarian-borscht.jpg)
+
 *Russian beetroot soup with cabbage, carrots and potatoes, deep ruby-red and faintly sweet from the long-cooked beetroot. The sour finish - vinegar in the soup, sour cream and fresh dill on top - is what makes it borscht and not just a beetroot stew.*
 
 **Serves:** 6

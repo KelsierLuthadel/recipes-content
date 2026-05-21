@@ -1,6 +1,7 @@
 # Sichuan Stir-Fried Chicken with Yacai (Jimi Yacai)
 
 ![Sichuan Stir-Fried Chicken with Yacai (Jimi Yacai)](resources/sichuan-stir-fried-chicken-yacai.jpg)
+
 *Tiny pea-sized cubes of chicken stir-fried with dark, sweet-salty Yibin yacai and a handful of fresh chillies. The yacai smells of caramel and soy when it hits the hot wok, and the dish lands somewhere between a stir-fry and a savoury relish that begs to be scattered over hot rice.*
 
 **Serves:** 4 (as part of a multi-dish meal)

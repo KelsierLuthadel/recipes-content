@@ -1,6 +1,7 @@
 # Mapo Tofu
 
 ![Mapo Tofu](resources/mapo-tofu.jpg)
+
 *Sichuan's mapo tofu: silken tofu cubes braised in a red-brown sauce of doubanjiang, black beans, pork mince, garlic, ginger and Sichuan peppercorns.*
 
 **Serves:** 4

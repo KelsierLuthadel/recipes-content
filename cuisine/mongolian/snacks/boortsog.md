@@ -1,6 +1,7 @@
 # Boortsog
 
 ![Boortsog](resources/boortsog.jpg)
+
 *Mongolia's everyday fried dough: slightly sweet biscuits deep-fried golden. Dipped in milk tea or piled high for Tsagaan Sar.*
 
 **Makes:** about 30 boortsog

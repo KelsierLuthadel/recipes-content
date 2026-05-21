@@ -1,6 +1,7 @@
 # Crawfish Pie (Mini)
 
 ![Crawfish Pie](resources/crawfish-pie.jpg)
+
 *Louisiana mini hand pies: a buttery roux-thickened crawfish filling spiced Cajun, finished with green onion and parsley, baked golden in shortcrust.*
 
 **Serves:** Makes 12 mini pies

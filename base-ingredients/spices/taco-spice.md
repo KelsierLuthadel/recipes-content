@@ -1,13 +1,10 @@
 # Taco Spice Mix
 
-*A Tex-Mex taco seasoning: chilli powder, cumin, paprika, garlic, onion and oregano. Toasted in oil with ground beef for tacos and burritos.*
-
-
-**Prep Time:** 10 minutes
-
 ![Taco Spice Mix](resources/taco-spice.jpg)
 
-*The seasoning behind the Tex-Mex taco - earthy ground cumin, sweet and smoked paprika, garlic and onion powder, a hit of chilli and a small amount of oregano for the herbal back-note. Mixed dry, kept in a jar, and dosed at about ½ tablespoon per 100 g of mince. A homemade blend beats the shop sachets because you control the salt and the heat level, and the spices stay fresh.*
+*A Tex-Mex taco seasoning: chilli powder, cumin, paprika, garlic, onion and oregano. Toasted in oil with ground beef for tacos and burritos.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 80 grams (makes 16-20 portions, ½ tablespoon each)
 
@@ -66,3 +63,6 @@ Taco spice is a dry rub-and-stir blend used to season ground beef, pork, turkey 
 - Keep in a sealed glass jar in a cool, dark cupboard for up to 6 months.
 - Freezes 1 year in an airtight container, but it doesn't really need to (the cupboard shelf life is fine).
 - Discard if the colour fades from red-brown to grey-brown, or if the cumin smell goes flat.
+
+
+*The seasoning behind the Tex-Mex taco - earthy ground cumin, sweet and smoked paprika, garlic and onion powder, a hit of chilli and a small amount of oregano for the herbal back-note. Mixed dry, kept in a jar, and dosed at about ½ tablespoon per 100 g of mince. A homemade blend beats the shop sachets because you control the salt and the heat level, and the spices stay fresh.*

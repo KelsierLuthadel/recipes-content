@@ -1,6 +1,7 @@
 # Sichuan Hot Pot
 
 ![Sichuan Hot Pot](resources/sichuan-hot-pot.jpg)
+
 *Sichuan's communal pot: a deep-red broth of doubanjiang, Sichuan peppercorns and dried chillies bubbling at the table. Diners cook their own meat and greens.*
 
 **Serves:** 4-6

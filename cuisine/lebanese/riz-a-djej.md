@@ -1,6 +1,7 @@
 # Riz a Djej
 
 ![Riz a Djej](resources/riz-a-djej.jpg)
+
 *Lebanon's Sunday lunch: poached chicken pulled off the bone, served over basmati cooked in the chicken stock with baharat, pine nuts and slivered almonds.*
 
 **Serves:** 4

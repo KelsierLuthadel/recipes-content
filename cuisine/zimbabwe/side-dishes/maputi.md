@@ -1,6 +1,7 @@
 # Maputi
 
 ![Maputi](resources/maputi.jpg)
+
 *Zimbabwe's roadside snack: dried maize kernels tossed in a hot pan till they crackle, split and puff into pale nutty bites. Salt is the only seasoning.*
 
 **Serves:** 4 as a snack

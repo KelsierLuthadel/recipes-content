@@ -5,7 +5,9 @@
 *A moulded tin loaf is a rectangular bread shape that has the striking appearance of being split down the length, created either by using two adjoining dough portions or by scoring a single large dough ball. The result is elegant, distinctive, and ideal for slicing.*
 
 **Rising Time:** 45-60 minutes (final proof)
+
 **Baking Time:** 30-35 minutes (depending on dough recipe)
+
 **Yield:** 1 loaf, sliced into 10-12 portions
 
 ## Overview

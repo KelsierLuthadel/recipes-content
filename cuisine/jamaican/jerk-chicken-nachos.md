@@ -1,6 +1,7 @@
 # Cheesy Jerk Chicken Nachos
 
 ![Cheesy Jerk Chicken Nachos](resources/jerk-chicken-nachos.jpg)
+
 *Caribbean-meets-Mexican: jerk-marinated chicken thighs (oven-baked, sliced) layered with shredded cheese, black beans and tortilla chips, baked until the cheese melts and bubbles, then topped with a fresh mango-pineapple chow. Built for a tray at the centre of the table.*
 
 **Serves:** 4 (as starter / shared)

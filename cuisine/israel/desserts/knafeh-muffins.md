@@ -1,6 +1,7 @@
 # Knafeh Muffins
 
 ![Knafeh Muffins](resources/knafeh-muffins.jpg)
+
 *The Levantine dessert in muffin form. A base of buttered kataifi pastry, a generous layer of soft cheese, more kataifi on top, baked until the pastry crisps deep gold. As soon as they leave the oven, a rose-and-cardamom syrup goes over the lot. Scattered with pistachios. Cheese still pulling.*
 
 **Serves:** 12 mini muffins

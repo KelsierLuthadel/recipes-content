@@ -5,7 +5,9 @@
 *Light yet distinctly flavorful, lamb stock provides the essential foundation for sophisticated lamb preparations, enriching pan sauces, gravies, and elegant meat-based dishes with subtle ovine character.*
 
 **Prep Time:** 20 minutes
+
 **Cook Time:** 2 hours
+
 **Yield:** Approximately 1 litre
 
 ## Overview

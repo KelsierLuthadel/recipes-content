@@ -1,6 +1,7 @@
 # Kung Pao Shrimp
 
 ![Kung Pao Shrimp](resources/kung-pao-shrimp.jpg)
+
 *A glossy stir-fry of plump shrimp tossed with charred dried chillies, tingly Sichuan peppercorns and roasted peanuts in a sweet-sour-savoury sauce. The smell as the chillies hit the wok is unmistakable: toasted chilli skin, citrus-numbing peppercorn, and the high note of black vinegar caramelising on hot metal.*
 
 **Serves:** 3-4

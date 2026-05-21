@@ -4,9 +4,6 @@
 
 *India's chaat masala: a tangy spice mix of amchoor, black salt, cumin, coriander, mint and chilli.*
 
-
-
-
 ## Overview
 Chaat masala has a quite distinctive flavour and is usually used in small amounts, sprinkled over finished dishes and included in marinades to give them extra kick. This version uses the more authentic and healthier amchoor (dried mango powder) instead of commercial citric acid, which gives the spice blend a nice citric flavour. The distinctive black powdered salt adds a characteristic sulphur aroma that becomes highly addictive.
 

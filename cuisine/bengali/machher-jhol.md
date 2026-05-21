@@ -1,6 +1,7 @@
 # Machher Jhol
 
 ![Machher Jhol](resources/machher-jhol.jpg)
+
 *A glistening amber broth pungent with mustard oil, cumin and green chilli, cradling golden-fried fish steaks and soft potatoes. The aroma of nigella seeds tempering in hot oil is the unmistakable opening note of a Bengali household kitchen, from Kolkata to Khulna.*
 
 **Serves:** 4

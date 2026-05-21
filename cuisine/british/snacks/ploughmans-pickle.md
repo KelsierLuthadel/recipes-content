@@ -1,6 +1,7 @@
 # Ploughman's Pickle
 
 ![Ploughman's Pickle](resources/ploughmans-pickle.jpg)
+
 *The British pub pickle: a chunky brown relish of swede, carrot, gherkin and dates simmered in malt vinegar and treacle. With cheese.*
 
 **Serves:** ~10 (makes 1 litre, in 2 jars)

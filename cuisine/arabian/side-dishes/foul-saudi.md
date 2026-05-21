@@ -1,6 +1,7 @@
 # Foul Saudi
 
 ![Foul Saudi](resources/foul-saudi.jpg)
+
 *Saudi-style fava beans: dried favas slow-cooked till soft, warmed in olive oil with garlic, cumin and lemon, crushed into a chunky paste.*
 
 **Serves:** 4

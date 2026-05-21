@@ -1,6 +1,7 @@
 # Tres Leches Colombiano
 
 ![Tres Leches Colombiano](resources/tres-leches-colombiano.jpg)
+
 *Colombia's three-milks cake: a light sponge soaked overnight in evaporated milk, condensed milk and cream, topped with whipped cream.*
 
 **Serves:** 12

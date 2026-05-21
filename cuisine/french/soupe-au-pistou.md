@@ -1,6 +1,7 @@
 # Soupe au Pistou
 
 ![Soupe au Pistou](resources/soupe-au-pistou.jpg)
+
 *Provence's late-summer vegetable soup, finished at the table with a stir of fresh pistou - basil, garlic, olive oil and parmesan, pounded to a paste. Beans, courgettes, tomatoes, green beans simmer to tenderness in a clear broth; the pistou perfumes everything as it melts in. The smell of August in southern France.*
 
 **Serves:** 6

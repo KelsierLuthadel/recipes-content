@@ -1,6 +1,7 @@
 # Pumpkin Pie
 
 ![Pumpkin Pie](resources/pumpkin-pie.jpg)
+
 *The American holiday pie that bridges Halloween and Thanksgiving. Spiced pumpkin custard in a flaky all-butter shell, baked low and slow until the centre sets with a faint wobble. Eaten cool with a heavy spoon of whipped cream.*
 
 **Serves:** 8

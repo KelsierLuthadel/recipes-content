@@ -1,6 +1,7 @@
 # Gougères
 
 ![Gougeres](resources/gougeres.jpg)
+
 *Burgundy's apéritif puff: small choux-pastry rounds flavoured with grated Gruyère and Comté, baked till puffed and crisp outside, hollow within.*
 
 **Serves:** 6 (makes ~30 small gougères)

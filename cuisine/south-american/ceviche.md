@@ -4,9 +4,8 @@
 
 *Fresh fish is "cooked" by being marinated in a mixture of mango, lime juice and chillies. The result is an appetizer with a wonderful fresh flavour.*
 
-*Make the fish and seafood used for this dish is as fresh as possible.*
-
 **Serves:** 6
+
 **Prep Time:** 15 minutes
 
 ## Overview
@@ -56,3 +55,5 @@ Amount: one platter portion per person as a starter
 - Best served immediately after folding in the fruit segments; the texture of the seafood deteriorates over time.
 - Any leftovers can be refrigerated for up to 1 day, though the quality will decline as the acid continues to act on the fish.
 - Do not freeze.
+
+*Make the fish and seafood used for this dish is as fresh as possible.*

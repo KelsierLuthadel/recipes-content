@@ -4,8 +4,6 @@
 
 *The BIR chicken pasanda: pre-cooked chicken in a creamy almond-and-coconut sauce sweetened lightly.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

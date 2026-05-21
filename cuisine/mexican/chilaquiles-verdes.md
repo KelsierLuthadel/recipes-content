@@ -1,6 +1,7 @@
 # Chilaquiles Verdes
 
 ![Chilaquiles Verdes](resources/chilaquiles-verdes.jpg)
+
 *Mexican breakfast: leftover tortilla chips simmered in green salsa until just softened but not soggy, topped with a fried egg, crumbled queso fresco, sour cream and onion. The hangover food of central Mexico; the leftover-tortilla redemption arc.*
 
 **Serves:** 4

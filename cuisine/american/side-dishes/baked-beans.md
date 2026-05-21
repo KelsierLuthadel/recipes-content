@@ -1,6 +1,7 @@
 # Baked Beans
 
 ![Baked Beans](resources/baked-beans.jpg)
+
 *American smoked-pork baked beans: navy beans slow-baked for hours in a sticky molasses-and-tomato sauce with bacon, onion and brown sugar.*
 
 **Serves:** 6 as a side

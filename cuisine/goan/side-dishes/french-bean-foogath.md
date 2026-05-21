@@ -1,6 +1,7 @@
 # French Bean Foogath
 
 ![French Bean Foogath](resources/french-bean-foogath.jpg)
+
 *Goan green beans with coconut and curry leaves: thin, snapped beans tossed with a mustard-seed temper and fresh coconut. A weekday side that takes 15 minutes from chopping board to plate.*
 
 **Serves:** 4

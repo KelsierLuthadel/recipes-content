@@ -1,6 +1,7 @@
 # Sausage and Peppers
 
 ![Sausage and Peppers](resources/sausage-and-peppers.jpg)
+
 *An Italian-American skillet basic: sliced peppers and onion caramelised, pre-cooked sausage browned, garlic and herbs in at the end. Over rice or in a hoagie.*
 
 **Serves:** 4-6

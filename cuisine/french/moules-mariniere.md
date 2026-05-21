@@ -1,6 +1,7 @@
 # Moules Marinière
 
 ![Moules Marinière](resources/moules-mariniere.jpg)
+
 *Belgian-French steamed mussels in white wine with shallot, garlic, parsley and butter. Twenty minutes from sea to plate; the dish that makes you wonder why you don't eat mussels every week. Crusty bread to mop the broth is half the meal.*
 
 **Serves:** 4

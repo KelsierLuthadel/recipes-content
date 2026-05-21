@@ -1,6 +1,7 @@
 # Sandesh
 
 ![Sandesh](resources/sandesh.jpg)
+
 *Bengal's most-elegant sweet: fresh chhena cooked gently with sugar (or winter nolen gur) and pressed into carved wooden moulds shaped like fish or flowers.*
 
 **Serves:** 6 (makes 12 pieces)

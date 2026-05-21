@@ -1,6 +1,7 @@
 # Urum (Mongolian Clotted Cream and Sugar)
 
 ![Urum](resources/urum.jpg)
+
 *The Mongolian clotted cream: whole milk simmered for hours, the cream skin lifted off and stacked in layers with sugar to set into a soft slab.*
 
 **Serves:** 4

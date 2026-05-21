@@ -1,6 +1,7 @@
 # Sambusa
 
 ![Sambusa](resources/sambusa.jpg)
+
 *Somali samosas: triangular fried pastries filled with spiced lentils, peas and onion, eaten constantly during Ramadan and as a snack year-round. Smaller than Indian samosas; the wrapper is closer to a spring-roll skin than shortcrust. Served with green chilli sauce or chutney.*
 
 **Makes:** 16 sambusas

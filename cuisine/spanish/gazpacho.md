@@ -1,6 +1,7 @@
 # Gazpacho
 
 ![Gazpacho](resources/gazpacho.jpg)
+
 *Andalusian cold soup: tomato, cucumber, pepper, garlic, bread and olive oil blended into a thin chilled drink-soup. Built for hot summer days when nobody wants to turn on a hob. The bread softens the texture; the olive oil makes it.*
 
 **Serves:** 4-6

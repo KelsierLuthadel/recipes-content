@@ -1,6 +1,7 @@
 # Croquetas de Jamón
 
 ![Croquetas de Jamón](resources/croquetas-de-jamon.jpg)
+
 *The most Spanish of bar snacks: a stiff béchamel studded with chopped serrano ham, chilled until firm, then breadcrumbed and deep-fried into golden ovals with a creamy molten centre. Long process; addictive result.*
 
 **Makes:** 24 croquetas

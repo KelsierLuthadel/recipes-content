@@ -4,8 +4,6 @@
 
 *A BIR mango chicken: pre-cooked chicken in a sweet curry-base gravy with mango chutney and ripe mango pulp. Fruity, mild, glossy.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

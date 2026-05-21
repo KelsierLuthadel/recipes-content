@@ -4,8 +4,6 @@
 
 *A fiery beef burrito: slow-cooked spiced beef wrapped in a warm flour tortilla with refried beans, rice, hot salsa.*
 
-
-
 ## Overview
 The combination of already flavourful spiced beef with the particularly fiery salsa makes this burrito a force to be reckoned with. This specific burrito variation combines crunchy tortilla chips, creamy nacho cheese sauce, and a bold chile de árbol red salsa to create a complex, heat-forward flavour profile that packs a punch.
 

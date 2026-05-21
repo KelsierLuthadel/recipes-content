@@ -1,6 +1,7 @@
 # Cantonese BBQ Chicken
 
 ![Cantonese BBQ Chicken](resources/cantonese-bbq-chicken.jpg)
+
 *Cantonese roast-shop chicken: thighs lacquered in hoisin, soy and honey, grilled over coals till the skin crisps to deep mahogany and the glaze sticks.*
 
 **Serves:** 4

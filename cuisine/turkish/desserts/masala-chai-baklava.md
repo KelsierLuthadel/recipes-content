@@ -1,6 +1,7 @@
 # Masala Chai Baklava
 
 ![Masala Chai Baklava](resources/masala-chai-baklava.jpg)
+
 *The Turkish dessert with an Indian breath. Crisp filo cylinders filled with a cardamom-scented almond-and-cashew paste, then drenched in a sticky syrup steeped with black tea, fresh ginger and more cardamom. The chai infusion changes the whole landscape: less floral, warmer, deeper.*
 
 **Serves:** 12

@@ -1,6 +1,7 @@
 # Challah
 
 ![Challah](resources/challah.jpg)
+
 *The braided Sabbath bread that doubles as the Hanukkah loaf. Egg-enriched, faintly sweet, with a deep mahogany crust from the egg wash and a tender, slightly stretchy crumb underneath. The braid is theatre but it's also structural — it gives every slice a pulled, ropy texture.*
 
 **Serves:** 10 (makes 1 large loaf)

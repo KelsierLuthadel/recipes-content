@@ -5,6 +5,7 @@
 *This is probably the most popular chutney served in Indian restaurants. A simple blend of yoghurt, mint, garlic, ginger, and green chilli creates a fresh, cooling condiment that's essential at the table. Smooth, creamy, and subtly spiced, this is the foundation chutney.*
 
 **Serves:** 4-6
+
 **Prep Time:** 10 minutes
 
 ## Overview

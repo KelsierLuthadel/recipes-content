@@ -1,6 +1,7 @@
 # Knafeh Nabulsiya
 
 ![Knafeh Nabulsiya](resources/knafeh-nabulsiya.jpg)
+
 *The Nablus-style cheese knafeh: orange-tinted kataifi pastry baked over melted akkawi cheese, drenched in cold rosewater syrup, scattered with pistachio.*
 
 **Serves:** 8

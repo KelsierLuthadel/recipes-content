@@ -1,16 +1,10 @@
 # Curry Base Gravy
 
-*The British-Indian-Restaurant curry base: onion, garlic and ginger slow-simmered with spices, then blended smooth.*
-
-
-**Prep Time:** 10 minutes
-
 ![Base Gravy](resources/gravy.jpg)
 
-*Classic British Indian Restaurant(B.I.R.) curry base*
+*The British-Indian-Restaurant curry base: onion, garlic and ginger slow-simmered with spices, then blended smooth.*
 
-*This is the classic curry base that is used in most UK Indian restaurants. The finished sauce has a sweet taste and should be a thick consistency.*
-
+**Prep Time:** 10 minutes
 
 **Yield:** 4kg
 
@@ -45,3 +39,7 @@ Remember to periodically stir during the following process to stop the onions fr
 - Allow to cool slightly.
 - Blend into a smooth sauce.
 - Cook for ½ an hour over a low heat.
+
+
+*Classic British Indian Restaurant(B.I.R.) curry base*
+*This is the classic curry base that is used in most UK Indian restaurants. The finished sauce has a sweet taste and should be a thick consistency.*

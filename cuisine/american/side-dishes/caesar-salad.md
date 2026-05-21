@@ -1,6 +1,7 @@
 # Caesar Salad
 
 ![Caesar Salad](resources/caesar-salad.jpg)
+
 *Romaine, garlic croutons, anchovy-spiked dressing, and shaved parmesan. Invented in Tijuana in the 1920s by Caesar Cardini; the original had no chicken - that was an American addition decades later. The dressing should taste of anchovy and garlic; if it doesn't, it's just a Caesar-flavoured salad.*
 
 **Serves:** 4

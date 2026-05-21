@@ -1,6 +1,7 @@
 # Lomo Saltado
 
 ![Lomo Saltado](resources/lomo-saltado.jpg)
+
 *Peru's signature stir-fry: thin strips of beef seared with red onion, tomato, soy sauce and aji amarillo, tossed with crispy fries and fresh coriander.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Paya
 
 ![Paya](resources/paya.jpg)
+
 *Lahore's Sunday breakfast: lamb trotters simmered all night in a deep masala until the broth turns silky with gelatin.*
 
 **Serves:** 6

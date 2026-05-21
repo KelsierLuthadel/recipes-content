@@ -4,8 +4,6 @@
 
 *Tempura garlic prawns: whole prawns dipped in a light tempura batter spiked with fried garlic, deep-fried till crisp and pale gold.*
 
-
-
 **Makes:** 20
 
 **Prep Time:** 20 minutes

@@ -1,6 +1,7 @@
 # Fabada Asturiana
 
 ![Fabada Asturiana](resources/fabada-asturiana.jpg)
+
 *Asturian bean stew: large white fabes beans braised slow with chorizo, morcilla and pork shoulder until everything melts together into a rust-coloured, deeply savoury bowl. The Sunday-lunch-and-Monday-leftovers dish of northwest Spain.*
 
 **Serves:** 6

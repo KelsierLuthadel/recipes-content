@@ -5,7 +5,9 @@
 *This variation on a Cornish pasty can either be used as a main meal, served with potatoes or a light snack.*
 
 **Serves:** 8
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 3 minutes
 
 ## Overview

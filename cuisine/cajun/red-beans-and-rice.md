@@ -1,6 +1,7 @@
 # Red Beans and Rice
 
 ![Red Beans and Rice](resources/red-beans-and-rice.jpg)
+
 *Louisiana's Monday-night dish - a vegetarian version, where the smoke usually given by andouille comes from smoked paprika and a long simmer with bay and thyme. Beans break down on the edges and stay whole at the heart; the broth thickens to a gravy. Spooned over white rice, with hot sauce on the side.*
 
 **Serves:** 4-6

@@ -5,7 +5,9 @@
 *India's aromatic pilau: rice infused with cardamom, cloves, cinnamon and bay perfuming butter-coated grains. Saffron adds floral notes and a golden hue.*
 
 **Prep Time:** 35 minutes
+
 **Cook Time:** 15 minutes
+
 **Yield:** Approximately 1.3 liters cooked rice (6-8 servings)
 
 ## Overview

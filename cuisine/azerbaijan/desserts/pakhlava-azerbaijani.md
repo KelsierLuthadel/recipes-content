@@ -1,6 +1,7 @@
 # Pakhlava (Azerbaijani)
 
 ![Azerbaijani Pakhlava](resources/pakhlava-azerbaijani.jpg)
+
 *Azerbaijan's pakhlava: butter-laminated layers packed with cardamom-and-saffron walnuts, glazed with saffron honey and cut into diamonds.*
 
 **Serves:** Makes 20-24 diamonds

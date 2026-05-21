@@ -4,12 +4,9 @@
 
 *The BIR mix powder: a custom dry blend of curry powder, garam masala, paprika and turmeric.*
 
-
-
 **Makes:** 17 tbsp
 
 **Prep Time:** 5 minutes
-
 
 ## Overview
 Classic British Indian Restaurant (B.I.R.) curry powder used for most classic curries. Provides the signature B.I.R. flavor; can be made with commercial or homemade curry powder and garam masala.

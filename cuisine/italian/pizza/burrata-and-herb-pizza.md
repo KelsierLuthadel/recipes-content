@@ -5,7 +5,9 @@
 *A summery pizza built around heirloom tomatoes, milky burrata and a vibrant herb pesto, all added off the heat after a quick bake. The base is the only thing that meets the oven; everything else stays fresh.*
 
 **Serves:** 3 pizzas
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 30 minutes
 
 ## Overview

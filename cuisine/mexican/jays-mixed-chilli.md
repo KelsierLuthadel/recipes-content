@@ -1,6 +1,7 @@
 # Chilli con Carne
 
 ![Chilli con Carne](resources/chilli.jpg)
+
 *A British home-cook chilli that leans on toasted whole spices, marmite and balsamic for depth, kidney beans and baked beans for texture, and a slow simmer to bring everything together. Not authentic Mexican but a comforting weeknight crowd-feeder; better on day two.*
 
 ## Overview

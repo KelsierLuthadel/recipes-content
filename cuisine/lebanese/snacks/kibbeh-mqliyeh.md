@@ -1,6 +1,7 @@
 # Kibbeh Mqliyeh
 
 ![Kibbeh Mqliyeh](resources/kibbeh-mqliyeh.jpg)
+
 *Lebanon's fried kibbeh: small bulgur-and-lamb footballs wrapped around a spiced mince and pine-nut filling, deep-fried amber-crisp.*
 
 **Serves:** 4 (makes 18 footballs)

@@ -1,6 +1,7 @@
 # Kartoffelpuffer with Tahini
 
 ![Kartoffelpuffer with Tahini](resources/kartoffelpuffer-tahini.jpg)
+
 *The Ashkenazi-Sephardi crossover patty. German potato pancakes (kartoffelpuffer) reworked with tahini binding instead of egg and flour, spiced with cumin, turmeric, garlic and herbs. Vegan, baked rather than fried, crisp at the edges. The cooking that says: two food cultures, one tray.*
 
 **Serves:** 6 (makes about 18 patties)

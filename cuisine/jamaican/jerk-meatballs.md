@@ -1,6 +1,7 @@
 # Jerk Meatballs in Coconut Curry Sauce
 
 ![Jerk Meatballs in Coconut Curry Sauce](resources/jerk-meatballs.jpg)
+
 *Pork meatballs seasoned with jerk paste, ginger and scallion, seared and then simmered in a coconut-curry sauce built around bell peppers and Jamaican curry powder. Comes together in one pan in under an hour. Serves over plain white rice.*
 
 **Serves:** 4

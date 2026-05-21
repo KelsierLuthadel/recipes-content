@@ -1,6 +1,7 @@
 # Andouille Skewers
 
 ![Andouille Skewers](resources/andouille-skewers.jpg)
+
 *A Cajun kebab: thick slices of smoky andouille threaded with peppers and onion, brushed with butter-garlic-brown-sugar-hot-sauce glaze, grilled blistered.*
 
 **Serves:** Makes 8 skewers (4 servings)

@@ -4,8 +4,6 @@
 
 *Vietnam's defining noodle soup: a slow-simmered beef bone broth scented with star anise, cinnamon, charred onion and ginger.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 20 minutes

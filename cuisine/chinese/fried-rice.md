@@ -1,13 +1,10 @@
 # Fried Rice
 
-*The Chinese takeaway staple: day-old rice stir-fried hot in a wok with egg, spring onion, peas and a splash of soy.*
-
-
-**Prep Time:** 10 minutes
-
 ![Fried Rice](resources/fried-rice.jpg)
 
-*In China, fried rice is eaten as a 'filler' at the end of formal dinner parties, never as the primary starch accompanying other dishes. Despite its ubiquity in Western Chinese restaurants, authentic fried rice is frequently incorrectly cooked. This version, with crispy rice grains coated individually with oil, tender bean sprouts, savory Parma ham, and silky scrambled egg, represents traditional execution.*
+*The Chinese takeaway staple: day-old rice stir-fried hot in a wok with egg, spring onion, peas and a splash of soy.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 600 milliliters cooked fried rice (4 servings)
 
@@ -129,3 +126,6 @@ Context: Finale course at Chinese dinners, light lunch, "filler" course to compl
 - Best served fresh; reheated fried rice never has quite the same texture as freshly made.
 - Can be partially prepared ahead: cold rice and beaten eggs prepared in advance. Oil the wok and finish cooking at service time.
 - Do not freeze; the texture degrades significantly and becomes unpleasant upon reheating.
+
+
+*In China, fried rice is eaten as a 'filler' at the end of formal dinner parties, never as the primary starch accompanying other dishes. Despite its ubiquity in Western Chinese restaurants, authentic fried rice is frequently incorrectly cooked. This version, with crispy rice grains coated individually with oil, tender bean sprouts, savory Parma ham, and silky scrambled egg, represents traditional execution.*

@@ -1,6 +1,7 @@
 # Greek Baklava
 
 ![Greek Baklava](resources/greek-baklava.jpg)
+
 *Greece's defining filo dessert: layered pastry packed with walnut and cinnamon, soaked in lemon-honey syrup. A clove pegs each diamond square.*
 
 **Serves:** Makes 20-24 squares

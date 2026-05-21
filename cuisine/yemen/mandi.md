@@ -1,6 +1,7 @@
 # Mandi
 
 ![Mandi](resources/mandi.jpg)
+
 *Yemen's most famous dish: lamb slow-cooked over saffron-and-spice rice, finished with a piece of glowing charcoal sealed under foil for smoke.*
 
 **Serves:** 6

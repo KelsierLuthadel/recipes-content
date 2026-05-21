@@ -1,6 +1,7 @@
 # Jhal Muri
 
 ![Jhal Muri](resources/jhal-muri.jpg)
+
 *Kolkata's street-corner snack: puffed rice tossed with mustard oil, chopped onion, green chilli, tomato, peanuts and a squeeze of lime.*
 
 **Serves:** 2

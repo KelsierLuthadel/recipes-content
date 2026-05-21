@@ -1,6 +1,7 @@
 # Broccoli-Bacon Salad
 
 ![Broccoli-Bacon Salad](resources/broccoli-bacon-salad.jpg)
+
 *Crisp raw broccoli florets, shards of smoky bacon, and sweet pops of dried cranberry tossed in a creamy, sweet-tangy dressing. The smell hints at brunch and the bite is all crunch and contrast, savoury, sweet, salty, and sharp folded into a single forkful.*
 
 **Serves:** 6

@@ -1,6 +1,7 @@
 # Sauerbraten
 
 ![Sauerbraten](resources/sauerbraten.jpg)
+
 *German pot-roast: beef marinated for days in red wine, vinegar and aromatics, then slow-braised. The sour-sweet sauce is thickened with crushed gingersnaps. The classic Sunday Rhineland roast; intensely flavoured, falls apart at a fork.*
 
 **Serves:** 6-8

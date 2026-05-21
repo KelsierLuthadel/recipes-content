@@ -1,6 +1,7 @@
 # Steamed Cabbage with Carrot, Thyme and Scotch Bonnet
 
 ![Steamed Cabbage with Carrot, Thyme and Scotch Bonnet](resources/steamed-cabbage.jpg)
+
 *A Jamaican weeknight side: shredded green cabbage with carrot, onion and thyme cooked with a whole Scotch bonnet that perfumes without overwhelming.*
 
 **Serves:** 4 as a side

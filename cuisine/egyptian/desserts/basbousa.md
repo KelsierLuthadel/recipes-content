@@ -1,6 +1,7 @@
 # Basbousa
 
 ![Basbousa](resources/basbousa.jpg)
+
 *Egypt's semolina cake: soaked in hot orange-blossom or rose syrup, golden on top, almost custardy beneath. The coconut-rich version of a Levantine staple.*
 
 **Serves:** 12

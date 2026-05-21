@@ -1,6 +1,7 @@
 # Borscht
 
 ![Borscht](resources/borscht.jpg)
+
 *Eastern European beetroot soup: deep ruby-red broth with beef, beetroot, cabbage and root vegetables, finished with a dollop of soured cream and dill. Russian and Ukrainian both claim it (with passion); the version below is the rich, beef-laden one most cooks recognise.*
 
 **Serves:** 6-8

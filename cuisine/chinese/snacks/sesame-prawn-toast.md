@@ -1,14 +1,12 @@
 # Chinese Sesame Prawn Toast
 
-*The Cantonese takeaway starter: minced prawn paste spread on white bread, dipped in sesame seeds.*
-
-
-**Prep Time:** 15 minutes
-**Cook Time:** 4 minutes
-
 ![Chinese Sesame Prawn Toast](resources/sesame-prawn-toast.jpg)
 
-*Sesame prawn toast is a savoury snack which is often served in dim sum restaurants outside China.*
+*The Cantonese takeaway starter: minced prawn paste spread on white bread, dipped in sesame seeds.*
+
+**Prep Time:** 15 minutes
+
+**Cook Time:** 4 minutes
 
 **Servings:** 30
 
@@ -62,3 +60,5 @@ Amount: 3 pieces per person as a starter or snack
 - Best eaten immediately after frying; the texture declines rapidly as the bread absorbs moisture and softens.
 - Uncooked prepared toasts can be refrigerated on a tray for up to a few hours before frying.
 - Do not freeze once fried; uncooked toasts can be frozen and fried directly from frozen, adding 1-2 minutes to the cooking time.
+
+*Sesame prawn toast is a savoury snack which is often served in dim sum restaurants outside China.*

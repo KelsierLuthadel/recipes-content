@@ -1,6 +1,7 @@
 # Firni
 
 ![Firni](resources/firni.jpg)
+
 *Afghan rice flour pudding: a smooth, custardy dessert thickened with finely-ground rice, scented with cardamom and rosewater, topped with crushed pistachios and almonds. Lighter and sweeter than its Persian cousin sholeh zard; eaten chilled in shallow bowls or at room temperature with tea.*
 
 **Serves:** 6

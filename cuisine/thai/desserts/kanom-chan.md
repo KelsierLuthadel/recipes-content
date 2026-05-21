@@ -1,6 +1,7 @@
 # Kanom Chan
 
 ![Kanom Chan](resources/kanom-chan.jpg)
+
 *Thailand's auspicious layer cake: nine pandan-and-coconut-milk jelly layers, each set before the next is poured. Eaten at weddings.*
 
 **Serves:** 8 (makes a 20 cm square tray)

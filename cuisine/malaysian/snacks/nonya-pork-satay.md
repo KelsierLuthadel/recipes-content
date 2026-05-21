@@ -5,8 +5,10 @@
 *There are few dishes as delicious as satay, and this dish as among one of the best satay recipes out there. The skewers of spiced meat can be served as snacks, as part of a barbecue or as a light meal.*
 
 **Serves:** 8 - 12
+
 **Prep Time:** 15 minutes
-**Cook Time:** 1 minutes
+
+**Cook Time:** 1 minute
 
 ## Overview
 Indonesian-style pork satay featuring tender, spiced meat on bamboo skewers with a creamy, complex peanut sauce enriched with coconut milk. The pork is infused with a paste of lemongrass, ground spices, and aromatics, making each bite deeply flavorful. This dish showcases traditional Southeast Asian techniques and is perfect for entertaining.

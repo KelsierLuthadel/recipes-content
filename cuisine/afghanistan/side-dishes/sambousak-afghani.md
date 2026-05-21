@@ -1,6 +1,7 @@
 # Sambousak Afghani
 
 ![Sambousak Afghani](resources/sambousak-afghani.jpg)
+
 *An Afghan triangular pastry: spiced lamb mince with leek and dried coriander, sealed in thin dough and deep-fried golden. Made by the dozen for parties.*
 
 **Serves:** 6 (makes 18-20)

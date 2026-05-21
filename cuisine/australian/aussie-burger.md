@@ -1,6 +1,7 @@
 # Aussie Burger with Beetroot
 
 ![Aussie Burger with Beetroot](resources/aussie-burger.jpg)
+
 *A towering stack of beef, bacon, fried egg, melted cheese, a slice of pineapple and the unmistakable purple-pink leak of pickled beetroot. It smells of charcoal and tomato chutney, and tastes like a service-station lunch on a road trip up the Pacific Highway.*
 
 **Serves:** 4

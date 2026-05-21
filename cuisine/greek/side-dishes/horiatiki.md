@@ -1,6 +1,7 @@
 # Horiatiki (Greek Village Salad)
 
 ![Horiatiki](resources/horiatiki.jpg)
+
 *The proper Greek village salad: chunks of tomato, cucumber, pepper and onion under a whole slab of feta, dressed with oil and oregano.*
 
 **Serves:** 4

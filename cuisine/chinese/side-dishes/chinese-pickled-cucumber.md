@@ -1,6 +1,7 @@
 # Chinese Pickled Cucumber
 
 ![Chinese Pickled Cucumber](resources/chinese-pickled-cucumber.jpg)
+
 *Sichuan's quick pickle: cucumber spears salted to weep, then bathed in a sweet-sour brine of rice vinegar, soy, Sichuan peppercorns and dried chillies.*
 
 **Serves:** 6 (as a side / pickle)

@@ -1,6 +1,7 @@
 # Hawawshi
 
 ![Hawawshi](resources/hawawshi.jpg)
+
 *Egypt's stuffed flatbread: spiced minced meat with onion, garlic, parsley and chillies sealed inside a flatbread pocket and pan-grilled hot. A Cairo classic.*
 
 **Serves:** 4

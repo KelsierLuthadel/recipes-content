@@ -1,6 +1,7 @@
 # Ojja with Merguez
 
 ![Ojja with Merguez](resources/ojja-merguez.jpg)
+
 *Tunisia's pan supper: harissa-spiced tomato sauce loaded with charred merguez and finished with eggs cracked over the top.*
 
 **Serves:** 4

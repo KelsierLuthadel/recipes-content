@@ -1,6 +1,7 @@
 # Nian Gao
 
 ![Nian Gao](resources/nian-gao.jpg)
+
 *Sticky rice cake for Lunar New Year. The name puns on "year higher" — eat it and you'll rise in the year ahead. A dense, faintly sweet, gloriously chewy slab steamed in a cake pan and then sliced and pan-fried in egg batter for the second-day breakfast.*
 
 **Serves:** 8

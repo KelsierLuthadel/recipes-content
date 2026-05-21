@@ -1,14 +1,12 @@
 # Pesto
 
-*Genoa's basil pesto: fresh basil pounded with pine nuts, garlic, Parmesan, Pecorino and olive oil into a vivid green sauce.*
-
-
-**Prep Time:** 10 minutes
-**Cook Time:** 1 minutes
-
 ![Pesto](resources/pesto.png)
 
-*This classic Italian basil sauce is silky, nutty, and herbaceous, the quintessential condiment for fresh pasta, focaccia dipping, or layered into Béchamel for lasagne. The balanced combination of fresh basil, garlic, pine nuts, extra virgin olive oil, and Parmesan creates one of the world's most versatile sauces.*
+*Genoa's basil pesto: fresh basil pounded with pine nuts, garlic, Parmesan, Pecorino and olive oil into a vivid green sauce.*
+
+**Prep Time:** 10 minutes
+
+**Cook Time:** 1 minute
 
 **Yield:** Approximately 180 milliliters (approximately 10-12 servings as a pasta sauce)
 
@@ -116,3 +114,5 @@ Application: Toss with hot pasta immediately before service; heat from pasta gen
 - Do not store at room temperature; bacteria can proliferate in the moist basil-oil environment.
 - Best consumed within 3-4 days for maximum bright herb character and vibrant green color.
 - After refrigeration, allow to come to room temperature before serving for optimal texture and flavor expression.
+
+*This classic Italian basil sauce is silky, nutty, and herbaceous, the quintessential condiment for fresh pasta, focaccia dipping, or layered into Béchamel for lasagne. The balanced combination of fresh basil, garlic, pine nuts, extra virgin olive oil, and Parmesan creates one of the world's most versatile sauces.*

@@ -1,6 +1,7 @@
 # Hungarian Mushroom Soup
 
 ![Hungarian Mushroom Soup](resources/hungarian-mushroom-soup.jpg)
+
 *Gombaleves: a creamy, dill-flecked, paprika-rich mushroom soup with sour cream stirred in at the end. Earthy and brothy at once; the sour cream and dill keep it from being heavy. A weekday lunch that punches well above its weight.*
 
 **Serves:** 4

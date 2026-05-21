@@ -1,6 +1,7 @@
 # Manakish Mini
 
 ![Manakish Mini](resources/manakish-mini.jpg)
+
 *Snack-sized Jordan manakish: small yeasted discs topped with za'atar oil, akkawi cheese with nigella, or spiced lamb mince. Baked hot.*
 
 **Serves:** 6 (makes 18 mini manakish; 6 of each topping)

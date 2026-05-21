@@ -1,6 +1,7 @@
 # Boxty
 
 ![Boxty](resources/boxty.jpg)
+
 *Irish potato pancakes built on a 50/50 mix of grated raw and mashed cooked potatoes - the raw gives a chewy, almost fritter-like body; the mash gives smoothness. Eats hot off the pan with butter, an egg, or rolled around a savoury filling.*
 
 **Makes:** 8 small pancakes

@@ -4,8 +4,6 @@
 
 *gulyás*
 
-*Goulash is a soup or stew of meat and vegetables, seasoned with paprika. It originates from 9th Century Hungary, and the name means Herdsman.*
-
 **Serves:** 4
 
 **Prep Time:** 20 minutes
@@ -74,3 +72,5 @@ Serve hot, topped with fresh chopped parsley.
 ## Storage
 - Refrigerate up to 3 days; flavors improve over time.
 - Freezes well up to 3 months; thaw and reheat gently.
+
+*Goulash is a soup or stew of meat and vegetables, seasoned with paprika. It originates from 9th Century Hungary, and the name means Herdsman.*

@@ -1,6 +1,7 @@
 # Paella de Mariscos
 
 ![Paella de Mariscos](resources/paella-mariscos.jpg)
+
 *The seafood paella: prawns, mussels, clams, squid and white fish over saffron-tomato rice. The coastal cousin of paella valenciana; uses fish stock instead of chicken and lets the seafood season the rice as it cooks.*
 
 **Serves:** 6

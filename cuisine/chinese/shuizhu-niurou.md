@@ -1,6 +1,7 @@
 # Shuizhu Niurou
 
 ![Shuizhu Niurou](resources/shuizhu-niurou.jpg)
+
 *Sichuan's water-boiled beef: silk-thin beef poached in a fiery doubanjiang broth, drowned in smoking chilli oil at the table.*
 
 **Serves:** 4

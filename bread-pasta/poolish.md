@@ -1,13 +1,10 @@
 # Poolish (Bread Pre-Ferment)
 
-*A bread pre-ferment: equal weights of flour and water with a pinch of yeast left overnight till bubbly.*
-
-
-**Prep Time:** 5 minutes
-
 ![Poolish](resources/poolish.jpg)
 
-*Authentic French bread requires a pre-fermentation stage known as a Poolish, a starter made with equal parts water and flour and a tiny amount of yeast. This ferments for 12-18 hours, developing flavor and improving dough structure. Poolish adds complexity, acidity, and distinctive character to bread.*
+*A bread pre-ferment: equal weights of flour and water with a pinch of yeast left overnight till bubbly.*
+
+**Prep Time:** 5 minutes
 
 **Yield:** Approximately 200 grams (enough for one batch of French bread)
 
@@ -81,3 +78,5 @@ Effect: Adds depth, slight tartness, better crust development, improved fermenta
 - Refrigerated Poolish keeps for up to 3 days in an airtight container
 - Do not freeze; yeast won't survive thawing
 - Always allow refrigerated Poolish to return to room temperature before using
+
+*Authentic French bread requires a pre-fermentation stage known as a Poolish, a starter made with equal parts water and flour and a tiny amount of yeast. This ferments for 12-18 hours, developing flavor and improving dough structure. Poolish adds complexity, acidity, and distinctive character to bread.*

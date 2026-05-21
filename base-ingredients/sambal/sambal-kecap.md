@@ -1,13 +1,10 @@
 # Sambal Kecap
 
-*Indonesia's sweet soy sambal: kecap manis (sweet soy) with sliced bird's-eye chillies, shallot and lime juice.*
-
-
-**Prep Time:** 5 minutes
-
 ![Sambal Kecap](resources/sambal-kecap.jpg)
 
-*This Indonesian soy-based sambal balances sweet kecap manis with fiery chillies and pungent garlic, creating a complex dipping sauce that's far more sophisticated than the sum of its parts. Traditionally served alongside satay skewers and fried chicken, this condiment illustrates the Indonesian mastery of sweet-spicy harmony.*
+*Indonesia's sweet soy sambal: kecap manis (sweet soy) with sliced bird's-eye chillies, shallot and lime juice.*
+
+**Prep Time:** 5 minutes
 
 **Yield:** Approximately 175 milliliters (makes 12-15 tablespoons)
 
@@ -99,3 +96,5 @@ Application: Served in small bowl for dipping; use spoon to dollop onto plate al
 - Best served fresh; prepare within 2-3 days of serving for optimal chilli brightness
 - Does not keep at room temperature due to fresh ingredients
 - Check for any mold or musty smell before using
+
+*This Indonesian soy-based sambal balances sweet kecap manis with fiery chillies and pungent garlic, creating a complex dipping sauce that's far more sophisticated than the sum of its parts. Traditionally served alongside satay skewers and fried chicken, this condiment illustrates the Indonesian mastery of sweet-spicy harmony.*

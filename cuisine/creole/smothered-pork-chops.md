@@ -1,6 +1,7 @@
 # Smothered Pork Chops
 
 ![Smothered Pork Chops](resources/smothered-pork-chops.jpg)
+
 *A Creole smother: bone-in pork chops dredged in seasoned flour, seared, then slow-braised in a dark onion gravy till fork-tender. Eaten over rice.*
 
 **Serves:** 4

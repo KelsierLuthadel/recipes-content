@@ -1,6 +1,7 @@
 # Tantanmen
 
 ![Tantanmen](resources/tantanmen.jpg)
+
 *Japan's take on dan-dan noodles: a brothy ramen with a thick sesame-and-chilli tare, topped with spiced ground pork and a soft-boiled egg.*
 
 **Serves:** 2

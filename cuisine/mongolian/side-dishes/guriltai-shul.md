@@ -1,6 +1,7 @@
 # Guriltai Shul
 
 ![Guriltai Shul](resources/guriltai-shul.jpg)
+
 *Mongolia's mutton noodle soup: a clear broth of slow-simmered mutton on the bone with hand-cut wheat noodles, carrot and onion. The cold-day restorative.*
 
 **Serves:** 4

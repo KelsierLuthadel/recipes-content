@@ -1,6 +1,7 @@
 # Rissóis de Camarão
 
 ![Rissóis de Camarão](resources/rissois-de-camarao.jpg)
+
 *Portuguese-Mozambican shrimp turnovers: half-moons of flour-and-butter dough filled with a thick béchamel of shrimp, paprika and a hint of piri-piri.*
 
 **Serves:** 6 (makes about 24)

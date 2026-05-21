@@ -1,6 +1,7 @@
 # Bubble and Squeak
 
 ![Bubble and Squeak](resources/bubble-and-squeak.png)
+
 *The Boxing Day classic: leftover roast potatoes and cabbage (or sprouts) fried hard in a pan until a deep crust forms beneath. Named for the noise the cabbage makes as it cooks. Better the second day than the first; the soul of British leftover cookery.*
 
 **Serves:** 4

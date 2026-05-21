@@ -1,6 +1,7 @@
 # Yuca Con Chicharrón
 
 ![Yuca con Chicharrón](resources/yuca-con-chicharron.jpg)
+
 *Boiled cassava (yuca) topped with crisp pork chicharrón, served with a sharp cabbage curtido and a wedge of lime. A casual lunch, a beer snack and a holiday plate all at once. The yuca is starchy and gentle; the chicharrón is rich and salty; the curtido cuts everything. Eaten with the hands or a fork.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Coq au Vin
 
 ![Coq au Vin](resources/coq-au-vin.jpg)
+
 *Burgundian chicken stew: bird braised in red wine with bacon lardons, mushrooms and pearl onions until the sauce is glossy and the meat falls from the bone. Originally a way to redeem a tough old rooster; modern versions use a regular chicken and just braise less.*
 
 **Serves:** 4-6

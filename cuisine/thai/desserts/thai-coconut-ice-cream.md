@@ -1,6 +1,7 @@
 # Thai Coconut Ice Cream
 
 ![Thai Coconut Ice Cream](resources/thai-coconut-ice-cream.jpg)
+
 *Bangkok's coconut ice cream: a churned ice cream of pure coconut milk and palm sugar, served with sticky rice, peanuts and palm-sugar syrup.*
 
 **Serves:** 6 (makes about 1 litre)

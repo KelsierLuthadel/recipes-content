@@ -1,6 +1,7 @@
 # Nam Prik Pao
 
 ![Nam Prik Pao](resources/nam-prik-pao.jpg)
+
 *Thailand's roasted chilli jam: dried chillies, shallots, garlic and dried shrimp pounded with palm sugar and tamarind into a smoky paste.*
 
 **Serves:** 8 (makes ~250 ml)

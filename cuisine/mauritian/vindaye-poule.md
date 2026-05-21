@@ -1,6 +1,7 @@
 # Vindaye Poule
 
 ![Vindaye Poule](resources/vindaye-poule.jpg)
+
 *The Mauritian pickle-curry: poached chicken steeped in a mustard-yellow paste of vinegar, turmeric, garlic and chilli, folded through softened onions.*
 
 **Serves:** 4

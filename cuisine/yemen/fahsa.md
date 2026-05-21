@@ -1,6 +1,7 @@
 # Fahsa
 
 ![Fahsa](resources/fahsa.jpg)
+
 *A Yemeni cousin of saltah: shredded slow-cooked lamb in a thick spiced gravy, served bubbling in a stone pot under a snowy whipped hulba froth.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Spicy Coconut Fried Chicken Sandwich
 
 ![Spicy Coconut Fried Chicken Sandwich](resources/spicy-coconut-fried-chicken-sandwich.jpg)
+
 *Caribbean-inspired fried chicken sandwich by Chef Winslow. Thighs marinate in coconut milk and minced Scotch bonnet, then fry crisp in a seasoned self-rising flour. Mango-Scotch-bonnet sauce on the bun; coleslaw dressed with more coconut milk and vinegar. Served on Jamaican coco bread.*
 
 **Serves:** 3

@@ -1,6 +1,7 @@
 # Grilled Jerk Chicken Thighs
 
 ![Grilled Jerk Chicken Thighs](resources/grilled-jerk-chicken-thighs.jpg)
+
 *Boneless jerk thighs marinated in jerk seasoning thinned with coconut milk and lime, then grilled till the surface chars and the inside stays juicy.*
 
 **Serves:** 6

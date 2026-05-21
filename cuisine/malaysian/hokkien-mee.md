@@ -5,9 +5,10 @@
 *KL-style Hokkien mee is a Kuala Lumpur hawker classic, defined by thick yellow noodles braised in a dark, smoky soy gravy and crowned with crisp pork lardons. The dish takes its name from the Hokkien Chinese community who brought wok cooking to the Malay peninsula.*
 
 **Serves:** 4
-**Prep Time:** 20 minutes
-**Cook Time:** 25 minutes
 
+**Prep Time:** 20 minutes
+
+**Cook Time:** 25 minutes
 
 ## Overview
 Thick fresh egg noodles are stir-fried hard in rendered pork fat, then braised in a glossy gravy of dark sweet soy, oyster sauce and a touch of sugar. Pork belly, prawns and cabbage round out the wok, with a final shower of crackling pork croutons providing the signature crunch. A fast, intensely flavoured dish that hinges on a hot wok and good kecap manis.

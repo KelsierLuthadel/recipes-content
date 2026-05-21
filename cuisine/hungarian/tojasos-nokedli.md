@@ -1,6 +1,7 @@
 # Tojásos Nokedli
 
 ![Tojásos Nokedli](resources/tojasos-nokedli.jpg)
+
 *Hungary's egg dumplings: rough, drop-spaetzle-style nokedli boiled and finished in beaten eggs that just-set into ribbons among them. A 15-minute supper, eaten with a green salad or pickled cucumbers; the comfort food version of pasta with butter and egg.*
 
 **Serves:** 2-3

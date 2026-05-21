@@ -1,6 +1,7 @@
 # Wok-Fried Greens
 
 ![Wok-Fried Greens](resources/wok-fried-greens.jpg)
+
 *Wagamama's signature side: tenderstem broccoli, bok choy and snap peas blasted in a hot wok with garlic, ginger, soy and a splash of mirin until just-tender and bright. The greens stay crunchy in the centre; the surface picks up that scorched, smoky wok flavour. Eats alongside ramen, noodles, or rice.*
 
 **Serves:** 2 (as a side)

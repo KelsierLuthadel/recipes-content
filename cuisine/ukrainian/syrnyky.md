@@ -1,6 +1,7 @@
 # Syrnyky
 
 ![Syrnyky](resources/syrnyky.jpg)
+
 *Ukrainian cheese pancakes: small thick rounds of sweet, vanilla-scented cottage cheese batter, pan-fried until golden, served with sour cream and jam. Breakfast, dessert, the most-eaten enrichment in Ukrainian home cooking. Eats hot, warm, or cold.*
 
 **Makes:** 12 syrnyky

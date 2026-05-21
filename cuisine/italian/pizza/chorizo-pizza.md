@@ -5,7 +5,9 @@
 *A margherita given a Spanish twist with crisp slices of chorizo, salty capers, and pitted black olives. The tomato ragù is reduced for a full hour, concentrating its sweetness against the smoky paprika of the chorizo.*
 
 **Serves:** 3 pizzas
+
 **Prep Time:** 20 minutes
+
 **Cook Time:** 1 hour 24 minutes
 
 ## Overview

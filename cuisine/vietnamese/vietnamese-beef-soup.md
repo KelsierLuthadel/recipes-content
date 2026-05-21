@@ -4,8 +4,6 @@
 
 *Pho bo*
 
-*This dish works best with raw beef that has been sliced paper thin, as it cooks in seconds when placed in the hot broth.*
-
 **Serves:** 4
 
 **Prep Time:** 15 minutes
@@ -69,3 +67,5 @@ Serve hot with lemon wedges for squeezing.
 - Refrigerate broth up to 2 days; assemble fresh.
 - Not suitable for freezing.
 - Best eaten immediately.
+
+*This dish works best with raw beef that has been sliced paper thin, as it cooks in seconds when placed in the hot broth.*

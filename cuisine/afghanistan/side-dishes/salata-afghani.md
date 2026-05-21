@@ -1,6 +1,7 @@
 # Salata Afghani
 
 ![Salata Afghani](resources/salata-afghani.jpg)
+
 *Afghan chopped salad: finely diced tomato, cucumber and red onion dressed with lemon, olive oil, salt, dried mint and a kick of green chilli. Served alongside kabuli pulao, kebabs and any heavy meat dish. Cool, crunchy, slightly hot. Made fresh; eaten within an hour.*
 
 **Serves:** 4 as a side

@@ -1,6 +1,7 @@
 # Tarka Dal
 
 ![Tarka Dal](resources/tarka-dal.jpg)
+
 *Every North Indian kitchen's dal: split yellow lentils cooked soft with turmeric, then crowned with a sputtering tarka of ghee, cumin, garlic and chilli.*
 
 **Serves:** 4 as a side

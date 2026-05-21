@@ -1,6 +1,7 @@
 # Couscous Royale
 
 ![Couscous Royale](resources/couscous-royale.jpg)
+
 *The festive Moroccan-Maghreb couscous: fluffy semolina topped with merguez sausages, lamb shoulder, chicken, and a vegetable-rich broth (carrots, courgette, turnips, chickpeas) with harissa on the side. The full Sunday-lunch version of North African couscous; a single platter feeds a crowd.*
 
 **Serves:** 6-8

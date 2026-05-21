@@ -1,6 +1,7 @@
 # Mirza Ghasemi
 
 ![Mirza Ghasemi](resources/mirza-ghasemi.jpg)
+
 *A smoky Northern Iranian (Gilan) side: roasted aubergine smashed with fried garlic, tomato, turmeric, salt and a scrambled egg folded through. Eaten with bread or rice. The smoke from the aubergine - properly charred over flame or under a hot grill - is the dish's signature.*
 
 **Serves:** 4 as a side

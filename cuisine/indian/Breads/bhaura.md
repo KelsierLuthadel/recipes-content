@@ -4,8 +4,6 @@
 
 *Punjab's bhatura: a yeasted-and-yogurt-leavened deep-fried bread that puffs up in hot oil into a soft, hollow disc.*
 
-
-
 **Makes:** 8 bhatura
 
 **Prep Time:** 30 minutes

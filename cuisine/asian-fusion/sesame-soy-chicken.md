@@ -1,6 +1,7 @@
 # Sesame Soy Chicken
 
 ![Sesame Soy Chicken](resources/sesame-soy-chicken.jpg)
+
 *An Asian-inspired weeknight chicken: thighs glazed in sweet-savoury soy and sesame, finished with toasted sesame seeds. Hot sesame oil and brown sugar caramel.*
 
 **Serves:** 6

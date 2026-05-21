@@ -1,6 +1,7 @@
 # Atakilt Wat
 
 ![Atakilt Wat](resources/atakilt-wat.jpg)
+
 *Ethiopia's spiced cabbage, carrots and potatoes - bright with turmeric, fragrant with ginger, the vegetables stewed slowly until they meld and the cabbage almost disappears into the sauce. Mild compared to the berbere-heavy stews; cooling against them on a shared platter.*
 
 **Serves:** 4

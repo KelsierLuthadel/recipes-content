@@ -1,6 +1,7 @@
 # Doro Wat
 
 ![Doro Wat](resources/doro-wat.jpg)
+
 *Ethiopian spiced chicken stew: chicken legs simmered in a thick, deep red sauce of caramelised onions, berbere spice and niter kibbeh (spiced clarified butter), with hard-boiled eggs poached in the sauce. The national dish; festive food, served with injera flatbread to scoop with.*
 
 **Serves:** 4-6

@@ -1,13 +1,10 @@
 # Singapore Curry Powder
 
-*Singapore's curry powder: a Tamil-Malay blend of coriander, cumin, fennel, turmeric and dried chilli.*
-
-
-**Prep Time:** 10 minutes
-
 ![Singapore](resources/singapore.jpg)
 
-*Chillies are a key ingredient in this vibrant curry powder designed for Southeast Asian cooking. The blend balances heat with aromatic warmth, making it ideal for chicken curries and seafood preparations.*
+*Singapore's curry powder: a Tamil-Malay blend of coriander, cumin, fennel, turmeric and dried chilli.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 75 grams (makes 15-20 curry portions)
 
@@ -99,3 +96,5 @@ Temperature: Best activated by blooming in hot oil
 - Flavor fades relatively quickly compared to other spice powders
 - Check aroma before using in important dishes after 2 months
 - Label with preparation date
+
+*Chillies are a key ingredient in this vibrant curry powder designed for Southeast Asian cooking. The blend balances heat with aromatic warmth, making it ideal for chicken curries and seafood preparations.*

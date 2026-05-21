@@ -1,6 +1,7 @@
 # Patatas Bravas
 
 ![Patatas Bravas](resources/patatas-bravas.jpg)
+
 *Spain's most-ordered tapa: twice-fried potato cubes drenched in a smoky paprika-tomato sauce, drizzled with garlic aioli.*
 
 **Serves:** 4 as a side / 6 as a tapa

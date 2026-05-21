@@ -1,6 +1,7 @@
 # Knafeh Naameh
 
 ![Knafeh Naameh](resources/knafeh-naameh.jpg)
+
 *The Lebanese smooth knafeh: a fine semolina dough layered with melted akkawi cheese, baked dome-up, drenched in rose-and-orange-blossom syrup, pistachio-topped.*
 
 **Serves:** 6

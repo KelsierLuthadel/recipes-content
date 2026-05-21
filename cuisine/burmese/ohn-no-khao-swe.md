@@ -1,6 +1,7 @@
 # Ohn No Khao Swè
 
 ![Ohn No Khao Swè](resources/ohn-no-khao-swe.jpg)
+
 *Burma's chicken-coconut noodle soup: yellow egg noodles in a turmeric-tinted coconut broth thickened with chickpea flour. Heaped with garnishes.*
 
 **Serves:** 4

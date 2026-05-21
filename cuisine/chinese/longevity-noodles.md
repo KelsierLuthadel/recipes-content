@@ -1,6 +1,7 @@
 # Longevity Noodles
 
 ![Longevity Noodles](resources/longevity-noodles.jpg)
+
 *Yi mein noodles stir-fried with shiitake mushrooms and garlic chives, never cut. You don't bite a longevity noodle in half on Lunar New Year — it's a symbolic long-life dish, and even by accident is unlucky. Slurp the whole length and start over.*
 
 **Serves:** 4

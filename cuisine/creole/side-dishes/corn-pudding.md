@@ -1,6 +1,7 @@
 # Corn Pudding
 
 ![Corn Pudding](resources/corn-pudding.jpg)
+
 *The American South / Creole baked side: a soft, savoury custard of fresh corn kernels, beaten egg, cream, melted butter and a touch of sugar, baked until set with a faintly bronzed top. Sweet, eggy, comforting. Goes alongside fried chicken, BBQ ribs, or - at Thanksgiving - turkey and ham.*
 
 **Serves:** 6

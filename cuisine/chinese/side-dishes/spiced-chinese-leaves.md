@@ -4,13 +4,14 @@
 
 *A Sichuan-spiced cabbage side: Chinese leaves stir-fried hot with dried chillies, garlic, Sichuan peppercorns and a splash of black vinegar.*
 
+**Serves:**  2 - 4
+
+**Prep Time:** 10 minutes
+
+**Cook Time:** 1 minute
 
 *Unlike the more familiar green and red cabbage, Chinese leaves have a bland, sweet flavour which is delicate, rather like lettuce. Cooking is needed to make it palatable, and because it is so light, it calls for a robust sauce.
 *
-
-**Serves:**  2 - 4
-**Prep Time:** 10 minutes
-**Cook Time:** 1 minutes
 
 ## Overview
 Spiced Chinese leaves is a quick stir-fried side dish that transforms the mild, delicate flavour of Chinese leaves with a robust sauce of ginger, garlic, chilli, soy sauce, and sesame oil. The high-heat cooking method brings out a savoury depth that makes it a perfect accompaniment to Asian-style mains.

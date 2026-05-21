@@ -5,7 +5,9 @@
 *The American deep-pan style is built in a cake tin rather than on a stone, with a thick, breadlike crust and a long-cooked tomato sauce reduced almost to ketchup. This version layers two salamis, melted cheese and jalapeños for a proper hot pizza.*
 
 **Serves:** 2 large pizzas
+
 **Prep Time:** 30 minutes
+
 **Cook Time:** 1 hour
 
 ## Overview

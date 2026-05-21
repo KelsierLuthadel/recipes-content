@@ -1,6 +1,7 @@
 # Cannoli Siciliani
 
 ![Cannoli Siciliani](resources/cannoli-siciliani.jpg)
+
 *Sicily's signature pastry: deep-fried Marsala-spiked dough tubes filled to order with sweetened ricotta, candied peel and pistachio.*
 
 **Serves:** 8 (makes 12 cannoli)

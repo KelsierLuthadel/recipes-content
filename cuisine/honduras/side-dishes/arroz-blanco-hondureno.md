@@ -1,6 +1,7 @@
 # Arroz Blanco Hondureño
 
 ![Arroz Blanco Hondureño](resources/arroz-blanco-hondureno.jpg)
+
 *Honduras' plain white rice: long-grain toasted in oil with onion and garlic, then cooked absorption-style. Fluffy and separate, the supporting plate.*
 
 **Serves:** 4

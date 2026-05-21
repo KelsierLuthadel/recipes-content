@@ -1,6 +1,7 @@
 # Lamb Tagine with Prunes
 
 ![Lamb Tagine with Prunes](resources/lamb-tagine-with-prunes.jpg)
+
 *Morocco's Friday lamb: shoulder slow-cooked in a tagine with saffron, ginger and cinnamon, finished with soft brandy-soaked prunes and toasted almonds.*
 
 **Serves:** 4

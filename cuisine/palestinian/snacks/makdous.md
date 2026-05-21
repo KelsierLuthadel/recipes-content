@@ -1,6 +1,7 @@
 # Makdous
 
 ![Makdous](resources/makdous.jpg)
+
 *Palestine's winter pantry preserve: tiny aubergines stuffed with walnuts, garlic and red pepper paste, submerged in olive oil for weeks.*
 
 **Serves:** 8 (makes about 18 stuffed mini aubergines in a 1-litre jar)

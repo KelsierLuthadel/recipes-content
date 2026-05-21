@@ -1,6 +1,7 @@
 # Manakish Jibneh
 
 ![Manakish Jibneh](resources/manakish-jibneh.jpg)
+
 *Lebanon's cheese manakish: yeasted flatbread topped with melted akkawi cheese and baked at high heat till the dough is gold and the cheese bronzed.*
 
 **Serves:** 4 (makes 6 flatbreads)

@@ -1,6 +1,7 @@
 # Lahori Mint Chutney
 
 ![Lahori Mint Chutney](resources/lahori-mint-chutney.jpg)
+
 *Pudina chutney: fresh mint, coriander and green chilli ground with yogurt, lemon and a touch of cumin. The cool green accompaniment to every chargrilled Lahori kebab.*
 
 **Serves:** 6 (as an accompaniment)

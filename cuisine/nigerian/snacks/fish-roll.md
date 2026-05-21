@@ -1,6 +1,7 @@
 # Fish Roll
 
 ![Fish Roll](resources/fish-roll.jpg)
+
 *Nigeria's bus-stop pastry: a deep-fried savoury cigar of unleavened dough wrapped around sardine-and-spice mince. The school-canteen mainstay.*
 
 **Serves:** Makes 12 fish rolls

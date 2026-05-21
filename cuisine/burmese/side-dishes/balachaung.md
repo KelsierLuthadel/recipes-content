@@ -1,6 +1,7 @@
 # Balachaung
 
 ![Balachaung](resources/balachaung.jpg)
+
 *The Burmese table condiment: dried shrimp fried into a deeply savoury, sticky chilli-and-garlic relish that's spooned over rice, mixed into noodles, eaten with cucumber or scooped onto a plain wedge of bread. Intense, salty, fishy, sweet-hot. A spoon goes a long way. Made in batches; kept in a jar; lasts weeks.*
 
 **Serves:** 12 (small jar)

@@ -4,8 +4,6 @@
 
 *Thailand's panang curry paste: dried red chillies, lemongrass, galangal, kaffir lime peel and roasted peanuts pounded into a thick.*
 
-
-
 **Makes:** Approx. 250 ml (1 cup)
 
 **Prep Time:** 40-60 minutes

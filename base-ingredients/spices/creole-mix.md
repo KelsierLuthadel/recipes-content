@@ -1,14 +1,10 @@
 # Creole Spice Mix
 
-*The New Orleans Creole spice blend: paprika, white pepper, garlic, onion, oregano and bay.*
-
-
-**Prep Time:** 10 minutes
-
 ![Creole Spice Mix](resources/creole-mix.jpg)
 
+*The New Orleans Creole spice blend: paprika, white pepper, garlic, onion, oregano and bay.*
 
-*Creole spice is a staple of Louisiana cooking, bringing aromatic herbs, warm paprika, and bright heat to stews, rice dishes, and braised proteins. It is more herb-forward than its cousin Cajun spice but still delivers the familiar Creole depth and peppery warmth.*
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 90-100 grams (makes 20-25 portions)
 
@@ -69,3 +65,6 @@ Application: Add early in cooking for simmered dishes; sprinkle as a finishing s
 - Stir before use if spices settle
 - Keep the lid tightly sealed to preserve aroma
 - Do not refrigerate unless the container is frequently opened in a humid kitchen
+
+
+*Creole spice is a staple of Louisiana cooking, bringing aromatic herbs, warm paprika, and bright heat to stews, rice dishes, and braised proteins. It is more herb-forward than its cousin Cajun spice but still delivers the familiar Creole depth and peppery warmth.*

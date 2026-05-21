@@ -1,6 +1,7 @@
 # Chicken Shawarma
 
 ![Chicken Shawarma](resources/chicken-shawarma.jpg)
+
 *The Israeli street staple: boneless chicken thighs marinated overnight in baharat, garlic, turmeric, lemon and yogurt, then stack-roasted, sliced into pita.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Spicy Garlic Cookout Wings
 
 ![Spicy Garlic Cookout Wings](resources/spicy-garlic-cookout-wings.jpg)
+
 *A summer-cookout wing: chicken glazed in a hot-and-buttery garlic sauce of Frank's, butter and fresh-minced garlic. Grilled till the sauce caramelises.*
 
 **Serves:** 4

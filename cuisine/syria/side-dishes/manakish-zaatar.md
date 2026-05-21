@@ -1,6 +1,7 @@
 # Manakish Zaatar
 
 ![Manakish Zaatar](resources/manakish-zaatar.jpg)
+
 *Soft Levantine flatbread topped with a generous slick of za'atar paste (the dried thyme-sumac-sesame blend mixed with olive oil) and baked at high heat. Syria's breakfast, eaten folded in half with cucumber, tomato and salty white cheese, or alone in three bites at a bakery counter. The unofficial Damascus alarm clock.*
 
 **Serves:** 4 (makes 6)

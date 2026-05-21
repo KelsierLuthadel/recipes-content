@@ -1,6 +1,7 @@
 # Akara
 
 ![Akara](resources/akara.jpg)
+
 *Nigeria's breakfast fritter: peeled black-eyed beans whipped fluffy with onion and Scotch bonnet, then deep-fried in spoonfuls.*
 
 **Serves:** 4 (makes 16 fritters)

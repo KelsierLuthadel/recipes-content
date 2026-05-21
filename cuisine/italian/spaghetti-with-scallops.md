@@ -5,6 +5,7 @@
 *Spaghettini con capesante in salsa verde, fresh scallops, with their tender sweetness, meet peppery parsley and briny capers in a green pesto that sings of the sea. This is quick cooking at its finest: moments in the pan, never more. The scallop is a delicate protein that demands respect and understands speed.*
 
 **Serves:** 4
+
 **Prep Time:** 10 minutes
 
 ## Overview

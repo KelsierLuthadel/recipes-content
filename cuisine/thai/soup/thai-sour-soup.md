@@ -4,7 +4,6 @@
 
 *Thailand's tom som: a clear sweet-sour broth with fish, ginger, lemongrass and tamarind.*
 
-
 **Serves:** 4 - 6
 
 **Prep Time:** 10 minutes

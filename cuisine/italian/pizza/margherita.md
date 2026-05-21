@@ -5,6 +5,7 @@
 *Pizza Margherita, Italy's most iconic pizza celebrates the nation's flag with red tomatoes, white mozzarella, and green basil. Nothing more is needed; the finest ingredients, treated simply, create a dish that's simultaneously humble and perfect. This is where technique meets ingredient quality.*
 
 **Serves:** 2 (makes one 25-30 cm pizza)
+
 **Cook Time:** 12 minutes
 
 ## Overview

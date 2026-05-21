@@ -1,6 +1,7 @@
 # Mantu
 
 ![Mantu](resources/mantu.jpg)
+
 *Afghan steamed dumplings filled with spiced lamb mince, draped with garlicky strained yogurt (chaka) and crowned with a tomato-and-yellow-split-pea topping (qorma). A Friday family dish - three layers of sauce telling the story of Persian-Indian-Central-Asian crossroads cooking.*
 
 **Serves:** 4

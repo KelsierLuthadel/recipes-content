@@ -5,6 +5,7 @@
 *Pain perdu or French toast is bread that has been soaked in eggs then fried. Milk, sugar and cinnamon are often mixed in with the pain perdu, and butter, fruit and syrup are sometimes served on top.*
 
 **Serves:** 4
+
 **Prep Time:** 10 minutes
 
 ## Ingredients

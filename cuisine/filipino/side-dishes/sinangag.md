@@ -1,6 +1,7 @@
 # Sinangag (Garlic Fried Rice)
 
 ![Sinangag](resources/sinangag.jpg)
+
 *The Filipino breakfast cornerstone: day-old rice stir-fried hard in oil with a punishing amount of crisped garlic, salt and pepper.*
 
 **Serves:** 4

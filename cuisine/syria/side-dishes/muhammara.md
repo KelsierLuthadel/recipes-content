@@ -1,6 +1,7 @@
 # Muhammara
 
 ![Muhammara](resources/muhammara.jpg)
+
 *Aleppo's deep-crimson dip: roasted red pepper and walnut pounded with pomegranate molasses, Aleppo pepper and cumin. Scooped with warm pita.*
 
 **Serves:** 6 as a mezze

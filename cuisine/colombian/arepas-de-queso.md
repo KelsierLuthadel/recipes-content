@@ -1,6 +1,7 @@
 # Arepas de Queso
 
 ![Arepas de Queso](resources/arepas-de-queso.jpg)
+
 *Colombian cheese arepas: corn cakes built on pre-cooked white maize flour (masarepa), stuffed with cheese in the dough so it melts through as they cook. Crisp on the outside, soft and steamy inside, with the cheese pulling in strings when broken open. Eaten at breakfast with hot chocolate, or at any meal as a side.*
 
 **Makes:** 8 arepas

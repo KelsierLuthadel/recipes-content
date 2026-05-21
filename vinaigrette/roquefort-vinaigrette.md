@@ -1,13 +1,10 @@
 # Roquefort Vinaigrette
 
-*A Roquefort vinaigrette: crumbled blue cheese whisked into olive oil, walnut oil, sherry vinegar and a touch of Dijon.*
-
-
-**Prep Time:** 10 minutes
-
 ![Roquefort Vinaigrette](resources/roquefort.jpg)
 
-*This bold, distinctive dressing combines pungent blue cheese with the subtle nuttiness of walnut oil. It's particularly good with bitter winter leaves or crisply cooked warm French beans where its assertive character finds perfect balance.*
+*A Roquefort vinaigrette: crumbled blue cheese whisked into olive oil, walnut oil, sherry vinegar and a touch of Dijon.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 150 milliliters (6 servings)
 
@@ -80,3 +77,5 @@ Timing: Dress just before serving to prevent lettuces wilting
 - Best consumed within 1-2 days for maximum cheese character
 - Do not freeze; separation becomes permanent
 - Fresher is better; flavor clarity decreases after 3-4 days
+
+*This bold, distinctive dressing combines pungent blue cheese with the subtle nuttiness of walnut oil. It's particularly good with bitter winter leaves or crisply cooked warm French beans where its assertive character finds perfect balance.*

@@ -1,6 +1,7 @@
 # Timman Bagilla
 
 ![Timman Bagilla](resources/timman-bagilla.jpg)
+
 *Iraq's broad-bean rice: basmati cooked with dill, broad beans, butter and a pinch of saffron. Bright green, fragrant, fluffy. Eaten with grilled lamb, masgouf or any rich Iraqi stew. Distinct from Persian baghali polo (Persian uses long stages of par-boil-then-steam; Iraqi version is simpler absorption-style cooking).*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Pork Gyoza
 
 ![Pork Gyoza](resources/gyoza.jpg)
+
 *Pleated half-moon dumplings with a pork-and-cabbage filling, pan-fried crisp on one side and steamed on the other. Crisp-soft contrast in every bite. The Japanese take on Chinese jiaozi; smaller, garlickier, and almost always pan-fried.*
 
 **Makes:** 30 gyoza

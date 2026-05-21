@@ -1,6 +1,7 @@
 # Ajad
 
 ![Ajad](resources/ajad.jpg)
+
 *Thailand's quick cucumber relish: sliced cucumber, shallot and chilli macerated in a sweet-sour rice vinegar and palm-sugar syrup. The fried-snack foil.*
 
 **Serves:** 4 (as a dipping side)

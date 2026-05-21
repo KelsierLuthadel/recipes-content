@@ -1,6 +1,7 @@
 # Chicken Inasal
 
 ![Chicken Inasal](resources/chicken-inasal.jpg)
+
 *Bacolod's grilled chicken: butterflied bird marinated in calamansi, vinegar and lemongrass, basted with bright orange annatto oil while it chars.*
 
 **Serves:** 4

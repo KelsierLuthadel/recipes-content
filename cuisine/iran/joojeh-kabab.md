@@ -1,6 +1,7 @@
 # Joojeh Kabab
 
 ![Joojeh Kabab](resources/joojeh-kabab.jpg)
+
 *Iran's saffron chicken kebab: thigh marinated overnight in yogurt, saffron, onion juice and lemon, grilled hot over charcoal. Served with chelo rice.*
 
 **Serves:** 4

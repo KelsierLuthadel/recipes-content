@@ -4,7 +4,6 @@
 
 *A Mexican soup: black beans and shredded chicken simmered with cumin and lime, topped at the table with avocado, crumbled cheese.*
 
-
 **Serves:** 4
 
 **Prep Time:** 15 minutes

@@ -1,6 +1,7 @@
 # Beef Chili
 
 ![Beef Chili](resources/beef-chili.jpg)
+
 *Tex-Mex-ish home chili: ground beef, peppers, kidney beans, fire-roasted tomatoes and a generous Tex-Mex spice rack (chili powder, cumin, smoked paprika, chipotle). Comes together in 45 minutes; sits well overnight and deepens. Bowl food for cold weeks.*
 
 **Serves:** 8-10

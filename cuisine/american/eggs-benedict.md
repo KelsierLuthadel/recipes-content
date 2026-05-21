@@ -1,6 +1,7 @@
 # Eggs Benedict
 
 ![Eggs Benedict](resources/eggs-benedict.jpg)
+
 *Toasted English muffin halves, ham (or smoked salmon), poached egg, hollandaise sauce. The Sunday brunch icon. Looks fancy; rewards twenty minutes of focused work. The hollandaise is the only tricky bit; the rest is timing.*
 
 **Serves:** 4

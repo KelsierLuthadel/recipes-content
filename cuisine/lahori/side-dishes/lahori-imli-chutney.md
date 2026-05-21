@@ -1,6 +1,7 @@
 # Lahori Imli Chutney
 
 ![Lahori Imli Chutney](resources/lahori-imli-chutney.jpg)
+
 *Tamarind-jaggery chutney: deep mahogany, sweet-sour and warm with cumin and ginger. The other half of the chaat-stall double act (with mint chutney); also the everyday accompaniment to samosas and pakoras.*
 
 **Serves:** 8-10 (as an accompaniment); makes about 350 ml

@@ -4,8 +4,6 @@
 
 *A BIR chicken dopiaza: pre-cooked chicken in a gravy with two stages of onion (slow-cooked in the base and freshly sautéed at the finish).*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

@@ -1,6 +1,7 @@
 # Mint Sauce
 
 ![Mint Sauce](resources/mint-sauce.jpg)
+
 *The British roast-lamb companion: finely chopped fresh mint stirred into sugar dissolved in hot water and a splash of malt vinegar. Bright, sharp.*
 
 **Serves:** 6 (makes ~150 ml)

@@ -4,7 +4,6 @@
 
 *A Cantonese ginger beef: thin strips of beef stir-fried hot with sliced ginger, spring onion and a soy-Shaoxing sauce.*
 
-
 ## Overview
 This typically Cantonese dish is one of the quickest and tastiest ways to cook beef. The ginger adds a subtle and fragrant spiciness that enhances without overwhelming the tender beef. Freezing the beef before slicing is essential for uniform, thin strips that cook instantly.
 

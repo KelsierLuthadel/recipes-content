@@ -5,7 +5,9 @@
 *A versatile, simple butter sponge base suitable for cakes of any diameter, providing tender crumb and balanced flavor that serves as the perfect foundation for fillings, frostings, and creative applications.*
 
 **Prep Time:** 15 minutes
+
 **Cook Time:** 15-25 minutes
+
 **Yield:** 1 sponge cake (size varies by mould used)
 
 ## Overview

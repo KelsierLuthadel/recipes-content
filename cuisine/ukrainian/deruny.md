@@ -1,6 +1,7 @@
 # Deruny
 
 ![Deruny](resources/deruny.jpg)
+
 *Ukrainian potato pancakes: grated potato squeezed bone-dry, mixed with onion, egg and a small amount of flour, and pan-fried until lacy-edged and deeply golden. The mainstay of Ukrainian and Belarusian breakfasts and weekday dinners. Soured cream on the side.*
 
 **Makes:** 12-14 pancakes

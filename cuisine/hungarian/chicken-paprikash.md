@@ -1,6 +1,7 @@
 # Chicken Paprikash
 
 ![Chicken Paprikash](resources/chicken-paprikash.jpg)
+
 *Hungarian chicken stew: chicken thighs and drumsticks braised in paprika, onion and tomato, finished with sour cream into a rust-orange sauce. Served over buttered egg noodles or spätzle. Lighter than goulash; equally Hungarian.*
 
 **Serves:** 4

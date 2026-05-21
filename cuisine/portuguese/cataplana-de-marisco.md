@@ -1,6 +1,7 @@
 # Cataplana de Marisco
 
 ![Cataplana de Marisco](resources/cataplana-de-marisco.jpg)
+
 *The Algarve's clam-shell stew: prawns, clams, mussels and chouriço cooked in a tomato-and-white-wine base inside a copper pot.*
 
 **Serves:** 4

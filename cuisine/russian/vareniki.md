@@ -1,6 +1,7 @@
 # Vareniki
 
 ![Vareniki](resources/vareniki.jpg)
+
 *Russian and Ukrainian boiled dumplings, half-moon shaped, filled with mashed potato and caramelised onion. Boiled briefly, then tossed with melted butter and crispy fried onions. Sour cream and dill at the table; a meal in themselves.*
 
 **Makes:** 30-35 vareniki (serves 4)

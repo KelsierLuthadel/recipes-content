@@ -1,6 +1,7 @@
 # Fried Plantains
 
 ![Fried Plantains](resources/fried-plantains.jpg)
+
 *Jamaica's non-negotiable side: sweet ripe plantains sliced and slow-fried till the edges caramelise to deep mahogany and the centres turn meltingly soft.*
 
 **Serves:** 4 as a side

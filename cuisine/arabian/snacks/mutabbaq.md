@@ -1,6 +1,7 @@
 # Mutabbaq
 
 ![Mutabbaq](resources/mutabbaq.jpg)
+
 *Saudi Arabia's folded street snack: paper-thin dough wrapped around spiced mince and egg, then crisped flat on a hot griddle.*
 
 **Serves:** 4 (makes 4 large folded parcels, each cut in 4 squares)

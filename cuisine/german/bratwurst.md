@@ -1,6 +1,7 @@
 # Bratwurst with Sauerkraut
 
 ![Bratwurst with Sauerkraut](resources/bratwurst.jpg)
+
 *Germany's grill staple: fine pork-and-veal sausages poached gentle, then grilled till the casing crackles. Served on caraway sauerkraut.*
 
 **Serves:** 4

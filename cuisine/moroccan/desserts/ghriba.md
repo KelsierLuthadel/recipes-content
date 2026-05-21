@@ -1,6 +1,7 @@
 # Ghriba (Moroccan Almond Shortbread)
 
 ![Ghriba](resources/ghriba.jpg)
+
 *Morocco's almond shortbread: ground almonds, sugar, eggs and orange-flower water rolled in icing sugar and baked till cracked on top.*
 
 **Serves:** Makes 24 cookies

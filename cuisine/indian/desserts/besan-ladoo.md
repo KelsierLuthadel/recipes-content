@@ -1,6 +1,7 @@
 # Besan Ladoo
 
 ![Besan Ladoo](resources/besan-ladoo.jpg)
+
 *The Diwali sweet that fills the house with the smell of roasted gram flour and ghee. Patience is the recipe: the besan must roast slowly, low and dark, until it tastes nutty rather than raw. Sugar goes in once the mixture is properly cool; otherwise it melts and the ladoos won't hold.*
 
 **Serves:** 12 (makes about 16 ladoo)

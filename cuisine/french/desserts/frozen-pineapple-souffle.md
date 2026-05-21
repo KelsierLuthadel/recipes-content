@@ -5,7 +5,9 @@
 *This impressive dessert is smooth, refreshing and utterly delicious. All the components can be prepared a day or two in advance , so on the day you just need to assemble it, which takes no time at all.*
 
 **Serves:** 8 - 10
+
 **Prep Time:** 10 minutes
+
 **Cook Time:** 35 minutes
 
 ## Ingredients
@@ -42,7 +44,7 @@ A spectacular semifrozen soufflé made with fresh pineapple purée and Italian m
 1. Put the blackberries and half of the reserved poaching syrup into a saucepan and bring to the boil over a medium heat.
 1. Lower the heat and poach at 80 - 90°C for 5 minutes.
 1. Remove from the heat and leave the berries to cool in the syrup.
-1. Once cold, put half of the berries with half of their poaching syrup into a blender and process for 1 minutes, then strain through a chinois or fine-meshed conical sieve into a bowl.
+1. Once cold, put half of the berries with half of their poaching syrup into a blender and process for 1 minute, then strain through a chinois or fine-meshed conical sieve into a bowl.
 1. Cover and refrigerate this coulis, and the remaining blackberries in their syrup.
 
 ### To prepare the soufflé dish

@@ -1,6 +1,7 @@
 # Charoset
 
 ![Charoset](resources/charoset.jpg)
+
 *The seder plate relish. A chunky paste of apples, walnuts and sweet red wine, spiced with cinnamon, eaten on matzo and meant to recall the mortar the Israelites used to build the pyramids. The sweet bite that balances the bitter herbs.*
 
 **Serves:** 8 as part of a seder

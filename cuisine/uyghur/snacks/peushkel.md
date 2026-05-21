@@ -1,6 +1,7 @@
 # Peushkel
 
 ![Peushkel](resources/peushkel.jpg)
+
 *The simplest Uyghur donut: flour, water and yeast deep-fried till golden and dusted with icing sugar. Eaten warm for breakfast or with afternoon tea.*
 
 **Serves:** Makes 12-15 donuts

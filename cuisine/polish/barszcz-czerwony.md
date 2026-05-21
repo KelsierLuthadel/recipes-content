@@ -1,6 +1,7 @@
 # Barszcz Czerwony
 
 ![Barszcz Czerwony](resources/barszcz-czerwony.jpg)
+
 *Polish red beetroot broth, clear and brilliant, served at Christmas Eve and many other occasions. A classic Polish barszcz is more refined than Russian borscht - a strained, almost consommé-like broth, often poured over uszka (tiny dumplings) or sipped from a mug. Sour, earthy, lightly sweet.*
 
 **Serves:** 4-6

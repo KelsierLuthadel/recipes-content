@@ -1,6 +1,7 @@
 # Bigos
 
 ![Bigos](resources/bigos.jpg)
+
 *Polish hunter's stew: sauerkraut and fresh cabbage simmered slow with mixed meats (pork, beef, sausage, sometimes game), dried mushrooms, prunes and red wine. Three days of cooking - properly bigos is reheated and reheated, deepening each day.*
 
 **Serves:** 8

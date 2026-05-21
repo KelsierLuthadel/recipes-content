@@ -1,6 +1,7 @@
 # Pollo Asado
 
 ![Pollo Asado](resources/pollo-asado.jpg)
+
 *Northern Mexico's grilled chicken: bone-in pieces stained brick-red with achiote and bathed in bitter orange, lime, garlic and oregano, then charred.*
 
 **Serves:** 4

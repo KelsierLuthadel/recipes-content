@@ -1,6 +1,7 @@
 # Dak Galbi
 
 ![Dak Galbi](resources/dak-galbi.jpg)
+
 *Korean spicy chicken stir-fry: chicken thighs marinated in gochujang sauce, cooked on a flat hot pan with cabbage, sweet potato and rice cakes. A communal dish in Korea, eaten straight from the central pan with rice and lettuce wraps.*
 
 **Serves:** 4

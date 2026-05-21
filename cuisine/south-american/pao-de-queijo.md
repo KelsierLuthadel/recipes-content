@@ -1,6 +1,7 @@
 # Pão de Queijo
 
 ![Pão de Queijo](resources/pao-de-queijo.jpg)
+
 *Brazilian cheese bread: small puffs of tapioca-flour dough enriched with eggs, milk and cheese, baked golden and chewy on the outside, soft and stretchy inside. Naturally gluten-free; eats hot from the oven, with coffee for breakfast or alongside any Brazilian meal. Snack-sized; you'll eat several.*
 
 **Makes:** 30 small rolls

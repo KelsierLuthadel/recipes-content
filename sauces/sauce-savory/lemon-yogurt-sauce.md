@@ -1,6 +1,7 @@
 # Lemon Yogurt Sauce
 
 ![Lemon Yogurt Sauce](resources/lemon-yogurt-sauce.jpg)
+
 *The Mediterranean-Middle-Eastern catch-all. Greek yogurt, a clove of garlic grated fine, a squeeze of lemon, a slick of olive oil, salt. Rested for 20 minutes so the garlic mellows. Good on grilled meat, roasted vegetables, fritters, kebabs, anything that wants a cool tart counterpoint.*
 
 **Serves:** Makes 1 cup

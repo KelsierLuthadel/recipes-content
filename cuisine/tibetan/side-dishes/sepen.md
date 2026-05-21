@@ -1,6 +1,7 @@
 # Sepen
 
 ![Sepen](resources/sepen.jpg)
+
 *A Tibetan tomato hot sauce: summer tomatoes with celery, cilantro and chilli pounded into a mild flavourful condiment. Spooned over momos and rice.*
 
 **Serves:** Makes about 750 ml (4-6 servings)

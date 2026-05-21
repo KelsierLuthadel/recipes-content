@@ -1,6 +1,7 @@
 # Atchara
 
 ![Atchara](resources/atchara.jpg)
+
 *The Philippines' sweet-sour pickle: shredded green papaya, carrot, ginger and pepper in a cane-vinegar syrup. Cuts through grilled meat.*
 
 **Serves:** Makes a 1-litre jar (about 10 servings)

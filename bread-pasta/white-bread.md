@@ -1,13 +1,10 @@
 # White Bread
 
-*The home-baker's white loaf: bread flour, yeast, salt, water and a touch of butter kneaded into a soft dough.*
-
-
-**Prep Time:** 5 minutes
-
 ![White Bread](resources/white-bread.jpg)
 
-*This bread forms a lovely crunchy crust when cooked, and is especially delightful when eaten warm. Where most people go wrong is not making the mixture wet enough and so the finished bread ends up too doughy and dry. Once the water is added, don't flood the work surface with flour as it will unbalance the recipe, instead, use olive oil if needed.*
+*The home-baker's white loaf: bread flour, yeast, salt, water and a touch of butter kneaded into a soft dough.*
+
+**Prep Time:** 5 minutes
 
 **Yield:** 1 large loaf (serves 6-8)
 
@@ -95,3 +92,6 @@ Pairing: Excellent with soups, stews, or simply butter and sea salt
 - Refresh stale bread: Sprinkle lightly with water and warm in a 180°C oven for 5-10 minutes
 - Do not refrigerate; cold temperature stales bread faster than room temperature
 
+
+
+*This bread forms a lovely crunchy crust when cooked, and is especially delightful when eaten warm. Where most people go wrong is not making the mixture wet enough and so the finished bread ends up too doughy and dry. Once the water is added, don't flood the work surface with flour as it will unbalance the recipe, instead, use olive oil if needed.*

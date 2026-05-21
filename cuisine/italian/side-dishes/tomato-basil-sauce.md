@@ -1,13 +1,10 @@
 # Tomato and Basil Sauce
 
-*Italy's plain tomato-basil sauce: tinned tomatoes simmered slow with garlic, olive oil and a handful of fresh basil at the end.*
-
-
-**Prep Time:** 10 minutes
-
 ![Tomato and Basil Sauce](resources/tomato-basil-sauce.jpg)
 
-*This delicate, bright salsa showcases ripe summer tomatoes enhanced with briny capers, salty black olives, and fruity olive oil. Fresh basil provides the signature aromatic flourish at service. Perfect with lightly grilled seafood, delicate white fish, or cold chicken and veal, anywhere fresh simplicity and bright herb character are desired.*
+*Italy's plain tomato-basil sauce: tinned tomatoes simmered slow with garlic, olive oil and a handful of fresh basil at the end.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 300 milliliters (6 servings)
 
@@ -116,3 +113,5 @@ Context: Light fish course, cold meat appetizers, elegant summer service
 - This salsa is best consumed on the day of preparation; after 24 hours, the salsa becomes watery and less vibrant.
 - Prepare the base salsa 1-2 hours ahead if desired, but add basil immediately before service only.
 - Best served within 1-2 hours of final preparation (after basil is added) for maximum herb aroma and fresh character.
+
+*This delicate, bright salsa showcases ripe summer tomatoes enhanced with briny capers, salty black olives, and fruity olive oil. Fresh basil provides the signature aromatic flourish at service. Perfect with lightly grilled seafood, delicate white fish, or cold chicken and veal, anywhere fresh simplicity and bright herb character are desired.*

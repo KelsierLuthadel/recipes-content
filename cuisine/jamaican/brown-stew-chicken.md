@@ -1,6 +1,7 @@
 # Brown Stew Chicken
 
 ![Brown Stew Chicken](resources/brown-stew-chicken.jpg)
+
 *Jamaica's Sunday standard: chicken marinated overnight in seasoning, browned hard, then braised low in stock and tomato till the gravy turns dark mahogany.*
 
 **Serves:** 4

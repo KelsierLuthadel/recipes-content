@@ -1,6 +1,7 @@
 # Sopaipillas
 
 ![Sopaipillas](resources/sopaipillas.jpg)
+
 *Chile's rainy-day flatbread: pumpkin-and-flour discs deep-fried golden and puffed. Eaten warm with pebre, mustard or a smear of butter.*
 
 **Serves:** 6 (makes 15-18)

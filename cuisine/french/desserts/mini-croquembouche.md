@@ -4,8 +4,8 @@
 
 *A French mini croquembouche: small choux puffs filled with vanilla crème pâtissière.*
 
-
 **Serves:** 6 - 8
+
 **Prep Time:** 10 minutes
 
 ## Ingredients

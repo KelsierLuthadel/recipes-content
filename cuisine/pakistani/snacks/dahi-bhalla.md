@@ -1,6 +1,7 @@
 # Dahi Bhalla
 
 ![Dahi Bhalla](resources/dahi-bhalla.jpg)
+
 *Pakistan's yogurt-and-fritter snack: urad dal fritters soaked soft, drowned in spiced cold yogurt and crowned with tamarind and chutneys.*
 
 **Serves:** 4 (makes 12 fritters / 4 bowls)

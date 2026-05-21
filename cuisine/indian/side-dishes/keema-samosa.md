@@ -1,6 +1,7 @@
 # Keema Samosa
 
 ![Keema Samosa](resources/keema-samosa.jpg)
+
 *The meat samosa: triangular pastries filled with spiced lamb mince and peas cooked dry, deep-fried until shatteringly golden. Served with chutneys.*
 
 **Serves:** 6 (makes 16)

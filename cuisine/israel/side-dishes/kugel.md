@@ -1,6 +1,7 @@
 # Potato Kugel
 
 ![Potato Kugel](resources/kugel.jpg)
+
 *The Shabbat kugel. Grated potato and slow-fried onion bound with egg and oil, baked in a hot tin until the bottom forms a deep brown crust and the inside stays tender. The Ashkenazi side that crosses every weekly Friday-night table.*
 
 **Serves:** 4-6

@@ -5,7 +5,9 @@
 *A straightforward, approachable pizza dough using standard yeast leavening and a single fermentation. The result is solid, reliable pizza base with good chewy interior and light crust when topped and baked properly.*
 
 **Prep Time:** 15 minutes
+
 **Rising Time:** 1 hour
+
 **Yield:** 1 large pizza (approximately 30 cm diameter), serves 4-6
 
 ## Overview

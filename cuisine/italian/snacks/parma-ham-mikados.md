@@ -5,7 +5,9 @@
 *These delicate, crispy filo pastry appetizers are wrapped with thin Parma ham and finished with butter and mustard. Sophisticated and deceptively simple, they're irresistibly elegant served with green and black olives, perfect for pre-dinner drinks or special occasions.*
 
 **Prep Time:** 15 minutes
+
 **Cook Time:** 2 minutes
+
 **Yield:** 12 mikados
 
 ## Overview

@@ -1,6 +1,7 @@
 # Yassa Spice-Rubbed Grilled Chicken
 
 ![Yassa Spice-Rubbed Grilled Chicken](resources/yassa-grilled-chicken.jpg)
+
 *Casamance's grilled chicken: bird steeped overnight in a tart mustardy onion marinade, grilled smoky and served back into its slow-cooked onion sauce.*
 
 **Serves:** 4

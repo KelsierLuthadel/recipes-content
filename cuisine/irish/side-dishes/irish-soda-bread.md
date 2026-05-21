@@ -1,6 +1,7 @@
 # Irish Soda Bread
 
 ![Irish Soda Bread](resources/irish-soda-bread.jpg)
+
 *The bread of the Irish cottage. Plain flour, bicarbonate of soda, salt and buttermilk — four ingredients, no yeast, no proving. Mixed in five minutes, in the oven in another five, on the table in under an hour. Dense, crumbly, faintly tangy. Made to be eaten the day it is baked.*
 
 **Serves:** 8 (one round loaf)

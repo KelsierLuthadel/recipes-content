@@ -1,6 +1,7 @@
 # b'Stilla
 
 ![B'stilla](resources/bstilla.jpg)
+
 *Moroccan layered pie: spiced shredded chicken (or pigeon), almonds and saffron-lemon eggs, encased in crisp filo and dusted with icing sugar and cinnamon. The unusual sweet-savoury topping is the dish's signature; sounds wrong, tastes incredible.*
 
 **Serves:** 6-8

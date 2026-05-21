@@ -5,7 +5,9 @@
 *This humble yet deeply satisfying stew is a cornerstone of Irish cooking: lamb, potatoes, and onions combine in the simplest way to create something far greater than the sum of its parts. It requires patience but not precision, comfort food at its finest.*
 
 **Serves:** 4
+
 **Prep Time:** 20 minutes
+
 **Cook Time:** 36 minutes
 
 ## Overview

@@ -1,6 +1,7 @@
 # Clafoutis
 
 ![Clafoutis](resources/clafoutis.jpg)
+
 *The Limousin's harvest pudding: ripe cherries sat in a buttered dish and drowned in a sweet eggy batter. Baked till puffed and gold.*
 
 **Serves:** 6

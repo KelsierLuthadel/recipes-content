@@ -1,6 +1,7 @@
 # Aborrajados
 
 ![Aborrajados](resources/aborrajados.jpg)
+
 *Ripe sweet plantain stuffed with melting cheese, then dipped in a sweet batter and deep-fried until the outside crackles. The Valle del Cauca (south-western Colombia) snack par excellence - sweet, savoury, gooey, all in one bite. Eats hot, the cheese pulling in long strings when you tear it open.*
 
 **Serves:** 4 (makes 8 aborrajados)

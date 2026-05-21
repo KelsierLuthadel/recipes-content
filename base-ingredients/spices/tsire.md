@@ -1,13 +1,10 @@
 # Tsire Powder (West African Spice Coating)
 
-*West Africa's spice coating: ground roasted peanuts mixed with chilli, ginger and onion powder.*
-
-
-**Prep Time:** 5 minutes
-
 ![Tsire Powder](resources/tsire.jpg)
 
-*This simple spice mixture is used as a coating for kebabs throughout West Africa, particularly Nigeria. Cubes of raw meat are first dipped in oil or beaten egg, then rolled in tsire powder, creating a flavorful spiced crust that develops as the kebabs cook over coals or flame.*
+*West Africa's spice coating: ground roasted peanuts mixed with chilli, ginger and onion powder.*
+
+**Prep Time:** 5 minutes
 
 **Yield:** Approximately 100-110 grams (makes 20-30 kebab portions)
 
@@ -79,3 +76,6 @@ Additional: Dust finished kebabs with a little more tsire powder before serving
 - Does not keep at room temperature as long as other spice blends
 - Make fresh every 4-6 weeks for optimal peanut freshness
 - Grind fresh peanuts when possible for best flavor
+
+
+*This simple spice mixture is used as a coating for kebabs throughout West Africa, particularly Nigeria. Cubes of raw meat are first dipped in oil or beaten egg, then rolled in tsire powder, creating a flavorful spiced crust that develops as the kebabs cook over coals or flame.*

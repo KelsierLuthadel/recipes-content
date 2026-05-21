@@ -1,13 +1,10 @@
 # Peri-Peri Marinade
 
-*A Mozambican-Portuguese piri-piri marinade: bird's-eye chillies, garlic, lemon.*
-
-
-**Prep Time:** 10 minutes
-
 ![Peri Peri](resources/peri-peri.jpg)
 
-*Peri-peri is a Portuguese-African chilli sauce that represents centuries of cultural fusion. The name comes from "piri piri," meaning "pepper pepper" in Swahili, arriving in Africa via Portuguese traders and settling into the culinary identity of South Africa, Mozambique, and Angola. This bright, acidic marinade sears seafood and poultry with fire-roasted flavor while remaining light enough for delicate proteins.*
+*A Mozambican-Portuguese piri-piri marinade: bird's-eye chillies, garlic, lemon.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 100 milliliters (makes 8-10 tablespoons)
 
@@ -119,3 +116,5 @@ Basting: Periodically baste with remaining marinade during cooking for carameliz
 - Can be prepared (without meat) 2-3 days ahead and refrigerated until ready to marinate protein
 - Does not keep at room temperature due to raw seafood/poultry contact; always refrigerate
 - Fresh herb additions (if added) should be used within 1 day; flavors fade
+
+*Peri-peri is a Portuguese-African chilli sauce that represents centuries of cultural fusion. The name comes from "piri piri," meaning "pepper pepper" in Swahili, arriving in Africa via Portuguese traders and settling into the culinary identity of South Africa, Mozambique, and Angola. This bright, acidic marinade sears seafood and poultry with fire-roasted flavor while remaining light enough for delicate proteins.*

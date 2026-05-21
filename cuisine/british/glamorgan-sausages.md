@@ -1,6 +1,7 @@
 # Glamorgan Sausages
 
 ![Glamorgan Sausages](resources/glamorgan-sausages.jpg)
+
 *Welsh leek-and-cheese sausages, breadcrumb-coated and fried until crisp. The "sausage" is a misnomer - there's no meat, no skin, just a tightly bound mixture of caerphilly, leeks and sage rolled and shallow-fried. A 19th-century Glamorgan classic.*
 
 **Makes:** 8 sausages

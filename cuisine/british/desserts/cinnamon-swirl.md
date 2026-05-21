@@ -1,6 +1,7 @@
 # Cinnamon Swirl Buns
 
 ![Cinnamon Swirl Buns](resources/cinnamon-swirl.jpg)
+
 *The bakery-window staple. Enriched yeasted dough spread with a brown-sugar-and-cinnamon paste, rolled into a long log, sliced into spirals, baked until deep gold and brushed with a sticky glaze. Eaten warm, pulled apart with the fingers.*
 
 **Serves:** 12 buns

@@ -1,6 +1,7 @@
 # Kuku Sabzi
 
 ![Kuku Sabzi](resources/kuku-sabzi.jpg)
+
 *The Persian herb frittata: an extraordinary quantity of chopped parsley, coriander, chives and dill bound with eggs, walnut and barberries, baked deep-green.*
 
 **Serves:** 6

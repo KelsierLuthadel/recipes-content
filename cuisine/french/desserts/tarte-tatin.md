@@ -1,6 +1,7 @@
 # Tarte Tatin
 
 ![Tarte Tatin](resources/tarte-tatin.jpg)
+
 *The French upside-down apple tart: apples caramelised in butter and sugar under a buttery lid, then turned out so the apples sit on top.*
 
 **Serves:** 6 (one 24 cm tart)

@@ -1,6 +1,7 @@
 # Arroz de Coco
 
 ![Arroz de Coco](resources/arroz-de-coco.jpg)
+
 *Coconut rice, Mozambican-style: long-grain rice cooked in coconut milk with a little salt and sometimes a strip of fresh coconut, finished with a knob of butter. The standard accompaniment to frango piri-piri, matata and any coastal seafood. Subtle, sticky, faintly sweet.*
 
 **Serves:** 4

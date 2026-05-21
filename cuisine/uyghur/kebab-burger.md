@@ -1,6 +1,7 @@
 # Uyghur Kebab Burger
 
 ![Uyghur Kebab Burger](resources/kebab-burger.jpg)
+
 *Uyghur kebab in burger form: minced lamb seasoned with cumin and sweet chilli, grilled into thick rounds and stacked on a toasted bun with onion and tomato.*
 
 **Serves:** 4 (1 burger each)

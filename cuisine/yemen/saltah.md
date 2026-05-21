@@ -1,6 +1,7 @@
 # Saltah
 
 ![Saltah](resources/saltah.jpg)
+
 *Yemen's national dish: a deeply savoury stew of slow-cooked lamb, tomato and fenugreek, served in a bubbling clay pot under a snowy whipped hulba froth.*
 
 **Serves:** 4

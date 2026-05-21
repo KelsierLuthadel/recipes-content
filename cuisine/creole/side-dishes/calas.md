@@ -1,6 +1,7 @@
 # Calas
 
 ![Calas](resources/calas.jpg)
+
 *Old New Orleans rice fritters: leftover cooked rice mixed with sugar, egg, flour and nutmeg, dropped into hot oil and fried golden puffy balls.*
 
 **Serves:** 4 (makes about 20 fritters)

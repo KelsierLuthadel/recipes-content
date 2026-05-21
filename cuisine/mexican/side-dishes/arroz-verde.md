@@ -1,6 +1,7 @@
 # Arroz Verde
 
 ![Arroz Verde](resources/arroz-verde.jpg)
+
 *Green rice: long-grain rice cooked in stock blended with poblano, spinach and coriander. The herbal cousin of red Mexican rice; goes with everything from chicken to grilled fish.*
 
 **Serves:** 4-6

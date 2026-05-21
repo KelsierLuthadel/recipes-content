@@ -4,8 +4,6 @@
 
 *Thailand's red chicken curry: chicken simmered in a coconut sauce built on dried-red-chilli paste with lemongrass, galangal and kaffir lime.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

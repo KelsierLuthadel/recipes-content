@@ -1,6 +1,7 @@
 # Phở Chay
 
 ![Phở Chay](resources/pho-chay.jpg)
+
 *Vietnamese vegetarian pho: a fragrant broth of charred onion, ginger, star anise, cinnamon and clove built on mushroom and seaweed for depth, with rice noodles, tofu and a heaped bowl of fresh herbs at the table. The broth is the dish - clear, aromatic, just-savoury.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Churros Mexicanos
 
 ![Churros Mexicanos](resources/churros-mexicanos.jpg)
+
 *Mexico's fried-dough dessert: ridged choux tubes piped into hot oil, fried crisp, tossed in cinnamon sugar. Dipped in thick chocolate.*
 
 **Serves:** 4 (makes 16 churros)

@@ -1,6 +1,7 @@
 # Sopa de Caracol
 
 ![Sopa de Caracol](resources/sopa-de-caracol.jpg)
+
 *Honduras' Garifuna coastal soup: conch and yuca slow-cooked in coconut milk with green plantain, sweet pepper and cilantro. Rich, sweet and marine.*
 
 **Serves:** 4

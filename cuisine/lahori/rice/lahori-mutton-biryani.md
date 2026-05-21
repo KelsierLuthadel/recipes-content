@@ -1,6 +1,7 @@
 # Lahori Mutton Biryani
 
 ![Lahori Mutton Biryani](resources/lahori-mutton-biryani.jpg)
+
 *Lahori-style mutton biryani: bone-in mutton cooked in a slow-simmered masala, layered with parboiled saffron rice and finished under dum until the rice picks up the spice perfume. Heavier and meatier than Hyderabadi; distinct in its use of plums and kewra.*
 
 **Serves:** 6-8

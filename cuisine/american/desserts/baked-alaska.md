@@ -5,8 +5,10 @@
 *To warm the meringue, you can brown it in a very hot oven at 250°C for a minute, instead of using a cook's blowtorch. This gives a lovely contrast to the frozen ice cream.*
 
 **Serves:** 8 - 10
+
 **Prep Time:** 10 minutes
-**Cook Time:** 1 minutes
+
+**Cook Time:** 1 minute
 
 ## Overview
 A spectacular show-stopping frozen dessert featuring vanilla and coffee ice cream inside a sponge case, completely encased in Italian meringue and briefly torched or baked until golden. This impressive historic dessert creates drama at the table as a frozen filling remains cold while the exterior turns warm and golden.

@@ -1,6 +1,7 @@
 # Chicken Shawarma
 
 ![Chicken Shawarma](resources/chicken-shawarma.jpg)
+
 *Levantine spiced grilled chicken: thighs marinated in yogurt, garlic, lemon and a heavy spice mix, grilled hard and sliced thin. Wrap in flatbread with garlic sauce and pickles, or eat from a plate with rice and tabbouleh.*
 
 **Serves:** 4-6

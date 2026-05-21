@@ -1,6 +1,7 @@
 # Pan Kabap
 
 ![Pan Kabap](resources/pan-kabap.jpg)
+
 *The home-kitchen Uyghur kebab: thin slices of fatty lamb seared hard in a single layer, then layered with salt, sweet chilli pepper and cumin.*
 
 **Serves:** 1-2

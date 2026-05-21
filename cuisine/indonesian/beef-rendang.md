@@ -4,7 +4,6 @@
 
 *Indonesia's slow-cooked rendang: beef braised in coconut milk and a fierce paste of chilli, lemongrass.*
 
-
 ## Overview
 Rendang is a spicy meat dish which originated from the Minangkabau ethnic group of Indonesia, and is now commonly served across the country. One of the characteristic foods of Minangkabau culture, it is served at ceremonial occasions and to honour guests. This rich, aromatic curry features beef slowly simmered in coconut milk and spices until deeply flavoured.
 

@@ -1,13 +1,10 @@
 # Fried Wuntun
 
-*Cantonese fried wontons: thin wrappers folded around a pork-and-prawn filling, deep-fried till the corners crackle.*
-
-
-**Prep Time:** 15 minutes
-
 ![Fried wuntun](resources/wonton.jpg)
 
-*These delicious deep fried crisp parcels are the perfect accompaniment to pre-dinner drinks.*
+*Cantonese fried wontons: thin wrappers folded around a pork-and-prawn filling, deep-fried till the corners crackle.*
+
+**Prep Time:** 15 minutes
 
 **Servings:** 6
 
@@ -55,3 +52,5 @@ Amount: approximately 5 wuntun per person as a starter or snack
 - Best eaten immediately; they do not keep well once fried as the skins go soft.
 - Uncooked filled wuntun can be frozen on a tray, then transferred to a bag and stored for up to 1 month, fry from frozen, adding an extra minute to the cooking time.
 - The raw filling can be refrigerated for up to 24 hours before wrapping.
+
+*These delicious deep fried crisp parcels are the perfect accompaniment to pre-dinner drinks.*

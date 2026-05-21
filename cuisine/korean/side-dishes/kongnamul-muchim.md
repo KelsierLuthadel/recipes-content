@@ -1,6 +1,7 @@
 # Kongnamul Muchim (Soybean Sprout Side Dish)
 
 ![Kongnamul Muchim](resources/kongnamul-muchim.jpg)
+
 *The most basic Korean banchan: blanched soybean sprouts dressed with garlic, salt, soy, sesame oil and sesame seeds. Nutty and refreshing.*
 
 **Serves:** 4 as a side

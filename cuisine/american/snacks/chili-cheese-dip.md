@@ -1,6 +1,7 @@
 # Chili Cheese Dip
 
 ![Chili Cheese Dip](resources/chili-cheese-dip.jpg)
+
 *The Super Bowl skillet dip: seasoned ground beef and beans bubbling under a melted-cheese cap, finished under the broiler. Eaten with tortilla chips.*
 
 **Serves:** 6-8 (as a sharing dip)

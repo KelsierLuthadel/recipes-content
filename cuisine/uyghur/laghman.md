@@ -1,6 +1,7 @@
 # Laghman
 
 ![Laghman](resources/laghman.jpg)
+
 *The Uyghur hand-pulled noodle: a single rope of dough stretched into long springy strands, served under a wok-fried lamb, tomato and pepper sauce.*
 
 **Serves:** 3

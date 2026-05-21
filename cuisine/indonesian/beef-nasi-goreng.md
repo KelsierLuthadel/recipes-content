@@ -5,7 +5,9 @@
 *Nasi goreng (literally "fried rice") is Indonesia's national rice dish, traditionally made with whatever is on hand and a slick of kecap manis.*
 
 **Serves:** 4
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 15 minutes
 
 ## Overview

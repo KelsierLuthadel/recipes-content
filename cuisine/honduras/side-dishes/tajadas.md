@@ -1,6 +1,7 @@
 # Tajadas
 
 ![Tajadas](resources/tajadas.jpg)
+
 *Long, thin fried plantain slices - the universal Honduran side. Ripe ones turn sweet and soft; green ones turn crisp and salty. Served under pollo con tajadas, alongside refried beans on the plato típico, packed into baleadas or piled into a bowl as their own snack.*
 
 **Serves:** 4 as a side

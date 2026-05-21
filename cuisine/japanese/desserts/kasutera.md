@@ -1,6 +1,7 @@
 # Kasutera
 
 ![Kasutera](resources/kasutera.jpg)
+
 *Japan's Nagasaki sponge: a dense honey-rich golden cake baked in a tall narrow tin. Brought by Portuguese traders four centuries ago.*
 
 **Serves:** 8 (makes 1 loaf cake, 8 slices)

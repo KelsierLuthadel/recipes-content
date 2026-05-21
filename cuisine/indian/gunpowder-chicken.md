@@ -4,8 +4,6 @@
 
 *A South Indian gunpowder chicken: bone-in chicken stir-fried hot with idli podi, a fiery dry blend of toasted lentils and chillies.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

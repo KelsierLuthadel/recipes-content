@@ -1,6 +1,7 @@
 # Lo Bak Go
 
 ![Lo Bak Go](resources/lo-bak-go.jpg)
+
 *The Cantonese dim-sum cake: grated daikon braised with dried shrimp, Chinese sausage and rice flour, steamed firm, then pan-fried crusty.*
 
 **Serves:** 8 (makes one 20 cm cake; 16 slices)

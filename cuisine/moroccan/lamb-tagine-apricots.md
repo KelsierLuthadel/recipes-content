@@ -1,6 +1,7 @@
 # Lamb Tagine with Apricots and Almonds
 
 ![Lamb Tagine with Apricots and Almonds](resources/lamb-tagine-apricots.jpg)
+
 *The other classic Moroccan tagine: lamb shoulder braised slow with onion, ginger, cinnamon, honey and dried apricots. Sweet and savoury balance; comes out glossy and tender enough to spoon. Toasted almonds on top.*
 
 **Serves:** 4-6

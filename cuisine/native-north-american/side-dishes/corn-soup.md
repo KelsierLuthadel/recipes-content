@@ -1,6 +1,7 @@
 # Corn Soup
 
 ![Corn Soup](resources/corn-soup.jpg)
+
 *The Haudenosaunee ceremonial soup: nixtamalised white corn slow-simmered with kidney beans and pork (or venison) into a thick, milky-white stew.*
 
 **Serves:** 6

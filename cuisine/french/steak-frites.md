@@ -1,6 +1,7 @@
 # Steak Frites with Béarnaise
 
 ![Steak Frites with Béarnaise](resources/steak-frites.jpg)
+
 *The bistro plate: a properly-rested rib-eye or sirloin, twice-fried golden chips, and a glossy béarnaise sauce on the side. Forty minutes of focused work; the closest a home cook gets to a bistro lunch.*
 
 **Serves:** 2

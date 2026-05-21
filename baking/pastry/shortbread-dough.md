@@ -4,13 +4,8 @@
 
 *Flour is always the last ingredient to be added to pâte sablée, so that the dough remains crumbly or 'short'.* 
 
-*Once you have added the flour, do not overwork the dough, or it will become too elastic.*
-
-*This recipe is very delicate; if you are using the dough to line a flan tin or to make sablés, you must work very fast, without over-handling the dough, as it softens extremely quickly.*
-
-*Rolled out and cut into different shapes, this dough is perfect for petits fours secs.*
-
 **Serves:** 680 grams
+
 **Prep Time:** 5 minutes
 
 ## Overview
@@ -43,3 +38,7 @@ Use to line tartlet molds for pétit fours, as a base for tarts with light filli
 
 ## Storage
 Wrap unrolled dough and refrigerate for up to 2 days, or freeze for up to 1 month. Thaw frozen dough in the refrigerator before rolling. Cut shapes can be frozen on a tray, then transferred to a container for up to 1 month; bake directly from frozen, adding 2-3 minutes to baking time. Baked pastry items store in an airtight container for 3-4 days.
+
+*Once you have added the flour, do not overwork the dough, or it will become too elastic.*
+*This recipe is very delicate; if you are using the dough to line a flan tin or to make sablés, you must work very fast, without over-handling the dough, as it softens extremely quickly.*
+*Rolled out and cut into different shapes, this dough is perfect for petits fours secs.*

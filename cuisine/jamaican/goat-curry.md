@@ -1,6 +1,7 @@
 # Jamaican Goat Curry
 
 ![Jamaican Goat Curry](resources/goat-curry.jpg)
+
 *Jamaica's Sunday-lunch curry: bone-in goat slow-braised with Caribbean curry powder, Scotch bonnet, thyme and allspice until the meat slips off the bone.*
 
 **Serves:** 4-6

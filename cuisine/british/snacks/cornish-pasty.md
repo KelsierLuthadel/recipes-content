@@ -1,6 +1,7 @@
 # Cornish Pasty
 
 ![Cornish Pasty](resources/cornish-pasty.jpg)
+
 *The Cornish tin miner's lunch: beef, potato, swede and onion sealed raw in shortcrust pastry and baked till the steam cooks it through.*
 
 **Serves:** 4 (4 large pasties)

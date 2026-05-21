@@ -1,6 +1,7 @@
 # Risotto Alla Milanese
 
 ![Risotto alla Milanese](resources/risotto-milanese.jpg)
+
 *Saffron risotto: rice toasted in butter, simmered slowly with stock and saffron, finished with butter and parmesan. The classic accompaniment to osso buco; equally good as a meal on its own. The yellow comes from saffron, not turmeric.*
 
 **Serves:** 4

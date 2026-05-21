@@ -1,6 +1,7 @@
 # Blue Corn Mush
 
 ![Blue Corn Mush](resources/blue-corn-mush.jpg)
+
 *A Pueblo breakfast porridge: roasted blue cornmeal whisked into hot water with a pinch of ash, simmered thick. Topped with maple and piñon.*
 
 **Serves:** 4

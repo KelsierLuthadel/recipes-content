@@ -1,6 +1,7 @@
 # Lemon Tart
 
 ![Lemon Tart](resources/lemon-tart.jpg)
+
 *Tarte au citron: crisp sweet shortcrust shell with a smooth, sharp lemon custard filling. The bistro classic: pale yellow, glossy surface, almost-translucent. Sharp enough to make you blink; sweet enough to want another slice.*
 
 **Serves:** 8

@@ -1,6 +1,7 @@
 # Humitas
 
 ![Humitas](resources/humitas.jpg)
+
 *Fresh corn pulped with basil, onion and butter, wrapped in corn husks and steamed into tender parcels. The Andean / Chilean answer to a tamale, but unfilled - just sweet fresh corn, intensified. Eats hot with a sprinkle of sugar (savoury-sweet at the table) or with pebre alongside.*
 
 **Serves:** 6 (makes 12 humitas)

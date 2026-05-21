@@ -1,6 +1,7 @@
 # Pierogi Z Kapustą I Grzybami
 
 ![Pierogi z Kapustą i Grzybami](resources/pierogi-z-kapusta-i-grzybami.jpg)
+
 *Polish dumplings filled with sauerkraut and dried wild mushrooms - Christmas Eve pierogi, and an everyday pierogi the rest of the year. The filling is sour, earthy, deep; the dough is slightly elastic from kneading. Boiled briefly, then often pan-fried in butter for a crisp golden bottom.*
 
 **Makes:** 30-35 pierogi (serves 4-5)

@@ -1,6 +1,7 @@
 # Bunjay-Style Curry Chicken
 
 ![Bunjay-Style Curry Chicken](resources/bunjay-curry-chicken.jpg)
+
 *"Bunjay" - "fry-down" in Trinidad and Tobago. A dry curry technique where bone-in, skin-on chicken cooks down with concentrated spices and its own juices until the gravy disappears and the meat carries the curry on its surface. No water, no sauce, no coconut milk. Eats with rice and dhal.*
 
 **Serves:** 6

@@ -1,6 +1,7 @@
 # Hush Puppies
 
 ![Hush Puppies](resources/hush-puppies.jpg)
+
 *Southern cornmeal fritters: golf-ball scoops of buttermilk-cornmeal batter with onion and a pinch of cayenne, dropped into hot oil and fried gold.*
 
 **Serves:** 6 (makes about 20)

@@ -1,6 +1,7 @@
 # Chicharrón Colombiano
 
 ![Chicharrón Colombiano](resources/chicharron-colombiano.jpg)
+
 *Colombia's pork crackling: thick strips of pork belly with skin on, simmered tender then fried in their own fat till the skin puffs and crackles.*
 
 **Serves:** 4 as a snack

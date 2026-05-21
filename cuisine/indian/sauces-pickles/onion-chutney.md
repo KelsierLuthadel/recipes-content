@@ -5,7 +5,9 @@
 *Sliced onions served in a red sauce of tomato and spices. This fresh, cold chutney provides sharp, briny contrast to curries and grilled meats. Chilling the onions beforehand makes them crisp and refreshing; the spiced tomato base brings richness.*
 
 **Serves:** 4-6
+
 **Prep Time:** 10 minutes
+
 **Cook Time:** 4 minutes
 
 ## Overview

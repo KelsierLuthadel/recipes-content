@@ -1,6 +1,7 @@
 # Completo
 
 ![Completo](resources/completo.jpg)
+
 *The Chilean street hot dog: a long roll, a frankfurter and a heroic layering of mashed avocado, diced tomato, sauerkraut, mayonnaise and mustard.*
 
 **Serves:** 4

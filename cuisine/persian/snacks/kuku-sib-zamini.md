@@ -1,6 +1,7 @@
 # Kuku Sib Zamini
 
 ![Kuku Sib Zamini](resources/kuku-sib-zamini.jpg)
+
 *Persia's potato omelette: grated boiled potato folded with eggs, onion, turmeric and saffron, baked till just-set and gold.*
 
 **Serves:** 6 (one 24 cm tray, cut into 12 squares)

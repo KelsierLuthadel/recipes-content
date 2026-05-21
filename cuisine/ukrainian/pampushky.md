@@ -1,6 +1,7 @@
 # Pampushky
 
 ![Pampushky](resources/pampushky.jpg)
+
 *Ukrainian small soft yeast rolls slathered with a paste of garlic, oil, salt and dill - pulled apart and dipped into bowls of borscht. Pillow-soft on the inside, glossy with garlic oil on top, intensely savoury. The traditional companion to red borscht, but also good as a starter on their own.*
 
 **Makes:** 12 rolls

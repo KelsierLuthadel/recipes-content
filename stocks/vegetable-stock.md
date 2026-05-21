@@ -5,7 +5,9 @@
 *Clean and versatile, vegetable stock provides a foundation for vegetarian preparations, light sauces, and elegant vegetable dishes, delivering subtle flavor without overpowering delicate ingredients.*
 
 **Prep Time:** 20 minutes
+
 **Cook Time:** 45 minutes
+
 **Yield:** Approximately 1 ½ litres
 
 ## Overview

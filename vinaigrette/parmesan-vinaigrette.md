@@ -1,13 +1,10 @@
 # Parmesan Vinaigrette
 
-*A Parmesan vinaigrette: grated Parmesan whisked into olive oil, white wine vinegar and Dijon, with a touch of garlic.*
-
-
-**Prep Time:** 10 minutes
-
 ![Parmesan Vinaigrette](resources/parmesan.png)
 
-*This creamy, pungent vinaigrette combines Champagne vinegar's delicate acidity with double cream richness, Parmesan's nutty depth, and sharp mustard powder. It pairs beautifully with raw chicory, tender spinach, or sliced mushrooms.*
+*A Parmesan vinaigrette: grated Parmesan whisked into olive oil, white wine vinegar and Dijon, with a touch of garlic.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 150 milliliters (6 servings)
 
@@ -82,3 +79,5 @@ Timing: Dress just before serving
 - Emulsion will separate slightly; whisk gently before serving
 - Do not freeze; cream breaks upon thawing
 - Best consumed fresh for maximum flavor and texture
+
+*This creamy, pungent vinaigrette combines Champagne vinegar's delicate acidity with double cream richness, Parmesan's nutty depth, and sharp mustard powder. It pairs beautifully with raw chicory, tender spinach, or sliced mushrooms.*

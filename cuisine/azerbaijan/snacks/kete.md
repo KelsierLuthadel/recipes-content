@@ -1,6 +1,7 @@
 # Kete (Azerbaijani Herb-Stuffed Flatbread)
 
 ![Kete](resources/kete.jpg)
+
 *A bread of Azerbaijan's mountains: enriched dough wrapped around a buttery filling of fresh coriander, dill, mint and spring onion.*
 
 **Serves:** Makes 6 kete (serves 6 as a snack)

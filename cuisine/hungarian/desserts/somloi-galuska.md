@@ -1,6 +1,7 @@
 # Somlói Galuska
 
 ![Somlói Galuska](resources/somloi-galuska.jpg)
+
 *Hungary's celebrated trifle: three sponges layered with rum-citrus syrup, raisins and walnuts, drowned in dark chocolate sauce and topped with whipped cream.*
 
 **Serves:** 8 to 10

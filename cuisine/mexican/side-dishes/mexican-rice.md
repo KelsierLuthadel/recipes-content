@@ -1,6 +1,7 @@
 # Mexican Rice
 
 ![Mexican Rice](resources/mexican-rice.jpg)
+
 *The taquería side: long-grain rice toasted in oil, then simmered in stock and pureed tomato till each grain is dyed orange-red.*
 
 **Serves:** 6 (as a side)

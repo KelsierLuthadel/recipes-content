@@ -1,6 +1,7 @@
 # Soft Pretzels
 
 ![Soft Pretzels](resources/soft-pretzels.jpg)
+
 *The Philadelphia-Bavarian pretzel: large knotted bread with a chewy malty interior and a dark burnished crust. Bath-dunked in soda water before baking.*
 
 **Serves:** 6 (makes 6 pretzels)

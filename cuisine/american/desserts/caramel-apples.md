@@ -1,6 +1,7 @@
 # Caramel Apples
 
 ![Caramel Apples](resources/caramel-apples.jpg)
+
 *The Halloween fairground sweet. Tart apples on sticks, dunked in a dark glossy caramel, rolled in chopped peanuts or set plain. The bite is the point: tart, crisp apple under sweet, chewy caramel.*
 
 **Serves:** 6 (one apple each)

@@ -4,8 +4,6 @@
 
 *Thailand's green curry paste: fresh green chillies, lemongrass, galangal, kaffir lime, garlic.*
 
-
-
 **Makes:** Approx. 250 ml (1 cup)
 
 **Prep Time:** 40-60 minutes

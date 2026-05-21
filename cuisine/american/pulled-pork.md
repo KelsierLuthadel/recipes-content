@@ -1,6 +1,7 @@
 # Pulled Pork
 
 ![Pulled Pork](resources/pulled-pork.jpg)
+
 *Mahogany bark crackling against pale, glistening strands of pork, perfumed with smoke, paprika and slow-rendered fat. Splash on the vinegar sauce and the whole thing smells like an afternoon spent watching coals breathe.*
 
 **Serves:** 8

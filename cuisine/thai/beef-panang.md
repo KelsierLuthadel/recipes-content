@@ -4,8 +4,6 @@
 
 *Thailand's beef panang: beef simmered slow in a thick panang curry paste with coconut milk, kaffir lime leaves and crushed peanuts.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

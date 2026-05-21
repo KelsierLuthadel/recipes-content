@@ -1,6 +1,7 @@
 # Sobrebarriga
 
 ![Sobrebarriga](resources/sobrebarriga.jpg)
+
 *Slow-cooked beef flank Bogotá-style: a whole flank steak simmered hours in stock with onion, garlic, tomato and beer, then finished under the grill until the surface crusts dark. Sliced against the grain, served over a deep tomato-onion gravy with white rice or papa salada (salt-cooked potatoes) on the side.*
 
 **Serves:** 4

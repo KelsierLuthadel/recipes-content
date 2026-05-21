@@ -1,6 +1,7 @@
 # Moin Moin
 
 ![Moin Moin](resources/moin-moin.jpg)
+
 *Nigeria's steamed bean pudding: peeled black-eyed beans blended with pepper, palm oil and crayfish, ladled into ramekins and steamed soft.*
 
 **Serves:** 4-6 (makes 6 ramekins)

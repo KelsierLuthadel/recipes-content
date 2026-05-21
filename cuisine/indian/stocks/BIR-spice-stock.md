@@ -4,9 +4,6 @@
 
 *The BIR spice stock: water, onion, garlic, ginger and whole spices simmered together into a deeply aromatic broth.*
 
-
-
-
 ## Overview
 A fragrant aromatic stock made from whole spices and fresh herbs. This versatile base adds depth to curries when extra liquid is needed to thin or lighten a sauce. While water works, this stock imparts subtle layers of flavour that elevate the final dish.
 

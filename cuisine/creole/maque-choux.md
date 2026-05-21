@@ -1,6 +1,7 @@
 # Maque Choux
 
 ![Maque Choux](resources/maque-choux.jpg)
+
 *Louisiana's corn side: fresh corn kernels stewed slow with tomato, peppers, onion and butter into a sweet-savoury, slightly creamy mass.*
 
 **Serves:** 4

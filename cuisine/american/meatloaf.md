@@ -1,6 +1,7 @@
 # Meatloaf
 
 ![Meatloaf](resources/meatloaf.jpg)
+
 *The mid-century Sunday supper: beef and pork bound with bread and milk, packed into a loaf tin, baked under a ketchup-and-brown-sugar glaze.*
 
 **Serves:** 6

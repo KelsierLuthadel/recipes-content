@@ -1,6 +1,7 @@
 # Miso Shrimp Scampi
 
 ![Miso Shrimp Scampi](resources/miso-shrimp-scampi.jpg)
+
 *A garlicky scampi rewired with white miso: lemon, wine and butter pan sauce gets a deep savoury hum from the miso. Served over pasta or with bread.*
 
 **Serves:** 4

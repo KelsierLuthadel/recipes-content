@@ -1,6 +1,7 @@
 # Buttery Mashed Potatoes
 
 ![Buttery Mashed Potatoes](resources/mashed-potatoes.jpg)
+
 *The silkiest mash: floury potatoes, plenty of butter, warm milk, salt. The technique is steaming-dry the boiled potatoes before mashing, riced not whisked, butter first, milk second. Avoid a food processor - it turns potatoes glue.*
 
 **Serves:** 4-6

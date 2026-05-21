@@ -5,6 +5,7 @@
 *This wonderful sauce looks as good as it tastes. It is delicious with any cut of beef, especially entrecôte, rib and sirloin. Remember to soak the beef marrow in advance.*
 
 **Serves:** 4
+
 **Prep Time:** 10 minutes
 
 **Cook Time:** 30 minutes

@@ -5,6 +5,7 @@
 *Egypt's broad-bean falafel: ground fava beans, herbs and spices blitzed to a soft green paste, fried golden. Eaten in pita with tahina and pickles.*
 
 **Prep Time:** 8 hours
+
 **Yield:** Approximately 24-28 falafels
 
 ## Overview

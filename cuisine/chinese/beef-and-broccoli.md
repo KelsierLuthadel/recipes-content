@@ -1,6 +1,7 @@
 # Beef and Broccoli
 
 ![Beef and Broccoli](resources/beef-and-broccoli.jpg)
+
 *Cantonese-American takeaway classic: thinly sliced beef stir-fried with broccoli in a glossy soy-oyster sauce. Fifteen minutes start to finish; the kind of weeknight dinner that beats a ten-quid takeaway and tastes more like home.*
 
 **Serves:** 4

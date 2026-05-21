@@ -1,6 +1,7 @@
 # Tostadas
 
 ![Tostadas](resources/tostadas.jpg)
+
 *Mexico's crisp tortilla plate: fried-flat tortillas layered with refried beans, shredded chicken, lettuce, tomato, crema and cotija.*
 
 **Serves:** 4 (8 tostadas)

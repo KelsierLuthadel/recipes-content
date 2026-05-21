@@ -1,6 +1,7 @@
 # Cornbread
 
 ![Cornbread](resources/cornbread.jpg)
+
 *Skillet cornbread: a hot well-buttered cast-iron pan with a crisp golden crust beneath a slightly sweet crumb. Eaten with chilli, fried chicken or honey.*
 
 **Serves:** 8

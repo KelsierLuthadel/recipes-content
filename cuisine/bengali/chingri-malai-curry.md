@@ -1,6 +1,7 @@
 # Chingri Malai Curry
 
 ![Chingri Malai Curry](resources/chingri-malai-curry.jpg)
+
 *Pearly prawns curled in a pale golden coconut gravy, scented with bay, cardamom and a whisper of ghee. The dish gleams on the plate, sweet and gently spiced, and is the showpiece of any Bengali wedding banquet or Bijoya Dashami feast.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Crispy Honey Garlic Chicken
 
 ![Crispy Honey Garlic Chicken](resources/crispy-honey-garlic-chicken.jpg)
+
 *Asian-American takeout standard, made better at home. Boneless chicken thighs cube, season, dust with cornstarch, pan-fry crisp, then bathe in a sauce of honey + sweet chilli + soy + 10 cloves of chopped garlic. Sticky, glossy, fast. Eats over hibachi-style rice with sesame seeds and scallions.*
 
 **Serves:** 4

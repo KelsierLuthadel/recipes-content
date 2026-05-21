@@ -1,6 +1,7 @@
 # Labneh
 
 ![Labneh](resources/labneh.jpg)
+
 *Lebanon's strained-yogurt cheese: natural yogurt salted and drained overnight into a soft, tangy spread. Drizzled with olive oil and dusted with za'atar.*
 
 **Serves:** 4 as a mezze

@@ -4,8 +4,8 @@
 
 *A ginger crème brûlée: a chilled vanilla custard infused with fresh ginger.*
 
-
 **Serves:** 6
+
 **Prep Time:** 10 minutes
 
 ## Ingredients

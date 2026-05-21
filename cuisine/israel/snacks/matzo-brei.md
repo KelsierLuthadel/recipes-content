@@ -1,6 +1,7 @@
 # Matzo Brei
 
 ![Matzo Brei](resources/matzo-brei.jpg)
+
 *The Passover breakfast. Matzo broken into pieces, briefly soaked to soften, beaten with eggs, then cooked in butter to a chunky scramble or a single golden pancake. Sweet with cinnamon sugar and sour cream, or savoury with smoked salmon and chives.*
 
 **Serves:** 2

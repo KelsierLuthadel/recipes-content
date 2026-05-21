@@ -1,6 +1,7 @@
 # Chocolate Babka
 
 ![Chocolate Babka](resources/chocolate-babka.jpg)
+
 *The Polish-Jewish chocolate babka: a buttery brioche dough rolled around dark chocolate, twisted into a loaf so each slice shows a swirl.*
 
 **Makes:** 1 large loaf

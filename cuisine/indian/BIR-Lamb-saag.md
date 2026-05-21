@@ -4,8 +4,6 @@
 
 *The BIR lamb saag: pre-cooked lamb in a deep green spinach gravy with onion, ginger, garlic and garam masala.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

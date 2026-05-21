@@ -1,13 +1,10 @@
 # Chilli Pooris
 
-*North India's chilli pooris: small wholemeal flatbreads spiced with chilli and ajwain, deep-fried till they puff into golden balloons.*
-
-
-**Prep Time:** 10 minutes
-
 ![Chilli Pooris](resources/poori.jpg)
 
-*These small discs of dough puff up into light, airy breads when fried. Lightly studded with pieces of fresh red chilli, they melt into your mouth and leave you with a warm, spicy glow. Pooris are Indian street food at its finest.*
+*North India's chilli pooris: small wholemeal flatbreads spiced with chilli and ajwain, deep-fried till they puff into golden balloons.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** 12 pooris (serves 4)
 
@@ -108,3 +105,5 @@ Vessel: Serve in a basket lined with cloth to retain heat and crispness
 - Do not refrigerate; pooris become limp in cold
 - Do not freeze; texture becomes grainy when thawed
 - Pooris are best fresh-made; they don't store well longer than 1-2 hours
+
+*These small discs of dough puff up into light, airy breads when fried. Lightly studded with pieces of fresh red chilli, they melt into your mouth and leave you with a warm, spicy glow. Pooris are Indian street food at its finest.*

@@ -1,6 +1,7 @@
 # Slata Mechouia
 
 ![Slata Mechouia](resources/slata-mechouia.jpg)
+
 *Tunisia's roasted-pepper salad: peppers, tomatoes, garlic and chillies charred over flame until blistered black, then peeled and chopped to a coarse, smoky relish. Olive oil, lemon, capers and a tin of tuna often join; eats with bread for scooping. The signature smoke is from open-flame char.*
 
 **Serves:** 4 as a starter or side

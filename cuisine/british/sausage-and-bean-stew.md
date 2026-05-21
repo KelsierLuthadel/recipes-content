@@ -1,6 +1,7 @@
 # Sausage and Butter Bean Stew
 
 ![Sausage and Butter Bean Stew](resources/sausage-and-bean-stew.jpg)
+
 *Pork sausages browned then simmered in a tomato-and-rosemary sauce with creamy butter beans. The fastest stew that tastes like it took all afternoon. Weeknight food at its most useful.*
 
 **Serves:** 4

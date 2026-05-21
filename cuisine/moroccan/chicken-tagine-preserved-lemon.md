@@ -1,6 +1,7 @@
 # Chicken Tagine with Preserved Lemon and Olives
 
 ![Chicken Tagine with Preserved Lemon and Olives](resources/chicken-tagine-preserved-lemon.jpg)
+
 *Moroccan classic: chicken legs braised slow in saffron-spiced broth with preserved lemon and green olives. The intensely savoury preserved lemon and salty olives play against the gentle saffron-cumin warmth.*
 
 **Serves:** 4-6

@@ -1,6 +1,7 @@
 # Tiramisù
 
 ![Tiramisù](resources/tiramisu.jpg)
+
 *Italy's most-exported dessert: espresso-soaked savoiardi layered with mascarpone-and-egg cream, dusted thickly with cocoa, set overnight.*
 
 **Serves:** 8

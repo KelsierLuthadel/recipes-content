@@ -1,6 +1,7 @@
 # Fatayer Bi Sabanikh
 
 ![Fatayer bi Sabanikh](resources/fatayer-sabanikh.jpg)
+
 *The Levantine spinach turnover: yeasted dough rounds filled with wilted spinach sharpened with sumac, lemon and pomegranate, folded into tricorns and baked.*
 
 **Serves:** 6 (makes 18)

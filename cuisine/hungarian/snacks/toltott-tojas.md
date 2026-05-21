@@ -1,6 +1,7 @@
 # Töltött Tojás
 
 ![Töltött Tojás](resources/toltott-tojas.jpg)
+
 *Hungary's stuffed eggs: hard-boiled, halved, the yolks mashed with butter, mustard, sour cream and a generous amount of sweet paprika, then piped back into the whites and dusted with more paprika. The cold platter staple of name-days, Easter, and any gathering with bottles of pálinka on the table.*
 
 **Serves:** 4 to 6 (makes 12 halves)

@@ -1,6 +1,7 @@
 # Pork Tamales
 
 ![Pork Tamales](resources/tamales.jpg)
+
 *Steamed parcels of seasoned masa wrapped in corn husks: a base layer of fluffy corn dough holds a chilli-pork filling, all bound up and steamed for an hour. The labour-intensive Mexican Christmas dish; freezes brilliantly so a marathon batch lasts weeks.*
 
 **Makes:** 24 tamales

@@ -1,6 +1,7 @@
 # Millionaire's Shortbread
 
 ![Millionaire's Shortbread](resources/millionaires-shortbread.jpg)
+
 *The Scottish three-layer slab: short, buttery shortbread base, a thick chewy caramel made from condensed milk and butter, a snappy milk-chocolate top. Cut into bars; eaten cold from the tin with strong tea.*
 
 **Serves:** 16 squares

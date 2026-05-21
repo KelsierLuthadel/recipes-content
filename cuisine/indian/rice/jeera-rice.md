@@ -1,6 +1,7 @@
 # Jeera Rice
 
 ![Jeera Rice](resources/jeera-rice.jpg)
+
 *Basmati rice fragranced with cumin seeds and whole spices, finished with ghee. The North Indian everyday rice; pairs with everything from dal to butter chicken.*
 
 **Serves:** 4

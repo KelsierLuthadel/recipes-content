@@ -1,6 +1,7 @@
 # Kahi
 
 ![Kahi](resources/kahi.jpg)
+
 *Iraq's syrup-soaked breakfast pastry: paper-thin layers of dough brushed with samna and soaked in saffron-rose syrup. Topped with geymar and honey.*
 
 **Serves:** 4 (makes 6 pieces)

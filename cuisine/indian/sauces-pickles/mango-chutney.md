@@ -1,14 +1,12 @@
 # Mango Chutney
 
-*India's mango chutney: green mango simmered with sugar, vinegar, ginger, chilli and warm spices into a glossy sweet-sour preserve.*
-
-
-**Prep Time:** 15 minutes
-**Cook Time:** 1 hour
-
 ![Mango Chutney](resources/mango-chutney.png)
 
-*Mango chutney is easy to prepare and endlessly adaptable to taste preferences. Sweet, tangy, and optional spicy, this is the chutney most familiar to Western Indian restaurants. Green (unripe) mangoes provide tartness; sugar and vinegar provide balance. Serve chunky or blended smooth depending on preference.*
+*India's mango chutney: green mango simmered with sugar, vinegar, ginger, chilli and warm spices into a glossy sweet-sour preserve.*
+
+**Prep Time:** 15 minutes
+
+**Cook Time:** 1 hour
 
 **Yield:** Approximately 600 ml (2-3 jars)
 
@@ -83,3 +81,6 @@ Garnish: None needed; this is a condiment
 - Once opened, refrigerate for up to 2-3 weeks
 - Flavors improve and deepen after 1-2 weeks of storage 
 
+
+
+*Mango chutney is easy to prepare and endlessly adaptable to taste preferences. Sweet, tangy, and optional spicy, this is the chutney most familiar to Western Indian restaurants. Green (unripe) mangoes provide tartness; sugar and vinegar provide balance. Serve chunky or blended smooth depending on preference.*

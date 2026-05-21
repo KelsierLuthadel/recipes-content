@@ -4,8 +4,6 @@
 
 *The BIR lamb vindaloo: pre-cooked lamb in a fiery dark gravy of dried red chillies, vinegar, garlic and Madras spice.*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

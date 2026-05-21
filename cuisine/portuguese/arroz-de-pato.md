@@ -1,6 +1,7 @@
 # Arroz de Pato
 
 ![Arroz de Pato](resources/arroz-de-pato.jpg)
+
 *Portugal's duck rice: long-grain cooked in rich duck stock with shredded confit meat, topped with sliced chouriço and baked golden.*
 
 **Serves:** 6

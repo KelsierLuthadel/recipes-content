@@ -1,6 +1,7 @@
 # Pumpkin Soup
 
 ![Pumpkin Soup](resources/pumpkin-soup.jpg)
+
 *The autumn bowl. Roasted pumpkin blitzed smooth with caramelised onion, garlic and stock, finished with cream, nutmeg and a swirl of toasted pumpkin seeds. The soup of bonfire nights and Halloween suppers, when the kitchen smells of woodsmoke and the kids carve lanterns from the offcuts.*
 
 **Serves:** 4-6

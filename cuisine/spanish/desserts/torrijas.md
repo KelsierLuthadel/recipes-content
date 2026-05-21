@@ -1,6 +1,7 @@
 # Torrijas
 
 ![Torrijas](resources/torrijas.jpg)
+
 *Spain's Holy Week pudding: thick stale country bread soaked in cinnamon milk, dipped in egg, fried in olive oil and drenched in honey.*
 
 **Serves:** 4 (makes 8 torrijas)

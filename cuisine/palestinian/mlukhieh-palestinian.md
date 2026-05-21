@@ -1,6 +1,7 @@
 # Mlukhieh Palestinian
 
 ![Mlukhieh Palestinian](resources/mlukhieh-palestinian.jpg)
+
 *Palestine's summer stew: finely chopped jute leaves simmered in chicken stock and finished with a fried-garlic-and-coriander tarka.*
 
 **Serves:** 4

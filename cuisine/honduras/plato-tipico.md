@@ -1,6 +1,7 @@
 # Plato Típico Hondureño
 
 ![Plato Típico Hondureño](resources/plato-tipico.jpg)
+
 *Honduras' national lunch plate: grilled beef with refried beans, white rice, fried plantain, mantequilla, avocado and a soft tortilla on the side.*
 
 **Serves:** 4

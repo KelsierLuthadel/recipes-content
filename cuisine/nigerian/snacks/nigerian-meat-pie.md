@@ -1,6 +1,7 @@
 # Nigerian Meat Pie
 
 ![Nigerian Meat Pie](resources/nigerian-meat-pie.jpg)
+
 *Nigeria's bus-stop pasty: a sturdy shortcrust filled with spiced beef mince, potato and carrot in a thick, stock-cube-rich gravy.*
 
 **Serves:** 6 (makes 6 large pies)

@@ -1,6 +1,7 @@
 # Empanadas de Queso
 
 ![Empanadas de Queso](resources/empanadas-de-queso.jpg)
+
 *Chile's cheese empanadas: half-moons of butter-rich dough wrapped around melting queso fresco, deep-fried golden. The stretchy bite at every party.*
 
 **Serves:** Makes 16 empanadas

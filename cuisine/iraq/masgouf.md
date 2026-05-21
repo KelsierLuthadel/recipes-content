@@ -1,6 +1,7 @@
 # Masgouf
 
 ![Masgouf](resources/masgouf.jpg)
+
 *Iraq's national fish: a whole butterflied carp marinated in tamarind, olive oil and turmeric, slow-grilled vertically beside an open wood fire.*
 
 **Serves:** 4

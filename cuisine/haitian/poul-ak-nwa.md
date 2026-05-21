@@ -1,6 +1,7 @@
 # Poul Ak Nwa
 
 ![Poul ak Nwa](resources/poul-ak-nwa.jpg)
+
 *Haiti's north-coast Sunday dish: chicken leg quarters braised in a tomato-and-cashew gravy, toasted cashew halves scattered through.*
 
 **Serves:** 4

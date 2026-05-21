@@ -1,6 +1,7 @@
 # Pancit Canton
 
 ![Pancit Canton](resources/pancit-canton.jpg)
+
 *Filipino stir-fried noodles: wheat noodles tossed with chicken, prawns, Chinese sausage and a colourful array of vegetables in a soy-oyster sauce. Filipino fiesta food; the noodles symbolise long life. Cooked in a wok in 15 minutes.*
 
 **Serves:** 4-6

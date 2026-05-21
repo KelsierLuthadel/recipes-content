@@ -1,6 +1,7 @@
 # Lyulya-Kebab
 
 ![Lyulya-Kebab](resources/lyulya-kebab.jpg)
+
 *The Azeri grill par excellence: minced lamb pounded with grated onion until tacky, pressed onto flat skewers and charred over hot coals.*
 
 **Serves:** 4

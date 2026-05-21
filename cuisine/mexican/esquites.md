@@ -1,6 +1,7 @@
 # Esquites
 
 ![Esquites](resources/esquites.jpg)
+
 *Mexican street-corn salad: charred corn kernels tossed with mayo, lime, chilli powder, cotija (or feta) and coriander. The dish elote becomes when you take it off the cob - same flavours, in a cup, eaten with a spoon. Smoky, spicy, salty, tangy all at once.*
 
 **Serves:** 4

@@ -1,6 +1,7 @@
 # Matata
 
 ![Matata](resources/matata.jpg)
+
 *A Mozambican coastal stew of clams (or shrimp), peanut paste and tender greens. Coastal Portuguese-Mozambican cooking at its richest: shellfish meets peanut, lime and coconut. Eaten with xima or coconut rice; the sauce is the point, and the bread (or rice) just there to mop.*
 
 **Serves:** 4

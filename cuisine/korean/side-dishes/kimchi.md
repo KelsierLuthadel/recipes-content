@@ -1,6 +1,7 @@
 # Kimchi (Cabbage)
 
 ![Kimchi](resources/kimchi.jpg)
+
 *The Korean side dish: napa cabbage salted overnight, then packed with gochugaru, garlic and fish sauce. Ferments deeper for weeks.*
 
 **Serves:** Makes a 1 ½ L jar (~20 servings)

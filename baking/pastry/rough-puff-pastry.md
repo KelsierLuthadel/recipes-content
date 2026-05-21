@@ -4,8 +4,8 @@
 
 *A quicker French puff: butter cubed into flour and folded by hand, with a series of turns to laminate.*
 
-
 **Serves:** 1.2kg
+
 **Prep Time:** 10 minutes
 
 ## Overview

@@ -1,6 +1,7 @@
 # Bastani Sonnati
 
 ![Bastani Sonnati](resources/bastani-sonnati.jpg)
+
 *Persia's saffron-pistachio-rosewater ice cream: studded with shards of frozen cream and a touch of mastic gum for a faint chew.*
 
 **Makes:** about 1 ½ litres

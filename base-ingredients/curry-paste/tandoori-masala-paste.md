@@ -1,14 +1,12 @@
 # Tandoori Masala Paste
 
-*A wet tandoori paste: yogurt, garlic, ginger, lemon and a deep red tandoori spice blend.*
-
-
-**Prep Time:** 15 minutes
-**Cook Time:** 2 minutes
-
 ![Tandoori Masala Paste](resources/tandoori-masala-paste.jpg)
 
-*Tandoori paste is the marinade for the tandoor oven. It's warm with spices (not hot), deeply colored by turmeric and paprika, and traditionally yogurt is worked in before applying to meat or vegetables. This paste version captures the essential flavors in a form that can be scaled from restaurants down to single dinners.*
+*A wet tandoori paste: yogurt, garlic, ginger, lemon and a deep red tandoori spice blend.*
+
+**Prep Time:** 15 minutes
+
+**Cook Time:** 2 minutes
 
 **Yield:** Approximately 400-450 grams paste (before yogurt addition)
 
@@ -126,3 +124,6 @@ Cooking: Grill under broiler or in a hot oven; the marinade chars and caramelize
 - Use clean, dry spoons when removing paste; avoid contaminating with yogurt or moisture
 - Do not freeze; freezing damages the spice blend
 - Label with preparation date for tracking shelf-life
+
+
+*Tandoori paste is the marinade for the tandoor oven. It's warm with spices (not hot), deeply colored by turmeric and paprika, and traditionally yogurt is worked in before applying to meat or vegetables. This paste version captures the essential flavors in a form that can be scaled from restaurants down to single dinners.*

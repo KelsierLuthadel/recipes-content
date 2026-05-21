@@ -5,7 +5,9 @@
 *This vibrant and spiced Indian-style stock is made from the carcass of a dressed roasting chicken, transforming the remains into a rich, flavorful base perfect for Balti curries and spiced Indian preparations.*
 
 **Prep Time:** 25 minutes
+
 **Cook Time:** 60 minutes
+
 **Yield:** Approximately 900 millilitres
 
 ## Overview

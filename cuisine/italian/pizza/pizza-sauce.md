@@ -1,13 +1,10 @@
 # Pizza Sauce
 
-*Italy's plain pizza sauce: tinned San Marzano tomatoes crushed by hand with salt, olive oil and a small leaf of basil.*
-
-
-**Cook Time:** 3 minutes
-
 ![Pizza Sauce](resources/pizza-sauce.jpg)
 
-*This is authentic Italian pizza sauce: simple, raw, and fresh. High-quality tomatoes briefly cooked with aromatics create a vibrant, slightly chunky sauce that's the foundation for perfect pizza.*
+*Italy's plain pizza sauce: tinned San Marzano tomatoes crushed by hand with salt, olive oil and a small leaf of basil.*
+
+**Cook Time:** 3 minutes
 
 **Yield:** Approximately 600 ml (enough for 8 pizzas)
 
@@ -90,3 +87,6 @@ Temperature: Warm (fresh from cooking) or room temperature
 - Freeze in portions (ice cube trays work well) for up to 3 months
 - Thaw at room temperature or reheat gently in a saucepan
 - Fresh sauce (within 1-2 days) tastes better than stored sauce; make fresh when possible
+
+
+*This is authentic Italian pizza sauce: simple, raw, and fresh. High-quality tomatoes briefly cooked with aromatics create a vibrant, slightly chunky sauce that's the foundation for perfect pizza.*

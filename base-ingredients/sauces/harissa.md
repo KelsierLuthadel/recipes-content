@@ -1,13 +1,10 @@
 # Harissa
 
-*North Africa's fiery chilli paste: dried red chillies rehydrated and pounded with garlic, caraway, coriander, cumin and olive oil.*
-
-
-**Prep Time:** 10 minutes
-
 ![Harissa](resources/harissa.jpg)
 
-*Harissa is a North African spice-and-chilli paste with complex, layered heat, fruity from the chillies, aromatic from toasted spices, and sharp from garlic. It's a classic condiment that adds depth to soups, stews, marinades, and yogurt.*
+*North Africa's fiery chilli paste: dried red chillies rehydrated and pounded with garlic, caraway, coriander, cumin and olive oil.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 120 ml
 
@@ -92,3 +89,5 @@ Amount: 1-2 teaspoons per serving, adjusted to personal heat tolerance
 - Can be frozen in ice cube trays for up to 3 months for portioned use
 - Bring to room temperature before serving for best flavor
 - Avoid metal containers; harissa can react with non-stainless steel
+
+*Harissa is a North African spice-and-chilli paste with complex, layered heat, fruity from the chillies, aromatic from toasted spices, and sharp from garlic. It's a classic condiment that adds depth to soups, stews, marinades, and yogurt.*

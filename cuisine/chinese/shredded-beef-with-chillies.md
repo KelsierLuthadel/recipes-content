@@ -4,7 +4,6 @@
 
 *A Sichuan stir-fry: thin shreds of beef twice-fried till crispy at the edges, then tossed with dried chillies, garlic.*
 
-
 ## Overview
 The essence of this recipe lies in knife technique: the beef must be cut into very thin strips for authentic texture and rapid cooking. A brief freeze makes slicing easier and more uniform. The result is a dish of tender, fragrant beef balanced with fresh ginger, crisp vegetables, and bold chilli heat.
 

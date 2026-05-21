@@ -1,6 +1,7 @@
 # Jerk Chicken
 
 ![Jerk Chicken](resources/jerk-chicken.jpg)
+
 *Jamaica's national grill: bone-in chicken marinated overnight in a fiery rub of Scotch bonnet, allspice and thyme, slow-grilled over pimento wood.*
 
 **Serves:** 4

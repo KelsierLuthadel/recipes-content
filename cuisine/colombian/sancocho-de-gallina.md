@@ -1,6 +1,7 @@
 # Sancocho de Gallina
 
 ![Sancocho de Gallina](resources/sancocho-de-gallina.jpg)
+
 *Colombia's celebration soup: a stewing hen slow-cooked with cassava, plantain, corn, potato and sweet potato in an onion-tomato-ají sofrito broth.*
 
 **Serves:** 6

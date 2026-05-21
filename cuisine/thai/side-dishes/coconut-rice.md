@@ -1,13 +1,10 @@
 # Coconut Rice
 
-*Thailand's coconut rice: jasmine rice simmered in coconut milk with a pinch of salt and sugar. Soft, fragrant, faintly sweet.*
-
-
-**Prep Time:** 5 minutes
-
 ![Coconut Rice](resources/coconut-rice.jpg)
 
-*This aromatic, subtly sweet rice dish perfumes the palate with coconut, tempered by the sharp heat of mustard seeds and the delicate warmth of curry leaves. It's the perfect neutral-yet-interesting accompaniment to any spiced curry, calming heat without competing for attention.*
+*Thailand's coconut rice: jasmine rice simmered in coconut milk with a pinch of salt and sugar. Soft, fragrant, faintly sweet.*
+
+**Prep Time:** 5 minutes
 
 **Yield:** Approximately 600 milliliters cooked rice (4 servings)
 
@@ -109,3 +106,5 @@ Context: Indian and South Asian meals, curry accompaniment, aromatic neutral ric
 - Coconut-based rice hardens more noticeably as it cools; this is normal and doesn't indicate spoilage.
 - Re-tempering a small amount of spices and folding into leftover rice can refresh it significantly.
 - Do not store at room temperature; bacteria proliferate in moist starch environments.
+
+*This aromatic, subtly sweet rice dish perfumes the palate with coconut, tempered by the sharp heat of mustard seeds and the delicate warmth of curry leaves. It's the perfect neutral-yet-interesting accompaniment to any spiced curry, calming heat without competing for attention.*

@@ -5,7 +5,9 @@
 *A braided loaf is woven from multiple strands of dough, typically three or four, for an elegant presentation. Easier to execute than it looks.*
 
 **Rising Time:** 45-60 minutes (final proof after braiding)
+
 **Baking Time:** 30-35 minutes (depending on dough recipe)
+
 **Yield:** 1 braided loaf, or multiple if using more strands
 
 ## Overview

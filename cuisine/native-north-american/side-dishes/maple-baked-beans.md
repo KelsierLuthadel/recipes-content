@@ -1,6 +1,7 @@
 # Maple Baked Beans
 
 ![Maple Baked Beans](resources/maple-baked-beans.jpg)
+
 *The Wabanaki and New England original: navy beans slow-baked all day with maple syrup, salt pork, mustard and onion.*
 
 **Serves:** 6

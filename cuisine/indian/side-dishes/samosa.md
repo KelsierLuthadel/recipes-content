@@ -1,14 +1,12 @@
 # Samosas
 
-*India's iconic tea-time triangle: a crisp pastry pocket stuffed with spiced potato and peas, deep-fried golden.*
-
-
-**Prep Time:** 15 minutes
-**Cook Time:** 1 minutes
-
 ![Samosas](resources/samosa.jpg)
 
-*These popular golden stuffed parcels can be filled with a variety of vegetable or meat mixtures. Here they are stuffed with spiced minced chicken.*
+*India's iconic tea-time triangle: a crisp pastry pocket stuffed with spiced potato and peas, deep-fried golden.*
+
+**Prep Time:** 15 minutes
+
+**Cook Time:** 1 minute
 
 **Yield:** 20 samosas (serves 4-6)
 
@@ -91,3 +89,5 @@ Vessels: Serve warm on a platter lined with fresh coriander
 - Reheat in a 160°C oven for 5-8 minutes to re-crisp; do not microwave (pastry becomes soft)
 - Freeze uncooked assembled samosas on a tray for up to 3 months; bake directly from frozen (add 2-3 minutes to baking time)
 - Do not freeze cooked samosas; texture degrades significantly
+
+*These popular golden stuffed parcels can be filled with a variety of vegetable or meat mixtures. Here they are stuffed with spiced minced chicken.*

@@ -1,6 +1,7 @@
 # Chapli Kebab
 
 ![Chapli Kebab](resources/chapli-kebab.jpg)
+
 *Afghanistan's slipper-shaped patty: ragged-edged beef shot through with onion, tomato, herbs and a heavy hand of pomegranate seeds, griddled hard.*
 
 **Serves:** 4

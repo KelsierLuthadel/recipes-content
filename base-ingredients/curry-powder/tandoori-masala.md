@@ -1,13 +1,10 @@
 # Tandoori Masala
 
-*A dry tandoori spice mix: paprika, Kashmiri chilli, ginger, garlic, cumin and amchoor.*
-
-
-**Prep Time:** 10 minutes
-
 ![Tandoori Masala](resources/tandoori-masala.jpg)
 
-*Tandoori masala is a warm, earthy spice blend designed for marinating and coating meats and vegetables for the tandoor oven or broiler. The blend is naturally colored by turmeric and paprika, with beetroot and annatto seed powders for vibrant natural color, no chemical dyes. The spices develop better flavor during storage, make and keep for 1-2 weeks before using.*
+*A dry tandoori spice mix: paprika, Kashmiri chilli, ginger, garlic, cumin and amchoor.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 200 grams (makes 25-30 marinades)
 
@@ -92,3 +89,6 @@ Cooking: Grill under broiler or roast in very hot oven; the marinade chars while
 - Does not require refrigeration; room temperature storage is best
 - Make fresh quarterly for best aromatic quality
 - Label with preparation date
+
+
+*Tandoori masala is a warm, earthy spice blend designed for marinating and coating meats and vegetables for the tandoor oven or broiler. The blend is naturally colored by turmeric and paprika, with beetroot and annatto seed powders for vibrant natural color, no chemical dyes. The spices develop better flavor during storage, make and keep for 1-2 weeks before using.*

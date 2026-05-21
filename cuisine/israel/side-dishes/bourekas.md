@@ -1,6 +1,7 @@
 # Three-Cheese Bourekas
 
 ![Three-Cheese Bourekas](resources/bourekas.jpg)
+
 *The Israeli bakery staple in pull-from-the-tray form. Puff pastry triangles stuffed with feta, cottage cheese and mature cheddar, sealed with a fork crimp, scattered with sesame, baked golden. Eaten warm on their own or split and packed with hard-boiled egg, harissa and pickle — the proper bakery-window way.*
 
 **Serves:** 4-6 (makes 15 triangles)

@@ -1,6 +1,7 @@
 # Vegetable Tagine
 
 ![Vegetable Tagine](resources/vegetable-tagine.jpg)
+
 *Moroccan slow-cooked stew of root vegetables, chickpeas and dried apricots, fragrant with ras el hanout, cinnamon and preserved lemon. The tagine pot's tall conical lid traps moisture; everything inside softens into something sweet, savoury, fragrant and slightly thick. Ladled over couscous; eaten with bread.*
 
 **Serves:** 4-6

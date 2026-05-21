@@ -1,13 +1,10 @@
 # Caesar Dressing
 
-*America's Caesar dressing: egg yolk, garlic, anchovy, lemon, Dijon, Worcestershire and grated Parmesan whisked into a thick creamy emulsion.*
-
-
-**Prep Time:** 15 minutes
-
 ![Caesar Dressing](resources/caesar.png)
 
-*This creamy, umami-loaded dressing exemplifies the power of anchovies paired with Parmesan. Raw egg yolk creates luxurious emulsion while lemon and garlic provide brightness and pungency. This is a robust, assertive condiment designed specifically for sturdy Cos lettuce that can stand up to its intensity.*
+*America's Caesar dressing: egg yolk, garlic, anchovy, lemon, Dijon, Worcestershire and grated Parmesan whisked into a thick creamy emulsion.*
+
+**Prep Time:** 15 minutes
 
 **Yield:** Approximately 150 milliliters (4-6 servings)
 
@@ -88,3 +85,5 @@ Timing: Apply just before eating
 - Do not freeze; freezing breaks emulsion
 - Best consumed the day of preparation
 - Discard immediately if any off-odors or mold appear
+
+*This creamy, umami-loaded dressing exemplifies the power of anchovies paired with Parmesan. Raw egg yolk creates luxurious emulsion while lemon and garlic provide brightness and pungency. This is a robust, assertive condiment designed specifically for sturdy Cos lettuce that can stand up to its intensity.*

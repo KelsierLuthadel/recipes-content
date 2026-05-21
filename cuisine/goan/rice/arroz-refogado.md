@@ -1,6 +1,7 @@
 # Arroz Refogado
 
 ![Arroz Refogado](resources/arroz-refogado.jpg)
+
 *Goan-Portuguese sautéed rice: short-grain rice cooked in a tomato-and-chouriço base with garlic, bay and a splash of stock. The colonial inheritance of Goa's kitchen; eats as a side or a meal.*
 
 **Serves:** 4-6

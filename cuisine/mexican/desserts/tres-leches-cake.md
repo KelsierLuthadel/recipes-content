@@ -1,6 +1,7 @@
 # Tres Leches Cake
 
 ![Tres Leches Cake](resources/tres-leches-cake.jpg)
+
 *Latin America's celebration cake: an airy sponge soaked in evaporated milk, condensed milk and cream, finished with whipped cream.*
 
 **Serves:** 12 (one 22 x 28 cm tray)

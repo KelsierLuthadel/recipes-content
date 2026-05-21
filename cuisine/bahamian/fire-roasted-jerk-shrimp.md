@@ -1,6 +1,7 @@
 # Fire-Roasted Jerk Shrimp
 
 ![Fire-Roasted Jerk Shrimp](resources/fire-roasted-jerk-shrimp.jpg)
+
 *Bahamian jerk scampi: shrimp roasted in a screaming oven in a beer-and-butter bath with Scotch bonnet, allspice, thyme and scallion.*
 
 **Serves:** 2

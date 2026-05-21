@@ -1,6 +1,7 @@
 # Chili Verde
 
 ![Chili Verde](resources/chili-verde.jpg)
+
 *The Mexican-American pork-and-tomatillo stew: shoulder simmered in a roasted tomatillo-poblano-jalapeño salsa till the meat falls apart in a green sauce.*
 
 **Serves:** 6

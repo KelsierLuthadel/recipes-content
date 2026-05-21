@@ -4,7 +4,6 @@
 
 *France's sweet shortcrust: cold butter rubbed into flour and icing sugar, bound with egg yolk. The crisp base for fruit tarts and tartlets.*
 
-
 **Serves:** 520 grams
 
 ## Overview

@@ -1,6 +1,7 @@
 # Peanut Butter Stuffed Brownies
 
 ![Peanut Butter Stuffed Brownies](resources/peanut-butter-stuffed-brownies.jpg)
+
 *The frozen peanut butter slab method. A solid disc of peanut butter (frozen until set) gets sandwiched inside a fudgy dark-chocolate brownie batter, baked through together. The PB layer stays gooey and intact at the centre; the brownie is fudgy at the edges. A swirl of warmed peanut butter on top, a scatter of flaky salt.*
 
 **Serves:** 16 brownies

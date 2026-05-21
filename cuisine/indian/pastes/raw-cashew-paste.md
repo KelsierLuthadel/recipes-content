@@ -4,12 +4,9 @@
 
 *A raw cashew paste: cashews soaked till tender and blended smooth with a little water.*
 
-
-
 **Makes:** Variable (as needed)
 
 **Prep Time:** 35 minutes
-
 
 ## Overview
 A simple paste made from soaked raw cashews, used to thicken and flavor curries. Adds creaminess and richness without cooking.

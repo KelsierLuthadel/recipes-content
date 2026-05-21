@@ -1,6 +1,7 @@
 # Sadza
 
 ![Sadza](resources/sadza.jpg)
+
 *Zimbabwe's staple: white-maize meal cooked with water into a stiff glossy porridge. Eaten with the right hand, rolled into a ball and used to scoop stew.*
 
 **Serves:** 4

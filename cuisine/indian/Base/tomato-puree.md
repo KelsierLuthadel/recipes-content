@@ -2,7 +2,6 @@
 
 ![Tomato Puree](resources/tomato-puree.jpg)
 
-
 *This is simply a thin purée of tomatoes used in many curries for flavour and colour. Here are two ways you can make it.*
 
 ## Method

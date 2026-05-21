@@ -4,7 +4,6 @@
 
 *Louisiana's blackened chicken: breast fillets dipped in melted butter.*
 
-
 ## Overview
 Blackened chicken is a Cajun classic where a bold spice mixture creates a charred, flavourful crust on the outside while keeping the meat tender inside. The dark finish comes from the high-heat searing of the spice-coated chicken, a technique that seals in juices and creates a distinctive smoky flavour. This versatile dish works equally well with fish and is delicious served over salads, in sandwiches, or as a standalone protein.
 

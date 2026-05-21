@@ -5,7 +5,9 @@
 *Fettuccine alle cipolle, combining the rich, distinctive flavors of quality lamb with the sweetness of slowly caramelized onions and the herbaceous notes of fresh rosemary. This dish brings the essence of roast lamb to a plate of pasta, satisfying and deeply flavored.*
 
 **Serves:** 4
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 3 minutes
 
 ## Overview

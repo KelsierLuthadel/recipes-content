@@ -5,7 +5,9 @@
 *A no-yeast, no-prove pizza cooked on the stovetop using a yogurt-based dough and a grill finish. Charred fennel, sausagemeat and ricotta come together for a rustic, weeknight-friendly result.*
 
 **Serves:** 4
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 20 minutes
 
 ## Overview

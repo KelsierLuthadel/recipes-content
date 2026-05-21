@@ -1,6 +1,7 @@
 # White Chocolate Rocky Road
 
 ![White Chocolate Rocky Road](resources/white-chocolate-rocky-road.jpg)
+
 *The rocky road gone pale. White chocolate base in place of milk, dried cranberries instead of glace cherries, chopped pistachios for the green flecks, mini marshmallows held throughout. Lighter and fruitier than the classic; festive without trying too hard.*
 
 **Makes:** 16 squares

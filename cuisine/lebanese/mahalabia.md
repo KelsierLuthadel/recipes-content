@@ -1,6 +1,7 @@
 # Mahalabia
 
 ![Mahalabia](resources/mahalabia.jpg)
+
 *Lebanese milk pudding set with cornflour, scented with rosewater and orange blossom, topped with crushed pistachios and a thin sugar syrup. Lighter than Egyptian malabi (which often gets a heavier pink syrup); silky, restrained, gently floral. Eaten cold from glasses or shallow bowls; an everyday Lebanese dessert.*
 
 **Serves:** 6

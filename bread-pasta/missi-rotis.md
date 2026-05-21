@@ -1,14 +1,12 @@
 # Missi Rotis
 
-*Punjab's mixed-flour roti: wholemeal and gram flour kneaded with chilli, onion and herbs, rolled and griddled on a hot tawa.*
-
-
-**Prep Time:** 15 minutes
-**Cook Time:** 2 minutes
-
 ![Missi Rotis](resources/missi-rotis.jpg)
 
-*These savory Indian flatbreads are made from gram flour and wholemeal flour, flavored with fresh herbs and spices. They're quick to make and pair beautifully with soups or curries.*
+*Punjab's mixed-flour roti: wholemeal and gram flour kneaded with chilli, onion and herbs, rolled and griddled on a hot tawa.*
+
+**Prep Time:** 15 minutes
+
+**Cook Time:** 2 minutes
 
 **Yield:** 4 rotis
 
@@ -91,3 +89,5 @@ Accompaniments: Plain yogurt, pickle, or fresh lime wedges
 - Refrigerate leftovers in an airtight container for up to 2 days
 - Reheat gently in a dry pan over low heat for 30 seconds per side
 - Do not freeze; texture becomes rubbery
+
+*These savory Indian flatbreads are made from gram flour and wholemeal flour, flavored with fresh herbs and spices. They're quick to make and pair beautifully with soups or curries.*

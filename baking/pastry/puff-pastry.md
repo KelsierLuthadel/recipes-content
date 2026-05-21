@@ -4,9 +4,8 @@
 
 *A very light pastry made in layers that expand when cooked, leaving large air pockets inside. Used for sweet or savoury dishes.*
 
-*This pastry can be used as a base and topped with vegetables, tomatoes, ratatouille and cooked again.*
-
 **Serves:** 1 ¼ kg
+
 **Prep Time:** 5 minutes
 
 ## Overview
@@ -54,3 +53,5 @@ Use puff pastry for vol-au-vents (filled with savory fare or light creams), as a
 
 ## Storage
 Unwrapped, uncut dough can be refrigerated for 2 days or frozen for up to 1 month. Wrap tightly to prevent dehydration. Cut shapes can be frozen before baking (bake directly from frozen, adding 5 minutes to baking time). Once baked, store in an airtight container for 1-2 days; refresh in a 180°C oven for 3-5 minutes to re-crisp.
+
+*This pastry can be used as a base and topped with vegetables, tomatoes, ratatouille and cooked again.*

@@ -1,6 +1,7 @@
 # Sardinhas Assadas
 
 ![Sardinhas Assadas](resources/sardinhas-assadas.jpg)
+
 *Portugal's summer festival fish: whole fresh sardines salted heavily and grilled hard over open coals till the skin chars and the flesh just flakes.*
 
 **Serves:** 4

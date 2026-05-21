@@ -1,6 +1,7 @@
 # Yakhneh Bamia
 
 ![Yakhneh Bamia](resources/yakhneh-bamia.jpg)
+
 *A Syrian okra stew: okra and lamb in a tomato-and-pomegranate sauce, slow-braised till the meat falls apart and the molasses gives a signature dark sourness.*
 
 **Serves:** 4

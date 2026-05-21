@@ -1,6 +1,7 @@
 # Fufu
 
 ![Fufu](resources/fufu.jpg)
+
 *Nigeria's swallow: fermented cassava flour stirred into hot water with a wooden stick until a soft, sticky dough comes together.*
 
 **Serves:** 4

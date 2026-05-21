@@ -1,6 +1,7 @@
 # Halo-Halo
 
 ![Halo-Halo](resources/halo-halo.jpg)
+
 *The Philippines' hot-afternoon dessert: a tall glass of sweetened beans, jellies and fruit topped with shaved ice and ube ice cream.*
 
 **Serves:** 4

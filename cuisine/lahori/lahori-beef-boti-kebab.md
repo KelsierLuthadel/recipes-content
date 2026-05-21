@@ -1,6 +1,7 @@
 # Lahori Beef Boti Kebab
 
 ![Lahori Beef Boti Kebab](resources/lahori-beef-boti-kebab.jpg)
+
 *Lahore's chargrilled beef cubes: tenderloin marinated in papaya, yogurt and Lahori masala, threaded onto skewers and grilled over charcoal until the edges char and the centre stays pink. Eaten with naan, raw onion and a splash of vinegar-soused chillies.*
 
 **Serves:** 4-6

@@ -1,6 +1,7 @@
 # Bacalhau à Brás
 
 ![Bacalhau à Brás](resources/bacalhau-a-bras.jpg)
+
 *Lisbon's most-loved bacalhau: shredded salt cod scrambled with matchstick fries, soft caramelised onion, eggs and parsley, held by the egg.*
 
 **Serves:** 4

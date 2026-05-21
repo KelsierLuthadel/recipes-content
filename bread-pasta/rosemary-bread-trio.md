@@ -1,14 +1,12 @@
 # Rosemary Bread Trio
 
-*Three rosemary breads in one bake: a focaccia, a fougasse and a small boule, all built on the same dough with rosemary.*
-
-
-**Prep Time:** 10 minutes
-**Cook Time:** 1 minutes
-
 ![Rosemary Bread Trio](resources/rose-buns.jpg)
 
-*These fragrant bread buns compliment soups perfectly, and are equally delicious with a generous spread of creamy butter. Where most people go wrong is not making the mixture wet enough and so the finished bread ends up too doughy and dry. Once the water is added, don't flood the work surface with flour as it will unbalance the recipe, instead, use olive oil if need be.*
+*Three rosemary breads in one bake: a focaccia, a fougasse and a small boule, all built on the same dough with rosemary.*
+
+**Prep Time:** 10 minutes
+
+**Cook Time:** 1 minute
 
 **Servings:** 10 people
 
@@ -104,3 +102,5 @@ Accompaniments: Butter, spreadable cheese, or soup for dipping
 - Freeze for up to 1 week in a freezer bag
 - Reheat in a 180°C oven wrapped in foil for 5-10 minutes until warm
 - Do not refrigerate; cold stales the bread
+
+*These fragrant bread buns compliment soups perfectly, and are equally delicious with a generous spread of creamy butter. Where most people go wrong is not making the mixture wet enough and so the finished bread ends up too doughy and dry. Once the water is added, don't flood the work surface with flour as it will unbalance the recipe, instead, use olive oil if need be.*

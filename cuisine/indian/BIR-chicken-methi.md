@@ -4,8 +4,6 @@
 
 *A BIR chicken methi: pre-cooked chicken in a curry-base gravy heavy with dried fenugreek leaves (kasoori methi).*
 
-
-
 **Serves:** 4
 
 **Prep Time:** 10 minutes

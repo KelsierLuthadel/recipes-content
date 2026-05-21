@@ -1,6 +1,7 @@
 # Boniato Mash
 
 ![Boniato Mash](resources/boniato-mash.jpg)
+
 *Boniato is the Caribbean white-fleshed sweet potato, drier and less sugary than the orange American kind, with a soft chestnut sweetness when cooked. Mashed with butter, garlic, sour orange and a splash of olive oil, it's the Cuban answer to mashed potato: rich, gently sweet, fragrant with citrus.*
 
 **Serves:** 4 to 6

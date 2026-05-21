@@ -1,6 +1,7 @@
 # Manjar (Chilean Dulce de Leche)
 
 ![Manjar](resources/manjar-chileno.jpg)
+
 *Chile's dulce de leche: whole milk and sugar slow-simmered with a vanilla pod and a pinch of bicarb until it reduces to a thick, glossy caramel spread.*
 
 **Serves:** Makes about 600 g

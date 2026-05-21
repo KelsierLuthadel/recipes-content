@@ -5,7 +5,9 @@
 *Six freezer-friendly calzones stuffed with a long-simmered chorizo and tomato sauce, melted mozzarella and fresh basil. Made in a batch, frozen raw, then baked straight from the freezer for a 30-minute meal whenever you want one.*
 
 **Serves:** 6 calzones
+
 **Prep Time:** 30 minutes
+
 **Cook Time:** 50 minutes (sauce) + 30 minutes (bake from frozen)
 
 ## Overview

@@ -1,6 +1,7 @@
 # Buuz
 
 ![Buuz](resources/buuz.jpg)
+
 *Mongolia's signature dumplings: thick wheat wrappers gathered around juicy seasoned mutton, pleated into a small purse and steamed till the wrapper goes glossy.*
 
 **Makes:** 30 buuz (serves 4-6)

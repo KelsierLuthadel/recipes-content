@@ -1,6 +1,7 @@
 # Pollo Con Tajadas
 
 ![Pollo con Tajadas](resources/pollo-con-tajadas.jpg)
+
 *A Honduran street plate: fried chicken on a bed of fried plantain, topped with cabbage curtido, chimol relish and a drizzle of sour cream. With lime.*
 
 **Serves:** 4

@@ -5,7 +5,9 @@
 *This traditional French dessert is a lovely way to serve soft stone fruit. It also works well with apricots, mirabelles or greengage. Adding a splash of kirsch enhances the flavour of the fruit.*
 
 **Serves:** 6
+
 **Prep Time:** 30 minutes
+
 **Cook Time:** 45 minutes
 
 ## Overview

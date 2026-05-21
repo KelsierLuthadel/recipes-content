@@ -1,6 +1,7 @@
 # Tameya
 
 ![Tameya](resources/tameya.jpg)
+
 *Egypt's defining falafel: soaked dried fava beans blitzed with herbs and onion, crusted in sesame, deep-fried till amber-crackling. Stuffed in baladi pita.*
 
 **Serves:** 4 (makes 16 patties)

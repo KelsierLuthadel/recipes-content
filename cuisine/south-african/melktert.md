@@ -1,6 +1,7 @@
 # Melktert
 
 ![Melktert](resources/melktert.jpg)
+
 *South Africa's milk tart: a thin pastry shell holding a delicate milk-and-egg custard set firm enough to slice, dusted heavily with cinnamon.*
 
 **Serves:** 8

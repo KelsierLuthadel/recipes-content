@@ -1,6 +1,7 @@
 # Tacos al Pastor
 
 ![Tacos al Pastor](resources/tacos-al-pastor.jpg)
+
 *Mexico City's gift to the world: thinly sliced pork marinated in dried-chilli paste, achiote and pineapple, traditionally cooked on a vertical trompo (the spit Lebanese immigrants brought; the Mexicans added the chilli and pineapple). Home-cook version on a flat pan; topped with raw onion, coriander and pineapple.*
 
 **Serves:** 6 (about 24 tacos)

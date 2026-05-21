@@ -1,6 +1,7 @@
 # Sambal Terung
 
 ![Sambal Terung](resources/sambal-terung.jpg)
+
 *Malaysian stir-fried aubergine in sambal: charred, deep-fried aubergine wedges glazed with a sweet-spicy chilli paste of shallots, garlic, dried chillies and tamarind. The aubergine collapses to silky; the sambal coats every piece. Better than the sum of its parts.*
 
 **Serves:** 3-4

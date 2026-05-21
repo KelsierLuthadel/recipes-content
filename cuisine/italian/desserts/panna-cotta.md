@@ -1,6 +1,7 @@
 # Panna Cotta
 
 ![Panna Cotta](resources/panna-cotta.jpg)
+
 *Piedmont's cooked cream: cream, sugar and vanilla set with a touch of gelatin, turned out on a plate and crowned with berry compote.*
 
 **Serves:** 6

@@ -1,6 +1,7 @@
 # Mast O Musir
 
 ![Mast o Musir](resources/mast-o-musir.jpg)
+
 *Persia's wild-shallot yogurt: thick strained yogurt mixed with dried Zagros-mountain shallots. Served with rice or for dipping bread.*
 
 **Serves:** 4

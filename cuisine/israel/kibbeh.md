@@ -1,6 +1,7 @@
 # Tray-Baked Kibbeh
 
 ![Tray-Baked Kibbeh](resources/kibbeh.jpg)
+
 *The lazier cousin of the fried football kibbeh. Bulgur and beef bound in the food processor with baharat and onion, pressed flat in a tin, scored into diamonds, scattered with pine nuts and baked until firm and burnished. The honest one-tray version of the Levantine staple.*
 
 **Serves:** 4

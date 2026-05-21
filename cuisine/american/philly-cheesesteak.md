@@ -1,6 +1,7 @@
 # Philly Cheesesteak
 
 ![Philly Cheesesteak](resources/philly-cheesesteak.jpg)
+
 *Philadelphia's sandwich: thinly sliced ribeye chopped on a hot flat-top with sautéed onion, piled into a soft hoagie roll under melted cheese.*
 
 **Serves:** 2

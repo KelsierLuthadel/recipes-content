@@ -1,6 +1,7 @@
 # Mango Sticky Rice
 
 ![Mango Sticky Rice](resources/mango-sticky-rice.jpg)
+
 *Thailand's mango plate: sticky rice steeped in salted-sweet coconut sauce, served alongside cool slices of ripe honey mango.*
 
 **Serves:** 4

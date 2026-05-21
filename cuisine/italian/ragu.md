@@ -5,7 +5,9 @@
 *A slow-cooked Italian meat sauce using restaurant techniques to develop deep, complex flavor and a silky, luxurious texture. Patience and proper browning create a sauce worthy of the finest pasta. This is the soul of Italian cooking, humble ingredients transformed through technique and time.*
 
 **Serves:** 4 (with leftover sauce)
+
 **Prep Time:** 20 minutes
+
 **Cook Time:** 4 minutes
 
 ## Overview

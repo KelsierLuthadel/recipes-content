@@ -1,6 +1,7 @@
 # Palak Paneer
 
 ![Palak Paneer](resources/palak-paneer.jpg)
+
 *Spinach and paneer in a smooth, deeply green gravy. A Punjabi staple where the spinach is blanched briefly to hold its colour and pureed for a silky finish.*
 
 **Serves:** 4

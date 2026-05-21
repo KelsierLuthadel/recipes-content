@@ -4,8 +4,6 @@
 
 *Thailand's chicken stock: chicken bones simmered with lemongrass, galangal, kaffir lime leaves and fresh coriander root.*
 
-
-
 **Makes:** approx. 1 ½ litres (6 cups)
 
 **Prep Time:** 5 minutes

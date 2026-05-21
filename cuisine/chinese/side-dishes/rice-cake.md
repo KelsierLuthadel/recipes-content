@@ -1,17 +1,10 @@
 # Rice Cake
 
-*A Chinese pressed rice cake: cooked short-grain rice pressed into a tin and cut into cubes.*
-
-
-**Cook Time:** 1 minutes
-
 ![Rice cake](resources/rice-cake.jpg)
 
-*Rice cakes were probably invented by a thrifty Chinese cook centuries ago in order to make use of that thin layer of rice which gets stuck to the bottom of the pot. This crispy leftover has evolved into an accompaniment to many dishes. Its taste and crunchy texture go deliciously with Sizzling rice prawns, or as a snack with a touch of oil and salt.*
+*A Chinese pressed rice cake: cooked short-grain rice pressed into a tin and cut into cubes.*
 
-*The best rice to use for this is long grain white rice. The technique used for cooking is essentially the same as steamed rice, but the cooking time is longer.*
-
-
+**Cook Time:** 1 minute
 
 ## Overview
 Rice cake is a traditional Chinese preparation that transforms the crispy crust that forms at the bottom of a pot of slow-cooked rice into a versatile, crunchy ingredient. Once dried and deep fried, it develops a light, airy texture that sizzles dramatically when dropped into hot soup or stock. It is most famously used in Sizzling Rice Prawns and is a testament to the resourcefulness of Chinese cooking.
@@ -52,3 +45,6 @@ Amount: one rice cake (from the bottom of the pot) serves 4 as a component in a 
 - Once lifted and dried, the rice cake can be kept uncovered at room temperature for several days.
 - Do not cover or refrigerate the dried cake, as moisture will cause it to lose its crunch.
 - Deep fry only when ready to serve; once fried it should be used immediately.
+
+*Rice cakes were probably invented by a thrifty Chinese cook centuries ago in order to make use of that thin layer of rice which gets stuck to the bottom of the pot. This crispy leftover has evolved into an accompaniment to many dishes. Its taste and crunchy texture go deliciously with Sizzling rice prawns, or as a snack with a touch of oil and salt.*
+*The best rice to use for this is long grain white rice. The technique used for cooking is essentially the same as steamed rice, but the cooking time is longer.*

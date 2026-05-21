@@ -1,6 +1,7 @@
 # Pepper Soup
 
 ![Pepper Soup](resources/pepper-soup.jpg)
+
 *Nigeria's peppery clear broth: goat or chicken simmered with onion, garlic, Scotch bonnet, ginger and aromatic pepper-soup spices. The head-cold cure.*
 
 **Serves:** 4

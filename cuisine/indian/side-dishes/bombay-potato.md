@@ -5,7 +5,9 @@
 *This classic Indian vegetarian dish of potatoes is slow cooked in a richly flavoured curry sauce with fresh chillies for an added kick.*
 
 **Serves:** 4-6
+
 **Prep Time:** 15 minutes
+
 **Cook Time:** 7 minutes
 
 ## Overview

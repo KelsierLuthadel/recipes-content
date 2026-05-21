@@ -1,6 +1,7 @@
 # Char Siu Bao
 
 ![Char Siu Bao](resources/char-siu-bao.jpg)
+
 *The defining Cantonese dim-sum bun: pillowy white dough wrapped around sweet-soy roast pork, steamed till the tops split open at the seams.*
 
 **Serves:** 6 (makes 12 buns)

@@ -1,6 +1,7 @@
 # Gulab Jamun
 
 ![Gulab Jamun](resources/gulab-jamun.jpg)
+
 *Pakistan and India's most-loved sweet: fried dough balls of khoya drowned warm in cardamom-rose syrup. Chewy outside, melt-on-the-tongue inside.*
 
 **Makes:** 18-20 gulab jamun (serves 6)

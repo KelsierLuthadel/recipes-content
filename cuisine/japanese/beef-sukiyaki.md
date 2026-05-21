@@ -1,6 +1,7 @@
 # Beef Sukiyaki
 
 ![Beef Sukiyaki](resources/beef-sukiyaki.jpg)
+
 *Hot-pot beef cooked at the table in a sweet soy broth, with tofu, greens, mushrooms and noodles. Diners dip each piece in a beaten raw egg before eating. Communal, celebratory, very Japanese.*
 
 **Serves:** 4

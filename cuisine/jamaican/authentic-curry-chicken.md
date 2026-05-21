@@ -1,6 +1,7 @@
 # Authentic Jamaican Curry Chicken
 
 ![Authentic Jamaican Curry Chicken](resources/authentic-curry-chicken.jpg)
+
 *Jamaica's burnt-curry chicken: curry powder bloomed in hot oil till it darkens, with bone-in chicken simmered in a long covered stew with Scotch bonnet.*
 
 **Serves:** 4

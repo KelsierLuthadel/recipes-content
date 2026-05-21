@@ -1,6 +1,7 @@
 # Zimbabwean Oxtail Stew
 
 ![Zimbabwean Oxtail Stew](resources/oxtail-stew.jpg)
+
 *Bone-in oxtail braised for three hours with onion, tomato, garlic and a stock cube until the gelatinous meat slides off in shreds and the sauce is dark and glossy. A Sunday-lunch project, eaten with sadza or rice and a sharp tomato-and-onion relish. Not subtle, but right.*
 
 **Serves:** 4

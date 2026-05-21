@@ -1,6 +1,7 @@
 # Bahamian Stew Chicken
 
 ![Bahamian Stew Chicken](resources/stew-chicken.jpg)
+
 *A Bahamian Sunday stew: chicken thighs seared and simmered in a dark roux base with sweet potato, cassava, carrots, corn and plantain. Thyme is the herb.*
 
 **Serves:** 4

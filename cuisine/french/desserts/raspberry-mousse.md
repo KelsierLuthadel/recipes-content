@@ -5,6 +5,7 @@
 *An easy dessert, which also works well with strawberries, blackcurrants or blackberries. The eau-de-vie helps to bring out the flavour of the berries, but if  the fruit seems to be lacking in flavour, add a squeeze of lemon juice to the purée.*
 
 **Serves:** 6 - 8
+
 **Prep Time:** 5 minutes
 
 ## Ingredients

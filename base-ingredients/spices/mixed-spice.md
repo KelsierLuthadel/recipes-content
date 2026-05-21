@@ -1,13 +1,10 @@
 # Mixed Spice
 
-*The British baker's mixed spice: cinnamon, coriander, caraway, nutmeg, ginger and clove ground together.*
-
-
-**Prep Time:** 10 minutes
-
 ![Mixed Spice](resources/mixed.jpg)
 
-*This blend of ground spices has a whole host of uses, both in sweet and savory dishes. It typically features cinnamon, nutmeg, and allspice as the core, but also contains cloves, cayenne pepper, coriander, ginger, and mace. This is the spice of autumn baking and winter stews.*
+*The British baker's mixed spice: cinnamon, coriander, caraway, nutmeg, ginger and clove ground together.*
+
+**Prep Time:** 10 minutes
 
 **Yield:** Approximately 63-70 grams (makes 20-25 portions)
 
@@ -80,3 +77,6 @@ Temperature: Works in both raw and cooked applications
 - Nutmeg loses potency fastest; check that warmth is still apparent before using in important desserts
 
 
+
+
+*This blend of ground spices has a whole host of uses, both in sweet and savory dishes. It typically features cinnamon, nutmeg, and allspice as the core, but also contains cloves, cayenne pepper, coriander, ginger, and mace. This is the spice of autumn baking and winter stews.*

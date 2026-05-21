@@ -1,6 +1,7 @@
 # Greek Lamb Burger
 
 ![Greek Lamb Burger](resources/lamb-burger.jpg)
+
 *Charred lamb fragrant with oregano and garlic, salty pockets of feta melting through the patty, and cool tzatziki running down the side of a warm bun. It tastes like a summer taverna, smoke and lemon drifting off the grill.*
 
 **Serves:** 4

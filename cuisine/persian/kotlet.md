@@ -1,6 +1,7 @@
 # Kotlet
 
 ![Kotlet](resources/kotlet.jpg)
+
 *Persia's everyday cutlet: oval patties of mince, grated potato and onion lightly spiced with turmeric, shallow-fried gold and crisp.*
 
 **Serves:** 4 (makes 12 kotlet)

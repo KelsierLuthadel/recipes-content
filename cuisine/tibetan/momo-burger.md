@@ -1,6 +1,7 @@
 # Tibetan Momo Burger
 
 ![Tibetan Momo Burger](resources/momo-burger.jpg)
+
 *A modern fusion: Tibetan momo flavours pressed into a beef burger. Ground beef seasoned with soy, garlic and ginger, grilled and served on a soft bun.*
 
 **Serves:** 4

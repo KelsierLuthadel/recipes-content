@@ -1,6 +1,7 @@
 # Sufganiyot
 
 ![Sufganiyot](resources/sufganiyot.jpg)
+
 *Israeli jelly doughnuts: yeasted rounds, deep-fried golden, injected with jam (strawberry, raspberry or apricot) and dusted with icing sugar. Eaten by the dozen for Hanukkah - the oil of frying recalls the miracle of the Temple oil. Pillowy, sweet, perfumed, with a soft crumb.*
 
 **Serves:** 6 (makes about 16 doughnuts)
