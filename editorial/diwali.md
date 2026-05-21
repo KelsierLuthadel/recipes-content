@@ -15,9 +15,9 @@ It's a vegetarian-friendly festival but biryani earns its place too — the Hyde
 
 ## Recipes
 
-- [Palak Paneer](../cuisine/indian/Meals/palak-paneer.md)
-- [Dal Makhani](../cuisine/indian/Meals/dal-makhani.md)
-- [Biryani](../cuisine/indian/Meals/biryani.md)
+- [Palak Paneer](../cuisine/indian/palak-paneer.md)
+- [Dal Makhani](../cuisine/indian/dal-makhani.md)
+- [Biryani](../cuisine/indian/biryani.md)
 - [Naan](../cuisine/indian/Breads/naan.md)
 - [Pakistani Samosas](../cuisine/pakistani/snacks/samosa-pakistani.md)
 - [Dahi Bhalla](../cuisine/pakistani/snacks/dahi-bhalla.md)

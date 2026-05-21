@@ -16,12 +16,12 @@ The desserts are present but not central; a small plate of baklava, a glass of c
 ## Recipes
 
 - [Sindhi Biryani](../cuisine/pakistani/sindhi-biryani.md)
-- [Hyderabadi Mutton Biryani](../cuisine/indian/Meals/hyderabadi-mutton-biryani.md)
-- [Biryani](../cuisine/indian/Meals/biryani.md)
+- [Hyderabadi Mutton Biryani](../cuisine/indian/hyderabadi-mutton-biryani.md)
+- [Biryani](../cuisine/indian/biryani.md)
 - [Lamb Nihari](../cuisine/pakistani/lamb-nihari.md)
 - [Beef Nihari](../cuisine/pakistani/beef-nihari.md)
 - [Haleem](../cuisine/pakistani/haleem.md)
-- [Lamb Karahi](../cuisine/indian/Meals/lamb-karahi.md)
+- [Lamb Karahi](../cuisine/indian/lamb-karahi.md)
 - [Lamb Tagine with Apricots](../cuisine/moroccan/lamb-tagine-apricots.md)
 - [Mandi](../cuisine/yemen/mandi.md)
 - [Kabsa](../cuisine/arabian/kabsa.md)

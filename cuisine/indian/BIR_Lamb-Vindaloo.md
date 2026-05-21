@@ -1,0 +1,83 @@
+# Lamb Vindaloo
+
+![Lamb Vindaloo](resources/BIR_Lamb-Vindaloo.jpg)
+
+*The BIR lamb vindaloo: pre-cooked lamb in a fiery dark gravy of dried red chillies, vinegar, garlic and Madras spice.*
+
+
+
+**Serves:** 4
+
+**Prep Time:** 10 minutes
+
+**Cook Time:** 10 minutes
+
+## Overview
+A fiery British curry-house vindaloo with Portuguese-Goan influences, featuring intense heat from Scotch bonnets and chillies, balanced by vinegar and sweetness. This version uses pre-cooked lamb for speed, with optional potatoes as per UK tradition.
+
+## Ingredients
+### Base
+- 3 tbsp rapeseed (canola) oil or seasoned oil
+- 6 green cardamom pods, bashed
+- 2 star anise
+- 1 Indian bay leaf (cassia leaf)
+
+### Aromatics and spices
+- 2 tbsp garlic and ginger paste
+- 2 fresh green bullet chillies, finely chopped
+- 2 Scotch bonnet chillies, finely chopped
+- 1 tsp ground turmeric
+- 2 tbsp hot chilli powder (adjust to taste)
+- 2 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md)
+- 125 ml (½ cup) tomato purée
+- 2 tsp jaggery (or sugar)
+
+### Sauce and protein
+- 600 ml [Curry Base Gravy](Base/curry-base.md)
+- 800 g [Pre-cooked Lamb](Base/pre-cooked-lamb.md) 
+- 175 ml Lamb Stock (or stock from Pre-cooked Lamb)
+
+### Finishers
+- 2 tbsp white wine vinegar
+- 1 tsp dried fenugreek leaves (kasoori methi)
+- 2 pre-cooked stewed potatoes (about 8 pieces) (optional)
+- 3 tbsp chopped coriander (cilantro)
+- salt
+- pepper
+
+## Method
+
+### Stage 1 - Temper whole spices
+1. Heat oil in a pan over medium-high heat until bubbling.
+1. Add cardamom, star anise, and bay leaf; temper briefly.
+1. Count spices in/out if removing whole ones.
+
+### Stage 2 - Add aromatics and spices
+1. Add garlic and ginger paste; fry 1 minute.
+1. Add chopped chillies, turmeric, chilli powder, mixed powder, tomato purée, and jaggery/sugar.
+1. Let bubble.
+
+### Stage 3 - Build sauce and add lamb
+1. Pour in 250 ml (1 cup) base curry sauce; bring to rolling simmer.
+1. Scrape caramelized sauce from sides.
+1. Add remaining base curry sauce, lamb, and cooking stock.
+1. Simmer over high heat until reduced to desired consistency.
+
+### Stage 4 - Finish
+1. Add vinegar, kasoori methi, potatoes (if using), and coriander.
+1. Season with salt and black pepper.
+
+## Notes
+- Extremely hot; reduce chillies if needed while maintaining flavor.
+- Optional potatoes are a UK addition; omit for more authentic version.
+- For original Goan pork vindaloo, see separate recipe.
+
+## Serving
+- Serve with steamed rice, naan, or chapati.
+- Garnish with extra coriander and lime wedges.
+
+## Storage
+- Refrigerate 2-3 days in an airtight container.
+- Freeze up to 2 months; thaw fully before reheating.
+- Reheat gently on low heat with a splash of stock or water.
+- Best eaten within 24 hours for maximum heat.
