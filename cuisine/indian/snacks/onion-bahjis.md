@@ -1,16 +1,14 @@
 # Onion Bhajis
 
-*India's onion bhajis: sliced onion bound in a spiced gram-flour batter and deep-fried into crisp golden clusters.*
+![Onion Bhajis](resources/onionbhajji.jpg)
 
+*India's onion bhajis: sliced onion bound in a spiced gram-flour batter and deep-fried into crisp golden clusters. A popular accompaniment to a takeaway curry, irresistible freshly made with a cucumber-and-yoghurt relish on the side.*
+
+**Serves:** 15
 
 **Prep Time:** 10 minutes
-**Cook Time:** 1 minutes
 
-![Onion bhajis](resources/onionbhajji.jpg)
-
-*A popular accompaniment to a takeaway curry, onion bhajis are irresistible. When they are freshly made and served with cucumber and yoghurt relish, they make the perfect vegetarian snack food.*
-
-**Yield:** 15
+**Cook Time:** 10 minutes
 
 ## Overview
 Onion bhajis are golden, crispy fritters made from sliced onions bound in a spiced gram flour batter and deep fried until crunchy and cooked through. The combination of chilli, turmeric, coriander, and curry leaves gives them a warmly aromatic flavour that pairs perfectly with cooling yoghurt-based dips. Freshly made, they are a satisfying vegetarian snack or side dish alongside a curry.
