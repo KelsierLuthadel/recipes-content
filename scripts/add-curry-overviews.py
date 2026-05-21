@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""One-shot: insert ## Overview sections into the 18 cuisine/indian/Meals/
+"""One-shot: insert ## Overview sections into the 18 cuisine/indian/
 recipes that were missing them. Inserts the new section immediately
 before the first `## Ingredients` heading. Idempotent: skips any file
 that already has a `## Overview` heading."""
