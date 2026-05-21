@@ -1,6 +1,6 @@
 # Sourdough Basics
 
-![Bread](../../bread-pasta/making-bread/resources/bread.jpg)
+![Bread](resources/sourdough.jpg)
 
 *Sourdough is bread leavened by a wild-yeast-and-bacteria starter instead of commercial yeast. The starter is alive, needs feeding, and is the source of the trademark tang. This page covers how to keep one alive, how to build a levain from it, and the longer schedule sourdough needs.*
 

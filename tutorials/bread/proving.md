@@ -1,6 +1,6 @@
 # Proving
 
-![Bread](../../bread-pasta/making-bread/resources/bread.jpg)
+![Bread](resources/proving.jpg)
 
 *The slow rise that transforms kneaded dough into bread-ready dough. Bulk fermentation, the finger-poke test, knocking back and the final prove. Get the timing right and the loaf opens up in the oven; get it wrong and it falls flat or splits across the side.*
 

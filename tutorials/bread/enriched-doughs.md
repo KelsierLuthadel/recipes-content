@@ -1,6 +1,6 @@
 # Enriched Doughs
 
-![Bread](../../bread-pasta/making-bread/resources/bread.jpg)
+![Bread](resources/enriched.jpg)
 
 *Add butter, eggs and sugar to a basic bread dough and the chemistry changes. The rise slows, the crumb softens, the crust browns differently. This page covers what each enrichment does, how to handle the slower rise, and where the boundary sits between bread and cake.*
 

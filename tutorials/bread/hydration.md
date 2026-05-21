@@ -1,6 +1,6 @@
 # Hydration
 
-![Dough hydration](../../bread-pasta/making-bread/resources/bread.jpg)
+![Dough hydration](resources/hydration.jpg)
 
 *The single biggest variable in bread-making. Higher hydration means a more open crumb, a chewier crust, a more difficult dough to handle. This page explains the trade-offs and how to handle a sticky dough without adding flour.*
 

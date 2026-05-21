@@ -1,6 +1,6 @@
 # Scoring and Oven Spring
 
-![Bloomer scored](../../bread-pasta/making-bread/resources/bloomer-1.jpg)
+![Bloomer scored](resources/scoring.jpg)
 
 *Why scored loaves bloom in the oven, where to cut, how deep. The score is not decoration; it is structural. It controls where the loaf opens up during the first ten minutes of the bake, which is the difference between a domed loaf and a torn, burst one.*
 

@@ -1,6 +1,6 @@
 # Shape Gallery
 
-![Bread shapes](../../bread-pasta/making-bread/resources/bread.jpg)
+![Bread shapes](resources/shapes.jpg)
 
 *Ten classic loaf shapes, grouped by technique. Each shape needs its own handling at the proving and shaping stage, and each scores differently. The shaping pages in the bread-pasta section have the step-by-step technique for every shape; this page sorts them by what they teach.*
 

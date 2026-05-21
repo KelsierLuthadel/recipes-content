@@ -1,6 +1,6 @@
 # Gluten
 
-![Bread](../../bread-pasta/making-bread/resources/bread.jpg)
+![Bread](resources/gluten.jpg)
 
 *What gluten actually is, what kneading does to it, and how to tell when the dough has had enough. Skip the kneading step and the loaf comes out dense; over-do it and the crumb turns rubbery. The window-pane test settles the question.*
 

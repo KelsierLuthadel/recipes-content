@@ -1,6 +1,6 @@
 # Bread Course
 
-![Bread](../../bread-pasta/making-bread/resources/bread.jpg)
+![Bread](resources/bread-course.jpg)
 
 *A course in bread-making: from the science of dough through proving, shaping, scoring and the bake. Built on the master recipes in the bread-pasta section.*
 
