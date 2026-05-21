@@ -22,7 +22,7 @@
 - 1 tsp ground turmeric
 - 800g tins chopped Tomatoes
 - Water (to cover)
-- 1 tsp [Garam Masala](garam-masala.md)
+- 1 tsp [Garam Masala](../Spice-Mixes/garam-masala.md)
 
 ## Method
 1. Heat the oil in a pan over a medium-high heat until small bubbles form.
