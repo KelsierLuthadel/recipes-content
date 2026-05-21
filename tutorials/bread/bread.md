@@ -34,18 +34,18 @@ These are the doughs the course refers back to. Have one of them on hand before 
 - [Poolish](../../bread-pasta/poolish.md): a wet pre-ferment used for baguettes and rustic loaves.
 
 ## Bread Shapes
-The shaping pages live in the bread-pasta section. Each describes one classic loaf shape and the technique to form it. Use any master dough above.
+Each shape page describes a classic loaf, the technique to form it, and the photographic step-by-step. Use any master dough above.
 
-- [Cob or Boule](../../bread-pasta/making-bread/cob.md): the foundational round dome.
-- [Coburg](../../bread-pasta/making-bread/coburg.md): a cob with a deep cross-cut top.
-- [Cottage](../../bread-pasta/making-bread/cottage.md): two rounds stacked, joined with a finger-hole.
-- [Bloomer](../../bread-pasta/making-bread/bloomer.md): a long flat oval with diagonal slashes.
-- [Tin](../../bread-pasta/making-bread/tin.md): a moulded tin loaf with a split top.
-- [Standard Loaf](../../bread-pasta/making-bread/standard-loaf.md): the everyday rectangular sandwich loaf.
-- [Braided](../../bread-pasta/making-bread/braided.md): three or four strands woven for presentation.
-- [Baguette](../../bread-pasta/making-bread/baguette.md): the French classic, long and slender with ears.
-- [Épi](../../bread-pasta/making-bread/epi.md): scissor-cut baguette that fans out like an ear of wheat.
-- [Fougasse](../../bread-pasta/making-bread/fougasse.md): the slashed, leaf-shaped Provençal flatbread.
+- [Cob or Boule](cob.md): the foundational round dome.
+- [Coburg](coburg.md): a cob with a deep cross-cut top.
+- [Cottage](cottage.md): two rounds stacked, joined with a finger-hole.
+- [Bloomer](bloomer.md): a long flat oval with diagonal slashes.
+- [Tin](tin.md): a moulded tin loaf with a split top.
+- [Standard Loaf](standard-loaf.md): the everyday rectangular sandwich loaf.
+- [Braided](braided.md): three or four strands woven for presentation.
+- [Baguette](baguette.md): the French classic, long and slender with ears.
+- [Épi](epi.md): scissor-cut baguette that fans out like an ear of wheat.
+- [Fougasse](fougasse.md): the slashed, leaf-shaped Provençal flatbread.
 
 ## Where to Start
 If you are new to bread, start with [Hydration](hydration.md), then follow the links to gluten and proving. If you already bake regularly, jump straight to the technique you want to improve.

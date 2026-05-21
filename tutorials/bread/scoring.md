@@ -69,17 +69,17 @@ The simplest score, used on baguettes, batards and ovals. One long cut from end 
 ### Multiple Diagonals
 Used on baguettes and bloomers. Three to seven parallel diagonal cuts down the length of the loaf, each overlapping the previous by a third.
 
-See: [Bloomer](../../bread-pasta/making-bread/bloomer.md), [Baguette](../../bread-pasta/making-bread/baguette.md).
+See: [Bloomer](bloomer.md), [Baguette](baguette.md).
 
 ### Cross / Square
 Two perpendicular cuts forming a + or × across the top. Classic for round country loaves and the Coburg.
 
-See: [Coburg](../../bread-pasta/making-bread/coburg.md).
+See: [Coburg](coburg.md).
 
 ### Wheat-Ear (Épi)
 Scissor cuts rather than blade scores. The dough is snipped diagonally and the flaps folded outward to mimic an ear of wheat.
 
-See: [Épi](../../bread-pasta/making-bread/epi.md).
+See: [Épi](epi.md).
 
 ### Geometric Patterns
 For sourdough and country loaves, scoring can be decorative as well as functional. A wheat-stalk, a leaf pattern, a star: as long as one of the cuts is deep enough to act as the structural release, the rest can be shallow and decorative.
@@ -108,5 +108,5 @@ After the bake, the loaf should tell you what worked.
 - [Proving](proving.md): an over-proved loaf scores poorly because there is no spring left.
 - [Sourdough Basics](sourdough.md): sourdoughs are scored more dramatically than yeasted loaves.
 - [Shape Gallery](shapes.md): each shape has its own canonical score.
-- [Bloomer](../../bread-pasta/making-bread/bloomer.md): six diagonals are the classic bloomer score.
-- [Coburg](../../bread-pasta/making-bread/coburg.md): the cross-cut round.
+- [Bloomer](bloomer.md): six diagonals are the classic bloomer score.
+- [Coburg](coburg.md): the cross-cut round.

@@ -16,46 +16,46 @@ The foundational shape. Almost every domed loaf is a variation on this technique
 
 If you can shape a clean cob, every other rounded shape (Coburg, cottage, sourdough boule) becomes easy.
 
-See: [Cob or Boule](../../bread-pasta/making-bread/cob.md).
+See: [Cob or Boule](cob.md).
 
 ### Tin Loaf (Standard Loaf, Bloomer)
 The everyday sandwich loaf. Dough rolled into an oval cylinder, dropped into a tin or onto a sheet. The technique to learn is rolling tightly and sealing the seam.
 
-See: [Standard Loaf](../../bread-pasta/making-bread/standard-loaf.md), [Tin Loaf](../../bread-pasta/making-bread/tin.md).
+See: [Standard Loaf](standard-loaf.md), [Tin Loaf](tin.md).
 
 ## The Variation Shapes
 
 ### Coburg
 A round with a cross-cut on top. Same shaping as a cob, but with a confident scoring pattern. The cross opens during the bake into four "petals", a striking presentation for next to no extra work.
 
-See: [Coburg](../../bread-pasta/making-bread/coburg.md).
+See: [Coburg](coburg.md).
 
 ### Cottage
 A large round with a smaller round on top, joined by a finger-hole through both. Originally a bakery efficiency trick (small oven, two-tier loaf). Distinctive and easy.
 
-See: [Cottage](../../bread-pasta/making-bread/cottage.md).
+See: [Cottage](cottage.md).
 
 ### Bloomer
 A long flat oval with diagonal slashes. Rolls out of a rectangle into a thick cylinder, ends tapered, top scored. The classic British artisan shape.
 
-See: [Bloomer](../../bread-pasta/making-bread/bloomer.md).
+See: [Bloomer](bloomer.md).
 
 ## The French Shapes
 
 ### Baguette
 Long, thin, crusty, with the trademark ears. The technique to learn is the envelope-fold (a stretched rectangle folded in thirds to layer the gluten) and the controlled roll-to-length. Requires confidence with shaping; the dough has to stay uniform-diameter across 60 cm.
 
-See: [Baguette](../../bread-pasta/making-bread/baguette.md).
+See: [Baguette](baguette.md).
 
 ### Épi (Wheat-Ear)
 A baguette cut with scissors into a fan of wheat-stalk segments. The most decorative French shape, and probably the easiest visual showstopper. Built on top of the baguette shape, so master the baguette first.
 
-See: [Épi](../../bread-pasta/making-bread/epi.md).
+See: [Épi](epi.md).
 
 ### Fougasse
 Provence's slashed flatbread. The dough is flattened into a leaf or ladder shape and cut with elongated openings that expose dough surface for an exceptional crust-to-crumb ratio. The technique to learn is shaping by stretching rather than rolling.
 
-See: [Fougasse](../../bread-pasta/making-bread/fougasse.md).
+See: [Fougasse](fougasse.md).
 
 ## The Presentation Shapes
 
@@ -64,7 +64,7 @@ Three or four strands woven over and under. Looks elaborate, is mostly geometry.
 
 Classic uses: challah, brioche braids, fancy dinner loaves.
 
-See: [Braided Loaf](../../bread-pasta/making-bread/braided.md), [Challah](../../cuisine/israel/side-dishes/challah.md).
+See: [Braided Loaf](braided.md), [Challah](../../cuisine/israel/side-dishes/challah.md).
 
 ## Technique by Shape
 
