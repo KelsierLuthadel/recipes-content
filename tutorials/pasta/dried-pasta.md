@@ -2,7 +2,7 @@
 
 ![Dried pasta](resources/dried-pasta.jpg)
 
-*The everyday pasta. Bronze-die-extruded southern Italian semolina-and-water pasta, dried for weeks before sale. Cooked in salted boiling water to al dente. The 90% of Italian pasta-eating, including most of what you'll cook at home. Different family from fresh egg pasta; different shapes; same general principles.*
+*Dried pasta does most of the heavy lifting in Italian kitchens and probably yours. It's a different family from fresh egg pasta (just durum and water, no eggs) and the rules for cooking it are simple, but worth doing well. Properly salted water, a tall pan, a watchful eye, and a little of the cooking water saved for the sauce.*
 
 ## Overview
 Dried pasta is the Italian everyday. It's also what's available in the supermarket, what most Italian restaurants use, and what almost all the canonical Italian pasta dishes were designed for: spaghetti carbonara, penne arrabbiata, bucatini amatriciana, linguine alle vongole, orecchiette con cime di rapa.

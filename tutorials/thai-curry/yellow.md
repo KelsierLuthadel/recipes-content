@@ -2,7 +2,7 @@
 
 ![Yellow curry paste](resources/yellow.jpg)
 
-*The mildest of the Thai curries. Turmeric drives the colour and the flavour; cumin and coriander seeds give an Indian-leaning warmth that distinguishes yellow curry from green and red. Often the introductory Thai curry for the spice-cautious; richer and milder, with sweet potato or potato chunks that the other curries don't carry.*
+*Yellow is the mildest of the bunch and the one that shows the Indian influence on Thai cooking. Turmeric drives the colour and the flavour; cumin and coriander seeds give it a warm spice profile closer to a mild curry than the other Thai ones. Usually has potato or sweet potato in it, which the others don't, and it's the right curry to start someone off on if they're new to Thai food.*
 
 ## Overview
 Yellow curry (gaeng karee or kaeng kari) shows the Indian influence on Thai cuisine. The southern Thai provinces near the Malay border picked up turmeric, cumin and coriander from Indian traders centuries ago and folded them into a Thai paste structure. The result is sweeter, milder, and more spice-warm than green or red.

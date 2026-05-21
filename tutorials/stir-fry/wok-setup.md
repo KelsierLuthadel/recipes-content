@@ -2,7 +2,7 @@
 
 ![Wok](resources/wok-care.jpg)
 
-*The pan, the heat source, the oil. Get these three right and stir-frying becomes a kitchen-rhythm activity. Get them wrong and every dish is half-steamed, half-charred, and never quite right.*
+*Three things make or break a stir-fry before the food even hits the pan: the pan itself, the heat under it, and the oil in it. Get these right and stir-frying becomes a quick easy rhythm. Get them wrong and every dish is half-steamed and a bit sad.*
 
 ## Overview
 Most home stir-fry failures start before any food hits the pan. The wrong pan won't get hot enough. The wrong oil burns before food caramelises. The wrong heat is too low to drive evaporation. This page covers the equipment choices and the heat-management techniques that make the difference between a sad sticky stir-fry and a proper one.

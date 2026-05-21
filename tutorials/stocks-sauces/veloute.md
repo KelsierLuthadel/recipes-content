@@ -2,7 +2,7 @@
 
 ![Veloute](resources/veloute.jpg)
 
-*The same roux technique as bechamel, but with stock instead of milk. Velvety, blond, savoury, the natural pairing for the protein whose stock it is built from: chicken veloute over poached chicken, fish veloute over poached fish, veal veloute over roasted veal. The mother of a dozen finished sauces.*
+*Veloute is bechamel's stock-based cousin. Same roux technique, just stock in place of milk. It tastes of whichever protein your stock came from, so chicken veloute goes over poached chicken, fish veloute over fish, and so on. A small change in the liquid makes a noticeable change in the sauce.*
 
 ## Overview
 Veloute is bechamel's stock-based twin. The technique is identical: cook a roux, then whisk in warm liquid until thickened. The difference is the liquid: hot stock instead of hot milk. The result is a sauce that tastes of the protein the stock came from, with a smooth velvety mouthfeel.

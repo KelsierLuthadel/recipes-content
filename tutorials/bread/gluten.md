@@ -2,7 +2,7 @@
 
 ![Bread](resources/gluten.jpg)
 
-*What gluten actually is, what kneading does to it, and how to tell when the dough has had enough. Skip the kneading step and the loaf comes out dense; over-do it and the crumb turns rubbery. The window-pane test settles the question.*
+*Gluten gets blamed for a lot, but in bread it's the thing holding everything together. This page is about what it actually is, what kneading is really doing in there, and the easy little test that tells you when to stop.*
 
 ## Overview
 Gluten is the protein scaffold that holds a loaf of bread together. Without it, dough is just wet flour. Develop it well and the dough becomes elastic, stretchy and strong enough to trap the gas the yeast produces. Develop it poorly and the gas escapes, the rise collapses and you end up with a flat, dense loaf.

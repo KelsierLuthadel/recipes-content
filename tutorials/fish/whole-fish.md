@@ -2,7 +2,7 @@
 
 ![Whole fish](resources/whole-fish.jpg)
 
-*Scaling, gutting, filleting, roasting whole. The skills that let you buy from a fishmonger and save 30-50% over pre-filleted supermarket portions. Plus the bones for stock, the heads for fumet, the cheeks (the best bit) for the cook. A whole sea bass roasted on a tray with lemon and herbs is one of the great Mediterranean home dishes.*
+*Knowing what to do with a whole fish lets you buy from a proper fishmonger instead of staring at the supermarket fillets. You get the bones for stock, the heads for fumet, the cheeks for the cook, and a fish that stays moister than any filleted portion. A whole sea bass on a tray with lemon and thyme is one of the easier weeknight wins going.*
 
 ## Overview
 A whole fish is dramatically better value than a filleted one. The fishmonger charges by the whole-fish weight; you get the fillets, the head, the bones, the cheeks. The "fillet yield" is about 50% — half the fish is meat — but the rest is the foundation for fish stock, the cook's reward (cheeks, eaten standing up at the counter), and the head for sauce or display.

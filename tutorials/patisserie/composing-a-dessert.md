@@ -2,7 +2,7 @@
 
 ![Composed dessert](resources/desert.jpg)
 
-*The framework for thinking about how the parts of a French dessert fit together. Texture, temperature, colour, flavour balance. Knowing this principle is the difference between a recipe-follower and a cook who can adapt or invent.*
+*Once you understand the bits a French dessert is made of (texture, temperature, colour, flavour balance), you stop following recipes and start adapting them. This page is the framework: what to think about, what to combine, when to say "that's enough."*
 
 ## Overview
 A finished French dessert is rarely one thing. It's a small composition of two to five elements: a base (pastry or sponge), a cream (custard, mousse, ganache), a fruit or chocolate accent, sometimes a meringue or a streusel for texture, sometimes a sauce for the plate.

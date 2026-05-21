@@ -2,7 +2,7 @@
 
 ![Scrambled eggs](resources/omelette.jpg)
 
-*The same ingredients, hugely different techniques. American scramble: large soft curds, almost-set, butter-rich. French scramble: small curds, almost custardy, the patisserie of breakfast. Omelette: a thin egg sheet rolled or folded around a filling. Three styles, one principle: low heat and active stirring (or no stirring) control the result.*
+*Same eggs, very different results. The American scramble is breakfasty and butter-rich; the French scramble is soft, custardy, almost a slow dessert; the omelette is its own thing, a thin egg sheet wrapped around a filling. The trick across all three is gentle heat. Push it and they turn tough; take it easy and they stay silky.*
 
 ## Overview
 Scrambled eggs are an exercise in controlled coagulation. The proteins want to bind into rubbery curds; gentle heat and steady agitation keep them soft and creamy. Once you understand that low-and-slow gives custard, medium gives soft curds, and high gives rubber, you can produce any style on demand.

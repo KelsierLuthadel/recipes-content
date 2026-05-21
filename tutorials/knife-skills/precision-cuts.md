@@ -2,7 +2,7 @@
 
 ![Precision cuts](resources/precision.jpg)
 
-*The classical French cuts that elevate presentation from "home" to "restaurant". Julienne, brunoise, chiffonade, paysanne, batonnet. Most of these have specific dimensions; classical French cooking pedagogy memorises them like cuts of meat. For the home cook: knowing them gives garnish work and starter plates a professional finish.*
+*The classical French cuts that take a plate from "home" to "looks like someone professional did this." Julienne, brunoise, chiffonade, paysanne, batonnet. You don't need them every day, but they're handy to have when you want a starter plate or a garnish to look properly considered.*
 
 ## Overview
 Classical French cooking codified its knife cuts in the 19th century. Each cut has a specific dimension. Some are pragmatic (the dimensions affect cook time and texture); some are aesthetic (they look like specific things on a plate).

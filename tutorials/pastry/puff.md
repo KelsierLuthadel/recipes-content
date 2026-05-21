@@ -2,7 +2,7 @@
 
 ![Puff pastry](resources/puff.jpg)
 
-*Hundreds of paper-thin layers of dough alternated with butter, which puff into a tall flaky pastry under high heat. The classical full puff is a half-day project of careful lamination. Rough puff is the cheat's version: 80% of the result in 30% of the time, by chunking the butter rather than laminating it.*
+*Hundreds of paper-thin layers, butter folded between every one, puffing tall and crisp under high heat. Classical puff is a half-day project, quietly meditative. Rough puff is the home-cook compromise: chunk the butter in rather than laminate it, and you get most of the magic for a fraction of the work.*
 
 ## Overview
 Puff pastry works on physics, not chemistry. Cold butter is folded into a thin dough, then rolled out and folded again, and again, and again. By the end of the process you have somewhere between 300 and 1500 alternating layers of dough and butter, each only a few microns thick.

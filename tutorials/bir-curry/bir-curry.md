@@ -2,7 +2,7 @@
 
 ![BIR Base Gravy](resources/curry-course.jpg)
 
-*The British-Indian-Restaurant method: how four prepared components (base gravy, pre-cooked protein, spice mix and finishing aromatics) combine to plate any curry on the menu in under ten minutes. The system that powers every curry house in the UK, broken down so you can run it at home.*
+*Ever wondered how a curry house can knock out twenty different curries in twenty minutes? They prep four things ahead of service, then everything else is assembly. Once you set up those four components at home, you can run the same trick: a Saturday morning of prep, and curry on a Tuesday night in ten minutes flat.*
 
 ## Overview
 Walk into a Birmingham balti house and order a chicken vindaloo, chicken korma and lamb madras for the same table. All three plates land within twelve minutes of the kitchen taking the order. They taste utterly different. They came from the same pot.

@@ -2,7 +2,7 @@
 
 ![Bloomer scored](resources/scoring.jpg)
 
-*Why scored loaves bloom in the oven, where to cut, how deep. The score is not decoration; it is structural. It controls where the loaf opens up during the first ten minutes of the bake, which is the difference between a domed loaf and a torn, burst one.*
+*Scoring looks decorative but it's actually doing real work: telling the loaf where to open up as it bakes. Get the cuts right and you get those handsome blistered ears. Skip it and the loaf finds its own way out, usually somewhere unflattering. We'll cover where to cut, how deep, and the moment to do it.*
 
 ## Overview
 In the first 8-12 minutes of a hot bake, two things happen at once. The dough heats up and the trapped CO2 expands; the crust starts to set as the surface dries. If the gas expands faster than the crust can stretch, the loaf will tear open somewhere. The score gives that tearing a planned location and shape.

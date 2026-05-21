@@ -2,7 +2,7 @@
 
 ![Coconut milk](resources/coconut.jpg)
 
-*The non-obvious step that separates good Thai curry from sad Thai curry. Crack the coconut milk first; fry the paste in the cream until the oil splits out; only then add the protein and the thinner coconut milk to make a sauce. Skip this and the curry is greasy and bland.*
+*If your Thai curry's ever come out tasting a bit flat, this is probably why. The cream from the top of the tin gets fried with the paste first so the aromatic oils have somewhere to go; the thinner coconut milk only goes in afterwards. It's one of those small unobvious steps that makes a real difference.*
 
 ## Overview
 Most home cooks make Thai curry by pouring coconut milk into a pan, stirring in the paste, and adding the protein. The result is a flat, slightly greasy curry that tastes like the paste mixed with coconut soup. Restaurant-quality curry uses a different approach: the coconut milk is fractionated, the paste is fried in the rich cream layer, and only then does the rest of the coconut go in.

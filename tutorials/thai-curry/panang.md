@@ -2,7 +2,7 @@
 
 ![Panang curry paste](resources/panang.jpg)
 
-*The drier, richer, peanut-rich variant of red curry. Native to the Penang province on the Thai-Malaysian border (hence the spelling: also "phanaeng" or "phenang"). Less coconut milk, more concentrated, a touch sweeter. Often considered the most refined of the Thai curries.*
+*Panang is red curry's richer, thicker, peanut-laced cousin from the Thai-Malaysian border. Less coconut milk, more concentrated paste, a touch sweeter, and crushed peanuts folded through for body. Many Thais consider it the most refined of the curries, and it goes beautifully with beef.*
 
 ## Overview
 Panang is technically a variation of red curry: most of the same aromatic base (lemongrass, galangal, garlic, shallot, dried red chillies, shrimp paste) plus crushed roasted peanuts and a slightly heavier hand with the dried spices. The differences from red curry are subtle but consistent.

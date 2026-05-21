@@ -2,7 +2,7 @@
 
 ![Classical cakes](resources/classical.jpg)
 
-*The named cakes of the French patisserie counter. Mille-feuille, opera, gateau saint-honore, paris-brest, fraisier, charlotte. Each is a composition of pastry, sponge, cream, glaze; each follows the composition principles in fixed ratios. Once you know one, you know how to read the others.*
+*The named cakes you see in the patisserie window: mille-feuille, opera, gateau saint-honore, paris-brest, fraisier, charlotte. Each one is built from the same handful of things (pastry, sponge, cream, glaze) in different proportions. Learn the language of one and the others read easily.*
 
 ## Overview
 Classical French cakes are structured compositions with named forms. Each is a fixed recipe (with regional variants), and each is a worked example of the composition principles: pastry as the structure; cream as the soft middle; sponge as the absorbent layer; glaze as the finish.

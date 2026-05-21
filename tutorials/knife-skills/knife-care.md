@@ -2,7 +2,7 @@
 
 ![Sharpening](resources/knife-care.jpg)
 
-*A sharp knife is safer than a dull one. The dull knife slips; the sharp knife cuts where you point it. Sharpening is a once-or-twice-a-year job; honing is a 10-second daily ritual. Together they keep a £30 Victorinox cutting better than an unmaintained £200 Wusthof.*
+*A sharp knife is safer than a dull one. The dull knife slips off a tomato or a finger; the sharp one cuts where you point it. Sharpening is a job for once or twice a year; honing takes ten seconds before each use. Do both and your everyday knife outperforms an expensive one that nobody's maintained.*
 
 ## Overview
 Almost every cook has a drawer of dull knives and assumes that's normal. It isn't. Knives lose their edge through use, and that edge needs to be maintained. Two operations:

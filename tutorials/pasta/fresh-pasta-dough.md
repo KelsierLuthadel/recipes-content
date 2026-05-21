@@ -2,7 +2,7 @@
 
 ![Fresh pasta](resources/fresh-pasta.jpg)
 
-*The master dough. Eggs, flour, salt. No water. The Italian standard at 1 egg per 100 g of flour. Kneaded silky, rested an hour, rolled paper-thin. Once you can roll fresh pasta to the consistency of an old leather shoe (slightly translucent, slippery, springy), every ribbon and filled pasta is open.*
+*Three ingredients: eggs, flour, salt. The northern Italian rule is one egg per 100 g of flour, and you don't add water. Knead it silky, rest it an hour, roll it paper-thin, and you can make tagliatelle, ravioli, lasagne sheets, tortellini. Almost everything fancy in the pasta world starts here.*
 
 ## Overview
 Fresh pasta dough is one of the simplest doughs in cooking: just flour and eggs. The technique is in the handling. Properly made, the dough is silky and elastic; properly rolled, it's translucent enough to read a newspaper through.

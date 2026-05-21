@@ -2,7 +2,7 @@
 
 ![Patisserie](resources/patisserie.jpg)
 
-*The course that ties together the other foundations. Pastry (shortcrust, sweet-short, puff, choux, filo) plus eggs (custards, meringues, souffles) plus stocks-and-sauces (bechamel for savoury) combine into the classical French patisserie canon: tarts, cakes, petit fours, set creams, mousses. This course covers the composition rather than the components.*
+*Patisserie is really a course on putting things together. Once you have the pastry, the creams and the meringues from the other courses, this is where they meet: tarts, cakes, petit fours, set creams, mousses. We'll spend most of the time on how to compose a dessert; the components are covered elsewhere.*
 
 ## Overview
 French patisserie is a layered tradition. Each finished dessert is built from a small number of foundational doughs, creams and meringues, combined in different ways. A mille-feuille is puff pastry + creme patissiere + glaze. A tarte au citron is sweet-short pastry + lemon curd. A paris-brest is choux + praline cream. A souffle au chocolat is custard base + meringue. The doughs and creams themselves are covered in their own courses; this course is about composing them.

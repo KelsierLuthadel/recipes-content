@@ -2,7 +2,7 @@
 
 ![Pizza in oven](resources/oven.jpg)
 
-*The bake. Home oven, pizza stone, pizza steel, outdoor pizza oven, frying pan. Temperature targets and timing for each. The single biggest variable separating restaurant pizza from home pizza is heat: most home ovens cannot match the 450°C of a wood-fired oven, and the techniques here close the gap.*
+*Restaurant pizza is mostly about heat, and home ovens just can't get there. But you can get a lot closer than you'd think. This page covers what to use (steel, stone, pan, outdoor oven) and how to push each one as hard as it'll go.*
 
 ## Overview
 Pizza is a heat problem. The dough wants to spring up and the crust wants to char before the toppings dry out. To achieve this in 90 seconds (the Neapolitan ideal), you need 430-485°C. Most home ovens cap at 250-275°C. Bridging that gap is the central craft of home pizza-making.

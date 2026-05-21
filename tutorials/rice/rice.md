@@ -2,7 +2,7 @@
 
 ![Steamed rice](resources/course.jpg)
 
-*The four classic rice-cooking methods compared: absorption, boiled, pilaf and fried. What each gives you, when to reach for it, and why your rice will be better when you stop using the same technique for every cuisine.*
+*A bag of rice can become four very different dishes depending on how you cook it. Your stir-fried rice would be wetter than it should be; your basmati next to a curry would be drier and fluffier than the same grains would be in a paella. We'll walk through the four methods so you can match the right one to what you're cooking.*
 
 ## Overview
 A bag of rice can be cooked four very different ways. Each method gives a different finished texture, fits a different cuisine and pairs with a different style of food. The mistake most home cooks make is using one method (usually the rice-cooker absorption) for everything. The reason your fried rice is wet, your risotto is gluey or your basmati clumps into a starchy mass is not the rice. It is the technique.

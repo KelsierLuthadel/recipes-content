@@ -2,7 +2,7 @@
 
 ![Pizza dough](resources/dough.jpg)
 
-*The base under the whole thing. Five ingredients, two days, an open crumb with crisp underside and a charred puffy rim. Most of the work happens during the cold ferment, which is also when most home recipes go wrong.*
+*Five ingredients, a couple of days, and a dough that bakes into something with a crisp underside and a charred puffy rim. Most of the work happens while you're not in the kitchen at all (it's in the fridge). The bit that matters is the cold ferment, and skipping it is where most home pizza falls short.*
 
 ## Overview
 Pizza dough is bread dough with restraint. The hydration is moderate (60-65% for home oven, 65-70% for stone or wood-fired), the yeast is low, the ferment is long. The lower yeast and longer ferment build flavour. The moderate hydration gives a dough that can be stretched thin without tearing.

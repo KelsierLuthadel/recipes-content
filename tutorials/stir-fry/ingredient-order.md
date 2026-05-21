@@ -2,7 +2,7 @@
 
 ![Ingredients prepped](resources/order.jpg)
 
-*The canonical sequence: aromatics → protein → vegetables (hardest first) → sauce. Each goes in at the right moment, cooks for the right time, and pushes up the sides of the wok to make room for the next. Get the order right and a complex stir-fry comes together in 3 minutes. Get it wrong and everything ends up either burned or raw.*
+*Stir-frying is mostly choreography. Aromatics first, then protein, then vegetables (the hardest ones in earliest), then the sauce. Each thing goes in at the right moment and gets pushed up the sides of the wok to make room for the next. Get the order right and a busy stir-fry comes together in three minutes flat.*
 
 ## Overview
 Once the wok is hot, the stir-fry is choreography. Six to ten ingredients hit the pan over 3-4 minutes, each at a different moment, each cooked for a different time. The skill is not in any one ingredient; it's in the sequence and the timing.

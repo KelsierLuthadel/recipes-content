@@ -2,7 +2,7 @@
 
 ![Thai curry](resources/thai-curry.jpg)
 
-*A full chicken green curry from start to plate. Shows how the paste, the coconut milk technique, and the finishing aromatics combine. Same five-stage assembly works for any of the five paste curries; only the paste and finishing ingredients change.*
+*Let's cook one all the way through. We'll do a chicken green curry, because green is the most common, but the same five moves work for any of the five paste curries: only the paste and the herbs at the end change. Once you've done one, the others all feel familiar.*
 
 ## Overview
 Before you start, you need:

@@ -2,7 +2,7 @@
 
 ![Eggs](resources/eggs.jpg)
 
-*The single most teachable ingredient. Eight white-and-yolk cells under a thin shell, transformed into a dozen distinct preparations by temperature, technique and timing. Master eggs and you've mastered more techniques than any other course delivers in the same number of pages.*
+*Eggs are probably the most generous ingredient in your kitchen. The same little shell turns into a soft-boil for breakfast, a hollandaise for asparagus, a meringue for pavlova, a custard for ice cream. Once you get a feel for how heat changes them, a surprising amount of cooking opens up.*
 
 ## Overview
 Eggs are deceptive. They look simple (boil, fry, scramble) and they are simple, in the sense that the ingredient list never grows past one. But each preparation depends on temperature control with no margin: a hard-boiled egg taken 30 seconds too long is rubbery; a scramble held 30 seconds too long is dry; a custard taken 5 degrees too hot is scrambled; a souffle pulled 30 seconds too early collapses.

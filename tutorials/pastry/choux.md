@@ -2,7 +2,7 @@
 
 ![Choux](resources/choux.jpg)
 
-*The dough that gets cooked twice. First on the hob: flour, water, butter and salt boiled into a thick paste. Then eggs are beaten in off the heat. Then it goes into the oven, where steam from the eggs and water inflates it into a hollow puffed shell. Eclairs, profiteroles, paris-brest, gougeres: all the same dough, different shapes.*
+*Choux is the dough that gets cooked twice. First a quick boil-and-stir on the hob, then eggs beaten in off the heat, then into a hot oven where it puffs up into a hollow shell. It looks like a magic trick the first time you do it. Eclairs, profiteroles, paris-brest, savoury gougeres: same dough, different shapes.*
 
 ## Overview
 Choux is a unique dough. It contains no leavening (no yeast, no chemical), yet it rises dramatically in the oven. The rise is entirely steam-driven: water and eggs flash to steam in the hot oven, the dough is elastic enough from the cooked starch and beaten eggs to inflate but not burst, and the result is a hollow puffed shell with a thin crisp crust.

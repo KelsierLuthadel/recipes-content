@@ -2,7 +2,7 @@
 
 ![Bread](resources/bread-course.jpg)
 
-*A course in bread-making: from the science of dough through proving, shaping, scoring and the bake. Built on the master recipes in the bread-pasta section.*
+*Bread is the kind of cooking that rewards a bit of patience and pays you back with a warm loaf. This course walks you through it from dough through to bake, with a stop at every place a home baker tends to come unstuck.*
 
 ## Overview
 Bread is four ingredients (flour, water, salt, yeast) and an understanding of what happens to them over time. A loaf comes out well when you give the dough the conditions it wants at each stage: enough hydration to form gluten, enough kneading to develop it, enough time to ferment, enough heat to set the crumb. None of these steps is hard on its own. The trick is knowing which lever to pull when things go wrong, which is what the rest of this course teaches.

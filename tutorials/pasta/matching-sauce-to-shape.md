@@ -2,7 +2,7 @@
 
 ![Pasta with sauce](resources/sauce.jpg)
 
-*The Italian principle that shape determines sauce. Long thin pastas with sticky-thin sauces; tubes with chunky sauces; bowls with small chunks; ribbons with cream-and-meat. The pairing is a thousand years of Italian cooking; learn the principles and the right combinations become obvious.*
+*There's a reason Italians get fussy about which sauce goes with which pasta. The shape was designed alongside the sauce: long thin pastas catch slick oily sauces, tubes catch chunks, bowls scoop small bits, wide ribbons carry rich meaty ragus. Once you see the principle, the pairings stop feeling like rules and start feeling like common sense.*
 
 ## Overview
 Why bucatini with amatriciana and not arrabbiata? Why fettucine with cream and not chunky tomato? Why orecchiette with sprouting broccoli and not bolognese? The answer is shape: each pasta was developed alongside a sauce, and the shape determines how the sauce sits.

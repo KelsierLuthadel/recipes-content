@@ -2,7 +2,7 @@
 
 ![Basic cuts](resources/cuts.jpg)
 
-*The cuts that cover 90% of home cooking. Slice, dice, chop, mince, and the techniques specific to onion, garlic, herbs, and round vegetables. Get these clean and uniform and most recipes become 30-50% faster to prep.*
+*Slice, dice, chop, mince. These four cover almost everything you'll do at home, plus the small handful of moves specific to onions, garlic, herbs and round veg. Once your cuts are roughly uniform, the cooking itself gets easier (because the pieces all cook at the same rate) and the prep gets faster.*
 
 ## Overview
 Five cuts cover almost everything you'll do in a home kitchen:

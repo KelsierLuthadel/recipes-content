@@ -2,7 +2,7 @@
 
 ![Boiled eggs](resources/poached.jpg)
 
-*The egg meets water, hot or hotter. Three minutes for a runny yolk; six for soft; ten for hard. Poached: simmering water, a vortex, three minutes. Two of the simplest preparations on earth, and two that most home cooks consistently get wrong.*
+*Two of the simplest things you can do with an egg, and two that home cooks rarely get quite right. The boil is mostly a question of timing. The poach is mostly a question of nerve. We'll cover both, plus the small tricks (vinegar in the water, ice bath afterwards) that make the difference.*
 
 ## Overview
 Boiled and poached eggs sit at opposite extremes of the simple-egg spectrum, but they share one principle: heat-controlled coagulation. Both rely on hitting a specific protein-set temperature in the egg's interior and stopping at exactly the right moment.

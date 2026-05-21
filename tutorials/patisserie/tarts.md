@@ -2,7 +2,7 @@
 
 ![Tart](resources/tarts.jpg)
 
-*The simplest patisserie form. A sweet-short pastry shell + a filling. Lemon, fruit, chocolate, custard, almond, caramelised apple. The patisserie that most home cooks can make to professional standard with the right pastry and three additional ingredients.*
+*Tarts are the easiest patisserie to make properly at home. A sweet-short shell, a filling, sometimes a glaze, and you have something that wouldn't look out of place in a Paris window. Lemon, fruit, chocolate, custard, almond, caramelised apple: the variations are wide and the technique stays the same.*
 
 ## Overview
 Tarts are the most home-cook-friendly patisserie. The structure is fixed: a blind-baked sweet-short pastry shell, plus a filling. The variations come from the filling. Once you can make a clean blind-baked shell (see [sweet short pastry](../pastry/sweet-short.md)), the tart canon opens.

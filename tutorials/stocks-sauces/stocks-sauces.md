@@ -2,7 +2,7 @@
 
 ![Stocks and sauces](resources/stocks-sauces.jpg)
 
-*The foundation under most Western cooking. Stock turns vegetable trim and bones into a flavoured base; the five mother sauces (bechamel, veloute, espagnole, hollandaise, tomato) turn that base into the sauces that finish everything from a roast chicken to a souffle.*
+*Get a good stock and the five mother sauces in your back pocket and you can finish almost anything. Stock turns bones and vegetable trim into a useful liquid; the mother sauces (bechamel, veloute, espagnole, hollandaise, tomato) turn that liquid into the sauces that dress a roast chicken, a souffle, a tray of lasagne, or a plate of asparagus.*
 
 ## Overview
 Classical French cuisine is built on stocks and the five mother sauces. Auguste Escoffier codified the system at the turn of the 20th century. The system has held up for more than a hundred years because it works: a small number of foundational recipes, each of which is the parent of dozens of derivatives. Once you can make a clean stock and the five mothers, you can make hundreds of finished sauces by changing one or two ingredients.

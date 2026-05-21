@@ -2,7 +2,7 @@
 
 ![Pan-fried fish](resources/pan-fried.jpg)
 
-*Skin-down first, into a hot dry-but-oiled pan, press flat for the first 30 seconds, then leave alone. Five minutes total for a fillet. The simplest possible cook and the easiest to mess up. Most home failures come from a cold pan and a wet skin.*
+*Pan-fried fish is five minutes' work for one of the better dinners you can make. Skin-down into a hot pan, a press for the first half-minute, then leave it alone. The two things that go wrong at home are usually a cold pan and a wet skin. Fix those and the rest is dinner.*
 
 ## Overview
 Pan-frying is the workhorse technique for filleted fish. Done well, you get a sheet of crackling crisp skin, golden brown, with moist flaky flesh underneath that takes a sauce or salsa beautifully. Done badly, you get rubbery soggy skin (or skin stuck to the pan), and overcooked dry flesh.

@@ -2,7 +2,7 @@
 
 ![Tomato sauce](resources/tomato.jpg)
 
-*Escoffier promoted tomato sauce to a mother sauce alongside the four French classics. He was right: tomato is the parent of an enormous family of finished sauces across French, Italian, Spanish, Mexican and American cooking. Two foundational styles cover most of it: the slow-cooked Italian style, and the quick raw-passata Italian-American style.*
+*Tomato sauce is the most well-travelled member of the mother sauce family. The Italians, Spanish, Mexicans and Americans all do their own version, but most of it boils down to two starting points: the slow-cooked Italian sugo and the quick raw-passata pizza-style. Get those down and most red sauces are variations on one or the other.*
 
 ## Overview
 Tomato sauce occupies a strange place in classical French canon. Escoffier added it to the five mothers in the early 1900s, recognising its ubiquity in Mediterranean and Italian-French cooking. Some French purists still treat it as a daughter sauce; the rest of the world treats it as foundational.

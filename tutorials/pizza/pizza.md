@@ -2,7 +2,7 @@
 
 ![Margherita](resources/making.jpg)
 
-*A pizza-making course. Dough, sauce, toppings, cheese, oven. Each part is simple on its own; the magic is in how they fit together. Built on the canonical pizzas in the Italian section.*
+*Five things make a pizza: dough, sauce, toppings, cheese, oven. Each of them is genuinely simple on its own. The trick is in how they meet. We'll go through them one at a time, and by the end you'll be making the kind of pizza you used to order in.*
 
 ## Overview
 Pizza is a study in restraint. Five ingredients in the dough (flour, water, salt, yeast, optional olive oil), three or four on top, a screaming-hot oven, and ten minutes. Done well, it is the most satisfying single dish in the European canon. Done badly, it is dry, gummy, soggy or burnt.

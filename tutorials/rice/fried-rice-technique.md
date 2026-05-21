@@ -2,7 +2,7 @@
 
 ![Fried rice](resources/fried.jpg)
 
-*The wet, sticky fried rice most home cooks produce comes from one mistake: using freshly cooked rice. Day-old rice from the fridge is the trick. This page covers why, what else changes, and the wok technique that gives the dish its smoke-and-snap character.*
+*If your fried rice always ends up gluey and disappointing, there's one simple fix: cook the rice yesterday. Cold day-old rice from the fridge is what restaurants use, and it makes all the difference. Once you know that, the rest is just wok work, and we'll cover that too.*
 
 ## Overview
 Fried rice is the most-cooked rice dish on earth. Every country east and south-east of the Himalayas has its version: Chinese egg fried rice, Thai khao phad, Indonesian nasi goreng, Filipino sinangag, Korean bokkeumbap. The technique is the same everywhere: cold, dry, day-old cooked rice goes into a screaming-hot wok with flavoured oil, aromatics and small pieces of protein or vegetable, gets tossed for two minutes, lands on the plate.

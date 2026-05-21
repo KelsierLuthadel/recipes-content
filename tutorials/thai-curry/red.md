@@ -2,7 +2,7 @@
 
 ![Red curry paste](resources/red.jpg)
 
-*The second-most-classical Thai curry. Built around dried red chillies (rehydrated before pounding), with the same fresh aromatics as green plus more dried spice. Deeper, slightly less herbaceous, slightly more spice-forward. The base of duck red curry, beef red curry, and a hundred restaurant menus.*
+*Red is the more grown-up sibling of green. Dried red chillies replace fresh, soaked first to soften them, and a heavier hand with the dried spices gives it depth. The result is less herbaceous and more savoury, and it's the base of duck red curry, beef red curry and the dozen versions you'll find on any Thai menu.*
 
 ## Overview
 Red curry paste (prik gaeng phet) substitutes dried red chillies for the fresh green chillies of green curry. The dried chillies bring a deeper, more brick-red flavour and colour; they're slightly less hot per gram than fresh bird's-eyes, but a typical red curry paste uses more of them, so the finished heat is comparable.

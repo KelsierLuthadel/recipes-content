@@ -2,7 +2,7 @@
 
 ![Filo](resources/filo.jpg)
 
-*Paper-thin stretched dough, layered with butter or oil between sheets, then baked or fried into the shatteringly-crisp wraps of the Mediterranean and Middle East. Spanakopita, bourekas, baklava, b'stilla, strudel. Almost no one makes their own; the technique is in the assembly, not the dough.*
+*Filo is the paper-thin sheet behind baklava, spanakopita, bourekas, strudel. Almost nobody makes their own (and you don't need to either; the shop-bought sheets are excellent). The real skill is in handling them. We'll cover the layering, the buttering, and the small list of moves that make filo behave.*
 
 ## Overview
 Filo (phyllo, phylo, yufka, yufak: same dough across the Mediterranean and Middle East) is the thinnest pastry in any tradition. A single sheet, properly stretched, is translucent. Twenty sheets stacked are about 5 mm thick. Baked, they shatter into the most delicate flaky crust.

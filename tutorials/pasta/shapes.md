@@ -2,7 +2,7 @@
 
 ![Pasta shapes](resources/shapes.jpg)
 
-*The cutting and filling of fresh pasta. Ribbon pastas (tagliatelle, fettucine, pappardelle), filled pastas (ravioli, tortellini, cappelletti), hand-shaped (orecchiette, trofie, cavatelli). Each shape has its own history, its own region and its own canonical sauce.*
+*Once you have the dough, you can take it in any number of directions. Ribbons (tagliatelle, fettucine, pappardelle), filled little pockets (ravioli, tortellini, cappelletti), hand-shaped curls (orecchiette, trofie, cavatelli). Each one has a region it comes from and a sauce that grew up alongside it.*
 
 ## Overview
 Italy has hundreds of regional pasta shapes. Most cookery books focus on the big-name ribbon and filled pastas because those are what's possible at home with a pasta machine. This page covers the home-doable shapes; the regional hand-shaped pastas (orecchiette, trofie, cavatelli) are simple in concept but take practice.

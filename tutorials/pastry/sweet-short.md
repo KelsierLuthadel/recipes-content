@@ -2,7 +2,7 @@
 
 ![Sweet short pastry](resources/sweet.jpg)
 
-*Pate sucree, the patisserie tart base. Sweeter, shorter and more biscuit-like than shortcrust, with sugar and often egg in the dough. The crisp golden case under every classical fruit tart, every tartlet, every piece of patisserie that sits in a glass case.*
+*Pate sucree is shortcrust's dressier cousin. Sugar in the dough gives it a biscuit-snap when baked, an egg gives it richness, and the case it makes is the one you see under every glossy fruit tart in a patisserie window. A little fussier to handle than plain shortcrust, but the pay-off is real.*
 
 ## Overview
 Sweet short (pate sucree, or pate sablee at its richest) is the dessert cousin of shortcrust. The difference is sugar. Sugar makes the dough behave differently: it browns more deeply, it tenderises further, and it makes the dough more fragile to handle. The pay-off is a finished case with a snap-when-bitten, almost-biscuit texture that holds creams and fruit beautifully.

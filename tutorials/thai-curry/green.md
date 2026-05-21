@@ -2,7 +2,7 @@
 
 ![Green curry paste](resources/green.jpg)
 
-*The most popular Thai curry, fierce and herbaceous. Built around fresh green chillies, with lemongrass, galangal, kaffir lime, coriander roots, garlic, shallot, white pepper, shrimp paste. Pounded to a wet paste, fried in coconut cream, and turned into chicken or fish or vegetable curry in 10 minutes.*
+*Probably the Thai curry you've eaten most often. Fresh green chillies do the heat, lemongrass and kaffir lime do the brightness, coriander roots and galangal do the depth. Pound it to a wet paste, fry it in coconut cream, and ten minutes later you've got a curry with chicken, fish or whatever else is to hand.*
 
 ## Overview
 Green curry (gaeng keow wan: "sweet green curry") is the Thai curry most foreigners try first and most home cooks attempt to replicate. The colour comes entirely from fresh green chillies; the brightness from coriander roots and kaffir lime; the depth from lemongrass, galangal, garlic and shallots; the umami underpinning from a small amount of fermented shrimp paste.

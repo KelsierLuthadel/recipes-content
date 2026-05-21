@@ -2,7 +2,7 @@
 
 ![Wok](resources/wok.jpg)
 
-*The high-heat, fast-tossed pan technique that defines Cantonese and Sichuan Chinese, Thai, Indonesian and Vietnamese cooking. Most home stir-fries are sad: oil sizzling at a feeble heat, ingredients steaming in their own moisture, garlic burned, rice soggy. This course covers what to change.*
+*A good stir-fry is one of the fastest ways to put a meal on the table. A sad one is what happens when the pan isn't hot enough, the timing's off, and the garlic's burnt before the veg has cooked. This course covers the three things to get right: the heat, the order, and the smoky char that makes a stir-fry taste properly cooked.*
 
 ## Overview
 Stir-fry is the cooking method most often executed badly at home. The technique looks simple: heat a pan, add oil, throw stuff in, toss. But the result depends on three things most home cooks get wrong:

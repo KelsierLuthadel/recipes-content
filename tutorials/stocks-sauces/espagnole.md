@@ -2,7 +2,7 @@
 
 ![Espagnole](resources/espagnole.jpg)
 
-*The brown mother sauce. Brown roux, brown stock, mirepoix sweated dark, tomato puree. Slow-cooked for hours, reduced into demi-glace, the sticky meat reduction that defines restaurant-quality French cooking. Effort: substantial. Pay-off: enormous.*
+*Espagnole is the most demanding of the mother sauces, and the one with the biggest pay-off. A dark roux, browned vegetables, slow-cooked stock, reduced down to demi-glace: a sticky meat sauce that tastes like a good restaurant. Most of an afternoon's work, but a small tub of it lifts pan sauces and steak finishings for weeks afterwards.*
 
 ## Overview
 Espagnole is the most demanding of the five mother sauces. It is built on a brown roux (cooked further than the blond roux of veloute), made with brown stock (roasted bones), thickened with vegetables, and seasoned with tomato puree. The base is then simmered for hours to deepen, strained, and often reduced further into demi-glace, a syrupy concentrated meat reduction.

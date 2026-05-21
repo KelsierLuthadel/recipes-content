@@ -2,7 +2,7 @@
 
 ![Hollandaise](resources/hollandaise.jpg)
 
-*The warm egg-yolk-and-butter emulsion. Three ingredients (yolks, butter, acid), one technique (slow incorporation over gentle heat), one critical failure mode (overheating). Looks like a magic trick. Actually a 10-minute job once you know the moves. The mother of bearnaise, the soul of eggs benedict.*
+*Hollandaise looks like a magic trick from the outside: warm yolks, lots of butter, a splash of acid, and somehow it all comes together into a silky sauce. The only real thing to watch is the heat. Go gently and it works. Push it and you get scrambled eggs. Once you've made it a couple of times, it's a ten-minute job you'll trust yourself to do.*
 
 ## Overview
 Hollandaise is the simplest of the mother sauces in ingredients, the trickiest in technique. It is an emulsion: tiny droplets of fat (the butter) suspended in a stable matrix held by an emulsifier (the egg yolks' lecithin). Add the butter too fast or let the eggs overheat, and the emulsion breaks: the sauce separates into a greasy puddle with a curdled scramble at the bottom.

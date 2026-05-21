@@ -2,7 +2,7 @@
 
 ![Meringue](resources/meringue.jpg)
 
-*Egg whites + sugar + air. Three classical methods: French (cold whites, sugar added slowly while whisking), Italian (hot syrup whisked into whites), Swiss (whites + sugar warmed over a bain-marie, then whisked off the heat). Each produces a different texture. Macarons, pavlova, Italian meringue buttercream, mousse, all start here.*
+*Egg whites, sugar and air, in three slightly different orders. The French method is the simplest, the Italian the most stable, the Swiss the smoothest. Each gives a different texture, and once you've made all three you'll know which to reach for. Macarons, pavlova, buttercream and mousse all start with one of them.*
 
 ## Overview
 Meringues are mostly air. Egg whites foam when whisked because the proteins unfold and form a network around tiny air bubbles. Adding sugar stabilises the foam: the sugar lattice holds the bubbles in place even when heated. The ratio of sugar to whites determines how stable the meringue is and what you can do with it.

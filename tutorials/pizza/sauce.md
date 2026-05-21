@@ -2,7 +2,7 @@
 
 ![Pizza sauce](../../cuisine/italian/pizza/resources/pizza-sauce.jpg)
 
-*The three sauce styles (red, white, no-sauce), why San Marzano matters, what to leave out. The sauce sits between dough and toppings; it has the least real estate but does the most heavy lifting on flavour.*
+*The sauce is tiny in volume and huge in impact. Get the tomato right and the rest of the pizza takes care of itself. This page covers the three sauce styles (red, white, none at all), why San Marzano is worth the extra pound, and the surprisingly long list of things to leave out.*
 
 ## Overview
 Pizza sauce is a study in restraint, even more than the dough. The classical Neapolitan red sauce has three ingredients: tomato, salt, fresh basil. No garlic, no oregano, no sugar, no cooking. The brightness of raw tomato is the point; cooking it for two hours with herbs produces a pasta sauce, not a pizza sauce.

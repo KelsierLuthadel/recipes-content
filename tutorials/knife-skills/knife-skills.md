@@ -2,7 +2,7 @@
 
 ![Knives](resources/knife-skills.jpg)
 
-*The most-used skill in the kitchen, and the one most home cooks practise least. A sharp knife and three or four basic cuts let you prep faster, cleaner and safer than any kitchen gadget. Knife work is the difference between a 40-minute prep and a 90-minute prep on the same recipe.*
+*You use a knife more than any other tool in the kitchen, and it's the one most home cooks never quite get the hang of. A sharp knife and three or four basic cuts will save you most of your prep time and make the cooking itself a lot nicer. Worth a little practice.*
 
 ## Overview
 Knife skills are the dull subject of professional kitchen training, the thing no recipe book bothers to teach, and the single most-leveraged skill in the home kitchen. A cook with good knife skills:

@@ -2,7 +2,7 @@
 
 ![Souffle](resources/souffles.jpg)
 
-*The dish that combines a thick savoury or sweet base with whipped egg whites, baked at high heat until the air expands and the souffle rises to twice its raw height. Drops on the way to the table. Sweet (chocolate, Grand Marnier, lemon) or savoury (cheese, spinach, smoked haddock). The showstopper of classical French cooking.*
+*Souffles have a reputation for collapsing on the way to the table, and that reputation is mostly earned. But there's a real method behind them: a thick flavoured base, whipped egg whites folded in, a hot oven, and a dash to the table the second they're out. Sweet, savoury, dramatic. Worth attempting at least once.*
 
 ## Overview
 A souffle has two parts:

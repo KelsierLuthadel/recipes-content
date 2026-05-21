@@ -2,7 +2,7 @@
 
 ![Bechamel](resources/bechamel.jpg)
 
-*The white milk-based mother sauce. Equal weights of butter and flour cooked into a roux, then milk whisked in over heat until smooth and thickened. Five minutes' work, the foundation of macaroni cheese, lasagne, moussaka, gratin dauphinois, croque monsieur. The single most useful sauce to be able to make blindfolded.*
+*Bechamel is probably the most useful sauce you can know by heart. Equal weights of butter and flour, milk whisked in, five minutes of attention. Once you can make it without thinking, mac and cheese, lasagne, moussaka, gratin dauphinois and a croque monsieur are all yours.*
 
 ## Overview
 Bechamel is the simplest of the five mother sauces. The technique is two steps:

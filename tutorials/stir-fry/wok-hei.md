@@ -2,7 +2,7 @@
 
 ![Wok hei](resources/wok-hei.jpg)
 
-*"The breath of the wok." The smoky char that defines top-tier Cantonese stir-fries: a slightly toasty, slightly grilled, slightly burnt flavour that home cooks rarely achieve and can't quite name. It is the difference between restaurant stir-fry and home stir-fry. This page is honest about what's reproducible.*
+*Wok hei (literally "the breath of the wok") is the toasty, slightly-charred flavour that makes restaurant stir-fries taste like restaurant stir-fries. Home hobs can't quite match a 200,000-BTU restaurant burner, but you can get a lot closer than you'd think. This page is honest about what's reachable at home and how to get there.*
 
 ## Overview
 Wok hei is a Cantonese term that translates roughly to "the breath of the wok" or "the soul of the wok". It refers to the subtle smoky-toasty flavour that develops when food is stir-fried in a properly screaming-hot wok over an open flame. The flavour is partly Maillard browning (the same reaction that browns steak), partly caramelisation of sugars, partly tiny droplets of oil being vaporised on the wok surface and igniting briefly above the food.

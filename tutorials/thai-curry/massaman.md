@@ -2,7 +2,7 @@
 
 ![Massaman curry paste](resources/massaman.jpg)
 
-*The Persian-Muslim influenced curry of southern Thailand. Closer to a slow-cooked stew than the quick fry-and-simmer of the other Thai curries. Cardamom, cinnamon, cloves and star anise distinguish the spice profile; long simmer (60-90 minutes) with beef or lamb shoulder gives the deep stew flavour.*
+*Massaman is the curry that came with Persian and Muslim traders centuries ago and stayed in southern Thailand. It's slower than the other Thai curries (a proper hour-and-a-half stew), and the spice profile is different too: cardamom, cinnamon, cloves and star anise alongside the usual aromatics. Best made the day before; it's even better warmed up.*
 
 ## Overview
 Massaman (kaeng matsaman, "Muslim curry") arrived in southern Thailand from Persian-Muslim traders in the 17th century. The paste blends Thai aromatics (lemongrass, galangal, shallots, garlic) with classical Persian/Indian whole spices (cardamom, cinnamon, cloves, star anise, nutmeg, mace). The result is unlike any other Thai curry: deep, warm-spiced, almost-Indian in profile but with the unmistakable Thai underpinnings of fish sauce, palm sugar, lime and coconut.

@@ -2,7 +2,7 @@
 
 ![Fish](resources/fish.jpg)
 
-*Fish is the most delicate protein in the kitchen and the easiest to over-cook. A 30-second overshoot turns flaky-tender into dry-chalky. This course covers the four techniques that handle most fish well: pan-frying for crispy skin, en papillote for gentle steam, curing for raw preparations, and the whole-fish skills (scaling, gutting, filleting, roasting whole).*
+*Fish is the most delicate thing on your stove and the easiest to overshoot. Half a minute too long and a flaky tender fillet turns dry and chalky. The good news is that the techniques worth knowing are few: pan-fry for crisp skin, en papillote for gentle steam, cure for raw preparations, and learn enough about whole fish to buy from a fishmonger with confidence. Cover those four and most of fish cookery is yours.*
 
 ## Overview
 Fish has half the connective tissue of meat. The proteins coagulate and the moisture evaporates at lower temperatures and faster than meat. Most home cooks treat fish like a smaller piece of chicken: cook it 8-10 minutes, season heavily, slap a sauce on it. The result is dry, dense, often grey.

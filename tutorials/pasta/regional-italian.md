@@ -2,7 +2,7 @@
 
 ![Italian regions](resources/italy.jpg)
 
-*Italy is twenty regions and twenty cooking traditions. Northern Italy: butter, cream, rice, polenta, ribbon pastas, slow ragus. Southern Italy: olive oil, tomato, dried pasta, light fish sauces, simple-and-fast. Once you understand the divide, every Italian recipe makes sense.*
+*Italy is really twenty different cooking traditions in a trenchcoat. The biggest divide is north-south: the north uses butter, cream and ribbon pastas with slow ragus; the south uses olive oil, tomato and dried pasta with quicker sauces. Once you know which half a recipe came from, the rest of the choices it makes start to make sense.*
 
 ## Overview
 Italy was unified as a country only in 1861. Before that, twenty separate regions had developed twenty separate culinary traditions over a thousand years, shaped by their geography, weather, and the foods their land supported. The unification didn't erase those traditions; they remain alive and distinct today.

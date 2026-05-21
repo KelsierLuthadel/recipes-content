@@ -2,7 +2,7 @@
 
 ![Bread](resources/enriched.jpg)
 
-*Add butter, eggs and sugar to a basic bread dough and the chemistry changes. The rise slows, the crumb softens, the crust browns differently. This page covers what each enrichment does, how to handle the slower rise, and where the boundary sits between bread and cake.*
+*Butter, eggs, sugar, sometimes milk: enrich a plain bread dough with these and it becomes brioche, challah, hot cross buns, panettone. The dough is a bit fussier, the rise a bit slower, but the reward is a soft tender crumb that lasts for days. We'll cover what each addition does and how to keep it all behaving.*
 
 ## Overview
 A lean dough is just flour, water, salt and yeast. An enriched dough adds some combination of butter, eggs, milk, sugar and sometimes extras like dried fruit, citrus zest or chocolate. The result is a softer, richer, sweeter bread (brioche, challah, hot cross buns, panettone). The trade is a slower rise (sugar and fat both inhibit yeast) and a more demanding bake (sugar burns).

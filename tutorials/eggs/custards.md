@@ -2,7 +2,7 @@
 
 ![Custard](resources/custard.jpg)
 
-*The egg yolk + dairy + sugar + low heat family. Creme anglaise (pourable), creme patissiere (thick), creme caramel (set with whole eggs), creme brulee (set with cream and a torched-sugar lid), the base of every custard-style ice cream. One technique (gentle heat, constant stir, off when ribbon-coating), four classic finishes.*
+*Custard sounds intimidating until you realise it's mostly yolks, dairy, sugar and a steady hand. The same gentle technique gives you a pourable creme anglaise, a thick creme patissiere, a set creme caramel, a torched-top creme brulee, and the base of any custard-style ice cream. Once your hand knows the moment to pull the pan off the heat, you're set.*
 
 ## Overview
 Custards are eggs cooked in dairy with sugar, slowly, until the yolks thicken the mixture but stop short of scrambling. The cooking happens between 75 and 82 C; above 82 C the yolks scramble and you have sweet scrambled eggs in milk (technically curdled custard).

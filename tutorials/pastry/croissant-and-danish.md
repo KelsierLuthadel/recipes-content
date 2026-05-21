@@ -2,7 +2,7 @@
 
 ![Croissant](resources/danish.jpg)
 
-*Puff pastry plus yeast plus enriched dough. The breakfast-pastry family: croissants, pains au chocolat, pains aux raisins, danish. Three days, four turns, fierce attention to temperature, and the result is the most rewarding baked good in any kitchen.*
+*Croissants are puff pastry's softer, breakfast-eating cousin. Add yeast, eggs, milk and sugar to a laminated dough and you get the family of pains: croissant, pain au chocolat, pain aux raisins, danish. It's a three-day project that asks for patience and a cool kitchen, and warm from the oven there's nothing quite like them.*
 
 ## Overview
 Croissant dough is a special case of laminated pastry. The base dough is a sweet yeasted dough (a brioche-adjacent enrichment with milk, sugar, egg and butter), folded with a butter block, and laminated through three turns. The yeast in the base dough does most of the rising work; the lamination produces the layered crumb that defines the finished pastry.

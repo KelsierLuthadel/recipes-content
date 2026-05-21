@@ -2,7 +2,7 @@
 
 ![Pasta](resources/pasta.jpg)
 
-*The Italian foundation. Fresh pasta dough, the shape gallery (rolled, cut, filled), dried pasta as the everyday workhorse, matching sauce to shape, the regional traditions that distinguish northern butter-and-cream from southern olive-oil-and-tomato. Master these and the Italian canon opens.*
+*Pasta is one of those things that's quietly endless. Fresh dough or dried, dozens of shapes, hundreds of sauces, and a long Italian tradition of pairing the right pasta with the right sauce. This course covers the dough, the shapes, the cooking and the regional differences. Once you've worked through it, half of Italian cooking is open to you.*
 
 ## Overview
 Pasta sits beside bread, rice and pizza in the global short list of foundational starches. Like bread, it has a master dough (eggs + flour, plus variations) plus a shape gallery (tagliatelle, ravioli, pappardelle, gnocchi, fresh-cut shapes) plus a cooking technique that takes practice.

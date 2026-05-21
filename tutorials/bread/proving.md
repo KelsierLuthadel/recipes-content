@@ -2,7 +2,7 @@
 
 ![Bread](resources/proving.jpg)
 
-*The slow rise that transforms kneaded dough into bread-ready dough. Bulk fermentation, the finger-poke test, knocking back and the final prove. Get the timing right and the loaf opens up in the oven; get it wrong and it falls flat or splits across the side.*
+*Proving is the part where you mostly leave the dough alone, which sounds easy but is where most bread troubles start. Too short and the loaf is dense; too long and it collapses. Once you can read what the dough is telling you, the timing stops feeling guessworky.*
 
 ## Overview
 After kneading, the dough has the gluten scaffold. It does not yet have flavour, structure or the gas pockets that make bread bread. Proving (also called fermentation) is what builds those. Yeast eats the sugars in the flour, releases carbon dioxide as a by-product, and the gluten scaffold traps the gas as expanding bubbles. The flour also breaks down enzymatically over time, developing the deeper flavours.

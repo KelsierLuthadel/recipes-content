@@ -2,7 +2,7 @@
 
 ![En papillote](resources/en-papillote.jpg)
 
-*Fish wrapped in baking parchment with vegetables, herbs and a splash of liquid, sealed and baked. The parcel steams the contents in their own moisture. Almost impossible to overcook. Hands off; opens at the table to a cloud of fragrant steam. The most foolproof fish cookery.*
+*Fish, veg, herbs and a splash of wine, wrapped in a parchment parcel and baked. The parcel steams the contents in their own juices and is just about impossible to mess up. Best of all, you get to open it at the table with a cloud of fragrant steam, which is much more dramatic than it has any right to be.*
 
 ## Overview
 En papillote ("in paper") is a French technique with Italian, North African and East Asian variants. Fish or seafood is placed on a sheet of parchment with vegetables, herbs, a flavoured liquid (wine, citrus juice, stock), and sealed inside the paper. The package goes into a hot oven. Steam from the fish and liquid cooks everything together; the paper traps the aromas.

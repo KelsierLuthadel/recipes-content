@@ -2,7 +2,7 @@
 
 ![BIR base gravy](resources/building.jpg)
 
-*A step-by-step walkthrough of one finished BIR curry, showing exactly how the four prepared components combine in the pan. We are building a chicken madras here, but the same five-step assembly applies to every named curry on the menu.*
+*Let's actually cook one. We'll build a chicken madras together, step by step, and you'll see how the four prep components come alive in the pan. The same five moves work for every curry on the menu; once you've done it once, the rest are variations.*
 
 ## Overview
 Before you start, you need three things in the fridge or on the stove:

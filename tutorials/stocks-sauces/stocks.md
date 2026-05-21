@@ -2,7 +2,7 @@
 
 ![Stock](resources/stocks.jpg)
 
-*The flavoured water under everything else. Bones, vegetable trim, herbs and water simmered for hours into a clean savoury base. The single highest-leverage thing you can do in a kitchen: an hour's work yielding 4 litres of stock that elevates every soup, sauce and braise for the next month.*
+*Stock is the most generous trick in cooking: ten minutes of upfront work, a few hours of mostly-unattended simmering, and you end up with four litres of liquid that lifts every soup, sauce and braise for the next month. Portion it, freeze it, use it instead of water whenever a recipe asks for some.*
 
 ## Overview
 Stock is not soup. Stock is what soup is made from. The difference is seasoning: stock is unseasoned (or barely seasoned), so it can be reduced, salted, and finished into whatever final dish you want. Soup is salted, often thickened, and ready to eat.

@@ -2,7 +2,7 @@
 
 ![Margherita](resources/toppings.jpg)
 
-*The balance question. Too much topping turns the pizza into a sandwich on bread. Too little leaves the dough dominant. This page covers what to layer, how much, and which toppings go in raw vs cooked-first vs added after the bake.*
+*Pile too much on and it's a sandwich on bread. Too little and the dough takes over. There's a Goldilocks zone here, plus a small but important question of timing: some toppings go on raw, some go in halfway, some go on after the bake. We'll cover all of that.*
 
 ## Overview
 The Italian phrase that governs pizza topping is *poche cose, ma buone*: few things, but good ones. A great pizza has 3-4 toppings beyond the sauce and cheese, and each is there because it brings something specific. A pizza with eight different toppings tastes muddled at best and like a salad-sandwich at worst.

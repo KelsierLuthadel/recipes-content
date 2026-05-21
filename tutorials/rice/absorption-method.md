@@ -2,7 +2,7 @@
 
 ![Steamed rice](resources/absorption.jpg)
 
-*The fundamental rice-cooking technique: a measured amount of water is fully absorbed by the rice, leaving separate, tender grains. The Indian, Persian and Japanese kitchens all run on it. Get this right and most of the world's rice traditions open up.*
+*This is the method most of the world uses for rice. The rice goes in with the right amount of water, the lid goes on, and nothing leaves the pan. Once you get the ratios right, you can cook rice without thinking about it. It works for basmati next to curry, jasmine next to a Thai dish, and short-grain for sushi.*
 
 ## Overview
 Absorption cooking is the opposite of boiling. There is no draining. The rice goes in with the precise amount of water it needs, the pan is sealed, and the rice cooks until every drop is gone. What you take off the heat is what you serve.

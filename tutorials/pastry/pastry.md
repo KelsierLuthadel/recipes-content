@@ -2,7 +2,7 @@
 
 ![Pastry](resources/pastry.jpg)
 
-*A course on the doughs that underpin patisserie. Shortcrust holds a tart; puff and rough puff lift a vol-au-vent; choux puffs into eclairs and profiteroles; laminated croissant dough yields layered breakfast pastries; filo wraps the Mediterranean and Middle Eastern world. Six doughs, five techniques, dozens of finished bakes.*
+*Six doughs cover most of the patisserie world. Shortcrust for tarts, puff for vol-au-vents, choux for eclairs, croissant dough for the breakfast pastries, filo for baklava and bourekas. Each one has its own quirks, but the rules behind them are surprisingly few. Get to know them and a lot of impressive-looking baking turns out to be quite friendly.*
 
 ## Overview
 Pastry sits between bread and cake. Bread is leavened; cake is aerated chemically. Pastry is layered, laminated or rubbed-in to deliver crispness, shortness or flakiness, with butter (or another solid fat) doing most of the structural work. Get the fat-handling right and the dough behaves; get it wrong and the pastry is tough, greasy or collapses.

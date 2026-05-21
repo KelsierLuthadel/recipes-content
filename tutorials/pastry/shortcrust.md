@@ -2,7 +2,7 @@
 
 ![Shortcrust](resources/shortcrust.jpg)
 
-*The everyday pie and tart base. Half flour, half its weight in cold butter, just enough water to bring it together. The technique is the rub-in, the rule is cold-everything, the failure mode is over-handling. Master this dough and most of the European pie canon opens up.*
+*Shortcrust is the friendly workhorse of pastry. Half flour, half cold butter, a splash of water, almost no handling. Once you get the rub-in into your fingers and the cold-everything rule into your bones, you can make a tart, a pie or a quiche without much fuss. It's a forgiving dough as long as you stop fiddling with it.*
 
 ## Overview
 Shortcrust gets its name from its texture: short, meaning crumbly and tender rather than chewy or flaky. The shortness comes from butter coating the flour particles so the gluten can never fully develop. The crumbly bite is the result of pockets of fat between layers of flour-and-water; the lack of gluten means the dough sits down rather than shrinking back when rolled.

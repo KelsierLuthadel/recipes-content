@@ -2,7 +2,7 @@
 
 ![Thai curry](resources/course.jpg)
 
-*The system that makes Thai curry-house cooking possible. Five pastes (green, red, yellow, massaman, panang) covering most of the canon. Each paste is pounded once, refrigerated for weeks, and combined with coconut milk and a protein to plate a finished curry in 10 minutes. Different system from the BIR curry course, same payoff: prep-once, cook-fast.*
+*Five pastes (green, red, yellow, massaman, panang) cover most of the Thai curry world. Pound each one once, keep it in the fridge for a few weeks, and you can plate a finished curry in ten minutes by combining the paste with coconut milk and whatever protein's in the fridge. Different system from BIR, same comforting principle: prep once, cook fast.*
 
 ## Overview
 Thai curry runs on pastes the way BIR curry runs on base gravy. A curry paste is a pounded blend of fresh aromatics (lemongrass, galangal, kaffir lime, garlic, shallot) plus dried spices (coriander, cumin, white pepper) plus chillies (fresh for green; dried for red, yellow, massaman). Each paste has its own signature; together they cover almost every named Thai curry on a restaurant menu.

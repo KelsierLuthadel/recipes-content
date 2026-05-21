@@ -2,7 +2,7 @@
 
 ![Set cream](resources/mousses.jpg)
 
-*The cream-centred desserts. Creme brulee, creme caramel, panna cotta, chocolate mousse, fruit mousse, bavarois. All built on the same egg-yolk + dairy + setting-agent technique covered in the [eggs course / custards](../eggs/custards.md) page; this page is about the finished forms.*
+*The desserts where cream is the whole point. Creme brulee, creme caramel, panna cotta, chocolate mousse, bavarois. The underlying technique (yolks, dairy, a setting agent, gentle heat) is covered in the [eggs course / custards](../eggs/custards.md) page. This one's about turning those creams into something you'd plate up.*
 
 ## Overview
 Set creams and mousses sit at the cream-rich end of patisserie. No pastry, no sponge; just an aerated or set-firm cream as the entire dessert.

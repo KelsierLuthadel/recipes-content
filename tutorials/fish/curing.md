@@ -2,7 +2,7 @@
 
 ![Cured salmon](resources/curing.jpg)
 
-*Raw preparations where salt or acid "cooks" the fish without heat. Gravlax (salt and sugar cure, 24-48 hours; produces dense silky raw fish), ceviche (citrus juice marinade, 20 minutes; produces opaque "cooked-feeling" fish), tartare (raw, chopped, dressed). Once you know the technique, smoked salmon and supermarket sashimi become unnecessary.*
+*Salt and citrus can both "cook" fish without any heat at all. Gravlax (salt and sugar, 24 hours, dense silky fish), ceviche (lime juice, twenty minutes, opaque and bright), tartare (raw, chopped, dressed). Make gravlax once and you'll wonder why anyone buys smoked salmon.*
 
 ## Overview
 Cured and raw fish preparations rely on two transformations:

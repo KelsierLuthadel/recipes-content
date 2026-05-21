@@ -2,7 +2,7 @@
 
 ![Rice](resources/boiled.jpg)
 
-*The pasta-style cooking method: rice goes into plenty of boiling water, drains when al dente. Faster than absorption, more forgiving, but loses some aromatic compounds with the cooking water. The right choice for biryani layers, rice salads and any time you need par-cooked rice as a stepping stone.*
+*Treat rice like pasta: a big pan of boiling water, in it goes, drain when it's done. It's the most forgiving method going, hard to mess up, and the right call any time you need rice that's only half-cooked (biryani layers especially) or for a rice salad that wants clean separate grains.*
 
 ## Overview
 Boiled rice (also called pasta-method, or excess-water method) treats rice the way you treat dried pasta. A big pan of water comes to a rolling boil, the rice goes in, you cook to taste, you drain the water away. No measured ratio, no lid, no rest period.

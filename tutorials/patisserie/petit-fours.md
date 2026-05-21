@@ -2,7 +2,7 @@
 
 ![Petit fours](resources/petit-fours.jpg)
 
-*The small bites served with coffee at the end of a French meal. Macarons, financiers, madeleines, palmiers, friands, tuiles, sables, truffles. Each is a self-contained dessert in miniature. Often the hardest patisserie to master per gram of product.*
+*The small things that arrive with coffee at the end of a French meal. Macarons, financiers, madeleines, palmiers, friands, tuiles, sables, truffles. They look simple and they're not, particularly. Every flaw shows on something this small, but the pay-off is making people happy with two bites.*
 
 ## Overview
 Petit fours ("little ovens") are the bite-sized patisserie. They're served after the main dessert, with coffee or tea, often as a small plate of 3-5 varieties. The size is the point: each is one or two bites, perfectly executed, dense with flavour.

@@ -2,7 +2,7 @@
 
 ![Burrata pizza](resources/cheese.jpg)
 
-*The third axis of a pizza. Mozzarella vs fior di latte vs burrata vs the rest. Hot melt vs cold finish. What to scatter, what to torn-place, what to omit. Get the cheese right and the pizza eats well; get it wrong and the sauce-and-toppings hardly matter.*
+*Cheese is the third axis of a pizza, and it can carry or sink the whole thing. Should you use bufala or fior di latte? Where does burrata fit in? Is some cheese best added after the bake? This page sorts out which goes with what and how much of any of them you actually want.*
 
 ## Overview
 Cheese on a pizza does three jobs at once: melts and binds the toppings together; adds salt and creaminess; browns to develop the caramelised colour patches that read as "well-baked". Different cheeses do these jobs in different proportions, and most home pizzas suffer from using the wrong cheese rather than the wrong amount.

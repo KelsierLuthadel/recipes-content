@@ -2,7 +2,7 @@
 
 ![Bread shapes](resources/shapes.jpg)
 
-*Ten classic loaf shapes, grouped by technique. Each shape needs its own handling at the proving and shaping stage, and each scores differently. The shaping pages in the bread-pasta section have the step-by-step technique for every shape; this page sorts them by what they teach.*
+*Ten classic loaf shapes, all built from the same dough. Once you can tighten a ball of dough properly, every other shape becomes a variation on that one move. This page sorts them by what they teach so you can work through them in an order that builds on itself.*
 
 ## Overview
 Bread shape is not just decorative. The shape determines how the dough proves (rounds rise upward, batards rise outward), how the crust browns (more surface area means more crust), how the loaf eats (slices vs torn pieces) and how the score behaves in the oven. Once you have made a couple of loaves to a single shape, picking up new shapes is just learning new hand movements; the underlying dough is the same.

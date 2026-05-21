@@ -2,7 +2,7 @@
 
 ![Bread](resources/sourdough.jpg)
 
-*Sourdough is bread leavened by a wild-yeast-and-bacteria starter instead of commercial yeast. The starter is alive, needs feeding, and is the source of the trademark tang. This page covers how to keep one alive, how to build a levain from it, and the longer schedule sourdough needs.*
+*Sourdough has a reputation for being complicated, and honestly it's more about patience than skill. You're keeping a tiny ecosystem alive in a jar, feeding it once or twice a week, and letting it do most of the work for you. This page covers how to start one, how to keep it happy, and how to fit a sourdough bake around the rest of your life.*
 
 ## Overview
 A sourdough loaf has the same four ingredients as any other bread (flour, water, salt, leaven), but the leaven is different. Instead of a teaspoon of dried yeast, you build it from a wild-yeast starter that you maintain in a jar on your counter. The starter contains its own wild yeasts and lactic-acid bacteria. The yeasts make the dough rise; the bacteria produce the acids that give sourdough its characteristic tang.

@@ -2,7 +2,7 @@
 
 ![Pilau Rice](resources/pilaf.jpg)
 
-*Rice fried first in ghee or oil with whole spices, then cooked by absorption. The frying step coats every grain in flavoured fat, which keeps them separate during the cook and adds a nutty toast that no other method gives. Used across Persia, India, the Levant, Central Asia and East Africa.*
+*Pilaf is rice with a head start: a quick fry in fat with whole spices before any water touches it. The grains pick up flavour, stay separate as they cook, and gain a nutty edge that plain steamed rice never quite gets. Persians, Indians, Afghans, Turks and East Africans all have their own version, and once you've got the basic move, theirs slot right in.*
 
 ## Overview
 Pilaf (also spelled pilau, pulao, polow, plov, depending on the cuisine) is the most versatile of the rice methods. It is the standard for everyday eating across an enormous swathe of the world: from Iranian polo through Indian pilau, Lebanese rice-and-vermicelli, Afghan kabuli pulao, Uzbek plov, East African pilau and Turkish pilav. Every cuisine has its own version, but they share the same two-step technique:

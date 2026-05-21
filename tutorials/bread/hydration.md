@@ -2,7 +2,7 @@
 
 ![Dough hydration](resources/hydration.jpg)
 
-*The single biggest variable in bread-making. Higher hydration means a more open crumb, a chewier crust, a more difficult dough to handle. This page explains the trade-offs and how to handle a sticky dough without adding flour.*
+*If your bread feels heavy or dense, hydration is probably the reason. Wetter doughs make better loaves, but they also feel a bit alarming on the hands. We'll walk through what hydration actually means, why a sticky dough is the sign of something going right, and how to handle one without reaching for extra flour.*
 
 ## Overview
 Hydration is the weight of water in a dough expressed as a percentage of the weight of flour. A dough made with 350 g flour and 245 g water is 70% hydration. A baguette dough at 75% is wetter and harder to handle than a sandwich loaf at 60%. The hydration you choose shapes the finished crumb: low hydration gives a tight, sliceable, sandwich-style crumb; high hydration gives the airy, irregular holes of a ciabatta or sourdough.
