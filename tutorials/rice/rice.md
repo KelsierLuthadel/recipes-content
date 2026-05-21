@@ -1,6 +1,6 @@
 # Rice Course
 
-![Steamed rice](../../cuisine/indian/rice/resources/steamed-rice.jpg)
+![Steamed rice](resources/course.jpg)
 
 *The four classic rice-cooking methods compared: absorption, boiled, pilaf and fried. What each gives you, when to reach for it, and why your rice will be better when you stop using the same technique for every cuisine.*
 

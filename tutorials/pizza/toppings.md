@@ -1,6 +1,6 @@
 # Toppings
 
-![Margherita](../../cuisine/italian/pizza/resources/margherita.jpg)
+![Margherita](resources/toppings.jpg)
 
 *The balance question. Too much topping turns the pizza into a sandwich on bread. Too little leaves the dough dominant. This page covers what to layer, how much, and which toppings go in raw vs cooked-first vs added after the bake.*
 

@@ -1,6 +1,6 @@
 # Pilaf
 
-![Pilau Rice](../../cuisine/indian/rice/resources/steamed-rice.jpg)
+![Pilau Rice](resources/pilaf.jpg)
 
 *Rice fried first in ghee or oil with whole spices, then cooked by absorption. The frying step coats every grain in flavoured fat, which keeps them separate during the cook and adds a nutty toast that no other method gives. Used across Persia, India, the Levant, Central Asia and East Africa.*
 

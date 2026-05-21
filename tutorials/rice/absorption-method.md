@@ -1,6 +1,6 @@
 # Absorption Method
 
-![Steamed rice](../../cuisine/indian/rice/resources/steamed-rice.jpg)
+![Steamed rice](resources/absorption.jpg)
 
 *The fundamental rice-cooking technique: a measured amount of water is fully absorbed by the rice, leaving separate, tender grains. The Indian, Persian and Japanese kitchens all run on it. Get this right and most of the world's rice traditions open up.*
 

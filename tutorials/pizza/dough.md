@@ -1,6 +1,6 @@
 # Dough
 
-![Pizza dough](../../cuisine/italian/pizza/resources/basic-pizza-dough.jpg)
+![Pizza dough](resources/dough.jpg)
 
 *The base under the whole thing. Five ingredients, two days, an open crumb with crisp underside and a charred puffy rim. Most of the work happens during the cold ferment, which is also when most home recipes go wrong.*
 

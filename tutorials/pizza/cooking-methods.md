@@ -1,6 +1,6 @@
 # Cooking Methods
 
-![Pizza in oven](../../cuisine/italian/pizza/resources/margherita.jpg)
+![Pizza in oven](resources/oven.jpg)
 
 *The bake. Home oven, pizza stone, pizza steel, outdoor pizza oven, frying pan. Temperature targets and timing for each. The single biggest variable separating restaurant pizza from home pizza is heat: most home ovens cannot match the 450°C of a wood-fired oven, and the techniques here close the gap.*
 

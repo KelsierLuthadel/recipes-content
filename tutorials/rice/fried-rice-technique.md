@@ -1,6 +1,6 @@
 # Fried Rice Technique
 
-![Fried rice](../../cuisine/chinese/resources/fried-rice.jpg)
+![Fried rice](resources/fried.jpg)
 
 *The wet, sticky fried rice most home cooks produce comes from one mistake: using freshly cooked rice. Day-old rice from the fridge is the trick. This page covers why, what else changes, and the wok technique that gives the dish its smoke-and-snap character.*
 

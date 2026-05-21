@@ -1,6 +1,6 @@
 # Pizza Course
 
-![Margherita](../../cuisine/italian/pizza/resources/margherita.jpg)
+![Margherita](resources/making.jpg)
 
 *A pizza-making course. Dough, sauce, toppings, cheese, oven. Each part is simple on its own; the magic is in how they fit together. Built on the canonical pizzas in the Italian section.*
 

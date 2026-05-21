@@ -1,6 +1,6 @@
 # Boiled Rice
 
-![Rice](../../cuisine/indian/rice/resources/steamed-rice.jpg)
+![Rice](resources/boiled.jpg)
 
 *The pasta-style cooking method: rice goes into plenty of boiling water, drains when al dente. Faster than absorption, more forgiving, but loses some aromatic compounds with the cooking water. The right choice for biryani layers, rice salads and any time you need par-cooked rice as a stepping stone.*
 

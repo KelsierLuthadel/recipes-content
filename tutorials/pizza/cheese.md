@@ -1,6 +1,6 @@
 # Cheese
 
-![Burrata pizza](../../cuisine/italian/pizza/resources/burrata-pizza.jpg)
+![Burrata pizza](resources/cheese.jpg)
 
 *The third axis of a pizza. Mozzarella vs fior di latte vs burrata vs the rest. Hot melt vs cold finish. What to scatter, what to torn-place, what to omit. Get the cheese right and the pizza eats well; get it wrong and the sauce-and-toppings hardly matter.*
 
