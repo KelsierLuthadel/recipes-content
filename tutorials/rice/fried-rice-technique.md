@@ -11,7 +11,7 @@ The thing the technique is NOT is "rice cooked in a frying pan". Freshly cooked 
 
 ## Why Day-Old Rice
 
-Freshly cooked rice is full of water and surface starch. The starch is gelatinised (soft, sticky) from the cooking. Try to fry it and the starch gloms everything together; the water steams off and turns the rice mushy.
+Freshly cooked rice is full of water and surface starch. The starch is gelatinised (soft, sticky) from the cooking. Try to fry it and the starch glues everything together; the water steams off and turns the rice mushy.
 
 After a night in the fridge, two things have happened:
 
