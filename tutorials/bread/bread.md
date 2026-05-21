@@ -19,7 +19,7 @@ You can read this course in order, or jump straight to the technique you need. T
 ### 2. Dough Types
 - [Sourdough Basics](sourdough.md): keeping a starter alive, building a levain, the longer schedule.
 - [Enriched Doughs](enriched-doughs.md): butter, eggs and sugar, and what they do to the rise.
-- [Pre-Ferments](../../bread-pasta/making-bread/making-bread.md): poolish, biga and starter doughs from the introductory guide.
+- [Poolish](../../bread-pasta/poolish.md): the long-fermented French pre-ferment for baguettes and rustic loaves.
 
 ### 3. Shaping and Baking
 - [Scoring and Oven Spring](scoring.md): why scored loaves bloom, where to cut, how deep.
