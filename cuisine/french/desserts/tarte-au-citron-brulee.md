@@ -13,7 +13,7 @@ A bright lemon tart with a crisp sweet shortcrust shell and a creamy lemon filli
 
 ## Ingredients
 ### Pastry
-- 280 grams [Sweet Shortcrust](../../baking/pastry/sweet-short-pastry.md)
+- 280 grams [Sweet Shortcrust](../../../baking/pastry/sweet-short-pastry.md)
 - eggwash (1 egg yolk mixed with 1 tablespoon milk)
 
 ### Lemon filling

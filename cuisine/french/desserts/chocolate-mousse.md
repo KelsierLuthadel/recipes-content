@@ -27,7 +27,7 @@
 
 ### Chocolate mousse
 - 200 grams dark chocolate (chopped)
-- 150 ml [crème anglaise](../../baking/cremes/creme-anglaise.md)
+- 150 ml [crème anglaise](../../../baking/cremes/creme-anglaise.md)
 - 240 ml double cream
 
 ## Overview

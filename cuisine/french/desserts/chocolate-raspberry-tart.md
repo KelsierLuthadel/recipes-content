@@ -14,7 +14,7 @@ This elegant tart marries crisp sweet shortcrust pastry with a glossy dark choco
 
 ## Ingredients
 ### Pastry
-- 280 grams [Sweet Shortcrust](../../baking/pastry/sweet-short-pastry.md)
+- 280 grams [Sweet Shortcrust](../../../baking/pastry/sweet-short-pastry.md)
 
 ### Filling
 - 200 grams fresh raspberries

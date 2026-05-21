@@ -13,13 +13,13 @@ This apricot tart uses a sweet shortcrust pastry shell filled with crème pâtis
 
 ## Ingredients
 ### Pastry
-- 220 grams [Sweet shortcrust pastry](../../baking/pastry/sweet-short-pastry.md)
+- 220 grams [Sweet shortcrust pastry](../../../baking/pastry/sweet-short-pastry.md)
 
 ### Filling
 - 8 very ripe apricots (halved and stoned)
 - 80 grams caster sugar
-- 220 grams [Sweet shortcrust pastry](../../baking/pastry/sweet-short-pastry.md)
-- 350 grams [crème pâtissière](../../baking/cremes/creme-patissiere.md)
+- 220 grams [Sweet shortcrust pastry](../../../baking/pastry/sweet-short-pastry.md)
+- 350 grams [crème pâtissière](../../../baking/cremes/creme-patissiere.md)
 - 8 very ripe apricots (halved and stoned)
 - 80 grams caster sugar
 

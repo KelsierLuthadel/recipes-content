@@ -15,14 +15,14 @@ These rhubarb tartlets feature sweet shortcrust cases filled with crème pâtiss
 
 ## Ingredients
 ### Pastry
-- 220 grams [Sweet shortcrust pastry](../../baking/pastry/sweet-short-pastry.md)
+- 220 grams [Sweet shortcrust pastry](../../../baking/pastry/sweet-short-pastry.md)
 
 ### Rhubarb filling
 - 400 grams tender young rhubarb
 - 140 grams caster sugar
 - 1 juicy orange (large)
 - 40 grams butter
-- 120 grams [crème pâtissière](../../baking/cremes/creme-patissiere.md)
+- 120 grams [crème pâtissière](../../../baking/cremes/creme-patissiere.md)
 
 ## Method
 ### Prepare the pastry

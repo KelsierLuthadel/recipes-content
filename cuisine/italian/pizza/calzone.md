@@ -12,7 +12,7 @@ The calzone is pizza's elegant cousin, pizza dough folded like an envelope and s
 ## Ingredients
 
 ### Pizza Dough
-- 320 grams [pizza dough](../../bread-pasta/pizza-dough.md) (prepared and rested)
+- 320 grams [pizza dough](../../../bread-pasta/pizza-dough.md) (prepared and rested)
 
 ### Filling
 - 200 grams cherry tomatoes (halved)

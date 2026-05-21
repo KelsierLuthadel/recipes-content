@@ -15,7 +15,7 @@ This sweet custard tart combines a crisp flan pastry case with a smooth vanilla 
 
 ## Ingredients
 ### Pastry
-- 260 grams [flan pastry](../../baking/pastry/flan-pastry.md)
+- 260 grams [flan pastry](../../../baking/pastry/flan-pastry.md)
 
 ### Custard filling
 - 5 egg yolks

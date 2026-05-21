@@ -13,7 +13,7 @@ This apple tart features a buttery sweet shortcrust pastry filled with a vanilla
 
 ## Ingredients
 ### Pastry
-- 300 grams [shortcrust pastry](../../baking/pastry/shortcrust-pastry.md)
+- 300 grams [shortcrust pastry](../../../baking/pastry/shortcrust-pastry.md)
 
 ### Apple compote
 - 6 dessert apples (preferably Cox's)

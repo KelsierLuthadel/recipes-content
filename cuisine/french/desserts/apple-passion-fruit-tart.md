@@ -15,10 +15,10 @@ These tartlets combine flaky puff pastry with a creamy crème pâtissière and d
 
 ## Ingredients
 ### Pastry
-- 380 grams [classic puff pastry](../../baking/pastry/puff-pastry.md)
+- 380 grams [classic puff pastry](../../../baking/pastry/puff-pastry.md)
 
 ### Filling
-- 180 grams [crème pâtissière](../../baking/cremes/creme-patissiere.md)
+- 180 grams [crème pâtissière](../../../baking/cremes/creme-patissiere.md)
 - 3 apples (medium, preferably Cox's)
 - 60 grams caster sugar
 

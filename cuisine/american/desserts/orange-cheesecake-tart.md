@@ -13,7 +13,7 @@ This orange cheesecake tart combines a shortcrust pastry case with a creamy, cit
 
 ## Ingredients
 ### Pastry
-- 280 grams [shortcrust pastry](../../baking/pastry/shortcrust-pastry.md)
+- 280 grams [shortcrust pastry](../../../baking/pastry/shortcrust-pastry.md)
 
 ### Filling
 - 4 oranges

@@ -13,7 +13,7 @@ This is a pizza with substance and spice. A generous topping of seasoned beef an
 ## Ingredients
 
 ### Pizza Base
-- 220 grams [pizza dough](../../bread-pasta/pizza-dough.md) (prepared and rested)
+- 220 grams [pizza dough](../../../bread-pasta/pizza-dough.md) (prepared and rested)
 
 ### Tomato Sauce (Passata)
 **Either:**

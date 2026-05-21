@@ -12,7 +12,7 @@ This is the French answer to Neapolitan pizza. Where Italian pizza celebrates to
 ## Ingredients
 
 ### Pizza Dough
-- 200 grams [pizza dough](../../bread-pasta/pizza-dough.md) (prepared and rested)
+- 200 grams [pizza dough](../../../bread-pasta/pizza-dough.md) (prepared and rested)
 
 ### Caramelized Onions
 - 100 ml light extra virgin olive oil

@@ -15,7 +15,7 @@ Elegant individual flans featuring fresh shellfish, mussels, scallops, and lango
 
 ## Ingredients
 ### Pastry base
-- 375 g [shortcrust pastry](../../baking/pastry/shortcrust-pastry.md)
+- 375 g [shortcrust pastry](../../../baking/pastry/shortcrust-pastry.md)
 
 ### Seafood
 - 24 fresh mussels (cleaned)

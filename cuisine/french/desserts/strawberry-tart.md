@@ -15,11 +15,11 @@ This strawberry tart features a crisp sweet shortcrust shell filled with a light
 
 ## Ingredients
 ### Pastry
-- 250 grams [Sweet shortcrust pastry](../../baking/pastry/sweet-short-pastry.md)
+- 250 grams [Sweet shortcrust pastry](../../../baking/pastry/sweet-short-pastry.md)
 
 ### Filling
-- 300 grams [crème chantilly ](../../baking/cremes/creme-chantilly.md)
-- 150 grams [crème pâtissière](../../baking/cremes/creme-patissiere.md)
+- 300 grams [crème chantilly ](../../../baking/cremes/creme-chantilly.md)
+- 150 grams [crème pâtissière](../../../baking/cremes/creme-patissiere.md)
 
 ### Topping
 - 750 grams very ripe fragrant strawberries

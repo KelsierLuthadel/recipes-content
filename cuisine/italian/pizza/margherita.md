@@ -13,7 +13,7 @@ This is the essence of pizza. A thin, crisp crust topped with a simple tomato sa
 ## Ingredients
 
 ### Pizza Base
-- 220 grams [pizza dough](../../bread-pasta/pizza-dough.md) (prepared and rested)
+- 220 grams [pizza dough](../../../bread-pasta/pizza-dough.md) (prepared and rested)
 
 ### Tomato Sauce (Passata)
 - 200 grams plum tomatoes (tinned)

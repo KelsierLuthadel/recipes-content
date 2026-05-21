@@ -15,7 +15,7 @@ A rustic yet sophisticated tart featuring slowly roasted cherry tomatoes with fr
 
 ## Ingredients
 ### Pastry
-- 260 g [shortcrust pastry](../../baking/pastry/shortcrust-pastry.md)
+- 260 g [shortcrust pastry](../../../baking/pastry/shortcrust-pastry.md)
 
 ### Base
 - 4 tbsp white rice

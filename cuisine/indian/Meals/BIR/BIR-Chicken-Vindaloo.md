@@ -23,12 +23,12 @@ The fiery Goan original: a vinegar-and-garlic-marinated meat (traditionally pork
 - 2 Scotch Bonnet chillies (finely chopped)
 - 1 tsp Ground Turmeric
 - 2 Tbsp hot Chilli powder
-- 2 Tbsp [Mixed Powder](../Spice-Mixes/mixed-powder.md)
-- 125ml [tomato purée](../Base/tomato-puree.md)
+- 2 Tbsp [Mixed Powder](../../Spice-Mixes/mixed-powder.md)
+- 125ml [tomato purée](../../Base/tomato-puree.md)
 - 2 tsp sugar
 ### Step 3
 - 600ml (2 ½ Cups) [Curry Base Gravy](../../Base/curry-base.md)
-- 8 pieces of [pre-cooked Chicken](../Base/pre-cooked-chicken.md) or [pre-cooked Lamb](../Base/pre-cooked-lamb.md)
+- 8 pieces of [pre-cooked Chicken](../../Base/pre-cooked-chicken.md) or [pre-cooked Lamb](../../Base/pre-cooked-lamb.md)
 ### Step 4
 - 2 Tbsp white wine vinegar
 - 1 tsp Dried Fenugreek leaves
