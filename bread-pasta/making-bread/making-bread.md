@@ -3,7 +3,8 @@
 
 *A guide to bread-making fundamentals: flour, water, salt and yeast turned into a loaf through mixing, kneading, proving and baking.*
 
-There is nothing quite like the tantalising aroma of freshly baked bread, taking that first bite through the delicate crust into the warm soft fluffy body. Making bread this fine however, is an art usually held dear to the artisan baker. I'd like to share with you a few time honoured methods to ensure that your bread comes out perfect every time.
+## Overview
+There is nothing quite like the tantalising aroma of freshly baked bread, taking that first bite through the delicate crust into the warm soft fluffy body. Making bread this fine however, is an art usually held dear to the artisan baker. The sections below cover the techniques that make the difference between a dense brick and a properly risen loaf: handling sticky dough, kneading to a clean window, proving and knocking back, weighing water for accuracy, and using a pre-ferment to deepen flavour.
 
 ## Sticky dough
 If you mix the dough with your hands then expect it to be sticky. The biggest mistake most people make is to add more flour to the dough, or to the table when kneading. This will make the finished dough very dense and difficult to eat. If a recipe calls for 350 grams of flour, then 350 grams of flour is all that is needed.

@@ -6,6 +6,9 @@
 
 **Prep Time:** 15 minutes
 
+## Overview
+The lamb equivalent of pre-cooked chicken: diced lamb browned hard with onion and spices, then simmered slow in its own juices until tender and ready for finishing in a BIR-style curry. Lamb needs longer than chicken so the slow cook is non-optional. The reward is meat that is already seasoned through and falls apart in the final sauce. Portion into freezer bags once cool and a quick lamb madras or rogan josh comes together in 10 minutes from a defrosted bag plus a ladle of [base gravy](curry-base.md).
+
 ## Ingredients
 - 3 lbs Lamb, diced with fat and skin cut off
 - 2 onions, finely diced

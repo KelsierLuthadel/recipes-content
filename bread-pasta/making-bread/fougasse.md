@@ -4,7 +4,10 @@
 
 *Provence's slashed flatbread: dough stretched into a leaf or ladder shape with deep cuts.*
 
-A fougasse shape refers to a flattened bread shape with elongated holes, which give the bread the appearance of tree limbs. Fougasse is a popular bread in France and is often compared to focaccia bread of Italy.
+## Overview
+A fougasse shape refers to a flattened bread shape with elongated holes, which give the bread the appearance of tree limbs or a leaf skeleton. Fougasse is a popular bread in France and is often compared to focaccia bread of Italy. The slashed openings expose more surface to the oven, giving the loaf a high crust-to-crumb ratio that is ideal for tearing and dipping.
+
+## Method
 1. The distinctive shape is created by first flattening the dough to about 2 ½ inch thick.
 ![Step 2](resources/fougasse-2.jpg)
 2. Place the dough onto a lightly greased baking sheet and push and shape the dough into a form similar to a long triangle that is curved at the points.     

@@ -8,6 +8,9 @@
 
 **Yield:** 4kg
 
+## Overview
+The foundation sauce behind almost every British-Indian-Restaurant curry. A huge pot of onions is simmered with cumin until completely collapsed, then oil and a small handful of spices go in, then it is blended smooth and held back for service. Once you have a batch in the fridge or freezer, BIR-style curries come together in minutes: a ladle of base into a hot pan with garlic-ginger and spice, then the protein, then finished to order. The sauce itself is mildly sweet and neutral; the character of the finished curry comes from what you do with it at the end.
+
 ## Ingredients
 - 4 kg Onions (roughly chopped)
 - 1 tsp cumin seeds

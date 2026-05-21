@@ -8,6 +8,9 @@
 
 **Cook Time:** 2 hours
 
+## Overview
+A BIR-kitchen staple. Chicken breast is simmered in a deeply spiced onion-and-tomato stock just until it is cooked through, then drained and held back for service. The poaching liquid is reduced down into a concentrated spice stock that gets used in the final curries. Pre-cooking lifts the flavour of every BIR-style curry that follows: the chicken is already seasoned through, and the cooking stock carries spice into the finished sauce. Make a big batch, portion into bags, and freeze.
+
 ## Ingredients
 - 2 Kg Chicken Breasts, cut into bite-sized chunks (approx. 8 per breast)
 - 4 Tbsp Rapeseed oil
