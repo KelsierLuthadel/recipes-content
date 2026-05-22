@@ -43,7 +43,7 @@ A round shallow pan is lined with melted-butter-soaked kataifi (shredded filo), 
 2. Off the heat, stir in the orange-blossom water and rose water if using. Cool to lukewarm; you want the syrup warm but not hot when it meets the hot knafeh, for the best soak.
 
 ### Stage 2 - Prepare the cheese
-1. Shred or coarsely chop the akkawi (or drained mozzarella). Mix in a bowl with the ricotta, sugar and orange-blossom water. The mixture should be soft and spreadable. If using salty akkawi straight from the brine, taste — if too salty, soak in cold water for another hour.
+1. Shred or coarsely chop the akkawi (or drained mozzarella). Mix in a bowl with the ricotta, sugar and orange-blossom water. The mixture should be soft and spreadable. If using salty akkawi straight from the brine, taste - if too salty, soak in cold water for another hour.
 
 ### Stage 3 - Prepare the kataifi
 1. Tip the kataifi into a wide bowl. With your fingertips, gently pull the strands apart so they are fluffy rather than packed. Some people cut the pastry through with kitchen shears 4-5 times to shorten the strands.
@@ -53,11 +53,11 @@ A round shallow pan is lined with melted-butter-soaked kataifi (shredded filo), 
 1. Heat the oven to 200°C fan / 220°C / 425°F.
 2. Press half the buttered kataifi into a 24 cm round baking dish or oven-safe shallow non-stick pan, going up the sides slightly to form a low rim. Press down firmly with the back of a measuring cup so the base is compacted.
 3. Spread the cheese mixture evenly over the base, leaving a 1 cm border.
-4. Cover with the remaining kataifi, pressing down again, this time more gently — you want the top to crisp rather than pack.
+4. Cover with the remaining kataifi, pressing down again, this time more gently - you want the top to crisp rather than pack.
 
 ### Stage 5 - Bake
 1. Bake for 30-35 minutes until the top is deep golden and the edges are visibly crisp. Halfway through, peek and rotate the dish if it is colouring unevenly.
-2. The cheese should be melted and visible bubbling at the edge. If the top has set but is still pale, finish under a hot grill for 1-2 minutes — watch like a hawk.
+2. The cheese should be melted and visible bubbling at the edge. If the top has set but is still pale, finish under a hot grill for 1-2 minutes - watch like a hawk.
 
 ### Stage 6 - Soak and finish
 1. Take the knafeh out and immediately pour the lukewarm syrup all over, evenly. It will hiss. Let it rest for 5 minutes so the syrup soaks through.

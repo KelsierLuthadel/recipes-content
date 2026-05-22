@@ -9,11 +9,10 @@ import { join, basename } from 'node:path';
 
 // Folders we walk recursively for .md, .json, .js, .css files.
 const ROOTS = [
-  'appetizer', 'baking', 'base-ingredients', 'bread-pasta', 'breakfast',
-  'coulis', 'cuisine', 'desert', 'petit-four', 'pies', 'rice', 'salad',
-  'salsa', 'sauces', 'sides', 'snacks', 'soup', 'sponge', 'starter',
-  'stocks', 'tarts', 'vinaigrette',
-  'docs', 'scripts', 'documentation',
+  'baking', 'base-ingredients', 'bread-pasta', 'coulis', 'cuisine',
+  'editorial', 'petit-four', 'sauces', 'sponge', 'stocks', 'tutorials',
+  'vinaigrette',
+  'documentation', 'scripts',
 ];
 
 // Standalone files at the repo root that aren't inside a walked folder.

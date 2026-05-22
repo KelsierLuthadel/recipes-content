@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A two-stage dish. First, thin crepes (much thinner than a pancake — almost see-through) cooked one side only on a buttered pan, stacked under a clean cloth. Then a filling of farmer cheese (or ricotta drained well) mashed with egg yolk, sugar, vanilla and a little lemon zest. A heaping tablespoon of filling on the cooked side of each crepe, folded into a tight envelope, and fried briefly in butter on both sides until golden. Served warm with cold sour cream and a spoon of red-berry compote.
+A two-stage dish. First, thin crepes (much thinner than a pancake - almost see-through) cooked one side only on a buttered pan, stacked under a clean cloth. Then a filling of farmer cheese (or ricotta drained well) mashed with egg yolk, sugar, vanilla and a little lemon zest. A heaping tablespoon of filling on the cooked side of each crepe, folded into a tight envelope, and fried briefly in butter on both sides until golden. Served warm with cold sour cream and a spoon of red-berry compote.
 
 ## Ingredients
 
@@ -43,7 +43,7 @@ A two-stage dish. First, thin crepes (much thinner than a pancake — almost see
 ### Stage 1 - Mix and rest the batter
 1. In a wide bowl, whisk the flour and salt. Make a well, crack in the eggs, and whisk in.
 2. Add the milk in three pours, whisking smooth between each. Whisk in the melted butter, sugar and vanilla.
-3. The batter should be the consistency of single cream — thinner than pancake batter. Strain through a sieve if any lumps remain. Cover and rest for 30 minutes; this relaxes the gluten so the crepes are tender, not rubbery.
+3. The batter should be the consistency of single cream - thinner than pancake batter. Strain through a sieve if any lumps remain. Cover and rest for 30 minutes; this relaxes the gluten so the crepes are tender, not rubbery.
 
 ### Stage 2 - Cook the crepes
 1. Heat a 22 cm non-stick frying pan over a medium heat. Wipe the inside with a buttered paper towel.
@@ -72,7 +72,7 @@ A two-stage dish. First, thin crepes (much thinner than a pancake — almost see
 ## Notes
 - Farmer cheese (sometimes called "twaróg" in Polish shops, or "tvorog" in Russian ones) is the canonical filling and worth tracking down. Drained ricotta is the most accessible substitute; well-drained full-fat cottage cheese also works, blitzed briefly in a food processor for a smoother texture.
 - For a savoury version, omit the sugar and vanilla, add 100 g grated gruyere or a handful of chopped chives. Serve with apple sauce instead of berries.
-- Blintzes can be assembled hours ahead and chilled, then fried just before serving. They also freeze well once assembled (before the fry stage) — fry from frozen with the heat dropped slightly, adding 2 minutes per side.
+- Blintzes can be assembled hours ahead and chilled, then fried just before serving. They also freeze well once assembled (before the fry stage) - fry from frozen with the heat dropped slightly, adding 2 minutes per side.
 
 ## Serving
 Two or three to a plate, warm, with cold sour cream and berry compote. The temperature contrast is the point: hot crepe, warm cheese, cold cream, cold-tart berries. On the Shavuot table, often the centrepiece of an entirely dairy meal.

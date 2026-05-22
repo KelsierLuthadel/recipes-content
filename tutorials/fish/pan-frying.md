@@ -15,12 +15,12 @@ Three things matter:
 ## Best Fish for Pan-Frying
 
 Skin-on fillets of:
-- **Sea bass** — the standard. Thin skin crisps to glass-shard crackle.
-- **Salmon** — fatty, forgiving, beautiful golden skin.
-- **Cod / hake** — meaty white fish. Skin slightly less dramatic but excellent.
-- **Mackerel** — oily; skin crisps to pavement-tile crunch.
-- **Bream** — similar to bass.
-- **Snapper, gurnard, John Dory** — restaurant fish, all suit pan-frying.
+- **Sea bass** - the standard. Thin skin crisps to glass-shard crackle.
+- **Salmon** - fatty, forgiving, beautiful golden skin.
+- **Cod / hake** - meaty white fish. Skin slightly less dramatic but excellent.
+- **Mackerel** - oily; skin crisps to pavement-tile crunch.
+- **Bream** - similar to bass.
+- **Snapper, gurnard, John Dory** - restaurant fish, all suit pan-frying.
 
 Skinless fillets work but you miss the best part of the dish. Sole, plaice, monkfish are usually cooked skinless.
 

@@ -7,11 +7,11 @@ kind: religious
 origin: Muslim world
 ---
 
-Eid al-Fitr — the Festival of Breaking the Fast — closes the month of Ramadan with a morning of sweet food. The first proper breakfast in thirty days is not a feast of meat: it is bowls of sweet vermicelli, plates of date cookies, glasses of milky tea and dates from the silver bowl on the side table. The cooking is gentle, family-quiet, gradual.
+Eid al-Fitr - the Festival of Breaking the Fast - closes the month of Ramadan with a morning of sweet food. The first proper breakfast in thirty days is not a feast of meat: it is bowls of sweet vermicelli, plates of date cookies, glasses of milky tea and dates from the silver bowl on the side table. The cooking is gentle, family-quiet, gradual.
 
 The canonical Eid al-Fitr sweet varies by household: Pakistani and North Indian families serve sheer khurma or sevaiyan (both vermicelli-and-milk preparations, one richer and pudding-like, the other drier and tangled). Levantine households make maamoul, the date-or-pistachio-filled semolina cookies that stack on trays for visiting relatives. Turkish kitchens turn out baklava trays. Everyone serves dates, milky tea, and a slow rotation of small sweet things.
 
-Light savoury dishes turn up later — samosas, light biryanis, snacks easy to share when the visiting starts. But the morning belongs to the sweets.
+Light savoury dishes turn up later - samosas, light biryanis, snacks easy to share when the visiting starts. But the morning belongs to the sweets.
 
 ## Recipes
 

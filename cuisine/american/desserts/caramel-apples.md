@@ -49,7 +49,7 @@ A short-cook caramel: butter, brown sugar, cream and a splash of vanilla, brough
 
 ## Notes
 - Bigger apples need more caramel and a longer dip. Six small-to-medium apples is the comfortable batch size for this quantity.
-- For a deeper colour and bitter edge, take the caramel another minute past soft-ball stage, to 125°C — it sets firmer and snappier rather than chewy.
+- For a deeper colour and bitter edge, take the caramel another minute past soft-ball stage, to 125°C - it sets firmer and snappier rather than chewy.
 - A coat of melted chocolate drizzled in lines over the set caramel is the "gourmet" finish; do it once the caramel has cooled completely.
 
 ## Serving

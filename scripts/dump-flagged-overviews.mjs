@@ -12,7 +12,7 @@ const SKIP = new Set(['scripts', 'documentation', 'resources', 'editorial', 'nod
 const PATTERNS = [
   /(?:^|(?<=[.!?]\s))(Cooled|Drained|Mixed|Folded|Sliced|Diced|Chopped|Refrigerated|Chilled|Rested|Baked|Boiled|Simmered|Poached|Fried|Sautéed|Roasted|Toasted|Grilled|Steamed|Whisked|Blended|Stirred|Tossed|Seasoned|Salted|Sweetened|Reduced|Strained|Pulsed|Kneaded|Shaped|Rolled|Stuffed|Wrapped|Sealed|Cut|Tipped|Inverted|Plated|Served|Eaten|Beaten|Brushed|Spread|Crumbled|Mashed|Glazed|Sprinkled|Scattered|Dusted)\b(?:[^.!?]*?)\./,
   /\b(NEVER|NOT|ALWAYS|MUST|DON'T|DO|ONLY|JUST|EXACTLY|KEY|CRITICAL|ESSENTIAL|REQUIRED|MANDATORY|NEEDS?)\b/,
-  /—/,
+  /-/,
   / - /,
   /\b(?:is|are)\s+the\s+(?:trick|key|point|secret|whole point|signature|defining|crucial bit|hard part)\b/i,
   /(?:^|(?<=[.!?]\s))[A-Z][a-z]+(?:\s[a-z]+){0,2}\./,

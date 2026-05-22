@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-"Jhol" means a thin, soupy gravy, and that's exactly what this dish is — the antithesis of the heavy, cream-rich curry-house style. The base is mustard oil heated to smoking point, then knocked back with whole bay, cinnamon, cardamom and clove. Browned onions, ginger and a measured hand of turmeric give the gravy its colour; tomato is used sparingly, just enough to round the edges. Bone-in chicken and chunky potatoes cook together in a thin broth that you eat with rice, mopping up every drop.
+"Jhol" means a thin, soupy gravy, and that's exactly what this dish is - the antithesis of the heavy, cream-rich curry-house style. The base is mustard oil heated to smoking point, then knocked back with whole bay, cinnamon, cardamom and clove. Browned onions, ginger and a measured hand of turmeric give the gravy its colour; tomato is used sparingly, just enough to round the edges. Bone-in chicken and chunky potatoes cook together in a thin broth that you eat with rice, mopping up every drop.
 
 ## Ingredients
 
@@ -61,11 +61,11 @@
 
 ### Stage 3 - Bloom the whole spices
 1. Drop the bay leaves, cinnamon, cardamom, cloves and (optional) dried red chilli into the same oil.
-2. Sizzle for 30 seconds until fragrant — keep them moving so they don't catch.
+2. Sizzle for 30 seconds until fragrant - keep them moving so they don't catch.
 
 ### Stage 4 - Build the masala
 1. Add the sliced onions and a pinch of salt.
-2. Cook over medium heat for 10 to 12 minutes, stirring often, until deep golden brown — this is where the gravy's depth comes from, so don't rush it.
+2. Cook over medium heat for 10 to 12 minutes, stirring often, until deep golden brown - this is where the gravy's depth comes from, so don't rush it.
 3. Stir in the garlic and ginger paste; cook for 1 minute until the raw edge is gone.
 4. Add the chopped tomato; cook for 4 to 5 minutes, mashing it down with the back of the spoon until it breaks into the oil.
 5. Sprinkle in the turmeric, ground coriander, ground cumin and Kashmiri chilli powder.
@@ -78,22 +78,22 @@
 
 ### Stage 6 - Simmer the jhol
 1. Return the par-fried potatoes to the pan along with the slit green chillies and the sugar.
-2. Pour in the water (or stock) — the gravy should be loose, more broth than sauce.
+2. Pour in the water (or stock) - the gravy should be loose, more broth than sauce.
 3. Bring to a gentle simmer, then lower the heat, cover, and cook for 25 to 30 minutes until the chicken is tender and the potatoes are completely soft.
 4. Stir occasionally to stop anything catching on the base.
 5. Taste and adjust salt.
 
 ### Stage 7 - Finish
-1. Uncover and let the gravy reduce for 2 to 3 minutes if it's still thinner than you'd like (it should stay loose — this isn't a thick masala).
+1. Uncover and let the gravy reduce for 2 to 3 minutes if it's still thinner than you'd like (it should stay loose - this isn't a thick masala).
 2. Sprinkle over the garam masala and dot in the ghee, if using.
 3. Cover and rest off the heat for 5 minutes.
 4. Top with chopped coriander.
 
 ## Notes
-- **Mustard oil is the dish.** Bengali cooking is built on the warmth and pungency of mustard oil; vegetable oil works as a substitute but flattens the flavour noticeably. Always heat it to smoking before anything else goes in — that step turns the raw bite into something gentler and nutty.
+- **Mustard oil is the dish.** Bengali cooking is built on the warmth and pungency of mustard oil; vegetable oil works as a substitute but flattens the flavour noticeably. Always heat it to smoking before anything else goes in - that step turns the raw bite into something gentler and nutty.
 - **Don't skimp on the onion browning.** Deep, dark onions are what give the jhol its colour and savoury backbone. Pale onions = pale, weak gravy.
 - **Bone-in matters.** The bones release gelatin and marrow into the thin gravy as it simmers, giving it the unctuous mouthfeel that's the whole point of a jhol.
-- **Heat level.** The slit green chillies infuse without making the dish very hot. For more punch, leave them whole and bite around them at the table — the Bengali way.
+- **Heat level.** The slit green chillies infuse without making the dish very hot. For more punch, leave them whole and bite around them at the table - the Bengali way.
 
 ## Serving
 Serve with steamed long-grain rice (chelo / plain basmati), a wedge of lemon, and a side of dal. Some salted slices of cucumber or a quick onion-and-green-chilli salad on the side cut through the richness.

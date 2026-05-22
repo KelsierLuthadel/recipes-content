@@ -7,9 +7,9 @@ kind: religious
 origin: Jewish tradition
 ---
 
-Rosh Hashanah, the Jewish New Year, has one organising principle for the cook: anything sweet, anything round. Sliced apples dipped in honey kick off the meal — the canonical opening gesture of the year — and the table goes from there. The challah is round rather than braided, often raisin-studded, glazed with extra honey. Brisket goes in low and slow, often with a sweet-sour braise of dried fruit and red wine. Roast chicken with figs. Honey cake — dense, spiced, dark with treacle — closes the meal.
+Rosh Hashanah, the Jewish New Year, has one organising principle for the cook: anything sweet, anything round. Sliced apples dipped in honey kick off the meal - the canonical opening gesture of the year - and the table goes from there. The challah is round rather than braided, often raisin-studded, glazed with extra honey. Brisket goes in low and slow, often with a sweet-sour braise of dried fruit and red wine. Roast chicken with figs. Honey cake - dense, spiced, dark with treacle - closes the meal.
 
-Pomegranate has its own role: the seeds (variously claimed to number 613, the count of mitzvot) scatter through salads and over the brisket. Tzimmes — slow-cooked carrots and sweet potatoes with prunes — is the side dish that signals the festival as much as the apples do.
+Pomegranate has its own role: the seeds (variously claimed to number 613, the count of mitzvot) scatter through salads and over the brisket. Tzimmes - slow-cooked carrots and sweet potatoes with prunes - is the side dish that signals the festival as much as the apples do.
 
 The cooking is patient and the table reads as gentle: the New Year is a hopeful festival, and the food is hopeful with it. This collection is what's in the catalogue that fits the spread; canonical apple-honey dishes and honey cake are still ahead.
 

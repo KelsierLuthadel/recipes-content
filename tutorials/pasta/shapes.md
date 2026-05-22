@@ -74,7 +74,7 @@ A square or round of dough enclosing a small mound of filling.
 
 **Classical fillings:** ricotta and spinach, ricotta and pumpkin, mushroom and parmigiano, lobster, crab. See: [Crab Ravioli](../../cuisine/italian/crab-ravioli.md).
 
-**Pair with:** brown butter and sage; light tomato; a delicate cream sauce. NOT a heavy ragu — the ravioli is the centrepiece, not the canvas.
+**Pair with:** brown butter and sage; light tomato; a delicate cream sauce. NOT a heavy ragu - the ravioli is the centrepiece, not the canvas.
 
 ### Tortellini (Folded Rings)
 

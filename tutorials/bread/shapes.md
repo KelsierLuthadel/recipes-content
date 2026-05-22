@@ -83,9 +83,9 @@ See: [Braided Loaf](braided.md), [Challah](../../cuisine/israel/side-dishes/chal
 ## Picking a Shape
 
 If you are baking for the first time, work in this order:
-1. **Standard Loaf** — easiest, hardest to mess up.
-2. **Cob** — first round shape, foundation for others.
-3. **Bloomer** — first scoring practice with multiple cuts.
+1. **Standard Loaf** - easiest, hardest to mess up.
+2. **Cob** - first round shape, foundation for others.
+3. **Bloomer** - first scoring practice with multiple cuts.
 
 Then branch out to whichever appeals: French (baguette → épi → fougasse), presentation (braided), variations on round (Coburg, cottage).
 

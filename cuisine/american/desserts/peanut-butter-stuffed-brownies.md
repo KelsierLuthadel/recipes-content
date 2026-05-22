@@ -11,12 +11,12 @@
 **Cook Time:** 32 minutes
 
 ## Overview
-The construction trick is the frozen peanut butter slab: 1 cup of commercial peanut butter spread (the firm processed kind, not natural) gets warmed, spread into a tin, frozen until solid. That slab tucks inside the brownie batter mid-tin. The frozen state stops the peanut butter from melting into the chocolate during the bake — it warms back to soft-set fudge texture by the time the brownie's done. Topped with a drizzle of more peanut butter swirled across the surface, baked until edges are set with a centre jiggle, cooled and chilled until sliceable.
+The construction trick is the frozen peanut butter slab: 1 cup of commercial peanut butter spread (the firm processed kind, not natural) gets warmed, spread into a tin, frozen until solid. That slab tucks inside the brownie batter mid-tin. The frozen state stops the peanut butter from melting into the chocolate during the bake - it warms back to soft-set fudge texture by the time the brownie's done. Topped with a drizzle of more peanut butter swirled across the surface, baked until edges are set with a centre jiggle, cooled and chilled until sliceable.
 
 ## Ingredients
 
 ### The peanut butter slab
-- 1 cup (250 g) smooth peanut butter (commercial spread, not natural — Skippy / Jif / Sun-Pat / similar)
+- 1 cup (250 g) smooth peanut butter (commercial spread, not natural - Skippy / Jif / Sun-Pat / similar)
 - 1 teaspoon flaky sea salt (divided)
 
 ### The brownie batter
@@ -48,8 +48,8 @@ The construction trick is the frozen peanut butter slab: 1 cup of commercial pea
 ### Stage 3 - Make the brownie batter
 1. Combine the butter and dark chocolate chips in a heatproof bowl. Microwave in 30-second bursts, stirring between each, until smooth and glossy. (Or set over a pan of simmering water.)
 2. Stir in the brown sugar until uniform.
-3. Beat in the eggs and vanilla — stir vigorously for 30 seconds. The mixture should look glossy and slightly thickened.
-4. Sift in the flour, cocoa and salt. Fold gently with a spatula until just combined — no streaks.
+3. Beat in the eggs and vanilla - stir vigorously for 30 seconds. The mixture should look glossy and slightly thickened.
+4. Sift in the flour, cocoa and salt. Fold gently with a spatula until just combined - no streaks.
 
 ### Stage 4 - Assemble
 1. Pour half the brownie batter into the prepared tin and smooth into an even layer.
@@ -71,13 +71,13 @@ The construction trick is the frozen peanut butter slab: 1 cup of commercial pea
 3. Cut into 16 squares with a long sharp knife dipped in hot water and wiped dry between cuts.
 
 ## Notes
-- **Commercial peanut butter only**: natural peanut butter (the kind that separates) doesn't freeze to a clean slab — the oil pools and the solid layer is grainy. Skippy, Jif, Sun-Pat (smooth) or any commercial brand with added stabilisers works.
+- **Commercial peanut butter only**: natural peanut butter (the kind that separates) doesn't freeze to a clean slab - the oil pools and the solid layer is grainy. Skippy, Jif, Sun-Pat (smooth) or any commercial brand with added stabilisers works.
 - **The freeze step is non-negotiable**: a soft PB layer melts into the brownie batter during the bake. You need it solid.
 - **Crunchy variant**: replace half the smooth peanut butter in the slab with crunchy. Better texture; same method.
 - **Bigger pan**: a 23 cm tin gives thinner brownies with less PB-to-brownie ratio per square. Reduce the bake time to 26-28 minutes.
 
 ## Serving
-Cold from the fridge, with a glass of cold milk or a strong black coffee. Warm slightly in the microwave (10 seconds) to revive the peanut butter to molten — the molten serve is decadent.
+Cold from the fridge, with a glass of cold milk or a strong black coffee. Warm slightly in the microwave (10 seconds) to revive the peanut butter to molten - the molten serve is decadent.
 
 ## Storage
 - In an airtight container in the fridge for up to 5 days.

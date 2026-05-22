@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A stiff bread dough — much firmer than sandwich bread — kneaded long, given a first rise, divided and shaped into rings, cold-proofed overnight in the fridge for flavour development, then boiled briefly in a sweetened water bath before baking. The boil sets the crust and gives the characteristic shiny mahogany surface; the bake finishes the inside. Topped with seeds while wet so they stick.
+A stiff bread dough - much firmer than sandwich bread - kneaded long, given a first rise, divided and shaped into rings, cold-proofed overnight in the fridge for flavour development, then boiled briefly in a sweetened water bath before baking. The boil sets the crust and gives the characteristic shiny mahogany surface; the bake finishes the inside. Topped with seeds while wet so they stick.
 
 ## Ingredients
 
@@ -36,12 +36,12 @@ A stiff bread dough — much firmer than sandwich bread — kneaded long, given 
 ### Stage 1 - Mix the dough
 1. In a stand-mixer bowl, combine the flour, salt and yeast. Whisk briefly to distribute the yeast evenly.
 2. Pour in the lukewarm water and malt syrup. Mix on low with the dough hook for 2 minutes until the dough comes together as a rough ball.
-3. Switch to medium and knead for 8-10 minutes. The dough will look very firm — much firmer than a sandwich bread dough — and slightly tacky but not sticky. If it climbs the hook in a smooth column, you're done.
+3. Switch to medium and knead for 8-10 minutes. The dough will look very firm - much firmer than a sandwich bread dough - and slightly tacky but not sticky. If it climbs the hook in a smooth column, you're done.
 4. Shape into a ball, place in a lightly oiled bowl, cover, and leave to rise in a warm place for 1 ½ hours, until almost doubled.
 
 ### Stage 2 - Shape
 1. Knock back gently and divide into 8 equal pieces (about 120 g each). Cover the pieces you're not working with under a damp cloth.
-2. Shape each piece: form a smooth tight ball first, then push your thumb through the centre and stretch the hole to about 4 cm across. The dough will spring back — that's fine; the hole grows in the boil. Aim for an even ring, slightly thicker on the sides than the centre.
+2. Shape each piece: form a smooth tight ball first, then push your thumb through the centre and stretch the hole to about 4 cm across. The dough will spring back - that's fine; the hole grows in the boil. Aim for an even ring, slightly thicker on the sides than the centre.
 3. Place shaped bagels on a baking-paper-lined tray, leaving 4 cm between them.
 4. Cover loosely with cling film and refrigerate for at least 8 hours, ideally 12-18. The cold proof builds the bagel's deep, slightly sour flavour and tightens the crumb structure.
 
@@ -55,7 +55,7 @@ A stiff bread dough — much firmer than sandwich bread — kneaded long, given 
 
 ### Stage 4 - Bake
 1. Bake at 230°C fan for 20-25 minutes, until the tops are deep mahogany and the bottoms are firm to a tap. Rotate the tray halfway through for even colour.
-2. Cool on a wire rack for at least 20 minutes before slicing — bagels need to set as they cool, or the crumb is gummy.
+2. Cool on a wire rack for at least 20 minutes before slicing - bagels need to set as they cool, or the crumb is gummy.
 
 ## Notes
 - Malt syrup (also sold as "barley malt syrup") gives bagels their characteristic flavour and crust colour. Find it in health-food shops or the kosher aisle. Honey works as a substitute but the result is sweeter and slightly paler.

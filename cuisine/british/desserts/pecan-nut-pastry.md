@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A puff-pastry plait built around a thick pecan filling — chopped pecans bound with brown sugar, melted butter, golden syrup, egg yolk and a splash of bourbon. The pastry is rolled into a long rectangle, the filling spread down the centre third, the sides cut into diagonal strips and folded over alternately to form the plaited top. Egg-washed, baked until deep golden, glazed with warm sieved apricot jam to set the colour, drizzled with a thin water icing across the centre.
+A puff-pastry plait built around a thick pecan filling - chopped pecans bound with brown sugar, melted butter, golden syrup, egg yolk and a splash of bourbon. The pastry is rolled into a long rectangle, the filling spread down the centre third, the sides cut into diagonal strips and folded over alternately to form the plaited top. Egg-washed, baked until deep golden, glazed with warm sieved apricot jam to set the colour, drizzled with a thin water icing across the centre.
 
 ## Ingredients
 
@@ -39,16 +39,16 @@ A puff-pastry plait built around a thick pecan filling — chopped pecans bound 
 ## Method
 
 ### Stage 1 - Toast and prep the pecans
-1. Heat the oven to 180°C fan / 200°C / 400°F. Scatter the pecans on a tray and toast for 5 minutes, until fragrant. Cool and roughly chop — leave some pieces chunky, take the rest to coarse crumbs.
+1. Heat the oven to 180°C fan / 200°C / 400°F. Scatter the pecans on a tray and toast for 5 minutes, until fragrant. Cool and roughly chop - leave some pieces chunky, take the rest to coarse crumbs.
 2. Set aside 30 g of the chunkiest pieces for the top of the plait.
 
 ### Stage 2 - Make the filling
 1. In a wide bowl, combine the toasted pecans (minus the reserved 30 g), brown sugar, melted butter, golden syrup, egg yolk, bourbon, cinnamon and salt.
-2. Stir until uniformly combined — the mixture should hold together like wet sand. Chill in the fridge for 20 minutes while you prepare the pastry; this firms the filling so it doesn't ooze during baking.
+2. Stir until uniformly combined - the mixture should hold together like wet sand. Chill in the fridge for 20 minutes while you prepare the pastry; this firms the filling so it doesn't ooze during baking.
 
 ### Stage 3 - Roll the pastry
 1. On a lightly floured surface, roll the pastry into a rectangle about 35 x 28 cm and 3-4 mm thick. (If using ready-rolled sheets, lap them together with a seam and roll briefly to weld.)
-2. Lift onto a baking-paper-lined tray. Visually divide the rectangle into thirds lengthways with the back of a butter knife (just press lightly — don't cut through).
+2. Lift onto a baking-paper-lined tray. Visually divide the rectangle into thirds lengthways with the back of a butter knife (just press lightly - don't cut through).
 
 ### Stage 4 - Shape the plait
 1. Spoon the pecan filling down the centre third in an even mound about 2 cm thick. Leave a 2 cm border at the top and bottom of the rectangle.
@@ -64,12 +64,12 @@ A puff-pastry plait built around a thick pecan filling — chopped pecans bound 
 
 ### Stage 6 - Glaze and ice
 1. While the plait is in its last 5 minutes, warm the sieved apricot jam with the water in a small pan, stirring until smooth and pourable.
-2. Take the plait out of the oven. Brush the warm apricot glaze immediately over the surface (avoiding the pecans on top — keep them visible). Let cool on the tray for 10 minutes.
+2. Take the plait out of the oven. Brush the warm apricot glaze immediately over the surface (avoiding the pecans on top - keep them visible). Let cool on the tray for 10 minutes.
 3. Whisk the icing sugar with 1 teaspoon of milk to start; add more drop by drop until you have a thin pourable icing that flows from the spoon in a continuous ribbon.
 4. Drizzle the icing back and forth in zigzag lines across the cooled plait. It will set in 10-15 minutes to a soft sheen.
 
 ### Stage 7 - Slice
-1. Cool to barely warm before slicing — too hot and the filling slumps; cold and the pastry shatters.
+1. Cool to barely warm before slicing - too hot and the filling slumps; cold and the pastry shatters.
 2. Cut diagonally across the plait into 8 slices.
 
 ## Notes
@@ -83,4 +83,4 @@ Warm or at room temperature, cut into slices. Excellent with strong coffee mid-m
 
 ## Storage
 - In an airtight tin at room temperature for 2 days. The pastry softens slightly overnight; refresh in a 150°C oven for 5 minutes.
-- Freezes well after baking, before glazing — wrap tightly, freeze for up to 2 months, defrost in the fridge overnight, refresh and glaze fresh.
+- Freezes well after baking, before glazing - wrap tightly, freeze for up to 2 months, defrost in the fridge overnight, refresh and glaze fresh.

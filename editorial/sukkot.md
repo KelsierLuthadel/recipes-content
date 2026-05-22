@@ -7,11 +7,11 @@ kind: religious
 origin: Jewish tradition
 ---
 
-Sukkot — the Feast of Tabernacles — commemorates the forty years the Israelites spent in the wilderness, sheltering in temporary huts. The observance is to build a sukkah (a roofed structure with a deliberately incomplete top, so the stars can be seen through the schach), and to eat in it for seven days. The roof is laid with palm fronds or cut branches; the walls are decorated with hanging fruit, paper chains, the family's children's drawings.
+Sukkot - the Feast of Tabernacles - commemorates the forty years the Israelites spent in the wilderness, sheltering in temporary huts. The observance is to build a sukkah (a roofed structure with a deliberately incomplete top, so the stars can be seen through the schach), and to eat in it for seven days. The roof is laid with palm fronds or cut branches; the walls are decorated with hanging fruit, paper chains, the family's children's drawings.
 
-The cooking is autumn harvest cooking. Stuffed vegetables — cabbage rolls, stuffed peppers, stuffed onions — are canonical because the wrapping echoes the sukkah's own enclosure. Slow-cooked brisket fits the festival's leisurely tempo: put it in the oven before sundown, let it cook through the meal, eat it tender. Tzimmes appears, kugel appears, challah is shaped into round loaves carried over from Rosh Hashanah.
+The cooking is autumn harvest cooking. Stuffed vegetables - cabbage rolls, stuffed peppers, stuffed onions - are canonical because the wrapping echoes the sukkah's own enclosure. Slow-cooked brisket fits the festival's leisurely tempo: put it in the oven before sundown, let it cook through the meal, eat it tender. Tzimmes appears, kugel appears, challah is shaped into round loaves carried over from Rosh Hashanah.
 
-The desserts lean toward apples, honey, and pomegranate — the same fruits that filled the harvest baskets of the original Sukkot, carried up to Jerusalem. Apple cake, honey cake, sliced pomegranate as a garnish. The meal can stretch for hours; the open sky above the sukkah keeps the air cool.
+The desserts lean toward apples, honey, and pomegranate - the same fruits that filled the harvest baskets of the original Sukkot, carried up to Jerusalem. Apple cake, honey cake, sliced pomegranate as a garnish. The meal can stretch for hours; the open sky above the sukkah keeps the air cool.
 
 ## Recipes
 

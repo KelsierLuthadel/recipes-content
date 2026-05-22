@@ -9,7 +9,7 @@ origin: Ireland
 
 St. Patrick's Day is the Irish national day on 17 March, and the food culture of the diaspora has wrapped it tightly. The cooking is straight Irish-cottage: long-simmered stews, mashed potato in three or four varieties, breads made without yeast, and stout in the pot as often as in the glass.
 
-Irish stew is the oldest of the canon — lamb (or mutton in the truly traditional version), potato, carrot and onion, simmered for hours into a one-pot meal. Beef and Guinness stew is the newer cousin, born of the post-Famine porter culture, where the dark stout deepens the gravy. Colcannon is the buttery cabbage-and-mash side dish; champ is colcannon's milder green-onion cousin. Boxty is the potato pancake. Soda bread is the rough round loaf that goes with everything.
+Irish stew is the oldest of the canon - lamb (or mutton in the truly traditional version), potato, carrot and onion, simmered for hours into a one-pot meal. Beef and Guinness stew is the newer cousin, born of the post-Famine porter culture, where the dark stout deepens the gravy. Colcannon is the buttery cabbage-and-mash side dish; champ is colcannon's milder green-onion cousin. Boxty is the potato pancake. Soda bread is the rough round loaf that goes with everything.
 
 In American homes the menu often shifts to corned beef and cabbage, a New York Irish-immigrant dish more than an Irish one. Either is welcome. So is a Guinness; so is a single, neat whiskey.
 

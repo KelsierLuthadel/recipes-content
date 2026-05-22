@@ -17,7 +17,7 @@ Lamb shoulder and lamb tail fat (or extra fatty trim) chop fine with a heavy kni
 
 ### Meat
 - 800 g lamb shoulder mince (or hand-chopped from shoulder if you have the time)
-- 200 g lamb tail fat OR very fatty lamb breast (the fat is non-negotiable — at least 20% fat content)
+- 200 g lamb tail fat OR very fatty lamb breast (the fat is non-negotiable - at least 20% fat content)
 - 1 tablespoon salt
 - 1 ½ tablespoons mild pepper flakes
 - 1 teaspoon sweet paprika
@@ -43,7 +43,7 @@ Lamb shoulder and lamb tail fat (or extra fatty trim) chop fine with a heavy kni
 - Salt-water-and-lemon ayran (yogurt drink) on the side
 
 ### Equipment
-- 4-8 wide flat metal skewers (the flat blade is essential — round skewers spin and the meat falls off)
+- 4-8 wide flat metal skewers (the flat blade is essential - round skewers spin and the meat falls off)
 
 ## Method
 
@@ -89,9 +89,9 @@ Lamb shoulder and lamb tail fat (or extra fatty trim) chop fine with a heavy kni
 
 ## Notes
 - **Tail fat is the defining ingredient:** Turkish lamb tail fat (kuyruk yağı) is what gives Adana its richness. Without it, the kebab dries out on the grill. If unavailable, the fattiest lamb breast or shoulder trim is the best substitute.
-- **Flat skewers only:** Adana literally cannot be made on round skewers — the meat won't grip and falls into the coals. Wide flat metal skewers are sold at any Turkish grocer or kitchen-supply.
+- **Flat skewers only:** Adana literally cannot be made on round skewers - the meat won't grip and falls into the coals. Wide flat metal skewers are sold at any Turkish grocer or kitchen-supply.
 - **Hand-chopped vs machine-minced:** real Adana is hand-cut with a zırh (a heavy crescent blade) so the texture has visible meat and fat pieces. Machine-mince is too uniform. If pressed for time, ask a butcher for the coarsest mince setting.
-- **Don't grill over flame:** flames burn the surface before the inside cooks. Wait for the charcoal to be covered in white ash — the radiant heat is what you want.
+- **Don't grill over flame:** flames burn the surface before the inside cooks. Wait for the charcoal to be covered in white ash - the radiant heat is what you want.
 
 ## Storage
 - Best straight from the grill.

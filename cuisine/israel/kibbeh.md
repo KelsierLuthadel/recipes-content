@@ -33,34 +33,34 @@ Smooth bulgur softened in hot water, then drained dry. Onion blitzed with bahara
 ## Method
 
 ### Stage 1 - Soften the bulgur
-1. Lightly oil a 30 x 20 cm square or rectangular baking tin (the shape matters less than the surface area — aim for a 1.5 cm thick finished layer).
+1. Lightly oil a 30 x 20 cm square or rectangular baking tin (the shape matters less than the surface area - aim for a 1.5 cm thick finished layer).
 2. Tip the bulgur into a heatproof bowl and pour over enough just-boiled water to cover by 1 cm.
 3. Leave for 15 minutes to soften and absorb. Drain in a fine sieve and press the back of a spoon against the bulgur to squeeze out any extra moisture. You want it tender but not soggy.
 
 ### Stage 2 - Build the mixture
-1. In the bowl of a food processor, combine the quartered onion, baharat, salt, pepper and water. Blitz to a smooth, slightly wet paste — 30 seconds or so.
+1. In the bowl of a food processor, combine the quartered onion, baharat, salt, pepper and water. Blitz to a smooth, slightly wet paste - 30 seconds or so.
 2. Add the beef mince. Pulse 6-8 times until well combined and slightly tackier than the raw mince started.
 3. Tip in the drained bulgur. Pulse 4-5 short times, just until the bulgur is distributed and bound into the mixture. Stop while you can still see individual grains.
 4. Tip the contents into a wide bowl and knead by hand for 30 seconds to make sure everything is uniformly mixed. The mixture should hold together in a soft, slightly wet mass.
 
 ### Stage 3 - Shape in the tin
 1. Heat the oven to 180°C fan / 200°C / 400°F.
-2. Press the mixture into the oiled tin in an even layer. Use the back of a metal spoon (or a flat-bottomed glass) to flatten and smooth the surface — uniformly level is what gives the diamonds their clean lines.
-3. With a sharp knife, score the surface into 5 cm diamond shapes. Start by drawing two long diagonals corner-to-corner, then add parallel lines on either side. Cut about 5 mm deep — you don't need to cut through.
+2. Press the mixture into the oiled tin in an even layer. Use the back of a metal spoon (or a flat-bottomed glass) to flatten and smooth the surface - uniformly level is what gives the diamonds their clean lines.
+3. With a sharp knife, score the surface into 5 cm diamond shapes. Start by drawing two long diagonals corner-to-corner, then add parallel lines on either side. Cut about 5 mm deep - you don't need to cut through.
 4. Brush the surface generously with olive oil, getting into the score lines.
 5. Press 2-3 pine nuts onto the surface of each diamond.
 
 ### Stage 4 - Bake
 1. Bake for 40-45 minutes, until the surface is deeply browned and the kibbeh feels firm when pressed in the centre.
 2. If the tops are colouring too fast, drop the oven 10°C for the last 10 minutes.
-3. Let the tray rest for 5 minutes before cutting — the kibbeh firms further as it cools.
+3. Let the tray rest for 5 minutes before cutting - the kibbeh firms further as it cools.
 
 ### Stage 5 - Serve
 1. Cut along the scored diamonds with a thin knife and lift them out with a palette knife.
 2. Arrange on a wide warm plate with the tahini sauce drizzled around (or pooled in a small bowl) and the chopped salad piled on the side.
 
 ## Notes
-- Smooth (fine) bulgur is essential — coarse bulgur gives a gritty bake. If only coarse is available, blitz it briefly in a clean spice grinder first.
+- Smooth (fine) bulgur is essential - coarse bulgur gives a gritty bake. If only coarse is available, blitz it briefly in a clean spice grinder first.
 - Baharat is the Middle Eastern warm-spice mix (paprika, black pepper, cumin, coriander, cardamom, cinnamon, cloves, nutmeg). If you don't have it, mix 1 teaspoon allspice with ½ teaspoon black pepper and a pinch each of cinnamon and cumin.
 - A traditional layered tray-kibbeh (kibbeh bil saneeyeh) layers a meat-and-onion filling between two layers of the bulgur mixture; the single-layer version here is the everyday weeknight version.
 

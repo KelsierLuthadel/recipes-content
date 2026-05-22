@@ -1,7 +1,7 @@
 // Targeted mechanical fixes for Overview prose: applied to the Overview
 // section ONLY (other sections like Method are left alone). Three rules:
 //
-//   1. Em-dashes "—"   ->   ", "  (per project: no em-dashes in body text)
+//   1. Em-dashes "-"   ->   ", "  (per project: no em-dashes in body text)
 //   2. ALL-CAPS standalone words used for emphasis  ->  lowercase
 //        Only specific words (NEVER, NOT, ALWAYS, MUST, etc.) and only when
 //        they are surrounded by lowercase context (so we don't lowercase
@@ -23,7 +23,7 @@ const CAPS_WORDS = ['NEVER', 'NOT', 'ALWAYS', 'MUST', 'ONLY', 'JUST', 'EXACTLY']
 function fixOverviewBody(body) {
   let out = body;
   // 1. Em-dashes -> commas
-  out = out.replace(/\s*—\s*/g, ', ');
+  out = out.replace(/\s*-\s*/g, ', ');
   // 2. ALL-CAPS emphasis words -> lowercase.
   //    Only the small whitelist; only when whole-word surrounded by non-letters.
   for (const w of CAPS_WORDS) {

@@ -127,13 +127,13 @@ for (const t of TARGETS) {
   try {
     pick = await pickPhoto(t.queries);
   } catch (e) {
-    console.log(`FAIL: ${t.path} — ${e.message}`);
+    console.log(`FAIL: ${t.path} - ${e.message}`);
     failed++;
     continue;
   }
 
   if (!pick) {
-    console.log(`NO MATCH: ${t.path} — queries: ${t.queries.join(' | ')}`);
+    console.log(`NO MATCH: ${t.path} - queries: ${t.queries.join(' | ')}`);
     failed++;
     continue;
   }

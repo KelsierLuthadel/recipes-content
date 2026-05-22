@@ -74,7 +74,7 @@ A 30-second cook, pale yellow, no browning, folded into a cigar shape. Restauran
 7. With the fork, lift the far edge of the egg sheet and fold it about a third of the way over itself.
 8. Tip the pan toward you, sliding the omelette to the front edge.
 9. Tap the handle of the pan to roll the omelette into a 3-fold cigar shape; the seam ends underneath when you tip it onto the plate.
-10. The exterior should be pale yellow, no browning, and the interior should be just-barely-set, almost wet at the very centre (called "baveuse" — slobbery — by the French, who consider it the correct texture).
+10. The exterior should be pale yellow, no browning, and the interior should be just-barely-set, almost wet at the very centre (called "baveuse" - slobbery - by the French, who consider it the correct texture).
 
 ### Variations
 - **Cheese omelette:** sprinkle 30 g grated gruyere across the eggs before the first fold.

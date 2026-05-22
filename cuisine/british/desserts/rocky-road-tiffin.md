@@ -35,16 +35,16 @@ A hybrid: the no-bake biscuit base from a classic Scottish tiffin meets the mars
 1. Line a 20 cm square tin with baking paper, leaving overhang on two sides for lift-out later.
 
 ### Stage 2 - Crush the biscuits
-1. Place the digestives in a sealed freezer bag. Bash with a rolling pin to mostly fine crumbs with a few pea-sized chunks remaining. Don't reduce to powder — the texture comes from varied biscuit sizes.
+1. Place the digestives in a sealed freezer bag. Bash with a rolling pin to mostly fine crumbs with a few pea-sized chunks remaining. Don't reduce to powder - the texture comes from varied biscuit sizes.
 
 ### Stage 3 - Make the cocoa-butter mix
 1. Melt the butter, golden syrup, cocoa powder and sugar together in a large saucepan over a low heat, stirring constantly until smooth and glossy. The mixture should look like a thin chocolate ganache.
-2. Take off the heat and let the pan cool for 3-4 minutes — adding marshmallows to a hot pan melts them into the mixture instead of keeping them whole.
+2. Take off the heat and let the pan cool for 3-4 minutes - adding marshmallows to a hot pan melts them into the mixture instead of keeping them whole.
 
 ### Stage 4 - Combine
 1. Stir the crushed biscuits into the cooled cocoa-butter mixture until uniformly coated.
-2. Add the marshmallows, chopped nuts, glace cherries and fudge chunks. Fold gently with a spatula — vigorous mixing breaks the marshmallows.
-3. Tip into the prepared tin. Spread to the edges, pressing down firmly with the back of a spoon. The surface should be uneven — marshmallows and fudge poking through is part of the look.
+2. Add the marshmallows, chopped nuts, glace cherries and fudge chunks. Fold gently with a spatula - vigorous mixing breaks the marshmallows.
+3. Tip into the prepared tin. Spread to the edges, pressing down firmly with the back of a spoon. The surface should be uneven - marshmallows and fudge poking through is part of the look.
 
 ### Stage 5 - Top with chocolate
 1. Melt the milk chocolate in 30-second microwave bursts (stirring between each) or over a pan of barely simmering water. Pour over the pressed base and spread to cover. Tap the tin gently to release bubbles.
@@ -58,12 +58,12 @@ A hybrid: the no-bake biscuit base from a classic Scottish tiffin meets the mars
 
 ## Notes
 - **Toasting the nuts**: 5 minutes in a 180°C oven on a tray, watching for the moment they smell fragrant. Toasted nuts crunch better and taste deeper.
-- **Marshmallow timing**: the mixture must be cool enough not to melt the marshmallows when they join — about 40-45°C. A hot mix dissolves them into goo; cooled mix keeps them puffy and distinct.
+- **Marshmallow timing**: the mixture must be cool enough not to melt the marshmallows when they join - about 40-45°C. A hot mix dissolves them into goo; cooled mix keeps them puffy and distinct.
 - **Substitutions**: dried cherries for glace cherries (less sweet), maltesers or M&Ms instead of fudge (different crunch), white chocolate base instead of milk for an all-white version (then drizzle with dark).
 - **Bigger tin**: 20 x 30 cm gives thinner squares with more pieces per slab. Reduce chill time by 30 minutes.
 
 ## Serving
-On a plate at room temperature. With strong coffee or hot chocolate. Excellent travel-bake — robust enough for picnics and packed lunches.
+On a plate at room temperature. With strong coffee or hot chocolate. Excellent travel-bake - robust enough for picnics and packed lunches.
 
 ## Storage
 - In an airtight tin at cool room temperature for up to 2 weeks.

@@ -7,7 +7,7 @@ kind: festival
 origin: East Asia
 ---
 
-Lunar New Year is the most important feast in the Chinese calendar, and every dish on the table has a meaning. The fish is served whole because the word for fish is a homophone for surplus — and you don't finish it, you leave some over for next year. Long noodles uncut for long life; you don't bite through them in the middle. Round, sweet things like tang yuan, the glutinous-rice balls in warm syrup, stand for family togetherness because they're round and they stick.
+Lunar New Year is the most important feast in the Chinese calendar, and every dish on the table has a meaning. The fish is served whole because the word for fish is a homophone for surplus - and you don't finish it, you leave some over for next year. Long noodles uncut for long life; you don't bite through them in the middle. Round, sweet things like tang yuan, the glutinous-rice balls in warm syrup, stand for family togetherness because they're round and they stick.
 
 Spring rolls are gold ingots. Char siu and BBQ chicken are celebration foods, glossy with the lacquer of honey and soy. Fried rice and chow mein fill the table; the egg tarts and mango pudding close it out. You eat too much, you sleep, you eat again the next day. The leftover fish stays on the table.
 

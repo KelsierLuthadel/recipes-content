@@ -11,7 +11,7 @@
 **Cook Time:** 32 minutes
 
 ## Overview
-A classic fudgy brownie base — dark chocolate and butter melted together, sugar and eggs beaten until light, the chocolate folded in, then flour and cocoa folded just enough to combine. A homemade salted caramel is dolloped on top of the batter in the tin and swirled through with a skewer for the marbled look. Baked at 170°C until just-set — a faint tremble in the centre. Cooled completely (overnight is best) before slicing, because warm brownies tear and lose the fudge texture. Flaky salt scattered on top while still warm so it sticks.
+A classic fudgy brownie base - dark chocolate and butter melted together, sugar and eggs beaten until light, the chocolate folded in, then flour and cocoa folded just enough to combine. A homemade salted caramel is dolloped on top of the batter in the tin and swirled through with a skewer for the marbled look. Baked at 170°C until just-set - a faint tremble in the centre. Cooled completely (overnight is best) before slicing, because warm brownies tear and lose the fudge texture. Flaky salt scattered on top while still warm so it sticks.
 
 ## Ingredients
 
@@ -37,9 +37,9 @@ A classic fudgy brownie base — dark chocolate and butter melted together, suga
 ## Method
 
 ### Stage 1 - Make the caramel
-1. In a wide heavy-bottomed pan, heat the sugar over a medium heat. Don't stir — let it melt on its own, gently tilting the pan once or twice to even the colour. After 5-7 minutes, the sugar will be a deep amber liquid.
+1. In a wide heavy-bottomed pan, heat the sugar over a medium heat. Don't stir - let it melt on its own, gently tilting the pan once or twice to even the colour. After 5-7 minutes, the sugar will be a deep amber liquid.
 2. Off the heat, add the butter all at once. It will bubble violently; whisk to combine.
-3. Pour in the double cream — again it bubbles. Whisk until smooth.
+3. Pour in the double cream - again it bubbles. Whisk until smooth.
 4. Stir in the flaky salt. Pour into a heatproof bowl and set aside to thicken while you make the brownie batter.
 
 ### Stage 2 - Prep
@@ -55,11 +55,11 @@ A classic fudgy brownie base — dark chocolate and butter melted together, suga
 
 ### Stage 5 - Combine
 1. Pour the cooled chocolate-butter mixture into the eggs in three additions, folding gently with a spatula between each. Don't deflate the mixture.
-2. Sift the flour, cocoa and salt over the surface. Fold in until just combined — no streaks of flour. Stop folding the second it's uniform; over-mixing makes cakey brownies.
+2. Sift the flour, cocoa and salt over the surface. Fold in until just combined - no streaks of flour. Stop folding the second it's uniform; over-mixing makes cakey brownies.
 
 ### Stage 6 - Layer in the caramel
 1. Pour the batter into the prepared tin and smooth the top.
-2. Dollop half the caramel in spoonfuls across the surface — about 8-10 small piles.
+2. Dollop half the caramel in spoonfuls across the surface - about 8-10 small piles.
 3. Drag a skewer or a butter knife through the caramel in long S-curves to swirl it through the top 1 cm of the batter. Don't over-mix; you want visible swirl ribbons, not a uniform colour. Reserve the other half of the caramel for drizzling later.
 
 ### Stage 7 - Bake
@@ -72,7 +72,7 @@ A classic fudgy brownie base — dark chocolate and butter melted together, suga
 3. Cut into 16 squares with a long sharp knife dipped in hot water and wiped dry between cuts.
 
 ## Notes
-- **Brown sugar vs caster**: caster gives the cleanest crackly top. Light brown sugar deepens the flavour but yields a less shiny finish — use 50/50 if you prefer the molasses note.
+- **Brown sugar vs caster**: caster gives the cleanest crackly top. Light brown sugar deepens the flavour but yields a less shiny finish - use 50/50 if you prefer the molasses note.
 - **Under-bake on purpose**: brownies firm up considerably as they cool. Pulling them out when the centre still trembles gives the fudge texture; baking until clean-skewer gives cake.
 - **Caramel sets fast**: if the caramel cools too much to dollop and swirl, warm briefly in the microwave or over a low flame to loosen.
 - **No-fridge alternative**: cool for 2 hours at room temperature minimum. The slab is tackier and harder to slice but still good.

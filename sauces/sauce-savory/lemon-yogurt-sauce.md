@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-A no-cook stir-together yogurt sauce, in the Tzatziki / Mediterranean labneh / Greek tarama family but pared down to the essentials. The garlic needs the rest to lose its raw bite — twenty minutes is the minimum, an hour is ideal. The oil floats on top initially; it folds back in with stirring.
+A no-cook stir-together yogurt sauce, in the Tzatziki / Mediterranean labneh / Greek tarama family but pared down to the essentials. The garlic needs the rest to lose its raw bite - twenty minutes is the minimum, an hour is ideal. The oil floats on top initially; it folds back in with stirring.
 
 ## Ingredients
 
@@ -49,5 +49,5 @@ With grilled lamb skewers, chicken kebabs, falafel, roast vegetables, charred eg
 
 ## Storage
 - In a sealed jar in the fridge for up to 3 days. The flavour improves on day 2; by day 3 the garlic starts to dominate.
-- Whisk briefly before serving — separation is normal.
-- Don't freeze — yogurt seizes on thawing.
+- Whisk briefly before serving - separation is normal.
+- Don't freeze - yogurt seizes on thawing.

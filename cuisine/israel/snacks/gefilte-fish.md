@@ -49,7 +49,7 @@ A mix of white-fleshed fish (carp, pike, whitefish, or a more modern blend of co
 
 ### Stage 2 - Make the fish mix
 1. Cut the fish fillets into rough chunks and place in a food processor with the grated onion.
-2. Pulse 8-10 times to a coarse paste — you want texture, not a smooth purée.
+2. Pulse 8-10 times to a coarse paste - you want texture, not a smooth purée.
 3. Tip into a bowl. Add the eggs, matzo meal, water, salt, sugar and white pepper. Mix with a wooden spoon for 2 minutes until cohesive and slightly sticky.
 4. Test the seasoning by frying a teaspoon-sized piece in a little oil; taste and adjust salt or pepper before shaping the rest.
 

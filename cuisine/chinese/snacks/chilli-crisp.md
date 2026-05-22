@@ -2,7 +2,7 @@
 
 ![Chilli oil](resources/chilli-oil.jpg)
 
-*The Chinese condiment that goes on everything. A jar of slow-infused spice oil — bay, star anise, cinnamon, cardamom, Sichuan peppercorns — poured hot over a bowl of chilli flakes, smoked paprika and crispy fried shallots. Stir before each use. Spoon over rice, noodles, eggs, soup, anything that's hot and could be improved.*
+*The Chinese condiment that goes on everything. A jar of slow-infused spice oil - bay, star anise, cinnamon, cardamom, Sichuan peppercorns - poured hot over a bowl of chilli flakes, smoked paprika and crispy fried shallots. Stir before each use. Spoon over rice, noodles, eggs, soup, anything that's hot and could be improved.*
 
 **Serves:** Makes ~1 ¼ cups (310 ml)
 
@@ -48,11 +48,11 @@ Two-stage flavour build: first a spice infusion (whole spices soaked briefly in 
 
 ### Stage 1 - Soak the spices
 1. Roughly chop the cinnamon stick, bay leaf and star anise into 1 cm pieces. Combine with the whole cardamom (lightly cracked), Sichuan peppercorns, fennel seeds and cloves in a small bowl.
-2. Add the 2 teaspoons of water — just enough to dampen everything. Stir, leave to sit for 30 minutes. The dampness slows the oil from burning the spices during the infusion.
+2. Add the 2 teaspoons of water - just enough to dampen everything. Stir, leave to sit for 30 minutes. The dampness slows the oil from burning the spices during the infusion.
 
 ### Stage 2 - Infuse the oil
 1. Combine the soaked spices, green onion lengths, ginger slices and the cup of oil in a small (20 cm) saucepan.
-2. Heat over a medium-low until the oil reaches a gentle fizzy simmer — small bubbles rising slowly around the spices. Don't go hotter; the spices burn fast above 140°C.
+2. Heat over a medium-low until the oil reaches a gentle fizzy simmer - small bubbles rising slowly around the spices. Don't go hotter; the spices burn fast above 140°C.
 3. Maintain that fizz for 25-30 minutes, stirring once every 5 minutes. The oil will turn a deep amber and smell strongly of warm spice.
 
 ### Stage 3 - Prepare the sizzle bowl
@@ -65,11 +65,11 @@ Two-stage flavour build: first a spice infusion (whole spices soaked briefly in 
 
 ### Stage 5 - Finish
 1. Stir in the sugar, salt and chicken stock powder until evenly distributed.
-2. Add the crispy fried shallots and crispy fried garlic. Mix well — the crunchy bits should sit suspended in the oil, with a clear oil layer above and chunks of crisp beneath.
+2. Add the crispy fried shallots and crispy fried garlic. Mix well - the crunchy bits should sit suspended in the oil, with a clear oil layer above and chunks of crisp beneath.
 
 ### Stage 6 - Jar and rest
 1. Transfer to a clean glass jar with a tight-fitting lid. The oil will rise; the solids settle.
-2. Refrigerate for 24 hours before using — the rest period is where the flavour deepens. The aroma after a day is twice what it smelled of straight out of the pan.
+2. Refrigerate for 24 hours before using - the rest period is where the flavour deepens. The aroma after a day is twice what it smelled of straight out of the pan.
 
 ## Notes
 - **Vigorous stir before each use**: the oil and solids separate. Always stir from the bottom up before scooping.
@@ -82,4 +82,4 @@ Spoon over rice, noodles, eggs (fried, scrambled, or in a ramen broth), dumpling
 
 ## Storage
 - In a sealed jar in the fridge for up to 3 months. The crunchy bits go softer over time; flavour stays.
-- Don't freeze — the oil clouds and the solids go pulpy on thawing.
+- Don't freeze - the oil clouds and the solids go pulpy on thawing.

@@ -44,12 +44,12 @@ A yeasted dough enriched with milk, butter, an egg and a little sugar, spiced wi
 ### Stage 1 - Mix the dough
 1. In a large bowl, combine the flour, sugar, salt, yeast, cinnamon, nutmeg, mixed spice, orange zest and lemon zest. Whisk to distribute the yeast evenly.
 2. Make a well in the centre. Pour in the lukewarm milk, add the softened butter and the egg. Mix with a wooden spoon, then turn out onto a worktop and knead for 8-10 minutes until smooth, elastic and a little tacky.
-3. Knead in the currants and mixed peel — the fruit will want to escape; press it in firmly.
+3. Knead in the currants and mixed peel - the fruit will want to escape; press it in firmly.
 4. Place in a lightly oiled bowl, cover, and leave to rise in a warm place for 1 ½ hours, until doubled.
 
 ### Stage 2 - Shape
 1. Knock back gently and divide into 12 equal pieces (about 90 g each). Roll each into a smooth tight ball.
-2. Place the balls close together on a baking-paper-lined tray in a 3 x 4 grid, leaving a 2 cm gap between them — they will rise into each other.
+2. Place the balls close together on a baking-paper-lined tray in a 3 x 4 grid, leaving a 2 cm gap between them - they will rise into each other.
 3. Cover loosely and leave to rise for another 45-60 minutes, until puffy and the buns are touching at the sides.
 
 ### Stage 3 - Bake
@@ -66,7 +66,7 @@ A yeasted dough enriched with milk, butter, an egg and a little sugar, spiced wi
 ## Notes
 - Skipping the second rise gives dense buns; the warmth must produce a real puff before they go in the oven. If your kitchen is cold, switch on the oven light and let the buns rise inside with the door closed.
 - For a darker, more festival bun, use half white and half wholemeal flour and increase the sugar by 20 g.
-- Hot cross buns made on Good Friday are said to keep without spoiling — the tradition has more to do with the high sugar and the crucifix mark than scientific reality. They still keep well.
+- Hot cross buns made on Good Friday are said to keep without spoiling - the tradition has more to do with the high sugar and the crucifix mark than scientific reality. They still keep well.
 
 ## Serving
 Warm from the oven, split and spread with cold salted butter. Toasted the next morning with butter and marmalade. With strong tea, beside the Easter morning post.

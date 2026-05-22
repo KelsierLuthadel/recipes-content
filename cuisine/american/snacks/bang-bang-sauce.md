@@ -40,4 +40,4 @@ The default: a dipping sauce for crispy fried shrimp, chicken tenders, popcorn c
 ## Storage
 - In a sealed jar in the fridge for up to 3 weeks.
 - The colour deepens slightly over time; flavour stays the same.
-- Don't freeze — mayonnaise separates on thawing.
+- Don't freeze - mayonnaise separates on thawing.

@@ -33,7 +33,7 @@ const PATTERNS = [
   {
     id: 'em-dash',
     label: 'Unicode em-dash (U+2014)',
-    re: /—/g,
+    re: /-/g,
   },
   {
     id: 'spaced-dash',

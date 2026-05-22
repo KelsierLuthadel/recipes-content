@@ -21,7 +21,7 @@ For 4 pizzas (about 220 g per ball, enough for a 25-30 cm pizza each).
 - 500 g strong bread flour (12-13% protein), plus extra for shaping
 - 325 g cold water (65% hydration)
 - 10 g fine sea salt (2%)
-- 3 g instant yeast (0.6% — yes, that low)
+- 3 g instant yeast (0.6% - yes, that low)
 - 1 tbsp olive oil (optional, gives a softer crumb)
 
 ### Method

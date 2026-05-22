@@ -94,7 +94,7 @@ function stripParens(text) {
 function extractQtyTokens(rawText) {
   const text = stripParens(collapseMultipliers(rawText));
   const tokens = [];
-  const re = /(\d+(?:[.,]\d+)?(?:\s*[-–]\s*\d+(?:[.,]\d+)?)?(?:\s*[½¼¾⅓⅔⅛⅜⅝⅞])?|[½¼¾⅓⅔⅛⅜⅝⅞]|\d+\/\d+)\s*([a-zA-Z]+)?/g;
+  const re = /(\d+(?:[.,]\d+)?(?:\s*[--]\s*\d+(?:[.,]\d+)?)?(?:\s*[½¼¾⅓⅔⅛⅜⅝⅞])?|[½¼¾⅓⅔⅛⅜⅝⅞]|\d+\/\d+)\s*([a-zA-Z]+)?/g;
   let m;
   while ((m = re.exec(text)) !== null) {
     // Normalise to a numeric value (use mid-point for ranges)
@@ -106,7 +106,7 @@ function extractQtyTokens(rawText) {
     } else if (UNICODE_FRACS[numStr]) {
       n = UNICODE_FRACS[numStr];
     } else {
-      const rangeMatch = numStr.match(/^(\d+(?:[.,]\d+)?)\s*[-–]\s*(\d+(?:[.,]\d+)?)/);
+      const rangeMatch = numStr.match(/^(\d+(?:[.,]\d+)?)\s*[--]\s*(\d+(?:[.,]\d+)?)/);
       if (rangeMatch) {
         n = (parseFloat(rangeMatch[1].replace(',', '.')) + parseFloat(rangeMatch[2].replace(',', '.'))) / 2;
       } else {

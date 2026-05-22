@@ -2,7 +2,7 @@
 
 ![Challah](resources/challah.jpg)
 
-*The braided Sabbath bread that doubles as the Hanukkah loaf. Egg-enriched, faintly sweet, with a deep mahogany crust from the egg wash and a tender, slightly stretchy crumb underneath. The braid is theatre but it's also structural — it gives every slice a pulled, ropy texture.*
+*The braided Sabbath bread that doubles as the Hanukkah loaf. Egg-enriched, faintly sweet, with a deep mahogany crust from the egg wash and a tender, slightly stretchy crumb underneath. The braid is theatre but it's also structural - it gives every slice a pulled, ropy texture.*
 
 **Serves:** 10 (makes 1 large loaf)
 
@@ -42,16 +42,16 @@ Strong bread flour worked with eggs, honey, oil, salt and warm water until the d
 ### Stage 2 - Shape the braid
 1. Knock the dough back gently and turn out onto an unfloured surface.
 1. Divide into 3 equal pieces (for a three-strand braid) or 6 (for a six-strand). Weigh them if you want them uniform.
-1. Roll each piece into a rope about 35 cm long, tapering slightly at the ends. Let them rest for 5 minutes if they spring back too much — gluten needs the pause.
+1. Roll each piece into a rope about 35 cm long, tapering slightly at the ends. Let them rest for 5 minutes if they spring back too much - gluten needs the pause.
 1. Pinch the tops of the three ropes together at one end. Braid as you would hair: left-over-middle, right-over-middle, repeat. Pinch the bottom ends together and tuck both ends under to neaten.
 1. Transfer to a baking sheet lined with parchment.
 
 ### Stage 3 - Second rise and bake
-1. Cover loosely with a damp cloth and leave to rise for 45 minutes — until the loaf has visibly puffed but still springs back slowly when pressed.
+1. Cover loosely with a damp cloth and leave to rise for 45 minutes - until the loaf has visibly puffed but still springs back slowly when pressed.
 1. Heat the oven to 200°C (180°C fan).
 1. Whisk the egg yolk with the teaspoon of water and brush over the entire surface of the loaf, getting into every crease of the braid. Scatter sesame or poppy seeds generously.
 1. Bake on the middle shelf for 25-30 minutes. The crust should be deep mahogany; the bottom should sound hollow when tapped. If the top is browning too fast at 20 minutes, tent loosely with foil.
-1. Cool on a wire rack for at least 30 minutes before slicing — the crumb is gummy if you cut it hot.
+1. Cool on a wire rack for at least 30 minutes before slicing - the crumb is gummy if you cut it hot.
 
 ## Notes
 - The dough enriches with each rise; don't be alarmed if it feels firmer in the second prove than the first.

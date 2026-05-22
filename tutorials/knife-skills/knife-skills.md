@@ -46,11 +46,11 @@ A balanced weight; the knife shouldn't feel handle-heavy or blade-heavy.
 A comfortable grip; pick it up before buying.
 
 Brand suggestions (any of these is a good starting point):
-- **Wusthof Classic** — German style, durable, well-balanced. The professional standard.
-- **Henckels Pro S** — German, similar to Wusthof.
-- **Global G-2** — Japanese style, lighter, very sharp out of the box.
-- **Victorinox Fibrox** — Swiss, cheap (~£30), brilliantly sharp. The best-value workhorse.
-- **Tojiro DP** — Japanese, mid-range, popular with home cooks.
+- **Wusthof Classic** - German style, durable, well-balanced. The professional standard.
+- **Henckels Pro S** - German, similar to Wusthof.
+- **Global G-2** - Japanese style, lighter, very sharp out of the box.
+- **Victorinox Fibrox** - Swiss, cheap (~£30), brilliantly sharp. The best-value workhorse.
+- **Tojiro DP** - Japanese, mid-range, popular with home cooks.
 
 A £30 Victorinox is a better knife than a £200 supermarket block set. Spend money on one good chef's knife rather than a "set".
 

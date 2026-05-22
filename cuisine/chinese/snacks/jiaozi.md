@@ -2,7 +2,7 @@
 
 ![Jiaozi](resources/jiaozi.jpg)
 
-*Hand-folded Chinese dumplings, pork and chive in a hot-water dough, pleated into half-moons. The shape is meant to look like a gold ingot — eat enough on the eve of Lunar New Year and prosperity follows. Boiled is traditional; pan-fried with a crisp underside (pot-stickers) is also fair game.*
+*Hand-folded Chinese dumplings, pork and chive in a hot-water dough, pleated into half-moons. The shape is meant to look like a gold ingot - eat enough on the eve of Lunar New Year and prosperity follows. Boiled is traditional; pan-fried with a crisp underside (pot-stickers) is also fair game.*
 
 **Serves:** 4 (makes about 30 dumplings)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A hot-water dough — flour mixed with water (just-boiled) — for a tender, slightly stretchy wrapper that doesn't dry out. The filling is the classic family recipe: minced pork and finely chopped Chinese chives bound with soy, sesame oil, ginger and shaoxing wine. Each dumpling rolled thin, filled with a generous teaspoon, pleated along one edge, sealed and shaped. Boiled in batches, with the "three-cup" trick of adding cold water between waves to stop the wrappers blistering. Served with a sharp black vinegar and chilli dipping sauce.
+A hot-water dough - flour mixed with water (just-boiled) - for a tender, slightly stretchy wrapper that doesn't dry out. The filling is the classic family recipe: minced pork and finely chopped Chinese chives bound with soy, sesame oil, ginger and shaoxing wine. Each dumpling rolled thin, filled with a generous teaspoon, pleated along one edge, sealed and shaped. Boiled in batches, with the "three-cup" trick of adding cold water between waves to stop the wrappers blistering. Served with a sharp black vinegar and chilli dipping sauce.
 
 ## Ingredients
 
@@ -22,7 +22,7 @@ A hot-water dough — flour mixed with water (just-boiled) — for a tender, sli
 
 ### The filling
 - 400 g minced pork (about 20% fat)
-- 1 large bunch Chinese chives (about 120 g, finely chopped) — substitute regular chives or finely-sliced spring onion greens
+- 1 large bunch Chinese chives (about 120 g, finely chopped) - substitute regular chives or finely-sliced spring onion greens
 - 2 tablespoons light soy sauce
 - 1 tablespoon shaoxing wine
 - 1 teaspoon dark soy sauce (for colour)
@@ -49,12 +49,12 @@ A hot-water dough — flour mixed with water (just-boiled) — for a tender, sli
 1. Cover with a damp cloth and rest for 30 minutes. The gluten relaxes; the dough becomes far easier to roll.
 
 ### Stage 2 - Make the filling
-1. Combine all the filling ingredients in a large bowl. Mix with chopsticks or a fork in one direction only for 2-3 minutes — the mince develops a slightly sticky, springy texture that holds shape when wrapped.
+1. Combine all the filling ingredients in a large bowl. Mix with chopsticks or a fork in one direction only for 2-3 minutes - the mince develops a slightly sticky, springy texture that holds shape when wrapped.
 1. Cover and chill while you roll the wrappers.
 
 ### Stage 3 - Roll and fill
 1. Divide the dough into 4 pieces. Keep 3 covered with the damp cloth while you work the fourth.
-1. Roll each piece into a rope about the thickness of a finger, then cut into 1.5 cm pieces. With a small rolling pin, roll each piece into a 7-8 cm round, thinner at the edge than the centre — this matters for the seal.
+1. Roll each piece into a rope about the thickness of a finger, then cut into 1.5 cm pieces. With a small rolling pin, roll each piece into a 7-8 cm round, thinner at the edge than the centre - this matters for the seal.
 1. Place a heaped teaspoon of filling in the middle of a wrapper. Fold the wrapper in half over the filling and pinch shut at the centre point. Pleat 3-4 small folds along the edge facing you, pressing each pleat against the flat back edge to seal. The dumpling should sit upright, belly down, with the pleated edge curving like the rim of a gold ingot.
 1. Place the finished dumplings on a tray dusted with flour, well-spaced so they don't stick together. Cover with a slightly damp cloth as you go.
 
@@ -74,10 +74,10 @@ A hot-water dough — flour mixed with water (just-boiled) — for a tender, sli
 ## Notes
 - Hot-water dough is the secret to a wrapper that takes the boiling well without splitting. Cold-water dough is for fresh noodle, not jiaozi.
 - The mixing-in-one-direction trick for the filling is non-negotiable in many Chinese households; it builds the springy texture that holds the pleats.
-- Frozen dumplings keep beautifully. Lay them flat-spaced on a floured tray, freeze until firm (about an hour), then bag. Cook from frozen — add an extra cold-water cycle in the boil.
+- Frozen dumplings keep beautifully. Lay them flat-spaced on a floured tray, freeze until firm (about an hour), then bag. Cook from frozen - add an extra cold-water cycle in the boil.
 
 ## Serving
 On a wide platter, pointed ends up like a tray of ingots, with the dipping sauce in small individual bowls. Eaten on the eve of Lunar New Year, or any time you want a project that takes an afternoon and feeds eight.
 
 ## Storage
-Freeze raw, as above, up to 3 months. Cooked dumplings don't reheat well — the wrappers go gummy. Cook in batches.
+Freeze raw, as above, up to 3 months. Cooked dumplings don't reheat well - the wrappers go gummy. Cook in batches.

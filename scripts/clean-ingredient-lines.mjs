@@ -36,14 +36,14 @@ const ROOT = path.resolve(path.dirname(url.fileURLToPath(import.meta.url)), '..'
 // number-and-unit pair ("200 ml additional coconut milk"). Group 1
 // captures the optional qty prefix so it's preserved; group 2 is the
 // word to drop.
-const LEADING_WORD_RE = /^((?:\d+(?:[.,]\d+)?(?:\s*[-–]\s*\d+(?:[.,]\d+)?)?(?:\s+\d+\/\d+)?\s+(?:[a-z]+\.?\s+)?)?)(about|additional|approximately)\s+/i;
+const LEADING_WORD_RE = /^((?:\d+(?:[.,]\d+)?(?:\s*[--]\s*\d+(?:[.,]\d+)?)?(?:\s+\d+\/\d+)?\s+(?:[a-z]+\.?\s+)?)?)(about|additional|approximately)\s+/i;
 
 // Quantity prefix that may sit before the size word. Either an article
 // ("a"/"an") or a leading number. We deliberately don't try to eat a
 // unit word here, because units like "tablespoon" and size words like
 // "medium" look identical to the regex and the size word must NOT get
 // consumed - the size rule needs to see it.
-const QTY_PREFIX_RE = /^((?:a|an)\s+|\d+(?:[.,]\d+)?(?:\s*[-–]\s*\d+(?:[.,]\d+)?)?(?:\s+\d+\/\d+)?\s+)?/i;
+const QTY_PREFIX_RE = /^((?:a|an)\s+|\d+(?:[.,]\d+)?(?:\s*[--]\s*\d+(?:[.,]\d+)?)?(?:\s+\d+\/\d+)?\s+)?/i;
 
 // Size word + optional "sized" / "-sized" / "size" suffix.
 const SIZE_RE = /^(small|medium|large)((?:[- ](?:sized?|size))?)\s+/i;

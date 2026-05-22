@@ -54,7 +54,7 @@ const TIME_UNITS = String.raw`(?:minute|hour|second|min|hr|sec|h)s?`;
 function buildPattern() {
   const verbs = TIMING_VERBS.join('|');
   // Number: 1-3 digits, then optional "-digits" range or " ½" fraction.
-  const num = String.raw`\d{1,3}(?:\s*[-–]\s*\d{1,3}|\s*[½⅓¼¾⅔])?`;
+  const num = String.raw`\d{1,3}(?:\s*[--]\s*\d{1,3}|\s*[½⅓¼¾⅔])?`;
   // Word boundary, verb, space, number, optional space-or-hyphen, time unit.
   // Captures the whole offending phrase.
   return new RegExp(

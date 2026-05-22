@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-The sweet potatoes are roasted whole until the flesh collapses and the sugars caramelise around the seam — never boiled, which dilutes them. The flesh is whipped warm with butter, evaporated milk, eggs, brown sugar, cinnamon, nutmeg and a splash of bourbon (optional, but classical). Poured into a chilled all-butter shortcrust shell and baked low and slow until the centre sets with a faint wobble. Cooled to barely-warm and dusted with icing sugar, or topped with whipped cream.
+The sweet potatoes are roasted whole until the flesh collapses and the sugars caramelise around the seam - never boiled, which dilutes them. The flesh is whipped warm with butter, evaporated milk, eggs, brown sugar, cinnamon, nutmeg and a splash of bourbon (optional, but classical). Poured into a chilled all-butter shortcrust shell and baked low and slow until the centre sets with a faint wobble. Cooled to barely-warm and dusted with icing sugar, or topped with whipped cream.
 
 ## Ingredients
 
@@ -56,7 +56,7 @@ The sweet potatoes are roasted whole until the flesh collapses and the sugars ca
 2. Line the pie shell with baking paper and fill with baking beans or dried rice. Bake for 15 minutes, then lift out the paper and beans and bake for another 5 minutes until the base looks dry and pale gold. Set aside.
 
 ### Stage 4 - Mix the filling
-1. While the shell is baking, whip the sweet potato flesh with the butter using a hand whisk or stand mixer for 1-2 minutes — you want light and fluffy, not gluey, so keep it short.
+1. While the shell is baking, whip the sweet potato flesh with the butter using a hand whisk or stand mixer for 1-2 minutes - you want light and fluffy, not gluey, so keep it short.
 2. Beat in the brown sugar, then the eggs one at a time. Add the evaporated milk, vanilla, all the spices, bourbon if using, and salt. Whisk until smooth and a single colour. The mixture should be the consistency of thick pouring custard.
 
 ### Stage 5 - Bake

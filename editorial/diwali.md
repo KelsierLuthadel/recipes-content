@@ -7,11 +7,11 @@ kind: festival
 origin: India
 ---
 
-Diwali cooking centres on two things: a generous vegetarian feast and a parade of sweets. The savoury side leans into the slow-cooked staples — dal simmered until it's almost a sauce, paneer in spinach gravies, biryanis layered with saffron and ghee, breads pulled fresh from the tawa. The sweets are the whole point for many households: jalebis still warm from the syrup, rasmalai in saffron-laced milk, kheer thickened slowly with cardamom and cashews.
+Diwali cooking centres on two things: a generous vegetarian feast and a parade of sweets. The savoury side leans into the slow-cooked staples - dal simmered until it's almost a sauce, paneer in spinach gravies, biryanis layered with saffron and ghee, breads pulled fresh from the tawa. The sweets are the whole point for many households: jalebis still warm from the syrup, rasmalai in saffron-laced milk, kheer thickened slowly with cardamom and cashews.
 
 The savoury and the sweet sit at the same table, often eaten in any order anyone fancies. Snacks like samosas and dahi bhalla anchor the meal mid-afternoon as guests arrive, and the kheer and gulab jamun outlast everyone else.
 
-It's a vegetarian-friendly festival but biryani earns its place too — the Hyderabadi style with whole spices and a saffron crown is the showpiece dish.
+It's a vegetarian-friendly festival but biryani earns its place too - the Hyderabadi style with whole spices and a saffron crown is the showpiece dish.
 
 ## Recipes
 

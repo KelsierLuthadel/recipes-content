@@ -36,7 +36,7 @@ The toffee layer is the only stage that takes time: an unopened tin of sweetened
 ### Stage 1 - Make the toffee
 1. Remove the label from the condensed milk tin. Place the tin in a deep saucepan and cover with cold water by at least 5 cm.
 2. Bring to a steady simmer, then turn to low so it bubbles gently. Cover loosely with a lid (not airtight; the tin must vent steam).
-3. Simmer for 3 hours, topping up with boiling water as needed to keep the tin fully submerged at all times. A tin that boils dry will explode — set a timer if you wander off.
+3. Simmer for 3 hours, topping up with boiling water as needed to keep the tin fully submerged at all times. A tin that boils dry will explode - set a timer if you wander off.
 4. Lift the tin out with tongs and leave to cool completely on a wire rack. Do not open the tin while hot.
 5. Once cool, the contents will be a thick caramel-coloured toffee. Open and scoop out.
 
@@ -51,7 +51,7 @@ The toffee layer is the only stage that takes time: an unopened tin of sweetened
 2. Return to the fridge while you prepare the topping (20 minutes minimum, longer is fine).
 
 ### Stage 4 - Whip the cream
-1. In a chilled bowl, whisk the cold double cream with the icing sugar and vanilla. Whip just to soft peaks — the cream should hold a soft shape on the whisk but not stiffen. Overwhipped cream goes grainy and won't sit cleanly on the bananas.
+1. In a chilled bowl, whisk the cold double cream with the icing sugar and vanilla. Whip just to soft peaks - the cream should hold a soft shape on the whisk but not stiffen. Overwhipped cream goes grainy and won't sit cleanly on the bananas.
 
 ### Stage 5 - Assemble
 1. Peel and slice the bananas into 5 mm rounds. Toss gently in the lemon juice (this slows browning without making them taste sharp).
@@ -61,7 +61,7 @@ The toffee layer is the only stage that takes time: an unopened tin of sweetened
 
 ### Stage 6 - Chill and serve
 1. Refrigerate for at least 30 minutes before serving, longer if you have it.
-2. Cut into wedges with a long, thin knife warmed in hot water and wiped dry between cuts. Carefully lift each wedge out with a flat spatula — the toffee is sticky.
+2. Cut into wedges with a long, thin knife warmed in hot water and wiped dry between cuts. Carefully lift each wedge out with a flat spatula - the toffee is sticky.
 
 ## Notes
 - **Tin safety**: a tin boiled dry is a real risk. Pressure builds inside and an exposed top can rupture. Keep it covered with water at all times, simmer not boil, and never open while hot.

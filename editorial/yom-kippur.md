@@ -7,9 +7,9 @@ kind: religious
 origin: Jewish tradition
 ---
 
-Yom Kippur — the Day of Atonement — is the holiest day in the Jewish year, observed by a full 25-hour fast: no food, no water, from sundown to sundown. The day itself has no food. But the two meals that bookend it are some of the most carefully cooked of the year.
+Yom Kippur - the Day of Atonement - is the holiest day in the Jewish year, observed by a full 25-hour fast: no food, no water, from sundown to sundown. The day itself has no food. But the two meals that bookend it are some of the most carefully cooked of the year.
 
-The pre-fast meal (seudah hamafseket) is gentle, filling and deliberately mild — nothing too salty, nothing too spicy, because both will make the next day's fast harder. Chicken soup with matzo balls, roast chicken, simple kugel, plain rice, soft bread. No fish with bones; no pungent garlic. The meal ends well before sundown, with a sense of careful preparation.
+The pre-fast meal (seudah hamafseket) is gentle, filling and deliberately mild - nothing too salty, nothing too spicy, because both will make the next day's fast harder. Chicken soup with matzo balls, roast chicken, simple kugel, plain rice, soft bread. No fish with bones; no pungent garlic. The meal ends well before sundown, with a sense of careful preparation.
 
 The break-fast is the celebration. Twenty-five hours of hunger meet a dairy spread: bagels split and toasted, cream cheese in bowls, smoked salmon (lox) sliced thin, capers, red onion, sliced tomato, cucumber. A sweet kugel still warm from the oven. Egg-and-onion salad. Honey cake from the Rosh Hashanah cupboard. Strong sweet coffee.
 

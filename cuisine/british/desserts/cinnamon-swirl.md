@@ -50,7 +50,7 @@ A milk-and-butter enriched dough, kneaded long enough to develop the gluten that
 4. Shape into a ball, place in a lightly oiled bowl, cover, and leave to rise in a warm place for 1 to 1 ½ hours, until doubled.
 
 ### Stage 2 - Make the filling
-1. In a small bowl, combine the brown sugar, cinnamon and salt. Stir until uniformly distributed — no white streaks.
+1. In a small bowl, combine the brown sugar, cinnamon and salt. Stir until uniformly distributed - no white streaks.
 
 ### Stage 3 - Roll and fill
 1. Tip the risen dough onto a lightly floured surface. Roll into a rectangle roughly 40 x 25 cm, with the long side facing you.
@@ -68,11 +68,11 @@ A milk-and-butter enriched dough, kneaded long enough to develop the gluten that
 ### Stage 6 - Bake
 1. Heat the oven to 170°C fan / 190°C / 375°F.
 2. Beat the second egg with 1 teaspoon water. Brush gently over the surface of the buns, getting into the spirals.
-3. Bake for 22-25 minutes, until deep golden and the internal temperature reaches 90°C at the centre. Some sugar will leak and caramelise around the edges — that's right, eat those bits first.
+3. Bake for 22-25 minutes, until deep golden and the internal temperature reaches 90°C at the centre. Some sugar will leak and caramelise around the edges - that's right, eat those bits first.
 
 ### Stage 7 - Glaze and finish
 1. While the buns bake, combine the glaze sugar and water in a small pan. Bring to a simmer, swirling until the sugar dissolves into a thin syrup. Stir in the vanilla off the heat.
-2. As soon as the buns come out of the oven, brush all over with the warm glaze. Use all of it — the buns drink it in and the glaze sets tacky-sweet as they cool.
+2. As soon as the buns come out of the oven, brush all over with the warm glaze. Use all of it - the buns drink it in and the glaze sets tacky-sweet as they cool.
 3. Cool in the tin for 15 minutes. Either dust with icing sugar (for the bakery look) or whisk together the icing-sugar icing and drizzle in lines across the top.
 4. Pull the buns apart at the joining edges to serve.
 

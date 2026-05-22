@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-"Doi" means yoghurt, "maach" means fish, and that's the dish: pieces of firm-fleshed freshwater fish — traditionally rohu, katla or sometimes bhetki — first lightly fried in mustard oil, then poached in a thickened yoghurt sauce. The gravy is pale ivory rather than yellow or red; the spices are warming whole spices, not chilli-driven powders. The whisked yoghurt is added off the heat to stop it splitting, then the fish goes back in to finish poaching. It's the celebration-day Bengali fish curry — a touch more refined than a workaday machher jhol.
+"Doi" means yoghurt, "maach" means fish, and that's the dish: pieces of firm-fleshed freshwater fish - traditionally rohu, katla or sometimes bhetki - first lightly fried in mustard oil, then poached in a thickened yoghurt sauce. The gravy is pale ivory rather than yellow or red; the spices are warming whole spices, not chilli-driven powders. The whisked yoghurt is added off the heat to stop it splitting, then the fish goes back in to finish poaching. It's the celebration-day Bengali fish curry - a touch more refined than a workaday machher jhol.
 
 ## Ingredients
 
@@ -51,7 +51,7 @@
 1. Pat the fish pieces dry with kitchen paper.
 2. Rub with the first teaspoon of turmeric and the salt.
 3. Heat the first 4 tablespoons of mustard oil in a heavy-based pan over medium-high heat until it just smokes, then reduce the heat slightly.
-4. Slide the fish into the oil and fry for 2 to 3 minutes per side, until lightly golden — just sealed, not cooked through.
+4. Slide the fish into the oil and fry for 2 to 3 minutes per side, until lightly golden - just sealed, not cooked through.
 5. Lift the fish out with a slotted spoon onto a plate.
 
 ### Stage 2 - Whisk the yoghurt mix
@@ -65,7 +65,7 @@
 3. Sizzle for 30 seconds until fragrant.
 
 ### Stage 4 - Build the base
-1. Add the chopped onion (if using) with a pinch of salt; cook for 6 to 8 minutes until soft and pale gold (don't brown it dark — this dish wants the gravy to stay pale).
+1. Add the chopped onion (if using) with a pinch of salt; cook for 6 to 8 minutes until soft and pale gold (don't brown it dark - this dish wants the gravy to stay pale).
 2. Stir in the garlic and ginger paste; cook for 1 minute.
 3. Add the slit green chillies.
 
@@ -89,7 +89,7 @@
 ## Notes
 - **Yoghurt at room temperature only.** Cold yoghurt straight from the fridge is the most common cause of splitting. Take it out 30 minutes ahead.
 - **Off the heat before pouring.** The single most important step. The pan stays cooler, the yoghurt eases in, and the sauce comes together silky rather than curdled.
-- **Light hand on the onion.** Bengalis disagree about whether doi maach should have onion at all. If you use it, keep it pale — heavy browning makes the gravy muddy and steals from the yoghurt's clean tang.
+- **Light hand on the onion.** Bengalis disagree about whether doi maach should have onion at all. If you use it, keep it pale - heavy browning makes the gravy muddy and steals from the yoghurt's clean tang.
 - **Mustard oil is the dish.** As with most Bengali cooking, mustard oil heated to smoking before anything else is the signature. Don't substitute unless you have to.
 
 ## Serving

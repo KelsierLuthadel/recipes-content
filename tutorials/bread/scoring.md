@@ -48,7 +48,7 @@ Standard scoring is about 5 mm deep, equivalent to the first knuckle of your fin
 - **Too shallow (1-2 mm):** the score does not penetrate the skin. The loaf bursts elsewhere because the score did not give it a release.
 - **Too deep (10 mm+):** the score cuts through too much structure. The loaf deflates around the cut. The crumb collapses inward.
 
-The right depth is "just past the crust line" — through the surface skin, into the dough proper, but no deeper.
+The right depth is "just past the crust line" - through the surface skin, into the dough proper, but no deeper.
 
 ## Score Angle
 

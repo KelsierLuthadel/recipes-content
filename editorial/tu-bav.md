@@ -7,11 +7,11 @@ kind: festival
 origin: Jewish tradition
 ---
 
-Tu B'Av — the 15th of the Hebrew month of Av — is the quieter, smaller Jewish holiday of love. In the ancient world, it marked the day women dressed in white and went out to the vineyards to meet potential matches; in modern Israel, it has been revived as a Jewish counterpart to Valentine's Day, observed lightly with flowers, romantic dinners and white wine.
+Tu B'Av - the 15th of the Hebrew month of Av - is the quieter, smaller Jewish holiday of love. In the ancient world, it marked the day women dressed in white and went out to the vineyards to meet potential matches; in modern Israel, it has been revived as a Jewish counterpart to Valentine's Day, observed lightly with flowers, romantic dinners and white wine.
 
 The food is not heavily codified. The day falls in high summer, so the kitchen leans toward the season: a crisp salad, a piece of grilled fish or a thin steak, a generous bowl of olives and a wedge of feta to start, a sorbet or fruit tart to close. White wine, often Israeli, on the table. The mood matters more than the menu.
 
-This collection draws from the romantic-dinner shelf — light, fresh, and made to be cooked for two without a big production. It overlaps with the Valentine's set; both holidays reward the same kind of cooking.
+This collection draws from the romantic-dinner shelf - light, fresh, and made to be cooked for two without a big production. It overlaps with the Valentine's set; both holidays reward the same kind of cooking.
 
 ## Recipes
 
