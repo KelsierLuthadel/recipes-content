@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Catfish (or any firm white fish) cooks first in spiced water; the cooked flesh shreds; the cooking liquid becomes the base. A spice paste of shallot, garlic, ginger, lemongrass and turmeric fries in oil; chickpea-flour slurry thickens the broth; banana-stem (or hearts of palm / cabbage as substitute) softens in. Fish sauce, paprika and lime balance. Rice vermicelli portions into bowls; broth ladles over; a heavy plate of garnishes, crispy split peas, boiled egg, lime, herbs, go on top.
+Myanmar's national breakfast, the rice-noodle soup that streetcorner stalls in every city open before dawn for. You cook catfish (or any firm white fish) in spiced water first, then shred the cooked flesh and turn the cooking liquid into the soup base. A spice paste of shallot, garlic, ginger, lemongrass and turmeric fries in oil; a chickpea-flour slurry thickens the broth to a silky consistency; banana-stem (or hearts of palm or cabbage as substitute) softens in. Fish sauce, paprika and lime balance the seasoning. Rice vermicelli portions into bowls, broth ladles over, and a heavy plate of garnishes arrives at the table: crispy split peas, halved boiled eggs, lime wedges, fresh herbs, chilli flakes. Each diner builds the bowl to their own taste. The morning meal of Myanmar.
 
 ## Ingredients
 

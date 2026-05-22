@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Chicken thighs poach in stock with shallot, garlic, ginger and turmeric for 25 minutes; lifted out and shredded. The stock cooks down with coconut milk, fish sauce and paprika; a slurry of chickpea flour and water thickens it to a silky soup. Yellow egg noodles cook separately. Everything piles into the bowl: noodles, soup, chicken, then heaping garnishes, sliced shallot, crispy fried shallot, boiled egg, lime, cilantro, chilli flakes. The garnishes are half the dish.
+Myanmar's coconut-chicken noodle soup, the dish closest in spirit to a Thai khao soi but with its own Burmese identity. You poach chicken thighs in stock with shallot, garlic, ginger and turmeric for twenty-five minutes, lift them out and shred the meat. The stock cooks down with coconut milk, fish sauce and paprika, thickened with a slurry of chickpea flour and water into a silky soup. Yellow egg noodles cook separately. Everything piles into the bowl at the end: noodles first, soup ladled over, shredded chicken in the middle, then heaping garnishes (sliced shallot, crispy fried shallot, halved boiled egg, lime wedges, cilantro, chilli flakes). The garnishes are half the dish; eat with chopsticks in one hand and a spoon in the other.
 
 ## Ingredients
 

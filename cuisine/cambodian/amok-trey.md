@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Kroeung is pounded fresh from lemongrass, galangal, turmeric, garlic, shallots, kaffir lime zest and coriander root. The paste fries briefly to bloom; coconut cream and stock loosen it; eggs whisk in to set the custard. Fish chunks fold through with chopped greens; the mix is spooned into banana-leaf cups (or ramekins) and steamed.
+Cambodia's national dish, the centrepiece of any Khmer feast and the proper-occasion food across the country. You start by pounding kroeung fresh in a mortar (the paste of lemongrass, galangal, turmeric, garlic, shallots, kaffir lime zest and coriander root that defines Khmer cooking, and that no shop-bought paste comes close to matching). The kroeung fries briefly to bloom its aromatics, coconut cream and stock loosen it, and eggs whisk in to set the eventual custard. Chunks of firm white fish fold through with chopped greens (traditionally noni leaves, with spinach or chard standing in), and the whole mix spoons into banana-leaf cups (or small ramekins). Twenty minutes in a steamer turns the custard just-set around the soft fish, and the banana leaves perfume everything. Served from the parcels with steamed rice and a wedge of lime.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Long-grain rice is toasted briefly in oil with a chopped onion, turmeric and a small handful of cashews (optional). Water and salt go in; the pot is covered tightly and the rice cooks undisturbed for 18 minutes. A 5-minute rest finishes the steam.
+The Burmese golden rice, the everyday turmeric-stained rice that turns up alongside curries and stews on the home table. You toast long-grain rice briefly in oil with a chopped onion, turmeric and a small handful of cashews (optional but traditional). Water and salt go in, the pot covers tightly, and the rice cooks undisturbed for eighteen minutes. A five-minute rest off the heat finishes the steam. The grains come out the colour of pale gold, perfumed faintly with onion and turmeric, ready to soak up whatever curry sauce hits the plate.
 
 ## Ingredients
 

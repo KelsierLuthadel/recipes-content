@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Yellow split peas soak overnight until softened but not mushy, then blitz to a coarse, sandy paste with shallot, garlic, ginger, turmeric and coriander. No flour, no binder: the natural starch in the peas holds the fritters together. Tablespoonfuls drop into hot oil and fry until deep gold. Served hot with a sour-sweet tamarind dipping sauce.
+The Burmese yellow split-pea fritter, sold by street vendors in hot oil-spattered cones of newspaper across Yangon's evening markets. You soak yellow split peas overnight until they're softened but not mushy, then blitz to a coarse sandy paste with shallot, garlic, ginger, turmeric and coriander. No flour, no binder; the natural starch in the peas holds the fritters together as they fry. Tablespoonfuls drop into hot oil and fry until they're deep gold and craggy at the edges. Eaten hot from the cone with a sour-sweet tamarind dipping sauce, a wedge of lime, and whatever you can carry while you walk on through the evening crowds.
 
 ## Ingredients
 

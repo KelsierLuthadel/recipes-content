@@ -5,7 +5,7 @@
 *Louisiana's blackened chicken: breast fillets dipped in melted butter.*
 
 ## Overview
-Blackened chicken is a Cajun classic where a bold spice mixture creates a charred, flavourful crust on the outside while keeping the meat tender inside. The dark finish comes from the high-heat searing of the spice-coated chicken, a technique that seals in juices and creates a distinctive smoky flavour. This versatile dish works equally well with fish and is delicious served over salads, in sandwiches, or as a standalone protein.
+The Cajun classic invented by Paul Prudhomme in his New Orleans kitchen in the 1980s, the dish that put smoky char on the American restaurant menu for a decade. You build a bold spice mixture (paprika, garlic, onion, thyme, cayenne, salt and black pepper), dip butterflied chicken breasts in melted butter and press them firmly into the spice rub on both sides. Then they hit a screaming-hot cast-iron skillet for about three minutes per side, where the butter and spices char into a deep mahogany crust that locks the juices in and gives the chicken its defining smoky finish. The technique works equally well on fish (Prudhomme's original was redfish), pork or beef. Eaten sliced over a salad, layered in a sandwich with remoulade, or alongside dirty rice as a proper Cajun plate.
 
 **Serves:** 4
 **Prep Time:** 10 minutes

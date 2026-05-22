@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-This is the older, more ceremonial form of lahpet. Unlike the salad version (lahpet thoke), there is no cabbage, no tomato, no fresh dressing. The fermented tea leaves stay pungent and concentrated; the fried elements supply texture and salt. Components are kept separate until served so the crispy bits do not soften. Build your own bite each time. Eaten as an afternoon teashop snack or, traditionally, at the close of formal meals as a sign of welcome and reconciliation.
+The older, more ceremonial form of lahpet, the version that predates the salad. Unlike lahpet thoke (the salad), there's no cabbage, no tomato, no fresh dressing - the fermented tea leaves stay pungent and concentrated, and the fried elements supply texture and salt. You keep all the components separate on a divided plate until they reach the table, so the crispy bits don't soften, and each guest builds their own bite from the spread. Eaten as an afternoon teashop snack with a small cup of green tea, or traditionally at the close of formal meals as a sign of welcome and reconciliation - a Burmese custom that dates back centuries and still turns up at weddings.
 
 ## Ingredients
 

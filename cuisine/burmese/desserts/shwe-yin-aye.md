@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (plus 2 hours setting)
 
 ## Overview
-Four textures to make and chill: a firm green agar jelly cut into small cubes; cooked sago pearls; toasted white bread cut into 1 cm dice; and a cool sweetened coconut milk. A dark palm sugar syrup ties it together. The bread is the unexpected element: lightly toasted to hold its shape, it soaks up the coconut milk like a sponge and turns the bowl into something halfway between dessert and breakfast. Crushed ice on top is non-negotiable.
+The shaved-ice dessert of Burmese teashops, the cold sweet you order on a hot afternoon when the temperature touches 35°C. You make four textures separately and chill them: a firm green agar jelly cut into small cubes, cooked sago pearls, lightly toasted white bread cut into one-centimetre dice, and a cool sweetened coconut milk. A dark palm sugar syrup ties everything together at the bowl. The bread is the unexpected element: toasted just enough to hold its shape, it soaks up the coconut milk like a sponge and turns the bowl into something halfway between dessert and breakfast. Crushed ice piled on top is non-negotiable. Eat fast before the ice melts and floods everything.
 
 ## Ingredients
 

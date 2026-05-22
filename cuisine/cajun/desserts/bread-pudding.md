@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-A French baguette or stale brioche is torn into chunks and soaked in a custard of whole eggs, double cream, whole milk, brown sugar, vanilla, cinnamon and nutmeg. Raisins (often rum-soaked) and toasted pecans are folded in. Baked in a buttered dish at moderate heat until the top is crisp and bronzed and the middle is set but soft. Bourbon sauce: butter, sugar, an egg yolk and a generous slug of bourbon, whisked over a low heat into a glossy, silky sauce. Poured hot over each portion.
+The New Orleans bread pudding, the warm dessert that lands on the table at the end of every Cajun Sunday lunch with a slug of bourbon sauce poured over it. You tear a French baguette or stale brioche into chunks and soak them in a custard of whole eggs, double cream, milk, brown sugar, vanilla, cinnamon and nutmeg until they're saturated. Raisins (often rum-soaked the night before) and toasted pecans fold in for sweetness and crunch. The pudding bakes in a buttered dish at moderate heat until the top has crisped to deep bronze and the middle is just set but still soft and quivering. While it bakes you build the bourbon sauce: butter, sugar, an egg yolk and a generous slug of bourbon whisked over low heat into a glossy, silky pour. Spooned hot over the pudding at the table, the sauce running down the sides and pooling on the plate. A small scoop of vanilla ice cream alongside if you're feeling ambitious.
 
 ## Ingredients
 

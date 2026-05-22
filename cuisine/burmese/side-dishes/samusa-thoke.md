@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Yellow split peas cook with turmeric and salt into a thick soup; sliced onion, garlic, paprika and fish sauce season it. Small Burmese samusas (filo or thin pastry triangles with a lamb mince filling) are pre-fried or warmed. In each bowl: a heap of broken samusa, a ladle of hot pea soup, a tangle of raw red onion, a small mound of crispy bits (gram flour fried into shapes), chopped cilantro, lime, chilli. Toss at the table; eat while everything is hot.
+A Yangon street-stall snack and the lunch office workers queue for at midday: broken samosas tossed in a hot yellow-pea soup at the bowl with raw onion, lime and crispy bits. You cook yellow split peas with turmeric and salt into a thick soup, season it with fried sliced onion, garlic, paprika and fish sauce. Small Burmese samosas (filo or thin pastry triangles with a lamb mince filling) are pre-fried or warmed. The construction in the bowl is fast: a heap of broken samosa, a ladle of hot pea soup, a tangle of raw red onion, a small mound of crispy gram-flour bits, chopped cilantro, a wedge of lime, chilli to taste. Toss at the table and eat while everything is hot.
 
 ## Ingredients
 

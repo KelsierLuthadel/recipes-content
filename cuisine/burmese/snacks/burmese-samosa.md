@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Thin pastry triangles wrap a lightly spiced potato-and-pea filling. The pastry uses a hot-water dough rolled out very thin so the fried shell is glassy and crisp, not bready. Filling is mild by Indian standards: turmeric, ginger, fried onion and a whisper of cumin, finished with crushed peanuts for nuttiness. Fried at moderate heat until amber and crackling.
+The Burmese take on the South Asian samosa, with a thinner, crisper pastry and a milder filling than its Indian cousin. You make a hot-water dough that rolls out very thin so the fried shell ends up glassy and crisp rather than bready. The filling is mild by Indian standards: turmeric, ginger, fried onion and a whisper of cumin folded into mashed potato and peas, finished with crushed peanuts for the nuttiness that marks the Burmese version. The triangles fry at moderate heat until amber and crackling, the pastry blistering as it goes. Eaten hot dipped in tamarind sauce, or torn into chunks for a samusa-thoke salad later.
 
 ## Ingredients
 

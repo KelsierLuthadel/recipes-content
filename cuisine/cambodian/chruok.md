@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Vegetables are julienned thin so the brine penetrates fast. Salt drains them briefly to expel water; brine pours over; everything sits at room temperature for an hour, then refrigerates. Fish sauce is traditional but soy works for a vegetarian version.
+A Cambodian quick-pickle, the bright sharp counter that turns up on every Khmer table next to grilled meats and rich curries. You julienne daikon, carrot and cucumber thin so the brine penetrates fast, then salt them briefly in a colander to draw the water out. The brine is sweet-sour: lime juice, white vinegar, palm sugar, fish sauce (or soy for a vegetarian version) and a sliced bird's-eye chilli. Pour it over the drained vegetables and leave to sit at room temperature for an hour, then refrigerate. Ready in an hour, better after three, best the next day. Eaten alongside grilled fish or chicken, piled into a bowl of rice with anything saucy, or tucked into a sandwich.
 
 ## Ingredients
 

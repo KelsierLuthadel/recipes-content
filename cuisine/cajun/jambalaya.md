@@ -5,7 +5,7 @@
 *Louisiana's one-pot rice dish: chicken, andouille and prawns cooked down with rice, the trinity and Cajun spice.*
 
 ## Overview
-Jambalaya is a one-pot Cajun rice dish that combines proteins, vegetables, and aromatic spices in a celebration of Louisiana cooking. This contemporary pasta version puts a modern twist on the classic by using penne instead of rice, layering shrimp, chicken, and andouille sausage in a creamy tomato sauce infused with cajun spices. The result is a hearty, flavourful dish that captures the essence of New Orleans cuisine.
+A modern pasta-twist on the Cajun one-pot classic, swapping the traditional rice for penne but keeping the layered Louisiana flavour intact. You brown andouille sausage hard in a heavy pot to render its smoky fat, then add chicken pieces and cook them through in the same fat. The Cajun trinity (onion, celery and sweet pepper) softens in next, Cajun seasoning blooms in the heat, and a tomato base goes in with cream to build a sauce that's rich, smoky and just-spicy. Cooked pasta tosses through at the end, with prawns going in for the last few minutes so they stay tender. Eaten in deep bowls with parsley scattered over and hot sauce on the table for whoever wants more heat. New Orleans rules adapted to a Tuesday-night kitchen.
 
 **Serves:** 4
 **Prep Time:** 25 minutes

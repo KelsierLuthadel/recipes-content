@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Dried shrimp pulse-grind to a coarse floss. A pile of sliced garlic and shallot fry in oil until deeply golden and crisp. The dried shrimp adds in; toasts to a fragrant rust colour. Chilli powder, fish sauce, tamarind, sugar and a splash of water turn it into a sticky relish. Cooked until the oil clears (12-15 minutes); cooled; stored.
+The Burmese dried-shrimp relish that sits in a jar in every Yangon kitchen, the seasoning you reach for to lift a plate of plain rice into something memorable. You pulse-grind dried shrimp to a coarse floss, then fry a pile of sliced garlic and shallot in oil until they're deep golden and crisp. The dried shrimp joins them and toasts to a fragrant rust colour. Chilli powder, fish sauce, tamarind, sugar and a splash of water turn the lot into a sticky red-brown relish. Cook until the oil clears (twelve to fifteen minutes), cool, store in a jar. Eat by the spoonful with rice, or as a side to grilled meat or fish.
 
 ## Ingredients
 

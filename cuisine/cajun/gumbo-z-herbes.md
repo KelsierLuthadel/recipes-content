@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-A dark roux is built first, flour cooked in oil to peanut-butter brown. The Cajun trinity (onion, celery, pepper) joins; greens, finely chopped, pile in with stock and simmer for 45 minutes until they're meltingly soft and the broth has darkened. Hot sauce, file powder and rice finish the bowl.
+The "gumbo of herbs", the green Lenten gumbo traditionally made by Cajun and Creole families during the fasting weeks before Easter, when meat was off the table but the bowl still had to be filled. You build a dark roux first, flour cooked in oil to peanut-butter brown over a long patient stir. The Cajun trinity of onion, celery and bell pepper goes in to soften, then a mountain of finely chopped greens (collards, mustard greens, turnip tops, spinach, chard - the more varieties the better) piles into the pot with stock. Forty-five minutes of slow simmer takes the greens to meltingly soft and turns the broth into a deep nourishing green-brown. Hot sauce, filé powder and a scoop of white rice finish each bowl. Lenten or not, the dish stands on its own as one of Louisiana's quieter masterpieces.
 
 ## Ingredients
 

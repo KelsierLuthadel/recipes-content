@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¾ hours
 
 ## Overview
-Trinity (onion, celery, pepper) softens in oil; smoked paprika and Cajun seasoning bloom. Soaked red kidney beans go in with stock, bay and thyme; simmer until tender. The last 30 minutes, beans get partially mashed against the side of the pot to thicken the broth into a gravy. Vinegar and hot sauce at the finish.
+The Monday dinner of New Orleans, the dish traditionally cooked on washing day because it could simmer unattended on the back of the stove while the laundry got done. You soften the Cajun trinity of onion, celery and bell pepper in oil, then bloom smoked paprika and Cajun seasoning in the heat. Soaked red kidney beans go in with stock, bay and a generous handful of thyme, and the pot simmers slowly until the beans are tender. In the last thirty minutes, you partially mash some of the beans against the side of the pot. That mash is what thickens the broth into a gravy and gives the dish its defining velvet texture. A splash of vinegar and a hit of hot sauce at the finish. Ladled over white rice with a smoky andouille link on the side, the way Louis Armstrong used to sign his letters: "Red beans and ricely yours".
 
 ## Ingredients
 

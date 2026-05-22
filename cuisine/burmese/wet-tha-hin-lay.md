@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Pork is marinated briefly in turmeric, salt and a splash of fish sauce. Onions are cooked hard in oil until deep golden brown, this is the colour and depth of the curry. The pork is browned in the same oil; garlic, ginger, paprika and chilli powder go in; tomato is softened; water covers the meat and it simmers covered for an hour until tender, then uncovered to "return the oil" to the surface. Served with rice.
+The Burmese pork curry, the simplest of the country's red-oil-slick curries and the dish that turns up in every household's lunch rotation. You marinate pork briefly in turmeric, salt and a splash of fish sauce, then cook onions hard in oil until they're deep golden brown - this is the colour and depth of the curry, and rushing it leaves the dish pale. The pork browns in the same oil, then garlic, ginger, paprika and chilli powder go in, then tomato softens. Water covers the meat and the curry simmers covered for an hour until tender, then uncovers for the se-byan stage that returns the oil to the surface in the characteristic red-orange slick. Served with white rice, a side of balachaung, and a green vegetable.
 
 ## Ingredients
 

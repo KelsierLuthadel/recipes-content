@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Beef chuck or shin chunks are marinated in turmeric, fish sauce and salt. Onions are fried in oil until deep brown; the beef is browned in the same oil; ginger-garlic paste, paprika and chilli powder are added; tomato and water turn it to a stew. Two hours of slow simmer; the meat falls apart at the fork. The signature: a deep red-orange oil slick on top.
+A Burmese curry from the country's Indian-origin community, sitting somewhere between a Madras and a Burmese ohn-no in spice profile. You marinate chunks of beef chuck or shin in turmeric, fish sauce and salt while you fry onions in oil until they're deep brown - that long onion fry is the foundation. The beef browns in the same oil, then ginger-garlic paste, paprika and chilli powder go in, then tomato and water turn it into a stew. Two hours of slow simmer until the meat falls apart at a fork. The signature finish is the see byan, a deep red-orange oil slick that rises to the top of the curry as it reduces, which is what the dish is named for. Eaten with rice or paratha, and a small bowl of pickled vegetable on the side.
 
 ## Ingredients
 

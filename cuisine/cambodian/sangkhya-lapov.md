@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-A small kabocha or buttercup pumpkin has its top cut off and seeds scooped out. A custard of coconut milk, palm sugar, eggs and a pinch of salt fills the cavity. The pumpkin (top replaced) sits in a steamer over boiling water and steams for 1 hour or so until the custard is set. Slice in wedges to serve.
+The Khmer New Year dessert, a pumpkin custard steamed inside a whole pumpkin and sliced at the table into wedges so layered pumpkin and custard come together in every bite. You start with a small kabocha or buttercup pumpkin, cut the top off (keep it for replacement), and scoop the seeds out to make a hollow vessel. A custard of coconut milk, palm sugar, eggs and a pinch of salt fills the cavity. The top replaces and the whole pumpkin sits in a steamer over boiling water for about an hour, until the custard has just set and the pumpkin flesh has gone tender enough to spoon. Cool slightly, slice into wedges, and serve with the custard quivering against the pale orange pumpkin. A celebration dish across Cambodia for weddings and New Year, gentle, fragrant, faintly floral from the palm sugar.
 
 ## Ingredients
 

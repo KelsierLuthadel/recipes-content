@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Coarse semolina is toasted in butter and ghee until lightly fragrant. Coconut milk and water cook it into a porridge; sugar is dissolved in; eggs are whisked in off the heat. The mixture is poured into a baking tin, given a final sprinkle of poppy seeds and raisins, then baked until set. A short hit under the grill at the end gives the deep mahogany, slightly bitter top that defines the cake.
+The Burmese semolina cake that turns up at every holiday and family gathering, the dessert that locals will tell you their grandmother made best. You toast coarse semolina in butter and ghee until it's lightly fragrant, then cook it with coconut milk and water into a thick porridge. Sugar dissolves in, eggs whisk in off the heat (off the heat is critical; hot semolina will scramble them), and the mixture pours into a baking tin with a final sprinkle of poppy seeds and raisins. Bake until set, then finish with a short hit under the grill that gives the cake its defining deep mahogany, slightly bitter, crackling top. Sliced into squares and eaten with tea.
 
 ## Ingredients
 

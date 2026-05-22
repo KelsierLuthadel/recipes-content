@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Skinless firm fish fillets cube and pulse in a food processor with shallot, garlic, ginger, lime, fish sauce and a small egg into a sticky paste. Beaten cornflour binds it. Curry leaves, sliced spring onion, chopped cilantro and a fresh chilli go in. Patties form by hand (slightly damp), shallow-fry in batches at 170°C, 2-3 minutes per side.
+The Burmese fish cakes that arrive at lahpet-thoke salad tables and street snack stalls alike, bright with lime and curry leaf. You cube skinless firm fish fillets and pulse them in a food processor with shallot, garlic, ginger, lime, fish sauce and a small egg into a sticky paste. A spoon of beaten cornflour binds it. Curry leaves, sliced spring onion, chopped cilantro and a fresh chilli go in for fragrance and bite. Patties form by hand (keep your hands slightly damp so the mixture doesn't stick), then shallow-fry in batches at 170°C for two or three minutes per side until they're deep gold and crisp at the edges. Eaten warm with a sour-sweet tamarind dipping sauce.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Pastry: a flaky shortcrust enriched with a little butter and lard (or all butter), made cold and rested. Filling: a small batch of crawfish étouffée, blond roux, the trinity, garlic, tomato, Cajun spice, stock and crawfish tails, simmered down until thick. Cooled fully so it can be spooned into pastry circles, folded, crimped, egg-washed and either deep-fried or baked. The fried version is the classic.
+A Louisiana hand pie, the Cajun answer to a Cornish pasty and the snack you'd buy at a Lafayette festival booth alongside a beer. You make a flaky shortcrust enriched with a little butter and lard (or all butter if you'd rather), cold and rested. The filling is a small batch of crawfish étouffée: a blond roux first, then the trinity of onion, celery and bell pepper, garlic, tomato, Cajun spice, stock and crawfish tails, simmered down until thick enough to hold its shape on a spoon. Cool the filling completely so it can be spooned into pastry circles, folded into half-moons, crimped sharp at the edge, brushed with egg wash and either deep-fried or baked. The fried version is the classic, with the pastry blistered amber-gold and the filling steaming inside. Eaten warm from the paper with a dab of remoulade and a cold drink.
 
 ## Ingredients
 

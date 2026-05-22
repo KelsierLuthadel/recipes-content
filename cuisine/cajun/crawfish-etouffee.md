@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-A blond roux (butter and flour, cooked just to the colour of peanut butter, lighter than gumbo's roux) cooks first. The trinity goes in to soften; tomato paste, Cajun spice and stock loosen; the lot simmers down to a thick gravy. Crawfish tails (or prawns) join near the end and cook briefly so they stay tender. Spring onion and parsley to finish.
+A Louisiana classic, the dish whose name means "smothered" in French, and that's exactly what's happening at the table: tender crawfish tails smothered in a rich gravy spooned over white rice. You start with a blond roux (butter and flour cooked just to the colour of peanut butter, lighter than gumbo's nearly-burnt mahogany), then soften the Cajun trinity of onion, celery and bell pepper in it until everything goes glossy. Tomato paste, Cajun spice and stock loosen the mixture, and the lot simmers down to a thick velvety gravy. Crawfish tails (or prawns if you can't find them) go in near the end and cook just briefly so they stay tender rather than turning rubbery. Spring onion and parsley scatter over at the finish. Ladled over white rice in a bowl, with crusty bread and a glass of cold beer alongside.
 
 ## Ingredients
 

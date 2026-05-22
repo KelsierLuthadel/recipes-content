@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The trick is a thin, crisp batter rather than a thick doughy coat. Rice flour and a small spoon of plain flour give crackle; a pinch of turmeric supplies the gold; soda water keeps it light. The bananas must be properly ripe: spotted skins, almost too soft to slice cleanly. Frying at a steady 175°C gives a glassy shell in three minutes; any cooler and the batter sponges up oil. A sprinkle of toasted sesame at the end is traditional; a scoop of coconut ice cream alongside is a modern flourish.
+The Burmese banana fritter that turns up at street stalls across Yangon and Mandalay, a sticky-sweet snack at any hour of the day. The trick is a thin, crisp batter rather than a thick doughy coat. You whisk rice flour and a small spoon of plain flour for the crackle, a pinch of turmeric for the gold, and soda water to keep the batter light. The bananas must be properly ripe (spotted skins, almost too soft to slice cleanly), and the oil steady at 175°C. Any cooler and the batter sponges up oil and the fritter goes soggy. Three minutes gives you a glassy golden shell around tender fruit. A sprinkle of toasted sesame at the end is the traditional finish; a scoop of coconut ice cream alongside is the modern flourish.
 
 ## Ingredients
 

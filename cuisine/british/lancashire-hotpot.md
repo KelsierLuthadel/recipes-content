@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-The defining dish of the north-west of England, the one-pot supper invented to feed mill workers in the cotton towns of Lancashire from a single piece of cheap cut and a layer of potatoes. You layer lamb shoulder or middle-neck chunks with onions and stock in a deep dish, top with overlapping slices of waxy potatoes that protect the meat below while crisping golden above, and put the whole thing into a low oven for hours. Time and gentle heat do the rest: the lamb tenderises, the onions melt down into the gravy, the potato top crisps into a thatched roof of pale brown discs. Eaten with pickled red cabbage on the side, exactly as it would have been on a Pendle table a hundred years ago.
+The defining dish of the north-west of England, the one-pot supper invented to feed mill workers in the cotton towns of Lancashire from a single tough cut of lamb and a layer of potatoes. You layer lamb shoulder or middle-neck chunks with onions and stock in a deep dish, top with overlapping slices of waxy potatoes that protect the meat below while crisping golden above, and put the whole thing into a low oven for hours. Time and gentle heat do the rest: the lamb tenderises, the onions melt down into the gravy, the potato top crisps into a thatched roof of pale brown discs. Eaten with pickled red cabbage on the side, exactly as it would have been on a Pendle table a hundred years ago.
 
 ## Ingredients
 
