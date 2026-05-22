@@ -1,6 +1,6 @@
 # Coburg
 
-![A Coburg loaf](resources/coburg-1.jpg)
+![A Coburg loaf](resources/coburg-loaf.jpg)
 
 *The Coburg is a cob with a single, decisive piece of cutlery work: a deep cross slashed across the top before the bake. In the oven those four quarters lift apart and you get a striking blistered crown for the price of one extra step. Same dough, same shaping as a [cob](cob.md), genuinely impressive result.*
 

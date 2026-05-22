@@ -1,6 +1,6 @@
 # Standard Loaf
 
-![A standard pan loaf](resources/loaf-1.jpg)
+![A standard pan loaf](resources/loaf.jpg)
 
 *The standard loaf is the everyday rectangular sandwich loaf — dough shaped into a soft oval and dropped into a buttered tin to rise. It's the easiest shape in the whole course and the place to start if you've never baked bread before. The tin does most of the work; you just need to put dough in it.*
 

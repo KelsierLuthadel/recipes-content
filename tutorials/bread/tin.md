@@ -1,6 +1,6 @@
 # Tin Loaf
 
-![A tin loaf with a split top](resources/tin-1.jpg)
+![A tin loaf with a split top](resources/tin-loaf.jpg)
 
 *A tin loaf is a rectangular pan loaf with a deep split running down the centre — like the [standard loaf](standard-loaf.md), but with an extra bit of presentation. You can make it two ways: by joining two pieces of dough side-by-side in the tin (they fuse during baking), or by scoring a single round of dough deeply down its length. Both produce that distinctive striped top.*
 

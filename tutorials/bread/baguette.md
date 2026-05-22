@@ -1,6 +1,6 @@
 # Baguette
 
-![A French baguette](resources/baguette-1.jpg)
+![A French baguette](resources/baguette-loaf.jpg)
 
 *The baguette is the long, thin, crusty French loaf with the dramatic ears down its top. It's the shape with the steepest learning curve in the course — the dough has to stay uniform-diameter across 60 cm — but the technique itself is teachable, and once you have the envelope-fold and the rolling motion, every other long-and-thin loaf becomes a variation.*
 

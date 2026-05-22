@@ -1,6 +1,6 @@
 # Épi
 
-![A baked épi](resources/epi-1.jpg)
+![A baked épi](resources/epi-loaf.jpg)
 
 *Épi means "ear" in French, as in ear of wheat — and that's exactly what this bread looks like. It's a baguette that's been snipped with scissors before baking so the dough folds out into a fan of pull-apart segments. Quite possibly the easiest visual showstopper in the bread course: if you can shape a baguette, you can épi.*
 

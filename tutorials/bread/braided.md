@@ -1,6 +1,6 @@
 # Braided Loaf
 
-![A braided loaf](resources/braided-1.jpg)
+![A braided loaf](resources/braided-loaf.jpg)
 
 *A braided loaf looks far more involved than it actually is. Once you can roll three even-length dough strands and have the patience to alternate "right over centre, left over centre" a few dozen times, you can produce something genuinely impressive. It's the loaf you'd bring to a dinner party.*
 

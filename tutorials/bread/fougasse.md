@@ -1,6 +1,6 @@
 # Fougasse
 
-![A fougasse, slashed and baked](resources/fougasse-1.jpg)
+![A fougasse, slashed and baked](resources/fougasse-loaf.jpg)
 
 *Fougasse is Provence's slashed flatbread: dough stretched out into a leaf or ladder shape with deep cuts pulled open into elongated holes. The holes do something clever — they expose so much surface area to the oven heat that the whole loaf becomes mostly crust. Tear-and-dip is the only way to eat it.*
 

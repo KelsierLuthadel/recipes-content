@@ -1,6 +1,6 @@
 # Cottage
 
-![A British cottage loaf](resources/cottage-1.jpg)
+![A British cottage loaf](resources/cottage-loaf.jpg)
 
 *The cottage loaf is two rounds stacked, joined by a finger-hole pushed straight down through both. It looks like nothing else and originated for a practical reason — small wood-fired ovens couldn't fit a single big loaf, so bakers stacked a smaller one on top of a larger one to make the most of the heat. The shape stuck. It's a charming, instantly-recognisable English loaf and surprisingly easy to make.*
 

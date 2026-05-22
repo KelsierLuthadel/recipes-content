@@ -1,6 +1,6 @@
 # Cob or Boule
 
-![A round cob loaf](resources/cob-1.jpg)
+![A round cob loaf](resources/cob-loaf.jpg)
 
 *The cob is the round dome you picture when you think "loaf of bread." Master this one shape and a surprising amount of the bread repertoire opens up. The Coburg, the cottage, the sourdough boule, even the rustic country round on the cover of every baking book — all of them start with the same hand movement you'll learn here.*
 

@@ -1,6 +1,6 @@
 # Bloomer
 
-![A bloomer loaf](resources/bloomer-1.jpg)
+![A bloomer loaf](resources/bloomer-loaf.jpg)
 
 *The bloomer is the long flat oval with diagonal slashes across the top that fans out into a wheat-stalk pattern as it bakes. Classic British artisan shape, very forgiving to make, and one of the most rewarding loaves to score: the slashes open up dramatically in the oven and the bread "blooms" through each one.*
 
