@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Sweet white onion is sliced thin and soaked in cold salted water 15 minutes, this draws out the sharpness and leaves a clean, mild onion flavour. Tomatoes slice into half-moons; everything tosses with olive oil, lime and salt. Coriander on top.
+The Chilean table salad, three ingredients done properly. The defining technique is what you do with the onion: you slice sweet white onion thin and soak it in cold salted water for fifteen minutes, which draws out the harsh sulphurous bite and leaves a clean, mild allium that doesn't punish the rest of the salad. Ripe tomatoes slice into half-moons, everything tosses with olive oil, lime and salt, and a generous scatter of fresh coriander goes on top. That's it. Eaten alongside roast meat, empanadas, pastel de choclo, or anything off the grill. The soaked-onion technique is the difference between this and any other tomato salad.
 
 ## Ingredients
 

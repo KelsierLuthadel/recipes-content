@@ -11,7 +11,7 @@
 **Cook Time:** 1 ½ hours
 
 ## Overview
-Onions cook down for nearly an hour into a deep dark base, this is the foundation of doro wat and shouldn't be rushed. Berbere (Ethiopian spice blend) and niter kibbeh fold in. Chicken thighs and legs simmer in the sauce; hard-boiled eggs join late, taking on the deep red colour. Eaten communally from a single platter with injera; tears of injera scoop the stew.
+Ethiopia's national dish, the spiced chicken stew that turns up at every wedding, Easter feast and Christmas table, and the one dish a cook is judged on. The foundation is the onion - you cook it down slowly for nearly an hour into a deep dark base, and this is the step that decides whether the wat is great or merely acceptable. Berbere (the Ethiopian spice blend of chilli, fenugreek, ginger and a dozen others) and niter kibbeh (spiced clarified butter, the dish's defining fat) fold in. Chicken thighs and legs simmer in the deep red sauce, and hard-boiled eggs join late, scored with a knife so they take on the colour and the flavour. Eaten communally from a single platter, with injera flatbread torn into pieces to scoop the stew. No cutlery, no individual plates, hands clean before the meal.
 
 ## Ingredients
 

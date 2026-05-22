@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Onion melts in oil; berbere and tomato bloom in; water joins. Chickpea flour is whisked through, then cooked steadily, stirring, until thick and silky. The longer it cooks, the richer it tastes.
+A creamy Ethiopian chickpea-flour stew, the everyday vegan main that's eaten constantly during fasting periods (and outside them too). You melt onion in oil until it goes jammy, bloom berbere and tomato in the fat, then add water and whisk in chickpea flour until it dissolves smooth. From there it's about patience: cook steadily over low heat, stirring, until the stew thickens to a silky paprika-orange porridge that holds a spoon. The longer it cooks, the richer and more rounded it tastes. Eaten poured onto injera in a generous puddle, with extra injera torn to scoop. Forgiving, fast, deeply savoury.
 
 ## Ingredients
 

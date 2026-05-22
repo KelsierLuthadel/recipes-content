@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Pino: beef chopped (not minced, knife-cut chunks), browned, then slow-cooked with three times its weight of onion until the onion melts and the meat is dark and sweet. Seasoned with cumin, paprika, oregano, ají de color. Cooled overnight ideally, better firm than warm. A rich dough of flour, butter, lard, egg yolks, salt and warm milk; folds, fills, seals, bakes at 200°C until deeply burnished.
+Chile's national pastry, the half-moon empanada that turns up at every Independence Day asado and most Sunday lunches. The pino filling is the dish's identity: knife-chopped beef (not minced - the texture matters), browned, then slow-cooked with three times its weight of onion until the onion melts into the meat and the whole mixture turns dark and sweet. Cumin, paprika, oregano and ají de color season it, and the filling rests overnight ideally so it firms up and slices cleanly. The dough is rich and buttery, made with flour, butter, lard, egg yolks, salt and warm milk. Each empanada wraps a generous spoonful of pino with a hard-boiled egg quarter, a black olive and a couple of raisins, then folds, seals, and bakes at 200°C until deeply burnished. Eaten with a glass of Chilean red.
 
 ## Ingredients
 

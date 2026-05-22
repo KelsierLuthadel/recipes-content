@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Eggs whisk gently with sugar and vanilla. Warm milk drizzles in. Strains through a fine sieve into an oven dish. Bakes for 40-45 minutes at 180°C till the surface is deep gold and the centre wobbles only slightly. No water bath, Chilean leche asada gets its iconic browned crust by direct heat. Cools to room temperature, then chills.
+Chile's homely flan, the simpler cousin of crème caramel that turns up on every household table without ceremony. You whisk eggs gently with sugar and vanilla so you don't beat air in, then drizzle warm milk in slowly to temper. Strain through a fine sieve into an oven dish to catch any cooked egg threads. Forty-five minutes at 180°C and the surface has gone deep gold and the centre wobbles only slightly. Unlike a French crème caramel, leche asada uses no water bath and no caramel sauce. The iconic browned crust comes from direct heat, and the custard underneath stays silky soft. Cools to room temperature, then chills. Sliced into wedges and eaten plain or with a spoon of fresh fruit on the side.
 
 ## Ingredients
 - 1 litre whole milk

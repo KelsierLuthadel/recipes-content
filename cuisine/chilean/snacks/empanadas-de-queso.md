@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Dough: flour, salt, butter, warm milk, an egg, kneads to a smooth pliable dough; rests for 30 min. Filling: queso fresco or mozzarella cubes about 1 cm; a sprinkle of oregano. Dough divides; each ball rolls to a 10 cm disc; filling sits in the centre; folds in half; edges crimp with a fork. Deep-fries in moderately hot oil 3 minutes per side till deep gold. Drains briefly. Eats hot.
+Chile's cheese empanadas, the parties-and-snacks half-moon that's the lighter, quicker cousin of empanadas de pino. You knead a dough of flour, salt, butter, warm milk and an egg to a smooth pliable ball and rest it for thirty minutes. The filling is simplicity itself: cubes of queso fresco or mozzarella about a centimetre across, with a sprinkle of oregano. Divide the dough, roll each ball to a ten-centimetre disc, place a cube of cheese in the centre, fold into a half-moon, crimp the edges with a fork. Deep-fry in moderately hot oil for three minutes per side until deep gold. Drain briefly, eat hot before the cheese sets - the stretchy bite is half the pleasure.
 
 ## Ingredients
 

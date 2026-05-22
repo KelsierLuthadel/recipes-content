@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes (mostly hands-off)
 
 ## Overview
-Whole milk, sugar, vanilla pod and a pinch of bicarbonate of soda combine in a heavy wide pan. Simmers slowly for 2-3 hours, stirring more frequently as it thickens, until it reduces by two-thirds and turns a deep caramel colour. The bicarb is what gives manjar its iconic deep brown, it accelerates the Maillard reaction. Cools and stores.
+Chile's version of dulce de leche, the slow-simmered milk caramel that turns up in alfajores, kuchen fillings and the breakfast spread on a thick slice of bread. You combine whole milk, sugar, a split vanilla pod and a pinch of bicarbonate of soda in a heavy wide pan, then simmer slowly for two to three hours, stirring more frequently as the mixture thickens. The bicarb is the trick - it accelerates the Maillard reaction and is what gives manjar its iconic deep brown colour, where unaided dulce de leche stays paler. You're done when the mixture has reduced by two-thirds and turned the colour of dark caramel. Cool, store in a jar. Spread on toast, sandwich in alfajores, or eat by the spoonful when nobody's looking.
 
 ## Ingredients
 - 2 litres whole milk

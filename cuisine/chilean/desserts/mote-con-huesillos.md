@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour (plus chilling)
 
 ## Overview
-Dried peaches soak overnight to soften, then simmer with sugar, cinnamon and cloves into a deep amber syrup. Husked wheat (mote, or pearled wheat as a substitute) cooks separately until tender. Both chill thoroughly. Served in tall glasses with a big spoonful of cooked wheat at the bottom, two peach halves on top, and the cold syrup poured over.
+Chile's summer drink-dessert, the cold glass that street vendors carry across Santiago in heatwaves and that arrives on every patio table in January. You soak dried peaches overnight to soften them, then simmer with sugar, cinnamon and cloves into a deep amber syrup. Husked wheat (mote, or pearled wheat as a substitute) cooks separately in plain water until tender. Both chill thoroughly. Served in tall glasses with a big spoonful of cooked wheat at the bottom, two peach halves balanced on top, and the cold spiced syrup poured over. You drink it first - the syrup is the reward of a hot afternoon - then spoon up the soft peaches and the wheat at the bottom. A summer ritual.
 
 ## Ingredients
 

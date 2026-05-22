@@ -11,7 +11,7 @@
 **Cook Time:** 22 minutes
 
 ## Overview
-A simple lean dough, bread flour, yeast, water, salt, no sugar, no fat. Long first rise (1 hour). Divided into 16 small balls, paired into 4-segment shapes (two balls side-by-side, pressed in the middle to form 4 lobes). Second short rise. Baked at 230°C with steam (a tray of hot water at the bottom of the oven) until deeply crusty.
+Chile's everyday bread, the small crusty roll with four lobes that pulls apart cleanly along its deep score. You make a lean dough from bread flour, yeast, water and salt (no sugar, no fat) and give it a long first rise of an hour to develop flavour. Divide into sixteen small balls, pair into four-lobe shapes (two balls side-by-side, pressed in the middle to form four humps), and let them rise briefly again. Bake at 230°C with steam (a tray of hot water at the bottom of the oven) until the rolls are deeply crusty on the outside and tender inside. Eaten warm, torn open and spread with butter, mashed avocado, or a slice of fresh cheese. The morning bread of Chile.
 
 ## Ingredients
 

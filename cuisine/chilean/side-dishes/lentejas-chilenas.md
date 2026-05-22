@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Smoked bacon renders in a heavy pot; onion, garlic and carrot soften in the fat. Tomato and dried oregano build a base. Lentils and stock simmer for 45 minutes until tender. Potato chunks go in for the last 20 minutes. A splash of red wine vinegar at the end brightens the rich stew.
+A Chilean lentil stew, the kind of one-pot that turns up at any Sunday lunch through autumn and winter. You render smoked bacon in a heavy pot until the fat runs clear, then soften onion, garlic and carrot in the rendered bacon fat. Tomato and a generous scatter of dried oregano build the base. Green or brown lentils go in with stock and simmer for forty-five minutes until tender. Potato chunks join for the last twenty minutes. A splash of red wine vinegar at the end brightens the whole stew and pushes it from heavy to balanced. Eaten with crusty bread, a chopped salad on the side, and a glass of red.
 
 ## Ingredients
 

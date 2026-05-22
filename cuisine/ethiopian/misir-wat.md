@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Onions cook slowly in oil or niter kibbeh until they melt and turn jammy. Berbere blooms in. Tomato paste deepens; lentils and water simmer until soft and the stew thickens. Lemon juice at the end brightens.
+Ethiopia's red lentil stew, the vegan everyday main that turns up on every fasting-day table and most non-fasting ones too. You cook onions slowly in oil or niter kibbeh until they melt and turn jammy - this is the same long, patient onion cook that doro wat relies on. Berbere blooms in, tomato paste deepens, lentils go in with water and simmer until they're soft and the stew has thickened to a coating consistency. A squeeze of lemon at the end brightens the deep berbere-rich base. Bright orange from the spice, eaten by mopping with injera, made vegan with oil or richer with niter kibbeh. Either way, the dish that anchors an Ethiopian meal.
 
 ## Ingredients
 

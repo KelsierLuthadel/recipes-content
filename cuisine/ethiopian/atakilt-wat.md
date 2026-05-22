@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Onions are softened in oil with turmeric. Garlic, ginger and a small amount of berbere season. Carrots and potatoes go in first to soften; cabbage joins later. Steam-cooked under a lid until tender; the volume halves and the flavours fuse.
+Ethiopia's spiced cabbage stew, the gentle vegetable side that sits between the fiercer berbere-loaded curries on a shared platter and cools whoever's eating against the heat. You soften onions in oil with turmeric until they're pale gold, then bloom garlic, ginger and a small amount of berbere in the same fat - small because this is the mellow dish, not the fierce one. Carrots and potatoes go in first to soften; cabbage joins later. Cover, drop the heat, and let the lot steam-cook for forty minutes until the volume has halved, the vegetables have melted into each other, and the cabbage has almost disappeared into the sauce. Eaten with injera and a few spoonfuls of doro wat or misir wat alongside for contrast.
 
 ## Ingredients
 

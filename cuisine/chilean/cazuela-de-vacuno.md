@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Beef shin browns; cooks in a simple broth of onion, garlic, oregano and cumin for 90 minutes until tender. Vegetables (pumpkin, corn, potato, green beans) go in for the last 25 minutes, each chunk kept whole, served in the bowl. Rice or vermicelli cooks separately in some broth and goes in last. Heart attack of comfort.
+The Chilean Sunday-lunch one-pot, the soup-stew that turns up on every kitchen table from Santiago to Patagonia. You brown bone-in beef shin to colour, then drop it into a simple broth of onion, garlic, oregano and cumin and simmer slowly for ninety minutes until the meat is tender and the broth has built depth. The vegetables go in for the last twenty-five minutes - a thick chunk of pumpkin, a section of corn-on-the-cob, a whole potato, a handful of green beans - each piece kept whole because the cazuela is meant to arrive in the bowl looking like a still life. Rice or vermicelli cooks separately in a ladle of the broth and joins at the very end. Served in deep bowls with chopped coriander and a wedge of lime, the steam rising while you eat. Comfort food at its plainest and deepest.
 
 ## Ingredients
 

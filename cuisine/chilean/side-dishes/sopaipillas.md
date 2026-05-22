@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Pumpkin (or butternut) cubes boil, drain, mash. The warm purée mixes with flour, melted butter, baking powder and salt to a soft, pliable dough. Rest for 30 minutes. Roll to 5 mm thick; stamp out 8 cm rounds; pierce each twice with a fork. Fry at 170°C 90 seconds per side until deep gold.
+Chile's rainy-day flatbread, the pumpkin-and-flour disc that turns up at street stalls on cold winter afternoons and gets dunked in mustard or pebre by every passer-by. You boil pumpkin (or butternut) cubes until soft, drain and mash, then mix the warm purée with flour, melted butter, baking powder and salt to a soft pliable dough. Rest for thirty minutes, roll to five millimetres thick, stamp out eight-centimetre rounds, pierce each one twice with a fork (which keeps them from puffing into balloons), and fry at 170°C for ninety seconds per side until deep gold. Eaten warm with pebre, mustard, or a smear of butter, ideally while the rain is still falling.
 
 ## Ingredients
 

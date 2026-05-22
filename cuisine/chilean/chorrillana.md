@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Thick-cut chips are deep-fried until crisp; thinly-sliced sirloin (lomo) is seared hot in a wide pan; onion is softened and lightly charred; eggs are fried sunny-side up. Everything is piled in a single wide platter, chips on the bottom, steak and onion on top, eggs over the lot. Eaten communally with beer.
+The Valparaíso bar classic, the giant shareable platter that lands in the middle of the table at every port-city watering hole. You deep-fry thick-cut chips until they're crisp and gold, sear thinly-sliced sirloin (lomo) hot in a wide pan, soften and lightly char onion in the same fat, and fry eggs sunny-side up. Everything piles into a single wide platter: chips on the bottom, steak and onion on top, eggs cracked over the lot so the yolks can run down. Some versions add slices of chorizo. Eaten communally with forks reaching from every side and a cold beer doing the rounds.
 
 ## Ingredients
 

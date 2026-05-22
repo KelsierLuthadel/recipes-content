@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Pino (the beef-onion mince base) is cooked first: onions are softened slowly with cumin, paprika and oregano; mince is browned in; raisins, olives and a splash of stock simmer everything to a moist filling. Chicken pieces are poached separately and shredded. The corn topping blends fresh sweet corn (or kabocha-corn mix in winter) with milk, butter and basil into a thick batter. Layered in clay dishes (or one large baking dish): pino, chicken, hard-boiled egg slices, corn batter on top. A heavy dust of sugar makes the top crisp under the grill.
+Chile's summer corn cake, the layered casserole made when fresh sweetcorn is at its peak and the asado has yielded leftover meat. You cook the pino first: onions softened slowly with cumin, paprika and oregano, beef mince browned in, raisins and olives folded through with a splash of stock to keep it moist. Chicken pieces poach separately and shred. The corn topping is the star: fresh sweetcorn (or a kabocha-corn mix in winter) blends with milk, butter and fresh basil into a thick batter. Layer in clay dishes (or one large baking dish): pino, shredded chicken, hard-boiled egg slices, corn batter poured over the top. A heavy dust of sugar finishes it, which caramelises under the grill into a sweet crusted top. Eaten with ensalada chilena on the side and a glass of red wine.
 
 ## Ingredients
 

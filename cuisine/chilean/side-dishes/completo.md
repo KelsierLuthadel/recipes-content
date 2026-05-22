@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Long soft frankfurter rolls (pan de hot dog) split lengthways. Frankfurters poach in barely-simmering water 5 minutes. Tomato dices fine and salts to draw out water; avocado mashes with lime and salt. Each completo is built from the bottom: split roll → frankfurter → tomato → sauerkraut → smashed avocado → mayonnaise piped over the top → mustard if liked. Wrap in paper; eat with hands.
+The Chilean street hot dog and the proper night-out food after a few drinks in any city in the country. You start with a long soft frankfurter roll, poach the frankfurter in barely-simmering water for five minutes, dice tomato fine and salt it to draw out the water, and mash avocado with lime and salt to a thick paste. The build is bottom-up: split roll, frankfurter, diced tomato, sauerkraut, a heroic layer of smashed avocado, mayonnaise piped generously over the top, a squiggle of mustard if you like. Wrap in paper, hand it over, eat with both hands while walking down a Santiago street.
 
 ## Ingredients
 
