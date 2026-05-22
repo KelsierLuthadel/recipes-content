@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Lamb mince browned with onion, carrot and celery, simmered with stock, tomato purée, Worcestershire and rosemary into a thick gravy, topped with garlic-butter mash and baked until the peaks crisp golden.
+The lamb cousin of cottage pie, and the original of the two (cottage pie came later as a beef variant when lamb was harder to find). You brown lamb mince with onion, carrot and celery, then simmer with stock, tomato purée, Worcestershire and rosemary until the gravy is thick enough to hold a spoon upright. Top with garlic-butter mash piled in rough peaks that catch and crisp in the oven, and bake until the surface is deep gold. The lamb gives it a heavier, more savoury character than cottage pie's beef. That's what marks it as shepherd's rather than cottage. Eaten with peas, a spoonful of mint sauce on the side if you're being traditional, and a glass of bitter or a strong red.
 
 ## Ingredients
 

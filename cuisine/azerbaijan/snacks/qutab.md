@@ -11,7 +11,7 @@
 **Cook Time:** 24 minutes
 
 ## Overview
-Dough, flour, warm water, salt, kneads to a smooth firm ball, rests for 30 minutes. Filling: ½ kilo of mixed greens wilts briefly with onion, drains hard, mixes with pomegranate seeds and herbs. Each ball of dough rolls into a 25 cm circle so thin it's translucent. Filling spreads over one half, the other half folds over, edges press to seal. Pan-fries on a dry skillet 90 seconds per side. Brushes with butter; sprinkles with sumac.
+Azerbaijan's folded flatbread, the proper name for what the diaspora sometimes labels kutab or gözleme depending on where they learned to make it. You knead a dough from flour, warm water and salt to a smooth firm ball, rest for thirty minutes, then build a filling: half a kilo of mixed greens (chard, spinach, sorrel, whatever is around) wilts briefly with onion in a pan, drains hard, then mixes with pomegranate seeds and fresh herbs for the classic herb-and-pomegranate combination. Each ball of dough rolls into a twenty-five-centimetre circle so thin it's translucent. The filling spreads over one half, the other half folds over, edges press to seal. Onto a dry skillet for ninety seconds per side until the dough is blistered and the filling is steaming. Brush with melted butter while hot, sprinkle with sumac. Eat folded in half, the sumac sharp against the herby green inside.
 
 ## Ingredients
 

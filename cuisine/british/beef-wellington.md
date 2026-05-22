@@ -11,7 +11,7 @@
 **Cook Time:** 35-40 minutes
 
 ## Overview
-Centre-cut beef fillet is seared hard for colour, smeared with English mustard, wrapped in a tight blanket of mushroom duxelles and prosciutto, then encased in all-butter puff pastry and roasted at high heat. The pastry insulates the beef so it cooks gently to medium-rare while the crust crisps. The trick: dry the duxelles thoroughly so the pastry stays crisp underneath.
+The defining British dinner-party showpiece, somewhere between French haute cuisine and English roast tradition, made famous in the modern era by Gordon Ramsay even if the Iron Duke himself probably never ate it. You sear a centre-cut beef fillet hard for colour, smear it with English mustard, wrap it in a tight blanket of mushroom duxelles and prosciutto, then encase the lot in all-butter puff pastry and roast at high heat. The pastry insulates the beef so it cooks gently to medium-rare while the crust crisps to deep mahogany above. The one technical trick the recipe insists on is drying the duxelles thoroughly so the pastry stays crisp underneath rather than going soggy from leaking mushroom water. Sliced at the table into thick rosy rounds, with a red-wine jus and roasted root vegetables on the side, the kind of plate that makes the evening feel like a special occasion before anyone says it.
 
 ## Ingredients
 

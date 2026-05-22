@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Leeks soften in butter; mix with grated caerphilly (or mature cheddar), breadcrumbs, mustard, sage and beaten egg. The mixture chills to firm up, then rolls into sausage shapes, gets a flour-egg-breadcrumb coat and fries until golden.
+The Welsh vegetarian sausage, named after the south Wales county of Glamorgan and traditionally made with caerphilly, the crumbly slightly-acidic white Welsh cheese. You soften leeks in butter (slowly, until they're pale gold and sweet), then mix them with grated caerphilly (or mature cheddar if caerphilly is hard to find), breadcrumbs, mustard, sage and beaten egg. The mixture chills in the fridge for an hour to firm up, then rolls into sausage shapes, gets a flour-egg-breadcrumb coat, and fries until deep gold and crisp on the outside. Eaten with chutney and mashed potato, or sliced into a roll with a bit of salad for lunch. A wartime substitute for meat sausages that became a permanent fixture of the Welsh table.
 
 ## Ingredients
 

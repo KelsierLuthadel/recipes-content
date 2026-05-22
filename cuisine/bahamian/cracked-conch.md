@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Cleaned conch is pounded between sheets of cling film with a meat mallet until thin and tender, then seasoned, dipped in flour and a beaten-egg batter, and shallow- or deep-fried until golden and crisp. Served with lime wedges, a citrus-cabbage slaw and the Bahamian peppered hot sauce of choice.
+The Bahamas' fried-fish answer to the seafood basket, the dish you'll find on every island fish-fry menu from Arawak Cay to Spanish Wells. You pound cleaned conch between sheets of cling film with a meat mallet until it's thin and tender (the cracking is literal - the muscle fibres have to break before the conch is anything you'd want to eat), then season it well, dip in seasoned flour and a beaten-egg batter, and shallow- or deep-fry until golden and crisp at the edges. The flesh inside stays sweet and just-tender, with the same chew that prawns have at their best. Served with fat lime wedges to squeeze over, a citrus-cabbage slaw to cut the richness, and whatever peppered hot sauce the cook keeps on the shelf for it. Cold beer alongside; an afternoon at the beach already half over.
 
 ## Ingredients
 

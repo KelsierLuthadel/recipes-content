@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A short dough of fine semolina and plain flour rests overnight with butter, milk and orange blossom water, the semolina hydrates fully. Three classic fillings: date (with cinnamon and cloves), walnut (with sugar and rose), pistachio (with sugar and orange blossom). Each cookie wraps a teaspoon of filling, presses into a wooden mould (or scores by hand), bakes pale gold. Dusted with icing sugar.
+The cookie that arrives in tins at every Middle Eastern festival worth marking, baked for Eid al-Fitr, Eid al-Adha, Christmas and Easter alike across Lebanese, Syrian, Iraqi and Gulf households. You make a short dough of fine semolina and plain flour with butter, milk and orange blossom water, then let it rest overnight so the semolina hydrates fully and the dough turns silky. Three classic fillings sit alongside: dates pounded with cinnamon and cloves, walnuts mixed with sugar and rose water, pistachios with sugar and a drop more orange blossom. Each cookie wraps a teaspoon of filling, gets pressed into a carved wooden mould (or scored by hand with the back of a knife), then bakes pale gold so the crust stays sandy and the filling stays soft. A dust of icing sugar at the end. Tea or coffee on the side, and a tin kept on the shelf for visitors who haven't yet been told about your batch.
 
 ## Ingredients
 

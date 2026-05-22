@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Whole chicken pokes in a stock of onion, cardamom, black lime, mastic and bay for 45 minutes. The chicken comes out; the stock is strained and reduced. Short-grain rice cooks in equal parts stock and warm whole milk for 35 minutes, stirring often, until it reaches a creamy, almost-risotto consistency. The chicken is brushed with butter and finished under the grill. Plate together; finish with brown butter and pepper.
+A Hijazi speciality that sits closer to a savoury rice porridge than to any other rice dish on the peninsula. You poach a whole chicken in a stock built around onion, cardamom, dried lime, mastic and bay for forty-five minutes, then strain the stock and reduce it. Short-grain rice cooks slowly in equal parts of that reduced stock and warm whole milk, stirred often over thirty-five minutes until it reaches a creamy, almost-risotto consistency. The dairy is what makes this dish what it is. The chicken comes out, gets brushed with butter and finished briefly under the grill so its skin turns gold, then sits on top of the rice for serving. Brown butter drizzled over, a heavy crack of black pepper, eaten with bread torn at the table. Comfort food of Mecca and Medina, traditionally served at Hijazi weddings and family gatherings.
 
 ## Ingredients
 

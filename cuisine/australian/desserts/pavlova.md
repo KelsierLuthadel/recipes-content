@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours (plus 1 hour cooling in oven)
 
 ## Overview
-Egg whites whip with sugar to stiff glossy peaks; cornflour and white wine vinegar fold in (these are what give the marshmallow centre). Spread into a circle on parchment, baked low and slow until crisp on the outside but still soft within. Cool completely; top with cream and fruit just before serving.
+The easiest spectacular dessert you can make, and the one thing Australia and New Zealand still argue about ownership of. You whip egg whites with caster sugar to stiff glossy peaks, then fold in cornflour and a splash of white wine vinegar (those two are the trick to the marshmallow centre that defines a real pavlova against an ordinary meringue). Spread into a wide circle on parchment, edges built slightly higher than the middle so they can hold the cream later, and bake low and slow until the outside has crisped to a pale biscuit colour and the inside stays soft. The shell cools completely (which can take an hour) before you top it. Crown it warm and the cream weeps and the meringue weeps with it. Whipped cream piled in the centre, fresh seasonal fruit on top: berries, passionfruit, mango, kiwi, whatever is in season. Cut at the table, watch the shell shatter, eat with a small pile of pulp running down the spoon.
 
 ## Ingredients
 

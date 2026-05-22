@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-The trick to crispy-skin barramundi is the trick to crispy-skin anything: very dry fillets, very hot oil, salt on the skin, fish pressed flat into the pan for the first 30 seconds, and patience to leave it alone until the flesh is opaque most of the way through. A brown butter, lemon and caper sauce makes in the same pan in the minute it takes the fish to rest. Sea bass, snapper or yellowtail kingfish are excellent substitutes.
+Australia's pub-menu fish, the one you order on a hot summer afternoon at a beachside bistro and follow with a cold glass of something white. The trick to crispy-skin barramundi is the trick to crispy-skin anything: very dry fillets, very hot oil, salt on the skin, fish pressed flat into the pan for the first thirty seconds, and the patience to leave it alone until the flesh is opaque most of the way through before you flip. Once you turn it, the second side needs only a minute. While the fish rests on a plate you make a brown butter, lemon and caper sauce in the same pan in the time it takes the fillets to settle. Sea bass, snapper or yellowtail kingfish all stand in beautifully if barramundi isn't on the slab. Plated with the crisp side up so every diner sees the skin, lemon and parsley scattered over, a glass of cold riesling on the table.
 
 ## Ingredients
 

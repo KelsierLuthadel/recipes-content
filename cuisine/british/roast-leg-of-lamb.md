@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes (plus 20 minutes resting)
 
 ## Overview
-A bone-in leg of lamb, 2-2.5 kg, brought to room temperature, scored, studded with slivers of garlic and tucked with rosemary tips. Smeared with oil, salt and crushed garlic. Started hot to colour the skin, then dropped to a low roast and pulled when the centre reads 55°C for pink, 60°C for medium. Rested for a full twenty minutes so the juices settle back into the meat. A simple jus from the pan drippings, deglazed with wine and reduced.
+The Sunday lamb of the British table, the centrepiece of an Easter lunch and the dish a mother-in-law judges you on. You bring a 2-2.5 kg bone-in leg to room temperature first (essential - cold meat into a hot oven cooks unevenly), score the fat, then stud the leg with slivers of garlic and tuck rosemary tips into the cuts. Smear with oil, salt and a paste of crushed garlic. The lamb starts hot to colour the skin, then drops to a low roast and pulls when a probe in the thickest part reads 55°C for pink or 60°C for medium. A full twenty-minute rest is non-negotiable; this is when the juices settle back into the meat and the slices stay pink rather than weeping grey. While it rests you build a simple jus from the pan drippings, deglazed with wine and reduced down. Roast potatoes, mint sauce, peas; a glass of claret in your hand and the family gathered.
 
 ## Ingredients
 

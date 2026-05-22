@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Basmati is soaked for 1 hour in salted water, drained, par-boiled for 5 minutes in heavily salted water, drained again. A wide heavy pot is buttered, a sheet of lavash (or a saffron-soaked rice base) lines the bottom for the qazmaq crust. Par-boiled rice is piled on top, butter melts down through it, the pot is covered and the rice steams for 40-60 minutes on low. Meanwhile lamb shoulder cubes are browned, onions are softened, dried fruit and chestnuts go in with a little water, the qara simmers for 90 minutes until the meat is tender. Service: rice on a platter, qazmaq crust broken at the table, qara spooned alongside.
+Azerbaijan's wedding rice, the centrepiece of any celebration worth the name, and a dish that takes most of a day to do properly. You soak basmati for an hour in salted water, drain it, par-boil for five minutes in heavily salted water, drain again. A wide heavy pot is buttered, and a sheet of lavash (or a saffron-soaked rice base) lines the bottom to form the qazmaq crust that's the prize at the end of the meal. The par-boiled rice piles on top, butter melts down through it, the pot covers and steams for forty minutes to an hour on low heat. Meanwhile you cook the qara separately: lamb shoulder cubes browned, onions softened slowly, dried apricots and chestnuts added with a splash of water, the whole stew simmering for ninety minutes until the lamb is meltingly tender. The plov comes to the table with the rice mounded on a platter, the qazmaq crust broken and shared at the table, and the qara spooned alongside. A meal that announces itself.
 
 ## Ingredients
 

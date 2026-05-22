@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes (with a baking stone)
 
 ## Overview
-A simple yeasted bread dough, plain flour, fast-action yeast, salt, sugar, olive oil and warm water, kneads, rises, divides into balls, shapes into thick rounds, and bakes on a screaming-hot stone or steel for 4-5 minutes per side. The result puffs slightly, blisters across the top, and stays soft inside.
+The thick, soft flatbread that turns up on every Saudi table: the bread you tear to scoop foul, sop kabsa juices and wrap around grilled meat. You make a simple yeasted dough with plain flour, fast-action yeast, salt, sugar, olive oil and warm water, knead it briefly, let it rise, divide into balls and shape into thick rounds about the size of a side plate. Onto a screaming-hot baking stone or steel for four or five minutes per side, which is what gives you the puffed centre, the dark blisters across the top, and the soft pliable inside. Traditionally baked against the side of a clay tannur, which is where the name comes from and which gives the bread its deeper char; a stone or steel in a home oven gets you nearly all the way there. Eat warm from the oven, wrapped in a tea towel to keep the moisture in.
 
 ## Ingredients
 

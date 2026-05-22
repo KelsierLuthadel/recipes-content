@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Aubergines char whole over a gas flame until completely soft and the skins blackened. The aubergines are cooled, peeled and drained. The flesh chops or mashes, never blends; texture matters. Tahini, yogurt, lemon juice, garlic and salt fold in. A pool of olive oil and a sprinkle of pomegranate seeds finish.
+The richer Levantine cousin of baba ganoush: aubergines charred until the skins blacken and the flesh inside has gone completely soft and smoky, then folded into tahini, yogurt, lemon and garlic for a creamier, slightly tart finish. The yogurt is the dish's defining move; where baba ganoush stays olive-oil rich, mutabbal carries a quiet dairy tang across the back. The aubergines have to char over a real flame (gas hob, grill or charcoal); the smoky depth that comes from open fire is exactly what an oven roast cannot give you. After charring you cool them, peel off the skins, drain the bitter water, and chop or mash the flesh by hand. Never blend, because pureeing turns the dip into babyfood and loses the texture that makes it. A pool of olive oil on top, a scatter of pomegranate seeds for colour and a sweet-sharp bite, warm flatbread torn alongside to scoop.
 
 ## Ingredients
 

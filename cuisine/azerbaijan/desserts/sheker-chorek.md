@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Butter creams with icing sugar 4 minutes until pale. Egg yolks beat in one at a time, vanilla extract last. Flour folds in gently, overworking makes them tough. Dough chills for 30 minutes for handling. Pinches off into walnut-sized balls; presses gently flat with a thumb. Brushes with egg-yolk glaze; sprinkles with sesame or nigella seeds. Bakes for 20 minutes at 170°C. Eats slightly warm with strong tea.
+Azerbaijan's everyday tea cookie, the soft melt-in-the-mouth shortbread that sits on a plate in every household for any visitor who drops by. You cream butter with icing sugar for a full four minutes until it's pale and almost mousse-like (the long cream is where the texture comes from), beat in egg yolks one at a time with vanilla last, then fold in flour gently because overworking turns them tough. Thirty minutes in the fridge to firm up enough to handle, then you pinch off walnut-sized balls, press each one lightly flat with your thumb, brush with egg-yolk glaze, and scatter sesame or nigella seeds on top. Twenty minutes at 170°C until the surface is the colour of pale honey. Eat slightly warm with strong black tea, or once cooled with a small cup of cardamom coffee.
 
 ## Ingredients
 

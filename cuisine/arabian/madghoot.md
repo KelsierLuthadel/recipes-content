@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Lamb is given a fast wet marinade of crushed tomato, baharat, dried lime, garlic and yogurt. It is pressure-cooked for 30 minutes with onion and stock; the cooking liquid is strained; rice is cooked absorption-style in it for another 12-15 minutes (in the pressure cooker without pressure, or a separate pot). The lamb is returned on top; rested for 10 minutes; served with sahawiq and salata.
+The fast Saudi cousin of mandi, made when you want kabsa-deep flavour but the day doesn't have three hours in it for the meat to cook. You give bone-in lamb a quick wet marinade of crushed tomato, baharat, dried lime, garlic and yogurt (the yogurt tenderises while the spice mix works in), then it goes into a pressure cooker with onion and stock for thirty minutes under pressure, which is what a slow oven would otherwise do in three hours. The cooking liquid gets strained out (it is the dish's stock), basmati cooks absorption-style in it for twelve to fifteen minutes, and the lamb returns on top to rest while the rice steams through. Served straight from the pot with sahawiq (the chilli-coriander relish that shows up on every Khaleeji table) and salata on the side. Weeknight kabsa, basically.
 
 ## Ingredients
 

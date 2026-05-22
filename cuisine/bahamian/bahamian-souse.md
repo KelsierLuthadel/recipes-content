@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Chicken pieces (bone-in legs or wings) poach in lightly salted water with onion, celery, allspice, bay and a whole goat pepper for an hour or so. Potatoes go in for the last 15 minutes. Off the heat, the souse is acidified hard with the juice of 4-5 limes (the souse is meant to taste sharply citric) and given a final tweak of salt. Eaten in deep bowls, with johnnycake or grits on the side.
+The Bahamas' Saturday-morning hangover cure, the breakfast bowl that arrives steaming in fish shacks and family kitchens across the islands the morning after a wedding or a heavy Friday. You poach bone-in chicken pieces (legs or wings) in lightly salted water with onion, celery, allspice, bay and a whole goat pepper for an hour or so, until the meat falls easily from the bone and the broth has taken on the perfume of the spice. Potatoes go in for the last fifteen minutes so they cook through but hold their shape. Off the heat, you acidify the souse hard with the juice of four or five limes (the souse is meant to taste sharply citric, not gently lemony) and a final tweak of salt. Ladle into deep bowls with the goat pepper floated on top for whoever's brave, and serve with johnnycake or grits on the side to soak.
 
 ## Ingredients
 

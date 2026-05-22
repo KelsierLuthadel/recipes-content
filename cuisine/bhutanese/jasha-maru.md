@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-A whole bone-in chicken is jointed and stewed with onion, tomato, plenty of fresh garlic and ginger, three or four green chillies, butter or vegetable oil and water. The cook is fast: a brief sear, a simmer with tomato until the chicken is cooked through, and a finish with chopped coriander and spring onion. The result is a brothy, fresh, gently spicy chicken dish that sits somewhere between Indian and East Asian cookery, which is exactly where Bhutan sits geographically.
+The Bhutanese weeknight chicken stew, the dish a Thimphu cook turns to after a long day. You joint a whole bone-in chicken and stew it with onion, tomato, plenty of fresh garlic and ginger, three or four green chillies, and butter or vegetable oil with a splash of water. The cook is fast: a brief sear to colour the meat, a simmer with the tomato until the chicken is cooked through and falling off the bone, and a finish with chopped coriander and spring onion just before serving. What you get back is a brothy, fresh, gently spicy chicken dish that sits somewhere between Indian and East Asian cookery, which is exactly where Bhutan sits geographically. Eaten with red rice, perhaps a small bowl of ema datshi on the side for whoever wants to push the heat further.
 
 ## Ingredients
 

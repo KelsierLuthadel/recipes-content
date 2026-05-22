@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Ribeye is partially frozen (1 hour in the freezer) so it slices paper-thin. Onion is softened hard on a wide griddle. The shaved beef hits the same griddle and is chopped with a spatula edge as it cooks; the onion is folded back in. Cheese is laid over the meat off the heat and left to melt. Scooped into a split hoagie roll. Eaten immediately.
+Philadelphia's defining sandwich, and one of the few American dishes where the technique matters more than the recipe. You start by sticking a good ribeye in the freezer until it firms up, because the dish's identity is in the slicing: paper-thin shavings against the grain that you simply cannot get from room-temperature beef. On a wide hot griddle you sweat down onion (and bell pepper or mushrooms if your South Philly conscience allows them) until just past gold, push them to one side, and lay the shaved beef in a single layer on the cleared steel. Sixty seconds in, you start chopping the meat with the spatula edge as it cooks, folding the onions back in, hitting it with salt and pepper. Cheese goes over the top off the heat (provolone for the crowd-pleaser, American singles for the nostalgic drip, Cheez Whiz if you're going strictly by South Philly), and you cover for half a minute to melt. Scooped straight into a soft hoagie roll that's been toasted in the rendered fat. Wrap, fold in half, eat at the counter while the cheese is still hot.
 
 ## Ingredients
 

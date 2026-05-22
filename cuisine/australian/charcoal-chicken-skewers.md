@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-The signature spice profile of suburban-Australian charcoal-chicken shops, distilled into a marinade you can run at home. Mostly dry rub - garlic powder, onion powder, sweet paprika, mustard powder, dried oregano, a small amount of curry powder for warmth - wetted with olive oil and a generous squeeze of lemon. The chicken thigh gets a long marinate (12-24 hours ideal) so the salt and spices penetrate properly. Threaded onto skewers, pan-seared hot in batches, rested briefly under foil. Served with flatbread, salads and a sauce on the side.
+The flavour you'd get at a Melbourne charcoal-chicken takeaway, distilled into something you can run at home with a heavy pan instead of a rotisserie. You build a mostly-dry rub from the pantry: garlic powder, onion powder, sweet paprika, mustard powder, dried oregano, and a small amount of curry powder for the warmth that defines suburban-Australian charcoal-chicken shops. The rub wets out with olive oil and a generous squeeze of lemon, and the chicken thighs go in to marinate for twelve to twenty-four hours so the salt and spices penetrate properly. Thread onto skewers, sear hot in batches, rest briefly under foil so the juices settle. The lemon at the table is non-negotiable. Serve with warm flatbread, a chopped salad and a garlic-yogurt or hummus on the side, the kind of plate that arrives wrapped in butcher's paper at the takeaway.
 
 ## Ingredients
 

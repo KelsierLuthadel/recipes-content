@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Onion and garlic are softened in butter; cooled. Breadcrumbs soak in milk to a panade. Beef (and pork if using) is mixed with the panade, sautéed onion, egg, Worcestershire, mustard, parsley, thyme, salt and pepper. Packed loosely into a loaf tin. Brushed with glaze (ketchup + brown sugar + Worcestershire). Baked for 50 minutes; glazed again; returned for 15 minutes more.
+The mid-century Sunday supper that every American household above a certain age has its own version of. You soften onion and garlic in butter and let them cool, soak breadcrumbs in milk to a soft panade (this is the structural trick that keeps the loaf from going dense and bricklike), then mix everything into the beef and pork with egg, Worcestershire, mustard and a handful of fresh herbs. The mix goes loosely packed into a tin so it stays tender rather than tight, brushed thickly with a glaze of ketchup, brown sugar and a touch more Worcestershire, and into a moderate oven for the best part of an hour. You glaze again at the end and let it tan in the heat for fifteen more minutes until the top has gone deep mahogany and slightly tacky. Slice thick and serve with mashed potato and a green vegetable on the side. The leftover slab cold the next day in a sandwich is the dish's quiet second life.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Waxy potatoes are sliced into thin rounds and simmered in water with green chillies, onion, garlic, butter and the cheese mixture until the potatoes are tender and the cheese has melted into a thick, pale-yellow chilli-flecked sauce. The dish is built in one pot and takes about 25 minutes. The technique is the simplest in Bhutanese cooking: everything goes in together and cooks down. The art is in the chilli-to-cheese ratio, which decides whether the dish reads as fiery (more chilli) or rich (more cheese).
+The gentler, more domestic cousin of ema datshi: a Bhutanese family supper of potatoes simmered with chilli and cheese into a creamy, lively sauce. You slice waxy potatoes into thin rounds and drop them into a single pot with green chillies, onion, garlic, butter and the cheese mixture, then cover with water and simmer for about twenty-five minutes until the potatoes are tender and the cheese has melted into a thick, pale-yellow chilli-flecked sauce. The technique is the simplest in Bhutanese cooking: everything goes in together and cooks down without ceremony. The art is in the chilli-to-cheese ratio. More chilli and the dish reads as fiery; more cheese and it reads as rich. Either way it's eaten with red Bhutanese rice, the potatoes half-melting into the rice as you spoon.
 
 ## Ingredients
 

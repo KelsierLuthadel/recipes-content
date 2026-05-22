@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Minced beef (or chicken) browns with diced onion, garlic and Saudi spice mix (baharat, black pepper, cumin, coriander, cardamom, cinnamon, allspice). Pine nuts toast in; chopped parsley and lemon zest finish; the filling cools fully. Spring-roll wrappers (or samboosa pastry sheets) fold into traditional triangular packets, fold the long strip into a triangle pocket; spoon filling; continue folding into a stacked triangle; seal with a flour-and-water paste. Deep-fried at 180°C in 3-4 cm of oil until amber-gold. Drained and eaten warm.
+The Saudi Ramadan staple, the snack that breaks the fast in households across the Gulf when the call to maghrib sounds. You brown minced beef (or chicken) with diced onion and garlic, lifted with a generous spoonful of Saudi spice mix (baharat, black pepper, cumin, coriander, cardamom, cinnamon, allspice), then fold in toasted pine nuts, chopped parsley and a hit of lemon zest, and let the filling cool fully before you assemble. Spring-roll wrappers or samboosa pastry sheets fold into the traditional triangular packets with the long-strip-into-stacked-triangle technique that every Khaleeji household teaches its children, sealed with a flour-and-water paste at the edge. Deep-fried at 180°C in three or four centimetres of oil until they're amber-gold and shattering-crisp. Drained on paper, eaten warm with the first dates of iftar and a glass of laban.
 
 ## Ingredients
 

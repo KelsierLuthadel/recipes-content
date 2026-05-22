@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-The filling is built like a thick gravy: minced beef cooked down with onion, beef stock, Worcestershire, tomato and a dark roux to make it sliceable when cool. It chills completely before going into shortcrust bases, gets a puff pastry lid, and bakes hot until the top is bronzed and shattering. The cold-filling trick is what makes a pie hold together when you bite into it: never fill a pie case with hot, loose gravy.
+Australia's hand-held lunch and the unofficial national snack: hot beef gravy in a shortcrust base under a flaky puff lid, eaten standing up at the footy with tomato sauce running down your wrist. You build the filling like a thick gravy: minced beef cooked down with onion, beef stock, Worcestershire, tomato and a dark roux until it's sliceable when cool. The cold-filling trick is the one rule a pie shop never breaks: never fill a pie case with hot, loose gravy, because the bottom will go soggy in the oven and your pie will leak the moment you bite it. The chilled filling goes into shortcrust bases, gets a puff pastry lid crimped sharp at the edge, and bakes hot until the top is bronzed and shattering. Eat hot from the bag with a squeezy bottle of tomato sauce, or build a proper plate around it with mushy peas and gravy.
 
 ## Ingredients
 

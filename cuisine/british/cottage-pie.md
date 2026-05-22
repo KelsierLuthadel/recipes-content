@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Beef mince browned with aromatics, simmered into a thick red-wine gravy with tomato and Worcestershire, topped with cheddar mash and baked until the peaks crisp. Forgiving, freezer-friendly, and the textbook British family dinner.
+The textbook British family dinner, the dish that turns up on every primary-school menu and most weeknight tables. You brown beef mince with onion, carrot and celery, then simmer it down with stock, a spoon of tomato purée, a slosh of red wine and a generous splash of Worcestershire into a thick savoury gravy. Top with cheddar mash piled rough so the peaks catch and crisp in the oven, and bake until the surface is deep gold and the gravy bubbles around the edges. Forgiving, freezer-friendly, exactly as good on Wednesday from leftovers as on Sunday from the oven. A green vegetable and a spoon of brown sauce on the plate, a bowl of trifle waiting in the fridge for after.
 
 ## Ingredients
 

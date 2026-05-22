@@ -11,7 +11,7 @@
 **Cook Time:** 6 hours (or 45 minutes pressure-cooked)
 
 ## Overview
-Dried fava beans soak overnight, then simmer with a chickpea or two and a garlic clove for 6 hours (low and slow), or pressure-cook for 45 minutes. The beans should be very soft, almost falling apart. Once drained, the beans are returned to the pot and fried briefly with garlic, olive oil, cumin and chilli; crushed roughly with a fork; finished with lemon and parsley.
+The Saudi take on foul medames, somewhere between the Egyptian original and the Yemeni daal-like versions. You soak dried fava beans overnight, then simmer them with a chickpea or two and a garlic clove for six hours low and slow (or pressure-cook for forty-five minutes if you don't have the day) until they're so soft they fall apart at a glance. Once drained, the beans go back into a hot pan with olive oil and garlic, cumin and a hit of chilli; you crush them roughly with a fork (chunky, not smooth) and finish with lemon and a handful of chopped parsley. Eaten warm for breakfast across the Gulf, scooped with flatbread, with a side of pickles or salata hara, and a glass of mint tea.
 
 ## Ingredients
 

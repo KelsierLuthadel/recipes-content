@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Dry ingredients whisk in one bowl; wet (buttermilk, eggs, butter) in another. Combine briefly, lumps are good, and rest for 10 minutes for the baking powder and soda to start working. Cook on a medium pan; flip when bubbles appear and the edges look set.
+Tall, soft, caramel-coloured pancakes that pour into the kind of weekend breakfast you don't rush. You whisk the dry ingredients in one bowl, the wet (buttermilk, eggs, melted butter, a thread of vanilla) in another, then combine briefly and stop while lumps are still visible. Smooth batter develops gluten and gives you chewy, dense rounds rather than the cloud-soft stack you're after. Ten minutes' rest lets the baking powder and bicarb start working with the buttermilk's acid, which is where the lift comes from. You cook them on a medium-low pan with a small knob of butter, and you flip when bubbles dot the surface and the edges look set. Stack three high, drown in butter and maple syrup, scatter berries if there are any in the fridge. Sunday breakfast, slow morning, second pot of coffee.
 
 ## Ingredients
 

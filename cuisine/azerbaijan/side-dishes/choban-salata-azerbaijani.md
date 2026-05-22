@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Tomatoes, cucumber and red onion dice to 5 mm cubes. Herbs chop fine. Everything tosses together with olive oil, lemon juice and salt 15 minutes before serving so the salt draws juice and the tomatoes start to relax. Best the same day, the salad weeps if held overnight.
+The Azerbaijani version of the shepherd's salad that turns up in some form on every table from the Balkans to Persia, the bright herby counter to anything rich coming out of the kitchen. You dice tomatoes, cucumber and red onion to five-millimetre cubes (smaller than a typical chopped salad, almost a relish) and chop the herbs fine: dill, mint and tarragon, the tarragon being the move that distinguishes the Azeri version from its neighbours. Everything tosses together with olive oil, lemon juice and salt about fifteen minutes before serving, so the salt draws the tomato juice out and the salad relaxes into itself. Best the same day; the salad weeps if held overnight. Eat with grilled meat, with plov, with lavash, with whatever the main is.
 
 ## Ingredients
 - 4 ripe medium tomatoes (about 500 g, ideally a mix of red and yellow)

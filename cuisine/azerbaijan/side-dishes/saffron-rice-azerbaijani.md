@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Basmati soaks for 1 hour, par-boils in heavily salted water 5 minutes, drains. The empty pot films with butter, the rice mounds in, more butter dots on top, saffron-infused water drizzles over the peak. Tea-towel-wrapped lid traps steam. 40 minutes on low heat. Done.
+The everyday cousin of plov: the rice you cook on a Tuesday when there's no wedding to feed but you still want the saffron-stained, butter-glossy crust that defines Azerbaijani rice cookery. You soak basmati for an hour in salted water, par-boil in heavily salted water for five minutes, drain. The empty pot films with butter, the rice mounds back in, more butter dots on top, and saffron-infused water drizzles over the peak so the colour stains down through the grains. A tea-towel-wrapped lid traps the steam, and forty minutes on low heat does the rest. Lift the rice gently with a slotted spoon so the amber-gold crust at the bottom stays intact for the table. Eats with anything braised, grilled or stewed; the rice is the dish.
 
 ## Ingredients
 - 500 g basmati rice

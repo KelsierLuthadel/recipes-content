@@ -14,7 +14,7 @@
 This soup can be served as a vegetarian dish, by removing the bacon and substituting the chicken stock with vegetable stock.*
 
 ## Overview
-This classic tomato soup is rich, comforting, and versatile, made with fresh tomatoes, vegetables, and herbs. It can be served chunky as a stew or blended into a smooth puree, with the option to add cream for extra smoothness. Simple to prepare yet full of flavor, it's perfect for any meal.
+The British weeknight classic, the soup that arrives in a mug with a buttered slice of bread on a damp afternoon. You soften onion, garlic and celery in butter, then drop in fresh ripe tomatoes (or a generous tin if winter is being unhelpful), stock, a sprig of basil or thyme, and simmer for twenty minutes until the tomatoes have collapsed and the kitchen smells like a Mediterranean greengrocer. From there you can leave it chunky and rustic or blitz it smooth in a blender, with a slick of cream stirred in at the end if you want it richer. Eaten with a grilled cheese sandwich, fresh bread torn alongside, or a scatter of croutons on top. A simple, forgiving recipe; the only thing that matters is the quality of the tomatoes.
 
 ## Ingredients
 

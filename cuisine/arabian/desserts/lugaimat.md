@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Plain flour, cornflour, yeast, sugar, milk powder and a pinch of cardamom and saffron mix with warm water into a thick, slack batter. Rest for 1 hour. Small balls drop into oil at 170°C, fry for 3-4 minutes until deep gold, then dunk in warm date syrup or saffron-cardamom sugar syrup. Sprinkle with sesame.
+The little golden dumpling that arrives on the table after iftar across the Khaleej, sometimes piled in a glass dish next to the dates and the qahwa, always disappearing faster than the cook can replace them. You mix a slack batter of flour, cornflour, yeast and milk powder with cardamom and saffron, then leave it to rest for an hour until it bubbles and puffs. Small balls of it drop into 170°C oil and fry for three or four minutes until they're deep gold and just hollow inside. While they're still warm you dunk them into date syrup or a saffron-cardamom sugar syrup so the outside crackles and the centre soaks the sweetness up. A sprinkle of sesame on top, eaten with the fingers, ideally with a tiny cup of cardamom coffee to cut the sugar.
 
 ## Ingredients
 

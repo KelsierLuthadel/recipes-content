@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes (fried) OR 18 minutes (baked)
 
 ## Overview
-A simple oil-and-yogurt-based pastry rolls into a smooth pliable dough; rests briefly. Filling: grated akkawi (desalted by soaking 30 min) or a mix of low-moisture mozzarella + halloumi, mixed with crumbled feta, chopped parsley, scallion, mint, an egg yolk to bind and a touch of ground black pepper. Dough rolls 3 mm thick; cuts into 8 cm rounds. Filling spoons in centre; folded into half-moon; crimped with a fork. Either deep-fried at 175°C for 2 minutes per side until golden, OR brushed with egg wash, scattered with sesame seeds, and baked at 200°C 15-18 minutes.
+The Levantine-Arabian cheese half-moon, the milder vegetarian cousin to the meat sambousek. You roll a smooth pliable dough from oil, yogurt and flour and let it rest briefly while you build the filling: grated akkawi (desalted by soaking for thirty minutes) or a mix of low-moisture mozzarella and halloumi, crumbled feta, chopped parsley, scallion, mint, an egg yolk to bind and a touch of ground black pepper. The dough rolls to three millimetres, cuts into eight-centimetre rounds, gets a spoon of filling in the centre, folds into a half-moon and is crimped sharp with a fork. From there it's either deep-fried at 175°C for two minutes a side until golden, or brushed with egg wash, scattered with sesame seeds and baked at 200°C for fifteen to eighteen minutes. The cheese melts inside the sealed shell, the pastry browns. Eaten warm with labneh or a chilli-lemon dip on the side.
 
 ## Ingredients
 

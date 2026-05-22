@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-"Chana" or "chanar" in Bengali refers to fresh-curdled paneer (chenna), and "dalna" is a light, soupy curry. This is the vegetarian centrepiece of Bengali Sunday lunches and festival meals - cubes of chenna (or shop paneer, lightly fried) and quartered potatoes simmered in a thin gravy of mustard oil, whole spices, ginger and ground cumin. There's no onion, no garlic, and no tomato in the most traditional version - the dish leans entirely on whole spices and a freshly made ginger paste, which makes it a Hindu-festival-friendly recipe.
+The vegetarian centrepiece of Bengali Sunday lunches and festival meals, the curry that arrives on the rice plate when fish is off the menu (a Hindu vegetarian day, Saraswati Puja, a temple feast). "Chanar" in Bengali refers to fresh-curdled paneer, "dalna" to a light soupy curry, and the dish is exactly what the name promises. You lightly fry cubes of chhena (or shop paneer if you must) and quartered potatoes until they're pale gold, then simmer them in a thin gravy of mustard oil, whole spices, freshly pounded ginger and ground cumin. There's no onion, no garlic and no tomato in the most traditional version. The dish leans entirely on its whole spices and the ginger paste, which keeps it festival-friendly across vegetarian Hindu households. Eat with a small mound of gobindobhog rice, a wedge of lime on the side, and the chhena half-collapsing into the spiced broth as you spoon.
 
 ## Ingredients
 

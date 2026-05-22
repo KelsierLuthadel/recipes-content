@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-"Doi" means yoghurt, "maach" means fish, and that's the dish: pieces of firm-fleshed freshwater fish - traditionally rohu, katla or sometimes bhetki - first lightly fried in mustard oil, then poached in a thickened yoghurt sauce. The gravy is pale ivory rather than yellow or red; the spices are warming whole spices, not chilli-driven powders. The whisked yoghurt is added off the heat to stop it splitting, then the fish goes back in to finish poaching. It's the celebration-day Bengali fish curry - a touch more refined than a workaday machher jhol.
+The celebration-day Bengali fish curry, the one you cook for a Saraswati Puja lunch or a weekend when family are visiting. "Doi" means yoghurt, "maach" means fish, and that's the dish in two words: pieces of firm-fleshed freshwater fish (traditionally rohu, katla or sometimes bhetki) first lightly fried in mustard oil until the skin is taut and gold, then poached gently in a thickened yoghurt sauce. The gravy is pale ivory rather than yellow or red, with the warming whole spices (cardamom, cinnamon, bay) doing the work that chilli powder does in northern curries. The critical move is timing: you whisk the yoghurt smooth and add it off the heat so it doesn't split, then the fish goes back in to finish poaching gently in the silky gravy. A touch more refined than a workaday machher jhol, eaten with steamed gobindobhog rice and a small spoon of ghee melted over the top.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Lamb shoulder and beef chunks brown and slow-cook in a kabsa-spiced tomato base for 90 minutes until tender. Chicken pieces are added in the last 35 minutes (their cooking time is shorter). Rice cooks absorption-style in the strained meat broth with saffron and dried lime. All three proteins go on top of the rice for serving.
+The Saudi gathering platter built for the night when one cut of meat isn't enough. Three proteins share the same pot: lamb shoulder and beef chunks go in first with a kabsa-spiced tomato base for ninety minutes of slow simmer until they're meltingly tender, then chicken pieces drop in for the last thirty-five minutes (their cook time is shorter, so they go in later). The strained meat broth, deeply spiced from everything that has braised in it, becomes the cooking liquid for basmati scented with saffron and dried lime. At the end you arrange all three meats on top of the rice in the same platter and bring the whole thing to the centre of the table. The kind of dish you make for a wedding lunch, an Eid gathering, or the night the extended family arrives unannounced.
 
 ## Ingredients
 

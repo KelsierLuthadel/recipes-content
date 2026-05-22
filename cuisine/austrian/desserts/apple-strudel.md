@@ -22,7 +22,7 @@
 - clotted cream (to serve)
 
 ## Overview
-A classic German dessert of apple filling rolled in layers of tissue-thin filo pastry, then baked until golden and dusted with icing sugar. The delicate, crispy pastry contrasts beautifully with the tender, spiced apples, creating a rustic yet elegant dessert that showcases both simplicity and technique.
+The Viennese pastry that holds the cafe culture of Habsburg Europe in a single bite, the apfelstrudel that arrives on a small plate next to your melange at every old coffeehouse from Vienna to Prague. You roll cinnamon-spiced apple, raisins, and toasted breadcrumbs in layers of tissue-thin filo until the pastry is nearly transparent (a real Viennese cook will say you should be able to read a newspaper through it before you fill), then bake the whole roll until the outside is shattering golden. A heavy dust of icing sugar at the end, and a warm slice eaten with a quenelle of softly whipped cream or a scoop of vanilla ice cream while the pastry crackles under the spoon. The contrast is everything: the brittle, dry, almost-paper-thin pastry against the tender, juicy spiced apples soft enough to give to a teaspoon. Coffee on the side; an afternoon in front of you.
 
 ## Method
 ### Make the filling

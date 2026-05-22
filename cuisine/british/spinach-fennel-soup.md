@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-A delicate yet flavorful soup pairing the subtle anise notes of fennel with vibrant spinach, pureed to a smooth consistency and enriched with cream. The fresh green color and bright flavors make it a refreshing choice.
+A British bistro soup that pairs the gentle anise of fennel with vibrant green spinach, the result somewhere between a French velouté and an Italian zuppa. You sweat fennel and onion slowly in butter until they're soft and faintly translucent, then add stock and let them cook through. Spinach goes in at the end (just a minute, no longer, so it stays bright green rather than collapsing to khaki) and the whole soup blends to a smooth pale-green purée. A swirl of cream enriches the texture; a few fennel fronds and toasted seeds on top for the look of it. Eaten as a starter with a small chunk of crusty bread, or as a light lunch with a tomato salad on the side.
 
 ## Ingredients
 

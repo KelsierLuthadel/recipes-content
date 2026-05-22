@@ -11,7 +11,7 @@
 **Cook Time:** 2 ½ hours
 
 ## Overview
-The defining technique is the 1-to-1 ratio of onion to beef by weight, and the onions cooking down to a sweet, brown, almost-marmalade paste before the paprika and meat join them. Beef shin or chuck simmers very slowly in this paprika-onion base with stock, garlic, marjoram, caraway, vinegar and tomato until the gravy clings to the meat. Lard is the right fat. No flour. No quick fixes. The result is the colour of dark mahogany and almost spoonable.
+The Viennese answer to its Hungarian cousin: slower, deeper, almost spoonable, the gravy as dark as treacle from hours of careful reduction rather than from any thickener. The defining technique is a one-to-one ratio of onion to beef by weight, which sounds wrong until you taste what it does. The onions cook down to a sweet, brown, almost-marmalade paste before the paprika and meat ever join them, and that paste is the body of the sauce. You use beef shin or chuck and simmer it very slowly in this paprika-onion base with stock, garlic, marjoram, caraway, vinegar and tomato until the gravy clings to every cube. Lard is the right fat. No flour. No quick fixes. Serve with bread dumplings (Semmelknödel), spätzle or thick slices of dark rye, and pickled cucumbers on the side to cut the richness. A bowl that warms you from the centre out on a winter night.
 
 ## Ingredients
 

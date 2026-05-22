@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-This classic New England clam chowder is a creamy, comforting soup featuring fresh clams, potatoes, and smoky bacon. A staple of American cuisine, it's rich and hearty, perfect for cold days. Serve with oyster crackers for authenticity.
+The benchmark New England chowder: creamy, milky-white, thickened by potato starch rather than flour, and named in the same regional argument that produces Manhattan's red tomato version up the coast. You steam the clams open in a heavy pot with a splash of water, strain the precious liquor (which is half the dish's flavour) through wet muslin, then start the soup proper with bacon rendered down in oil until golden and sweetly smoky. Onion, garlic and diced potato follow, then the reserved clam liquor and a measure of fish stock, and finally the milk poured in and brought back to a careful boil. You simmer covered until the potatoes are tender, uncover for the last ten minutes to thicken slightly, then stir in cream, the picked clam meat and chopped parsley at the very end with the heat low (cream split in a chowder is a small disaster). A few clams left in their shells on top of each bowl, a handful of oyster crackers on the side, and a winter afternoon's worth of comfort in front of you.
 
 ## Ingredients
 

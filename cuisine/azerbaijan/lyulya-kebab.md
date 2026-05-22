@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Fatty lamb shoulder gets minced twice or pulsed in a food processor until smooth. A large onion grates fine, the juice squeezed out (excess water makes the meat slip off skewers). Onion and lamb knead together with salt, pepper and ground sumac for 5 minutes until the mixture goes from loose to tacky, this is the windowpane stage equivalent for meat, and the trick to skewer adhesion. Mixture chills for 2 hours. Pat onto flat skewers in a 15 cm × 3 cm sausage shape. Grill over charcoal 5-6 minutes per side. Rest for 2 minutes. Serve.
+The Azeri grill at its purest, and one of the most technically demanding kebabs in the Caucasus: a minced lamb sausage moulded onto a flat skewer and grilled over charcoal until the outside is charred and the inside still juicy. You mince fatty lamb shoulder twice or pulse it smooth in a processor, and grate a large onion fine with the juice squeezed out (excess water makes the meat slip off the skewer). Then you knead the onion and lamb together with salt, pepper and ground sumac for a full five minutes until the mixture goes from loose to tacky. This is the equivalent of bread's windowpane stage for meat, and it's the trick to skewer adhesion. The mix chills for two hours, then pats onto flat skewers in fifteen-centimetre sausages, grills over charcoal five or six minutes per side, rests two minutes, comes to the table on the skewer with lavash, grilled tomatoes and onions, and a wedge of lemon.
 
 ## Ingredients
 

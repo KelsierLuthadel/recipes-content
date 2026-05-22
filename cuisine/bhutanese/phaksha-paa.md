@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Pork belly is cut into thumb-length strips and simmered with whole dried red chillies, daikon, ginger, garlic, soy and a generous spoon of Sichuan pepper. The dish cooks in two stages: first the pork on its own to render the fat and brown the meat, then the chillies, aromatics and radish go in to braise in the rendered juices. The finished dish has thick chunks of soft radish in a glossy red-brown sauce with whole chillies you can choose to eat or leave on the plate.
+A Bhutanese pork belly braise that leans Sichuanese on the spice rack, the Himalayan border showing in the dish. You cut pork belly into thumb-length strips and start it on its own in a heavy pot to render the fat and brown the meat properly, the rendered juices becoming the cooking fat for everything that follows. Then in go whole dried red chillies, daikon cut into chunks, ginger, garlic, a measure of soy and a generous spoon of Sichuan pepper, and the lot braises gently in the pork's own rendered juices until the radish has gone soft and the sauce has thickened into a glossy red-brown lacquer that coats the pork. The whole chillies sit in the pot still intact, and the cook at the table can choose to eat them or push them to one side. Eaten with red Bhutanese rice, the broth ladled over.
 
 ## Ingredients
 

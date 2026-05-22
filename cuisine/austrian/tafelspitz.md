@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-A whole 1 ½ kg piece of beef rump cap simmers very gently for 2 ½-3 hours with onions, roots and bones until tender but still sliceable. The broth comes to the table first, clarified and served with chives, semolina dumplings or fine pancake strips (Frittaten). The beef is then sliced and presented with apple-horseradish sauce, chive sauce, roast potatoes (Bratkartoffeln) and creamed spinach. Two courses, one pot.
+The Habsburg Sunday lunch, said to have been Emperor Franz Joseph's favourite dish, and still the proper-occasion centrepiece of any Viennese family table. You poach a whole 1.5 kg piece of beef rump cap very gently for two and a half to three hours in a stock built around onions, root vegetables and marrow bones, until the meat is fork-tender but still sliceable. The technique is the opposite of a roast: no browning, no sear, all the flavour pulled out gently into the broth and held in the slow-cooking beef. Two courses come from the one pot. The clarified broth comes to the table first, scattered with chives and served with semolina dumplings or the fine pancake strips called Frittaten. Then the beef itself is sliced and presented with apple-horseradish sauce, a sharp green chive sauce, crisp pan-roasted Bratkartoffeln and creamed spinach. A glass of cool grüner veltliner alongside; Sunday afternoon in front of you.
 
 ## Ingredients
 

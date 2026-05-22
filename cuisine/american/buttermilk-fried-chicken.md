@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Chicken pieces brine in buttermilk seasoned with garlic, paprika, salt and a splash of hot sauce, the buttermilk's acid tenderises while the seasoning penetrates. Dredged in heavily-seasoned flour, then dipped back in buttermilk briefly, then dredged again, the double coat is what gives the craggy, extra-crisp crust. Fried in 175°C oil 12-15 minutes per piece.
+The Southern Sunday dinner that defined a region. You start the night before, sinking bone-in chicken pieces into a buttermilk brine spiked with hot sauce and garlic so the acid tenderises the meat and the seasoning works its way deep. The next day comes the double-dredge: a roll through heavily-seasoned flour, a brief dip back in the buttermilk, then another roll through the flour, which is what gives the finished bird its craggy, almost lacy crust. Into 175°C oil for twelve to fifteen minutes per piece, turned every few minutes so the crust browns evenly. You're done when the coating is deep mahogany and a thermometer in the thigh reads 75°C. Drain on a wire rack rather than paper so the steam escapes and the crust stays shattering. Eat hot with a stack of pickles, a soft biscuit and a bottle of hot sauce on the table; cold the next day at the kitchen counter is its own justified American ritual.
 
 ## Ingredients
 

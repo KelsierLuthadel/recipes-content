@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Beef mince browns hard with onion, green pepper, garlic. A sauce of ketchup, tomato puree, brown sugar, Worcestershire, mustard, vinegar, paprika and a splash of stock simmers down with the meat until thick and clinging. Spoon into toasted soft buns; chips and a dill pickle on the side.
+The American school-cafeteria sandwich grown into a proper weeknight dinner. You brown beef mince hard with onion and green pepper until it's deeply caramelised on the bottom of the pan, stir in garlic for a moment, then build the sauce around it: ketchup and tomato purée for body, brown sugar and Worcestershire for sweetness and depth, mustard and cider vinegar for the sharp counter, paprika for the warmth across the back, a splash of beef stock to loosen the lot. You simmer for fifteen minutes or so until the sauce clings to the meat rather than pooling around it (sloppy is allowed, soupy isn't). Taste at the end and adjust: more vinegar if the sweetness has run away, more sugar if the tang is too sharp, more salt if it needs grounding. Pile generous spoonfuls into toasted soft burger buns and eat over the plate, dill pickle in one hand, chips on the side, the small pool of sauce that escapes mopped up at the end with the last corner of bun.
 
 ## Ingredients
 

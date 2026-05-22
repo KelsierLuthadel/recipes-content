@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-"Jhol" means a thin, soupy gravy, and that's exactly what this dish is - the antithesis of the heavy, cream-rich curry-house style. The base is mustard oil heated to smoking point, then knocked back with whole bay, cinnamon, cardamom and clove. Browned onions, ginger and a measured hand of turmeric give the gravy its colour; tomato is used sparingly, just enough to round the edges. Bone-in chicken and chunky potatoes cook together in a thin broth that you eat with rice, mopping up every drop.
+The everyday Bengali household chicken curry, the antithesis of the heavy, cream-rich curry-house style. "Jhol" means a thin, soupy gravy, and that's exactly what murgir jhol is: bone-in chicken and chunky golden potatoes simmered in a fragrant amber broth you eat with steamed rice, mopping up every drop. You heat mustard oil to smoking point to take the raw edge off, then temper whole bay, cinnamon, cardamom and clove in the hot fat. Browned onions, freshly pounded ginger and a measured hand of turmeric give the gravy its colour and warmth; tomato goes in sparingly, just enough to round the edges without turning the broth red. The chicken and potatoes cook together gently for about thirty minutes, the meat falling tender as the broth concentrates. Steamed gobindobhog rice on the side, a wedge of lime, perhaps a green chilli on the rim of the bowl for whoever wants more heat.
 
 ## Ingredients
 

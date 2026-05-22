@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A soft butter-and-yogurt dough rolls thin, stamps into 9 cm rounds, gets a teaspoon of spiced lamb mince in the centre, folds into a half-moon and is crimped. Either deep-fried (170°C, 3-4 minutes per side) or baked (200°C, 18-20 minutes, brushed with egg wash). The lamb filling is fragrant with baharat, onion, pine nuts and a touch of pomegranate molasses.
+The meat-filled half-moon that sits next to the cheese version on every Levantine-Arabian table. You roll a soft butter-and-yogurt dough thin, stamp it into nine-centimetre rounds, and place a teaspoon of spiced lamb mince in the centre of each. The lamb is fragrant with baharat, onion, toasted pine nuts and a touch of pomegranate molasses that adds a sweet-sharp depth you can't quite place. The rounds fold into half-moons and crimp with a fork. From there they go either route: deep-fried at 170°C for three or four minutes per side, or baked at 200°C for eighteen to twenty minutes with an egg wash for shine. The pastry blisters lightly, the filling stays juicy. Eaten warm with a wedge of lemon, often as part of a meze spread alongside hummus, mutabbal, salata and warm flatbread.
 
 ## Ingredients
 

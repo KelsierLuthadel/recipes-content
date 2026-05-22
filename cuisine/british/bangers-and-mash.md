@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Sausages slow-pan-fried so the skins blister and the fat renders, served on top of a soft butter-and-milk mash, smothered in dark onion gravy with mustard and thyme.
+British pub comfort food in its truest form, the dish you order when the weather is grim and you want something to push the day's mood around. You slow-pan-fry good sausages so the skins blister and the fat renders properly, build a soft butter-and-milk mash that tastes of potato rather than dairy, and ladle over a dark onion gravy stiffened with mustard and a few thyme leaves. The onions need long, low cooking until they're collapsed and almost jammy; rushing them is the only way to ruin the dish. Eaten on a winter Tuesday with a pint of bitter or a glass of red, the mash mountain pushed slightly to one side so the gravy can pool around it.
 
 ## Ingredients
 

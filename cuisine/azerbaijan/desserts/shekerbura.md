@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A short milk-and-egg dough rests for 1 hour. Walnuts grind fine (not powdered, texture matters), mix with caster sugar and ground cardamom. Dough rolls to 2 mm thick, cuts into 9 cm circles. Filling mounds on half, the other half folds over to make a half-moon, the edge crimps with a fork or with the traditional maqqaş pinches. Bakes at 180°C 25 minutes until pale gold. Dusts with icing sugar warm.
+The crescent pastry that marks Novruz, the Persian new year celebrated across Azerbaijan in the third week of March, baked alongside two other ritual sweets (pakhlava and goghal). You make a short milk-and-egg dough and rest it for an hour, while you grind walnuts fine but not powdered (texture matters) and mix them with caster sugar and ground cardamom for the filling. The dough rolls thin to two millimetres, cuts into nine-centimetre circles, and gets a mound of filling on one half before the other half folds over to make a half-moon. The edge crimps with a fork or, traditionally, with a small pinching tool called a maqqaş that gives the rim a decorative wheat-sheaf pattern. Bake at 180°C for twenty-five minutes until pale gold, dust with icing sugar while still warm. Strong tea, a family table, the spring equinox in the air.
 
 ## Ingredients
 

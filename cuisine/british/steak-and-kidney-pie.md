@@ -11,7 +11,7 @@
 **Cook Time:** 2 ½ hours
 
 ## Overview
-Diced chuck steak and ox kidney browned hard, simmered slowly with onions, mushrooms, stout and beef stock until meltingly tender, then topped with shortcrust pastry and baked until golden.
+The defining British pub pie, the dish you order when the weather is foul and you want the gravy to do something to your evening. You brown cubed chuck steak and ox kidney hard for colour, then braise the lot slowly with onions, mushrooms, a bottle of stout and beef stock until the meat is fork-tender and the gravy has reduced down to a glossy mahogany. The filling cools completely (essential; hot gravy in a pastry case is the surest way to a soggy bottom), goes into a pie dish, gets a shortcrust top crimped sharp at the edge, and bakes until the pastry is deep gold and the gravy bubbles up around the edges. Eaten with mashed potato, peas and a pint, the gravy spooned generously over.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-An enriched dough, flour, butter, milk, egg yolks, yeast, is rolled into 8 layers, with crushed walnut filling between each. The top layer is scored in a diamond pattern, brushed with saffron-tinted egg yolk, and pressed with a nut at the centre of each diamond. Baked at 180°C for 45 minutes. Saffron-honey syrup is poured over hot. Rested overnight before slicing, the syrup absorbs fully and the layers set.
+The Azerbaijani take on the pan-Caucasus pastry that goes by half a dozen names across the region. You make an enriched dough from flour, butter, milk, egg yolks and yeast, then roll it into eight layers stacked with a heavy filling of crushed walnuts spiced with cardamom and saffron between each one. The top gets scored in the traditional diamond pattern, brushed with saffron-tinted egg yolk so it bakes to a deep amber, and a single walnut pressed into the centre of each diamond as a marker. Forty-five minutes at 180°C, then a saffron-honey syrup poured generously over while it's still hot from the oven. The trick the recipe insists on is the overnight rest before slicing; that's when the syrup absorbs fully and the layers set so the diamonds cut cleanly. Eaten at Novruz, weddings and feast days, with strong black tea on the side.
 
 ## Ingredients
 

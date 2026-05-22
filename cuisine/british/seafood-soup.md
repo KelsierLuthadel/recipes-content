@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-A hearty Mediterranean seafood soup featuring a variety of fresh shellfish and fish in a rich tomato broth infused with wine, garlic, and herbs. The homemade fish stock provides deep flavor, making it a luxurious one-pot meal.
+A British coastal soup that leans Mediterranean in spirit, the kind of thing a Cornish bistro might serve as a starter on a summer menu. You build a tomato-and-wine broth flavoured with garlic, fresh herbs and a homemade fish stock; the depth of that stock is everything, so use the bones and heads from whatever fish you're cooking and let them simmer down properly. Into the gently bubbling broth go a variety of fresh shellfish (mussels, clams, prawns) and chunks of firm white fish, just long enough to cook through without overcooking. The natural juices the shellfish release back into the broth become part of the soup. Eaten with crusty bread to mop, a glass of cold white wine in the other hand, the sound of the sea half-imagined out the window.
 
 ## Ingredients
 

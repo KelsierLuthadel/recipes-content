@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Conch is pounded briefly and finely chopped, mixed with onion, green and red pepper, celery, chilli and herbs. A thick batter of flour, baking powder, milk and egg binds it all. Spoonfuls drop into hot oil and fry to golden. Sauce is whisked together in 30 seconds. Drinks on the side.
+The Bahamian fish-shack starter that every visitor to Nassau or the Out Islands ends up trying within a day of arrival. You pound the conch briefly to tenderise it, then chop it fine and mix with diced onion, green and red pepper, celery, fresh chilli and herbs. A thick batter of flour, baking powder, milk and egg binds the lot into a holdable spoonful. Drop golf-ball-sized scoops into hot oil and fry until they're deep gold and crisp at the edges. The pink dipping sauce comes together in thirty seconds (mayo, ketchup, hot sauce, a squeeze of lime) and is half the reason anyone orders fritters in the first place. Eaten standing up at a beachside hut with a cold beer or a glass of sky juice, lime wedges on the side, the sea twenty feet away.
 
 ## Ingredients
 

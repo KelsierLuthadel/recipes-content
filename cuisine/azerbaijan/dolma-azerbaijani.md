@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Brined vine leaves soak in warm water 20 minutes to remove the brine. Filling mixes raw lamb mince with rinsed short-grain rice, finely chopped onion, fresh mint and dill, butter, salt, pepper. Each leaf gets a teaspoon of filling, rolls into a tight cigar. Rolls pack in a single layer in a heavy pot, then a second and third layer perpendicular. Stock + sumac water pours in to barely cover. An inverted plate weighs everything down. Slow simmer for 50 minutes. Service: rolls on a platter, garlic yogurt alongside.
+Azerbaijan's stuffed vine leaves, claimed as the national dish in 2017 and added to UNESCO's list of Intangible Cultural Heritage. You start by soaking brined vine leaves in warm water for twenty minutes to leach out the salt, then build a filling of raw lamb mince with rinsed short-grain rice, finely chopped onion, fresh mint and dill, butter, salt and pepper. Each leaf gets a teaspoon of filling and rolls into a tight cigar. The rolls pack in a single layer in a heavy pot, then a second and third layer perpendicular to the first, like a brickwork pattern that holds them together as they cook. Stock and a splash of sumac water pour in to barely cover, an inverted plate weighs everything down so the dolma keep their shape, and the lot simmers slowly for fifty minutes. Plated on a platter with thick garlic yogurt alongside for dipping.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-A luxurious, creamy soup featuring fresh clams cooked with vegetables and rice, then pureed for a smooth texture. The natural clam broth provides deep seafood flavor, enhanced by cream and fresh parsley.
+A creamy clam soup that takes the New England chowder format and smooths it out into something closer to a French bisque. You steam fresh clams open in a covered pot, strain the briny liquor (which is half the dish's flavour), then soften onion, leek, carrot and swede in butter before pouring the stock back in with a handful of short-grain rice. The rice cooks down to nothing visible but thickens the soup naturally, which is why this version comes out velvet-smooth after a turn in the blender. Cream goes in last, off the heat so it doesn't split, and the reserved clam meat drops back into the pan along with chopped parsley. You finish each bowl with a few clams left in their shells balanced on the surface for the look of it. Crusty bread on the side, a sharp white wine in the glass, and a small bowl of black pepper to grind over.
 
 ## Ingredients
 

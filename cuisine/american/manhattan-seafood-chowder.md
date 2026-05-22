@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-This hearty Manhattan seafood chowder combines fresh clams, cod, and prawns in a tomato-based broth with potatoes and bacon. A classic American dish from New York, it's rich, flavorful, and perfect for seafood lovers. Serve with crusty bread for a complete meal.
+New York's tomato-based answer to New England's milk-and-cream chowder, and the source of a regional argument that has been going on for a hundred years. You start by softening bacon with onion, celery and garlic in butter, then add potatoes, thyme and fish stock and let them simmer until the potatoes are tender. The clams go in next under a lid for a few minutes until they open; you pull most of them out of their shells (keeping a few intact for the look of it) and strain the liquor back into the pot. Then tomato purée, chopped tomatoes, cod and prawns, and a final low simmer of just three minutes so the seafood stays tender. A generous scatter of flat-leaf parsley at the end lifts the lot. Serve with crusty bread to mop the brothy red sauce, and ignore anyone from Boston who tells you it's not a chowder.
 
 ## Ingredients
 

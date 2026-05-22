@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Floury Maris Piper potatoes are blanched, drained, and fried twice (once at low temperature to cook through, again at high temperature to crisp). The fish dunks in a cold beer batter and goes into the same hot oil. Mushy peas alongside.
+The British takeaway classic, the meal eaten wrapped in paper on a seafront bench while the gulls work out their angle of attack. The chips are the longer half of the job: floury Maris Piper potatoes blanched first at low oil temperature to cook through, drained, then crisped at a hotter temperature for the second fry that gives them their proper craggy crunch. The fish (cod or haddock for the classic, pollock or hake for the equally-good alternatives) dunks in a cold beer batter and goes straight into the same hot oil, where the batter sets instantly into a shattering golden shell that keeps the fish steaming and white inside. Mushy peas on the side, a wedge of lemon if you're being fancy. Salt and malt vinegar at the table, newspaper underneath if you're going traditional.
 
 ## Ingredients
 

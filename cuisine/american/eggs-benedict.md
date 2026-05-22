@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Hollandaise builds first (it can wait briefly in a warm spot). Eggs poach in vinegar-spiked simmering water. English muffins toast and butter; ham warms briefly. Everything stacks: muffin, ham, egg, hollandaise. Eat immediately.
+The Sunday brunch icon, and the dish people learn hollandaise for. You build the sauce first, whisking egg yolks with water and lemon over a bain-marie until they ribbon, then drizzling in warm clarified butter while you whisk steady and even until the bowl holds something glossy and thick. The hollandaise will wait for you in a warm spot while you poach the eggs - vinegar in barely-simmering water, a gentle whirlpool, three minutes for a runny yolk - and toast the muffins, and warm the ham. Then everything stacks at speed: muffin, ham, egg, hollandaise spooned generously over, a scatter of chives. You eat immediately, because every component is at its best within a minute of plating and falls off a cliff after five. Looks fancy on a tablecloth; rewards twenty focused minutes of work.
 
 ## Ingredients
 

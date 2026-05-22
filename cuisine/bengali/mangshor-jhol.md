@@ -11,7 +11,7 @@
 **Cook Time:** 90 minutes
 
 ## Overview
-The wet-style mutton counterpart to the drier, slow-bhuna kosha mangsho. "Jhol" means a thin, soupy gravy - and Mangshor Jhol is exactly that: bone-in goat or mutton cooked low and slow with potatoes in a light, aromatic broth that you ladle generously over rice. Mustard oil heated to smoking, whole bay and cinnamon, deeply browned onions and a measured hand of turmeric give the gravy its colour and weight; the bones contribute marrow to the broth as the meat tenderises.
+The wet-style mutton counterpart to the drier, slow-bhuna kosha mangsho - and the more everyday of the two. "Jhol" means a thin, soupy gravy and mangshor jhol is exactly that: bone-in goat or mutton cooked low and slow with potatoes in a light, aromatic broth that you ladle generously over rice. You heat mustard oil to smoking to take the raw edge off, temper whole bay and cinnamon in the hot fat, then brown the onions deeply and add a measured hand of turmeric to give the gravy its colour and weight. The bones contribute marrow to the broth as the meat tenderises over an hour or so, and the potatoes go in late enough that they soften without disintegrating. Eaten with a mound of plain steamed rice, a wedge of lime, and a thin slick of mustard oil scattered with raw onion on the side. A Sunday lunch dish for a Bengali household, served from the same pot it was cooked in.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Sausages browned in a casserole, joined by onion, garlic and rosemary, then a tin of tomatoes and a tin of butter beans. Twenty minutes on the hob and dinner's ready.
+The British weeknight stew that takes twenty minutes start to finish and tastes like it took two hours. You brown decent sausages hard in a heavy casserole until they're caramelised on every side, then drop in onion, garlic and rosemary to soften in the rendered fat, then tip in a tin of tomatoes and a tin of butter beans. Twenty minutes on the hob, lid off, and the sauce thickens around the sausages while the beans soak up the smoky pork fat. Eaten straight from the pan with crusty bread to mop, a green salad on the side, no ceremony. The kind of dinner that gets cooked once and then again the next Wednesday.
 
 ## Ingredients
 
