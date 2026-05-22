@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-The dough: water, butter, lemon zest and salt bring to a boil; flour dumps in all at once; cooked for 1-2 minutes stirring vigorously into a smooth elastic dough. Tipped onto a floured surface; rolled paper-thin. Filling: a quick béchamel makes from butter, flour, milk; cooked prawns chop fine; fold in with parsley, lemon zest, pepper. Filling cools fully (essential). Discs cut from dough; filling spoons on half; folded into a half-moon and crimped. Each rissoi dredges in flour, dips in egg, rolls in breadcrumbs. Deep-fried at 175°C 2 minutes per side until amber. Drained and eaten warm.
+Rissois are the half-moon prawn fritters you'd see in the glass cabinet of every Lisbon snack bar, sold a couple at a time with a paper napkin. The dough is unusual, closer to a hot-water pastry than a normal flour-and-fat dough: you bring water, butter, lemon zest and salt to a boil, dump the flour in all at once, and stir hard until it pulls into a smooth elastic ball. Tip it onto a floured bench, roll paper-thin, cut into discs, then fill each with a spoonful of quick prawn-and-béchamel mixture, fold into a half-moon and crimp the edges. The béchamel needs to be properly cold before you fill, otherwise the dough won't hold its shape. Once they're breaded and frying they cook fast: two minutes a side until amber and crisp. Eat them warm, ideally with a chilled vinho verde.
 
 ## Ingredients
 

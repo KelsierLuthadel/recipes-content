@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Long-grain basmati rinses thoroughly until the water runs almost clear, then soaks for 30 minutes. Boils in plenty of salted water for 5-6 minutes until 70% cooked (the chalow par-boil). Drains; returns to a dry pot; oil drizzles over the top; the lid stays on with the heat on the lowest setting for 20 minutes (the dum). The result: separate, fluffy grains and a thin gold crust on the bottom.
+Chalow is Afghanistan's foundational rice method, and once you have it down you can build any Afghan rice dish on top of it (kabuli pulao starts from a chalow base, for example). The technique is parboil-then-steam. Long-grain basmati rinses thoroughly until the water runs almost clear, soaks for half an hour, then boils hard in plenty of salted water for five or six minutes (the grains should be 70% cooked: soft outside, just a touch firm in the middle). Drain, return to a dry pot, drizzle a little oil over the top, clamp the lid on with the heat at its absolute lowest for twenty minutes (this is the dum). What comes out is rice with separate, fluffy grains and a thin gold crust on the bottom of the pot. The crust is the cook's reward; scrape it up and eat it first.
 
 ## Ingredients
 

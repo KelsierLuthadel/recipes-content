@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A simple flour-and-water dough rests, divides into balls, rolls thin. The filling, boiled mashed potato with sautéed leeks, onion, garlic, coriander and chillies, spreads over half of each round; the other half folds over and seals. Each bolani fries in a thin film of oil until each side is freckled gold.
+Bolani are the stuffed Afghan flatbreads sold at every roadside stall and bus station, fried golden in a thin film of oil and served folded around a coriander chutney for dipping. A plain flour-and-water dough rests for half an hour, then divides into balls and rolls thin. The classic filling is boiled mashed potato with sautéed leek, onion, garlic, fresh coriander and chillies, though pumpkin and spinach versions are common too. Spread the filling over half of each round, fold the other half over and seal the edges (a fork-press works, or pinch by hand). Each bolani fries in a shallow pan in a film of oil until both sides are freckled gold. Cut into wedges, eat warm with a green chutney.
 
 ## Ingredients
 

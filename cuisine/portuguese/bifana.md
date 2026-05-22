@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Pork loin (or pork shoulder) is sliced very thin across the grain, 3 mm thick, 5-6 cm wide. Marinated for 2 hours in white wine, garlic, paprika, bay leaves, black pepper and salt. Fried in olive oil and butter over high heat 1 minute per side; the marinade reduces in the pan to a thin sauce. Piled into halved papo-seco rolls (or sturdy white rolls), the bread soaked in the pan-juices. Mustard or piri-piri sauce alongside.
+Bifanas are Portugal's national lunch sandwich, sold at every counter from Lisbon to Porto. Slices of pork loin (paper-thin, across the grain) marinate for a couple of hours in white wine, garlic, paprika, bay and black pepper, then go into a screaming-hot pan with olive oil and a knob of butter for sixty seconds a side. The marinade reduces in the pan to a salty, winey sauce, which gets ladled over a halved papo-seco roll along with the pork. Add mustard, or a squirt of piri-piri, and you've nailed it. Eaten standing at the counter with a glass of Sagres beer, or in Porto with a Super Bock.
 
 ## Ingredients
 

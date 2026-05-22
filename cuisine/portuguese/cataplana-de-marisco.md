@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Onion, garlic, red and green peppers sweat slowly in olive oil. Sliced chouriço joins and renders its red fat. Smoked paprika, bay leaves, fresh tomatoes (or tinned) and a glug of white wine go in; simmer for 10 minutes until reduced. Clams and mussels (pre-cleaned) tip in; lid clamps on; 4 minutes until they open. Prawns and chunks of firm white fish (monkfish, hake) join; lid back on; 4 more minutes. Finished with fresh coriander, lemon juice and a glug of olive oil. Brought to the table in the pot; lid lifted at the table.
+A cataplana is a hinged copper clamshell pan, and the seafood stew named after it is one of those dishes where the cookware does the work. You build a base of onions, peppers, sliced chouriço, smoked paprika, tomato and white wine in the bottom of the cataplana, then layer clams, mussels, prawns and chunks of firm white fish on top, clamp the lid shut, and steam it all for less than ten minutes. The lid lifts at the table to release a cloud of paprika-and-wine-scented steam, which is the entire point of the dish. If you do not have a cataplana, any wide pan with a tight lid does the same job. Coriander and lemon at the end, crusty bread for the broth, and vinho verde for everything else.
 
 ## Ingredients
 

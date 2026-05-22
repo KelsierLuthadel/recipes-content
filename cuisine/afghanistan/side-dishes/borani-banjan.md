@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Aubergine slices salt and sweat to remove moisture; fry hard in oil until golden and silky. Onion and tomato cook to a quick sauce with turmeric and chilli. The eggplant and sauce layer in a wide dish; the chaka (yogurt with garlic and salt) goes over the top while everything is still warm. Dried mint and a drizzle of oil.
+Borani banjan is an Afghan aubergine dish that does the same work as a moussaka or a melitzanosalata: pan-fried aubergine slices, a quick spiced tomato sauce, and a generous lid of garlic-and-mint yogurt that bridges all the warm and cold elements. The aubergine slices salt and sweat for half an hour first (which keeps them from drinking too much oil) before they fry hard in olive oil until golden and silky. Onion and tomato cook to a quick sauce with turmeric and a kick of chilli. The aubergine and sauce layer in a wide dish, then the chaka (yogurt whisked with garlic and salt) spoons over the whole thing while it is still warm. Scatter dried mint and drizzle olive oil to finish. Eat warm or at room temperature, with bread.
 
 ## Ingredients
 

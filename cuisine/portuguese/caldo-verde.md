@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Onions cook in olive oil; potatoes simmer in stock until tender; the lot blends smooth into a thick velouté. Kale shreds (impossibly fine, almost like green confetti) drop into the simmering broth and cook just 2-3 minutes. Chouriço slices cook briefly on top. A generous drizzle of olive oil at the table. Bread on the side.
+This is the soup Portugal eats in winter and at every wedding, christening and Christmas Eve: a velvety potato base, a confetti of impossibly thin kale shredded in right at the end, and a few slices of chouriço floating on top to flavour the broth. You sweat onions in olive oil, simmer potatoes in stock until soft, blend the lot smooth, then drop the kale in for the final two minutes (which is when the colour brightens and the texture stays alive). Lay the chouriço on top, drizzle olive oil at the table, tear bread in. It is a five-ingredient soup that depends entirely on the quality of the olive oil and the kale being cut almost transparently thin, ribbon by ribbon.
 
 ## Ingredients
 

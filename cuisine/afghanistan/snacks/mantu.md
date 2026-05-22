@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The filling: ground lamb mixes with grated onion (squeezed dry), garlic, ground coriander, cumin, cinnamon, salt and pepper. Wonton wrappers fold around a teaspoon of filling: pull all four corners up over the centre, pinch in pairs to form an X-shape with the meat visible in 4 small triangles at the top, like an open flower. Steamed in a bamboo basket 18-20 minutes over boiling water. While they steam, two sauces prepare: a chana dal-tomato-and-mint sauce (the legumes are simmered until soft and stewed with onion, tomato, dried mint and pepper into a slightly chunky topping), and a yogurt-garlic sauce. Plated like aushak: yogurt base, dumplings on top, lentil-tomato sauce, dried mint.
+This is the small-plate version of mantu, folded into a four-pointed flower with the meat visible at the top, plated for a starter or a shared snack rather than the full main-course platter. The filling is ground lamb with grated onion (squeezed dry first, otherwise the parcel goes soggy), garlic, ground coriander, cumin, cinnamon, salt and pepper. The fold is the interesting bit. Take a wonton wrapper, drop a teaspoon of filling in the centre, pull all four corners up over the centre, and pinch them together in pairs to make an X-shape with four small triangles of meat showing at the top, like an opened flower. Steam in a bamboo basket eighteen to twenty minutes over boiling water. Two sauces alongside: a chana-dal-tomato-and-mint sauce stewed thick, and chaka yogurt with garlic. Plate as you would aushak: yogurt base, dumplings on top, lentil-tomato sauce ladled across, dried mint scattered last.
 
 ## Ingredients
 

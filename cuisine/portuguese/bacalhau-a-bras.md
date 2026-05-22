@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Salt cod desalts in cold water (changed several times) for 24-48 hours, then poaches briefly and shreds. Onions cook slowly in olive oil with garlic until very soft. Pre-fried matchstick potatoes (palha) toss in. The cod joins; eggs whisk in over a low heat, they should coat everything like a loose carbonara, never set firm. Olives, parsley and lemon at the end.
+Bacalhau à Brás is the dish Portugal turns to when the salt cod, the onions and the eggs all need to find their place in one pan: scrambled together with a tangle of fine matchstick chips so the whole thing reads as somewhere between a hash and a loose carbonara. The salt cod needs the usual day or two of cold soaks to draw the salt down, then a brief simmer to soften it; the onions take their time in olive oil with a few smashed garlic cloves until almost jam-like; the matchstick chips (palha) are fried separately so they stay crisp. Everything comes together in a wide pan, the eggs are whisked in over a low heat, and you stop the moment the eggs coat the cod and potato like a sauce. Never let them set firm. Olives, parsley and a wedge of lemon at the table.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Tomatoes, cucumbers and red onion dice fine and even. A fresh dressing of lemon juice, olive oil, dried mint, salt and a small green chilli is whisked. Tossed at the last minute; the salt draws a little water out and the flavours mingle. A scatter of fresh coriander finishes.
+Salata afghani is the salad that goes alongside every Afghan main, no exceptions: tomato, cucumber and red onion diced fine and even, dressed with lemon, olive oil and dried mint, scattered with fresh coriander. The technique is in the cut. Everything dices the same size (about 5 mm) so a spoonful gives you a clean mouthful of all three vegetables. Whisk the dressing of lemon juice, olive oil, dried mint, salt and a small green chilli; toss it through the diced vegetables at the last minute (the salt draws a little water out and the flavours mingle without dissolving the cucumber). Fresh coriander goes on top right before serving.
 
 ## Ingredients
 

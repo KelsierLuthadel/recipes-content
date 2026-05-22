@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (plus 3 hours setting)
 
 ## Overview
-Rice flour (very finely ground from soaked basmati, traditionally) is whisked into cold milk to a slurry. The rest of the milk warms with sugar; the slurry pours in; the mixture cooks slowly until thick and creamy. Cardamom and rosewater finish; the lot pours into shallow dishes to set. Crushed nuts on top.
+Firni is Afghanistan's set rice-flour pudding, served at Eid and at the end of long family lunches, scented with cardamom and rosewater and topped with crushed pistachios. The technique is simple but precise. Very finely ground rice flour (traditionally soaked basmati ground by hand, but shop-bought rice flour works well) whisks into cold milk to a slurry, gets stirred slowly into warming sweetened milk, and cooks until thick and creamy. Cardamom and rosewater at the end. Pour into shallow dishes (small individual ones, ideally) and chill until the surface sets to a light skin. Scatter with crushed pistachios or almonds and serve cold. Make it the day before so it has time to set properly.
 
 ## Ingredients
 

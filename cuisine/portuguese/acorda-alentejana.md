@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A paste of garlic, coriander, salt and olive oil mashes in a wide bowl with a pestle (or mortar). Boiling water pours over the paste; whisks together. Chunks of stale country bread submerge into the broth and soften. Eggs poach in the same broth at the very end. Eaten warm, with the egg yolk stirred into each spoonful and the bread soaking up everything.
+This is the Alentejo's classic morning-after breakfast and lunchtime  supper: a thin garlic-and-coriander broth ladled over chunks of stale country bread with a poached egg slipped in at the end. You start by pounding fresh coriander, garlic, salt and olive oil into a paste in a wide bowl, then pour boiling water (or light stock) over it to make a fragrant broth. Stale bread goes in to soak up the liquid, eggs poach in the same broth for the last minute, and the whole bowl comes to the table warm enough to steam but cool enough to eat with a spoon. Stir the yolk through your portion as you eat. It is the cleanest, most aromatic 15-minute bowl of bread soup you will ever make.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Lamb shoulder browns then braises in spiced stock until tender, the stock is the base for the rice. Carrots cut into matchsticks fry slowly in butter and sugar until golden and soft. Raisins plump in butter. Rice parboils in salted water, then layers in the cooking pot with lamb on the bottom, rice piled on top, drizzles of stock, and the lid clamped on for the steam-cook.
+Kabuli pulao is Afghanistan's national dish, the centrepiece of every wedding, Eid and important Friday lunch: a layered pilaf of long-grain rice, slow-braised lamb, sweet carrot strands and butter-plumped raisins, all steam-finished together in one pot. You brown lamb shoulder hard, then braise it in spiced stock until the meat slips off the bone (that stock becomes the rice's cooking liquid). Carrots cut into matchsticks fry slowly in butter and sugar until they are golden and glassy. Raisins plump in butter. The rice parboils, then layers in the pot: lamb at the bottom, rice piled on top in a dome, drizzles of stock through the dome, lid clamped on tight. Twenty-five minutes of steam-cook and the rice emerges grain-separate and fragrant, ready to mound onto a platter with the carrots and raisins scattered across the top.
 
 ## Ingredients
 

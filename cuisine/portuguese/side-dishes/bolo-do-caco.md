@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A small orange sweet potato is boiled, peeled, mashed to a smooth purée. The dough: strong flour, mashed sweet potato, yeast, salt, sugar and water mix to a soft slightly sticky dough; rises for 1 hour. Divides into 4; each shapes into a flat 18 cm round disc. Cooked on a hot dry griddle (or a heavy heavy frying pan, since basalt stones are rare in domestic kitchens) 5 minutes per side until both sides are charred-spotted. Split horizontally; the garlic-parsley butter slathers inside; close like a sandwich.
+Bolo do caco is the Madeiran flatbread you'll get at every restaurant on the island, traditionally cooked on a hot basalt stone (the caco) but very happily on a heavy dry griddle at home. The dough is straightforward (strong flour, yeast, salt, water) with one twist: a small boiled and mashed orange sweet potato folded in, which gives the bread its faintly sweet edge and golden colour. After a single rise, you divide the dough, shape into 18 cm rounds, and press them onto a hot dry pan for five minutes a side until both faces are charred-spotted. Split horizontally, slathered with garlic-parsley butter, and closed back like a sandwich. Eat hot; it does not keep.
 
 ## Ingredients
 

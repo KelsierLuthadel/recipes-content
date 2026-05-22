@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Lamb mince fries with onion and spices; cools. A simple flour dough rolls thin and cuts into 8 cm squares; each gets a teaspoon of filling and pinches up at four corners. Steamed for 20 minutes. Yogurt (chaka) thins with garlic and dried mint. Yellow split peas cook into a thick tomato qorma. Plate: yogurt under, mantu in the middle, qorma on top, dried mint and chilli powder to finish.
+Mantu are the steamed lamb dumplings that Afghanistan shares with the rest of Central Asia, plated under garlic yogurt and topped with a thick split-pea-and-tomato sauce. The filling is straightforward: lamb mince fried with onion and spices, then cooled completely before it goes into the wrappers (warm filling makes the dough soggy). A plain flour-and-water dough rolls thin, gets cut into 8 cm squares, and each square gets a teaspoon of filling pinched closed at all four corners. Steam for twenty minutes. While they are steaming you whisk the chaka (yogurt with garlic and salt) and cook a quick qorma of yellow split peas with tomato and dried mint. Plate stacked: yogurt under, mantu in the middle, qorma over the top, dried mint and a sprinkle of chilli powder to finish. A whole platter goes to the centre of the table to share.
 
 ## Ingredients
 

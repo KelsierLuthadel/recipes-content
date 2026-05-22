@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Salt cod (bacalhau) desalts in cold water for 24-36 hours with multiple water changes, this step is non-negotiable and starts a day before. After desalting, the cod simmers gently in water for 8-10 minutes; cooled; flaked finely with fingers (removing all bones and skin). Floury potatoes boil in their skins, peel hot, mash dry. Onion sweats in olive oil; cooled. Everything mixes in a wide bowl with parsley, beaten eggs, white pepper. Shaped between two soup spoons into the iconic three-sided "quenelle" shape (or rolled into walnut-sized balls). Deep-fried at 175°C for 3-4 minutes until amber-gold. Drained and eaten warm.
+These are the little salt-cod fritters you'd order at a marble counter in Lisbon, sitting with a glass of vinho verde while the bartender slides a plate across with no ceremony. The recipe itself is simple, dry mashed potato through flaked bacalhau with onion, garlic, parsley and egg, then a brief fry, but it does start the day before because the salt cod wants 24 to 36 hours of cold water soaks to draw the salt out. That step is the one thing you cannot shortcut. Once the cod is desalted, everything else is an afternoon's work: simmer the cod, flake it through warm potato, shape into the three-sided football "quenelles" that are the Portuguese signature, and fry until amber. Eat them warm with a wedge of lemon and a dish of piri-piri on the side.
 
 ## Ingredients
 

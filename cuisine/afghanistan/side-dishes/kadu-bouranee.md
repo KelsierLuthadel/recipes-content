@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Pumpkin (or butternut squash) cubes brown briefly in oil with chopped onion; sugar, tomato and a touch of stock turn the pot into a gentle simmer. Covered, cooked low until the pumpkin is collapsing soft (35-40 minutes). Plated under a thick layer of garlic-salted Greek yogurt with dried mint over the top. The yogurt is cold; the pumpkin warm.
+Kadu bouranee is Afghanistan's sweet-and-savoury pumpkin dish: cubes of butternut squash or pumpkin braised slowly with onion and a touch of sugar until they collapse, plated under cold garlic-and-mint yogurt while the pumpkin is still warm. The temperature contrast is the whole pleasure of the dish. You brown the pumpkin briefly in oil with chopped onion, add sugar, tomato and a splash of stock, then cover and cook low until the pumpkin is completely yielding to a spoon (around forty minutes). Spoon into a wide dish, blanket with garlic yogurt (chaka) straight from the fridge, scatter dried mint over the top. Eat with naan, scooping pumpkin and yogurt up together.
 
 ## Ingredients
 

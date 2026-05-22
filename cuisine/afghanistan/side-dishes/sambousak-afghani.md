@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Lamb mince is fried with onion, leek, garlic, ginger, ground coriander, cumin, chilli and a touch of dried mint, then cooled. Spring-roll pastry sheets are cut into long strips; a teaspoon of cool filling is folded into a triangular packet via the flag-fold method. Sealed with flour-water paste, the parcels are fried at 170°C for 3 minutes per side.
+Sambousak are Afghanistan's answer to the samosa: small triangular fried pastries with a spiced lamb filling, served as a starter or with afternoon tea alongside a green chutney. The filling is a quick fry-up of lamb mince with onion, leek, garlic, ginger, ground coriander, cumin, chilli and a hit of dried mint, then cooled completely before it goes into the wrappers. The dough work is the move: spring-roll pastry sheets get cut into long strips, then folded around a teaspoon of filling using the flag-fold (the strip wraps over the filling at a diagonal, then keeps folding triangle-over-triangle down its length until you have a closed triangle). Seal the seam with a flour-and-water paste, fry at 170°C for three minutes a side until amber. Eat warm with a mint-and-coriander chutney.
 
 ## Ingredients
 

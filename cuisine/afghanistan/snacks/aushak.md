@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Leeks (or scallions) are chopped fine, salted briefly to weep, squeezed dry, then mixed with fresh mint, ground coriander and pepper. Square wonton wrappers (or homemade dough) seal around a teaspoon of filling, pinched into half-moons or triangles. Meanwhile a meat sauce of ground beef or lamb sautées with onion, garlic, tomato paste and dried mint, simmered into a thick savoury topping. A yogurt sauce whisks with crushed garlic and salt. To plate: dumplings boiled briefly, drained, fanned over a smear of garlic yogurt, topped with hot meat sauce, scattered with dried mint and red chilli.
+Aushak are the Afghan leek-and-mint dumplings that share their plating shape with mantu: a smear of garlic yogurt under, dumplings boiled and fanned over, a thick lamb meat sauce ladled across the top, dried mint and chilli to finish. The filling is just leeks (or scallions), salted briefly to draw the water out, squeezed dry, then mixed with fresh mint, ground coriander and pepper. Wonton wrappers (or homemade dough) seal around a teaspoon of filling pinched into half-moons or triangles. While the dumplings boil, you make the topping: ground beef or lamb fried with onion, garlic, tomato paste and dried mint, simmered into a thick savoury sauce. The yogurt sauce is just chaka with garlic. Plate together while everything is still warm.
 
 ## Ingredients
 

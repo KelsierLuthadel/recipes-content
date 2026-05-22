@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A batter is made from chickpea flour (besan), rice flour for crispness, water, salt, turmeric, ground coriander, chilli powder, ajwain seeds, crushed garlic and a pinch of baking soda. Rested for 10 minutes so the chickpea flour hydrates. Potatoes slice into 3 mm rounds, salted briefly. Each slice dips in the batter; lifted with chopsticks; lowered into hot oil; fried for 3 minutes per side until amber. Once drained, they are salted with chaat masala. Served with a quick mint-and-coriander chutney.
+Kachalou pakora are Afghan-style battered potato slices, fried crisp and dusted with chaat masala while they are still hot from the oil. The batter is chickpea flour (besan) with a touch of rice flour for crispness, water, salt, turmeric, ground coriander, chilli powder, ajwain seeds, crushed garlic and a pinch of baking soda. Ten minutes to rest so the chickpea flour hydrates and the batter clings properly. Potatoes slice into 3 mm rounds and salt briefly to draw out a little moisture. Each slice dips in the batter, lifts with chopsticks, drops into oil at 175°C, fries three minutes a side until amber. Drained, dusted with chaat masala, served with a quick mint-and-coriander chutney. Eat hot. Cold pakora are a different food entirely, and not in a good way.
 
 ## Ingredients
 

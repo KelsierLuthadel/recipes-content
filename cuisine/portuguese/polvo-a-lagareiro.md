@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-A whole octopus (frozen-then-thawed is best, freezing tenderises it; OR pre-cleaned and beaten by a fishmonger) is simmered in a covered pot with onion, bay and lemon peel for 50-60 minutes until tender. Lifted out; cut into segments at the joints. Small new potatoes parboil for 12 minutes; drained, "punched" gently with the back of a wooden spoon to fracture them but not break them apart. Octopus and potatoes go into a wide oven dish; slathered with olive oil, garlic, paprika, bay; baked at 220°C 25 minutes until the edges are deep colour. Garnished with parsley, lemon, and an additional drizzle of raw olive oil.
+Polvo à Lagareiro is the dish the olive-press workers (the lagareiros) ate at the press during the harvest, and it is still glorious: tender octopus and small smashed potatoes baked together under a generous slick of olive oil. You simmer a whole octopus for an hour with onion and bay until you can pierce a thick part of the tentacle with a knife and feel no resistance. The potatoes parboil, then get punched gently with a wooden spoon so they crack but stay whole. Octopus and potatoes go into a wide oven dish, doused with olive oil, garlic, paprika and bay, and roast hard for 25 minutes so the edges char. The olive oil at the end is not a garnish but the dish itself, and it wants to be the best you have.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-A poolish (overnight starter) of flour, water and a tiny pinch of yeast ferments 12 hours. Combined with the rest of the flour, water, salt and a small additional yeast amount. Kneaded into a shaggy dough; rises for 2 hours with stretch-and-folds every 30 minutes. Shaped into a round; final proof 1-1 ½ hours. Baked at 240°C for 15 minutes (with steam), then 220°C 30-35 minutes, on a baking stone if available. The result: deep dark crust, slightly sour smell, dense chewy crumb.
+Pão Alentejano is Portugal's great regional bread, a slow-fermented loaf from the southern Alentejo plains with a deeply dark crust and a chewy, slightly sour crumb. It starts twelve hours before you bake, with an overnight poolish of flour, water and the tiniest pinch of yeast. The main dough goes together the next day, gets a stretch-and-fold every half hour during a two-hour bulk ferment, then shapes into a round and proves a final hour and a half. Into a hot oven (240°C with steam for the first fifteen minutes, then 220°C dry for another half hour) and out comes a loaf that smells faintly of vinegar and tears open with a structured, irregular crumb. Worth the day it takes.
 
 ## Ingredients
 

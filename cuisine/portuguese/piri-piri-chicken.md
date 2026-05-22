@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-A whole chicken is spatchcocked (backbone removed, pressed flat). The piri-piri marinade: bird's-eye chillies, garlic, paprika, lemon zest and juice, white wine vinegar, olive oil and salt blitz to a vibrant red paste. The bird marinates for 4 hours minimum, ideally overnight. Grilled hard over hot coals (or under a max broiler) skin-side first, then flipped, basting with extra sauce, until the skin is deeply charred and the juices run clear. Extra piri-piri sauce served alongside.
+Piri-piri chicken is the dish that travelled from Mozambique to Portugal to the high street, and the original is still the best: a whole chicken spatchcocked flat, marinated overnight in a vivid red paste of bird's-eye chillies, garlic, paprika, lemon and olive oil, then grilled hard over charcoal until the skin is darkly blistered and the meat just-cooked through. The marinade itself takes five minutes in a blender. The bird wants a minimum of four hours in it, ideally overnight. A home broiler on max works if you do not have a barbecue, but the smoke from the coals is half the dish. Serve with a second bowl of the same marinade as a sauce, a green salad, and chips.
 
 ## Ingredients
 

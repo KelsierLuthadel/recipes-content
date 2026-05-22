@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A whole Portuguese chouriço (or paprika chorizo as substitute) sits on a clay assador (the pig-shaped dish for the purpose; or any heat-safe dish with high sides). Aguardente (Portuguese brandy / firewater), or any high-proof brandy / rum, pours over to a depth of 1 cm. Lit with a match at the table. The blue alcohol flames cook and char the chouriço over 8-10 minutes; the sugar in the paprika caramelises; the kitchen fills with a dramatic smoky aroma. Once the flames die, the chouriço slices thick. Served with bread, the rendered oil from the dish, olives, and pickled chillies.
+This is the sort of thing you'd order in a Portuguese tavern after the third glass of wine, when the host decides you need a bit of theatre. A whole smoky chouriço sits in a small clay dish (a pig-shaped one if you're being properly Portuguese about it, or any heat-safe dish with high sides), gets drenched in  brandy, and is lit with a long match at the table. Blue alcohol flames lick at the sausage for eight or ten minutes, the paprika caramelises into the rendered oil, and the kitchen fills with smoke. Then the flames die, the chouriço gets sliced thick, and you mop up the oil with a basket of bread. You can do this at home in an iron skillet. Light it carefully, mind the your eyebrows, let it burn out on its own, and serve hot with bread, olives, and another glass of whatever you're drinking.
 
 ## Ingredients
 

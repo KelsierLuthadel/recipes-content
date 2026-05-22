@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes (duck) + 30 minutes (rice)
 
 ## Overview
-A whole duck (or 4 large legs) is poached with onion, garlic, bay, cloves and lemon peel for 2 hours until the meat falls off the bone. The duck cools; meat is pulled into shreds; bones are returned to simmer 30 more minutes for a deeper stock. Rice cooks in this strained duck stock with bay leaves and a clove or two until just tender. Folded together with the duck shreds and a touch of duck fat. Spread in an oven dish; topped with thin slices of chouriço; baked at 200°C 15-20 minutes until the top is gold and the chouriço is crisped.
+Arroz de pato is Portugal's answer to paella, except baked rather than simmered, and the rice picks up a top crust of crisped chouriço at the end. You poach a whole duck for two hours with onion, bay, cloves and lemon peel until the meat falls apart, then strip the meat off the bones and put the bones back to extract another half hour of flavour from the stock. The strained duck stock cooks the rice, the shredded meat folds back in, and the whole thing goes into a baking dish under a layer of paper-thin chouriço slices. Twenty minutes in a hot oven and the top emerges deeply burnished, the chouriço slices crisp at their edges and slick at their centres. Sunday lunch, ideally with a heavy red from the Douro.
 
 ## Ingredients
 

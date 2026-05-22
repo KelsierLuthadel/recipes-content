@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes (with a hot stone)
 
 ## Overview
-A simple yeasted bread dough, plain flour, fast-action yeast, salt, sugar, oil and warm water, kneads, rises, divides into long ovals. Each oval is pressed and stretched into a 40-50 cm flat lozenge, scored with three fingertip-trails down the length, scattered with nigella and sesame, and slid onto a hot baking stone (or upturned heavy tray) at the oven's maximum heat.
+Naan-e-afghani is the long lozenge-shaped flatbread you'll see hanging from cords in bakery windows across Afghan cities, scored down its length with three fingertip-trails and scattered with nigella and sesame seeds. The dough is straightforward (plain flour, fast-action yeast, salt, sugar, a glug of oil and warm water), kneads to smooth, rises for an hour, then divides into long ovals. Each oval is pressed and stretched on a floured bench into a 40-50 cm flat lozenge (the shape matters: thin in the middle, slightly thicker at the rim). Three fingertip trails down the length, a scatter of nigella and sesame, then slid onto a hot baking stone (or an upturned heavy baking tray) at your oven's maximum heat. Eight minutes and it is done, blistered and chewy. Tear, dip, wrap, eat warm with anything Afghan.
 
 ## Ingredients
 

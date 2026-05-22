@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Puff pastry rolls thin into a long rectangle, brushes with butter, rolls back into a cylinder, and slices into pinwheels, the layered swirl creates the characteristic spiral shell. Each disc presses into a deep muffin tin, the centre stretched up the sides leaving a thin shell. The custard is a hot syrup whisked into milk-thickened-with-cornflour and tempered into egg yolks. Filled three-quarters full, baked at the highest oven temperature. The blackened blistered top is the signature.
+Pastéis de nata are Portugal's answer to a cup of coffee, and you would never have one without the other. The puff pastry shells are rolled thin, brushed with butter, rolled back into a tight cylinder, then sliced into pinwheels and pressed into the cups of a deep muffin tin (the swirl of the slice becomes the spiral shell). The custard is a hot sugar syrup whisked into milk thickened with cornflour and tempered into egg yolks. Filled three-quarters full, baked at the hottest temperature your oven will go (the original Belém bakery uses 290°C). The blackened, blistered top is the signature, the custard underneath is silky and only just set, and you eat them warm with a dusting of cinnamon and a strong espresso at eleven in the morning.
 
 ## Ingredients
 

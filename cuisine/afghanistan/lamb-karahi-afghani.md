@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 45 minutes
 
 ## Overview
-Lamb shoulder browns hard in oil; onions cook deep brown alongside. Ginger, garlic, cumin, coriander and turmeric toast briefly; tomato cooks down to a jammy base; the lamb returns with stock and slow-simmers for 90 minutes until tender. Green chillies and ginger julienne go in at the end; uncovered, the gravy reduces and the cooking fat rises to the surface.
+This is the Afghan take on a karahi, slow-cooked rather than the fast Pakistani version: lamb shoulder browned hard, then braised low for an hour and a half until the meat is tender enough to cut with a spoon. Onions cook deep brown alongside the lamb. Ginger, garlic, cumin, coriander and turmeric toast briefly in the rendered fat; tomato cooks down to a jammy base; the lamb returns with stock and disappears under a lid for ninety minutes. At the end the lid comes off, julienned green chillies and fresh ginger drop in, the gravy reduces and the cooking fat rises to the surface in a thin amber slick (that slick is the visual sign the meat is ready). Eat with naan or chalow rice, and a bowl of sliced raw onion and lemon on the side.
 
 ## Ingredients
 

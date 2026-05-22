@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Beef mince mixes with grated onion, chopped tomato, ginger, garlic, beaten egg, gram flour and the signature Afghan spice mix (coriander seed, pomegranate seeds, chilli flakes, cumin, garam masala). Rest for 30 minutes; the gram flour absorbs moisture and the flavours combine. Form thin wide patties; fry hot in oil 3-4 minutes per side until darkly crusted.
+Chapli kebabs are the spiced beef patties sizzling on a wide flat tawa at any roadside grill from Peshawar to Kabul, big enough to wrap a hand around and seasoned with the unusual punch of dried pomegranate seeds and coriander. The mince mixes with grated onion, chopped fresh tomato, ginger, garlic, beaten egg and a little gram flour to bind, plus the signature Afghan spice blend (coriander seed, pomegranate seeds, chilli flakes, cumin and garam masala). A thirty-minute rest lets the gram flour absorb the moisture and the spices marry. Pat thin and wide (the word chapli means "flat" or "slipper-shaped"), then fry hard in oil three or four minutes a side until darkly crusted. Eat hot from the pan, wrapped in fresh naan with sliced raw onion and a green chutney.
 
 ## Ingredients
 
