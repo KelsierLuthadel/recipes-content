@@ -4,7 +4,7 @@
 
 *Azerbaijan's stuffed vine leaves: leaves rolled around lamb mince, rice, mint and dill, simmered slow in lamb stock under a weighted plate.*
 
-**Serves:** 6 (makes about 40 rolls)
+**Serves:** 6
 
 **Prep Time:** 1 hour
 

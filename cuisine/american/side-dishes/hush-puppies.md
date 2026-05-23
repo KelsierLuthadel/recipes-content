@@ -4,7 +4,7 @@
 
 *Southern cornmeal fritters: golf-ball scoops of buttermilk-cornmeal batter with onion and a pinch of cayenne, dropped into hot oil and fried gold.*
 
-**Serves:** 6 (makes about 20)
+**Serves:** 6
 
 **Prep Time:** 10 minutes (plus 15 minutes resting)
 

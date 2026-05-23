@@ -4,7 +4,7 @@
 
 *Clarified butter is pure butterfat separated from milk solids and water. It has a higher smoke point than regular butter, making it ideal for high-heat cooking and classical French sauces.*
 
-**Yield:** Approximately 85 grams (from 120 grams butter)
+**Yield:** 85 grams (from 120 grams butter)
 
 **Prep Time:** 15 minutes
 

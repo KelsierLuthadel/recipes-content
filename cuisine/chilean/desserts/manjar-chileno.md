@@ -4,7 +4,7 @@
 
 *Chile's dulce de leche: whole milk and sugar slow-simmered with a vanilla pod and a pinch of bicarb until it reduces to a thick, glossy caramel spread.*
 
-**Serves:** Makes about 600 g
+**Serves:** 600 g
 
 **Prep Time:** 5 minutes
 
