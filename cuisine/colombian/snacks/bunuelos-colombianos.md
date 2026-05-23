@@ -4,7 +4,7 @@
 
 *Colombia's Christmas snack: cheese-and-cornstarch dough balls deep-fried into golden orbs with a slightly crisp shell and a chewy cheesy interior.*
 
-**Serves:** Makes about 20 buñuelos
+**Serves:** 20
 
 **Prep Time:** 15 minutes
 
