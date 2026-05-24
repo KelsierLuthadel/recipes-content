@@ -8,7 +8,7 @@
 
 **Cook Time:** 45 minutes
 
-**Yield:** Approximately 1 ½ liters (4-6 servings)
+**Serves:** 4
 
 ## Overview
 Biryani represents the height of Indian culinary technique: multiple components prepared separately with precision, then assembled in layers where flavors permeate through steam cooking. This isn't a one-step rice dish; rather, it's an architectural construction where yogurt-marinated lamb develops tenderization and flavor, then cooks slowly with warm spices and tomato, while basmati rice is independently flavored with saffron infusion and whole spices. Upon assembly, the two elements marry through steam, creating a unified dish where lamb and rice are inseparable in flavor. Traditionally cooked during festivals and royal celebrations, biryani requires patience and multiple steps but rewards with sophistication.
