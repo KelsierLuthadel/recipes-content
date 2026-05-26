@@ -1,7 +1,27 @@
 ---
 prep: 20 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - snack
+  - asian
+  - onion
+  - ginger
+  - potato
+  - spinach
+  - coriander
+  - chili
+  - complex
+  - holi
+  - hindu
 ---
+
+
 
 # Vegetable Pakora
 

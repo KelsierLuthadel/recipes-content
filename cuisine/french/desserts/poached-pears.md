@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes
 cook: 13 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - dessert
+  - make-ahead
+  - lemon
 ---
+
+
 
 # Poached Pears Stuffed with Figs and Dates
 

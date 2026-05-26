@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes
 cook: 35 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - meals
+  - onion
+  - garlic
+  - potato
 ---
+
+
 
 # Caldo Verde
 

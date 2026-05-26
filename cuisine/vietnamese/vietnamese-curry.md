@@ -1,7 +1,32 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - dairy
+  - peanuts
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - onion
+  - garlic
+  - coconut
+  - coriander
+  - nuts
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Vietnamese Chicken Curry
 

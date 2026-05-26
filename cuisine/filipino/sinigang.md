@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes
 cook: 1 hour
+allergens:
+  - fish
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - pork
+  - rice
+  - onion
+  - tomato
+  - spinach
+  - lime
+  - chili
 ---
+
+
 
 # Sinigang Na Baboy
 

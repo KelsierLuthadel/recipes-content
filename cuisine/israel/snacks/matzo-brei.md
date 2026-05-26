@@ -1,7 +1,24 @@
 ---
 prep: 5 minutes
 cook: 7 minutes
+allergens:
+  - dairy
+  - eggs
+  - fish
+tags:
+  - gluten-free
+  - quick
+  - snack
+  - fish
+  - salmon
+  - eggs
+  - lemon
+  - butter
+  - cream
+  - cheese
 ---
+
+
 
 # Matzo Brei
 

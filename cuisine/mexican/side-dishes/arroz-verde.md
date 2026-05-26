@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - sides
+  - meat
+  - rice
+  - onion
+  - garlic
+  - spinach
+  - coriander
 ---
+
+
 
 # Arroz Verde
 

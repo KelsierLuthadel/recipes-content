@@ -1,6 +1,21 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - nuts
 ---
+
+
 
 # Roasted Peaches on Choux Crowns
 

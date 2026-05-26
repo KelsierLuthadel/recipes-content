@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Cottage
 
 ![A British cottage loaf](resources/cottage-loaf.jpg)

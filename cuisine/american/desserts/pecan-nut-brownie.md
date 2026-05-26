@@ -1,7 +1,22 @@
 ---
 prep: 10 minutes
 cook: 19 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - chocolate
+  - nuts
 ---
+
+
 
 # Pecan Nut Brownies
 

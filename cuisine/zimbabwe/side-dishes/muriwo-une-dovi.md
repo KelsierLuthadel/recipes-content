@@ -1,7 +1,22 @@
 ---
 prep: 10 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+  - peanuts
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - butter
+  - nuts
 ---
+
+
 
 # Muriwo Une Dovi
 

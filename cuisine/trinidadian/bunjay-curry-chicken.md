@@ -1,7 +1,29 @@
 ---
 prep: 15 minutes (plus 2 hours marinating)
 cook: 35 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - lime
+  - coriander
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Bunjay-Style Curry Chicken
 

@@ -1,7 +1,27 @@
 ---
 prep: 10 minutes
 cook: 3 minutes
+allergens:
+  - eggs
+  - tree-nuts
+  - peanuts
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - nuts
+  - soy-sauce
 ---
+
+
 
 # Cashew Chicken
 

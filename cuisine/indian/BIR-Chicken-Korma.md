@@ -1,7 +1,28 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - garlic
+  - ginger
+  - coconut
+  - butter
+  - nuts
+  - complex
 ---
+
+
 
 # Chicken Korma
 

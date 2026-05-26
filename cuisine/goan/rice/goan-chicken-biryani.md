@@ -1,7 +1,29 @@
 ---
 prep: 30 minutes (plus 2 hours marinade)
 cook: 1 hour 15 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - coriander
+  - yogurt
+  - chili
+  - complex
 ---
+
+
 
 # Goan Chicken Biryani
 

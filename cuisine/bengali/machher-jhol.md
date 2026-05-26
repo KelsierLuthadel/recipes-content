@@ -1,7 +1,24 @@
 ---
 prep: 20 minutes (plus 15 minutes salting the fish)
 cook: 30 minutes
+allergens:
+  - dairy
+  - fish
+  - mustard
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - tomato
+  - ginger
+  - potato
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Machher Jhol
 

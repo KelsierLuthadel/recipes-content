@@ -1,7 +1,26 @@
 ---
 prep: 10 minutes
 cook: 40 minutes
+allergens:
+  - peanuts
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - pork
+  - onion
+  - garlic
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Chilli Pork Spare Ribs
 

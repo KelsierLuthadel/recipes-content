@@ -1,7 +1,26 @@
 ---
 prep: 25 minutes (plus 4 hours marinade)
 cook: 15 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Tacos al Pastor
 

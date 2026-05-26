@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 11 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - pork
+  - butter
+  - cheese
+  - complex
 ---
+
+
 
 # Crispy Topped Pasta with Courgettes and Salami
 

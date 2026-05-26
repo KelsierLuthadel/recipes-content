@@ -1,6 +1,19 @@
 ---
 prep: 5 minutes
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - asian
+  - spices
+  - coriander
 ---
+
+
 
 # Dhansak Spice Mix
 

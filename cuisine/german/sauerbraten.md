@@ -1,7 +1,24 @@
 ---
 prep: 30 minutes (plus 3-4 days marinade)
 cook: 3 hours
+allergens:
+  - gluten
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - ginger
+  - potato
+  - carrot
+  - complex
 ---
+
+
 
 # Sauerbraten
 

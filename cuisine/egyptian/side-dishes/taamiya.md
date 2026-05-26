@@ -1,7 +1,25 @@
 ---
 prep: 30 minutes (plus 12 hours soaking)
 cook: 20 minutes
+allergens:
+  - gluten
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Ta'amiya
 

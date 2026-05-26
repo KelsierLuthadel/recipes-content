@@ -1,7 +1,26 @@
 ---
 prep: 20 minutes
 cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+  - garlic
+tags:
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - complex
 ---
+
+
 
 # Meatloaf
 

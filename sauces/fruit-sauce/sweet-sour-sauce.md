@@ -1,7 +1,17 @@
 ---
 prep: 15 minutes
 cook: 20 minutes
+allergens:
+  - peanuts
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meat
+  - onion
 ---
+
+
 
 # Sweet and Sour Sauce
 

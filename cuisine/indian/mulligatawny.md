@@ -1,7 +1,31 @@
 ---
 prep: 15 minutes
 cook: 60 minutes
+allergens:
+  - dairy
+  - soy
+  - meat
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - carrot
+  - butter
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Mulligatawny Soup
 

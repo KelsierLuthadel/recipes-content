@@ -1,7 +1,24 @@
 ---
 prep: 10 minutes
 cook: 2 minutes
+allergens:
+  - peanuts
+  - soy
+  - shellfish
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - beef
+  - onion
+  - soy-sauce
 ---
+
+
 
 # Beef in Oyster Sauce
 

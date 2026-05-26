@@ -1,7 +1,23 @@
 ---
 prep: 30 minutes (plus 1 hour rice soak)
 cook: 3 hours
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - butter
+  - complex
 ---
+
+
 
 # Baghali Polo Ba Mahiche
 

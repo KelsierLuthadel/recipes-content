@@ -1,7 +1,28 @@
 ---
 prep: 20 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - rice
+  - lemon
+  - passover
+  - rosh-hashanah
+  - tu-bav
+  - yom-kippur
+  - sukkot
+  - jewish
 ---
+
+
 
 # Israeli Schnitzel
 

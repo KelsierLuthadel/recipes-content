@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes (plus 6 hours marinating, ideally overnight)
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+  - meat
+  - mustard
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - nuts
+  - curry
+  - complex
 ---
+
+
 
 # Jamaican Curry Chicken Wings
 

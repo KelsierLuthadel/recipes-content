@@ -1,6 +1,20 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - garlic
+  - cheese
+  - nuts
 ---
+
+
 
 # Linguine with Genovese Basil Pesto
 

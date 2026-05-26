@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+  - mustard
+tags:
+  - meals
+  - meat
+  - beef
+  - eggs
+  - rice
+  - mushroom
+  - onion
+  - lemon
+  - butter
+  - nuts
 ---
+
+
 
 # Beef Stroganoff
 

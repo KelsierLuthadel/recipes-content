@@ -1,7 +1,16 @@
 ---
 prep: 5 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - butter
 ---
+
+
 
 # Béchamel Sauce
 

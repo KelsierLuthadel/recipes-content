@@ -1,7 +1,29 @@
 ---
 prep: 25 minutes
 cook: 1 hour 4 minutes
+allergens:
+  - gluten
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - pork
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - chili
+  - complex
 ---
+
+
 
 # Shellfish Gumbo
 

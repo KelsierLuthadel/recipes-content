@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes
 cook: 25 minutes
+allergens:
+  - eggs
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - fish
+  - eggs
+  - tomato
 ---
+
+
 
 # Tomato and Basil Fish Fumet
 

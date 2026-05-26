@@ -1,7 +1,22 @@
 ---
 prep: 30 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cream
+  - complex
+  - day-of-the-dead
 ---
+
+
 
 # Tres Leches Cake
 

@@ -1,7 +1,18 @@
 ---
 prep: 20 minutes (plus 8-12 hours fermentation and 4 hours chilling)
 cook: 30 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - yogurt
+  - complex
 ---
+
+
 
 # Mishti Doi
 

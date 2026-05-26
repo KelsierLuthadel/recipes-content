@@ -1,7 +1,22 @@
 ---
 prep: 45 minutes (plus 30 min rest)
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - butter
+  - cheese
+  - honey
+  - complex
 ---
+
+
 
 # Feteer Meshaltet
 

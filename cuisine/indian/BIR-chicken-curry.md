@@ -1,7 +1,28 @@
 ---
 prep: 10 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - curry
+  - complex
 ---
+
+
 
 # Chicken Curry
 

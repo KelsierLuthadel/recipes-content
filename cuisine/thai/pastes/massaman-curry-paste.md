@@ -1,7 +1,26 @@
 ---
 prep: 40-60 minutes
 cook: 5 minutes
+allergens:
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - asian
+  - pastes
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chili
+  - curry
 ---
+
+
 
 # Massaman Curry Paste
 

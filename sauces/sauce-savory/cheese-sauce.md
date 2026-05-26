@@ -1,7 +1,17 @@
 ---
 prep: 5 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - gluten-free
+  - quick
+  - meat
+  - butter
+  - cheese
 ---
+
+
 
 # Cheese Sauce
 

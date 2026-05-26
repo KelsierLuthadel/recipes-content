@@ -1,7 +1,32 @@
 ---
 prep: 20 minutes
 cook: 25 minutes
+allergens:
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - lime
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Lomo Saltado
 

@@ -1,7 +1,27 @@
 ---
 prep: 30 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - snack
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - complex
 ---
+
+
 
 # Briouat Bil Lahm (Meat Briouats)
 

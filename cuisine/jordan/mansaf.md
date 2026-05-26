@@ -1,7 +1,25 @@
 ---
 prep: 25 minutes (plus overnight soak for jameed)
 cook: 2 ½ hours
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - butter
+  - yogurt
+  - nuts
+  - complex
 ---
+
+
 
 # Mansaf
 

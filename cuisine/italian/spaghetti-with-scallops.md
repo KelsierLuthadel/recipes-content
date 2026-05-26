@@ -1,6 +1,22 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - shellfish
+  - garlic
+tags:
+  - quick
+  - meals
+  - fish
+  - garlic
+  - lemon
+  - butter
+  - nuts
 ---
+
+
 
 # Spaghettini with Scallops and Parsley Pesto
 

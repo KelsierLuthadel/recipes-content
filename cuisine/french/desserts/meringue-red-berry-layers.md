@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 10 minutes
+allergens:
+  - tree-nuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - dessert
+  - make-ahead
+  - lemon
+  - nuts
 ---
+
+
 
 # Meringue and Red Berry Layers
 

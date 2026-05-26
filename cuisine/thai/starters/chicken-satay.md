@@ -1,7 +1,30 @@
 ---
 prep: 20 minutes
 cook: 15 minutes
+allergens:
+  - dairy
+  - peanuts
+  - fish
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - starter
+  - make-ahead
+  - asian
+  - meat
+  - fish
+  - chicken
+  - coconut
+  - lime
+  - coriander
+  - butter
+  - nuts
+  - curry
+  - complex
 ---
+
+
 
 # Chicken Satay with Peanut Sauce
 

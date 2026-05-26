@@ -1,7 +1,17 @@
 ---
 prep: 5 minutes
 cook: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
 ---
+
+
 
 # Tajadas
 

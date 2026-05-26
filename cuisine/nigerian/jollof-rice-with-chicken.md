@@ -1,7 +1,28 @@
 ---
 prep: 25 minutes
 cook: 1 ¼ hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - chili
+  - curry
+  - complex
+  - kwanzaa
 ---
+
+
 
 # Jollof Rice with Chicken
 

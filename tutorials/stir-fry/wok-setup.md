@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Wok Setup
 
 ![Wok](resources/wok-care.jpg)

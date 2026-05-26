@@ -1,6 +1,17 @@
 ---
 prep: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - potato
 ---
+
+
 
 # Potato and Parsnip Crisps
 

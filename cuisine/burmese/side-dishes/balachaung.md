@@ -1,7 +1,23 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - ginger
 ---
+
+
 
 # Balachaung
 

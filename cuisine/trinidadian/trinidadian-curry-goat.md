@@ -1,7 +1,30 @@
 ---
 prep: 20 minutes (plus 2 hours marinating)
 cook: 1 hour 45 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - lime
+  - coriander
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Trinidadian Curry Goat
 

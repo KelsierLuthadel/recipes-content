@@ -1,7 +1,26 @@
 ---
 prep: 25 minutes (plus 2 hours rising, overnight cold proof)
 cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - make-ahead
+  - sides
+  - eggs
+  - onion
+  - garlic
+  - honey
+  - complex
+  - yom-kippur
+  - jewish
 ---
+
+
 
 # Bagels
 

@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Matching Sauce to Shape
 
 ![Pasta with sauce](resources/sauce.jpg)

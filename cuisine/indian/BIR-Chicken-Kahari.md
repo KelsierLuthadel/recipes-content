@@ -1,7 +1,29 @@
 ---
 prep: 10 minutes
 cook: 1 hour
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - yogurt
+  - chili
+  - complex
 ---
+
+
 
 # Chicken Karahi
 

@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes (plus 1 hour partial freezing)
 cook: 12 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - mushroom
+  - onion
+  - butter
+  - nuts
 ---
+
+
 
 # Philly Cheesesteak
 

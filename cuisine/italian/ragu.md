@@ -1,7 +1,29 @@
 ---
 prep: 20 minutes
 cook: 4 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - carrot
+  - butter
+  - cheese
+  - complex
 ---
+
+
 
 # Restaurant-Style Ragù
 

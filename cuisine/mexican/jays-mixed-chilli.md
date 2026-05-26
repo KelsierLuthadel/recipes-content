@@ -1,7 +1,29 @@
 ---
 prep: 15 minutes
 cook: 1 hour 20 minutes
+allergens:
+  - soy
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - carrot
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Chilli con Carne
 

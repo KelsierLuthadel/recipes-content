@@ -1,7 +1,29 @@
 ---
 prep: 45 minutes
 cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - butter
+  - nuts
+  - complex
 ---
+
+
 
 # b'Stilla
 

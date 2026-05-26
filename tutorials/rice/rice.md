@@ -1,3 +1,14 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - rice
+---
+
+
 # Rice Course
 
 ![Steamed rice](resources/course.jpg)

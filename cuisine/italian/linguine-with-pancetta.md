@@ -1,6 +1,23 @@
 ---
 prep: 15 minutes
+allergens:
+  - gluten
+  - meat
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - tomato
+  - cheese
+  - chili
 ---
+
+
 
 # Linguine with Cherry Tomatoes, Pancetta, and White Wine
 

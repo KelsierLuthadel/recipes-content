@@ -1,7 +1,24 @@
 ---
 prep: 20 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - dessert
+  - make-ahead
+  - meat
+  - duck
+  - eggs
+  - coconut
+  - butter
+  - cheese
+  - complex
 ---
+
+
 
 # Bibingka
 

@@ -1,7 +1,25 @@
 ---
 prep: 10 minutes
 cook: 12 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - garlic
+  - carrot
+  - lemon
+  - coriander
+  - chili
 ---
+
+
 
 # Moroccan Carrot Salad
 

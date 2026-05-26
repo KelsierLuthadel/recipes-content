@@ -1,7 +1,17 @@
 ---
 prep: 30 minutes (plus 1 hour rising)
 cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - sides
+  - complex
 ---
+
+
 
 # Ka'ak Bi Simsim
 

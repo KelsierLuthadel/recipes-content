@@ -1,7 +1,19 @@
 ---
 prep: 20 minutes
 cook: 1 ¼ hours
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - eggs
+  - coconut
+  - complex
 ---
+
+
 
 # Sangkhya Lapov
 

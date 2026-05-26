@@ -1,7 +1,20 @@
 ---
 prep: 30 minutes
 cook: 5-6 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - eggs
+  - cheese
+  - chili
 ---
+
+
 
 # Cheese Straws
 

@@ -1,7 +1,26 @@
 ---
 prep: 25 minutes
 cook: 25 minutes (plus 1 hour chilling)
+allergens:
+  - eggs
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - potato
+  - carrot
+  - complex
 ---
+
+
 
 # Niislel Salat
 

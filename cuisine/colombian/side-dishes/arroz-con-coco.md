@@ -1,7 +1,17 @@
 ---
 prep: 5 minutes
 cook: 35 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - rice
+  - coconut
 ---
+
+
 
 # Arroz Con Coco
 

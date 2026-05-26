@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes
 cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - quick
+  - meals
+  - meat
+  - chicken
+  - pork
+  - mushroom
+  - garlic
+  - spinach
+  - butter
+  - cheese
 ---
+
+
 
 # Calzone Pollo Spinaci
 

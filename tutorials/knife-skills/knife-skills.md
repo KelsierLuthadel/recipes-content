@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Knife Skills
 
 ![Knives](resources/knife-skills.jpg)

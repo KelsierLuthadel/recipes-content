@@ -1,7 +1,28 @@
 ---
 prep: 15 minutes
 cook: 7 minutes
+allergens:
+  - sesame
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - onion
+  - potato
+  - lemon
+  - coriander
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Bombay Potatoes
 

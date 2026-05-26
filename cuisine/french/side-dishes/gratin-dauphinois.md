@@ -1,7 +1,22 @@
 ---
 prep: 20 minutes
 cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - sides
+  - garlic
+  - potato
+  - butter
+  - cream
+  - complex
 ---
+
+
 
 # Gratin Dauphinois
 

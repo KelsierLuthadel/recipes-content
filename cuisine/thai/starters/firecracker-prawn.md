@@ -1,7 +1,29 @@
 ---
 prep: 20 minutes
 cook: 10 minutes
+allergens:
+  - eggs
+  - soy
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - starter
+  - asian
+  - fish
+  - prawn
+  - eggs
+  - garlic
+  - lemon
+  - honey
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Firecracker Prawns
 

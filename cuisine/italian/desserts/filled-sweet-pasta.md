@@ -1,6 +1,21 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - cheese
+  - nuts
 ---
+
+
 
 # Half-Moon Shaped Sweet Pasta Filled with Candied Fruit
 

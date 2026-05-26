@@ -1,7 +1,23 @@
 ---
 prep: 15 minutes (plus 1 hour resting)
 cook: 25 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - honey
+  - complex
 ---
+
+
 
 # Hamburger Steaks with Onion Gravy
 

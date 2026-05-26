@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - dessert
 ---
+
+
 
 # Nga Pyaw Kyaw
 

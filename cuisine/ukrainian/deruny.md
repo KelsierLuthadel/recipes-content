@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - onion
+  - potato
+  - lemon
 ---
+
+
 
 # Deruny
 

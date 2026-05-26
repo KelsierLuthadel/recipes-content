@@ -1,7 +1,29 @@
 ---
 prep: 15 minutes
 cook: 4 hours 30 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - chicken
+  - pork
+  - eggs
+  - mushroom
+  - onion
+  - garlic
+  - ginger
+  - carrot
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Shoyu Ramen
 

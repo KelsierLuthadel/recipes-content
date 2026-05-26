@@ -1,7 +1,18 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - make-ahead
+  - eggs
+  - butter
 ---
+
+
 
 # Génoise Sponge
 

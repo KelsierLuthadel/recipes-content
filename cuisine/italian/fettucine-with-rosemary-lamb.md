@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 3 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - carrot
+  - cheese
 ---
+
+
 
 # Fettuccine with Sweet Onion, Rosemary, and Lamb
 

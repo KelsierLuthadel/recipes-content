@@ -1,7 +1,19 @@
 ---
 prep: 15 minutes (plus 30 minutes batter resting)
 cook: 20 minutes (in batches)
+allergens:
+  - gluten
+  - shellfish
+tags:
+  - dairy-free
+  - snack
+  - fish
+  - prawn
+  - onion
+  - chickpea
 ---
+
+
 
 # Tortillitas de Camarones
 

@@ -1,7 +1,29 @@
 ---
 prep: 25 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - chili
+  - complex
+  - shavuot
+  - jewish
 ---
+
+
 
 # Sabich
 

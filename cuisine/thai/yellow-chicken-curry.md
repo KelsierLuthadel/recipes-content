@@ -1,7 +1,31 @@
 ---
 prep: 10 minutes
 cook: 20 minutes
+allergens:
+  - dairy
+  - fish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - garlic
+  - tomato
+  - coconut
+  - potato
+  - carrot
+  - coriander
+  - chili
+  - curry
 ---
+
+
 
 # Yellow Chicken Curry
 

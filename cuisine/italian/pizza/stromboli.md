@@ -1,7 +1,22 @@
 ---
 prep: 30 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - pork
+  - eggs
+  - butter
+  - cheese
 ---
+
+
 
 # Stromboli
 

@@ -1,7 +1,18 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - sides
+  - butter
+  - cheese
+  - honey
 ---
+
+
 
 # Harcha
 

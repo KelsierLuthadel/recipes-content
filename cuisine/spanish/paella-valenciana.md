@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes
 cook: 45 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - chicken
+  - rice
+  - tomato
+  - lemon
 ---
+
+
 
 # Paella Valenciana
 

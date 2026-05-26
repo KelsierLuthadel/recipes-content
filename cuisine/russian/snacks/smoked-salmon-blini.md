@@ -1,7 +1,24 @@
 ---
 prep: 30 minutes (plus 1 hour rise)
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+tags:
+  - snack
+  - fish
+  - salmon
+  - eggs
+  - lemon
+  - butter
+  - cream
+  - complex
+  - yom-kippur
 ---
+
+
 
 # Smoked Salmon Blini
 

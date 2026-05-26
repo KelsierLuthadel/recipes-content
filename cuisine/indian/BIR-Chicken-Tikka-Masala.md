@@ -1,7 +1,25 @@
 ---
 prep: 10 minutes
 cook: 2 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - yogurt
 ---
+
+
 
 # Chicken Tikka Masala
 

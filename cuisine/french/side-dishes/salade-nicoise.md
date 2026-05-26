@@ -1,7 +1,26 @@
 ---
 prep: 30 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - fish
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - sides
+  - fish
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - complex
 ---
+
+
 
 # Salade Niçoise
 

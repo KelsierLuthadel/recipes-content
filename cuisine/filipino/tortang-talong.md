@@ -1,7 +1,24 @@
 ---
 prep: 10 minutes
 cook: 15 minutes
+allergens:
+  - eggs
+  - soy
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - eggs
+  - rice
+  - lemon
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Tortang Talong
 

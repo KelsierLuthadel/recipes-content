@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes
 cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - cream
+  - complex
 ---
+
+
 
 # Clafoutis
 

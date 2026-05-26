@@ -1,6 +1,20 @@
 ---
 prep: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - lime
+  - coriander
+  - chili
 ---
+
+
 
 # Pineapple Salsa with Coriander
 

@@ -1,7 +1,26 @@
 ---
 prep: 40 minutes
 cook: 1 ¼ hours
+allergens:
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - pastes
+  - meat
+  - chicken
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - complex
 ---
+
+
 
 # Pastel de Choclo
 

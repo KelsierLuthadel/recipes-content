@@ -1,6 +1,15 @@
 ---
 prep: 20 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
 ---
+
+
 
 # Syrup for Sorbet (Sirop à Sorbet)
 

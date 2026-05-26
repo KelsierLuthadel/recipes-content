@@ -1,7 +1,19 @@
 ---
 prep: 5 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - potato
+  - butter
+  - st-patricks
 ---
+
+
 
 # Buttery Mashed Potatoes
 

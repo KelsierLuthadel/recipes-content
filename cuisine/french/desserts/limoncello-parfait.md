@@ -1,6 +1,19 @@
 ---
 prep: 20 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - eggs
+  - lemon
+  - cream
 ---
+
+
 
 # Chilled Limoncello Parfait with Raspberries
 

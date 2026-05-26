@@ -1,7 +1,21 @@
 ---
 prep: 20 minutes
 cook: 90 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - onion
+  - tomato
+  - potato
+  - complex
 ---
+
+
 
 # Gulyásleves (Goulash Soup)
 

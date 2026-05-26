@@ -1,7 +1,20 @@
 ---
 prep: 5 minutes
 cook: 1 minute
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - cream
 ---
+
+
 
 # Crêpes
 

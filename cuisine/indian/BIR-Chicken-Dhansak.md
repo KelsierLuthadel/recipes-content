@@ -1,7 +1,27 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - lentils
+  - garlic
+  - ginger
+  - lemon
+  - coriander
 ---
+
+
 
 # Chicken Dhansak
 

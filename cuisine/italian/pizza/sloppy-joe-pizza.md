@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - spicy
+  - quick
+  - meals
+  - meat
+  - pork
+  - cheese
+  - chili
 ---
+
+
 
 # Sloppy Joe Pizza
 

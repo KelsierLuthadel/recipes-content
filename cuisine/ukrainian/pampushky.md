@@ -1,7 +1,21 @@
 ---
 prep: 25 minutes (plus 1 ½ hour rising)
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - garlic
+  - butter
+  - complex
 ---
+
+
 
 # Pampushky
 

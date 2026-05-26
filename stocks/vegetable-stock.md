@@ -1,7 +1,17 @@
 ---
 prep: 20 minutes
 cook: 45 minutes
+allergens:
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
 ---
+
+
 
 # Vegetable Stock
 

@@ -1,7 +1,26 @@
 ---
 prep: 1 hour
 cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - snack
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - lemon
+  - yogurt
+  - nuts
+  - complex
 ---
+
+
 
 # Kibbeh Nayyeh Balls (Fried)
 

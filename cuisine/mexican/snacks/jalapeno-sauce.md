@@ -1,7 +1,24 @@
 ---
 prep: 10 minutes
 cook: None
+allergens:
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - eggs
+  - garlic
+  - lime
+  - coriander
+  - cream
 ---
+
+
 
 # Creamy Jalapeño Sauce
 

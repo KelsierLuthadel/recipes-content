@@ -1,3 +1,13 @@
+---
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+---
+
+
 # Pasta Course
 
 ![Pasta](resources/pasta.jpg)

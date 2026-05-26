@@ -1,6 +1,17 @@
 ---
 prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - baking
+  - eggs
 ---
+
+
 
 # Crème Pâtissière (Confectioners' Custard)
 

@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - butter
+  - honey
 ---
+
+
 
 # Areeka
 

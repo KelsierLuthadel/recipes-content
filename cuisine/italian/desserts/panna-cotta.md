@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes (plus 4-6 hours setting)
 cook: 8 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - lemon
+  - cream
+  - complex
 ---
+
+
 
 # Panna Cotta
 

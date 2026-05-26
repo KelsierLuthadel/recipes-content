@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes
 cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - carrot
+  - nuts
+  - complex
 ---
+
+
 
 # Lahori Gajar Halwa
 

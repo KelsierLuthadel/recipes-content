@@ -1,7 +1,18 @@
 ---
 prep: 20 minutes (most components made ahead)
 cook: 0 minutes (assembly only)
+allergens:
+  - gluten
+  - dairy
+  - soy
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - make-ahead
 ---
+
+
 
 # Bingsu (Shaved Ice with Sweet Toppings)
 

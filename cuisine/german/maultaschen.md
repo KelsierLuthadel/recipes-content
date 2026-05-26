@@ -1,7 +1,22 @@
 ---
 prep: 50 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - onion
+  - spinach
+  - butter
+  - cheese
+  - complex
 ---
+
+
 
 # Maultaschen
 

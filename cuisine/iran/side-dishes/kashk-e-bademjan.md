@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 45 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - onion
+  - garlic
+  - lemon
+  - yogurt
+  - nuts
 ---
+
+
 
 # Kashk-E-Bademjan
 

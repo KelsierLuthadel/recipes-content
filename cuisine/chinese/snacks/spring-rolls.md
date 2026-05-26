@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes
 cook: 1 minute
+allergens:
+  - gluten
+  - peanuts
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - quick
+  - snack
+  - asian
+  - meat
+  - pork
+  - onion
+  - soy-sauce
+  - complex
+  - lunar-new-year
 ---
+
+
 
 # Spring Rolls
 

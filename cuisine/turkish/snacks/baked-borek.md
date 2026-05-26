@@ -1,7 +1,23 @@
 ---
 prep: 1 hour 15 minutes
 cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+  - sesame
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - onion
+  - tomato
+  - butter
+  - complex
 ---
+
+
 
 # Baked Börek with Khandrajo Filling
 

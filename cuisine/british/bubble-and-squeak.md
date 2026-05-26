@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - onion
+  - potato
+  - butter
 ---
+
+
 
 # Bubble and Squeak
 

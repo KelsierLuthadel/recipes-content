@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - onion
+  - tomato
+  - lemon
 ---
+
+
 
 # Choban Salata (Azerbaijani Shepherd's Salad)
 

@@ -1,3 +1,14 @@
+---
+allergens:
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - eggs
+---
+
+
 # Boiled and Poached Eggs
 
 ![Boiled eggs](resources/poached.jpg)

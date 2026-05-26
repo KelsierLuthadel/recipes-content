@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes (plus 30 min marinating)
 cook: 12 minutes
+allergens:
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - meat
+  - chicken
+  - garlic
+  - ginger
+  - lemon
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Karaage
 

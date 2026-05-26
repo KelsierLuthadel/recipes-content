@@ -1,7 +1,29 @@
 ---
 prep: 20 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - eggs
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Hawawshi
 

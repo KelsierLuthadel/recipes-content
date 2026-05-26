@@ -1,7 +1,35 @@
 ---
 prep: 40 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - spicy
+  - snack
+  - asian
+  - meat
+  - fish
+  - pork
+  - prawn
+  - eggs
+  - mushroom
+  - onion
+  - garlic
+  - carrot
+  - lime
+  - coriander
+  - butter
+  - chili
+  - complex
 ---
+
+
 
 # Chả Giò
 

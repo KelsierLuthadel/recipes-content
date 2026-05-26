@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes (plus 1 hour drying)
 cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - meat
+  - garlic
+  - carrot
+  - butter
+  - cheese
+  - chili
+  - complex
 ---
+
+
 
 # Buffalo Wings
 

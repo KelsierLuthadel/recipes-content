@@ -1,7 +1,26 @@
 ---
 prep: 10 minutes
 cook: 15 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - butter
+  - cheese
+  - chili
+  - complex
 ---
+
+
 
 # Esquites
 

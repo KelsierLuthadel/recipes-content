@@ -1,7 +1,29 @@
 ---
 prep: 20 minutes
 cook: 120 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+  - celery
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - carrot
+  - cheese
+  - nuts
+  - complex
 ---
+
+
 
 # Minestrone with Pesto
 

@@ -1,6 +1,20 @@
 ---
 prep: 10 minutes
+allergens:
+  - peanuts
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - ginger
 ---
+
+
 
 # Fried Fish with Ginger
 

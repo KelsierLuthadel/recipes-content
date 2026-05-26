@@ -1,7 +1,25 @@
 ---
 prep: 30 minutes (plus 4 hours chilling)
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - chicken
+  - pork
+  - eggs
+  - onion
+  - lime
+  - butter
+  - complex
 ---
+
+
 
 # Croquetas
 

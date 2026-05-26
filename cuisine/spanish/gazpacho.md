@@ -1,7 +1,24 @@
 ---
 prep: 20 minutes (plus 4 hours chilling)
 cook: 0 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - chili
+  - complex
 ---
+
+
 
 # Gazpacho
 

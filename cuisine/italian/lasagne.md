@@ -1,7 +1,27 @@
 ---
 prep: 25 minutes
 cook: 4 hours
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+  - celery
+  - garlic
+tags:
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - carrot
+  - butter
+  - cheese
+  - nuts
+  - complex
 ---
+
+
 
 # Lasagne
 

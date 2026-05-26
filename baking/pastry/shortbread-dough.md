@@ -1,6 +1,18 @@
 ---
 prep: 5 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - baking
+  - eggs
+  - butter
 ---
+
+
 
 # Pâte Sablée (Shortbread Dough)
 

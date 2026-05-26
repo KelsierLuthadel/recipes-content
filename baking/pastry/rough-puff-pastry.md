@@ -1,6 +1,15 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - baking
 ---
+
+
 
 # Rough Puff Pastry
 

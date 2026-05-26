@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes
 cook: 5 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - spicy
+  - quick
+  - meals
+  - bbq
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - butter
+  - chili
 ---
+
+
 
 # Fire-Roasted Jerk Shrimp
 

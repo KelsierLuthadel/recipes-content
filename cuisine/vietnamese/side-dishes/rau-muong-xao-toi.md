@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 5 minutes
+allergens:
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - fish
+  - garlic
+  - spinach
 ---
+
+
 
 # Rau Muống Xào Tỏi
 

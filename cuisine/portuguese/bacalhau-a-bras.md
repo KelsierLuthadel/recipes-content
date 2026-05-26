@@ -1,7 +1,25 @@
 ---
 prep: 20 minutes (plus overnight desalting)
 cook: 25 minutes
+allergens:
+  - eggs
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - one-pan
+  - meals
+  - fish
+  - eggs
+  - onion
+  - garlic
+  - potato
+  - lemon
 ---
+
+
 
 # Bacalhau à Brás
 

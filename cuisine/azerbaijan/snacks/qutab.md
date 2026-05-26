@@ -1,7 +1,23 @@
 ---
 prep: 30 minutes (plus 30 minutes resting)
 cook: 24 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - snack
+  - onion
+  - garlic
+  - spinach
+  - coriander
+  - butter
+  - yogurt
+  - complex
 ---
+
+
 
 # Qutab
 

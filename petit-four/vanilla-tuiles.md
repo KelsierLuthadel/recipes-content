@@ -1,7 +1,17 @@
 ---
 prep: 25 minutes
 cook: 8-10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - eggs
+  - butter
 ---
+
+
 
 # Vanilla Tuiles
 

@@ -1,7 +1,21 @@
 ---
 prep: 20 minutes (plus 30 minutes resting)
 cook: 0 minutes
+allergens:
+  - dairy
+  - mustard
+  - celery
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - sides
+  - onion
+  - carrot
+  - cream
 ---
+
+
 
 # American Coleslaw
 

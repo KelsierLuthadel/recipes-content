@@ -1,7 +1,22 @@
 ---
 prep: 20 minutes
 cook: 75 minutes
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - spicy
+  - garlic
+  - tomato
+  - honey
+  - chili
+  - complex
 ---
+
+
 
 # Chipotle Sauce
 

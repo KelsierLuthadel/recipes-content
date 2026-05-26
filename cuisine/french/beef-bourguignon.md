@@ -1,7 +1,28 @@
 ---
 prep: 20 minutes
 cook: 29 minutes
+allergens:
+  - gluten
+  - dairy
+  - peanuts
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - mushroom
+  - onion
+  - garlic
+  - carrot
+  - butter
+  - nuts
+  - complex
+  - valentines
 ---
+
+
 
 # Beef Bourguignon (Boeuf Bourguignon)
 

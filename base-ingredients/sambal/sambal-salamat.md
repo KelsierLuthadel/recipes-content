@@ -1,6 +1,22 @@
 ---
 prep: 10 minutes
+allergens:
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - fish
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - chili
 ---
+
+
 
 # Sambal Salamat
 

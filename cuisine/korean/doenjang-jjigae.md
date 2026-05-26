@@ -1,7 +1,31 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - soy
+  - sesame
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - prawn
+  - tofu
+  - rice
+  - mushroom
+  - onion
+  - garlic
+  - potato
+  - chili
+  - complex
 ---
+
+
 
 # Doenjang Jjigae
 

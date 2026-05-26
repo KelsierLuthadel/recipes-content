@@ -1,7 +1,33 @@
 ---
 prep: 20 minutes (plus 6 hours marinating)
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - garlic
+  - lemon
+  - coriander
+  - yogurt
+  - chili
+  - complex
+  - eid-al-fitr
+  - eid-al-adha
+  - passover
+  - rosh-hashanah
+  - tu-bav
+  - jewish
 ---
+
+
 
 # Chicken Shawarma
 

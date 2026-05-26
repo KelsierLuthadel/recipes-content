@@ -1,7 +1,20 @@
 ---
 prep: 10 minutes
 cook: 0 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - sides
+  - meat
+  - beef
+  - tomato
+  - cheese
 ---
+
+
 
 # Insalata Tricolore
 

@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+tags:
+  - meals
+  - bbq
+  - meat
+  - pork
+  - onion
+  - butter
+  - complex
 ---
+
+
 
 # Bratwurst with Sauerkraut
 

@@ -1,7 +1,25 @@
 ---
 prep: 20 minutes (plus overnight saltfish soak)
 cook: 15 minutes
+allergens:
+  - gluten
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - meat
+  - fish
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - chili
 ---
+
+
 
 # Saltfish Fritters / Stamp and Go
 

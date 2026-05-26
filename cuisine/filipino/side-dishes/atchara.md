@@ -1,7 +1,25 @@
 ---
 prep: 30 minutes (plus 1 hour salting + overnight pickling)
 cook: 10 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - ginger
+  - carrot
+  - chili
+  - complex
 ---
+
+
 
 # Atchara
 

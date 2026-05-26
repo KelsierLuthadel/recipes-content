@@ -1,7 +1,25 @@
 ---
 prep: 30 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - meals
+  - lentils
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Sambusa
 

@@ -1,7 +1,18 @@
 ---
 prep: 5 minutes
 cook: 12 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - meals
+  - cheese
 ---
+
+
 
 # Cacio E Pepe
 

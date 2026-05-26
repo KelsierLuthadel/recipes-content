@@ -1,7 +1,30 @@
 ---
 prep: 20 minutes
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - carrot
+  - lemon
+  - coriander
+  - butter
+  - chili
+  - complex
 ---
+
+
 
 # Pav Bhaji
 

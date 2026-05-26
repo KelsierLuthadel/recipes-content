@@ -1,7 +1,30 @@
 ---
 prep: 10 minutes
 cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - one-pan
+  - meals
+  - meat
+  - pork
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - butter
+  - curry
+  - complex
 ---
+
+
 
 # Jerk Meatballs in Coconut Curry Sauce
 

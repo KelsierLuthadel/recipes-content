@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 3 minutes
+allergens:
+  - shellfish
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - fish
+  - prawn
+  - onion
+  - lime
+  - chili
 ---
+
+
 
 # Sambal Belacan
 

@@ -1,7 +1,17 @@
 ---
 prep: 10 minutes
 cook: 9 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - quick
+  - yogurt
 ---
+
+
 
 # Naan Bread
 

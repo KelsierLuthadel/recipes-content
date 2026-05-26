@@ -1,7 +1,27 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - peanuts
+  - soy
+  - sesame
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - fish
+  - onion
+  - garlic
+  - ginger
+  - soy-sauce
+  - lunar-new-year
 ---
+
+
 
 # Steamed Fish
 

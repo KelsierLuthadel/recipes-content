@@ -1,7 +1,23 @@
 ---
 prep: 15 minutes
 cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - lime
+  - butter
+  - yogurt
+  - complex
 ---
+
+
 
 # Saleeg
 

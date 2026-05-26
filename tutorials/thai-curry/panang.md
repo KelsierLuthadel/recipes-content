@@ -1,3 +1,15 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - curry
+---
+
+
 # Panang Curry Paste
 
 ![Panang curry paste](resources/panang.jpg)

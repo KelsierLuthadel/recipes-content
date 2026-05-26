@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - meals
+  - meat
+  - pork
+  - eggs
+  - tomato
+  - potato
+  - butter
+  - complex
 ---
+
+
 
 # Full English Breakfast
 

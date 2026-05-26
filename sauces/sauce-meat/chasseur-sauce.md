@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes
 cook: 20 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - quick
+  - meat
+  - mushroom
+  - onion
+  - butter
 ---
+
+
 
 # Chasseur Sauce
 

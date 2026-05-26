@@ -1,7 +1,26 @@
 ---
 prep: 25 minutes
 cook: 1 ¼ hours
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+  - garlic
+tags:
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - garlic
+  - potato
+  - lemon
+  - butter
+  - complex
 ---
+
+
 
 # Sunday Roast Chicken
 

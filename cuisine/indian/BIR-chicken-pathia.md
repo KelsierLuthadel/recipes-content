@@ -1,7 +1,28 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - complex
 ---
+
+
 
 # Chicken Pathia
 

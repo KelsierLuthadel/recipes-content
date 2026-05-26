@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes
 cook: 4 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - sesame
+  - shellfish
+tags:
+  - dairy-free
+  - quick
+  - snack
+  - asian
+  - fish
+  - prawn
+  - eggs
+  - onion
+  - ginger
+  - soy-sauce
 ---
+
+
 
 # Chinese Sesame Prawn Toast
 

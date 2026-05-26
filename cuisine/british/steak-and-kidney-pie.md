@@ -1,7 +1,25 @@
 ---
 prep: 30 minutes
 cook: 2 ½ hours
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+tags:
+  - meals
+  - meat
+  - beef
+  - eggs
+  - mushroom
+  - onion
+  - butter
+  - nuts
+  - complex
 ---
+
+
 
 # Steak and Kidney Pie
 

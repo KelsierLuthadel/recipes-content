@@ -1,7 +1,16 @@
 ---
 prep: 10 minutes (plus 30 minutes soaking)
 cook: 30 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - rice
 ---
+
+
 
 # Chalow
 

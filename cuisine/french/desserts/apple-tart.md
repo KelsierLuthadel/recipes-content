@@ -1,7 +1,16 @@
 ---
 prep: 30 minutes
 cook: 55 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - butter
 ---
+
+
 
 # Apple Tart
 

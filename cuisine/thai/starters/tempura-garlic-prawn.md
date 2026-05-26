@@ -1,7 +1,25 @@
 ---
 prep: 20 minutes
 cook: 10 minutes
+allergens:
+  - gluten
+  - eggs
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - starter
+  - asian
+  - fish
+  - prawn
+  - eggs
+  - garlic
+  - chili
 ---
+
+
 
 # Tempura Garlic Prawns
 

@@ -1,7 +1,19 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - onion
+  - garlic
+  - butter
 ---
+
+
 
 # Three Sisters Succotash
 

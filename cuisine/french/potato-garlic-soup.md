@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 50 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - onion
+  - garlic
+  - potato
 ---
+
+
 
 # Potato and Garlic Soup
 

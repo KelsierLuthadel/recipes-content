@@ -1,7 +1,24 @@
 ---
 prep: 20 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - sides
+  - asian
+  - onion
+  - coconut
+  - carrot
+  - yogurt
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Avial
 

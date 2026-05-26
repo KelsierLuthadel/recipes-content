@@ -1,6 +1,22 @@
 ---
 prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - spicy
+  - quick
+  - meals
+  - meat
+  - pork
+  - eggs
+  - cheese
+  - chili
 ---
+
+
 
 # Spicy Chorizo Ricotta Ravioli
 

@@ -1,7 +1,26 @@
 ---
 prep: 10 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - one-pan
+  - meals
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - butter
+  - cheese
+  - chili
 ---
+
+
 
 # Kewa Datshi
 

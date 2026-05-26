@@ -1,7 +1,28 @@
 ---
 prep: 40 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - sides
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Yemeni Sambusa
 

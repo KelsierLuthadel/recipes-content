@@ -1,7 +1,27 @@
 ---
 prep: 20 minutes
 cook: 1 hour 45 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - lime
+  - coriander
+  - butter
+  - complex
 ---
+
+
 
 # Yakhneh Bamia
 

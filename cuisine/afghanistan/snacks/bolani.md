@@ -1,7 +1,24 @@
 ---
 prep: 40 minutes (plus 30 min resting)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - onion
+  - garlic
+  - potato
+  - coriander
+  - yogurt
+  - chili
+  - complex
 ---
+
+
 
 # Bolani
 

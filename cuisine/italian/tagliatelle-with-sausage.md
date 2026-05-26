@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 4 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - mushroom
+  - cream
 ---
+
+
 
 # Tagliatelle with Sausage, Rosemary, and Porcini Mushroom
 

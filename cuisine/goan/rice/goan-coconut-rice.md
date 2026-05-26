@@ -1,7 +1,26 @@
 ---
 prep: 10 minutes (plus 30 minutes soak)
 cook: 25 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - meals
+  - rice
+  - onion
+  - garlic
+  - coconut
+  - coriander
+  - nuts
+  - chili
+  - curry
 ---
+
+
 
 # Goan Coconut Rice
 

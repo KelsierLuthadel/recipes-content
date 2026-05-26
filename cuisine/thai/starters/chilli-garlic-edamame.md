@@ -1,7 +1,25 @@
 ---
 prep: 5 minutes
 cook: 10 minutes
+allergens:
+  - soy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - starter
+  - asian
+  - garlic
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Thai-Style Chilli Garlic Edamame
 

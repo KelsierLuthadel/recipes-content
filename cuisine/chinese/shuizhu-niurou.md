@@ -1,7 +1,31 @@
 ---
 prep: 25 minutes (plus 20 minutes marinating)
 cook: 20 minutes
+allergens:
+  - eggs
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - beef
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Shuizhu Niurou
 

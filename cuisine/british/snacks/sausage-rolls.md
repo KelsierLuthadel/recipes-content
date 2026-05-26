@@ -1,7 +1,24 @@
 ---
 prep: 30 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+  - meat
+  - mustard
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - pork
+  - eggs
+  - onion
+  - butter
 ---
+
+
 
 # Sausage Rolls
 

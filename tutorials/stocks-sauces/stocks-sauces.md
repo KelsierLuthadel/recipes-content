@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Stocks and Sauces
 
 ![Stocks and sauces](resources/stocks-sauces.jpg)

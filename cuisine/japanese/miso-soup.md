@@ -1,7 +1,19 @@
 ---
 prep: 5 minutes
 cook: 5 minutes
+allergens:
+  - soy
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - onion
 ---
+
+
 
 # Miso Soup
 

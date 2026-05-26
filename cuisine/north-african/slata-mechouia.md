@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - eggs
+  - garlic
+  - tomato
+  - lemon
+  - chili
 ---
+
+
 
 # Slata Mechouia
 

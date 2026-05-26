@@ -1,7 +1,21 @@
 ---
 prep: 30 minutes (plus 2 ½ hours rising)
 cook: 22 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - complex
+  - easter
 ---
+
+
 
 # Hot Cross Buns
 

@@ -1,7 +1,27 @@
 ---
 prep: 30 minutes (plus 2 hours marinating, ideally overnight)
 cook: 2 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - carrot
+  - chili
+  - complex
+  - kwanzaa
 ---
+
+
 
 # Brown Stew Chicken
 

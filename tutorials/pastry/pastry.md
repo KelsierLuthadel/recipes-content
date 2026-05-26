@@ -1,3 +1,13 @@
+---
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+---
+
+
 # Pastry Course
 
 ![Pastry](resources/pastry.jpg)

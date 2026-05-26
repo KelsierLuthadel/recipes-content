@@ -1,7 +1,34 @@
 ---
 prep: 15 minutes (plus 4 hours marinating, ideally overnight)
 cook: 25 minutes
+allergens:
+  - dairy
+  - soy
+  - sesame
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - bbq
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - honey
+  - chili
+  - soy-sauce
+  - complex
+  - lunar-new-year
 ---
+
+
 
 # Cantonese BBQ Chicken
 

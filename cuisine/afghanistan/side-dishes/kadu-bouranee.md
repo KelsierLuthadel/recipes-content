@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 45 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - yogurt
 ---
+
+
 
 # Kadu Bouranee
 

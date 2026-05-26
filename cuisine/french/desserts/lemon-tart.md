@@ -1,7 +1,22 @@
 ---
 prep: 30 minutes (plus 1 hour pastry rest)
 cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - complex
+  - valentines
+  - tu-bav
 ---
+
+
 
 # Lemon Tart
 

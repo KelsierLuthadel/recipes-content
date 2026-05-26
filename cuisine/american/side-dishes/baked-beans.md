@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes (plus 12 hours soaking)
 cook: 3 hours 30 minutes
+allergens:
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - onion
+  - complex
 ---
+
+
 
 # Baked Beans
 

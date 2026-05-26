@@ -1,7 +1,18 @@
 ---
 prep: 15 minutes
 cook: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
 ---
+
+
 
 # Kpekere (Plantain Chips)
 

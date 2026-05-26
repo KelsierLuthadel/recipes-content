@@ -1,7 +1,24 @@
 ---
 prep: 30 minutes (plus overnight rice chilling)
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - eggs
+  - rice
+  - onion
+  - lemon
+  - butter
+  - cheese
+  - complex
 ---
+
+
 
 # Arancini
 

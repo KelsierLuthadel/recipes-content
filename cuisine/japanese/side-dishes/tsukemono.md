@@ -1,6 +1,21 @@
 ---
 prep: 15 minutes
+allergens:
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - lemon
+  - chili
+  - complex
 ---
+
+
 
 # Tsukemono
 

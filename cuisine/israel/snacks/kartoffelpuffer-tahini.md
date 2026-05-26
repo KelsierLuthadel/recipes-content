@@ -1,7 +1,23 @@
 ---
 prep: 20 minutes
 cook: 35 minutes
+allergens:
+  - dairy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - snack
+  - one-pan
+  - garlic
+  - potato
+  - lemon
+  - coriander
+  - yogurt
 ---
+
+
 
 # Kartoffelpuffer with Tahini
 

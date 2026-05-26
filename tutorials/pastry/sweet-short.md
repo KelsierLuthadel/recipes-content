@@ -1,3 +1,13 @@
+---
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+---
+
+
 # Sweet Short Pastry
 
 ![Sweet short pastry](resources/sweet.jpg)

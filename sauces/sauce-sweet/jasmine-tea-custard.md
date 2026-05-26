@@ -1,7 +1,17 @@
 ---
 prep: 10 minutes
 cook: 40 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - eggs
+  - cream
 ---
+
+
 
 # Jasmine Tea Custard
 

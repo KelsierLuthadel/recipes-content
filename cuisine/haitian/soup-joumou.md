@@ -1,7 +1,28 @@
 ---
 prep: 30 minutes (plus overnight marinating)
 cook: 2 ½ hours
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - lime
+  - butter
+  - chili
+  - complex
 ---
+
+
 
 # Soup Joumou
 

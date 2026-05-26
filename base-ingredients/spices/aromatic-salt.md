@@ -1,6 +1,20 @@
 ---
 prep: 10 minutes
+allergens:
+  - tree-nuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - spices
+  - ginger
+  - nuts
 ---
+
+
 
 # Aromatic Salt (Two Versions)
 

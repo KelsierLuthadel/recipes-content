@@ -1,7 +1,24 @@
 ---
 prep: 10 minutes
 cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - onion
+  - tomato
+  - lemon
+  - lime
+  - coriander
+  - chili
 ---
+
+
 
 # Kachumber
 

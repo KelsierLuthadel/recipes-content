@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes (plus overnight soaking)
 cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - lemon
+  - chickpea
+  - chili
+  - complex
 ---
+
+
 
 # Msabaha
 

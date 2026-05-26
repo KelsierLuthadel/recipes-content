@@ -1,7 +1,26 @@
 ---
 prep: 20 minutes (plus 10 min batter rest)
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - make-ahead
+  - garlic
+  - potato
+  - lime
+  - coriander
+  - yogurt
+  - chickpea
+  - chili
+  - complex
 ---
+
+
 
 # Kachalou Pakora
 

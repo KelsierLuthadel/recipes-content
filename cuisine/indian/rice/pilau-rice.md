@@ -1,7 +1,20 @@
 ---
 prep: 35 minutes
 cook: 15 minutes
+allergens:
+  - dairy
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - rice
+  - onion
+  - butter
 ---
+
+
 
 # Pilau Rice
 

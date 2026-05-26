@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes
 cook: 20 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - ginger
 ---
+
+
 
 # Lahori Imli Chutney
 

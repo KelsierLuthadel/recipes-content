@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Standard Loaf
 
 ![A standard pan loaf](resources/loaf.jpg)

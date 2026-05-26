@@ -1,7 +1,23 @@
 ---
 prep: 20 minutes (plus 6 hours marinating)
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - garlic
+  - tomato
+  - lemon
+  - yogurt
+  - complex
 ---
+
+
 
 # Shish Tawook Jordani
 

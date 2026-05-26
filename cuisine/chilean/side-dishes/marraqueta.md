@@ -1,7 +1,17 @@
 ---
 prep: 25 minutes (plus 1 hour 30 minutes rising)
 cook: 22 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - sides
+  - complex
 ---
+
+
 
 # Marraqueta
 

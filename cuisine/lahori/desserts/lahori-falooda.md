@@ -1,7 +1,17 @@
 ---
 prep: 30 minutes (mostly soaking)
 cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - nuts
 ---
+
+
 
 # Lahori Falooda
 

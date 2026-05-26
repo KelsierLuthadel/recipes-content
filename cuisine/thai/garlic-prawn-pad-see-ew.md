@@ -1,7 +1,29 @@
 ---
 prep: 10 minutes
 cook: 5 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - sesame
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - fish
+  - prawn
+  - eggs
+  - garlic
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Garlic Prawn Pad See Ew
 

@@ -1,7 +1,33 @@
 ---
 prep: 20 minutes
 cook: 5 minutes
+allergens:
+  - peanuts
+  - fish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - fish
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - complex
 ---
+
+
 
 # Go Bo Hoi an
 

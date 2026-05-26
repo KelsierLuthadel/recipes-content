@@ -1,7 +1,20 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - bbq
+  - meat
+  - lamb
 ---
+
+
 
 # Pan Kabap
 

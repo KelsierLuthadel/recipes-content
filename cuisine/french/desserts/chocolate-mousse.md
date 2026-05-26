@@ -1,6 +1,21 @@
 ---
 prep: 10 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - eggs
+  - lemon
+  - cream
+  - chocolate
+  - valentines
 ---
+
+
 
 # Chocolate Mousse, Lavender Crémeux and Berry Compote
 

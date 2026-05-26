@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes
 cook: 12 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+  - celery
+tags:
+  - gluten-free
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - butter
+  - cream
+  - valentines
+  - tu-bav
 ---
+
+
 
 # Normandy Chicken
 

@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Tin Loaf
 
 ![A tin loaf with a split top](resources/tin-loaf.jpg)

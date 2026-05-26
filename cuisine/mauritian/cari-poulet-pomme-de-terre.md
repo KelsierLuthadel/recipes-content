@@ -1,7 +1,28 @@
 ---
 prep: 20 minutes
 cook: 45 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - coriander
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Cari Poulet Et Pomme de Terre
 

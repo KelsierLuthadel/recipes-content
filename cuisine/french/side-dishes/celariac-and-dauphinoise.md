@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 53 minutes
+allergens:
+  - dairy
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - onion
+  - garlic
+  - potato
+  - butter
+  - cream
 ---
+
+
 
 # Celeriac and Potato Dauphinoise
 

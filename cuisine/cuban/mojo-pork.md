@@ -1,7 +1,25 @@
 ---
 prep: 20 minutes (plus overnight marinade)
 cook: 4 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - lime
+  - complex
 ---
+
+
 
 # Mojo Pork
 

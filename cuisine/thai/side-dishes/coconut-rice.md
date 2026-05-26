@@ -1,6 +1,24 @@
 ---
 prep: 5 minutes
+allergens:
+  - dairy
+  - mustard
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - meat
+  - rice
+  - coconut
+  - lime
+  - chili
+  - curry
 ---
+
+
 
 # Coconut Rice
 

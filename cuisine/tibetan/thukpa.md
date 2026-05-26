@@ -1,7 +1,34 @@
 ---
 prep: 30 minutes (plus 30 minutes dough rest)
 cook: 40 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - spinach
+  - carrot
+  - lemon
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Thukpa
 

@@ -1,7 +1,20 @@
 ---
 prep: 45 minutes (plus 30 min resting)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - butter
+  - complex
 ---
+
+
 
 # Klaicha
 

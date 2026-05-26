@@ -1,6 +1,26 @@
 ---
 prep: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - lamb
+  - onion
+  - ginger
+  - lemon
+  - coriander
+  - butter
+  - chili
+  - complex
 ---
+
+
 
 # Lamb Nihari
 

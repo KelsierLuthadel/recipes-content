@@ -1,7 +1,15 @@
 ---
 prep: 15 minutes
 cook: 18 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
 ---
+
+
 
 # De-Skinning Peppers
 

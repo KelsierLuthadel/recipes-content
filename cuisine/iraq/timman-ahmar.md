@@ -1,7 +1,24 @@
 ---
 prep: 10 minutes
 cook: 35 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - rice
+  - onion
+  - garlic
+  - potato
+  - butter
+  - nuts
 ---
+
+
 
 # Timman Ahmar
 

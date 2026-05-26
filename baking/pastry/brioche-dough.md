@@ -1,7 +1,19 @@
 ---
 prep: 5 minutes
 cook: 31 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - make-ahead
+  - baking
+  - eggs
+  - butter
 ---
+
+
 
 # Brioche Dough
 

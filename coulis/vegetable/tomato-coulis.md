@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes
 cook: 1 hour
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - onion
+  - garlic
+  - tomato
 ---
+
+
 
 # Tomato Coulis
 

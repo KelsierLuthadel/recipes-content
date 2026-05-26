@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - sides
+  - garlic
+  - lemon
+  - yogurt
 ---
+
+
 
 # Mutabbal Jordani
 

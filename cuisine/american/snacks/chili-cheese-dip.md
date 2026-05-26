@@ -1,7 +1,27 @@
 ---
 prep: 10 minutes
 cook: 35 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - snack
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - cheese
+  - chili
+  - complex
+  - halloween
 ---
+
+
 
 # Chili Cheese Dip
 

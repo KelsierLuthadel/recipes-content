@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 1 ¼ hours
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - sides
+  - meat
+  - garlic
+  - potato
+  - st-patricks
+  - easter
 ---
+
+
 
 # Perfect Roast Potatoes
 

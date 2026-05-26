@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - quick
+  - meals
+  - eggs
+  - garlic
+  - coriander
 ---
+
+
 
 # Açorda Alentejana
 

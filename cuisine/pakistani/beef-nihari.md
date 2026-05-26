@@ -1,7 +1,29 @@
 ---
 prep: 30 minutes
 cook: 4-5 hours
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - ginger
+  - lime
+  - coriander
+  - chili
+  - complex
+  - eid-al-adha
+  - muslim
 ---
+
+
 
 # Beef Nihari
 

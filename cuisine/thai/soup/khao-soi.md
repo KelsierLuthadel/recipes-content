@@ -1,7 +1,28 @@
 ---
 prep: 15 minutes
 cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+  - meat
+tags:
+  - spicy
+  - meals
+  - asian
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - ginger
+  - coconut
+  - nuts
+  - chili
+  - curry
 ---
+
+
 
 # Khao Soi (Northern Thai Curry Noodle Soup)
 

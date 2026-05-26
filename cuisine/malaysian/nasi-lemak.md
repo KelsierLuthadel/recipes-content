@@ -1,7 +1,34 @@
 ---
 prep: 20 minutes
 cook: 50 minutes
+allergens:
+  - dairy
+  - eggs
+  - peanuts
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - prawn
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - coconut
+  - nuts
+  - chili
+  - complex
 ---
+
+
 
 # Nasi Lemak
 

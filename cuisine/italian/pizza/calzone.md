@@ -1,6 +1,18 @@
 ---
 prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - tomato
+  - cheese
 ---
+
+
 
 # Calzone
 

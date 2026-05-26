@@ -1,7 +1,22 @@
 ---
 prep: 30 minutes
 cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - onion
+  - potato
+  - butter
+  - cheese
 ---
+
+
 
 # Cheese and Onion Pie
 

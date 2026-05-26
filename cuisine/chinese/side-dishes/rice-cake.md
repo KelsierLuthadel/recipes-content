@@ -1,7 +1,19 @@
 ---
 prep: 5 minutes
 cook: 50 minutes
+allergens:
+  - gluten
+  - peanuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - sides
+  - asian
+  - rice
 ---
+
+
 
 # Rice Cake
 

@@ -1,7 +1,26 @@
 ---
 prep: 20 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - fish
+  - shellfish
+tags:
+  - dairy-free
+  - snack
+  - make-ahead
+  - fish
+  - eggs
+  - rice
+  - onion
+  - ginger
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Takoyaki
 

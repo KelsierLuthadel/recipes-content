@@ -1,6 +1,22 @@
 ---
 prep: 15 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - garlic
+  - lime
+  - coriander
+  - honey
+  - chili
 ---
+
+
 
 # Fajita Marinade
 

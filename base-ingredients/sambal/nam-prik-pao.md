@@ -1,7 +1,25 @@
 ---
 prep: 10 minutes
 cook: 12 minutes
+allergens:
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - fish
+  - prawn
+  - garlic
+  - lemon
+  - lime
+  - coriander
+  - chili
 ---
+
+
 
 # Nam Prik Pao
 

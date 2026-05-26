@@ -1,7 +1,18 @@
 ---
 prep: 30 minutes (plus 2-4 hours dough rise)
 cook: 15 minutes
+allergens:
+  - gluten
+  - tree-nuts
+tags:
+  - dairy-free
+  - snack
+  - meat
+  - nuts
+  - complex
 ---
+
+
 
 # Sheker Manta
 

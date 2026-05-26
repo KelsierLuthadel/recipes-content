@@ -1,7 +1,29 @@
 ---
 prep: 15 minutes
 cook: 1 hour 15 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - butter
+  - chili
+  - complex
 ---
+
+
 
 # Lahori Mutton Karahi
 

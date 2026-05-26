@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes
 cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - quick
+  - meals
+  - fish
+  - onion
+  - garlic
+  - lemon
+  - butter
+  - cream
+  - valentines
+  - tu-bav
 ---
+
+
 
 # Moules Marinière
 

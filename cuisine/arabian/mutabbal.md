@@ -1,7 +1,23 @@
 ---
 prep: 15 minutes
 cook: 15 minutes
+allergens:
+  - dairy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - garlic
+  - lemon
+  - yogurt
+  - chili
 ---
+
+
 
 # Mutabbal
 

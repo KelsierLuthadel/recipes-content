@@ -1,7 +1,24 @@
 ---
 prep: 15 minutes (plus 2 hours marinade)
 cook: 12 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - bbq
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - complex
 ---
+
+
 
 # Pork Souvlaki
 

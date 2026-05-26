@@ -1,7 +1,17 @@
 ---
 prep: 15 minutes
 cook: 20 minutes (plus chilling)
+allergens:
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - coconut
 ---
+
+
 
 # Mont Let Saung
 

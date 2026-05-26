@@ -1,7 +1,20 @@
 ---
 prep: 10 minutes
 cook: 0 minutes
+allergens:
+  - eggs
+  - peanuts
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - eggs
+  - onion
+  - lemon
 ---
+
+
 
 # Tartare Sauce
 

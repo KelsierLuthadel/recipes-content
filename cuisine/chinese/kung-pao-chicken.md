@@ -1,7 +1,26 @@
 ---
 prep: 10 minutes
 cook: 25 minutes
+allergens:
+  - peanuts
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - ginger
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Kung Pao Chicken
 

@@ -1,3 +1,13 @@
+---
+allergens:
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - fish
+---
+
+
 # Pan-Frying Fish
 
 ![Pan-fried fish](resources/pan-fried.jpg)

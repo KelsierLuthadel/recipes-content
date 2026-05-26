@@ -1,6 +1,18 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - quick
+  - make-ahead
+  - baking
+  - eggs
 ---
+
+
 
 # Pâte Moulée (Raised Pie Pastry)
 

@@ -1,7 +1,17 @@
 ---
 prep: 5 minutes
 cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - quick
+  - meat
+  - butter
 ---
+
+
 
 # Périgueux Sauce
 

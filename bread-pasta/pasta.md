@@ -1,7 +1,16 @@
 ---
 prep: 15 minutes
 cook: 33 minutes
+allergens:
+  - gluten
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - eggs
 ---
+
+
 
 # Fresh Pasta Dough
 

@@ -1,7 +1,29 @@
 ---
 prep: 10 minutes
 cook: 1 hour
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - spinach
+  - lime
+  - coriander
+  - complex
 ---
+
+
 
 # Agra Ginger Chicken
 

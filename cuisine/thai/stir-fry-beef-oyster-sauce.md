@@ -1,7 +1,29 @@
 ---
 prep: 10 minutes
 cook: 20 minutes
+allergens:
+  - soy
+  - sesame
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - beef
+  - mushroom
+  - onion
+  - garlic
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Stir-Fried Beef in Oyster Sauce
 

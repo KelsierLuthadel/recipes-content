@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 2 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - garlic
+  - chili
 ---
+
+
 
 # Spaghetti with Yellow Peppers, Chilli, and Herbs
 

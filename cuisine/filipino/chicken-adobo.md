@@ -1,7 +1,24 @@
 ---
 prep: 10 minutes
 cook: 45 minutes
+allergens:
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - soy-sauce
 ---
+
+
 
 # Chicken Adobo
 

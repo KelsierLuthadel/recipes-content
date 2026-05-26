@@ -1,7 +1,20 @@
 ---
 prep: 5 minutes
 cook: 1 hour 45 minutes
+allergens:
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - sides
+  - meat
+  - lamb
+  - onion
+  - complex
 ---
+
+
 
 # Chanasan Makh
 

@@ -1,7 +1,17 @@
 ---
 prep: 5 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - meat
+  - butter
 ---
+
+
 
 # Parsley Sauce
 

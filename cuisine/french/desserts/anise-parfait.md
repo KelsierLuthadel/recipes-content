@@ -1,6 +1,18 @@
 ---
 prep: 10 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - eggs
+  - cream
 ---
+
+
 
 # Anise Parfait
 

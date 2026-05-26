@@ -1,7 +1,32 @@
 ---
 prep: 15 minutes (plus overnight soak)
 cook: 3 hours
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - lentils
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - butter
+  - cream
+  - chili
+  - complex
+  - diwali
+  - hindu
 ---
+
+
 
 # Dal Makhani
 

@@ -1,7 +1,22 @@
 ---
 prep: 20 minutes
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - onion
+  - potato
+  - butter
+  - yogurt
+  - complex
 ---
+
+
 
 # Kuku Sib Zamini
 

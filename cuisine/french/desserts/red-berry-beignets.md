@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes
 cook: 4 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
 ---
+
+
 
 # Red Berry Beignets
 

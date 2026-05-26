@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 4 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - eggs
+  - potato
+  - butter
+  - cheese
 ---
+
+
 
 # Gnocchetti with Courgettes in Butter and Sage Sauce
 

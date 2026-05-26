@@ -1,7 +1,26 @@
 ---
 prep: 25 minutes
 cook: 2 hours 15 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - cheese
+  - chili
+  - complex
 ---
+
+
 
 # Chili Verde
 

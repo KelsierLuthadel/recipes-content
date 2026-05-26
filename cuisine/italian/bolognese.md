@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 4 hours
+allergens:
+  - meat
+  - celery
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - carrot
+  - complex
 ---
+
+
 
 # Bolognese
 

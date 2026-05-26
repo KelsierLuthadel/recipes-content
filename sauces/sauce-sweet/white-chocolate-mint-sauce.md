@@ -1,6 +1,16 @@
 ---
 prep: 15 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - cream
+  - chocolate
 ---
+
+
 
 # White Chocolate Sauce with Mint
 

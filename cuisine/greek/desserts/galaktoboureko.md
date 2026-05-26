@@ -1,7 +1,21 @@
 ---
 prep: 45 minutes
 cook: 50 minutes (plus 4 hours resting)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - complex
 ---
+
+
 
 # Galaktoboureko
 

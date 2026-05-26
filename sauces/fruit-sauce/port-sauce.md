@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes
 cook: 35 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meat
+  - mushroom
+  - onion
+  - butter
 ---
+
+
 
 # Port Sauce
 

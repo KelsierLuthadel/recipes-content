@@ -1,7 +1,27 @@
 ---
 prep: 20 minutes
 cook: 3 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - carrot
+  - chili
+  - complex
 ---
+
+
 
 # Zimbabwean Oxtail Stew
 

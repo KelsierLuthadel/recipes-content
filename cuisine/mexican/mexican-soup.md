@@ -1,7 +1,28 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - dairy
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - cream
+  - chili
+  - complex
 ---
+
+
 
 # Mexican Soup with Salsa
 

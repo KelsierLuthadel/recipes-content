@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 12 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - garlic
+  - lime
+  - coriander
+  - cream
+  - cheese
 ---
+
+
 
 # Elote
 

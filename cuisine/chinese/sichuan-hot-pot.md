@@ -1,7 +1,38 @@
 ---
 prep: 30 minutes
 cook: 1 hour (broth) + diner time
+allergens:
+  - gluten
+  - soy
+  - sesame
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - one-pan
+  - meals
+  - asian
+  - meat
+  - fish
+  - beef
+  - lamb
+  - prawn
+  - tofu
+  - mushroom
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Sichuan Hot Pot
 

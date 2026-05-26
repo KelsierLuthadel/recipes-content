@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - spinach
+  - cheese
+  - yogurt
+  - chili
 ---
+
+
 
 # Sausage, Fennel and Chilli Griddle-Pan Pizza
 

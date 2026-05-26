@@ -1,7 +1,23 @@
 ---
 prep: 40 minutes (plus 30 min pastry rest)
 cook: 55 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - snack
+  - meat
+  - beef
+  - eggs
+  - onion
+  - potato
+  - butter
+  - complex
 ---
+
+
 
 # Cornish Pasty
 

@@ -1,7 +1,20 @@
 ---
 prep: 10 minutes
 cook: 4 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - chicken
+  - cream
+  - cheese
 ---
+
+
 
 # Fettuccine with Chicken and Dolcelatte
 

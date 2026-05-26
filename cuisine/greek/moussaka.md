@@ -1,7 +1,29 @@
 ---
 prep: 45 minutes
 cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - butter
+  - cheese
+  - complex
 ---
+
+
 
 # Moussaka
 

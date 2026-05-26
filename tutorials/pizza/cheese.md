@@ -1,3 +1,13 @@
+---
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - cheese
+---
+
+
 # Cheese
 
 ![Burrata pizza](resources/cheese.jpg)

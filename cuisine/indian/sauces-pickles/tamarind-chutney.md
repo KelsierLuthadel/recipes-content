@@ -1,6 +1,23 @@
 ---
 prep: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - onion
+  - carrot
+  - lemon
+  - coriander
+  - chili
+  - curry
 ---
+
+
 
 # Tamarind Chutney
 

@@ -1,7 +1,24 @@
 ---
 prep: 1 hour (plus 30 minutes bulgur soaking)
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - sides
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - butter
+  - nuts
+  - complex
 ---
+
+
 
 # Kibbeh Mosul
 

@@ -1,7 +1,24 @@
 ---
 prep: 30 minutes (plus 1 hour dough rise)
 cook: 10 minutes per batch
+allergens:
+  - gluten
+  - dairy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - snack
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - cheese
+  - complex
 ---
+
+
 
 # Manakish Mini
 

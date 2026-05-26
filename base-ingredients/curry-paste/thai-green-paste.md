@@ -1,6 +1,26 @@
 ---
 prep: 20 minutes
+allergens:
+  - peanuts
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - pastes
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - coriander
+  - nuts
+  - chili
+  - curry
 ---
+
+
 
 # Thai Green Curry Paste (Kruang Kaeng Khiem Wan)
 

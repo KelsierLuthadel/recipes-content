@@ -1,3 +1,14 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - curry
+---
+
+
 # BIR Curry Course
 
 ![BIR Base Gravy](resources/curry-course.jpg)

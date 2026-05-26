@@ -1,6 +1,17 @@
 ---
 prep: 15 minutes
+allergens:
+  - peanuts
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
 ---
+
+
 
 # French Vinaigrette
 

@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 15 minutes
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - onion
+  - potato
+  - lemon
 ---
+
+
 
 # Herb Salsa
 

@@ -1,7 +1,16 @@
 ---
 prep: 10 minutes
 cook: 26 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - eggs
 ---
+
+
 
 # Rosemary Bread Trio
 

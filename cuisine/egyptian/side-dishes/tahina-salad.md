@@ -1,7 +1,21 @@
 ---
 prep: 5 minutes
 cook: 0 minutes
+allergens:
+  - gluten
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - sides
+  - garlic
+  - lemon
 ---
+
+
 
 # Tahina Salad
 

@@ -1,7 +1,27 @@
 ---
 prep: 10 minutes
 cook: 2 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - butter
+  - yogurt
 ---
+
+
 
 # Butter Chicken
 

@@ -1,3 +1,16 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - curry
+---
+
+
 # Massaman Curry Paste
 
 ![Massaman curry paste](resources/massaman.jpg)

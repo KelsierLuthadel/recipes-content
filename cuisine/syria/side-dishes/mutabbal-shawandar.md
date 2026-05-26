@@ -1,7 +1,20 @@
 ---
 prep: 10 minutes
 cook: 45 minutes (roasting beets)
+allergens:
+  - dairy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - garlic
+  - lemon
+  - yogurt
 ---
+
+
 
 # Mutabbal Shawandar
 

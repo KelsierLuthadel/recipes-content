@@ -1,7 +1,21 @@
 ---
 prep: 1 hour (plus 2 hours chilling)
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - cream
+  - chocolate
+  - complex
 ---
+
+
 
 # Black Forest Cake
 

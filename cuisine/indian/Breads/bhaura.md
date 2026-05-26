@@ -1,7 +1,16 @@
 ---
 prep: 30 minutes
 cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - asian
+  - yogurt
 ---
+
+
 
 # Bhatura
 

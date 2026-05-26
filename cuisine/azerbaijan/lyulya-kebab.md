@@ -1,7 +1,21 @@
 ---
 prep: 30 minutes (plus 2 hours chilling)
 cook: 12 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - bbq
+  - meat
+  - lamb
+  - onion
+  - lemon
+  - complex
 ---
+
+
 
 # Lyulya-Kebab
 

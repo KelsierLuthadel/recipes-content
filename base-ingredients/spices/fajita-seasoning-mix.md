@@ -1,7 +1,20 @@
 ---
 prep: 5 minutes
 cook: 7 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - spices
+  - chili
 ---
+
+
 
 # Fajita Seasoning Mix
 

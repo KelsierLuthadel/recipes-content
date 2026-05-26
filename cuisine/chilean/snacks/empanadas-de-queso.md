@@ -1,7 +1,19 @@
 ---
 prep: 45 minutes (plus 30 minutes resting)
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - butter
+  - complex
 ---
+
+
 
 # Empanadas de Queso
 

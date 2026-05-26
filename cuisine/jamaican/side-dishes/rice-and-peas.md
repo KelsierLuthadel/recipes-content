@@ -1,7 +1,24 @@
 ---
 prep: 15 minutes (plus overnight bean soak)
 cook: 1 ¼ hours
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - rice
+  - onion
+  - garlic
+  - coconut
+  - chili
+  - kwanzaa
 ---
+
+
 
 # Rice and Peas
 

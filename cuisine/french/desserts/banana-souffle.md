@@ -1,7 +1,22 @@
 ---
 prep: 10 minutes
 cook: 7 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - potato
+  - lemon
+  - butter
+  - chocolate
 ---
+
+
 
 # Banana Soufflé Crêpes with Chocolate Sauce
 

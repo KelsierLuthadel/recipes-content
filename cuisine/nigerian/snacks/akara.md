@@ -1,7 +1,19 @@
 ---
 prep: 25 minutes (plus 30 min bean-soaking)
 cook: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - onion
+  - chili
 ---
+
+
 
 # Akara
 

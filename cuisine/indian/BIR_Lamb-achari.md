@@ -1,7 +1,33 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - lime
+  - coriander
+  - yogurt
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Lamb Achari
 

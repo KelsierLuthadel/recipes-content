@@ -1,7 +1,20 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - eggs
+  - butter
 ---
+
+
 
 # Burger Buns
 

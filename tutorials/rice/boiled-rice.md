@@ -1,3 +1,14 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - rice
+---
+
+
 # Boiled Rice
 
 ![Rice](resources/boiled.jpg)

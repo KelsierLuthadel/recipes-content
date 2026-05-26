@@ -1,7 +1,30 @@
 ---
 prep: 15 minutes
 cook: 45 minutes
+allergens:
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - carrot
+  - butter
+  - cream
+  - cheese
+  - chili
+  - complex
 ---
+
+
 
 # Brown Stew Shrimp and Sweet Potato Grits
 

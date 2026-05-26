@@ -1,7 +1,30 @@
 ---
 prep: 25 minutes
 cook: 10 minutes
+allergens:
+  - dairy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - yogurt
+  - chili
+  - complex
 ---
+
+
 
 # Kofta Burger
 

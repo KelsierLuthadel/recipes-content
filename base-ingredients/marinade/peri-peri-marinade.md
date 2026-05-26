@@ -1,7 +1,24 @@
 ---
 prep: 10 minutes
 cook: 19 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - garlic
+  - lemon
+  - lime
+  - coriander
+  - honey
+  - chili
 ---
+
+
 
 # Peri-Peri Marinade
 

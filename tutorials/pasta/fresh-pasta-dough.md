@@ -1,3 +1,13 @@
+---
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+---
+
+
 # Fresh Pasta Dough
 
 ![Fresh pasta](resources/fresh-pasta.jpg)

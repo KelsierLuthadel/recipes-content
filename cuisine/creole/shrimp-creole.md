@@ -1,7 +1,30 @@
 ---
 prep: 15 minutes
 cook: 35 minutes
+allergens:
+  - dairy
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - butter
+  - complex
 ---
+
+
 
 # Shrimp Creole
 

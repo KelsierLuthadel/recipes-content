@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - lemon
+  - butter
+  - cheese
+  - complex
 ---
+
+
 
 # Chicken Piccata Meatballs
 

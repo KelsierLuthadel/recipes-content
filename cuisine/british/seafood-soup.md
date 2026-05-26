@@ -1,7 +1,24 @@
 ---
 prep: 30 minutes
 cook: 50 minutes
+allergens:
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - complex
 ---
+
+
 
 # Seafood Soup
 

@@ -1,6 +1,20 @@
 ---
 prep: 10 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - garlic
+  - lemon
 ---
+
+
 
 # Tahina Dip
 

@@ -1,7 +1,25 @@
 ---
 prep: 1 hour (plus 30 minutes resting)
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - complex
 ---
+
+
 
 # Empanadas de Pino
 

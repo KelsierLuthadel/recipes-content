@@ -1,7 +1,24 @@
 ---
 prep: 15 minutes
 cook: 5 minutes
+allergens:
+  - dairy
+  - eggs
+  - peanuts
+  - fish
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - eggs
+  - garlic
+  - lemon
+  - cheese
 ---
+
+
 
 # Caesar Dressing
 

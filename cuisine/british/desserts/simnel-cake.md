@@ -1,7 +1,22 @@
 ---
 prep: 45 minutes
 cook: 1 hour 45 minutes (plus 30 minutes resting)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - complex
+  - easter
 ---
+
+
 
 # Simnel Cake
 

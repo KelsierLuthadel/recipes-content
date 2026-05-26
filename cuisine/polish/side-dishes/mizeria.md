@@ -1,7 +1,19 @@
 ---
 prep: 15 minutes (plus 20 minutes salting)
 cook: none
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - garlic
+  - lemon
+  - cream
 ---
+
+
 
 # Mizeria
 

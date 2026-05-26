@@ -1,7 +1,25 @@
 ---
 prep: 5 minutes
 cook: 5 minutes
+allergens:
+  - dairy
+  - peanuts
+  - soy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - garlic
+  - coconut
+  - lemon
+  - butter
+  - nuts
+  - soy-sauce
 ---
+
+
 
 # Satay Sauce
 

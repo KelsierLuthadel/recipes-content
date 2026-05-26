@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes
 cook: 40 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - chili
 ---
+
+
 
 # Rougaille Saucisse
 

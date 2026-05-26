@@ -1,7 +1,24 @@
 ---
 prep: 10 minutes
 cook: 2 minutes
+allergens:
+  - soy
+  - shellfish
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - prawn
+  - onion
+  - ginger
+  - soy-sauce
 ---
+
+
 
 # Braised Prawns
 

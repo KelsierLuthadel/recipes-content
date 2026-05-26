@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+  - bbq
+  - onion
+  - garlic
+  - tomato
 ---
+
+
 
 # Grilled Eggplant Salad
 

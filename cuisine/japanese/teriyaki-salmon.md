@@ -1,7 +1,24 @@
 ---
 prep: 5 minutes
 cook: 12 minutes
+allergens:
+  - soy
+  - sesame
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - fish
+  - salmon
+  - rice
+  - onion
+  - ginger
+  - soy-sauce
 ---
+
+
 
 # Teriyaki Salmon
 

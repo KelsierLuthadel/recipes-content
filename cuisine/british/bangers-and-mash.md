@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+tags:
+  - meals
+  - meat
+  - pork
+  - onion
+  - potato
+  - butter
+  - complex
+  - st-patricks
 ---
+
+
 
 # Bangers and Mash
 

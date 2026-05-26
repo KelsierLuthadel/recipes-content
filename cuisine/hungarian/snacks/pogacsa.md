@@ -1,7 +1,22 @@
 ---
 prep: 25 minutes (plus 1 hour chill)
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - make-ahead
+  - eggs
+  - butter
+  - cream
+  - cheese
+  - complex
 ---
+
+
 
 # Pogácsa
 

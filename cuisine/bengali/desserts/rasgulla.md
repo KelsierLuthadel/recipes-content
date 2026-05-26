@@ -1,7 +1,17 @@
 ---
 prep: 40 minutes (plus optional chilling)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - lemon
 ---
+
+
 
 # Rasgulla
 

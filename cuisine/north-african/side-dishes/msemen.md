@@ -1,7 +1,18 @@
 ---
 prep: 40 minutes (plus 30 min dough rest)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - sides
+  - butter
+  - honey
+  - complex
 ---
+
+
 
 # Msemen
 

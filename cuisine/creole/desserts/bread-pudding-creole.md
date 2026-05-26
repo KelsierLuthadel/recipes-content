@@ -1,7 +1,23 @@
 ---
 prep: 20 minutes (plus 30 minutes soaking)
 cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - cream
+  - complex
+  - kwanzaa
 ---
+
+
 
 # Bread Pudding (Creole)
 

@@ -1,7 +1,19 @@
 ---
 prep: 5 minutes (plus 10 minutes batter rest)
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - eggs
+  - butter
 ---
+
+
 
 # Buttermilk Pancakes
 

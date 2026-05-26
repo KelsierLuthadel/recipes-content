@@ -1,7 +1,22 @@
 ---
 prep: 5 minutes
 cook: 2 minutes
+allergens:
+  - eggs
+  - soy
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - eggs
+  - soy-sauce
 ---
+
+
 
 # Marbled Tea Eggs
 

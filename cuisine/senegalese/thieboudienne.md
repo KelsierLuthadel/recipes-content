@@ -1,7 +1,30 @@
 ---
 prep: 40 minutes
 cook: 1 ½ hours
+allergens:
+  - soy
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - carrot
+  - lime
+  - chili
+  - complex
+  - kwanzaa
 ---
+
+
 
 # Thiéboudiène
 

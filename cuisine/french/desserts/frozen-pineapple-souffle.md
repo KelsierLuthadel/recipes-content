@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes
 cook: 35 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - peanuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - cream
+  - nuts
 ---
+
+
 
 # Frozen Pineapple Soufflé with Blackberries
 

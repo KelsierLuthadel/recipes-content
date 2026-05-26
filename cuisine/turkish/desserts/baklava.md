@@ -1,6 +1,25 @@
 ---
 prep: 5 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - make-ahead
+  - lime
+  - butter
+  - honey
+  - nuts
+  - eid-al-fitr
+  - eid-al-adha
+  - ramadan
+  - muslim
 ---
+
+
 
 # Baklava
 

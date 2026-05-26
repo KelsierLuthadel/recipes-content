@@ -1,7 +1,20 @@
 ---
 prep: 20 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - make-ahead
+  - eggs
+  - butter
+  - nuts
 ---
+
+
 
 # Biscuit à l'Orange
 

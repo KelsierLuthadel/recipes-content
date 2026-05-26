@@ -1,7 +1,29 @@
 ---
 prep: 15 minutes
 cook: 35 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - butter
+  - chili
+  - complex
 ---
+
+
 
 # Jasha Maru
 

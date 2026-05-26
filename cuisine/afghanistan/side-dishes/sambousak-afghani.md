@@ -1,7 +1,27 @@
 ---
 prep: 40 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - sides
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - yogurt
+  - complex
 ---
+
+
 
 # Sambousak Afghani
 

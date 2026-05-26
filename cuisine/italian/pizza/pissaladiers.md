@@ -1,6 +1,19 @@
 ---
 prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - garlic
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - onion
+  - garlic
 ---
+
+
 
 # Pissalàdiers
 

@@ -1,7 +1,20 @@
 ---
 prep: 30 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - lemon
+  - butter
+  - cheese
+  - nuts
 ---
+
+
 
 # Knafeh Nabulsiya
 

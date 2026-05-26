@@ -1,7 +1,22 @@
 ---
 prep: 20 minutes (plus overnight soaking)
 cook: 1 hour
+allergens:
+  - dairy
+  - peanuts
+  - sesame
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - asian
+  - coconut
+  - nuts
+  - complex
 ---
+
+
 
 # Chè Ba Màu
 

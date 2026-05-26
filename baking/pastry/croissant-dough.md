@@ -1,6 +1,19 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - baking
+  - eggs
+  - butter
 ---
+
+
 
 # Croissants
 

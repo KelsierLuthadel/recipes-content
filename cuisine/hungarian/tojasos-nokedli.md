@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes
 cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - eggs
+  - butter
 ---
+
+
 
 # Tojásos Nokedli
 

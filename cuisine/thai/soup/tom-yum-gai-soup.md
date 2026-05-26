@@ -1,7 +1,32 @@
 ---
 prep: 10 minutes
 cook: 20 minutes
+allergens:
+  - fish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - mushroom
+  - onion
+  - garlic
+  - tomato
+  - carrot
+  - lime
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Tom Yum Gai Soup (Hot and Sour Chicken Soup)
 

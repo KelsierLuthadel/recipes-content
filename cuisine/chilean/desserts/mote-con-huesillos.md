@@ -1,7 +1,18 @@
 ---
 prep: 15 minutes (plus overnight soak)
 cook: 1 hour (plus chilling)
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - dessert
+  - make-ahead
+  - lemon
 ---
+
+
 
 # Mote Con Huesillos
 

@@ -1,7 +1,26 @@
 ---
 prep: 45 minutes (plus 30 min bulgur soak)
 cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - lamb
+  - onion
+  - tomato
+  - butter
+  - yogurt
+  - nuts
+  - complex
 ---
+
+
 
 # Kibbeh Bil Saneeyeh
 

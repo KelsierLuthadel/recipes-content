@@ -1,7 +1,29 @@
 ---
 prep: 20 minutes (plus 30 minutes spice soak, plus 24 hours resting after jarring)
 cook: 30 minutes
+allergens:
+  - peanuts
+  - soy
+  - sesame
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - asian
+  - meat
+  - onion
+  - garlic
+  - ginger
+  - nuts
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Chilli oil
 

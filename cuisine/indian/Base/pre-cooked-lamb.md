@@ -1,7 +1,24 @@
 ---
 prep: 15 minutes
 cook: 1 hour 40 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - asian
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - complex
 ---
+
+
 
 # Pre-Cooked Lamb
 

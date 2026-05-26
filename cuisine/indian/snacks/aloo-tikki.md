@@ -1,7 +1,27 @@
 ---
 prep: 25 minutes (plus 30 min chilling)
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - asian
+  - onion
+  - ginger
+  - potato
+  - coriander
+  - yogurt
+  - chickpea
+  - chili
+  - complex
+  - holi
+  - hindu
 ---
+
+
 
 # Aloo Tikki
 

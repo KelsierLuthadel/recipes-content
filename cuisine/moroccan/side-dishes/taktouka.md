@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 35 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - garlic
+  - tomato
+  - lemon
+  - coriander
 ---
+
+
 
 # Taktouka
 

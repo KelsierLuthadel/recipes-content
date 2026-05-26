@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes
 cook: 70 minutes
+allergens:
+  - celery
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - onion
+  - carrot
 ---
+
+
 
 # Vegetable Soup
 

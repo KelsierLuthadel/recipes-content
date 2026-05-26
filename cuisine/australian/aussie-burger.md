@@ -1,7 +1,27 @@
 ---
 prep: 20 minutes
 cook: 20 minutes
+allergens:
+  - dairy
+  - eggs
+  - sesame
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - bbq
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - tomato
+  - butter
+  - cheese
+  - complex
 ---
+
+
 
 # Aussie Burger with Beetroot
 

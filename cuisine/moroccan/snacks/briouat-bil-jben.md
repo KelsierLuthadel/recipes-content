@@ -1,7 +1,20 @@
 ---
 prep: 30 minutes
 cook: 15 minutes (in batches)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - lemon
+  - cheese
+  - honey
 ---
+
+
 
 # Briouat Bil Jben (Cheese Briouats)
 

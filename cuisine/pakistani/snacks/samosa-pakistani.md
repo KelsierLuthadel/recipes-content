@@ -1,7 +1,34 @@
 ---
 prep: 45 minutes (plus 30 min dough rest)
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - snack
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - lime
+  - coriander
+  - yogurt
+  - chili
+  - complex
+  - diwali
+  - eid-al-fitr
+  - ramadan
+  - holi
+  - muslim
 ---
+
+
 
 # Samosa Pakistani
 

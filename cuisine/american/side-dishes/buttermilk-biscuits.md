@@ -1,7 +1,18 @@
 ---
 prep: 15 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - sides
+  - butter
 ---
+
+
 
 # Buttermilk Biscuits
 

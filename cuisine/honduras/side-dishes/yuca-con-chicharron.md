@@ -1,7 +1,19 @@
 ---
 prep: 15 minutes
 cook: 1 hour 15 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - sides
+  - meat
+  - onion
+  - carrot
+  - lime
 ---
+
+
 
 # Yuca Con Chicharrón
 

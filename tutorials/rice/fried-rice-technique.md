@@ -1,3 +1,15 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - rice
+---
+
+
 # Fried Rice Technique
 
 ![Fried rice](resources/fried.jpg)

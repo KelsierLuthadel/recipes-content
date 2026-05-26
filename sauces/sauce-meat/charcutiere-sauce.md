@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes
 cook: 20 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+tags:
+  - gluten-free
+  - quick
+  - meat
+  - onion
+  - butter
 ---
+
+
 
 # Charcutière Sauce
 

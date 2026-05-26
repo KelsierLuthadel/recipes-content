@@ -1,7 +1,23 @@
 ---
 prep: 15 minutes
 cook: 5 minutes
+allergens:
+  - peanuts
+  - soy
+  - sesame
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meat
+  - onion
+  - ginger
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Ginger and Chilli Sauce for Sashimi
 

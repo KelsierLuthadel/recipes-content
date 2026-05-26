@@ -1,7 +1,33 @@
 ---
 prep: 30 minutes
 cook: 30 minutes
+allergens:
+  - eggs
+  - tree-nuts
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - eggs
+  - rice
+  - mushroom
+  - garlic
+  - spinach
+  - carrot
+  - honey
+  - nuts
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Bibimbap
 

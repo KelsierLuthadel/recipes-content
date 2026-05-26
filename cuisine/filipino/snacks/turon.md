@@ -1,7 +1,15 @@
 ---
 prep: 20 minutes
 cook: 20 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - snack
 ---
+
+
 
 # Turon
 

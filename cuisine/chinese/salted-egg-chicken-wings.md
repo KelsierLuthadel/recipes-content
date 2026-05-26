@@ -1,7 +1,24 @@
 ---
 prep: 20 minutes (plus 15 minutes marinating)
 cook: 15 minutes
+allergens:
+  - eggs
+  - soy
+  - shellfish
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - asian
+  - meat
+  - chicken
+  - duck
+  - eggs
+  - soy-sauce
 ---
+
+
 
 # Salted Egg Chicken Wings
 

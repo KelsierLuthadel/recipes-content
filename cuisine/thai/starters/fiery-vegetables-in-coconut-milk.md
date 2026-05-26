@@ -1,6 +1,21 @@
 ---
 prep: 10 minutes
+allergens:
+  - dairy
+  - fish
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - starter
+  - asian
+  - fish
+  - coconut
+  - lime
+  - chili
 ---
+
+
 
 # Fiery Vegetables in Coconut Milk
 

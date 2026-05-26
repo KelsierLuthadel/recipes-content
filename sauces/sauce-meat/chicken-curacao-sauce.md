@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 45 minutes
+allergens:
+  - dairy
+  - peanuts
+  - meat
+  - celery
+tags:
+  - gluten-free
+  - meat
+  - chicken
+  - onion
+  - carrot
+  - butter
 ---
+
+
 
 # Chicken Sauce with Curaçao
 

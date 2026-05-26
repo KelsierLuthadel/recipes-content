@@ -1,7 +1,19 @@
 ---
 prep: 5 minutes (plus 30 minutes soak)
 cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - asian
+  - rice
+  - coriander
+  - butter
 ---
+
+
 
 # Jeera Rice
 

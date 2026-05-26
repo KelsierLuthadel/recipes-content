@@ -1,7 +1,18 @@
 ---
 prep: 5 minutes (plus 8 hours fermenting)
 cook: 25 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - sides
+  - complex
 ---
+
+
 
 # Lahoh
 

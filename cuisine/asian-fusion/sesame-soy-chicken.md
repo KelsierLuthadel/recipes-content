@@ -1,7 +1,22 @@
 ---
 prep: 10 minutes (plus 2 hours marinating)
 cook: 15 minutes
+allergens:
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Sesame Soy Chicken
 

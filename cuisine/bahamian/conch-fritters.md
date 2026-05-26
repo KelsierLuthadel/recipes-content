@@ -1,7 +1,26 @@
 ---
 prep: 25 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - make-ahead
+  - meals
+  - eggs
+  - onion
+  - garlic
+  - lime
+  - chili
+  - complex
 ---
+
+
 
 # Conch Fritters
 

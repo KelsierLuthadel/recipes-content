@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - beef
+  - butter
+  - cream
+  - cheese
 ---
+
+
 
 # Beef and Wine Soup
 

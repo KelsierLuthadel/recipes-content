@@ -1,6 +1,19 @@
 ---
 prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - tomato
+  - cheese
+  - nuts
 ---
+
+
 
 # Spaghetti with Ricotta Cheese and Toasted Pine Nuts
 

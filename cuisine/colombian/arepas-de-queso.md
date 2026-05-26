@@ -1,7 +1,19 @@
 ---
 prep: 15 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - meals
+  - onion
+  - tomato
+  - butter
+  - cheese
 ---
+
+
 
 # Arepas de Queso
 

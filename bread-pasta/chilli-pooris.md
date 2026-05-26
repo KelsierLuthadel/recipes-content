@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - quick
+  - chili
 ---
+
+
 
 # Chilli Pooris
 

@@ -1,7 +1,28 @@
 ---
 prep: 15 minutes
 cook: 42 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - eggs
+  - mushroom
+  - onion
+  - spinach
+  - lemon
+  - butter
+  - cream
+  - complex
+  - valentines
 ---
+
+
 
 # Beef Wellington en Brioche
 

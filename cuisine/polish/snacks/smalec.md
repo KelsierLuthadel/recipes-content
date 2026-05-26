@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 1 hour 15 minutes (plus 4 hours setting)
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - snack
+  - meat
+  - pork
+  - onion
+  - garlic
+  - complex
 ---
+
+
 
 # Smalec
 

@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 9 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - chocolate
+  - valentines
 ---
+
+
 
 # Warm Chocolate Fondant
 

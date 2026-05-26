@@ -1,7 +1,22 @@
 ---
 prep: 25 minutes
 cook: 50 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - tu-bav
 ---
+
+
 
 # Ratatouille
 

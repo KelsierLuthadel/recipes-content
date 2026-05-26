@@ -1,7 +1,24 @@
 ---
 prep: 20 minutes
 cook: 1 hour 10 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - complex
 ---
+
+
 
 # Lamb Gyros
 

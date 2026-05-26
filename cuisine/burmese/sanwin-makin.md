@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - sesame
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - coconut
+  - butter
+  - nuts
 ---
+
+
 
 # Sanwin Makin
 

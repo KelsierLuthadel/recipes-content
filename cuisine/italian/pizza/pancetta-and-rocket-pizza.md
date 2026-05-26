@@ -1,7 +1,20 @@
 ---
 prep: 10 minutes
 cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - quick
+  - meals
+  - meat
+  - pork
+  - tomato
+  - cheese
 ---
+
+
 
 # Pancetta and Rocket Pizza
 

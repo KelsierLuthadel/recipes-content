@@ -1,7 +1,30 @@
 ---
 prep: 20 minutes
 cook: 1 ½ hours
+allergens:
+  - gluten
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - lentils
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - chickpea
+  - complex
+  - ramadan
+  - muslim
 ---
+
+
 
 # Harira
 

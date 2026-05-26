@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - eggs
+  - butter
+  - cheese
 ---
+
+
 
 # Big Mike’s Mac ’n’ Cheese
 

@@ -1,7 +1,22 @@
 ---
 prep: 20 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - mustard
+tags:
+  - vegetarian
+  - spicy
+  - make-ahead
+  - sides
+  - butter
+  - cheese
+  - chili
+  - complex
 ---
+
+
 
 # Mac and Cheese
 

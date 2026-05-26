@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - garlic
+  - tomato
+  - lemon
+  - cheese
 ---
+
+
 
 # Cherry Tomato, Burrata and Herb Pesto Pizza
 

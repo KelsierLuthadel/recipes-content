@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - sides
+  - meat
+  - pork
+  - onion
+  - potato
 ---
+
+
 
 # German Potato Salad
 

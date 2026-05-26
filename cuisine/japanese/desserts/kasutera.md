@@ -1,7 +1,19 @@
 ---
 prep: 25 minutes
 cook: 50 minutes
+allergens:
+  - gluten
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - dessert
+  - make-ahead
+  - eggs
+  - honey
 ---
+
+
 
 # Kasutera
 

@@ -1,6 +1,30 @@
 ---
 prep: 15 minutes
+allergens:
+  - peanuts
+  - soy
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - make-ahead
+  - asian
+  - rice
+  - garlic
+  - ginger
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Spicy Peanut Balls
 

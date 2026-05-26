@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes (plus 1 hour resting)
 cook: 2 hours 30 minutes
+allergens:
+  - gluten
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - bbq
+  - meat
+  - beef
+  - pork
+  - onion
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Texas Hot-Link Sausage
 

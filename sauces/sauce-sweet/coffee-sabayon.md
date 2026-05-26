@@ -1,7 +1,17 @@
 ---
 prep: 5 minutes
 cook: 15 minutes
+allergens:
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - eggs
 ---
+
+
 
 # Coffee Sabayon with Cinnamon
 

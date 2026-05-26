@@ -1,7 +1,20 @@
 ---
 prep: 30 minutes (plus 2 hour dough rest)
 cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - snack
+  - butter
+  - chickpea
+  - nuts
+  - complex
 ---
+
+
 
 # Nan-E Nokhodchi
 

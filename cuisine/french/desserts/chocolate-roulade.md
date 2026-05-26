@@ -1,7 +1,22 @@
 ---
 prep: 45 minutes
 cook: 20 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cream
+  - chocolate
+  - valentines
 ---
+
+
 
 # Chocolate Roulade
 

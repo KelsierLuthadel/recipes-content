@@ -1,7 +1,26 @@
 ---
 prep: 30 minutes (plus 24 hours dry-brining)
 cook: 3 hours (for a 5-6 kg bird)
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - onion
+  - garlic
+  - carrot
+  - lemon
+  - butter
+  - complex
+  - sukkot
 ---
+
+
 
 # Roast Turkey
 

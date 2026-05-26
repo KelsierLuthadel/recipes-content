@@ -1,7 +1,19 @@
 ---
 prep: 15 minutes
 cook: 1 ¼ hours
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - rice
+  - butter
+  - nuts
 ---
+
+
 
 # Sholeh Zard
 

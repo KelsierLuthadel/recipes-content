@@ -1,7 +1,20 @@
 ---
 prep: 25 minutes (plus 15 minutes chilling)
 cook: 22 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - pastes
+  - eggs
+  - butter
+  - cheese
 ---
+
+
 
 # Pastelitos
 

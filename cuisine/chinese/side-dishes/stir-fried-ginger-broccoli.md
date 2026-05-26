@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes
 cook: 4 minutes
+allergens:
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - asian
+  - ginger
 ---
+
+
 
 # Stir-Fried Ginger Broccoli
 

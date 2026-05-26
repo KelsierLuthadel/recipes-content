@@ -1,7 +1,16 @@
 ---
 prep: 30 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - butter
 ---
+
+
 
 # Rhubarb Tartlets with Orange
 

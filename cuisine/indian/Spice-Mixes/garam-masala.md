@@ -1,7 +1,19 @@
 ---
 prep: 8 minutes
 cook: 2 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - asian
+  - spices
+  - coriander
 ---
+
+
 
 # Garam Masala
 

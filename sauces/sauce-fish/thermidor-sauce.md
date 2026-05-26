@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 30 minutes
+allergens:
+  - dairy
+  - fish
+  - mustard
+tags:
+  - gluten-free
+  - spicy
+  - fish
+  - onion
+  - butter
+  - cream
+  - chili
 ---
+
+
 
 # Thermidor Sauce
 

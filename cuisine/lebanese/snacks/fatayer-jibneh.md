@@ -1,7 +1,21 @@
 ---
 prep: 40 minutes (plus 45 min dough rise)
 cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - onion
+  - cheese
+  - complex
 ---
+
+
 
 # Fatayer Jibneh
 

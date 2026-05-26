@@ -1,7 +1,19 @@
 ---
 prep: 15 minutes
 cook: 75 minutes
+allergens:
+  - gluten
+  - dairy
+  - mustard
+tags:
+  - vegetarian
+  - snack
+  - rice
+  - tomato
+  - cream
 ---
+
+
 
 # Semi-Confit Cherry Tomato Tart
 

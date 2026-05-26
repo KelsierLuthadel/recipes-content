@@ -1,7 +1,18 @@
 ---
 prep: 30 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - dessert
+  - asian
+  - coconut
 ---
+
+
 
 # Klepon
 

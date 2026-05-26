@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes
 cook: 31 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - ginger
+  - lemon
+  - butter
 ---
+
+
 
 # Brandy Snap Baskets with Rhubarb and Raspberries
 

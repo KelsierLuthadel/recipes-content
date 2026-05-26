@@ -1,7 +1,22 @@
 ---
 prep: 30 minutes (plus 1 hour pastry rest)
 cook: 55 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - nuts
+  - complex
+  - halloween
 ---
+
+
 
 # Pecan Pie
 

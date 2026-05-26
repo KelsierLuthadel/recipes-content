@@ -1,7 +1,18 @@
 ---
 prep: 5 minutes
 cook: 40 minutes
+allergens:
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meat
+  - onion
+  - garlic
+  - carrot
 ---
+
+
 
 # Lamb Jus with Rosemary
 

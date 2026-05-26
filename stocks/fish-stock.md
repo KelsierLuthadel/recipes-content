@@ -1,7 +1,15 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - dairy
+  - fish
+tags:
+  - gluten-free
+  - fish
 ---
+
+
 
 # Fish Stock
 

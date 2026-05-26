@@ -1,7 +1,20 @@
 ---
 prep: 35 minutes
 cook: 1 hour 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - cream
+  - complex
 ---
+
+
 
 # Tarte au Citron Brûlée (Cream-Set)
 

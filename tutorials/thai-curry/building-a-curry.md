@@ -1,3 +1,14 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - curry
+---
+
+
 # Building a Thai Curry: Worked Example
 
 ![Thai curry](resources/thai-curry.jpg)

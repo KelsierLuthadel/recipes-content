@@ -1,6 +1,21 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - quick
+  - snack
+  - make-ahead
+  - pastes
+  - eggs
+  - cheese
 ---
+
+
 
 # Welsh Rarebit Paste (Make-Ahead)
 

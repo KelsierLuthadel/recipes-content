@@ -1,7 +1,25 @@
 ---
 prep: 45 minutes (plus 30 min dough rest)
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - onion
+  - garlic
+  - lemon
+  - coriander
+  - chickpea
+  - complex
 ---
+
+
 
 # Sambusak
 

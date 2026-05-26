@@ -1,7 +1,16 @@
 ---
 prep: 10 minutes
 cook: 1 hour
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - sides
 ---
+
+
 
 # Chimodho
 

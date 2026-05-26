@@ -1,7 +1,29 @@
 ---
 prep: 45 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - sides
+  - asian
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Keema Samosa
 

@@ -1,3 +1,14 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - rice
+---
+
+
 # Pilaf
 
 ![Pilau Rice](resources/pilaf.jpg)

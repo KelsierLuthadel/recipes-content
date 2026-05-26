@@ -1,7 +1,31 @@
 ---
 prep: 15 minutes
 cook: 15 minutes
+allergens:
+  - soy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - tofu
+  - rice
+  - mushroom
+  - onion
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Mapo Tofu (Vegetarian)
 

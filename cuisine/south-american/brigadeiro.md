@@ -1,7 +1,19 @@
 ---
 prep: 15 minutes (plus 4 hours cooling)
 cook: 12 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - meals
+  - butter
+  - chocolate
+  - complex
 ---
+
+
 
 # Brigadeiro
 

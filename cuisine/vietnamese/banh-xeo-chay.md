@@ -1,7 +1,32 @@
 ---
 prep: 20 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - soy
+  - shellfish
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - meals
+  - asian
+  - tofu
+  - mushroom
+  - onion
+  - garlic
+  - coconut
+  - carrot
+  - lime
+  - coriander
+  - butter
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Bánh Xèo Chay
 

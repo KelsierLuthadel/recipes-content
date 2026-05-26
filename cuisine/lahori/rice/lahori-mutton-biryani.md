@@ -1,7 +1,29 @@
 ---
 prep: 30 minutes (plus 4 hours marinade)
 cook: 2 hours
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - yogurt
+  - chili
+  - complex
 ---
+
+
 
 # Lahori Mutton Biryani
 

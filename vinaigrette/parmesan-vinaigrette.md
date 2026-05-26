@@ -1,6 +1,17 @@
 ---
 prep: 10 minutes
+allergens:
+  - dairy
+  - mustard
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - cream
+  - cheese
 ---
+
+
 
 # Parmesan Vinaigrette
 

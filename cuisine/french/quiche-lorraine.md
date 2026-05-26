@@ -1,7 +1,24 @@
 ---
 prep: 30 minutes (plus 30 minutes resting pastry)
 cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - meals
+  - meat
+  - pork
+  - eggs
+  - butter
+  - cream
+  - cheese
+  - complex
+  - shavuot
 ---
+
+
 
 # Quiche Lorraine
 

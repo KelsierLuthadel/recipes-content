@@ -1,7 +1,30 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - soy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - tofu
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - nuts
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Sayur Lodeh
 

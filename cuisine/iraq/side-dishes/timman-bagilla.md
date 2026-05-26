@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes (plus 20 minutes soaking)
 cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - rice
+  - onion
+  - butter
 ---
+
+
 
 # Timman Bagilla
 

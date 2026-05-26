@@ -1,7 +1,21 @@
 ---
 prep: 20 minutes (plus 4 hours rest)
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - coconut
+  - butter
+  - complex
 ---
+
+
 
 # Bolinhas de Coco
 

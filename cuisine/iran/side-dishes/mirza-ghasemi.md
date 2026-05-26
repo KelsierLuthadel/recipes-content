@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes
 cook: 35 minutes
+allergens:
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - sides
+  - eggs
+  - garlic
+  - tomato
 ---
+
+
 
 # Mirza Ghasemi
 

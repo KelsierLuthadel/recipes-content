@@ -1,7 +1,22 @@
 ---
 prep: 25 minutes (plus 1 hour chilling)
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - nuts
+  - complex
 ---
+
+
 
 # Pecan Nut Pastry Plait
 

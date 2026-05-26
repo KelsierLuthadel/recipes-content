@@ -1,7 +1,23 @@
 ---
 prep: 20 minutes
 cook: 10 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+tags:
+  - gluten-free
+  - quick
+  - sides
+  - bbq
+  - meat
+  - pork
+  - onion
+  - cheese
+  - honey
 ---
+
+
 
 # Broccoli-Bacon Salad
 

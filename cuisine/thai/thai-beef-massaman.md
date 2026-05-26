@@ -1,7 +1,28 @@
 ---
 prep: 10 minutes
 cook: 2 hours
+allergens:
+  - dairy
+  - peanuts
+  - fish
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - beef
+  - onion
+  - coconut
+  - potato
+  - nuts
+  - curry
+  - complex
 ---
+
+
 
 # Thai Beef Massaman Curry
 

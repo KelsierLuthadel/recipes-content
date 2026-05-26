@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 30 minutes
+allergens:
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - complex
+  - halloween
 ---
+
+
 
 # Sloppy Joe
 

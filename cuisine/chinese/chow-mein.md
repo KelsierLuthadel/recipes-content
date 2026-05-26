@@ -1,7 +1,30 @@
 ---
 prep: 15 minutes
 cook: 5 minutes
+allergens:
+  - gluten
+  - eggs
+  - peanuts
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - soy-sauce
+  - lunar-new-year
 ---
+
+
 
 # Chow Mein
 

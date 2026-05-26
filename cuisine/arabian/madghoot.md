@@ -1,7 +1,28 @@
 ---
 prep: 20 minutes (plus 1 hour marinating)
 cook: 50 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - yogurt
+  - nuts
+  - complex
 ---
+
+
 
 # Madghoot
 

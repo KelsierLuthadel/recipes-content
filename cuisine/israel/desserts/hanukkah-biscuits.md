@@ -1,7 +1,20 @@
 ---
 prep: 30 minutes (plus 1 hour chilling)
 cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - complex
 ---
+
+
 
 # Hanukkah Biscuits
 

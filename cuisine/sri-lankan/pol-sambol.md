@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 0 minutes
+allergens:
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - fish
+  - onion
+  - coconut
+  - lime
+  - curry
 ---
+
+
 
 # Pol Sambol
 

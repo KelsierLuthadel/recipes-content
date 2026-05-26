@@ -1,7 +1,34 @@
 ---
 prep: 20 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - eggs
+  - peanuts
+  - soy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - prawn
+  - eggs
+  - tofu
+  - rice
+  - onion
+  - garlic
+  - lime
+  - nuts
 ---
+
+
 
 # Traditional Pad Thai
 

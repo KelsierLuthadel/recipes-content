@@ -1,7 +1,21 @@
 ---
 prep: 45 minutes
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - honey
+  - nuts
 ---
+
+
 
 # m'Hencha (Almond Snake Coil)
 

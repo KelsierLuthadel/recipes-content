@@ -1,3 +1,14 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - curry
+---
+
+
 # Building a Curry: Worked Example
 
 ![BIR base gravy](resources/building.jpg)

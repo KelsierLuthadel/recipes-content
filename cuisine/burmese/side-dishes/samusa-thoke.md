@@ -1,7 +1,26 @@
 ---
 prep: 30 minutes (plus 4 hours soaking lentils)
 cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - sides
+  - fish
+  - lentils
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chickpea
+  - chili
+  - complex
 ---
+
+
 
 # Samusa Thoke
 

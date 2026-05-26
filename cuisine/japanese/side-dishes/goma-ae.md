@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 5 minutes
+allergens:
+  - soy
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - spinach
+  - soy-sauce
 ---
+
+
 
 # Goma-Ae
 

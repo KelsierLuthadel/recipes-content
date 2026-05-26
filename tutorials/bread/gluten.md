@@ -1,3 +1,14 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+---
+
+
 # Gluten
 
 ![Bread](resources/gluten.jpg)

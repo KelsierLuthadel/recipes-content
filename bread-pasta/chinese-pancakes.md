@@ -1,7 +1,17 @@
 ---
 prep: 5 minutes
 cook: 4 minutes
+allergens:
+  - gluten
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
 ---
+
+
 
 # Chinese Pancakes
 

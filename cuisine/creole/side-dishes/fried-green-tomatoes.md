@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes
 cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - complex
 ---
+
+
 
 # Fried Green Tomatoes
 

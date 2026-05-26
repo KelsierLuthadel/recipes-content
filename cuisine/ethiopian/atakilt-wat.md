@@ -1,7 +1,23 @@
 ---
 prep: 15 minutes
 cook: 35 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - meals
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - carrot
+  - kwanzaa
 ---
+
+
 
 # Atakilt Wat
 

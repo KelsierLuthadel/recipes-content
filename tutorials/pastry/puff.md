@@ -1,3 +1,14 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+---
+
+
 # Puff and Rough Puff
 
 ![Puff pastry](resources/puff.jpg)

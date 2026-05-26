@@ -1,7 +1,25 @@
 ---
 prep: 20 minutes
 cook: 2 ½ hours
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - lemon
+  - chili
+  - complex
 ---
+
+
 
 # Austrian Goulash
 

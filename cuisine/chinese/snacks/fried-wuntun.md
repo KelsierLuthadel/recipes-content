@@ -1,6 +1,26 @@
 ---
 prep: 15 minutes
+allergens:
+  - eggs
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - snack
+  - make-ahead
+  - asian
+  - meat
+  - pork
+  - eggs
+  - onion
+  - ginger
+  - soy-sauce
 ---
+
+
 
 # Fried Wuntun
 

@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - fish
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - garlic
+  - tomato
+  - chili
 ---
+
+
 
 # Pasta Puttanesca
 

@@ -1,6 +1,18 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - baking
+  - eggs
+  - chocolate
 ---
+
+
 
 # Chocolate Crème Pâtissière
 

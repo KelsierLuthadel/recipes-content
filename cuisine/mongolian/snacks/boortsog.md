@@ -1,7 +1,19 @@
 ---
 prep: 25 minutes (plus 30 min resting)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - butter
+  - honey
 ---
+
+
 
 # Boortsog
 

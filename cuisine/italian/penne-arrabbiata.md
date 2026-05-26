@@ -1,7 +1,23 @@
 ---
 prep: 15 minutes
 cook: 5 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - garlic
+  - tomato
+  - chili
 ---
+
+
 
 # Penne with Red Chillies, Garlic, and Chopped Tomatoes
 

@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes (plus 12 hours soaking)
 cook: 2 hours 30 minutes
+allergens:
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - complex
 ---
+
+
 
 # Red Beans (Creole)
 

@@ -1,7 +1,17 @@
 ---
 prep: 5 minutes
 cook: 26 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
 ---
+
+
 
 # Pithiviers
 

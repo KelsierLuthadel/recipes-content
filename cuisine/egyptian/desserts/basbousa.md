@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - coconut
+  - lemon
+  - butter
+  - yogurt
+  - nuts
 ---
+
+
 
 # Basbousa
 

@@ -1,6 +1,19 @@
 ---
 prep: 5 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - cream
+  - chocolate
+  - nuts
 ---
+
+
 
 # Chestnut Crème with Caramel Sauce
 

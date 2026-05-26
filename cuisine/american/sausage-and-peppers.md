@@ -1,7 +1,22 @@
 ---
 prep: 5 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - quick
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - butter
 ---
+
+
 
 # Sausage and Peppers
 

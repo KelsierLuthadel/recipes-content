@@ -1,7 +1,21 @@
 ---
 prep: 25 minutes (plus 1 hour rising)
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - garlic
+  - potato
+  - butter
+  - complex
 ---
+
+
 
 # Bolo Do Caco
 

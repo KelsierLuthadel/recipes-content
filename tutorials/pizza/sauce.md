@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Sauce
 
 ![Pizza sauce](../../cuisine/italian/pizza/resources/pizza-sauce.jpg)

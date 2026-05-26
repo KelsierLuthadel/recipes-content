@@ -1,7 +1,23 @@
 ---
 prep: 20 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cream
+  - chocolate
+  - complex
+  - day-of-the-dead
 ---
+
+
 
 # Churros Mexicanos
 

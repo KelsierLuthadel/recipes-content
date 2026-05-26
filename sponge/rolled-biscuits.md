@@ -1,7 +1,18 @@
 ---
 prep: 20 minutes
 cook: 6-10 minutes
+allergens:
+  - gluten
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - quick
+  - eggs
+  - potato
 ---
+
+
 
 # Rolled Biscuits
 

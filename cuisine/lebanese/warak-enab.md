@@ -1,7 +1,26 @@
 ---
 prep: 1 hour
 cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - lemon
+  - yogurt
+  - complex
 ---
+
+
 
 # Warak Enab
 

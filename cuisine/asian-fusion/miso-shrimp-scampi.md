@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes (plus 30 minutes seasoning)
 cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - soy
+  - shellfish
+  - garlic
+tags:
+  - meals
+  - meat
+  - fish
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - lemon
+  - butter
 ---
+
+
 
 # Miso Shrimp Scampi
 

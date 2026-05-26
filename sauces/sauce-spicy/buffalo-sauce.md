@@ -1,7 +1,19 @@
 ---
 prep: 2 minutes
 cook: 5 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - butter
+  - chili
 ---
+
+
 
 # Buffalo Sauce
 

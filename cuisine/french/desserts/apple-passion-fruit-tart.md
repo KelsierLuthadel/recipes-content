@@ -1,7 +1,15 @@
 ---
 prep: 25 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
 ---
+
+
 
 # Apple and Passion Fruit Tartlets
 

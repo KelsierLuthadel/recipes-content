@@ -1,6 +1,26 @@
 ---
 prep: 15 minutes
+allergens:
+  - soy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Chinese Pickled Cucumber
 

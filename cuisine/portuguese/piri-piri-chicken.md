@@ -1,7 +1,27 @@
 ---
 prep: 25 minutes (plus 4 hours marinating)
 cook: 35 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - chili
+  - complex
 ---
+
+
 
 # Piri Piri Chicken
 

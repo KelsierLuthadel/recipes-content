@@ -1,7 +1,39 @@
 ---
 prep: 15 minutes
 cook: 1 hour 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - soy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - prawn
+  - tofu
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Malaysian Curry Laksa (Laksa Lemak)
 

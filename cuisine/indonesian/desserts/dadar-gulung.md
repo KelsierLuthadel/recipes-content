@@ -1,7 +1,22 @@
 ---
 prep: 30 minutes (plus 30 minutes batter resting)
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - asian
+  - eggs
+  - coconut
+  - butter
+  - complex
 ---
+
+
 
 # Dadar Gulung
 

@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes (plus 2 hours marinade)
 cook: 8 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - garlic
+  - lime
+  - coriander
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Carne Asada
 

@@ -1,7 +1,29 @@
 ---
 prep: 10 minutes
 cook: 2 minutes
+allergens:
+  - eggs
+  - peanuts
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - eggs
+  - garlic
+  - lemon
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Lemon Chicken
 

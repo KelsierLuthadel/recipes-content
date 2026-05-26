@@ -1,7 +1,24 @@
 ---
 prep: 50 minutes
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - make-ahead
+  - meals
+  - eggs
+  - mushroom
+  - onion
+  - butter
+  - nuts
+  - complex
 ---
+
+
 
 # Pierogi Z Kapustą I Grzybami
 

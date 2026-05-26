@@ -1,7 +1,19 @@
 ---
 prep: 20 minutes
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - cream
+  - cheese
 ---
+
+
 
 # Individual Quiches Lorraine
 

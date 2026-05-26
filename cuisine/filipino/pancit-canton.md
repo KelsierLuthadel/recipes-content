@@ -1,7 +1,32 @@
 ---
 prep: 15 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - fish
+  - chicken
+  - pork
+  - prawn
+  - eggs
+  - onion
+  - garlic
+  - carrot
+  - lemon
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Pancit Canton
 

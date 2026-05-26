@@ -1,6 +1,21 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - cream
+  - chocolate
+  - valentines
 ---
+
+
 
 # Profiteroles with Ice Cream and Chocolate Sauce
 

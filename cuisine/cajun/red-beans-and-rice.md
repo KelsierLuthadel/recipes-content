@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes (plus overnight bean soak)
 cook: 1 ¾ hours
+allergens:
+  - soy
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - rice
+  - onion
+  - garlic
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Red Beans and Rice
 

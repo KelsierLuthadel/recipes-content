@@ -1,7 +1,25 @@
 ---
 prep: 25 minutes
 cook: 1 ¾ hours
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - meals
+  - meat
+  - eggs
+  - mushroom
+  - onion
+  - carrot
+  - lemon
+  - butter
+  - cream
+  - complex
 ---
+
+
 
 # Blanquette de Veau
 

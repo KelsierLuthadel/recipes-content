@@ -1,7 +1,22 @@
 ---
 prep: 45 minutes (plus 30 minutes resting)
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - nuts
+  - complex
 ---
+
+
 
 # Apfelstrudel
 

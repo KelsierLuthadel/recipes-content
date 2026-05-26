@@ -1,7 +1,38 @@
 ---
 prep: 15 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - peanuts
+  - soy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - pork
+  - prawn
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - soy-sauce
+  - curry
+  - complex
 ---
+
+
 
 # Prawn and Pork Pad Thai
 

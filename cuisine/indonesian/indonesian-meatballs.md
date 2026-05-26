@@ -1,7 +1,33 @@
 ---
 prep: 20 minutes
 cook: 17 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - coconut
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Indonesian Meatballs
 

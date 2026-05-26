@@ -1,7 +1,22 @@
 ---
 prep: 20 minutes
 cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - carrot
+  - cheese
+  - complex
 ---
+
+
 
 # Soupe au Pistou
 

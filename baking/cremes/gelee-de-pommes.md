@@ -1,7 +1,17 @@
 ---
 prep: 15 minutes
 cook: 7 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - baking
 ---
+
+
 
 # Gelée de Pommes
 

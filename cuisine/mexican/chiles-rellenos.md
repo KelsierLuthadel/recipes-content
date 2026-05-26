@@ -1,7 +1,22 @@
 ---
 prep: 40 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - meals
+  - meat
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - cheese
 ---
+
+
 
 # Chiles Rellenos
 

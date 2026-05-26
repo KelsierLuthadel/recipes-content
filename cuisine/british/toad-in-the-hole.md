@@ -1,7 +1,24 @@
 ---
 prep: 10 minutes (plus 30 minutes batter rest)
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - eggs
+  - onion
+  - butter
+  - complex
 ---
+
+
 
 # Toad in the Hole
 

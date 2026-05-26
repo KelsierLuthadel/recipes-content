@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes (plus 6 hours soaking)
 cook: 20 minutes
+allergens:
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - fish
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Bean Akyaw
 

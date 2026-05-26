@@ -1,7 +1,25 @@
 ---
 prep: 25 minutes
 cook: 2 hours
+allergens:
+  - tree-nuts
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - fish
+  - onion
+  - garlic
+  - potato
+  - lemon
+  - nuts
+  - complex
 ---
+
+
 
 # Polvo à Lagareiro
 

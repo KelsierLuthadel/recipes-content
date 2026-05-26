@@ -1,7 +1,31 @@
 ---
 prep: 20 minutes
 cook: 15 minutes
+allergens:
+  - eggs
+  - peanuts
+  - soy
+  - shellfish
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - spicy
+  - meals
+  - asian
+  - eggs
+  - tofu
+  - garlic
+  - ginger
+  - potato
+  - lime
+  - nuts
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Gado-Gado
 

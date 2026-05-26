@@ -1,7 +1,20 @@
 ---
 prep: 20 minutes (plus 6 hours batter fermenting)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - lemon
+  - yogurt
+  - honey
+  - complex
 ---
+
+
 
 # Zlabia
 

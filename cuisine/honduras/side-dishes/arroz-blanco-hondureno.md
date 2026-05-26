@@ -1,7 +1,21 @@
 ---
 prep: 5 minutes
 cook: 25 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - rice
+  - onion
+  - garlic
 ---
+
+
 
 # Arroz Blanco Hondureño
 

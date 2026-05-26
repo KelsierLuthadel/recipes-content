@@ -1,7 +1,28 @@
 ---
 prep: 50 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - snack
+  - meat
+  - lamb
+  - lentils
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - yogurt
+  - chickpea
+  - chili
+  - complex
 ---
+
+
 
 # Mantu
 

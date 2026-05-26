@@ -1,7 +1,18 @@
 ---
 prep: 25 minutes
 cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - butter
+  - cream
+  - valentines
 ---
+
+
 
 # Tarte Tatin
 

@@ -1,7 +1,26 @@
 ---
 prep: 25 minutes
 cook: 2 hours 30 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - lime
+  - coriander
+  - complex
 ---
+
+
 
 # Sancocho de Gallina
 

@@ -1,7 +1,28 @@
 ---
 prep: 15 minutes
 cook: 5 minutes
+allergens:
+  - eggs
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - bbq
+  - meat
+  - lamb
+  - eggs
+  - onion
+  - lemon
+  - coriander
+  - chili
 ---
+
+
 
 # Lamb Seekh Kebab
 

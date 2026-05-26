@@ -1,7 +1,29 @@
 ---
 prep: 30 minutes
 cook: 2 hours
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - butter
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Luwombo
 

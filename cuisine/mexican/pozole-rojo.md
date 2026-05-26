@@ -1,7 +1,25 @@
 ---
 prep: 30 minutes
 cook: 2 hours 30 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - lime
+  - chili
+  - complex
 ---
+
+
 
 # Pozole Rojo
 

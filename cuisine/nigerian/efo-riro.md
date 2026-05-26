@@ -1,7 +1,33 @@
 ---
 prep: 20 minutes
 cook: 45 minutes
+allergens:
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - beef
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - spinach
+  - chili
+  - complex
+  - kwanzaa
 ---
+
+
 
 # Efo Riro
 

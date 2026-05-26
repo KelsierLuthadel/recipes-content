@@ -1,7 +1,25 @@
 ---
 prep: 1 hour
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - shellfish
+tags:
+  - spicy
+  - snack
+  - fish
+  - prawn
+  - eggs
+  - onion
+  - lemon
+  - butter
+  - chili
+  - complex
 ---
+
+
 
 # Rissois de Camarão
 

@@ -1,7 +1,19 @@
 ---
 prep: 20 minutes (plus 1 hour rising)
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - cheese
+  - complex
 ---
+
+
 
 # Manakish Jibneh
 

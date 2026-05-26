@@ -1,7 +1,32 @@
 ---
 prep: 15 minutes
 cook: 18 minutes
+allergens:
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - pork
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Prik King
 

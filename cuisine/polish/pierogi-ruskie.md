@@ -1,7 +1,23 @@
 ---
 prep: 1 hour
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - onion
+  - potato
+  - butter
+  - cheese
+  - complex
+  - sukkot
 ---
+
+
 
 # Pierogi Ruskie
 

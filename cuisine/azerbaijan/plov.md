@@ -1,7 +1,22 @@
 ---
 prep: 45 minutes (plus 1 hour soaking)
 cook: 2 hours
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - rice
+  - onion
+  - butter
+  - nuts
+  - complex
 ---
+
+
 
 # Plov
 

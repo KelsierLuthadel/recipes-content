@@ -1,7 +1,19 @@
 ---
 prep: 30 minutes (plus 1 hour chilling)
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - butter
+  - complex
 ---
+
+
 
 # Melktert
 

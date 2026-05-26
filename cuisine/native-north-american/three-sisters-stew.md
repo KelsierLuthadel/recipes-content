@@ -1,7 +1,24 @@
 ---
 prep: 20 minutes
 cook: 50 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - one-pan
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - complex
 ---
+
+
 
 # Three Sisters Stew
 

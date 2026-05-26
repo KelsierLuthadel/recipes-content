@@ -1,7 +1,31 @@
 ---
 prep: 25 minutes (plus 30 minutes dough rest)
 cook: 40 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - spinach
+  - carrot
+  - lemon
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Thenthuk
 

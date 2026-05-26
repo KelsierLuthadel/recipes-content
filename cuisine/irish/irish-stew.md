@@ -1,7 +1,27 @@
 ---
 prep: 20 minutes
 cook: 36 minutes
+allergens:
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - butter
+  - st-patricks
 ---
+
+
 
 # Irish Stew
 

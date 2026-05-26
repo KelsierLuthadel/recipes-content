@@ -1,7 +1,19 @@
 ---
 prep: 45 minutes
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
 ---
+
+
 
 # Tarte Tatin with Shortbread Crust
 

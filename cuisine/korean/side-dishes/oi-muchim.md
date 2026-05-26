@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes (plus 10 minutes salting + 10 minutes resting)
 cook: 0 minutes
+allergens:
+  - soy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Oi Muchim (Korean Spicy Cucumber Salad)
 

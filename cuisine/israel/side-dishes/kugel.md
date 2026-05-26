@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 1 hour 10 minutes
+allergens:
+  - eggs
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - eggs
+  - onion
+  - potato
 ---
+
+
 
 # Potato Kugel
 

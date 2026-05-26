@@ -1,3 +1,13 @@
+---
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+---
+
+
 # Shortcrust Pastry
 
 ![Shortcrust](resources/shortcrust.jpg)

@@ -1,7 +1,22 @@
 ---
 prep: 20 minutes
 cook: 2 hours
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - dessert
+  - meat
+  - beef
+  - eggs
+  - lemon
+  - butter
+  - complex
 ---
+
+
 
 # Spotted Dick
 

@@ -1,7 +1,29 @@
 ---
 prep: 15 minutes (plus 3-8 hours marinating)
 cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - chili
+  - complex
 ---
+
+
 
 # Uyghur Kebab Burger
 

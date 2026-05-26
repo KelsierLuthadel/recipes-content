@@ -1,7 +1,30 @@
 ---
 prep: 30 minutes (plus overnight bean soak)
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - make-ahead
+  - lentils
+  - ginger
+  - lime
+  - coriander
+  - yogurt
+  - chickpea
+  - chili
+  - complex
+  - diwali
+  - eid-al-fitr
+  - ramadan
+  - holi
+  - muslim
 ---
+
+
 
 # Dahi Bhalla
 

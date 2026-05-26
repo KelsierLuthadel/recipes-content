@@ -1,6 +1,17 @@
 ---
 prep: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - snack
+  - tomato
 ---
+
+
 
 # Bruschetta Platter (Tomato and Roasted Pepper)
 

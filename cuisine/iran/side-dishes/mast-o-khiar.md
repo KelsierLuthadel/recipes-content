@@ -1,7 +1,19 @@
 ---
 prep: 12 minutes
 cook: 0 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - yogurt
+  - nuts
 ---
+
+
 
 # Mast-O-Khiar
 

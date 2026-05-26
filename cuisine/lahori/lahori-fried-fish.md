@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes (plus 30 minutes marinade)
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - meals
+  - fish
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - yogurt
+  - complex
 ---
+
+
 
 # Lahori Fried Fish
 

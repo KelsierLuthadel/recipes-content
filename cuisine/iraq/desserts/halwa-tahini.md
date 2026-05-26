@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 15 minutes (plus 8 hours setting)
+allergens:
+  - tree-nuts
+  - sesame
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - dessert
+  - make-ahead
+  - honey
+  - nuts
+  - complex
 ---
+
+
 
 # Halwa Tahini
 

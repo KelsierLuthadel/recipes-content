@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 1 hour 56 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - ginger
+  - lemon
+  - butter
+  - nuts
+  - complex
+  - halloween
 ---
+
+
 
 # Autumn Fruit Crumble
 

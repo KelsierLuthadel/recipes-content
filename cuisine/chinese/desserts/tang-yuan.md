@@ -1,7 +1,20 @@
 ---
 prep: 30 minutes (plus 30 min filling freeze)
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - dessert
+  - asian
+  - ginger
+  - butter
+  - lunar-new-year
 ---
+
+
 
 # Tang Yuan
 

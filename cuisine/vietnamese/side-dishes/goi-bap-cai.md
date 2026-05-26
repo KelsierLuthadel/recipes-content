@@ -1,7 +1,32 @@
 ---
 prep: 20 minutes
 cook: 15 minutes
+allergens:
+  - peanuts
+  - fish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - asian
+  - meat
+  - fish
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - carrot
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - complex
 ---
+
+
 
 # Gỏi Bắp Cải
 

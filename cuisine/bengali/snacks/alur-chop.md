@@ -1,7 +1,26 @@
 ---
 prep: 30 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - snack
+  - onion
+  - ginger
+  - potato
+  - lime
+  - coriander
+  - chickpea
+  - chili
+  - complex
 ---
+
+
 
 # Alur Chop
 

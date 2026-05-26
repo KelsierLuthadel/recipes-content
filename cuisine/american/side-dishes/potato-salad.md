@@ -1,7 +1,23 @@
 ---
 prep: 20 minutes
 cook: 20 minutes
+allergens:
+  - eggs
+  - mustard
+  - celery
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - bbq
+  - eggs
+  - onion
+  - potato
 ---
+
+
 
 # Classic American Potato Salad
 

@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - sides
+  - eggs
+  - butter
+  - kwanzaa
 ---
+
+
 
 # Cornbread
 

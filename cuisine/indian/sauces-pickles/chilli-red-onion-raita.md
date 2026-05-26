@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 2 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - onion
+  - garlic
+  - coriander
+  - yogurt
+  - chili
 ---
+
+
 
 # Chilli and Red Onion Raita
 

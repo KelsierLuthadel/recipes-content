@@ -1,7 +1,25 @@
 ---
 prep: 20 minutes
 cook: 40 minutes
+allergens:
+  - dairy
+  - fish
+  - shellfish
+  - celery
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - rice
+  - onion
+  - carrot
+  - butter
+  - cream
+  - chili
 ---
+
+
 
 # Crab Bisque
 

@@ -1,7 +1,30 @@
 ---
 prep: 25 minutes
 cook: 2 hours 34 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - celery
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - butter
+  - cheese
+  - complex
 ---
+
+
 
 # Ragù with Gnocchi
 

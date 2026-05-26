@@ -1,6 +1,16 @@
 ---
 prep: 5 minutes
+allergens:
+  - celery
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
 ---
+
+
 
 # Bouquet Garni
 

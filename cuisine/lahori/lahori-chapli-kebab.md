@@ -1,7 +1,32 @@
 ---
 prep: 20 minutes (plus 30 minutes rest)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - yogurt
+  - chili
+  - complex
 ---
+
+
 
 # Lahori Chapli Kebab
 

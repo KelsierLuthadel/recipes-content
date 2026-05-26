@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes
 cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - spinach
+  - butter
+  - cheese
 ---
+
+
 
 # Cannelloni Filled with Rocket, Spinach, and Ricotta Cheese
 

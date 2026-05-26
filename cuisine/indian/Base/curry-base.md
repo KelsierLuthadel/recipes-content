@@ -1,6 +1,19 @@
 ---
 prep: 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - onion
+  - coconut
+  - curry
 ---
+
+
 
 # Curry Base Gravy
 

@@ -1,7 +1,28 @@
 ---
 prep: 1 ¼ hours
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - yogurt
+  - chili
+  - complex
 ---
+
+
 
 # Manti
 

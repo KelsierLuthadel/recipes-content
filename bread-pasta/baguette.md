@@ -1,6 +1,15 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
 ---
+
+
 
 # Baguette
 

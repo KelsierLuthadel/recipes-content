@@ -1,7 +1,30 @@
 ---
 prep: 20 minutes
 cook: 15 minutes
+allergens:
+  - dairy
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - bbq
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - butter
+  - honey
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Samgyeopsal
 

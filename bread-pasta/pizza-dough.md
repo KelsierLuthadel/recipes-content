@@ -1,7 +1,16 @@
 ---
 prep: 15 minutes
 cook: 5 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
 ---
+
+
 
 # Classic Pizza Dough
 

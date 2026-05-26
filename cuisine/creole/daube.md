@@ -1,7 +1,29 @@
 ---
 prep: 25 minutes
 cook: 4 hours
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - complex
 ---
+
+
 
 # Creole Daube
 

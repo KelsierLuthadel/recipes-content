@@ -1,7 +1,20 @@
 ---
 prep: 25 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - nuts
 ---
+
+
 
 # Hodu Gwaja (Walnut Cake)
 

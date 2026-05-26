@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 25 minutes
+allergens:
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - eggs
+  - onion
+  - potato
+  - coriander
+  - chili
 ---
+
+
 
 # Hot Cajun Potato Salad
 

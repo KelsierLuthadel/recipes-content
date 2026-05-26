@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - eggs
+  - onion
+  - tomato
+  - butter
 ---
+
+
 
 # Lecsó
 

@@ -1,7 +1,28 @@
 ---
 prep: 40 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - peanuts
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - snack
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - complex
 ---
+
+
 
 # Burmese Samosa
 

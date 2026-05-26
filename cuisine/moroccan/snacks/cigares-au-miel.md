@@ -1,7 +1,22 @@
 ---
 prep: 45 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - sesame
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - butter
+  - honey
+  - nuts
 ---
+
+
 
 # Cigares au Miel (Honey Almond Cigars)
 

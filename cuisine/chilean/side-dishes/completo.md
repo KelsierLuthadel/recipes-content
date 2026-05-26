@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 10 minutes
+allergens:
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - meat
+  - pork
+  - tomato
+  - lime
 ---
+
+
 
 # Completo
 

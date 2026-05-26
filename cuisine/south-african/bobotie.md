@@ -1,7 +1,31 @@
 ---
 prep: 25 minutes
 cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - nuts
+  - curry
+  - complex
 ---
+
+
 
 # Bobotie
 

@@ -1,7 +1,20 @@
 ---
 prep: 10 minutes
 cook: 8 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - sides
+  - eggs
+  - butter
 ---
+
+
 
 # Nokedli
 

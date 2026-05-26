@@ -1,7 +1,20 @@
 ---
 prep: 10 minutes
 cook: 1 minute
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - onion
+  - lemon
+  - yogurt
 ---
+
+
 
 # Pakora Sauce
 

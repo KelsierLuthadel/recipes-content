@@ -1,7 +1,28 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - yogurt
+  - complex
 ---
+
+
 
 # Chicken Dopiaza
 

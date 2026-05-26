@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - spices
+  - ginger
+  - coriander
+  - chili
 ---
+
+
 
 # Berbere
 

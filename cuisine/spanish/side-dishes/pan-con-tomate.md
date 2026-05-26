@@ -1,7 +1,20 @@
 ---
 prep: 5 minutes
 cook: 4 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - garlic
+  - tomato
 ---
+
+
 
 # Pan Con Tomate
 

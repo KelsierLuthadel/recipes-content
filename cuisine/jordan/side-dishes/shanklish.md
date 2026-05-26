@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes (uses store-bought shanklish or labneh-aged shortcut)
 cook: 0 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - onion
+  - tomato
+  - cheese
+  - chili
 ---
+
+
 
 # Shanklish
 

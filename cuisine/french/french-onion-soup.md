@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 1 ¼ hours
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - onion
+  - garlic
+  - butter
+  - cheese
+  - complex
 ---
+
+
 
 # French Onion Soup
 

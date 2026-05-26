@@ -1,6 +1,20 @@
 ---
 prep: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - spices
+  - coriander
+  - curry
 ---
+
+
 
 # Madras Spice Mix
 

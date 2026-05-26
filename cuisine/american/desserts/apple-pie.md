@@ -1,7 +1,21 @@
 ---
 prep: 1 hour (plus 1 hour chilling)
 cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - complex
+  - halloween
 ---
+
+
 
 # Apple Pie
 

@@ -1,7 +1,21 @@
 ---
 prep: 5 minutes
 cook: 7 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - beef
+  - rice
+  - cream
+  - cheese
 ---
+
+
 
 # Fiery Beef Burrito
 

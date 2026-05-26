@@ -1,7 +1,21 @@
 ---
 prep: 30 minutes
 cook: 25 minutes (plus 4 hours chilling)
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lime
+  - butter
+  - cream
+  - complex
 ---
+
+
 
 # Key Lime Pie
 

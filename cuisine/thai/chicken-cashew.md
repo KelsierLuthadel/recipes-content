@@ -1,7 +1,30 @@
 ---
 prep: 20 minutes
 cook: 10 minutes
+allergens:
+  - tree-nuts
+  - soy
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - nuts
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Chicken with Cashews
 

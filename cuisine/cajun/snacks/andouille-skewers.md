@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes
 cook: 12 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - quick
+  - snack
+  - make-ahead
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - butter
 ---
+
+
 
 # Andouille Skewers
 

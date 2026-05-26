@@ -1,6 +1,22 @@
 ---
 prep: 10 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - garlic
+  - ginger
+  - lime
+  - yogurt
+  - chili
 ---
+
+
 
 # Mint Chutney
 

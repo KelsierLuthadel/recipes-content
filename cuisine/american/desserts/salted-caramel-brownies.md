@@ -1,7 +1,21 @@
 ---
 prep: 20 minutes (plus 10 minutes for the caramel)
 cook: 32 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cream
+  - chocolate
 ---
+
+
 
 # Salted Caramel Brownies
 

@@ -1,7 +1,34 @@
 ---
 prep: 15 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - tree-nuts
+  - fish
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - pork
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - nuts
+  - chili
 ---
+
+
 
 # Glass Noodle Salad
 

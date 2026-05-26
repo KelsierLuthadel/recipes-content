@@ -1,7 +1,24 @@
 ---
 prep: 20 minutes
 cook: 3 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - quick
+  - meals
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - spinach
+  - cream
+  - cheese
 ---
+
+
 
 # Rasta Pasta
 

@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 20 minutes (for the rice)
+allergens:
+  - soy
+  - sesame
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - snack
+  - meat
+  - fish
+  - salmon
+  - rice
+  - soy-sauce
 ---
+
+
 
 # Onigiri
 

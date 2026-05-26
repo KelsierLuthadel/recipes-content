@@ -1,7 +1,30 @@
 ---
 prep: 10 Minutes
 cook: 10 Minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - lamb
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Vindaloo 
 

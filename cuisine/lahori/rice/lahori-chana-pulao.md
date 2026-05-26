@@ -1,7 +1,28 @@
 ---
 prep: 15 minutes (plus overnight soak and 30 minutes rice soak)
 cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - butter
+  - chickpea
+  - chili
+  - complex
 ---
+
+
 
 # Lahori Chana Pulao
 

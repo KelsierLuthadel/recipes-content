@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes
 cook: 35 minutes
+allergens:
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - meat
+  - fish
+  - beef
+  - rice
+  - onion
+  - garlic
+  - chili
 ---
+
+
 
 # Okra Soup
 

@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes
 cook: 10 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - beef
+  - onion
+  - garlic
+  - ginger
+  - soy-sauce
 ---
+
+
 
 # Tibetan Momo Burger
 

@@ -1,6 +1,19 @@
 ---
 prep: 15 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - cream
+  - cheese
+  - nuts
 ---
+
+
 
 # Mascarpone with Dates and Candied Peel
 

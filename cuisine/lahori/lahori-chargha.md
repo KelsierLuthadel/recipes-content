@@ -1,7 +1,28 @@
 ---
 prep: 20 minutes (plus 4 hours marinade)
 cook: 1 hour 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - yogurt
+  - complex
 ---
+
+
 
 # Lahori Chargha
 

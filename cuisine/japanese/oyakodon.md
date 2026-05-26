@@ -1,7 +1,24 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - eggs
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - rice
+  - onion
+  - soy-sauce
 ---
+
+
 
 # Oyakodon
 

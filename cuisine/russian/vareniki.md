@@ -1,7 +1,21 @@
 ---
 prep: 50 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - make-ahead
+  - meals
+  - eggs
+  - onion
+  - potato
+  - butter
 ---
+
+
 
 # Vareniki
 

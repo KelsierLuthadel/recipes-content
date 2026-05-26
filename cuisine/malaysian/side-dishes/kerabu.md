@@ -1,7 +1,27 @@
 ---
 prep: 20 minutes
 cook: 8 minutes
+allergens:
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - coconut
+  - lime
+  - chili
 ---
+
+
 
 # Kerabu Kacang Botol
 

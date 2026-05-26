@@ -1,7 +1,27 @@
 ---
 prep: 25 minutes (plus overnight marinating)
 cook: 12 minutes on the grill
+allergens:
+  - dairy
+  - soy
+  - fish
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - asian
+  - bbq
+  - fish
+  - rice
+  - coconut
+  - lime
+  - chili
+  - soy-sauce
+  - curry
 ---
+
+
 
 # Green Curry BBQ Aubergine
 

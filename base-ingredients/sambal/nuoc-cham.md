@@ -1,6 +1,20 @@
 ---
 prep: 5 minutes
+allergens:
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - fish
+  - garlic
+  - lime
+  - chili
 ---
+
+
 
 # Nuoc Cham
 

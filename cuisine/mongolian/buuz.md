@@ -1,7 +1,24 @@
 ---
 prep: 1 hour
 cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - soy
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - yogurt
+  - complex
 ---
+
+
 
 # Buuz
 

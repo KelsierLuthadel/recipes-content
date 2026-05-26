@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - meals
+  - garlic
+  - cheese
+  - chili
 ---
+
+
 
 # Kale and Chilli Calzone
 

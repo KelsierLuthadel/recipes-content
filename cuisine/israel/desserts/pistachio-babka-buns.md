@@ -1,7 +1,23 @@
 ---
 prep: 30 minutes (plus 45 minutes first rise, 6 hours cold proof, 1 hour 30 minutes second rise)
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - honey
+  - nuts
+  - complex
 ---
+
+
 
 # Pistachio Babka Buns
 

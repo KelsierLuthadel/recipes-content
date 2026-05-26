@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes
 cook: 17 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - dessert
+  - lemon
+  - honey
 ---
+
+
 
 # Sweet Spiced Roasted Peaches
 

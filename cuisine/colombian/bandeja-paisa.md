@@ -1,7 +1,22 @@
 ---
 prep: 30 minutes (assumes beans and pork belly cooked)
 cook: 30 minutes
+allergens:
+  - eggs
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - rice
+  - onion
 ---
+
+
 
 # Bandeja Paisa
 

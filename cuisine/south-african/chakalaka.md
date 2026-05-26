@@ -1,7 +1,28 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - carrot
+  - coriander
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Chakalaka
 

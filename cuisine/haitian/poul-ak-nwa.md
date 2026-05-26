@@ -1,7 +1,27 @@
 ---
 prep: 30 minutes (plus 3-4 hours marinating)
 cook: 45 minutes
+allergens:
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - nuts
+  - chili
+  - complex
 ---
+
+
 
 # Poul Ak Nwa
 

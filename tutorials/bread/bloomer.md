@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Bloomer
 
 ![A bloomer loaf](resources/bloomer-loaf.jpg)

@@ -1,7 +1,20 @@
 ---
 prep: 20 minutes
 cook: 1 hour (plus 6 hours chilling)
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - complex
 ---
+
+
 
 # Flan Cubano
 

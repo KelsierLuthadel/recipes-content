@@ -1,7 +1,22 @@
 ---
 prep: 10 minutes
 cook: 15 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - meals
+  - eggs
+  - onion
+  - potato
+  - spinach
+  - cheese
 ---
+
+
 
 # Frittata
 

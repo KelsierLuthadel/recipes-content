@@ -1,7 +1,28 @@
 ---
 prep: 20 minutes
 cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - snack
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - cream
+  - cheese
+  - chili
+  - complex
 ---
+
+
 
 # Tostadas
 

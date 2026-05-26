@@ -1,7 +1,23 @@
 ---
 prep: 5 minutes
 cook: 8 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - shellfish
+tags:
+  - spicy
+  - quick
+  - starter
+  - make-ahead
+  - asian
+  - fish
+  - eggs
+  - chili
 ---
+
+
 
 # Salt and Pepper Fried Calamari
 

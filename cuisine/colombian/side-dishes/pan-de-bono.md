@@ -1,7 +1,18 @@
 ---
 prep: 20 minutes (plus 30 minutes resting)
 cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - sides
+  - eggs
+  - cheese
 ---
+
+
 
 # Pan de Bono
 

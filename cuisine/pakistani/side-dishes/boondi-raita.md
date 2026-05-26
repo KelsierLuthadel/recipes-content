@@ -1,7 +1,22 @@
 ---
 prep: 10 minutes
 cook: 0 minutes (using ready-made boondi)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - coriander
+  - yogurt
+  - chili
+  - diwali
+  - holi
 ---
+
+
 
 # Boondi Raita
 

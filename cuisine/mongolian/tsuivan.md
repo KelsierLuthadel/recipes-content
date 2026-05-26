@@ -1,7 +1,23 @@
 ---
 prep: 40 minutes (mostly noodle making)
 cook: 35 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - one-pan
+  - meals
+  - meat
+  - onion
+  - garlic
+  - carrot
+  - soy-sauce
 ---
+
+
 
 # Tsuivan
 

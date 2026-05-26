@@ -1,7 +1,31 @@
 ---
 prep: 20 minutes
 cook: 8 minutes
+allergens:
+  - peanuts
+  - soy
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - ginger
+  - nuts
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Kung Pao Shrimp
 

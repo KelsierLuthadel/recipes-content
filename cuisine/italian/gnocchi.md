@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes
 cook: 3 hours
+allergens:
+  - gluten
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - meals
+  - eggs
+  - potato
+  - complex
 ---
+
+
 
 # Gnocchi
 

@@ -1,7 +1,34 @@
 ---
 prep: 4-6 hours
 cook: 45 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - asian
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - yogurt
+  - complex
+  - diwali
+  - eid-al-adha
+  - muslim
+  - hindu
 ---
+
+
 
 # Biryani
 

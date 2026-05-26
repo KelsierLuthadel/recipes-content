@@ -1,7 +1,22 @@
 ---
 prep: 10 minutes
 cook: 11 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - meat
+  - chicken
+  - butter
+  - chili
 ---
+
+
 
 # Blackened Chicken
 

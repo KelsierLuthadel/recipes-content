@@ -1,7 +1,29 @@
 ---
 prep: 20 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - bbq
+  - meat
+  - chicken
+  - onion
+  - tomato
+  - lemon
+  - complex
+  - eid-al-adha
+  - passover
+  - rosh-hashanah
+  - sukkot
+  - jewish
 ---
+
+
 
 # Jerusalem Mixed Grill
 

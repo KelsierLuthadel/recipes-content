@@ -1,7 +1,22 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - dairy
+  - fish
+  - garlic
+tags:
+  - gluten-free
+  - quick
+  - meals
+  - fish
+  - rice
+  - garlic
+  - lemon
+  - butter
 ---
+
+
 
 # Pan-Fried Barramundi
 

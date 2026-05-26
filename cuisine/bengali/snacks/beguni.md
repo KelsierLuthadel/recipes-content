@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes (plus 30 minutes salting)
 cook: 20 minutes
+allergens:
+  - gluten
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - snack
+  - onion
+  - ginger
+  - lime
+  - coriander
+  - chickpea
+  - chili
+  - complex
 ---
+
+
 
 # Beguni
 

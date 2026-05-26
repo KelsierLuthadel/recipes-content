@@ -1,6 +1,17 @@
 ---
 prep: 15 minutes
+allergens:
+  - gluten
+  - tree-nuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - nuts
 ---
+
+
 
 # Tant Pour Tant
 

@@ -1,7 +1,26 @@
 ---
 prep: 10 minutes
 cook: 35 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - chili
+  - complex
+  - halloween
 ---
+
+
 
 # Beef Chili
 

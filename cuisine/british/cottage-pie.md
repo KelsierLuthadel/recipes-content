@@ -1,7 +1,27 @@
 ---
 prep: 25 minutes
 cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - butter
+  - cheese
+  - complex
+  - st-patricks
 ---
+
+
 
 # Cottage Pie
 

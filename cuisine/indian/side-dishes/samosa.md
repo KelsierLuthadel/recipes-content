@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes
 cook: 10 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - potato
+  - coriander
+  - curry
 ---
+
+
 
 # Samosas
 

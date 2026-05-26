@@ -1,7 +1,27 @@
 ---
 prep: 25 minutes (plus 1 hour marinating)
 cook: 2 hours
+allergens:
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - yogurt
+  - complex
 ---
+
+
 
 # Kosha Mangsho
 

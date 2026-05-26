@@ -1,7 +1,29 @@
 ---
 prep: 10 minutes
 cook: 15 minutes (plus 25 minutes if cooking rice from scratch)
+allergens:
+  - tree-nuts
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - lentils
+  - rice
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - curry
 ---
+
+
 
 # Coconut Rice
 

@@ -1,6 +1,22 @@
 ---
 prep: 8 hours
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - lemon
+  - chickpea
+  - complex
 ---
+
+
 
 # Turmeric Chickpea Purée
 

@@ -1,7 +1,19 @@
 ---
 prep: 5 minutes
 cook: 10 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - quick
+  - snack
+  - chili
 ---
+
+
 
 # Chouriço Assado
 

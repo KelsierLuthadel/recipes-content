@@ -1,7 +1,27 @@
 ---
 prep: 10 minutes
 cook: 15 minutes
+allergens:
+  - peanuts
+  - sesame
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - fish
+  - prawn
+  - garlic
+  - lime
+  - nuts
+  - chili
 ---
+
+
 
 # Burmese Tea-Leaf Snack Mix
 

@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+tags:
+  - meals
+  - meat
+  - fish
+  - potato
+  - lemon
+  - butter
+  - cream
+  - complex
 ---
+
+
 
 # Fish and Chips
 

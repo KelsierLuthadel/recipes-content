@@ -1,7 +1,26 @@
 ---
 prep: 20 minutes
 cook: 3 hours
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - pork
+  - rice
+  - onion
+  - garlic
+  - butter
+  - complex
 ---
+
+
 
 # Chicken and Sausage Gumbo
 

@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 20 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - quick
+  - one-pan
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - butter
 ---
+
+
 
 # Southern Fried Cabbage and Sausage
 

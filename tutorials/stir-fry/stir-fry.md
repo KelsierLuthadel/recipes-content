@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Stir-Fry and Wok Work
 
 ![Wok](resources/wok.jpg)

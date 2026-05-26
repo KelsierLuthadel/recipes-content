@@ -1,7 +1,19 @@
 ---
 prep: 15 minutes (plus 30 minutes rest)
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - coconut
+  - complex
 ---
+
+
 
 # Alle Belle
 

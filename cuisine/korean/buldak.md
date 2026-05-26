@@ -1,7 +1,30 @@
 ---
 prep: 15 minutes (plus 1 hour marinating)
 cook: 20 minutes
+allergens:
+  - dairy
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - cheese
+  - honey
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Buldak
 

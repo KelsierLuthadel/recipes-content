@@ -1,7 +1,24 @@
 ---
 prep: 30 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - fish
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - fish
+  - eggs
+  - potato
+  - lemon
+  - coriander
+  - complex
 ---
+
+
 
 # Bourek Tunisien
 

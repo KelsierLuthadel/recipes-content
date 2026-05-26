@@ -1,7 +1,21 @@
 ---
 prep: 20 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+tags:
+  - meals
+  - fish
+  - salmon
+  - eggs
+  - onion
+  - potato
 ---
+
+
 
 # Latkes
 

@@ -1,7 +1,24 @@
 ---
 prep: 10 minutes (plus 30 minutes rice soaking)
 cook: 20 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - sides
+  - asian
+  - eggs
+  - rice
+  - onion
+  - coconut
+  - lime
+  - butter
 ---
+
+
 
 # Nasi Kuning (Yellow Rice)
 

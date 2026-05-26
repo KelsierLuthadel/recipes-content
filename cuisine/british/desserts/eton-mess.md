@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes (plus 30 min strawberry maceration)
 cook: 0 minutes (assuming you're using ready-made meringue nests)
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - lemon
+  - cream
+  - nuts
+  - easter
 ---
+
+
 
 # Eton Mess
 

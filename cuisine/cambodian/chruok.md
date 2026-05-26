@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes (plus 1 hour to pickle)
 cook: 0 minutes
+allergens:
+  - soy
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - garlic
+  - ginger
+  - carrot
+  - lime
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Chruok
 

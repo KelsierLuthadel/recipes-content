@@ -1,7 +1,32 @@
 ---
 prep: 30 minutes (plus 4 hours marinating)
 cook: 1 hour
+allergens:
+  - dairy
+  - soy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lime
+  - coriander
+  - cheese
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Cheesy Jerk Chicken Nachos
 

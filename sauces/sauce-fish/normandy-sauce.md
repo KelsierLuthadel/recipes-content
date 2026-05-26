@@ -1,7 +1,22 @@
 ---
 prep: 10 minutes
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - shellfish
+tags:
+  - fish
+  - eggs
+  - mushroom
+  - lemon
+  - butter
+  - cream
 ---
+
+
 
 # Normandy Sauce
 

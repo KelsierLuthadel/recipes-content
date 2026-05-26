@@ -1,7 +1,22 @@
 ---
 prep: 25 minutes
 cook: 2 hours 30 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - rice
+  - onion
+  - lime
+  - coriander
+  - complex
 ---
+
+
 
 # Ghormeh Sabzi
 

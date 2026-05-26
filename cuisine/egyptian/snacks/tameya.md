@@ -1,7 +1,27 @@
 ---
 prep: 30 minutes (plus overnight bean soak)
 cook: 12 minutes
+allergens:
+  - gluten
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Tameya
 

@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes
 cook: 15 minutes
+allergens:
+  - dairy
+  - eggs
+  - fish
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - meat
+  - fish
+  - pork
+  - salmon
+  - eggs
+  - lemon
+  - butter
+  - chili
 ---
+
+
 
 # Eggs Benedict
 

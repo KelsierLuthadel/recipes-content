@@ -1,7 +1,22 @@
 ---
 prep: 20 minutes (plus overnight soak)
 cook: 3 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - onion
+  - garlic
+  - complex
 ---
+
+
 
 # Corn Soup
 

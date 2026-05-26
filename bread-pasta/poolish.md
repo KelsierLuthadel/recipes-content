@@ -1,6 +1,16 @@
 ---
 prep: 5 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - make-ahead
 ---
+
+
 
 # Poolish (Bread Pre-Ferment)
 

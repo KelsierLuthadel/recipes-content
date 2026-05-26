@@ -1,7 +1,26 @@
 ---
 prep: 1 hour 10 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - peanuts
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - snack
+  - meat
+  - beef
+  - pork
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - complex
 ---
+
+
 
 # Fried Börek with Meat Filling
 

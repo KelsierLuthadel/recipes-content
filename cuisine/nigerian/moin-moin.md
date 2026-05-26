@@ -1,7 +1,30 @@
 ---
 prep: 30 minutes (plus 1 hour bean-soaking)
 cook: 1 hour
+allergens:
+  - gluten
+  - eggs
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - chili
+  - complex
 ---
+
+
 
 # Moin Moin
 

@@ -1,7 +1,23 @@
 ---
 prep: 20 minutes
 cook: 6 hours (low) or 4 hours (high)
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - lime
+  - coriander
+  - complex
 ---
+
+
 
 # Slow-Cooker Jerk Chicken Tacos
 

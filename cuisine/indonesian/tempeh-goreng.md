@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes (plus 30 min marinade)
 cook: 10 minutes
+allergens:
+  - soy
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - rice
+  - garlic
+  - coriander
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Tempeh Goreng
 

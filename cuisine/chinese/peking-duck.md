@@ -1,7 +1,24 @@
 ---
 prep: 15 minutes
 cook: 2 minutes
+allergens:
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - duck
+  - onion
+  - lemon
+  - honey
+  - soy-sauce
 ---
+
+
 
 # Peking Duck
 

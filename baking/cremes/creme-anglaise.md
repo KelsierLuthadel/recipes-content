@@ -1,6 +1,18 @@
 ---
 prep: 15 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - baking
+  - eggs
 ---
+
+
 
 # Crème Anglaise
 

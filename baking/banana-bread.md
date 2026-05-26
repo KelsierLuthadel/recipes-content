@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 55 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - make-ahead
+  - baking
+  - eggs
+  - butter
+  - nuts
 ---
+
+
 
 # Banana Bread
 

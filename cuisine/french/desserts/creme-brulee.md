@@ -1,7 +1,20 @@
 ---
 prep: 25 minutes (plus 4+ hours chilling)
 cook: 45 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - eggs
+  - cream
+  - valentines
 ---
+
+
 
 # Crème Brûlée
 

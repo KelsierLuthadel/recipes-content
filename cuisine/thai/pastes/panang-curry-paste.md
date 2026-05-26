@@ -1,7 +1,28 @@
 ---
 prep: 40-60 minutes
 cook: 5 minutes
+allergens:
+  - peanuts
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - asian
+  - pastes
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - curry
 ---
+
+
 
 # Panang Curry Paste
 

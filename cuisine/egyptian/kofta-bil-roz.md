@@ -1,7 +1,28 @@
 ---
 prep: 25 minutes
 cook: 50 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - complex
 ---
+
+
 
 # Kofta Bil Roz
 

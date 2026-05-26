@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes
 cook: 1 minute
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - baking
+  - eggs
+  - butter
 ---
+
+
 
 # Pâte à Choux (Choux Pastry)
 

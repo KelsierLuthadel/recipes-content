@@ -1,7 +1,27 @@
 ---
 prep: 20 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - sesame
+  - meat
+  - garlic
+tags:
+  - snack
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - lemon
+  - yogurt
+  - nuts
+  - complex
 ---
+
+
 
 # Arayes
 

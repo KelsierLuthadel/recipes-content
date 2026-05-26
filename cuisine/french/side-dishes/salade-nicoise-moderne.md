@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+  - fish
+  - mustard
+  - garlic
+tags:
+  - sides
+  - meat
+  - fish
+  - eggs
+  - garlic
+  - tomato
+  - potato
+  - butter
+  - complex
 ---
+
+
 
 # Salade Niçoise with Seared Tuna
 

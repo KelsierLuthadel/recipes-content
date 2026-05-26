@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 2 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - onion
+  - coriander
+  - chickpea
+  - curry
 ---
+
+
 
 # Onion Bhajis
 

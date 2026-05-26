@@ -1,7 +1,30 @@
 ---
 prep: 1 hour (plus 2 hours proving)
 cook: 2 hours
+allergens:
+  - gluten
+  - dairy
+  - peanuts
+  - soy
+  - meat
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - pork
+  - onion
+  - ginger
+  - coriander
+  - butter
+  - nuts
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Roujiamo (Xi'an Chinese Hamburger)
 

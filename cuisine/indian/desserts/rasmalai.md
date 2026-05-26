@@ -1,7 +1,24 @@
 ---
 prep: 1 hour
 cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - asian
+  - lemon
+  - nuts
+  - complex
+  - diwali
+  - holi
+  - hindu
 ---
+
+
 
 # Rasmalai
 

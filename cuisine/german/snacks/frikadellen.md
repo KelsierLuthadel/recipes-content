@@ -1,7 +1,24 @@
 ---
 prep: 20 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+tags:
+  - snack
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - butter
+  - complex
 ---
+
+
 
 # Frikadellen
 

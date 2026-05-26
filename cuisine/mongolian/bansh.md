@@ -1,7 +1,25 @@
 ---
 prep: 45 minutes
 cook: 12 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Bansh
 

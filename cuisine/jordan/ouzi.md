@@ -1,7 +1,25 @@
 ---
 prep: 40 minutes
 cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - sesame
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - nuts
+  - complex
 ---
+
+
 
 # Ouzi
 

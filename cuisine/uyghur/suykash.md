@@ -1,7 +1,24 @@
 ---
 prep: 30 minutes (plus 15 minutes dough rest)
 cook: 30 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - complex
 ---
+
+
 
 # Suykash
 

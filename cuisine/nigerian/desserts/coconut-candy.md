@@ -1,7 +1,18 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - dessert
+  - ginger
+  - coconut
+  - honey
 ---
+
+
 
 # Nigerian Coconut Candy
 

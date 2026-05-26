@@ -1,7 +1,20 @@
 ---
 prep: 10 minutes (plus 15 minutes resting)
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - spicy
+  - sides
+  - eggs
+  - onion
+  - chili
 ---
+
+
 
 # Hush Puppies
 

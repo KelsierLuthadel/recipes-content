@@ -1,3 +1,14 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+---
+
+
 # Scoring and Oven Spring
 
 ![Bloomer scored](resources/scoring.jpg)

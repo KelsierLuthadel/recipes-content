@@ -1,7 +1,19 @@
 ---
 prep: 25 minutes
 cook: 60 minutes
+allergens:
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meat
 ---
+
+
 
 # Balti Chicken Stock
 

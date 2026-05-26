@@ -1,7 +1,19 @@
 ---
 prep: 25 minutes (plus 20 minutes soaking)
 cook: 0 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - sides
+  - onion
+  - tomato
+  - lemon
 ---
+
+
 
 # Tabbouleh Iraqi
 

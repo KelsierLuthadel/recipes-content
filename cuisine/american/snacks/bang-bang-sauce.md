@@ -1,7 +1,20 @@
 ---
 prep: 3 minutes
 cook: None
+allergens:
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - eggs
+  - chili
 ---
+
+
 
 # Bang Bang Sauce
 

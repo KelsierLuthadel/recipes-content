@@ -1,7 +1,19 @@
 ---
 prep: 5 minutes
 cook: 30 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - peanuts
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - butter
+  - nuts
 ---
+
+
 
 # Halwo
 

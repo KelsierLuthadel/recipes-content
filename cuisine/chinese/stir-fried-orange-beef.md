@@ -1,7 +1,27 @@
 ---
 prep: 10 minutes
 cook: 2 minutes
+allergens:
+  - peanuts
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - beef
+  - ginger
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Stir-Fried Beef with Orange
 

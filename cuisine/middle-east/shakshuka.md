@@ -1,7 +1,26 @@
 ---
 prep: 10 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - meals
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - cheese
+  - chili
+  - complex
 ---
+
+
 
 # Shakshuka
 

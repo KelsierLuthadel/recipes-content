@@ -1,7 +1,27 @@
 ---
 prep: 40 minutes (plus 30 minutes chilling)
 cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - soy
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Beef Meat Pie
 

@@ -1,6 +1,28 @@
 ---
 prep: 10 minutes
+allergens:
+  - eggs
+  - peanuts
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - pork
+  - eggs
+  - rice
+  - onion
+  - soy-sauce
+  - lunar-new-year
 ---
+
+
 
 # Fried Rice
 

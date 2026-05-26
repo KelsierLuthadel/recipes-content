@@ -1,7 +1,22 @@
 ---
 prep: 10 minutes
 cook: 40 minutes
+allergens:
+  - dairy
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - onion
+  - garlic
+  - potato
+  - butter
+  - cream
 ---
+
+
 
 # Leek and Potato Soup
 

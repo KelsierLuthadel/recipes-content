@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - chocolate
+  - halloween
 ---
+
+
 
 # Chocolate Brownies
 

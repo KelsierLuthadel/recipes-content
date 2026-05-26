@@ -1,7 +1,28 @@
 ---
 prep: 10 minutes
 cook: 40 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - cheese
+  - chili
+  - complex
+  - day-of-the-dead
 ---
+
+
 
 # Tinga de Pollo
 

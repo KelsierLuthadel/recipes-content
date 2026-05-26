@@ -1,7 +1,29 @@
 ---
 prep: 15 minutes (plus 1 hour marinating)
 cook: 15 minutes
+allergens:
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - honey
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Crispy Honey Garlic Chicken
 

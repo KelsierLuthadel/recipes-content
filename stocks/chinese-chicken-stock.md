@@ -1,7 +1,17 @@
 ---
 prep: 20 minutes
 cook: 2-4 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meat
+  - complex
 ---
+
+
 
 # Chinese Chicken Stock
 

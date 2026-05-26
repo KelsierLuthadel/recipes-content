@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes
 cook: 1 hour
+allergens:
+  - dairy
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - onion
+  - garlic
+  - carrot
+  - butter
+  - cream
+  - honey
+  - complex
+  - halloween
 ---
+
+
 
 # Pumpkin Soup
 

@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+tags:
+  - quick
+  - snack
+  - meat
+  - pork
+  - butter
+  - cheese
 ---
+
+
 
 # Croque Monsieur
 

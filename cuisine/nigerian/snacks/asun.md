@@ -1,7 +1,28 @@
 ---
 prep: 20 minutes
 cook: 1 hour 15 minutes
+allergens:
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - meat
+  - fish
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Asun (Spicy Smoky Goat Meat)
 

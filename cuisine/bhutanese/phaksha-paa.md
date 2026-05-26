@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes
 cook: 1 hour
+allergens:
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Phaksha Paa
 

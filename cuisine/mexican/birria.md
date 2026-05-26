@@ -1,7 +1,28 @@
 ---
 prep: 30 minutes
 cook: 3 hours 30 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - chili
+  - complex
+  - day-of-the-dead
 ---
+
+
 
 # Birria
 

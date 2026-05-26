@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 50 minutes (plus 4 hours chilling)
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - asian
+  - eggs
+  - coconut
+  - lemon
+  - complex
 ---
+
+
 
 # Bánh Flan
 

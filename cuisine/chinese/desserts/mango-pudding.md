@@ -1,6 +1,21 @@
 ---
 prep: 20 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - make-ahead
+  - asian
+  - coconut
+  - lime
+  - cream
+  - lunar-new-year
 ---
+
+
 
 # Mango Pudding
 

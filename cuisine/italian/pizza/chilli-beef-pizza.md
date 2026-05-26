@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes
 cook: 33 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - cheese
+  - chili
+  - complex
 ---
+
+
 
 # Chilli Beef Pizza
 

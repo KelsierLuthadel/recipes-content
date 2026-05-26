@@ -1,7 +1,16 @@
 ---
 prep: 30 minutes
 cook: 5 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - asian
 ---
+
+
 
 # Rotis
 

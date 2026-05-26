@@ -1,7 +1,30 @@
 ---
 prep: 25 minutes (plus 30 min soaking)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - snack
+  - make-ahead
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - lemon
+  - coriander
+  - yogurt
+  - chili
+  - complex
 ---
+
+
 
 # Aroog
 

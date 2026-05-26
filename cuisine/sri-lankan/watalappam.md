@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 50 minutes (plus 2 hours chilling)
+allergens:
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - meals
+  - eggs
+  - coconut
+  - nuts
+  - complex
 ---
+
+
 
 # Watalappam
 

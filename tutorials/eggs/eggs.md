@@ -1,3 +1,14 @@
+---
+allergens:
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - eggs
+---
+
+
 # Eggs Course
 
 ![Eggs](resources/eggs.jpg)

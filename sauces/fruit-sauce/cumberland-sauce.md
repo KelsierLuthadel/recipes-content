@@ -1,7 +1,18 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meat
+  - onion
+  - lemon
 ---
+
+
 
 # Cumberland Sauce
 

@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 14 minutes
+allergens:
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - fish
+  - garlic
+  - lime
+  - chili
 ---
+
+
 
 # Sambal Belacan
 

@@ -1,7 +1,28 @@
 ---
 prep: 1 hour
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - lamb
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - butter
+  - yogurt
+  - nuts
+  - complex
 ---
+
+
 
 # Shish Barak
 

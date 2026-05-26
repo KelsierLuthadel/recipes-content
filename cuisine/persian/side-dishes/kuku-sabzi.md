@@ -1,7 +1,27 @@
 ---
 prep: 25 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - eggs
+  - onion
+  - tomato
+  - coriander
+  - butter
+  - yogurt
+  - chickpea
+  - nuts
+  - complex
 ---
+
+
 
 # Kuku Sabzi
 

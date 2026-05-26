@@ -1,7 +1,26 @@
 ---
 prep: 30 minutes (plus 1 hour resting)
 cook: 45 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - meals
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chickpea
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Buss-Up-Shut Roti with Curry
 

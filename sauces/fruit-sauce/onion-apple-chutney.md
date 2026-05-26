@@ -1,7 +1,21 @@
 ---
 prep: 20 minutes
 cook: 60 minutes
+allergens:
+  - peanuts
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - onion
+  - garlic
+  - tomato
 ---
+
+
 
 # Onion and Green Apple Chutney
 

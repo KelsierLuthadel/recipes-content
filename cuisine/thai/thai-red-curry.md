@@ -1,7 +1,32 @@
 ---
 prep: 25 minutes
 cook: 20 minutes
+allergens:
+  - dairy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - prawn
+  - onion
+  - garlic
+  - coconut
+  - lime
+  - coriander
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Thai Red Curry
 

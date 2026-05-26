@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes
 cook: 5 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - meat
+  - pork
 ---
+
+
 
 # Asparagus and Prosciutto Bundles
 

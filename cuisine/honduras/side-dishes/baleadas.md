@@ -1,7 +1,24 @@
 ---
 prep: 25 minutes (plus 30 minutes resting)
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - make-ahead
+  - sides
+  - meat
+  - chicken
+  - beef
+  - pork
+  - eggs
+  - cream
+  - cheese
 ---
+
+
 
 # Baleadas
 

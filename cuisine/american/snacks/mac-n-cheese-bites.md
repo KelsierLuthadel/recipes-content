@@ -1,7 +1,25 @@
 ---
 prep: 30 minutes (plus 4 hours chilling)
 cook: 20 minutes (in batches)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - make-ahead
+  - eggs
+  - butter
+  - cheese
+  - chili
+  - complex
 ---
+
+
 
 # Mac 'n' Cheese Bites
 

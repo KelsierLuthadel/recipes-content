@@ -1,6 +1,21 @@
 ---
 prep: 10 minutes
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - spices
+  - onion
+  - garlic
 ---
+
+
 
 # Cajun Spice Mix
 

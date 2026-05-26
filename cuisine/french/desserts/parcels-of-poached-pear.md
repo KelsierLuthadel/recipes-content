@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes
 cook: 11 minutes
+allergens:
+  - gluten
+  - peanuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - dessert
 ---
+
+
 
 # Parcels of Poached Pears
 

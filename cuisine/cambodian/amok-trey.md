@@ -1,7 +1,34 @@
 ---
 prep: 30 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+  - eggs
+  - soy
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - prawn
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - coconut
+  - spinach
+  - lime
+  - coriander
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Amok Trey
 

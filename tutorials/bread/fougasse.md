@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Fougasse
 
 ![A fougasse, slashed and baked](resources/fougasse-loaf.jpg)

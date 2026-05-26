@@ -1,6 +1,25 @@
 ---
 prep: 15 minutes
+allergens:
+  - fish
+  - shellfish
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - meat
+  - fish
+  - prawn
+  - salmon
+  - onion
+  - tomato
+  - lime
+  - chili
 ---
+
+
 
 # Ceviche
 

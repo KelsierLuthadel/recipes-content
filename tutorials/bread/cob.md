@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Cob or Boule
 
 ![A round cob loaf](resources/cob-loaf.jpg)

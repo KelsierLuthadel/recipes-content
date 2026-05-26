@@ -1,7 +1,25 @@
 ---
 prep: 45 minutes (plus 35 minutes dough rest)
 cook: 25 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - chili
+  - complex
 ---
+
+
 
 # Laghman
 

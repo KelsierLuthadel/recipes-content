@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 18 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - onion
+  - garlic
+  - spinach
+  - cheese
+  - nuts
 ---
+
+
 
 # Spinach and Pine Nut Pinsa Romana
 

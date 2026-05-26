@@ -1,7 +1,26 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - complex
 ---
+
+
 
 # Chicken Chasni
 

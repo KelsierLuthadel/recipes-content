@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - meat
+  - onion
+  - coconut
+  - butter
+  - nuts
+  - curry
 ---
+
+
 
 # Fruity Curry Sauce
 

@@ -1,7 +1,23 @@
 ---
 prep: 20 minutes (plus 6+ hour churning / freezing)
 cook: 8 minutes (for the custard base)
+allergens:
+  - dairy
+  - peanuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - asian
+  - rice
+  - coconut
+  - honey
+  - nuts
+  - complex
 ---
+
+
 
 # Thai Coconut Ice Cream
 

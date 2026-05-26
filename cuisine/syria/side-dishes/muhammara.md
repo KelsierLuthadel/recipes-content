@@ -1,7 +1,23 @@
 ---
 prep: 15 minutes (plus 30 minutes resting)
 cook: 25 minutes (if roasting the peppers fresh)
+allergens:
+  - gluten
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - sides
+  - garlic
+  - lemon
+  - nuts
+  - chili
 ---
+
+
 
 # Muhammara
 

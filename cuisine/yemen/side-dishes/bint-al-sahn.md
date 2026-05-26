@@ -1,7 +1,20 @@
 ---
 prep: 40 minutes (plus 1 hour resting)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - sides
+  - eggs
+  - butter
+  - honey
+  - complex
 ---
+
+
 
 # Bint Al-Sahn
 

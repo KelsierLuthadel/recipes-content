@@ -1,7 +1,28 @@
 ---
 prep: 25 minutes (plus 2 hours marinating, ideally overnight)
 cook: 2 hours 30 minutes
+allergens:
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - lime
+  - chili
+  - curry
+  - complex
+  - kwanzaa
 ---
+
+
 
 # Jamaican Goat Curry
 

@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+  - fish
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - yogurt
+  - chili
+  - complex
 ---
+
+
 
 # Doi Maach
 

@@ -1,6 +1,16 @@
 ---
 prep: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
 ---
+
+
 
 # Barbecue Spice Mix & Marinade
 

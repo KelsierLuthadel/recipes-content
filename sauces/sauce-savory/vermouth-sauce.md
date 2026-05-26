@@ -1,7 +1,19 @@
 ---
 prep: 5 minutes
 cook: 20 minutes
+allergens:
+  - dairy
+  - fish
+tags:
+  - gluten-free
+  - quick
+  - fish
+  - onion
+  - butter
+  - cream
 ---
+
+
 
 # Vermouth Sauce
 

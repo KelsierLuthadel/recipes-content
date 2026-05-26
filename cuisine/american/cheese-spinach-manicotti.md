@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - make-ahead
+  - meals
+  - garlic
+  - tomato
+  - spinach
+  - cheese
 ---
+
+
 
 # Three-Cheese Spinach Manicotti
 

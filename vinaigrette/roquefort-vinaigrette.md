@@ -1,6 +1,17 @@
 ---
 prep: 10 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - cheese
+  - nuts
 ---
+
+
 
 # Roquefort Vinaigrette
 

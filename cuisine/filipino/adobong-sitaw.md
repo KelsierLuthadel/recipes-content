@@ -1,7 +1,24 @@
 ---
 prep: 5 minutes
 cook: 20 minutes
+allergens:
+  - soy
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - meals
+  - rice
+  - onion
+  - garlic
+  - soy-sauce
 ---
+
+
 
 # Adobong Sitaw
 

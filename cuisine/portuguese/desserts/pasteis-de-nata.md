@@ -1,7 +1,20 @@
 ---
 prep: 30 minutes (plus chilling)
 cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - pastes
+  - eggs
+  - lemon
+  - butter
 ---
+
+
 
 # Pastéis de Nata
 

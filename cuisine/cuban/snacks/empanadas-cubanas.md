@@ -1,7 +1,25 @@
 ---
 prep: 40 minutes (plus 30 minutes chilling)
 cook: 25 minutes (including the filling)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - snack
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - butter
+  - complex
 ---
+
+
 
 # Empanadas Cubanas
 

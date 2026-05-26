@@ -1,7 +1,19 @@
 ---
 prep: 5 minutes
 cook: 12 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - coconut
+  - kwanzaa
 ---
+
+
 
 # Fried Plantains
 

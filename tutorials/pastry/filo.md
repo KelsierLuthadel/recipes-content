@@ -1,3 +1,14 @@
+---
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - one-pan
+---
+
+
 # Filo Pastry
 
 ![Filo](resources/filo.jpg)

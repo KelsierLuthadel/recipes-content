@@ -1,7 +1,20 @@
 ---
 prep: 45 minutes (plus 30 minutes resting)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - meals
+  - lemon
+  - butter
+  - honey
+  - complex
 ---
+
+
 
 # Makroud
 

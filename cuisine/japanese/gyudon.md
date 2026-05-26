@@ -1,7 +1,25 @@
 ---
 prep: 5 minutes
 cook: 10 minutes
+allergens:
+  - eggs
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - meat
+  - beef
+  - eggs
+  - rice
+  - onion
+  - ginger
+  - soy-sauce
 ---
+
+
 
 # Gyudon
 

@@ -1,7 +1,17 @@
 ---
 prep: 15 minutes
 cook: 45 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meat
+  - duck
+  - lemon
 ---
+
+
 
 # Bigarade Sauce
 

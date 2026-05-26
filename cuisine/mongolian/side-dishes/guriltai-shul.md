@@ -1,7 +1,21 @@
 ---
 prep: 30 minutes (mostly noodle making)
 cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - meat
+tags:
+  - dairy-free
+  - sides
+  - meat
+  - lamb
+  - onion
+  - potato
+  - carrot
+  - complex
 ---
+
+
 
 # Guriltai Shul
 

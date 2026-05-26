@@ -1,7 +1,17 @@
 ---
 prep: 15 minutes
 cook: 8-10 minutes
+allergens:
+  - gluten
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - quick
+  - eggs
 ---
+
+
 
 # Sponge Fingers
 

@@ -1,7 +1,21 @@
 ---
 prep: 20 minutes
 cook: 2-3 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - eggs
+  - butter
+  - nuts
 ---
+
+
 
 # Biscuit Joconde
 

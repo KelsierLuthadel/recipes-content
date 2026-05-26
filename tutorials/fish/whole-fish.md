@@ -1,3 +1,13 @@
+---
+allergens:
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - fish
+---
+
+
 # Whole Fish
 
 ![Whole fish](resources/whole-fish.jpg)

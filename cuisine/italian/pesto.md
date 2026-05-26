@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - meals
+  - garlic
+  - cheese
+  - nuts
 ---
+
+
 
 # Pesto
 

@@ -1,7 +1,27 @@
 ---
 prep: 25 minutes (plus 1 hour marinating)
 cook: 12 minutes
+allergens:
+  - gluten
+  - peanuts
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - bbq
+  - meat
+  - beef
+  - onion
+  - tomato
+  - ginger
+  - lime
+  - nuts
+  - complex
 ---
+
+
 
 # Suya
 

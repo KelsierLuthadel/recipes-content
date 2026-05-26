@@ -1,7 +1,29 @@
 ---
 prep: 45 minutes (plus 30 minutes pastry rest)
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - spicy
+  - snack
+  - meat
+  - fish
+  - prawn
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - cream
+  - complex
 ---
+
+
 
 # Crawfish Pie (Mini)
 

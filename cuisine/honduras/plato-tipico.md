@@ -1,7 +1,23 @@
 ---
 prep: 30 minutes (assumes refried beans on hand)
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - beef
+  - rice
+  - garlic
+  - lime
+  - cream
+  - complex
 ---
+
+
 
 # Plato Típico Hondureño
 

@@ -1,6 +1,21 @@
 ---
 prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - pork
+  - eggs
+  - tomato
+  - cheese
 ---
+
+
 
 # Ham-Filled Pasta (Mezzelune)
 

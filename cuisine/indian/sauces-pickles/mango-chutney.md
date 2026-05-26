@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 1 hour
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - asian
+  - onion
+  - garlic
+  - ginger
 ---
+
+
 
 # Mango Chutney
 

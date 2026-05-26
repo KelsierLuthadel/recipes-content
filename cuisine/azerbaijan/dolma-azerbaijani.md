@@ -1,7 +1,26 @@
 ---
 prep: 1 hour
 cook: 1 hour
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - lemon
+  - butter
+  - yogurt
+  - complex
 ---
+
+
 
 # Dolma (Azerbaijani Stuffed Vine Leaves)
 

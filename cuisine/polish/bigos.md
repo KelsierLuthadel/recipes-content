@@ -1,7 +1,25 @@
 ---
 prep: 30 minutes
 cook: 3 hours (active); 2-3 days of reheating
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - mushroom
+  - onion
+  - garlic
+  - complex
+  - sukkot
 ---
+
+
 
 # Bigos
 

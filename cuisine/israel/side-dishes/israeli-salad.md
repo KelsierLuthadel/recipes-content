@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes
 cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - onion
+  - tomato
+  - lemon
+  - passover
+  - shavuot
+  - tu-bav
+  - yom-kippur
+  - sukkot
+  - jewish
 ---
+
+
 
 # Israeli Salad
 

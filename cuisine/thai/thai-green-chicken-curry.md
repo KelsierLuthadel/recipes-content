@@ -1,7 +1,26 @@
 ---
 prep: 10 minutes
 cook: 20 minutes
+allergens:
+  - dairy
+  - fish
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - coconut
+  - lime
+  - chili
+  - curry
 ---
+
+
 
 # Thai Green Chicken Curry
 

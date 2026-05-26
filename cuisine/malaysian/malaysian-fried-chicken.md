@@ -1,7 +1,26 @@
 ---
 prep: 10 minutes
 cook: 30 minutes
+allergens:
+  - eggs
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - coriander
 ---
+
+
 
 # Ayam Goreng (Malaysian Fried Chicken)
 

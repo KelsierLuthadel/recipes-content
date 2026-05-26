@@ -1,7 +1,25 @@
 ---
 prep: 30 minutes
 cook: 1 hour 15 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - lamb
+  - rice
+  - onion
+  - carrot
+  - honey
+  - complex
 ---
+
+
 
 # Xinjiang Lamb Pilaf
 

@@ -1,6 +1,28 @@
 ---
 prep: 15 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - carrot
+  - coriander
+  - butter
+  - cream
+  - complex
 ---
+
+
 
 # Butter Chicken
 

@@ -1,7 +1,23 @@
 ---
 prep: 20 minutes
 cook: 10 minutes
+allergens:
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - snack
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - cream
 ---
+
+
 
 # Töltött Tojás
 

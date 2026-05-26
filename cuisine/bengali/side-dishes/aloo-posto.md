@@ -1,7 +1,19 @@
 ---
 prep: 15 minutes (plus 30 minutes soaking the poppy seeds)
 cook: 20 minutes
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - chili
 ---
+
+
 
 # Aloo Posto
 

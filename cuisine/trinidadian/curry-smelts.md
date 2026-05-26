@@ -1,7 +1,27 @@
 ---
 prep: 20 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - one-pan
+  - meals
+  - fish
+  - onion
+  - garlic
+  - lemon
+  - lime
+  - coriander
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Curry Smelts
 

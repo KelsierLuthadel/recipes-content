@@ -1,6 +1,18 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - eggs
+  - butter
 ---
+
+
 
 # Herb Crêpes
 

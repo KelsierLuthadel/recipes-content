@@ -1,7 +1,23 @@
 ---
 prep: 15 minutes
 cook: 3 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - quick
+  - meals
+  - garlic
+  - cheese
+  - nuts
+  - chili
 ---
+
+
 
 # Pasta Shells with Sprouting Broccoli, Chilli, and Pine Nuts
 

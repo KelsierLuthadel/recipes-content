@@ -1,7 +1,24 @@
 ---
 prep: 40 minutes (plus 20 min dough rest)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - sides
+  - ginger
+  - potato
+  - lime
+  - coriander
+  - butter
+  - yogurt
+  - chili
+  - complex
 ---
+
+
 
 # Aloo Paratha
 

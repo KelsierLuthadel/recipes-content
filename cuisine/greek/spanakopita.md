@@ -1,7 +1,24 @@
 ---
 prep: 30 minutes
 cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - onion
+  - garlic
+  - spinach
+  - butter
+  - cheese
+  - complex
 ---
+
+
 
 # Spanakopita
 

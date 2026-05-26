@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes
 cook: 35 minutes
+allergens:
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - meals
+  - eggs
+  - onion
+  - potato
 ---
+
+
 
 # Tortilla Española
 

@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 25 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - garlic
+  - tomato
+  - chili
 ---
+
+
 
 # Galayet Bandora
 

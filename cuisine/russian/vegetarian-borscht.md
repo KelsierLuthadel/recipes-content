@@ -1,7 +1,21 @@
 ---
 prep: 20 minutes
 cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - meals
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - complex
 ---
+
+
 
 # Vegetarian Borscht
 

@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes (plus overnight soak)
 cook: 1 hour
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - coconut
+  - chickpea
+  - nuts
 ---
+
+
 
 # Doce de Grão
 

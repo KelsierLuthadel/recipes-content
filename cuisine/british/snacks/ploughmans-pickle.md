@@ -1,7 +1,21 @@
 ---
 prep: 30 minutes
 cook: 1 hour 30 minutes
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - snack
+  - onion
+  - ginger
+  - carrot
+  - complex
 ---
+
+
 
 # Ploughman's Pickle
 

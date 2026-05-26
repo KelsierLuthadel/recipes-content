@@ -1,7 +1,28 @@
 ---
 prep: 10 minutes
 cook: 0 minutes
+allergens:
+  - peanuts
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - rice
+  - onion
+  - tomato
+  - potato
+  - lime
+  - coriander
+  - nuts
+  - chili
 ---
+
+
 
 # Jhal Muri
 

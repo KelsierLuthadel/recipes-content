@@ -1,7 +1,22 @@
 ---
 prep: 25 minutes (plus 1 hour marinating)
 cook: 35 minutes
+allergens:
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - fish
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - complex
 ---
+
+
 
 # Masgouf
 

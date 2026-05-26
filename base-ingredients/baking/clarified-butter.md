@@ -1,7 +1,16 @@
 ---
 prep: 15 minutes
 cook: 8 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - butter
 ---
+
+
 
 # Clarified Butter (Beurre Clarifié)
 

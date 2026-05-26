@@ -1,7 +1,23 @@
 ---
 prep: 15 minutes
 cook: 35 minutes
+allergens:
+  - fish
+  - shellfish
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - fish
+  - prawn
+  - lime
+  - coriander
+  - chili
 ---
+
+
 
 # Tom Yum Goong
 

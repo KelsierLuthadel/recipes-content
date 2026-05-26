@@ -1,7 +1,28 @@
 ---
 prep: 1 hour (plus 30 minutes resting)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - sesame
+  - meat
+  - garlic
+tags:
+  - snack
+  - meat
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - yogurt
+  - nuts
+  - complex
 ---
+
+
 
 # Sambousek Bil Lahm
 

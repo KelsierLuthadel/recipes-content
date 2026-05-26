@@ -1,7 +1,20 @@
 ---
 prep: 10 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+tags:
+  - spicy
+  - fish
+  - onion
+  - butter
+  - cream
+  - curry
 ---
+
+
 
 # Curried Mussel Sauce
 

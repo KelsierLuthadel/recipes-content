@@ -1,6 +1,21 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - fish
+  - garlic
+  - lemon
+  - chili
 ---
+
+
 
 # Linguine with Crab, Fresh Chilli, and Lemon Zest
 

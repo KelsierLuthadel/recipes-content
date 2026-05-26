@@ -1,7 +1,19 @@
 ---
 prep: 15 minutes
 cook: 1 hour 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - lentils
+  - rice
+  - onion
+  - yogurt
 ---
+
+
 
 # Mujadara
 

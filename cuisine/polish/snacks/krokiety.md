@@ -1,7 +1,22 @@
 ---
 prep: 45 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - mushroom
+  - onion
+  - butter
+  - complex
 ---
+
+
 
 # Krokiety
 

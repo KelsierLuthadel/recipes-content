@@ -1,6 +1,17 @@
 ---
 prep: 15 minutes (plus 2 hours chilling)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - butter
+  - chocolate
+  - complex
+  - halloween
 ---
+
+
 
 # Rocky Road
 

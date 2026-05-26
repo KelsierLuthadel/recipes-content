@@ -1,6 +1,19 @@
 ---
 prep: 10 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - spices
+  - chili
 ---
+
+
 
 # Creole Spice Mix
 

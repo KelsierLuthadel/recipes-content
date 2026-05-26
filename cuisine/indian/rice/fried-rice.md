@@ -1,6 +1,22 @@
 ---
 prep: 10 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - rice
+  - garlic
+  - ginger
+  - lemon
 ---
+
+
 
 # Lemon and Garlic Fried Rice
 

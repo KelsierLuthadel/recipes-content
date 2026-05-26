@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes (plus 30 minutes rest)
 cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+  - onion
+  - tomato
+  - lime
+  - coriander
+  - day-of-the-dead
 ---
+
+
 
 # Pico de Gallo
 

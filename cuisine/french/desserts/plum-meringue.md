@@ -1,7 +1,17 @@
 ---
 prep: 15 minutes
 cook: 1 hour
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - dessert
+  - make-ahead
 ---
+
+
 
 # Plum Meringues
 

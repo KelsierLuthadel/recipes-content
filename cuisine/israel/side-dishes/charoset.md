@@ -1,7 +1,24 @@
 ---
 prep: 15 minutes
 cook: None
+allergens:
+  - tree-nuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - ginger
+  - lemon
+  - nuts
+  - passover
+  - jewish
 ---
+
+
 
 # Charoset
 

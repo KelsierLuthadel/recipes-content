@@ -1,7 +1,18 @@
 ---
 prep: 40 minutes (plus 30 minutes resting)
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - butter
+  - honey
 ---
+
+
 
 # Feteer Meshaltet
 

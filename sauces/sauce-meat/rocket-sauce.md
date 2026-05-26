@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 0 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - garlic
+  - lemon
+  - yogurt
 ---
+
+
 
 # Rocket Sauce with Horseradish
 

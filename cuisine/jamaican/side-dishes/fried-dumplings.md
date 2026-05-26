@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - coconut
+  - butter
 ---
+
+
 
 # Fried Dumplings / Johnny Cakes
 

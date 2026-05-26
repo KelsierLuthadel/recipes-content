@@ -1,7 +1,30 @@
 ---
 prep: 20 minutes (plus 30 minutes marinating)
 cook: 1 hour 30 minutes
+allergens:
+  - soy
+  - fish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Wet Tha Hin Lay
 

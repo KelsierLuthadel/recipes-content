@@ -1,7 +1,21 @@
 ---
 prep: 5 minutes
 cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - spices
+  - coriander
+  - curry
 ---
+
+
 
 # Mixed Powder
 

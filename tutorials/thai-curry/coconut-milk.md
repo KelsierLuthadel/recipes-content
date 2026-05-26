@@ -1,3 +1,14 @@
+---
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - coconut
+  - curry
+---
+
+
 # Coconut Milk Technique
 
 ![Coconut milk](resources/coconut.jpg)

@@ -1,7 +1,29 @@
 ---
 prep: 30 minutes
 cook: 2 hours 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - butter
+  - chili
+  - complex
 ---
+
+
 
 # Fattah Bil Lahma
 

@@ -1,7 +1,21 @@
 ---
 prep: 30 minutes
 cook: 45 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - honey
+  - chili
 ---
+
+
 
 # Super-Crunch Chicken Tenders with d'Ussé Honey Sauce
 

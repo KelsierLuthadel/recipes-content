@@ -1,7 +1,24 @@
 ---
 prep: 1 hour
 cook: 1 hour 15 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - sides
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - complex
 ---
+
+
 
 # Mahshi Koromb
 

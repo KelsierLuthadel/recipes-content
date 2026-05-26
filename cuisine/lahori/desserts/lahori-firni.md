@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes (plus 30 minutes soak for the rice)
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - rice
+  - nuts
 ---
+
+
 
 # Lahori Firni
 

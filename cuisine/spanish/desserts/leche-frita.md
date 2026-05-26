@@ -1,7 +1,21 @@
 ---
 prep: 30 minutes (plus 4 hours chilling)
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - complex
 ---
+
+
 
 # Leche Frita (Fried Milk)
 

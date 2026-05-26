@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes
 cook: 35 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - butter
+  - cheese
+  - chili
 ---
+
+
 
 # Ema Datshi
 

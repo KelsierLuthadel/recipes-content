@@ -1,6 +1,16 @@
 ---
 prep: 5 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - eggs
 ---
+
+
 
 # Pains au Raisins
 

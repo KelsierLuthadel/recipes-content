@@ -1,6 +1,21 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - cheese
+  - chocolate
+  - shavuot
 ---
+
+
 
 # Baked Chocolate Cheesecake with Espresso Sauce
 

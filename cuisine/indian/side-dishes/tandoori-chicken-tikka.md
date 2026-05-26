@@ -1,6 +1,30 @@
 ---
 prep: 5 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - bbq
+  - meat
+  - chicken
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - cheese
+  - yogurt
+  - chili
+  - complex
 ---
+
+
 
 # Tandoori Chicken Tikka
 

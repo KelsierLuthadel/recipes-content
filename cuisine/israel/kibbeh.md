@@ -1,7 +1,27 @@
 ---
 prep: 25 minutes
 cook: 45 minutes
+allergens:
+  - gluten
+  - tree-nuts
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - nuts
 ---
+
+
 
 # Tray-Baked Kibbeh
 

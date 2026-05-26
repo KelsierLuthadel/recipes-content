@@ -1,7 +1,24 @@
 ---
 prep: 40 minutes
 cook: 1 hour 20 minutes (plus overnight chilling)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - cream
+  - cheese
+  - complex
+  - shavuot
 ---
+
+
 
 # New York Cheesecake
 

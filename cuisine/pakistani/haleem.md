@@ -1,7 +1,33 @@
 ---
 prep: 30 minutes (plus overnight soaking)
 cook: 4 hours (pressure cooker) or 6 hours (stovetop)
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - lamb
+  - lentils
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - chickpea
+  - chili
+  - complex
+  - eid-al-adha
+  - ramadan
+  - muslim
 ---
+
+
 
 # Haleem
 

@@ -1,7 +1,28 @@
 ---
 prep: 20 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - tree-nuts
+  - sesame
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - fish
+  - rice
+  - onion
+  - garlic
+  - lemon
+  - coriander
+  - nuts
+  - chili
+  - complex
 ---
+
+
 
 # Samkeh Harra
 

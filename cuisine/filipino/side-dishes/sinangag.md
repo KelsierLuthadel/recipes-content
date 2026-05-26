@@ -1,7 +1,24 @@
 ---
 prep: 5 minutes
 cook: 10 minutes
+allergens:
+  - peanuts
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - rice
+  - onion
+  - garlic
+  - nuts
 ---
+
+
 
 # Sinangag (Garlic Fried Rice)
 

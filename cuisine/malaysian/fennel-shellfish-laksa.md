@@ -1,7 +1,31 @@
 ---
 prep: 20 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - peanuts
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Fennel Shellfish Laksa
 

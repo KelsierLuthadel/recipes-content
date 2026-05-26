@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 2 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - pork
+  - eggs
+  - butter
+  - cheese
 ---
+
+
 
 # Bucatini Carbonara
 

@@ -1,7 +1,25 @@
 ---
 prep: 30 minutes
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - shellfish
+  - mustard
+tags:
+  - meals
+  - meat
+  - fish
+  - prawn
+  - salmon
+  - potato
+  - butter
+  - cheese
+  - complex
 ---
+
+
 
 # Fish Pie
 

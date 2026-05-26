@@ -1,7 +1,24 @@
 ---
 prep: 15 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - fish
+  - meat
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - beef
+  - onion
+  - lemon
+  - chili
 ---
+
+
 
 # Vietnamese Beef Soup
 

@@ -1,7 +1,28 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - peanuts
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - ginger
+  - nuts
+  - chili
+  - soy-sauce
+  - lunar-new-year
 ---
+
+
 
 # Mouthwatering Chicken (Kou Shui Ji)
 

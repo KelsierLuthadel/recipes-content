@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - coconut
+  - nuts
 ---
+
+
 
 # Chicken Pasanda
 

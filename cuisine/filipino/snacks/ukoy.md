@@ -1,7 +1,25 @@
 ---
 prep: 20 minutes
 cook: 25 minutes (in batches)
+allergens:
+  - gluten
+  - eggs
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - fish
+  - prawn
+  - eggs
+  - onion
+  - garlic
+  - chili
+  - complex
 ---
+
+
 
 # Ukoy (Shrimp Fritters)
 

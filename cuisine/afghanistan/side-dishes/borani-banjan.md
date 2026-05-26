@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes (plus 30 minutes salting)
 cook: 35 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - yogurt
 ---
+
+
 
 # Borani Banjan
 

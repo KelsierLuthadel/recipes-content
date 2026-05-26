@@ -1,7 +1,23 @@
 ---
 prep: 15 minutes
 cook: 5 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - complex
 ---
+
+
 
 # Fattoush
 

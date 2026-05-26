@@ -1,7 +1,25 @@
 ---
 prep: 5 minutes
 cook: 8 minutes
+allergens:
+  - soy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - onion
+  - garlic
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Kongnamul Muchim (Soybean Sprout Side Dish)
 

@@ -1,7 +1,17 @@
 ---
 prep: 10 minutes
 cook: 35 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - garlic
 ---
+
+
 
 # Semi-Confit Peppers
 

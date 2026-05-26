@@ -1,7 +1,21 @@
 ---
 prep: 1 hour (plus 1 hour resting)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - nuts
+  - complex
 ---
+
+
 
 # Shekerbura
 

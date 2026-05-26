@@ -1,7 +1,26 @@
 ---
 prep: 30 minutes (plus 2.5 hours rising)
 cook: 30 minutes
+allergens:
+  - gluten
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - dairy-free
+  - sides
+  - eggs
+  - honey
+  - complex
+  - hanukkah
+  - rosh-hashanah
+  - shavuot
+  - yom-kippur
+  - sukkot
+  - jewish
 ---
+
+
 
 # Challah
 

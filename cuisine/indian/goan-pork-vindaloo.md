@@ -1,7 +1,28 @@
 ---
 prep: 25 minutes (plus 12 hours marinating)
 cook: 1 hour 30 minutes
+allergens:
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - chili
+  - complex
 ---
+
+
 
 # Goan Pork Vindaloo
 

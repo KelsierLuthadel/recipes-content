@@ -1,7 +1,28 @@
 ---
 prep: 30 minutes (plus 1 hour dough rest)
 cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Mutabbaq
 

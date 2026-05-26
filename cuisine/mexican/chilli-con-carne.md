@@ -1,7 +1,31 @@
 ---
 prep: 15 minutes
 cook: 1 hour 20 minutes
+allergens:
+  - soy
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - carrot
+  - coriander
+  - chocolate
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Mixed Meat and Bean Chilli
 

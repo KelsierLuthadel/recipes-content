@@ -1,6 +1,20 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cream
 ---
+
+
 
 # Pain Perdu
 

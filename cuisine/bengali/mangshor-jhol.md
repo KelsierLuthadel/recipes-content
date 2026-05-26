@@ -1,7 +1,30 @@
 ---
 prep: 20 minutes
 cook: 90 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - coriander
+  - yogurt
+  - chili
+  - complex
 ---
+
+
 
 # Mangshor Jhol
 

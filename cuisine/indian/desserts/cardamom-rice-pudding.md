@@ -1,7 +1,27 @@
 ---
 prep: 10 minutes
 cook: 2 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - asian
+  - eggs
+  - rice
+  - diwali
+  - eid-al-fitr
+  - eid-al-adha
+  - ramadan
+  - holi
+  - muslim
+  - hindu
 ---
+
+
 
 # Cardamom Rice Pudding (Kheer)
 

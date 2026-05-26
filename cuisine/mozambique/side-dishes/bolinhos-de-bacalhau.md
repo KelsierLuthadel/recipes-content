@@ -1,7 +1,25 @@
 ---
 prep: 25 minutes (plus 24 hours soaking the bacalhau)
 cook: 30 minutes
+allergens:
+  - eggs
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - fish
+  - eggs
+  - onion
+  - garlic
+  - potato
+  - lemon
+  - complex
 ---
+
+
 
 # Bolinhos de Bacalhau
 

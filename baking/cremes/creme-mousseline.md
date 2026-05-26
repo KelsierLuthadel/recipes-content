@@ -1,7 +1,19 @@
 ---
 prep: 10 minutes
 cook: 8 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - baking
+  - butter
+  - chocolate
 ---
+
+
 
 # Crème Mousseline
 

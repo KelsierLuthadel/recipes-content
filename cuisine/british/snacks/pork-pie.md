@@ -1,7 +1,27 @@
 ---
 prep: 1 hour 30 minutes
 cook: 1 hour 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - meat
+  - mustard
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - pork
+  - eggs
+  - onion
+  - ginger
+  - butter
+  - cheese
+  - complex
 ---
+
+
 
 # Pork Pie
 

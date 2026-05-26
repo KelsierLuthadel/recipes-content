@@ -1,6 +1,19 @@
 ---
 prep: 35 minutes
+allergens:
+  - tree-nuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - no-cook
+  - asian
+  - pastes
+  - nuts
 ---
+
+
 
 # Raw Cashew Paste
 

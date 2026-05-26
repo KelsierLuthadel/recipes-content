@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Coburg
 
 ![A Coburg loaf](resources/coburg-loaf.jpg)

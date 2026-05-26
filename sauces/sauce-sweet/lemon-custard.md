@@ -1,7 +1,20 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - eggs
+  - lemon
+  - cream
 ---
+
+
 
 # Lemon Custard
 

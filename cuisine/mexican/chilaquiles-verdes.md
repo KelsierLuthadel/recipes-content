@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes
 cook: 15 minutes
+allergens:
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - meat
+  - eggs
+  - onion
+  - garlic
+  - coriander
+  - cream
+  - cheese
 ---
+
+
 
 # Chilaquiles Verdes
 

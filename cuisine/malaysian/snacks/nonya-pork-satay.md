@@ -1,7 +1,31 @@
 ---
 prep: 15 minutes
 cook: 9 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - peanuts
+  - shellfish
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - make-ahead
+  - asian
+  - meat
+  - fish
+  - beef
+  - pork
+  - onion
+  - coconut
+  - coriander
+  - nuts
+  - chili
 ---
+
+
 
 # Nonya Pork Satay
 

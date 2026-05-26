@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes
 cook: 1 hour 30 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - garlic
+  - tomato
+  - chili
+  - complex
+  - passover
+  - jewish
 ---
+
+
 
 # Matbucha
 

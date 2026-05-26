@@ -1,6 +1,16 @@
 ---
 prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - chocolate
 ---
+
+
 
 # Chocolate Salammbos
 

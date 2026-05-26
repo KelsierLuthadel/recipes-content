@@ -1,7 +1,15 @@
 ---
 prep: 25 minutes (plus 30 min resting)
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - meals
 ---
+
+
 
 # Frybread with Wojapi
 

@@ -1,7 +1,34 @@
 ---
 prep: 25 minutes (plus 4 hours marinating)
 cook: 35 minutes
+allergens:
+  - soy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - bbq
+  - meat
+  - fish
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Gai Yang
 

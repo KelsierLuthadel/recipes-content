@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Braided Loaf
 
 ![A braided loaf](resources/braided-loaf.jpg)

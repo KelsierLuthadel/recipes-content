@@ -1,7 +1,29 @@
 ---
 prep: 5 minutes
 cook: 45 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - sides
+  - lentils
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Lahori Tarka Dal
 

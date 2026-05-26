@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meat
+  - onion
+  - ginger
+  - butter
 ---
+
+
 
 # Buccaneer's Sauce
 

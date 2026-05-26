@@ -1,3 +1,14 @@
+---
+allergens:
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - fish
+---
+
+
 # Curing Fish
 
 ![Cured salmon](resources/curing.jpg)

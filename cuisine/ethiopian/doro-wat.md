@@ -1,7 +1,29 @@
 ---
 prep: 30 minutes
 cook: 1 ½ hours
+allergens:
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - butter
+  - complex
+  - kwanzaa
 ---
+
+
 
 # Doro Wat
 

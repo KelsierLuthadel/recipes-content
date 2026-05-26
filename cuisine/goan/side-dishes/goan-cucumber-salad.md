@@ -1,7 +1,24 @@
 ---
 prep: 15 minutes
 cook: 3 minutes (for the temper)
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - coconut
+  - lime
+  - coriander
+  - chili
+  - curry
 ---
+
+
 
 # Goan Cucumber Salad
 

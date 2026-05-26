@@ -1,7 +1,28 @@
 ---
 prep: 25 minutes
 cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - butter
+  - cheese
+  - complex
+  - st-patricks
 ---
+
+
 
 # Shepherd's Pie
 

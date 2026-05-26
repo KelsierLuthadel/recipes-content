@@ -1,7 +1,21 @@
 ---
 prep: 25 minutes (plus 1 ½ hours rising)
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - coconut
+  - butter
+  - complex
+  - kwanzaa
 ---
+
+
 
 # Coco Bread
 

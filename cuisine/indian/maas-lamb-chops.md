@@ -1,7 +1,25 @@
 ---
 prep: 5 minutes
 cook: 10 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - lamb
+  - garlic
+  - ginger
+  - lemon
+  - yogurt
 ---
+
+
 
 # Maa’s Lamb Chops
 

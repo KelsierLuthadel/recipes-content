@@ -1,7 +1,29 @@
 ---
 prep: 30 minutes
 cook: 2 hours
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - one-pan
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - carrot
+  - coriander
+  - butter
+  - nuts
+  - complex
 ---
+
+
 
 # Kabuli Pulao
 

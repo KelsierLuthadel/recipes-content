@@ -1,7 +1,17 @@
 ---
 prep: 5 minutes
 cook: 35 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - asian
 ---
+
+
 
 # BIR Spice Stock
 

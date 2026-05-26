@@ -1,7 +1,19 @@
 ---
 prep: 5 minutes
 cook: 4 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - lemon
 ---
+
+
 
 # Apple Turnovers
 

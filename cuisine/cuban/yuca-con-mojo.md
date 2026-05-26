@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - meals
+  - onion
+  - garlic
+  - lime
+  - coriander
 ---
+
+
 
 # Yuca Con Mojo
 

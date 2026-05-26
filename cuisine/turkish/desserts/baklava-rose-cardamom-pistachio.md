@@ -1,7 +1,21 @@
 ---
 prep: 25 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - one-pan
+  - lemon
+  - butter
+  - honey
+  - nuts
 ---
+
+
 
 # Baklava with Rose, Cardamom and Pistachio
 

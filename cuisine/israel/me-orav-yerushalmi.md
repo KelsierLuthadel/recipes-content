@@ -1,7 +1,23 @@
 ---
 prep: 20 minutes
 cook: 20 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - bbq
+  - meat
+  - chicken
+  - lamb
+  - onion
+  - garlic
+  - complex
 ---
+
+
 
 # Me'orav Yerushalmi (Jerusalem Mixed Grill)
 

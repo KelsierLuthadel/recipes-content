@@ -1,7 +1,18 @@
 ---
 prep: 15 minutes (plus 1 hour 30 minutes rising)
 cook: 12 minutes (with a hot stone)
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - sides
+  - complex
 ---
+
+
 
 # Aysh Baladi
 

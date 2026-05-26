@@ -1,7 +1,28 @@
 ---
 prep: 10 minutes
 cook: 15 minutes
+allergens:
+  - soy
+  - sesame
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - onion
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Sichuan Dry-Fried Green Beans
 

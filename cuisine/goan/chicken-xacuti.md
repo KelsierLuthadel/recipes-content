@@ -1,7 +1,29 @@
 ---
 prep: 20 minutes
 cook: 1 hour
+allergens:
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - coriander
+  - nuts
+  - chili
+  - complex
 ---
+
+
 
 # Chicken Xacuti
 

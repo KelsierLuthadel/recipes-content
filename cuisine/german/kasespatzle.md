@@ -1,7 +1,19 @@
 ---
 prep: 30 minutes
 cook: 30 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - onion
+  - butter
+  - cream
+  - cheese
 ---
+
+
 
 # Käsespätzle
 

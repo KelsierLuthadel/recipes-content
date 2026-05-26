@@ -1,7 +1,19 @@
 ---
 prep: 20 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - eggs
+  - butter
+  - cheese
 ---
+
+
 
 # Pão de Queijo
 

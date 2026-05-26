@@ -1,7 +1,25 @@
 ---
 prep: 20 minutes
 cook: 30 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - cheese
+  - chili
+  - day-of-the-dead
 ---
+
+
 
 # Tortilla Soup
 

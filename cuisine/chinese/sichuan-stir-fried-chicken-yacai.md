@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes
 cook: 8 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Sichuan Stir-Fried Chicken with Yacai (Jimi Yacai)
 

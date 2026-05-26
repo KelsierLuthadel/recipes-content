@@ -1,7 +1,25 @@
 ---
 prep: 25 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - make-ahead
+  - meals
+  - eggs
+  - onion
+  - carrot
+  - lime
+  - chili
+  - complex
 ---
+
+
 
 # Cracked Conch
 

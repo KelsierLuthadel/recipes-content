@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes (plus 30 minutes resting)
 cook: none
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - snack
+  - onion
+  - garlic
+  - butter
+  - cheese
+  - complex
 ---
+
+
 
 # Obatzda
 

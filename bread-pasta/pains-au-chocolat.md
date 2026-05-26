@@ -1,6 +1,17 @@
 ---
 prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - eggs
+  - chocolate
 ---
+
+
 
 # Pains au Chocolat
 

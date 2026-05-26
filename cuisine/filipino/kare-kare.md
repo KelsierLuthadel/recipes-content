@@ -1,7 +1,30 @@
 ---
 prep: 20 minutes
 cook: 3 ½ hours
+allergens:
+  - gluten
+  - dairy
+  - peanuts
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - beef
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - butter
+  - nuts
+  - complex
 ---
+
+
 
 # Kare-Kare
 

@@ -1,7 +1,34 @@
 ---
 prep: 20 minutes (plus 1 hour marinating)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - soy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - sides
+  - asian
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - lime
+  - coriander
+  - yogurt
+  - chili
+  - soy-sauce
+  - curry
+  - complex
 ---
+
+
 
 # Chicken 65
 

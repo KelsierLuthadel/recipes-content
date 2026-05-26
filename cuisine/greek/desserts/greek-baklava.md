@@ -1,7 +1,22 @@
 ---
 prep: 45 minutes
 cook: 50 minutes (plus overnight resting)
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - lemon
+  - butter
+  - honey
+  - nuts
+  - complex
 ---
+
+
 
 # Greek Baklava
 

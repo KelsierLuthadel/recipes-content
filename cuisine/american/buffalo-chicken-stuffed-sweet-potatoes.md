@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 1 hour
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - potato
+  - cheese
 ---
+
+
 
 # Buffalo Chicken Stuffed Sweet Potatoes
 

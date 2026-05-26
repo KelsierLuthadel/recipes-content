@@ -1,7 +1,18 @@
 ---
 prep: 35 minutes
 cook: 15 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - lemon
+  - nuts
 ---
+
+
 
 # Sandesh
 

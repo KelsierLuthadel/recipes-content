@@ -1,7 +1,21 @@
 ---
 prep: 20 minutes (plus 1 hour rest)
 cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - make-ahead
+  - asian
+  - onion
+  - coriander
+  - butter
+  - chili
 ---
+
+
 
 # Missi Rotis
 

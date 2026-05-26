@@ -1,7 +1,18 @@
 ---
 prep: 15 minutes
 cook: 10 minutes
+allergens:
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - baking
+  - eggs
 ---
+
+
 
 # Meringue Francaise (French Meringue)
 

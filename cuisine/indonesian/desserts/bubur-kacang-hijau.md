@@ -1,7 +1,22 @@
 ---
 prep: 5 minutes (plus 4 hours soaking, optional)
 cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - asian
+  - onion
+  - ginger
+  - coconut
+  - complex
 ---
+
+
 
 # Bubur Kacang Hijau (Mung Bean Coconut Porridge)
 

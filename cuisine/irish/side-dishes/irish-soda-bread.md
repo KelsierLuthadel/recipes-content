@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes
 cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - honey
+  - st-patricks
 ---
+
+
 
 # Irish Soda Bread
 

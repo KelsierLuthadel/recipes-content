@@ -1,7 +1,19 @@
 ---
 prep: 15 minutes
 cook: 5 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - baking
+  - eggs
+  - butter
 ---
+
+
 
 # Crème au Beurre
 

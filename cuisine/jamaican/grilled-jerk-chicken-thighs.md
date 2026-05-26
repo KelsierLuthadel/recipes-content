@@ -1,7 +1,23 @@
 ---
 prep: 15 minutes (plus 2+ hours marinating)
 cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - quick
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - chicken
+  - onion
+  - coconut
+  - lime
 ---
+
+
 
 # Grilled Jerk Chicken Thighs
 

@@ -1,7 +1,19 @@
 ---
 prep: 30 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - butter
+  - cream
+  - chocolate
+  - valentines
 ---
+
+
 
 # Chocolate and Raspberry Tart
 

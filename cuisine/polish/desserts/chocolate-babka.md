@@ -1,7 +1,24 @@
 ---
 prep: 30 minutes (plus 2 hour first rise + 1 hour second rise)
 cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - chocolate
+  - complex
+  - hanukkah
+  - rosh-hashanah
+  - shavuot
 ---
+
+
 
 # Chocolate Babka
 

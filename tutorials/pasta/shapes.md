@@ -1,3 +1,15 @@
+---
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - one-pan
+---
+
+
 # Pasta Shapes
 
 ![Pasta shapes](resources/shapes.jpg)

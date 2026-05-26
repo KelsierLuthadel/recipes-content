@@ -1,7 +1,17 @@
 ---
 prep: 5 minutes
 cook: 20 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - lemon
+  - cream
 ---
+
+
 
 # Banana Sauce
 

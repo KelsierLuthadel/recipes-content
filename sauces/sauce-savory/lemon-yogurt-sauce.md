@@ -1,7 +1,19 @@
 ---
 prep: 5 minutes (plus 20 minutes resting)
 cook: None
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - garlic
+  - lemon
+  - yogurt
 ---
+
+
 
 # Lemon Yogurt Sauce
 

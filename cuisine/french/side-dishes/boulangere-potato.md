@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes
 cook: 46 minutes
+allergens:
+  - dairy
+tags:
+  - gluten-free
+  - sides
+  - meat
+  - onion
+  - potato
+  - butter
 ---
+
+
 
 # Boulangère Potatoes
 

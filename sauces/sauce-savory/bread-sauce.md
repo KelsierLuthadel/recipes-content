@@ -1,7 +1,17 @@
 ---
 prep: 5 minutes
 cook: 55 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - onion
+  - butter
+  - cream
 ---
+
+
 
 # Bread Sauce
 

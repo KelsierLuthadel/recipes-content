@@ -1,7 +1,18 @@
 ---
 prep: 5 minutes
 cook: 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - onion
+  - butter
+  - cream
 ---
+
+
 
 # Beurre Blanc with Cream
 

@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes
 cook: 1 hour 15 minutes
+allergens:
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - one-pan
+  - sides
+  - meat
+  - pork
+  - lentils
+  - onion
+  - garlic
+  - tomato
+  - carrot
+  - complex
 ---
+
+
 
 # Lentejas Chilenas
 

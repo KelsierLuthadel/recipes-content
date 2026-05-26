@@ -1,7 +1,28 @@
 ---
 prep: 20 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - tree-nuts
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - beef
+  - eggs
+  - rice
+  - mushroom
+  - onion
+  - spinach
+  - nuts
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Beef Sukiyaki
 

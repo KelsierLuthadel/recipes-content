@@ -1,7 +1,20 @@
 ---
 prep: 10 minutes
 cook: 20 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - onion
+  - carrot
+  - lemon
 ---
+
+
 
 # Court Bouillon
 

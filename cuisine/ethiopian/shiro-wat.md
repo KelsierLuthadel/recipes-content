@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - meals
+  - onion
+  - garlic
+  - ginger
+  - chickpea
 ---
+
+
 
 # Shiro Wat
 

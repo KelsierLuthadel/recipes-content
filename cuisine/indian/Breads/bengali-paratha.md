@@ -1,7 +1,17 @@
 ---
 prep: 15 minutes (plus 20 minutes rest)
 cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - asian
+  - chili
 ---
+
+
 
 # Bengali Paratha
 

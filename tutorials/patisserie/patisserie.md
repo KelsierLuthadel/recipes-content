@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # French Patisserie Course
 
 ![Patisserie](resources/patisserie.jpg)

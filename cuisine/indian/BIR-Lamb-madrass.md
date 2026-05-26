@@ -1,7 +1,28 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - lamb
+  - garlic
+  - ginger
+  - lime
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Lamb Madras
 

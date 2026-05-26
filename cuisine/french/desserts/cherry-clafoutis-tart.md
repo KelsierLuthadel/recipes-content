@@ -1,7 +1,18 @@
 ---
 prep: 30 minutes
 cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
 ---
+
+
 
 # Cherry Clafoutis Tart
 

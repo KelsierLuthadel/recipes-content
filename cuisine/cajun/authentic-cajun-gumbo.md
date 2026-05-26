@@ -1,7 +1,29 @@
 ---
 prep: 15 minutes
 cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - fish
+  - chicken
+  - pork
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - complex
 ---
+
+
 
 # Authentic Cajun Gumbo
 

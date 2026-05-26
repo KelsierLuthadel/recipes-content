@@ -1,3 +1,14 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - curry
+---
+
+
 # Thai Curry Course
 
 ![Thai curry](resources/course.jpg)

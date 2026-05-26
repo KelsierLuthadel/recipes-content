@@ -1,7 +1,28 @@
 ---
 prep: 10 minutes (plus overnight bean soak)
 cook: 2 hours
+allergens:
+  - gluten
+  - eggs
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Ful Medames
 

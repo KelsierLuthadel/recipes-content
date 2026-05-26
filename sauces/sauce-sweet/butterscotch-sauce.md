@@ -1,7 +1,17 @@
 ---
 prep: 5 minutes
 cook: 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - butter
+  - cream
 ---
+
+
 
 # Butterscotch Sauce
 

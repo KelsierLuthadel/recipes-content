@@ -1,7 +1,29 @@
 ---
 prep: 10 minutes
 cook: 10 minutes
+allergens:
+  - fish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - starter
+  - asian
+  - meat
+  - fish
+  - pork
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - honey
+  - chili
 ---
+
+
 
 # Pork Meatballs
 

@@ -1,7 +1,30 @@
 ---
 prep: 25 minutes (plus 30 minutes marinating)
 cook: 50 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coconut
+  - coriander
+  - yogurt
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Chicken Chettinad
 

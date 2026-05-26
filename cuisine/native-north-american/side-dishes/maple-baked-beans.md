@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes (plus overnight soak)
 cook: 5 hours
+allergens:
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - onion
+  - complex
 ---
+
+
 
 # Maple Baked Beans
 

@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes
 cook: 11 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - make-ahead
+  - cream
 ---
+
+
 
 # Glazed Strawberry Mille-Feuilles
 

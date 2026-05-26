@@ -1,7 +1,28 @@
 ---
 prep: 20 minutes (plus 45 minutes soak)
 cook: 2 hours 30 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Lahori Mutton Yakhni Pulao
 

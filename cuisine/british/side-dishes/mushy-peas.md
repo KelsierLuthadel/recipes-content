@@ -1,7 +1,18 @@
 ---
 prep: 5 minutes (plus overnight soak)
 cook: 45 minutes
+allergens:
+  - dairy
+  - fish
+tags:
+  - gluten-free
+  - make-ahead
+  - sides
+  - fish
+  - butter
 ---
+
+
 
 # Mushy Peas
 

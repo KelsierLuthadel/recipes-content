@@ -1,7 +1,25 @@
 ---
 prep: 20 minutes
 cook: 4 minutes
+allergens:
+  - eggs
+  - peanuts
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - pork
+  - eggs
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Sweet and Sour Pork
 

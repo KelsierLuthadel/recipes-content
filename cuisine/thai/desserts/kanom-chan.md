@@ -1,7 +1,17 @@
 ---
 prep: 20 minutes
 cook: 60 minutes (in steaming stages of 5-7 min per layer)
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - asian
+  - coconut
 ---
+
+
 
 # Kanom Chan
 

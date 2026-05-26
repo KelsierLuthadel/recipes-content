@@ -1,7 +1,18 @@
 ---
 prep: 5 minutes
 cook: 25 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
 ---
+
+
 
 # Sadza
 

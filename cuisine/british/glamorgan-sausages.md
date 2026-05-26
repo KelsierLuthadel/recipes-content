@@ -1,7 +1,20 @@
 ---
 prep: 20 minutes (plus 30 min chilling)
 cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - butter
+  - cheese
 ---
+
+
 
 # Glamorgan Sausages
 

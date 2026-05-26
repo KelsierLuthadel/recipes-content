@@ -1,7 +1,30 @@
 ---
 prep: 20 minutes
 cook: 45 minutes
+allergens:
+  - dairy
+  - fish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Sri Lankan Chicken Curry
 

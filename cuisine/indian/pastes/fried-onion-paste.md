@@ -1,7 +1,19 @@
 ---
 prep: 5 minutes
 cook: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - asian
+  - pastes
+  - onion
+  - yogurt
 ---
+
+
 
 # Fried Onion Paste
 

@@ -1,7 +1,28 @@
 ---
 prep: 15 minutes (plus 30 minutes seasoning)
 cook: 1 hour 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - coconut
+  - potato
+  - carrot
+  - curry
+  - complex
 ---
+
+
 
 # Caribbean Chicken Soup
 

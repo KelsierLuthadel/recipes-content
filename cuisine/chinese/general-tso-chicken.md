@@ -1,7 +1,29 @@
 ---
 prep: 15 minutes
 cook: 5 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # General Tso’s Chicken
 

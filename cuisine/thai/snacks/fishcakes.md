@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes
 cook: 10 minutes
+allergens:
+  - eggs
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - asian
+  - fish
+  - salmon
+  - eggs
+  - onion
+  - lemon
+  - lime
+  - coriander
+  - curry
 ---
+
+
 
 # Fishcakes
 

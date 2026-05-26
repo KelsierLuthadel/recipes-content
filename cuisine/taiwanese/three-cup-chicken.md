@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - rice
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Three-Cup Chicken
 

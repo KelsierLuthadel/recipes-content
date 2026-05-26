@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes
 cook: 75 minutes (mostly steaming)
+allergens:
+  - gluten
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - dairy-free
+  - dessert
+  - make-ahead
+  - asian
+  - eggs
+  - lunar-new-year
 ---
+
+
 
 # Nian Gao
 

@@ -1,7 +1,16 @@
 ---
 prep: 5 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - baking
+  - butter
 ---
+
+
 
 # Feuilletage (Puff Pastry)
 

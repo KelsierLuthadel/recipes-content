@@ -1,6 +1,19 @@
 ---
 prep: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - coriander
+  - chili
+  - curry
 ---
+
+
 
 # Malayan Curry Powder
 

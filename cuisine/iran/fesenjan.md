@@ -1,7 +1,24 @@
 ---
 prep: 20 minutes
 cook: 1 ¾ hours
+allergens:
+  - tree-nuts
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - chicken
+  - duck
+  - rice
+  - onion
+  - lemon
+  - nuts
+  - complex
 ---
+
+
 
 # Khoresh-E Fesenjan
 

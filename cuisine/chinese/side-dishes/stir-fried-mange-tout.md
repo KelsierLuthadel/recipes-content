@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 4 minutes
+allergens:
+  - peanuts
+  - soy
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - asian
+  - onion
+  - soy-sauce
 ---
+
+
 
 # Stir Fried Mange Tout with Waterchestnuts
 

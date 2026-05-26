@@ -1,7 +1,28 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - pork
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - complex
 ---
+
+
 
 # Ojja with Merguez
 

@@ -1,7 +1,22 @@
 ---
 prep: 5 minutes
 cook: 2 hours
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - duck
+  - onion
+  - ginger
+  - complex
 ---
+
+
 
 # Crispy Sichuan Duck
 

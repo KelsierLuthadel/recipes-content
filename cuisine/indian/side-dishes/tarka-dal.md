@@ -1,7 +1,28 @@
 ---
 prep: 5 minutes
 cook: 40 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - sides
+  - asian
+  - lentils
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Tarka Dal
 

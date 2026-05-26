@@ -1,7 +1,25 @@
 ---
 prep: 1 hour (plus 4 hours salting + 1-3 days fermenting)
 cook: 5 minutes
+allergens:
+  - gluten
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - sides
+  - fish
+  - onion
+  - garlic
+  - ginger
+  - carrot
+  - chili
+  - complex
 ---
+
+
 
 # Kimchi (Cabbage)
 

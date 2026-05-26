@@ -1,7 +1,29 @@
 ---
 prep: 60 minutes (most of it folding)
 cook: 12 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - asian
+  - meat
+  - pork
+  - eggs
+  - onion
+  - ginger
+  - chili
+  - soy-sauce
+  - complex
+  - lunar-new-year
 ---
+
+
 
 # Jiaozi
 

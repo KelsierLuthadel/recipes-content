@@ -1,7 +1,24 @@
 ---
 prep: 15 minutes
 cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - chili
+  - complex
 ---
+
+
 
 # Smothered Pork Chops
 

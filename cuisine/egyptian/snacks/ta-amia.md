@@ -1,6 +1,23 @@
 ---
 prep: 8 hours
+allergens:
+  - peanuts
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - snack
+  - make-ahead
+  - onion
+  - garlic
+  - coriander
+  - chickpea
+  - complex
 ---
+
+
 
 # Ta'amia (Egyptian Broad-Bean Falafel)
 

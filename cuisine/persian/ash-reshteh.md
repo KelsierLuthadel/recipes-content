@@ -1,7 +1,27 @@
 ---
 prep: 25 minutes (plus overnight bean soak)
 cook: 1 hour 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - make-ahead
+  - one-pan
+  - meals
+  - lentils
+  - onion
+  - garlic
+  - spinach
+  - lemon
+  - coriander
+  - yogurt
+  - chickpea
+  - complex
 ---
+
+
 
 # Ash Reshteh
 

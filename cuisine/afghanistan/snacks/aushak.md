@@ -1,7 +1,26 @@
 ---
 prep: 45 minutes
 cook: 30 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - snack
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - coriander
+  - yogurt
+  - chili
+  - complex
 ---
+
+
 
 # Aushak
 

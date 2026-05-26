@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - coriander
+  - cream
+  - cheese
+  - chili
+  - day-of-the-dead
 ---
+
+
 
 # Beef Enchiladas
 

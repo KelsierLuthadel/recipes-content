@@ -1,7 +1,25 @@
 ---
 prep: 50 minutes (plus 1 ½ hours rising)
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - soy
+  - sesame
+  - shellfish
+  - meat
+tags:
+  - snack
+  - asian
+  - bbq
+  - meat
+  - pork
+  - onion
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Char Siu Bao
 

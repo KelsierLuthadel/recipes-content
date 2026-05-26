@@ -1,7 +1,28 @@
 ---
 prep: 15 minutes (plus 4 hours marinade)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - lemon
+  - coriander
+  - yogurt
+  - chili
+  - complex
 ---
+
+
 
 # Chicken Shawarma
 

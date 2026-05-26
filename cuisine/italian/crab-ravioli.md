@@ -1,7 +1,24 @@
 ---
 prep: 15 minutes
 cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - shellfish
+tags:
+  - spicy
+  - quick
+  - meals
+  - fish
+  - eggs
+  - lemon
+  - butter
+  - cheese
+  - chili
 ---
+
+
 
 # Chilli Ravioli with Crab
 

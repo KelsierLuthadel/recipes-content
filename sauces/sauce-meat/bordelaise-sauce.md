@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes
 cook: 30 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meat
+  - beef
+  - onion
+  - butter
 ---
+
+
 
 # Bordelaise Sauce
 

@@ -1,6 +1,16 @@
 ---
 prep: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - cream
 ---
+
+
 
 # Raspberry Mousse
 

@@ -1,7 +1,26 @@
 ---
 prep: 10 minutes
 cook: 5 minutes
+allergens:
+  - soy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Spiced Chinese Leaves
 

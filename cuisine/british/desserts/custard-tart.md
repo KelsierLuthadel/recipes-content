@@ -1,7 +1,18 @@
 ---
 prep: 35 minutes
 cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - easter
 ---
+
+
 
 # Sweet Custard Tart with Poached Prunes
 

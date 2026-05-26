@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes
 cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - coconut
+  - butter
 ---
+
+
 
 # Toto
 

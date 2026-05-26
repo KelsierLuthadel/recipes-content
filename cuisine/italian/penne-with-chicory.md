@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 4 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - cream
+  - cheese
 ---
+
+
 
 # Penne with Red Chicory, Sausages, and Red Wine
 

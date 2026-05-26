@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 30 minutes (plus 3 hours setting)
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - rice
+  - coconut
+  - nuts
+  - complex
 ---
+
+
 
 # Firni
 

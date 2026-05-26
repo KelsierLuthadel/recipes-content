@@ -1,3 +1,13 @@
+---
+allergens:
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - fish
+---
+
+
 # Fish Course
 
 ![Fish](resources/fish.jpg)

@@ -1,7 +1,20 @@
 ---
 prep: 10 minutes
 cook: 0 minutes
+allergens:
+  - shellfish
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - fish
+  - prawn
+  - lemon
 ---
+
+
 
 # Prawn Cocktail
 

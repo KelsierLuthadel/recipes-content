@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - asian
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Bhindi Masala
 

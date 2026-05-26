@@ -1,7 +1,28 @@
 ---
 prep: 15 minutes
 cook: 3 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - quick
+  - snack
+  - make-ahead
+  - meat
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - complex
 ---
+
+
 
 # Lamb Pasties
 

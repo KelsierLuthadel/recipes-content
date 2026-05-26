@@ -1,6 +1,25 @@
 ---
 prep: 15 minutes
+allergens:
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - beef
+  - onion
+  - ginger
+  - carrot
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Shredded Beef with Chillies
 

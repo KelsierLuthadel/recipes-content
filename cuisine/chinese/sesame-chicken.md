@@ -1,7 +1,28 @@
 ---
 prep: 10 minutes
 cook: 7 minutes
+allergens:
+  - eggs
+  - peanuts
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Chicken with Sesame Seeds
 

@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 1 hour 5 minutes
+allergens:
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - garlic
+  - tomato
+  - coriander
 ---
+
+
 
 # Sepen
 

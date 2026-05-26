@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes
 cook: 20 minutes
+allergens:
+  - soy
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - onion
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
 ---
+
+
 
 # Sambal Terung
 

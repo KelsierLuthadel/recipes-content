@@ -1,7 +1,26 @@
 ---
 prep: 15 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - soy
+  - shellfish
+  - garlic
+tags:
+  - vegetarian
+  - meals
+  - mushroom
+  - onion
+  - garlic
+  - lemon
+  - butter
+  - nuts
+  - soy-sauce
 ---
+
+
 
 # Hungarian Mushroom Soup
 

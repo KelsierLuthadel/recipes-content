@@ -1,7 +1,18 @@
 ---
 prep: 15 minutes
 cook: 20 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+  - asian
+  - rice
 ---
+
+
 
 # Steamed Rice
 

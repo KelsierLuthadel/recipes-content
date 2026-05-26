@@ -1,7 +1,23 @@
 ---
 prep: 45 minutes (plus 30 minutes marinating)
 cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - coconut
+  - carrot
+  - chili
+  - complex
 ---
+
+
 
 # Spicy Coconut Fried Chicken Sandwich
 

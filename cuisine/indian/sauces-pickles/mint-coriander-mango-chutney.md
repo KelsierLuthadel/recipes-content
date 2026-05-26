@@ -1,6 +1,22 @@
 ---
 prep: 10 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - garlic
+  - lime
+  - coriander
+  - chili
 ---
+
+
 
 # Mint, Coriander, and Mango Chutney
 

@@ -1,7 +1,24 @@
 ---
 prep: 15 minutes (plus 12-24 hour fermentation for kvas)
 cook: 1 hour
+allergens:
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - mushroom
+  - onion
+  - garlic
+  - carrot
+  - complex
 ---
+
+
 
 # Barszcz Czerwony
 

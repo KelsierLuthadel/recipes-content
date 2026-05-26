@@ -1,3 +1,13 @@
+---
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+---
+
+
 # Dried Pasta
 
 ![Dried pasta](resources/dried-pasta.jpg)

@@ -1,7 +1,20 @@
 ---
 prep: 5 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - nuts
+  - eid-al-fitr
+  - muslim
 ---
+
+
 
 # Sevaiyan
 

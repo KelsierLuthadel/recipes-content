@@ -1,7 +1,20 @@
 ---
 prep: 10 minutes
 cook: 1 hour 10 minutes (plus 30 min cooling)
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - lemon
+  - cheese
+  - nuts
+  - complex
 ---
+
+
 
 # Brevas Con Arequipe
 

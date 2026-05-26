@@ -1,3 +1,15 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - curry
+---
+
+
 # Red Curry Paste
 
 ![Red curry paste](resources/red.jpg)

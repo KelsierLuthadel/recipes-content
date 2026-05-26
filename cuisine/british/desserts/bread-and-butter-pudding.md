@@ -1,7 +1,21 @@
 ---
 prep: 15 minutes (plus 30 minutes soak)
 cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - cream
+  - st-patricks
 ---
+
+
 
 # Bread and Butter Pudding
 

@@ -1,7 +1,27 @@
 ---
 prep: 10 minutes
 cook: 15 minutes
+allergens:
+  - fish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - starter
+  - asian
+  - meat
+  - fish
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - chili
 ---
+
+
 
 # Sweet and Crispy Chicken Wings
 

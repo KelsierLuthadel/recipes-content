@@ -1,7 +1,30 @@
 ---
 prep: 15 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - meat
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - meat
+  - chicken
+  - pork
+  - eggs
+  - garlic
+  - lemon
+  - cheese
+  - complex
 ---
+
+
 
 # Chicken Pancetta Caesar Salad
 

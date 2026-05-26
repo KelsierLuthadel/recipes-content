@@ -1,7 +1,24 @@
 ---
 prep: 30 minutes
 cook: 75 minutes
+allergens:
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lime
+  - nuts
+  - complex
 ---
+
+
 
 # Peach Chutney
 

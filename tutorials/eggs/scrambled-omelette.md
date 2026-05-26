@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Scrambled and Omelette
 
 ![Scrambled eggs](resources/omelette.jpg)

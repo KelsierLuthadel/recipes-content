@@ -1,7 +1,15 @@
 ---
 prep: 30 minutes
 cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
 ---
+
+
 
 # Apricot Tart
 

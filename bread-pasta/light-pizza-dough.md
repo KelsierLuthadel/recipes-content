@@ -1,6 +1,15 @@
 ---
 prep: 15 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
 ---
+
+
 
 # Light Pizza Dough
 

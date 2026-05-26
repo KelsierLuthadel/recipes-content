@@ -1,7 +1,23 @@
 ---
 prep: 5 minutes
 cook: 10 minutes
+allergens:
+  - peanuts
+  - soy
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - fish
+  - onion
+  - garlic
+  - ginger
+  - soy-sauce
 ---
+
+
 
 # Tamarind Sauce
 

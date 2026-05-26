@@ -1,7 +1,22 @@
 ---
 prep: 20 minutes
 cook: 40 minutes
+allergens:
+  - dairy
+  - fish
+  - shellfish
+tags:
+  - gluten-free
+  - meals
+  - fish
+  - rice
+  - onion
+  - carrot
+  - butter
+  - cream
 ---
+
+
 
 # Creamy Clam Soup
 

@@ -1,7 +1,17 @@
 ---
 prep: 15 minutes
 cook: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - lemon
+  - honey
 ---
+
+
 
 # Coulis of Peaches with Lavender Honey
 

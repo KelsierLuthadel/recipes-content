@@ -1,7 +1,25 @@
 ---
 prep: 1 hour
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - yogurt
+  - nuts
+  - complex
 ---
+
+
 
 # Kibbeh
 

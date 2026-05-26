@@ -1,7 +1,28 @@
 ---
 prep: 15 minutes
 cook: 28 minutes
+allergens:
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - sides
+  - asian
+  - bbq
+  - fish
+  - prawn
+  - garlic
+  - ginger
+  - coriander
+  - cheese
+  - yogurt
+  - chili
+  - complex
 ---
+
+
 
 # Tandoori King Prawn
 

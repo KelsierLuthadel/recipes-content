@@ -1,7 +1,24 @@
 ---
 prep: 1 ½ hours (across stages)
 cook: 35 minutes (plus 4 hours chilling)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - chocolate
+  - nuts
+  - complex
 ---
+
+
 
 # Dobos Torte
 

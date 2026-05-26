@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 2 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - garlic
+  - chili
 ---
+
+
 
 # Kashmiri Red Chilli and Garlic Chutney
 

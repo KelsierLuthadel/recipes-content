@@ -1,7 +1,26 @@
 ---
 prep: 30 minutes
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - butter
+  - cheese
+  - hanukkah
+  - eid-al-fitr
+  - ramadan
+  - rosh-hashanah
+  - shavuot
+  - jewish
 ---
+
+
 
 # Bourekas
 

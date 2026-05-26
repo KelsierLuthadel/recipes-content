@@ -1,7 +1,24 @@
 ---
 prep: 15 minutes
 cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - complex
 ---
+
+
 
 # Chicken Paprikash
 

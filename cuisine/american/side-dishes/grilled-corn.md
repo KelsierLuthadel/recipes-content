@@ -1,7 +1,21 @@
 ---
 prep: 10 minutes
 cook: 12 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - bbq
+  - garlic
+  - lime
+  - butter
 ---
+
+
 
 # Grilled Corn on the Cob
 

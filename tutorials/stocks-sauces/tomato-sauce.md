@@ -1,3 +1,13 @@
+---
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+---
+
+
 # Tomato Sauce
 
 ![Tomato sauce](resources/tomato.jpg)

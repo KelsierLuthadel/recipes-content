@@ -1,7 +1,28 @@
 ---
 prep: 25 minutes
 cook: 50 minutes
+allergens:
+  - gluten
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - tomato
+  - potato
+  - carrot
+  - lime
+  - chili
+  - complex
 ---
+
+
 
 # Bahamian Stew Chicken
 

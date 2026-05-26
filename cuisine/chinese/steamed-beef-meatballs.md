@@ -1,7 +1,25 @@
 ---
 prep: 15 minutes
 cook: 20 minutes
+allergens:
+  - eggs
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - asian
+  - meat
+  - beef
+  - eggs
+  - onion
+  - coriander
+  - soy-sauce
 ---
+
+
 
 # Steamed Beef Meatballs
 

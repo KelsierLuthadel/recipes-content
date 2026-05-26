@@ -1,7 +1,20 @@
 ---
 prep: 15 minutes (plus 2 hour batter rest)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - snack
+  - asian
+  - onion
+  - coconut
+  - complex
 ---
+
+
 
 # Khanom Krok
 

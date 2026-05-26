@@ -1,7 +1,28 @@
 ---
 prep: 25 minutes
 cook: 45 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - chili
+  - soy-sauce
+  - complex
 ---
+
+
 
 # Big Plate Chicken
 

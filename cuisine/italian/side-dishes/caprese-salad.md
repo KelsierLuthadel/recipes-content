@@ -1,7 +1,18 @@
 ---
 prep: 10 minutes
 cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - tomato
+  - cheese
 ---
+
+
 
 # Caprese Salad
 

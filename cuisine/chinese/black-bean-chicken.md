@@ -1,7 +1,27 @@
 ---
 prep: 15 minutes
 cook: 6 minutes
+allergens:
+  - peanuts
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - soy-sauce
 ---
+
+
 
 # Chicken in Black Bean Sauce
 

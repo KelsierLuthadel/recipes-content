@@ -1,7 +1,25 @@
 ---
 prep: 5 minutes
 cook: 5 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - beef
+  - pork
+  - rice
+  - tomato
+  - cream
+  - cheese
 ---
+
+
 
 # Fully Loaded Burrito
 

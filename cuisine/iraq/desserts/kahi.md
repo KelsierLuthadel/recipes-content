@@ -1,7 +1,20 @@
 ---
 prep: 40 minutes (plus 30 minutes resting)
 cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - lemon
+  - butter
+  - cream
+  - honey
+  - complex
 ---
+
+
 
 # Kahi
 

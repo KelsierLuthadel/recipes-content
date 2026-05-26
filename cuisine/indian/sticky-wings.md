@@ -1,7 +1,23 @@
 ---
 prep: 5 minutes
 cook: 45 minutes
+allergens:
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - asian
+  - meat
+  - chicken
+  - garlic
+  - ginger
+  - lemon
 ---
+
+
 
 # Mowgli Sticky Wings
 

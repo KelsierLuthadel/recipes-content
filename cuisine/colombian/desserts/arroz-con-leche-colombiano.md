@@ -1,7 +1,17 @@
 ---
 prep: 5 minutes
 cook: 50 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - rice
+  - lemon
 ---
+
+
 
 # Arroz Con Leche Colombiano
 

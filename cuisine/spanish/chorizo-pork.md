@@ -1,7 +1,24 @@
 ---
 prep: 15 minutes
 cook: 35 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - tomato
+  - potato
+  - lemon
+  - chili
 ---
+
+
 
 # Chorizo Pork with Crispy New Potatoes
 

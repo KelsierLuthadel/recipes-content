@@ -1,7 +1,25 @@
 ---
 prep: 12 minutes
 cook: 0 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - chili
 ---
+
+
 
 # Pebre
 

@@ -1,7 +1,24 @@
 ---
 prep: 15 minutes
 cook: 4 minutes
+allergens:
+  - gluten
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - fish
+  - prawn
+  - garlic
+  - tomato
+  - lemon
+  - chili
 ---
+
+
 
 # Seafood Linguine with Chilli and White Wine
 

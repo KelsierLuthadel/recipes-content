@@ -1,7 +1,27 @@
 ---
 prep: 10 minutes
 cook: 0 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - yogurt
+  - honey
+  - nuts
+  - chili
 ---
+
+
 
 # Lahori Mint Chutney
 

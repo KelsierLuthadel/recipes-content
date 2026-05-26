@@ -1,7 +1,23 @@
 ---
 prep: 10 minutes
 cook: 30 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - sides
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - coriander
 ---
+
+
 
 # Arroz Rojo Con Chorizo
 

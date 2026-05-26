@@ -1,7 +1,22 @@
 ---
 prep: 15 minutes
 cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - eggs
+  - lemon
+  - butter
+  - cheese
+  - honey
 ---
+
+
 
 # Syrnyky
 

@@ -1,7 +1,20 @@
 ---
 prep: 20 minutes (plus 2 hours rising)
 cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - eggs
+  - butter
+  - complex
 ---
+
+
 
 # Beignets
 

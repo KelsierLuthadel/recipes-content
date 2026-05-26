@@ -1,7 +1,24 @@
 ---
 prep: 20 minutes (plus 1 hour resting at room temperature)
 cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - carrot
+  - complex
+  - easter
 ---
+
+
 
 # Roast Lamb with Rosemary and Garlic
 

@@ -1,6 +1,21 @@
 ---
 prep: 10 minutes
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - ginger
+  - coriander
+  - chili
+  - curry
 ---
+
+
 
 # Classic Curry Powder
 

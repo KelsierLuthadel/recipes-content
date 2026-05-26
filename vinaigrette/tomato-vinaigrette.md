@@ -1,6 +1,19 @@
 ---
 prep: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - tomato
+  - chili
 ---
+
+
 
 # Tomato Vinaigrette
 

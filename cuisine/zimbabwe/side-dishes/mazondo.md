@@ -1,7 +1,23 @@
 ---
 prep: 15 minutes
 cook: 3 hours 30 minutes
+allergens:
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - meat
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - chili
+  - complex
 ---
+
+
 
 # Mazondo
 

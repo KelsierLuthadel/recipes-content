@@ -1,7 +1,20 @@
 ---
 prep: 5 minutes
 cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - rice
+  - onion
+  - coconut
+  - butter
 ---
+
+
 
 # Arroz de Coco
 

@@ -1,7 +1,26 @@
 ---
 prep: 30 minutes
 cook: 50 minutes (sauce) + 30 minutes (bake from frozen)
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - cheese
+  - chili
+  - complex
 ---
+
+
 
 # Spicy Sausage Calzone
 

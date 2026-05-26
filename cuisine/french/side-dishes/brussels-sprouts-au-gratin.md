@@ -1,6 +1,18 @@
 ---
 prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - garlic
+  - cheese
 ---
+
+
 
 # Brussels Sprouts au Gratin
 

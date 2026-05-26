@@ -1,7 +1,29 @@
 ---
 prep: 20 minutes
 cook: 35 minutes
+allergens:
+  - dairy
+  - peanuts
+  - shellfish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - spinach
+  - lime
+  - coriander
+  - butter
+  - nuts
+  - chili
 ---
+
+
 
 # Matata
 

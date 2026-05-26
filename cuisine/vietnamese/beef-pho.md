@@ -1,7 +1,29 @@
 ---
 prep: 20 minutes
 cook: 30 minutes
+allergens:
+  - gluten
+  - fish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - beef
+  - onion
+  - garlic
+  - ginger
+  - lime
+  - coriander
+  - chili
+  - complex
 ---
+
+
 
 # Beef Pho
 

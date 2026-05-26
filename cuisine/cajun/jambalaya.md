@@ -1,7 +1,29 @@
 ---
 prep: 25 minutes
 cook: 17 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - spicy
+  - one-pan
+  - meals
+  - meat
+  - fish
+  - pork
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - cream
+  - cheese
+  - complex
 ---
+
+
 
 # Jambalaya
 

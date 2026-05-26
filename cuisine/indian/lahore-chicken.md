@@ -1,7 +1,30 @@
 ---
 prep: 20 minutes
 cook: 53 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - yogurt
+  - chili
+  - curry
+  - complex
 ---
+
+
 
 # Simple Lahori Chicken Curry
 
