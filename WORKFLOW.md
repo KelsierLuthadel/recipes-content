@@ -146,11 +146,61 @@ All scripts run from `recipes-ui-next/`. They expect the `recipes-content/` repo
 | Command | What it does | When to run |
 |---|---|---|
 | `npm run build-manifest` | Builds `static/recipes.json` from `recipes-content/**/*.md`, then regenerates every `.yml` sidecar that has drifted from its `.md`. The chained command is the **one command you usually need**. | After any recipe change (add / update / delete). |
-| `node scripts/build-manifest.mjs` | Just the manifest build. Doesn't touch `.yml`. | When you want a quick rebuild without sidecar regen. Rare. |
-| `node --experimental-strip-types scripts/regen-sidecars.mjs` | Just the sidecar regen. Reads the current `static/recipes.json` and writes any `.yml` that's drifted. | When you've manually edited a `.yml` and want to revert it to the body-derived form. (Or when CI checks the snapshot is in sync.) |
+| `npm run check:sync` | Same as `build-manifest` but the regen step runs in `--check` mode: it doesn't write, just exits non-zero if any `.yml` would drift. Lists the drifted recipe paths. | In CI / pre-commit, or before opening a PR to make sure you didn't forget to run the build. |
+| `node --experimental-strip-types scripts/build-manifest.mjs` | Just the manifest build. Doesn't touch `.yml`. | When you want a quick rebuild without sidecar regen. Rare. |
+| `node --experimental-strip-types scripts/regen-sidecars.mjs` | Just the sidecar regen. Reads the current `static/recipes.json` and writes any `.yml` that's drifted. Pass `--check` to abort instead of writing. | When you've manually edited a `.yml` and want to revert it to the body-derived form. |
 | `npm run dev` | Starts the SvelteKit dev server. | When you want to preview the changes in a browser. Reads `static/recipes.json` — you need to have built it first. |
 | `npm run check` | `svelte-check` over the SvelteKit app code. | Before opening a PR. Must be 0/0. |
 | `npm run test` | Vitest unit tests. | Before opening a PR. |
+
+### Catching drift before commit
+
+`npm run check:sync` is the gate. Two ways to wire it:
+
+**Pre-commit hook (local guard).** Put this in `recipes-content/.git/hooks/pre-commit` (make it executable: `chmod +x`):
+
+```sh
+#!/bin/sh
+# Fail commit if any .yml sidecar would drift from its .md body.
+# Skips the check when only non-recipe files (README, LICENSE,
+# WORKFLOW.md, etc.) changed.
+set -e
+if git diff --cached --name-only | grep -qE '\.(md|yml)$'; then
+  (cd ../recipes-ui-next && npm run --silent check:sync) || {
+    echo
+    echo "  Sidecar drift detected. Run 'npm run build-manifest' in" >&2
+    echo "  recipes-ui-next/, commit the resulting .yml changes," >&2
+    echo "  and retry your commit." >&2
+    exit 1
+  }
+fi
+```
+
+**CI workflow (PR gate).** A GitHub Actions workflow on `recipes-content` that checks out `recipes-ui-next` as a sibling and runs the check:
+
+```yaml
+# .github/workflows/sync-check.yml
+name: sidecar-sync
+on: pull_request
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { path: recipes-content }
+      - uses: actions/checkout@v4
+        with:
+          repository: KelsierLuthadel/recipes-ui-next
+          path: recipes-ui-next
+      - uses: actions/setup-node@v4
+        with: { node-version: '24' }
+      - run: npm ci
+        working-directory: recipes-ui-next
+      - run: npm run check:sync
+        working-directory: recipes-ui-next
+```
+
+Either layer catches the "forgot to rebuild after editing the `.md`" mistake. Both is fine; the hook is fast feedback, the CI is the reliable gate.
 
 ### What's automatic
 
