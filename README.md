@@ -229,7 +229,8 @@ To add a recipe to a festival, append its slug to the corresponding list. To add
 
 When you've added or changed content, the site needs to rebuild its manifest to pick up the change. That step plus every other automation script (image thumbs, fetch-from-Pexels, fraction normalisation, em-dash sweep, recipe linter, etc.) is documented in the sibling repo:
 
-- **[recipes-ui/documentation/SCRIPTS.md](https://github.com/KelsierLuthadel/recipe-ui/blob/main/documentation/SCRIPTS.md)** - every script in either repo, what it does, when to run it.
+- **[WORKFLOW.md](WORKFLOW.md)** - add / update / delete a recipe under the SvelteKit (`recipes-ui-next`) build. **Start here if you're authoring recipes today.**
+- **[recipes-ui/documentation/SCRIPTS.md](https://github.com/KelsierLuthadel/recipe-ui/blob/main/documentation/SCRIPTS.md)** - every script in either repo, what it does, when to run it (covers the legacy vanilla build).
 - **[recipes-ui/documentation/DEVELOPER.md](https://github.com/KelsierLuthadel/recipe-ui/blob/main/documentation/DEVELOPER.md)** - how the build pipeline turns this markdown into the deployed site.
 - **[documentation/AUTHORING.md](documentation/AUTHORING.md)** - the full authoring spec (this file is the short version).
 
