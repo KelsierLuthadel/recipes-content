@@ -14,7 +14,11 @@ tags:
   - lemon
   - butter
   - complex
+mentions:
+  - tutorials/bread/gluten
+  - tutorials/pizza/dough
 ---
+
 
 
 

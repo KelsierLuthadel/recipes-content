@@ -26,7 +26,11 @@ tags:
   - coriander
   - nuts
   - chili
+mentions:
+  - tutorials/bread/gluten
+  - tutorials/pizza/sauce
 ---
+
 
 
 

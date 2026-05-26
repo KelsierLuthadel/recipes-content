@@ -9,7 +9,10 @@ tags:
   - gluten-free
   - quick
   - baking
+mentions:
+  - tutorials/patisserie/tarts
 ---
+
 
 
 

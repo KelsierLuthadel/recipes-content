@@ -17,7 +17,12 @@ tags:
   - complex
   - holi
   - hindu
+mentions:
+  - cuisine/indian/side-dishes/keema-samosa
+  - cuisine/indian/side-dishes/samosa
+  - tutorials/pizza/dough
 ---
+
 
 
 

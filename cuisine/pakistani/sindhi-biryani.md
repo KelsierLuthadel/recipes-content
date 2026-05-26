@@ -26,7 +26,10 @@ tags:
   - eid-al-adha
   - ramadan
   - muslim
+mentions:
+  - cuisine/indian/biryani
 ---
+
 
 
 

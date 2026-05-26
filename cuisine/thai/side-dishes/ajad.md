@@ -18,7 +18,10 @@ tags:
   - coriander
   - nuts
   - chili
+mentions:
+  - cuisine/chinese/snacks/spring-rolls
 ---
+
 
 
 

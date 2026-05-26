@@ -17,7 +17,11 @@ tags:
   - lime
   - chili
   - complex
+mentions:
+  - cuisine/mexican/snacks/tostadas
+  - tutorials/pizza/toppings
 ---
+
 
 
 

@@ -22,7 +22,10 @@ tags:
   - coriander
   - chili
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -23,7 +23,11 @@ tags:
   - chili
   - complex
   - lunar-new-year
+mentions:
+  - cuisine/chinese/snacks/spring-rolls
+  - tutorials/pizza/sauce
 ---
+
 
 
 

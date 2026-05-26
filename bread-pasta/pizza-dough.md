@@ -8,7 +8,14 @@ tags:
   - vegetarian
   - quick
   - make-ahead
+mentions:
+  - tutorials/bread/hydration
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
 ---
+
 
 
 

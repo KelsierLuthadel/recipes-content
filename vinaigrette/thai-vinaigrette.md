@@ -12,7 +12,10 @@ tags:
   - lime
   - coriander
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

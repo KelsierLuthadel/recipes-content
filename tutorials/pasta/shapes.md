@@ -7,7 +7,19 @@ tags:
   - dairy-free
   - make-ahead
   - one-pan
+mentions:
+  - bread-pasta/pasta
+  - cuisine/italian/bolognese
+  - cuisine/italian/gnocchi
+  - cuisine/italian/lasagne
+  - cuisine/italian/pesto
+  - tutorials/pasta/dried-pasta
+  - tutorials/pasta/fresh-pasta-dough
+  - tutorials/pasta/matching-sauce-to-shape
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 # Pasta Shapes

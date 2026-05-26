@@ -5,7 +5,13 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - cuisine/indian/rice/kashmiri-pulao
+  - cuisine/indian/rice/pilau-rice
+  - cuisine/iran/tahdig
+  - tutorials/bread/hydration
 ---
+
 
 
 # Absorption Method

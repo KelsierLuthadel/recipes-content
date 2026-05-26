@@ -25,7 +25,13 @@ tags:
   - chili
   - curry
   - complex
+mentions:
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - cuisine/indian/Spice-Mixes/panch-poran
+  - sauces/fruit-sauce/mango-chutney
+  - tutorials/pizza/sauce
 ---
+
 
 
 

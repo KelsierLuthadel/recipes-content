@@ -12,7 +12,11 @@ tags:
   - eggs
   - onion
   - lemon
+mentions:
+  - cuisine/british/fish-and-chips
+  - tutorials/pizza/sauce
 ---
+
 
 
 

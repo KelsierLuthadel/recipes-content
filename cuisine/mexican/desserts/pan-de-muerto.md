@@ -12,7 +12,11 @@ tags:
   - butter
   - complex
   - day-of-the-dead
+mentions:
+  - cuisine/mexican/desserts/champurrado
+  - tutorials/pizza/dough
 ---
+
 
 
 

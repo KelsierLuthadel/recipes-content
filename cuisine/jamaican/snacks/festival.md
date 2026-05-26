@@ -10,7 +10,11 @@ tags:
   - snack
   - coconut
   - butter
+mentions:
+  - cuisine/jamaican/jerk-chicken
+  - tutorials/pizza/dough
 ---
+
 
 
 

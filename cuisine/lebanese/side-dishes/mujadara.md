@@ -11,7 +11,10 @@ tags:
   - rice
   - onion
   - yogurt
+mentions:
+  - cuisine/middle-east/mujadara
 ---
+
 
 
 

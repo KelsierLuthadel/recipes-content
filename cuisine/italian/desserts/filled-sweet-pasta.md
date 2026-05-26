@@ -13,7 +13,13 @@ tags:
   - butter
   - cheese
   - nuts
+mentions:
+  - tutorials/bread/gluten
+  - tutorials/patisserie/petit-fours
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

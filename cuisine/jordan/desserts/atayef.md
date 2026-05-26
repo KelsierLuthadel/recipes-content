@@ -12,7 +12,12 @@ tags:
   - cheese
   - nuts
   - complex
+mentions:
+  - cuisine/egyptian/desserts/basbousa
+  - cuisine/turkish/desserts/baklava
+  - tutorials/pizza/cheese
 ---
+
 
 
 

@@ -15,7 +15,12 @@ tags:
   - chocolate
   - complex
   - day-of-the-dead
+mentions:
+  - sauces/sauce-sweet/chocolate-sauce
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

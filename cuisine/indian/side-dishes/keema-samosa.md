@@ -21,7 +21,11 @@ tags:
   - coriander
   - chili
   - complex
+mentions:
+  - cuisine/indian/sauces-pickles/mint-chutney
+  - cuisine/indian/snacks/samosa
 ---
+
 
 
 

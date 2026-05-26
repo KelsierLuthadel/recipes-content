@@ -22,7 +22,11 @@ tags:
   - yogurt
   - nuts
   - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
 ---
+
 
 
 

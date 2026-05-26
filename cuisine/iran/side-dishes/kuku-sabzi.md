@@ -16,7 +16,10 @@ tags:
   - yogurt
   - nuts
   - complex
+mentions:
+  - cuisine/italian/frittata
 ---
+
 
 
 

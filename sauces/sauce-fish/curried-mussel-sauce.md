@@ -12,7 +12,10 @@ tags:
   - butter
   - cream
   - curry
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

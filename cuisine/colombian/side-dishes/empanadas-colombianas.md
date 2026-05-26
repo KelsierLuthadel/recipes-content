@@ -19,7 +19,11 @@ tags:
   - coriander
   - chili
   - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

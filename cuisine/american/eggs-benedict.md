@@ -19,7 +19,12 @@ tags:
   - lemon
   - butter
   - chili
+mentions:
+  - sauces/sauce-savory/hollandaise-sauce
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/hollandaise
 ---
+
 
 
 

@@ -7,7 +7,11 @@ tags:
   - vegan
   - dairy-free
   - quick
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

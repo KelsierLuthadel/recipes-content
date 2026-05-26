@@ -14,7 +14,10 @@ tags:
   - complex
   - holi
   - hindu
+mentions:
+  - cuisine/indian/desserts/gujiya
 ---
+
 
 
 

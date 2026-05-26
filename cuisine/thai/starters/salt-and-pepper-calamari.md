@@ -15,7 +15,10 @@ tags:
   - fish
   - eggs
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

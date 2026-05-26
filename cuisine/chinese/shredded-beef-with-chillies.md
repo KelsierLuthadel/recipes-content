@@ -17,7 +17,10 @@ tags:
   - carrot
   - chili
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

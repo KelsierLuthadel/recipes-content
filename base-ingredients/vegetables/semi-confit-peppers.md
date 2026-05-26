@@ -9,7 +9,10 @@ tags:
   - dairy-free
   - gluten-free
   - garlic
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

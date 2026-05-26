@@ -22,7 +22,11 @@ tags:
   - yom-kippur
   - sukkot
   - jewish
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

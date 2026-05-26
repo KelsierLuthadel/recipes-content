@@ -5,7 +5,14 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - tutorials/bread/bloomer
+  - tutorials/bread/proving
+  - tutorials/bread/shapes
+  - tutorials/bread/standard-loaf
+  - tutorials/pizza/dough
 ---
+
 
 
 # Tin Loaf

@@ -13,7 +13,11 @@ tags:
   - tomato
   - lemon
   - cheese
+mentions:
+  - cuisine/italian/pesto
+  - tutorials/pizza/toppings
 ---
+
 
 
 

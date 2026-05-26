@@ -5,7 +5,14 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - tutorials/bread/cob
+  - tutorials/bread/coburg
+  - tutorials/bread/proving
+  - tutorials/bread/shapes
+  - tutorials/pizza/dough
 ---
+
 
 
 # Cottage

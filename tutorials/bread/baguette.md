@@ -5,7 +5,13 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - tutorials/bread/bloomer
+  - tutorials/bread/proving
+  - tutorials/bread/shapes
+  - tutorials/pizza/dough
 ---
+
 
 
 # Baguette

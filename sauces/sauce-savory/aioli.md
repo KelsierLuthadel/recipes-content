@@ -14,7 +14,11 @@ tags:
   - garlic
   - lemon
   - chili
+mentions:
+  - cuisine/french/bouillabaisse
+  - tutorials/pizza/sauce
 ---
+
 
 
 

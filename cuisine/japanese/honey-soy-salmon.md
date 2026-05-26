@@ -21,7 +21,10 @@ tags:
   - ginger
   - honey
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

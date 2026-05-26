@@ -15,7 +15,10 @@ tags:
   - rosh-hashanah
   - sukkot
   - jewish
+mentions:
+  - cuisine/jamaican/snacks/festival
 ---
+
 
 
 

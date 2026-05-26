@@ -6,7 +6,21 @@ tags:
   - dairy-free
   - gluten-free
   - rice
+mentions:
+  - cuisine/afghanistan/kabuli-pulao
+  - cuisine/azerbaijan/plov
+  - cuisine/indian/biryani
+  - cuisine/indian/rice/jeera-rice
+  - cuisine/indian/rice/kashmiri-pulao
+  - cuisine/indian/rice/pilau-rice
+  - cuisine/iran/tahdig
+  - cuisine/lahori/rice/lahori-chana-pulao
+  - tutorials/bir-curry/bir-curry
+  - tutorials/rice/absorption-method
+  - tutorials/rice/boiled-rice
+  - tutorials/rice/fried-rice-technique
 ---
+
 
 
 # Pilaf

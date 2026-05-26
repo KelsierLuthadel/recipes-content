@@ -17,7 +17,13 @@ tags:
   - garlic
   - chili
   - soy-sauce
+mentions:
+  - cuisine/mongolian/buuz
+  - cuisine/mongolian/khuushuur
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

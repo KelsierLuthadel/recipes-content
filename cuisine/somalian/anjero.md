@@ -10,7 +10,10 @@ tags:
   - make-ahead
   - meals
   - complex
+mentions:
+  - cuisine/somalian/suqaar
 ---
+
 
 
 

@@ -20,7 +20,13 @@ tags:
   - cheese
   - complex
   - st-patricks
+mentions:
+  - cuisine/british/cottage-pie
+  - tutorials/bread/cottage
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

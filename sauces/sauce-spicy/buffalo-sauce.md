@@ -11,7 +11,11 @@ tags:
   - quick
   - butter
   - chili
+mentions:
+  - cuisine/american/snacks/buffalo-wings
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -5,7 +5,13 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - tutorials/bread/cob
+  - tutorials/bread/cottage
+  - tutorials/bread/shapes
+  - tutorials/pizza/dough
 ---
+
 
 
 # Coburg

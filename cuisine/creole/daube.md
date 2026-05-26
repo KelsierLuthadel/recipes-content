@@ -21,7 +21,10 @@ tags:
   - garlic
   - tomato
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

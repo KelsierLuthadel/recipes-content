@@ -12,7 +12,10 @@ tags:
   - make-ahead
   - eggs
   - butter
+mentions:
+  - tutorials/pizza/dough
 ---
+
 
 
 

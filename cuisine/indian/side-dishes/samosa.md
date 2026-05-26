@@ -19,7 +19,12 @@ tags:
   - potato
   - coriander
   - curry
+mentions:
+  - baking/pastry/filo-pastry
+  - cuisine/indian/sauces-pickles/mint-chutney
+  - tutorials/pastry/filo
 ---
+
 
 
 

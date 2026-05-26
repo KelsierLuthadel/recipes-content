@@ -19,7 +19,11 @@ tags:
   - butter
   - cheese
   - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

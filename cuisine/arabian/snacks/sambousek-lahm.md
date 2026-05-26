@@ -20,7 +20,11 @@ tags:
   - yogurt
   - nuts
   - complex
+mentions:
+  - cuisine/arabian/mutabbal
+  - tutorials/pizza/dough
 ---
+
 
 
 

@@ -14,7 +14,11 @@ tags:
   - tomato
   - ginger
   - yogurt
+mentions:
+  - cuisine/indian/lamb-karahi
+  - tutorials/pizza/sauce
 ---
+
 
 
 

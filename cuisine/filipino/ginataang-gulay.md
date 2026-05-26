@@ -17,7 +17,10 @@ tags:
   - coconut
   - chili
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

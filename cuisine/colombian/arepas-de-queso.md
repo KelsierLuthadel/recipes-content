@@ -11,7 +11,14 @@ tags:
   - tomato
   - butter
   - cheese
+mentions:
+  - cuisine/colombian/side-dishes/hogao
+  - cuisine/mexican/snacks/guacamole
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -11,7 +11,11 @@ tags:
   - meals
   - eggs
   - butter
+mentions:
+  - cuisine/german/kasespatzle
+  - tutorials/bread/gluten
 ---
+
 
 
 

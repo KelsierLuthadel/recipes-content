@@ -21,7 +21,11 @@ tags:
   - lemon
   - chili
   - soy-sauce
+mentions:
+  - sauces/sauce-fish/lemon-sauce
+  - tutorials/pizza/sauce
 ---
+
 
 
 

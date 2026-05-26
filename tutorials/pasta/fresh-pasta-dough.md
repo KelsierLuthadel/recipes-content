@@ -5,7 +5,16 @@ tags:
   - vegetarian
   - vegan
   - dairy-free
+mentions:
+  - cuisine/italian/lasagne
+  - tutorials/bread/gluten
+  - tutorials/pasta/dried-pasta
+  - tutorials/pasta/matching-sauce-to-shape
+  - tutorials/pizza/dough
+  - tutorials/pizza/pizza
+  - tutorials/pizza/sauce
 ---
+
 
 
 # Fresh Pasta Dough

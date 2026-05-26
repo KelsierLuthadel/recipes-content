@@ -13,7 +13,10 @@ tags:
   - spices
   - onion
   - garlic
+mentions:
+  - cuisine/cajun/jambalaya
 ---
+
 
 
 

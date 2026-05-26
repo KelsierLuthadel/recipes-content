@@ -13,7 +13,10 @@ tags:
   - meals
   - garlic
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

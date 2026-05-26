@@ -10,7 +10,10 @@ tags:
   - sides
   - fish
   - butter
+mentions:
+  - cuisine/british/fish-and-chips
 ---
+
 
 
 

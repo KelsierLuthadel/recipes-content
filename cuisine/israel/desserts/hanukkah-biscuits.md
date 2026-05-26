@@ -12,7 +12,11 @@ tags:
   - lemon
   - butter
   - complex
+mentions:
+  - cuisine/polish/latkes
+  - tutorials/pizza/dough
 ---
+
 
 
 

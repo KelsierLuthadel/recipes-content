@@ -11,7 +11,12 @@ tags:
   - onion
   - tomato
   - lemon
+mentions:
+  - cuisine/lebanese/kibbeh
+  - cuisine/lebanese/side-dishes/tabbouleh
+  - cuisine/middle-east/kibbeh
 ---
+
 
 
 

@@ -5,7 +5,25 @@ tags:
   - vegetarian
   - vegan
   - dairy-free
+mentions:
+  - bread-pasta/pasta
+  - cuisine/italian/bucatini-carbonara
+  - cuisine/italian/cacio-e-pepe
+  - cuisine/italian/gnocchi
+  - cuisine/italian/lasagne
+  - cuisine/italian/pesto
+  - tutorials/bread/bread
+  - tutorials/bread/shapes
+  - tutorials/pasta/dried-pasta
+  - tutorials/pasta/fresh-pasta-dough
+  - tutorials/pasta/matching-sauce-to-shape
+  - tutorials/pasta/regional-italian
+  - tutorials/pizza/dough
+  - tutorials/pizza/pizza
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/bechamel
 ---
+
 
 
 # Pasta Course

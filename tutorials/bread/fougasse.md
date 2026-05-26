@@ -5,7 +5,12 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - tutorials/bread/hydration
+  - tutorials/bread/shapes
+  - tutorials/pizza/dough
 ---
+
 
 
 # Fougasse

@@ -18,7 +18,15 @@ tags:
   - lime
   - chili
   - curry
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+  - cuisine/thai/pastes/thai-green-curry-paste
+  - cuisine/thai/stocks/thai-chicken-stock
+  - tutorials/bread/gluten
+  - tutorials/pizza/sauce
+  - tutorials/thai-curry/green
 ---
+
 
 
 

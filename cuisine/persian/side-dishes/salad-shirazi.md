@@ -12,7 +12,10 @@ tags:
   - onion
   - tomato
   - lime
+mentions:
+  - cuisine/iran/ghormeh-sabzi
 ---
+
 
 
 

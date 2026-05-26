@@ -9,7 +9,10 @@ tags:
   - sides
   - butter
   - honey
+mentions:
+  - cuisine/zimbabwe/side-dishes/sadza
 ---
+
 
 
 

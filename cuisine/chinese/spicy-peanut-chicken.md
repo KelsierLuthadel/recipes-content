@@ -23,7 +23,11 @@ tags:
   - nuts
   - chili
   - soy-sauce
+mentions:
+  - cuisine/chinese/kung-pao-chicken
+  - tutorials/pizza/sauce
 ---
+
 
 
 

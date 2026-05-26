@@ -11,7 +11,11 @@ tags:
   - make-ahead
   - eggs
   - lemon
+mentions:
+  - sauces/sauce-sweet/caramel-sauce
+  - tutorials/pizza/sauce
 ---
+
 
 
 

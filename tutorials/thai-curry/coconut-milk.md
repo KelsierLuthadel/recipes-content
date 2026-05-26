@@ -6,7 +6,11 @@ tags:
   - gluten-free
   - coconut
   - curry
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/thai-curry/green
 ---
+
 
 
 # Coconut Milk Technique

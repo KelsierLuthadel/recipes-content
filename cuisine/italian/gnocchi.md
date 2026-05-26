@@ -11,7 +11,12 @@ tags:
   - eggs
   - potato
   - complex
+mentions:
+  - cuisine/italian/pesto
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

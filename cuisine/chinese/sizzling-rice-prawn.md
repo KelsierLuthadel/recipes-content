@@ -21,7 +21,11 @@ tags:
   - chili
   - soy-sauce
   - complex
+mentions:
+  - cuisine/chinese/side-dishes/rice-cake
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -23,7 +23,14 @@ tags:
   - chili
   - soy-sauce
   - complex
+mentions:
+  - cuisine/american/side-dishes/baked-beans
+  - cuisine/american/side-dishes/cornbread
+  - cuisine/mexican/jays-mixed-chilli
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

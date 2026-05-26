@@ -24,7 +24,11 @@ tags:
   - chili
   - curry
   - complex
+mentions:
+  - bread-pasta/naan
+  - tutorials/pizza/sauce
 ---
+
 
 
 

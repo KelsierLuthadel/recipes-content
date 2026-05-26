@@ -21,7 +21,10 @@ tags:
   - yogurt
   - chili
   - complex
+mentions:
+  - cuisine/indian/biryani
 ---
+
 
 
 

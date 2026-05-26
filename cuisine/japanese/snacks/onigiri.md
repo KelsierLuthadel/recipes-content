@@ -14,7 +14,10 @@ tags:
   - salmon
   - rice
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

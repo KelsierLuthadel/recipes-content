@@ -19,7 +19,11 @@ tags:
   - cheese
   - yogurt
   - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/toppings
 ---
+
 
 
 

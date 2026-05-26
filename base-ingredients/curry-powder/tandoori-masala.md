@@ -11,7 +11,10 @@ tags:
   - quick
   - coriander
   - curry
+mentions:
+  - base-ingredients/curry-powder/balti-masala
 ---
+
 
 
 

@@ -15,7 +15,10 @@ tags:
   - lime
   - cream
   - complex
+mentions:
+  - cuisine/mexican/side-dishes/refried-beans
 ---
+
 
 
 

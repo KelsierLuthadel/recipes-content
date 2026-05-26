@@ -10,7 +10,10 @@ tags:
   - gluten-free
   - meat
   - complex
+mentions:
+  - tutorials/stocks-sauces/stocks
 ---
+
 
 
 

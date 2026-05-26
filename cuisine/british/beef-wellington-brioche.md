@@ -20,7 +20,15 @@ tags:
   - cream
   - complex
   - valentines
+mentions:
+  - base-ingredients/baking/clarified-butter
+  - cuisine/french/desserts/crepes
+  - cuisine/french/side-dishes/herb-crepes
+  - sauces/sauce-savory/bearnaise-sauce
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

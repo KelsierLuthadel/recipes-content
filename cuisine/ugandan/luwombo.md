@@ -21,7 +21,11 @@ tags:
   - chili
   - curry
   - complex
+mentions:
+  - cuisine/ugandan/matoke
+  - tutorials/pizza/sauce
 ---
+
 
 
 

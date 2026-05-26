@@ -10,7 +10,11 @@ tags:
   - quick
   - eggs
   - potato
+mentions:
+  - sponge/sponge-base
+  - tutorials/pizza/sauce
 ---
+
 
 
 

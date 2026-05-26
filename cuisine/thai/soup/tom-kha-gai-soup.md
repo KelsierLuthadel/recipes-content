@@ -21,7 +21,11 @@ tags:
   - coriander
   - chili
   - curry
+mentions:
+  - cuisine/thai/stocks/thai-chicken-stock
+  - tutorials/pizza/sauce
 ---
+
 
 
 

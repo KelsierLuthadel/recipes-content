@@ -18,7 +18,12 @@ tags:
   - garlic
   - ginger
   - soy-sauce
+mentions:
+  - bread-pasta/burger-buns
+  - cuisine/tibetan/side-dishes/sepen
+  - tutorials/pizza/sauce
 ---
+
 
 
 

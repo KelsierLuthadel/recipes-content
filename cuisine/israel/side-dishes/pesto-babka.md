@@ -18,7 +18,14 @@ tags:
   - cheese
   - nuts
   - complex
+mentions:
+  - cuisine/israel/desserts/babka
+  - cuisine/israel/side-dishes/challah
+  - cuisine/italian/pesto
+  - cuisine/polish/desserts/chocolate-babka
+  - tutorials/pizza/dough
 ---
+
 
 
 

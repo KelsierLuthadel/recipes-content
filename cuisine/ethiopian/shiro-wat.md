@@ -13,7 +13,10 @@ tags:
   - garlic
   - ginger
   - chickpea
+mentions:
+  - base-ingredients/spices/berbere
 ---
+
 
 
 

@@ -10,7 +10,11 @@ tags:
   - sides
   - eggs
   - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

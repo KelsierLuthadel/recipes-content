@@ -15,7 +15,11 @@ tags:
   - lime
   - coriander
   - complex
+mentions:
+  - cuisine/jamaican/jerk-chicken
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -15,7 +15,10 @@ tags:
   - ginger
   - chili
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

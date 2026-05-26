@@ -10,7 +10,10 @@ tags:
   - dairy-free
   - quick
   - dessert
+mentions:
+  - cuisine/french/desserts/crepes
 ---
+
 
 
 

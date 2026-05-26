@@ -19,7 +19,11 @@ tags:
   - lemon
   - cheese
   - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

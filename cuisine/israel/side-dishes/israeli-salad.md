@@ -18,7 +18,11 @@ tags:
   - yom-kippur
   - sukkot
   - jewish
+mentions:
+  - cuisine/israel/side-dishes/falafel
+  - cuisine/lebanese/side-dishes/labneh
 ---
+
 
 
 

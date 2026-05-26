@@ -13,7 +13,11 @@ tags:
   - garlic
   - butter
   - complex
+mentions:
+  - cuisine/russian/borscht
+  - tutorials/pizza/dough
 ---
+
 
 
 

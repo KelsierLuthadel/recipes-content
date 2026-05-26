@@ -18,7 +18,13 @@ tags:
   - lemon
   - coriander
   - complex
+mentions:
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - cuisine/indian/side-dishes/tandoori-chicken-tikka
+  - sauces/fruit-sauce/mango-chutney
+  - tutorials/pizza/sauce
 ---
+
 
 
 

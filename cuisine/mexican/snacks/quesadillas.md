@@ -22,7 +22,12 @@ tags:
   - cream
   - cheese
   - day-of-the-dead
+mentions:
+  - cuisine/mexican/side-dishes/refried-beans
+  - cuisine/mexican/snacks/guacamole
+  - tutorials/pizza/cheese
 ---
+
 
 
 

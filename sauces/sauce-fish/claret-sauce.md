@@ -13,7 +13,10 @@ tags:
   - onion
   - butter
   - cream
+mentions:
+  - tutorials/stocks-sauces/stocks
 ---
+
 
 
 

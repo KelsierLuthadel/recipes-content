@@ -19,7 +19,11 @@ tags:
   - carrot
   - chili
   - complex
+mentions:
+  - cuisine/zimbabwe/side-dishes/sadza
+  - tutorials/pizza/sauce
 ---
+
 
 
 

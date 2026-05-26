@@ -24,7 +24,11 @@ tags:
   - chili
   - soy-sauce
   - complex
+mentions:
+  - base-ingredients/sambal/nuoc-cham
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -18,7 +18,11 @@ tags:
   - cheese
   - chili
   - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

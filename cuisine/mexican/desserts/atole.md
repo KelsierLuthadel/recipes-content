@@ -9,7 +9,10 @@ tags:
   - quick
   - dessert
   - day-of-the-dead
+mentions:
+  - cuisine/mexican/desserts/pan-de-muerto
 ---
+
 
 
 

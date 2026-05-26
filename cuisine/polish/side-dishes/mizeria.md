@@ -11,7 +11,10 @@ tags:
   - garlic
   - lemon
   - cream
+mentions:
+  - cuisine/polish/grilled-kielbasa
 ---
+
 
 
 

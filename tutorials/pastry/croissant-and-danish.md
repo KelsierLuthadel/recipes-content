@@ -6,7 +6,16 @@ tags:
   - dairy-free
   - gluten-free
   - make-ahead
+mentions:
+  - baking/pastry/brioche-dough
+  - baking/pastry/croissant-dough
+  - bread-pasta/pains-au-chocolat
+  - tutorials/bread/bread
+  - tutorials/bread/enriched-doughs
+  - tutorials/pastry/puff
+  - tutorials/pizza/dough
 ---
+
 
 
 # Croissant and Danish

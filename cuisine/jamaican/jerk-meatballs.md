@@ -22,7 +22,10 @@ tags:
   - butter
   - curry
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

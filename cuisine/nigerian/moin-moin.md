@@ -22,7 +22,10 @@ tags:
   - ginger
   - chili
   - complex
+mentions:
+  - cuisine/american/side-dishes/black-eyed-peas
 ---
+
 
 
 

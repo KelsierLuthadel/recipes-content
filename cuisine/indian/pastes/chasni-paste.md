@@ -10,7 +10,11 @@ tags:
   - asian
   - pastes
   - lemon
+mentions:
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - sauces/fruit-sauce/mango-chutney
 ---
+
 
 
 

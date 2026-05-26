@@ -22,7 +22,11 @@ tags:
   - nuts
   - chili
   - complex
+mentions:
+  - cuisine/palestinian/snacks/makdous
+  - tutorials/pizza/sauce
 ---
+
 
 
 

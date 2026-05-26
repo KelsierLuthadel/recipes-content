@@ -8,7 +8,12 @@ tags:
   - vegetarian
   - baking
   - butter
+mentions:
+  - tutorials/patisserie/tarts
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

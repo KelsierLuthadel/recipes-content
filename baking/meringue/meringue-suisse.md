@@ -9,7 +9,10 @@ tags:
   - quick
   - baking
   - eggs
+mentions:
+  - tutorials/patisserie/tarts
 ---
+
 
 
 

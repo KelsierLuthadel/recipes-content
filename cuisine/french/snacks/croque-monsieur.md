@@ -13,7 +13,10 @@ tags:
   - pork
   - butter
   - cheese
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

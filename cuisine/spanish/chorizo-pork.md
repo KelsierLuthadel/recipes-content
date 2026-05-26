@@ -16,7 +16,10 @@ tags:
   - potato
   - lemon
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

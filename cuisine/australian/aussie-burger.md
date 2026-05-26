@@ -19,7 +19,13 @@ tags:
   - butter
   - cheese
   - complex
+mentions:
+  - bread-pasta/burger-buns
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
 ---
+
 
 
 

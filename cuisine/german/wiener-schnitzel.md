@@ -13,7 +13,10 @@ tags:
   - potato
   - lemon
   - butter
+mentions:
+  - base-ingredients/baking/clarified-butter
 ---
+
 
 
 

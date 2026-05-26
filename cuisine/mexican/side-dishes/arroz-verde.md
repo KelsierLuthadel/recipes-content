@@ -13,7 +13,10 @@ tags:
   - garlic
   - spinach
   - coriander
+mentions:
+  - cuisine/mexican/side-dishes/mexican-rice
 ---
+
 
 
 

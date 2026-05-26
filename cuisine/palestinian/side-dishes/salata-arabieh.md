@@ -14,7 +14,14 @@ tags:
   - tomato
   - lemon
   - chili
+mentions:
+  - cuisine/jordan/mansaf
+  - cuisine/lebanese/kibbeh
+  - cuisine/middle-east/kibbeh
+  - cuisine/palestinian/lahem-bi-ajeen
+  - cuisine/palestinian/musakhan
 ---
+
 
 
 

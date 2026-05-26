@@ -14,7 +14,11 @@ tags:
   - chicken
   - butter
   - chili
+mentions:
+  - cuisine/american/side-dishes/caesar-salad
+  - tutorials/rice/pilaf
 ---
+
 
 
 

@@ -9,7 +9,10 @@ tags:
   - quick
   - snack
   - tomato
+mentions:
+  - tutorials/pizza/toppings
 ---
+
 
 
 

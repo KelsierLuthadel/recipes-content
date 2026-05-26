@@ -13,7 +13,12 @@ tags:
   - butter
   - cheese
   - complex
+mentions:
+  - cuisine/azerbaijan/desserts/shekerbura
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

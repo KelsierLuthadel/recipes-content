@@ -14,7 +14,11 @@ tags:
   - onion
   - carrot
   - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

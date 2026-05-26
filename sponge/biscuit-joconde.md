@@ -13,7 +13,10 @@ tags:
   - eggs
   - butter
   - nuts
+mentions:
+  - base-ingredients/baking/tant-pour-tant
 ---
+
 
 
 

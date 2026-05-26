@@ -21,7 +21,11 @@ tags:
   - yogurt
   - nuts
   - complex
+mentions:
+  - cuisine/indian/pastes/raw-cashew-paste
+  - tutorials/pizza/sauce
 ---
+
 
 
 

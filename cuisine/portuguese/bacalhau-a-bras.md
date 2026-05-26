@@ -17,7 +17,10 @@ tags:
   - garlic
   - potato
   - lemon
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

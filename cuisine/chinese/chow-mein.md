@@ -22,7 +22,10 @@ tags:
   - garlic
   - soy-sauce
   - lunar-new-year
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

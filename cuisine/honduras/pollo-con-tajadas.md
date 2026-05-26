@@ -19,7 +19,10 @@ tags:
   - coriander
   - cream
   - complex
+mentions:
+  - cuisine/honduras/side-dishes/tajadas
 ---
+
 
 
 

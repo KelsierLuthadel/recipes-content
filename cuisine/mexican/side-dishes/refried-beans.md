@@ -18,7 +18,10 @@ tags:
   - cheese
   - complex
   - day-of-the-dead
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

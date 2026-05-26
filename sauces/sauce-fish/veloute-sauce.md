@@ -10,7 +10,10 @@ tags:
   - meat
   - fish
   - butter
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

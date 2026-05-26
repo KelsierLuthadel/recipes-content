@@ -9,7 +9,11 @@ tags:
   - gluten-free
   - dessert
   - make-ahead
+mentions:
+  - base-ingredients/syrup/sirop-a-sorbet
+  - tutorials/eggs/meringues
 ---
+
 
 
 

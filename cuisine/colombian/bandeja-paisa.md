@@ -14,7 +14,13 @@ tags:
   - eggs
   - rice
   - onion
+mentions:
+  - cuisine/colombian/side-dishes/frijoles-paisas
+  - cuisine/colombian/side-dishes/hogao
+  - cuisine/honduras/side-dishes/tajadas
+  - tutorials/pizza/cheese
 ---
+
 
 
 

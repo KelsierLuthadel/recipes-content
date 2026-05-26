@@ -16,7 +16,10 @@ tags:
   - lime
   - coriander
   - chili
+mentions:
+  - cuisine/indian/biryani
 ---
+
 
 
 

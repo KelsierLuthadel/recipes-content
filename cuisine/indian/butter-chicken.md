@@ -20,7 +20,11 @@ tags:
   - butter
   - cream
   - complex
+mentions:
+  - cuisine/indian/BIR-Butter-Chicken
+  - tutorials/pizza/sauce
 ---
+
 
 
 

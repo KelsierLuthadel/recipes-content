@@ -15,7 +15,10 @@ tags:
   - lemon
   - coriander
   - chili
+mentions:
+  - cuisine/afghanistan/kabuli-pulao
 ---
+
 
 
 

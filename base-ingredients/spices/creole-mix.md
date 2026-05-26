@@ -11,7 +11,11 @@ tags:
   - quick
   - spices
   - chili
+mentions:
+  - cuisine/cajun/jambalaya
+  - cuisine/creole/shrimp-creole
 ---
+
 
 
 

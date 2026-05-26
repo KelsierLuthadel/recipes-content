@@ -10,7 +10,13 @@ tags:
   - sides
   - honey
   - st-patricks
+mentions:
+  - cuisine/irish/beef-and-guinness-stew
+  - tutorials/bread/cottage
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
 ---
+
 
 
 

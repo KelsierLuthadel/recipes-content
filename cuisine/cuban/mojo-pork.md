@@ -17,7 +17,11 @@ tags:
   - garlic
   - lime
   - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

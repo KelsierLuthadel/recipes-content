@@ -13,7 +13,12 @@ tags:
   - potato
   - butter
   - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

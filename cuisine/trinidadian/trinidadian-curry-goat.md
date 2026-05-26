@@ -22,7 +22,11 @@ tags:
   - chili
   - curry
   - complex
+mentions:
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/thai/side-dishes/coconut-rice
 ---
+
 
 
 

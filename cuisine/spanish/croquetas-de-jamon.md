@@ -16,7 +16,10 @@ tags:
   - butter
   - chili
   - complex
+mentions:
+  - cuisine/cuban/snacks/croquetas
 ---
+
 
 
 

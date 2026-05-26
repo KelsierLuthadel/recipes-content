@@ -23,7 +23,11 @@ tags:
   - tomato
   - chili
   - soy-sauce
+mentions:
+  - cuisine/chinese/fried-rice
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -21,7 +21,13 @@ tags:
   - complex
   - shavuot
   - jewish
+mentions:
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - cuisine/israel/side-dishes/israeli-salad
+  - sauces/fruit-sauce/mango-chutney
+  - tutorials/pizza/sauce
 ---
+
 
 
 

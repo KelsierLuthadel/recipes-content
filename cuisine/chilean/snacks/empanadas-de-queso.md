@@ -11,7 +11,11 @@ tags:
   - eggs
   - butter
   - complex
+mentions:
+  - cuisine/chilean/empanadas-de-pino
+  - tutorials/pizza/dough
 ---
+
 
 
 

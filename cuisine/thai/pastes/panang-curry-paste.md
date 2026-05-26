@@ -20,7 +20,10 @@ tags:
   - nuts
   - chili
   - curry
+mentions:
+  - tutorials/thai-curry/panang
 ---
+
 
 
 

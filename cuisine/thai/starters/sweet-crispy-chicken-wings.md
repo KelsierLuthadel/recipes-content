@@ -19,7 +19,11 @@ tags:
   - garlic
   - ginger
   - chili
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/stocks
 ---
+
 
 
 

@@ -5,7 +5,11 @@ tags:
   - vegetarian
   - vegan
   - dairy-free
+mentions:
+  - tutorials/pastry/sweet-short
+  - tutorials/pizza/dough
 ---
+
 
 
 # Choux Pastry

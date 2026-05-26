@@ -13,7 +13,12 @@ tags:
   - rice
   - coconut
   - complex
+mentions:
+  - cuisine/thai/desserts/mango-sticky-rice
+  - cuisine/thai/salads/larb
+  - tutorials/pizza/sauce
 ---
+
 
 
 

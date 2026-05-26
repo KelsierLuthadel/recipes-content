@@ -14,7 +14,10 @@ tags:
   - lime
   - coriander
   - cheese
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

@@ -23,7 +23,14 @@ tags:
   - coriander
   - chili
   - curry
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+  - cuisine/thai/pastes/thai-yellow-curry-paste
+  - tutorials/bread/gluten
+  - tutorials/pizza/sauce
+  - tutorials/thai-curry/yellow
 ---
+
 
 
 

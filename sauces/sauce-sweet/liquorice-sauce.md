@@ -10,7 +10,11 @@ tags:
   - quick
   - eggs
   - cream
+mentions:
+  - cuisine/french/desserts/clafoutis
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -20,7 +20,13 @@ tags:
   - chili
   - complex
   - day-of-the-dead
+mentions:
+  - cuisine/mexican/snacks/tostadas
+  - sauces/sauce-spicy/chipotle-sauce
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

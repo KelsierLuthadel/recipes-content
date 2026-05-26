@@ -11,7 +11,11 @@ tags:
   - make-ahead
   - sides
   - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

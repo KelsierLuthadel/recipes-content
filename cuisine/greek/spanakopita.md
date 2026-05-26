@@ -16,7 +16,12 @@ tags:
   - butter
   - cheese
   - complex
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/pastry/filo
+  - tutorials/pizza/cheese
 ---
+
 
 
 

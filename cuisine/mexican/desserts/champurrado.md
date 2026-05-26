@@ -10,7 +10,11 @@ tags:
   - dessert
   - chocolate
   - day-of-the-dead
+mentions:
+  - cuisine/mexican/desserts/atole
+  - cuisine/mexican/desserts/pan-de-muerto
 ---
+
 
 
 

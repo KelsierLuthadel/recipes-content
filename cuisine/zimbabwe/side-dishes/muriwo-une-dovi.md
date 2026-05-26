@@ -14,7 +14,12 @@ tags:
   - tomato
   - butter
   - nuts
+mentions:
+  - cuisine/zimbabwe/dovi
+  - cuisine/zimbabwe/side-dishes/sadza
+  - tutorials/pizza/sauce
 ---
+
 
 
 

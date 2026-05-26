@@ -18,7 +18,10 @@ tags:
   - lime
   - coriander
   - complex
+mentions:
+  - cuisine/colombian/side-dishes/hogao
 ---
+
 
 
 

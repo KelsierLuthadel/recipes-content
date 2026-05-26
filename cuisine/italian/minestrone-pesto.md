@@ -21,7 +21,11 @@ tags:
   - cheese
   - nuts
   - complex
+mentions:
+  - cuisine/italian/pesto
+  - tutorials/pizza/cheese
 ---
+
 
 
 

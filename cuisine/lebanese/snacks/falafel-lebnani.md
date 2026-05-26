@@ -18,7 +18,12 @@ tags:
   - coriander
   - chickpea
   - complex
+mentions:
+  - cuisine/israel/side-dishes/falafel
+  - cuisine/yemen/side-dishes/zalabia
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -10,7 +10,10 @@ tags:
   - sides
   - garlic
   - cheese
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

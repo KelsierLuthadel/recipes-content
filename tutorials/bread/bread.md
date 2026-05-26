@@ -5,7 +5,24 @@ tags:
   - vegetarian
   - vegan
   - dairy-free
+mentions:
+  - baking/pastry/brioche-dough
+  - tutorials/bread/bloomer
+  - tutorials/bread/cob
+  - tutorials/bread/coburg
+  - tutorials/bread/cottage
+  - tutorials/bread/enriched-doughs
+  - tutorials/bread/fougasse
+  - tutorials/bread/gluten
+  - tutorials/bread/hydration
+  - tutorials/bread/proving
+  - tutorials/bread/scoring
+  - tutorials/bread/shapes
+  - tutorials/bread/sourdough
+  - tutorials/bread/standard-loaf
+  - tutorials/pizza/dough
 ---
+
 
 
 # Bread Course

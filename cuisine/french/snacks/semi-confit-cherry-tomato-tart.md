@@ -11,7 +11,10 @@ tags:
   - rice
   - tomato
   - cream
+mentions:
+  - base-ingredients/vegetables/semi-confit-cherry-tomato
 ---
+
 
 
 

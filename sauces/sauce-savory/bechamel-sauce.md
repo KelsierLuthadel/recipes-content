@@ -8,7 +8,10 @@ tags:
   - vegetarian
   - quick
   - butter
+mentions:
+  - cuisine/french/snacks/croque-monsieur
 ---
+
 
 
 

@@ -9,7 +9,10 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - tutorials/stocks-sauces/stocks
 ---
+
 
 
 

@@ -19,7 +19,10 @@ tags:
   - ginger
   - coriander
   - complex
+mentions:
+  - cuisine/indian/BIR-Chicken-Vindaloo
 ---
+
 
 
 

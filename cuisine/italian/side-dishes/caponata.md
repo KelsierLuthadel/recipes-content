@@ -17,7 +17,10 @@ tags:
   - tomato
   - nuts
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

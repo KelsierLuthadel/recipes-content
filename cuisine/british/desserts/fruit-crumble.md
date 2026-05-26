@@ -15,7 +15,10 @@ tags:
   - nuts
   - complex
   - halloween
+mentions:
+  - base-ingredients/syrup/sirop-a-sorbet
 ---
+
 
 
 

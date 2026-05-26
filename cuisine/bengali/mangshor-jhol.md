@@ -22,7 +22,11 @@ tags:
   - yogurt
   - chili
   - complex
+mentions:
+  - cuisine/bengali/kosha-mangsho
+  - tutorials/pizza/sauce
 ---
+
 
 
 

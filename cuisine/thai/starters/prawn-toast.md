@@ -21,7 +21,11 @@ tags:
   - lime
   - coriander
   - chili
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

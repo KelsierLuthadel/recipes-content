@@ -13,7 +13,11 @@ tags:
   - garlic
   - lemon
   - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

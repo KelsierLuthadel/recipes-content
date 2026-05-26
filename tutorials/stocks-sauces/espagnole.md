@@ -5,7 +5,15 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - cuisine/british/beef-wellington
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/bechamel
+  - tutorials/stocks-sauces/hollandaise
+  - tutorials/stocks-sauces/stocks
+  - tutorials/stocks-sauces/veloute
 ---
+
 
 
 # Espagnole

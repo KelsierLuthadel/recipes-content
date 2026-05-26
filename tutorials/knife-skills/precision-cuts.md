@@ -5,7 +5,13 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - cuisine/chinese/steamed-fish
+  - tutorials/knife-skills/basic-cuts
+  - tutorials/knife-skills/knife-care
+  - tutorials/stir-fry/ingredient-order
 ---
+
 
 
 # Precision Cuts

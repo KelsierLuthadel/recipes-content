@@ -9,7 +9,11 @@ tags:
   - meat
   - butter
   - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

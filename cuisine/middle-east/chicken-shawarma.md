@@ -20,7 +20,11 @@ tags:
   - yogurt
   - chili
   - complex
+mentions:
+  - cuisine/lebanese/side-dishes/tabbouleh
+  - tutorials/pizza/sauce
 ---
+
 
 
 

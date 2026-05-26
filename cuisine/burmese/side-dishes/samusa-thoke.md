@@ -18,7 +18,12 @@ tags:
   - chickpea
   - chili
   - complex
+mentions:
+  - cuisine/indian/side-dishes/samosa
+  - cuisine/indian/snacks/samosa
+  - tutorials/pizza/sauce
 ---
+
 
 
 

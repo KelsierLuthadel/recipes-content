@@ -23,7 +23,10 @@ tags:
   - chili
   - complex
   - day-of-the-dead
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

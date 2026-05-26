@@ -5,7 +5,14 @@ tags:
   - dairy-free
   - gluten-free
   - fish
+mentions:
+  - cuisine/french/bouillabaisse
+  - tutorials/fish/en-papillote
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/stocks
+  - tutorials/stocks-sauces/veloute
 ---
+
 
 
 # Whole Fish

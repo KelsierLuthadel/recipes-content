@@ -21,7 +21,10 @@ tags:
   - coriander
   - chickpea
   - chili
+mentions:
+  - tutorials/pizza/toppings
 ---
+
 
 
 

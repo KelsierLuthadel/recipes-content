@@ -19,7 +19,11 @@ tags:
   - chickpea
   - nuts
   - complex
+mentions:
+  - cuisine/iran/side-dishes/kuku-sabzi
+  - cuisine/persian/side-dishes/mast-o-musir
 ---
+
 
 
 

@@ -18,7 +18,13 @@ tags:
   - cheese
   - chili
   - complex
+mentions:
+  - cuisine/italian/pizza/calzone
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

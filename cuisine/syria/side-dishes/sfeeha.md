@@ -18,7 +18,11 @@ tags:
   - nuts
   - chili
   - complex
+mentions:
+  - cuisine/egyptian/hawawshi
+  - tutorials/pizza/dough
 ---
+
 
 
 

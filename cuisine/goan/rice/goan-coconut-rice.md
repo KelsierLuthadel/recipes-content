@@ -18,7 +18,12 @@ tags:
   - nuts
   - chili
   - curry
+mentions:
+  - cuisine/goan/goan-fish-curry
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/thai/side-dishes/coconut-rice
 ---
+
 
 
 

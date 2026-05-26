@@ -18,7 +18,10 @@ tags:
   - eggs
   - soy-sauce
   - curry
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

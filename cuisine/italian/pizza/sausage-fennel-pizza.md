@@ -17,7 +17,12 @@ tags:
   - cheese
   - yogurt
   - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/toppings
 ---
+
 
 
 

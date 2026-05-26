@@ -10,7 +10,11 @@ tags:
   - spicy
   - quick
   - chili
+mentions:
+  - cuisine/indian/Breads/chilli pooris
+  - tutorials/pizza/dough
 ---
+
 
 
 

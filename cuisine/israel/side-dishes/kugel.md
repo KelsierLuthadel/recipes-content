@@ -13,7 +13,10 @@ tags:
   - eggs
   - onion
   - potato
+mentions:
+  - cuisine/israel/side-dishes/bagels
 ---
+
 
 
 

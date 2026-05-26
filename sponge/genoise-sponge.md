@@ -10,7 +10,10 @@ tags:
   - make-ahead
   - eggs
   - butter
+mentions:
+  - base-ingredients/baking/clarified-butter
 ---
+
 
 
 

@@ -12,7 +12,10 @@ tags:
   - garlic
   - cheese
   - chili
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

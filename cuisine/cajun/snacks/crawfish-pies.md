@@ -20,7 +20,13 @@ tags:
   - tomato
   - butter
   - complex
+mentions:
+  - cuisine/cajun/crawfish-etouffee
+  - cuisine/cajun/snacks/andouille-skewers
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

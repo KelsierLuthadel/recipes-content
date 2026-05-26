@@ -14,7 +14,12 @@ tags:
   - carrot
   - cheese
   - complex
+mentions:
+  - cuisine/british/vegetable-soup
+  - cuisine/italian/pesto
+  - tutorials/pizza/cheese
 ---
+
 
 
 

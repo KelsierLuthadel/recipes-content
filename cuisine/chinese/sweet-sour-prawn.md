@@ -20,7 +20,10 @@ tags:
   - garlic
   - nuts
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

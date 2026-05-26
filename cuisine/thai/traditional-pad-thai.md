@@ -26,7 +26,12 @@ tags:
   - garlic
   - lime
   - nuts
+mentions:
+  - sauces/sauce-fish/tamarind-sauce
+  - tutorials/pizza/sauce
+  - tutorials/stir-fry/wok-hei
 ---
+
 
 
 

@@ -19,7 +19,10 @@ tags:
   - coriander
   - chili
   - complex
+mentions:
+  - cuisine/indian/biryani
 ---
+
 
 
 

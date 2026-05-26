@@ -10,7 +10,12 @@ tags:
   - sides
   - eggs
   - butter
+mentions:
+  - base-ingredients/baking/clarified-butter
+  - cuisine/british/beef-wellington
+  - cuisine/french/desserts/crepes
 ---
+
 
 
 

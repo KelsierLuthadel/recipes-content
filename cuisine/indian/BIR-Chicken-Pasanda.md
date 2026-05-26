@@ -15,7 +15,10 @@ tags:
   - chicken
   - coconut
   - nuts
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -15,7 +15,11 @@ tags:
   - cheese
   - nuts
   - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

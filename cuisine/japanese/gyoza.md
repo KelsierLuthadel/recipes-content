@@ -19,7 +19,11 @@ tags:
   - chili
   - soy-sauce
   - complex
+mentions:
+  - cuisine/chinese/snacks/jiaozi
+  - tutorials/pizza/sauce
 ---
+
 
 
 

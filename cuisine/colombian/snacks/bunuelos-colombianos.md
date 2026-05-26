@@ -11,7 +11,11 @@ tags:
   - snack
   - eggs
   - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

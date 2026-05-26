@@ -21,7 +21,10 @@ tags:
   - spinach
   - carrot
   - complex
+mentions:
+  - cuisine/korean/bulgogi
 ---
+
 
 
 

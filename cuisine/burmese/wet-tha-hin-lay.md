@@ -22,7 +22,11 @@ tags:
   - chili
   - soy-sauce
   - complex
+mentions:
+  - cuisine/burmese/side-dishes/balachaung
+  - tutorials/pizza/sauce
 ---
+
 
 
 

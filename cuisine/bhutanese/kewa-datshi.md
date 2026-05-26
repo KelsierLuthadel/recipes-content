@@ -18,7 +18,12 @@ tags:
   - butter
   - cheese
   - chili
+mentions:
+  - cuisine/bhutanese/ema-datshi
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

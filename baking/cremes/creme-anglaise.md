@@ -10,7 +10,11 @@ tags:
   - make-ahead
   - baking
   - eggs
+mentions:
+  - tutorials/patisserie/tarts
+  - tutorials/pizza/sauce
 ---
+
 
 
 

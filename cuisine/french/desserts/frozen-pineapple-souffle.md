@@ -11,7 +11,11 @@ tags:
   - dessert
   - cream
   - nuts
+mentions:
+  - baking/meringue/meringue-italienne
+  - base-ingredients/syrup/sirop-a-sorbet
 ---
+
 
 
 

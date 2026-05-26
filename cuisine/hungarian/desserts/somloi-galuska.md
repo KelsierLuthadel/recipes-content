@@ -17,7 +17,11 @@ tags:
   - chocolate
   - nuts
   - complex
+mentions:
+  - sauces/sauce-sweet/chocolate-sauce
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -19,7 +19,11 @@ tags:
   - butter
   - soy-sauce
   - complex
+mentions:
+  - cuisine/korean/side-dishes/kimchi
+  - tutorials/pizza/sauce
 ---
+
 
 
 

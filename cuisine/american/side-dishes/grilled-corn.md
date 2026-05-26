@@ -13,7 +13,10 @@ tags:
   - garlic
   - lime
   - butter
+mentions:
+  - cuisine/mexican/side-dishes/elote
 ---
+
 
 
 

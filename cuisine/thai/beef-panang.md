@@ -18,7 +18,13 @@ tags:
   - coconut
   - lime
   - curry
+mentions:
+  - cuisine/thai/pastes/panang-curry-paste
+  - tutorials/bread/gluten
+  - tutorials/pizza/sauce
+  - tutorials/thai-curry/panang
 ---
+
 
 
 

@@ -12,7 +12,12 @@ tags:
   - tomato
   - lemon
   - cheese
+mentions:
+  - cuisine/israel/side-dishes/israeli-salad
+  - tutorials/pizza/cheese
+  - tutorials/pizza/toppings
 ---
+
 
 
 

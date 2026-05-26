@@ -16,7 +16,11 @@ tags:
   - butter
   - cream
   - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/toppings
 ---
+
 
 
 

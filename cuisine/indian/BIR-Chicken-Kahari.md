@@ -21,7 +21,11 @@ tags:
   - yogurt
   - chili
   - complex
+mentions:
+  - cuisine/pakistani/chicken-karahi
+  - tutorials/pizza/sauce
 ---
+
 
 
 

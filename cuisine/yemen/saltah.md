@@ -21,7 +21,11 @@ tags:
   - coriander
   - chili
   - complex
+mentions:
+  - cuisine/yemen/side-dishes/lahoh
+  - tutorials/pizza/sauce
 ---
+
 
 
 

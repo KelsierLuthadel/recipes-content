@@ -13,7 +13,11 @@ tags:
   - chicken
   - honey
   - chili
+mentions:
+  - sauces/sauce-spicy/buffalo-sauce
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -21,7 +21,11 @@ tags:
   - soy-sauce
   - complex
   - lunar-new-year
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

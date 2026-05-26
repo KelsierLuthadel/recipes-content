@@ -18,7 +18,10 @@ tags:
   - spinach
   - chili
   - kwanzaa
+mentions:
+  - cuisine/jamaican/side-dishes/rice-and-peas
 ---
+
 
 
 

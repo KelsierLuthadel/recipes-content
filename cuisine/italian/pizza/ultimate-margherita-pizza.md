@@ -13,7 +13,11 @@ tags:
   - tomato
   - cheese
   - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

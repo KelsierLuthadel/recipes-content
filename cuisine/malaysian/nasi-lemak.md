@@ -26,7 +26,13 @@ tags:
   - nuts
   - chili
   - complex
+mentions:
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/indonesian/beef-rendang
+  - cuisine/malaysian/malaysian-fried-chicken
+  - cuisine/thai/side-dishes/coconut-rice
 ---
+
 
 
 

@@ -12,7 +12,10 @@ tags:
   - garlic
   - lemon
   - yogurt
+mentions:
+  - cuisine/arabian/mutabbal
 ---
+
 
 
 

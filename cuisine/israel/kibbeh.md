@@ -19,7 +19,13 @@ tags:
   - tomato
   - lemon
   - nuts
+mentions:
+  - cuisine/lebanese/kibbeh
+  - cuisine/middle-east/kibbeh
+  - cuisine/palestinian/kibbeh-bil-saneeyeh
+  - tutorials/pizza/sauce
 ---
+
 
 
 

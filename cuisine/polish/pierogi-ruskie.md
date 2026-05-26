@@ -15,7 +15,11 @@ tags:
   - cheese
   - complex
   - sukkot
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

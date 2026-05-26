@@ -5,7 +5,14 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - sauces/sauce-sweet/sabayon
+  - tutorials/eggs/custards
+  - tutorials/eggs/eggs
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/bechamel
 ---
+
 
 
 # Hollandaise

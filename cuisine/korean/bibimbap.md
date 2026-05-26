@@ -25,7 +25,11 @@ tags:
   - nuts
   - soy-sauce
   - complex
+mentions:
+  - cuisine/korean/bulgogi
+  - tutorials/pizza/sauce
 ---
+
 
 
 

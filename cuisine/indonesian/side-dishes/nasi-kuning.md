@@ -16,7 +16,10 @@ tags:
   - coconut
   - lime
   - butter
+mentions:
+  - cuisine/indonesian/side-dishes/sambal-terasi
 ---
+
 
 
 

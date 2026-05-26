@@ -15,7 +15,11 @@ tags:
   - asian
   - onion
   - soy-sauce
+mentions:
+  - cuisine/chinese/lemon-chicken
+  - tutorials/pizza/sauce
 ---
+
 
 
 

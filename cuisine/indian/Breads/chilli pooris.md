@@ -11,7 +11,11 @@ tags:
   - make-ahead
   - asian
   - chili
+mentions:
+  - cuisine/indian/dal-makhani
+  - tutorials/pizza/dough
 ---
+
 
 
 

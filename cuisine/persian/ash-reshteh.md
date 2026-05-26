@@ -19,7 +19,10 @@ tags:
   - yogurt
   - chickpea
   - complex
+mentions:
+  - tutorials/pizza/toppings
 ---
+
 
 
 

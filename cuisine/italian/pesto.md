@@ -13,7 +13,13 @@ tags:
   - garlic
   - cheese
   - nuts
+mentions:
+  - cuisine/british/vegetable-soup
+  - cuisine/italian/lasagne
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

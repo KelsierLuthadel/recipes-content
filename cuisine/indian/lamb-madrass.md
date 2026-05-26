@@ -19,7 +19,12 @@ tags:
   - coriander
   - chili
   - complex
+mentions:
+  - cuisine/indian/BIR-Chicken-Vindaloo
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - sauces/fruit-sauce/mango-chutney
 ---
+
 
 
 

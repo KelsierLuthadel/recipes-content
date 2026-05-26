@@ -18,7 +18,11 @@ tags:
   - onion
   - garlic
   - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

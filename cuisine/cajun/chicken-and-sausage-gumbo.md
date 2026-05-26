@@ -18,7 +18,10 @@ tags:
   - garlic
   - butter
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

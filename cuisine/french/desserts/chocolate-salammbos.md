@@ -8,7 +8,10 @@ tags:
   - quick
   - dessert
   - chocolate
+mentions:
+  - baking/cremes/chocolate-creme-patissiere
 ---
+
 
 
 

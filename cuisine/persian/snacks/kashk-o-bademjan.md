@@ -13,7 +13,11 @@ tags:
   - garlic
   - nuts
   - complex
+mentions:
+  - cuisine/azerbaijan/side-dishes/lavash
+  - cuisine/israel/side-dishes/baba-ganoush
 ---
+
 
 
 

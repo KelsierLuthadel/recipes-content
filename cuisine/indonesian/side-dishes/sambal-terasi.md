@@ -19,7 +19,10 @@ tags:
   - tomato
   - lime
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

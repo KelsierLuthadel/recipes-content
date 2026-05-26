@@ -14,7 +14,10 @@ tags:
   - eggs
   - butter
   - cheese
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

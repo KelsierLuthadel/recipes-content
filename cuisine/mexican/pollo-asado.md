@@ -18,7 +18,11 @@ tags:
   - lime
   - chili
   - complex
+mentions:
+  - cuisine/mexican/snacks/guacamole
+  - cuisine/mexican/snacks/quesadillas
 ---
+
 
 
 

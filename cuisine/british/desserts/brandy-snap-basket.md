@@ -10,7 +10,10 @@ tags:
   - ginger
   - lemon
   - butter
+mentions:
+  - base-ingredients/syrup/sirop-a-sorbet
 ---
+
 
 
 

@@ -13,7 +13,10 @@ tags:
   - make-ahead
   - garlic
   - complex
+mentions:
+  - cuisine/spanish/side-dishes/pan-con-tomate
 ---
+
 
 
 

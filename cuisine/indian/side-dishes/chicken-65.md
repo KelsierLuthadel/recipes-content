@@ -26,7 +26,10 @@ tags:
   - soy-sauce
   - curry
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

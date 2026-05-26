@@ -19,7 +19,11 @@ tags:
   - nuts
   - chili
   - complex
+mentions:
+  - cuisine/thai/chicken-cashew
+  - tutorials/pizza/sauce
 ---
+
 
 
 

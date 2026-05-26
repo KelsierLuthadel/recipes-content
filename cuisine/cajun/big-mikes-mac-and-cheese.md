@@ -13,7 +13,12 @@ tags:
   - eggs
   - butter
   - cheese
+mentions:
+  - cuisine/american/side-dishes/mac-and-cheese
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

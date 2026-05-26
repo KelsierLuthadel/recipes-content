@@ -14,7 +14,14 @@ tags:
   - eggs
   - cheese
   - chili
+mentions:
+  - bread-pasta/pasta
+  - tutorials/pasta/fresh-pasta-dough
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

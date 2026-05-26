@@ -10,7 +10,11 @@ tags:
   - meat
   - tomato
   - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

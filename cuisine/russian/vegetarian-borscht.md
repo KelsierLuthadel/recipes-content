@@ -13,7 +13,10 @@ tags:
   - potato
   - carrot
   - complex
+mentions:
+  - cuisine/russian/borscht
 ---
+
 
 
 

@@ -5,7 +5,12 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - tutorials/eggs/custards
+  - tutorials/eggs/meringues
+  - tutorials/stocks-sauces/bechamel
 ---
+
 
 
 # Souffles

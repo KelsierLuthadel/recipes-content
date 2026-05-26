@@ -19,7 +19,11 @@ tags:
   - lime
   - nuts
   - chili
+mentions:
+  - cuisine/burmese/lahpet-thoke
+  - tutorials/pizza/sauce
 ---
+
 
 
 

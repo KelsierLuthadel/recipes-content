@@ -18,7 +18,11 @@ tags:
   - yogurt
   - chili
   - complex
+mentions:
+  - cuisine/azerbaijan/side-dishes/lavash
+  - cuisine/iran/tahdig
 ---
+
 
 
 

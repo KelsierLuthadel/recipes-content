@@ -17,7 +17,10 @@ tags:
   - tomato
   - lemon
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

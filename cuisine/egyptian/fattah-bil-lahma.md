@@ -21,7 +21,11 @@ tags:
   - butter
   - chili
   - complex
+mentions:
+  - cuisine/egyptian/side-dishes/aysh-baladi
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -13,7 +13,10 @@ tags:
   - butter
   - cream
   - cheese
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

@@ -13,7 +13,11 @@ tags:
   - eggs
   - onion
   - potato
+mentions:
+  - sauces/fruit-sauce/apple-sauce
+  - tutorials/pizza/sauce
 ---
+
 
 
 

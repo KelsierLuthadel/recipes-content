@@ -13,7 +13,11 @@ tags:
   - butter
   - cheese
   - complex
+mentions:
+  - cuisine/american/side-dishes/soft-pretzels
+  - tutorials/pizza/cheese
 ---
+
 
 
 

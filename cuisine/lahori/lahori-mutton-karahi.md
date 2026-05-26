@@ -21,7 +21,10 @@ tags:
   - butter
   - chili
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

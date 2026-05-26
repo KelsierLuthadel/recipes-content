@@ -13,7 +13,11 @@ tags:
   - onion
   - tomato
   - lemon
+mentions:
+  - cuisine/azerbaijan/plov
+  - cuisine/azerbaijan/side-dishes/lavash
 ---
+
 
 
 

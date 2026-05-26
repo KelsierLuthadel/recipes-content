@@ -19,7 +19,10 @@ tags:
   - honey
   - nuts
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

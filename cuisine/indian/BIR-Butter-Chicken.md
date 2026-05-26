@@ -19,7 +19,10 @@ tags:
   - ginger
   - butter
   - yogurt
+mentions:
+  - cuisine/indian/butter-chicken
 ---
+
 
 
 

@@ -15,7 +15,12 @@ tags:
   - carrot
   - chili
   - complex
+mentions:
+  - cuisine/jamaican/snacks/coco-bread
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

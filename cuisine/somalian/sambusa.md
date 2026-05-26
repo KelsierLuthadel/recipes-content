@@ -17,7 +17,11 @@ tags:
   - coriander
   - chili
   - complex
+mentions:
+  - cuisine/indian/side-dishes/samosa
+  - tutorials/pizza/sauce
 ---
+
 
 
 

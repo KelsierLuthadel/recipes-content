@@ -17,7 +17,10 @@ tags:
   - onion
   - garlic
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

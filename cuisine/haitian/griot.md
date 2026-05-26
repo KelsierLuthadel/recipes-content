@@ -17,7 +17,10 @@ tags:
   - lime
   - chili
   - complex
+mentions:
+  - cuisine/jamaican/side-dishes/fried-plantains
 ---
+
 
 
 

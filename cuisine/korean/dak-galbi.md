@@ -21,7 +21,12 @@ tags:
   - cheese
   - soy-sauce
   - complex
+mentions:
+  - cuisine/korean/tteokbokki
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

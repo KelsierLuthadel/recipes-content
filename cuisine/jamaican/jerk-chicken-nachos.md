@@ -24,7 +24,12 @@ tags:
   - chili
   - soy-sauce
   - complex
+mentions:
+  - cuisine/jamaican/jerk-chicken
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -5,7 +5,19 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - cuisine/french/desserts/apple-tart
+  - cuisine/french/desserts/apricot-tart
+  - cuisine/french/desserts/lemon-tart
+  - cuisine/french/desserts/tarte-tatin
+  - tutorials/eggs/custards
+  - tutorials/eggs/eggs
+  - tutorials/pastry/pastry
+  - tutorials/pastry/sweet-short
+  - tutorials/patisserie/classical-cakes
+  - tutorials/patisserie/set-creams-and-mousses
 ---
+
 
 
 # Tarts

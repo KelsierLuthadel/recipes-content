@@ -13,7 +13,11 @@ tags:
   - make-ahead
   - lemon
   - nuts
+mentions:
+  - base-ingredients/syrup/sirop-a-sorbet
+  - tutorials/eggs/meringues
 ---
+
 
 
 

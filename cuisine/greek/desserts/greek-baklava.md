@@ -14,7 +14,13 @@ tags:
   - honey
   - nuts
   - complex
+mentions:
+  - baking/pastry/filo-pastry
+  - cuisine/greek/desserts/galaktoboureko
+  - cuisine/turkish/desserts/baklava
+  - tutorials/pastry/filo
 ---
+
 
 
 

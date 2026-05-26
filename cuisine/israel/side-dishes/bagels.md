@@ -18,7 +18,12 @@ tags:
   - complex
   - yom-kippur
   - jewish
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/toppings
 ---
+
 
 
 

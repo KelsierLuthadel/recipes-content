@@ -15,7 +15,10 @@ tags:
   - onion
   - garlic
   - potato
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

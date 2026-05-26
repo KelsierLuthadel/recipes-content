@@ -10,7 +10,10 @@ tags:
   - onion
   - ginger
   - butter
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

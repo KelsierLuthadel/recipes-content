@@ -15,7 +15,10 @@ tags:
   - rice
   - lemon
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

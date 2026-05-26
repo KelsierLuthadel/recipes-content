@@ -15,7 +15,11 @@ tags:
   - lemon
   - yogurt
   - complex
+mentions:
+  - cuisine/jordan/side-dishes/shrak
+  - tutorials/pizza/sauce
 ---
+
 
 
 

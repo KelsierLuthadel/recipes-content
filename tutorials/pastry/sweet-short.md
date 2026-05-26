@@ -5,7 +5,11 @@ tags:
   - vegetarian
   - vegan
   - dairy-free
+mentions:
+  - tutorials/pastry/puff
+  - tutorials/pizza/dough
 ---
+
 
 
 # Sweet Short Pastry

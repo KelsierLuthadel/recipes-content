@@ -16,7 +16,10 @@ tags:
   - garlic
   - carrot
   - complex
+mentions:
+  - cuisine/russian/borscht
 ---
+
 
 
 

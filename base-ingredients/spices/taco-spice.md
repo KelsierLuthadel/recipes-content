@@ -11,7 +11,11 @@ tags:
   - quick
   - spices
   - chili
+mentions:
+  - cuisine/mexican/jays-mixed-chilli
+  - cuisine/mexican/snacks/quesadillas
 ---
+
 
 
 

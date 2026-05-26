@@ -18,7 +18,10 @@ tags:
   - coriander
   - chili
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

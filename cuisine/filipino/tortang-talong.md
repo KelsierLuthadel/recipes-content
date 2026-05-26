@@ -16,7 +16,10 @@ tags:
   - lemon
   - chili
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -9,7 +9,10 @@ tags:
   - gluten-free
   - quick
   - eggs
+mentions:
+  - cuisine/french/desserts/crepes
 ---
+
 
 
 

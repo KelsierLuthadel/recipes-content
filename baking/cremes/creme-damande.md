@@ -10,7 +10,11 @@ tags:
   - baking
   - eggs
   - butter
+mentions:
+  - base-ingredients/baking/tant-pour-tant
+  - tutorials/patisserie/tarts
 ---
+
 
 
 

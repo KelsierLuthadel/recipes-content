@@ -11,7 +11,14 @@ tags:
   - sides
   - coconut
   - kwanzaa
+mentions:
+  - cuisine/cuban/side-dishes/tostones
+  - cuisine/jamaican/brown-stew-chicken
+  - cuisine/jamaican/jerk-chicken
+  - cuisine/jamaican/side-dishes/rice-and-peas
+  - tutorials/pizza/sauce
 ---
+
 
 
 

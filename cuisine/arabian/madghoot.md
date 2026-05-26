@@ -20,7 +20,11 @@ tags:
   - yogurt
   - nuts
   - complex
+mentions:
+  - cuisine/arabian/kabsa
+  - cuisine/yemen/mandi
 ---
+
 
 
 

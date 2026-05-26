@@ -24,7 +24,11 @@ tags:
   - complex
   - diwali
   - hindu
+mentions:
+  - cuisine/indian/rajma
+  - tutorials/pizza/sauce
 ---
+
 
 
 

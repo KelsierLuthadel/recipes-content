@@ -20,7 +20,15 @@ tags:
   - nuts
   - chili
   - complex
+mentions:
+  - cuisine/burmese/side-dishes/samusa-thoke
+  - cuisine/indian/side-dishes/samosa
+  - cuisine/indian/snacks/samosa
+  - sauces/sauce-fish/tamarind-sauce
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

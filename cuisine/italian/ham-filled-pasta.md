@@ -13,7 +13,13 @@ tags:
   - eggs
   - tomato
   - cheese
+mentions:
+  - bread-pasta/pasta
+  - tutorials/pasta/fresh-pasta-dough
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

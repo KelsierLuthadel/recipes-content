@@ -14,7 +14,10 @@ tags:
   - ginger
   - coconut
   - complex
+mentions:
+  - tutorials/pizza/toppings
 ---
+
 
 
 

@@ -15,7 +15,10 @@ tags:
   - potato
   - coriander
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

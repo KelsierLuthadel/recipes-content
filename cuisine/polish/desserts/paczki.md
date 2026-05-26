@@ -12,7 +12,11 @@ tags:
   - lemon
   - butter
   - complex
+mentions:
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
 ---
+
 
 
 

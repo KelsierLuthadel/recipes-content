@@ -8,7 +8,13 @@ tags:
   - gluten-free
   - quick
   - butter
+mentions:
+  - sauces/sauce-savory/bearnaise-sauce
+  - sauces/sauce-savory/hollandaise-sauce
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/hollandaise
 ---
+
 
 
 

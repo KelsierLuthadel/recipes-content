@@ -20,7 +20,10 @@ tags:
   - potato
   - carrot
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

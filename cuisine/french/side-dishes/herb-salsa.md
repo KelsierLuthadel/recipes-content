@@ -13,7 +13,12 @@ tags:
   - onion
   - potato
   - lemon
+mentions:
+  - base-ingredients/herbs/fines-herbes
+  - tutorials/pasta/pasta
+  - tutorials/pizza/sauce
 ---
+
 
 
 

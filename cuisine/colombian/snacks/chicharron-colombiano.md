@@ -14,7 +14,11 @@ tags:
   - garlic
   - tomato
   - lime
+mentions:
+  - cuisine/colombian/side-dishes/hogao
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -11,7 +11,11 @@ tags:
   - dessert
   - make-ahead
   - lemon
+mentions:
+  - sauces/sauce-sweet/caramel-sauce
+  - tutorials/pizza/sauce
 ---
+
 
 
 

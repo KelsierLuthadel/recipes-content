@@ -24,7 +24,11 @@ tags:
   - cream
   - nuts
   - complex
+mentions:
+  - cuisine/german/spatzle
+  - tutorials/pizza/sauce
 ---
+
 
 
 

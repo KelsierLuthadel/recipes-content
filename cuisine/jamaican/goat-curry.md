@@ -20,7 +20,11 @@ tags:
   - curry
   - complex
   - kwanzaa
+mentions:
+  - cuisine/jamaican/side-dishes/fried-plantains
+  - cuisine/jamaican/side-dishes/rice-and-peas
 ---
+
 
 
 

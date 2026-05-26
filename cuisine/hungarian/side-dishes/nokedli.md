@@ -12,7 +12,13 @@ tags:
   - sides
   - eggs
   - butter
+mentions:
+  - cuisine/german/spatzle
+  - cuisine/hungarian/chicken-paprikash
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

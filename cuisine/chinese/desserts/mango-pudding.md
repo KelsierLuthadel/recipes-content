@@ -13,7 +13,10 @@ tags:
   - lime
   - cream
   - lunar-new-year
+mentions:
+  - cuisine/italian/desserts/panna-cotta
 ---
+
 
 
 

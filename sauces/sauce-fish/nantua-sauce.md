@@ -15,7 +15,10 @@ tags:
   - butter
   - cream
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

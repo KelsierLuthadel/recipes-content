@@ -6,7 +6,14 @@ tags:
   - gluten-free
   - make-ahead
   - fish
+mentions:
+  - cuisine/south-american/ceviche
+  - tutorials/fish/en-papillote
+  - tutorials/fish/whole-fish
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 # Curing Fish

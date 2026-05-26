@@ -17,7 +17,12 @@ tags:
   - coriander
   - soy-sauce
   - complex
+mentions:
+  - cuisine/mexican/side-dishes/pico-de-gallo
+  - cuisine/mexican/snacks/quesadillas
+  - tutorials/pizza/sauce
 ---
+
 
 
 

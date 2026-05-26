@@ -14,7 +14,10 @@ tags:
   - onion
   - butter
   - complex
+mentions:
+  - cuisine/polish/barszcz-czerwony
 ---
+
 
 
 

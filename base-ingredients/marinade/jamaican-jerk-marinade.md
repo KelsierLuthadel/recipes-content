@@ -16,7 +16,10 @@ tags:
   - ginger
   - lime
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

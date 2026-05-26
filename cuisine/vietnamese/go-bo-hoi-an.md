@@ -25,7 +25,11 @@ tags:
   - nuts
   - chili
   - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
 ---
+
 
 
 

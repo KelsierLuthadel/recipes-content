@@ -9,7 +9,12 @@ tags:
   - vegetarian
   - quick
   - yogurt
+mentions:
+  - cuisine/indian/Breads/rotis
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

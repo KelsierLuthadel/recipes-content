@@ -24,7 +24,10 @@ tags:
   - nuts
   - soy-sauce
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

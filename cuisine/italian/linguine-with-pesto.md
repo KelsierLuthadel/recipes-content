@@ -12,7 +12,12 @@ tags:
   - garlic
   - cheese
   - nuts
+mentions:
+  - cuisine/italian/pesto
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

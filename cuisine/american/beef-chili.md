@@ -18,7 +18,12 @@ tags:
   - chili
   - complex
   - halloween
+mentions:
+  - cuisine/american/side-dishes/cornbread
+  - tutorials/pizza/cheese
+  - tutorials/pizza/toppings
 ---
+
 
 
 

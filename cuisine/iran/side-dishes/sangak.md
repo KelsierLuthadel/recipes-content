@@ -10,7 +10,10 @@ tags:
   - make-ahead
   - sides
   - complex
+mentions:
+  - tutorials/pizza/dough
 ---
+
 
 
 

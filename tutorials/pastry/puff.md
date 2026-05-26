@@ -6,7 +6,16 @@ tags:
   - dairy-free
   - gluten-free
   - make-ahead
+mentions:
+  - cuisine/british/beef-wellington
+  - cuisine/british/snacks/cheese-straws
+  - cuisine/british/snacks/sausage-rolls
+  - tutorials/bread/gluten
+  - tutorials/pastry/choux
+  - tutorials/pastry/croissant-and-danish
+  - tutorials/pizza/dough
 ---
+
 
 
 # Puff and Rough Puff

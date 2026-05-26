@@ -10,7 +10,10 @@ tags:
   - asian
   - yogurt
   - chili
+mentions:
+  - cuisine/indian/biryani
 ---
+
 
 
 

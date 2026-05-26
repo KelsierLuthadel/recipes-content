@@ -9,7 +9,11 @@ tags:
   - dairy-free
   - sides
   - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

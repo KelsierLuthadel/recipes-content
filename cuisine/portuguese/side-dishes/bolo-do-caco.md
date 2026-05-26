@@ -13,7 +13,10 @@ tags:
   - potato
   - butter
   - complex
+mentions:
+  - tutorials/pizza/dough
 ---
+
 
 
 

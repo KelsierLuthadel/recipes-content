@@ -15,7 +15,11 @@ tags:
   - potato
   - butter
   - complex
+mentions:
+  - cuisine/american/side-dishes/baked-beans
+  - tutorials/pizza/sauce
 ---
+
 
 
 

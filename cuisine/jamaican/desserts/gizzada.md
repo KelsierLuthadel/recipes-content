@@ -12,7 +12,10 @@ tags:
   - ginger
   - coconut
   - butter
+mentions:
+  - tutorials/patisserie/tarts
 ---
+
 
 
 

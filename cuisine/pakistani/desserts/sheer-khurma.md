@@ -12,7 +12,10 @@ tags:
   - eid-al-fitr
   - ramadan
   - muslim
+mentions:
+  - cuisine/pakistani/desserts/sevaiyan
 ---
+
 
 
 

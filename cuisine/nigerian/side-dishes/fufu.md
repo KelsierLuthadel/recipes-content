@@ -9,7 +9,10 @@ tags:
   - dairy-free
   - quick
   - sides
+mentions:
+  - cuisine/nigerian/pepper-soup
 ---
+
 
 
 

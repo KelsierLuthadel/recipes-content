@@ -14,7 +14,11 @@ tags:
   - lime
   - yogurt
   - chili
+mentions:
+  - cuisine/indian/side-dishes/samosa
+  - tutorials/pizza/sauce
 ---
+
 
 
 

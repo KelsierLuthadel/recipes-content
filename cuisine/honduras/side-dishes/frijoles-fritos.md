@@ -14,7 +14,10 @@ tags:
   - onion
   - garlic
   - complex
+mentions:
+  - cuisine/mexican/side-dishes/refried-beans
 ---
+
 
 
 

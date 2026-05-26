@@ -20,7 +20,12 @@ tags:
   - coriander
   - chili
   - complex
+mentions:
+  - cuisine/egyptian/side-dishes/aysh-baladi
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
 ---
+
 
 
 

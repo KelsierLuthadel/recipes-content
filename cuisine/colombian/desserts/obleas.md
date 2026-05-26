@@ -13,7 +13,11 @@ tags:
   - lemon
   - cheese
   - nuts
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/toppings
 ---
+
 
 
 

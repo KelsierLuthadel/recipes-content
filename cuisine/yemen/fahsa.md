@@ -17,7 +17,12 @@ tags:
   - ginger
   - coriander
   - complex
+mentions:
+  - cuisine/yemen/saltah
+  - cuisine/yemen/side-dishes/lahoh
+  - tutorials/pizza/sauce
 ---
+
 
 
 

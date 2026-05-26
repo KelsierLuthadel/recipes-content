@@ -14,7 +14,12 @@ tags:
   - cream
   - hanukkah
   - jewish
+mentions:
+  - cuisine/polish/latkes
+  - sauces/fruit-sauce/apple-sauce
+  - tutorials/pizza/sauce
 ---
+
 
 
 

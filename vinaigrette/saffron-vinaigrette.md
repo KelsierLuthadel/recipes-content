@@ -13,7 +13,10 @@ tags:
   - quick
   - chili
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

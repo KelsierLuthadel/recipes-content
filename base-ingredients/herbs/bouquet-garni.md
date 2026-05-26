@@ -8,7 +8,10 @@ tags:
   - dairy-free
   - gluten-free
   - quick
+mentions:
+  - tutorials/stocks-sauces/stocks
 ---
+
 
 
 

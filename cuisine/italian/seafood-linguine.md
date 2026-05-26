@@ -16,7 +16,10 @@ tags:
   - tomato
   - lemon
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

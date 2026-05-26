@@ -8,7 +8,12 @@ allergens:
 tags:
   - vegetarian
   - eggs
+mentions:
+  - tutorials/bread/hydration
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

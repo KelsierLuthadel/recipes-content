@@ -13,7 +13,12 @@ tags:
   - cheese
   - nuts
   - complex
+mentions:
+  - cuisine/turkish/desserts/knafeh
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

@@ -17,7 +17,10 @@ tags:
   - onion
   - ginger
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

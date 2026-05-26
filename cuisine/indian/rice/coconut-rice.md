@@ -21,7 +21,10 @@ tags:
   - nuts
   - chili
   - curry
+mentions:
+  - cuisine/thai/side-dishes/coconut-rice
 ---
+
 
 
 

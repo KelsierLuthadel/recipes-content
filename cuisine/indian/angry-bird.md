@@ -19,7 +19,10 @@ tags:
   - coriander
   - yogurt
   - chili
+mentions:
+  - cuisine/indian/BIR-chicken-curry
 ---
+
 
 
 

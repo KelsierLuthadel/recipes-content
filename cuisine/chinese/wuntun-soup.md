@@ -17,7 +17,10 @@ tags:
   - eggs
   - onion
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

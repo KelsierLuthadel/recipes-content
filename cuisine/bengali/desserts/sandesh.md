@@ -10,7 +10,12 @@ tags:
   - dessert
   - lemon
   - nuts
+mentions:
+  - cuisine/bengali/desserts/rasgulla
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

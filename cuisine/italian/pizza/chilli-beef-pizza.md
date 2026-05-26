@@ -17,7 +17,14 @@ tags:
   - cheese
   - chili
   - complex
+mentions:
+  - cuisine/italian/pizza/pizza-sauce
+  - cuisine/italian/side-dishes/garlic-bread
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -12,7 +12,11 @@ tags:
   - eggs
   - lemon
   - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

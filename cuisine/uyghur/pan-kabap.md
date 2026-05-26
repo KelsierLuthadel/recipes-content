@@ -12,7 +12,10 @@ tags:
   - bbq
   - meat
   - lamb
+mentions:
+  - tutorials/rice/pilaf
 ---
+
 
 
 

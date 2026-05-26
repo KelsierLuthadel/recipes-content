@@ -18,7 +18,14 @@ tags:
   - yogurt
   - nuts
   - complex
+mentions:
+  - cuisine/lebanese/kibbeh
+  - cuisine/lebanese/side-dishes/labneh
+  - cuisine/lebanese/side-dishes/tabbouleh
+  - cuisine/middle-east/kibbeh
+  - tutorials/pizza/dough
 ---
+
 
 
 

@@ -9,7 +9,11 @@ tags:
   - sides
   - rice
   - coconut
+mentions:
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/thai/side-dishes/coconut-rice
 ---
+
 
 
 

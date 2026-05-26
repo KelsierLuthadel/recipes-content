@@ -17,7 +17,10 @@ tags:
   - eggs
   - garlic
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

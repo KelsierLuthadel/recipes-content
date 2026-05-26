@@ -10,7 +10,10 @@ tags:
   - rice
   - butter
   - complex
+mentions:
+  - cuisine/azerbaijan/plov
 ---
+
 
 
 

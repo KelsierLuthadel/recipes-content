@@ -15,7 +15,11 @@ tags:
   - coriander
   - chickpea
   - complex
+mentions:
+  - cuisine/israel/side-dishes/falafel
+  - cuisine/middle-east/side-dishes/tahina-dip
 ---
+
 
 
 

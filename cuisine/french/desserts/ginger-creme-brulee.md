@@ -11,7 +11,10 @@ tags:
   - eggs
   - ginger
   - cream
+mentions:
+  - cuisine/french/desserts/creme-brulee
 ---
+
 
 
 

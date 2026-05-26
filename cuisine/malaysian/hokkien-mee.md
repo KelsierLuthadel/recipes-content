@@ -18,7 +18,11 @@ tags:
   - prawn
   - garlic
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/stir-fry/wok-hei
 ---
+
 
 
 

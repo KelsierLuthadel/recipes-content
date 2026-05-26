@@ -17,7 +17,10 @@ tags:
   - garlic
   - soy-sauce
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

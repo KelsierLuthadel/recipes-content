@@ -12,7 +12,13 @@ tags:
   - pork
   - tomato
   - cheese
+mentions:
+  - cuisine/italian/pizza/pizza-sauce
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - vinaigrette/caesar-dressing
 ---
+
 
 
 

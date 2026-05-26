@@ -10,7 +10,10 @@ tags:
   - ginger
   - coconut
   - cream
+mentions:
+  - tutorials/patisserie/tarts
 ---
+
 
 
 

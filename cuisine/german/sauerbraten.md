@@ -16,7 +16,11 @@ tags:
   - potato
   - carrot
   - complex
+mentions:
+  - cuisine/british/side-dishes/buttered-red-cabbage
+  - tutorials/pizza/sauce
 ---
+
 
 
 

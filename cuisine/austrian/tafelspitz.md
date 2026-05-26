@@ -21,7 +21,11 @@ tags:
   - carrot
   - lemon
   - complex
+mentions:
+  - sauces/sauce-savory/bread-sauce
+  - tutorials/pizza/sauce
 ---
+
 
 
 

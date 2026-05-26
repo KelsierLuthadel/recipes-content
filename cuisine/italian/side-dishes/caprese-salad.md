@@ -10,7 +10,10 @@ tags:
   - sides
   - tomato
   - cheese
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

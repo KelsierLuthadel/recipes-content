@@ -22,7 +22,13 @@ tags:
   - butter
   - cheese
   - complex
+mentions:
+  - cuisine/italian/gnocchi
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

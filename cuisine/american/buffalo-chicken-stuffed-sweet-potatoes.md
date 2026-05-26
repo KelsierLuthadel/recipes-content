@@ -13,7 +13,12 @@ tags:
   - onion
   - potato
   - cheese
+mentions:
+  - sauces/sauce-spicy/buffalo-sauce
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

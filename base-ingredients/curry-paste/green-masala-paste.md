@@ -17,7 +17,10 @@ tags:
   - ginger
   - coriander
   - curry
+mentions:
+  - base-ingredients/curry-paste/balti-masala-paste
 ---
+
 
 
 

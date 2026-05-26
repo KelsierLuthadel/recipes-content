@@ -14,7 +14,10 @@ tags:
   - butter
   - yogurt
   - complex
+mentions:
+  - cuisine/iran/side-dishes/barbari
 ---
+
 
 
 

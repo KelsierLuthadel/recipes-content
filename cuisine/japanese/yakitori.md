@@ -15,7 +15,10 @@ tags:
   - garlic
   - ginger
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

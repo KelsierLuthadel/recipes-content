@@ -16,7 +16,10 @@ tags:
   - tomato
   - potato
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

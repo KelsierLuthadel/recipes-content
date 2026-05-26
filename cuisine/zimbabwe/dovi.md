@@ -19,7 +19,11 @@ tags:
   - spinach
   - butter
   - nuts
+mentions:
+  - cuisine/zimbabwe/side-dishes/sadza
+  - tutorials/pizza/sauce
 ---
+
 
 
 

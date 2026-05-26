@@ -14,7 +14,11 @@ tags:
   - tomato
   - coriander
   - yogurt
+mentions:
+  - cuisine/indian/lamb-karahi
+  - tutorials/pizza/sauce
 ---
+
 
 
 

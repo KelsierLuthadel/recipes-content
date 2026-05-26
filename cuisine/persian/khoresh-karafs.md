@@ -15,7 +15,10 @@ tags:
   - garlic
   - lemon
   - complex
+mentions:
+  - cuisine/iran/tahdig
 ---
+
 
 
 

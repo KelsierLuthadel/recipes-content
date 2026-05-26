@@ -14,7 +14,12 @@ tags:
   - potato
   - butter
   - cheese
+mentions:
+  - cuisine/british/side-dishes/mushy-peas
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

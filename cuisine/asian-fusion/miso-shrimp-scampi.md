@@ -17,7 +17,10 @@ tags:
   - garlic
   - lemon
   - butter
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

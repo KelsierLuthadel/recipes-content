@@ -16,7 +16,11 @@ tags:
   - hanukkah
   - rosh-hashanah
   - shavuot
+mentions:
+  - cuisine/israel/desserts/babka
+  - tutorials/pizza/dough
 ---
+
 
 
 

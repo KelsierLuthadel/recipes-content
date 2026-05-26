@@ -11,7 +11,10 @@ tags:
   - make-ahead
   - rice
   - nuts
+mentions:
+  - cuisine/afghanistan/desserts/firni
 ---
+
 
 
 

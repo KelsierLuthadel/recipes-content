@@ -5,7 +5,13 @@ tags:
   - dairy-free
   - gluten-free
   - fish
+mentions:
+  - tutorials/fish/en-papillote
+  - tutorials/fish/whole-fish
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/hollandaise
 ---
+
 
 
 # Pan-Frying Fish

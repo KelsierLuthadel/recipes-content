@@ -12,7 +12,10 @@ tags:
   - spices
   - coriander
   - curry
+mentions:
+  - cuisine/indian/Spice-Mixes/base-curry-powder
 ---
+
 
 
 

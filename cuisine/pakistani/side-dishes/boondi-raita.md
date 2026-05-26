@@ -14,7 +14,11 @@ tags:
   - chili
   - diwali
   - holi
+mentions:
+  - cuisine/indian/biryani
+  - cuisine/pakistani/haleem
 ---
+
 
 
 

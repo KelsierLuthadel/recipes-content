@@ -10,7 +10,10 @@ tags:
   - dairy-free
   - spicy
   - sides
+mentions:
+  - cuisine/bengali/side-dishes/shukto
 ---
+
 
 
 

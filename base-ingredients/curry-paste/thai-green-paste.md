@@ -18,7 +18,10 @@ tags:
   - nuts
   - chili
   - curry
+mentions:
+  - tutorials/thai-curry/green
 ---
+
 
 
 

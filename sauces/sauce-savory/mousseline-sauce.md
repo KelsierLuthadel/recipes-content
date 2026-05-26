@@ -12,7 +12,13 @@ tags:
   - lemon
   - butter
   - cream
+mentions:
+  - base-ingredients/baking/clarified-butter
+  - sauces/sauce-savory/hollandaise-sauce
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/hollandaise
 ---
+
 
 
 

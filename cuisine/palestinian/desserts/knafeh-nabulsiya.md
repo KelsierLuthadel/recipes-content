@@ -12,7 +12,11 @@ tags:
   - butter
   - cheese
   - nuts
+mentions:
+  - cuisine/turkish/desserts/knafeh
+  - tutorials/pizza/cheese
 ---
+
 
 
 

@@ -11,7 +11,11 @@ tags:
   - rice
   - coriander
   - butter
+mentions:
+  - cuisine/indian/BIR-Butter-Chicken
+  - cuisine/indian/butter-chicken
 ---
+
 
 
 

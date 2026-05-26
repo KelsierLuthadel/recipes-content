@@ -17,7 +17,12 @@ tags:
   - onion
   - soy-sauce
   - complex
+mentions:
+  - cuisine/chinese/char-siu
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

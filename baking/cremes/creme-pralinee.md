@@ -9,7 +9,10 @@ tags:
   - quick
   - baking
   - nuts
+mentions:
+  - tutorials/patisserie/tarts
 ---
+
 
 
 

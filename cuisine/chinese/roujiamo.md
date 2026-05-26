@@ -22,7 +22,12 @@ tags:
   - chili
   - soy-sauce
   - complex
+mentions:
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

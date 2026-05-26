@@ -17,7 +17,13 @@ tags:
   - coriander
   - chili
   - complex
+mentions:
+  - cuisine/zimbabwe/dovi
+  - cuisine/zimbabwe/side-dishes/muriwo-une-dovi
+  - cuisine/zimbabwe/side-dishes/sadza
+  - tutorials/pizza/sauce
 ---
+
 
 
 

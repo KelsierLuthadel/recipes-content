@@ -18,7 +18,11 @@ tags:
   - ginger
   - soy-sauce
   - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
 ---
+
 
 
 

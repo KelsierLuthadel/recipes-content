@@ -26,7 +26,11 @@ tags:
   - chili
   - soy-sauce
   - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/stir-fry/wok-hei
 ---
+
 
 
 

@@ -16,7 +16,11 @@ tags:
   - yogurt
   - nuts
   - complex
+mentions:
+  - cuisine/lebanese/kibbeh
+  - tutorials/pizza/sauce
 ---
+
 
 
 

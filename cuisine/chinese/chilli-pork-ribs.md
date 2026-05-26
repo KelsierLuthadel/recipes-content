@@ -18,7 +18,11 @@ tags:
   - garlic
   - chili
   - soy-sauce
+mentions:
+  - cuisine/chinese/fried-rice
+  - tutorials/pizza/sauce
 ---
+
 
 
 

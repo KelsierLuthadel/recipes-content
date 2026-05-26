@@ -11,7 +11,12 @@ tags:
   - butter
   - cream
   - cheese
+mentions:
+  - cuisine/american/side-dishes/mac-and-cheese
+  - cuisine/german/spatzle
+  - tutorials/pizza/cheese
 ---
+
 
 
 

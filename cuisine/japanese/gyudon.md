@@ -17,7 +17,10 @@ tags:
   - onion
   - ginger
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

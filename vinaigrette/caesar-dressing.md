@@ -16,7 +16,10 @@ tags:
   - garlic
   - lemon
   - cheese
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

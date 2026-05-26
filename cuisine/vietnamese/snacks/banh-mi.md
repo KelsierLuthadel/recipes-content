@@ -20,7 +20,12 @@ tags:
   - cheese
   - chili
   - soy-sauce
+mentions:
+  - cuisine/chinese/char-siu
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

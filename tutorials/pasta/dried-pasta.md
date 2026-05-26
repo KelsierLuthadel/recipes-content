@@ -5,7 +5,18 @@ tags:
   - vegetarian
   - vegan
   - dairy-free
+mentions:
+  - bread-pasta/pasta
+  - cuisine/italian/pesto
+  - tutorials/pasta/fresh-pasta-dough
+  - tutorials/pasta/matching-sauce-to-shape
+  - tutorials/pasta/regional-italian
+  - tutorials/pasta/shapes
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 # Dried Pasta

@@ -22,7 +22,10 @@ tags:
   - yogurt
   - chili
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

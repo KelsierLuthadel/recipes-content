@@ -11,7 +11,11 @@ tags:
   - sides
   - asian
   - rice
+mentions:
+  - cuisine/chinese/fried-rice
+  - cuisine/chinese/sizzling-rice-prawn
 ---
+
 
 
 

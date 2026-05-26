@@ -8,7 +8,13 @@ tags:
   - spicy
   - make-ahead
   - curry
+mentions:
+  - cuisine/thai/pastes/thai-yellow-curry-paste
+  - tutorials/pizza/sauce
+  - tutorials/thai-curry/coconut-milk
+  - tutorials/thai-curry/yellow
 ---
+
 
 
 # Massaman Curry Paste

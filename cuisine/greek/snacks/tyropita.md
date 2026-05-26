@@ -12,7 +12,12 @@ tags:
   - eggs
   - butter
   - cheese
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/pastry/filo
+  - tutorials/pizza/cheese
 ---
+
 
 
 

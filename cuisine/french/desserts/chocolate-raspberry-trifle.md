@@ -13,7 +13,11 @@ tags:
   - lemon
   - cream
   - chocolate
+mentions:
+  - baking/cremes/chocolate-creme-patissiere
+  - tutorials/pizza/sauce
 ---
+
 
 
 

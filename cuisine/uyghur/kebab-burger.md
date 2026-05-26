@@ -21,7 +21,11 @@ tags:
   - tomato
   - chili
   - complex
+mentions:
+  - bread-pasta/burger-buns
+  - tutorials/pizza/sauce
 ---
+
 
 
 

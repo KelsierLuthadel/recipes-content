@@ -19,7 +19,14 @@ tags:
   - cheese
   - chili
   - day-of-the-dead
+mentions:
+  - cuisine/mexican/side-dishes/mexican-rice
+  - cuisine/mexican/side-dishes/refried-beans
+  - cuisine/mexican/snacks/guacamole
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

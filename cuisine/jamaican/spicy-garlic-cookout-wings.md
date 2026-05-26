@@ -12,7 +12,10 @@ tags:
   - chicken
   - garlic
   - butter
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

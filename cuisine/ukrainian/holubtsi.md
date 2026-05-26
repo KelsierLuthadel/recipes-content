@@ -19,7 +19,10 @@ tags:
   - tomato
   - carrot
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

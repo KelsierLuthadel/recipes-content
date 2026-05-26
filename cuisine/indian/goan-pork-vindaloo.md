@@ -20,7 +20,10 @@ tags:
   - ginger
   - chili
   - complex
+mentions:
+  - cuisine/indian/BIR-Chicken-Vindaloo
 ---
+
 
 
 

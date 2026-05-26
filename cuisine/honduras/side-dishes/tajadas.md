@@ -9,7 +9,10 @@ tags:
   - gluten-free
   - quick
   - sides
+mentions:
+  - cuisine/honduras/pollo-con-tajadas
 ---
+
 
 
 

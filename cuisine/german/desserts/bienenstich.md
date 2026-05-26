@@ -16,7 +16,11 @@ tags:
   - honey
   - nuts
   - complex
+mentions:
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
 ---
+
 
 
 

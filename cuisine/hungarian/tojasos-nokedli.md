@@ -11,7 +11,10 @@ tags:
   - meals
   - eggs
   - butter
+mentions:
+  - cuisine/hungarian/side-dishes/nokedli
 ---
+
 
 
 

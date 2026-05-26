@@ -20,7 +20,13 @@ tags:
   - chili
   - curry
   - complex
+mentions:
+  - cuisine/american/side-dishes/baked-beans
+  - cuisine/south-african/bobotie
+  - cuisine/south-african/boerewors
+  - tutorials/pizza/sauce
 ---
+
 
 
 

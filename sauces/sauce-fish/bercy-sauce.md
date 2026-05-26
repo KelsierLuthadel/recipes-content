@@ -9,7 +9,11 @@ tags:
   - fish
   - onion
   - lemon
+mentions:
+  - sauces/sauce-fish/veloute-sauce
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -14,7 +14,13 @@ tags:
   - butter
   - nuts
   - complex
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/bread/gluten
+  - tutorials/pastry/filo
+  - tutorials/pizza/dough
 ---
+
 
 
 

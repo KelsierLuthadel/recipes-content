@@ -13,7 +13,10 @@ tags:
   - coriander
   - chili
   - curry
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

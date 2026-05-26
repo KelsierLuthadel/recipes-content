@@ -13,7 +13,11 @@ tags:
   - pork
   - tomato
   - lime
+mentions:
+  - cuisine/chilean/side-dishes/pebre
+  - tutorials/pizza/sauce
 ---
+
 
 
 

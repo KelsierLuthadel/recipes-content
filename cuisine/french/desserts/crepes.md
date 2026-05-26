@@ -12,7 +12,11 @@ tags:
   - eggs
   - butter
   - cream
+mentions:
+  - base-ingredients/baking/clarified-butter
+  - tutorials/bread/gluten
 ---
+
 
 
 

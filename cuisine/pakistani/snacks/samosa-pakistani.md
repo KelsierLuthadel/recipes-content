@@ -26,7 +26,14 @@ tags:
   - ramadan
   - holi
   - muslim
+mentions:
+  - cuisine/afghanistan/snacks/aushak
+  - cuisine/indian/sauces-pickles/mint-chutney
+  - cuisine/indian/side-dishes/samosa
+  - cuisine/indian/snacks/samosa
+  - tutorials/pizza/dough
 ---
+
 
 
 

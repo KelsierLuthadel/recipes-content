@@ -25,7 +25,11 @@ tags:
   - chili
   - complex
   - kwanzaa
+mentions:
+  - cuisine/nigerian/side-dishes/fufu
+  - tutorials/pizza/sauce
 ---
+
 
 
 

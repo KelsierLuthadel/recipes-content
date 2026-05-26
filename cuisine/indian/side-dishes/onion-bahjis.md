@@ -15,7 +15,12 @@ tags:
   - coriander
   - chickpea
   - curry
+mentions:
+  - cuisine/indian/sauces-pickles/cucumber-raita
+  - cuisine/indian/side-dishes/cucumber-raita
+  - cuisine/indian/snacks/onion-bahjis
 ---
+
 
 
 

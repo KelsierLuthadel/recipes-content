@@ -10,7 +10,11 @@ tags:
   - baking
   - eggs
   - butter
+mentions:
+  - tutorials/patisserie/petit-fours
+  - tutorials/pizza/dough
 ---
+
 
 
 

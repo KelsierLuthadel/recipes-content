@@ -17,7 +17,11 @@ tags:
   - lemon
   - coriander
   - chili
+mentions:
+  - cuisine/chilean/chorrillana
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -20,7 +20,12 @@ tags:
   - coriander
   - chili
   - complex
+mentions:
+  - cuisine/indian/BIR-Chicken-Vindaloo
+  - cuisine/indian/goan-pork-vindaloo
+  - tutorials/pizza/sauce
 ---
+
 
 
 

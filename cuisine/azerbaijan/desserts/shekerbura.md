@@ -13,7 +13,11 @@ tags:
   - butter
   - nuts
   - complex
+mentions:
+  - cuisine/azerbaijan/snacks/goghal
+  - tutorials/pizza/dough
 ---
+
 
 
 

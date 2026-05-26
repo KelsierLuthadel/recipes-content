@@ -20,7 +20,12 @@ tags:
   - chili
   - soy-sauce
   - complex
+mentions:
+  - cuisine/uyghur/laghman
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

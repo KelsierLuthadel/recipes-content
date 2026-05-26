@@ -18,7 +18,10 @@ tags:
   - soy-sauce
   - complex
   - lunar-new-year
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

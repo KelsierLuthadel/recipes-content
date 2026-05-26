@@ -10,7 +10,11 @@ tags:
   - quick
   - meals
   - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

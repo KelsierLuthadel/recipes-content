@@ -20,7 +20,11 @@ tags:
   - yogurt
   - nuts
   - complex
+mentions:
+  - cuisine/syria/side-dishes/sfeeha
+  - tutorials/pizza/dough
 ---
+
 
 
 

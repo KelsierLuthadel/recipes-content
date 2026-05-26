@@ -11,7 +11,10 @@ tags:
   - spicy
   - garlic
   - ginger
+mentions:
+  - cuisine/indian/sauces-pickles/mango-chutney
 ---
+
 
 
 

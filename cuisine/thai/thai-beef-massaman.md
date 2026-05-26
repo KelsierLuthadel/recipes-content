@@ -20,7 +20,13 @@ tags:
   - nuts
   - curry
   - complex
+mentions:
+  - cuisine/thai/pastes/massaman-curry-paste
+  - tutorials/bread/gluten
+  - tutorials/pizza/sauce
+  - tutorials/thai-curry/massaman
 ---
+
 
 
 

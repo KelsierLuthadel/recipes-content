@@ -11,7 +11,10 @@ tags:
   - meals
   - butter
   - nuts
+mentions:
+  - cuisine/israel/desserts/halva
 ---
+
 
 
 

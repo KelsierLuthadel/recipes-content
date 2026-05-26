@@ -11,7 +11,11 @@ tags:
   - quick
   - sides
   - ginger
+mentions:
+  - cuisine/indian/sauces-pickles/mint-chutney
+  - cuisine/indian/side-dishes/samosa
 ---
+
 
 
 

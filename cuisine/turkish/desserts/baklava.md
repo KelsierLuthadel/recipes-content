@@ -17,7 +17,11 @@ tags:
   - eid-al-adha
   - ramadan
   - muslim
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/pastry/filo
 ---
+
 
 
 

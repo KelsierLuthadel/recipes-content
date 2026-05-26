@@ -13,7 +13,11 @@ tags:
   - cheese
   - chocolate
   - shavuot
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -13,7 +13,10 @@ tags:
   - asian
   - garlic
   - chili
+mentions:
+  - cuisine/indian/snacks/samosa
 ---
+
 
 
 

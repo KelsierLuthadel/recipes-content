@@ -16,7 +16,10 @@ tags:
   - ginger
   - coriander
   - nuts
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

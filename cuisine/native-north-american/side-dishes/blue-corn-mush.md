@@ -13,7 +13,11 @@ tags:
   - cream
   - honey
   - nuts
+mentions:
+  - cuisine/mexican/desserts/atole
+  - tutorials/pizza/toppings
 ---
+
 
 
 

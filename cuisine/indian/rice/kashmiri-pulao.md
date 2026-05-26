@@ -13,7 +13,11 @@ tags:
   - onion
   - nuts
   - complex
+mentions:
+  - cuisine/indian/biryani
+  - cuisine/indian/rice/matar-pulao
 ---
+
 
 
 

@@ -23,7 +23,10 @@ tags:
   - yogurt
   - chili
   - complex
+mentions:
+  - cuisine/indian/sauces-pickles/mint-chutney
 ---
+
 
 
 

@@ -19,7 +19,12 @@ tags:
   - coriander
   - yogurt
   - complex
+mentions:
+  - cuisine/afghanistan/snacks/mantu
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

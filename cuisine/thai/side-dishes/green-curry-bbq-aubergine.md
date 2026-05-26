@@ -19,7 +19,12 @@ tags:
   - chili
   - soy-sauce
   - curry
+mentions:
+  - cuisine/thai/pastes/thai-green-curry-paste
+  - tutorials/pizza/sauce
+  - tutorials/thai-curry/green
 ---
+
 
 
 

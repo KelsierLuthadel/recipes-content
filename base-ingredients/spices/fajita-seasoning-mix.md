@@ -12,7 +12,11 @@ tags:
   - quick
   - spices
   - chili
+mentions:
+  - cuisine/mexican/snacks/guacamole
+  - tutorials/pizza/sauce
 ---
+
 
 
 

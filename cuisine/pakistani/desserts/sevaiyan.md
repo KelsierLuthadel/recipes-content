@@ -12,7 +12,10 @@ tags:
   - nuts
   - eid-al-fitr
   - muslim
+mentions:
+  - cuisine/pakistani/desserts/sheer-khurma
 ---
+
 
 
 

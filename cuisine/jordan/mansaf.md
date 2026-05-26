@@ -17,7 +17,11 @@ tags:
   - yogurt
   - nuts
   - complex
+mentions:
+  - cuisine/jordan/side-dishes/shrak
+  - tutorials/pizza/sauce
 ---
+
 
 
 

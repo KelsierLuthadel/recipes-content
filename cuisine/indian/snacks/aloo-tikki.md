@@ -19,7 +19,11 @@ tags:
   - complex
   - holi
   - hindu
+mentions:
+  - cuisine/indian/sauces-pickles/mint-chutney
+  - tutorials/pizza/toppings
 ---
+
 
 
 

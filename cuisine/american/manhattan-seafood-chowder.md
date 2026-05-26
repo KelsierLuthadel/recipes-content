@@ -20,7 +20,10 @@ tags:
   - tomato
   - potato
   - butter
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -19,7 +19,11 @@ tags:
   - coriander
   - nuts
   - curry
+mentions:
+  - tutorials/bread/gluten
+  - tutorials/pizza/sauce
 ---
+
 
 
 

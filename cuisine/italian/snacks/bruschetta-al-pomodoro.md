@@ -16,7 +16,10 @@ tags:
   - tomato
   - cheese
   - chili
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

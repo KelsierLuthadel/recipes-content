@@ -14,7 +14,12 @@ tags:
   - cheese
   - chili
   - complex
+mentions:
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

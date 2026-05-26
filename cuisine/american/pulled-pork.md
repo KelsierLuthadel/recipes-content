@@ -17,7 +17,11 @@ tags:
   - carrot
   - chili
   - complex
+mentions:
+  - bread-pasta/burger-buns
+  - tutorials/pizza/sauce
 ---
+
 
 
 

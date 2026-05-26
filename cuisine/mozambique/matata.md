@@ -21,7 +21,12 @@ tags:
   - butter
   - nuts
   - chili
+mentions:
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/thai/side-dishes/coconut-rice
+  - tutorials/pizza/sauce
 ---
+
 
 
 

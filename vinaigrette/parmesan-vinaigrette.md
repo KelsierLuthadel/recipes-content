@@ -9,7 +9,10 @@ tags:
   - quick
   - cream
   - cheese
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

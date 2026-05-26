@@ -9,7 +9,10 @@ tags:
   - quick
   - butter
   - cream
+mentions:
+  - cuisine/french/desserts/crepes
 ---
+
 
 
 

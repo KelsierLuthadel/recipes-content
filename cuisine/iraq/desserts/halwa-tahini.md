@@ -13,7 +13,10 @@ tags:
   - honey
   - nuts
   - complex
+mentions:
+  - cuisine/israel/desserts/halva
 ---
+
 
 
 

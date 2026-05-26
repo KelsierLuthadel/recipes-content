@@ -13,7 +13,10 @@ tags:
   - lemon
   - chili
   - complex
+mentions:
+  - cuisine/japanese/miso-soup
 ---
+
 
 
 

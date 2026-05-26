@@ -9,7 +9,11 @@ tags:
   - spicy
   - asian
   - chili
+mentions:
+  - cuisine/indian/lamb-karahi
+  - tutorials/pizza/dough
 ---
+
 
 
 

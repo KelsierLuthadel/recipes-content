@@ -14,7 +14,12 @@ tags:
   - coriander
   - chili
   - complex
+mentions:
+  - cuisine/indian/Breads/puris
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

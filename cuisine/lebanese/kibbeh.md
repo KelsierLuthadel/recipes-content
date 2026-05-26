@@ -17,7 +17,10 @@ tags:
   - yogurt
   - nuts
   - complex
+mentions:
+  - cuisine/middle-east/kibbeh
 ---
+
 
 
 

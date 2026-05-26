@@ -21,7 +21,10 @@ tags:
   - coriander
   - honey
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

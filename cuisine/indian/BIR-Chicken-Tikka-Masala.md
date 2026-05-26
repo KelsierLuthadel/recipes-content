@@ -17,7 +17,10 @@ tags:
   - garlic
   - ginger
   - yogurt
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

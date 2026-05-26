@@ -13,7 +13,10 @@ tags:
   - onion
   - lemon
   - complex
+mentions:
+  - cuisine/azerbaijan/side-dishes/lavash
 ---
+
 
 
 

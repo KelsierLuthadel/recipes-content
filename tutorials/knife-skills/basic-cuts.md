@@ -5,7 +5,11 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - tutorials/knife-skills/knife-care
+  - tutorials/knife-skills/precision-cuts
 ---
+
 
 
 # Basic Cuts

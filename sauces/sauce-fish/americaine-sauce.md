@@ -19,7 +19,10 @@ tags:
   - cream
   - chili
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

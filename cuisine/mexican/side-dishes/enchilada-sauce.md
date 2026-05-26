@@ -15,7 +15,10 @@ tags:
   - tomato
   - chocolate
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

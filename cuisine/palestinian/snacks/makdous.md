@@ -14,7 +14,10 @@ tags:
   - garlic
   - nuts
   - chili
+mentions:
+  - cuisine/lebanese/side-dishes/labneh
 ---
+
 
 
 

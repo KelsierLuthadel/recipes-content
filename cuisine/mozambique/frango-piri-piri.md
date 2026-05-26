@@ -17,7 +17,12 @@ tags:
   - lemon
   - chili
   - complex
+mentions:
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/thai/side-dishes/coconut-rice
+  - tutorials/pizza/sauce
 ---
+
 
 
 

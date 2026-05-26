@@ -11,7 +11,11 @@ tags:
   - baking
   - eggs
   - butter
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

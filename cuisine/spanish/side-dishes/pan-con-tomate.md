@@ -12,7 +12,10 @@ tags:
   - sides
   - garlic
   - tomato
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

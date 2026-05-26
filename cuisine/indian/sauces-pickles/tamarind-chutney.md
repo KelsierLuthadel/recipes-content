@@ -15,7 +15,13 @@ tags:
   - coriander
   - chili
   - curry
+mentions:
+  - cuisine/indian/Breads/rotis
+  - cuisine/indian/side-dishes/samosa
+  - cuisine/indian/snacks/samosa
+  - tutorials/pizza/sauce
 ---
+
 
 
 

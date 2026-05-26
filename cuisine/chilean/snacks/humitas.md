@@ -10,7 +10,10 @@ tags:
   - make-ahead
   - onion
   - butter
+mentions:
+  - cuisine/chilean/side-dishes/pebre
 ---
+
 
 
 

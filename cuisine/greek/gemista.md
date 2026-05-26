@@ -17,7 +17,10 @@ tags:
   - cheese
   - nuts
   - complex
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

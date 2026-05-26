@@ -20,7 +20,11 @@ tags:
   - yogurt
   - curry
   - complex
+mentions:
+  - sauces/sauce-savory/lemon-yogurt-sauce
+  - tutorials/pizza/sauce
 ---
+
 
 
 

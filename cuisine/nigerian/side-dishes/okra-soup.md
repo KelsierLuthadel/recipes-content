@@ -18,7 +18,10 @@ tags:
   - onion
   - garlic
   - chili
+mentions:
+  - cuisine/nigerian/side-dishes/fufu
 ---
+
 
 
 

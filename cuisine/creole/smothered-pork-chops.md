@@ -16,7 +16,10 @@ tags:
   - garlic
   - chili
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -15,7 +15,12 @@ tags:
   - lemon
   - coriander
   - yogurt
+mentions:
+  - cuisine/israel/side-dishes/baba-ganoush
+  - cuisine/israel/side-dishes/falafel
+  - cuisine/polish/latkes
 ---
+
 
 
 

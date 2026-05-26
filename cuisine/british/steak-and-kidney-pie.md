@@ -17,7 +17,10 @@ tags:
   - butter
   - nuts
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

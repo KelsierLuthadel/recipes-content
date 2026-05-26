@@ -14,7 +14,10 @@ tags:
   - potato
   - spinach
   - cheese
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

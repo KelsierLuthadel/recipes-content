@@ -10,7 +10,10 @@ tags:
   - dessert
   - eggs
   - cream
+mentions:
+  - base-ingredients/syrup/sirop-a-sorbet
 ---
+
 
 
 

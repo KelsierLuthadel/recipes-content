@@ -13,7 +13,15 @@ tags:
   - rice
   - cream
   - cheese
+mentions:
+  - cuisine/mexican/side-dishes/pico-de-gallo
+  - cuisine/mexican/side-dishes/refried-beans
+  - cuisine/mexican/side-dishes/spiced-rice
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
 ---
+
 
 
 

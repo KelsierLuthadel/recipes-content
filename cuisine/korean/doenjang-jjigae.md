@@ -23,7 +23,10 @@ tags:
   - potato
   - chili
   - complex
+mentions:
+  - cuisine/korean/kimchi-jjigae
 ---
+
 
 
 

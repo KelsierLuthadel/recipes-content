@@ -21,7 +21,11 @@ tags:
   - butter
   - cheese
   - complex
+mentions:
+  - cuisine/italian/lasagne
+  - tutorials/pizza/cheese
 ---
+
 
 
 

@@ -23,7 +23,12 @@ tags:
   - chili
   - soy-sauce
   - complex
+mentions:
+  - cuisine/tibetan/side-dishes/sepen
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

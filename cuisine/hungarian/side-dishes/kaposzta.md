@@ -14,7 +14,10 @@ tags:
   - onion
   - garlic
   - cream
+mentions:
+  - cuisine/hungarian/side-dishes/nokedli
 ---
+
 
 
 

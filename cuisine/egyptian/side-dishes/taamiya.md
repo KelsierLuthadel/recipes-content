@@ -17,7 +17,12 @@ tags:
   - coriander
   - chili
   - complex
+mentions:
+  - cuisine/egyptian/side-dishes/aysh-baladi
+  - cuisine/egyptian/side-dishes/tahina-salad
+  - cuisine/israel/side-dishes/falafel
 ---
+
 
 
 

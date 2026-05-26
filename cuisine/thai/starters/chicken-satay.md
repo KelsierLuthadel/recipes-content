@@ -22,7 +22,10 @@ tags:
   - nuts
   - curry
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

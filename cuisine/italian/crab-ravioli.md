@@ -16,7 +16,12 @@ tags:
   - butter
   - cheese
   - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

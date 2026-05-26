@@ -17,7 +17,13 @@ tags:
   - cheese
   - chili
   - complex
+mentions:
+  - cuisine/american/side-dishes/mac-and-cheese
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

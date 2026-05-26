@@ -10,7 +10,10 @@ tags:
   - make-ahead
   - sides
   - butter
+mentions:
+  - tutorials/pizza/dough
 ---
+
 
 
 

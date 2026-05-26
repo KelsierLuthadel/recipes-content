@@ -18,7 +18,11 @@ tags:
   - chili
   - curry
   - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -12,7 +12,14 @@ tags:
   - onion
   - lemon
   - yogurt
+mentions:
+  - cuisine/chinese/snacks/spring-rolls
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - cuisine/indian/side-dishes/samosa
+  - sauces/fruit-sauce/mango-chutney
+  - tutorials/pizza/sauce
 ---
+
 
 
 

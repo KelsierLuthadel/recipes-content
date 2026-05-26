@@ -24,7 +24,13 @@ tags:
   - coriander
   - chili
   - complex
+mentions:
+  - base-ingredients/sambal/nam-prik-pao
+  - cuisine/thai/side-dishes/nam-prik-pao
+  - cuisine/thai/soup/tom-yum-goong
+  - tutorials/pizza/sauce
 ---
+
 
 
 

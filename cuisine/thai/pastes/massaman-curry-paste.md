@@ -18,7 +18,10 @@ tags:
   - coriander
   - chili
   - curry
+mentions:
+  - tutorials/thai-curry/massaman
 ---
+
 
 
 

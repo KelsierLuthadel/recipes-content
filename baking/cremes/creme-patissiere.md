@@ -9,7 +9,12 @@ tags:
   - quick
   - baking
   - eggs
+mentions:
+  - baking/cremes/creme-au-beurre
+  - baking/cremes/creme-chibost
+  - baking/cremes/creme-mousseline
 ---
+
 
 
 

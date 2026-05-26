@@ -14,7 +14,11 @@ tags:
   - onion
   - cream
   - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

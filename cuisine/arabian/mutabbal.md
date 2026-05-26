@@ -15,7 +15,10 @@ tags:
   - lemon
   - yogurt
   - chili
+mentions:
+  - cuisine/israel/side-dishes/baba-ganoush
 ---
+
 
 
 

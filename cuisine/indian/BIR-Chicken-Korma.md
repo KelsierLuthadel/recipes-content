@@ -20,7 +20,12 @@ tags:
   - butter
   - nuts
   - complex
+mentions:
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - sauces/fruit-sauce/mango-chutney
+  - tutorials/pizza/sauce
 ---
+
 
 
 

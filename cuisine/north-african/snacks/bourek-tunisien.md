@@ -16,7 +16,13 @@ tags:
   - lemon
   - coriander
   - complex
+mentions:
+  - baking/pastry/filo-pastry
+  - cuisine/north-african/slata-mechouia
+  - tutorials/pastry/filo
+  - tutorials/pizza/dough
 ---
+
 
 
 

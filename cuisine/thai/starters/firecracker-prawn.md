@@ -21,7 +21,12 @@ tags:
   - honey
   - chili
   - soy-sauce
+mentions:
+  - base-ingredients/sambal/nam-prik-pao
+  - cuisine/thai/side-dishes/nam-prik-pao
+  - tutorials/pizza/sauce
 ---
+
 
 
 

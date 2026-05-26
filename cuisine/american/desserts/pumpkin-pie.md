@@ -14,7 +14,10 @@ tags:
   - cream
   - complex
   - halloween
+mentions:
+  - cuisine/american/desserts/caramel-apples
 ---
+
 
 
 

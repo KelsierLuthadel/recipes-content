@@ -21,7 +21,12 @@ tags:
   - butter
   - chili
   - complex
+mentions:
+  - cuisine/bhutanese/phaksha-paa
+  - cuisine/indian/BIR-chicken-curry
+  - tutorials/pizza/sauce
 ---
+
 
 
 

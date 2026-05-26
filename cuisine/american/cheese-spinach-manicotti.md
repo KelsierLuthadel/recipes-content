@@ -13,7 +13,12 @@ tags:
   - tomato
   - spinach
   - cheese
+mentions:
+  - cuisine/italian/side-dishes/tomato-basil-sauce
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

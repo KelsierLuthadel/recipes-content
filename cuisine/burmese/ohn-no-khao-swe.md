@@ -24,7 +24,11 @@ tags:
   - chickpea
   - chili
   - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
 ---
+
 
 
 

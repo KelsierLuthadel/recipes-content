@@ -18,7 +18,11 @@ tags:
   - tomato
   - coriander
   - chili
+mentions:
+  - cuisine/chilean/side-dishes/pebre
+  - tutorials/pizza/toppings
 ---
+
 
 
 

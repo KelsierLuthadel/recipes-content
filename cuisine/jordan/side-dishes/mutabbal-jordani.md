@@ -12,7 +12,10 @@ tags:
   - garlic
   - lemon
   - yogurt
+mentions:
+  - cuisine/israel/side-dishes/baba-ganoush
 ---
+
 
 
 

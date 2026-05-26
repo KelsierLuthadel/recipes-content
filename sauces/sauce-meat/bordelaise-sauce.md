@@ -10,7 +10,10 @@ tags:
   - beef
   - onion
   - butter
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

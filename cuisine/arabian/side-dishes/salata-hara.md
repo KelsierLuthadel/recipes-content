@@ -14,7 +14,11 @@ tags:
   - tomato
   - lemon
   - chili
+mentions:
+  - cuisine/arabian/kabsa
+  - cuisine/yemen/mandi
 ---
+
 
 
 

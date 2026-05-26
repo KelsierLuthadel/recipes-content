@@ -18,7 +18,10 @@ tags:
   - butter
   - cream
   - nuts
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

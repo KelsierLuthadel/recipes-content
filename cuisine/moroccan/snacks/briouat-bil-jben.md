@@ -12,7 +12,12 @@ tags:
   - lemon
   - cheese
   - honey
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/pastry/filo
+  - tutorials/pizza/cheese
 ---
+
 
 
 

@@ -18,7 +18,13 @@ tags:
   - yogurt
   - chili
   - complex
+mentions:
+  - cuisine/afghanistan/mantu
+  - cuisine/afghanistan/snacks/mantu
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

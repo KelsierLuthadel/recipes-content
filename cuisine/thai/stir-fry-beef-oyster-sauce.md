@@ -21,7 +21,10 @@ tags:
   - garlic
   - chili
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

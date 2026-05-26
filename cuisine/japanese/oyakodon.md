@@ -16,7 +16,10 @@ tags:
   - rice
   - onion
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

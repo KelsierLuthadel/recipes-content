@@ -9,7 +9,10 @@ tags:
   - quick
   - lemon
   - cream
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

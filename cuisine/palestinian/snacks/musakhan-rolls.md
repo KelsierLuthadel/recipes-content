@@ -15,7 +15,10 @@ tags:
   - yogurt
   - nuts
   - complex
+mentions:
+  - cuisine/palestinian/musakhan
 ---
+
 
 
 

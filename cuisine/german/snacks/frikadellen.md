@@ -16,7 +16,11 @@ tags:
   - onion
   - butter
   - complex
+mentions:
+  - cuisine/german/side-dishes/german-potato-salad
+  - tutorials/pizza/sauce
 ---
+
 
 
 

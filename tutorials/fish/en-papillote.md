@@ -5,7 +5,11 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - tutorials/fish/whole-fish
+  - tutorials/pizza/sauce
 ---
+
 
 
 # En Papillote

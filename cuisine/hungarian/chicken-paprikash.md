@@ -16,7 +16,11 @@ tags:
   - garlic
   - butter
   - complex
+mentions:
+  - cuisine/german/spatzle
+  - tutorials/pizza/sauce
 ---
+
 
 
 

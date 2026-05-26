@@ -7,7 +7,11 @@ allergens:
 tags:
   - vegetarian
   - meals
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

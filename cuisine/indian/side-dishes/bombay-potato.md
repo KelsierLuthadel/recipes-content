@@ -20,7 +20,10 @@ tags:
   - chili
   - curry
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

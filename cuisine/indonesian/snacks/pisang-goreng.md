@@ -10,7 +10,10 @@ tags:
   - snack
   - asian
   - cheese
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

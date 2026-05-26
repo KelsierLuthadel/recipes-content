@@ -20,7 +20,10 @@ tags:
   - onion
   - soy-sauce
   - lunar-new-year
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

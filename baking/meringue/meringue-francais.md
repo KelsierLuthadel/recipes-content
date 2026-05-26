@@ -10,7 +10,11 @@ tags:
   - quick
   - baking
   - eggs
+mentions:
+  - tutorials/eggs/meringues
+  - tutorials/patisserie/petit-fours
 ---
+
 
 
 

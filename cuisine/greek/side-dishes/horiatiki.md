@@ -12,7 +12,10 @@ tags:
   - onion
   - tomato
   - cheese
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

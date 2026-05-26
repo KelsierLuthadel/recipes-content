@@ -14,7 +14,10 @@ tags:
   - chicken
   - soy-sauce
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

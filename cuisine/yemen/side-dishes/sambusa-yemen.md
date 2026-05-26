@@ -20,7 +20,10 @@ tags:
   - coriander
   - chili
   - complex
+mentions:
+  - cuisine/indian/snacks/samosa
 ---
+
 
 
 

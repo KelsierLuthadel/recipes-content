@@ -14,7 +14,12 @@ tags:
   - cream
   - cheese
   - complex
+mentions:
+  - baking/pastry/rough-puff-pastry
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

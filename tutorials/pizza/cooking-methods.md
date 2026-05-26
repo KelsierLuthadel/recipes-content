@@ -5,7 +5,15 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - tutorials/bread/hydration
+  - tutorials/bread/scoring
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
 ---
+
 
 
 # Cooking Methods

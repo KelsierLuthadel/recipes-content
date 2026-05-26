@@ -19,7 +19,13 @@ tags:
   - cheese
   - chili
   - complex
+mentions:
+  - cuisine/american/side-dishes/cornbread
+  - cuisine/mexican/side-dishes/frijoles-charros
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

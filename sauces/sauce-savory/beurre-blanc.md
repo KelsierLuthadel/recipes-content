@@ -10,7 +10,11 @@ tags:
   - onion
   - butter
   - cream
+mentions:
+  - cuisine/chinese/steamed-fish
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -15,7 +15,12 @@ tags:
   - ramadan
   - muslim
   - hindu
+mentions:
+  - base-ingredients/spices/aromatic-salt
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
 ---
+
 
 
 

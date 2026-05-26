@@ -16,7 +16,10 @@ tags:
   - potato
   - butter
   - cheese
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

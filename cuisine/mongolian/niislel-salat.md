@@ -18,7 +18,11 @@ tags:
   - potato
   - carrot
   - complex
+mentions:
+  - cuisine/mongolian/buuz
+  - cuisine/mongolian/khuushuur
 ---
+
 
 
 

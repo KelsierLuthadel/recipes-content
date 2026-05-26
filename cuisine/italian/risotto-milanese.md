@@ -13,7 +13,10 @@ tags:
   - onion
   - butter
   - cheese
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

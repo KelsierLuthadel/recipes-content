@@ -16,7 +16,13 @@ tags:
   - butter
   - nuts
   - complex
+mentions:
+  - cuisine/lebanese/kibbeh
+  - cuisine/middle-east/kibbeh
+  - cuisine/middle-east/side-dishes/fattoush
+  - cuisine/syria/side-dishes/fattoush
 ---
+
 
 
 

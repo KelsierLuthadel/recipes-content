@@ -12,7 +12,11 @@ tags:
   - eggs
   - butter
   - lunar-new-year
+mentions:
+  - tutorials/patisserie/tarts
+  - tutorials/pizza/dough
 ---
+
 
 
 

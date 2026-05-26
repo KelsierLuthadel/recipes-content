@@ -21,7 +21,12 @@ tags:
   - cream
   - cheese
   - complex
+mentions:
+  - base-ingredients/spices/creole-mix
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

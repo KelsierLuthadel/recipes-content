@@ -19,7 +19,11 @@ tags:
   - ginger
   - coriander
   - chili
+mentions:
+  - cuisine/mauritian/dholl-puri
+  - tutorials/pizza/sauce
 ---
+
 
 
 

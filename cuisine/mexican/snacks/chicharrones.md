@@ -12,7 +12,10 @@ tags:
   - pork
   - lime
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

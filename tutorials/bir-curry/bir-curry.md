@@ -6,7 +6,22 @@ tags:
   - dairy-free
   - gluten-free
   - curry
+mentions:
+  - cuisine/indian/Base/red-masala-sauce
+  - cuisine/indian/BIR-Butter-Chicken
+  - cuisine/indian/BIR-Chicken-Balti
+  - cuisine/indian/BIR-chicken-curry
+  - cuisine/indian/BIR-Chicken-Dhansak
+  - cuisine/indian/BIR-Chicken-Jalfrezi
+  - cuisine/indian/BIR-Chicken-Korma
+  - cuisine/indian/BIR-Chicken-Pasanda
+  - cuisine/indian/BIR-Chicken-Tikka-Masala
+  - cuisine/indian/BIR-Chicken-Vindaloo
+  - cuisine/indian/butter-chicken
+  - cuisine/indian/Spice-Mixes/base-curry-powder
+  - tutorials/pizza/sauce
 ---
+
 
 
 # BIR Curry Course

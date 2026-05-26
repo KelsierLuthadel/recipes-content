@@ -14,7 +14,11 @@ tags:
   - lemon
   - butter
   - nuts
+mentions:
+  - cuisine/italian/pesto
+  - tutorials/pizza/sauce
 ---
+
 
 
 

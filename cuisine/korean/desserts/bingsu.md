@@ -10,7 +10,11 @@ tags:
   - quick
   - dessert
   - make-ahead
+mentions:
+  - cuisine/chinese/side-dishes/rice-cake
+  - tutorials/pizza/toppings
 ---
+
 
 
 

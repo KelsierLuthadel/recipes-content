@@ -16,7 +16,13 @@ tags:
   - curry
   - holi
   - hindu
+mentions:
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - cuisine/indian/sauces-pickles/mint-chutney
+  - cuisine/indian/side-dishes/onion-bahjis
+  - sauces/fruit-sauce/mango-chutney
 ---
+
 
 
 

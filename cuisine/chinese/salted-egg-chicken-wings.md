@@ -16,7 +16,10 @@ tags:
   - duck
   - eggs
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

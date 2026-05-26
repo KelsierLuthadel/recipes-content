@@ -15,7 +15,11 @@ tags:
   - garlic
   - carrot
   - soy-sauce
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

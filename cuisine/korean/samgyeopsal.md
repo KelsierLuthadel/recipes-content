@@ -22,7 +22,12 @@ tags:
   - chili
   - soy-sauce
   - complex
+mentions:
+  - cuisine/chinese/fried-rice
+  - cuisine/korean/side-dishes/kimchi
+  - tutorials/pizza/sauce
 ---
+
 
 
 

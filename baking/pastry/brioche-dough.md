@@ -11,7 +11,11 @@ tags:
   - baking
   - eggs
   - butter
+mentions:
+  - cuisine/french/desserts/pithiviers
+  - tutorials/pizza/dough
 ---
+
 
 
 

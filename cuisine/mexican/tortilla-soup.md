@@ -17,7 +17,11 @@ tags:
   - cheese
   - chili
   - day-of-the-dead
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/toppings
 ---
+
 
 
 

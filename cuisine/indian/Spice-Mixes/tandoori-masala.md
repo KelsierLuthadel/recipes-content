@@ -14,7 +14,10 @@ tags:
   - spices
   - ginger
   - coriander
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

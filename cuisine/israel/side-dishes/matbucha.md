@@ -17,7 +17,11 @@ tags:
   - complex
   - passover
   - jewish
+mentions:
+  - cuisine/israel/side-dishes/israeli-salad
+  - tutorials/pizza/sauce
 ---
+
 
 
 

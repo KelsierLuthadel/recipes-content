@@ -19,7 +19,11 @@ tags:
   - butter
   - chili
   - complex
+mentions:
+  - cuisine/somalian/anjero
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -18,7 +18,10 @@ tags:
   - lemon
   - soy-sauce
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

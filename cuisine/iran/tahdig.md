@@ -14,7 +14,10 @@ tags:
   - butter
   - yogurt
   - complex
+mentions:
+  - cuisine/iran/ghormeh-sabzi
 ---
+
 
 
 

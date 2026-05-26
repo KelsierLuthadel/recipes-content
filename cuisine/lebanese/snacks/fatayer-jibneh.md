@@ -13,7 +13,11 @@ tags:
   - onion
   - cheese
   - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

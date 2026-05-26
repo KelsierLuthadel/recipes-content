@@ -12,7 +12,11 @@ tags:
   - eggs
   - butter
   - cream
+mentions:
+  - baking/pastry/brioche-dough
+  - tutorials/pizza/dough
 ---
+
 
 
 

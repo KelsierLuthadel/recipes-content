@@ -11,7 +11,11 @@ tags:
   - spicy
   - make-ahead
   - meat
+mentions:
+  - base-ingredients/curry-paste/balti-masala-paste
+  - tutorials/stocks-sauces/stocks
 ---
+
 
 
 

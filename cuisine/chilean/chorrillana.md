@@ -16,7 +16,10 @@ tags:
   - onion
   - potato
   - chili
+mentions:
+  - cuisine/chilean/side-dishes/pebre
 ---
+
 
 
 

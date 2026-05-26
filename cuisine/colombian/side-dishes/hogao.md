@@ -13,7 +13,11 @@ tags:
   - onion
   - garlic
   - tomato
+mentions:
+  - cuisine/jamaican/side-dishes/fried-plantains
+  - tutorials/pizza/sauce
 ---
+
 
 
 

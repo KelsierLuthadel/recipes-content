@@ -19,7 +19,10 @@ tags:
   - carrot
   - butter
   - st-patricks
+mentions:
+  - cuisine/irish/colcannon
 ---
+
 
 
 

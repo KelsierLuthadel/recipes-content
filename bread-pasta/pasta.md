@@ -8,7 +8,14 @@ tags:
   - vegetarian
   - dairy-free
   - eggs
+mentions:
+  - cuisine/italian/lasagne
+  - tutorials/bread/hydration
+  - tutorials/pasta/dried-pasta
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

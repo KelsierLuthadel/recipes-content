@@ -15,7 +15,10 @@ tags:
   - cheese
   - chocolate
   - complex
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

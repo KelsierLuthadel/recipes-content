@@ -13,7 +13,13 @@ tags:
   - pork
   - cheese
   - chili
+mentions:
+  - cuisine/italian/bolognese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
 ---
+
 
 
 

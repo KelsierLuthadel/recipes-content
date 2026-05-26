@@ -14,7 +14,11 @@ tags:
   - cream
   - chocolate
   - valentines
+mentions:
+  - sauces/sauce-sweet/chocolate-sauce
+  - tutorials/pizza/sauce
 ---
+
 
 
 

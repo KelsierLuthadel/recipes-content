@@ -20,7 +20,11 @@ tags:
   - curry
   - complex
   - kwanzaa
+mentions:
+  - cuisine/nigerian/dodo
+  - tutorials/pizza/sauce
 ---
+
 
 
 

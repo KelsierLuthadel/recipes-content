@@ -15,7 +15,10 @@ tags:
   - ginger
   - chili
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

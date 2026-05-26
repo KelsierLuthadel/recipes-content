@@ -26,7 +26,11 @@ tags:
   - chili
   - soy-sauce
   - complex
+mentions:
+  - cuisine/thai/side-dishes/khao-niao
+  - tutorials/pizza/sauce
 ---
+
 
 
 

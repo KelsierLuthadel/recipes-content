@@ -20,7 +20,13 @@ tags:
   - chili
   - soy-sauce
   - curry
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+  - cuisine/thai/stocks/thai-chicken-stock
+  - tutorials/bread/gluten
+  - tutorials/pizza/sauce
 ---
+
 
 
 

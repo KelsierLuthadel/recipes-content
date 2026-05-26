@@ -13,7 +13,11 @@ tags:
   - garlic
   - coriander
   - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

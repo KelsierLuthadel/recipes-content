@@ -12,7 +12,13 @@ tags:
   - onion
   - coconut
   - butter
+mentions:
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/mozambique/frango-piri-piri
+  - cuisine/mozambique/matata
+  - cuisine/thai/side-dishes/coconut-rice
 ---
+
 
 
 

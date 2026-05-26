@@ -14,7 +14,12 @@ tags:
   - lemon
   - butter
   - chocolate
+mentions:
+  - cuisine/french/desserts/crepes
+  - sauces/sauce-sweet/chocolate-sauce
+  - tutorials/pizza/sauce
 ---
+
 
 
 

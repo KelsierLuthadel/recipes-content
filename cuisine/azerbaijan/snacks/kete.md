@@ -13,7 +13,11 @@ tags:
   - coriander
   - butter
   - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
 ---
+
 
 
 

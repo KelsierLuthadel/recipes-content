@@ -11,7 +11,11 @@ tags:
   - sides
   - tomato
   - lemon
+mentions:
+  - tutorials/fish/fish
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -15,7 +15,10 @@ tags:
   - onion
   - lime
   - chili
+mentions:
+  - cuisine/malaysian/nasi-lemak
 ---
+
 
 
 

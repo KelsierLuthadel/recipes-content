@@ -13,7 +13,10 @@ tags:
   - eggs
   - garlic
   - coriander
+mentions:
+  - cuisine/portuguese/side-dishes/pao-alentejano
 ---
+
 
 
 

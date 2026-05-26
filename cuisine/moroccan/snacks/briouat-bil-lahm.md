@@ -19,7 +19,11 @@ tags:
   - lemon
   - coriander
   - complex
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/pastry/filo
 ---
+
 
 
 

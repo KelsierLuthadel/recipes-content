@@ -12,7 +12,11 @@ tags:
   - eggs
   - cheese
   - chocolate
+mentions:
+  - cuisine/american/desserts/nyc-cheesecake
+  - tutorials/pizza/cheese
 ---
+
 
 
 

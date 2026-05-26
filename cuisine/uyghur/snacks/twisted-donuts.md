@@ -10,7 +10,11 @@ tags:
   - snack
   - eggs
   - complex
+mentions:
+  - tutorials/bread/gluten
+  - tutorials/pizza/dough
 ---
+
 
 
 

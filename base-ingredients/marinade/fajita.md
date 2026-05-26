@@ -14,7 +14,10 @@ tags:
   - coriander
   - honey
   - chili
+mentions:
+  - cuisine/mexican/snacks/guacamole
 ---
+
 
 
 

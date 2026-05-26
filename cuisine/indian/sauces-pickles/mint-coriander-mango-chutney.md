@@ -14,7 +14,13 @@ tags:
   - lime
   - coriander
   - chili
+mentions:
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - cuisine/indian/side-dishes/lamb-seekh-kebab
+  - cuisine/indian/side-dishes/samosa
+  - sauces/fruit-sauce/mango-chutney
 ---
+
 
 
 

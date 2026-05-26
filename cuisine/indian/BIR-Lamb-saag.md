@@ -23,7 +23,11 @@ tags:
   - yogurt
   - chili
   - complex
+mentions:
+  - cuisine/indian/rice/pilau-rice
+  - tutorials/pizza/sauce
 ---
+
 
 
 

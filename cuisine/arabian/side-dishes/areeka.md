@@ -11,7 +11,10 @@ tags:
   - sides
   - butter
   - honey
+mentions:
+  - cuisine/arabian/side-dishes/khubz-tameez
 ---
+
 
 
 

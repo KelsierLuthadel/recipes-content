@@ -20,7 +20,13 @@ tags:
   - chickpea
   - chili
   - complex
+mentions:
+  - cuisine/iraq/side-dishes/samoon
+  - cuisine/israel/side-dishes/baba-ganoush
+  - cuisine/israel/side-dishes/falafel
+  - tutorials/pizza/sauce
 ---
+
 
 
 

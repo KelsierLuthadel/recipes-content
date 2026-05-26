@@ -16,7 +16,10 @@ tags:
   - ginger
   - coriander
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -12,7 +12,12 @@ tags:
   - tomato
   - coriander
   - cheese
+mentions:
+  - cuisine/mexican/side-dishes/refried-beans
+  - tutorials/pizza/cheese
+  - tutorials/pizza/toppings
 ---
+
 
 
 

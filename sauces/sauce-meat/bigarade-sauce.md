@@ -9,7 +9,11 @@ tags:
   - meat
   - duck
   - lemon
+mentions:
+  - cuisine/french/duck-confit
+  - tutorials/pizza/sauce
 ---
+
 
 
 

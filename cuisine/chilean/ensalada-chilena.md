@@ -15,7 +15,10 @@ tags:
   - lime
   - coriander
   - chili
+mentions:
+  - cuisine/chilean/pastel-de-choclo
 ---
+
 
 
 

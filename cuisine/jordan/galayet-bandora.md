@@ -13,7 +13,10 @@ tags:
   - garlic
   - tomato
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

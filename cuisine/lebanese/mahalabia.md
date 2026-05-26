@@ -11,7 +11,10 @@ tags:
   - cream
   - nuts
   - complex
+mentions:
+  - cuisine/israel/desserts/malabi
 ---
+
 
 
 

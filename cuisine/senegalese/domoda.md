@@ -25,7 +25,11 @@ tags:
   - nuts
   - chili
   - complex
+mentions:
+  - cuisine/senegalese/mafe
+  - tutorials/pizza/sauce
 ---
+
 
 
 

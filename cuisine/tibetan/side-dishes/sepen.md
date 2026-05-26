@@ -14,7 +14,10 @@ tags:
   - garlic
   - tomato
   - coriander
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

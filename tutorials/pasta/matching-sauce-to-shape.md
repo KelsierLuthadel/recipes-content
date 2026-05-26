@@ -5,7 +5,20 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - bread-pasta/pasta
+  - cuisine/italian/bolognese
+  - cuisine/italian/cacio-e-pepe
+  - cuisine/italian/pesto
+  - cuisine/italian/spaghetti-marinara
+  - tutorials/pasta/dried-pasta
+  - tutorials/pasta/fresh-pasta-dough
+  - tutorials/pasta/regional-italian
+  - tutorials/pasta/shapes
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 # Matching Sauce to Shape

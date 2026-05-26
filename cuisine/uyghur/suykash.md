@@ -16,7 +16,11 @@ tags:
   - ginger
   - potato
   - complex
+mentions:
+  - cuisine/uyghur/laghman
+  - tutorials/pizza/dough
 ---
+
 
 
 

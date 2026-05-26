@@ -24,7 +24,14 @@ tags:
   - chili
   - curry
   - complex
+mentions:
+  - cuisine/indian/Breads/rotis
+  - cuisine/indian/pastes/raw-cashew-paste
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - sauces/fruit-sauce/mango-chutney
+  - tutorials/pizza/sauce
 ---
+
 
 
 

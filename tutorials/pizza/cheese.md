@@ -5,7 +5,13 @@ tags:
   - vegetarian
   - gluten-free
   - cheese
+mentions:
+  - tutorials/pizza/cooking-methods
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
 ---
+
 
 
 # Cheese

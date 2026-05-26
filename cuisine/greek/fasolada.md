@@ -17,7 +17,10 @@ tags:
   - lemon
   - cheese
   - complex
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

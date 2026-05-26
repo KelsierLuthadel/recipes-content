@@ -6,7 +6,26 @@ tags:
   - dairy-free
   - gluten-free
   - make-ahead
+mentions:
+  - cuisine/italian/pizza/basic-pizza-dough
+  - cuisine/italian/pizza/calzone-pollo-spinaci
+  - cuisine/italian/pizza/calzone
+  - cuisine/italian/pizza/chilli-beef-pizza
+  - cuisine/italian/pizza/kale-chilli-calzone
+  - cuisine/italian/pizza/pizza-sauce
+  - cuisine/italian/pizza/sloppy-joe-pizza
+  - cuisine/italian/pizza/spicy-sausage-calzone
+  - cuisine/italian/pizza/spinach-and-pine-nut-pinsa-romana
+  - cuisine/italian/pizza/stromboli
+  - tutorials/bread/hydration
+  - tutorials/pasta/regional-italian
+  - tutorials/pizza/cheese
+  - tutorials/pizza/cooking-methods
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
 ---
+
 
 
 # Pizza Course

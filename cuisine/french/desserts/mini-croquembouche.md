@@ -12,7 +12,10 @@ tags:
   - eggs
   - butter
   - cream
+mentions:
+  - tutorials/pastry/choux
 ---
+
 
 
 

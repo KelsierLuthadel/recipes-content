@@ -10,7 +10,10 @@ tags:
   - onion
   - garlic
   - carrot
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

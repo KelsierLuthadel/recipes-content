@@ -19,7 +19,11 @@ tags:
   - ginger
   - chili
   - soy-sauce
+mentions:
+  - cuisine/bhutanese/ema-datshi
+  - tutorials/pizza/sauce
 ---
+
 
 
 

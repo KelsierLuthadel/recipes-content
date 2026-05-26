@@ -11,7 +11,13 @@ tags:
   - garlic
   - lemon
   - yogurt
+mentions:
+  - cuisine/israel/side-dishes/baba-ganoush
+  - cuisine/israel/side-dishes/falafel
+  - cuisine/lebanese/side-dishes/labneh
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -9,7 +9,10 @@ tags:
   - quick
   - lemon
   - honey
+mentions:
+  - cuisine/italian/desserts/panna-cotta
 ---
+
 
 
 

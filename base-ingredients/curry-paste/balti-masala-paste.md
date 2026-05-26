@@ -10,7 +10,10 @@ tags:
   - quick
   - pastes
   - curry
+mentions:
+  - base-ingredients/curry-powder/balti-masala
 ---
+
 
 
 

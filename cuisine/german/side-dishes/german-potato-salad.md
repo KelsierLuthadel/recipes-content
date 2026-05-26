@@ -12,7 +12,11 @@ tags:
   - pork
   - onion
   - potato
+mentions:
+  - cuisine/german/snacks/frikadellen
+  - cuisine/german/wiener-schnitzel
 ---
+
 
 
 

@@ -20,7 +20,12 @@ tags:
   - lime
   - chili
   - complex
+mentions:
+  - cuisine/american/side-dishes/cornbread
+  - cuisine/jamaican/brown-stew-chicken
+  - tutorials/pizza/sauce
 ---
+
 
 
 

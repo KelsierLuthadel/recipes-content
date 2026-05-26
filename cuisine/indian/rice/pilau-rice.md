@@ -12,7 +12,10 @@ tags:
   - rice
   - onion
   - butter
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

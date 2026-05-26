@@ -7,7 +7,12 @@ tags:
   - gluten-free
   - quick
   - butter
+mentions:
+  - cuisine/french/desserts/chocolate-souffle
+  - cuisine/french/desserts/crepes
+  - tutorials/patisserie/tarts
 ---
+
 
 
 

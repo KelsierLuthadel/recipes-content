@@ -20,7 +20,11 @@ tags:
   - chili
   - soy-sauce
   - complex
+mentions:
+  - sauces/sauce-spicy/chipotle-sauce
+  - tutorials/pizza/sauce
 ---
+
 
 
 

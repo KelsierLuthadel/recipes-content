@@ -13,7 +13,11 @@ tags:
   - garlic
   - carrot
   - coriander
+mentions:
+  - cuisine/mexican/pollo-asado
+  - cuisine/mexican/side-dishes/mexican-rice
 ---
+
 
 
 

@@ -5,7 +5,14 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - cuisine/italian/pizza/calzone
+  - cuisine/italian/pizza/pizza-sauce
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/toppings
 ---
+
 
 
 # Sauce

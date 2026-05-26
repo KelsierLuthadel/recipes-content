@@ -15,7 +15,12 @@ tags:
   - coriander
   - cream
   - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
 ---
+
 
 
 

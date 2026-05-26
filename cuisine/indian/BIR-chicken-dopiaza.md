@@ -20,7 +20,10 @@ tags:
   - coriander
   - yogurt
   - complex
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

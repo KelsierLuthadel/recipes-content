@@ -17,7 +17,11 @@ tags:
   - lemon
   - chili
   - complex
+mentions:
+  - cuisine/german/spatzle
+  - tutorials/pizza/sauce
 ---
+
 
 
 

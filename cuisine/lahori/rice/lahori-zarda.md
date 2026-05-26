@@ -11,7 +11,10 @@ tags:
   - rice
   - nuts
   - complex
+mentions:
+  - cuisine/indian/biryani
 ---
+
 
 
 

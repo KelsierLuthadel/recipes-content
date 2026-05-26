@@ -14,7 +14,11 @@ tags:
   - garlic
   - tomato
   - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -19,7 +19,11 @@ tags:
   - butter
   - chili
   - complex
+mentions:
+  - cuisine/haitian/griot
+  - cuisine/jamaican/side-dishes/fried-plantains
 ---
+
 
 
 

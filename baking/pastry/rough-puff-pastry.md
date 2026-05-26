@@ -7,7 +7,11 @@ tags:
   - vegetarian
   - quick
   - baking
+mentions:
+  - tutorials/patisserie/tarts
+  - tutorials/pizza/dough
 ---
+
 
 
 

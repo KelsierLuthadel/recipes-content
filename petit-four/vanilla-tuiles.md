@@ -9,7 +9,10 @@ tags:
   - vegetarian
   - eggs
   - butter
+mentions:
+  - tutorials/patisserie/petit-fours
 ---
+
 
 
 

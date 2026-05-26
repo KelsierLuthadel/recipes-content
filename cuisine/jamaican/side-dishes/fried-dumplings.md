@@ -10,7 +10,12 @@ tags:
   - sides
   - coconut
   - butter
+mentions:
+  - cuisine/jamaican/brown-stew-chicken
+  - cuisine/jamaican/callaloo
+  - tutorials/pizza/dough
 ---
+
 
 
 

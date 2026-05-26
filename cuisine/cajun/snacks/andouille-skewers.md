@@ -17,7 +17,12 @@ tags:
   - tomato
   - lemon
   - butter
+mentions:
+  - cuisine/cajun/dirty-rice
+  - cuisine/creole/maque-choux
+  - tutorials/pizza/sauce
 ---
+
 
 
 

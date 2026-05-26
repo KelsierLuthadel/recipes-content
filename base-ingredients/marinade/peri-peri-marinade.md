@@ -16,7 +16,10 @@ tags:
   - coriander
   - honey
   - chili
+mentions:
+  - tutorials/fish/whole-fish
 ---
+
 
 
 

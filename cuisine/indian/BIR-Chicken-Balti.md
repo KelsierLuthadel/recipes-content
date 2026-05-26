@@ -16,7 +16,10 @@ tags:
   - tomato
   - ginger
   - coriander
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

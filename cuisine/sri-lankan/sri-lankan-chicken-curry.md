@@ -22,7 +22,12 @@ tags:
   - chili
   - curry
   - complex
+mentions:
+  - base-ingredients/curry-powder/sri-lankan
+  - cuisine/sri-lankan/pol-sambol
+  - tutorials/pizza/sauce
 ---
+
 
 
 

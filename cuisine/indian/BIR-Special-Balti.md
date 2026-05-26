@@ -26,7 +26,11 @@ tags:
   - chili
   - curry
   - complex
+mentions:
+  - cuisine/indian/side-dishes/tandoori-chicken-tikka
+  - tutorials/pizza/sauce
 ---
+
 
 
 

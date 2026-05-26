@@ -16,7 +16,11 @@ tags:
   - coconut
   - carrot
   - chili
+mentions:
+  - cuisine/jamaican/brown-stew-chicken
+  - cuisine/jamaican/side-dishes/rice-and-peas
 ---
+
 
 
 

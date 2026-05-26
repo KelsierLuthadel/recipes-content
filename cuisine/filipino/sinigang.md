@@ -18,7 +18,10 @@ tags:
   - spinach
   - lime
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

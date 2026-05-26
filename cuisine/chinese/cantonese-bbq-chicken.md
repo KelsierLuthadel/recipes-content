@@ -26,7 +26,11 @@ tags:
   - soy-sauce
   - complex
   - lunar-new-year
+mentions:
+  - cuisine/chinese/char-siu
+  - tutorials/pizza/sauce
 ---
+
 
 
 

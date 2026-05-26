@@ -20,7 +20,10 @@ tags:
   - yom-kippur
   - sukkot
   - jewish
+mentions:
+  - cuisine/israel/side-dishes/israeli-salad
 ---
+
 
 
 

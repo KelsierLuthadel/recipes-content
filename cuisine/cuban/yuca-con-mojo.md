@@ -13,7 +13,10 @@ tags:
   - garlic
   - lime
   - coriander
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

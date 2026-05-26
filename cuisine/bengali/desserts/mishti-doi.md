@@ -10,7 +10,11 @@ tags:
   - make-ahead
   - yogurt
   - complex
+mentions:
+  - cuisine/bengali/desserts/rasgulla
+  - cuisine/bengali/desserts/sandesh
 ---
+
 
 
 

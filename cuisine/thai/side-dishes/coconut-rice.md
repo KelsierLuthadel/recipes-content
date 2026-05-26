@@ -16,7 +16,11 @@ tags:
   - lime
   - chili
   - curry
+mentions:
+  - cuisine/indian/BIR-Chicken-Vindaloo
+  - cuisine/indian/rice/coconut-rice
 ---
+
 
 
 

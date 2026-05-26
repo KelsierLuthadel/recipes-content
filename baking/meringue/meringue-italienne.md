@@ -10,7 +10,12 @@ tags:
   - quick
   - baking
   - eggs
+mentions:
+  - baking/cremes/creme-au-beurre
+  - baking/cremes/creme-mousseline
+  - tutorials/patisserie/tarts
 ---
+
 
 
 

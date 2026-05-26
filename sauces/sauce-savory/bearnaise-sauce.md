@@ -12,7 +12,11 @@ tags:
   - onion
   - lemon
   - butter
+mentions:
+  - base-ingredients/baking/clarified-butter
+  - tutorials/pizza/sauce
 ---
+
 
 
 

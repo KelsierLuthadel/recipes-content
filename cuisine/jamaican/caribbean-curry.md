@@ -19,7 +19,10 @@ tags:
   - chili
   - curry
   - complex
+mentions:
+  - cuisine/jamaican/side-dishes/rice-and-peas
 ---
+
 
 
 

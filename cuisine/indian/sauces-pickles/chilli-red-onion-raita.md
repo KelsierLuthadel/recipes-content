@@ -15,7 +15,12 @@ tags:
   - coriander
   - yogurt
   - chili
+mentions:
+  - cuisine/indian/biryani
+  - cuisine/indian/sauces-pickles/cucumber-raita
+  - cuisine/indian/side-dishes/cucumber-raita
 ---
+
 
 
 

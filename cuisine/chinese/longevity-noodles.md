@@ -21,7 +21,11 @@ tags:
   - ginger
   - soy-sauce
   - lunar-new-year
+mentions:
+  - cuisine/chinese/char-siu
+  - tutorials/pizza/sauce
 ---
+
 
 
 

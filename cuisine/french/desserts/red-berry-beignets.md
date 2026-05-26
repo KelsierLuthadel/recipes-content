@@ -11,7 +11,11 @@ tags:
   - quick
   - dessert
   - eggs
+mentions:
+  - cuisine/creole/side-dishes/beignets
+  - tutorials/patisserie/petit-fours
 ---
+
 
 
 

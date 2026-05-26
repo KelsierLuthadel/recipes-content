@@ -14,7 +14,11 @@ tags:
   - tomato
   - cheese
   - chili
+mentions:
+  - cuisine/lebanese/side-dishes/labneh
+  - tutorials/pizza/cheese
 ---
+
 
 
 

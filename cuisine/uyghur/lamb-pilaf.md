@@ -17,7 +17,11 @@ tags:
   - carrot
   - honey
   - complex
+mentions:
+  - cuisine/indian/biryani
+  - tutorials/rice/pilaf
 ---
+
 
 
 

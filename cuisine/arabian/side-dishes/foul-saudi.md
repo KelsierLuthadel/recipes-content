@@ -18,7 +18,11 @@ tags:
   - chickpea
   - chili
   - complex
+mentions:
+  - cuisine/arabian/side-dishes/khubz-tameez
+  - cuisine/arabian/side-dishes/salata-hara
 ---
+
 
 
 

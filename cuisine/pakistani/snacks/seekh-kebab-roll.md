@@ -25,7 +25,11 @@ tags:
   - eid-al-adha
   - ramadan
   - muslim
+mentions:
+  - cuisine/azerbaijan/side-dishes/lavash
+  - cuisine/indian/sauces-pickles/mint-chutney
 ---
+
 
 
 

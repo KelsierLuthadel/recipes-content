@@ -14,7 +14,10 @@ tags:
   - garlic
   - ginger
   - lemon
+mentions:
+  - cuisine/chinese/fried-rice
 ---
+
 
 
 

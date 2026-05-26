@@ -7,7 +7,10 @@ allergens:
 tags:
   - gluten-free
   - fish
+mentions:
+  - tutorials/stocks-sauces/stocks
 ---
+
 
 
 

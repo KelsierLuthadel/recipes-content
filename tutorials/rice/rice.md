@@ -6,7 +6,22 @@ tags:
   - dairy-free
   - gluten-free
   - rice
+mentions:
+  - cuisine/chinese/fried-rice
+  - cuisine/indian/biryani
+  - cuisine/indian/rice/jeera-rice
+  - cuisine/indian/rice/kashmiri-pulao
+  - cuisine/indian/rice/pilau-rice
+  - cuisine/iran/tahdig
+  - cuisine/lahori/rice/lahori-mutton-biryani
+  - tutorials/bir-curry/bir-curry
+  - tutorials/pizza/sauce
+  - tutorials/rice/absorption-method
+  - tutorials/rice/boiled-rice
+  - tutorials/rice/fried-rice-technique
+  - tutorials/rice/pilaf
 ---
+
 
 
 # Rice Course

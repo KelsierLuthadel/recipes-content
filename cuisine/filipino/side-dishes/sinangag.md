@@ -16,7 +16,10 @@ tags:
   - onion
   - garlic
   - nuts
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

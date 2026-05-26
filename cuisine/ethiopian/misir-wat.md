@@ -16,7 +16,12 @@ tags:
   - ginger
   - lemon
   - kwanzaa
+mentions:
+  - base-ingredients/spices/berbere
+  - cuisine/lebanese/kibbeh
+  - cuisine/middle-east/kibbeh
 ---
+
 
 
 

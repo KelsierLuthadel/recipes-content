@@ -20,7 +20,12 @@ tags:
   - chickpea
   - chili
   - complex
+mentions:
+  - cuisine/afghanistan/mantu
+  - cuisine/afghanistan/snacks/aushak
+  - tutorials/pizza/sauce
 ---
+
 
 
 

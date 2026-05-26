@@ -30,7 +30,11 @@ tags:
   - soy-sauce
   - curry
   - complex
+mentions:
+  - sauces/sauce-fish/tamarind-sauce
+  - tutorials/pizza/sauce
 ---
+
 
 
 

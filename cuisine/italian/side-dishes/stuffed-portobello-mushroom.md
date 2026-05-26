@@ -12,7 +12,10 @@ tags:
   - mushroom
   - garlic
   - cheese
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

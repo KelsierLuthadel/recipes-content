@@ -11,7 +11,12 @@ tags:
   - cream
   - chocolate
   - nuts
+mentions:
+  - petit-four/chocolate-dipped-langues
+  - sauces/sauce-sweet/caramel-sauce
+  - tutorials/pizza/sauce
 ---
+
 
 
 

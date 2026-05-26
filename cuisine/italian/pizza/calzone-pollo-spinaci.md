@@ -17,7 +17,14 @@ tags:
   - spinach
   - butter
   - cheese
+mentions:
+  - cuisine/italian/pesto
+  - cuisine/italian/pizza/calzone
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ---
+
 
 
 

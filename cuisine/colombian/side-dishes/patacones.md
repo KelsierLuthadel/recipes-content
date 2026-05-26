@@ -9,7 +9,12 @@ tags:
   - gluten-free
   - quick
   - sides
+mentions:
+  - cuisine/colombian/side-dishes/hogao
+  - cuisine/honduras/side-dishes/tajadas
+  - cuisine/south-american/ceviche
 ---
+
 
 
 

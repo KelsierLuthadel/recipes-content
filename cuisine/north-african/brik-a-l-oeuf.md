@@ -15,7 +15,10 @@ tags:
   - onion
   - lemon
   - cheese
+mentions:
+  - tutorials/pizza/cheese
 ---
+
 
 
 

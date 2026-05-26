@@ -14,7 +14,12 @@ tags:
   - onion
   - garlic
   - ginger
+mentions:
+  - cuisine/indian/Breads/rotis
+  - cuisine/indian/side-dishes/samosa
+  - sauces/fruit-sauce/mango-chutney
 ---
+
 
 
 

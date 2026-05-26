@@ -9,7 +9,10 @@ tags:
   - dairy-free
   - quick
   - make-ahead
+mentions:
+  - tutorials/pizza/dough
 ---
+
 
 
 

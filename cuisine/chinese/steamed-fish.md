@@ -19,7 +19,11 @@ tags:
   - ginger
   - soy-sauce
   - lunar-new-year
+mentions:
+  - tutorials/fish/whole-fish
+  - tutorials/pizza/sauce
 ---
+
 
 
 

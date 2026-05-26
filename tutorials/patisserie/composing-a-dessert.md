@@ -5,7 +5,17 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
+mentions:
+  - cuisine/australian/desserts/pavlova
+  - cuisine/italian/desserts/panna-cotta
+  - sauces/sauce-sweet/chocolate-sauce
+  - tutorials/patisserie/classical-cakes
+  - tutorials/patisserie/petit-fours
+  - tutorials/patisserie/set-creams-and-mousses
+  - tutorials/patisserie/tarts
+  - tutorials/pizza/sauce
 ---
+
 
 
 # Composing a Dessert

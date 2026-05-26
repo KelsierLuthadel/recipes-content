@@ -12,7 +12,11 @@ tags:
   - eggs
   - cheese
   - chili
+mentions:
+  - baking/pastry/puff-pastry
+  - tutorials/pizza/cheese
 ---
+
 
 
 

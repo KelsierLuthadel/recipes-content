@@ -15,7 +15,10 @@ tags:
   - tomato
   - lemon
   - complex
+mentions:
+  - cuisine/syria/side-dishes/fattoush
 ---
+
 
 
 

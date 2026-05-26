@@ -9,7 +9,11 @@ tags:
   - quick
   - butter
   - cream
+mentions:
+  - base-ingredients/syrup/sirop-a-sorbet
+  - tutorials/pizza/sauce
 ---
+
 
 
 

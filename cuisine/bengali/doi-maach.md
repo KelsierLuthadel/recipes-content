@@ -19,7 +19,11 @@ tags:
   - yogurt
   - chili
   - complex
+mentions:
+  - cuisine/bengali/machher-jhol
+  - tutorials/pizza/sauce
 ---
+
 
 
 

@@ -13,7 +13,12 @@ tags:
   - pastes
   - eggs
   - cheese
+mentions:
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 

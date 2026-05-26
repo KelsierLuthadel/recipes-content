@@ -15,7 +15,10 @@ tags:
   - onion
   - garlic
   - ginger
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

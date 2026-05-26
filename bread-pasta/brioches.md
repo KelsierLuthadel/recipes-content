@@ -11,7 +11,11 @@ tags:
   - make-ahead
   - eggs
   - nuts
+mentions:
+  - baking/pastry/brioche-dough
+  - tutorials/pizza/dough
 ---
+
 
 
 

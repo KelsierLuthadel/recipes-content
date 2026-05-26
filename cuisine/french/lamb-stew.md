@@ -18,7 +18,11 @@ tags:
   - butter
   - complex
   - easter
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/rice/boiled-rice
 ---
+
 
 
 

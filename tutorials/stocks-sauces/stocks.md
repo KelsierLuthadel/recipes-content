@@ -6,7 +6,15 @@ tags:
   - dairy-free
   - gluten-free
   - make-ahead
+mentions:
+  - cuisine/japanese/miso-soup
+  - stocks/white-chicken-stock
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/bechamel
+  - tutorials/stocks-sauces/espagnole
+  - tutorials/stocks-sauces/veloute
 ---
+
 
 
 # Stocks

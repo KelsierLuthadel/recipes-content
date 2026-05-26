@@ -11,7 +11,10 @@ tags:
   - baking
   - eggs
   - butter
+mentions:
+  - tutorials/patisserie/tarts
 ---
+
 
 
 

@@ -18,7 +18,10 @@ tags:
   - butter
   - nuts
   - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

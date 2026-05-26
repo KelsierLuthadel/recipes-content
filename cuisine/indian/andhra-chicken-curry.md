@@ -27,7 +27,10 @@ tags:
   - chili
   - curry
   - complex
+mentions:
+  - cuisine/indian/BIR-chicken-curry
 ---
+
 
 
 

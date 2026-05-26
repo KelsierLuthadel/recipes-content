@@ -18,7 +18,10 @@ tags:
   - coriander
   - yogurt
   - chili
+mentions:
+  - tutorials/pizza/sauce
 ---
+
 
 
 

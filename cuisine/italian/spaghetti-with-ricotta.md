@@ -11,7 +11,11 @@ tags:
   - tomato
   - cheese
   - nuts
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ---
+
 
 
 
