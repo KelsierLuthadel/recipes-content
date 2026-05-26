@@ -1,25 +1,3 @@
----
-prep: 30 minutes (plus 1 hour chilling)
-cook: 12 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - lemon
-  - butter
-  - complex
-mentions:
-  - cuisine/polish/latkes
-  - tutorials/pizza/dough
----
-
-
-
-
 # Hanukkah Biscuits
 
 ![Hanukkah Biscuits](resources/hanukkah-biscuits.jpg)

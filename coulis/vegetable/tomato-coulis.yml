@@ -1,0 +1,54 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - onion
+  - garlic
+  - tomato
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 750
+    unit: g
+    name: marmande tomatoes
+    raw: 750 grams large marmande tomatoes
+  - qty: 150
+    unit: ml
+    name: olive oil
+    raw: 150 ml olive oil
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic
+  - qty: 60
+    unit: g
+    name: shallots
+    raw: 60 grams shallots
+  - qty: 6
+    unit: sprig
+    name: thyme
+    raw: 6 sprigs thyme
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tablespoon tomato purée
+  - qty: 1
+    unit: pinch
+    name: sugar
+    raw: 1 pinch sugar
+  - qty: 6
+    name: peppercorns
+    raw: 6 peppercorns
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: 1 pinch salt
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni

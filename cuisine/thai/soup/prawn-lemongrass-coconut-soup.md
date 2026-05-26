@@ -1,31 +1,3 @@
----
-prep: 15 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-  - fish
-  - shellfish
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - fish
-  - prawn
-  - ginger
-  - coconut
-  - lime
-  - coriander
-  - curry
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Prawn, Lemongrass and Coconut Soup (Tom Yum)
 
 ![Prawn, lemongrass and coconut soup](resources/prawn-lemongrass-coconut-soup.jpg)

@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - asian
-  - garlic
-  - ginger
-  - lemon
-  - yogurt
-mentions: []
----
-
-
-
-
 # Red Masala Sauce
 
 ![Red Masala Sauce](resources/red-masala-sauce.jpg)

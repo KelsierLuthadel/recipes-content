@@ -1,33 +1,3 @@
----
-prep: 1 hour (plus 30 minutes resting)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-  - sesame
-  - meat
-  - garlic
-tags:
-  - snack
-  - meat
-  - lamb
-  - eggs
-  - onion
-  - garlic
-  - butter
-  - yogurt
-  - nuts
-  - complex
-mentions:
-  - cuisine/arabian/mutabbal
-  - tutorials/pizza/dough
----
-
-
-
-
 # Sambousek Bil Lahm
 
 ![Sambousek bil Lahm](resources/sambousek-lahm.jpg)

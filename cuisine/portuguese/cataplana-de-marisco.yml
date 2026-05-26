@@ -1,0 +1,106 @@
+prep: 25 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - pork
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 150
+    unit: g
+    name: chourico sausage
+    raw: 150 g chouriço sausage
+  - qty: 1
+    unit: tbsp
+    name: smoked paprika
+    raw: 1 tablespoon smoked paprika
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: red chilli
+    raw: 1 fresh red chilli
+  - qty: 4
+    name: tomatoes - or 1 tin chopped tomatoes
+    raw: 4 ripe tomatoes - OR 1 tin chopped tomatoes
+  - qty: 250
+    unit: ml
+    name: dry white wine
+    raw: 250 ml dry white wine
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 500
+    unit: g
+    name: clams
+    raw: 500 g clams
+  - qty: 500
+    unit: g
+    name: mussels
+    raw: 500 g mussels
+  - qty: 400
+    unit: g
+    name: prawns
+    raw: 400 g large raw prawns
+  - qty: 400
+    unit: g
+    name: firm white fish - monkfish
+    raw: 400 g firm white fish - monkfish, hake
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 1
+    name: parsley
+    raw: 1 large bunch fresh parsley
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 2
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 2 tablespoons extra-virgin olive oil
+  - name: crusty bread
+    raw: Crusty bread

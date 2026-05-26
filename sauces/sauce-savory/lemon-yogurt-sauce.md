@@ -1,26 +1,3 @@
----
-prep: 5 minutes (plus 20 minutes resting)
-cook: None
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - garlic
-  - lemon
-  - yogurt
-mentions:
-  - cuisine/israel/side-dishes/baba-ganoush
-  - cuisine/israel/side-dishes/falafel
-  - cuisine/lebanese/side-dishes/labneh
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lemon Yogurt Sauce
 
 ![Lemon Yogurt Sauce](resources/lemon-yogurt-sauce.jpg)

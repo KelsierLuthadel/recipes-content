@@ -1,33 +1,3 @@
----
-prep: 1 hour 15 minutes (plus 30 minutes bulgur soaking)
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - meals
-  - meat
-  - lamb
-  - eggs
-  - onion
-  - garlic
-  - butter
-  - yogurt
-  - nuts
-  - complex
-mentions:
-  - cuisine/lebanese/kibbeh
-  - cuisine/middle-east/kibbeh
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Kibbeh Bil Laban
 
 ![Kibbeh bil Laban](resources/kibbeh-bil-laban.jpg)

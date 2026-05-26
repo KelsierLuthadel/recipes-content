@@ -1,23 +1,3 @@
----
-prep: 25 minutes (plus 30 minutes resting)
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - sesame
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - butter
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Sheker Chorek
 
 ![Sheker Chorek](resources/sheker-chorek.jpg)

@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 4 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - meals
-  - eggs
-  - potato
-  - butter
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Gnocchetti with Courgettes in Butter and Sage Sauce
 
 ![Gnocchetti with Courgettes in Butter and Sage Sauce](resources/gnocchi-sage-sauce.jpg)

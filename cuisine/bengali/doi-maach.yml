@@ -1,0 +1,103 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - fish
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - cuisine/bengali/machher-jhol
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: rohu
+    raw: 600 g rohu, katla or bhetki
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 4
+    unit: tbsp
+    name: mustard oil
+    raw: 4 tablespoons mustard oil
+  - qty: 400
+    unit: g
+    name: plain full-fat yoghurt
+    raw: 400 g plain full-fat yoghurt
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 0.5
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: ½ teaspoon Kashmiri chilli powder
+  - qty: 3
+    unit: tbsp
+    name: mustard oil
+    raw: 3 tablespoons mustard oil
+  - qty: 2
+    name: indian bay leaves
+    raw: 2 Indian bay leaves
+  - qty: 5
+    name: cinnamon
+    raw: 5 cm piece cinnamon
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 2
+    name: red chillies
+    raw: 2 dried red chillies
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 1 tablespoon garlic and ginger paste
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - name: salt
+    raw: Salt
+  - qty: 0.5
+    unit: tsp
+    name: garam masala
+    raw: ½ teaspoon Garam Masala
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: A small handful of fresh coriander

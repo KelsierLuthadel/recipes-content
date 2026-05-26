@@ -1,0 +1,79 @@
+prep: 40 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3.5
+    unit: g
+    name: fast-action dried yeast
+    raw: 3 ½ grams fast-action dried yeast
+  - qty: 2
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 2 tablespoons extra-virgin olive oil
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: caster sugar
+    raw: ½ teaspoon caster sugar
+  - qty: 170
+    unit: ml
+    name: water
+    raw: 170 ml lukewarm water
+  - qty: 300
+    unit: g
+    name: white bread flour
+    raw: 300 grams strong white bread flour
+  - qty: 3
+    name: shallots
+    raw: 3 shallots
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 100
+    unit: ml
+    name: red wine
+    raw: 100 ml red wine
+  - qty: 1
+    name: basil
+    raw: Bunch of fresh basil
+  - name: oregano
+    raw: A few sprigs of fresh oregano
+  - qty: 350
+    unit: g
+    name: tomato passata
+    raw: 350 grams tomato passata
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 0.25
+    unit: tsp
+    name: caster sugar
+    raw: ¼ teaspoon caster sugar
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 300
+    unit: g
+    name: mozzarella
+    raw: 300 grams grated mozzarella
+  - name: extra-virgin olive oil
+    raw: Extra-virgin olive oil

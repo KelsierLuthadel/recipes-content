@@ -1,24 +1,3 @@
----
-prep: 30 minutes (plus 1 hour rising)
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - make-ahead
-  - sides
-  - eggs
-  - butter
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Soft Pretzels
 
 ![Soft Pretzels](resources/soft-pretzels.jpg)

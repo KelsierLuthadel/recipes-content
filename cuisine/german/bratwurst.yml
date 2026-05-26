@@ -1,0 +1,75 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+tags:
+  - meals
+  - bbq
+  - meat
+  - pork
+  - onion
+  - butter
+  - complex
+mentions: []
+ingredients:
+  - qty: 8
+    name: bratwurst
+    raw: 8 fresh bratwurst
+  - qty: 500
+    unit: ml
+    name: weak lager
+    raw: 500 ml weak lager
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 5
+    unit: g
+    name: caraway seeds
+    raw: 5 g caraway seeds
+  - qty: 0.5
+    name: onion
+    raw: ½ onion
+  - qty: 600
+    unit: g
+    name: jarred sauerkraut
+    raw: 600 g jarred sauerkraut
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 50
+    unit: g
+    name: smoked bacon lardons
+    raw: 50 g smoked bacon lardons
+  - qty: 5
+    unit: g
+    name: caraway seeds
+    raw: 5 g caraway seeds
+  - qty: 2
+    name: juniper berries
+    raw: 2 juniper berries
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 150
+    unit: ml
+    name: dry white wine
+    raw: 150 ml dry white wine
+  - qty: 100
+    unit: ml
+    name: chicken
+    raw: 100 ml chicken
+  - qty: 5
+    unit: g
+    name: sugar
+    raw: 5 g sugar
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: german mustard
+    raw: Sharp German mustard
+  - name: crusty rye bread
+    raw: Crusty rye bread

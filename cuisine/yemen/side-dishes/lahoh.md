@@ -1,24 +1,3 @@
----
-prep: 5 minutes (plus 8 hours fermenting)
-cook: 25 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - make-ahead
-  - sides
-  - complex
-mentions:
-  - cuisine/yemen/fahsa
-  - cuisine/yemen/saltah
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lahoh
 
 ![Lahoh](resources/lahoh.jpg)

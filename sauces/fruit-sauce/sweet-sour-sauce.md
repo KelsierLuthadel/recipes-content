@@ -1,22 +1,3 @@
----
-prep: 15 minutes
-cook: 20 minutes
-allergens:
-  - peanuts
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - meat
-  - onion
-mentions:
-  - cuisine/chinese/snacks/spring-rolls
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sweet and Sour Sauce
 
 ![Sweet and sour sauce](resources/sweet-sour.png)

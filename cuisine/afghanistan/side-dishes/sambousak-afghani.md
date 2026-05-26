@@ -1,32 +1,3 @@
----
-prep: 40 minutes
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - make-ahead
-  - sides
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - yogurt
-  - complex
-mentions:
-  - cuisine/indian/sauces-pickles/mint-chutney
-  - cuisine/indian/snacks/samosa
----
-
-
-
-
 # Sambousak Afghani
 
 ![Sambousak Afghani](resources/sambousak-afghani.jpg)

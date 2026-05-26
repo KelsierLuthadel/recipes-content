@@ -1,0 +1,58 @@
+prep: 30 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - onion
+  - butter
+  - cream
+  - cheese
+mentions:
+  - cuisine/american/side-dishes/mac-and-cheese
+  - cuisine/german/spatzle
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 1
+    name: batch fresh spatzle
+    raw: 1 batch fresh spätzle , or 700 g cooked
+  - qty: 4
+    name: onions
+    raw: 4 onions
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 300
+    unit: g
+    name: emmental cheese
+    raw: 300 g emmental cheese
+  - qty: 100
+    unit: g
+    name: cheddar cheese
+    raw: 100 g mature cheddar cheese
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - name: nutmeg
+    raw: A grating of fresh nutmeg
+  - name: black pepper
+    raw: Black pepper
+  - qty: 1
+    name: chives
+    raw: A small bunch of chives
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter

@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-cook: 0 minutes
-allergens:
-  - eggs
-  - peanuts
-  - mustard
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - quick
-  - eggs
-mentions: []
----
-
-
-
-
 # Vanilla Mayonnaise
 
 ![Vanilla mayonnaise](resources/vanilla-mayonnaise.jpg)

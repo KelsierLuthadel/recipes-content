@@ -1,32 +1,3 @@
----
-prep: 15 minutes (plus 30 minutes soaking)
-cook: 45 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - rice
-  - mushroom
-  - onion
-  - garlic
-  - butter
-  - chili
-  - complex
-mentions:
-  - cuisine/haitian/griot
-  - cuisine/jamaican/side-dishes/fried-plantains
----
-
-
-
-
 # Diri Ak Djon Djon
 
 ![Diri ak Djon Djon](resources/diri-ak-djon-djon.jpg)

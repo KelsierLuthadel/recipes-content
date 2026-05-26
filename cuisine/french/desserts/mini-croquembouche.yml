@@ -1,0 +1,65 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - cream
+mentions:
+  - tutorials/pastry/choux
+ingredients:
+  - qty: 125
+    unit: ml
+    name: milk
+    raw: 125 ml milk
+  - qty: 100
+    unit: g
+    name: butter
+    raw: 100 grams butter
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 grams plain flour
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - name: eggwash
+    raw: eggwash
+  - qty: 150
+    unit: ml
+    name: double cream
+    raw: 150 ml double cream
+  - qty: 250
+    unit: g
+    name: creme patissiere
+    raw: 250 grams crème patissière
+  - qty: 1
+    unit: tbsp
+    name: grand marnier
+    raw: 1 tablespoon Grand Marnier
+  - qty: 40
+    unit: g
+    name: liquid glucose
+    raw: 40 grams liquid glucose
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 grams caster sugar
+  - qty: 2
+    unit: tsp
+    name: groundnut oil
+    raw: 2 teaspoon groundnut oil

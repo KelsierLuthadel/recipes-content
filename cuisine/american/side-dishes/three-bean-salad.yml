@@ -1,0 +1,68 @@
+prep: 15 minutes
+cook: 5 minutes
+allergens:
+  - mustard
+  - celery
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - bbq
+  - onion
+  - chickpea
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: tib chickpeas
+    raw: 200 g tib chickpeas, drained and rinsed
+  - qty: 400
+    unit: g
+    name: red kidney beans
+    raw: 400 g tin red kidney beans, drained and rinsed
+  - qty: 400
+    unit: g
+    name: cannellini beans
+    raw: 400 g tin cannellini beans, drained and rinsed
+  - qty: 0.5
+    name: red onion
+    raw: ½ small red onion, finely diced
+  - qty: 1
+    name: green pepper
+    raw: 1 green pepper
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tbsp flat-leaf parsley, finely chopped
+  - qty: 80
+    unit: ml
+    name: cider vinegar
+    raw: 80 ml cider vinegar
+  - qty: 60
+    unit: ml
+    name: light olive oil
+    raw: 60 ml light olive oil
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 tsp Dijon mustard
+  - qty: 0.75
+    unit: tsp
+    name: sea salt
+    raw: ¾ tsp fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp freshly ground black pepper
+  - qty: 0.25
+    unit: tsp
+    name: celery seed
+    raw: ¼ tsp celery seed

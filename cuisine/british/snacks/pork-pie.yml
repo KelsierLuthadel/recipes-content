@@ -1,0 +1,105 @@
+prep: 1 hour 30 minutes
+cook: 1 hour 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - meat
+  - mustard
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - pork
+  - eggs
+  - onion
+  - ginger
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 700
+    unit: g
+    name: pork shoulder
+    raw: 700 g boneless pork shoulder
+  - qty: 150
+    unit: g
+    name: unsmoked thick-cut bacon
+    raw: 150 g unsmoked thick-cut bacon
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon white pepper
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: mace
+    raw: 1 teaspoon ground mace
+  - qty: 1
+    unit: tsp
+    name: sage
+    raw: 1 teaspoon dried sage
+  - qty: 1
+    unit: tsp
+    name: anchovy paste
+    raw: 1 teaspoon anchovy paste
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 0.25
+    unit: tsp
+    name: ginger
+    raw: ¼ teaspoon ground ginger
+  - qty: 1
+    unit: tbsp
+    name: brandy
+    raw: 1 tablespoon brandy
+  - qty: 450
+    unit: g
+    name: plain flour
+    raw: 450 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 100
+    unit: g
+    name: lard
+    raw: 100 g lard
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 500
+    unit: ml
+    name: pork stock
+    raw: 500 ml strong pork stock
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - name: salt
+    raw: Salt to taste
+  - name: english mustard
+    raw: English mustard
+  - name: branston pickle
+    raw: Branston pickle
+  - name: cheddar cheese
+    raw: Sharp cheddar cheese
+  - name: pickled onions
+    raw: Pickled onions

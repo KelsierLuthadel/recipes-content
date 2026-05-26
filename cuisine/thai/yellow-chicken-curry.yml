@@ -1,0 +1,79 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - fish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - garlic
+  - tomato
+  - coconut
+  - potato
+  - carrot
+  - coriander
+  - chili
+  - curry
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+  - cuisine/thai/pastes/thai-yellow-curry-paste
+  - tutorials/bread/gluten
+  - tutorials/pizza/sauce
+  - tutorials/thai-curry/yellow
+ingredients:
+  - qty: 10
+    name: waxy new potatoes
+    raw: 10 waxy new potatoes , quartered
+  - qty: 1
+    name: carrot
+    raw: 1 carrot, cut into thin rounds
+  - qty: 10
+    name: plum tomatoes
+    raw: 10 baby plum tomatoes, halved
+  - qty: 600
+    unit: ml
+    name: coconut milk
+    raw: 600 ml thick coconut milk
+  - qty: 2
+    unit: tbsp
+    name: rapeseed oil
+    raw: 2 tbsp rapeseed oil
+  - qty: 1
+    name: batch yellow curry paste
+    raw: 1 batch yellow curry paste
+  - qty: 1
+    unit: tbsp
+    name: palm sugar
+    raw: 1 tbsp palm sugar
+  - qty: 1
+    unit: tbsp
+    name: tamarind paste
+    raw: 1 tbsp tamarind paste
+  - qty: 600
+    unit: g
+    name: chicken thigh fillets
+    raw: 600 g skinless chicken thigh fillets, cut into bite-size pieces
+  - qty: 1
+    unit: tsp
+    name: curry powder
+    raw: 1 tsp Curry Powder
+  - qty: 2
+    unit: tbsp
+    name: thai fish sauce
+    raw: 2 tbsp Thai fish sauce
+  - qty: 4
+    unit: tbsp
+    name: fried garlic
+    raw: 4 tbsp fried garlic
+  - name: chillies
+    raw: Chopped chillies
+  - name: coriander leaves
+    raw: Chopped coriander leaves

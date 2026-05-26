@@ -1,0 +1,47 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - eggs
+  - onion
+  - tomato
+  - butter
+mentions: []
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil
+    raw: 4 tablespoons sunflower oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 1
+    unit: tbsp
+    name: sweet hungarian paprika
+    raw: 1 tablespoon sweet Hungarian paprika
+  - qty: 0.5
+    unit: tsp
+    name: hot hungarian paprika
+    raw: ½ teaspoon hot Hungarian paprika
+  - qty: 6
+    name: yellow bell peppers
+    raw: 6 yellow bell peppers
+  - qty: 4
+    name: tomatoes or 1 x 400 g tin chopped tomatoes
+    raw: 4 ripe tomatoes or 1 x 400 g tin chopped tomatoes
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 3
+    name: eggs
+    raw: 2-4 eggs

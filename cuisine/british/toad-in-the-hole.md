@@ -1,28 +1,3 @@
----
-prep: 10 minutes (plus 30 minutes batter rest)
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-  - mustard
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - eggs
-  - onion
-  - butter
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Toad in the Hole
 
 ![Toad in the Hole](resources/toad-in-the-hole.jpg)

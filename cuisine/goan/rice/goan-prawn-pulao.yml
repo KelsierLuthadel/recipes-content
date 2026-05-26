@@ -1,0 +1,107 @@
+prep: 15 minutes (plus 30 minutes soak)
+cook: 30 minutes
+allergens:
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 300
+    unit: g
+    name: basmati rice
+    raw: 300 g aged basmati rice
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 400
+    unit: g
+    name: prawns
+    raw: 400 g large peeled prawns
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    name: lime
+    raw: ½ lime
+  - qty: 30
+    unit: g
+    name: coriander
+    raw: 30 g fresh coriander
+  - qty: 20
+    unit: g
+    name: mint leaves
+    raw: 20 g fresh mint leaves
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: palm vinegar
+    raw: 1 tablespoon palm vinegar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 3
+    unit: tbsp
+    name: coconut oil
+    raw: 3 tablespoons coconut oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of coriander
+  - qty: 1
+    name: lime
+    raw: 1 lime

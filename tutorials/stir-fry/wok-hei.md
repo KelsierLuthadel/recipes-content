@@ -1,21 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - cuisine/chinese/chow-mein
-  - cuisine/chinese/fried-rice
-  - cuisine/chinese/mapo-tofu
-  - tutorials/pizza/sauce
-  - tutorials/stir-fry/ingredient-order
-  - tutorials/stir-fry/wok-setup
----
-
-
-
 # Wok Hei
 
 ![Wok hei](resources/wok-hei.jpg)

@@ -1,0 +1,92 @@
+prep: 15 minutes
+cook: 8 minutes
+allergens:
+  - soy
+  - sesame
+  - shellfish
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - rice
+  - mushroom
+  - garlic
+  - carrot
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: head broccoli
+    raw: 1 head broccoli
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 100
+    unit: g
+    name: corn
+    raw: 100 g baby corn
+  - qty: 200
+    unit: g
+    name: mixed mushrooms
+    raw: 200 g mixed mushrooms
+  - qty: 100
+    unit: g
+    name: snow peas
+    raw: 100 g snow peas
+  - qty: 200
+    unit: g
+    name: pak choi
+    raw: 200 g pak choi
+  - qty: 100
+    unit: g
+    name: beansprouts
+    raw: 100 g beansprouts
+  - qty: 4
+    unit: tbsp
+    name: vegetable stock
+    raw: 4 tablespoons vegetable stock
+  - qty: 3
+    unit: tbsp
+    name: vegetarian oyster sauce
+    raw: 3 tablespoons vegetarian oyster sauce
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce
+    raw: 2 tablespoons light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: shaoxing rice wine
+    raw: 1 tablespoon Shaoxing rice wine
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon white pepper
+  - qty: 1
+    name: long red chilli
+    raw: 1 long red chilli
+  - qty: 1
+    unit: tsp
+    name: toasted sesame oil
+    raw: 1 teaspoon toasted sesame oil
+  - name: jasmine rice
+    raw: Cooked jasmine rice

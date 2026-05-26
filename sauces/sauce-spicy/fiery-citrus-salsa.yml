@@ -1,0 +1,38 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - garlic
+  - lemon
+  - chili
+mentions: []
+ingredients:
+  - qty: 1
+    name: orange
+    raw: 1 orange
+  - qty: 1
+    name: green apple
+    raw: 1 green apple
+  - qty: 2
+    name: red chillies
+    raw: 2 fresh red chillies
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 8
+    name: mint leaves
+    raw: 8 fresh mint leaves
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

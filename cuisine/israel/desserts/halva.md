@@ -1,30 +1,3 @@
----
-prep: 20 minutes (plus 4 hours setting)
-cook: 15 minutes
-allergens:
-  - tree-nuts
-  - sesame
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - dessert
-  - make-ahead
-  - chocolate
-  - honey
-  - nuts
-  - complex
-  - hanukkah
-  - passover
-  - rosh-hashanah
-  - tu-bav
-  - jewish
-mentions: []
----
-
-
-
-
 # Halva
 
 ![Halva](resources/halva.jpg)

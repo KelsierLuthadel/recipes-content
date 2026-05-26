@@ -1,30 +1,3 @@
----
-prep: 25 minutes (plus overnight soak for jameed)
-cook: 2 ½ hours
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - meat
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - lamb
-  - rice
-  - onion
-  - butter
-  - yogurt
-  - nuts
-  - complex
-mentions:
-  - cuisine/jordan/side-dishes/shrak
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mansaf
 
 ![Mansaf](resources/mansaf.jpg)

@@ -1,26 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour 15 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - one-pan
-  - meals
-  - meat
-  - rice
-  - mushroom
-  - onion
-  - garlic
-  - complex
-mentions: []
----
-
-
-
-
 # Wild Rice with Venison
 
 ![Wild Rice with Venison](resources/wild-rice-with-venison.jpg)

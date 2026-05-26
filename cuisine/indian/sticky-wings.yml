@@ -1,0 +1,63 @@
+prep: 5 minutes
+cook: 45 minutes
+allergens:
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - asian
+  - meat
+  - chicken
+  - garlic
+  - ginger
+  - lemon
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken wings
+    raw: 1 kg chicken wings
+  - qty: 4
+    unit: tbsp
+    name: date syrup
+    raw: 4 tbsp date syrup
+  - qty: 2
+    unit: tbsp
+    name: black treacle
+    raw: 2 tbsp black treacle
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, minced
+  - qty: 5
+    name: ginger
+    raw: 5 cm piece fresh root ginger, peeled and grated
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp Garam Masala
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 tsp ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: black mustard seeds
+    raw: ½ tsp black mustard seeds
+  - qty: 4
+    unit: tsp
+    name: dark rum
+    raw: 4 tsp dark rum
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar
+    raw: 2 tbsp white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt

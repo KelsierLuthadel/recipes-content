@@ -1,0 +1,69 @@
+prep: 45 minutes
+cook: 50 minutes (plus 4 hours resting)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - complex
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/pastry/filo
+ingredients:
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre whole milk
+  - qty: 120
+    unit: g
+    name: semolina
+    raw: 120 g fine semolina
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 1
+    unit: tbsp
+    name: vanilla extract
+    raw: 1 tablespoon vanilla extract
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 18
+    name: sheets filo pastry
+    raw: 18 sheets filo pastry
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 300
+    unit: g
+    name: caster sugar
+    raw: 300 g caster sugar
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 1
+    name: strip lemon peel
+    raw: 1 strip lemon peel
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons lemon juice

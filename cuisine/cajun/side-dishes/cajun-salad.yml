@@ -1,0 +1,67 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - eggs
+  - onion
+  - potato
+  - coriander
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: waxy potatoes
+    raw: 8 waxy potatoes
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 250
+    unit: ml
+    name: mayonnaise
+    raw: 250 ml mayonnaise
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tbsp Dijon mustard
+  - name: tabasco sauce
+    raw: Tabasco sauce
+  - qty: 0.25
+    unit: tsp
+    name: garam masala
+    raw: ¼ tsp Garam Masala
+  - qty: 0.25
+    unit: tsp
+    name: cumin
+    raw: ¼ tsp ground cumin
+  - qty: 0.25
+    unit: tsp
+    name: coriander
+    raw: ¼ tsp dried coriander
+  - qty: 0.25
+    unit: tsp
+    name: cayenne pepper
+    raw: ¼ tsp cayenne pepper
+  - qty: 2
+    unit: tsp
+    name: thyme
+    raw: 2 tsp thyme
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: salad leaves
+    raw: Salad leaves

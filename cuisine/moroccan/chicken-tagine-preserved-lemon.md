@@ -1,30 +1,3 @@
----
-prep: 20 minutes
-cook: 1 hour
-allergens:
-  - gluten
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - complex
-  - ramadan
-  - muslim
-mentions: []
----
-
-
-
-
 # Chicken Tagine with Preserved Lemon and Olives
 
 ![Chicken Tagine with Preserved Lemon and Olives](resources/chicken-tagine-preserved-lemon.jpg)

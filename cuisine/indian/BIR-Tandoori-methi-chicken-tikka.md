@@ -1,38 +1,3 @@
----
-prep: 15 minutes
-cook: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - mustard
-  - garlic
-tags:
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - bbq
-  - meat
-  - chicken
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - butter
-  - cheese
-  - yogurt
-  - chickpea
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Tandoori Methi Chicken Tikka
 
 ![Tandoori Methi Chicken Tikka](resources/BIR-Tandoori-methi-chicken-tikka.jpg)

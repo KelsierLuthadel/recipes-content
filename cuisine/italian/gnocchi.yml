@@ -1,0 +1,30 @@
+prep: 10 minutes
+cook: 3 hours
+allergens:
+  - gluten
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - meals
+  - eggs
+  - potato
+  - complex
+mentions:
+  - cuisine/italian/pesto
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: flour potatoes
+    raw: 1 kg flour potatoes
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 90
+    unit: g
+    name: plain flour
+    raw: 90 grams plain flour
+  - name: salt
+    raw: Salt to taste

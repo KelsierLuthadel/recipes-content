@@ -1,0 +1,102 @@
+prep: 40 minutes (plus 1 ½ hours proving)
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cream
+  - honey
+  - nuts
+  - complex
+mentions:
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 350
+    unit: g
+    name: white flour
+    raw: 350 g strong white flour
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml warm whole milk
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 3
+    unit: tbsp
+    name: runny honey
+    raw: 3 tablespoons runny honey
+  - qty: 60
+    unit: ml
+    name: double cream
+    raw: 60 ml double cream
+  - qty: 120
+    unit: g
+    name: flaked almonds
+    raw: 120 g flaked almonds
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod , or 2 teaspoons vanilla extract
+  - qty: 5
+    name: egg yolks
+    raw: 5 egg yolks
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 40
+    unit: g
+    name: cornflour
+    raw: 40 g cornflour
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream

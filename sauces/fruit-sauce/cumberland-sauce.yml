@@ -1,0 +1,46 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meat
+  - onion
+  - lemon
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: shallot
+    raw: 1 shallot
+  - qty: 4
+    unit: tbsp
+    name: red wine vinegar
+    raw: 4 tablespoons red wine vinegar
+  - qty: 12
+    name: white peppercorns
+    raw: 12 white peppercorns
+  - qty: 100
+    unit: ml
+    name: veal stock
+    raw: 100 ml Veal stock
+  - qty: 50
+    unit: ml
+    name: ruby port
+    raw: 50 ml ruby port
+  - qty: 2
+    unit: tbsp
+    name: redcurrant jelly
+    raw: 2 tablespoons redcurrant jelly
+  - qty: 1
+    unit: tsp
+    name: worcestershire sauce
+    raw: 1 teaspoon Worcestershire sauce
+  - name: orange
+    raw: one orange
+  - name: lemon
+    raw: one lemon
+  - name: salt
+    raw: salt

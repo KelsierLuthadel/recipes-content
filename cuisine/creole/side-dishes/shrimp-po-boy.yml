@@ -1,0 +1,77 @@
+prep: 25 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - sides
+  - fish
+  - prawn
+  - tomato
+  - lemon
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: shell-off shrimp
+    raw: 400 g raw shell-off shrimp
+  - qty: 200
+    unit: ml
+    name: buttermilk
+    raw: 200 ml buttermilk
+  - qty: 2
+    unit: tbsp
+    name: hot pepper sauce
+    raw: 2 tablespoons hot pepper sauce
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 50
+    unit: g
+    name: yellow cornmeal
+    raw: 50 g fine yellow cornmeal
+  - qty: 1
+    unit: tsp
+    name: creole seasoning
+    raw: 1 teaspoon Creole seasoning
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - qty: 2
+    name: long french rolls
+    raw: 2 long French rolls
+  - qty: 3
+    unit: tbsp
+    name: mayonnaise
+    raw: 3 tablespoons mayonnaise
+  - qty: 2
+    unit: tbsp
+    name: creole mustard
+    raw: 2 tablespoons Creole mustard
+  - qty: 1
+    unit: cup
+    name: shredded iceberg lettuce
+    raw: 1 cup shredded iceberg lettuce
+  - qty: 1
+    name: tomato
+    raw: 1 tomato
+  - qty: 12
+    name: dill pickle slices
+    raw: 12 dill pickle slices
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - name: more hot sauce on the table
+    raw: More hot sauce on the table

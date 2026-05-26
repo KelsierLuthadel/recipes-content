@@ -1,0 +1,27 @@
+prep: 15 minutes
+cook: 8-10 minutes
+allergens:
+  - gluten
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - quick
+  - eggs
+mentions: []
+ingredients:
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - qty: 190
+    unit: g
+    name: caster sugar
+    raw: 190 grams caster sugar
+  - qty: 180
+    unit: g
+    name: cake flour
+    raw: 180 grams cake flour
+  - qty: 30
+    unit: g
+    name: icing sugar
+    raw: 30 grams icing sugar

@@ -1,0 +1,85 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - fish
+  - shellfish
+tags:
+  - dairy-free
+  - snack
+  - make-ahead
+  - fish
+  - eggs
+  - rice
+  - onion
+  - ginger
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 600
+    unit: ml
+    name: dashi
+    raw: 600 ml dashi
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: mirin
+    raw: 1 tablespoon mirin
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 200
+    unit: g
+    name: octopus tentacle
+    raw: 200 g cooked octopus tentacle
+  - qty: 4
+    unit: tbsp
+    name: pickled red ginger
+    raw: 4 tablespoons pickled red ginger
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 4
+    unit: tbsp
+    name: tempura crumbs
+    raw: 4 tablespoons tempura crumbs
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 4
+    unit: tbsp
+    name: takoyaki sauce
+    raw: 4 tablespoons takoyaki sauce
+  - qty: 4
+    unit: tbsp
+    name: japanese mayonnaise
+    raw: 4 tablespoons Japanese mayonnaise
+  - qty: 4
+    unit: tbsp
+    name: bonito flakes
+    raw: 4 tablespoons bonito flakes
+  - qty: 2
+    unit: tbsp
+    name: aonori
+    raw: 2 tablespoons aonori

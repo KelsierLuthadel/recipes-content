@@ -1,0 +1,78 @@
+prep: 10 minutes
+cook: 43 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - potato
+  - cream
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 1
+    unit: tbsp
+    name: instant coffee
+    raw: 1 tablespoon instant coffee
+  - qty: 4
+    unit: tbsp
+    name: grand marnier
+    raw: 4 tablespoons Grand Marnier
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 85
+    unit: g
+    name: caster sugar
+    raw: 85 grams caster sugar
+  - qty: 35
+    unit: g
+    name: plain flour
+    raw: 35 grams plain flour
+  - qty: 40
+    unit: g
+    name: potato flour
+    raw: 40 grams potato flour
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 grams icing sugar
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml milk
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream
+  - qty: 125
+    unit: g
+    name: caster sugar
+    raw: 125 grams caster sugar
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 6
+    name: egg yolks
+    raw: 6 egg yolks
+  - qty: 360
+    unit: g
+    name: caster sugar
+    raw: 360 grams caster sugar
+  - qty: 30
+    unit: g
+    name: liquid glucose
+    raw: 30 grams liquid glucose
+  - qty: 6
+    name: egg whites
+    raw: 6 egg whites

@@ -1,0 +1,45 @@
+prep: 5 minutes
+cook: 31 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - make-ahead
+  - baking
+  - eggs
+  - butter
+mentions:
+  - cuisine/french/desserts/pithiviers
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 70
+    unit: ml
+    name: tepid milk
+    raw: 70 ml tepid milk
+  - qty: 15
+    unit: g
+    name: yeast
+    raw: 15 grams fresh yeast
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 grams plain flour
+  - qty: 15
+    unit: g
+    name: salt
+    raw: 15 grams fine salt
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - qty: 350
+    unit: g
+    name: butter
+    raw: 350 grams butter
+  - qty: 30
+    unit: g
+    name: caster sugar
+    raw: 30 grams caster sugar
+  - name: eggwash
+    raw: eggwash

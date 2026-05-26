@@ -1,0 +1,30 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - chocolate
+mentions:
+  - baking/cremes/chocolate-creme-patissiere
+ingredients:
+  - qty: 1
+    name: choux paste
+    raw: 1 quantity fresh choux paste
+  - qty: 300
+    unit: g
+    name: caster sugar
+    raw: 300 grams caster sugar
+  - qty: 24
+    name: crystallised violets
+    raw: 24 crystallised violets
+  - qty: 500
+    unit: g
+    name: chocolate creme patissiere
+    raw: 500 grams chocolate crème pâtissière
+  - qty: 200
+    unit: ml
+    name: creme chantilly
+    raw: 200 ml crème chantilly

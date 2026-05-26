@@ -1,0 +1,39 @@
+prep: 10 minutes (plus 1 hour salting)
+cook: 12 minutes
+allergens:
+  - gluten
+  - fish
+tags:
+  - dairy-free
+  - sides
+  - fish
+  - potato
+  - lemon
+mentions: []
+ingredients:
+  - qty: 12
+    name: sardines
+    raw: 12 fresh whole sardines
+  - qty: 4
+    unit: tbsp
+    name: sea salt
+    raw: 4 tablespoons coarse sea salt
+  - name: olive oil
+    raw: Olive oil
+  - qty: 4
+    name: crusty country bread
+    raw: 4 thick slices of crusty country bread
+  - qty: 2
+    name: red bell peppers
+    raw: 2 red bell peppers
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - qty: 4
+    name: boiled new potatoes
+    raw: 4 boiled new potatoes
+  - name: glass of cold vinho verde
+    raw: A glass of cold vinho verde

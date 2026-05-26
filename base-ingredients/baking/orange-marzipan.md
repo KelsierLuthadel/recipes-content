@@ -1,22 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dairy-free
-  - quick
-  - make-ahead
-  - eggs
-  - nuts
-mentions: []
----
-
-
-
-
 # Zesty Orange Marzipan
 
 ![Marzipan](resources/marzipan.jpg)

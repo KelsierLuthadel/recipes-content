@@ -1,31 +1,3 @@
----
-prep: 45 minutes (plus 1 hour rising)
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - meat
-tags:
-  - spicy
-  - sides
-  - meat
-  - lamb
-  - onion
-  - tomato
-  - lemon
-  - yogurt
-  - nuts
-  - chili
-  - complex
-mentions:
-  - cuisine/egyptian/hawawshi
-  - tutorials/pizza/dough
----
-
-
-
-
 # Sfeeha
 
 ![Sfeeha](resources/sfeeha.jpg)

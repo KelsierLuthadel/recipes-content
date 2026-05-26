@@ -1,0 +1,51 @@
+prep: 15 minutes (plus 20 minutes salting)
+cook: none
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - garlic
+  - lemon
+  - cream
+mentions:
+  - cuisine/polish/grilled-kielbasa
+ingredients:
+  - qty: 2
+    name: cucumbers
+    raw: 2 cucumbers
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 200
+    unit: g
+    name: sour cream
+    raw: 200 g full-fat sour cream
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon fine salt
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 3
+    unit: tbsp
+    name: dill
+    raw: 3 tablespoons fresh dill
+  - qty: 1
+    unit: tbsp
+    name: chives
+    raw: 1 tablespoon fresh chives

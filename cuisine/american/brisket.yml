@@ -1,0 +1,88 @@
+prep: 20 minutes
+cook: 4 hours
+allergens:
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - carrot
+  - complex
+  - hanukkah
+  - passover
+  - rosh-hashanah
+  - yom-kippur
+  - sukkot
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: kg
+    name: beef brisket
+    raw: 2 kg beef brisket
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 4
+    name: onions
+    raw: 4 onions
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tablespoons tomato paste
+  - qty: 2
+    unit: tbsp
+    name: brown sugar
+    raw: 2 tablespoons brown sugar
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tablespoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 250
+    unit: ml
+    name: dry red wine
+    raw: 250 ml dry red wine
+  - qty: 750
+    unit: ml
+    name: beef stock
+    raw: 750 ml beef stock
+  - qty: 4
+    name: carrots
+    raw: 4 carrots
+  - qty: 4
+    name: celery sticks
+    raw: 4 celery sticks
+  - qty: 3
+    name: bay leaves
+    raw: 3 bay leaves
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme
+  - qty: 2
+    unit: tbsp
+    name: cider vinegar
+    raw: 2 tablespoons cider vinegar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt

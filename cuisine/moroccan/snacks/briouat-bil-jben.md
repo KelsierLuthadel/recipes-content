@@ -1,26 +1,3 @@
----
-prep: 30 minutes
-cook: 15 minutes (in batches)
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - snack
-  - eggs
-  - lemon
-  - cheese
-  - honey
-mentions:
-  - baking/pastry/filo-pastry
-  - tutorials/pastry/filo
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Briouat Bil Jben (Cheese Briouats)
 
 ![Briouat bil Jben](resources/briouat-bil-jben.jpg)

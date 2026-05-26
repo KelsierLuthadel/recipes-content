@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - eggs
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - quick
-  - meals
-  - meat
-  - pork
-  - eggs
-  - onion
-  - garlic
-  - potato
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Cuban-Style Pork Burgers
 
 ![Cuban-Style Pork Burgers](resources/cuban-burger.jpg)

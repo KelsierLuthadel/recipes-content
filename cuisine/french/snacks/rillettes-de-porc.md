@@ -1,25 +1,3 @@
----
-prep: 20 minutes
-cook: 4 hours
-allergens:
-  - meat
-  - mustard
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - snack
-  - meat
-  - pork
-  - onion
-  - garlic
-  - complex
-mentions: []
----
-
-
-
-
 # Rillettes de Porc
 
 ![Rillettes de Porc](resources/rillettes-de-porc.jpg)

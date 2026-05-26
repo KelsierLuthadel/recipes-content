@@ -1,31 +1,3 @@
----
-prep: 20 minutes
-cook: 8 minutes
-allergens:
-  - fish
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - sides
-  - asian
-  - fish
-  - prawn
-  - onion
-  - garlic
-  - coconut
-  - lime
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Kerabu Kacang Botol
 
 ![Kerabu Kacang Botol](resources/kerabu.jpg)
@@ -51,7 +23,7 @@ Winged beans are sliced thin and tossed with kerisik (toasted grated coconut pou
 - 8 Vietnamese mint (laksa) leaves (optional, torn)
 
 ### Kerisik (Toasted Coconut)
-- 60 grams fresh (or frozen grated coconut), defrosted (or 50 grams desiccated coconut moistened with 2 tablespoons water)
+- 60 grams grated coconut (or 50 grams desiccated coconut moistened with 2 tablespoons hot water)
 
 ### Dressing
 - 2 tablespoons dried shrimp

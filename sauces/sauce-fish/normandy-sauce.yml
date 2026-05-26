@@ -1,0 +1,56 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - shellfish
+tags:
+  - fish
+  - eggs
+  - mushroom
+  - lemon
+  - butter
+  - cream
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 grams butter
+  - qty: 30
+    unit: g
+    name: plain flour
+    raw: 30 grams plain flour
+  - qty: 100
+    unit: g
+    name: button mushrooms
+    raw: 100 grams button mushrooms
+  - qty: 1
+    unit: sprig
+    name: thyme
+    raw: 1 sprig thyme
+  - qty: 500
+    unit: ml
+    name: fish stock
+    raw: 500 ml Fish stock
+  - qty: 50
+    unit: ml
+    name: mussel juice
+    raw: 50 ml mussel juice
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

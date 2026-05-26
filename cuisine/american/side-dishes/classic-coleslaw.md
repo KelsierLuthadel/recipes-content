@@ -1,24 +1,3 @@
----
-prep: 15 minutes (plus 1 hour rest)
-cook: 0 minutes
-allergens:
-  - dairy
-  - mustard
-  - celery
-tags:
-  - vegetarian
-  - gluten-free
-  - make-ahead
-  - sides
-  - onion
-  - carrot
-  - yogurt
-mentions: []
----
-
-
-
-
 # Classic Coleslaw
 
 ![Classic Coleslaw](resources/classic-coleslaw.jpg)

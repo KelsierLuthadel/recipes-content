@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - make-ahead
-  - sides
-  - tomato
-  - lemon
-mentions:
-  - tutorials/fish/fish
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tomato and Basil Sauce
 
 ![Tomato and Basil Sauce](resources/tomato-basil-sauce.jpg)

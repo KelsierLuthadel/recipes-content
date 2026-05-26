@@ -1,22 +1,3 @@
----
-prep: 20 minutes (plus 6+ hours setting)
-cook: 1 hour
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - make-ahead
-  - eggs
-  - day-of-the-dead
-mentions: []
----
-
-
-
-
 # Flan Mexicano
 
 ![Flan Mexicano](resources/flan-mexicano.jpg)

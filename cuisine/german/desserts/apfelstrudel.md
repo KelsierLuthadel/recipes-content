@@ -1,29 +1,3 @@
----
-prep: 45 minutes (plus 30 minutes resting)
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - lemon
-  - butter
-  - nuts
-  - complex
-mentions:
-  - baking/pastry/filo-pastry
-  - tutorials/bread/gluten
-  - tutorials/pastry/filo
-  - tutorials/pizza/dough
----
-
-
-
-
 # Apfelstrudel
 
 ![Apfelstrudel](resources/apfelstrudel.jpg)

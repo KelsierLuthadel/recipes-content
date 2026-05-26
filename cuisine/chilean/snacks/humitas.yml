@@ -1,0 +1,47 @@
+prep: 30 minutes
+cook: 50 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - snack
+  - make-ahead
+  - onion
+  - butter
+mentions:
+  - cuisine/chilean/side-dishes/pebre
+ingredients:
+  - qty: 6
+    name: ears of sweetcorn
+    raw: 6 fresh ears of sweetcorn
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - qty: 8
+    name: basil leaves
+    raw: 8 fresh basil leaves
+  - qty: 2
+    unit: tbsp
+    name: cornmeal
+    raw: 2 tablespoons fine cornmeal
+  - name: sugar
+    raw: Sugar
+  - name: pebre
+    raw: Pebre , optional

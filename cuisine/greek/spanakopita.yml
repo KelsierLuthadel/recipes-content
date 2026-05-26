@@ -1,0 +1,74 @@
+prep: 30 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - onion
+  - garlic
+  - spinach
+  - butter
+  - cheese
+  - complex
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/pastry/filo
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 1
+    unit: kg
+    name: spinach
+    raw: 1 kg fresh spinach
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 6
+    name: spring onions
+    raw: 6 spring onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 300
+    unit: g
+    name: feta cheese
+    raw: 300 g feta cheese
+  - qty: 200
+    unit: g
+    name: ricotta cheese
+    raw: 200 g ricotta cheese
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 1
+    name: dill
+    raw: A small bunch of dill
+  - qty: 1
+    name: parsley
+    raw: A small bunch of parsley
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 270
+    unit: g
+    name: filo pastry
+    raw: 270 g Filo Pastry
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil

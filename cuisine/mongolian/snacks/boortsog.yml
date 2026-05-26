@@ -1,0 +1,50 @@
+prep: 25 minutes (plus 30 min resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - butter
+  - honey
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: baking powder
+    raw: ½ teaspoon baking powder
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - name: caster sugar for dusting
+    raw: Caster sugar for dusting
+  - name: "or: drizzle of honey"
+    raw: "Or: drizzle of honey"
+  - name: "or: butter and jam"
+    raw: "Or: butter and jam to serve"

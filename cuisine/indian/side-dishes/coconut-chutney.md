@@ -1,33 +1,3 @@
----
-prep: 10 minutes
-cook: 5 minutes
-allergens:
-  - tree-nuts
-  - sesame
-  - mustard
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - sides
-  - asian
-  - lentils
-  - ginger
-  - coconut
-  - lime
-  - coriander
-  - nuts
-  - chili
-  - curry
-mentions: []
----
-
-
-
-
 # Coconut Chutney
 
 ![Coconut Chutney](resources/coconut-chutney.jpg)

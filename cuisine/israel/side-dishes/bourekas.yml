@@ -1,0 +1,56 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - spicy
+  - make-ahead
+  - sides
+  - eggs
+  - butter
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 75
+    unit: g
+    name: feta
+    raw: 75 g feta
+  - qty: 50
+    unit: g
+    name: cottage cheese
+    raw: 50 g cottage cheese
+  - qty: 50
+    unit: g
+    name: cheddar
+    raw: 50 g mature cheddar
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - name: black pepper
+    raw: A generous grind of black pepper
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 320
+    unit: g
+    name: ready-rolled all-butter puff pastry
+    raw: 320 g ready-rolled all-butter puff pastry
+  - qty: 1.5
+    unit: tbsp
+    name: sesame seeds
+    raw: 1-2 tablespoons sesame seeds
+  - qty: 4
+    name: hard-boiled eggs
+    raw: 4 hard-boiled eggs
+  - qty: 2
+    unit: tbsp
+    name: harissa
+    raw: 2 tablespoons harissa
+  - name: pickled cucumbers
+    raw: A small jar of pickled cucumbers

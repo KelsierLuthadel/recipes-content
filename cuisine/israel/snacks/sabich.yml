@@ -1,0 +1,103 @@
+prep: 25 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - chili
+  - complex
+  - shavuot
+  - jewish
+mentions:
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - cuisine/israel/side-dishes/israeli-salad
+  - sauces/fruit-sauce/mango-chutney
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: aubergines
+    raw: 2 aubergines
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 6
+    unit: tbsp
+    name: olive oil
+    raw: 6 tablespoons olive oil
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 200
+    unit: g
+    name: hummus
+    raw: 200 g Hummus
+  - qty: 80
+    unit: g
+    name: tahini
+    raw: 80 g tahini
+  - qty: 3
+    unit: tbsp
+    name: lemon juice
+    raw: 3 tablespoons lemon juice
+  - qty: 4.5
+    unit: tbsp
+    name: water
+    raw: 4-5 tablespoons cold water
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 0.5
+    name: red onion
+    raw: ½ small red onion
+  - qty: 20
+    unit: g
+    name: parsley
+    raw: 20 g fresh parsley
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons lemon juice
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 4
+    name: pitas
+    raw: 4 pitas
+  - qty: 4
+    unit: tbsp
+    name: jarred amba
+    raw: 4 tablespoons jarred amba
+  - name: parsley
+    raw: Extra parsley
+  - name: crispy fried onions
+    raw: Crispy fried onions
+  - name: pickled chillies
+    raw: Pickled chillies

@@ -1,20 +1,3 @@
----
-prep: 10 minutes
-cook: 1 hour
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - sides
-mentions:
-  - cuisine/american/side-dishes/cornbread
----
-
-
-
-
 # Chimodho
 
 ![Chimodho](resources/chimodho.jpg)

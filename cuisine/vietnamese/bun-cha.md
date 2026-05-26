@@ -1,35 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour
-allergens:
-  - gluten
-  - soy
-  - fish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - fish
-  - pork
-  - onion
-  - garlic
-  - carrot
-  - lime
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Vietnamese Pork Bun Cha
 
 ![Vietnamese Pork Bun Cha](resources/bun-cha.jpg)

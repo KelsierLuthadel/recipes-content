@@ -1,0 +1,67 @@
+prep: 20 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - carrot
+  - butter
+mentions: []
+ingredients:
+  - qty: 50
+    unit: ml
+    name: olive oil
+    raw: 50 ml olive oil
+  - qty: 25
+    unit: g
+    name: unsalted butter
+    raw: 25 grams unsalted butter
+  - qty: 3
+    name: onions
+    raw: 3 onions
+  - qty: 3
+    name: carrots
+    raw: 3 carrots
+  - qty: 3
+    name: celery sticks
+    raw: 3 celery sticks
+  - qty: 900
+    unit: g
+    name: tomatoes
+    raw: 900 grams ripe tomatoes
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    name: basil
+    raw: small bunch of fresh basil
+  - qty: 1
+    name: tarragon
+    raw: small bunch of tarragon
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 6
+    name: smoked back bacon rashers
+    raw: 6 smoked back bacon rashers
+  - qty: 750
+    unit: ml
+    name: chicken stock
+    raw: 750 ml chicken stock
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tablespoon tomato purée

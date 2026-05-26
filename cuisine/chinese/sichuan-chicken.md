@@ -1,32 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - soy
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - chicken
-  - garlic
-  - ginger
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/rice/boiled-rice
----
-
-
-
-
 # Sichuan Chicken
 
 ![Sichuan Chicken](resources/sichuan-chicken.jpg)

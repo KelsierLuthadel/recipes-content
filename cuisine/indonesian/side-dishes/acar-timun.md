@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-cook: 0 minutes (rests 1 hour)
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - sides
-  - asian
-  - onion
-  - ginger
-  - carrot
-  - chili
-mentions: []
----
-
-
-
-
 # Acar Timun
 
 ![Acar Timun](resources/acar-timun.jpg)

@@ -1,0 +1,111 @@
+prep: 25 minutes (plus 4 hours marinating)
+cook: 25 minutes
+allergens:
+  - dairy
+  - soy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - bbq
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - lime
+  - butter
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: chicken pieces
+    raw: 1 ½ kg chicken pieces
+  - qty: 80
+    unit: ml
+    name: calamansi juice
+    raw: 80 ml calamansi juice
+  - qty: 60
+    unit: ml
+    name: cane vinegar
+    raw: 60 ml cane vinegar
+  - qty: 30
+    unit: ml
+    name: soy sauce
+    raw: 30 ml soy sauce
+  - qty: 30
+    unit: ml
+    name: lemon-lime soda
+    raw: 30 ml lemon-lime soda
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 30
+    unit: g
+    name: ginger
+    raw: 30 g ginger
+  - qty: 2
+    name: lemongrass
+    raw: 2 stalks lemongrass
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 10
+    unit: g
+    name: salt
+    raw: 10 g salt
+  - qty: 5
+    unit: g
+    name: black pepper
+    raw: 5 g ground black pepper
+  - qty: 30
+    unit: g
+    name: brown sugar
+    raw: 30 g brown sugar
+  - qty: 80
+    unit: ml
+    name: neutral oil
+    raw: 80 ml neutral oil
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 15
+    unit: g
+    name: annatto seeds
+    raw: 15 g annatto seeds
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: lemongrass
+    raw: 1 stalk lemongrass
+  - qty: 3
+    unit: g
+    name: salt
+    raw: 3 g salt
+  - qty: 45
+    unit: ml
+    name: soy sauce
+    raw: 45 ml soy sauce
+  - qty: 30
+    unit: ml
+    name: calamansi
+    raw: 30 ml calamansi
+  - qty: 15
+    unit: ml
+    name: cane vinegar
+    raw: 15 ml cane vinegar
+  - qty: 1
+    name: bird's eye chilli
+    raw: 1 bird's eye chilli
+  - qty: 1
+    name: shallot
+    raw: 1 shallot

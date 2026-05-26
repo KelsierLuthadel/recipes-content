@@ -1,0 +1,45 @@
+prep: 10 minutes (plus 1 hour rice soak)
+cook: 1 hour
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - meals
+  - eggs
+  - rice
+  - butter
+  - yogurt
+  - complex
+mentions:
+  - cuisine/iran/ghormeh-sabzi
+ingredients:
+  - qty: 500
+    unit: g
+    name: basmati rice
+    raw: 500 g basmati rice
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tablespoons salt
+  - qty: 4
+    unit: tbsp
+    name: unsalted butter
+    raw: 4 tablespoons unsalted butter
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 1
+    unit: generous pinch
+    name: saffron
+    raw: A generous pinch of saffron
+  - qty: 4
+    unit: tbsp
+    name: plain yogurt
+    raw: 4 tablespoons plain yogurt
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk

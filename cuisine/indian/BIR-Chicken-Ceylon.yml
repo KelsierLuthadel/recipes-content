@@ -1,0 +1,126 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - curry
+  - complex
+mentions:
+  - cuisine/indian/Breads/rotis
+  - cuisine/indian/pastes/raw-cashew-paste
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - sauces/fruit-sauce/mango-chutney
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: rapeseed oil or seasoned oil
+    raw: 4 tbsp rapeseed oil or seasoned oil
+  - qty: 2
+    name: star anise
+    raw: 2 star anise
+  - qty: 7.5
+    name: cinnamon stick or cassia bark
+    raw: 7 ½ cm piece cinnamon stick or cassia bark
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods, bashed
+  - qty: 20
+    name: curry leaves
+    raw: 20 fresh curry leaves
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp garlic and ginger paste
+  - qty: 2
+    name: green bird’s eye chillies
+    raw: 2 green bird’s eye chillies, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: coconut flour
+    raw: 2 tbsp coconut flour
+  - qty: 3
+    unit: tbsp
+    name: coriander stalks
+    raw: 3 tbsp finely chopped coriander stalks
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 tsp Kashmiri chilli powder
+  - qty: 2
+    unit: tbsp
+    name: mixed powder
+    raw: 2 tbsp Mixed Powder
+  - qty: 1
+    unit: tbsp
+    name: tandoori masala
+    raw: 1 tbsp Tandoori Masala
+  - qty: 0.5
+    unit: tbsp
+    name: black pepper
+    raw: ½ tbsp freshly ground black pepper
+  - qty: 125
+    unit: ml
+    name: tomato puree
+    raw: 125 ml tomato purée
+  - qty: 625
+    unit: ml
+    name: curry base gravy
+    raw: 625 ml Curry Base Gravy
+  - qty: 800
+    unit: g
+    name: pre-cooked chicken
+    raw: 800 g Pre-Cooked Chicken
+  - qty: 125
+    unit: ml
+    name: spice stock
+    raw: 125 ml spice stock
+  - qty: 100
+    unit: g
+    name: block coconut
+    raw: 100 g block coconut, cut into small pieces
+  - qty: 1
+    unit: tsp
+    name: fenugreek leaves
+    raw: 1 tsp dried fenugreek leaves
+  - qty: 2
+    unit: tbsp
+    name: smooth mango chutney
+    raw: 2 tbsp smooth mango chutney
+  - qty: 1.5
+    unit: tbsp
+    name: cashew paste
+    raw: 1-2 tbsp raw cashew paste
+  - name: salt
+    raw: Salt, to taste
+  - name: sugar
+    raw: Sugar, to taste
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp Garam Masala
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tbsp chopped coriander , to finish

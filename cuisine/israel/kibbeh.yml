@@ -1,0 +1,65 @@
+prep: 25 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - tree-nuts
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - nuts
+mentions:
+  - cuisine/lebanese/kibbeh
+  - cuisine/middle-east/kibbeh
+  - cuisine/palestinian/kibbeh-bil-saneeyeh
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: tbsp
+    name: olive oil
+    raw: 1-2 tablespoons olive oil
+  - qty: 185
+    unit: g
+    name: smooth bulgur wheat
+    raw: 185 g smooth bulgur wheat
+  - qty: 1
+    name: brown onion
+    raw: 1 medium brown onion
+  - qty: 1
+    unit: tsp
+    name: baharat
+    raw: 1 teaspoon baharat
+  - qty: 0.75
+    unit: tsp
+    name: sea salt
+    raw: ¾ teaspoon fine sea salt
+  - name: black pepper
+    raw: A generous grind of black pepper
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons cold water
+  - qty: 500
+    unit: g
+    name: beef mince
+    raw: 500 g lean beef mince
+  - qty: 20
+    unit: g
+    name: pine nuts
+    raw: 20 g pine nuts
+  - name: bowl of tahini sauce
+    raw: A small bowl of tahini sauce
+  - name: tomato-cucumber-parsley salad
+    raw: A chopped tomato-cucumber-parsley salad
+  - name: warm pita
+    raw: Warm pita

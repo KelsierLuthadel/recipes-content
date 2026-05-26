@@ -1,0 +1,52 @@
+prep: 10 minutes
+allergens:
+  - peanuts
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - ginger
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 225
+    unit: g
+    name: cod fillets
+    raw: 225 grams cod fillets
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 1.5
+    unit: tbsp
+    name: cornflour
+    raw: 1 ½ tablespoons cornflour
+  - qty: 75
+    unit: ml
+    name: groundnut oil
+    raw: 75 ml groundnut oil
+  - qty: 1.5
+    unit: tbsp
+    name: ginger
+    raw: 1 ½ tablespoons fresh ginger
+  - qty: 1
+    unit: tbsp
+    name: chinese chicken stock
+    raw: 1 tablespoon Chinese chicken stock
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: dry sherry
+    raw: 1 tablespoon dry sherry
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar

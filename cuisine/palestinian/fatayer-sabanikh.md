@@ -1,28 +1,3 @@
----
-prep: 35 minutes (plus 45 min dough rise)
-cook: 18 minutes
-allergens:
-  - gluten
-  - tree-nuts
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - meals
-  - onion
-  - spinach
-  - lemon
-  - nuts
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Fatayer Sabanikh
 
 ![Fatayer Sabanikh](resources/fatayer-sabanikh.jpg)

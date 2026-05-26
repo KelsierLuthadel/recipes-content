@@ -1,0 +1,69 @@
+prep: 15 minutes
+cook: 1 hour 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - lentils
+  - rice
+  - onion
+  - yogurt
+mentions:
+  - cuisine/middle-east/mujadara
+ingredients:
+  - qty: 250
+    unit: g
+    name: brown lentils
+    raw: 250 g brown lentils
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 100
+    unit: ml
+    name: olive oil
+    raw: 100 ml olive oil
+  - qty: 3
+    name: onions
+    raw: 3 onions
+  - qty: 300
+    unit: g
+    name: basmati rice
+    raw: 300 g basmati rice
+  - qty: 1.5
+    unit: tsp
+    name: cumin
+    raw: 1 ½ teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 700
+    unit: ml
+    name: lentil cooking water
+    raw: 700 ml lentil cooking water
+  - qty: 200
+    unit: g
+    name: greek yogurt
+    raw: 200 g Greek yogurt
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tablespoon dried mint
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt

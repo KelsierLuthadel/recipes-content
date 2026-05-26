@@ -1,0 +1,44 @@
+prep: 10 minutes
+cook: 2 minutes
+allergens:
+  - soy
+  - shellfish
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - prawn
+  - onion
+  - ginger
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 225
+    unit: g
+    name: prawns
+    raw: 225 grams prawns
+  - qty: 1.5
+    unit: tbsp
+    name: spring onions
+    raw: 1 ½ tablespoons spring onions
+  - qty: 2
+    unit: tsp
+    name: ginger
+    raw: 2 teaspoons fresh ginger
+  - qty: 1
+    unit: tbsp
+    name: dry sherry
+    raw: 1 tablespoon dry sherry
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 70
+    unit: ml
+    name: chinese chicken stock
+    raw: 70 ml Chinese chicken stock

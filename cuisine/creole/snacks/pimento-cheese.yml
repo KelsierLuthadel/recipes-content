@@ -1,0 +1,72 @@
+prep: 15 minutes (plus 30 minutes chilling)
+cook: 0 minutes
+allergens:
+  - gluten
+  - dairy
+  - mustard
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - cheese
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: cheddar cheese
+    raw: 400 g mature sharp cheddar cheese
+  - qty: 100
+    unit: g
+    name: cream cheese
+    raw: 100 g cream cheese
+  - qty: 150
+    unit: g
+    name: mayonnaise
+    raw: 150 g mayonnaise
+  - qty: 100
+    unit: g
+    name: jarred pimentos
+    raw: 100 g jarred pimentos
+  - qty: 1
+    unit: tsp
+    name: worcestershire sauce
+    raw: 1 teaspoon Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 0.5
+    unit: tsp
+    name: cayenne pepper
+    raw: ½ teaspoon cayenne pepper
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - name: saltines
+    raw: Saltines, Ritz crackers, sourdough crostini, or white sandwich bread
+  - name: celery sticks
+    raw: Sliced celery sticks
+  - name: tea
+    raw: Iced tea

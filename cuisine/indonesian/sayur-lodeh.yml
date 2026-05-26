@@ -1,0 +1,99 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - soy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - tofu
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - nuts
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 6
+    name: shallots
+    raw: 6 shallots
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 3
+    name: candlenuts
+    raw: 3 candlenuts
+  - qty: 2
+    name: long red chillies
+    raw: 2 long red chillies
+  - qty: 2
+    name: turmeric
+    raw: 2 cm fresh turmeric
+  - qty: 1
+    name: ginger
+    raw: 1 cm fresh ginger
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    name: lemongrass
+    raw: 2 stalks lemongrass
+  - qty: 4
+    name: kaffir lime leaves
+    raw: 4 kaffir lime leaves
+  - qty: 3
+    name: galangal
+    raw: 3 cm galangal
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 600
+    unit: ml
+    name: vegetable stock
+    raw: 600 ml vegetable stock
+  - qty: 200
+    unit: g
+    name: long beans
+    raw: 200 g long beans
+  - qty: 200
+    unit: g
+    name: chayote
+    raw: 200 g chayote
+  - qty: 1
+    name: aubergine
+    raw: 1 aubergine
+  - qty: 200
+    unit: g
+    name: firm tofu
+    raw: 200 g firm tofu
+  - qty: 100
+    unit: g
+    name: cabbage
+    raw: 100 g cabbage
+  - qty: 2
+    unit: tbsp
+    name: palm sugar
+    raw: 2 tablespoons palm sugar
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce
+    raw: 2 tablespoons light soy sauce
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    name: lime
+    raw: ½ lime

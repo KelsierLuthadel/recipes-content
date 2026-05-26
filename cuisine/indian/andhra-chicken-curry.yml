@@ -1,0 +1,128 @@
+prep: 20 minutes (plus 30 minutes marinade)
+cook: 45 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - sesame
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - yogurt
+  - nuts
+  - chili
+  - curry
+  - complex
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken thighs
+    raw: 1 kg chicken thighs
+  - qty: 1
+    unit: tbsp
+    name: ginger-garlic paste
+    raw: 1 tablespoon ginger-garlic paste
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon turmeric
+  - qty: 100
+    unit: g
+    name: natural yogurt
+    raw: 100 g natural yogurt
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 teaspoon Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: white poppy seeds
+    raw: 2 tablespoons white poppy seeds
+  - qty: 1
+    unit: tbsp
+    name: white sesame seeds
+    raw: 1 tablespoon white sesame seeds
+  - qty: 1
+    unit: tbsp
+    name: coriander seeds
+    raw: 1 tablespoon coriander seeds
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 teaspoon fennel seeds
+  - qty: 7
+    name: kashmiri chillies
+    raw: 6-8 dried Kashmiri chillies
+  - qty: 3
+    name: byadgi
+    raw: 2-4 dried byadgi
+  - qty: 40
+    unit: g
+    name: coconut
+    raw: 40 g fresh grated coconut
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 3
+    unit: tbsp
+    name: sesame oil
+    raw: 3 tablespoons sesame oil
+  - qty: 1
+    unit: tsp
+    name: black mustard seeds
+    raw: 1 teaspoon black mustard seeds
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 20
+    name: curry leaves
+    raw: 20 fresh curry leaves
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes
+  - qty: 1
+    unit: tbsp
+    name: tamarind paste
+    raw: 1 tablespoon tamarind paste
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of fresh coriander
+  - qty: 0.5
+    name: lime
+    raw: ½ lime

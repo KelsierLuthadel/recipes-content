@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 0 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - onion
-  - tomato
-  - lime
-mentions:
-  - cuisine/iran/ghormeh-sabzi
----
-
-
-
-
 # Salad Shirazi
 
 ![Salad Shirazi](resources/salad-shirazi.jpg)

@@ -1,0 +1,54 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - meals
+  - onion
+  - garlic
+  - potato
+mentions:
+  - cuisine/american/side-dishes/cornbread
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 800
+    unit: g
+    name: floury potatoes
+    raw: 800 g floury potatoes
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1 ½ litres water
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 250
+    unit: g
+    name: kale
+    raw: 250 g kale
+  - qty: 200
+    unit: g
+    name: chourico
+    raw: 200 g chouriço
+  - name: crusty country bread
+    raw: Crusty country bread
+  - name: extra-virgin olive oil
+    raw: Extra-virgin olive oil

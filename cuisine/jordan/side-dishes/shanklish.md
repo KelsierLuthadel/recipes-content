@@ -1,27 +1,3 @@
----
-prep: 15 minutes (uses store-bought shanklish or labneh-aged shortcut)
-cook: 0 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - spicy
-  - quick
-  - make-ahead
-  - sides
-  - onion
-  - tomato
-  - cheese
-  - chili
-mentions:
-  - cuisine/lebanese/side-dishes/labneh
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Shanklish
 
 ![Shanklish](resources/shanklish.jpg)

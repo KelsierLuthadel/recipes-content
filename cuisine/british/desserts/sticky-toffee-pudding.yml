@@ -1,0 +1,74 @@
+prep: 20 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - cream
+  - halloween
+  - st-patricks
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: pitted medjool dates
+    raw: 200 g pitted Medjool dates
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml boiling water
+  - qty: 1
+    unit: tsp
+    name: bicarbonate of soda
+    raw: 1 teaspoon bicarbonate of soda
+  - qty: 175
+    unit: g
+    name: self-raising flour
+    raw: 175 g self-raising flour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 75
+    unit: g
+    name: unsalted butter
+    raw: 75 g unsalted butter
+  - qty: 175
+    unit: g
+    name: soft dark brown sugar
+    raw: 175 g soft dark brown sugar
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 175
+    unit: g
+    name: soft dark brown sugar
+    raw: 175 g soft dark brown sugar
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: flaky sea salt
+    raw: A pinch of flaky sea salt
+  - name: vanilla ice cream
+    raw: Vanilla ice cream

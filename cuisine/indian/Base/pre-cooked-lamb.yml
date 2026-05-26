@@ -1,0 +1,80 @@
+prep: 15 minutes
+cook: 1 hour 40 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - asian
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: lb
+    name: lamb
+    raw: 3 lbs Lamb, diced with fat and skin cut off
+  - qty: 2
+    name: onions
+    raw: 2 onions, finely diced
+  - qty: 1
+    unit: tbsp
+    name: cumin seeds
+    raw: 1 tbsp Cumin seeds
+  - qty: 2
+    unit: tbsp
+    name: garlic paste
+    raw: 2 tbsp Garlic paste
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tbsp Tomato Purée
+  - qty: 1
+    unit: tsp
+    name: coriander powder
+    raw: 1 tsp Coriander Powder
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 tsp Chilli Powder
+  - qty: 1
+    unit: tbsp
+    name: turmeric
+    raw: 1 tbsp Turmeric
+  - qty: 1
+    unit: tbsp
+    name: methi
+    raw: 1 tbsp Methi
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp Garam Masala
+  - qty: 1
+    name: curry leaf
+    raw: 1 Curry leaf
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp Sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp Salt
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: Handful of fresh Coriander, chopped
+  - qty: 300
+    unit: ml
+    name: vegetable oil
+    raw: 300ml Vegetable Oil
+  - name: water
+    raw: Water

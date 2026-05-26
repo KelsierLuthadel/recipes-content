@@ -1,0 +1,41 @@
+prep: 30 minutes (plus 30 min mochi rest)
+cook: 20 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - dessert
+  - make-ahead
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 200
+    unit: g
+    name: glutinous rice flour
+    raw: 200 g glutinous rice flour
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tbsp
+    name: matcha powder
+    raw: 1 tablespoon matcha powder
+  - qty: 280
+    unit: ml
+    name: water
+    raw: 280 ml water
+  - qty: 200
+    unit: g
+    name: sweet red bean paste
+    raw: 200 g sweet red bean paste
+  - qty: 100
+    unit: g
+    name: potato starch
+    raw: 100 g potato starch
+  - qty: 1
+    unit: tsp
+    name: matcha powder
+    raw: 1 teaspoon matcha powder

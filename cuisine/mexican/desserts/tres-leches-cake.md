@@ -1,26 +1,3 @@
----
-prep: 30 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - butter
-  - cream
-  - complex
-  - day-of-the-dead
-mentions:
-  - cuisine/cuban/desserts/tres-leches
----
-
-
-
-
 # Tres Leches Cake
 
 ![Tres Leches Cake](resources/tres-leches-cake.jpg)

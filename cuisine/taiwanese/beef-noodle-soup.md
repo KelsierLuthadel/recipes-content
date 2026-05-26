@@ -1,33 +1,3 @@
----
-prep: 25 minutes
-cook: 2 ½-3 hours
-allergens:
-  - gluten
-  - soy
-  - meat
-  - mustard
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - meals
-  - meat
-  - beef
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coriander
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Taiwanese Beef Noodle Soup
 
 ![Taiwanese Beef Noodle Soup](resources/beef-noodle-soup.jpg)

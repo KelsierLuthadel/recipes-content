@@ -1,0 +1,44 @@
+prep: 5 minutes
+cook: 35 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - asian
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: handful
+    name: green cardamom pods
+    raw: Handful of green cardamom pods, lightly bruised
+  - qty: 15
+    name: indian bay leaves
+    raw: 15 Indian bay leaves
+  - qty: 2.5
+    name: cinnamon stick or cassia bark
+    raw: 2 ½cm piece of cinnamon stick or cassia bark
+  - qty: 20
+    name: black peppercorns
+    raw: 20 black peppercorns
+  - qty: 1
+    unit: large handful
+    name: star anise
+    raw: Large handful of star anise
+  - qty: 1
+    unit: tsp
+    name: roasted cumin seeds
+    raw: 1 tsp roasted cumin seeds
+  - qty: 1
+    name: coriander
+    raw: Large bunch of coriander , stems and leaves roughly chopped
+  - qty: 2
+    name: green chillies
+    raw: 2 fresh green chillies, halved lengthways
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water

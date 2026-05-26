@@ -1,33 +1,3 @@
----
-prep: 25 minutes
-cook: 1 ½ hours
-allergens:
-  - eggs
-  - soy
-  - meat
-  - mustard
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - eggs
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lu Rou Fan
 
 ![Lu Rou Fan](resources/lu-rou-fan.jpg)

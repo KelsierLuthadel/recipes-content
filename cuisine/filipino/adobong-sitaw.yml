@@ -1,0 +1,59 @@
+prep: 5 minutes
+cook: 20 minutes
+allergens:
+  - soy
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - meals
+  - rice
+  - onion
+  - garlic
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: long beans
+    raw: 500 g long beans
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 60
+    unit: ml
+    name: light soy sauce
+    raw: 60 ml light soy sauce
+  - qty: 60
+    unit: ml
+    name: white cane vinegar
+    raw: 60 ml white cane vinegar
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon whole black peppercorns
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - name: rice
+    raw: Cooked rice

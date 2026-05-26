@@ -1,0 +1,55 @@
+prep: 15 minutes
+cook: 3 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - quick
+  - meals
+  - garlic
+  - cheese
+  - nuts
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    unit: tbsp
+    name: olive oil
+    raw: 8 tablespoons olive oil
+  - qty: 300
+    unit: g
+    name: sprouting broccoli
+    raw: 300 grams sprouting broccoli
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 6
+    unit: tbsp
+    name: pine nuts
+    raw: 6 tablespoons pine nuts
+  - qty: 1
+    name: medium-hot chilli
+    raw: 1 medium-hot chilli
+  - qty: 100
+    unit: ml
+    name: dry white wine
+    raw: 100 ml dry white wine
+  - name: salt
+    raw: Salt to taste
+  - qty: 500
+    unit: g
+    name: orecchiette shells
+    raw: 500 grams orecchiette shells
+  - qty: 150
+    unit: g
+    name: parmesan cheese
+    raw: 150 grams Parmesan cheese
+  - qty: 10
+    name: basil leaves
+    raw: 10 fresh basil leaves

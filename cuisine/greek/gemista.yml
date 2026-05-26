@@ -1,0 +1,95 @@
+prep: 30 minutes
+cook: 1 ¼ hours
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - meals
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - cheese
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 4
+    name: beef tomatoes
+    raw: 4 beef tomatoes
+  - qty: 4
+    name: red yellow or green peppers
+    raw: 4 red , yellow or green peppers
+  - qty: 4
+    name: potatoes
+    raw: 4 potatoes
+  - qty: 5
+    unit: tbsp
+    name: olive oil
+    raw: 5 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 200
+    unit: g
+    name: long-grain rice
+    raw: 200 g long-grain rice
+  - qty: 50
+    unit: g
+    name: pine nuts
+    raw: 50 g pine nuts
+  - qty: 50
+    unit: g
+    name: currants
+    raw: 50 g currants
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    name: mint
+    raw: A small bunch of mint
+  - qty: 1
+    name: dill
+    raw: A small bunch of dill
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml hot water
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml hot water
+  - qty: 200
+    unit: g
+    name: feta cheese
+    raw: 200 g feta cheese
+  - name: crusty bread
+    raw: Crusty bread

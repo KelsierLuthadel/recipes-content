@@ -1,29 +1,3 @@
----
-prep: 20 minutes
-cook: 35 minutes
-allergens:
-  - dairy
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - snack
-  - one-pan
-  - garlic
-  - potato
-  - lemon
-  - coriander
-  - yogurt
-mentions:
-  - cuisine/israel/side-dishes/baba-ganoush
-  - cuisine/israel/side-dishes/falafel
-  - cuisine/polish/latkes
----
-
-
-
-
 # Kartoffelpuffer with Tahini
 
 ![Kartoffelpuffer with Tahini](resources/kartoffelpuffer-tahini.jpg)

@@ -1,0 +1,87 @@
+prep: 20 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - eggs
+  - lemon
+  - butter
+  - cream
+  - cheese
+  - complex
+  - yom-kippur
+  - sukkot
+  - jewish
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 350
+    unit: g
+    name: wide egg noodles
+    raw: 350 g wide egg noodles
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 200
+    unit: g
+    name: cream cheese
+    raw: 200 g cream cheese
+  - qty: 250
+    unit: g
+    name: sour cream
+    raw: 250 g sour cream
+  - qty: 250
+    unit: g
+    name: cottage cheese
+    raw: 250 g cottage cheese
+  - qty: 6
+    name: eggs
+    raw: 6 large eggs
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: cinnamon
+    raw: 1 ½ teaspoons ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - name: the zest of 1 lemon
+    raw: The zest of 1 lemon
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - qty: 80
+    unit: g
+    name: golden raisins
+    raw: 80 g golden raisins
+  - qty: 2
+    unit: tbsp
+    name: brandy or orange juice
+    raw: 2 tablespoons brandy or orange juice
+  - qty: 80
+    unit: g
+    name: cornflakes
+    raw: 80 g cornflakes
+  - qty: 30
+    unit: g
+    name: caster sugar
+    raw: 30 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter

@@ -1,23 +1,3 @@
----
-prep: 10 minutes (plus 30 minutes soak for the rice)
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - rice
-  - nuts
-mentions:
-  - cuisine/afghanistan/desserts/firni
----
-
-
-
-
 # Lahori Firni
 
 ![Lahori Firni](resources/lahori-firni.jpg)

@@ -1,30 +1,3 @@
----
-prep: 1 hour (plus 30 minutes chilling)
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - meals
-  - meat
-  - beef
-  - onion
-  - garlic
-  - ginger
-  - butter
-  - chili
-  - curry
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Jamaican Beef Patties
 
 ![Jamaican Beef Patties](resources/beef-patties.jpg)

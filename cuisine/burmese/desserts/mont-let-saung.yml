@@ -1,0 +1,63 @@
+prep: 15 minutes
+cook: 20 minutes (plus chilling)
+allergens:
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - coconut
+mentions: []
+ingredients:
+  - qty: 100
+    unit: g
+    name: sago pearls
+    raw: 100 g small sago pearls
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1 ½ litres water
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml full-fat coconut milk
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 1
+    name: pandan leaf or ¼ teaspoon pandan essence
+    raw: 1 pandan leaf or ¼ teaspoon pandan essence
+  - qty: 120
+    unit: g
+    name: palm sugar or dark muscovado
+    raw: 120 g palm sugar or dark muscovado
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 80 ml water
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf
+  - name: ice
+    raw: Crushed ice
+  - qty: 2
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 2 tablespoons toasted sesame seeds
+  - qty: 2
+    unit: tbsp
+    name: coconut
+    raw: 2 tablespoons grated fresh coconut

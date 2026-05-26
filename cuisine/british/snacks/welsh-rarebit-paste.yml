@@ -1,0 +1,51 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - quick
+  - snack
+  - make-ahead
+  - pastes
+  - eggs
+  - cheese
+mentions:
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 700
+    unit: g
+    name: cheddar cheese
+    raw: 700 grams mature Cheddar cheese
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml milk
+  - qty: 25
+    unit: g
+    name: plain flour
+    raw: 25 grams plain flour
+  - qty: 50
+    unit: g
+    name: white breadcrumbs
+    raw: 50 grams fresh white breadcrumbs
+  - qty: 1
+    unit: tbsp
+    name: english mustard powder
+    raw: 1 tablespoon English mustard powder
+  - name: half teaspoon worcestershire sauce
+    raw: half teaspoon Worcestershire sauce
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 2
+    name: egg yolks
+    raw: 2 egg yolks

@@ -1,0 +1,47 @@
+prep: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - onion
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: cucumber
+    raw: 250 grams fresh cucumber
+  - qty: 2
+    unit: tbsp
+    name: rice wine vinegar
+    raw: 2 tablespoons rice wine vinegar
+  - qty: 60
+    unit: g
+    name: shallots
+    raw: 60 grams shallots
+  - qty: 1
+    unit: tsp
+    name: chives
+    raw: 1 teaspoon fresh chives
+  - qty: 1
+    unit: tsp
+    name: tarragon
+    raw: 1 teaspoon fresh tarragon
+  - qty: 1
+    unit: tsp
+    name: flat-leaf parsley
+    raw: 1 teaspoon fresh flat-leaf parsley
+  - qty: 6
+    unit: tbsp
+    name: virgin olive oil
+    raw: 6 tablespoons extra virgin olive oil
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
+  - qty: 1
+    unit: pinch
+    name: white pepper
+    raw: Pinch of freshly ground white pepper

@@ -1,0 +1,61 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - garlic
+  - tomato
+  - lemon
+  - cheese
+mentions:
+  - cuisine/italian/pesto
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 3
+    name: prepared pizza dough bases
+    raw: 3 prepared pizza dough bases
+  - qty: 1
+    unit: kg
+    name: mixed heirloom tomatoes
+    raw: 1 kg mixed heirloom tomatoes
+  - name: olive oil
+    raw: Olive oil
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 30
+    unit: g
+    name: mixed fresh herbs
+    raw: 30 grams mixed fresh herbs
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 2
+    unit: tsp
+    name: lemon juice
+    raw: 2 teaspoons lemon juice
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon dijon mustard
+  - qty: 1
+    unit: pinch
+    name: caster sugar
+    raw: Pinch of caster sugar
+  - qty: 75
+    name: to 100 ml extra-virgin olive oil
+    raw: 75 to 100 ml extra-virgin olive oil
+  - qty: 200
+    unit: g
+    name: balls burrata
+    raw: 200 gram balls burrata
+  - name: rocket leaves
+    raw: Rocket leaves
+  - name: parmesan shavings
+    raw: Parmesan shavings

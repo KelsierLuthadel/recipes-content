@@ -1,0 +1,49 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dairy-free
+  - quick
+  - dessert
+  - eggs
+  - chocolate
+  - nuts
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: dark chocolate
+    raw: 250 grams dark chocolate
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 50
+    unit: g
+    name: candied fruit peel
+    raw: 50 grams candied fruit peel
+  - qty: 200
+    unit: g
+    name: almonds
+    raw: 200 grams ground almonds
+  - qty: 150
+    unit: g
+    name: biscotti
+    raw: 150 grams biscotti
+  - qty: 200
+    unit: g
+    name: icing sugar
+    raw: 200 grams icing sugar
+  - qty: 4
+    name: table spoons amaretto
+    raw: 4 table spoons amaretto
+  - qty: 100
+    unit: g
+    name: dark chocolate
+    raw: 100 grams dark chocolate
+  - qty: 70
+    unit: g
+    name: icing sugar
+    raw: 70 grams icing sugar

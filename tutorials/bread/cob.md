@@ -1,21 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/bread/coburg
-  - tutorials/bread/cottage
-  - tutorials/bread/proving
-  - tutorials/bread/shapes
-  - tutorials/bread/sourdough
-  - tutorials/pizza/dough
----
-
-
-
 # Cob or Boule
 
 ![A round cob loaf](resources/cob-loaf.jpg)

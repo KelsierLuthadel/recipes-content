@@ -1,29 +1,3 @@
----
-prep: 15 minutes (plus overnight bean soak)
-cook: 1 ½ hours
-allergens:
-  - dairy
-  - celery
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - make-ahead
-  - meals
-  - onion
-  - garlic
-  - tomato
-  - carrot
-  - lemon
-  - cheese
-  - complex
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Fasolada
 
 ![Fasolada](resources/fasolada.jpg)

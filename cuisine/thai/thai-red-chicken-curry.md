@@ -1,35 +1,3 @@
----
-prep: 10 minutes
-cook: 20 minutes
-allergens:
-  - dairy
-  - soy
-  - fish
-  - meat
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - fish
-  - chicken
-  - coconut
-  - coriander
-  - chili
-  - soy-sauce
-  - curry
-mentions:
-  - cuisine/indian/BIR-chicken-curry
-  - cuisine/thai/stocks/thai-chicken-stock
-  - tutorials/bread/gluten
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Thai Red Chicken Curry
 
 ![Thai Red Chicken Curry](resources/thai-red-chicken-curry.jpg)

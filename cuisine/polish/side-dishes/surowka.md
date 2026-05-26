@@ -1,22 +1,3 @@
----
-prep: 15 minutes
-cook: none
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - sides
-  - carrot
-  - lemon
-  - cream
-mentions: []
----
-
-
-
-
 # Surówka
 
 ![Surówka](resources/surowka.jpg)

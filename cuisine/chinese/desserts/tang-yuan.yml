@@ -1,0 +1,62 @@
+prep: 30 minutes (plus 30 min filling freeze)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - dessert
+  - asian
+  - ginger
+  - butter
+  - lunar-new-year
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 100
+    unit: g
+    name: black sesame seeds
+    raw: 100 g black sesame seeds
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 40
+    unit: g
+    name: lard
+    raw: 40 g lard
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 200
+    unit: g
+    name: glutinous rice flour
+    raw: 200 g glutinous rice flour
+  - qty: 140
+    unit: ml
+    name: water
+    raw: 130-150 ml water
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml water
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 4
+    name: ginger
+    raw: 4 cm fresh ginger
+  - qty: 1
+    unit: tbsp
+    name: osmanthus flowers
+    raw: 1 tablespoon dried osmanthus flowers
+  - qty: 1
+    name: tangerine peel
+    raw: 1 small piece dried tangerine peel

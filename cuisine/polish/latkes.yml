@@ -1,0 +1,48 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+tags:
+  - meals
+  - fish
+  - salmon
+  - eggs
+  - onion
+  - potato
+mentions:
+  - sauces/fruit-sauce/apple-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 4
+    unit: tbsp
+    name: matzo meal
+    raw: 4 tablespoons matzo meal
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - name: sunflower oil
+    raw: Sunflower oil
+  - name: soured cream
+    raw: Soured cream
+  - name: apple sauce
+    raw: Apple Sauce
+  - name: smoked salmon
+    raw: Smoked salmon

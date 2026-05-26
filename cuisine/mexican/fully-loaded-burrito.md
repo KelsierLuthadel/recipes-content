@@ -1,34 +1,3 @@
----
-prep: 5 minutes
-cook: 5 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-tags:
-  - quick
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - beef
-  - pork
-  - rice
-  - tomato
-  - cream
-  - cheese
-mentions:
-  - cuisine/mexican/side-dishes/mexican-rice
-  - cuisine/mexican/side-dishes/refried-beans
-  - cuisine/mexican/side-dishes/spiced-rice
-  - cuisine/mexican/snacks/guacamole
-  - tutorials/pizza/cheese
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Fully Loaded Burrito
 
 ![Fully Loaded Burrito](resources/fully-loaded-burrito.jpg)

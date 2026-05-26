@@ -1,22 +1,3 @@
----
-prep: 20 minutes
-cook: 2 hours
-allergens:
-  - meat
-  - celery
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - meat
-  - complex
-mentions:
-  - tutorials/stocks-sauces/stocks
----
-
-
-
-
 # Lamb Stock
 
 ![Lamb Stock](resources/lamb-stock.png)

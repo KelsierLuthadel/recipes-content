@@ -1,0 +1,81 @@
+prep: 1 hour (plus 30 minutes resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - tree-nuts
+  - sesame
+tags:
+  - vegetarian
+  - dairy-free
+  - dessert
+  - rice
+  - ginger
+  - honey
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon
+  - qty: 0.25
+    unit: tsp
+    name: ginger
+    raw: ¼ teaspoon ground ginger
+  - qty: 60
+    unit: ml
+    name: toasted sesame oil
+    raw: 60 ml toasted sesame oil
+  - qty: 60
+    unit: ml
+    name: honey
+    raw: 60 ml honey
+  - qty: 30
+    unit: ml
+    name: soju
+    raw: 30 ml soju
+  - qty: 20
+    unit: g
+    name: caster sugar
+    raw: 20 g caster sugar
+  - qty: 800
+    unit: ml
+    name: neutral oil
+    raw: 800 ml neutral oil
+  - qty: 100
+    unit: g
+    name: honey
+    raw: 100 g honey
+  - qty: 100
+    unit: ml
+    name: rice syrup
+    raw: 100 ml rice syrup
+  - qty: 50
+    unit: ml
+    name: water
+    raw: 50 ml water
+  - qty: 20
+    unit: g
+    name: ginger
+    raw: 20 g fresh ginger
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 2
+    unit: tbsp
+    name: pine nuts
+    raw: 2 tablespoons pine nuts
+  - qty: 2
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 2 tablespoons toasted sesame seeds

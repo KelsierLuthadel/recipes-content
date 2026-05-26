@@ -1,23 +1,3 @@
----
-prep: 8 minutes
-cook: 15 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-mentions:
-  - cuisine/colombian/side-dishes/hogao
-  - cuisine/honduras/side-dishes/tajadas
-  - cuisine/south-american/ceviche
----
-
-
-
-
 # Patacones
 
 ![Patacones](resources/patacones.jpg)

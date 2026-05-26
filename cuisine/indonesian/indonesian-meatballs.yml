@@ -1,0 +1,112 @@
+prep: 20 minutes
+cook: 17 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - coconut
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: chicken
+    raw: 500 grams minced chicken
+  - qty: 100
+    unit: g
+    name: panko breadcrumbs
+    raw: 100 grams panko breadcrumbs
+  - qty: 1
+    name: red chilli pepper
+    raw: 1 red chilli pepper
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic
+  - qty: 1
+    unit: tbsp
+    name: garam masala
+    raw: 1 tbsp Garam Masala
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ tsp ground nutmeg
+  - qty: 5
+    name: green onions
+    raw: 5 green onions
+  - qty: 4
+    unit: g
+    name: coriander
+    raw: 4 grams fresh coriander
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 0.25
+    unit: tsp
+    name: pepper
+    raw: ¼ tsp pepper
+  - qty: 1
+    unit: tsp
+    name: red curry paste
+    raw: 1 tsp red curry paste
+  - qty: 2
+    unit: tbsp
+    name: peanut oil
+    raw: 2 tbsp peanut oil
+  - qty: 2
+    name: lemongrass
+    raw: 2 stalks lemongrass
+  - qty: 237
+    unit: ml
+    name: low-sodium chicken broth
+    raw: 237 ml low-sodium chicken broth
+  - qty: 2
+    unit: tbsp
+    name: red curry paste
+    raw: 2 tbsp red curry paste
+  - qty: 391
+    unit: ml
+    name: unsweetened coconut milk
+    raw: 391 ml unsweetened coconut milk
+  - qty: 1
+    unit: tbsp
+    name: curry powder
+    raw: 1 tbsp Curry Powder
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ tsp salt
+  - qty: 0.25
+    unit: tsp
+    name: pepper
+    raw: ¼ tsp pepper
+  - qty: 5
+    name: kaffir lime leaves
+    raw: 5 fresh kaffir lime leaves
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tbsp fresh coriander

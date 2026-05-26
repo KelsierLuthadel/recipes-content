@@ -1,21 +1,3 @@
----
-prep: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - eggs
-  - butter
-mentions: []
----
-
-
-
-
 # Orange Soufflé
 
 ![Orange Soufflé](resources/orange-soufflee.jpg)

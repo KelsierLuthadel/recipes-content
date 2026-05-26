@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - quick
-  - meals
-  - meat
-  - fish
-  - pork
-  - garlic
-  - tomato
-  - lemon
-  - chili
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pasta Shells and Beans with Squid and Chorizo
 
 ![Pasta with Beans and Squid](resources/calarmari.jpg)

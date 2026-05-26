@@ -1,0 +1,73 @@
+prep: 25 minutes (plus 1 hour chilling)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: all-butter puff pastry
+    raw: 500 g all-butter puff pastry
+  - name: plain flour
+    raw: Plain flour
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 250
+    unit: g
+    name: pecan halves
+    raw: 250 g pecan halves
+  - qty: 80
+    unit: g
+    name: soft dark brown sugar
+    raw: 80 g soft dark brown sugar
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: golden syrup
+    raw: 2 tablespoons golden syrup
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 1
+    unit: tbsp
+    name: bourbon
+    raw: 1 tablespoon bourbon
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 3
+    unit: tbsp
+    name: apricot jam
+    raw: 3 tablespoons apricot jam
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tablespoon water
+  - qty: 80
+    unit: g
+    name: icing sugar
+    raw: 80 g icing sugar
+  - qty: 1.5
+    unit: tsp
+    name: milk
+    raw: 1-2 teaspoons whole milk

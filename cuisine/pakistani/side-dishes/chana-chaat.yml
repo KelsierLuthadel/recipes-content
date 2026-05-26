@@ -1,0 +1,90 @@
+prep: 15 minutes
+cook: 5 minutes (assuming pre-cooked chickpeas)
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - onion
+  - tomato
+  - potato
+  - lemon
+  - coriander
+  - chickpea
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: chickpeas
+    raw: 2 tins chickpeas
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1
+    name: potato
+    raw: 1 potato
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 4
+    unit: tbsp
+    name: coriander
+    raw: 4 tablespoons fresh coriander
+  - qty: 2
+    unit: tbsp
+    name: mint
+    raw: 2 tablespoons fresh mint
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - qty: 1.5
+    unit: tsp
+    name: chaat masala
+    raw: 1 ½ teaspoons Chaat Masala
+  - qty: 1
+    unit: tsp
+    name: roasted cumin
+    raw: 1 teaspoon ground roasted cumin
+  - qty: 0.5
+    unit: tsp
+    name: kashmiri red chilli powder
+    raw: ½ teaspoon Kashmiri red chilli powder
+  - qty: 0.5
+    unit: tsp
+    name: black salt
+    raw: ½ teaspoon black salt
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: tamarind chutney
+    raw: 1 tablespoon Tamarind Chutney
+  - qty: 1
+    unit: tsp
+    name: hot green chilli sauce
+    raw: 1 teaspoon hot green chilli sauce
+  - qty: 30
+    unit: g
+    name: papri
+    raw: 30 g papri
+  - qty: 2
+    unit: tbsp
+    name: sev
+    raw: 2 tablespoons sev
+  - name: coriander
+    raw: Extra fresh coriander
+  - qty: 1
+    name: lemon
+    raw: 1 lemon

@@ -1,21 +1,3 @@
----
-prep: 30 minutes (components made ahead)
-cook: 0 minutes (assembly only; components have their own prep)
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - dessert
-mentions:
-  - cuisine/filipino/desserts/leche-flan
----
-
-
-
-
 # Halo-Halo
 
 ![Halo-Halo](resources/halo-halo.jpg)

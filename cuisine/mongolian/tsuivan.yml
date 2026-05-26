@@ -1,0 +1,71 @@
+prep: 40 minutes (mostly noodle making)
+cook: 35 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - one-pan
+  - meals
+  - meat
+  - onion
+  - garlic
+  - carrot
+  - soy-sauce
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml warm water
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 500
+    unit: g
+    name: mutton shoulder
+    raw: 500 g mutton shoulder
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 0.5
+    name: cabbage
+    raw: ½ small cabbage
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 2
+    unit: tbsp
+    name: soy sauce
+    raw: 2 tablespoons soy sauce
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion

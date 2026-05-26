@@ -1,35 +1,3 @@
----
-prep: 15 minutes
-cook: 20 minutes
-allergens:
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - asian
-  - meat
-  - beef
-  - pork
-  - tofu
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mapo Tofu
 
 ![Mapo Tofu](resources/mapo-tofu.jpg)

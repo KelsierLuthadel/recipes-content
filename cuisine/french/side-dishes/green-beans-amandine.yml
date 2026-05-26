@@ -1,0 +1,56 @@
+prep: 5 minutes
+cook: 8 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - garlic
+  - lemon
+  - butter
+  - nuts
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: green beans
+    raw: 500 g fresh green beans
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tablespoons salt
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 50
+    unit: g
+    name: flaked
+    raw: 50 g flaked
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons fresh flat-leaf parsley
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    name: lemon
+    raw: 1 lemon

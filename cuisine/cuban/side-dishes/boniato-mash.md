@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - sides
-  - garlic
-  - potato
-  - lime
-  - coriander
-  - butter
-mentions:
-  - cuisine/cuban/mojo-pork
----
-
-
-
-
 # Boniato Mash
 
 ![Boniato Mash](resources/boniato-mash.jpg)

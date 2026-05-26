@@ -1,38 +1,3 @@
----
-prep: 30 minutes (plus 1 hour mince marinating)
-cook: 18 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - snack
-  - bbq
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - lime
-  - coriander
-  - yogurt
-  - chickpea
-  - chili
-  - complex
-  - eid-al-adha
-  - ramadan
-  - muslim
-mentions:
-  - cuisine/azerbaijan/side-dishes/lavash
-  - cuisine/indian/sauces-pickles/mint-chutney
----
-
-
-
-
 # Seekh Kebab Roll
 
 ![Seekh Kebab Roll](resources/seekh-kebab-roll.jpg)

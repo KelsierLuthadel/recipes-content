@@ -1,36 +1,3 @@
----
-prep: 25 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - eggs
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - dairy-free
-  - spicy
-  - snack
-  - make-ahead
-  - eggs
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - chili
-  - complex
-  - shavuot
-  - jewish
-mentions:
-  - cuisine/indian/sauces-pickles/mango-chutney
-  - cuisine/israel/side-dishes/israeli-salad
-  - sauces/fruit-sauce/mango-chutney
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sabich
 
 ![Sabich](resources/sabich.jpg)

@@ -1,0 +1,76 @@
+prep: 15 minutes
+cook: 5 minutes
+allergens:
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - pastes
+  - garlic
+  - ginger
+  - coriander
+  - curry
+mentions:
+  - base-ingredients/curry-paste/balti-masala-paste
+ingredients:
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: ginger
+    raw: 2 tablespoons fresh ginger
+  - qty: 40
+    unit: g
+    name: mint leaves
+    raw: 40 grams fresh mint leaves
+  - qty: 40
+    unit: g
+    name: coriander leaves
+    raw: 40 grams fresh coriander leaves
+  - qty: 1
+    unit: tsp
+    name: fenugreek seeds
+    raw: 1 teaspoon fenugreek seeds
+  - qty: 3
+    unit: tsp
+    name: sea salt
+    raw: 3 teaspoons fine sea salt
+  - qty: 3
+    unit: tsp
+    name: turmeric
+    raw: 3 teaspoons ground turmeric
+  - qty: 2
+    unit: tsp
+    name: chilli powder
+    raw: 2 teaspoons chilli powder
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 1
+    unit: tsp
+    name: cardamom seeds
+    raw: 1 teaspoon ground cardamom seeds
+  - qty: 120
+    unit: ml
+    name: white wine vinegar
+    raw: 120 ml white wine vinegar
+  - qty: 120
+    unit: ml
+    name: vegetable oil
+    raw: 120 ml vegetable oil
+  - qty: 50
+    unit: ml
+    name: sesame oil
+    raw: 50 ml sesame oil
+  - name: vegetable oil
+    raw: vegetable oil
+  - name: sterilized glass jars
+    raw: Sterilized glass jars

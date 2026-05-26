@@ -1,0 +1,57 @@
+prep: 25 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - nuts
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 1.5
+    unit: tsp
+    name: baking powder
+    raw: 1 ½ teaspoons baking powder
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 300
+    unit: g
+    name: sweet red bean paste
+    raw: 300 g sweet red bean paste
+  - qty: 12
+    name: walnut halves
+    raw: 12 walnut halves
+  - qty: 1
+    unit: tbsp
+    name: icing sugar
+    raw: 1 tablespoon icing sugar

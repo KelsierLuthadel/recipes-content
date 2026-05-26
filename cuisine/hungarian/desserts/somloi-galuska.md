@@ -1,30 +1,3 @@
----
-prep: 45 minutes
-cook: 30 minutes (plus 4 hours chilling)
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - lemon
-  - butter
-  - cream
-  - chocolate
-  - nuts
-  - complex
-mentions:
-  - sauces/sauce-sweet/chocolate-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Somlói Galuska
 
 ![Somlói Galuska](resources/somloi-galuska.jpg)

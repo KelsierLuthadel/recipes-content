@@ -1,22 +1,3 @@
----
-prep: 25 minutes (plus 12 hours starter, plus 3-4 hours rises)
-cook: 50 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - make-ahead
-  - sides
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Pão Alentejano
 
 ![Pão Alentejano](resources/pao-alentejano.jpg)

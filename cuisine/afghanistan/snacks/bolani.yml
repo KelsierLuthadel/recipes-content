@@ -1,0 +1,96 @@
+prep: 40 minutes (plus 30 min resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - onion
+  - garlic
+  - potato
+  - coriander
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 280
+    unit: ml
+    name: water
+    raw: 280 ml warm water
+  - qty: 600
+    unit: g
+    name: floury potatoes
+    raw: 600 g floury potatoes
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 2
+    name: leeks
+    raw: 2 leeks
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: long green chilli
+    raw: 1 long green chilli
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: coriander
+    raw: ½ teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    name: coriander
+    raw: A small bunch of coriander
+  - name: vegetable oil
+    raw: Vegetable oil
+  - qty: 300
+    unit: g
+    name: plain yogurt
+    raw: 300 g plain yogurt
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: mint
+    raw: 2 tablespoons fresh mint
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt

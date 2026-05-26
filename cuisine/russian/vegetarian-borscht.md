@@ -1,25 +1,3 @@
----
-prep: 20 minutes
-cook: 1 hour
-allergens:
-  - gluten
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - meals
-  - onion
-  - garlic
-  - potato
-  - carrot
-  - complex
-mentions:
-  - cuisine/russian/borscht
----
-
-
-
-
 # Vegetarian Borscht
 
 ![Vegetarian Borscht](resources/vegetarian-borscht.jpg)

@@ -1,0 +1,85 @@
+prep: 20 minutes (plus overnight salting and overnight cooling)
+cook: 2 hours
+allergens:
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - beef
+  - onion
+  - ginger
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 900
+    unit: g
+    name: beef shank
+    raw: 900 g beef shank
+  - qty: 1
+    unit: tbsp
+    name: kosher salt
+    raw: 1 tbsp kosher salt
+  - qty: 1
+    unit: tsp
+    name: sichuan pepper
+    raw: 1 tsp ground Sichuan pepper
+  - qty: 60
+    unit: ml
+    name: neutral oil
+    raw: 60 ml neutral oil
+  - qty: 150
+    unit: g
+    name: rock sugar
+    raw: 150 g rock sugar
+  - qty: 6
+    name: ginger
+    raw: 6 thick slices fresh ginger
+  - qty: 6
+    name: spring onions
+    raw: 6 spring onions , cut into 5 cm lengths
+  - qty: 1
+    unit: tbsp
+    name: chicken bouillon powder
+    raw: 1 tbsp chicken bouillon powder
+  - qty: 30
+    unit: ml
+    name: shaoxing wine
+    raw: 30 ml Shaoxing wine
+  - qty: 30
+    unit: ml
+    name: light soy sauce
+    raw: 30 ml light soy sauce
+  - qty: 30
+    unit: ml
+    name: dark soy sauce
+    raw: 30 ml dark soy sauce
+  - qty: 30
+    unit: ml
+    name: chinese soybean paste
+    raw: 30 ml Chinese soybean paste
+  - qty: 3
+    name: star anise pods
+    raw: 3 star anise pods
+  - qty: 2
+    unit: g
+    name: cassia bark
+    raw: 2 g cassia bark
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 tsp fennel seeds
+  - qty: 2
+    unit: tsp
+    name: sichuan peppercorns
+    raw: 2 tsp whole Sichuan peppercorns
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 tsp cloves

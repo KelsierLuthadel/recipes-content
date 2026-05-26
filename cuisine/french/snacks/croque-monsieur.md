@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 12 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - mustard
-tags:
-  - quick
-  - snack
-  - meat
-  - pork
-  - butter
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Croque Monsieur
 
 ![Croque Monsieur](resources/croque-monsieur.jpg)

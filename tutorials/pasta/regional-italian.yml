@@ -1,0 +1,20 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+mentions:
+  - bread-pasta/pasta
+  - cuisine/italian/bolognese
+  - cuisine/italian/cacio-e-pepe
+  - cuisine/italian/lasagne
+  - cuisine/italian/pesto
+  - cuisine/italian/risotto-milanese
+  - tutorials/pasta/dried-pasta
+  - tutorials/pasta/fresh-pasta-dough
+  - tutorials/pasta/matching-sauce-to-shape
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/pizza
+  - tutorials/pizza/sauce

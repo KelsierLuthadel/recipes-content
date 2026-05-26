@@ -1,0 +1,94 @@
+prep: 30 minutes
+cook: 2 hours 30 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - lime
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/snacks/tostadas
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 1
+    unit: kg
+    name: pork shoulder
+    raw: 1 kg pork shoulder
+  - qty: 500
+    unit: g
+    name: pork rib tips
+    raw: 500 g pork rib tips
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - name: water
+    raw: Water to cover
+  - qty: 6
+    name: guajillo chillies
+    raw: 6 guajillo chillies
+  - qty: 3
+    name: ancho chillies
+    raw: 3 ancho chillies
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: mexican oregano
+    raw: 1 teaspoon dried Mexican oregano
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1600
+    unit: g
+    name: white hominy
+    raw: 1600 g tins white hominy
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 0.25
+    name: green cabbage
+    raw: ¼ green cabbage
+  - qty: 6
+    name: radishes
+    raw: 6 radishes
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - name: mexican oregano
+    raw: Dried Mexican oregano
+  - name: tostadas
+    raw: Tostadas

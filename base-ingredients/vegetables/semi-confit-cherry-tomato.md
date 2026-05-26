@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-cook: 8 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - garlic
-  - tomato
-mentions: []
----
-
-
-
-
 # Semi-Confit Cherry Tomatoes
 
 ![Semi-Confit Cherry Tomatoes](resources/Tomates-confit.jpg)

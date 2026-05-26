@@ -1,0 +1,54 @@
+prep: 20 minutes (plus 30 minutes soaking skewers)
+cook: 12 minutes
+allergens:
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - bbq
+  - meat
+  - onion
+  - garlic
+  - ginger
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 100
+    unit: ml
+    name: soy sauce
+    raw: 100 ml soy sauce
+  - qty: 100
+    unit: ml
+    name: mirin
+    raw: 100 ml mirin
+  - qty: 50
+    unit: ml
+    name: sake
+    raw: 50 ml sake
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    name: ginger
+    raw: 1 cm ginger
+  - qty: 600
+    unit: g
+    name: chicken thigh
+    raw: 600 g boneless chicken thigh
+  - qty: 6
+    name: spring onions
+    raw: 6 spring onions
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - name: shichimi togarashi
+    raw: Shichimi togarashi

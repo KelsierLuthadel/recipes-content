@@ -1,0 +1,106 @@
+prep: 15 minutes (plus 30 minutes marinade)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - meals
+  - fish
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - yogurt
+  - complex
+mentions: []
+ingredients:
+  - qty: 600
+    unit: g
+    name: firm white fish fillets
+    raw: 600 g firm white fish fillets
+  - qty: 2
+    unit: tsp
+    name: ginger-garlic paste
+    raw: 2 teaspoons ginger-garlic paste
+  - qty: 1
+    unit: tbsp
+    name: kashmiri chilli powder
+    raw: 1 tablespoon Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon turmeric
+  - qty: 1
+    unit: tsp
+    name: ajwain
+    raw: 1 teaspoon ajwain
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: tbsp
+    name: mustard oil
+    raw: 1 tablespoon mustard oil
+  - qty: 100
+    unit: g
+    name: flour
+    raw: 100 g gram flour
+  - qty: 40
+    unit: g
+    name: rice flour
+    raw: 40 g rice flour
+  - qty: 1
+    unit: tsp
+    name: ajwain
+    raw: 1 teaspoon ajwain
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 teaspoon Kashmiri chilli powder
+  - qty: 0.25
+    unit: tsp
+    name: turmeric
+    raw: ¼ teaspoon turmeric
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: baking powder
+    raw: ¼ teaspoon baking powder
+  - qty: 165
+    unit: ml
+    name: water
+    raw: 150-180 ml cold water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 400
+    unit: ml
+    name: mustard oil
+    raw: 400 ml mustard oil , for shallow-frying
+  - qty: 2
+    unit: tsp
+    name: chaat masala
+    raw: 2 teaspoons Chaat Masala
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: red onion
+    raw: Sliced red onion
+  - name: green chutney
+    raw: Green chutney

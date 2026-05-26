@@ -1,0 +1,46 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - cream
+  - chocolate
+  - valentines
+mentions:
+  - sauces/sauce-sweet/chocolate-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: choux paste
+    raw: 1 quantity choux paste
+  - name: eggwash
+    raw: eggwash
+  - qty: 1
+    name: vanilla ice cream
+    raw: 1 quantity vanilla ice cream
+  - qty: 250
+    unit: g
+    name: dark bitter chocolate
+    raw: 250 grams dark bitter chocolate
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml milk
+  - qty: 3
+    unit: tbsp
+    name: double cream
+    raw: 3 tablespoons double cream
+  - qty: 40
+    unit: g
+    name: caster sugar
+    raw: 40 grams caster sugar
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 grams butter

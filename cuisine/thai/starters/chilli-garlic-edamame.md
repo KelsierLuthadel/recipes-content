@@ -1,29 +1,3 @@
----
-prep: 5 minutes
-cook: 10 minutes
-allergens:
-  - soy
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - starter
-  - asian
-  - garlic
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Thai-Style Chilli Garlic Edamame
 
 ![Thai-Style Chilli Garlic Edamame](resources/chilli-garlic-edamame.jpg)

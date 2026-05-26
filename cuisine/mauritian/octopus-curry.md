@@ -1,33 +1,3 @@
----
-prep: 25 minutes
-cook: 1 hour
-allergens:
-  - fish
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - fish
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - lime
-  - coriander
-  - chili
-  - curry
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Octopus Curry (Cari Ourite)
 
 ![Octopus Curry](resources/octopus-curry.jpg)

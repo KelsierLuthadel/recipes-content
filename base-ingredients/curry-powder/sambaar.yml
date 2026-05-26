@@ -1,0 +1,51 @@
+prep: 10 minutes
+cook: 4 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - lentils
+  - coriander
+  - chili
+  - curry
+mentions: []
+ingredients:
+  - qty: 8
+    name: red chillies
+    raw: 8 dried red chillies
+  - qty: 6
+    unit: tbsp
+    name: coriander seeds
+    raw: 6 tablespoons coriander seeds
+  - qty: 2
+    unit: tbsp
+    name: cumin seeds
+    raw: 2 tablespoons cumin seeds
+  - qty: 2
+    unit: tsp
+    name: black peppercorns
+    raw: 2 teaspoons black peppercorns
+  - qty: 2
+    unit: tsp
+    name: fenugreek seeds
+    raw: 2 teaspoons fenugreek seeds
+  - qty: 2
+    unit: tsp
+    name: white split gram beans
+    raw: 2 teaspoons white split gram beans
+  - qty: 2
+    unit: tsp
+    name: yellow split peas
+    raw: 2 teaspoons yellow split peas
+  - qty: 2
+    unit: tsp
+    name: yellow mung beans
+    raw: 2 teaspoons yellow mung beans
+  - qty: 1.5
+    unit: tbsp
+    name: turmeric
+    raw: 1 ½ tablespoons ground turmeric

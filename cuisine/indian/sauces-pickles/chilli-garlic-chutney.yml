@@ -1,0 +1,33 @@
+prep: 10 minutes
+cook: 2 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - garlic
+  - chili
+mentions:
+  - cuisine/indian/snacks/samosa
+ingredients:
+  - qty: 20
+    name: kashmiri dried red chillies
+    raw: 20 Kashmiri dried red chillies
+  - qty: 10
+    name: garlic cloves
+    raw: 10 garlic cloves
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
+  - name: water from kettle
+    raw: Hot water from kettle

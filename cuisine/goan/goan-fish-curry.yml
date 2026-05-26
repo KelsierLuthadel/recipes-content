@@ -1,0 +1,100 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - fish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - curry
+  - complex
+mentions: []
+ingredients:
+  - qty: 600
+    unit: g
+    name: firm white fish
+    raw: 600 g firm white fish
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    name: lime
+    raw: ½ lime
+  - qty: 12
+    name: kashmiri chillies
+    raw: 12 dried Kashmiri chillies
+  - qty: 3
+    name: byadgi chillies
+    raw: 3 dried byadgi chillies
+  - qty: 1
+    unit: tbsp
+    name: coriander seeds
+    raw: 1 tablespoon coriander seeds
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 80
+    unit: g
+    name: coconut
+    raw: 80 g fresh grated coconut
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 1
+    unit: tbsp
+    name: tamarind paste
+    raw: 1 tablespoon tamarind paste
+  - qty: 3
+    unit: tbsp
+    name: coconut oil
+    raw: 3 tablespoons coconut oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 15
+    name: curry leaves
+    raw: 15 fresh curry leaves
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 5
+    name: kokum
+    raw: 5 small pieces of dried kokum
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of coriander

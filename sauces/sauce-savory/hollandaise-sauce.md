@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - eggs
-  - lemon
-  - butter
-mentions:
-  - base-ingredients/baking/clarified-butter
-  - cuisine/chinese/steamed-fish
----
-
-
-
-
 # Hollandaise Sauce
 
 ![Hollandaise sauce](resources/hollandaise-sauce.png)

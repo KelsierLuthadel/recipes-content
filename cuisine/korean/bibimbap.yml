@@ -1,0 +1,115 @@
+prep: 30 minutes
+cook: 30 minutes
+allergens:
+  - eggs
+  - tree-nuts
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - eggs
+  - rice
+  - mushroom
+  - garlic
+  - spinach
+  - carrot
+  - honey
+  - nuts
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/korean/bulgogi
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: short-grain rice
+    raw: 300 g short-grain rice
+  - qty: 200
+    unit: g
+    name: spinach
+    raw: 200 g spinach
+  - qty: 200
+    unit: g
+    name: bean sprouts
+    raw: 200 g bean sprouts
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 200
+    unit: g
+    name: shiitake
+    raw: 200 g shiitake
+  - qty: 1
+    name: courgette
+    raw: 1 courgette
+  - qty: 4
+    unit: tbsp
+    name: toasted sesame oil
+    raw: 4 tablespoons toasted sesame oil
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: soy sauce
+    raw: 4 tablespoons soy sauce
+  - qty: 4
+    unit: tsp
+    name: toasted sesame seeds
+    raw: 4 teaspoons toasted sesame seeds
+  - name: salt
+    raw: Salt
+  - qty: 200
+    unit: g
+    name: rib-eye
+    raw: 200 g rib-eye
+  - qty: 1
+    unit: tbsp
+    name: soy sauce
+    raw: 1 tablespoon soy sauce
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tablespoon sugar
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 4
+    unit: tbsp
+    name: gochujang
+    raw: 4 tablespoons gochujang
+  - qty: 2
+    unit: tbsp
+    name: toasted sesame oil
+    raw: 2 tablespoons toasted sesame oil
+  - qty: 2
+    unit: tbsp
+    name: rice vinegar
+    raw: 2 tablespoons rice vinegar
+  - qty: 1
+    unit: tbsp
+    name: honey
+    raw: 1 tablespoon honey
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tablespoon water

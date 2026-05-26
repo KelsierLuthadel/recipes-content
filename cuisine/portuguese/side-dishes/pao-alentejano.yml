@@ -1,0 +1,46 @@
+prep: 25 minutes (plus 12 hours starter, plus 3-4 hours rises)
+cook: 50 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - sides
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 200
+    unit: g
+    name: white bread flour
+    raw: 200 g strong white bread flour
+  - qty: 200
+    unit: g
+    name: water
+    raw: 200 g warm water
+  - qty: 0.25
+    unit: tsp
+    name: fast-action yeast
+    raw: ¼ teaspoon fast-action yeast
+  - qty: 400
+    unit: g
+    name: white bread flour
+    raw: 400 g strong white bread flour
+  - qty: 100
+    unit: g
+    name: whole-wheat flour
+    raw: 100 g whole-wheat flour
+  - qty: 1
+    unit: tsp
+    name: fast-action yeast
+    raw: 1 teaspoon fast-action yeast
+  - qty: 12
+    unit: g
+    name: salt
+    raw: 12 g salt
+  - qty: 280
+    unit: ml
+    name: water
+    raw: 280 ml warm water

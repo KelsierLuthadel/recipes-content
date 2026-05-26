@@ -1,26 +1,3 @@
----
-prep: 30 minutes
-cook: 45 minutes
-allergens:
-  - gluten
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - honey
-  - chili
-mentions:
-  - sauces/sauce-spicy/buffalo-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Super-Crunch Chicken Tenders with d'Ussé Honey Sauce
 
 ![Super-Crunch Chicken Tenders](resources/super-crunch-tenders.jpg)

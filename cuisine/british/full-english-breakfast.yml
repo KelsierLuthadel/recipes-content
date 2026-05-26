@@ -1,0 +1,64 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - meals
+  - meat
+  - pork
+  - eggs
+  - tomato
+  - potato
+  - butter
+  - complex
+mentions:
+  - cuisine/american/side-dishes/baked-beans
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: pork sausages
+    raw: 4 good-quality pork sausages
+  - qty: 4
+    name: rashers back bacon
+    raw: 4 rashers back bacon
+  - qty: 4
+    name: black pudding
+    raw: 4 slices black pudding
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 2
+    name: white bloomer or sourdough
+    raw: 2 thick slices white bloomer or sourdough
+  - qty: 2
+    name: tomatoes
+    raw: 2 large tomatoes
+  - qty: 1
+    name: baked beans
+    raw: 1 small tin baked beans
+  - qty: 2
+    name: floury potatoes
+    raw: 2 medium floury potatoes , peeled
+  - name: vegetable oil
+    raw: vegetable oil
+  - name: salt
+    raw: fine salt
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 1
+    unit: tbsp
+    name: unsalted butter
+    raw: 1 tablespoon unsalted butter
+  - name: bacon fat from the rashers
+    raw: bacon fat from the rashers
+  - name: black pepper
+    raw: black pepper
+  - name: hp sauce or brown sauce
+    raw: HP sauce or brown sauce
+  - name: buttered toast
+    raw: buttered toast

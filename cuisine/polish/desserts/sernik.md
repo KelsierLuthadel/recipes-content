@@ -1,26 +1,3 @@
----
-prep: 30 minutes
-cook: 1 hour 15 minutes (plus 4 hours cooling)
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - lemon
-  - butter
-  - cheese
-  - complex
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Sernik
 
 ![Sernik](resources/sernik.jpg)

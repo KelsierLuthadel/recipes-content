@@ -1,0 +1,60 @@
+prep: 20 minutes
+cook: 30 minutes
+allergens:
+  - fish
+  - celery
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - onion
+  - tomato
+  - lime
+  - chili
+mentions: []
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: oil
+    raw: 2 tablespoons oil
+  - qty: 4
+    name: shallots
+    raw: 4 shallots
+  - qty: 2
+    name: celery stalks
+    raw: 2 celery stalks
+  - qty: 1
+    name: scotch bonnet chilli
+    raw: 1 scotch bonnet chilli
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper
+  - qty: 275
+    unit: g
+    name: sweet potato
+    raw: 275 grams sweet potato
+  - qty: 500
+    unit: g
+    name: cod
+    raw: 500 grams cod
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon nutmeg
+  - qty: 3
+    unit: tbsp
+    name: lime juice
+    raw: 3 tablespoons lime juice
+  - qty: 875
+    unit: ml
+    name: fish stock
+    raw: 875 ml fish stock

@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - butter
-  - cream
-  - chocolate
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chocolate Sauce
 
 ![Chocolate sauce ](resources/chocolate-sauce.jpg)

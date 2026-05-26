@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 1 ¼ hours
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - sides
+  - onion
+  - butter
+  - st-patricks
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: red cabbage
+    raw: 1 red cabbage
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    name: bramley
+    raw: 2 Bramley
+  - qty: 4
+    unit: tbsp
+    name: red wine vinegar
+    raw: 4 tablespoons red wine vinegar
+  - qty: 100
+    unit: ml
+    name: red wine
+    raw: 100 ml red wine
+  - qty: 100
+    unit: g
+    name: brown sugar
+    raw: 100 g brown sugar
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon black pepper

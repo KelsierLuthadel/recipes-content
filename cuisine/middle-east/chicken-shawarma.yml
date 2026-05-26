@@ -1,0 +1,94 @@
+prep: 15 minutes (plus 4 hours marinade)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - lemon
+  - coriander
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - cuisine/lebanese/side-dishes/tabbouleh
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken thighs
+    raw: 1 kg boneless chicken thighs
+  - qty: 200
+    unit: g
+    name: greek yogurt
+    raw: 200 g Greek yogurt
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 2
+    unit: tsp
+    name: coriander
+    raw: 2 teaspoons ground coriander
+  - qty: 2
+    unit: tsp
+    name: sweet paprika
+    raw: 2 teaspoons sweet paprika
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: pinch
+    name: cayenne
+    raw: A pinch of cayenne
+  - name: warm pita
+    raw: Warm pita
+  - name: toum or tahini sauce
+    raw: Toum or tahini sauce
+  - name: pickled turnips
+    raw: Pickled turnips
+  - qty: 1
+    name: parsley
+    raw: A small bunch of parsley
+  - name: lemon wedges
+    raw: Lemon wedges

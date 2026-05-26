@@ -1,33 +1,3 @@
----
-prep: 30 minutes
-cook: 1 hour
-allergens:
-  - gluten
-  - eggs
-  - fish
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - meals
-  - fish
-  - eggs
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - lime
-  - coriander
-  - chickpea
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mohinga
 
 ![Mohinga](resources/mohinga.jpg)

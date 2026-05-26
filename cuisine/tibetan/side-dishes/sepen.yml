@@ -1,0 +1,44 @@
+prep: 15 minutes
+cook: 1 hour 5 minutes
+allergens:
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - garlic
+  - tomato
+  - coriander
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 9
+    name: roma tomatoes
+    raw: 9 Roma tomatoes
+  - qty: 3
+    name: celery stalks
+    raw: 3 celery stalks
+  - qty: 2
+    name: hot green peppers
+    raw: 2 hot green peppers
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 60
+    unit: ml
+    name: vegetable oil
+    raw: 60 ml vegetable oil
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: emma
+    raw: ¼ teaspoon ground emma
+  - name: cilantro
+    raw: A few sprigs fresh cilantro

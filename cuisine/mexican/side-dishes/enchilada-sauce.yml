@@ -1,0 +1,65 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - meat
+  - onion
+  - garlic
+  - tomato
+  - chocolate
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 85
+    unit: g
+    name: ancho peppers
+    raw: 85g dried ancho peppers
+  - qty: 85
+    unit: g
+    name: guajillo peppers
+    raw: 85g dried guajillo peppers
+  - qty: 2.5
+    name: arbol peppers
+    raw: 2-3 dried arbol peppers
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre boiling water
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon sea salt
+  - qty: 1
+    unit: tsp
+    name: mexican oregano
+    raw: 1 teaspoon dried Mexican oregano
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - name: semi-sweet chocolate
+    raw: Small piece of semi-sweet chocolate
+  - qty: 1
+    unit: pinch
+    name: brown sugar
+    raw: Pinch of brown sugar
+  - qty: 1
+    unit: tbsp
+    name: oil
+    raw: 1 tablespoon oil

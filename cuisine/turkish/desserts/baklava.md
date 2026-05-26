@@ -1,30 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - make-ahead
-  - lime
-  - butter
-  - honey
-  - nuts
-  - eid-al-fitr
-  - eid-al-adha
-  - ramadan
-  - muslim
-mentions:
-  - baking/pastry/filo-pastry
-  - tutorials/pastry/filo
----
-
-
-
-
 # Baklava
 
 ![Baklava](resources/baklava.jpg)

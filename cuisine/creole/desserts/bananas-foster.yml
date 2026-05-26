@@ -1,0 +1,42 @@
+prep: 5 minutes
+cook: 8 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - butter
+mentions: []
+ingredients:
+  - qty: 4
+    name: firm-ripe bananas
+    raw: 4 firm-ripe bananas
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 100
+    unit: g
+    name: light brown sugar
+    raw: 100 g light brown sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 4
+    unit: tbsp
+    name: banana liqueur
+    raw: 4 tablespoons banana liqueur
+  - qty: 6
+    unit: tbsp
+    name: dark rum
+    raw: 6 tablespoons dark rum
+  - qty: 4
+    name: vanilla ice cream
+    raw: 4 generous scoops vanilla ice cream

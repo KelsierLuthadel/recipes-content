@@ -1,33 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - lamb
-  - garlic
-  - tomato
-  - ginger
-  - lime
-  - coriander
-  - chili
-  - complex
-mentions:
-  - cuisine/indian/BIR-Chicken-Vindaloo
-  - cuisine/indian/sauces-pickles/mango-chutney
-  - sauces/fruit-sauce/mango-chutney
----
-
-
-
-
 # Lamb Madras
 
 ![Lamb Madras](resources/madras.png)
@@ -50,7 +20,7 @@ Hot, sharp curry inspired by the cooking of southern India. Reduced tomato base 
 - 125ml [tomato purée](Base/tomato-puree.md)
 - 2 tbsp ground cumin 
 - 1 tsp ground coriander 
-- ¼, tsp ground turmeric 
+- ¼ tsp ground turmeric 
 - 1-2 tbsp chilli powder
 - 2 tbsp [mixed powder](Spice-Mixes/mixed-powder.md)
 - 500ml [Curry Base Gravy](Base/curry-base.md)

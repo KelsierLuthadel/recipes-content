@@ -1,0 +1,42 @@
+prep: 30 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - asian
+  - yogurt
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 2
+    unit: tsp
+    name: fast-action active dried yeast
+    raw: 2 tsp fast-action active dried yeast
+  - qty: 175
+    unit: ml
+    name: water
+    raw: 175 ml warm water
+  - qty: 240
+    unit: g
+    name: plain/all-purpose flour
+    raw: 240 g plain/all-purpose flour, plus extra for rolling
+  - qty: 1.5
+    unit: tbsp
+    name: plain yogurt
+    raw: 1 ½ tbsp plain yogurt
+  - qty: 1
+    unit: tbsp
+    name: ghee
+    raw: 1 tbsp melted ghee
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - name: vegetable oil
+    raw: Vegetable oil, for frying

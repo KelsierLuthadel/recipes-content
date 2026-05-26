@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - mustard
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - coriander
-  - chili
-  - curry
-mentions: []
----
-
-
-
-
 # Garam Masala (Classic)
 
 ![Garam Masala](resources/garam-masala.jpg)

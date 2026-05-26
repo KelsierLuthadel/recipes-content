@@ -1,22 +1,3 @@
----
-prep: 40 minutes (plus 30 minutes resting)
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - make-ahead
-  - sides
-  - butter
-  - honey
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Feteer Meshaltet
 
 ![Feteer Meshaltet](resources/feteer-meshaltet.jpg)

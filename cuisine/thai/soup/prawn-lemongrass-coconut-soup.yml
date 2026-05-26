@@ -1,0 +1,62 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - fish
+  - shellfish
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - prawn
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - curry
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: tsp
+    name: vegetable oil
+    raw: 2 teaspoons vegetable oil
+  - qty: 1
+    name: lemongrass
+    raw: 1 stalk lemongrass
+  - qty: 1
+    name: ginger
+    raw: 1 inch fresh ginger
+  - qty: 16
+    name: prawns
+    raw: 16 raw prawns
+  - qty: 1
+    unit: tbsp
+    name: red curry paste
+    raw: 1 tablespoon red curry paste
+  - qty: 2
+    unit: tsp
+    name: sugar
+    raw: 2 teaspoons sugar
+  - qty: 2
+    unit: tbsp
+    name: lime juice
+    raw: 2 tablespoons lime juice
+  - qty: 1
+    unit: tbsp
+    name: fish sauce
+    raw: 1 tablespoon fish sauce
+  - qty: 1.2
+    unit: l
+    name: fish
+    raw: 1.2 litres fish
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - name: coriander
+    raw: Fresh coriander

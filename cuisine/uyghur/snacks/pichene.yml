@@ -1,0 +1,42 @@
+prep: 15 minutes (plus 10 minutes dough rest)
+cook: 15-20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 100
+    unit: ml
+    name: sunflower oil
+    raw: 100 ml sunflower oil
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml milk
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 1
+    unit: tsp
+    name: baking soda
+    raw: 1 teaspoon baking soda
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - name: caster sugar
+    raw: Extra caster sugar, for topping

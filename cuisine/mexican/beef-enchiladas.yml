@@ -1,0 +1,73 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - coriander
+  - cream
+  - cheese
+  - chili
+  - day-of-the-dead
+mentions:
+  - cuisine/mexican/side-dishes/mexican-rice
+  - cuisine/mexican/side-dishes/refried-beans
+  - cuisine/mexican/snacks/guacamole
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 680
+    unit: g
+    name: beef
+    raw: 680g lean ground beef
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 4
+    name: green chillies
+    raw: 4 green chillies
+  - qty: 439
+    unit: g
+    name: black beans
+    raw: 439g black beans
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    unit: tbsp
+    name: oil
+    raw: 1 tablespoon oil
+  - qty: 8
+    name: flour tortillas
+    raw: 8 flour tortillas
+  - qty: 339
+    unit: g
+    name: shredded cheese
+    raw: 339g shredded cheese
+  - qty: 350
+    unit: ml
+    name: red enchilada sauce
+    raw: 350ml red enchilada sauce
+  - qty: 4
+    unit: g
+    name: coriander
+    raw: 4g fresh coriander
+  - name: sour cream
+    raw: Sour cream

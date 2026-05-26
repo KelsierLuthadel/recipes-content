@@ -1,0 +1,56 @@
+prep: 20 minutes
+cook: 25 minutes (in batches)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - onion
+  - potato
+  - cream
+  - hanukkah
+  - jewish
+mentions:
+  - cuisine/polish/latkes
+  - sauces/fruit-sauce/apple-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 4
+    unit: tbsp
+    name: matzo meal
+    raw: 4 tablespoons matzo meal
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 200
+    unit: ml
+    name: neutral oil
+    raw: 200 ml neutral oil
+  - qty: 200
+    unit: g
+    name: sour cream
+    raw: 200 g sour cream
+  - qty: 200
+    unit: g
+    name: applesauce
+    raw: 200 g applesauce
+  - name: snipped chives
+    raw: Snipped chives

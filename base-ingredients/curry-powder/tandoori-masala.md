@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - coriander
-  - curry
-mentions:
-  - base-ingredients/curry-powder/balti-masala
----
-
-
-
-
 # Tandoori Masala
 
 ![Tandoori Masala](resources/tandoori-masala.jpg)

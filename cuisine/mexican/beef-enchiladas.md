@@ -1,35 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - onion
-  - garlic
-  - coriander
-  - cream
-  - cheese
-  - chili
-  - day-of-the-dead
-mentions:
-  - cuisine/mexican/side-dishes/mexican-rice
-  - cuisine/mexican/side-dishes/refried-beans
-  - cuisine/mexican/snacks/guacamole
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Beef Enchiladas
 
 ![Beef Enchiladas](resources/enchilada.png)

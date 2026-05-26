@@ -1,0 +1,99 @@
+prep: 25 minutes (plus 30 min soaking)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - snack
+  - make-ahead
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - lemon
+  - coriander
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: bulgur
+    raw: 200 g fine bulgur
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 400
+    unit: g
+    name: lamb
+    raw: 400 g lamb
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: 1 small handful flat-leaf parsley
+  - qty: 1
+    unit: small handful
+    name: coriander leaves
+    raw: 1 small handful coriander leaves
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 1.5
+    unit: tsp
+    name: baharat
+    raw: 1 ½ teaspoons Baharat
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: coriander
+    raw: ½ teaspoon ground coriander
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 4.5
+    unit: tbsp
+    name: vegetable oil
+    raw: 4-5 tablespoons vegetable oil
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: yoghurt
+    raw: Thick yoghurt
+  - name: pickled turnips
+    raw: Pickled turnips

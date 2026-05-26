@@ -1,0 +1,34 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - meals
+  - onion
+  - potato
+  - butter
+  - st-patricks
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 1
+    name: spring onions
+    raw: 1 large bunch spring onions
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

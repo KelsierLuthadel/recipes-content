@@ -1,24 +1,3 @@
----
-prep: 5 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - asian
-  - spices
-  - coriander
-  - curry
-mentions:
-  - cuisine/indian/Spice-Mixes/base-curry-powder
----
-
-
-
-
 # Madras Spice Mix
 
 ![Madras Spice Mix](resources/madrass-mix.jpg)

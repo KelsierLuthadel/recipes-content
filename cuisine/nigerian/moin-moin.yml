@@ -1,0 +1,92 @@
+prep: 30 minutes (plus 1 hour bean-soaking)
+cook: 1 hour
+allergens:
+  - gluten
+  - eggs
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - chili
+  - complex
+mentions:
+  - cuisine/american/side-dishes/black-eyed-peas
+ingredients:
+  - qty: 300
+    unit: g
+    name: black-eyed beans
+    raw: 300 g dried black-eyed beans
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml warm water
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 1.5
+    name: scotch bonnet chillies
+    raw: 1-2 Scotch bonnet chillies
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 100
+    unit: ml
+    name: red palm oil
+    raw: 100 ml red palm oil
+  - qty: 2
+    unit: tbsp
+    name: crayfish
+    raw: 2 tablespoons ground crayfish
+  - qty: 1
+    name: stock cube
+    raw: 1 stock cube , crumbled
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 teaspoon ground nutmeg
+  - qty: 2
+    unit: tbsp
+    name: breadcrumbs
+    raw: 2 tablespoons fine breadcrumbs
+  - qty: 3
+    name: hard-boiled eggs
+    raw: 3 hard-boiled eggs
+  - qty: 100
+    unit: g
+    name: smoked fish or 100 g cooked minced beef
+    raw: 100 g cooked smoked fish OR 100 g cooked minced beef
+  - name: or a mix
+    raw: Or a mix
+  - name: wide deep pot
+    raw: A wide deep pot
+  - qty: 6
+    name: ramekins
+    raw: 6 ramekins
+  - name: round of foil to seal the pot
+    raw: A round of foil to seal the pot

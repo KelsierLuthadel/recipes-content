@@ -1,0 +1,166 @@
+prep: 30 minutes
+cook: 1 hour (broth) + diner time
+allergens:
+  - gluten
+  - soy
+  - sesame
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - one-pan
+  - meals
+  - asian
+  - meat
+  - fish
+  - beef
+  - lamb
+  - prawn
+  - tofu
+  - mushroom
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 100
+    unit: g
+    name: beef tallow
+    raw: 100 g beef tallow
+  - qty: 6
+    unit: tbsp
+    name: doubanjiang
+    raw: 6 tablespoons doubanjiang
+  - qty: 2
+    unit: tbsp
+    name: gochujang
+    raw: 2 tablespoons gochujang
+  - qty: 30
+    unit: g
+    name: sichuan red chillies
+    raw: 30 g dried Sichuan red chillies
+  - qty: 3
+    unit: tbsp
+    name: sichuan peppercorns
+    raw: 3 tablespoons Sichuan peppercorns
+  - qty: 2
+    name: star anise
+    raw: 2 star anise
+  - qty: 1
+    name: cassia bark
+    raw: 1 piece cassia bark
+  - qty: 3
+    name: bay leaves
+    raw: 3 bay leaves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    unit: tbsp
+    name: shaoxing rice wine
+    raw: 1 tablespoon Shaoxing rice wine
+  - qty: 2.5
+    unit: l
+    name: unsalted chicken
+    raw: 2 ½ litres unsalted chicken
+  - qty: 2
+    unit: tbsp
+    name: rock sugar
+    raw: 2 tablespoons rock sugar
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tablespoon dark soy sauce
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1.5
+    unit: l
+    name: chicken stock
+    raw: 1 ½ litres chicken stock
+  - qty: 4
+    name: ginger
+    raw: 4 slices ginger
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 4
+    name: jujubes
+    raw: 4 dried jujubes
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 400
+    unit: g
+    name: beef
+    raw: 400 g thinly sliced beef
+  - qty: 300
+    unit: g
+    name: lamb
+    raw: 300 g thinly sliced lamb
+  - qty: 200
+    unit: g
+    name: shell-off prawns
+    raw: 200 g raw shell-off prawns
+  - qty: 200
+    unit: g
+    name: firm tofu
+    raw: 200 g firm tofu
+  - qty: 200
+    unit: g
+    name: enoki mushrooms
+    raw: 200 g enoki mushrooms
+  - qty: 200
+    unit: g
+    name: shiitake mushrooms
+    raw: 200 g shiitake mushrooms
+  - qty: 200
+    unit: g
+    name: lotus root
+    raw: 200 g lotus root
+  - qty: 1
+    name: bok choy
+    raw: 1 large bunch bok choy
+  - qty: 1
+    name: sweet potato glass noodles
+    raw: 1 large bunch sweet potato glass noodles
+  - qty: 200
+    unit: g
+    name: fish balls
+    raw: 200 g fish balls
+  - qty: 2
+    unit: tbsp
+    name: toasted sesame oil
+    raw: 2 tablespoons toasted sesame oil
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon chopped coriander
+  - qty: 1
+    unit: tsp
+    name: chinese chinkiang vinegar
+    raw: 1 teaspoon Chinese chinkiang vinegar
+  - qty: 0.5
+    unit: tsp
+    name: chilli oil
+    raw: ½ teaspoon chilli oil

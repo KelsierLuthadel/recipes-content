@@ -1,0 +1,107 @@
+prep: 30 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - eggs
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - fish
+  - prawn
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - chili
+  - complex
+  - tu-bav
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: fish heads
+    raw: 1 kg fish heads, bones and trimmings
+  - qty: 1
+    name: leek
+    raw: 1 leek
+  - qty: 1
+    name: fennel bulb
+    raw: 1 fennel bulb
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - name: thyme
+    raw: A few thyme sprigs
+  - qty: 1
+    name: strip of orange peel
+    raw: 1 strip of orange peel
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: A pinch of saffron threads
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 teaspoon fennel seeds
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 200
+    unit: ml
+    name: dry white wine
+    raw: 200 ml dry white wine
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres water
+  - name: "firm: monkfish"
+    raw: "Firm: monkfish, gurnard, john dory"
+  - name: "medium: red mullet"
+    raw: "Medium: red mullet, sea bass"
+  - name: "delicate: cod"
+    raw: "Delicate: cod, hake"
+  - name: "optional: prawns"
+    raw: "Optional: prawns, mussels"
+  - qty: 1
+    name: white bread
+    raw: 1 thick slice white bread
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: red chilli
+    raw: 1 red chilli
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    unit: pinch
+    name: saffron
+    raw: A pinch of saffron
+  - qty: 200
+    unit: ml
+    name: virgin olive oil
+    raw: 200 ml extra virgin olive oil
+  - name: salt
+    raw: Salt
+  - qty: 1
+    name: baguette
+    raw: 1 baguette
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove

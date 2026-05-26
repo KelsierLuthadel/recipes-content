@@ -1,22 +1,3 @@
----
-prep: 15 minutes
-cook: 45 minutes
-allergens:
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - meat
-  - duck
-  - lemon
-mentions:
-  - cuisine/french/duck-confit
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Bigarade Sauce
 
 ![Bigarade sauce](resources/bigarade-sauce.png)

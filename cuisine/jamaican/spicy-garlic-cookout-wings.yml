@@ -1,0 +1,33 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - chicken
+  - garlic
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 680
+    unit: g
+    name: chicken wings
+    raw: 680 g raw chicken wings
+  - qty: 4
+    unit: tbsp
+    name: unsalted butter
+    raw: 4 tablespoons unsalted butter
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 700
+    unit: ml
+    name: frank's redhot sauce
+    raw: 700 ml Frank's RedHot sauce
+  - name: all-purpose seasoning
+    raw: All-purpose seasoning , optional

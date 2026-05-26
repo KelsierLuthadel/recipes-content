@@ -1,0 +1,66 @@
+prep: 15 minutes (plus 4 hours marinating)
+cook: 35 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - chicken
+  - garlic
+  - lemon
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/thai/side-dishes/coconut-rice
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 12.5
+    name: bird's-eye chillies
+    raw: 10-15 bird's-eye chillies
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tsp
+    name: paprika
+    raw: 2 teaspoons paprika
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 4
+    unit: tbsp
+    name: red wine vinegar
+    raw: 4 tablespoons red wine vinegar
+  - qty: 100
+    unit: ml
+    name: olive oil
+    raw: 100 ml olive oil
+  - qty: 1
+    name: chicken
+    raw: 1 whole chicken
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    name: lemon
+    raw: 1 lemon

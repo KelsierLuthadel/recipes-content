@@ -1,0 +1,51 @@
+prep: 15 minutes
+cook: 4 hours
+allergens:
+  - meat
+  - celery
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - carrot
+  - complex
+mentions:
+  - cuisine/italian/lasagne
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    name: celery stick
+    raw: 1 celery stick
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 grams minced beef
+  - qty: 1
+    name: glass red wine
+    raw: 1 glass red wine
+  - qty: 700
+    unit: ml
+    name: passata
+    raw: 700 ml passata
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tablespoon tomato purée
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

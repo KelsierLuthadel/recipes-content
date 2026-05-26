@@ -1,24 +1,3 @@
----
-prep: 3 minutes
-cook: None
-allergens:
-  - eggs
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - snack
-  - eggs
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Bang Bang Sauce
 
 ![Bang Bang Sauce](resources/bang-bang-sauce.jpg)

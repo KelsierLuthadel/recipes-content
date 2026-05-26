@@ -1,0 +1,72 @@
+prep: 10 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - nuts
+  - eid-al-fitr
+  - ramadan
+  - muslim
+mentions:
+  - cuisine/pakistani/desserts/sevaiyan
+ingredients:
+  - qty: 1.2
+    unit: l
+    name: milk
+    raw: 1.2 litres whole milk
+  - qty: 100
+    unit: g
+    name: vermicelli
+    raw: 100 g vermicelli
+  - qty: 3
+    unit: tbsp
+    name: ghee
+    raw: 3 tablespoons ghee
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: A pinch of saffron threads
+  - qty: 2
+    unit: tbsp
+    name: milk
+    raw: 2 tablespoons warm milk
+  - qty: 0.5
+    name: /2 teaspoon ground cardamom
+    raw: 1/2 teaspoon ground cardamom
+  - qty: 8
+    name: medjool dates
+    raw: 8 medjool dates
+  - qty: 2
+    unit: tbsp
+    name: almonds
+    raw: 2 tablespoons almonds
+  - qty: 2
+    unit: tbsp
+    name: pistachios
+    raw: 2 tablespoons pistachios
+  - qty: 2
+    unit: tbsp
+    name: cashews
+    raw: 2 tablespoons cashews
+  - qty: 1
+    unit: tbsp
+    name: golden raisins
+    raw: 1 tablespoon golden raisins
+  - qty: 1
+    unit: tbsp
+    name: rose petals
+    raw: 1 tablespoon dried rose petals
+  - qty: 1
+    unit: tsp
+    name: rose water
+    raw: 1 teaspoon rose water
+  - name: saffron threads
+    raw: A few extra saffron threads

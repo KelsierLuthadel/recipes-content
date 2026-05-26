@@ -1,0 +1,95 @@
+prep: 20 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - peanuts
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 45
+    unit: ml
+    name: groundnut oil
+    raw: 45 ml groundnut oil
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 1.5
+    unit: tbsp
+    name: ginger
+    raw: 1 ½ tablespoon chopped fresh root ginger
+  - qty: 7
+    name: red shallots
+    raw: 7 red shallots
+  - qty: 2
+    name: fennel bulbs
+    raw: 2 fennel bulbs
+  - qty: 450
+    unit: g
+    name: white fish fillet
+    raw: 450 grams white fish fillet
+  - qty: 20
+    name: prawns
+    raw: 20 prawns
+  - qty: 3
+    name: hot red chillies
+    raw: 3 fresh medium hot red chillies
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon mild paprika
+  - qty: 2
+    unit: tsp
+    name: shrimp paste
+    raw: 2 teaspoon shrimp paste
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 teaspoon fennel seeds
+  - qty: 45
+    unit: ml
+    name: thai fish sauce
+    raw: 45 ml Thai fish sauce
+  - qty: 1.5
+    name: limes
+    raw: 1 - 2 limes
+  - qty: 25
+    unit: g
+    name: coriander
+    raw: 25 grams fresh coriander
+  - qty: 1
+    name: basil
+    raw: small bunch fresh basil
+  - qty: 600
+    unit: ml
+    name: fish stock
+    raw: 600 ml fish stock
+  - qty: 450
+    unit: ml
+    name: coconut milk
+    raw: 450 ml coconut milk
+  - qty: 300
+    unit: g
+    name: vermicelli rice noodles
+    raw: 300 grams thin vermicelli rice noodles
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions

@@ -1,0 +1,93 @@
+prep: 25 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - mustard
+  - celery
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - sides
+  - lentils
+  - ginger
+  - potato
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    name: bitter gourd
+    raw: 1 bitter gourd , about 100 g, deseeded and sliced thin
+  - qty: 1
+    name: green plantain
+    raw: 1 raw green plantain, peeled
+  - qty: 1
+    name: sweet potato
+    raw: 1 sweet potato , peeled
+  - qty: 1
+    name: aubergine
+    raw: 1 aubergine
+  - qty: 1
+    name: drumstick
+    raw: 1 drumstick , cut into 5 cm lengths
+  - qty: 1
+    name: radish
+    raw: 1 radish , peeled
+  - qty: 100
+    unit: g
+    name: potato
+    raw: 100 g potato
+  - qty: 1
+    unit: tbsp
+    name: white poppy seeds
+    raw: 1 tbsp white poppy seeds , soaked in 3 tbsp warm water
+  - qty: 1
+    unit: tsp
+    name: yellow mustard seeds
+    raw: 1 tsp yellow mustard seeds, soaked in 2 tbsp warm water
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tbsp ginger, grated
+  - qty: 2
+    unit: tbsp
+    name: mustard oil
+    raw: 2 tbsp mustard oil
+  - qty: 2
+    unit: tbsp
+    name: ghee
+    raw: 2 tbsp ghee
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 0.5
+    unit: tsp
+    name: radhuni
+    raw: ½ tsp radhuni
+  - qty: 0.5
+    unit: tsp
+    name: panch phoron
+    raw: ½ tsp panch phoron
+  - qty: 8
+    name: sundried lentil dumplings
+    raw: 8 sundried lentil dumplings , optional
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt, or to taste
+  - qty: 0.5
+    unit: tsp
+    name: roasted radhuni
+    raw: ½ tsp ground roasted radhuni
+  - qty: 1
+    unit: tsp
+    name: ghee
+    raw: 1 tsp ghee

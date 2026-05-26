@@ -1,20 +1,3 @@
----
-prep: 5 minutes
-cook: 10 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - meals
-mentions: []
----
-
-
-
-
 # Plátanos Maduros
 
 ![Plátanos Maduros](resources/platanos-maduros.jpg)

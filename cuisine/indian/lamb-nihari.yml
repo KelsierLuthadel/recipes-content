@@ -1,0 +1,98 @@
+prep: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - lamb
+  - onion
+  - ginger
+  - lemon
+  - coriander
+  - butter
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 4
+    name: lamb shanks
+    raw: 4 lamb shanks
+  - qty: 125
+    unit: ml
+    name: rapeseed oil
+    raw: 125ml rapeseed oil
+  - qty: 1
+    name: nutmeg
+    raw: 1 whole nutmeg, crushed into smaller pieces
+  - qty: 1
+    unit: tbsp
+    name: mace blades
+    raw: 1 tbsp mace blades
+  - qty: 2
+    unit: tbsp
+    name: fennel seeds
+    raw: 2 tbsp fennel seeds
+  - qty: 3
+    name: indian bay leaves
+    raw: 3 Indian bay leaves
+  - qty: 1
+    name: cinnamon stick broken into small pieces
+    raw: 1 inch piece of cinnamon stick broken into small pieces
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 tsp black peppercorns
+  - qty: 1
+    unit: tsp
+    name: nigella seeds
+    raw: 1 tsp nigella seeds
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 tsp cloves
+  - qty: 2
+    unit: tsp
+    name: cumin seeds
+    raw: 2 tsp cumin seeds
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 1
+    unit: tsp
+    name: hot chilli powder
+    raw: 1 tsp hot chilli powder
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 tsp ground ginger
+  - qty: 40
+    unit: g
+    name: unsalted butter
+    raw: 40g unsalted butter
+  - qty: 1
+    name: onion
+    raw: 1 onion, sliced into rings
+  - qty: 2
+    name: chapatti flour
+    raw: 2 generous tsp chapatti flour
+  - name: salt
+    raw: Salt
+  - qty: 4
+    unit: tbsp
+    name: julienne of ginger
+    raw: 4 tbsp fine julienne of ginger
+  - qty: 2.5
+    name: hot fresh green chillies
+    raw: 2-3 hot fresh green chillies
+  - qty: 1
+    unit: handful
+    name: coriander leaves
+    raw: Handful of coriander leaves
+  - name: lemon wedges
+    raw: Lemon wedges

@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 25 minutes
-allergens:
-  - eggs
-  - mustard
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - spicy
-  - sides
-  - eggs
-  - onion
-  - potato
-  - coriander
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Hot Cajun Potato Salad
 
 ![Hot cajun potato salad](resources/cajun-salad.jpg)

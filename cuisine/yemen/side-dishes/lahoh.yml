@@ -1,0 +1,44 @@
+prep: 5 minutes (plus 8 hours fermenting)
+cook: 25 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - sides
+  - complex
+mentions:
+  - cuisine/yemen/fahsa
+  - cuisine/yemen/saltah
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 100
+    unit: g
+    name: semolina
+    raw: 100 g fine semolina
+  - qty: 0.5
+    unit: tsp
+    name: fast-action yeast
+    raw: ½ teaspoon fast-action yeast
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: caster sugar
+    raw: ½ teaspoon caster sugar
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml warm water
+  - qty: 1
+    unit: tsp
+    name: vegetable oil
+    raw: 1 teaspoon vegetable oil for the pan

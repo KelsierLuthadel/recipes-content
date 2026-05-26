@@ -1,0 +1,40 @@
+prep: 5 minutes
+allergens:
+  - peanuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - spices
+  - ginger
+  - nuts
+  - chili
+mentions: []
+ingredients:
+  - qty: 50
+    unit: g
+    name: unsalted roasted peanuts
+    raw: 50 grams unsalted roasted peanuts
+  - qty: 1
+    unit: tsp
+    name: mixed spice
+    raw: 1 teaspoon ground Mixed Spice
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 teaspoon chilli powder
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: ginger
+    raw: ½ teaspoon ground ginger
+  - qty: 0.25
+    unit: tsp
+    name: cayenne pepper
+    raw: ¼ teaspoon cayenne pepper

@@ -1,0 +1,100 @@
+prep: 25 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/uyghur/laghman
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 80 ml water
+  - qty: 2
+    unit: pinch
+    name: salt
+    raw: 2 pinches salt
+  - qty: 800
+    unit: g
+    name: chicken pieces
+    raw: 800 g bone-in chicken pieces
+  - qty: 275
+    unit: ml
+    name: oil
+    raw: 275 ml oil
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 42
+    unit: g
+    name: ginger
+    raw: 42 g ginger
+  - qty: 2
+    name: garlic
+    raw: 2 bulbs garlic
+  - qty: 3
+    name: star anise
+    raw: 3 star anise
+  - qty: 4
+    unit: g
+    name: sichuan peppercorns
+    raw: 4 g ground Sichuan peppercorns
+  - qty: 0.5
+    unit: tsp
+    name: chilli flakes
+    raw: ½ teaspoon chilli flakes
+  - qty: 0.5
+    unit: tsp
+    name: sweet paprika
+    raw: ½ teaspoon sweet paprika
+  - qty: 1
+    name: red chilli
+    raw: 1 fresh red chilli
+  - qty: 2
+    name: green peppers
+    raw: 2 mild green peppers
+  - qty: 0.5
+    name: red paprika
+    raw: ½ mild red paprika
+  - qty: 360
+    unit: g
+    name: potatoes
+    raw: 360 g potatoes
+  - qty: 1.5
+    unit: tbsp
+    name: soy sauce
+    raw: 1 ½ tablespoons soy sauce
+  - qty: 2
+    unit: tsp
+    name: caster sugar
+    raw: 2 teaspoons caster sugar
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water

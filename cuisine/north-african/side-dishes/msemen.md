@@ -1,23 +1,3 @@
----
-prep: 40 minutes (plus 30 min dough rest)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - sides
-  - butter
-  - honey
-  - complex
-mentions:
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Msemen
 
 ![Msemen](resources/msemen.jpg)

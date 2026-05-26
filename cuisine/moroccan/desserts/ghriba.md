@@ -1,25 +1,3 @@
----
-prep: 20 minutes (plus 30 minutes resting)
-cook: 15 minutes
-allergens:
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - make-ahead
-  - eggs
-  - lemon
-  - butter
-  - nuts
-mentions: []
----
-
-
-
-
 # Ghriba (Moroccan Almond Shortbread)
 
 ![Ghriba](resources/ghriba.jpg)

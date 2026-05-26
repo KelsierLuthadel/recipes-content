@@ -1,0 +1,70 @@
+prep: 15 minutes
+cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - sesame
+tags:
+  - vegetarian
+  - dessert
+  - butter
+  - nuts
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: semolina
+    raw: 250 g fine semolina
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: tbsp
+    name: baking powder
+    raw: 1 tablespoon baking powder
+  - qty: 1
+    unit: tsp
+    name: anise
+    raw: 1 teaspoon ground anise
+  - qty: 0.5
+    unit: tsp
+    name: mahleb
+    raw: ½ teaspoon ground mahleb
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 120
+    unit: g
+    name: unsalted butter
+    raw: 120 g unsalted butter
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 3
+    unit: tbsp
+    name: pine nuts
+    raw: 3 tablespoons pine nuts
+  - qty: 1
+    unit: tbsp
+    name: sesame seeds
+    raw: 1 tablespoon sesame seeds
+  - qty: 1
+    unit: tbsp
+    name: tahini
+    raw: 1 tablespoon tahini

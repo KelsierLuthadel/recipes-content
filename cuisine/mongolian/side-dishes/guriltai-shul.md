@@ -1,25 +1,3 @@
----
-prep: 30 minutes (mostly noodle making)
-cook: 1 hour 30 minutes
-allergens:
-  - gluten
-  - meat
-tags:
-  - dairy-free
-  - sides
-  - meat
-  - lamb
-  - onion
-  - potato
-  - carrot
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Guriltai Shul
 
 ![Guriltai Shul](resources/guriltai-shul.jpg)

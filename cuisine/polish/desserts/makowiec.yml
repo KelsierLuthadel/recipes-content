@@ -1,0 +1,121 @@
+prep: 1 hour (plus 2 hours proving)
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - honey
+  - nuts
+  - complex
+  - rosh-hashanah
+mentions:
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 300
+    unit: g
+    name: blue poppy seeds
+    raw: 300 g blue poppy seeds
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 120
+    unit: g
+    name: caster sugar
+    raw: 120 g caster sugar
+  - qty: 80
+    unit: g
+    name: runny honey
+    raw: 80 g runny honey
+  - qty: 80
+    unit: g
+    name: raisins
+    raw: 80 g raisins
+  - qty: 80
+    unit: g
+    name: walnuts
+    raw: 80 g chopped walnuts
+  - qty: 50
+    unit: g
+    name: candied orange peel
+    raw: 50 g candied orange peel
+  - qty: 2
+    unit: tbsp
+    name: rum
+    raw: 2 tablespoons rum
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 2
+    name: egg whites
+    raw: 2 egg whites
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 400
+    unit: g
+    name: white flour
+    raw: 400 g strong white flour
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml warm whole milk
+  - qty: 2
+    name: egg yolks
+    raw: 2 egg yolks
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    unit: tbsp
+    name: milk
+    raw: 1 tablespoon milk
+  - qty: 150
+    unit: g
+    name: icing sugar
+    raw: 150 g icing sugar
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons lemon juice
+  - qty: 2
+    unit: tbsp
+    name: candied orange peel
+    raw: 2 tablespoons finely chopped candied orange peel

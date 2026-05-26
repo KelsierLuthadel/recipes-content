@@ -1,32 +1,3 @@
----
-prep: 25 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - make-ahead
-  - sides
-  - eggs
-  - onion
-  - tomato
-  - coriander
-  - butter
-  - yogurt
-  - chickpea
-  - nuts
-  - complex
-mentions:
-  - cuisine/iran/side-dishes/kuku-sabzi
-  - cuisine/persian/side-dishes/mast-o-musir
----
-
-
-
-
 # Kuku Sabzi
 
 ![Kuku Sabzi](resources/kuku-sabzi.jpg)

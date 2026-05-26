@@ -1,36 +1,3 @@
----
-prep: 20 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - bbq
-  - meat
-  - pork
-  - rice
-  - onion
-  - garlic
-  - butter
-  - honey
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - cuisine/chinese/fried-rice
-  - cuisine/korean/side-dishes/kimchi
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Samgyeopsal
 
 ![Samgyeopsal](resources/samgyeopsal.jpg)

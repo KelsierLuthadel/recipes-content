@@ -1,30 +1,3 @@
----
-prep: 10 minutes (plus 30 minutes soaking the rice cakes if dry)
-cook: 20 minutes
-allergens:
-  - gluten
-  - eggs
-  - soy
-  - sesame
-  - fish
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - meals
-  - fish
-  - eggs
-  - rice
-  - onion
-  - garlic
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tteokbokki
 
 ![Tteokbokki](resources/tteokbokki.jpg)

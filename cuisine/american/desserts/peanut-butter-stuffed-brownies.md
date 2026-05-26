@@ -1,26 +1,3 @@
----
-prep: 15 minutes (plus 3 hours freezing the peanut butter, plus 3 hours chilling after bake)
-cook: 32 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - peanuts
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - butter
-  - chocolate
-  - nuts
-  - complex
-mentions: []
----
-
-
-
-
 # Peanut Butter Stuffed Brownies
 
 ![Peanut Butter Stuffed Brownies](resources/peanut-butter-stuffed-brownies.jpg)

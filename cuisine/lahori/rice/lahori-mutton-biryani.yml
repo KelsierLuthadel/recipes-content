@@ -1,0 +1,136 @@
+prep: 30 minutes (plus 4 hours marinade)
+cook: 2 hours
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/biryani
+ingredients:
+  - qty: 1
+    unit: kg
+    name: mutton
+    raw: 1 kg mutton
+  - qty: 250
+    unit: g
+    name: natural yogurt
+    raw: 250 g natural yogurt
+  - qty: 2
+    unit: tbsp
+    name: ginger-garlic paste
+    raw: 2 tablespoons ginger-garlic paste
+  - qty: 2
+    unit: tbsp
+    name: kashmiri chilli powder
+    raw: 2 tablespoons Kashmiri chilli powder
+  - qty: 1
+    unit: tbsp
+    name: garam masala
+    raw: 1 tablespoon Garam Masala
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - qty: 8
+    name: aloo bukhara
+    raw: 8 dried aloo bukhara
+  - qty: 1
+    unit: tbsp
+    name: kasuri methi
+    raw: 1 tablespoon crushed kasuri methi
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 4
+    unit: tbsp
+    name: ghee
+    raw: 4 tablespoons ghee
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    name: green chillies
+    raw: 4 green chillies
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes
+  - qty: 600
+    unit: g
+    name: basmati rice
+    raw: 600 g aged basmati rice
+  - qty: 3
+    unit: l
+    name: water
+    raw: 3 litres water
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tablespoons salt
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 6
+    name: cloves
+    raw: 6 cloves
+  - qty: 6
+    name: green cardamom pods
+    raw: 6 green cardamom pods
+  - qty: 2
+    name: black cardamom pods
+    raw: 2 black cardamom pods
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 0.25
+    unit: tsp
+    name: saffron threads
+    raw: ¼ teaspoon saffron threads
+  - qty: 3
+    unit: tbsp
+    name: milk
+    raw: 3 tablespoons warm milk
+  - qty: 2
+    unit: tbsp
+    name: kewra water
+    raw: 2 tablespoons kewra water
+  - qty: 1
+    unit: handful
+    name: mint leaves
+    raw: A handful of fresh mint leaves
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of fresh coriander
+  - qty: 2
+    unit: tbsp
+    name: ghee
+    raw: 2 tablespoons melted ghee

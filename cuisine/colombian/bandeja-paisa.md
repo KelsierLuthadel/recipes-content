@@ -1,29 +1,3 @@
----
-prep: 30 minutes (assumes beans and pork belly cooked)
-cook: 30 minutes
-allergens:
-  - eggs
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - meat
-  - beef
-  - pork
-  - eggs
-  - rice
-  - onion
-mentions:
-  - cuisine/colombian/side-dishes/frijoles-paisas
-  - cuisine/colombian/side-dishes/hogao
-  - cuisine/honduras/side-dishes/tajadas
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Bandeja Paisa
 
 ![Bandeja Paisa](resources/bandeja-paisa.jpg)

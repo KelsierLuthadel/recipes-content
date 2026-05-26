@@ -1,24 +1,3 @@
----
-prep: 5 minutes
-cook: 5 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - make-ahead
-  - eggs
-  - cream
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Tiramisu with Amaretto and Cream
 
 ![Tiramisu with Amaretto and Cream](resources/tiramisu-amaretto.jpg)

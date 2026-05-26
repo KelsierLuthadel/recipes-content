@@ -1,0 +1,49 @@
+prep: 30 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+mentions: []
+ingredients:
+  - qty: 240
+    unit: g
+    name: pate brisee
+    raw: 240 grams pâte brisée
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 40
+    unit: g
+    name: plain flour
+    raw: 40 grams plain flour
+  - qty: 40
+    unit: g
+    name: butter
+    raw: 40 grams butter
+  - qty: 1
+    unit: tbsp
+    name: kirsch
+    raw: 1 tablespoon kirsch
+  - qty: 30
+    unit: g
+    name: caster sugar
+    raw: 30 grams caster sugar
+  - qty: 75
+    unit: ml
+    name: milk
+    raw: 75 ml cold milk
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 450
+    unit: g
+    name: black cherries
+    raw: 450 grams very ripe black cherries
+  - name: icing sugar
+    raw: icing sugar

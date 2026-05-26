@@ -1,0 +1,44 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meat
+  - duck
+  - lemon
+mentions:
+  - cuisine/french/duck-confit
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 3
+    name: oranges
+    raw: 3 oranges
+  - qty: 45
+    unit: g
+    name: caster sugar
+    raw: 45 grams caster sugar
+  - qty: 3
+    unit: tbsp
+    name: red wine vinegar
+    raw: 3 tablespoons red wine vinegar
+  - qty: 300
+    unit: g
+    name: duck wings
+    raw: 300 grams duck wings
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 700
+    unit: ml
+    name: veal stock
+    raw: 700 ml Veal stock
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

@@ -1,33 +1,3 @@
----
-prep: 1 hour
-cook: 25 minutes
-allergens:
-  - eggs
-  - sesame
-  - fish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - snack
-  - meat
-  - fish
-  - beef
-  - pork
-  - eggs
-  - rice
-  - garlic
-  - spinach
-  - carrot
-  - complex
-mentions:
-  - cuisine/korean/bulgogi
----
-
-
-
-
 # Gimbap
 
 ![Gimbap](resources/gimbap.jpg)

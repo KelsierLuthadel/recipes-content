@@ -1,0 +1,97 @@
+prep: 20 minutes
+cook: 1 hour 45 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - lime
+  - coriander
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: lamb shoulder
+    raw: 800 g lamb shoulder
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato puree
+  - qty: 2
+    unit: tbsp
+    name: pomegranate molasses
+    raw: 2 tablespoons pomegranate molasses
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: black lime
+    raw: 1 dried black lime
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 800
+    unit: ml
+    name: lamb stock
+    raw: 800 ml hot lamb stock
+  - qty: 600
+    unit: g
+    name: okra
+    raw: 600 g small whole okra
+  - qty: 3
+    unit: tbsp
+    name: butter
+    raw: 3 tablespoons butter
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 4
+    name: rice
+    raw: 4 servings cooked rice
+  - name: lemon wedges
+    raw: Lemon wedges

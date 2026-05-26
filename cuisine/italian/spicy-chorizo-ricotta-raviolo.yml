@@ -1,0 +1,64 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - spicy
+  - quick
+  - meals
+  - meat
+  - pork
+  - eggs
+  - cheese
+  - chili
+mentions:
+  - bread-pasta/pasta
+  - tutorials/pasta/fresh-pasta-dough
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: pasta dough
+    raw: 400 grams fresh pasta dough
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 5
+    unit: tbsp
+    name: olive oil
+    raw: 5 tablespoons olive oil
+  - qty: 300
+    unit: g
+    name: spanish chorizo
+    raw: 300 grams Spanish chorizo
+  - qty: 3
+    name: medium-hot chillies
+    raw: 3 medium-hot chillies
+  - qty: 750
+    unit: g
+    name: ricotta cheese
+    raw: 750 grams fresh ricotta cheese
+  - qty: 3
+    unit: tbsp
+    name: flat leaf parsley
+    raw: 3 tablespoons fresh flat leaf parsley
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 200
+    unit: ml
+    name: virgin olive oil
+    raw: 200 ml extra virgin olive oil
+  - name: salt
+    raw: Salt
+  - name: black pepper
+    raw: Freshly ground black pepper

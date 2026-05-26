@@ -1,31 +1,3 @@
----
-prep: 15 minutes (plus 4 hours marinating)
-cook: 35 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - bbq
-  - meat
-  - chicken
-  - garlic
-  - lemon
-  - chili
-  - complex
-mentions:
-  - cuisine/indian/rice/coconut-rice
-  - cuisine/thai/side-dishes/coconut-rice
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Frango Piri-Piri
 
 ![Frango Piri-Piri](resources/frango-piri-piri.jpg)

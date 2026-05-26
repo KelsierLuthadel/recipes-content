@@ -1,0 +1,75 @@
+prep: 20 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - fish
+  - shellfish
+  - celery
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - rice
+  - onion
+  - carrot
+  - butter
+  - cream
+  - chili
+mentions: []
+ingredients:
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 0.5
+    name: carrot
+    raw: ½ carrot
+  - qty: 0.5
+    name: onion
+    raw: ½ onion
+  - qty: 1
+    name: celery stalk
+    raw: 1 celery stalk
+  - qty: 1
+    unit: kg
+    name: live crabs
+    raw: 1 kg live crabs
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 2
+    name: thyme
+    raw: 2 thyme sprigs
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 0.25
+    unit: tsp
+    name: cayenne pepper
+    raw: ¼ teaspoon cayenne pepper
+  - qty: 150
+    unit: ml
+    name: dry white wine
+    raw: 150 ml dry white wine
+  - qty: 1
+    unit: l
+    name: fish stock
+    raw: 1 litre fish stock
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 2
+    unit: tbsp
+    name: brandy
+    raw: 2 tablespoons brandy
+  - qty: 60
+    unit: g
+    name: rice
+    raw: 60 grams rice
+  - qty: 3
+    unit: tbsp
+    name: double cream
+    raw: 3 tablespoons double cream

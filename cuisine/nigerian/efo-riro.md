@@ -1,38 +1,3 @@
----
-prep: 20 minutes
-cook: 45 minutes
-allergens:
-  - fish
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - fish
-  - beef
-  - prawn
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - spinach
-  - chili
-  - complex
-  - kwanzaa
-mentions:
-  - cuisine/nigerian/side-dishes/fufu
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Efo Riro
 
 ![Efo Riro](resources/efo-riro.jpg)

@@ -1,26 +1,3 @@
----
-prep: 20 minutes
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - snack
-  - eggs
-  - onion
-  - potato
-  - butter
-  - yogurt
-  - complex
-mentions:
-  - cuisine/iran/side-dishes/barbari
----
-
-
-
-
 # Kuku Sib Zamini
 
 ![Kuku Sib Zamini](resources/kuku-sib-zamini.jpg)

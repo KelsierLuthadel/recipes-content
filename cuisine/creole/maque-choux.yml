@@ -1,0 +1,74 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - butter
+  - cream
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: ears fresh corn
+    raw: 8 ears fresh corn
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: green pepper
+    raw: 1 green pepper
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: tomatoes or 200 g tinned chopped
+    raw: 2 tomatoes or 200 g tinned chopped
+  - qty: 1
+    name: long green chilli or ½ teaspoon cayenne
+    raw: 1 long green chilli or ½ teaspoon cayenne
+  - qty: 1
+    unit: tsp
+    name: creole seasoning
+    raw: 1 teaspoon Creole seasoning
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: A small handful of flat-leaf parsley
+  - name: hot sauce
+    raw: Hot sauce

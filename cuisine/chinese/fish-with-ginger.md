@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - peanuts
-  - fish
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - meals
-  - asian
-  - meat
-  - fish
-  - ginger
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Fried Fish with Ginger
 
 ![Fried Fish with Ginger](resources/fish-ginger.jpg)

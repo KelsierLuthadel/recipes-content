@@ -1,0 +1,108 @@
+prep: 25 minutes
+cook: 4 hours
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+  - celery
+  - garlic
+tags:
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - carrot
+  - butter
+  - cheese
+  - nuts
+  - complex
+mentions:
+  - cuisine/italian/pesto
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons of olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    name: celery stick
+    raw: 1 celery stick
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 grams minced beef
+  - qty: 350
+    unit: ml
+    name: italian red wine
+    raw: 350 ml Italian red wine
+  - qty: 700
+    unit: ml
+    name: passata
+    raw: 700 ml passata
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tablespoon tomato purée
+  - qty: 12
+    name: lasagne sheets
+    raw: 12 fresh lasagne sheets
+  - qty: 50
+    unit: g
+    name: cold salted butter
+    raw: 50 grams cold salted butter
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 100
+    unit: g
+    name: salted butter
+    raw: 100 grams salted butter
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 grams plain flour
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre cold full-fat milk
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon nutmeg
+  - qty: 100
+    unit: g
+    name: parmesan cheese
+    raw: 100 grams Parmesan cheese
+  - qty: 40
+    unit: g
+    name: basil leaves
+    raw: 40 grams fresh basil leaves
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 30
+    unit: g
+    name: pine nuts
+    raw: 30 grams pine nuts
+  - qty: 120
+    unit: ml
+    name: virgin olive oil
+    raw: 120 ml extra virgin olive oil
+  - qty: 20
+    unit: g
+    name: parmesan cheese
+    raw: 20 grams Parmesan cheese
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: pinch of salt

@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-cook: 40 minutes
-allergens:
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - meat
-  - onion
-  - garlic
-  - carrot
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lamb Jus with Rosemary
 
 ![Lamb jus with rosemary](resources/lamb-jus.png)

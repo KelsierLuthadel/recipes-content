@@ -1,0 +1,86 @@
+prep: 20 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - bbq
+  - meat
+  - chicken
+  - lamb
+  - onion
+  - garlic
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: chicken livers
+    raw: 400 g chicken livers
+  - qty: 200
+    unit: g
+    name: chicken hearts
+    raw: 200 g chicken hearts
+  - qty: 200
+    unit: g
+    name: lamb shoulder
+    raw: 200 g lamb shoulder
+  - qty: 200
+    unit: g
+    name: chicken thigh
+    raw: 200 g chicken thigh
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 6
+    unit: tbsp
+    name: olive oil
+    raw: 6 tablespoons olive oil
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: baharat
+    raw: 2 tablespoons Baharat
+  - qty: 1
+    unit: tbsp
+    name: turmeric
+    raw: 1 tablespoon ground turmeric
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tablespoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons fresh parsley
+  - qty: 4
+    name: pita breads
+    raw: 4 pita breads
+  - name: hummus
+    raw: Hummus
+  - name: tahina sauce
+    raw: Tahina sauce
+  - name: pickles
+    raw: Sliced pickles
+  - name: amba
+    raw: Amba
+  - name: salata
+    raw: Salata

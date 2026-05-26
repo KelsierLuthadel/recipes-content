@@ -1,33 +1,3 @@
----
-prep: 30 minutes
-cook: 1 hour
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-  - garlic
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - eggs
-  - onion
-  - garlic
-  - tomato
-  - butter
-  - cheese
-  - complex
-mentions:
-  - cuisine/greek/moussaka
-  - cuisine/italian/lasagne
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Pastitsio
 
 ![Pastitsio](resources/pastitsio.jpg)

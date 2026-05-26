@@ -1,0 +1,79 @@
+prep: 45 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - chili
+  - soy-sauce
+mentions:
+  - cuisine/mongolian/buuz
+  - cuisine/mongolian/khuushuur
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml warm water
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 400
+    unit: g
+    name: mutton
+    raw: 400 g minced mutton
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 3
+    unit: tbsp
+    name: water
+    raw: 3 tablespoons cold water
+  - qty: 1
+    unit: tbsp
+    name: soy sauce
+    raw: 1 tablespoon soy sauce
+  - qty: 1
+    unit: tsp
+    name: chilli flakes
+    raw: 1 teaspoon chilli flakes
+  - qty: 1
+    unit: tbsp
+    name: vinegar
+    raw: 1 tablespoon vinegar
+  - qty: 1.5
+    unit: l
+    name: mutton
+    raw: 1 ½ litres mutton
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - name: dill
+    raw: Fresh dill

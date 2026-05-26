@@ -1,0 +1,80 @@
+prep: 30 minutes (plus 24-36 hours bacalhau desalting)
+cook: 25 minutes
+allergens:
+  - eggs
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - pastes
+  - meat
+  - fish
+  - eggs
+  - onion
+  - garlic
+  - potato
+  - lemon
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: salt cod loin
+    raw: 400 g salt cod loin
+  - name: water
+    raw: Cold water
+  - name: water
+    raw: Cold water
+  - qty: 600
+    unit: g
+    name: floury potatoes
+    raw: 600 g floury potatoes
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 3
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 3 tablespoons fresh flat-leaf parsley
+  - qty: 0.75
+    unit: tsp
+    name: white pepper
+    raw: ¾ teaspoon white pepper
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - name: salt only if needed
+    raw: Salt only IF needed
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: piri-piri sauce
+    raw: A dish of piri-piri sauce
+  - name: black olives
+    raw: Black olives, pickled chillies
+  - name: chilled vinho verde
+    raw: Chilled vinho verde

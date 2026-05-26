@@ -1,32 +1,3 @@
----
-prep: 10  minutes
-cook: 1 hour 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - asian
-  - meat
-  - chicken
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - coconut
-  - lime
-  - coriander
-  - complex
-mentions: []
----
-
-
-
-
 # Indonesian Chicken Noodle Soup (Soto Ayam)
 
 ![Indonesian Chicken Noodle Soup](resources/indonesian-chicken-soup.jpg)

@@ -1,0 +1,64 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - butter
+  - cheese
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 150
+    unit: g
+    name: blue cheese
+    raw: 150 g blue cheese
+  - qty: 6
+    name: red potatoes
+    raw: 6 red potatoes
+  - qty: 1.1
+    unit: kg
+    name: beef top round
+    raw: 1.1 kg beef top round
+  - qty: 10
+    name: jalapenos
+    raw: 10 jalapeños
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 3
+    name: roma tomatoes
+    raw: 3 Roma tomatoes
+  - qty: 10
+    name: green onions
+    raw: 10 green onions
+  - qty: 2.5
+    unit: tbsp
+    name: salt
+    raw: 2-3 tablespoons salt
+  - name: water
+    raw: Water to cover
+  - qty: 1
+    unit: tsp
+    name: sichuan pepper
+    raw: 1 teaspoon ground Sichuan pepper
+  - qty: 4
+    name: cheddar cheese
+    raw: 4 slices cheddar cheese
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter

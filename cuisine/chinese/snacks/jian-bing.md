@@ -1,31 +1,3 @@
----
-prep: 20 minutes (plus 1 hour batter rest)
-cook: 15 minutes
-allergens:
-  - gluten
-  - eggs
-  - soy
-  - sesame
-tags:
-  - vegetarian
-  - dairy-free
-  - spicy
-  - snack
-  - make-ahead
-  - asian
-  - eggs
-  - onion
-  - coriander
-  - chickpea
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Jian Bing
 
 ![Jian Bing](resources/jian-bing.jpg)

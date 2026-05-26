@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-cook: 2 hours
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - one-pan
-  - meals
-  - meat
-  - beef
-  - rice
-  - onion
-  - garlic
-  - potato
-  - carrot
-  - lime
-  - coriander
-  - complex
-mentions: []
----
-
-
-
-
 # Cazuela de Vacuno
 
 ![Cazuela de Vacuno](resources/cazuela-de-vacuno.jpg)

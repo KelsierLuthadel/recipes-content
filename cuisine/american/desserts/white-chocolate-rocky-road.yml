@@ -1,0 +1,54 @@
+prep: 15 minutes (plus 2 hours chilling)
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - butter
+  - cream
+  - chocolate
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 350
+    unit: g
+    name: white chocolate
+    raw: 350 g good-quality white chocolate
+  - qty: 75
+    unit: g
+    name: unsalted butter
+    raw: 75 g unsalted butter
+  - qty: 75
+    unit: g
+    name: golden syrup
+    raw: 75 g golden syrup
+  - qty: 60
+    unit: ml
+    name: double cream
+    raw: 60 ml double cream
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - qty: 200
+    unit: g
+    name: digestive biscuits
+    raw: 200 g digestive biscuits
+  - qty: 80
+    unit: g
+    name: mini marshmallows
+    raw: 80 g mini marshmallows
+  - qty: 80
+    unit: g
+    name: cranberries
+    raw: 80 g dried cranberries
+  - qty: 60
+    unit: g
+    name: shelled pistachios
+    raw: 60 g shelled pistachios
+  - qty: 50
+    unit: g
+    name: dark chocolate
+    raw: 50 g dark chocolate

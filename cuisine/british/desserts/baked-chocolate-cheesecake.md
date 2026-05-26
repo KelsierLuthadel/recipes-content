@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - eggs
-  - butter
-  - cheese
-  - chocolate
-  - shavuot
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Baked Chocolate Cheesecake with Espresso Sauce
 
 ![Baked chocolate cheesecake](resources/baked-chocolate-cheesecake.jpg)

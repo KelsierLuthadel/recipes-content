@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - make-ahead
-  - baking
-  - eggs
-mentions:
-  - tutorials/patisserie/tarts
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Crème Anglaise
 
 ![Crème anglaise](resources/creme-anglaise.jpg)

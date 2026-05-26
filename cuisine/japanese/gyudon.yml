@@ -1,0 +1,62 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - eggs
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - meat
+  - beef
+  - eggs
+  - rice
+  - onion
+  - ginger
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: ml
+    name: dashi
+    raw: 200 ml dashi
+  - qty: 3
+    unit: tbsp
+    name: soy sauce
+    raw: 3 tablespoons soy sauce
+  - qty: 3
+    unit: tbsp
+    name: mirin
+    raw: 3 tablespoons mirin
+  - qty: 2
+    unit: tbsp
+    name: sake
+    raw: 2 tablespoons sake
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 300
+    unit: g
+    name: beef
+    raw: 300 g thinly sliced beef
+  - name: rice
+    raw: rice
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion
+  - qty: 2
+    unit: tbsp
+    name: benishoga
+    raw: 2 tablespoons benishōga
+  - qty: 2
+    name: soft-boiled eggs
+    raw: 2 soft-boiled eggs
+  - name: shichimi togarashi
+    raw: Shichimi togarashi

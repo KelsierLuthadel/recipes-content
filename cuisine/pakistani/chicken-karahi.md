@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-cook: 45 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - garlic
-  - tomato
-  - ginger
-  - lemon
-  - coriander
-  - yogurt
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Karahi
 
 ![Chicken Karahi](resources/chicken-karahi.jpg)

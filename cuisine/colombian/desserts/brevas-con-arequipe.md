@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 1 hour 10 minutes (plus 30 min cooling)
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - lemon
-  - cheese
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Brevas Con Arequipe
 
 ![Brevas con Arequipe](resources/brevas-con-arequipe.jpg)

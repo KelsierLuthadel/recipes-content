@@ -1,0 +1,28 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - quick
+  - make-ahead
+  - baking
+  - eggs
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 grams plain flour
+  - qty: 20
+    unit: g
+    name: salt
+    raw: 20 grams salt
+  - qty: 200
+    unit: g
+    name: lard
+    raw: 200 grams lard
+  - qty: 5
+    name: egg yolks
+    raw: 5 egg yolks

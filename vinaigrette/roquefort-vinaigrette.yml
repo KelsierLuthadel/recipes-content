@@ -1,0 +1,40 @@
+prep: 10 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - cheese
+  - nuts
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: walnut oil
+    raw: 3 tablespoons walnut oil
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tablespoons sunflower oil
+  - qty: 2
+    unit: tbsp
+    name: tarragon vinegar
+    raw: 2 tablespoons tarragon vinegar
+  - qty: 50
+    unit: g
+    name: roquefort cheese
+    raw: 50 grams Roquefort cheese
+  - qty: 1
+    unit: tsp
+    name: tarragon leaves or ½ teaspoon dried
+    raw: 1 teaspoon fresh tarragon leaves or ½ teaspoon dried
+  - qty: 2.5
+    unit: dash
+    name: worcestershire sauce
+    raw: 2-3 dashes Worcestershire sauce
+  - name: sea salt and freshly ground black pepper
+    raw: Fine sea salt and freshly ground black pepper

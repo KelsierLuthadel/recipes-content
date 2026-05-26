@@ -1,0 +1,36 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - potato
+  - butter
+  - st-patricks
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: maris piper
+    raw: 1 kg Maris Piper
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml whole milk
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: nutmeg
+    raw: A grating of nutmeg

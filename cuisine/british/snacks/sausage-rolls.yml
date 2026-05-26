@@ -1,0 +1,56 @@
+prep: 30 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+  - meat
+  - mustard
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - pork
+  - eggs
+  - onion
+  - butter
+mentions: []
+ingredients:
+  - qty: 600
+    unit: g
+    name: sausagemeat
+    raw: 600 g good-quality sausagemeat
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 2
+    unit: tbsp
+    name: sage or 1 teaspoon dried
+    raw: 2 tablespoons fresh sage or 1 teaspoon dried
+  - qty: 50
+    unit: g
+    name: breadcrumbs
+    raw: 50 g fresh breadcrumbs
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 2
+    name: sheets all-butter puff pastry
+    raw: 2 sheets all-butter puff pastry , chilled
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: tbsp
+    name: sesame seeds
+    raw: 1 tablespoon sesame seeds

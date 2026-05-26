@@ -1,0 +1,131 @@
+prep: 25 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - nuts
+  - curry
+  - complex
+mentions:
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - sauces/fruit-sauce/mango-chutney
+ingredients:
+  - qty: 1
+    unit: kg
+    name: beef
+    raw: 1 kg minced beef
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    name: ginger
+    raw: 4 cm ginger
+  - qty: 2
+    unit: tbsp
+    name: curry powder
+    raw: 2 tablespoons mild Curry Powder
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 80
+    unit: g
+    name: raisins
+    raw: 80 g raisins
+  - qty: 50
+    unit: g
+    name: flaked almonds
+    raw: 50 g flaked almonds
+  - qty: 3
+    unit: tbsp
+    name: apricot jam
+    raw: 3 tablespoons apricot jam
+  - qty: 2
+    unit: tbsp
+    name: mango chutney
+    raw: 2 tablespoons Mango Chutney
+  - qty: 2
+    unit: tbsp
+    name: cider vinegar
+    raw: 2 tablespoons cider vinegar
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 80
+    unit: g
+    name: stale white bread
+    raw: 80 g stale white bread
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - qty: 7
+    name: bay leaves
+    raw: 6-8 fresh bay leaves

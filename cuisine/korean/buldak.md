@@ -1,36 +1,3 @@
----
-prep: 15 minutes (plus 1 hour marinating)
-cook: 20 minutes
-allergens:
-  - dairy
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - cheese
-  - honey
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - cuisine/korean/side-dishes/kimchi
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Buldak
 
 ![Buldak](resources/buldak.jpg)

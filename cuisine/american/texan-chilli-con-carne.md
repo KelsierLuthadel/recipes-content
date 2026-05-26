@@ -1,34 +1,3 @@
----
-prep: 30 minutes (plus 20 minutes soaking the chillies)
-cook: 3 hours
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - onion
-  - garlic
-  - lime
-  - coriander
-  - cream
-  - cheese
-  - chili
-  - complex
-mentions:
-  - cuisine/american/side-dishes/cornbread
-  - cuisine/mexican/side-dishes/frijoles-charros
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Texan Chilli con Carne
 
 ![Texan Chilli con Carne](resources/texan-chilli-con-carne.jpg)

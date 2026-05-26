@@ -1,36 +1,3 @@
----
-prep: 15 minutes
-cook: 20 minutes
-allergens:
-  - gluten
-  - eggs
-  - soy
-  - fish
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - meals
-  - meat
-  - fish
-  - chicken
-  - pork
-  - prawn
-  - eggs
-  - onion
-  - garlic
-  - carrot
-  - lemon
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pancit Canton
 
 ![Pancit Canton](resources/pancit-canton.jpg)

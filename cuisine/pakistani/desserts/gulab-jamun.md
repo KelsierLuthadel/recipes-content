@@ -1,28 +1,3 @@
----
-prep: 25 minutes
-cook: 25 minutes (plus 30 minutes soaking)
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - lemon
-  - nuts
-  - complex
-  - diwali
-  - eid-al-fitr
-  - ramadan
-  - holi
-  - muslim
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Gulab Jamun
 
 ![Gulab Jamun](resources/gulab-jamun.jpg)

@@ -1,0 +1,34 @@
+prep: 20 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - snack
+mentions: []
+ingredients:
+  - qty: 6
+    name: saba bananas
+    raw: 6 saba bananas
+  - qty: 200
+    unit: g
+    name: jackfruit
+    raw: 200 g fresh jackfruit
+  - qty: 12
+    name: spring roll wrappers
+    raw: 12 spring roll wrappers
+  - qty: 200
+    unit: g
+    name: light muscovado
+    raw: 200 g light muscovado
+  - qty: 600
+    unit: ml
+    name: neutral oil
+    raw: 600 ml neutral oil
+  - name: vanilla ice cream
+    raw: Vanilla ice cream
+  - qty: 1
+    unit: drizzle
+    name: palm-sugar caramel
+    raw: A drizzle of palm-sugar caramel

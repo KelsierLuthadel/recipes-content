@@ -1,20 +1,3 @@
----
-prep: 15 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - asian
-mentions: []
----
-
-
-
-
 # Crispy Cabbage
 
 ![Crispy cabbage](resources/crispy-cabbage.jpg)

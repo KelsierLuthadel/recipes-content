@@ -1,0 +1,33 @@
+prep: 5 minutes
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - spices
+  - onion
+mentions: []
+ingredients:
+  - qty: 1
+    unit: tsp
+    name: white cumin seeds
+    raw: 1 teaspoon white cumin seeds
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 teaspoon fennel seeds
+  - qty: 1
+    unit: tsp
+    name: fenugreek seeds
+    raw: 1 teaspoon fenugreek seeds
+  - qty: 1
+    unit: tsp
+    name: black mustard seeds
+    raw: 1 teaspoon black mustard seeds
+  - qty: 1
+    unit: tsp
+    name: wild onion seeds
+    raw: 1 teaspoon wild onion seeds

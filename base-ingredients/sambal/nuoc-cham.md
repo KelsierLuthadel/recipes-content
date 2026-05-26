@@ -1,24 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - fish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - fish
-  - garlic
-  - lime
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Nuoc Cham
 
 ![Nuoc Cham](resources/nuoc-cham.jpg)

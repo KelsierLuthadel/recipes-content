@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - sides
-  - garlic
-  - lemon
-  - yogurt
-mentions:
-  - cuisine/israel/side-dishes/baba-ganoush
----
-
-
-
-
 # Mutabbal Jordani
 
 ![Mutabbal Jordani](resources/mutabbal-jordani.jpg)

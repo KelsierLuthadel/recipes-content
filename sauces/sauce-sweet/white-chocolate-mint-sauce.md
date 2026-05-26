@@ -1,20 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - cream
-  - chocolate
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # White Chocolate Sauce with Mint
 
 ![White chocolate sauce with mint](resources/white-chocolate.png)

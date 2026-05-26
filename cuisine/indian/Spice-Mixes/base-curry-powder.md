@@ -1,23 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - asian
-  - spices
-  - curry
-mentions: []
----
-
-
-
-
 # Base Curry Powder
 
 ![Base Curry Powder](resources/base-curry-powder.jpg)

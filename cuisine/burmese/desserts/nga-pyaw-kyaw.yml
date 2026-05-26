@@ -1,0 +1,66 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - dessert
+mentions: []
+ingredients:
+  - qty: 120
+    unit: g
+    name: rice flour
+    raw: 120 g rice flour
+  - qty: 30
+    unit: g
+    name: plain flour
+    raw: 30 g plain flour
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tablespoon cornflour
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 0.25
+    unit: tsp
+    name: turmeric
+    raw: ¼ teaspoon ground turmeric
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: baking powder
+    raw: ¼ teaspoon baking powder
+  - qty: 180
+    unit: ml
+    name: soda water
+    raw: 180 ml cold soda water
+  - qty: 1
+    unit: tsp
+    name: white sesame seeds
+    raw: 1 teaspoon white sesame seeds
+  - qty: 6
+    name: bananas
+    raw: 6 very ripe small bananas
+  - qty: 750
+    unit: ml
+    name: neutral oil
+    raw: 750 ml neutral oil
+  - qty: 2
+    unit: tbsp
+    name: toasted white sesame seeds
+    raw: 2 tablespoons toasted white sesame seeds
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - name: flaky sea salt
+    raw: Flaky sea salt

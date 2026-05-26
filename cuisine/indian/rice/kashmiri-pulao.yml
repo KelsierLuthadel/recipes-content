@@ -1,0 +1,99 @@
+prep: 15 minutes (plus 30 minutes soak)
+cook: 30 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - asian
+  - rice
+  - onion
+  - nuts
+  - complex
+mentions:
+  - cuisine/indian/biryani
+  - cuisine/indian/rice/matar-pulao
+ingredients:
+  - qty: 300
+    unit: g
+    name: basmati rice
+    raw: 300 g aged basmati rice
+  - qty: 0.25
+    unit: tsp
+    name: saffron threads
+    raw: ¼ teaspoon saffron threads
+  - qty: 3
+    unit: tbsp
+    name: milk
+    raw: 3 tablespoons warm milk
+  - qty: 3
+    unit: tbsp
+    name: ghee
+    raw: 3 tablespoons ghee
+  - qty: 30
+    unit: g
+    name: flaked almonds
+    raw: 30 g flaked almonds
+  - qty: 30
+    unit: g
+    name: cashews
+    raw: 30 g cashews
+  - qty: 30
+    unit: g
+    name: sultanas
+    raw: 30 g sultanas
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 1
+    name: black cardamom pod
+    raw: 1 black cardamom pod
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 0.5
+    unit: tsp
+    name: fennel seeds
+    raw: ½ teaspoon fennel seeds
+  - qty: 0.5
+    unit: tsp
+    name: caraway seeds
+    raw: ½ teaspoon caraway seeds
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tablespoon sugar
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 50
+    unit: g
+    name: pomegranate seeds
+    raw: 50 g pomegranate seeds
+  - qty: 30
+    unit: g
+    name: fried onions
+    raw: 30 g fried onions
+  - qty: 1
+    unit: handful
+    name: pomegranate seeds
+    raw: A handful of extra pomegranate seeds
+  - name: toasted almonds
+    raw: A few extra toasted almonds

@@ -1,34 +1,3 @@
----
-prep: 25 minutes
-cook: 1 hour 15 minutes
-allergens:
-  - gluten
-  - fish
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - meals
-  - meat
-  - fish
-  - beef
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - spinach
-  - chili
-  - complex
-  - kwanzaa
-mentions:
-  - cuisine/nigerian/side-dishes/fufu
----
-
-
-
-
 # Egusi Soup
 
 ![Egusi Soup](resources/egusi-soup.jpg)

@@ -1,0 +1,108 @@
+prep: 30 minutes (plus 3 hours marinating)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - soy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - garlic
+  - potato
+  - lemon
+  - honey
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - sauces/sauce-spicy/chipotle-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: chipotle peppers in adobo
+    raw: 1 can chipotle peppers in adobo
+  - qty: 120
+    unit: ml
+    name: pure honey
+    raw: 120 ml pure honey
+  - qty: 60
+    unit: g
+    name: brown sugar
+    raw: 60 g brown sugar
+  - qty: 60
+    unit: ml
+    name: low-sodium soy sauce
+    raw: 60 ml low-sodium soy sauce
+  - qty: 120
+    unit: ml
+    name: mayonnaise
+    raw: 120 ml full-fat mayonnaise
+  - qty: 1
+    unit: tbsp
+    name: garlic paste
+    raw: 1 tablespoon garlic paste
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: tsp
+    name: creole cajun seasoning
+    raw: 1 teaspoon Creole Cajun seasoning
+  - qty: 2
+    unit: tbsp
+    name: dill
+    raw: 2 tablespoons fresh chopped dill
+  - qty: 0.25
+    unit: tsp
+    name: red pepper flakes
+    raw: ¼ teaspoon red pepper flakes
+  - qty: 2
+    name: heaping cups tri-color coleslaw mix
+    raw: 2 heaping cups tri-color coleslaw mix
+  - qty: 4
+    name: chicken thighs
+    raw: 4 boneless skinless chicken thighs
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1.5
+    unit: tsp
+    name: garlic powder
+    raw: 1 ½ teaspoons garlic powder
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon ground white pepper
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 240
+    unit: ml
+    name: buttermilk
+    raw: 240 ml buttermilk
+  - qty: 2
+    unit: tbsp
+    name: dill pickle juice
+    raw: 2 tablespoons dill pickle juice
+  - qty: 1
+    unit: cup
+    name: plain flour
+    raw: 1 cup plain flour
+  - name: vegetable oil
+    raw: Vegetable oil for frying
+  - qty: 4
+    name: brioche
+    raw: 4 brioche
+  - name: dill pickle chips
+    raw: Dill pickle chips

@@ -1,0 +1,93 @@
+prep: 30 minutes (plus 1 hour rising)
+cook: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - fish
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - fish
+  - eggs
+  - lemon
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 7
+    unit: g
+    name: instant yeast
+    raw: 7 g instant yeast
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 240
+    unit: ml
+    name: water
+    raw: 240 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 800
+    unit: ml
+    name: neutral oil
+    raw: 800 ml neutral oil
+  - qty: 1
+    name: tuna in olive oil
+    raw: 1 small tin tuna in olive oil
+  - qty: 1.5
+    unit: tsp
+    name: harissa
+    raw: 1 ½ teaspoons Harissa
+  - qty: 0.5
+    name: hard-boiled egg
+    raw: ½ hard-boiled egg
+  - qty: 4.5
+    name: capers
+    raw: 4-5 capers
+  - qty: 4
+    name: green olives
+    raw: 4 green olives
+  - qty: 1
+    name: preserved lemon peel
+    raw: 1 thin slice preserved lemon peel
+  - qty: 1
+    unit: tsp
+    name: parsley
+    raw: 1 teaspoon chopped parsley
+  - qty: 4
+    name: tuna
+    raw: 4 small tins tuna
+  - qty: 4
+    unit: tbsp
+    name: harissa
+    raw: 4 tablespoons Harissa
+  - qty: 4
+    name: hard-boiled eggs
+    raw: 4 hard-boiled eggs
+  - qty: 4
+    unit: tbsp
+    name: capers
+    raw: 4 tablespoons capers
+  - qty: 100
+    unit: g
+    name: olives
+    raw: 100 g olives
+  - qty: 1
+    name: preserved lemon
+    raw: 1 preserved lemon
+  - qty: 1
+    unit: handful
+    name: parsley
+    raw: A handful of parsley

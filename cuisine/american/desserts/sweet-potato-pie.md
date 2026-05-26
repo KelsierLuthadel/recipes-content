@@ -1,25 +1,3 @@
----
-prep: 30 minutes (plus 1 hour chilling)
-cook: 1 hour 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - ginger
-  - potato
-  - butter
-  - complex
-  - kwanzaa
-mentions: []
----
-
-
-
-
 # Sweet Potato Pie
 
 ![Sweet Potato Pie](resources/sweet-potato-pie.jpg)

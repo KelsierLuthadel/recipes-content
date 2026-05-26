@@ -1,0 +1,112 @@
+prep: 30 minutes
+cook: 3 hours 30 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - chili
+  - complex
+  - day-of-the-dead
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 900
+    unit: g
+    name: beef chuck roast
+    raw: 900 g boneless beef chuck roast, cut into 8 cm chunks
+  - qty: 900
+    unit: g
+    name: beef short ribs
+    raw: 900 g bone-in beef short ribs
+  - name: kosher salt
+    raw: Kosher salt
+  - qty: 3
+    name: guajillo chiles
+    raw: 3 dried guajillo chiles, deseeded
+  - qty: 3
+    name: ancho chiles
+    raw: 3 dried ancho chiles, deseeded
+  - qty: 2
+    name: pasilla chiles
+    raw: 2 dried pasilla chiles, deseeded
+  - qty: 4
+    name: arbol chiles
+    raw: 4 dried arbol chiles, deseeded
+  - qty: 1
+    name: white onion
+    raw: 1 white onion , halved
+  - qty: 1
+    name: mexican cinnamon stick
+    raw: 1 Mexican cinnamon stick
+  - qty: 6
+    unit: g
+    name: black peppercorns
+    raw: 6 g black peppercorns
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 3
+    name: chipotle peppers in adobo sauce
+    raw: 3 chipotle peppers in adobo sauce
+  - qty: 1
+    name: fire-roasted diced tomatoes
+    raw: 1 can fire-roasted diced tomatoes
+  - qty: 1
+    unit: l
+    name: beef stock
+    raw: 1 litre beef stock
+  - qty: 37.5
+    unit: ml
+    name: olive oil
+    raw: 30-45 ml olive oil
+  - qty: 30
+    unit: ml
+    name: red wine vinegar
+    raw: 30 ml red wine vinegar
+  - qty: 6
+    unit: g
+    name: mexican oregano
+    raw: 6 g dried Mexican oregano
+  - qty: 4
+    unit: g
+    name: garlic powder
+    raw: 4 g garlic powder
+  - qty: 2
+    unit: g
+    name: cumin
+    raw: 2 g ground cumin
+  - qty: 1
+    unit: g
+    name: marjoram
+    raw: 1 g dried marjoram
+  - qty: 1
+    unit: g
+    name: cloves
+    raw: 1 g ground cloves
+  - qty: 1
+    unit: g
+    name: coriander seeds
+    raw: 1 g coriander seeds
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - name: cilantro
+    raw: Fresh cilantro, chopped
+  - name: white onion
+    raw: White onion, finely diced
+  - name: lime wedges
+    raw: Lime wedges
+  - name: warm corn tortillas
+    raw: Warm corn tortillas

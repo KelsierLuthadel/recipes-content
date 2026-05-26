@@ -1,26 +1,3 @@
----
-prep: 30 minutes
-cook: 1 hour 30 minutes
-allergens:
-  - mustard
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - snack
-  - onion
-  - ginger
-  - carrot
-  - complex
-mentions:
-  - cuisine/british/snacks/pork-pie
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Ploughman's Pickle
 
 ![Ploughman's Pickle](resources/ploughmans-pickle.jpg)

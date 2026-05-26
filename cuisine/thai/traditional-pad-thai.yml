@@ -1,0 +1,87 @@
+prep: 20 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - eggs
+  - peanuts
+  - soy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - prawn
+  - eggs
+  - tofu
+  - rice
+  - onion
+  - garlic
+  - lime
+  - nuts
+mentions:
+  - sauces/sauce-fish/tamarind-sauce
+  - tutorials/pizza/sauce
+  - tutorials/stir-fry/wok-hei
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: fish sauce
+    raw: 3 tablespoons fish sauce
+  - qty: 3
+    unit: tbsp
+    name: tamarind puree
+    raw: 3 tablespoons tamarind puree
+  - qty: 3
+    unit: tbsp
+    name: palm sugar
+    raw: 3 tablespoons palm sugar
+  - qty: 2
+    unit: tbsp
+    name: pickled radish
+    raw: 2 tablespoons finely chopped pickled radish
+  - qty: 200
+    unit: g
+    name: rice stick noodles
+    raw: 200 grams dried rice stick noodles
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 400
+    unit: g
+    name: chicken thigh fillets
+    raw: 400 grams chicken thigh fillets
+  - qty: 2
+    unit: tbsp
+    name: shrimp
+    raw: 2 tablespoons dried shrimp
+  - qty: 50
+    unit: g
+    name: firm tofu
+    raw: 50 grams firm tofu
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 0.5
+    unit: cup
+    name: chinese garlic chives
+    raw: ½ cup Chinese garlic chives
+  - qty: 0.25
+    unit: cup
+    name: bean sprouts
+    raw: ¼ cup bean sprouts
+  - qty: 0.25
+    unit: cup
+    name: roasted peanuts
+    raw: ¼ cup roasted peanuts
+  - name: chilli powder
+    raw: Chilli powder
+  - name: lime wedges
+    raw: Lime wedges

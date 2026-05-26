@@ -1,0 +1,30 @@
+prep: 5 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - meat
+tags:
+  - meat
+  - fish
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30g butter
+  - qty: 30
+    unit: g
+    name: plain flour
+    raw: 30g plain flour
+  - qty: 1
+    unit: l
+    name: stock
+    raw: 1 litre cold stock
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

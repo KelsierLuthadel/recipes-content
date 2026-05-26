@@ -1,0 +1,97 @@
+prep: 45 minutes (plus 35 minutes dough rest)
+cook: 25 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 110
+    unit: ml
+    name: water
+    raw: 110 ml cold water
+  - qty: 2
+    unit: g
+    name: salt
+    raw: 2 g salt
+  - qty: 50
+    unit: ml
+    name: olive oil
+    raw: 50 ml olive oil
+  - qty: 110
+    unit: g
+    name: lamb
+    raw: 110 g lamb
+  - qty: 100
+    unit: ml
+    name: olive oil
+    raw: 100 ml olive oil
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g ginger
+  - qty: 0.5
+    name: garlic
+    raw: ½ bulb garlic
+  - qty: 1
+    name: red chilli
+    raw: 1 fresh red chilli
+  - qty: 3
+    name: tomatoes
+    raw: 3 dried tomatoes
+  - qty: 3
+    name: tomatoes
+    raw: 3 fresh tomatoes
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - qty: 2
+    name: green peppers
+    raw: 2 mild green peppers
+  - qty: 1
+    name: red sweet pepper
+    raw: 1 red sweet pepper
+  - qty: 14
+    name: yardlong beans
+    raw: 13-15 yardlong beans
+  - qty: 7
+    unit: g
+    name: salt
+    raw: 7 g salt
+  - qty: 1
+    unit: g
+    name: black pepper
+    raw: 1 g ground black pepper
+  - qty: 2
+    unit: g
+    name: white pepper
+    raw: 2 g ground white pepper
+  - qty: 3.5
+    unit: g
+    name: cumin
+    raw: 3-4 g ground cumin
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water

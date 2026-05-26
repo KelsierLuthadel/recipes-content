@@ -1,0 +1,79 @@
+prep: 20 minutes
+cook: 1 hour 45 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - rice
+  - onion
+  - potato
+  - lemon
+  - lime
+  - complex
+mentions: []
+ingredients:
+  - qty: 700
+    unit: g
+    name: lamb shoulder - 3 cm cubes
+    raw: 700 g lamb shoulder - 3 cm cubes
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 3
+    unit: tbsp
+    name: tomato puree
+    raw: 3 tablespoons tomato puree
+  - qty: 4
+    name: black limes
+    raw: 4 dried black limes
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 1.2
+    unit: l
+    name: stock
+    raw: 1.2 litres hot stock
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 200
+    unit: g
+    name: yellow split peas
+    raw: 200 g yellow split peas
+  - qty: 2
+    name: potatoes
+    raw: 2 potatoes
+  - qty: 500
+    unit: ml
+    name: vegetable oil
+    raw: 500 ml vegetable oil for frying
+  - name: salt
+    raw: Salt for finishing
+  - qty: 4
+    name: chelo rice
+    raw: 4 servings cooked chelo rice
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: herbs
+    raw: Fresh herbs

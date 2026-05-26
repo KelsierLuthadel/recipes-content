@@ -1,0 +1,107 @@
+prep: 20 minutes
+cook: 1 hour
+allergens:
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - coriander
+  - nuts
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 100
+    unit: g
+    name: coconut
+    raw: 100 g fresh grated coconut
+  - qty: 8
+    name: kashmiri chillies
+    raw: 8 dried Kashmiri chillies
+  - qty: 4
+    name: byadgi chillies
+    raw: 4 dried byadgi chillies
+  - qty: 1
+    unit: tbsp
+    name: coriander seeds
+    raw: 1 tablespoon coriander seeds
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 teaspoon fennel seeds
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    name: star anise
+    raw: 1 whole star anise
+  - qty: 1
+    name: blade of mace
+    raw: 1 blade of mace
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: tbsp
+    name: tamarind paste
+    raw: 1 tablespoon tamarind paste
+  - qty: 1
+    unit: kg
+    name: chicken thighs
+    raw: 1 kg chicken thighs
+  - qty: 3
+    unit: tbsp
+    name: coconut oil
+    raw: 3 tablespoons coconut oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 1
+    unit: tsp
+    name: palm vinegar
+    raw: 1 teaspoon palm vinegar
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of coriander

@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 5 minutes
-allergens:
-  - peanuts
-  - sesame
-  - fish
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - fish
-  - prawn
-  - garlic
-  - tomato
-  - lime
-  - nuts
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lahpet Thoke
 
 ![Lahpet Thoke](resources/lahpet-thoke.jpg)

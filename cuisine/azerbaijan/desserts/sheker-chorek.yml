@@ -1,0 +1,57 @@
+prep: 25 minutes (plus 30 minutes resting)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: unsalted butter
+    raw: 250 g unsalted butter
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar
+  - qty: 2
+    name: egg yolks
+    raw: 2 egg yolks
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    unit: tbsp
+    name: milk
+    raw: 1 tablespoon milk
+  - qty: 2
+    unit: tsp
+    name: sesame seeds
+    raw: 2 teaspoons sesame seeds
+  - qty: 1
+    unit: tsp
+    name: nigella seeds
+    raw: 1 teaspoon nigella seeds

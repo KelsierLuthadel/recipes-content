@@ -1,34 +1,3 @@
----
-prep: 45 minutes (plus 30 minutes resting)
-cook: 35-40 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-  - meat
-  - mustard
-  - garlic
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - pork
-  - eggs
-  - mushroom
-  - onion
-  - garlic
-  - butter
-  - nuts
-  - complex
-  - valentines
-mentions: []
----
-
-
-
-
 # Beef Wellington
 
 ![Beef Wellington](resources/beef-wellington.jpg)

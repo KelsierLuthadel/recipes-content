@@ -1,0 +1,73 @@
+prep: 10 minutes (plus 20 minutes salting)
+cook: 25 minutes
+allergens:
+  - peanuts
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - fish
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - nuts
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: aubergine
+    raw: 600 g aubergine
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 teaspoon Kashmiri chilli powder
+  - qty: 2
+    unit: tbsp
+    name: fish sauce
+    raw: 2 tablespoons fish sauce
+  - qty: 1
+    unit: tbsp
+    name: palm sugar
+    raw: 1 tablespoon palm sugar
+  - qty: 60
+    unit: ml
+    name: water
+    raw: 60 ml hot water
+  - qty: 3
+    unit: tbsp
+    name: unsalted peanuts
+    raw: 3 tablespoons unsalted peanuts
+  - qty: 2
+    unit: tbsp
+    name: crispy fried shallots
+    raw: 2 tablespoons crispy fried shallots
+  - qty: 1
+    unit: small handful
+    name: cilantro
+    raw: 1 small handful fresh cilantro

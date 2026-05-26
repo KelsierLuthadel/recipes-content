@@ -1,0 +1,82 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - peanuts
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - ginger
+  - nuts
+  - chili
+  - soy-sauce
+  - lunar-new-year
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: chicken breasts
+    raw: 2 bone-in, skin-on chicken breasts
+  - qty: 1
+    unit: tbsp
+    name: shaoxing wine
+    raw: 1 tbsp Shaoxing wine
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tbsp grated ginger
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 60
+    unit: ml
+    name: reserved chicken steaming juices
+    raw: 60 ml reserved chicken steaming juices, cooled
+  - qty: 30
+    unit: ml
+    name: chinkiang black vinegar
+    raw: 30 ml Chinkiang black vinegar
+  - qty: 30
+    unit: ml
+    name: light soy sauce
+    raw: 30 ml light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: granulated sugar
+    raw: 1 tbsp granulated sugar
+  - qty: 1
+    unit: tbsp
+    name: sichuan pepper oil
+    raw: 1 tbsp Sichuan pepper oil
+  - qty: 2
+    unit: tsp
+    name: chinese stone-ground sesame paste
+    raw: 2 tsp Chinese stone-ground sesame paste
+  - qty: 1
+    unit: tsp
+    name: roasted sesame oil
+    raw: 1 tsp roasted sesame oil
+  - qty: 60
+    unit: ml
+    name: chilli oil with crisp sediment
+    raw: 60 ml chilli oil with crisp sediment
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, green parts only, thinly sliced
+  - qty: 1
+    unit: tbsp
+    name: roasted peanuts
+    raw: 1 tbsp roasted peanuts, roughly chopped
+  - qty: 0.5
+    unit: tsp
+    name: toasted sesame seeds
+    raw: ½ tsp toasted sesame seeds

@@ -1,0 +1,39 @@
+prep: 5 minutes
+cook: 2 hours
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - duck
+  - onion
+  - ginger
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: duck
+    raw: 1 whole duck
+  - qty: 2
+    unit: tbsp
+    name: five spice powder
+    raw: 2 tablespoons five spice powder
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tablespoons salt
+  - qty: 4
+    name: ginger
+    raw: 4 slices fresh ginger
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    unit: l
+    name: oil
+    raw: 1 litre oil

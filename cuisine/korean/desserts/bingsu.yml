@@ -1,0 +1,54 @@
+prep: 20 minutes (most components made ahead)
+cook: 0 minutes (assembly only)
+allergens:
+  - gluten
+  - dairy
+  - soy
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - make-ahead
+mentions:
+  - cuisine/chinese/side-dishes/rice-cake
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 2
+    unit: tbsp
+    name: sweetened condensed milk
+    raw: 2 tablespoons sweetened condensed milk
+  - qty: 200
+    unit: g
+    name: pre-cooked sweetened azuki
+    raw: 200 g pre-cooked sweetened azuki
+  - qty: 100
+    unit: g
+    name: strawberries
+    raw: 100 g fresh strawberries
+  - qty: 100
+    unit: g
+    name: blueberries
+    raw: 100 g blueberries
+  - qty: 50
+    unit: g
+    name: mochi pieces
+    raw: 50 g mochi pieces
+  - qty: 50
+    unit: g
+    name: sweet rice cake cut into 1 cm cubes
+    raw: 50 g sweet rice cake cut into 1 cm cubes
+  - qty: 3
+    unit: tbsp
+    name: sweetened condensed milk
+    raw: 3 tablespoons sweetened condensed milk
+  - qty: 2
+    unit: tbsp
+    name: injeolmi powder
+    raw: 2 tablespoons injeolmi powder
+  - qty: 1
+    name: vanilla ice cream
+    raw: 1 scoop vanilla ice cream

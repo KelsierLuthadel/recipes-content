@@ -1,28 +1,3 @@
----
-prep: 25 minutes
-cook: 2 hours
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - celery
-  - garlic
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - garlic
-  - tomato
-  - potato
-  - carrot
-  - complex
-mentions: []
----
-
-
-
-
 # Borscht
 
 ![Borscht](resources/borscht.jpg)

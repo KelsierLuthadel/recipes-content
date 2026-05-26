@@ -1,34 +1,3 @@
----
-prep: 20 minutes
-cook: 1 hour 30 minutes
-allergens:
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - ginger
-  - coconut
-  - lime
-  - coriander
-  - chili
-  - curry
-  - complex
-mentions: []
----
-
-
-
-
 # Mutton Sukka
 
 ![Mutton Sukka](resources/mutton-sukka.jpg)

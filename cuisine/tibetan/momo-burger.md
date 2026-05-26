@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 10 minutes
-allergens:
-  - gluten
-  - soy
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - quick
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - beef
-  - onion
-  - garlic
-  - ginger
-  - soy-sauce
-mentions:
-  - bread-pasta/burger-buns
-  - cuisine/tibetan/side-dishes/sepen
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tibetan Momo Burger
 
 ![Tibetan Momo Burger](resources/momo-burger.jpg)

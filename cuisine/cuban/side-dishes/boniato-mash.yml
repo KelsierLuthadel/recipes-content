@@ -1,0 +1,52 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - garlic
+  - potato
+  - lime
+  - coriander
+  - butter
+mentions:
+  - cuisine/cuban/mojo-pork
+ingredients:
+  - qty: 1
+    unit: kg
+    name: boniato
+    raw: 1 kg boniato
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: sour orange juice
+    raw: 3 tablespoons sour orange juice
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon fresh coriander

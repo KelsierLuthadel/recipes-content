@@ -1,0 +1,41 @@
+prep: 30 minutes
+cook: 55 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - butter
+mentions: []
+ingredients:
+  - qty: 300
+    unit: g
+    name: shortcrust pastry
+    raw: 300 grams shortcrust pastry
+  - qty: 6
+    name: dessert apples
+    raw: 6 dessert apples
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 grams butter
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 grams caster sugar
+  - qty: 50
+    unit: ml
+    name: water
+    raw: 50 ml water
+  - qty: 40
+    unit: ml
+    name: water
+    raw: 40 ml water
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 grams caster sugar

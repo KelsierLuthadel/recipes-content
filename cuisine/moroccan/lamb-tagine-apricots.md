@@ -1,34 +1,3 @@
----
-prep: 20 minutes
-cook: 2 ¼ hours
-allergens:
-  - gluten
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - make-ahead
-  - meals
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - ginger
-  - coriander
-  - honey
-  - nuts
-  - complex
-  - eid-al-adha
-  - ramadan
-  - muslim
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lamb Tagine with Apricots and Almonds
 
 ![Lamb Tagine with Apricots and Almonds](resources/lamb-tagine-apricots.jpg)

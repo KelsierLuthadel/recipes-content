@@ -1,30 +1,3 @@
----
-prep: 25 minutes
-cook: 2 hours 30 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - meat
-  - chicken
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - potato
-  - lime
-  - coriander
-  - complex
-mentions:
-  - cuisine/colombian/side-dishes/hogao
----
-
-
-
-
 # Sancocho de Gallina
 
 ![Sancocho de Gallina](resources/sancocho-de-gallina.jpg)

@@ -1,0 +1,32 @@
+prep: 15 minutes
+allergens:
+  - peanuts
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: red wine vinegar
+    raw: 1 tablespoon red wine vinegar
+  - qty: 3
+    unit: tbsp
+    name: neutral oil
+    raw: 3 tablespoons neutral oil
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
+  - qty: 1
+    unit: pinch
+    name: black pepper
+    raw: Pinch of freshly ground black pepper

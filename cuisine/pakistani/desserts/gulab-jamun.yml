@@ -1,0 +1,80 @@
+prep: 25 minutes
+cook: 25 minutes (plus 30 minutes soaking)
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - lemon
+  - nuts
+  - complex
+  - diwali
+  - eid-al-fitr
+  - ramadan
+  - holi
+  - muslim
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 200
+    unit: g
+    name: khoya
+    raw: 200 g khoya
+  - qty: 60
+    unit: g
+    name: plain flour
+    raw: 60 g plain flour
+  - qty: 1
+    unit: tbsp
+    name: semolina
+    raw: 1 tablespoon fine semolina
+  - qty: 0.5
+    unit: tsp
+    name: baking powder
+    raw: ½ teaspoon baking powder
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 1
+    unit: tbsp
+    name: ghee
+    raw: 1 tablespoon ghee
+  - qty: 75
+    unit: ml
+    name: milk
+    raw: 60-90 ml whole milk
+  - qty: 400
+    unit: g
+    name: caster sugar
+    raw: 400 g caster sugar
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - qty: 1
+    unit: tsp
+    name: rosewater
+    raw: 1 teaspoon rosewater
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: A pinch of saffron threads
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - name: vegetable oil
+    raw: Vegetable oil
+  - name: pistachios and rose petals
+    raw: A few pistachios and rose petals

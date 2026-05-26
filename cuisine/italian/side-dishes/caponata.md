@@ -1,29 +1,3 @@
----
-prep: 25 minutes (plus 30 min salting)
-cook: 45 minutes
-allergens:
-  - gluten
-  - tree-nuts
-  - celery
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - make-ahead
-  - sides
-  - onion
-  - garlic
-  - tomato
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Caponata
 
 ![Caponata](resources/caponata.jpg)

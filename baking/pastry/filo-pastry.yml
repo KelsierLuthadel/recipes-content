@@ -1,0 +1,31 @@
+prep: 15 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - make-ahead
+  - baking
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 grams plain flour
+  - qty: 6
+    unit: g
+    name: salt
+    raw: 6 grams fine salt
+  - qty: 330
+    unit: ml
+    name: water
+    raw: 330 ml water
+  - qty: 30
+    unit: ml
+    name: olive oil
+    raw: 30 ml olive oil
+  - name: cornflour
+    raw: cornflour

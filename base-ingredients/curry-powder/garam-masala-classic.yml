@@ -1,0 +1,52 @@
+prep: 10 minutes
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - coriander
+  - chili
+  - curry
+mentions: []
+ingredients:
+  - qty: 10
+    name: red chillies
+    raw: 10 dried red chillies
+  - qty: 2
+    name: cinnamon sticks
+    raw: 2 cinnamon sticks
+  - qty: 2
+    name: curry leaves
+    raw: 2 curry leaves
+  - qty: 2
+    unit: tbsp
+    name: coriander seeds
+    raw: 2 tablespoons coriander seeds
+  - qty: 2
+    unit: tbsp
+    name: cumin seeds
+    raw: 2 tablespoons cumin seeds
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 teaspoon cloves
+  - qty: 1
+    unit: tsp
+    name: fenugreek seeds
+    raw: 1 teaspoon fenugreek seeds
+  - qty: 1
+    unit: tsp
+    name: black mustard seeds
+    raw: 1 teaspoon black mustard seeds
+  - qty: 0.25
+    unit: tsp
+    name: chilli powder
+    raw: ¼ teaspoon chilli powder

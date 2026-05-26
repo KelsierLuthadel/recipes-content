@@ -1,0 +1,107 @@
+prep: 30 minutes (plus 1 hour dough resting)
+cook: 25 minutes (in batches)
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - asian
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chili
+  - soy-sauce
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: neutral oil
+    raw: 2 tablespoons neutral oil
+  - qty: 180
+    unit: ml
+    name: water
+    raw: 180 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: oil
+    raw: 2 tablespoons oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 20
+    unit: g
+    name: ginger
+    raw: 20 g fresh ginger
+  - qty: 300
+    unit: g
+    name: beef mince
+    raw: 300 g beef mince
+  - qty: 2
+    unit: tsp
+    name: curry powder
+    raw: 2 teaspoons Curry Powder
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 20
+    unit: g
+    name: coriander
+    raw: 20 g fresh coriander
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 4
+    unit: tbsp
+    name: neutral oil
+    raw: 4 tablespoons neutral oil
+  - name: sweet soy chilli sauce
+    raw: Sweet soy chilli sauce
+  - name: cucumber slices
+    raw: Cucumber slices
+  - name: pickled chillies in vinegar
+    raw: Pickled chillies in vinegar

@@ -1,0 +1,88 @@
+prep: 20 minutes (plus 30 minutes soaking)
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - cream
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: day-old french bread
+    raw: 500 g day-old French bread , torn into 3 cm chunks
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 150
+    unit: g
+    name: soft light brown sugar
+    raw: 150 g soft light brown sugar
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 2
+    unit: tsp
+    name: vanilla extract
+    raw: 2 teaspoons vanilla extract
+  - qty: 1.5
+    unit: tsp
+    name: cinnamon
+    raw: 1 ½ teaspoons ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon fine salt
+  - qty: 100
+    unit: g
+    name: raisins
+    raw: 100 g raisins
+  - qty: 75
+    unit: g
+    name: pecans
+    raw: 75 g pecans, toasted and roughly chopped
+  - qty: 25
+    unit: g
+    name: butter
+    raw: 25 g butter, for greasing the dish
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 80
+    unit: ml
+    name: bourbon
+    raw: 80 ml bourbon
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt

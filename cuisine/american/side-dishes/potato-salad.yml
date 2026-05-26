@@ -1,0 +1,72 @@
+prep: 20 minutes
+cook: 20 minutes
+allergens:
+  - eggs
+  - mustard
+  - celery
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - bbq
+  - eggs
+  - onion
+  - potato
+mentions:
+  - cuisine/american/pulled-pork
+ingredients:
+  - qty: 1
+    unit: kg
+    name: waxy potatoes
+    raw: 1 kg waxy potatoes , peeled and cubed
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 2
+    name: celery sticks
+    raw: 2 celery sticks, finely diced
+  - qty: 0.5
+    name: red onion
+    raw: ½ small red onion, finely diced
+  - qty: 3
+    unit: tbsp
+    name: dill pickles
+    raw: 3 tbsp dill pickles, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: dill
+    raw: 2 tbsp fresh dill , chopped
+  - qty: 200
+    unit: g
+    name: mayonnaise
+    raw: 200 g good-quality mayonnaise
+  - qty: 2
+    unit: tbsp
+    name: dijon mustard
+    raw: 2 tbsp Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: yellow american mustard
+    raw: 1 tbsp yellow American mustard
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar
+    raw: 2 tbsp white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 tsp caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ tsp fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp freshly ground black pepper
+  - name: smoked paprika
+    raw: Smoked paprika, for dusting
+  - name: snipped chives
+    raw: Snipped chives

@@ -1,0 +1,102 @@
+prep: 30 minutes (plus 1 hour mince marinating)
+cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - snack
+  - bbq
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - lime
+  - coriander
+  - yogurt
+  - chickpea
+  - chili
+  - complex
+  - eid-al-adha
+  - ramadan
+  - muslim
+mentions:
+  - cuisine/azerbaijan/side-dishes/lavash
+  - cuisine/indian/sauces-pickles/mint-chutney
+ingredients:
+  - qty: 500
+    unit: g
+    name: lamb mince
+    raw: 500 g lamb mince
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: ginger
+    raw: 3 cm fresh ginger
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tablespoons fresh coriander
+  - qty: 2
+    unit: tbsp
+    name: mint
+    raw: 2 tablespoons fresh mint
+  - qty: 1.5
+    unit: tsp
+    name: garam masala
+    raw: 1 ½ teaspoons Garam Masala
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: kashmiri red chilli powder
+    raw: ½ teaspoon Kashmiri red chilli powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tbsp
+    name: chickpea flour
+    raw: 1 tablespoon chickpea flour
+  - qty: 4
+    name: paratha
+    raw: 4 paratha
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 6
+    unit: tbsp
+    name: mint-coriander chutney
+    raw: 6 tablespoons mint-coriander chutney
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - qty: 1
+    unit: tsp
+    name: chaat masala
+    raw: 1 teaspoon Chaat Masala

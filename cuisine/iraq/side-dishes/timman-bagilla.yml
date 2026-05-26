@@ -1,0 +1,52 @@
+prep: 10 minutes (plus 20 minutes soaking)
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - rice
+  - onion
+  - butter
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: basmati rice
+    raw: 400 g basmati rice
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 4
+    unit: tbsp
+    name: unsalted butter
+    raw: 4 tablespoons unsalted butter
+  - qty: 300
+    unit: g
+    name: broad beans
+    raw: 300 g frozen broad beans
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 750
+    unit: ml
+    name: stock
+    raw: 750 ml hot stock
+  - qty: 4
+    unit: tbsp
+    name: dill
+    raw: 4 tablespoons fresh dill
+  - qty: 3
+    unit: tbsp
+    name: parsley
+    raw: 3 tablespoons fresh parsley
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper

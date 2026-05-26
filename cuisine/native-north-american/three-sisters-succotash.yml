@@ -1,0 +1,70 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - onion
+  - garlic
+  - butter
+mentions:
+  - cuisine/american/side-dishes/cornbread
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: unsalted butter
+    raw: 2 tablespoons unsalted butter
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 600
+    unit: g
+    name: butternut
+    raw: 600 g butternut
+  - qty: 400
+    unit: g
+    name: corn kernels
+    raw: 400 g corn kernels
+  - qty: 400
+    unit: g
+    name: red kidney
+    raw: 400 g tin red kidney
+  - qty: 350
+    unit: ml
+    name: vegetable stock
+    raw: 350 ml vegetable stock
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 4
+    name: sage leaves or 1 teaspoon dried
+    raw: 4 sage leaves or 1 teaspoon dried
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon dried thyme
+  - qty: 2
+    unit: tbsp
+    name: maple syrup
+    raw: 2 tablespoons maple syrup
+  - qty: 1
+    unit: tbsp
+    name: cider vinegar
+    raw: 1 tablespoon cider vinegar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch flat-leaf parsley

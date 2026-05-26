@@ -1,24 +1,3 @@
----
-prep: 30 minutes
-cook: 105 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - onion
-  - tomato
-  - ginger
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Pear Chutney
 
 ![Pear chutney](resources/Pear-chutney.png)

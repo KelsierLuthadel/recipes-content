@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 2 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - spicy
-  - quick
-  - onion
-  - coriander
-  - butter
-  - chili
-mentions:
-  - cuisine/indian/Breads/rotis
-  - tutorials/pizza/dough
----
-
-
-
-
 # Missi Rotis
 
 ![Missi Rotis](resources/missi-rotis.jpg)

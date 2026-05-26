@@ -1,0 +1,58 @@
+prep: 15 minutes
+cook: none
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - carrot
+  - lemon
+  - cream
+mentions: []
+ingredients:
+  - qty: 3
+    name: carrots
+    raw: 3 carrots
+  - qty: 1
+    name: tart apple
+    raw: 1 tart apple
+  - qty: 200
+    unit: g
+    name: white cabbage
+    raw: 200 g white cabbage
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 150
+    unit: g
+    name: sour cream
+    raw: 150 g full-fat sour cream
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons fresh lemon juice
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon fine salt
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: raisins
+    raw: 2 tablespoons raisins
+  - qty: 1
+    unit: tbsp
+    name: sunflower seeds
+    raw: 1 tablespoon sunflower seeds
+  - qty: 1
+    unit: tbsp
+    name: parsley
+    raw: 1 tablespoon fresh parsley

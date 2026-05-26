@@ -1,32 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - coriander
-  - yogurt
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Dopiaza
 
 ![Chicken Dopiaza](resources/BIR-chicken-dopiaza.jpg)
@@ -54,7 +25,7 @@ A vibrant do-piaza curry based on layered onion textures and warming spices. Thi
 - 3 tbsp garlic and ginger paste
 - 2 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md)
 - 1 tsp ground cumin
-- 1-2 tsp mild (or hot chilli powder), to taste
+- 1-2 tsp chilli powder
 - 125 ml (½ cup) tomato purée
 
 ### Sauce and chicken

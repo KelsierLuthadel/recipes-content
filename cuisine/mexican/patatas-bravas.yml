@@ -1,0 +1,62 @@
+prep: 15 minutes
+cook: 50 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - onion
+  - garlic
+  - tomato
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tbsp olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 227
+    unit: g
+    name: tomatoes
+    raw: 227g tin chopped tomatoes
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tbsp tomato purée
+  - qty: 2
+    unit: tsp
+    name: sweet paprika
+    raw: 2 tsp sweet paprika
+  - qty: 1
+    unit: good pinch
+    name: chilli powder
+    raw: Good pinch chilli powder
+  - qty: 1
+    unit: pinch
+    name: sugar
+    raw: Pinch sugar
+  - name: sea salt
+    raw: Sea salt to taste
+  - qty: 900
+    unit: g
+    name: potatoes
+    raw: 900g potatoes
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - name: sea salt and black pepper
+    raw: Sea salt and black pepper to taste
+  - name: parsley
+    raw: Fresh parsley

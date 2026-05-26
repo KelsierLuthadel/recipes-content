@@ -1,0 +1,89 @@
+prep: 20 minutes (plus 1 hour chilling)
+cook: 2 ½ hours
+allergens:
+  - eggs
+  - meat
+  - celery
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - ginger
+  - carrot
+  - complex
+  - passover
+  - yom-kippur
+  - sukkot
+  - jewish
+mentions: []
+ingredients:
+  - qty: 1
+    name: chicken
+    raw: 1 whole chicken
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 3
+    name: carrots
+    raw: 3 carrots
+  - qty: 3
+    name: celery sticks
+    raw: 3 celery sticks
+  - qty: 1
+    name: parsley stalks
+    raw: 1 small bunch of parsley stalks
+  - qty: 1
+    name: dill stalks
+    raw: 1 small bunch of dill stalks
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 3
+    unit: l
+    name: water
+    raw: 3 litres cold water
+  - qty: 120
+    unit: g
+    name: matzo meal
+    raw: 120 g matzo meal
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 60
+    unit: g
+    name: schmaltz melted
+    raw: 60 g schmaltz melted
+  - qty: 4
+    unit: tbsp
+    name: sparkling water
+    raw: 4 tablespoons sparkling water
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - name: black pepper
+    raw: A generous grind of black pepper
+  - qty: 1
+    unit: small pinch
+    name: ginger
+    raw: A small pinch of ground ginger
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 2
+    unit: tbsp
+    name: dill
+    raw: 2 tablespoons chopped fresh dill

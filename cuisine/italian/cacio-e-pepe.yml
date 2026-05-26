@@ -1,0 +1,29 @@
+prep: 5 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - meals
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: spaghetti
+    raw: 200 g spaghetti
+  - qty: 100
+    unit: g
+    name: pecorino romano
+    raw: 100 g pecorino romano
+  - qty: 2
+    unit: tsp
+    name: cracked black peppercorns
+    raw: 2 teaspoons coarsely cracked black peppercorns
+  - name: salt for the pasta water
+    raw: Salt for the pasta water

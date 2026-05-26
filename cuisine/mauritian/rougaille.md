@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 40 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - one-pan
-  - meals
-  - meat
-  - pork
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coriander
-  - chili
-mentions:
-  - cuisine/mauritian/dholl-puri
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Rougaille Saucisse
 
 ![Rougaille Saucisse](resources/rougaille.jpg)

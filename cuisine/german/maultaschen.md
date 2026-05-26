@@ -1,27 +1,3 @@
----
-prep: 50 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - meals
-  - eggs
-  - onion
-  - spinach
-  - butter
-  - cheese
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Maultaschen
 
 ![Maultaschen](resources/maultaschen.jpg)

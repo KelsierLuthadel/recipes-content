@@ -1,30 +1,3 @@
----
-prep: 10 minutes
-cook: 5 minutes (just for the syrup)
-allergens:
-  - peanuts
-  - sesame
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - sides
-  - asian
-  - onion
-  - coriander
-  - nuts
-  - chili
-mentions:
-  - cuisine/chinese/snacks/spring-rolls
----
-
-
-
-
 # Ajad
 
 ![Ajad](resources/ajad.jpg)

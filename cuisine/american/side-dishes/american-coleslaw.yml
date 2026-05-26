@@ -1,0 +1,66 @@
+prep: 20 minutes (plus 30 minutes resting)
+cook: 0 minutes
+allergens:
+  - dairy
+  - mustard
+  - celery
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - sides
+  - onion
+  - carrot
+  - cream
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: green cabbage
+    raw: 500 g green cabbage
+  - qty: 200
+    unit: g
+    name: red cabbage
+    raw: 200 g red cabbage
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 6
+    unit: tbsp
+    name: mayonnaise
+    raw: 6 tablespoons mayonnaise
+  - qty: 3
+    unit: tbsp
+    name: sour cream
+    raw: 3 tablespoons sour cream
+  - qty: 2
+    unit: tbsp
+    name: cider vinegar
+    raw: 2 tablespoons cider vinegar
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 1
+    unit: tsp
+    name: celery seed
+    raw: 1 teaspoon celery seed
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper

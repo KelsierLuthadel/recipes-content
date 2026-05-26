@@ -1,0 +1,104 @@
+prep: 40 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - sesame
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: lamb mince
+    raw: 500 g lamb mince
+  - qty: 3
+    unit: tbsp
+    name: ghee
+    raw: 3 tablespoons ghee
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: baharat
+    raw: 2 tablespoons Baharat
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 50
+    unit: g
+    name: pine nuts
+    raw: 50 g pine nuts
+  - qty: 50
+    unit: g
+    name: flaked almonds
+    raw: 50 g flaked almonds
+  - qty: 150
+    unit: g
+    name: peas
+    raw: 150 g frozen peas
+  - qty: 3
+    unit: tbsp
+    name: parsley
+    raw: 3 tablespoons fresh parsley
+  - qty: 300
+    unit: g
+    name: basmati rice
+    raw: 300 g basmati rice
+  - qty: 2
+    unit: tbsp
+    name: ghee
+    raw: 2 tablespoons ghee
+  - qty: 600
+    unit: ml
+    name: lamb stock
+    raw: 600 ml hot lamb stock
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cardamom pods
+    raw: 4 cardamom pods
+  - qty: 12
+    name: sheets phyllo pastry
+    raw: 12 sheets phyllo pastry
+  - qty: 100
+    unit: g
+    name: ghee
+    raw: 100 g ghee
+  - qty: 2
+    unit: tbsp
+    name: sesame seeds
+    raw: 2 tablespoons sesame seeds

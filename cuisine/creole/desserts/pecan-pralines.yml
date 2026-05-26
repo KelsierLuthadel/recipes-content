@@ -1,0 +1,43 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - butter
+  - cream
+  - nuts
+  - kwanzaa
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: pecan halves
+    raw: 200 g pecan halves
+  - qty: 200
+    unit: g
+    name: light brown sugar
+    raw: 200 g light brown sugar
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 180
+    unit: ml
+    name: double cream
+    raw: 180 ml double cream
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt

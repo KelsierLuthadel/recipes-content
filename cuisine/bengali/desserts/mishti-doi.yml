@@ -1,0 +1,34 @@
+prep: 20 minutes (plus 8-12 hours fermentation and 4 hours chilling)
+cook: 30 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - yogurt
+  - complex
+mentions:
+  - cuisine/bengali/desserts/rasgulla
+  - cuisine/bengali/desserts/sandesh
+ingredients:
+  - qty: 1.5
+    unit: l
+    name: milk
+    raw: 1 ½ litres whole milk
+  - qty: 200
+    unit: g
+    name: jaggery
+    raw: 200 g jaggery , preferably date palm jaggery , broken into pieces
+  - qty: 50
+    unit: g
+    name: sugar
+    raw: 50 g sugar
+  - qty: 3
+    unit: tbsp
+    name: live full-fat plain yoghurt
+    raw: 3 tbsp live full-fat plain yoghurt
+  - qty: 2
+    name: green cardamom pods
+    raw: 2 green cardamom pods

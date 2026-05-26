@@ -1,37 +1,3 @@
----
-prep: 25 minutes
-cook: 50 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - fish
-  - meat
-  - garlic
-tags:
-  - spicy
-  - meals
-  - meat
-  - fish
-  - chicken
-  - eggs
-  - onion
-  - garlic
-  - ginger
-  - coconut
-  - lime
-  - coriander
-  - chickpea
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Ohn No Khao Swè
 
 ![Ohn No Khao Swè](resources/ohn-no-khao-swe.jpg)

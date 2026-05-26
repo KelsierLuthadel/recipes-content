@@ -1,0 +1,80 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - dairy
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - onion
+  - garlic
+  - carrot
+  - butter
+  - cream
+  - honey
+  - complex
+  - halloween
+mentions: []
+ingredients:
+  - qty: 1
+    name: pumpkin
+    raw: 1 medium pumpkin
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 1
+    unit: tbsp
+    name: honey
+    raw: 1 tablespoon honey
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    name: celery stick
+    raw: 1 celery stick
+  - qty: 1
+    unit: sprig
+    name: thyme
+    raw: 1 sprig of thyme
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1.2
+    unit: l
+    name: vegetable or chicken stock
+    raw: 1.2 litres vegetable or chicken stock
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - name: sea salt and black pepper
+    raw: Fine sea salt and black pepper
+  - qty: 2
+    unit: tbsp
+    name: pumpkin seeds
+    raw: 2 tablespoons pumpkin seeds
+  - qty: 1
+    unit: drizzle
+    name: double cream
+    raw: A drizzle of double cream
+  - qty: 1
+    unit: handful
+    name: flat-leaf parsley
+    raw: A handful of chopped flat-leaf parsley

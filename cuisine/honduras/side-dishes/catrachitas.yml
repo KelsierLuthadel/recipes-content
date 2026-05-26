@@ -1,0 +1,42 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - onion
+  - tomato
+  - coriander
+  - cheese
+mentions:
+  - cuisine/mexican/side-dishes/refried-beans
+  - tutorials/pizza/cheese
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 12
+    name: corn tortillas
+    raw: 12 corn tortillas
+  - qty: 300
+    unit: ml
+    name: vegetable oil for shallow frying
+    raw: 300 ml vegetable oil for shallow frying
+  - qty: 200
+    unit: g
+    name: warm refried beans
+    raw: 200 g warm refried beans
+  - qty: 150
+    unit: g
+    name: queso fresco
+    raw: 150 g queso fresco, cotija cheese
+  - qty: 100
+    unit: ml
+    name: chimol or salsa picante
+    raw: 100 ml chimol or salsa picante
+  - qty: 1
+    name: avocado
+    raw: 1 avocado
+  - name: salt
+    raw: Salt

@@ -1,0 +1,67 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - curry
+mentions:
+  - cuisine/indian/BIR-Chicken-Dhansak
+  - cuisine/indian/BIR-Chicken-Jalfrezi
+  - cuisine/indian/BIR-Chicken-Korma
+  - cuisine/indian/BIR-Chicken-Vindaloo
+  - cuisine/indian/Spice-Mixes/base-curry-powder
+  - cuisine/indian/Spice-Mixes/madrass-mix
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: ml
+    name: base gravy
+    raw: 500 ml base gravy, warmed
+  - qty: 300
+    unit: g
+    name: pre-cooked chicken
+    raw: 300 g pre-cooked chicken, in bite-sized pieces
+  - qty: 4
+    unit: tsp
+    name: madras spice mix
+    raw: 4 tsp madras spice mix
+  - qty: 2
+    unit: tsp
+    name: base curry powder
+    raw: 2 tsp base curry powder
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 2
+    unit: tsp
+    name: garlic-ginger paste
+    raw: 2 tsp garlic-ginger paste
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tbsp tomato puree
+  - qty: 1
+    unit: tsp
+    name: white wine vinegar
+    raw: 1 tsp white wine vinegar
+  - qty: 1
+    name: green chilli
+    raw: 1 fresh green chilli, finely chopped
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 0.25
+    unit: tsp
+    name: garam masala
+    raw: ¼ tsp garam masala
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: Handful fresh coriander, chopped
+  - qty: 1
+    unit: squeeze
+    name: lemon
+    raw: Squeeze of lemon

@@ -1,0 +1,45 @@
+prep: 30 minutes
+cook: 2 hours (much of it under the grill)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - coconut
+  - complex
+mentions: []
+ingredients:
+  - qty: 12
+    name: egg yolks
+    raw: 12 egg yolks
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 350
+    unit: g
+    name: caster sugar
+    raw: 350 g caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 0.25
+    unit: tsp
+    name: cardamom
+    raw: ¼ teaspoon ground cardamom
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 250
+    unit: g
+    name: ghee
+    raw: 250 g ghee

@@ -1,26 +1,3 @@
----
-prep: 1 hour (plus 30 minutes resting)
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - asian
-  - coconut
-  - nuts
-  - complex
-  - holi
-  - hindu
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Gujiya
 
 ![Gujiya](resources/gujiya.jpg)

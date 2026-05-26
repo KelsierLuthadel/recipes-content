@@ -1,0 +1,56 @@
+prep: 10 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - spices
+  - chili
+mentions:
+  - cuisine/cajun/jambalaya
+  - cuisine/creole/shrimp-creole
+ingredients:
+  - qty: 5
+    unit: tbsp
+    name: paprika
+    raw: 5 tablespoons paprika
+  - qty: 3
+    unit: tbsp
+    name: sea salt
+    raw: 3 tablespoons fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: onion powder
+    raw: 2 tablespoons onion powder
+  - qty: 2
+    unit: tbsp
+    name: garlic powder
+    raw: 2 tablespoons garlic powder
+  - qty: 2
+    unit: tbsp
+    name: oregano
+    raw: 2 tablespoons dried oregano
+  - qty: 2
+    unit: tbsp
+    name: basil
+    raw: 2 tablespoons dried basil
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon dried thyme
+  - qty: 1
+    unit: tbsp
+    name: black pepper
+    raw: 1 tablespoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: white pepper
+    raw: 1 tablespoon white pepper
+  - qty: 1
+    unit: tbsp
+    name: cayenne pepper
+    raw: 1 tablespoon cayenne pepper

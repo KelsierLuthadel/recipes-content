@@ -1,34 +1,3 @@
----
-prep: 45 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - make-ahead
-  - sides
-  - asian
-  - meat
-  - beef
-  - lamb
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - chili
-  - complex
-mentions:
-  - cuisine/indian/sauces-pickles/mint-chutney
-  - cuisine/indian/snacks/samosa
----
-
-
-
-
 # Keema Samosa
 
 ![Keema Samosa](resources/keema-samosa.jpg)

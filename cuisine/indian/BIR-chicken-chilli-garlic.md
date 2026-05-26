@@ -1,32 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - coriander
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Chilli Garlic
 
 ![Chicken Chilli Garlic](resources/BIR-chicken-chilli-garlic.jpg)

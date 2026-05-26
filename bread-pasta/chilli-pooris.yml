@@ -1,0 +1,44 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - quick
+  - chili
+mentions:
+  - cuisine/indian/Breads/chilli pooris
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 115
+    unit: g
+    name: plain all-purpose flour
+    raw: 115 grams plain all-purpose flour
+  - qty: 115
+    unit: g
+    name: wholemeal flour
+    raw: 115 grams wholemeal flour
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: chilli powder
+    raw: ½ teaspoon mild chilli powder
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: red chilli
+    raw: 1 fresh red chilli
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - name: vegetable oil
+    raw: Vegetable oil

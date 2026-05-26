@@ -1,0 +1,80 @@
+prep: 10 minutes
+cook: 2 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - butter
+  - yogurt
+mentions:
+  - cuisine/indian/butter-chicken
+ingredients:
+  - qty: 400
+    unit: g
+    name: pre-cooked chicken
+    raw: 400 g Pre-Cooked Chicken
+  - qty: 2
+    unit: tbsp
+    name: yogurt
+    raw: 2 tbsp yogurt
+  - qty: 1
+    unit: tbsp
+    name: ginger-garlic paste
+    raw: 1 tbsp ginger-garlic paste
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 tsp chilli powder
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp Garam Masala
+  - name: salt
+    raw: Salt
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tbsp butter
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: tbsp
+    name: ginger-garlic paste
+    raw: 1 tbsp ginger-garlic paste
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 250
+    unit: ml
+    name: curry base gravy
+    raw: 250ml Curry Base Gravy
+  - qty: 3
+    unit: tbsp
+    name: cream
+    raw: 3 tbsp cream
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tbsp butter
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 0.5
+    unit: tsp
+    name: garam masala
+    raw: ½ tsp Garam Masala

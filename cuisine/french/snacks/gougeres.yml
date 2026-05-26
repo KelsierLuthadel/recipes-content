@@ -1,0 +1,72 @@
+prep: 25 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - butter
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 125
+    unit: ml
+    name: milk
+    raw: 125 ml whole milk
+  - qty: 125
+    unit: ml
+    name: water
+    raw: 125 ml water
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: pinch
+    name: caster sugar
+    raw: A pinch of caster sugar
+  - qty: 1
+    unit: pinch
+    name: black pepper
+    raw: A pinch of black pepper
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 g plain flour
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 100
+    unit: g
+    name: gruyere cheese
+    raw: 100 g Gruyère cheese
+  - qty: 50
+    unit: g
+    name: comte
+    raw: 50 g Comté
+  - name: nutmeg
+    raw: A grating of fresh nutmeg
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 30
+    unit: g
+    name: gruyere cheese
+    raw: 30 g extra grated Gruyère cheese
+  - qty: 1
+    unit: pinch
+    name: paprika
+    raw: A pinch of paprika

@@ -1,0 +1,50 @@
+prep: 20 minutes
+cook: 60 minutes (in steaming stages of 5-7 min per layer)
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - asian
+  - coconut
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: rice flour
+    raw: 200 g rice flour
+  - qty: 200
+    unit: g
+    name: tapioca starch
+    raw: 200 g tapioca starch
+  - qty: 50
+    unit: g
+    name: mung-bean starch
+    raw: 50 g mung-bean starch
+  - qty: 350
+    unit: g
+    name: caster sugar
+    raw: 350 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 900
+    unit: ml
+    name: coconut milk
+    raw: 900 ml coconut milk
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    unit: tsp
+    name: natural pandan extract
+    raw: 1 teaspoon natural pandan extract
+  - name: green food colour
+    raw: A few drops of green food colour
+  - qty: 1
+    unit: tsp
+    name: vegetable oil
+    raw: 1 teaspoon vegetable oil

@@ -1,0 +1,53 @@
+prep: 20 minutes (plus 1 hour batter rest)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - honey
+  - complex
+mentions: []
+ingredients:
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 2
+    unit: tbsp
+    name: honey
+    raw: 2 tablespoons honey
+  - qty: 1
+    unit: tbsp
+    name: mirin
+    raw: 1 tablespoon mirin
+  - qty: 60
+    unit: ml
+    name: milk
+    raw: 60 ml whole milk
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 g plain flour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 350
+    unit: g
+    name: sweet red bean paste
+    raw: 350 g sweet red bean paste
+  - qty: 1
+    unit: tsp
+    name: vegetable oil
+    raw: 1 teaspoon vegetable oil

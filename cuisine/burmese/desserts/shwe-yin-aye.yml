@@ -1,0 +1,77 @@
+prep: 20 minutes
+cook: 25 minutes (plus 2 hours setting)
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - dessert
+  - rice
+  - coconut
+  - complex
+mentions: []
+ingredients:
+  - qty: 8
+    unit: g
+    name: agar-agar powder
+    raw: 8 g agar-agar powder
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 0.25
+    unit: tsp
+    name: pandan essence
+    raw: ¼ teaspoon pandan essence
+  - qty: 2
+    unit: drop
+    name: green food colouring
+    raw: 2 drops green food colouring
+  - qty: 60
+    unit: g
+    name: sago pearls
+    raw: 60 g small sago pearls
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 4
+    name: white bread
+    raw: 4 thick slices white bread
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml full-fat coconut milk
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 3
+    unit: tbsp
+    name: caster sugar
+    raw: 3 tablespoons caster sugar
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 120
+    unit: g
+    name: palm sugar or dark muscovado
+    raw: 120 g palm sugar or dark muscovado
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 80 ml water
+  - name: ice
+    raw: Crushed ice
+  - qty: 2
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 2 tablespoons toasted sesame seeds
+  - name: mont lone yay paw
+    raw: Pieces of mont lone yay paw

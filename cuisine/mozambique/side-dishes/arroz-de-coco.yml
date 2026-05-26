@@ -1,0 +1,48 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - rice
+  - onion
+  - coconut
+  - butter
+mentions:
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/mozambique/frango-piri-piri
+  - cuisine/mozambique/matata
+  - cuisine/thai/side-dishes/coconut-rice
+ingredients:
+  - qty: 300
+    unit: g
+    name: long-grain rice
+    raw: 300 g long-grain rice
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: coconut milk
+    raw: 1 tin coconut milk
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: knob
+    name: butter
+    raw: Knob of butter

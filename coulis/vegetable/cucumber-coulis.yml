@@ -1,0 +1,39 @@
+prep: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - lemon
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 1
+    name: red chilli
+    raw: 1 red chilli
+  - qty: 4
+    unit: sprig
+    name: parsley
+    raw: 4 sprigs parsley
+  - qty: 6
+    name: sage leaves
+    raw: 6 sage leaves
+  - qty: 50
+    unit: ml
+    name: olive oil
+    raw: 50 ml olive oil
+  - qty: 1
+    unit: squeeze
+    name: lemon juice
+    raw: squeeze of lemon juice
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

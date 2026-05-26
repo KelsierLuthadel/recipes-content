@@ -1,21 +1,3 @@
----
-prep: 30 minutes (plus 30 min mochi rest)
-cook: 20 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - dessert
-  - make-ahead
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Matcha Mochi
 
 ![Matcha Mochi](resources/matcha-mochi.jpg)

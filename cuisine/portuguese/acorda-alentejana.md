@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - eggs
-  - garlic
-tags:
-  - vegetarian
-  - dairy-free
-  - quick
-  - meals
-  - eggs
-  - garlic
-  - coriander
-mentions:
-  - cuisine/portuguese/side-dishes/pao-alentejano
----
-
-
-
-
 # Açorda Alentejana
 
 ![Açorda Alentejana](resources/acorda-alentejana.jpg)

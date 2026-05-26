@@ -1,23 +1,3 @@
----
-prep: 20 minutes
-cook: 45 minutes (plus 4 hours chilling)
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - make-ahead
-  - eggs
-  - lemon
-  - complex
-mentions: []
----
-
-
-
-
 # Flan de Huevo (Spanish Egg Flan)
 
 ![Flan de Huevo](resources/flan-de-huevo.jpg)

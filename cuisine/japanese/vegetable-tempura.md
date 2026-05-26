@@ -1,28 +1,3 @@
----
-prep: 20 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - eggs
-  - soy
-tags:
-  - vegetarian
-  - dairy-free
-  - meals
-  - eggs
-  - mushroom
-  - onion
-  - ginger
-  - potato
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Vegetable Tempura
 
 ![Vegetable Tempura](resources/vegetable-tempura.jpg)

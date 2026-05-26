@@ -1,0 +1,81 @@
+prep: 1 hour
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - asian
+  - lemon
+  - nuts
+  - complex
+  - diwali
+  - holi
+  - hindu
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 2
+    unit: l
+    name: milk
+    raw: 2 litres whole milk
+  - qty: 3
+    unit: tbsp
+    name: lemon juice
+    raw: 3 tablespoons lemon juice
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre whole milk
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: generous pinch
+    name: saffron strands
+    raw: A generous pinch of saffron strands
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 2
+    unit: tbsp
+    name: pistachios
+    raw: 2 tablespoons pistachios
+  - qty: 2
+    unit: tbsp
+    name: almonds
+    raw: 2 tablespoons almonds
+  - qty: 1
+    unit: tsp
+    name: rose water
+    raw: 1 teaspoon rose water
+  - qty: 1
+    unit: tbsp
+    name: pistachios
+    raw: 1 tablespoon pistachios
+  - qty: 1
+    unit: pinch
+    name: saffron strands
+    raw: A pinch of saffron strands
+  - name: rose petals
+    raw: A few dried rose petals

@@ -1,0 +1,75 @@
+prep: 10 minutes (plus 30 minutes batter rest)
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - eggs
+  - onion
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: pork sausages
+    raw: 8 good-quality pork sausages
+  - qty: 2
+    unit: tbsp
+    name: beef dripping
+    raw: 2 tablespoons beef dripping
+  - qty: 140
+    unit: g
+    name: plain flour
+    raw: 140 g plain flour
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - name: thyme
+    raw: A few sprigs of fresh thyme
+  - qty: 2
+    unit: tbsp
+    name: unsalted butter
+    raw: 2 tablespoons unsalted butter
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 400
+    unit: ml
+    name: beef stock
+    raw: 400 ml beef stock
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

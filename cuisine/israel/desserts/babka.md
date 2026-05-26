@@ -1,31 +1,3 @@
----
-prep: 45 minutes (plus 3 hours rising)
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - butter
-  - chocolate
-  - complex
-  - hanukkah
-  - rosh-hashanah
-  - shavuot
-  - yom-kippur
-  - sukkot
-  - jewish
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Chocolate Babka
 
 ![Babka](resources/babka.jpg)

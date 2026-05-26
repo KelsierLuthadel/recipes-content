@@ -1,32 +1,3 @@
----
-prep: 20 minutes (plus 1 hour chilling)
-cook: 2 ½ hours
-allergens:
-  - eggs
-  - meat
-  - celery
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - eggs
-  - onion
-  - ginger
-  - carrot
-  - complex
-  - passover
-  - yom-kippur
-  - sukkot
-  - jewish
-mentions: []
----
-
-
-
-
 # Matzo Ball Soup
 
 ![Matzo Ball Soup](resources/matzo-ball-soup.jpg)

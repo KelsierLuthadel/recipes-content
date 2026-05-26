@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-cook: 1 hour 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - coconut
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Dodol
 
 ![Dodol](resources/dodol.jpg)

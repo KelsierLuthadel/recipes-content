@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 1 ¼ hours
-allergens:
-  - gluten
-  - meat
-  - celery
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - potato
-  - carrot
-  - lime
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Bahamian Souse
 
 ![Bahamian Souse](resources/bahamian-souse.jpg)

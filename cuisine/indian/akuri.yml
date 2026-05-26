@@ -1,0 +1,51 @@
+prep: 10 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - butter
+  - chili
+mentions: []
+ingredients:
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter
+  - name: half teaspoon garlic
+    raw: half teaspoon garlic
+  - name: half teaspoon fresh ginger root
+    raw: half teaspoon fresh ginger root
+  - qty: 1
+    unit: tbsp
+    name: onion
+    raw: 1 tablespoon onion
+  - name: half teaspoon fresh chilli
+    raw: half teaspoon fresh chilli
+  - name: half teaspoon ground turmeric
+    raw: half teaspoon ground turmeric
+  - qty: 1
+    name: tomato
+    raw: 1 tomato
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: half teaspoon coriander leaves
+    raw: half teaspoon coriander leaves

@@ -1,0 +1,64 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - mustard
+tags:
+  - vegetarian
+  - sides
+  - butter
+  - cheese
+  - easter
+mentions:
+  - cuisine/american/side-dishes/mac-and-cheese
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: cauliflower
+    raw: 1 cauliflower
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 50
+    unit: g
+    name: plain flour
+    raw: 50 g plain flour
+  - qty: 700
+    unit: ml
+    name: milk
+    raw: 700 ml whole milk
+  - qty: 200
+    unit: g
+    name: cheddar cheese
+    raw: 200 g mature cheddar cheese
+  - qty: 50
+    unit: g
+    name: parmesan cheese
+    raw: 50 g parmesan cheese
+  - qty: 2
+    unit: tsp
+    name: english mustard
+    raw: 2 teaspoons English mustard
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 50
+    unit: g
+    name: panko
+    raw: 50 g panko
+  - qty: 50
+    unit: g
+    name: cheddar cheese
+    raw: 50 g cheddar cheese
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - name: thyme
+    raw: A few sprigs of fresh thyme

@@ -1,0 +1,77 @@
+prep: 30 minutes (assumes refried beans on hand)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - beef
+  - rice
+  - garlic
+  - lime
+  - cream
+  - complex
+mentions:
+  - cuisine/mexican/side-dishes/refried-beans
+ingredients:
+  - qty: 600
+    unit: g
+    name: flank
+    raw: 600 g flank, skirt
+  - qty: 1
+    name: orange
+    raw: 1 orange
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 2
+    name: plantains
+    raw: 2 ripe plantains
+  - qty: 200
+    unit: ml
+    name: vegetable oil
+    raw: 200 ml vegetable oil for frying
+  - qty: 300
+    unit: g
+    name: white rice
+    raw: 300 g white rice
+  - qty: 400
+    unit: g
+    name: refried beans
+    raw: 400 g Refried Beans
+  - qty: 250
+    unit: ml
+    name: mantequilla
+    raw: 250 ml mantequilla
+  - qty: 2
+    name: avocados
+    raw: 2 ripe avocados
+  - qty: 8
+    name: flour
+    raw: 8 flour
+  - name: salt
+    raw: Salt for finishing
+  - name: pickled cabbage or a small chimol salsa
+    raw: Pickled cabbage or a small chimol salsa, on the side

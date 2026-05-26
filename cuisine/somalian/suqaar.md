@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 20 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - lime
-  - coriander
-  - butter
-  - chili
-  - complex
-mentions:
-  - cuisine/somalian/anjero
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Suqaar
 
 ![Suqaar](resources/suqaar.jpg)

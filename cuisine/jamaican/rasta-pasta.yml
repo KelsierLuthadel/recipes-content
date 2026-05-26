@@ -1,0 +1,69 @@
+prep: 20 minutes
+cook: 3 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - quick
+  - meals
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - spinach
+  - cream
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 227
+    unit: g
+    name: penne pasta
+    raw: 227 grams penne pasta
+  - qty: 454
+    unit: g
+    name: prawns
+    raw: 454 grams prawns
+  - qty: 1
+    unit: tbsp
+    name: jerk seasoning
+    raw: 1 tbsp jerk seasoning
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 1
+    name: orange bell pepper
+    raw: 1 orange bell pepper
+  - qty: 60
+    unit: g
+    name: spinach
+    raw: 60 grams fresh spinach
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 170
+    unit: ml
+    name: pasta water
+    raw: 170 ml pasta water
+  - qty: 170
+    unit: ml
+    name: double cream
+    raw: 170 ml double cream
+  - qty: 100
+    unit: g
+    name: parmesan cheese
+    raw: 100 grams Parmesan cheese
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

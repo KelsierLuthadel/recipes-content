@@ -1,0 +1,30 @@
+prep: 5 minutes
+cook: 2 hours 30 minutes (mostly hands-off)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - complex
+mentions: []
+ingredients:
+  - qty: 2
+    unit: l
+    name: milk
+    raw: 2 litres whole milk
+  - qty: 500
+    unit: g
+    name: caster sugar
+    raw: 500 g caster sugar
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 0.5
+    unit: tsp
+    name: bicarbonate of soda
+    raw: ½ teaspoon bicarbonate of soda
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt

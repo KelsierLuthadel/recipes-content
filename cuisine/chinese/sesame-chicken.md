@@ -1,32 +1,3 @@
----
-prep: 10 minutes
-cook: 7 minutes
-allergens:
-  - eggs
-  - peanuts
-  - soy
-  - sesame
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - chicken
-  - eggs
-  - onion
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken with Sesame Seeds
 
 ![Chicken with Sesame Seeds](resources/sesame-chicken.jpg)

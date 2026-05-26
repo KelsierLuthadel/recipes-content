@@ -1,27 +1,3 @@
----
-prep: 25 minutes (plus 1 hour resting + 4 hours steeping)
-cook: 40 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - lemon
-  - butter
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Kalb El-Louz (Almond-Semolina Cake)
 
 ![Kalb el-Louz](resources/kalb-el-louz.jpg)

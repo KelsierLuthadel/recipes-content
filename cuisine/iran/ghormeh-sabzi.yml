@@ -1,0 +1,80 @@
+prep: 25 minutes
+cook: 2 hours 30 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - rice
+  - onion
+  - lime
+  - coriander
+  - complex
+mentions: []
+ingredients:
+  - qty: 800
+    unit: g
+    name: lamb shoulder - 3 cm cubes
+    raw: 800 g lamb shoulder - 3 cm cubes
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 4
+    name: black limes
+    raw: 4 dried black limes
+  - qty: 1
+    unit: l
+    name: stock
+    raw: 1 litre hot stock
+  - qty: 1
+    name: red kidney beans
+    raw: 1 tin red kidney beans
+  - qty: 200
+    unit: g
+    name: parsley
+    raw: 200 g fresh parsley
+  - qty: 200
+    unit: g
+    name: coriander
+    raw: 200 g fresh coriander
+  - qty: 100
+    unit: g
+    name: chives
+    raw: 100 g chives
+  - qty: 30
+    unit: g
+    name: fenugreek leaves
+    raw: 30 g dried fenugreek leaves
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 4
+    name: chelo
+    raw: 4 servings cooked chelo
+  - qty: 1
+    name: lime
+    raw: 1 lime

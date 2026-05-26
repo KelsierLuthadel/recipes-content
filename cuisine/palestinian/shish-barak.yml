@@ -1,0 +1,112 @@
+prep: 1 hour
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - lamb
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - butter
+  - yogurt
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 170
+    unit: ml
+    name: water
+    raw: 170 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 300
+    unit: g
+    name: lamb mince
+    raw: 300 g lamb mince
+  - qty: 1
+    unit: tsp
+    name: baharat
+    raw: 1 teaspoon Baharat
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tbsp
+    name: pine nuts
+    raw: 1 tablespoon pine nuts
+  - qty: 800
+    unit: g
+    name: plain yogurt
+    raw: 800 g full-fat plain yogurt
+  - qty: 1
+    name: egg white
+    raw: 1 egg white
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml warm water
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon white pepper
+  - qty: 3
+    unit: tbsp
+    name: unsalted butter
+    raw: 3 tablespoons unsalted butter
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: mint
+    raw: 2 tablespoons fresh mint
+  - qty: 1
+    unit: tsp
+    name: aleppo pepper
+    raw: 1 teaspoon Aleppo pepper
+  - name: fluffy basmati rice
+    raw: Fluffy basmati rice

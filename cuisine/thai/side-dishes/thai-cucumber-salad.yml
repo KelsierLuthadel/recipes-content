@@ -1,0 +1,48 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - soy
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - ginger
+  - lime
+  - coriander
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: ginger
+    raw: 2 cm piece fresh ginger
+  - qty: 1
+    unit: tbsp
+    name: soy sauce
+    raw: 1 tbsp soy sauce
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 tsp sesame oil
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 1
+    name: red chilli
+    raw: 1 fresh red chilli
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: 1 small handful fresh coriander
+  - name: sesame seeds
+    raw: Sesame seeds

@@ -1,0 +1,68 @@
+prep: 15 minutes
+allergens:
+  - soy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - onion
+  - garlic
+  - coriander
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    name: cucumbers
+    raw: 3 cucumbers
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons fine salt
+  - qty: 3
+    unit: tbsp
+    name: light soy sauce
+    raw: 3 tablespoons light soy sauce
+  - qty: 2
+    unit: tbsp
+    name: chinkiang black vinegar
+    raw: 2 tablespoons Chinkiang black vinegar
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    unit: tbsp
+    name: sesame oil
+    raw: 1 tablespoon sesame oil
+  - qty: 1.5
+    unit: tbsp
+    name: chilli oil
+    raw: 1-2 tablespoons chilli oil
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: toasted sesame seeds
+    raw: 1 teaspoon toasted sesame seeds
+  - qty: 1
+    unit: pinch
+    name: msg
+    raw: A pinch of MSG
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion
+  - name: coriander
+    raw: A few sprigs of fresh coriander
+  - name: chilli oil
+    raw: Extra chilli oil

@@ -1,0 +1,56 @@
+prep: 15 minutes (plus overnight soak)
+cook: 5 hours
+allergens:
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - onion
+  - complex
+mentions:
+  - cuisine/american/side-dishes/cornbread
+ingredients:
+  - qty: 500
+    unit: g
+    name: navy beans
+    raw: 500 g dried navy beans
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 150
+    unit: g
+    name: salt pork
+    raw: 150 g salt pork
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 150
+    unit: ml
+    name: pure maple syrup
+    raw: 150 ml pure maple syrup
+  - qty: 2
+    unit: tbsp
+    name: brown mustard
+    raw: 2 tablespoons brown mustard
+  - qty: 1
+    unit: tbsp
+    name: molasses
+    raw: 1 tablespoon molasses
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml water

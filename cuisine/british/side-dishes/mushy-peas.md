@@ -1,22 +1,3 @@
----
-prep: 5 minutes (plus overnight soak)
-cook: 45 minutes
-allergens:
-  - dairy
-  - fish
-tags:
-  - gluten-free
-  - make-ahead
-  - sides
-  - fish
-  - butter
-mentions:
-  - cuisine/british/fish-and-chips
----
-
-
-
-
 # Mushy Peas
 
 ![Mushy Peas](resources/mushy-peas.jpg)

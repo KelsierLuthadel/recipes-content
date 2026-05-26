@@ -1,21 +1,3 @@
----
-prep: 30 minutes
-cook: 2 ½ hours
-allergens:
-  - meat
-  - celery
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - meat
-  - complex
-mentions: []
----
-
-
-
-
 # White Veal Stock
 
 ![White Veal Stock](resources/veal-stock.jpg)

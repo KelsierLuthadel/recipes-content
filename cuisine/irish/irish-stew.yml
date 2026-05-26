@@ -1,0 +1,67 @@
+prep: 20 minutes
+cook: 36 minutes
+allergens:
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - butter
+  - st-patricks
+mentions:
+  - cuisine/irish/colcannon
+ingredients:
+  - qty: 750
+    unit: g
+    name: middle neck of lamb
+    raw: 750 grams middle neck of lamb
+  - qty: 100
+    unit: g
+    name: butter
+    raw: 100 grams butter
+  - qty: 1.5
+    unit: l
+    name: chicken stock
+    raw: 1 ½ litres chicken stock
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 4
+    name: onions
+    raw: 4 onions
+  - qty: 450
+    unit: g
+    name: potatoes
+    raw: 450 grams potatoes
+  - qty: 175
+    unit: g
+    name: carrots
+    raw: 175 grams carrots
+  - qty: 6
+    name: celery sticks
+    raw: 6 celery sticks
+  - qty: 225
+    unit: g
+    name: savoy cabbage
+    raw: 225 grams savoy cabbage
+  - qty: 2
+    unit: tsp
+    name: parsley
+    raw: 2 teaspoons parsley

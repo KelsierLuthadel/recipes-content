@@ -1,32 +1,3 @@
----
-prep: 25 minutes
-cook: 50 minutes
-allergens:
-  - gluten
-  - eggs
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - meals
-  - meat
-  - beef
-  - lamb
-  - eggs
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - coriander
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Kofta Bil Roz
 
 ![Kofta bil Roz](resources/kofta-bil-roz.jpg)

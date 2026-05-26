@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour 45 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - beef
-  - onion
-  - garlic
-  - tomato
-  - coriander
-  - chili
-  - complex
-mentions:
-  - cuisine/zimbabwe/dovi
-  - cuisine/zimbabwe/side-dishes/muriwo-une-dovi
-  - cuisine/zimbabwe/side-dishes/sadza
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Nyama Stew
 
 ![Nyama Stew](resources/nyama-stew.jpg)

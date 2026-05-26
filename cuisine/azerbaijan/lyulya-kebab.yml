@@ -1,0 +1,63 @@
+prep: 30 minutes (plus 2 hours chilling)
+cook: 12 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - bbq
+  - meat
+  - lamb
+  - onion
+  - lemon
+  - complex
+mentions:
+  - cuisine/azerbaijan/side-dishes/lavash
+ingredients:
+  - qty: 800
+    unit: g
+    name: lamb shoulder mince
+    raw: 800 g lamb shoulder mince
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: sumac
+    raw: 1 teaspoon ground sumac
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - qty: 30
+    unit: g
+    name: lamb tail fat
+    raw: 30 g lamb tail fat
+  - qty: 4
+    name: sheets fresh lavash
+    raw: 4 sheets fresh lavash
+  - qty: 2
+    name: red onions
+    raw: 2 red onions
+  - qty: 2
+    unit: tbsp
+    name: sumac
+    raw: 2 tablespoons sumac
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    name: tarragon
+    raw: A generous bunch of fresh tarragon, dill, basil, spring onion
+  - name: lemon wedges
+    raw: Lemon wedges

@@ -1,28 +1,3 @@
----
-prep: 15 minutes (plus 2 hours marinating)
-cook: 15 minutes
-allergens:
-  - dairy
-  - meat
-  - mustard
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - garlic
-  - butter
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Bifana
 
 ![Bifana](resources/bifana.jpg)

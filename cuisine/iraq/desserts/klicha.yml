@@ -1,0 +1,82 @@
+prep: 45 minutes (plus 30 min resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 0.5
+    unit: tsp
+    name: nigella seeds
+    raw: ½ teaspoon ground nigella seeds
+  - qty: 1
+    unit: tsp
+    name: active dry yeast
+    raw: 1 teaspoon active dry yeast
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 400
+    unit: g
+    name: pitted dates
+    raw: 400 g pitted dates
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 2
+    unit: tbsp
+    name: sesame seeds
+    raw: 2 tablespoons sesame seeds
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    unit: tbsp
+    name: sesame seeds
+    raw: 1 tablespoon sesame seeds

@@ -1,0 +1,49 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - meat
+tags:
+  - dairy-free
+  - sides
+  - meat
+  - beef
+  - lamb
+  - onion
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 150
+    unit: g
+    name: mutton
+    raw: 150 g minced mutton
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1.5
+    unit: l
+    name: mutton stock
+    raw: 1 ½ litres mutton stock
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 g plain flour
+  - qty: 2.5
+    unit: tbsp
+    name: water
+    raw: 2-3 tablespoons cold water
+  - qty: 1
+    name: spring onion or 1 tablespoon fresh dill
+    raw: 1 spring onion or 1 tablespoon fresh dill

@@ -1,0 +1,67 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: pork sausages
+    raw: 8 good-quality pork sausages
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: rosemary or 1 teaspoon dried
+    raw: 1 tablespoon fresh rosemary or 1 teaspoon dried
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tablespoon tomato purée
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tinned chopped tomatoes
+  - qty: 800
+    unit: g
+    name: butter beans
+    raw: 800 g tins butter beans
+  - qty: 200
+    unit: ml
+    name: chicken stock
+    raw: 200 ml chicken stock
+  - qty: 1
+    unit: tsp
+    name: brown sugar
+    raw: 1 teaspoon brown sugar
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    unit: handful
+    name: parsley
+    raw: A handful of fresh parsley

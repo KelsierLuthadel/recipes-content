@@ -1,24 +1,3 @@
----
-prep: 5 minutes
-cook: 31 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - make-ahead
-  - baking
-  - eggs
-  - butter
-mentions:
-  - cuisine/french/desserts/pithiviers
-  - tutorials/pizza/dough
----
-
-
-
-
 # Brioche Dough
 
 ![Brioche dough](resources/brioche.jpg)

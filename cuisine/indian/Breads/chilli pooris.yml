@@ -1,0 +1,45 @@
+prep: 15 minutes (plus 30 minutes rest)
+cook: 10 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - make-ahead
+  - asian
+  - chili
+mentions:
+  - cuisine/indian/dal-makhani
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 115
+    unit: g
+    name: plain flour
+    raw: 115 g plain flour
+  - qty: 115
+    unit: g
+    name: wholemeal flour
+    raw: 115 g wholemeal flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: chilli powder
+    raw: ½ teaspoon mild chilli powder
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: red chilli
+    raw: 1 fresh red chilli
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - name: vegetable oil
+    raw: Vegetable oil

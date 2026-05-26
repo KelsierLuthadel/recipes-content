@@ -1,29 +1,3 @@
----
-prep: 25 minutes
-cook: 1 ¼ hours
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - chicken
-  - rice
-  - onion
-  - garlic
-  - potato
-  - lime
-  - coriander
-  - cream
-  - complex
-mentions: []
----
-
-
-
-
 # Ajiaco
 
 ![Ajiaco](resources/ajiaco.jpg)

@@ -1,0 +1,61 @@
+prep: 12 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - yogurt
+  - nuts
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: strained greek yogurt
+    raw: 500 g thick strained Greek yogurt
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 50
+    unit: g
+    name: walnut halves
+    raw: 50 g walnut halves
+  - qty: 3
+    unit: tbsp
+    name: raisins
+    raw: 3 tablespoons raisins
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: walnut pieces
+    raw: 1 tablespoon walnut pieces
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 1
+    unit: tsp
+    name: rose petals
+    raw: 1 teaspoon dried rose petals
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil

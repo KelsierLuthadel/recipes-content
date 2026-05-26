@@ -1,29 +1,3 @@
----
-prep: 20 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-  - mustard
-tags:
-  - snack
-  - meat
-  - beef
-  - pork
-  - eggs
-  - onion
-  - butter
-  - complex
-mentions:
-  - cuisine/german/side-dishes/german-potato-salad
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Frikadellen
 
 ![Frikadellen](resources/frikadellen.jpg)

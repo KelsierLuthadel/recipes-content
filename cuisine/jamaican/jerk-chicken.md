@@ -1,37 +1,3 @@
----
-prep: 25 minutes (plus 12 hours marinating)
-cook: 40 minutes
-allergens:
-  - soy
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - bbq
-  - meat
-  - chicken
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - coconut
-  - lime
-  - chili
-  - soy-sauce
-  - complex
-  - kwanzaa
-mentions:
-  - cuisine/jamaican/side-dishes/rice-and-peas
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Jerk Chicken
 
 ![Jerk Chicken](resources/jerk-chicken.jpg)

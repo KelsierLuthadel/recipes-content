@@ -1,31 +1,3 @@
----
-prep: 10 minutes
-cook: 5 minutes
-allergens:
-  - dairy
-  - eggs
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - eggs
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coriander
-  - butter
-  - chili
-mentions: []
----
-
-
-
-
 # Akuri (Indian Spicy Scrambled Eggs)
 
 ![Akuri](resources/akuri.jpg)

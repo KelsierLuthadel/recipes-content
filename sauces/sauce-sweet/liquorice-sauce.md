@@ -1,23 +1,3 @@
----
-prep: 5 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - eggs
-  - cream
-mentions:
-  - cuisine/french/desserts/clafoutis
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Liquorice Sauce
 
 ![Liquorice sauce](resources/liquorice-sauce.png)

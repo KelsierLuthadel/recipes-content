@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 4 minutes
-allergens:
-  - sesame
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - asian
-  - ginger
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Stir-Fried Ginger Broccoli
 
 ![Stir-fried ginger broccoli](resources/broccoli-ginger-sesame.jpg)

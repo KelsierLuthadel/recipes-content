@@ -1,30 +1,3 @@
----
-prep: 30 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - mustard
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - snack
-  - onion
-  - ginger
-  - potato
-  - lime
-  - coriander
-  - chickpea
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Alur Chop
 
 ![Alur Chop](resources/alur-chop.jpg)

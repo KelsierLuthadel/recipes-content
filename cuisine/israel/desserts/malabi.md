@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes (plus 3 hours setting)
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - make-ahead
-  - coconut
-  - cream
-  - nuts
-  - complex
-  - passover
-  - tu-bav
-  - jewish
-mentions: []
----
-
-
-
-
 # Malabi
 
 ![Malabi](resources/malabi.jpg)

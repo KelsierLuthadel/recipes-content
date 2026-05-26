@@ -1,33 +1,3 @@
----
-prep: 1 hour
-cook: 12 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - snack
-  - meat
-  - beef
-  - lamb
-  - onion
-  - garlic
-  - lemon
-  - yogurt
-  - nuts
-  - complex
-mentions:
-  - cuisine/lebanese/kibbeh
-  - cuisine/middle-east/kibbeh
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Kibbeh Nayyeh Balls (Fried)
 
 ![Kibbeh Nayyeh Balls](resources/kibbeh-nayyeh-balls.jpg)

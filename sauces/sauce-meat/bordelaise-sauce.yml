@@ -1,0 +1,44 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meat
+  - beef
+  - onion
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 40
+    unit: g
+    name: shallots
+    raw: 40 grams shallots
+  - qty: 8
+    name: white peppercorns
+    raw: 8 white peppercorns
+  - qty: 200
+    unit: ml
+    name: red wine
+    raw: 200 ml red wine
+  - qty: 300
+    unit: ml
+    name: veal stock
+    raw: 300 ml Veal stock
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - qty: 200
+    unit: g
+    name: beef marrow
+    raw: 200 grams beef marrow
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 grams butter
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

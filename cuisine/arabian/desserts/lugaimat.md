@@ -1,21 +1,3 @@
----
-prep: 15 minutes (plus 1 hour rising)
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - sesame
-tags:
-  - vegetarian
-  - dessert
-  - lemon
-  - complex
-mentions: []
----
-
-
-
-
 # Lugaimat
 
 ![Lugaimat](resources/lugaimat.jpg)

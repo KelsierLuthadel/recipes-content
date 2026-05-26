@@ -1,0 +1,97 @@
+prep: 30 minutes (plus 1 hour resting)
+cook: 45 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - meals
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chickpea
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour, plus extra for dusting
+  - qty: 1.5
+    unit: tsp
+    name: baking powder
+    raw: 1 ½ tsp baking powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: neutral oil
+    raw: 2 tbsp neutral oil, plus 4-5 tbsp for brushing
+  - qty: 290
+    unit: ml
+    name: water
+    raw: 280-300 ml warm water
+  - qty: 1
+    name: chickpeas
+    raw: 1 can chickpeas, drained and rinsed
+  - qty: 2
+    name: potatoes
+    raw: 2 potatoes
+  - qty: 3
+    unit: tbsp
+    name: neutral oil
+    raw: 3 tbsp neutral oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: caribbean green seasoning
+    raw: 1 tbsp Caribbean green seasoning
+  - qty: 2
+    unit: tbsp
+    name: caribbean curry powder
+    raw: 2 tbsp Caribbean curry powder
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 0.75
+    unit: tsp
+    name: roasted geera
+    raw: ¾ tsp ground roasted geera
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 Scotch bonnet
+  - qty: 1
+    unit: sprig
+    name: thyme
+    raw: 1 sprig fresh thyme
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt, or to taste
+  - qty: 1
+    unit: small handful
+    name: chadon beni
+    raw: Small handful chopped chadon beni
+  - qty: 1
+    name: lime
+    raw: 1 lime, cut in wedges

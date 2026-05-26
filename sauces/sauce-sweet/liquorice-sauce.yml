@@ -1,0 +1,34 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - eggs
+  - cream
+mentions:
+  - cuisine/french/desserts/clafoutis
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml milk
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 grams caster sugar
+  - qty: 25
+    unit: g
+    name: liquorice extract
+    raw: 25 grams liquorice extract
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 50
+    unit: ml
+    name: whipping cream
+    raw: 50 ml whipping cream

@@ -1,34 +1,3 @@
----
-prep: 15 minutes
-cook: 10 minutes
-allergens:
-  - soy
-  - sesame
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - meals
-  - asian
-  - meat
-  - beef
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/stir-fry/wok-hei
----
-
-
-
-
 # Beef and Broccoli
 
 ![Beef and Broccoli](resources/beef-and-broccoli.jpg)

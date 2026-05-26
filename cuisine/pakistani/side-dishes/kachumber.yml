@@ -1,0 +1,62 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - onion
+  - tomato
+  - lemon
+  - lime
+  - coriander
+  - chili
+mentions:
+  - cuisine/indian/biryani
+ingredients:
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 3
+    name: tomatoes
+    raw: 3 tomatoes
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 1
+    name: long green chilli
+    raw: 1 long green chilli
+  - qty: 1
+    name: coriander
+    raw: A small bunch fresh coriander
+  - qty: 1
+    unit: small handful
+    name: mint
+    raw: A small handful fresh mint
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 1
+    unit: tsp
+    name: chaat masala
+    raw: 1 teaspoon Chaat Masala
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - qty: 0.75
+    unit: tsp
+    name: salt
+    raw: ¾ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon black pepper
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil

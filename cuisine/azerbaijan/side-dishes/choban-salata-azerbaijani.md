@@ -1,26 +1,3 @@
----
-prep: 15 minutes
-cook: 0 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - make-ahead
-  - sides
-  - onion
-  - tomato
-  - lemon
-mentions:
-  - cuisine/azerbaijan/plov
-  - cuisine/azerbaijan/side-dishes/lavash
----
-
-
-
-
 # Choban Salata (Azerbaijani Shepherd's Salad)
 
 ![Choban Salata](resources/choban-salata-azerbaijani.jpg)

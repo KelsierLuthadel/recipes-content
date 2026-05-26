@@ -1,33 +1,3 @@
----
-prep: 15 minutes
-cook: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - quick
-  - meals
-  - meat
-  - chicken
-  - pork
-  - mushroom
-  - garlic
-  - spinach
-  - butter
-  - cheese
-mentions:
-  - cuisine/italian/pesto
-  - cuisine/italian/pizza/calzone
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Calzone Pollo Spinaci
 
 ![Calzone Pollo Spinaci](resources/pollo-calzone.jpg)

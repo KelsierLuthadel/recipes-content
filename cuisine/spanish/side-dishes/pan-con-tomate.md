@@ -1,24 +1,3 @@
----
-prep: 5 minutes
-cook: 4 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - garlic
-  - tomato
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Pan Con Tomate
 
 ![Pan con Tomate](resources/pan-con-tomate.jpg)

@@ -1,0 +1,77 @@
+prep: 15 minutes
+cook: 1 minute
+allergens:
+  - gluten
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - snack
+  - asian
+  - meat
+  - fish
+  - pork
+  - onion
+  - garlic
+  - lemon
+  - lime
+  - chili
+  - complex
+  - lunar-new-year
+mentions:
+  - cuisine/chinese/snacks/spring-rolls
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 25
+    unit: g
+    name: cellophane noodles
+    raw: 25 grams cellophane noodles
+  - qty: 8
+    name: wood ears
+    raw: 8 dried wood ears
+  - qty: 225
+    unit: g
+    name: pork
+    raw: 225 grams minced pork
+  - qty: 225
+    unit: g
+    name: crab meat
+    raw: 225 grams crab meat
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - name: thai fish sauce
+    raw: teaspoon Thai fish sauce
+  - qty: 250
+    unit: g
+    name: spring roll wrappers
+    raw: 250 grams spring roll wrappers
+  - name: flour and water paste
+    raw: flour and water paste
+  - name: vegetable oil
+    raw: vegetable oil
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 2
+    name: red chillies
+    raw: 2 fresh red chillies
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: granulated sugar
+    raw: 1 tablespoon granulated sugar
+  - qty: 3
+    unit: tbsp
+    name: thai fish sauce
+    raw: 3 tablespoons Thai fish sauce
+  - qty: 1
+    name: lime
+    raw: 1 lime

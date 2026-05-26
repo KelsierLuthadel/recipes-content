@@ -1,30 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - mustard
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - sides
-  - asian
-  - lentils
-  - onion
-  - garlic
-  - coconut
-  - chili
-  - curry
-mentions: []
----
-
-
-
-
 # Cabbage Thoran
 
 ![Cabbage Thoran](resources/cabbage-thoran.jpg)

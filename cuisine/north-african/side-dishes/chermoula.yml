@@ -1,0 +1,59 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - garlic
+  - lemon
+  - coriander
+  - chili
+mentions:
+  - cuisine/italian/pesto
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 large bunch fresh flat-leaf parsley
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 1.5
+    unit: tsp
+    name: cumin
+    raw: 1 ½ teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 0.25
+    unit: tsp
+    name: cayenne pepper
+    raw: ¼ teaspoon cayenne pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 120
+    unit: ml
+    name: extra-virgin olive oil
+    raw: 120 ml extra-virgin olive oil
+  - qty: 1
+    name: preserved lemon
+    raw: 1 preserved lemon

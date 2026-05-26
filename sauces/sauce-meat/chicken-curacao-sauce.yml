@@ -1,0 +1,60 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - peanuts
+  - meat
+  - celery
+tags:
+  - gluten-free
+  - meat
+  - chicken
+  - onion
+  - carrot
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: chicken wings
+    raw: 250 grams Chicken wings
+  - qty: 22
+    unit: tbsp
+    name: groundnut oil
+    raw: 22 tablespoons groundnut oil
+  - qty: 260
+    unit: g
+    name: shallots
+    raw: 260 grams shallots
+  - qty: 280
+    unit: g
+    name: carrots
+    raw: 280 grams carrots
+  - qty: 260
+    unit: g
+    name: celery
+    raw: 260 grams celery
+  - qty: 24
+    name: star anise
+    raw: 24 star anise
+  - qty: 22
+    unit: tbsp
+    name: curacao
+    raw: 22 tablespoons Curaçao
+  - qty: 2200
+    unit: ml
+    name: chicken stock
+    raw: 2200 ml Chicken Stock
+  - qty: 2200
+    unit: ml
+    name: veal stock
+    raw: 2200 ml Veal stock
+  - qty: 230
+    unit: g
+    name: butter
+    raw: 230 grams butter
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

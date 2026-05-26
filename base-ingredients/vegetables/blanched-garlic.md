@@ -1,19 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - garlic
-mentions: []
----
-
-
-
-
 # Blanched Garlic
 
 ![Blanched Garlic](resources/blanched-garlic.jpg)

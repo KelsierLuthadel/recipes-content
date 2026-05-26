@@ -1,0 +1,51 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - onion
+  - tomato
+  - lime
+mentions:
+  - cuisine/iran/ghormeh-sabzi
+ingredients:
+  - qty: 4
+    name: tomatoes
+    raw: 4 tomatoes
+  - qty: 2
+    name: cucumbers
+    raw: 2 cucumbers
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 4
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 4 tablespoons extra-virgin olive oil
+  - qty: 2
+    name: limes
+    raw: 2 limes
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tablespoon dried mint
+  - qty: 1
+    name: mint
+    raw: A small bunch fresh mint
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 0.25
+    unit: tsp
+    name: sumac
+    raw: ¼ teaspoon ground sumac

@@ -1,32 +1,3 @@
----
-prep: 50 minutes
-cook: 1 hour
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-  - meat
-tags:
-  - meals
-  - meat
-  - chicken
-  - eggs
-  - onion
-  - ginger
-  - coriander
-  - butter
-  - nuts
-  - complex
-mentions:
-  - baking/pastry/filo-pastry
-  - tutorials/pastry/filo
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Bastilla
 
 ![Chicken Bastilla](resources/chicken-bastilla.jpg)

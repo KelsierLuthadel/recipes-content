@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour 15 minutes
-allergens:
-  - gluten
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - meals
-  - meat
-  - pork
-  - rice
-  - onion
-  - garlic
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Smothered Pork Chops
 
 ![Smothered Pork Chops](resources/smothered-pork-chops.jpg)

@@ -1,0 +1,64 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - quick
+  - meals
+  - meat
+  - chicken
+  - pork
+  - mushroom
+  - garlic
+  - spinach
+  - butter
+  - cheese
+mentions:
+  - cuisine/italian/pesto
+  - cuisine/italian/pizza/calzone
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 110
+    unit: g
+    name: mozzarella
+    raw: 110 grams mozzarella
+  - qty: 1
+    name: chicken breast
+    raw: 1 chicken breast
+  - qty: 2
+    name: prosciutto
+    raw: 2 slices prosciutto
+  - qty: 50
+    unit: g
+    name: spinach
+    raw: 50 grams spinach
+  - qty: 5
+    name: button mushrooms
+    raw: 5 button mushrooms
+  - qty: 60
+    unit: g
+    name: bechamel sauce
+    raw: 60 grams béchamel sauce
+  - qty: 1
+    unit: pinch
+    name: rosemary
+    raw: Pinch of fresh rosemary
+  - qty: 200
+    unit: g
+    name: pizza dough ball
+    raw: 200 grams pizza dough ball
+  - name: plain flour
+    raw: Plain flour
+  - name: garlic butter
+    raw: Garlic butter
+  - qty: 1
+    unit: tsp
+    name: riserva cheese
+    raw: 1 teaspoon Riserva cheese
+  - name: red pepper tapenade
+    raw: Red pepper tapenade

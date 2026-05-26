@@ -1,30 +1,3 @@
----
-prep: 20 minutes
-cook: 2 ½ hours
-allergens:
-  - gluten
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - onion
-  - garlic
-  - lemon
-  - chili
-  - complex
-mentions:
-  - cuisine/german/spatzle
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Austrian Goulash
 
 ![Austrian Goulash](resources/austrian-goulash.jpg)

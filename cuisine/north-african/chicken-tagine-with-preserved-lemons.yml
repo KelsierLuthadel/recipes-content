@@ -1,0 +1,92 @@
+prep: 20 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.4
+    unit: kg
+    name: chicken
+    raw: 1.4 kg chicken
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 3
+    name: ginger
+    raw: 3 cm fresh ginger
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 1.5
+    unit: tsp
+    name: turmeric
+    raw: 1 ½ teaspoons ground turmeric
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon white pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml water
+  - qty: 2
+    name: preserved lemons
+    raw: 2 preserved lemons
+  - qty: 150
+    unit: g
+    name: green olives
+    raw: 150 g green olives
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons fresh flat-leaf parsley
+  - name: khobz
+    raw: Khobz , pita or crusty bread

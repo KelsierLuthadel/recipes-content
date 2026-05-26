@@ -1,39 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-  - shellfish
-  - meat
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - fish
-  - chicken
-  - lamb
-  - prawn
-  - onion
-  - tomato
-  - coconut
-  - spinach
-  - lemon
-  - chickpea
-  - chili
-  - curry
-  - complex
-mentions:
-  - cuisine/indian/side-dishes/tandoori-chicken-tikka
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Special Balti
 
 ![Special Balti](resources/BIR-Special-Balti.jpg)

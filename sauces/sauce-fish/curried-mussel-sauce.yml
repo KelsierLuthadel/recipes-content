@@ -1,0 +1,47 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+tags:
+  - spicy
+  - fish
+  - onion
+  - butter
+  - cream
+  - curry
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 60
+    unit: g
+    name: onions
+    raw: 60 grams onions, finely chopped
+  - qty: 2
+    unit: tsp
+    name: curry powder
+    raw: 2 teaspoons Curry Powder
+  - qty: 15
+    unit: g
+    name: plain flour
+    raw: 15 grams plain flour
+  - qty: 500
+    unit: ml
+    name: cooking liquor from mussels and other shellfish
+    raw: 500 ml cooking liquor from mussels and other shellfish
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - qty: 150
+    unit: ml
+    name: double cream
+    raw: 150 ml double cream
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

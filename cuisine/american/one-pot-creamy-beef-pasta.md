@@ -1,28 +1,3 @@
----
-prep: 5 minutes
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - one-pan
-  - meals
-  - meat
-  - beef
-  - onion
-  - butter
-  - cream
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # One-Pot Creamy Beef Pasta
 
 ![One-Pot Creamy Beef Pasta](resources/one-pot-creamy-beef-pasta.jpg)

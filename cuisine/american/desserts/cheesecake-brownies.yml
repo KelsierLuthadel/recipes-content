@@ -1,0 +1,73 @@
+prep: 20 minutes
+cook: 35 minutes (plus 4 hours chilling)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - cheese
+  - chocolate
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 175
+    unit: g
+    name: dark chocolate
+    raw: 175 g dark chocolate
+  - qty: 150
+    unit: g
+    name: unsalted butter
+    raw: 150 g unsalted butter
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 25
+    unit: g
+    name: cocoa powder
+    raw: 25 g cocoa powder
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 300
+    unit: g
+    name: cream cheese
+    raw: 300 g full-fat cream cheese
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 0.5
+    unit: tsp
+    name: lemon juice
+    raw: ½ teaspoon lemon juice
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt

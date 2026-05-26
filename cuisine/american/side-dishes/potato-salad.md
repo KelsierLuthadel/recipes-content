@@ -1,27 +1,3 @@
----
-prep: 20 minutes
-cook: 20 minutes
-allergens:
-  - eggs
-  - mustard
-  - celery
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - sides
-  - bbq
-  - eggs
-  - onion
-  - potato
-mentions:
-  - cuisine/american/pulled-pork
----
-
-
-
-
 # Classic American Potato Salad
 
 ![Classic American Potato Salad](resources/potato-salad.jpg)

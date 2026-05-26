@@ -1,0 +1,38 @@
+prep: 35 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - lemon
+  - nuts
+mentions:
+  - cuisine/bengali/desserts/rasgulla
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 1.5
+    unit: l
+    name: milk
+    raw: 1 ½ litres whole milk
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tbsp lemon juice
+  - name: ice cubes
+    raw: Ice cubes
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar, or 110 g jaggery , preferably nolen gur for winter sandesh
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - name: saffron
+    raw: A few strands saffron
+  - qty: 9
+    name: pistachios
+    raw: 8-10 pistachios

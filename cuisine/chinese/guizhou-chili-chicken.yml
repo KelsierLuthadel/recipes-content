@@ -1,0 +1,77 @@
+prep: 20 minutes
+cook: 55 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 15
+    unit: g
+    name: mixed mild-to-medium dried chillies
+    raw: 15 g mixed mild-to-medium dried chillies
+  - qty: 15
+    unit: g
+    name: ginger
+    raw: 15 g fresh ginger, peeled
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 240
+    unit: ml
+    name: vegetable oil
+    raw: 240 ml vegetable oil
+  - qty: 1
+    name: chicken
+    raw: 1 whole chicken , cut into 4 cm pieces, bone-in
+  - qty: 1
+    unit: tbsp
+    name: pixian doubanjiang
+    raw: 1 tbsp Pixian doubanjiang
+  - qty: 15
+    unit: g
+    name: ginger
+    raw: 15 g fresh ginger, roughly chopped
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, smashed
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion, cut into 5 cm pieces
+  - qty: 2
+    unit: tsp
+    name: sweet wheat paste
+    raw: 2 tsp sweet wheat paste
+  - qty: 1
+    unit: tsp
+    name: dark soy sauce
+    raw: 1 tsp dark soy sauce
+  - qty: 0.5
+    unit: tsp
+    name: granulated sugar
+    raw: ½ tsp granulated sugar
+  - qty: 0.5
+    unit: tsp
+    name: sichuan peppercorns
+    raw: ½ tsp whole Sichuan peppercorns
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 250-350 ml water
+  - name: spring onion greens
+    raw: Sliced spring onion greens, to garnish

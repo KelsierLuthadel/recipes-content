@@ -1,0 +1,66 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - fish
+  - shellfish
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - fish
+  - prawn
+  - lime
+  - coriander
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: oil
+    raw: 1 tablespoon oil
+  - qty: 500
+    unit: g
+    name: prawns
+    raw: 500 grams prawns
+  - qty: 2
+    unit: tbsp
+    name: tom yum paste
+    raw: 2 tablespoons tom yum paste
+  - qty: 2
+    unit: tbsp
+    name: tamarind puree
+    raw: 2 tablespoons tamarind purée
+  - qty: 2
+    unit: tsp
+    name: turmeric
+    raw: 2 teaspoons ground turmeric
+  - qty: 1
+    unit: tsp
+    name: red chillies
+    raw: 1 teaspoon chopped red chillies
+  - qty: 4
+    name: lime leaves
+    raw: 4 lime leaves
+  - qty: 2
+    unit: tbsp
+    name: fish sauce
+    raw: 2 tablespoons fish sauce
+  - qty: 2
+    unit: tbsp
+    name: lime juice
+    raw: 2 tablespoons lime juice
+  - qty: 2
+    unit: tsp
+    name: palm sugar
+    raw: 2 teaspoons palm sugar
+  - qty: 2.25
+    unit: l
+    name: water
+    raw: 2 ¼ litres water
+  - qty: 2
+    unit: tbsp
+    name: coriander leaves
+    raw: 2 tablespoons fresh coriander leaves

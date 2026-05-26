@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - fish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - fish
-  - garlic
-  - tomato
-  - lime
-  - coriander
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sambal Salamat
 
 ![Sambal Salamat](resources/sambal-salamat.jpg)

@@ -1,35 +1,3 @@
----
-prep: 20 minutes (plus 30 minutes marinating)
-cook: 1 hour 30 minutes
-allergens:
-  - soy
-  - fish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - fish
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coriander
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - cuisine/burmese/side-dishes/balachaung
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Wet Tha Hin Lay
 
 ![Wet Tha Hin Lay](resources/wet-tha-hin-lay.jpg)

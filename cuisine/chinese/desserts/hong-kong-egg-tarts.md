@@ -1,25 +1,3 @@
----
-prep: 30 minutes (plus 30 min dough chill)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - asian
-  - eggs
-  - butter
-  - lunar-new-year
-mentions:
-  - tutorials/patisserie/tarts
-  - tutorials/pizza/dough
----
-
-
-
-
 # Hong Kong Egg Tarts
 
 ![Hong Kong Egg Tarts](resources/hong-kong-egg-tarts.jpg)

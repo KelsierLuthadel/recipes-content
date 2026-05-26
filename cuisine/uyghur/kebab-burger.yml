@@ -1,0 +1,78 @@
+prep: 15 minutes (plus 3-8 hours marinating)
+cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - chili
+  - complex
+mentions:
+  - bread-pasta/burger-buns
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: lamb
+    raw: 200 g minced lamb
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 2
+    unit: tsp
+    name: plain flour
+    raw: 2 teaspoons plain flour
+  - qty: 2
+    unit: tsp
+    name: sunflower oil
+    raw: 2 teaspoons sunflower oil
+  - qty: 1
+    unit: tsp
+    name: chilli flakes
+    raw: 1 teaspoon chilli flakes
+  - qty: 2
+    unit: tsp
+    name: sweet chilli pepper powder
+    raw: 2 teaspoons sweet chilli pepper powder
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon white pepper
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 4
+    name: burger buns
+    raw: 4 burger buns
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - qty: 1.5
+    name: tomatoes
+    raw: 1-2 ripe tomatoes
+  - qty: 0.5
+    name: head of lettuce
+    raw: ½ head of lettuce
+  - name: shashlik sauce
+    raw: Shashlik sauce , to taste

@@ -1,23 +1,3 @@
----
-prep: 20 minutes
-cook: 40 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - lemon
-  - cream
-  - nuts
-  - complex
-mentions: []
----
-
-
-
-
 # Lahori Shahi Tukda
 
 ![Lahori Shahi Tukda](resources/lahori-shahi-tukda.jpg)

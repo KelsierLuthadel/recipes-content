@@ -1,19 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - cuisine/american/desserts/baked-alaska
-  - cuisine/australian/desserts/pavlova
-  - tutorials/eggs/custards
-  - tutorials/eggs/souffles
----
-
-
-
 # Meringues
 
 ![Meringue](resources/meringue.jpg)

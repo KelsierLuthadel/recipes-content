@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - shellfish
-  - garlic
-tags:
-  - quick
-  - meals
-  - fish
-  - garlic
-  - lemon
-  - butter
-  - nuts
-mentions:
-  - cuisine/italian/pesto
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Spaghettini with Scallops and Parsley Pesto
 
 ![Spaghettini with Scallops](resources/Spaghettini-Con-Capesante.jpg)

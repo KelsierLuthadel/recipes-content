@@ -1,0 +1,87 @@
+prep: 25 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - eggs
+  - onion
+  - tomato
+  - coriander
+  - butter
+  - yogurt
+  - chickpea
+  - nuts
+  - complex
+mentions:
+  - cuisine/iran/side-dishes/kuku-sabzi
+  - cuisine/persian/side-dishes/mast-o-musir
+ingredients:
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 large bunch flat-leaf parsley
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch coriander
+  - qty: 1
+    name: dill
+    raw: 1 large bunch fresh dill
+  - qty: 1
+    name: chives
+    raw: 1 small bunch chives
+  - qty: 1
+    unit: handful
+    name: fenugreek leaves - or 2 teaspoons dried fenugreek leaves
+    raw: A handful fresh fenugreek leaves - OR 2 teaspoons dried fenugreek leaves
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 40
+    unit: g
+    name: walnuts
+    raw: 40 g walnuts
+  - qty: 1
+    unit: tbsp
+    name: zereshk
+    raw: 1 tablespoon zereshk
+  - qty: 1
+    unit: large pinch
+    name: saffron
+    raw: 1 large pinch saffron
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil
+    raw: 4 tablespoons sunflower oil
+  - name: greek yogurt
+    raw: Greek yogurt
+  - name: tomato
+    raw: Sliced tomato, cucumber
+  - name: herbs and pickles
+    raw: Fresh herbs and pickles
+  - name: sangak
+    raw: Sangak

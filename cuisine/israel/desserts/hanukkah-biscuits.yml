@@ -1,0 +1,55 @@
+prep: 30 minutes (plus 1 hour chilling)
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - complex
+mentions:
+  - cuisine/polish/latkes
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - qty: 1
+    name: egg white
+    raw: 1 large egg white
+  - qty: 250
+    unit: g
+    name: icing sugar
+    raw: 250 g icing sugar
+  - qty: 0.5
+    unit: tsp
+    name: lemon juice
+    raw: ½ teaspoon lemon juice
+  - name: blue food colouring
+    raw: Blue food colouring
+  - name: sprinkles
+    raw: Sprinkles, edible silver balls, etc. for decorating

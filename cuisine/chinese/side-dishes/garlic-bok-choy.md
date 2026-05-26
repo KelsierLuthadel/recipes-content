@@ -1,31 +1,3 @@
----
-prep: 5 minutes
-cook: 6 minutes
-allergens:
-  - soy
-  - sesame
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - sides
-  - asian
-  - meat
-  - onion
-  - garlic
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Garlic Bok Choy
 
 ![Garlic Bok Choy](resources/garlic-bok-choy.jpg)

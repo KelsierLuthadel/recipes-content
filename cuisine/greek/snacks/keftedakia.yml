@@ -1,0 +1,92 @@
+prep: 25 minutes (plus 30 minutes resting)
+cook: 15 minutes (in batches)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - lemon
+  - butter
+  - yogurt
+  - complex
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef mince
+    raw: 500 g beef mince
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 60
+    unit: g
+    name: day-old white bread
+    raw: 60 g day-old white bread
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons fresh flat-leaf parsley
+  - qty: 1
+    unit: tbsp
+    name: greek oregano
+    raw: 1 tablespoon dried Greek oregano
+  - qty: 2
+    unit: tsp
+    name: mint
+    raw: 2 teaspoons dried mint
+  - qty: 1
+    unit: tbsp
+    name: ouzo
+    raw: 1 tablespoon ouzo
+  - qty: 1
+    unit: tbsp
+    name: red-wine vinegar
+    raw: 1 tablespoon red-wine vinegar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 0.25
+    unit: tsp
+    name: allspice
+    raw: ¼ teaspoon ground allspice
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 6
+    unit: tbsp
+    name: olive oil
+    raw: 6 tablespoons olive oil
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: tzatziki
+    raw: Tzatziki

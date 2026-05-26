@@ -1,0 +1,65 @@
+prep: 10 minutes (plus 4-6 hours setting)
+cook: 8 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - lemon
+  - cream
+  - complex
+mentions: []
+ingredients:
+  - qty: 8
+    unit: g
+    name: powdered gelatin
+    raw: 8 g powdered gelatin
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 500
+    unit: ml
+    name: double cream
+    raw: 500 ml double cream
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml whole milk
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 300
+    unit: g
+    name: mixed berries
+    raw: 300 g mixed berries
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tablespoon water
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - name: mint
+    raw: Fresh mint sprigs
+  - name: "optional: a small drizzle of cream"
+    raw: "Optional: a small drizzle of cream"

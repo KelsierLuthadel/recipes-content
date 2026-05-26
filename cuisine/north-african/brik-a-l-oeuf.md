@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 8 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - fish
-tags:
-  - spicy
-  - quick
-  - meals
-  - fish
-  - eggs
-  - onion
-  - lemon
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Brik à l'Œuf
 
 ![Brik à l'Œuf](resources/brik-a-l-oeuf.jpg)

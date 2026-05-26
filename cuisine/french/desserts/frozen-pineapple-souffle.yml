@@ -1,0 +1,53 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - peanuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - cream
+  - nuts
+mentions:
+  - baking/meringue/meringue-italienne
+  - base-ingredients/syrup/sirop-a-sorbet
+ingredients:
+  - qty: 1
+    name: pineapple
+    raw: 1 ripe pineapple
+  - qty: 12
+    name: cloves
+    raw: 12 cloves
+  - qty: 750
+    unit: ml
+    name: syrup for sorbet
+    raw: 750 ml Syrup for Sorbet
+  - qty: 250
+    unit: g
+    name: blackberries
+    raw: 250 grams blackberries
+  - qty: 1
+    unit: tsp
+    name: groundnut oil
+    raw: 1 teaspoon groundnut oil
+  - qty: 1
+    name: sheet leaf gelatine
+    raw: 1 sheet leaf gelatine
+  - qty: 150
+    unit: g
+    name: meringue italienne
+    raw: 150 grams Meringue Italienne
+  - qty: 150
+    unit: ml
+    name: whipping cream
+    raw: 150 ml whipping cream
+  - qty: 30
+    unit: ml
+    name: kirsch
+    raw: 30 ml kirsch
+  - qty: 40
+    unit: g
+    name: toasted flaked almonds
+    raw: 40 grams lightly toasted flaked almonds

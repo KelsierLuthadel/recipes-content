@@ -1,20 +1,3 @@
----
-prep: 10 minutes (plus 1 hour rising)
-cook: 20 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - dairy-free
-  - sides
-  - lemon
-  - honey
-mentions: []
----
-
-
-
-
 # Zalabia
 
 ![Zalabia](resources/zalabia.jpg)

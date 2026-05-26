@@ -1,27 +1,3 @@
----
-prep: 20 minutes (plus 1 hour at room temperature)
-cook: 1 hour 30 minutes (plus 20 minutes resting)
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - butter
-  - complex
-  - easter
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Roast Leg of Lamb
 
 ![Roast Leg of Lamb](resources/roast-leg-of-lamb.jpg)

@@ -1,23 +1,3 @@
----
-prep: 20 minutes
-cook: 1 ¼ hours (plus 1 hour cooling in oven)
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - eggs
-  - lemon
-  - cream
-  - complex
-mentions: []
----
-
-
-
-
 # Pavlova
 
 ![Pavlova](resources/pavlova.jpg)

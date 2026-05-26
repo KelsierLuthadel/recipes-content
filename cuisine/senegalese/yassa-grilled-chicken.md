@@ -1,33 +1,3 @@
----
-prep: 25 minutes (plus 4 to 12 hours marinating)
-cook: 50 minutes
-allergens:
-  - meat
-  - mustard
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - bbq
-  - meat
-  - chicken
-  - rice
-  - onion
-  - garlic
-  - lemon
-  - chili
-  - complex
-  - kwanzaa
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Yassa Spice-Rubbed Grilled Chicken
 
 ![Yassa Spice-Rubbed Grilled Chicken](resources/yassa-grilled-chicken.jpg)

@@ -1,0 +1,28 @@
+prep: 20 minutes
+cook: 18 minutes
+allergens: []
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - lemon
+mentions: []
+ingredients:
+  - qty: 350
+    unit: ml
+    name: sirop a sorbet
+    raw: 350 ml sirop a sorbet
+  - qty: 2
+    name: thyme
+    raw: 2 thyme sprigs
+  - qty: 400
+    unit: g
+    name: fromage frais
+    raw: 400 grams fromage frais
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - qty: 1
+    unit: pinch
+    name: white pepper
+    raw: pinch of white pepper

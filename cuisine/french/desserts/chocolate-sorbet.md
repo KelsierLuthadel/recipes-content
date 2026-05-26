@@ -1,21 +1,3 @@
----
-prep: 10 minutes
-cook: 3 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - dessert
-  - make-ahead
-  - chocolate
-mentions: []
----
-
-
-
-
 # Chocolate Sorbet
 
 ![Chocolate sorbet](resources/chocolate-sorbet.jpg)

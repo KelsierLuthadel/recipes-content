@@ -1,21 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - butter
-mentions:
-  - cuisine/french/desserts/chocolate-souffle
-  - cuisine/french/desserts/crepes
-  - tutorials/patisserie/tarts
----
-
-
-
-
 # Orange Butter Sauce
 
 ![Orange butter sauce](resources/orange-sauce.jpg)

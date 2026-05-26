@@ -1,0 +1,81 @@
+prep: 10 minutes
+cook: 15 minutes (in batches)
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - quick
+  - snack
+  - eggs
+  - onion
+  - garlic
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: well-fermented kimchi
+    raw: 200 g well-fermented kimchi
+  - qty: 4
+    unit: tbsp
+    name: kimchi juice
+    raw: 4 tablespoons kimchi juice
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 1
+    unit: tbsp
+    name: sweet rice flour
+    raw: 1 tablespoon sweet rice flour
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 120
+    unit: ml
+    name: ice-cold water
+    raw: 120 ml ice-cold water
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 4
+    unit: tbsp
+    name: neutral oil
+    raw: 4 tablespoons neutral oil
+  - qty: 3
+    unit: tbsp
+    name: soy sauce
+    raw: 3 tablespoons soy sauce
+  - qty: 1
+    unit: tbsp
+    name: rice vinegar
+    raw: 1 tablespoon rice vinegar
+  - qty: 1
+    unit: tsp
+    name: toasted sesame oil
+    raw: 1 teaspoon toasted sesame oil
+  - qty: 1
+    unit: tsp
+    name: sesame seeds
+    raw: 1 teaspoon sesame seeds
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion
+  - qty: 0.5
+    unit: tsp
+    name: gochugaru
+    raw: ½ teaspoon gochugaru

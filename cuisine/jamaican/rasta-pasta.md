@@ -1,29 +1,3 @@
----
-prep: 20 minutes
-cook: 3 minutes
-allergens:
-  - gluten
-  - dairy
-  - shellfish
-  - garlic
-tags:
-  - quick
-  - meals
-  - fish
-  - prawn
-  - onion
-  - garlic
-  - spinach
-  - cream
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Rasta Pasta
 
 ![Rasta Pasta](resources/jamaican-pasta.jpg)

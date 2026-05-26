@@ -1,22 +1,3 @@
----
-prep: 10 minutes (plus 12-24 hour fermentation)
-cook: 25 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - make-ahead
-  - meals
-  - complex
-mentions:
-  - cuisine/somalian/suqaar
----
-
-
-
-
 # Anjero
 
 ![Anjero](resources/anjero.jpg)

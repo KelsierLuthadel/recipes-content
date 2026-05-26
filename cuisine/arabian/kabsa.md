@@ -1,38 +1,3 @@
----
-prep: 20 minutes
-cook: 1 ¼ hours
-allergens:
-  - dairy
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - lamb
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - lemon
-  - lime
-  - coriander
-  - butter
-  - nuts
-  - chili
-  - complex
-  - eid-al-adha
-  - muslim
-mentions: []
----
-
-
-
-
 # Kabsa
 
 ![Kabsa](resources/kabsa.jpg)

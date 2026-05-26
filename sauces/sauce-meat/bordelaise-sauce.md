@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - meat
-tags:
-  - gluten-free
-  - meat
-  - beef
-  - onion
-  - butter
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Bordelaise Sauce
 
 ![Bordelaise sauce](resources/bordelaise-sauce.png)

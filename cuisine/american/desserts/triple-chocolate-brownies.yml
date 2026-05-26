@@ -1,0 +1,54 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - chocolate
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: dark chocolate
+    raw: 200 g dark chocolate
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 30
+    unit: g
+    name: cocoa powder
+    raw: 30 g cocoa powder
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - qty: 100
+    unit: g
+    name: milk chocolate
+    raw: 100 g milk chocolate
+  - qty: 100
+    unit: g
+    name: white chocolate
+    raw: 100 g white chocolate

@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - eggs
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - meals
-  - meat
-  - pork
-  - lamb
-  - eggs
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - coriander
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Ojja with Merguez
 
 ![Ojja with Merguez](resources/ojja-merguez.jpg)

@@ -1,22 +1,3 @@
----
-prep: 20 minutes
-cook: 25 minutes (plus 2 hours setting)
-allergens:
-  - gluten
-  - dairy
-  - sesame
-tags:
-  - vegetarian
-  - dessert
-  - rice
-  - coconut
-  - complex
-mentions: []
----
-
-
-
-
 # Shwe Yin Aye
 
 ![Shwe Yin Aye](resources/shwe-yin-aye.jpg)

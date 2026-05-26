@@ -1,29 +1,3 @@
----
-prep: 15 minutes
-cook: 5 minutes
-allergens:
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - pastes
-  - garlic
-  - ginger
-  - coriander
-  - curry
-mentions:
-  - base-ingredients/curry-paste/balti-masala-paste
----
-
-
-
-
 # Green Balti Masala Paste
 
 ![Green Masala Paste](resources/green-masala.jpg)

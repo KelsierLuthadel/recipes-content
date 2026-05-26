@@ -1,0 +1,49 @@
+prep: 10 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - snack
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - lime
+mentions:
+  - cuisine/colombian/side-dishes/hogao
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: pork belly with skin
+    raw: 1 kg pork belly with skin
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1 ½ litres water
+  - name: lime wedges
+    raw: Lime wedges
+  - name: avocado
+    raw: Sliced avocado
+  - name: hot arepas
+    raw: Hot arepas
+  - name: hogao
+    raw: Hogao

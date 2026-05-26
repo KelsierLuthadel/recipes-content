@@ -1,0 +1,78 @@
+prep: 10 minutes
+cook: 5 minutes
+allergens:
+  - tree-nuts
+  - sesame
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - lentils
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - curry
+mentions: []
+ingredients:
+  - qty: 100
+    unit: g
+    name: coconut
+    raw: 100 g fresh grated coconut
+  - qty: 2
+    unit: tbsp
+    name: soaked cashews
+    raw: 2 tablespoons soaked cashews
+  - qty: 2.5
+    name: green chillies
+    raw: 2-3 green chillies
+  - qty: 15
+    unit: g
+    name: ginger
+    raw: 15 g fresh ginger
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: A small handful of fresh coriander
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 1
+    unit: tsp
+    name: tamarind paste
+    raw: 1 teaspoon tamarind paste
+  - qty: 1
+    unit: tbsp
+    name: coconut oil
+    raw: 1 tablespoon coconut oil
+  - qty: 1
+    unit: tsp
+    name: black mustard seeds
+    raw: 1 teaspoon black mustard seeds
+  - qty: 1
+    name: red chilli
+    raw: 1 dried red chilli
+  - qty: 1
+    unit: tsp
+    name: urad dal
+    raw: 1 teaspoon urad dal
+  - qty: 15
+    name: curry leaves
+    raw: 15 fresh curry leaves
+  - qty: 1
+    unit: pinch
+    name: asafoetida
+    raw: A pinch of asafoetida

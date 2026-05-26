@@ -1,0 +1,67 @@
+prep: 25 minutes (plus 20 minutes soaking)
+cook: 0 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - sides
+  - onion
+  - tomato
+  - lemon
+mentions:
+  - cuisine/lebanese/kibbeh
+  - cuisine/lebanese/side-dishes/tabbouleh
+  - cuisine/middle-east/kibbeh
+ingredients:
+  - qty: 80
+    unit: g
+    name: bulgur
+    raw: 80 g fine bulgur
+  - qty: 120
+    unit: ml
+    name: water
+    raw: 120 ml boiling water
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    name: parsley
+    raw: 1 large bunch fresh parsley
+  - qty: 0.5
+    name: mint
+    raw: ½ small bunch fresh mint
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: tbsp
+    name: pomegranate molasses
+    raw: 1 tablespoon pomegranate molasses
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: pomegranate seeds
+    raw: 2 tablespoons pomegranate seeds

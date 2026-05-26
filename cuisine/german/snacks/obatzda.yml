@@ -1,0 +1,68 @@
+prep: 10 minutes (plus 30 minutes resting)
+cook: none
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - snack
+  - onion
+  - garlic
+  - butter
+  - cheese
+  - complex
+mentions:
+  - cuisine/american/side-dishes/soft-pretzels
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 250
+    unit: g
+    name: camembert cheese
+    raw: 250 g ripe Camembert cheese
+  - qty: 100
+    unit: g
+    name: soft unsalted butter
+    raw: 100 g soft unsalted butter
+  - qty: 50
+    unit: g
+    name: cream cheese
+    raw: 50 g cream cheese
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 2
+    unit: tsp
+    name: sweet paprika
+    raw: 2 teaspoons sweet paprika
+  - qty: 0.5
+    unit: tsp
+    name: caraway seeds
+    raw: ½ teaspoon caraway seeds
+  - qty: 2
+    unit: tbsp
+    name: pilsner
+    raw: 2 tablespoons Pilsner
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - qty: 1
+    unit: pinch
+    name: sweet paprika
+    raw: A pinch of sweet paprika
+  - qty: 1
+    name: chives
+    raw: A small bunch of fresh chives
+  - name: soft bavarian pretzels
+    raw: Soft Bavarian pretzels
+  - name: dark rye bread
+    raw: Dark rye bread
+  - name: radishes
+    raw: Radishes

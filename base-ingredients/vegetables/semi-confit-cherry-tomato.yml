@@ -1,0 +1,36 @@
+prep: 10 minutes
+cook: 8 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - garlic
+  - tomato
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: cherry tomatoes
+    raw: 1 kilogram ripe cherry tomatoes
+  - qty: 2
+    unit: sprig
+    name: thyme
+    raw: 2 sprigs fresh thyme
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 15
+    unit: g
+    name: white peppercorns
+    raw: 15 grams white peppercorns
+  - qty: 1
+    unit: l
+    name: light olive oil
+    raw: 1 liter light olive oil

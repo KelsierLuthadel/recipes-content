@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - quick
-  - snack
-  - fish
-  - garlic
-  - lemon
-  - chili
-mentions: []
----
-
-
-
-
 # Flash Fried Squid with Paprika and Garlic
 
 ![Flash fried squid with paprika and garlic](resources/squid.jpg)

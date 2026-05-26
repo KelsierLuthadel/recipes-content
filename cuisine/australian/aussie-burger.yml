@@ -1,0 +1,79 @@
+prep: 20 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - eggs
+  - sesame
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - bbq
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - tomato
+  - butter
+  - cheese
+  - complex
+mentions:
+  - bread-pasta/burger-buns
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef mince
+    raw: 600 g beef mince, 20% fat
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp black pepper
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tbsp Worcestershire sauce
+  - qty: 4
+    name: rashers streaky bacon
+    raw: 4 rashers streaky bacon
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 4
+    name: pineapple rings
+    raw: 4 canned pineapple rings, drained and patted dry
+  - qty: 4
+    name: canned
+    raw: 4 slices canned
+  - qty: 4
+    name: cheddar cheese
+    raw: 4 slices tasty cheddar cheese
+  - qty: 4
+    name: lettuce leaves
+    raw: 4 lettuce leaves
+  - qty: 1
+    name: tomato
+    raw: 1 tomato , sliced
+  - qty: 1
+    name: brown onion
+    raw: 1 brown onion , sliced into rings
+  - qty: 4
+    name: soft sesame burger buns
+    raw: 4 soft sesame burger buns, split
+  - name: butter for toasting
+    raw: Butter for toasting
+  - qty: 4
+    unit: tbsp
+    name: tomato chutney
+    raw: 4 tbsp tomato chutney
+  - qty: 1
+    unit: tbsp
+    name: neutral oil
+    raw: 1 tbsp neutral oil for the grill

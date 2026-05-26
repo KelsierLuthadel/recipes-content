@@ -1,30 +1,3 @@
----
-prep: 15 minutes (plus overnight brine)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - peanuts
-  - meat
-  - garlic
-tags:
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - garlic
-  - nuts
-  - chili
-  - complex
-  - kwanzaa
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Buttermilk Fried Chicken
 
 ![Buttermilk Fried Chicken](resources/buttermilk-fried-chicken.jpg)

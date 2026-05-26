@@ -1,0 +1,92 @@
+prep: 30 minutes (plus 1 ½ hours first rise, optional 12-hour cold proof, 1 ½ hours final rise)
+cook: 45-50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - eggs
+  - garlic
+  - lemon
+  - butter
+  - cheese
+  - nuts
+  - complex
+mentions:
+  - cuisine/israel/desserts/babka
+  - cuisine/israel/side-dishes/challah
+  - cuisine/italian/pesto
+  - cuisine/polish/desserts/chocolate-babka
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 80 ml water
+  - qty: 7
+    unit: g
+    name: instant yeast
+    raw: 7 g instant yeast
+  - qty: 80
+    unit: ml
+    name: milk
+    raw: 80 ml whole milk
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 1.25
+    unit: tsp
+    name: sea salt
+    raw: 1 ¼ teaspoons fine sea salt
+  - qty: 470
+    unit: g
+    name: plain flour
+    raw: 470 g plain flour
+  - qty: 85
+    unit: g
+    name: unsalted butter
+    raw: 85 g unsalted butter
+  - qty: 50
+    unit: g
+    name: basil leaves
+    raw: 50 g basil leaves
+  - qty: 50
+    unit: g
+    name: toasted walnuts
+    raw: 50 g toasted walnuts
+  - qty: 50
+    unit: g
+    name: parmesan
+    raw: 50 g grated parmesan
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
+  - qty: 80
+    unit: ml
+    name: extra-virgin olive oil
+    raw: 80 ml extra-virgin olive oil
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons lemon juice
+  - qty: 100
+    unit: g
+    name: cheddar
+    raw: 100 g mature cheddar
+  - qty: 1
+    unit: pinch
+    name: black pepper
+    raw: A pinch of black pepper

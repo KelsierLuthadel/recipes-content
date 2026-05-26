@@ -1,0 +1,54 @@
+prep: 20 minutes (plus 4 hours setting)
+cook: 15 minutes
+allergens:
+  - tree-nuts
+  - sesame
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - dessert
+  - make-ahead
+  - chocolate
+  - honey
+  - nuts
+  - complex
+  - hanukkah
+  - passover
+  - rosh-hashanah
+  - tu-bav
+  - jewish
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: tahini
+    raw: 500 g tahini
+  - qty: 400
+    unit: g
+    name: caster sugar
+    raw: 400 g caster sugar
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml water
+  - qty: 1
+    unit: tbsp
+    name: liquid glucose
+    raw: 1 tablespoon liquid glucose
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 50
+    unit: g
+    name: pistachios
+    raw: 50 g pistachios
+  - qty: 50
+    unit: g
+    name: dark chocolate
+    raw: 50 g dark chocolate

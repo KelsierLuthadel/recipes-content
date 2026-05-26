@@ -1,0 +1,99 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - chickpea
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil
+    raw: 4 tablespoons sunflower oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    unit: tbsp
+    name: ginger-garlic paste
+    raw: 2 tablespoons ginger-garlic paste
+  - qty: 1.5
+    unit: tsp
+    name: cumin
+    raw: 1 ½ teaspoons ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: coriander
+    raw: 1 ½ teaspoons ground coriander
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: kashmiri red chilli powder
+    raw: 1 teaspoon Kashmiri red chilli powder
+  - qty: 0.5
+    unit: tsp
+    name: chilli powder
+    raw: ½ teaspoon ordinary chilli powder
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 teaspoon Garam Masala
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 4
+    name: tomatoes
+    raw: 4 tomatoes
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 800
+    unit: g
+    name: chicken pieces
+    raw: 800 g bone-in chicken pieces
+  - qty: 1
+    name: chickpeas
+    raw: 1 tin chickpeas
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tablespoons fresh coriander
+  - qty: 0.5
+    unit: tsp
+    name: garam masala
+    raw: ½ teaspoon Garam Masala
+  - qty: 1
+    name: lemon
+    raw: 1 lemon

@@ -1,29 +1,3 @@
----
-prep: 10 minutes (plus overnight soak)
-cook: 1 hour 45 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - sides
-  - meat
-  - pork
-  - onion
-  - garlic
-  - tomato
-  - lime
-  - coriander
-  - complex
-  - day-of-the-dead
-mentions: []
----
-
-
-
-
 # Frijoles Charros
 
 ![Frijoles Charros](resources/frijoles-charros.jpg)

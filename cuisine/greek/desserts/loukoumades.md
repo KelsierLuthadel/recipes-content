@@ -1,25 +1,3 @@
----
-prep: 30 minutes (plus 1 hour rising)
-cook: 25 minutes (in batches)
-allergens:
-  - gluten
-  - tree-nuts
-  - sesame
-tags:
-  - vegetarian
-  - dairy-free
-  - dessert
-  - lemon
-  - honey
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Loukoumades
 
 ![Loukoumades](resources/loukoumades.jpg)

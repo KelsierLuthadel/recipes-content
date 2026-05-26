@@ -1,0 +1,60 @@
+prep: 10 minutes
+allergens:
+  - mustard
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - spices
+  - garlic
+  - ginger
+mentions: []
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: white pepper
+    raw: 2 tablespoons white pepper
+  - qty: 1
+    unit: tbsp
+    name: black pepper
+    raw: 1 tablespoon black pepper
+  - qty: 2
+    unit: tbsp
+    name: garlic salt
+    raw: 2 tablespoons garlic salt
+  - qty: 1
+    unit: tsp
+    name: celery salt
+    raw: 1 teaspoon celery salt
+  - qty: 0.5
+    unit: tbsp
+    name: thyme
+    raw: ½ tablespoon dried thyme
+  - qty: 0.5
+    unit: tbsp
+    name: basil
+    raw: ½ tablespoon dried basil
+  - qty: 0.3333333333333333
+    unit: tbsp
+    name: oregano
+    raw: ⅓ tablespoon dried oregano
+  - qty: 0.6666666666666666
+    unit: tbsp
+    name: sea salt
+    raw: ⅔ tablespoon fine sea salt
+  - qty: 4
+    unit: tbsp
+    name: paprika
+    raw: 4 tablespoons paprika
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon ground ginger
+  - qty: 1
+    unit: tbsp
+    name: dry mustard
+    raw: 1 tablespoon dry mustard

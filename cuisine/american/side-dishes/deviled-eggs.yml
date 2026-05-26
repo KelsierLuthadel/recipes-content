@@ -1,0 +1,59 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - eggs
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - bbq
+  - meat
+  - pork
+  - eggs
+  - easter
+mentions: []
+ingredients:
+  - qty: 6
+    name: eggs
+    raw: 6 eggs , at least a week old
+  - qty: 1
+    unit: tsp
+    name: white vinegar
+    raw: 1 tsp white vinegar
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tbsp good-quality mayonnaise
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 tsp Dijon mustard
+  - qty: 0.5
+    unit: tsp
+    name: yellow american mustard
+    raw: ½ tsp yellow American mustard
+  - qty: 1
+    unit: tsp
+    name: white wine vinegar
+    raw: 1 tsp white wine vinegar
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ tsp fine sea salt
+  - qty: 0.125
+    unit: tsp
+    name: black pepper
+    raw: ⅛ tsp freshly ground black pepper
+  - qty: 1
+    unit: tsp
+    name: chives
+    raw: 1 tsp finely chopped chives
+  - name: smoked
+    raw: Smoked , for dusting
+  - name: snipped chives
+    raw: Finely snipped chives
+  - name: "optional: cornichon slices"
+    raw: "Optional: cornichon slices, capers, or crispy bacon crumbs"

@@ -1,34 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - peanuts
-  - soy
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - snack
-  - make-ahead
-  - asian
-  - rice
-  - garlic
-  - ginger
-  - lime
-  - coriander
-  - nuts
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Spicy Peanut Balls
 
 ![Spicy peanut balls](resources/spicy-peanut-balls.jpg)

@@ -1,0 +1,118 @@
+prep: 25 minutes (plus 30 minutes dough rest)
+cook: 40 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - spinach
+  - carrot
+  - lemon
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/tibetan/side-dishes/sepen
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 280
+    unit: g
+    name: plain flour
+    raw: 280 g plain flour, plus extra for dusting
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml warm water
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 400
+    unit: g
+    name: beef
+    raw: 400 g lean beef , sliced thinly across the grain
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 5
+    name: ginger
+    raw: 5 cm fresh ginger
+  - qty: 1
+    name: tomato
+    raw: 1 tomato
+  - qty: 1
+    unit: tsp
+    name: sichuan peppercorns
+    raw: 1 teaspoon Sichuan peppercorns
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: coriander
+    raw: ½ teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 1.5
+    unit: l
+    name: beef stock
+    raw: 1 ½ litres beef stock
+  - qty: 1
+    unit: tbsp
+    name: soy sauce
+    raw: 1 tablespoon soy sauce
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    name: daikon
+    raw: 1 daikon
+  - qty: 100
+    unit: g
+    name: cabbage
+    raw: 100 g cabbage
+  - qty: 150
+    unit: g
+    name: spinach
+    raw: 150 g spinach
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    name: coriander
+    raw: A small bunch of coriander
+  - qty: 1.5
+    name: green chillies or sepen on the side
+    raw: 1-2 fresh green chillies or sepen on the side
+  - name: lemon wedges
+    raw: Lemon wedges

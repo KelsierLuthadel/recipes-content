@@ -1,29 +1,3 @@
----
-prep: 15 minutes
-cook: 4 minutes
-allergens:
-  - soy
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - pork
-  - onion
-  - garlic
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pork with Black Bean Sauce
 
 ![Pork with Black Bean Sauce](resources/pork-black-bean.jpg)

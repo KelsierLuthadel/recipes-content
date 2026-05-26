@@ -1,34 +1,3 @@
----
-prep: 20 minutes
-cook: 15 minutes
-allergens:
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - beef
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coriander
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Shapta
 
 ![Shapta](resources/shapta.jpg)

@@ -1,29 +1,3 @@
----
-prep: 40 minutes (plus 1 ½ hours proving)
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - butter
-  - cream
-  - honey
-  - nuts
-  - complex
-mentions:
-  - tutorials/bread/proving
-  - tutorials/pizza/dough
----
-
-
-
-
 # Bienenstich
 
 ![Bienenstich](resources/bienenstich.jpg)

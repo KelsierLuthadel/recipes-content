@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - meals
-  - onion
-  - garlic
-  - tomato
-  - butter
-  - cream
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Maque Choux
 
 ![Maque Choux](resources/maque-choux.jpg)

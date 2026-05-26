@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - quick
-  - chili
-mentions:
-  - cuisine/indian/Breads/chilli pooris
-  - tutorials/pizza/dough
----
-
-
-
-
 # Chilli Pooris
 
 ![Chilli Pooris](resources/poori.jpg)

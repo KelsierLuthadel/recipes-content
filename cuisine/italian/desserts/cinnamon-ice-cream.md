@@ -1,19 +1,3 @@
----
-prep: 20 minutes
-cook: 20 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - cream
-mentions: []
----
-
-
-
-
 # Cinnamon Ice Cream
 
 ![Cinnamon Ice Cream](resources/cinnamon-ice-cream.jpg)

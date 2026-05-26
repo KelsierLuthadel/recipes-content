@@ -1,31 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - beef
-  - rice
-  - onion
-  - garlic
-  - lemon
-  - coriander
-  - butter
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Molokhia with Meat
 
 ![Molokhia with Meat](resources/molokhia-with-meat.jpg)

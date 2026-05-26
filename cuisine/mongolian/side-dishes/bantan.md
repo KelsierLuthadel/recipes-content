@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - meat
-tags:
-  - dairy-free
-  - sides
-  - meat
-  - beef
-  - lamb
-  - onion
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Bantan
 
 ![Bantan](resources/bantan.jpg)

@@ -1,0 +1,85 @@
+prep: 30 minutes (plus 12 hours soaking)
+cook: 20 minutes
+allergens:
+  - gluten
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/egyptian/side-dishes/aysh-baladi
+  - cuisine/egyptian/side-dishes/tahina-salad
+  - cuisine/israel/side-dishes/falafel
+ingredients:
+  - qty: 400
+    unit: g
+    name: split fava beans
+    raw: 400 g dried split fava beans
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: leek
+    raw: 1 leek
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    name: parsley
+    raw: 1 large bunch fresh parsley
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 4
+    unit: tbsp
+    name: dill
+    raw: 4 tablespoons fresh dill
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons ground coriander
+  - qty: 1.5
+    unit: tsp
+    name: cumin
+    raw: 1 ½ teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 3
+    unit: tbsp
+    name: sesame seeds
+    raw: 3 tablespoons sesame seeds
+  - qty: 1.5
+    unit: l
+    name: vegetable oil
+    raw: 1 ½ litres vegetable oil for deep frying
+  - name: tahina salad
+    raw: Tahina Salad
+  - name: aysh baladi
+    raw: Aysh baladi
+  - name: pickled vegetables
+    raw: Pickled vegetables
+  - name: salata baladi
+    raw: Salata Baladi

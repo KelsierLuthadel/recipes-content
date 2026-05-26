@@ -1,0 +1,56 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - eggs
+  - butter
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: sourdough
+    raw: 4 slices sourdough
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 30
+    unit: g
+    name: plain flour
+    raw: 30 g plain flour
+  - qty: 100
+    unit: ml
+    name: ale
+    raw: 100 ml ale
+  - qty: 50
+    unit: ml
+    name: milk
+    raw: 50 ml whole milk
+  - qty: 250
+    unit: g
+    name: cheddar cheese
+    raw: 250 g mature cheddar cheese
+  - qty: 1
+    unit: tbsp
+    name: english mustard
+    raw: 1 tablespoon English mustard
+  - qty: 2
+    unit: tsp
+    name: worcestershire sauce
+    raw: 2 teaspoons Worcestershire sauce
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - name: black pepper
+    raw: Black pepper

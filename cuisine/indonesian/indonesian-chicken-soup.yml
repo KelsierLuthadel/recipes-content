@@ -1,0 +1,96 @@
+prep: 10  minutes
+cook: 1 hour 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - complex
+mentions: []
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 4
+    name: chicken thigh fillets
+    raw: 4 chicken thigh fillets
+  - qty: 1
+    name: lemongrass
+    raw: 1 stalk lemongrass
+  - qty: 2
+    name: shallots
+    raw: 2 shallots
+  - qty: 3
+    name: ginger
+    raw: 3 slices fresh ginger
+  - qty: 3
+    name: makrut lime leaves
+    raw: 3 makrut lime leaves
+  - qty: 8
+    unit: cup
+    name: water
+    raw: 8 cups water
+  - name: sea salt
+    raw: Sea salt to taste
+  - qty: 1
+    name: lemongrass
+    raw: 1 stalk lemongrass
+  - qty: 6
+    name: red asian shallots
+    raw: 6 red Asian shallots
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 4
+    name: turmeric
+    raw: 4 cm fresh turmeric
+  - qty: 3
+    name: ginger
+    raw: 3 cm ginger
+  - qty: 3
+    unit: tsp
+    name: coriander
+    raw: 3 teaspoons ground coriander
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 1
+    unit: cup
+    name: coconut milk
+    raw: 1 cup coconut milk
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon lime juice
+  - name: sea salt
+    raw: Sea salt to taste
+  - qty: 200
+    unit: g
+    name: rice vermicelli
+    raw: 200 grams dried rice vermicelli
+  - name: coriander leaves
+    raw: Coriander leaves
+  - name: sambal oelek
+    raw: Sambal oelek
+  - name: lime wedges
+    raw: Lime wedges

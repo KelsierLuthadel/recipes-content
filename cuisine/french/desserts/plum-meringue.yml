@@ -1,0 +1,29 @@
+prep: 15 minutes
+cook: 1 hour
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - dessert
+  - make-ahead
+mentions:
+  - base-ingredients/syrup/sirop-a-sorbet
+  - tutorials/eggs/meringues
+ingredients:
+  - qty: 300
+    unit: g
+    name: plums
+    raw: 300 grams plums
+  - qty: 300
+    unit: ml
+    name: syrup for sorbet
+    raw: 300 ml Syrup for Sorbet
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 275
+    unit: g
+    name: meringue francaise
+    raw: 275 grams meringue Francaise

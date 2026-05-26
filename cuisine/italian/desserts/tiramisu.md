@@ -1,25 +1,3 @@
----
-prep: 30 minutes (plus overnight chilling)
-cook: 0 minutes (eggs are raw - see Notes)
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - make-ahead
-  - eggs
-  - cheese
-  - chocolate
-mentions:
-  - cuisine/american/desserts/nyc-cheesecake
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Tiramisù
 
 ![Tiramisù](resources/tiramisu.jpg)

@@ -1,34 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - ginger
-  - lime
-  - coriander
-  - yogurt
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lamb Bhuna
 
 ![Lamb Bhuna](resources/BIR-Lamb-bhuna.jpg)

@@ -1,0 +1,75 @@
+prep: 30 minutes
+cook: 105 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - onion
+  - tomato
+  - ginger
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 60
+    unit: g
+    name: cooking apples
+    raw: 60 grams cooking apples
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 125
+    unit: g
+    name: tomatoes
+    raw: 125 grams very ripe tomatoes
+  - qty: 60
+    unit: g
+    name: onion
+    raw: 60 grams onion
+  - qty: 15
+    unit: g
+    name: ginger
+    raw: 15 grams ginger
+  - qty: 60
+    unit: g
+    name: sultanas
+    raw: 60 grams sultanas
+  - qty: 1
+    unit: tbsp
+    name: orange zest
+    raw: 1 tablespoon orange zest
+  - qty: 1
+    name: orange
+    raw: 1 orange
+  - qty: 375
+    unit: g
+    name: but firm pears
+    raw: 375 grams ripe, but firm pears
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 grams caster sugar
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 0.25
+    unit: tsp
+    name: cayenne pepper
+    raw: ¼ teaspoon cayenne pepper
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: pinch saffron threads
+  - qty: 150
+    unit: ml
+    name: white wine vinegar
+    raw: 150 ml white wine vinegar

@@ -1,28 +1,3 @@
----
-prep: 10 minutes
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-tags:
-  - meals
-  - meat
-  - pork
-  - eggs
-  - tomato
-  - potato
-  - butter
-  - complex
-mentions:
-  - cuisine/american/side-dishes/baked-beans
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Full English Breakfast
 
 ![Full English Breakfast](resources/full-english-breakfast.jpg)

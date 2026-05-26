@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - mustard
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - onion
-  - coriander
-  - curry
-  - complex
-mentions: []
----
-
-
-
-
 # Balti Masala
 
 ![Balti Masala](resources/balti-masala.jpg)

@@ -1,0 +1,111 @@
+prep: 15 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken
+    raw: 1 kg chicken
+  - qty: 3
+    name: potatoes
+    raw: 3 medium potatoes
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 4
+    unit: tbsp
+    name: mustard oil
+    raw: 4 tablespoons mustard oil
+  - qty: 2
+    name: indian bay leaves
+    raw: 2 Indian bay leaves
+  - qty: 5
+    name: cinnamon
+    raw: 5 cm piece cinnamon
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    name: red chilli
+    raw: 1 dried red chilli
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tablespoons garlic and ginger paste
+  - qty: 1
+    name: tomato
+    raw: 1 tomato
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon turmeric
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 teaspoon Kashmiri chilli powder
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - name: salt
+    raw: Salt
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 teaspoon Garam Masala
+  - qty: 1
+    unit: tsp
+    name: ghee
+    raw: 1 teaspoon ghee
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of fresh coriander

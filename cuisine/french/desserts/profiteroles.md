@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - eggs
-  - butter
-  - cream
-  - chocolate
-  - valentines
-mentions:
-  - sauces/sauce-sweet/chocolate-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Profiteroles with Ice Cream and Chocolate Sauce
 
 ![Profiteroles with ice cream and chocolate sauce](resources/profiteroles.jpg)

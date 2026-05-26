@@ -1,18 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/stocks-sauces/bechamel
-  - tutorials/stocks-sauces/espagnole
----
-
-
-
 # Veloute
 
 ![Veloute](resources/veloute.jpg)

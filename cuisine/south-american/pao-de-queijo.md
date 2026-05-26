@@ -1,23 +1,3 @@
----
-prep: 20 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - meals
-  - eggs
-  - butter
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Pão de Queijo
 
 ![Pão de Queijo](resources/pao-de-queijo.jpg)

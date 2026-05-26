@@ -1,27 +1,3 @@
----
-prep: 5 minutes
-cook: 10 minutes
-allergens:
-  - peanuts
-  - soy
-  - fish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - fish
-  - onion
-  - garlic
-  - ginger
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tamarind Sauce
 
 ![Tamarind sauce](resources/tamarind-sauce.png)

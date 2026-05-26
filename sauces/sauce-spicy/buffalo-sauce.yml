@@ -1,0 +1,36 @@
+prep: 2 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - butter
+  - chili
+mentions:
+  - cuisine/american/snacks/buffalo-wings
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 125
+    unit: ml
+    name: frank's original hot sauce
+    raw: 125 ml Frank's Original Hot Sauce
+  - qty: 85
+    unit: g
+    name: unsalted butter
+    raw: 85 g unsalted butter
+  - qty: 2
+    unit: tsp
+    name: granulated sugar
+    raw: 2 teaspoons granulated sugar
+  - qty: 0.125
+    unit: tsp
+    name: garlic powder
+    raw: ⅛ teaspoon garlic powder
+  - qty: 5
+    unit: dash
+    name: worcestershire sauce
+    raw: 5 dashes Worcestershire sauce

@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 12 minutes
-allergens:
-  - dairy
-  - meat
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - meat
-  - pork
-  - cheese
-  - chili
-mentions:
-  - cuisine/italian/pesto
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Calabrese Pizza
 
 ![Calabrese Pizza](resources/calabrese.jpg)

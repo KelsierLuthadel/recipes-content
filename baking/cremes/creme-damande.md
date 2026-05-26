@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - baking
-  - eggs
-  - butter
-mentions:
-  - base-ingredients/baking/tant-pour-tant
-  - tutorials/patisserie/tarts
----
-
-
-
-
 # Crème d'Amande
 
 ![Crème d'amande](resources/creme-damande.jpg)

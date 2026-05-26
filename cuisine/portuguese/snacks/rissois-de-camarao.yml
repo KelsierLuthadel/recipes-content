@@ -1,0 +1,98 @@
+prep: 1 hour
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - shellfish
+tags:
+  - spicy
+  - snack
+  - fish
+  - prawn
+  - eggs
+  - onion
+  - lemon
+  - butter
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 30
+    unit: g
+    name: plain flour
+    raw: 30 g plain flour
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon white pepper
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - qty: 300
+    unit: g
+    name: prawns
+    raw: 300 g cooked peeled prawns
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons fresh parsley
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    name: shallot
+    raw: 1 shallot
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 200
+    unit: g
+    name: breadcrumbs
+    raw: 200 g fine dried breadcrumbs
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: piri-piri
+    raw: A dish of piri-piri
+  - name: black olives
+    raw: Black olives, sliced pickled chillies

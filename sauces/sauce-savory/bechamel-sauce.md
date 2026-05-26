@@ -1,20 +1,3 @@
----
-prep: 5 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - quick
-  - butter
-mentions:
-  - cuisine/french/snacks/croque-monsieur
----
-
-
-
-
 # Béchamel Sauce
 
 ![Béchamel sauce](resources/bechamel.png)

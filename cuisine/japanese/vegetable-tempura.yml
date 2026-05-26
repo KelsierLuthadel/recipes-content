@@ -1,0 +1,81 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+tags:
+  - vegetarian
+  - dairy-free
+  - meals
+  - eggs
+  - mushroom
+  - onion
+  - ginger
+  - potato
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 300
+    unit: ml
+    name: ice-cold sparkling water
+    raw: 300 ml ice-cold sparkling water
+  - qty: 1
+    unit: handful
+    name: ice cubes
+    raw: A handful of ice cubes
+  - qty: 1
+    name: sweet potato
+    raw: 1 sweet potato
+  - qty: 8
+    name: shiitake mushrooms
+    raw: 8 shiitake mushrooms
+  - qty: 1
+    name: kabocha squash
+    raw: 1 kabocha squash
+  - qty: 1
+    name: aubergine
+    raw: 1 aubergine
+  - qty: 8
+    name: green beans
+    raw: 8 green beans
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 8
+    name: shiso leaves
+    raw: 8 shiso leaves
+  - qty: 50
+    unit: g
+    name: plain flour
+    raw: 50 g plain flour
+  - name: vegetable oil
+    raw: Vegetable oil
+  - qty: 200
+    unit: ml
+    name: dashi
+    raw: 200 ml dashi
+  - qty: 4
+    unit: tbsp
+    name: light soy sauce
+    raw: 4 tablespoons light soy sauce
+  - qty: 4
+    unit: tbsp
+    name: mirin
+    raw: 4 tablespoons mirin
+  - qty: 100
+    unit: g
+    name: daikon
+    raw: 100 g daikon
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger

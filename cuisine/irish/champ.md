@@ -1,23 +1,3 @@
----
-prep: 5 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - meals
-  - onion
-  - potato
-  - butter
-  - st-patricks
-mentions: []
----
-
-
-
-
 # Champ
 
 ![Champ](resources/champ.jpg)

@@ -1,0 +1,81 @@
+prep: 20 minutes (plus 6+ hour churning / freezing)
+cook: 8 minutes (for the custard base)
+allergens:
+  - dairy
+  - peanuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - asian
+  - rice
+  - coconut
+  - honey
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 800
+    unit: ml
+    name: coconut milk
+    raw: 800 ml full-fat coconut milk
+  - qty: 200
+    unit: ml
+    name: coconut cream
+    raw: 200 ml coconut cream
+  - qty: 150
+    unit: g
+    name: palm sugar
+    raw: 150 g palm sugar
+  - qty: 2
+    unit: tbsp
+    name: glucose syrup
+    raw: 2 tablespoons glucose syrup
+  - qty: 0.75
+    unit: tsp
+    name: salt
+    raw: ¾ teaspoon salt
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf, tied in a knot
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 2
+    name: bananas
+    raw: 2 bananas
+  - qty: 200
+    unit: g
+    name: sweet sticky rice
+    raw: 200 g sweet sticky rice
+  - qty: 80
+    unit: g
+    name: salted roasted peanuts
+    raw: 80 g salted roasted peanuts
+  - qty: 200
+    unit: g
+    name: sweet red bean paste or cooked azuki beans in syrup
+    raw: 200 g sweet red bean paste OR cooked azuki beans in syrup
+  - qty: 50
+    unit: g
+    name: toasted shredded coconut
+    raw: 50 g toasted shredded coconut
+  - qty: 6
+    name: maraschino cherries
+    raw: 6 maraschino cherries
+  - qty: 80
+    unit: g
+    name: palm sugar
+    raw: 80 g palm sugar
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 80 ml water
+  - qty: 1
+    unit: small pinch
+    name: salt
+    raw: 1 small pinch salt

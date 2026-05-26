@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-cook: 25 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - sides
-  - garlic
-  - lemon
-  - coriander
-  - chili
-mentions: []
----
-
-
-
-
 # Batata Harra
 
 ![Batata Harra](resources/batata-harra.jpg)

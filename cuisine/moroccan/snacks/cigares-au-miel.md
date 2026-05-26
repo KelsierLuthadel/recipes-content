@@ -1,27 +1,3 @@
----
-prep: 45 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-  - sesame
-tags:
-  - vegetarian
-  - snack
-  - eggs
-  - butter
-  - honey
-  - nuts
-mentions:
-  - baking/pastry/filo-pastry
-  - tutorials/pastry/filo
----
-
-
-
-
 # Cigares au Miel (Honey Almond Cigars)
 
 ![Cigares au Miel](resources/cigares-au-miel.jpg)

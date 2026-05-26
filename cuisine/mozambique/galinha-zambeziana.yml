@@ -1,0 +1,79 @@
+prep: 15 minutes (plus 2 hours marinating)
+cook: 50 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - garlic
+  - coconut
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: chicken
+    raw: 1 whole chicken
+  - qty: 200
+    unit: ml
+    name: coconut milk
+    raw: 200 ml coconut milk
+  - qty: 2
+    name: limes
+    raw: 2 limes
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 3
+    name: bird's-eye chillies
+    raw: 3 bird's-eye chillies
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 50
+    unit: g
+    name: cashew nuts
+    raw: 50 g raw cashew nuts
+  - qty: 200
+    unit: ml
+    name: coconut milk
+    raw: 200 ml coconut milk
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tbsp
+    name: piri-piri sauce
+    raw: 1 tablespoon piri-piri sauce
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon lime juice
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: coriander leaves
+    raw: 1 tablespoon coriander leaves

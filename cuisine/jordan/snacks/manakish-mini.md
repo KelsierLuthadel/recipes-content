@@ -1,30 +1,3 @@
----
-prep: 30 minutes (plus 1 hour dough rise)
-cook: 10 minutes per batch
-allergens:
-  - gluten
-  - dairy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - snack
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - tomato
-  - cheese
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Manakish Mini
 
 ![Manakish Mini](resources/manakish-mini.jpg)

@@ -1,33 +1,3 @@
----
-prep: 45 minutes (plus 1 hour rising)
-cook: 12 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - spicy
-  - meals
-  - meat
-  - beef
-  - lamb
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - yogurt
-  - nuts
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Lahem Bi Ajeen
 
 ![Lahem bi Ajeen](resources/lahem-bi-ajeen.jpg)

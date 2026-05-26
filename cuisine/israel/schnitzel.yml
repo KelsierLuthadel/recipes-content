@@ -1,0 +1,68 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - rice
+  - lemon
+  - passover
+  - rosh-hashanah
+  - tu-bav
+  - yom-kippur
+  - sukkot
+  - jewish
+mentions:
+  - cuisine/israel/side-dishes/israeli-salad
+ingredients:
+  - qty: 4
+    name: chicken breasts
+    raw: 4 chicken breasts
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 200
+    unit: g
+    name: panko breadcrumbs
+    raw: 200 g panko breadcrumbs
+  - qty: 2
+    unit: tsp
+    name: sweet paprika
+    raw: 2 teaspoons sweet paprika
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 300
+    unit: ml
+    name: vegetable oil
+    raw: 300 ml vegetable oil for frying
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: israeli salata
+    raw: Israeli salata
+  - name: pita
+    raw: Pita

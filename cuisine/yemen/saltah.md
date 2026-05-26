@@ -1,34 +1,3 @@
----
-prep: 30 minutes (plus overnight for fenugreek)
-cook: 2 hours 30 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - lamb
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - lemon
-  - coriander
-  - chili
-  - complex
-mentions:
-  - cuisine/yemen/side-dishes/lahoh
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Saltah
 
 ![Saltah](resources/saltah.jpg)

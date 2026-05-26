@@ -1,30 +1,3 @@
----
-prep: 25 minutes (plus 30 minutes resting)
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-tags:
-  - make-ahead
-  - sides
-  - meat
-  - chicken
-  - beef
-  - pork
-  - eggs
-  - cream
-  - cheese
-mentions:
-  - cuisine/mexican/side-dishes/refried-beans
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Baleadas
 
 ![Baleadas](resources/baleadas.jpg)

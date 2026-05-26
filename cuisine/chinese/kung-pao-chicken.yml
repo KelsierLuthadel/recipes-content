@@ -1,0 +1,68 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - peanuts
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - ginger
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: chicken pieces
+    raw: 350 grams chicken pieces
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 150
+    unit: ml
+    name: groundnut oil
+    raw: 150 ml groundnut oil
+  - qty: 1
+    unit: tsp
+    name: oil
+    raw: 1 teaspoon oil
+  - qty: 1
+    name: red chilli
+    raw: 1 dried red chilli
+  - qty: 0.5
+    unit: tsp
+    name: ginger
+    raw: ½ teaspoon fresh ginger
+  - qty: 0.5
+    unit: tsp
+    name: chilli powder
+    raw: ½ teaspoon chilli powder
+  - qty: 300
+    unit: ml
+    name: chinese chicken stock
+    raw: 300 ml Chinese chicken stock
+  - qty: 0.5
+    unit: tsp
+    name: sichuan peppercorns
+    raw: ½ teaspoon Sichuan peppercorns
+  - qty: 0.5
+    unit: tsp
+    name: sugar
+    raw: ½ teaspoon sugar
+  - qty: 2
+    unit: tsp
+    name: dark soy sauce
+    raw: 2 teaspoons dark soy sauce

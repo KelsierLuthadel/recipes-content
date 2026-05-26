@@ -1,0 +1,48 @@
+prep: 40 minutes (plus optional chilling)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - lemon
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 2
+    unit: l
+    name: milk
+    raw: 2 litres whole milk
+  - qty: 3
+    unit: tbsp
+    name: lemon juice
+    raw: 3 tbsp lemon juice
+  - name: ice cubes
+    raw: Ice cubes
+  - qty: 1
+    unit: tsp
+    name: semolina
+    raw: 1 tsp fine semolina , optional but helpful
+  - qty: 1
+    unit: tsp
+    name: plain flour
+    raw: 1 tsp plain flour, optional
+  - qty: 400
+    unit: g
+    name: sugar
+    raw: 400 g sugar
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1 ½ litres water
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - name: saffron
+    raw: A few strands saffron
+  - qty: 1
+    unit: tsp
+    name: rose water
+    raw: 1 tsp rose water

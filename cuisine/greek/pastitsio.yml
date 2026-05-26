@@ -1,0 +1,105 @@
+prep: 30 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - butter
+  - cheese
+  - complex
+mentions:
+  - cuisine/greek/moussaka
+  - cuisine/italian/lasagne
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 400
+    unit: g
+    name: bucatini
+    raw: 400 g bucatini
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 50
+    unit: g
+    name: kefalotyri
+    raw: 50 g grated kefalotyri
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 700
+    unit: g
+    name: beef mince
+    raw: 700 g beef mince
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tinned chopped tomatoes
+  - qty: 150
+    unit: ml
+    name: red wine
+    raw: 150 ml red wine
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 0.25
+    unit: tsp
+    name: allspice
+    raw: ¼ teaspoon ground allspice
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 75
+    unit: g
+    name: unsalted butter
+    raw: 75 g unsalted butter
+  - qty: 75
+    unit: g
+    name: plain flour
+    raw: 75 g plain flour
+  - qty: 800
+    unit: ml
+    name: milk
+    raw: 800 ml whole milk
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 100
+    unit: g
+    name: kefalotyri
+    raw: 100 g grated kefalotyri
+  - name: nutmeg
+    raw: A grating of nutmeg

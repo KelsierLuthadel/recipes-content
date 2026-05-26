@@ -1,21 +1,3 @@
----
-prep: 10 minutes
-cook: 35 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - garlic
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Semi-Confit Peppers
 
 ![Semi-Confit Peppers](resources/confit-peppers.jpg)

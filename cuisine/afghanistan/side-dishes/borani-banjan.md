@@ -1,27 +1,3 @@
----
-prep: 15 minutes (plus 30 minutes salting)
-cook: 35 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - sides
-  - onion
-  - garlic
-  - tomato
-  - coriander
-  - yogurt
-mentions:
-  - cuisine/indian/lamb-karahi
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Borani Banjan
 
 ![Borani Banjan](resources/borani-banjan.jpg)

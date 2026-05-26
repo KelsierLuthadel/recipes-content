@@ -1,31 +1,3 @@
----
-prep: 45 minutes
-cook: 1 ¼ hours
-allergens:
-  - dairy
-  - eggs
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - beef
-  - pork
-  - eggs
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - carrot
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Holubtsi
 
 ![Holubtsi](resources/holubtsi.jpg)

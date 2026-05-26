@@ -1,31 +1,3 @@
----
-prep: 15 minutes
-cook: 12 minutes
-allergens:
-  - meat
-  - mustard
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - snack
-  - meat
-  - pork
-  - onion
-  - garlic
-  - tomato
-  - coriander
-  - chili
-mentions:
-  - cuisine/chilean/side-dishes/pebre
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Choripán Chileno
 
 ![Choripán Chileno](resources/choripan-chileno.jpg)

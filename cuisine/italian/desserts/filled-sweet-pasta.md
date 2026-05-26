@@ -1,28 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - eggs
-  - butter
-  - cheese
-  - nuts
-mentions:
-  - tutorials/bread/gluten
-  - tutorials/patisserie/petit-fours
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Half-Moon Shaped Sweet Pasta Filled with Candied Fruit
 
 ![Half-moon sweet pasta with candied fruit](resources/filled-sweet-pasta.jpg)

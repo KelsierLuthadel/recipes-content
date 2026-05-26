@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - sides
-  - butter
-  - cheese
-  - honey
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Harcha
 
 ![Harcha](resources/harcha.jpg)

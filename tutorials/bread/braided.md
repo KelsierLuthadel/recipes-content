@@ -1,20 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/bread/enriched-doughs
-  - tutorials/bread/proving
-  - tutorials/bread/shapes
-  - tutorials/bread/standard-loaf
-  - tutorials/pizza/dough
----
-
-
-
 # Braided Loaf
 
 ![A braided loaf](resources/braided-loaf.jpg)

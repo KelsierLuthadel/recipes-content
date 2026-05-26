@@ -1,21 +1,3 @@
----
-prep: 5 minutes
-cook: 20 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - lemon
-  - cream
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Banana Sauce
 
 ![Banana sauce](resources/banana.jpg)

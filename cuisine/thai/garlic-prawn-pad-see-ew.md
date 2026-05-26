@@ -1,34 +1,3 @@
----
-prep: 10 minutes
-cook: 5 minutes
-allergens:
-  - gluten
-  - eggs
-  - soy
-  - sesame
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - fish
-  - prawn
-  - eggs
-  - garlic
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/stir-fry/wok-hei
----
-
-
-
-
 # Garlic Prawn Pad See Ew
 
 ![Garlic Prawn Pad See Ew](resources/garlic-prawn-pad-see-ew.jpg)

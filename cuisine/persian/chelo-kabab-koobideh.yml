@@ -1,0 +1,79 @@
+prep: 30 minutes (plus 1 hour chilling)
+cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - lamb
+  - rice
+  - onion
+  - tomato
+  - butter
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - cuisine/azerbaijan/side-dishes/lavash
+  - cuisine/iran/tahdig
+ingredients:
+  - qty: 700
+    unit: g
+    name: lamb
+    raw: 700 g minced lamb
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: sumac
+    raw: ½ teaspoon ground sumac
+  - qty: 1
+    unit: pinch
+    name: saffron
+    raw: A pinch of saffron
+  - qty: 0.5
+    unit: tsp
+    name: bicarbonate of soda
+    raw: ½ teaspoon bicarbonate of soda
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes
+  - qty: 2
+    name: long red chillies
+    raw: 2 long red chillies
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - name: chelo
+    raw: Chelo
+  - name: basil
+    raw: Fresh basil
+  - name: mint
+    raw: Mint
+  - name: spring onions
+    raw: Spring onions
+  - name: sumac
+    raw: Sumac
+  - qty: 4
+    name: lavash flatbreads
+    raw: 4 lavash flatbreads
+  - name: yogurt and cucumber dip
+    raw: Yogurt and cucumber dip

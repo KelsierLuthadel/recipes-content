@@ -1,0 +1,45 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - dessert
+  - ginger
+  - coconut
+  - honey
+mentions: []
+ingredients:
+  - qty: 300
+    unit: g
+    name: coconut
+    raw: 300 g fresh coconut
+  - qty: 250
+    unit: g
+    name: dark brown sugar
+    raw: 250 g dark brown sugar
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 80 ml water
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - qty: 0.5
+    unit: tsp
+    name: ginger
+    raw: ½ teaspoon ground ginger
+  - qty: 1
+    unit: tbsp
+    name: honey
+    raw: 1 tablespoon honey

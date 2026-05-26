@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 40 minutes
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - nuts
-  - eid-al-fitr
-  - ramadan
-  - muslim
-mentions:
-  - cuisine/pakistani/desserts/sevaiyan
----
-
-
-
-
 # Sheer Khurma
 
 ![Sheer Khurma](resources/sheer-khurma.jpg)

@@ -1,21 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - make-ahead
-mentions:
-  - tutorials/bread/gluten
-  - tutorials/bread/hydration
-  - tutorials/bread/proving
-  - tutorials/bread/shapes
-  - tutorials/pizza/dough
----
-
-
-
 # Sourdough Basics
 
 ![Bread](resources/sourdough.jpg)

@@ -1,0 +1,73 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens:
+  - soy
+  - sesame
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - one-pan
+  - meals
+  - meat
+  - fish
+  - salmon
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - honey
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: salmon fillets
+    raw: 4 skin-on salmon fillets
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - name: salt
+    raw: Salt
+  - qty: 4
+    unit: tbsp
+    name: soy sauce
+    raw: 4 tablespoons soy sauce
+  - qty: 3
+    unit: tbsp
+    name: honey
+    raw: 3 tablespoons honey
+  - qty: 2
+    unit: tbsp
+    name: mirin
+    raw: 2 tablespoons mirin
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon grated fresh ginger
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: toasted sesame oil
+    raw: 1 teaspoon toasted sesame oil
+  - qty: 1
+    name: head broccoli or 4 heads bok choy
+    raw: 1 head broccoli or 4 heads bok choy
+  - qty: 50
+    unit: ml
+    name: chicken stock
+    raw: 50 ml chicken stock
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 1 tablespoon toasted sesame seeds
+  - name: rice
+    raw: Cooked rice, to serve

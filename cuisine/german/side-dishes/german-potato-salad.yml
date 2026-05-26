@@ -1,0 +1,66 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - sides
+  - meat
+  - pork
+  - onion
+  - potato
+mentions:
+  - cuisine/german/snacks/frikadellen
+  - cuisine/german/wiener-schnitzel
+ingredients:
+  - qty: 1
+    unit: kg
+    name: waxy potatoes
+    raw: 1 kg waxy potatoes
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 150
+    unit: g
+    name: smoked streaky bacon
+    raw: 150 g smoked streaky bacon
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 200
+    unit: ml
+    name: chicken stock
+    raw: 200 ml hot chicken stock
+  - qty: 4
+    unit: tbsp
+    name: white wine vinegar
+    raw: 4 tablespoons white wine vinegar
+  - qty: 1
+    unit: tbsp
+    name: german mustard
+    raw: 1 tablespoon German mustard
+  - qty: 2
+    unit: tsp
+    name: caster sugar
+    raw: 2 teaspoons caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 3
+    unit: tbsp
+    name: chives
+    raw: 3 tablespoons fresh chives
+  - qty: 1
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 1 tablespoon flat-leaf parsley
+  - qty: 2
+    unit: tbsp
+    name: neutral oil
+    raw: 2 tablespoons neutral oil

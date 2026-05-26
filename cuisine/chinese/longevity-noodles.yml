@@ -1,0 +1,75 @@
+prep: 15 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - sesame
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - eggs
+  - mushroom
+  - onion
+  - garlic
+  - ginger
+  - soy-sauce
+  - lunar-new-year
+mentions:
+  - cuisine/chinese/char-siu
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: yi mein - about 2 cakes - or fresh thin egg noodles
+    raw: 400 g yi mein - about 2 cakes - or fresh thin egg noodles
+  - qty: 200
+    unit: g
+    name: shiitake mushrooms
+    raw: 200 g shiitake mushrooms
+  - qty: 1
+    name: garlic chives
+    raw: 1 large bunch garlic chives
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 3
+    unit: tbsp
+    name: light soy sauce
+    raw: 3 tablespoons light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tablespoon dark soy sauce
+  - qty: 1
+    unit: tbsp
+    name: oyster sauce
+    raw: 1 tablespoon oyster sauce
+  - qty: 1
+    unit: tbsp
+    name: shaoxing wine
+    raw: 1 tablespoon shaoxing wine
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 200
+    unit: ml
+    name: chicken stock
+    raw: 200 ml chicken stock

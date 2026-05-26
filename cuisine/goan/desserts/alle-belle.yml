@@ -1,0 +1,75 @@
+prep: 15 minutes (plus 30 minutes rest)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - coconut
+  - complex
+mentions: []
+ingredients:
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 300
+    unit: ml
+    name: coconut milk
+    raw: 300 ml coconut milk
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - qty: 200
+    unit: g
+    name: palm jaggery
+    raw: 200 g palm jaggery
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons water
+  - qty: 200
+    unit: g
+    name: coconut
+    raw: 200 g fresh grated coconut
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 4
+    unit: tbsp
+    name: ghee
+    raw: 4 tablespoons ghee
+  - name: coconut
+    raw: A few tablespoons of extra fresh grated coconut

@@ -1,24 +1,3 @@
----
-prep: 5 minutes
-cook: 25 minutes
-allergens:
-  - tree-nuts
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - rice
-  - onion
-  - nuts
-mentions: []
----
-
-
-
-
 # Shwe Htamin
 
 ![Shwe Htamin](resources/shwe-htamin.jpg)

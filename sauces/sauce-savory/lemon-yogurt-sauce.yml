@@ -1,0 +1,42 @@
+prep: 5 minutes (plus 20 minutes resting)
+cook: None
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - garlic
+  - lemon
+  - yogurt
+mentions:
+  - cuisine/israel/side-dishes/baba-ganoush
+  - cuisine/israel/side-dishes/falafel
+  - cuisine/lebanese/side-dishes/labneh
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: cup
+    name: greek-style yogurt
+    raw: 1 cup full-fat Greek-style yogurt
+  - qty: 0.25
+    unit: tsp
+    name: garlic
+    raw: ¼ teaspoon finely grated garlic
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 1 tablespoon extra-virgin olive oil
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
+  - qty: 1
+    unit: pinch
+    name: black or white pepper
+    raw: A pinch of black or white pepper

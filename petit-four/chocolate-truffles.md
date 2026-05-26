@@ -1,20 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - butter
-  - cream
-  - chocolate
-mentions: []
----
-
-
-
-
 # Chocolate Truffles
 
 ![Chocolate Truffles](resources/chocolate-truffles.jpg)

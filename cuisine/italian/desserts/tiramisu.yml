@@ -1,0 +1,64 @@
+prep: 30 minutes (plus overnight chilling)
+cook: 0 minutes (eggs are raw - see Notes)
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - make-ahead
+  - eggs
+  - cheese
+  - chocolate
+mentions:
+  - cuisine/american/desserts/nyc-cheesecake
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 500
+    unit: g
+    name: mascarpone cheese
+    raw: 500 g mascarpone cheese
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 300
+    unit: ml
+    name: espresso
+    raw: 300 ml strong fresh espresso
+  - qty: 3
+    unit: tbsp
+    name: marsala
+    raw: 3 tablespoons Marsala
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 300
+    unit: g
+    name: savoiardi
+    raw: 300 g savoiardi
+  - qty: 30
+    unit: g
+    name: cocoa powder
+    raw: 30 g good cocoa powder
+  - qty: 50
+    unit: g
+    name: dark chocolate
+    raw: 50 g dark chocolate
+  - name: mascarpone-style spoon
+    raw: Mascarpone-style spoon for serving
+  - name: "optional: extra cocoa at the table"
+    raw: "Optional: extra cocoa at the table"

@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-cook: 11 minutes
-allergens:
-  - gluten
-  - peanuts
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - quick
-  - dessert
-mentions:
-  - cuisine/french/desserts/crepes
----
-
-
-
-
 # Parcels of Poached Pears
 
 ![Parcels of poached pears](resources/parcels.jpg)

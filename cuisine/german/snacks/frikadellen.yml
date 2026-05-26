@@ -1,0 +1,80 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+tags:
+  - snack
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - butter
+  - complex
+mentions:
+  - cuisine/german/side-dishes/german-potato-salad
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: stale bread roll
+    raw: 1 stale bread roll
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 350
+    unit: g
+    name: pork
+    raw: 350 g minced pork
+  - qty: 350
+    unit: g
+    name: beef
+    raw: 350 g minced beef
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 2
+    unit: tbsp
+    name: german mustard
+    raw: 2 tablespoons German mustard
+  - qty: 2
+    unit: tsp
+    name: marjoram
+    raw: 2 teaspoons dried marjoram
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons fine salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon freshly ground black pepper
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: neutral oil
+    raw: 2 tablespoons neutral oil
+  - name: german mustard
+    raw: German mustard
+  - name: bread rolls
+    raw: Bread rolls
+  - name: gherkins
+    raw: Gherkins

@@ -1,17 +1,3 @@
----
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-mentions:
-  - tutorials/pastry/sweet-short
-  - tutorials/pizza/dough
----
-
-
-
 # Choux Pastry
 
 ![Choux](resources/choux.jpg)

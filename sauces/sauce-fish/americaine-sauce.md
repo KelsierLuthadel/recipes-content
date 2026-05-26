@@ -1,31 +1,3 @@
----
-prep: 20 minutes
-cook: 50 minutes
-allergens:
-  - gluten
-  - dairy
-  - peanuts
-  - fish
-  - shellfish
-  - garlic
-tags:
-  - spicy
-  - fish
-  - onion
-  - garlic
-  - tomato
-  - carrot
-  - butter
-  - cream
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Américaine Sauce
 
 ![Américaine sauce](resources/americaine-sauce.png)

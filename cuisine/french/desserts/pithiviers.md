@@ -1,21 +1,3 @@
----
-prep: 5 minutes
-cook: 26 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-mentions:
-  - baking/cremes/creme-damande
----
-
-
-
-
 # Pithiviers
 
 ![Pithiviers](resources/pithivier.jpg)

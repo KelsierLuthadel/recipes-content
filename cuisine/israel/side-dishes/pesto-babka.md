@@ -1,34 +1,3 @@
----
-prep: 30 minutes (plus 1 ½ hours first rise, optional 12-hour cold proof, 1 ½ hours final rise)
-cook: 45-50 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-  - garlic
-tags:
-  - vegetarian
-  - make-ahead
-  - sides
-  - eggs
-  - garlic
-  - lemon
-  - butter
-  - cheese
-  - nuts
-  - complex
-mentions:
-  - cuisine/israel/desserts/babka
-  - cuisine/israel/side-dishes/challah
-  - cuisine/italian/pesto
-  - cuisine/polish/desserts/chocolate-babka
-  - tutorials/pizza/dough
----
-
-
-
-
 # Pesto Babka
 
 ![Pesto Babka](resources/pesto-babka.jpg)

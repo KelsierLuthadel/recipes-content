@@ -1,0 +1,80 @@
+prep: 15 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: firm green tomatoes
+    raw: 4 firm green tomatoes
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 150
+    unit: g
+    name: yellow cornmeal mixed with 50 g panko breadcrumbs and 1 tsp creole seasoning
+    raw: 150 g fine yellow cornmeal mixed with 50 g panko breadcrumbs and 1 tsp Creole seasoning
+  - qty: 250
+    unit: ml
+    name: vegetable oil
+    raw: 250 ml vegetable oil
+  - name: salt
+    raw: Coarse salt
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tablespoons mayonnaise
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: dill pickle
+    raw: 1 tablespoon dill pickle
+  - qty: 1
+    unit: tbsp
+    name: spring onion
+    raw: 1 tablespoon spring onion
+  - qty: 1
+    unit: tsp
+    name: hot pepper sauce
+    raw: 1 teaspoon hot pepper sauce
+  - qty: 1
+    unit: tsp
+    name: lemon juice
+    raw: 1 teaspoon lemon juice
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 0.5
+    unit: tsp
+    name: smoked paprika
+    raw: ½ teaspoon smoked paprika
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt

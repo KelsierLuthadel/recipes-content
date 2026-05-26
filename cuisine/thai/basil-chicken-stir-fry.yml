@@ -1,0 +1,60 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - soy
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves, smashed
+  - qty: 5
+    name: red spur chillies
+    raw: 5 red spur chillies, cut into thin rings
+  - qty: 2
+    name: shallots
+    raw: 2 shallots, thinly sliced
+  - qty: 2
+    unit: tbsp
+    name: rapeseed oil
+    raw: 2 tbsp rapeseed oil
+  - qty: 600
+    unit: g
+    name: chicken thigh fillets
+    raw: 600g skinless chicken thigh fillets, cut into small pieces
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce*
+    raw: 1 tbsp light soy sauce*
+  - qty: 1
+    unit: tsp
+    name: palm sugar
+    raw: 1 tsp palm sugar, finely chopped
+  - qty: 1
+    unit: tbsp
+    name: oyster sauce*
+    raw: 1 tbsp oyster sauce*
+  - qty: 1.5
+    unit: tsp
+    name: dark soy sauce*
+    raw: 1 ½ tsp dark soy sauce*
+  - qty: 1
+    unit: large handful
+    name: thai holy basil leaves
+    raw: Large handful of Thai holy basil leaves, finely

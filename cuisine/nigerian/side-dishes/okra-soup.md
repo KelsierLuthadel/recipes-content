@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-cook: 35 minutes
-allergens:
-  - fish
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - sides
-  - meat
-  - fish
-  - beef
-  - rice
-  - onion
-  - garlic
-  - chili
-mentions:
-  - cuisine/nigerian/side-dishes/fufu
----
-
-
-
-
 # Okra Soup
 
 ![Okra Soup](resources/okra-soup.jpg)

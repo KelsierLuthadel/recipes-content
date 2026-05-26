@@ -1,21 +1,3 @@
----
-prep: 10 minutes (plus 30 minutes resting)
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - sides
-  - eggs
-  - rice
-mentions: []
----
-
-
-
-
 # Calas
 
 ![Calas](resources/calas.jpg)

@@ -1,0 +1,85 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - tree-nuts
+  - fish
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - pork
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - nuts
+  - chili
+mentions:
+  - tutorials/bread/gluten
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 100
+    unit: g
+    name: glass noodles
+    raw: 100 g raw glass noodles
+  - qty: 6
+    name: plum tomatoes
+    raw: 6 baby plum tomatoes, quartered
+  - qty: 4
+    name: shallots
+    raw: 4 shallots, thinly sliced
+  - qty: 1
+    unit: stick
+    name: celery with leaves
+    raw: 1 stick celery with leaves, thinly sliced
+  - qty: 10
+    name: prawns
+    raw: 10 small raw prawns , peeled and deveined
+  - qty: 125
+    unit: g
+    name: pork
+    raw: 125 g minced pork
+  - qty: 10
+    name: roasted cashews
+    raw: 10 roasted cashews, roughly chopped
+  - qty: 3
+    unit: tbsp
+    name: coriander leaves
+    raw: 3 tbsp roughly chopped coriander leaves
+  - qty: 1
+    unit: tbsp
+    name: shrimp
+    raw: 1 tbsp dried shrimp, soaked in warm water for 10 minutes
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, smashed
+  - qty: 2
+    unit: tbsp
+    name: coriander stalks
+    raw: 2 tbsp finely chopped coriander stalks
+  - qty: 3
+    name: red bird’s eye chillies
+    raw: 3 red bird’s eye chillies, roughly chopped
+  - qty: 1
+    unit: tbsp
+    name: palm sugar
+    raw: 1 tbsp palm sugar, grated
+  - qty: 3
+    unit: tbsp
+    name: thai fish sauce
+    raw: 3 tbsp Thai fish sauce
+  - qty: 3.5
+    unit: tbsp
+    name: lime juice
+    raw: 3 ½ tbsp lime juice

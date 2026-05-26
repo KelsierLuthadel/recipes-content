@@ -1,24 +1,3 @@
----
-prep: 30 minutes (plus 2 hours rising)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - butter
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Cinnamon Swirl Buns
 
 ![Cinnamon Swirl Buns](resources/cinnamon-swirl.jpg)

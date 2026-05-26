@@ -1,21 +1,3 @@
----
-prep: 25 minutes
-cook: 8-10 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - eggs
-  - butter
-mentions:
-  - tutorials/patisserie/petit-fours
----
-
-
-
-
 # Vanilla Tuiles
 
 ![Vanilla Tuiles](resources/tuiles.jpg)

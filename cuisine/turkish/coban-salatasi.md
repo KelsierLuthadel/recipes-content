@@ -1,26 +1,3 @@
----
-prep: 15 minutes
-cook: 0 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - meals
-  - onion
-  - tomato
-  - lemon
-  - cheese
-mentions:
-  - cuisine/israel/side-dishes/israeli-salad
-  - tutorials/pizza/cheese
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Çoban Salatası
 
 ![Çoban Salatası](resources/coban-salatasi.jpg)

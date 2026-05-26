@@ -1,30 +1,3 @@
----
-prep: 5 minutes
-cook: 7 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-tags:
-  - quick
-  - meals
-  - meat
-  - beef
-  - rice
-  - cream
-  - cheese
-mentions:
-  - cuisine/mexican/side-dishes/pico-de-gallo
-  - cuisine/mexican/side-dishes/refried-beans
-  - cuisine/mexican/side-dishes/spiced-rice
-  - sauces/sauce-savory/cheese-sauce
-  - tutorials/pizza/sauce
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Fiery Beef Burrito
 
 ![Fiery Beef Burrito](resources/fiery-beef-burrito.jpg)

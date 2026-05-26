@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 0 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - make-ahead
-  - sides
-  - onion
-  - tomato
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Horiatiki (Greek Village Salad)
 
 ![Horiatiki](resources/horiatiki.jpg)

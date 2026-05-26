@@ -1,21 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - baking
-  - nuts
-mentions:
-  - tutorials/patisserie/tarts
----
-
-
-
-
 # Crème Pralinée
 
 ![Crème Pralinée](resources/creme-pralinee.png)

@@ -1,0 +1,79 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - butter
+  - chili
+  - complex
+mentions:
+  - cuisine/bhutanese/phaksha-paa
+  - cuisine/indian/BIR-chicken-curry
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: chicken
+    raw: 1 chicken , jointed into 8 pieces
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 2
+    name: brown onions
+    raw: 2 brown onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 6
+    name: ginger
+    raw: 6 cm fresh ginger
+  - qty: 4
+    name: green chillies
+    raw: 4 green chillies
+  - qty: 3
+    name: tomatoes
+    raw: 3 tomatoes
+  - qty: 1
+    unit: tsp
+    name: sichuan pepper
+    raw: 1 teaspoon Sichuan pepper
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon freshly ground black pepper
+  - name: red rice
+    raw: Red rice
+  - name: ezay
+    raw: Ezay , optional

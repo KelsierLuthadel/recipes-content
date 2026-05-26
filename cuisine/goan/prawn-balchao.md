@@ -1,31 +1,3 @@
----
-prep: 20 minutes
-cook: 30 minutes
-allergens:
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - fish
-  - prawn
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coconut
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Prawn Balchão
 
 ![Prawn Balchão](resources/prawn-balchao.jpg)

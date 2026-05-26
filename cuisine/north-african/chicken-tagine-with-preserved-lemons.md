@@ -1,28 +1,3 @@
----
-prep: 20 minutes
-cook: 1 hour 15 minutes
-allergens:
-  - gluten
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Tagine with Preserved Lemons
 
 ![Chicken Tagine with Preserved Lemons](resources/chicken-tagine-with-preserved-lemons.jpg)

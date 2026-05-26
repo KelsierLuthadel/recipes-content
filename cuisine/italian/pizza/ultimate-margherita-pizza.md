@@ -1,26 +1,3 @@
----
-prep: 40 minutes
-cook: 50 minutes
-allergens:
-  - gluten
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - meals
-  - onion
-  - garlic
-  - tomato
-  - cheese
-  - complex
-mentions:
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # The Ultimate Margherita Pizza
 
 ![The Ultimate Margherita Pizza](resources/ultimate-margherita-pizza.jpg)

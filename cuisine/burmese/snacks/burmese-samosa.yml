@@ -1,0 +1,112 @@
+prep: 40 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - peanuts
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - snack
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - complex
+mentions:
+  - cuisine/burmese/side-dishes/samusa-thoke
+  - cuisine/indian/side-dishes/samosa
+  - cuisine/indian/snacks/samosa
+  - sauces/sauce-fish/tamarind-sauce
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 130
+    unit: ml
+    name: water
+    raw: 130 ml hot water
+  - qty: 1
+    unit: tbsp
+    name: plain flour mixed with 1 tablespoon water
+    raw: 1 tablespoon plain flour mixed with 1 tablespoon water
+  - qty: 400
+    unit: g
+    name: floury potatoes
+    raw: 400 g floury potatoes
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm ginger
+  - qty: 1
+    name: long green chilli
+    raw: 1 long green chilli
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - qty: 0.25
+    unit: tsp
+    name: white pepper
+    raw: ¼ teaspoon ground white pepper
+  - qty: 80
+    unit: g
+    name: peas
+    raw: 80 g frozen peas
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: roasted peanuts
+    raw: 2 tablespoons roasted peanuts
+  - qty: 2
+    unit: tbsp
+    name: coriander leaves
+    raw: 2 tablespoons coriander leaves
+  - qty: 0.5
+    name: lime
+    raw: ½ lime
+  - qty: 750
+    unit: ml
+    name: neutral oil
+    raw: 750 ml neutral oil
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 2
+    name: long green chillies
+    raw: 2 long green chillies
+  - name: lime wedges
+    raw: Lime wedges

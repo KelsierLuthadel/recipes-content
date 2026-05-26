@@ -1,35 +1,3 @@
----
-prep: 20 minutes
-cook: 50 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - sesame
-  - meat
-  - garlic
-tags:
-  - spicy
-  - sides
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - lemon
-  - butter
-  - yogurt
-  - chickpea
-  - nuts
-  - chili
-  - complex
-mentions:
-  - cuisine/palestinian/snacks/makdous
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Fatteh Djaj
 
 ![Fatteh Djaj](resources/fatteh-djaj.jpg)

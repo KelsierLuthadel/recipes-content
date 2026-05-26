@@ -1,23 +1,3 @@
----
-prep: 5 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - dessert
-  - chocolate
-  - day-of-the-dead
-mentions:
-  - cuisine/mexican/desserts/atole
-  - cuisine/mexican/desserts/pan-de-muerto
----
-
-
-
-
 # Champurrado
 
 ![Champurrado](resources/champurrado.jpg)

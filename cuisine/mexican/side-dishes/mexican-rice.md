@@ -1,29 +1,3 @@
----
-prep: 10 minutes
-cook: 25 minutes
-allergens:
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - sides
-  - meat
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - lime
-  - coriander
-  - chili
-  - complex
-  - day-of-the-dead
-mentions: []
----
-
-
-
-
 # Mexican Rice
 
 ![Mexican Rice](resources/mexican-rice.jpg)

@@ -1,0 +1,94 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - make-ahead
+  - sides
+  - asian
+  - onion
+  - ginger
+  - potato
+  - spinach
+  - lemon
+  - coriander
+  - chickpea
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/sauces-pickles/mint-chutney
+ingredients:
+  - qty: 200
+    unit: g
+    name: flour
+    raw: 200 g gram flour
+  - qty: 50
+    unit: g
+    name: rice flour
+    raw: 50 g rice flour
+  - qty: 1
+    unit: tsp
+    name: ajwain seeds
+    raw: 1 teaspoon ajwain seeds
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 2
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 2 teaspoons Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: small pinch
+    name: baking soda
+    raw: 1 small pinch baking soda
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml cold water
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: potato
+    raw: 1 potato
+  - qty: 200
+    unit: g
+    name: cauliflower
+    raw: 200 g cauliflower
+  - qty: 100
+    unit: g
+    name: spinach leaves
+    raw: 100 g spinach leaves
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tablespoons fresh coriander
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - name: mint chutney
+    raw: Mint Chutney
+  - name: tamarind chutney
+    raw: Tamarind Chutney
+  - name: lemon wedges
+    raw: Lemon wedges

@@ -1,19 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/cooking-methods
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
 # Toppings
 
 ![Margherita](resources/toppings.jpg)

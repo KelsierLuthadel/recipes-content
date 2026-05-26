@@ -1,0 +1,100 @@
+prep: 60 minutes (most of it folding)
+cook: 12 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - asian
+  - meat
+  - pork
+  - eggs
+  - onion
+  - ginger
+  - chili
+  - soy-sauce
+  - complex
+  - lunar-new-year
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 180
+    unit: ml
+    name: water
+    raw: 180 ml water
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 400
+    unit: g
+    name: pork
+    raw: 400 g minced pork
+  - qty: 1
+    name: chinese chives - substitute regular chives or finely-sliced spring onion greens
+    raw: 1 large bunch Chinese chives - substitute regular chives or finely-sliced spring onion greens
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce
+    raw: 2 tablespoons light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: shaoxing wine
+    raw: 1 tablespoon shaoxing wine
+  - qty: 1
+    unit: tsp
+    name: dark soy sauce
+    raw: 1 teaspoon dark soy sauce
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 0.5
+    name: /2 teaspoon white pepper
+    raw: 1/2 teaspoon white pepper
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    name: egg
+    raw: 1 medium egg
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 4
+    unit: tbsp
+    name: chinkiang black vinegar
+    raw: 4 tablespoons Chinkiang black vinegar
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 1
+    unit: tsp
+    name: chilli oil
+    raw: 1 teaspoon chilli oil
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger

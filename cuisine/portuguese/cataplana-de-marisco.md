@@ -1,34 +1,3 @@
----
-prep: 25 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - fish
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - meals
-  - meat
-  - fish
-  - pork
-  - prawn
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - coriander
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Cataplana de Marisco
 
 ![Cataplana de Marisco](resources/cataplana-de-marisco.jpg)

@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-  - eggs
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - beef
-  - eggs
-  - onion
-  - garlic
-  - potato
-  - butter
-  - complex
-mentions: []
----
-
-
-
-
 # Steak Frites with Béarnaise
 
 ![Steak Frites with Béarnaise](resources/steak-frites.jpg)

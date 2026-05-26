@@ -1,0 +1,64 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - make-ahead
+  - meals
+  - garlic
+  - tomato
+  - spinach
+  - cheese
+mentions:
+  - cuisine/italian/side-dishes/tomato-basil-sauce
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: box manicotti pasta shells
+    raw: 1 box manicotti pasta shells
+  - qty: 1
+    name: carton fresh baby spinach
+    raw: 1 carton fresh baby spinach
+  - qty: 400
+    unit: g
+    name: ricotta
+    raw: 400 g whole ricotta
+  - qty: 225
+    unit: g
+    name: shredded mozzarella
+    raw: 225 g shredded mozzarella
+  - qty: 0.5
+    unit: cup
+    name: parmesan cheese
+    raw: ½ cup freshly grated parmesan cheese
+  - qty: 0.25
+    unit: cup
+    name: parsley
+    raw: ¼ cup freshly chopped parsley
+  - qty: 2
+    unit: tbsp
+    name: basil
+    raw: 2 tablespoons fresh chopped basil
+  - qty: 1
+    unit: tbsp
+    name: garlic paste
+    raw: 1 tablespoon garlic paste
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 0.5
+    unit: tsp
+    name: red pepper flakes
+    raw: ½ teaspoon red pepper flakes
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    name: tomato and basil sauce
+    raw: 1 jar Tomato and Basil Sauce

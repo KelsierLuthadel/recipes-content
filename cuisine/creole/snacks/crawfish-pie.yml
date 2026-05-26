@@ -1,0 +1,103 @@
+prep: 45 minutes (plus 30 minutes pastry rest)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - spicy
+  - snack
+  - meat
+  - fish
+  - prawn
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - cream
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 200
+    unit: g
+    name: cold unsalted butter
+    raw: 200 g cold unsalted butter
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 7
+    unit: tbsp
+    name: ice-cold water
+    raw: 6-8 tablespoons ice-cold water
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 30
+    unit: g
+    name: plain flour
+    raw: 30 g plain flour
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: celery stalks
+    raw: 2 celery stalks
+  - qty: 0.5
+    name: green pepper
+    raw: ½ green pepper
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 300
+    unit: g
+    name: crawfish tail meat
+    raw: 300 g cooked crawfish tail meat
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 150
+    unit: ml
+    name: chicken
+    raw: 150 ml chicken
+  - qty: 80
+    unit: ml
+    name: double cream
+    raw: 80 ml double cream
+  - qty: 2
+    unit: tsp
+    name: cajun seasoning
+    raw: 2 teaspoons Cajun seasoning
+  - qty: 1
+    unit: tsp
+    name: worcestershire sauce
+    raw: 1 teaspoon Worcestershire sauce
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 3
+    name: spring onions
+    raw: 3 spring onions
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons fresh parsley
+  - qty: 1
+    name: egg
+    raw: 1 egg

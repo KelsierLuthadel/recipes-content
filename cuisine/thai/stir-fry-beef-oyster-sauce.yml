@@ -1,0 +1,69 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - soy
+  - sesame
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - beef
+  - mushroom
+  - onion
+  - garlic
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: sirloin steak
+    raw: 350g sirloin steak
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce*
+    raw: 2 tbsp light soy sauce*
+  - qty: 2
+    unit: tbsp
+    name: rapeseed oil or sesame oil
+    raw: 2 tbsp rapeseed oil or sesame oil
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, roughly chopped
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions , cut into 5cm pieces
+  - qty: 1
+    name: red spur chilli
+    raw: 1 red spur chilli, cut into thin rings
+  - qty: 1
+    unit: large handful
+    name: straw mushrooms
+    raw: Large handful of whole straw mushrooms
+  - qty: 1
+    name: onion
+    raw: 1 onion , thinly sliced
+  - qty: 3.5
+    unit: tbsp
+    name: oyster sauce*
+    raw: 3-4 tbsp oyster sauce*
+  - qty: 4
+    unit: tbsp
+    name: stock
+    raw: 4 tbsp stock
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ tsp ground white pepper
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tbsp cornflour , mixed with 1 ½ tbsp water

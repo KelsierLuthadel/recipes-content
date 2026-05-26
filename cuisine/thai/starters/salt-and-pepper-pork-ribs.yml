@@ -1,0 +1,61 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - soy
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - starter
+  - make-ahead
+  - asian
+  - meat
+  - pork
+  - garlic
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: rack of pork baby back ribs
+    raw: 1 rack of pork baby back ribs, cut into small 2 ½cm pieces
+  - qty: 125
+    unit: ml
+    name: rice wine vinegar
+    raw: 125ml rice wine vinegar
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce
+    raw: 2 tbsp light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: oyster sauce
+    raw: 1 tbsp oyster sauce
+  - qty: 1
+    unit: tsp
+    name: roasted chilli flakes
+    raw: 1 tsp roasted chilli flakes
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves, minced
+  - qty: 2
+    unit: tsp
+    name: black pepper
+    raw: 2 tsp freshly ground black pepper
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 7
+    unit: tbsp
+    name: cornflour
+    raw: 7 tbsp cornflour
+  - name: rapeseed oil
+    raw: Rapeseed oil, for deep-frying
+  - name: your choice of dipping sauce
+    raw: Your choice of dipping sauce

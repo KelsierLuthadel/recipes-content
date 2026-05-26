@@ -1,0 +1,51 @@
+prep: 20 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - meals
+  - meat
+  - eggs
+  - potato
+  - lemon
+  - butter
+mentions:
+  - base-ingredients/baking/clarified-butter
+ingredients:
+  - qty: 4
+    name: veal escalopes
+    raw: 4 veal escalopes
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 200
+    unit: g
+    name: breadcrumbs
+    raw: 200 g fine breadcrumbs
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 100
+    unit: g
+    name: clarified butter
+    raw: 100 g Clarified Butter
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley
+  - qty: 600
+    unit: g
+    name: new potatoes
+    raw: 600 g new potatoes
+  - name: lingonberry jam
+    raw: Lingonberry jam

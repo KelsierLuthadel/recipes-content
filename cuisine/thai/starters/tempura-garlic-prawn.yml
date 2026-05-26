@@ -1,0 +1,51 @@
+prep: 20 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - eggs
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - starter
+  - asian
+  - fish
+  - prawn
+  - eggs
+  - garlic
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 20
+    name: prawns
+    raw: 20 prawns , peeled and deveined but tails left on
+  - qty: 225
+    unit: g
+    name: sifted plain flour
+    raw: 225g sifted plain flour
+  - qty: 2
+    unit: tbsp
+    name: rice flour
+    raw: 2 tbsp rice flour
+  - qty: 500
+    unit: ml
+    name: ice-cold sparkling water
+    raw: 500ml ice-cold sparkling water
+  - qty: 1
+    name: egg
+    raw: 1 egg, beaten
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 tsp garlic powder
+  - name: rapeseed oil
+    raw: Rapeseed oil, for deep-frying
+  - name: thai seafood dipping sauce
+    raw: Thai seafood dipping sauce , to serve

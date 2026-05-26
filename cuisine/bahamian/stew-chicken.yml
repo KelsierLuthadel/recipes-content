@@ -1,0 +1,128 @@
+prep: 25 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - tomato
+  - potato
+  - carrot
+  - lime
+  - chili
+  - complex
+mentions:
+  - cuisine/american/side-dishes/cornbread
+  - cuisine/jamaican/brown-stew-chicken
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tablespoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - qty: 0.25
+    unit: tsp
+    name: cumin
+    raw: ¼ teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 8
+    name: chicken thighs
+    raw: 8 boneless skinless chicken thighs
+  - qty: 1
+    unit: tbsp
+    name: white vinegar
+    raw: 1 tablespoon white vinegar
+  - qty: 60
+    unit: ml
+    name: red wine vinegar
+    raw: 60 ml red wine vinegar
+  - qty: 240
+    unit: ml
+    name: vegetable oil
+    raw: 240 ml vegetable oil
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 1
+    unit: tsp
+    name: tomato paste
+    raw: 1 teaspoon tomato paste
+  - qty: 0.5
+    name: sweet onion
+    raw: ½ sweet onion
+  - qty: 2
+    name: celery stalks
+    raw: 2 celery stalks
+  - qty: 240
+    unit: ml
+    name: fire-roasted diced tomatoes
+    raw: 240 ml fire-roasted diced tomatoes
+  - qty: 1.9
+    unit: l
+    name: chicken stock
+    raw: 1.9 litres chicken stock
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    name: caribbean sweet potato
+    raw: 1 Caribbean sweet potato
+  - qty: 1
+    name: sweet potato
+    raw: 1 regular sweet potato
+  - qty: 1
+    name: cassava
+    raw: 1 piece cassava
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 2
+    name: corn cobs
+    raw: 2 corn cobs
+  - qty: 1
+    name: yellow plantain
+    raw: 1 yellow plantain
+  - qty: 1
+    unit: tsp
+    name: thyme leaves
+    raw: 1 teaspoon fresh thyme leaves
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons chopped parsley
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 Scotch bonnet
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: lime wedges
+    raw: Lime wedges to serve

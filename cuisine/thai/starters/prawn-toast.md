@@ -1,34 +1,3 @@
----
-prep: 15 minutes
-cook: 5 minutes
-allergens:
-  - eggs
-  - sesame
-  - fish
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - starter
-  - asian
-  - fish
-  - prawn
-  - eggs
-  - garlic
-  - lime
-  - coriander
-  - chili
-mentions:
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Thai Prawn Toast
 
 ![Thai Prawn Toast](resources/prawn-toast.jpg)

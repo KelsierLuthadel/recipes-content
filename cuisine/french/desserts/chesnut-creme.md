@@ -1,25 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - dessert
-  - cream
-  - chocolate
-  - nuts
-mentions:
-  - petit-four/chocolate-dipped-langues
-  - sauces/sauce-sweet/caramel-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chestnut Crème with Caramel Sauce
 
 ![Chestnut crème with caramel sauce](resources/chestnut-creme.jpg)

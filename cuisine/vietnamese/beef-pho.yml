@@ -1,0 +1,90 @@
+prep: 20 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - fish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - beef
+  - onion
+  - garlic
+  - ginger
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: rice noodles
+    raw: 200 grams rice noodles
+  - qty: 1.5
+    unit: l
+    name: beef stock
+    raw: 1 ½ litres beef stock
+  - qty: 1
+    name: star anise
+    raw: 1 star anise
+  - qty: 4
+    name: ginger
+    raw: 4 cm fresh ginger
+  - qty: 2
+    name: pigs trotters
+    raw: 2 pigs trotters
+  - qty: 0.5
+    name: onion studded with 2 cloves
+    raw: ½ onion studded with 2 cloves
+  - qty: 2
+    name: lemon grass stems
+    raw: 2 lemon grass stems
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 0.25
+    unit: tsp
+    name: white pepper
+    raw: ¼ teaspoons white pepper
+  - qty: 1
+    unit: tbsp
+    name: fish sauce
+    raw: 1 tablespoon fish sauce
+  - qty: 400
+    unit: g
+    name: beef fillet
+    raw: 400 grams beef fillet
+  - qty: 90
+    unit: g
+    name: bean sprouts
+    raw: 90 gram bean sprouts
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 25
+    unit: g
+    name: coriander leaves
+    raw: 25 grams coriander leaves
+  - qty: 25
+    unit: g
+    name: mint
+    raw: 25 grams mint
+  - qty: 2
+    name: red chillies
+    raw: 2 fresh red chillies
+  - name: mint leaves
+    raw: mint leaves
+  - name: coriander leaves
+    raw: coriander leaves
+  - qty: 2
+    name: limes
+    raw: 2 limes
+  - name: fish sauce
+    raw: fish sauce

@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 50 minutes
-allergens:
-  - dairy
-  - fish
-  - shellfish
-tags:
-  - gluten-free
-  - spicy
-  - fish
-  - mushroom
-  - onion
-  - tomato
-  - butter
-  - cream
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Nantua Sauce
 
 ![Nantua sauce](resources/nantua.png)

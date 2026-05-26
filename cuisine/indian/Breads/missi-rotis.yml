@@ -1,0 +1,55 @@
+prep: 20 minutes (plus 1 hour rest)
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - make-ahead
+  - asian
+  - onion
+  - coriander
+  - butter
+  - chili
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 115
+    unit: g
+    name: flour
+    raw: 115 g gram flour
+  - qty: 115
+    unit: g
+    name: wholemeal flour
+    raw: 115 g wholemeal flour
+  - qty: 1
+    name: green chilli
+    raw: 1 fresh green chilli
+  - qty: 0.5
+    name: onion
+    raw: ½ onion
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon coriander
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon melted butter
+  - qty: 120
+    unit: ml
+    name: water
+    raw: 120 ml lukewarm water
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons melted butter

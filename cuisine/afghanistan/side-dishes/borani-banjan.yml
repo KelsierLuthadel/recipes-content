@@ -1,0 +1,74 @@
+prep: 15 minutes (plus 30 minutes salting)
+cook: 35 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - yogurt
+mentions:
+  - cuisine/indian/lamb-karahi
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: aubergines
+    raw: 2 aubergines
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 6
+    unit: tbsp
+    name: vegetable oil
+    raw: 6 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: tomatoes or 200 ml passata
+    raw: 2 fresh tomatoes or 200 ml passata
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 teaspoon Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 300
+    unit: g
+    name: strained greek yogurt
+    raw: 300 g strained Greek yogurt
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil

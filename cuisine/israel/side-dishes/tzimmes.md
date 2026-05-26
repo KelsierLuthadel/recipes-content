@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour 15 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - sides
-  - ginger
-  - potato
-  - carrot
-  - butter
-  - honey
-  - rosh-hashanah
-  - sukkot
-  - jewish
-mentions:
-  - cuisine/jamaican/snacks/festival
----
-
-
-
-
 # Tzimmes
 
 ![Tzimmes](resources/tzimmes.jpg)

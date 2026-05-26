@@ -1,0 +1,47 @@
+prep: 10 minutes
+cook: 9 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - coriander
+  - curry
+mentions: []
+ingredients:
+  - qty: 6
+    unit: tbsp
+    name: coriander seeds
+    raw: 6 tablespoons coriander seeds
+  - qty: 3
+    unit: tbsp
+    name: cumin seeds
+    raw: 3 tablespoons cumin seeds
+  - qty: 1
+    unit: tbsp
+    name: fennel seeds
+    raw: 1 tablespoon fennel seeds
+  - qty: 1
+    unit: tsp
+    name: fenugreek seeds
+    raw: 1 teaspoon fenugreek seeds
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 teaspoon cloves
+  - qty: 8
+    name: green cardamom pods
+    raw: 8 green cardamom pods
+  - qty: 6
+    name: curry leaves
+    raw: 6 dried curry leaves
+  - qty: 2
+    unit: tsp
+    name: chilli powder
+    raw: 2 teaspoons chilli powder

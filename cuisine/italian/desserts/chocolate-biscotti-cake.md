@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dairy-free
-  - quick
-  - dessert
-  - eggs
-  - chocolate
-  - nuts
-mentions: []
----
-
-
-
-
 # Chocolate Biscotti Cake
 
 ![Chocolate biscotti cake](resources/chocolate-biscotti-cake.jpg)

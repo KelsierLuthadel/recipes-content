@@ -1,0 +1,66 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - coconut
+  - butter
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon fine salt
+  - qty: 100
+    unit: g
+    name: desiccated coconut
+    raw: 100 g desiccated coconut
+  - qty: 175
+    unit: g
+    name: unsalted butter
+    raw: 175 g unsalted butter, softened
+  - qty: 200
+    unit: g
+    name: soft dark brown sugar
+    raw: 200 g soft dark brown sugar
+  - qty: 3
+    name: eggs
+    raw: 3 eggs , room temperature
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 150
+    unit: ml
+    name: coconut milk
+    raw: 150 ml coconut milk
+  - qty: 2
+    unit: tbsp
+    name: dark rum
+    raw: 2 tablespoons dark rum

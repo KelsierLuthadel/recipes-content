@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 15-20 minutes
-allergens:
-  - peanuts
-  - fish
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - asian
-  - meat
-  - fish
-  - chicken
-  - coconut
-  - lime
-  - coriander
-  - nuts
-  - curry
-mentions:
-  - tutorials/bread/gluten
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Jungle Curry
 
 ![Chicken Jungle Curry](resources/jungle-curry.jpg)

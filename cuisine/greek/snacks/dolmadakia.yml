@@ -1,0 +1,93 @@
+prep: 1 hour
+cook: 1 hour
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - snack
+  - make-ahead
+  - rice
+  - onion
+  - lemon
+  - yogurt
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 50
+    name: brined vine leaves plus extras for lining the pot
+    raw: 50 brined vine leaves plus extras for lining the pot
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 200
+    unit: g
+    name: short-grain rice
+    raw: 200 g short-grain rice
+  - qty: 30
+    unit: g
+    name: pine nuts
+    raw: 30 g pine nuts
+  - qty: 30
+    unit: g
+    name: currants
+    raw: 30 g currants
+  - qty: 30
+    unit: g
+    name: dill
+    raw: 30 g fresh dill
+  - qty: 20
+    unit: g
+    name: mint
+    raw: 20 g fresh mint
+  - qty: 30
+    unit: g
+    name: flat-leaf parsley
+    raw: 30 g fresh flat-leaf parsley
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml hot water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 3
+    unit: tbsp
+    name: lemon juice
+    raw: 3 tablespoons lemon juice
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml hot water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: lemon wedges
+    raw: Extra lemon wedges
+  - name: greek yogurt
+    raw: Greek yogurt
+  - name: olive oil
+    raw: Extra olive oil

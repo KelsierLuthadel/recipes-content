@@ -1,0 +1,55 @@
+prep: 5 minutes
+cook: 8 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - shellfish
+tags:
+  - spicy
+  - quick
+  - starter
+  - make-ahead
+  - asian
+  - fish
+  - eggs
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 900
+    unit: g
+    name: squid tubes and tentacles
+    raw: 900g small squid tubes and tentacles, cleaned
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500ml full-fat milk, plus more if needed
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 6
+    name: red spur chillies
+    raw: 6 red spur chillies, slit lengthways
+  - qty: 120
+    unit: g
+    name: plain flour
+    raw: 120g plain flour
+  - qty: 120
+    unit: g
+    name: cornflour
+    raw: 120g cornflour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: red chilli powder
+    raw: 1 tbsp red chilli powder
+  - name: rapeseed oil
+    raw: Rapeseed oil, for deep-frying
+  - name: flaky sea salt and freshly ground black pepper
+    raw: Flaky sea salt and freshly ground black pepper
+  - name: sweet chilli sauce
+    raw: Sweet chilli sauce, to serve

@@ -1,0 +1,32 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - butter
+mentions:
+  - cuisine/french/snacks/croque-monsieur
+ingredients:
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 grams butter
+  - qty: 30
+    unit: g
+    name: plain flour
+    raw: 30 grams plain flour
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml milk
+  - qty: 1
+    unit: pinch
+    name: salt and pepper
+    raw: 1 pinch salt and pepper
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon nutmeg

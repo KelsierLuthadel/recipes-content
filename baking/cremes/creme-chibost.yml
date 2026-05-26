@@ -1,0 +1,50 @@
+prep: 10 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - baking
+  - eggs
+mentions:
+  - tutorials/patisserie/tarts
+ingredients:
+  - qty: 6
+    name: egg yolks
+    raw: 6 egg yolks
+  - qty: 80
+    unit: g
+    name: sugar
+    raw: 80 grams sugar
+  - qty: 30
+    unit: g
+    name: custard powder
+    raw: 30 grams custard powder
+  - qty: 350
+    unit: ml
+    name: milk
+    raw: 350 ml milk
+  - qty: 0.5
+    name: vanilla pod
+    raw: ½ vanilla pod
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 80 ml water
+  - qty: 360
+    unit: g
+    name: sugar
+    raw: 360 grams sugar
+  - qty: 30
+    unit: g
+    name: glucose
+    raw: 30 grams glucose
+  - qty: 6
+    name: egg whites
+    raw: 6 egg whites
+  - qty: 50
+    unit: ml
+    name: grand marnier
+    raw: 50 ml Grand Marnier

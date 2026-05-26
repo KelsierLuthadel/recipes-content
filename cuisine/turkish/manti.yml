@@ -1,0 +1,105 @@
+prep: 1 ¼ hours
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 300
+    unit: g
+    name: lamb
+    raw: 300 g minced lamb
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 400
+    unit: g
+    name: plain yogurt
+    raw: 400 g plain yogurt
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 2
+    unit: tsp
+    name: paprika
+    raw: 2 teaspoons paprika
+  - qty: 1
+    unit: tsp
+    name: sumac
+    raw: 1 teaspoon sumac
+  - qty: 0.5
+    unit: tsp
+    name: chilli flakes
+    raw: ½ teaspoon chilli flakes
+  - name: mint
+    raw: Dried mint
+  - qty: 1
+    name: parsley
+    raw: A small bunch of parsley

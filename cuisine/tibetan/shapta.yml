@@ -1,0 +1,100 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef
+    raw: 600 g lean beef , sliced very thinly across the grain
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: shaoxing rice wine
+    raw: 1 tablespoon Shaoxing rice wine
+  - qty: 2
+    unit: tsp
+    name: cornflour
+    raw: 2 teaspoons cornflour
+  - qty: 1
+    unit: tsp
+    name: toasted sesame oil
+    raw: 1 teaspoon toasted sesame oil
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: capsicums
+    raw: 2 capsicums
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    name: ginger
+    raw: 4 cm fresh ginger
+  - qty: 2
+    name: green chillies
+    raw: 2 fresh green chillies
+  - qty: 1
+    name: tomato
+    raw: 1 tomato
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce
+    raw: 2 tablespoons light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tablespoon dark soy sauce
+  - qty: 1
+    unit: tsp
+    name: soft brown sugar
+    raw: 1 teaspoon soft brown sugar
+  - qty: 100
+    unit: ml
+    name: beef stock
+    raw: 100 ml beef stock
+  - qty: 1
+    unit: tsp
+    name: cornflour mixed with 1 tablespoon cold water
+    raw: 1 teaspoon cornflour mixed with 1 tablespoon cold water
+  - qty: 3
+    name: spring onions
+    raw: 3 spring onions
+  - qty: 1
+    name: coriander
+    raw: A small bunch of coriander
+  - name: steamed rice
+    raw: Steamed Rice

@@ -1,0 +1,82 @@
+prep: 25 minutes
+cook: 2 hours
+allergens:
+  - tree-nuts
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - fish
+  - onion
+  - garlic
+  - potato
+  - lemon
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    name: octopus
+    raw: 1 octopus
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - name: strip of lemon peel
+    raw: A strip of lemon peel
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: water
+    raw: Water
+  - qty: 800
+    unit: g
+    name: new potatoes
+    raw: 800 g small new potatoes
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 200
+    unit: ml
+    name: extra-virgin olive oil
+    raw: 200 ml extra-virgin olive oil
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon coarse salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 3
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 3 tablespoons fresh flat-leaf parsley
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons raw olive oil

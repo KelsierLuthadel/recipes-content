@@ -1,0 +1,46 @@
+prep: 20 minutes (plus 30 minutes resting)
+cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - sides
+  - eggs
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 300
+    unit: g
+    name: yuca flour
+    raw: 300 g yuca flour
+  - qty: 100
+    unit: g
+    name: masarepa
+    raw: 100 g masarepa
+  - qty: 250
+    unit: g
+    name: feta
+    raw: 250 g feta
+  - qty: 100
+    unit: g
+    name: cheddar cheese
+    raw: 100 g mature cheddar cheese
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 80
+    unit: ml
+    name: milk
+    raw: 80 ml whole milk

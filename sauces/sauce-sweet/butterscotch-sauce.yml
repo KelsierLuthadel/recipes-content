@@ -1,0 +1,33 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - butter
+  - cream
+mentions:
+  - base-ingredients/syrup/sirop-a-sorbet
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: ml
+    name: single cream
+    raw: 400 ml single cream
+  - qty: 120
+    unit: ml
+    name: syrup for sorbet
+    raw: 120 ml Syrup for Sorbet
+  - qty: 75
+    unit: g
+    name: caster sugar
+    raw: 75 grams caster sugar
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 grams unsalted butter

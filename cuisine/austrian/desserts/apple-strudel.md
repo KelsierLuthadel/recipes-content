@@ -1,20 +1,3 @@
----
-prep: 10 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - dessert
-  - lemon
-  - cream
-mentions: []
----
-
-
-
-
 # Apple Strudel
 
 ![Apple strudel](resources/apple-strudel.jpg)

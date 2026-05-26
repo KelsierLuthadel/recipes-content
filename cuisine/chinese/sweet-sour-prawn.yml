@@ -1,0 +1,75 @@
+prep: 15 minutes
+cook: 2 minutes
+allergens:
+  - tree-nuts
+  - peanuts
+  - soy
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - nuts
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 225
+    unit: g
+    name: prawns
+    raw: 225 grams prawns
+  - qty: 110
+    unit: g
+    name: chestnuts
+    raw: 110 grams tinned chestnuts
+  - qty: 75
+    unit: g
+    name: red bell pepper
+    raw: 75 grams red bell pepper
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 2
+    unit: tsp
+    name: groundnut oil
+    raw: 2 teaspoons groundnut oil
+  - qty: 2
+    unit: tsp
+    name: garlic
+    raw: 2 teaspoons garlic
+  - qty: 70
+    unit: ml
+    name: chinese chicken stock
+    raw: 70 ml Chinese chicken stock
+  - qty: 1
+    unit: tbsp
+    name: dry sherry
+    raw: 1 tablespoon dry sherry
+  - qty: 2
+    unit: tsp
+    name: light soy sauce
+    raw: 2 teaspoons light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tablespoon tomato purée
+  - qty: 1
+    unit: tbsp
+    name: cider vinegar
+    raw: 1 tablespoon cider vinegar
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tablespoon sugar
+  - qty: 2
+    unit: tsp
+    name: cornflour
+    raw: 2 teaspoons cornflour

@@ -1,22 +1,3 @@
----
-prep: 5 minutes (plus 30 min batter rest)
-cook: 22 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - make-ahead
-  - sides
-  - meat
-  - eggs
-  - easter
-mentions: []
----
-
-
-
-
 # Yorkshire Puddings
 
 ![Yorkshire Puddings](resources/yorkshire-puddings.jpg)

@@ -1,31 +1,3 @@
----
-prep: 1 hour (plus 30 minutes bulgur soaking)
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - sides
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - butter
-  - nuts
-  - complex
-mentions:
-  - cuisine/lebanese/kibbeh
-  - cuisine/middle-east/kibbeh
-  - cuisine/middle-east/side-dishes/fattoush
-  - cuisine/syria/side-dishes/fattoush
----
-
-
-
-
 # Kibbeh Mosul
 
 ![Kibbeh Mosul](resources/kibbeh-mosul.jpg)

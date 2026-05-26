@@ -1,35 +1,3 @@
----
-prep: 15 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - fish
-  - meat
-  - mustard
-  - garlic
-tags:
-  - spicy
-  - quick
-  - make-ahead
-  - sides
-  - meat
-  - chicken
-  - pork
-  - eggs
-  - garlic
-  - lemon
-  - cheese
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Pancetta Caesar Salad
 
 ![Chicken Pancetta Caesar Salad](resources/chicken-caesar-salad.jpg)

@@ -1,0 +1,97 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - sesame
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - pork
+  - prawn
+  - eggs
+  - onion
+  - garlic
+  - lime
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/stir-fry/wok-hei
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: kecap manis
+    raw: 3 tablespoons kecap manis
+  - qty: 3
+    unit: tbsp
+    name: light soy sauce
+    raw: 3 tablespoons light soy sauce
+  - qty: 2
+    unit: tbsp
+    name: ketchup
+    raw: 2 tablespoons ketchup
+  - qty: 1
+    unit: tbsp
+    name: sesame oil
+    raw: 1 tablespoon sesame oil
+  - qty: 1
+    unit: tsp
+    name: shrimp paste
+    raw: 1 teaspoon shrimp paste
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 teaspoon chilli powder
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 200
+    unit: g
+    name: pork
+    raw: 200 grams sliced pork
+  - qty: 200
+    unit: g
+    name: and deveined prawns
+    raw: 200 grams peeled and deveined prawns
+  - qty: 0.25
+    unit: cup
+    name: white cabbage
+    raw: ¼ cup sliced white cabbage
+  - qty: 400
+    unit: g
+    name: chinese egg noodles
+    raw: 400 grams fresh Chinese egg noodles
+  - qty: 0.5
+    unit: cup
+    name: bean sprouts
+    raw: ½ cup bean sprouts
+  - qty: 0.25
+    unit: cup
+    name: spring onions
+    raw: ¼ cup sliced spring onions
+  - name: red chilli
+    raw: Sliced red chilli
+  - name: lime wedges
+    raw: Lime wedges

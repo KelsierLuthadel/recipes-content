@@ -1,0 +1,99 @@
+prep: 20 minutes
+cook: 3 hours
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - pork
+  - rice
+  - onion
+  - garlic
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 180
+    unit: ml
+    name: duck fat
+    raw: 180 ml duck fat
+  - qty: 1
+    unit: cup
+    name: plain flour
+    raw: 1 cup plain flour
+  - qty: 0.25
+    unit: cup
+    name: tomato paste
+    raw: ¼ cup tomato paste
+  - qty: 1
+    name: yellow onion
+    raw: 1 yellow onion
+  - qty: 0.5
+    unit: cup
+    name: red bell pepper
+    raw: ½ cup red bell pepper
+  - qty: 0.5
+    unit: cup
+    name: green bell pepper
+    raw: ½ cup green bell pepper
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1.4
+    unit: l
+    name: chicken stock
+    raw: 1.4 litres chicken stock
+  - qty: 240
+    unit: ml
+    name: tomato puree
+    raw: 240 ml tomato puree
+  - qty: 3
+    unit: cup
+    name: shredded chicken
+    raw: 3 cups cooked shredded chicken
+  - qty: 340
+    unit: g
+    name: andouille sausage
+    raw: 340 g andouille sausage
+  - qty: 4
+    unit: tsp
+    name: gumbo file powder
+    raw: 4 teaspoons gumbo filé powder
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 0.25
+    unit: tsp
+    name: sweet paprika
+    raw: ¼ teaspoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 3
+    name: bay leaves
+    raw: 3 bay leaves
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme
+  - qty: 0.75
+    unit: cup
+    name: celery
+    raw: ¾ cup diced celery
+  - name: hot sauce
+    raw: Hot sauce, to taste
+  - qty: 2
+    unit: cup
+    name: okra
+    raw: 2 cups okra
+  - name: steamed white rice
+    raw: Steamed white rice, to serve

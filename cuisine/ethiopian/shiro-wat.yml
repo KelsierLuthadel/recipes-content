@@ -1,0 +1,52 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - meals
+  - onion
+  - garlic
+  - ginger
+  - chickpea
+mentions:
+  - base-ingredients/spices/berbere
+ingredients:
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 60
+    unit: ml
+    name: vegetable oil
+    raw: 60 ml vegetable oil
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 2
+    unit: tbsp
+    name: berbere
+    raw: 2 tablespoons Berbere
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml hot water
+  - qty: 100
+    unit: g
+    name: chickpea flour
+    raw: 100 g chickpea flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: black pepper
+    raw: Black pepper

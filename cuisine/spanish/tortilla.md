@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 40 minutes
-allergens:
-  - dairy
-  - eggs
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - eggs
-  - onion
-  - garlic
-  - tomato
-  - butter
-mentions: []
----
-
-
-
-
 # Spanish Omelette (Tortilla)
 
 ![Spanish Omelette](resources/spanish-tortilla.jpg)

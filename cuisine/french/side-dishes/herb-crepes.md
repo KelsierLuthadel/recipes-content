@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - sides
-  - eggs
-  - butter
-mentions:
-  - base-ingredients/baking/clarified-butter
-  - cuisine/british/beef-wellington
-  - cuisine/french/desserts/crepes
----
-
-
-
-
 # Herb Crêpes
 
 ![Herb crêpes](resources/herb-crepes.jpg)

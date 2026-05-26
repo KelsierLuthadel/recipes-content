@@ -1,0 +1,62 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - cheese
+  - nuts
+mentions:
+  - tutorials/bread/gluten
+  - tutorials/patisserie/petit-fours
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 3
+    name: eggs
+    raw: 3 whole eggs
+  - qty: 2
+    name: egg yolks
+    raw: 2 egg yolks
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 grams plain flour
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 4
+    unit: tbsp
+    name: amaretto liqueur
+    raw: 4 tablespoons Amaretto liqueur
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - name: icing sugar
+    raw: icing sugar
+  - qty: 40
+    unit: g
+    name: caster sugar
+    raw: 40 grams caster sugar
+  - qty: 250
+    unit: g
+    name: ricotta cheese
+    raw: 250 grams ricotta cheese
+  - qty: 1
+    name: orange
+    raw: 1 orange
+  - qty: 10
+    name: almonds
+    raw: 10 almonds
+  - qty: 40
+    unit: g
+    name: candied fruit peel
+    raw: 40 grams Candied Fruit Peel

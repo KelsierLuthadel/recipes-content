@@ -1,25 +1,3 @@
----
-prep: 15 minutes (plus overnight bean soak)
-cook: 2 ½ hours
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - onion
-  - garlic
-  - complex
-mentions: []
----
-
-
-
-
 # Fabada Asturiana
 
 ![Fabada Asturiana](resources/fabada-asturiana.jpg)

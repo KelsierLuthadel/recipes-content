@@ -1,0 +1,97 @@
+prep: 15 minutes (plus 1 hour resting)
+cook: 2 hours 30 minutes
+allergens:
+  - gluten
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - bbq
+  - meat
+  - beef
+  - pork
+  - onion
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 700
+    unit: g
+    name: beef chuck
+    raw: 700 g beef chuck
+  - qty: 500
+    unit: g
+    name: pork shoulder
+    raw: 500 g pork shoulder
+  - qty: 200
+    unit: g
+    name: pork back fat
+    raw: 200 g pork back fat
+  - qty: 18
+    unit: g
+    name: salt
+    raw: 18 g salt
+  - qty: 12
+    unit: g
+    name: black pepper
+    raw: 12 g coarse ground black pepper
+  - qty: 10
+    unit: g
+    name: cayenne pepper
+    raw: 10 g cayenne pepper
+  - qty: 15
+    unit: g
+    name: sweet paprika
+    raw: 15 g sweet paprika
+  - qty: 8
+    unit: g
+    name: hot hungarian paprika
+    raw: 8 g hot Hungarian paprika
+  - qty: 8
+    unit: g
+    name: garlic powder
+    raw: 8 g garlic powder
+  - qty: 6
+    unit: g
+    name: onion powder
+    raw: 6 g onion powder
+  - qty: 4
+    unit: g
+    name: mustard
+    raw: 4 g ground mustard
+  - qty: 4
+    unit: g
+    name: thyme
+    raw: 4 g dried thyme
+  - qty: 3
+    unit: g
+    name: coriander
+    raw: 3 g ground coriander
+  - qty: 2
+    unit: g
+    name: "pink curing salt #1"
+    raw: "2 g pink curing salt #1"
+  - qty: 100
+    unit: ml
+    name: ice water
+    raw: 100 ml ice water
+  - qty: 1.5
+    name: natural hog casings
+    raw: 1 ½ m natural hog casings
+  - name: post-oak
+    raw: Post-oak
+  - name: white bread
+    raw: Sliced white bread
+  - name: yellow mustard
+    raw: Yellow mustard
+  - name: dill pickle chips
+    raw: Dill pickle chips
+  - name: onion
+    raw: Sliced raw onion
+  - name: hot sauce
+    raw: Hot sauce

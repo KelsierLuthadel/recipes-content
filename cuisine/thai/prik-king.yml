@@ -1,0 +1,91 @@
+prep: 15 minutes
+cook: 18 minutes
+allergens:
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - pork
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: thai red chillies
+    raw: 8 dried Thai red chillies
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    name: shallots
+    raw: 4 shallots
+  - qty: 1
+    name: lemongrass
+    raw: 1 stalk lemongrass
+  - qty: 1
+    name: galangal
+    raw: 1 thumb galangal
+  - qty: 1
+    unit: tsp
+    name: shrimp paste
+    raw: 1 teaspoon shrimp paste
+  - qty: 4
+    name: kaffir lime leaves
+    raw: 4 kaffir lime leaves
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - qty: 500
+    unit: g
+    name: pork shoulder
+    raw: 500 g pork shoulder
+  - qty: 300
+    unit: g
+    name: green beans
+    raw: 300 g green beans
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 3
+    unit: tbsp
+    name: fish sauce
+    raw: 3 tablespoons fish sauce
+  - qty: 2
+    unit: tbsp
+    name: palm sugar
+    raw: 2 tablespoons palm sugar
+  - qty: 4
+    name: kaffir lime leaves
+    raw: 4 kaffir lime leaves
+  - qty: 2
+    name: long red chillies
+    raw: 2 long red chillies
+  - qty: 4
+    name: jasmine rice
+    raw: 4 servings jasmine rice
+  - name: thai basil leaves
+    raw: Thai basil leaves
+  - name: lime wedges
+    raw: Lime wedges

@@ -1,19 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - base-ingredients/herbs/fines-herbes
-  - tutorials/eggs/custards
-  - tutorials/eggs/souffles
-  - tutorials/pizza/cheese
----
-
-
-
 # Scrambled and Omelette
 
 ![Scrambled eggs](resources/omelette.jpg)

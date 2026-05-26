@@ -1,0 +1,78 @@
+prep: 1 hour (plus 30 minutes resting)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - asian
+  - coconut
+  - nuts
+  - complex
+  - holi
+  - hindu
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 300
+    unit: g
+    name: maida
+    raw: 300 g maida
+  - qty: 60
+    unit: g
+    name: ghee
+    raw: 60 g ghee
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - name: about 100 ml whole milk
+    raw: About 100 ml whole milk
+  - qty: 200
+    unit: g
+    name: khoya
+    raw: 200 g khoya
+  - qty: 50
+    unit: g
+    name: semolina
+    raw: 50 g fine semolina
+  - qty: 30
+    unit: g
+    name: desiccated coconut
+    raw: 30 g desiccated coconut
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 30
+    unit: g
+    name: cashews
+    raw: 30 g cashews
+  - qty: 30
+    unit: g
+    name: almonds
+    raw: 30 g almonds
+  - qty: 30
+    unit: g
+    name: raisins
+    raw: 30 g raisins
+  - qty: 1
+    unit: tbsp
+    name: ghee
+    raw: 1 tablespoon ghee
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - name: sunflower or vegetable oil
+    raw: Sunflower or vegetable oil
+  - qty: 30
+    unit: g
+    name: icing sugar
+    raw: 30 g icing sugar

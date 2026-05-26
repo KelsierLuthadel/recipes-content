@@ -1,0 +1,86 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - garlic
+  - ginger
+  - coconut
+  - butter
+  - nuts
+  - complex
+mentions:
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - sauces/fruit-sauce/mango-chutney
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: ghee
+    raw: 4 tbsp ghee, rapeseed oil or seasoned oil
+  - qty: 2.5
+    name: cinnamon stick or cassia bark
+    raw: 2 ½ cm piece cinnamon stick or cassia bark
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods, lightly bruised
+  - qty: 1
+    unit: tsp
+    name: garlic and ginger paste
+    raw: 1 tsp garlic and ginger paste
+  - qty: 3
+    unit: tbsp
+    name: sugar
+    raw: 3 tbsp sugar, or to taste
+  - qty: 6
+    unit: tbsp
+    name: almonds
+    raw: 6 tbsp ground almonds
+  - qty: 2
+    unit: tbsp
+    name: coconut flour
+    raw: 2 tbsp coconut flour
+  - qty: 700
+    unit: ml
+    name: curry base gravy
+    raw: 700 ml Curry Base Gravy
+  - qty: 100
+    unit: g
+    name: block coconut
+    raw: 100 g block coconut
+  - qty: 800
+    unit: g
+    name: pre-cooked chicken
+    raw: 800 g Pre-Cooked Chicken
+  - qty: 125
+    unit: ml
+    name: chicken stock
+    raw: 125 ml Chicken stock
+  - qty: 1
+    unit: tbsp
+    name: garam masala
+    raw: 1 tbsp Garam Masala
+  - qty: 125
+    unit: ml
+    name: single cream
+    raw: 125 ml single cream, plus a little extra to finish
+  - qty: 1
+    unit: tbsp
+    name: rose water
+    raw: 1 tbsp rose water, or to taste
+  - qty: 2
+    unit: tbsp
+    name: cold butter
+    raw: 2 tbsp cold butter
+  - name: salt
+    raw: Salt, to taste

@@ -1,0 +1,83 @@
+prep: 30 minutes (plus 30 minutes pastry rest)
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - cream
+  - complex
+  - halloween
+  - easter
+  - sukkot
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 175
+    unit: g
+    name: cold unsalted butter
+    raw: 175 g cold unsalted butter
+  - qty: 75
+    unit: g
+    name: caster sugar
+    raw: 75 g caster sugar
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 3.5
+    unit: tbsp
+    name: ice-cold water
+    raw: 3-4 tablespoons ice-cold water
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: kg
+    name: apples
+    raw: 1 kg apples
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 50
+    unit: g
+    name: soft light brown sugar
+    raw: 50 g soft light brown sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 2
+    unit: tbsp
+    name: cornflour
+    raw: 2 tablespoons cornflour
+  - qty: 25
+    unit: g
+    name: unsalted butter
+    raw: 25 g unsalted butter
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - name: vanilla ice cream
+    raw: Vanilla ice cream, double cream, or custard

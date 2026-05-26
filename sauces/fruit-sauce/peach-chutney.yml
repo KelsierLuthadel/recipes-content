@@ -1,0 +1,77 @@
+prep: 30 minutes
+cook: 75 minutes
+allergens:
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lime
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 60
+    unit: g
+    name: cooking apples
+    raw: 60 grams cooking apples
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 125
+    unit: g
+    name: tomatoes
+    raw: 125 grams very ripe tomatoes
+  - qty: 60
+    unit: g
+    name: onion
+    raw: 60 grams onion
+  - qty: 1
+    unit: clove
+    name: garlic
+    raw: 1 clove garlic
+  - qty: 10
+    unit: g
+    name: ginger
+    raw: 10 grams ginger
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon white pepper
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 grams caster sugar
+  - qty: 150
+    unit: ml
+    name: white wine vinegar
+    raw: 150 ml white wine vinegar
+  - qty: 70
+    unit: g
+    name: flaked almonds
+    raw: 70 grams flaked almonds
+  - qty: 500
+    unit: g
+    name: but firm peaches
+    raw: 500 grams ripe, but firm peaches

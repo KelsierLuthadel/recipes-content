@@ -1,0 +1,75 @@
+prep: 30 minutes (plus 30 minutes pastry chilling)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - ginger
+  - coconut
+  - butter
+mentions:
+  - tutorials/patisserie/tarts
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon fine salt
+  - qty: 125
+    unit: g
+    name: cold unsalted butter
+    raw: 125 g cold unsalted butter, cubed
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 3.5
+    unit: tbsp
+    name: water
+    raw: 3-4 tablespoons cold water
+  - qty: 200
+    unit: g
+    name: desiccated coconut
+    raw: 200 g desiccated coconut
+  - qty: 150
+    unit: g
+    name: soft dark brown sugar
+    raw: 150 g soft dark brown sugar
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml water
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon finely grated fresh ginger
+  - qty: 0.75
+    unit: tsp
+    name: nutmeg
+    raw: ¾ teaspoon ground nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of fine salt

@@ -1,0 +1,41 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - quick
+  - sides
+  - garlic
+  - butter
+  - cheese
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 1
+    name: baguette
+    raw: 1 baguette
+  - qty: 150
+    unit: g
+    name: unsalted butter
+    raw: 150 g unsalted butter
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch flat-leaf parsley
+  - qty: 1
+    unit: tsp
+    name: flaky sea salt
+    raw: 1 teaspoon flaky sea salt
+  - name: black pepper
+    raw: A grind of black pepper
+  - name: "optional: 50 g grated parmesan cheese"
+    raw: "Optional: 50 g grated parmesan cheese"
+  - name: "optional: 1 teaspoon dried chilli flakes"
+    raw: "Optional: 1 teaspoon dried chilli flakes"

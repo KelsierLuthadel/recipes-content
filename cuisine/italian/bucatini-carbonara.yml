@@ -1,0 +1,52 @@
+prep: 15 minutes
+cook: 2 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - pork
+  - eggs
+  - butter
+  - cheese
+mentions:
+  - cuisine/italian/cacio-e-pepe
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: smoked pancetta
+    raw: 250 grams smoked pancetta
+  - qty: 3
+    unit: tbsp
+    name: virgin olive oil
+    raw: 3 tablespoons extra virgin olive oil
+  - qty: 15
+    unit: g
+    name: salted butter
+    raw: 15 grams salted butter
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 4
+    unit: tbsp
+    name: pecorino romano
+    raw: 4 tablespoons pecorino romano
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 500
+    unit: g
+    name: bucatini
+    raw: 500 grams bucatini
+  - qty: 4
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 4 tablespoons fresh flat-leaf parsley
+  - name: pecorino romano
+    raw: Pecorino Romano for serving

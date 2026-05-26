@@ -1,0 +1,33 @@
+prep: 15 minutes
+cook: 33 minutes
+allergens:
+  - gluten
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - eggs
+mentions:
+  - cuisine/italian/lasagne
+  - tutorials/bread/hydration
+  - tutorials/pasta/dried-pasta
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: italian 00 flour
+    raw: 300 grams Italian 00 flour
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: 1 pinch fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: virgin olive oil
+    raw: 1 tablespoon extra virgin olive oil
+  - name: flour for dusting
+    raw: Extra flour for dusting

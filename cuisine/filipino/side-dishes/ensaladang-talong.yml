@@ -1,0 +1,53 @@
+prep: 15 minutes
+cook: 12 minutes
+allergens:
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - bbq
+  - fish
+  - onion
+  - tomato
+  - lime
+  - coriander
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: long asian aubergines
+    raw: 4 long Asian aubergines
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes
+  - qty: 0.5
+    name: red onion
+    raw: ½ small red onion
+  - qty: 3
+    unit: tbsp
+    name: fish sauce
+    raw: 3 tablespoons fish sauce
+  - qty: 2
+    unit: tbsp
+    name: white cane vinegar
+    raw: 2 tablespoons white cane vinegar
+  - qty: 2
+    unit: tbsp
+    name: calamansi juice
+    raw: 2 tablespoons calamansi juice
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    name: red chilli
+    raw: 1 red chilli
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander

@@ -1,0 +1,73 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - yogurt
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.4
+    unit: kg
+    name: chicken
+    raw: 1.4 kg chicken
+  - qty: 80
+    unit: ml
+    name: sunflower oil
+    raw: 80 ml sunflower oil
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 4
+    name: ginger
+    raw: 4 cm fresh ginger
+  - qty: 8
+    name: tomatoes
+    raw: 8 tomatoes
+  - qty: 5
+    name: green chillies
+    raw: 4-6 fresh green chillies
+  - qty: 1
+    unit: tbsp
+    name: cracked black peppercorns
+    raw: 1 tablespoon coarsely cracked black peppercorns
+  - qty: 1.5
+    unit: tsp
+    name: cumin
+    raw: 1 ½ teaspoons ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 100
+    unit: g
+    name: plain yogurt
+    raw: 100 g full-fat plain yogurt
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tablespoons fresh coriander
+  - qty: 0.5
+    unit: tsp
+    name: garam masala
+    raw: ½ teaspoon Garam Masala
+  - qty: 1
+    name: lemon
+    raw: 1 lemon

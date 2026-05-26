@@ -1,0 +1,53 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - peanuts
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - butter
+  - nuts
+mentions:
+  - cuisine/zimbabwe/dovi
+  - cuisine/zimbabwe/side-dishes/sadza
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: collard greens
+    raw: 500 g collard greens, covo, spring greens
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 2
+    name: tomatoes or ½ tin chopped tomatoes
+    raw: 2 tomatoes or ½ tin chopped tomatoes
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon ground black pepper
+  - qty: 3
+    unit: tbsp
+    name: smooth peanut butter
+    raw: 3 tablespoons smooth peanut butter
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml hot water

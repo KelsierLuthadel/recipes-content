@@ -1,0 +1,59 @@
+prep: 10 minutes
+cook: 30 minutes (plus 3 hours setting)
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - rice
+  - coconut
+  - nuts
+  - complex
+mentions:
+  - cuisine/iran/desserts/sholeh-zard
+ingredients:
+  - qty: 1.2
+    unit: l
+    name: milk
+    raw: 1.2 litres whole milk
+  - qty: 100
+    unit: g
+    name: rice flour
+    raw: 100 g rice flour
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 2
+    unit: tbsp
+    name: rosewater
+    raw: 2 tablespoons rosewater
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: saffron
+    raw: A pinch of saffron
+  - qty: 50
+    unit: g
+    name: pistachios
+    raw: 50 g pistachios
+  - qty: 30
+    unit: g
+    name: flaked almonds
+    raw: 30 g flaked almonds
+  - qty: 2
+    unit: tbsp
+    name: desiccated coconut
+    raw: 2 tablespoons desiccated coconut
+  - name: rose petals
+    raw: A few rose petals

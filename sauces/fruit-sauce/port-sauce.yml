@@ -1,0 +1,44 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meat
+  - mushroom
+  - onion
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 grams butter
+  - qty: 60
+    unit: g
+    name: shallots
+    raw: 60 grams shallots
+  - qty: 100
+    unit: g
+    name: button mushrooms
+    raw: 100 grams button mushrooms
+  - qty: 50
+    unit: g
+    name: blackcurrants
+    raw: 50 grams blackcurrants
+  - qty: 250
+    unit: ml
+    name: ruby port
+    raw: 250 ml ruby port
+  - name: zest of ¼ of an orange
+    raw: dried zest of ¼ of an orange
+  - qty: 300
+    unit: ml
+    name: veal stock
+    raw: 300 ml Veal stock
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

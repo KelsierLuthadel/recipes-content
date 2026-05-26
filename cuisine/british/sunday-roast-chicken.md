@@ -1,30 +1,3 @@
----
-prep: 25 minutes
-cook: 1 ¼ hours
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-  - mustard
-  - garlic
-tags:
-  - meals
-  - meat
-  - chicken
-  - eggs
-  - garlic
-  - potato
-  - lemon
-  - butter
-  - complex
-mentions:
-  - cuisine/british/side-dishes/yorkshire-puddings
----
-
-
-
-
 # Sunday Roast Chicken
 
 ![Sunday Roast Chicken](resources/sunday-roast-chicken.jpg)

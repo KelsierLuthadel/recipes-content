@@ -1,31 +1,3 @@
----
-prep: 15 minutes
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - meals
-  - meat
-  - pork
-  - onion
-  - garlic
-  - spinach
-  - cheese
-  - yogurt
-  - chili
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Sausage, Fennel and Chilli Griddle-Pan Pizza
 
 ![Sausage, Fennel and Chilli Pizza](resources/sausage-fennel-pizza.jpg)

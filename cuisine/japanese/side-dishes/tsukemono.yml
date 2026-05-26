@@ -1,0 +1,79 @@
+prep: 15 minutes
+allergens:
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - lemon
+  - chili
+  - complex
+mentions:
+  - cuisine/japanese/miso-soup
+ingredients:
+  - qty: 2
+    name: japanese
+    raw: 2 Japanese
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 1
+    unit: tbsp
+    name: rice vinegar
+    raw: 1 tablespoon rice vinegar
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    name: strip kombu
+    raw: 1 strip kombu
+  - qty: 1
+    unit: tsp
+    name: toasted sesame seeds
+    raw: 1 teaspoon toasted sesame seeds
+  - qty: 1
+    name: red chilli
+    raw: 1 red chilli
+  - qty: 200
+    unit: g
+    name: daikon radish
+    raw: 200 g daikon radish
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon fine salt
+  - qty: 3
+    unit: tbsp
+    name: rice vinegar
+    raw: 3 tablespoons rice vinegar
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tablespoon sugar
+  - qty: 1
+    name: strip lemon zest
+    raw: 1 strip lemon zest
+  - qty: 200
+    unit: g
+    name: chinese cabbage
+    raw: 200 g Chinese cabbage
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon fine salt
+  - qty: 4
+    name: shiso leaves
+    raw: 4 shiso leaves
+  - qty: 1
+    name: kombu
+    raw: 1 small piece kombu
+  - qty: 1
+    unit: tsp
+    name: mirin
+    raw: 1 teaspoon mirin

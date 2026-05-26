@@ -1,0 +1,41 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - onion
+  - potato
+  - butter
+mentions: []
+ingredients:
+  - qty: 600
+    unit: g
+    name: potatoes
+    raw: 600 g cooked potatoes
+  - qty: 300
+    unit: g
+    name: brussels sprouts
+    raw: 300 g cooked Brussels sprouts
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: goose fat
+    raw: 2 tablespoons goose fat
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: A pinch of nutmeg

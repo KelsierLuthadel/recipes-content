@@ -1,28 +1,3 @@
----
-prep: 30 minutes (plus overnight rest)
-cook: 2 hours
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - onion
-  - garlic
-  - ginger
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Pork Sorpotel
 
 ![Pork Sorpotel](resources/pork-sorpotel.jpg)

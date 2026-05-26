@@ -1,23 +1,3 @@
----
-prep: 20 minutes
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - meals
-  - eggs
-  - cream
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Individual Quiches Lorraine
 
 ![Individual Quiches Lorraine](resources/quiches-lorraine-individual.jpg)

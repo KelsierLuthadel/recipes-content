@@ -1,0 +1,74 @@
+prep: 1 hour 10 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - peanuts
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - snack
+  - meat
+  - beef
+  - pork
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: tbsp
+    name: groundnut oil
+    raw: 1 tablespoon groundnut oil
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 120
+    unit: g
+    name: meat
+    raw: 120 grams ground meat
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon freshly ground nutmeg
+  - name: sea salt
+    raw: Fine sea salt to taste
+  - name: black pepper
+    raw: Freshly ground black pepper to taste
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 30
+    unit: ml
+    name: parsley
+    raw: 30 milliliters fresh parsley
+  - qty: 225
+    unit: g
+    name: all-purpose flour
+    raw: 225 grams all-purpose flour
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 75
+    unit: ml
+    name: water
+    raw: 75 milliliters lukewarm water
+  - qty: 1.5
+    unit: tbsp
+    name: oil
+    raw: 1-2 tablespoons oil
+  - name: oil
+    raw: Oil for deep frying

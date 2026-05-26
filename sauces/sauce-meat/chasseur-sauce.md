@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-cook: 20 minutes
-allergens:
-  - dairy
-  - meat
-tags:
-  - gluten-free
-  - quick
-  - meat
-  - mushroom
-  - onion
-  - butter
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chasseur Sauce
 
 ![Chasseur sauce](resources/chasseur-sauce.png)

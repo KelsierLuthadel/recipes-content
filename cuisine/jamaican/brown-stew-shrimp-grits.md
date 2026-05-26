@@ -1,35 +1,3 @@
----
-prep: 15 minutes
-cook: 45 minutes
-allergens:
-  - dairy
-  - shellfish
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - fish
-  - prawn
-  - onion
-  - garlic
-  - ginger
-  - potato
-  - carrot
-  - butter
-  - cream
-  - cheese
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Brown Stew Shrimp and Sweet Potato Grits
 
 ![Brown Stew Shrimp and Sweet Potato Grits](resources/brown-stew-shrimp-grits.jpg)

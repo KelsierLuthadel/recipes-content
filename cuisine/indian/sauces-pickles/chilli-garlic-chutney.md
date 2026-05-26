@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-cook: 2 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - asian
-  - garlic
-  - chili
-mentions:
-  - cuisine/indian/snacks/samosa
----
-
-
-
-
 # Kashmiri Red Chilli and Garlic Chutney
 
 ![Kashmiri Red Chilli Chutney](resources/chilli-garlic-chutney.jpg)

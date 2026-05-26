@@ -1,29 +1,3 @@
----
-prep: 25 minutes (plus 12 hours resting)
-cook: 25 minutes
-allergens:
-  - meat
-  - mustard
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Vindaye Poule
 
 ![Vindaye Poule](resources/vindaye-poule.jpg)

@@ -1,37 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - peanuts
-  - fish
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - asian
-  - meat
-  - fish
-  - chicken
-  - onion
-  - garlic
-  - coconut
-  - coriander
-  - nuts
-  - chili
-  - curry
-  - complex
-mentions:
-  - cuisine/indian/BIR-chicken-curry
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Vietnamese Chicken Curry
 
 ![Vietnamese Chicken Curry](resources/vietnamese-curry.jpg)

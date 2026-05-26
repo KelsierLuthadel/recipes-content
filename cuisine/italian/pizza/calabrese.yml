@@ -1,0 +1,71 @@
+prep: 15 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - meat
+  - pork
+  - cheese
+  - chili
+mentions:
+  - cuisine/italian/pesto
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 0.5
+    name: pizza dough
+    raw: ½ quantity pizza dough
+  - qty: 80
+    unit: g
+    name: tomato sauce
+    raw: 80 grams tomato sauce
+  - qty: 45
+    unit: g
+    name: mozzarella
+    raw: 45 grams mozzarella
+  - qty: 30
+    unit: g
+    name: nduja sausage
+    raw: 30 grams nduja sausage
+  - qty: 30
+    unit: g
+    name: roquito peppers
+    raw: 30 grams roquito peppers
+  - qty: 4
+    name: green chillies
+    raw: 4 fresh green chillies
+  - qty: 0.25
+    name: yellow pepper
+    raw: ¼ yellow pepper
+  - qty: 0.25
+    name: red pepper
+    raw: ¼ red pepper
+  - qty: 20
+    unit: g
+    name: grana padano
+    raw: 20 grams Grana Padano
+  - qty: 30
+    unit: g
+    name: calabrese sausage
+    raw: 30 grams Calabrese sausage
+  - qty: 1
+    unit: pinch
+    name: oregano
+    raw: Pinch of dried oregano
+  - qty: 20
+    unit: g
+    name: watercress
+    raw: 20 grams watercress
+  - qty: 1
+    unit: tsp
+    name: pesto
+    raw: 1 teaspoon fresh Pesto
+  - qty: 50
+    unit: g
+    name: fior di latte mozzarella
+    raw: 50 grams fior di latte mozzarella

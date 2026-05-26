@@ -1,33 +1,3 @@
----
-prep: 5 minutes
-cook: 15 minutes
-allergens:
-  - soy
-  - sesame
-  - fish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - one-pan
-  - meals
-  - meat
-  - fish
-  - salmon
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - honey
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Honey Soy Salmon (One-Pan)
 
 ![Honey Soy Salmon (One-Pan)](resources/honey-soy-salmon.jpg)

@@ -1,37 +1,3 @@
----
-prep: 30 minutes (plus 1 hour dough resting)
-cook: 25 minutes (in batches)
-allergens:
-  - gluten
-  - eggs
-  - soy
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - snack
-  - make-ahead
-  - asian
-  - meat
-  - beef
-  - eggs
-  - onion
-  - garlic
-  - ginger
-  - coriander
-  - chili
-  - soy-sauce
-  - curry
-  - complex
-mentions:
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Martabak Telur
 
 ![Martabak Telur](resources/martabak-telur.jpg)

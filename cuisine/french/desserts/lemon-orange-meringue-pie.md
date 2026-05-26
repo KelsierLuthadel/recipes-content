@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 2 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - make-ahead
-  - eggs
-  - lemon
-  - butter
-  - complex
-mentions:
-  - tutorials/bread/gluten
-  - tutorials/pizza/dough
----
-
-
-
-
 # Lemon and Orange Meringue Pie
 
 ![Lemon and orange meringue pie](resources/lemon-orange-meringue-pie.jpg)

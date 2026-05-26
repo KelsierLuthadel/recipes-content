@@ -1,29 +1,3 @@
----
-prep: 15 minutes
-cook: 12 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - mustard
-  - garlic
-tags:
-  - vegetarian
-  - quick
-  - sides
-  - eggs
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Fried Green Tomatoes
 
 ![Fried Green Tomatoes](resources/fried-green-tomatoes.jpg)

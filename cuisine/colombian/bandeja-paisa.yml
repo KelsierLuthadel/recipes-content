@@ -1,0 +1,61 @@
+prep: 30 minutes (assumes beans and pork belly cooked)
+cook: 30 minutes
+allergens:
+  - eggs
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - rice
+  - onion
+mentions:
+  - cuisine/colombian/side-dishes/frijoles-paisas
+  - cuisine/colombian/side-dishes/hogao
+  - cuisine/honduras/side-dishes/tajadas
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 250
+    unit: g
+    name: frijoles paisas
+    raw: 250 g cooked Frijoles Paisas
+  - qty: 200
+    unit: g
+    name: white rice
+    raw: 200 g cooked white rice
+  - qty: 1
+    name: chicharron
+    raw: 1 piece chicharrón
+  - qty: 1
+    name: chorizo
+    raw: 1 chorizo
+  - qty: 1
+    name: steak
+    raw: 1 thin steak
+  - qty: 0.5
+    name: plantain
+    raw: ½ ripe plantain
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 0.5
+    name: avocado
+    raw: ½ ripe avocado
+  - qty: 1
+    name: arepa de maiz blanco
+    raw: 1 arepa de maíz blanco
+  - name: vegetable oil
+    raw: Vegetable oil for frying
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    name: bowl of hogao
+    raw: 1 small bowl of hogao
+  - name: spring onions
+    raw: A few sliced spring onions

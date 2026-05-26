@@ -1,23 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - baking
-  - eggs
-  - butter
-mentions:
-  - tutorials/patisserie/petit-fours
-  - tutorials/pizza/dough
----
-
-
-
-
 # Pâte Sablée (Shortbread Dough)
 
 ![Pâte sablée (Shortbread dough)](resources/shortbread.png)

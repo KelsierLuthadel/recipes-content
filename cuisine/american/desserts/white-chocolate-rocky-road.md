@@ -1,22 +1,3 @@
----
-prep: 15 minutes (plus 2 hours chilling)
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - butter
-  - cream
-  - chocolate
-  - nuts
-  - complex
-mentions: []
----
-
-
-
-
 # White Chocolate Rocky Road
 
 ![White Chocolate Rocky Road](resources/white-chocolate-rocky-road.jpg)

@@ -1,19 +1,3 @@
----
-prep: 15 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - lemon
-mentions: []
----
-
-
-
-
 # Blackberry Coulis
 
 ![Blackberry coulis](resources/blackberry-coulis.jpg)

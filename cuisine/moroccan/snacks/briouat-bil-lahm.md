@@ -1,32 +1,3 @@
----
-prep: 30 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - eggs
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - snack
-  - meat
-  - beef
-  - lamb
-  - eggs
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - complex
-mentions:
-  - baking/pastry/filo-pastry
-  - tutorials/pastry/filo
----
-
-
-
-
 # Briouat Bil Lahm (Meat Briouats)
 
 ![Briouat bil Lahm](resources/briouat-bil-lahm.jpg)

@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - asian
-  - nuts
-  - diwali
-  - eid-al-fitr
-  - holi
-  - muslim
-  - hindu
-mentions: []
----
-
-
-
-
 # Besan Ladoo
 
 ![Besan Ladoo](resources/besan-ladoo.jpg)

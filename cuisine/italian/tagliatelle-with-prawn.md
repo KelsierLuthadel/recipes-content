@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-cook: 3 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-  - shellfish
-tags:
-  - quick
-  - meals
-  - fish
-  - prawn
-  - eggs
-  - onion
-  - tomato
-  - butter
-  - cream
-  - nuts
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tagliatelle with Prawns and Brandy Cream Sauce
 
 ![Tagliatelle with Prawns](resources/gamberoni.jpg)

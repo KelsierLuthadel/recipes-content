@@ -1,0 +1,67 @@
+prep: 10 minutes
+cook: 1 hour 56 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - ginger
+  - lemon
+  - butter
+  - nuts
+  - complex
+  - halloween
+mentions:
+  - base-ingredients/syrup/sirop-a-sorbet
+ingredients:
+  - qty: 500
+    unit: ml
+    name: syrup for sorbet
+    raw: 500 ml Syrup for Sorbet
+  - qty: 340
+    unit: g
+    name: cranberries
+    raw: 340 grams cranberries
+  - qty: 4
+    name: quince
+    raw: 4 quince
+  - qty: 1
+    name: bramley
+    raw: 1 Bramley
+  - qty: 4
+    name: cox
+    raw: 4 Cox
+  - qty: 1
+    name: lemon juice
+    raw: 1 lemon juice
+  - qty: 180
+    unit: g
+    name: caster sugar
+    raw: 180 grams caster sugar
+  - qty: 80
+    unit: g
+    name: preserved stem ginger in syrup
+    raw: 80 grams preserved stem ginger in syrup
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter, cut into pieces, slightly softened
+  - qty: 60
+    unit: g
+    name: brown sugar
+    raw: 60 grams brown sugar
+  - qty: 85
+    unit: g
+    name: flour
+    raw: 85 grams flour
+  - qty: 15
+    unit: g
+    name: almond
+    raw: 15 grams ground almond
+  - qty: 15
+    unit: g
+    name: flaked almonds
+    raw: 15 grams flaked almonds

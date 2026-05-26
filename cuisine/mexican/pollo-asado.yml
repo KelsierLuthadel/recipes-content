@@ -1,0 +1,81 @@
+prep: 20 minutes (plus 4 hours marinating)
+cook: 30 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - lime
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/snacks/guacamole
+  - cuisine/mexican/snacks/quesadillas
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: chicken pieces
+    raw: 1 ½ kg bone-in chicken pieces
+  - qty: 50
+    unit: g
+    name: achiote paste
+    raw: 50 g achiote paste
+  - qty: 120
+    unit: ml
+    name: orange juice
+    raw: 120 ml fresh orange juice
+  - qty: 60
+    unit: ml
+    name: lime juice
+    raw: 60 ml lime juice
+  - qty: 30
+    unit: ml
+    name: white vinegar
+    raw: 30 ml white vinegar
+  - qty: 45
+    unit: ml
+    name: olive oil
+    raw: 45 ml olive oil
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 5
+    unit: g
+    name: cumin
+    raw: 5 g ground cumin
+  - qty: 5
+    unit: g
+    name: mexican oregano
+    raw: 5 g dried Mexican oregano
+  - qty: 3
+    unit: g
+    name: smoked paprika
+    raw: 3 g smoked paprika
+  - qty: 8
+    unit: g
+    name: salt
+    raw: 8 g salt
+  - qty: 2
+    unit: g
+    name: black pepper
+    raw: 2 g ground black pepper
+  - qty: 1
+    name: chipotle in adobo
+    raw: 1 chipotle in adobo
+  - name: warm corn tortillas
+    raw: Warm corn tortillas
+  - name: lime wedges
+    raw: Lime wedges
+  - name: charred spring onions
+    raw: Charred spring onions
+  - name: salsa roja
+    raw: Salsa roja

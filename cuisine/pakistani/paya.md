@@ -1,29 +1,3 @@
----
-prep: 30 minutes
-cook: 6 hours (or 2 hours pressure cooker)
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Paya
 
 ![Paya](resources/paya.jpg)

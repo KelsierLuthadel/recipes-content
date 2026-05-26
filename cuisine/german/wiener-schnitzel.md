@@ -1,25 +1,3 @@
----
-prep: 20 minutes
-cook: 12 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-tags:
-  - meals
-  - meat
-  - eggs
-  - potato
-  - lemon
-  - butter
-mentions:
-  - base-ingredients/baking/clarified-butter
----
-
-
-
-
 # Wiener Schnitzel
 
 ![Wiener Schnitzel](resources/wiener-schnitzel.jpg)

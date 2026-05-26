@@ -1,28 +1,3 @@
----
-prep: 25 minutes
-cook: 50 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - meat
-  - beef
-  - lamb
-  - onion
-  - garlic
-  - tomato
-  - potato
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Kafta Bil Saneya
 
 ![Kafta bil Saneya](resources/kafta-bil-saneya.jpg)

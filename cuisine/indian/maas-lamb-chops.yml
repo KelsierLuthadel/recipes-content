@@ -1,0 +1,66 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - lamb
+  - garlic
+  - ginger
+  - lemon
+  - yogurt
+mentions:
+  - cuisine/indian/Breads/rotis
+ingredients:
+  - qty: 8
+    name: lamb chops
+    raw: 8 lamb chops, about 2 ½ cm thick
+  - qty: 500
+    unit: g
+    name: plain yogurt
+    raw: 500 g plain yogurt
+  - qty: 2
+    unit: tbsp
+    name: cumin
+    raw: 2 tbsp ground cumin
+  - qty: 2
+    unit: tbsp
+    name: paprika
+    raw: 2 tbsp paprika
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 tsp ground cloves
+  - qty: 1
+    unit: tsp
+    name: green cardamom
+    raw: 1 tsp ground green cardamom
+  - qty: 1
+    unit: tsp
+    name: fenugreek powder
+    raw: 1 tsp fenugreek powder
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp ground turmeric
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, minced
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tbsp minced fresh root ginger
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt

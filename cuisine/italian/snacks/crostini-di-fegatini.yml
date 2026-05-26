@@ -1,0 +1,86 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - fish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - snack
+  - make-ahead
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - butter
+  - complex
+mentions: []
+ingredients:
+  - qty: 350
+    unit: g
+    name: chicken livers
+    raw: 350 g chicken livers
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: anchovy fillets in oil
+    raw: 4 anchovy fillets in oil
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tablespoons capers
+  - qty: 6
+    name: sage leaves
+    raw: 6 fresh sage leaves
+  - qty: 80
+    unit: ml
+    name: vin santo
+    raw: 80 ml Vin Santo
+  - qty: 1
+    unit: tbsp
+    name: red wine vinegar
+    raw: 1 tablespoon red wine vinegar
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 30
+    unit: g
+    name: cold unsalted butter
+    raw: 30 g cold unsalted butter
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch fresh flat-leaf parsley
+  - name: extra-virgin olive oil
+    raw: Extra-virgin olive oil to drizzle
+  - qty: 1
+    name: baguette
+    raw: 1 baguette
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove

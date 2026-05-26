@@ -1,0 +1,54 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - fish
+  - garlic
+tags:
+  - gluten-free
+  - quick
+  - meals
+  - fish
+  - rice
+  - garlic
+  - lemon
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: barramundi fillets
+    raw: 2 barramundi fillets, skin on , pin bones removed
+  - qty: 2
+    unit: tsp
+    name: flaky sea salt
+    raw: 2 teaspoons flaky sea salt
+  - qty: 2
+    unit: tbsp
+    name: neutral oil
+    raw: 2 tablespoons neutral oil
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: capers
+    raw: 1 tablespoon small capers
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 1
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 1 tablespoon chopped flat-leaf parsley
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - name: flaky salt
+    raw: Flaky salt

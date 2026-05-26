@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - fish
+  - pork
+  - onion
+  - garlic
+  - potato
+  - cream
+mentions: []
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: clams
+    raw: 1 ½ kg clams
+  - qty: 3
+    name: bacon slices
+    raw: 3 bacon slices
+  - qty: 2
+    unit: tsp
+    name: oil
+    raw: 2 teaspoons oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 750
+    unit: g
+    name: potato
+    raw: 750 grams potato
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 330
+    unit: ml
+    name: fish stock
+    raw: 330 ml fish stock
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml milk
+  - qty: 125
+    unit: ml
+    name: whipping cream
+    raw: 125 ml whipping cream
+  - qty: 3
+    unit: tbsp
+    name: flat leaf parsley
+    raw: 3 tablespoon flat leaf parsley

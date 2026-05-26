@@ -1,0 +1,81 @@
+prep: 20 minutes
+cook: 50 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - one-pan
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - complex
+mentions: []
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tablespoons sunflower oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: butternut squash
+    raw: 1 butternut squash
+  - qty: 1
+    unit: tsp
+    name: sage
+    raw: 1 teaspoon dried sage
+  - qty: 1
+    unit: tsp
+    name: sumac
+    raw: 1 teaspoon ground sumac
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 800
+    unit: ml
+    name: vegetable stock
+    raw: 800 ml vegetable stock
+  - qty: 1
+    name: pinto beans
+    raw: 1 tin pinto beans
+  - qty: 1
+    name: hominy
+    raw: 1 tin hominy
+  - qty: 1
+    unit: tbsp
+    name: maple syrup
+    raw: 1 tablespoon maple syrup
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 3
+    unit: tbsp
+    name: toasted pumpkin seeds
+    raw: 3 tablespoons toasted pumpkin seeds
+  - qty: 2
+    unit: tbsp
+    name: sage
+    raw: 2 tablespoons fresh sage
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil

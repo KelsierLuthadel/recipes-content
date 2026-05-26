@@ -1,36 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - ginger
-  - spinach
-  - lemon
-  - coriander
-  - yogurt
-  - chili
-  - complex
-mentions:
-  - cuisine/indian/rice/pilau-rice
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lamb Saag
 
 ![Lamb Saag](resources/BIR-Lamb-saag.jpg)

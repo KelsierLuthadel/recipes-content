@@ -1,24 +1,3 @@
----
-prep: 2 minutes
-cook: 5 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - quick
-  - butter
-  - chili
-mentions:
-  - cuisine/american/snacks/buffalo-wings
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Buffalo Sauce
 
 ![Buffalo Sauce](resources/buffalo-sauce.jpg)

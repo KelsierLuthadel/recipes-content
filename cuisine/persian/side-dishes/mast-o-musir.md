@@ -1,21 +1,3 @@
----
-prep: 10 minutes active
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - make-ahead
-  - sides
-  - onion
-  - yogurt
-mentions: []
----
-
-
-
-
 # Mast O Musir
 
 ![Mast o Musir](resources/mast-o-musir.jpg)

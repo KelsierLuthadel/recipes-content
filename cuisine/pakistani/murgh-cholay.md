@@ -1,33 +1,3 @@
----
-prep: 15 minutes
-cook: 45 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - lemon
-  - coriander
-  - chickpea
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Murgh Cholay
 
 ![Murgh Cholay](resources/murgh-cholay.jpg)

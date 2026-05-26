@@ -1,0 +1,47 @@
+prep: 25 minutes (plus 30 min bean-soaking)
+cook: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - onion
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: black-eyed beans
+    raw: 300 g dried black-eyed beans
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 1
+    name: scotch bonnet chilli
+    raw: 1 Scotch bonnet chilli
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 80-120 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - qty: 1
+    unit: pinch
+    name: flaky salt
+    raw: Pinch of flaky salt
+  - name: pepper sauce
+    raw: Pepper sauce

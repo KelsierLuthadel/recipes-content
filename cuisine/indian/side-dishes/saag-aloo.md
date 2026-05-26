@@ -1,29 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - sides
-  - asian
-  - onion
-  - garlic
-  - ginger
-  - spinach
-  - lemon
-  - coriander
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Saag Aloo
 
 ![Saag Aloo](resources/saag-aloo.jpg)

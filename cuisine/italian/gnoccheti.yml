@@ -1,0 +1,51 @@
+prep: 15 minutes
+cook: 4 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - eggs
+  - potato
+  - butter
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: floury potatoes
+    raw: 300 grams floury potatoes
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 grams plain flour
+  - name: salt
+    raw: Salt to taste
+  - qty: 100
+    unit: g
+    name: salted butter
+    raw: 100 grams salted butter
+  - qty: 2
+    name: courgettes
+    raw: 2 courgettes
+  - qty: 1
+    unit: tbsp
+    name: sage
+    raw: 1 tablespoon fresh sage
+  - qty: 300
+    unit: g
+    name: parmesan cheese
+    raw: 300 grams Parmesan cheese
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

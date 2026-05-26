@@ -1,26 +1,3 @@
----
-prep: 15 minutes
-cook: 5 minutes
-allergens:
-  - mustard
-  - celery
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - make-ahead
-  - sides
-  - bbq
-  - onion
-  - chickpea
-mentions: []
----
-
-
-
-
 # Three-Bean Salad
 
 ![Three-Bean Salad](resources/three-bean-salad.jpg)

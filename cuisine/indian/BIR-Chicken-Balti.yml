@@ -1,0 +1,73 @@
+prep: 20 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: rapeseed oil
+    raw: 3 tbsp rapeseed oil
+  - qty: 1
+    name: onion
+    raw: 1 onion , roughly chopped
+  - qty: 1
+    name: green pepper deseeded and roughly chopped
+    raw: 1 green pepper deseeded and roughly chopped
+  - qty: 1
+    name: tomato
+    raw: 1 tomato, diced
+  - qty: 1
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 1 tbsp garlic and ginger paste
+  - qty: 1
+    unit: tbsp
+    name: green chillis
+    raw: 1 tbsp finely chopped green chillis
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp ground turmeric
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 250
+    unit: ml
+    name: curry base gravy
+    raw: 250ml Curry Base Gravy
+  - qty: 200
+    unit: g
+    name: pre-cooked chicken
+    raw: 200 g Pre-Cooked Chicken
+  - qty: 1
+    unit: tbsp
+    name: garam masala
+    raw: 1 tbsp garam masala
+  - qty: 1
+    unit: tsp
+    name: fenugreek leaves
+    raw: 1 tsp dried fenugreek leaves
+  - name: salt
+    raw: Salt
+  - name: coriander
+    raw: Chopped coriander to serve

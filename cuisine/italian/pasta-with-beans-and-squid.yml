@@ -1,0 +1,65 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - meat
+  - fish
+  - pork
+  - garlic
+  - tomato
+  - lemon
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 100
+    unit: g
+    name: chick peas
+    raw: 100 grams tinned chick peas
+  - qty: 100
+    unit: g
+    name: borlotti beans
+    raw: 100 grams tinned borlotti beans
+  - qty: 15
+    name: cherry tomatoes
+    raw: 15 cherry tomatoes
+  - qty: 1
+    name: medium-hot red chilli
+    raw: 1 medium-hot red chilli
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 3
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 3 tablespoons fresh flat-leaf parsley
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons fresh lemon juice
+  - qty: 8
+    unit: tbsp
+    name: virgin olive oil
+    raw: 8 tablespoons extra virgin olive oil
+  - name: salt
+    raw: Salt to taste
+  - qty: 400
+    unit: g
+    name: squid
+    raw: 400 grams squid
+  - qty: 80
+    unit: g
+    name: chorizo
+    raw: 80 grams chorizo
+  - qty: 500
+    unit: g
+    name: orecchiette shells
+    raw: 500 grams orecchiette shells

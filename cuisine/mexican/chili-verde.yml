@@ -1,0 +1,101 @@
+prep: 25 minutes
+cook: 2 hours 15 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - cheese
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: tomatillos
+    raw: 1 kg tomatillos
+  - qty: 4
+    name: poblano chillies
+    raw: 4 poblano chillies
+  - qty: 2.5
+    name: jalapenos
+    raw: 2-3 jalapeños
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 1.5
+    unit: kg
+    name: pork shoulder
+    raw: 1 ½ kg pork shoulder
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 600
+    unit: ml
+    name: chicken stock
+    raw: 600 ml chicken stock
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 12
+    name: warm corn tortillas
+    raw: 12 warm corn tortillas
+  - name: lime wedges
+    raw: Lime wedges
+  - name: radish
+    raw: Sliced radish
+  - name: crumbled queso fresco
+    raw: Crumbled queso fresco
+  - name: white onion
+    raw: Diced white onion
+  - name: coriander
+    raw: Coriander
+  - name: white rice
+    raw: White rice

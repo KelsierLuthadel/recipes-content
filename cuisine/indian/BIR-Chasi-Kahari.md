@@ -1,28 +1,3 @@
----
-prep: 5 minutes
-cook: 50 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - lamb
-  - garlic
-  - tomato
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lamb Charsi Karahi
 
 ![Charsi Karahi](resources/BIR-Chasi-Kahari.jpg)

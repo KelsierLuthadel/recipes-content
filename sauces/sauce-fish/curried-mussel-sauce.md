@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - shellfish
-tags:
-  - spicy
-  - fish
-  - onion
-  - butter
-  - cream
-  - curry
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Curried Mussel Sauce
 
 ![Curried mussel sauce](resources/curried-mussel-sauce.png)

@@ -1,0 +1,78 @@
+prep: 30 minutes (plus 45 minutes first rise, 6 hours cold proof, 1 hour 30 minutes second rise)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - honey
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 297.5
+    unit: g
+    name: white bread flour
+    raw: 265-330 g strong white bread flour
+  - qty: 50
+    unit: g
+    name: golden caster sugar
+    raw: 50 g golden caster sugar
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
+  - qty: 1
+    name: fast-action dried yeast
+    raw: 1 sachet fast-action dried yeast
+  - qty: 85
+    unit: ml
+    name: milk
+    raw: 85 ml whole milk
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - name: sunflower oil
+    raw: Sunflower oil
+  - qty: 250
+    unit: g
+    name: pitted medjool dates
+    raw: 250 g pitted Medjool dates
+  - qty: 90
+    unit: ml
+    name: just-boiled water
+    raw: 90 ml just-boiled water
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 teaspoons ground cinnamon
+  - qty: 100
+    unit: g
+    name: shelled pistachios
+    raw: 100 g shelled pistachios
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 2
+    unit: tbsp
+    name: honey
+    raw: 2 tablespoons honey
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons water

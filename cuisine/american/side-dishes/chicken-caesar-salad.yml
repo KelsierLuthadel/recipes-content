@@ -1,0 +1,91 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - meat
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - meat
+  - chicken
+  - pork
+  - eggs
+  - garlic
+  - lemon
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: chicken fillets
+    raw: 2 chicken fillets
+  - qty: 300
+    unit: g
+    name: pancetta
+    raw: 300 g pancetta
+  - qty: 2
+    name: cos lettuces
+    raw: 2 cos lettuces
+  - qty: 4
+    name: wholemeal bread
+    raw: 4 thick slices wholemeal bread
+  - qty: 25
+    unit: g
+    name: parmesan cheese
+    raw: 25 g Parmesan cheese
+  - qty: 50
+    unit: g
+    name: parmesan cheese
+    raw: 50 g Parmesan cheese
+  - qty: 15
+    unit: g
+    name: anchovy fillets
+    raw: 15 g anchovy fillets
+  - qty: 2
+    unit: tsp
+    name: capers
+    raw: 2 tsp capers
+  - qty: 2
+    unit: tsp
+    name: worcestershire sauce
+    raw: 2 tsp Worcestershire sauce
+  - qty: 0.5
+    unit: tsp
+    name: dijon mustard
+    raw: ½ tsp Dijon mustard
+  - qty: 1
+    unit: dash
+    name: tabasco sauce
+    raw: Dash of Tabasco sauce
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 0.5
+    name: garlic clove
+    raw: ½ garlic clove
+  - qty: 2
+    unit: tbsp
+    name: parmesan cheese
+    raw: 2 tbsp Parmesan cheese
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 225
+    unit: ml
+    name: virgin olive oil
+    raw: 150-300 ml extra virgin olive oil
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tbsp olive oil

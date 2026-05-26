@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 20 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - sides
-  - ginger
-mentions:
-  - cuisine/indian/sauces-pickles/mint-chutney
-  - cuisine/indian/side-dishes/samosa
----
-
-
-
-
 # Lahori Imli Chutney
 
 ![Lahori Imli Chutney](resources/lahori-imli-chutney.jpg)

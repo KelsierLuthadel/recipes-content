@@ -1,0 +1,61 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - spices
+  - ginger
+  - coriander
+  - chili
+mentions: []
+ingredients:
+  - qty: 10
+    name: red chillies
+    raw: 10 dried red chillies
+  - qty: 8
+    name: white cardamom pods
+    raw: 8 white cardamom pods
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 teaspoon coriander seeds
+  - qty: 1
+    unit: tsp
+    name: fenugreek seeds
+    raw: 1 teaspoon fenugreek seeds
+  - qty: 8
+    name: cloves
+    raw: 8 cloves
+  - qty: 1
+    unit: tsp
+    name: allspice berries
+    raw: 1 teaspoon allspice berries
+  - qty: 2
+    unit: tsp
+    name: black peppercorns
+    raw: 2 teaspoons black peppercorns
+  - qty: 1
+    unit: tsp
+    name: ajowan seeds
+    raw: 1 teaspoon ajowan seeds
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon ground ginger
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon freshly grated nutmeg
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tablespoons fine sea salt

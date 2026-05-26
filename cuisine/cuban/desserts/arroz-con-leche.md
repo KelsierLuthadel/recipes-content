@@ -1,23 +1,3 @@
----
-prep: 5 minutes
-cook: 45 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - eggs
-  - rice
-  - lemon
-  - butter
-mentions: []
----
-
-
-
-
 # Arroz Con Leche
 
 ![Arroz con Leche](resources/arroz-con-leche.jpg)

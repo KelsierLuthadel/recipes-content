@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - quick
-  - meals
-  - tomato
-  - cheese
-  - nuts
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Spaghetti with Ricotta Cheese and Toasted Pine Nuts
 
 ![Spaghetti with Ricotta](resources/spaghetti-ricotta.jpg)

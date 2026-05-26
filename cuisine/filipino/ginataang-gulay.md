@@ -1,29 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-  - soy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - meals
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - coconut
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Ginataang Gulay
 
 ![Ginataang Gulay](resources/ginataang-gulay.jpg)

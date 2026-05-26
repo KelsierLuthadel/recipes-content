@@ -1,27 +1,3 @@
----
-prep: 15 minutes (plus 10 min gobo soak)
-cook: 12 minutes
-allergens:
-  - soy
-  - sesame
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - sides
-  - onion
-  - carrot
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Kinpira Gobo
 
 ![Kinpira Gobo](resources/kinpira-gobo.jpg)

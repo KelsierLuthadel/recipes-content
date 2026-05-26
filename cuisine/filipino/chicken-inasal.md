@@ -1,34 +1,3 @@
----
-prep: 25 minutes (plus 4 hours marinating)
-cook: 25 minutes
-allergens:
-  - dairy
-  - soy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - bbq
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - lime
-  - butter
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Inasal
 
 ![Chicken Inasal](resources/chicken-inasal.jpg)

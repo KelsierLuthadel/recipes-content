@@ -1,26 +1,3 @@
----
-prep: 5 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - sides
-  - butter
-  - cream
-  - honey
-  - nuts
-mentions:
-  - cuisine/mexican/desserts/atole
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Blue Corn Mush
 
 ![Blue Corn Mush](resources/blue-corn-mush.jpg)

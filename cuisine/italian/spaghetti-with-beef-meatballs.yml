@@ -1,0 +1,94 @@
+prep: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - lemon
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 750
+    unit: g
+    name: beef mince
+    raw: 750 grams beef mince
+  - qty: 140
+    unit: g
+    name: breadcrumbs
+    raw: 140 grams fresh breadcrumbs
+  - qty: 35
+    unit: g
+    name: parmesan cheese
+    raw: 35 grams Parmesan cheese
+  - qty: 2
+    unit: tbsp
+    name: flat leaf parsley
+    raw: 2 tablespoons flat leaf parsley
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - name: rind and juice of ½ unwaxed lemon
+    raw: Rind and juice of ½ unwaxed lemon
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 68
+    unit: g
+    name: plain flour
+    raw: 68 grams plain flour
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 425
+    unit: g
+    name: passata
+    raw: 425 grams passata
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tablespoon tomato purée
+  - qty: 120
+    unit: g
+    name: beef stock
+    raw: 120 grams beef stock
+  - qty: 120
+    unit: g
+    name: red wine
+    raw: 120 grams red wine
+  - qty: 2
+    unit: tbsp
+    name: basil
+    raw: 2 tablespoons fresh basil
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 500
+    unit: g
+    name: spaghetti
+    raw: 500 grams spaghetti

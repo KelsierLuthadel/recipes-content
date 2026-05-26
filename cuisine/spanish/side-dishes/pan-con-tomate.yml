@@ -1,0 +1,31 @@
+prep: 5 minutes
+cook: 4 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - garlic
+  - tomato
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 4
+    name: country sourdough
+    raw: 4 thick slices country sourdough
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes
+  - qty: 4
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 4 tablespoons extra-virgin olive oil
+  - name: flaky sea salt
+    raw: Flaky sea salt

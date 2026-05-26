@@ -1,0 +1,49 @@
+prep: 15 minutes (plus 20 minutes rest)
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - asian
+  - chili
+mentions:
+  - cuisine/indian/lamb-karahi
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 180
+    unit: g
+    name: wheat flour or maida
+    raw: 180 g whole wheat flour or maida
+  - qty: 1
+    unit: tbsp
+    name: ghee
+    raw: 1 tablespoon ghee
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - name: water
+    raw: Warm water
+  - qty: 3
+    unit: tbsp
+    name: chives
+    raw: 3 tablespoons chives
+  - qty: 2
+    unit: tbsp
+    name: flat leaf parsley
+    raw: 2 tablespoons flat leaf parsley
+  - qty: 1.5
+    name: thai bird's eye chillies
+    raw: 1-2 Thai bird's eye chillies
+  - qty: 1
+    unit: tsp
+    name: tellicherry black peppercorns
+    raw: 1 teaspoon Tellicherry black peppercorns
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - name: ghee
+    raw: Ghee

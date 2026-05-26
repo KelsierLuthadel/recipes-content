@@ -1,20 +1,3 @@
----
-prep: 20 minutes
-cook: 1 ½ hours
-allergens:
-  - meat
-  - celery
-tags:
-  - dairy-free
-  - gluten-free
-  - meat
-  - complex
-mentions: []
----
-
-
-
-
 # White Chicken Stock
 
 ![White Chicken Stock](resources/chicken-stock.png)

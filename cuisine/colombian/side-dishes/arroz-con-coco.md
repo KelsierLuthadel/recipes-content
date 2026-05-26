@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-cook: 35 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - sides
-  - rice
-  - coconut
-mentions:
-  - cuisine/indian/rice/coconut-rice
-  - cuisine/thai/side-dishes/coconut-rice
----
-
-
-
-
 # Arroz Con Coco
 
 ![Arroz con Coco](resources/arroz-con-coco.jpg)

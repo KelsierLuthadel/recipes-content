@@ -1,0 +1,90 @@
+prep: 20 minutes
+cook: 5 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - carrot
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 425
+    unit: g
+    name: tomatoes
+    raw: 425 grams tinned tomatoes
+  - qty: 125
+    unit: ml
+    name: white wine
+    raw: 125 ml white wine
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 20
+    name: black mussels
+    raw: 20 black mussels
+  - qty: 200
+    unit: g
+    name: clams
+    raw: 200 grams clams
+  - qty: 125
+    unit: g
+    name: calamari rings
+    raw: 125 grams calamari rings
+  - qty: 125
+    unit: g
+    name: firm white fish fillets
+    raw: 125 grams skinless firm white fish fillets
+  - qty: 200
+    unit: g
+    name: prawns
+    raw: 200 grams raw prawns
+  - qty: 60
+    unit: ml
+    name: white wine
+    raw: 60 ml white wine
+  - qty: 60
+    unit: ml
+    name: fish stock
+    raw: 60 ml fish stock
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 grams butter
+  - qty: 375
+    unit: g
+    name: spaghetti
+    raw: 375 grams spaghetti
+  - qty: 10
+    unit: g
+    name: flat leaf parsley
+    raw: 10 grams flat leaf parsley

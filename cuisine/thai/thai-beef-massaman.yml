@@ -1,0 +1,68 @@
+prep: 10 minutes
+cook: 2 hours
+allergens:
+  - dairy
+  - peanuts
+  - fish
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - beef
+  - onion
+  - coconut
+  - potato
+  - nuts
+  - curry
+  - complex
+mentions:
+  - cuisine/thai/pastes/massaman-curry-paste
+  - tutorials/bread/gluten
+  - tutorials/pizza/sauce
+  - tutorials/thai-curry/massaman
+ingredients:
+  - qty: 700
+    unit: g
+    name: stewing beef
+    raw: 700 g stewing beef
+  - qty: 2
+    name: potatoes
+    raw: 2 potatoes, peeled and cut into bite-size pieces
+  - qty: 0.5
+    name: red onion
+    raw: ½ red onion, quartered
+  - qty: 2
+    unit: tbsp
+    name: rapeseed oil
+    raw: 2 tbsp rapeseed oil
+  - qty: 1
+    unit: handful
+    name: roasted peanuts
+    raw: Handful of roasted peanuts
+  - qty: 1
+    name: batch massaman curry paste
+    raw: 1 batch massaman curry paste
+  - qty: 1
+    unit: tbsp
+    name: palm sugar
+    raw: 1 tbsp palm sugar
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml thick coconut milk
+  - qty: 1
+    unit: tsp
+    name: tamarind paste
+    raw: 1 tsp tamarind paste
+  - qty: 3
+    unit: tbsp
+    name: thai fish sauce
+    raw: 3 tbsp Thai fish sauce
+  - name: salt
+    raw: Salt, to taste
+  - name: thai holy basil
+    raw: Thai holy basil

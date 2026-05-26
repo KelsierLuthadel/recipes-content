@@ -1,36 +1,3 @@
----
-prep: 10 minutes
-cook: 12 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - quick
-  - snack
-  - meat
-  - pork
-  - mushroom
-  - onion
-  - garlic
-  - spinach
-  - lime
-  - coriander
-  - butter
-  - cream
-  - cheese
-  - day-of-the-dead
-mentions:
-  - cuisine/mexican/side-dishes/refried-beans
-  - cuisine/mexican/snacks/guacamole
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Quesadillas
 
 ![Quesadillas](resources/quesadillas.jpg)

@@ -1,0 +1,56 @@
+prep: 20 minutes
+cook: 1 hour 24 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - pork
+  - garlic
+  - tomato
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 500
+    unit: g
+    name: plum tomatoes
+    raw: 500 grams ripe plum tomatoes
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 0.25
+    unit: tsp
+    name: sugar
+    raw: ¼ teaspoon sugar
+  - qty: 3
+    name: prepared pizza dough bases
+    raw: 3 prepared pizza dough bases
+  - qty: 100
+    unit: g
+    name: chorizo
+    raw: 100 grams chorizo
+  - qty: 3
+    unit: tbsp
+    name: capers
+    raw: 3 tablespoons capers
+  - qty: 30
+    unit: g
+    name: pitted black olives
+    raw: 30 grams pitted black olives
+  - qty: 250
+    unit: g
+    name: buffalo mozzarella
+    raw: 250 grams buffalo mozzarella
+  - qty: 1
+    unit: handful
+    name: basil leaves
+    raw: Handful of fresh basil leaves

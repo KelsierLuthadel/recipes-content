@@ -1,26 +1,3 @@
----
-prep: 25 minutes
-cook: 1 ½ hours
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - coconut
-  - potato
-  - butter
-  - complex
-  - kwanzaa
-mentions: []
----
-
-
-
-
 # Sweet Potato Pudding
 
 ![Sweet Potato Pudding](resources/sweet-potato-pudding.jpg)

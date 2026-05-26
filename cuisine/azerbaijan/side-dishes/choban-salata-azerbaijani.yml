@@ -1,0 +1,59 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - onion
+  - tomato
+  - lemon
+mentions:
+  - cuisine/azerbaijan/plov
+  - cuisine/azerbaijan/side-dishes/lavash
+ingredients:
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe medium tomatoes
+  - qty: 2
+    name: short cucumbers
+    raw: 2 short cucumbers
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 15
+    unit: g
+    name: dill
+    raw: 15 g fresh dill
+  - qty: 15
+    unit: g
+    name: mint
+    raw: 15 g fresh mint
+  - qty: 5
+    unit: g
+    name: tarragon
+    raw: 5 g fresh tarragon
+  - qty: 4
+    unit: tbsp
+    name: virgin olive oil
+    raw: 4 tablespoons extra virgin olive oil
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons lemon juice
+  - qty: 0.75
+    unit: tsp
+    name: salt
+    raw: ¾ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: sumac
+    raw: ½ teaspoon ground sumac

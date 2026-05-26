@@ -1,28 +1,3 @@
----
-prep: 10 minutes
-cook: 2 minutes
-allergens:
-  - peanuts
-  - soy
-  - fish
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - fish
-  - onion
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Fish in Hot and Sour Sauce
 
 ![Fish in Hot and Sour Sauce](resources/hot-sour-fish.jpg)

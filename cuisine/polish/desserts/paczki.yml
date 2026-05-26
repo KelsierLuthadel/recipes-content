@@ -1,0 +1,77 @@
+prep: 30 minutes (plus 2 hours proving)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - complex
+mentions:
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: white flour
+    raw: 500 g strong white flour
+  - qty: 10
+    unit: g
+    name: instant dried yeast
+    raw: 10 g instant dried yeast
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 220
+    unit: ml
+    name: milk
+    raw: 220 ml warm whole milk
+  - qty: 5
+    name: egg yolks
+    raw: 5 egg yolks
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: spirit
+    raw: 2 tablespoons spirit
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 2
+    unit: l
+    name: neutral oil or lard for the traditional version
+    raw: 2 litres neutral oil or lard for the traditional version
+  - qty: 350
+    unit: g
+    name: jam
+    raw: 350 g good-quality jam , or thick blackcurrant)
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar
+  - qty: 150
+    unit: g
+    name: icing sugar
+    raw: 150 g icing sugar
+  - qty: 3
+    unit: tbsp
+    name: orange juice
+    raw: 3 tablespoons fresh orange juice
+  - name: candied orange peel
+    raw: candied orange peel

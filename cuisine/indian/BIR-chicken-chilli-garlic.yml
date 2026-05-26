@@ -1,0 +1,84 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: rapeseed oil or seasoned oil
+    raw: 4 tbsp rapeseed oil or seasoned oil
+  - qty: 15
+    name: garlic cloves
+    raw: 15 garlic cloves, cut into thin slivers
+  - qty: 1
+    name: onion
+    raw: 1 onion, finely chopped
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp garlic and ginger paste
+  - qty: 3
+    name: green chillies
+    raw: 3 fresh green chillies, thinly sliced
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 tsp chilli powder
+  - qty: 2
+    unit: tbsp
+    name: mixed powder
+    raw: 2 tbsp Mixed Powder
+  - qty: 2
+    unit: tbsp
+    name: tandoori masala
+    raw: 2 tbsp Tandoori Masala
+  - qty: 125
+    unit: ml
+    name: tomato puree
+    raw: 125 ml tomato purée
+  - qty: 500
+    unit: ml
+    name: curry base gravy
+    raw: 500 ml Curry Base Gravy
+  - qty: 800
+    unit: g
+    name: pre-cooked chicken
+    raw: 800 g Pre-Cooked Chicken
+  - qty: 125
+    unit: ml
+    name: chicken stock
+    raw: 125 ml Chicken stock
+  - qty: 1
+    unit: tsp
+    name: fenugreek leaves
+    raw: 1 tsp dried fenugreek leaves
+  - name: salt
+    raw: Salt, to taste
+  - qty: 1
+    name: coriander
+    raw: Small bunch coriander , finely chopped
+  - name: garlic flakes
+    raw: Dried garlic flakes, to serve

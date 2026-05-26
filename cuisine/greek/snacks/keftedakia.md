@@ -1,31 +1,3 @@
----
-prep: 25 minutes (plus 30 minutes resting)
-cook: 15 minutes (in batches)
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-  - garlic
-tags:
-  - snack
-  - make-ahead
-  - meat
-  - beef
-  - pork
-  - eggs
-  - onion
-  - garlic
-  - lemon
-  - butter
-  - yogurt
-  - complex
-mentions: []
----
-
-
-
-
 # Keftedakia (Greek Mini Meatballs)
 
 ![Keftedakia](resources/keftedakia.jpg)

@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-cook: 35 minutes
-allergens:
-  - dairy
-  - meat
-tags:
-  - gluten-free
-  - meat
-  - mushroom
-  - onion
-  - butter
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Port Sauce
 
 ![Port sauce](resources/port-sauce.png)

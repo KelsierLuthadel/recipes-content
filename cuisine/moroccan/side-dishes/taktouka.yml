@@ -1,0 +1,58 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+mentions: []
+ingredients:
+  - qty: 4
+    name: red peppers
+    raw: 4 red peppers
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 5
+    unit: tbsp
+    name: olive oil
+    raw: 5 tablespoons olive oil
+  - qty: 1.5
+    unit: tsp
+    name: sweet paprika
+    raw: 1 ½ teaspoons sweet paprika
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: coriander
+    raw: ½ teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 20
+    unit: g
+    name: coriander
+    raw: 20 g fresh coriander
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice

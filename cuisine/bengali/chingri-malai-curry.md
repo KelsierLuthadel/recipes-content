@@ -1,28 +1,3 @@
----
-prep: 20 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - shellfish
-  - mustard
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - fish
-  - prawn
-  - onion
-  - ginger
-  - coconut
-  - chili
-  - curry
-  - complex
-mentions: []
----
-
-
-
-
 # Chingri Malai Curry
 
 ![Chingri Malai Curry](resources/chingri-malai-curry.jpg)

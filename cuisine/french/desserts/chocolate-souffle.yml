@@ -1,0 +1,53 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - chocolate
+  - valentines
+mentions:
+  - sauces/sauce-sweet/chocolate-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 85
+    unit: g
+    name: dark chocolate
+    raw: 85 grams dark chocolate
+  - qty: 4
+    name: free-range eggs
+    raw: 4 free-range eggs
+  - qty: 85
+    unit: g
+    name: caster sugar
+    raw: 85 grams caster sugar
+  - name: butter
+    raw: butter
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 40
+    unit: g
+    name: caster sugar
+    raw: 40 grams caster sugar
+  - qty: 55
+    unit: g
+    name: dark chocolate
+    raw: 55 grams dark chocolate
+  - qty: 40
+    unit: g
+    name: cocoa powder
+    raw: 40 grams cocoa powder
+  - qty: 1
+    unit: tbsp
+    name: cream
+    raw: 1 tablespoon cream
+  - name: icing sugar
+    raw: icing sugar

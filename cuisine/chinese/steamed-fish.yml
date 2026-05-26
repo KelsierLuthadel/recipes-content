@@ -1,0 +1,55 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - peanuts
+  - soy
+  - sesame
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - fish
+  - onion
+  - garlic
+  - ginger
+  - soy-sauce
+  - lunar-new-year
+mentions:
+  - tutorials/fish/whole-fish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: firm white fish fillets
+    raw: 350 grams firm white fish fillets
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon coarse sea salt
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon fresh ginger
+  - qty: 2
+    unit: tbsp
+    name: spring onions
+    raw: 2 tablespoons spring onions
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: groundnut oil
+    raw: 1 tablespoon groundnut oil
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves

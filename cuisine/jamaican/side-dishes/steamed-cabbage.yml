@@ -1,0 +1,63 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - onion
+  - garlic
+  - coconut
+  - carrot
+  - chili
+mentions:
+  - cuisine/jamaican/brown-stew-chicken
+  - cuisine/jamaican/side-dishes/rice-and-peas
+ingredients:
+  - qty: 1
+    name: green cabbage
+    raw: 1 green cabbage , tough core removed, shredded
+  - qty: 1
+    name: carrot
+    raw: 1 carrot , peeled and cut into thin matchsticks
+  - qty: 1
+    name: onion
+    raw: 1 onion , halved and sliced thin
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper, deseeded and thinly sliced
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, finely chopped
+  - qty: 1
+    name: scotch bonnet chilli
+    raw: 1 scotch bonnet chilli
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons water

@@ -1,0 +1,58 @@
+prep: 10 minutes
+cook: 3 minutes
+allergens:
+  - eggs
+  - tree-nuts
+  - peanuts
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - nuts
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 225
+    unit: g
+    name: chicken breasts
+    raw: 225 grams boneless chicken breasts
+  - qty: 1
+    name: egg white
+    raw: 1 egg white
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: cornflour
+    raw: 1 teaspoon cornflour
+  - qty: 150
+    unit: ml
+    name: groundnut oil
+    raw: 150 ml groundnut oil
+  - qty: 50
+    unit: g
+    name: cashew nuts
+    raw: 50 grams cashew nuts
+  - qty: 2
+    unit: tsp
+    name: dry sherry
+    raw: 2 teaspoons dry sherry
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: spring onions
+    raw: 1 tablespoon spring onions

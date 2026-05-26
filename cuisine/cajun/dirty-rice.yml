@@ -1,0 +1,94 @@
+prep: 15 minutes
+cook: 50 minutes
+allergens:
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - beef
+  - pork
+  - rice
+  - onion
+  - garlic
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: chicken livers
+    raw: 200 g chicken livers
+  - qty: 250
+    unit: g
+    name: pork
+    raw: 250 g minced pork
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: celery sticks
+    raw: 3 celery sticks
+  - qty: 1
+    name: green pepper
+    raw: 1 green pepper
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: cajun seasoning
+    raw: 1 tablespoon Cajun seasoning
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon dried thyme
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 0.5
+    unit: tsp
+    name: cayenne
+    raw: ½ teaspoon cayenne
+  - qty: 350
+    unit: g
+    name: long-grain white rice
+    raw: 350 g long-grain white rice
+  - qty: 800
+    unit: ml
+    name: chicken stock
+    raw: 800 ml chicken stock
+  - qty: 2
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 2 tablespoons Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley
+  - name: hot sauce
+    raw: Hot sauce

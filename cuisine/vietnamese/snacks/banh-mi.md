@@ -1,34 +1,3 @@
----
-prep: 15 minutes (plus pickle time if making fresh)
-cook: 5 minutes
-allergens:
-  - gluten
-  - dairy
-  - soy
-  - meat
-tags:
-  - spicy
-  - quick
-  - snack
-  - make-ahead
-  - asian
-  - meat
-  - chicken
-  - pork
-  - carrot
-  - coriander
-  - cheese
-  - chili
-  - soy-sauce
-mentions:
-  - cuisine/chinese/char-siu
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Bánh Mì
 
 ![Banh Mi](resources/banh-mi.jpg)

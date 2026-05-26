@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - mustard
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - spices
-  - onion
-  - garlic
-mentions:
-  - cuisine/cajun/jambalaya
----
-
-
-
-
 # Cajun Spice Mix
 
 ![Cajun Spice Mix](resources/cajun-spice-mix.jpg)

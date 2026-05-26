@@ -1,0 +1,40 @@
+prep: 10 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - rice
+  - garlic
+  - ginger
+  - lemon
+mentions:
+  - cuisine/chinese/fried-rice
+ingredients:
+  - qty: 500
+    unit: ml
+    name: cold cooked basmati rice
+    raw: 500 ml cold cooked basmati rice
+  - qty: 3
+    unit: tbsp
+    name: rapeseed oil
+    raw: 3 tablespoons rapeseed oil
+  - qty: 1
+    unit: tsp
+    name: garlic and ginger paste
+    raw: 1 teaspoon garlic and ginger paste
+  - name: zest of 2 unwaxed lemons
+    raw: Finely grated zest of 2 unwaxed lemons
+  - qty: 1.5
+    name: lemons
+    raw: 1-2 fresh lemons
+  - qty: 3
+    name: chives
+    raw: 3 fresh chives
+  - name: salt
+    raw: Salt to taste

@@ -1,0 +1,62 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - chicken
+  - pork
+  - eggs
+  - onion
+  - tomato
+  - butter
+mentions: []
+ingredients:
+  - qty: 2
+    name: bread
+    raw: 2 slices of bread
+  - name: soft butter
+    raw: soft butter
+  - qty: 1
+    name: chicken breast fillet
+    raw: 1 chicken breast fillet
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 2
+    name: smoked bacon rashers
+    raw: 2 smoked bacon rashers
+  - qty: 0.5
+    name: iceberg lettuce
+    raw: ½ iceberg lettuce
+  - qty: 1
+    unit: tbsp
+    name: onion
+    raw: 1 tablespoon onion
+  - qty: 2
+    unit: tbsp
+    name: mayonnaise
+    raw: 2 tablespoons mayonnaise
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 2
+    unit: tbsp
+    name: vinaigrette
+    raw: 2 tablespoons vinaigrette
+  - qty: 1
+    unit: tsp
+    name: parsley
+    raw: 1 teaspoon parsley
+  - qty: 2
+    name: poached eggs
+    raw: 2 poached eggs

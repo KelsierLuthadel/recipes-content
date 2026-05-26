@@ -1,31 +1,3 @@
----
-prep: 20 minutes
-cook: 55 minutes
-allergens:
-  - gluten
-  - soy
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Guizhou Chili Chicken (Guizhou Lazi Ji)
 
 ![Guizhou Chili Chicken (Guizhou Lazi Ji)](resources/guizhou-chili-chicken.jpg)

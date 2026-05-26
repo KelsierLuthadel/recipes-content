@@ -1,21 +1,3 @@
----
-allergens:
-  - fish
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - fish
-mentions:
-  - cuisine/south-american/ceviche
-  - tutorials/fish/en-papillote
-  - tutorials/fish/whole-fish
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
 # Curing Fish
 
 ![Cured salmon](resources/curing.jpg)

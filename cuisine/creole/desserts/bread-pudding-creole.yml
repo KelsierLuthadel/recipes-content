@@ -1,0 +1,88 @@
+prep: 20 minutes (plus 30 minutes soaking)
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - cream
+  - complex
+  - kwanzaa
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: stale french bread
+    raw: 400 g stale French bread
+  - qty: 700
+    unit: ml
+    name: milk
+    raw: 700 ml whole milk
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 100
+    unit: g
+    name: raisins
+    raw: 100 g raisins
+  - qty: 4
+    unit: tbsp
+    name: bourbon
+    raw: 4 tablespoons bourbon
+  - qty: 2
+    unit: tsp
+    name: vanilla extract
+    raw: 2 teaspoons vanilla extract
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 3
+    unit: tbsp
+    name: bourbon
+    raw: 3 tablespoons bourbon
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract

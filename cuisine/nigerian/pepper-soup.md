@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour 30 minutes
-allergens:
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - fish
-  - chicken
-  - prawn
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - lime
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Pepper Soup
 
 ![Pepper Soup](resources/pepper-soup.jpg)

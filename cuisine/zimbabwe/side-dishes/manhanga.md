@@ -1,21 +1,3 @@
----
-prep: 10 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - sides
-  - butter
-  - honey
-mentions:
-  - cuisine/zimbabwe/side-dishes/sadza
----
-
-
-
-
 # Manhanga
 
 ![Manhanga](resources/manhanga.jpg)

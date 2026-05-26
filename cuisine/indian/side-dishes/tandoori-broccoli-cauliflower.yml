@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - bbq
+  - onion
+  - lemon
+  - yogurt
+  - chickpea
+mentions: []
+ingredients:
+  - qty: 1
+    name: head of broccoli
+    raw: 1 head of broccoli
+  - qty: 1
+    name: head of cauliflower
+    raw: 1 head of cauliflower
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 3
+    unit: tbsp
+    name: flour
+    raw: 3 tablespoons gram flour
+  - qty: 2
+    unit: tbsp
+    name: plain yoghurt
+    raw: 2 tablespoons plain yoghurt
+  - qty: 1
+    unit: tbsp
+    name: rapeseed oil
+    raw: 1 tablespoon rapeseed oil
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: tbsp
+    name: garam masala
+    raw: 1 tablespoon Garam Masala
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 teaspoon chilli powder
+  - qty: 1
+    unit: pinch
+    name: turmeric
+    raw: Pinch of ground turmeric
+  - name: salt
+    raw: Salt to taste

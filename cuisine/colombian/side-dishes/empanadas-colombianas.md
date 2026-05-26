@@ -1,32 +1,3 @@
----
-prep: 45 minutes
-cook: 20 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - sides
-  - meat
-  - beef
-  - onion
-  - garlic
-  - tomato
-  - potato
-  - lime
-  - coriander
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Empanadas Colombianas
 
 ![Empanadas Colombianas](resources/empanadas-colombianas.jpg)

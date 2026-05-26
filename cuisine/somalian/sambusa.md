@@ -1,30 +1,3 @@
----
-prep: 30 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - meals
-  - lentils
-  - onion
-  - garlic
-  - ginger
-  - coriander
-  - chili
-  - complex
-mentions:
-  - cuisine/indian/side-dishes/samosa
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sambusa
 
 ![Sambusa](resources/sambusa.jpg)

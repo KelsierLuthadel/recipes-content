@@ -1,21 +1,3 @@
----
-prep: 10 minutes
-cook: 3 hours (mostly hands-off) plus overnight chilling
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - make-ahead
-  - cream
-  - complex
-mentions: []
----
-
-
-
-
 # Urum (Mongolian Clotted Cream and Sugar)
 
 ![Urum](resources/urum.jpg)

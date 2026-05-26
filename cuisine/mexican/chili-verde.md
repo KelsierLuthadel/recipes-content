@@ -1,31 +1,3 @@
----
-prep: 25 minutes
-cook: 2 hours 15 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - rice
-  - onion
-  - garlic
-  - lime
-  - coriander
-  - cheese
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chili Verde
 
 ![Chili Verde](resources/chili-verde.jpg)

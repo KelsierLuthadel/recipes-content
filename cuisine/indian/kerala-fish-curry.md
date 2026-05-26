@@ -1,36 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-  - tree-nuts
-  - fish
-  - mustard
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - asian
-  - fish
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coconut
-  - lime
-  - coriander
-  - nuts
-  - chili
-  - curry
-  - complex
-mentions: []
----
-
-
-
-
 # Kerala Fish Curry
 
 ![Kerala Fish Curry](resources/kerala-fish-curry.jpg)

@@ -1,32 +1,3 @@
----
-prep: 45 minutes
-cook: 10 minutes
-allergens:
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - pork
-  - onion
-  - garlic
-  - ginger
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - cuisine/chinese/snacks/jiaozi
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pork Gyoza
 
 ![Pork Gyoza](resources/gyoza.jpg)

@@ -1,0 +1,54 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - meals
+  - onion
+  - garlic
+  - lime
+  - coriander
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: cassava
+    raw: 1 kg cassava
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: oregano
+    raw: ½ teaspoon dried oregano
+  - qty: 100
+    unit: ml
+    name: olive oil
+    raw: 100 ml olive oil
+  - qty: 2
+    name: sour oranges
+    raw: 2 sour oranges
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - name: black pepper
+    raw: Black pepper
+  - name: parsley
+    raw: Fresh parsley

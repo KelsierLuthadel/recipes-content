@@ -1,30 +1,3 @@
----
-prep: 10 minutes
-cook: 5 minutes
-allergens:
-  - eggs
-  - peanuts
-  - soy
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - chicken
-  - eggs
-  - soy-sauce
-  - curry
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Curried Chicken with Peppers
 
 ![Curried Chicken with Peppers](resources/chinese-chicken-curry.jpg)

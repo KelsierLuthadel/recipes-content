@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-tags:
-  - spicy
-  - quick
-  - meals
-  - meat
-  - pork
-  - cheese
-  - chili
-mentions:
-  - cuisine/italian/bolognese
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Sloppy Joe Pizza
 
 ![Sloppy Joe Pizza](resources/sloppy-joe.jpg)

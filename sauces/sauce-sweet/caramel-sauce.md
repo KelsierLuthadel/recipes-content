@@ -1,21 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - eggs
-  - cream
-mentions: []
----
-
-
-
-
 # Caramel Sauce
 
 ![Caramel sauce](resources/caramel.png)

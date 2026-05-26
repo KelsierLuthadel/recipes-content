@@ -1,0 +1,38 @@
+prep: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - spices
+  - coriander
+mentions: []
+ingredients:
+  - qty: 2
+    unit: tsp
+    name: chilli powder
+    raw: 2 tsp chilli powder
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp coriander
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp black pepper
+  - qty: 0.25
+    unit: tsp
+    name: cloves
+    raw: ¼ tsp cloves
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ tsp cinnamon

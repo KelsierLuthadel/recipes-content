@@ -1,20 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - eggs
-mentions: []
----
-
-
-
-
 # Gâteau St. Honoré with Cocoa Dusted Chantilly Cream
 
 ![Gâteau St. Honoré with cocoa dusted chantilly cream](resources/gateau-st-honore.jpg)

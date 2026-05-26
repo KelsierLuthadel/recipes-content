@@ -1,0 +1,77 @@
+prep: 15 minutes (plus 2 hours marinade)
+cook: 8 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - garlic
+  - lime
+  - coriander
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/mexican/side-dishes/pico-de-gallo
+  - cuisine/mexican/snacks/quesadillas
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: skirt steak
+    raw: 1 kg skirt steak
+  - qty: 4
+    name: limes
+    raw: 4 limes
+  - qty: 1
+    name: orange
+    raw: 1 orange
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: jalapeno
+    raw: 1 jalapeño
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of fresh coriander
+  - qty: 2
+    unit: tbsp
+    name: soy sauce
+    raw: 2 tablespoons soy sauce
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - name: warm corn
+    raw: Warm corn
+  - name: charred salsa
+    raw: Charred salsa
+  - name: lime wedges
+    raw: Lime wedges
+  - name: avocado
+    raw: Sliced avocado
+  - name: coriander
+    raw: Chopped coriander

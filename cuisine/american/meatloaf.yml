@@ -1,0 +1,91 @@
+prep: 20 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+  - garlic
+tags:
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 700
+    unit: g
+    name: beef mince
+    raw: 700 g beef mince
+  - qty: 300
+    unit: g
+    name: pork mince
+    raw: 300 g pork mince
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: unsalted butter
+    raw: 2 tablespoons unsalted butter
+  - qty: 100
+    unit: g
+    name: breadcrumbs
+    raw: 100 g dried breadcrumbs
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 2
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 2 tablespoons Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 3
+    unit: tbsp
+    name: parsley
+    raw: 3 tablespoons fresh parsley
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon dried thyme
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 6
+    unit: tbsp
+    name: tomato ketchup
+    raw: 6 tablespoons tomato ketchup
+  - qty: 2
+    unit: tbsp
+    name: soft brown sugar
+    raw: 2 tablespoons soft brown sugar
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: cider vinegar
+    raw: 1 teaspoon cider vinegar

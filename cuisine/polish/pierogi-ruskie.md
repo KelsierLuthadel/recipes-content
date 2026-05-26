@@ -1,28 +1,3 @@
----
-prep: 1 hour
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - meals
-  - eggs
-  - onion
-  - potato
-  - butter
-  - cheese
-  - complex
-  - sukkot
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Pierogi Ruskie
 
 ![Pierogi Ruskie](resources/pierogi-ruskie.jpg)

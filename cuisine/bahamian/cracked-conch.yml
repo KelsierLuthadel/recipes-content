@@ -1,0 +1,108 @@
+prep: 25 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - make-ahead
+  - meals
+  - eggs
+  - onion
+  - carrot
+  - lime
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: cleaned conch meat
+    raw: 600 g cleaned conch meat
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon freshly ground black pepper
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - qty: 0.5
+    unit: tsp
+    name: cayenne
+    raw: ½ teaspoon cayenne
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 80
+    unit: ml
+    name: milk
+    raw: 80 ml milk
+  - qty: 0.25
+    name: white cabbage
+    raw: ¼ small white cabbage
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 2
+    unit: tbsp
+    name: mayonnaise
+    raw: 2 tablespoons mayonnaise
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 0.5
+    unit: tsp
+    name: caster sugar
+    raw: ½ teaspoon caster sugar
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 500
+    unit: ml
+    name: vegetable oil
+    raw: 500 ml vegetable oil
+  - qty: 2
+    name: limes
+    raw: 2 limes
+  - name: bahamian-style hot sauce
+    raw: Bahamian-style hot sauce

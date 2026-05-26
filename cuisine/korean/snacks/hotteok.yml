@@ -1,0 +1,64 @@
+prep: 30 minutes (plus 1 hour rising)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - peanuts
+tags:
+  - vegetarian
+  - snack
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 50
+    unit: g
+    name: sweet rice flour
+    raw: 50 g sweet rice flour
+  - qty: 7
+    unit: g
+    name: instant yeast
+    raw: 7 g instant yeast
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml warm milk
+  - qty: 1
+    unit: tbsp
+    name: neutral oil
+    raw: 1 tablespoon neutral oil
+  - name: oil
+    raw: Extra oil
+  - qty: 120
+    unit: g
+    name: dark muscovado
+    raw: 120 g dark muscovado
+  - qty: 30
+    unit: g
+    name: roasted peanuts
+    raw: 30 g roasted peanuts
+  - qty: 1.5
+    unit: tsp
+    name: cinnamon
+    raw: 1 ½ teaspoons ground cinnamon
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 4
+    unit: tbsp
+    name: neutral oil
+    raw: 4 tablespoons neutral oil

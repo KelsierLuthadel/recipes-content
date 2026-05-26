@@ -1,0 +1,81 @@
+prep: 25 minutes
+cook: 15 minutes (for the sauce)
+allergens:
+  - peanuts
+  - fish
+  - shellfish
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - asian
+  - fish
+  - prawn
+  - onion
+  - ginger
+  - coconut
+  - nuts
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 100
+    unit: g
+    name: palm sugar
+    raw: 100 g palm sugar
+  - qty: 60
+    unit: ml
+    name: water
+    raw: 60 ml water
+  - qty: 50
+    unit: g
+    name: shrimp
+    raw: 50 g dried shrimp
+  - qty: 3
+    unit: tbsp
+    name: fish sauce
+    raw: 3 tablespoons fish sauce
+  - qty: 2
+    unit: tbsp
+    name: tamarind paste
+    raw: 2 tablespoons tamarind paste
+  - qty: 3
+    name: ginger
+    raw: 3 cm fresh ginger
+  - qty: 2
+    name: shallots
+    raw: 2 shallots
+  - qty: 1
+    name: red chilli
+    raw: 1 red chilli
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 3
+    name: ginger
+    raw: 3 cm fresh ginger
+  - qty: 1
+    name: shallot
+    raw: 1 shallot
+  - qty: 80
+    unit: g
+    name: unsalted roasted peanuts
+    raw: 80 g unsalted roasted peanuts
+  - qty: 40
+    unit: g
+    name: shrimp
+    raw: 40 g dried shrimp
+  - qty: 80
+    unit: g
+    name: shredded coconut
+    raw: 80 g shredded coconut
+  - qty: 2.5
+    name: thai bird's-eye chillies
+    raw: 2-3 Thai bird's-eye chillies
+  - qty: 1
+    unit: handful
+    name: betel leaves
+    raw: A handful of young betel leaves

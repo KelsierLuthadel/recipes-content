@@ -1,0 +1,71 @@
+prep: 40 minutes (plus 30 minutes resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - lemon
+  - butter
+  - cream
+  - honey
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml warm water
+  - qty: 200
+    unit: g
+    name: samna
+    raw: 200 g samna
+  - qty: 300
+    unit: g
+    name: caster sugar
+    raw: 300 g caster sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 4
+    name: cardamom pods
+    raw: 4 cardamom pods
+  - qty: 1
+    unit: tbsp
+    name: rose water
+    raw: 1 tablespoon rose water
+  - qty: 1
+    unit: tsp
+    name: orange blossom water
+    raw: 1 teaspoon orange blossom water
+  - qty: 200
+    unit: g
+    name: geymar or substitute devonshire / cornish clotted cream
+    raw: 200 g geymar or substitute Devonshire / Cornish clotted cream
+  - qty: 2
+    unit: tbsp
+    name: clear honey
+    raw: 2 tablespoons clear honey

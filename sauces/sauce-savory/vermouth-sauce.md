@@ -1,23 +1,3 @@
----
-prep: 5 minutes
-cook: 20 minutes
-allergens:
-  - dairy
-  - fish
-tags:
-  - gluten-free
-  - quick
-  - fish
-  - onion
-  - butter
-  - cream
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Vermouth Sauce
 
 ![Vermouth sauce](resources/vermouth-sauce.png)

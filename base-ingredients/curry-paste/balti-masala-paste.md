@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-cook: 10 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - pastes
-  - curry
-mentions:
-  - base-ingredients/curry-powder/balti-masala
----
-
-
-
-
 # Balti Masala Paste
 
 ![Balti Masala Paste](resources/balti-masala-paste.jpg)

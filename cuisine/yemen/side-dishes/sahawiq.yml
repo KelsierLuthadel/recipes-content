@@ -1,0 +1,53 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - chili
+mentions: []
+ingredients:
+  - qty: 6
+    name: long green chillies
+    raw: 6 long green chillies
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: cardamom
+    raw: ¼ teaspoon ground cardamom
+  - qty: 0.25
+    unit: tsp
+    name: cumin
+    raw: ¼ teaspoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 1
+    name: tomato
+    raw: 1 tomato

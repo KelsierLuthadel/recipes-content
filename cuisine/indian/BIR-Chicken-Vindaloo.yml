@@ -1,0 +1,92 @@
+prep: 10 Minutes
+cook: 10 Minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - lamb
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: oil
+    raw: 3 tbsp oil
+  - qty: 6
+    name: green cardamom pods
+    raw: 6 green cardamom pods
+  - qty: 1
+    name: indian bay leaf
+    raw: 1 Indian Bay leaf
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp Garlic and Ginger paste
+  - qty: 2
+    name: green bullet chillies
+    raw: 2 fresh green Bullet Chillies
+  - qty: 2
+    name: scotch bonnet chillies
+    raw: 2 Scotch Bonnet chillies
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp Ground Turmeric
+  - qty: 2
+    unit: tbsp
+    name: hot chilli powder
+    raw: 2 Tbsp hot Chilli powder
+  - qty: 2
+    unit: tbsp
+    name: mixed powder
+    raw: 2 Tbsp Mixed Powder
+  - qty: 125
+    unit: ml
+    name: tomato puree
+    raw: 125ml tomato purée
+  - qty: 2
+    unit: tsp
+    name: sugar
+    raw: 2 tsp sugar
+  - qty: 600
+    unit: ml
+    name: curry base gravy
+    raw: 600ml Curry Base Gravy
+  - qty: 8
+    name: pre-cooked chicken or pre-cooked lamb
+    raw: 8 pieces of pre-cooked Chicken or pre-cooked Lamb
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar
+    raw: 2 Tbsp white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: fenugreek leaves
+    raw: 1 tsp Dried Fenugreek leaves
+  - qty: 2
+    name: pre-cooked stewed potatoes
+    raw: 2 pre-cooked stewed potatoes
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 Tbsp Chopped Coriander
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

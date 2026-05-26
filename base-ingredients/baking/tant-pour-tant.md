@@ -1,20 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - tree-nuts
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - quick
-  - nuts
-mentions: []
----
-
-
-
-
 # Tant Pour Tant
 
 ![Tant pour Tant](resources/tant-pour-tant.png)

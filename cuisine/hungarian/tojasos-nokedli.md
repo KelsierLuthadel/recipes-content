@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-cook: 12 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - meals
-  - eggs
-  - butter
-mentions:
-  - cuisine/hungarian/side-dishes/nokedli
----
-
-
-
-
 # Tojásos Nokedli
 
 ![Tojásos Nokedli](resources/tojasos-nokedli.jpg)

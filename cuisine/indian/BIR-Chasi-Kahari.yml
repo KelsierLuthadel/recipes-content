@@ -1,0 +1,52 @@
+prep: 5 minutes
+cook: 50 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - lamb
+  - garlic
+  - tomato
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 900
+    unit: g
+    name: chunks lamb or mutton on the bone
+    raw: 900 g small chunks lamb or mutton on the bone
+  - qty: 250
+    unit: g
+    name: lamb fat
+    raw: 250 g lamb fat, cut into 2 ½ cm chunks
+  - qty: 2
+    unit: tbsp
+    name: garlic paste*
+    raw: 2 tbsp garlic paste*
+  - qty: 5
+    name: tomatoes
+    raw: 5 tomatoes , quartered
+  - qty: 10
+    name: green bullet chillies
+    raw: 10 green bullet chillies , cut lengthwise
+  - qty: 2
+    unit: tbsp
+    name: rapeseed oil
+    raw: 2 tbsp rapeseed oil
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - name: salt
+    raw: Salt, to taste
+  - qty: 1
+    unit: tsp
+    name: fenugreek leaves
+    raw: 1 tsp dried fenugreek leaves

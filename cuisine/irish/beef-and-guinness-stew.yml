@@ -1,0 +1,84 @@
+prep: 20 minutes
+cook: 2 hours 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - butter
+  - complex
+  - st-patricks
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: beef chuck
+    raw: 1 kg beef chuck
+  - qty: 3
+    unit: tbsp
+    name: plain flour
+    raw: 3 tablespoons plain flour
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tablespoons sunflower oil
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 3
+    name: onions
+    raw: 3 large onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 1
+    unit: tbsp
+    name: black treacle
+    raw: 1 tablespoon black treacle
+  - qty: 500
+    unit: ml
+    name: guinness or other stout
+    raw: 500 ml Guinness or other stout
+  - qty: 500
+    unit: ml
+    name: beef stock
+    raw: 500 ml beef stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: sprig
+    name: thyme
+    raw: 1 sprig of thyme
+  - qty: 4
+    name: carrots
+    raw: 4 medium carrots
+  - qty: 600
+    unit: g
+    name: floury potatoes
+    raw: 600 g floury potatoes
+  - qty: 60
+    unit: g
+    name: pearl barley
+    raw: 60 g pearl barley
+  - name: sea salt and black pepper
+    raw: Fine sea salt and black pepper
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: A small handful of flat-leaf parsley

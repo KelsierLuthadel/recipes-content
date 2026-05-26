@@ -1,29 +1,3 @@
----
-prep: 20 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - eggs
-  - garlic
-tags:
-  - vegetarian
-  - dairy-free
-  - spicy
-  - sides
-  - eggs
-  - garlic
-  - tomato
-  - potato
-  - lemon
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Patatas Bravas
 
 ![Patatas Bravas](resources/patatas-bravas.jpg)

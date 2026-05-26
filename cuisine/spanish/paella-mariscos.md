@@ -1,29 +1,3 @@
----
-prep: 20 minutes
-cook: 35 minutes
-allergens:
-  - fish
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - fish
-  - prawn
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - complex
-mentions:
-  - cuisine/spanish/paella-valenciana
----
-
-
-
-
 # Paella de Mariscos
 
 ![Paella de Mariscos](resources/paella-mariscos.jpg)

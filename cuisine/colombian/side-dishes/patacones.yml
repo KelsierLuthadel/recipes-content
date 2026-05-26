@@ -1,0 +1,26 @@
+prep: 8 minutes
+cook: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+mentions:
+  - cuisine/colombian/side-dishes/hogao
+  - cuisine/honduras/side-dishes/tajadas
+  - cuisine/south-american/ceviche
+ingredients:
+  - qty: 3
+    name: green plantains
+    raw: 3 green plantains
+  - qty: 800
+    unit: ml
+    name: vegetable oil
+    raw: 800 ml vegetable oil for frying
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt

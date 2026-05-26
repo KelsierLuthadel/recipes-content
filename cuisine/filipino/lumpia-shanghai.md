@@ -1,34 +1,3 @@
----
-prep: 40 minutes
-cook: 15 minutes
-allergens:
-  - eggs
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - pork
-  - eggs
-  - onion
-  - garlic
-  - carrot
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - cuisine/chinese/snacks/spring-rolls
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lumpia Shanghai
 
 ![Lumpia Shanghai](resources/lumpia-shanghai.jpg)

@@ -1,0 +1,52 @@
+prep: 25 minutes (plus 24 hours soaking the bacalhau)
+cook: 30 minutes
+allergens:
+  - eggs
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - fish
+  - eggs
+  - onion
+  - garlic
+  - potato
+  - lemon
+  - complex
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: salt cod
+    raw: 400 g salt cod
+  - qty: 600
+    unit: g
+    name: floury potatoes
+    raw: 600 g floury potatoes
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    unit: tbsp
+    name: parsley
+    raw: 3 tablespoons fresh parsley
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 0.25
+    unit: tsp
+    name: white pepper
+    raw: ¼ teaspoon ground white pepper
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil for deep frying
+  - qty: 1
+    name: lemon
+    raw: 1 lemon

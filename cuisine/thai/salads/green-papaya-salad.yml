@@ -1,0 +1,78 @@
+prep: 15 minutes
+cook: 5 minutes
+allergens:
+  - peanuts
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - fish
+  - prawn
+  - garlic
+  - tomato
+  - carrot
+  - lime
+  - coriander
+  - nuts
+  - chili
+mentions:
+  - tutorials/bread/gluten
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: peanuts
+    raw: 2 tbsp peanuts
+  - qty: 1.5
+    unit: tbsp
+    name: shrimp
+    raw: 1 ½ tbsp dried baby shrimp
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 2.5
+    name: red bird’s eye chillies
+    raw: 2-3 red bird’s eye chillies
+  - qty: 12
+    name: green beans
+    raw: 12 green beans, cut into 2 ½ cm pieces
+  - qty: 1
+    unit: tbsp
+    name: palm sugar
+    raw: 1 tbsp palm sugar, grated and finely chopped
+  - qty: 1
+    unit: tbsp
+    name: tamarind paste
+    raw: 1 tbsp tamarind paste
+  - qty: 2
+    unit: tbsp
+    name: thai fish sauce
+    raw: 2 tbsp Thai fish sauce
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 400
+    unit: g
+    name: green papaya
+    raw: 400 g green papaya, grated
+  - qty: 1
+    name: carrot
+    raw: 1 carrot , peeled and grated
+  - qty: 6
+    name: plum tomatoes
+    raw: 6 baby plum tomatoes, halved
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tbsp finely chopped coriander
+  - qty: 2
+    unit: tbsp
+    name: thai sweet basil
+    raw: 2 tbsp Thai sweet basil , roughly chopped

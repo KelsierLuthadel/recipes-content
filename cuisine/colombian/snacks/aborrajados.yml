@@ -1,0 +1,55 @@
+prep: 25 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 4
+    name: plantains
+    raw: 4 very ripe plantains
+  - qty: 4
+    unit: tbsp
+    name: neutral oil
+    raw: 4 tablespoons neutral oil
+  - qty: 200
+    unit: g
+    name: mozzarella
+    raw: 200 g mozzarella
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 0.5
+    unit: tsp
+    name: baking powder
+    raw: ½ teaspoon baking powder
+  - qty: 600
+    unit: ml
+    name: neutral oil
+    raw: 600 ml neutral oil

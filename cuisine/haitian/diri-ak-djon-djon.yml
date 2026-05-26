@@ -1,0 +1,85 @@
+prep: 15 minutes (plus 30 minutes soaking)
+cook: 45 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - rice
+  - mushroom
+  - onion
+  - garlic
+  - butter
+  - chili
+  - complex
+mentions:
+  - cuisine/haitian/griot
+  - cuisine/jamaican/side-dishes/fried-plantains
+ingredients:
+  - qty: 50
+    unit: g
+    name: djon djon mushrooms
+    raw: 50 g dried djon djon mushrooms
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre hot water
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 1
+    name: shallot
+    raw: 1 shallot
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 Scotch bonnet
+  - qty: 2
+    unit: sprig
+    name: thyme
+    raw: 2 sprigs fresh thyme
+  - qty: 2
+    unit: tbsp
+    name: epis
+    raw: 2 tablespoons épis
+  - qty: 100
+    unit: g
+    name: green peas
+    raw: 100 g frozen green peas
+  - qty: 100
+    unit: g
+    name: lima beans
+    raw: 100 g cooked lima beans
+  - qty: 400
+    unit: g
+    name: long-grain rice
+    raw: 400 g long-grain rice
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 2
+    name: cloves
+    raw: 2 cloves
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch parsley
+  - name: griot
+    raw: Griot
+  - name: pikliz
+    raw: Pikliz
+  - name: avocado
+    raw: Sliced avocado

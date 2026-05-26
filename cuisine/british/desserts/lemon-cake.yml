@@ -1,0 +1,62 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - cream
+  - easter
+mentions: []
+ingredients:
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - name: butter
+    raw: butter
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 175
+    unit: g
+    name: caster sugar
+    raw: 175 grams caster sugar
+  - name: zest of 2 lemons
+    raw: finely grated zest of 2 lemons
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: pinch of salt
+  - qty: 75
+    unit: ml
+    name: double cream
+    raw: 75 ml double cream
+  - qty: 140
+    unit: g
+    name: plain flour
+    raw: 140 grams plain flour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 50
+    unit: ml
+    name: dark rum
+    raw: 50 ml dark rum
+  - qty: 80
+    unit: g
+    name: apricot jam
+    raw: 80 grams apricot jam
+  - qty: 80
+    unit: g
+    name: icing sugar
+    raw: 80 grams icing sugar
+  - qty: 1
+    name: lemon
+    raw: 1 lemon

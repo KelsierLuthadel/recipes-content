@@ -1,0 +1,111 @@
+prep: 40 minutes (plus 30 minutes chilling)
+cook: 25 minutes (including the filling)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - snack
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1.5
+    unit: tsp
+    name: sweet paprika
+    raw: 1 ½ teaspoons sweet paprika
+  - qty: 100
+    unit: g
+    name: cold lard
+    raw: 100 g cold lard , cubed
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml cold water
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: green pepper
+    raw: 1 green pepper
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 400
+    unit: g
+    name: beef
+    raw: 400 g ground beef
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 1
+    name: tomato or 100 g tinned chopped tomatoes
+    raw: 1 ripe tomato or 100 g tinned chopped tomatoes
+  - qty: 60
+    unit: g
+    name: pitted green olives
+    raw: 60 g pitted green olives
+  - qty: 40
+    unit: g
+    name: raisins
+    raw: 40 g raisins
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tablespoons capers
+  - qty: 2
+    unit: tbsp
+    name: dry white wine
+    raw: 2 tablespoons dry white wine
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: l
+    name: sunflower oil
+    raw: 1 litre sunflower oil , for deep-frying

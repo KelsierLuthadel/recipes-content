@@ -1,0 +1,61 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - ginger
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 150
+    unit: g
+    name: shrimp
+    raw: 150 g dried shrimp
+  - qty: 200
+    unit: ml
+    name: vegetable oil
+    raw: 200 ml vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: ginger
+    raw: 2 tablespoons ginger
+  - qty: 4
+    unit: tbsp
+    name: kashmiri chilli powder
+    raw: 4 tablespoons Kashmiri chilli powder
+  - qty: 4
+    unit: tbsp
+    name: fish sauce
+    raw: 4 tablespoons fish sauce
+  - qty: 2
+    unit: tbsp
+    name: tamarind paste
+    raw: 2 tablespoons tamarind paste
+  - qty: 2
+    unit: tbsp
+    name: palm sugar
+    raw: 2 tablespoons palm sugar
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 80 ml hot water
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt

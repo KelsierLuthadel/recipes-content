@@ -1,0 +1,68 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - shellfish
+tags:
+  - spicy
+  - quick
+  - meals
+  - fish
+  - eggs
+  - lemon
+  - butter
+  - cheese
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: white flour
+    raw: 300 grams strong white flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 2
+    unit: tsp
+    name: red chillies
+    raw: 2 teaspoons crushed dried red chillies
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 175
+    unit: g
+    name: mascarpone cheese
+    raw: 175 grams mascarpone cheese
+  - qty: 175
+    unit: g
+    name: picked crab meat
+    raw: 175 grams freshly picked crab meat
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons fresh flat-leaf parsley
+  - name: rind of 1 lemon
+    raw: Rind of 1 lemon
+  - qty: 1
+    unit: pinch
+    name: chillies
+    raw: Pinch of crushed dried chillies
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 75
+    unit: g
+    name: butter
+    raw: 75 grams butter
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - name: basil leaves
+    raw: Fresh basil leaves

@@ -1,0 +1,43 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - lemon
+  - cream
+mentions: []
+ingredients:
+  - qty: 1
+    name: sheet of filo
+    raw: 1 sheet of filo
+  - qty: 100
+    unit: g
+    name: raisins
+    raw: 100 grams raisins
+  - qty: 1
+    unit: tbsp
+    name: rum
+    raw: 1 tablespoon rum
+  - qty: 4
+    name: apples
+    raw: 4 apples
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 grams caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 30
+    unit: g
+    name: icing sugar
+    raw: 30 grams icing sugar
+  - name: clotted cream
+    raw: clotted cream

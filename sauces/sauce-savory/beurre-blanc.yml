@@ -1,0 +1,39 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - onion
+  - butter
+  - cream
+mentions:
+  - cuisine/chinese/steamed-fish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 75
+    unit: ml
+    name: dry white wine
+    raw: 75 ml dry white wine
+  - qty: 75
+    unit: ml
+    name: white wine vinegar
+    raw: 75 ml white wine vinegar
+  - qty: 60
+    unit: g
+    name: shallots
+    raw: 60 grams shallots
+  - qty: 50
+    unit: ml
+    name: double cream
+    raw: 50 ml double cream
+  - qty: 200
+    unit: g
+    name: butter
+    raw: 200 grams butter
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

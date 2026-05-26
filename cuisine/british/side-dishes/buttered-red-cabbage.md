@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-cook: 1 ¼ hours
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - make-ahead
-  - sides
-  - onion
-  - butter
-  - st-patricks
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Buttered Red Cabbage
 
 ![Buttered Red Cabbage](resources/buttered-red-cabbage.jpg)

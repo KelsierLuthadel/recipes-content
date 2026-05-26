@@ -1,0 +1,44 @@
+prep: 45 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 320
+    unit: g
+    name: plain flour
+    raw: 320 grams plain flour
+  - qty: 225
+    unit: g
+    name: ice-cold butter
+    raw: 225 grams ice-cold butter
+  - qty: 110
+    unit: g
+    name: icing sugar
+    raw: 110 grams icing sugar
+  - qty: 3
+    name: free-range egg yolks
+    raw: 3 free-range egg yolks
+  - qty: 6
+    name: cox
+    raw: 6 Cox
+  - qty: 0.25
+    name: lemon
+    raw: ¼ lemon
+  - qty: 110
+    unit: g
+    name: caster sugar
+    raw: 110 grams caster sugar
+  - qty: 110
+    unit: g
+    name: butter
+    raw: 110 grams butter

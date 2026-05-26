@@ -1,0 +1,93 @@
+prep: 30 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - snack
+  - onion
+  - ginger
+  - carrot
+  - complex
+mentions:
+  - cuisine/british/snacks/pork-pie
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 200
+    unit: g
+    name: swede
+    raw: 200 g swede
+  - qty: 150
+    unit: g
+    name: carrot
+    raw: 150 g carrot
+  - qty: 150
+    unit: g
+    name: cauliflower florets
+    raw: 150 g cauliflower florets
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 80
+    unit: g
+    name: gherkins
+    raw: 80 g gherkins
+  - qty: 100
+    unit: g
+    name: pitted dates
+    raw: 100 g pitted dates
+  - qty: 80
+    unit: g
+    name: sultanas
+    raw: 80 g sultanas
+  - qty: 400
+    unit: ml
+    name: malt vinegar
+    raw: 400 ml malt vinegar
+  - qty: 100
+    unit: ml
+    name: apple cider vinegar
+    raw: 100 ml apple cider vinegar
+  - qty: 250
+    unit: g
+    name: dark brown sugar
+    raw: 250 g dark brown sugar
+  - qty: 3
+    unit: tbsp
+    name: black treacle
+    raw: 3 tablespoons black treacle
+  - qty: 1
+    unit: tbsp
+    name: english mustard powder
+    raw: 1 tablespoon English mustard powder
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon ground ginger
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - qty: 2
+    unit: tbsp
+    name: cornflour
+    raw: 2 tablespoons cornflour

@@ -1,0 +1,84 @@
+prep: 15 minutes
+cook: 1 minute
+allergens:
+  - gluten
+  - peanuts
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - quick
+  - snack
+  - asian
+  - meat
+  - pork
+  - onion
+  - soy-sauce
+  - complex
+  - lunar-new-year
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: spring roll skins
+    raw: 1 packet spring roll skins
+  - qty: 175
+    unit: g
+    name: parma ham
+    raw: 175 grams Parma ham
+  - qty: 110
+    unit: g
+    name: mange tout
+    raw: 110 grams mange tout
+  - qty: 110
+    unit: g
+    name: red pepper
+    raw: 110 grams red pepper
+  - qty: 110
+    unit: g
+    name: waterchestnuts
+    raw: 110 grams waterchestnuts
+  - qty: 1
+    unit: tbsp
+    name: groundnut oil
+    raw: 1 tablespoon groundnut oil
+  - qty: 110
+    unit: g
+    name: bean sprouts
+    raw: 110 grams fresh bean sprouts
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 1
+    unit: tsp
+    name: light soy sauce
+    raw: 1 teaspoon light soy sauce
+  - qty: 1
+    unit: tsp
+    name: dark soy sauce
+    raw: 1 teaspoon dark soy sauce
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 1.5
+    unit: tbsp
+    name: dry sherry
+    raw: 1 ½ tablespoons dry sherry
+  - qty: 1
+    unit: l
+    name: oil
+    raw: 1 litre oil
+  - qty: 3
+    unit: tbsp
+    name: plain flour
+    raw: 3 tablespoons plain flour

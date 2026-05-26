@@ -1,0 +1,91 @@
+prep: 15 minutes
+cook: 5 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 455
+    unit: g
+    name: chicken thighs
+    raw: 455g boneless, skinless chicken thighs
+  - qty: 240
+    unit: ml
+    name: rice wine
+    raw: 240ml rice wine
+  - qty: 60
+    unit: ml
+    name: soy sauce
+    raw: 60ml soy sauce
+  - qty: 125
+    unit: g
+    name: flour
+    raw: 125g flour
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 2
+    unit: l
+    name: vegetable oil
+    raw: 2 litres vegetable oil
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 2
+    unit: clove
+    name: cloves fresh garlic
+    raw: 2 cloves fresh garlic
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon fresh ginger
+  - qty: 45
+    unit: g
+    name: chili pod
+    raw: 45g dried chili pod
+  - qty: 60
+    unit: ml
+    name: rice wine
+    raw: 60ml rice wine
+  - qty: 60
+    unit: ml
+    name: soy sauce
+    raw: 60ml soy sauce
+  - qty: 60
+    unit: ml
+    name: rice wine vinegar
+    raw: 60ml rice wine vinegar
+  - qty: 50
+    unit: g
+    name: sugar
+    raw: 50g sugar
+  - qty: 0.5
+    unit: tbsp
+    name: cornstarch
+    raw: ½ tablespoon cornstarch
+  - qty: 35
+    unit: g
+    name: spring onion
+    raw: 35g spring onion
+  - name: white rice
+    raw: White rice for serving

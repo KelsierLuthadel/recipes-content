@@ -1,0 +1,52 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - onion
+  - potato
+  - lemon
+mentions:
+  - base-ingredients/herbs/fines-herbes
+  - tutorials/pasta/pasta
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 60
+    unit: g
+    name: potato
+    raw: 60 grams potato
+  - name: water
+    raw: Water
+  - qty: 60
+    unit: g
+    name: fines herbes
+    raw: 60 grams fresh Fines Herbes
+  - qty: 120
+    unit: ml
+    name: virgin olive oil
+    raw: 120 milliliters extra virgin olive oil
+  - qty: 40
+    unit: ml
+    name: sherry vinegar
+    raw: 40 milliliters sherry vinegar
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 30
+    unit: g
+    name: spring onions
+    raw: 30 grams spring onions
+  - qty: 1
+    unit: tbsp
+    name: coarse-grain meaux mustard
+    raw: 1 tablespoon coarse-grain Meaux mustard
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

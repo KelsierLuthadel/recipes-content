@@ -1,0 +1,52 @@
+prep: 15 minutes (uses store-bought shanklish or labneh-aged shortcut)
+cook: 0 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - onion
+  - tomato
+  - cheese
+  - chili
+mentions:
+  - cuisine/lebanese/side-dishes/labneh
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 4
+    name: shanklish balls
+    raw: 4 shanklish balls
+  - name: "or substitute: 200 g feta cheese"
+    raw: "OR substitute: 200 g feta cheese, 100 g labneh, 2 tablespoons za'atar, 1 teaspoon dried mint, 1 teaspoon ground cumin, ¼ teaspoon dried chilli flakes"
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 1
+    unit: tbsp
+    name: za'atar
+    raw: 1 tablespoon za'atar
+  - qty: 1
+    unit: tsp
+    name: sumac
+    raw: 1 teaspoon sumac
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tablespoon fresh mint
+  - qty: 1
+    unit: tbsp
+    name: parsley
+    raw: 1 tablespoon fresh parsley
+  - name: warm pita
+    raw: Warm pita

@@ -1,0 +1,72 @@
+prep: 15 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - sesame
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - coconut
+  - butter
+  - nuts
+mentions: []
+ingredients:
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 30
+    unit: g
+    name: ghee
+    raw: 30 g ghee
+  - qty: 250
+    unit: g
+    name: semolina
+    raw: 250 g coarse semolina
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 50
+    unit: g
+    name: raisins
+    raw: 50 g raisins
+  - qty: 2
+    unit: tbsp
+    name: poppy seeds
+    raw: 2 tablespoons poppy seeds
+  - qty: 1
+    unit: tbsp
+    name: black sesame seeds
+    raw: 1 tablespoon black sesame seeds
+  - qty: 30
+    unit: g
+    name: flaked almonds
+    raw: 30 g flaked almonds

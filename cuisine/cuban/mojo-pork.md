@@ -1,30 +1,3 @@
----
-prep: 20 minutes (plus overnight marinade)
-cook: 4 hours
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - meals
-  - bbq
-  - meat
-  - pork
-  - rice
-  - onion
-  - garlic
-  - lime
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mojo Pork
 
 ![Mojo Pork](resources/mojo-pork.jpg)

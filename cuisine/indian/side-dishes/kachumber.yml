@@ -1,0 +1,58 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - onion
+  - tomato
+  - lime
+  - coriander
+  - chili
+mentions: []
+ingredients:
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 3
+    name: tomatoes
+    raw: 3 ripe tomatoes
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tablespoon fresh mint
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 1
+    unit: tsp
+    name: roasted cumin powder
+    raw: 1 teaspoon roasted cumin powder
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: chaat masala
+    raw: ¼ teaspoon Chaat Masala
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon ground black pepper

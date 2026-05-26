@@ -1,0 +1,95 @@
+prep: 15 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - yogurt
+  - chili
+  - complex
+  - eid-al-adha
+  - ramadan
+  - muslim
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: lamb leg and shoulder
+    raw: 800g lamb leg and shoulder, cut into pieces, ideally still with bone in
+  - qty: 1
+    unit: tbsp
+    name: rapeseed oil
+    raw: 1 tbsp rapeseed oil
+  - qty: 100
+    unit: g
+    name: greek yoghurt
+    raw: 100g Greek yoghurt
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp garlic and ginger paste
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: black pepper
+    raw: 1 tbsp freshly ground black pepper
+  - qty: 4
+    unit: tbsp
+    name: rapeseed oil
+    raw: 4 tbsp rapeseed oil
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp garlic and ginger paste
+  - qty: 1
+    name: fried onions
+    raw: 1 quantity fried onions
+  - qty: 1
+    unit: tbsp
+    name: pungent dried red chilli flakes
+    raw: 1 tbsp pungent dried red chilli flakes
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1.5
+    unit: tbsp
+    name: cumin
+    raw: 1 ½ tbsp ground cumin
+  - qty: 1.5
+    unit: tbsp
+    name: coriander
+    raw: 1 ½ tbsp ground coriander
+  - qty: 1
+    unit: tbsp
+    name: kashmiri chilli powder
+    raw: 1 tbsp Kashmiri chilli powder
+  - qty: 3
+    unit: tbsp
+    name: ginger
+    raw: 3 tbsp julienned ginger
+  - qty: 2
+    name: green bullet chillies
+    raw: 2 fresh green bullet chillies
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp garam masala
+  - name: coriander
+    raw: Fresh coriander

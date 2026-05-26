@@ -1,0 +1,75 @@
+prep: 15 minutes
+cook: 12 minutes
+allergens:
+  - fish
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - beef
+  - pork
+  - duck
+  - rice
+  - onion
+  - lime
+  - coriander
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: uncooked glutinous rice
+    raw: 3 tablespoons uncooked glutinous rice
+  - qty: 500
+    unit: g
+    name: pork mince
+    raw: 500 g pork mince
+  - qty: 4
+    unit: tbsp
+    name: stock
+    raw: 4 tablespoons stock
+  - qty: 3
+    unit: tbsp
+    name: fish sauce
+    raw: 3 tablespoons fish sauce
+  - qty: 2
+    name: limes
+    raw: 2 limes
+  - qty: 1.5
+    unit: tsp
+    name: thai dried chilli flakes
+    raw: 1-2 teaspoons Thai dried chilli flakes
+  - qty: 4
+    name: shallots
+    raw: 4 shallots
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 0.5
+    unit: tsp
+    name: sugar
+    raw: ½ teaspoon sugar
+  - qty: 1
+    unit: large handful
+    name: mint leaves
+    raw: 1 large handful fresh mint leaves
+  - qty: 1
+    unit: large handful
+    name: coriander
+    raw: 1 large handful fresh coriander
+  - qty: 1
+    unit: small handful
+    name: thai basil leaves
+    raw: 1 small handful Thai basil leaves
+  - name: sticky rice
+    raw: Sticky rice
+  - name: "vegetables: long beans"
+    raw: "Raw vegetables: long beans, cucumber, cabbage wedges, lettuce leaves, Thai basil"

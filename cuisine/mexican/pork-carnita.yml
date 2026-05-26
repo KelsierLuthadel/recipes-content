@@ -1,0 +1,61 @@
+prep: 15 minutes
+cook: 8-10 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - lime
+  - complex
+mentions:
+  - cuisine/mexican/snacks/quesadillas
+ingredients:
+  - qty: 1
+    unit: kg
+    name: pork shoulder
+    raw: 1kg skinless, boneless pork shoulder
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 0.5
+    unit: tbsp
+    name: oregano
+    raw: ½ tablespoon dried oregano
+  - qty: 0.5
+    unit: tbsp
+    name: cumin
+    raw: ½ tablespoon ground cumin
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 1
+    name: orange
+    raw: 1 orange
+  - qty: 0.3333333333333333
+    unit: cup
+    name: cola
+    raw: ⅓ cup cola
+  - name: cooking oil spray
+    raw: Cooking oil spray

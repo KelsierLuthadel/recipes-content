@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 4 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-tags:
-  - quick
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - onion
-  - cream
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Penne with Red Chicory, Sausages, and Red Wine
 
 ![Penne alla Trevisana](resources/penne-alla-trevisana.jpg)

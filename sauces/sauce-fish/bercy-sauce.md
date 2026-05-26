@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - fish
-tags:
-  - gluten-free
-  - fish
-  - onion
-  - lemon
-mentions:
-  - sauces/sauce-fish/veloute-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Bercy Sauce
 
 ![Bercy sauce](resources/bercy-sauce.jpg)

@@ -1,0 +1,43 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - fish
+tags:
+  - gluten-free
+  - fish
+  - mushroom
+  - onion
+  - butter
+  - cream
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 60
+    unit: g
+    name: shallots
+    raw: 60 grams shallots
+  - qty: 60
+    unit: g
+    name: button mushroom
+    raw: 60 grams button mushroom
+  - qty: 400
+    unit: ml
+    name: champagne
+    raw: 400 ml champagne
+  - qty: 300
+    unit: ml
+    name: fish stock
+    raw: 300 ml Fish stock
+  - qty: 350
+    unit: ml
+    name: double cream
+    raw: 350 ml double cream
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

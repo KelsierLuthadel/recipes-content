@@ -1,27 +1,3 @@
----
-prep: 20 minutes (plus 2 hours marinating, ideally overnight)
-cook: 40 minutes
-allergens:
-  - gluten
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - garlic
-  - lemon
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Pollo Alla Diavola
 
 ![Pollo alla Diavola](resources/pollo-alla-diavola.jpg)

@@ -1,30 +1,3 @@
----
-prep: 20 minutes
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - meals
-  - meat
-  - beef
-  - pork
-  - onion
-  - garlic
-  - tomato
-  - cheese
-  - chili
-mentions:
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Meatball and Pepperoni Pizza
 
 ![Meatball and Pepperoni Pizza](resources/meatball-pizza.jpg)

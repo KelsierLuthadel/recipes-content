@@ -1,24 +1,3 @@
----
-prep: 5 minutes (plus 30 minutes soak)
-cook: 25 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - meals
-  - asian
-  - rice
-  - coriander
-  - butter
-mentions:
-  - cuisine/indian/BIR-Butter-Chicken
-  - cuisine/indian/butter-chicken
----
-
-
-
-
 # Jeera Rice
 
 ![Jeera Rice](resources/jeera-rice.jpg)

@@ -1,0 +1,59 @@
+prep: 15 minutes
+cook: 5 minutes
+allergens:
+  - eggs
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - bbq
+  - meat
+  - lamb
+  - eggs
+  - onion
+  - lemon
+  - coriander
+  - chili
+mentions:
+  - cuisine/indian/Breads/rotis
+ingredients:
+  - qty: 1
+    unit: kg
+    name: lamb
+    raw: 1kg lean minced lamb
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    unit: tbsp
+    name: green chillies
+    raw: 2 tablespoons finely chopped green chillies
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: tbsp
+    name: roasted ground coriander
+    raw: 1 tablespoon freshly roasted ground coriander
+  - qty: 1
+    unit: tbsp
+    name: garam masala
+    raw: 1 tablespoon Garam Masala
+  - qty: 1
+    name: coriander
+    raw: Large bunch of fresh coriander
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: black pepper
+    raw: Black pepper to taste
+  - name: oil for basting
+    raw: Oil for basting
+  - name: lemon wedges
+    raw: Lemon wedges

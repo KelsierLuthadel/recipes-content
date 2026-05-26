@@ -1,32 +1,3 @@
----
-prep: 30 minutes (plus 4 hours soaking lentils)
-cook: 1 hour 30 minutes
-allergens:
-  - gluten
-  - fish
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - sides
-  - fish
-  - lentils
-  - onion
-  - garlic
-  - lime
-  - coriander
-  - chickpea
-  - chili
-  - complex
-mentions:
-  - cuisine/indian/side-dishes/samosa
-  - cuisine/indian/snacks/samosa
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Samusa Thoke
 
 ![Samusa Thoke](resources/samusa-thoke.jpg)

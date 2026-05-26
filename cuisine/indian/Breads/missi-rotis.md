@@ -1,25 +1,3 @@
----
-prep: 20 minutes (plus 1 hour rest)
-cook: 10 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - spicy
-  - make-ahead
-  - asian
-  - onion
-  - coriander
-  - butter
-  - chili
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Missi Rotis
 
 ![Missi Rotis](resources/missi-rotis.jpg)

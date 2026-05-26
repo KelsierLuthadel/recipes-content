@@ -1,0 +1,39 @@
+prep: 5 minutes
+cook: 4 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - lemon
+mentions: []
+ingredients:
+  - qty: 360
+    unit: g
+    name: feuilletage
+    raw: 360 grams feuilletage
+  - qty: 400
+    unit: g
+    name: apples
+    raw: 400 grams apples
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 grams caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - name: eggwash
+    raw: eggwash
+  - qty: 20
+    unit: g
+    name: icing sugar
+    raw: 20 grams icing sugar

@@ -1,30 +1,3 @@
----
-prep: 1 hour
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - shellfish
-tags:
-  - spicy
-  - snack
-  - fish
-  - prawn
-  - eggs
-  - onion
-  - lemon
-  - butter
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Rissois de Camarão
 
 ![Rissois de Camarao](resources/rissois-de-camarao.jpg)

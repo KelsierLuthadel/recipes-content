@@ -1,34 +1,3 @@
----
-prep: 15 minutes
-cook: 5 minutes
-allergens:
-  - dairy
-  - fish
-  - meat
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - fish
-  - chicken
-  - mushroom
-  - onion
-  - coconut
-  - lime
-  - coriander
-  - chili
-  - curry
-mentions:
-  - cuisine/thai/stocks/thai-chicken-stock
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tom Kha Gai Soup (Chicken, Galangal and Coconut Soup)
 
 ![Tom Kha Gai Soup (Chicken, Galangal and Coconut Soup)](resources/tom-kha-gai-soup.jpg)

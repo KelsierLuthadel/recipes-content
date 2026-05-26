@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - eggs
-  - onion
-  - lemon
-  - butter
-mentions:
-  - base-ingredients/baking/clarified-butter
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Béarnaise Sauce
 
 ![Béarnaise sauce](resources/bearnaise-sauce.jpg)

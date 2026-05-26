@@ -1,0 +1,60 @@
+prep: 30 minutes (plus 1 hour rising)
+cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - sides
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 600
+    unit: g
+    name: plain flour
+    raw: 600 g plain flour
+  - qty: 1
+    name: fast-action yeast
+    raw: 1 sachet fast-action yeast
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: mahleb
+    raw: 1 teaspoon ground mahleb
+  - qty: 60
+    unit: ml
+    name: olive oil
+    raw: 60 ml olive oil
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml warm milk
+  - qty: 220
+    unit: ml
+    name: water
+    raw: 220 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: date
+    raw: 2 tablespoons date
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml warm water
+  - qty: 250
+    unit: g
+    name: sesame seeds
+    raw: 250 g sesame seeds
+  - qty: 1
+    unit: tbsp
+    name: nigella seeds
+    raw: 1 tablespoon nigella seeds

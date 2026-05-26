@@ -1,0 +1,104 @@
+prep: 25 minutes
+cook: 1 ¼ hours
+allergens:
+  - gluten
+  - soy
+  - mustard
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - meals
+  - rice
+  - onion
+  - garlic
+  - spinach
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 100
+    unit: ml
+    name: vegetable oil
+    raw: 100 ml vegetable oil
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: celery sticks
+    raw: 4 celery sticks
+  - qty: 1
+    name: green pepper
+    raw: 1 green pepper
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: thyme leaves
+    raw: 1 teaspoon thyme leaves
+  - qty: 2
+    unit: tsp
+    name: smoked paprika
+    raw: 2 teaspoons smoked paprika
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 0.5
+    unit: tsp
+    name: cayenne pepper
+    raw: ½ teaspoon cayenne pepper
+  - qty: 1
+    name: collard greens
+    raw: 1 bunch collard greens
+  - qty: 1
+    name: mustard greens
+    raw: 1 bunch mustard greens
+  - qty: 1
+    name: kale
+    raw: 1 bunch kale
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 bunch flat-leaf parsley
+  - qty: 200
+    unit: g
+    name: spinach
+    raw: 200 g spinach
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1.5
+    unit: l
+    name: vegetable stock
+    raw: 1 ½ litres vegetable stock
+  - qty: 2
+    unit: tbsp
+    name: soy sauce
+    raw: 2 tablespoons soy sauce
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 1
+    unit: tbsp
+    name: file powder
+    raw: 1 tablespoon filé powder
+  - name: hot sauce
+    raw: Hot sauce
+  - name: white rice
+    raw: Cooked white rice

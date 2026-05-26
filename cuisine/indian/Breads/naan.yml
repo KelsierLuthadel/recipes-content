@@ -1,0 +1,53 @@
+prep: 15 minutes (plus 2 hours proving)
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - asian
+  - onion
+  - yogurt
+  - complex
+  - diwali
+  - ramadan
+  - muslim
+  - hindu
+mentions:
+  - base-ingredients/spices/aromatic-salt
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 450
+    unit: g
+    name: white flour
+    raw: 450 g strong white flour
+  - qty: 1
+    unit: tbsp
+    name: baking powder
+    raw: 1 tablespoon baking powder
+  - qty: 1
+    unit: tbsp
+    name: granulated sugar
+    raw: 1 tablespoon granulated sugar
+  - qty: 2
+    unit: tbsp
+    name: greek yoghurt
+    raw: 2 tablespoons Greek yoghurt
+  - qty: 1
+    unit: tsp
+    name: aromatic salt
+    raw: 1 teaspoon Aromatic Salt
+  - qty: 2
+    unit: tsp
+    name: sesame seeds
+    raw: 2 teaspoons sesame seeds
+  - qty: 0.5
+    unit: tsp
+    name: wild onion seed
+    raw: ½ teaspoon wild onion seed
+  - name: water
+    raw: Lukewarm water
+  - name: little ghee
+    raw: A little ghee

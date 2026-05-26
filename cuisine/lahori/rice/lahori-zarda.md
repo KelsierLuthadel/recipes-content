@@ -1,23 +1,3 @@
----
-prep: 15 minutes (plus 30 minutes soak)
-cook: 35 minutes
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - meals
-  - rice
-  - nuts
-  - complex
-mentions:
-  - cuisine/indian/biryani
----
-
-
-
-
 # Lahori Zarda
 
 ![Lahori Zarda](resources/lahori-zarda.jpg)

@@ -1,0 +1,63 @@
+prep: 10 minutes
+allergens:
+  - tree-nuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - spices
+  - ginger
+  - nuts
+mentions: []
+ingredients:
+  - qty: 100
+    unit: g
+    name: granulated sea salt
+    raw: 100 grams coarsely granulated sea salt
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: ginger
+    raw: ½ teaspoon ground ginger
+  - qty: 100
+    unit: g
+    name: granulated sea salt
+    raw: 100 grams coarsely granulated sea salt
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: fenugreek seeds
+    raw: ½ teaspoon ground fenugreek seeds
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: chilli powder
+    raw: ½ teaspoon chilli powder
+  - qty: 1.5
+    unit: tbsp
+    name: almond
+    raw: 1 ½ tablespoons ground almond

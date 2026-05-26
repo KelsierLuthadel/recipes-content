@@ -1,26 +1,3 @@
----
-prep: 15 minutes (assembly only - wafers are bought, arequipe is pre-made)
-cook: 0 minutes
-allergens:
-  - dairy
-  - peanuts
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - make-ahead
-  - coconut
-  - lemon
-  - cheese
-  - nuts
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Obleas
 
 ![Obleas](resources/obleas.jpg)

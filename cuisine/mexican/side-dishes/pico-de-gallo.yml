@@ -1,0 +1,40 @@
+prep: 15 minutes (plus 30 minutes rest)
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+  - onion
+  - tomato
+  - lime
+  - coriander
+  - day-of-the-dead
+mentions: []
+ingredients:
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - qty: 1.5
+    name: jalapenos
+    raw: 1-2 jalapeños
+  - qty: 1
+    unit: large handful
+    name: coriander
+    raw: A large handful of fresh coriander
+  - qty: 2
+    name: limes
+    raw: 2 limes
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon black pepper

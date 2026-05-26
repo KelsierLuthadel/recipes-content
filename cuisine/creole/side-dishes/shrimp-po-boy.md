@@ -1,27 +1,3 @@
----
-prep: 25 minutes
-cook: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - shellfish
-  - mustard
-  - garlic
-tags:
-  - spicy
-  - sides
-  - fish
-  - prawn
-  - tomato
-  - lemon
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Shrimp Po-Boy
 
 ![Shrimp Po-boy](resources/shrimp-po-boy.jpg)

@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 1 hour 56 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - ginger
-  - lemon
-  - butter
-  - nuts
-  - complex
-  - halloween
-mentions:
-  - base-ingredients/syrup/sirop-a-sorbet
----
-
-
-
-
 # Autumn Fruit Crumble
 
 ![Autumn fruit crumble](resources/fruit-crumble.jpg)

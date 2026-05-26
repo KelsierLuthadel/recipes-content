@@ -1,0 +1,51 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - chocolate
+  - halloween
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: unsalted butter
+    raw: 250 g unsalted butter
+  - qty: 250
+    unit: g
+    name: dark chocolate
+    raw: 250 g dark chocolate
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 350
+    unit: g
+    name: caster sugar
+    raw: 350 g caster sugar
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 50
+    unit: g
+    name: cocoa powder
+    raw: 50 g cocoa powder
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 0.5
+    unit: tsp
+    name: flaky sea salt
+    raw: ½ teaspoon flaky sea salt
+  - qty: 100
+    unit: g
+    name: dark chocolate chunks
+    raw: 100 g dark chocolate chunks

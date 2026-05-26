@@ -1,34 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - complex
-mentions:
-  - cuisine/indian/sauces-pickles/mango-chutney
-  - sauces/fruit-sauce/mango-chutney
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Pathia
 
 ![Chicken Pathia](resources/BIR-chicken-pathia.jpg)

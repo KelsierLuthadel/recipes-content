@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - lemon
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Cucumber Coulis
 
 ![Cucumber Coulis](resources/cucumber-coulis.jpg)

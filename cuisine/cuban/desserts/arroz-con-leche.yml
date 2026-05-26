@@ -1,0 +1,59 @@
+prep: 5 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - eggs
+  - rice
+  - lemon
+  - butter
+mentions: []
+ingredients:
+  - qty: 150
+    unit: g
+    name: short-grain rice
+    raw: 150 g short-grain rice
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    name: strip of lemon zest
+    raw: 1 strip of lemon zest
+  - qty: 1
+    name: strip of orange zest
+    raw: 1 strip of orange zest
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 750
+    unit: ml
+    name: milk
+    raw: 750 ml whole milk
+  - qty: 397
+    unit: g
+    name: sweetened condensed milk
+    raw: 397 g tin sweetened condensed milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 20
+    unit: g
+    name: unsalted butter
+    raw: 20 g unsalted butter
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - name: cinnamon
+    raw: Ground cinnamon, for dusting
+  - name: "optional: a tablespoon of raisins per serving"
+    raw: "Optional: a tablespoon of raisins per serving, soaked in 1 tablespoon dark rum"

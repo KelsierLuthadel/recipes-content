@@ -1,0 +1,51 @@
+prep: 15 minutes
+cook: 2 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - quick
+  - onion
+  - coriander
+  - butter
+  - chili
+mentions:
+  - cuisine/indian/Breads/rotis
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 115
+    unit: g
+    name: flour
+    raw: 115 grams gram flour
+  - qty: 115
+    unit: g
+    name: wholemeal flour
+    raw: 115 grams wholemeal flour
+  - qty: 1
+    name: green chilli
+    raw: 1 fresh green chilli
+  - qty: 0.5
+    name: onion
+    raw: ½ onion
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon fresh coriander
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 3
+    unit: tbsp
+    name: butter
+    raw: 3 tablespoons melted butter
+  - qty: 120
+    unit: ml
+    name: water
+    raw: 120 ml lukewarm water

@@ -1,31 +1,3 @@
----
-prep: 15 minutes (plus 12 hours soaking)
-cook: 2 hours 15 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - sides
-  - meat
-  - pork
-  - onion
-  - garlic
-  - tomato
-  - carrot
-  - lime
-  - coriander
-  - complex
-mentions:
-  - cuisine/colombian/bandeja-paisa
-  - cuisine/colombian/side-dishes/hogao
----
-
-
-
-
 # Frijoles Paisas
 
 ![Frijoles Paisas](resources/frijoles-paisas.jpg)

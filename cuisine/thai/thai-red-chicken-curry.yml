@@ -1,0 +1,72 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - soy
+  - fish
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - coconut
+  - coriander
+  - chili
+  - soy-sauce
+  - curry
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+  - cuisine/thai/stocks/thai-chicken-stock
+  - tutorials/bread/gluten
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: coconut oil oil
+    raw: 2 tbsp coconut oil oil
+  - qty: 1
+    name: batch thai red curry paste
+    raw: 1 batch Thai red curry paste
+  - qty: 450
+    unit: g
+    name: chicken thigh fillets
+    raw: 450 g skinless chicken thigh fillets, cut into bite-size pieces
+  - qty: 250
+    unit: ml
+    name: thai chicken stock
+    raw: 250 ml Thai chicken stock
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml thick coconut milk
+  - qty: 225
+    unit: g
+    name: vegetables
+    raw: 225 g vegetables, such as baby aubergine , sliced red pepper, green beans
+  - qty: 3
+    unit: tbsp
+    name: thai fish sauce
+    raw: 3 tbsp Thai fish sauce
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tbsp light soy sauce
+  - qty: 1
+    unit: tsp
+    name: tamarind paste
+    raw: 1 tsp tamarind paste
+  - qty: 1
+    unit: tbsp
+    name: palm sugar
+    raw: 1 tbsp palm sugar
+  - name: coriander leaves
+    raw: Coriander leaves
+  - qty: 1
+    unit: tsp
+    name: roasted thai chilli oil
+    raw: 1 tsp roasted Thai chilli oil, to garnish

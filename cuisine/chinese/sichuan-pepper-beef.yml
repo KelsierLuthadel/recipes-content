@@ -1,0 +1,93 @@
+prep: 20 minutes
+cook: 1 minute
+allergens:
+  - peanuts
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - beef
+  - onion
+  - garlic
+  - carrot
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: sirloin steaks
+    raw: 2 Sirloin steaks
+  - qty: 1
+    unit: tbsp
+    name: shaoshing rice wine
+    raw: 1 tablespoon Shaoshing rice wine
+  - qty: 2
+    unit: tsp
+    name: sichuan pepper
+    raw: 2 teaspoons ground Sichuan pepper
+  - qty: 1
+    unit: tsp
+    name: dark soy sauce
+    raw: 1 teaspoon dark soy sauce
+  - qty: 0.5
+    unit: tsp
+    name: chinese five-spice powder
+    raw: ½ teaspoon Chinese five-spice powder
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: groundnut oil
+    raw: 2 tablespoon groundnut oil
+  - qty: 1
+    name: red chilli
+    raw: 1 red chilli
+  - qty: 0.5
+    name: onion
+    raw: ½ onion
+  - qty: 1
+    unit: small handful
+    name: broccoli
+    raw: 1 small handful broccoli
+  - qty: 1
+    unit: small handful
+    name: mangetout
+    raw: 1 small handful chopped mangetout
+  - qty: 1
+    unit: small handful
+    name: carrots
+    raw: 1 small handful chopped carrots
+  - qty: 1
+    unit: small handful
+    name: babycorn
+    raw: 1 small handful chopped babycorn
+  - qty: 300
+    unit: ml
+    name: beef stock
+    raw: 300 ml hot fresh beef stock
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tablespoon cornflour
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

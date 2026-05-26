@@ -1,21 +1,3 @@
----
-prep: 15 minutes
-cook: 9 minutes
-allergens:
-  - eggs
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - quick
-  - eggs
-mentions:
-  - cuisine/french/desserts/crepes
----
-
-
-
-
 # Sabayon
 
 ![Sabayon](resources/sabayon.jpg)

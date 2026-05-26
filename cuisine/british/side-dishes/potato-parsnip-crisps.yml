@@ -1,0 +1,24 @@
+prep: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - potato
+mentions: []
+ingredients:
+  - qty: 2
+    name: potatoes
+    raw: 2 potatoes
+  - qty: 3
+    name: parsnips
+    raw: 3 parsnips
+  - qty: 1
+    unit: l
+    name: oil
+    raw: 1 litre oil
+  - name: salt
+    raw: salt

@@ -1,0 +1,68 @@
+prep: 5 minutes
+cook: 6 minutes
+allergens:
+  - soy
+  - sesame
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - meat
+  - onion
+  - garlic
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: bok choy
+    raw: 600 g baby bok choy
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tablespoons sunflower oil
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: oyster sauce
+    raw: 2 tablespoons oyster sauce
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 3
+    unit: tbsp
+    name: water
+    raw: 3 tablespoons hot water
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 1
+    unit: tsp
+    name: cornflour
+    raw: 1 teaspoon cornflour
+  - qty: 1
+    name: red chilli
+    raw: 1 red chilli
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion

@@ -1,26 +1,3 @@
----
-prep: 15 minutes
-cook: 50 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - onion
-  - garlic
-  - tomato
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Patatas Bravas
 
 ![Patatas bravas](resources/patatas-bravas.png)

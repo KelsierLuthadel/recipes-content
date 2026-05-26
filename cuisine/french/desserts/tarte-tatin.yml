@@ -1,0 +1,43 @@
+prep: 25 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - butter
+  - cream
+  - valentines
+mentions:
+  - cuisine/french/desserts/apple-tart
+ingredients:
+  - qty: 320
+    unit: g
+    name: all-butter puff pastry
+    raw: 320 g all-butter puff pastry
+  - qty: 130
+    unit: g
+    name: caster sugar
+    raw: 130 g caster sugar
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 8
+    name: apples
+    raw: 8 apples
+  - name: creme fraiche
+    raw: Crème fraîche
+  - name: vanilla ice cream
+    raw: Vanilla ice cream
+  - name: double cream
+    raw: Cold double cream

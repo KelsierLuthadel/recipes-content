@@ -1,0 +1,73 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - garlic
+  - lime
+  - coriander
+  - cream
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: corn cobs
+    raw: 4 corn cobs
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 4
+    unit: tbsp
+    name: mexican crema
+    raw: 4 tablespoons Mexican crema
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tablespoons mayonnaise
+  - qty: 1
+    unit: tbsp
+    name: milk
+    raw: 1 tablespoon whole milk
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 80
+    unit: g
+    name: cotija cheese
+    raw: 80 g cotija cheese
+  - qty: 1
+    unit: tsp
+    name: ancho chilli powder
+    raw: 1 teaspoon ancho chilli powder
+  - qty: 1
+    unit: tsp
+    name: tajin
+    raw: 1 teaspoon Tajín
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tablespoons fresh coriander
+  - qty: 2
+    name: limes
+    raw: 2 limes
+  - qty: 4
+    name: wooden skewers or the husks of the cobs
+    raw: 4 wooden skewers OR the husks of the cobs

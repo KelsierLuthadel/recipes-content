@@ -1,0 +1,37 @@
+prep: 10 minutes
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - carrot
+  - easter
+mentions: []
+ingredients:
+  - qty: 300
+    unit: g
+    name: chanternay carrots
+    raw: 300 grams Chanternay carrots
+  - qty: 300
+    unit: g
+    name: parsnips
+    raw: 300 grams parsnips
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 3
+    unit: tbsp
+    name: maple syrup
+    raw: 3 tablespoons maple syrup
+  - qty: 1
+    unit: tbsp
+    name: grain mustard
+    raw: 1 tablespoon whole grain mustard
+  - qty: 0.5
+    name: orange
+    raw: ½ orange

@@ -1,0 +1,25 @@
+prep: 2 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - sides
+mentions:
+  - cuisine/nigerian/pepper-soup
+ingredients:
+  - qty: 400
+    unit: g
+    name: akpu flour
+    raw: 400 g akpu flour
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml water
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt

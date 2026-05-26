@@ -1,0 +1,85 @@
+prep: 30 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cream
+  - complex
+  - day-of-the-dead
+mentions:
+  - cuisine/cuban/desserts/tres-leches
+ingredients:
+  - qty: 5
+    name: eggs
+    raw: 5 eggs
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 80
+    unit: ml
+    name: milk
+    raw: 80 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 1.5
+    unit: tsp
+    name: baking powder
+    raw: 1 ½ teaspoons baking powder
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    name: evaporated milk
+    raw: 1 tin evaporated milk
+  - qty: 1
+    name: sweetened condensed milk
+    raw: 1 tin sweetened condensed milk
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: tbsp
+    name: dark rum
+    raw: 1 tablespoon dark rum
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream
+  - qty: 2
+    unit: tbsp
+    name: icing sugar
+    raw: 2 tablespoons icing sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - name: strawberries
+    raw: Fresh strawberries

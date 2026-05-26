@@ -1,26 +1,3 @@
----
-prep: 30 minutes (plus 2 hours rising)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - sides
-  - eggs
-  - lemon
-  - butter
-  - complex
-  - hanukkah
-  - jewish
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Sufganiyot
 
 ![Sufganiyot](resources/sufganiyot.jpg)

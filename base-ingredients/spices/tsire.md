@@ -1,24 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - peanuts
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - spices
-  - ginger
-  - nuts
-  - chili
-mentions: []
----
-
-
-
-
 # Tsire Powder (West African Spice Coating)
 
 ![Tsire Powder](resources/tsire.jpg)

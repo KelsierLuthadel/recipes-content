@@ -1,35 +1,3 @@
----
-prep: 30 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - peanuts
-  - soy
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - spicy
-  - meals
-  - asian
-  - tofu
-  - rice
-  - garlic
-  - carrot
-  - coriander
-  - butter
-  - nuts
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Gỏi Cuốn Chay
 
 ![Gỏi Cuốn Chay](resources/goi-cuon-chay.jpg)

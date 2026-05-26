@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 35 minutes
-allergens:
-  - meat
-  - mustard
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - meat
-  - pork
-  - onion
-  - garlic
-mentions: []
----
-
-
-
-
 # Bacon Fried Cabbage and Sausage
 
 ![Bacon Fried Cabbage and Sausage](resources/bacon-fried-cabbage-and-sausage.jpg)

@@ -1,26 +1,3 @@
----
-prep: 20 minutes (plus almond soaking)
-cook: 40 minutes
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - asian
-  - nuts
-  - diwali
-  - eid-al-fitr
-  - holi
-  - muslim
-  - hindu
-mentions: []
----
-
-
-
-
 # Badam Kheer
 
 ![Badam Kheer](resources/badam-kheer.jpg)

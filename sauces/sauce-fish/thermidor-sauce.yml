@@ -1,0 +1,59 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - fish
+  - mustard
+tags:
+  - gluten-free
+  - spicy
+  - fish
+  - onion
+  - butter
+  - cream
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 40
+    unit: g
+    name: shallots
+    raw: 40 grams shallots
+  - qty: 200
+    unit: ml
+    name: fish stock
+    raw: 200 ml Fish stock
+  - qty: 200
+    unit: ml
+    name: dry white wine
+    raw: 200 ml dry white wine
+  - qty: 300
+    unit: ml
+    name: bechamel sauce
+    raw: 300 ml Béchamel Sauce
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 1
+    unit: tsp
+    name: english mustard powder
+    raw: 1 teaspoon English mustard powder
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 1
+    unit: pinch
+    name: cayenne pepper
+    raw: 1 pinch cayenne pepper
+  - qty: 1
+    unit: tbsp
+    name: tarragon
+    raw: 1 tablespoon tarragon
+  - name: salt
+    raw: salt

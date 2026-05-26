@@ -1,0 +1,88 @@
+prep: 15 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - fish
+  - chicken
+  - pork
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: ml
+    name: vegetable oil
+    raw: 300 ml vegetable oil
+  - qty: 450
+    unit: g
+    name: chicken thighs
+    raw: 450 g boneless skinless chicken thighs
+  - qty: 3
+    unit: tsp
+    name: creole cajun seasoning
+    raw: 3 teaspoons Creole Cajun seasoning
+  - qty: 340
+    unit: g
+    name: andouille sausage
+    raw: 340 g andouille sausage
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: green bell peppers
+    raw: 2 green bell peppers
+  - qty: 3
+    name: celery ribs
+    raw: 3 celery ribs
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    unit: cup
+    name: plain flour
+    raw: 1 cup plain flour
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon ground white pepper
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 1.9
+    unit: l
+    name: low-sodium chicken broth
+    raw: 1.9 litres low-sodium chicken broth
+  - qty: 450
+    unit: g
+    name: lump crab meat
+    raw: 450 g lump crab meat
+  - qty: 2
+    unit: cup
+    name: okra
+    raw: 2 cups okra
+  - qty: 450
+    unit: g
+    name: shrimp
+    raw: 450 g raw large shrimp
+  - qty: 3
+    unit: tsp
+    name: gumbo file powder
+    raw: 3 teaspoons gumbo filé powder
+  - name: louisiana hot sauce
+    raw: Louisiana hot sauce, to taste
+  - name: white rice
+    raw: Cooked white rice, scallions , to serve

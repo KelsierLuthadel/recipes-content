@@ -1,24 +1,3 @@
----
-prep: 30 minutes
-allergens:
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - snack
-  - meat
-  - pork
-  - lime
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicharrones
 
 ![Chicharrones](resources/chicharrones.jpg)

@@ -1,0 +1,59 @@
+prep: 5 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - one-pan
+  - meals
+  - meat
+  - beef
+  - onion
+  - butter
+  - cream
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: unsalted butter
+    raw: 2 tablespoons unsalted butter
+  - qty: 450
+    unit: g
+    name: beef
+    raw: 450 g ground beef
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1
+    name: shallot
+    raw: 1 shallot
+  - qty: 450
+    unit: g
+    name: short pasta
+    raw: 450 g dried short pasta
+  - qty: 950
+    unit: ml
+    name: chicken
+    raw: 950 ml chicken
+  - qty: 240
+    unit: ml
+    name: heavy cream
+    raw: 240 ml heavy cream
+  - qty: 225
+    unit: g
+    name: white cheddar
+    raw: 225 g sharp white cheddar
+  - qty: 1
+    unit: cup
+    name: parmesan cheese
+    raw: 1 cup freshly grated parmesan cheese

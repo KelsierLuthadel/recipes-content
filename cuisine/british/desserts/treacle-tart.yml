@@ -1,0 +1,80 @@
+prep: 30 minutes (plus 1 hour pastry chill)
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - ginger
+  - lemon
+  - butter
+  - cream
+  - complex
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 50
+    unit: g
+    name: icing sugar
+    raw: 50 g icing sugar
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 120
+    unit: g
+    name: cold butter
+    raw: 120 g cold butter
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1.5
+    unit: tbsp
+    name: ice water
+    raw: 1-2 tablespoons ice water
+  - qty: 450
+    unit: g
+    name: golden syrup
+    raw: 450 g golden syrup
+  - qty: 100
+    unit: g
+    name: breadcrumbs
+    raw: 100 g fresh fine breadcrumbs
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 50
+    unit: ml
+    name: double cream
+    raw: 50 ml double cream
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons lemon juice
+  - qty: 1
+    unit: tbsp
+    name: dark golden syrup
+    raw: 1 tablespoon dark golden syrup
+  - qty: 0.25
+    unit: tsp
+    name: ginger
+    raw: ¼ teaspoon ground ginger
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - name: clotted cream
+    raw: Clotted cream
+  - name: or vanilla ice cream
+    raw: OR vanilla ice cream
+  - name: or hot vanilla custard
+    raw: OR hot vanilla custard

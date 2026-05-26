@@ -1,26 +1,3 @@
----
-prep: 15 minutes
-cook: 20 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - sides
-  - onion
-  - garlic
-  - tomato
-  - lime
-  - coriander
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Calabacitas
 
 ![Calabacitas](resources/calabacitas.jpg)

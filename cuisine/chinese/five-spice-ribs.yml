@@ -1,0 +1,74 @@
+prep: 15 minutes
+cook: 40 minutes
+allergens:
+  - peanuts
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - pork
+  - onion
+  - garlic
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 700
+    unit: g
+    name: pork spareribs
+    raw: 700 grams pork spareribs
+  - qty: 570
+    unit: ml
+    name: groundnut oil
+    raw: 570 ml groundnut oil
+  - qty: 1
+    unit: tbsp
+    name: dry sherry
+    raw: 1 tablespoon dry sherry
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: white rice vinegar
+    raw: 1 tablespoon white rice vinegar
+  - qty: 0.5
+    unit: tsp
+    name: sesame oil
+    raw: ½ teaspoon sesame oil
+  - qty: 1
+    unit: tbsp
+    name: garlic
+    raw: 1 tablespoon garlic
+  - qty: 1
+    unit: tbsp
+    name: five spice powder
+    raw: 1 tablespoon five spice powder
+  - qty: 1.5
+    unit: tbsp
+    name: spring onions
+    raw: 1 ½ tablespoons spring onions
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tablespoon sugar
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 2
+    unit: tsp
+    name: orange peel
+    raw: 2 teaspoons freshly grated orange peel
+  - qty: 70
+    unit: ml
+    name: cider vinegar
+    raw: 70 ml cider vinegar

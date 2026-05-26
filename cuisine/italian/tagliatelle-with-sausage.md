@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-cook: 4 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-tags:
-  - quick
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - mushroom
-  - cream
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tagliatelle with Sausage, Rosemary, and Porcini Mushroom
 
 ![Tagliatelle with Sausage](resources/tagliatelle-funghi.jpg)

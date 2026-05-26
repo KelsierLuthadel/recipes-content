@@ -1,32 +1,3 @@
----
-prep: 25 minutes
-cook: 2 hours 7 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - mustard
-  - celery
-  - garlic
-tags:
-  - meals
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - carrot
-  - butter
-  - cream
-  - complex
-  - valentines
-  - easter
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Breast of Lamb with Mustard and Herb Crust
 
 ![Breast of Lamb with Mustard and Herb Crust](resources/lamb-herb.jpg)

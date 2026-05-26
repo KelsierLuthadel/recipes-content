@@ -1,20 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - quick
-mentions:
-  - tutorials/bread/hydration
-  - tutorials/pizza/dough
----
-
-
-
-
 # Light Pizza Dough
 
 ![Light Pizza Dough](resources/pizzadough.jpg)

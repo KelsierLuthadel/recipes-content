@@ -1,30 +1,3 @@
----
-prep: 10 minutes
-cook: 35 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - sides
-  - asian
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - lime
-  - coriander
-  - chili
-  - complex
-mentions:
-  - cuisine/israel/side-dishes/baba-ganoush
----
-
-
-
-
 # Baingan Bharta
 
 ![Baingan Bharta](resources/baingan-bharta.jpg)

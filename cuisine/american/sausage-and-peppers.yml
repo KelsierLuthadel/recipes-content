@@ -1,0 +1,51 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - quick
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - butter
+mentions: []
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: unsalted butter
+    raw: 1 tablespoon unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - qty: 355
+    unit: g
+    name: pre-cooked sausage
+    raw: 340-370 g pre-cooked sausage , sliced into rounds
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 2
+    unit: tsp
+    name: italian seasoning
+    raw: 2 teaspoons Italian seasoning
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: parsley
+    raw: Fresh chopped parsley, to garnish

@@ -1,25 +1,3 @@
----
-prep: 30 minutes (plus 2 hours proving)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - lemon
-  - butter
-  - complex
-mentions:
-  - tutorials/bread/proving
-  - tutorials/pizza/dough
----
-
-
-
-
 # Pączki
 
 ![Pączki](resources/paczki.jpg)

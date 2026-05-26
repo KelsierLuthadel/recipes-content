@@ -1,0 +1,82 @@
+prep: 20 minutes (plus tenderising the conch)
+cook: 45 minutes
+allergens:
+  - dairy
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - coconut
+  - carrot
+  - lime
+  - coriander
+  - butter
+  - complex
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: conch meat
+    raw: 500 g conch meat
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: annatto
+    raw: 1 teaspoon ground annatto
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    name: coconut milk
+    raw: 1 tin coconut milk
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 1
+    name: green plantain
+    raw: 1 green plantain
+  - qty: 400
+    unit: g
+    name: yuca
+    raw: 400 g yuca
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 3
+    unit: tbsp
+    name: cilantro
+    raw: 3 tablespoons fresh cilantro

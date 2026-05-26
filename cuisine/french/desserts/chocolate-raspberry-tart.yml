@@ -1,0 +1,38 @@
+prep: 30 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - butter
+  - cream
+  - chocolate
+  - valentines
+mentions: []
+ingredients:
+  - qty: 280
+    unit: g
+    name: sweet shortcrust
+    raw: 280 grams Sweet Shortcrust
+  - qty: 200
+    unit: g
+    name: raspberries
+    raw: 200 grams fresh raspberries
+  - qty: 250
+    unit: ml
+    name: whipping cream
+    raw: 250 ml whipping cream
+  - qty: 200
+    unit: g
+    name: dark chocolate
+    raw: 200 grams dark chocolate , cut into small pieces
+  - qty: 25
+    unit: g
+    name: liquid glucose
+    raw: 25 grams liquid glucose
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter

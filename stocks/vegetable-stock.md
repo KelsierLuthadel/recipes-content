@@ -1,21 +1,3 @@
----
-prep: 20 minutes
-cook: 45 minutes
-allergens:
-  - celery
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/stocks-sauces/stocks
----
-
-
-
-
 # Vegetable Stock
 
 ![Vegetable Stock](resources/Vegetable-stock.png)

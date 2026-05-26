@@ -1,0 +1,24 @@
+prep: 15 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - butter
+mentions:
+  - cuisine/french/desserts/chocolate-souffle
+  - cuisine/french/desserts/crepes
+  - tutorials/patisserie/tarts
+ingredients:
+  - qty: 6
+    name: oranges
+    raw: 6 oranges
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 grams icing sugar
+  - qty: 125
+    unit: g
+    name: butter
+    raw: 125 grams butter

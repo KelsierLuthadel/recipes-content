@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-cook: 5 minutes
-allergens:
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - meat
-  - pork
-mentions:
-  - sauces/sauce-savory/hollandaise-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Asparagus and Prosciutto Bundles
 
 ![Asparagus and prosciutto bundles](resources/asparagus-parma.jpg)

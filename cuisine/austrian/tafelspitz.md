@@ -1,34 +1,3 @@
----
-prep: 20 minutes
-cook: 3 hours
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-  - mustard
-  - celery
-tags:
-  - make-ahead
-  - one-pan
-  - meals
-  - meat
-  - beef
-  - eggs
-  - onion
-  - potato
-  - spinach
-  - carrot
-  - lemon
-  - complex
-mentions:
-  - sauces/sauce-savory/bread-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tafelspitz
 
 ![Tafelspitz](resources/tafelspitz.jpg)

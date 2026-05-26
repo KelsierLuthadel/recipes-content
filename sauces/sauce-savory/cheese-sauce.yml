@@ -1,0 +1,38 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - gluten-free
+  - quick
+  - meat
+  - butter
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: ml
+    name: dry white wine
+    raw: 300 ml dry white wine
+  - qty: 300
+    unit: ml
+    name: chicken stock
+    raw: 300 ml chicken stock
+  - qty: 120
+    unit: g
+    name: gruyere cheese
+    raw: 120 grams gruyere cheese
+  - qty: 10
+    unit: g
+    name: cornflour
+    raw: 10 grams cornflour
+  - qty: 1
+    unit: knob
+    name: butter
+    raw: 1 knob butter
+  - name: truffle oil
+    raw: truffle oil
+  - name: cheese rind
+    raw: cheese rind

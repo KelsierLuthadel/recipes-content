@@ -1,0 +1,32 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - quick
+  - meat
+  - butter
+mentions: []
+ingredients:
+  - qty: 400
+    unit: ml
+    name: veal stock
+    raw: 400 ml Veal stock
+  - qty: 50
+    unit: ml
+    name: truffle juice
+    raw: 50 ml truffle juice
+  - qty: 20
+    unit: g
+    name: truffles
+    raw: 20 grams truffles
+  - qty: 40
+    unit: g
+    name: butter
+    raw: 40 grams butter
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

@@ -1,26 +1,3 @@
----
-prep: 10 minutes (plus 30 minutes resting)
-cook: none
-allergens:
-  - gluten
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - snack
-  - onion
-  - garlic
-  - butter
-  - cheese
-  - complex
-mentions:
-  - cuisine/american/side-dishes/soft-pretzels
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Obatzda
 
 ![Obatzda](resources/obatzda.jpg)

@@ -1,0 +1,38 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - cream
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: blue cornmeal
+    raw: 200 g fine blue cornmeal
+  - qty: 30
+    unit: g
+    name: plain flour
+    raw: 30 g plain flour
+  - qty: 0.25
+    unit: tsp
+    name: baking soda
+    raw: ¼ teaspoon baking soda
+  - qty: 0.75
+    unit: tsp
+    name: salt
+    raw: ¾ teaspoon salt
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml hot water
+  - qty: 1
+    unit: tbsp
+    name: sunflower oil
+    raw: 1 tablespoon sunflower oil
+  - name: water
+    raw: Extra hot water as needed

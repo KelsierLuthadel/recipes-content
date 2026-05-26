@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-cook: 0 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - sides
-  - tomato
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Caprese Salad
 
 ![Caprese Salad](resources/caprese-salad.jpg)

@@ -1,0 +1,71 @@
+prep: 40 minutes
+cook: 1 hour 20 minutes (plus overnight chilling)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - cream
+  - cheese
+  - complex
+  - shavuot
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 250
+    unit: g
+    name: graham crackers
+    raw: 250 g graham crackers
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 120
+    unit: g
+    name: unsalted butter
+    raw: 120 g unsalted butter
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 900
+    unit: g
+    name: cream cheese
+    raw: 900 g full-fat cream cheese
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 30
+    unit: g
+    name: plain flour
+    raw: 30 g plain flour
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 200
+    unit: g
+    name: sour cream
+    raw: 200 g full-fat sour cream
+  - qty: 2
+    unit: tsp
+    name: vanilla extract
+    raw: 2 teaspoons vanilla extract
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - name: strawberry compote
+    raw: Strawberry compote, or fresh berries

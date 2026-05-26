@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour
-allergens:
-  - gluten
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dairy-free
-  - dessert
-  - make-ahead
-  - eggs
-  - ginger
-  - honey
-  - nuts
-  - complex
-  - rosh-hashanah
-  - yom-kippur
-  - sukkot
-  - jewish
-mentions: []
----
-
-
-
-
 # Honey Cake
 
 ![Honey Cake](resources/honey-cake.jpg)

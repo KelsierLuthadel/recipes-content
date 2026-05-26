@@ -1,0 +1,78 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - dessert
+  - make-ahead
+  - meat
+  - duck
+  - eggs
+  - coconut
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 200
+    unit: g
+    name: rice flour
+    raw: 200 g rice flour
+  - qty: 50
+    unit: g
+    name: glutinous rice flour
+    raw: 50 g glutinous rice flour
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    name: salted duck egg
+    raw: 1 salted duck egg
+  - qty: 50
+    unit: g
+    name: kesong puti
+    raw: 50 g kesong puti
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 80
+    unit: g
+    name: coconut
+    raw: 80 g fresh grated coconut
+  - name: banana leaf
+    raw: Banana leaf
+  - name: butter
+    raw: Butter

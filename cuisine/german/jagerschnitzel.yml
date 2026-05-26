@@ -1,0 +1,102 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - shellfish
+  - meat
+  - mustard
+  - garlic
+tags:
+  - meals
+  - meat
+  - fish
+  - pork
+  - eggs
+  - mushroom
+  - onion
+  - garlic
+  - potato
+  - butter
+  - cream
+  - nuts
+  - complex
+mentions:
+  - cuisine/german/spatzle
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: pork loin escalopes
+    raw: 4 pork loin escalopes
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 200
+    unit: g
+    name: breadcrumbs
+    raw: 200 g fine breadcrumbs
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 100
+    unit: g
+    name: smoked bacon lardons
+    raw: 100 g smoked bacon lardons
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 400
+    unit: g
+    name: mixed mushrooms
+    raw: 400 g mixed mushrooms
+  - qty: 100
+    unit: ml
+    name: dry white wine
+    raw: 100 ml dry white wine
+  - qty: 250
+    unit: ml
+    name: chicken stock
+    raw: 250 ml chicken stock
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 1
+    unit: tsp
+    name: thyme leaves
+    raw: 1 teaspoon fresh thyme leaves
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: spatzle
+    raw: Spätzle

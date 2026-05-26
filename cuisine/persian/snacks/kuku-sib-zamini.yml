@@ -1,0 +1,76 @@
+prep: 20 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - onion
+  - potato
+  - butter
+  - yogurt
+  - complex
+mentions:
+  - cuisine/iran/side-dishes/barbari
+ingredients:
+  - qty: 700
+    unit: g
+    name: waxy potatoes
+    raw: 700 g waxy potatoes
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil or ghee
+    raw: 3 tablespoons sunflower oil OR ghee
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 5
+    name: eggs
+    raw: 5 eggs
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 2
+    unit: tbsp
+    name: chives
+    raw: 2 tablespoons fresh chives
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - name: greek yogurt
+    raw: Greek yogurt to serve
+  - name: persian flatbread or pita
+    raw: Persian flatbread or pita

@@ -1,22 +1,3 @@
----
-prep: 20 minutes (plus 1 hour batter rest)
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - honey
-  - complex
-mentions: []
----
-
-
-
-
 # Dorayaki
 
 ![Dorayaki](resources/dorayaki.jpg)

@@ -1,0 +1,128 @@
+prep: 1 hour 15 minutes (plus 30 minutes bulgur soaking)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - yogurt
+  - nuts
+  - complex
+mentions:
+  - cuisine/lebanese/kibbeh
+  - cuisine/middle-east/kibbeh
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: bulgur
+    raw: 250 g fine bulgur
+  - qty: 400
+    unit: g
+    name: lamb mince
+    raw: 400 g lamb mince
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon
+  - qty: 2.5
+    unit: tbsp
+    name: ice water
+    raw: 2-3 tablespoons ice water
+  - qty: 250
+    unit: g
+    name: lamb mince
+    raw: 250 g lamb mince
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 30
+    unit: g
+    name: pine nuts
+    raw: 30 g pine nuts
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 1
+    unit: tbsp
+    name: pomegranate molasses
+    raw: 1 tablespoon pomegranate molasses
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    unit: tbsp
+    name: parsley
+    raw: 1 tablespoon fresh parsley
+  - qty: 800
+    unit: ml
+    name: vegetable oil
+    raw: 800 ml vegetable oil
+  - qty: 800
+    unit: g
+    name: natural yogurt
+    raw: 800 g full-fat natural yogurt
+  - qty: 1
+    name: egg white
+    raw: 1 egg white
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tablespoon cornflour
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml warm water
+  - qty: 3
+    unit: tbsp
+    name: unsalted butter
+    raw: 3 tablespoons unsalted butter
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tablespoon dried mint

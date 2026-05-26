@@ -1,0 +1,46 @@
+prep: 30 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - meat
+  - pork
+  - lime
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: pork back skin
+    raw: 400 g raw pork back skin
+  - qty: 1
+    unit: tsp
+    name: flaky sea salt
+    raw: 1 teaspoon flaky sea salt
+  - qty: 0.5
+    unit: tsp
+    name: tajin
+    raw: ½ teaspoon Tajín
+  - qty: 0.5
+    unit: tsp
+    name: smoked paprika
+    raw: ½ teaspoon smoked paprika
+  - qty: 0.25
+    unit: tsp
+    name: cumin
+    raw: ¼ teaspoon ground cumin
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - name: lime wedges
+    raw: Lime wedges
+  - name: hot sauce
+    raw: Hot sauce
+  - name: salsa verde
+    raw: Salsa verde

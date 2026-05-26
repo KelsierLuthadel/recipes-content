@@ -1,26 +1,3 @@
----
-prep: 10 minutes (plus 8 hours soaking)
-cook: 1 hour 45 minutes (or 25 minutes pressure-cooked)
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - sides
-  - meat
-  - pork
-  - onion
-  - garlic
-  - complex
-mentions:
-  - cuisine/mexican/side-dishes/refried-beans
----
-
-
-
-
 # Frijoles Fritos
 
 ![Frijoles Fritos](resources/frijoles-fritos.jpg)

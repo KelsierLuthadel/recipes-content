@@ -1,0 +1,43 @@
+prep: 20 minutes
+cook: 2-3 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - eggs
+  - butter
+  - nuts
+mentions:
+  - base-ingredients/baking/tant-pour-tant
+ingredients:
+  - qty: 375
+    unit: g
+    name: tant pour tant
+    raw: 375 grams Tant Pour Tant
+  - qty: 5
+    name: eggs
+    raw: 5 whole eggs
+  - qty: 5
+    name: egg whites
+    raw: 5 egg whites
+  - qty: 25
+    unit: g
+    name: granulated
+    raw: 25 grams granulated
+  - qty: 50
+    unit: g
+    name: cake flour
+    raw: 50 grams cake flour
+  - qty: 40
+    unit: g
+    name: unsalted butter
+    raw: 40 grams unsalted butter
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 grams unsalted butter

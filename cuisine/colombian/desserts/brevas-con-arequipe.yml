@@ -1,0 +1,50 @@
+prep: 10 minutes
+cook: 1 hour 10 minutes (plus 30 min cooling)
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - lemon
+  - cheese
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 12
+    name: brown figs
+    raw: 12 fresh brown figs
+  - qty: 250
+    unit: g
+    name: panela
+    raw: 250 g panela
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    name: strip orange peel
+    raw: 1 strip orange peel
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 250
+    unit: g
+    name: arequipe
+    raw: 250 g arequipe
+  - qty: 200
+    unit: g
+    name: queso fresco
+    raw: 200 g queso fresco
+  - name: pistachios
+    raw: A few pistachios

@@ -1,19 +1,3 @@
----
-prep: 15 minutes (plus 2 hours chilling)
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - dessert
-  - butter
-  - chocolate
-  - complex
-mentions: []
----
-
-
-
-
 # Chocolate Tiffin
 
 ![Chocolate Tiffin](resources/tiffin.jpg)

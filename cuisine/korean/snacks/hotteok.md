@@ -1,22 +1,3 @@
----
-prep: 30 minutes (plus 1 hour rising)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - peanuts
-tags:
-  - vegetarian
-  - snack
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Hotteok
 
 ![Hotteok](resources/hotteok.jpg)

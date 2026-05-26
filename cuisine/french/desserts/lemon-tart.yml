@@ -1,0 +1,60 @@
+prep: 30 minutes (plus 1 hour pastry rest)
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - complex
+  - valentines
+  - tu-bav
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 100
+    unit: g
+    name: cold unsalted butter
+    raw: 100 g cold unsalted butter
+  - qty: 50
+    unit: g
+    name: icing sugar
+    raw: 50 g icing sugar
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 2
+    unit: tbsp
+    name: ice-cold water
+    raw: 2 tablespoons ice-cold water
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 4
+    name: lemons
+    raw: 4 lemons
+  - qty: 200
+    unit: ml
+    name: lemon juice
+    raw: 200 ml lemon juice
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - name: icing sugar
+    raw: Icing sugar

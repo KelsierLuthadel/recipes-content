@@ -1,0 +1,59 @@
+prep: 1 hour (plus 30 min chilling)
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - honey
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 600
+    unit: g
+    name: pineapple
+    raw: 600 g fresh pineapple
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 50
+    unit: g
+    name: maltose syrup
+    raw: 50 g maltose syrup
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 60
+    unit: g
+    name: icing sugar
+    raw: 60 g icing sugar
+  - qty: 2
+    name: egg yolks
+    raw: 2 egg yolks
+  - qty: 30
+    unit: g
+    name: milk powder
+    raw: 30 g full-fat milk powder
+  - qty: 280
+    unit: g
+    name: plain flour
+    raw: 280 g plain flour
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt

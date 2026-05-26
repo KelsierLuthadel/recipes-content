@@ -1,0 +1,62 @@
+prep: 20 minutes (plus overnight desalting)
+cook: 25 minutes
+allergens:
+  - eggs
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - one-pan
+  - meals
+  - fish
+  - eggs
+  - onion
+  - garlic
+  - potato
+  - lemon
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: salt cod
+    raw: 600 g salt cod
+  - qty: 600
+    unit: g
+    name: potatoes
+    raw: 600 g potatoes
+  - name: vegetable oil
+    raw: Vegetable oil
+  - qty: 5
+    unit: tbsp
+    name: olive oil
+    raw: 5 tablespoons olive oil
+  - qty: 3
+    name: onions
+    raw: 3 onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch flat-leaf parsley
+  - qty: 1
+    unit: handful
+    name: black olives
+    raw: A handful of black olives
+  - qty: 1
+    name: lemon
+    raw: 1 lemon

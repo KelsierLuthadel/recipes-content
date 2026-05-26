@@ -1,0 +1,81 @@
+prep: 30 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - fish
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - fish
+  - eggs
+  - potato
+  - lemon
+  - coriander
+  - complex
+mentions:
+  - baking/pastry/filo-pastry
+  - cuisine/north-african/slata-mechouia
+  - tutorials/pastry/filo
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: potatoes
+    raw: 400 g potatoes
+  - qty: 2
+    name: tuna in olive oil
+    raw: 2 tins tuna in olive oil, drained
+  - qty: 2
+    unit: tbsp
+    name: harissa
+    raw: 2 tablespoons Harissa
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tablespoons capers
+  - qty: 30
+    unit: g
+    name: flat-leaf parsley
+    raw: 30 g flat-leaf parsley
+  - qty: 1
+    unit: tsp
+    name: caraway
+    raw: 1 teaspoon ground caraway
+  - qty: 0.5
+    unit: tsp
+    name: coriander
+    raw: ½ teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 8
+    name: sheets warka
+    raw: 8 sheets warka
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 8
+    name: eggs
+    raw: 8 medium eggs
+  - qty: 800
+    unit: ml
+    name: neutral oil
+    raw: 800 ml neutral oil
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: harissa
+    raw: Extra Harissa
+  - name: slata mechouia
+    raw: Slata Mechouia

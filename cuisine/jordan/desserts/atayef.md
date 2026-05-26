@@ -1,26 +1,3 @@
----
-prep: 25 minutes (plus 1 hour resting batter)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - lemon
-  - cheese
-  - nuts
-  - complex
-mentions:
-  - cuisine/egyptian/desserts/basbousa
-  - cuisine/turkish/desserts/baklava
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Atayef
 
 ![Atayef](resources/atayef.jpg)

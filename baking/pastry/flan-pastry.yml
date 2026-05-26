@@ -1,0 +1,37 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - baking
+  - eggs
+  - butter
+mentions:
+  - tutorials/eggs/custards
+ingredients:
+  - qty: 250
+    unit: g
+    name: flour
+    raw: 250 grams flour
+  - qty: 125
+    unit: g
+    name: butter
+    raw: 125 grams butter
+  - qty: 1
+    name: size 3 egg
+    raw: 1 size 3 egg
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 40
+    unit: ml
+    name: water
+    raw: 40 ml cold water

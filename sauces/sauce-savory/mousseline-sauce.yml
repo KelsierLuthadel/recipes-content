@@ -1,0 +1,47 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - eggs
+  - lemon
+  - butter
+  - cream
+mentions:
+  - base-ingredients/baking/clarified-butter
+  - sauces/sauce-savory/hollandaise-sauce
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/hollandaise
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons cold water
+  - qty: 1
+    unit: tsp
+    name: white peppercorns
+    raw: 1 teaspoon white peppercorns
+  - qty: 4
+    name: egg yolks
+    raw: 4 egg yolks
+  - qty: 250
+    unit: g
+    name: clarified butter
+    raw: 250 grams Clarified Butter
+  - qty: 75
+    unit: ml
+    name: whipping cream
+    raw: 75 ml whipping cream
+  - name: salt
+    raw: salt
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon

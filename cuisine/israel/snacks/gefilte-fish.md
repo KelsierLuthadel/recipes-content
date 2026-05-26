@@ -1,28 +1,3 @@
----
-prep: 30 minutes (plus 4 hours chilling)
-cook: 1 hour 15 minutes
-allergens:
-  - eggs
-  - fish
-  - celery
-tags:
-  - dairy-free
-  - gluten-free
-  - snack
-  - make-ahead
-  - fish
-  - eggs
-  - onion
-  - carrot
-  - complex
-  - passover
-  - jewish
-mentions: []
----
-
-
-
-
 # Gefilte Fish
 
 ![Gefilte Fish](resources/gefilte-fish.jpg)

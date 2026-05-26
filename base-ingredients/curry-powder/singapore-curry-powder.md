@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - coriander
-  - chili
-  - curry
-mentions: []
----
-
-
-
-
 # Singapore Curry Powder
 
 ![Singapore](resources/singapore.jpg)

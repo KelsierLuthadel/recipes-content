@@ -1,0 +1,32 @@
+prep: 30 minutes
+cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - valentines
+  - tu-bav
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: sweet shortcrust pastry
+    raw: 250 grams Sweet shortcrust pastry
+  - qty: 300
+    unit: g
+    name: creme chantilly
+    raw: 300 grams crème chantilly
+  - qty: 150
+    unit: g
+    name: creme patissiere
+    raw: 150 grams crème pâtissière
+  - qty: 750
+    unit: g
+    name: fragrant strawberries
+    raw: 750 grams very ripe fragrant strawberries
+  - name: mint
+    raw: a few mint sprigs
+  - name: icing sugar
+    raw: icing sugar

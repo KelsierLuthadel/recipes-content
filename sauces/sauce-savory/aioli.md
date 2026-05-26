@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 0 minutes
-allergens:
-  - eggs
-  - garlic
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - eggs
-  - garlic
-  - lemon
-  - chili
-mentions:
-  - cuisine/french/bouillabaisse
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Aïoli
 
 ![Aïoli](resources/aioli.png)

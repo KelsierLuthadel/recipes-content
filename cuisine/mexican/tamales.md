@@ -1,30 +1,3 @@
----
-prep: 1 ½ hours
-cook: 1 ½ hours
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - pork
-  - onion
-  - garlic
-  - butter
-  - chili
-  - complex
-  - day-of-the-dead
-mentions:
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pork Tamales
 
 ![Pork Tamales](resources/tamales.jpg)

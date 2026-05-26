@@ -1,25 +1,3 @@
----
-prep: 20 minutes
-cook: 1 hour 45 minutes
-allergens:
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - meat
-  - rice
-  - onion
-  - potato
-  - lemon
-  - lime
-  - complex
-mentions: []
----
-
-
-
-
 # Gheymeh
 
 ![Gheymeh](resources/gheymeh.jpg)

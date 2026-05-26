@@ -1,35 +1,3 @@
----
-prep: 45 minutes (plus 30 minutes pastry chilling)
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - shellfish
-  - celery
-  - garlic
-tags:
-  - spicy
-  - snack
-  - meat
-  - fish
-  - prawn
-  - eggs
-  - onion
-  - garlic
-  - tomato
-  - butter
-  - complex
-mentions:
-  - cuisine/cajun/crawfish-etouffee
-  - cuisine/cajun/snacks/andouille-skewers
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Crawfish Pies
 
 ![Crawfish Pies](resources/crawfish-pies.jpg)

@@ -1,26 +1,3 @@
----
-prep: 25 minutes
-cook: 50 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - garlic
-tags:
-  - vegetarian
-  - snack
-  - onion
-  - garlic
-  - nuts
-  - complex
-mentions:
-  - cuisine/azerbaijan/side-dishes/lavash
-  - cuisine/israel/side-dishes/baba-ganoush
----
-
-
-
-
 # Kashk O Bademjan
 
 ![Kashk o Bademjan](resources/kashk-o-bademjan.jpg)

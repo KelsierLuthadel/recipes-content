@@ -1,0 +1,99 @@
+prep: 25 minutes
+cook: 4 hours
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: beef chuck
+    raw: 1 ½ kg beef chuck
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 200
+    unit: g
+    name: smoked bacon lardons
+    raw: 200 g smoked bacon lardons
+  - qty: 3
+    name: onions
+    raw: 3 onions
+  - qty: 4
+    unit: stick
+    name: celery
+    raw: 4 sticks celery
+  - qty: 2
+    name: green bell peppers
+    raw: 2 green bell peppers
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: plain flour
+    raw: 4 tablespoons plain flour
+  - qty: 500
+    unit: ml
+    name: dry red wine
+    raw: 500 ml dry red wine
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 3
+    unit: tbsp
+    name: tomato puree
+    raw: 3 tablespoons tomato puree
+  - qty: 600
+    unit: ml
+    name: beef stock
+    raw: 600 ml hot beef stock
+  - qty: 3
+    name: bay leaves
+    raw: 3 bay leaves
+  - qty: 3
+    unit: sprig
+    name: thyme
+    raw: 3 sprigs fresh thyme
+  - qty: 1
+    unit: tsp
+    name: creole seasoning
+    raw: 1 teaspoon Creole seasoning
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 4
+    unit: tbsp
+    name: parsley
+    raw: 4 tablespoons fresh parsley
+  - qty: 6
+    name: white rice
+    raw: 6 servings cooked white rice

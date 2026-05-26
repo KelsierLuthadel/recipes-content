@@ -1,0 +1,71 @@
+prep: 40 minutes (plus 30 min pastry rest)
+cook: 55 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - snack
+  - meat
+  - beef
+  - eggs
+  - onion
+  - potato
+  - butter
+  - complex
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 125
+    unit: g
+    name: cold butter
+    raw: 125 g cold butter
+  - qty: 125
+    unit: g
+    name: cold lard
+    raw: 125 g cold lard
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 150
+    unit: ml
+    name: ice water
+    raw: 150 ml ice water
+  - qty: 400
+    unit: g
+    name: beef skirt steak
+    raw: 400 g beef skirt steak
+  - qty: 400
+    unit: g
+    name: potato
+    raw: 400 g potato
+  - qty: 250
+    unit: g
+    name: swede
+    raw: 250 g swede
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk

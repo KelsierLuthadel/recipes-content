@@ -1,29 +1,3 @@
----
-prep: 10 minutes
-cook: 2 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - quick
-  - asian
-  - onion
-  - garlic
-  - coriander
-  - yogurt
-  - chili
-mentions:
-  - cuisine/indian/biryani
-  - cuisine/indian/sauces-pickles/cucumber-raita
-  - cuisine/indian/side-dishes/cucumber-raita
----
-
-
-
-
 # Chilli and Red Onion Raita
 
 ![Chilli and Red Onion Raita](resources/redonionraita.jpg)

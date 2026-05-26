@@ -1,0 +1,63 @@
+prep: 30 minutes (plus 2 hours rising)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - sides
+  - eggs
+  - lemon
+  - butter
+  - complex
+  - hanukkah
+  - jewish
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    name: fast-action yeast
+    raw: 1 sachet fast-action yeast
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 220
+    unit: ml
+    name: milk
+    raw: 220 ml warm whole milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1.5
+    unit: l
+    name: vegetable oil
+    raw: 1 ½ litres vegetable oil
+  - qty: 300
+    unit: g
+    name: strawberry
+    raw: 300 g strawberry, raspberry
+  - qty: 150
+    unit: g
+    name: icing sugar
+    raw: 150 g icing sugar

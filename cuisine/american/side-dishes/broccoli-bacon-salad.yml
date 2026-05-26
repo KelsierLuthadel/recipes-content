@@ -1,0 +1,65 @@
+prep: 20 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+tags:
+  - gluten-free
+  - quick
+  - sides
+  - bbq
+  - meat
+  - pork
+  - onion
+  - cheese
+  - honey
+mentions:
+  - cuisine/american/pulled-pork
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 600
+    unit: g
+    name: broccoli
+    raw: 600 g broccoli , florets cut small, stalks peeled and diced
+  - qty: 200
+    unit: g
+    name: streaky bacon
+    raw: 200 g streaky bacon, cut into 1 cm pieces
+  - qty: 0.5
+    name: red onion
+    raw: ½ small red onion, very finely diced
+  - qty: 75
+    unit: g
+    name: sunflower seeds
+    raw: 75 g sunflower seeds
+  - qty: 75
+    unit: g
+    name: cranberries
+    raw: 75 g dried cranberries
+  - qty: 75
+    unit: g
+    name: cheddar cheese
+    raw: 75 g mature Cheddar cheese, diced small
+  - qty: 200
+    unit: g
+    name: mayonnaise
+    raw: 200 g good-quality mayonnaise
+  - qty: 2
+    unit: tbsp
+    name: cider vinegar
+    raw: 2 tbsp cider vinegar
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tbsp caster sugar
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 tsp Dijon mustard
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ tsp fine sea salt
+  - name: black pepper
+    raw: Freshly ground black pepper

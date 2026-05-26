@@ -1,0 +1,61 @@
+prep: 10 minutes (plus 15 minutes resting)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - spicy
+  - sides
+  - eggs
+  - onion
+  - chili
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: yellow cornmeal
+    raw: 200 g fine yellow cornmeal
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 0.5
+    unit: tsp
+    name: baking soda
+    raw: ½ teaspoon baking soda
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: cayenne pepper
+    raw: ½ teaspoon cayenne pepper
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 280
+    unit: ml
+    name: buttermilk
+    raw: 280 ml buttermilk
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil for deep frying

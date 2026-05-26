@@ -1,0 +1,55 @@
+prep: 10 minutes
+cook: 26 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - eggs
+mentions:
+  - tutorials/bread/hydration
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 7
+    unit: g
+    name: fast-acting dried yeast
+    raw: 7 grams fast-acting dried yeast
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 60
+    unit: ml
+    name: water
+    raw: 60 ml warm water
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 grams plain flour
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml warm milk
+  - qty: 60
+    unit: ml
+    name: vegetable oil
+    raw: 60 ml vegetable oil
+  - qty: 10
+    unit: sprig
+    name: rosemary
+    raw: 10 sprigs fresh rosemary
+  - qty: 1
+    name: egg yolk mixed with 1 teaspoon water
+    raw: 1 egg yolk mixed with 1 teaspoon water
+  - name: sea salt flakes
+    raw: Sea salt flakes

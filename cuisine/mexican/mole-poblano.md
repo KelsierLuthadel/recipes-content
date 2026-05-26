@@ -1,35 +1,3 @@
----
-prep: 1 hour
-cook: 1 ½ hours
-allergens:
-  - gluten
-  - tree-nuts
-  - peanuts
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - chocolate
-  - nuts
-  - chili
-  - complex
-  - day-of-the-dead
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mole Poblano
 
 ![Mole Poblano](resources/mole-poblano.jpg)

@@ -1,28 +1,3 @@
----
-prep: 1 hour (plus 30 min dough rest, 4 hours ricotta drain)
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - butter
-  - cheese
-  - chocolate
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Cannoli Siciliani
 
 ![Cannoli Siciliani](resources/cannoli-siciliani.jpg)

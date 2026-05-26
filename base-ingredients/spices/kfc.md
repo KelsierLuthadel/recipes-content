@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - mustard
-  - celery
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - spices
-  - garlic
-  - ginger
-mentions: []
----
-
-
-
-
 # KFC-Style Herbs and Spices
 
 ![KFC Spice Mix](resources/kfc.jpg)

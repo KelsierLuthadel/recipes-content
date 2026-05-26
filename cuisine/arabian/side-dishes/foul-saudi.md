@@ -1,31 +1,3 @@
----
-prep: 10 minutes (plus overnight soaking)
-cook: 6 hours (or 45 minutes pressure-cooked)
-allergens:
-  - gluten
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - make-ahead
-  - sides
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - chickpea
-  - chili
-  - complex
-mentions:
-  - cuisine/arabian/side-dishes/khubz-tameez
-  - cuisine/arabian/side-dishes/salata-hara
----
-
-
-
-
 # Foul Saudi
 
 ![Foul Saudi](resources/foul-saudi.jpg)

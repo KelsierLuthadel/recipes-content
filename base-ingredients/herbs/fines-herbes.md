@@ -1,18 +1,3 @@
----
-prep: 10 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-mentions: []
----
-
-
-
-
 # Fines Herbes
 
 ![Fines Herbes](resources/fines-herbes.png)

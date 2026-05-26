@@ -1,35 +1,3 @@
----
-prep: 10 minutes
-cook: 20 minutes
-allergens:
-  - dairy
-  - fish
-  - meat
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - fish
-  - chicken
-  - coconut
-  - lime
-  - chili
-  - curry
-mentions:
-  - cuisine/indian/BIR-chicken-curry
-  - cuisine/thai/pastes/thai-green-curry-paste
-  - cuisine/thai/stocks/thai-chicken-stock
-  - tutorials/bread/gluten
-  - tutorials/pizza/sauce
-  - tutorials/thai-curry/green
----
-
-
-
-
 # Thai Green Chicken Curry
 
 ![Thai Green Chicken Curry](resources/thai-green-chicken-curry.jpg)

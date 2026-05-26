@@ -1,0 +1,73 @@
+prep: 45 minutes (plus 30 minutes marinating)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - coconut
+  - carrot
+  - chili
+  - complex
+mentions:
+  - cuisine/jamaican/snacks/coco-bread
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 450
+    unit: g
+    name: chicken thighs
+    raw: 450 g boneless skinless chicken thighs
+  - qty: 240
+    unit: ml
+    name: coconut milk
+    raw: 240 ml coconut milk
+  - qty: 1.5
+    unit: tbsp
+    name: scotch bonnet
+    raw: 1 ½ tablespoons minced Scotch bonnet
+  - qty: 2
+    unit: tbsp
+    name: citrus-and-herb
+    raw: 2 tablespoons Citrus-and-Herb
+  - qty: 2
+    unit: cup
+    name: self-rising flour
+    raw: 2 cups self-rising flour
+  - qty: 2
+    unit: tbsp
+    name: citrus-and-herb
+    raw: 2 tablespoons Citrus-and-Herb
+  - name: oil for deep-frying
+    raw: Oil for deep-frying
+  - qty: 2
+    name: heaping cups coleslaw mix
+    raw: 2 heaping cups coleslaw mix
+  - qty: 120
+    unit: ml
+    name: coconut milk
+    raw: 120 ml coconut milk
+  - qty: 1
+    unit: tbsp
+    name: white vinegar
+    raw: 1 tablespoon white vinegar
+  - qty: 0.5
+    unit: tbsp
+    name: caribbean seasoning
+    raw: ½ tablespoon Caribbean seasoning
+  - qty: 3
+    name: jamaican coco bread
+    raw: 3 Jamaican coco bread
+  - qty: 3
+    unit: tbsp
+    name: mango-scotch-bonnet sauce
+    raw: 3 tablespoons mango-Scotch-bonnet sauce
+  - qty: 1
+    unit: tbsp
+    name: brown sugar
+    raw: 1 tablespoon brown sugar

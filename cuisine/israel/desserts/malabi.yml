@@ -1,0 +1,69 @@
+prep: 10 minutes
+cook: 15 minutes (plus 3 hours setting)
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - coconut
+  - cream
+  - nuts
+  - complex
+  - passover
+  - tu-bav
+  - jewish
+mentions: []
+ingredients:
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre whole milk
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 80
+    unit: g
+    name: cornflour
+    raw: 80 g cornflour
+  - qty: 1
+    unit: tbsp
+    name: rosewater
+    raw: 1 tablespoon rosewater
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 2
+    unit: tbsp
+    name: grenadine syrup
+    raw: 2 tablespoons grenadine syrup
+  - qty: 1
+    unit: tbsp
+    name: rosewater
+    raw: 1 tablespoon rosewater
+  - qty: 50
+    unit: g
+    name: pistachios
+    raw: 50 g pistachios
+  - qty: 2
+    unit: tbsp
+    name: desiccated coconut
+    raw: 2 tablespoons desiccated coconut
+  - name: rose petals
+    raw: A few rose petals

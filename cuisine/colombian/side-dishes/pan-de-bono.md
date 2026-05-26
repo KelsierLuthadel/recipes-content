@@ -1,23 +1,3 @@
----
-prep: 20 minutes (plus 30 minutes resting)
-cook: 18 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - sides
-  - eggs
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Pan de Bono
 
 ![Pan de Bono](resources/pan-de-bono.jpg)

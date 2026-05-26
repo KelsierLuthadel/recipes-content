@@ -1,0 +1,90 @@
+prep: 15 minutes
+cook: 2 hours 30 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: beef flank
+    raw: 1.2 kg beef flank
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2 ½ litres water
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    name: tomatoes or 1 tin chopped tomatoes
+    raw: 4 fresh tomatoes or 1 tin chopped tomatoes
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tablespoon tomato puree
+  - qty: 1
+    unit: tsp
+    name: annatto
+    raw: 1 teaspoon ground annatto
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 200
+    unit: ml
+    name: lager beer
+    raw: 200 ml lager beer
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: white rice
+    raw: White rice
+  - name: papa salada
+    raw: Papa salada
+  - name: avocado
+    raw: Sliced ripe avocado
+  - name: parsley
+    raw: Chopped fresh parsley

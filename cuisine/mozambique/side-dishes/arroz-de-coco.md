@@ -1,27 +1,3 @@
----
-prep: 5 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - sides
-  - rice
-  - onion
-  - coconut
-  - butter
-mentions:
-  - cuisine/indian/rice/coconut-rice
-  - cuisine/mozambique/frango-piri-piri
-  - cuisine/mozambique/matata
-  - cuisine/thai/side-dishes/coconut-rice
----
-
-
-
-
 # Arroz de Coco
 
 ![Arroz de Coco](resources/arroz-de-coco.jpg)

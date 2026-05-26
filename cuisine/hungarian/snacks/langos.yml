@@ -1,0 +1,72 @@
+prep: 20 minutes (plus 1 ½ hours rise)
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - snack
+  - make-ahead
+  - garlic
+  - potato
+  - cream
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 100
+    unit: g
+    name: mashed floury potato
+    raw: 100 g cooked, mashed floury potato
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 160
+    unit: ml
+    name: milk
+    raw: 160 ml warm milk
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 1
+    unit: l
+    name: sunflower oil
+    raw: 1 litre sunflower oil, for frying
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: water
+    raw: 3 tablespoons warm water
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 200
+    unit: ml
+    name: sour cream
+    raw: 200 ml sour cream
+  - qty: 150
+    unit: g
+    name: semi-hard cheese
+    raw: 150 g semi-hard cheese, grated

@@ -1,26 +1,3 @@
----
-prep: 30 minutes (plus 1 hour rising)
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - snack
-  - eggs
-  - onion
-  - coriander
-  - butter
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Kete (Azerbaijani Herb-Stuffed Flatbread)
 
 ![Kete](resources/kete.jpg)

@@ -1,31 +1,3 @@
----
-prep: 10 minutes
-cook: 0 minutes
-allergens:
-  - dairy
-  - tree-nuts
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - quick
-  - sides
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - yogurt
-  - honey
-  - nuts
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lahori Mint Chutney
 
 ![Lahori Mint Chutney](resources/lahori-mint-chutney.jpg)

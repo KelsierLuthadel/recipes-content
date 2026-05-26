@@ -1,36 +1,3 @@
----
-prep: 20 minutes (plus 30 minutes marinating)
-cook: 50 minutes
-allergens:
-  - dairy
-  - soy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - make-ahead
-  - one-pan
-  - meals
-  - meat
-  - chicken
-  - rice
-  - onion
-  - garlic
-  - coconut
-  - carrot
-  - coriander
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/rice/pilaf
----
-
-
-
-
 # Pelau
 
 ![Pelau](resources/pelau.jpg)

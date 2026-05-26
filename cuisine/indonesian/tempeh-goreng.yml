@@ -1,0 +1,55 @@
+prep: 15 minutes (plus 30 min marinade)
+cook: 10 minutes
+allergens:
+  - soy
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - rice
+  - garlic
+  - coriander
+  - chili
+  - soy-sauce
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: tempeh
+    raw: 400 g tempeh
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 teaspoon coriander seeds
+  - qty: 1
+    unit: tbsp
+    name: tamarind paste
+    raw: 1 tablespoon tamarind paste
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: palm sugar
+    raw: 1 teaspoon palm sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - name: vegetable oil
+    raw: Vegetable oil
+  - name: kecap manis
+    raw: Kecap manis
+  - name: sambal oelek
+    raw: Sambal Oelek
+  - name: steamed rice
+    raw: Steamed Rice

@@ -1,36 +1,3 @@
----
-prep: 15 minutes
-cook: 2 minutes
-allergens:
-  - peanuts
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - nuts
-  - chili
-  - soy-sauce
-mentions:
-  - cuisine/chinese/kung-pao-chicken
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Spicy Chicken with Peanuts
 
 ![Spicy Chicken with Peanuts](resources/gongbaoji.jpg)

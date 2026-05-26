@@ -1,33 +1,3 @@
----
-prep: 1 hour 15 minutes
-cook: 45 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - lamb
-  - lentils
-  - onion
-  - garlic
-  - tomato
-  - coriander
-  - yogurt
-  - complex
-mentions:
-  - cuisine/afghanistan/snacks/mantu
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mantu
 
 ![Mantu](resources/mantu.jpg)

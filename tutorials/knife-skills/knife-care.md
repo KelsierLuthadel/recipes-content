@@ -1,17 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/knife-skills/basic-cuts
-  - tutorials/knife-skills/precision-cuts
----
-
-
-
 # Knife Care
 
 ![Sharpening](resources/knife-care.jpg)

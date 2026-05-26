@@ -1,28 +1,3 @@
----
-prep: 10 minutes
-cook: 5 minutes
-allergens:
-  - soy
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meat
-  - garlic
-  - lemon
-  - chili
-  - soy-sauce
-mentions:
-  - cuisine/chinese/steamed-fish
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lemon Sauce
 
 ![Lemon sauce](resources/lemon-sauce.jpg)

@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-  - fish
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - snack
-  - make-ahead
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - butter
-  - complex
-mentions: []
----
-
-
-
-
 # Crostini di Fegatini
 
 ![Crostini di Fegatini](resources/crostini-di-fegatini.jpg)

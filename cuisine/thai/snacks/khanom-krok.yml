@@ -1,0 +1,76 @@
+prep: 15 minutes (plus 2 hour batter rest)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - snack
+  - asian
+  - onion
+  - coconut
+  - complex
+mentions: []
+ingredients:
+  - qty: 150
+    unit: g
+    name: rice flour
+    raw: 150 g rice flour
+  - qty: 1
+    unit: tbsp
+    name: mung-bean flour
+    raw: 1 tablespoon mung-bean flour
+  - qty: 60
+    unit: g
+    name: palm sugar
+    raw: 60 g palm sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 250
+    unit: ml
+    name: coconut milk
+    raw: 250 ml coconut milk
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 80 ml water
+  - qty: 200
+    unit: ml
+    name: coconut cream
+    raw: 200 ml coconut cream
+  - qty: 1
+    unit: tbsp
+    name: rice flour
+    raw: 1 tablespoon rice flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: sugar
+    raw: ½ teaspoon sugar
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 50
+    unit: g
+    name: sweetcorn kernels
+    raw: 50 g sweetcorn kernels
+  - qty: 50
+    unit: g
+    name: pumpkin
+    raw: 50 g cooked pumpkin
+  - qty: 1
+    unit: tbsp
+    name: toasted black sesame seeds
+    raw: 1 tablespoon toasted black sesame seeds
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tablespoons sunflower oil
+  - name: khanom krok pan
+    raw: A khanom krok pan , OR an aebleskiver / takoyaki pan, OR a small non-stick pan with deep dimples

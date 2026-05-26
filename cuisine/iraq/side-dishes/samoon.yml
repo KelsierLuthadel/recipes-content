@@ -1,0 +1,41 @@
+prep: 25 minutes (plus 1 hour 30 minutes rising)
+cook: 18 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - sides
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: white bread flour
+    raw: 500 g strong white bread flour
+  - qty: 1
+    name: fast-action yeast
+    raw: 1 sachet fast-action yeast
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 320
+    unit: ml
+    name: water
+    raw: 320 ml warm water
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml hot water

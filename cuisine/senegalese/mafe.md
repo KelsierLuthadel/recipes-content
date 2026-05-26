@@ -1,38 +1,3 @@
----
-prep: 20 minutes
-cook: 1 ¾ hours
-allergens:
-  - dairy
-  - peanuts
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - lamb
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - potato
-  - carrot
-  - butter
-  - nuts
-  - chili
-  - complex
-  - kwanzaa
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mafé
 
 ![Mafé](resources/mafe.jpg)

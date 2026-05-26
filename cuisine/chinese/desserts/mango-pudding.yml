@@ -1,0 +1,62 @@
+prep: 20 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - make-ahead
+  - asian
+  - coconut
+  - lime
+  - cream
+  - lunar-new-year
+mentions:
+  - cuisine/italian/desserts/panna-cotta
+ingredients:
+  - qty: 400
+    unit: g
+    name: mango flesh
+    raw: 400 g ripe mango flesh
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon lime juice
+  - qty: 12
+    unit: g
+    name: powdered gelatin
+    raw: 12 g powdered gelatin
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml whole milk
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml whole milk
+  - qty: 150
+    unit: ml
+    name: evaporated milk
+    raw: 150 ml evaporated milk
+  - qty: 60
+    unit: ml
+    name: double cream
+    raw: 60 ml double cream
+  - qty: 1
+    name: mango
+    raw: 1 ripe mango
+  - qty: 60
+    unit: ml
+    name: evaporated milk
+    raw: 60 ml evaporated milk
+  - name: mint leaves
+    raw: A few mint leaves
+  - qty: 1
+    unit: pinch
+    name: toasted coconut flakes
+    raw: A pinch of toasted coconut flakes

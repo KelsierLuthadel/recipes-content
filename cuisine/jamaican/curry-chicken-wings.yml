@@ -1,0 +1,86 @@
+prep: 15 minutes (plus 6 hours marinating, ideally overnight)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+  - meat
+  - mustard
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - nuts
+  - curry
+  - complex
+mentions:
+  - cuisine/jamaican/side-dishes/rice-and-peas
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.25
+    unit: kg
+    name: chicken wings
+    raw: 1.1-1.4 kg whole chicken wings
+  - qty: 2
+    unit: tbsp
+    name: jamaican curry powder
+    raw: 2 tablespoons Jamaican curry powder
+  - qty: 1
+    unit: tbsp
+    name: creole cajun seasoning
+    raw: 1 tablespoon Creole Cajun seasoning
+  - qty: 1
+    unit: tbsp
+    name: maggi chicken bouillon powder
+    raw: 1 tablespoon Maggi chicken bouillon powder
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    unit: tbsp
+    name: yellow mustard
+    raw: 1 tablespoon yellow mustard
+  - qty: 480
+    unit: ml
+    name: buttermilk
+    raw: 480 ml buttermilk
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: hot sauce
+    raw: Hot sauce
+  - qty: 1.5
+    unit: cup
+    name: plain flour
+    raw: 1 ½ cups plain flour
+  - qty: 0.25
+    unit: cup
+    name: cornstarch
+    raw: ¼ cup cornstarch
+  - qty: 1
+    unit: tbsp
+    name: jamaican curry powder
+    raw: 1 tablespoon Jamaican curry powder
+  - qty: 1
+    unit: tbsp
+    name: maggi chicken bouillon powder
+    raw: 1 tablespoon Maggi chicken bouillon powder
+  - qty: 1
+    unit: tbsp
+    name: creole cajun seasoning
+    raw: 1 tablespoon Creole Cajun seasoning
+  - qty: 0.25
+    unit: tsp
+    name: allspice
+    raw: ¼ teaspoon ground allspice
+  - name: peanut oil for deep-frying
+    raw: Peanut oil for deep-frying

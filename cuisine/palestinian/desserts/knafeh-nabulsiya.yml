@@ -1,0 +1,61 @@
+prep: 30 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - lemon
+  - butter
+  - cheese
+  - nuts
+mentions:
+  - cuisine/turkish/desserts/knafeh
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 500
+    unit: g
+    name: kataifi pastry
+    raw: 500 g kataifi pastry
+  - qty: 250
+    unit: g
+    name: unsalted butter
+    raw: 250 g unsalted butter , melted
+  - qty: 0.25
+    unit: tsp
+    name: orange food colouring paste
+    raw: ¼ teaspoon orange food colouring paste
+  - qty: 300
+    unit: g
+    name: mix of mozzarella
+    raw: 300 g mix of mozzarella
+  - qty: 200
+    unit: g
+    name: ricotta cheese
+    raw: 200 g ricotta cheese
+  - qty: 400
+    unit: g
+    name: caster sugar
+    raw: 400 g caster sugar
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    unit: tbsp
+    name: rosewater
+    raw: 1 tablespoon rosewater
+  - qty: 1
+    unit: tbsp
+    name: orange blossom water
+    raw: 1 tablespoon orange blossom water
+  - qty: 80
+    unit: g
+    name: shelled pistachios
+    raw: 80 g shelled pistachios

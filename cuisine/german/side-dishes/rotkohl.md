@@ -1,22 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour 15 minutes
-allergens:
-  - dairy
-  - meat
-tags:
-  - gluten-free
-  - sides
-  - meat
-  - onion
-  - butter
-mentions:
-  - cuisine/german/sauerbraten
----
-
-
-
-
 # Rotkohl
 
 ![Rotkohl](resources/rotkohl.jpg)

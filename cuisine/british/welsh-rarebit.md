@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - mustard
-tags:
-  - vegetarian
-  - quick
-  - meals
-  - eggs
-  - butter
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Welsh Rarebit
 
 ![Welsh Rarebit](resources/welsh-rarebit.jpg)

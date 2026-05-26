@@ -1,0 +1,66 @@
+prep: 10 minutes
+cook: 19 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - garlic
+  - lemon
+  - lime
+  - coriander
+  - honey
+  - chili
+mentions:
+  - tutorials/fish/whole-fish
+ingredients:
+  - qty: 1
+    name: red chilli
+    raw: 1 fresh red chilli
+  - qty: 2.5
+    name: garlic cloves
+    raw: 2-3 garlic cloves
+  - qty: 0.5
+    unit: tsp
+    name: smoked paprika
+    raw: ½ teaspoon smoked paprika
+  - qty: 0.5
+    unit: tsp
+    name: coriander
+    raw: ½ teaspoon ground coriander
+  - qty: 4
+    unit: tbsp
+    name: virgin olive oil
+    raw: 4 tablespoons extra virgin olive oil
+  - qty: 3
+    unit: tbsp
+    name: lime juice
+    raw: 3 tablespoons fresh lime juice
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon freshly ground black pepper
+  - qty: 1
+    unit: tsp
+    name: lemon juice
+    raw: 1 teaspoon fresh lemon juice
+  - qty: 0.25
+    unit: tsp
+    name: red chilli flakes
+    raw: ¼ teaspoon crushed red chilli flakes
+  - qty: 0.5
+    unit: tsp
+    name: thyme leaves
+    raw: ½ teaspoon fresh thyme leaves
+  - qty: 1
+    unit: tsp
+    name: honey
+    raw: 1 teaspoon honey

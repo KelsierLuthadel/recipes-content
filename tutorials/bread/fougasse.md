@@ -1,18 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/bread/hydration
-  - tutorials/bread/shapes
-  - tutorials/pizza/dough
----
-
-
-
 # Fougasse
 
 ![A fougasse, slashed and baked](resources/fougasse-loaf.jpg)

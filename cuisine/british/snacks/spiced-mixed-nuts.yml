@@ -1,0 +1,51 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - butter
+  - nuts
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: mixed unsalted nuts
+    raw: 500 g mixed unsalted nuts
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: rosemary
+    raw: 2 tablespoons fresh rosemary
+  - qty: 1
+    unit: tbsp
+    name: brown sugar
+    raw: 1 tablespoon brown sugar
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 0.5
+    unit: tsp
+    name: cayenne pepper
+    raw: ½ teaspoon cayenne pepper
+  - qty: 1
+    unit: tsp
+    name: flaky sea salt
+    raw: 1 teaspoon flaky sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - name: worcestershire sauce
+    raw: A few drops Worcestershire sauce

@@ -1,21 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - make-ahead
-  - baking
-  - cream
-  - chocolate
-mentions: []
----
-
-
-
-
 # Crème Chantilly
 
 ![Crème chantilly](resources/creme-chantilly.jpg)

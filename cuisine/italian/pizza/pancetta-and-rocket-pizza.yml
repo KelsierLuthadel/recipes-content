@@ -1,0 +1,52 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - quick
+  - meals
+  - meat
+  - pork
+  - tomato
+  - cheese
+mentions:
+  - cuisine/italian/pizza/pizza-sauce
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - vinaigrette/caesar-dressing
+ingredients:
+  - qty: 0.5
+    name: pizza dough
+    raw: ½ quantity pizza dough
+  - qty: 80
+    unit: g
+    name: pizza sauce
+    raw: 80 grams pizza sauce
+  - qty: 65
+    unit: g
+    name: mozzarella
+    raw: 65 grams mozzarella
+  - qty: 4
+    name: italian smoked pancetta
+    raw: 4 thin slices Italian smoked pancetta
+  - qty: 4
+    name: sun-dried tomatoes
+    raw: 4 whole sun-dried tomatoes
+  - qty: 40
+    unit: g
+    name: rocket leaves
+    raw: 40 grams rocket leaves
+  - qty: 2
+    unit: tbsp
+    name: caesar dressing
+    raw: 2 tablespoons Caesar Dressing
+  - qty: 1
+    unit: pinch
+    name: oregano
+    raw: Pinch of dried oregano
+  - qty: 15
+    unit: g
+    name: grana padano
+    raw: 15 grams Grana Padano

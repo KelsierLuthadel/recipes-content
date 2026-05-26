@@ -1,23 +1,3 @@
----
-prep: 30 minutes
-cook: 0 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - quick
-  - sides
-  - onion
-  - tomato
-  - lemon
-mentions: []
----
-
-
-
-
 # Tabbouleh
 
 ![Tabbouleh](resources/tabbouleh.jpg)

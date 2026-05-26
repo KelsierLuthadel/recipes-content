@@ -1,0 +1,47 @@
+prep: 5 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - eggs
+  - coconut
+  - butter
+  - chocolate
+  - nuts
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 125
+    unit: g
+    name: butter
+    raw: 125 grams butter
+  - qty: 125
+    unit: g
+    name: icing sugar
+    raw: 125 grams icing sugar
+  - qty: 25
+    unit: g
+    name: almonds
+    raw: 25 grams ground almonds
+  - qty: 3
+    name: egg whites
+    raw: 3 egg whites
+  - qty: 165
+    unit: g
+    name: plain flour
+    raw: 165 grams plain flour
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 200
+    unit: g
+    name: dark chocolate
+    raw: 200 grams dark chocolate
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter

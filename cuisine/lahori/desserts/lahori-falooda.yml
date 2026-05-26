@@ -1,0 +1,67 @@
+prep: 30 minutes (mostly soaking)
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - nuts
+mentions: []
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: sweet basil seeds
+    raw: 2 tablespoons sweet basil seeds
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml cold water
+  - qty: 60
+    unit: g
+    name: vermicelli
+    raw: 60 g thin vermicelli
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre boiling water
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml iced water
+  - qty: 800
+    unit: ml
+    name: milk
+    raw: 800 ml full-fat milk
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 1
+    unit: tbsp
+    name: rose water
+    raw: 1 tablespoon rose water
+  - qty: 8
+    unit: tbsp
+    name: rose syrup
+    raw: 8 tablespoons rose syrup
+  - qty: 4
+    name: vanilla ice cream
+    raw: 4 scoops vanilla ice cream
+  - qty: 30
+    unit: g
+    name: pistachios
+    raw: 30 g pistachios
+  - qty: 30
+    unit: g
+    name: almonds
+    raw: 30 g almonds
+  - qty: 2
+    unit: tbsp
+    name: glace cherries
+    raw: 2 tablespoons chopped glacé cherries

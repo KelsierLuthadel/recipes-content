@@ -1,28 +1,3 @@
----
-prep: 10 minutes (plus 20 minutes salting)
-cook: 25 minutes
-allergens:
-  - peanuts
-  - fish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - sides
-  - fish
-  - onion
-  - garlic
-  - ginger
-  - coriander
-  - nuts
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Kayan Thee Hnut
 
 ![Kayan Thee Hnut](resources/kayan-thee-hnut.jpg)

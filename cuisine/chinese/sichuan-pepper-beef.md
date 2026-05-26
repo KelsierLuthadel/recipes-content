@@ -1,34 +1,3 @@
----
-prep: 20 minutes
-cook: 1 minute
-allergens:
-  - peanuts
-  - soy
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - beef
-  - onion
-  - garlic
-  - carrot
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sichuan Pepper Beef
 
 ![Sichuan Pepper Beef](resources/sichuan.jpg)

@@ -1,21 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - mustard
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - spices
-  - onion
-mentions: []
----
-
-
-
-
 # Panch Phoram (Bengali Five-Spice)
 
 ![Panch Phoram](resources/panch.jpg)

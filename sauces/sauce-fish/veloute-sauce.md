@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - fish
-  - meat
-tags:
-  - meat
-  - fish
-  - butter
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Velouté Sauce
 
 ![Velouté sauce](resources/veloute.jpg)

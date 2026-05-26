@@ -1,31 +1,3 @@
----
-prep: 45 minutes (plus 30 min dough rest)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - spicy
-  - snack
-  - asian
-  - ginger
-  - potato
-  - lemon
-  - coriander
-  - chili
-  - complex
-  - holi
-  - hindu
-mentions:
-  - cuisine/indian/side-dishes/keema-samosa
-  - cuisine/indian/side-dishes/samosa
-  - tutorials/pizza/dough
----
-
-
-
-
 # Samosa
 
 ![Samosa](resources/samosa.jpg)

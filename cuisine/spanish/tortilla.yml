@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - butter
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: new potatoes
+    raw: 250 grams baby new potatoes
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - qty: 1
+    name: chorizo sausage
+    raw: 1 chorizo sausage
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

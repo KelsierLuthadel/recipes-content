@@ -1,31 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - potato
-  - coriander
-  - chili
-  - curry
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Easy Ugandan Curry Potatoes
 
 ![Easy Ugandan Curry Potatoes](resources/curry-potatoes.jpg)

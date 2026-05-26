@@ -1,0 +1,34 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - baking
+  - eggs
+  - butter
+mentions:
+  - tutorials/patisserie/petit-fours
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: flour
+    raw: 250 grams flour
+  - qty: 100
+    unit: g
+    name: butter
+    raw: 100 grams butter
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 grams icing sugar
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: 1 pinch salt
+  - qty: 2
+    name: size 4 eggs
+    raw: 2 size 4 eggs

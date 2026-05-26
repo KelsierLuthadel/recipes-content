@@ -1,0 +1,47 @@
+prep: 5 minutes
+cook: 7 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - beef
+  - rice
+  - cream
+  - cheese
+mentions:
+  - cuisine/mexican/side-dishes/pico-de-gallo
+  - cuisine/mexican/side-dishes/refried-beans
+  - cuisine/mexican/side-dishes/spiced-rice
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 1
+    name: extra-large flour tortilla
+    raw: 1 extra-large flour tortilla
+  - qty: 1
+    name: spiced minced beef
+    raw: 1 portion cooked spiced minced beef
+  - qty: 1
+    name: spiced rice
+    raw: 1 portion Spiced Rice
+  - qty: 1
+    unit: handful
+    name: fried tortilla chips
+    raw: 1 handful fried tortilla chips
+  - qty: 40
+    unit: ml
+    name: nacho cheese sauce
+    raw: 40ml nacho cheese sauce
+  - qty: 2
+    unit: tbsp
+    name: chile de arbol red salsa
+    raw: 2 tablespoons chile de árbol red salsa
+  - qty: 1
+    unit: tbsp
+    name: sour cream
+    raw: 1 tablespoon sour cream

@@ -1,0 +1,90 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - bbq
+  - meat
+  - chicken
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - butter
+  - cheese
+  - yogurt
+  - chickpea
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 800
+    unit: g
+    name: pre-cooked chicken
+    raw: 800 g Pre-Cooked Chicken
+  - qty: 2
+    name: fenugreek leaves*
+    raw: 2 large bunches fresh fenugreek leaves*
+  - qty: 3
+    unit: tbsp
+    name: rapeseed oil or mustard oil
+    raw: 3 tbsp rapeseed oil or mustard oil
+  - qty: 1
+    unit: tbsp
+    name: cumin seeds
+    raw: 1 tbsp cumin seeds
+  - qty: 250
+    unit: g
+    name: greek yoghurt
+    raw: 250 g Greek yoghurt
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp garlic and ginger paste
+  - qty: 5
+    unit: tbsp
+    name: coriander leaves
+    raw: 5 tbsp finely chopped coriander leaves
+  - qty: 1
+    unit: tbsp
+    name: green chilli paste
+    raw: 1 tbsp green chilli paste
+  - qty: 1
+    unit: tbsp
+    name: red chilli powder
+    raw: 1 tbsp red chilli powder
+  - qty: 1
+    unit: tbsp
+    name: garam masala
+    raw: 1 tbsp Garam Masala
+  - qty: 1
+    unit: tbsp
+    name: flour
+    raw: 1 tbsp gram flour
+  - qty: 3
+    unit: tbsp
+    name: cream cheese
+    raw: 3 tbsp cream cheese
+  - qty: 1
+    unit: tbsp
+    name: rapeseed oil
+    raw: 1 tbsp rapeseed oil
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter, melted
+  - name: salt
+    raw: Salt, to taste

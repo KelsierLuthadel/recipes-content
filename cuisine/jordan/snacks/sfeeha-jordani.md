@@ -1,33 +1,3 @@
----
-prep: 40 minutes (plus 1 hour dough rise)
-cook: 12 minutes per batch
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - snack
-  - make-ahead
-  - meat
-  - beef
-  - lamb
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - yogurt
-  - nuts
-  - complex
-mentions:
-  - cuisine/syria/side-dishes/sfeeha
-  - tutorials/pizza/dough
----
-
-
-
-
 # Sfeeha Jordani
 
 ![Sfeeha Jordani](resources/sfeeha-jordani.jpg)

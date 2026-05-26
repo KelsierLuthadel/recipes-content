@@ -1,26 +1,3 @@
----
-prep: 1 hour
-cook: 1 hour
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - snack
-  - make-ahead
-  - rice
-  - onion
-  - lemon
-  - yogurt
-  - nuts
-  - complex
-mentions: []
----
-
-
-
-
 # Dolmadakia (Greek Stuffed Vine Leaves)
 
 ![Dolmadakia](resources/dolmadakia.jpg)

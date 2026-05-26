@@ -1,0 +1,71 @@
+prep: 30 minutes (plus 1 hour rising)
+cook: 25 minutes (in batches)
+allergens:
+  - gluten
+  - tree-nuts
+  - sesame
+tags:
+  - vegetarian
+  - dairy-free
+  - dessert
+  - lemon
+  - honey
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 7
+    unit: g
+    name: instant yeast
+    raw: 7 g instant yeast
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml warm water
+  - qty: 200
+    unit: g
+    name: clear honey
+    raw: 200 g clear honey
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 1
+    name: strip lemon peel
+    raw: 1 strip lemon peel
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    unit: l
+    name: neutral oil
+    raw: 1 litre neutral oil for deep frying
+  - qty: 80
+    unit: g
+    name: walnuts
+    raw: 80 g walnuts
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 2
+    unit: tbsp
+    name: sesame seeds
+    raw: 2 tablespoons sesame seeds

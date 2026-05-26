@@ -1,0 +1,52 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - garlic
+  - lemon
+  - yogurt
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 60
+    unit: g
+    name: rocket leaves
+    raw: 60 grams rocket leaves
+  - qty: 150
+    unit: g
+    name: greek yoghurt
+    raw: 150 grams Greek yoghurt
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 3
+    unit: tsp
+    name: horseradish
+    raw: 3 teaspoons fresh horseradish
+  - qty: 2
+    unit: tbsp
+    name: virgin olive oil
+    raw: 2 tablespoons extra virgin olive oil
+  - qty: 2
+    unit: tbsp
+    name: milk
+    raw: 2 tablespoons milk
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: clove
+    name: garlic
+    raw: 1 clove garlic
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

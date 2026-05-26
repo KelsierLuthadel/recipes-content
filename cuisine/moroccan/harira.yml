@@ -1,0 +1,107 @@
+prep: 20 minutes
+cook: 1 ½ hours
+allergens:
+  - gluten
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - lentils
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - chickpea
+  - complex
+  - ramadan
+  - muslim
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: lamb shoulder
+    raw: 400 g lamb shoulder
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    name: celery sticks
+    raw: 4 celery sticks
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon grated ginger
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: A pinch of saffron threads
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 800
+    unit: g
+    name: tomatoes
+    raw: 800 g tinned chopped tomatoes
+  - qty: 200
+    unit: g
+    name: chickpeas
+    raw: 200 g tinned chickpeas
+  - qty: 100
+    unit: g
+    name: brown lentils
+    raw: 100 g brown lentils
+  - qty: 1.5
+    unit: l
+    name: chicken
+    raw: 1 ½ litres chicken
+  - qty: 100
+    unit: g
+    name: vermicelli noodles
+    raw: 100 g vermicelli noodles
+  - qty: 1
+    name: coriander
+    raw: A small bunch of fresh coriander
+  - qty: 1
+    name: parsley
+    raw: A small bunch of fresh parsley
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - name: salt
+    raw: Salt
+  - name: lemon wedges
+    raw: Lemon wedges, to serve

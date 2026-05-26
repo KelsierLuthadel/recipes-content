@@ -1,35 +1,3 @@
----
-prep: 45 minutes
-cook: 50 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - meals
-  - meat
-  - chicken
-  - eggs
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - butter
-  - nuts
-  - complex
-mentions:
-  - baking/pastry/filo-pastry
-  - tutorials/pastry/filo
-  - tutorials/pizza/sauce
----
-
-
-
-
 # b'Stilla
 
 ![B'stilla](resources/bstilla.jpg)

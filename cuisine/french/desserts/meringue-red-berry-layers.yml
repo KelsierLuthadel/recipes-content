@@ -1,0 +1,37 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - tree-nuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - dessert
+  - make-ahead
+  - lemon
+  - nuts
+mentions:
+  - base-ingredients/syrup/sirop-a-sorbet
+  - tutorials/eggs/meringues
+ingredients:
+  - qty: 275
+    unit: g
+    name: meringue francaise
+    raw: 275 grams meringue Francaise
+  - qty: 50
+    unit: g
+    name: flaked almonds
+    raw: 50 grams flaked almonds
+  - qty: 400
+    unit: ml
+    name: syrup for sorbet
+    raw: 400 ml Syrup for Sorbet
+  - qty: 500
+    unit: g
+    name: mixed berries
+    raw: 500 grams ripe mixed berries
+  - qty: 1
+    name: lemon
+    raw: 1 lemon

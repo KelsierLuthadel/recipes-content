@@ -1,36 +1,3 @@
----
-prep: 30 minutes
-cook: 20 minutes
-allergens:
-  - soy
-  - sesame
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - asian
-  - meat
-  - fish
-  - pork
-  - prawn
-  - mushroom
-  - garlic
-  - ginger
-  - potato
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mala Dry-Pot (Ganguo)
 
 ![Mala Dry-Pot (Ganguo)](resources/mala-dry-pot.jpg)

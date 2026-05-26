@@ -1,0 +1,84 @@
+prep: 25 minutes (plus 12 hours soaking)
+cook: 20 minutes
+allergens:
+  - gluten
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - coriander
+  - chickpea
+  - chili
+  - complex
+  - ramadan
+  - tu-bav
+  - jewish
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: chickpeas
+    raw: 400 g dried chickpeas
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: parsley
+    raw: 1 large bunch fresh parsley
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 2
+    unit: tbsp
+    name: coriander seed
+    raw: 2 tablespoons ground coriander seed
+  - qty: 1.5
+    unit: tsp
+    name: cumin
+    raw: 1 ½ teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 2
+    unit: tbsp
+    name: sesame seeds
+    raw: 2 tablespoons sesame seeds
+  - qty: 1.5
+    unit: l
+    name: vegetable oil
+    raw: 1 ½ litres vegetable oil
+  - name: warm pita
+    raw: Warm pita
+  - name: hummus
+    raw: Hummus
+  - name: tahina sauce
+    raw: Tahina sauce
+  - name: salata baladi
+    raw: Salata Baladi
+  - name: pickled cucumbers
+    raw: Pickled cucumbers, pickled turnips
+  - name: zhug
+    raw: Zhug

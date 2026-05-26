@@ -1,0 +1,129 @@
+prep: 45 minutes (plus 30 min dough rest)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - snack
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - lime
+  - coriander
+  - yogurt
+  - chili
+  - complex
+  - diwali
+  - eid-al-fitr
+  - ramadan
+  - holi
+  - muslim
+mentions:
+  - cuisine/afghanistan/snacks/aushak
+  - cuisine/indian/sauces-pickles/mint-chutney
+  - cuisine/indian/side-dishes/samosa
+  - cuisine/indian/snacks/samosa
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: ajwain seeds
+    raw: 1 teaspoon ajwain seeds
+  - qty: 100
+    unit: g
+    name: ghee
+    raw: 100 g ghee
+  - qty: 190
+    unit: ml
+    name: water
+    raw: 180-200 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g ground beef
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1.5
+    unit: tsp
+    name: garam masala
+    raw: 1 ½ teaspoons Garam Masala
+  - qty: 1.5
+    unit: tsp
+    name: cumin
+    raw: 1 ½ teaspoons ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: coriander
+    raw: 1 ½ teaspoons ground coriander
+  - qty: 1
+    unit: tsp
+    name: kashmiri red chilli powder
+    raw: 1 teaspoon Kashmiri red chilli powder
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 150
+    unit: g
+    name: peas
+    raw: 150 g frozen peas
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 2
+    unit: tbsp
+    name: plain flour mixed with 3 tablespoons cold water
+    raw: 2 tablespoons plain flour mixed with 3 tablespoons cold water
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - name: tamarind chutney
+    raw: Tamarind Chutney
+  - name: green mint chutney
+    raw: Green mint chutney
+  - name: lime wedges
+    raw: Lime wedges
+  - name: red onion
+    raw: Sliced raw red onion

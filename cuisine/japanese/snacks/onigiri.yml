@@ -1,0 +1,70 @@
+prep: 15 minutes
+cook: 20 minutes (for the rice)
+allergens:
+  - soy
+  - sesame
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - snack
+  - meat
+  - fish
+  - salmon
+  - rice
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: short-grain japanese rice
+    raw: 400 g short-grain Japanese rice
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 4
+    name: umeboshi plums
+    raw: 4 umeboshi plums
+  - qty: 200
+    unit: g
+    name: salmon fillet + 1 teaspoon salt
+    raw: 200 g fresh salmon fillet + 1 teaspoon salt
+  - qty: 110
+    unit: g
+    name: tuna in oil
+    raw: 110 g tuna in oil
+  - qty: 2
+    unit: tbsp
+    name: japanese mayonnaise
+    raw: 2 tablespoons Japanese mayonnaise
+  - qty: 1
+    unit: tsp
+    name: light soy sauce
+    raw: 1 teaspoon light soy sauce
+  - qty: 30
+    unit: g
+    name: kombu seaweed simmered in soy sauce
+    raw: 30 g kombu seaweed simmered in soy sauce, sugar and mirin
+  - name: water
+    raw: Cold water
+  - qty: 1
+    unit: tsp
+    name: flaky salt
+    raw: 1 teaspoon flaky salt
+  - qty: 4
+    name: sheets of nori
+    raw: 4 sheets of nori
+  - qty: 1
+    unit: tsp
+    name: toasted white sesame seeds
+    raw: 1 teaspoon toasted white sesame seeds
+  - qty: 1
+    unit: tsp
+    name: furikake
+    raw: 1 teaspoon furikake

@@ -1,22 +1,3 @@
----
-prep: 5 minutes (plus 1 hour batter rest)
-cook: 12 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - snack
-  - make-ahead
-  - lemon
-  - chickpea
-mentions: []
----
-
-
-
-
 # Socca
 
 ![Socca](resources/socca.jpg)

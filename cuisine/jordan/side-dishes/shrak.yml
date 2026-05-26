@@ -1,0 +1,30 @@
+prep: 25 minutes (plus 30 minutes resting)
+cook: 15 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - sides
+mentions:
+  - cuisine/jordan/mansaf
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water

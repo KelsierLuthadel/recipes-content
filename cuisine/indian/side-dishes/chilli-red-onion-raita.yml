@@ -1,0 +1,46 @@
+prep: 10 minutes
+cook: 1 minute
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - onion
+  - garlic
+  - coriander
+  - yogurt
+  - chili
+mentions: []
+ingredients:
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    name: green chilli
+    raw: 1 fresh green chilli
+  - qty: 150
+    unit: ml
+    name: natural yoghurt
+    raw: 150 ml natural yoghurt
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons coriander
+  - qty: 0.5
+    unit: tbsp
+    name: granulated sugar
+    raw: ½ tablespoon granulated sugar
+  - name: salt
+    raw: salt to taste

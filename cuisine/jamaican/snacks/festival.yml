@@ -1,0 +1,55 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - snack
+  - coconut
+  - butter
+mentions:
+  - cuisine/jamaican/jerk-chicken
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 150
+    unit: g
+    name: cornmeal
+    raw: 150 g fine cornmeal
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - qty: 30
+    unit: g
+    name: cold butter
+    raw: 30 g cold butter, cubed
+  - qty: 190
+    unit: ml
+    name: milk
+    raw: 180-200 ml whole milk
+  - qty: 500
+    unit: ml
+    name: vegetable oil
+    raw: 500 ml vegetable oil

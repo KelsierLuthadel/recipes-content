@@ -1,0 +1,33 @@
+prep: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - cream
+mentions: []
+ingredients:
+  - qty: 0.5
+    name: sheets of gelatine
+    raw: ½ sheets of gelatine
+  - qty: 400
+    unit: g
+    name: raspberries
+    raw: 400 grams raspberries
+  - qty: 120
+    unit: g
+    name: meringue italienne
+    raw: 120 grams meringue Italienne
+  - qty: 100
+    unit: ml
+    name: whipping cream
+    raw: 100 ml whipping cream
+  - qty: 2
+    unit: tbsp
+    name: raspberry eau-de-vie
+    raw: 2 tablespoons raspberry eau-de-vie
+  - qty: 18
+    name: raspberries
+    raw: 18 raspberries to finish

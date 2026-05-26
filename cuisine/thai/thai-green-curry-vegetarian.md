@@ -1,37 +1,3 @@
----
-prep: 25 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-  - soy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - asian
-  - tofu
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - coconut
-  - lime
-  - coriander
-  - chili
-  - soy-sauce
-  - curry
-  - complex
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/thai-curry/green
----
-
-
-
-
 # Thai Green Curry (Vegetarian)
 
 ![Thai Green Curry (Vegetarian)](resources/thai-green-curry-vegetarian.jpg)

@@ -1,39 +1,3 @@
----
-prep: 10 minutes
-cook: 20 minutes
-allergens:
-  - dairy
-  - fish
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - fish
-  - chicken
-  - garlic
-  - tomato
-  - coconut
-  - potato
-  - carrot
-  - coriander
-  - chili
-  - curry
-mentions:
-  - cuisine/indian/BIR-chicken-curry
-  - cuisine/thai/pastes/thai-yellow-curry-paste
-  - tutorials/bread/gluten
-  - tutorials/pizza/sauce
-  - tutorials/thai-curry/yellow
----
-
-
-
-
 # Yellow Chicken Curry
 
 ![Yellow Chicken Curry](resources/yellow-chicken-curry.jpg)

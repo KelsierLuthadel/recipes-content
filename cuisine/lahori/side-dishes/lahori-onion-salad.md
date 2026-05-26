@@ -1,25 +1,3 @@
----
-prep: 10 minutes (plus 15 minutes soak)
-cook: 0 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - sides
-  - onion
-  - lemon
-  - coriander
-  - chili
-mentions: []
----
-
-
-
-
 # Lahori Onion Salad
 
 ![Lahori Onion Salad](resources/lahori-onion-salad.jpg)

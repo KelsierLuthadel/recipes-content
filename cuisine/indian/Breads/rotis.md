@@ -1,20 +1,3 @@
----
-prep: 30 minutes
-cook: 5 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - asian
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Rotis
 
 ![Rotis](resources/rotis.jpg)

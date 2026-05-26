@@ -1,0 +1,85 @@
+prep: 20 minutes
+cook: 29 minutes
+allergens:
+  - gluten
+  - dairy
+  - peanuts
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - mushroom
+  - onion
+  - garlic
+  - carrot
+  - butter
+  - nuts
+  - complex
+  - valentines
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: red wine
+    raw: 1 bottle of red wine
+  - qty: 750
+    unit: ml
+    name: beef broth
+    raw: 750 ml beef broth
+  - name: peanut oil
+    raw: Peanut oil
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 grams butter
+  - qty: 900
+    unit: g
+    name: rump pot roast
+    raw: 900 grams rump pot roast
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    unit: tbsp
+    name: flour
+    raw: 2 tablespoons flour
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic
+  - name: pepper
+    raw: Crushed pepper
+  - name: salt
+    raw: Salt to taste
+  - qty: 16
+    name: cippoline onions
+    raw: 16 cippoline onions
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon sea salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 125
+    unit: g
+    name: lardons
+    raw: 125 grams lardons
+  - qty: 150
+    unit: g
+    name: button cup mushrooms
+    raw: 150 grams button cup mushrooms
+  - qty: 1
+    unit: tbsp
+    name: parsley
+    raw: 1 tablespoon parsley

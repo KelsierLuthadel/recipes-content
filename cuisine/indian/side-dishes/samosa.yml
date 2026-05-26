@@ -1,0 +1,62 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - potato
+  - coriander
+  - curry
+mentions:
+  - baking/pastry/filo-pastry
+  - cuisine/indian/sauces-pickles/mint-chutney
+  - tutorials/pastry/filo
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 300
+    unit: g
+    name: chicken
+    raw: 300 grams minced chicken
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: tbsp
+    name: curry powder
+    raw: 1 tablespoon medium Curry Powder
+  - qty: 50
+    unit: g
+    name: potato
+    raw: 50 grams cooked potato
+  - qty: 4
+    unit: tbsp
+    name: coriander leaves
+    raw: 4 tablespoons fresh coriander leaves
+  - qty: 4
+    unit: tbsp
+    name: mint leaves
+    raw: 4 tablespoons fresh mint leaves
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 5
+    name: sheets filo pastry
+    raw: 5 sheets filo pastry
+  - qty: 1
+    name: egg
+    raw: 1 egg

@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 9 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - onion
-  - garlic
-  - ginger
-  - lime
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Jamaican Jerk Marinade
 
 ![Jamaican Jerk](resources/jamaican-jerk.jpg)

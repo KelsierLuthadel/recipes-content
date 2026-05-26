@@ -1,0 +1,29 @@
+prep: 15 minutes
+cook: 2 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+tags:
+  - quick
+  - snack
+  - meat
+  - pork
+  - butter
+mentions: []
+ingredients:
+  - qty: 12
+    name: filo squares
+    raw: 12 filo squares
+  - qty: 12
+    name: parma ham
+    raw: 12 very thin slices Parma ham
+  - qty: 100
+    unit: g
+    name: butter
+    raw: 100 grams butter
+  - qty: 30
+    unit: g
+    name: dijon mustard
+    raw: 30 grams strong Dijon mustard

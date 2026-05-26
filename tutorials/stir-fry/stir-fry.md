@@ -1,24 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - cuisine/chinese/fried-rice
-  - cuisine/chinese/kung-pao-chicken
-  - cuisine/chinese/sichuan-pepper-beef
-  - tutorials/pizza/sauce
-  - tutorials/rice/fried-rice-technique
-  - tutorials/rice/rice
-  - tutorials/stir-fry/ingredient-order
-  - tutorials/stir-fry/wok-hei
-  - tutorials/stir-fry/wok-setup
----
-
-
-
 # Stir-Fry and Wok Work
 
 ![Wok](resources/wok.jpg)

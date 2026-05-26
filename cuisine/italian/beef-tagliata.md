@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - quick
-  - meals
-  - meat
-  - beef
-  - garlic
-  - lemon
-  - cheese
-mentions: []
----
-
-
-
-
 # Beef Tagliata
 
 ![Beef Tagliata](resources/beef-tagliata.jpg)

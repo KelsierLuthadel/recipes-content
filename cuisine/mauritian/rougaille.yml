@@ -1,0 +1,77 @@
+prep: 15 minutes
+cook: 40 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - chili
+mentions:
+  - cuisine/mauritian/dholl-puri
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: smoked pork sausages
+    raw: 500 g smoked pork sausages
+  - qty: 3
+    unit: tbsp
+    name: neutral oil
+    raw: 3 tbsp neutral oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 2.5
+    unit: sprig
+    name: thyme
+    raw: 2-3 sprigs fresh thyme
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 6
+    name: tomatoes
+    raw: 6 ripe medium tomatoes
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tbsp tomato paste
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 0.75
+    unit: tsp
+    name: salt
+    raw: ¾ tsp salt
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml water
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: Small handful chopped fresh coriander
+  - qty: 3
+    name: spring onions
+    raw: 3 spring onions

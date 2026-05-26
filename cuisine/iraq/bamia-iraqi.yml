@@ -1,0 +1,87 @@
+prep: 15 minutes
+cook: 1 hour 45 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - lime
+  - coriander
+  - butter
+  - complex
+mentions:
+  - cuisine/iraq/timman-ahmar
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 700
+    unit: g
+    name: lamb shoulder
+    raw: 700 g lamb shoulder
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: baharat
+    raw: 2 tablespoons Baharat
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato puree
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 2
+    unit: tbsp
+    name: tamarind paste
+    raw: 2 tablespoons tamarind paste
+  - qty: 2
+    name: black limes
+    raw: 2 dried black limes
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 600
+    unit: ml
+    name: stock
+    raw: 600 ml hot stock
+  - qty: 600
+    unit: g
+    name: okra
+    raw: 600 g small whole okra
+  - qty: 3
+    unit: tbsp
+    name: samna
+    raw: 3 tablespoons samna
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 4
+    name: timman ahmar or plain basmati
+    raw: 4 servings cooked timman ahmar or plain basmati
+  - name: lemon wedges
+    raw: Lemon wedges

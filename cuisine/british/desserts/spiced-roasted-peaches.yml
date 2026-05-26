@@ -1,0 +1,31 @@
+prep: 10 minutes
+cook: 17 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - dessert
+  - lemon
+  - honey
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 6
+    unit: tbsp
+    name: runny honey
+    raw: 6 tablespoons runny honey
+  - qty: 4
+    name: star anise
+    raw: 4 star anise
+  - qty: 6
+    name: peaches
+    raw: 6 peaches
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - qty: 1
+    unit: small pinch
+    name: nutmeg
+    raw: small pinch of freshly grated nutmeg

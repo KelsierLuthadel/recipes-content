@@ -1,0 +1,66 @@
+prep: 10 minutes
+cook: 45 minutes (roasting beets)
+allergens:
+  - dairy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - garlic
+  - lemon
+  - yogurt
+mentions:
+  - cuisine/arabian/mutabbal
+ingredients:
+  - qty: 500
+    unit: g
+    name: beetroots
+    raw: 500 g medium beetroots
+  - qty: 4
+    unit: tbsp
+    name: tahini
+    raw: 4 tablespoons tahini
+  - qty: 2
+    unit: tbsp
+    name: greek yogurt
+    raw: 2 tablespoons Greek yogurt
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    unit: tbsp
+    name: tahini
+    raw: 1 tablespoon tahini
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    unit: tsp
+    name: sumac
+    raw: 1 teaspoon sumac
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons fresh parsley
+  - qty: 2
+    unit: tbsp
+    name: pomegranate seeds
+    raw: 2 tablespoons pomegranate seeds

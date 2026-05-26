@@ -1,23 +1,3 @@
----
-prep: 15 minutes (plus 1 hour 30 minutes rising)
-cook: 20 minutes (with a hot stone)
-allergens:
-  - gluten
-  - sesame
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - make-ahead
-  - sides
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Naan-E Afghani
 
 ![Naan-e Afghani](resources/naan-e-afghani.jpg)

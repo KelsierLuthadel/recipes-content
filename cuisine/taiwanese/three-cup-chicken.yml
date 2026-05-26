@@ -1,0 +1,69 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - rice
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: chicken thigh chopped through the bone into 4 cm pieces
+    raw: 800 g bone-in, skin-on chicken thigh, chopped through the bone into 4 cm pieces
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon white pepper
+  - qty: 4
+    unit: tbsp
+    name: toasted sesame oil
+    raw: 4 tablespoons toasted sesame oil
+  - qty: 6
+    name: ginger
+    raw: 6 cm fresh ginger
+  - qty: 10
+    name: garlic cloves
+    raw: 10 garlic cloves
+  - qty: 3
+    name: red chillies
+    raw: 3 dried red chillies
+  - qty: 4
+    unit: tbsp
+    name: light soy sauce
+    raw: 4 tablespoons light soy sauce
+  - qty: 4
+    unit: tbsp
+    name: shaoxing rice wine
+    raw: 4 tablespoons Shaoxing rice wine
+  - qty: 2
+    unit: tbsp
+    name: dark soy sauce
+    raw: 2 tablespoons dark soy sauce
+  - qty: 1
+    unit: tbsp
+    name: rock sugar
+    raw: 1 tablespoon rock sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 30
+    unit: g
+    name: thai holy basil
+    raw: 30 g Thai holy basil
+  - name: steamed jasmine rice
+    raw: Steamed jasmine rice

@@ -1,29 +1,3 @@
----
-prep: 10 minutes
-cook: 2 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - quick
-  - sides
-  - asian
-  - onion
-  - coriander
-  - chickpea
-  - curry
-mentions:
-  - cuisine/indian/sauces-pickles/cucumber-raita
-  - cuisine/indian/side-dishes/cucumber-raita
-  - cuisine/indian/snacks/onion-bahjis
----
-
-
-
-
 # Onion Bhajis
 
 ![Onion Bhajis](resources/onionbhajji.jpg)

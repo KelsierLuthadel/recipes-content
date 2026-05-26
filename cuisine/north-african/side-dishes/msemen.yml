@@ -1,0 +1,49 @@
+prep: 40 minutes (plus 30 min dough rest)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - sides
+  - butter
+  - honey
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: semolina
+    raw: 200 g fine semolina
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: fast-action yeast
+    raw: 1 teaspoon fast-action yeast
+  - qty: 270
+    unit: ml
+    name: water
+    raw: 270 ml warm water
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - name: semolina
+    raw: Extra fine semolina, for dusting
+  - name: sunflower oil
+    raw: Sunflower oil, for the work surface
+  - name: clear honey
+    raw: Clear honey, butter, jam, or alongside savoury tagine

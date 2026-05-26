@@ -1,0 +1,35 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - make-ahead
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: white flour
+    raw: 500 grams strong white flour
+  - qty: 1
+    unit: tbsp
+    name: sea salt
+    raw: 1 tablespoon fine sea salt
+  - qty: 14
+    unit: g
+    name: fast-acting dried yeast
+    raw: 14 grams fast-acting dried yeast
+  - qty: 50
+    unit: ml
+    name: virgin olive oil
+    raw: 50 ml extra virgin olive oil
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml warm water
+  - name: flour for dusting
+    raw: Extra flour for dusting

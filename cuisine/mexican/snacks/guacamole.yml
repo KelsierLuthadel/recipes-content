@@ -1,0 +1,41 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - onion
+  - tomato
+  - lime
+  - coriander
+  - chili
+  - day-of-the-dead
+mentions: []
+ingredients:
+  - qty: 3
+    name: avocados
+    raw: 3 ripe avocados
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - qty: 1
+    name: jalapeno
+    raw: 1 jalapeño
+  - qty: 1
+    name: coriander
+    raw: A small bunch of fresh coriander
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 1
+    unit: tsp
+    name: flaky sea salt
+    raw: 1 teaspoon flaky sea salt
+  - qty: 1
+    name: tomato
+    raw: 1 ripe tomato

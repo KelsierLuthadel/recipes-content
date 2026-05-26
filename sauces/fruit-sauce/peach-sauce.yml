@@ -1,0 +1,54 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meat
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: peaches
+    raw: 2 very ripe peaches
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 grams butter
+  - qty: 30
+    unit: g
+    name: caster sugar
+    raw: 30 grams caster sugar
+  - qty: 20
+    unit: ml
+    name: cognac
+    raw: 20 ml cognac
+  - qty: 3
+    unit: tbsp
+    name: red wine vinegar
+    raw: 3 tablespoons red wine vinegar
+  - qty: 100
+    unit: ml
+    name: red wine
+    raw: 100 ml red wine
+  - qty: 300
+    unit: ml
+    name: veal stock
+    raw: 300 ml veal stock
+  - qty: 1
+    name: clove
+    raw: 1 clove
+  - qty: 2
+    unit: tsp
+    name: fennel seeds
+    raw: 2 teaspoons fennel seeds
+  - qty: 40
+    unit: g
+    name: butter
+    raw: 40 grams butter
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

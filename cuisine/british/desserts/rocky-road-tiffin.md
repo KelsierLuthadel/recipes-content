@@ -1,23 +1,3 @@
----
-prep: 20 minutes (plus 2 hours chilling)
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - butter
-  - chocolate
-  - nuts
-  - complex
-mentions:
-  - cuisine/american/desserts/rocky-road
----
-
-
-
-
 # Rocky Road Tiffin
 
 ![Rocky Road Tiffin](resources/rocky-road-tiffin.jpg)

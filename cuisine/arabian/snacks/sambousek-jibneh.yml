@@ -1,0 +1,99 @@
+prep: 30 minutes (plus 20 min dough rest)
+cook: 12 minutes (fried) OR 18 minutes (baked)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - onion
+  - cheese
+  - yogurt
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 100
+    unit: ml
+    name: sunflower oil
+    raw: 100 ml sunflower oil
+  - qty: 100
+    unit: g
+    name: greek yogurt
+    raw: 100 g Greek yogurt
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: tsp
+    name: white wine vinegar
+    raw: 1 teaspoon white wine vinegar
+  - qty: 65
+    unit: ml
+    name: water
+    raw: 50-80 ml cold water
+  - qty: 150
+    unit: g
+    name: mozzarella
+    raw: 150 g low-moisture mozzarella
+  - qty: 50
+    unit: g
+    name: halloumi
+    raw: 50 g halloumi
+  - qty: 100
+    unit: g
+    name: feta cheese
+    raw: 100 g feta cheese
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 3
+    unit: tbsp
+    name: parsley
+    raw: 3 tablespoons fresh parsley
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    unit: tbsp
+    name: mint or 1 teaspoon dried mint
+    raw: 1 tablespoon fresh mint or 1 teaspoon dried mint
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: A pinch of nutmeg
+  - qty: 1
+    unit: tsp
+    name: nigella seeds
+    raw: 1 teaspoon nigella seeds
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    unit: tbsp
+    name: sesame seeds
+    raw: 1 tablespoon sesame seeds
+  - qty: 1
+    unit: tbsp
+    name: black sesame seeds
+    raw: 1 tablespoon black sesame seeds
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil

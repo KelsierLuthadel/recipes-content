@@ -1,0 +1,60 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - bbq
+  - onion
+  - lime
+  - cheese
+  - chili
+mentions: []
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: watermelon
+    raw: 1.2 kg ripe watermelon, rind and seeds removed, cut into 2 cm cubes
+  - qty: 200
+    unit: g
+    name: greek feta in brine
+    raw: 200 g Greek feta in brine, drained and crumbled into chunks
+  - qty: 0.5
+    name: red onion
+    raw: ½ small red onion, very thinly sliced
+  - qty: 1
+    unit: large handful
+    name: mint leaves
+    raw: 1 large handful fresh mint leaves, torn
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley leaves
+    raw: 1 small handful flat-leaf parsley leaves
+  - qty: 3
+    unit: tbsp
+    name: virgin olive oil
+    raw: 3 tbsp extra virgin olive oil
+  - qty: 2
+    unit: tbsp
+    name: lime juice
+    raw: 2 tbsp fresh lime juice
+  - qty: 1
+    unit: tsp
+    name: lime zest
+    raw: 1 tsp lime zest
+  - qty: 0.5
+    unit: tsp
+    name: flaky sea salt
+    raw: ½ tsp flaky sea salt
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - name: mint leaves
+    raw: Extra mint leaves
+  - qty: 1
+    unit: pinch
+    name: chilli flakes
+    raw: A pinch of chilli flakes

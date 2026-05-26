@@ -1,22 +1,3 @@
----
-prep: 30 minutes
-cook: 2 hours (much of it under the grill)
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - coconut
-  - complex
-mentions: []
----
-
-
-
-
 # Bebinca
 
 ![Bebinca](resources/bebinca.jpg)

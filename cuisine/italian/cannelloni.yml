@@ -1,0 +1,75 @@
+prep: 10 minutes
+cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - spinach
+  - butter
+  - cheese
+mentions:
+  - bread-pasta/pasta
+  - cuisine/italian/pesto
+  - tutorials/pasta/fresh-pasta-dough
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: pasta dough
+    raw: 400 grams fresh pasta dough
+  - qty: 720
+    unit: ml
+    name: passata
+    raw: 720 ml passata
+  - qty: 15
+    name: basil leaves
+    raw: 15 fresh basil leaves
+  - qty: 30
+    unit: g
+    name: pecorino cheese
+    raw: 30 grams Pecorino cheese
+  - qty: 500
+    unit: g
+    name: ricotta cheese
+    raw: 500 grams ricotta cheese
+  - qty: 150
+    unit: g
+    name: spinach
+    raw: 150 grams frozen spinach
+  - qty: 150
+    unit: g
+    name: rocket leaves
+    raw: 150 grams rocket leaves
+  - qty: 60
+    unit: g
+    name: pecorino cheese
+    raw: 60 grams Pecorino cheese
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon nutmeg
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 100
+    unit: g
+    name: salted butter
+    raw: 100 grams salted butter
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 grams plain flour
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre full-fat milk
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon nutmeg

@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-  - tree-nuts
-  - fish
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - fish
-  - onion
-  - garlic
-  - ginger
-  - coconut
-  - lime
-  - coriander
-  - nuts
-  - chili
-  - curry
-  - complex
-mentions: []
----
-
-
-
-
 # Goan Fish Curry
 
 ![Goan Fish Curry](resources/goan-fish-curry.jpg)

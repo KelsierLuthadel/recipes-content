@@ -1,0 +1,70 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens:
+  - eggs
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - coriander
+mentions: []
+ingredients:
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 teaspoon fennel seeds
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 teaspoon coriander seeds
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 3
+    name: red shallots
+    raw: 3 red shallots
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    name: ginger
+    raw: 4 cm piece ginger
+  - qty: 4
+    name: galangal
+    raw: 4 cm piece galangal
+  - qty: 1
+    name: lemongrass stalk
+    raw: 1 lemongrass stalk
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons sea salt
+  - qty: 8
+    name: chicken
+    raw: 8 pieces chicken
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: cup
+    name: cornflour
+    raw: 1 cup cornflour
+  - name: vegetable oil
+    raw: Vegetable oil for deep frying
+  - name: sea salt
+    raw: Sea salt to taste

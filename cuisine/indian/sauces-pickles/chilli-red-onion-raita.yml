@@ -1,0 +1,52 @@
+prep: 10 minutes
+cook: 2 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - onion
+  - garlic
+  - coriander
+  - yogurt
+  - chili
+mentions:
+  - cuisine/indian/biryani
+  - cuisine/indian/sauces-pickles/cucumber-raita
+  - cuisine/indian/side-dishes/cucumber-raita
+ingredients:
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 150
+    unit: ml
+    name: natural yoghurt
+    raw: 150 ml natural yoghurt
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 1
+    name: green chilli
+    raw: 1 fresh green chilli
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander
+  - qty: 0.5
+    unit: tbsp
+    name: granulated sugar
+    raw: ½ tablespoon granulated sugar
+  - name: salt
+    raw: Salt to taste
+  - name: paper-thin red onion slices
+    raw: Paper-thin red onion slices
+  - name: coriander leaves
+    raw: Extra fresh coriander leaves

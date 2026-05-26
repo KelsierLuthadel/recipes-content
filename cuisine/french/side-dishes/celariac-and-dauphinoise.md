@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 53 minutes
-allergens:
-  - dairy
-  - celery
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - sides
-  - onion
-  - garlic
-  - potato
-  - butter
-  - cream
-mentions: []
----
-
-
-
-
 # Celeriac and Potato Dauphinoise
 
 ![Celeriac and potato dauphinoise](resources/celeriac-and-potato-dauphinoise.jpg)

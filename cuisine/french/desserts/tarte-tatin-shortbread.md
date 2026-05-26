@@ -1,23 +1,3 @@
----
-prep: 45 minutes
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - lemon
-  - butter
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Tarte Tatin with Shortbread Crust
 
 ![Tarte Tatin with Shortbread Crust](resources/tarte-tatin-shortbread.jpg)

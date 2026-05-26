@@ -1,0 +1,100 @@
+prep: 15 minutes (plus 4 hours marinating, ideally overnight)
+cook: 25 minutes
+allergens:
+  - dairy
+  - soy
+  - sesame
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - bbq
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - honey
+  - chili
+  - soy-sauce
+  - complex
+  - lunar-new-year
+mentions:
+  - cuisine/chinese/char-siu
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: chicken thighs
+    raw: 8 bone-in skin-on chicken thighs
+  - qty: 3
+    unit: tbsp
+    name: hoisin sauce
+    raw: 3 tbsp hoisin sauce
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce
+    raw: 2 tbsp light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tbsp dark soy sauce
+  - qty: 2
+    unit: tbsp
+    name: shaoxing rice wine
+    raw: 2 tbsp Shaoxing rice wine
+  - qty: 2
+    unit: tbsp
+    name: oyster sauce
+    raw: 2 tbsp oyster sauce
+  - qty: 1
+    unit: tbsp
+    name: toasted sesame oil
+    raw: 1 tbsp toasted sesame oil
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tbsp grated ginger
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, finely grated
+  - qty: 2
+    unit: tsp
+    name: chinese five-spice powder
+    raw: 2 tsp Chinese five-spice powder
+  - qty: 1
+    unit: tbsp
+    name: soft brown sugar
+    raw: 1 tbsp soft brown sugar
+  - qty: 1
+    name: fermented red bean curd
+    raw: 1 cube fermented red bean curd , mashed
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ tsp white pepper
+  - qty: 3
+    unit: tbsp
+    name: honey
+    raw: 3 tbsp honey
+  - qty: 1
+    unit: tbsp
+    name: maltose
+    raw: 1 tbsp maltose
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tbsp hot water
+  - name: steamed jasmine rice
+    raw: Steamed jasmine rice
+  - name: cucumber
+    raw: Sliced cucumber
+  - name: spring onion
+    raw: Spring onion, sliced fine on the bias
+  - name: chilli oil
+    raw: Chilli oil

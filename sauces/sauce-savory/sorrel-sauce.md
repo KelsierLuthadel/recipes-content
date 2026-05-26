@@ -1,21 +1,3 @@
----
-prep: 10 minutes
-cook: 20 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - onion
-  - butter
-  - cream
-mentions: []
----
-
-
-
-
 # Sorrel Sauce
 
 ![Sorrel sauce](resources/sorrel-sauce.png)

@@ -1,35 +1,3 @@
----
-prep: 20 minutes (plus 1 hour marinade)
-cook: 20 minutes
-allergens:
-  - dairy
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - potato
-  - cheese
-  - soy-sauce
-  - complex
-mentions:
-  - cuisine/korean/tteokbokki
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Dak Galbi
 
 ![Dak Galbi](resources/dak-galbi.jpg)

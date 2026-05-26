@@ -1,32 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - fish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - starter
-  - asian
-  - meat
-  - fish
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - chili
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/stocks-sauces/stocks
----
-
-
-
-
 # Sweet and Crispy Chicken Wings
 
 ![Sweet and Crispy Chicken Wings](resources/sweet-crispy-chicken-wings.jpg)

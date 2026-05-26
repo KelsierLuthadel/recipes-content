@@ -1,0 +1,44 @@
+prep: 15 minutes
+cook: 50 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - onion
+  - potato
+  - spinach
+  - butter
+  - cream
+mentions: []
+ingredients:
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 grams unsalted butter
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    name: fennel bulbs
+    raw: 2 fennel bulbs
+  - qty: 1
+    name: potato
+    raw: 1 potato
+  - qty: 700
+    unit: g
+    name: spinach
+    raw: 700 grams spinach
+  - qty: 1.75
+    unit: l
+    name: water
+    raw: 1 ¾ litres water
+  - qty: 4
+    unit: tbsp
+    name: double cream
+    raw: 4 tablespoons double cream
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

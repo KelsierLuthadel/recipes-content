@@ -1,0 +1,78 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - meat
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - beef
+  - pork
+  - onion
+  - tomato
+  - coriander
+  - complex
+mentions: []
+ingredients:
+  - qty: 900
+    unit: g
+    name: beef chuck
+    raw: 900 g beef chuck
+  - qty: 400
+    unit: g
+    name: pork shoulder
+    raw: 400 g pork shoulder
+  - qty: 200
+    unit: g
+    name: pork back fat
+    raw: 200 g pork back fat
+  - qty: 25
+    unit: g
+    name: coriander seeds
+    raw: 25 g coriander seeds
+  - qty: 12
+    unit: g
+    name: salt
+    raw: 12 g salt
+  - qty: 5
+    unit: g
+    name: black pepper
+    raw: 5 g ground black pepper
+  - qty: 3
+    unit: g
+    name: clove
+    raw: 3 g ground clove
+  - qty: 3
+    unit: g
+    name: nutmeg
+    raw: 3 g ground nutmeg
+  - qty: 3
+    unit: g
+    name: allspice
+    raw: 3 g ground allspice
+  - qty: 60
+    unit: ml
+    name: malt vinegar
+    raw: 60 ml malt vinegar
+  - qty: 60
+    unit: ml
+    name: ice water
+    raw: 60 ml ice water
+  - qty: 1.5
+    name: natural hog casings
+    raw: 1 ½ m natural hog casings
+  - qty: 1.1
+    unit: kg
+    name: boerewors coil
+    raw: 1.2-1 ½ kg fresh boerewors coil
+  - name: white bread rolls
+    raw: Fresh white bread rolls
+  - name: tomato-and-onion relish
+    raw: Tomato-and-onion relish
+  - name: mrs ball's chutney
+    raw: Mrs Ball's chutney
+  - name: crispy fried onions
+    raw: Crispy fried onions

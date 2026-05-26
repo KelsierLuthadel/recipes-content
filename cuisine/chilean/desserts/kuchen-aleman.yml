@@ -1,0 +1,93 @@
+prep: 30 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - complex
+mentions: []
+ingredients:
+  - qty: 150
+    unit: g
+    name: unsalted butter
+    raw: 150 g unsalted butter
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 80
+    unit: ml
+    name: milk
+    raw: 80 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 500
+    unit: g
+    name: apples
+    raw: 500 g apples
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 400
+    unit: g
+    name: plums
+    raw: 400 g plums
+  - qty: 400
+    unit: g
+    name: raspberries
+    raw: 400 g raspberries
+  - qty: 350
+    unit: g
+    name: rhubarb
+    raw: 350 g rhubarb
+  - qty: 30
+    unit: g
+    name: sugar
+    raw: 30 g extra sugar
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 1
+    unit: tbsp
+    name: icing sugar
+    raw: 1 tablespoon icing sugar

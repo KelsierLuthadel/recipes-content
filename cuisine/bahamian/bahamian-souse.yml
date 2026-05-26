@@ -1,0 +1,81 @@
+prep: 15 minutes
+cook: 1 ¼ hours
+allergens:
+  - gluten
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - lime
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: chicken pieces
+    raw: 1.2 kg bone-in chicken pieces
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres cold water
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: celery stalks
+    raw: 2 celery stalks
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    unit: tbsp
+    name: allspice berries
+    raw: 1 tablespoon allspice berries
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 whole scotch bonnet
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon freshly ground black pepper
+  - qty: 500
+    unit: g
+    name: waxy potatoes
+    raw: 500 g waxy potatoes
+  - qty: 4.5
+    name: limes
+    raw: 4-5 limes
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley
+  - name: bahamian hot sauce
+    raw: Bahamian hot sauce
+  - name: lime wedges
+    raw: Extra lime wedges
+  - name: johnnycake
+    raw: Johnnycake, grits, or thick slices of buttered white bread

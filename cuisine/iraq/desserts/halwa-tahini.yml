@@ -1,0 +1,55 @@
+prep: 15 minutes
+cook: 15 minutes (plus 8 hours setting)
+allergens:
+  - tree-nuts
+  - sesame
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - dessert
+  - make-ahead
+  - honey
+  - nuts
+  - complex
+mentions:
+  - cuisine/israel/desserts/halva
+ingredients:
+  - qty: 400
+    unit: g
+    name: tahini
+    raw: 400 g good-quality tahini
+  - qty: 350
+    unit: g
+    name: caster sugar
+    raw: 350 g caster sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 1.5
+    unit: tsp
+    name: rose water
+    raw: 1 ½ teaspoons rose water
+  - qty: 80
+    unit: g
+    name: shelled pistachios
+    raw: 80 g shelled pistachios
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 1
+    unit: tbsp
+    name: glucose syrup
+    raw: 1 tablespoon glucose syrup
+  - qty: 2
+    unit: tbsp
+    name: pistachios
+    raw: 2 tablespoons whole pistachios
+  - name: rose petals
+    raw: A few dried rose petals

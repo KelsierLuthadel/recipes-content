@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-cook: 8 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - garlic
-  - coriander
-  - chili
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Harissa
 
 ![Harissa](resources/harissa.jpg)

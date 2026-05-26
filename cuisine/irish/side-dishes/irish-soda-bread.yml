@@ -1,0 +1,41 @@
+prep: 10 minutes
+cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - honey
+  - st-patricks
+mentions:
+  - cuisine/irish/beef-and-guinness-stew
+  - tutorials/bread/cottage
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 250
+    unit: g
+    name: wholemeal flour
+    raw: 250 g wholemeal flour
+  - qty: 1.5
+    unit: tsp
+    name: bicarbonate of soda
+    raw: 1 ½ teaspoons bicarbonate of soda
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 425
+    unit: ml
+    name: buttermilk
+    raw: 400-450 ml buttermilk
+  - qty: 1
+    unit: tbsp
+    name: honey
+    raw: 1 tablespoon honey

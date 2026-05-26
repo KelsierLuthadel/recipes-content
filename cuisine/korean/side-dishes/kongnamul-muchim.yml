@@ -1,0 +1,55 @@
+prep: 5 minutes
+cook: 8 minutes
+allergens:
+  - soy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - onion
+  - garlic
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: soybean sprouts
+    raw: 400 g soybean sprouts
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: soy sauce
+    raw: 1 tablespoon soy sauce
+  - qty: 1
+    unit: tbsp
+    name: toasted sesame oil
+    raw: 1 tablespoon toasted sesame oil
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 1 tablespoon toasted sesame seeds
+  - qty: 1
+    unit: tsp
+    name: gochugaru
+    raw: 1 teaspoon gochugaru

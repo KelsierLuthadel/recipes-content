@@ -1,0 +1,103 @@
+prep: 1 hour (plus 30 minutes resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - sesame
+  - meat
+  - garlic
+tags:
+  - snack
+  - meat
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - yogurt
+  - nuts
+  - complex
+mentions:
+  - cuisine/arabian/mutabbal
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 3
+    unit: tbsp
+    name: natural yogurt
+    raw: 3 tablespoons natural yogurt
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml warm water
+  - qty: 400
+    unit: g
+    name: lamb mince
+    raw: 400 g lamb mince
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1.5
+    unit: tsp
+    name: baharat
+    raw: 1 ½ teaspoons Baharat
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 40
+    unit: g
+    name: pine nuts
+    raw: 40 g pine nuts
+  - qty: 1
+    unit: tbsp
+    name: pomegranate molasses
+    raw: 1 tablespoon pomegranate molasses
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons fresh parsley
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    name: egg yolk + 1 tablespoon milk
+    raw: 1 egg yolk + 1 tablespoon milk
+  - name: or 1 litre vegetable oil
+    raw: OR 1 litre vegetable oil for deep frying
+  - qty: 1
+    unit: tbsp
+    name: sesame seeds
+    raw: 1 tablespoon sesame seeds

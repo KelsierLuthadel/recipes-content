@@ -1,0 +1,76 @@
+prep: 20 minutes (plus 6 hours batter fermenting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - lemon
+  - yogurt
+  - honey
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 100
+    unit: g
+    name: semolina
+    raw: 100 g fine semolina
+  - qty: 250
+    unit: g
+    name: yogurt
+    raw: 250 g full-fat yogurt
+  - qty: 7
+    unit: g
+    name: instant yeast
+    raw: 7 g instant yeast
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml warm water
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: 1 pinch saffron threads
+  - qty: 400
+    unit: g
+    name: caster sugar
+    raw: 400 g caster sugar
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 200
+    unit: g
+    name: clear honey
+    raw: 200 g clear honey
+  - qty: 1
+    unit: tbsp
+    name: rose water
+    raw: 1 tablespoon rose water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: 1 pinch saffron threads
+  - qty: 800
+    unit: ml
+    name: neutral oil
+    raw: 800 ml neutral oil

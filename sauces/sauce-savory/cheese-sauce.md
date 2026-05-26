@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-tags:
-  - gluten-free
-  - quick
-  - meat
-  - butter
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Cheese Sauce
 
 ![Cheese sauce](resources/cheese-sauce.png)

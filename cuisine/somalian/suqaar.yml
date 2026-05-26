@@ -1,0 +1,99 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lime
+  - coriander
+  - butter
+  - chili
+  - complex
+mentions:
+  - cuisine/somalian/anjero
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef sirloin
+    raw: 600 g beef sirloin
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper
+  - qty: 1
+    name: green pepper
+    raw: 1 green pepper
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 1
+    name: long green chilli
+    raw: 1 long green chilli
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    name: coriander
+    raw: A small bunch of fresh coriander
+  - qty: 2
+    name: lime wedges
+    raw: 2 lime wedges

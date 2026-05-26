@@ -1,22 +1,3 @@
----
-prep: 30 minutes (plus 1 ½ hours rising)
-cook: 25 minutes
-allergens:
-  - gluten
-  - sesame
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - sides
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Khobz (Moroccan Round Flatbread)
 
 ![Khobz](resources/khobz.jpg)

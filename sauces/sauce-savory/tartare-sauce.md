@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-cook: 0 minutes
-allergens:
-  - eggs
-  - peanuts
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - quick
-  - eggs
-  - onion
-  - lemon
-mentions:
-  - cuisine/british/fish-and-chips
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tartare Sauce
 
 ![Tartare Sauce](resources/tartare-sauce.png)

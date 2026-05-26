@@ -1,36 +1,3 @@
----
-prep: 15 minutes
-cook: 5 minutes
-allergens:
-  - peanuts
-  - fish
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - fish
-  - prawn
-  - garlic
-  - tomato
-  - carrot
-  - lime
-  - coriander
-  - nuts
-  - chili
-mentions:
-  - tutorials/bread/gluten
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Green Papaya Salad
 
 ![Green Papaya Salad](resources/green-papaya-salad.jpg)

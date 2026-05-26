@@ -1,0 +1,28 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - butter
+  - cream
+mentions:
+  - cuisine/french/desserts/crepes
+ingredients:
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 grams caster sugar
+  - qty: 75
+    unit: g
+    name: butter
+    raw: 75 grams butter
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 400
+    unit: ml
+    name: double cream
+    raw: 400 ml double cream

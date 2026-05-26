@@ -1,31 +1,3 @@
----
-prep: 15 minutes (plus 2 hours marinating)
-cook: 50 minutes
-allergens:
-  - dairy
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - garlic
-  - coconut
-  - lime
-  - coriander
-  - nuts
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Galinha à Zambeziana
 
 ![Galinha à Zambeziana](resources/galinha-zambeziana.jpg)

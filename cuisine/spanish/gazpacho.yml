@@ -1,0 +1,69 @@
+prep: 20 minutes (plus 4 hours chilling)
+cook: 0 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: tomatoes
+    raw: 1 kg very ripe tomatoes
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 1
+    name: green pepper
+    raw: 1 green pepper
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 100
+    unit: g
+    name: stale white bread
+    raw: 100 g stale white bread
+  - qty: 3
+    unit: tbsp
+    name: sherry vinegar
+    raw: 3 tablespoons sherry vinegar
+  - qty: 6
+    unit: tbsp
+    name: virgin olive oil
+    raw: 6 tablespoons extra virgin olive oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: pinch
+    name: cayenne
+    raw: A pinch of cayenne
+  - qty: 200
+    unit: ml
+    name: ice-cold water
+    raw: 200 ml ice-cold water
+  - qty: 2
+    unit: tbsp
+    name: "each: finely diced cucumber"
+    raw: "2 tablespoons each: finely diced cucumber, pepper, red onion, tomato"
+  - name: croutons
+    raw: Croutons
+  - qty: 1
+    unit: drizzle
+    name: virgin olive oil
+    raw: A drizzle of extra virgin olive oil

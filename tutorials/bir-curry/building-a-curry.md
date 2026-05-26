@@ -1,23 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - curry
-mentions:
-  - cuisine/indian/BIR-Chicken-Dhansak
-  - cuisine/indian/BIR-Chicken-Jalfrezi
-  - cuisine/indian/BIR-Chicken-Korma
-  - cuisine/indian/BIR-Chicken-Vindaloo
-  - cuisine/indian/Spice-Mixes/base-curry-powder
-  - cuisine/indian/Spice-Mixes/madrass-mix
-  - tutorials/pizza/sauce
----
-
-
-
 # Building a Curry: Worked Example
 
 ![BIR base gravy](resources/building.jpg)

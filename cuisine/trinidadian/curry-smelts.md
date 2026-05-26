@@ -1,31 +1,3 @@
----
-prep: 20 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - fish
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - one-pan
-  - meals
-  - fish
-  - onion
-  - garlic
-  - lemon
-  - lime
-  - coriander
-  - chili
-  - curry
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Curry Smelts
 
 ![Curry Smelts](resources/curry-smelts.jpg)

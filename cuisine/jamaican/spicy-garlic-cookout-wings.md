@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - chicken
-  - garlic
-  - butter
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Spicy Garlic Cookout Wings
 
 ![Spicy Garlic Cookout Wings](resources/spicy-garlic-cookout-wings.jpg)

@@ -1,29 +1,3 @@
----
-prep: 15 minutes
-cook: 20 minutes
-allergens:
-  - eggs
-  - soy
-  - sesame
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - asian
-  - meat
-  - beef
-  - eggs
-  - onion
-  - coriander
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Steamed Beef Meatballs
 
 ![Steamed Beef Meatballs](resources/steamed-meatballs.jpg)

@@ -1,0 +1,58 @@
+prep: 15 minutes
+cook: 25 minutes (mostly aubergine cooking)
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - sides
+  - onion
+  - garlic
+  - lemon
+mentions: []
+ingredients:
+  - qty: 3
+    name: aubergines
+    raw: 3 aubergines
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: lemon juice
+    raw: 3 tablespoons lemon juice
+  - qty: 4
+    unit: tbsp
+    name: virgin olive oil
+    raw: 4 tablespoons extra virgin olive oil
+  - qty: 1
+    unit: tbsp
+    name: red-wine vinegar
+    raw: 1 tablespoon red-wine vinegar
+  - qty: 30
+    unit: g
+    name: flat-leaf parsley
+    raw: 30 g flat-leaf parsley
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - name: warm pita
+    raw: Warm pita
+  - qty: 1
+    unit: pinch
+    name: smoked paprika
+    raw: A pinch of smoked paprika
+  - qty: 1
+    unit: handful
+    name: kalamata olives
+    raw: A handful of kalamata olives

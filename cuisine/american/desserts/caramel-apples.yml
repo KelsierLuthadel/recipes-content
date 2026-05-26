@@ -1,0 +1,51 @@
+prep: 15 minutes
+cook: 15 minutes (plus 30 minutes setting)
+allergens:
+  - dairy
+  - peanuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - butter
+  - cream
+  - nuts
+  - halloween
+mentions:
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 6
+    name: tart apples
+    raw: 6 small tart apples
+  - qty: 6
+    name: wooden skewers or lollipop sticks
+    raw: 6 wooden skewers or lollipop sticks
+  - qty: 200
+    unit: g
+    name: soft dark brown sugar
+    raw: 200 g soft dark brown sugar
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 80
+    unit: g
+    name: golden syrup
+    raw: 80 g golden syrup
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - qty: 80
+    unit: g
+    name: salted peanuts
+    raw: 80 g salted peanuts

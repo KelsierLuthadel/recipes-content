@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-cook: 40 minutes
-allergens:
-  - peanuts
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - pork
-  - onion
-  - garlic
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Five Spice Spare Ribs
 
 ![Five Spice Spare Ribs](resources/ribs.jpg)

@@ -1,0 +1,69 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 1
+    name: poblano pepper
+    raw: 1 poblano pepper
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 600
+    unit: g
+    name: courgettes
+    raw: 600 g courgettes
+  - qty: 200
+    unit: g
+    name: sweetcorn kernels
+    raw: 200 g sweetcorn kernels
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: mexican oregano
+    raw: 1 teaspoon dried Mexican oregano
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon black pepper
+  - qty: 80
+    unit: g
+    name: queso fresco
+    raw: 80 g queso fresco
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of coriander
+  - qty: 1
+    name: lime
+    raw: 1 lime

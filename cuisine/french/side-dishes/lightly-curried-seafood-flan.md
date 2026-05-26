@@ -1,25 +1,3 @@
----
-prep: 25 minutes
-cook: 55 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - shellfish
-tags:
-  - spicy
-  - sides
-  - fish
-  - eggs
-  - onion
-  - cream
-  - curry
-mentions: []
----
-
-
-
-
 # Lightly Curried Seafood Flan
 
 ![Lightly curried seafood flan](resources/curried-seafood-flan.jpg)

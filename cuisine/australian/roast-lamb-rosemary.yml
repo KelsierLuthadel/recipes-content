@@ -1,0 +1,79 @@
+prep: 20 minutes (plus 1 hour resting at room temperature)
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - carrot
+  - complex
+  - easter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: leg of lamb
+    raw: 1 bone-in leg of lamb, 2.2-2 ½ kg
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 6
+    unit: sprig
+    name: rosemary
+    raw: 6 sprigs rosemary
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 2
+    unit: tsp
+    name: flaky sea salt
+    raw: 2 teaspoons flaky sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 1
+    name: garlic
+    raw: 1 head garlic, halved across the equator
+  - name: rosemary
+    raw: A few extra rosemary sprigs
+  - qty: 250
+    unit: ml
+    name: red wine
+    raw: 250 ml red wine
+  - qty: 500
+    unit: ml
+    name: lamb
+    raw: 500 ml lamb
+  - qty: 2
+    unit: tbsp
+    name: redcurrant
+    raw: 2 tablespoons redcurrant
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: mint sauce
+    raw: Mint Sauce

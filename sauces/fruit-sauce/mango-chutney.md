@@ -1,23 +1,3 @@
----
-prep: 20 minutes
-cook: 60 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - garlic
-  - ginger
-mentions:
-  - cuisine/indian/sauces-pickles/mango-chutney
----
-
-
-
-
 # Mango Chutney
 
 ![Mango chutney](resources/mango-chutney.jpg)

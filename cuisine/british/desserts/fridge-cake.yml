@@ -1,0 +1,47 @@
+prep: 15 minutes (plus 1 to 2 hours chilling)
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - butter
+  - chocolate
+  - nuts
+  - complex
+mentions:
+  - cuisine/american/desserts/rocky-road
+ingredients:
+  - qty: 150
+    unit: g
+    name: milk chocolate
+    raw: 150 g milk chocolate
+  - qty: 150
+    unit: g
+    name: dark chocolate
+    raw: 150 g dark chocolate
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 150
+    unit: g
+    name: golden syrup
+    raw: 150 g golden syrup
+  - qty: 250
+    unit: g
+    name: digestive biscuits
+    raw: 250 g digestive biscuits
+  - qty: 100
+    unit: g
+    name: apricots
+    raw: 100 g dried apricots
+  - qty: 75
+    unit: g
+    name: raisins
+    raw: 75 g raisins
+  - qty: 60
+    unit: g
+    name: pecan nuts
+    raw: 60 g pecan nuts

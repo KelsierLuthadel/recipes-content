@@ -1,34 +1,3 @@
----
-prep: 20 minutes (plus 30 minutes marinating)
-cook: 2 hours 30 minutes
-allergens:
-  - soy
-  - fish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - fish
-  - beef
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - lime
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Beef Si Byan
 
 ![Beef Si Byan](resources/beef-sibyan.jpg)

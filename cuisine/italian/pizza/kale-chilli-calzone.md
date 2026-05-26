@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - spicy
-  - meals
-  - garlic
-  - cheese
-  - chili
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Kale and Chilli Calzone
 
 ![Kale and Chilli Calzone](resources/kale-chilli-calzone.jpg)

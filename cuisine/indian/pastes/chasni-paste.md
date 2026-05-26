@@ -1,23 +1,3 @@
----
-prep: 5 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - asian
-  - pastes
-  - lemon
-mentions:
-  - cuisine/indian/sauces-pickles/mango-chutney
-  - sauces/fruit-sauce/mango-chutney
----
-
-
-
-
 # Chasni Paste
 
 ![Chasni Paste](resources/chasni-paste.jpg)

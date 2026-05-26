@@ -1,0 +1,58 @@
+prep: 1 hour (plus 1 hour resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - nuts
+  - complex
+mentions:
+  - cuisine/azerbaijan/snacks/goghal
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 2
+    name: egg yolks
+    raw: 2 egg yolks
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 300
+    unit: g
+    name: walnuts
+    raw: 300 g walnuts , ground medium-fine
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 1
+    name: egg white
+    raw: 1 egg white
+  - name: icing sugar
+    raw: Icing sugar

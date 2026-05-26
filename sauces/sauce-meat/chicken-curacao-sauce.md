@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 45 minutes
-allergens:
-  - dairy
-  - peanuts
-  - meat
-  - celery
-tags:
-  - gluten-free
-  - meat
-  - chicken
-  - onion
-  - carrot
-  - butter
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Sauce with Curaçao
 
 ![Chicken sauce with Curaçao](resources/chicken-curacao.png)

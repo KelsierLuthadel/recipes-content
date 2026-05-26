@@ -1,0 +1,38 @@
+prep: 5 minutes
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - asian
+  - spices
+  - coriander
+mentions: []
+ingredients:
+  - qty: 2
+    unit: tsp
+    name: coriander
+    raw: 2 tsp coriander
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp cumin
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp turmeric
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ tsp cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: mustard powder
+    raw: ½ tsp mustard powder

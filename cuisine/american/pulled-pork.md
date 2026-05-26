@@ -1,30 +1,3 @@
----
-prep: 20 minutes (plus overnight rub)
-cook: 8 hours
-allergens:
-  - meat
-  - mustard
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - bbq
-  - meat
-  - pork
-  - carrot
-  - chili
-  - complex
-mentions:
-  - bread-pasta/burger-buns
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pulled Pork
 
 ![Pulled Pork](resources/pulled-pork.jpg)

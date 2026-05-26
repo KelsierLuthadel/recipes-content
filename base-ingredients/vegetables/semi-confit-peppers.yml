@@ -1,0 +1,45 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - garlic
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 500
+    unit: g
+    name: red bell peppers
+    raw: 500 grams red bell peppers
+  - name: virgin olive oil
+    raw: Extra virgin olive oil
+  - qty: 600
+    unit: ml
+    name: light olive oil
+    raw: 600 ml light olive oil
+  - qty: 2
+    unit: sprig
+    name: thyme
+    raw: 2 sprigs fresh thyme
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: sprig
+    name: rosemary
+    raw: 1 sprig fresh rosemary
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    unit: tsp
+    name: white peppercorns
+    raw: 1 teaspoon white peppercorns
+  - name: sea salt
+    raw: Sea salt
+  - name: black pepper
+    raw: Freshly ground black pepper

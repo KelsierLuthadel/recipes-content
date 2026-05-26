@@ -1,0 +1,66 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+  - bbq
+  - onion
+  - garlic
+  - tomato
+mentions:
+  - cuisine/uyghur/laghman
+ingredients:
+  - qty: 2
+    name: eggplants
+    raw: 2 whole eggplants
+  - qty: 4
+    name: tomatoes
+    raw: 4 tomatoes
+  - qty: 2
+    name: cucumbers
+    raw: 2 cucumbers
+  - qty: 1
+    name: green pepper
+    raw: 1 mild green pepper
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion
+  - qty: 0.5
+    name: garlic
+    raw: ½ bulb garlic
+  - qty: 5
+    unit: g
+    name: basil
+    raw: 5 g fresh basil
+  - qty: 100
+    unit: ml
+    name: black rice vinegar
+    raw: 100 ml black rice vinegar
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 2
+    unit: g
+    name: salt
+    raw: 2 g salt
+  - qty: 2
+    unit: g
+    name: white pepper
+    raw: 2 g ground white pepper
+  - qty: 1
+    unit: g
+    name: black pepper
+    raw: 1 g ground black pepper
+  - qty: 2.5
+    unit: g
+    name: caster sugar
+    raw: 2-3 g caster sugar

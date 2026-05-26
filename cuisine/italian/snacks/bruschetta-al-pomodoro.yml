@@ -1,0 +1,71 @@
+prep: 15 minutes (plus 30 min tomato rest)
+cook: 5 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - snack
+  - make-ahead
+  - meat
+  - beef
+  - garlic
+  - tomato
+  - cheese
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 600
+    unit: g
+    name: tomatoes
+    raw: 600 g ripe tomatoes
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 3
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 3 tablespoons extra-virgin olive oil
+  - qty: 1
+    unit: tbsp
+    name: red wine vinegar
+    raw: 1 tablespoon red wine vinegar
+  - qty: 1
+    name: basil
+    raw: 1 small bunch fresh basil
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 8
+    name: crusty country bread
+    raw: 8 thick slices crusty country bread
+  - qty: 4.5
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 4-5 tablespoons extra-virgin olive oil
+  - qty: 1
+    unit: tsp
+    name: flaky sea salt
+    raw: 1 teaspoon flaky sea salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 50
+    unit: g
+    name: shaved parmesan cheese
+    raw: 50 g shaved parmesan cheese
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: pinch
+    name: chilli flakes
+    raw: A pinch of chilli flakes

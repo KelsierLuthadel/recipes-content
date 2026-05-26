@@ -1,0 +1,60 @@
+prep: 15 minutes
+cook: 4 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - sesame
+  - shellfish
+tags:
+  - dairy-free
+  - quick
+  - snack
+  - asian
+  - fish
+  - prawn
+  - eggs
+  - onion
+  - ginger
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 10
+    name: bread
+    raw: 10 thin slices of bread
+  - qty: 3
+    unit: tbsp
+    name: white sesame seeds
+    raw: 3 tablespoons white sesame seeds
+  - qty: 400
+    unit: ml
+    name: oil
+    raw: 400 ml oil for deep frying
+  - qty: 450
+    unit: g
+    name: uncooked peeled prawns
+    raw: 450 grams uncooked peeled prawns
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 2
+    unit: tbsp
+    name: spring onions
+    raw: 2 tablespoons spring onions
+  - qty: 2
+    unit: tsp
+    name: ginger
+    raw: 2 teaspoons fresh ginger
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil

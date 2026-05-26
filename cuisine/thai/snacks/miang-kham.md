@@ -1,32 +1,3 @@
----
-prep: 25 minutes
-cook: 15 minutes (for the sauce)
-allergens:
-  - peanuts
-  - fish
-  - shellfish
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - snack
-  - make-ahead
-  - asian
-  - fish
-  - prawn
-  - onion
-  - ginger
-  - coconut
-  - nuts
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Miang Kham
 
 ![Miang Kham](resources/miang-kham.jpg)

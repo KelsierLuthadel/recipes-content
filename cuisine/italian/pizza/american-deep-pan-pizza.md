@@ -1,30 +1,3 @@
----
-prep: 30 minutes
-cook: 1 hour
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - meals
-  - meat
-  - pork
-  - onion
-  - garlic
-  - cheese
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # American Hot Deep-Pan Pizza
 
 ![American Hot Deep-Pan Pizza](resources/american-deep-pan-pizza.jpg)

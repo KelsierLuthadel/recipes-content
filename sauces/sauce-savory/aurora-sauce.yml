@@ -1,0 +1,35 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - tomato
+  - butter
+  - cream
+mentions:
+  - coulis/vegetable/tomato-coulis
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: ml
+    name: bechamel sauce
+    raw: 300 ml Béchamel Sauce
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 120
+    unit: ml
+    name: tomato coulis
+    raw: 120 ml Tomato Coulis
+  - qty: 20
+    unit: g
+    name: butter
+    raw: 20 grams butter
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

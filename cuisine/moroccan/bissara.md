@@ -1,25 +1,3 @@
----
-prep: 10 minutes (plus overnight soak)
-cook: 1 hour
-allergens:
-  - gluten
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - make-ahead
-  - meals
-  - garlic
-  - lemon
-  - chili
-mentions: []
----
-
-
-
-
 # Bissara
 
 ![Bissara](resources/bissara.jpg)

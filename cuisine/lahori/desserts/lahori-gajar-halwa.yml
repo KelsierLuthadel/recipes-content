@@ -1,0 +1,62 @@
+prep: 15 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - carrot
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: red carrots
+    raw: 1 kg red carrots
+  - qty: 1.2
+    unit: l
+    name: milk
+    raw: 1.2 litres full-fat milk
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 4
+    unit: tbsp
+    name: ghee
+    raw: 4 tablespoons ghee
+  - qty: 100
+    unit: g
+    name: khoya
+    raw: 100 g khoya
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 30
+    unit: g
+    name: flaked almonds
+    raw: 30 g flaked almonds
+  - qty: 30
+    unit: g
+    name: pistachios
+    raw: 30 g pistachios
+  - qty: 30
+    unit: g
+    name: cashews
+    raw: 30 g cashews
+  - qty: 2.5
+    name: sheets of silver leaf
+    raw: 2-3 sheets of silver leaf

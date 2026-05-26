@@ -1,37 +1,3 @@
----
-prep: 30 minutes
-cook: 20 minutes
-allergens:
-  - eggs
-  - soy
-  - sesame
-  - fish
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - starter
-  - make-ahead
-  - asian
-  - meat
-  - fish
-  - pork
-  - eggs
-  - onion
-  - carrot
-  - coriander
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - cuisine/chinese/snacks/spring-rolls
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pork and Vegetable Spring Rolls
 
 ![Pork and Vegetable Spring Rolls](resources/pork-spring-rolls.jpg)

@@ -1,22 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - curry
-mentions:
-  - cuisine/thai/pastes/massaman-curry-paste
-  - cuisine/thai/pastes/thai-yellow-curry-paste
-  - tutorials/pizza/sauce
-  - tutorials/thai-curry/green
-  - tutorials/thai-curry/massaman
----
-
-
-
 # Yellow Curry Paste
 
 ![Yellow curry paste](resources/yellow.jpg)

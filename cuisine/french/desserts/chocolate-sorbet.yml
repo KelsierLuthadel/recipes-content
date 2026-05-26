@@ -1,0 +1,34 @@
+prep: 10 minutes
+cook: 3 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - make-ahead
+  - chocolate
+mentions: []
+ingredients:
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml milk
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 grams caster sugar
+  - name: liquid glucose
+    raw: liquid glucose
+  - qty: 30
+    unit: g
+    name: dark
+    raw: 30 grams dark, bitter cocoa powder
+  - qty: 100
+    unit: g
+    name: dark chocolate couveture
+    raw: 100 grams dark chocolate couveture
+  - qty: 8
+    name: meringue nests
+    raw: 8 meringue nests

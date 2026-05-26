@@ -1,21 +1,3 @@
----
-prep: 10 minutes (plus 1 hour salting)
-cook: 12 minutes
-allergens:
-  - gluten
-  - fish
-tags:
-  - dairy-free
-  - sides
-  - fish
-  - potato
-  - lemon
-mentions: []
----
-
-
-
-
 # Sardinhas Assadas
 
 ![Sardinhas Assadas](resources/sardinhas-assadas.jpg)

@@ -1,0 +1,76 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - ginger
+mentions:
+  - cuisine/indian/sauces-pickles/mint-chutney
+  - cuisine/indian/side-dishes/samosa
+ingredients:
+  - qty: 100
+    unit: g
+    name: tamarind
+    raw: 100 g tamarind
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml hot water
+  - qty: 200
+    unit: g
+    name: palm jaggery
+    raw: 200 g palm jaggery
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black salt
+    raw: ½ teaspoon black salt
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: fennel
+    raw: ½ teaspoon ground fennel
+  - qty: 0.5
+    unit: tsp
+    name: ginger
+    raw: ½ teaspoon ground ginger
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon ground black pepper
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: ½ teaspoon Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: chaat masala
+    raw: 1 teaspoon Chaat Masala
+  - qty: 1
+    unit: tbsp
+    name: raisins
+    raw: 1 tablespoon raisins
+  - qty: 1
+    unit: tbsp
+    name: dates
+    raw: 1 tablespoon dates
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water

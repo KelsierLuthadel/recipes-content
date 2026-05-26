@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - spices
-  - ginger
-  - coriander
-  - chili
-mentions: []
----
-
-
-
-
 # Mixed Spice
 
 ![Mixed Spice](resources/mixed.jpg)

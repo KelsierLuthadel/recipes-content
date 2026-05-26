@@ -1,0 +1,54 @@
+prep: 20 minutes
+cook: 2 hours
+allergens:
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meat
+  - complex
+mentions:
+  - tutorials/stocks-sauces/stocks
+ingredients:
+  - qty: 800
+    unit: g
+    name: lamb bones
+    raw: 800 grams lamb bones
+  - qty: 150
+    unit: g
+    name: carrots
+    raw: 150 grams carrots
+  - qty: 100
+    unit: g
+    name: onions
+    raw: 100 grams onions
+  - qty: 1
+    name: celery
+    raw: 1 stalk celery
+  - qty: 250
+    unit: ml
+    name: dry white wine
+    raw: 250 millilitres dry white wine
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2 ½ litres cold water
+  - qty: 4
+    name: tomatoes
+    raw: 4 tomatoes
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - qty: 2
+    unit: sprig
+    name: tarragon
+    raw: 2 sprigs fresh tarragon
+  - qty: 6
+    name: white peppercorns
+    raw: 6 white peppercorns

@@ -1,0 +1,95 @@
+prep: 20 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - snack
+  - asian
+  - onion
+  - ginger
+  - potato
+  - spinach
+  - coriander
+  - chili
+  - complex
+  - holi
+  - hindu
+mentions: []
+ingredients:
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: potato
+    raw: 1 potato
+  - qty: 150
+    unit: g
+    name: cauliflower
+    raw: 150 g cauliflower
+  - qty: 1
+    unit: small handful
+    name: spinach
+    raw: 1 small handful spinach
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon ginger
+  - qty: 1
+    unit: small handful
+    name: coriander leaves
+    raw: 1 small handful coriander leaves
+  - qty: 150
+    unit: g
+    name: flour
+    raw: 150 g gram flour
+  - qty: 30
+    unit: g
+    name: rice flour
+    raw: 30 g rice flour
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 teaspoon Kashmiri chilli powder
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: ajwain seeds
+    raw: ½ teaspoon ajwain seeds
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 teaspoon coriander seeds
+  - qty: 0.25
+    unit: tsp
+    name: bicarbonate of soda
+    raw: ¼ teaspoon bicarbonate of soda
+  - qty: 1.25
+    unit: tsp
+    name: salt
+    raw: 1 ¼ teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: amchur
+    raw: 1 teaspoon amchur
+  - qty: 170
+    unit: ml
+    name: water
+    raw: 160-180 ml cold water
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil

@@ -1,0 +1,90 @@
+prep: 1 hour (plus 30 minutes resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - shellfish
+  - garlic
+tags:
+  - spicy
+  - sides
+  - fish
+  - prawn
+  - eggs
+  - onion
+  - garlic
+  - lemon
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 400
+    unit: g
+    name: shrimp
+    raw: 400 g cooked small shrimp
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 0.5
+    unit: tsp
+    name: piri-piri sauce
+    raw: ½ teaspoon piri-piri sauce
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    unit: tbsp
+    name: parsley
+    raw: 1 tablespoon fresh parsley
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 200
+    unit: g
+    name: breadcrumbs
+    raw: 200 g dried breadcrumbs
+  - name: vegetable oil for shallow frying
+    raw: Vegetable oil for shallow frying

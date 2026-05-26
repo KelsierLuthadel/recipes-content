@@ -1,0 +1,34 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - eggs
+  - peanuts
+  - mustard
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - eggs
+  - lemon
+mentions: []
+ingredients:
+  - qty: 2
+    name: egg yolks
+    raw: 2 egg yolks
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 250
+    unit: ml
+    name: groundnut oil
+    raw: 250 ml groundnut oil
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar
+    raw: 2 tablespoons white wine vinegar
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

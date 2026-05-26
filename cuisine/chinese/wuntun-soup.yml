@@ -1,0 +1,75 @@
+prep: 20 minutes
+cook: 10 minutes
+allergens:
+  - eggs
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - pork
+  - eggs
+  - onion
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: pork
+    raw: 350 grams minced pork
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 2
+    unit: tsp
+    name: dry sherry
+    raw: 2 teaspoons dry sherry
+  - qty: 1.5
+    unit: tbsp
+    name: spring onions
+    raw: 1 ½ tablespoons spring onions
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 1
+    name: egg white
+    raw: 1 egg white
+  - qty: 0.5
+    unit: tsp
+    name: cornflour
+    raw: ½ teaspoon cornflour
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: l
+    name: chinese chicken stock
+    raw: 1 litre Chinese chicken stock
+  - qty: 30
+    name: wuntun skins
+    raw: 30 wuntun skins
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: spring onions
+    raw: 1 tablespoon spring onions
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil

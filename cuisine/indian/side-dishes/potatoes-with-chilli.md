@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 21 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - sides
-  - asian
-  - onion
-  - potato
-  - coriander
-  - chili
-mentions: []
----
-
-
-
-
 # Potatoes with Red Chillies
 
 ![Potatoes with red chillies](resources/potatoes-with-chilli.jpg)

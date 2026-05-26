@@ -1,0 +1,57 @@
+prep: 10 minutes
+cook: 12 minutes (plus 3 hours setting)
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - cream
+  - nuts
+  - complex
+mentions:
+  - cuisine/israel/desserts/malabi
+ingredients:
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre whole milk
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 70
+    unit: g
+    name: cornflour
+    raw: 70 g cornflour
+  - qty: 1
+    unit: tbsp
+    name: rosewater
+    raw: 1 tablespoon rosewater
+  - qty: 1
+    unit: tbsp
+    name: orange blossom water
+    raw: 1 tablespoon orange blossom water
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 80 ml water
+  - qty: 1
+    unit: tsp
+    name: rosewater
+    raw: 1 teaspoon rosewater
+  - qty: 50
+    unit: g
+    name: pistachios
+    raw: 50 g pistachios
+  - name: rose petals
+    raw: A few rose petals

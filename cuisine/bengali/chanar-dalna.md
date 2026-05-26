@@ -1,27 +1,3 @@
----
-prep: 20 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - mustard
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - meals
-  - garlic
-  - ginger
-  - potato
-  - coriander
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Chanar Dalna
 
 ![Chanar Dalna](resources/chanar-dalna.jpg)

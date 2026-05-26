@@ -1,20 +1,3 @@
----
-prep: 5 minutes
-cook: 2 hours
-allergens:
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - asian
-  - meat
-  - complex
-mentions: []
----
-
-
-
-
 # Thai Chicken Stock
 
 ![Thai Chicken Stock](resources/thai-chicken-stock.jpg)

@@ -1,30 +1,3 @@
----
-prep: 20 minutes
-cook: 2 hours 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - onion
-  - garlic
-  - potato
-  - carrot
-  - butter
-  - complex
-  - st-patricks
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Beef and Guinness Stew
 
 ![Beef and Guinness Stew](resources/beef-and-guinness-stew.jpg)

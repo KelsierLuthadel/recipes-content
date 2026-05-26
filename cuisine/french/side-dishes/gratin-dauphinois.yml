@@ -1,0 +1,50 @@
+prep: 20 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - sides
+  - garlic
+  - potato
+  - butter
+  - cream
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: waxy potatoes
+    raw: 1.2 kg waxy potatoes
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 500
+    unit: ml
+    name: double cream
+    raw: 500 ml double cream
+  - qty: 300
+    unit: ml
+    name: milk
+    raw: 300 ml whole milk
+  - qty: 1
+    name: bay leaf
+    raw: 1 fresh bay leaf
+  - name: nutmeg
+    raw: A generous grating of fresh nutmeg
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon white pepper
+  - qty: 40
+    unit: g
+    name: unsalted butter
+    raw: 40 g unsalted butter

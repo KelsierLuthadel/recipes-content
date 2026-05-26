@@ -1,34 +1,3 @@
----
-prep: 1 hour (plus 1 hour rising)
-cook: 30 minutes (in batches)
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - soy
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - spicy
-  - snack
-  - meat
-  - pork
-  - eggs
-  - onion
-  - garlic
-  - butter
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Siopao
 
 ![Siopao](resources/siopao.jpg)

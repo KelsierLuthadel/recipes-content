@@ -1,21 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/fish/fish
-  - tutorials/fish/whole-fish
-  - tutorials/knife-skills/basic-cuts
-  - tutorials/knife-skills/knife-care
-  - tutorials/knife-skills/precision-cuts
-  - tutorials/stir-fry/ingredient-order
----
-
-
-
 # Knife Skills
 
 ![Knives](resources/knife-skills.jpg)

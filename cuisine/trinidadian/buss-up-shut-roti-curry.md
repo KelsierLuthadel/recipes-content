@@ -1,31 +1,3 @@
----
-prep: 30 minutes (plus 1 hour resting)
-cook: 45 minutes
-allergens:
-  - gluten
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - meals
-  - onion
-  - garlic
-  - lime
-  - coriander
-  - chickpea
-  - chili
-  - curry
-  - complex
-mentions:
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Buss-Up-Shut Roti with Curry
 
 ![Buss-Up-Shut Roti with Curry](resources/buss-up-shut-roti-curry.jpg)

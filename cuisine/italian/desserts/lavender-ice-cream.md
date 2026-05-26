@@ -1,20 +1,3 @@
----
-prep: 20 minutes
-cook: 20 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - cream
-mentions:
-  - tutorials/eggs/meringues
----
-
-
-
-
 # Lavender Ice Cream
 
 ![Lavender ice cream](resources/lavender-ice-cream.jpg)

@@ -1,0 +1,50 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - eggs
+  - onion
+  - lemon
+  - butter
+mentions:
+  - base-ingredients/baking/clarified-butter
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar
+    raw: 2 tablespoons white wine vinegar
+  - qty: 3
+    unit: tbsp
+    name: tarragon
+    raw: 3 tablespoons tarragon
+  - qty: 30
+    unit: g
+    name: shallots
+    raw: 30 grams shallots
+  - qty: 10
+    name: peppercorns
+    raw: 10 peppercorns
+  - qty: 4
+    name: egg yolks
+    raw: 4 egg yolks
+  - qty: 250
+    unit: g
+    name: clarified butter
+    raw: 250 grams Clarified Butter
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons parsley
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

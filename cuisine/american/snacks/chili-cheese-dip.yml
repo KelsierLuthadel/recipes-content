@@ -1,0 +1,99 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - snack
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - cheese
+  - chili
+  - complex
+  - halloween
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: neutral oil
+    raw: 2 tablespoons neutral oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g lean ground beef
+  - qty: 2
+    unit: tbsp
+    name: chilli powder
+    raw: 2 tablespoons chilli powder
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 1
+    name: kidney beans
+    raw: 1 tin kidney beans
+  - qty: 100
+    unit: ml
+    name: beef stock
+    raw: 100 ml beef stock
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 200
+    unit: g
+    name: cheddar cheese
+    raw: 200 g mature cheddar cheese
+  - qty: 100
+    unit: g
+    name: monterey jack cheese
+    raw: 100 g Monterey Jack cheese
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    name: jalapeno
+    raw: 1 fresh jalapeño
+  - qty: 100
+    unit: g
+    name: soured cream
+    raw: 100 g soured cream
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of fresh coriander
+  - name: bowl of tortilla chips
+    raw: A large bowl of tortilla chips

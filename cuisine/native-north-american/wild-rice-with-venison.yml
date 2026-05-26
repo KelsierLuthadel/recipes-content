@@ -1,0 +1,79 @@
+prep: 15 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - one-pan
+  - meals
+  - meat
+  - rice
+  - mushroom
+  - onion
+  - garlic
+  - complex
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: venison shoulder
+    raw: 400 g venison shoulder
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 25
+    unit: g
+    name: wild mushrooms
+    raw: 25 g dried wild mushrooms
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 200
+    unit: g
+    name: wild rice
+    raw: 200 g wild rice
+  - qty: 1
+    unit: tsp
+    name: juniper berries
+    raw: 1 teaspoon juniper berries
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon dried thyme
+  - qty: 600
+    unit: ml
+    name: game
+    raw: 600 ml game
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tbsp
+    name: maple syrup
+    raw: 1 tablespoon maple syrup
+  - qty: 2
+    unit: tbsp
+    name: toasted pumpkin seeds
+    raw: 2 tablespoons toasted pumpkin seeds
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tablespoon fresh thyme leaves
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions

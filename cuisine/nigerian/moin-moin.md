@@ -1,34 +1,3 @@
----
-prep: 30 minutes (plus 1 hour bean-soaking)
-cook: 1 hour
-allergens:
-  - gluten
-  - eggs
-  - fish
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - fish
-  - beef
-  - eggs
-  - onion
-  - garlic
-  - ginger
-  - chili
-  - complex
-mentions:
-  - cuisine/american/side-dishes/black-eyed-peas
----
-
-
-
-
 # Moin Moin
 
 ![Moin Moin](resources/moin-moin.jpg)

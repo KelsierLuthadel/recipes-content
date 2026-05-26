@@ -1,20 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - quick
-  - baking
-mentions:
-  - tutorials/patisserie/tarts
-  - tutorials/pizza/dough
----
-
-
-
-
 # Rough Puff Pastry
 
 ![Rough Puff Pastry](resources/rough-puff.jpg)

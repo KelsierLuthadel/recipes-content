@@ -1,21 +1,3 @@
----
-prep: 35 minutes
-cook: 45 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - easter
-mentions: []
----
-
-
-
-
 # Sweet Custard Tart with Poached Prunes
 
 ![Sweet custard tart with poached prunes](resources/custard-tart.jpg)

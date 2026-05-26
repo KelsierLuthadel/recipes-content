@@ -1,32 +1,3 @@
----
-prep: 25 minutes (plus 30 minutes chilling)
-cook: 12 minutes (in batches)
-allergens:
-  - gluten
-  - eggs
-  - meat
-  - mustard
-  - celery
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - snack
-  - meat
-  - pork
-  - eggs
-  - rice
-  - onion
-  - garlic
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Boudin Balls
 
 ![Boudin Balls](resources/boudin-balls.jpg)

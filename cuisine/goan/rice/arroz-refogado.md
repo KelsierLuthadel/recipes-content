@@ -1,28 +1,3 @@
----
-prep: 10 minutes
-cook: 30 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - lime
-  - coriander
-  - complex
-mentions: []
----
-
-
-
-
 # Arroz Refogado
 
 ![Arroz Refogado](resources/arroz-refogado.jpg)

@@ -1,35 +1,3 @@
----
-prep: 20 minutes
-cook: 10 minutes
-allergens:
-  - eggs
-  - soy
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - starter
-  - asian
-  - fish
-  - prawn
-  - eggs
-  - garlic
-  - lemon
-  - honey
-  - chili
-  - soy-sauce
-mentions:
-  - base-ingredients/sambal/nam-prik-pao
-  - cuisine/thai/side-dishes/nam-prik-pao
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Firecracker Prawns
 
 ![Firecracker Prawns](resources/firecracker-prawn.jpg)

@@ -1,31 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - coriander
-  - chili
-  - curry
-  - complex
-mentions:
-  - cuisine/jamaican/side-dishes/rice-and-peas
----
-
-
-
-
 # Caribbean Chicken Curry Stew
 
 ![Caribbean Chicken Curry Stew](resources/caribbean-curry.jpg)

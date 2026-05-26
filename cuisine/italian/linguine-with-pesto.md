@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - garlic
-tags:
-  - vegetarian
-  - quick
-  - meals
-  - garlic
-  - cheese
-  - nuts
-mentions:
-  - cuisine/italian/pesto
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Linguine with Genovese Basil Pesto
 
 ![Linguine with Pesto](resources/linguini-pesto.jpg)

@@ -1,0 +1,57 @@
+prep: 5 minutes (plus 10 minutes batter rest)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - eggs
+  - butter
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 0.5
+    unit: tsp
+    name: bicarbonate of soda
+    raw: ½ teaspoon bicarbonate of soda
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 350
+    unit: ml
+    name: buttermilk
+    raw: 350 ml buttermilk
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - name: butter
+    raw: Butter
+  - name: butter
+    raw: Butter
+  - name: maple syrup
+    raw: Maple syrup
+  - name: berries
+    raw: Fresh berries

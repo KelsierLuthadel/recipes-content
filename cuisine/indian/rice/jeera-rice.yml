@@ -1,0 +1,52 @@
+prep: 5 minutes (plus 30 minutes soak)
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - asian
+  - rice
+  - coriander
+  - butter
+mentions:
+  - cuisine/indian/BIR-Butter-Chicken
+  - cuisine/indian/butter-chicken
+ingredients:
+  - qty: 300
+    unit: g
+    name: basmati rice
+    raw: 300 g aged basmati rice
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 2
+    unit: tbsp
+    name: ghee
+    raw: 2 tablespoons ghee
+  - qty: 1
+    unit: tbsp
+    name: cumin seeds
+    raw: 1 tablespoon cumin seeds
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 3
+    name: green cardamom pods
+    raw: 3 green cardamom pods
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: A small handful of coriander

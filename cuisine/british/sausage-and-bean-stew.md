@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-cook: 35 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - onion
-  - garlic
-  - tomato
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sausage and Butter Bean Stew
 
 ![Sausage and Butter Bean Stew](resources/sausage-and-bean-stew.jpg)

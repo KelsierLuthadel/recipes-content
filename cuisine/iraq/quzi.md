@@ -1,35 +1,3 @@
----
-prep: 30 minutes
-cook: 4 hours
-allergens:
-  - dairy
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - make-ahead
-  - meals
-  - meat
-  - lamb
-  - rice
-  - onion
-  - garlic
-  - lemon
-  - lime
-  - coriander
-  - butter
-  - yogurt
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Quzi
 
 ![Quzi](resources/quzi.jpg)

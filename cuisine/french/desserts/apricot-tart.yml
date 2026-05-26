@@ -1,0 +1,36 @@
+prep: 30 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+mentions: []
+ingredients:
+  - qty: 220
+    unit: g
+    name: sweet shortcrust pastry
+    raw: 220 grams Sweet shortcrust pastry
+  - qty: 8
+    name: apricots
+    raw: 8 very ripe apricots
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 grams caster sugar
+  - qty: 220
+    unit: g
+    name: sweet shortcrust pastry
+    raw: 220 grams Sweet shortcrust pastry
+  - qty: 350
+    unit: g
+    name: creme patissiere
+    raw: 350 grams crème pâtissière
+  - qty: 8
+    name: apricots
+    raw: 8 very ripe apricots
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 grams caster sugar

@@ -1,0 +1,52 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - meals
+  - eggs
+  - onion
+  - potato
+  - spinach
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: courgette or other vegetables
+    raw: 1 courgette or other vegetables
+  - qty: 200
+    unit: g
+    name: spinach
+    raw: 200 g spinach
+  - qty: 8
+    name: eggs
+    raw: 8 eggs
+  - qty: 50
+    unit: g
+    name: parmesan cheese
+    raw: 50 g parmesan cheese
+  - qty: 100
+    unit: g
+    name: feta
+    raw: 100 g feta
+  - qty: 1
+    name: herbs
+    raw: A small bunch of fresh herbs
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: nutmeg
+    raw: A grating of nutmeg

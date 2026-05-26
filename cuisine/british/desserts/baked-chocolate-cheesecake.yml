@@ -1,0 +1,53 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - cheese
+  - chocolate
+  - shavuot
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 175
+    unit: g
+    name: plain flour
+    raw: 175 grams plain flour
+  - qty: 100
+    unit: g
+    name: butter
+    raw: 100 grams chopped butter
+  - qty: 25
+    unit: g
+    name: caster
+    raw: 25 grams caster
+  - name: little cold water
+    raw: a little cold water
+  - name: orange
+    raw: one orange
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 grams caster sugar
+  - qty: 75
+    unit: g
+    name: butter
+    raw: 75 grams butter
+  - qty: 200
+    unit: g
+    name: dark chocolate
+    raw: 200 grams dark chocolate
+  - qty: 500
+    unit: g
+    name: cream cheese
+    raw: 500 grams cream cheese
+  - qty: 2
+    name: eggs
+    raw: 2 eggs, beaten

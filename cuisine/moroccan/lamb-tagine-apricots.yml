@@ -1,0 +1,92 @@
+prep: 20 minutes
+cook: 2 ¼ hours
+allergens:
+  - gluten
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - honey
+  - nuts
+  - complex
+  - eid-al-adha
+  - ramadan
+  - muslim
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: lamb shoulder
+    raw: 1 kg lamb shoulder
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 2
+    unit: tsp
+    name: ras el hanout
+    raw: 2 teaspoons ras el hanout
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: A pinch of saffron threads
+  - qty: 700
+    unit: ml
+    name: chicken
+    raw: 700 ml chicken
+  - qty: 2
+    unit: tbsp
+    name: honey
+    raw: 2 tablespoons honey
+  - qty: 200
+    unit: g
+    name: apricots
+    raw: 200 g dried apricots
+  - qty: 50
+    unit: g
+    name: toasted flaked almonds
+    raw: 50 g toasted flaked almonds
+  - qty: 1
+    name: coriander
+    raw: A small bunch of coriander
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: couscous
+    raw: Couscous , to serve

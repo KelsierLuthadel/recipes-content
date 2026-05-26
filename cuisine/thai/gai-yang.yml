@@ -1,0 +1,110 @@
+prep: 25 minutes (plus 4 hours marinating)
+cook: 35 minutes
+allergens:
+  - soy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - bbq
+  - meat
+  - fish
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/thai/side-dishes/khao-niao
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: chicken
+    raw: 1 whole chicken
+  - qty: 8
+    name: coriander roots
+    raw: 8 coriander roots
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 5
+    unit: g
+    name: white peppercorns
+    raw: 5 g white peppercorns
+  - qty: 5
+    unit: g
+    name: salt
+    raw: 5 g salt
+  - qty: 60
+    unit: ml
+    name: fish sauce
+    raw: 60 ml fish sauce
+  - qty: 30
+    unit: ml
+    name: oyster sauce
+    raw: 30 ml oyster sauce
+  - qty: 30
+    unit: ml
+    name: light soy sauce
+    raw: 30 ml light soy sauce
+  - qty: 15
+    unit: ml
+    name: dark soy sauce
+    raw: 15 ml dark soy sauce
+  - qty: 25
+    unit: g
+    name: palm sugar
+    raw: 25 g palm sugar
+  - qty: 30
+    unit: ml
+    name: vegetable oil
+    raw: 30 ml vegetable oil
+  - qty: 5
+    unit: g
+    name: turmeric
+    raw: 5 g ground turmeric
+  - qty: 30
+    unit: g
+    name: uncooked sticky rice
+    raw: 30 g uncooked sticky rice
+  - qty: 60
+    unit: ml
+    name: fish sauce
+    raw: 60 ml fish sauce
+  - qty: 60
+    unit: ml
+    name: lime juice
+    raw: 60 ml lime juice
+  - qty: 30
+    unit: g
+    name: palm sugar
+    raw: 30 g palm sugar
+  - qty: 30
+    unit: ml
+    name: tamarind concentrate
+    raw: 30 ml tamarind concentrate
+  - qty: 10
+    unit: g
+    name: thai chilli flakes
+    raw: 10 g dried Thai chilli flakes
+  - qty: 3
+    name: spring onions
+    raw: 3 spring onions
+  - qty: 15
+    unit: g
+    name: coriander leaves
+    raw: 15 g coriander leaves
+  - qty: 2
+    name: shallots
+    raw: 2 shallots

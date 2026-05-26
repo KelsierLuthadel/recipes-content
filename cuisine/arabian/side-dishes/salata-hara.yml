@@ -1,0 +1,58 @@
+prep: 12 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - onion
+  - tomato
+  - lemon
+  - chili
+mentions:
+  - cuisine/arabian/kabsa
+  - cuisine/yemen/mandi
+ingredients:
+  - qty: 3
+    name: tomatoes
+    raw: 3 ripe tomatoes
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 1.5
+    name: green chillies
+    raw: 1-2 fresh green chillies
+  - qty: 4
+    unit: tbsp
+    name: parsley
+    raw: 4 tablespoons fresh parsley
+  - qty: 2
+    unit: tbsp
+    name: mint
+    raw: 2 tablespoons fresh mint
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon ground black pepper

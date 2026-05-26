@@ -1,19 +1,3 @@
----
-prep: 5 minutes active
-allergens: []
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - honey
-mentions: []
----
-
-
-
-
 # Sumac Lemonade
 
 ![Sumac Lemonade](resources/sumac-lemonade.jpg)

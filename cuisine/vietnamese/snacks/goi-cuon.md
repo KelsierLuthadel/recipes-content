@@ -1,38 +1,3 @@
----
-prep: 30 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - peanuts
-  - sesame
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - spicy
-  - snack
-  - asian
-  - meat
-  - fish
-  - pork
-  - prawn
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - coriander
-  - butter
-  - nuts
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Gỏi Cuốn
 
 ![Goi Cuon](resources/goi-cuon.jpg)

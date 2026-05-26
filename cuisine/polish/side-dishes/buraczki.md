@@ -1,21 +1,3 @@
----
-prep: 10 minutes
-cook: 1 hour (mostly roasting)
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - sides
-  - onion
-  - lemon
-  - butter
-mentions: []
----
-
-
-
-
 # Buraczki
 
 ![Buraczki](resources/buraczki.jpg)

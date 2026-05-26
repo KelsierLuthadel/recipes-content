@@ -1,0 +1,94 @@
+prep: 1 hour (plus 2 hours chilling)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - cream
+  - chocolate
+  - complex
+mentions: []
+ingredients:
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - qty: 180
+    unit: g
+    name: caster sugar
+    raw: 180 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 120
+    unit: g
+    name: plain flour
+    raw: 120 g plain flour
+  - qty: 50
+    unit: g
+    name: cocoa powder
+    raw: 50 g cocoa powder
+  - qty: 30
+    unit: g
+    name: cornflour
+    raw: 30 g cornflour
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 700
+    unit: g
+    name: morello cherries in syrup
+    raw: 700 g morello cherries in syrup
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tablespoon cornflour
+  - qty: 100
+    unit: ml
+    name: the reserved cherry syrup
+    raw: 100 ml of the reserved cherry syrup
+  - qty: 100
+    unit: ml
+    name: cherry syrup
+    raw: 100 ml cherry syrup
+  - qty: 80
+    unit: ml
+    name: kirsch
+    raw: 80 ml kirsch
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 800
+    unit: ml
+    name: double cream
+    raw: 800 ml double cream
+  - qty: 60
+    unit: g
+    name: icing sugar
+    raw: 60 g icing sugar
+  - qty: 2
+    unit: tsp
+    name: vanilla extract
+    raw: 2 teaspoons vanilla extract
+  - qty: 1
+    unit: tbsp
+    name: kirsch
+    raw: 1 tablespoon kirsch
+  - qty: 120
+    unit: g
+    name: dark chocolate
+    raw: 120 g dark chocolate
+  - qty: 12
+    name: morello cherries
+    raw: 12 whole drained morello cherries

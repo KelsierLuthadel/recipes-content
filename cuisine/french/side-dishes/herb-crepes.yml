@@ -1,0 +1,39 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - eggs
+  - butter
+mentions:
+  - base-ingredients/baking/clarified-butter
+  - cuisine/british/beef-wellington
+  - cuisine/french/desserts/crepes
+ingredients:
+  - qty: 60
+    unit: g
+    name: plain flour
+    raw: 60 grams plain flour
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml milk
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 15
+    unit: g
+    name: herbs
+    raw: 15 grams chopped herbs
+  - qty: 30
+    unit: g
+    name: clarified butter
+    raw: 30 grams Clarified Butter

@@ -1,28 +1,3 @@
----
-prep: 25 minutes
-cook: 2 hours
-allergens:
-  - gluten
-  - dairy
-  - meat
-tags:
-  - one-pan
-  - meals
-  - meat
-  - lamb
-  - onion
-  - potato
-  - carrot
-  - butter
-  - complex
-  - st-patricks
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lancashire Hotpot
 
 ![Lancashire Hotpot](resources/lancashire-hotpot.jpg)

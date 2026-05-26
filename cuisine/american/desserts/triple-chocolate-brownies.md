@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - butter
-  - chocolate
-mentions: []
----
-
-
-
-
 # Triple Chocolate Brownies
 
 ![Triple Chocolate Brownies](resources/triple-chocolate-brownies.jpg)

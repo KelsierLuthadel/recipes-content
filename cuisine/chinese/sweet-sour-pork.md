@@ -1,29 +1,3 @@
----
-prep: 20 minutes
-cook: 4 minutes
-allergens:
-  - eggs
-  - peanuts
-  - soy
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - meals
-  - asian
-  - meat
-  - pork
-  - eggs
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sweet and Sour Pork
 
 ![Sweet and Sour Pork](resources/sweet-sour-pork.jpg)

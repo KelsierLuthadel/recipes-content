@@ -1,18 +1,3 @@
----
-prep: 15 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-mentions: []
----
-
-
-
-
 # Candied Fruit Peel
 
 ![Candied Fruit Peel](resources/candied-orange-peel.jpg)

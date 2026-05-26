@@ -1,38 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour
-allergens:
-  - dairy
-  - peanuts
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - lamb
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - potato
-  - carrot
-  - lime
-  - coriander
-  - butter
-  - nuts
-  - chili
-  - complex
-mentions:
-  - cuisine/senegalese/mafe
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Domoda
 
 ![Domoda](resources/domoda.jpg)

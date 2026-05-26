@@ -1,0 +1,67 @@
+prep: 10 minutes (plus 30 minutes soak for the rice)
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - rice
+  - nuts
+mentions:
+  - cuisine/afghanistan/desserts/firni
+ingredients:
+  - qty: 60
+    unit: g
+    name: basmati rice
+    raw: 60 g aged basmati rice
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 80 ml water
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre full-fat milk
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 0.25
+    unit: tsp
+    name: saffron threads
+    raw: ¼ teaspoon saffron threads
+  - qty: 2
+    unit: tbsp
+    name: milk
+    raw: 2 tablespoons warm milk
+  - qty: 1
+    unit: tbsp
+    name: rose water
+    raw: 1 tablespoon rose water
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 30
+    unit: g
+    name: blanched almonds
+    raw: 30 g blanched almonds
+  - qty: 30
+    unit: g
+    name: pistachios
+    raw: 30 g pistachios
+  - qty: 1.5
+    name: sheets of silver leaf
+    raw: 1-2 sheets of silver leaf
+  - name: saffron threads
+    raw: A few extra saffron threads
+  - qty: 6
+    name: earthenware bowls or ramekins
+    raw: 6 earthenware bowls or ramekins

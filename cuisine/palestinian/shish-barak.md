@@ -1,33 +1,3 @@
----
-prep: 1 hour
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - meals
-  - meat
-  - lamb
-  - eggs
-  - rice
-  - onion
-  - garlic
-  - butter
-  - yogurt
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Shish Barak
 
 ![Shish Barak](resources/shish-barak.jpg)

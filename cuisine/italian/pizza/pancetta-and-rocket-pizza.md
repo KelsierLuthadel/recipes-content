@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-  - meat
-tags:
-  - gluten-free
-  - quick
-  - meals
-  - meat
-  - pork
-  - tomato
-  - cheese
-mentions:
-  - cuisine/italian/pizza/pizza-sauce
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
-  - vinaigrette/caesar-dressing
----
-
-
-
-
 # Pancetta and Rocket Pizza
 
 ![Pancetta and Rocket Pizza](resources/pancetta-and-rocket-pizza.jpg)

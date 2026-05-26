@@ -1,0 +1,49 @@
+prep: 25 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - dessert
+  - asian
+  - coconut
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 200
+    unit: g
+    name: glutinous rice flour
+    raw: 200 grams glutinous rice flour
+  - qty: 1
+    unit: tbsp
+    name: rice flour
+    raw: 1 tablespoon rice flour
+  - qty: 2
+    unit: tsp
+    name: pandan paste
+    raw: 2 teaspoons pandan paste, or 100 ml strained fresh pandan juice
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml warm water
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
+  - qty: 80
+    unit: g
+    name: gula melaka
+    raw: 80 grams gula melaka , finely chopped into small chips, or soft dark brown sugar
+  - qty: 120
+    unit: g
+    name: coconut
+    raw: 120 grams grated coconut
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf, torn

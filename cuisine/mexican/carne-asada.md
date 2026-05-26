@@ -1,31 +1,3 @@
----
-prep: 15 minutes (plus 2 hours marinade)
-cook: 8 minutes
-allergens:
-  - gluten
-  - soy
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - meals
-  - meat
-  - beef
-  - garlic
-  - lime
-  - coriander
-  - soy-sauce
-  - complex
-mentions:
-  - cuisine/mexican/side-dishes/pico-de-gallo
-  - cuisine/mexican/snacks/quesadillas
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Carne Asada
 
 ![Carne Asada](resources/carne-asada.jpg)

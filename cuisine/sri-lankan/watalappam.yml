@@ -1,0 +1,56 @@
+prep: 15 minutes
+cook: 50 minutes (plus 2 hours chilling)
+allergens:
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - meals
+  - eggs
+  - coconut
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: kithul jaggery
+    raw: 200 g kithul jaggery
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml thick coconut milk
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 0.25
+    unit: tsp
+    name: cloves
+    raw: ¼ teaspoon ground cloves
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 50
+    unit: g
+    name: unsalted cashews
+    raw: 50 g unsalted cashews

@@ -1,24 +1,3 @@
----
-prep: 20 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - sides
-  - butter
-  - cream
-  - cheese
-  - nuts
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Mafrouka
 
 ![Mafrouka](resources/mafrouka.jpg)

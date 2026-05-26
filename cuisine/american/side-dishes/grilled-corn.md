@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-cook: 12 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - sides
-  - bbq
-  - garlic
-  - lime
-  - butter
-mentions:
-  - cuisine/mexican/side-dishes/elote
----
-
-
-
-
 # Grilled Corn on the Cob
 
 ![Grilled Corn on the Cob](resources/grilled-corn.jpg)

@@ -1,0 +1,95 @@
+prep: 40 minutes (plus 30 minutes chilling)
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - soy
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 150
+    unit: g
+    name: cold unsalted butter
+    raw: 150 g cold unsalted butter, cubed
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 5
+    unit: tbsp
+    name: ice water
+    raw: 4-6 tablespoons ice water
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 600
+    unit: g
+    name: beef mince
+    raw: 600 g beef mince
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 400
+    unit: ml
+    name: beef stock
+    raw: 400 ml beef stock
+  - qty: 2
+    unit: tbsp
+    name: tomato sauce
+    raw: 2 tablespoons tomato sauce
+  - qty: 2
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 2 tablespoons Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tablespoon dark soy sauce
+  - qty: 1
+    unit: tsp
+    name: vegemite
+    raw: 1 teaspoon Vegemite
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    name: sheet ready-rolled all-butter puff pastry
+    raw: 1 sheet ready-rolled all-butter puff pastry
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - name: tomato sauce
+    raw: Tomato sauce , squeezed on top, ideally a hot day, ideally at a sports ground

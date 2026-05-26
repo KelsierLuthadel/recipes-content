@@ -1,0 +1,36 @@
+prep: 5 minutes
+cook: 4 minutes
+allergens:
+  - gluten
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+mentions:
+  - cuisine/taiwanese/snacks/scallion-pancakes
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 275
+    unit: g
+    name: all-purpose plain flour
+    raw: 275 grams all-purpose plain flour
+  - qty: 225
+    unit: g
+    name: water
+    raw: 225 grams very hot water
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: Pinch of fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: sesame oil
+    raw: 2 tablespoons sesame oil
+  - name: flour for dusting
+    raw: Extra flour for dusting
+  - name: minimal oil
+    raw: Minimal oil for the pan

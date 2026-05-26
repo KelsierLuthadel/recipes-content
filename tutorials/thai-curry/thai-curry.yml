@@ -1,0 +1,24 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - curry
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+  - cuisine/thai/pad-pak-ruam
+  - cuisine/thai/pastes/massaman-curry-paste
+  - cuisine/thai/pastes/panang-curry-paste
+  - cuisine/thai/pastes/thai-green-curry-paste
+  - cuisine/thai/pastes/thai-yellow-curry-paste
+  - tutorials/bir-curry/bir-curry
+  - tutorials/pizza/sauce
+  - tutorials/rice/absorption-method
+  - tutorials/rice/rice
+  - tutorials/stocks-sauces/stocks
+  - tutorials/thai-curry/coconut-milk
+  - tutorials/thai-curry/green
+  - tutorials/thai-curry/massaman
+  - tutorials/thai-curry/panang
+  - tutorials/thai-curry/yellow

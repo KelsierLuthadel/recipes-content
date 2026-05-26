@@ -1,0 +1,32 @@
+prep: 15 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - cream
+  - chocolate
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: best-quality white chocolate
+    raw: 250 grams best-quality white chocolate
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml milk
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream
+  - qty: 7
+    unit: g
+    name: mint leaves
+    raw: 7 grams fresh mint leaves
+  - qty: 0.75
+    unit: tsp
+    name: caraway seeds
+    raw: ¾ teaspoon caraway seeds

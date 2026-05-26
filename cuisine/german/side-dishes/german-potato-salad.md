@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - meat
-  - mustard
-tags:
-  - dairy-free
-  - gluten-free
-  - sides
-  - meat
-  - pork
-  - onion
-  - potato
-mentions:
-  - cuisine/german/snacks/frikadellen
-  - cuisine/german/wiener-schnitzel
----
-
-
-
-
 # German Potato Salad
 
 ![German Potato Salad](resources/german-potato-salad.jpg)

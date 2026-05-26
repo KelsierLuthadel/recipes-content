@@ -1,0 +1,79 @@
+prep: 20 minutes
+cook: 4 hours
+allergens:
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - snack
+  - meat
+  - pork
+  - onion
+  - garlic
+  - complex
+mentions: []
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: pork shoulder
+    raw: 1.2 kg boneless pork shoulder
+  - qty: 200
+    unit: g
+    name: pork back fat or lard
+    raw: 200 g pork back fat OR lard
+  - qty: 2
+    name: shallots
+    raw: 2 shallots
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme
+  - qty: 2
+    name: bay leaves
+    raw: 2 fresh bay leaves
+  - qty: 6
+    name: black peppercorns
+    raw: 6 black peppercorns
+  - qty: 6
+    name: juniper berries
+    raw: 6 juniper berries
+  - qty: 1
+    name: mace
+    raw: 1 small piece of mace
+  - qty: 200
+    unit: ml
+    name: dry white wine
+    raw: 200 ml dry white wine
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1.5
+    name: to 2 teaspoons salt
+    raw: 1 ½ to 2 teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - qty: 0.25
+    unit: tsp
+    name: white pepper
+    raw: ¼ teaspoon ground white pepper
+  - qty: 1
+    unit: tbsp
+    name: brandy
+    raw: 1 tablespoon brandy
+  - qty: 1
+    name: baguette
+    raw: 1 fresh baguette
+  - name: cornichons
+    raw: Cornichons
+  - name: dijon mustard
+    raw: Dijon mustard
+  - name: dry white wine or sparkling cider
+    raw: A dry white wine or sparkling cider

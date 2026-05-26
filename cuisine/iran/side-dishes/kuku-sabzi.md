@@ -1,28 +1,3 @@
----
-prep: 30 minutes
-cook: 40 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - sides
-  - eggs
-  - onion
-  - lemon
-  - coriander
-  - yogurt
-  - nuts
-  - complex
-mentions:
-  - cuisine/italian/frittata
----
-
-
-
-
 # Kuku Sabzi
 
 ![Kuku Sabzi](resources/kuku-sabzi.jpg)

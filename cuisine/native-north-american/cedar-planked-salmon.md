@@ -1,24 +1,3 @@
----
-prep: 15 minutes (plus 1 hour plank soak + 30 min cure)
-cook: 18 minutes
-allergens:
-  - fish
-  - mustard
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - meat
-  - fish
-  - salmon
-  - lemon
-  - complex
-mentions: []
----
-
-
-
-
 # Cedar-Planked Salmon
 
 ![Cedar-Planked Salmon](resources/cedar-planked-salmon.jpg)

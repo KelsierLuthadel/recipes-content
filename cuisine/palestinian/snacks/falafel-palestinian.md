@@ -1,31 +1,3 @@
----
-prep: 25 minutes (plus overnight bean soak)
-cook: 12 minutes
-allergens:
-  - gluten
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - snack
-  - make-ahead
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - coriander
-  - chickpea
-  - complex
-mentions:
-  - cuisine/israel/side-dishes/falafel
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Falafel Palestinian
 
 ![Falafel Palestinian](resources/falafel-palestinian.jpg)

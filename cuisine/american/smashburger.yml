@@ -1,0 +1,52 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+tags:
+  - gluten-free
+  - quick
+  - meals
+  - bbq
+  - meat
+  - beef
+  - onion
+  - potato
+  - butter
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef chuck
+    raw: 600 g ground beef chuck, ideally 20% fat
+  - name: flaky sea salt
+    raw: Flaky sea salt
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 4
+    name: american cheese
+    raw: 4 slices American cheese
+  - qty: 4
+    name: soft potato buns
+    raw: 4 soft potato buns, split
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter, softened
+  - qty: 1
+    name: white onion
+    raw: 1 white onion , very thinly sliced
+  - qty: 4
+    name: dill pickle chips per burger
+    raw: 4 dill pickle chips per burger
+  - qty: 2
+    unit: tbsp
+    name: yellow mustard
+    raw: 2 tbsp yellow mustard
+  - qty: 4
+    unit: tbsp
+    name: tomato ketchup
+    raw: 4 tbsp tomato ketchup

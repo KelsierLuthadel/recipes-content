@@ -1,27 +1,3 @@
----
-prep: 25 minutes
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - lemon
-  - butter
-  - cheese
-  - nuts
-  - complex
-mentions:
-  - cuisine/turkish/desserts/knafeh
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Knafeh Naameh
 
 ![Knafeh Naameh](resources/knafeh-naameh.jpg)

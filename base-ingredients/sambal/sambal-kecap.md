@@ -1,28 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - soy
-  - fish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - fish
-  - garlic
-  - ginger
-  - lemon
-  - lime
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sambal Kecap
 
 ![Sambal Kecap](resources/sambal-kecap.jpg)

@@ -1,0 +1,42 @@
+prep: 10 minutes
+cook: 19 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - chocolate
+  - nuts
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: butter
+    raw: 200 grams butter
+  - name: butter
+    raw: butter
+  - qty: 200
+    unit: g
+    name: dark chocolate at 70% cocoa solids
+    raw: 200 grams dark chocolate at 70% cocoa solids
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 220
+    unit: g
+    name: light brown sugar
+    raw: 220 grams light brown sugar
+  - qty: 120
+    unit: g
+    name: plain flour
+    raw: 120 grams plain flour
+  - qty: 220
+    unit: g
+    name: pecan nuts
+    raw: 220 grams pecan nuts

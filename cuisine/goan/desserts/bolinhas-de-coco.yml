@@ -1,0 +1,64 @@
+prep: 20 minutes (plus 4 hours rest)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - coconut
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 200
+    unit: g
+    name: coconut
+    raw: 200 g fresh grated coconut
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 60
+    unit: g
+    name: salted butter
+    raw: 60 g salted butter
+  - qty: 100
+    unit: g
+    name: semolina
+    raw: 100 g fine semolina
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 30
+    unit: g
+    name: semolina
+    raw: 30 g semolina
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter

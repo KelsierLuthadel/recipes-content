@@ -1,22 +1,3 @@
----
-prep: 15 minutes (plus 1 hour rising)
-cook: 20 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - make-ahead
-  - sides
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Khubz Tawa
 
 ![Khubz Tawa](resources/khubz-tawa.jpg)

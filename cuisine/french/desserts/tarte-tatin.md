@@ -1,22 +1,3 @@
----
-prep: 25 minutes
-cook: 50 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - dessert
-  - butter
-  - cream
-  - valentines
-mentions:
-  - cuisine/french/desserts/apple-tart
----
-
-
-
-
 # Tarte Tatin
 
 ![Tarte Tatin](resources/tarte-tatin.jpg)

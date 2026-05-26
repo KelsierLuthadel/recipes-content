@@ -1,0 +1,89 @@
+prep: 1 hour (plus 1 hour resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - butter
+  - cheese
+  - complex
+mentions:
+  - cuisine/azerbaijan/desserts/shekerbura
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 7
+    unit: g
+    name: instant yeast
+    raw: 7 g instant yeast
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml warm milk
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: coarse-ground black pepper
+    raw: 1 tablespoon coarse-ground black pepper
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 teaspoon caraway seeds
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 teaspoon fennel seeds
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: 1 pinch saffron threads
+  - qty: 50
+    unit: g
+    name: sheep's cheese
+    raw: 50 g aged sheep's cheese, grated
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    unit: tbsp
+    name: milk
+    raw: 1 tablespoon milk
+  - qty: 1
+    unit: tsp
+    name: black caraway
+    raw: 1 teaspoon black caraway
+  - qty: 1
+    unit: tsp
+    name: sesame seeds
+    raw: 1 teaspoon sesame seeds

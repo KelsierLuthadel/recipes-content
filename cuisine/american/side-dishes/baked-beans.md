@@ -1,26 +1,3 @@
----
-prep: 15 minutes (plus 12 hours soaking)
-cook: 3 hours 30 minutes
-allergens:
-  - meat
-  - mustard
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - sides
-  - meat
-  - pork
-  - onion
-  - complex
-mentions:
-  - cuisine/american/side-dishes/cornbread
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Baked Beans
 
 ![Baked Beans](resources/baked-beans.jpg)

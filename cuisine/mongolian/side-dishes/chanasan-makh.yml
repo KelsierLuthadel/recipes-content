@@ -1,0 +1,37 @@
+prep: 5 minutes
+cook: 1 hour 45 minutes
+allergens:
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - sides
+  - meat
+  - lamb
+  - onion
+  - complex
+mentions: []
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: mutton on the bone
+    raw: 1 ½ kg mutton on the bone
+  - qty: 3
+    unit: l
+    name: water
+    raw: 3 litres cold water
+  - qty: 3
+    unit: tbsp
+    name: salt
+    raw: 3 tablespoons salt
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - name: salt flakes
+    raw: Salt flakes
+  - name: mustard
+    raw: Mustard

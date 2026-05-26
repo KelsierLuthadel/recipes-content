@@ -1,23 +1,3 @@
----
-prep: 25 minutes (plus 3 hours simmering the milk, plus 2 hours chilling)
-cook: 3 hours
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - lemon
-  - butter
-  - cream
-  - chocolate
-  - complex
-mentions: []
----
-
-
-
-
 # Banoffee Pie
 
 ![Banoffee Pie](resources/banoffee-pie.jpg)

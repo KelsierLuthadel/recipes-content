@@ -1,0 +1,46 @@
+prep: 15 minutes
+cook: 7 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - onion
+  - chili
+mentions: []
+ingredients:
+  - qty: 8
+    unit: tbsp
+    name: virgin olive oil
+    raw: 8 tablespoons extra virgin olive oil
+  - qty: 2
+    name: red onions
+    raw: 2 red onions
+  - qty: 2
+    name: yellow peppers
+    raw: 2 yellow peppers
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper
+  - qty: 1
+    name: courgette
+    raw: 1 courgette
+  - qty: 0.5
+    unit: tsp
+    name: chilli flakes
+    raw: ½ teaspoon dried chilli flakes
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tablespoon fresh thyme leaves
+  - name: salt
+    raw: Salt to taste
+  - qty: 400
+    unit: g
+    name: tagliatelle
+    raw: 400 grams fresh tagliatelle

@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-cook: 25 minutes (basmati) or 45 minutes (with droma)
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - rice
-  - butter
-  - nuts
-mentions: []
----
-
-
-
-
 # Dresil
 
 ![Dresil](resources/dresil.jpg)

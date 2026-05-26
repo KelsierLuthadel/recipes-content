@@ -1,0 +1,67 @@
+prep: 15 minutes (plus 1 hour to pickle)
+cook: 0 minutes
+allergens:
+  - soy
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - garlic
+  - ginger
+  - carrot
+  - lime
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: daikon radish
+    raw: 1 daikon radish
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 100
+    unit: ml
+    name: white cane vinegar
+    raw: 100 ml white cane vinegar
+  - qty: 60
+    unit: ml
+    name: lime juice
+    raw: 60 ml lime juice
+  - qty: 80
+    unit: g
+    name: palm sugar
+    raw: 80 g palm sugar
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 2
+    name: bird's-eye chillies
+    raw: 2 bird's-eye chillies
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water

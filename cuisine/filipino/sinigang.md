@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour
-allergens:
-  - fish
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - fish
-  - pork
-  - rice
-  - onion
-  - tomato
-  - spinach
-  - lime
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sinigang Na Baboy
 
 ![Sinigang na Baboy](resources/sinigang.jpg)

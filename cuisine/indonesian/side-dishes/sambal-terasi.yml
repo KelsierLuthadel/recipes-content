@@ -1,0 +1,55 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 12
+    name: red chillies
+    raw: 12 red chillies
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    name: shallots
+    raw: 4 shallots
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes
+  - qty: 15
+    unit: g
+    name: terasi
+    raw: 15 g terasi
+  - qty: 3
+    unit: tbsp
+    name: neutral oil
+    raw: 3 tablespoons neutral oil
+  - qty: 1
+    unit: tsp
+    name: palm sugar or dark brown sugar
+    raw: 1 teaspoon palm sugar or dark brown sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon lime juice

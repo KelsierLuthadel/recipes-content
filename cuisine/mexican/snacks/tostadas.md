@@ -1,35 +1,3 @@
----
-prep: 20 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - snack
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - tomato
-  - lime
-  - coriander
-  - cream
-  - cheese
-  - chili
-  - complex
-mentions:
-  - cuisine/mexican/side-dishes/refried-beans
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Tostadas
 
 ![Tostadas](resources/tostadas.jpg)

@@ -1,0 +1,43 @@
+prep: 15 minutes (plus 2-6 hours rise)
+cook: 20 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - snack
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 g plain flour
+  - qty: 70
+    unit: ml
+    name: water
+    raw: 70 ml water
+  - qty: 2
+    unit: g
+    name: instant yeast
+    raw: 2 g instant yeast
+  - qty: 40
+    unit: ml
+    name: olive oil
+    raw: 40 ml olive oil
+  - qty: 0.5
+    unit: tsp
+    name: baking soda
+    raw: ½ teaspoon baking soda
+  - qty: 1
+    unit: handful
+    name: flour
+    raw: 1 handful flour
+  - qty: 1.5
+    unit: l
+    name: olive
+    raw: 1 ½ litres olive
+  - name: icing sugar
+    raw: Icing sugar, to finish

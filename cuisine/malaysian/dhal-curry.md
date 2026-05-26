@@ -1,36 +1,3 @@
----
-prep: 10 minutes
-cook: 50 minutes
-allergens:
-  - mustard
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - asian
-  - lentils
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coconut
-  - lime
-  - coriander
-  - chili
-  - curry
-  - complex
-mentions: []
----
-
-
-
-
 # Malaysian Dhal Curry
 
 ![Malaysian Dhal Curry](resources/dhal-curry.jpg)

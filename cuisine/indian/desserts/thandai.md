@@ -1,26 +1,3 @@
----
-prep: 10 minutes (plus 1 hour soaking, 2 hours chilling)
-cook: None
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - make-ahead
-  - asian
-  - nuts
-  - complex
-  - holi
-  - hindu
-mentions:
-  - cuisine/indian/desserts/gujiya
----
-
-
-
-
 # Thandai
 
 ![Thandai](resources/thandai.jpg)

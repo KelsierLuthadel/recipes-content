@@ -1,0 +1,48 @@
+prep: 10 minutes
+cook: None
+allergens:
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - eggs
+  - garlic
+  - lime
+  - coriander
+  - cream
+mentions:
+  - cuisine/mexican/tacos-al-pastor
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 0.3333333333333333
+    unit: cup
+    name: pickled jalapenos
+    raw: ⅓ cup pickled jalapeños , OR 3-4 tablespoons fresh jalapeños
+  - qty: 0.3333333333333333
+    unit: cup
+    name: sour cream
+    raw: ⅓ cup full-fat sour cream
+  - qty: 0.3333333333333333
+    unit: cup
+    name: whole-egg mayonnaise
+    raw: ⅓ cup whole-egg mayonnaise
+  - qty: 0.3333333333333333
+    unit: cup
+    name: coriander leaves
+    raw: ⅓ cup fresh coriander leaves
+  - qty: 1
+    name: garlic clove
+    raw: 1 small garlic clove
+  - qty: 2
+    unit: tsp
+    name: lime juice
+    raw: 2 teaspoons lime juice
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt

@@ -1,0 +1,59 @@
+prep: 15 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - one-pan
+  - sides
+  - meat
+  - onion
+  - garlic
+  - cream
+mentions:
+  - cuisine/hungarian/side-dishes/nokedli
+ingredients:
+  - qty: 1
+    name: white cabbage
+    raw: 1 white cabbage , about 1 kg
+  - qty: 2
+    unit: tbsp
+    name: lard
+    raw: 2 tablespoons lard
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1.5
+    unit: tbsp
+    name: hungarian sweet paprika
+    raw: 1 ½ tablespoons Hungarian sweet paprika
+  - qty: 0.5
+    unit: tsp
+    name: caraway seeds
+    raw: ½ teaspoon caraway seeds
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 150
+    unit: ml
+    name: chicken
+    raw: 150 ml chicken
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 2
+    unit: tbsp
+    name: sour cream
+    raw: 2 tablespoons sour cream

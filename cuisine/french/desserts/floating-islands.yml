@@ -1,0 +1,40 @@
+prep: 5 minutes
+cook: 3 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - make-ahead
+  - eggs
+mentions: []
+ingredients:
+  - qty: 2
+    name: rhubarb stalks
+    raw: 2 young, tender rhubarb stalks
+  - qty: 250
+    unit: ml
+    name: creme anglaise
+    raw: 250 ml crème anglaise
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre of milk
+  - qty: 190
+    unit: g
+    name: caster sugar
+    raw: 190 grams caster sugar
+  - qty: 6
+    name: egg whites
+    raw: 6 egg whites
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 grams caster sugar
+  - qty: 210
+    unit: g
+    name: caster sugar
+    raw: 210 grams caster sugar

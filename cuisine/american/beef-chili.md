@@ -1,32 +1,3 @@
----
-prep: 10 minutes
-cook: 35 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - onion
-  - garlic
-  - tomato
-  - chili
-  - complex
-  - halloween
-mentions:
-  - cuisine/american/side-dishes/cornbread
-  - tutorials/pizza/cheese
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Beef Chili
 
 ![Beef Chili](resources/beef-chili.jpg)

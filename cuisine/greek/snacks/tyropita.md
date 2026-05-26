@@ -1,26 +1,3 @@
----
-prep: 30 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - sesame
-tags:
-  - vegetarian
-  - snack
-  - eggs
-  - butter
-  - cheese
-mentions:
-  - baking/pastry/filo-pastry
-  - tutorials/pastry/filo
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Tyropita
 
 ![Tyropita](resources/tyropita.jpg)

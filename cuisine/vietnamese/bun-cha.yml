@@ -1,0 +1,111 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - soy
+  - fish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - fish
+  - pork
+  - onion
+  - garlic
+  - carrot
+  - lime
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 0.25
+    unit: cup
+    name: fish sauce
+    raw: ¼ cup fish sauce
+  - qty: 4
+    name: asian shallots
+    raw: 4 Asian shallots
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tablespoon dark soy sauce
+  - qty: 1
+    unit: tbsp
+    name: white sugar
+    raw: 1 tablespoon white sugar
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 500
+    unit: g
+    name: pork mince
+    raw: 500 grams pork mince
+  - qty: 500
+    unit: g
+    name: pork belly
+    raw: 500 grams pork belly
+  - name: vegetable oil
+    raw: Vegetable oil
+  - qty: 0.5
+    unit: cup
+    name: white vinegar
+    raw: ½ cup white vinegar
+  - qty: 0.5
+    unit: cup
+    name: white sugar
+    raw: ½ cup white sugar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon sea salt
+  - qty: 100
+    unit: g
+    name: green papaya
+    raw: 100 grams thinly sliced green papaya
+  - qty: 0.5
+    unit: cup
+    name: fish sauce
+    raw: ½ cup fish sauce
+  - qty: 3
+    unit: tbsp
+    name: white vinegar
+    raw: 3 tablespoons white vinegar
+  - qty: 0.75
+    unit: cup
+    name: white sugar
+    raw: ¾ cup white sugar
+  - qty: 1
+    unit: cup
+    name: water
+    raw: 1 cup water
+  - qty: 2
+    unit: tbsp
+    name: lime juice
+    raw: 2 tablespoons lime juice
+  - qty: 500
+    unit: g
+    name: vermicelli noodles
+    raw: 500 grams dried vermicelli noodles
+  - qty: 3
+    name: red chillies
+    raw: 3 red chillies
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - name: mint
+    raw: Fresh mint
+  - name: thai basil
+    raw: Thai basil
+  - name: lettuce leaves
+    raw: Lettuce leaves

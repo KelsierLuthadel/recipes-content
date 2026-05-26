@@ -1,0 +1,64 @@
+prep: 30 minutes (plus 2.5 hours rising)
+cook: 30 minutes
+allergens:
+  - gluten
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - dairy-free
+  - sides
+  - eggs
+  - honey
+  - complex
+  - hanukkah
+  - rosh-hashanah
+  - shavuot
+  - yom-kippur
+  - sukkot
+  - jewish
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: white bread flour
+    raw: 500 g strong white bread flour
+  - qty: 7
+    unit: g
+    name: instant yeast
+    raw: 7 g dried instant yeast
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 2
+    unit: tbsp
+    name: runny honey
+    raw: 2 tablespoons runny honey
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 3
+    name: eggs
+    raw: 3 medium eggs
+  - qty: 80
+    unit: ml
+    name: olive oil
+    raw: 80 ml mild olive oil
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    unit: tsp
+    name: water
+    raw: 1 teaspoon water
+  - qty: 2
+    unit: tbsp
+    name: sesame seeds or poppy seeds
+    raw: 2 tablespoons sesame seeds or poppy seeds

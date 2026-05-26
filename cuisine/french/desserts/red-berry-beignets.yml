@@ -1,0 +1,55 @@
+prep: 10 minutes
+cook: 4 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+mentions:
+  - cuisine/creole/side-dishes/beignets
+  - tutorials/patisserie/petit-fours
+ingredients:
+  - qty: 7
+    unit: g
+    name: yeast
+    raw: 7 grams fresh yeast
+  - qty: 75
+    unit: ml
+    name: milk
+    raw: 75 ml milk
+  - qty: 130
+    unit: g
+    name: plain flour
+    raw: 130 grams plain flour
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: pinch of salt
+  - qty: 60
+    unit: ml
+    name: light beer
+    raw: 60 ml light beer
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 2
+    unit: tbsp
+    name: groundnut oil
+    raw: 2 tablespoons groundnut oil
+  - qty: 20
+    unit: g
+    name: caster sugar
+    raw: 20 grams caster sugar
+  - name: grapeseed oil
+    raw: grapeseed oil
+  - qty: 500
+    unit: g
+    name: mixed red fruits
+    raw: 500 grams mixed red fruits
+  - name: granulated sugar
+    raw: granulated sugar

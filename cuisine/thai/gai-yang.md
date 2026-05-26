@@ -1,39 +1,3 @@
----
-prep: 25 minutes (plus 4 hours marinating)
-cook: 35 minutes
-allergens:
-  - soy
-  - fish
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - asian
-  - bbq
-  - meat
-  - fish
-  - chicken
-  - rice
-  - onion
-  - garlic
-  - lime
-  - coriander
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - cuisine/thai/side-dishes/khao-niao
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Gai Yang
 
 ![Gai Yang](resources/gai-yang.jpg)

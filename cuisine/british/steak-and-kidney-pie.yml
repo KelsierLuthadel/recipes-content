@@ -1,0 +1,74 @@
+prep: 30 minutes
+cook: 2 ½ hours
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+tags:
+  - meals
+  - meat
+  - beef
+  - eggs
+  - mushroom
+  - onion
+  - butter
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: chuck steak
+    raw: 600 g chuck steak
+  - qty: 200
+    unit: g
+    name: ox kidney
+    raw: 200 g ox kidney
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour, seasoned with salt and pepper
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 200
+    unit: g
+    name: chestnut mushrooms
+    raw: 200 g chestnut mushrooms
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 250
+    unit: ml
+    name: stout
+    raw: 250 ml stout
+  - qty: 400
+    unit: ml
+    name: beef stock
+    raw: 400 ml beef stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: thyme leaves
+    raw: 1 teaspoon fresh thyme leaves
+  - qty: 375
+    unit: g
+    name: all-butter shortcrust pastry
+    raw: 375 g all-butter shortcrust pastry
+  - qty: 1
+    name: egg
+    raw: 1 egg, beaten with 1 tablespoon water

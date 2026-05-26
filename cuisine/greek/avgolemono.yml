@@ -1,0 +1,59 @@
+prep: 10 minutes
+cook: 50 minutes
+allergens:
+  - eggs
+  - meat
+  - celery
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - rice
+  - onion
+  - carrot
+  - lemon
+mentions: []
+ingredients:
+  - qty: 1
+    name: chicken or 4 chicken legs
+    raw: 1 whole chicken or 4 chicken legs
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 2
+    name: celery sticks
+    raw: 2 celery sticks
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 100
+    unit: g
+    name: long-grain rice
+    raw: 100 g long-grain rice
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    name: dill
+    raw: A small bunch of dill

@@ -1,0 +1,93 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - chili
+  - complex
+  - halloween
+mentions:
+  - cuisine/american/side-dishes/cornbread
+  - tutorials/pizza/cheese
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 1 tablespoon extra-virgin olive oil
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 900
+    unit: g
+    name: beef
+    raw: 900 g lean ground beef
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: chili powder
+    raw: 2 tablespoons chili powder
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 2
+    unit: tsp
+    name: smoked paprika
+    raw: 2 teaspoons smoked paprika
+  - qty: 2
+    unit: tsp
+    name: brown sugar
+    raw: 2 teaspoons brown sugar
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 0.5
+    unit: tsp
+    name: chipotle powder
+    raw: ½ teaspoon chipotle powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - qty: 1
+    name: green chiles
+    raw: 1 can mild green chiles
+  - qty: 1
+    name: fire-roasted diced tomatoes
+    raw: 1 can fire-roasted diced tomatoes
+  - qty: 720
+    unit: ml
+    name: beef broth
+    raw: 720 ml beef broth
+  - qty: 2
+    name: red kidney beans
+    raw: 2 cans red kidney beans

@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - peanuts
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - nuts
-  - chili
-mentions: []
----
-
-
-
-
 # Sambal Oelek
 
 ![Sambal Oelek](resources/sambal-oelek.jpg)

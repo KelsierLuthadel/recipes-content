@@ -1,0 +1,45 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - nuts
+mentions: []
+ingredients:
+  - qty: 4
+    name: peaches
+    raw: 4 ripe peaches
+  - qty: 0.5
+    name: choux paste
+    raw: ½ quantity choux paste
+  - name: eggwash
+    raw: eggwash
+  - qty: 25
+    unit: g
+    name: flaked almonds
+    raw: 25 grams flaked almonds
+  - qty: 75
+    unit: g
+    name: caster sugar
+    raw: 75 grams caster sugar
+  - qty: 100
+    unit: g
+    name: butter
+    raw: 100 grams butter
+  - qty: 1
+    unit: tbsp
+    name: grenadine syrup
+    raw: 1 tablespoon grenadine syrup
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - name: icing sugar
+    raw: icing sugar

@@ -1,0 +1,66 @@
+prep: 15 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - sides
+  - meat
+  - onion
+  - carrot
+  - lime
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: pork belly
+    raw: 800 g pork belly
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: kg
+    name: yuca
+    raw: 1 kg yuca
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 200
+    unit: g
+    name: white cabbage
+    raw: 200 g white cabbage
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 3
+    unit: tbsp
+    name: white vinegar
+    raw: 3 tablespoons white vinegar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: oregano
+    raw: ½ teaspoon dried oregano
+  - qty: 2
+    name: limes
+    raw: 2 limes
+  - name: salsa picante
+    raw: A dish of salsa picante

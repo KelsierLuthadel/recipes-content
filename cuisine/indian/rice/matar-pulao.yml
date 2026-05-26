@@ -1,0 +1,77 @@
+prep: 10 minutes (plus 30 minutes soak)
+cook: 30 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - butter
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 300
+    unit: g
+    name: basmati rice
+    raw: 300 g aged basmati rice
+  - qty: 200
+    unit: g
+    name: peas
+    raw: 200 g peas
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    unit: tbsp
+    name: ghee
+    raw: 3 tablespoons ghee
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    name: black cardamom pod
+    raw: 1 black cardamom pod
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of coriander

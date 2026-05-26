@@ -1,28 +1,3 @@
----
-prep: 30 minutes (plus 30 min aubergine salting)
-cook: 1 hour 45 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - meat
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - complex
-mentions:
-  - cuisine/iran/tahdig
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Khoresh Bademjan
 
 ![Khoresh Bademjan](resources/khoresh-bademjan.jpg)

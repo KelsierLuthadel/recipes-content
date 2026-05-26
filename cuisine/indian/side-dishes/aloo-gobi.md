@@ -1,29 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - sides
-  - asian
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - potato
-  - coriander
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Aloo Gobi
 
 ![Aloo Gobi](resources/aloo-gobi.jpg)

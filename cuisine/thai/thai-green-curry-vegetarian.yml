@@ -1,0 +1,130 @@
+prep: 25 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - soy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - tofu
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - chili
+  - soy-sauce
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/thai-curry/green
+ingredients:
+  - qty: 5
+    name: long green chillies
+    raw: 5 long green chillies
+  - qty: 4
+    name: bird's-eye chillies
+    raw: 4 bird's-eye chillies
+  - qty: 2
+    name: lemongrass
+    raw: 2 stalks lemongrass
+  - qty: 3
+    name: galangal
+    raw: 3 cm galangal
+  - qty: 3
+    name: ginger
+    raw: 3 cm fresh ginger
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    name: shallots
+    raw: 4 shallots
+  - qty: 2
+    name: kaffir lime leaves
+    raw: 2 kaffir lime leaves
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon ground white pepper
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    name: coriander
+    raw: A small bunch of coriander
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml tin coconut milk
+  - qty: 165
+    unit: ml
+    name: coconut cream
+    raw: 165 ml tin coconut cream
+  - qty: 300
+    unit: g
+    name: firm tofu
+    raw: 300 g firm tofu
+  - qty: 1
+    name: thai aubergine
+    raw: 1 Thai aubergine
+  - qty: 100
+    unit: g
+    name: pea aubergines
+    raw: 100 g pea aubergines
+  - qty: 200
+    unit: g
+    name: broccoli
+    raw: 200 g broccoli
+  - qty: 100
+    unit: g
+    name: corn
+    raw: 100 g baby corn
+  - qty: 220
+    unit: g
+    name: bamboo shoots
+    raw: 220 g tin bamboo shoots
+  - qty: 4
+    name: kaffir lime leaves
+    raw: 4 kaffir lime leaves
+  - qty: 3
+    unit: tbsp
+    name: light soy sauce
+    raw: 3 tablespoons light soy sauce
+  - qty: 2
+    unit: tbsp
+    name: palm sugar
+    raw: 2 tablespoons palm sugar
+  - qty: 200
+    unit: ml
+    name: vegetable stock
+    raw: 200 ml vegetable stock
+  - qty: 1
+    unit: handful
+    name: thai basil leaves
+    raw: A handful of Thai basil leaves
+  - qty: 2
+    name: long red chillies
+    raw: 2 long red chillies
+  - qty: 0.5
+    name: lime
+    raw: ½ lime
+  - name: jasmine rice
+    raw: Cooked jasmine rice

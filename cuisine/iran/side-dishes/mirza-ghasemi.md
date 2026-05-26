@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 35 minutes
-allergens:
-  - eggs
-  - garlic
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - sides
-  - eggs
-  - garlic
-  - tomato
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mirza Ghasemi
 
 ![Mirza Ghasemi](resources/mirza-ghasemi.jpg)

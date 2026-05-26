@@ -1,29 +1,3 @@
----
-prep: 10 minutes
-cook: 2 hours
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - asian
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coriander
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pre-Cooked Chicken
 
 ![Pre-Cooked Chicken](resources/pre-cooked-chicken.jpg)

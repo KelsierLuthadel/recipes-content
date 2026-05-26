@@ -1,0 +1,34 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - meals
+  - eggs
+  - onion
+  - potato
+mentions: []
+ingredients:
+  - qty: 600
+    unit: g
+    name: floury potatoes
+    raw: 600 g floury potatoes
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 300
+    unit: ml
+    name: olive oil
+    raw: 300 ml olive oil
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - name: black pepper
+    raw: Black pepper

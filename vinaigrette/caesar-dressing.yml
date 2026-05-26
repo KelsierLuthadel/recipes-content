@@ -1,0 +1,53 @@
+prep: 15 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+  - eggs
+  - peanuts
+  - fish
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - eggs
+  - garlic
+  - lemon
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 0.125
+    unit: tsp
+    name: dijon mustard
+    raw: ⅛ teaspoon Dijon mustard
+  - qty: 75
+    unit: ml
+    name: groundnut oil
+    raw: 75 milliliters groundnut oil
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice
+  - qty: 0.125
+    unit: clove
+    name: garlic
+    raw: ⅛ clove garlic
+  - qty: 1
+    unit: tbsp
+    name: anchovy essence
+    raw: 1 tablespoon anchovy essence
+  - qty: 30
+    unit: g
+    name: parmesan cheese
+    raw: 30 grams Parmesan cheese
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons water
+  - name: sea salt and freshly ground black pepper
+    raw: Fine sea salt and freshly ground black pepper

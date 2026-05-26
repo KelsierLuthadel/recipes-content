@@ -1,0 +1,100 @@
+prep: 20 minutes
+cook: 45 minutes
+allergens:
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - beef
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - spinach
+  - chili
+  - complex
+  - kwanzaa
+mentions:
+  - cuisine/nigerian/side-dishes/fufu
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: beef shin
+    raw: 400 g beef shin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: stock cube
+    raw: 1 stock cube
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - qty: 3
+    name: red bell peppers
+    raw: 3 red bell peppers
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1.5
+    name: scotch bonnet chillies
+    raw: 1-2 Scotch bonnet chillies
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 3
+    name: ginger
+    raw: 3 cm fresh ginger
+  - qty: 120
+    unit: ml
+    name: red palm oil
+    raw: 120 ml red palm oil
+  - qty: 150
+    unit: g
+    name: smoked fish
+    raw: 150 g smoked fish
+  - qty: 2
+    unit: tbsp
+    name: crayfish
+    raw: 2 tablespoons ground crayfish
+  - qty: 1
+    unit: tbsp
+    name: iru
+    raw: 1 tablespoon iru
+  - qty: 200
+    unit: g
+    name: prawns
+    raw: 200 g large raw prawns
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - qty: 400
+    unit: g
+    name: spinach - or 250 g frozen spinach
+    raw: 400 g fresh spinach - or 250 g frozen spinach
+  - name: white rice
+    raw: White rice, eba, fufu, pounded yam

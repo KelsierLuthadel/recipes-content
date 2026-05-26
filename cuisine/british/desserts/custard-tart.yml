@@ -1,0 +1,50 @@
+prep: 35 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - easter
+mentions: []
+ingredients:
+  - qty: 260
+    unit: g
+    name: flan pastry
+    raw: 260 grams flan pastry
+  - qty: 5
+    name: egg yolks
+    raw: 5 egg yolks
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 grams caster sugar
+  - qty: 20
+    unit: g
+    name: plain flour
+    raw: 20 grams plain flour
+  - qty: 15
+    unit: g
+    name: custard powder
+    raw: 15 grams custard powder
+  - qty: 400
+    unit: ml
+    name: milk
+    raw: 400 ml milk
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 16
+    name: prunes
+    raw: 16 prunes
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 grams caster sugar
+  - qty: 100
+    unit: g
+    name: candied citrus peel
+    raw: 100 grams candied citrus peel

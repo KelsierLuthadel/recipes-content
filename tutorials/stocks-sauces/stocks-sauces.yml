@@ -1,0 +1,21 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+mentions:
+  - cuisine/american/side-dishes/mac-and-cheese
+  - cuisine/greek/moussaka
+  - cuisine/italian/lasagne
+  - cuisine/italian/pizza/pizza-sauce
+  - tutorials/bread/bread
+  - tutorials/eggs/eggs
+  - tutorials/pastry/pastry
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/bechamel
+  - tutorials/stocks-sauces/espagnole
+  - tutorials/stocks-sauces/hollandaise
+  - tutorials/stocks-sauces/stocks
+  - tutorials/stocks-sauces/veloute

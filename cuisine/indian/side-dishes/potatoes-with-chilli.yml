@@ -1,0 +1,54 @@
+prep: 15 minutes
+cook: 21 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - asian
+  - onion
+  - potato
+  - coriander
+  - chili
+mentions: []
+ingredients:
+  - qty: 12
+    name: new potatoes
+    raw: 12 new potatoes
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 0.5
+    unit: tsp
+    name: chillies
+    raw: ½ teaspoon crushed dried chillies
+  - qty: 0.5
+    unit: tsp
+    name: white cumin seeds
+    raw: ½ teaspoon white cumin seeds
+  - qty: 0.5
+    unit: tsp
+    name: fennel seeds
+    raw: ½ teaspoon fennel seeds
+  - qty: 0.5
+    unit: tsp
+    name: coriander seeds
+    raw: ½ teaspoon crushed coriander seeds
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: red chillies
+    raw: 2 fresh red chillies
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tablespoons coriander

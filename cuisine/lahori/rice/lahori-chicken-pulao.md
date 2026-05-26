@@ -1,31 +1,3 @@
----
-prep: 15 minutes (plus 30 minutes soak)
-cook: 1 hour
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - chili
-  - complex
-mentions:
-  - cuisine/indian/biryani
----
-
-
-
-
 # Lahori Chicken Pulao
 
 ![Lahori Chicken Pulao](resources/lahori-chicken-pulao.jpg)

@@ -1,30 +1,3 @@
----
-prep: 20 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - eggs
-  - soy
-  - sesame
-  - meat
-  - mustard
-tags:
-  - dairy-free
-  - meals
-  - meat
-  - pork
-  - eggs
-  - rice
-  - lemon
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tonkatsu
 
 ![Tonkatsu](resources/tonkatsu.jpg)

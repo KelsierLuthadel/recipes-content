@@ -1,23 +1,3 @@
----
-prep: 30 minutes
-cook: 45 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - lemon
-  - butter
-  - complex
-mentions: []
----
-
-
-
-
 # Kuchen Alemán
 
 ![Kuchen Alemán](resources/kuchen-aleman.jpg)

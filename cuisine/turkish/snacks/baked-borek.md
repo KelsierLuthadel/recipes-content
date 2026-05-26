@@ -1,31 +1,3 @@
----
-prep: 1 hour 15 minutes
-cook: 40 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - peanuts
-  - sesame
-tags:
-  - vegetarian
-  - snack
-  - eggs
-  - onion
-  - tomato
-  - butter
-  - complex
-mentions:
-  - baking/pastry/filo-pastry
-  - tutorials/pastry/filo
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Baked Börek with Khandrajo Filling
 
 ![Baked Börek](resources/borek.jpg)

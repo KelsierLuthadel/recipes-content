@@ -1,0 +1,56 @@
+prep: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - spices
+  - coriander
+mentions: []
+ingredients:
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 2
+    unit: tbsp
+    name: coriander seeds
+    raw: 2 tablespoons coriander seeds
+  - qty: 2
+    unit: tbsp
+    name: cumin seeds
+    raw: 2 tablespoons cumin seeds
+  - qty: 6
+    unit: tbsp
+    name: cardamom seeds
+    raw: 6 tablespoons cardamom seeds
+  - qty: 2
+    unit: tbsp
+    name: cloves
+    raw: 2 tablespoons cloves
+  - qty: 2
+    unit: tbsp
+    name: black peppercorns
+    raw: 2 tablespoons black peppercorns
+  - qty: 4
+    unit: tbsp
+    name: paprika
+    raw: 4 tablespoons paprika
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 2
+    unit: tsp
+    name: nutmeg
+    raw: 2 teaspoons freshly grated nutmeg
+  - qty: 2
+    unit: tsp
+    name: chilli powder
+    raw: 2 teaspoons chilli powder
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt

@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-cook: 40 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - make-ahead
-  - sides
-  - honey
-  - st-patricks
-mentions:
-  - cuisine/irish/beef-and-guinness-stew
-  - tutorials/bread/cottage
-  - tutorials/bread/proving
-  - tutorials/pizza/dough
----
-
-
-
-
 # Irish Soda Bread
 
 ![Irish Soda Bread](resources/irish-soda-bread.jpg)

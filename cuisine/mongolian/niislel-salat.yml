@@ -1,0 +1,65 @@
+prep: 25 minutes
+cook: 25 minutes (plus 1 hour chilling)
+allergens:
+  - eggs
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - potato
+  - carrot
+  - complex
+mentions:
+  - cuisine/mongolian/buuz
+  - cuisine/mongolian/khuushuur
+ingredients:
+  - qty: 4
+    name: potatoes
+    raw: 4 potatoes
+  - qty: 3
+    name: carrots
+    raw: 3 carrots
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 200
+    unit: g
+    name: smoked sausage
+    raw: 200 g cooked smoked sausage
+  - qty: 4
+    name: dill pickles
+    raw: 4 dill pickles
+  - qty: 200
+    unit: g
+    name: peas
+    raw: 200 g frozen peas
+  - qty: 6
+    unit: tbsp
+    name: mayonnaise
+    raw: 6 tablespoons mayonnaise
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    name: dill
+    raw: A small bunch of dill

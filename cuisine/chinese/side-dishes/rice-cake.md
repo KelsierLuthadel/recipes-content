@@ -1,24 +1,3 @@
----
-prep: 5 minutes
-cook: 50 minutes
-allergens:
-  - gluten
-  - peanuts
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - sides
-  - asian
-  - rice
-mentions:
-  - cuisine/chinese/fried-rice
-  - cuisine/chinese/sizzling-rice-prawn
----
-
-
-
-
 # Rice Cake
 
 ![Rice cake](resources/rice-cake.jpg)

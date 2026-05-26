@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - meals
-  - lentils
-  - rice
-  - onion
-  - lemon
-  - yogurt
-mentions: []
----
-
-
-
-
 # Mujadara
 
 ![Mujadara](resources/mujadara.jpg)

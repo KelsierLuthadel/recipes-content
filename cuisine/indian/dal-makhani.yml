@@ -1,0 +1,125 @@
+prep: 15 minutes (plus overnight soak)
+cook: 3 hours
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - lentils
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - butter
+  - cream
+  - chili
+  - complex
+  - diwali
+  - hindu
+mentions:
+  - cuisine/indian/rajma
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: black urad dal
+    raw: 250 g whole black urad dal
+  - qty: 50
+    unit: g
+    name: red kidney beans
+    raw: 50 g red kidney beans
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1 ½ litres water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 2
+    unit: tbsp
+    name: ghee
+    raw: 2 tablespoons ghee
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 30
+    unit: g
+    name: ginger
+    raw: 30 g fresh ginger
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tablespoon tomato paste
+  - qty: 2
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 2 teaspoons Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 teaspoon Garam Masala
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 150
+    unit: ml
+    name: double cream
+    raw: 150 ml double cream
+  - qty: 1
+    unit: tsp
+    name: kasuri methi
+    raw: 1 teaspoon kasuri methi
+  - qty: 0.5
+    unit: tsp
+    name: garam masala
+    raw: ½ teaspoon Garam Masala
+  - name: swirl of cream
+    raw: A swirl of cream
+  - qty: 1
+    unit: small knob
+    name: butter
+    raw: A small knob of butter
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of coriander
+  - name: naan
+    raw: Naan

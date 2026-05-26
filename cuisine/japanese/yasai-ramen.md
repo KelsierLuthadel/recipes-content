@@ -1,34 +1,3 @@
----
-prep: 20 minutes
-cook: 35 minutes
-allergens:
-  - gluten
-  - eggs
-  - soy
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - dairy-free
-  - spicy
-  - meals
-  - eggs
-  - tofu
-  - mushroom
-  - onion
-  - garlic
-  - ginger
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Yasai Ramen
 
 ![Yasai Ramen](resources/yasai-ramen.jpg)

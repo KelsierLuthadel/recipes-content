@@ -1,0 +1,103 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - yogurt
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 1
+    unit: large handful
+    name: fenugreek leaves*
+    raw: Large handful fresh fenugreek leaves*, roughly chopped
+  - qty: 3
+    unit: tbsp
+    name: rapeseed oil
+    raw: 3 tbsp rapeseed oil
+  - qty: 2
+    name: star anise
+    raw: 2 star anise
+  - qty: 1
+    name: indian bay leaf
+    raw: 1 Indian bay leaf
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 tsp coriander seeds
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 tsp fennel seeds
+  - qty: 1
+    name: onion
+    raw: 1 onion, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp garlic and ginger paste
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies, finely chopped
+  - name: from a large bunch of coriander
+    raw: Stalks from a large bunch of coriander
+  - qty: 1
+    unit: tbsp
+    name: mixed powder
+    raw: 1 tbsp Mixed Powder
+  - qty: 1
+    unit: tsp
+    name: bassar curry masala
+    raw: 1 tsp bassar curry masala
+  - qty: 75
+    unit: ml
+    name: plain passata
+    raw: 75 ml plain passata
+  - qty: 500
+    unit: ml
+    name: curry base gravy
+    raw: 500 ml Curry Base Gravy
+  - qty: 800
+    unit: g
+    name: pre-cooked chicken
+    raw: 800 g Pre-Cooked Chicken
+  - qty: 4
+    unit: tbsp
+    name: plain yoghurt
+    raw: 4 tbsp plain yoghurt
+  - name: salt
+    raw: Salt, to taste
+  - qty: 3
+    unit: tbsp
+    name: coriander leaves
+    raw: 3 tbsp chopped coriander leaves
+  - qty: 0.5
+    unit: tsp
+    name: garam masala
+    raw: ½ tsp Garam Masala
+  - qty: 1
+    unit: tsp
+    name: fenugreek leaves
+    raw: 1 tsp dried fenugreek leaves

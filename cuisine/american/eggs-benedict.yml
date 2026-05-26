@@ -1,0 +1,69 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - eggs
+  - fish
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - meat
+  - fish
+  - pork
+  - salmon
+  - eggs
+  - lemon
+  - butter
+  - chili
+mentions:
+  - sauces/sauce-savory/hollandaise-sauce
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/hollandaise
+ingredients:
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tablespoon water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 1
+    unit: pinch
+    name: cayenne
+    raw: A pinch of cayenne
+  - qty: 8
+    name: eggs
+    raw: 8 eggs
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar
+    raw: 2 tablespoons white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 4
+    name: english muffins
+    raw: 4 English muffins
+  - qty: 8
+    name: ham
+    raw: 8 slices good ham
+  - qty: 1
+    unit: tbsp
+    name: chives
+    raw: 1 tablespoon chopped chives

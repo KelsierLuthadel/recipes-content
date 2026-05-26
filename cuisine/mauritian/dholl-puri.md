@@ -1,28 +1,3 @@
----
-prep: 30 minutes (plus 4 hours soaking)
-cook: 45 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - spicy
-  - make-ahead
-  - meals
-  - lentils
-  - lime
-  - coriander
-  - chili
-  - complex
-mentions:
-  - cuisine/indian/Breads/puris
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Dholl Puri
 
 ![Dholl Puri](resources/dholl-puri.jpg)

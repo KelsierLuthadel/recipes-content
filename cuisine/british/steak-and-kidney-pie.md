@@ -1,29 +1,3 @@
----
-prep: 30 minutes
-cook: 2 ½ hours
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-  - meat
-tags:
-  - meals
-  - meat
-  - beef
-  - eggs
-  - mushroom
-  - onion
-  - butter
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Steak and Kidney Pie
 
 ![Steak and Kidney Pie](resources/steak-and-kidney-pie.jpg)

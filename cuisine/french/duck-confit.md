@@ -1,25 +1,3 @@
----
-prep: 24 hours cure (active 15 minutes)
-cook: 3 hours (oven) plus 8 minutes pan-crisp
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - meals
-  - meat
-  - duck
-  - garlic
-  - complex
-  - valentines
-mentions: []
----
-
-
-
-
 # Duck Confit
 
 ![Duck Confit](resources/duck-confit.jpg)

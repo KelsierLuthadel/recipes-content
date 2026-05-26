@@ -1,27 +1,3 @@
----
-prep: 5 minutes
-cook: 12 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - coconut
-  - kwanzaa
-mentions:
-  - cuisine/cuban/side-dishes/tostones
-  - cuisine/jamaican/brown-stew-chicken
-  - cuisine/jamaican/jerk-chicken
-  - cuisine/jamaican/side-dishes/rice-and-peas
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Fried Plantains
 
 ![Fried Plantains](resources/fried-plantains.jpg)

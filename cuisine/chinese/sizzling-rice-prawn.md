@@ -1,34 +1,3 @@
----
-prep: 20 minutes
-cook: 2 minutes
-allergens:
-  - gluten
-  - peanuts
-  - soy
-  - shellfish
-tags:
-  - dairy-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - fish
-  - prawn
-  - rice
-  - onion
-  - ginger
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - cuisine/chinese/side-dishes/rice-cake
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sizzling Rice Prawns
 
 ![Sizzling Rice Prawns](resources/sizzling-rice-and-prawns.jpg)

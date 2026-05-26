@@ -1,0 +1,38 @@
+prep: 5 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - baking
+  - butter
+mentions:
+  - tutorials/patisserie/tarts
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: flour
+    raw: 500 grams flour
+  - qty: 200
+    unit: ml
+    name: ice cold water
+    raw: 200 ml ice cold water
+  - qty: 12
+    unit: g
+    name: salt
+    raw: 12 grams salt
+  - qty: 25
+    unit: ml
+    name: white wine vinegar
+    raw: 25 ml white wine vinegar
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 400
+    unit: g
+    name: butter
+    raw: 400 grams butter

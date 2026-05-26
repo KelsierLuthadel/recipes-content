@@ -1,0 +1,76 @@
+prep: 20 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - meals
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - complex
+mentions:
+  - cuisine/russian/borscht
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil
+    raw: 4 tablespoons sunflower oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 3
+    name: beetroots
+    raw: 3 beetroots
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 1.5
+    unit: l
+    name: vegetable stock
+    raw: 1 ½ litres vegetable stock
+  - qty: 3
+    name: potatoes
+    raw: 3 potatoes
+  - qty: 0.5
+    name: white cabbage
+    raw: ½ small white cabbage
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 5
+    name: black peppercorns
+    raw: 5 black peppercorns
+  - qty: 2
+    unit: tbsp
+    name: cider vinegar
+    raw: 2 tablespoons cider vinegar
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 4
+    unit: tbsp
+    name: soured cream
+    raw: 4 tablespoons soured cream
+  - qty: 1
+    name: dill
+    raw: A small bunch of dill
+  - name: crusty rye bread
+    raw: Crusty rye bread

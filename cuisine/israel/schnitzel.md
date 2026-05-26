@@ -1,32 +1,3 @@
----
-prep: 20 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - eggs
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - meals
-  - meat
-  - chicken
-  - eggs
-  - rice
-  - lemon
-  - passover
-  - rosh-hashanah
-  - tu-bav
-  - yom-kippur
-  - sukkot
-  - jewish
-mentions:
-  - cuisine/israel/side-dishes/israeli-salad
----
-
-
-
-
 # Israeli Schnitzel
 
 ![Israeli Schnitzel](resources/schnitzel.jpg)

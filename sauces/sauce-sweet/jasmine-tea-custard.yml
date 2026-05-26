@@ -1,0 +1,32 @@
+prep: 10 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - eggs
+  - cream
+mentions:
+  - tutorials/eggs/meringues
+ingredients:
+  - qty: 120
+    unit: ml
+    name: milk
+    raw: 120 ml milk
+  - qty: 250
+    unit: ml
+    name: whipping cream
+    raw: 250 ml whipping cream
+  - qty: 3
+    unit: tbsp
+    name: jasmine tea leaves
+    raw: 3 tablespoons jasmine tea leaves
+  - qty: 8
+    name: egg yolks
+    raw: 8 egg yolks
+  - qty: 150
+    unit: g
+    name: soft brown sugar
+    raw: 150 grams soft brown sugar

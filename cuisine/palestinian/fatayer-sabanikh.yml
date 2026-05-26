@@ -1,0 +1,92 @@
+prep: 35 minutes (plus 45 min dough rise)
+cook: 18 minutes
+allergens:
+  - gluten
+  - tree-nuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - meals
+  - onion
+  - spinach
+  - lemon
+  - nuts
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 1
+    name: fast-action yeast
+    raw: 1 sachet fast-action yeast
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml warm water
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 600
+    unit: g
+    name: spinach - or 500 g frozen spinach
+    raw: 600 g fresh spinach - OR 500 g frozen spinach
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 2
+    unit: tbsp
+    name: sumac
+    raw: 2 tablespoons sumac
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons fresh lemon juice
+  - qty: 1
+    unit: tbsp
+    name: pomegranate molasses
+    raw: 1 tablespoon pomegranate molasses
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 30
+    unit: g
+    name: pine nuts
+    raw: 30 g pine nuts
+  - qty: 1
+    unit: tsp
+    name: chilli flakes
+    raw: 1 teaspoon chilli flakes
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - name: sumac
+    raw: A sprinkle of sumac

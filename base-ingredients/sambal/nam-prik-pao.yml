@@ -1,0 +1,61 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - fish
+  - prawn
+  - garlic
+  - lemon
+  - lime
+  - coriander
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 55
+    unit: g
+    name: shrimp
+    raw: 50-60 grams dried shrimp
+  - qty: 1
+    name: shrimp paste
+    raw: 1 cm cube of shrimp paste
+  - qty: 50
+    unit: g
+    name: prawns
+    raw: 50 grams cooked prawns, peeled and roughly chopped
+  - qty: 4.5
+    name: garlic cloves
+    raw: 4-5 garlic cloves
+  - qty: 4.5
+    name: red chillies
+    raw: 4-5 fresh red chillies
+  - qty: 2.5
+    unit: tbsp
+    name: coriander leaves
+    raw: 2-3 tablespoons fresh coriander leaves
+  - qty: 7
+    name: aubergines
+    raw: 6-8 tiny baby aubergines , or substitute regular aubergine chopped finely
+  - qty: 4
+    unit: tbsp
+    name: lime juice
+    raw: 4 tablespoons fresh lime juice
+  - qty: 2
+    unit: tbsp
+    name: thai fish sauce
+    raw: 2 tablespoons Thai fish sauce
+  - qty: 3
+    unit: tsp
+    name: soft light brown sugar
+    raw: 3 teaspoons soft light brown sugar
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: Pinch of fine sea salt

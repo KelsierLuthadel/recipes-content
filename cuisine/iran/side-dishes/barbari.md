@@ -1,24 +1,3 @@
----
-prep: 20 minutes (plus 2 hours rising)
-cook: 20 minutes (with a hot stone)
-allergens:
-  - gluten
-  - sesame
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - make-ahead
-  - sides
-  - complex
-mentions:
-  - tutorials/bread/hydration
-  - tutorials/pizza/dough
----
-
-
-
-
 # Barbari
 
 ![Barbari](resources/barbari.jpg)

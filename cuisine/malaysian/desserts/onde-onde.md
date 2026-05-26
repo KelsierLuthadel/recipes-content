@@ -1,22 +1,3 @@
----
-prep: 25 minutes
-cook: 10 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - dessert
-  - asian
-  - coconut
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Onde-Onde
 
 ![Onde-Onde](resources/onde-onde.jpg)
@@ -45,7 +26,7 @@ A two-flour glutinous rice dough is coloured with pandan, wrapped around chips o
 - 80 grams gula melaka (palm sugar), finely chopped into small chips, or soft dark brown sugar
 
 ### Coconut Coating
-- 120 grams fresh (or frozen grated coconut), defrosted (or 90 grams desiccated coconut moistened with 3 tablespoons hot water)
+- 120 grams grated coconut (or 90 grams desiccated coconut moistened with 3 tablespoons hot water)
 - ¼ teaspoon fine sea salt
 - 1 pandan leaf, torn (optional, for steaming)
 

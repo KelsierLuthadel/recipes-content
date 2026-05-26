@@ -1,0 +1,56 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+  - meat
+tags:
+  - spicy
+  - snack
+  - meat
+  - pork
+  - eggs
+  - lemon
+  - butter
+  - yogurt
+  - honey
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: all-butter puff pastry
+    raw: 500 g all-butter puff pastry
+  - qty: 600
+    unit: g
+    name: merguez sausages
+    raw: 600 g merguez sausages
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 2
+    unit: tbsp
+    name: sesame seeds
+    raw: 2 tablespoons sesame seeds
+  - qty: 1
+    unit: tbsp
+    name: nigella seeds
+    raw: 1 tablespoon nigella seeds
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 2
+    unit: tbsp
+    name: harissa
+    raw: 2 tablespoons Harissa
+  - qty: 2
+    unit: tbsp
+    name: clear honey
+    raw: 2 tablespoons clear honey
+  - qty: 200
+    unit: g
+    name: yogurt
+    raw: 200 g yogurt

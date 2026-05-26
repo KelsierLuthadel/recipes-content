@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - fish
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - sides
-  - asian
-  - fish
-  - prawn
-  - onion
-  - garlic
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Nam Prik Pao
 
 ![Nam Prik Pao](resources/nam-prik-pao.jpg)

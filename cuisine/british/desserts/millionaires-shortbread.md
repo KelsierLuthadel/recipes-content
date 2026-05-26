@@ -1,21 +1,3 @@
----
-prep: 25 minutes (plus 1 hour 30 minutes chilling)
-cook: 30 minutes (plus 12 minutes for the caramel)
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - dessert
-  - butter
-  - chocolate
-  - complex
-mentions: []
----
-
-
-
-
 # Millionaire's Shortbread
 
 ![Millionaire's Shortbread](resources/millionaires-shortbread.jpg)

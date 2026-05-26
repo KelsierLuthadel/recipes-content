@@ -1,0 +1,89 @@
+prep: 15 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - yogurt
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 125
+    unit: ml
+    name: ghee
+    raw: 125 ml ghee
+  - qty: 2
+    name: red onions
+    raw: 2 red onions , thinly sliced
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp garlic and ginger paste
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes, diced
+  - qty: 4
+    name: green chillies
+    raw: 4 green chillies, sliced
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp ground turmeric
+  - qty: 1
+    unit: tsp
+    name: red chilli powder
+    raw: 1 tsp red chilli powder
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 800
+    unit: g
+    name: pre-cooked chicken
+    raw: 800 g Pre-Cooked Chicken
+  - qty: 125
+    unit: ml
+    name: chicken stock
+    raw: 125 ml Chicken stock
+  - qty: 250
+    unit: g
+    name: plain yoghurt
+    raw: 250 g plain yoghurt, whisked smooth
+  - qty: 70
+    unit: ml
+    name: single cream
+    raw: 70 ml single cream
+  - qty: 1
+    unit: tsp
+    name: fenugreek leaves
+    raw: 1 tsp dried fenugreek leaves
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp Garam Masala
+  - name: salt
+    raw: Salt, to taste
+  - qty: 1
+    name: coriander
+    raw: Bunch coriander , chopped
+  - qty: 5
+    name: ginger
+    raw: 5 cm piece ginger, peeled and julienned

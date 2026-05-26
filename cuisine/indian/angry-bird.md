@@ -1,31 +1,3 @@
----
-prep: 5 minutes
-cook: 40 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - chicken
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - yogurt
-  - chili
-mentions:
-  - cuisine/indian/BIR-chicken-curry
----
-
-
-
-
 # Angry Bird
 
 ![Angry Bird](resources/angry-bird.jpg)

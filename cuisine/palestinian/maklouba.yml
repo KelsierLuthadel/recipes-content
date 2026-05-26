@@ -1,0 +1,86 @@
+prep: 30 minutes
+cook: 1 ¼ hours
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - tomato
+  - coriander
+  - yogurt
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 8
+    name: chicken thighs and drumsticks
+    raw: 8 bone-in chicken thighs and drumsticks
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: cardamom pods
+    raw: 4 cardamom pods
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres water
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 2
+    name: aubergines
+    raw: 2 aubergines
+  - qty: 1
+    name: cauliflower
+    raw: 1 cauliflower
+  - name: vegetable oil
+    raw: Vegetable oil for frying
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 500
+    unit: g
+    name: basmati rice
+    raw: 500 g basmati rice
+  - qty: 2
+    unit: tbsp
+    name: baharat
+    raw: 2 tablespoons Baharat
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 50
+    unit: g
+    name: pine nuts
+    raw: 50 g pine nuts
+  - qty: 50
+    unit: g
+    name: flaked almonds
+    raw: 50 g flaked almonds
+  - qty: 1
+    name: parsley
+    raw: A small bunch of parsley
+  - name: plain yogurt and a tomato-cucumber salad
+    raw: Plain yogurt and a tomato-cucumber salad

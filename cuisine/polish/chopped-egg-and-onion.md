@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 20 minutes
-allergens:
-  - gluten
-  - eggs
-tags:
-  - dairy-free
-  - meals
-  - meat
-  - eggs
-  - onion
-  - passover
-  - yom-kippur
-  - sukkot
-mentions: []
----
-
-
-
-
 # Chopped Egg and Onion
 
 ![Chopped Egg and Onion](resources/chopped-egg-and-onion.jpg)

@@ -1,0 +1,61 @@
+prep: 10 minutes
+cook: 5 minutes
+allergens:
+  - soy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 700
+    unit: g
+    name: chinese leaves
+    raw: 700 grams Chinese leaves
+  - qty: 1
+    unit: tbsp
+    name: oil
+    raw: 1 tablespoon oil
+  - qty: 2
+    unit: tsp
+    name: ginger
+    raw: 2 teaspoons fresh ginger
+  - qty: 2
+    unit: tsp
+    name: garlic
+    raw: 2 teaspoons garlic
+  - qty: 1
+    name: red chilli
+    raw: 1 dried red chilli
+  - qty: 1
+    unit: tbsp
+    name: dry sherry
+    raw: 1 tablespoons dry sherry
+  - qty: 2
+    unit: tbsp
+    name: dark soy sauce
+    raw: 2 tablespoons dark soy sauce
+  - qty: 2
+    unit: tsp
+    name: sugar
+    raw: 2 teaspoons sugar
+  - qty: 50
+    unit: ml
+    name: water
+    raw: 50 ml water
+  - qty: 2
+    unit: tsp
+    name: sesame oil
+    raw: 2 teaspoons sesame oil

@@ -1,20 +1,3 @@
----
-prep: 30 minutes
-cook: 10 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - asian
-  - yogurt
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Bhatura
 
 ![Bhatura](resources/bhaura.jpg)

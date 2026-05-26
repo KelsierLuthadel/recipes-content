@@ -1,31 +1,3 @@
----
-prep: 25 minutes (plus 4 hours marinating, optional)
-cook: 2 hours 45 minutes
-allergens:
-  - dairy
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - lamb
-  - rice
-  - onion
-  - garlic
-  - lemon
-  - coriander
-  - nuts
-  - complex
-  - eid-al-adha
-  - muslim
-mentions: []
----
-
-
-
-
 # Mandi
 
 ![Mandi](resources/mandi.jpg)

@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - asian
-  - onion
-  - carrot
-  - lemon
-  - coriander
-  - chili
-  - curry
-mentions:
-  - cuisine/indian/Breads/rotis
-  - cuisine/indian/side-dishes/samosa
-  - cuisine/indian/snacks/samosa
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tamarind Chutney
 
 ![Tamarind Chutney](resources/tamarind-chutney.jpg)

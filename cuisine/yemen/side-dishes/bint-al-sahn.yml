@@ -1,0 +1,51 @@
+prep: 40 minutes (plus 1 hour resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - sides
+  - eggs
+  - butter
+  - honey
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml warm milk
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 200
+    unit: g
+    name: dark honey
+    raw: 200 g raw dark honey
+  - qty: 1
+    unit: tbsp
+    name: black caraway
+    raw: 1 tablespoon black caraway

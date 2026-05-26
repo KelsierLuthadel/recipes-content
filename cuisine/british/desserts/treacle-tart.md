@@ -1,25 +1,3 @@
----
-prep: 30 minutes (plus 1 hour pastry chill)
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - ginger
-  - lemon
-  - butter
-  - cream
-  - complex
-mentions: []
----
-
-
-
-
 # Treacle Tart
 
 ![Treacle Tart](resources/treacle-tart.jpg)

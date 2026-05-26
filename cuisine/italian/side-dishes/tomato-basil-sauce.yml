@@ -1,0 +1,43 @@
+prep: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - tomato
+  - lemon
+mentions:
+  - tutorials/fish/fish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: tomatoes
+    raw: 200 grams very ripe tomatoes
+  - qty: 3
+    unit: tbsp
+    name: capers
+    raw: 3 tablespoons capers
+  - qty: 50
+    unit: g
+    name: black olives
+    raw: 50 grams black olives
+  - qty: 150
+    unit: ml
+    name: virgin olive oil
+    raw: 150 milliliters extra virgin olive oil
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 20
+    unit: g
+    name: basil leaves
+    raw: 20 grams fresh basil leaves
+  - name: sea salt
+    raw: Fine sea salt to taste
+  - name: white pepper
+    raw: Freshly ground white pepper to taste

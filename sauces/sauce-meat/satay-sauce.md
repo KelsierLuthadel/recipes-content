@@ -1,30 +1,3 @@
----
-prep: 5 minutes
-cook: 5 minutes
-allergens:
-  - dairy
-  - peanuts
-  - soy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - quick
-  - garlic
-  - coconut
-  - lemon
-  - butter
-  - nuts
-  - soy-sauce
-mentions:
-  - cuisine/chinese/snacks/spring-rolls
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Satay Sauce
 
 ![Satay sauce](resources/satay.jpg)

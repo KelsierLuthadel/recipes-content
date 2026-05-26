@@ -1,0 +1,31 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens:
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - eggs
+mentions: []
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: instant coffee
+    raw: 1 tablespoon instant coffee
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons cold water
+  - qty: 4
+    name: egg yolks
+    raw: 4 egg yolks
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 grams caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon

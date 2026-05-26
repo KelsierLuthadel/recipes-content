@@ -1,0 +1,99 @@
+prep: 1 hour (plus 30 minutes resting)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 700
+    unit: g
+    name: beef chuck
+    raw: 700 g beef chuck
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 4
+    name: onions
+    raw: 4 onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tablespoon sweet paprika
+  - qty: 2
+    unit: tsp
+    name: oregano
+    raw: 2 teaspoons ground oregano
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 200
+    unit: ml
+    name: beef stock
+    raw: 200 ml hot beef stock
+  - qty: 12
+    name: black olives
+    raw: 12 black olives
+  - qty: 30
+    name: raisins
+    raw: 30 raisins
+  - qty: 4
+    name: hard-boiled eggs
+    raw: 4 hard-boiled eggs
+  - qty: 600
+    unit: g
+    name: plain flour
+    raw: 600 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 60
+    unit: g
+    name: lard
+    raw: 60 g lard
+  - qty: 2
+    name: egg yolks
+    raw: 2 egg yolks
+  - qty: 280
+    unit: ml
+    name: milk
+    raw: 280 ml warm whole milk

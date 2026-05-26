@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - asian
-  - nuts
-  - diwali
-  - eid-al-fitr
-  - holi
-  - muslim
-  - hindu
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Kaju Barfi
 
 ![Kaju Barfi](resources/kaju-barfi.jpg)

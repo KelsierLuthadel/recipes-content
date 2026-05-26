@@ -1,0 +1,45 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - onion
+  - carrot
+  - lemon
+mentions: []
+ingredients:
+  - qty: 2
+    name: leeks
+    raw: 2 leeks
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - qty: 10
+    name: black peppercorns
+    raw: 10 black peppercorns
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - qty: 400
+    unit: ml
+    name: dry white wine
+    raw: 400 ml dry white wine
+  - qty: 100
+    unit: ml
+    name: white wine vinegar
+    raw: 100 ml white wine vinegar
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water

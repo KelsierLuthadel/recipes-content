@@ -1,29 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - baking/pastry/brioche-dough
-  - cuisine/israel/side-dishes/challah
-  - tutorials/bread/bloomer
-  - tutorials/bread/braided
-  - tutorials/bread/cob
-  - tutorials/bread/coburg
-  - tutorials/bread/cottage
-  - tutorials/bread/fougasse
-  - tutorials/bread/gluten
-  - tutorials/bread/proving
-  - tutorials/bread/sourdough
-  - tutorials/bread/standard-loaf
-  - tutorials/bread/tin
-  - tutorials/pizza/dough
----
-
-
-
 # Shape Gallery
 
 ![Bread shapes](resources/shapes.jpg)

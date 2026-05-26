@@ -1,0 +1,78 @@
+prep: 20 minutes
+cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - lemon
+  - cream
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 8
+    name: thick-cut white bread
+    raw: 8 slices of thick-cut white bread
+  - qty: 6
+    unit: tbsp
+    name: ghee
+    raw: 6 tablespoons ghee
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 0.5
+    unit: tsp
+    name: saffron threads
+    raw: ½ teaspoon saffron threads
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 1
+    unit: tbsp
+    name: rose water
+    raw: 1 tablespoon rose water
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 750
+    unit: ml
+    name: milk
+    raw: 750 ml full-fat milk
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 2
+    unit: tbsp
+    name: semolina
+    raw: 2 tablespoons fine semolina
+  - qty: 30
+    unit: g
+    name: flaked almonds
+    raw: 30 g flaked almonds
+  - qty: 30
+    unit: g
+    name: pistachios
+    raw: 30 g pistachios
+  - qty: 1.5
+    name: sheets of silver leaf
+    raw: 1-2 sheets of silver leaf
+  - name: saffron threads
+    raw: A few extra saffron threads

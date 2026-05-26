@@ -1,22 +1,3 @@
----
-prep: 20 minutes (plus 1 hour soaking)
-cook: 50 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - sides
-  - rice
-  - butter
-  - complex
-mentions:
-  - cuisine/azerbaijan/plov
----
-
-
-
-
 # Saffron Rice (Azerbaijani Style)
 
 ![Azerbaijani Saffron Rice](resources/saffron-rice-azerbaijani.jpg)

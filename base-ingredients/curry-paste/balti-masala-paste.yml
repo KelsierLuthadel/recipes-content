@@ -1,0 +1,32 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - pastes
+  - curry
+mentions:
+  - base-ingredients/curry-powder/balti-masala
+ingredients:
+  - qty: 200
+    unit: g
+    name: balti masala powder
+    raw: 200 grams Balti masala powder
+  - qty: 200
+    unit: ml
+    name: white wine vinegar
+    raw: 200 ml white wine vinegar
+  - qty: 200
+    unit: ml
+    name: vegetable oil
+    raw: 200 ml vegetable oil
+  - name: water
+    raw: Water
+  - name: vegetable oil
+    raw: vegetable oil
+  - name: sterilized jars
+    raw: Sterilized jars

@@ -1,0 +1,85 @@
+prep: 15 minutes
+cook: 2 minutes
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - pastes
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions: []
+ingredients:
+  - qty: 8
+    unit: tsp
+    name: coriander seeds
+    raw: 8 teaspoons coriander seeds
+  - qty: 4
+    unit: tsp
+    name: cumin seeds
+    raw: 4 teaspoons cumin seeds
+  - qty: 4
+    unit: tsp
+    name: black peppercorns
+    raw: 4 teaspoons black peppercorns
+  - qty: 4
+    name: red chillies
+    raw: 4 dried red chillies
+  - qty: 1
+    unit: tsp
+    name: fenugreek seeds
+    raw: 1 teaspoon fenugreek seeds
+  - qty: 1
+    unit: tsp
+    name: mustard seeds
+    raw: 1 teaspoon mustard seeds
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 teaspoon fennel seeds
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: ginger
+    raw: 2 tablespoons fresh ginger
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 150
+    unit: ml
+    name: white wine vinegar
+    raw: 150 ml white wine vinegar
+  - qty: 1
+    unit: tbsp
+    name: turmeric
+    raw: 1 tablespoon ground turmeric
+  - qty: 2
+    unit: tsp
+    name: chilli powder
+    raw: 2 teaspoons chilli powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 150
+    unit: ml
+    name: vegetable oil
+    raw: 150 ml vegetable oil
+  - name: water
+    raw: Water
+  - name: sterilized glass jars
+    raw: Sterilized glass jars
+  - name: vegetable oil
+    raw: vegetable oil

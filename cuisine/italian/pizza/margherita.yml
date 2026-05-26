@@ -1,0 +1,66 @@
+prep: 15 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - tomato
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 220
+    unit: g
+    name: pizza dough
+    raw: 220 grams pizza dough
+  - qty: 200
+    unit: g
+    name: plum tomatoes
+    raw: 200 grams plum tomatoes
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tbsp
+    name: virgin olive oil
+    raw: 1 tablespoon extra virgin olive oil
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 120
+    unit: g
+    name: cherry tomatoes
+    raw: 120 grams cherry tomatoes
+  - qty: 60
+    unit: ml
+    name: virgin olive oil
+    raw: 60 ml extra virgin olive oil
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 150
+    unit: g
+    name: buffalo mozzarella
+    raw: 150 grams buffalo mozzarella
+  - qty: 24
+    name: basil leaves
+    raw: 24 fresh basil leaves
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - name: virgin olive oil
+    raw: Extra virgin olive oil for drizzling
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

@@ -1,0 +1,48 @@
+prep: 35 minutes
+cook: 90 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - cheese
+  - complex
+  - shavuot
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 280
+    unit: g
+    name: shortcrust pastry
+    raw: 280 grams shortcrust pastry
+  - qty: 4
+    name: oranges
+    raw: 4 oranges
+  - qty: 350
+    unit: g
+    name: fromage frais
+    raw: 350 grams fromage frais
+  - qty: 350
+    unit: g
+    name: curd cheese
+    raw: 350 grams curd cheese
+  - qty: 150
+    unit: g
+    name: soured cream
+    raw: 150 grams soured cream
+  - qty: 175
+    unit: g
+    name: caster sugar
+    raw: 175 grams caster sugar
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 6
+    unit: tbsp
+    name: seville orange marmalade
+    raw: 6 tablespoons Seville orange marmalade
+  - name: candied orange peel
+    raw: candied orange peel

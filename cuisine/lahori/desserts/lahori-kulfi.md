@@ -1,21 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour (mostly hands-off reducing)
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - make-ahead
-  - nuts
-mentions: []
----
-
-
-
-
 # Lahori Kulfi
 
 ![Lahori Kulfi](resources/lahori-kulfi.jpg)

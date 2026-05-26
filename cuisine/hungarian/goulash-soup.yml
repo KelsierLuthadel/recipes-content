@@ -1,0 +1,51 @@
+prep: 20 minutes
+cook: 90 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - onion
+  - tomato
+  - potato
+  - complex
+mentions: []
+ingredients:
+  - qty: 700
+    unit: g
+    name: beef chuck steak
+    raw: 700 grams beef chuck steak
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons of olive oil
+  - qty: 5
+    name: onions
+    raw: 5 onions
+  - qty: 250
+    unit: g
+    name: tomatoes
+    raw: 250 grams tomatoes
+  - qty: 3
+    name: potatoes
+    raw: 3 potatoes
+  - qty: 2
+    name: heaped tablespoons sweet hungarian paprika
+    raw: 2 heaped tablespoons sweet Hungarian paprika
+  - qty: 0.5
+    unit: tsp
+    name: caraway seeds
+    raw: ½ teaspoon whole caraway seeds
+  - qty: 750
+    unit: ml
+    name: beef stock
+    raw: 750 ml beef stock
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: flat leaf parsley
+    raw: Fresh flat leaf parsley

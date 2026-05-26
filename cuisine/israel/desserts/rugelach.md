@@ -1,35 +1,3 @@
----
-prep: 45 minutes (plus 2 hours chilling)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - butter
-  - cheese
-  - chocolate
-  - nuts
-  - complex
-  - hanukkah
-  - rosh-hashanah
-  - shavuot
-  - yom-kippur
-  - sukkot
-  - jewish
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Rugelach
 
 ![Rugelach](resources/rugelach.jpg)

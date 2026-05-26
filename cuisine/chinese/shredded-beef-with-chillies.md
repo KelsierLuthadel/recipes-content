@@ -1,29 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - soy
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - beef
-  - onion
-  - ginger
-  - carrot
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Shredded Beef with Chillies
 
 ![Shredded Beef with Chillies](resources/shredded.jpg)

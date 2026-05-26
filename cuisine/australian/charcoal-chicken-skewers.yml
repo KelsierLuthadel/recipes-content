@@ -1,0 +1,81 @@
+prep: 15 minutes (plus 12-24 hours marinating)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - yogurt
+  - curry
+  - complex
+mentions:
+  - sauces/sauce-savory/lemon-yogurt-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: chicken thighs
+    raw: 800 g boneless skinless chicken thighs
+  - qty: 3.5
+    unit: tbsp
+    name: olive oil
+    raw: 3-4 tablespoons olive oil
+  - qty: 1.5
+    unit: tbsp
+    name: garlic powder
+    raw: 1 ½ tablespoons garlic powder
+  - qty: 1
+    unit: tbsp
+    name: onion powder
+    raw: 1 tablespoon onion powder
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tablespoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: mustard powder
+    raw: 1 teaspoon mustard powder
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 0.5
+    unit: tsp
+    name: curry powder
+    raw: ½ teaspoon curry powder
+  - qty: 1.25
+    unit: tsp
+    name: sea salt
+    raw: 1 ¼ teaspoons fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 3
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 3 tablespoons extra-virgin olive oil
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons lemon juice
+  - name: warm flatbreads or pita
+    raw: Warm flatbreads or pita
+  - name: simple chopped salad
+    raw: A simple chopped salad
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: "sauce: garlic toum or lemon yogurt sauce"
+    raw: "A sauce: garlic toum or lemon yogurt sauce"

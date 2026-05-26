@@ -1,26 +1,3 @@
----
-prep: 20 minutes
-cook: 1 hour 24 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - pork
-  - garlic
-  - tomato
-  - cheese
-  - complex
-mentions:
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Chorizo Margherita Pizza
 
 ![Chorizo Pizza](resources/chorizo-pizza.jpg)

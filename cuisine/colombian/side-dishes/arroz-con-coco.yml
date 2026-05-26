@@ -1,0 +1,41 @@
+prep: 5 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - rice
+  - coconut
+mentions:
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/thai/side-dishes/coconut-rice
+ingredients:
+  - qty: 1
+    name: coconut milk
+    raw: 1 tin coconut milk
+  - qty: 200
+    unit: ml
+    name: coconut milk
+    raw: 200 ml coconut milk
+  - qty: 300
+    unit: g
+    name: long-grain rice
+    raw: 300 g long-grain rice
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - qty: 50
+    unit: g
+    name: raisins
+    raw: 50 g raisins
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt

@@ -1,0 +1,53 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - sides
+  - eggs
+  - onion
+  - potato
+mentions: []
+ingredients:
+  - qty: 800
+    unit: g
+    name: floury potatoes
+    raw: 800 g floury potatoes
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 3
+    name: hard-boiled eggs
+    raw: 3 hard-boiled eggs
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 6
+    unit: tbsp
+    name: mayonnaise
+    raw: 6 tablespoons mayonnaise
+  - qty: 2
+    unit: tbsp
+    name: dijon mustard
+    raw: 2 tablespoons Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 3
+    unit: tbsp
+    name: parsley
+    raw: 3 tablespoons fresh parsley

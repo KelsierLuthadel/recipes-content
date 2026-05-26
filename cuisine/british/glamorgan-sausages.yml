@@ -1,0 +1,58 @@
+prep: 20 minutes (plus 30 min chilling)
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - butter
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 2
+    name: leeks
+    raw: 2 leeks
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 200
+    unit: g
+    name: caerphilly cheese
+    raw: 200 g caerphilly cheese
+  - qty: 200
+    unit: g
+    name: white breadcrumbs
+    raw: 200 g fresh white breadcrumbs
+  - qty: 2
+    unit: tbsp
+    name: sage or 1 teaspoon dried
+    raw: 2 tablespoons fresh sage or 1 teaspoon dried
+  - qty: 1
+    unit: tbsp
+    name: english mustard
+    raw: 1 tablespoon English mustard
+  - qty: 2
+    unit: tsp
+    name: thyme leaves
+    raw: 2 teaspoons fresh thyme leaves
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 50
+    unit: g
+    name: plain flour
+    raw: 50 g plain flour
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil
+    raw: 4 tablespoons sunflower oil

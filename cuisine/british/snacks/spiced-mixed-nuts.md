@@ -1,25 +1,3 @@
----
-prep: 5 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - quick
-  - snack
-  - butter
-  - nuts
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Spiced Mixed Nuts
 
 ![Spiced Mixed Nuts](resources/spiced-mixed-nuts.jpg)

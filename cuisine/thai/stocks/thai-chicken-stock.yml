@@ -1,0 +1,35 @@
+prep: 5 minutes
+cook: 2 hours
+allergens:
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - asian
+  - meat
+  - complex
+mentions: []
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: meaty chicken bones
+    raw: 1 ½kg meaty chicken bones
+  - qty: 10
+    name: coriander stalks
+    raw: 10 coriander stalks
+  - qty: 1
+    name: onion
+    raw: 1 onion , roughly chopped
+  - qty: 10
+    name: garlic cloves
+    raw: 10 garlic cloves, smashed
+  - qty: 2.5
+    name: galangal
+    raw: 2 ½cm piece of galangal, thinly sliced and lightly smashed
+  - qty: 1
+    name: lemongrass stalk
+    raw: 1 whole lemongrass stalk, bruised
+  - qty: 1
+    unit: tsp
+    name: white peppercorns
+    raw: 1 tsp white peppercorns

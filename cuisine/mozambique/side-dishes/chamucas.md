@@ -1,30 +1,3 @@
----
-prep: 40 minutes
-cook: 20 minutes
-allergens:
-  - gluten
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - sides
-  - meat
-  - beef
-  - onion
-  - garlic
-  - ginger
-  - lime
-  - coriander
-  - chili
-  - curry
-mentions:
-  - cuisine/indian/snacks/samosa
----
-
-
-
-
 # Chamucas
 
 ![Chamucas](resources/chamucas.jpg)

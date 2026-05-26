@@ -1,0 +1,81 @@
+prep: 25 minutes
+cook: 1 hour 4 minutes
+allergens:
+  - gluten
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - pork
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 450
+    unit: g
+    name: mussels
+    raw: 450 grams fresh mussels
+  - qty: 450
+    unit: g
+    name: prawns
+    raw: 450 grams raw prawns
+  - qty: 1
+    name: crab
+    raw: 1 cooked crab
+  - qty: 1
+    name: parsley
+    raw: Small bunch of parsley
+  - qty: 150
+    unit: ml
+    name: vegetable oil
+    raw: 150 ml vegetable oil
+  - qty: 115
+    unit: g
+    name: plain flour
+    raw: 115 grams plain flour
+  - qty: 1
+    name: green pepper
+    raw: 1 green pepper
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: celery sticks
+    raw: 2 celery sticks
+  - qty: 1
+    name: green chilli
+    raw: 1 fresh green chilli
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 75
+    unit: g
+    name: smoked spiced sausage
+    raw: 75 grams smoked spiced sausage
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon fresh thyme
+  - qty: 6
+    name: spring onions
+    raw: 6 spring onions
+  - qty: 275
+    unit: g
+    name: white long-grain rice
+    raw: 275 grams white long-grain rice
+  - name: tabasco sauce
+    raw: Tabasco sauce
+  - name: salt
+    raw: Salt to taste

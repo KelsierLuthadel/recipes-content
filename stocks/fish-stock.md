@@ -1,19 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - fish
-tags:
-  - gluten-free
-  - fish
-mentions:
-  - tutorials/stocks-sauces/stocks
----
-
-
-
-
 # Fish Stock
 
 ![Fish Stock](resources/fish-stock.jpg)

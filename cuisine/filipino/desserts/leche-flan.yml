@@ -1,0 +1,42 @@
+prep: 20 minutes
+cook: 45 minutes (plus 4 hours chilling)
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons water
+  - qty: 10
+    name: egg yolks
+    raw: 10 egg yolks
+  - qty: 400
+    unit: g
+    name: sweetened condensed milk
+    raw: 400 g sweetened condensed milk
+  - qty: 350
+    unit: ml
+    name: evaporated milk
+    raw: 350 ml evaporated milk
+  - qty: 1
+    unit: tbsp
+    name: vanilla extract
+    raw: 1 tablespoon vanilla extract
+  - qty: 1
+    name: strip of lemon peel
+    raw: 1 strip of lemon peel

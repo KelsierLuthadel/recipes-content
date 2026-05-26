@@ -1,0 +1,68 @@
+prep: 15 minutes (plus 1 hour resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - honey
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 900
+    unit: g
+    name: beef
+    raw: 900 g ground beef
+  - qty: 0.25
+    unit: cup
+    name: scallions
+    raw: ¼ cup chopped scallions
+  - qty: 1
+    unit: tbsp
+    name: cajun seasoning
+    raw: 1 tablespoon Cajun seasoning
+  - qty: 1
+    name: sazon seasoning
+    raw: 1 packet Sazon seasoning
+  - qty: 1
+    unit: tbsp
+    name: garlic paste
+    raw: 1 tablespoon garlic paste
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: maple syrup
+    raw: 1 tablespoon maple syrup
+  - qty: 1
+    unit: tsp
+    name: onion
+    raw: 1 teaspoon dried minced onion
+  - qty: 2
+    unit: tbsp
+    name: olive
+    raw: 2 tablespoons olive
+  - qty: 1
+    name: yellow onion
+    raw: 1 yellow onion
+  - qty: 1
+    name: lipton beefy onion soup mix
+    raw: 1 packet Lipton Beefy Onion soup mix
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 480
+    unit: ml
+    name: beef broth
+    raw: 480 ml beef broth

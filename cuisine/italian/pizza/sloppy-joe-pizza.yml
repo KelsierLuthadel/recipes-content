@@ -1,0 +1,50 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - spicy
+  - quick
+  - meals
+  - meat
+  - pork
+  - cheese
+  - chili
+mentions:
+  - cuisine/italian/bolognese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 220
+    unit: g
+    name: pizza dough
+    raw: 220 grams pizza dough
+  - name: plain flour
+    raw: Plain flour
+  - qty: 50
+    unit: ml
+    name: passata
+    raw: 50 ml passata
+  - qty: 80
+    unit: g
+    name: salami
+    raw: 80 grams salami
+  - qty: 50
+    unit: ml
+    name: bolognese sauce
+    raw: 50 ml fresh bolognese sauce
+  - qty: 100
+    unit: g
+    name: mozzarella
+    raw: 100 grams grated mozzarella
+  - name: chilli oil
+    raw: Chilli oil
+  - qty: 1
+    unit: handful
+    name: basil leaves
+    raw: Handful of fresh basil leaves
+  - name: chilli oil
+    raw: Extra chilli oil

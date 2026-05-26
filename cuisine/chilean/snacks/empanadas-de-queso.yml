@@ -1,0 +1,58 @@
+prep: 45 minutes (plus 30 minutes resting)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - butter
+  - complex
+mentions:
+  - cuisine/chilean/empanadas-de-pino
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml warm milk
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: tbsp
+    name: white vinegar
+    raw: 1 tablespoon white vinegar
+  - qty: 350
+    unit: g
+    name: mozzarella or queso fresco
+    raw: 350 g mozzarella OR queso fresco
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 800
+    unit: ml
+    name: neutral oil
+    raw: 800 ml neutral oil
+  - qty: 1
+    name: egg
+    raw: 1 egg

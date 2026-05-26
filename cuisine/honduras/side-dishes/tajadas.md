@@ -1,21 +1,3 @@
----
-prep: 5 minutes
-cook: 15 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-mentions:
-  - cuisine/honduras/pollo-con-tajadas
----
-
-
-
-
 # Tajadas
 
 ![Tajadas](resources/tajadas.jpg)

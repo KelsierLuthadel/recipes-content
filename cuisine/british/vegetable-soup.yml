@@ -1,0 +1,61 @@
+prep: 15 minutes
+cook: 70 minutes
+allergens:
+  - celery
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - onion
+  - carrot
+mentions: []
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    name: leek
+    raw: 1 leek
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 2
+    name: celery stalks
+    raw: 2 celery stalks
+  - qty: 1
+    name: courgette
+    raw: 1 courgette
+  - qty: 400
+    unit: g
+    name: butternut squash
+    raw: 400 grams butternut squash
+  - qty: 2
+    name: potatoes
+    raw: 2 potatoes
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tablespoon tomato purée
+  - qty: 1
+    unit: l
+    name: vegetable stock
+    raw: 1 litre vegetable stock
+  - qty: 1.25
+    unit: l
+    name: water
+    raw: 1 ¼ litres water
+  - qty: 150
+    unit: g
+    name: kidney beans
+    raw: 150 grams dried kidney beans
+  - qty: 3
+    unit: tbsp
+    name: flat leaf parsley
+    raw: 3 tablespoons flat leaf parsley

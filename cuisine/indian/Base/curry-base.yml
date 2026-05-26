@@ -1,0 +1,53 @@
+prep: 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - onion
+  - coconut
+  - curry
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    unit: kg
+    name: onions
+    raw: 4 kg Onions
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds
+  - qty: 3
+    unit: l
+    name: water
+    raw: 3L Water
+  - qty: 500
+    unit: ml
+    name: vegetable oil
+    raw: 500ml Vegetable oil
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tbsp salt
+  - qty: 2
+    unit: tbsp
+    name: turmeric
+    raw: 2 tbsp turmeric
+  - qty: 1
+    name: rounded tsp garam masala
+    raw: 1 rounded tsp garam masala
+  - qty: 0.5
+    unit: tsp
+    name: chilli powder
+    raw: ½ tsp chilli powder
+  - qty: 30
+    unit: g
+    name: coconut cream
+    raw: 30g coconut cream
+  - qty: 2
+    name: tbs tomato puree
+    raw: 2tbs tomato purée

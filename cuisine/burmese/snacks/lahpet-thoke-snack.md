@@ -1,32 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - peanuts
-  - sesame
-  - fish
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - snack
-  - fish
-  - prawn
-  - garlic
-  - lime
-  - nuts
-  - chili
-mentions:
-  - cuisine/burmese/lahpet-thoke
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Burmese Tea-Leaf Snack Mix
 
 ![Burmese Tea-Leaf Snack Mix](resources/lahpet-thoke-snack.jpg)

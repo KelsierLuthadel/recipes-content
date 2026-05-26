@@ -1,0 +1,68 @@
+prep: 15 minutes
+cook: 13 minutes
+allergens:
+  - peanuts
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - pastes
+  - fish
+  - onion
+  - garlic
+  - coriander
+  - chili
+  - curry
+mentions: []
+ingredients:
+  - qty: 12
+    name: red chillies
+    raw: 12 dried red chillies
+  - qty: 1
+    name: lemon grass stalk
+    raw: 1 lemon grass stalk
+  - qty: 4
+    unit: tbsp
+    name: shallots
+    raw: 4 tablespoons shallots
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 2
+    unit: tsp
+    name: galangal
+    raw: 2 teaspoons fresh galangal
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 1
+    unit: tbsp
+    name: coriander seeds
+    raw: 1 tablespoon coriander seeds
+  - qty: 2
+    name: cloves
+    raw: 2 whole cloves
+  - qty: 6
+    name: black peppercorns
+    raw: 6 black peppercorns
+  - qty: 1
+    name: shrimp paste
+    raw: 1 cm cube shrimp paste
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: soft brown sugar
+    raw: 1 teaspoon soft brown sugar
+  - qty: 2
+    unit: tbsp
+    name: groundnut oil
+    raw: 2 tablespoons groundnut oil
+  - name: water
+    raw: Hot water

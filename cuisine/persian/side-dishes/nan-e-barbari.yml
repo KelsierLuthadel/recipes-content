@@ -1,0 +1,63 @@
+prep: 30 minutes (plus 1 hour 30 min rises)
+cook: 15 minutes per loaf
+allergens:
+  - gluten
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - sides
+  - complex
+mentions:
+  - tutorials/bread/hydration
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 600
+    unit: g
+    name: white bread flour
+    raw: 600 g strong white bread flour
+  - qty: 1
+    name: fast-action yeast
+    raw: 1 sachet fast-action yeast
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 0.5
+    unit: tsp
+    name: bicarbonate of soda
+    raw: ½ teaspoon bicarbonate of soda
+  - qty: 0.5
+    unit: tsp
+    name: caster sugar
+    raw: ½ teaspoon caster sugar
+  - qty: 2
+    unit: tbsp
+    name: white sesame seeds
+    raw: 2 tablespoons white sesame seeds
+  - qty: 1
+    unit: tbsp
+    name: black sesame seeds
+    raw: 1 tablespoon black sesame seeds

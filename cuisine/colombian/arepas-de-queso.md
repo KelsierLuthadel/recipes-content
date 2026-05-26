@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - meals
-  - onion
-  - tomato
-  - butter
-  - cheese
-mentions:
-  - cuisine/colombian/side-dishes/hogao
-  - cuisine/mexican/snacks/guacamole
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Arepas de Queso
 
 ![Arepas de Queso](resources/arepas-de-queso.jpg)

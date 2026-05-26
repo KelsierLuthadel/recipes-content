@@ -1,0 +1,50 @@
+prep: 5 minutes (plus 4-12 hour soak)
+cook: 25 minutes
+allergens:
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - sides
+  - asian
+  - rice
+  - coconut
+  - complex
+mentions:
+  - cuisine/thai/desserts/mango-sticky-rice
+  - cuisine/thai/salads/larb
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: thai glutinous
+    raw: 400 g Thai glutinous
+  - name: water
+    raw: Cold water
+  - name: water
+    raw: Boiling water
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 2
+    name: mangoes
+    raw: 2 ripe mangoes
+  - qty: 2
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 2 tablespoons toasted sesame seeds
+  - qty: 1
+    unit: tbsp
+    name: mung beans
+    raw: 1 tablespoon mung beans

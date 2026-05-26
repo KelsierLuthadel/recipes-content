@@ -1,0 +1,71 @@
+prep: 10 minutes
+cook: 40 minutes
+allergens:
+  - peanuts
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - pork
+  - onion
+  - garlic
+  - chili
+  - soy-sauce
+mentions:
+  - cuisine/chinese/fried-rice
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 700
+    unit: g
+    name: pork spareribs
+    raw: 700 grams pork spareribs
+  - qty: 570
+    unit: ml
+    name: groundnut oil
+    raw: 570 ml groundnut oil
+  - qty: 900
+    unit: ml
+    name: chinese chicken stock
+    raw: 900 ml Chinese chicken stock
+  - qty: 1
+    unit: tbsp
+    name: chilli bean sauce
+    raw: 1 tablespoon chilli bean sauce
+  - qty: 2
+    unit: tsp
+    name: sugar
+    raw: 2 teaspoons sugar
+  - qty: 70
+    unit: ml
+    name: dry sherry
+    raw: 70 ml dry sherry
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tablespoon dark soy sauce
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 2
+    unit: tsp
+    name: garlic
+    raw: 2 teaspoons garlic
+  - qty: 1
+    unit: tbsp
+    name: spring onions
+    raw: 1 tablespoon spring onions
+  - qty: 1
+    unit: tbsp
+    name: yellow bean sauce
+    raw: 1 tablespoon whole yellow bean sauce
+  - qty: 1.5
+    unit: tbsp
+    name: hoisin sauce
+    raw: 1 ½ tablespoons hoisin sauce

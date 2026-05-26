@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-cook: 75 minutes
-allergens:
-  - gluten
-  - dairy
-  - mustard
-tags:
-  - vegetarian
-  - snack
-  - rice
-  - tomato
-  - cream
-mentions:
-  - base-ingredients/vegetables/semi-confit-cherry-tomato
----
-
-
-
-
 # Semi-Confit Cherry Tomato Tart
 
 ![Semi-confit cherry tomato tart](resources/confit-tomato.jpg)

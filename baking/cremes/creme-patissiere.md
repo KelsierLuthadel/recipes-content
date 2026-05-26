@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - baking
-  - eggs
-mentions:
-  - baking/cremes/creme-au-beurre
-  - baking/cremes/creme-chibost
-  - baking/cremes/creme-mousseline
----
-
-
-
-
 # Crème Pâtissière (Confectioners' Custard)
 
 ![Crème pâtissière (Confectioners' custard)](resources/creme-patissiere.png)

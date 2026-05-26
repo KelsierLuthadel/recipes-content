@@ -1,0 +1,48 @@
+prep: 10 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - eggs
+  - cream
+mentions:
+  - base-ingredients/syrup/sirop-a-sorbet
+ingredients:
+  - qty: 1
+    name: egg plus 3 egg yolks
+    raw: 1 egg plus 3 egg yolks
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 grams caster sugar
+  - qty: 100
+    unit: ml
+    name: whipping cream
+    raw: 100 ml whipping cream
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 30
+    unit: ml
+    name: ricard
+    raw: 30 ml Ricard
+  - qty: 100
+    unit: ml
+    name: strawberry coulis
+    raw: 100 ml strawberry coulis
+  - qty: 100
+    unit: ml
+    name: kiwi coulis
+    raw: 100 ml kiwi coulis
+  - qty: 8
+    name: strawberries
+    raw: 8 strawberries
+  - qty: 100
+    unit: ml
+    name: syrup for sorbet
+    raw: 100 ml Syrup for Sorbet

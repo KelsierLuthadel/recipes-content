@@ -1,29 +1,3 @@
----
-prep: 1 hour
-cook: 18 minutes
-allergens:
-  - gluten
-  - dairy
-  - soy
-  - meat
-  - garlic
-tags:
-  - meals
-  - meat
-  - beef
-  - lamb
-  - onion
-  - garlic
-  - yogurt
-  - complex
-mentions:
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Buuz
 
 ![Buuz](resources/buuz.jpg)

@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 12 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - quick
-  - snack
-  - make-ahead
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - butter
-  - cream
-  - complex
-mentions: []
----
-
-
-
-
 # Chicken Liver Pâté
 
 ![Chicken Liver Pâté](resources/chicken-liver-pate.jpg)

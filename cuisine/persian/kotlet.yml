@@ -1,0 +1,75 @@
+prep: 25 minutes (plus 30 min chilling)
+cook: 25 minutes
+allergens:
+  - eggs
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - complex
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef mince
+    raw: 500 g beef mince
+  - qty: 1
+    name: potato
+    raw: 1 potato
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 1.5
+    unit: tsp
+    name: turmeric
+    raw: 1 ½ teaspoons ground turmeric
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil
+    raw: 4 tablespoons sunflower oil
+  - name: sangak
+    raw: Sangak, taftoon
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1
+    name: radishes
+    raw: 1 small bunch radishes
+  - qty: 1
+    unit: handful
+    name: parsley
+    raw: A handful fresh parsley sprigs
+  - qty: 1
+    unit: handful
+    name: mint
+    raw: A handful fresh mint
+  - name: persian pickles
+    raw: Persian pickles

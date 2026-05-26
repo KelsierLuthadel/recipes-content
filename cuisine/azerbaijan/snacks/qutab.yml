@@ -1,0 +1,86 @@
+prep: 30 minutes (plus 30 minutes resting)
+cook: 24 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - snack
+  - onion
+  - garlic
+  - spinach
+  - coriander
+  - butter
+  - yogurt
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 220
+    unit: ml
+    name: water
+    raw: 220 ml warm water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 250
+    unit: g
+    name: spinach
+    raw: 250 g spinach
+  - qty: 100
+    unit: g
+    name: sorrel
+    raw: 100 g sorrel
+  - qty: 50
+    unit: g
+    name: spring onions
+    raw: 50 g spring onions
+  - qty: 20
+    unit: g
+    name: dill
+    raw: 20 g fresh dill
+  - qty: 20
+    unit: g
+    name: coriander
+    raw: 20 g fresh coriander
+  - qty: 80
+    unit: g
+    name: pomegranate seeds
+    raw: 80 g pomegranate seeds
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g butter
+  - qty: 2
+    unit: tbsp
+    name: sumac
+    raw: 2 tablespoons sumac
+  - qty: 200
+    unit: g
+    name: greek yogurt
+    raw: 200 g Greek yogurt
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt

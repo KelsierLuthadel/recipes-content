@@ -1,0 +1,47 @@
+prep: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - coriander
+  - chili
+  - curry
+mentions: []
+ingredients:
+  - qty: 2
+    name: red chillies
+    raw: 2 dried red chillies
+  - qty: 6
+    name: white cloves
+    raw: 6 white cloves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 teaspoon coriander seeds
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 teaspoon fennel seeds
+  - qty: 2
+    unit: tsp
+    name: sichuan peppercorns
+    raw: 2 teaspoons Sichuan peppercorns
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon freshly grated nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: star anise
+    raw: ½ teaspoon freshly ground star anise
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric

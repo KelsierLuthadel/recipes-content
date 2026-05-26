@@ -1,0 +1,41 @@
+prep: 10 minutes
+cook: 1 hour
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - potato
+  - cheese
+mentions:
+  - sauces/sauce-spicy/buffalo-sauce
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: medium-large sweet potatoes
+    raw: 4 medium-large sweet potatoes
+  - qty: 2
+    name: chicken breasts
+    raw: 2 boneless skinless chicken breasts
+  - qty: 120
+    unit: ml
+    name: buffalo sauce
+    raw: 120 ml Buffalo Sauce
+  - qty: 100
+    unit: g
+    name: blue cheese crumbles
+    raw: 100 g blue cheese crumbles
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: olive oil
+    raw: Olive oil, for drizzling
+  - name: spring onions
+    raw: Sliced spring onions, to garnish

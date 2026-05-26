@@ -1,0 +1,37 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - eggs
+  - butter
+mentions:
+  - cuisine/german/kasespatzle
+  - tutorials/bread/gluten
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter

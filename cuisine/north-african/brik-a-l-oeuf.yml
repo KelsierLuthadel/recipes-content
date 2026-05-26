@@ -1,0 +1,64 @@
+prep: 15 minutes
+cook: 8 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+tags:
+  - spicy
+  - quick
+  - meals
+  - fish
+  - eggs
+  - onion
+  - lemon
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 160
+    unit: g
+    name: tuna
+    raw: 160 g tin tuna
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch flat-leaf parsley
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tablespoons capers
+  - qty: 2
+    unit: tbsp
+    name: parmesan cheese
+    raw: 2 tablespoons grated parmesan cheese
+  - qty: 1
+    unit: tsp
+    name: harissa
+    raw: 1 teaspoon Harissa
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 4
+    name: sheets malsouka pastry
+    raw: 4 sheets malsouka pastry
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - name: vegetable oil for shallow frying
+    raw: Vegetable oil for shallow frying
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - name: harissa
+    raw: Harissa
+  - name: simple salad
+    raw: A simple salad

@@ -1,26 +1,3 @@
----
-prep: 5 minutes
-cook: 8 minutes
-allergens:
-  - dairy
-  - tree-nuts
-  - mustard
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - sides
-  - garlic
-  - lemon
-  - butter
-  - nuts
-mentions: []
----
-
-
-
-
 # Green Beans Amandine
 
 ![Green Beans Amandine](resources/green-beans-amandine.jpg)

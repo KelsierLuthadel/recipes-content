@@ -1,0 +1,83 @@
+prep: 10 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - cuisine/jamaican/side-dishes/rice-and-peas
+ingredients:
+  - name: ginger
+    raw: Ginger
+  - qty: 6
+    unit: clove
+    name: garlic
+    raw: 6 cloves of garlic
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: black peppercorns
+    raw: ½ tsp black peppercorns
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    unit: large pinch
+    name: coriander
+    raw: Large pinch coriander
+  - qty: 1
+    unit: large pinch
+    name: parsley
+    raw: Large pinch parsley
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 scotch bonnet
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 55
+    unit: g
+    name: brown sugar
+    raw: 55g brown sugar
+  - qty: 3
+    unit: tsp
+    name: curry powder
+    raw: 3 tsp Curry Powder
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600ml water
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 2
+    name: thyme
+    raw: 2 thyme sprigs
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 scotch bonnet
+  - qty: 1
+    name: shot of dark rum
+    raw: 1 shot of dark rum
+  - qty: 900
+    unit: g
+    name: chicken
+    raw: 900g chicken

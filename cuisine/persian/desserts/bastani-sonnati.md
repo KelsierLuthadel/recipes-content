@@ -1,25 +1,3 @@
----
-prep: 25 minutes (plus 6 hours freezing)
-cook: 20 minutes
-allergens:
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - make-ahead
-  - eggs
-  - cream
-  - nuts
-  - complex
-mentions: []
----
-
-
-
-
 # Bastani Sonnati
 
 ![Bastani Sonnati](resources/bastani-sonnati.jpg)

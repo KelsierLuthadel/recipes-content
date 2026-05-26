@@ -1,0 +1,72 @@
+prep: 10 minutes
+cook: 2 minutes
+allergens:
+  - eggs
+  - peanuts
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - eggs
+  - garlic
+  - lemon
+  - chili
+  - soy-sauce
+mentions:
+  - sauces/sauce-fish/lemon-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 225
+    unit: g
+    name: chicken breasts
+    raw: 225 grams chicken breasts
+  - qty: 1
+    name: egg white
+    raw: 1 egg white
+  - qty: 2
+    unit: tsp
+    name: cornflour
+    raw: 2 teaspoons cornflour
+  - qty: 70
+    unit: ml
+    name: groundnut oil
+    raw: 70 ml groundnut oil
+  - qty: 70
+    unit: ml
+    name: chinese chicken stock
+    raw: 70 ml Chinese chicken stock
+  - qty: 1.5
+    unit: tbsp
+    name: lemon juice
+    raw: 1 ½ tablespoons fresh lemon juice
+  - qty: 2
+    unit: tsp
+    name: sugar
+    raw: 2 teaspoons sugar
+  - qty: 2
+    unit: tsp
+    name: light soy sauce
+    raw: 2 teaspoons light soy sauce
+  - qty: 2
+    unit: tsp
+    name: dry sherry
+    raw: 2 teaspoons dry sherry
+  - qty: 0.5
+    unit: tsp
+    name: garlic
+    raw: ½ teaspoon garlic
+  - qty: 1
+    name: red chilli
+    raw: 1 dried red chilli
+  - qty: 1
+    unit: tsp
+    name: cornflour
+    raw: 1 teaspoon cornflour

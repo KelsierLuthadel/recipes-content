@@ -1,34 +1,3 @@
----
-prep: 25 minutes
-cook: 45 minutes
-allergens:
-  - gluten
-  - tree-nuts
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - make-ahead
-  - one-pan
-  - meals
-  - meat
-  - beef
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - nuts
-mentions:
-  - cuisine/lebanese/kibbeh
-  - cuisine/middle-east/kibbeh
-  - cuisine/palestinian/kibbeh-bil-saneeyeh
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tray-Baked Kibbeh
 
 ![Tray-Baked Kibbeh](resources/kibbeh.jpg)

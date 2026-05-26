@@ -1,0 +1,73 @@
+prep: 20 minutes
+cook: 2 ½ hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: beef chuck
+    raw: 1 kg beef chuck
+  - qty: 3
+    unit: tbsp
+    name: lard
+    raw: 3 tablespoons lard
+  - qty: 4
+    name: onions
+    raw: 4 onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: hungarian sweet paprika
+    raw: 4 tablespoons Hungarian sweet paprika
+  - qty: 1
+    unit: tsp
+    name: hungarian hot paprika
+    raw: 1 teaspoon Hungarian hot paprika
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 teaspoon caraway seeds
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tinned chopped tomatoes
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: l
+    name: beef stock
+    raw: 1 litre beef stock
+  - qty: 600
+    unit: g
+    name: potatoes
+    raw: 600 g potatoes
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley

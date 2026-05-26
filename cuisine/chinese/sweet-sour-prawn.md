@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 2 minutes
-allergens:
-  - tree-nuts
-  - peanuts
-  - soy
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - meals
-  - asian
-  - meat
-  - fish
-  - prawn
-  - onion
-  - garlic
-  - nuts
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sweet and Sour Prawns
 
 ![Sweet and Sour Prawns](resources/ss-prawns.jpg)

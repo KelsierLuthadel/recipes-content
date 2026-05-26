@@ -1,0 +1,38 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - eggs
+  - butter
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 80
+    unit: ml
+    name: vegetable oil
+    raw: 80 ml vegetable oil
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 250
+    unit: g
+    name: sour tapioca starch or sweet tapioca starch
+    raw: 250 g sour tapioca starch or sweet tapioca starch
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 200
+    unit: g
+    name: parmesan
+    raw: 200 g parmesan

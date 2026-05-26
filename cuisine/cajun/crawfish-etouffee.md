@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 45 minutes
-allergens:
-  - gluten
-  - dairy
-  - shellfish
-  - meat
-  - celery
-  - garlic
-tags:
-  - spicy
-  - meals
-  - meat
-  - fish
-  - prawn
-  - rice
-  - onion
-  - garlic
-  - lemon
-  - butter
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Crawfish Étouffée
 
 ![Crawfish Étouffée](resources/crawfish-etouffee.jpg)

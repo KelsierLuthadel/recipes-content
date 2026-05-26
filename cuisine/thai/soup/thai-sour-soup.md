@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - soy
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - mushroom
-  - lime
-  - coriander
-  - chili
-mentions: []
----
-
-
-
-
 # Thai Spicy Sour Soup
 
 ![Thai spicy sour soup](resources/thai-sour-soup.jpg)

@@ -1,0 +1,119 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - peanuts
+  - soy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - pork
+  - prawn
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - soy-sauce
+  - curry
+  - complex
+mentions:
+  - sauces/sauce-fish/tamarind-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 110
+    unit: g
+    name: rice noodles
+    raw: 110 grams dried rice noodles
+  - qty: 3
+    unit: tbsp
+    name: groundnut oil
+    raw: 3 tablespoons groundnut oil
+  - qty: 200
+    unit: ml
+    name: chicken stock
+    raw: 200 ml chicken stock
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic
+  - qty: 3
+    name: ginger
+    raw: 3 cm cube of ginger
+  - qty: 1
+    unit: tsp
+    name: red curry paste
+    raw: 1 teaspoon red curry paste
+  - qty: 1
+    unit: tsp
+    name: chilli sauce
+    raw: 1 teaspoon chilli sauce
+  - qty: 1
+    unit: tsp
+    name: oyster sauce
+    raw: 1 teaspoon oyster sauce
+  - qty: 100
+    unit: g
+    name: skinned chicken breast
+    raw: 100 grams skinned chicken breast
+  - qty: 100
+    unit: g
+    name: pork
+    raw: 100 grams lean pork
+  - qty: 8
+    name: king prawns
+    raw: 8 cooked king prawns
+  - qty: 20
+    name: prawns
+    raw: 20 raw prawns
+  - qty: 1
+    unit: tbsp
+    name: red bell pepper
+    raw: 1 tablespoon red bell pepper
+  - qty: 2
+    name: red chillies
+    raw: 2 red chillies
+  - qty: 2
+    unit: tbsp
+    name: bean sprouts
+    raw: 2 tablespoons bean sprouts
+  - qty: 3
+    unit: tbsp
+    name: spring onions
+    raw: 3 tablespoons spring onions
+  - qty: 2
+    unit: tbsp
+    name: thai basil leaves
+    raw: 2 tablespoons Thai basil leaves
+  - qty: 1
+    unit: tbsp
+    name: coriander leaves
+    raw: 1 tablespoon coriander leaves
+  - name: sweet soy sauce
+    raw: Sweet soy sauce
+  - name: fish sauce
+    raw: Fish sauce
+  - qty: 2
+    unit: tbsp
+    name: roasted peanuts
+    raw: 2 tablespoons roasted peanuts
+  - qty: 1
+    unit: tsp
+    name: palm sugar
+    raw: 1 teaspoon palm sugar
+  - name: thai basil leaves
+    raw: Thai basil leaves
+  - name: lime wedges
+    raw: Lime wedges

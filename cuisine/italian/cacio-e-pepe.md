@@ -1,23 +1,3 @@
----
-prep: 5 minutes
-cook: 12 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - quick
-  - meals
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Cacio E Pepe
 
 ![Cacio e Pepe](resources/cacio-e-pepe.jpg)

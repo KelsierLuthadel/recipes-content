@@ -1,30 +1,3 @@
----
-prep: 10 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-tags:
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - onion
-  - lemon
-  - cream
-  - cheese
-  - chili
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Smoked Pancetta Pizza with Onions
 
 ![Smoked Pancetta Pizza with Onions](resources/smoked-pancetta.jpg)

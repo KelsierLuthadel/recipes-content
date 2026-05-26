@@ -1,29 +1,3 @@
----
-prep: 30 minutes (plus 30 minutes resting)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - lemon
-  - butter
-  - cream
-  - cheese
-  - complex
-  - shavuot
-  - jewish
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Cheese Blintzes
 
 ![Cheese Blintzes](resources/cheese-blintzes.jpg)

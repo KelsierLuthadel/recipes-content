@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 0 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - quick
-  - sides
-  - bbq
-  - onion
-  - lime
-  - cheese
-  - chili
-mentions: []
----
-
-
-
-
 # Watermelon-Feta Salad
 
 ![Watermelon-Feta Salad](resources/watermelon-feta-salad.jpg)

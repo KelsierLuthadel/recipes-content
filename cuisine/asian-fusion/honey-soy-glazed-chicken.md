@@ -1,33 +1,3 @@
----
-prep: 15 minutes (plus 2 hours marinating)
-cook: 1 hour
-allergens:
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - honey
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Honey Soy Glazed Chicken
 
 ![Honey Soy Glazed Chicken](resources/honey-soy-glazed-chicken.jpg)

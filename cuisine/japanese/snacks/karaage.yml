@@ -1,0 +1,80 @@
+prep: 15 minutes (plus 30 min marinating)
+cook: 12 minutes
+allergens:
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - meat
+  - chicken
+  - garlic
+  - ginger
+  - lemon
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 700
+    unit: g
+    name: chicken thighs
+    raw: 700 g boneless skin-on chicken thighs
+  - qty: 3
+    unit: tbsp
+    name: light soy sauce
+    raw: 3 tablespoons light soy sauce
+  - qty: 2
+    unit: tbsp
+    name: sake
+    raw: 2 tablespoons sake
+  - qty: 1
+    unit: tbsp
+    name: mirin
+    raw: 1 tablespoon mirin
+  - qty: 1
+    unit: tbsp
+    name: sesame oil
+    raw: 1 tablespoon sesame oil
+  - qty: 3
+    name: ginger
+    raw: 3 cm fresh ginger
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 150
+    unit: g
+    name: potato starch
+    raw: 150 g potato starch
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - name: japanese mayonnaise
+    raw: Japanese mayonnaise
+  - name: shichimi togarashi
+    raw: Shichimi togarashi
+  - name: bowl of soy sauce
+    raw: A small bowl of soy sauce
+  - name: daikon
+    raw: grated daikon

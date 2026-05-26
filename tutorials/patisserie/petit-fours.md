@@ -1,22 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - make-ahead
-mentions:
-  - petit-four/chocolate-truffles
-  - tutorials/eggs/eggs
-  - tutorials/eggs/meringues
-  - tutorials/patisserie/classical-cakes
-  - tutorials/patisserie/set-creams-and-mousses
-  - tutorials/patisserie/tarts
----
-
-
-
 # Petit Fours
 
 ![Petit fours](resources/petit-fours.jpg)

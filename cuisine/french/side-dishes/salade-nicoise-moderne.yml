@@ -1,0 +1,99 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+  - fish
+  - mustard
+  - garlic
+tags:
+  - sides
+  - meat
+  - fish
+  - eggs
+  - garlic
+  - tomato
+  - potato
+  - butter
+  - complex
+mentions: []
+ingredients:
+  - qty: 100
+    unit: g
+    name: beans
+    raw: 100 g fine beans
+  - qty: 8
+    name: new potatoes
+    raw: 8 new potatoes
+  - qty: 1
+    name: head soft lettuce
+    raw: 1 head soft lettuce
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 400
+    unit: g
+    name: tuna fillet steaks
+    raw: 400 g tuna fillet steaks
+  - qty: 4
+    name: anchovy fillets
+    raw: 4 anchovy fillets
+  - qty: 2
+    name: hard-boiled eggs
+    raw: 2 hard-boiled eggs
+  - qty: 12
+    name: french bread
+    raw: 12 very thin slices French bread
+  - qty: 8
+    name: black olives
+    raw: 8 black olives
+  - qty: 1
+    unit: tsp
+    name: capers
+    raw: 1 tsp capers
+  - qty: 1
+    unit: tsp
+    name: sesame seeds
+    raw: 1 tsp sesame seeds
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tbsp butter
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 8
+    unit: tbsp
+    name: olive oil
+    raw: 8 tbsp olive oil
+  - qty: 2
+    unit: tbsp
+    name: tarragon vinegar
+    raw: 2 tbsp tarragon vinegar
+  - qty: 0.5
+    unit: tsp
+    name: dijon mustard
+    raw: ½ tsp Dijon mustard
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 0.5
+    name: garlic clove
+    raw: ½ garlic clove
+  - qty: 0.5
+    unit: tsp
+    name: chives
+    raw: ½ tsp fresh chives
+  - qty: 0.5
+    unit: tsp
+    name: tarragon
+    raw: ½ tsp tarragon
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: oil
+    raw: Oil for frying

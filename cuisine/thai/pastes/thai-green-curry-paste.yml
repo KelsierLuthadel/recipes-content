@@ -1,0 +1,65 @@
+prep: 40-60 minutes
+cook: 5 minutes
+allergens:
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - asian
+  - pastes
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chili
+  - curry
+mentions:
+  - tutorials/thai-curry/green
+ingredients:
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 tsp coriander seeds
+  - qty: 1.5
+    unit: tsp
+    name: white pepper
+    raw: 1 ½ tsp white pepper
+  - qty: 20
+    name: green bird’s eye chillies
+    raw: 20 green bird’s eye chillies, roughly chopped
+  - qty: 2
+    name: lemongrass stalks
+    raw: 2 lemongrass stalks , thinly sliced
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves, smashed
+  - qty: 1
+    name: galangal
+    raw: 1 thumb-sized piece galangal, thinly sliced
+  - qty: 3
+    name: shallots
+    raw: 3 shallots , roughly chopped
+  - qty: 10
+    name: thai sweet basil stalks
+    raw: 10 Thai sweet basil stalks
+  - qty: 5
+    name: coriander stalks
+    raw: 5 coriander stalks
+  - qty: 0.5
+    name: lime
+    raw: ½ lime
+  - qty: 5
+    name: lime leaves
+    raw: 5 lime leaves
+  - qty: 1
+    unit: tsp
+    name: shrimp paste
+    raw: 1 tsp shrimp paste

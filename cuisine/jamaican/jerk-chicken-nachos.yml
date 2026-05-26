@@ -1,0 +1,147 @@
+prep: 30 minutes (plus 4 hours marinating)
+cook: 1 hour
+allergens:
+  - dairy
+  - soy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lime
+  - coriander
+  - cheese
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/jamaican/jerk-chicken
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: chicken thighs
+    raw: 4 boneless skinless chicken thighs
+  - qty: 7
+    name: scallions
+    raw: 7 scallions
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tablespoon fresh thyme leaves
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tbsp
+    name: brown sugar
+    raw: 1 tablespoon brown sugar
+  - qty: 2
+    unit: tsp
+    name: allspice
+    raw: 2 teaspoons ground allspice
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 teaspoon ground nutmeg
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 2
+    name: scotch bonnet peppers
+    raw: 2 Scotch bonnet peppers
+  - qty: 80
+    unit: ml
+    name: soy sauce
+    raw: 80 ml soy sauce
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 60
+    unit: ml
+    name: white vinegar
+    raw: 60 ml white vinegar
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 60
+    unit: ml
+    name: orange juice
+    raw: 60 ml orange juice
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon grated ginger
+  - qty: 3
+    unit: tbsp
+    name: pineapple
+    raw: 3 tablespoons diced pineapple
+  - qty: 1
+    unit: cup
+    name: mango
+    raw: 1 cup diced mango
+  - qty: 1
+    unit: cup
+    name: pineapple
+    raw: 1 cup diced pineapple
+  - qty: 1
+    unit: cup
+    name: red bell pepper
+    raw: 1 cup diced red bell pepper
+  - qty: 0.3333333333333333
+    unit: cup
+    name: red onion
+    raw: ⅓ cup diced red onion
+  - qty: 3
+    unit: tbsp
+    name: cilantro
+    raw: 3 tablespoons chopped cilantro
+  - qty: 60
+    unit: ml
+    name: lime juice
+    raw: 60 ml fresh lime juice
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 2
+    unit: tsp
+    name: scotch bonnet
+    raw: 2 teaspoons diced Scotch bonnet
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 2
+    unit: cup
+    name: shredded cheese
+    raw: 2 cups shredded cheese
+  - qty: 0.5
+    unit: cup
+    name: black beans
+    raw: ½ cup black beans
+  - qty: 1
+    name: bag tortilla chips
+    raw: 1 bag tortilla chips
+  - name: cherry tomatoes
+    raw: Cherry tomatoes , to garnish
+  - name: spring onions
+    raw: Sliced spring onions, to garnish

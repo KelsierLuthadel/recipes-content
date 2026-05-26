@@ -1,0 +1,30 @@
+prep: 10 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - dessert
+  - complex
+mentions: []
+ingredients:
+  - qty: 520
+    unit: g
+    name: pate brisee
+    raw: 520 grams pâte brisée
+  - qty: 8
+    name: dates
+    raw: 8 dates
+  - qty: 50
+    unit: ml
+    name: fragrant jasmine tea
+    raw: 50 ml very fragrant jasmine tea
+  - qty: 4
+    name: crisp apples
+    raw: 4 crisp apples
+  - qty: 30
+    unit: g
+    name: caster sugar
+    raw: 30 grams caster sugar

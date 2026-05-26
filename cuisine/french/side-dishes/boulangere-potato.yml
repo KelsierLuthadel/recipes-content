@@ -1,0 +1,32 @@
+prep: 10 minutes
+cook: 46 minutes
+allergens:
+  - dairy
+tags:
+  - gluten-free
+  - sides
+  - meat
+  - onion
+  - potato
+  - butter
+mentions: []
+ingredients:
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 675
+    unit: g
+    name: potatoes
+    raw: 675 grams potatoes
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 450
+    unit: ml
+    name: chicken stock
+    raw: 450 ml hot chicken stock

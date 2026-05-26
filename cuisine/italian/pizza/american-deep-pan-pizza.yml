@@ -1,0 +1,99 @@
+prep: 30 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - cheese
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 7
+    unit: g
+    name: fast-action dried yeast
+    raw: 7 grams sachet fast-action dried yeast
+  - qty: 1.5
+    unit: tsp
+    name: caster sugar
+    raw: 1 ½ teaspoons caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 340
+    unit: ml
+    name: water
+    raw: 340 ml lukewarm water
+  - qty: 600
+    unit: g
+    name: plain flour
+    raw: 600 grams strong plain flour
+  - name: vegetable oil
+    raw: Vegetable oil
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 3
+    name: shallots
+    raw: 3 shallots
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon sea salt
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 150
+    unit: ml
+    name: red wine
+    raw: 150 ml red wine
+  - qty: 300
+    unit: g
+    name: passata
+    raw: 300 grams passata
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: tabasco sauce
+    raw: 1 teaspoon Tabasco sauce
+  - qty: 12
+    name: salami
+    raw: 12 slices spicy salami
+  - qty: 12
+    name: salami
+    raw: 12 slices regular salami
+  - qty: 150
+    unit: g
+    name: mozzarella
+    raw: 150 grams mozzarella
+  - qty: 50
+    unit: g
+    name: cheddar cheese
+    raw: 50 grams strong cheddar cheese
+  - qty: 1
+    name: to 2 jalapeno chillies
+    raw: 1 to 2 jalapeño chillies

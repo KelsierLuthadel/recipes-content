@@ -1,27 +1,3 @@
----
-prep: 1 hour (plus 1 hour resting)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - sesame
-tags:
-  - vegetarian
-  - snack
-  - eggs
-  - butter
-  - cheese
-  - complex
-mentions:
-  - cuisine/azerbaijan/desserts/shekerbura
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Goghal
 
 ![Goghal](resources/goghal.jpg)

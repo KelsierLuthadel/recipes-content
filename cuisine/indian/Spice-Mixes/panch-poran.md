@@ -1,23 +1,3 @@
----
-prep: 2 minutes
-cook: 2 minutes
-allergens:
-  - mustard
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - asian
-  - spices
-  - onion
-mentions: []
----
-
-
-
-
 # Panch Poran (Indian Five Spice)
 
 ![Panch Poran (Indian Five Spice)](resources/panch-poran.jpg)

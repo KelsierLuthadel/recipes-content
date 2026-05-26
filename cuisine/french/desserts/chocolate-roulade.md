@@ -1,27 +1,3 @@
----
-prep: 45 minutes
-cook: 20 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - make-ahead
-  - eggs
-  - butter
-  - cream
-  - chocolate
-  - valentines
-mentions:
-  - sauces/sauce-sweet/chocolate-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chocolate Roulade
 
 ![Chocolate Roulade](resources/chocolate-roulade.jpg)

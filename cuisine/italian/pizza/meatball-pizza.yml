@@ -1,0 +1,70 @@
+prep: 20 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - cheese
+  - chili
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: tbsp
+    name: olive oil
+    raw: 1 ½ tablespoons olive oil
+  - qty: 300
+    unit: g
+    name: mini beef meatballs
+    raw: 300 grams mini beef meatballs
+  - qty: 1
+    name: to 2 garlic cloves
+    raw: 1 to 2 garlic cloves
+  - qty: 400
+    unit: g
+    name: tomato passata
+    raw: 400 grams tomato passata
+  - qty: 1
+    unit: splash
+    name: red wine vinegar
+    raw: Splash of red wine vinegar
+  - qty: 0.25
+    unit: tsp
+    name: oregano
+    raw: ¼ teaspoon dried oregano
+  - qty: 2
+    unit: pinch
+    name: chilli flakes
+    raw: 2 pinches of chilli flakes
+  - name: plain flour
+    raw: Plain flour
+  - qty: 2
+    name: balls of pizza dough
+    raw: 2 balls of pizza dough
+  - qty: 100
+    unit: g
+    name: mozzarella
+    raw: 100 grams mozzarella
+  - qty: 2
+    name: cured sausages
+    raw: 2 spicy cured sausages, e.g. Peperami
+  - qty: 12
+    name: pepperoni
+    raw: 12 slices pepperoni
+  - qty: 0.5
+    name: green pepper
+    raw: ½ green pepper
+  - qty: 0.5
+    name: onion
+    raw: ½ onion

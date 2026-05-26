@@ -1,0 +1,86 @@
+prep: 10 minutes
+cook: 5 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - sesame
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - fish
+  - prawn
+  - eggs
+  - garlic
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/stir-fry/wok-hei
+ingredients:
+  - qty: 0.25
+    unit: cup
+    name: white vinegar
+    raw: ¼ cup white vinegar
+  - qty: 1
+    name: long red chilli
+    raw: 1 long red chilli
+  - qty: 200
+    unit: g
+    name: and deveined prawns
+    raw: 200 grams peeled and deveined prawns
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: soy sauce
+    raw: 1 tablespoon soy sauce
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 1
+    unit: pinch
+    name: white pepper
+    raw: Pinch of ground white pepper
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 350
+    unit: g
+    name: rice noodles
+    raw: 350 grams fresh rice noodles
+  - qty: 2
+    unit: tsp
+    name: dark soy sauce
+    raw: 2 teaspoons dark soy sauce
+  - qty: 0.5
+    unit: tsp
+    name: caster sugar
+    raw: ½ teaspoon caster sugar
+  - qty: 1
+    name: broccolini
+    raw: 1 bunch broccolini
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons water
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 2
+    unit: tbsp
+    name: soy sauce
+    raw: 2 tablespoons soy sauce
+  - name: white pepper
+    raw: Ground white pepper to taste
+  - name: chilli powder
+    raw: Chilli powder

@@ -1,0 +1,129 @@
+prep: 20 minutes
+cook: 3 hours
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+  - celery
+tags:
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - beef
+  - eggs
+  - onion
+  - potato
+  - spinach
+  - carrot
+  - lemon
+  - complex
+mentions:
+  - sauces/sauce-savory/bread-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: tafelspitz
+    raw: 1 ½ kg tafelspitz
+  - qty: 500
+    unit: g
+    name: beef marrow bones
+    raw: 500 g beef marrow bones
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 3
+    name: carrots
+    raw: 3 carrots
+  - qty: 2
+    name: leeks
+    raw: 2 leeks
+  - qty: 0.25
+    name: celeriac
+    raw: ¼ celeriac
+  - qty: 1
+    name: parsnip
+    raw: 1 parsnip
+  - qty: 1
+    name: parsley stalks
+    raw: 1 small bunch parsley stalks
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: black peppercorns
+    raw: 1 tablespoon black peppercorns
+  - qty: 6
+    name: allspice berries
+    raw: 6 allspice berries
+  - qty: 2
+    name: cloves
+    raw: 2 cloves
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 3
+    unit: l
+    name: water
+    raw: 3 litres water
+  - qty: 2
+    name: apples
+    raw: 2 sharp apples
+  - qty: 4
+    unit: tbsp
+    name: horseradish
+    raw: 4 tablespoons fresh horseradish
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 2
+    unit: tsp
+    name: caster sugar
+    raw: 2 teaspoons caster sugar
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 2
+    name: hard-boiled egg yolks
+    raw: 2 hard-boiled egg yolks
+  - qty: 1
+    name: white bread
+    raw: 1 slice white bread
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil
+    raw: 4 tablespoons sunflower oil
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 1
+    name: chives
+    raw: 1 large bunch chives
+  - qty: 4
+    unit: tbsp
+    name: soured cream
+    raw: 4 tablespoons soured cream
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: roast potatoes or buttered new potatoes
+    raw: Roast potatoes or buttered new potatoes
+  - name: creamed spinach
+    raw: Creamed spinach
+  - qty: 1
+    unit: handful
+    name: snipped chives
+    raw: A handful of snipped chives

@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - onion
-  - garlic
-  - tomato
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tomato Coulis
 
 ![Tomato Coulis](resources/tomato-coulis.jpg)

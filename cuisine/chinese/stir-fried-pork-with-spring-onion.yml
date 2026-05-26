@@ -1,0 +1,49 @@
+prep: 10 minutes
+cook: 5 minutes
+allergens:
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - pork
+  - onion
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: pork
+    raw: 350 grams boneless lean pork
+  - qty: 2
+    unit: tsp
+    name: dry sherry
+    raw: 2 teaspoons dry sherry
+  - qty: 2
+    unit: tsp
+    name: light soy sauce
+    raw: 2 teaspoons light soy sauce
+  - qty: 0.5
+    unit: tsp
+    name: cornflour
+    raw: ½ teaspoon cornflour
+  - qty: 2
+    unit: tsp
+    name: oil
+    raw: 2 teaspoons oil
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: sugar
+    raw: ½ teaspoon sugar

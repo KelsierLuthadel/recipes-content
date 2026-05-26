@@ -1,33 +1,3 @@
----
-prep: 15 minutes (plus 4 hours marinade)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - lemon
-  - coriander
-  - yogurt
-  - chili
-  - complex
-mentions:
-  - cuisine/lebanese/side-dishes/tabbouleh
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Shawarma
 
 ![Chicken Shawarma](resources/chicken-shawarma.jpg)

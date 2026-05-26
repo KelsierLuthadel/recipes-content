@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes (mostly aubergine cooking)
-allergens:
-  - gluten
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - sides
-  - onion
-  - garlic
-  - lemon
-mentions: []
----
-
-
-
-
 # Melitzanosalata (Greek Aubergine Dip)
 
 ![Melitzanosalata](resources/melitzanosalata.jpg)

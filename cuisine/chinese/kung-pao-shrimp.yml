@@ -1,0 +1,99 @@
+prep: 20 minutes
+cook: 8 minutes
+allergens:
+  - peanuts
+  - soy
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - ginger
+  - nuts
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: shrimp
+    raw: 400 g raw shrimp, peeled and deveined
+  - qty: 1
+    unit: tsp
+    name: shaoxing wine
+    raw: 1 tsp Shaoxing wine
+  - qty: 1
+    unit: tsp
+    name: light soy sauce
+    raw: 1 tsp light soy sauce
+  - qty: 1
+    unit: tsp
+    name: cornflour
+    raw: 1 tsp cornflour
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ tsp salt
+  - qty: 0.25
+    unit: tsp
+    name: white pepper
+    raw: ¼ tsp white pepper
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tbsp light soy sauce
+  - qty: 1
+    unit: tsp
+    name: dark soy sauce
+    raw: 1 tsp dark soy sauce
+  - qty: 1
+    unit: tbsp
+    name: chinkiang black vinegar
+    raw: 1 tbsp Chinkiang black vinegar
+  - qty: 2
+    unit: tsp
+    name: granulated sugar
+    raw: 2 tsp granulated sugar
+  - qty: 1
+    unit: tsp
+    name: cornflour
+    raw: 1 tsp cornflour
+  - qty: 3
+    unit: tbsp
+    name: water
+    raw: 3 tbsp water
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 10
+    name: er jing tiao chillies
+    raw: 8-12 dried er jing tiao chillies, snipped into 2 cm pieces, seeds shaken out
+  - qty: 1
+    unit: tsp
+    name: sichuan peppercorns
+    raw: 1 tsp whole Sichuan peppercorns
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, thinly sliced
+  - qty: 2
+    name: ginger
+    raw: 2 cm ginger, finely diced
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions, white parts cut into 1 cm pieces
+  - qty: 60
+    unit: g
+    name: roasted unsalted peanuts
+    raw: 60 g roasted unsalted peanuts

@@ -1,0 +1,52 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - quick
+  - meals
+  - meat
+  - rice
+  - onion
+  - butter
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 1
+    unit: l
+    name: chicken
+    raw: 1 litre chicken
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    name: shallot
+    raw: 1 shallot
+  - qty: 300
+    unit: g
+    name: carnaroli
+    raw: 300 g carnaroli
+  - qty: 100
+    unit: ml
+    name: dry white wine
+    raw: 100 ml dry white wine
+  - qty: 60
+    unit: g
+    name: parmesan cheese
+    raw: 60 g parmesan cheese
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

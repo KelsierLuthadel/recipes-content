@@ -1,20 +1,3 @@
----
-prep: 5 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - asian
-  - spices
-mentions: []
----
-
-
-
-
 # Korma Spice Mix
 
 ![Korma Spice Mix](resources/korma-mix.jpg)

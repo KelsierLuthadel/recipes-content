@@ -1,0 +1,75 @@
+prep: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - quick
+  - dessert
+  - make-ahead
+  - meat
+  - eggs
+  - lemon
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 360
+    unit: g
+    name: shortbread pastry
+    raw: 360 grams shortbread pastry
+  - name: eggwash
+    raw: eggwash
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 grams caster sugar
+  - qty: 225
+    unit: g
+    name: sultanas
+    raw: 225 grams sultanas
+  - qty: 450
+    unit: g
+    name: raisins
+    raw: 450 grams raisins
+  - qty: 450
+    unit: g
+    name: currant
+    raw: 450 grams currant
+  - qty: 450
+    unit: g
+    name: beef fat
+    raw: 450 grams beef fat
+  - qty: 1
+    name: cooking apple
+    raw: 1 cooking apple
+  - qty: 100
+    unit: g
+    name: glace fruits
+    raw: 100 grams glacé fruits
+  - qty: 350
+    unit: g
+    name: soft brown sugar
+    raw: 350 grams soft brown sugar
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 teaspoon freshly grated nutmeg
+  - qty: 1
+    unit: tsp
+    name: mace
+    raw: 1 teaspoon freshly grated mace
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 teaspoon ground cloves
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 50
+    unit: ml
+    name: cognac
+    raw: 50 ml Cognac
+  - name: zest and juice of 1 lemon
+    raw: grated zest and juice of 1 lemon

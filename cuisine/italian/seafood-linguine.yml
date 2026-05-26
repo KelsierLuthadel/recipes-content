@@ -1,0 +1,68 @@
+prep: 15 minutes
+cook: 4 minutes
+allergens:
+  - gluten
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - fish
+  - prawn
+  - garlic
+  - tomato
+  - lemon
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: clams
+    raw: 250 grams clams
+  - qty: 250
+    unit: g
+    name: mussels
+    raw: 250 grams mussels
+  - qty: 250
+    unit: g
+    name: squid
+    raw: 250 grams baby squid
+  - qty: 250
+    unit: g
+    name: uncooked prawns
+    raw: 250 grams uncooked prawns
+  - qty: 100
+    unit: ml
+    name: dry white wine
+    raw: 100 ml dry white wine
+  - qty: 6
+    unit: tbsp
+    name: virgin olive oil
+    raw: 6 tablespoons extra virgin olive oil
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 0.5
+    unit: tsp
+    name: chilli flakes
+    raw: ½ teaspoon dried chilli flakes
+  - qty: 800
+    unit: g
+    name: cherry tomatoes
+    raw: 800 grams cherry tomatoes
+  - qty: 4
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 4 tablespoons fresh flat-leaf parsley
+  - qty: 1
+    name: unwaxed lemon
+    raw: 1 unwaxed lemon
+  - name: salt
+    raw: Salt to taste
+  - qty: 500
+    unit: g
+    name: linguine
+    raw: 500 grams linguine

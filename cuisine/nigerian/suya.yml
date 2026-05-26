@@ -1,0 +1,81 @@
+prep: 25 minutes (plus 1 hour marinating)
+cook: 12 minutes
+allergens:
+  - gluten
+  - peanuts
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - bbq
+  - meat
+  - beef
+  - onion
+  - tomato
+  - ginger
+  - lime
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 800
+    unit: g
+    name: beef sirloin
+    raw: 800 g beef sirloin
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 100
+    unit: g
+    name: dry-roasted unsalted peanuts
+    raw: 100 g dry-roasted unsalted peanuts
+  - qty: 2
+    unit: tbsp
+    name: ginger
+    raw: 2 tablespoons ground ginger
+  - qty: 2
+    unit: tbsp
+    name: cayenne pepper
+    raw: 2 tablespoons cayenne pepper
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tablespoon sweet paprika
+  - qty: 1
+    unit: tbsp
+    name: garlic powder
+    raw: 1 tablespoon garlic powder
+  - qty: 1
+    unit: tbsp
+    name: onion powder
+    raw: 1 tablespoon onion powder
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 teaspoon ground cloves
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 1
+    name: stock cube
+    raw: 1 stock cube , crumbled
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 0.25
+    name: cabbage
+    raw: ¼ small cabbage
+  - qty: 1
+    name: lime
+    raw: 1 lime

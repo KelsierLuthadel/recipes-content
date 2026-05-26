@@ -1,0 +1,32 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+mentions: []
+ingredients:
+  - qty: 4
+    name: green plantains
+    raw: 4 green plantains
+  - qty: 1
+    unit: l
+    name: neutral oil
+    raw: 1 litre neutral oil
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons fine salt
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 teaspoon chilli powder
+  - qty: 0.5
+    unit: tsp
+    name: onion powder
+    raw: ½ teaspoon onion powder

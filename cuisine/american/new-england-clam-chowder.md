@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 40 minutes
-allergens:
-  - dairy
-  - fish
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - fish
-  - pork
-  - onion
-  - garlic
-  - potato
-  - cream
-mentions: []
----
-
-
-
-
 # New England Clam Chowder
 
 ![New England clam chowder](resources/new-england.jpg)

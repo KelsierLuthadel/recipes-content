@@ -1,0 +1,71 @@
+prep: 20 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - snack
+  - one-pan
+  - garlic
+  - potato
+  - lemon
+  - coriander
+  - yogurt
+mentions:
+  - cuisine/israel/side-dishes/baba-ganoush
+  - cuisine/israel/side-dishes/falafel
+  - cuisine/polish/latkes
+ingredients:
+  - qty: 1.8
+    unit: kg
+    name: russet potatoes
+    raw: 1.8 kg russet potatoes
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch flat-leaf parsley
+  - qty: 0.5
+    name: coriander leaves
+    raw: ½ small bunch coriander leaves
+  - qty: 240
+    unit: ml
+    name: tahini
+    raw: 240 ml tahini
+  - qty: 4
+    unit: tsp
+    name: cumin
+    raw: 4 teaspoons ground cumin
+  - qty: 2
+    unit: tsp
+    name: turmeric
+    raw: 2 teaspoons ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon black pepper
+  - name: olive oil
+    raw: Olive oil
+  - qty: 200
+    unit: g
+    name: plain yogurt
+    raw: 200 g plain yogurt
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: handful
+    name: herbs
+    raw: A handful of fresh herbs
+  - qty: 1
+    unit: pinch
+    name: sumac
+    raw: A pinch of sumac

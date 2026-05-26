@@ -1,0 +1,44 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - meals
+  - garlic
+  - cheese
+  - nuts
+mentions:
+  - cuisine/british/vegetable-soup
+  - cuisine/italian/lasagne
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 40
+    unit: g
+    name: basil leaves
+    raw: 40 grams fresh basil leaves
+  - qty: 1
+    unit: clove
+    name: garlic
+    raw: 1 clove garlic
+  - qty: 30
+    unit: g
+    name: pine nuts
+    raw: 30 grams pine nuts
+  - qty: 120
+    unit: ml
+    name: virgin olive oil
+    raw: 120 milliliters extra virgin olive oil
+  - qty: 20
+    unit: g
+    name: parmesan cheese
+    raw: 20 grams Parmesan cheese
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: 1 pinch fine sea salt

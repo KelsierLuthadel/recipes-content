@@ -1,0 +1,24 @@
+prep: 30 minutes (plus 30 minutes resting)
+cook: 24 minutes (3 minutes per sheet)
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - sides
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 280
+    unit: ml
+    name: water
+    raw: 280 ml warm water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt

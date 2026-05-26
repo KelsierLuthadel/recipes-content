@@ -1,21 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - baking
-  - eggs
-mentions:
-  - tutorials/patisserie/tarts
----
-
-
-
-
 # Crème Chiboust
 
 ![Crème chiboust](resources/creme-chiboust.png)

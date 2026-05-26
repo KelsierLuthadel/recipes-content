@@ -1,0 +1,53 @@
+prep: 12 minutes
+cook: 0 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - chili
+mentions:
+  - cuisine/chilean/chorrillana
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    name: tomatoes
+    raw: 3 ripe tomatoes
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1.5
+    name: red chillies
+    raw: 1-2 fresh red chillies, or 1 ají chilli
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 2
+    unit: tbsp
+    name: red wine vinegar
+    raw: 2 tablespoons red wine vinegar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper

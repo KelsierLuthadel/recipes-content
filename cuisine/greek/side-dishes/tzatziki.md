@@ -1,22 +1,3 @@
----
-prep: 15 minutes (plus 30 minutes drain)
-cook: 0 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - sides
-  - garlic
-  - lemon
-  - yogurt
-mentions: []
----
-
-
-
-
 # Tzatziki
 
 ![Tzatziki](resources/tzatziki.jpg)

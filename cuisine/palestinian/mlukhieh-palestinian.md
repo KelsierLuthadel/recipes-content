@@ -1,29 +1,3 @@
----
-prep: 20 minutes
-cook: 1 hour 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - rice
-  - onion
-  - garlic
-  - lemon
-  - coriander
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Mlukhieh Palestinian
 
 ![Mlukhieh Palestinian](resources/mlukhieh-palestinian.jpg)

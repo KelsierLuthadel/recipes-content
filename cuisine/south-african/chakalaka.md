@@ -1,35 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - carrot
-  - coriander
-  - chili
-  - curry
-  - complex
-mentions:
-  - cuisine/american/side-dishes/baked-beans
-  - cuisine/south-african/bobotie
-  - cuisine/south-african/boerewors
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chakalaka
 
 ![Chakalaka](resources/chakalaka.jpg)

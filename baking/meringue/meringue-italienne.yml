@@ -1,0 +1,31 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - baking
+  - eggs
+mentions:
+  - baking/cremes/creme-au-beurre
+  - baking/cremes/creme-mousseline
+  - tutorials/patisserie/tarts
+ingredients:
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 80 ml water
+  - qty: 360
+    unit: g
+    name: sugar
+    raw: 360 grams sugar
+  - qty: 30
+    unit: g
+    name: glucose
+    raw: 30 grams glucose
+  - qty: 6
+    name: egg whites
+    raw: 6 egg whites

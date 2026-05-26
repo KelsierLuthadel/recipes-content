@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - baking
-  - butter
-mentions:
-  - tutorials/patisserie/tarts
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Feuilletage (Puff Pastry)
 
 ![Feuilletage (puff pastry)](resources/puff-pastry.png)

@@ -1,0 +1,30 @@
+prep: 5 minutes
+cook: 12 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - coconut
+  - kwanzaa
+mentions:
+  - cuisine/cuban/side-dishes/tostones
+  - cuisine/jamaican/brown-stew-chicken
+  - cuisine/jamaican/jerk-chicken
+  - cuisine/jamaican/side-dishes/rice-and-peas
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    name: plantains
+    raw: 3 ripe plantains
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon fine salt

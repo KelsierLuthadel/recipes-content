@@ -1,0 +1,73 @@
+prep: 15 minutes
+cook: 50 minutes
+allergens:
+  - dairy
+  - fish
+  - shellfish
+tags:
+  - gluten-free
+  - spicy
+  - fish
+  - mushroom
+  - onion
+  - tomato
+  - butter
+  - cream
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 80
+    unit: g
+    name: butter
+    raw: 80 grams butter
+  - qty: 60
+    unit: g
+    name: shallots
+    raw: 60 grams shallots
+  - qty: 60
+    unit: g
+    name: button mushrooms
+    raw: 60 grams button mushrooms
+  - qty: 16
+    name: crayfish
+    raw: 16 crayfish
+  - qty: 2
+    unit: tbsp
+    name: cognac
+    raw: 2 tablespoons cognac
+  - qty: 150
+    unit: ml
+    name: dry white wine
+    raw: 150 ml dry white wine
+  - qty: 300
+    unit: ml
+    name: fish stock
+    raw: 300 ml Fish stock
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - qty: 2
+    unit: sprig
+    name: tarragon
+    raw: 2 sprigs tarragon
+  - qty: 80
+    unit: g
+    name: tomatoes
+    raw: 80 grams tomatoes
+  - qty: 1
+    unit: pinch
+    name: cayenne pepper
+    raw: 1 pinch cayenne pepper
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream
+  - qty: 1
+    unit: pinch
+    name: tarragon
+    raw: 1 pinch tarragon
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

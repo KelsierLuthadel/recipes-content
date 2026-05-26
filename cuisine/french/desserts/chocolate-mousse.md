@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - dessert
-  - eggs
-  - lemon
-  - cream
-  - chocolate
-  - valentines
-mentions:
-  - sponge/sponge-base
----
-
-
-
-
 # Chocolate Mousse, Lavender Crémeux and Berry Compote
 
 ![Chocolate mousse, lavender crémeux and berry compote](resources/chocolate-mousse.jpg)

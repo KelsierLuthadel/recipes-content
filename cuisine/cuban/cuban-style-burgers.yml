@@ -1,0 +1,63 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - quick
+  - meals
+  - meat
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - potato
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 27
+    unit: g
+    name: spanish chorizo
+    raw: 27 grams Spanish chorizo
+  - qty: 454
+    unit: g
+    name: pork mince
+    raw: 454 grams pork mince
+  - qty: 36
+    unit: g
+    name: bread crumbs
+    raw: 36 grams dried bread crumbs
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    name: yellow onion
+    raw: 1 yellow onion
+  - qty: 50
+    unit: g
+    name: green bell pepper
+    raw: 50 grams green bell pepper
+  - qty: 1
+    unit: clove
+    name: garlic
+    raw: 1 clove garlic
+  - qty: 0.25
+    unit: tsp
+    name: kosher salt
+    raw: ¼ tsp. kosher salt
+  - qty: 6
+    name: hamburger buns
+    raw: 6 hamburger buns
+  - qty: 6
+    unit: tbsp
+    name: thousand island dressing
+    raw: 6 Tbsp. thousand island dressing
+  - qty: 300
+    unit: g
+    name: potatoes
+    raw: 300 grams potatoes
+  - qty: 6
+    name: lettuce leaves
+    raw: 6 lettuce leaves

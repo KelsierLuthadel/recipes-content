@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-cook: 25 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - sides
-  - onion
-  - garlic
-  - tomato
-mentions:
-  - cuisine/jamaican/side-dishes/fried-plantains
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Hogao
 
 ![Hogao](resources/hogao.jpg)

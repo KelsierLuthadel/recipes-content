@@ -1,0 +1,117 @@
+prep: 45 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - snack
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - coriander
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - cuisine/afghanistan/mantu
+  - cuisine/afghanistan/snacks/mantu
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: leeks or 6 large bunches scallions
+    raw: 400 g leeks OR 6 large bunches scallions
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: mint
+    raw: 2 tablespoons fresh mint
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 30
+    name: square wonton wrappers
+    raw: 30 square wonton wrappers
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 300
+    unit: g
+    name: beef
+    raw: 300 g ground beef
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tablespoon tomato paste
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 0.5
+    unit: tsp
+    name: red chilli flakes
+    raw: ½ teaspoon dried red chilli flakes
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 500
+    unit: g
+    name: greek yogurt
+    raw: 500 g full-fat Greek yogurt
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons cold water
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tablespoon dried mint
+  - qty: 0.5
+    unit: tsp
+    name: paprika
+    raw: ½ teaspoon paprika
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander

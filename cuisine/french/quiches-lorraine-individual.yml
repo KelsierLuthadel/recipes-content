@@ -1,0 +1,45 @@
+prep: 20 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - cream
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 375
+    unit: g
+    name: shortcrust pastry
+    raw: 375 g shortcrust pastry
+  - qty: 140
+    unit: g
+    name: lardons
+    raw: 140 g lardons
+  - qty: 140
+    unit: g
+    name: gruyere cheese
+    raw: 140 g Gruyère cheese
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: Pinch freshly grated nutmeg
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

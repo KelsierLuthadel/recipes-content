@@ -1,0 +1,69 @@
+prep: 10 minutes
+cook: 5 minutes
+allergens:
+  - eggs
+  - peanuts
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - eggs
+  - soy-sauce
+  - curry
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 225
+    unit: g
+    name: chicken breasts
+    raw: 225 grams chicken breasts
+  - qty: 1
+    name: egg white
+    raw: 1 egg white
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: cornflour
+    raw: 1 teaspoon cornflour
+  - qty: 225
+    unit: g
+    name: green peppers
+    raw: 225 grams green peppers
+  - qty: 150
+    unit: ml
+    name: groundnut oil
+    raw: 150 ml groundnut oil
+  - qty: 70
+    unit: ml
+    name: chinese chicken stock
+    raw: 70 ml Chinese chicken stock
+  - qty: 2
+    unit: tsp
+    name: curry powder
+    raw: 2 teaspoons Curry Powder
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 2
+    unit: tsp
+    name: dry sherry
+    raw: 2 teaspoons dry sherry
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tsp
+    name: cornflour
+    raw: 1 teaspoon cornflour

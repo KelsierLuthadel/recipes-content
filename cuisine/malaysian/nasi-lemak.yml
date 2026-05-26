@@ -1,0 +1,90 @@
+prep: 20 minutes
+cook: 50 minutes
+allergens:
+  - dairy
+  - eggs
+  - peanuts
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - prawn
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - coconut
+  - nuts
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/indonesian/beef-rendang
+  - cuisine/malaysian/malaysian-fried-chicken
+  - cuisine/thai/side-dishes/coconut-rice
+ingredients:
+  - qty: 2
+    unit: cup
+    name: jasmine rice
+    raw: 2 cups jasmine rice
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml can coconut milk
+  - qty: 1
+    name: lemongrass stalk
+    raw: 1 lemongrass stalk
+  - name: water
+    raw: Water
+  - qty: 10
+    name: long red chillies
+    raw: 10 dried long red chillies
+  - qty: 2
+    name: long red chillies
+    raw: 2 fresh long red chillies
+  - qty: 2
+    name: red shallots
+    raw: 2 red shallots
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    unit: tsp
+    name: shrimp paste
+    raw: 1 teaspoon shrimp paste
+  - qty: 0.25
+    unit: cup
+    name: peanut oil
+    raw: ¼ cup peanut oil
+  - qty: 1
+    unit: cup
+    name: anchovies
+    raw: 1 cup dried anchovies
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 1
+    unit: tbsp
+    name: brown sugar
+    raw: 1 tablespoon brown sugar
+  - qty: 1
+    unit: tbsp
+    name: tamarind puree
+    raw: 1 tablespoon tamarind puree
+  - name: fried peanuts
+    raw: Fried peanuts
+  - qty: 2
+    name: hard-boiled eggs
+    raw: 2 hard-boiled eggs
+  - name: cucumber
+    raw: Sliced cucumber
+  - name: ayam goreng
+    raw: Ayam goreng , optional

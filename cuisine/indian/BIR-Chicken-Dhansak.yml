@@ -1,0 +1,79 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - lentils
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: rapeseed oil or seasoned oil
+    raw: 4 tbsp rapeseed oil or seasoned oil
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp garlic and ginger paste
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp ground turmeric
+  - qty: 2
+    unit: tbsp
+    name: mixed powder
+    raw: 2 tbsp Mixed Powder
+  - qty: 1
+    unit: tbsp
+    name: chilli powder
+    raw: 1 tbsp chilli powder, or to taste
+  - qty: 125
+    unit: ml
+    name: tomato puree
+    raw: 125 ml tomato purée
+  - qty: 500
+    unit: ml
+    name: curry base gravy
+    raw: 500 ml Curry Base Gravy
+  - qty: 180
+    unit: g
+    name: red split lentils
+    raw: 180 g red split lentils, rinsed and cooked until soft
+  - qty: 800
+    unit: g
+    name: pre-cooked chicken
+    raw: 800 g Pre-Cooked Chicken
+  - qty: 125
+    unit: ml
+    name: chicken stock
+    raw: 125 ml Chicken stock
+  - qty: 115
+    unit: ml
+    name: pineapple juice
+    raw: 115 ml pineapple juice
+  - qty: 3.5
+    name: pineapple rings
+    raw: 3-4 canned pineapple rings, cut into pieces
+  - name: salt
+    raw: Salt, to taste
+  - qty: 1.5
+    name: lemons
+    raw: 1-2 lemons, to taste
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tbsp chopped coriander

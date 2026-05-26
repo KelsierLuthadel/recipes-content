@@ -1,26 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour 35 minutes
-allergens:
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - lamb
-  - onion
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Uyghur Lamb Ribs
 
 ![Uyghur Lamb Ribs](resources/lamb-ribs.jpg)

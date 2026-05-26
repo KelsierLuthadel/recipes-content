@@ -1,0 +1,38 @@
+prep: 5 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - eggs
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 1.1
+    unit: kg
+    name: croissant dough
+    raw: 1.1 kg croissant dough
+  - qty: 400
+    unit: g
+    name: creme patissiere
+    raw: 400 grams crème pâtissière
+  - qty: 250
+    unit: g
+    name: sultanas
+    raw: 250 grams sultanas
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 grams caster sugar
+  - qty: 50
+    unit: ml
+    name: dark rum
+    raw: 50 ml dark rum
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - name: "eggwash: 1 egg yolk mixed with 1 tablespoon milk"
+    raw: "Eggwash: 1 egg yolk mixed with 1 tablespoon milk"

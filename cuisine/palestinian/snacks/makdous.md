@@ -1,26 +1,3 @@
----
-prep: 30 minutes active
-allergens:
-  - tree-nuts
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - snack
-  - garlic
-  - nuts
-  - chili
-mentions:
-  - cuisine/lebanese/side-dishes/labneh
----
-
-
-
-
 # Makdous
 
 ![Makdous](resources/makdous.jpg)

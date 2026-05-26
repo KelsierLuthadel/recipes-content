@@ -1,26 +1,3 @@
----
-prep: 20 minutes
-cook: 35 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - chicken
-  - mushroom
-  - garlic
-  - potato
-  - lemon
-  - butter
-mentions: []
----
-
-
-
-
 # Chicken Clemenceau
 
 ![Chicken Clemenceau](resources/chicken-clemenceau.jpg)

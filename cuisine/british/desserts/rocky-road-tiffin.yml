@@ -1,0 +1,63 @@
+prep: 20 minutes (plus 2 hours chilling)
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - butter
+  - chocolate
+  - nuts
+  - complex
+mentions:
+  - cuisine/american/desserts/rocky-road
+ingredients:
+  - qty: 300
+    unit: g
+    name: digestive biscuits
+    raw: 300 g digestive biscuits
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 100
+    unit: g
+    name: golden syrup
+    raw: 100 g golden syrup
+  - qty: 40
+    unit: g
+    name: cocoa powder
+    raw: 40 g cocoa powder
+  - qty: 30
+    unit: g
+    name: caster sugar
+    raw: 30 g caster sugar
+  - qty: 100
+    unit: g
+    name: mini marshmallows
+    raw: 100 g mini marshmallows
+  - qty: 80
+    unit: g
+    name: pecans or hazelnuts
+    raw: 80 g chopped pecans or hazelnuts
+  - qty: 80
+    unit: g
+    name: glace cherries
+    raw: 80 g glace cherries
+  - qty: 80
+    unit: g
+    name: fudge chunks
+    raw: 80 g fudge chunks
+  - qty: 200
+    unit: g
+    name: milk chocolate
+    raw: 200 g milk chocolate
+  - qty: 50
+    unit: g
+    name: white chocolate
+    raw: 50 g white chocolate
+  - qty: 1
+    unit: small handful
+    name: mini marshmallows + chopped nuts
+    raw: A small handful of extra mini marshmallows + chopped nuts

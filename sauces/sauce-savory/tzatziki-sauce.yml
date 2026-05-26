@@ -1,0 +1,34 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - garlic
+  - lemon
+  - yogurt
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 100
+    unit: ml
+    name: greek yoghurt
+    raw: 100 ml Greek yoghurt
+  - qty: 1
+    unit: clove
+    name: garlic
+    raw: 1 clove garlic
+  - qty: 8
+    name: cucumber
+    raw: 8 cm cucumber
+  - qty: 2
+    name: chives
+    raw: 2 stalks chives
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice

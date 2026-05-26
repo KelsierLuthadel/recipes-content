@@ -1,29 +1,3 @@
----
-prep: 20 minutes (plus 1 ½ hours rise)
-cook: 12 minutes
-allergens:
-  - gluten
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - snack
-  - make-ahead
-  - garlic
-  - potato
-  - cream
-  - cheese
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Lángos
 
 ![Lángos](resources/langos.jpg)

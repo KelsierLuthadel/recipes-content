@@ -1,0 +1,91 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - lamb
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - yogurt
+  - nuts
+  - complex
+mentions:
+  - cuisine/indian/pastes/raw-cashew-paste
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: rapeseed oil or seasoned oil
+    raw: 4 tbsp rapeseed oil or seasoned oil
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp garlic and ginger paste
+  - qty: 2
+    unit: tbsp
+    name: paprika
+    raw: 2 tbsp paprika
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 tsp chilli powder, or more to taste
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tbsp ground cumin
+  - qty: 1.5
+    unit: tbsp
+    name: mixed powder
+    raw: 1 ½ tbsp Mixed Powder
+  - qty: 1
+    unit: tsp
+    name: fenugreek leaves
+    raw: 1 tsp dried fenugreek leaves
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp Garam Masala
+  - qty: 125
+    unit: ml
+    name: tomato puree
+    raw: 125 ml tomato purée
+  - qty: 500
+    unit: ml
+    name: curry base gravy
+    raw: 500 ml Curry Base Gravy
+  - qty: 750
+    unit: g
+    name: pre-cooked lamb
+    raw: 750 g Pre-cooked Lamb
+  - qty: 200
+    unit: ml
+    name: lamb stock
+    raw: 200 ml Lamb stock
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes, quartered
+  - qty: 2.5
+    unit: tbsp
+    name: cashew paste
+    raw: 2-3 tbsp raw cashew paste
+  - qty: 3
+    unit: tbsp
+    name: plain yoghurt
+    raw: 3 tbsp plain yoghurt, plus extra to garnish
+  - name: salt
+    raw: Salt, to taste
+  - qty: 3
+    unit: tbsp
+    name: coriander leaves
+    raw: 3 tbsp chopped coriander leaves

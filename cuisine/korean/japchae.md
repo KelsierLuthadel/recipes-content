@@ -1,33 +1,3 @@
----
-prep: 25 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - tree-nuts
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - meals
-  - meat
-  - beef
-  - mushroom
-  - onion
-  - garlic
-  - potato
-  - spinach
-  - carrot
-  - nuts
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Japchae
 
 ![Japchae](resources/japchae.jpg)

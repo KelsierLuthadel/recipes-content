@@ -1,21 +1,3 @@
----
-prep: 10 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - onion
-  - lemon
-mentions: []
----
-
-
-
-
 # Romesco Sauce
 
 ![Romesco Sauce](resources/romesco-sauce.png)

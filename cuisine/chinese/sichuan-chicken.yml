@@ -1,0 +1,77 @@
+prep: 10 minutes
+allergens:
+  - soy
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/rice/boiled-rice
+ingredients:
+  - qty: 250
+    unit: g
+    name: chicken fillets
+    raw: 250 grams chicken fillets
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic
+  - qty: 2
+    name: ginger
+    raw: 2 cm ginger
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: red chilli powder
+    raw: ½ tsp red chilli powder
+  - qty: 1
+    unit: tbsp
+    name: oil
+    raw: 1 tbsp oil
+  - qty: 3
+    unit: clove
+    name: garlic
+    raw: 3 cloves garlic
+  - qty: 0.5
+    name: red bell pepper
+    raw: ½ red bell pepper
+  - qty: 5
+    name: chillies
+    raw: 5 dried chillies
+  - qty: 2
+    unit: tbsp
+    name: oyster sauce
+    raw: 2 tbsp oyster sauce
+  - qty: 4
+    unit: tsp
+    name: soy sauce
+    raw: 4 tsp soy sauce
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ tsp black pepper
+  - qty: 0.25
+    unit: tsp
+    name: sugar
+    raw: ¼ tsp sugar
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water

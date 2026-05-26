@@ -1,0 +1,77 @@
+prep: 10 minutes
+cook: 15 minutes (plus 25 minutes if cooking rice from scratch)
+allergens:
+  - tree-nuts
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - lentils
+  - rice
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - curry
+mentions:
+  - cuisine/thai/side-dishes/coconut-rice
+ingredients:
+  - qty: 250
+    unit: g
+    name: basmati
+    raw: 250 g basmati
+  - qty: 3
+    unit: tbsp
+    name: coconut oil
+    raw: 3 tablespoons coconut oil
+  - qty: 1
+    unit: tsp
+    name: black mustard seeds
+    raw: 1 teaspoon black mustard seeds
+  - qty: 1
+    unit: tsp
+    name: urad dal
+    raw: 1 teaspoon urad dal
+  - qty: 1
+    unit: tsp
+    name: chana dal
+    raw: 1 teaspoon chana dal
+  - qty: 30
+    unit: g
+    name: cashews
+    raw: 30 g raw cashews
+  - qty: 2
+    name: red chillies
+    raw: 2 dried red chillies
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon grated fresh ginger
+  - qty: 20
+    name: curry leaves
+    raw: 20 fresh curry leaves
+  - qty: 1
+    unit: pinch
+    name: asafoetida
+    raw: A pinch of asafoetida
+  - qty: 120
+    unit: g
+    name: coconut
+    raw: 120 g fresh grated coconut
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of coriander
+  - name: lime
+    raw: A wedge of lime

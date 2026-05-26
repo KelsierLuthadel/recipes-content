@@ -1,0 +1,30 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - butter
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: watercress
+    raw: 400 grams watercress
+  - qty: 100
+    unit: g
+    name: butter
+    raw: 100 grams butter
+  - qty: 500
+    unit: ml
+    name: vegetable stock
+    raw: 500 ml Vegetable stock
+  - qty: 15
+    unit: g
+    name: soft green peppercorns
+    raw: 15 grams soft green peppercorns
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

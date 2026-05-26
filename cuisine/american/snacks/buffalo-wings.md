@@ -1,32 +1,3 @@
----
-prep: 15 minutes (plus 1 hour drying)
-cook: 25 minutes
-allergens:
-  - dairy
-  - meat
-  - celery
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - snack
-  - make-ahead
-  - meat
-  - garlic
-  - carrot
-  - butter
-  - cheese
-  - chili
-  - complex
-mentions:
-  - sauces/sauce-spicy/buffalo-sauce
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Buffalo Wings
 
 ![Buffalo Wings](resources/buffalo-wings.jpg)

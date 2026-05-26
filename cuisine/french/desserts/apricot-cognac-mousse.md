@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-cook: 5 minutes
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - dessert
-  - cream
-  - nuts
-mentions: []
----
-
-
-
-
 # Apricot and Cognac Mousse with Caramelised Almonds
 
 ![Apricot and cognac mousse with caramelised almonds](resources/apricot-cognac-mousse.jpg)

@@ -1,0 +1,81 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+tags:
+  - meals
+  - meat
+  - fish
+  - potato
+  - lemon
+  - butter
+  - cream
+  - complex
+mentions:
+  - cuisine/british/side-dishes/mushy-peas
+  - sauces/sauce-savory/tartare-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: maris piper potatoes
+    raw: 1 kg Maris Piper potatoes
+  - name: vegetable oil
+    raw: Vegetable oil
+  - name: sea salt
+    raw: Sea salt
+  - qty: 4
+    name: cod
+    raw: 4 skinless cod
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 300
+    unit: ml
+    name: beer
+    raw: 300 ml very cold beer
+  - qty: 400
+    unit: g
+    name: peas
+    raw: 400 g frozen peas
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: creme fraiche
+    raw: 2 tablespoons crème fraîche
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tablespoon mint
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: malt vinegar
+    raw: Malt vinegar
+  - name: tartare sauce
+    raw: Tartare Sauce

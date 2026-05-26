@@ -1,19 +1,3 @@
----
-prep: 15 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - asian
-mentions: []
----
-
-
-
-
 # Tomato Puree
 
 ![Tomato Puree](resources/tomato-puree.jpg)

@@ -1,0 +1,83 @@
+prep: 15 minutes
+cook: 2 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - one-pan
+  - meals
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - lime
+  - coriander
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: beef shin
+    raw: 1 kg beef shin
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 2.5
+    unit: l
+    name: beef stock
+    raw: 2 ½ litres hot beef stock
+  - qty: 1
+    name: pumpkin
+    raw: 1 pumpkin
+  - qty: 2
+    name: corn-on-the-cob
+    raw: 2 corn-on-the-cob
+  - qty: 4
+    name: potatoes
+    raw: 4 potatoes
+  - qty: 200
+    unit: g
+    name: green beans
+    raw: 200 g green beans
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 100
+    unit: g
+    name: long-grain rice
+    raw: 100 g long-grain rice
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tablespoons fresh coriander
+  - qty: 1
+    name: lime
+    raw: 1 lime

@@ -1,0 +1,46 @@
+prep: 10 minutes
+cook: 9 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - chocolate
+  - valentines
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: butter
+    raw: 200 grams butter
+  - qty: 20
+    unit: g
+    name: butter
+    raw: 20 grams butter
+  - qty: 200
+    unit: g
+    name: dark chocolate
+    raw: 200 grams dark chocolate
+  - qty: 200
+    unit: g
+    name: icing sugar
+    raw: 200 grams icing sugar
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 4
+    name: egg yolks
+    raw: 4 egg yolks
+  - qty: 55
+    unit: g
+    name: flour
+    raw: 55 grams flour
+  - qty: 35
+    unit: g
+    name: cocoa powder
+    raw: 35 grams cocoa powder

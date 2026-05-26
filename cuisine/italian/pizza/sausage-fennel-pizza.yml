@@ -1,0 +1,76 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - spinach
+  - cheese
+  - yogurt
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 grams plain flour
+  - qty: 0.5
+    unit: tsp
+    name: baking powder
+    raw: ½ teaspoon baking powder
+  - qty: 0.5
+    unit: tsp
+    name: chilli flakes
+    raw: ½ teaspoon chilli flakes
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 200
+    unit: g
+    name: greek yogurt
+    raw: 200 grams Greek yogurt
+  - qty: 1
+    name: fennel bulb
+    raw: 1 fennel bulb
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 200
+    unit: g
+    name: sausagemeat
+    raw: 200 grams sausagemeat
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 teaspoon fennel seeds
+  - qty: 60
+    unit: g
+    name: leaf spinach
+    raw: 60 grams young leaf spinach
+  - qty: 3
+    unit: tbsp
+    name: ricotta cheese
+    raw: 3 tablespoons ricotta cheese
+  - qty: 25
+    unit: g
+    name: parmesan cheese
+    raw: 25 grams parmesan cheese

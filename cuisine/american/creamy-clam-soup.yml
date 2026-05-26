@@ -1,0 +1,57 @@
+prep: 20 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - fish
+  - shellfish
+tags:
+  - gluten-free
+  - meals
+  - fish
+  - rice
+  - onion
+  - carrot
+  - butter
+  - cream
+mentions: []
+ingredients:
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: leek
+    raw: 1 leek
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 250
+    unit: g
+    name: swede
+    raw: 250 grams swede
+  - qty: 75
+    unit: g
+    name: medium
+    raw: 75 grams medium
+  - qty: 1.75
+    unit: kg
+    name: clams
+    raw: 1 ¾ kg clams
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 800
+    unit: ml
+    name: fish stock
+    raw: 800 ml fish stock
+  - qty: 200
+    unit: ml
+    name: whipping cream
+    raw: 200 ml whipping cream
+  - qty: 3
+    unit: tbsp
+    name: flat leaf parsley
+    raw: 3 tablespoons flat leaf parsley

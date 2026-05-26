@@ -1,0 +1,94 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: celery sticks
+    raw: 3 celery sticks
+  - qty: 1
+    name: green pepper
+    raw: 1 green pepper
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tin chopped tomatoes
+  - qty: 400
+    unit: ml
+    name: seafood
+    raw: 400 ml seafood, chicken
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme
+  - qty: 2
+    unit: tsp
+    name: creole seasoning
+    raw: 2 teaspoons Creole seasoning
+  - qty: 1
+    unit: tsp
+    name: worcestershire sauce
+    raw: 1 teaspoon Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: hot sauce
+    raw: 1 tablespoon hot sauce
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 600
+    unit: g
+    name: prawns
+    raw: 600 g raw prawns
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley
+  - name: white rice
+    raw: Cooked white rice
+  - name: hot sauce
+    raw: Extra hot sauce

@@ -1,0 +1,49 @@
+prep: 5 minutes
+cook: 40 minutes
+allergens:
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meat
+  - onion
+  - garlic
+  - potato
+  - carrot
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: carrots
+    raw: 200 grams carrots
+  - qty: 150
+    unit: g
+    name: onions
+    raw: 150 grams onions
+  - qty: 1
+    name: potato
+    raw: 1 potato
+  - qty: 1
+    unit: sprig
+    name: thyme
+    raw: 1 sprig thyme
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic
+  - qty: 150
+    unit: ml
+    name: dry white wine
+    raw: 150 ml dry white wine
+  - qty: 50
+    unit: g
+    name: savory
+    raw: 50 grams savory sprigs
+  - qty: 150
+    unit: ml
+    name: chicken stock
+    raw: 150 ml Chicken Stock
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

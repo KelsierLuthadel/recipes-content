@@ -1,0 +1,76 @@
+prep: 15 minutes
+cook: 9 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - onion
+  - garlic
+  - ginger
+  - lime
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    name: scotch bonnet chillies
+    raw: 2 fresh Scotch bonnet chillies
+  - qty: 4.5
+    name: garlic cloves
+    raw: 4-5 garlic cloves
+  - qty: 2.5
+    name: ginger root
+    raw: 2 ½ cm piece fresh ginger root
+  - qty: 1.5
+    unit: tsp
+    name: thyme
+    raw: 1 ½ teaspoons dried thyme
+  - qty: 1.5
+    unit: tsp
+    name: allspice berries
+    raw: 1 ½ teaspoons ground allspice berries
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon ground black pepper
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon grated nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon sea salt
+  - qty: 2.5
+    unit: tbsp
+    name: dark rum
+    raw: 2-3 tablespoons dark rum
+  - qty: 3
+    unit: tbsp
+    name: lime juice
+    raw: 3 tablespoons fresh lime juice
+  - qty: 1
+    unit: tbsp
+    name: lime zest
+    raw: 1 tablespoon lime zest
+  - qty: 1
+    unit: tbsp
+    name: tabasco sauce
+    raw: 1 tablespoon Tabasco sauce

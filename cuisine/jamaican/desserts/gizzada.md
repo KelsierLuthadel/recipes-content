@@ -1,24 +1,3 @@
----
-prep: 30 minutes (plus 30 minutes pastry chilling)
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - ginger
-  - coconut
-  - butter
-mentions:
-  - tutorials/patisserie/tarts
----
-
-
-
-
 # Gizzada
 
 ![Gizzada](resources/gizzada.jpg)

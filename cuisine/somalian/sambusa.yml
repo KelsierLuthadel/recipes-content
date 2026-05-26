@@ -1,0 +1,86 @@
+prep: 30 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - meals
+  - lentils
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/side-dishes/samosa
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: brown lentils
+    raw: 200 g brown lentils
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 1
+    name: long green chilli
+    raw: 1 long green chilli
+  - qty: 200
+    unit: g
+    name: peas
+    raw: 200 g frozen peas
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    name: coriander
+    raw: A small bunch of coriander
+  - qty: 16
+    name: spring roll wrappers
+    raw: 16 spring roll wrappers
+  - qty: 4
+    unit: tbsp
+    name: plain flour mixed with 4 tablespoons water
+    raw: 4 tablespoons plain flour mixed with 4 tablespoons water
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying

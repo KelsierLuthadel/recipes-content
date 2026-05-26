@@ -1,0 +1,88 @@
+prep: 50 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - onion
+  - spinach
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 5
+    unit: tbsp
+    name: water
+    raw: 4-6 tablespoons cold water
+  - qty: 100
+    unit: g
+    name: stale white bread
+    raw: 100 g stale white bread
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 500
+    unit: g
+    name: spinach
+    raw: 500 g frozen chopped spinach
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    unit: tbsp
+    name: unsalted butter
+    raw: 2 tablespoons unsalted butter
+  - qty: 100
+    unit: g
+    name: gruyere cheese
+    raw: 100 g gruyère cheese
+  - qty: 50
+    unit: g
+    name: parmesan cheese
+    raw: 50 g parmesan cheese
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - qty: 1
+    name: parsley
+    raw: A small bunch of parsley
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1.5
+    unit: l
+    name: vegetable stock
+    raw: 1 ½ litres vegetable stock
+  - qty: 50
+    unit: g
+    name: butter + 1 large onion sliced
+    raw: 50 g butter + 1 large onion sliced
+  - qty: 4
+    name: fried eggs
+    raw: 4 fried eggs

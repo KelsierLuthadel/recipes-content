@@ -1,0 +1,43 @@
+prep: 30 minutes (plus 2 hour dough rest)
+cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - snack
+  - butter
+  - chickpea
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: chickpea flour
+    raw: 250 g chickpea flour
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 120
+    unit: g
+    name: icing sugar
+    raw: 120 g icing sugar
+  - qty: 1.5
+    unit: tsp
+    name: cardamom
+    raw: 1 ½ teaspoons ground cardamom
+  - qty: 1
+    unit: tbsp
+    name: rosewater
+    raw: 1 tablespoon rosewater
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 50
+    unit: g
+    name: shelled unsalted pistachios
+    raw: 50 g shelled unsalted pistachios

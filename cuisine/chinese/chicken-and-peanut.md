@@ -1,36 +1,3 @@
----
-prep: 15 minutes
-cook: 3 minutes
-allergens:
-  - tree-nuts
-  - peanuts
-  - soy
-  - sesame
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - meals
-  - asian
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - carrot
-  - nuts
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken and Peanut
 
 ![Chicken and Peanut](resources/chicken-peanut.jpg)

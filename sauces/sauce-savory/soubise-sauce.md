@@ -1,21 +1,3 @@
----
-prep: 10 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - onion
-  - butter
-  - cream
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Soubise Sauce
 
 ![Soubise sauce](resources/soubise-sauce.png)

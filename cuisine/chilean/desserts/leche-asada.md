@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 45 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - make-ahead
-  - eggs
-  - lemon
-mentions:
-  - sauces/sauce-sweet/caramel-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Leche Asada
 
 ![Leche Asada](resources/leche-asada.jpg)

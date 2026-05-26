@@ -1,21 +1,3 @@
----
-prep: 5 minutes
-cook: 10 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - quick
-  - make-ahead
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # White Bread
 
 ![White Bread](resources/white-bread.jpg)

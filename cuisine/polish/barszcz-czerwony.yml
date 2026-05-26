@@ -1,0 +1,67 @@
+prep: 15 minutes (plus 12-24 hour fermentation for kvas)
+cook: 1 hour
+allergens:
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - mushroom
+  - onion
+  - garlic
+  - carrot
+  - complex
+mentions:
+  - cuisine/russian/borscht
+ingredients:
+  - qty: 4
+    name: beetroots
+    raw: 4 beetroots
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 2
+    name: celery sticks
+    raw: 2 celery sticks
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 20
+    unit: g
+    name: wild mushrooms
+    raw: 20 g dried wild mushrooms
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 6
+    name: allspice berries
+    raw: 6 allspice berries
+  - qty: 6
+    name: black peppercorns
+    raw: 6 black peppercorns
+  - qty: 1.5
+    unit: l
+    name: vegetable stock
+    raw: 1 ½ litres vegetable stock
+  - qty: 2
+    unit: tbsp
+    name: cider vinegar
+    raw: 2 tablespoons cider vinegar
+  - qty: 1
+    unit: tbsp
+    name: brown sugar
+    raw: 1 tablespoon brown sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    name: dill
+    raw: A small bunch of fresh dill

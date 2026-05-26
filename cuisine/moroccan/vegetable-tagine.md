@@ -1,32 +1,3 @@
----
-prep: 20 minutes
-cook: 1 hour
-allergens:
-  - tree-nuts
-  - garlic
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - meals
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - potato
-  - carrot
-  - lemon
-  - coriander
-  - honey
-  - chickpea
-  - nuts
-  - complex
-mentions: []
----
-
-
-
-
 # Vegetable Tagine
 
 ![Vegetable Tagine](resources/vegetable-tagine.jpg)

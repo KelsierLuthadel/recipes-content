@@ -1,31 +1,3 @@
----
-prep: 15 minutes
-cook: 15 minutes
-allergens:
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - sides
-  - asian
-  - fish
-  - prawn
-  - onion
-  - garlic
-  - tomato
-  - lime
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sambal Terasi
 
 ![Sambal Terasi](resources/sambal-terasi.jpg)

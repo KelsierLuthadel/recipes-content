@@ -1,32 +1,3 @@
----
-prep: 15 minutes (plus 30 minutes soak)
-cook: 30 minutes
-allergens:
-  - fish
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - fish
-  - prawn
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - coconut
-  - lime
-  - coriander
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Goan Prawn Pulao
 
 ![Goan Prawn Pulao](resources/goan-prawn-pulao.jpg)

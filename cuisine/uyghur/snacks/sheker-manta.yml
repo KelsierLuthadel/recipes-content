@@ -1,0 +1,46 @@
+prep: 30 minutes (plus 2-4 hours dough rise)
+cook: 15 minutes
+allergens:
+  - gluten
+  - tree-nuts
+tags:
+  - dairy-free
+  - snack
+  - meat
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 110
+    unit: ml
+    name: water
+    raw: 110 ml cold water
+  - qty: 2
+    unit: g
+    name: instant yeast
+    raw: 2 g instant yeast
+  - qty: 2
+    unit: pinch
+    name: salt
+    raw: 2 pinches salt
+  - qty: 138
+    unit: g
+    name: walnuts
+    raw: 138 g walnuts
+  - qty: 67
+    unit: g
+    name: raisins
+    raw: 67 g raisins
+  - qty: 29
+    unit: g
+    name: lamb fat
+    raw: 29 g lamb fat
+  - qty: 26
+    unit: g
+    name: caster sugar
+    raw: 26 g caster sugar

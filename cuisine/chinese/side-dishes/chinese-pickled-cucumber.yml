@@ -1,0 +1,63 @@
+prep: 15 minutes
+allergens:
+  - soy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: cucumbers
+    raw: 600 g cucumbers
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 200
+    unit: ml
+    name: rice vinegar
+    raw: 200 ml rice vinegar
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 4
+    unit: tbsp
+    name: light soy sauce
+    raw: 4 tablespoons light soy sauce
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 4
+    name: ginger
+    raw: 4 cm fresh ginger
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tsp
+    name: sichuan peppercorns
+    raw: 2 teaspoons Sichuan peppercorns
+  - qty: 3
+    name: red chillies
+    raw: 3 dried red chillies
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil

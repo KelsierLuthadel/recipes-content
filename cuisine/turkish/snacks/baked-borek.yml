@@ -1,0 +1,70 @@
+prep: 1 hour 15 minutes
+cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+  - sesame
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - onion
+  - tomato
+  - butter
+  - complex
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/pastry/filo
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 30
+    unit: ml
+    name: groundnut oil
+    raw: 30 milliliters groundnut oil
+  - qty: 2
+    name: eggplants
+    raw: 2 eggplants
+  - name: sea salt and freshly ground black pepper
+    raw: Fine sea salt and freshly ground black pepper to taste
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 grams tinned tomatoes
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 60
+    unit: ml
+    name: water
+    raw: 60 milliliters water
+  - qty: 60
+    unit: ml
+    name: olive oil
+    raw: 60 milliliters olive oil
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 250
+    unit: g
+    name: flour
+    raw: 250 grams flour
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    unit: tbsp
+    name: milk
+    raw: 1 tablespoon milk
+  - qty: 1
+    unit: tsp
+    name: sesame seeds
+    raw: 1 teaspoon sesame seeds

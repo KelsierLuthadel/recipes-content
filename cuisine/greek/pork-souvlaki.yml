@@ -1,0 +1,69 @@
+prep: 15 minutes (plus 2 hours marinade)
+cook: 12 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - bbq
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - complex
+mentions: []
+ingredients:
+  - qty: 800
+    unit: g
+    name: pork shoulder
+    raw: 800 g pork shoulder
+  - qty: 8
+    name: wooden skewers or metal
+    raw: 8 wooden skewers or metal
+  - qty: 100
+    unit: ml
+    name: olive oil
+    raw: 100 ml olive oil
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: greek oregano
+    raw: 1 tablespoon dried Greek oregano
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 4
+    name: pita breads
+    raw: 4 pita breads
+  - name: tzatziki
+    raw: Tzatziki
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1
+    unit: handful
+    name: oregano
+    raw: A handful of fresh oregano
+  - name: lemon wedges
+    raw: Lemon wedges

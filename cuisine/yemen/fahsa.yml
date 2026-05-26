@@ -1,0 +1,83 @@
+prep: 25 minutes (plus overnight for fenugreek)
+cook: 3 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - complex
+mentions:
+  - cuisine/yemen/saltah
+  - cuisine/yemen/side-dishes/lahoh
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: lamb shoulder
+    raw: 1 kg lamb shoulder
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb ginger
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato puree
+  - qty: 2
+    unit: tbsp
+    name: hawaij
+    raw: 2 tablespoons hawaij
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 teaspoon ground cloves
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml hot water
+  - qty: 1
+    name: batch hulba
+    raw: 1 batch hulba
+  - qty: 4
+    unit: tbsp
+    name: sahawiq
+    raw: 4 tablespoons Sahawiq
+  - name: lahoh
+    raw: Lahoh

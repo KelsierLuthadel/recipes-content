@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 35 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - meals
-  - onion
-  - garlic
-  - ginger
-  - potato
-  - carrot
-  - kwanzaa
-mentions:
-  - base-ingredients/spices/berbere
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Atakilt Wat
 
 ![Atakilt Wat](resources/atakilt-wat.jpg)

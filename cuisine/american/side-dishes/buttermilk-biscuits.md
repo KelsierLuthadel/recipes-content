@@ -1,22 +1,3 @@
----
-prep: 15 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - quick
-  - make-ahead
-  - sides
-  - butter
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Buttermilk Biscuits
 
 ![Buttermilk Biscuits](resources/buttermilk-biscuits.jpg)

@@ -1,19 +1,3 @@
----
-prep: 5 minutes
-cook: 2 hours 30 minutes (mostly hands-off)
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - complex
-mentions: []
----
-
-
-
-
 # Manjar (Chilean Dulce de Leche)
 
 ![Manjar](resources/manjar-chileno.jpg)

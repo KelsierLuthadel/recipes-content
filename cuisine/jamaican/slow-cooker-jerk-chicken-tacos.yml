@@ -1,0 +1,84 @@
+prep: 20 minutes
+cook: 6 hours (low) or 4 hours (high)
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - lime
+  - coriander
+  - complex
+mentions:
+  - cuisine/jamaican/jerk-chicken
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 900
+    unit: g
+    name: chicken breasts
+    raw: 900 g boneless skinless chicken breasts
+  - qty: 0.5
+    name: yellow onion
+    raw: ½ medium yellow onion
+  - qty: 6
+    unit: sprig
+    name: thyme
+    raw: 6 sprigs fresh thyme
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: smoked paprika
+    raw: ½ teaspoon smoked paprika
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 0.3333333333333333
+    unit: cup
+    name: walkerswood jamaican jerk seasoning paste
+    raw: ⅓ cup Walkerswood Jamaican Jerk seasoning paste
+  - qty: 60
+    unit: ml
+    name: chicken broth
+    raw: 60 ml chicken broth
+  - qty: 1
+    unit: tsp
+    name: browning sauce
+    raw: 1 teaspoon browning sauce
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - name: flour
+    raw: Flour , to serve
+  - qty: 2
+    unit: cup
+    name: mango
+    raw: 2 cups diced fresh mango
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 0.5
+    unit: cup
+    name: red onion
+    raw: ½ cup diced red onion
+  - qty: 0.25
+    unit: cup
+    name: cilantro
+    raw: ¼ cup chopped cilantro
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - name: salt
+    raw: Salt to taste

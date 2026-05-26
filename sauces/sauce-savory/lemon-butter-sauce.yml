@@ -1,0 +1,28 @@
+prep: 5 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - quick
+  - meat
+  - lemon
+  - butter
+mentions: []
+ingredients:
+  - qty: 225
+    unit: g
+    name: unsalted butter
+    raw: 225 grams unsalted butter
+  - qty: 50
+    unit: ml
+    name: stock
+    raw: 50 ml stock
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

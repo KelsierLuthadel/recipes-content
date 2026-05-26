@@ -1,0 +1,64 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - eggs
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - asian
+  - meat
+  - beef
+  - eggs
+  - onion
+  - coriander
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: beef
+    raw: 350 grams minced beef
+  - qty: 1
+    name: egg white
+    raw: 1 egg white
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tablespoon very cold water
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon freshly ground black pepper
+  - qty: 2
+    unit: tsp
+    name: sesame oil
+    raw: 2 teaspoons sesame oil
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon fresh coriander
+  - qty: 1.5
+    unit: tbsp
+    name: spring onions
+    raw: 1 ½ tablespoons spring onions
+  - qty: 1
+    unit: tsp
+    name: cornflour
+    raw: 1 teaspoon cornflour
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar

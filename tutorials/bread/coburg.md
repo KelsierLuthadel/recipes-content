@@ -1,19 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/bread/cob
-  - tutorials/bread/cottage
-  - tutorials/bread/shapes
-  - tutorials/pizza/dough
----
-
-
-
 # Coburg
 
 ![A Coburg loaf](resources/coburg-loaf.jpg)

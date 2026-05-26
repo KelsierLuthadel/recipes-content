@@ -1,0 +1,55 @@
+prep: 10 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - coconut
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 200
+    unit: g
+    name: rice flour
+    raw: 200 g rice flour
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 300
+    unit: ml
+    name: coconut cream
+    raw: 300 ml coconut cream
+  - qty: 300
+    unit: g
+    name: palm jaggery
+    raw: 300 g palm jaggery
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 2
+    unit: tbsp
+    name: ghee
+    raw: 2 tablespoons ghee
+  - qty: 30
+    unit: g
+    name: cashews
+    raw: 30 g cashews

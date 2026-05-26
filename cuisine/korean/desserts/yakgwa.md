@@ -1,26 +1,3 @@
----
-prep: 1 hour (plus 30 minutes resting)
-cook: 25 minutes
-allergens:
-  - gluten
-  - tree-nuts
-  - sesame
-tags:
-  - vegetarian
-  - dairy-free
-  - dessert
-  - rice
-  - ginger
-  - honey
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Yakgwa (Honey-Fried Wheat Cookies)
 
 ![Yakgwa](resources/yakgwa.jpg)

@@ -1,0 +1,42 @@
+prep: 10 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - garlic
+  - lime
+  - coriander
+  - chili
+mentions:
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - cuisine/indian/side-dishes/lamb-seekh-kebab
+  - cuisine/indian/side-dishes/samosa
+  - sauces/fruit-sauce/mango-chutney
+ingredients:
+  - qty: 1
+    name: coriander
+    raw: Small bunch of fresh coriander
+  - qty: 1
+    name: mint
+    raw: Large bunch of fresh mint
+  - qty: 200
+    unit: ml
+    name: smooth mango chutney
+    raw: 200 ml smooth mango chutney
+  - qty: 2.5
+    name: green chillies
+    raw: 1-4 fresh green chillies
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: lime
+    raw: 1 fresh lime
+  - name: salt
+    raw: Salt to taste

@@ -1,0 +1,119 @@
+prep: 25 minutes
+cook: 1 ¼ hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - chili
+  - curry
+  - complex
+  - kwanzaa
+mentions:
+  - cuisine/nigerian/dodo
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.4
+    unit: kg
+    name: chicken pieces
+    raw: 1.4 kg chicken pieces
+  - qty: 2
+    unit: tbsp
+    name: curry powder
+    raw: 2 tablespoons Curry Powder
+  - qty: 2
+    unit: tsp
+    name: thyme
+    raw: 2 teaspoons dried thyme
+  - qty: 2
+    name: stock cubes
+    raw: 2 stock cubes
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    name: ginger
+    raw: 4 cm ginger
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes
+  - qty: 2
+    name: red bell peppers
+    raw: 2 red bell peppers
+  - qty: 2.5
+    name: scotch bonnet peppers
+    raw: 2-3 scotch bonnet peppers
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: ginger
+    raw: 2 cm ginger
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 100
+    unit: ml
+    name: vegetable oil
+    raw: 100 ml vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    unit: tbsp
+    name: tomato paste
+    raw: 4 tablespoons tomato paste
+  - qty: 1
+    unit: tbsp
+    name: curry powder
+    raw: 1 tablespoon Curry Powder
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon dried thyme
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    name: stock cube
+    raw: 1 stock cube
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 600
+    unit: g
+    name: long-grain rice
+    raw: 600 g long-grain rice
+  - qty: 1
+    unit: small handful
+    name: basil
+    raw: A small handful of fresh basil
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions

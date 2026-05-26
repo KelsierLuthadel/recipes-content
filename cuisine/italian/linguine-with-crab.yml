@@ -1,0 +1,49 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - fish
+  - garlic
+  - lemon
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 450
+    unit: g
+    name: dressed crab
+    raw: 450 grams dressed crab
+  - qty: 5
+    unit: tbsp
+    name: virgin olive oil
+    raw: 5 tablespoons extra virgin olive oil
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: medium-hot red chilli
+    raw: 1 medium-hot red chilli
+  - qty: 3
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 3 tablespoons fresh flat-leaf parsley
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 3
+    unit: tbsp
+    name: lemon juice
+    raw: 3 tablespoons fresh lemon juice
+  - name: salt
+    raw: Salt to taste
+  - qty: 500
+    unit: g
+    name: linguine
+    raw: 500 grams linguine

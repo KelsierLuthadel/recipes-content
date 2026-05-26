@@ -1,0 +1,78 @@
+prep: 15 minutes
+cook: 8 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: chicken breast
+    raw: 300 g chicken breast
+  - qty: 2
+    unit: tsp
+    name: shaoxing wine
+    raw: 2 tsp Shaoxing wine
+  - qty: 1
+    unit: tsp
+    name: dark soy sauce
+    raw: 1 tsp dark soy sauce
+  - qty: 1
+    unit: tsp
+    name: cornflour
+    raw: 1 tsp cornflour
+  - qty: 0.25
+    unit: tsp
+    name: white pepper
+    raw: ¼ tsp white pepper
+  - qty: 1
+    unit: tsp
+    name: vegetable oil
+    raw: 1 tsp vegetable oil
+  - qty: 100
+    unit: g
+    name: yacai
+    raw: 100 g yacai
+  - qty: 50
+    unit: g
+    name: mixed fresh red and green chillies
+    raw: 50 g mixed fresh red and green chillies
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, minced
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tbsp ginger, minced
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 2
+    unit: tsp
+    name: light soy sauce
+    raw: 2 tsp light soy sauce
+  - qty: 1
+    unit: tsp
+    name: sweet wheat paste
+    raw: 1 tsp sweet wheat paste
+  - qty: 0.5
+    unit: tsp
+    name: granulated sugar
+    raw: ½ tsp granulated sugar

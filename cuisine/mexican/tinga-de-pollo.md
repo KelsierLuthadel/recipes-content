@@ -1,35 +1,3 @@
----
-prep: 10 minutes
-cook: 40 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - tomato
-  - lime
-  - coriander
-  - cheese
-  - chili
-  - complex
-  - day-of-the-dead
-mentions:
-  - cuisine/mexican/snacks/tostadas
-  - sauces/sauce-spicy/chipotle-sauce
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tinga de Pollo
 
 ![Tinga de Pollo](resources/tinga-de-pollo.jpg)

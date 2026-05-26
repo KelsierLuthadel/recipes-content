@@ -1,0 +1,43 @@
+prep: 5 minutes
+cook: 55 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - onion
+  - butter
+  - cream
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 20
+    unit: g
+    name: butter
+    raw: 20 grams butter
+  - qty: 60
+    unit: g
+    name: onion
+    raw: 60 grams onion
+  - qty: 400
+    unit: ml
+    name: milk
+    raw: 400 ml milk
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: cloves
+    raw: 2 cloves
+  - qty: 80
+    unit: g
+    name: white bread
+    raw: 80 grams white bread
+  - qty: 50
+    unit: ml
+    name: double cream
+    raw: 50 ml double cream
+  - qty: 1
+    unit: pinch
+    name: salt and pepper
+    raw: 1 pinch salt and pepper

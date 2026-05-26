@@ -1,0 +1,75 @@
+prep: 30 minutes (plus 2 hour first rise + 1 hour second rise)
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - chocolate
+  - complex
+  - hanukkah
+  - rosh-hashanah
+  - shavuot
+mentions:
+  - cuisine/israel/desserts/babka
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: white bread flour
+    raw: 500 g strong white bread flour
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    name: fast-action yeast
+    raw: 1 sachet fast-action yeast
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 150
+    unit: g
+    name: unsalted butter
+    raw: 150 g unsalted butter
+  - qty: 200
+    unit: g
+    name: dark chocolate
+    raw: 200 g dark chocolate
+  - qty: 150
+    unit: g
+    name: unsalted butter
+    raw: 150 g unsalted butter
+  - qty: 80
+    unit: g
+    name: icing sugar
+    raw: 80 g icing sugar
+  - qty: 3
+    unit: tbsp
+    name: cocoa powder
+    raw: 3 tablespoons cocoa powder
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water

@@ -1,0 +1,58 @@
+prep: 8 minutes
+cook: 2 minutes
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - asian
+  - spices
+  - ginger
+  - coriander
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: coriander seeds
+    raw: 3 tbsp coriander seeds
+  - qty: 3
+    unit: tbsp
+    name: cumin seeds
+    raw: 3 tbsp cumin seeds
+  - qty: 1
+    unit: tbsp
+    name: black mustard seeds
+    raw: 1 tbsp black mustard seeds
+  - qty: 5
+    name: cinnamon stick or cassia bark
+    raw: 5cm piece of cinnamon stick or cassia bark
+  - name: mace
+    raw: Small piece of mace
+  - qty: 3
+    name: indian bay leaves
+    raw: 3 dried Indian bay leaves
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tbsp ground ginger
+  - qty: 2
+    unit: tbsp
+    name: garlic powder
+    raw: 2 tbsp garlic powder
+  - qty: 2
+    unit: tbsp
+    name: onion powder
+    raw: 2 tbsp dried onion powder
+  - qty: 2
+    unit: tbsp
+    name: amchoor
+    raw: 2 tbsp amchoor
+  - qty: 1
+    unit: tbsp
+    name: red food colouring powder
+    raw: 1 tbsp red food colouring powder

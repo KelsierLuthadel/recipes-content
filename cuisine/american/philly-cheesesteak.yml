@@ -1,0 +1,54 @@
+prep: 15 minutes (plus 1 hour partial freezing)
+cook: 12 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - mushroom
+  - onion
+  - butter
+  - nuts
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 500
+    unit: g
+    name: ribeye steak
+    raw: 500 g ribeye steak
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 100
+    unit: g
+    name: chestnut mushrooms
+    raw: 100 g chestnut mushrooms
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    unit: tbsp
+    name: unsalted butter
+    raw: 2 tablespoons unsalted butter
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 7
+    name: provolone
+    raw: 6-8 slices provolone
+  - qty: 2
+    name: long hoagie rolls
+    raw: 2 long hoagie rolls

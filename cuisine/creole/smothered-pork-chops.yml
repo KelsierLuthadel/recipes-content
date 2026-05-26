@@ -1,0 +1,86 @@
+prep: 15 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: pork chops
+    raw: 4 bone-in pork chops
+  - qty: 4
+    unit: tbsp
+    name: plain flour
+    raw: 4 tablespoons plain flour
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 0.5
+    unit: tsp
+    name: cayenne pepper
+    raw: ½ teaspoon cayenne pepper
+  - qty: 0.5
+    unit: tsp
+    name: thyme
+    raw: ½ teaspoon dried thyme
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: plain flour
+    raw: 3 tablespoons plain flour
+  - qty: 700
+    unit: ml
+    name: chicken stock
+    raw: 700 ml hot chicken stock
+  - qty: 2
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 2 tablespoons Worcestershire sauce
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: sprig
+    name: thyme
+    raw: 1 sprig fresh thyme
+  - qty: 4
+    name: white rice
+    raw: 4 servings cooked white rice
+  - qty: 3
+    unit: tbsp
+    name: parsley
+    raw: 3 tablespoons fresh parsley

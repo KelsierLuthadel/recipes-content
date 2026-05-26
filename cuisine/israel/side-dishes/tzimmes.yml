@@ -1,0 +1,64 @@
+prep: 15 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - ginger
+  - potato
+  - carrot
+  - butter
+  - honey
+  - rosh-hashanah
+  - sukkot
+  - jewish
+mentions:
+  - cuisine/jamaican/snacks/festival
+ingredients:
+  - qty: 500
+    unit: g
+    name: carrots
+    raw: 500 g carrots
+  - qty: 500
+    unit: g
+    name: sweet potatoes
+    raw: 500 g sweet potatoes
+  - qty: 150
+    unit: g
+    name: pitted prunes
+    raw: 150 g pitted prunes
+  - qty: 50
+    unit: g
+    name: sultanas
+    raw: 50 g sultanas
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 4
+    unit: tbsp
+    name: honey
+    raw: 4 tablespoons honey
+  - qty: 2
+    unit: tbsp
+    name: soft dark brown sugar
+    raw: 2 tablespoons soft dark brown sugar
+  - name: the juice of 2 oranges
+    raw: The juice of 2 oranges
+  - name: the zest of 1 orange
+    raw: The zest of 1 orange
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 0.5
+    unit: tsp
+    name: ginger
+    raw: ½ teaspoon ground ginger
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - name: black pepper
+    raw: A generous grind of black pepper

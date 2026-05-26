@@ -1,0 +1,87 @@
+prep: 15 minutes (plus 30 minutes salting)
+cook: 20 minutes
+allergens:
+  - gluten
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - snack
+  - onion
+  - ginger
+  - lime
+  - coriander
+  - chickpea
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    name: aubergine
+    raw: 1 aubergine
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 150
+    unit: g
+    name: chickpea flour
+    raw: 150 g chickpea flour
+  - qty: 30
+    unit: g
+    name: rice flour
+    raw: 30 g rice flour
+  - qty: 1
+    unit: tsp
+    name: nigella seeds
+    raw: 1 tsp nigella seeds
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp ground turmeric
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 tsp Kashmiri chilli powder
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ tsp ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: coriander
+    raw: ½ tsp ground coriander
+  - qty: 0.25
+    unit: tsp
+    name: baking soda
+    raw: ¼ tsp baking soda
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: ginger paste
+    raw: 1 tsp ginger paste
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 190
+    unit: ml
+    name: water
+    raw: 180-200 ml cold water
+  - qty: 500
+    unit: ml
+    name: mustard oil
+    raw: 500 ml mustard oil
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 1
+    name: lime
+    raw: 1 lime

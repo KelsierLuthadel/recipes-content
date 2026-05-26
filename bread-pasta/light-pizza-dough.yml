@@ -1,0 +1,44 @@
+prep: 15 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+mentions:
+  - tutorials/bread/hydration
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 450
+    unit: g
+    name: italian '00' flour
+    raw: 450 grams Italian '00' flour
+  - qty: 330
+    unit: ml
+    name: water
+    raw: 330 ml lukewarm water
+  - qty: 20
+    unit: g
+    name: yeast cake or 7 grams dry yeast
+    raw: 20 grams fresh yeast cake or 7 grams dry yeast
+  - qty: 20
+    unit: g
+    name: sea salt
+    raw: 20 grams fine sea salt
+  - qty: 25
+    unit: g
+    name: caster sugar
+    raw: 25 grams caster sugar
+  - qty: 50
+    unit: ml
+    name: virgin olive oil
+    raw: 50 ml extra virgin olive oil
+  - qty: 120
+    unit: g
+    name: italian '00' flour
+    raw: 120 grams Italian '00' flour
+  - name: flour for dusting
+    raw: Extra flour for dusting
+  - name: olive oil for hands if needed
+    raw: Olive oil for hands if needed

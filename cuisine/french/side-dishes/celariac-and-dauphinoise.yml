@@ -1,0 +1,42 @@
+prep: 15 minutes
+cook: 53 minutes
+allergens:
+  - dairy
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - onion
+  - garlic
+  - potato
+  - butter
+  - cream
+mentions: []
+ingredients:
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 600
+    unit: ml
+    name: double cream
+    raw: 600 ml double cream
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 450
+    unit: g
+    name: potatoes
+    raw: 450 grams potatoes
+  - qty: 1
+    name: celeriac
+    raw: 1 celeriac

@@ -1,0 +1,54 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - garlic
+  - lemon
+  - coriander
+  - chili
+mentions: []
+ingredients:
+  - qty: 800
+    unit: g
+    name: floury potatoes
+    raw: 800 g floury potatoes
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 100
+    unit: ml
+    name: olive oil
+    raw: 100 ml olive oil
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1.5
+    unit: tsp
+    name: chilli flakes
+    raw: 1 ½ teaspoons dried chilli flakes
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 1
+    unit: tbsp
+    name: sumac
+    raw: 1 tablespoon sumac

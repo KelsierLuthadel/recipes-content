@@ -1,0 +1,84 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - meals
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - cheese
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: red chilli
+    raw: 1 red chilli
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 teaspoon caraway seeds
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 800
+    unit: g
+    name: tomatoes
+    raw: 800 g tinned chopped tomatoes
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - qty: 100
+    unit: g
+    name: feta cheese
+    raw: 100 g feta cheese
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: A small handful of flat-leaf parsley
+  - name: crusty bread
+    raw: Crusty bread, to serve

@@ -1,32 +1,3 @@
----
-prep: 20 minutes (plus 1 hour marinade)
-cook: 8 minutes
-allergens:
-  - dairy
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - beef
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - butter
-  - soy-sauce
-  - complex
-mentions:
-  - cuisine/korean/side-dishes/kimchi
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Bulgogi
 
 ![Bulgogi](resources/bulgogi.jpg)

@@ -1,31 +1,3 @@
----
-prep: 20 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - eggs
-  - tree-nuts
-  - soy
-  - shellfish
-tags:
-  - dairy-free
-  - meals
-  - fish
-  - prawn
-  - eggs
-  - mushroom
-  - ginger
-  - potato
-  - nuts
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Vegetable and Prawn Tempura
 
 ![Vegetable and Prawn Tempura](resources/tempura.jpg)

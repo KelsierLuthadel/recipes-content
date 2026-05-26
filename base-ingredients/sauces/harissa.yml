@@ -1,0 +1,42 @@
+prep: 10 minutes
+cook: 8 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - garlic
+  - coriander
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 12
+    name: red chillies
+    raw: 12 dried red chillies
+  - qty: 1
+    unit: tbsp
+    name: coriander seeds
+    raw: 1 tablespoon coriander seeds
+  - qty: 2
+    unit: tsp
+    name: cumin seeds
+    raw: 2 teaspoons cumin seeds
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 4
+    unit: tbsp
+    name: virgin olive oil
+    raw: 4 tablespoons extra virgin olive oil
+  - name: water
+    raw: Warm water

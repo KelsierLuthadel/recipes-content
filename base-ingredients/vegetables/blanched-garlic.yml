@@ -1,0 +1,22 @@
+prep: 15 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - garlic
+mentions: []
+ingredients:
+  - qty: 1
+    name: bulb fresh garlic
+    raw: 1 bulb fresh garlic
+  - name: water
+    raw: Water
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - name: milk for subsequent blanches
+    raw: fresh milk for subsequent blanches

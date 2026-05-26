@@ -1,0 +1,75 @@
+prep: 20 minutes
+cook: 1 ¾ hours
+allergens:
+  - tree-nuts
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - chicken
+  - duck
+  - rice
+  - onion
+  - lemon
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 6
+    name: chicken thighs or 1 duck
+    raw: 6 chicken thighs or 1 duck
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: generous pinch
+    name: saffron
+    raw: A generous pinch of saffron
+  - qty: 400
+    unit: g
+    name: shelled walnuts
+    raw: 400 g shelled walnuts
+  - qty: 1
+    unit: l
+    name: chicken
+    raw: 1 litre chicken
+  - qty: 4
+    unit: tbsp
+    name: pomegranate molasses
+    raw: 4 tablespoons pomegranate molasses
+  - qty: 2
+    unit: tbsp
+    name: brown sugar
+    raw: 2 tablespoons brown sugar
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - name: hot chelo
+    raw: Hot chelo
+  - name: pomegranate seeds
+    raw: Pomegranate seeds
+  - name: mint leaves
+    raw: A few mint leaves

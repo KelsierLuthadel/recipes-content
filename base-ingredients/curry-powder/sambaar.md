@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 4 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - lentils
-  - coriander
-  - chili
-  - curry
-mentions: []
----
-
-
-
-
 # Sambar Powder
 
 ![Sambar](resources/sambaar.jpg)

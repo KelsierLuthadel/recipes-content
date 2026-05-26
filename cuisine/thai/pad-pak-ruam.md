@@ -1,34 +1,3 @@
----
-prep: 15 minutes
-cook: 8 minutes
-allergens:
-  - soy
-  - sesame
-  - shellfish
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - rice
-  - mushroom
-  - garlic
-  - carrot
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pad Pak Ruam
 
 ![Pad Pak Ruam](resources/pad-pak-ruam.jpg)

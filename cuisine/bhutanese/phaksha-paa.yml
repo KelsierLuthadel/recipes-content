@@ -1,0 +1,71 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
+mentions:
+  - cuisine/bhutanese/ema-datshi
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: pork belly
+    raw: 600 g pork belly
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 15
+    name: red chillies
+    raw: 15 whole dried red chillies
+  - qty: 1
+    name: daikon
+    raw: 1 daikon
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    name: ginger
+    raw: 4 cm fresh ginger
+  - qty: 2
+    unit: tsp
+    name: sichuan pepper
+    raw: 2 teaspoons Sichuan pepper
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tablespoon dark soy sauce
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - name: bhutanese red rice
+    raw: Bhutanese red rice
+  - name: bowl of ezay on the side
+    raw: A small bowl of ezay on the side, optional

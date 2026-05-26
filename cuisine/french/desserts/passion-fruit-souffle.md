@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-cook: 9 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - eggs
-  - butter
-mentions: []
----
-
-
-
-
 # Passion Fruit and Kiwi Soufflé
 
 ![Passion fruit and kiwi soufflé](resources/passion-fruit-souffle.jpg)

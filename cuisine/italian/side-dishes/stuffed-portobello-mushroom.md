@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - quick
-  - make-ahead
-  - sides
-  - mushroom
-  - garlic
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Stuffed Portobello Mushrooms
 
 ![Stuffed portobello mushrooms](resources/stuffed-portobello-mushroom.jpg)

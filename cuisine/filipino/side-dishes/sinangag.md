@@ -1,28 +1,3 @@
----
-prep: 5 minutes
-cook: 10 minutes
-allergens:
-  - peanuts
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - make-ahead
-  - sides
-  - rice
-  - onion
-  - garlic
-  - nuts
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sinangag (Garlic Fried Rice)
 
 ![Sinangag](resources/sinangag.jpg)

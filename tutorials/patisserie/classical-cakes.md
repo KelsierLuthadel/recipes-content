@@ -1,21 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - sponge/sponge-base
-  - sponge/sponge-fingers
-  - tutorials/patisserie/composing-a-dessert
-  - tutorials/patisserie/petit-fours
-  - tutorials/patisserie/set-creams-and-mousses
-  - tutorials/patisserie/tarts
----
-
-
-
 # Classical Cakes
 
 ![Classical cakes](resources/classical.jpg)

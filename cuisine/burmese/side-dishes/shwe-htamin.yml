@@ -1,0 +1,47 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - tree-nuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - rice
+  - onion
+  - nuts
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: long-grain rice
+    raw: 400 g long-grain rice
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1.5
+    unit: tsp
+    name: turmeric
+    raw: 1 ½ teaspoons ground turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml hot water
+  - qty: 2
+    unit: tbsp
+    name: cashew halves
+    raw: 2 tablespoons cashew halves
+  - qty: 2
+    unit: tbsp
+    name: crispy fried shallots
+    raw: 2 tablespoons crispy fried shallots

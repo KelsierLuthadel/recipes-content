@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - eggs
-  - mustard
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - sides
-  - eggs
-  - onion
-  - potato
-mentions: []
----
-
-
-
-
 # Papas Mayo
 
 ![Papas Mayo](resources/papas-mayo.jpg)

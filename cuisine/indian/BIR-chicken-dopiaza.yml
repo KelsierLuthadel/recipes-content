@@ -1,0 +1,95 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - yogurt
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: rapeseed oil or seasoned oil
+    raw: 4 tbsp rapeseed oil or seasoned oil
+  - qty: 6
+    name: green cardamom pods
+    raw: 6 green cardamom pods, bashed
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 tsp coriander seeds, roughly chopped
+  - qty: 1
+    name: onion
+    raw: 1 onion , quartered and divided into petals
+  - qty: 3
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 3 tbsp garlic and ginger paste
+  - qty: 2
+    unit: tbsp
+    name: mixed powder
+    raw: 2 tbsp Mixed Powder
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: chilli powder
+    raw: 1-2 tsp chilli powder
+  - qty: 125
+    unit: ml
+    name: tomato puree
+    raw: 125 ml tomato purée
+  - qty: 500
+    unit: ml
+    name: curry base gravy
+    raw: 500 ml Curry Base Gravy
+  - qty: 600
+    unit: g
+    name: pre-cooked chicken
+    raw: 600 g Pre-Cooked Chicken
+  - qty: 125
+    unit: ml
+    name: chicken stock
+    raw: 125 ml Chicken stock
+  - qty: 7
+    unit: tbsp
+    name: onion paste made with yoghurt
+    raw: 7 tbsp onion paste made with yoghurt
+  - qty: 1
+    unit: tsp
+    name: fenugreek leaves
+    raw: 1 tsp dried fenugreek leaves
+  - name: salt
+    raw: Salt, to taste
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp Garam Masala
+  - qty: 1
+    name: coriander
+    raw: Small bunch coriander , chopped
+  - qty: 2
+    unit: handful
+    name: fried onions
+    raw: 2 handfuls fried onions

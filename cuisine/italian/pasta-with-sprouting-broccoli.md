@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 3 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - garlic
-tags:
-  - vegetarian
-  - spicy
-  - quick
-  - meals
-  - garlic
-  - cheese
-  - nuts
-  - chili
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pasta Shells with Sprouting Broccoli, Chilli, and Pine Nuts
 
 ![Pasta with Broccoli](resources/pasta-broc.jpg)

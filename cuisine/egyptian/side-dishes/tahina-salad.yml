@@ -1,0 +1,53 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens:
+  - gluten
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - sides
+  - garlic
+  - lemon
+mentions:
+  - cuisine/middle-east/side-dishes/tahina-dip
+ingredients:
+  - qty: 200
+    unit: g
+    name: tahini
+    raw: 200 g good-quality tahini
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1.5
+    name: lemons
+    raw: 1 ½ lemons
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 125
+    unit: ml
+    name: water
+    raw: 100-150 ml cold water
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 0.5
+    unit: tsp
+    name: sumac
+    raw: ½ teaspoon sumac
+  - qty: 1
+    unit: tbsp
+    name: parsley
+    raw: 1 tablespoon fresh parsley
+  - name: egyptian flatbread
+    raw: Egyptian flatbread

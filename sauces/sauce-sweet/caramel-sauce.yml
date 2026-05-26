@@ -1,0 +1,28 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - eggs
+  - cream
+mentions: []
+ingredients:
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 80 ml water
+  - qty: 100
+    unit: g
+    name: sugar
+    raw: 100 grams sugar
+  - qty: 500
+    unit: ml
+    name: double cream
+    raw: 500 ml double cream
+  - qty: 2
+    name: egg yolks
+    raw: 2 egg yolks

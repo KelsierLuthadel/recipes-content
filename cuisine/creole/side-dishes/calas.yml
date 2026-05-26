@@ -1,0 +1,60 @@
+prep: 10 minutes (plus 30 minutes resting)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - sides
+  - eggs
+  - rice
+mentions: []
+ingredients:
+  - qty: 300
+    unit: g
+    name: long-grain rice
+    raw: 300 g cooked long-grain rice
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 80
+    unit: ml
+    name: milk
+    raw: 80 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 g plain flour
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil for deep frying
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar

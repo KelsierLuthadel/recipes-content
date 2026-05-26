@@ -1,0 +1,43 @@
+prep: 20 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - sides
+  - onion
+  - garlic
+  - tomato
+mentions: []
+ingredients:
+  - qty: 3
+    name: red peppers
+    raw: 3 red peppers
+  - qty: 3
+    name: yellow peppers
+    raw: 3 yellow peppers
+  - qty: 2
+    name: red onions
+    raw: 2 red onions
+  - qty: 4
+    name: artichoke hearts in oil
+    raw: 4 baby artichoke hearts in oil
+  - qty: 2
+    name: plum
+    raw: 2 plum
+  - qty: 14
+    name: asparagus stalks
+    raw: 12-16 asparagus stalks
+  - qty: 8
+    unit: tbsp
+    name: garlic vinaigrette
+    raw: 8 tablespoons garlic vinaigrette
+  - qty: 15
+    name: chunk french bread
+    raw: 15 cm chunk French bread
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove

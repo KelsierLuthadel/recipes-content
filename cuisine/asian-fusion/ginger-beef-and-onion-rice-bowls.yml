@@ -1,0 +1,65 @@
+prep: 10 minutes (plus 4 hours marinating)
+cook: 30 minutes
+allergens:
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 900
+    unit: g
+    name: sirloin steak
+    raw: 900 g sirloin steak, sliced into thin strips
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, finely minced
+  - qty: 30
+    unit: g
+    name: ginger
+    raw: 30 g fresh ginger, finely sliced
+  - qty: 120
+    unit: ml
+    name: soy sauce
+    raw: 120 ml soy sauce
+  - qty: 60
+    unit: ml
+    name: rice vinegar
+    raw: 60 ml rice vinegar
+  - qty: 1
+    name: white onion
+    raw: 1 white onion , thinly sliced
+  - qty: 12
+    unit: g
+    name: brown sugar
+    raw: 12 g brown sugar
+  - qty: 15
+    unit: ml
+    name: virgin olive oil
+    raw: 15 ml extra virgin olive oil
+  - qty: 400
+    unit: g
+    name: uncooked long grain white rice
+    raw: 400 g uncooked long grain white rice
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: spring onions
+    raw: Spring onions, sliced
+  - name: sesame seeds
+    raw: Sesame seeds

@@ -1,0 +1,59 @@
+prep: 15 minutes
+cook: 0 minutes (assumes pre-roasted peppers; 20 minutes from raw)
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - sides
+  - garlic
+  - cheese
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 200
+    unit: g
+    name: feta cheese
+    raw: 200 g feta cheese
+  - qty: 100
+    unit: g
+    name: cream cheese
+    raw: 100 g cream cheese
+  - qty: 1
+    name: roasted red pepper
+    raw: 1 roasted red pepper
+  - qty: 1.5
+    name: red chillies
+    raw: 1-2 fresh red chillies
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 3
+    unit: tbsp
+    name: virgin olive oil
+    raw: 3 tablespoons extra virgin olive oil
+  - qty: 1
+    unit: tbsp
+    name: red-wine vinegar
+    raw: 1 tablespoon red-wine vinegar
+  - qty: 1
+    unit: tsp
+    name: greek oregano
+    raw: 1 teaspoon dried Greek oregano
+  - qty: 0.5
+    unit: tsp
+    name: smoked paprika
+    raw: ½ teaspoon smoked paprika
+  - name: warm pita bread
+    raw: Warm pita bread
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon extra olive oil
+  - qty: 1
+    unit: pinch
+    name: paprika
+    raw: A pinch of paprika

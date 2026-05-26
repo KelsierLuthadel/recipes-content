@@ -1,0 +1,33 @@
+prep: 15 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - baking
+  - eggs
+  - butter
+mentions: []
+ingredients:
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 700
+    unit: g
+    name: sugar
+    raw: 700 grams sugar
+  - qty: 50
+    unit: g
+    name: glucose
+    raw: 50 grams glucose
+  - qty: 9
+    name: egg whites
+    raw: 9 egg whites
+  - qty: 1
+    unit: kg
+    name: butter
+    raw: 1 kilogram butter

@@ -1,0 +1,62 @@
+prep: 5 minutes (plus 4 hours soaking, optional)
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - asian
+  - onion
+  - ginger
+  - coconut
+  - complex
+mentions:
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 300
+    unit: g
+    name: green mung beans
+    raw: 300 g whole green mung beans
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1 ½ litres water
+  - qty: 3
+    name: pandan leaves
+    raw: 3 pandan leaves
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 200
+    unit: g
+    name: palm sugar
+    raw: 200 g palm sugar , chopped
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 300
+    unit: ml
+    name: coconut milk
+    raw: 300 ml thick coconut milk
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: 1 pinch salt
+  - name: fried shallots
+    raw: Fried shallots
+  - name: spoon of toasted black sesame
+    raw: A spoon of toasted black sesame
+  - name: chunks of toasted sweet bread
+    raw: A few chunks of toasted sweet bread

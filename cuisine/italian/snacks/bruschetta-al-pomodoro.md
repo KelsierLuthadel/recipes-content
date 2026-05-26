@@ -1,28 +1,3 @@
----
-prep: 15 minutes (plus 30 min tomato rest)
-cook: 5 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - snack
-  - make-ahead
-  - meat
-  - beef
-  - garlic
-  - tomato
-  - cheese
-  - chili
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Bruschetta al Pomodoro
 
 ![Bruschetta al Pomodoro](resources/bruschetta-al-pomodoro.jpg)

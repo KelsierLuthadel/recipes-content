@@ -1,0 +1,89 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - soy
+  - sesame
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - prawn
+  - tofu
+  - rice
+  - mushroom
+  - onion
+  - garlic
+  - potato
+  - chili
+  - complex
+mentions:
+  - cuisine/korean/kimchi-jjigae
+ingredients:
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 12
+    name: anchovies
+    raw: 12 dried anchovies
+  - qty: 1
+    name: kelp
+    raw: 1 piece dried kelp
+  - qty: 4
+    name: shiitake mushrooms
+    raw: 4 dried shiitake mushrooms
+  - qty: 3
+    unit: tbsp
+    name: doenjang
+    raw: 3 tablespoons doenjang
+  - qty: 1
+    unit: tsp
+    name: gochujang
+    raw: 1 teaspoon gochujang
+  - qty: 1
+    name: potato
+    raw: 1 potato
+  - qty: 1
+    name: courgette
+    raw: 1 courgette
+  - qty: 100
+    unit: g
+    name: shiitake
+    raw: 100 g fresh shiitake
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 1
+    name: red chilli
+    raw: 1 red chilli
+  - qty: 350
+    unit: g
+    name: silken
+    raw: 350 g silken
+  - qty: 200
+    unit: g
+    name: clams
+    raw: 200 g fresh clams
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    unit: tsp
+    name: toasted sesame oil
+    raw: 1 teaspoon toasted sesame oil
+  - name: steamed short-grain rice
+    raw: Steamed short-grain rice
+  - name: banchan
+    raw: Banchan

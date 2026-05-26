@@ -1,25 +1,3 @@
----
-prep: 25 minutes (plus 20 minutes soaking)
-cook: 0 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - sides
-  - onion
-  - tomato
-  - lemon
-mentions:
-  - cuisine/lebanese/kibbeh
-  - cuisine/lebanese/side-dishes/tabbouleh
-  - cuisine/middle-east/kibbeh
----
-
-
-
-
 # Tabbouleh Iraqi
 
 ![Tabbouleh Iraqi](resources/tabbouleh-iraqi.jpg)

@@ -1,26 +1,3 @@
----
-prep: 20 minutes
-cook: 2 ½ hours
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - meals
-  - meat
-  - onion
-  - garlic
-  - tomato
-  - potato
-  - complex
-mentions: []
----
-
-
-
-
 # Hungarian Goulash
 
 ![Hungarian Goulash](resources/goulash.jpg)

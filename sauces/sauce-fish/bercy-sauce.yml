@@ -1,0 +1,45 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - fish
+tags:
+  - gluten-free
+  - fish
+  - onion
+  - lemon
+mentions:
+  - sauces/sauce-fish/veloute-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 grams butter
+  - qty: 60
+    unit: g
+    name: shallots
+    raw: 60 grams shallots
+  - qty: 200
+    unit: ml
+    name: dry white wine
+    raw: 200 ml dry white wine
+  - qty: 150
+    unit: ml
+    name: fish stock
+    raw: 150 ml Fish stock
+  - qty: 400
+    unit: ml
+    name: veloute sauce
+    raw: 400 ml Velouté sauce
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons parsley
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

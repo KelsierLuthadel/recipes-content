@@ -1,20 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - eggs
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Pains au Raisins
 
 ![Pains au raisins](resources/pains-aux-raisin.jpg)

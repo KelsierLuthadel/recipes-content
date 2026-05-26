@@ -1,29 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes (in batches)
-allergens:
-  - gluten
-  - eggs
-  - soy
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - dairy-free
-  - quick
-  - snack
-  - eggs
-  - onion
-  - garlic
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Kimchijeon (Kimchi Pancake)
 
 ![Kimchijeon](resources/kimchijeon.jpg)

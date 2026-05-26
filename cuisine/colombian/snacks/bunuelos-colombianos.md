@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - snack
-  - eggs
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Buñuelos Colombianos
 
 ![Buñuelos Colombianos](resources/bunuelos-colombianos.jpg)

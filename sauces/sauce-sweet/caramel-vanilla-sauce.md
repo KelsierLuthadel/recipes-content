@@ -1,21 +1,3 @@
----
-prep: 5 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - butter
-  - cream
-mentions:
-  - cuisine/french/desserts/crepes
----
-
-
-
-
 # Caramel with Vanilla Sauce
 
 ![Caramel with vanilla sauce](resources/caramel-vanilla.png)

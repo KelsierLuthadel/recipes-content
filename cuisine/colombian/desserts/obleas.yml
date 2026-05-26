@@ -1,0 +1,53 @@
+prep: 15 minutes (assembly only - wafers are bought, arequipe is pre-made)
+cook: 0 minutes
+allergens:
+  - dairy
+  - peanuts
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - make-ahead
+  - coconut
+  - lemon
+  - cheese
+  - nuts
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 12
+    name: obleas wafers
+    raw: 12 obleas wafers
+  - qty: 300
+    unit: g
+    name: arequipe
+    raw: 300 g arequipe
+  - qty: 80
+    unit: g
+    name: mozzarella
+    raw: 80 g grated mozzarella
+  - qty: 4
+    unit: tbsp
+    name: strawberry jam
+    raw: 4 tablespoons strawberry jam
+  - qty: 4
+    unit: tbsp
+    name: shredded sweetened coconut
+    raw: 4 tablespoons shredded sweetened coconut
+  - qty: 4
+    unit: tbsp
+    name: roasted peanuts
+    raw: 4 tablespoons chopped roasted peanuts
+  - qty: 4
+    unit: tbsp
+    name: sweetened condensed milk
+    raw: 4 tablespoons sweetened condensed milk
+  - qty: 2
+    unit: tbsp
+    name: rainbow sprinkles
+    raw: 2 tablespoons rainbow sprinkles
+  - qty: 80
+    unit: g
+    name: lemon curd
+    raw: 80 g lemon curd

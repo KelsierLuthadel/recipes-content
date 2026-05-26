@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - fish
-  - shellfish
-  - meat
-  - celery
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - fish
-  - pork
-  - prawn
-  - onion
-  - garlic
-  - tomato
-  - potato
-  - butter
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Manhattan Seafood Chowder
 
 ![Manhattan seafood chowder](resources/manhattan-chowder.png)

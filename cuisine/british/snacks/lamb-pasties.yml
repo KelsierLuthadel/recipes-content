@@ -1,0 +1,93 @@
+prep: 15 minutes
+cook: 3 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - quick
+  - snack
+  - make-ahead
+  - meat
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 750
+    unit: g
+    name: shortcrust pastry
+    raw: 750 grams Shortcrust pastry
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 450
+    unit: g
+    name: lamb
+    raw: 450 grams lean lamb
+  - qty: 25
+    unit: g
+    name: beef dripping
+    raw: 25 grams beef dripping
+  - qty: 25
+    unit: g
+    name: plain flour
+    raw: 25 grams plain flour
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 0.5
+    unit: tsp
+    name: thyme
+    raw: ½ teaspoon thyme
+  - name: half teaspoon sage
+    raw: half teaspoon sage
+  - qty: 100
+    unit: g
+    name: onions
+    raw: 100 grams onions
+  - qty: 100
+    unit: g
+    name: carrots
+    raw: 100 grams carrots
+  - qty: 100
+    unit: g
+    name: celery
+    raw: 100 grams celery
+  - qty: 100
+    unit: g
+    name: swede
+    raw: 100 grams swede
+  - qty: 100
+    unit: g
+    name: parsnip
+    raw: 100 grams parsnip
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 25
+    unit: g
+    name: plain flour
+    raw: 25 grams plain flour
+  - qty: 900
+    unit: ml
+    name: chicken stock
+    raw: 900 ml chicken stock
+  - qty: 150
+    unit: ml
+    name: veal jus
+    raw: 150 ml veal jus
+  - qty: 2
+    name: potatoes
+    raw: 2 potatoes
+  - name: worcestershire sauce
+    raw: Worcestershire sauce

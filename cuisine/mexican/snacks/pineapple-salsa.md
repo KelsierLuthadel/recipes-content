@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - snack
-  - lime
-  - coriander
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pineapple Salsa with Coriander
 
 ![Pineapple Salsa with Coriander](resources/pineapple-salsa.png)

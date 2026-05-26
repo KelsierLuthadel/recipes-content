@@ -1,0 +1,20 @@
+prep: 15 minutes
+cook: 4 minutes
+allergens:
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - asian
+  - ginger
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 450
+    unit: g
+    name: broccoli
+    raw: 450 grams fresh broccoli

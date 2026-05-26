@@ -1,32 +1,3 @@
----
-prep: 30 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - sesame
-  - meat
-  - garlic
-tags:
-  - snack
-  - meat
-  - chicken
-  - beef
-  - onion
-  - garlic
-  - lemon
-  - lime
-  - yogurt
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Samboosa
 
 ![Samboosa](resources/samboosa.jpg)

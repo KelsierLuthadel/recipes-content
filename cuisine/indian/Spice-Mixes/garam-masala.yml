@@ -1,0 +1,46 @@
+prep: 8 minutes
+cook: 2 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - asian
+  - spices
+  - coriander
+mentions: []
+ingredients:
+  - qty: 6
+    unit: tbsp
+    name: coriander seeds
+    raw: 6 tbsp coriander seeds
+  - qty: 6
+    unit: tbsp
+    name: cumin seeds
+    raw: 6 tbsp cumin seeds
+  - qty: 5
+    unit: tsp
+    name: black peppercorns
+    raw: 5 tsp black peppercorns
+  - qty: 4
+    unit: tbsp
+    name: fennel seeds
+    raw: 4 tbsp fennel seeds
+  - qty: 3
+    unit: tsp
+    name: cloves
+    raw: 3 tsp cloves
+  - qty: 7.5
+    name: cinnamon stick or cassia bark
+    raw: 7 ½cm piece of cinnamon stick or cassia bark
+  - qty: 5
+    name: indian bay leaves
+    raw: 5 dried Indian bay leaves
+  - qty: 20
+    name: green cardamom pods
+    raw: 20 green cardamom pods, lightly bruised
+  - qty: 2
+    name: mace
+    raw: 2 large pieces of mace

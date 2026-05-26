@@ -1,0 +1,46 @@
+prep: 15 minutes (plus 30 minutes drain)
+cook: 0 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - garlic
+  - lemon
+  - yogurt
+mentions: []
+ingredients:
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 400
+    unit: g
+    name: greek yogurt
+    raw: 400 g full-fat Greek yogurt
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: virgin olive oil
+    raw: 1 tablespoon extra virgin olive oil
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 2
+    unit: tbsp
+    name: dill or fresh mint
+    raw: 2 tablespoons fresh dill or fresh mint
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - name: black pepper
+    raw: A grind of black pepper

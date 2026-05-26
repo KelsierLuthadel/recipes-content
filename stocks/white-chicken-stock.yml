@@ -1,0 +1,40 @@
+prep: 20 minutes
+cook: 1 ½ hours
+allergens:
+  - meat
+  - celery
+tags:
+  - dairy-free
+  - gluten-free
+  - meat
+  - complex
+mentions: []
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: chicken wings
+    raw: 1 ½ kilograms chicken wings
+  - qty: 200
+    unit: g
+    name: carrots
+    raw: 200 grams carrots
+  - qty: 2
+    name: leeks
+    raw: 2 leeks
+  - qty: 1
+    name: celery
+    raw: 1 stalk celery
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 150
+    unit: g
+    name: button mushrooms
+    raw: 150 grams button mushrooms
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2 ½ litres cold water

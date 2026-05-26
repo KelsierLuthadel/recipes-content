@@ -1,29 +1,3 @@
----
-prep: 25 minutes (plus 30 min chilling)
-cook: 25 minutes
-allergens:
-  - eggs
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - meat
-  - beef
-  - lamb
-  - eggs
-  - onion
-  - garlic
-  - tomato
-  - potato
-  - complex
-mentions: []
----
-
-
-
-
 # Kotlet
 
 ![Kotlet](resources/kotlet.jpg)

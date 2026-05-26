@@ -1,0 +1,53 @@
+prep: 15 minutes
+cook: 2 minutes
+allergens:
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - duck
+  - onion
+  - lemon
+  - honey
+  - soy-sauce
+mentions:
+  - bread-pasta/chinese-pancakes
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: duck
+    raw: 1 whole duck
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 3
+    unit: tbsp
+    name: honey
+    raw: 3 tablespoons honey
+  - qty: 3
+    unit: tbsp
+    name: dark soy sauce
+    raw: 3 tablespoons dark soy sauce
+  - qty: 150
+    unit: ml
+    name: dry sherry
+    raw: 150 ml dry sherry
+  - qty: 12
+    name: chinese pancakes
+    raw: 12 Chinese pancakes
+  - qty: 6
+    unit: tbsp
+    name: hoisin sauce
+    raw: 6 tablespoons hoisin sauce
+  - qty: 24
+    name: spring onion brushes
+    raw: 24 spring onion brushes

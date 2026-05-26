@@ -1,0 +1,33 @@
+prep: 15 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - baking
+  - eggs
+mentions:
+  - tutorials/patisserie/tarts
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml milk
+  - qty: 250
+    unit: ml
+    name: cream
+    raw: 250 ml cream
+  - qty: 125
+    unit: g
+    name: caster sugar
+    raw: 125 grams caster sugar
+  - qty: 1
+    name: pod vanilla
+    raw: 1 pod vanilla
+  - qty: 6
+    name: egg yolks
+    raw: 6 egg yolks

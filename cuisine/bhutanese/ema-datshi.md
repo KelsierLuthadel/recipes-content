@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 35 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - onion
-  - garlic
-  - tomato
-  - potato
-  - butter
-  - cheese
-  - chili
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Ema Datshi
 
 ![Ema Datshi](resources/ema-datshi.jpg)

@@ -1,39 +1,3 @@
----
-prep: 20 minutes (plus 30 minutes marinade)
-cook: 45 minutes
-allergens:
-  - dairy
-  - tree-nuts
-  - sesame
-  - meat
-  - mustard
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - asian
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coconut
-  - lime
-  - coriander
-  - yogurt
-  - nuts
-  - chili
-  - curry
-  - complex
-mentions:
-  - cuisine/indian/BIR-chicken-curry
----
-
-
-
-
 # Andhra Chicken Curry
 
 ![Andhra Chicken Curry](resources/andhra-chicken-curry.jpg)

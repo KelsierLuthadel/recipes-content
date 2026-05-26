@@ -1,0 +1,114 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - paneer
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - spinach
+  - coriander
+  - butter
+  - cream
+  - chili
+  - complex
+  - diwali
+  - hindu
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 500
+    unit: g
+    name: spinach
+    raw: 500 g fresh spinach
+  - qty: 1.5
+    name: green chillies
+    raw: 1-2 green chillies
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: A small handful of fresh coriander
+  - qty: 300
+    unit: g
+    name: paneer cheese
+    raw: 300 g paneer cheese
+  - qty: 2
+    unit: tbsp
+    name: oil
+    raw: 2 tablespoons oil
+  - qty: 0.25
+    unit: tsp
+    name: turmeric
+    raw: ¼ teaspoon turmeric
+  - qty: 2
+    unit: tbsp
+    name: ghee
+    raw: 2 tablespoons ghee
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 30
+    unit: g
+    name: ginger
+    raw: 30 g fresh ginger
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 teaspoon Kashmiri chilli powder
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 teaspoon Garam Masala
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 80
+    unit: ml
+    name: double cream
+    raw: 80 ml double cream
+  - qty: 1
+    unit: tsp
+    name: kasuri methi
+    raw: 1 teaspoon kasuri methi
+  - qty: 0.5
+    unit: tsp
+    name: garam masala
+    raw: ½ teaspoon Garam Masala
+  - qty: 1
+    unit: knob
+    name: butter
+    raw: A knob of butter
+  - qty: 1
+    unit: drizzle
+    name: cream
+    raw: A drizzle of cream
+  - name: naan
+    raw: Naan, roti

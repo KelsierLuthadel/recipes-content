@@ -1,29 +1,3 @@
----
-prep: 15 minutes (plus 2 hours proving)
-cook: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - sesame
-tags:
-  - vegetarian
-  - asian
-  - onion
-  - yogurt
-  - complex
-  - diwali
-  - ramadan
-  - muslim
-  - hindu
-mentions:
-  - base-ingredients/spices/aromatic-salt
-  - tutorials/bread/proving
-  - tutorials/pizza/dough
----
-
-
-
-
 # Naan
 
 ![Naan](resources/naan.jpg)

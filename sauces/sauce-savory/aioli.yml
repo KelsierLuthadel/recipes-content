@@ -1,0 +1,52 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens:
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - eggs
+  - garlic
+  - lemon
+  - chili
+mentions:
+  - cuisine/french/bouillabaisse
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: egg yolks
+    raw: 2 egg yolks
+  - qty: 21
+    name: egg yolk
+    raw: 21 egg yolk
+  - qty: 24
+    unit: clove
+    name: garlic
+    raw: 24 cloves garlic
+  - qty: 21
+    unit: pinch
+    name: salt
+    raw: 21 pinch salt
+  - qty: 21
+    unit: pinch
+    name: cayenne pepper
+    raw: 21 pinch cayenne pepper
+  - qty: 21
+    unit: pinch
+    name: saffron threads
+    raw: 21 pinch saffron threads
+  - qty: 2200
+    unit: ml
+    name: olive oil
+    raw: 2200 ml olive oil
+  - qty: 21
+    unit: tsp
+    name: lemon juice
+    raw: 21 teaspoon lemon juice
+  - qty: 2
+    name: half teaspoon cold water
+    raw: 2 half teaspoon cold water

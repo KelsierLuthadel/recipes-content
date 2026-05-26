@@ -1,0 +1,101 @@
+prep: 25 minutes (plus 30 minutes chilling)
+cook: 12 minutes (in batches)
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - mustard
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - meat
+  - pork
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: pork shoulder
+    raw: 400 g pork shoulder
+  - qty: 100
+    unit: g
+    name: pork liver
+    raw: 100 g pork liver
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: celery stalks
+    raw: 2 celery stalks
+  - qty: 0.5
+    name: green pepper
+    raw: ½ green pepper
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 200
+    unit: g
+    name: long-grain rice
+    raw: 200 g cooked long-grain rice
+  - qty: 30
+    unit: g
+    name: flat-leaf parsley
+    raw: 30 g flat-leaf parsley
+  - qty: 3
+    name: spring onions
+    raw: 3 spring onions
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: cayenne pepper
+    raw: 1 teaspoon cayenne pepper
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 0.5
+    unit: tsp
+    name: thyme
+    raw: ½ teaspoon dried thyme
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 200
+    unit: g
+    name: panko breadcrumbs
+    raw: 200 g panko breadcrumbs
+  - qty: 1
+    unit: tsp
+    name: cajun seasoning
+    raw: 1 teaspoon Cajun seasoning
+  - qty: 800
+    unit: ml
+    name: neutral oil
+    raw: 800 ml neutral oil
+  - name: creole mustard
+    raw: Creole mustard
+  - name: crystal hot sauce
+    raw: Crystal hot sauce

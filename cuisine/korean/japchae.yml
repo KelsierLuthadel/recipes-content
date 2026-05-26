@@ -1,0 +1,78 @@
+prep: 25 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - tree-nuts
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - beef
+  - mushroom
+  - onion
+  - garlic
+  - potato
+  - spinach
+  - carrot
+  - nuts
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: sweet potato glass noodles
+    raw: 200 g sweet potato glass noodles
+  - qty: 5
+    unit: tbsp
+    name: soy sauce
+    raw: 5 tablespoons soy sauce
+  - qty: 3
+    unit: tbsp
+    name: brown sugar
+    raw: 3 tablespoons brown sugar
+  - qty: 3
+    unit: tbsp
+    name: toasted sesame oil
+    raw: 3 tablespoons toasted sesame oil
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: mirin
+    raw: 1 tablespoon mirin
+  - qty: 200
+    unit: g
+    name: rib-eye
+    raw: 200 g rib-eye
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper
+  - qty: 200
+    unit: g
+    name: spinach
+    raw: 200 g spinach
+  - qty: 200
+    unit: g
+    name: shiitake
+    raw: 200 g shiitake
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - name: toasted sesame seeds
+    raw: Toasted sesame seeds, to finish

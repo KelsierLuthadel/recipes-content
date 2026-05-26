@@ -1,31 +1,3 @@
----
-prep: 40 minutes (plus 30 min pastry rest)
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-  - garlic
-tags:
-  - spicy
-  - snack
-  - meat
-  - beef
-  - eggs
-  - onion
-  - garlic
-  - potato
-  - carrot
-  - butter
-  - curry
-  - complex
-mentions: []
----
-
-
-
-
 # Nigerian Meat Pie
 
 ![Nigerian Meat Pie](resources/nigerian-meat-pie.jpg)

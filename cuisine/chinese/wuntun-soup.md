@@ -1,29 +1,3 @@
----
-prep: 20 minutes
-cook: 10 minutes
-allergens:
-  - eggs
-  - soy
-  - sesame
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - meals
-  - asian
-  - meat
-  - pork
-  - eggs
-  - onion
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Wuntun Soup
 
 ![Wuntun soup](resources/wonton.jpg)

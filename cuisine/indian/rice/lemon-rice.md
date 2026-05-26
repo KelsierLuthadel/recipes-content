@@ -1,33 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - peanuts
-  - sesame
-  - mustard
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - lentils
-  - rice
-  - ginger
-  - lemon
-  - coriander
-  - nuts
-  - chili
-  - curry
-mentions: []
----
-
-
-
-
 # Lemon Rice
 
 ![Lemon Rice](resources/lemon-rice.jpg)

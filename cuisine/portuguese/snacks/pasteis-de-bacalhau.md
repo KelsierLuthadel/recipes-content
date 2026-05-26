@@ -1,33 +1,3 @@
----
-prep: 30 minutes (plus 24-36 hours bacalhau desalting)
-cook: 25 minutes
-allergens:
-  - eggs
-  - fish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - snack
-  - make-ahead
-  - pastes
-  - meat
-  - fish
-  - eggs
-  - onion
-  - garlic
-  - potato
-  - lemon
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pasteis de Bacalhau
 
 ![Pasteis de Bacalhau](resources/pasteis-de-bacalhau.jpg)

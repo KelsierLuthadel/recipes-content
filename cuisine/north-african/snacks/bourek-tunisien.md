@@ -1,31 +1,3 @@
----
-prep: 30 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - eggs
-  - fish
-tags:
-  - dairy-free
-  - spicy
-  - snack
-  - make-ahead
-  - fish
-  - eggs
-  - potato
-  - lemon
-  - coriander
-  - complex
-mentions:
-  - baking/pastry/filo-pastry
-  - cuisine/north-african/slata-mechouia
-  - tutorials/pastry/filo
-  - tutorials/pizza/dough
----
-
-
-
-
 # Bourek Tunisien
 
 ![Bourek Tunisien](resources/bourek-tunisien.jpg)
@@ -60,7 +32,7 @@ Potato is boiled, peeled and mashed. Mixed with drained tuna, harissa, capers, p
 - 1 tablespoon plain flour (mixed with 1 tablespoon water for sealing)
 
 ### Egg insert
-- 8 (or medium eggs, small, whole, raw - one per bourek)
+- 8 medium eggs (small or large, whole, raw - one per bourek)
 
 ### Frying
 - 800 ml neutral oil

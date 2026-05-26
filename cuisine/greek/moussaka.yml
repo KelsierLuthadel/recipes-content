@@ -1,0 +1,101 @@
+prep: 45 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - butter
+  - cheese
+  - complex
+mentions:
+  - cuisine/italian/lasagne
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 2
+    name: aubergines
+    raw: 2 aubergines
+  - qty: 3
+    name: potatoes
+    raw: 3 potatoes
+  - name: olive oil
+    raw: Olive oil
+  - name: salt
+    raw: Salt
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 800
+    unit: g
+    name: lamb mince
+    raw: 800 g lamb mince
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tinned chopped tomatoes
+  - qty: 150
+    unit: ml
+    name: red wine
+    raw: 150 ml red wine
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 0.25
+    unit: tsp
+    name: allspice
+    raw: ¼ teaspoon ground allspice
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 75
+    unit: g
+    name: unsalted butter
+    raw: 75 g unsalted butter
+  - qty: 75
+    unit: g
+    name: plain flour
+    raw: 75 g plain flour
+  - qty: 700
+    unit: ml
+    name: milk
+    raw: 700 ml whole milk
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 100
+    unit: g
+    name: kefalotyri
+    raw: 100 g grated kefalotyri
+  - name: nutmeg
+    raw: A grating of nutmeg

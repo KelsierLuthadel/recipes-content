@@ -1,34 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - chicken
-  - garlic
-  - ginger
-  - coconut
-  - coriander
-  - chili
-  - curry
-mentions:
-  - cuisine/indian/sauces-pickles/mango-chutney
-  - sauces/fruit-sauce/mango-chutney
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mango Chicken Curry
 
 ![Mango Chicken Curry](resources/BIR-mango-chicken-curry.jpg)

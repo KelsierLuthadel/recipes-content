@@ -1,0 +1,46 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - soy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - starter
+  - asian
+  - garlic
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: edamame beans in the pod
+    raw: 500g edamame beans in the pod
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, finely chopped
+  - qty: 1.5
+    unit: tsp
+    name: rapeseed oil
+    raw: 1 ½ tsp rapeseed oil
+  - qty: 1
+    unit: tbsp
+    name: sesame oil
+    raw: 1 tbsp sesame oil
+  - qty: 1
+    unit: tbsp
+    name: red chilli flakes
+    raw: 1 tbsp red chilli flakes
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce*
+    raw: 1 tbsp light soy sauce*
+  - name: flaky sea salt
+    raw: Flaky sea salt, to taste

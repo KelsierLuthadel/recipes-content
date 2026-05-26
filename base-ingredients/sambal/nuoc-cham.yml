@@ -1,0 +1,45 @@
+prep: 5 minutes
+allergens:
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - fish
+  - garlic
+  - lime
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2.5
+    name: red chillies
+    raw: 2-3 fresh red chillies
+  - qty: 2.5
+    name: garlic cloves
+    raw: 2-3 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: granulated sugar
+    raw: 1 tablespoon granulated sugar
+  - qty: 3
+    unit: tbsp
+    name: vietnamese
+    raw: 3 tablespoons Vietnamese
+  - qty: 1
+    name: limes
+    raw: 1-1 ½ limes
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: Pinch of fine sea salt
+  - qty: 0.25
+    unit: tsp
+    name: white pepper
+    raw: ¼ teaspoon white pepper
+  - qty: 1.5
+    unit: tbsp
+    name: water
+    raw: 1-2 tablespoons water

@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 7 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - onion
-  - chili
-mentions: []
----
-
-
-
-
 # Spicy Tagliatelle with Peppers, Courgettes, and Thyme
 
 ![Tagliatelle Primavera](resources/primavera.jpg)

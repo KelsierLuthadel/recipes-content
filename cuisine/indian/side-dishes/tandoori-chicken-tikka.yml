@@ -1,0 +1,93 @@
+prep: 5 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - bbq
+  - meat
+  - chicken
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - cheese
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - bread-pasta/naan
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken breasts
+    raw: 1kg skinless, boneless chicken breasts
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - qty: 3
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 3 tablespoons garlic and ginger paste
+  - name: salt
+    raw: Salt
+  - name: red food colouring powder
+    raw: Red food colouring powder
+  - qty: 210
+    unit: g
+    name: greek yoghurt
+    raw: 210g Greek yoghurt
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon ground coriander
+  - qty: 1
+    unit: tbsp
+    name: garam masala
+    raw: 1 tablespoon Garam Masala
+  - qty: 1
+    unit: tbsp
+    name: tandoori masala powder
+    raw: 1 tablespoon tandoori masala powder
+  - qty: 1
+    unit: tsp
+    name: amchoor
+    raw: 1 teaspoon amchoor
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 2
+    name: green chillies
+    raw: 2 fresh green chillies
+  - qty: 3
+    unit: tbsp
+    name: parmesan cheese
+    raw: 3 tablespoons finely grated Parmesan cheese
+  - qty: 20
+    unit: g
+    name: coriander leaves
+    raw: 20g fresh coriander leaves
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: black pepper
+    raw: 1 tablespoon freshly ground black pepper

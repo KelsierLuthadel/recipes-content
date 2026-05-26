@@ -1,29 +1,3 @@
----
-prep: 15 minutes
-cook: 5 minutes
-allergens:
-  - peanuts
-  - sesame
-  - shellfish
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - fish
-  - prawn
-  - onion
-  - ginger
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sichuan Prawns in Chilli Sauce
 
 ![Sichuan Prawns in Chilli Sauce](resources/sichuan-prawn.jpg)

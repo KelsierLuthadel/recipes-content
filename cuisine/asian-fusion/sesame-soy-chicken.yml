@@ -1,0 +1,52 @@
+prep: 10 minutes (plus 2 hours marinating)
+cook: 15 minutes
+allergens:
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 900
+    unit: g
+    name: chicken thighs
+    raw: 900 g boneless skinless chicken thighs
+  - qty: 80
+    unit: ml
+    name: soy sauce
+    raw: 80 ml soy sauce
+  - qty: 80
+    unit: ml
+    name: seasoned rice vinegar
+    raw: 80 ml seasoned rice vinegar
+  - qty: 25
+    unit: g
+    name: packed brown sugar
+    raw: 25 g packed brown sugar
+  - qty: 5
+    unit: ml
+    name: toasted sesame oil
+    raw: 5 ml toasted sesame oil
+  - qty: 1
+    unit: g
+    name: five spice powder
+    raw: 1 g five spice powder
+  - qty: 1
+    unit: g
+    name: red pepper flakes
+    raw: 1 g red pepper flakes
+  - qty: 15
+    unit: ml
+    name: toasted sesame oil
+    raw: 15 ml toasted sesame oil
+  - name: sesame seeds
+    raw: Sesame seeds, for garnish

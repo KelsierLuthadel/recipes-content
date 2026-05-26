@@ -1,26 +1,3 @@
----
-prep: 20 minutes
-cook: 2 hours
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-tags:
-  - dessert
-  - meat
-  - beef
-  - eggs
-  - lemon
-  - butter
-  - complex
-mentions:
-  - cuisine/british/side-dishes/yorkshire-puddings
----
-
-
-
-
 # Spotted Dick
 
 ![Spotted Dick](resources/spotted-dick.jpg)

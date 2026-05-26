@@ -1,0 +1,55 @@
+prep: 20 minutes (plus almond soaking)
+cook: 40 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - asian
+  - nuts
+  - diwali
+  - eid-al-fitr
+  - holi
+  - muslim
+  - hindu
+mentions: []
+ingredients:
+  - qty: 100
+    unit: g
+    name: almonds
+    raw: 100 g almonds
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre whole milk
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: A pinch of saffron threads
+  - qty: 1
+    unit: tbsp
+    name: milk
+    raw: 1 tablespoon warm milk
+  - qty: 0.5
+    name: /2 teaspoon ground cardamom
+    raw: 1/2 teaspoon ground cardamom
+  - qty: 1
+    unit: tsp
+    name: rose water
+    raw: 1 teaspoon rose water
+  - qty: 2
+    unit: tbsp
+    name: pistachios
+    raw: 2 tablespoons pistachios
+  - qty: 1
+    unit: tsp
+    name: rose petals
+    raw: 1 teaspoon dried rose petals
+  - name: saffron threads
+    raw: A few extra saffron threads

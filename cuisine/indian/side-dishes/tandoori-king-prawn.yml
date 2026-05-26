@@ -1,0 +1,87 @@
+prep: 15 minutes
+cook: 28 minutes
+allergens:
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - sides
+  - asian
+  - bbq
+  - fish
+  - prawn
+  - garlic
+  - ginger
+  - coriander
+  - cheese
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - bread-pasta/naan
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 500
+    unit: g
+    name: king prawns
+    raw: 500g raw king prawns
+  - qty: 1
+    unit: tbsp
+    name: rapeseed oil
+    raw: 1 tablespoon rapeseed oil
+  - qty: 2
+    unit: tsp
+    name: garlic and ginger paste
+    raw: 2 teaspoons garlic and ginger paste
+  - qty: 0.25
+    unit: tsp
+    name: turmeric
+    raw: ¼ teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon finely ground white pepper
+  - qty: 2
+    unit: tbsp
+    name: greek yoghurt
+    raw: 2 tablespoons Greek yoghurt
+  - qty: 1
+    unit: tbsp
+    name: cream cheese
+    raw: 1 tablespoon cream cheese
+  - qty: 1
+    unit: tbsp
+    name: single cream
+    raw: 1 tablespoon single cream
+  - qty: 1
+    name: ginger
+    raw: 1cm piece of fresh ginger
+  - qty: 1
+    name: green chilli
+    raw: 1 fresh green chilli
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon fresh coriander
+  - qty: 1
+    unit: tsp
+    name: mace and cardamom
+    raw: 1 teaspoon mace and cardamom
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1
+    unit: tsp
+    name: ajwain seeds
+    raw: 1 teaspoon ajwain seeds

@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-tags:
-  - quick
-  - meals
-  - meat
-  - pork
-  - eggs
-  - tomato
-  - cheese
-mentions:
-  - bread-pasta/pasta
-  - tutorials/pasta/fresh-pasta-dough
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Ham-Filled Pasta (Mezzelune)
 
 ![Ham-Filled Pasta](resources/ham-filled-pasta.jpg)

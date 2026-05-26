@@ -1,0 +1,41 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - rice
+  - onion
+  - garlic
+mentions: []
+ingredients:
+  - qty: 300
+    unit: g
+    name: long-grain rice
+    raw: 300 g long-grain rice
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: green bell pepper
+    raw: 1 small piece green bell pepper
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 550
+    unit: ml
+    name: water
+    raw: 550 ml hot water

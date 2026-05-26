@@ -1,0 +1,47 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - eggs
+  - butter
+mentions:
+  - cuisine/hungarian/side-dishes/nokedli
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons fresh parsley

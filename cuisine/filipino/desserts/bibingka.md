@@ -1,28 +1,3 @@
----
-prep: 20 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-tags:
-  - dessert
-  - make-ahead
-  - meat
-  - duck
-  - eggs
-  - coconut
-  - butter
-  - cheese
-  - complex
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Bibingka
 
 ![Bibingka](resources/bibingka.jpg)

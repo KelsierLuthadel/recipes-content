@@ -1,28 +1,3 @@
----
-prep: 20 minutes
-cook: 50 minutes
-allergens:
-  - gluten
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - meals
-  - onion
-  - garlic
-  - tomato
-  - carrot
-  - cheese
-  - complex
-mentions:
-  - cuisine/british/vegetable-soup
-  - cuisine/italian/pesto
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Soupe au Pistou
 
 ![Soupe au Pistou](resources/soupe-au-pistou.jpg)

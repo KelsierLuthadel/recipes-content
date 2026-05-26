@@ -1,0 +1,48 @@
+prep: 10 minutes
+cook: 1 minute
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - eggs
+  - cream
+mentions: []
+ingredients:
+  - qty: 120
+    unit: g
+    name: caster sugar
+    raw: 120 grams caster sugar
+  - qty: 30
+    unit: g
+    name: liquid glucose
+    raw: 30 grams liquid glucose
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml milk
+  - qty: 20
+    unit: g
+    name: coffee beans
+    raw: 20 grams coffee beans
+  - qty: 100
+    unit: ml
+    name: whipping cream
+    raw: 100 ml whipping cream
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 grams caster sugar
+  - qty: 10
+    unit: g
+    name: coffee beans
+    raw: 10 grams coffee beans

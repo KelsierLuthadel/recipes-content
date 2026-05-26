@@ -1,26 +1,3 @@
----
-prep: 30 minutes (plus overnight bean soaking)
-cook: 3-4 hours
-allergens:
-  - gluten
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - duck
-  - onion
-  - garlic
-  - complex
-mentions: []
----
-
-
-
-
 # Cassoulet
 
 ![Cassoulet](resources/cassoulet.jpg)

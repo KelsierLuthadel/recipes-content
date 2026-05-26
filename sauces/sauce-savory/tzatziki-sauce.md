@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 0 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - make-ahead
-  - garlic
-  - lemon
-  - yogurt
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tzatziki Sauce
 
 ![Tzatziki sauce](resources/tzatziki-sauce.png)

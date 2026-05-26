@@ -1,27 +1,3 @@
----
-prep: 8 minutes
-cook: 2 minutes
-allergens:
-  - mustard
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - asian
-  - spices
-  - coriander
-  - chili
-  - curry
-mentions: []
----
-
-
-
-
 # Curry Powder
 
 ![Curry Powder](resources/curry-powder.jpg)

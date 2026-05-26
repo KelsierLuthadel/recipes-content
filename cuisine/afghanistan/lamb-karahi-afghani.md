@@ -1,29 +1,3 @@
----
-prep: 20 minutes
-cook: 1 hour 45 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coriander
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Lamb Karahi (Afghan Style)
 
 ![Lamb Karahi (Afghan Style)](resources/lamb-karahi-afghani.jpg)

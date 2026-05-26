@@ -1,0 +1,67 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - eggs
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - asian
+  - fish
+  - salmon
+  - eggs
+  - onion
+  - lemon
+  - lime
+  - coriander
+  - curry
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: meaty fish fillets
+    raw: 500g meaty fish fillets, such as lemon sole, cod or salmon, skinned
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tbsp finely chopped coriander
+  - qty: 3
+    name: lime leaves
+    raw: 3 lime leaves, stalks removed and finely julienned
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions , thinly sliced
+  - qty: 8
+    name: green beans
+    raw: 8 green beans, thinly sliced
+  - qty: 3.5
+    unit: tbsp
+    name: thai red curry paste
+    raw: 3-4 tbsp Thai Red Curry Paste
+  - qty: 1
+    unit: tbsp
+    name: thai fish sauce
+    raw: 1 tbsp Thai fish sauce
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tbsp lime juice
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: tbsp
+    name: tapioca starch
+    raw: 1 tbsp tapioca starch
+  - qty: 5
+    unit: tbsp
+    name: rapeseed oil
+    raw: 5 tbsp rapeseed oil

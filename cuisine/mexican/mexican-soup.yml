@@ -1,0 +1,95 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - cream
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: corn cobs
+    raw: 2 corn cobs
+  - qty: 800
+    unit: g
+    name: tomatoes
+    raw: 800 grams tinned chopped tomatoes
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 2
+    name: red chillies
+    raw: 2 thin red chillies
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 500
+    unit: g
+    name: halibut fillets
+    raw: 500 grams halibut fillets
+  - qty: 12
+    name: prawns
+    raw: 12 prawns
+  - qty: 8
+    name: scallops
+    raw: 8 scallops
+  - qty: 12
+    name: clams
+    raw: 12 clams
+  - qty: 200
+    unit: ml
+    name: fish stock
+    raw: 200 ml fish stock
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 2
+    unit: tbsp
+    name: coriander leaves
+    raw: 2 tablespoons coriander leaves
+  - qty: 2
+    name: limes
+    raw: 2 limes
+  - qty: 125
+    unit: g
+    name: double cream
+    raw: 125 grams double cream
+  - qty: 0.5
+    name: avocado
+    raw: ½ avocado
+  - qty: 1
+    unit: tbsp
+    name: coriander leaves
+    raw: 1 tablespoon coriander leaves
+  - name: zest and juice of 1 lime
+    raw: grated zest and juice of 1 lime
+  - qty: 0.5
+    name: red onion
+    raw: ½ red onion

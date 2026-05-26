@@ -1,0 +1,98 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - soy
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - tofu
+  - rice
+  - mushroom
+  - onion
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: silken tofu
+    raw: 600 g silken tofu
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 30
+    unit: g
+    name: shiitake mushrooms
+    raw: 30 g dried shiitake mushrooms
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 3
+    unit: tbsp
+    name: doubanjiang
+    raw: 3 tablespoons doubanjiang
+  - qty: 1
+    unit: tbsp
+    name: fermented black beans
+    raw: 1 tablespoon fermented black beans
+  - qty: 1
+    unit: tsp
+    name: sichuan chilli flakes
+    raw: 1 teaspoon Sichuan chilli flakes
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 300
+    unit: ml
+    name: mushroom-soaking liquid
+    raw: 300 ml mushroom-soaking liquid
+  - qty: 150
+    unit: ml
+    name: vegetable stock
+    raw: 150 ml vegetable stock
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tsp
+    name: dark soy sauce
+    raw: 1 teaspoon dark soy sauce
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 2
+    unit: tbsp
+    name: cornflour mixed with 4 tablespoons cold water
+    raw: 2 tablespoons cornflour mixed with 4 tablespoons cold water
+  - qty: 1
+    unit: tbsp
+    name: sichuan peppercorns
+    raw: 1 tablespoon Sichuan peppercorns
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 2
+    unit: tsp
+    name: toasted sesame oil
+    raw: 2 teaspoons toasted sesame oil
+  - name: white rice
+    raw: Cooked white rice

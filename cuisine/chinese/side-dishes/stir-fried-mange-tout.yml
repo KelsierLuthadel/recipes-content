@@ -1,0 +1,56 @@
+prep: 10 minutes
+cook: 4 minutes
+allergens:
+  - peanuts
+  - soy
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - asian
+  - onion
+  - soy-sauce
+mentions:
+  - cuisine/chinese/lemon-chicken
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 225
+    unit: g
+    name: waterchestnuts
+    raw: 225 grams waterchestnuts
+  - qty: 1
+    unit: tbsp
+    name: groundnut oil
+    raw: 1 tablespoon groundnut oil
+  - qty: 3
+    unit: tbsp
+    name: spring onions
+    raw: 3 tablespoons spring onions
+  - qty: 225
+    unit: g
+    name: mange tout
+    raw: 225 grams mange tout
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons water
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: sugar
+    raw: ½ teaspoon sugar
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil

@@ -1,33 +1,3 @@
----
-prep: 10 minutes
-cook: 20 minutes
-allergens:
-  - dairy
-  - fish
-  - meat
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - fish
-  - beef
-  - mushroom
-  - coconut
-  - lime
-  - curry
-mentions:
-  - cuisine/thai/pastes/panang-curry-paste
-  - tutorials/bread/gluten
-  - tutorials/pizza/sauce
-  - tutorials/thai-curry/panang
----
-
-
-
-
 # Beef Panang Curry
 
 ![Beef Panang Curry](resources/beef-panang.jpg)

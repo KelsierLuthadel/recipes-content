@@ -1,0 +1,51 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - snack
+  - eggs
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: queso costeno
+    raw: 250 g queso costeño
+  - qty: 250
+    unit: g
+    name: cornstarch flour
+    raw: 250 g cornstarch flour
+  - qty: 50
+    unit: g
+    name: cornmeal
+    raw: 50 g cornmeal
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1.5
+    unit: tbsp
+    name: caster sugar
+    raw: 1 ½ tablespoons caster sugar
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 4.5
+    unit: tbsp
+    name: water
+    raw: 4-5 tablespoons water
+  - qty: 1
+    unit: l
+    name: neutral oil
+    raw: 1 litre neutral oil

@@ -1,0 +1,73 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - soy
+  - shellfish
+  - garlic
+tags:
+  - vegetarian
+  - meals
+  - mushroom
+  - onion
+  - garlic
+  - lemon
+  - butter
+  - nuts
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 600
+    unit: g
+    name: mixed mushrooms
+    raw: 600 g mixed mushrooms
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: sweet hungarian paprika
+    raw: 2 tablespoons sweet Hungarian paprika
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 1
+    unit: l
+    name: vegetable stock
+    raw: 1 litre vegetable stock
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 3
+    unit: tbsp
+    name: dill
+    raw: 3 tablespoons fresh dill
+  - qty: 200
+    unit: ml
+    name: soured cream
+    raw: 200 ml soured cream
+  - qty: 2
+    unit: tbsp
+    name: soy sauce
+    raw: 2 tablespoons soy sauce
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: dill fronds
+    raw: A few extra dill fronds

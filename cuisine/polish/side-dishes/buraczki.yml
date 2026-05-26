@@ -1,0 +1,53 @@
+prep: 10 minutes
+cook: 1 hour (mostly roasting)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - onion
+  - lemon
+  - butter
+mentions: []
+ingredients:
+  - qty: 750
+    unit: g
+    name: beetroots
+    raw: 750 g fresh beetroots
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 40
+    unit: g
+    name: unsalted butter
+    raw: 40 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar
+    raw: 2 tablespoons white wine vinegar
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 2
+    unit: tbsp
+    name: horseradish
+    raw: 2 tablespoons grated fresh horseradish
+  - qty: 0.5
+    unit: tsp
+    name: caraway
+    raw: ½ teaspoon ground caraway
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 1
+    name: dill
+    raw: A small bunch of fresh dill

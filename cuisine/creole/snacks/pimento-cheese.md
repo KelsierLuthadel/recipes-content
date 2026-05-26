@@ -1,26 +1,3 @@
----
-prep: 15 minutes (plus 30 minutes chilling)
-cook: 0 minutes
-allergens:
-  - gluten
-  - dairy
-  - mustard
-  - celery
-  - garlic
-tags:
-  - vegetarian
-  - spicy
-  - snack
-  - cheese
-  - chili
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pimento Cheese
 
 ![Pimento Cheese](resources/pimento-cheese.jpg)

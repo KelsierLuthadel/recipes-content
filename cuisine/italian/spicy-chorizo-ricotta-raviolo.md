@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-tags:
-  - spicy
-  - quick
-  - meals
-  - meat
-  - pork
-  - eggs
-  - cheese
-  - chili
-mentions:
-  - bread-pasta/pasta
-  - tutorials/pasta/fresh-pasta-dough
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Spicy Chorizo Ricotta Ravioli
 
 ![Spicy Chorizo Ricotta Ravioli](resources/ravioli.jpg)

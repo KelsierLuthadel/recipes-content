@@ -1,34 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - lamb
-  - garlic
-  - tomato
-  - ginger
-  - coriander
-  - yogurt
-  - nuts
-  - complex
-mentions:
-  - cuisine/indian/pastes/raw-cashew-paste
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lamb Rogan Josh
 
 ![Lamb Rogan Josh](resources/BIR-Lamb-Rogan-Josh.jpg)

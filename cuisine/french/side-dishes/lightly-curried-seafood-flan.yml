@@ -1,0 +1,56 @@
+prep: 25 minutes
+cook: 55 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - shellfish
+tags:
+  - spicy
+  - sides
+  - fish
+  - eggs
+  - onion
+  - cream
+  - curry
+mentions: []
+ingredients:
+  - qty: 375
+    unit: g
+    name: shortcrust pastry
+    raw: 375 g shortcrust pastry
+  - qty: 24
+    name: mussels
+    raw: 24 fresh mussels
+  - qty: 3
+    name: scallops
+    raw: 3 scallops
+  - qty: 6
+    name: langoustines
+    raw: 6 langoustines
+  - qty: 100
+    unit: g
+    name: green seaweed
+    raw: 100 g tender green seaweed
+  - qty: 75
+    unit: ml
+    name: dry white wine
+    raw: 75 ml dry white wine
+  - qty: 1
+    name: shallot
+    raw: 1 shallot
+  - qty: 1
+    unit: tbsp
+    name: curry powder
+    raw: 1 tbsp Curry Powder
+  - qty: 75
+    unit: ml
+    name: double cream
+    raw: 75 ml double cream
+  - qty: 1
+    name: egg
+    raw: 1 whole egg
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

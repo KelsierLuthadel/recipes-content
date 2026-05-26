@@ -1,26 +1,3 @@
----
-prep: 15 minutes
-cook: 10 minutes
-allergens:
-  - tree-nuts
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - dessert
-  - make-ahead
-  - lemon
-  - nuts
-mentions:
-  - base-ingredients/syrup/sirop-a-sorbet
-  - tutorials/eggs/meringues
----
-
-
-
-
 # Meringue and Red Berry Layers
 
 ![Meringue and red berry layers](resources/meringue-red-berry-layers.jpg)

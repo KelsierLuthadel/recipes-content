@@ -1,32 +1,3 @@
----
-prep: 25 minutes
-cook: 20 minutes
-allergens:
-  - eggs
-  - fish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - sides
-  - fish
-  - eggs
-  - onion
-  - garlic
-  - ginger
-  - lime
-  - coriander
-  - chili
-  - curry
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Nga Hpe (Burmese Fish Cakes)
 
 ![Nga Hpe](resources/nga-hpe.jpg)

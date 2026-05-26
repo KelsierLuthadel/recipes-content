@@ -1,31 +1,3 @@
----
-prep: 25 minutes
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - meals
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - tomato
-  - potato
-  - carrot
-  - butter
-  - complex
-  - easter
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/rice/boiled-rice
----
-
-
-
-
 # Lamb Stew (Navarin d'Agneau)
 
 ![Lamb Stew](resources/navarin-d-agneau.jpg)

@@ -1,0 +1,83 @@
+prep: 20 minutes
+cook: 10 minutes
+allergens:
+  - tree-nuts
+  - soy
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - nuts
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 450
+    unit: g
+    name: chicken thigh fillets
+    raw: 450g skinless chicken thigh fillets, cut into small cashew-size pieces
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce
+    raw: 2 tbsp light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tbsp dark soy sauce
+  - qty: 1
+    unit: tbsp
+    name: oyster sauce
+    raw: 1 tbsp oyster sauce
+  - qty: 1
+    unit: tsp
+    name: thai seasoning sauce
+    raw: 1 tsp Thai seasoning sauce
+  - qty: 70
+    unit: ml
+    name: water or chicken stock
+    raw: 70ml water or chicken stock
+  - qty: 1
+    unit: tsp
+    name: palm sugar
+    raw: 1 tsp palm sugar, grated and finely chopped
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves, roughly chopped
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions , sliced
+  - qty: 1
+    name: onion
+    raw: 1 onion , thinly sliced
+  - qty: 3
+    name: red spur chillies
+    raw: 3 red spur chillies, thinly sliced
+  - qty: 2
+    name: green bird’s eye chillies
+    raw: 2 green bird’s eye chillies, cut into thin rings
+  - qty: 25
+    name: cashews
+    raw: 20-30 cashews
+  - qty: 20
+    name: red bird’s eye chillies
+    raw: 20 dried red bird’s eye chillies
+  - qty: 3
+    unit: tbsp
+    name: cornflour
+    raw: 3 tbsp cornflour
+  - qty: 250
+    unit: ml
+    name: rapeseed oil
+    raw: 250ml rapeseed oil, plus an extra 3 tbsp

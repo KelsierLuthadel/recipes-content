@@ -1,0 +1,83 @@
+prep: 30 minutes
+cook: 1 hour 15 minutes (plus 4 hours cooling)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 80
+    unit: g
+    name: icing sugar
+    raw: 80 g icing sugar
+  - qty: 150
+    unit: g
+    name: cold unsalted butter
+    raw: 150 g cold unsalted butter
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 2
+    unit: tbsp
+    name: milk
+    raw: 2 tablespoons cold milk
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 1
+    unit: kg
+    name: twarog cheese
+    raw: 1 kg twaróg cheese
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - qty: 50
+    unit: g
+    name: semolina
+    raw: 50 g fine semolina
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - qty: 1
+    unit: tbsp
+    name: vanilla extract
+    raw: 1 tablespoon vanilla extract
+  - qty: 50
+    unit: g
+    name: raisins
+    raw: 50 g raisins
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 1
+    unit: tbsp
+    name: icing sugar
+    raw: 1 tablespoon icing sugar

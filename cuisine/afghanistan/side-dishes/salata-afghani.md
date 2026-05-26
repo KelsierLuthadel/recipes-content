@@ -1,27 +1,3 @@
----
-prep: 12 minutes
-cook: 0 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - sides
-  - onion
-  - tomato
-  - lemon
-  - coriander
-  - chili
-mentions:
-  - cuisine/afghanistan/kabuli-pulao
----
-
-
-
-
 # Salata Afghani
 
 ![Salata Afghani](resources/salata-afghani.jpg)

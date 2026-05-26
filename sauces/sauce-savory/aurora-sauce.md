@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - tomato
-  - butter
-  - cream
-mentions:
-  - coulis/vegetable/tomato-coulis
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Aurora Sauce
 
 ![Aurora Sauce](resources/aurora-sauce.jpg)

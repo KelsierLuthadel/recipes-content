@@ -1,0 +1,77 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - one-pan
+  - meals
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - butter
+  - cheese
+  - chili
+mentions:
+  - cuisine/bhutanese/ema-datshi
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 700
+    unit: g
+    name: waxy potatoes
+    raw: 700 g waxy potatoes
+  - qty: 6
+    name: green chillies
+    raw: 6 green chillies
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 100
+    unit: g
+    name: edam cheese
+    raw: 100 g Edam cheese
+  - qty: 80
+    unit: g
+    name: processed cheese slices
+    raw: 80 g processed cheese slices
+  - qty: 40
+    unit: g
+    name: crumbled feta
+    raw: 40 g crumbled feta
+  - qty: 50
+    unit: ml
+    name: milk
+    raw: 50 ml whole milk
+  - qty: 3
+    name: spring onions
+    raw: 3 spring onions
+  - qty: 1
+    unit: pinch
+    name: sichuan pepper
+    raw: Pinch of ground Sichuan pepper
+  - name: bhutanese red rice
+    raw: Bhutanese red rice

@@ -1,0 +1,70 @@
+prep: 15 minutes
+cook: 3 hours 30 minutes
+allergens:
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - meat
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: cow trotters
+    raw: 1 ½ kg cow trotters
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato puree
+  - qty: 2
+    unit: tbsp
+    name: paprika
+    raw: 2 tablespoons paprika
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    unit: tsp
+    name: chilli powder
+    raw: 2 teaspoons chilli powder
+  - qty: 2
+    name: beef stock cubes
+    raw: 2 beef stock cubes
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 2
+    name: red chillies
+    raw: 2 fresh red chillies
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml hot water
+  - name: salt
+    raw: Salt to taste

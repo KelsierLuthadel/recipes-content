@@ -1,0 +1,84 @@
+prep: 30 minutes (plus 2 ½ hours rising)
+cook: 22 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - complex
+  - easter
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: white bread flour
+    raw: 500 g strong white bread flour
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 7
+    unit: g
+    name: instant yeast
+    raw: 7 g instant yeast
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 teaspoons ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 teaspoon ground nutmeg
+  - qty: 1
+    unit: tsp
+    name: mixed spice
+    raw: 1 teaspoon mixed spice
+  - name: the zest of 1 orange
+    raw: The zest of 1 orange
+  - name: the zest of 1 lemon
+    raw: The zest of 1 lemon
+  - qty: 280
+    unit: ml
+    name: milk
+    raw: 280 ml whole milk
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 150
+    unit: g
+    name: currants
+    raw: 150 g currants
+  - qty: 50
+    unit: g
+    name: mixed peel
+    raw: 50 g chopped mixed peel
+  - qty: 50
+    unit: g
+    name: plain flour
+    raw: 50 g plain flour
+  - qty: 50
+    unit: ml
+    name: water
+    raw: 50 ml cold water
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 50
+    unit: ml
+    name: water
+    raw: 50 ml water

@@ -1,0 +1,97 @@
+prep: 30 minutes
+cook: 20 minutes
+allergens:
+  - soy
+  - sesame
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - pork
+  - prawn
+  - mushroom
+  - garlic
+  - ginger
+  - potato
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: shell-on shrimp
+    raw: 300 g shell-on shrimp, tails left on
+  - qty: 230
+    unit: g
+    name: pork belly
+    raw: 230 g pork belly, thinly sliced
+  - qty: 1
+    unit: tsp
+    name: shaoxing wine
+    raw: 1 tsp Shaoxing wine
+  - qty: 1
+    unit: tsp
+    name: light soy sauce
+    raw: 1 tsp light soy sauce
+  - qty: 170
+    unit: g
+    name: fried tofu cubes
+    raw: 170 g fried tofu cubes
+  - qty: 200
+    unit: g
+    name: chinese cauliflower
+    raw: 200 g Chinese cauliflower , in florets
+  - qty: 150
+    unit: g
+    name: yu choi
+    raw: 150 g baby yu choi
+  - qty: 150
+    unit: g
+    name: green beans
+    raw: 150 g green beans, trimmed and cut into 5 cm pieces
+  - qty: 200
+    unit: g
+    name: yukon gold potato
+    raw: 200 g Yukon gold potato, in 1 cm half-moons
+  - qty: 2
+    unit: tbsp
+    name: wood ear mushrooms
+    raw: 2 tbsp dried wood ear mushrooms
+  - qty: 60
+    unit: ml
+    name: roasted rapeseed oil or neutral oil
+    raw: 60 ml roasted rapeseed oil or neutral oil
+  - qty: 4.5
+    name: garlic cloves
+    raw: 4-5 garlic cloves, thinly sliced
+  - qty: 2
+    name: ginger
+    raw: 2 cm ginger, slivered
+  - qty: 4.5
+    name: er jing tiao chillies
+    raw: 4-5 dried er jing tiao chillies, torn
+  - qty: 0.5
+    unit: tsp
+    name: sichuan peppercorns
+    raw: ½ tsp Sichuan peppercorns
+  - qty: 0.5
+    unit: tsp
+    name: cumin seeds
+    raw: ½ tsp cumin seeds
+  - qty: 9
+    unit: tbsp
+    name: sichuan mala dry-pot sauce
+    raw: 9 tbsp Sichuan mala dry-pot sauce
+  - qty: 1
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 1 tbsp toasted sesame seeds, to garnish

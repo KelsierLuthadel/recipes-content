@@ -1,21 +1,3 @@
----
-prep: 15 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - snack
-  - tomato
-mentions:
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Bruschetta Platter (Tomato and Roasted Pepper)
 
 ![Bruschetta Platter](resources/bruschetta-platter.jpg)

@@ -1,0 +1,27 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+mentions: []
+ingredients:
+  - qty: 3
+    name: plantains
+    raw: 3 very ripe plantains
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 1
+    unit: pinch
+    name: flaky sea salt
+    raw: A pinch of flaky sea salt
+  - qty: 1
+    unit: pinch
+    name: cinnamon
+    raw: A pinch of ground cinnamon

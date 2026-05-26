@@ -1,0 +1,38 @@
+prep: 10 minutes
+cook: 11 minutes
+allergens:
+  - gluten
+  - peanuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - dessert
+mentions:
+  - cuisine/french/desserts/crepes
+ingredients:
+  - qty: 500
+    unit: g
+    name: caster sugar
+    raw: 500 grams caster sugar
+  - qty: 8
+    name: cloves
+    raw: 8 cloves
+  - qty: 4
+    name: perfectly ripe pears
+    raw: 4 perfectly ripe pears
+  - qty: 300
+    unit: g
+    name: puff pastry
+    raw: 300 grams puff pastry
+  - qty: 6
+    name: crepes
+    raw: 6 crêpes
+  - qty: 8
+    name: mint leaves
+    raw: 8 fresh mint leaves
+  - name: groundnut oil
+    raw: groundnut oil
+  - name: granulated sugar
+    raw: granulated sugar

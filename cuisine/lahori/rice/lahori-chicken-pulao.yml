@@ -1,0 +1,139 @@
+prep: 15 minutes (plus 30 minutes soak)
+cook: 1 hour
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/biryani
+ingredients:
+  - qty: 800
+    unit: g
+    name: chicken pieces
+    raw: 800 g chicken pieces
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 30
+    unit: g
+    name: ginger
+    raw: 30 g fresh ginger
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: coriander seeds
+    raw: 1 tablespoon coriander seeds
+  - qty: 1
+    unit: tbsp
+    name: fennel seeds
+    raw: 1 tablespoon fennel seeds
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 1
+    name: black cardamom pod
+    raw: 1 black cardamom pod
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres water
+  - qty: 400
+    unit: g
+    name: basmati rice
+    raw: 400 g aged basmati rice
+  - qty: 4
+    unit: tbsp
+    name: ghee
+    raw: 4 tablespoons ghee
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 1
+    name: black cardamom pod
+    raw: 1 black cardamom pod
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 teaspoon Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 800
+    unit: ml
+    name: strained yakhni
+    raw: 800 ml strained yakhni
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of fresh coriander
+  - qty: 1
+    unit: handful
+    name: fried onions
+    raw: A handful of fried onions
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon

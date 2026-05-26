@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 43 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - potato
-  - cream
-  - complex
-mentions: []
----
-
-
-
-
 # Baked Alaska
 
 ![Baked Alaska](resources/baked-alaska.jpg)

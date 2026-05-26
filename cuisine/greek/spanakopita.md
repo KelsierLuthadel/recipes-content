@@ -1,30 +1,3 @@
----
-prep: 30 minutes
-cook: 45 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - garlic
-tags:
-  - vegetarian
-  - meals
-  - eggs
-  - onion
-  - garlic
-  - spinach
-  - butter
-  - cheese
-  - complex
-mentions:
-  - baking/pastry/filo-pastry
-  - tutorials/pastry/filo
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Spanakopita
 
 ![Spanakopita](resources/spanakopita.jpg)

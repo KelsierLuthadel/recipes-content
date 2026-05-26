@@ -1,30 +1,3 @@
----
-prep: 15 minutes (plus 1 hour resting)
-cook: 2 hours 30 minutes
-allergens:
-  - gluten
-  - meat
-  - mustard
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - meals
-  - bbq
-  - meat
-  - beef
-  - pork
-  - onion
-  - coriander
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Texas Hot-Link Sausage
 
 ![Texas Hot-Link Sausage](resources/texas-hot-links.jpg)

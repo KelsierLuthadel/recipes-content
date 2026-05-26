@@ -1,22 +1,3 @@
----
-prep: 25 minutes (plus 30 minutes resting)
-cook: 15 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - make-ahead
-  - sides
-mentions:
-  - cuisine/jordan/mansaf
-  - tutorials/pizza/dough
----
-
-
-
-
 # Shrak
 
 ![Shrak](resources/shrak.jpg)

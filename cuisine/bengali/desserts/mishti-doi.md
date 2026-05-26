@@ -1,23 +1,3 @@
----
-prep: 20 minutes (plus 8-12 hours fermentation and 4 hours chilling)
-cook: 30 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - make-ahead
-  - yogurt
-  - complex
-mentions:
-  - cuisine/bengali/desserts/rasgulla
-  - cuisine/bengali/desserts/sandesh
----
-
-
-
-
 # Mishti Doi
 
 ![Mishti Doi](resources/mishti-doi.jpg)

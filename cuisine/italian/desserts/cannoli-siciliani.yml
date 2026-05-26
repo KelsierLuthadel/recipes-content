@@ -1,0 +1,107 @@
+prep: 1 hour (plus 30 min dough rest, 4 hours ricotta drain)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cheese
+  - chocolate
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 1
+    unit: tbsp
+    name: unsweetened cocoa powder
+    raw: 1 tablespoon unsweetened cocoa powder
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 80
+    unit: ml
+    name: sweet marsala
+    raw: 80 ml sweet Marsala
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 1
+    unit: l
+    name: sunflower oil
+    raw: 1 litre sunflower oil
+  - qty: 1
+    name: egg white
+    raw: 1 egg white
+  - qty: 12
+    name: metal cannoli forms
+    raw: 12 metal cannoli forms
+  - qty: 600
+    unit: g
+    name: whole-ricotta
+    raw: 600 g whole-ricotta
+  - qty: 120
+    unit: g
+    name: icing sugar
+    raw: 120 g icing sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    name: orange
+    raw: 1 orange
+  - qty: 60
+    unit: g
+    name: dark chocolate chips
+    raw: 60 g dark chocolate chips
+  - qty: 30
+    unit: g
+    name: candied orange peel
+    raw: 30 g candied orange peel
+  - qty: 30
+    unit: g
+    name: candied citron
+    raw: 30 g candied citron
+  - qty: 50
+    unit: g
+    name: shelled unsalted pistachios
+    raw: 50 g shelled unsalted pistachios
+  - qty: 50
+    unit: g
+    name: dark chocolate
+    raw: 50 g dark chocolate
+  - qty: 30
+    unit: g
+    name: icing sugar
+    raw: 30 g icing sugar
+  - qty: 12
+    name: maraschino cherries
+    raw: 12 maraschino cherries

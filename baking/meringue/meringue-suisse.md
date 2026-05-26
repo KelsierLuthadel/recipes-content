@@ -1,21 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - eggs
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - quick
-  - baking
-  - eggs
-mentions:
-  - tutorials/patisserie/tarts
----
-
-
-
-
 # Meringue Suisse (Swiss Meringue)
 
 ![Meringue Suisse (Swiss meringue)](resources/meringue-suisse.jpg)

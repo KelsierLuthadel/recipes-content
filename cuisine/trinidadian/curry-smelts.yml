@@ -1,0 +1,83 @@
+prep: 20 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - one-pan
+  - meals
+  - fish
+  - onion
+  - garlic
+  - lemon
+  - lime
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 700
+    unit: g
+    name: smelts
+    raw: 700 g smelts
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - qty: 1.5
+    unit: tbsp
+    name: caribbean green seasoning
+    raw: 1 ½ tablespoons Caribbean green seasoning
+  - qty: 0.75
+    unit: cup
+    name: plain flour
+    raw: ¾ cup plain flour
+  - qty: 500
+    unit: ml
+    name: vegetable oil
+    raw: 500 ml vegetable oil
+  - qty: 1.5
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 ½ tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 Scotch bonnet
+  - qty: 0.75
+    unit: tbsp
+    name: anchar masala
+    raw: ¾ tablespoon anchar masala
+  - qty: 0.75
+    unit: tbsp
+    name: roasted geera
+    raw: ¾ tablespoon ground roasted geera
+  - qty: 2
+    unit: tbsp
+    name: curry powder
+    raw: 2 tablespoons Curry Powder
+  - qty: 480
+    unit: ml
+    name: water
+    raw: 480 ml water
+  - qty: 2
+    unit: tbsp
+    name: cilantro
+    raw: 2 tablespoons chopped cilantro

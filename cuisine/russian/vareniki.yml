@@ -1,0 +1,71 @@
+prep: 50 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - make-ahead
+  - meals
+  - eggs
+  - onion
+  - potato
+  - butter
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml warm water
+  - qty: 1
+    unit: tbsp
+    name: sunflower oil
+    raw: 1 tablespoon sunflower oil
+  - qty: 700
+    unit: g
+    name: floury potatoes
+    raw: 700 g floury potatoes
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 200
+    unit: g
+    name: soured cream
+    raw: 200 g soured cream
+  - qty: 1
+    name: dill
+    raw: A small bunch of dill

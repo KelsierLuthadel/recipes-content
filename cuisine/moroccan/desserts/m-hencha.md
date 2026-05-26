@@ -1,26 +1,3 @@
----
-prep: 45 minutes
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - butter
-  - honey
-  - nuts
-mentions:
-  - baking/pastry/filo-pastry
-  - tutorials/pastry/filo
----
-
-
-
-
 # m'Hencha (Almond Snake Coil)
 
 ![M'hencha](resources/m-hencha.jpg)

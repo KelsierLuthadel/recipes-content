@@ -1,0 +1,70 @@
+prep: 15 minutes
+cook: 12 minutes
+allergens:
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - chili
+mentions:
+  - cuisine/chilean/side-dishes/pebre
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: chilean longaniza
+    raw: 4 Chilean longaniza
+  - qty: 4
+    name: marraqueta rolls
+    raw: 4 marraqueta rolls
+  - qty: 2
+    unit: tbsp
+    name: neutral oil
+    raw: 2 tablespoons neutral oil
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 30
+    unit: g
+    name: coriander
+    raw: 30 g fresh coriander
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 0.5
+    unit: tbsp
+    name: chilli
+    raw: ½ tablespoon mild chilli
+  - qty: 0.5
+    unit: tbsp
+    name: smoked paprika
+    raw: ½ tablespoon smoked paprika
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 2
+    unit: tbsp
+    name: red-wine vinegar
+    raw: 2 tablespoons red-wine vinegar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: mayonnaise
+    raw: Mayonnaise
+  - name: mustard
+    raw: Mustard

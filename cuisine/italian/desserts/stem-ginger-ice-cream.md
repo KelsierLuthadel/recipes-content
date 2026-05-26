@@ -1,22 +1,3 @@
----
-prep: 20 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - dessert
-  - ginger
-  - coconut
-  - cream
-mentions:
-  - tutorials/patisserie/tarts
----
-
-
-
-
 # Stem Ginger Ice Cream
 
 ![Stem ginger ice cream](resources/stem-ginger-ice-cream.jpg)

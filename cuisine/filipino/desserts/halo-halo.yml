@@ -1,0 +1,78 @@
+prep: 30 minutes (components made ahead)
+cook: 0 minutes (assembly only; components have their own prep)
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - dessert
+mentions:
+  - cuisine/filipino/desserts/leche-flan
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: red sweet azuki beans
+    raw: 2 tablespoons red sweet azuki beans
+  - qty: 2
+    unit: tbsp
+    name: white kidney beans
+    raw: 2 tablespoons white kidney beans
+  - qty: 2
+    unit: tbsp
+    name: kaong
+    raw: 2 tablespoons kaong
+  - qty: 2
+    unit: tbsp
+    name: nata de coco
+    raw: 2 tablespoons nata de coco
+  - qty: 2
+    unit: tbsp
+    name: sweet jackfruit
+    raw: 2 tablespoons sweet jackfruit , sliced thin
+  - qty: 2
+    unit: tbsp
+    name: sweetened saba banana slices
+    raw: 2 tablespoons sweetened saba banana slices
+  - qty: 2
+    unit: tbsp
+    name: sago pearls
+    raw: 2 tablespoons sago pearls
+  - qty: 2
+    unit: tbsp
+    name: macapuno
+    raw: 2 tablespoons macapuno
+  - name: leche flan
+    raw: A small piece of Leche Flan
+  - qty: 2
+    unit: cup
+    name: shaved ice
+    raw: 2 cups shaved ice
+  - qty: 80
+    unit: ml
+    name: evaporated milk
+    raw: 80 ml evaporated milk
+  - qty: 1
+    name: ube ice cream
+    raw: 1 scoop ube ice cream
+  - qty: 1
+    unit: tbsp
+    name: toasted pinipig
+    raw: 1 tablespoon toasted pinipig
+  - qty: 1
+    unit: drizzle
+    name: leche-flan caramel
+    raw: A drizzle of leche-flan caramel
+  - qty: 100
+    unit: g
+    name: dry small sago
+    raw: 100 g dry small sago
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar

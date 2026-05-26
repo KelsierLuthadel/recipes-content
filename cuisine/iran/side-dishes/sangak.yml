@@ -1,0 +1,43 @@
+prep: 20 minutes (plus 4 hours rising)
+cook: 20 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - sides
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 350
+    unit: g
+    name: wholemeal flour
+    raw: 350 g wholemeal flour
+  - qty: 150
+    unit: g
+    name: plain white flour
+    raw: 150 g plain white flour
+  - qty: 1
+    name: fast-action yeast
+    raw: 1 sachet fast-action yeast
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 380
+    unit: ml
+    name: water
+    raw: 380 ml warm water
+  - qty: 500
+    unit: g
+    name: smooth river pebbles
+    raw: 500 g small smooth river pebbles
+  - name: cornmeal
+    raw: Cornmeal

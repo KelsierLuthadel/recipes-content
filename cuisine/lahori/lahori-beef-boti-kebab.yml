@@ -1,0 +1,112 @@
+prep: 20 minutes (plus 4 hours marinade)
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - beef
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - butter
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/sauces-pickles/mint-chutney
+ingredients:
+  - qty: 800
+    unit: g
+    name: beef tenderloin
+    raw: 800 g beef tenderloin
+  - qty: 2
+    unit: tbsp
+    name: green papaya paste
+    raw: 2 tablespoons green papaya paste
+  - qty: 1
+    unit: tbsp
+    name: ginger-garlic paste
+    raw: 1 tablespoon ginger-garlic paste
+  - qty: 1
+    unit: tbsp
+    name: white vinegar
+    raw: 1 tablespoon white vinegar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 200
+    unit: g
+    name: natural yogurt
+    raw: 200 g natural yogurt
+  - qty: 1
+    unit: tbsp
+    name: kashmiri chilli powder
+    raw: 1 tablespoon Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 teaspoon Garam Masala
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 1
+    unit: tbsp
+    name: kasuri methi
+    raw: 1 tablespoon crushed kasuri methi
+  - qty: 2
+    unit: tbsp
+    name: mustard oil
+    raw: 2 tablespoons mustard oil
+  - qty: 2
+    unit: tbsp
+    name: flour
+    raw: 2 tablespoons gram flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 8
+    name: metal skewers
+    raw: 8 metal skewers
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons melted butter
+  - name: red onion
+    raw: Sliced red onion
+  - name: mint-yogurt chutney
+    raw: Mint-yogurt chutney
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: warm naan
+    raw: Warm naan
+  - name: pickled green chillies
+    raw: Pickled green chillies

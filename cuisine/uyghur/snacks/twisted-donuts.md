@@ -1,23 +1,3 @@
----
-prep: 20 minutes (plus 2-4 hours rise)
-cook: 15 minutes
-allergens:
-  - gluten
-  - eggs
-tags:
-  - vegetarian
-  - dairy-free
-  - snack
-  - eggs
-  - complex
-mentions:
-  - tutorials/bread/gluten
-  - tutorials/pizza/dough
----
-
-
-
-
 # Uyghur Twisted Donuts
 
 ![Uyghur Twisted Donuts](resources/twisted-donuts.jpg)

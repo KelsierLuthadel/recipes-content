@@ -1,31 +1,3 @@
----
-prep: 15 minutes
-cook: 12 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - quick
-  - snack
-  - make-ahead
-  - meat
-  - pork
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - butter
-mentions:
-  - cuisine/cajun/dirty-rice
-  - cuisine/creole/maque-choux
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Andouille Skewers
 
 ![Andouille Skewers](resources/andouille-skewers.jpg)

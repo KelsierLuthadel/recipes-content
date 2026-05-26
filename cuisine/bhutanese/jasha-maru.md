@@ -1,35 +1,3 @@
----
-prep: 15 minutes
-cook: 35 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coriander
-  - butter
-  - chili
-  - complex
-mentions:
-  - cuisine/bhutanese/phaksha-paa
-  - cuisine/indian/BIR-chicken-curry
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Jasha Maru
 
 ![Jasha Maru](resources/jasha-maru.jpg)

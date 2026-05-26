@@ -1,26 +1,3 @@
----
-prep: 30 minutes (plus 1 hour chilling)
-cook: 1 hour 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - ginger
-  - butter
-  - cream
-  - complex
-  - halloween
-mentions:
-  - cuisine/american/desserts/caramel-apples
----
-
-
-
-
 # Pumpkin Pie
 
 ![Pumpkin Pie](resources/pumpkin-pie.jpg)

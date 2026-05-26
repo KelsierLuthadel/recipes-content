@@ -1,0 +1,42 @@
+prep: 10 minutes (plus 12-24 hour fermentation)
+cook: 25 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - meals
+  - complex
+mentions:
+  - cuisine/somalian/suqaar
+ingredients:
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 100
+    unit: g
+    name: semolina
+    raw: 100 g semolina
+  - qty: 1
+    unit: tsp
+    name: active dry yeast
+    raw: 1 teaspoon active dry yeast
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml warm water
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil

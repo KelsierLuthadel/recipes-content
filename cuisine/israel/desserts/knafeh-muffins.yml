@@ -1,0 +1,76 @@
+prep: 25 minutes
+cook: 30 minutes (plus 15 minutes for syrup)
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - lemon
+  - butter
+  - cheese
+  - nuts
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 250
+    unit: g
+    name: kataifi pastry
+    raw: 250 g kataifi pastry
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 250
+    unit: g
+    name: ricotta
+    raw: 250 g ricotta
+  - qty: 200
+    unit: g
+    name: mozzarella
+    raw: 200 g low-moisture mozzarella
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 1
+    unit: tbsp
+    name: orange-blossom water
+    raw: 1 tablespoon orange-blossom water
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    unit: tbsp
+    name: rose water
+    raw: 1 tablespoon rose water
+  - qty: 0.5
+    unit: tsp
+    name: orange-blossom water
+    raw: ½ teaspoon orange-blossom water
+  - qty: 50
+    unit: g
+    name: shelled pistachios
+    raw: 50 g shelled pistachios
+  - qty: 1
+    unit: small pinch
+    name: rose petals
+    raw: A small pinch of dried rose petals

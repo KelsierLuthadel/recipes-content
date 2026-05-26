@@ -1,18 +1,3 @@
----
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - coconut
-  - curry
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/thai-curry/green
----
-
-
-
 # Coconut Milk Technique
 
 ![Coconut milk](resources/coconut.jpg)

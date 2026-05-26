@@ -1,0 +1,87 @@
+prep: 30 minutes (plus 30 min resting)
+cook: 20 minutes
+allergens:
+  - gluten
+  - soy
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - snack
+  - rice
+  - onion
+  - ginger
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons cold water
+  - qty: 6
+    name: spring onions
+    raw: 6 spring onions
+  - qty: 4
+    unit: tbsp
+    name: sesame oil
+    raw: 4 tablespoons sesame oil
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon white pepper
+  - name: vegetable oil
+    raw: Vegetable oil
+  - qty: 4
+    unit: tbsp
+    name: light soy sauce
+    raw: 4 tablespoons light soy sauce
+  - qty: 2
+    unit: tbsp
+    name: rice vinegar
+    raw: 2 tablespoons rice vinegar
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tablespoon water
+  - qty: 2
+    name: ginger
+    raw: 2 cm ginger
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 1
+    unit: pinch
+    name: sugar
+    raw: A pinch of sugar
+  - name: chilli oil
+    raw: A few drops chilli oil

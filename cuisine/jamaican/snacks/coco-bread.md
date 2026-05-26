@@ -1,25 +1,3 @@
----
-prep: 25 minutes (plus 1 ½ hours rising)
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - snack
-  - eggs
-  - coconut
-  - butter
-  - complex
-  - kwanzaa
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Coco Bread
 
 ![Coco Bread](resources/coco-bread.jpg)

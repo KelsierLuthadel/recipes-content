@@ -1,29 +1,3 @@
----
-prep: 20 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - sesame
-  - meat
-tags:
-  - spicy
-  - snack
-  - meat
-  - pork
-  - eggs
-  - lemon
-  - butter
-  - yogurt
-  - honey
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Merguez Rolls
 
 ![Merguez Rolls](resources/merguez-rolls.jpg)

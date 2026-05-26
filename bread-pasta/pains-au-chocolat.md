@@ -1,21 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - eggs
-  - chocolate
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Pains au Chocolat
 
 ![Pains au chocolat](resources/pains-au-chocolat.jpg)

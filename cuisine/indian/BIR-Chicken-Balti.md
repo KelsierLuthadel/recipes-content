@@ -1,28 +1,3 @@
----
-prep: 20 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - meals
-  - asian
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coriander
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Balti
 
 ![Chicken Balti](resources/balti.png)

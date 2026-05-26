@@ -1,0 +1,83 @@
+prep: 40 minutes (plus 20 min dough rest)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - sides
+  - ginger
+  - potato
+  - lime
+  - coriander
+  - butter
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: whole-wheat flour
+    raw: 400 g whole-wheat flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: sunflower oil
+    raw: 1 tablespoon sunflower oil
+  - qty: 265
+    unit: ml
+    name: water
+    raw: 250-280 ml warm water
+  - qty: 600
+    unit: g
+    name: potatoes
+    raw: 600 g potatoes
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 1.5
+    unit: tsp
+    name: cumin
+    raw: 1 ½ teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 teaspoon Garam Masala
+  - qty: 1
+    unit: tsp
+    name: amchoor
+    raw: 1 teaspoon amchoor
+  - qty: 1
+    unit: tsp
+    name: kashmiri red chilli powder
+    raw: 1 teaspoon Kashmiri red chilli powder
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tablespoons fresh coriander
+  - qty: 100
+    unit: g
+    name: ghee
+    raw: 100 g ghee
+  - name: plain yogurt
+    raw: Thick plain yogurt
+  - name: lime pickle
+    raw: Lime pickle
+  - name: chilli sauce
+    raw: Fresh chilli sauce
+  - name: butter to slather
+    raw: Butter to slather

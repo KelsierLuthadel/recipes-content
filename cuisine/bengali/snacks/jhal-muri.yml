@@ -1,0 +1,77 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - peanuts
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - rice
+  - onion
+  - tomato
+  - potato
+  - lime
+  - coriander
+  - nuts
+  - chili
+mentions: []
+ingredients:
+  - qty: 80
+    unit: g
+    name: muri
+    raw: 80 g muri
+  - qty: 30
+    unit: g
+    name: roasted peanuts
+    raw: 30 g roasted peanuts
+  - qty: 30
+    unit: g
+    name: chana chur
+    raw: 30 g chana chur
+  - qty: 2
+    unit: tbsp
+    name: mustard oil
+    raw: 2 tbsp mustard oil
+  - qty: 0.5
+    name: red onion
+    raw: ½ red onion
+  - qty: 1
+    name: tomato
+    raw: 1 tomato
+  - qty: 0.25
+    name: cucumber
+    raw: ¼ cucumber
+  - qty: 1.5
+    name: green chillies
+    raw: 1-2 green chillies
+  - qty: 1
+    name: green mango
+    raw: 1 green mango , diced
+  - qty: 10
+    unit: g
+    name: coriander
+    raw: 10 g fresh coriander
+  - qty: 8
+    unit: g
+    name: mint
+    raw: 8 g fresh mint
+  - qty: 0.5
+    unit: tsp
+    name: black salt
+    raw: ½ tsp black salt
+  - qty: 0.5
+    unit: tsp
+    name: chaat masala
+    raw: ½ tsp Chaat Masala
+  - qty: 0.25
+    unit: tsp
+    name: roasted cumin powder
+    raw: ¼ tsp roasted cumin powder
+  - qty: 0.5
+    name: lime
+    raw: ½ lime

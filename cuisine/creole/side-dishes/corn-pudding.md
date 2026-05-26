@@ -1,22 +1,3 @@
----
-prep: 15 minutes
-cook: 50 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - sides
-  - eggs
-  - butter
-  - cream
-mentions: []
----
-
-
-
-
 # Corn Pudding
 
 ![Corn Pudding](resources/corn-pudding.jpg)

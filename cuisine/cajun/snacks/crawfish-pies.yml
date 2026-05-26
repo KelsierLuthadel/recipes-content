@@ -1,0 +1,119 @@
+prep: 45 minutes (plus 30 minutes pastry chilling)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - shellfish
+  - celery
+  - garlic
+tags:
+  - spicy
+  - snack
+  - meat
+  - fish
+  - prawn
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - butter
+  - complex
+mentions:
+  - cuisine/cajun/crawfish-etouffee
+  - cuisine/cajun/snacks/andouille-skewers
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon fine salt
+  - qty: 0.75
+    unit: tsp
+    name: cajun seasoning
+    raw: ¾ teaspoon Cajun seasoning
+  - qty: 120
+    unit: g
+    name: cold unsalted butter
+    raw: 120 g cold unsalted butter, cubed
+  - qty: 50
+    unit: g
+    name: cold lard
+    raw: 50 g cold lard, cubed
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 6.5
+    unit: tbsp
+    name: ice-cold water
+    raw: 6-7 tablespoons ice-cold water
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 1
+    name: onion
+    raw: 1 onion , finely chopped
+  - qty: 1
+    name: celery stick
+    raw: 1 celery stick, finely chopped
+  - qty: 0.5
+    name: green pepper
+    raw: ½ green pepper, deseeded and finely chopped
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, finely chopped
+  - qty: 1
+    name: tomato
+    raw: 1 tomato , deseeded and finely chopped
+  - qty: 200
+    unit: ml
+    name: seafood
+    raw: 200 ml seafood
+  - qty: 1.5
+    unit: tsp
+    name: cajun seasoning
+    raw: 1 ½ teaspoons Cajun seasoning
+  - qty: 0.5
+    unit: tsp
+    name: smoked paprika
+    raw: ½ teaspoon smoked paprika
+  - qty: 1
+    unit: tsp
+    name: hot sauce
+    raw: 1 teaspoon hot sauce
+  - qty: 1
+    unit: tsp
+    name: thyme leaves
+    raw: 1 teaspoon fresh thyme leaves
+  - qty: 250
+    unit: g
+    name: crawfish tail meat
+    raw: 250 g crawfish tail meat
+  - qty: 3
+    name: spring onions
+    raw: 3 spring onions, finely sliced
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons chopped flat-leaf parsley
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    name: egg
+    raw: 1 egg, beaten with 1 tablespoon water
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil

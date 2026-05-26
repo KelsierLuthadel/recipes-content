@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - fish
-tags:
-  - meals
-  - meat
-  - fish
-  - potato
-  - lemon
-  - butter
-  - cream
-  - complex
-mentions:
-  - cuisine/british/side-dishes/mushy-peas
-  - sauces/sauce-savory/tartare-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Fish and Chips
 
 ![Fish and Chips](resources/fish-and-chips.jpg)

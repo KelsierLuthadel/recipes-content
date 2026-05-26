@@ -1,31 +1,3 @@
----
-prep: 10 minutes (plus 4 hours marinating)
-cook: 30 minutes
-allergens:
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Ginger Beef and Onion Rice Bowls
 
 ![Ginger Beef and Onion Rice Bowls](resources/ginger-beef-and-onion-rice-bowls.jpg)

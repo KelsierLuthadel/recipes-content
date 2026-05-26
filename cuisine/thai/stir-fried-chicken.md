@@ -1,31 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - soy
-  - fish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - fish
-  - chicken
-  - garlic
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Stir Fried Chicken with Chilli and Basil
 
 ![Stir Fried Chicken with Chilli and Basil](resources/stir-fried-chicken.jpg)

@@ -1,0 +1,91 @@
+prep: 1 hour
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - sesame
+  - meat
+tags:
+  - meals
+  - meat
+  - lamb
+  - onion
+  - lemon
+  - yogurt
+  - nuts
+  - complex
+mentions:
+  - cuisine/lebanese/kibbeh
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: bulgur wheat
+    raw: 200 g fine bulgur wheat
+  - qty: 500
+    unit: g
+    name: lamb mince
+    raw: 500 g lean lamb mince
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 250
+    unit: g
+    name: lamb mince
+    raw: 250 g lamb mince
+  - qty: 50
+    unit: g
+    name: pine nuts
+    raw: 50 g pine nuts
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 1
+    unit: tsp
+    name: sumac
+    raw: 1 teaspoon sumac
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - name: plain yogurt
+    raw: Plain yogurt
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: parsley
+    raw: Parsley

@@ -1,22 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - baking
-  - eggs
-  - butter
-mentions:
-  - tutorials/eggs/custards
----
-
-
-
-
 # Pâté à Foncer (Flan Pastry)
 
 ![Pâté à foncer (Flan Pastry)](resources/flan.png)

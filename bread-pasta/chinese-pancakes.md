@@ -1,24 +1,3 @@
----
-prep: 5 minutes
-cook: 4 minutes
-allergens:
-  - gluten
-  - sesame
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - quick
-mentions:
-  - cuisine/taiwanese/snacks/scallion-pancakes
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Chinese Pancakes
 
 ![Chinese Pancakes](resources/chinese-pancakes.jpg)

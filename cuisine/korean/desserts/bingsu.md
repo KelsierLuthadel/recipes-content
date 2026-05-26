@@ -1,23 +1,3 @@
----
-prep: 20 minutes (most components made ahead)
-cook: 0 minutes (assembly only)
-allergens:
-  - gluten
-  - dairy
-  - soy
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - make-ahead
-mentions:
-  - cuisine/chinese/side-dishes/rice-cake
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Bingsu (Shaved Ice with Sweet Toppings)
 
 ![Bingsu](resources/bingsu.jpg)

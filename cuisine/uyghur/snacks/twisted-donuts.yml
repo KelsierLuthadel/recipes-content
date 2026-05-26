@@ -1,0 +1,46 @@
+prep: 20 minutes (plus 2-4 hours rise)
+cook: 15 minutes
+allergens:
+  - gluten
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - snack
+  - eggs
+  - complex
+mentions:
+  - tutorials/bread/gluten
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 3
+    unit: g
+    name: instant yeast
+    raw: 3 g instant yeast
+  - qty: 30
+    unit: g
+    name: caster sugar
+    raw: 30 g caster sugar
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 120
+    unit: ml
+    name: water
+    raw: 120 ml water
+  - qty: 1
+    unit: tsp
+    name: baking soda
+    raw: 1 teaspoon baking soda
+  - qty: 30
+    unit: ml
+    name: sunflower oil
+    raw: 30 ml sunflower oil
+  - name: sunflower oil
+    raw: Sunflower oil
+  - name: icing sugar
+    raw: Icing sugar, to dust

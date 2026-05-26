@@ -1,0 +1,120 @@
+prep: 30 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - snack
+  - onion
+  - ginger
+  - potato
+  - lime
+  - coriander
+  - chickpea
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: floury potatoes
+    raw: 500 g floury potatoes
+  - qty: 2
+    unit: tbsp
+    name: mustard oil
+    raw: 2 tbsp mustard oil
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 15
+    unit: g
+    name: ginger
+    raw: 15 g ginger
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 1
+    unit: tsp
+    name: roasted cumin powder
+    raw: 1 tsp roasted cumin powder
+  - qty: 0.5
+    unit: tsp
+    name: coriander
+    raw: ½ tsp ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: ½ tsp Kashmiri chilli powder
+  - qty: 0.75
+    unit: tsp
+    name: salt
+    raw: ¾ tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: sugar
+    raw: ½ tsp sugar
+  - qty: 1
+    unit: tsp
+    name: bhaja moshla
+    raw: 1 tsp bhaja moshla , or extra roasted cumin
+  - qty: 15
+    unit: g
+    name: coriander
+    raw: 15 g fresh coriander
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tbsp lime juice
+  - qty: 120
+    unit: g
+    name: chickpea flour
+    raw: 120 g chickpea flour
+  - qty: 25
+    unit: g
+    name: rice flour
+    raw: 25 g rice flour
+  - qty: 0.5
+    unit: tsp
+    name: nigella seeds
+    raw: ½ tsp nigella seeds
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: ½ tsp Kashmiri chilli powder
+  - qty: 0.25
+    unit: tsp
+    name: baking soda
+    raw: ¼ tsp baking soda
+  - qty: 0.75
+    unit: tsp
+    name: salt
+    raw: ¾ tsp salt
+  - qty: 160
+    unit: ml
+    name: water
+    raw: 150-170 ml cold water
+  - qty: 500
+    unit: ml
+    name: mustard oil
+    raw: 500 ml mustard oil
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - name: kasundi mustard
+    raw: Kasundi mustard

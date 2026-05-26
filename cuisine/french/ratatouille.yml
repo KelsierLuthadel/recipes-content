@@ -1,0 +1,65 @@
+prep: 25 minutes
+cook: 50 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - tu-bav
+mentions: []
+ingredients:
+  - qty: 1
+    name: aubergine
+    raw: 1 aubergine
+  - qty: 2
+    name: courgettes
+    raw: 2 courgettes
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper
+  - qty: 1
+    name: yellow pepper
+    raw: 1 yellow pepper
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    name: tomatoes or 400 g tinned chopped tomatoes
+    raw: 4 ripe tomatoes or 400 g tinned chopped tomatoes
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tablespoon tomato purée
+  - qty: 6
+    unit: tbsp
+    name: olive oil
+    raw: 6 tablespoons olive oil
+  - qty: 2
+    unit: sprig
+    name: thyme
+    raw: 2 sprigs fresh thyme
+  - qty: 2
+    unit: sprig
+    name: rosemary
+    raw: 2 sprigs fresh rosemary
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: handful
+    name: basil
+    raw: A handful of fresh basil
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

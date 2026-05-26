@@ -1,0 +1,77 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - soy
+  - sesame
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - asian
+  - meat
+  - fish
+  - pork
+  - prawn
+  - garlic
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/stir-fry/wok-hei
+ingredients:
+  - qty: 200
+    unit: g
+    name: pork belly
+    raw: 200 grams skinless pork belly
+  - qty: 1
+    unit: tbsp
+    name: soy sauce
+    raw: 1 tablespoon soy sauce
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 0.25
+    unit: tsp
+    name: white pepper
+    raw: ¼ teaspoon ground white pepper
+  - qty: 2
+    unit: tbsp
+    name: oyster sauce
+    raw: 2 tablespoons oyster sauce
+  - qty: 0.6666666666666666
+    unit: cup
+    name: dark sweet soy sauce
+    raw: ⅔ cup dark sweet soy sauce
+  - qty: 2
+    unit: tbsp
+    name: soy sauce
+    raw: 2 tablespoons soy sauce
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 200
+    unit: g
+    name: pork belly
+    raw: 200 grams pork belly
+  - qty: 8
+    name: prawns
+    raw: 8 prawns
+  - qty: 2
+    unit: cup
+    name: cabbage
+    raw: 2 cups sliced cabbage
+  - qty: 400
+    unit: g
+    name: hokkien noodles
+    raw: 400 grams cooked hokkien noodles
+  - qty: 1
+    unit: tbsp
+    name: cornflour mixed with 1 tablespoon water
+    raw: 1 tablespoon cornflour mixed with 1 tablespoon water

@@ -1,0 +1,54 @@
+prep: 30 minutes
+cook: 0 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - sides
+  - onion
+  - tomato
+  - lemon
+mentions: []
+ingredients:
+  - qty: 50
+    unit: g
+    name: bulgur
+    raw: 50 g fine bulgur
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - qty: 4
+    name: flat-leaf parsley
+    raw: 4 large bunches flat-leaf parsley
+  - qty: 1
+    name: mint
+    raw: 1 small bunch mint
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes
+  - qty: 6
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 6 tablespoons extra-virgin olive oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 0.25
+    unit: tsp
+    name: allspice
+    raw: ¼ teaspoon ground allspice
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon

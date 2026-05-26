@@ -1,0 +1,141 @@
+prep: 30 minutes (plus 2 hours marinade)
+cook: 1 hour 15 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - coriander
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/biryani
+ingredients:
+  - qty: 40
+    unit: g
+    name: coconut
+    raw: 40 g fresh grated coconut
+  - qty: 8
+    name: kashmiri chillies
+    raw: 8 dried Kashmiri chillies
+  - qty: 1
+    unit: tbsp
+    name: coriander seeds
+    raw: 1 tablespoon coriander seeds
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 teaspoon fennel seeds
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 2
+    unit: tbsp
+    name: palm vinegar
+    raw: 2 tablespoons palm vinegar
+  - qty: 1
+    unit: tbsp
+    name: palm jaggery
+    raw: 1 tablespoon palm jaggery
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 1
+    unit: kg
+    name: chicken thighs
+    raw: 1 kg chicken thighs
+  - qty: 200
+    unit: g
+    name: natural yogurt
+    raw: 200 g natural yogurt
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 500
+    unit: g
+    name: basmati rice
+    raw: 500 g aged basmati rice
+  - qty: 3
+    unit: l
+    name: water
+    raw: 3 litres water
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tablespoons salt
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 3
+    name: green cardamom pods
+    raw: 3 green cardamom pods
+  - qty: 1
+    name: black cardamom pod
+    raw: 1 black cardamom pod
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 0.25
+    unit: tsp
+    name: saffron threads
+    raw: ¼ teaspoon saffron threads
+  - qty: 3
+    unit: tbsp
+    name: milk
+    raw: 3 tablespoons warm milk
+  - qty: 100
+    unit: ml
+    name: coconut milk
+    raw: 100 ml coconut milk
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of coriander
+  - qty: 1
+    unit: handful
+    name: mint leaves
+    raw: A handful of mint leaves
+  - qty: 2
+    unit: tbsp
+    name: ghee
+    raw: 2 tablespoons ghee
+  - name: dough
+    raw: Dough for the seal

@@ -1,0 +1,47 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - fish
+tags:
+  - gluten-free
+  - fish
+mentions:
+  - tutorials/stocks-sauces/stocks
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: fish bones and trimmings
+    raw: 1 ½ kilograms fresh fish bones and trimmings
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 grams unsalted butter
+  - qty: 2
+    name: leeks
+    raw: 2 leeks
+  - qty: 75
+    unit: g
+    name: onions
+    raw: 75 grams onions
+  - qty: 75
+    unit: g
+    name: button mushrooms
+    raw: 75 grams fresh button mushrooms
+  - qty: 200
+    unit: ml
+    name: dry white wine
+    raw: 200 millilitres dry white wine
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2 ½ litres cold water
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - qty: 2
+    name: lemon
+    raw: 2 slices fresh lemon
+  - qty: 8
+    name: white peppercorns
+    raw: 8 white peppercorns

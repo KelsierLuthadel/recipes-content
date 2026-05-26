@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - quick
-  - sides
-  - garlic
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Brussels Sprouts au Gratin
 
 ![Brussels sprouts au gratin](resources/brussels-sprouts-au-gratin.jpg)

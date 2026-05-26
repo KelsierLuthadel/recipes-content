@@ -1,20 +1,3 @@
----
-prep: 15 minutes
-cook: 15-25 minutes
-allergens:
-  - gluten
-  - eggs
-tags:
-  - vegetarian
-  - dairy-free
-  - make-ahead
-  - eggs
-mentions: []
----
-
-
-
-
 # Sponge Base
 
 ![Sponge Base](resources/sponge-base.png)

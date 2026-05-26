@@ -1,0 +1,79 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - coriander
+  - chili
+  - curry
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: waxy potatoes
+    raw: 800 g waxy potatoes
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    name: tomatoes
+    raw: 4 tomatoes
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 15
+    unit: g
+    name: ginger
+    raw: 15 g fresh ginger
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 2
+    unit: tbsp
+    name: yellow curry powder
+    raw: 2 tbsp mild yellow curry powder
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 tsp sweet paprika
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tbsp tomato paste
+  - qty: 45
+    unit: ml
+    name: neutral oil
+    raw: 45 ml neutral oil
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: Small handful fresh coriander

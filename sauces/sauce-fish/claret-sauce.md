@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-cook: 35 minutes
-allergens:
-  - dairy
-  - fish
-  - meat
-tags:
-  - gluten-free
-  - meat
-  - fish
-  - mushroom
-  - onion
-  - butter
-  - cream
-mentions:
-  - tutorials/stocks-sauces/stocks
----
-
-
-
-
 # Claret Sauce
 
 ![Claret sauce](resources/claret.jpg)

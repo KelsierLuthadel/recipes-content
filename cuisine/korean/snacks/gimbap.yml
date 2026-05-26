@@ -1,0 +1,83 @@
+prep: 1 hour
+cook: 25 minutes
+allergens:
+  - eggs
+  - sesame
+  - fish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - snack
+  - meat
+  - fish
+  - beef
+  - pork
+  - eggs
+  - rice
+  - garlic
+  - spinach
+  - carrot
+  - complex
+mentions:
+  - cuisine/korean/bulgogi
+ingredients:
+  - qty: 400
+    unit: g
+    name: short-grain rice
+    raw: 400 g short-grain rice
+  - qty: 480
+    unit: ml
+    name: water
+    raw: 480 ml water
+  - qty: 1
+    unit: tbsp
+    name: toasted sesame oil
+    raw: 1 tablespoon toasted sesame oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: sesame seeds
+    raw: 1 teaspoon sesame seeds
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 200
+    unit: g
+    name: spinach
+    raw: 200 g spinach
+  - qty: 4
+    name: strips pickled yellow radish
+    raw: 4 strips pickled yellow radish , 15 cm long
+  - qty: 4
+    name: strips ham
+    raw: 4 strips ham
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1.5
+    unit: tbsp
+    name: toasted sesame oil
+    raw: 1 ½ tablespoons toasted sesame oil
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 4
+    name: sheets gim
+    raw: 4 sheets gim
+  - qty: 1
+    unit: tbsp
+    name: sesame oil
+    raw: 1 tablespoon sesame oil
+  - qty: 1
+    unit: tbsp
+    name: sesame seeds
+    raw: 1 tablespoon sesame seeds

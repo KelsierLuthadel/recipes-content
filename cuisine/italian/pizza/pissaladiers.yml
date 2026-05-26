@@ -1,0 +1,48 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - garlic
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - onion
+  - garlic
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 200
+    unit: g
+    name: pizza dough
+    raw: 200 grams pizza dough
+  - qty: 100
+    unit: ml
+    name: light extra virgin olive oil
+    raw: 100 ml light extra virgin olive oil
+  - qty: 800
+    unit: g
+    name: onions
+    raw: 800 grams onions
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 18
+    name: anchovy fillets
+    raw: 18 anchovy fillets
+  - qty: 40
+    name: black olives
+    raw: 40 black olives
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon tiny fresh thyme sprigs

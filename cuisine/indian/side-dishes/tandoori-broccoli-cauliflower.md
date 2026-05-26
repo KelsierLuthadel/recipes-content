@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - spicy
-  - quick
-  - make-ahead
-  - sides
-  - asian
-  - bbq
-  - onion
-  - lemon
-  - yogurt
-  - chickpea
-mentions: []
----
-
-
-
-
 # Tandoori Broccoli, Cauliflower & Red Onion
 
 ![Tandoori Broccoli and Cauliflower](resources/broccoli.png)

@@ -1,31 +1,3 @@
----
-prep: 50 minutes (plus 1 ½ hours rising)
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - soy
-  - sesame
-  - shellfish
-  - meat
-tags:
-  - snack
-  - asian
-  - bbq
-  - meat
-  - pork
-  - onion
-  - soy-sauce
-  - complex
-mentions:
-  - cuisine/chinese/char-siu
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Char Siu Bao
 
 ![Char Siu Bao](resources/char-siu-bao.jpg)

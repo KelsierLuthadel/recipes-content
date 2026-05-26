@@ -1,0 +1,85 @@
+prep: 30 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - shellfish
+  - mustard
+tags:
+  - meals
+  - meat
+  - fish
+  - prawn
+  - salmon
+  - potato
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: smoked haddock fillet
+    raw: 300 g skinless smoked haddock fillet
+  - qty: 300
+    unit: g
+    name: salmon fillet
+    raw: 300 g skinless salmon fillet
+  - qty: 200
+    unit: g
+    name: king prawns
+    raw: 200 g raw king prawns
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - name: peppercorns
+    raw: A few peppercorns
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 50
+    unit: g
+    name: plain flour
+    raw: 50 g plain flour
+  - qty: 100
+    unit: g
+    name: cheddar cheese
+    raw: 100 g mature cheddar cheese
+  - qty: 2
+    unit: tsp
+    name: dijon mustard
+    raw: 2 teaspoons Dijon mustard
+  - qty: 3
+    unit: tbsp
+    name: parsley
+    raw: 3 tablespoons fresh parsley
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes , peeled and cubed
+  - qty: 75
+    unit: g
+    name: unsalted butter
+    raw: 75 g unsalted butter
+  - qty: 75
+    unit: ml
+    name: milk
+    raw: 75 ml whole milk
+  - qty: 50
+    unit: g
+    name: cheddar cheese
+    raw: 50 g mature cheddar cheese
+  - name: salt
+    raw: Salt

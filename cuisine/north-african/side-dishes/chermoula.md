@@ -1,28 +1,3 @@
----
-prep: 10 minutes
-cook: 0 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - sides
-  - garlic
-  - lemon
-  - coriander
-  - chili
-mentions:
-  - cuisine/italian/pesto
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chermoula
 
 ![Chermoula](resources/chermoula.jpg)

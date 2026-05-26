@@ -1,37 +1,3 @@
----
-prep: 15 minutes
-cook: 42 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - eggs
-  - mushroom
-  - onion
-  - spinach
-  - lemon
-  - butter
-  - cream
-  - complex
-  - valentines
-mentions:
-  - base-ingredients/baking/clarified-butter
-  - cuisine/french/desserts/crepes
-  - cuisine/french/side-dishes/herb-crepes
-  - sauces/sauce-savory/bearnaise-sauce
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Beef Wellington en Brioche
 
 ![Beef Wellington en Brioche](resources/beef-wellington-brioche.jpg)

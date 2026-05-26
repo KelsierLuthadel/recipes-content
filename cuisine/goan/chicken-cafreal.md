@@ -1,32 +1,3 @@
----
-prep: 15 minutes (plus overnight marinade)
-cook: 30 minutes
-allergens:
-  - gluten
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coconut
-  - lime
-  - coriander
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Chicken Cafreal
 
 ![Chicken Cafreal](resources/chicken-cafreal.jpg)

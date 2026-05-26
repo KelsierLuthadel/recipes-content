@@ -1,35 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coriander
-  - yogurt
-  - chili
-  - curry
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Methi Curry
 
 ![Chicken Methi Curry](resources/BIR-chicken-methi.jpg)

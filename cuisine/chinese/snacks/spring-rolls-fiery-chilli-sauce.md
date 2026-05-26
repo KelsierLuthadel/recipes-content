@@ -1,36 +1,3 @@
----
-prep: 15 minutes
-cook: 1 minute
-allergens:
-  - gluten
-  - fish
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - quick
-  - snack
-  - asian
-  - meat
-  - fish
-  - pork
-  - onion
-  - garlic
-  - lemon
-  - lime
-  - chili
-  - complex
-  - lunar-new-year
-mentions:
-  - cuisine/chinese/snacks/spring-rolls
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Spring Rolls with Fiery Chilli Sauce
 
 ![Spring rolls with fiery chilli sauce](resources/springrolls.jpg)

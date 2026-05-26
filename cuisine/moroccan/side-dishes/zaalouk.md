@@ -1,26 +1,3 @@
----
-prep: 15 minutes
-cook: 45 minutes
-allergens:
-  - gluten
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - sides
-  - garlic
-  - tomato
-  - lemon
-  - coriander
-  - chili
-mentions: []
----
-
-
-
-
 # Zaalouk
 
 ![Zaalouk](resources/zaalouk.jpg)

@@ -1,0 +1,30 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - eggs
+  - lemon
+  - cream
+mentions: []
+ingredients:
+  - qty: 240
+    unit: ml
+    name: single cream
+    raw: 240 ml single cream
+  - qty: 240
+    unit: ml
+    name: lemon juice
+    raw: 240 ml lemon juice
+  - qty: 140
+    unit: g
+    name: caster sugar
+    raw: 140 grams caster sugar
+  - qty: 6
+    name: egg yolks
+    raw: 6 egg yolks

@@ -1,0 +1,91 @@
+prep: 10 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - cheese
+  - chili
+  - complex
+  - day-of-the-dead
+mentions:
+  - cuisine/mexican/snacks/tostadas
+  - sauces/sauce-spicy/chipotle-sauce
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: chicken thighs
+    raw: 800 g chicken thighs
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: water
+    raw: Water to cover
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2.5
+    name: chipotle chillies in adobo
+    raw: 2-3 chipotle chillies in adobo
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tin chopped tomatoes
+  - qty: 1
+    unit: tsp
+    name: mexican oregano
+    raw: 1 teaspoon dried Mexican oregano
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 12
+    name: corn tostadas
+    raw: 12 corn tostadas
+  - qty: 1
+    name: avocado
+    raw: 1 avocado
+  - qty: 100
+    unit: g
+    name: queso fresco
+    raw: 100 g queso fresco
+  - name: mexican crema
+    raw: Mexican crema
+  - name: coriander leaves
+    raw: Coriander leaves
+  - name: lime wedges
+    raw: Lime wedges

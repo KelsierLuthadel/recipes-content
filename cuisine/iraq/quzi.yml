@@ -1,0 +1,139 @@
+prep: 30 minutes
+cook: 4 hours
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - lemon
+  - lime
+  - coriander
+  - butter
+  - yogurt
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 2
+    unit: kg
+    name: lamb shoulder
+    raw: 2 kg lamb shoulder
+  - qty: 4
+    unit: tbsp
+    name: plain yogurt
+    raw: 4 tablespoons plain yogurt
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: baharat
+    raw: 2 tablespoons Baharat
+  - qty: 1
+    unit: tbsp
+    name: turmeric
+    raw: 1 tablespoon ground turmeric
+  - qty: 2
+    name: limes
+    raw: 2 dried limes
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 500
+    unit: ml
+    name: lamb stock
+    raw: 500 ml lamb stock
+  - qty: 500
+    unit: g
+    name: basmati rice
+    raw: 500 g basmati rice
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 6
+    name: cardamom pods
+    raw: 6 cardamom pods
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: generous pinch
+    name: saffron
+    raw: A generous pinch saffron
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre hot water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 100
+    unit: g
+    name: flaked almonds
+    raw: 100 g flaked almonds
+  - qty: 50
+    unit: g
+    name: pine nuts
+    raw: 50 g pine nuts
+  - qty: 100
+    unit: g
+    name: raisins
+    raw: 100 g raisins
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 200
+    unit: ml
+    name: lamb cooking liquid
+    raw: 200 ml lamb cooking liquid
+  - qty: 1
+    unit: tsp
+    name: baharat
+    raw: 1 teaspoon Baharat
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice

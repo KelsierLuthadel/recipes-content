@@ -1,25 +1,3 @@
----
-prep: 5 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-  - meat
-tags:
-  - gluten-free
-  - quick
-  - meals
-  - meat
-  - rice
-  - onion
-  - butter
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Risotto Alla Milanese
 
 ![Risotto alla Milanese](resources/risotto-milanese.jpg)

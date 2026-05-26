@@ -1,0 +1,88 @@
+prep: 25 minutes
+cook: 1 ¾ hours
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - meals
+  - meat
+  - eggs
+  - mushroom
+  - onion
+  - carrot
+  - lemon
+  - butter
+  - cream
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: veal shoulder
+    raw: 1 kg veal shoulder
+  - qty: 1.5
+    unit: l
+    name: white veal
+    raw: 1 ½ litres white veal
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    name: leek
+    raw: 1 leek
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - qty: 0.5
+    unit: tsp
+    name: white peppercorns
+    raw: ½ teaspoon white peppercorns
+  - name: salt
+    raw: Salt
+  - qty: 200
+    unit: g
+    name: pearl onions
+    raw: 200 g pearl onions
+  - qty: 250
+    unit: g
+    name: button mushrooms
+    raw: 250 g button mushrooms
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 50
+    unit: g
+    name: plain flour
+    raw: 50 g plain flour
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 2
+    name: egg yolks
+    raw: 2 egg yolks
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

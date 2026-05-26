@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - mustard
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - carrot
-  - easter
-mentions: []
----
-
-
-
-
 # Chanternay Carrots and Parsnips with Maple Syrup and a Mustard Glaze
 
 ![Chanternay carrots and parsnips with maple syrup and a mustard glaze](resources/chanternay-carrot-parsnip.jpg)

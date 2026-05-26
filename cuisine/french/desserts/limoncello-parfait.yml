@@ -1,0 +1,53 @@
+prep: 20 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - eggs
+  - lemon
+  - cream
+mentions: []
+ingredients:
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 grams caster sugar
+  - name: grate zest of 2 lemons
+    raw: finely grate zest of 2 lemons
+  - qty: 25
+    unit: ml
+    name: squeezed lemon juice
+    raw: 25 ml freshly squeezed lemon juice
+  - qty: 0.5
+    name: sheet leaf gelatine
+    raw: ½ sheet leaf gelatine
+  - qty: 60
+    unit: ml
+    name: limoncello liqueur
+    raw: 60 ml limoncello liqueur
+  - qty: 150
+    unit: ml
+    name: whipping cream
+    raw: 150 ml whipping cream
+  - qty: 150
+    unit: ml
+    name: double cream
+    raw: 150 ml double cream
+  - qty: 500
+    unit: g
+    name: raspberries
+    raw: 500 grams raspberries
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 grams caster sugar
+  - qty: 12
+    name: mint
+    raw: 12 mint sprigs

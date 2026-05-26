@@ -1,0 +1,58 @@
+prep: 30 minutes (plus 1 hour rising)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - eggs
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    name: fast-action yeast
+    raw: 1 sachet fast-action yeast
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 280
+    unit: ml
+    name: water
+    raw: 280 ml warm water
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1 ½ litres water
+  - qty: 4
+    unit: tbsp
+    name: baking soda
+    raw: 4 tablespoons baking soda
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 2.5
+    unit: tbsp
+    name: pretzel salt
+    raw: 2-3 tablespoons coarse pretzel salt
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter

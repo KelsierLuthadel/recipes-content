@@ -1,19 +1,3 @@
----
-allergens:
-  - eggs
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - eggs
-mentions:
-  - tutorials/eggs/custards
-  - tutorials/eggs/scrambled-omelette
-  - tutorials/pizza/sauce
----
-
-
-
 # Boiled and Poached Eggs
 
 ![Boiled eggs](resources/poached.jpg)

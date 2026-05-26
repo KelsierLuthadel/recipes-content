@@ -1,18 +1,3 @@
----
-prep: 20 minutes
-cook: 18 minutes
-allergens: []
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - lemon
-mentions: []
----
-
-
-
-
 # Thyme-Scented Fromage Frais Sorbet
 
 ![Thyme-scented fromage frais sorbet](resources/thyme-scented-sorbet.jpg)

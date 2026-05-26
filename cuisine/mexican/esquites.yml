@@ -1,0 +1,77 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - butter
+  - cheese
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 600
+    unit: g
+    name: corn kernels
+    raw: 600 g corn kernels
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: long green chilli or jalapeno
+    raw: 1 long green chilli or jalapeño
+  - qty: 100
+    unit: g
+    name: mayonnaise
+    raw: 100 g mayonnaise
+  - qty: 100
+    unit: g
+    name: soured cream
+    raw: 100 g soured cream
+  - qty: 100
+    unit: g
+    name: cotija cheese
+    raw: 100 g cotija cheese , or feta as substitute
+  - qty: 2
+    name: limes
+    raw: 2 limes
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 teaspoon chilli powder
+  - qty: 0.5
+    unit: tsp
+    name: smoked paprika
+    raw: ½ teaspoon smoked paprika
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 1
+    name: coriander
+    raw: A small bunch of coriander
+  - name: lime wedges
+    raw: Lime wedges

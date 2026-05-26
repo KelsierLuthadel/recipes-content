@@ -1,0 +1,56 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - fish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - starter
+  - asian
+  - meat
+  - fish
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/stocks
+ingredients:
+  - qty: 12
+    name: chicken wings
+    raw: 12 chicken wings, bony ends cut off
+  - qty: 3
+    name: black peppercorns
+    raw: 3 generous tbsp black peppercorns
+  - qty: 150
+    unit: g
+    name: shallots
+    raw: 150g shallots, peeled and thinly sliced
+  - qty: 2
+    unit: tbsp
+    name: ginger
+    raw: 2 tbsp finely chopped ginger
+  - qty: 3
+    name: spring onions
+    raw: 3 spring onions , roughly chopped, to garnish
+  - qty: 1
+    name: red spur chilli
+    raw: 1 red spur chilli, thinly sliced, to garnish
+  - qty: 3
+    unit: tbsp
+    name: crispy fried garlic
+    raw: 3 tbsp crispy fried garlic , to garnish
+  - qty: 150
+    unit: ml
+    name: thai fish sauce*
+    raw: 150ml Thai fish sauce*
+  - qty: 135
+    unit: g
+    name: granulated sugar or finely chopped palm sugar
+    raw: 135g granulated sugar or finely chopped palm sugar

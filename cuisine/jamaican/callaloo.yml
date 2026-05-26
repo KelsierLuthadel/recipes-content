@@ -1,0 +1,61 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - coconut
+  - spinach
+  - chili
+  - kwanzaa
+mentions:
+  - cuisine/jamaican/side-dishes/rice-and-peas
+ingredients:
+  - qty: 500
+    unit: g
+    name: callaloo
+    raw: 500 g fresh callaloo
+  - qty: 3
+    unit: tbsp
+    name: coconut oil
+    raw: 3 tablespoons coconut oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme
+  - qty: 1
+    name: scotch bonnet chilli or sliced for more heat
+    raw: 1 scotch bonnet chilli or sliced for more heat
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water

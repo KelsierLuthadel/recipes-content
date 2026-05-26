@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - baking
-  - eggs
-  - butter
-mentions:
-  - tutorials/patisserie/petit-fours
-  - tutorials/pizza/dough
----
-
-
-
-
 # Pâte Sucrée (Sweet Short Pastry)
 
 ![Pâte sucrée (Sweet Short Pastry)](resources/sweet-short.png)

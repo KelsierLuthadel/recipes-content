@@ -1,25 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - peanuts
-  - soy
-  - sesame
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Saffron Vinaigrette
 
 ![Saffron Vinaigrette](resources/saffron.jpg)

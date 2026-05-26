@@ -1,0 +1,94 @@
+prep: 25 minutes (plus 1 hour resting batter)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - lemon
+  - cheese
+  - nuts
+  - complex
+mentions:
+  - cuisine/egyptian/desserts/basbousa
+  - cuisine/turkish/desserts/baklava
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 200
+    unit: g
+    name: semolina
+    raw: 200 g fine semolina
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 1
+    unit: tsp
+    name: fast-action yeast
+    raw: 1 teaspoon fast-action yeast
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml warm water
+  - qty: 200
+    unit: g
+    name: walnuts
+    raw: 200 g walnuts
+  - qty: 4
+    unit: tbsp
+    name: caster sugar
+    raw: 4 tablespoons caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 1
+    unit: tbsp
+    name: rosewater
+    raw: 1 tablespoon rosewater
+  - qty: 250
+    unit: g
+    name: low-salt halloumi
+    raw: 250 g low-salt halloumi
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    unit: tsp
+    name: rosewater
+    raw: 1 teaspoon rosewater
+  - qty: 1
+    unit: tsp
+    name: orange blossom water
+    raw: 1 teaspoon orange blossom water
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - name: pistachios
+    raw: Crushed pistachios

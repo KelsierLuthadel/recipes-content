@@ -1,0 +1,73 @@
+prep: 15 minutes
+cook: 4 hours 30 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - chicken
+  - pork
+  - eggs
+  - mushroom
+  - onion
+  - garlic
+  - ginger
+  - carrot
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: kg
+    name: chicken wings
+    raw: 2 kg chicken wings
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 40
+    name: kombu
+    raw: 40 cm pieces kombu
+  - qty: 6
+    name: shiitake mushrooms
+    raw: 6 dried shiitake mushrooms
+  - qty: 6
+    name: spring onions
+    raw: 6 spring onions
+  - qty: 1
+    name: garlic
+    raw: 1 head of garlic
+  - qty: 4
+    name: ginger
+    raw: 4 cm piece ginger
+  - qty: 0.25
+    unit: cup
+    name: soy sauce
+    raw: ¼ cup soy sauce
+  - qty: 12
+    unit: cup
+    name: water
+    raw: 12 cups water
+  - qty: 0.25
+    unit: cup
+    name: soy sauce
+    raw: ¼ cup soy sauce
+  - qty: 2
+    unit: tbsp
+    name: mirin
+    raw: 2 tablespoons mirin
+  - name: ramen noodles
+    raw: Cooked ramen noodles
+  - name: chashu pork
+    raw: Chashu pork
+  - name: medium-soft boiled eggs
+    raw: Medium-soft boiled eggs
+  - name: reserved shiitake mushrooms
+    raw: Reserved shiitake mushrooms
+  - name: spring onion
+    raw: Finely sliced spring onion

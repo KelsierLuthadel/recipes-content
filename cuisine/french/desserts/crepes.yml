@@ -1,0 +1,46 @@
+prep: 5 minutes
+cook: 1 minute
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - cream
+mentions:
+  - base-ingredients/baking/clarified-butter
+  - tutorials/bread/gluten
+ingredients:
+  - qty: 125
+    unit: g
+    name: plain flour
+    raw: 125 grams plain flour
+  - qty: 15
+    unit: g
+    name: caster sugar
+    raw: 15 grams caster sugar
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: pinch of salt
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 325
+    unit: ml
+    name: milk
+    raw: 325 ml milk
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - name: vanilla extract
+    raw: few drops of vanilla extract
+  - qty: 20
+    unit: g
+    name: clarified butter
+    raw: 20 grams Clarified Butter

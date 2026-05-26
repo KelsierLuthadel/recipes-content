@@ -1,0 +1,87 @@
+prep: 45 minutes
+cook: 1 hour 45 minutes (plus 30 minutes resting)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - complex
+  - easter
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: unsalted butter
+    raw: 250 g unsalted butter
+  - qty: 250
+    unit: g
+    name: soft light brown sugar
+    raw: 250 g soft light brown sugar
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 2
+    unit: tsp
+    name: mixed spice
+    raw: 2 teaspoons mixed spice
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - name: the zest of 1 lemon
+    raw: The zest of 1 lemon
+  - name: the zest of 1 orange
+    raw: The zest of 1 orange
+  - qty: 200
+    unit: g
+    name: currants
+    raw: 200 g currants
+  - qty: 150
+    unit: g
+    name: sultanas
+    raw: 150 g sultanas
+  - qty: 100
+    unit: g
+    name: glace cherries
+    raw: 100 g glace cherries
+  - qty: 50
+    unit: g
+    name: mixed peel
+    raw: 50 g chopped mixed peel
+  - qty: 2
+    unit: tbsp
+    name: milk
+    raw: 2 tablespoons whole milk
+  - qty: 1
+    unit: tbsp
+    name: brandy or orange juice
+    raw: 1 tablespoon brandy or orange juice
+  - qty: 500
+    unit: g
+    name: natural marzipan
+    raw: 500 g good-quality natural marzipan
+  - qty: 3
+    unit: tbsp
+    name: apricot jam
+    raw: 3 tablespoons apricot jam
+  - qty: 1
+    name: egg yolk
+    raw: 1 small egg yolk

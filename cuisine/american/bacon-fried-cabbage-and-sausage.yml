@@ -1,0 +1,58 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+mentions: []
+ingredients:
+  - qty: 450
+    unit: g
+    name: bacon
+    raw: 450 g bacon
+  - qty: 340
+    unit: g
+    name: pre-cooked andouille
+    raw: 340 g pre-cooked andouille
+  - qty: 1
+    name: yellow onion
+    raw: 1 yellow onion
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 1
+    name: head green cabbage
+    raw: 1 medium head green cabbage
+  - qty: 2
+    unit: tbsp
+    name: brown sugar
+    raw: 2 tablespoons brown sugar
+  - qty: 2
+    unit: tbsp
+    name: garlic paste
+    raw: 2 tablespoons garlic paste
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: apple cider vinegar
+    raw: 1 tablespoon apple cider vinegar
+  - qty: 1
+    unit: tbsp
+    name: creole cajun seasoning
+    raw: 1 tablespoon Creole Cajun seasoning
+  - name: parsley
+    raw: Fresh chopped parsley, to garnish

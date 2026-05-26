@@ -1,0 +1,84 @@
+prep: 15 minutes
+cook: 7 minutes
+allergens:
+  - sesame
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - onion
+  - potato
+  - lemon
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 450
+    unit: g
+    name: new potatoes
+    raw: 450 grams new potatoes
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 0.5
+    unit: tsp
+    name: black mustard seeds
+    raw: ½ teaspoon black mustard seeds
+  - qty: 0.5
+    unit: tsp
+    name: onion seeds
+    raw: ½ teaspoon onion seeds
+  - qty: 2
+    name: red chillies
+    raw: 2 dried red chillies
+  - qty: 6
+    name: curry leaves
+    raw: 6 curry leaves
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    name: green chillies
+    raw: 2 fresh green chillies
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 0.25
+    unit: tsp
+    name: asafoetida
+    raw: ¼ teaspoon asafoetida
+  - qty: 0.5
+    unit: tsp
+    name: cumin seeds
+    raw: ½ teaspoon cumin seeds
+  - qty: 0.5
+    unit: tsp
+    name: fennel seeds
+    raw: ½ teaspoon fennel seeds
+  - qty: 0.5
+    unit: tsp
+    name: kalonji seeds
+    raw: ½ teaspoon kalonji seeds
+  - qty: 50
+    unit: g
+    name: coriander leaves
+    raw: 50 grams fresh coriander leaves
+  - name: lemon juice
+    raw: Lemon juice
+  - name: salt
+    raw: Salt
+  - name: fried fresh curry leaves
+    raw: Fried fresh curry leaves
+  - name: sesame seeds
+    raw: Sesame seeds

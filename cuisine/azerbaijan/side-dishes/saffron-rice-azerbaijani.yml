@@ -1,0 +1,34 @@
+prep: 20 minutes (plus 1 hour soaking)
+cook: 50 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - rice
+  - butter
+  - complex
+mentions:
+  - cuisine/azerbaijan/plov
+ingredients:
+  - qty: 500
+    unit: g
+    name: basmati rice
+    raw: 500 g basmati rice
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tablespoons salt
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 3
+    unit: tbsp
+    name: water
+    raw: 3 tablespoons boiling water

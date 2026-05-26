@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - dairy
-  - fish
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - starter
-  - asian
-  - fish
-  - coconut
-  - lime
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Fiery Vegetables in Coconut Milk
 
 ![Fiery vegetables in coconut milk](resources/fiery-vegetables-in-coconut-milk.png)

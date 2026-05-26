@@ -1,0 +1,61 @@
+prep: 25 minutes (plus 2 hours rising, overnight cold proof)
+cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - make-ahead
+  - sides
+  - eggs
+  - onion
+  - garlic
+  - honey
+  - complex
+  - yom-kippur
+  - jewish
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 600
+    unit: g
+    name: white bread flour
+    raw: 600 g strong white bread flour
+  - qty: 12
+    unit: g
+    name: sea salt
+    raw: 12 g fine sea salt
+  - qty: 4
+    unit: g
+    name: instant yeast
+    raw: 4 g instant yeast
+  - qty: 30
+    unit: g
+    name: malt syrup
+    raw: 30 g malt syrup
+  - qty: 340
+    unit: ml
+    name: water
+    raw: 340 ml water
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 2
+    unit: tbsp
+    name: malt syrup
+    raw: 2 tablespoons malt syrup
+  - qty: 1
+    unit: tbsp
+    name: bicarbonate of soda
+    raw: 1 tablespoon bicarbonate of soda
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - name: "toppings: sesame seeds"
+    raw: "Toppings: sesame seeds, poppy seeds, \"everything\" mix , or leave plain"

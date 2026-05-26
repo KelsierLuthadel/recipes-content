@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - fish
-  - mustard
-tags:
-  - gluten-free
-  - spicy
-  - fish
-  - onion
-  - butter
-  - cream
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Thermidor Sauce
 
 ![Thermidor sauce](resources/thermidor.png)

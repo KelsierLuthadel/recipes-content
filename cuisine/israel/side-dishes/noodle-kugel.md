@@ -1,30 +1,3 @@
----
-prep: 20 minutes
-cook: 1 hour
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - make-ahead
-  - sides
-  - eggs
-  - lemon
-  - butter
-  - cream
-  - cheese
-  - complex
-  - yom-kippur
-  - sukkot
-  - jewish
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Noodle Kugel
 
 ![Noodle Kugel](resources/noodle-kugel.jpg)

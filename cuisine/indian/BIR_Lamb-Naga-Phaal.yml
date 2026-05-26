@@ -1,0 +1,79 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chili
+  - curry
+mentions: []
+ingredients:
+  - qty: 4
+    name: habanero chillies
+    raw: 4 habanero chillies, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: rapeseed oil or mustard oil
+    raw: 2 tbsp rapeseed oil or mustard oil
+  - qty: 0.5
+    name: onion
+    raw: ½ small onion, finely chopped
+  - qty: 0.5
+    name: red bell pepper
+    raw: ½ red bell pepper, diced
+  - qty: 1
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 1 tbsp garlic and ginger paste
+  - qty: 1
+    unit: tbsp
+    name: mr naga chilli pickle
+    raw: 1 tbsp Mr Naga chilli pickle
+  - qty: 1
+    unit: tbsp
+    name: mixed powder
+    raw: 1 tbsp Mixed Powder
+  - qty: 2
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 2 tsp Kashmiri chilli powder
+  - qty: 70
+    unit: ml
+    name: tomato puree
+    raw: 70 ml tomato purée
+  - qty: 300
+    unit: ml
+    name: curry base gravy
+    raw: 300 ml Curry Base Gravy
+  - qty: 200
+    unit: g
+    name: lamb tikka or pre-cooked lamb
+    raw: 200 g lamb tikka or Pre-cooked Lamb
+  - name: salt
+    raw: Salt, to taste
+  - qty: 1
+    unit: tsp
+    name: fenugreek leaves
+    raw: 1 tsp dried fenugreek leaves
+  - qty: 0.5
+    unit: tsp
+    name: garam masala
+    raw: ½ tsp Garam Masala
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tbsp finely chopped coriander

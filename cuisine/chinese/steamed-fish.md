@@ -1,32 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - peanuts
-  - soy
-  - sesame
-  - fish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - meals
-  - asian
-  - fish
-  - onion
-  - garlic
-  - ginger
-  - soy-sauce
-  - lunar-new-year
-mentions:
-  - tutorials/fish/whole-fish
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Steamed Fish
 
 ![Steamed Fish](resources/steamed-fish.jpg)

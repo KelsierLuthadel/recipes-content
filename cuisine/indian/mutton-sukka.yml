@@ -1,0 +1,115 @@
+prep: 20 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions: []
+ingredients:
+  - qty: 800
+    unit: g
+    name: lamb shoulder
+    raw: 800 g lamb shoulder
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon turmeric
+  - qty: 1
+    unit: tbsp
+    name: ginger-garlic paste
+    raw: 1 tablespoon ginger-garlic paste
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 2
+    name: green cardamom pods
+    raw: 2 green cardamom pods
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 1
+    unit: tbsp
+    name: coriander seeds
+    raw: 1 tablespoon coriander seeds
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 teaspoon fennel seeds
+  - qty: 1
+    unit: tbsp
+    name: black peppercorns
+    raw: 1 tablespoon black peppercorns
+  - qty: 4
+    name: kashmiri chillies
+    raw: 4 dried Kashmiri chillies
+  - qty: 30
+    unit: g
+    name: coconut
+    raw: 30 g fresh grated coconut
+  - qty: 2
+    name: cloves
+    raw: 2 cloves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 3
+    unit: tbsp
+    name: coconut oil
+    raw: 3 tablespoons coconut oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 20
+    name: curry leaves
+    raw: 20 fresh curry leaves
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of coriander
+  - qty: 0.5
+    name: lime
+    raw: ½ lime

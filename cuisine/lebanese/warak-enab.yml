@@ -1,0 +1,103 @@
+prep: 1 hour
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - lemon
+  - yogurt
+  - complex
+mentions: []
+ingredients:
+  - qty: 60
+    name: vine leaves
+    raw: 60 fresh vine leaves
+  - qty: 300
+    unit: g
+    name: short-grain rice
+    raw: 300 g short-grain rice
+  - qty: 400
+    unit: g
+    name: lamb mince
+    raw: 400 g lamb mince
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    unit: tbsp
+    name: parsley
+    raw: 4 tablespoons fresh parsley
+  - qty: 3
+    unit: tbsp
+    name: mint
+    raw: 3 tablespoons fresh mint
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato puree
+  - qty: 1.5
+    unit: tsp
+    name: allspice
+    raw: 1 ½ teaspoons ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 80
+    unit: ml
+    name: olive oil
+    raw: 80 ml olive oil
+  - qty: 2
+    name: potatoes
+    raw: 2 potatoes
+  - name: lamb bones
+    raw: A few lamb bones
+  - qty: 3
+    name: lemons
+    raw: 3 lemons
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: l
+    name: chicken stock
+    raw: 1 litre hot chicken stock
+  - qty: 200
+    unit: g
+    name: greek yogurt
+    raw: 200 g Greek yogurt
+  - qty: 1
+    name: lemon
+    raw: 1 lemon

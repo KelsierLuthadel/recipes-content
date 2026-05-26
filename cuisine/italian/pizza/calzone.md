@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-tags:
-  - quick
-  - meals
-  - meat
-  - tomato
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Calzone
 
 ![Calzone](resources/calzone.jpg)

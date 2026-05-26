@@ -1,31 +1,3 @@
----
-prep: 20 minutes
-cook: 3 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-  - garlic
-tags:
-  - quick
-  - meals
-  - meat
-  - chicken
-  - eggs
-  - onion
-  - garlic
-  - tomato
-  - cheese
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Spaghetti with Chicken Meatballs
 
 ![Spaghetti with Chicken Meatballs](resources/chicken-meatballs.jpg)

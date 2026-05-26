@@ -1,32 +1,3 @@
----
-prep: 10 minutes (plus 30 minutes soak)
-cook: 25 minutes
-allergens:
-  - dairy
-  - tree-nuts
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - meals
-  - rice
-  - onion
-  - garlic
-  - coconut
-  - coriander
-  - nuts
-  - chili
-  - curry
-mentions:
-  - cuisine/goan/goan-fish-curry
-  - cuisine/indian/rice/coconut-rice
-  - cuisine/thai/side-dishes/coconut-rice
----
-
-
-
-
 # Goan Coconut Rice
 
 ![Goan Coconut Rice](resources/goan-coconut-rice.jpg)

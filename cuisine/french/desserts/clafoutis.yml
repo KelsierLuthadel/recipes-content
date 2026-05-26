@@ -1,0 +1,74 @@
+prep: 15 minutes
+cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - cream
+  - complex
+mentions: []
+ingredients:
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 500
+    unit: g
+    name: sweet cherries
+    raw: 500 g ripe sweet cherries
+  - qty: 1
+    unit: tbsp
+    name: kirsch
+    raw: 1 tablespoon kirsch
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 150
+    unit: ml
+    name: double cream
+    raw: 150 ml double cream
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: icing sugar
+    raw: 1 tablespoon icing sugar
+  - name: double cream or vanilla ice cream
+    raw: Cold double cream OR vanilla ice cream
+  - name: creme fraiche
+    raw: Crème fraîche

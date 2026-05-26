@@ -1,21 +1,3 @@
----
-prep: 5 minutes
-cook: 35 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - asian
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # BIR Spice Stock
 
 ![BIR Spice Stock](resources/BIR-spice-stock.jpg)
@@ -37,7 +19,7 @@ A fragrant aromatic stock made from whole spices and fresh herbs. This versatile
 - Large handful of star anise
 - 1 tsp roasted cumin seeds
 - Large bunch of coriander (cilantro), stems and leaves roughly chopped
-- 1 (or more fresh green chillies), to taste, halved lengthways (optional)
+- 2 fresh green chillies, halved lengthways (optional)
 - 1 litre (4 ½ cups) water
 
 ## Method

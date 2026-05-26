@@ -1,0 +1,62 @@
+prep: 10 minutes
+cook: 11 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - meat
+  - chicken
+  - butter
+  - chili
+mentions:
+  - cuisine/american/side-dishes/caesar-salad
+  - tutorials/rice/pilaf
+ingredients:
+  - qty: 4
+    name: chicken breasts
+    raw: 4 chicken breasts
+  - qty: 1
+    unit: tbsp
+    name: oil
+    raw: 1 tablespoon oil
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 1.5
+    unit: tsp
+    name: garlic powder
+    raw: 1 ½ teaspoons garlic powder
+  - qty: 1.5
+    unit: tsp
+    name: black pepper
+    raw: 1 ½ teaspoons freshly ground black pepper
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon ground white pepper
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: cayenne pepper
+    raw: ½ teaspoon cayenne pepper
+  - qty: 0.5
+    unit: tsp
+    name: paprika
+    raw: ½ teaspoon paprika

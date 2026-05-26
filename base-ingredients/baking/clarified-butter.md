@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-cook: 8 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - butter
-mentions:
-  - sauces/sauce-savory/bearnaise-sauce
-  - sauces/sauce-savory/hollandaise-sauce
-  - tutorials/pizza/sauce
-  - tutorials/stocks-sauces/hollandaise
----
-
-
-
-
 # Clarified Butter (Beurre Clarifié)
 
 ![Clarified Butter](resources/clarified-butter.jpg)

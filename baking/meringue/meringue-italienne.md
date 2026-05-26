@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 15 minutes
-allergens:
-  - eggs
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - quick
-  - baking
-  - eggs
-mentions:
-  - baking/cremes/creme-au-beurre
-  - baking/cremes/creme-mousseline
-  - tutorials/patisserie/tarts
----
-
-
-
-
 # Meringue Italienne (Italian Meringue)
 
 ![Meringue Italienne (Italian meringue)](resources/meringue-italienne.jpg)

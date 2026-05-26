@@ -1,0 +1,69 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - cream
+  - chocolate
+mentions:
+  - baking/cremes/chocolate-creme-patissiere
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 60
+    unit: g
+    name: quality white chocolate
+    raw: 60 grams good quality white chocolate
+  - qty: 150
+    unit: g
+    name: chocolate genoise nature
+    raw: 150 grams chocolate Génoise nature
+  - qty: 2
+    unit: tbsp
+    name: sweet dessert wine
+    raw: 2 tablespoons sweet dessert wine
+  - qty: 200
+    unit: ml
+    name: whipping cream
+    raw: 200 ml whipping cream
+  - qty: 8
+    name: perfect raspberries
+    raw: 8 perfect raspberries
+  - name: icing sugar
+    raw: icing sugar
+  - qty: 375
+    unit: ml
+    name: milk
+    raw: 375 ml milk
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 grams caster sugar
+  - qty: 4
+    name: egg yolks
+    raw: 4 egg yolks
+  - qty: 20
+    unit: g
+    name: plain flour
+    raw: 20 grams plain flour
+  - qty: 20
+    unit: g
+    name: dark cocoa powder
+    raw: 20 grams dark cocoa powder
+  - qty: 125
+    unit: g
+    name: raspberries
+    raw: 125 grams raspberries
+  - qty: 1
+    name: lemon juice
+    raw: 1 lemon juice
+  - qty: 60
+    unit: g
+    name: icing sugar
+    raw: 60 grams icing sugar

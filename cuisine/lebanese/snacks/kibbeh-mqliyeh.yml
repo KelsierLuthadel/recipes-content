@@ -1,0 +1,135 @@
+prep: 1 hour
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - snack
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - lemon
+  - yogurt
+  - nuts
+  - complex
+mentions:
+  - cuisine/lebanese/kibbeh
+  - cuisine/middle-east/kibbeh
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: bulgur
+    raw: 200 g fine bulgur
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml cold water
+  - qty: 400
+    unit: g
+    name: lamb
+    raw: 400 g very lean lamb
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1.5
+    unit: tsp
+    name: baharat
+    raw: 1 ½ teaspoons Baharat
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon
+  - qty: 60
+    unit: ml
+    name: ice water
+    raw: 60 ml ice water
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 300
+    unit: g
+    name: fattier lamb mince
+    raw: 300 g fattier lamb mince
+  - qty: 1.5
+    unit: tsp
+    name: baharat
+    raw: 1 ½ teaspoons Baharat
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 60
+    unit: g
+    name: pine nuts
+    raw: 60 g pine nuts
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons fresh parsley
+  - qty: 1
+    unit: tbsp
+    name: pomegranate molasses
+    raw: 1 tablespoon pomegranate molasses
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - qty: 250
+    unit: g
+    name: greek yogurt
+    raw: 250 g Greek yogurt
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: mint
+    raw: 2 tablespoons fresh mint
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: sumac
+    raw: Sumac
+  - qty: 1
+    name: parsley
+    raw: A small bunch of fresh parsley

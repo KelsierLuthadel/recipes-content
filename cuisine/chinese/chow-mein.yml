@@ -1,0 +1,78 @@
+prep: 15 minutes
+cook: 5 minutes
+allergens:
+  - gluten
+  - eggs
+  - peanuts
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - soy-sauce
+  - lunar-new-year
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 225
+    unit: g
+    name: egg noodles
+    raw: 225 grams fresh egg noodles
+  - qty: 100
+    unit: g
+    name: chicken breast
+    raw: 100 grams chicken breast
+  - qty: 2
+    unit: tsp
+    name: light soy sauce
+    raw: 2 teaspoons light soy sauce
+  - qty: 2
+    unit: tsp
+    name: dry sherry
+    raw: 2 teaspoons dry sherry
+  - qty: 2
+    unit: tsp
+    name: groundnut oil
+    raw: 2 teaspoons groundnut oil
+  - qty: 1
+    unit: tbsp
+    name: groundnut oil
+    raw: 1 tablespoon groundnut oil
+  - qty: 1
+    unit: tsp
+    name: garlic
+    raw: 1 teaspoon garlic
+  - qty: 50
+    unit: g
+    name: mange tout
+    raw: 50 grams mange tout
+  - qty: 25
+    unit: g
+    name: parma ham
+    raw: 25 grams Parma ham
+  - qty: 1
+    unit: tsp
+    name: light soy sauce
+    raw: 1 teaspoon light soy sauce
+  - qty: 0.5
+    unit: tsp
+    name: sugar
+    raw: ½ teaspoon sugar
+  - qty: 1
+    unit: tbsp
+    name: spring onions
+    raw: 1 tablespoon spring onions
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil

@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-cook: 0 minutes
-allergens:
-  - dairy
-  - mustard
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - make-ahead
-  - garlic
-  - lemon
-  - yogurt
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Rocket Sauce with Horseradish
 
 ![Rocket sauce with horseradish](resources/rocket-sauce.png)

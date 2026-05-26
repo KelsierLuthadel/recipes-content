@@ -1,0 +1,99 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - eggs
+  - peanuts
+  - soy
+  - shellfish
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - spicy
+  - meals
+  - asian
+  - eggs
+  - tofu
+  - garlic
+  - ginger
+  - potato
+  - lime
+  - nuts
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: new potatoes
+    raw: 200 g new potatoes
+  - qty: 200
+    unit: g
+    name: green beans
+    raw: 200 g green beans
+  - qty: 200
+    unit: g
+    name: savoy cabbage
+    raw: 200 g savoy cabbage
+  - qty: 200
+    unit: g
+    name: beansprouts
+    raw: 200 g beansprouts
+  - qty: 200
+    unit: g
+    name: firm tofu
+    raw: 200 g firm tofu
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 0.5
+    name: cucumber
+    raw: ½ cucumber
+  - qty: 50
+    unit: g
+    name: prawn crackers
+    raw: 50 g prawn crackers
+  - qty: 200
+    unit: g
+    name: roasted unsalted peanuts
+    raw: 200 g roasted unsalted peanuts
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 2
+    name: long red chillies
+    raw: 2 long red chillies
+  - qty: 1
+    name: ginger
+    raw: 1 cm fresh ginger
+  - qty: 3
+    unit: tbsp
+    name: kecap manis
+    raw: 3 tablespoons kecap manis
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce
+    raw: 2 tablespoons light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: tamarind paste
+    raw: 1 tablespoon tamarind paste
+  - qty: 2
+    unit: tbsp
+    name: brown sugar
+    raw: 2 tablespoons brown sugar
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 200-300 ml hot water
+  - name: salt
+    raw: Salt to taste

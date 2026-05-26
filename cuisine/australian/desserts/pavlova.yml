@@ -1,0 +1,58 @@
+prep: 20 minutes
+cook: 1 ¼ hours (plus 1 hour cooling in oven)
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - eggs
+  - lemon
+  - cream
+  - complex
+mentions: []
+ingredients:
+  - qty: 6
+    name: egg whites
+    raw: 6 egg whites
+  - qty: 350
+    unit: g
+    name: caster sugar
+    raw: 350 g caster sugar
+  - qty: 2
+    unit: tsp
+    name: cornflour
+    raw: 2 teaspoons cornflour
+  - qty: 1
+    unit: tsp
+    name: white wine vinegar
+    raw: 1 teaspoon white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 500
+    unit: ml
+    name: double cream
+    raw: 500 ml double cream
+  - qty: 2
+    unit: tbsp
+    name: icing sugar
+    raw: 2 tablespoons icing sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 400
+    unit: g
+    name: mixed berries
+    raw: 400 g mixed berries
+  - qty: 1
+    unit: small handful
+    name: mint leaves
+    raw: A small handful of fresh mint leaves

@@ -1,34 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - chicken
-  - garlic
-  - ginger
-  - coconut
-  - butter
-  - nuts
-  - complex
-mentions:
-  - cuisine/indian/sauces-pickles/mango-chutney
-  - sauces/fruit-sauce/mango-chutney
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Korma
 
 ![Chicken korma](resources/BIR-Chicken-Korma.jpg)

@@ -1,0 +1,22 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - tree-nuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - nuts
+mentions: []
+ingredients:
+  - qty: 100
+    unit: g
+    name: almonds
+    raw: 100 grams ground almonds
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 grams icing sugar
+  - name: water
+    raw: Water

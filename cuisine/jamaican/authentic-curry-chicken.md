@@ -1,34 +1,3 @@
----
-prep: 20 minutes (plus 1 hour marinating)
-cook: 1 hour 10 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - potato
-  - carrot
-  - coriander
-  - chili
-  - curry
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Authentic Jamaican Curry Chicken
 
 ![Authentic Jamaican Curry Chicken](resources/authentic-curry-chicken.jpg)

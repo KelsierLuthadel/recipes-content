@@ -1,26 +1,3 @@
----
-prep: 1 hour (plus overnight resting)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - butter
-  - nuts
-  - complex
-  - eid-al-fitr
-  - muslim
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Maamoul
 
 ![Maamoul](resources/maamoul.jpg)

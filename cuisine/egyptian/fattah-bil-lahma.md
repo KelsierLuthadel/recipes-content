@@ -1,34 +1,3 @@
----
-prep: 30 minutes
-cook: 2 hours 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - lamb
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - coriander
-  - butter
-  - chili
-  - complex
-mentions:
-  - cuisine/egyptian/side-dishes/aysh-baladi
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Fattah Bil Lahma
 
 ![Fattah bil Lahma](resources/fattah-bil-lahma.jpg)

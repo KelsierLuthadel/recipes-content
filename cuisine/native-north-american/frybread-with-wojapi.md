@@ -1,20 +1,3 @@
----
-prep: 25 minutes (plus 30 min resting)
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - meals
-mentions:
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Frybread with Wojapi
 
 ![Frybread with Wojapi](resources/frybread-with-wojapi.jpg)

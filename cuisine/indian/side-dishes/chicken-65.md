@@ -1,38 +1,3 @@
----
-prep: 20 minutes (plus 1 hour marinating)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - soy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - sides
-  - asian
-  - meat
-  - chicken
-  - eggs
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - lime
-  - coriander
-  - yogurt
-  - chili
-  - soy-sauce
-  - curry
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken 65
 
 ![Chicken 65](resources/chicken-65.jpg)

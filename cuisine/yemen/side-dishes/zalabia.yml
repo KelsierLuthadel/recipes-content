@@ -1,0 +1,59 @@
+prep: 10 minutes (plus 1 hour rising)
+cook: 20 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - dairy-free
+  - sides
+  - lemon
+  - honey
+mentions: []
+ingredients:
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 50
+    unit: g
+    name: cornflour
+    raw: 50 g cornflour
+  - qty: 1
+    name: fast-action yeast
+    raw: 1 sachet fast-action yeast
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml warm water
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil for deep frying
+  - qty: 250
+    unit: g
+    name: dark honey
+    raw: 250 g dark honey
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice

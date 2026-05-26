@@ -1,0 +1,87 @@
+prep: 25 minutes
+cook: 20 minutes
+allergens:
+  - eggs
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - fish
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - lime
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: firm white fish fillets
+    raw: 500 g firm white fish fillets
+  - qty: 4
+    name: shallots
+    raw: 4 shallots
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 2
+    unit: tbsp
+    name: fish sauce
+    raw: 2 tablespoons fish sauce
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 3
+    unit: tbsp
+    name: cornflour
+    raw: 3 tablespoons cornflour
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 1
+    unit: small handful
+    name: curry leaves
+    raw: 1 small handful fresh curry leaves
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    unit: small handful
+    name: cilantro
+    raw: 1 small handful fresh cilantro
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 200
+    unit: ml
+    name: vegetable oil for shallow frying
+    raw: 200 ml vegetable oil for shallow frying
+  - name: lime wedges
+    raw: Lime wedges
+  - name: sweet chilli sauce
+    raw: Sweet chilli sauce
+  - name: cucumber
+    raw: Sliced cucumber

@@ -1,0 +1,32 @@
+prep: 25 minutes
+cook: 8-10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - eggs
+  - butter
+mentions:
+  - tutorials/patisserie/petit-fours
+ingredients:
+  - qty: 110
+    unit: g
+    name: butter
+    raw: 110 grams butter
+  - qty: 120
+    unit: g
+    name: icing sugar
+    raw: 120 grams icing sugar
+  - qty: 4
+    name: egg whites
+    raw: 4 egg whites
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - qty: 145
+    unit: g
+    name: self-raising flour
+    raw: 145 grams self-raising flour

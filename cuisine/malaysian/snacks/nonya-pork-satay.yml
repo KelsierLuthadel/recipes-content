@@ -1,0 +1,68 @@
+prep: 15 minutes
+cook: 9 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - peanuts
+  - shellfish
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - make-ahead
+  - asian
+  - meat
+  - fish
+  - beef
+  - pork
+  - onion
+  - coconut
+  - coriander
+  - nuts
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 450
+    unit: g
+    name: pork tenderloin
+    raw: 450 grams pork tenderloin
+  - qty: 1
+    unit: tbsp
+    name: soft light brown sugar
+    raw: 1 tablespoon soft light brown sugar
+  - qty: 1
+    name: shrimp paste
+    raw: 1 cm cube shrimp paste
+  - qty: 2
+    name: lemon grass stalks
+    raw: 2 lemon grass stalks
+  - qty: 2
+    unit: tbsp
+    name: coriander seeds
+    raw: 2 tablespoon coriander seeds
+  - qty: 6
+    name: blanched almonds
+    raw: 6 blanched almonds
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    name: red chillies
+    raw: 4 fresh red chillies
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 300
+    unit: ml
+    name: coconut milk
+    raw: 300 ml coconut milk
+  - qty: 2
+    unit: tbsp
+    name: peanut oil
+    raw: 2 tablespoon peanut oil
+  - name: salt
+    raw: salt

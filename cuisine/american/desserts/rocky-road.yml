@@ -1,0 +1,36 @@
+prep: 15 minutes (plus 2 hours chilling)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - butter
+  - chocolate
+  - complex
+  - halloween
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: milk chocolate
+    raw: 400 g milk chocolate
+  - qty: 125
+    unit: g
+    name: golden syrup
+    raw: 125 g golden syrup
+  - qty: 125
+    unit: g
+    name: unsalted butter
+    raw: 125 g unsalted butter
+  - qty: 100
+    unit: g
+    name: mini marshmallows
+    raw: 100 g mini marshmallows
+  - qty: 200
+    unit: g
+    name: digestive biscuits
+    raw: 200 g digestive biscuits
+  - qty: 200
+    unit: g
+    name: honeycomb chocolate bar
+    raw: 200 g honeycomb chocolate bar

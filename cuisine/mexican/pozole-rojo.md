@@ -1,30 +1,3 @@
----
-prep: 30 minutes
-cook: 2 hours 30 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - onion
-  - garlic
-  - lime
-  - chili
-  - complex
-mentions:
-  - cuisine/mexican/snacks/tostadas
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Pozole Rojo
 
 ![Pozole Rojo](resources/pozole-rojo.jpg)

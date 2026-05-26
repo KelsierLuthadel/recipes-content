@@ -1,0 +1,55 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - meat
+  - pork
+  - tomato
+  - lime
+mentions:
+  - cuisine/chilean/side-dishes/pebre
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: long soft hot dog rolls
+    raw: 4 long soft hot dog rolls
+  - qty: 4
+    name: frankfurters
+    raw: 4 good-quality frankfurters
+  - qty: 2
+    name: avocados
+    raw: 2 ripe avocados
+  - qty: 0.5
+    name: lime
+    raw: ½ lime
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 150
+    unit: g
+    name: sauerkraut
+    raw: 150 g sauerkraut
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tablespoons mayonnaise
+  - qty: 2
+    unit: tbsp
+    name: american yellow mustard
+    raw: 2 tablespoons American yellow mustard
+  - name: "optional: pebre"
+    raw: "Optional: pebre"

@@ -1,0 +1,118 @@
+prep: 25 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - make-ahead
+  - meals
+  - eggs
+  - onion
+  - garlic
+  - lime
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: cleaned conch meat
+    raw: 400 g cleaned conch meat
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 0.5
+    name: green capsicum
+    raw: ½ green capsicum
+  - qty: 0.5
+    name: red capsicum
+    raw: ½ red capsicum
+  - qty: 1
+    name: celery stalk
+    raw: 1 celery stalk
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 scotch bonnet
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons chopped flat-leaf parsley
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon freshly ground black pepper
+  - qty: 220
+    unit: g
+    name: plain flour
+    raw: 220 g plain flour
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 0.5
+    unit: tsp
+    name: cayenne
+    raw: ½ teaspoon cayenne
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 180
+    unit: ml
+    name: milk
+    raw: 180 ml milk
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tablespoons mayonnaise
+  - qty: 3
+    unit: tbsp
+    name: ketchup
+    raw: 3 tablespoons ketchup
+  - qty: 1
+    unit: tsp
+    name: bahamian hot sauce
+    raw: 1 teaspoon Bahamian hot sauce
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 1
+    unit: tsp
+    name: worcestershire sauce
+    raw: 1 teaspoon Worcestershire sauce
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - name: lime wedges
+    raw: Lime wedges

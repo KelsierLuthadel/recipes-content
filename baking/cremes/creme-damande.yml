@@ -1,0 +1,34 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - baking
+  - eggs
+  - butter
+mentions:
+  - base-ingredients/baking/tant-pour-tant
+  - tutorials/patisserie/tarts
+ingredients:
+  - qty: 250
+    unit: g
+    name: butter
+    raw: 250 grams butter
+  - qty: 500
+    unit: g
+    name: tant pour tant
+    raw: 500 grams Tant pour tant
+  - qty: 50
+    unit: g
+    name: flour
+    raw: 50 grams flour
+  - qty: 5
+    name: eggs
+    raw: 5 eggs
+  - qty: 50
+    unit: ml
+    name: rum
+    raw: 50 ml rum

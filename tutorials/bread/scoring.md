@@ -1,22 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - make-ahead
-mentions:
-  - tutorials/bread/bloomer
-  - tutorials/bread/coburg
-  - tutorials/bread/proving
-  - tutorials/bread/shapes
-  - tutorials/bread/sourdough
-  - tutorials/pizza/dough
----
-
-
-
 # Scoring and Oven Spring
 
 ![Bloomer scored](resources/scoring.jpg)

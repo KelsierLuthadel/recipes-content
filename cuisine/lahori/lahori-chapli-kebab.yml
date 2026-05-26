@@ -1,0 +1,99 @@
+prep: 20 minutes (plus 30 minutes rest)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - yogurt
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef
+    raw: 600 g minced beef
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 1
+    unit: tbsp
+    name: ginger-garlic paste
+    raw: 1 tablespoon ginger-garlic paste
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of fresh coriander
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 2
+    unit: tbsp
+    name: flour
+    raw: 2 tablespoons gram flour
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tablespoon cornflour
+  - qty: 1.5
+    unit: tbsp
+    name: coriander seeds
+    raw: 1 ½ tablespoons coriander seeds
+  - qty: 1
+    unit: tbsp
+    name: pomegranate seeds
+    raw: 1 tablespoon dried pomegranate seeds
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 teaspoon Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: garam masala
+    raw: ¼ teaspoon Garam Masala
+  - qty: 4
+    unit: tbsp
+    name: beef dripping
+    raw: 4 tablespoons beef dripping , for shallow-frying
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: red onion
+    raw: Sliced red onion
+  - name: mint-yogurt chutney
+    raw: Mint-yogurt chutney
+  - name: warm naan
+    raw: Warm naan

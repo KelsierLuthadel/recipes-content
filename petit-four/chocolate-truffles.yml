@@ -1,0 +1,36 @@
+prep: 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - butter
+  - cream
+  - chocolate
+mentions: []
+ingredients:
+  - qty: 450
+    unit: g
+    name: dark chocolate
+    raw: 450 grams dark chocolate
+  - qty: 150
+    unit: ml
+    name: double cream
+    raw: 150 milliliters double cream
+  - qty: 225
+    unit: g
+    name: butter
+    raw: 225 grams butter
+  - qty: 75
+    unit: ml
+    name: grand marnier liqueur
+    raw: 75 milliliters Grand Marnier liqueur
+  - qty: 300
+    unit: g
+    name: dark chocolate
+    raw: 300 grams dark chocolate
+  - qty: 500
+    unit: g
+    name: dark cocoa powder
+    raw: 500 grams dark cocoa powder

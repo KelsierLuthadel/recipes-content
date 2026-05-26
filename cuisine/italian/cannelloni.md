@@ -1,28 +1,3 @@
----
-prep: 10 minutes
-cook: 18 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - quick
-  - meals
-  - spinach
-  - butter
-  - cheese
-mentions:
-  - bread-pasta/pasta
-  - cuisine/italian/pesto
-  - tutorials/pasta/fresh-pasta-dough
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Cannelloni Filled with Rocket, Spinach, and Ricotta Cheese
 
 ![Cannelloni](resources/canelloni.jpg)

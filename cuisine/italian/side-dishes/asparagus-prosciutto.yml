@@ -1,0 +1,37 @@
+prep: 10 minutes
+cook: 5 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - meat
+  - pork
+mentions:
+  - sauces/sauce-savory/hollandaise-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 24
+    name: spears fresh asparagus
+    raw: 24 spears fresh asparagus
+  - qty: 8
+    name: prosciutto
+    raw: 8 slices prosciutto
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    unit: tbsp
+    name: balsamic vinegar
+    raw: 1 tablespoon balsamic vinegar
+  - qty: 175
+    unit: g
+    name: hollandaise sauce
+    raw: 175 grams hollandaise sauce
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

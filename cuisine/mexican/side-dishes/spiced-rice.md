@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-cook: 35 minutes
-allergens:
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - sides
-  - meat
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - chili
-mentions: []
----
-
-
-
-
 # Spiced Rice
 
 ![Spiced Rice](resources/spiced-rice.jpg)

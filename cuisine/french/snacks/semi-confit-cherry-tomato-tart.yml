@@ -1,0 +1,42 @@
+prep: 15 minutes
+cook: 75 minutes
+allergens:
+  - gluten
+  - dairy
+  - mustard
+tags:
+  - vegetarian
+  - snack
+  - rice
+  - tomato
+  - cream
+mentions:
+  - base-ingredients/vegetables/semi-confit-cherry-tomato
+ingredients:
+  - qty: 260
+    unit: g
+    name: shortcrust pastry
+    raw: 260 g shortcrust pastry
+  - qty: 4
+    unit: tbsp
+    name: white rice
+    raw: 4 tbsp white rice
+  - qty: 3
+    unit: tbsp
+    name: dijon mustard
+    raw: 3 tbsp strong Dijon mustard
+  - qty: 2
+    unit: tbsp
+    name: double cream
+    raw: 2 tbsp double cream
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 500
+    unit: g
+    name: semi-confit cherry tomatoes
+    raw: 500 g semi-confit cherry tomatoes
+  - qty: 6
+    name: basil leaves
+    raw: 6 basil leaves

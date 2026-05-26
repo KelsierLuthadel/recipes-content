@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 2 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - pastes
-  - garlic
-  - ginger
-  - coriander
-  - curry
-  - complex
-mentions: []
----
-
-
-
-
 # Tandoori Masala Paste
 
 ![Tandoori Masala Paste](resources/tandoori-masala-paste.jpg)

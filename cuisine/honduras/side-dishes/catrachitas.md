@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - sides
-  - onion
-  - tomato
-  - coriander
-  - cheese
-mentions:
-  - cuisine/mexican/side-dishes/refried-beans
-  - tutorials/pizza/cheese
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Catrachitas
 
 ![Catrachitas](resources/catrachitas.jpg)

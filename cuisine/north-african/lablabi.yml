@@ -1,0 +1,88 @@
+prep: 15 minutes
+cook: 30 minutes (assuming pre-cooked chickpeas)
+allergens:
+  - gluten
+  - eggs
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - eggs
+  - garlic
+  - lemon
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 400
+    unit: g
+    name: chickpeas plus 700 ml of their cooking liquid
+    raw: 400 g cooked chickpeas plus 700 ml of their cooking liquid
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 1
+    unit: tbsp
+    name: harissa paste
+    raw: 1 tablespoon harissa paste
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 2
+    name: stale baguette
+    raw: 2 thick slices stale baguette , torn into bite pieces
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: tsp
+    name: harissa paste
+    raw: 1 teaspoon harissa paste
+  - qty: 1
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 1 tablespoon extra-virgin olive oil
+  - qty: 0.5
+    unit: tbsp
+    name: lemon juice
+    raw: ½ tablespoon lemon juice
+  - qty: 2
+    unit: tbsp
+    name: tuna
+    raw: 2 tablespoons drained canned tuna
+  - qty: 5.5
+    name: black olives
+    raw: 5-6 black olives
+  - qty: 1
+    unit: tsp
+    name: capers
+    raw: 1 teaspoon capers
+  - qty: 1
+    unit: pinch
+    name: cumin
+    raw: A pinch of ground cumin
+  - name: lemon
+    raw: A small wedge of fresh lemon
+  - name: "optional: 1 teaspoon harissa-and-olive-oil paste; pickled chilli; mint leaves"
+    raw: "Optional: 1 teaspoon harissa-and-olive-oil paste; pickled chilli; mint leaves"

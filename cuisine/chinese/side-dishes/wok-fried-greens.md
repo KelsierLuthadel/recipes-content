@@ -1,30 +1,3 @@
----
-prep: 5 minutes
-cook: 5 minutes
-allergens:
-  - soy
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - sides
-  - asian
-  - garlic
-  - ginger
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Wok-Fried Greens
 
 ![Wok-Fried Greens](resources/wok-fried-greens.jpg)

@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - spices
-  - chili
-mentions:
-  - cuisine/mexican/jays-mixed-chilli
-  - cuisine/mexican/snacks/quesadillas
----
-
-
-
-
 # Taco Spice Mix
 
 ![Taco Spice Mix](resources/taco-spice.jpg)

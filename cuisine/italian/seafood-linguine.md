@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 4 minutes
-allergens:
-  - gluten
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - quick
-  - meals
-  - fish
-  - prawn
-  - garlic
-  - tomato
-  - lemon
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Seafood Linguine with Chilli and White Wine
 
 ![Seafood Linguine](resources/shrimp-and-pasta.jpg)

@@ -1,0 +1,58 @@
+prep: 12 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - onion
+  - tomato
+  - lemon
+  - coriander
+  - chili
+mentions:
+  - cuisine/afghanistan/kabuli-pulao
+ingredients:
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tablespoons fresh coriander
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tablespoon fresh mint
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon ground black pepper

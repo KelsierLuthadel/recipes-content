@@ -1,23 +1,3 @@
----
-prep: 5 minutes (plus 12-24 hours straining)
-cook: 0 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - make-ahead
-  - sides
-  - tomato
-  - yogurt
-  - complex
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Labneh
 
 ![Labneh](resources/labneh.jpg)

@@ -1,0 +1,21 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+  - asian
+  - rice
+mentions: []
+ingredients:
+  - qty: 400
+    unit: ml
+    name: long-grain rice
+    raw: 400 milliliters long-grain rice
+  - qty: 900
+    unit: ml
+    name: water
+    raw: 900 milliliters water

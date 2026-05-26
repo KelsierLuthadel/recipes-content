@@ -1,27 +1,3 @@
----
-prep: 20 minutes
-cook: 35 minutes (plus 4 hours chilling)
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - lemon
-  - butter
-  - cheese
-  - chocolate
-  - complex
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Cheesecake Brownies
 
 ![Cheesecake Brownies](resources/cheesecake-brownies.jpg)

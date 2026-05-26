@@ -1,30 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - onion
-  - garlic
-  - tomato
-  - coconut
-  - spinach
-  - chili
-  - kwanzaa
-mentions:
-  - cuisine/jamaican/side-dishes/rice-and-peas
----
-
-
-
-
 # Callaloo
 
 ![Callaloo](resources/callaloo.jpg)

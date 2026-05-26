@@ -1,0 +1,88 @@
+prep: 30 minutes (plus 2 hours rising)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: white bread flour
+    raw: 500 g strong white bread flour
+  - qty: 7
+    unit: g
+    name: instant yeast
+    raw: 7 g instant yeast
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 teaspoons ground cinnamon
+  - qty: 180
+    unit: ml
+    name: milk
+    raw: 180 ml warm milk
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 150
+    unit: g
+    name: dark brown sugar
+    raw: 150 g dark brown sugar
+  - qty: 2
+    unit: tbsp
+    name: cinnamon
+    raw: 2 tablespoons ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 200
+    unit: g
+    name: icing sugar
+    raw: 200 g icing sugar
+  - qty: 3.5
+    unit: tbsp
+    name: milk
+    raw: 3-4 tablespoons whole milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - name: purple
+    raw: Purple, green and gold food colourings
+  - qty: 1
+    name: plastic baby
+    raw: 1 plastic baby

@@ -1,0 +1,45 @@
+prep: 5 minutes
+cook: 25 minutes (basmati) or 45 minutes (with droma)
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - rice
+  - butter
+  - nuts
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: basmati rice
+    raw: 400 g basmati rice
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml water
+  - qty: 80
+    unit: g
+    name: butter
+    raw: 80 g butter
+  - qty: 70
+    unit: g
+    name: unsalted cashews
+    raw: 70 g unsalted cashews
+  - qty: 150
+    unit: g
+    name: raisins
+    raw: 150 g raisins
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 150
+    unit: g
+    name: droma
+    raw: 150 g droma
+  - qty: 800
+    name: ml-1 litre water
+    raw: 800 ml-1 litre water

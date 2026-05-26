@@ -1,0 +1,49 @@
+prep: 10 minutes
+cook: 2 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - onion
+  - coriander
+  - chickpea
+  - curry
+mentions:
+  - cuisine/indian/sauces-pickles/cucumber-raita
+  - cuisine/indian/side-dishes/cucumber-raita
+  - cuisine/indian/snacks/onion-bahjis
+ingredients:
+  - qty: 250
+    unit: g
+    name: flour
+    raw: 250 grams gram flour
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 teaspoon chilli powder
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 teaspoon coriander seeds
+  - name: salt
+    raw: Salt to taste
+  - qty: 3
+    name: onions
+    raw: 3 onions
+  - qty: 6
+    name: curry leaves
+    raw: 6 fresh curry leaves
+  - name: water
+    raw: Water
+  - name: sunflower oil
+    raw: Sunflower oil

@@ -1,0 +1,97 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - peanuts
+  - fish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - asian
+  - meat
+  - fish
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - carrot
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: chicken breasts
+    raw: 2 chicken breasts
+  - qty: 1
+    name: ginger
+    raw: 1 thumb-sized piece of ginger
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 400
+    unit: g
+    name: white cabbage
+    raw: 400 g white cabbage
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 2
+    unit: tbsp
+    name: rice vinegar
+    raw: 2 tablespoons rice vinegar
+  - qty: 0.5
+    unit: tsp
+    name: caster sugar
+    raw: ½ teaspoon caster sugar
+  - qty: 1
+    unit: large handful
+    name: mint leaves
+    raw: A large handful mint leaves
+  - qty: 1
+    unit: large handful
+    name: vietnamese coriander or regular coriander
+    raw: A large handful Vietnamese coriander or regular coriander
+  - qty: 2
+    unit: tbsp
+    name: crispy fried shallots
+    raw: 2 tablespoons crispy fried shallots
+  - qty: 3
+    unit: tbsp
+    name: roasted peanuts
+    raw: 3 tablespoons roasted peanuts
+  - qty: 3
+    unit: tbsp
+    name: lime juice
+    raw: 3 tablespoons lime juice
+  - qty: 3
+    unit: tbsp
+    name: fish sauce
+    raw: 3 tablespoons fish sauce
+  - qty: 3
+    unit: tbsp
+    name: caster sugar
+    raw: 3 tablespoons caster sugar
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons warm water
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: bird's-eye chilli
+    raw: 1 bird's-eye chilli

@@ -1,0 +1,74 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - soy
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - beef
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - chili
+  - soy-sauce
+mentions:
+  - cuisine/chinese/fried-rice
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 250
+    unit: g
+    name: beef mince
+    raw: 250 grams beef mince
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1
+    name: long red chilli
+    raw: 1 long red chilli
+  - qty: 0.5
+    unit: tsp
+    name: shrimp paste
+    raw: ½ teaspoon shrimp paste
+  - qty: 1
+    name: beef stock cube
+    raw: 1 beef stock cube
+  - qty: 4
+    unit: cup
+    name: rice
+    raw: 4 cups cooked rice
+  - qty: 2
+    unit: tbsp
+    name: soy sauce
+    raw: 2 tablespoons soy sauce
+  - qty: 2
+    unit: tsp
+    name: kecap manis
+    raw: 2 teaspoons kecap manis
+  - qty: 0.25
+    unit: cup
+    name: fried shallots
+    raw: ¼ cup fried shallots
+  - name: cucumber
+    raw: Sliced cucumber
+  - name: tomato
+    raw: Sliced tomato
+  - name: sambal oelek
+    raw: Sambal oelek

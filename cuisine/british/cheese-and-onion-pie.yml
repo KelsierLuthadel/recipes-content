@@ -1,0 +1,66 @@
+prep: 30 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - onion
+  - potato
+  - butter
+  - cheese
+mentions:
+  - cuisine/british/side-dishes/mushy-peas
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 175
+    unit: g
+    name: cold unsalted butter or half butter half lard
+    raw: 175 g cold unsalted butter or half butter half lard
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 5
+    unit: tbsp
+    name: water
+    raw: 4-6 tablespoons cold water
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 4
+    name: onions
+    raw: 4 onions
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 300
+    unit: g
+    name: floury potatoes
+    raw: 300 g floury potatoes
+  - qty: 400
+    unit: g
+    name: cheddar cheese
+    raw: 400 g mature cheddar cheese
+  - qty: 2
+    unit: tsp
+    name: english mustard
+    raw: 2 teaspoons English mustard
+  - qty: 1
+    unit: tsp
+    name: thyme leaves
+    raw: 1 teaspoon fresh thyme leaves
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

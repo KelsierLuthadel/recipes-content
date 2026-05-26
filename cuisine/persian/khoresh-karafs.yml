@@ -1,0 +1,83 @@
+prep: 25 minutes
+cook: 1 hour 45 minutes
+allergens:
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - rice
+  - onion
+  - garlic
+  - lemon
+  - complex
+mentions:
+  - cuisine/iran/tahdig
+ingredients:
+  - qty: 600
+    unit: g
+    name: lamb shoulder
+    raw: 600 g lamb shoulder
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tablespoons sunflower oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1.5
+    unit: tsp
+    name: turmeric
+    raw: 1 ½ teaspoons ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml water
+  - qty: 1
+    name: head celery
+    raw: 1 large head celery
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tablespoons sunflower oil
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 large bunch fresh flat-leaf parsley
+  - qty: 1
+    name: mint
+    raw: 1 small bunch fresh mint
+  - qty: 1
+    unit: handful
+    name: celery leaves
+    raw: A handful of celery leaves
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: persian chelo rice with tahdig
+    raw: Persian chelo rice with tahdig

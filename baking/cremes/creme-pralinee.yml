@@ -1,0 +1,33 @@
+prep: 10 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - baking
+  - nuts
+mentions:
+  - tutorials/patisserie/tarts
+ingredients:
+  - qty: 500
+    unit: g
+    name: creme patissiere
+    raw: 500 grams Crème pâtissière
+  - qty: 500
+    unit: g
+    name: creme chantilly
+    raw: 500 grams Crème Chantilly
+  - qty: 150
+    unit: g
+    name: praline
+    raw: 150 grams praline
+  - qty: 100
+    unit: g
+    name: hazelnuts
+    raw: 100 grams hazelnuts
+  - qty: 1
+    unit: pinch
+    name: icing sugar
+    raw: 1 pinch icing sugar

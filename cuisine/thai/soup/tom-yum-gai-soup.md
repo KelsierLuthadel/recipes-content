@@ -1,39 +1,3 @@
----
-prep: 10 minutes
-cook: 20 minutes
-allergens:
-  - fish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - fish
-  - chicken
-  - mushroom
-  - onion
-  - garlic
-  - tomato
-  - carrot
-  - lime
-  - coriander
-  - chili
-  - complex
-mentions:
-  - base-ingredients/sambal/nam-prik-pao
-  - cuisine/thai/side-dishes/nam-prik-pao
-  - cuisine/thai/soup/tom-yum-goong
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tom Yum Gai Soup (Hot and Sour Chicken Soup)
 
 ![Tom Yum Gai Soup (Hot and Sour Chicken Soup)](resources/tom-yum-gai-soup.jpg)
@@ -67,7 +31,7 @@ When you go out for Thai food this is sure to be on the menu. I love the spicine
 - 8 mushrooms, quartered
 - 2 tomatoes, quartered
 - 3 spring onions (scallions), roughly chopped
-- Handful of chopped (or sliced vegetables), such as cabbage, bean sprouts, carrots (optional)
+- Handful of chopped or sliced vegetables, such as cabbage, bean sprouts, carrots (optional)
 
 ### Seasonings
 - 1 tbsp tamarind paste

@@ -1,0 +1,74 @@
+prep: 20 minutes
+cook: 3 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - carrot
+  - chili
+  - complex
+mentions:
+  - cuisine/zimbabwe/side-dishes/sadza
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: oxtail
+    raw: 1 ½ kg oxtail
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 4
+    name: tomatoes or 1 tin
+    raw: 4 tomatoes or 1 tin
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato puree
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: beef stock cube
+    raw: 1 beef stock cube
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: chilli
+    raw: 1 fresh chilli
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre hot water
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - name: salt
+    raw: Salt to taste

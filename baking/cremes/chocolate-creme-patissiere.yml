@@ -1,0 +1,35 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - baking
+  - eggs
+  - chocolate
+mentions: []
+ingredients:
+  - qty: 6
+    name: egg yolks
+    raw: 6 egg yolks
+  - qty: 125
+    unit: g
+    name: sugar
+    raw: 125 grams sugar
+  - qty: 40
+    unit: g
+    name: flour
+    raw: 40 grams flour
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml milk
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 75
+    unit: g
+    name: chocolate
+    raw: 75 grams chocolate

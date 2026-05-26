@@ -1,0 +1,48 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - potato
+  - butter
+  - st-patricks
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: floury potatoes
+    raw: 250 g floury potatoes
+  - qty: 250
+    unit: g
+    name: floury potatoes
+    raw: 250 g floury potatoes
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter

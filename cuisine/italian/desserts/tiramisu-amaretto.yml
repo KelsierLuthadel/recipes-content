@@ -1,0 +1,44 @@
+prep: 5 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - make-ahead
+  - eggs
+  - cream
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 90
+    unit: ml
+    name: amaretto liqueur
+    raw: 90 ml Amaretto liqueur
+  - qty: 300
+    unit: ml
+    name: espresso coffee
+    raw: 300 ml Espresso coffee
+  - qty: 45
+    unit: g
+    name: caster sugar
+    raw: 45 grams caster sugar
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 250
+    unit: g
+    name: mascarpone cheese
+    raw: 250 grams mascarpone cheese
+  - qty: 30
+    name: savoiardi biscuits
+    raw: 30 Savoiardi Biscuits
+  - name: cocoa powder
+    raw: cocoa powder

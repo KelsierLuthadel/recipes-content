@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - dessert
-  - eggs
-  - butter
-  - chocolate
-  - valentines
-mentions:
-  - sauces/sauce-sweet/chocolate-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chocolate Soufflé
 
 ![Chocolate Soufflé](resources/chocolate-souffle.jpg)

@@ -1,36 +1,3 @@
----
-prep: 30 minutes
-cook: 1 ½ hours
-allergens:
-  - dairy
-  - eggs
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - eggs
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - butter
-  - complex
-  - kwanzaa
-mentions:
-  - base-ingredients/spices/berbere
-  - cuisine/lebanese/kibbeh
-  - cuisine/middle-east/kibbeh
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Doro Wat
 
 ![Doro Wat](resources/doro-wat.jpg)

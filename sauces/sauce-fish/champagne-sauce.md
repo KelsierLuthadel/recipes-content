@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - fish
-tags:
-  - gluten-free
-  - fish
-  - mushroom
-  - onion
-  - butter
-  - cream
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Champagne Sauce
 
 ![Champagne sauce](resources/champagne-sauce.jpg)

@@ -1,0 +1,30 @@
+prep: 20 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - ginger
+  - coconut
+  - cream
+mentions:
+  - tutorials/patisserie/tarts
+ingredients:
+  - qty: 750
+    unit: ml
+    name: creme anglaise
+    raw: 750 ml crème anglaise
+  - qty: 75
+    unit: g
+    name: stem ginger
+    raw: 75 grams stem ginger
+  - qty: 30
+    unit: g
+    name: desiccated coconut
+    raw: 30 grams desiccated coconut
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream

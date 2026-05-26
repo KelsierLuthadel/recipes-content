@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 1 hour 35 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 5
+    name: lamb ribs
+    raw: 5 pieces lamb ribs
+  - qty: 100
+    unit: ml
+    name: olive oil
+    raw: 100 ml olive oil
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: cayenne pepper flakes
+    raw: 1 teaspoon cayenne pepper flakes
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    name: red pointed paprika
+    raw: 1 red pointed paprika
+  - qty: 1
+    name: green pointed paprika
+    raw: 1 green pointed paprika
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    name: fresh-baked naan
+    raw: 1 fresh-baked naan , cut into pizza-like wedges

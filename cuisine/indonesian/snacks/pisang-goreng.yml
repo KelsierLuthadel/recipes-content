@@ -1,0 +1,55 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - snack
+  - asian
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 6
+    name: saba bananas
+    raw: 6 saba bananas
+  - qty: 100
+    unit: g
+    name: rice flour
+    raw: 100 g rice flour
+  - qty: 50
+    unit: g
+    name: plain flour
+    raw: 50 g plain flour
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 180
+    unit: ml
+    name: sparkling water
+    raw: 180 ml cold sparkling water
+  - qty: 600
+    unit: ml
+    name: neutral oil
+    raw: 600 ml neutral oil
+  - name: icing sugar
+    raw: Icing sugar
+  - name: palm-sugar syrup
+    raw: Palm-sugar syrup
+  - name: cheese
+    raw: Grated mature cheese

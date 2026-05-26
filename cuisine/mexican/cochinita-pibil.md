@@ -1,30 +1,3 @@
----
-prep: 20 minutes (plus 6 hours marinade)
-cook: 4 hours
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - onion
-  - garlic
-  - lime
-  - coriander
-  - chili
-  - complex
-  - day-of-the-dead
-mentions: []
----
-
-
-
-
 # Cochinita Pibil
 
 ![Cochinita Pibil](resources/cochinita-pibil.jpg)

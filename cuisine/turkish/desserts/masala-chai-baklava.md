@@ -1,26 +1,3 @@
----
-prep: 30 minutes
-cook: 50 minutes (plus syrup time)
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - one-pan
-  - ginger
-  - butter
-  - honey
-  - nuts
-mentions:
-  - baking/pastry/filo-pastry
-  - tutorials/pastry/filo
----
-
-
-
-
 # Masala Chai Baklava
 
 ![Masala Chai Baklava](resources/masala-chai-baklava.jpg)

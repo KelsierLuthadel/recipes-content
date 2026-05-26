@@ -1,0 +1,114 @@
+prep: 30 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - peanuts
+  - sesame
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - spicy
+  - snack
+  - asian
+  - meat
+  - fish
+  - pork
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - butter
+  - nuts
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: pork belly
+    raw: 300 g piece of pork belly
+  - qty: 12
+    name: prawns
+    raw: 12 raw prawns
+  - qty: 1
+    name: ginger
+    raw: 1 thumb-sized piece of ginger
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 100
+    unit: g
+    name: rice vermicelli noodles
+    raw: 100 g rice vermicelli noodles
+  - qty: 2
+    unit: tsp
+    name: toasted sesame oil
+    raw: 2 teaspoons toasted sesame oil
+  - qty: 12
+    name: sheets rice paper
+    raw: 12 sheets rice paper
+  - qty: 1
+    name: head butter lettuce
+    raw: 1 small head butter lettuce
+  - qty: 1
+    unit: large handful
+    name: mint leaves
+    raw: A large handful mint leaves
+  - qty: 1
+    unit: large handful
+    name: coriander leaves
+    raw: A large handful coriander leaves
+  - qty: 1
+    unit: large handful
+    name: thai basil leaves
+    raw: A large handful Thai basil leaves
+  - qty: 1
+    unit: handful
+    name: chives
+    raw: A handful chives
+  - qty: 0.5
+    name: cucumber
+    raw: ½ cucumber
+  - qty: 4
+    unit: tbsp
+    name: hoisin sauce
+    raw: 4 tablespoons hoisin sauce
+  - qty: 2
+    unit: tbsp
+    name: smooth peanut butter
+    raw: 2 tablespoons smooth peanut butter
+  - qty: 2
+    unit: tbsp
+    name: rice vinegar
+    raw: 2 tablespoons rice vinegar
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 60-100 ml hot water
+  - qty: 1
+    name: bird's-eye chilli
+    raw: 1 bird's-eye chilli
+  - qty: 2
+    unit: tbsp
+    name: roasted peanuts
+    raw: 2 tablespoons crushed roasted peanuts
+  - qty: 1
+    unit: tsp
+    name: hot chilli oil
+    raw: 1 teaspoon hot chilli oil

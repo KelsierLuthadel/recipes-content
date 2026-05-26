@@ -1,24 +1,3 @@
----
-prep: 15 minutes (plus 1 hour rising)
-cook: 20 minutes
-allergens:
-  - gluten
-  - sesame
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - make-ahead
-  - sides
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Manakish Zaatar
 
 ![Manakish Zaatar](resources/manakish-zaatar.jpg)

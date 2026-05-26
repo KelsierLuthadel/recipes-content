@@ -1,0 +1,96 @@
+prep: 15 minutes (plus 30 minutes soak)
+cook: 35 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - rice
+  - nuts
+  - complex
+mentions:
+  - cuisine/indian/biryani
+ingredients:
+  - qty: 400
+    unit: g
+    name: basmati rice
+    raw: 400 g aged basmati rice
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 0.25
+    unit: tsp
+    name: saffron threads
+    raw: ¼ teaspoon saffron threads
+  - qty: 1
+    unit: tsp
+    name: orange food colouring
+    raw: 1 teaspoon orange food colouring
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 300
+    unit: g
+    name: caster sugar
+    raw: 300 g caster sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 4
+    unit: tbsp
+    name: ghee
+    raw: 4 tablespoons ghee
+  - qty: 50
+    unit: g
+    name: raisins
+    raw: 50 g raisins
+  - qty: 30
+    unit: g
+    name: flaked almonds
+    raw: 30 g flaked almonds
+  - qty: 30
+    unit: g
+    name: cashew halves
+    raw: 30 g cashew halves
+  - qty: 30
+    unit: g
+    name: pistachios
+    raw: 30 g pistachios
+  - qty: 50
+    unit: g
+    name: candied
+    raw: 50 g candied
+  - qty: 20
+    unit: g
+    name: charoli
+    raw: 20 g charoli
+  - qty: 1
+    unit: tbsp
+    name: rose water
+    raw: 1 tablespoon rose water
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 2
+    unit: tbsp
+    name: silver leaf
+    raw: 2 tablespoons silver leaf

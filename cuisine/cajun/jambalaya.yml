@@ -1,0 +1,88 @@
+prep: 25 minutes
+cook: 17 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - spicy
+  - one-pan
+  - meals
+  - meat
+  - fish
+  - pork
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - cream
+  - cheese
+  - complex
+mentions:
+  - base-ingredients/spices/creole-mix
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 12
+    name: shrimp
+    raw: 12 shrimp
+  - qty: 2
+    name: chicken breast fillets
+    raw: 2 chicken breast fillets
+  - qty: 1
+    name: andouille sausage
+    raw: 1 Andouille sausage
+  - qty: 250
+    unit: g
+    name: penne pasta
+    raw: 250 grams penne pasta
+  - qty: 230
+    unit: ml
+    name: chicken stock
+    raw: 230 ml chicken stock
+  - qty: 350
+    unit: ml
+    name: tomatoes
+    raw: 350 ml chopped tomatoes
+  - qty: 230
+    unit: ml
+    name: double cream
+    raw: 230 ml double cream
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper
+  - qty: 1
+    name: jalapeno
+    raw: 1 jalapeño
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon fresh thyme
+  - qty: 3
+    unit: tbsp
+    name: basil
+    raw: 3 tablespoons fresh basil
+  - qty: 3
+    unit: tsp
+    name: cajun
+    raw: 3 teaspoons cajun
+  - qty: 75
+    unit: g
+    name: parmesan cheese
+    raw: 75 grams Parmesan cheese
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

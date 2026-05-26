@@ -1,0 +1,92 @@
+prep: 15 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - lamb
+  - garlic
+  - tomato
+  - ginger
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/BIR-Chicken-Vindaloo
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - sauces/fruit-sauce/mango-chutney
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: rapeseed oil
+    raw: 3 tbsp rapeseed oil
+  - qty: 3
+    name: kashmiri dried red chillies
+    raw: 2-4 Kashmiri dried red chillies, to taste
+  - name: green cardamom pods
+    raw: A few green cardamom pods, lightly bruised
+  - qty: 3
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 3 tbsp garlic and ginger paste
+  - qty: 2
+    name: green chillies
+    raw: 2 fresh green chillies
+  - qty: 125
+    unit: ml
+    name: tomato puree
+    raw: 125ml tomato purée
+  - qty: 2
+    unit: tbsp
+    name: cumin
+    raw: 2 tbsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 0.25
+    unit: tsp
+    name: turmeric
+    raw: ¼ tsp ground turmeric
+  - qty: 1.5
+    unit: tbsp
+    name: chilli powder
+    raw: 1-2 tbsp chilli powder
+  - qty: 2
+    unit: tbsp
+    name: mixed powder
+    raw: 2 tbsp mixed powder
+  - qty: 500
+    unit: ml
+    name: curry base gravy
+    raw: 500ml Curry Base Gravy
+  - qty: 800
+    unit: g
+    name: pre-cooked stewed lamb
+    raw: 800g pre-cooked stewed lamb
+  - qty: 250
+    unit: ml
+    name: curry base gravy
+    raw: 250ml of Curry Base Gravy
+  - qty: 1.5
+    unit: tbsp
+    name: smooth mango chutney
+    raw: 1-2 tbsp smooth mango chutney
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 1
+    unit: pinch
+    name: garam masala
+    raw: Pinch of garam masala
+  - name: coriander
+    raw: Fresh coriander to garnish
+  - name: salt
+    raw: Salt

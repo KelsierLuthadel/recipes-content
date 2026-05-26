@@ -1,0 +1,37 @@
+prep: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - baking
+  - cream
+  - chocolate
+mentions: []
+ingredients:
+  - qty: 500
+    unit: ml
+    name: whipping cream
+    raw: 500 ml whipping cream
+  - qty: 50
+    unit: g
+    name: icing sugar
+    raw: 50 grams icing sugar
+  - qty: 2
+    unit: drop
+    name: vanilla extract
+    raw: 2 drops vanilla extract
+  - qty: 150
+    unit: g
+    name: plain chocolate
+    raw: 150 grams plain chocolate
+  - qty: 1
+    unit: tbsp
+    name: milk
+    raw: 1 tablespoon hot milk
+  - qty: 1
+    unit: tbsp
+    name: coffee extract
+    raw: 1 tablespoon coffee extract

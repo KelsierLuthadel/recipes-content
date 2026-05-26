@@ -1,27 +1,3 @@
----
-prep: 1 hour (plus 1 hour resting)
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-  - sesame
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - butter
-  - honey
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Chebakia (Sesame Honey Rosettes)
 
 ![Chebakia](resources/chebakia.jpg)

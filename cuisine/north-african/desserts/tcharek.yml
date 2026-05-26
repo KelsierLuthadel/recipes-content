@@ -1,0 +1,88 @@
+prep: 1 hour (plus 30 minutes resting)
+cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: almonds
+    raw: 250 g ground almonds
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: tbsp
+    name: orange-flower water
+    raw: 1 tablespoon orange-flower water
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 120
+    unit: g
+    name: unsalted butter
+    raw: 120 g unsalted butter
+  - qty: 50
+    unit: g
+    name: icing sugar
+    raw: 50 g icing sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    unit: tbsp
+    name: orange-flower water
+    raw: 1 tablespoon orange-flower water
+  - qty: 2.5
+    unit: tbsp
+    name: water
+    raw: 2-3 tablespoons cold water
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tbsp
+    name: orange-flower water
+    raw: 1 tablespoon orange-flower water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar

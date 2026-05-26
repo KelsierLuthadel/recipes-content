@@ -1,0 +1,41 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - meals
+  - garlic
+  - cheese
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: ciabatta bread mix
+    raw: 250 grams ciabatta bread mix
+  - name: plain flour
+    raw: Plain flour
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: red chilli
+    raw: 1 red chilli
+  - qty: 100
+    unit: g
+    name: kale
+    raw: 100 grams kale
+  - qty: 8
+    unit: tbsp
+    name: ricotta cheese
+    raw: 8 tablespoons ricotta cheese

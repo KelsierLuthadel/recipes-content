@@ -1,28 +1,3 @@
----
-prep: 10 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-  - peanuts
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - sides
-  - onion
-  - garlic
-  - tomato
-  - butter
-  - nuts
-mentions:
-  - cuisine/zimbabwe/dovi
-  - cuisine/zimbabwe/side-dishes/sadza
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Muriwo Une Dovi
 
 ![Muriwo une Dovi](resources/muriwo-une-dovi.jpg)

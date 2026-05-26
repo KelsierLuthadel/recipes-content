@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 4 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - asian
-  - onion
-mentions:
-  - cuisine/indian/Breads/rotis
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Cold Onion Chutney
 
 ![Cold Onion Chutney](resources/onion-chutney.jpg)

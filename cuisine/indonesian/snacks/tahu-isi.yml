@@ -1,0 +1,108 @@
+prep: 30 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - soy
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - snack
+  - asian
+  - tofu
+  - onion
+  - garlic
+  - ginger
+  - carrot
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 6
+    name: blocks firm tofu
+    raw: 6 blocks firm tofu
+  - qty: 2
+    unit: tbsp
+    name: neutral oil
+    raw: 2 tablespoons neutral oil
+  - qty: 2
+    name: shallots
+    raw: 2 shallots
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 20
+    unit: g
+    name: ginger
+    raw: 20 g fresh ginger
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 150
+    unit: g
+    name: savoy
+    raw: 150 g savoy
+  - qty: 100
+    unit: g
+    name: mung bean sprouts
+    raw: 100 g mung bean sprouts
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    unit: tbsp
+    name: kecap manis
+    raw: 1 tablespoon kecap manis
+  - qty: 1
+    unit: tbsp
+    name: soy sauce
+    raw: 1 tablespoon soy sauce
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - qty: 80
+    unit: g
+    name: rice flour
+    raw: 80 g rice flour
+  - qty: 40
+    unit: g
+    name: plain flour
+    raw: 40 g plain flour
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml cold water
+  - qty: 600
+    unit: ml
+    name: neutral oil
+    raw: 600 ml neutral oil
+  - qty: 12
+    name: bird's-eye chillies
+    raw: 12 fresh bird's-eye chillies
+  - name: kecap manis
+    raw: Kecap manis
+  - name: cucumber slices
+    raw: Cucumber slices

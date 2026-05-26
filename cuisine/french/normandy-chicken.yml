@@ -1,0 +1,67 @@
+prep: 15 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+  - celery
+tags:
+  - gluten-free
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - butter
+  - cream
+  - valentines
+  - tu-bav
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 6
+    name: chicken legs
+    raw: 6 chicken legs
+  - qty: 40
+    unit: g
+    name: butter
+    raw: 40 grams butter
+  - qty: 8
+    name: shallots
+    raw: 8 shallots
+  - qty: 3
+    unit: stick
+    name: celery
+    raw: 3 sticks celery , plus leaves for garnish
+  - qty: 300
+    unit: ml
+    name: dry cider
+    raw: 300 ml dry cider
+  - qty: 300
+    unit: ml
+    name: chicken stock
+    raw: 300 ml chicken stock
+  - qty: 2
+    name: apples
+    raw: 2 apples
+  - qty: 2
+    unit: tsp
+    name: cornflour
+    raw: 2 teaspoons cornflour
+  - qty: 5
+    unit: tbsp
+    name: creme fraiche
+    raw: 5 tablespoons crème fraîche
+  - qty: 2
+    unit: tbsp
+    name: dijon mustard
+    raw: 2 tablespoons Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: tarragon
+    raw: 1 tablespoon chopped tarragon
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

@@ -1,0 +1,41 @@
+prep: 10 minutes (plus 15 minutes resting)
+cook: 15 minutes
+allergens:
+  - gluten
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - sides
+mentions:
+  - cuisine/bengali/side-dishes/shukto
+ingredients:
+  - qty: 1
+    name: round aubergine
+    raw: 1 round aubergine
+  - qty: 1.5
+    unit: tsp
+    name: turmeric
+    raw: 1 ½ tsp turmeric
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 tsp Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: sugar
+    raw: ½ tsp sugar
+  - qty: 2
+    unit: tbsp
+    name: rice flour
+    raw: 2 tbsp rice flour
+  - qty: 6
+    unit: tbsp
+    name: mustard oil
+    raw: 6 tbsp mustard oil

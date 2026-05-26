@@ -1,26 +1,3 @@
----
-prep: 45 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - mustard
-tags:
-  - vegetarian
-  - snack
-  - eggs
-  - mushroom
-  - onion
-  - butter
-  - complex
-mentions:
-  - cuisine/polish/barszcz-czerwony
----
-
-
-
-
 # Krokiety
 
 ![Krokiety](resources/krokiety.jpg)

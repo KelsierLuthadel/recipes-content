@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour
-allergens:
-  - eggs
-  - garlic
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - meals
-  - eggs
-  - onion
-  - garlic
-  - tomato
-  - cheese
-mentions: []
----
-
-
-
-
 # Pisto Manchego
 
 ![Pisto Manchego](resources/pisto-manchego.jpg)

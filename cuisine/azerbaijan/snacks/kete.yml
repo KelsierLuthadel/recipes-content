@@ -1,0 +1,79 @@
+prep: 30 minutes (plus 1 hour rising)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - onion
+  - coriander
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 5
+    unit: g
+    name: instant yeast
+    raw: 5 g instant yeast
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml warm milk
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 40
+    unit: g
+    name: coriander
+    raw: 40 g fresh coriander
+  - qty: 30
+    unit: g
+    name: dill
+    raw: 30 g fresh dill
+  - qty: 30
+    unit: g
+    name: mint
+    raw: 30 g fresh mint
+  - qty: 30
+    unit: g
+    name: spring onion
+    raw: 30 g spring onion
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon ground black pepper
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk

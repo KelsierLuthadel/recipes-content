@@ -1,32 +1,3 @@
----
-prep: 30 minutes (plus 4 hours chilling)
-cook: 20 minutes (in batches)
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - mustard
-  - garlic
-tags:
-  - vegetarian
-  - spicy
-  - snack
-  - make-ahead
-  - eggs
-  - butter
-  - cheese
-  - chili
-  - complex
-mentions:
-  - cuisine/american/side-dishes/mac-and-cheese
-  - sauces/sauce-savory/cheese-sauce
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mac 'n' Cheese Bites
 
 ![Mac 'n' Cheese Bites](resources/mac-n-cheese-bites.jpg)

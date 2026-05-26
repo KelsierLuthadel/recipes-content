@@ -1,0 +1,60 @@
+prep: 10 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - spices
+  - chili
+mentions:
+  - cuisine/mexican/jays-mixed-chilli
+  - cuisine/mexican/snacks/quesadillas
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: sweet paprika
+    raw: 2 tablespoons sweet paprika
+  - qty: 1
+    unit: tbsp
+    name: smoked paprika
+    raw: 1 tablespoon smoked paprika
+  - qty: 2
+    unit: tbsp
+    name: cumin
+    raw: 2 tablespoons ground cumin
+  - qty: 1
+    unit: tbsp
+    name: chilli powder
+    raw: 1 tablespoon chilli powder
+  - qty: 1
+    unit: tbsp
+    name: garlic powder
+    raw: 1 tablespoon garlic powder
+  - qty: 1
+    unit: tbsp
+    name: onion powder
+    raw: 1 tablespoon onion powder
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: red chilli flakes
+    raw: ½ teaspoon dried red chilli flakes
+  - qty: 0.5
+    unit: tsp
+    name: caster sugar
+    raw: ½ teaspoon caster sugar

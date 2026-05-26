@@ -1,0 +1,55 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - curry
+mentions:
+  - tutorials/bir-curry/bir-curry
+  - tutorials/pizza/sauce
+  - tutorials/thai-curry/coconut-milk
+  - tutorials/thai-curry/green
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: green curry paste
+    raw: 2 tablespoons green curry paste
+  - qty: 1
+    name: x 400 ml tin full-fat coconut milk
+    raw: 1 x 400 ml tin full-fat coconut milk
+  - qty: 300
+    unit: g
+    name: chicken thigh
+    raw: 300 g chicken thigh, cut into 3 cm pieces
+  - qty: 100
+    unit: g
+    name: thai aubergines or bamboo shoots
+    raw: 100 g Thai aubergines or bamboo shoots
+  - qty: 4
+    name: kaffir lime leaves
+    raw: 4 kaffir lime leaves
+  - qty: 2
+    name: long red chillies
+    raw: 2 long red chillies
+  - qty: 1
+    unit: tbsp
+    name: fish sauce
+    raw: 1 tablespoon fish sauce
+  - qty: 1
+    unit: tbsp
+    name: palm sugar
+    raw: 1 tablespoon palm sugar
+  - qty: 1
+    unit: small handful
+    name: thai basil leaves
+    raw: Small handful Thai basil leaves
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - name: steamed jasmine rice
+    raw: Steamed jasmine rice
+  - name: lime per plate
+    raw: A wedge of lime per plate
+  - name: coriander
+    raw: Fresh coriander to garnish

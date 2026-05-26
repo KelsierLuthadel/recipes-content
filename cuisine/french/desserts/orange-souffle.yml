@@ -1,0 +1,60 @@
+prep: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+mentions: []
+ingredients:
+  - qty: 40
+    unit: g
+    name: butter
+    raw: 40 grams butter
+  - qty: 70
+    unit: g
+    name: caster sugar
+    raw: 70 grams caster sugar
+  - qty: 40
+    unit: g
+    name: caster sugar
+    raw: 40 grams caster sugar
+  - qty: 250
+    unit: ml
+    name: squeezed orange juice
+    raw: 250 ml freshly squeezed orange juice
+  - qty: 125
+    unit: ml
+    name: milk
+    raw: 125 ml milk
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 6
+    name: egg whites
+    raw: 6 egg whites
+  - qty: 10
+    unit: g
+    name: plain flour
+    raw: 10 grams plain flour
+  - qty: 10
+    unit: g
+    name: cornflour
+    raw: 10 grams cornflour
+  - name: zest of 2 oranges
+    raw: very finely grated zest of 2 oranges
+  - qty: 30
+    unit: ml
+    name: grand marnier
+    raw: 30 ml Grand Marnier
+  - qty: 30
+    unit: g
+    name: icing sugar
+    raw: 30 grams icing sugar
+  - qty: 4
+    name: oranges
+    raw: 4 oranges

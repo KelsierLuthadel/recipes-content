@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-cook: 2 minutes
-allergens:
-  - peanuts
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - pastes
-  - fish
-  - onion
-  - garlic
-  - lemon
-  - lime
-  - coriander
-  - chili
-  - curry
-mentions: []
----
-
-
-
-
 # Thai Red Curry Paste (Kruang Kaeng Dang)
 
 ![Thai Red Curry Paste](resources/thai-red.jpg)

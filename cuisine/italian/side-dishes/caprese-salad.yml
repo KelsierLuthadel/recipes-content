@@ -1,0 +1,36 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - tomato
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes
+  - qty: 250
+    unit: g
+    name: buffalo mozzarella
+    raw: 250 g buffalo mozzarella
+  - qty: 1
+    name: basil
+    raw: A small bunch of fresh basil
+  - qty: 4
+    unit: tbsp
+    name: excellent extra virgin olive oil
+    raw: 4 tablespoons excellent extra virgin olive oil
+  - name: flaky sea salt
+    raw: Flaky sea salt
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 1
+    unit: drizzle
+    name: balsamic vinegar
+    raw: A drizzle of aged balsamic vinegar

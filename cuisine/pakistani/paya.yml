@@ -1,0 +1,119 @@
+prep: 30 minutes
+cook: 6 hours (or 2 hours pressure cooker)
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 8
+    name: lamb trotters
+    raw: 8 lamb trotters
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 5
+    unit: tbsp
+    name: ghee
+    raw: 5 tablespoons ghee
+  - qty: 3
+    name: onions
+    raw: 3 onions
+  - qty: 3
+    unit: tbsp
+    name: ginger-garlic paste
+    raw: 3 tablespoons ginger-garlic paste
+  - qty: 1.5
+    unit: tsp
+    name: kashmiri red chilli powder
+    raw: 1 ½ teaspoons Kashmiri red chilli powder
+  - qty: 0.5
+    unit: tsp
+    name: chilli powder
+    raw: ½ teaspoon ordinary chilli powder
+  - qty: 1.5
+    unit: tsp
+    name: turmeric
+    raw: 1 ½ teaspoons ground turmeric
+  - qty: 1.5
+    unit: tsp
+    name: coriander
+    raw: 1 ½ teaspoons ground coriander
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: garam masala
+    raw: 1 ½ teaspoons Garam Masala
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 2
+    name: black cardamom pods
+    raw: 2 black cardamom pods
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2 ½ litres water
+  - qty: 4
+    unit: tbsp
+    name: ghee
+    raw: 4 tablespoons ghee
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 4
+    name: ginger
+    raw: 4 cm fresh ginger
+  - qty: 3
+    name: green chillies
+    raw: 3 green chillies
+  - qty: 1
+    name: coriander
+    raw: Small bunch coriander
+  - qty: 4
+    name: lemons
+    raw: 4 lemons
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 teaspoon Garam Masala
+  - name: naan
+    raw: Fresh naan

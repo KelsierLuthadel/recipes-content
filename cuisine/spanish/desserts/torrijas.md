@@ -1,23 +1,3 @@
----
-prep: 15 minutes (plus 1 hour soaking)
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - lemon
-  - honey
-mentions: []
----
-
-
-
-
 # Torrijas
 
 ![Torrijas](resources/torrijas.jpg)

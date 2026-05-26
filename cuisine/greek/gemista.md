@@ -1,29 +1,3 @@
----
-prep: 30 minutes
-cook: 1 ¼ hours
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - garlic
-tags:
-  - vegetarian
-  - meals
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - potato
-  - cheese
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Gemista
 
 ![Gemista](resources/gemista.jpg)

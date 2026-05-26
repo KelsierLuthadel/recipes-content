@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 5 minutes
-allergens:
-  - gluten
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - garlic
-  - tomato
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Penne with Red Chillies, Garlic, and Chopped Tomatoes
 
 ![Penne Arrabbiata](resources/penne-allarrabiata.jpg)

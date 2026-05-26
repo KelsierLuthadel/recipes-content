@@ -1,20 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/bread/bloomer
-  - tutorials/bread/proving
-  - tutorials/bread/shapes
-  - tutorials/bread/standard-loaf
-  - tutorials/pizza/dough
----
-
-
-
 # Tin Loaf
 
 ![A tin loaf with a split top](resources/tin-loaf.jpg)

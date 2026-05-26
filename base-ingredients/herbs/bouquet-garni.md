@@ -1,20 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - celery
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-mentions:
-  - tutorials/stocks-sauces/stocks
----
-
-
-
-
 # Bouquet Garni
 
 ![Bouquet Garni](resources/bouquet-garni.png)

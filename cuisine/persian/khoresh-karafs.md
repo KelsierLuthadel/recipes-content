@@ -1,27 +1,3 @@
----
-prep: 25 minutes
-cook: 1 hour 45 minutes
-allergens:
-  - meat
-  - celery
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - meat
-  - rice
-  - onion
-  - garlic
-  - lemon
-  - complex
-mentions:
-  - cuisine/iran/tahdig
----
-
-
-
-
 # Khoresh Karafs
 
 ![Khoresh Karafs](resources/khoresh-karafs.jpg)

@@ -1,0 +1,128 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - carrot
+  - butter
+  - cream
+  - cheese
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml water
+  - qty: 240
+    unit: ml
+    name: chicken broth
+    raw: 240 ml chicken broth
+  - name: salt
+    raw: Salt to taste
+  - qty: 1.5
+    unit: cup
+    name: grits
+    raw: 1 ½ cups grits
+  - qty: 0.5
+    unit: cup
+    name: sweet potato puree
+    raw: ½ cup sweet potato purée
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 120
+    unit: ml
+    name: half-and-half
+    raw: 120 ml half-and-half
+  - qty: 100
+    unit: g
+    name: shredded gouda cheese
+    raw: 100 g shredded gouda cheese
+  - qty: 0.25
+    unit: tsp
+    name: white pepper
+    raw: ¼ teaspoon white pepper
+  - qty: 450
+    unit: g
+    name: jumbo shrimp
+    raw: 450 g jumbo shrimp
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 4
+    unit: tbsp
+    name: unsalted butter
+    raw: 4 tablespoons unsalted butter
+  - qty: 0.5
+    name: green bell pepper
+    raw: ½ green bell pepper
+  - qty: 0.5
+    name: red bell pepper
+    raw: ½ red bell pepper
+  - qty: 0.5
+    name: yellow onion
+    raw: ½ small yellow onion
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 Scotch bonnet
+  - qty: 1
+    unit: tbsp
+    name: garlic paste
+    raw: 1 tablespoon garlic paste
+  - qty: 2
+    unit: tsp
+    name: ginger paste
+    raw: 2 teaspoons ginger paste
+  - qty: 2
+    unit: tsp
+    name: browning sauce
+    raw: 2 teaspoons browning sauce
+  - qty: 240
+    unit: ml
+    name: chicken broth
+    raw: 240 ml chicken broth
+  - qty: 0.25
+    unit: cup
+    name: spring onions
+    raw: ¼ cup sliced spring onions

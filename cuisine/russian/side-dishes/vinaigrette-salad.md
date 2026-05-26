@@ -1,24 +1,3 @@
----
-prep: 25 minutes
-cook: 30 minutes (plus cooling)
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - one-pan
-  - sides
-  - onion
-  - potato
-  - carrot
-  - chickpea
-mentions: []
----
-
-
-
-
 # Vinaigrette Salad
 
 ![Vinaigrette Salad](resources/vinaigrette-salad.jpg)

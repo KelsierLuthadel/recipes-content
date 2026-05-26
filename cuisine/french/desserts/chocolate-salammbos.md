@@ -1,20 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - chocolate
-mentions:
-  - baking/cremes/chocolate-creme-patissiere
----
-
-
-
-
 # Chocolate Salammbos
 
 ![Chocolate salammbos](resources/salammbos.jpg)

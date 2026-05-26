@@ -1,0 +1,102 @@
+prep: 30 minutes (plus 20 minutes soaking the chillies)
+cook: 3 hours
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - cream
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/american/side-dishes/cornbread
+  - cuisine/mexican/side-dishes/frijoles-charros
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: ancho chillies
+    raw: 4 dried ancho chillies
+  - qty: 4
+    name: guajillo chillies
+    raw: 4 dried guajillo chillies
+  - qty: 2
+    name: chipotle chillies
+    raw: 2 dried chipotle chillies
+  - qty: 750
+    unit: ml
+    name: beef stock
+    raw: 750 ml beef stock
+  - qty: 1.5
+    unit: kg
+    name: beef chuck steak
+    raw: 1.5 kg beef chuck steak
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tablespoons sunflower oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: cumin
+    raw: 2 tablespoons ground cumin
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tbsp
+    name: smoked paprika
+    raw: 1 tablespoon smoked paprika
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 750
+    unit: ml
+    name: beef stock
+    raw: 750 ml beef stock
+  - qty: 2
+    unit: tbsp
+    name: masa harina
+    raw: 2 tablespoons masa harina
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - name: sea salt and black pepper
+    raw: Fine sea salt and black pepper
+  - name: cornbread or warm flour tortillas
+    raw: Cornbread or warm flour tortillas
+  - name: sour cream
+    raw: Sour cream
+  - name: cheddar
+    raw: Grated sharp cheddar
+  - name: pickled jalapenos
+    raw: Pickled jalapeños
+  - name: white onion
+    raw: Finely chopped raw white onion
+  - name: coriander leaves
+    raw: Coriander leaves
+  - name: lime wedges
+    raw: Lime wedges

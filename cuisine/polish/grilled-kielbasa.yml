@@ -1,0 +1,64 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+tags:
+  - meals
+  - bbq
+  - meat
+  - pork
+  - onion
+  - butter
+mentions: []
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: smoked polish kielbasa
+    raw: 1.2 kg smoked Polish kielbasa
+  - qty: 15
+    unit: ml
+    name: vegetable oil
+    raw: 15 ml vegetable oil
+  - qty: 600
+    unit: g
+    name: sauerkraut
+    raw: 600 g sauerkraut
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 60
+    unit: g
+    name: smoked bacon lardons
+    raw: 60 g smoked bacon lardons
+  - qty: 1
+    name: apple
+    raw: 1 apple
+  - qty: 5
+    unit: g
+    name: caraway seeds
+    raw: 5 g caraway seeds
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 5
+    name: black peppercorns
+    raw: 5 black peppercorns
+  - qty: 100
+    unit: ml
+    name: chicken stock
+    raw: 100 ml chicken stock
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - name: polish mustard or sharp brown mustard
+    raw: Polish mustard or sharp brown mustard
+  - name: horseradish
+    raw: Grated horseradish
+  - name: dark rye bread
+    raw: Sliced dark rye bread
+  - name: pickled cucumbers
+    raw: Pickled cucumbers

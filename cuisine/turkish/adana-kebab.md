@@ -1,32 +1,3 @@
----
-prep: 30 minutes (plus 2 hours chilling)
-cook: 12 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - bbq
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - yogurt
-  - complex
-  - eid-al-adha
-  - ramadan
-  - muslim
-mentions:
-  - cuisine/azerbaijan/side-dishes/lavash
----
-
-
-
-
 # Adana Kebab
 
 ![Adana Kebab](resources/adana-kebab.jpg)

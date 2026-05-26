@@ -1,35 +1,3 @@
----
-prep: 20 minutes (plus 4 hours marinade)
-cook: 12 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - mustard
-  - garlic
-tags:
-  - spicy
-  - make-ahead
-  - meals
-  - bbq
-  - meat
-  - beef
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - butter
-  - yogurt
-  - chili
-  - complex
-mentions:
-  - cuisine/indian/sauces-pickles/mint-chutney
----
-
-
-
-
 # Lahori Beef Boti Kebab
 
 ![Lahori Beef Boti Kebab](resources/lahori-beef-boti-kebab.jpg)

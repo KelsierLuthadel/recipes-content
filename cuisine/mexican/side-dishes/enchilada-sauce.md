@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 35 minutes
-allergens:
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - sides
-  - meat
-  - onion
-  - garlic
-  - tomato
-  - chocolate
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Authentic Enchilada Sauce
 
 ![Authentic Enchilada Sauce](resources/enchilada-sauce.png)

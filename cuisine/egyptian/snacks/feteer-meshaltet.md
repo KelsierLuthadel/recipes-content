@@ -1,28 +1,3 @@
----
-prep: 45 minutes (plus 30 min rest)
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - sesame
-tags:
-  - vegetarian
-  - snack
-  - eggs
-  - butter
-  - cheese
-  - honey
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Feteer Meshaltet
 
 ![Feteer Meshaltet](resources/feteer-meshaltet.jpg)

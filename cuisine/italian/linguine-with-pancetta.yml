@@ -1,0 +1,56 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - meat
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - tomato
+  - cheese
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 250
+    unit: g
+    name: pancetta
+    raw: 250 grams diced pancetta
+  - qty: 100
+    unit: ml
+    name: dry white wine
+    raw: 100 ml dry white wine
+  - qty: 0.5
+    unit: tsp
+    name: chilli flakes
+    raw: ½ teaspoon dried chilli flakes
+  - qty: 800
+    unit: g
+    name: cherry tomatoes
+    raw: 800 grams cherry tomatoes
+  - qty: 3
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 3 tablespoons fresh flat-leaf parsley
+  - qty: 100
+    unit: g
+    name: pecorino romano
+    raw: 100 grams pecorino romano
+  - name: salt
+    raw: Salt to taste
+  - qty: 500
+    unit: g
+    name: linguine
+    raw: 500 grams linguine

@@ -1,28 +1,3 @@
----
-prep: 30 minutes
-cook: 1 ¼ hours
-allergens:
-  - dairy
-  - tree-nuts
-  - meat
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - chicken
-  - rice
-  - onion
-  - tomato
-  - coriander
-  - yogurt
-  - nuts
-  - complex
-mentions: []
----
-
-
-
-
 # Maklouba
 
 ![Maklouba](resources/maklouba.jpg)

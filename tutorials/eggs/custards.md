@@ -1,22 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - make-ahead
-mentions:
-  - sauces/sauce-sweet/caramel-sauce
-  - tutorials/eggs/meringues
-  - tutorials/eggs/souffles
-  - tutorials/patisserie/tarts
-  - tutorials/pizza/sauce
-  - tutorials/stocks-sauces/hollandaise
----
-
-
-
 # Custards
 
 ![Custard](resources/custard.jpg)

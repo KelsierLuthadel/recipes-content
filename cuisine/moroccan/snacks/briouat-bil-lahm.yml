@@ -1,0 +1,98 @@
+prep: 30 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - snack
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - complex
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/pastry/filo
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 400
+    unit: g
+    name: lamb mince
+    raw: 400 g lamb mince
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1.5
+    unit: tsp
+    name: ras-el-hanout
+    raw: 1 ½ teaspoons ras-el-hanout
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.25
+    unit: tsp
+    name: ginger
+    raw: ¼ teaspoon ground ginger
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 100
+    unit: ml
+    name: stock
+    raw: 100 ml stock
+  - qty: 30
+    unit: g
+    name: flat-leaf parsley
+    raw: 30 g flat-leaf parsley
+  - qty: 20
+    unit: g
+    name: coriander
+    raw: 20 g fresh coriander
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 0.25
+    name: preserved lemon
+    raw: ¼ preserved lemon
+  - qty: 18
+    name: sheets warka
+    raw: 18 sheets warka
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 600
+    unit: ml
+    name: neutral oil
+    raw: 600 ml neutral oil
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: mint tea
+    raw: Mint tea

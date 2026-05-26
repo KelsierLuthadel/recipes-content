@@ -1,29 +1,3 @@
----
-prep: 5 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - lamb
-  - garlic
-  - ginger
-  - lemon
-  - yogurt
-mentions:
-  - cuisine/indian/Breads/rotis
----
-
-
-
-
 # Maa’s Lamb Chops
 
 ![Maa’s Lamb Chops](resources/maas-lamb-chops.jpg)

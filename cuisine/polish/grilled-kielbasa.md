@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - mustard
-tags:
-  - meals
-  - bbq
-  - meat
-  - pork
-  - onion
-  - butter
-mentions: []
----
-
-
-
-
 # Grilled Kielbasa
 
 ![Grilled Kielbasa](resources/grilled-kielbasa.jpg)

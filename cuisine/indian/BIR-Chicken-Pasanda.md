@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - meat
-tags:
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - chicken
-  - coconut
-  - nuts
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Pasanda
 
 ![Chicken Pasanda](resources/BIR-Chicken-Pasanda.jpg)

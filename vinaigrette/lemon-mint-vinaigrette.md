@@ -1,20 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - peanuts
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - lemon
-mentions: []
----
-
-
-
-
 # Lemon and Mint Vinaigrette
 
 ![Lemon and Mint Vinaigrette](resources/lemon-mint.png)

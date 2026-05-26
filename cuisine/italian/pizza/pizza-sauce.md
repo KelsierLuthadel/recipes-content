@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 3 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - meals
-  - onion
-  - garlic
-  - tomato
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pizza Sauce
 
 ![Pizza Sauce](resources/pizza-sauce.jpg)

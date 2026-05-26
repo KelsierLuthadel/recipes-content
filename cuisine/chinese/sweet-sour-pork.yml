@@ -1,0 +1,96 @@
+prep: 20 minutes
+cook: 4 minutes
+allergens:
+  - eggs
+  - peanuts
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - pork
+  - eggs
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: pork
+    raw: 350 grams lean pork
+  - qty: 1
+    unit: tbsp
+    name: dry sherry
+    raw: 1 tablespoon dry sherry
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 2
+    unit: tbsp
+    name: cornflour
+    raw: 2 tablespoons cornflour
+  - qty: 400
+    unit: ml
+    name: groundnut oil
+    raw: 400 ml groundnut oil
+  - qty: 50
+    unit: g
+    name: green pepper
+    raw: 50 grams green pepper
+  - qty: 50
+    unit: g
+    name: red pepper
+    raw: 50 grams red pepper
+  - qty: 50
+    unit: g
+    name: carrots
+    raw: 50 grams carrots
+  - qty: 50
+    unit: g
+    name: spring onions
+    raw: 50 grams spring onions
+  - qty: 150
+    unit: ml
+    name: chinese chicken stock
+    raw: 150 ml Chinese chicken stock
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1.5
+    unit: tsp
+    name: cider vinegar
+    raw: 1 ½ teaspoons cider vinegar
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tablespoon sugar
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tablespoon tomato purée
+  - qty: 1
+    unit: tsp
+    name: cornflour
+    raw: 1 teaspoon cornflour
+  - qty: 75
+    unit: g
+    name: lychees
+    raw: 75 grams tinned lychees

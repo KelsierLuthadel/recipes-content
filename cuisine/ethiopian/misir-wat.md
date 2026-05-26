@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-cook: 50 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - meals
-  - lentils
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - kwanzaa
-mentions:
-  - base-ingredients/spices/berbere
-  - cuisine/lebanese/kibbeh
-  - cuisine/middle-east/kibbeh
----
-
-
-
-
 # Misir Wat
 
 ![Misir Wat](resources/misir-wat.jpg)

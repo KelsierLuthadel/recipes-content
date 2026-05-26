@@ -1,34 +1,3 @@
----
-prep: 30 minutes
-cook: 2 hours
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - pork
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - carrot
-  - lemon
-  - coriander
-  - butter
-  - chickpea
-  - complex
-mentions: []
----
-
-
-
-
 # Couscous Royale
 
 ![Couscous Royale](resources/couscous-royale.jpg)

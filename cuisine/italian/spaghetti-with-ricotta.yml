@@ -1,0 +1,55 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - tomato
+  - cheese
+  - nuts
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 6
+    unit: tbsp
+    name: pine nuts
+    raw: 6 tablespoons pine nuts
+  - qty: 250
+    unit: g
+    name: ricotta cheese
+    raw: 250 grams ricotta cheese
+  - qty: 100
+    unit: g
+    name: sun-dried tomatoes in oil
+    raw: 100 grams sun-dried tomatoes in oil
+  - qty: 3
+    unit: tbsp
+    name: chives
+    raw: 3 tablespoons fresh chives
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon nutmeg
+  - qty: 10
+    name: basil leaves
+    raw: 10 fresh basil leaves
+  - qty: 4
+    unit: tbsp
+    name: virgin olive oil
+    raw: 4 tablespoons extra virgin olive oil
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons hot water
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 500
+    unit: g
+    name: spaghetti
+    raw: 500 grams spaghetti

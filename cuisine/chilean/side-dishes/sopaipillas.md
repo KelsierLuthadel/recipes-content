@@ -1,22 +1,3 @@
----
-prep: 25 minutes (plus 30 minutes resting)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - make-ahead
-  - sides
-  - butter
-mentions:
-  - cuisine/chilean/side-dishes/pebre
-  - tutorials/pizza/dough
----
-
-
-
-
 # Sopaipillas
 
 ![Sopaipillas](resources/sopaipillas.jpg)

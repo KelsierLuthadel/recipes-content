@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-cook: 3 hours
-allergens:
-  - gluten
-  - eggs
-tags:
-  - vegetarian
-  - dairy-free
-  - meals
-  - eggs
-  - potato
-  - complex
-mentions:
-  - cuisine/italian/pesto
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Gnocchi
 
 ![Gnocchi](resources/gnocchi.jpg)

@@ -1,35 +1,3 @@
----
-prep: 20 minutes
-cook: 35 minutes
-allergens:
-  - dairy
-  - peanuts
-  - shellfish
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - fish
-  - prawn
-  - onion
-  - garlic
-  - tomato
-  - spinach
-  - lime
-  - coriander
-  - butter
-  - nuts
-  - chili
-mentions:
-  - cuisine/indian/rice/coconut-rice
-  - cuisine/thai/side-dishes/coconut-rice
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Matata
 
 ![Matata](resources/matata.jpg)

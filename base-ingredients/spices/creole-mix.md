@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - spices
-  - chili
-mentions:
-  - cuisine/cajun/jambalaya
-  - cuisine/creole/shrimp-creole
----
-
-
-
-
 # Creole Spice Mix
 
 ![Creole Spice Mix](resources/creole-mix.jpg)

@@ -1,22 +1,3 @@
----
-prep: 30 minutes
-cook: 30 minutes (plus overnight chilling)
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - cream
-mentions: []
----
-
-
-
-
 # Tres Leches Colombiano
 
 ![Tres Leches Colombiano](resources/tres-leches-colombiano.jpg)

@@ -1,29 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - dairy
-  - mustard
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - sides
-  - asian
-  - meat
-  - rice
-  - coconut
-  - lime
-  - chili
-  - curry
-mentions:
-  - cuisine/indian/BIR-Chicken-Vindaloo
-  - cuisine/indian/rice/coconut-rice
----
-
-
-
-
 # Coconut Rice
 
 ![Coconut Rice](resources/coconut-rice.jpg)

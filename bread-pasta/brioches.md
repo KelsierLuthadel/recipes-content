@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - make-ahead
-  - eggs
-  - nuts
-mentions:
-  - baking/pastry/brioche-dough
-  - tutorials/pizza/dough
----
-
-
-
-
 # St-Genix Brioches with Pink Pralines
 
 ![Brioches](resources/brioches.jpg)

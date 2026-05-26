@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - eggs
-  - lemon
-  - butter
-  - cream
-mentions:
-  - base-ingredients/baking/clarified-butter
-  - sauces/sauce-savory/hollandaise-sauce
-  - tutorials/pizza/sauce
-  - tutorials/stocks-sauces/hollandaise
----
-
-
-
-
 # Mousseline Sauce
 
 ![Mousseline sauce](resources/mousseline.jpg)

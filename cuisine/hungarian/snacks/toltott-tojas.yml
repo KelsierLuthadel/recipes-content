@@ -1,0 +1,55 @@
+prep: 20 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - snack
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - cream
+mentions:
+  - cuisine/american/side-dishes/deviled-eggs
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - qty: 40
+    unit: g
+    name: unsalted butter
+    raw: 40 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: sour cream
+    raw: 2 tablespoons sour cream
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 1
+    unit: tsp
+    name: hungarian sweet paprika
+    raw: 1 teaspoon Hungarian sweet paprika, plus extra to dust
+  - qty: 1
+    unit: pinch
+    name: hungarian hot paprika
+    raw: A pinch of Hungarian hot paprika
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - name: black pepper
+    raw: Black pepper
+  - name: lemon juice
+    raw: A few drops of lemon juice
+  - qty: 1
+    unit: tbsp
+    name: chives
+    raw: 1 tablespoon chives

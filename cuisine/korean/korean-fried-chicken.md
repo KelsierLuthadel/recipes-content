@@ -1,32 +1,3 @@
----
-prep: 20 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - honey
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Korean Fried Chicken
 
 ![Korean Fried Chicken](resources/korean-fried-chicken.jpg)

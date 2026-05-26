@@ -1,0 +1,69 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - eggs
+  - garlic
+  - tomato
+  - lemon
+  - chili
+mentions: []
+ingredients:
+  - qty: 4
+    name: red peppers
+    raw: 4 red peppers
+  - qty: 2
+    name: green peppers
+    raw: 2 green peppers
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes
+  - qty: 4
+    name: long red chillies
+    raw: 4 long red chillies
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 4 tablespoons extra-virgin olive oil
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: tsp
+    name: caraway
+    raw: 1 teaspoon ground caraway
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tablespoons capers
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley
+  - qty: 160
+    unit: g
+    name: tuna
+    raw: 160 g tin tuna
+  - qty: 2
+    name: hard-boiled eggs
+    raw: 2 hard-boiled eggs
+  - qty: 8
+    name: black olives
+    raw: 8 black olives
+  - name: crusty bread
+    raw: Crusty bread

@@ -1,0 +1,64 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - nuts
+  - eid-al-fitr
+  - muslim
+mentions:
+  - cuisine/pakistani/desserts/sheer-khurma
+ingredients:
+  - qty: 200
+    unit: g
+    name: roasted vermicelli
+    raw: 200 g fine roasted vermicelli
+  - qty: 60
+    unit: g
+    name: ghee
+    raw: 60 g ghee
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 120
+    unit: g
+    name: caster sugar
+    raw: 120 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 1
+    unit: small pinch
+    name: saffron threads
+    raw: A small pinch of saffron threads
+  - qty: 30
+    unit: g
+    name: raisins
+    raw: 30 g raisins
+  - qty: 30
+    unit: g
+    name: cashews
+    raw: 30 g cashews
+  - qty: 30
+    unit: g
+    name: pistachios
+    raw: 30 g pistachios
+  - qty: 30
+    unit: g
+    name: almonds
+    raw: 30 g almonds
+  - qty: 2
+    unit: tbsp
+    name: rose water
+    raw: 2 tablespoons rose water
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt

@@ -1,0 +1,83 @@
+prep: 25 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - carrot
+  - butter
+  - complex
+  - easter
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/rice/boiled-rice
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 1
+    unit: kg
+    name: lamb shoulder
+    raw: 1 kilogram lamb shoulder
+  - qty: 500
+    unit: g
+    name: lamb neck
+    raw: 500 grams lamb neck
+  - qty: 500
+    unit: g
+    name: lamb breast
+    raw: 500 grams lamb breast
+  - qty: 3
+    name: carrots
+    raw: 3 carrots
+  - qty: 3
+    name: onions
+    raw: 3 onions
+  - qty: 30
+    unit: g
+    name: flour
+    raw: 30 grams flour
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic
+  - qty: 1
+    name: tomato
+    raw: 1 tomato
+  - name: sea salt and pepper
+    raw: Sea salt and pepper to taste
+  - qty: 1.2
+    unit: kg
+    name: firm-fleshed potatoes
+    raw: 1.2 kilogram small, firm-fleshed potatoes
+  - qty: 15
+    unit: g
+    name: butter
+    raw: 15 grams butter
+  - qty: 250
+    unit: g
+    name: new pearl
+    raw: 250 grams small new pearl
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - name: salt
+    raw: Fine salt
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons flat-leaf parsley

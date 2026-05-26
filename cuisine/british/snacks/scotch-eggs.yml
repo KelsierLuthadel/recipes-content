@@ -1,0 +1,54 @@
+prep: 30 minutes (plus 30 minutes chilling)
+cook: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - snack
+  - meat
+  - pork
+  - eggs
+  - onion
+mentions: []
+ingredients:
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - name: plus 2 large eggs
+    raw: Plus 2 large eggs
+  - qty: 600
+    unit: g
+    name: sausagemeat
+    raw: 600 g good sausagemeat
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: sage
+    raw: 1 tablespoon chopped sage
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 200
+    unit: g
+    name: panko breadcrumbs
+    raw: 200 g panko breadcrumbs
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying

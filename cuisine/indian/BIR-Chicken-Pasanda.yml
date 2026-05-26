@@ -1,0 +1,68 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - coconut
+  - nuts
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: almond flakes
+    raw: 4 tbsp almond flakes
+  - qty: 4
+    unit: tbsp
+    name: rapeseed oil or seasoned oil
+    raw: 4 tbsp rapeseed oil or seasoned oil
+  - qty: 3
+    unit: tbsp
+    name: coconut flour
+    raw: 3 tbsp coconut flour
+  - qty: 3
+    unit: tbsp
+    name: almonds
+    raw: 3 tbsp ground almonds
+  - qty: 2
+    unit: tbsp
+    name: sugar
+    raw: 2 tbsp sugar
+  - qty: 20
+    name: sultanas
+    raw: 20 sultanas
+  - qty: 500
+    unit: ml
+    name: curry base gravy
+    raw: 500 ml Curry Base Gravy
+  - qty: 100
+    unit: g
+    name: block coconut
+    raw: 100 g block coconut, cut into small pieces
+  - qty: 800
+    unit: g
+    name: pre-cooked chicken
+    raw: 800 g Pre-Cooked Chicken
+  - qty: 1
+    unit: splash
+    name: red wine
+    raw: Splash of red wine
+  - name: salt
+    raw: Salt, to taste
+  - qty: 100
+    unit: ml
+    name: single cream
+    raw: 100 ml single cream
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp Garam Masala

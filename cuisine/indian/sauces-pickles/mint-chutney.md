@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - quick
-  - asian
-  - garlic
-  - ginger
-  - lime
-  - yogurt
-  - chili
-mentions:
-  - cuisine/indian/side-dishes/samosa
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mint Chutney
 
 ![Mint Chutney](resources/mint-chutney.jpg)

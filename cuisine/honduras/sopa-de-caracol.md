@@ -1,30 +1,3 @@
----
-prep: 20 minutes (plus tenderising the conch)
-cook: 45 minutes
-allergens:
-  - dairy
-  - fish
-  - shellfish
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - fish
-  - prawn
-  - onion
-  - garlic
-  - coconut
-  - carrot
-  - lime
-  - coriander
-  - butter
-  - complex
-mentions: []
----
-
-
-
-
 # Sopa de Caracol
 
 ![Sopa de Caracol](resources/sopa-de-caracol.jpg)

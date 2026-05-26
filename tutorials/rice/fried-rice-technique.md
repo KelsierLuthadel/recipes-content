@@ -1,24 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - rice
-mentions:
-  - cuisine/chinese/char-siu
-  - cuisine/chinese/fried-rice
-  - tutorials/pizza/sauce
-  - tutorials/rice/absorption-method
-  - tutorials/rice/boiled-rice
-  - tutorials/rice/pilaf
-  - tutorials/stir-fry/wok-hei
----
-
-
-
 # Fried Rice Technique
 
 ![Fried rice](resources/fried.jpg)

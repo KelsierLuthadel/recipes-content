@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 2 hours 30 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - meat
-  - beef
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - potato
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sobrebarriga
 
 ![Sobrebarriga](resources/sobrebarriga.jpg)

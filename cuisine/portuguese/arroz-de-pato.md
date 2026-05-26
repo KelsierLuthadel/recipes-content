@@ -1,28 +1,3 @@
----
-prep: 25 minutes
-cook: 2 hours 30 minutes (duck) + 30 minutes (rice)
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - meat
-  - pork
-  - duck
-  - rice
-  - onion
-  - garlic
-  - carrot
-  - lemon
-  - complex
-mentions: []
----
-
-
-
-
 # Arroz de Pato
 
 ![Arroz de Pato](resources/arroz-de-pato.jpg)

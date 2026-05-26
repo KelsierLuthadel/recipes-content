@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - mustard
-tags:
-  - vegetarian
-  - quick
-  - meals
-  - eggs
-  - butter
-  - cheese
-mentions:
-  - cuisine/american/side-dishes/mac-and-cheese
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Big Mike’s Mac ’n’ Cheese
 
 ![Mac n Cheese](resources/mac-n-cheese.jpg)

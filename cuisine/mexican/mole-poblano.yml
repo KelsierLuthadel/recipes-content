@@ -1,0 +1,137 @@
+prep: 1 hour
+cook: 1 ½ hours
+allergens:
+  - gluten
+  - tree-nuts
+  - peanuts
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - chocolate
+  - nuts
+  - chili
+  - complex
+  - day-of-the-dead
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: mulato chillies
+    raw: 4 dried mulato chillies
+  - qty: 4
+    name: ancho chillies
+    raw: 4 dried ancho chillies
+  - qty: 4
+    name: pasilla chillies
+    raw: 4 dried pasilla chillies
+  - qty: 2
+    name: chipotle chillies
+    raw: 2 dried chipotle chillies
+  - qty: 100
+    unit: ml
+    name: vegetable oil
+    raw: 100 ml vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: plantain
+    raw: 1 ripe plantain
+  - qty: 50
+    unit: g
+    name: blanched almonds
+    raw: 50 g blanched almonds
+  - qty: 50
+    unit: g
+    name: peanuts
+    raw: 50 g raw peanuts
+  - qty: 30
+    unit: g
+    name: pumpkin seeds
+    raw: 30 g pumpkin seeds
+  - qty: 30
+    unit: g
+    name: sesame seeds
+    raw: 30 g sesame seeds
+  - qty: 100
+    unit: g
+    name: raisins
+    raw: 100 g raisins
+  - qty: 1
+    name: corn tortilla
+    raw: 1 corn tortilla
+  - qty: 1
+    name: white bread
+    raw: 1 thick slice white bread
+  - qty: 1
+    name: tomato
+    raw: 1 ripe tomato
+  - qty: 2
+    name: tomatillos
+    raw: 2 tomatillos
+  - qty: 1
+    unit: stick
+    name: cinnamon
+    raw: 1 stick cinnamon
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 0.25
+    unit: tsp
+    name: anise
+    raw: ¼ teaspoon ground anise
+  - qty: 60
+    unit: g
+    name: dark chocolate
+    raw: 60 g good-quality dark chocolate
+  - qty: 1
+    unit: l
+    name: chicken stock
+    raw: 1 litre chicken stock
+  - name: salt
+    raw: Salt
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    name: chicken or 8 thighs/legs
+    raw: 1 whole chicken or 8 thighs/legs
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - name: salt
+    raw: Salt
+  - name: rice
+    raw: Cooked rice
+  - name: warm tortillas
+    raw: Warm tortillas
+  - name: scatter of sesame seeds
+    raw: A scatter of sesame seeds

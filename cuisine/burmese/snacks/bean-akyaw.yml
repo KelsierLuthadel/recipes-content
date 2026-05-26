@@ -1,0 +1,87 @@
+prep: 15 minutes (plus 6 hours soaking)
+cook: 20 minutes
+allergens:
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - fish
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: yellow split peas
+    raw: 250 g yellow split peas
+  - qty: 2
+    name: shallots
+    raw: 2 shallots
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm ginger
+  - qty: 1
+    name: long green chilli
+    raw: 1 long green chilli
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.25
+    unit: tsp
+    name: white pepper
+    raw: ¼ teaspoon ground white pepper
+  - qty: 2
+    unit: tbsp
+    name: coriander leaves
+    raw: 2 tablespoons coriander leaves
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 3
+    unit: tbsp
+    name: water
+    raw: 2-4 tablespoons cold water
+  - qty: 750
+    unit: ml
+    name: neutral oil
+    raw: 750 ml neutral oil
+  - qty: 2
+    unit: tbsp
+    name: tamarind paste
+    raw: 2 tablespoons tamarind paste
+  - qty: 3
+    unit: tbsp
+    name: water
+    raw: 3 tablespoons hot water
+  - qty: 1
+    unit: tbsp
+    name: palm sugar
+    raw: 1 tablespoon palm sugar
+  - qty: 1
+    unit: tbsp
+    name: fish sauce
+    raw: 1 tablespoon fish sauce
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 0.5
+    unit: tsp
+    name: chilli flakes
+    raw: ½ teaspoon dried chilli flakes

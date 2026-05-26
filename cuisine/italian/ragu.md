@@ -1,34 +1,3 @@
----
-prep: 20 minutes
-cook: 4 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - celery
-  - garlic
-tags:
-  - quick
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - pork
-  - onion
-  - garlic
-  - tomato
-  - carrot
-  - butter
-  - cheese
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Restaurant-Style Ragù
 
 ![Restaurant-Style Ragù](resources/restaurant_ragu.jpg)

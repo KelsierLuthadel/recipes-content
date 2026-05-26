@@ -1,0 +1,96 @@
+prep: 20 minutes
+cook: 30 minutes
+allergens:
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coconut
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: prawns
+    raw: 500 g large peeled prawns
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 12
+    name: kashmiri chillies
+    raw: 12 dried Kashmiri chillies
+  - qty: 4
+    name: byadgi
+    raw: 4 dried byadgi
+  - qty: 1
+    unit: tbsp
+    name: cumin seeds
+    raw: 1 tablespoon cumin seeds
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 6
+    name: cloves
+    raw: 6 cloves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 30
+    unit: g
+    name: ginger
+    raw: 30 g fresh ginger
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: palm vinegar
+    raw: 3 tablespoons palm vinegar
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 4
+    unit: tbsp
+    name: coconut oil
+    raw: 4 tablespoons coconut oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes
+  - qty: 1
+    unit: tbsp
+    name: palm jaggery
+    raw: 1 tablespoon palm jaggery
+  - qty: 3
+    unit: tbsp
+    name: palm vinegar
+    raw: 3 tablespoons palm vinegar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water

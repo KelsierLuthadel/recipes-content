@@ -1,30 +1,3 @@
----
-allergens:
-  - eggs
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - eggs
-mentions:
-  - cuisine/australian/desserts/pavlova
-  - cuisine/british/desserts/hot-cross-buns
-  - cuisine/israel/side-dishes/challah
-  - sauces/sauce-sweet/sabayon
-  - tutorials/bread/bread
-  - tutorials/bread/enriched-doughs
-  - tutorials/eggs/custards
-  - tutorials/eggs/meringues
-  - tutorials/eggs/scrambled-omelette
-  - tutorials/eggs/souffles
-  - tutorials/pastry/pastry
-  - tutorials/pizza/dough
-  - tutorials/stocks-sauces/hollandaise
-  - tutorials/stocks-sauces/stocks-sauces
----
-
-
-
 # Eggs Course
 
 ![Eggs](resources/eggs.jpg)

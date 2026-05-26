@@ -1,32 +1,3 @@
----
-prep: 20 minutes
-cook: 0 minutes
-allergens:
-  - eggs
-  - fish
-  - meat
-  - mustard
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - lamb
-  - eggs
-  - onion
-  - lemon
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Steak Tartare
 
 ![Steak Tartare](resources/steak-tartare.jpg)

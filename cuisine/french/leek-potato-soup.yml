@@ -1,0 +1,49 @@
+prep: 10 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - onion
+  - garlic
+  - potato
+  - butter
+  - cream
+mentions: []
+ingredients:
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: leeks
+    raw: 3 leeks
+  - qty: 1
+    name: celery stalk
+    raw: 1 celery stalk
+  - qty: 200
+    unit: g
+    name: potatoes
+    raw: 200 grams potatoes
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 750
+    unit: ml
+    name: chicken stock
+    raw: 750 ml chicken stock
+  - qty: 220
+    unit: ml
+    name: whipping cream
+    raw: 220 ml whipping cream
+  - qty: 2
+    unit: tbsp
+    name: chives
+    raw: 2 tablespoons chives

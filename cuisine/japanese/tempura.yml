@@ -1,0 +1,80 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - tree-nuts
+  - soy
+  - shellfish
+tags:
+  - dairy-free
+  - meals
+  - fish
+  - prawn
+  - eggs
+  - mushroom
+  - ginger
+  - potato
+  - nuts
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: king prawns
+    raw: 8 raw king prawns
+  - qty: 1
+    name: sweet potato
+    raw: 1 sweet potato
+  - qty: 1
+    name: aubergine
+    raw: 1 aubergine
+  - qty: 1
+    name: courgette
+    raw: 1 courgette
+  - qty: 8
+    name: green beans
+    raw: 8 green beans
+  - qty: 8
+    name: shiitake mushrooms
+    raw: 8 shiitake mushrooms
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 g plain flour
+  - qty: 50
+    unit: g
+    name: cornflour
+    raw: 50 g cornflour
+  - qty: 250
+    unit: ml
+    name: sparkling water
+    raw: 250 ml sparkling water
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - name: ice cubes
+    raw: A few ice cubes
+  - qty: 200
+    unit: ml
+    name: dashi
+    raw: 200 ml dashi
+  - qty: 3
+    unit: tbsp
+    name: soy sauce
+    raw: 3 tablespoons soy sauce
+  - qty: 3
+    unit: tbsp
+    name: mirin
+    raw: 3 tablespoons mirin
+  - qty: 2
+    unit: tbsp
+    name: daikon radish
+    raw: 2 tablespoons grated daikon radish
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon grated fresh ginger

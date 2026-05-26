@@ -1,0 +1,57 @@
+prep: 30 minutes
+cook: 2 ½ hours
+allergens:
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meat
+  - complex
+mentions: []
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: veal bones
+    raw: 1 ½ kilograms veal bones
+  - qty: 0.5
+    name: calf's foot
+    raw: ½ calf's foot
+  - qty: 200
+    unit: g
+    name: carrots
+    raw: 200 grams carrots
+  - qty: 100
+    unit: g
+    name: onion
+    raw: 100 grams onion
+  - qty: 1
+    name: celery
+    raw: 1 stalk celery
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic
+  - qty: 250
+    unit: ml
+    name: dry white wine
+    raw: 250 millilitres dry white wine
+  - qty: 3
+    unit: l
+    name: water
+    raw: 3 litres cold water
+  - qty: 6
+    name: tomatoes
+    raw: 6 tomatoes
+  - qty: 150
+    unit: g
+    name: button mushrooms
+    raw: 150 grams button mushrooms
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - qty: 1
+    unit: sprig
+    name: tarragon
+    raw: 1 sprig fresh tarragon

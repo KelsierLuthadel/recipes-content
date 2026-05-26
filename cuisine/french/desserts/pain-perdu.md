@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - make-ahead
-  - eggs
-  - butter
-  - cream
-mentions:
-  - baking/pastry/brioche-dough
-  - tutorials/pizza/dough
----
-
-
-
-
 # Pain Perdu
 
 ![Pain perdu](resources/pain-perdu.jpg)

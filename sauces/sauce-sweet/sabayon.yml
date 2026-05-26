@@ -1,0 +1,24 @@
+prep: 15 minutes
+cook: 9 minutes
+allergens:
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - eggs
+mentions:
+  - cuisine/french/desserts/crepes
+ingredients:
+  - qty: 100
+    unit: ml
+    name: sauternes
+    raw: 100 ml Sauternes
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 40
+    unit: g
+    name: caster sugar
+    raw: 40 grams caster sugar

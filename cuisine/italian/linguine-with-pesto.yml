@@ -1,0 +1,45 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - garlic
+  - cheese
+  - nuts
+mentions:
+  - cuisine/italian/pesto
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 50
+    unit: g
+    name: basil leaves
+    raw: 50 grams fresh basil leaves
+  - qty: 50
+    unit: g
+    name: pine nuts
+    raw: 50 grams pine nuts
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 130
+    unit: ml
+    name: virgin olive oil
+    raw: 130 ml extra virgin olive oil
+  - qty: 25
+    unit: g
+    name: parmesan cheese
+    raw: 25 grams Parmesan cheese
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 500
+    unit: g
+    name: linguine
+    raw: 500 grams linguine

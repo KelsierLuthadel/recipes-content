@@ -1,33 +1,3 @@
----
-prep: 20 minutes
-cook: 4 hours
-allergens:
-  - meat
-  - celery
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - onion
-  - garlic
-  - carrot
-  - complex
-  - hanukkah
-  - passover
-  - rosh-hashanah
-  - yom-kippur
-  - sukkot
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Jewish Brisket
 
 ![Jewish Brisket](resources/brisket.jpg)

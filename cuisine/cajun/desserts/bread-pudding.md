@@ -1,26 +1,3 @@
----
-prep: 20 minutes (plus 30 minutes soaking)
-cook: 50 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - butter
-  - cream
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Bread Pudding with Bourbon Sauce
 
 ![Bread Pudding with Bourbon Sauce](resources/bread-pudding.jpg)

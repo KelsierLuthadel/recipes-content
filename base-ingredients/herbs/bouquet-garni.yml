@@ -1,0 +1,29 @@
+prep: 5 minutes
+allergens:
+  - celery
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions:
+  - tutorials/stocks-sauces/stocks
+ingredients:
+  - qty: 2
+    unit: sprig
+    name: thyme
+    raw: 2 sprigs fresh thyme
+  - qty: 2
+    name: bay leaves
+    raw: 2 dried bay leaves
+  - qty: 6
+    unit: sprig
+    name: parsley
+    raw: 6 sprigs fresh parsley
+  - qty: 2
+    name: leaves fresh oregano
+    raw: 2 leaves fresh oregano
+  - qty: 1
+    name: clean string
+    raw: 1 piece of clean string

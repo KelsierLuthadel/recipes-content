@@ -1,34 +1,3 @@
----
-prep: 20 minutes
-cook: 1 ¼ hours
-allergens:
-  - gluten
-  - soy
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - make-ahead
-  - meals
-  - asian
-  - tofu
-  - mushroom
-  - onion
-  - ginger
-  - carrot
-  - lime
-  - coriander
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Phở Chay
 
 ![Phở Chay](resources/pho-chay.jpg)

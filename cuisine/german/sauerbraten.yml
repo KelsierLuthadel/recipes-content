@@ -1,0 +1,95 @@
+prep: 30 minutes (plus 3-4 days marinade)
+cook: 3 hours
+allergens:
+  - gluten
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - ginger
+  - potato
+  - carrot
+  - complex
+mentions:
+  - cuisine/british/side-dishes/buttered-red-cabbage
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: beef topside
+    raw: 1 ½ kg beef topside
+  - qty: 500
+    unit: ml
+    name: red wine vinegar
+    raw: 500 ml red wine vinegar
+  - qty: 500
+    unit: ml
+    name: dry red wine
+    raw: 500 ml dry red wine
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 1
+    name: leek
+    raw: 1 leek
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: black peppercorns
+    raw: 1 tablespoon black peppercorns
+  - qty: 1
+    unit: tbsp
+    name: mustard seeds
+    raw: 1 tablespoon mustard seeds
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    unit: tbsp
+    name: juniper berries
+    raw: 1 tablespoon juniper berries
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 500
+    unit: ml
+    name: beef stock
+    raw: 500 ml beef stock
+  - qty: 80
+    unit: g
+    name: ginger snap biscuits
+    raw: 80 g ginger snap biscuits
+  - qty: 2
+    unit: tbsp
+    name: raisins
+    raw: 2 tablespoons raisins
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: potato dumplings or buttered red cabbage
+    raw: Potato dumplings or buttered red cabbage
+  - name: flat-leaf parsley
+    raw: A tablespoon of chopped flat-leaf parsley

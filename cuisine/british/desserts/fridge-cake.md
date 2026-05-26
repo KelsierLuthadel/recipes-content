@@ -1,23 +1,3 @@
----
-prep: 15 minutes (plus 1 to 2 hours chilling)
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - butter
-  - chocolate
-  - nuts
-  - complex
-mentions:
-  - cuisine/american/desserts/rocky-road
----
-
-
-
-
 # Chocolate Fridge Cake
 
 ![Chocolate Fridge Cake](resources/fridge-cake.jpg)

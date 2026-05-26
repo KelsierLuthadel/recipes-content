@@ -1,34 +1,3 @@
----
-prep: 15 minutes
-cook: 40 minutes
-allergens:
-  - dairy
-  - meat
-  - mustard
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - potato
-  - coriander
-  - chili
-  - complex
-mentions:
-  - cuisine/indian/BIR-chicken-curry
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Murgir Jhol
 
 ![Murgir Jhol](resources/murgir-jhol.jpg)

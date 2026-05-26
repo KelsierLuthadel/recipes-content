@@ -1,0 +1,58 @@
+prep: 15 minutes (plus 1 hour soaking)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - honey
+mentions: []
+ingredients:
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    name: strip lemon peel
+    raw: 1 strip lemon peel
+  - qty: 1
+    name: strip orange peel
+    raw: 1 strip orange peel
+  - qty: 8
+    name: stale country bread
+    raw: 8 thick slices of stale country bread
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 200
+    unit: ml
+    name: olive oil
+    raw: 200 ml olive oil
+  - qty: 200
+    unit: g
+    name: clear honey
+    raw: 200 g clear honey
+  - qty: 50
+    unit: ml
+    name: water
+    raw: 50 ml water
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 teaspoons ground cinnamon

@@ -1,0 +1,100 @@
+prep: 25 minutes
+cook: 2 hours 30 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - lime
+  - coriander
+  - complex
+mentions:
+  - cuisine/colombian/side-dishes/hogao
+ingredients:
+  - qty: 1.4
+    unit: kg
+    name: stewing chicken or 1 kg bone-in chicken thighs and drumsticks
+    raw: 1.4 kg whole stewing chicken or 1 kg bone-in chicken thighs and drumsticks
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2 ½ litres water
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 3
+    name: onions
+    raw: 3 onions
+  - qty: 2
+    name: tomatoes
+    raw: 2 fresh tomatoes
+  - qty: 1
+    unit: tbsp
+    name: annatto
+    raw: 1 tablespoon ground annatto
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 800
+    unit: g
+    name: yuca
+    raw: 800 g yuca
+  - qty: 2
+    name: green plantains
+    raw: 2 green plantains
+  - qty: 4
+    name: potatoes
+    raw: 4 potatoes
+  - qty: 2
+    name: sweet potatoes
+    raw: 2 sweet potatoes
+  - qty: 2
+    name: corn-on-the-cob
+    raw: 2 corn-on-the-cob
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 4
+    name: white rice
+    raw: 4 servings cooked white rice
+  - name: bowl of hogao
+    raw: A small bowl of hogao
+  - name: avocado
+    raw: Sliced ripe avocado
+  - name: lime wedges
+    raw: Lime wedges

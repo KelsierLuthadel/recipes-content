@@ -1,0 +1,76 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - yogurt
+  - honey
+  - nuts
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 60
+    unit: g
+    name: mint leaves
+    raw: 60 g fresh mint leaves
+  - qty: 60
+    unit: g
+    name: coriander
+    raw: 60 g fresh coriander
+  - qty: 2.5
+    name: green chillies
+    raw: 2-3 green chillies
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 15
+    unit: g
+    name: ginger
+    raw: 15 g fresh ginger
+  - qty: 2
+    unit: tbsp
+    name: roasted cashews
+    raw: 2 tablespoons roasted cashews
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: chaat masala
+    raw: 1 teaspoon Chaat Masala
+  - qty: 0.5
+    unit: tsp
+    name: black salt
+    raw: ½ teaspoon black salt
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons cold water
+  - qty: 200
+    unit: g
+    name: natural yogurt
+    raw: 200 g thick natural yogurt

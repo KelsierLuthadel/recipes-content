@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour
-allergens:
-  - dairy
-  - peanuts
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - spinach
-  - butter
-  - nuts
-mentions:
-  - cuisine/zimbabwe/side-dishes/sadza
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Dovi
 
 ![Dovi](resources/dovi.jpg)

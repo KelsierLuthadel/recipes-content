@@ -1,0 +1,48 @@
+prep: 10 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 100
+    unit: g
+    name: bread flour
+    raw: 100 grams bread flour
+  - qty: 100
+    unit: g
+    name: water
+    raw: 100 grams water
+  - qty: 0.5
+    unit: tsp
+    name: caster sugar
+    raw: ½ teaspoon caster sugar
+  - qty: 2
+    unit: g
+    name: instant yeast
+    raw: 2 grams instant yeast
+  - qty: 250
+    unit: g
+    name: bread flour
+    raw: 250 grams bread flour
+  - qty: 125
+    unit: g
+    name: water
+    raw: 125 grams water
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 5
+    unit: g
+    name: instant yeast
+    raw: 5 grams instant yeast
+  - name: flour
+    raw: Flour
+  - name: water
+    raw: Water

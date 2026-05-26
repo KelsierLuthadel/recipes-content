@@ -1,24 +1,3 @@
----
-prep: 1 hour (mostly hands-on grinding and pressing)
-cook: 15 minutes
-allergens:
-  - peanuts
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - dessert
-  - ginger
-  - nuts
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Kuli-Kuli (Roasted Peanut Sticks)
 
 ![Kuli-Kuli](resources/kuli-kuli.jpg)

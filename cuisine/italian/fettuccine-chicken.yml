@@ -1,0 +1,49 @@
+prep: 10 minutes
+cook: 4 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - chicken
+  - cream
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 350
+    unit: g
+    name: chicken breast
+    raw: 350 grams boneless, skinless chicken breast
+  - qty: 200
+    unit: g
+    name: dolcelatte cheese
+    raw: 200 grams Dolcelatte cheese
+  - qty: 150
+    unit: ml
+    name: double cream
+    raw: 150 ml double cream
+  - qty: 50
+    unit: ml
+    name: dry white wine
+    raw: 50 ml dry white wine
+  - qty: 3
+    unit: tbsp
+    name: chives
+    raw: 3 tablespoons fresh chives
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 400
+    unit: g
+    name: fettuccine
+    raw: 400 grams fresh fettuccine

@@ -1,0 +1,28 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - baking
+mentions:
+  - tutorials/patisserie/tarts
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 grams plain flour
+  - qty: 500
+    unit: g
+    name: butter
+    raw: 500 grams butter
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water

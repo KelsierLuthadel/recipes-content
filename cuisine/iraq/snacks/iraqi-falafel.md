@@ -1,35 +1,3 @@
----
-prep: 30 minutes (plus 24 hours soaking, plus 30 min chilling)
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - spicy
-  - snack
-  - make-ahead
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - coriander
-  - yogurt
-  - chickpea
-  - chili
-  - complex
-mentions:
-  - cuisine/iraq/side-dishes/samoon
-  - cuisine/israel/side-dishes/baba-ganoush
-  - cuisine/israel/side-dishes/falafel
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Iraqi Falafel
 
 ![Iraqi Falafel](resources/iraqi-falafel.jpg)

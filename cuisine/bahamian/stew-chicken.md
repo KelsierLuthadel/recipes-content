@@ -1,34 +1,3 @@
----
-prep: 25 minutes
-cook: 50 minutes
-allergens:
-  - gluten
-  - meat
-  - celery
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - tomato
-  - potato
-  - carrot
-  - lime
-  - chili
-  - complex
-mentions:
-  - cuisine/american/side-dishes/cornbread
-  - cuisine/jamaican/brown-stew-chicken
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Bahamian Stew Chicken
 
 ![Bahamian Stew Chicken](resources/stew-chicken.jpg)

@@ -1,24 +1,3 @@
----
-prep: 35 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - lemon
-  - nuts
-mentions:
-  - cuisine/bengali/desserts/rasgulla
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Sandesh
 
 ![Sandesh](resources/sandesh.jpg)

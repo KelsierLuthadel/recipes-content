@@ -1,33 +1,3 @@
----
-prep: 15 minutes
-cook: 2 minutes
-allergens:
-  - eggs
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - chicken
-  - eggs
-  - garlic
-  - coriander
-  - nuts
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sichuan Chicken with Kung Pao Sauce
 
 ![Sichuan Chicken with Kung Pao Sauce](resources/kung-pao-cashew.jpg)

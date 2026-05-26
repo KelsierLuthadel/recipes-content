@@ -1,31 +1,3 @@
----
-prep: 20 minutes
-cook: 5 minutes
-allergens:
-  - gluten
-  - dairy
-  - fish
-  - shellfish
-  - garlic
-tags:
-  - quick
-  - make-ahead
-  - meals
-  - fish
-  - prawn
-  - onion
-  - garlic
-  - tomato
-  - carrot
-  - butter
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Spaghetti Marinara
 
 ![Spaghetti Marinara](resources/marinara.jpg)

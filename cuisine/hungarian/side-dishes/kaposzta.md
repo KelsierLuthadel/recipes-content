@@ -1,26 +1,3 @@
----
-prep: 15 minutes
-cook: 40 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - make-ahead
-  - one-pan
-  - sides
-  - meat
-  - onion
-  - garlic
-  - cream
-mentions:
-  - cuisine/hungarian/side-dishes/nokedli
----
-
-
-
-
 # Káposzta
 
 ![Káposzta](resources/kaposzta.jpg)

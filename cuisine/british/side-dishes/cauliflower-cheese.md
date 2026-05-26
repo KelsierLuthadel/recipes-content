@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - mustard
-tags:
-  - vegetarian
-  - sides
-  - butter
-  - cheese
-  - easter
-mentions:
-  - cuisine/american/side-dishes/mac-and-cheese
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Cauliflower Cheese
 
 ![Cauliflower Cheese](resources/cauliflower-cheese.jpg)

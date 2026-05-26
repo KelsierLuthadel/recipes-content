@@ -1,0 +1,29 @@
+prep: 15 minutes
+cook: 50 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - asian
+  - rice
+  - butter
+mentions: []
+ingredients:
+  - qty: 370
+    unit: g
+    name: basmati rice
+    raw: 370 grams basmati rice
+  - qty: 750
+    unit: ml
+    name: water
+    raw: 750 ml cold water
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: Pinch of fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: ghee or unsalted butter
+    raw: 1 tablespoon ghee or unsalted butter

@@ -1,31 +1,3 @@
----
-prep: 25 minutes (plus 1 hour marinating)
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - tomato
-  - carrot
-  - lime
-  - coriander
-  - cream
-  - complex
-mentions:
-  - cuisine/honduras/side-dishes/tajadas
----
-
-
-
-
 # Pollo Con Tajadas
 
 ![Pollo con Tajadas](resources/pollo-con-tajadas.jpg)

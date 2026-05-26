@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 13 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - dessert
-  - make-ahead
-  - lemon
-mentions:
-  - sauces/sauce-sweet/caramel-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Poached Pears Stuffed with Figs and Dates
 
 ![Poached pears stuffed with figs and dates](resources/poached-pears.jpg)

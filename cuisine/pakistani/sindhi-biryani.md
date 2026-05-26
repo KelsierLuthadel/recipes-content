@@ -1,38 +1,3 @@
----
-prep: 35 minutes (plus 2 hours marinating)
-cook: 1 hour 30 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - lamb
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - lemon
-  - coriander
-  - yogurt
-  - chili
-  - complex
-  - eid-al-fitr
-  - eid-al-adha
-  - ramadan
-  - muslim
-mentions:
-  - cuisine/indian/biryani
----
-
-
-
-
 # Sindhi Biryani
 
 ![Sindhi Biryani](resources/sindhi-biryani.jpg)

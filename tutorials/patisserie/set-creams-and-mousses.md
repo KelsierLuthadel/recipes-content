@@ -1,25 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - make-ahead
-mentions:
-  - cuisine/french/desserts/anise-parfait
-  - cuisine/french/desserts/coffee-creme-caramel
-  - cuisine/french/desserts/raspberry-mousse
-  - cuisine/italian/desserts/panna-cotta
-  - tutorials/eggs/custards
-  - tutorials/eggs/eggs
-  - tutorials/eggs/meringues
-  - tutorials/patisserie/composing-a-dessert
-  - tutorials/patisserie/tarts
----
-
-
-
 # Set Creams and Mousses
 
 ![Set cream](resources/mousses.jpg)

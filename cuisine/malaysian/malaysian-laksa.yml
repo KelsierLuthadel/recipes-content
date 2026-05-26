@@ -1,0 +1,125 @@
+prep: 15 minutes
+cook: 1 hour 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - soy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - prawn
+  - tofu
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: prawns
+    raw: 600 grams whole raw prawns
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 8
+    unit: cup
+    name: chicken stock
+    raw: 8 cups chicken stock
+  - qty: 2
+    name: chicken thigh pieces
+    raw: 2 bone-in chicken thigh pieces
+  - qty: 8
+    name: red chillies
+    raw: 8 dried red chillies
+  - qty: 1
+    unit: tbsp
+    name: shrimp
+    raw: 1 tablespoon dried shrimp
+  - qty: 1
+    unit: tbsp
+    name: galangal
+    raw: 1 tablespoon chopped fresh galangal
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon chopped ginger
+  - qty: 1
+    name: lemongrass stalk
+    raw: 1 lemongrass stalk
+  - qty: 4
+    name: asian red shallots
+    raw: 4 Asian red shallots
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 3
+    name: coriander roots
+    raw: 3 coriander roots
+  - qty: 5
+    name: candlenuts
+    raw: 5 candlenuts
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 teaspoon coriander seeds
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 1.5
+    unit: tsp
+    name: shrimp paste
+    raw: 1 ½ teaspoons shrimp paste
+  - name: sea salt
+    raw: Sea salt
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 400
+    unit: ml
+    name: coconut cream
+    raw: 400 ml can coconut cream
+  - qty: 12
+    name: fried tofu puffs
+    raw: 12 fried tofu puffs
+  - qty: 4
+    unit: tbsp
+    name: fish sauce
+    raw: 4 tablespoons fish sauce
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 200
+    unit: g
+    name: rice vermicelli noodles
+    raw: 200 grams dried rice vermicelli noodles
+  - name: sambal oelek
+    raw: Sambal oelek
+  - name: lime wedges
+    raw: Lime wedges
+  - name: coriander
+    raw: Finely chopped coriander
+  - name: bean sprouts
+    raw: Bean sprouts

@@ -1,25 +1,3 @@
----
-prep: 5 minutes
-cook: 0 minutes
-allergens:
-  - gluten
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - quick
-  - sides
-  - garlic
-  - lemon
-mentions:
-  - cuisine/middle-east/side-dishes/tahina-dip
----
-
-
-
-
 # Tahina Salad
 
 ![Tahina Salad](resources/tahina-salad.jpg)

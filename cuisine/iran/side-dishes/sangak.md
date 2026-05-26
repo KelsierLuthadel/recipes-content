@@ -1,22 +1,3 @@
----
-prep: 20 minutes (plus 4 hours rising)
-cook: 20 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - make-ahead
-  - sides
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Sangak
 
 ![Sangak](resources/sangak.jpg)

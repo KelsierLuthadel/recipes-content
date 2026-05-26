@@ -1,29 +1,3 @@
----
-prep: 20 minutes (plus overnight desalting)
-cook: 25 minutes
-allergens:
-  - eggs
-  - fish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - one-pan
-  - meals
-  - fish
-  - eggs
-  - onion
-  - garlic
-  - potato
-  - lemon
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Bacalhau à Brás
 
 ![Bacalhau à Brás](resources/bacalhau-a-bras.jpg)

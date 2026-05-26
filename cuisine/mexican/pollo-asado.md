@@ -1,31 +1,3 @@
----
-prep: 20 minutes (plus 4 hours marinating)
-cook: 30 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - bbq
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - lime
-  - chili
-  - complex
-mentions:
-  - cuisine/mexican/snacks/guacamole
-  - cuisine/mexican/snacks/quesadillas
----
-
-
-
-
 # Pollo Asado
 
 ![Pollo Asado](resources/pollo-asado.jpg)

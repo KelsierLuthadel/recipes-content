@@ -1,17 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/fish/whole-fish
-  - tutorials/pizza/sauce
----
-
-
-
 # En Papillote
 
 ![En papillote](resources/en-papillote.jpg)

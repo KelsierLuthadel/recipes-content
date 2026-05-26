@@ -1,31 +1,3 @@
----
-prep: 20 minutes
-cook: 2 hours 15 minutes
-allergens:
-  - gluten
-  - tree-nuts
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - meals
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - ginger
-  - coriander
-  - honey
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lamb Tagine with Prunes
 
 ![Lamb Tagine with Prunes](resources/lamb-tagine-with-prunes.jpg)

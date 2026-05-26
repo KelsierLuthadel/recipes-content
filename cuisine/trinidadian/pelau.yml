@@ -1,0 +1,106 @@
+prep: 20 minutes (plus 30 minutes marinating)
+cook: 50 minutes
+allergens:
+  - dairy
+  - soy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - coconut
+  - carrot
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/rice/pilaf
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken thighs and drumsticks
+    raw: 1 kg bone-in, skin-on chicken thighs and drumsticks
+  - qty: 3
+    unit: tbsp
+    name: caribbean green seasoning
+    raw: 3 tbsp Caribbean green seasoning
+  - qty: 1
+    unit: tbsp
+    name: soy sauce
+    raw: 1 tbsp soy sauce
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp freshly ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ tsp ground allspice
+  - qty: 3
+    unit: tbsp
+    name: neutral oil
+    raw: 3 tbsp neutral oil
+  - qty: 3
+    unit: tbsp
+    name: soft brown sugar
+    raw: 3 tbsp soft brown sugar
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: sprig
+    name: thyme
+    raw: 2 sprigs fresh thyme
+  - qty: 1
+    name: scotch bonnet pepper
+    raw: 1 Scotch bonnet pepper
+  - qty: 1
+    name: pigeon peas
+    raw: 1 can pigeon peas, drained and rinsed
+  - qty: 400
+    unit: g
+    name: parboiled long-grain rice
+    raw: 400 g parboiled long-grain rice
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 400
+    unit: ml
+    name: chicken stock
+    raw: 400 ml chicken stock
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: ketchup
+    raw: 1 tbsp ketchup
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    unit: small handful
+    name: chadon beni
+    raw: Small handful chopped fresh chadon beni

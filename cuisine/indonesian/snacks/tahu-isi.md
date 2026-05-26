@@ -1,32 +1,3 @@
----
-prep: 30 minutes
-cook: 20 minutes
-allergens:
-  - gluten
-  - soy
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - snack
-  - asian
-  - tofu
-  - onion
-  - garlic
-  - ginger
-  - carrot
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tahu Isi (Stuffed Fried Tofu)
 
 ![Tahu Isi](resources/tahu-isi.jpg)

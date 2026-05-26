@@ -1,0 +1,95 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - beef
+  - pork
+  - tofu
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: silken tofu
+    raw: 600 g silken tofu
+  - qty: 200
+    unit: g
+    name: pork mince
+    raw: 200 g pork mince
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 3
+    unit: tbsp
+    name: doubanjiang
+    raw: 3 tablespoons doubanjiang
+  - qty: 1
+    unit: tbsp
+    name: douchi
+    raw: 1 tablespoon douchi
+  - qty: 1
+    unit: tbsp
+    name: gochujang
+    raw: 1 tablespoon gochujang
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 1
+    unit: tbsp
+    name: shaoxing rice wine
+    raw: 1 tablespoon Shaoxing rice wine
+  - qty: 350
+    unit: ml
+    name: chicken stock
+    raw: 350 ml chicken stock
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: sichuan peppercorn
+    raw: 1 teaspoon ground Sichuan peppercorn
+  - qty: 1
+    unit: tbsp
+    name: cornflour mixed with 2 tablespoons cold water
+    raw: 1 tablespoon cornflour mixed with 2 tablespoons cold water
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    unit: tsp
+    name: toasted sesame oil
+    raw: 1 teaspoon toasted sesame oil
+  - qty: 1
+    unit: tsp
+    name: sichuan peppercorn
+    raw: 1 teaspoon ground Sichuan peppercorn
+  - qty: 4
+    name: white rice
+    raw: 4 servings white rice

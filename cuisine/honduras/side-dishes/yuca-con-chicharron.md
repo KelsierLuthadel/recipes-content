@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour 15 minutes
-allergens:
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - sides
-  - meat
-  - onion
-  - carrot
-  - lime
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Yuca Con Chicharrón
 
 ![Yuca con Chicharrón](resources/yuca-con-chicharron.jpg)

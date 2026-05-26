@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-cook: 40 minutes
-allergens:
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - meat
-  - onion
-  - garlic
-  - potato
-  - carrot
-mentions: []
----
-
-
-
-
 # Chicken Jus with Savory
 
 ![Chicken jus with savory](resources/chicken-jus.jpg)

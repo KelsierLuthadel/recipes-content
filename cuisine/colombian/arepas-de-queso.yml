@@ -1,0 +1,43 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - meals
+  - onion
+  - tomato
+  - butter
+  - cheese
+mentions:
+  - cuisine/colombian/side-dishes/hogao
+  - cuisine/mexican/snacks/guacamole
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: pre-cooked white maize flour
+    raw: 350 g pre-cooked white maize flour
+  - qty: 1.25
+    unit: tsp
+    name: salt
+    raw: 1 ¼ teaspoons salt
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml warm water
+  - qty: 200
+    unit: g
+    name: mozzarella
+    raw: 200 g mild mozzarella
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - name: butter
+    raw: Extra butter
+  - name: hogao or guacamole
+    raw: Hogao or guacamole

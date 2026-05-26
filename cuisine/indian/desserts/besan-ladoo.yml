@@ -1,0 +1,55 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - asian
+  - nuts
+  - diwali
+  - eid-al-fitr
+  - holi
+  - muslim
+  - hindu
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: besan
+    raw: 250 g besan
+  - qty: 150
+    unit: g
+    name: ghee
+    raw: 150 g ghee
+  - qty: 200
+    unit: g
+    name: icing sugar
+    raw: 200 g icing sugar
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: pistachios
+    raw: 2 tablespoons pistachios
+  - qty: 1
+    unit: tbsp
+    name: almonds
+    raw: 1 tablespoon almonds
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: A pinch of saffron threads
+  - qty: 1
+    unit: tsp
+    name: milk
+    raw: 1 teaspoon warm milk

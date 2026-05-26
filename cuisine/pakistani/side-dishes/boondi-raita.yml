@@ -1,0 +1,68 @@
+prep: 10 minutes
+cook: 0 minutes (using ready-made boondi)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - coriander
+  - yogurt
+  - chili
+  - diwali
+  - holi
+mentions:
+  - cuisine/indian/biryani
+  - cuisine/pakistani/haleem
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain yogurt
+    raw: 500 g full-fat plain yogurt
+  - qty: 4.5
+    unit: tbsp
+    name: water
+    raw: 4-5 tablespoons cold water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: caster sugar
+    raw: ½ teaspoon caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: roasted cumin
+    raw: 1 ½ teaspoons ground roasted cumin
+  - qty: 0.5
+    unit: tsp
+    name: kashmiri red chilli powder
+    raw: ½ teaspoon Kashmiri red chilli powder
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tablespoon fresh mint
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 80
+    unit: g
+    name: ready-made boondi
+    raw: 80 g ready-made boondi
+  - name: water
+    raw: Hot water
+  - qty: 1
+    unit: pinch
+    name: roasted cumin
+    raw: A pinch of ground roasted cumin
+  - qty: 1
+    unit: pinch
+    name: kashmiri red chilli powder
+    raw: A pinch of Kashmiri red chilli powder
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon fresh coriander

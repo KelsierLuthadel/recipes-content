@@ -1,0 +1,52 @@
+prep: 10 minutes
+cook: 4 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - mushroom
+  - cream
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: italian sausage
+    raw: 400 grams Italian sausage
+  - qty: 6
+    unit: tbsp
+    name: virgin olive oil
+    raw: 6 tablespoons extra virgin olive oil
+  - qty: 1
+    name: leek
+    raw: 1 leek
+  - qty: 2
+    unit: tbsp
+    name: rosemary leaves
+    raw: 2 tablespoons fresh rosemary leaves
+  - qty: 50
+    unit: g
+    name: porcini mushrooms
+    raw: 50 grams dried porcini mushrooms
+  - qty: 100
+    unit: ml
+    name: dry white wine
+    raw: 100 ml dry white wine
+  - qty: 150
+    unit: ml
+    name: double cream
+    raw: 150 ml double cream
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 500
+    unit: g
+    name: tagliatelle
+    raw: 500 grams fresh tagliatelle

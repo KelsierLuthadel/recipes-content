@@ -1,29 +1,3 @@
----
-prep: 10 minutes
-cook: None
-allergens:
-  - dairy
-  - eggs
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - quick
-  - snack
-  - eggs
-  - garlic
-  - lime
-  - coriander
-  - cream
-mentions:
-  - cuisine/mexican/tacos-al-pastor
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Creamy Jalapeño Sauce
 
 ![Creamy Jalapeño Sauce](resources/jalapeno-sauce.jpg)

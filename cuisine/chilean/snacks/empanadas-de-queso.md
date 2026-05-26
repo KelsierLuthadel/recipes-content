@@ -1,24 +1,3 @@
----
-prep: 45 minutes (plus 30 minutes resting)
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - snack
-  - eggs
-  - butter
-  - complex
-mentions:
-  - cuisine/chilean/empanadas-de-pino
-  - tutorials/pizza/dough
----
-
-
-
-
 # Empanadas de Queso
 
 ![Empanadas de Queso](resources/empanadas-de-queso.jpg)

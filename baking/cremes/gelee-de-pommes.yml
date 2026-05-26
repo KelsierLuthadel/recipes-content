@@ -1,0 +1,28 @@
+prep: 15 minutes
+cook: 7 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - baking
+mentions:
+  - tutorials/patisserie/tarts
+ingredients:
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 250
+    unit: g
+    name: sugar
+    raw: 250 grams sugar
+  - qty: 500
+    unit: g
+    name: cox's apples
+    raw: 500 grams Cox's apples
+  - qty: 6
+    name: leaves gelatine
+    raw: 6 leaves gelatine

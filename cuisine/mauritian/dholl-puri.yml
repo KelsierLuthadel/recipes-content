@@ -1,0 +1,72 @@
+prep: 30 minutes (plus 4 hours soaking)
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - make-ahead
+  - meals
+  - lentils
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/Breads/puris
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: yellow split peas
+    raw: 200 g yellow split peas
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp ground turmeric
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 0.75
+    unit: tsp
+    name: salt
+    raw: ¾ tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp freshly ground black pepper
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour, plus extra for dusting
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 2
+    unit: tbsp
+    name: neutral oil
+    raw: 2 tbsp neutral oil
+  - qty: 220
+    unit: ml
+    name: water
+    raw: 220 ml warm water
+  - qty: 3.5
+    unit: tbsp
+    name: neutral oil
+    raw: 3-4 tbsp neutral oil, for brushing the tawa
+  - name: butter bean curry
+    raw: Butter bean curry
+  - name: rougaille tomato sauce
+    raw: Rougaille tomato sauce
+  - name: coriander satini
+    raw: Coriander satini
+  - name: lime
+    raw: Wedge of lime

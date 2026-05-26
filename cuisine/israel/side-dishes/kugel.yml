@@ -1,0 +1,45 @@
+prep: 15 minutes
+cook: 1 hour 10 minutes
+allergens:
+  - eggs
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - eggs
+  - onion
+  - potato
+mentions:
+  - cuisine/israel/side-dishes/bagels
+ingredients:
+  - qty: 6
+    unit: tbsp
+    name: sunflower oil
+    raw: 6 tablespoons sunflower oil
+  - qty: 2
+    name: onions
+    raw: 2 medium onions
+  - qty: 900
+    unit: g
+    name: starchy potatoes
+    raw: 900 g starchy potatoes
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1.25
+    unit: tsp
+    name: sea salt
+    raw: 1 ¼ teaspoons fine sea salt
+  - name: black pepper
+    raw: A generous grind of black pepper
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: A small handful of flat-leaf parsley

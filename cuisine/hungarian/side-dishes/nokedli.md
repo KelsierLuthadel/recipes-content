@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 8 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - make-ahead
-  - sides
-  - eggs
-  - butter
-mentions:
-  - cuisine/german/spatzle
-  - cuisine/hungarian/chicken-paprikash
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Nokedli
 
 ![Nokedli](resources/nokedli.jpg)

@@ -1,0 +1,69 @@
+prep: 40-60 minutes
+cook: 5 minutes
+allergens:
+  - peanuts
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - asian
+  - pastes
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - curry
+mentions:
+  - tutorials/thai-curry/panang
+ingredients:
+  - qty: 1
+    name: cumin seeds
+    raw: 1 generous tbsp cumin seeds
+  - qty: 1
+    name: coriander seeds
+    raw: 1 generous tbsp coriander seeds
+  - qty: 1.5
+    unit: tsp
+    name: white pepper
+    raw: 1 ½ tsp white pepper
+  - qty: 12
+    name: red bird’s eye chillies
+    raw: 12 dried red bird’s eye chillies, soaked in water for 30 minutes and cut into small pieces
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves, roughly chopped
+  - qty: 2
+    name: shallots
+    raw: 2 shallots , finely chopped
+  - qty: 1
+    name: galangal
+    raw: 1 thumb-sized piece galangal, thinly sliced
+  - qty: 2
+    name: red chillies
+    raw: 2 fresh red chillies, thinly sliced
+  - qty: 1
+    name: lemongrass stalk
+    raw: 1 lemongrass stalk, tough outer part removed and thinly sliced
+  - qty: 10
+    name: coriander stalks
+    raw: 10 thick coriander stalks
+  - qty: 0.5
+    name: lime
+    raw: ½ lime
+  - qty: 4
+    name: lime leaves
+    raw: 4 lime leaves, stems removed and finely chopped
+  - qty: 3.5
+    unit: tbsp
+    name: roasted peanuts
+    raw: 3-4 tbsp roasted peanuts
+  - qty: 1
+    unit: tsp
+    name: shrimp paste
+    raw: 1 tsp shrimp paste

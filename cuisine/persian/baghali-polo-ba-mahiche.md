@@ -1,28 +1,3 @@
----
-prep: 30 minutes (plus 1 hour rice soak)
-cook: 3 hours
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - lamb
-  - rice
-  - onion
-  - garlic
-  - butter
-  - complex
-mentions:
-  - cuisine/iran/tahdig
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Baghali Polo Ba Mahiche
 
 ![Baghali Polo ba Mahiche](resources/baghali-polo-ba-mahiche.jpg)

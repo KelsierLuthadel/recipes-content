@@ -1,0 +1,51 @@
+prep: 10 minutes
+cook: 9 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - quick
+  - yogurt
+mentions:
+  - cuisine/indian/Breads/rotis
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 450
+    unit: g
+    name: white flour
+    raw: 450 grams strong white flour
+  - qty: 1
+    unit: tbsp
+    name: baking powder
+    raw: 1 tablespoon baking powder
+  - qty: 1
+    unit: tbsp
+    name: white granulated sugar
+    raw: 1 tablespoon white granulated sugar
+  - qty: 2
+    unit: tbsp
+    name: greek yoghurt
+    raw: 2 tablespoons Greek yoghurt
+  - qty: 1
+    unit: tsp
+    name: aromatic salt
+    raw: 1 teaspoon Aromatic Salt
+  - name: water
+    raw: Lukewarm water
+  - qty: 2
+    unit: tsp
+    name: sesame seeds
+    raw: 2 teaspoons sesame seeds
+  - qty: 0.5
+    unit: tsp
+    name: nigella seeds
+    raw: ½ teaspoon nigella seeds
+  - qty: 2
+    unit: tbsp
+    name: ghee
+    raw: 2 tablespoons ghee
+  - name: flour for dusting
+    raw: Extra flour for dusting

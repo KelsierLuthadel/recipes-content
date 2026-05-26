@@ -1,25 +1,3 @@
----
-prep: 20 minutes
-cook: 30 minutes
-allergens:
-  - fish
-  - celery
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - fish
-  - onion
-  - tomato
-  - lime
-  - chili
-mentions: []
----
-
-
-
-
 # Caribbean Fish Soup
 
 ![Caribbean fish soup](resources/caribbean-fish-soup.jpg)

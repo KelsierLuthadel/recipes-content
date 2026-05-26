@@ -1,26 +1,3 @@
----
-prep: 15 minutes
-cook: 10 minutes
-allergens:
-  - meat
-  - mustard
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - meat
-  - pork
-  - tomato
-  - lime
-mentions:
-  - cuisine/chilean/side-dishes/pebre
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Completo
 
 ![Completo](resources/completo.jpg)

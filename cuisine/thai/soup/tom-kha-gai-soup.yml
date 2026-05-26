@@ -1,0 +1,72 @@
+prep: 15 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+  - fish
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - mushroom
+  - onion
+  - coconut
+  - lime
+  - coriander
+  - chili
+  - curry
+mentions:
+  - cuisine/thai/stocks/thai-chicken-stock
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: lemongrass
+    raw: 1 stalk lemongrass , bruised and cut into about 6 slices
+  - qty: 3
+    name: lime leaves
+    raw: 3 lime leaves, stalks removed and leaves thinly sliced
+  - qty: 1
+    name: galangal
+    raw: 1 thumb-sized piece of galangal, bruised and sliced into 7 pieces
+  - qty: 10
+    name: coriander stalks
+    raw: 10 coriander stalks, finely chopped
+  - qty: 250
+    unit: g
+    name: chicken thigh fillets
+    raw: 250g skinless chicken thigh fillets, cut into bite-size pieces
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400ml tinned thick coconut milk
+  - qty: 8
+    name: mushrooms
+    raw: 8 mushrooms, quartered
+  - qty: 3
+    name: spring onions
+    raw: 3 spring onions , roughly chopped
+  - qty: 500
+    unit: ml
+    name: water or thai chicken stock
+    raw: 500ml water or Thai chicken stock
+  - qty: 2
+    unit: tbsp
+    name: palm sugar
+    raw: 2 tbsp palm sugar
+  - qty: 70
+    unit: ml
+    name: thai fish sauce*
+    raw: 70ml Thai fish sauce*
+  - qty: 2
+    unit: tbsp
+    name: roasted thai chilli oil with some of the goop at the bottom
+    raw: 2 tbsp roasted Thai chilli oil with some of the goop at the bottom , or Thai red curry paste to taste
+  - qty: 80
+    unit: ml
+    name: lime juice
+    raw: 80ml lime juice

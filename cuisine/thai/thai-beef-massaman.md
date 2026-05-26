@@ -1,35 +1,3 @@
----
-prep: 10 minutes
-cook: 2 hours
-allergens:
-  - dairy
-  - peanuts
-  - fish
-  - meat
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - asian
-  - meat
-  - fish
-  - beef
-  - onion
-  - coconut
-  - potato
-  - nuts
-  - curry
-  - complex
-mentions:
-  - cuisine/thai/pastes/massaman-curry-paste
-  - tutorials/bread/gluten
-  - tutorials/pizza/sauce
-  - tutorials/thai-curry/massaman
----
-
-
-
-
 # Thai Beef Massaman Curry
 
 ![Thai Beef Massaman Curry](resources/thai-beef-massaman.jpg)

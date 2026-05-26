@@ -1,0 +1,70 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - fish
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - coconut
+  - lime
+  - chili
+  - curry
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+  - cuisine/thai/pastes/thai-green-curry-paste
+  - cuisine/thai/stocks/thai-chicken-stock
+  - tutorials/bread/gluten
+  - tutorials/pizza/sauce
+  - tutorials/thai-curry/green
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: coconut oil
+    raw: 2 tbsp coconut oil
+  - qty: 1
+    name: batch thai green curry paste
+    raw: 1 batch Thai green curry paste
+  - qty: 450
+    unit: g
+    name: chicken thigh or breast fillets
+    raw: 450 g skinless chicken thigh or breast fillets, cut into bite-size pieces
+  - qty: 250
+    unit: ml
+    name: thai chicken stock
+    raw: 250 ml Thai chicken stock
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml thick coconut milk
+  - qty: 225
+    unit: g
+    name: vegetables
+    raw: 225 g vegetables, such as baby corn, bamboo shoots, aubergine , broccoli, sliced lotus root
+  - qty: 2
+    unit: tbsp
+    name: sugar
+    raw: 2 tbsp sugar
+  - qty: 3
+    unit: tbsp
+    name: thai fish sauce
+    raw: 3 tbsp Thai fish sauce
+  - qty: 1
+    unit: handful
+    name: thai sweet basil
+    raw: Handful of Thai sweet basil, roughly chopped
+  - qty: 3
+    name: lime leaves
+    raw: 3 lime leaves, stalks removed and leaves finely julienned
+  - qty: 2
+    name: red spur chillies
+    raw: 2 red spur chillies, cut into thin rings, to garnish
+  - name: basil oil and some of the goop from the bottom
+    raw: Basil oil and some of the goop from the bottom, to garnish

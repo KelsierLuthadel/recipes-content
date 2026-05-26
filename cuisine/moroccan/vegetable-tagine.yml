@@ -1,0 +1,99 @@
+prep: 20 minutes
+cook: 1 hour
+allergens:
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - carrot
+  - lemon
+  - coriander
+  - honey
+  - chickpea
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 2
+    unit: tbsp
+    name: ras el hanout
+    raw: 2 tablespoons ras el hanout
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 2
+    name: parsnips
+    raw: 2 parsnips
+  - qty: 300
+    unit: g
+    name: butternut squash
+    raw: 300 g butternut squash
+  - qty: 2
+    name: potatoes
+    raw: 2 potatoes
+  - qty: 400
+    unit: g
+    name: chickpeas
+    raw: 400 g tin chickpeas
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tin chopped tomatoes
+  - qty: 100
+    unit: g
+    name: apricots
+    raw: 100 g dried apricots
+  - qty: 600
+    unit: ml
+    name: vegetable stock
+    raw: 600 ml vegetable stock
+  - qty: 1
+    name: preserved lemon
+    raw: 1 preserved lemon
+  - qty: 1
+    unit: tbsp
+    name: honey
+    raw: 1 tablespoon honey
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 50
+    unit: g
+    name: flaked almonds
+    raw: 50 g flaked almonds
+  - qty: 1
+    name: coriander
+    raw: A small bunch of coriander
+  - qty: 1
+    name: mint
+    raw: A small bunch of mint

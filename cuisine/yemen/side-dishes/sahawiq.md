@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 0 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - sides
-  - garlic
-  - tomato
-  - lemon
-  - coriander
-  - chili
-mentions: []
----
-
-
-
-
 # Sahawiq
 
 ![Sahawiq](resources/sahawiq.jpg)

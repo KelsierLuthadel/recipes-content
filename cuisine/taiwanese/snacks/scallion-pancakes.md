@@ -1,30 +1,3 @@
----
-prep: 30 minutes (plus 30 min resting)
-cook: 20 minutes
-allergens:
-  - gluten
-  - soy
-  - sesame
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - snack
-  - rice
-  - onion
-  - ginger
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Scallion Pancakes
 
 ![Scallion Pancakes](resources/scallion-pancakes.jpg)

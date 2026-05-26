@@ -1,0 +1,93 @@
+prep: 25 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - beef
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - spinach
+  - chili
+  - complex
+  - kwanzaa
+mentions:
+  - cuisine/nigerian/side-dishes/fufu
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef shin
+    raw: 500 g beef shin
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: stock cube
+    raw: 1 stock cube
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml water
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: red bell peppers
+    raw: 2 red bell peppers
+  - qty: 1.5
+    name: scotch bonnet chillies
+    raw: 1-2 Scotch bonnet chillies
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 200
+    unit: g
+    name: egusi seeds
+    raw: 200 g ground egusi seeds
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml warm water
+  - qty: 150
+    unit: ml
+    name: red palm oil
+    raw: 150 ml red palm oil
+  - qty: 150
+    unit: g
+    name: smoked fish
+    raw: 150 g smoked fish
+  - qty: 2
+    unit: tbsp
+    name: crayfish
+    raw: 2 tablespoons ground crayfish
+  - qty: 1
+    unit: tbsp
+    name: iru
+    raw: 1 tablespoon iru
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 200
+    unit: g
+    name: leafy greens - bitter leaf or spinach or ugu
+    raw: 200 g leafy greens - bitter leaf OR spinach OR ugu
+  - name: fufu
+    raw: Fufu, pounded yam, eba or rice

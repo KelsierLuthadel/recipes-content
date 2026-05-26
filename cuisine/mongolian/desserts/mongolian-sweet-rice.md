@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-cook: 50 minutes
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - rice
-  - butter
-  - nuts
-mentions: []
----
-
-
-
-
 # Mongolian Sweet Rice
 
 ![Mongolian Sweet Rice](resources/mongolian-sweet-rice.jpg)

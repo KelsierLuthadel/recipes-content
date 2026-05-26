@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 12 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - quick
-  - meals
-  - tomato
-  - cheese
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pizza Margherita
 
 ![Pizza Margherita](resources/margherita.jpg)

@@ -1,34 +1,3 @@
----
-prep: 25 minutes (plus 30 minutes resting)
-cook: 15 minutes
-allergens:
-  - gluten
-  - eggs
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - meals
-  - bbq
-  - meat
-  - beef
-  - lamb
-  - eggs
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coriander
-  - chickpea
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Chapli Kebab
 
 ![Chapli Kebab](resources/chapli-kebab.jpg)

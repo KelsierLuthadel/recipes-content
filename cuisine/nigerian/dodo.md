@@ -1,21 +1,3 @@
----
-prep: 5 minutes
-cook: 10 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - meals
-  - kwanzaa
-mentions: []
----
-
-
-
-
 # Dodo
 
 ![Dodo](resources/dodo.jpg)

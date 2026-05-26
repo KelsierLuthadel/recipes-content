@@ -1,32 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - meat
-  - mustard
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - ginger
-  - coriander
-  - chili
-  - curry
-mentions: []
----
-
-
-
-
 # Lamb Naga Phall
 
 ![Lamb Naga Phall](resources/BIR_Lamb-Naga-Phaal.jpg)

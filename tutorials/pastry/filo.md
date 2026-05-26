@@ -1,25 +1,3 @@
----
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - one-pan
-mentions:
-  - cuisine/british/snacks/sausage-rolls
-  - cuisine/greek/desserts/galaktoboureko
-  - cuisine/greek/snacks/tyropita
-  - cuisine/greek/spanakopita
-  - cuisine/israel/snacks/bourekas
-  - cuisine/turkish/desserts/baklava
-  - tutorials/pastry/puff
-  - tutorials/patisserie/tarts
-  - tutorials/pizza/dough
----
-
-
-
 # Filo Pastry
 
 ![Filo](resources/filo.jpg)

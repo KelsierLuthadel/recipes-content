@@ -1,21 +1,3 @@
----
-prep: 30 minutes (plus 1 hour rising)
-cook: 18 minutes
-allergens:
-  - gluten
-  - dairy
-  - sesame
-tags:
-  - vegetarian
-  - sides
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Ka'ak Bi Simsim
 
 ![Kaak bi Simsim](resources/kaak-bi-simsim.jpg)

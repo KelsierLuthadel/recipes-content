@@ -1,31 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - quick
-  - snack
-  - asian
-  - onion
-  - coriander
-  - curry
-  - holi
-  - hindu
-mentions:
-  - cuisine/indian/sauces-pickles/mango-chutney
-  - cuisine/indian/sauces-pickles/mint-chutney
-  - cuisine/indian/side-dishes/onion-bahjis
-  - sauces/fruit-sauce/mango-chutney
----
-
-
-
-
 # Onion Bhajis
 
 ![Onion Bhajis](resources/onionbhajji.jpg)

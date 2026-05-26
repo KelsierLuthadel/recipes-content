@@ -1,0 +1,44 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - asian
+  - nuts
+  - diwali
+  - eid-al-fitr
+  - holi
+  - muslim
+  - hindu
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: cashews
+    raw: 250 g cashews
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 75
+    unit: ml
+    name: water
+    raw: 75 ml water
+  - qty: 0.25
+    name: /4 teaspoon ground cardamom
+    raw: 1/4 teaspoon ground cardamom
+  - qty: 1
+    unit: tsp
+    name: ghee
+    raw: 1 teaspoon ghee
+  - name: edible silver leaf
+    raw: Edible silver leaf , 2 small sheets
+  - qty: 1
+    unit: tbsp
+    name: rose petals
+    raw: 1 tablespoon dried rose petals

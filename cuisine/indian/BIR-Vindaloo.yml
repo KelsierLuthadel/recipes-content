@@ -1,0 +1,97 @@
+prep: 15 minutes
+cook: 4 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - complex
+mentions:
+  - cuisine/indian/BIR-Chicken-Vindaloo
+ingredients:
+  - qty: 400
+    unit: g
+    name: pre-cooked chicken
+    raw: 400 g Pre-Cooked Chicken
+  - qty: 7
+    unit: clove
+    name: garlic
+    raw: 6-8 cloves garlic
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tbsp ginger
+  - qty: 3
+    unit: tsp
+    name: chilli powder
+    raw: 2-4 tsp chilli powder
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 tsp coriander seeds
+  - qty: 5
+    name: black peppercorns
+    raw: 4-6 black peppercorns
+  - qty: 2
+    name: cloves
+    raw: 2 cloves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 2.5
+    unit: tbsp
+    name: white vinegar
+    raw: 2-3 tbsp white vinegar
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp turmeric
+  - name: salt
+    raw: Salt to taste
+  - qty: 2.5
+    unit: tbsp
+    name: oil
+    raw: 2-3 tbsp oil
+  - qty: 1
+    name: onion
+    raw: 1 onion , finely chopped
+  - qty: 1
+    unit: tbsp
+    name: ginger-garlic paste
+    raw: 1 tbsp ginger-garlic paste
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 275
+    unit: ml
+    name: curry base gravy
+    raw: 250-300ml Curry Base Gravy
+  - name: water
+    raw: Water as needed
+  - qty: 1.5
+    unit: tsp
+    name: vinegar
+    raw: 1-2 tsp vinegar
+  - name: coriander
+    raw: Fresh coriander

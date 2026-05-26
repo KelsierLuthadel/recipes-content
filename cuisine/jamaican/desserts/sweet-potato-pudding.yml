@@ -1,0 +1,85 @@
+prep: 25 minutes
+cook: 1 ½ hours
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - coconut
+  - potato
+  - butter
+  - complex
+  - kwanzaa
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: yellow sweet potato
+    raw: 1 kg yellow sweet potato
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 200
+    unit: g
+    name: soft dark brown sugar
+    raw: 200 g soft dark brown sugar
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 75
+    unit: g
+    name: raisins
+    raw: 75 g raisins
+  - qty: 50
+    unit: g
+    name: mixed candied peel
+    raw: 50 g mixed candied peel
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter, melted
+  - qty: 1
+    name: egg
+    raw: 1 egg , beaten
+  - qty: 2
+    unit: tbsp
+    name: dark rum
+    raw: 2 tablespoons dark rum
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 teaspoon ground nutmeg
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon fine salt
+  - qty: 100
+    unit: ml
+    name: coconut milk
+    raw: 100 ml coconut milk
+  - qty: 1
+    unit: tbsp
+    name: dark brown sugar
+    raw: 1 tablespoon dark brown sugar
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg

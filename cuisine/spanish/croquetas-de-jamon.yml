@@ -1,0 +1,58 @@
+prep: 30 minutes (plus 4 hours chilling)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - eggs
+  - onion
+  - butter
+  - chili
+  - complex
+mentions:
+  - cuisine/cuban/snacks/croquetas
+ingredients:
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 100
+    unit: g
+    name: jamon serrano
+    raw: 100 g jamón serrano , finely chopped
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 700
+    unit: ml
+    name: milk
+    raw: 700 ml whole milk
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 200
+    unit: g
+    name: panko breadcrumbs
+    raw: 200 g panko breadcrumbs
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying

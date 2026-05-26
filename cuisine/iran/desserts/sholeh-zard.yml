@@ -1,0 +1,54 @@
+prep: 15 minutes
+cook: 1 ¼ hours
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - rice
+  - butter
+  - nuts
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: short
+    raw: 200 g short
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1 ½ litres water
+  - qty: 350
+    unit: g
+    name: caster sugar
+    raw: 350 g caster sugar
+  - qty: 1
+    unit: generous pinch
+    name: saffron
+    raw: A generous pinch of saffron
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 3
+    unit: tbsp
+    name: rosewater
+    raw: 3 tablespoons rosewater
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 50
+    unit: g
+    name: flaked almonds
+    raw: 50 g flaked almonds
+  - name: cinnamon
+    raw: Ground cinnamon
+  - qty: 50
+    unit: g
+    name: pistachios
+    raw: 50 g pistachios
+  - name: rose petals
+    raw: A few rose petals

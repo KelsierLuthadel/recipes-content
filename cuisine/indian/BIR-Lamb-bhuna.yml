@@ -1,0 +1,84 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - lime
+  - coriander
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: ghee
+    raw: 3 tbsp ghee, rapeseed oil or seasoned oil
+  - qty: 1
+    name: onion
+    raw: 1 onion , finely chopped
+  - qty: 0.25
+    name: red bell pepper
+    raw: ¼ red bell pepper, deseeded and roughly chopped
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp garlic and ginger paste
+  - qty: 2
+    unit: tbsp
+    name: coriander stalks
+    raw: 2 tbsp finely chopped coriander stalks
+  - qty: 125
+    unit: ml
+    name: tomato puree
+    raw: 125 ml tomato purée
+  - qty: 2
+    unit: tbsp
+    name: mixed powder
+    raw: 2 tbsp Mixed Powder
+  - qty: 2
+    unit: tbsp
+    name: tandoori masala
+    raw: 2 tbsp Tandoori Masala
+  - qty: 500
+    unit: ml
+    name: curry base gravy
+    raw: 500 ml Curry Base Gravy
+  - qty: 750
+    unit: g
+    name: pre-cooked lamb
+    raw: 750 g Pre-cooked Lamb
+  - qty: 200
+    unit: ml
+    name: lamb stock
+    raw: 200 ml Lamb stock
+  - qty: 2
+    unit: tbsp
+    name: greek yoghurt
+    raw: 2 tbsp Greek yoghurt
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    name: coriander leaves
+    raw: Small bunch coriander leaves, finely chopped
+  - qty: 1.5
+    name: limes
+    raw: 1-2 limes
+  - name: red chilli
+    raw: Sliced red chilli

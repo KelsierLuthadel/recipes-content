@@ -1,31 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - soy
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Thai Holy Basil and Chilli Chicken Stir Fry
 
 ![Thai Holy Basil and Chilli Chicken Stir Fry](resources/basil-chicken-stir-fry.jpg)

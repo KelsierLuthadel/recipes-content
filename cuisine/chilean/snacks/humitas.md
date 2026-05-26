@@ -1,22 +1,3 @@
----
-prep: 30 minutes
-cook: 50 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - snack
-  - make-ahead
-  - onion
-  - butter
-mentions:
-  - cuisine/chilean/side-dishes/pebre
----
-
-
-
-
 # Humitas
 
 ![Humitas](resources/humitas.jpg)

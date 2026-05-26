@@ -1,0 +1,62 @@
+prep: 15 minutes
+cook: 6 minutes
+allergens:
+  - peanuts
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 450
+    unit: g
+    name: chicken wings
+    raw: 450 grams chicken wings
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: dry sherry
+    raw: 1 tablespoon dry sherry
+  - qty: 2
+    unit: tsp
+    name: groundnut oil
+    raw: 2 teaspoons groundnut oil
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon fresh ginger
+  - qty: 1
+    unit: tbsp
+    name: garlic
+    raw: 1 tablespoon garlic
+  - qty: 1.5
+    unit: tbsp
+    name: black beans
+    raw: 1 ½ tablespoons black beans
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper
+  - qty: 1.5
+    unit: tbsp
+    name: spring onions
+    raw: 1 ½ tablespoons spring onions
+  - qty: 150
+    unit: ml
+    name: chinese chicken stock
+    raw: 150 ml Chinese chicken stock

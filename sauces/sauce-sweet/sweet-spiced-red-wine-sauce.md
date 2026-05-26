@@ -1,19 +1,3 @@
----
-prep: 10 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - make-ahead
-mentions: []
----
-
-
-
-
 # Sweet Spiced Red Wine Sauce
 
 ![Sweet spiced red wine sauce](resources/spiced-red-wine.jpg)

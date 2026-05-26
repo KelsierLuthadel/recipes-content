@@ -1,0 +1,98 @@
+prep: 25 minutes (plus overnight bean soak)
+cook: 12 minutes
+allergens:
+  - gluten
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - snack
+  - make-ahead
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - chickpea
+  - complex
+mentions:
+  - cuisine/israel/side-dishes/falafel
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: chickpeas
+    raw: 250 g dried chickpeas
+  - qty: 1
+    unit: tsp
+    name: bicarbonate of soda
+    raw: 1 teaspoon bicarbonate of soda
+  - name: water
+    raw: Cold water
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: leek or 4 spring onions
+    raw: 1 leek OR 4 spring onions
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 1
+    name: parsley
+    raw: 1 large bunch fresh parsley
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 1
+    name: dill
+    raw: 1 small bunch fresh dill
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: aleppo pepper
+    raw: 1 teaspoon Aleppo pepper
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tsp
+    name: baking soda
+    raw: 1 teaspoon baking soda
+  - qty: 4
+    unit: tbsp
+    name: sesame seeds
+    raw: 4 tablespoons sesame seeds
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - qty: 4
+    name: khobz
+    raw: 4 khobz
+  - name: tahini sauce
+    raw: Tahini sauce
+  - name: tomato
+    raw: Sliced tomato, cucumber, romaine
+  - name: pickled turnips
+    raw: Pickled turnips
+  - qty: 1
+    unit: pinch
+    name: sumac
+    raw: A pinch of sumac
+  - name: hot sauce
+    raw: Hot sauce

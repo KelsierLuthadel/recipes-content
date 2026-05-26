@@ -1,34 +1,3 @@
----
-prep: 20 minutes (plus overnight marinade)
-cook: 50 minutes
-allergens:
-  - dairy
-  - soy
-  - sesame
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - make-ahead
-  - meals
-  - asian
-  - bbq
-  - meat
-  - pork
-  - garlic
-  - ginger
-  - honey
-  - soy-sauce
-  - complex
-  - lunar-new-year
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Char Siu
 
 ![Char Siu](resources/char-siu.jpg)

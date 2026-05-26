@@ -1,26 +1,3 @@
----
-prep: 15 minutes
-cook: 10 minutes
-allergens:
-  - eggs
-  - meat
-  - mustard
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - bbq
-  - meat
-  - pork
-  - eggs
-  - easter
-mentions: []
----
-
-
-
-
 # Deviled Eggs
 
 ![Deviled Eggs](resources/deviled-eggs.jpg)

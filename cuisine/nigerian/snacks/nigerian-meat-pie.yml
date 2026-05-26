@@ -1,0 +1,100 @@
+prep: 40 minutes (plus 30 min pastry rest)
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - snack
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - butter
+  - curry
+  - complex
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 0.5
+    unit: tsp
+    name: baking powder
+    raw: ½ teaspoon baking powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 150
+    unit: g
+    name: block margarine
+    raw: 150 g block margarine
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 110
+    unit: ml
+    name: ice water
+    raw: 100-120 ml ice water
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 400
+    unit: g
+    name: beef mince
+    raw: 400 g beef mince
+  - qty: 1
+    unit: tbsp
+    name: curry powder
+    raw: 1 tablespoon Curry Powder
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon dried thyme
+  - qty: 1
+    name: stock cube
+    raw: 1 stock cube
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    name: potato
+    raw: 1 potato
+  - qty: 200
+    unit: ml
+    name: beef
+    raw: 200 ml beef
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tablespoon cornflour
+  - qty: 1
+    name: egg
+    raw: 1 egg

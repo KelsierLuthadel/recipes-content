@@ -1,32 +1,3 @@
----
-prep: 30 minutes
-cook: 1 ¼ hours
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - pork
-  - mushroom
-  - onion
-  - garlic
-  - butter
-  - nuts
-  - complex
-  - valentines
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Coq au Vin
 
 ![Coq au Vin](resources/coq-au-vin.jpg)

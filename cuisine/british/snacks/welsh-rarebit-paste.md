@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - mustard
-tags:
-  - vegetarian
-  - quick
-  - snack
-  - make-ahead
-  - pastes
-  - eggs
-  - cheese
-mentions:
-  - sauces/sauce-savory/cheese-sauce
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Welsh Rarebit Paste (Make-Ahead)
 
 ![Welsh Rarebit Paste](resources/welsh-rarebit-paste.jpg)

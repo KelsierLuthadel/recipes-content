@@ -1,0 +1,92 @@
+prep: 40 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - sides
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/snacks/samosa
+ingredients:
+  - qty: 400
+    unit: g
+    name: lamb mince
+    raw: 400 g lamb mince
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 1.5
+    unit: tsp
+    name: cumin
+    raw: 1 ½ teaspoons ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: coriander
+    raw: 1 ½ teaspoons ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 1
+    name: green chilli
+    raw: 1 fresh green chilli
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tablespoons fresh coriander
+  - qty: 3
+    unit: tbsp
+    name: parsley
+    raw: 3 tablespoons fresh parsley
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 24
+    name: spring-roll pastry sheets
+    raw: 24 spring-roll pastry sheets
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil for deep frying
+  - name: lemon wedges and sahawiq
+    raw: Lemon wedges and sahawiq, to serve

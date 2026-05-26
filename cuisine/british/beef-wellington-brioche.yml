@@ -1,0 +1,96 @@
+prep: 15 minutes
+cook: 42 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - eggs
+  - mushroom
+  - onion
+  - spinach
+  - lemon
+  - butter
+  - cream
+  - complex
+  - valentines
+mentions:
+  - base-ingredients/baking/clarified-butter
+  - cuisine/french/desserts/crepes
+  - cuisine/french/side-dishes/herb-crepes
+  - sauces/sauce-savory/bearnaise-sauce
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 260
+    unit: ml
+    name: tepid milk
+    raw: 260 ml tepid milk
+  - qty: 12
+    unit: g
+    name: yeast
+    raw: 12 grams fresh yeast
+  - qty: 450
+    unit: g
+    name: plain flour
+    raw: 450 grams plain flour
+  - qty: 10
+    unit: g
+    name: salt
+    raw: 10 grams fine salt
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 90
+    unit: g
+    name: butter
+    raw: 90 grams butter
+  - qty: 45
+    unit: g
+    name: caster sugar
+    raw: 45 grams caster sugar
+  - qty: 1
+    name: fillet of beef
+    raw: 1 fillet of beef
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 80
+    unit: g
+    name: clarified butter
+    raw: 80 grams Clarified Butter
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 grams butter
+  - qty: 500
+    unit: g
+    name: button mushrooms
+    raw: 500 grams button mushrooms
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 60
+    unit: g
+    name: shallot
+    raw: 60 grams shallot
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 12
+    name: spinach leaves
+    raw: 12 spinach leaves
+  - qty: 4
+    name: herb crepes
+    raw: 4 herb crêpes
+  - name: eggwash
+    raw: eggwash
+  - name: bearnaise sauce
+    raw: béarnaise sauce

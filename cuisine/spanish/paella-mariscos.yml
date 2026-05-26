@@ -1,0 +1,81 @@
+prep: 20 minutes
+cook: 35 minutes
+allergens:
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - fish
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - complex
+mentions:
+  - cuisine/spanish/paella-valenciana
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes
+  - qty: 1
+    unit: tsp
+    name: sweet smoked paprika
+    raw: 1 teaspoon sweet smoked paprika
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 1.2
+    unit: l
+    name: fish stock
+    raw: 1.2 litres warm fish stock
+  - qty: 350
+    unit: g
+    name: bomba rice
+    raw: 350 g bomba rice
+  - qty: 200
+    unit: g
+    name: squid
+    raw: 200 g squid
+  - qty: 300
+    unit: g
+    name: firm white fish
+    raw: 300 g firm white fish , cubed
+  - qty: 12
+    name: prawns
+    raw: 12 raw prawns
+  - qty: 200
+    unit: g
+    name: mussels
+    raw: 200 g mussels
+  - qty: 200
+    unit: g
+    name: clams
+    raw: 200 g clams
+  - qty: 100
+    unit: g
+    name: peas
+    raw: 100 g peas
+  - name: salt
+    raw: Salt
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons chopped flat-leaf parsley
+  - name: lemon wedges
+    raw: Lemon wedges, to serve

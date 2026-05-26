@@ -1,0 +1,51 @@
+prep: 35 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - rice
+  - onion
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 450
+    unit: g
+    name: basmati rice
+    raw: 450 grams basmati rice
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: large knob
+    name: butter
+    raw: 1 large knob butter
+  - qty: 4
+    name: cardamom pods
+    raw: 4 cardamom pods
+  - qty: 8
+    name: cloves
+    raw: 8 whole cloves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: 1 pinch saffron threads
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 600
+    unit: ml
+    name: chicken stock
+    raw: 600 milliliters chicken stock
+  - name: sea salt
+    raw: Fine sea salt to taste
+  - name: water
+    raw: Water

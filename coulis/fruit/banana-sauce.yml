@@ -1,0 +1,35 @@
+prep: 5 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - lemon
+  - cream
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: bananas
+    raw: 2 bananas
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 350
+    unit: g
+    name: caster sugar
+    raw: 350 grams caster sugar
+  - qty: 200
+    unit: g
+    name: creme fraiche
+    raw: 200 grams crème fraîche
+  - qty: 100
+    unit: ml
+    name: white rum
+    raw: 100 ml white rum
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml milk

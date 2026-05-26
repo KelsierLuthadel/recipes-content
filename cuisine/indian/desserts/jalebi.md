@@ -1,28 +1,3 @@
----
-prep: 15 minutes (plus 8-12 hours fermentation)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - asian
-  - lemon
-  - yogurt
-  - nuts
-  - complex
-  - diwali
-  - holi
-  - hindu
-mentions: []
----
-
-
-
-
 # Jalebi
 
 ![Jalebi](resources/jalebi.jpg)

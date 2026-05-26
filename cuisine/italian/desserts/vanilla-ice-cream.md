@@ -1,19 +1,3 @@
----
-prep: 20 minutes
-cook: 20 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - cream
-mentions: []
----
-
-
-
-
 # Vanilla Ice Cream
 
 ![Vanilla ice cream](resources/vanilla-ice-cream.jpg)

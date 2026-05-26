@@ -1,21 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - dairy
-  - mustard
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - cream
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Parmesan Vinaigrette
 
 ![Parmesan Vinaigrette](resources/parmesan.png)

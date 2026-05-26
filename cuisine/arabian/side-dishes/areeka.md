@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - sesame
-tags:
-  - vegetarian
-  - quick
-  - sides
-  - butter
-  - honey
-mentions:
-  - cuisine/arabian/side-dishes/khubz-tameez
----
-
-
-
-
 # Areeka
 
 ![Areeka](resources/areeka.jpg)

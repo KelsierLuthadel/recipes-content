@@ -1,0 +1,28 @@
+prep: 25 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+mentions: []
+ingredients:
+  - qty: 380
+    unit: g
+    name: classic puff pastry
+    raw: 380 grams classic puff pastry
+  - qty: 180
+    unit: g
+    name: creme patissiere
+    raw: 180 grams crème pâtissière
+  - qty: 3
+    name: apples
+    raw: 3 apples
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 grams caster sugar
+  - qty: 3
+    name: passion fruit
+    raw: 3 passion fruit

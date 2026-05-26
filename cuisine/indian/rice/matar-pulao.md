@@ -1,29 +1,3 @@
----
-prep: 10 minutes (plus 30 minutes soak)
-cook: 30 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - meals
-  - asian
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - coriander
-  - butter
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Matar Pulao
 
 ![Matar Pulao](resources/matar-pulao.jpg)

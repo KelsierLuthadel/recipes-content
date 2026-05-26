@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-cook: 5 minutes
-allergens:
-  - soy
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - meals
-  - asian
-  - meat
-  - pork
-  - onion
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Stir-Fried Pork with Spring Onions
 
 ![Stir-Fried Pork with Spring Onions](resources/stir-fried-pork.jpg)

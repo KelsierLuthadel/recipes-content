@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - quick
-  - meals
-  - fish
-  - garlic
-  - lemon
-  - chili
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Linguine with Crab, Fresh Chilli, and Lemon Zest
 
 ![Linguine with Crab](resources/granchio.jpg)

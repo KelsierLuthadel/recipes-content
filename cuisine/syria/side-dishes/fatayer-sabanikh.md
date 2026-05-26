@@ -1,24 +1,3 @@
----
-prep: 30 minutes (plus 1 hour rising)
-cook: 20 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - sides
-  - onion
-  - spinach
-  - lemon
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Fatayer Bi Sabanikh
 
 ![Fatayer bi Sabanikh](resources/fatayer-sabanikh.jpg)

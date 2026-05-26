@@ -1,0 +1,64 @@
+prep: 15 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+  - meat
+tags:
+  - spicy
+  - meals
+  - asian
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - ginger
+  - coconut
+  - nuts
+  - chili
+  - curry
+mentions: []
+ingredients:
+  - qty: 175
+    unit: g
+    name: egg noodles
+    raw: 175 grams thin egg noodles
+  - qty: 2
+    unit: tbsp
+    name: peanut oil
+    raw: 2 tablespoons peanut oil
+  - qty: 2
+    name: chicken breast
+    raw: 2 boneless, skinless chicken breast
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 300
+    unit: g
+    name: pak choy
+    raw: 300 grams pak choy
+  - qty: 1
+    name: red chilli
+    raw: 1 fresh red chilli
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon fresh ginger
+  - qty: 2
+    unit: tbsp
+    name: curry powder
+    raw: 2 tablespoons Curry Powder
+  - qty: 750
+    unit: ml
+    name: chicken stock
+    raw: 750 ml chicken stock
+  - qty: 800
+    unit: ml
+    name: coconut milk
+    raw: 800 ml coconut milk
+  - qty: 20
+    unit: g
+    name: basil
+    raw: 20 grams basil

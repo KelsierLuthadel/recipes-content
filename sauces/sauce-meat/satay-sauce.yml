@@ -1,0 +1,52 @@
+prep: 5 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+  - peanuts
+  - soy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - garlic
+  - coconut
+  - lemon
+  - butter
+  - nuts
+  - soy-sauce
+mentions:
+  - cuisine/chinese/snacks/spring-rolls
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    unit: tbsp
+    name: crunchy peanut butter
+    raw: 8 tablespoons crunchy peanut butter
+  - qty: 1
+    unit: clove
+    name: garlic
+    raw: 1 clove garlic
+  - qty: 1
+    unit: tbsp
+    name: palm sugar
+    raw: 1 tablespoon palm sugar
+  - qty: 2
+    unit: tbsp
+    name: dark soy sauce
+    raw: 2 tablespoons dark soy sauce
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 2
+    unit: tbsp
+    name: tamarind liquid
+    raw: 2 tablespoons tamarind liquid
+  - qty: 1
+    unit: generous pinch
+    name: chilli powder
+    raw: a generous pinch of chilli powder
+  - name: little coconut milk to bind the sauce
+    raw: a little coconut milk to bind the sauce

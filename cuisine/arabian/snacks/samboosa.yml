@@ -1,0 +1,89 @@
+prep: 30 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - sesame
+  - meat
+  - garlic
+tags:
+  - snack
+  - meat
+  - chicken
+  - beef
+  - onion
+  - garlic
+  - lemon
+  - lime
+  - yogurt
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: beef
+    raw: 400 g lean ground beef
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1.5
+    unit: tsp
+    name: baharat
+    raw: 1 ½ teaspoons Baharat
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 1
+    name: black lime
+    raw: 1 dried black lime
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 30
+    unit: g
+    name: pine nuts
+    raw: 30 g pine nuts
+  - qty: 3
+    unit: tbsp
+    name: parsley
+    raw: 3 tablespoons fresh parsley
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 20
+    name: spring-roll wrappers or 20 samboosa pastry sheets
+    raw: 20 spring-roll wrappers OR 20 samboosa pastry sheets
+  - qty: 2
+    unit: tbsp
+    name: plain flour mixed with 3 tablespoons cold water
+    raw: 2 tablespoons plain flour mixed with 3 tablespoons cold water
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: tahini-yogurt dip
+    raw: Tahini-yogurt dip
+  - name: bowl of green hot sauce
+    raw: A small bowl of green hot sauce

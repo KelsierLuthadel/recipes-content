@@ -1,0 +1,53 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - onion
+  - potato
+  - lemon
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 3
+    unit: tbsp
+    name: plain flour
+    raw: 3 tablespoons plain flour
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 5
+    unit: tbsp
+    name: sunflower oil
+    raw: 4-6 tablespoons sunflower oil
+  - qty: 200
+    unit: g
+    name: soured cream
+    raw: 200 g soured cream
+  - qty: 1
+    name: dill
+    raw: A small bunch of fresh dill
+  - name: crispy fried onions
+    raw: Crispy fried onions

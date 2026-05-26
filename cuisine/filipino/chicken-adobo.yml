@@ -1,0 +1,59 @@
+prep: 10 minutes
+cook: 45 minutes
+allergens:
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken thighs and drumsticks
+    raw: 1 kg chicken thighs and drumsticks
+  - qty: 100
+    unit: ml
+    name: soy sauce
+    raw: 100 ml soy sauce
+  - qty: 100
+    unit: ml
+    name: white wine vinegar
+    raw: 100 ml white wine vinegar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 3
+    name: bay leaves
+    raw: 3 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: brown sugar
+    raw: 1 tablespoon brown sugar
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - name: white rice
+    raw: Cooked white rice, to serve
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions

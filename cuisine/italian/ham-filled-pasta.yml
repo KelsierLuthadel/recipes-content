@@ -1,0 +1,62 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - pork
+  - eggs
+  - tomato
+  - cheese
+mentions:
+  - bread-pasta/pasta
+  - tutorials/pasta/fresh-pasta-dough
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: pasta dough
+    raw: 400 grams fresh pasta dough
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 100
+    unit: g
+    name: pecorino cheese
+    raw: 100 gram piece Pecorino cheese
+  - qty: 750
+    unit: g
+    name: ricotta cheese
+    raw: 750 grams ricotta cheese
+  - qty: 200
+    unit: g
+    name: ham
+    raw: 200 grams cooked ham
+  - qty: 150
+    unit: g
+    name: sun-dried tomato in oil
+    raw: 150 grams sun-dried tomato in oil
+  - qty: 15
+    name: basil leaves
+    raw: 15 fresh basil leaves
+  - qty: 100
+    unit: g
+    name: pecorino cheese
+    raw: 100 grams Pecorino cheese
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 200
+    unit: ml
+    name: virgin olive oil
+    raw: 200 ml extra virgin olive oil
+  - qty: 200
+    unit: g
+    name: chorizo
+    raw: 200 grams chorizo

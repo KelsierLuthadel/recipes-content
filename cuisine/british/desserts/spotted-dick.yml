@@ -1,0 +1,90 @@
+prep: 20 minutes
+cook: 2 hours
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - dessert
+  - meat
+  - beef
+  - eggs
+  - lemon
+  - butter
+  - complex
+mentions:
+  - cuisine/british/side-dishes/yorkshire-puddings
+ingredients:
+  - qty: 250
+    unit: g
+    name: self-raising flour
+    raw: 250 g self-raising flour
+  - qty: 125
+    unit: g
+    name: shredded beef suet
+    raw: 125 g shredded beef suet
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 150
+    unit: g
+    name: currants
+    raw: 150 g currants
+  - qty: 100
+    unit: g
+    name: sultanas
+    raw: 100 g sultanas
+  - qty: 225
+    unit: ml
+    name: milk
+    raw: 200-250 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: butter
+    raw: 1 teaspoon butter
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    name: pudding basin
+    raw: 1 pudding basin
+  - qty: 1
+    name: baking paper
+    raw: 1 piece baking paper
+  - qty: 1
+    name: foil
+    raw: 1 piece foil
+  - name: string
+    raw: String
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 4
+    name: egg yolks
+    raw: 4 egg yolks
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 1
+    name: vanilla pod or 1 teaspoon vanilla extract
+    raw: 1 vanilla pod or 1 teaspoon vanilla extract
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tablespoon cornflour

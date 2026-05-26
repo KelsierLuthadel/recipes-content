@@ -1,17 +1,3 @@
----
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-mentions:
-  - tutorials/pastry/puff
-  - tutorials/pastry/sweet-short
----
-
-
-
 # Shortcrust Pastry
 
 ![Shortcrust](resources/shortcrust.jpg)

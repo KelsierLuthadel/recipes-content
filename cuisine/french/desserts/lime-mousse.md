@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-cook: 5 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - dessert
-  - lime
-  - cream
-  - tu-bav
-mentions: []
----
-
-
-
-
 # Lime Mousse with Wild Strawberries
 
 ![Lime mousse with wild strawberries](resources/lime-mousse.jpg)

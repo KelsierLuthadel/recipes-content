@@ -1,0 +1,54 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - asian
+  - onion
+  - garlic
+  - ginger
+mentions:
+  - cuisine/indian/Breads/rotis
+  - cuisine/indian/side-dishes/samosa
+  - sauces/fruit-sauce/mango-chutney
+ingredients:
+  - qty: 400
+    unit: g
+    name: sugar
+    raw: 400 grams sugar
+  - qty: 250
+    unit: ml
+    name: distilled white vinegar
+    raw: 250 ml distilled white vinegar
+  - qty: 4.5
+    name: green mangoes
+    raw: 4-5 green mangoes
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: large handful
+    name: raisins
+    raw: Large handful of raisins
+  - qty: 5
+    name: ginger
+    raw: 5 cm piece of fresh ginger
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: black mustard seeds
+    raw: 1 teaspoon black mustard seeds
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 teaspoon chilli powder
+  - name: salt
+    raw: Salt

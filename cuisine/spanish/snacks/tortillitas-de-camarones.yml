@@ -1,0 +1,53 @@
+prep: 15 minutes (plus 30 minutes batter resting)
+cook: 20 minutes (in batches)
+allergens:
+  - gluten
+  - shellfish
+tags:
+  - dairy-free
+  - snack
+  - fish
+  - prawn
+  - onion
+  - chickpea
+mentions: []
+ingredients:
+  - qty: 100
+    unit: g
+    name: chickpea flour
+    raw: 100 g chickpea flour
+  - qty: 50
+    unit: g
+    name: plain flour
+    raw: 50 g plain flour
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml very cold water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: sweet smoked paprika
+    raw: ½ teaspoon sweet smoked paprika
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 200
+    unit: g
+    name: brown shrimp
+    raw: 200 g tiny whole brown shrimp
+  - qty: 3
+    name: spring onions
+    raw: 3 spring onions
+  - qty: 30
+    unit: g
+    name: flat-leaf parsley
+    raw: 30 g fresh flat-leaf parsley
+  - qty: 500
+    unit: ml
+    name: olive oil
+    raw: 500 ml olive oil

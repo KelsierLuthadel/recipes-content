@@ -1,0 +1,88 @@
+prep: 45 minutes (plus 1 hour soaking)
+cook: 2 hours
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - rice
+  - onion
+  - butter
+  - nuts
+  - complex
+mentions:
+  - cuisine/azerbaijan/side-dishes/lavash
+ingredients:
+  - qty: 500
+    unit: g
+    name: basmati rice
+    raw: 500 g basmati rice
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tablespoons salt
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons boiling water
+  - qty: 2
+    name: sheets lavash flatbread
+    raw: 2 sheets lavash flatbread
+  - qty: 800
+    unit: g
+    name: lamb shoulder
+    raw: 800 g boneless lamb shoulder
+  - qty: 3
+    name: onions
+    raw: 3 onions
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 100
+    unit: g
+    name: apricots
+    raw: 100 g dried apricots
+  - qty: 100
+    unit: g
+    name: prunes
+    raw: 100 g prunes
+  - qty: 80
+    unit: g
+    name: pre-cooked chestnuts
+    raw: 80 g pre-cooked chestnuts
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - name: sumac
+    raw: Sumac
+  - name: tarragon
+    raw: Fresh tarragon, dill, watercress, spring onion

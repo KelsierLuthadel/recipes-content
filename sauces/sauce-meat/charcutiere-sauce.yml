@@ -1,0 +1,47 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+tags:
+  - gluten-free
+  - quick
+  - meat
+  - onion
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 grams butter
+  - qty: 60
+    unit: g
+    name: onions
+    raw: 60 grams onions
+  - qty: 100
+    unit: ml
+    name: dry white wine
+    raw: 100 ml dry white wine
+  - qty: 300
+    unit: ml
+    name: veal stock
+    raw: 300 ml Veal stock
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon strong Dijon mustard
+  - qty: 40
+    unit: g
+    name: beurre manie
+    raw: 40 grams beurre manié
+  - qty: 30
+    unit: g
+    name: cornichons
+    raw: 30 grams cornichons
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

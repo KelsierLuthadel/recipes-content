@@ -1,0 +1,38 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - eggs
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - fish
+  - eggs
+  - tomato
+mentions: []
+ingredients:
+  - qty: 600
+    unit: ml
+    name: fish stock
+    raw: 600 ml Fish stock
+  - qty: 500
+    unit: g
+    name: tomatoes
+    raw: 500 grams very ripe tomatoes
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper
+  - qty: 50
+    unit: g
+    name: basil leaves
+    raw: 50 grams basil leaves
+  - qty: 4
+    name: egg whites
+    raw: 4 egg whites
+  - qty: 8
+    name: peppercorns
+    raw: 8 peppercorns
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

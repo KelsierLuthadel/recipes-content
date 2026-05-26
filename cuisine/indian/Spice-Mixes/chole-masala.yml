@@ -1,0 +1,60 @@
+prep: 5 minutes
+cook: 3 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - spices
+  - coriander
+  - chili
+mentions: []
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: cumin seeds
+    raw: 3 tbsp cumin seeds
+  - qty: 3
+    unit: tbsp
+    name: coriander seeds
+    raw: 3 tbsp coriander seeds
+  - qty: 3
+    unit: tbsp
+    name: pomegranate seeds
+    raw: 3 tbsp dried pomegranate seeds
+  - qty: 3.5
+    name: red chillies
+    raw: 3-4 dried red chillies
+  - qty: 2
+    unit: tsp
+    name: ajwain seeds
+    raw: 2 tsp ajwain seeds
+  - qty: 2
+    unit: tbsp
+    name: fenugreek leaves
+    raw: 2 tbsp dried fenugreek leaves
+  - qty: 9
+    name: green cardamom pods
+    raw: 8-10 green cardamom pods, lightly bruised
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 tsp black peppercorns
+  - qty: 5
+    name: cinnamon stick or cassia bark
+    raw: 5cm piece of cinnamon stick or cassia bark
+  - qty: 8
+    name: cloves
+    raw: 8 cloves
+  - qty: 1
+    unit: tsp
+    name: ginger powder
+    raw: 1 tsp dried ginger powder
+  - qty: 1
+    unit: tsp
+    name: amchoor
+    raw: 1 tsp amchoor

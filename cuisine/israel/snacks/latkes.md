@@ -1,28 +1,3 @@
----
-prep: 20 minutes
-cook: 25 minutes (in batches)
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - snack
-  - eggs
-  - onion
-  - potato
-  - cream
-  - hanukkah
-  - jewish
-mentions:
-  - cuisine/polish/latkes
-  - sauces/fruit-sauce/apple-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Latkes (Potato Pancakes)
 
 ![Latkes](resources/latkes.jpg)

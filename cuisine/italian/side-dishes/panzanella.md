@@ -1,25 +1,3 @@
----
-prep: 20 minutes
-allergens:
-  - gluten
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - quick
-  - make-ahead
-  - sides
-  - onion
-  - garlic
-  - tomato
-  - complex
-mentions: []
----
-
-
-
-
 # Panzanella
 
 ![Panzanella](resources/panzanella.jpg)

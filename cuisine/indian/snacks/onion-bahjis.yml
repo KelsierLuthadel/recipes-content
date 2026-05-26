@@ -1,0 +1,49 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - quick
+  - snack
+  - asian
+  - onion
+  - coriander
+  - curry
+  - holi
+  - hindu
+mentions:
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - cuisine/indian/sauces-pickles/mint-chutney
+  - cuisine/indian/side-dishes/onion-bahjis
+  - sauces/fruit-sauce/mango-chutney
+ingredients:
+  - qty: 250
+    unit: g
+    name: flour
+    raw: 250 grams gram flour
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 teaspoon chilli powder
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 teaspoon coriander seeds
+  - qty: 3
+    name: onions
+    raw: 3 onions
+  - qty: 6
+    name: curry leaves
+    raw: 6 fresh curry leaves
+  - name: sunflower oil
+    raw: sunflower oil
+  - name: salt
+    raw: salt

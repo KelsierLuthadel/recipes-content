@@ -1,0 +1,74 @@
+prep: 5 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - yogurt
+  - chili
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+ingredients:
+  - qty: 8
+    name: chicken thighs
+    raw: 8 skin-on, bone-in chicken thighs
+  - qty: 500
+    unit: g
+    name: plain yogurt
+    raw: 500 g plain yogurt
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: chilli powder
+    raw: ½ tsp chilli powder
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli , deseeded and finely sliced
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 tsp ground cumin
+  - qty: 2
+    unit: tsp
+    name: coriander
+    raw: 2 tsp ground coriander
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 2
+    unit: tbsp
+    name: paprika
+    raw: 2 tbsp paprika
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ tsp ground cloves
+  - qty: 5
+    name: ginger
+    raw: 5 cm piece fresh root ginger, peeled and grated
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, minced
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon

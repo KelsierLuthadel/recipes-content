@@ -1,0 +1,85 @@
+prep: 5 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - sides
+  - asian
+  - lentils
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: split yellow moong dal
+    raw: 250 g split yellow moong dal
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres water
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    name: tomato
+    raw: 1 tomato
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 4
+    unit: tbsp
+    name: ghee
+    raw: 4 tablespoons ghee
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 0.5
+    unit: tsp
+    name: black mustard seeds
+    raw: ½ teaspoon black mustard seeds
+  - qty: 1
+    unit: pinch
+    name: asafoetida
+    raw: 1 pinch asafoetida
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    name: kashmiri chillies
+    raw: 2 dried Kashmiri chillies
+  - qty: 1
+    name: ginger
+    raw: 1 small piece fresh ginger
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 teaspoon Kashmiri chilli powder
+  - qty: 1
+    unit: small handful
+    name: curry leaves
+    raw: 1 small handful curry leaves
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon

@@ -1,0 +1,35 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - lemon
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: dessert apples
+    raw: 500 grams dessert apples
+  - qty: 20
+    unit: g
+    name: caster sugar
+    raw: 20 grams caster sugar
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 0.5
+    unit: stick
+    name: cinnamon
+    raw: ½ stick cinnamon
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 grams butter
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: pinch of salt

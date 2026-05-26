@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 0 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - snack
-  - onion
-  - tomato
-  - lime
-  - coriander
-  - chili
-  - day-of-the-dead
-mentions: []
----
-
-
-
-
 # Guacamole
 
 ![Guacamole](resources/guacamole.jpg)

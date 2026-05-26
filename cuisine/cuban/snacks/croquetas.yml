@@ -1,0 +1,69 @@
+prep: 30 minutes (plus 4 hours chilling)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - chicken
+  - pork
+  - eggs
+  - onion
+  - lime
+  - butter
+  - complex
+mentions: []
+ingredients:
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 60
+    unit: g
+    name: plain flour
+    raw: 60 g plain flour
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 200
+    unit: g
+    name: ham or cooked chicken breast
+    raw: 200 g finely diced cooked ham or cooked chicken breast
+  - qty: 2
+    unit: tbsp
+    name: onion
+    raw: 2 tablespoons grated onion
+  - qty: 1
+    unit: tbsp
+    name: dry sherry
+    raw: 1 tablespoon dry sherry
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 200
+    unit: g
+    name: dry breadcrumbs
+    raw: 200 g fine dry breadcrumbs
+  - qty: 250
+    unit: ml
+    name: sunflower oil
+    raw: 250 ml sunflower oil, for shallow-frying
+  - name: lime wedges
+    raw: Lime wedges, to serve

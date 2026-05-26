@@ -1,31 +1,3 @@
----
-prep: 30 minutes (plus 1 hour chilling)
-cook: 15 minutes
-allergens:
-  - dairy
-  - meat
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - beef
-  - lamb
-  - rice
-  - onion
-  - tomato
-  - butter
-  - yogurt
-  - chili
-  - complex
-mentions:
-  - cuisine/azerbaijan/side-dishes/lavash
-  - cuisine/iran/tahdig
----
-
-
-
-
 # Chelo Kabab Koobideh
 
 ![Chelo Kabab Koobideh](resources/chelo-kabab-koobideh.jpg)

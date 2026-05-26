@@ -1,26 +1,3 @@
----
-prep: 15 minutes (plus 30 minutes soak)
-cook: 30 minutes
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - meals
-  - asian
-  - rice
-  - onion
-  - nuts
-  - complex
-mentions:
-  - cuisine/indian/biryani
-  - cuisine/indian/rice/matar-pulao
----
-
-
-
-
 # Kashmiri Pulao
 
 ![Kashmiri Pulao](resources/kashmiri-pulao.jpg)

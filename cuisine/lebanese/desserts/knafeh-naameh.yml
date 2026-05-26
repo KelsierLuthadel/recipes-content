@@ -1,0 +1,83 @@
+prep: 25 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - lemon
+  - butter
+  - cheese
+  - nuts
+  - complex
+mentions:
+  - cuisine/turkish/desserts/knafeh
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: semolina
+    raw: 400 g fine semolina
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 80
+    unit: ml
+    name: milk
+    raw: 80 ml warm milk
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 400
+    unit: g
+    name: mozzarella
+    raw: 400 g low-moisture mozzarella
+  - qty: 100
+    unit: g
+    name: halloumi blend
+    raw: 100 g halloumi blend
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 300
+    unit: g
+    name: caster sugar
+    raw: 300 g caster sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    unit: tbsp
+    name: rose water
+    raw: 1 tablespoon rose water
+  - qty: 1
+    unit: tbsp
+    name: orange blossom water
+    raw: 1 tablespoon orange blossom water
+  - qty: 80
+    unit: g
+    name: unsalted pistachios
+    raw: 80 g unsalted pistachios
+  - qty: 1
+    unit: tbsp
+    name: rose petals
+    raw: 1 tablespoon dried rose petals

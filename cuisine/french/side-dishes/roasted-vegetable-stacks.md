@@ -1,23 +1,3 @@
----
-prep: 20 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - sides
-  - onion
-  - garlic
-  - tomato
-mentions: []
----
-
-
-
-
 # Roasted Vegetable Stacks
 
 ![Roasted vegetable stacks](resources/roasted-vegetable-stacks.png)

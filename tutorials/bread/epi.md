@@ -1,20 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/bread/bread
-  - tutorials/bread/fougasse
-  - tutorials/bread/proving
-  - tutorials/bread/shapes
-  - tutorials/pizza/dough
----
-
-
-
 # Épi
 
 ![A baked épi](resources/epi-loaf.jpg)

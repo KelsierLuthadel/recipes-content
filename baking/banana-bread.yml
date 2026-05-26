@@ -1,0 +1,58 @@
+prep: 15 minutes
+cook: 55 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - make-ahead
+  - baking
+  - eggs
+  - butter
+  - nuts
+mentions: []
+ingredients:
+  - qty: 4
+    name: bananas
+    raw: 4 very ripe bananas
+  - qty: 175
+    unit: g
+    name: caster sugar
+    raw: 175 g caster sugar
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 2
+    unit: tsp
+    name: vanilla extract
+    raw: 2 teaspoons vanilla extract
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 0.5
+    unit: tsp
+    name: bicarbonate of soda
+    raw: ½ teaspoon bicarbonate of soda
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 100
+    unit: g
+    name: walnuts
+    raw: 100 g walnuts

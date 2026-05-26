@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 1 hour
-allergens:
-  - dairy
-  - meat
-tags:
-  - gluten-free
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - potato
-  - cheese
-mentions:
-  - sauces/sauce-spicy/buffalo-sauce
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Buffalo Chicken Stuffed Sweet Potatoes
 
 ![Buffalo Chicken Stuffed Sweet Potatoes](resources/buffalo-chicken-stuffed-sweet-potatoes.jpg)

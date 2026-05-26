@@ -1,0 +1,38 @@
+prep: 20 minutes
+cook: 1 ¼ hours
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - eggs
+  - coconut
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    name: kabocha
+    raw: 1 kabocha
+  - qty: 5
+    name: eggs
+    raw: 5 eggs
+  - qty: 250
+    unit: ml
+    name: coconut milk
+    raw: 250 ml thick coconut milk
+  - qty: 200
+    unit: g
+    name: palm sugar
+    raw: 200 g palm sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - name: pandan leaves
+    raw: A few pandan leaves

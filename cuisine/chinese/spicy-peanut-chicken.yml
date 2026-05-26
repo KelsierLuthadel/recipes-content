@@ -1,0 +1,83 @@
+prep: 15 minutes
+cook: 2 minutes
+allergens:
+  - peanuts
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - nuts
+  - chili
+  - soy-sauce
+mentions:
+  - cuisine/chinese/kung-pao-chicken
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 225
+    unit: g
+    name: chicken breasts
+    raw: 225 grams boneless chicken breasts
+  - qty: 1
+    name: red chilli
+    raw: 1 dried red chilli
+  - qty: 1.5
+    unit: tbsp
+    name: oil
+    raw: 1 ½ tablespoons oil
+  - qty: 75
+    unit: g
+    name: peanuts
+    raw: 75 grams peanuts
+  - qty: 1
+    unit: tbsp
+    name: chinese chicken stock
+    raw: 1 tablespoon Chinese chicken stock
+  - qty: 1
+    unit: tbsp
+    name: dry sherry
+    raw: 1 tablespoon dry sherry
+  - qty: 2
+    unit: tsp
+    name: dark soy sauce
+    raw: 2 teaspoons dark soy sauce
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 1
+    unit: tsp
+    name: garlic
+    raw: 1 teaspoon garlic
+  - qty: 2
+    unit: tsp
+    name: spring onions
+    raw: 2 teaspoons spring onions
+  - qty: 0.5
+    unit: tsp
+    name: ginger
+    raw: ½ teaspoon fresh ginger
+  - qty: 1
+    unit: tsp
+    name: white rice vinegar
+    raw: 1 teaspoon white rice vinegar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: sesame oil
+    raw: ½ teaspoon sesame oil

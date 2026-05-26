@@ -1,0 +1,92 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - soy
+  - sesame
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/stir-fry/wok-hei
+ingredients:
+  - qty: 500
+    unit: g
+    name: rib-eye
+    raw: 500 g rib-eye, sirloin
+  - qty: 1
+    unit: tbsp
+    name: soy sauce
+    raw: 1 tablespoon soy sauce
+  - qty: 1
+    unit: tbsp
+    name: shaoxing rice wine
+    raw: 1 tablespoon Shaoxing rice wine
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tablespoon cornflour
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 4
+    unit: tbsp
+    name: oyster sauce
+    raw: 4 tablespoons oyster sauce
+  - qty: 2
+    unit: tbsp
+    name: soy sauce
+    raw: 2 tablespoons soy sauce
+  - qty: 1
+    unit: tbsp
+    name: shaoxing rice wine
+    raw: 1 tablespoon Shaoxing rice wine
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 1
+    unit: tsp
+    name: toasted sesame oil
+    raw: 1 teaspoon toasted sesame oil
+  - qty: 100
+    unit: ml
+    name: chicken stock
+    raw: 100 ml chicken stock
+  - qty: 1
+    unit: tsp
+    name: cornflour
+    raw: 1 teaspoon cornflour
+  - qty: 1
+    name: head broccoli
+    raw: 1 head broccoli
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - name: rice
+    raw: Cooked rice, to serve

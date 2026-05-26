@@ -1,0 +1,44 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - coconut
+  - butter
+mentions:
+  - cuisine/jamaican/brown-stew-chicken
+  - cuisine/jamaican/callaloo
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon fine salt
+  - qty: 30
+    unit: g
+    name: cold butter
+    raw: 30 g cold butter , cubed
+  - qty: 180
+    unit: ml
+    name: water
+    raw: 180 ml cold water
+  - qty: 250
+    unit: ml
+    name: vegetable oil
+    raw: 250 ml vegetable oil

@@ -1,36 +1,3 @@
----
-prep: 15 minutes
-cook: 15 minutes
-allergens:
-  - soy
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - fish
-  - beef
-  - prawn
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - chili
-  - soy-sauce
-mentions:
-  - cuisine/chinese/fried-rice
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Beef Nasi Goreng
 
 ![Beef Nasi Goreng](resources/beef-nasi-goreng.jpeg)

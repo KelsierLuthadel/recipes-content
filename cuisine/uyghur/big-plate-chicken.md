@@ -1,34 +1,3 @@
----
-prep: 25 minutes
-cook: 45 minutes
-allergens:
-  - gluten
-  - soy
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - potato
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - cuisine/uyghur/laghman
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Big Plate Chicken
 
 ![Big Plate Chicken](resources/big-plate-chicken.jpg)

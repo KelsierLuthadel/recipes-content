@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - fish
-  - garlic
-tags:
-  - vegetarian
-  - quick
-  - meals
-  - onion
-  - garlic
-mentions:
-  - tutorials/pizza/dough
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Pissalàdiers
 
 ![Pissalàdiers](resources/Pissaladiers.jpg)

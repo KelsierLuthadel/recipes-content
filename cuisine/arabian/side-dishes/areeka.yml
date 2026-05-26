@@ -1,0 +1,38 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - butter
+  - honey
+mentions:
+  - cuisine/arabian/side-dishes/khubz-tameez
+ingredients:
+  - qty: 4
+    name: khubz tameez
+    raw: 4 khubz tameez
+  - qty: 250
+    unit: g
+    name: pitted dates
+    raw: 250 g pitted dates
+  - qty: 80
+    unit: g
+    name: samna or unsalted butter
+    raw: 80 g samna or unsalted butter
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 1
+    unit: tbsp
+    name: honey
+    raw: 1 tablespoon honey
+  - qty: 1
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 1 tablespoon toasted sesame seeds

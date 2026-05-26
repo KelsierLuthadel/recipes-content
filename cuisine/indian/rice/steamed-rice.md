@@ -1,21 +1,3 @@
----
-prep: 15 minutes
-cook: 50 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - meals
-  - asian
-  - rice
-  - butter
-mentions: []
----
-
-
-
-
 # Steamed Rice
 
 ![Steamed Rice](resources/steamed-rice.jpg)

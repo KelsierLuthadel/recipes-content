@@ -1,36 +1,3 @@
----
-prep: 1 hour (plus 2 hours proving)
-cook: 2 hours
-allergens:
-  - gluten
-  - dairy
-  - peanuts
-  - soy
-  - meat
-tags:
-  - spicy
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - pork
-  - onion
-  - ginger
-  - coriander
-  - butter
-  - nuts
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/bread/proving
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Roujiamo (Xi'an Chinese Hamburger)
 
 ![Roujiamo (Xi'an Chinese Hamburger)](resources/roujiamo.jpg)

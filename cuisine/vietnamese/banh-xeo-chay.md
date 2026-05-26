@@ -1,37 +1,3 @@
----
-prep: 20 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - soy
-  - shellfish
-  - garlic
-tags:
-  - vegetarian
-  - spicy
-  - meals
-  - asian
-  - tofu
-  - mushroom
-  - onion
-  - garlic
-  - coconut
-  - carrot
-  - lime
-  - coriander
-  - butter
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - base-ingredients/sambal/nuoc-cham
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Bánh Xèo Chay
 
 ![Bánh Xèo Chay](resources/banh-xeo-chay.jpg)

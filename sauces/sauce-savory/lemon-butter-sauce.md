@@ -1,21 +1,3 @@
----
-prep: 5 minutes
-cook: 5 minutes
-allergens:
-  - dairy
-  - meat
-tags:
-  - gluten-free
-  - quick
-  - meat
-  - lemon
-  - butter
-mentions: []
----
-
-
-
-
 # Lemon Butter Sauce
 
 ![Lemon butter sauce](resources/lemon-butter.jpg)

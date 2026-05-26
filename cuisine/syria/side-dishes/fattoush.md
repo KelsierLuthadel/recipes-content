@@ -1,27 +1,3 @@
----
-prep: 20 minutes
-cook: 5 minutes (toasting pita)
-allergens:
-  - gluten
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - quick
-  - make-ahead
-  - sides
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - complex
-mentions: []
----
-
-
-
-
 # Fattoush
 
 ![Fattoush](resources/fattoush.jpg)

@@ -1,0 +1,70 @@
+prep: 15 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - quick
+  - snack
+  - make-ahead
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - butter
+  - cream
+  - complex
+mentions: []
+ingredients:
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 2
+    name: banana shallots
+    raw: 2 banana shallots
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 500
+    unit: g
+    name: chicken livers
+    raw: 500 g chicken livers
+  - qty: 50
+    unit: ml
+    name: brandy
+    raw: 50 ml brandy
+  - qty: 50
+    unit: ml
+    name: port
+    raw: 50 ml port
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 1
+    unit: tsp
+    name: thyme leaves
+    raw: 1 teaspoon fresh thyme leaves
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - qty: 75
+    unit: g
+    name: unsalted butter
+    raw: 75 g unsalted butter
+  - name: toasted brioche
+    raw: Toasted brioche
+  - name: onion chutney
+    raw: Onion chutney
+  - name: cornichons
+    raw: Cornichons

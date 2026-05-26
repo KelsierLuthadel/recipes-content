@@ -1,0 +1,46 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - tomato
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 320
+    unit: g
+    name: pizza dough
+    raw: 320 grams pizza dough
+  - qty: 200
+    unit: g
+    name: cherry tomatoes
+    raw: 200 grams cherry tomatoes
+  - qty: 200
+    unit: g
+    name: pancetta
+    raw: 200 grams pancetta
+  - qty: 40
+    name: basil leaves
+    raw: 40 fresh basil leaves
+  - qty: 60
+    unit: ml
+    name: virgin olive oil
+    raw: 60 ml extra virgin olive oil
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 200
+    unit: g
+    name: ricotta cheese
+    raw: 200 grams fresh ricotta cheese
+  - name: olive oil for brushing
+    raw: Extra olive oil for brushing
+  - name: flour for dusting
+    raw: Flour for dusting

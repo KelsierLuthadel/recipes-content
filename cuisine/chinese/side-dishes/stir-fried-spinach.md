@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 2 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - asian
-  - garlic
-  - spinach
-mentions: []
----
-
-
-
-
 # Stir Fried Spinach with Garlic
 
 ![Stir fried spinach with garlic](resources/spinach.jpg)

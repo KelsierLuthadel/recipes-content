@@ -1,20 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - quick
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Baguette
 
 ![Baguette](resources/baguette.jpg)

@@ -1,0 +1,111 @@
+prep: 25 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - cheese
+  - yogurt
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 600
+    unit: g
+    name: lamb shoulder
+    raw: 600 g minced lamb shoulder
+  - qty: 1
+    name: red onion
+    raw: 1 red onion , finely grated
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, finely grated
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tbsp dried oregano, ideally Greek
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tbsp
+    name: red wine vinegar
+    raw: 1 tbsp red wine vinegar
+  - qty: 100
+    unit: g
+    name: feta cheese
+    raw: 100 g feta cheese, crumbled
+  - qty: 1
+    unit: tsp
+    name: flaky salt
+    raw: 1 tsp flaky salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp black pepper
+  - qty: 250
+    unit: g
+    name: greek yoghurt
+    raw: 250 g thick Greek yoghurt
+  - qty: 0.5
+    name: cucumber
+    raw: ½ cucumber, grated and squeezed dry
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove, grated
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tbsp lemon juice
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tbsp olive oil
+  - qty: 1
+    unit: tbsp
+    name: dill
+    raw: 1 tbsp chopped dill
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes, deseeded and diced
+  - qty: 0.25
+    name: cucumber
+    raw: ¼ cucumber, diced
+  - qty: 2
+    unit: tbsp
+    name: red onion
+    raw: 2 tbsp finely chopped red onion
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tbsp olive oil
+  - qty: 1
+    unit: tbsp
+    name: red wine vinegar
+    raw: 1 tbsp red wine vinegar
+  - qty: 1
+    unit: pinch
+    name: oregano
+    raw: Pinch of dried oregano
+  - qty: 4
+    name: brioche buns
+    raw: 4 brioche buns
+  - qty: 1
+    unit: handful
+    name: cos lettuce leaves
+    raw: Handful of cos lettuce leaves
+  - name: olive oil for brushing
+    raw: Olive oil for brushing

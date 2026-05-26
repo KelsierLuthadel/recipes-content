@@ -1,0 +1,106 @@
+prep: 20 minutes
+cook: 120 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+  - celery
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - carrot
+  - cheese
+  - nuts
+  - complex
+mentions:
+  - cuisine/italian/pesto
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 60
+    unit: g
+    name: pancetta
+    raw: 60 grams pancetta
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: celery stick
+    raw: 1 celery stick
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    name: potato
+    raw: 1 potato
+  - qty: 2
+    name: zucchini
+    raw: 2 thin zucchini
+  - qty: 60
+    unit: g
+    name: green beans
+    raw: 60 grams green beans
+  - qty: 80
+    unit: g
+    name: silverbeet leaves
+    raw: 80 grams silverbeet leaves
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: flat leaf parsley
+    raw: 3 tablespoons flat leaf parsley
+  - qty: 6
+    name: basil leaves
+    raw: 6 fresh basil leaves
+  - qty: 125
+    unit: g
+    name: borlotti beans
+    raw: 125 grams dried borlotti beans
+  - qty: 2
+    unit: tsp
+    name: tomato puree
+    raw: 2 teaspoons tomato purée
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 grams tinned tomatoes
+  - qty: 2
+    unit: l
+    name: stock
+    raw: 2 litres stock
+  - qty: 75
+    unit: g
+    name: ditalini
+    raw: 75 grams ditalini
+  - qty: 30
+    unit: g
+    name: basil leaves
+    raw: 30 grams fresh basil leaves
+  - qty: 20
+    unit: g
+    name: pine nuts
+    raw: 20 grams pine nuts
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 100
+    unit: ml
+    name: olive oil
+    raw: 100 ml olive oil
+  - qty: 25
+    unit: g
+    name: parmesan cheese
+    raw: 25 grams Parmesan cheese

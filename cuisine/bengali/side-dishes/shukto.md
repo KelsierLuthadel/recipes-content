@@ -1,25 +1,3 @@
----
-prep: 25 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - mustard
-  - celery
-tags:
-  - vegetarian
-  - gluten-free
-  - make-ahead
-  - sides
-  - lentils
-  - ginger
-  - potato
-  - complex
-mentions: []
----
-
-
-
-
 # Shukto
 
 ![Shukto](resources/shukto.jpg)

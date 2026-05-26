@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 0 minutes (assumes pre-roasted peppers; 20 minutes from raw)
-allergens:
-  - gluten
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - spicy
-  - sides
-  - garlic
-  - cheese
-  - chili
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Tirokafteri (Spicy Feta Dip)
 
 ![Tirokafteri](resources/tirokafteri.jpg)

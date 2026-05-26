@@ -1,24 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - make-ahead
-mentions:
-  - baking/pastry/brioche-dough
-  - cuisine/british/desserts/hot-cross-buns
-  - cuisine/israel/desserts/pistachio-babka-buns
-  - cuisine/israel/side-dishes/challah
-  - tutorials/bread/gluten
-  - tutorials/bread/hydration
-  - tutorials/bread/proving
-  - tutorials/pizza/dough
----
-
-
-
 # Enriched Doughs
 
 ![Bread](resources/enriched.jpg)

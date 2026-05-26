@@ -1,0 +1,28 @@
+prep: 5 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - peanuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - sides
+  - asian
+  - rice
+mentions:
+  - cuisine/chinese/fried-rice
+  - cuisine/chinese/sizzling-rice-prawn
+ingredients:
+  - qty: 225
+    unit: g
+    name: long grain white rice
+    raw: 225 grams long grain white rice
+  - qty: 570
+    unit: ml
+    name: water
+    raw: 570 ml water
+  - qty: 2
+    unit: tsp
+    name: groundnut oil
+    raw: 2 teaspoons groundnut oil

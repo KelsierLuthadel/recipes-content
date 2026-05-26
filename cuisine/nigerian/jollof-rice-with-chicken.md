@@ -1,33 +1,3 @@
----
-prep: 25 minutes
-cook: 1 ¼ hours
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - chili
-  - curry
-  - complex
-  - kwanzaa
-mentions:
-  - cuisine/nigerian/dodo
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Jollof Rice with Chicken
 
 ![Jollof Rice with Chicken](resources/jollof-rice-with-chicken.jpg)

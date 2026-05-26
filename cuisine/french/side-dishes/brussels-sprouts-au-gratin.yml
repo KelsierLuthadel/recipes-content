@@ -1,0 +1,42 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - garlic
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 480
+    unit: g
+    name: brussels sprouts
+    raw: 480 grams Brussels sprouts
+  - qty: 180
+    unit: g
+    name: breadcrumbs
+    raw: 180 grams dried breadcrumbs
+  - qty: 180
+    unit: ml
+    name: origin olive oil
+    raw: 180 ml Extra origin olive oil
+  - qty: 120
+    unit: g
+    name: flat leaf parsley
+    raw: 120 grams flat leaf parsley
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic
+  - qty: 180
+    unit: g
+    name: pecorino cheese
+    raw: 180 grams pecorino cheese
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - meals
-  - onion
-  - garlic
-  - lime
-  - coriander
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Yuca Con Mojo
 
 ![Yuca con Mojo](resources/yuca-con-mojo.jpg)

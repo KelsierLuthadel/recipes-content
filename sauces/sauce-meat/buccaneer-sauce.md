@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-  - meat
-tags:
-  - gluten-free
-  - meat
-  - onion
-  - ginger
-  - butter
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Buccaneer's Sauce
 
 ![Buccaneer's sauce](resources/buccaneer.jpg)

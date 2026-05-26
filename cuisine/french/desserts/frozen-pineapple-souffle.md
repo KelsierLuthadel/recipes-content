@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 35 minutes
-allergens:
-  - dairy
-  - tree-nuts
-  - peanuts
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - cream
-  - nuts
-mentions:
-  - baking/meringue/meringue-italienne
-  - base-ingredients/syrup/sirop-a-sorbet
----
-
-
-
-
 # Frozen Pineapple Soufflé with Blackberries
 
 ![Frozen pineapple soufflé with blackberries](resources/pineapple-souffle.jpg)

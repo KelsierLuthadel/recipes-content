@@ -1,0 +1,39 @@
+prep: 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - yogurt
+  - chili
+mentions:
+  - cuisine/indian/biryani
+ingredients:
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 300
+    unit: ml
+    name: natural yoghurt
+    raw: 300 ml natural yoghurt
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: cumin
+    raw: ¼ teaspoon ground cumin
+  - qty: 1
+    name: green chilli
+    raw: 1 fresh green chilli
+  - qty: 1
+    unit: pinch
+    name: chilli powder
+    raw: Pinch of chilli powder
+  - qty: 1
+    name: mint
+    raw: 1 fresh mint sprig

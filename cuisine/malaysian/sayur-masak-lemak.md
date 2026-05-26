@@ -1,31 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-  - soy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - meals
-  - asian
-  - tofu
-  - onion
-  - garlic
-  - ginger
-  - coconut
-  - lime
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sayur Masak Lemak
 
 ![Sayur Masak Lemak](resources/sayur-masak-lemak.jpg)

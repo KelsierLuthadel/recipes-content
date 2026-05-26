@@ -1,32 +1,3 @@
----
-prep: 30 minutes
-cook: 50 minutes
-allergens:
-  - gluten
-  - eggs
-  - fish
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - meals
-  - fish
-  - prawn
-  - eggs
-  - onion
-  - garlic
-  - tomato
-  - chili
-  - complex
-  - tu-bav
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Bouillabaisse
 
 ![Bouillabaisse](resources/bouillabaisse.jpg)

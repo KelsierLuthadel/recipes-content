@@ -1,0 +1,85 @@
+prep: 20 minutes
+cook: 4 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - carrot
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2.5
+    unit: tbsp
+    name: virgin olive oil
+    raw: 2-3 tablespoons extra virgin olive oil
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 grams ground beef
+  - qty: 75
+    unit: g
+    name: pancetta
+    raw: 75 grams pancetta
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    name: celery stalk
+    raw: 1 celery stalk
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1.5
+    unit: tbsp
+    name: tomato paste
+    raw: 1-2 tablespoons tomato paste
+  - qty: 150
+    unit: ml
+    name: dry red
+    raw: 150 ml dry red
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 grams canned tomatoes
+  - qty: 300
+    unit: ml
+    name: beef stock
+    raw: 300 ml beef stock
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter
+  - name: pasta of choice
+    raw: Pasta of choice
+  - qty: 1
+    unit: cup
+    name: reserved pasta water
+    raw: 1 cup reserved pasta water
+  - name: parmesan cheese
+    raw: Parmesan cheese

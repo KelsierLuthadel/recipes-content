@@ -1,29 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - asian
-  - garlic
-  - lime
-  - coriander
-  - chili
-mentions:
-  - cuisine/indian/sauces-pickles/mango-chutney
-  - cuisine/indian/side-dishes/lamb-seekh-kebab
-  - cuisine/indian/side-dishes/samosa
-  - sauces/fruit-sauce/mango-chutney
----
-
-
-
-
 # Mint, Coriander, and Mango Chutney
 
 ![Mint Coriander Mango Chutney](resources/mint-coriander-mango.jpg)

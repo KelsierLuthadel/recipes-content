@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - make-ahead
-  - eggs
-  - lemon
-  - cream
-  - chocolate
-mentions:
-  - baking/cremes/chocolate-creme-patissiere
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chocolate and Raspberry Trifle
 
 ![Chocolate and raspberry trifle](resources/chocolate-and-raspberry-trifle.jpg)

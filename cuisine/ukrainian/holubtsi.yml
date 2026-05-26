@@ -1,0 +1,124 @@
+prep: 45 minutes
+cook: 1 ¼ hours
+allergens:
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - carrot
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: green cabbage
+    raw: 1 green cabbage
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 100
+    unit: g
+    name: long-grain rice
+    raw: 100 g long-grain rice
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml water
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g minced beef
+  - qty: 250
+    unit: g
+    name: pork
+    raw: 250 g minced pork
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: tsp
+    name: marjoram
+    raw: 1 teaspoon dried marjoram
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    name: dill
+    raw: A small bunch of dill
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tin chopped tomatoes
+  - qty: 600
+    unit: ml
+    name: beef
+    raw: 600 ml beef
+  - qty: 200
+    unit: g
+    name: soured cream
+    raw: 200 g soured cream
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 2
+    unit: sprig
+    name: thyme
+    raw: 2 sprigs thyme
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: black pepper
+    raw: Black pepper
+  - name: soured cream
+    raw: Extra soured cream
+  - name: dill
+    raw: Fresh dill

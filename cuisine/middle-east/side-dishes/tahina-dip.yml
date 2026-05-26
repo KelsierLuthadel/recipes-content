@@ -1,0 +1,37 @@
+prep: 10 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - garlic
+  - lemon
+mentions: []
+ingredients:
+  - qty: 30
+    unit: ml
+    name: tahina paste
+    raw: 30 milliliters tahina paste
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - name: sea salt
+    raw: Fine sea salt to taste
+  - qty: 3.5
+    unit: tbsp
+    name: water
+    raw: 3-4 tablespoons cold water
+  - qty: 1.5
+    unit: small sprig
+    name: flat-leaf parsley
+    raw: 1-2 small sprigs fresh flat-leaf parsley
+  - name: "optional: light drizzle of olive oil"
+    raw: "Optional: light drizzle of olive oil"

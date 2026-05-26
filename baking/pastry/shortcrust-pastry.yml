@@ -1,0 +1,38 @@
+prep: 5 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - baking
+  - eggs
+  - butter
+mentions:
+  - tutorials/patisserie/tarts
+ingredients:
+  - qty: 250
+    unit: g
+    name: flour
+    raw: 250 grams flour
+  - qty: 150
+    unit: g
+    name: butter
+    raw: 150 grams butter
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: pinch
+    name: caster sugar
+    raw: 1 pinch caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: milk
+    raw: 1 tablespoon milk

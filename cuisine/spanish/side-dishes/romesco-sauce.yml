@@ -1,0 +1,37 @@
+prep: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - onion
+  - lemon
+mentions: []
+ingredients:
+  - qty: 4
+    name: red peppers
+    raw: 4 red peppers
+  - qty: 2
+    name: shallots
+    raw: 2 shallots
+  - qty: 2
+    unit: sprig
+    name: thyme
+    raw: 2 sprigs thyme
+  - qty: 12
+    name: basil leaves
+    raw: 12 basil leaves
+  - qty: 125
+    unit: ml
+    name: olive oil
+    raw: 125 ml olive oil
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

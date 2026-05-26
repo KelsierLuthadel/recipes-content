@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-cook: 9 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - coriander
-  - curry
-mentions: []
----
-
-
-
-
 # Sri Lankan Curry Powder
 
 ![Sri Lankan](resources/sri-lankan.jpg)

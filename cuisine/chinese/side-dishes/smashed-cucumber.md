@@ -1,31 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - soy
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - sides
-  - asian
-  - onion
-  - garlic
-  - coriander
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Smashed Cucumber
 
 ![Smashed Cucumber](resources/smashed-cucumber.jpg)

@@ -1,27 +1,3 @@
----
-prep: 5 minutes (plus 4-12 hour soak)
-cook: 25 minutes
-allergens:
-  - dairy
-  - sesame
-tags:
-  - vegetarian
-  - gluten-free
-  - make-ahead
-  - sides
-  - asian
-  - rice
-  - coconut
-  - complex
-mentions:
-  - cuisine/thai/desserts/mango-sticky-rice
-  - cuisine/thai/salads/larb
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Khao Niao
 
 ![Khao Niao](resources/khao-niao.jpg)

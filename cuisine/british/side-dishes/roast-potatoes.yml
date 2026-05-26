@@ -1,0 +1,37 @@
+prep: 15 minutes
+cook: 1 ¼ hours
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - sides
+  - meat
+  - garlic
+  - potato
+  - st-patricks
+  - easter
+mentions: []
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: maris piper
+    raw: 1 ½ kg Maris Piper
+  - qty: 6
+    unit: tbsp
+    name: goose fat
+    raw: 6 tablespoons goose fat
+  - qty: 1
+    unit: tbsp
+    name: semolina
+    raw: 1 tablespoon semolina
+  - qty: 4
+    unit: sprig
+    name: rosemary
+    raw: 4 sprigs fresh rosemary
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - name: sea salt
+    raw: Sea salt

@@ -1,25 +1,3 @@
----
-prep: 10 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - meals
-  - onion
-  - garlic
-  - ginger
-  - chickpea
-mentions:
-  - base-ingredients/spices/berbere
----
-
-
-
-
 # Shiro Wat
 
 ![Shiro Wat](resources/shiro-wat.jpg)

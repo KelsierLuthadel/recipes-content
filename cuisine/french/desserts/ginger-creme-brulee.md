@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - dessert
-  - eggs
-  - ginger
-  - cream
-mentions:
-  - cuisine/french/desserts/creme-brulee
----
-
-
-
-
 # Ginger Crème Brûlée
 
 ![Ginger Crème Brûlée](resources/ginger-creme-brulee.jpg)

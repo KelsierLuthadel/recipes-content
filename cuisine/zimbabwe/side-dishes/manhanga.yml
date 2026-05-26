@@ -1,0 +1,37 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - butter
+  - honey
+mentions:
+  - cuisine/zimbabwe/side-dishes/sadza
+ingredients:
+  - qty: 1
+    unit: kg
+    name: pumpkin
+    raw: 1 kg pumpkin , peeled and cut into 4 cm chunks
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: brown sugar
+    raw: 2 tablespoons brown sugar
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 50
+    unit: ml
+    name: milk
+    raw: 50 ml whole milk

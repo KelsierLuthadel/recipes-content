@@ -1,0 +1,93 @@
+prep: 20 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - eggs
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g minced beef
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: long green chilli
+    raw: 1 long green chilli
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch flat-leaf parsley
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: coriander
+    raw: 1 ½ teaspoons ground coriander
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 4
+    name: pita breads
+    raw: 4 pita breads
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    unit: tsp
+    name: sesame seeds
+    raw: 1 teaspoon sesame seeds
+  - name: tahini sauce
+    raw: Tahini sauce
+  - name: pickled chillies and pickled turnips
+    raw: Pickled chillies and pickled turnips
+  - name: tomato and cucumber salad
+    raw: Tomato and cucumber salad

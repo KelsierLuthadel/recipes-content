@@ -1,0 +1,107 @@
+prep: 25 minutes
+cook: 2 ½-3 hours
+allergens:
+  - gluten
+  - soy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: beef shank
+    raw: 1 kg beef shank
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 6
+    name: ginger
+    raw: 6 cm fresh ginger
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: star anise
+    raw: 4 star anise
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: red chillies
+    raw: 4 dried red chillies
+  - qty: 2
+    unit: tbsp
+    name: sichuan peppercorns
+    raw: 2 tablespoons Sichuan peppercorns
+  - qty: 3
+    unit: tbsp
+    name: doubanjiang
+    raw: 3 tablespoons doubanjiang
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 100
+    unit: ml
+    name: shaoxing rice wine
+    raw: 100 ml Shaoxing rice wine
+  - qty: 100
+    unit: ml
+    name: light soy sauce
+    raw: 100 ml light soy sauce
+  - qty: 2
+    unit: tbsp
+    name: dark soy sauce
+    raw: 2 tablespoons dark soy sauce
+  - qty: 30
+    unit: g
+    name: rock sugar
+    raw: 30 g rock sugar
+  - qty: 2
+    unit: l
+    name: beef stock
+    raw: 2 litres beef stock
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 400
+    unit: g
+    name: wheat noodles
+    raw: 400 g fresh wheat noodles
+  - qty: 200
+    unit: g
+    name: pickled mustard greens
+    raw: 200 g pickled mustard greens
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    name: coriander
+    raw: A small bunch of coriander
+  - name: chilli oil
+    raw: Chilli oil
+  - name: bok choy
+    raw: Bok choy

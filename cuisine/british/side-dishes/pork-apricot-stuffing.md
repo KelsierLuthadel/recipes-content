@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 5 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-  - meat
-tags:
-  - quick
-  - make-ahead
-  - sides
-  - meat
-  - pork
-  - eggs
-  - onion
-  - butter
-  - nuts
-mentions: []
----
-
-
-
-
 # Pork, Apricot and Pistachio Stuffing
 
 ![Pork, apricot and pistachio stuffing](resources/pork-apricot-stuffing.jpg)

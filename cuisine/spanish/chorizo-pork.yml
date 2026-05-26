@@ -1,0 +1,61 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - tomato
+  - potato
+  - lemon
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: new potatoes
+    raw: 500 grams baby new potatoes
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - name: sea salt and freshly ground black pepper
+    raw: Sea salt and freshly ground black pepper to taste
+  - qty: 400
+    unit: g
+    name: pork tenderloin
+    raw: 400 grams pork tenderloin
+  - qty: 150
+    unit: g
+    name: chorizo sausage
+    raw: 150 grams chorizo sausage
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 500
+    unit: g
+    name: tomatoes
+    raw: 500 grams tinned chopped tomatoes
+  - qty: 1
+    unit: large pinch
+    name: chilli flakes
+    raw: Large pinch chilli flakes
+  - qty: 1
+    unit: pinch
+    name: sugar
+    raw: Pinch of sugar
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 4
+    name: lemon quarters
+    raw: 4 lemon quarters
+  - name: rocket leaves
+    raw: Fresh rocket leaves

@@ -1,28 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-  - meat
-  - mustard
-tags:
-  - gluten-free
-  - quick
-  - meals
-  - bbq
-  - meat
-  - beef
-  - onion
-  - potato
-  - butter
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Smashburger
 
 ![Smashburger](resources/smashburger.jpg)

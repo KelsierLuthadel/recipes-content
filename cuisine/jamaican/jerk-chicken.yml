@@ -1,0 +1,104 @@
+prep: 25 minutes (plus 12 hours marinating)
+cook: 40 minutes
+allergens:
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - chili
+  - soy-sauce
+  - complex
+  - kwanzaa
+mentions:
+  - cuisine/jamaican/side-dishes/rice-and-peas
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 5
+    name: scotch bonnet chillies
+    raw: 4-6 scotch bonnet chillies
+  - qty: 6
+    name: spring onions
+    raw: 6 spring onions
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 large thumb fresh ginger
+  - qty: 1
+    name: thyme
+    raw: 1 small bunch fresh thyme
+  - qty: 2
+    unit: tbsp
+    name: allspice berries
+    raw: 2 tablespoons whole allspice berries
+  - qty: 1
+    unit: tbsp
+    name: black pepper
+    raw: 1 tablespoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 3
+    unit: tbsp
+    name: soft brown sugar
+    raw: 3 tablespoons soft brown sugar
+  - qty: 3
+    unit: tbsp
+    name: dark soy sauce
+    raw: 3 tablespoons dark soy sauce
+  - qty: 2
+    name: limes
+    raw: 2 limes
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 1
+    unit: tbsp
+    name: white vinegar
+    raw: 1 tablespoon white vinegar
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1.5
+    unit: kg
+    name: chicken thighs and drumsticks
+    raw: 1 ½ kg bone-in chicken thighs and drumsticks
+  - qty: 200
+    unit: g
+    name: pimento wood chips
+    raw: 200 g pimento wood chips, soaked
+  - name: "or: 4 tablespoons whole allspice berries scattered on the coals"
+    raw: "Or: 4 tablespoons whole allspice berries scattered on the coals"
+  - name: rice and peas
+    raw: Rice and Peas
+  - name: lime wedges
+    raw: Lime wedges
+  - name: cucumber
+    raw: Sliced cucumber
+  - name: hot sauce
+    raw: Hot sauce

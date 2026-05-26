@@ -1,22 +1,3 @@
----
-prep: 10 minutes (plus 15 minutes resting)
-cook: 15 minutes
-allergens:
-  - gluten
-  - mustard
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - sides
-mentions:
-  - cuisine/bengali/side-dishes/shukto
----
-
-
-
-
 # Begun Bhaja
 
 ![Begun Bhaja](resources/begun-bhaja.jpg)

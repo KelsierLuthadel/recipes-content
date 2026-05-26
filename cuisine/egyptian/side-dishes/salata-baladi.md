@@ -1,25 +1,3 @@
----
-prep: 12 minutes
-cook: 0 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - sides
-  - onion
-  - tomato
-  - lemon
-  - chili
-mentions: []
----
-
-
-
-
 # Salata Baladi
 
 ![Salata Baladi](resources/salata-baladi.jpg)

@@ -1,0 +1,134 @@
+prep: 25 minutes (plus 20 minutes marinating)
+cook: 20 minutes
+allergens:
+  - eggs
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - beef
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef sirloin
+    raw: 500 g beef sirloin, flank, or chuck
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: shaoxing rice wine
+    raw: 1 tablespoon Shaoxing rice wine
+  - qty: 1
+    name: egg white
+    raw: 1 egg white
+  - qty: 2
+    unit: tbsp
+    name: cornflour
+    raw: 2 tablespoons cornflour
+  - qty: 1
+    unit: tsp
+    name: neutral oil
+    raw: 1 teaspoon neutral oil
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 3
+    unit: tbsp
+    name: neutral oil
+    raw: 3 tablespoons neutral oil
+  - qty: 3
+    unit: tbsp
+    name: doubanjiang
+    raw: 3 tablespoons doubanjiang
+  - qty: 2
+    unit: tbsp
+    name: sichuan chillies
+    raw: 2 tablespoons whole dried Sichuan chillies
+  - qty: 2
+    unit: tsp
+    name: sichuan peppercorns
+    raw: 2 teaspoons whole Sichuan peppercorns
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 600
+    unit: ml
+    name: chicken stock
+    raw: 600 ml chicken stock
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 1
+    unit: tsp
+    name: dark soy sauce
+    raw: 1 teaspoon dark soy sauce
+  - qty: 200
+    unit: g
+    name: bean sprouts
+    raw: 200 g bean sprouts
+  - qty: 200
+    unit: g
+    name: napa cabbage
+    raw: 200 g Napa cabbage , torn into wide pieces
+  - qty: 3
+    unit: tbsp
+    name: sichuan chillies
+    raw: 3 tablespoons whole dried Sichuan chillies
+  - qty: 1
+    unit: tsp
+    name: sichuan peppercorn powder
+    raw: 1 teaspoon Sichuan peppercorn powder
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: Handful coriander
+  - qty: 4
+    unit: tbsp
+    name: neutral oil
+    raw: 4 tablespoons neutral oil
+  - qty: 1
+    unit: tbsp
+    name: sichuan chilli oil with sediment
+    raw: 1 tablespoon Sichuan chilli oil with sediment
+  - name: steamed jasmine rice
+    raw: Steamed jasmine rice
+  - name: beer
+    raw: Cold beer

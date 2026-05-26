@@ -1,32 +1,3 @@
----
-prep: 20 minutes
-cook: 29 minutes
-allergens:
-  - gluten
-  - dairy
-  - peanuts
-  - meat
-  - garlic
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - mushroom
-  - onion
-  - garlic
-  - carrot
-  - butter
-  - nuts
-  - complex
-  - valentines
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Beef Bourguignon (Boeuf Bourguignon)
 
 ![Beef Bourguignon](resources/beef-bourguinon.jpg)

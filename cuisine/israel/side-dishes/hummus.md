@@ -1,32 +1,3 @@
----
-prep: 10 minutes (plus 12 hours soaking)
-cook: 1 hour 15 minutes
-allergens:
-  - gluten
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - make-ahead
-  - sides
-  - garlic
-  - lemon
-  - chickpea
-  - complex
-  - passover
-  - rosh-hashanah
-  - shavuot
-  - tu-bav
-  - yom-kippur
-  - jewish
-mentions: []
----
-
-
-
-
 # Hummus
 
 ![Hummus](resources/hummus.jpg)

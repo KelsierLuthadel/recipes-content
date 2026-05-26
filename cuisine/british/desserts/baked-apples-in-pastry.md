@@ -1,20 +1,3 @@
----
-prep: 10 minutes
-cook: 1 hour 30 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - dessert
-  - complex
-mentions: []
----
-
-
-
-
 # Baked Apples in a Pastry Cage
 
 ![Baked apples in a pastry cage](resources/baked-apples-in-pastry.jpg)

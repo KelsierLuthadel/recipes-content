@@ -1,25 +1,3 @@
----
-prep: 30 minutes (plus 24 hours curing + 8 hours freezing)
-cook: 0 minutes
-allergens:
-  - fish
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - snack
-  - make-ahead
-  - garlic
-  - complex
-mentions:
-  - cuisine/spanish/side-dishes/pan-con-tomate
----
-
-
-
-
 # Boquerones en Vinagre
 
 ![Boquerones en Vinagre](resources/boquerones-en-vinagre.jpg)

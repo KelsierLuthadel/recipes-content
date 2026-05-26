@@ -1,35 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - lamb
-  - garlic
-  - ginger
-  - lime
-  - coriander
-  - chili
-  - complex
-mentions:
-  - cuisine/indian/lamb-madrass
-  - cuisine/indian/sauces-pickles/mango-chutney
-  - sauces/fruit-sauce/mango-chutney
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lamb Madras
 
 ![Lamb Madras](resources/BIR-Lamb-madrass.jpg)

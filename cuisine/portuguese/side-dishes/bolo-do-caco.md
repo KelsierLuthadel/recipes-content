@@ -1,25 +1,3 @@
----
-prep: 25 minutes (plus 1 hour rising)
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - make-ahead
-  - sides
-  - garlic
-  - potato
-  - butter
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Bolo Do Caco
 
 ![Bolo do Caco](resources/bolo-do-caco.jpg)

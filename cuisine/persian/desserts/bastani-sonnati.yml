@@ -1,0 +1,60 @@
+prep: 25 minutes (plus 6 hours freezing)
+cook: 20 minutes
+allergens:
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - eggs
+  - cream
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 600
+    unit: ml
+    name: milk
+    raw: 600 ml whole milk
+  - qty: 400
+    unit: ml
+    name: double cream
+    raw: 400 ml double cream
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 6
+    name: egg yolks
+    raw: 6 egg yolks
+  - qty: 1
+    unit: generous pinch
+    name: saffron threads
+    raw: A generous pinch of saffron threads
+  - qty: 2
+    unit: tbsp
+    name: rosewater
+    raw: 2 tablespoons rosewater
+  - qty: 0.5
+    unit: tsp
+    name: mastic gum
+    raw: ½ teaspoon ground mastic gum
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 80
+    unit: g
+    name: shelled pistachios
+    raw: 80 g shelled pistachios

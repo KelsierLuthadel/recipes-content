@@ -1,0 +1,91 @@
+prep: 30 minutes (plus 2 hours chilling)
+cook: 12 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - bbq
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - yogurt
+  - complex
+  - eid-al-adha
+  - ramadan
+  - muslim
+mentions:
+  - cuisine/azerbaijan/side-dishes/lavash
+ingredients:
+  - qty: 800
+    unit: g
+    name: lamb shoulder mince
+    raw: 800 g lamb shoulder mince
+  - qty: 200
+    unit: g
+    name: lamb tail fat or very fatty lamb breast
+    raw: 200 g lamb tail fat OR very fatty lamb breast
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 1.5
+    unit: tbsp
+    name: pepper flakes
+    raw: 1 ½ tablespoons mild pepper flakes
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 2
+    unit: tsp
+    name: sumac
+    raw: 2 teaspoons ground sumac
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 2
+    name: red onions
+    raw: 2 red onions
+  - qty: 2
+    unit: tbsp
+    name: sumac
+    raw: 2 tablespoons ground sumac
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 20
+    unit: g
+    name: flat-leaf parsley
+    raw: 20 g flat-leaf parsley
+  - qty: 4
+    name: long turkish green peppers or banana peppers
+    raw: 4 long Turkish green peppers or banana peppers
+  - qty: 4
+    name: tomatoes
+    raw: 4 tomatoes
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - name: salt
+    raw: Salt
+  - qty: 6
+    name: lavash sheets
+    raw: 4-8 fresh lavash sheets
+  - name: salt-water-and-lemon ayran on the side
+    raw: Salt-water-and-lemon ayran on the side

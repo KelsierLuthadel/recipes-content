@@ -1,29 +1,3 @@
----
-prep: 10 minutes
-cook: 12 minutes
-allergens:
-  - mustard
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - sides
-  - lentils
-  - onion
-  - garlic
-  - coconut
-  - chili
-  - curry
-mentions: []
----
-
-
-
-
 # French Bean Foogath
 
 ![French Bean Foogath](resources/french-bean-foogath.jpg)

@@ -1,0 +1,19 @@
+prep: 20 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - cream
+mentions: []
+ingredients:
+  - qty: 750
+    unit: ml
+    name: creme anglaise
+    raw: 750 ml crème anglaise
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream

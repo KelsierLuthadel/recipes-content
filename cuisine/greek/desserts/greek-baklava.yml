@@ -1,0 +1,73 @@
+prep: 45 minutes
+cook: 50 minutes (plus overnight resting)
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - lemon
+  - butter
+  - honey
+  - nuts
+  - complex
+mentions:
+  - baking/pastry/filo-pastry
+  - cuisine/greek/desserts/galaktoboureko
+  - cuisine/turkish/desserts/baklava
+  - tutorials/pastry/filo
+ingredients:
+  - qty: 600
+    unit: g
+    name: walnuts
+    raw: 600 g walnuts
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 teaspoons ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 1
+    unit: tsp
+    name: orange zest
+    raw: 1 teaspoon orange zest
+  - qty: 24
+    name: sheets filo pastry
+    raw: 24 sheets filo pastry
+  - qty: 250
+    unit: g
+    name: unsalted butter
+    raw: 250 g unsalted butter
+  - qty: 24
+    name: cloves
+    raw: 24 whole cloves
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 200
+    unit: g
+    name: clear honey
+    raw: 200 g clear honey
+  - qty: 1
+    name: strip lemon peel
+    raw: 1 strip lemon peel
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons lemon juice

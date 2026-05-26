@@ -1,33 +1,3 @@
----
-prep: 15 minutes (plus 12-24 hours marinating)
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - mustard
-  - garlic
-tags:
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - yogurt
-  - curry
-  - complex
-mentions:
-  - sauces/sauce-savory/lemon-yogurt-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Charcoal Chicken Shop Chicken Skewers
 
 ![Charcoal Chicken Shop Chicken Skewers](resources/charcoal-chicken-skewers.jpg)

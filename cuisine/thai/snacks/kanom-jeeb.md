@@ -1,39 +1,3 @@
----
-prep: 30 minutes
-cook: 10 minutes
-allergens:
-  - eggs
-  - soy
-  - sesame
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - snack
-  - asian
-  - meat
-  - fish
-  - pork
-  - prawn
-  - eggs
-  - mushroom
-  - onion
-  - garlic
-  - carrot
-  - coriander
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Kanom Jeeb
 
 ![Kanom Jeeb](resources/kanom-jeeb.jpg)

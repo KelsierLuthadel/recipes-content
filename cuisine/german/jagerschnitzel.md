@@ -1,37 +1,3 @@
----
-prep: 20 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-  - shellfish
-  - meat
-  - mustard
-  - garlic
-tags:
-  - meals
-  - meat
-  - fish
-  - pork
-  - eggs
-  - mushroom
-  - onion
-  - garlic
-  - potato
-  - butter
-  - cream
-  - nuts
-  - complex
-mentions:
-  - cuisine/german/spatzle
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Jägerschnitzel
 
 ![Jägerschnitzel](resources/jagerschnitzel.jpg)

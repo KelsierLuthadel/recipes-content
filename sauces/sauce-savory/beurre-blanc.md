@@ -1,23 +1,3 @@
----
-prep: 5 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - onion
-  - butter
-  - cream
-mentions:
-  - cuisine/chinese/steamed-fish
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Beurre Blanc with Cream
 
 ![Beurre blanc with cream](resources/beurre-blanc.jpg)

@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 50 minutes
-allergens:
-  - eggs
-  - meat
-  - celery
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - meat
-  - chicken
-  - eggs
-  - rice
-  - onion
-  - carrot
-  - lemon
-mentions: []
----
-
-
-
-
 # Avgolemono
 
 ![Avgolemono](resources/avgolemono.jpg)

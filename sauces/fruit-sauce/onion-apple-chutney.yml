@@ -1,0 +1,60 @@
+prep: 20 minutes
+cook: 60 minutes
+allergens:
+  - peanuts
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - onion
+  - garlic
+  - tomato
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 50
+    unit: ml
+    name: groundnut oil
+    raw: 50 ml groundnut oil
+  - qty: 400
+    unit: g
+    name: onions
+    raw: 400 grams onions
+  - qty: 120
+    unit: g
+    name: soft brown sugar
+    raw: 120 grams soft brown sugar
+  - qty: 150
+    unit: ml
+    name: white wine vinegar
+    raw: 150 ml white wine vinegar
+  - qty: 150
+    unit: g
+    name: apple
+    raw: 150 grams apple
+  - qty: 150
+    unit: g
+    name: tomatoes
+    raw: 150 grams very ripe tomatoes
+  - qty: 10
+    name: white peppercorns
+    raw: 10 white peppercorns
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 1
+    unit: clove
+    name: garlic
+    raw: 1 clove garlic
+  - qty: 0.5
+    unit: tsp
+    name: chilli powder
+    raw: ½ teaspoon chilli powder
+  - qty: 1
+    unit: pinch
+    name: cinnamon
+    raw: pinch ground cinnamon

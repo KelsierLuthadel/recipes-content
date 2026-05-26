@@ -1,32 +1,3 @@
----
-prep: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-  - garlic
-tags:
-  - quick
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - pork
-  - eggs
-  - onion
-  - garlic
-  - lemon
-  - cheese
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Spaghetti with Beef Meatballs
 
 ![Spaghetti with Beef Meatballs](resources/beef-meatballs.jpg)

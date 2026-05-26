@@ -1,0 +1,61 @@
+prep: 10 minutes
+cook: 1 minute
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - onion
+  - lemon
+  - yogurt
+mentions:
+  - cuisine/chinese/snacks/spring-rolls
+  - cuisine/indian/sauces-pickles/mango-chutney
+  - cuisine/indian/side-dishes/samosa
+  - sauces/fruit-sauce/mango-chutney
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: plain yoghurt
+    raw: 200 grams plain yoghurt
+  - qty: 2
+    unit: tbsp
+    name: smooth mango chutney
+    raw: 2 tablespoons smooth mango chutney
+  - qty: 3
+    unit: tbsp
+    name: tomato ketchup
+    raw: 3 tablespoons tomato ketchup
+  - qty: 1
+    unit: tsp
+    name: mint sauce
+    raw: 1 teaspoon Mint Sauce
+  - qty: 0.5
+    unit: tsp
+    name: roasted cumin seeds
+    raw: ½ teaspoon roasted cumin seeds
+  - qty: 0.5
+    unit: tsp
+    name: chilli powder
+    raw: ½ teaspoon chilli powder
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tablespoon sugar
+  - name: lemon juice
+    raw: Fresh lemon juice
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: tsp
+    name: red food coloring powder
+    raw: 1 teaspoon red food coloring powder
+  - name: milk
+    raw: Milk
+  - name: salt
+    raw: Salt to taste

@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-cook: 17 minutes
-allergens: []
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - quick
-  - dessert
-  - lemon
-  - honey
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sweet Spiced Roasted Peaches
 
 ![Sweet spiced roasted peaches](resources/spiced-roasted-peaches.png)

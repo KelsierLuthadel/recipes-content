@@ -1,24 +1,3 @@
----
-prep: 25 minutes
-cook: 60 minutes
-allergens:
-  - meat
-  - celery
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meat
-mentions:
-  - base-ingredients/curry-paste/balti-masala-paste
-  - tutorials/stocks-sauces/stocks
----
-
-
-
-
 # Balti Chicken Stock
 
 ![Balti Chicken Stock](resources/balti-stock.jpg)

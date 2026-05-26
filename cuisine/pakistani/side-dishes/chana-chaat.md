@@ -1,31 +1,3 @@
----
-prep: 15 minutes
-cook: 5 minutes (assuming pre-cooked chickpeas)
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - quick
-  - make-ahead
-  - sides
-  - onion
-  - tomato
-  - potato
-  - lemon
-  - coriander
-  - chickpea
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chana Chaat
 
 ![Chana Chaat](resources/chana-chaat.jpg)

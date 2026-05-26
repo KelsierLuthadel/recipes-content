@@ -1,0 +1,88 @@
+prep: 30 minutes (plus overnight rice chilling)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - eggs
+  - rice
+  - onion
+  - lemon
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: arborio rice
+    raw: 300 g arborio rice
+  - qty: 1
+    unit: l
+    name: chicken stock
+    raw: 1 litre hot chicken stock
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 100
+    unit: ml
+    name: dry white wine
+    raw: 100 ml dry white wine
+  - qty: 60
+    unit: g
+    name: parmesan cheese
+    raw: 60 g parmesan cheese
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 30
+    unit: g
+    name: parmesan cheese
+    raw: 30 g extra parmesan cheese
+  - qty: 150
+    unit: g
+    name: mozzarella
+    raw: 150 g low-moisture mozzarella
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 200
+    unit: g
+    name: breadcrumbs
+    raw: 200 g fine dried breadcrumbs
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: marinara
+    raw: Marinara
+  - name: crispy radicchio salad
+    raw: Crispy radicchio salad

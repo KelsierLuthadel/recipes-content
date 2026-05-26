@@ -1,0 +1,35 @@
+prep: 2 minutes
+cook: 2 minutes
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - asian
+  - spices
+  - onion
+mentions: []
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: cumin seeds
+    raw: 1 tbsp cumin seeds
+  - qty: 1
+    unit: tbsp
+    name: fenugreek seeds
+    raw: 1 tbsp fenugreek seeds
+  - qty: 1
+    unit: tbsp
+    name: brown mustard seeds
+    raw: 1 tbsp brown mustard seeds
+  - qty: 1
+    unit: tbsp
+    name: fennel seeds
+    raw: 1 tbsp fennel seeds
+  - qty: 1
+    unit: tbsp
+    name: nigella seeds
+    raw: 1 tbsp nigella seeds

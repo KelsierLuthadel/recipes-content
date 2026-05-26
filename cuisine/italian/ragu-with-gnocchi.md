@@ -1,37 +1,3 @@
----
-prep: 25 minutes
-cook: 2 hours 34 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-  - celery
-  - garlic
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - pork
-  - eggs
-  - onion
-  - garlic
-  - potato
-  - carrot
-  - butter
-  - cheese
-  - complex
-mentions:
-  - cuisine/italian/gnocchi
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Ragù with Gnocchi
 
 ![Ragù with GnocchiW](resources/ragu-with-gnocchi.jpg)

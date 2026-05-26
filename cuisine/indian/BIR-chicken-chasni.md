@@ -1,33 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - chicken
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - complex
-mentions:
-  - cuisine/indian/sauces-pickles/mango-chutney
-  - cuisine/indian/side-dishes/tandoori-chicken-tikka
-  - sauces/fruit-sauce/mango-chutney
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Chasni
 
 ![Chicken Chasni](resources/BIR-chicken-chasni.jpg)

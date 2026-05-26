@@ -1,30 +1,3 @@
----
-prep: 10 minutes (plus overnight bean soak)
-cook: 2 hours (or 45 min pressure cooker)
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - make-ahead
-  - sides
-  - meat
-  - pork
-  - onion
-  - garlic
-  - coriander
-  - cheese
-  - complex
-  - day-of-the-dead
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Refried Beans
 
 ![Refried Beans](resources/refried-beans.jpg)

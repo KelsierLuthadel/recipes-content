@@ -1,0 +1,28 @@
+prep: 30 minutes
+cook: 5 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - asian
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 380
+    unit: g
+    name: wholemeal flour
+    raw: 380 g wholemeal flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 240
+    unit: ml
+    name: water
+    raw: 240 ml water, or as needed

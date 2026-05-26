@@ -1,0 +1,73 @@
+prep: 45 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - sesame
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - butter
+  - honey
+  - nuts
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/pastry/filo
+ingredients:
+  - qty: 300
+    unit: g
+    name: almonds
+    raw: 300 g ground almonds
+  - qty: 150
+    unit: g
+    name: icing sugar
+    raw: 150 g icing sugar
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 2
+    unit: tbsp
+    name: orange-flower water
+    raw: 2 tablespoons orange-flower water
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tablespoon water
+  - qty: 24
+    name: sheets warka
+    raw: 24 sheets warka
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 600
+    unit: ml
+    name: neutral oil
+    raw: 600 ml neutral oil
+  - qty: 300
+    unit: g
+    name: clear honey
+    raw: 300 g clear honey
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons water
+  - qty: 1
+    unit: tbsp
+    name: orange-flower water
+    raw: 1 tablespoon orange-flower water
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 2
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 2 tablespoons toasted sesame seeds

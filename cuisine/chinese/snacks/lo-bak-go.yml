@@ -1,0 +1,90 @@
+prep: 30 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - soy
+  - sesame
+  - shellfish
+  - meat
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - asian
+  - meat
+  - fish
+  - pork
+  - prawn
+  - mushroom
+  - onion
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 20
+    unit: g
+    name: shrimp
+    raw: 20 g dried shrimp
+  - qty: 4
+    name: shiitake mushrooms
+    raw: 4 dried shiitake mushrooms
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 2
+    name: chinese sausages
+    raw: 2 Chinese sausages
+  - qty: 2
+    name: shallots
+    raw: 2 shallots
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon white pepper
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: kg
+    name: daikon radish
+    raw: 1 kg daikon radish
+  - qty: 300
+    unit: g
+    name: rice flour
+    raw: 300 g rice flour
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml cold water
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 4
+    unit: tbsp
+    name: light soy sauce
+    raw: 4 tablespoons light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: rice vinegar
+    raw: 1 tablespoon rice vinegar
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 1
+    name: red chilli or chilli oil
+    raw: 1 red chilli or chilli oil

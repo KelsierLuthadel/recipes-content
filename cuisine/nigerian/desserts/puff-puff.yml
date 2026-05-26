@@ -1,0 +1,42 @@
+prep: 10 minutes (plus 1 hour rising)
+cook: 20 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - dessert
+  - kwanzaa
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 1
+    name: fast-action yeast
+    raw: 1 sachet fast-action yeast
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 350
+    unit: ml
+    name: water
+    raw: 350 ml warm water
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - name: caster sugar
+    raw: Caster sugar, for rolling
+  - name: "or: spiced sugar"
+    raw: "Or: spiced sugar"

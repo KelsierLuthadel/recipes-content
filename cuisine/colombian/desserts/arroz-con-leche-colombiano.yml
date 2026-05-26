@@ -1,0 +1,57 @@
+prep: 5 minutes
+cook: 50 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - rice
+  - lemon
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: short-grain pudding rice
+    raw: 200 g short-grain pudding rice
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    name: strip lemon peel
+    raw: 1 strip lemon peel
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: 1 pinch salt
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre whole milk
+  - qty: 1
+    name: sweetened condensed milk
+    raw: 1 tin sweetened condensed milk
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 80
+    unit: g
+    name: raisins
+    raw: 80 g raisins
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: tbsp
+    name: cinnamon
+    raw: 1 tablespoon ground cinnamon
+  - qty: 1
+    unit: handful
+    name: raisins
+    raw: A handful of extra raisins

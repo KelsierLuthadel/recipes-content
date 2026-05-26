@@ -1,0 +1,99 @@
+prep: 20 minutes
+cook: 1 ¾ hours
+allergens:
+  - dairy
+  - peanuts
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - carrot
+  - butter
+  - nuts
+  - chili
+  - complex
+  - kwanzaa
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: beef shin
+    raw: 1 kg beef shin , cut in 4-5 cm pieces
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm piece of ginger
+  - qty: 3
+    unit: tbsp
+    name: tomato puree
+    raw: 3 tablespoons tomato purée
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tinned chopped tomatoes
+  - qty: 1
+    name: scotch bonnet chilli
+    raw: 1 Scotch bonnet chilli
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    name: maggi
+    raw: 2 Maggi
+  - qty: 1.2
+    unit: l
+    name: beef
+    raw: 1.2 litres beef
+  - name: salt
+    raw: Salt
+  - qty: 250
+    unit: g
+    name: smooth natural peanut butter
+    raw: 250 g smooth natural peanut butter
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml hot water
+  - qty: 400
+    unit: g
+    name: cassava
+    raw: 400 g cassava
+  - qty: 1
+    name: sweet potato
+    raw: 1 sweet potato
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 0.5
+    name: white cabbage
+    raw: ½ small white cabbage
+  - qty: 500
+    unit: g
+    name: long-grain white rice
+    raw: 500 g long-grain white rice, steamed

@@ -1,0 +1,53 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - sides
+  - eggs
+  - butter
+  - kwanzaa
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: yellow cornmeal
+    raw: 200 g coarse yellow cornmeal
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 g plain flour
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 1
+    unit: tbsp
+    name: baking powder
+    raw: 1 tablespoon baking powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: bicarbonate of soda
+    raw: ½ teaspoon bicarbonate of soda
+  - qty: 350
+    unit: ml
+    name: buttermilk
+    raw: 350 ml buttermilk
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter

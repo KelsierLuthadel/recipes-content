@@ -1,25 +1,3 @@
----
-prep: 5 minutes
-cook: 1 minute
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - eggs
-  - butter
-  - cream
-mentions:
-  - base-ingredients/baking/clarified-butter
-  - tutorials/bread/gluten
----
-
-
-
-
 # Crêpes
 
 ![Crêpes](resources/crepes.jpg)

@@ -1,0 +1,56 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - bbq
+  - garlic
+  - lime
+  - butter
+mentions:
+  - cuisine/mexican/side-dishes/elote
+ingredients:
+  - qty: 6
+    name: sweetcorn cobs
+    raw: 6 fresh sweetcorn cobs, husks and silk removed
+  - qty: 1
+    unit: tbsp
+    name: neutral oil
+    raw: 1 tbsp neutral oil
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ tsp fine sea salt
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter, softened
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, very finely grated
+  - qty: 2
+    unit: tbsp
+    name: chives
+    raw: 2 tbsp chives, finely chopped
+  - qty: 1
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 1 tbsp flat-leaf parsley, finely chopped
+  - qty: 0.5
+    unit: tsp
+    name: flaky sea salt
+    raw: ½ tsp flaky sea salt
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 2
+    name: limes
+    raw: 2 limes, cut into wedges
+  - name: chives
+    raw: Extra chives
+  - name: flaky sea salt
+    raw: Flaky sea salt

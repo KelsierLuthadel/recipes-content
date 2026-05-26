@@ -1,0 +1,62 @@
+prep: 10 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - eggs
+  - lemon
+  - cream
+  - chocolate
+  - valentines
+mentions:
+  - sponge/sponge-base
+ingredients:
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 grams caster sugar
+  - qty: 400
+    unit: g
+    name: mixed red berries
+    raw: 400 grams mixed red berries
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 400
+    unit: g
+    name: chocolate genoese sponge mixture
+    raw: 400 grams chocolate Genoese sponge mixture
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 40
+    unit: g
+    name: caster sugar
+    raw: 40 grams caster sugar
+  - qty: 250
+    unit: ml
+    name: single cream
+    raw: 250 ml single cream
+  - qty: 3
+    unit: g
+    name: lavender flowers
+    raw: 3 grams lavender flowers
+  - qty: 1
+    name: sheet leaf gelatine
+    raw: 1 sheet leaf gelatine
+  - qty: 200
+    unit: g
+    name: dark chocolate
+    raw: 200 grams dark chocolate
+  - qty: 150
+    unit: ml
+    name: creme anglaise
+    raw: 150 ml crème anglaise
+  - qty: 240
+    unit: ml
+    name: double cream
+    raw: 240 ml double cream

@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - make-ahead
-  - meals
-  - garlic
-  - tomato
-  - spinach
-  - cheese
-mentions:
-  - cuisine/italian/side-dishes/tomato-basil-sauce
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Three-Cheese Spinach Manicotti
 
 ![Three-Cheese Spinach Manicotti](resources/cheese-spinach-manicotti.jpg)

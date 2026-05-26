@@ -1,0 +1,78 @@
+prep: 15 minutes (plus 1 hour marinating)
+cook: 15 minutes
+allergens:
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - honey
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 900
+    unit: g
+    name: chicken thighs
+    raw: 900 g boneless skinless chicken thighs
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 2
+    unit: tsp
+    name: garlic powder
+    raw: 2 teaspoons garlic powder
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 0.25
+    unit: cup
+    name: cornstarch
+    raw: ¼ cup cornstarch
+  - qty: 2.5
+    unit: tbsp
+    name: vegetable oil
+    raw: 2-3 tablespoons vegetable oil
+  - qty: 0.5
+    unit: cup
+    name: honey
+    raw: ½ cup honey
+  - qty: 0.25
+    unit: cup
+    name: sweet chilli sauce
+    raw: ¼ cup sweet chilli sauce
+  - qty: 0.25
+    unit: cup
+    name: soy sauce
+    raw: ¼ cup soy sauce
+  - qty: 10
+    name: garlic cloves
+    raw: 10 garlic cloves
+  - name: hibachi-style rice
+    raw: Hibachi-style rice
+  - name: sesame seeds
+    raw: Sesame seeds
+  - name: spring onions
+    raw: Sliced spring onions

@@ -1,21 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - quick
-  - make-ahead
-  - baking
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Filo Pastry
 
 ![Filo pastry](resources/filo.jpg)

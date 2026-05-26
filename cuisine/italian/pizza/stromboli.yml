@@ -1,0 +1,71 @@
+prep: 30 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - pork
+  - eggs
+  - butter
+  - cheese
+mentions:
+  - cuisine/italian/pesto
+  - cuisine/italian/pizza/calzone
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 459
+    unit: g
+    name: prepared pizza dough
+    raw: 459 grams prepared pizza dough
+  - qty: 1
+    name: egg white
+    raw: 1 egg white
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tablespoon water
+  - name: plain flour
+    raw: Plain flour
+  - qty: 300
+    unit: g
+    name: italian deli meat
+    raw: 300 grams sliced Italian deli meat
+  - qty: 1
+    unit: handful
+    name: basil leaves
+    raw: Handful fresh basil leaves
+  - qty: 300
+    unit: g
+    name: provolone
+    raw: 300 grams sliced provolone
+  - qty: 300
+    unit: g
+    name: mozzarella
+    raw: 300 grams mozzarella
+  - qty: 2
+    unit: tbsp
+    name: salted butter
+    raw: 2 tablespoons salted butter
+  - qty: 0.25
+    unit: tsp
+    name: oregano
+    raw: ¼ teaspoon dried oregano
+  - qty: 0.25
+    unit: tsp
+    name: garlic powder
+    raw: ¼ teaspoon garlic powder
+  - name: parsley
+    raw: Finely chopped fresh parsley
+  - name: flaky sea salt
+    raw: Flaky sea salt
+  - name: parmesan cheese
+    raw: Grated parmesan cheese
+  - name: marinara sauce
+    raw: Marinara sauce

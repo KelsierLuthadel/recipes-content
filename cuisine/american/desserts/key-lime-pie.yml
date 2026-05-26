@@ -1,0 +1,59 @@
+prep: 30 minutes
+cook: 25 minutes (plus 4 hours chilling)
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lime
+  - butter
+  - cream
+  - complex
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: graham crackers
+    raw: 200 g graham crackers
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 4
+    name: egg yolks
+    raw: 4 egg yolks
+  - qty: 1
+    name: sweetened condensed milk
+    raw: 1 tin sweetened condensed milk
+  - qty: 150
+    unit: ml
+    name: lime juice
+    raw: 150 ml lime juice
+  - qty: 4
+    name: limes
+    raw: 4 limes
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream
+  - qty: 2
+    unit: tbsp
+    name: icing sugar
+    raw: 2 tablespoons icing sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - name: lime zest
+    raw: Extra lime zest for garnish

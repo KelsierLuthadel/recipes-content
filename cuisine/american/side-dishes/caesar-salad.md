@@ -1,31 +1,3 @@
----
-prep: 15 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-  - eggs
-  - fish
-  - meat
-  - mustard
-  - garlic
-tags:
-  - gluten-free
-  - quick
-  - sides
-  - meat
-  - chicken
-  - eggs
-  - garlic
-  - lemon
-  - cheese
-  - complex
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Caesar Salad
 
 ![Caesar Salad](resources/caesar-salad.jpg)

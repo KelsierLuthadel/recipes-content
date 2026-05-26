@@ -1,0 +1,40 @@
+prep: 40 minutes (plus 30 minutes resting)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - butter
+  - honey
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - qty: 200
+    unit: g
+    name: ghee
+    raw: 200 g ghee
+  - name: oil for stretching
+    raw: Extra oil for stretching
+  - name: honey
+    raw: Honey, molasses or thick cream for sweet
+  - name: or eat plain alongside savoury dishes
+    raw: Or eat plain alongside savoury dishes

@@ -1,24 +1,3 @@
----
-prep: 40 minutes (plus 30 minutes resting)
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - dessert
-  - lemon
-  - butter
-  - cream
-  - honey
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Kahi
 
 ![Kahi](resources/kahi.jpg)

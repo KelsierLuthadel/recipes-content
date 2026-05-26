@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - mustard
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - onion
-  - potato
-  - lemon
-mentions:
-  - base-ingredients/herbs/fines-herbes
-  - tutorials/pasta/pasta
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Herb Salsa
 
 ![Herb Salsa](resources/herb-salsa.png)

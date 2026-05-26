@@ -1,30 +1,3 @@
----
-prep: 25 minutes (plus 30 minutes resting)
-cook: 12 minutes
-allergens:
-  - gluten
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - lamb
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - chili
-  - complex
-mentions: []
----
-
-
-
-
 # Kafta Mishweeyeh
 
 ![Kafta Mishweeyeh](resources/kafta-mishweeyeh.jpg)

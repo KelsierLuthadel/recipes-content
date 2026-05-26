@@ -1,30 +1,3 @@
----
-prep: 20 minutes
-cook: 3 hours
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - celery
-  - garlic
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - pork
-  - rice
-  - onion
-  - garlic
-  - butter
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken and Sausage Gumbo
 
 ![Chicken and Sausage Gumbo](resources/chicken-and-sausage-gumbo.jpg)

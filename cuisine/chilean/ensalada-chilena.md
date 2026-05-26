@@ -1,27 +1,3 @@
----
-prep: 15 minutes (plus 15 min onion soak)
-cook: 0 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - onion
-  - tomato
-  - lime
-  - coriander
-  - chili
-mentions:
-  - cuisine/chilean/pastel-de-choclo
----
-
-
-
-
 # Ensalada Chilena
 
 ![Ensalada Chilena](resources/ensalada-chilena.jpg)

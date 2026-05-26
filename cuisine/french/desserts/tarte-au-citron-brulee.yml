@@ -1,0 +1,39 @@
+prep: 35 minutes
+cook: 1 hour 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - cream
+  - complex
+mentions: []
+ingredients:
+  - qty: 280
+    unit: g
+    name: sweet shortcrust
+    raw: 280 grams Sweet Shortcrust
+  - name: eggwash
+    raw: eggwash
+  - qty: 5
+    name: unwaxed lemons
+    raw: 5 unwaxed lemons
+  - qty: 9
+    name: eggs
+    raw: 9 eggs
+  - qty: 375
+    unit: g
+    name: caster sugar
+    raw: 375 grams caster sugar
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream
+  - qty: 30
+    unit: g
+    name: icing sugar
+    raw: 30 grams icing sugar

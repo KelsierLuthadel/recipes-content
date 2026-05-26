@@ -1,0 +1,112 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - snack
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - cream
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/side-dishes/refried-beans
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 8
+    name: corn tortillas
+    raw: 8 corn tortillas
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil or 300 ml oil
+    raw: 2 tablespoons vegetable oil OR 300 ml oil
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 400
+    unit: g
+    name: shredded chicken
+    raw: 400 g cooked shredded chicken
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 2
+    name: chipotles in adobo
+    raw: 2 chipotles in adobo
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tbsp
+    name: warm refried beans
+    raw: 1 tablespoon warm refried beans
+  - qty: 2
+    unit: tbsp
+    name: chicken tinga
+    raw: 2 tablespoons chicken tinga
+  - qty: 1
+    unit: small handful
+    name: shredded iceberg lettuce
+    raw: A small handful shredded iceberg lettuce
+  - qty: 2
+    unit: tbsp
+    name: tomato
+    raw: 2 tablespoons diced tomato
+  - qty: 1
+    unit: tbsp
+    name: red onion
+    raw: 1 tablespoon sliced red onion
+  - qty: 2
+    name: avocado
+    raw: 2 slices avocado
+  - qty: 1
+    unit: tbsp
+    name: crumbled cotija cheese
+    raw: 1 tablespoon crumbled cotija cheese
+  - qty: 1
+    unit: tbsp
+    name: mexican crema
+    raw: 1 tablespoon Mexican crema
+  - qty: 2.5
+    name: pickled jalapeno
+    raw: 2-3 slices pickled jalapeño
+  - name: coriander leaves
+    raw: A few coriander leaves
+  - name: lime
+    raw: A wedge of lime

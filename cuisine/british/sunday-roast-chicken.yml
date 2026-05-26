@@ -1,0 +1,87 @@
+prep: 25 minutes
+cook: 1 ¼ hours
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+  - garlic
+tags:
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - garlic
+  - potato
+  - lemon
+  - butter
+  - complex
+mentions:
+  - cuisine/british/side-dishes/yorkshire-puddings
+ingredients:
+  - qty: 1.6
+    unit: kg
+    name: chicken
+    raw: 1.6 kg whole chicken
+  - qty: 75
+    unit: g
+    name: unsalted butter
+    raw: 75 g unsalted butter
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tablespoon fresh thyme leaves
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    unit: kg
+    name: maris piper potatoes
+    raw: 1 kg Maris Piper potatoes
+  - qty: 4
+    unit: tbsp
+    name: goose fat
+    raw: 4 tablespoons goose fat
+  - name: sea salt
+    raw: Sea salt
+  - qty: 140
+    unit: g
+    name: plain flour
+    raw: 140 g plain flour
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - name: roasting tray juices
+    raw: Roasting tray juices
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 300
+    unit: ml
+    name: chicken stock
+    raw: 300 ml chicken stock
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard

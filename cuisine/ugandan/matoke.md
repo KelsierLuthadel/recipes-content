@@ -1,36 +1,3 @@
----
-prep: 25 minutes
-cook: 1 ¼ hours
-allergens:
-  - dairy
-  - peanuts
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - one-pan
-  - meals
-  - meat
-  - beef
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - lemon
-  - coriander
-  - butter
-  - nuts
-  - chili
-  - curry
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Matoke
 
 ![Matoke](resources/matoke.jpg)

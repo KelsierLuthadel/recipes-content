@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - rice
-  - garlic
-  - ginger
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Three-Cup Chicken
 
 ![Three-Cup Chicken](resources/three-cup-chicken.jpg)

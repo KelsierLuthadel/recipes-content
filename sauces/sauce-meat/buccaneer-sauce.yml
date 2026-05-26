@@ -1,0 +1,46 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meat
+  - onion
+  - ginger
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 60
+    unit: g
+    name: shallots
+    raw: 60 grams shallots
+  - qty: 40
+    unit: g
+    name: ginger
+    raw: 40 grams ginger
+  - qty: 100
+    unit: g
+    name: banana
+    raw: 100 grams banana
+  - qty: 6
+    unit: tbsp
+    name: raspberry vinegar
+    raw: 6 tablespoons raspberry vinegar
+  - qty: 400
+    unit: ml
+    name: veal stock
+    raw: 400 ml Veal stock
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

@@ -1,0 +1,32 @@
+prep: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - asian
+  - spices
+mentions: []
+ingredients:
+  - qty: 2
+    unit: tsp
+    name: coriander powder
+    raw: 2 tsp coriander powder
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp cumin
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp turmeric
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ tsp cardamom
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ tsp cinnamon

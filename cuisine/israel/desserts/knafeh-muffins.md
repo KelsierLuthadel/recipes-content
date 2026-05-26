@@ -1,24 +1,3 @@
----
-prep: 25 minutes
-cook: 30 minutes (plus 15 minutes for syrup)
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - lemon
-  - butter
-  - cheese
-  - nuts
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Knafeh Muffins
 
 ![Knafeh Muffins](resources/knafeh-muffins.jpg)

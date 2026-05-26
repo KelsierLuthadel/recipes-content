@@ -1,0 +1,69 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - soy
+  - sesame
+  - fish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - tofu
+  - rice
+  - onion
+  - garlic
+  - chili
+mentions: []
+ingredients:
+  - qty: 300
+    unit: g
+    name: sour kimchi
+    raw: 300 g sour kimchi
+  - qty: 200
+    unit: g
+    name: pork belly or pork shoulder cubes
+    raw: 200 g pork belly or pork shoulder cubes
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: gochujang
+    raw: 1 tablespoon gochujang
+  - qty: 1
+    unit: tbsp
+    name: gochugaru
+    raw: 1 tablespoon gochugaru
+  - qty: 1
+    unit: tsp
+    name: doenjang
+    raw: 1 teaspoon doenjang
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml water
+  - qty: 200
+    unit: g
+    name: firm tofu
+    raw: 200 g firm tofu
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 2
+    unit: tsp
+    name: toasted sesame oil
+    raw: 2 teaspoons toasted sesame oil
+  - name: short-grain rice
+    raw: Cooked short-grain rice, to serve

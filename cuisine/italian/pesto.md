@@ -1,28 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-  - tree-nuts
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - meals
-  - garlic
-  - cheese
-  - nuts
-mentions:
-  - cuisine/british/vegetable-soup
-  - cuisine/italian/lasagne
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pesto
 
 ![Pesto](resources/pesto.png)

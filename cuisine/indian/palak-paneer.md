@@ -1,36 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - meals
-  - asian
-  - paneer
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - spinach
-  - coriander
-  - butter
-  - cream
-  - chili
-  - complex
-  - diwali
-  - hindu
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Palak Paneer
 
 ![Palak Paneer](resources/palak-paneer.jpg)

@@ -1,0 +1,71 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - beef
+  - onion
+  - garlic
+  - ginger
+  - soy-sauce
+mentions:
+  - bread-pasta/burger-buns
+  - cuisine/tibetan/side-dishes/sepen
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: grass-fed beef mince
+    raw: 500 g grass-fed beef mince
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce
+    raw: 2 tablespoons light soy sauce
+  - qty: 1
+    unit: tsp
+    name: sichuan pepper
+    raw: 1 teaspoon ground Sichuan pepper
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 4
+    name: whole-wheat english muffins
+    raw: 4 whole-wheat English muffins
+  - qty: 3
+    unit: tbsp
+    name: light mayonnaise
+    raw: 3 tablespoons light mayonnaise
+  - qty: 1
+    name: white onion
+    raw: 1 white onion
+  - name: shredded iceberg
+    raw: Shredded iceberg
+  - name: tibetan sepen hot sauce
+    raw: Tibetan sepen hot sauce

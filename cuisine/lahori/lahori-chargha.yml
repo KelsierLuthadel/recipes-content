@@ -1,0 +1,99 @@
+prep: 20 minutes (plus 4 hours marinade)
+cook: 1 hour 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - yogurt
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    name: chicken
+    raw: 1 whole chicken
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 200
+    unit: g
+    name: natural yogurt
+    raw: 200 g natural yogurt
+  - qty: 2
+    unit: tbsp
+    name: ginger-garlic paste
+    raw: 2 tablespoons ginger-garlic paste
+  - qty: 2
+    unit: tbsp
+    name: kashmiri chilli powder
+    raw: 2 tablespoons Kashmiri chilli powder
+  - qty: 1
+    unit: tbsp
+    name: chaat masala
+    raw: 1 tablespoon Chaat Masala
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 teaspoon Garam Masala
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon turmeric
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - qty: 2
+    unit: tbsp
+    name: white vinegar
+    raw: 2 tablespoons white vinegar
+  - qty: 2
+    unit: tbsp
+    name: mustard oil
+    raw: 2 tablespoons mustard oil
+  - qty: 1
+    unit: tbsp
+    name: flour
+    raw: 1 tablespoon gram flour
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - name: orange
+    raw: A few drops of orange
+  - qty: 2
+    unit: l
+    name: vegetable oil
+    raw: 2 litres vegetable oil
+  - name: mint-yogurt raita
+    raw: Mint-yogurt raita
+  - name: red onion
+    raw: Sliced red onion
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: naan
+    raw: Naan

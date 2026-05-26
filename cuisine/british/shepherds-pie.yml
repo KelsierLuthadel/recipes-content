@@ -1,0 +1,93 @@
+prep: 25 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - butter
+  - cheese
+  - complex
+  - st-patricks
+mentions:
+  - cuisine/british/cottage-pie
+  - tutorials/bread/cottage
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 500
+    unit: g
+    name: lamb mince
+    raw: 500 g lamb mince
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 2
+    name: celery sticks
+    raw: 2 celery sticks
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: rosemary or ½ teaspoon dried
+    raw: 1 teaspoon fresh rosemary or ½ teaspoon dried
+  - qty: 1
+    unit: tsp
+    name: thyme leaves
+    raw: 1 teaspoon fresh thyme leaves
+  - qty: 300
+    unit: ml
+    name: lamb
+    raw: 300 ml lamb
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes , peeled and cubed
+  - qty: 75
+    unit: g
+    name: unsalted butter
+    raw: 75 g unsalted butter
+  - qty: 75
+    unit: ml
+    name: milk
+    raw: 75 ml whole milk
+  - qty: 50
+    unit: g
+    name: cheddar cheese
+    raw: 50 g mature cheddar cheese
+  - name: salt
+    raw: Salt

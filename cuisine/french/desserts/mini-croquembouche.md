@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - peanuts
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - eggs
-  - butter
-  - cream
-mentions:
-  - tutorials/pastry/choux
----
-
-
-
-
 # Mini Croquembouche
 
 ![Mini croquembouche](resources/mini-croquembouche.jpg)

@@ -1,35 +1,3 @@
----
-prep: 30 minutes (plus 30 minutes marinating)
-cook: 2 hours
-allergens:
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - one-pan
-  - meals
-  - meat
-  - chicken
-  - beef
-  - lamb
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - lemon
-  - lime
-  - coriander
-  - nuts
-  - complex
-mentions: []
----
-
-
-
-
 # Mathloutha
 
 ![Mathloutha](resources/mathloutha.jpg)

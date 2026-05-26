@@ -1,0 +1,38 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - eggs
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - eggs
+  - onion
+  - passover
+  - yom-kippur
+  - sukkot
+mentions: []
+ingredients:
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    unit: tbsp
+    name: schmaltz or sunflower oil
+    raw: 4 tablespoons schmaltz or sunflower oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon white pepper
+  - name: rye bread
+    raw: Rye bread, matzo, or crackers
+  - name: cucumber
+    raw: Sliced cucumber

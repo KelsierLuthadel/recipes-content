@@ -1,0 +1,52 @@
+prep: 8 hours
+allergens:
+  - peanuts
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - snack
+  - make-ahead
+  - onion
+  - garlic
+  - coriander
+  - chickpea
+  - complex
+mentions:
+  - cuisine/israel/side-dishes/falafel
+  - cuisine/middle-east/side-dishes/tahina-dip
+ingredients:
+  - qty: 250
+    unit: g
+    name: broad beans
+    raw: 250 grams dried broad beans
+  - qty: 1
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 1 tablespoon fresh flat-leaf parsley
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon fresh coriander
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - name: sea salt
+    raw: Fine sea salt to taste
+  - name: black pepper
+    raw: Freshly ground black pepper to taste
+  - qty: 1
+    unit: small pinch
+    name: bicarbonate of soda
+    raw: Small pinch bicarbonate of soda
+  - name: oil
+    raw: Oil for deep frying

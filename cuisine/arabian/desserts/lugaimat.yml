@@ -1,0 +1,76 @@
+prep: 15 minutes (plus 1 hour rising)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - dessert
+  - lemon
+  - complex
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 30
+    unit: g
+    name: cornflour
+    raw: 30 g cornflour
+  - qty: 1
+    name: fast-action yeast
+    raw: 1 sachet fast-action yeast
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    unit: tbsp
+    name: milk powder
+    raw: 1 tablespoon milk powder
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 1
+    unit: small pinch
+    name: saffron
+    raw: 1 small pinch saffron
+  - qty: 350
+    unit: ml
+    name: water
+    raw: 350 ml warm water
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil for deep frying
+  - qty: 200
+    unit: g
+    name: date syrup
+    raw: 200 g date syrup
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 120
+    unit: ml
+    name: water
+    raw: 120 ml water
+  - qty: 1
+    unit: tsp
+    name: lemon juice
+    raw: 1 teaspoon lemon juice
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 1
+    unit: pinch
+    name: saffron
+    raw: pinch saffron
+  - qty: 1
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 1 tablespoon toasted sesame seeds

@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - cheese
-  - nuts
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Roquefort Vinaigrette
 
 ![Roquefort Vinaigrette](resources/roquefort.jpg)

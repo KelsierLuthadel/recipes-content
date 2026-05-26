@@ -1,24 +1,3 @@
----
-prep: 30 minutes (plus 30 minutes chilling)
-cook: 15 minutes
-allergens:
-  - gluten
-  - eggs
-  - meat
-  - mustard
-tags:
-  - dairy-free
-  - snack
-  - meat
-  - pork
-  - eggs
-  - onion
-mentions: []
----
-
-
-
-
 # Scotch Eggs
 
 ![Scotch Eggs](resources/scotch-eggs.jpg)

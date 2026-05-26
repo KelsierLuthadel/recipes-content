@@ -1,0 +1,75 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - garlic
+  - carrot
+  - lemon
+  - coriander
+  - chili
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: carrots
+    raw: 500 g carrots
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 3
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 3 tablespoons extra-virgin olive oil
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons lemon juice
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1.5
+    unit: tsp
+    name: cumin
+    raw: 1 ½ teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon
+  - qty: 0.25
+    unit: tsp
+    name: cayenne pepper
+    raw: ¼ teaspoon cayenne pepper
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander
+  - qty: 1
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 1 tablespoon fresh flat-leaf parsley
+  - qty: 1
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 1 tablespoon extra-virgin olive oil

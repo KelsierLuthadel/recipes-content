@@ -1,25 +1,3 @@
----
-prep: 30 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - meals
-  - meat
-  - beef
-  - lamb
-  - onion
-  - garlic
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Khuushuur
 
 ![Khuushuur](resources/khuushuur.jpg)

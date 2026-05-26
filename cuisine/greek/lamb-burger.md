@@ -1,32 +1,3 @@
----
-prep: 25 minutes
-cook: 12 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - make-ahead
-  - meals
-  - bbq
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - cheese
-  - yogurt
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Greek Lamb Burger
 
 ![Greek Lamb Burger](resources/lamb-burger.jpg)

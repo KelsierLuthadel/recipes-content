@@ -1,31 +1,3 @@
----
-prep: 10 minutes
-cook: 20 minutes
-allergens:
-  - soy
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - starter
-  - make-ahead
-  - asian
-  - meat
-  - pork
-  - garlic
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Garlicky Salt and Pepper Pork Ribs
 
 ![Garlicky Salt and Pepper Pork Ribs](resources/salt-and-pepper-pork-ribs.jpg)

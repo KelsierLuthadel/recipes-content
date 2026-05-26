@@ -1,0 +1,44 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - eggs
+  - peanuts
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - eggs
+  - onion
+  - lemon
+mentions:
+  - cuisine/british/fish-and-chips
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 200
+    unit: ml
+    name: groundnut oil
+    raw: 200 ml groundnut oil
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 20
+    unit: g
+    name: onion
+    raw: 20 grams onion
+  - qty: 3
+    unit: tbsp
+    name: mayonnaise
+    raw: 3 tablespoons Mayonnaise
+  - qty: 1
+    unit: tbsp
+    name: chives
+    raw: 1 tablespoon chives

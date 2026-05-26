@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - meals
-  - eggs
-  - butter
-mentions:
-  - cuisine/german/kasespatzle
-  - tutorials/bread/gluten
----
-
-
-
-
 # Spätzle
 
 ![Spätzle](resources/spatzle.jpg)

@@ -1,28 +1,3 @@
----
-prep: 20 minutes
-cook: 6 hours (low) or 4 hours (high)
-allergens:
-  - gluten
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - lime
-  - coriander
-  - complex
-mentions:
-  - cuisine/jamaican/jerk-chicken
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Slow-Cooker Jerk Chicken Tacos
 
 ![Slow-Cooker Jerk Chicken Tacos](resources/slow-cooker-jerk-chicken-tacos.jpg)

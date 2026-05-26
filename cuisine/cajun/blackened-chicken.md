@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 11 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - meat
-  - chicken
-  - butter
-  - chili
-mentions:
-  - cuisine/american/side-dishes/caesar-salad
-  - tutorials/rice/pilaf
----
-
-
-
-
 # Blackened Chicken
 
 ![Blackened Chicken](resources/blackened-chicken.jpg)

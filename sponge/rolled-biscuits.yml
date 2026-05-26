@@ -1,0 +1,33 @@
+prep: 20 minutes
+cook: 6-10 minutes
+allergens:
+  - gluten
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - quick
+  - eggs
+  - potato
+mentions:
+  - sponge/sponge-base
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 85
+    unit: g
+    name: caster sugar
+    raw: 85 grams caster sugar
+  - qty: 35
+    unit: g
+    name: wheat flour
+    raw: 35 grams wheat flour
+  - qty: 40
+    unit: g
+    name: potato flour
+    raw: 40 grams potato flour

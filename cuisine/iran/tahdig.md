@@ -1,26 +1,3 @@
----
-prep: 10 minutes (plus 1 hour rice soak)
-cook: 1 hour
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - make-ahead
-  - meals
-  - eggs
-  - rice
-  - butter
-  - yogurt
-  - complex
-mentions:
-  - cuisine/iran/ghormeh-sabzi
----
-
-
-
-
 # Tahdig
 
 ![Tahdig](resources/tahdig.jpg)

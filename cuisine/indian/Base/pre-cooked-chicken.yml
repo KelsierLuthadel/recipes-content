@@ -1,0 +1,74 @@
+prep: 10 minutes
+cook: 2 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: kg
+    name: chicken breasts
+    raw: 2 Kg Chicken Breasts, cut into bite-sized chunks
+  - qty: 4
+    unit: tbsp
+    name: rapeseed oil
+    raw: 4 Tbsp Rapeseed oil
+  - qty: 5
+    name: green cardamom pods
+    raw: 5 Green Cardamom pods
+  - qty: 10
+    name: black peppercorns
+    raw: 10 Black Peppercorns
+  - qty: 1
+    name: cinnamon
+    raw: 1 Inch piece of Cinnamon
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp Cumin seeds
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 tsp coriander seeds
+  - qty: 3
+    name: indian bay leaves
+    raw: 3 Indian Bay leaves
+  - qty: 2
+    name: onions
+    raw: 2 Onions
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ tsp sea salt
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 Tbsp Garlic and Ginger paste
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp ground turmeric
+  - qty: 800
+    unit: g
+    name: tomatoes
+    raw: 800g tins chopped Tomatoes
+  - name: water
+    raw: Water
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp Garam Masala

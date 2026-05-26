@@ -1,23 +1,3 @@
----
-prep: 20 minutes
-cook: 30 minutes (plus 6 hours soaking)
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - cream
-  - complex
-mentions: []
----
-
-
-
-
 # Tres Leches
 
 ![Tres Leches](resources/tres-leches.jpg)

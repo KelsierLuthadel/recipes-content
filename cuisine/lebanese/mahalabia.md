@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-cook: 12 minutes (plus 3 hours setting)
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - meals
-  - cream
-  - nuts
-  - complex
-mentions:
-  - cuisine/israel/desserts/malabi
----
-
-
-
-
 # Mahalabia
 
 ![Mahalabia](resources/mahalabia.jpg)

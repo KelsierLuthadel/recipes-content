@@ -1,25 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - quick
-  - eggs
-  - coconut
-  - butter
-  - chocolate
-  - nuts
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Chocolate-Dipped Langues de Chat
 
 ![Chocolate-Dipped Langues de Chat](resources/Langues-de-chat.jpg)

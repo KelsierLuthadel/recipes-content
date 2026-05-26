@@ -1,21 +1,3 @@
----
-prep: 15 minutes
-cook: 7 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - baking
-mentions:
-  - tutorials/patisserie/tarts
----
-
-
-
-
 # Gelée de Pommes
 
 ![Gelée de pommes](resources/gelee-de-pommes.jpg)

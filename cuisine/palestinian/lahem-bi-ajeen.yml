@@ -1,0 +1,110 @@
+prep: 45 minutes (plus 1 hour rising)
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - yogurt
+  - nuts
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    name: fast-action yeast
+    raw: 1 sachet fast-action yeast
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 320
+    unit: ml
+    name: water
+    raw: 320 ml warm water
+  - qty: 500
+    unit: g
+    name: lamb mince
+    raw: 500 g lamb mince
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 3 tablespoons fresh flat-leaf parsley
+  - qty: 1.5
+    unit: tbsp
+    name: pomegranate molasses
+    raw: 1 ½ tablespoons pomegranate molasses
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 1.5
+    unit: tsp
+    name: baharat
+    raw: 1 ½ teaspoons Baharat
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: aleppo pepper
+    raw: 1 teaspoon Aleppo pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - name: mint and parsley leaves
+    raw: Fresh mint and parsley leaves
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - name: greek yogurt
+    raw: Greek yogurt
+  - name: scatter of pine nuts
+    raw: A scatter of pine nuts

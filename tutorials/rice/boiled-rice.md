@@ -1,26 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - rice
-mentions:
-  - cuisine/goan/rice/goan-chicken-biryani
-  - cuisine/indian/biryani
-  - cuisine/indian/rice/coconut-rice
-  - cuisine/lahori/rice/lahori-mutton-biryani
-  - cuisine/thai/side-dishes/coconut-rice
-  - tutorials/pasta/dried-pasta
-  - tutorials/pizza/sauce
-  - tutorials/rice/absorption-method
-  - tutorials/rice/fried-rice-technique
-  - tutorials/rice/pilaf
----
-
-
-
 # Boiled Rice
 
 ![Rice](resources/boiled.jpg)

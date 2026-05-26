@@ -1,0 +1,34 @@
+prep: 10 minutes
+allergens:
+  - peanuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - nuts
+  - chili
+mentions: []
+ingredients:
+  - qty: 450
+    unit: g
+    name: red chillies
+    raw: 450 grams fresh red chillies
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1.5
+    unit: tbsp
+    name: water
+    raw: 1-2 tablespoons water
+  - qty: 1
+    unit: tsp
+    name: tamarind water
+    raw: 1 teaspoon tamarind water
+  - qty: 2.5
+    unit: tbsp
+    name: roasted peanuts
+    raw: 2-3 tablespoons ground roasted peanuts

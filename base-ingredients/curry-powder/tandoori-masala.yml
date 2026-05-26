@@ -1,0 +1,55 @@
+prep: 10 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - coriander
+  - curry
+mentions:
+  - base-ingredients/curry-powder/balti-masala
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons ground coriander
+  - qty: 5
+    unit: tsp
+    name: cumin
+    raw: 5 teaspoons ground cumin
+  - qty: 5
+    unit: tsp
+    name: garlic powder
+    raw: 5 teaspoons garlic powder
+  - qty: 5
+    unit: tsp
+    name: paprika
+    raw: 5 teaspoons paprika
+  - qty: 4
+    unit: tsp
+    name: mango powder
+    raw: 4 teaspoons mango powder
+  - qty: 6
+    unit: tsp
+    name: mint
+    raw: 6 teaspoons dried mint
+  - qty: 3
+    unit: tsp
+    name: chilli powder
+    raw: 3 teaspoons chilli powder
+  - qty: 4
+    unit: tsp
+    name: beetroot powder
+    raw: 4 teaspoons beetroot powder
+  - qty: 2
+    unit: tsp
+    name: annatto seed powder
+    raw: 2 teaspoons annatto seed powder
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt

@@ -1,0 +1,45 @@
+prep: 10 minutes
+allergens:
+  - dairy
+  - mustard
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - cream
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 1
+    unit: tsp
+    name: english mustard powder
+    raw: 1 teaspoon English mustard powder
+  - qty: 2
+    unit: tbsp
+    name: champagne wine vinegar
+    raw: 2 tablespoons Champagne wine vinegar
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
+  - qty: 1
+    unit: pinch
+    name: black pepper
+    raw: Pinch of freshly ground black pepper
+  - qty: 6
+    unit: tbsp
+    name: heavy double cream
+    raw: 6 tablespoons heavy double cream
+  - qty: 30
+    unit: g
+    name: parmesan cheese
+    raw: 30 grams Parmesan cheese
+  - qty: 1
+    unit: tbsp
+    name: chives
+    raw: 1 tablespoon fresh chives
+  - qty: 1.5
+    unit: tbsp
+    name: water
+    raw: 1-2 tablespoons warm water

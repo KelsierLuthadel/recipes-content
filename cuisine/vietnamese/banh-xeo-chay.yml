@@ -1,0 +1,127 @@
+prep: 20 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - soy
+  - shellfish
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - meals
+  - asian
+  - tofu
+  - mushroom
+  - onion
+  - garlic
+  - coconut
+  - carrot
+  - lime
+  - coriander
+  - butter
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - base-ingredients/sambal/nuoc-cham
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: rice flour
+    raw: 200 g rice flour
+  - qty: 30
+    unit: g
+    name: cornflour
+    raw: 30 g cornflour
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 200
+    unit: ml
+    name: coconut milk
+    raw: 200 ml coconut milk
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 50
+    unit: g
+    name: mixed mushrooms
+    raw: 50 g mixed mushrooms
+  - qty: 30
+    unit: g
+    name: firm tofu
+    raw: 30 g firm tofu
+  - qty: 30
+    unit: g
+    name: onion
+    raw: 30 g sliced onion
+  - qty: 50
+    unit: g
+    name: beansprouts
+    raw: 50 g beansprouts
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch salt
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 4
+    unit: tbsp
+    name: light soy sauce
+    raw: 4 tablespoons light soy sauce
+  - qty: 3
+    unit: tbsp
+    name: rice vinegar
+    raw: 3 tablespoons rice vinegar
+  - qty: 2
+    unit: tbsp
+    name: sugar
+    raw: 2 tablespoons sugar
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons water
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: bird's-eye chilli
+    raw: 1 bird's-eye chilli
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    name: head butter lettuce
+    raw: 1 head butter lettuce
+  - qty: 1
+    unit: large handful
+    name: mint
+    raw: A large handful mint
+  - qty: 1
+    unit: large handful
+    name: coriander
+    raw: A large handful coriander
+  - qty: 1
+    unit: large handful
+    name: thai basil
+    raw: A large handful Thai basil

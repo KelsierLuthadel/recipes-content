@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - sides
-  - bbq
-  - onion
-  - garlic
-  - tomato
-mentions:
-  - cuisine/uyghur/laghman
----
-
-
-
-
 # Grilled Eggplant Salad
 
 ![Grilled Eggplant Salad](resources/grilled-eggplant-salad.jpg)

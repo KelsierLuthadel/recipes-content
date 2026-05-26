@@ -1,0 +1,97 @@
+prep: 30 minutes (plus overnight bean soak)
+cook: 12 minutes
+allergens:
+  - gluten
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/israel/side-dishes/falafel
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: split fava beans
+    raw: 250 g dried split fava beans
+  - name: water
+    raw: Cold water
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 1
+    name: dill
+    raw: 1 small bunch fresh dill
+  - qty: 1
+    name: leek
+    raw: 1 leek
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tsp
+    name: chilli flakes
+    raw: 1 teaspoon chilli flakes
+  - qty: 1
+    unit: tsp
+    name: baking soda
+    raw: 1 teaspoon baking soda
+  - qty: 4
+    unit: tbsp
+    name: white sesame seeds
+    raw: 4 tablespoons white sesame seeds
+  - qty: 2
+    unit: tbsp
+    name: coriander seeds
+    raw: 2 tablespoons whole coriander seeds
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - qty: 4
+    name: baladi pita breads
+    raw: 4 baladi pita breads
+  - qty: 200
+    unit: ml
+    name: tahini sauce
+    raw: 200 ml tahini sauce
+  - name: cucumber
+    raw: Sliced cucumber, tomato, red onion
+  - name: pickled turnips
+    raw: Pickled turnips
+  - name: hot sauce
+    raw: Hot sauce

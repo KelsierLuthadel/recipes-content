@@ -1,0 +1,59 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - make-ahead
+  - meals
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - cheese
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 2
+    name: red peppers
+    raw: 2 red peppers
+  - qty: 2
+    name: red chillies
+    raw: 2 fresh red chillies
+  - qty: 1
+    name: chilli
+    raw: 1 dried chilli
+  - qty: 3
+    name: bay leaves
+    raw: 3 fresh bay leaves
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes
+  - qty: 800
+    unit: g
+    name: quality plum tomatoes
+    raw: 800g tins quality plum tomatoes
+  - name: lugs of olive oil
+    raw: Several good lugs of olive oil
+  - name: sea salt and black pepper
+    raw: Sea salt and black pepper to taste
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - qty: 6
+    name: flour tortillas
+    raw: 6 flour tortillas
+  - name: cheddar cheese
+    raw: Cheddar cheese

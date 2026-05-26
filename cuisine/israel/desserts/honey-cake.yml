@@ -1,0 +1,89 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dairy-free
+  - dessert
+  - make-ahead
+  - eggs
+  - ginger
+  - honey
+  - nuts
+  - complex
+  - rosh-hashanah
+  - yom-kippur
+  - sukkot
+  - jewish
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: dark honey
+    raw: 250 g dark honey
+  - qty: 60
+    unit: g
+    name: treacle
+    raw: 60 g treacle
+  - qty: 150
+    unit: ml
+    name: sunflower oil
+    raw: 150 ml sunflower oil
+  - qty: 200
+    unit: ml
+    name: black coffee
+    raw: 200 ml strong black coffee
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 80
+    unit: g
+    name: soft dark brown sugar
+    raw: 80 g soft dark brown sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 1.5
+    unit: tsp
+    name: baking powder
+    raw: 1 ½ teaspoons baking powder
+  - qty: 0.5
+    unit: tsp
+    name: bicarbonate of soda
+    raw: ½ teaspoon bicarbonate of soda
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon ground ginger
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: flaked almonds
+    raw: 2 tablespoons flaked almonds
+  - qty: 1
+    unit: tbsp
+    name: honey
+    raw: 1 tablespoon honey

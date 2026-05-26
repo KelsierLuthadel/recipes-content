@@ -1,0 +1,45 @@
+prep: 25 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - dessert
+  - make-ahead
+  - eggs
+  - honey
+mentions: []
+ingredients:
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 50
+    unit: g
+    name: honey
+    raw: 50 g honey
+  - qty: 1
+    unit: tbsp
+    name: mirin
+    raw: 1 tablespoon mirin
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons hot water
+  - qty: 180
+    unit: g
+    name: bread flour
+    raw: 180 g strong bread flour
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar

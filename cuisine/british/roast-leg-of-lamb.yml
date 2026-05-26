@@ -1,0 +1,59 @@
+prep: 20 minutes (plus 1 hour at room temperature)
+cook: 1 hour 30 minutes (plus 20 minutes resting)
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - butter
+  - complex
+  - easter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: leg of lamb
+    raw: 1 bone-in leg of lamb
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: rosemary
+    raw: 1 small bunch of rosemary
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 2
+    unit: tsp
+    name: flaky sea salt
+    raw: 2 teaspoons flaky sea salt
+  - name: black pepper
+    raw: A generous grind of black pepper
+  - qty: 4
+    name: onions
+    raw: 4 small onions
+  - qty: 250
+    unit: ml
+    name: dry red wine
+    raw: 250 ml dry red wine
+  - qty: 400
+    unit: ml
+    name: lamb or chicken stock
+    raw: 400 ml lamb or chicken stock
+  - qty: 1
+    unit: tbsp
+    name: redcurrant jelly
+    raw: 1 tablespoon redcurrant jelly
+  - name: thyme
+    raw: A few sprigs of thyme
+  - qty: 1
+    unit: small knob
+    name: cold butter
+    raw: A small knob of cold butter

@@ -1,0 +1,100 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - lamb
+  - garlic
+  - ginger
+  - potato
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/BIR-Chicken-Vindaloo
+  - cuisine/indian/goan-pork-vindaloo
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: rapeseed oil or seasoned oil
+    raw: 3 tbsp rapeseed oil or seasoned oil
+  - qty: 6
+    name: green cardamom pods
+    raw: 6 green cardamom pods, bashed
+  - qty: 2
+    name: star anise
+    raw: 2 star anise
+  - qty: 1
+    name: indian bay leaf
+    raw: 1 Indian bay leaf
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp garlic and ginger paste
+  - qty: 2
+    name: green bullet chillies
+    raw: 2 fresh green bullet chillies, finely chopped
+  - qty: 2
+    name: scotch bonnet chillies
+    raw: 2 Scotch bonnet chillies, finely chopped
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp ground turmeric
+  - qty: 2
+    unit: tbsp
+    name: hot chilli powder
+    raw: 2 tbsp hot chilli powder
+  - qty: 2
+    unit: tbsp
+    name: mixed powder
+    raw: 2 tbsp Mixed Powder
+  - qty: 125
+    unit: ml
+    name: tomato puree
+    raw: 125 ml tomato purée
+  - qty: 2
+    unit: tsp
+    name: jaggery
+    raw: 2 tsp jaggery
+  - qty: 600
+    unit: ml
+    name: curry base gravy
+    raw: 600 ml Curry Base Gravy
+  - qty: 800
+    unit: g
+    name: pre-cooked lamb
+    raw: 800 g Pre-cooked Lamb
+  - qty: 175
+    unit: ml
+    name: lamb stock
+    raw: 175 ml Lamb Stock
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar
+    raw: 2 tbsp white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: fenugreek leaves
+    raw: 1 tsp dried fenugreek leaves
+  - qty: 2
+    name: pre-cooked stewed potatoes
+    raw: 2 pre-cooked stewed potatoes
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tbsp chopped coriander
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 5 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - quick
-  - make-ahead
-mentions:
-  - tutorials/bread/hydration
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Classic Pizza Dough
 
 ![Classic Pizza Dough](resources/pizza.jpg)

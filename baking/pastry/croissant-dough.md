@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - make-ahead
-  - baking
-  - eggs
-  - butter
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Croissants
 
 ![Croissants](resources/Croissants.png)

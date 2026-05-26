@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - peanuts
-  - sesame
-  - mustard
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - asian
-  - lentils
-  - rice
-  - coriander
-  - nuts
-  - chili
-  - curry
-  - complex
-mentions: []
----
-
-
-
-
 # Tamarind Rice
 
 ![Tamarind Rice](resources/tamarind-rice.jpg)

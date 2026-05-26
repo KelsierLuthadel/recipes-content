@@ -1,37 +1,3 @@
----
-prep: 40 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - peanuts
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - snack
-  - onion
-  - garlic
-  - ginger
-  - potato
-  - lime
-  - coriander
-  - nuts
-  - chili
-  - complex
-mentions:
-  - cuisine/burmese/side-dishes/samusa-thoke
-  - cuisine/indian/side-dishes/samosa
-  - cuisine/indian/snacks/samosa
-  - sauces/sauce-fish/tamarind-sauce
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Burmese Samosa
 
 ![Burmese Samosa](resources/burmese-samosa.jpg)

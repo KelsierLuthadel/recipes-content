@@ -1,0 +1,63 @@
+prep: 10 minutes
+cook: 1 hour 15 minutes (plus 4 hours setting)
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - snack
+  - meat
+  - pork
+  - onion
+  - garlic
+  - complex
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: pork back-fat
+    raw: 500 g pork back-fat
+  - qty: 200
+    unit: g
+    name: smoked streaky bacon
+    raw: 200 g smoked streaky bacon
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: tart apple
+    raw: 1 tart apple
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tsp
+    name: marjoram
+    raw: 2 teaspoons dried marjoram
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 6
+    name: black peppercorns
+    raw: 6 black peppercorns
+  - qty: 4
+    name: juniper berries
+    raw: 4 juniper berries
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon fine salt
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - name: dark rye bread
+    raw: Dark rye bread
+  - name: flaky sea salt
+    raw: Flaky sea salt
+  - name: polish gherkins or salted dill pickles
+    raw: Polish gherkins or salted dill pickles
+  - qty: 1
+    name: chives
+    raw: A small bunch of fresh chives
+  - name: white onion
+    raw: Raw white onion

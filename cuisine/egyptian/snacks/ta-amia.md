@@ -1,28 +1,3 @@
----
-prep: 8 hours
-allergens:
-  - peanuts
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - snack
-  - make-ahead
-  - onion
-  - garlic
-  - coriander
-  - chickpea
-  - complex
-mentions:
-  - cuisine/israel/side-dishes/falafel
-  - cuisine/middle-east/side-dishes/tahina-dip
----
-
-
-
-
 # Ta'amia (Egyptian Broad-Bean Falafel)
 
 ![Ta'amia](resources/ta-amia.jpg)

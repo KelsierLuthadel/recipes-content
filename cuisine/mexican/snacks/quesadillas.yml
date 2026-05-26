@@ -1,0 +1,65 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - quick
+  - snack
+  - meat
+  - pork
+  - mushroom
+  - onion
+  - garlic
+  - spinach
+  - lime
+  - coriander
+  - butter
+  - cream
+  - cheese
+  - day-of-the-dead
+mentions:
+  - cuisine/mexican/side-dishes/refried-beans
+  - cuisine/mexican/snacks/guacamole
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 1
+    name: flour tortilla or 2 corn tortillas overlapped
+    raw: 1 flour tortilla OR 2 corn tortillas overlapped
+  - qty: 80
+    unit: g
+    name: melting cheese
+    raw: 80 g melting cheese
+  - name: "optional filling :"
+    raw: "Optional filling :"
+  - qty: 1
+    name: jalapeno
+    raw: 1 jalapeño
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons chopped fresh coriander
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 teaspoon chilli powder
+  - qty: 2
+    unit: tsp
+    name: vegetable oil or butter
+    raw: 2 teaspoons vegetable oil OR butter
+  - name: salsa verde
+    raw: Salsa verde
+  - name: guacamole
+    raw: Guacamole
+  - name: mexican crema
+    raw: Mexican crema
+  - name: lime wedges
+    raw: Lime wedges
+  - name: pickled jalapenos
+    raw: Pickled jalapeños

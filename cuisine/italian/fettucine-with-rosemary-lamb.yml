@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 3 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - carrot
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 6
+    unit: tbsp
+    name: olive oil
+    raw: 6 tablespoons olive oil
+  - qty: 3
+    name: onions
+    raw: 3 onions
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    unit: tbsp
+    name: rosemary
+    raw: 1 tablespoon fresh rosemary
+  - qty: 200
+    unit: g
+    name: top-quality minced lamb
+    raw: 200 grams top-quality minced lamb
+  - qty: 200
+    unit: ml
+    name: dry white wine
+    raw: 200 ml dry white wine
+  - qty: 300
+    unit: ml
+    name: vegetable stock
+    raw: 300 ml vegetable stock
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 400
+    unit: g
+    name: fettuccine
+    raw: 400 grams fettuccine
+  - qty: 100
+    unit: g
+    name: parmesan cheese
+    raw: 100 grams Parmesan cheese

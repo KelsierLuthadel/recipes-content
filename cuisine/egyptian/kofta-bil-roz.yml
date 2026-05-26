@@ -1,0 +1,116 @@
+prep: 25 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: beef mince
+    raw: 400 g beef mince
+  - qty: 300
+    unit: g
+    name: lamb mince
+    raw: 300 g lamb mince
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 50
+    unit: g
+    name: breadcrumbs
+    raw: 50 g dried breadcrumbs
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1.5
+    unit: tsp
+    name: cumin
+    raw: 1 ½ teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 3
+    unit: tbsp
+    name: parsley
+    raw: 3 tablespoons fresh parsley
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato puree
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 300
+    unit: g
+    name: long-grain rice
+    raw: 300 g long-grain rice
+  - qty: 700
+    unit: ml
+    name: beef stock
+    raw: 700 ml hot beef stock
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tablespoons fresh coriander
+  - name: lemon wedges
+    raw: Lemon wedges

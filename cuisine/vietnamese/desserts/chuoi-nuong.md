@@ -1,27 +1,3 @@
----
-prep: 15 minutes (plus 2 hours soaking)
-cook: 25 minutes
-allergens:
-  - dairy
-  - peanuts
-  - sesame
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - make-ahead
-  - asian
-  - rice
-  - coconut
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chuối Nướng
 
 ![Chuoi Nuong](resources/chuoi-nuong.jpg)

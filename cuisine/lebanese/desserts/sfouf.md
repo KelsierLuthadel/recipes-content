@@ -1,22 +1,3 @@
----
-prep: 15 minutes
-cook: 40 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - sesame
-tags:
-  - vegetarian
-  - dessert
-  - butter
-  - nuts
-mentions: []
----
-
-
-
-
 # Sfouf
 
 ![Sfouf](resources/sfouf.jpg)

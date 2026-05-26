@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - sesame
-  - fish
-  - mustard
-  - garlic
-tags:
-  - sides
-  - meat
-  - fish
-  - eggs
-  - garlic
-  - tomato
-  - potato
-  - butter
-  - complex
-mentions: []
----
-
-
-
-
 # Salade Niçoise with Seared Tuna
 
 ![Salade Niçoise with Seared Tuna](resources/salade-nicoise-moderne.jpg)

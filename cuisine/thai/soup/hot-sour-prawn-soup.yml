@@ -1,0 +1,62 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - fish
+  - shellfish
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - fish
+  - prawn
+  - mushroom
+  - onion
+  - lime
+  - coriander
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: prawns
+    raw: 350 grams raw medium prawns
+  - qty: 1
+    unit: tbsp
+    name: oil
+    raw: 1 tablespoon oil
+  - qty: 3
+    name: lemongrass stems
+    raw: 3 lemongrass stems
+  - qty: 3
+    name: galangal
+    raw: 3 thin slices fresh galangal
+  - qty: 4
+    name: red chillies
+    raw: 3 - 5 fresh red chillies
+  - qty: 5
+    name: lime leaves
+    raw: 5 lime leaves
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 70
+    unit: g
+    name: button mushrooms
+    raw: 70 grams button mushrooms
+  - qty: 2
+    unit: tbsp
+    name: fish sauce
+    raw: 2 tablespoons fish sauce
+  - qty: 3
+    unit: tbsp
+    name: lime juice
+    raw: 3 tablespoons lime juice
+  - qty: 1.5
+    unit: tbsp
+    name: chilli paste
+    raw: 1 - 2 tablespoons chilli paste
+  - name: coriander leaves
+    raw: coriander leaves

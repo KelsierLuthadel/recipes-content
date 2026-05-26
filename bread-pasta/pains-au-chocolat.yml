@@ -1,0 +1,23 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - eggs
+  - chocolate
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 1.1
+    unit: kg
+    name: croissant dough
+    raw: 1.1 kg croissant dough
+  - qty: 44
+    unit: stick
+    name: dark chocolate
+    raw: 44 sticks of dark chocolate
+  - name: "eggwash: 1 egg yolk mixed with 1 tablespoon milk"
+    raw: "Eggwash: 1 egg yolk mixed with 1 tablespoon milk"

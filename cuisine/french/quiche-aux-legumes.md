@@ -1,29 +1,3 @@
----
-prep: 30 minutes
-cook: 1 hour
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - garlic
-tags:
-  - vegetarian
-  - meals
-  - eggs
-  - garlic
-  - spinach
-  - butter
-  - cream
-  - cheese
-  - complex
-  - shavuot
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Quiche aux Légumes
 
 ![Quiche aux Légumes](resources/quiche-aux-legumes.jpg)

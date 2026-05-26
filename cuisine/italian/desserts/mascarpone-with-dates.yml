@@ -1,0 +1,34 @@
+prep: 15 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - cream
+  - cheese
+  - nuts
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 120
+    unit: g
+    name: candied fruit peel
+    raw: 120 grams Candied fruit peel
+  - qty: 4
+    name: dates
+    raw: 4 dates
+  - qty: 200
+    unit: g
+    name: mascarpone cheese
+    raw: 200 grams mascarpone cheese
+  - qty: 200
+    unit: ml
+    name: whipping cream
+    raw: 200 ml whipping cream
+  - qty: 200
+    unit: ml
+    name: creme anglaise
+    raw: 200 ml Crème anglaise

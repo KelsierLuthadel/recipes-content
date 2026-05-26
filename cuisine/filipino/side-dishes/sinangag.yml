@@ -1,0 +1,42 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - peanuts
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - rice
+  - onion
+  - garlic
+  - nuts
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: jasmine rice
+    raw: 600 g cooked jasmine rice
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: neutral oil
+    raw: 4 tablespoons neutral oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions

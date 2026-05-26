@@ -1,26 +1,3 @@
----
-prep: 15 minutes (plus overnight bean soak)
-cook: 1 ¼ hours
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - one-pan
-  - meals
-  - rice
-  - onion
-  - garlic
-  - coriander
-mentions: []
----
-
-
-
-
 # Moros Y Cristianos
 
 ![Moros y Cristianos](resources/moros-y-cristianos.jpg)

@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour 10 minutes
-allergens:
-  - eggs
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - sides
-  - meat
-  - eggs
-  - onion
-  - potato
-mentions:
-  - cuisine/israel/side-dishes/bagels
----
-
-
-
-
 # Potato Kugel
 
 ![Potato Kugel](resources/kugel.jpg)

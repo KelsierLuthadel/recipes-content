@@ -1,21 +1,3 @@
----
-prep: 15 minutes
-cook: 5 minutes
-allergens: []
-tags:
-  - vegetarian
-  - dairy-free
-  - gluten-free
-  - quick
-  - lemon
-  - honey
-mentions:
-  - cuisine/italian/desserts/panna-cotta
----
-
-
-
-
 # Coulis of Peaches with Lavender Honey
 
 ![Coulis of peaches with lavender honey](resources/peaches.jpg)

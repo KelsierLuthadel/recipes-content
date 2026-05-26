@@ -1,36 +1,3 @@
----
-prep: 25 minutes
-cook: 5 minutes
-allergens:
-  - peanuts
-  - soy
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - tofu
-  - onion
-  - garlic
-  - carrot
-  - lemon
-  - lime
-  - coriander
-  - nuts
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Nhom Trav
 
 ![Nhom Trav](resources/nhom-trav.jpg)

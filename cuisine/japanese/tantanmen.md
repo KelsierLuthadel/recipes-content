@@ -1,35 +1,3 @@
----
-prep: 30 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - eggs
-  - soy
-  - sesame
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - eggs
-  - onion
-  - garlic
-  - ginger
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Tantanmen
 
 ![Tantanmen](resources/tantanmen.jpg)

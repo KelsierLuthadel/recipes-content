@@ -1,0 +1,42 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - eggs
+  - soy
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - eggs
+  - rice
+  - lemon
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: aubergines
+    raw: 2 aubergines
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - name: banana ketchup
+    raw: Banana ketchup
+  - name: steamed rice
+    raw: Steamed Rice
+  - name: soy sauce mixed with a squeeze of calamansi
+    raw: Soy sauce mixed with a squeeze of calamansi

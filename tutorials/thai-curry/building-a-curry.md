@@ -1,20 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - curry
-mentions:
-  - tutorials/bir-curry/bir-curry
-  - tutorials/pizza/sauce
-  - tutorials/thai-curry/coconut-milk
-  - tutorials/thai-curry/green
----
-
-
-
 # Building a Thai Curry: Worked Example
 
 ![Thai curry](resources/thai-curry.jpg)

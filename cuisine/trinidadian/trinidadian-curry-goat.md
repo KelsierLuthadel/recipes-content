@@ -1,35 +1,3 @@
----
-prep: 20 minutes (plus 2 hours marinating)
-cook: 1 hour 45 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - potato
-  - lime
-  - coriander
-  - chili
-  - curry
-  - complex
-mentions:
-  - cuisine/indian/rice/coconut-rice
-  - cuisine/thai/side-dishes/coconut-rice
----
-
-
-
-
 # Trinidadian Curry Goat
 
 ![Trinidadian Curry Goat](resources/trinidadian-curry-goat.jpg)

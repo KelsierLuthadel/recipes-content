@@ -1,20 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - cuisine/colombian/side-dishes/hogao
-  - cuisine/italian/lasagne
-  - cuisine/italian/pizza/pizza-sauce
-  - tutorials/pizza/sauce
-  - tutorials/stocks-sauces/bechamel
----
-
-
-
 # Tomato Sauce
 
 ![Tomato sauce](resources/tomato.jpg)

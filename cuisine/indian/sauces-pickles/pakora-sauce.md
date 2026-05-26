@@ -1,28 +1,3 @@
----
-prep: 10 minutes
-cook: 1 minute
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - quick
-  - asian
-  - onion
-  - lemon
-  - yogurt
-mentions:
-  - cuisine/chinese/snacks/spring-rolls
-  - cuisine/indian/sauces-pickles/mango-chutney
-  - cuisine/indian/side-dishes/samosa
-  - sauces/fruit-sauce/mango-chutney
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Pakora Sauce
 
 ![Pakora Sauce](resources/pakora-sauce.jpg)

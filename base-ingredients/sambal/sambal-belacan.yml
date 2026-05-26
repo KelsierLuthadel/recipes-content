@@ -1,0 +1,37 @@
+prep: 10 minutes
+cook: 14 minutes
+allergens:
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - fish
+  - garlic
+  - lime
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4.5
+    name: red chillies
+    raw: 4-5 fresh red chillies
+  - qty: 1
+    name: belacan
+    raw: 1-1 ½ cm cube of belacan
+  - qty: 0.5
+    name: lime
+    raw: ½ lime
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 0.5
+    unit: tsp
+    name: palm sugar
+    raw: ½ teaspoon palm sugar

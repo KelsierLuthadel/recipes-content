@@ -1,22 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - make-ahead
-  - eggs
-  - butter
-mentions:
-  - base-ingredients/baking/clarified-butter
----
-
-
-
-
 # Génoise Sponge
 
 ![Génoise Sponge](resources/genoise-sponge.png)

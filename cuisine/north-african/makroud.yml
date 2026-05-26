@@ -1,0 +1,83 @@
+prep: 45 minutes (plus 30 minutes resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - meals
+  - lemon
+  - butter
+  - honey
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: semolina
+    raw: 500 g coarse semolina
+  - qty: 250
+    unit: g
+    name: unsalted butter
+    raw: 250 g unsalted butter
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 2
+    unit: tbsp
+    name: orange blossom water
+    raw: 2 tablespoons orange blossom water
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml warm water
+  - qty: 400
+    unit: g
+    name: pitted dates
+    raw: 400 g pitted dates
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 1
+    unit: tbsp
+    name: rosewater
+    raw: 1 tablespoon rosewater
+  - qty: 300
+    unit: g
+    name: caster sugar
+    raw: 300 g caster sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 4
+    unit: tbsp
+    name: honey
+    raw: 4 tablespoons honey
+  - qty: 2
+    unit: tbsp
+    name: orange blossom water
+    raw: 2 tablespoons orange blossom water
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - name: vegetable oil for shallow-frying
+    raw: Vegetable oil for shallow-frying
+  - name: sesame seeds
+    raw: Sesame seeds

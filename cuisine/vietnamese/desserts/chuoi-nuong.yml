@@ -1,0 +1,72 @@
+prep: 15 minutes (plus 2 hours soaking)
+cook: 25 minutes
+allergens:
+  - dairy
+  - peanuts
+  - sesame
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - asian
+  - rice
+  - coconut
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: glutinous rice
+    raw: 200 g glutinous rice
+  - qty: 200
+    unit: ml
+    name: coconut milk
+    raw: 200 ml coconut milk
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 4
+    name: vietnamese bananas or 2 large under-ripe regular bananas
+    raw: 4 Vietnamese bananas or 2 large under-ripe regular bananas
+  - qty: 4
+    name: banana leaves
+    raw: 4 banana leaves
+  - qty: 250
+    unit: ml
+    name: coconut cream
+    raw: 250 ml coconut cream
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cornflour mixed with 1 tablespoon water
+    raw: 1 teaspoon cornflour mixed with 1 tablespoon water
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf
+  - qty: 3
+    unit: tbsp
+    name: roasted peanuts
+    raw: 3 tablespoons roasted peanuts
+  - qty: 1
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 1 tablespoon toasted sesame seeds
+  - qty: 1
+    unit: pinch
+    name: flaky sea salt
+    raw: A pinch of flaky sea salt

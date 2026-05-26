@@ -1,0 +1,71 @@
+prep: 15 minutes
+cook: 11 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - pork
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 6
+    unit: tbsp
+    name: virgin olive oil
+    raw: 6 tablespoons extra virgin olive oil
+  - qty: 2
+    name: courgettes
+    raw: 2 courgettes
+  - qty: 250
+    unit: g
+    name: salami milano
+    raw: 250 grams salami Milano
+  - qty: 3
+    unit: tbsp
+    name: flat leaf parsley
+    raw: 3 tablespoons fresh flat leaf parsley
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 350
+    unit: g
+    name: penne rigate
+    raw: 350 grams penne rigate
+  - qty: 50
+    unit: g
+    name: salted butter
+    raw: 50 grams salted butter
+  - qty: 50
+    unit: g
+    name: plain flour
+    raw: 50 grams plain flour
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml full-fat milk
+  - qty: 0.5
+    unit: tsp
+    name: paprika
+    raw: ½ teaspoon paprika
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: Pinch of freshly grated nutmeg
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 100
+    unit: g
+    name: parmesan cheese
+    raw: 100 grams Parmesan cheese
+  - name: butter for greasing
+    raw: Butter for greasing

@@ -1,0 +1,71 @@
+prep: 20 minutes (plus overnight saltfish soak)
+cook: 15 minutes
+allergens:
+  - gluten
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - meat
+  - fish
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: salt cod fillet
+    raw: 250 g salt cod fillet
+  - name: water for soaking and boiling
+    raw: Water for soaking and boiling
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon black pepper
+  - qty: 0.5
+    unit: tsp
+    name: paprika
+    raw: ½ teaspoon paprika
+  - qty: 3
+    name: spring onions
+    raw: 3 spring onions, finely chopped
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, finely chopped
+  - qty: 1
+    name: tomato
+    raw: 1 tomato , deseeded and finely chopped
+  - qty: 1
+    unit: tsp
+    name: thyme leaves
+    raw: 1 teaspoon fresh thyme leaves
+  - qty: 0.5
+    name: scotch bonnet chilli
+    raw: ½ scotch bonnet chilli, deseeded and finely chopped
+  - qty: 280
+    unit: ml
+    name: water
+    raw: 280 ml cold water
+  - qty: 500
+    unit: ml
+    name: vegetable oil
+    raw: 500 ml vegetable oil
+  - name: lime wedges
+    raw: Lime wedges
+  - name: jamaican pepper sauce
+    raw: Jamaican pepper sauce

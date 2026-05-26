@@ -1,0 +1,77 @@
+prep: 1 ½ hours
+cook: 1 ½ hours
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - butter
+  - chili
+  - complex
+  - day-of-the-dead
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: pork shoulder
+    raw: 1 kg pork shoulder
+  - qty: 4
+    name: guajillo chillies
+    raw: 4 dried guajillo chillies
+  - qty: 2
+    name: ancho chillies
+    raw: 2 dried ancho chillies
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 500
+    unit: g
+    name: masa harina
+    raw: 500 g masa harina
+  - qty: 200
+    unit: g
+    name: lard or unsalted butter
+    raw: 200 g lard or unsalted butter
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 750
+    unit: ml
+    name: chicken stock
+    raw: 750 ml warm chicken stock
+  - qty: 30
+    name: corn husks
+    raw: 30 dried corn husks

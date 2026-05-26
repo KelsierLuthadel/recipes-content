@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-cook: 2 minutes
-allergens:
-  - mustard
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - pastes
-  - onion
-  - garlic
-  - ginger
-  - coriander
-  - chili
-  - curry
-  - complex
-mentions: []
----
-
-
-
-
 # Madrasi Masala Paste
 
 ![Madrasi Masala Paste](resources/madrasi-masala-paste.jpg)

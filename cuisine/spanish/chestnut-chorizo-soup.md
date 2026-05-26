@@ -1,31 +1,3 @@
----
-prep: 20 minutes
-cook: 30 minutes
-allergens:
-  - tree-nuts
-  - meat
-  - celery
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - onion
-  - garlic
-  - tomato
-  - carrot
-  - nuts
-  - chili
-mentions: []
----
-
-
-
-
 # Chestnut and Chorizo Soup
 
 ![Chestnut and Chorizo Soup](resources/chestnut-chorizo-soup.jpg)

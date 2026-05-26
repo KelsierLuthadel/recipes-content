@@ -1,0 +1,47 @@
+prep: 10 minutes
+cook: 3 minutes
+allergens:
+  - shellfish
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - fish
+  - prawn
+  - onion
+  - lime
+  - chili
+mentions:
+  - cuisine/malaysian/nasi-lemak
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: belacan
+    raw: 1 tablespoon belacan
+  - qty: 6
+    name: red bird's eye chillies
+    raw: 6 fresh red bird's eye chillies
+  - qty: 2
+    name: red chillies
+    raw: 2 fresh red chillies
+  - qty: 1
+    name: asian red shallot
+    raw: 1 Asian red shallot
+  - qty: 0.5
+    unit: tsp
+    name: caster sugar
+    raw: ½ teaspoon caster sugar
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon sea salt
+  - qty: 1.5
+    unit: tbsp
+    name: lime juice
+    raw: 1 ½ tablespoons fresh lime juice
+  - qty: 1
+    name: red chilli
+    raw: 1 red chilli

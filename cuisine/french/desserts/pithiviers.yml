@@ -1,0 +1,35 @@
+prep: 5 minutes
+cook: 26 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+mentions:
+  - baking/cremes/creme-damande
+ingredients:
+  - qty: 500
+    unit: g
+    name: feuilletage
+    raw: 500 grams feuilletage
+  - qty: 250
+    unit: g
+    name: creme d'amande
+    raw: 250 grams crème d'amande
+  - qty: 50
+    unit: g
+    name: creme patissiere
+    raw: 50 grams crème pâtissière
+  - qty: 1
+    unit: tbsp
+    name: rum
+    raw: 1 tablespoon rum
+  - name: eggwash
+    raw: eggwash
+  - qty: 30
+    unit: g
+    name: icing sugar
+    raw: 30 grams icing sugar

@@ -1,0 +1,56 @@
+prep: 45 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cream
+  - chocolate
+  - valentines
+mentions:
+  - sauces/sauce-sweet/chocolate-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: egg whites
+    raw: 4 egg whites
+  - qty: 250
+    unit: g
+    name: golden unrefined caster sugar
+    raw: 250 g golden unrefined caster sugar
+  - qty: 1
+    unit: tsp
+    name: cornflour
+    raw: 1 tsp cornflour
+  - qty: 1
+    unit: tsp
+    name: white wine vinegar
+    raw: 1 tsp white wine vinegar
+  - name: icing sugar to dust
+    raw: icing sugar to dust
+  - qty: 100
+    unit: g
+    name: plain chocolate
+    raw: 100 g plain chocolate
+  - qty: 15
+    unit: g
+    name: butter
+    raw: 15 g butter
+  - qty: 1
+    unit: tbsp
+    name: golden syrup
+    raw: 1 tbsp golden syrup
+  - qty: 4
+    unit: tbsp
+    name: cream liqueur
+    raw: 4 tbsp cream liqueur
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream, whipped

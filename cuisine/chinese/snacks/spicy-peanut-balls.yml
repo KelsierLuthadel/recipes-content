@@ -1,0 +1,72 @@
+prep: 15 minutes
+allergens:
+  - peanuts
+  - soy
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - make-ahead
+  - asian
+  - rice
+  - garlic
+  - ginger
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    name: ginger
+    raw: 1 cm piece root ginger
+  - qty: 1
+    name: red chilli
+    raw: 1 red chilli
+  - qty: 0.25
+    unit: tsp
+    name: turmeric
+    raw: ¼ teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: chilli sauce
+    raw: 1 teaspoon chilli sauce
+  - qty: 2
+    unit: tsp
+    name: soy sauce
+    raw: 2 teaspoons soy sauce
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoon coriander
+  - qty: 0.5
+    name: lime
+    raw: ½ lime
+  - qty: 225
+    unit: g
+    name: white long grain rice
+    raw: 225 grams cooked white long grain rice
+  - qty: 115
+    unit: g
+    name: peanuts
+    raw: 115 grams peanuts
+  - name: oil
+    raw: oil

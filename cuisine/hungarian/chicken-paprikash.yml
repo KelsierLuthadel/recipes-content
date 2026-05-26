@@ -1,0 +1,76 @@
+prep: 15 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - complex
+mentions:
+  - cuisine/german/spatzle
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: chicken thighs and drumsticks
+    raw: 8 bone-in chicken thighs and drumsticks
+  - qty: 3
+    unit: tbsp
+    name: lard
+    raw: 3 tablespoons lard
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: hungarian sweet paprika
+    raw: 3 tablespoons Hungarian sweet paprika
+  - qty: 0.5
+    unit: tsp
+    name: hungarian hot paprika
+    raw: ½ teaspoon Hungarian hot paprika
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper
+  - qty: 400
+    unit: ml
+    name: chicken stock
+    raw: 400 ml chicken stock
+  - qty: 200
+    unit: ml
+    name: soured cream
+    raw: 200 ml soured cream
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley
+  - qty: 400
+    unit: g
+    name: egg noodles
+    raw: 400 g egg noodles
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter

@@ -1,0 +1,56 @@
+prep: 15 minutes
+cook: 18 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - onion
+  - garlic
+  - spinach
+  - cheese
+  - nuts
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 2
+    unit: tsp
+    name: thyme
+    raw: 2 teaspoons fresh thyme
+  - qty: 250
+    unit: g
+    name: spinach leaves
+    raw: 250 grams spinach leaves
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 2
+    name: pinsa romana bases
+    raw: 2 pinsa romana bases
+  - qty: 125
+    unit: g
+    name: fontina cheese
+    raw: 125 grams fontina cheese
+  - qty: 2
+    unit: tbsp
+    name: pine nuts
+    raw: 2 tablespoons pine nuts
+  - qty: 2
+    unit: tbsp
+    name: parmesan cheese
+    raw: 2 tablespoons grated parmesan cheese

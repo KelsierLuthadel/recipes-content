@@ -1,34 +1,3 @@
----
-prep: 45 minutes (plus 30 min bulgur soak)
-cook: 40 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - meat
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - lamb
-  - onion
-  - tomato
-  - butter
-  - yogurt
-  - nuts
-  - complex
-mentions:
-  - cuisine/lebanese/kibbeh
-  - cuisine/lebanese/side-dishes/labneh
-  - cuisine/lebanese/side-dishes/tabbouleh
-  - cuisine/middle-east/kibbeh
-  - tutorials/pizza/dough
----
-
-
-
-
 # Kibbeh Bil Saneeyeh
 
 ![Kibbeh bil Saneeyeh](resources/kibbeh-bil-saneeyeh.jpg)

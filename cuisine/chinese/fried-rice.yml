@@ -1,0 +1,61 @@
+prep: 10 minutes
+allergens:
+  - eggs
+  - peanuts
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - pork
+  - eggs
+  - rice
+  - onion
+  - soy-sauce
+  - lunar-new-year
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: ml
+    name: steamed rice
+    raw: 400 milliliters Steamed Rice
+  - qty: 50
+    unit: g
+    name: parma ham
+    raw: 50 grams Parma ham
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 110
+    unit: g
+    name: bean sprouts
+    raw: 110 grams fresh bean sprouts
+  - qty: 2
+    unit: tbsp
+    name: spring onions
+    raw: 2 tablespoons spring onions
+  - qty: 2
+    unit: tbsp
+    name: groundnut oil
+    raw: 2 tablespoons groundnut oil
+  - qty: 1
+    unit: tbsp
+    name: toasted sesame oil
+    raw: 1 tablespoon toasted sesame oil
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce
+    raw: 2 tablespoons light soy sauce
+  - qty: 1
+    unit: pinch
+    name: white pepper
+    raw: Pinch of ground white pepper
+  - name: sea salt
+    raw: Fine sea salt to taste

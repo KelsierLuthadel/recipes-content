@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - dessert
-  - chili
-  - tu-bav
-mentions: []
----
-
-
-
-
 # Blood Orange Sorbet
 
 ![Blood orange sorbet](resources/blood-orange-sorbet.jpg)

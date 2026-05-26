@@ -1,0 +1,64 @@
+prep: 15 minutes (plus 1 hour rest)
+cook: 0 minutes
+allergens:
+  - dairy
+  - mustard
+  - celery
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - sides
+  - onion
+  - carrot
+  - yogurt
+mentions: []
+ingredients:
+  - qty: 0.5
+    name: white cabbage
+    raw: ½ medium white cabbage
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 6
+    unit: tbsp
+    name: mayonnaise
+    raw: 6 tablespoons mayonnaise
+  - qty: 2
+    unit: tbsp
+    name: natural yogurt
+    raw: 2 tablespoons natural yogurt
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: celery salt
+    raw: ½ teaspoon celery salt
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 2
+    unit: tbsp
+    name: chives
+    raw: 2 tablespoons chopped chives
+  - qty: 1
+    name: apple
+    raw: 1 apple

@@ -1,0 +1,58 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - fish
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - garlic
+  - tomato
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: spaghetti
+    raw: 400 g spaghetti
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 6
+    name: anchovy fillets in oil
+    raw: 6 anchovy fillets in oil
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 0.5
+    unit: tsp
+    name: chilli flakes
+    raw: ½ teaspoon dried chilli flakes
+  - qty: 2
+    unit: tbsp
+    name: capers in brine
+    raw: 2 tablespoons capers in brine
+  - qty: 100
+    unit: g
+    name: pitted black olives
+    raw: 100 g pitted black olives
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tinned chopped tomatoes
+  - qty: 1
+    unit: handful
+    name: flat-leaf parsley
+    raw: A handful of flat-leaf parsley
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

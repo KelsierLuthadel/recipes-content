@@ -1,0 +1,55 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - onion
+  - tomato
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe medium tomatoes
+  - qty: 2
+    name: cucumbers
+    raw: 2 cucumbers
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 16
+    name: kalamata olives
+    raw: 16 kalamata olives
+  - qty: 2
+    unit: tbsp
+    name: capers in brine
+    raw: 2 tablespoons capers in brine
+  - qty: 200
+    unit: g
+    name: feta cheese
+    raw: 200 g feta cheese
+  - qty: 6
+    unit: tbsp
+    name: virgin olive oil
+    raw: 6 tablespoons extra virgin olive oil
+  - qty: 1.5
+    unit: tbsp
+    name: red-wine vinegar
+    raw: 1 ½ tablespoons red-wine vinegar
+  - qty: 1
+    unit: tbsp
+    name: greek oregano
+    raw: 1 tablespoon dried Greek oregano
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

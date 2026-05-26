@@ -1,30 +1,3 @@
----
-prep: 30 minutes
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - fish
-  - shellfish
-  - mustard
-tags:
-  - meals
-  - meat
-  - fish
-  - prawn
-  - salmon
-  - potato
-  - butter
-  - cheese
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Fish Pie
 
 ![Fish Pie](resources/fish-pie.jpg)

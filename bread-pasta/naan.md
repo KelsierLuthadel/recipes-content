@@ -1,23 +1,3 @@
----
-prep: 10 minutes
-cook: 9 minutes
-allergens:
-  - gluten
-  - dairy
-  - sesame
-tags:
-  - vegetarian
-  - quick
-  - yogurt
-mentions:
-  - cuisine/indian/Breads/rotis
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
----
-
-
-
-
 # Naan Bread
 
 ![Naan](resources/naan.jpg)

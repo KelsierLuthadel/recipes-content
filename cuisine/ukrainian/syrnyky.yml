@@ -1,0 +1,62 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - eggs
+  - lemon
+  - butter
+  - cheese
+  - honey
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 500
+    unit: g
+    name: dry cottage cheese
+    raw: 500 g dry cottage cheese
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 5
+    unit: tbsp
+    name: plain flour
+    raw: 5 tablespoons plain flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 50
+    unit: g
+    name: raisins
+    raw: 50 g raisins
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 200
+    unit: g
+    name: soured cream
+    raw: 200 g soured cream
+  - name: cherry jam
+    raw: Cherry jam, raspberry jam, or honey

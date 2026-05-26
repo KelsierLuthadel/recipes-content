@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - dessert
-  - cream
-  - cheese
-  - nuts
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Mascarpone with Dates and Candied Peel
 
 ![Mascarpone with dates and candied peel](resources/mascarpone-with-dates.jpg)

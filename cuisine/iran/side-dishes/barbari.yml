@@ -1,0 +1,59 @@
+prep: 20 minutes (plus 2 hours rising)
+cook: 20 minutes (with a hot stone)
+allergens:
+  - gluten
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - sides
+  - complex
+mentions:
+  - tutorials/bread/hydration
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: white bread flour
+    raw: 500 g strong white bread flour
+  - qty: 1
+    name: fast-action yeast
+    raw: 1 sachet fast-action yeast
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 375
+    unit: ml
+    name: water
+    raw: 375 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml cold water
+  - qty: 0.5
+    unit: tsp
+    name: baking soda
+    raw: ½ teaspoon baking soda
+  - qty: 1
+    unit: tbsp
+    name: sesame seeds
+    raw: 1 tablespoon sesame seeds
+  - qty: 1
+    unit: tbsp
+    name: nigella seeds
+    raw: 1 tablespoon nigella seeds

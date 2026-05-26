@@ -1,0 +1,90 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: rapeseed oil or seasoned oil
+    raw: 4 tbsp rapeseed oil or seasoned oil
+  - qty: 1
+    name: onion
+    raw: 1 onion, thinly sliced
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper, deseeded and thinly sliced
+  - qty: 3
+    name: green bird’s eye chillies
+    raw: 3 green bird’s eye chillies, roughly chopped
+  - qty: 2
+    unit: tbsp
+    name: coriander stalks
+    raw: 2 tbsp finely chopped coriander stalks
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp garlic and ginger paste
+  - qty: 6
+    unit: tbsp
+    name: tomato puree
+    raw: 6 tbsp tomato purée
+  - qty: 2
+    unit: tbsp
+    name: mixed powder
+    raw: 2 tbsp Mixed Powder
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 tsp chilli powder
+  - qty: 500
+    unit: ml
+    name: curry base gravy
+    raw: 500 ml Curry Base Gravy
+  - qty: 800
+    unit: g
+    name: pre-cooked chicken
+    raw: 800 g Pre-Cooked Chicken
+  - qty: 125
+    unit: ml
+    name: chicken stock
+    raw: 125 ml Chicken stock
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes, quartered
+  - qty: 1
+    unit: tsp
+    name: fenugreek leaves
+    raw: 1 tsp dried fenugreek leaves
+  - name: salt
+    raw: Salt, to taste
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp Garam Masala
+  - qty: 2
+    unit: tbsp
+    name: coriander leaves
+    raw: 2 tbsp chopped coriander leaves
+  - qty: 2
+    name: green finger chillies
+    raw: 2 green finger chillies, halved lengthwise

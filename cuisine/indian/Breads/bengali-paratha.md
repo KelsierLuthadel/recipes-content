@@ -1,22 +1,3 @@
----
-prep: 15 minutes (plus 20 minutes rest)
-cook: 10 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - spicy
-  - asian
-  - chili
-mentions:
-  - cuisine/indian/lamb-karahi
-  - tutorials/pizza/dough
----
-
-
-
-
 # Bengali Paratha
 
 ![Bengali Paratha](resources/bengali-paratha.jpg)

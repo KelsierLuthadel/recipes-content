@@ -1,28 +1,3 @@
----
-prep: 20 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - mustard
-tags:
-  - vegetarian
-  - spicy
-  - make-ahead
-  - sides
-  - butter
-  - cheese
-  - chili
-  - complex
-mentions:
-  - sauces/sauce-savory/cheese-sauce
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mac and Cheese
 
 ![Mac and Cheese](resources/mac-and-cheese.jpg)

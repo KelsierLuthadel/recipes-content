@@ -1,19 +1,3 @@
----
-allergens:
-  - fish
-tags:
-  - dairy-free
-  - gluten-free
-  - fish
-mentions:
-  - cuisine/south-american/ceviche
-  - tutorials/fish/en-papillote
-  - tutorials/fish/whole-fish
-  - tutorials/stocks-sauces/stocks
----
-
-
-
 # Fish Course
 
 ![Fish](resources/fish.jpg)

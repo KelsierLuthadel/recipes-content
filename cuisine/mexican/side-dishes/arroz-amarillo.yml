@@ -1,0 +1,66 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - sides
+  - meat
+  - rice
+  - onion
+  - garlic
+  - carrot
+  - coriander
+mentions:
+  - cuisine/mexican/pollo-asado
+  - cuisine/mexican/side-dishes/mexican-rice
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 2
+    unit: tsp
+    name: annatto seeds
+    raw: 2 teaspoons annatto seeds
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 300
+    unit: g
+    name: long-grain white rice
+    raw: 300 g long-grain white rice
+  - qty: 500
+    unit: ml
+    name: chicken stock
+    raw: 500 ml chicken stock
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 80
+    unit: g
+    name: sweetcorn kernels
+    raw: 80 g sweetcorn kernels
+  - qty: 80
+    unit: g
+    name: peas
+    raw: 80 g peas
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of coriander

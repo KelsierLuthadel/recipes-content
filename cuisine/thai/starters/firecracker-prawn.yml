@@ -1,0 +1,62 @@
+prep: 20 minutes
+cook: 10 minutes
+allergens:
+  - eggs
+  - soy
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - starter
+  - asian
+  - fish
+  - prawn
+  - eggs
+  - garlic
+  - lemon
+  - honey
+  - chili
+  - soy-sauce
+mentions:
+  - base-ingredients/sambal/nam-prik-pao
+  - cuisine/thai/side-dishes/nam-prik-pao
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 20
+    name: prawns
+    raw: 20 raw prawns , peeled and deveined but tails left on
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove, finely minced
+  - qty: 1
+    unit: tsp
+    name: soy sauce
+    raw: 1 tsp soy sauce
+  - qty: 1
+    unit: tsp
+    name: honey
+    raw: 1 tsp honey
+  - qty: 1
+    unit: tbsp
+    name: homemade chilli jam
+    raw: 1 tbsp homemade chilli jam
+  - qty: 1
+    unit: tsp
+    name: roasted chilli flakes
+    raw: 1 tsp roasted chilli flakes
+  - qty: 0.5
+    unit: tsp
+    name: lemon juice
+    raw: ½ tsp lemon juice
+  - qty: 10
+    name: egg roll wrappers
+    raw: 10 egg roll wrappers
+  - qty: 1
+    unit: tsp
+    name: cornflour
+    raw: 1 tsp cornflour
+  - name: rapeseed oil
+    raw: Rapeseed oil, for deep-frying or shallow-frying

@@ -1,21 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - dessert
-  - make-ahead
-  - cream
-  - honey
-mentions: []
----
-
-
-
-
 # Fig and Honey Panna Cotta
 
 ![Fig and Honey Panna Cotta](resources/fig-honey-panna-cotta.jpg)

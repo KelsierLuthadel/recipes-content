@@ -1,20 +1,3 @@
----
-prep: 5 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - quick
-  - sides
-  - cream
-mentions: []
----
-
-
-
-
 # Thin Blue Corn Cakes
 
 ![Thin Blue Corn Cakes](resources/thin-blue-corn-cakes.jpg)

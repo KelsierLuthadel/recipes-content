@@ -1,24 +1,3 @@
----
-prep: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - quick
-  - dessert
-  - make-ahead
-  - meat
-  - eggs
-  - lemon
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Mini Mince Pies
 
 ![Mini mince pies](resources/mince-pies.jpg)

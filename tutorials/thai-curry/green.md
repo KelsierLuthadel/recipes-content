@@ -1,19 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - curry
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/thai-curry/coconut-milk
----
-
-
-
 # Green Curry Paste
 
 ![Green curry paste](resources/green.jpg)

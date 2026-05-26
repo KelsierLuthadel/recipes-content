@@ -1,26 +1,3 @@
----
-prep: 20 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - fish
-tags:
-  - meals
-  - fish
-  - salmon
-  - eggs
-  - onion
-  - potato
-mentions:
-  - sauces/fruit-sauce/apple-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Latkes
 
 ![Latkes](resources/latkes.jpg)

@@ -1,27 +1,3 @@
----
-prep: 20 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - eggs
-  - soy
-  - meat
-tags:
-  - dairy-free
-  - meals
-  - meat
-  - chicken
-  - eggs
-  - rice
-  - lemon
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Katsu
 
 ![Chicken Katsu](resources/chicken-katsu.jpg)

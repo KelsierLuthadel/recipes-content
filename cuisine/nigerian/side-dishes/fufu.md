@@ -1,21 +1,3 @@
----
-prep: 2 minutes
-cook: 12 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - quick
-  - sides
-mentions:
-  - cuisine/nigerian/pepper-soup
----
-
-
-
-
 # Fufu
 
 ![Fufu](resources/fufu.jpg)

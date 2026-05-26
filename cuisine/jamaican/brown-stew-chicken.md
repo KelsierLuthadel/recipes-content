@@ -1,32 +1,3 @@
----
-prep: 30 minutes (plus 2 hours marinating, ideally overnight)
-cook: 2 hours
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - carrot
-  - chili
-  - complex
-  - kwanzaa
-mentions:
-  - cuisine/jamaican/side-dishes/rice-and-peas
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Brown Stew Chicken
 
 ![Brown Stew Chicken](resources/brown-stew-chicken.jpg)

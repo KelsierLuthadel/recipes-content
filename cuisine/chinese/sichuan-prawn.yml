@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 5 minutes
+allergens:
+  - peanuts
+  - sesame
+  - shellfish
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - fish
+  - prawn
+  - onion
+  - ginger
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 225
+    unit: g
+    name: prawns
+    raw: 225 grams prawns
+  - qty: 2
+    unit: tsp
+    name: groundnut oil
+    raw: 2 teaspoons groundnut oil
+  - qty: 2
+    unit: tsp
+    name: ginger
+    raw: 2 teaspoons fresh ginger
+  - qty: 1
+    unit: tbsp
+    name: spring onions
+    raw: 1 tablespoon spring onions
+  - qty: 2
+    unit: tsp
+    name: tomato puree
+    raw: 2 teaspoons tomato purée
+  - qty: 0.5
+    unit: tsp
+    name: chilli powder
+    raw: ½ teaspoon chilli powder
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: sugar
+    raw: ½ teaspoon sugar
+  - qty: 0.25
+    unit: tsp
+    name: sesame oil
+    raw: ¼ teaspoon sesame oil

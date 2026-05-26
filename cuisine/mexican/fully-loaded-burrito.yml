@@ -1,0 +1,52 @@
+prep: 5 minutes
+cook: 5 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - beef
+  - pork
+  - rice
+  - tomato
+  - cream
+  - cheese
+mentions:
+  - cuisine/mexican/side-dishes/mexican-rice
+  - cuisine/mexican/side-dishes/refried-beans
+  - cuisine/mexican/side-dishes/spiced-rice
+  - cuisine/mexican/snacks/guacamole
+  - tutorials/pizza/cheese
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 1
+    name: extra-large flour tortilla
+    raw: 1 extra-large flour tortilla
+  - qty: 1.5
+    unit: tbsp
+    name: refried pinto beans
+    raw: 1-2 tablespoons refried pinto beans
+  - qty: 1
+    name: pork
+    raw: 1 portion cooked pork, beef, chicken, or additional beans as desired
+  - qty: 1
+    name: spiced rice
+    raw: 1 portion Spiced Rice
+  - qty: 1
+    name: tomato salsa
+    raw: 1 portion fresh tomato salsa
+  - qty: 1
+    unit: handful
+    name: cheese
+    raw: 1 handful grated cheese
+  - qty: 1
+    unit: tbsp
+    name: sour cream
+    raw: 1 tablespoon sour cream
+  - name: "optional: guacamole"
+    raw: "Optional: guacamole, jalapeños, lettuce, diced tomatoes"

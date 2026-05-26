@@ -1,0 +1,68 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - fish
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - pork
+  - rice
+  - onion
+  - tomato
+  - spinach
+  - lime
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: pork spare ribs or pork belly chunks
+    raw: 1 kg pork spare ribs or pork belly chunks
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1 ½ litres water
+  - qty: 4
+    unit: tbsp
+    name: tamarind paste
+    raw: 4 tablespoons tamarind paste
+  - qty: 2
+    unit: tbsp
+    name: fish sauce
+    raw: 2 tablespoons fish sauce
+  - qty: 1
+    name: daikon radish
+    raw: 1 daikon radish
+  - qty: 1
+    name: taro root
+    raw: 1 taro root
+  - qty: 200
+    unit: g
+    name: green beans
+    raw: 200 g green beans
+  - qty: 200
+    unit: g
+    name: okra
+    raw: 200 g okra
+  - qty: 1
+    name: long green chilli
+    raw: 1 long green chilli
+  - qty: 1
+    name: spinach
+    raw: 1 bunch spinach
+  - name: white rice
+    raw: Cooked white rice, to serve
+  - name: lime
+    raw: Lime , to serve

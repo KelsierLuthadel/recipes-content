@@ -1,0 +1,124 @@
+prep: 20 minutes
+cook: 90 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - coriander
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - cuisine/bengali/kosha-mangsho
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: goat or mutton
+    raw: 1 kg goat or mutton
+  - qty: 100
+    unit: g
+    name: plain yoghurt
+    raw: 100 g plain yoghurt
+  - qty: 1
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 1 tablespoon garlic and ginger paste
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 3
+    name: potatoes
+    raw: 3 medium potatoes
+  - qty: 5
+    unit: tbsp
+    name: mustard oil
+    raw: 5 tablespoons mustard oil
+  - qty: 3
+    name: indian bay leaves
+    raw: 3 Indian bay leaves
+  - qty: 5
+    name: cinnamon
+    raw: 5 cm piece cinnamon
+  - qty: 5
+    name: green cardamom pods
+    raw: 5 green cardamom pods
+  - qty: 5
+    name: cloves
+    raw: 5 cloves
+  - qty: 1
+    name: red chilli
+    raw: 1 dried red chilli
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 1
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 1 tablespoon garlic and ginger paste
+  - qty: 1
+    name: tomato
+    raw: 1 tomato
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon turmeric
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 ½ teaspoons Kashmiri chilli powder
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - name: salt
+    raw: Salt
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 teaspoon Garam Masala
+  - qty: 1
+    unit: tsp
+    name: ghee
+    raw: 1 teaspoon ghee
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of fresh coriander

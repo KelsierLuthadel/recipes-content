@@ -1,0 +1,39 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - onion
+  - potato
+  - butter
+  - st-patricks
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 6
+    name: spring onions
+    raw: 6 spring onions
+  - qty: 300
+    unit: g
+    name: savoy cabbage
+    raw: 300 g savoy cabbage
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: nutmeg
+    raw: A grating of nutmeg

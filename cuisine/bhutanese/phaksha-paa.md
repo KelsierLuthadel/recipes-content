@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour
-allergens:
-  - soy
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - chili
-  - soy-sauce
-mentions:
-  - cuisine/bhutanese/ema-datshi
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Phaksha Paa
 
 ![Phaksha Paa](resources/phaksha-paa.jpg)

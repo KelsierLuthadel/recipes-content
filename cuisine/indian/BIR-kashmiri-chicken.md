@@ -1,38 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-  - tree-nuts
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - coriander
-  - yogurt
-  - nuts
-  - curry
-  - complex
-mentions:
-  - cuisine/indian/sauces-pickles/mango-chutney
-  - cuisine/indian/side-dishes/tandoori-chicken-tikka
-  - sauces/fruit-sauce/mango-chutney
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Kashmiri Chicken
 
 ![Kashmiri chicken](resources/BIR-kashmiri-chicken.jpg)

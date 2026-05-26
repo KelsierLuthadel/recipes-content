@@ -1,0 +1,89 @@
+prep: 25 minutes
+cook: 2 hours
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - garlic
+  - tomato
+  - potato
+  - carrot
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: beef shin or short rib
+    raw: 1 kg beef shin or short rib
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    name: celery stick
+    raw: 1 celery stick
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: black peppercorns
+    raw: 1 tablespoon black peppercorns
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 4
+    name: beetroots
+    raw: 4 beetroots
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 0.25
+    name: white cabbage
+    raw: ¼ small white cabbage
+  - qty: 3
+    name: potatoes
+    raw: 3 potatoes
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tinned chopped tomatoes
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 2
+    unit: tbsp
+    name: red wine vinegar
+    raw: 2 tablespoons red wine vinegar
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 200
+    unit: g
+    name: soured cream
+    raw: 200 g soured cream
+  - qty: 1
+    name: dill
+    raw: A small bunch of dill
+  - name: rye bread
+    raw: Rye bread

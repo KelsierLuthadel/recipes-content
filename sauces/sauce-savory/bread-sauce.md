@@ -1,21 +1,3 @@
----
-prep: 5 minutes
-cook: 55 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - onion
-  - butter
-  - cream
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Bread Sauce
 
 ![Bread sauce](resources/bread-sauce.jpg)

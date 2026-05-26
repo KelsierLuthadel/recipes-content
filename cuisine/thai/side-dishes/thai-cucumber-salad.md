@@ -1,30 +1,3 @@
----
-prep: 10 minutes
-cook: 0 minutes
-allergens:
-  - soy
-  - sesame
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - sides
-  - asian
-  - ginger
-  - lime
-  - coriander
-  - chili
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Thai Cucumber Salad
 
 ![Thai cucumber salad](resources/thai-cucumber-salad.jpg)

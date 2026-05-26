@@ -1,0 +1,39 @@
+prep: 15 minutes (plus 2 hours chilling)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - butter
+  - chocolate
+  - complex
+mentions: []
+ingredients:
+  - qty: 375
+    unit: g
+    name: digestive biscuits
+    raw: 375 g digestive biscuits
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 110
+    unit: g
+    name: golden syrup
+    raw: 110 g golden syrup
+  - qty: 40
+    unit: g
+    name: cocoa powder
+    raw: 40 g cocoa powder
+  - qty: 40
+    unit: g
+    name: caster sugar
+    raw: 40 g caster sugar
+  - qty: 180
+    unit: g
+    name: raisins
+    raw: 180 g raisins
+  - qty: 300
+    unit: g
+    name: milk chocolate
+    raw: 300 g milk chocolate

@@ -1,0 +1,34 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - butter
+  - cream
+  - chocolate
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: dark chocolate
+    raw: 200 grams dark chocolate
+  - qty: 175
+    unit: ml
+    name: milk
+    raw: 175 ml milk
+  - qty: 2
+    unit: tbsp
+    name: double cream
+    raw: 2 tablespoons double cream
+  - qty: 30
+    unit: g
+    name: sugar
+    raw: 30 grams sugar
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 grams butter

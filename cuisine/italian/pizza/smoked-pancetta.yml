@@ -1,0 +1,71 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - lemon
+  - cream
+  - cheese
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 125
+    unit: g
+    name: creme fraiche
+    raw: 125 grams full-fat crème fraîche
+  - qty: 30
+    unit: g
+    name: parmesan cheese
+    raw: 30 grams parmesan cheese
+  - name: zest and juice of 1 lemon
+    raw: Grated zest and juice of 1 lemon
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: Pinch of freshly ground nutmeg
+  - name: black pepper
+    raw: Black pepper
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 grams plain flour
+  - qty: 0.5
+    unit: tsp
+    name: baking powder
+    raw: ½ teaspoon baking powder
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: neutral oil
+    raw: 2 tablespoons neutral oil
+  - qty: 120
+    unit: ml
+    name: water
+    raw: 120 ml warm water
+  - qty: 1
+    name: salad onions
+    raw: 1 bunch salad onions
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 8
+    name: to 9 slices smoked pancetta
+    raw: 8 to 9 slices smoked pancetta
+  - name: chilli flakes
+    raw: Chilli flakes
+  - name: salad of choice
+    raw: Salad of choice

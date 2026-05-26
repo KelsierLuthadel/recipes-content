@@ -1,0 +1,81 @@
+prep: 15 minutes (plus 12 hours soaking)
+cook: 2 hours 30 minutes
+allergens:
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: red beans
+    raw: 500 g dried small red beans
+  - qty: 1
+    name: smoked ham hock
+    raw: 1 smoked ham hock
+  - qty: 300
+    unit: g
+    name: andouille sausage
+    raw: 300 g andouille sausage
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    unit: stick
+    name: celery
+    raw: 3 sticks celery
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 3
+    name: bay leaves
+    raw: 3 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon dried thyme
+  - qty: 1
+    unit: tsp
+    name: creole seasoning
+    raw: 1 teaspoon Creole seasoning
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 2.5
+    unit: l
+    name: stock
+    raw: 2 ½ litres hot stock
+  - qty: 2
+    unit: tbsp
+    name: hot pepper sauce
+    raw: 2 tablespoons hot pepper sauce
+  - qty: 6
+    name: white rice
+    raw: 6 servings cooked white rice
+  - name: spring onions
+    raw: Chopped spring onions

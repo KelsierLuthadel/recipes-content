@@ -1,0 +1,97 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: rapeseed oil
+    raw: 3 tbsp rapeseed oil
+  - qty: 2.5
+    name: cinnamon stick
+    raw: 2 ½ cm piece cinnamon stick
+  - qty: 9
+    name: cardamom seeds
+    raw: 9 Cardamom seeds
+  - qty: 2
+    name: star anise
+    raw: 2 star anise
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds
+  - qty: 2
+    name: onions
+    raw: 2 onions, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp garlic and ginger paste
+  - qty: 125
+    unit: ml
+    name: tomato puree or plain passata
+    raw: 125 ml tomato purée or plain passata
+  - qty: 2
+    unit: tbsp
+    name: mixed powder
+    raw: 2 tbsp Mixed Powder
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 tsp ground cumin
+  - qty: 2
+    unit: tsp
+    name: coriander
+    raw: 2 tsp ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 1.5
+    unit: tbsp
+    name: paprika
+    raw: 1-2 tbsp paprika
+  - qty: 0.5
+    unit: tsp
+    name: garam masala
+    raw: ½ tsp Garam Masala
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes , diced
+  - qty: 900
+    unit: g
+    name: chicken
+    raw: 900 g chicken
+  - qty: 1
+    unit: pinch
+    name: fenugreek leaves
+    raw: Pinch dried fenugreek leaves
+  - name: salt
+    raw: Salt, to taste
+  - qty: 3
+    unit: tbsp
+    name: ghee
+    raw: 3 tbsp melted ghee
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tbsp finely chopped coriander , to garnish

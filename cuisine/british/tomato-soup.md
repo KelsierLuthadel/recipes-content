@@ -1,27 +1,3 @@
----
-prep: 20 minutes
-cook: 45 minutes
-allergens:
-  - dairy
-  - meat
-  - celery
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - pork
-  - onion
-  - garlic
-  - tomato
-  - carrot
-  - butter
-mentions: []
----
-
-
-
-
 # Tomato Soup
 
 ![Tomato Soup](resources/tomato-soup.jpg)

@@ -1,28 +1,3 @@
----
-prep: 10 minutes
-cook: 25 minutes
-allergens:
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - sides
-  - garlic
-  - lemon
-  - passover
-  - rosh-hashanah
-  - shavuot
-  - tu-bav
-  - jewish
-mentions: []
----
-
-
-
-
 # Baba Ganoush
 
 ![Baba Ganoush](resources/baba-ganoush.jpg)

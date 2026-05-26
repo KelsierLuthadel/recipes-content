@@ -1,0 +1,78 @@
+prep: 20 minutes
+cook: 1 hour 10 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - complex
+mentions: []
+ingredients:
+  - qty: 800
+    unit: g
+    name: lamb mince
+    raw: 800 g lamb mince
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 30
+    unit: g
+    name: breadcrumbs
+    raw: 30 g fine breadcrumbs
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 6
+    name: pita breads
+    raw: 6 pita breads
+  - name: tzatziki
+    raw: Tzatziki
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1
+    unit: small handful
+    name: oregano
+    raw: A small handful of fresh oregano
+  - name: "optional: 200 g hot chips"
+    raw: "Optional: 200 g hot chips"

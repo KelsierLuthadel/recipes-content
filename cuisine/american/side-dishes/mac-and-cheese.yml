@@ -1,0 +1,84 @@
+prep: 20 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - mustard
+tags:
+  - vegetarian
+  - spicy
+  - make-ahead
+  - sides
+  - butter
+  - cheese
+  - chili
+  - complex
+mentions:
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: elbow macaroni
+    raw: 400 g elbow macaroni
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 60
+    unit: g
+    name: plain flour
+    raw: 60 g plain flour
+  - qty: 800
+    unit: ml
+    name: milk
+    raw: 800 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: english mustard powder
+    raw: 1 teaspoon English mustard powder
+  - qty: 0.5
+    unit: tsp
+    name: smoked paprika
+    raw: ½ teaspoon smoked paprika
+  - qty: 0.25
+    unit: tsp
+    name: cayenne
+    raw: ¼ teaspoon cayenne
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 350
+    unit: g
+    name: cheddar cheese
+    raw: 350 g mature cheddar cheese
+  - qty: 100
+    unit: g
+    name: gruyere cheese
+    raw: 100 g Gruyère cheese
+  - qty: 50
+    unit: g
+    name: parmesan cheese
+    raw: 50 g Parmesan cheese
+  - qty: 50
+    unit: g
+    name: panko breadcrumbs
+    raw: 50 g panko breadcrumbs
+  - qty: 25
+    unit: g
+    name: unsalted butter
+    raw: 25 g unsalted butter
+  - qty: 30
+    unit: g
+    name: parmesan cheese
+    raw: 30 g Parmesan cheese

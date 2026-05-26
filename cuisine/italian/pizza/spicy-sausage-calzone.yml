@@ -1,0 +1,72 @@
+prep: 30 minutes
+cook: 50 minutes (sauce) + 30 minutes (bake from frozen)
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/italian/pizza/calzone
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: ciabatta bread mix
+    raw: 500 grams ciabatta bread mix
+  - name: plain flour
+    raw: Plain flour
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 180
+    unit: g
+    name: chorizo
+    raw: 180 grams chorizo
+  - qty: 1
+    unit: pinch
+    name: chilli flakes
+    raw: Pinch of chilli flakes
+  - qty: 1
+    unit: pinch
+    name: paprika
+    raw: Pinch of paprika
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 gram tin chopped tomatoes
+  - qty: 200
+    unit: ml
+    name: passata
+    raw: 200 ml passata
+  - qty: 1
+    name: basil
+    raw: Bunch of basil
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 250
+    unit: g
+    name: mozzarella block
+    raw: 250 grams mozzarella block

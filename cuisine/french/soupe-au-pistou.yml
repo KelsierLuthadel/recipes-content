@@ -1,0 +1,87 @@
+prep: 20 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - carrot
+  - cheese
+  - complex
+mentions:
+  - cuisine/british/vegetable-soup
+  - cuisine/italian/pesto
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: leeks
+    raw: 2 leeks
+  - qty: 3
+    name: carrots
+    raw: 3 carrots
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    name: tomatoes or 1 x 400 g tin chopped
+    raw: 4 tomatoes or 1 x 400 g tin chopped
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1.5
+    unit: l
+    name: vegetable stock
+    raw: 1 ½ litres vegetable stock
+  - qty: 400
+    unit: g
+    name: cannellini beans
+    raw: 400 g tin cannellini beans
+  - qty: 400
+    unit: g
+    name: red kidney beans
+    raw: 400 g tin red kidney beans
+  - qty: 200
+    unit: g
+    name: green beans
+    raw: 200 g green beans
+  - qty: 2
+    name: courgettes
+    raw: 2 courgettes
+  - qty: 100
+    unit: g
+    name: pasta
+    raw: 100 g small pasta
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    name: basil
+    raw: 1 large bunch basil
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 50
+    unit: g
+    name: parmesan cheese
+    raw: 50 g parmesan cheese
+  - qty: 5
+    unit: tbsp
+    name: olive oil
+    raw: 5 tablespoons olive oil
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt

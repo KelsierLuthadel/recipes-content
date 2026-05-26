@@ -1,0 +1,54 @@
+prep: 15 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - quick
+  - meals
+  - fish
+  - onion
+  - garlic
+  - lemon
+  - butter
+  - cream
+  - valentines
+  - tu-bav
+mentions: []
+ingredients:
+  - qty: 2
+    unit: kg
+    name: mussels
+    raw: 2 kg fresh mussels
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 4
+    name: banana shallots
+    raw: 4 banana shallots
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 300
+    unit: ml
+    name: dry white wine
+    raw: 300 ml dry white wine
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - name: crusty bread
+    raw: Crusty bread, to serve

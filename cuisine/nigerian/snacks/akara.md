@@ -1,23 +1,3 @@
----
-prep: 25 minutes (plus 30 min bean-soaking)
-cook: 15 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - snack
-  - onion
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Akara
 
 ![Akara](resources/akara.jpg)

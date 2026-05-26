@@ -1,35 +1,3 @@
----
-prep: 25 minutes
-cook: 17 minutes
-allergens:
-  - gluten
-  - dairy
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - spicy
-  - one-pan
-  - meals
-  - meat
-  - fish
-  - pork
-  - prawn
-  - onion
-  - garlic
-  - tomato
-  - cream
-  - cheese
-  - complex
-mentions:
-  - base-ingredients/spices/creole-mix
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Jambalaya
 
 ![Jambalaya](resources/jambalaya.jpg)

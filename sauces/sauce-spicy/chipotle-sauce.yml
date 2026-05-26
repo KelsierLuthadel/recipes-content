@@ -1,0 +1,48 @@
+prep: 20 minutes
+cook: 75 minutes
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - spicy
+  - garlic
+  - tomato
+  - honey
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: tomatoes
+    raw: 500 grams tomatoes
+  - qty: 5
+    name: chipotle chillies
+    raw: 5 chipotle chillies
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 150
+    unit: ml
+    name: red wine
+    raw: 150 ml red wine
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 4
+    unit: tbsp
+    name: clear honey
+    raw: 4 tablespoons clear honey
+  - qty: 1
+    unit: tsp
+    name: american mustard
+    raw: 1 teaspoon American mustard
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon freshly ground black pepper

@@ -1,0 +1,49 @@
+prep: 5 minutes (plus 12-24 hours straining)
+cook: 0 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - tomato
+  - yogurt
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 1
+    unit: kg
+    name: natural yogurt
+    raw: 1 kg full-fat natural yogurt
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 1
+    unit: tbsp
+    name: za'atar
+    raw: 1 tablespoon za'atar
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 1
+    unit: tsp
+    name: sumac
+    raw: 1 teaspoon sumac
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tablespoon fresh mint
+  - name: warm pita
+    raw: Warm pita
+  - name: black olives
+    raw: A dish of black olives
+  - name: cucumber
+    raw: Sliced cucumber, tomato, radish

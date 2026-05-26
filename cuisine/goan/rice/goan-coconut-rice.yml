@@ -1,0 +1,76 @@
+prep: 10 minutes (plus 30 minutes soak)
+cook: 25 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - meals
+  - rice
+  - onion
+  - garlic
+  - coconut
+  - coriander
+  - nuts
+  - chili
+  - curry
+mentions:
+  - cuisine/goan/goan-fish-curry
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/thai/side-dishes/coconut-rice
+ingredients:
+  - qty: 300
+    unit: g
+    name: basmati rice
+    raw: 300 g aged basmati rice
+  - qty: 2
+    unit: tbsp
+    name: coconut oil
+    raw: 2 tablespoons coconut oil
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 300
+    unit: ml
+    name: coconut milk
+    raw: 300 ml coconut milk
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of fresh coriander
+  - qty: 30
+    unit: g
+    name: cashews
+    raw: 30 g cashews
+  - qty: 15
+    name: curry leaves
+    raw: 15 fresh curry leaves

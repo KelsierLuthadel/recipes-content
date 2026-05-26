@@ -1,34 +1,3 @@
----
-prep: 15 minutes
-cook: 12 minutes
-allergens:
-  - gluten
-  - eggs
-  - soy
-  - sesame
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - quick
-  - meals
-  - asian
-  - meat
-  - eggs
-  - mushroom
-  - onion
-  - garlic
-  - ginger
-  - soy-sauce
-  - lunar-new-year
-mentions:
-  - cuisine/chinese/char-siu
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Longevity Noodles
 
 ![Longevity Noodles](resources/longevity-noodles.jpg)

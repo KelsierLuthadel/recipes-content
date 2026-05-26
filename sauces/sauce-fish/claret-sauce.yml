@@ -1,0 +1,52 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - fish
+  - meat
+tags:
+  - gluten-free
+  - meat
+  - fish
+  - mushroom
+  - onion
+  - butter
+  - cream
+mentions:
+  - tutorials/stocks-sauces/stocks
+ingredients:
+  - qty: 300
+    unit: ml
+    name: full bodied red wine
+    raw: 300 ml full bodied red wine
+  - qty: 200
+    unit: ml
+    name: veal stock
+    raw: 200 ml Veal stock
+  - qty: 300
+    unit: ml
+    name: fish stock
+    raw: 300 ml Fish stock
+  - qty: 50
+    unit: g
+    name: shallots
+    raw: 50 grams shallots
+  - qty: 60
+    unit: g
+    name: button mushrooms
+    raw: 60 grams button mushrooms
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - qty: 50
+    unit: ml
+    name: double cream
+    raw: 50 ml double cream
+  - qty: 200
+    unit: g
+    name: butter
+    raw: 200 grams butter
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

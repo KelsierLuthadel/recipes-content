@@ -1,0 +1,98 @@
+prep: 10 minutes
+cook: 1 hour
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - cuisine/pakistani/chicken-karahi
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: rapeseed oil
+    raw: 1 tbsp rapeseed oil
+  - qty: 100
+    unit: g
+    name: greek yoghurt
+    raw: 100 g Greek yoghurt
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp garlic and ginger paste
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: black pepper
+    raw: 1 tbsp freshly ground black pepper
+  - qty: 800
+    unit: g
+    name: pre-cooked chicken
+    raw: 800 g Pre-Cooked Chicken
+  - qty: 125
+    unit: ml
+    name: chicken stock
+    raw: 125 ml Chicken stock
+  - qty: 4
+    unit: tbsp
+    name: rapeseed oil
+    raw: 4 tbsp rapeseed oil
+  - qty: 2
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 2 tbsp garlic and ginger paste
+  - qty: 1
+    name: fried onions
+    raw: 1 quantity fried onions
+  - qty: 1
+    unit: tbsp
+    name: pungent dried red chilli flakes
+    raw: 1 tbsp pungent dried red chilli flakes
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes , diced
+  - qty: 1.5
+    unit: tbsp
+    name: cumin
+    raw: 1 ½ tbsp ground cumin
+  - qty: 1.5
+    unit: tbsp
+    name: coriander
+    raw: 1 ½ tbsp ground coriander
+  - qty: 1
+    unit: tbsp
+    name: kashmiri chilli powder
+    raw: 1 tbsp Kashmiri chilli powder
+  - name: salt
+    raw: Salt, to taste
+  - qty: 7.5
+    name: ginger
+    raw: 7 ½ cm piece ginger, peeled and julienned
+  - qty: 2
+    name: green bullet chillies
+    raw: 2 fresh green bullet chillies, roughly chopped
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp Garam Masala
+  - name: coriander
+    raw: Coriander , to serve

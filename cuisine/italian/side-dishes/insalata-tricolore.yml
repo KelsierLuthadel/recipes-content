@@ -1,0 +1,47 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - sides
+  - meat
+  - beef
+  - tomato
+  - cheese
+mentions: []
+ingredients:
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe medium tomatoes
+  - qty: 250
+    unit: g
+    name: mozzarella di bufala
+    raw: 250 g mozzarella di bufala
+  - qty: 1
+    name: basil
+    raw: 1 large bunch fresh basil
+  - qty: 4
+    unit: tbsp
+    name: first-cold-press extra-virgin olive oil
+    raw: 4 tablespoons first-cold-press extra-virgin olive oil
+  - qty: 1
+    unit: tsp
+    name: flaky sea salt
+    raw: 1 teaspoon flaky sea salt
+  - qty: 0.5
+    unit: tsp
+    name: cracked black pepper
+    raw: ½ teaspoon coarsely cracked black pepper
+  - name: crusty bread
+    raw: Crusty bread to serve
+  - qty: 0.5
+    unit: tsp
+    name: oregano
+    raw: ½ teaspoon dried oregano
+  - qty: 1
+    unit: tbsp
+    name: balsamic vinegar
+    raw: 1 tablespoon aged balsamic vinegar

@@ -1,28 +1,3 @@
----
-prep: 10 minutes
-cook: 4 minutes
-allergens:
-  - peanuts
-  - soy
-  - sesame
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - asian
-  - onion
-  - soy-sauce
-mentions:
-  - cuisine/chinese/lemon-chicken
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Stir Fried Mange Tout with Waterchestnuts
 
 ![Stir fried mange tout with waterchestnuts](resources/mange-tout.jpg)

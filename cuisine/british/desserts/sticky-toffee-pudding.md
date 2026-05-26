@@ -1,25 +1,3 @@
----
-prep: 20 minutes
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - butter
-  - cream
-  - halloween
-  - st-patricks
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sticky Toffee Pudding
 
 ![Sticky Toffee Pudding](resources/sticky-toffee-pudding.jpg)

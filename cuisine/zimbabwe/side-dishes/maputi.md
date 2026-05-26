@@ -1,20 +1,3 @@
----
-prep: 2 minutes
-cook: 10 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-mentions: []
----
-
-
-
-
 # Maputi
 
 ![Maputi](resources/maputi.jpg)

@@ -1,0 +1,80 @@
+prep: 15 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - lime
+  - butter
+  - yogurt
+  - complex
+mentions:
+  - tutorials/rice/pilaf
+ingredients:
+  - qty: 1
+    name: chicken jointed into 8 pieces
+    raw: 1 whole chicken jointed into 8 pieces
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 6
+    name: cardamom pods
+    raw: 6 cardamom pods
+  - qty: 2
+    name: black limes
+    raw: 2 dried black limes
+  - qty: 1
+    name: mastic gum tear
+    raw: 1 mastic gum tear
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 8
+    name: black peppercorns
+    raw: 8 black peppercorns
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 400
+    unit: g
+    name: short-grain rice
+    raw: 400 g short-grain rice
+  - qty: 1.2
+    unit: l
+    name: reduced chicken stock
+    raw: 1.2 litres reduced chicken stock
+  - qty: 600
+    unit: ml
+    name: milk
+    raw: 600 ml whole milk
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon coarsely ground black pepper
+  - name: yogurt
+    raw: Yogurt
+  - name: sahawiq
+    raw: Sahawiq

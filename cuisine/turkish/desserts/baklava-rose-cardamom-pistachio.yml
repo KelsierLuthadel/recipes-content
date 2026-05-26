@@ -1,0 +1,58 @@
+prep: 25 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - one-pan
+  - lemon
+  - butter
+  - honey
+  - nuts
+mentions:
+  - baking/pastry/filo-pastry
+  - cuisine/turkish/desserts/baklava
+  - tutorials/pastry/filo
+ingredients:
+  - qty: 225
+    unit: g
+    name: granulated sugar
+    raw: 225 g granulated sugar
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml water
+  - qty: 2
+    unit: tbsp
+    name: clear honey
+    raw: 2 tablespoons clear honey
+  - qty: 1
+    unit: tsp
+    name: lemon juice
+    raw: 1 teaspoon lemon juice
+  - qty: 1
+    unit: tbsp
+    name: rose essence
+    raw: 1 tablespoon rose essence
+  - qty: 200
+    unit: g
+    name: shelled pistachios
+    raw: 200 g shelled pistachios
+  - qty: 75
+    unit: g
+    name: icing sugar
+    raw: 75 g icing sugar
+  - qty: 0.5
+    unit: tbsp
+    name: cardamom
+    raw: ½ tablespoon ground cardamom
+  - qty: 6
+    name: sheets ready-rolled filo pastry
+    raw: 6 sheets ready-rolled filo pastry
+  - qty: 75
+    unit: g
+    name: unsalted butter
+    raw: 75 g unsalted butter

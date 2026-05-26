@@ -1,29 +1,3 @@
----
-prep: 20 minutes (plus overnight marinating)
-cook: 1 ½ hours
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - rice
-  - onion
-  - garlic
-  - lime
-  - chili
-  - complex
-mentions:
-  - cuisine/jamaican/side-dishes/fried-plantains
----
-
-
-
-
 # Griot
 
 ![Griot](resources/griot.jpg)

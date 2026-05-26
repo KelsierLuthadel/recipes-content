@@ -1,27 +1,3 @@
----
-prep: 25 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - one-pan
-  - lemon
-  - butter
-  - honey
-  - nuts
-mentions:
-  - baking/pastry/filo-pastry
-  - cuisine/turkish/desserts/baklava
-  - tutorials/pastry/filo
----
-
-
-
-
 # Baklava with Rose, Cardamom and Pistachio
 
 ![Baklava with Rose, Cardamom and Pistachio](resources/baklava-rose-cardamom-pistachio.jpg)

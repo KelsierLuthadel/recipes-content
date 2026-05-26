@@ -1,0 +1,64 @@
+prep: 30 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - butter
+  - cheese
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/pastry/filo
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 250
+    unit: g
+    name: feta cheese
+    raw: 250 g feta cheese
+  - qty: 200
+    unit: g
+    name: ricotta cheese
+    raw: 200 g ricotta cheese
+  - qty: 50
+    unit: g
+    name: parmesan cheese
+    raw: 50 g parmesan cheese
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 2
+    unit: tbsp
+    name: dill
+    raw: 2 tablespoons fresh dill
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tablespoon fresh mint
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 12
+    name: sheets filo pastry
+    raw: 12 sheets filo pastry
+  - qty: 150
+    unit: g
+    name: unsalted butter
+    raw: 150 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: sesame seeds
+    raw: 1 tablespoon sesame seeds
+  - qty: 1
+    unit: tbsp
+    name: nigella seeds
+    raw: 1 tablespoon nigella seeds

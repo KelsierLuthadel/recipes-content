@@ -1,0 +1,43 @@
+prep: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - lime
+  - coriander
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: pineapple
+    raw: 300 grams fresh pineapple
+  - qty: 1
+    unit: tbsp
+    name: soft brown sugar
+    raw: 1 tablespoon soft brown sugar
+  - qty: 0.5
+    name: red chilli
+    raw: ½ fresh red chilli
+  - qty: 1
+    unit: tbsp
+    name: sambal oelek
+    raw: 1 tablespoon Sambal Oelek
+  - qty: 1
+    unit: tsp
+    name: lime juice
+    raw: 1 teaspoon fresh lime juice
+  - qty: 2
+    unit: tbsp
+    name: coriander leaves
+    raw: 2 tablespoons fresh coriander leaves
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: 1 pinch fine sea salt

@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 5 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+tags:
+  - quick
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - eggs
+  - onion
+  - butter
+  - nuts
+mentions: []
+ingredients:
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 1
+    name: onion
+    raw: 1 onion , finely chopped
+  - qty: 1
+    name: flat leaf parsley
+    raw: small bunch of flat leaf parsley
+  - qty: 1
+    name: sage leaves
+    raw: small bunch of sage leaves, chopped
+  - qty: 900
+    unit: g
+    name: pork sausage meat
+    raw: 900 grams pork sausage meat
+  - qty: 75
+    unit: g
+    name: white bread crumbs
+    raw: 75 grams fresh white bread crumbs
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 100
+    unit: g
+    name: apricots
+    raw: 100 grams dried apricots, chopped
+  - qty: 75
+    unit: g
+    name: shelled pistachios
+    raw: 75 grams shelled pistachios, chopped
+  - name: olive oil
+    raw: olive oil to drizzle
+  - qty: 2
+    name: chorizo sausages
+    raw: 2 chorizo sausages

@@ -1,35 +1,3 @@
----
-prep: 25 minutes
-cook: 1 hour
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - celery
-  - garlic
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - potato
-  - carrot
-  - butter
-  - cheese
-  - complex
-  - st-patricks
-mentions:
-  - cuisine/british/cottage-pie
-  - tutorials/bread/cottage
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Shepherd's Pie
 
 ![Shepherd's Pie](resources/shepherds-pie.jpg)

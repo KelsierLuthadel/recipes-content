@@ -1,22 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - meat
-  - onion
-  - lemon
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Cumberland Sauce
 
 ![Cumberland sauce](resources/cumberland-sauce.png)

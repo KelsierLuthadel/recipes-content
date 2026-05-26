@@ -1,32 +1,3 @@
----
-prep: 25 minutes
-cook: 1 ¼ hours
-allergens:
-  - gluten
-  - soy
-  - mustard
-  - celery
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - spicy
-  - meals
-  - rice
-  - onion
-  - garlic
-  - spinach
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Gumbo z'Herbes
 
 ![Gumbo Z'Herbes](resources/gumbo-z-herbes.jpg)

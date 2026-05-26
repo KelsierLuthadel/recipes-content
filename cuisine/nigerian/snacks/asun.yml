@@ -1,0 +1,97 @@
+prep: 20 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - meat
+  - fish
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: goat meat
+    raw: 1 kg bone-in goat meat
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    name: stock cube
+    raw: 1 stock cube
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml water
+  - qty: 2
+    name: scotch bonnet chillies
+    raw: 2 fresh scotch bonnet chillies
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 4
+    unit: tbsp
+    name: neutral oil
+    raw: 4 tablespoons neutral oil
+  - qty: 2
+    unit: tsp
+    name: curry powder
+    raw: 2 teaspoons Curry Powder
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon dried thyme
+  - qty: 1
+    unit: tsp
+    name: crayfish
+    raw: 1 teaspoon ground crayfish
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 0.5
+    name: onion
+    raw: ½ small onion
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    name: red chilli
+    raw: 1 fresh red chilli

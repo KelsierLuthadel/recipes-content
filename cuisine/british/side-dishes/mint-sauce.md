@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - make-ahead
-  - sides
-  - easter
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mint Sauce
 
 ![Mint Sauce](resources/mint-sauce.jpg)

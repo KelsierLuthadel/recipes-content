@@ -1,26 +1,3 @@
----
-prep: 20 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - sesame
-tags:
-  - vegetarian
-  - spicy
-  - make-ahead
-  - sides
-  - eggs
-  - butter
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Three-Cheese Bourekas
 
 ![Three-Cheese Bourekas](resources/bourekas.jpg)

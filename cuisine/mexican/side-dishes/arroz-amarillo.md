@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-cook: 25 minutes
-allergens:
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - sides
-  - meat
-  - rice
-  - onion
-  - garlic
-  - carrot
-  - coriander
-mentions:
-  - cuisine/mexican/pollo-asado
-  - cuisine/mexican/side-dishes/mexican-rice
----
-
-
-
-
 # Arroz Amarillo
 
 ![Arroz Amarillo](resources/arroz-amarillo.jpg)

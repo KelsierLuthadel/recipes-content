@@ -1,0 +1,74 @@
+prep: 8 minutes
+cook: 2 minutes
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - spices
+  - coriander
+  - chili
+  - curry
+mentions: []
+ingredients:
+  - qty: 6
+    unit: tbsp
+    name: coriander seeds
+    raw: 6 tbsp coriander seeds
+  - qty: 6
+    unit: tbsp
+    name: cumin seeds
+    raw: 6 tbsp cumin seeds
+  - qty: 4
+    unit: tbsp
+    name: black peppercorns
+    raw: 4 tbsp black peppercorns
+  - qty: 2
+    unit: tbsp
+    name: fennel seeds
+    raw: 2 tbsp fennel seeds
+  - qty: 2
+    unit: tbsp
+    name: black mustard seeds
+    raw: 2 tbsp black mustard seeds
+  - qty: 12
+    name: cinnamon stick or cassia bark
+    raw: 12cm piece of cinnamon stick or cassia bark
+  - qty: 4
+    name: indian bay leaves
+    raw: 4 Indian bay leaves
+  - qty: 3
+    unit: tbsp
+    name: fenugreek seeds
+    raw: 3 tbsp fenugreek seeds
+  - qty: 3
+    name: star anise
+    raw: 3 star anise
+  - qty: 15
+    name: cardamom pods
+    raw: 15 cardamom pods, lightly bruised
+  - qty: 8
+    name: kashmiri dried red chillies
+    raw: 8 Kashmiri dried red chillies
+  - qty: 2
+    unit: tbsp
+    name: turmeric
+    raw: 2 tbsp ground turmeric
+  - qty: 2
+    unit: tbsp
+    name: hot chilli powder
+    raw: 2 tbsp hot chilli powder
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 tsp garlic powder
+  - qty: 2
+    unit: tsp
+    name: onion powder
+    raw: 2 tsp dried onion powder

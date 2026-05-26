@@ -1,0 +1,107 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - peanuts
+  - fish
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - starter
+  - make-ahead
+  - asian
+  - meat
+  - fish
+  - chicken
+  - coconut
+  - lime
+  - coriander
+  - butter
+  - nuts
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken breast or thigh fillets
+    raw: 1kg skinless chicken breast or thigh fillets, cut into bite-size pieces
+  - qty: 1
+    unit: tbsp
+    name: cumin seeds
+    raw: 1 tbsp cumin seeds
+  - qty: 1
+    unit: tbsp
+    name: coriander seeds
+    raw: 1 tbsp coriander seeds
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ tsp ground white pepper
+  - qty: 2
+    unit: tsp
+    name: turmeric
+    raw: 2 tsp ground turmeric
+  - qty: 4
+    name: lime leaves
+    raw: 4 lime leaves, stalks removed and leaves finely chopped
+  - qty: 1
+    unit: tbsp
+    name: lemongrass
+    raw: 1 tbsp thinly sliced lemongrass
+  - qty: 1
+    name: galangal
+    raw: 1 generous tbsp chopped galangal
+  - qty: 200
+    unit: ml
+    name: coconut milk
+    raw: 200ml coconut milk
+  - qty: 1
+    unit: pinch
+    name: cinnamon
+    raw: A pinch of ground cinnamon
+  - qty: 2
+    unit: tsp
+    name: palm sugar
+    raw: 2 tsp palm sugar
+  - qty: 1
+    unit: tbsp
+    name: white wine
+    raw: 1 tbsp white wine
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: rapeseed oil
+    raw: 1 tbsp rapeseed oil
+  - qty: 2
+    unit: tbsp
+    name: thai red curry paste
+    raw: 2 tbsp Thai Red Curry Paste
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400ml thick coconut milk
+  - qty: 200
+    unit: ml
+    name: smooth or chunky peanut butter
+    raw: 200ml smooth or chunky peanut butter
+  - qty: 2
+    unit: tbsp
+    name: thai fish sauce*
+    raw: 2 tbsp Thai fish sauce*
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tbsp sugar
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 2
+    unit: tbsp
+    name: tamarind water
+    raw: 2 tbsp tamarind water

@@ -1,23 +1,3 @@
----
-prep: 20 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - meals
-  - eggs
-  - potato
-  - butter
-  - st-patricks
-mentions: []
----
-
-
-
-
 # Boxty
 
 ![Boxty](resources/boxty.jpg)

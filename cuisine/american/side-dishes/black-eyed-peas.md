@@ -1,30 +1,3 @@
----
-prep: 10 minutes (plus overnight soaking)
-cook: 1 hour 30 minutes
-allergens:
-  - meat
-  - celery
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - one-pan
-  - sides
-  - meat
-  - pork
-  - onion
-  - garlic
-  - chili
-  - complex
-  - kwanzaa
-mentions: []
----
-
-
-
-
 # Black-Eyed Peas
 
 ![Black-Eyed Peas](resources/black-eyed-peas.jpg)

@@ -1,0 +1,47 @@
+prep: 10 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - eggs
+  - lemon
+mentions: []
+ingredients:
+  - qty: 750
+    unit: ml
+    name: milk
+    raw: 750 ml milk
+  - qty: 1
+    name: heaped teaspoon fennel seeds
+    raw: 1 heaped teaspoon fennel seeds
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 grams caster sugar
+  - qty: 1
+    name: orange zest
+    raw: 1 orange zest
+  - qty: 1
+    name: lemon zest
+    raw: 1 lemon zest
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 6
+    name: egg yolks
+    raw: 6 egg yolks
+  - qty: 40
+    unit: g
+    name: cornflour
+    raw: 40 grams cornflour
+  - qty: 80
+    unit: g
+    name: demerara sugar
+    raw: 80 grams demerara sugar

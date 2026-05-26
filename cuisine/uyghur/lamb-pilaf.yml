@@ -1,0 +1,75 @@
+prep: 30 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - lamb
+  - rice
+  - onion
+  - carrot
+  - honey
+  - complex
+mentions:
+  - cuisine/indian/biryani
+  - tutorials/rice/pilaf
+ingredients:
+  - qty: 450
+    unit: g
+    name: lamb
+    raw: 450 g lamb , cut into 2 cm cubes
+  - qty: 45
+    unit: g
+    name: lamb fat
+    raw: 45 g lamb fat, in chunks
+  - qty: 1
+    unit: tbsp
+    name: neutral oil
+    raw: 1 tablespoon neutral oil
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 400
+    unit: g
+    name: medium-grain rice
+    raw: 400 g medium-grain rice
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 2
+    name: yellow carrots
+    raw: 2 yellow carrots
+  - qty: 1
+    name: orange carrot
+    raw: 1 orange carrot
+  - qty: 100
+    unit: g
+    name: raisins
+    raw: 100 g raisins
+  - qty: 2
+    unit: tbsp
+    name: honey
+    raw: 2 tablespoons honey
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 0.25
+    unit: tsp
+    name: white pepper
+    raw: ¼ teaspoon ground white pepper
+  - qty: 1.3
+    unit: l
+    name: water
+    raw: 1.3 litres hot water

@@ -1,24 +1,3 @@
----
-prep: 8 minutes
-cook: 2 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - asian
-  - spices
-  - coriander
-mentions: []
----
-
-
-
-
 # Chaat Masala
 
 ![Chaat Masala](resources/chaat-masala.jpg)

@@ -1,0 +1,75 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+  - mustard
+tags:
+  - meals
+  - meat
+  - beef
+  - eggs
+  - rice
+  - mushroom
+  - onion
+  - lemon
+  - butter
+  - nuts
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef fillet
+    raw: 600 g beef fillet
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 300
+    unit: g
+    name: chestnut mushrooms
+    raw: 300 g chestnut mushrooms
+  - qty: 50
+    unit: ml
+    name: brandy
+    raw: 50 ml brandy
+  - qty: 250
+    unit: ml
+    name: beef stock
+    raw: 250 ml beef stock
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 200
+    unit: ml
+    name: soured cream
+    raw: 200 ml soured cream
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley
+  - name: lemon juice
+    raw: Lemon juice, to finish
+  - qty: 400
+    unit: g
+    name: egg noodles
+    raw: 400 g egg noodles

@@ -1,0 +1,46 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - beef
+  - butter
+  - cream
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 1
+    unit: l
+    name: beef stock
+    raw: 1 litre strong beef stock
+  - qty: 500
+    unit: ml
+    name: white wine
+    raw: 500 ml white wine
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 4
+    name: country bread
+    raw: 4 slices country bread
+  - qty: 40
+    unit: g
+    name: unsalted butter
+    raw: 40 grams unsalted butter
+  - qty: 100
+    unit: g
+    name: parmesan cheese
+    raw: 100 grams freshly grated Parmesan cheese
+  - name: parmesan cheese
+    raw: Freshly grated Parmesan cheese

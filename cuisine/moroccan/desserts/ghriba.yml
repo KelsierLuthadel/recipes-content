@@ -1,0 +1,59 @@
+prep: 20 minutes (plus 30 minutes resting)
+cook: 15 minutes
+allergens:
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - nuts
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: almonds
+    raw: 500 g ground almonds
+  - qty: 200
+    unit: g
+    name: icing sugar
+    raw: 200 g icing sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.75
+    unit: tsp
+    name: baking powder
+    raw: ¾ teaspoon baking powder
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 2
+    unit: tbsp
+    name: orange-flower water
+    raw: 2 tablespoons orange-flower water
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 150
+    unit: g
+    name: icing sugar
+    raw: 150 g icing sugar
+  - qty: 50
+    unit: g
+    name: almonds
+    raw: 50 g whole almonds

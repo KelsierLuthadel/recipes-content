@@ -1,0 +1,88 @@
+prep: 20 minutes
+cook: 2 minutes
+allergens:
+  - gluten
+  - peanuts
+  - soy
+  - shellfish
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - fish
+  - prawn
+  - rice
+  - onion
+  - ginger
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/chinese/side-dishes/rice-cake
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 450
+    unit: g
+    name: prawns
+    raw: 450 grams prawns
+  - qty: 2
+    unit: tbsp
+    name: groundnut oil
+    raw: 2 tablespoons groundnut oil
+  - qty: 2
+    unit: tsp
+    name: ginger
+    raw: 2 teaspoons ginger
+  - qty: 1.5
+    unit: tbsp
+    name: spring onions
+    raw: 1 ½ tablespoons spring onions
+  - qty: 110
+    unit: g
+    name: red bell pepper
+    raw: 110 grams red bell pepper
+  - qty: 1
+    unit: tbsp
+    name: cider
+    raw: 1 tablespoon cider
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tablespoon dark soy sauce
+  - qty: 2
+    name: red chillies
+    raw: 2 dried red chillies
+  - qty: 1.5
+    unit: tbsp
+    name: tomato puree
+    raw: 1 ½ tablespoons tomato purée
+  - qty: 1
+    unit: tsp
+    name: light soy sauce
+    raw: 1 teaspoon light soy sauce
+  - qty: 1.5
+    unit: tbsp
+    name: dry sherry
+    raw: 1 ½ tablespoons dry sherry
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 300
+    unit: ml
+    name: chinese chicken stock
+    raw: 300 ml Chinese chicken stock
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tablespoon cornflour
+  - qty: 1
+    name: rice cake
+    raw: 1 rice cake
+  - qty: 1
+    unit: l
+    name: groundnut oil
+    raw: 1 litre groundnut oil

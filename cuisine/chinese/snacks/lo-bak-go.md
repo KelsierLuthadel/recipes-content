@@ -1,34 +1,3 @@
----
-prep: 30 minutes
-cook: 1 hour 30 minutes
-allergens:
-  - gluten
-  - soy
-  - sesame
-  - shellfish
-  - meat
-tags:
-  - dairy-free
-  - spicy
-  - snack
-  - make-ahead
-  - asian
-  - meat
-  - fish
-  - pork
-  - prawn
-  - mushroom
-  - onion
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lo Bak Go
 
 ![Lo Bak Go](resources/lo-bak-go.jpg)

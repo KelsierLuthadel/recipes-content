@@ -1,20 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/bread/proving
-  - tutorials/bread/shapes
-  - tutorials/bread/standard-loaf
-  - tutorials/bread/tin
-  - tutorials/pizza/dough
----
-
-
-
 # Bloomer
 
 ![A bloomer loaf](resources/bloomer-loaf.jpg)

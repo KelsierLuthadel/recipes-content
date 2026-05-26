@@ -1,29 +1,3 @@
----
-prep: 45 minutes (plus 30 minutes marinating)
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - coconut
-  - carrot
-  - chili
-  - complex
-mentions:
-  - cuisine/jamaican/snacks/coco-bread
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Spicy Coconut Fried Chicken Sandwich
 
 ![Spicy Coconut Fried Chicken Sandwich](resources/spicy-coconut-fried-chicken-sandwich.jpg)

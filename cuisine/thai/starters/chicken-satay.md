@@ -1,34 +1,3 @@
----
-prep: 20 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-  - peanuts
-  - fish
-  - meat
-tags:
-  - gluten-free
-  - spicy
-  - starter
-  - make-ahead
-  - asian
-  - meat
-  - fish
-  - chicken
-  - coconut
-  - lime
-  - coriander
-  - butter
-  - nuts
-  - curry
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicken Satay with Peanut Sauce
 
 ![Chicken Satay with Peanut Sauce](resources/chicken-satay.jpg)

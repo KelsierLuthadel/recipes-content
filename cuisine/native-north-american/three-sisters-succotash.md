@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - meals
-  - onion
-  - garlic
-  - butter
-mentions:
-  - cuisine/american/side-dishes/cornbread
----
-
-
-
-
 # Three Sisters Succotash
 
 ![Three Sisters Succotash](resources/three-sisters-succotash.jpg)

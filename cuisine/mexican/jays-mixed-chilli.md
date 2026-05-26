@@ -1,36 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour 20 minutes
-allergens:
-  - soy
-  - meat
-  - celery
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - onion
-  - garlic
-  - carrot
-  - coriander
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - cuisine/american/side-dishes/baked-beans
-  - cuisine/american/side-dishes/cornbread
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chilli con Carne
 
 ![Chilli con Carne](resources/chilli.jpg)

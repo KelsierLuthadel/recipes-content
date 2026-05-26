@@ -1,19 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/bread/gluten
-  - tutorials/bread/proving
-  - tutorials/bread/tin
-  - tutorials/pizza/dough
----
-
-
-
 # Hydration
 
 ![Dough hydration](resources/hydration.jpg)

@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 1 hour 15 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - snack
-  - meat
-  - pork
-  - onion
-  - garlic
-  - tomato
-  - lime
-mentions:
-  - cuisine/colombian/side-dishes/hogao
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chicharrón Colombiano
 
 ![Chicharrón Colombiano](resources/chicharron-colombiano.jpg)

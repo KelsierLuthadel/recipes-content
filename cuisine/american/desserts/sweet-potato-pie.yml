@@ -1,0 +1,88 @@
+prep: 30 minutes (plus 1 hour chilling)
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - ginger
+  - potato
+  - butter
+  - complex
+  - kwanzaa
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - qty: 120
+    unit: g
+    name: cold unsalted butter
+    raw: 120 g cold unsalted butter
+  - qty: 4.5
+    unit: tbsp
+    name: ice-cold water
+    raw: 4-5 tablespoons ice-cold water
+  - qty: 700
+    unit: g
+    name: sweet potatoes
+    raw: 700 g sweet potatoes
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 150
+    unit: g
+    name: soft dark brown sugar
+    raw: 150 g soft dark brown sugar
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 200
+    unit: ml
+    name: evaporated milk
+    raw: 200 ml evaporated milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1.5
+    unit: tsp
+    name: cinnamon
+    raw: 1 ½ teaspoons ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: ginger
+    raw: ½ teaspoon ground ginger
+  - qty: 0.25
+    unit: tsp
+    name: cloves
+    raw: ¼ teaspoon ground cloves
+  - qty: 1
+    unit: tbsp
+    name: bourbon
+    raw: 1 tablespoon bourbon
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: icing sugar
+    raw: 1 tablespoon icing sugar

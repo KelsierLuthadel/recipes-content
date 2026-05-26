@@ -1,0 +1,34 @@
+prep: 30 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - butter
+mentions: []
+ingredients:
+  - qty: 220
+    unit: g
+    name: sweet shortcrust pastry
+    raw: 220 grams Sweet shortcrust pastry
+  - qty: 400
+    unit: g
+    name: rhubarb
+    raw: 400 grams tender young rhubarb
+  - qty: 140
+    unit: g
+    name: caster sugar
+    raw: 140 grams caster sugar
+  - qty: 1
+    name: juicy orange
+    raw: 1 juicy orange
+  - qty: 40
+    unit: g
+    name: butter
+    raw: 40 grams butter
+  - qty: 120
+    unit: g
+    name: creme patissiere
+    raw: 120 grams crème pâtissière

@@ -1,0 +1,89 @@
+prep: 10 minutes
+cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - one-pan
+  - meals
+  - meat
+  - pork
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - butter
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 680
+    unit: g
+    name: pork
+    raw: 680 g ground pork
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 0.5
+    unit: cup
+    name: seasoned panko breadcrumbs
+    raw: ½ cup seasoned panko breadcrumbs
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 0.25
+    unit: cup
+    name: scallions
+    raw: ¼ cup sliced scallions
+  - qty: 2
+    unit: tbsp
+    name: jerk seasoning
+    raw: 2 tablespoons jerk seasoning
+  - qty: 1
+    unit: tsp
+    name: ginger paste
+    raw: 1 teaspoon ginger paste
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 2
+    unit: tbsp
+    name: unsalted butter
+    raw: 2 tablespoons unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    unit: tbsp
+    name: unsalted butter
+    raw: 1 tablespoon unsalted butter
+  - qty: 1
+    name: shallot
+    raw: 1 shallot
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 3
+    unit: tsp
+    name: jamaican curry powder
+    raw: 3 teaspoons Jamaican curry powder
+  - qty: 1
+    name: coconut milk
+    raw: 1 can full-fat coconut milk
+  - name: rice and scallions
+    raw: Rice and scallions, to serve

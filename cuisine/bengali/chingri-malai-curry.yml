@@ -1,0 +1,98 @@
+prep: 20 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - shellfish
+  - mustard
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - prawn
+  - onion
+  - ginger
+  - coconut
+  - chili
+  - curry
+  - complex
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: prawns
+    raw: 500 g large prawns, shelled and deveined with tails on
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp turmeric
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 tsp Kashmiri chilli powder
+  - qty: 2
+    unit: tbsp
+    name: mustard oil
+    raw: 2 tbsp mustard oil
+  - qty: 2
+    unit: tbsp
+    name: ghee
+    raw: 2 tbsp ghee
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods, lightly crushed
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    name: onion
+    raw: 1 onion , pureed to a smooth paste
+  - qty: 1
+    unit: tbsp
+    name: ginger paste
+    raw: 1 tbsp ginger paste
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 tsp Kashmiri chilli powder
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp turmeric
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies, slit
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt, or to taste
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml thick coconut milk
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml warm water
+  - qty: 0.5
+    unit: tsp
+    name: garam masala
+    raw: ½ tsp Garam Masala
+  - qty: 1
+    unit: tsp
+    name: ghee
+    raw: 1 tsp ghee, to finish

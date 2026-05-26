@@ -1,0 +1,63 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - soy
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - mushroom
+  - lime
+  - coriander
+  - chili
+mentions: []
+ingredients:
+  - qty: 2
+    name: galangal
+    raw: 2 cm piece galangal
+  - qty: 1
+    name: lemongrass stem
+    raw: 1 lemongrass stem
+  - qty: 3
+    name: kaffir lime leaves
+    raw: 3 kaffir lime leaves
+  - qty: 200
+    unit: g
+    name: button mushrooms
+    raw: 200 grams button mushrooms
+  - qty: 200
+    unit: g
+    name: pak choi
+    raw: 200 grams pak choi
+  - qty: 200
+    unit: g
+    name: tofu
+    raw: 200 grams tofu
+  - qty: 2
+    unit: tbsp
+    name: tom yum paste
+    raw: 2 tablespoons tom yum paste
+  - qty: 1
+    name: red chilli
+    raw: 1 red chilli
+  - qty: 2
+    unit: tbsp
+    name: lime juice
+    raw: 2 tablespoons lime juice
+  - qty: 750
+    unit: ml
+    name: vegetable stock
+    raw: 750 ml vegetable stock
+  - qty: 750
+    unit: ml
+    name: water
+    raw: 750 ml water
+  - qty: 1
+    unit: handful
+    name: coriander leaves
+    raw: 1 handful coriander leaves

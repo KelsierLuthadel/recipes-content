@@ -1,0 +1,78 @@
+prep: 10 minutes
+cook: 2 minutes
+allergens:
+  - peanuts
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - beef
+  - ginger
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: rump steak
+    raw: 350 grams rump steak
+  - qty: 2
+    unit: tsp
+    name: dark soy sauce
+    raw: 2 teaspoon dark soy sauce
+  - qty: 2
+    unit: tsp
+    name: dry sherry
+    raw: 2 teaspoons dry sherry
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon fresh ginger
+  - qty: 1
+    unit: tsp
+    name: cornflour
+    raw: 1 teaspoon cornflour
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 70
+    unit: ml
+    name: groundnut oil
+    raw: 70 ml groundnut oil
+  - qty: 2
+    name: red chillies
+    raw: 2 dried red chillies
+  - qty: 1
+    unit: tbsp
+    name: tangerine peel
+    raw: 1 tablespoon dried tangerine peel
+  - qty: 0.5
+    unit: tsp
+    name: roasted sichuan peppercorns
+    raw: ½ teaspoon roasted Sichuan peppercorns
+  - qty: 2
+    unit: tsp
+    name: dark soy sauce
+    raw: 2 teaspoons dark soy sauce
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 0.5
+    unit: tsp
+    name: sesame oil
+    raw: ½ teaspoon sesame oil

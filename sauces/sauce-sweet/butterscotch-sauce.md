@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-cook: 10 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - butter
-  - cream
-mentions:
-  - base-ingredients/syrup/sirop-a-sorbet
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Butterscotch Sauce
 
 ![Butterscotch sauce](resources/butterscotch.png)

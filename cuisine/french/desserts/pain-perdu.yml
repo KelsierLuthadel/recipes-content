@@ -1,0 +1,58 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cream
+mentions:
+  - baking/pastry/brioche-dough
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 600
+    unit: g
+    name: brioche dough
+    raw: 600 grams brioche dough
+  - qty: 120
+    unit: g
+    name: sultanas
+    raw: 120 grams sultanas
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml cold milk
+  - qty: 50
+    unit: ml
+    name: creme fraiche
+    raw: 50 ml crème fraîche
+  - qty: 30
+    unit: g
+    name: caster sugar
+    raw: 30 grams caster sugar
+  - qty: 1
+    name: egg
+    raw: 1 whole egg
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: pinch of salt
+  - qty: 140
+    unit: g
+    name: butter
+    raw: 140 grams butter
+  - qty: 50
+    unit: g
+    name: granulated sugar to sprinkle
+    raw: 50 grams granulated sugar to sprinkle

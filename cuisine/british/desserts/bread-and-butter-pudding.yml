@@ -1,0 +1,66 @@
+prep: 15 minutes (plus 30 minutes soak)
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - cream
+  - st-patricks
+mentions: []
+ingredients:
+  - qty: 8
+    name: day-old white bread
+    raw: 8 slices day-old white bread
+  - qty: 75
+    unit: g
+    name: unsalted butter
+    raw: 75 g unsalted butter
+  - qty: 75
+    unit: g
+    name: raisins
+    raw: 75 g raisins
+  - qty: 50
+    unit: g
+    name: mixed peel
+    raw: 50 g mixed peel
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 4
+    name: egg yolks
+    raw: 4 egg yolks
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 300
+    unit: ml
+    name: milk
+    raw: 300 ml whole milk
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream
+  - name: nutmeg
+    raw: A grating of fresh nutmeg
+  - qty: 2
+    unit: tbsp
+    name: demerara sugar
+    raw: 2 tablespoons demerara sugar
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - name: pouring cream
+    raw: Pouring cream, custard, or vanilla ice cream

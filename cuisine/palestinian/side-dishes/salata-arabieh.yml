@@ -1,0 +1,72 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - onion
+  - tomato
+  - lemon
+  - chili
+mentions:
+  - cuisine/jordan/mansaf
+  - cuisine/lebanese/kibbeh
+  - cuisine/middle-east/kibbeh
+  - cuisine/palestinian/lahem-bi-ajeen
+  - cuisine/palestinian/musakhan
+ingredients:
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe medium tomatoes
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 0.5
+    name: red onion
+    raw: ½ small red onion
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 large bunch fresh flat-leaf parsley
+  - qty: 3
+    unit: tbsp
+    name: mint
+    raw: 3 tablespoons fresh mint
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 4
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 4 tablespoons extra-virgin olive oil
+  - qty: 3
+    unit: tbsp
+    name: lemon juice
+    raw: 3 tablespoons fresh lemon juice
+  - qty: 1.5
+    unit: tsp
+    name: sumac
+    raw: 1 ½ teaspoons sumac
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tsp
+    name: pomegranate molasses
+    raw: 1 teaspoon pomegranate molasses
+  - qty: 1
+    unit: pinch
+    name: cumin
+    raw: A pinch of cumin

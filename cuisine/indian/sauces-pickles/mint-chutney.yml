@@ -1,0 +1,41 @@
+prep: 10 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - garlic
+  - ginger
+  - lime
+  - yogurt
+  - chili
+mentions:
+  - cuisine/indian/side-dishes/samosa
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 270
+    unit: g
+    name: plain yoghurt
+    raw: 270 grams plain yoghurt
+  - qty: 1
+    unit: tbsp
+    name: garlic and ginger paste
+    raw: 1 tablespoon garlic and ginger paste
+  - qty: 2
+    name: bird's-eye green chillies
+    raw: 1-3 bird's-eye green chillies
+  - qty: 1
+    name: lime
+    raw: 1 fresh lime
+  - qty: 1.5
+    unit: tbsp
+    name: commercial mint sauce
+    raw: 1-2 tablespoons commercial mint sauce
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt

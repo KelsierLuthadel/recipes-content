@@ -1,0 +1,56 @@
+prep: 30 minutes (plus chilling)
+cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - pastes
+  - eggs
+  - lemon
+  - butter
+mentions: []
+ingredients:
+  - qty: 1
+    name: sheet ready-rolled all-butter puff pastry
+    raw: 1 sheet ready-rolled all-butter puff pastry
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - name: little flour for rolling
+    raw: A little flour for rolling
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 25
+    unit: g
+    name: plain flour
+    raw: 25 g plain flour
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - name: strip of lemon peel
+    raw: A strip of lemon peel
+  - qty: 6
+    name: egg yolks
+    raw: 6 egg yolks
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - name: cinnamon
+    raw: Ground cinnamon
+  - name: icing sugar
+    raw: Icing sugar

@@ -1,21 +1,3 @@
----
-prep: 5 minutes
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-tags:
-  - quick
-  - meat
-  - butter
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Parsley Sauce
 
 ![Parsley sauce](resources/parsley-sauce.png)

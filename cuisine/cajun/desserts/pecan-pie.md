@@ -1,26 +1,3 @@
----
-prep: 30 minutes (plus 1 hour pastry chill)
-cook: 1 hour
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - butter
-  - nuts
-  - complex
-mentions:
-  - cuisine/american/desserts/pecan-pie
----
-
-
-
-
 # Pecan Pie
 
 ![Pecan Pie](resources/pecan-pie.jpg)

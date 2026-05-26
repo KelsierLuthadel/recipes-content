@@ -1,20 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/bread/bloomer
-  - tutorials/bread/cob
-  - tutorials/bread/proving
-  - tutorials/bread/shapes
-  - tutorials/bread/tin
----
-
-
-
 # Standard Loaf
 
 ![A standard pan loaf](resources/loaf.jpg)

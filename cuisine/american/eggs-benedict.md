@@ -1,33 +1,3 @@
----
-prep: 15 minutes
-cook: 15 minutes
-allergens:
-  - dairy
-  - eggs
-  - fish
-  - meat
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - meat
-  - fish
-  - pork
-  - salmon
-  - eggs
-  - lemon
-  - butter
-  - chili
-mentions:
-  - sauces/sauce-savory/hollandaise-sauce
-  - tutorials/pizza/sauce
-  - tutorials/stocks-sauces/hollandaise
----
-
-
-
-
 # Eggs Benedict
 
 ![Eggs Benedict](resources/eggs-benedict.jpg)

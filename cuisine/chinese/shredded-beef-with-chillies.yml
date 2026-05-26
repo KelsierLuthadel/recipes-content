@@ -1,0 +1,63 @@
+prep: 15 minutes
+allergens:
+  - soy
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - beef
+  - onion
+  - ginger
+  - carrot
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 225
+    unit: g
+    name: tenderloin beef
+    raw: 225 grams tenderloin beef
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tablespoon dark soy sauce
+  - qty: 1
+    unit: tbsp
+    name: medium-dry sherry
+    raw: 1 tablespoon medium-dry sherry
+  - qty: 1
+    unit: tsp
+    name: dark brown soft sugar
+    raw: 1 teaspoon dark brown soft sugar
+  - qty: 6
+    unit: tbsp
+    name: vegetable oil
+    raw: 6 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 3
+    name: ginger
+    raw: 3 cm piece fresh root ginger
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 3
+    name: chillies
+    raw: 3 fresh chillies
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: chives
+    raw: Fresh chives

@@ -1,27 +1,3 @@
----
-prep: 30 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - tree-nuts
-  - meat
-tags:
-  - snack
-  - meat
-  - chicken
-  - onion
-  - lemon
-  - yogurt
-  - nuts
-  - complex
-mentions:
-  - cuisine/palestinian/musakhan
----
-
-
-
-
 # Musakhan Rolls
 
 ![Musakhan Rolls](resources/musakhan-rolls.jpg)

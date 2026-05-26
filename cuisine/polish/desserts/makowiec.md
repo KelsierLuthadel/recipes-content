@@ -1,30 +1,3 @@
----
-prep: 1 hour (plus 2 hours proving)
-cook: 45 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - lemon
-  - butter
-  - honey
-  - nuts
-  - complex
-  - rosh-hashanah
-mentions:
-  - tutorials/bread/proving
-  - tutorials/pizza/dough
----
-
-
-
-
 # Makowiec
 
 ![Makowiec](resources/makowiec.jpg)

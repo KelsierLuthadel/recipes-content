@@ -1,21 +1,3 @@
----
-prep: 10 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - make-ahead
-  - lemon
-mentions:
-  - tutorials/eggs/meringues
----
-
-
-
-
 # Mango Coulis with Saffron
 
 ![Mango coulis with saffron](resources/mango-coulis.jpg)

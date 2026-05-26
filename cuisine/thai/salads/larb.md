@@ -1,34 +1,3 @@
----
-prep: 15 minutes
-cook: 12 minutes
-allergens:
-  - fish
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - fish
-  - chicken
-  - beef
-  - pork
-  - duck
-  - rice
-  - onion
-  - lime
-  - coriander
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Larb
 
 ![Larb](resources/larb.jpg)

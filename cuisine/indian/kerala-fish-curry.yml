@@ -1,0 +1,109 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - fish
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - fish
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - curry
+  - complex
+mentions: []
+ingredients:
+  - qty: 600
+    unit: g
+    name: firm white fish
+    raw: 600 g firm white fish
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.5
+    name: lime
+    raw: ½ lime
+  - qty: 3
+    unit: tbsp
+    name: coconut oil
+    raw: 3 tablespoons coconut oil
+  - qty: 1
+    unit: tsp
+    name: black mustard seeds
+    raw: 1 teaspoon black mustard seeds
+  - qty: 0.5
+    unit: tsp
+    name: fenugreek seeds
+    raw: ½ teaspoon fenugreek seeds
+  - qty: 20
+    name: curry leaves
+    raw: 20 fresh curry leaves
+  - qty: 6
+    name: shallots
+    raw: 6 shallots
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2.5
+    name: green chillies
+    raw: 2-3 green chillies
+  - qty: 2
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 2 teaspoons Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 1
+    name: tomato
+    raw: 1 tomato
+  - qty: 2
+    unit: tbsp
+    name: tamarind paste
+    raw: 2 tablespoons tamarind paste
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 10
+    name: curry leaves
+    raw: 10 fresh curry leaves
+  - qty: 1
+    unit: tbsp
+    name: coconut oil
+    raw: 1 tablespoon coconut oil

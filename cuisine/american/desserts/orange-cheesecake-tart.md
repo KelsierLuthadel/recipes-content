@@ -1,24 +1,3 @@
----
-prep: 35 minutes
-cook: 90 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - cheese
-  - complex
-  - shavuot
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Orange Cheesecake Tart
 
 ![Orange cheesecake tart](resources/orange-cheesecake-tart.jpg)

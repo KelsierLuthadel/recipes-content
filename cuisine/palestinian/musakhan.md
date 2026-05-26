@@ -1,27 +1,3 @@
----
-prep: 20 minutes
-cook: 1 ¼ hours
-allergens:
-  - gluten
-  - tree-nuts
-  - meat
-tags:
-  - dairy-free
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - lemon
-  - nuts
-  - complex
-mentions:
-  - cuisine/azerbaijan/side-dishes/lavash
----
-
-
-
-
 # Musakhan
 
 ![Musakhan](resources/musakhan.jpg)

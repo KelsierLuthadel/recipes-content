@@ -1,0 +1,37 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - make-ahead
+  - eggs
+  - butter
+mentions:
+  - base-ingredients/baking/clarified-butter
+ingredients:
+  - qty: 250
+    unit: g
+    name: granulated sugar
+    raw: 250 grams granulated sugar
+  - qty: 8
+    name: eggs
+    raw: 8 eggs
+  - qty: 250
+    unit: g
+    name: cake flour
+    raw: 250 grams cake flour
+  - qty: 50
+    unit: g
+    name: clarified butter
+    raw: 50 grams Clarified Butter
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 grams unsalted butter
+  - qty: 1
+    unit: pinch
+    name: flour
+    raw: 1 pinch flour

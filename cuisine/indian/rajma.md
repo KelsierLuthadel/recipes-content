@@ -1,32 +1,3 @@
----
-prep: 15 minutes (plus overnight soak)
-cook: 1 hour 30 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - asian
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coriander
-  - butter
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Rajma
 
 ![Rajma](resources/rajma.jpg)

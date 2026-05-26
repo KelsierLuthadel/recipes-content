@@ -1,26 +1,3 @@
----
-prep: 8 minutes
-cook: 2 minutes
-allergens:
-  - mustard
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - asian
-  - spices
-  - ginger
-  - coriander
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Tandoori Masala
 
 ![Tandoori Masala](resources/tandoori-masala.jpg)

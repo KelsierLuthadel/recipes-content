@@ -1,32 +1,3 @@
----
-prep: 20 minutes
-cook: 3 hours
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - carrot
-  - chili
-  - complex
-mentions:
-  - cuisine/zimbabwe/side-dishes/sadza
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Zimbabwean Oxtail Stew
 
 ![Zimbabwean Oxtail Stew](resources/oxtail-stew.jpg)

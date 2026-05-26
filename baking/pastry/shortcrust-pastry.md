@@ -1,23 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - make-ahead
-  - baking
-  - eggs
-  - butter
-mentions:
-  - tutorials/patisserie/tarts
----
-
-
-
-
 # Pâte Brisée (Shortcrust)
 
 ![Pâte brisée (Shortcrust)](resources/shortcrust.png)

@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-cook: 31 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - dessert
-  - ginger
-  - lemon
-  - butter
-mentions:
-  - base-ingredients/syrup/sirop-a-sorbet
----
-
-
-
-
 # Brandy Snap Baskets with Rhubarb and Raspberries
 
 ![Brandy snap baskets](resources/brandy-snap-basket.jpg)

@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - meat
-tags:
-  - dairy-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - meat
-  - pork
-  - onion
-  - tomato
-  - cheese
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Linguine with Cherry Tomatoes, Pancetta, and White Wine
 
 ![Linguine Amatriciana](resources/amatriciana.jpg)

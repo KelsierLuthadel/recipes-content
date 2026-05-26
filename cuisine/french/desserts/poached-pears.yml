@@ -1,0 +1,45 @@
+prep: 10 minutes
+cook: 13 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - dessert
+  - make-ahead
+  - lemon
+mentions:
+  - sauces/sauce-sweet/caramel-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 6
+    name: william
+    raw: 6 William
+  - qty: 1
+    name: lemon juice
+    raw: 1 lemon juice
+  - qty: 400
+    unit: g
+    name: caster sugar
+    raw: 400 grams caster sugar
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 200
+    unit: g
+    name: dates
+    raw: 200 grams dates
+  - qty: 100
+    unit: g
+    name: soft dried figs
+    raw: 100 grams soft dried figs
+  - qty: 1.5
+    unit: tsp
+    name: rum
+    raw: 1 ½ teaspoons rum
+  - qty: 400
+    unit: ml
+    name: sauce caramel
+    raw: 400 ml Sauce caramel

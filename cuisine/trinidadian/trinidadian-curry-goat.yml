@@ -1,0 +1,103 @@
+prep: 20 minutes (plus 2 hours marinating)
+cook: 1 hour 45 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - lime
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/thai/side-dishes/coconut-rice
+ingredients:
+  - qty: 1.3
+    unit: kg
+    name: kid goat
+    raw: 1.3 kg bone-in kid goat , cut into 4-5 cm pieces
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 3
+    unit: tbsp
+    name: caribbean green seasoning
+    raw: 3 tbsp Caribbean green seasoning
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp freshly ground black pepper
+  - qty: 4
+    unit: tbsp
+    name: caribbean curry powder
+    raw: 4 tbsp Caribbean curry powder
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp ground turmeric
+  - qty: 1
+    unit: tsp
+    name: roasted geera
+    raw: 1 tsp ground roasted geera
+  - qty: 1
+    unit: tsp
+    name: anchar masala
+    raw: 1 tsp anchar masala
+  - qty: 6
+    unit: tbsp
+    name: water
+    raw: 6 tbsp water
+  - qty: 4
+    unit: tbsp
+    name: neutral oil
+    raw: 4 tbsp neutral oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 2
+    unit: sprig
+    name: thyme
+    raw: 2 sprigs fresh thyme
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 Scotch bonnet
+  - qty: 1
+    name: tomato
+    raw: 1 tomato
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 600-800 ml water
+  - qty: 2
+    name: potatoes
+    raw: 2 potatoes
+  - name: salt
+    raw: Salt, to taste
+  - qty: 1
+    unit: small handful
+    name: chadon beni
+    raw: Small handful chopped chadon beni , to finish

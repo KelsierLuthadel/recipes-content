@@ -1,0 +1,100 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - dairy
+  - peanuts
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - carrot
+  - lime
+  - coriander
+  - butter
+  - nuts
+  - chili
+  - complex
+mentions:
+  - cuisine/senegalese/mafe
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: chicken thighs
+    raw: 8 bone-in chicken thighs, skin removed
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1
+    name: scotch bonnet chilli
+    raw: 1 Scotch bonnet chilli
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: maggi cube
+    raw: 1 Maggi cube
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon ground white pepper
+  - qty: 1
+    unit: l
+    name: chicken stock
+    raw: 1 litre chicken stock
+  - name: salt
+    raw: Salt
+  - qty: 200
+    unit: g
+    name: smooth natural peanut butter
+    raw: 200 g smooth natural peanut butter
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml hot water
+  - qty: 1
+    name: sweet potato
+    raw: 1 sweet potato
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 1
+    unit: tbsp
+    name: tamarind paste
+    raw: 1 tablespoon tamarind paste
+  - qty: 400
+    unit: g
+    name: long-grain white rice
+    raw: 400 g long-grain white rice, steamed
+  - name: coriander leaves
+    raw: Fresh coriander leaves

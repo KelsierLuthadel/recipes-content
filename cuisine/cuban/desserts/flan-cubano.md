@@ -1,25 +1,3 @@
----
-prep: 20 minutes
-cook: 1 hour (plus 6 hours chilling)
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - dessert
-  - make-ahead
-  - eggs
-  - lemon
-  - complex
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Flan Cubano
 
 ![Flan Cubano](resources/flan-cubano.jpg)

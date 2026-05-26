@@ -1,27 +1,3 @@
----
-prep: 15 minutes
-cook: 3 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-tags:
-  - quick
-  - make-ahead
-  - meals
-  - meat
-  - lamb
-  - onion
-  - carrot
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Fettuccine with Sweet Onion, Rosemary, and Lamb
 
 ![Fettuccine with Rosemary and Lamb](resources/fettuccine-alle-cipolle.png)

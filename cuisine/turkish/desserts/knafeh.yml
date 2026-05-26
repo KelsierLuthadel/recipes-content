@@ -1,0 +1,72 @@
+prep: 25 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - lemon
+  - butter
+  - cheese
+  - nuts
+  - eid-al-fitr
+  - ramadan
+  - muslim
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    unit: tbsp
+    name: orange-blossom water
+    raw: 1 tablespoon orange-blossom water
+  - qty: 1
+    unit: tsp
+    name: rose water
+    raw: 1 teaspoon rose water
+  - qty: 400
+    unit: g
+    name: kataifi pastry
+    raw: 400 g kataifi pastry
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: orange zest
+    raw: 1 tablespoon orange zest
+  - qty: 250
+    unit: g
+    name: akkawi cheese
+    raw: 250 g akkawi cheese
+  - qty: 150
+    unit: g
+    name: ricotta
+    raw: 150 g ricotta
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    unit: tbsp
+    name: orange-blossom water
+    raw: 1 tablespoon orange-blossom water
+  - qty: 50
+    unit: g
+    name: shelled pistachios
+    raw: 50 g shelled pistachios

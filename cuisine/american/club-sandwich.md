@@ -1,26 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-tags:
-  - quick
-  - meals
-  - meat
-  - chicken
-  - pork
-  - eggs
-  - onion
-  - tomato
-  - butter
-mentions: []
----
-
-
-
-
 # Club Sandwich
 
 ![Club sandwich](resources/club-sandwich.jpg)

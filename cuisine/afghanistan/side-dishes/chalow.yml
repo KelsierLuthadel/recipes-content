@@ -1,0 +1,31 @@
+prep: 10 minutes (plus 30 minutes soaking)
+cook: 30 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - rice
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: basmati rice
+    raw: 400 g basmati rice
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tablespoon salt
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt

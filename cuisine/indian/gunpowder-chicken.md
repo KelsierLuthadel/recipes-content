@@ -1,33 +1,3 @@
----
-prep: 10 minutes
-cook: 20 minutes
-allergens:
-  - gluten
-  - eggs
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - chicken
-  - eggs
-  - onion
-  - garlic
-  - lemon
-  - coriander
-  - chickpea
-  - chili
-mentions:
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Gunpowder Chicken
 
 ![Gunpowder Chicken](resources/gunpowder-chicken.jpg)

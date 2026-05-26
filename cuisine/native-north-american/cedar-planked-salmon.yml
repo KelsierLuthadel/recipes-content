@@ -1,0 +1,56 @@
+prep: 15 minutes (plus 1 hour plank soak + 30 min cure)
+cook: 18 minutes
+allergens:
+  - fish
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - fish
+  - salmon
+  - lemon
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    name: salmon fillet
+    raw: 1 salmon fillet , skin on, pin bones removed
+  - qty: 1
+    name: untreated cedar plank
+    raw: 1 untreated cedar plank
+  - qty: 3
+    unit: tbsp
+    name: light brown sugar
+    raw: 3 tablespoons light brown sugar
+  - qty: 1
+    unit: tbsp
+    name: flaky sea salt
+    raw: 1 tablespoon flaky sea salt
+  - qty: 1
+    unit: tbsp
+    name: juniper berries
+    raw: 1 tablespoon crushed juniper berries
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - qty: 4
+    unit: tbsp
+    name: pure maple syrup
+    raw: 4 tablespoons pure maple syrup
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 1
+    name: dill
+    raw: A small bunch of dill
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: flaky salt
+    raw: Flaky salt

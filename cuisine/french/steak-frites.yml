@@ -1,0 +1,78 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - potato
+  - butter
+  - complex
+mentions: []
+ingredients:
+  - qty: 600
+    unit: g
+    name: maris piper potatoes
+    raw: 600 g Maris Piper potatoes
+  - name: vegetable oil
+    raw: Vegetable oil
+  - name: sea salt
+    raw: Sea salt
+  - qty: 2
+    name: rib-eye
+    raw: 2 rib-eye
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 2
+    name: thyme
+    raw: 2 thyme sprigs
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 4
+    unit: tbsp
+    name: white wine vinegar
+    raw: 4 tablespoons white wine vinegar
+  - qty: 4
+    unit: tbsp
+    name: dry white wine
+    raw: 4 tablespoons dry white wine
+  - qty: 1
+    name: shallot
+    raw: 1 shallot
+  - qty: 1
+    unit: tbsp
+    name: tarragon
+    raw: 1 tablespoon fresh tarragon
+  - qty: 4
+    name: black peppercorns
+    raw: 4 black peppercorns
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - name: salt
+    raw: Salt
+  - name: tarragon
+    raw: An extra tablespoon of fresh tarragon

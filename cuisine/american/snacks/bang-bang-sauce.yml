@@ -1,0 +1,28 @@
+prep: 3 minutes
+cook: None
+allergens:
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - eggs
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 0.5
+    unit: cup
+    name: whole-egg mayonnaise
+    raw: ½ cup whole-egg mayonnaise
+  - qty: 2
+    unit: tbsp
+    name: sweet chilli sauce
+    raw: 2 tablespoons sweet chilli sauce
+  - qty: 1
+    unit: tbsp
+    name: sriracha
+    raw: 1 tablespoon sriracha

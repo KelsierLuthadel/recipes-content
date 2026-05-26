@@ -1,0 +1,74 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - yogurt
+mentions:
+  - cuisine/indian/lamb-karahi
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: pumpkin
+    raw: 800 g pumpkin
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 1
+    name: tomato or 4 tablespoons passata
+    raw: 1 fresh tomato or 4 tablespoons passata
+  - qty: 2
+    unit: tbsp
+    name: soft brown sugar
+    raw: 2 tablespoons soft brown sugar
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: ½ teaspoon Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 200
+    unit: ml
+    name: stock
+    raw: 200 ml hot stock
+  - qty: 300
+    unit: g
+    name: strained greek yogurt
+    raw: 300 g strained Greek yogurt
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil

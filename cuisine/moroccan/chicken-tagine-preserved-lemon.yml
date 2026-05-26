@@ -1,0 +1,82 @@
+prep: 20 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - complex
+  - ramadan
+  - muslim
+mentions: []
+ingredients:
+  - qty: 8
+    name: chicken thighs and drumsticks
+    raw: 8 bone-in chicken thighs and drumsticks
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon ground ginger
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 500
+    unit: ml
+    name: chicken stock
+    raw: 500 ml chicken stock
+  - qty: 1
+    name: preserved lemon
+    raw: 1 preserved lemon
+  - qty: 150
+    unit: g
+    name: pitted green olives
+    raw: 150 g pitted green olives
+  - qty: 1
+    name: coriander
+    raw: A small bunch of coriander
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: couscous
+    raw: Couscous, to serve

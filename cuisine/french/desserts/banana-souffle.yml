@@ -1,0 +1,53 @@
+prep: 10 minutes
+cook: 7 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - potato
+  - lemon
+  - butter
+  - chocolate
+mentions:
+  - cuisine/french/desserts/crepes
+  - sauces/sauce-sweet/chocolate-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: perfectly ripe medium bananas
+    raw: 4 perfectly ripe medium bananas
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 50
+    unit: ml
+    name: milk
+    raw: 50 ml milk
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 grams caster sugar
+  - qty: 1
+    unit: tbsp
+    name: potato flour
+    raw: 1 tablespoon potato flour
+  - qty: 7
+    name: egg whites
+    raw: 7 egg whites
+  - qty: 8
+    name: crepes
+    raw: 8 crêpes
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 grams butter
+  - name: chocolate sauce
+    raw: Chocolate Sauce

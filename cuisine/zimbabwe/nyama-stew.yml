@@ -1,0 +1,65 @@
+prep: 15 minutes
+cook: 1 hour 45 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/zimbabwe/dovi
+  - cuisine/zimbabwe/side-dishes/muriwo-une-dovi
+  - cuisine/zimbabwe/side-dishes/sadza
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 700
+    unit: g
+    name: beef shin
+    raw: 700 g beef shin
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    name: tomatoes
+    raw: 4 tomatoes
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tablespoon tomato puree
+  - qty: 1
+    name: beef stock cube
+    raw: 1 beef stock cube
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1
+    name: chilli
+    raw: 1 fresh chilli
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml hot water
+  - name: coriander
+    raw: Fresh coriander

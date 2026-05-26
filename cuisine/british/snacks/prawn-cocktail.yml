@@ -1,0 +1,58 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - shellfish
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - fish
+  - prawn
+  - lemon
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 6
+    unit: tbsp
+    name: mayonnaise
+    raw: 6 tablespoons mayonnaise
+  - qty: 2
+    unit: tbsp
+    name: tomato ketchup
+    raw: 2 tablespoons tomato ketchup
+  - qty: 1
+    unit: tsp
+    name: worcestershire sauce
+    raw: 1 teaspoon Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: lemon juice
+    raw: 1 teaspoon lemon juice
+  - name: tabasco
+    raw: A few drops Tabasco
+  - qty: 1
+    unit: tsp
+    name: brandy
+    raw: 1 teaspoon brandy
+  - qty: 1
+    unit: pinch
+    name: salt and white pepper
+    raw: A pinch of salt and white pepper
+  - qty: 400
+    unit: g
+    name: king prawns
+    raw: 400 g cooked, peeled king prawns
+  - qty: 1
+    name: iceberg
+    raw: 1 iceberg
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 0.5
+    unit: tsp
+    name: sweet paprika
+    raw: ½ teaspoon sweet paprika
+  - name: dill
+    raw: A few sprigs of dill

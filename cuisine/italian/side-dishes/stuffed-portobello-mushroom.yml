@@ -1,0 +1,36 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - sides
+  - mushroom
+  - garlic
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 4
+    name: portobello mushrooms
+    raw: 4 portobello mushrooms
+  - qty: 150
+    unit: g
+    name: brie-style blue cheese
+    raw: 150 grams Brie-style blue cheese
+  - qty: 50
+    unit: g
+    name: bread crumbs
+    raw: 50 grams fresh bread crumbs
+  - qty: 1
+    name: parsley
+    raw: small bunch of parsley
+  - qty: 5
+    unit: clove
+    name: garlic
+    raw: 5 cloves garlic
+  - name: olive oil
+    raw: olive oil

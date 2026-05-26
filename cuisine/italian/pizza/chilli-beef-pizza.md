@@ -1,33 +1,3 @@
----
-prep: 15 minutes
-cook: 33 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - meals
-  - meat
-  - beef
-  - onion
-  - garlic
-  - tomato
-  - cheese
-  - chili
-  - complex
-mentions:
-  - cuisine/italian/pizza/pizza-sauce
-  - cuisine/italian/side-dishes/garlic-bread
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Chilli Beef Pizza
 
 ![Chilli Beef Pizza](resources/italian-beef-pizza.jpg)

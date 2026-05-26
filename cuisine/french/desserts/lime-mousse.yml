@@ -1,0 +1,41 @@
+prep: 5 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - lime
+  - cream
+  - tu-bav
+mentions: []
+ingredients:
+  - qty: 1
+    name: sheet leaf gelatine
+    raw: 1 sheet leaf gelatine
+  - qty: 100
+    unit: ml
+    name: lime juice
+    raw: 100 ml lime juice
+  - qty: 45
+    unit: g
+    name: caster sugar
+    raw: 45 grams caster sugar
+  - qty: 100
+    unit: g
+    name: warm meringue italienne
+    raw: 100 grams warm meringue Italienne
+  - qty: 170
+    unit: ml
+    name: whipping cream
+    raw: 170 ml whipping cream
+  - qty: 10
+    unit: g
+    name: lime zest
+    raw: 10 grams lime zest
+  - qty: 250
+    unit: g
+    name: hulled wild strawberries
+    raw: 250 grams hulled wild strawberries

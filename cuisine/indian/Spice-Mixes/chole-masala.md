@@ -1,24 +1,3 @@
----
-prep: 5 minutes
-cook: 3 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - asian
-  - spices
-  - coriander
-  - chili
-mentions: []
----
-
-
-
-
 # Chole Masala Powder
 
 ![Chole Masala Powder](resources/chole-masala.jpg)

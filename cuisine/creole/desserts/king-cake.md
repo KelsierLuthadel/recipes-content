@@ -1,25 +1,3 @@
----
-prep: 30 minutes (plus 2 hours rising)
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - lemon
-  - butter
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # King Cake
 
 ![King Cake](resources/king-cake.jpg)

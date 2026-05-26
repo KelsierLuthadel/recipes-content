@@ -1,0 +1,52 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - make-ahead
+  - eggs
+  - butter
+  - nuts
+mentions: []
+ingredients:
+  - qty: 4
+    name: eggs
+    raw: 4 eggs , size 4
+  - qty: 1
+    name: egg
+    raw: 1 egg , size 2
+  - qty: 130
+    unit: g
+    name: caster sugar
+    raw: 130 grams caster sugar
+  - qty: 85
+    unit: g
+    name: almonds
+    raw: 85 grams ground almonds
+  - qty: 1
+    name: orange
+    raw: 1 orange
+  - qty: 25
+    unit: g
+    name: candied orange peel
+    raw: 25 grams candied orange peel
+  - qty: 85
+    unit: g
+    name: cake flour
+    raw: 85 grams cake flour
+  - qty: 1
+    unit: tsp
+    name: unsalted butter
+    raw: 1 teaspoon unsalted butter
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 grams unsalted butter
+  - qty: 1
+    unit: pinch
+    name: flour
+    raw: 1 pinch flour

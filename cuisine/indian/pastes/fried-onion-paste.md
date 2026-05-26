@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-cook: 5 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - asian
-  - pastes
-  - onion
-  - yogurt
-mentions: []
----
-
-
-
-
 # Fried Onion Paste
 
 ![Fried Onion Paste](resources/fried-onion-paste.jpg)

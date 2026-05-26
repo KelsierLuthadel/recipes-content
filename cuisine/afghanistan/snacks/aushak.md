@@ -1,33 +1,3 @@
----
-prep: 45 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - snack
-  - meat
-  - beef
-  - lamb
-  - onion
-  - garlic
-  - coriander
-  - yogurt
-  - chili
-  - complex
-mentions:
-  - cuisine/afghanistan/mantu
-  - cuisine/afghanistan/snacks/mantu
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Aushak
 
 ![Aushak](resources/aushak.jpg)

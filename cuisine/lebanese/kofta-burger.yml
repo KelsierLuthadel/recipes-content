@@ -1,0 +1,113 @@
+prep: 25 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: lamb shoulder mince
+    raw: 500 g lamb shoulder mince
+  - qty: 150
+    unit: g
+    name: beef mince
+    raw: 150 g beef mince, 20% fat
+  - qty: 1
+    name: onion
+    raw: 1 onion , finely grated and squeezed
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, finely grated
+  - qty: 30
+    unit: g
+    name: flat-leaf parsley
+    raw: 30 g flat-leaf parsley, very finely chopped
+  - qty: 2
+    unit: tsp
+    name: lebanese seven-spice
+    raw: 2 tsp Lebanese seven-spice
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: chilli flakes
+    raw: ½ tsp mild chilli flakes
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ tsp ground cinnamon
+  - qty: 3
+    unit: tbsp
+    name: tahini
+    raw: 3 tbsp tahini
+  - qty: 150
+    unit: g
+    name: greek yoghurt
+    raw: 150 g Greek yoghurt
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tbsp lemon juice
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove, grated
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tbsp cold water
+  - name: salt
+    raw: Salt to taste
+  - qty: 1
+    name: red onion
+    raw: 1 red onion , very thinly sliced
+  - qty: 1
+    unit: tbsp
+    name: sumac
+    raw: 1 tbsp sumac
+  - qty: 1
+    unit: tsp
+    name: lemon juice
+    raw: 1 tsp lemon juice
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tbsp chopped parsley
+  - qty: 4
+    name: khobz
+    raw: 4 khobz , naan or flatbreads, or 4 brioche buns
+  - name: tomato
+    raw: Sliced tomato
+  - name: pickles
+    raw: Pickles
+  - name: olive oil for grilling
+    raw: Olive oil for grilling

@@ -1,0 +1,59 @@
+prep: 30 minutes
+cook: 50 minutes (plus syrup time)
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - one-pan
+  - ginger
+  - butter
+  - honey
+  - nuts
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/pastry/filo
+ingredients:
+  - qty: 300
+    unit: g
+    name: granulated sugar
+    raw: 300 g granulated sugar
+  - qty: 100
+    unit: g
+    name: clear honey
+    raw: 100 g clear honey
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 3
+    name: breakfast tea bags
+    raw: 3 breakfast tea bags
+  - qty: 0.25
+    unit: tsp
+    name: cardamom seeds
+    raw: ¼ teaspoon cardamom seeds
+  - qty: 2.5
+    name: ginger
+    raw: 2 ½ cm piece fresh ginger
+  - qty: 100
+    unit: g
+    name: toasted flaked almonds
+    raw: 100 g toasted flaked almonds
+  - qty: 100
+    unit: g
+    name: cashew nuts
+    raw: 100 g cashew nuts
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 12
+    name: sheets ready-rolled filo pastry
+    raw: 12 sheets ready-rolled filo pastry
+  - qty: 75
+    unit: g
+    name: unsalted butter
+    raw: 75 g unsalted butter

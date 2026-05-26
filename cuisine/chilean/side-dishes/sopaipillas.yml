@@ -1,0 +1,42 @@
+prep: 25 minutes (plus 30 minutes resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - butter
+mentions:
+  - cuisine/chilean/side-dishes/pebre
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: pumpkin
+    raw: 500 g pumpkin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 450
+    unit: g
+    name: plain flour
+    raw: 450 g plain flour
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil for deep frying

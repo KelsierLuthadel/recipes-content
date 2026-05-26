@@ -1,22 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - dessert
-  - make-ahead
-mentions:
-  - base-ingredients/syrup/sirop-a-sorbet
-  - tutorials/eggs/meringues
----
-
-
-
-
 # Plum Meringues
 
 ![Plum meringues](resources/plum-meringue.jpg)

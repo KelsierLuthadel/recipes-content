@@ -1,0 +1,50 @@
+prep: 5 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - fish
+tags:
+  - gluten-free
+  - quick
+  - fish
+  - onion
+  - butter
+  - cream
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 40
+    unit: g
+    name: shallots
+    raw: 40 grams shallots
+  - qty: 1
+    unit: sprig
+    name: thyme
+    raw: 1 sprig thyme
+  - qty: 0.5
+    name: bay leaf
+    raw: ½ bay leaf
+  - qty: 100
+    unit: ml
+    name: vermouth
+    raw: 100 ml vermouth
+  - qty: 300
+    unit: ml
+    name: fish stock
+    raw: 300 ml Fish stock
+  - qty: 2
+    unit: tbsp
+    name: double cream
+    raw: 2 tablespoons double cream
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 grams butter
+  - qty: 1
+    unit: pinch
+    name: paprika
+    raw: 1 pinch paprika
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

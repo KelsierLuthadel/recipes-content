@@ -1,0 +1,52 @@
+prep: 5 minutes
+cook: 50 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - rice
+  - butter
+  - nuts
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: short-grain pudding rice
+    raw: 250 g short-grain pudding rice
+  - qty: 1.2
+    unit: l
+    name: milk
+    raw: 1.2 litres whole milk
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 80
+    unit: g
+    name: raisins
+    raw: 80 g raisins
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: 1 pinch salt
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 30
+    unit: g
+    name: pine nuts
+    raw: 30 g pine nuts
+  - name: spoonful of fresh cream
+    raw: A spoonful of fresh cream
+  - qty: 1
+    unit: pinch
+    name: cinnamon
+    raw: A pinch of ground cinnamon

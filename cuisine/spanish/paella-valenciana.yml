@@ -1,0 +1,60 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - chicken
+  - rice
+  - tomato
+  - lemon
+mentions: []
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 4
+    name: chicken thighs
+    raw: 4 chicken thighs
+  - qty: 2
+    name: rabbit legs or 4 more chicken thighs
+    raw: 2 rabbit legs or 4 more chicken thighs
+  - qty: 100
+    unit: g
+    name: flat green beans
+    raw: 100 g flat green beans
+  - qty: 100
+    unit: g
+    name: butter beans
+    raw: 100 g butter beans, drained from a tin
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes
+  - qty: 1
+    unit: tsp
+    name: sweet smoked paprika
+    raw: 1 teaspoon sweet smoked paprika
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 1.2
+    unit: l
+    name: chicken stock
+    raw: 1.2 litres warm chicken stock
+  - qty: 350
+    unit: g
+    name: bomba rice
+    raw: 350 g bomba rice
+  - qty: 2
+    unit: sprig
+    name: rosemary
+    raw: 2 sprigs fresh rosemary
+  - name: salt
+    raw: Salt
+  - name: lemon wedges
+    raw: Lemon wedges, to serve

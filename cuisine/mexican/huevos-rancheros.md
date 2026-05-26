@@ -1,30 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - garlic
-tags:
-  - vegetarian
-  - spicy
-  - make-ahead
-  - meals
-  - eggs
-  - onion
-  - garlic
-  - tomato
-  - cheese
-  - chili
-mentions:
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Huevos Rancheros
 
 ![Huevos Rancheros](resources/huevos.jpg)

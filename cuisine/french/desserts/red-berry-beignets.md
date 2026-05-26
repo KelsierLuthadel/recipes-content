@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 4 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - peanuts
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - eggs
-mentions:
-  - cuisine/creole/side-dishes/beignets
-  - tutorials/patisserie/petit-fours
----
-
-
-
-
 # Red Berry Beignets
 
 ![Red berry beignets](resources/beignets.jpg)

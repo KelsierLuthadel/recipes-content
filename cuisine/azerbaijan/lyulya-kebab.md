@@ -1,25 +1,3 @@
----
-prep: 30 minutes (plus 2 hours chilling)
-cook: 12 minutes
-allergens:
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - bbq
-  - meat
-  - lamb
-  - onion
-  - lemon
-  - complex
-mentions:
-  - cuisine/azerbaijan/side-dishes/lavash
----
-
-
-
-
 # Lyulya-Kebab
 
 ![Lyulya-Kebab](resources/lyulya-kebab.jpg)

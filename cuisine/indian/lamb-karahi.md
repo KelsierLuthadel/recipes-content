@@ -1,36 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - tomato
-  - ginger
-  - coriander
-  - yogurt
-  - chili
-  - complex
-  - eid-al-adha
-  - ramadan
-  - muslim
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Lamb Karahi
 
 ![Lamb Karahi](resources/karahi.png)

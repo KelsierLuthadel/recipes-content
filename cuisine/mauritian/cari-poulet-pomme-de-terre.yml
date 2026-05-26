@@ -1,0 +1,99 @@
+prep: 20 minutes
+cook: 45 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 900
+    unit: g
+    name: chicken pieces
+    raw: 900 g bone-in chicken pieces
+  - qty: 500
+    unit: g
+    name: waxy potatoes
+    raw: 500 g waxy potatoes
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 4
+    name: tomatoes
+    raw: 4 tomatoes
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tbsp tomato paste
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 20
+    unit: g
+    name: ginger
+    raw: 20 g fresh ginger
+  - qty: 2
+    unit: sprig
+    name: thyme
+    raw: 2 sprigs fresh thyme
+  - qty: 15
+    name: curry leaves
+    raw: 15 fresh curry leaves
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 45
+    unit: ml
+    name: neutral oil
+    raw: 45 ml neutral oil
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: Small handful fresh coriander
+  - qty: 2
+    unit: tbsp
+    name: mauritian
+    raw: 2 tbsp Mauritian
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 tsp sweet paprika
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ tsp ground cinnamon

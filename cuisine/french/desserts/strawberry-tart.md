@@ -1,20 +1,3 @@
----
-prep: 30 minutes
-cook: 40 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - dessert
-  - valentines
-  - tu-bav
-mentions: []
----
-
-
-
-
 # Strawberry Tart
 
 ![Strawberry tart](resources/strawberry-tart.jpg)

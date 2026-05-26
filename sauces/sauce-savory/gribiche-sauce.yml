@@ -1,0 +1,47 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens:
+  - eggs
+  - peanuts
+  - mustard
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - eggs
+mentions:
+  - base-ingredients/herbs/fines-herbes
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: hard boiled eggs
+    raw: 4 hard boiled eggs
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 250
+    unit: ml
+    name: groundnut oil
+    raw: 250 ml groundnut oil
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 30
+    unit: g
+    name: capers
+    raw: 30 grams capers
+  - qty: 30
+    unit: g
+    name: cornichons
+    raw: 30 grams cornichons
+  - qty: 2
+    unit: tbsp
+    name: fines herbes
+    raw: 2 tablespoons Fines Herbes
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

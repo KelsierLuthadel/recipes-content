@@ -1,0 +1,22 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+mentions:
+  - cuisine/honduras/pollo-con-tajadas
+ingredients:
+  - qty: 3
+    name: plantains
+    raw: 3 plantains
+  - qty: 200
+    unit: ml
+    name: vegetable oil
+    raw: 200 ml vegetable oil
+  - name: salt
+    raw: Salt

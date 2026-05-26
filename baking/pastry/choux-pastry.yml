@@ -1,0 +1,41 @@
+prep: 10 minutes
+cook: 1 minute
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - baking
+  - eggs
+  - butter
+mentions: []
+ingredients:
+  - qty: 125
+    unit: ml
+    name: water
+    raw: 125 ml water
+  - qty: 125
+    unit: ml
+    name: milk
+    raw: 125 ml milk
+  - qty: 100
+    unit: g
+    name: butter
+    raw: 100 grams butter
+  - qty: 3
+    unit: g
+    name: salt
+    raw: 3 grams fine salt
+  - qty: 5
+    unit: g
+    name: sugar
+    raw: 5 grams sugar
+  - qty: 150
+    unit: g
+    name: flour
+    raw: 150 grams flour
+  - qty: 4
+    name: eggs
+    raw: 4 eggs

@@ -1,0 +1,68 @@
+prep: 15 minutes
+cook: 3 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - shellfish
+tags:
+  - quick
+  - meals
+  - fish
+  - prawn
+  - eggs
+  - onion
+  - tomato
+  - butter
+  - cream
+  - nuts
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 30
+    unit: g
+    name: salted butter
+    raw: 30 grams salted butter
+  - qty: 4
+    unit: tbsp
+    name: virgin olive oil
+    raw: 4 tablespoons extra virgin olive oil
+  - qty: 2
+    name: shallots
+    raw: 2 shallots
+  - qty: 60
+    unit: g
+    name: walnuts
+    raw: 60 grams walnuts
+  - qty: 300
+    unit: g
+    name: uncooked prawns
+    raw: 300 grams uncooked prawns
+  - qty: 10
+    name: cherry tomatoes
+    raw: 10 cherry tomatoes
+  - qty: 60
+    unit: ml
+    name: brandy
+    raw: 60 ml brandy
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream
+  - qty: 1
+    unit: tbsp
+    name: balsamic vinegar
+    raw: 1 tablespoon balsamic vinegar
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 400
+    unit: g
+    name: egg tagliatelle
+    raw: 400 grams fresh egg tagliatelle
+  - qty: 2
+    unit: tbsp
+    name: flat leaf parsley
+    raw: 2 tablespoons fresh flat leaf parsley

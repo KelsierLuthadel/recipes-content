@@ -1,0 +1,49 @@
+prep: 10 minutes
+allergens:
+  - soy
+  - fish
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - fish
+  - lime
+  - coriander
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: centimeters lemongrass stalk
+    raw: 4 centimeters lemongrass stalk
+  - qty: 75
+    unit: ml
+    name: rice wine vinegar
+    raw: 75 milliliters rice wine vinegar
+  - qty: 200
+    unit: ml
+    name: sunflower oil
+    raw: 200 milliliters sunflower oil
+  - qty: 2
+    unit: tbsp
+    name: fish sauce
+    raw: 2 tablespoons fish sauce
+  - qty: 1
+    unit: tbsp
+    name: soy sauce
+    raw: 1 tablespoon soy sauce
+  - qty: 15
+    unit: g
+    name: coriander leaf
+    raw: 15 grams fresh coriander leaf
+  - qty: 10
+    unit: g
+    name: chives
+    raw: 10 grams fresh chives
+  - name: lime juice
+    raw: Fresh lime juice
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

@@ -1,0 +1,71 @@
+prep: 15 minutes
+cook: 15-20 minutes
+allergens:
+  - peanuts
+  - fish
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - coconut
+  - lime
+  - coriander
+  - nuts
+  - curry
+mentions:
+  - tutorials/bread/gluten
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: chicken breasts
+    raw: 4 chicken breasts
+  - qty: 2
+    unit: tbsp
+    name: rapeseed
+    raw: 2 tbsp rapeseed , peanut or coconut oil
+  - qty: 6
+    unit: tbsp
+    name: thai red curry paste
+    raw: 6 tbsp Thai Red Curry Paste
+  - qty: 500
+    unit: ml
+    name: thai chicken stock or water
+    raw: 500 ml Thai chicken stock or water
+  - qty: 10
+    name: green beans
+    raw: 10 green beans, cut into 2 ½ cm pieces
+  - qty: 227
+    unit: g
+    name: bamboo shoots
+    raw: 227 g tin bamboo shoots, drained and cut into matchsticks
+  - qty: 5
+    name: sweetcorn
+    raw: 5 baby sweetcorn, cut into small pieces
+  - qty: 3
+    unit: tbsp
+    name: green peppercorns
+    raw: 3 tbsp fresh green peppercorns
+  - qty: 2.5
+    unit: tbsp
+    name: thai fish sauce
+    raw: 2-3 tbsp Thai fish sauce
+  - qty: 6
+    name: lime leaves
+    raw: 6 lime leaves, stalks removed and leaves thinly sliced
+  - qty: 0.5
+    name: lime
+    raw: ½ lime
+  - qty: 1
+    unit: tsp
+    name: palm sugar
+    raw: 1 tsp palm sugar
+  - name: coriander leaves
+    raw: Coriander leaves
+  - name: thai sweet basil leaves
+    raw: Thai sweet basil leaves

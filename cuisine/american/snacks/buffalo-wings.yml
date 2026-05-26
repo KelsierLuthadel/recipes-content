@@ -1,0 +1,93 @@
+prep: 15 minutes (plus 1 hour drying)
+cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - meat
+  - garlic
+  - carrot
+  - butter
+  - cheese
+  - chili
+  - complex
+mentions:
+  - sauces/sauce-spicy/buffalo-sauce
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: chicken wings
+    raw: 1.2 kg chicken wings
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: l
+    name: neutral oil
+    raw: 1 litre neutral oil
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 120
+    unit: ml
+    name: frank's redhot
+    raw: 120 ml Frank's RedHot
+  - qty: 1
+    unit: tsp
+    name: white vinegar
+    raw: 1 teaspoon white vinegar
+  - qty: 0.5
+    unit: tsp
+    name: worcestershire sauce
+    raw: ½ teaspoon Worcestershire sauce
+  - qty: 0.5
+    unit: tsp
+    name: cayenne pepper
+    raw: ½ teaspoon cayenne pepper
+  - qty: 100
+    unit: g
+    name: blue cheese
+    raw: 100 g blue cheese
+  - qty: 100
+    unit: ml
+    name: soured cream
+    raw: 100 ml soured cream
+  - qty: 50
+    unit: g
+    name: mayonnaise
+    raw: 50 g mayonnaise
+  - qty: 1
+    unit: tbsp
+    name: white-wine vinegar
+    raw: 1 tablespoon white-wine vinegar
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 4
+    name: celery sticks
+    raw: 4 celery sticks
+  - qty: 2
+    name: carrots
+    raw: 2 carrots

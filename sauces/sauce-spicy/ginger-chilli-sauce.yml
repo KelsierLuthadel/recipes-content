@@ -1,0 +1,54 @@
+prep: 15 minutes
+cook: 5 minutes
+allergens:
+  - peanuts
+  - soy
+  - sesame
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meat
+  - onion
+  - ginger
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon fresh ginger
+  - qty: 2
+    unit: tbsp
+    name: spring onions
+    raw: 2 tablespoons spring onions
+  - qty: 1
+    name: red chilli
+    raw: 1 red chilli
+  - qty: 2
+    unit: tbsp
+    name: dark soy sauce
+    raw: 2 tablespoons dark soy sauce
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce
+    raw: 2 tablespoons light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: unrefined cane sugar
+    raw: 1 tablespoon unrefined cane sugar
+  - qty: 2
+    unit: tbsp
+    name: chicken stock
+    raw: 2 tablespoons Chicken Stock
+  - qty: 1
+    unit: tbsp
+    name: sesame oil
+    raw: 1 tablespoon sesame oil
+  - qty: 2
+    unit: tbsp
+    name: groundnut oil
+    raw: 2 tablespoons groundnut oil

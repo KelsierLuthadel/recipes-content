@@ -1,0 +1,70 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - meat
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - chili
+mentions: []
+ingredients:
+  - qty: 1
+    unit: tsp
+    name: cumin powder
+    raw: 1 teaspoon cumin powder
+  - qty: 0.25
+    unit: tsp
+    name: smoked paprika
+    raw: ¼ teaspoon smoked paprika
+  - qty: 1
+    unit: pinch
+    name: cayenne pepper
+    raw: Pinch of cayenne pepper
+  - qty: 1
+    unit: pinch
+    name: mexican oregano
+    raw: Pinch of Mexican oregano
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon sea salt
+  - qty: 1
+    unit: pinch
+    name: black pepper
+    raw: Pinch of black pepper
+  - qty: 150
+    unit: g
+    name: long-grain white rice
+    raw: 150g long-grain white rice
+  - qty: 2
+    unit: tsp
+    name: olive oil
+    raw: 2 teaspoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    unit: tbsp
+    name: pickled jalapenos
+    raw: 1 tablespoon pickled jalapeños , or fresh jalapeños if preferred
+  - qty: 100
+    unit: ml
+    name: tomato passata
+    raw: 100ml tomato passata
+  - qty: 100
+    unit: ml
+    name: light chicken stock
+    raw: 100ml light chicken stock
+  - name: water
+    raw: water

@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour 45 minutes
-allergens:
-  - dairy
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - lamb
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - lime
-  - coriander
-  - butter
-  - complex
-mentions:
-  - cuisine/iraq/timman-ahmar
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Bamia Iraqi
 
 ![Bamia Iraqi](resources/bamia-iraqi.jpg)

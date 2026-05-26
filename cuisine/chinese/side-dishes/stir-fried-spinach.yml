@@ -1,0 +1,36 @@
+prep: 10 minutes
+cook: 2 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - asian
+  - garlic
+  - spinach
+mentions: []
+ingredients:
+  - qty: 700
+    unit: g
+    name: spinach
+    raw: 700 grams fresh spinach
+  - qty: 1
+    unit: tbsp
+    name: oil
+    raw: 1 tablespoon oil
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - qty: 2
+    unit: tsp
+    name: garlic
+    raw: 2 teaspoons garlic

@@ -1,0 +1,54 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - butter
+  - cream
+  - honey
+  - nuts
+mentions:
+  - cuisine/mexican/desserts/atole
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml water
+  - qty: 0.25
+    unit: tsp
+    name: baking soda
+    raw: ¼ teaspoon baking soda
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 200
+    unit: g
+    name: blue cornmeal
+    raw: 200 g fine blue cornmeal
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 1
+    unit: tbsp
+    name: honey
+    raw: 1 tablespoon honey
+  - qty: 1
+    unit: tbsp
+    name: toasted pinon nuts
+    raw: 1 tablespoon toasted piñon nuts
+  - qty: 1
+    unit: tbsp
+    name: cranberries
+    raw: 1 tablespoon dried cranberries
+  - qty: 1.5
+    unit: tbsp
+    name: single cream
+    raw: 1-2 tablespoons single cream

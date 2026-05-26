@@ -1,0 +1,51 @@
+prep: 30 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - dessert
+  - asian
+  - coconut
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: glutinous rice flour
+    raw: 250 g glutinous rice flour
+  - qty: 20
+    unit: g
+    name: plain rice flour
+    raw: 20 g plain rice flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml hot water
+  - qty: 1
+    unit: tsp
+    name: pandan paste
+    raw: 1 teaspoon pandan paste
+  - name: green food colouring
+    raw: A few drops of green food colouring
+  - qty: 120
+    unit: g
+    name: palm sugar
+    raw: 120 g palm sugar , finely chopped or grated
+  - qty: 150
+    unit: g
+    name: coconut
+    raw: 150 g fresh grated coconut
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf

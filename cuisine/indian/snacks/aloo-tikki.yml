@@ -1,0 +1,106 @@
+prep: 25 minutes (plus 30 min chilling)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - asian
+  - onion
+  - ginger
+  - potato
+  - coriander
+  - yogurt
+  - chickpea
+  - chili
+  - complex
+  - holi
+  - hindu
+mentions:
+  - cuisine/indian/sauces-pickles/mint-chutney
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 700
+    unit: g
+    name: floury potatoes
+    raw: 700 g floury potatoes
+  - qty: 2
+    unit: tbsp
+    name: cornflour
+    raw: 2 tablespoons cornflour
+  - qty: 2
+    unit: tbsp
+    name: flour
+    raw: 2 tablespoons gram flour
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon ginger
+  - qty: 1
+    unit: small handful
+    name: coriander leaves
+    raw: 1 small handful coriander leaves
+  - qty: 1
+    unit: tbsp
+    name: mint or 1 teaspoon dried mint
+    raw: 1 tablespoon fresh mint or 1 teaspoon dried mint
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 0.5
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: ½ teaspoon Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 teaspoon Garam Masala
+  - qty: 1
+    unit: tsp
+    name: amchur
+    raw: 1 teaspoon amchur
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1.25
+    unit: tsp
+    name: salt
+    raw: 1 ¼ teaspoons salt
+  - qty: 5
+    unit: tbsp
+    name: vegetable oil
+    raw: 4-6 tablespoons vegetable oil
+  - qty: 4
+    unit: tbsp
+    name: yoghurt
+    raw: 4 tablespoons thick yoghurt
+  - qty: 3
+    unit: tbsp
+    name: tamarind chutney
+    raw: 3 tablespoons Tamarind Chutney
+  - qty: 3
+    unit: tbsp
+    name: mint-coriander chutney
+    raw: 3 tablespoons mint-coriander chutney
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 2
+    unit: tbsp
+    name: pomegranate seeds
+    raw: 2 tablespoons pomegranate seeds
+  - qty: 1
+    unit: tsp
+    name: chaat masala
+    raw: 1 teaspoon Chaat Masala
+  - qty: 1
+    unit: small handful
+    name: sev
+    raw: A small handful sev

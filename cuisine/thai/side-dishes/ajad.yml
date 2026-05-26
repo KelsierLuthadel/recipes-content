@@ -1,0 +1,60 @@
+prep: 10 minutes
+cook: 5 minutes (just for the syrup)
+allergens:
+  - peanuts
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - onion
+  - coriander
+  - nuts
+  - chili
+mentions:
+  - cuisine/chinese/snacks/spring-rolls
+ingredients:
+  - qty: 120
+    unit: ml
+    name: rice vinegar
+    raw: 120 ml rice vinegar
+  - qty: 60
+    unit: g
+    name: palm sugar
+    raw: 60 g palm sugar
+  - qty: 60
+    unit: ml
+    name: water
+    raw: 60 ml water
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 2
+    name: shallots
+    raw: 2 shallots
+  - qty: 1.5
+    name: red thai bird's-eye chillies
+    raw: 1-2 red Thai bird's-eye chillies
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 2
+    unit: tbsp
+    name: roasted peanuts
+    raw: 2 tablespoons roasted peanuts
+  - name: coriander leaves
+    raw: A few fresh coriander leaves
+  - qty: 1
+    unit: pinch
+    name: toasted sesame seeds
+    raw: A pinch of toasted sesame seeds

@@ -1,0 +1,77 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - sides
+  - asian
+  - onion
+  - garlic
+  - ginger
+  - spinach
+  - lemon
+  - coriander
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: waxy potatoes
+    raw: 500 g waxy potatoes
+  - qty: 400
+    unit: g
+    name: spinach
+    raw: 400 g fresh spinach
+  - qty: 3
+    unit: tbsp
+    name: ghee
+    raw: 3 tablespoons ghee
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: ½ teaspoon Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: garam masala
+    raw: ½ teaspoon Garam Masala
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - name: lemon
+    raw: A wedge of lemon
+  - name: chapati
+    raw: Chapati

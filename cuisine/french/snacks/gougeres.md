@@ -1,24 +1,3 @@
----
-prep: 25 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - mustard
-tags:
-  - vegetarian
-  - snack
-  - eggs
-  - butter
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Gougères
 
 ![Gougeres](resources/gougeres.jpg)

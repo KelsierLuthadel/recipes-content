@@ -1,0 +1,80 @@
+prep: 15 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - beef
+  - rice
+  - onion
+  - garlic
+  - lemon
+  - coriander
+  - butter
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 4
+    name: chicken thighs and drumsticks
+    raw: 4 bone-in chicken thighs and drumsticks
+  - qty: 1.4
+    unit: l
+    name: water
+    raw: 1.4 litres water
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: cardamom pods
+    raw: 4 cardamom pods
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 500
+    unit: g
+    name: molokhia
+    raw: 500 g frozen chopped molokhia
+  - qty: 4
+    unit: tbsp
+    name: unsalted butter
+    raw: 4 tablespoons unsalted butter
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons ground coriander
+  - qty: 1
+    unit: tsp
+    name: chilli flakes
+    raw: 1 teaspoon chilli flakes
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 4
+    name: white rice
+    raw: 4 servings cooked white rice
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: egyptian flatbread
+    raw: Egyptian flatbread

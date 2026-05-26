@@ -1,0 +1,64 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - soy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - meals
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: coconut oil
+    raw: 2 tablespoons coconut oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 3
+    name: ginger
+    raw: 3 cm fresh ginger
+  - qty: 500
+    unit: g
+    name: kabocha squash
+    raw: 500 g kabocha squash
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    name: aubergine
+    raw: 1 aubergine
+  - qty: 200
+    unit: g
+    name: long beans
+    raw: 200 g long beans
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce
+    raw: 2 tablespoons light soy sauce
+  - qty: 1
+    name: long red chilli
+    raw: 1 long red chilli
+  - name: black pepper
+    raw: Black pepper
+  - name: rice
+    raw: Cooked rice

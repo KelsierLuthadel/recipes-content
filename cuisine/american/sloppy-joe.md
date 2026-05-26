@@ -1,28 +1,3 @@
----
-prep: 10 minutes
-cook: 30 minutes
-allergens:
-  - meat
-  - mustard
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - meat
-  - beef
-  - onion
-  - garlic
-  - complex
-  - halloween
-mentions:
-  - bread-pasta/burger-buns
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sloppy Joe
 
 ![Sloppy Joe](resources/sloppy-joe.jpg)

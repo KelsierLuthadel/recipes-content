@@ -1,25 +1,3 @@
----
-prep: 5 minutes
-cook: 5 minutes
-allergens:
-  - gluten
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - quick
-  - snack
-  - fish
-  - prawn
-  - garlic
-  - chili
-mentions: []
----
-
-
-
-
 # Gambas al Ajillo
 
 ![Gambas al Ajillo](resources/gambas-al-ajillo.jpg)

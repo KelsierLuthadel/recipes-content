@@ -1,0 +1,48 @@
+prep: 10 minutes
+cook: 2 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - asian
+  - eggs
+  - rice
+  - diwali
+  - eid-al-fitr
+  - eid-al-adha
+  - ramadan
+  - holi
+  - muslim
+  - hindu
+mentions: []
+ingredients:
+  - qty: 750
+    unit: ml
+    name: milk
+    raw: 750 ml milk
+  - qty: 75
+    unit: g
+    name: short grain pudding rice
+    raw: 75 grams short grain pudding rice
+  - qty: 8
+    name: cardamom pods
+    raw: 8 cardamom pods
+  - qty: 6
+    name: egg yolks
+    raw: 6 egg yolks
+  - qty: 75
+    unit: g
+    name: caster sugar
+    raw: 75 grams caster sugar
+  - qty: 120
+    unit: g
+    name: caster sugar
+    raw: 120 grams caster sugar
+  - qty: 30
+    unit: g
+    name: liquid glucose
+    raw: 30 grams liquid glucose

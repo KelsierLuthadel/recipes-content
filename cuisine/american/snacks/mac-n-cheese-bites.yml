@@ -1,0 +1,95 @@
+prep: 30 minutes (plus 4 hours chilling)
+cook: 20 minutes (in batches)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - make-ahead
+  - eggs
+  - butter
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/american/side-dishes/mac-and-cheese
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: macaroni
+    raw: 300 g macaroni
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 40
+    unit: g
+    name: plain flour
+    raw: 40 g plain flour
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 250
+    unit: g
+    name: cheddar cheese
+    raw: 250 g mature cheddar cheese
+  - qty: 50
+    unit: g
+    name: parmesan cheese
+    raw: 50 g parmesan cheese
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 200
+    unit: g
+    name: panko breadcrumbs
+    raw: 200 g panko breadcrumbs
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 800
+    unit: ml
+    name: neutral oil
+    raw: 800 ml neutral oil
+  - name: ranch dressing
+    raw: Ranch dressing
+  - name: hot sauce
+    raw: Hot sauce

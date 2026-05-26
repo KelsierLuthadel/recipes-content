@@ -1,25 +1,3 @@
----
-prep: 30 minutes
-cook: 30 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - meals
-  - onion
-  - butter
-  - cream
-  - cheese
-mentions:
-  - cuisine/american/side-dishes/mac-and-cheese
-  - cuisine/german/spatzle
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Käsespätzle
 
 ![Käsespätzle](resources/kasespatzle.jpg)

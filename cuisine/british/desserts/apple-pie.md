@@ -1,28 +1,3 @@
----
-prep: 30 minutes (plus 30 minutes pastry rest)
-cook: 50 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - lemon
-  - butter
-  - cream
-  - complex
-  - halloween
-  - easter
-  - sukkot
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # British Apple Pie
 
 ![British Apple Pie](resources/apple-pie.jpg)

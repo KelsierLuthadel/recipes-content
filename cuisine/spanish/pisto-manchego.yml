@@ -1,0 +1,61 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - meals
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - cheese
+mentions: []
+ingredients:
+  - qty: 100
+    unit: ml
+    name: olive oil
+    raw: 100 ml olive oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    name: red peppers
+    raw: 2 red peppers
+  - qty: 2
+    name: green peppers
+    raw: 2 green peppers
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 1
+    name: aubergine
+    raw: 1 aubergine
+  - qty: 2
+    name: courgettes
+    raw: 2 courgettes
+  - qty: 6
+    name: tomatoes or 1 x 800 g tin chopped tomatoes
+    raw: 6 ripe tomatoes or 1 x 800 g tin chopped tomatoes
+  - qty: 1
+    unit: tsp
+    name: sweet smoked paprika
+    raw: 1 teaspoon sweet smoked paprika
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 4
+    name: eggs
+    raw: 4 eggs

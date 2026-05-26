@@ -1,0 +1,67 @@
+prep: 10 minutes
+allergens:
+  - dairy
+  - fish
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - starter
+  - asian
+  - fish
+  - coconut
+  - lime
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 75
+    unit: g
+    name: aubergines
+    raw: 75 grams aubergines
+  - qty: 75
+    unit: g
+    name: corn
+    raw: 75 grams baby corn
+  - qty: 75
+    unit: g
+    name: mange tout
+    raw: 75 grams mange tout
+  - qty: 75
+    unit: g
+    name: asparagus
+    raw: 75 grams asparagus
+  - qty: 75
+    unit: g
+    name: squash
+    raw: 75 grams squash
+  - qty: 75
+    unit: g
+    name: green beans
+    raw: 75 grams green beans
+  - qty: 8
+    name: red chillies
+    raw: 8 fresh red chillies
+  - qty: 2
+    name: lemon grass stalks
+    raw: 2 lemon grass stalks
+  - qty: 4
+    name: kaffir lime leaves
+    raw: 4 kaffir lime leaves
+  - qty: 30
+    unit: ml
+    name: vegetable oil
+    raw: 30 ml vegetable oil
+  - qty: 250
+    unit: ml
+    name: coconut milk
+    raw: 250 ml coconut milk
+  - qty: 2
+    unit: tbsp
+    name: thai fish sauce
+    raw: 2 tablespoons Thai fish sauce
+  - name: salt
+    raw: salt
+  - qty: 15
+    name: holy basil leaves
+    raw: 15 holy basil leaves

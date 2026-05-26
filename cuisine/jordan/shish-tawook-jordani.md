@@ -1,28 +1,3 @@
----
-prep: 20 minutes (plus 6 hours marinating)
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - make-ahead
-  - meals
-  - meat
-  - garlic
-  - tomato
-  - lemon
-  - yogurt
-  - complex
-mentions:
-  - cuisine/jordan/side-dishes/shrak
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Shish Tawook Jordani
 
 ![Shish Tawook Jordani](resources/shish-tawook-jordani.jpg)

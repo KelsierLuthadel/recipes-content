@@ -1,0 +1,51 @@
+prep: 25 minutes
+cook: 60 minutes
+allergens:
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meat
+mentions:
+  - base-ingredients/curry-paste/balti-masala-paste
+  - tutorials/stocks-sauces/stocks
+ingredients:
+  - qty: 1
+    name: oven-ready chicken
+    raw: 1 oven-ready chicken
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre cold water
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 100
+    unit: g
+    name: onion
+    raw: 100 grams onion
+  - qty: 2
+    name: celery sticks
+    raw: 2 celery sticks
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: balti masala paste
+    raw: 1 tablespoon Balti Masala Paste
+  - qty: 1
+    unit: tbsp
+    name: granulated sugar
+    raw: 1 tablespoon granulated sugar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt

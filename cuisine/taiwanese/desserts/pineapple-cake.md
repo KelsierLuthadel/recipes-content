@@ -1,24 +1,3 @@
----
-prep: 1 hour (plus 30 min chilling)
-cook: 45 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - butter
-  - honey
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Pineapple Cake
 
 ![Pineapple Cake](resources/pineapple-cake.jpg)

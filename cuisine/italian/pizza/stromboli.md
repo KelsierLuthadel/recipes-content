@@ -1,30 +1,3 @@
----
-prep: 30 minutes
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-  - garlic
-tags:
-  - meals
-  - meat
-  - pork
-  - eggs
-  - butter
-  - cheese
-mentions:
-  - cuisine/italian/pesto
-  - cuisine/italian/pizza/calzone
-  - tutorials/pizza/cheese
-  - tutorials/pizza/dough
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Stromboli
 
 ![Stromboli](resources/stromboli.jpg)

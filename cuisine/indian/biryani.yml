@@ -1,0 +1,125 @@
+prep: 4-6 hours
+cook: 45 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - asian
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - yogurt
+  - complex
+  - diwali
+  - eid-al-adha
+  - muslim
+  - hindu
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: lamb
+    raw: 500 grams lamb
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil
+    raw: 4 tablespoons sunflower oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 teaspoon mild chilli powder
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 225
+    unit: g
+    name: tomatoes
+    raw: 225 grams tinned tomatoes
+  - name: sea salt
+    raw: Fine sea salt to taste
+  - name: black pepper
+    raw: Freshly ground black pepper to taste
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon fresh ginger
+  - qty: 50
+    unit: ml
+    name: natural yogurt
+    raw: 50 milliliters natural yogurt
+  - qty: 6
+    unit: tbsp
+    name: coriander leaves
+    raw: 6 tablespoons fresh coriander leaves
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil
+    raw: 4 tablespoons sunflower oil
+  - qty: 2
+    unit: tsp
+    name: cumin seeds
+    raw: 2 teaspoons cumin seeds
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 6
+    name: cloves
+    raw: 6 whole cloves
+  - qty: 10
+    name: black peppercorns
+    raw: 10 black peppercorns
+  - qty: 4
+    name: cardamom pods
+    raw: 4 cardamom pods
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 225
+    unit: g
+    name: basmati rice
+    raw: 225 grams basmati rice
+  - qty: 1
+    unit: tsp
+    name: saffron threads
+    raw: 1 teaspoon saffron threads
+  - qty: 3
+    unit: tbsp
+    name: milk
+    raw: 3 tablespoons warm milk
+  - name: sea salt
+    raw: Fine sea salt to taste
+  - qty: 2
+    unit: tbsp
+    name: oil
+    raw: 2 tablespoons oil
+  - name: coriander leaves
+    raw: fresh coriander leaves
+  - name: fried onions
+    raw: Fried onions

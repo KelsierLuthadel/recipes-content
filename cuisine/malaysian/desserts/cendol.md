@@ -1,20 +1,3 @@
----
-prep: 25 minutes (plus 30 minutes chilling)
-cook: 20 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - dessert
-  - asian
-  - coconut
-mentions: []
----
-
-
-
-
 # Cendol
 
 ![Cendol](resources/cendol.jpg)

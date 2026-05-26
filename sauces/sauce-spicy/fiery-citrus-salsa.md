@@ -1,24 +1,3 @@
----
-prep: 15 minutes
-cook: 0 minutes
-allergens:
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - garlic
-  - lemon
-  - chili
-mentions: []
----
-
-
-
-
 # Fiery Citrus Salsa
 
 ![Fiery citrus salsa](resources/citrus-salsa.jpg)

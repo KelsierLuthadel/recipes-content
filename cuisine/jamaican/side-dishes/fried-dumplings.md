@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - quick
-  - sides
-  - coconut
-  - butter
-mentions:
-  - cuisine/jamaican/brown-stew-chicken
-  - cuisine/jamaican/callaloo
-  - tutorials/pizza/dough
----
-
-
-
-
 # Fried Dumplings / Johnny Cakes
 
 ![Fried Dumplings](resources/fried-dumplings.jpg)

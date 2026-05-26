@@ -1,0 +1,115 @@
+prep: 50 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+tags:
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - ginger
+  - coriander
+  - butter
+  - nuts
+  - complex
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/pastry/filo
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: chicken thighs
+    raw: 800 g boneless skinless chicken thighs
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon ground ginger
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon white pepper
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch flat-leaf parsley
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch coriander
+  - qty: 1
+    unit: tbsp
+    name: orange-flower water
+    raw: 1 tablespoon orange-flower water
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml water
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 200
+    unit: g
+    name: blanched whole almonds
+    raw: 200 g blanched whole almonds
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tbsp
+    name: orange-flower water
+    raw: 1 tablespoon orange-flower water
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 12
+    name: sheets of filo pastry
+    raw: 12 sheets of filo pastry
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 3
+    unit: tbsp
+    name: icing sugar
+    raw: 3 tablespoons icing sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon

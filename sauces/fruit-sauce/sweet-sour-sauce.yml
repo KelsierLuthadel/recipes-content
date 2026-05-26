@@ -1,0 +1,42 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - peanuts
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meat
+  - onion
+mentions:
+  - cuisine/chinese/snacks/spring-rolls
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: green peppers
+    raw: 200 grams green peppers
+  - qty: 200
+    unit: g
+    name: red peppers
+    raw: 200 grams red peppers
+  - qty: 2
+    unit: tbsp
+    name: groundnut oil
+    raw: 2 tablespoons groundnut oil
+  - qty: 200
+    unit: g
+    name: onions
+    raw: 200 grams onions
+  - qty: 100
+    unit: g
+    name: demerara sugar
+    raw: 100 grams demerara sugar
+  - qty: 100
+    unit: ml
+    name: red wine vinegar
+    raw: 100 ml red wine vinegar
+  - qty: 100
+    unit: ml
+    name: stock
+    raw: 100 ml stock

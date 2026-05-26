@@ -1,25 +1,3 @@
----
-prep: 15 minutes
-cook: 25 minutes
-allergens:
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - sides
-  - meat
-  - rice
-  - onion
-  - garlic
-  - spinach
-  - coriander
-mentions:
-  - cuisine/mexican/side-dishes/mexican-rice
----
-
-
-
-
 # Arroz Verde
 
 ![Arroz Verde](resources/arroz-verde.jpg)

@@ -1,0 +1,44 @@
+prep: 30 minutes
+cook: 5-6 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - eggs
+  - cheese
+  - chili
+mentions:
+  - baking/pastry/puff-pastry
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 400
+    unit: g
+    name: feuilletage
+    raw: 400 grams Feuilletage
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    unit: tbsp
+    name: milk
+    raw: 1 tablespoon whole milk
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: Pinch of fine sea salt
+  - qty: 80
+    unit: g
+    name: emmenthal
+    raw: 80 grams Emmenthal
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 1
+    unit: small pinch
+    name: cayenne pepper
+    raw: 1 small pinch cayenne pepper

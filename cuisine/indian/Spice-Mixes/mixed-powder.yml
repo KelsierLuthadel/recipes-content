@@ -1,0 +1,39 @@
+prep: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - spices
+  - coriander
+  - curry
+mentions: []
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: cumin
+    raw: 3 tbsp ground cumin
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tbsp ground coriander
+  - qty: 4
+    unit: tbsp
+    name: curry powder
+    raw: 4 tbsp Curry Powder
+  - qty: 3
+    unit: tbsp
+    name: paprika
+    raw: 3 tbsp paprika
+  - qty: 3
+    unit: tbsp
+    name: turmeric
+    raw: 3 tbsp ground turmeric
+  - qty: 1
+    unit: tbsp
+    name: garam masala
+    raw: 1 tbsp Garam Masala

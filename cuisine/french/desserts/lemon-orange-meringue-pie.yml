@@ -1,0 +1,77 @@
+prep: 10 minutes
+cook: 2 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - complex
+mentions:
+  - tutorials/bread/gluten
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: flour
+    raw: 250 grams flour
+  - qty: 200
+    unit: g
+    name: butter
+    raw: 200 grams butter
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 grams icing sugar
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: 1 pinch salt
+  - qty: 2
+    name: egg yolks
+    raw: 2 egg yolks
+  - qty: 1
+    unit: drop
+    name: vanilla essence
+    raw: 1 drop vanilla essence
+  - qty: 2
+    name: level tablespoons cornflour
+    raw: 2 level tablespoons cornflour
+  - qty: 100
+    unit: g
+    name: golden caster sugar
+    raw: 100 grams golden caster sugar
+  - name: zest 2 large lemons
+    raw: finely grated zest 2 large lemons
+  - qty: 125
+    unit: ml
+    name: lemon juice
+    raw: 125 ml fresh lemon juice
+  - name: juice 1 small orange
+    raw: juice 1 small orange
+  - qty: 85
+    unit: g
+    name: butter
+    raw: 85 grams butter
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 1
+    name: egg
+    raw: 1 whole egg
+  - qty: 4
+    name: egg whites
+    raw: 4 egg whites
+  - qty: 200
+    unit: g
+    name: golden caster sugar
+    raw: 200 grams golden caster sugar
+  - qty: 2
+    name: level teaspoons cornflour
+    raw: 2 level teaspoons cornflour

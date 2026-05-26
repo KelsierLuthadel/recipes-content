@@ -1,0 +1,116 @@
+prep: 20 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - carrot
+  - lemon
+  - coriander
+  - butter
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 2
+    name: potatoes
+    raw: 2 potatoes
+  - qty: 200
+    unit: g
+    name: cauliflower florets
+    raw: 200 g cauliflower florets
+  - qty: 100
+    unit: g
+    name: peas
+    raw: 100 g frozen peas
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: water
+    raw: Water to cover
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    unit: tbsp
+    name: ginger-garlic paste
+    raw: 1 tablespoon ginger-garlic paste
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 1
+    name: green capsicum
+    raw: 1 green capsicum
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes
+  - qty: 2
+    unit: tbsp
+    name: pav bhaji masala
+    raw: 2 tablespoons pav bhaji masala
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 teaspoon Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons lemon juice
+  - qty: 30
+    unit: g
+    name: coriander
+    raw: 30 g fresh coriander
+  - qty: 8
+    name: pav rolls
+    raw: 8 pav rolls
+  - qty: 40
+    unit: g
+    name: butter
+    raw: 40 g butter
+  - qty: 1
+    unit: tsp
+    name: pav bhaji masala
+    raw: 1 teaspoon pav bhaji masala
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - name: coriander
+    raw: Extra coriander

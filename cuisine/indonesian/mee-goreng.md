@@ -1,39 +1,3 @@
----
-prep: 10 minutes
-cook: 10 minutes
-allergens:
-  - gluten
-  - eggs
-  - soy
-  - sesame
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - quick
-  - meals
-  - asian
-  - meat
-  - fish
-  - pork
-  - prawn
-  - eggs
-  - onion
-  - garlic
-  - lime
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/stir-fry/wok-hei
----
-
-
-
-
 # Indonesian Mee Goreng
 
 ![Indonesian Mee Goreng](resources/mee-goreng.jpg)

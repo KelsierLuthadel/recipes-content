@@ -1,26 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - make-ahead
-mentions:
-  - cuisine/american/side-dishes/mac-and-cheese
-  - cuisine/british/side-dishes/cauliflower-cheese
-  - cuisine/french/snacks/croque-monsieur
-  - cuisine/greek/moussaka
-  - cuisine/italian/lasagne
-  - sauces/sauce-savory/cheese-sauce
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
-  - tutorials/stocks-sauces/espagnole
-  - tutorials/stocks-sauces/veloute
----
-
-
-
 # Bechamel
 
 ![Bechamel](resources/bechamel.jpg)

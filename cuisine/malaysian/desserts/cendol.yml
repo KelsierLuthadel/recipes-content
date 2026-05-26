@@ -1,0 +1,59 @@
+prep: 25 minutes (plus 30 minutes chilling)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - asian
+  - coconut
+mentions: []
+ingredients:
+  - qty: 80
+    unit: g
+    name: rice flour
+    raw: 80 grams rice flour
+  - qty: 20
+    unit: g
+    name: tapioca flour
+    raw: 20 grams tapioca flour
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - qty: 1
+    unit: tsp
+    name: pandan paste
+    raw: 1 teaspoon pandan paste
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
+  - qty: 150
+    unit: g
+    name: gula melaka
+    raw: 150 grams gula melaka , roughly chopped, or soft dark brown sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf, knotted
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml can coconut milk
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
+  - qty: 600
+    unit: g
+    name: crushed
+    raw: 600 grams crushed
+  - qty: 200
+    unit: g
+    name: sweetened red kidney beans
+    raw: 200 grams cooked sweetened red kidney beans, drained

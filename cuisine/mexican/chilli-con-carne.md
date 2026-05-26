@@ -1,39 +1,3 @@
----
-prep: 15 minutes
-cook: 1 hour 20 minutes
-allergens:
-  - soy
-  - meat
-  - celery
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - beef
-  - pork
-  - onion
-  - garlic
-  - carrot
-  - coriander
-  - chocolate
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - cuisine/american/side-dishes/baked-beans
-  - cuisine/american/side-dishes/cornbread
-  - cuisine/mexican/jays-mixed-chilli
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mixed Meat and Bean Chilli
 
 ![Chilli con carne](resources/jays_chilli.jpg)

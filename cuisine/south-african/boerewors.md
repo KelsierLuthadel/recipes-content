@@ -1,27 +1,3 @@
----
-prep: 10 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - meat
-tags:
-  - dairy-free
-  - make-ahead
-  - meals
-  - bbq
-  - meat
-  - beef
-  - pork
-  - onion
-  - tomato
-  - coriander
-  - complex
-mentions: []
----
-
-
-
-
 # Boerewors
 
 ![Boerewors](resources/boerewors.jpg)

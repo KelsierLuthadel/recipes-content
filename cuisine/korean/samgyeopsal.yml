@@ -1,0 +1,107 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - bbq
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - butter
+  - honey
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/chinese/fried-rice
+  - cuisine/korean/side-dishes/kimchi
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: pork belly
+    raw: 800 g skinless pork belly, cut into slabs 1 ½ to 2 cm thick
+  - qty: 2
+    unit: tbsp
+    name: doenjang
+    raw: 2 tbsp doenjang
+  - qty: 1
+    unit: tbsp
+    name: gochujang
+    raw: 1 tbsp gochujang
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 tsp sesame oil
+  - qty: 1
+    unit: tsp
+    name: toasted sesame seeds
+    raw: 1 tsp toasted sesame seeds
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove, grated
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion, finely chopped
+  - qty: 1
+    unit: tsp
+    name: honey
+    raw: 1 tsp honey
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions, julienned lengthwise and soaked in iced water
+  - qty: 1
+    unit: tbsp
+    name: gochugaru
+    raw: 1 tbsp gochugaru
+  - qty: 1
+    unit: tsp
+    name: rice vinegar
+    raw: 1 tsp rice vinegar
+  - qty: 1
+    unit: tsp
+    name: soy sauce
+    raw: 1 tsp soy sauce
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 tsp sesame oil
+  - qty: 0.5
+    unit: tsp
+    name: sugar
+    raw: ½ tsp sugar
+  - qty: 1
+    unit: tsp
+    name: toasted sesame seeds
+    raw: 1 tsp toasted sesame seeds
+  - qty: 1
+    name: head of soft butter lettuce
+    raw: 1 head of soft butter lettuce, leaves separated and washed
+  - qty: 12
+    name: sesame perilla leaves
+    raw: 12 sesame perilla leaves , if available
+  - qty: 1
+    name: garlic
+    raw: 1 whole bulb garlic, cloves thinly sliced
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies, sliced
+  - name: salt mixed with a few twists of black pepper
+    raw: Coarse salt mixed with a few twists of black pepper, in a small dish
+  - qty: 2
+    unit: tbsp
+    name: toasted sesame oil mixed with a pinch of salt
+    raw: 2 tbsp toasted sesame oil mixed with a pinch of salt, for dipping
+  - name: kimchi
+    raw: Kimchi
+  - name: steamed white rice
+    raw: Steamed white rice

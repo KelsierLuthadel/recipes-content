@@ -1,22 +1,3 @@
----
-prep: 15 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - quick
-  - snack
-  - asian
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Pisang Goreng (Indonesian Banana Fritters)
 
 ![Pisang Goreng](resources/pisang-goreng.jpg)

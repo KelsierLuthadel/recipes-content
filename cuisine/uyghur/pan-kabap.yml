@@ -1,0 +1,36 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - bbq
+  - meat
+  - lamb
+mentions:
+  - tutorials/rice/pilaf
+ingredients:
+  - qty: 280
+    unit: g
+    name: lamb
+    raw: 280 g lamb
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 2
+    unit: tsp
+    name: sweet chilli pepper powder
+    raw: 2 teaspoons sweet chilli pepper powder
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt

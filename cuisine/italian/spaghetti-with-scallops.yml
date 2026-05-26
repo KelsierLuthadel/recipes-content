@@ -1,0 +1,57 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - shellfish
+  - garlic
+tags:
+  - quick
+  - meals
+  - fish
+  - garlic
+  - lemon
+  - butter
+  - nuts
+mentions:
+  - cuisine/italian/pesto
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 45
+    unit: g
+    name: salted butter
+    raw: 45 grams salted butter
+  - qty: 250
+    unit: g
+    name: scallops
+    raw: 250 grams small scallops
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 50
+    unit: g
+    name: flat leaf parsley
+    raw: 50 grams fresh flat leaf parsley
+  - qty: 50
+    unit: g
+    name: pine nuts
+    raw: 50 grams pine nuts
+  - qty: 2
+    unit: tbsp
+    name: salted capers
+    raw: 2 tablespoons salted capers
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 130
+    unit: ml
+    name: virgin olive oil
+    raw: 130 ml extra virgin olive oil
+  - qty: 1
+    name: unwaxed lemon
+    raw: 1 unwaxed lemon
+  - qty: 500
+    unit: g
+    name: spaghettini
+    raw: 500 grams spaghettini

@@ -1,33 +1,3 @@
----
-prep: 25 minutes
-cook: 5 hours (stovetop) or 1 hour 30 minutes (pressure cooker)
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - mustard
-  - garlic
-tags:
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - lamb
-  - onion
-  - garlic
-  - ginger
-  - lemon
-  - coriander
-  - chili
-  - complex
-  - eid-al-adha
-  - muslim
-mentions: []
----
-
-
-
-
 # Lamb Nihari
 
 ![Lamb Nihari](resources/lamb-nihari.jpg)

@@ -1,0 +1,81 @@
+prep: 30 minutes
+cook: 1 ¼ hours
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - pork
+  - mushroom
+  - onion
+  - garlic
+  - butter
+  - nuts
+  - complex
+  - valentines
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: chicken
+    raw: 1 chicken , cut into 8 pieces
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour, seasoned with salt and pepper
+  - qty: 200
+    unit: g
+    name: smoked bacon lardons
+    raw: 200 g smoked bacon lardons
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 750
+    unit: ml
+    name: red wine
+    raw: 750 ml red wine
+  - qty: 50
+    unit: ml
+    name: brandy
+    raw: 50 ml brandy
+  - qty: 400
+    unit: ml
+    name: chicken stock
+    raw: 400 ml chicken stock
+  - qty: 1
+    name: bouquet garni
+    raw: 1 Bouquet Garni
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 200
+    unit: g
+    name: pearl onions
+    raw: 200 g pearl onions
+  - qty: 250
+    unit: g
+    name: chestnut mushrooms
+    raw: 250 g chestnut mushrooms
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons chopped flat-leaf parsley

@@ -1,36 +1,3 @@
----
-prep: 15 minutes
-cook: 18 minutes
-allergens:
-  - fish
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - asian
-  - meat
-  - fish
-  - chicken
-  - pork
-  - prawn
-  - rice
-  - onion
-  - garlic
-  - lime
-  - coriander
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Prik King
 
 ![Prik King](resources/prik-king.jpg)

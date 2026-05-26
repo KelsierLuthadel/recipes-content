@@ -1,0 +1,68 @@
+prep: 15 minutes
+allergens:
+  - eggs
+  - soy
+  - sesame
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - snack
+  - make-ahead
+  - asian
+  - meat
+  - pork
+  - eggs
+  - onion
+  - ginger
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: wuntun skins
+    raw: 1 packet wuntun skins
+  - qty: 500
+    unit: ml
+    name: oil
+    raw: 500 ml oil
+  - qty: 350
+    unit: g
+    name: pork
+    raw: 350 grams minced pork
+  - qty: 2
+    unit: tbsp
+    name: parma ham
+    raw: 2 tablespoons Parma ham
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tablespoon dark soy sauce
+  - qty: 1
+    unit: tbsp
+    name: dry sherry
+    raw: 1 tablespoon dry sherry
+  - qty: 1.5
+    unit: tbsp
+    name: spring onions
+    raw: 1 ½ tablespoons spring onions
+  - qty: 2
+    unit: tsp
+    name: ginger
+    raw: 2 teaspoons fresh ginger
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 0.5
+    unit: tsp
+    name: cornflour
+    raw: ½ teaspoon cornflour
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar

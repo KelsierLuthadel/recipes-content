@@ -1,28 +1,3 @@
----
-prep: 20 minutes (plus overnight salting and overnight cooling)
-cook: 2 hours
-allergens:
-  - soy
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - beef
-  - onion
-  - ginger
-  - soy-sauce
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Five-Spice Beef (Wuxiang Niurou)
 
 ![Five-Spice Beef (Wuxiang Niurou)](resources/five-spice-beef.jpg)

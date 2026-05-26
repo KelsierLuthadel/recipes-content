@@ -1,33 +1,3 @@
----
-prep: 20 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - eggs
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - meals
-  - meat
-  - beef
-  - lamb
-  - eggs
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - coriander
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Kefta Tagine
 
 ![Kefta Tagine](resources/kefta-tagine.jpg)

@@ -1,34 +1,3 @@
----
-prep: 10 minutes (plus overnight bean soak)
-cook: 2 hours
-allergens:
-  - gluten
-  - eggs
-  - sesame
-  - garlic
-tags:
-  - vegetarian
-  - dairy-free
-  - spicy
-  - make-ahead
-  - meals
-  - eggs
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - coriander
-  - chili
-  - complex
-mentions:
-  - cuisine/egyptian/side-dishes/aysh-baladi
-  - tutorials/pizza/sauce
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Ful Medames
 
 ![Ful Medames](resources/ful-medames.jpg)

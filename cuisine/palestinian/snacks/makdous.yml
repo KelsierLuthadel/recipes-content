@@ -1,0 +1,65 @@
+prep: 30 minutes active
+allergens:
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - garlic
+  - nuts
+  - chili
+mentions:
+  - cuisine/lebanese/side-dishes/labneh
+ingredients:
+  - qty: 600
+    unit: g
+    name: aubergines
+    raw: 600 g baby aubergines
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tablespoons salt
+  - qty: 200
+    unit: g
+    name: walnut halves
+    raw: 200 g walnut halves
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: hot red pepper paste
+    raw: 2 tablespoons hot red pepper paste
+  - qty: 1
+    unit: tsp
+    name: red chilli flakes
+    raw: 1 teaspoon dried red chilli flakes
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tablespoons salt
+  - qty: 425
+    unit: ml
+    name: extra-virgin olive oil
+    raw: 350-500 ml extra-virgin olive oil

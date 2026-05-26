@@ -1,0 +1,62 @@
+prep: 15 minutes
+cook: 3 minutes (for the temper)
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - coconut
+  - lime
+  - coriander
+  - chili
+  - curry
+mentions: []
+ingredients:
+  - qty: 2
+    name: cucumbers
+    raw: 2 cucumbers
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 60
+    unit: g
+    name: coconut
+    raw: 60 g fresh grated coconut
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: 1 small handful of coriander
+  - qty: 0.5
+    name: lime
+    raw: ½ lime
+  - qty: 1
+    unit: pinch
+    name: sugar
+    raw: A pinch of sugar
+  - qty: 1
+    unit: tbsp
+    name: coconut oil
+    raw: 1 tablespoon coconut oil
+  - qty: 1
+    unit: tsp
+    name: black mustard seeds
+    raw: 1 teaspoon black mustard seeds
+  - qty: 1
+    name: red chilli
+    raw: 1 dried red chilli
+  - qty: 10
+    name: curry leaves
+    raw: 10 fresh curry leaves
+  - qty: 1
+    unit: pinch
+    name: asafoetida
+    raw: A pinch of asafoetida

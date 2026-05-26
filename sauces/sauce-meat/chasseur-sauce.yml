@@ -1,0 +1,51 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - quick
+  - meat
+  - mushroom
+  - onion
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 grams butter
+  - qty: 200
+    unit: g
+    name: button mushrooms
+    raw: 200 grams button mushrooms
+  - qty: 40
+    unit: g
+    name: shallots
+    raw: 40 grams shallots
+  - qty: 400
+    unit: ml
+    name: dry white wine
+    raw: 400 ml dry white wine
+  - qty: 400
+    unit: ml
+    name: veal stock
+    raw: 400 ml Veal stock
+  - qty: 1
+    unit: tbsp
+    name: flat leaf parsley
+    raw: 1 tablespoon flat leaf parsley
+  - qty: 1
+    unit: tsp
+    name: tarragon
+    raw: 1 teaspoon tarragon
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

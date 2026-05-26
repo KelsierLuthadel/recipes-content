@@ -1,0 +1,64 @@
+prep: 25 minutes (plus 1 hour chill)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - make-ahead
+  - eggs
+  - butter
+  - cream
+  - cheese
+  - complex
+mentions:
+  - baking/pastry/rough-puff-pastry
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 200
+    unit: g
+    name: cold lard
+    raw: 200 g cold lard , cubed
+  - qty: 100
+    unit: g
+    name: semi-hard cheese
+    raw: 100 g semi-hard cheese, finely grated
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 100
+    unit: ml
+    name: sour cream
+    raw: 100 ml sour cream
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    name: egg
+    raw: 1 egg, beaten with 1 teaspoon water
+  - qty: 50
+    unit: g
+    name: semi-hard cheese
+    raw: 50 g semi-hard cheese, grated
+  - name: flaky salt
+    raw: Flaky salt

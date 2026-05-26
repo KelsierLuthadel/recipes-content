@@ -1,36 +1,3 @@
----
-prep: 20 minutes
-cook: 45 minutes
-allergens:
-  - dairy
-  - fish
-  - meat
-  - garlic
-tags:
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - fish
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - coconut
-  - lime
-  - coriander
-  - chili
-  - curry
-  - complex
-mentions:
-  - base-ingredients/curry-powder/sri-lankan
-  - cuisine/sri-lankan/pol-sambol
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Sri Lankan Chicken Curry
 
 ![Sri Lankan Chicken Curry](resources/sri-lankan-chicken-curry.jpg)

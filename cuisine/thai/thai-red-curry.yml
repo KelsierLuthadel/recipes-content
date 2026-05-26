@@ -1,0 +1,111 @@
+prep: 25 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - prawn
+  - onion
+  - garlic
+  - coconut
+  - lime
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - bread-pasta/naan
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 15
+    name: red chillies
+    raw: 15 red chillies
+  - qty: 4
+    name: shallots
+    raw: 4 shallots
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: galangal
+    raw: 1 tablespoon galangal
+  - qty: 2
+    name: lemongrass stalks
+    raw: 2 lemongrass stalks
+  - qty: 3
+    name: kaffir lime leaves
+    raw: 3 kaffir lime leaves
+  - qty: 4
+    name: coriander roots
+    raw: 4 coriander roots
+  - qty: 10
+    name: black peppercorns
+    raw: 10 black peppercorns
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 teaspoon coriander seeds
+  - qty: 0.5
+    unit: tsp
+    name: cumin seeds
+    raw: ½ teaspoon cumin seeds
+  - qty: 1
+    unit: pinch
+    name: cinnamon
+    raw: Pinch of ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: shrimp paste
+    raw: ½ teaspoon shrimp paste
+  - qty: 2
+    unit: tbsp
+    name: oil
+    raw: 2 tablespoons oil
+  - qty: 1
+    unit: l
+    name: coconut milk
+    raw: 1 litre coconut milk
+  - qty: 450
+    unit: g
+    name: chicken breast
+    raw: 450 grams skinless chicken breast
+  - qty: 2
+    unit: tbsp
+    name: thai fish sauce
+    raw: 2 tablespoons Thai fish sauce
+  - qty: 1
+    unit: tbsp
+    name: granulated sugar
+    raw: 1 tablespoon granulated sugar
+  - qty: 225
+    unit: g
+    name: bamboo shoots
+    raw: 225 grams bamboo shoots
+  - qty: 5
+    name: kaffir lime leaves
+    raw: 5 kaffir lime leaves
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - name: red chillies
+    raw: Fresh red chillies
+  - name: thai basil leaves
+    raw: Thai basil leaves
+  - name: mint leaves
+    raw: Fresh mint leaves

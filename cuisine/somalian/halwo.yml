@@ -1,0 +1,47 @@
+prep: 5 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - peanuts
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - butter
+  - nuts
+mentions:
+  - cuisine/israel/desserts/halva
+ingredients:
+  - qty: 200
+    unit: g
+    name: cornflour
+    raw: 200 g cornflour
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml water
+  - qty: 600
+    unit: g
+    name: caster sugar
+    raw: 600 g caster sugar
+  - qty: 1
+    unit: generous pinch
+    name: saffron threads
+    raw: A generous pinch of saffron threads
+  - qty: 200
+    unit: g
+    name: ghee
+    raw: 200 g ghee
+  - qty: 1
+    unit: tbsp
+    name: cardamom
+    raw: 1 tablespoon ground cardamom
+  - qty: 100
+    unit: g
+    name: unsalted peanuts
+    raw: 100 g unsalted peanuts , roughly chopped
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract

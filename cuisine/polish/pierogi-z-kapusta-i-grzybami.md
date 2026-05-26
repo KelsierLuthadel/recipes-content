@@ -1,28 +1,3 @@
----
-prep: 50 minutes
-cook: 35 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - make-ahead
-  - meals
-  - eggs
-  - mushroom
-  - onion
-  - butter
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Pierogi Z Kapustą I Grzybami
 
 ![Pierogi z Kapustą i Grzybami](resources/pierogi-z-kapusta-i-grzybami.jpg)

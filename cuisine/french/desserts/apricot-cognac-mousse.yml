@@ -1,0 +1,48 @@
+prep: 10 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - cream
+  - nuts
+mentions: []
+ingredients:
+  - qty: 850
+    unit: ml
+    name: sirop a sorbet
+    raw: 850 ml sirop a sorbet
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 10
+    name: apricots
+    raw: 10 ripe apricots
+  - qty: 2
+    name: sheets leaf gelatine
+    raw: 2 sheets leaf gelatine
+  - qty: 30
+    unit: ml
+    name: cognac
+    raw: 30 ml Cognac
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml very cold double cream
+  - name: caramelised almonds
+    raw: caramelised almonds
+  - qty: 125
+    unit: g
+    name: caster sugar
+    raw: 125 grams caster sugar
+  - qty: 40
+    unit: g
+    name: liquid glucose
+    raw: 40 grams liquid glucose
+  - qty: 32
+    name: blanched almonds
+    raw: 32 blanched almonds

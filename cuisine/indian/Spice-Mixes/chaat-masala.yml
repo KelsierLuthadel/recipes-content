@@ -1,0 +1,56 @@
+prep: 8 minutes
+cook: 2 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - spices
+  - coriander
+mentions: []
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: cumin seeds
+    raw: 3 tbsp cumin seeds
+  - qty: 3
+    unit: tbsp
+    name: coriander seeds
+    raw: 3 tbsp coriander seeds
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 tsp chilli powder
+  - qty: 4
+    unit: tbsp
+    name: amchoor
+    raw: 4 tbsp amchoor
+  - qty: 3
+    unit: tbsp
+    name: powdered black salt
+    raw: 3 tbsp powdered black salt
+  - qty: 1
+    unit: tbsp
+    name: black pepper
+    raw: 1 tbsp freshly ground black pepper
+  - qty: 1
+    unit: pinch
+    name: asafoetida
+    raw: Pinch of asafoetida
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tbsp dried mint
+  - qty: 1
+    unit: tbsp
+    name: garlic powder
+    raw: 1 tbsp garlic powder
+  - qty: 1
+    unit: tsp
+    name: ajwain seeds
+    raw: 1 tsp ajwain seeds

@@ -1,0 +1,48 @@
+prep: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - baking
+  - eggs
+  - butter
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 40
+    unit: g
+    name: sugar
+    raw: 40 grams sugar
+  - qty: 10
+    unit: g
+    name: salt
+    raw: 10 grams salt
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml cold water
+  - qty: 17
+    unit: g
+    name: yeast
+    raw: 17 grams fresh yeast
+  - qty: 25
+    unit: g
+    name: milk powder
+    raw: 25 grams milk powder
+  - qty: 500
+    unit: g
+    name: flour
+    raw: 500 grams strong flour
+  - qty: 300
+    unit: g
+    name: butter
+    raw: 300 grams butter
+  - name: eggwash
+    raw: eggwash
+  - name: isosceles triangle template 14 x 18 cm
+    raw: Isosceles triangle template 14 x 18 cm

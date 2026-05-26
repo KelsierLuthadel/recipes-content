@@ -1,0 +1,106 @@
+prep: 30 minutes
+cook: 10 minutes
+allergens:
+  - eggs
+  - soy
+  - sesame
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - asian
+  - meat
+  - fish
+  - pork
+  - prawn
+  - eggs
+  - mushroom
+  - onion
+  - garlic
+  - carrot
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: pork mince
+    raw: 250 g pork mince
+  - qty: 150
+    unit: g
+    name: prawns
+    raw: 150 g raw prawns
+  - qty: 3
+    name: coriander roots
+    raw: 3 coriander roots
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: white peppercorns
+    raw: 1 teaspoon white peppercorns
+  - qty: 2
+    unit: tbsp
+    name: oyster sauce
+    raw: 2 tablespoons oyster sauce
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tablespoon light soy sauce
+  - qty: 1
+    unit: tsp
+    name: dark soy sauce
+    raw: 1 teaspoon dark soy sauce
+  - qty: 2
+    unit: tsp
+    name: caster sugar
+    raw: 2 teaspoons caster sugar
+  - qty: 1
+    unit: tsp
+    name: sesame oil
+    raw: 1 teaspoon sesame oil
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: tbsp
+    name: cornstarch
+    raw: 1 tablespoon cornstarch
+  - qty: 2
+    name: shiitake mushrooms
+    raw: 2 dried shiitake mushrooms
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 20
+    name: square wonton wrappers
+    raw: 20 square wonton wrappers
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 4
+    unit: tbsp
+    name: black soy sauce
+    raw: 4 tablespoons black soy sauce
+  - qty: 2
+    unit: tbsp
+    name: rice vinegar
+    raw: 2 tablespoons rice vinegar
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1.5
+    name: red thai bird's-eye chillies
+    raw: 1-2 red Thai bird's-eye chillies
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove

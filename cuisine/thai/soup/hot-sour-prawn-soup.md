@@ -1,29 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes
-allergens:
-  - fish
-  - shellfish
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - asian
-  - fish
-  - prawn
-  - mushroom
-  - onion
-  - lime
-  - coriander
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Hot and Sour Prawn Soup
 
 ![Hot and sour prawn soup](resources/hot-sour-prawn-soup.jpg)

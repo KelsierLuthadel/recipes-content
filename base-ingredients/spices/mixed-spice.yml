@@ -1,0 +1,51 @@
+prep: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - spices
+  - ginger
+  - coriander
+  - chili
+mentions: []
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: allspice
+    raw: 1 tablespoon ground allspice
+  - qty: 1
+    unit: tbsp
+    name: cinnamon
+    raw: 1 tablespoon ground cinnamon
+  - qty: 1
+    unit: tbsp
+    name: nutmeg
+    raw: 1 tablespoon ground nutmeg
+  - qty: 2
+    unit: tsp
+    name: mace
+    raw: 2 teaspoons ground mace
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 teaspoon ground cloves
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon ground ginger
+  - qty: 0.25
+    unit: tsp
+    name: cayenne pepper
+    raw: ¼ teaspoon cayenne pepper
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt

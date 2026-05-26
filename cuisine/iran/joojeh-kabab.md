@@ -1,27 +1,3 @@
----
-prep: 20 minutes (plus 6 hours marinating)
-cook: 15 minutes
-allergens:
-  - dairy
-  - meat
-tags:
-  - gluten-free
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - onion
-  - tomato
-  - lemon
-  - butter
-  - yogurt
-  - complex
-mentions: []
----
-
-
-
-
 # Joojeh Kabab
 
 ![Joojeh Kabab](resources/joojeh-kabab.jpg)

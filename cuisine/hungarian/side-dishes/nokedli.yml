@@ -1,0 +1,44 @@
+prep: 10 minutes
+cook: 8 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - sides
+  - eggs
+  - butter
+mentions:
+  - cuisine/german/spatzle
+  - cuisine/hungarian/chicken-paprikash
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 180
+    unit: ml
+    name: water
+    raw: 180 ml water
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 40
+    unit: g
+    name: unsalted butter
+    raw: 40 g unsalted butter
+  - name: black pepper
+    raw: Black pepper
+  - qty: 1
+    unit: tbsp
+    name: parsley
+    raw: 1 tablespoon fresh parsley, chopped

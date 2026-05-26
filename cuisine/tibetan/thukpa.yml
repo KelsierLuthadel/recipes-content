@@ -1,0 +1,117 @@
+prep: 30 minutes (plus 30 minutes dough rest)
+cook: 40 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - spinach
+  - carrot
+  - lemon
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/tibetan/side-dishes/sepen
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour, plus extra for dusting
+  - qty: 140
+    unit: ml
+    name: water
+    raw: 130-150 ml warm water
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 400
+    unit: g
+    name: beef
+    raw: 400 g lean beef , sliced thinly across the grain into 4 cm strips
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 5
+    name: ginger
+    raw: 5 cm fresh ginger
+  - qty: 1
+    name: tomato
+    raw: 1 tomato
+  - qty: 1
+    unit: tsp
+    name: sichuan peppercorns
+    raw: 1 teaspoon Sichuan peppercorns
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon turmeric
+  - qty: 1.5
+    unit: l
+    name: beef
+    raw: 1 ½ litres beef
+  - qty: 1
+    unit: tbsp
+    name: soy sauce
+    raw: 1 tablespoon soy sauce
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    name: daikon
+    raw: 1 daikon
+  - qty: 100
+    unit: g
+    name: cabbage
+    raw: 100 g cabbage
+  - qty: 100
+    unit: g
+    name: spinach
+    raw: 100 g spinach
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    name: coriander
+    raw: A small bunch of coriander
+  - qty: 1.5
+    name: green chillies
+    raw: 1-2 fresh green chillies
+  - name: lemon wedges
+    raw: Lemon wedges

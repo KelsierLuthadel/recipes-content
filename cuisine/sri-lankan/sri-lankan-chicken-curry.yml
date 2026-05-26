@@ -1,0 +1,116 @@
+prep: 20 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - fish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - base-ingredients/curry-powder/sri-lankan
+  - cuisine/sri-lankan/pol-sambol
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: coriander seeds
+    raw: 2 tablespoons coriander seeds
+  - qty: 1
+    unit: tbsp
+    name: cumin seeds
+    raw: 1 tablespoon cumin seeds
+  - qty: 1
+    unit: tbsp
+    name: fennel seeds
+    raw: 1 tablespoon fennel seeds
+  - qty: 4
+    name: cardamom pods
+    raw: 4 cardamom pods
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 0.5
+    unit: tsp
+    name: fenugreek seeds
+    raw: ½ teaspoon fenugreek seeds
+  - qty: 4
+    name: red chillies
+    raw: 4 dried red chillies
+  - qty: 1
+    unit: kg
+    name: chicken thighs and drumsticks
+    raw: 1 kg chicken thighs and drumsticks
+  - qty: 3
+    unit: tbsp
+    name: coconut oil
+    raw: 3 tablespoons coconut oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 3
+    name: ginger
+    raw: 3 cm fresh ginger
+  - qty: 2
+    unit: sprig
+    name: curry leaves
+    raw: 2 sprigs fresh curry leaves
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf
+  - qty: 1
+    name: lemongrass
+    raw: 1 stalk lemongrass
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 2
+    unit: tsp
+    name: turmeric
+    raw: 2 teaspoons ground turmeric
+  - qty: 2
+    unit: tsp
+    name: sweet paprika
+    raw: 2 teaspoons sweet paprika
+  - qty: 1.5
+    name: long green chillies
+    raw: 1-2 long green chillies
+  - qty: 1
+    unit: tbsp
+    name: maldive fish flakes
+    raw: 1 tablespoon Maldive fish flakes
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml tin coconut milk
+  - qty: 200
+    unit: ml
+    name: chicken stock
+    raw: 200 ml chicken stock
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 0.5
+    name: lime
+    raw: ½ lime

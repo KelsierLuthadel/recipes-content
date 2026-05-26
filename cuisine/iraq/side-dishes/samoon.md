@@ -1,22 +1,3 @@
----
-prep: 25 minutes (plus 1 hour 30 minutes rising)
-cook: 18 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - make-ahead
-  - sides
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Samoon
 
 ![Samoon](resources/samoon.jpg)

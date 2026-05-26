@@ -1,0 +1,113 @@
+prep: 20 minutes
+cook: 1 ¼ hours
+allergens:
+  - gluten
+  - soy
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - tofu
+  - mushroom
+  - onion
+  - ginger
+  - carrot
+  - lime
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 8
+    name: ginger
+    raw: 8 cm fresh ginger
+  - qty: 4
+    name: star anise
+    raw: 4 star anise
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 5
+    name: cloves
+    raw: 5 cloves
+  - qty: 1
+    unit: tbsp
+    name: coriander seeds
+    raw: 1 tablespoon coriander seeds
+  - qty: 1
+    unit: tbsp
+    name: black peppercorns
+    raw: 1 tablespoon black peppercorns
+  - qty: 25
+    unit: g
+    name: shiitake mushrooms
+    raw: 25 g dried shiitake mushrooms
+  - qty: 1
+    name: kombu
+    raw: 1 piece kombu
+  - qty: 250
+    unit: g
+    name: daikon
+    raw: 250 g daikon
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2 ½ litres water
+  - qty: 60
+    unit: ml
+    name: light soy sauce
+    raw: 60 ml light soy sauce
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 1
+    unit: tbsp
+    name: brown sugar
+    raw: 1 tablespoon brown sugar
+  - qty: 400
+    unit: g
+    name: flat rice noodles
+    raw: 400 g flat rice noodles
+  - qty: 300
+    unit: g
+    name: firm tofu
+    raw: 300 g firm tofu
+  - qty: 1
+    unit: large handful
+    name: thai basil leaves
+    raw: A large handful Thai basil leaves
+  - qty: 1
+    unit: large handful
+    name: coriander
+    raw: A large handful coriander
+  - qty: 1
+    unit: large handful
+    name: mint
+    raw: A large handful mint
+  - qty: 200
+    unit: g
+    name: beansprouts
+    raw: 200 g beansprouts
+  - qty: 2
+    name: limes
+    raw: 2 limes
+  - qty: 2
+    name: bird's-eye chillies
+    raw: 2 bird's-eye chillies
+  - name: hoisin sauce
+    raw: Hoisin sauce
+  - name: sriracha
+    raw: Sriracha

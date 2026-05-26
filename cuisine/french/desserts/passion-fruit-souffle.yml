@@ -1,0 +1,56 @@
+prep: 10 minutes
+cook: 9 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+mentions: []
+ingredients:
+  - qty: 70
+    unit: g
+    name: butter
+    raw: 70 grams butter
+  - qty: 70
+    unit: g
+    name: caster sugar
+    raw: 70 grams caster sugar
+  - qty: 70
+    unit: g
+    name: caster sugar
+    raw: 70 grams caster sugar
+  - qty: 5
+    name: kiwi fruit
+    raw: 5 kiwi fruit
+  - qty: 10
+    name: passion fruit
+    raw: 10 passion fruit
+  - qty: 6
+    name: egg whites
+    raw: 6 egg whites
+  - qty: 4
+    name: egg yolks
+    raw: 4 egg yolks
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 grams caster sugar
+  - qty: 25
+    unit: g
+    name: plain flour
+    raw: 25 grams plain flour
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml milk
+  - qty: 2
+    name: kiwi fruit
+    raw: 2 kiwi fruit
+  - qty: 3
+    name: passion fruit
+    raw: 3 passion fruit

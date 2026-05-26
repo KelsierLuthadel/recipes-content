@@ -1,29 +1,3 @@
----
-prep: 25 minutes
-cook: 1 ¾ hours
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - meat
-tags:
-  - meals
-  - meat
-  - eggs
-  - mushroom
-  - onion
-  - carrot
-  - lemon
-  - butter
-  - cream
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Blanquette de Veau
 
 ![Blanquette de Veau](resources/blanquette-de-veau.jpg)

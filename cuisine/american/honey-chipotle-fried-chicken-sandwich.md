@@ -1,33 +1,3 @@
----
-prep: 30 minutes (plus 3 hours marinating)
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - soy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - make-ahead
-  - meals
-  - meat
-  - chicken
-  - garlic
-  - potato
-  - lemon
-  - honey
-  - chili
-  - soy-sauce
-  - complex
-mentions:
-  - sauces/sauce-spicy/chipotle-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Honey Chipotle Fried Chicken Sandwich
 
 ![Honey Chipotle Fried Chicken Sandwich](resources/honey-chipotle-fried-chicken-sandwich.jpg)

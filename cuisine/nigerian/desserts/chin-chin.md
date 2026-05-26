@@ -1,24 +1,3 @@
----
-prep: 45 minutes (plus 30 minutes resting)
-cook: 25 minutes (in batches)
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - lemon
-  - butter
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Chin-Chin
 
 ![Chin-Chin](resources/chin-chin.jpg)

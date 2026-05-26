@@ -1,0 +1,41 @@
+prep: 10 minutes
+cook: 4 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - onion
+mentions:
+  - cuisine/indian/Breads/rotis
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - name: ice cubes
+    raw: Ice cubes
+  - qty: 3
+    unit: tbsp
+    name: tomato ketchup
+    raw: 3 tablespoons tomato ketchup
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tablespoon tomato purée
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 teaspoon chilli powder
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 1
+    unit: tsp
+    name: roasted cumin seeds
+    raw: 1 teaspoon roasted cumin seeds

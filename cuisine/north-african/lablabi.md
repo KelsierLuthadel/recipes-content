@@ -1,29 +1,3 @@
----
-prep: 15 minutes
-cook: 30 minutes (assuming pre-cooked chickpeas)
-allergens:
-  - gluten
-  - eggs
-  - fish
-  - garlic
-tags:
-  - dairy-free
-  - spicy
-  - make-ahead
-  - meals
-  - fish
-  - eggs
-  - garlic
-  - lemon
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/toppings
----
-
-
-
-
 # Lablabi
 
 ![Lablabi](resources/lablabi.jpg)

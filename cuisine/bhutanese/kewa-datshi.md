@@ -1,32 +1,3 @@
----
-prep: 10 minutes
-cook: 25 minutes
-allergens:
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - one-pan
-  - meals
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - potato
-  - butter
-  - cheese
-  - chili
-mentions:
-  - cuisine/bhutanese/ema-datshi
-  - tutorials/pizza/cheese
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Kewa Datshi
 
 ![Kewa Datshi](resources/kewa-datshi.jpg)

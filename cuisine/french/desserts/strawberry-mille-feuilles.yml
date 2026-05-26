@@ -1,0 +1,36 @@
+prep: 10 minutes
+cook: 11 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - make-ahead
+  - cream
+mentions: []
+ingredients:
+  - qty: 240
+    unit: g
+    name: puff pastry
+    raw: 240 grams puff pastry
+  - qty: 60
+    unit: g
+    name: icing sugar
+    raw: 60 grams icing sugar
+  - qty: 1
+    name: sheet leaf gelatine
+    raw: 1 sheet leaf gelatine
+  - qty: 350
+    unit: ml
+    name: warm creme anglaise
+    raw: 350 ml warm crème anglaise
+  - qty: 50
+    unit: ml
+    name: whipping cream
+    raw: 50 ml whipping cream
+  - qty: 300
+    unit: g
+    name: strawberries
+    raw: 300 grams strawberries

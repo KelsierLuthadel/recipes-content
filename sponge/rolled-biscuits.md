@@ -1,23 +1,3 @@
----
-prep: 20 minutes
-cook: 6-10 minutes
-allergens:
-  - gluten
-  - eggs
-tags:
-  - vegetarian
-  - dairy-free
-  - quick
-  - eggs
-  - potato
-mentions:
-  - sponge/sponge-base
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Rolled Biscuits
 
 ![Rolled Biscuits](resources/rolled-biscuits.png)

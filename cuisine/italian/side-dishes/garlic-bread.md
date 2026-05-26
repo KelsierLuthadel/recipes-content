@@ -1,26 +1,3 @@
----
-prep: 10 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - garlic
-tags:
-  - vegetarian
-  - spicy
-  - quick
-  - sides
-  - garlic
-  - butter
-  - cheese
-  - chili
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Garlic Bread
 
 ![Garlic Bread](resources/garlic-bread.jpg)

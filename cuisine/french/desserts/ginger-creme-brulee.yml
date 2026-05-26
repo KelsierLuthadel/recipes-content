@@ -1,0 +1,43 @@
+prep: 10 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - eggs
+  - ginger
+  - cream
+mentions:
+  - cuisine/french/desserts/creme-brulee
+ingredients:
+  - qty: 80
+    unit: g
+    name: ginger
+    raw: 80 grams root ginger
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml milk
+  - qty: 500
+    unit: ml
+    name: whipping cream
+    raw: 500 ml whipping cream
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 grams caster sugar
+  - qty: 200
+    unit: g
+    name: egg yolks
+    raw: 200 grams egg yolks
+  - qty: 70
+    unit: g
+    name: demerara sugar
+    raw: 70 grams demerara sugar
+  - qty: 80
+    unit: g
+    name: preserved stem ginger in syrup
+    raw: 80 grams preserved stem ginger in syrup

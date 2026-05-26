@@ -1,31 +1,3 @@
----
-prep: 15 minutes
-cook: 50 minutes
-allergens:
-  - meat
-  - celery
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - chicken
-  - beef
-  - pork
-  - rice
-  - onion
-  - garlic
-  - chili
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Dirty Rice
 
 ![Dirty Rice](resources/dirty-rice.jpg)

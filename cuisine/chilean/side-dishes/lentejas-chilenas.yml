@@ -1,0 +1,88 @@
+prep: 15 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - one-pan
+  - sides
+  - meat
+  - pork
+  - lentils
+  - onion
+  - garlic
+  - tomato
+  - carrot
+  - complex
+mentions:
+  - cuisine/chilean/side-dishes/marraqueta
+ingredients:
+  - qty: 400
+    unit: g
+    name: green lentils
+    raw: 400 g green lentils
+  - qty: 200
+    unit: g
+    name: smoked streaky bacon
+    raw: 200 g smoked streaky bacon
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 1
+    unit: stick
+    name: celery
+    raw: 1 stick celery
+  - qty: 2
+    name: tomatoes or 1 small tin chopped tomatoes
+    raw: 2 fresh tomatoes or 1 small tin chopped tomatoes
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato puree
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1.4
+    unit: l
+    name: stock
+    raw: 1.4 litres hot stock
+  - qty: 2
+    name: potatoes
+    raw: 2 potatoes
+  - qty: 1
+    unit: tbsp
+    name: red wine vinegar
+    raw: 1 tablespoon red wine vinegar
+  - qty: 3
+    unit: tbsp
+    name: parsley
+    raw: 3 tablespoons fresh parsley

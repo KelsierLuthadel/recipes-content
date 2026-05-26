@@ -1,28 +1,3 @@
----
-prep: 15 minutes (plus 2+ hours marinating)
-cook: 15 minutes
-allergens:
-  - dairy
-  - meat
-tags:
-  - gluten-free
-  - quick
-  - make-ahead
-  - meals
-  - bbq
-  - meat
-  - chicken
-  - onion
-  - coconut
-  - lime
-mentions:
-  - cuisine/jamaican/side-dishes/rice-and-peas
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Grilled Jerk Chicken Thighs
 
 ![Grilled Jerk Chicken Thighs](resources/grilled-jerk-chicken-thighs.jpg)

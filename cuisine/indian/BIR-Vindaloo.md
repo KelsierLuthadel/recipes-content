@@ -1,31 +1,3 @@
----
-prep: 15 minutes
-cook: 4 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - chicken
-  - onion
-  - garlic
-  - ginger
-  - coriander
-  - complex
-mentions:
-  - cuisine/indian/BIR-Chicken-Vindaloo
----
-
-
-
-
 # Vindaloo (Restaurant-Style)
 
 ![Vindaloo (Restaurant-Style)](resources/BIR-Vindaloo.jpg)

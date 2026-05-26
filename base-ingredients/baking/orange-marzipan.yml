@@ -1,0 +1,39 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dairy-free
+  - quick
+  - make-ahead
+  - eggs
+  - nuts
+mentions: []
+ingredients:
+  - qty: 175
+    unit: g
+    name: caster sugar
+    raw: 175 grams caster sugar
+  - qty: 175
+    unit: g
+    name: icing sugar
+    raw: 175 grams icing sugar
+  - qty: 250
+    unit: g
+    name: almonds
+    raw: 250 grams ground almonds
+  - qty: 1
+    name: orange
+    raw: 1 orange
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - name: icing sugar
+    raw: Icing sugar
+  - name: "optional: marmalade"
+    raw: "Optional: marmalade"

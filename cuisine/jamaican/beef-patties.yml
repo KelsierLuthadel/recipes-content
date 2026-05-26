@@ -1,0 +1,103 @@
+prep: 1 hour (plus 30 minutes chilling)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - ginger
+  - butter
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 3.5
+    unit: cup
+    name: plain flour
+    raw: 3 ½ cups plain flour
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    unit: tbsp
+    name: jamaican curry powder
+    raw: 1 tablespoon Jamaican curry powder
+  - qty: 2
+    unit: tbsp
+    name: turmeric
+    raw: 2 tablespoons ground turmeric
+  - qty: 225
+    unit: g
+    name: unsalted butter
+    raw: 225 g unsalted butter
+  - qty: 240
+    unit: ml
+    name: ice cold water
+    raw: 240 ml ice cold water
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 450
+    unit: g
+    name: beef
+    raw: 450 g ground beef
+  - qty: 1
+    name: yellow onion
+    raw: 1 yellow onion
+  - qty: 1
+    unit: tbsp
+    name: garlic paste
+    raw: 1 tablespoon garlic paste
+  - qty: 1
+    unit: tsp
+    name: ginger paste
+    raw: 1 teaspoon ginger paste
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon fresh thyme
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: jamaican curry powder
+    raw: ½ teaspoon Jamaican curry powder
+  - qty: 1.5
+    name: scotch bonnets
+    raw: 1-2 Scotch bonnets
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 120
+    unit: ml
+    name: chicken stock
+    raw: 120 ml chicken stock
+  - qty: 0.5
+    unit: cup
+    name: plain breadcrumbs
+    raw: ½ cup plain breadcrumbs
+  - qty: 3
+    unit: tbsp
+    name: unsalted butter
+    raw: 3 tablespoons unsalted butter

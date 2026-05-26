@@ -1,0 +1,69 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - lentils
+  - onion
+  - garlic
+  - coconut
+  - chili
+  - curry
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: green cabbage
+    raw: 400 g green cabbage
+  - qty: 0.25
+    unit: tsp
+    name: turmeric
+    raw: ¼ teaspoon turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 80
+    unit: g
+    name: coconut
+    raw: 80 g fresh grated coconut
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 0.5
+    unit: tsp
+    name: cumin seeds
+    raw: ½ teaspoon cumin seeds
+  - qty: 2
+    unit: tbsp
+    name: coconut oil
+    raw: 2 tablespoons coconut oil
+  - qty: 1
+    unit: tsp
+    name: black mustard seeds
+    raw: 1 teaspoon black mustard seeds
+  - qty: 1
+    unit: tsp
+    name: urad dal
+    raw: 1 teaspoon urad dal
+  - qty: 1
+    name: red chilli
+    raw: 1 dried red chilli
+  - qty: 20
+    name: curry leaves
+    raw: 20 fresh curry leaves
+  - qty: 1
+    name: shallot
+    raw: 1 shallot

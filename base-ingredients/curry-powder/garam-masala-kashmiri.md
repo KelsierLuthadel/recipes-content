@@ -1,20 +1,3 @@
----
-prep: 10 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - coriander
-  - curry
-mentions: []
----
-
-
-
-
 # Garam Masala (Kashmiri)
 
 ![Garam Masala](resources/garam-masala.jpg)

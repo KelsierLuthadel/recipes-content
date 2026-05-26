@@ -1,23 +1,3 @@
----
-prep: 15 minutes
-cook: 2 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - mustard
-tags:
-  - quick
-  - snack
-  - meat
-  - pork
-  - butter
-mentions: []
----
-
-
-
-
 # Parma Ham Mikados
 
 ![Parma Ham Mikados](resources/straws.jpg)

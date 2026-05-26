@@ -1,21 +1,3 @@
----
-prep: 25 minutes
-cook: 15 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - snack
-  - eggs
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Aborrajados
 
 ![Aborrajados](resources/aborrajados.jpg)

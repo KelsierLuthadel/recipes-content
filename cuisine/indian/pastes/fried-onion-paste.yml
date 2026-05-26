@@ -1,0 +1,21 @@
+prep: 5 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - asian
+  - pastes
+  - onion
+  - yogurt
+mentions: []
+ingredients:
+  - name: rapeseed oil
+    raw: Rapeseed oil, for deep-frying
+  - qty: 2
+    name: onions
+    raw: 2 onions , finely sliced
+  - name: water
+    raw: Water , as needed for blending

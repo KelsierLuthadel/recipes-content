@@ -1,25 +1,3 @@
----
-prep: 10 minutes (plus overnight rice soak)
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - sesame
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - asian
-  - rice
-  - coconut
-  - honey
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Mango Sticky Rice
 
 ![Mango Sticky Rice](resources/mango-sticky-rice.jpg)

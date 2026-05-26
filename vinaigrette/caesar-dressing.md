@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 5 minutes
-allergens:
-  - dairy
-  - eggs
-  - peanuts
-  - fish
-  - mustard
-  - garlic
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - eggs
-  - garlic
-  - lemon
-  - cheese
-mentions:
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Caesar Dressing
 
 ![Caesar Dressing](resources/caesar.png)

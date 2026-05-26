@@ -1,0 +1,85 @@
+prep: 45 minutes (plus 30 minutes resting)
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - nuts
+  - complex
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/bread/gluten
+  - tutorials/pastry/filo
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: white flour
+    raw: 250 g strong white flour
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 130
+    unit: ml
+    name: water
+    raw: 130 ml warm water
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - name: little extra oil
+    raw: A little extra oil
+  - qty: 1.2
+    unit: kg
+    name: tart apples
+    raw: 1.2 kg tart apples
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 teaspoons ground cinnamon
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 80
+    unit: g
+    name: raisins
+    raw: 80 g raisins
+  - qty: 60
+    unit: g
+    name: walnuts
+    raw: 60 g walnuts
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 100
+    unit: g
+    name: white breadcrumbs
+    raw: 100 g fine fresh white breadcrumbs
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: icing sugar
+    raw: 2 tablespoons icing sugar

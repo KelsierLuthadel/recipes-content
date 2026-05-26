@@ -1,0 +1,108 @@
+prep: 45 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - butter
+  - nuts
+  - complex
+mentions:
+  - baking/pastry/filo-pastry
+  - tutorials/pastry/filo
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken thighs
+    raw: 1 kg chicken thighs
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon ground ginger
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon turmeric
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 600
+    unit: ml
+    name: chicken stock
+    raw: 600 ml chicken stock
+  - qty: 1
+    name: coriander
+    raw: A small bunch of fresh coriander
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - name: salt
+    raw: Salt
+  - qty: 200
+    unit: g
+    name: blanched almonds
+    raw: 200 g blanched almonds
+  - qty: 4
+    unit: tbsp
+    name: icing sugar
+    raw: 4 tablespoons icing sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tbsp
+    name: orange-blossom water
+    raw: 1 tablespoon orange-blossom water
+  - qty: 9
+    name: sheets filo pastry
+    raw: 8-10 sheets filo pastry
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - name: icing sugar
+    raw: Icing sugar
+  - name: cinnamon
+    raw: Ground cinnamon

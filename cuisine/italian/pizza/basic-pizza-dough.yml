@@ -1,0 +1,37 @@
+prep: 20 minutes
+cook: 50 minutes (passive, plus overnight proof)
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - meals
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 450
+    unit: g
+    name: plain flour
+    raw: 450 grams plain flour
+  - qty: 450
+    unit: g
+    name: white bread flour
+    raw: 450 grams strong white bread flour
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: active yeast
+    raw: 1 tablespoon dried active yeast
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 570
+    unit: ml
+    name: water
+    raw: 570 ml cold water

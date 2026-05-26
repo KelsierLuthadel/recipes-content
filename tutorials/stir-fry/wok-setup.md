@@ -1,17 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/stir-fry/ingredient-order
-  - tutorials/stir-fry/wok-hei
----
-
-
-
 # Wok Setup
 
 ![Wok](resources/wok-care.jpg)

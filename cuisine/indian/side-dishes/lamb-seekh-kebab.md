@@ -1,32 +1,3 @@
----
-prep: 15 minutes
-cook: 5 minutes
-allergens:
-  - eggs
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - sides
-  - asian
-  - bbq
-  - meat
-  - lamb
-  - eggs
-  - onion
-  - lemon
-  - coriander
-  - chili
-mentions:
-  - cuisine/indian/Breads/rotis
----
-
-
-
-
 # Lamb Seekh Kebab
 
 ![Lamb Seekh Kebab](resources/seekh-kebab.png)

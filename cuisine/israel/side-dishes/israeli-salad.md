@@ -1,31 +1,3 @@
----
-prep: 15 minutes
-cook: 0 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - quick
-  - sides
-  - onion
-  - tomato
-  - lemon
-  - passover
-  - shavuot
-  - tu-bav
-  - yom-kippur
-  - sukkot
-  - jewish
-mentions:
-  - cuisine/israel/side-dishes/falafel
-  - cuisine/lebanese/side-dishes/labneh
----
-
-
-
-
 # Israeli Salad
 
 ![Israeli Salad](resources/israeli-salad.jpg)

@@ -1,20 +1,3 @@
----
-prep: 5 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - quick
-  - make-ahead
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Poolish (Bread Pre-Ferment)
 
 ![Poolish](resources/poolish.jpg)

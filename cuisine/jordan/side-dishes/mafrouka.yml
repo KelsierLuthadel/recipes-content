@@ -1,0 +1,68 @@
+prep: 20 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - sides
+  - butter
+  - cream
+  - cheese
+  - nuts
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 300
+    unit: g
+    name: semolina
+    raw: 300 g fine semolina
+  - qty: 150
+    unit: g
+    name: unsalted butter
+    raw: 150 g unsalted butter
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - qty: 1
+    unit: tbsp
+    name: rose water
+    raw: 1 tablespoon rose water
+  - qty: 1
+    unit: tbsp
+    name: orange blossom water
+    raw: 1 tablespoon orange blossom water
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: 1 large pinch saffron threads
+  - qty: 250
+    unit: g
+    name: clotted cream
+    raw: 250 g clotted cream
+  - qty: 2
+    unit: tbsp
+    name: icing sugar
+    raw: 2 tablespoons icing sugar
+  - qty: 1
+    unit: tsp
+    name: rose water
+    raw: 1 teaspoon rose water
+  - qty: 1
+    unit: tsp
+    name: orange blossom water
+    raw: 1 teaspoon orange blossom water
+  - qty: 100
+    unit: g
+    name: pistachios
+    raw: 100 g pistachios
+  - qty: 2
+    unit: tbsp
+    name: rose petals
+    raw: 2 tablespoons rose petals

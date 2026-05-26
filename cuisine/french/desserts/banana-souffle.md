@@ -1,28 +1,3 @@
----
-prep: 10 minutes
-cook: 7 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - quick
-  - dessert
-  - eggs
-  - potato
-  - lemon
-  - butter
-  - chocolate
-mentions:
-  - cuisine/french/desserts/crepes
-  - sauces/sauce-sweet/chocolate-sauce
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Banana Soufflé Crêpes with Chocolate Sauce
 
 ![Banana soufflé crêpes with chocolate sauce](resources/souflee.jpg)

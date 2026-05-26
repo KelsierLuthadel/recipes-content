@@ -1,31 +1,3 @@
----
-prep: 20 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - soy
-  - sesame
-  - shellfish
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - meals
-  - asian
-  - meat
-  - fish
-  - pork
-  - prawn
-  - garlic
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/stir-fry/wok-hei
----
-
-
-
-
 # Hokkien Mee
 
 ![Hokkien Mee](resources/hokkien-mee.jpg)

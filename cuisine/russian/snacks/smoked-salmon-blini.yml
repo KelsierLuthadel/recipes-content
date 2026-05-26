@@ -1,0 +1,70 @@
+prep: 30 minutes (plus 1 hour rise)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+tags:
+  - snack
+  - fish
+  - salmon
+  - eggs
+  - lemon
+  - butter
+  - cream
+  - complex
+  - yom-kippur
+mentions: []
+ingredients:
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 100
+    unit: g
+    name: buckwheat flour
+    raw: 100 g buckwheat flour
+  - qty: 1
+    unit: tsp
+    name: yeast
+    raw: 1 teaspoon dried yeast
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: unsalted butter
+    raw: 2 tablespoons unsalted butter
+  - qty: 200
+    unit: g
+    name: creme fraiche
+    raw: 200 g crème fraîche
+  - qty: 200
+    unit: g
+    name: smoked salmon
+    raw: 200 g smoked salmon
+  - qty: 1
+    name: dill
+    raw: A small bunch of fresh dill
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - name: black pepper
+    raw: Freshly ground black pepper

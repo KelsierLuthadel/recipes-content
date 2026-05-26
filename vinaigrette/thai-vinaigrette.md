@@ -1,24 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - soy
-  - fish
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - make-ahead
-  - fish
-  - lime
-  - coriander
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Thai Vinaigrette
 
 ![Thai Vinaigrette](resources/thai.png)

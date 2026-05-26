@@ -1,0 +1,54 @@
+prep: 20 minutes (plus 15 minutes marinating)
+cook: 15 minutes
+allergens:
+  - eggs
+  - soy
+  - shellfish
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - asian
+  - meat
+  - chicken
+  - duck
+  - eggs
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 10
+    name: mid-section chicken wings
+    raw: 10 mid-section chicken wings
+  - qty: 1
+    unit: tbsp
+    name: shaoxing rice wine
+    raw: 1 tbsp Shaoxing rice wine
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tbsp light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: oyster sauce
+    raw: 1 tbsp oyster sauce
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ tsp salt
+  - qty: 0.25
+    unit: tsp
+    name: white pepper
+    raw: ¼ tsp white pepper
+  - qty: 4.5
+    unit: tbsp
+    name: cornstarch
+    raw: 4-5 tbsp cornstarch
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tbsp vegetable oil
+  - qty: 6
+    name: salted duck egg yolks
+    raw: 4-8 salted duck egg yolks

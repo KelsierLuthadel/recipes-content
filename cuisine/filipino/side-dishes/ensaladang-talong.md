@@ -1,29 +1,3 @@
----
-prep: 15 minutes
-cook: 12 minutes
-allergens:
-  - fish
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - make-ahead
-  - sides
-  - bbq
-  - fish
-  - onion
-  - tomato
-  - lime
-  - coriander
-  - chili
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Ensaladang Talong (Grilled Eggplant Salad)
 
 ![Ensaladang Talong](resources/ensaladang-talong.jpg)

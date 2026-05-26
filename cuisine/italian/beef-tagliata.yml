@@ -1,0 +1,47 @@
+prep: 10 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - quick
+  - meals
+  - meat
+  - beef
+  - garlic
+  - lemon
+  - cheese
+mentions: []
+ingredients:
+  - qty: 2
+    name: sirloin steaks
+    raw: 2 sirloin steaks
+  - name: olive oil
+    raw: Olive oil
+  - qty: 120
+    unit: ml
+    name: virgin olive oil
+    raw: 120 ml extra virgin olive oil
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 4
+    unit: sprig
+    name: rosemary
+    raw: 4 sprigs fresh rosemary
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 60
+    unit: g
+    name: rocket leaves
+    raw: 60 grams rocket leaves
+  - qty: 40
+    unit: g
+    name: parmesan shavings
+    raw: 40 grams Parmesan shavings
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+tags:
+  - quick
+  - snack
+  - meat
+  - pork
+  - butter
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 30
+    unit: g
+    name: plain flour
+    raw: 30 g plain flour
+  - qty: 300
+    unit: ml
+    name: milk
+    raw: 300 ml whole milk
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 8
+    name: white bread
+    raw: 8 thick slices good white bread
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 8
+    name: ham
+    raw: 8 slices good ham
+  - qty: 200
+    unit: g
+    name: gruyere cheese
+    raw: 200 g gruyère cheese
+  - qty: 50
+    unit: g
+    name: parmesan cheese
+    raw: 50 g parmesan cheese

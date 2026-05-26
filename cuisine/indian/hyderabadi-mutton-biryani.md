@@ -1,37 +1,3 @@
----
-prep: 30 minutes (plus 4 hours marinating)
-cook: 1 hour 30 minutes
-allergens:
-  - gluten
-  - dairy
-  - meat
-  - garlic
-tags:
-  - spicy
-  - make-ahead
-  - meals
-  - asian
-  - meat
-  - lamb
-  - rice
-  - onion
-  - garlic
-  - ginger
-  - lime
-  - coriander
-  - yogurt
-  - chili
-  - complex
-  - eid-al-adha
-  - ramadan
-  - muslim
-mentions:
-  - cuisine/indian/biryani
----
-
-
-
-
 # Hyderabadi Mutton Biryani
 
 ![Hyderabadi Mutton Biryani](resources/hyderabadi-mutton-biryani.jpg)

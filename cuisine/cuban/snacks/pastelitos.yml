@@ -1,0 +1,43 @@
+prep: 25 minutes (plus 15 minutes chilling)
+cook: 22 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - pastes
+  - eggs
+  - butter
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 500
+    unit: g
+    name: all-butter puff pastry
+    raw: 500 g all-butter puff pastry
+  - qty: 250
+    unit: g
+    name: guava paste
+    raw: 250 g guava paste
+  - qty: 250
+    unit: g
+    name: cream cheese
+    raw: 250 g full-fat cream cheese
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 50
+    unit: ml
+    name: water
+    raw: 50 ml water
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract

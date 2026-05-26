@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - asian
-  - spices
-  - coriander
-mentions: []
----
-
-
-
-
 # Vindaloo Spice Mix
 
 ![Vindaloo Spice Mix](resources/vindaloo-mix.jpg)

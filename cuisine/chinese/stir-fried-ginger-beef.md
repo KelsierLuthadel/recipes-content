@@ -1,26 +1,3 @@
----
-prep: 15 minutes
-allergens:
-  - soy
-  - sesame
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - quick
-  - meals
-  - asian
-  - meat
-  - beef
-  - ginger
-  - soy-sauce
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Stir-Fried Beef with Ginger
 
 ![Stir-Fried Beef with Ginger](resources/beef-and-ginger-stir-fry.jpg)

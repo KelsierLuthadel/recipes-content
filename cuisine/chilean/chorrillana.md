@@ -1,28 +1,3 @@
----
-prep: 20 minutes
-cook: 45 minutes
-allergens:
-  - eggs
-  - meat
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - meals
-  - meat
-  - beef
-  - pork
-  - eggs
-  - onion
-  - potato
-  - chili
-mentions:
-  - cuisine/chilean/side-dishes/pebre
----
-
-
-
-
 # Chorrillana
 
 ![Chorrillana](resources/chorrillana.jpg)

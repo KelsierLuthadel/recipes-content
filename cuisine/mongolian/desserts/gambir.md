@@ -1,21 +1,3 @@
----
-prep: 45 minutes (plus 30 minutes resting)
-cook: 30 minutes
-allergens:
-  - gluten
-  - dairy
-tags:
-  - vegetarian
-  - dessert
-  - butter
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Gambir
 
 ![Gambir](resources/gambir.jpg)

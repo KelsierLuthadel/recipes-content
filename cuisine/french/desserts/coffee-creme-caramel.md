@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-cook: 1 minute
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - dessert
-  - eggs
-  - cream
-mentions: []
----
-
-
-
-
 # Coffee Creme Caramel
 
 ![Coffee Creme Caramel](resources/coffee-creme-caramel.jpg)

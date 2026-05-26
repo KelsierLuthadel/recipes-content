@@ -1,30 +1,3 @@
----
-prep: 40-60 minutes
-cook: 5 minutes
-allergens:
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - asian
-  - pastes
-  - fish
-  - prawn
-  - onion
-  - garlic
-  - lime
-  - coriander
-  - chili
-  - curry
-mentions:
-  - tutorials/thai-curry/yellow
----
-
-
-
-
 # Yellow Curry Paste
 
 ![Yellow Curry Paste](resources/thai-yellow-curry-paste.jpg)

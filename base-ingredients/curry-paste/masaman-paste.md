@@ -1,28 +1,3 @@
----
-prep: 15 minutes
-cook: 13 minutes
-allergens:
-  - peanuts
-  - shellfish
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - quick
-  - pastes
-  - fish
-  - onion
-  - garlic
-  - coriander
-  - chili
-  - curry
-mentions: []
----
-
-
-
-
 # Thai Masaman Curry Paste (Kruang Kaeng Masaman)
 
 ![Masaman Curry Paste](resources/massaman-curry-paste.jpg)

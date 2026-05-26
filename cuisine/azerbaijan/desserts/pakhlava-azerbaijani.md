@@ -1,28 +1,3 @@
----
-prep: 1 hour (plus 1 hour resting)
-cook: 50 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - make-ahead
-  - eggs
-  - lemon
-  - butter
-  - honey
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Pakhlava (Azerbaijani)
 
 ![Azerbaijani Pakhlava](resources/pakhlava-azerbaijani.jpg)

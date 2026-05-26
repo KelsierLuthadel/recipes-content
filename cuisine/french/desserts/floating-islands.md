@@ -1,22 +1,3 @@
----
-prep: 5 minutes
-cook: 3 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - dessert
-  - make-ahead
-  - eggs
-mentions: []
----
-
-
-
-
 # Floating Islands with Rhubarb
 
 ![Floating islands](resources/floating-islands.jpg)

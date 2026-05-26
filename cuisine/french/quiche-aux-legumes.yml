@@ -1,0 +1,86 @@
+prep: 30 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - garlic
+  - spinach
+  - butter
+  - cream
+  - cheese
+  - complex
+  - shavuot
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 125
+    unit: g
+    name: cold unsalted butter
+    raw: 125 g cold unsalted butter
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 3.5
+    unit: tbsp
+    name: water
+    raw: 3-4 tablespoons cold water
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    name: leek
+    raw: 1 leek
+  - qty: 1
+    name: courgette
+    raw: 1 courgette
+  - qty: 200
+    unit: g
+    name: spinach
+    raw: 200 g spinach
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tablespoon fresh thyme leaves
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 150
+    unit: g
+    name: gruyere cheese
+    raw: 150 g gruyère cheese
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - name: salt
+    raw: salt
+  - name: pepper
+    raw: pepper

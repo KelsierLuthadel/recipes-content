@@ -1,22 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - dairy
-tags:
-  - vegetarian
-  - gluten-free
-  - spicy
-  - quick
-  - sides
-  - asian
-  - yogurt
-  - chili
-mentions: []
----
-
-
-
-
 # Cucumber Raita
 
 ![Cucumber raita](resources/cucumber-raita.jpg)

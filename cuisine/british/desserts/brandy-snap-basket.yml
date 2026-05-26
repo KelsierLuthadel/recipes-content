@@ -1,0 +1,58 @@
+prep: 10 minutes
+cook: 31 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - ginger
+  - lemon
+  - butter
+mentions:
+  - base-ingredients/syrup/sirop-a-sorbet
+ingredients:
+  - qty: 100
+    unit: g
+    name: butter
+    raw: 100 gram butter, melted
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 gram caster sugar
+  - qty: 100
+    unit: g
+    name: golden syrup
+    raw: 100 gram golden syrup
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 gram plain flour
+  - qty: 40
+    unit: g
+    name: ginger
+    raw: 40 gram fresh root ginger, peeled and grated
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 1
+    unit: tbsp
+    name: cognac
+    raw: 1 tablespoon Cognac
+  - qty: 2
+    name: rhubarb stalks
+    raw: 2 young, tender rhubarb stalks
+  - qty: 500
+    unit: ml
+    name: syrup for sorbet
+    raw: 500 ml Syrup for Sorbet
+  - qty: 1
+    name: orange
+    raw: 1 orange
+  - qty: 250
+    unit: g
+    name: creme chantilly
+    raw: 250 gram crème Chantilly
+  - qty: 18
+    name: perfectly ripe raspberries
+    raw: 18 perfectly ripe raspberries

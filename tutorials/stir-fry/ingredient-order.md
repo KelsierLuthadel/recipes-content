@@ -1,18 +1,3 @@
----
-allergens: []
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - gluten-free
-mentions:
-  - tutorials/pizza/sauce
-  - tutorials/stir-fry/wok-hei
-  - tutorials/stir-fry/wok-setup
----
-
-
-
 # Ingredient Order
 
 ![Ingredients prepped](resources/order.jpg)

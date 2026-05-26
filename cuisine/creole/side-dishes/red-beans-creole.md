@@ -1,29 +1,3 @@
----
-prep: 15 minutes (plus 12 hours soaking)
-cook: 2 hours 30 minutes
-allergens:
-  - meat
-  - celery
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - spicy
-  - make-ahead
-  - sides
-  - meat
-  - pork
-  - rice
-  - onion
-  - garlic
-  - complex
-mentions:
-  - tutorials/pizza/sauce
----
-
-
-
-
 # Red Beans (Creole)
 
 ![Red Beans (Creole)](resources/red-beans-creole.jpg)

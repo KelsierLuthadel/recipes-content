@@ -1,29 +1,3 @@
----
-prep: 20 minutes
-cook: 1 hour 15 minutes
-allergens:
-  - dairy
-  - tree-nuts
-  - meat
-tags:
-  - gluten-free
-  - meals
-  - meat
-  - chicken
-  - beef
-  - lamb
-  - rice
-  - onion
-  - lemon
-  - yogurt
-  - nuts
-  - complex
-mentions: []
----
-
-
-
-
 # Riz a Djej
 
 ![Riz a Djej](resources/riz-a-djej.jpg)

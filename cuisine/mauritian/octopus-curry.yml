@@ -1,0 +1,104 @@
+prep: 25 minutes
+cook: 1 hour
+allergens:
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lime
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: cleaned octopus
+    raw: 1 kg cleaned octopus
+  - qty: 1
+    unit: tbsp
+    name: white vinegar
+    raw: 1 tbsp white vinegar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 3
+    unit: tbsp
+    name: neutral oil
+    raw: 3 tbsp neutral oil
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 20
+    unit: g
+    name: ginger
+    raw: 20 g fresh ginger
+  - qty: 2
+    unit: sprig
+    name: thyme
+    raw: 2 sprigs fresh thyme
+  - qty: 10
+    name: curry leaves
+    raw: 10 fresh curry leaves
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 3
+    name: tomatoes
+    raw: 3 tomatoes
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tbsp tomato paste
+  - qty: 1.5
+    unit: tbsp
+    name: curry powder
+    raw: 1 ½ tbsp mild Curry Powder
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: coriander
+    raw: ½ tsp ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: sweet paprika
+    raw: ½ tsp sweet paprika
+  - qty: 0.25
+    unit: tsp
+    name: turmeric
+    raw: ¼ tsp ground turmeric
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp Garam Masala
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - name: salt
+    raw: Salt, to taste
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: Small handful chopped fresh coriander
+  - name: lime
+    raw: Wedge of lime

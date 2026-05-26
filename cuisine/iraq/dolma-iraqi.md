@@ -1,27 +1,3 @@
----
-prep: 1 hour 30 minutes
-cook: 1 hour 30 minutes
-allergens:
-  - meat
-  - garlic
-tags:
-  - dairy-free
-  - gluten-free
-  - meals
-  - meat
-  - lamb
-  - rice
-  - onion
-  - garlic
-  - tomato
-  - lemon
-  - complex
-mentions: []
----
-
-
-
-
 # Dolma Iraqi
 
 ![Dolma Iraqi](resources/dolma-iraqi.jpg)

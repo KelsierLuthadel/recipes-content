@@ -1,31 +1,3 @@
----
-prep: 30 minutes
-cook: 25 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - sesame
-tags:
-  - vegetarian
-  - snack
-  - eggs
-  - butter
-  - cheese
-  - hanukkah
-  - eid-al-fitr
-  - ramadan
-  - rosh-hashanah
-  - shavuot
-  - jewish
-mentions:
-  - cuisine/greek/snacks/tyropita
-  - tutorials/pizza/cheese
----
-
-
-
-
 # Bourekas
 
 ![Bourekas](resources/bourekas.jpg)

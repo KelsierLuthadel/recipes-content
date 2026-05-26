@@ -1,21 +1,3 @@
----
-prep: 10 minutes
-allergens:
-  - dairy
-  - eggs
-tags:
-  - vegetarian
-  - gluten-free
-  - quick
-  - dessert
-  - eggs
-  - lemon
-mentions: []
----
-
-
-
-
 # Crema Catalana
 
 ![Crema Catalana](resources/crema-catalana.jpg)

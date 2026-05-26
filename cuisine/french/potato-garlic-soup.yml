@@ -1,0 +1,39 @@
+prep: 15 minutes
+cook: 50 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - onion
+  - garlic
+  - potato
+mentions: []
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    name: garlic bulbs
+    raw: 2 garlic bulbs
+  - qty: 500
+    unit: g
+    name: potatoes
+    raw: 500 grams potatoes
+  - qty: 2
+    unit: l
+    name: stock
+    raw: 2 litres stock
+  - name: chives
+    raw: chopped chives to serve

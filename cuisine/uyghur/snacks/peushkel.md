@@ -1,21 +1,3 @@
----
-prep: 15 minutes (plus 2-6 hours rise)
-cook: 20 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - snack
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Peushkel
 
 ![Peushkel](resources/peushkel.jpg)

@@ -1,26 +1,3 @@
----
-prep: 1 hour (plus 30 minutes resting)
-cook: 18 minutes
-allergens:
-  - gluten
-  - dairy
-  - eggs
-  - tree-nuts
-tags:
-  - vegetarian
-  - dessert
-  - eggs
-  - lemon
-  - butter
-  - nuts
-  - complex
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Tcharek El-Ariane (Almond Crescents)
 
 ![Tcharek](resources/tcharek.jpg)

@@ -1,26 +1,3 @@
----
-prep: 15 minutes (plus overnight soak)
-cook: 1 hour 15 minutes
-allergens:
-  - gluten
-  - garlic
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - snack
-  - make-ahead
-  - onion
-  - garlic
-  - lemon
-  - coriander
-  - complex
-mentions: []
----
-
-
-
-
 # Bessara
 
 ![Bessara](resources/bessara.jpg)

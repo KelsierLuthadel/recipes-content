@@ -1,21 +1,3 @@
----
-prep: 10 minutes (plus 1 hour rising)
-cook: 20 minutes
-allergens:
-  - gluten
-tags:
-  - vegetarian
-  - vegan
-  - dairy-free
-  - dessert
-  - kwanzaa
-mentions:
-  - tutorials/pizza/dough
----
-
-
-
-
 # Puff Puff
 
 ![Puff Puff](resources/puff-puff.jpg)
