@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus overnight bean soak)
+cook: 1 hour 45 minutes
+---
+
 # Ash Reshteh
 
 ![Ash Reshteh](resources/ash-reshteh.jpg)

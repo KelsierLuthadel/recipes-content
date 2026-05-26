@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 11 minutes
+---
+
 # Parcels of Poached Pears
 
 ![Parcels of poached pears](resources/parcels.jpg)
@@ -58,4 +63,3 @@ Serve the parcels hot, dusted with granulated sugar which adds crunch and sweetn
 
 ## Storage
 The poached pears can be prepared 1 day ahead and refrigerated in their syrup. The puff pastry and crêpes can be prepared several hours ahead and kept refrigerated separately (crêpes wrapped to prevent drying). Assemble the parcels just before frying (up to 30 minutes ahead, refrigerated) to prevent sogginess. Fry only when ready to serve; do not attempt to reheat as they will lose their crispness.
-

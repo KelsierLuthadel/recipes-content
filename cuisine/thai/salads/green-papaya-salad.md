@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Green Papaya Salad
 
 ![Green Papaya Salad](resources/green-papaya-salad.jpg)

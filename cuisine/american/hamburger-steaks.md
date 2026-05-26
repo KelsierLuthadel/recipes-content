@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 1 hour resting)
+cook: 25 minutes
+---
+
 # Hamburger Steaks with Onion Gravy
 
 ![Hamburger Steaks with Onion Gravy](resources/hamburger-steaks.jpg)

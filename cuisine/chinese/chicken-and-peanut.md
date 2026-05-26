@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 3 minutes
+---
+
 # Chicken and Peanut
 
 ![Chicken and Peanut](resources/chicken-peanut.jpg)

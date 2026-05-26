@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 30 min dough rest)
+cook: 15 minutes
+---
+
 # Samosa Pakistani
 
 ![Samosa Pakistani](resources/samosa-pakistani.jpg)

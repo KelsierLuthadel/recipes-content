@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 2 hours 15 minutes
+---
+
 # Lamb Tagine with Prunes
 
 ![Lamb Tagine with Prunes](resources/lamb-tagine-with-prunes.jpg)

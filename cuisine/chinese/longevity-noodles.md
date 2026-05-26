@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 12 minutes
+---
+
 # Longevity Noodles
 
 ![Longevity Noodles](resources/longevity-noodles.jpg)

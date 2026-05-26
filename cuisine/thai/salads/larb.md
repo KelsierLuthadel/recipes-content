@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 12 minutes
+---
+
 # Larb
 
 ![Larb](resources/larb.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 15 minutes
+---
+
 # Smothered Pork Chops
 
 ![Smothered Pork Chops](resources/smothered-pork-chops.jpg)

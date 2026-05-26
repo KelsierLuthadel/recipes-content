@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 30 minutes
+---
+
 # Champagne Sauce
 
 ![Champagne sauce](resources/champagne-sauce.jpg)

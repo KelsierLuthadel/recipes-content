@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Génoise Sponge
 
 ![Génoise Sponge](resources/genoise-sponge.png)

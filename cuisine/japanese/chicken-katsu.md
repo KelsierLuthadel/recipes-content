@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 15 minutes
+---
+
 # Chicken Katsu
 
 ![Chicken Katsu](resources/chicken-katsu.jpg)

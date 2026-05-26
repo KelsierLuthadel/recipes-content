@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour
+---
+
 # Mango Chutney
 
 ![Mango Chutney](resources/mango-chutney.png)

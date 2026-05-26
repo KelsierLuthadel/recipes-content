@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 35 minutes
+---
+
 # Chili Cheese Dip
 
 ![Chili Cheese Dip](resources/chili-cheese-dip.jpg)

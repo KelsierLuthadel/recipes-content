@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Crème au Beurre
 
 ![Crème au beurre](resources/creme-au-beurre.jpg)

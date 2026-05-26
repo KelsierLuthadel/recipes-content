@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 2 hours
+---
+
 # Polvo à Lagareiro
 
 ![Polvo a Lagareiro](resources/polvo-a-lagareiro.jpg)

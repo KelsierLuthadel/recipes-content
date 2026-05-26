@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 4 hours
+---
+
 # Jewish Brisket
 
 ![Jewish Brisket](resources/brisket.jpg)

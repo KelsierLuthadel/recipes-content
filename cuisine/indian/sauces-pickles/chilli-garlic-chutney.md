@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 2 minutes
+---
+
 # Kashmiri Red Chilli and Garlic Chutney
 
 ![Kashmiri Red Chilli Chutney](resources/chilli-garlic-chutney.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Sichuan Dry-Fried Green Beans
 
 ![Sichuan Dry-Fried Green Beans](resources/stir-fried-green-beans.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Beef Enchiladas
 
 ![Beef Enchiladas](resources/enchilada.png)

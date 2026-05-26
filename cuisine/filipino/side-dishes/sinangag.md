@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 10 minutes
+---
+
 # Sinangag (Garlic Fried Rice)
 
 ![Sinangag](resources/sinangag.jpg)

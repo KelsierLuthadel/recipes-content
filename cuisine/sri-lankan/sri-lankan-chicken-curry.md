@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 45 minutes
+---
+
 # Sri Lankan Chicken Curry
 
 ![Sri Lankan Chicken Curry](resources/sri-lankan-chicken-curry.jpg)

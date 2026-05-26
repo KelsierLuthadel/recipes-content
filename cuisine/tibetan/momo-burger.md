@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 10 minutes
+---
+
 # Tibetan Momo Burger
 
 ![Tibetan Momo Burger](resources/momo-burger.jpg)

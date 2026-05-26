@@ -1,3 +1,7 @@
+---
+prep: 15 minutes (plus 1 to 2 hours chilling)
+---
+
 # Chocolate Fridge Cake
 
 ![Chocolate Fridge Cake](resources/fridge-cake.jpg)

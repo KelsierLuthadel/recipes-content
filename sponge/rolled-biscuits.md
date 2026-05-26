@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 6-10 minutes
+---
+
 # Rolled Biscuits
 
 ![Rolled Biscuits](resources/rolled-biscuits.png)

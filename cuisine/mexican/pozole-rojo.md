@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 2 hours 30 minutes
+---
+
 # Pozole Rojo
 
 ![Pozole Rojo](resources/pozole-rojo.jpg)

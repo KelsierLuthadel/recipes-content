@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 15 minutes chilling)
+cook: 22 minutes
+---
+
 # Pastelitos
 
 ![Pastelitos](resources/pastelitos.jpg)

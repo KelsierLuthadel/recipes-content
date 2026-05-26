@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 9 minutes
+---
+
 # Nonya Pork Satay
 
 ![Nonya pork satay](resources/pork-satay.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Lamb Madras
 
 ![Lamb Madras](resources/madras.png)
@@ -45,4 +49,4 @@ Hot, sharp curry inspired by the cooking of southern India. Reduced tomato base 
 1. Check for seasoning and add salt to taste. 
 1. Sprinkle with the garam masala and garnish with the chopped coriander.
 
-**Note**: If you are looking for a more savoury flavour, spicy lime pickle can be substituted for the mango chutney. 
+**Note**: If you are looking for a more savoury flavour, spicy lime pickle can be substituted for the mango chutney.

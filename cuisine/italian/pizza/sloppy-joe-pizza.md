@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes
+---
+
 # Sloppy Joe Pizza
 
 ![Sloppy Joe Pizza](resources/sloppy-joe.jpg)

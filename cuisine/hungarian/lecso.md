@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Lecsó
 
 ![Lecsó](resources/lecso.jpg)

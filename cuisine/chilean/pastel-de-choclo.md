@@ -1,3 +1,8 @@
+---
+prep: 40 minutes
+cook: 1 ¼ hours
+---
+
 # Pastel de Choclo
 
 ![Pastel de Choclo](resources/pastel-de-choclo.jpg)

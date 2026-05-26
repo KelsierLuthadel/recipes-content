@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 12 minutes
+---
+
 # Fried Green Tomatoes
 
 ![Fried Green Tomatoes](resources/fried-green-tomatoes.jpg)

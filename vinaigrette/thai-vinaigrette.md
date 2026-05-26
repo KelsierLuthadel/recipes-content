@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Thai Vinaigrette
 
 ![Thai Vinaigrette](resources/thai.png)

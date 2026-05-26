@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 hour
+---
+
 # Vegetarian Borscht
 
 ![Vegetarian Borscht](resources/vegetarian-borscht.jpg)

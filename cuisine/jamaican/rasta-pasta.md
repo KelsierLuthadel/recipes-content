@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 3 minutes
+---
+
 # Rasta Pasta
 
 ![Rasta Pasta](resources/jamaican-pasta.jpg)

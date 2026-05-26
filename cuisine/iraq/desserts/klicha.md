@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 30 min resting)
+cook: 25 minutes
+---
+
 # Klicha
 
 ![Klicha](resources/klicha.jpg)

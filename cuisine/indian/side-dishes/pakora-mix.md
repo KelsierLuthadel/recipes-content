@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Mixed Vegetable Pakora
 
 ![Mixed Vegetable Pakora](resources/pakora-mix.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 1 hour marinating)
+cook: 1 hour 10 minutes
+---
+
 # Authentic Jamaican Curry Chicken
 
 ![Authentic Jamaican Curry Chicken](resources/authentic-curry-chicken.jpg)

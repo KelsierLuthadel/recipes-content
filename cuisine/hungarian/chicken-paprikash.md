@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 50 minutes
+---
+
 # Chicken Paprikash
 
 ![Chicken Paprikash](resources/chicken-paprikash.jpg)

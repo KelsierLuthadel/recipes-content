@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour chilling)
+cook: 30 minutes
+---
+
 # Melktert
 
 ![Melktert](resources/melktert.jpg)

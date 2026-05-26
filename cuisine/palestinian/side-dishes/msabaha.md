@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus overnight soaking)
+cook: 1 hour 30 minutes
+---
+
 # Msabaha
 
 ![Msabaha](resources/msabaha.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 25 minutes
+---
+
 # Hodu Gwaja (Walnut Cake)
 
 ![Hodu Gwaja](resources/hodu-gwaja.jpg)

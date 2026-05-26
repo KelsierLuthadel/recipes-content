@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 20 minutes
+---
+
 # Vermouth Sauce
 
 ![Vermouth sauce](resources/vermouth-sauce.png)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Mango Chicken Curry
 
 ![Mango Chicken Curry](resources/BIR-mango-chicken-curry.jpg)

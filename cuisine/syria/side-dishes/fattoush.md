@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 5 minutes (toasting pita)
+---
+
 # Fattoush
 
 ![Fattoush](resources/fattoush.jpg)

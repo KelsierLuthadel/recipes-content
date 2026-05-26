@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus overnight marinating)
+cook: 1 ½ hours
+---
+
 # Griot
 
 ![Griot](resources/griot.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Pâte Sablée (Shortbread Dough)
 
 ![Pâte sablée (Shortbread dough)](resources/shortbread.png)
@@ -41,4 +45,4 @@ Wrap unrolled dough and refrigerate for up to 2 days, or freeze for up to 1 mont
 
 *Once you have added the flour, do not overwork the dough, or it will become too elastic.*
 *This recipe is very delicate; if you are using the dough to line a flan tin or to make sablés, you must work very fast, without over-handling the dough, as it softens extremely quickly.*
-*Rolled out and cut into different shapes, this dough is perfect for petits fours secs.*
+*Rolled out and cut into different shapes, this dough is perfect for petits fours secs.*

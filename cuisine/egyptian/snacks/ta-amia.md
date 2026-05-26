@@ -1,3 +1,7 @@
+---
+prep: 8 hours
+---
+
 # Ta'amia (Egyptian Broad-Bean Falafel)
 
 ![Ta'amia](resources/ta-amia.jpg)

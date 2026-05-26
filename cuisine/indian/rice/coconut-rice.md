@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes (plus 25 minutes if cooking rice from scratch)
+---
+
 # Coconut Rice
 
 ![Coconut Rice](resources/coconut-rice.jpg)

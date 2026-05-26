@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 5 minutes
+---
+
 # Sepen
 
 ![Sepen](resources/sepen.jpg)

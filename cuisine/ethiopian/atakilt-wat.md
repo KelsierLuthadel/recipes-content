@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 35 minutes
+---
+
 # Atakilt Wat
 
 ![Atakilt Wat](resources/atakilt-wat.jpg)

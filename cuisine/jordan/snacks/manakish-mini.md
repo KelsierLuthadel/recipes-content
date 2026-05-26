@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour dough rise)
+cook: 10 minutes per batch
+---
+
 # Manakish Mini
 
 ![Manakish Mini](resources/manakish-mini.jpg)

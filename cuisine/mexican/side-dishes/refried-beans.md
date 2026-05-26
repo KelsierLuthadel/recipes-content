@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus overnight bean soak)
+cook: 2 hours (or 45 min pressure cooker)
+---
+
 # Refried Beans
 
 ![Refried Beans](resources/refried-beans.jpg)

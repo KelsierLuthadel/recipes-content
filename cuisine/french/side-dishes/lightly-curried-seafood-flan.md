@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 55 minutes
+---
+
 # Lightly Curried Seafood Flan
 
 ![Lightly curried seafood flan](resources/curried-seafood-flan.jpg)

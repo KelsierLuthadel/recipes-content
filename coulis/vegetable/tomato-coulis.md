@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour
+---
+
 # Tomato Coulis
 
 ![Tomato Coulis](resources/tomato-coulis.jpg)

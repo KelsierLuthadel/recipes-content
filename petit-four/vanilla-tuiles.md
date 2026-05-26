@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 8-10 minutes
+---
+
 # Vanilla Tuiles
 
 ![Vanilla Tuiles](resources/tuiles.jpg)

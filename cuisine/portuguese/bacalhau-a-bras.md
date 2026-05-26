@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus overnight desalting)
+cook: 25 minutes
+---
+
 # Bacalhau à Brás
 
 ![Bacalhau à Brás](resources/bacalhau-a-bras.jpg)

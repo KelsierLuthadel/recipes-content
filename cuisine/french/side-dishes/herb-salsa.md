@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Herb Salsa
 
 ![Herb Salsa](resources/herb-salsa.png)
@@ -101,4 +106,4 @@ Context: Light pasta course, delicate plated presentations, spring dinners
 - The potato base provides stability; this is more shelf-stable than purely fresh herb salsas.
 - Best served within 2 hours of final preparation for maximum herb aroma.
 
-*This delicate, herbaceous salsa pairs beautifully with fresh pasta, especially tortellini or cappelletti filled with ricotta or similar light fillings. The boiled potato base provides body, while fines herbes (a classic French blend of parsley, chives, tarragon, and chervil) offers bright, fresh herb character with subtle anise notes from the tarragon.*
+*This delicate, herbaceous salsa pairs beautifully with fresh pasta, especially tortellini or cappelletti filled with ricotta or similar light fillings. The boiled potato base provides body, while fines herbes (a classic French blend of parsley, chives, tarragon, and chervil) offers bright, fresh herb character with subtle anise notes from the tarragon.*

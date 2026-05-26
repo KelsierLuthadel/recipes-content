@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus overnight chilling)
+cook: 0 minutes (eggs are raw - see Notes)
+---
+
 # Tiramisù
 
 ![Tiramisù](resources/tiramisu.jpg)

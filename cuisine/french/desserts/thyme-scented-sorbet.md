@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 18 minutes
+---
+
 # Thyme-Scented Fromage Frais Sorbet
 
 ![Thyme-scented fromage frais sorbet](resources/thyme-scented-sorbet.jpg)
@@ -40,4 +45,3 @@ Serve in well-chilled glasses or coupes immediately after churning for the best 
 
 ## Storage
 Sorbets are best enjoyed fresh from the machine. If freezing for later use, store in an airtight, freezer-safe container and serve within 2-3 days, as the texture becomes increasingly hard and icy with storage. Allow to soften slightly at room temperature for 5-10 minutes before scooping if frozen for more than a few hours.
-

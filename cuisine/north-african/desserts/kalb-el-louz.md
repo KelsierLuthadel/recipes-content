@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 1 hour resting + 4 hours steeping)
+cook: 40 minutes
+---
+
 # Kalb El-Louz (Almond-Semolina Cake)
 
 ![Kalb el-Louz](resources/kalb-el-louz.jpg)

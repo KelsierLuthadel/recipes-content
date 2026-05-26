@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 1 ¼ hours
+---
+
 # Gumbo z'Herbes
 
 ![Gumbo Z'Herbes](resources/gumbo-z-herbes.jpg)

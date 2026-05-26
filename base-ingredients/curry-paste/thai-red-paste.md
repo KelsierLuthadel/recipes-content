@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 2 minutes
+---
+
 # Thai Red Curry Paste (Kruang Kaeng Dang)
 
 ![Thai Red Curry Paste](resources/thai-red.jpg)
@@ -92,4 +97,4 @@ Temperature: Use immediately after making or refrigerate
 - If storing, pour a thin layer of oil over the surface to help preserve it
 - Do not refrigerate long-term; fresh herbs deteriorate and oxidize
 
-*This wonderful classic curry paste from Thailand has an amazing fragrant characteristic that works beautifully with coconut-based curries. The combination of fresh aromatics, toasted spices, and shrimp paste creates complex depth.*
+*This wonderful classic curry paste from Thailand has an amazing fragrant characteristic that works beautifully with coconut-based curries. The combination of fresh aromatics, toasted spices, and shrimp paste creates complex depth.*

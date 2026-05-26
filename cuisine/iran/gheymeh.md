@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 hour 45 minutes
+---
+
 # Gheymeh
 
 ![Gheymeh](resources/gheymeh.jpg)

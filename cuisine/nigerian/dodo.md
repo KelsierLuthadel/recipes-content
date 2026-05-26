@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 10 minutes
+---
+
 # Dodo
 
 ![Dodo](resources/dodo.jpg)

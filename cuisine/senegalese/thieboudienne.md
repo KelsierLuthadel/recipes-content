@@ -1,3 +1,8 @@
+---
+prep: 40 minutes
+cook: 1 ½ hours
+---
+
 # Thiéboudiène
 
 ![Thiéboudiène](resources/thieboudienne.jpg)

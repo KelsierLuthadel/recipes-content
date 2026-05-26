@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 50 minutes
+---
+
 # Spinach and Fennel Soup
 
 ![Spinach and Fennel soup](resources/spinach-fennel-soup.jpg)

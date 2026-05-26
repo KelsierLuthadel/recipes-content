@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 25 minutes
+---
+
 # Sausage and Peppers
 
 ![Sausage and Peppers](resources/sausage-and-peppers.jpg)

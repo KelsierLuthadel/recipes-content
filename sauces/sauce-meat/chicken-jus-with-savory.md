@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 40 minutes
+---
+
 # Chicken Jus with Savory
 
 ![Chicken jus with savory](resources/chicken-jus.jpg)

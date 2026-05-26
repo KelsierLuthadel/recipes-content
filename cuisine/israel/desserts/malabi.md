@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes (plus 3 hours setting)
+---
+
 # Malabi
 
 ![Malabi](resources/malabi.jpg)

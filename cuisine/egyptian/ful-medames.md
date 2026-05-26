@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus overnight bean soak)
+cook: 2 hours
+---
+
 # Ful Medames
 
 ![Ful Medames](resources/ful-medames.jpg)

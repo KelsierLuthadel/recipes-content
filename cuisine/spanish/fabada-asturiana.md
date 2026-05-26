@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus overnight bean soak)
+cook: 2 ½ hours
+---
+
 # Fabada Asturiana
 
 ![Fabada Asturiana](resources/fabada-asturiana.jpg)

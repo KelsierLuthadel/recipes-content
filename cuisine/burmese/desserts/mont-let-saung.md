@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 20 minutes (plus chilling)
+---
+
 # Mont Let Saung
 
 ![Mont Let Saung](resources/mont-let-saung.jpg)

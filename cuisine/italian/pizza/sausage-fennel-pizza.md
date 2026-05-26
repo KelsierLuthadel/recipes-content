@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 20 minutes
+---
+
 # Sausage, Fennel and Chilli Griddle-Pan Pizza
 
 ![Sausage, Fennel and Chilli Pizza](resources/sausage-fennel-pizza.jpg)

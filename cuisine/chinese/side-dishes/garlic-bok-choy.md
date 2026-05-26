@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 6 minutes
+---
+
 # Garlic Bok Choy
 
 ![Garlic Bok Choy](resources/garlic-bok-choy.jpg)

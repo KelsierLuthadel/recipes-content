@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 15 minutes
+---
+
 # Gỏi Bắp Cải
 
 ![Goi Bap Cai](resources/goi-bap-cai.jpg)

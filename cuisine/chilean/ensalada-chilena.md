@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 15 min onion soak)
+cook: 0 minutes
+---
+
 # Ensalada Chilena
 
 ![Ensalada Chilena](resources/ensalada-chilena.jpg)

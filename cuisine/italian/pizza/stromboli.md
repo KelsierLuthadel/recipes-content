@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 30 minutes
+---
+
 # Stromboli
 
 ![Stromboli](resources/stromboli.jpg)

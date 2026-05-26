@@ -1,3 +1,8 @@
+---
+prep: 40 minutes
+cook: 15 minutes
+---
+
 # Lumpia Shanghai
 
 ![Lumpia Shanghai](resources/lumpia-shanghai.jpg)

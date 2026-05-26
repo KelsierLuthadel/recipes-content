@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes soak)
+cook: 35 minutes
+---
+
 # Lahori Zarda
 
 ![Lahori Zarda](resources/lahori-zarda.jpg)

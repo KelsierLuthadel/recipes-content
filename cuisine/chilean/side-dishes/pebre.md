@@ -1,3 +1,8 @@
+---
+prep: 12 minutes
+cook: 0 minutes
+---
+
 # Pebre
 
 ![Pebre](resources/pebre.jpg)

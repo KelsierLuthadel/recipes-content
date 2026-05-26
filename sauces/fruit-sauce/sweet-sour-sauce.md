@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 20 minutes
+---
+
 # Sweet and Sour Sauce
 
 ![Sweet and sour sauce](resources/sweet-sour.png)

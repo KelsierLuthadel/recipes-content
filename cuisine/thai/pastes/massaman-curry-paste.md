@@ -1,3 +1,8 @@
+---
+prep: 40-60 minutes
+cook: 5 minutes
+---
+
 # Massaman Curry Paste
 
 ![Massaman Curry Paste](resources/massaman-curry-paste.jpg)

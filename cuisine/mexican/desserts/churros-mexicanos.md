@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 20 minutes
+---
+
 # Churros Mexicanos
 
 ![Churros Mexicanos](resources/churros-mexicanos.jpg)

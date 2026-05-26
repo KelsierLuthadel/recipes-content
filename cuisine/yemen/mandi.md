@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 4 hours marinating, optional)
+cook: 2 hours 45 minutes
+---
+
 # Mandi
 
 ![Mandi](resources/mandi.jpg)

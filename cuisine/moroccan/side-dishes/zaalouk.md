@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 45 minutes
+---
+
 # Zaalouk
 
 ![Zaalouk](resources/zaalouk.jpg)

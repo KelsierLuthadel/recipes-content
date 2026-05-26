@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes
+---
+
 # Chicken Pancetta Caesar Salad
 
 ![Chicken Pancetta Caesar Salad](resources/chicken-caesar-salad.jpg)

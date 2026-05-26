@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Lamb Karahi
 
 ![Lamb Karahi](resources/karahi.png)
@@ -47,4 +51,4 @@ Cooked in a karahi (two-handled wok-like pan) over high heat: lamb chunks simmer
 1. You may need to top up the water from time to time. 
 1. Check for seasoning and add more salt or spices to taste. 
 1. This is a quite dry curry so that it can easily be soaked up with fresh naans. 
-1. When the meat is really tender, add the julienned ginger, fresh chillies and garam masala and serve topped with fresh coriander 
+1. When the meat is really tender, add the julienned ginger, fresh chillies and garam masala and serve topped with fresh coriander

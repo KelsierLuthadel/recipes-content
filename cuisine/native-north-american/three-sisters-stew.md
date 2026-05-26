@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 50 minutes
+---
+
 # Three Sisters Stew
 
 ![Three Sisters Stew](resources/three-sisters-stew.jpg)

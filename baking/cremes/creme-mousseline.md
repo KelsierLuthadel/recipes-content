@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 8 minutes
+---
+
 # Crème Mousseline
 
 ![Crème Mousseline](resources/creme-mousseline.png)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Lamb Seekh Kebab
 
 ![Lamb Seekh Kebab](resources/seekh-kebab.png)

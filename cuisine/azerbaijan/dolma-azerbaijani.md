@@ -1,3 +1,8 @@
+---
+prep: 1 hour
+cook: 1 hour
+---
+
 # Dolma (Azerbaijani Stuffed Vine Leaves)
 
 ![Azerbaijani Dolma](resources/dolma-azerbaijani.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 25 minutes
+---
+
 # Three-Cheese Bourekas
 
 ![Three-Cheese Bourekas](resources/bourekas.jpg)

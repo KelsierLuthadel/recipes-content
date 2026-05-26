@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus overnight brine)
+cook: 25 minutes
+---
+
 # Buttermilk Fried Chicken
 
 ![Buttermilk Fried Chicken](resources/buttermilk-fried-chicken.jpg)

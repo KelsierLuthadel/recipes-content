@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 2 hour dough rest)
+cook: 18 minutes
+---
+
 # Nan-E Nokhodchi
 
 ![Nan-e Nokhodchi](resources/nan-e-nokhodchi.jpg)

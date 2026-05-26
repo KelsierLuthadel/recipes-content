@@ -1,3 +1,8 @@
+---
+prep: 50 minutes
+cook: 25 minutes
+---
+
 # Mantu
 
 ![Mantu](resources/mantu.jpg)

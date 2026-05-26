@@ -1,3 +1,8 @@
+---
+prep: 8 minutes
+cook: 15 minutes
+---
+
 # Patacones
 
 ![Patacones](resources/patacones.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 33 minutes
+---
+
 # Fresh Pasta Dough
 
 ![Fresh Pasta](resources/pasta.jpg)

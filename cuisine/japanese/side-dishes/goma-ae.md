@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 5 minutes
+---
+
 # Goma-Ae
 
 ![Goma-ae](resources/goma-ae.jpg)

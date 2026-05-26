@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 5 minutes
+---
+
 # Fried Onion Paste
 
 ![Fried Onion Paste](resources/fried-onion-paste.jpg)

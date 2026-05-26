@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 35 minutes
+---
+
 # Full English Breakfast
 
 ![Full English Breakfast](resources/full-english-breakfast.jpg)

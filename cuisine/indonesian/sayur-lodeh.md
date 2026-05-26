@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Sayur Lodeh
 
 ![Sayur Lodeh](resources/sayur-lodeh.jpg)

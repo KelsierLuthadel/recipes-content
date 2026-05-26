@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 3 minutes
+---
+
 # Spaghetti with Chicken Meatballs
 
 ![Spaghetti with Chicken Meatballs](resources/chicken-meatballs.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Meringue Suisse (Swiss Meringue)
 
 ![Meringue Suisse (Swiss meringue)](resources/meringue-suisse.jpg)

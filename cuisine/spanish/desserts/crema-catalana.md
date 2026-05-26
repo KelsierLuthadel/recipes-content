@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Crema Catalana
 
 ![Crema Catalana](resources/crema-catalana.jpg)
@@ -47,4 +51,3 @@ Spoon from the individual dishes directly into serving bowls, breaking through t
 
 ## Storage
 The custard bases can be made 1 day ahead and refrigerated in their chilling dishes, covered with plastic film. The caramelized sugar coating must be applied no more than 30 minutes before serving; beyond that, the sugar coating gradually softens from the custard's moisture. These are best served the day they are made.
-

@@ -1,3 +1,7 @@
+---
+prep: 20 minutes
+---
+
 # Orange Soufflé
 
 ![Orange Soufflé](resources/orange-soufflee.jpg)
@@ -62,4 +66,3 @@ Serve each soufflé directly from its ramekin or dish, placed on a plate lined w
 
 ## Storage
 Soufflés do not store after baking as they deflate within minutes of removal from the oven. Serve immediately for best appearance and texture. The prepared crème patissière base can be made 2-3 hours ahead and stored covered in the refrigerator, then bring to room temperature before folding in egg whites.
-

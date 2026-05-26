@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 1 hour marinating)
+cook: 30 minutes
+---
+
 # Pollo Con Tajadas
 
 ![Pollo con Tajadas](resources/pollo-con-tajadas.jpg)

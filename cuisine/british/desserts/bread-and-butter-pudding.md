@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes soak)
+cook: 35 minutes
+---
+
 # Bread and Butter Pudding
 
 ![Bread and Butter Pudding](resources/bread-and-butter-pudding.jpg)

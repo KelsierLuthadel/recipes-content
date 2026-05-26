@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 2 hours rising, overnight cold proof)
+cook: 25 minutes
+---
+
 # Bagels
 
 ![Bagels](resources/bagels.jpg)

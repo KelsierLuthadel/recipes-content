@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 50 minutes
+---
+
 # Fatteh Djaj
 
 ![Fatteh Djaj](resources/fatteh-djaj.jpg)

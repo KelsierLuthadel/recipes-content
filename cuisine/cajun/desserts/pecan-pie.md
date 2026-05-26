@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour pastry chill)
+cook: 1 hour
+---
+
 # Pecan Pie
 
 ![Pecan Pie](resources/pecan-pie.jpg)

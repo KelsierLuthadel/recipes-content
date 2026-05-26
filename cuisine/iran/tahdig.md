@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 1 hour rice soak)
+cook: 1 hour
+---
+
 # Tahdig
 
 ![Tahdig](resources/tahdig.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 1 hour salting)
+cook: 12 minutes
+---
+
 # Sardinhas Assadas
 
 ![Sardinhas Assadas](resources/sardinhas-assadas.jpg)

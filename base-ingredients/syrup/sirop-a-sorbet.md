@@ -1,3 +1,7 @@
+---
+prep: 20 minutes
+---
+
 # Syrup for Sorbet (Sirop à Sorbet)
 
 ![Syrup for Sorbet](resources/sirop-a-sorbet.png)

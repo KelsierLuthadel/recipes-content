@@ -1,3 +1,8 @@
+---
+prep: 40-60 minutes
+cook: 5 minutes
+---
+
 # Thai Red Curry Paste
 
 ![Thai Red Curry Paste](resources/thai-red-curry-paste.jpg)

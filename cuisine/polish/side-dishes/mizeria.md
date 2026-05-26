@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 20 minutes salting)
+cook: none
+---
+
 # Mizeria
 
 ![Mizeria](resources/mizeria.jpg)

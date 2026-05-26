@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # KFC-Style Herbs and Spices
 
 ![KFC Spice Mix](resources/kfc.jpg)

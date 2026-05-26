@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 20 minutes
+---
+
 # Chocolate Roulade
 
 ![Chocolate Roulade](resources/chocolate-roulade.jpg)
@@ -50,4 +55,3 @@ Slice the roulade with a sharp, thin-bladed knife dipped in hot water (wipe betw
 
 ## Storage
 The roulade can be assembled up to 2-3 hours before serving and kept covered lightly in a cool location (not refrigerated, as cold makes the meringue hard). The meringue base can be baked the day before and kept in an airtight container at room temperature. Do not refrigerate the assembled roulade or the meringue will become tough and hard; instead, keep in a cool room.
-

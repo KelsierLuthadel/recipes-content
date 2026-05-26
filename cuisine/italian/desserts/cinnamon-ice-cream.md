@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 20 minutes
+---
+
 # Cinnamon Ice Cream
 
 ![Cinnamon Ice Cream](resources/cinnamon-ice-cream.jpg)
@@ -35,4 +40,3 @@ Serve scoops of cinnamon ice cream alongside warm apple crisps, spiced pear dess
 
 ## Storage
 Store in the freezer for up to two weeks in an airtight, freezer-safe container. The ice cream keeps best for the first week; after that, ice crystals may begin to form on the surface despite proper covering. Allow to temper for 10-15 minutes at room temperature if the ice cream becomes very hard, making scooping easier.
-

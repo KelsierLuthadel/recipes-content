@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 30 minutes
+---
+
 # Bercy Sauce
 
 ![Bercy sauce](resources/bercy-sauce.jpg)

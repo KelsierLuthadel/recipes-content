@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 12 minutes
+---
+
 # Ensaladang Talong (Grilled Eggplant Salad)
 
 ![Ensaladang Talong](resources/ensaladang-talong.jpg)

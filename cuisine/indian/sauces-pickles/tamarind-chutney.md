@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Tamarind Chutney
 
 ![Tamarind Chutney](resources/tamarind-chutney.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Nam Prik Pao
 
 ![Nam Prik Pao](resources/nam-prik-pao.jpg)

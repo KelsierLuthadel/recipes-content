@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 4 minutes
+---
+
 # Chinese Pancakes
 
 ![Chinese Pancakes](resources/chinese-pancakes.jpg)
@@ -111,4 +116,4 @@ Vessel: Stack on a warm plate, loosely covered with foil to retain heat
 - Freeze cooked pancakes: stack between parchment paper and freeze in a bag for up to 1 month; thaw and reheat as above
 - Do not freeze uncooked paired pancakes; thawing creates condensation that ruins the oil layer
 
-*These thin, crispy-edged pancakes are made by layering two thin dough discs with sesame oil between them, creating steam pockets that allow them to separate after cooking. Serve as a vehicle for soups, curries, or stir-fries, they're sophisticated yet simple.*
+*These thin, crispy-edged pancakes are made by layering two thin dough discs with sesame oil between them, creating steam pockets that allow them to separate after cooking. Serve as a vehicle for soups, curries, or stir-fries, they're sophisticated yet simple.*

@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Pains au Raisins
 
 ![Pains au raisins](resources/pains-aux-raisin.jpg)
@@ -89,4 +93,4 @@ Accompaniments: Jam, pastry cream, or unsweetened crème fraîche
 - Can be prepared and frozen before baking; bake directly from frozen at 170°C for 14-15 minutes
 - Do not refrigerate; cold makes them stodgy
 
-*These classic French breakfast pastries should be served with a steaming cup of hot chocolate.*
+*These classic French breakfast pastries should be served with a steaming cup of hot chocolate.*

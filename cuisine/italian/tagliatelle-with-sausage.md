@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 4 minutes
+---
+
 # Tagliatelle with Sausage, Rosemary, and Porcini Mushroom
 
 ![Tagliatelle with Sausage](resources/tagliatelle-funghi.jpg)

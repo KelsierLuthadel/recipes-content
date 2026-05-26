@@ -1,3 +1,7 @@
+---
+prep: 15 minutes (plus 2 hours chilling)
+---
+
 # Chocolate Tiffin
 
 ![Chocolate Tiffin](resources/tiffin.jpg)

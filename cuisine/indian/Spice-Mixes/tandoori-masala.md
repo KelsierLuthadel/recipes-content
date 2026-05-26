@@ -1,3 +1,8 @@
+---
+prep: 8 minutes
+cook: 2 minutes
+---
+
 # Tandoori Masala
 
 ![Tandoori Masala](resources/tandoori-masala.jpg)

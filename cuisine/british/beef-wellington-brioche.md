@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 42 minutes
+---
+
 # Beef Wellington en Brioche
 
 ![Beef Wellington en Brioche](resources/beef-wellington-brioche.jpg)

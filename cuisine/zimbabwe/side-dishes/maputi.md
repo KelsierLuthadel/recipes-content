@@ -1,3 +1,8 @@
+---
+prep: 2 minutes
+cook: 10 minutes
+---
+
 # Maputi
 
 ![Maputi](resources/maputi.jpg)

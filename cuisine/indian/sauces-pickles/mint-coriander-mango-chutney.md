@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Mint, Coriander, and Mango Chutney
 
 ![Mint Coriander Mango Chutney](resources/mint-coriander-mango.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 30 minutes pastry rest)
+cook: 30 minutes
+---
+
 # Crawfish Pie (Mini)
 
 ![Crawfish Pie](resources/crawfish-pie.jpg)

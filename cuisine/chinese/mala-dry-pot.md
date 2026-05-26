@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 20 minutes
+---
+
 # Mala Dry-Pot (Ganguo)
 
 ![Mala Dry-Pot (Ganguo)](resources/mala-dry-pot.jpg)

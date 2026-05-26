@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 35 minutes
+---
+
 # Arroz Con Coco
 
 ![Arroz con Coco](resources/arroz-con-coco.jpg)

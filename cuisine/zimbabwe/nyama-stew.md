@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 45 minutes
+---
+
 # Nyama Stew
 
 ![Nyama Stew](resources/nyama-stew.jpg)

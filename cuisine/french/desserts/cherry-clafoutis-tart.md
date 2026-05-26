@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 45 minutes
+---
+
 # Cherry Clafoutis Tart
 
 ![Cherry Clafoutis Tart](resources/cherry-clafoutis-tart.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus overnight soak)
+cook: 1 hour 30 minutes
+---
+
 # Rajma
 
 ![Rajma](resources/rajma.jpg)

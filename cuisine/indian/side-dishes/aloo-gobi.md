@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Aloo Gobi
 
 ![Aloo Gobi](resources/aloo-gobi.jpg)

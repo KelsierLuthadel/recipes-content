@@ -1,3 +1,7 @@
+---
+prep: 10 minutes active
+---
+
 # Mast O Musir
 
 ![Mast o Musir](resources/mast-o-musir.jpg)

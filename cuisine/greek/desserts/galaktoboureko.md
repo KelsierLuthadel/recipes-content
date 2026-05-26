@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 50 minutes (plus 4 hours resting)
+---
+
 # Galaktoboureko
 
 ![Galaktoboureko](resources/galaktoboureko.jpg)

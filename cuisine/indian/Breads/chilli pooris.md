@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes rest)
+cook: 10 minutes
+---
+
 # Chilli Pooris
 
 ![Chilli Pooris](resources/poori.jpg)

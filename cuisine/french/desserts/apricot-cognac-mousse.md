@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 5 minutes
+---
+
 # Apricot and Cognac Mousse with Caramelised Almonds
 
 ![Apricot and cognac mousse with caramelised almonds](resources/apricot-cognac-mousse.jpg)
@@ -62,4 +67,3 @@ Serve in elegant small glasses or coupes, each topped with a perfect fresh apric
 
 ## Storage
 Once set (after 4+ hours in the refrigerator), the mousse can be covered and refrigerated for up to 2 days. The caramelized almonds must be stored separately in an airtight container at room temperature (they absorb moisture from the air). Assemble no more than 30 minutes before serving to keep the almonds crisp.
-

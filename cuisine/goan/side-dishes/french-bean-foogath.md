@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 12 minutes
+---
+
 # French Bean Foogath
 
 ![French Bean Foogath](resources/french-bean-foogath.jpg)

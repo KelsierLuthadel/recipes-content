@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 4 minutes
+---
+
 # Stir Fried Mange Tout with Waterchestnuts
 
 ![Stir fried mange tout with waterchestnuts](resources/mange-tout.jpg)
@@ -51,4 +56,4 @@ Amount: 2-4 portions as a side dish
 - Reheat briefly in a hot wok, the texture will soften but the flavour remains good.
 - Not suitable for freezing as the mange tout will become limp.
 
-*This sweet crunchy side dish is a perfect accompaniment to any Chinese dish, but works especially well with lemon chicken.*
+*This sweet crunchy side dish is a perfect accompaniment to any Chinese dish, but works especially well with lemon chicken.*

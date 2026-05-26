@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 12 minutes
+---
+
 # Choripán Chileno
 
 ![Choripán Chileno](resources/choripan-chileno.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 60 minutes
+---
+
 # Mulligatawny Soup
 
 ![Mulligatawny soup](resources/mulligatawny.jpg)

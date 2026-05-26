@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus overnight soaking)
+cook: 4 hours (pressure cooker) or 6 hours (stovetop)
+---
+
 # Haleem
 
 ![Haleem](resources/haleem.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 30 minutes pastry chilling)
+cook: 30 minutes
+---
+
 # Gizzada
 
 ![Gizzada](resources/gizzada.jpg)

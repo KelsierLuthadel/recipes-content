@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 1 hour resting)
+cook: 50 minutes
+---
+
 # Pakhlava (Azerbaijani)
 
 ![Azerbaijani Pakhlava](resources/pakhlava-azerbaijani.jpg)

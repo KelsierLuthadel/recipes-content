@@ -1,3 +1,8 @@
+---
+prep: 1 ½ hours (across stages)
+cook: 30 minutes (plus 4 hours chilling)
+---
+
 # Eszterházy Torte
 
 ![Eszterházy Torte](resources/eszterhazy-torte.jpg)

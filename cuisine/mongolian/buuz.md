@@ -1,3 +1,8 @@
+---
+prep: 1 hour
+cook: 18 minutes
+---
+
 # Buuz
 
 ![Buuz](resources/buuz.jpg)

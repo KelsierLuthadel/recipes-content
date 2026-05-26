@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 25 minutes
+---
+
 # Lomo Saltado
 
 ![Lomo Saltado](resources/lomo-saltado.jpg)

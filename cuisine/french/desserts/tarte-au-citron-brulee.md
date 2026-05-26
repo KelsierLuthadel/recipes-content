@@ -1,3 +1,8 @@
+---
+prep: 35 minutes
+cook: 1 hour 35 minutes
+---
+
 # Tarte au Citron Brûlée (Cream-Set)
 
 ![Tarte au Citron Brûlée](resources/tarte-au-citron-brulee.jpg)

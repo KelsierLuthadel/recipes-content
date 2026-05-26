@@ -1,3 +1,7 @@
+---
+prep: 15 minutes (plus 2 hours chilling)
+---
+
 # Rocky Road
 
 ![Rocky Road](resources/rocky-road.jpg)

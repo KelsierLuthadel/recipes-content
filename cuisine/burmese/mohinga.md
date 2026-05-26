@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 1 hour
+---
+
 # Mohinga
 
 ![Mohinga](resources/mohinga.jpg)

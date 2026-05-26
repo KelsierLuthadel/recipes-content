@@ -1,3 +1,8 @@
+---
+prep: 40 minutes
+cook: 25 minutes
+---
+
 # Chả Giò
 
 ![Cha Gio](resources/cha-gio.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes (in batches)
+---
+
 # Kimchijeon (Kimchi Pancake)
 
 ![Kimchijeon](resources/kimchijeon.jpg)

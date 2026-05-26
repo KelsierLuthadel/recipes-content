@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 30 minutes
+---
+
 # Shiro Wat
 
 ![Shiro Wat](resources/shiro-wat.jpg)

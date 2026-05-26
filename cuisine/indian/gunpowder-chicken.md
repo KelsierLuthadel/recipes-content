@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Gunpowder Chicken
 
 ![Gunpowder Chicken](resources/gunpowder-chicken.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes salting)
+cook: 35 minutes
+---
+
 # Borani Banjan
 
 ![Borani Banjan](resources/borani-banjan.jpg)

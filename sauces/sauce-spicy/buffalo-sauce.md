@@ -1,3 +1,8 @@
+---
+prep: 2 minutes
+cook: 5 minutes
+---
+
 # Buffalo Sauce
 
 ![Buffalo Sauce](resources/buffalo-sauce.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 ¼ hours
+---
+
 # Musakhan
 
 ![Musakhan](resources/musakhan.jpg)

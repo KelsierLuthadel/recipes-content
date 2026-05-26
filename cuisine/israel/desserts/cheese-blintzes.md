@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 30 minutes resting)
+cook: 25 minutes
+---
+
 # Cheese Blintzes
 
 ![Cheese Blintzes](resources/cheese-blintzes.jpg)

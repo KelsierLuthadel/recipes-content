@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Grilled Eggplant Salad
 
 ![Grilled Eggplant Salad](resources/grilled-eggplant-salad.jpg)

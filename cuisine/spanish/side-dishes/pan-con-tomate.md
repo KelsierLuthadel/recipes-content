@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 4 minutes
+---
+
 # Pan Con Tomate
 
 ![Pan con Tomate](resources/pan-con-tomate.jpg)

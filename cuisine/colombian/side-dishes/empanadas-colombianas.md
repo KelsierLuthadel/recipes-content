@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 20 minutes
+---
+
 # Empanadas Colombianas
 
 ![Empanadas Colombianas](resources/empanadas-colombianas.jpg)

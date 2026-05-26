@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Ham-Filled Pasta (Mezzelune)
 
 ![Ham-Filled Pasta](resources/ham-filled-pasta.jpg)

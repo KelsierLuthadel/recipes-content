@@ -1,3 +1,7 @@
+---
+prep: 25 minutes
+---
+
 # Beef Rendang
 
 ![Beef Rendang](resources/beef-rendang.jpg)

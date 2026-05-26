@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 25 minutes
+---
+
 # Baba Ganoush
 
 ![Baba Ganoush](resources/baba-ganoush.jpg)

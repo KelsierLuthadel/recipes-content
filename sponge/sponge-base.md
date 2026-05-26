@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15-25 minutes
+---
+
 # Sponge Base
 
 ![Sponge Base](resources/sponge-base.png)

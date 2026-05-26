@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 1 hour 15 minutes
+---
+
 # Egusi Soup
 
 ![Egusi Soup](resources/egusi-soup.jpg)

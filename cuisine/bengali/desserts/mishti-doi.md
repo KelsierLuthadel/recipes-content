@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 8-12 hours fermentation and 4 hours chilling)
+cook: 30 minutes
+---
+
 # Mishti Doi
 
 ![Mishti Doi](resources/mishti-doi.jpg)

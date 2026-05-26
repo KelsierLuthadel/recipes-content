@@ -1,3 +1,8 @@
+---
+prep: 1 ½ hours
+cook: 1 ½ hours
+---
+
 # Pork Tamales
 
 ![Pork Tamales](resources/tamales.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 40 minutes
+---
+
 # Crab Bisque
 
 ![Crab bisque](resources/crab-bisque.jpg)

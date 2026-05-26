@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 2 hours marinating)
+cook: 1 hour 45 minutes
+---
+
 # Trinidadian Curry Goat
 
 ![Trinidadian Curry Goat](resources/trinidadian-curry-goat.jpg)

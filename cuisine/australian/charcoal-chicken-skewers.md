@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 12-24 hours marinating)
+cook: 20 minutes
+---
+
 # Charcoal Chicken Shop Chicken Skewers
 
 ![Charcoal Chicken Shop Chicken Skewers](resources/charcoal-chicken-skewers.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 1 hour marinating)
+cook: 20 minutes
+---
+
 # Buldak
 
 ![Buldak](resources/buldak.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 1 hour soaking, 2 hours chilling)
+cook: None
+---
+
 # Thandai
 
 ![Thandai](resources/thandai.jpg)

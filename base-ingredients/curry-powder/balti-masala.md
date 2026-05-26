@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Balti Masala
 
 ![Balti Masala](resources/balti-masala.jpg)

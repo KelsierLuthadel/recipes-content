@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 1 hour resting)
+cook: 30 minutes
+---
+
 # Chebakia (Sesame Honey Rosettes)
 
 ![Chebakia](resources/chebakia.jpg)

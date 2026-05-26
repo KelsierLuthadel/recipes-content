@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 30 minutes resting)
+cook: 25 minutes (in batches)
+---
+
 # Chin-Chin
 
 ![Chin-Chin](resources/chin-chin.jpg)

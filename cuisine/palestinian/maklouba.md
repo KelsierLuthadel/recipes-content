@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 1 ¼ hours
+---
+
 # Maklouba
 
 ![Maklouba](resources/maklouba.jpg)

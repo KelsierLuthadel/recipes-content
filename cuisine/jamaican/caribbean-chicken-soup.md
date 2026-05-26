@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes seasoning)
+cook: 1 hour 50 minutes
+---
+
 # Caribbean Chicken Soup
 
 ![Caribbean Chicken Soup](resources/caribbean-chicken-soup.jpg)

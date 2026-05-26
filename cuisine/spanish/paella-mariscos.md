@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 35 minutes
+---
+
 # Paella de Mariscos
 
 ![Paella de Mariscos](resources/paella-mariscos.jpg)

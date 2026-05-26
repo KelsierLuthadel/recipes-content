@@ -1,3 +1,8 @@
+---
+prep: 1 hour
+cook: 12 minutes
+---
+
 # Kibbeh Nayyeh Balls (Fried)
 
 ![Kibbeh Nayyeh Balls](resources/kibbeh-nayyeh-balls.jpg)

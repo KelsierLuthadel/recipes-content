@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Mint Chutney
 
 ![Mint Chutney](resources/mint-chutney.jpg)

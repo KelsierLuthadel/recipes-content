@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 1 hour marinating)
+cook: 50 minutes
+---
+
 # Madghoot
 
 ![Madghoot](resources/madghoot.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 3-4 days marinade)
+cook: 3 hours
+---
+
 # Sauerbraten
 
 ![Sauerbraten](resources/sauerbraten.jpg)

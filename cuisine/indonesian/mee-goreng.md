@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Indonesian Mee Goreng
 
 ![Indonesian Mee Goreng](resources/mee-goreng.jpg)

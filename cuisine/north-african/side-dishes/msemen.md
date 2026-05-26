@@ -1,3 +1,8 @@
+---
+prep: 40 minutes (plus 30 min dough rest)
+cook: 25 minutes
+---
+
 # Msemen
 
 ![Msemen](resources/msemen.jpg)

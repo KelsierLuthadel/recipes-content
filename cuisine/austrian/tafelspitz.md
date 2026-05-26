@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 3 hours
+---
+
 # Tafelspitz
 
 ![Tafelspitz](resources/tafelspitz.jpg)

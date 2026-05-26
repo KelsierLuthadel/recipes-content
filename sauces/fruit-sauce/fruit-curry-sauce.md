@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Fruity Curry Sauce
 
 ![Fruity curry sauce](resources/fruit-curry-sauce.png)

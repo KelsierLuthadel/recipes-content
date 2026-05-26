@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 30 minutes
+---
+
 # Lahori Gajar Halwa
 
 ![Lahori Gajar Halwa](resources/lahori-gajar-halwa.jpg)

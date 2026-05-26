@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 50 minutes
+---
+
 # Sanwin Makin
 
 ![Sanwin Makin](resources/sanwin-makin.jpg)

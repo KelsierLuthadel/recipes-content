@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 20 min dough rest)
+cook: 12 minutes (fried) OR 18 minutes (baked)
+---
+
 # Sambousek Jibneh
 
 ![Sambousek Jibneh](resources/sambousek-jibneh.jpg)

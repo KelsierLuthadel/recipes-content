@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 30 min chilling)
+cook: 45 minutes
+---
+
 # Pineapple Cake
 
 ![Pineapple Cake](resources/pineapple-cake.jpg)

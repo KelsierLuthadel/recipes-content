@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 2.5 hours rising)
+cook: 30 minutes
+---
+
 # Challah
 
 ![Challah](resources/challah.jpg)

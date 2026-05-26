@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus chilling)
+cook: 18 minutes
+---
+
 # Pastéis de Nata
 
 ![Pastéis de Nata](resources/pasteis-de-nata.jpg)

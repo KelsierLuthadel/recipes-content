@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Fines Herbes
 
 ![Fines Herbes](resources/fines-herbes.png)

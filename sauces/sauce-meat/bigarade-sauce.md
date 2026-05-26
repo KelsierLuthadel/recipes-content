@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 45 minutes
+---
+
 # Bigarade Sauce
 
 ![Bigarade sauce](resources/bigarade-sauce.png)

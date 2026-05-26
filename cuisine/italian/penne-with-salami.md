@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 11 minutes
+---
+
 # Crispy Topped Pasta with Courgettes and Salami
 
 ![Crispy Topped Pasta](resources/crispy-pasta.jpg)

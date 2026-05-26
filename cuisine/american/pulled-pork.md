@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus overnight rub)
+cook: 8 hours
+---
+
 # Pulled Pork
 
 ![Pulled Pork](resources/pulled-pork.jpg)

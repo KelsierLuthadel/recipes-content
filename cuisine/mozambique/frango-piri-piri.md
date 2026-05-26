@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 4 hours marinating)
+cook: 35 minutes
+---
+
 # Frango Piri-Piri
 
 ![Frango Piri-Piri](resources/frango-piri-piri.jpg)

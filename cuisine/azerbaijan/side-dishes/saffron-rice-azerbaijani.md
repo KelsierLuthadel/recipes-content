@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 1 hour soaking)
+cook: 50 minutes
+---
+
 # Saffron Rice (Azerbaijani Style)
 
 ![Azerbaijani Saffron Rice](resources/saffron-rice-azerbaijani.jpg)

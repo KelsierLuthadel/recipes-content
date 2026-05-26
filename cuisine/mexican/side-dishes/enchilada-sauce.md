@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 35 minutes
+---
+
 # Authentic Enchilada Sauce
 
 ![Authentic Enchilada Sauce](resources/enchilada-sauce.png)

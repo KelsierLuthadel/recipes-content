@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 20 minutes
+---
+
 # Chopped Egg and Onion
 
 ![Chopped Egg and Onion](resources/chopped-egg-and-onion.jpg)

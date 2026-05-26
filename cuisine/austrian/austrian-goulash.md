@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 2 ½ hours
+---
+
 # Austrian Goulash
 
 ![Austrian Goulash](resources/austrian-goulash.jpg)

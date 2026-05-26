@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 25 minutes (basmati) or 45 minutes (with droma)
+---
+
 # Dresil
 
 ![Dresil](resources/dresil.jpg)

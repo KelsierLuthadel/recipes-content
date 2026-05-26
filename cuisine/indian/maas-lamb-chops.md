@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 10 minutes
+---
+
 # Maa’s Lamb Chops
 
 ![Maa’s Lamb Chops](resources/maas-lamb-chops.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus overnight soak)
+cook: 3 hours
+---
+
 # Dal Makhani
 
 ![Dal Makhani](resources/dal-makhani.jpg)

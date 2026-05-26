@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 2 minutes
+---
+
 # Bucatini Carbonara
 
 ![Bucatini Carbonara](resources/bucatini-carbonara.jpg)

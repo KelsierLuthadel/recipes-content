@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 40 minutes
+---
+
 # Tarka Dal
 
 ![Tarka Dal](resources/tarka-dal.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 8 minutes
+---
+
 # Bananas Foster
 
 ![Bananas Foster](resources/bananas-foster.jpg)

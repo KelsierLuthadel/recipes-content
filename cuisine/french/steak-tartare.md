@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 0 minutes
+---
+
 # Steak Tartare
 
 ![Steak Tartare](resources/steak-tartare.jpg)

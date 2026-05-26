@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 7 minutes
+---
+
 # Gelée de Pommes
 
 ![Gelée de pommes](resources/gelee-de-pommes.jpg)

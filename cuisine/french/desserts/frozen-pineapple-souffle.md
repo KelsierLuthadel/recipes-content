@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 35 minutes
+---
+
 # Frozen Pineapple Soufflé with Blackberries
 
 ![Frozen pineapple soufflé with blackberries](resources/pineapple-souffle.jpg)
@@ -81,4 +86,3 @@ Remove the paper collar just before serving and fill the cavity with blackberry 
 
 ## Storage
 Once assembled, serve immediately. The unfilled and undecorated frozen soufflé can be stored in the freezer for up to 2 days before final assembly and serving. If made ahead, wrap carefully in plastic film to prevent freezer burn and protect from absorbing other flavors.
-

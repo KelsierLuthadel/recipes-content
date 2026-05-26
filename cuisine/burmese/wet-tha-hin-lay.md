@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 30 minutes marinating)
+cook: 1 hour 30 minutes
+---
+
 # Wet Tha Hin Lay
 
 ![Wet Tha Hin Lay](resources/wet-tha-hin-lay.jpg)

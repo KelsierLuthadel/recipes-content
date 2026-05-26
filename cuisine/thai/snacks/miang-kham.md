@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 15 minutes (for the sauce)
+---
+
 # Miang Kham
 
 ![Miang Kham](resources/miang-kham.jpg)

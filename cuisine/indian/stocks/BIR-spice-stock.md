@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 35 minutes
+---
+
 # BIR Spice Stock
 
 ![BIR Spice Stock](resources/BIR-spice-stock.jpg)

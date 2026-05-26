@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 2 hours marinating, ideally overnight)
+cook: 2 hours
+---
+
 # Brown Stew Chicken
 
 ![Brown Stew Chicken](resources/brown-stew-chicken.jpg)

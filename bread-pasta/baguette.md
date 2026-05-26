@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Baguette
 
 ![Baguette](resources/baguette.jpg)

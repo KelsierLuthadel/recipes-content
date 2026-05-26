@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 15 minutes
+---
+
 # Chicken Satay with Peanut Sauce
 
 ![Chicken Satay with Peanut Sauce](resources/chicken-satay.jpg)

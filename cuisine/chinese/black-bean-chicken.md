@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 6 minutes
+---
+
 # Chicken in Black Bean Sauce
 
 ![Chicken in Black Bean Sauce](resources/black-bean.jpg)

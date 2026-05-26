@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 3-8 hours marinating)
+cook: 25 minutes
+---
+
 # Uyghur Kebab Burger
 
 ![Uyghur Kebab Burger](resources/kebab-burger.jpg)

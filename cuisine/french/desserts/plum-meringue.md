@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour
+---
+
 # Plum Meringues
 
 ![Plum meringues](resources/plum-meringue.jpg)
@@ -44,4 +49,3 @@ Serve each large meringue on its own plate or in a shallow bowl, allowing the pl
 
 ## Storage
 Plum meringues are best served within 24 hours of making, while the plum juice has just begun to stain the meringue and before it becomes overly soft. They can be kept covered at room temperature for up to 2 days, though the meringues gradually absorb moisture and soften. The poached plums and syrup can be prepared the day before and refrigerated in a covered container; fold them into the meringue just before baking.
-

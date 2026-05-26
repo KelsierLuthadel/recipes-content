@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 5 minutes
+---
+
 # Lemon Sauce
 
 ![Lemon sauce](resources/lemon-sauce.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 26 minutes
+---
+
 # Pithiviers
 
 ![Pithiviers](resources/pithivier.jpg)
@@ -61,4 +66,3 @@ Slice the pithiviers at the table with a sharp knife to reveal the beautiful int
 
 ## Storage
 The assembled but unbaked pithiviers can be refrigerated for up to 4 hours before baking, allowing you to bake when ready to serve. The baked pithiviers is best served warm or at room temperature on the day it's baked; once cool, the pastry gradually becomes soft. Cover lightly with foil if keeping warm for an hour or so after baking.
-

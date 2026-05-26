@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 53 minutes
+---
+
 # Celeriac and Potato Dauphinoise
 
 ![Celeriac and potato dauphinoise](resources/celeriac-and-potato-dauphinoise.jpg)

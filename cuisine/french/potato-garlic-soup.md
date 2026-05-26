@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 50 minutes
+---
+
 # Potato and Garlic Soup
 
 ![Potato and garlic soup](resources/potato-garlic-soup.jpg)

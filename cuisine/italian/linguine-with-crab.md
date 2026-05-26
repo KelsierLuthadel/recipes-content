@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Linguine with Crab, Fresh Chilli, and Lemon Zest
 
 ![Linguine with Crab](resources/granchio.jpg)

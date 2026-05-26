@@ -1,3 +1,8 @@
+---
+prep: 35 minutes
+cook: 15 minutes
+---
+
 # Pilau Rice
 
 ![Pilau Rice](resources/pilau-rice.jpg)

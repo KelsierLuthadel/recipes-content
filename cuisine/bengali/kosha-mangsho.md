@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 1 hour marinating)
+cook: 2 hours
+---
+
 # Kosha Mangsho
 
 ![Kosha Mangsho](resources/kosha-mangsho.jpg)

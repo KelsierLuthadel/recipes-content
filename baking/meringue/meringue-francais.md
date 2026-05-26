@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 10 minutes
+---
+
 # Meringue Francaise (French Meringue)
 
 ![Meringue Francaise (French Meringue)](resources/meringue-francaise.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 2 hours 30 minutes
+---
+
 # Beef and Guinness Stew
 
 ![Beef and Guinness Stew](resources/beef-and-guinness-stew.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 12 hours soaking)
+cook: 3 hours 30 minutes
+---
+
 # Baked Beans
 
 ![Baked Beans](resources/baked-beans.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 45 minutes
+---
+
 # Super-Crunch Chicken Tenders with d'Ussé Honey Sauce
 
 ![Super-Crunch Chicken Tenders](resources/super-crunch-tenders.jpg)

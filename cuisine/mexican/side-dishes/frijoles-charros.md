@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus overnight soak)
+cook: 1 hour 45 minutes
+---
+
 # Frijoles Charros
 
 ![Frijoles Charros](resources/frijoles-charros.jpg)

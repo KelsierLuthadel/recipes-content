@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes resting)
+cook: 25 minutes (if roasting the peppers fresh)
+---
+
 # Muhammara
 
 ![Muhammara](resources/muhammara.jpg)

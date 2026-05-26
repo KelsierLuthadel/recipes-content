@@ -1,3 +1,7 @@
+---
+prep: 15 minutes (plus 2 hours chilling)
+---
+
 # White Chocolate Rocky Road
 
 ![White Chocolate Rocky Road](resources/white-chocolate-rocky-road.jpg)

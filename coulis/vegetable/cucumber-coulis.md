@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Cucumber Coulis
 
 ![Cucumber Coulis](resources/cucumber-coulis.jpg)

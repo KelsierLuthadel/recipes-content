@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus overnight soak)
+cook: 1 hour (plus chilling)
+---
+
 # Mote Con Huesillos
 
 ![Mote con Huesillos](resources/mote-con-huesillos.jpg)

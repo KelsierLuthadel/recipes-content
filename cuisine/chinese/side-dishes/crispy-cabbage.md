@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Crispy Cabbage
 
 ![Crispy cabbage](resources/crispy-cabbage.jpg)
@@ -40,4 +44,4 @@ Amount: a generous handful per person as a side
 - Best eaten immediately, the cabbage loses its crispiness quickly once cooked.
 - Not suitable for refrigerating or reheating as the texture will become limp.
 
-*It is important that when frying the cabbage to place a lid on the pan, as the high water content in the cabbage will cause the oil to spit.*
+*It is important that when frying the cabbage to place a lid on the pan, as the high water content in the cabbage will cause the oil to spit.*

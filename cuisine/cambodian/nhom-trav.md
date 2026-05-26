@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 5 minutes
+---
+
 # Nhom Trav
 
 ![Nhom Trav](resources/nhom-trav.jpg)

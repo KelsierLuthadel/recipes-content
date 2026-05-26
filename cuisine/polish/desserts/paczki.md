@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 2 hours proving)
+cook: 25 minutes
+---
+
 # Pączki
 
 ![Pączki](resources/paczki.jpg)

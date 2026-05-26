@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Chicken Ceylon
 
 ![Chicken Ceylon](resources/BIR-Chicken-Ceylon.jpg)

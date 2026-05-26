@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 18 minutes
+---
+
 # Spinach and Pine Nut Pinsa Romana
 
 ![Spinach and Pine Nut Pinsa Romana](resources/spinach-pine-nut-pinsa-romana.jpg)

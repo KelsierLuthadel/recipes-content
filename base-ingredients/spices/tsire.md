@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Tsire Powder (West African Spice Coating)
 
 ![Tsire Powder](resources/tsire.jpg)
@@ -78,4 +82,4 @@ Additional: Dust finished kebabs with a little more tsire powder before serving
 - Grind fresh peanuts when possible for best flavor
 
 
-*This simple spice mixture is used as a coating for kebabs throughout West Africa, particularly Nigeria. Cubes of raw meat are first dipped in oil or beaten egg, then rolled in tsire powder, creating a flavorful spiced crust that develops as the kebabs cook over coals or flame.*
+*This simple spice mixture is used as a coating for kebabs throughout West Africa, particularly Nigeria. Cubes of raw meat are first dipped in oil or beaten egg, then rolled in tsire powder, creating a flavorful spiced crust that develops as the kebabs cook over coals or flame.*

@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 1 hour 30 minutes chilling)
+cook: 30 minutes (plus 12 minutes for the caramel)
+---
+
 # Millionaire's Shortbread
 
 ![Millionaire's Shortbread](resources/millionaires-shortbread.jpg)

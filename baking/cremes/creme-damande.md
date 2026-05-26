@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Crème d'Amande
 
 ![Crème d'amande](resources/creme-damande.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 35 minutes (plus 45 min dough rise)
+cook: 18 minutes
+---
+
 # Fatayer Sabanikh
 
 ![Fatayer Sabanikh](resources/fatayer-sabanikh.jpg)

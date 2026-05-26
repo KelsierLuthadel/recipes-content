@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 0 minutes
+---
+
 # Lahori Mint Chutney
 
 ![Lahori Mint Chutney](resources/lahori-mint-chutney.jpg)

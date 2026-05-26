@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes
+---
+
 # Pisang Goreng (Indonesian Banana Fritters)
 
 ![Pisang Goreng](resources/pisang-goreng.jpg)

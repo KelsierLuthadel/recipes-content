@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 30 minutes soaking)
+cook: 50 minutes
+---
+
 # Bread Pudding with Bourbon Sauce
 
 ![Bread Pudding with Bourbon Sauce](resources/bread-pudding.jpg)

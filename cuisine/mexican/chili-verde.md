@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 2 hours 15 minutes
+---
+
 # Chili Verde
 
 ![Chili Verde](resources/chili-verde.jpg)

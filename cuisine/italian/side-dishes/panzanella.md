@@ -1,3 +1,7 @@
+---
+prep: 20 minutes
+---
+
 # Panzanella
 
 ![Panzanella](resources/panzanella.jpg)

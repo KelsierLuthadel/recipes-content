@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 45 minutes (plus 4 hours chilling)
+---
+
 # Leche Flan
 
 ![Leche Flan](resources/leche-flan.jpg)

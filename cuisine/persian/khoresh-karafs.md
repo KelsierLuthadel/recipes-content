@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 1 hour 45 minutes
+---
+
 # Khoresh Karafs
 
 ![Khoresh Karafs](resources/khoresh-karafs.jpg)

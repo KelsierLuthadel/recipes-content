@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 30 minutes
+---
+
 # Aushak
 
 ![Aushak](resources/aushak.jpg)

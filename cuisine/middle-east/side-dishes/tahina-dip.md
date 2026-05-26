@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Tahina Dip
 
 ![Tahina Dip](resources/tahina.jpg)
@@ -115,4 +119,3 @@ Context: Middle Eastern meals, vegetarian appetizer, mezze spread, dipping accom
 - Do not microwave; heat damages the delicate emulsified texture.
 - The dip will separate slightly as it sits (this is normal); vigorous stirring before serving restores smoothness.
 - Fresh tahina dip tastes best within 2-3 days; after that, emulsification can begin to break and flavors mellow.
-

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 4 hours soaking lentils)
+cook: 1 hour 30 minutes
+---
+
 # Samusa Thoke
 
 ![Samusa Thoke](resources/samusa-thoke.jpg)

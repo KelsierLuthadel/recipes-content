@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 20 minutes
+---
+
 # Chilli con Carne
 
 ![Chilli con Carne](resources/chilli.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Club Sandwich
 
 ![Club sandwich](resources/club-sandwich.jpg)

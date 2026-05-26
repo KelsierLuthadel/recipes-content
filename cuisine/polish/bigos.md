@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 3 hours (active); 2-3 days of reheating
+---
+
 # Bigos
 
 ![Bigos](resources/bigos.jpg)

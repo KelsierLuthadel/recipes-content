@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 5 minutes
+---
+
 # Curried Chicken with Peppers
 
 ![Curried Chicken with Peppers](resources/chinese-chicken-curry.jpg)

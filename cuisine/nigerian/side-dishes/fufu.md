@@ -1,3 +1,8 @@
+---
+prep: 2 minutes
+cook: 12 minutes
+---
+
 # Fufu
 
 ![Fufu](resources/fufu.jpg)

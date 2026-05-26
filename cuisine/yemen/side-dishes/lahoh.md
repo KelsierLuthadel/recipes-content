@@ -1,3 +1,8 @@
+---
+prep: 5 minutes (plus 8 hours fermenting)
+cook: 25 minutes
+---
+
 # Lahoh
 
 ![Lahoh](resources/lahoh.jpg)

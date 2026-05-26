@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 30 minutes resting)
+cook: 18 minutes
+---
+
 # Tcharek El-Ariane (Almond Crescents)
 
 ![Tcharek](resources/tcharek.jpg)

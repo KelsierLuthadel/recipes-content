@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Tom Yum Gai Soup (Hot and Sour Chicken Soup)
 
 ![Tom Yum Gai Soup (Hot and Sour Chicken Soup)](resources/tom-yum-gai-soup.jpg)

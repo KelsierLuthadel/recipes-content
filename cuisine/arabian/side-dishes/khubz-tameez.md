@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 1 hour 30 minutes rising)
+cook: 20 minutes (with a baking stone)
+---
+
 # Khubz Tameez
 
 ![Khubz Tameez](resources/khubz-tameez.jpg)

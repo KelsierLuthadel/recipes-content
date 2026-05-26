@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 25 minutes
+---
+
 # Kefta Tagine
 
 ![Kefta Tagine](resources/kefta-tagine.jpg)

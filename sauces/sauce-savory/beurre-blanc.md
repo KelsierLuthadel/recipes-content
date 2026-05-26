@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 10 minutes
+---
+
 # Beurre Blanc with Cream
 
 ![Beurre blanc with cream](resources/beurre-blanc.jpg)

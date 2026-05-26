@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 20 minutes
+---
+
 # Hawawshi
 
 ![Hawawshi](resources/hawawshi.jpg)

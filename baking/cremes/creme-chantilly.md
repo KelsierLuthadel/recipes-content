@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Crème Chantilly
 
 ![Crème chantilly](resources/creme-chantilly.jpg)

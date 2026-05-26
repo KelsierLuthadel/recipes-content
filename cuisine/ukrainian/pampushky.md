@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 1 ½ hour rising)
+cook: 20 minutes
+---
+
 # Pampushky
 
 ![Pampushky](resources/pampushky.jpg)

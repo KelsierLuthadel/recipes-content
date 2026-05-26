@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 30 minutes chilling)
+cook: 12 minutes (in batches)
+---
+
 # Boudin Balls
 
 ![Boudin Balls](resources/boudin-balls.jpg)

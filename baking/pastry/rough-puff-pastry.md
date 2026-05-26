@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Rough Puff Pastry
 
 ![Rough Puff Pastry](resources/rough-puff.jpg)

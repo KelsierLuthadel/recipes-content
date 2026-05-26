@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 30 minutes
+---
+
 # Halwo
 
 ![Halwo](resources/halwo.jpg)

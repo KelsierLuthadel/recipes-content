@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 25 minutes
+---
+
 # Chicken Curry
 
 ![Chicken curry](resources/BIR-chicken-curry.jpg)

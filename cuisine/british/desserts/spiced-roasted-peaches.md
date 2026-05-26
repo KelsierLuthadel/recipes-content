@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 17 minutes
+---
+
 # Sweet Spiced Roasted Peaches
 
 ![Sweet spiced roasted peaches](resources/spiced-roasted-peaches.png)
@@ -50,4 +55,3 @@ Arrange the cool peach coulis in shallow serving glasses and crown with a warm r
 
 ## Storage
 The roasted peaches and honey glaze can be prepared several hours ahead and kept at room temperature, then gently reheated. The raw peach coulis should be prepared no more than 2-3 hours ahead to preserve the freshness; make it immediately before serving if possible. Do not refrigerate any component; serve at room or warm temperature for best flavor.
-

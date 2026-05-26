@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Fish and Chips
 
 ![Fish and Chips](resources/fish-and-chips.jpg)

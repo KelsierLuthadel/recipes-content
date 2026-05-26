@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 3 minutes
+---
+
 # Cashew Chicken
 
 ![Cashew Chicken](resources/cashew-chicken.jpg)

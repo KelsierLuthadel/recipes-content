@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # French Vinaigrette
 
 ![French Vinaigrette](resources/classic.png)

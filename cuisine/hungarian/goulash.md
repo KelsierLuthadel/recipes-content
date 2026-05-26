@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 2 ½ hours
+---
+
 # Hungarian Goulash
 
 ![Hungarian Goulash](resources/goulash.jpg)

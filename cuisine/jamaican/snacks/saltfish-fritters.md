@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus overnight saltfish soak)
+cook: 15 minutes
+---
+
 # Saltfish Fritters / Stamp and Go
 
 ![Saltfish Fritters](resources/saltfish-fritters.jpg)

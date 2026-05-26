@@ -1,3 +1,8 @@
+---
+prep: 1 hour 15 minutes (plus 30 minutes bulgur soaking)
+cook: 30 minutes
+---
+
 # Kibbeh Bil Laban
 
 ![Kibbeh bil Laban](resources/kibbeh-bil-laban.jpg)

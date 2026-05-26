@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Saag Aloo
 
 ![Saag Aloo](resources/saag-aloo.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 1 ¼ hours
+---
+
 # Sunday Roast Chicken
 
 ![Sunday Roast Chicken](resources/sunday-roast-chicken.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Lemon and Garlic Fried Rice
 
 ![Lemon Garlic Fried Rice](resources/fried-rice.jpg)
@@ -68,4 +72,4 @@ Garnish with: Fresh chives, lemon wedges, fresh coriander leaves
 - Best served immediately while warm
 - Refrigerate leftovers in an airtight container for up to 2 days
 - Reheat in a frying pan with a splash of water or oil to restore texture
-- Fried rice can be made ahead and reheated at serving time 
+- Fried rice can be made ahead and reheated at serving time

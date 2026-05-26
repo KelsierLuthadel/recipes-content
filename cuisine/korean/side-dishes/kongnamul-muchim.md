@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 8 minutes
+---
+
 # Kongnamul Muchim (Soybean Sprout Side Dish)
 
 ![Kongnamul Muchim](resources/kongnamul-muchim.jpg)

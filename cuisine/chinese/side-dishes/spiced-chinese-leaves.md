@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 5 minutes
+---
+
 # Spiced Chinese Leaves
 
 ![Spiced Chinese leaves](resources/chinese-leaves.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 2 hours marinating)
+cook: 1 hour
+---
+
 # Honey Soy Glazed Chicken
 
 ![Honey Soy Glazed Chicken](resources/honey-soy-glazed-chicken.jpg)

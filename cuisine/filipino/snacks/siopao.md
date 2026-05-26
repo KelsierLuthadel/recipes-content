@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 1 hour rising)
+cook: 30 minutes (in batches)
+---
+
 # Siopao
 
 ![Siopao](resources/siopao.jpg)

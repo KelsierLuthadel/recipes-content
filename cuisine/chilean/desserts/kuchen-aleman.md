@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 45 minutes
+---
+
 # Kuchen Alemán
 
 ![Kuchen Alemán](resources/kuchen-aleman.jpg)

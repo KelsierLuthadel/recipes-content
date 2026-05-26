@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 1 ½ hours rising)
+cook: 20 minutes
+---
+
 # Coco Bread
 
 ![Coco Bread](resources/coco-bread.jpg)

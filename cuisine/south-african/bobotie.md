@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 1 hour
+---
+
 # Bobotie
 
 ![Bobotie](resources/bobotie.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Gâteau St. Honoré with Cocoa Dusted Chantilly Cream
 
 ![Gâteau St. Honoré with cocoa dusted chantilly cream](resources/gateau-st-honore.jpg)
@@ -68,4 +72,3 @@ Present the St. Honoré on a decorative serving plate and bring to the table who
 
 ## Storage
 All components can be prepared ahead: puff pastry base baked 1 day ahead, choux elements baked several hours ahead. Assemble no more than 1-2 hours before serving; beyond that, the crisp choux begins to soften from the moisture in the cream and the cocoa dust becomes damp. This is emphatically a dessert to execute near service time.
-

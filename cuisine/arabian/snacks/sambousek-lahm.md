@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 30 minutes resting)
+cook: 25 minutes
+---
+
 # Sambousek Bil Lahm
 
 ![Sambousek bil Lahm](resources/sambousek-lahm.jpg)

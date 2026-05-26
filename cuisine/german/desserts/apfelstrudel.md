@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 30 minutes resting)
+cook: 35 minutes
+---
+
 # Apfelstrudel
 
 ![Apfelstrudel](resources/apfelstrudel.jpg)

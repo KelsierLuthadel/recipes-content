@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 4 hours marinating, ideally overnight)
+cook: 25 minutes
+---
+
 # Cantonese BBQ Chicken
 
 ![Cantonese BBQ Chicken](resources/cantonese-bbq-chicken.jpg)

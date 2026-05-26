@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # German Potato Salad
 
 ![German Potato Salad](resources/german-potato-salad.jpg)

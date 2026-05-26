@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 12 minutes
+---
+
 # Greek Lamb Burger
 
 ![Greek Lamb Burger](resources/lamb-burger.jpg)

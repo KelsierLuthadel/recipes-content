@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour dough rest)
+cook: 25 minutes
+---
+
 # Mutabbaq
 
 ![Mutabbaq](resources/mutabbaq.jpg)

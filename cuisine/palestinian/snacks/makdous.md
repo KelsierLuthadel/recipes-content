@@ -1,3 +1,7 @@
+---
+prep: 30 minutes active
+---
+
 # Makdous
 
 ![Makdous](resources/makdous.jpg)

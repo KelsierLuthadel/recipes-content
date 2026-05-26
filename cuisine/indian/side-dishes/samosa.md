@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 10 minutes
+---
+
 # Samosas
 
 ![Samosas](resources/samosa.jpg)
@@ -90,4 +95,4 @@ Vessels: Serve warm on a platter lined with fresh coriander
 - Freeze uncooked assembled samosas on a tray for up to 3 months; bake directly from frozen (add 2-3 minutes to baking time)
 - Do not freeze cooked samosas; texture degrades significantly
 
-*These popular golden stuffed parcels can be filled with a variety of vegetable or meat mixtures. Here they are stuffed with spiced minced chicken.*
+*These popular golden stuffed parcels can be filled with a variety of vegetable or meat mixtures. Here they are stuffed with spiced minced chicken.*

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 1 hour
+---
+
 # Pastitsio
 
 ![Pastitsio](resources/pastitsio.jpg)

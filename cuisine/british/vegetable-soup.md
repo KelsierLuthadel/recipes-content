@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 70 minutes
+---
+
 # Vegetable Soup
 
 ![Vegetable soup](resources/vegetable-soup.jpg)

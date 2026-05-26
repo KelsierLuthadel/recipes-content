@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 30 minutes rest)
+cook: 25 minutes
+---
+
 # Lahori Chapli Kebab
 
 ![Lahori Chapli Kebab](resources/lahori-chapli-kebab.jpg)

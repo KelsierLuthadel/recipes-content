@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Stir-Fried Beef in Oyster Sauce
 
 ![Stir-Fried Beef in Oyster Sauce](resources/stir-fry-beef-oyster-sauce.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Thai Red Chicken Curry
 
 ![Thai Red Chicken Curry](resources/thai-red-chicken-curry.jpg)

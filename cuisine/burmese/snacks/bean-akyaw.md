@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 6 hours soaking)
+cook: 20 minutes
+---
+
 # Bean Akyaw
 
 ![Bean Akyaw](resources/bean-akyaw.jpg)

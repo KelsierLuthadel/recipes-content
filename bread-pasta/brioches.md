@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 35 minutes
+---
+
 # St-Genix Brioches with Pink Pralines
 
 ![Brioches](resources/brioches.jpg)
@@ -86,4 +91,4 @@ Pairing: Black coffee or hot chocolate are traditional
 - Do not refrigerate; this stales brioche. If you must refrigerate, refresh in a 160°C oven for 5 minutes before serving
 - Brioche becomes dry and hard faster than plain bread due to its richness
 
-*Perfect for breakfast, these lovely brioches are best eaten as soon as they have cooled, while the pralines are still crunchy. The town of St-Genix is famous for its Pompadour pink pralines, which flavour and colour these brioches.*
+*Perfect for breakfast, these lovely brioches are best eaten as soon as they have cooled, while the pralines are still crunchy. The town of St-Genix is famous for its Pompadour pink pralines, which flavour and colour these brioches.*

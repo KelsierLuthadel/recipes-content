@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes chilling)
+cook: 0 minutes
+---
+
 # Pimento Cheese
 
 ![Pimento Cheese](resources/pimento-cheese.jpg)

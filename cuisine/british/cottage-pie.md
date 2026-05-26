@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 1 hour
+---
+
 # Cottage Pie
 
 ![Cottage Pie](resources/cottage-pie.jpg)

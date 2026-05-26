@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 0 minutes
+---
+
 # Jhal Muri
 
 ![Jhal Muri](resources/jhal-muri.jpg)

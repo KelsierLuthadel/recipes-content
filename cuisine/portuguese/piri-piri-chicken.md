@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 4 hours marinating)
+cook: 35 minutes
+---
+
 # Piri Piri Chicken
 
 ![Piri Piri Chicken](resources/piri-piri-chicken.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Anise Parfait
 
 ![Anise parfait](resources/anise-parfait.jpg)
@@ -50,4 +54,3 @@ Release the parfait directly onto a chilled plate, creating an elegant presentat
 
 ## Storage
 The assembled parfait freezes beautifully for up to one week in its mold, making it an excellent choice for advance preparation. Keep covered with cling film to prevent freezer burn. The coulis can be prepared 2-3 days ahead and stored covered in the refrigerator. Release from the mold only when ready to serve.
-

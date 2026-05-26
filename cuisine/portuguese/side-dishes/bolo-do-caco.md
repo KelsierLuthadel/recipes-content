@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 1 hour rising)
+cook: 20 minutes
+---
+
 # Bolo Do Caco
 
 ![Bolo do Caco](resources/bolo-do-caco.jpg)

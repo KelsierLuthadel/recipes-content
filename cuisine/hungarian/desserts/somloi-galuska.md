@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 30 minutes (plus 4 hours chilling)
+---
+
 # Somlói Galuska
 
 ![Somlói Galuska](resources/somloi-galuska.jpg)

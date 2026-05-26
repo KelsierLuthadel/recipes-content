@@ -1,3 +1,8 @@
+---
+prep: 5 minutes (plus 20 minutes resting)
+cook: None
+---
+
 # Lemon Yogurt Sauce
 
 ![Lemon Yogurt Sauce](resources/lemon-yogurt-sauce.jpg)

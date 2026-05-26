@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Papas Mayo
 
 ![Papas Mayo](resources/papas-mayo.jpg)

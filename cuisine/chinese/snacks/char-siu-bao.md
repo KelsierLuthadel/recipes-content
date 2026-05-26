@@ -1,3 +1,8 @@
+---
+prep: 50 minutes (plus 1 ½ hours rising)
+cook: 15 minutes
+---
+
 # Char Siu Bao
 
 ![Char Siu Bao](resources/char-siu-bao.jpg)

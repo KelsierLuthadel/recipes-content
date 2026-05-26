@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes
+---
+
 # Mutabbal
 
 ![Mutabbal](resources/mutabbal.jpg)

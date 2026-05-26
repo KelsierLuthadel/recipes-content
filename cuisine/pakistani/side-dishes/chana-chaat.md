@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes (assuming pre-cooked chickpeas)
+---
+
 # Chana Chaat
 
 ![Chana Chaat](resources/chana-chaat.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus overnight soaking)
+cook: 1 hour
+---
+
 # Chè Ba Màu
 
 ![Che Ba Mau](resources/che-ba-mau.jpg)

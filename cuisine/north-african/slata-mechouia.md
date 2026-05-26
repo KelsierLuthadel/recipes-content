@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Slata Mechouia
 
 ![Slata Mechouia](resources/slata-mechouia.jpg)

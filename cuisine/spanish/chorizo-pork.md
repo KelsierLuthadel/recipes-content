@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 35 minutes
+---
+
 # Chorizo Pork with Crispy New Potatoes
 
 ![Chorizo Pork with Crispy New Potatoes](resources/chorizo-pork.jpg)

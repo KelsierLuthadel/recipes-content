@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 10 minutes
+---
+
 # Plátanos Maduros
 
 ![Plátanos Maduros](resources/platanos-maduros.jpg)

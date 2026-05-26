@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 20 minutes soaking)
+cook: 25 minutes
+---
+
 # Timman Bagilla
 
 ![Timman Bagilla](resources/timman-bagilla.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 3 minutes
+---
+
 # Tagliatelle with Prawns and Brandy Cream Sauce
 
 ![Tagliatelle with Prawns](resources/gamberoni.jpg)

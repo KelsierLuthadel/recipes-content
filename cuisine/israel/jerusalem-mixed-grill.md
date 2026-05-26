@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 20 minutes
+---
+
 # Jerusalem Mixed Grill
 
 ![Jerusalem Mixed Grill](resources/jerusalem-mixed-grill.jpg)

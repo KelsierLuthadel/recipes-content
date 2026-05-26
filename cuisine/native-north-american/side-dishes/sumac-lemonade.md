@@ -1,3 +1,7 @@
+---
+prep: 5 minutes active
+---
+
 # Sumac Lemonade
 
 ![Sumac Lemonade](resources/sumac-lemonade.jpg)

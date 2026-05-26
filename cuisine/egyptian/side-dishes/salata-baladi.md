@@ -1,3 +1,8 @@
+---
+prep: 12 minutes
+cook: 0 minutes
+---
+
 # Salata Baladi
 
 ![Salata Baladi](resources/salata-baladi.jpg)

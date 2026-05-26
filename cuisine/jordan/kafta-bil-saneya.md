@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 50 minutes
+---
+
 # Kafta Bil Saneya
 
 ![Kafta bil Saneya](resources/kafta-bil-saneya.jpg)

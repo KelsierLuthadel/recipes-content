@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 15 minutes
+---
+
 # Béchamel Sauce
 
 ![Béchamel sauce](resources/bechamel.png)

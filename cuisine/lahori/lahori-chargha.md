@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 4 hours marinade)
+cook: 1 hour 10 minutes
+---
+
 # Lahori Chargha
 
 ![Lahori Chargha](resources/lahori-chargha.jpg)

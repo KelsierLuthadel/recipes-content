@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 3 hours 30 minutes
+---
+
 # Mazondo
 
 ![Mazondo](resources/mazondo.jpg)

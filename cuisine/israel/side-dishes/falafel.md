@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 12 hours soaking)
+cook: 20 minutes
+---
+
 # Falafel
 
 ![Falafel](resources/falafel.jpg)

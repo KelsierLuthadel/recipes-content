@@ -1,3 +1,7 @@
+---
+prep: 20 minutes
+---
+
 # Lamb Nihari
 
 ![Lamb Nihari](resources/nihari.png)
@@ -53,5 +57,4 @@ The Mughal-Pakistani slow-cooked lamb shank stew: meat braised for hours in a sp
 1. Mix the chapatti flour with 4 teaspoons water to make a smooth paste. 
 1. Whisk the paste into the sauce and simmer for 5-6 minutes to thicken. 
 1. Check for seasoning, add salt to taste and then pour the sauce over the meat in the serving bowl. 
-1. Serve the garnishes in little bowls on the table to add to the lamb nihari as you like. 
-
+1. Serve the garnishes in little bowls on the table to add to the lamb nihari as you like.

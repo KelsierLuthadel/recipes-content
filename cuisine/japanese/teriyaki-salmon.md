@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 12 minutes
+---
+
 # Teriyaki Salmon
 
 ![Teriyaki Salmon](resources/teriyaki-salmon.jpg)

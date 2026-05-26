@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 30 minutes
+---
+
 # Authentic Cajun Gumbo
 
 ![Authentic Cajun Gumbo](resources/authentic-cajun-gumbo.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 2 hours rising)
+cook: 20 minutes
+---
+
 # Beignets
 
 ![Beignets](resources/beignets.jpg)

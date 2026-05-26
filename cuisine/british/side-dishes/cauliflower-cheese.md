@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Cauliflower Cheese
 
 ![Cauliflower Cheese](resources/cauliflower-cheese.jpg)

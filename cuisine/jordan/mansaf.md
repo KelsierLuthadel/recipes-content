@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus overnight soak for jameed)
+cook: 2 ½ hours
+---
+
 # Mansaf
 
 ![Mansaf](resources/mansaf.jpg)

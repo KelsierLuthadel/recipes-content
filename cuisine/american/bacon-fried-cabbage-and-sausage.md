@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 35 minutes
+---
+
 # Bacon Fried Cabbage and Sausage
 
 ![Bacon Fried Cabbage and Sausage](resources/bacon-fried-cabbage-and-sausage.jpg)

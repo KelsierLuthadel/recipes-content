@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 4 hours
+---
+
 # Rillettes de Porc
 
 ![Rillettes de Porc](resources/rillettes-de-porc.jpg)

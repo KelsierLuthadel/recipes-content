@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 12 minutes
+---
+
 # Calabrese Pizza
 
 ![Calabrese Pizza](resources/calabrese.jpg)

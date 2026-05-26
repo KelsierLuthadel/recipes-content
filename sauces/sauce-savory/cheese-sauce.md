@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 25 minutes
+---
+
 # Cheese Sauce
 
 ![Cheese sauce](resources/cheese-sauce.png)

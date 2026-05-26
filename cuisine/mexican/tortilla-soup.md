@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 30 minutes
+---
+
 # Tortilla Soup
 
 ![Tortilla soup](resources/tortilla-soup.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 40 minutes
+---
+
 # Strawberry Tart
 
 ![Strawberry tart](resources/strawberry-tart.jpg)
@@ -59,4 +64,4 @@ Serve the tart immediately after assembly at room temperature. It is perfect wit
 ## Storage
 Store any leftover tart in the refrigerator for up to 1 day, covered lightly to avoid crushing the fruit. Because the pastry softens quickly, this tart is best eaten the same day.
 
-*Assemble the tart just before serving to enjoy it at its best.*
+*Assemble the tart just before serving to enjoy it at its best.*

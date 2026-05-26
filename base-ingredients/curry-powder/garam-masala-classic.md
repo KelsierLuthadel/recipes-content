@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Garam Masala (Classic)
 
 ![Garam Masala](resources/garam-masala.jpg)
@@ -104,4 +108,4 @@ Temperature: Never cook extended time, add just before serving to preserve preci
 - Make fresh quarterly for optimal quality
 - Label with preparation date
 
-*Garam means "hot" and masala means "spices", together they describe a blend focused on spices that generate warmth: chillies, pepper, cinnamon, and cloves. This classic blend is added at the end of cooking or sprinkled over finished dishes as a final fragrant garnish, making it distinct from base curry powders.*
+*Garam means "hot" and masala means "spices", together they describe a blend focused on spices that generate warmth: chillies, pepper, cinnamon, and cloves. This classic blend is added at the end of cooking or sprinkled over finished dishes as a final fragrant garnish, making it distinct from base curry powders.*

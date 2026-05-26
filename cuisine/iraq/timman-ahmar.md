@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 35 minutes
+---
+
 # Timman Ahmar
 
 ![Timman Ahmar](resources/timman-ahmar.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour rising)
+cook: 15 minutes
+---
+
 # Tunisian Fricassé
 
 ![Tunisian Fricassé](resources/tunisian-fricasse.jpg)

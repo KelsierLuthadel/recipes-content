@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes
+---
+
 # Meringue Italienne (Italian Meringue)
 
 ![Meringue Italienne (Italian meringue)](resources/meringue-italienne.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 4 hours
+---
+
 # Bolognese
 
 ![Bolognese](resources/Bolognaese.png)

@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 35 minutes
+---
+
 # One-Pot Creamy Beef Pasta
 
 ![One-Pot Creamy Beef Pasta](resources/one-pot-creamy-beef-pasta.jpg)

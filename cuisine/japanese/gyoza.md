@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 10 minutes
+---
+
 # Pork Gyoza
 
 ![Pork Gyoza](resources/gyoza.jpg)

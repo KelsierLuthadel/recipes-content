@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Sorrel Sauce
 
 ![Sorrel sauce](resources/sorrel-sauce.png)

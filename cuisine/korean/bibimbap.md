@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 30 minutes
+---
+
 # Bibimbap
 
 ![Bibimbap](resources/bibimbap.jpg)

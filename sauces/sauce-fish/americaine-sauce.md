@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 50 minutes
+---
+
 # Américaine Sauce
 
 ![Américaine sauce](resources/americaine-sauce.png)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes
+---
+
 # Tandoori Broccoli, Cauliflower & Red Onion
 
 ![Tandoori Broccoli and Cauliflower](resources/broccoli.png)
@@ -83,4 +88,4 @@ Temperature: Serve warm or at room temperature
 - Refrigerate leftover cooked vegetables in an airtight container for up to 2 days
 - Reheat gently in a 160°C oven for 8-10 minutes; do not microwave (they become soft)
 - Do not freeze; texture degrades significantly
-- Best served freshly cooked but perfectly acceptable chilled as a salad 
+- Best served freshly cooked but perfectly acceptable chilled as a salad

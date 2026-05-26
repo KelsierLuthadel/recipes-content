@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 20 minutes rest)
+cook: 10 minutes
+---
+
 # Bengali Paratha
 
 ![Bengali Paratha](resources/bengali-paratha.jpg)

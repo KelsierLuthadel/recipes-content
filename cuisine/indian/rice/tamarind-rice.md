@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Tamarind Rice
 
 ![Tamarind Rice](resources/tamarind-rice.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 25 minutes
+---
+
 # Amok Trey
 
 ![Amok Trey](resources/amok-trey.jpg)

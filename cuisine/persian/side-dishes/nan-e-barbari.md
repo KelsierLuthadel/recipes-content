@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour 30 min rises)
+cook: 15 minutes per loaf
+---
+
 # Nan E Barbari
 
 ![Nan e Barbari](resources/nan-e-barbari.jpg)

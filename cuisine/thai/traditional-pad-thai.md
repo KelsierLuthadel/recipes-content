@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 20 minutes
+---
+
 # Traditional Pad Thai
 
 ![Traditional Pad Thai](resources/pad-thai.jpg)

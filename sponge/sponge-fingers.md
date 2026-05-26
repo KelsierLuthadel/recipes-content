@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 8-10 minutes
+---
+
 # Sponge Fingers
 
 ![Sponge Fingers](resources/sponge-fingers.png)

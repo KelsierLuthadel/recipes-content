@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 8 minutes
+---
+
 # Salt and Pepper Fried Calamari
 
 ![Salt and Pepper Fried Calamari](resources/salt-and-pepper-calamari.jpg)

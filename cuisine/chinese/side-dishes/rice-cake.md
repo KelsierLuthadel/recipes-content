@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 50 minutes
+---
+
 # Rice Cake
 
 ![Rice cake](resources/rice-cake.jpg)
@@ -51,4 +56,4 @@ Amount: one rice cake (from the bottom of the pot) serves 4 as a component in a 
 - Deep fry only when ready to serve; once fried it should be used immediately.
 
 *Rice cakes were probably invented by a thrifty Chinese cook centuries ago in order to make use of that thin layer of rice which gets stuck to the bottom of the pot. This crispy leftover has evolved into an accompaniment to many dishes. Its taste and crunchy texture go deliciously with Sizzling rice prawns, or as a snack with a touch of oil and salt.*
-*The best rice to use for this is long grain white rice. The technique used for cooking is essentially the same as steamed rice, but the cooking time is longer.*
+*The best rice to use for this is long grain white rice. The technique used for cooking is essentially the same as steamed rice, but the cooking time is longer.*

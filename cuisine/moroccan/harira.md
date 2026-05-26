@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 ½ hours
+---
+
 # Harira
 
 ![Harira](resources/harira.jpg)

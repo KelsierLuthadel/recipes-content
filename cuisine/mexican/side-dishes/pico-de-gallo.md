@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes rest)
+cook: 0 minutes
+---
+
 # Pico de Gallo
 
 ![Pico de Gallo](resources/pico-de-gallo.jpg)

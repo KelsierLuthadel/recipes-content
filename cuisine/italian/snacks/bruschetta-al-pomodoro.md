@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 min tomato rest)
+cook: 5 minutes
+---
+
 # Bruschetta al Pomodoro
 
 ![Bruschetta al Pomodoro](resources/bruschetta-al-pomodoro.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 40 minutes (mostly noodle making)
+cook: 35 minutes
+---
+
 # Tsuivan
 
 ![Tsuivan](resources/tsuivan.jpg)

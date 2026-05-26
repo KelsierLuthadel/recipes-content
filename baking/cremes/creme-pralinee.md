@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Crème Pralinée
 
 ![Crème Pralinée](resources/creme-pralinee.png)

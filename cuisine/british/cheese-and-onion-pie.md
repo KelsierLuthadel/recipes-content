@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 50 minutes
+---
+
 # Cheese and Onion Pie
 
 ![Cheese and Onion Pie](resources/cheese-and-onion-pie.jpg)

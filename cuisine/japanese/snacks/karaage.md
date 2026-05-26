@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 min marinating)
+cook: 12 minutes
+---
+
 # Karaage
 
 ![Karaage](resources/karaage.jpg)

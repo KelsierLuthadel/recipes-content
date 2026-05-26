@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour rising)
+cook: 25 minutes
+---
+
 # Hotteok
 
 ![Hotteok](resources/hotteok.jpg)

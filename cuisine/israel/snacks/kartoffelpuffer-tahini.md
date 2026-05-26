@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 35 minutes
+---
+
 # Kartoffelpuffer with Tahini
 
 ![Kartoffelpuffer with Tahini](resources/kartoffelpuffer-tahini.jpg)

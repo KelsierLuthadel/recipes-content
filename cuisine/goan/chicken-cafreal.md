@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus overnight marinade)
+cook: 30 minutes
+---
+
 # Chicken Cafreal
 
 ![Chicken Cafreal](resources/chicken-cafreal.jpg)

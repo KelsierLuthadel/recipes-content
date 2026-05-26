@@ -1,3 +1,8 @@
+---
+prep: 3 minutes
+cook: None
+---
+
 # Bang Bang Sauce
 
 ![Bang Bang Sauce](resources/bang-bang-sauce.jpg)

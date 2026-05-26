@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Half-Moon Shaped Sweet Pasta Filled with Candied Fruit
 
 ![Half-moon sweet pasta with candied fruit](resources/filled-sweet-pasta.jpg)
@@ -57,4 +61,4 @@ Best served warm, shortly after frying. The unfried, filled pasta can be prepare
 
 
 
-*This is a classic Neapolitan dessert that is usually eaten around Easter time can be used either as a dessert or as a petit fours.*
+*This is a classic Neapolitan dessert that is usually eaten around Easter time can be used either as a dessert or as a petit fours.*

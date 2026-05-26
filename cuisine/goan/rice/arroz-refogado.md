@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 30 minutes
+---
+
 # Arroz Refogado
 
 ![Arroz Refogado](resources/arroz-refogado.jpg)

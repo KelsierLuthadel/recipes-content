@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 ¼ hours
+---
+
 # Sholeh Zard
 
 ![Sholeh Zard](resources/sholeh-zard.jpg)

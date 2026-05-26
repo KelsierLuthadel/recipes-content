@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 25 minutes
+---
+
 # Keema Samosa
 
 ![Keema Samosa](resources/keema-samosa.jpg)

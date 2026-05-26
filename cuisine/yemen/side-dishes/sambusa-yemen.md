@@ -1,3 +1,8 @@
+---
+prep: 40 minutes
+cook: 20 minutes
+---
+
 # Yemeni Sambusa
 
 ![Yemeni Sambusa](resources/sambusa-yemen.jpg)

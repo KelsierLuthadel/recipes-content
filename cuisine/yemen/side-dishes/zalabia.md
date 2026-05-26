@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 1 hour rising)
+cook: 20 minutes
+---
+
 # Zalabia
 
 ![Zalabia](resources/zalabia.jpg)

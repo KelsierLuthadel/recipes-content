@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 15 minutes
+---
+
 # Molokhia with Meat
 
 ![Molokhia with Meat](resources/molokhia-with-meat.jpg)

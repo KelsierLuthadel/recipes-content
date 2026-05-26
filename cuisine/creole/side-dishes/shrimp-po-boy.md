@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 10 minutes
+---
+
 # Shrimp Po-Boy
 
 ![Shrimp Po-boy](resources/shrimp-po-boy.jpg)

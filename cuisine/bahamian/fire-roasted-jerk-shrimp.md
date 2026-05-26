@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Fire-Roasted Jerk Shrimp
 
 ![Fire-Roasted Jerk Shrimp](resources/fire-roasted-jerk-shrimp.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 35 minutes
+---
+
 # Kimchi Jjigae
 
 ![Kimchi Jjigae](resources/kimchi-jjigae.jpg)

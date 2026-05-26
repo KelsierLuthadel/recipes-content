@@ -1,3 +1,8 @@
+---
+prep: 40 minutes
+cook: 25 minutes
+---
+
 # Burmese Samosa
 
 ![Burmese Samosa](resources/burmese-samosa.jpg)

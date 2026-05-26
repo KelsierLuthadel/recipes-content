@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (most components made ahead)
+cook: 0 minutes (assembly only)
+---
+
 # Bingsu (Shaved Ice with Sweet Toppings)
 
 ![Bingsu](resources/bingsu.jpg)

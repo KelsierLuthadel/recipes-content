@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 45 minutes
+---
+
 # Tray-Baked Kibbeh
 
 ![Tray-Baked Kibbeh](resources/kibbeh.jpg)

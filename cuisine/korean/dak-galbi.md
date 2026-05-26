@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 1 hour marinade)
+cook: 20 minutes
+---
+
 # Dak Galbi
 
 ![Dak Galbi](resources/dak-galbi.jpg)

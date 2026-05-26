@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Chocolate Truffles
 
 ![Chocolate Truffles](resources/chocolate-truffles.jpg)
@@ -135,4 +139,4 @@ Context: Formal dinners, afternoon gatherings, gift presentations, elegant final
 - Allow to come to room temperature before serving for optimal texture and flavor expression.
 - Alcohol content helps preserve these; they will keep longer than non-alcoholic ganache confections.
 
-*These dark, rich truffles are sophisticated petit fours made from silky chocolate ganache enhanced with Armagnac. Dust-coated in cocoa powder, they are elegant served with pre-dinner drinks or after formal dinners alongside strong coffee.*
+*These dark, rich truffles are sophisticated petit fours made from silky chocolate ganache enhanced with Armagnac. Dust-coated in cocoa powder, they are elegant served with pre-dinner drinks or after formal dinners alongside strong coffee.*

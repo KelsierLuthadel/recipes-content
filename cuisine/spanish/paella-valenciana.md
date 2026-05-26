@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 45 minutes
+---
+
 # Paella Valenciana
 
 ![Paella Valenciana](resources/paella-valenciana.jpg)

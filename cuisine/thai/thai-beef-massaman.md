@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 2 hours
+---
+
 # Thai Beef Massaman Curry
 
 ![Thai Beef Massaman Curry](resources/thai-beef-massaman.jpg)

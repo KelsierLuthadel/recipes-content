@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Pancetta and Rocket Pizza
 
 ![Pancetta and Rocket Pizza](resources/pancetta-and-rocket-pizza.jpg)

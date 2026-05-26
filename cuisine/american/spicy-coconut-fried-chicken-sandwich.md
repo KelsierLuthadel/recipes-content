@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 30 minutes marinating)
+cook: 30 minutes
+---
+
 # Spicy Coconut Fried Chicken Sandwich
 
 ![Spicy Coconut Fried Chicken Sandwich](resources/spicy-coconut-fried-chicken-sandwich.jpg)

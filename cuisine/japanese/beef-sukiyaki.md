@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 15 minutes
+---
+
 # Beef Sukiyaki
 
 ![Beef Sukiyaki](resources/beef-sukiyaki.jpg)

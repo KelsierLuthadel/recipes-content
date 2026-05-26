@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 1 hour (broth) + diner time
+---
+
 # Sichuan Hot Pot
 
 ![Sichuan Hot Pot](resources/sichuan-hot-pot.jpg)

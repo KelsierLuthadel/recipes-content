@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 4 hours marinade)
+cook: 12 minutes
+---
+
 # Lahori Beef Boti Kebab
 
 ![Lahori Beef Boti Kebab](resources/lahori-beef-boti-kebab.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 50 minutes
+---
+
 # Arroz Con Leche Colombiano
 
 ![Arroz con Leche Colombiano](resources/arroz-con-leche-colombiano.jpg)

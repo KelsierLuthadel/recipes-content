@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 40 minutes
+---
+
 # Chilli Pork Spare Ribs
 
 ![Chilli Pork Spare Ribs](resources/chilli-pork.jpg)

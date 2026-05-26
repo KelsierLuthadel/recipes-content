@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 4 hours marinade)
+cook: 25 minutes
+---
+
 # Chicken Shawarma
 
 ![Chicken Shawarma](resources/chicken-shawarma.jpg)

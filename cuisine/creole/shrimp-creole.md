@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 35 minutes
+---
+
 # Shrimp Creole
 
 ![Shrimp Creole](resources/shrimp-creole.jpg)

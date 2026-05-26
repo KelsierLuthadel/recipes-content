@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 20 minutes
+---
+
 # Lavender Ice Cream
 
 ![Lavender ice cream](resources/lavender-ice-cream.jpg)
@@ -35,4 +40,3 @@ Serve as an elegant standalone dessert in a chilled glass or coup, garnished wit
 
 ## Storage
 Keep the ice cream in an airtight freezer container for up to two weeks, though best texture and flavor are achieved within the first week. Cover the surface with plastic wrap before sealing the container to prevent ice crystals. If rock-hard from freezing, soften for 10-15 minutes at room temperature before scooping.
-

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 30 minutes
+---
+
 # Chanar Dalna
 
 ![Chanar Dalna](resources/chanar-dalna.jpg)

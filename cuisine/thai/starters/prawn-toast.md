@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Thai Prawn Toast
 
 ![Thai Prawn Toast](resources/prawn-toast.jpg)

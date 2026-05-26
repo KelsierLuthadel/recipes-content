@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 33 minutes
+---
+
 # Chilli Beef Pizza
 
 ![Chilli Beef Pizza](resources/italian-beef-pizza.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Fig and Honey Panna Cotta
 
 ![Fig and Honey Panna Cotta](resources/fig-honey-panna-cotta.jpg)
@@ -44,4 +48,3 @@ Serve the pannacotta directly in its chilling bowl or cup, optionally adding a s
 
 ## Storage
 Set pannacotta keeps refrigerated for up to 3 days in a covered bowl, fine because the delicate flavor actually matures and improves. Do not freeze, as freezing causes gelatine-set desserts to become grainy. If turning out to serve (requiring extra gelatine with oiled moulds), serve unmolded within 2 days.
-

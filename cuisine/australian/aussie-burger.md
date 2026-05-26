@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 20 minutes
+---
+
 # Aussie Burger with Beetroot
 
 ![Aussie Burger with Beetroot](resources/aussie-burger.jpg)

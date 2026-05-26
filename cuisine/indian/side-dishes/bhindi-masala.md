@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Bhindi Masala
 
 ![Bhindi Masala](resources/bhindi-masala.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Special Balti
 
 ![Special Balti](resources/BIR-Special-Balti.jpg)

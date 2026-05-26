@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Smashed Cucumber
 
 ![Smashed Cucumber](resources/smashed-cucumber.jpg)

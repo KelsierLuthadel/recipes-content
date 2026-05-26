@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 30 minutes
+---
+
 # Baklava with Rose, Cardamom and Pistachio
 
 ![Baklava with Rose, Cardamom and Pistachio](resources/baklava-rose-cardamom-pistachio.jpg)

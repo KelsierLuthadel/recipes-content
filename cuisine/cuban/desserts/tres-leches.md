@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 30 minutes (plus 6 hours soaking)
+---
+
 # Tres Leches
 
 ![Tres Leches](resources/tres-leches.jpg)

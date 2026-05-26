@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 4 minutes
+---
+
 # Sweet and Sour Pork
 
 ![Sweet and Sour Pork](resources/sweet-sour-pork.jpg)

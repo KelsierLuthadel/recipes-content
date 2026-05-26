@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 1 hour drying)
+cook: 25 minutes
+---
+
 # Buffalo Wings
 
 ![Buffalo Wings](resources/buffalo-wings.jpg)

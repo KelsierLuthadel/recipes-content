@@ -1,3 +1,8 @@
+---
+prep: 40 minutes (plus 45 min dough rise)
+cook: 18 minutes
+---
+
 # Fatayer Jibneh
 
 ![Fatayer Jibneh](resources/fatayer-jibneh.jpg)

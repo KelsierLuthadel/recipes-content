@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Butter Chicken
 
 ![Butter Chicken](resources/butter-chicken.png)

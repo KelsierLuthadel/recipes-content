@@ -1,3 +1,8 @@
+---
+prep: 5 minutes (plus 12-24 hours straining)
+cook: 0 minutes
+---
+
 # Labneh
 
 ![Labneh](resources/labneh.jpg)

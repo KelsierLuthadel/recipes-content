@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 10 min batter rest)
+cook: 15 minutes
+---
+
 # Kachalou Pakora
 
 ![Kachalou Pakora](resources/kachalou-pakora.jpg)

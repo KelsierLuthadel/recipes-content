@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 2 hours 30 minutes
+---
+
 # Sancocho de Gallina
 
 ![Sancocho de Gallina](resources/sancocho-de-gallina.jpg)

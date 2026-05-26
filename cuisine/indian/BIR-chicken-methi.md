@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Chicken Methi Curry
 
 ![Chicken Methi Curry](resources/BIR-chicken-methi.jpg)

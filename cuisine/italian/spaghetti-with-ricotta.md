@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Spaghetti with Ricotta Cheese and Toasted Pine Nuts
 
 ![Spaghetti with Ricotta](resources/spaghetti-ricotta.jpg)

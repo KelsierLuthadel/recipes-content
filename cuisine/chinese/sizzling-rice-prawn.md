@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 2 minutes
+---
+
 # Sizzling Rice Prawns
 
 ![Sizzling Rice Prawns](resources/sizzling-rice-and-prawns.jpg)

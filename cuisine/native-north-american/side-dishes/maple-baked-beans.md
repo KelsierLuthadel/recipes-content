@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus overnight soak)
+cook: 5 hours
+---
+
 # Maple Baked Beans
 
 ![Maple Baked Beans](resources/maple-baked-beans.jpg)

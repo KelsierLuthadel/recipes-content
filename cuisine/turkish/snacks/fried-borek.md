@@ -1,3 +1,8 @@
+---
+prep: 1 hour 10 minutes
+cook: 25 minutes
+---
+
 # Fried Börek with Meat Filling
 
 ![Fried Börek](resources/fried-borek.png)

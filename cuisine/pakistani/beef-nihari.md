@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 4-5 hours
+---
+
 # Beef Nihari
 
 ![Beef Nihari](resources/beef-nihari.jpg)

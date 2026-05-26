@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 24 hours dry-brining)
+cook: 3 hours (for a 5-6 kg bird)
+---
+
 # Roast Turkey
 
 ![Roast Turkey](resources/roast-turkey.jpg)

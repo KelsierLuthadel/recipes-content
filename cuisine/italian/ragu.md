@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 4 minutes
+---
+
 # Restaurant-Style Ragù
 
 ![Restaurant-Style Ragù](resources/restaurant_ragu.jpg)

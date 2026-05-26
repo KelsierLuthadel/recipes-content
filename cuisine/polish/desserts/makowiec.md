@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 2 hours proving)
+cook: 45 minutes
+---
+
 # Makowiec
 
 ![Makowiec](resources/makowiec.jpg)

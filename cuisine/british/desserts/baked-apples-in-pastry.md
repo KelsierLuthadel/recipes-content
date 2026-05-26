@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 1 hour 30 minutes
+---
+
 # Baked Apples in a Pastry Cage
 
 ![Baked apples in a pastry cage](resources/baked-apples-in-pastry.jpg)
@@ -52,4 +57,3 @@ Present each apple still in its pastry cage on an individual plate for maximum d
 
 ## Storage
 Baked apples in pastry are best served warm, shortly after baking. They can be prepared ahead through the pastry assembly stage and refrigerated unbaked for several hours. Bake when ready to serve for freshness. If baked ahead, they can be gently reheated in a 160°C oven for 10 minutes, though the pastry gradually softens. Do not refrigerate baked apples as the pastry becomes tough in the cold.
-

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour rising)
+cook: 20 minutes
+---
+
 # Kete (Azerbaijani Herb-Stuffed Flatbread)
 
 ![Kete](resources/kete.jpg)

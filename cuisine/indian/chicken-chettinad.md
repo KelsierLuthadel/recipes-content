@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 30 minutes marinating)
+cook: 50 minutes
+---
+
 # Chicken Chettinad
 
 ![Chicken Chettinad](resources/chicken-chettinad.jpg)

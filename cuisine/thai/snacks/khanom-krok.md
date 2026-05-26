@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 2 hour batter rest)
+cook: 25 minutes
+---
+
 # Khanom Krok
 
 ![Khanom Krok](resources/khanom-krok.jpg)

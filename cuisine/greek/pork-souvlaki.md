@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 2 hours marinade)
+cook: 12 minutes
+---
+
 # Pork Souvlaki
 
 ![Pork Souvlaki](resources/pork-souvlaki.jpg)

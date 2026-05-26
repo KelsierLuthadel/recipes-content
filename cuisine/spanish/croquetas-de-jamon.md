@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 4 hours chilling)
+cook: 15 minutes
+---
+
 # Croquetas de Jamón
 
 ![Croquetas de Jamón](resources/croquetas-de-jamon.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 3 minutes
+---
+
 # Chole Masala Powder
 
 ![Chole Masala Powder](resources/chole-masala.jpg)

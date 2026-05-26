@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Crème Pâtissière (Confectioners' Custard)
 
 ![Crème pâtissière (Confectioners' custard)](resources/creme-patissiere.png)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour rising)
+cook: 20 minutes
+---
+
 # Fatayer Bi Sabanikh
 
 ![Fatayer bi Sabanikh](resources/fatayer-sabanikh.jpg)

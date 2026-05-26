@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 2-4 hours rise)
+cook: 15 minutes
+---
+
 # Uyghur Twisted Donuts
 
 ![Uyghur Twisted Donuts](resources/twisted-donuts.jpg)

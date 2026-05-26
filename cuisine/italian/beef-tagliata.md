@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Beef Tagliata
 
 ![Beef Tagliata](resources/beef-tagliata.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 45 minutes
+---
+
 # Brown Stew Shrimp and Sweet Potato Grits
 
 ![Brown Stew Shrimp and Sweet Potato Grits](resources/brown-stew-shrimp-grits.jpg)

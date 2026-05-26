@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 45 minutes
+---
+
 # Tomato Soup
 
 ![Tomato Soup](resources/tomato-soup.jpg)

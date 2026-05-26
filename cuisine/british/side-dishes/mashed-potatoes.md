@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 25 minutes
+---
+
 # Buttery Mashed Potatoes
 
 ![Buttery Mashed Potatoes](resources/mashed-potatoes.jpg)

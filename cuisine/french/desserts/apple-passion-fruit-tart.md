@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 20 minutes
+---
+
 # Apple and Passion Fruit Tartlets
 
 ![Apple and passion fruit tartlets](resources/apple-passion-fruit-tart.jpg)

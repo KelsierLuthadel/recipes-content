@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 ¼ hours
+---
+
 # French Onion Soup
 
 ![French Onion Soup](resources/french-onion-soup.jpg)

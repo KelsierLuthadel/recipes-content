@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 4 minutes
+---
+
 # Red Berry Beignets
 
 ![Red berry beignets](resources/beignets.jpg)
@@ -56,4 +61,3 @@ Serve the beignets immediately after frying while they're still warm and the ext
 
 ## Storage
 Beignets are best served immediately after frying while warm and crisp. The batter can be made 2-3 hours ahead and kept covered at room temperature (the fermentation continues slowly at room temperature). The berries should be prepared just before dipping and frying to prevent them from releasing liquid. Once cooked, beignets gradually become soft and should not be held more than 30 minutes before serving.
-

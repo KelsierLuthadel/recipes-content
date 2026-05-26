@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 35 minutes
+---
+
 # Jasha Maru
 
 ![Jasha Maru](resources/jasha-maru.jpg)

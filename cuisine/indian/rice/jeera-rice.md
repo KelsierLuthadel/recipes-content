@@ -1,3 +1,8 @@
+---
+prep: 5 minutes (plus 30 minutes soak)
+cook: 25 minutes
+---
+
 # Jeera Rice
 
 ![Jeera Rice](resources/jeera-rice.jpg)

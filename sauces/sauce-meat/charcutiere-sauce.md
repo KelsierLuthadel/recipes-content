@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Charcutière Sauce
 
 ![Charcutière sauce](resources/charcutiere.png)

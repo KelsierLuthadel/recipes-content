@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Goan Fish Curry
 
 ![Goan Fish Curry](resources/goan-fish-curry.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 12 minutes
+---
+
 # Fried Plantains
 
 ![Fried Plantains](resources/fried-plantains.jpg)

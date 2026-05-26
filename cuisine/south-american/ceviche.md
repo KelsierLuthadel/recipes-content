@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Ceviche
 
 ![Ceviche](resources/ceviche.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 0 minutes
+---
+
 # Gribiche Sauce
 
 ![Gribiche Sauce](resources/gribiche-sauce.png)

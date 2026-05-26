@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Coulis of Peaches with Lavender Honey
 
 ![Coulis of peaches with lavender honey](resources/peaches.jpg)

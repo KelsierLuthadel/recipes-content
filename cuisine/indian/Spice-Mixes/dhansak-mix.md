@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Dhansak Spice Mix
 
 ![Dhansak Spice Mix](resources/dhansak-mix.jpg)

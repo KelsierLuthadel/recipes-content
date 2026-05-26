@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 40 minutes
+---
+
 # Five Spice Spare Ribs
 
 ![Five Spice Spare Ribs](resources/ribs.jpg)

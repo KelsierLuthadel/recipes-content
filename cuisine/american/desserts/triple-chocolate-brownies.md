@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Triple Chocolate Brownies
 
 ![Triple Chocolate Brownies](resources/triple-chocolate-brownies.jpg)

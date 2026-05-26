@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 30 minutes marinating)
+cook: 2 hours 30 minutes
+---
+
 # Beef Si Byan
 
 ![Beef Si Byan](resources/beef-sibyan.jpg)

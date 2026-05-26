@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 2 hours
+---
+
 # Thai Chicken Stock
 
 ![Thai Chicken Stock](resources/thai-chicken-stock.jpg)

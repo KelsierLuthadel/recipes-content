@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 6 hours marinade)
+cook: 4 hours
+---
+
 # Cochinita Pibil
 
 ![Cochinita Pibil](resources/cochinita-pibil.jpg)

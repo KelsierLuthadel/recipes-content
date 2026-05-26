@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 6 hours batter fermenting)
+cook: 25 minutes
+---
+
 # Zlabia
 
 ![Zlabia](resources/zlabia.jpg)

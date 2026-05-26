@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 2 hours chilling)
+cook: 12 minutes
+---
+
 # Lyulya-Kebab
 
 ![Lyulya-Kebab](resources/lyulya-kebab.jpg)

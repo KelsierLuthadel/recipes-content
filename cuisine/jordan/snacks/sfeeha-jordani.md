@@ -1,3 +1,8 @@
+---
+prep: 40 minutes (plus 1 hour dough rise)
+cook: 12 minutes per batch
+---
+
 # Sfeeha Jordani
 
 ![Sfeeha Jordani](resources/sfeeha-jordani.jpg)

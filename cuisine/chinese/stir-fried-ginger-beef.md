@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Stir-Fried Beef with Ginger
 
 ![Stir-Fried Beef with Ginger](resources/beef-and-ginger-stir-fry.jpg)

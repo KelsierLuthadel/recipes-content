@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 10 minutes
+---
+
 # Beef and Broccoli
 
 ![Beef and Broccoli](resources/beef-and-broccoli.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 2 ¼ hours
+---
+
 # Lamb Tagine with Apricots and Almonds
 
 ![Lamb Tagine with Apricots and Almonds](resources/lamb-tagine-apricots.jpg)

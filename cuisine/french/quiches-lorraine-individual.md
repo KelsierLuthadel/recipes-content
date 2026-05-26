@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 35 minutes
+---
+
 # Individual Quiches Lorraine
 
 ![Individual Quiches Lorraine](resources/quiches-lorraine-individual.jpg)

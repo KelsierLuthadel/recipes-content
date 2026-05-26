@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 4 hours chilling)
+cook: 1 hour 15 minutes
+---
+
 # Gefilte Fish
 
 ![Gefilte Fish](resources/gefilte-fish.jpg)

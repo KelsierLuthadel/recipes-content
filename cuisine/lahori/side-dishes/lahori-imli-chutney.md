@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Lahori Imli Chutney
 
 ![Lahori Imli Chutney](resources/lahori-imli-chutney.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 2 hours
+---
+
 # Lamb Stock
 
 ![Lamb Stock](resources/lamb-stock.png)

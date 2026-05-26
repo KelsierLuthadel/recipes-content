@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Steak Frites with Béarnaise
 
 ![Steak Frites with Béarnaise](resources/steak-frites.jpg)

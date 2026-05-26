@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 2 hours chilling)
+cook: 25 minutes
+---
+
 # Rugelach
 
 ![Rugelach](resources/rugelach.jpg)

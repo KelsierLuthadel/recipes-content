@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 8 minutes
+---
+
 # Green Beans Amandine
 
 ![Green Beans Amandine](resources/green-beans-amandine.jpg)

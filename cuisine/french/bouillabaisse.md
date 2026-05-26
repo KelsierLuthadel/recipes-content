@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 50 minutes
+---
+
 # Bouillabaisse
 
 ![Bouillabaisse](resources/bouillabaisse.jpg)

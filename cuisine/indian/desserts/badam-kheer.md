@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus almond soaking)
+cook: 40 minutes
+---
+
 # Badam Kheer
 
 ![Badam Kheer](resources/badam-kheer.jpg)

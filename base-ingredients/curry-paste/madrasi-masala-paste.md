@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 2 minutes
+---
+
 # Madrasi Masala Paste
 
 ![Madrasi Masala Paste](resources/madrasi-masala-paste.jpg)

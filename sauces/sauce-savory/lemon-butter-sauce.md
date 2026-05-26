@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 5 minutes
+---
+
 # Lemon Butter Sauce
 
 ![Lemon butter sauce](resources/lemon-butter.jpg)

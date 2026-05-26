@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 40 minutes
+---
+
 # Sfouf
 
 ![Sfouf](resources/sfouf.jpg)

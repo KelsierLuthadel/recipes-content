@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 35 minutes
+---
+
 # Tom Yum Goong
 
 ![Tom Yum Goong](resources/tom-yum-goong.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Caribbean Chicken Curry Stew
 
 ![Caribbean Chicken Curry Stew](resources/caribbean-curry.jpg)

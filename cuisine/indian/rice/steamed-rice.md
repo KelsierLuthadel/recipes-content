@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 50 minutes
+---
+
 # Steamed Rice
 
 ![Steamed Rice](resources/steamed-rice.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus overnight resting)
+cook: 25 minutes
+---
+
 # Maamoul
 
 ![Maamoul](resources/maamoul.jpg)

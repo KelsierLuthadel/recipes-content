@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Areeka
 
 ![Areeka](resources/areeka.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 31 minutes
+---
+
 # Brioche Dough
 
 ![Brioche dough](resources/brioche.jpg)
@@ -72,4 +77,4 @@ Best enjoyed: Warm from the oven with butter and jam, or sliced for French toast
 - Day-old brioche is excellent for French toast
 
 *This classic French dough can be frozen, well wrapped, for up to 2 weeks.*
-*You will need a buttered brioche mould, measure 16 cm across the top, 8 cm across the base once the dough has rested in the refrigerator.*
+*You will need a buttered brioche mould, measure 16 cm across the top, 8 cm across the base once the dough has rested in the refrigerator.*

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 20 minutes
+---
+
 # Steamed Rice
 
 ![Steamed Rice](resources/steamed-rice.jpg)
@@ -96,4 +101,4 @@ Context: Neutral starch base, everyday cooking, meals where rice complements rat
 - Do not store rice at room temperature for extended periods; bacteria can proliferate in moist starch.
 - Leftover rice hardens as it cools; this is normal and doesn't indicate spoilage if refrigerated promptly.
 
-*This Chinese steaming method produces fluffy, individual grains of long-grain rice through a two-stage cooking process: initial boiling to evaporate surface liquid, then gentle steaming in residual moisture. The result is uniformly cooked rice that never becomes sticky, ideal as a neutral accompaniment to any Asian-inspired dish.*
+*This Chinese steaming method produces fluffy, individual grains of long-grain rice through a two-stage cooking process: initial boiling to evaporate surface liquid, then gentle steaming in residual moisture. The result is uniformly cooked rice that never becomes sticky, ideal as a neutral accompaniment to any Asian-inspired dish.*

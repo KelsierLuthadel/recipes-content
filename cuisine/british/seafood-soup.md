@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 50 minutes
+---
+
 # Seafood Soup
 
 ![Seafood soup](resources/seafood-soup.jpg)

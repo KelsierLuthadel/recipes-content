@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 45 minutes
+---
+
 # Mowgli Sticky Wings
 
 ![Mowgli Sticky Wings](resources/sticky-wings.jpg)

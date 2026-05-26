@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Three Sisters Succotash
 
 ![Three Sisters Succotash](resources/three-sisters-succotash.jpg)

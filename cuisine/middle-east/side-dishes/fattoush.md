@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Fattoush
 
 ![Fattoush](resources/fattoush.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 6 hours marinating)
+cook: 15 minutes
+---
+
 # Shish Tawook Jordani
 
 ![Shish Tawook Jordani](resources/shish-tawook-jordani.jpg)

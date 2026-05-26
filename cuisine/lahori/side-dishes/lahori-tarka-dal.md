@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 45 minutes
+---
+
 # Lahori Tarka Dal
 
 ![Lahori Tarka Dal](resources/lahori-tarka-dal.jpg)

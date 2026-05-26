@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 30 minutes batter rest)
+cook: 35 minutes
+---
+
 # Toad in the Hole
 
 ![Toad in the Hole](resources/toad-in-the-hole.jpg)

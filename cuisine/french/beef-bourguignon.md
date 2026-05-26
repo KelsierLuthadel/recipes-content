@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 29 minutes
+---
+
 # Beef Bourguignon (Boeuf Bourguignon)
 
 ![Beef Bourguignon](resources/beef-bourguinon.jpg)

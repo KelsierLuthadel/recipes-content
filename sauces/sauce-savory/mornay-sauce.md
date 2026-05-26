@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 15 minutes
+---
+
 # Mornay Sauce
 
 ![Mornay sauce](resources/mornay-sauce.png)

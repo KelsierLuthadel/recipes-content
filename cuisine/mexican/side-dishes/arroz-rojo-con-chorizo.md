@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 30 minutes
+---
+
 # Arroz Rojo Con Chorizo
 
 ![Arroz Rojo con Chorizo](resources/arroz-rojo-con-chorizo.jpg)

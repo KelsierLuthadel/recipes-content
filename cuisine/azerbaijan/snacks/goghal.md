@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 1 hour resting)
+cook: 25 minutes
+---
+
 # Goghal
 
 ![Goghal](resources/goghal.jpg)

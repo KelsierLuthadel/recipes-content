@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Tomato Vinaigrette
 
 ![Tomato Vinaigrette](resources/tomato.png)

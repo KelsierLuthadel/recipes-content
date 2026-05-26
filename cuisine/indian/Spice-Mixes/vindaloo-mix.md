@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Vindaloo Spice Mix
 
 ![Vindaloo Spice Mix](resources/vindaloo-mix.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour chilling)
+cook: 1 hour 15 minutes
+---
+
 # Sweet Potato Pie
 
 ![Sweet Potato Pie](resources/sweet-potato-pie.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 4 hours salting + 1-3 days fermenting)
+cook: 5 minutes
+---
+
 # Kimchi (Cabbage)
 
 ![Kimchi](resources/kimchi.jpg)

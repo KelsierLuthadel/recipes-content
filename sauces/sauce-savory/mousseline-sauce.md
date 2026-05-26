@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes
+---
+
 # Mousseline Sauce
 
 ![Mousseline sauce](resources/mousseline.jpg)

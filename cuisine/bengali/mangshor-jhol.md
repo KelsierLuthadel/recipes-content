@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 90 minutes
+---
+
 # Mangshor Jhol
 
 ![Mangshor Jhol](resources/mangshor-jhol.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 10 minutes
+---
+
 # Potato Kugel
 
 ![Potato Kugel](resources/kugel.jpg)

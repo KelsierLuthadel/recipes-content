@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 2 hours soaking)
+cook: 25 minutes
+---
+
 # Chuối Nướng
 
 ![Chuoi Nuong](resources/chuoi-nuong.jpg)

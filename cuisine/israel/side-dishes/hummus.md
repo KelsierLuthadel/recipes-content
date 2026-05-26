@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 12 hours soaking)
+cook: 1 hour 15 minutes
+---
+
 # Hummus
 
 ![Hummus](resources/hummus.jpg)

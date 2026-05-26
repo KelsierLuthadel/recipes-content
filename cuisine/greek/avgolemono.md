@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 50 minutes
+---
+
 # Avgolemono
 
 ![Avgolemono](resources/avgolemono.jpg)

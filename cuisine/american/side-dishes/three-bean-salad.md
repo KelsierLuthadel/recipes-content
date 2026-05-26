@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Three-Bean Salad
 
 ![Three-Bean Salad](resources/three-bean-salad.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 2 minutes
+---
+
 # Onion Bhajis
 
 ![Onion Bhajis](resources/onionbhajji.jpg)

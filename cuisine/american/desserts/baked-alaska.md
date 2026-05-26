@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 43 minutes
+---
+
 # Baked Alaska
 
 ![Baked Alaska](resources/baked-alaska.jpg)
@@ -103,4 +108,3 @@ Trimmed and torched (or baked) baked Alaska should be served immediately while t
 
 ## Storage
 The individual components can be prepared ahead: the sponge 1-2 days before, the ice cream made ahead and frozen, the Italian meringue made 2-3 hours ahead and kept at room temperature (do not refrigerate). Assemble, wrap, and freeze for at least 2 hours (or up to overnight). Torch or bake only when ready to serve, as the finished baked Alaska does not hold well after warming.
-

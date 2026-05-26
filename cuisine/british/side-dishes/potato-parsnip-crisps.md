@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Potato and Parsnip Crisps
 
 ![Potato and parsnip crisps](resources/potato-parsnip-crisps.jpg)

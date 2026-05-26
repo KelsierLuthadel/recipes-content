@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Besan Ladoo
 
 ![Besan Ladoo](resources/besan-ladoo.jpg)

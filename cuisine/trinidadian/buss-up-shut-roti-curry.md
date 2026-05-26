@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour resting)
+cook: 45 minutes
+---
+
 # Buss-Up-Shut Roti with Curry
 
 ![Buss-Up-Shut Roti with Curry](resources/buss-up-shut-roti-curry.jpg)

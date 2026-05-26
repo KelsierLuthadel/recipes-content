@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes
+---
+
 # Buttermilk Biscuits
 
 ![Buttermilk Biscuits](resources/buttermilk-biscuits.jpg)

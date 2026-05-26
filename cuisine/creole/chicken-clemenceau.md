@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 35 minutes
+---
+
 # Chicken Clemenceau
 
 ![Chicken Clemenceau](resources/chicken-clemenceau.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 12-24 hour fermentation for kvas)
+cook: 1 hour
+---
+
 # Barszcz Czerwony
 
 ![Barszcz Czerwony](resources/barszcz-czerwony.jpg)

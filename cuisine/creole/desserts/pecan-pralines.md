@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 25 minutes
+---
+
 # Pecan Pralines
 
 ![Pecan Pralines](resources/pecan-pralines.jpg)

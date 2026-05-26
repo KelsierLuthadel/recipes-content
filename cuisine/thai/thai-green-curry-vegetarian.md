@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 25 minutes
+---
+
 # Thai Green Curry (Vegetarian)
 
 ![Thai Green Curry (Vegetarian)](resources/thai-green-curry-vegetarian.jpg)

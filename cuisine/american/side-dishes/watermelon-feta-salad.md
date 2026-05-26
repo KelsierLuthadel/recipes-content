@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 0 minutes
+---
+
 # Watermelon-Feta Salad
 
 ![Watermelon-Feta Salad](resources/watermelon-feta-salad.jpg)

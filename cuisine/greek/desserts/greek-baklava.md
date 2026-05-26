@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 50 minutes (plus overnight resting)
+---
+
 # Greek Baklava
 
 ![Greek Baklava](resources/greek-baklava.jpg)

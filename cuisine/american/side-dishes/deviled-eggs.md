@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 10 minutes
+---
+
 # Deviled Eggs
 
 ![Deviled Eggs](resources/deviled-eggs.jpg)

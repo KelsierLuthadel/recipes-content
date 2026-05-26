@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 2 hours marinade)
+cook: 1 hour 15 minutes
+---
+
 # Goan Chicken Biryani
 
 ![Goan Chicken Biryani](resources/goan-chicken-biryani.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Base Curry Powder
 
 ![Base Curry Powder](resources/base-curry-powder.jpg)

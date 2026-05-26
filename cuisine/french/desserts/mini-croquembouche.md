@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Mini Croquembouche
 
 ![Mini croquembouche](resources/mini-croquembouche.jpg)
@@ -77,4 +81,3 @@ Present the assembled croquembouche on a decorative serving plate or cake stand 
 
 ## Storage
 The choux balls can be baked 2-3 days ahead and stored in an airtight container at room temperature. The assembled croquembouche is best served immediately, as the caramel coating begins to absorb moisture from the air after a few hours, making it soft and sticky. If assembling ahead, keep in a very dry location and serve within 2-3 hours of assembly.
-

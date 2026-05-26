@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 2 minutes
+---
+
 # Marbled Tea Eggs
 
 ![Marbled tea eggs](resources/teaeggs.jpg)
@@ -54,4 +59,4 @@ Amount: 1-2 eggs per person as a snack or garnish
 - Do not freeze, as the texture of the egg white becomes rubbery upon thawing.
 
 *This unique method of cooking eggs in spiced tea derives its name from the marbled texture and web of cracks which appear on the surface of eggs when they are shelled.*
-*Traditionally, tea eggs are served cold and make a wonderful and easy garnish for cold platters. Once the eggs have cooled, they can be kept in the tea liquid in the refrigerator for up to 2 days.*
+*Traditionally, tea eggs are served cold and make a wonderful and easy garnish for cold platters. Once the eggs have cooled, they can be kept in the tea liquid in the refrigerator for up to 2 days.*

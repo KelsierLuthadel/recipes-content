@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Welsh Rarebit
 
 ![Welsh Rarebit](resources/welsh-rarebit.jpg)

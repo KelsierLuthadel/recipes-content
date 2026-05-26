@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 20 minutes
+---
+
 # Tahu Isi (Stuffed Fried Tofu)
 
 ![Tahu Isi](resources/tahu-isi.jpg)

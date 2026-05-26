@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 18 minutes
+---
+
 # Cannelloni Filled with Rocket, Spinach, and Ricotta Cheese
 
 ![Cannelloni](resources/canelloni.jpg)

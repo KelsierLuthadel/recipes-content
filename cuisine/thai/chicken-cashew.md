@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 10 minutes
+---
+
 # Chicken with Cashews
 
 ![Chicken with Cashews](resources/chicken-cashew.jpg)

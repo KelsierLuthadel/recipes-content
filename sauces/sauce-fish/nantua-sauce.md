@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 50 minutes
+---
+
 # Nantua Sauce
 
 ![Nantua sauce](resources/nantua.png)

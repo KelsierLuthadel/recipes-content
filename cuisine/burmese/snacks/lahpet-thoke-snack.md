@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Burmese Tea-Leaf Snack Mix
 
 ![Burmese Tea-Leaf Snack Mix](resources/lahpet-thoke-snack.jpg)

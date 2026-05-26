@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 1 hour marinade)
+cook: 8 minutes
+---
+
 # Bulgogi
 
 ![Bulgogi](resources/bulgogi.jpg)

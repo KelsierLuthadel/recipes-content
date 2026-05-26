@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Burger Buns
 
 ![Burger Buns](resources/buns.jpg)
@@ -100,4 +105,4 @@ Best within: 24 hours of baking; excellent toasted on day 2
 - Refresh stale buns: Wrap loosely in foil and warm in a 180°C oven for 5-10 minutes
 - Do not refrigerate; refrigeration stales bread faster
 
-*These golden-topped burger buns are simple to make, and work especially well when cut in half, toasted, and eaten as a steak sandwich. Where most people go wrong is not making the mixture wet enough and so the finished bread ends up too doughy and dry. Once the water is added, don't flood the work surface with flour as it will unbalance the recipe; instead, use olive oil if needed.*
+*These golden-topped burger buns are simple to make, and work especially well when cut in half, toasted, and eaten as a steak sandwich. Where most people go wrong is not making the mixture wet enough and so the finished bread ends up too doughy and dry. Once the water is added, don't flood the work surface with flour as it will unbalance the recipe; instead, use olive oil if needed.*

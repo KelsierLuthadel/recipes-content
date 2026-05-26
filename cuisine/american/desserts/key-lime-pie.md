@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 25 minutes (plus 4 hours chilling)
+---
+
 # Key Lime Pie
 
 ![Key Lime Pie](resources/key-lime-pie.jpg)

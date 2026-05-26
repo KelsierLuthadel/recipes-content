@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 20 minutes
+---
+
 # Salade Niçoise with Seared Tuna
 
 ![Salade Niçoise with Seared Tuna](resources/salade-nicoise-moderne.jpg)

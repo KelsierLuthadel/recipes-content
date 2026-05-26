@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 15 minutes
+---
+
 # Salade Niçoise
 
 ![Salade Niçoise](resources/salade-nicoise.jpg)

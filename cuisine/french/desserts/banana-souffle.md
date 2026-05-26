@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 7 minutes
+---
+
 # Banana Soufflé Crêpes with Chocolate Sauce
 
 ![Banana soufflé crêpes with chocolate sauce](resources/souflee.jpg)
@@ -59,4 +64,3 @@ Serve the crèpes immediately upon removal from the oven while the soufflé is s
 
 ## Storage
 Banana soufflé crèpes must be served immediately after baking as soufflés deflate quickly. The banana custard and crèpes can be prepared separately several hours ahead. Assemble (banana mixture on crêpe) immediately before baking. Do not attempt to reheat, as the soufflé will not rise a second time.
-

@@ -1,3 +1,8 @@
+---
+prep: 40 minutes
+cook: 50 minutes
+---
+
 # The Ultimate Margherita Pizza
 
 ![The Ultimate Margherita Pizza](resources/ultimate-margherita-pizza.jpg)

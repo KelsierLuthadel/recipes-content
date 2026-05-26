@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 1 hour
+---
+
 # Chicken Karahi
 
 ![Chicken Karahi](resources/BIR-Chicken-Kahari.jpg)

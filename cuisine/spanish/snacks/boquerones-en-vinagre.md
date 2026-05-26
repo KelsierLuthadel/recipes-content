@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 24 hours curing + 8 hours freezing)
+cook: 0 minutes
+---
+
 # Boquerones en Vinagre
 
 ![Boquerones en Vinagre](resources/boquerones-en-vinagre.jpg)

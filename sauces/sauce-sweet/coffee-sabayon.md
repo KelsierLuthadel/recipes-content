@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 15 minutes
+---
+
 # Coffee Sabayon with Cinnamon
 
 ![Coffee sabayon with cinnamon](resources/coffee-sabayon.png)

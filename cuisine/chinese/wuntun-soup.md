@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 10 minutes
+---
+
 # Wuntun Soup
 
 ![Wuntun soup](resources/wonton.jpg)

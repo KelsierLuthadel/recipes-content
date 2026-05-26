@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 20 minutes
+---
+
 # Mixed Meat and Bean Chilli
 
 ![Chilli con carne](resources/jays_chilli.jpg)

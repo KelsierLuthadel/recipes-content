@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 1 hour 45 minutes (plus 30 minutes resting)
+---
+
 # Simnel Cake
 
 ![Simnel Cake](resources/simnel-cake.jpg)

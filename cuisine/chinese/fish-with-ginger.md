@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Fried Fish with Ginger
 
 ![Fried Fish with Ginger](resources/fish-ginger.jpg)

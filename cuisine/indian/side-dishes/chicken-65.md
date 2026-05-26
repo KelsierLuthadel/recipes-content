@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 1 hour marinating)
+cook: 25 minutes
+---
+
 # Chicken 65
 
 ![Chicken 65](resources/chicken-65.jpg)

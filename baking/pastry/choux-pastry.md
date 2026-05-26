@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 1 minute
+---
+
 # Pâte à Choux (Choux Pastry)
 
 ![Pâte à choux (Choux Pastry)](resources/choux.jpg)

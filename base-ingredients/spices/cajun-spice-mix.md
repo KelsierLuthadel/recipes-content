@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Cajun Spice Mix
 
 ![Cajun Spice Mix](resources/cajun-spice-mix.jpg)

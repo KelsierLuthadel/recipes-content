@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 1 hour rising)
+cook: 15 minutes
+---
+
 # Sfeeha
 
 ![Sfeeha](resources/sfeeha.jpg)

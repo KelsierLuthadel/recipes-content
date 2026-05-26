@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 50 minutes
+---
+
 # Dirty Rice
 
 ![Dirty Rice](resources/dirty-rice.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 10 minutes
+---
+
 # Tamarind Sauce
 
 ![Tamarind sauce](resources/tamarind-sauce.png)

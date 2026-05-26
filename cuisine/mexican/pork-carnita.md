@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 8-10 hours
+---
+
 # Crispy Pork Carnitas
 
 ![Crispy pork carnitas](resources/carnitas.png)

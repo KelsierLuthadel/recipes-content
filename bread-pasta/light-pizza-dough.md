@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Light Pizza Dough
 
 ![Light Pizza Dough](resources/pizzadough.jpg)

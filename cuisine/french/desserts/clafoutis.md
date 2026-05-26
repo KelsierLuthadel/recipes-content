@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 40 minutes
+---
+
 # Clafoutis
 
 ![Clafoutis](resources/clafoutis.jpg)

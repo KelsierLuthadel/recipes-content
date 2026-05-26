@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 1 hour soaking)
+cook: 2 hours
+---
+
 # Plov
 
 ![Plov](resources/plov.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 120 minutes
+---
+
 # Minestrone with Pesto
 
 ![Minestrone with pesto](resources/minestrone-pesto.jpg)

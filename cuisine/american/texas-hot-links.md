@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 1 hour resting)
+cook: 2 hours 30 minutes
+---
+
 # Texas Hot-Link Sausage
 
 ![Texas Hot-Link Sausage](resources/texas-hot-links.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 35 minutes
+cook: 15 minutes
+---
+
 # Sandesh
 
 ![Sandesh](resources/sandesh.jpg)

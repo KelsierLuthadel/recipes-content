@@ -1,3 +1,7 @@
+---
+prep: 20 minutes
+---
+
 # Stem Ginger Ice Cream
 
 ![Stem ginger ice cream](resources/stem-ginger-ice-cream.jpg)
@@ -35,4 +39,3 @@ Serve this distinctive ice cream with warm spiced apple cakes, caramelized pear 
 
 ## Storage
 Stem ginger ice cream keeps for up to two weeks in an airtight freezer container, though it's best served within the first week for optimal flavor and smoothness. The desiccated coconut particles may gradually settle or rise during freezing; briefly stir if visible separation occurs (this is purely aesthetic). Allow to soften for 10-15 minutes if too hard to scoop.
-

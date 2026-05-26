@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 15 minutes
+---
+
 # Honey Soy Salmon (One-Pan)
 
 ![Honey Soy Salmon (One-Pan)](resources/honey-soy-salmon.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 30 minutes
+---
+
 # Chicharrones
 
 ![Chicharrones](resources/chicharrones.jpg)

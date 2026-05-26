@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 ¾ hours
+---
+
 # Mafé
 
 ![Mafé](resources/mafe.jpg)

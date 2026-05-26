@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 9 minutes
+---
+
 # Sri Lankan Curry Powder
 
 ![Sri Lankan](resources/sri-lankan.jpg)

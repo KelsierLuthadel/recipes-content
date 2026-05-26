@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 2 hours 30 minutes
+---
+
 # Ghormeh Sabzi
 
 ![Ghormeh Sabzi](resources/ghormeh-sabzi.jpg)

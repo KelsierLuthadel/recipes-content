@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 25 minutes
+---
+
 # Kewa Datshi
 
 ![Kewa Datshi](resources/kewa-datshi.jpg)

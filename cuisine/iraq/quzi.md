@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 4 hours
+---
+
 # Quzi
 
 ![Quzi](resources/quzi.jpg)

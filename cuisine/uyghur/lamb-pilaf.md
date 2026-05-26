@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 1 hour 15 minutes
+---
+
 # Xinjiang Lamb Pilaf
 
 ![Xinjiang Lamb Pilaf](resources/lamb-pilaf.jpg)

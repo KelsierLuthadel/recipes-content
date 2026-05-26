@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 15 minutes
+---
+
 # Tostadas
 
 ![Tostadas](resources/tostadas.jpg)

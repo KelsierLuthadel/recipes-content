@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes soaking)
+cook: 45 minutes
+---
+
 # Diri Ak Djon Djon
 
 ![Diri ak Djon Djon](resources/diri-ak-djon-djon.jpg)

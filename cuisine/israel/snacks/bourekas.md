@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 25 minutes
+---
+
 # Bourekas
 
 ![Bourekas](resources/bourekas.jpg)

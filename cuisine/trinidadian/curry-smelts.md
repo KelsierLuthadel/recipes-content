@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 30 minutes
+---
+
 # Curry Smelts
 
 ![Curry Smelts](resources/curry-smelts.jpg)

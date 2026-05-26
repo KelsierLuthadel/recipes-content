@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 55 minutes
+---
+
 # Bread Sauce
 
 ![Bread sauce](resources/bread-sauce.jpg)

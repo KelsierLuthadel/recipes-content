@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 2 hours
+---
+
 # Luwombo
 
 ![Luwombo](resources/luwombo.jpg)

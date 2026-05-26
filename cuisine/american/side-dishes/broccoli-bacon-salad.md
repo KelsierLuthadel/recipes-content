@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 10 minutes
+---
+
 # Broccoli-Bacon Salad
 
 ![Broccoli-Bacon Salad](resources/broccoli-bacon-salad.jpg)

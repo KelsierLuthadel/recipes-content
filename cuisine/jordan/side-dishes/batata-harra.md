@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 25 minutes
+---
+
 # Batata Harra
 
 ![Batata Harra](resources/batata-harra.jpg)

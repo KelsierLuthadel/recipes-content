@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 30 minutes pastry chilling)
+cook: 30 minutes
+---
+
 # Crawfish Pies
 
 ![Crawfish Pies](resources/crawfish-pies.jpg)

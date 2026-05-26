@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Nuoc Cham
 
 ![Nuoc Cham](resources/nuoc-cham.jpg)
@@ -107,4 +111,4 @@ Application: Spooned onto plates alongside rice; diners add to taste; used as di
 - In tropical climates, use within 2-3 days for optimal flavor and safety
 - Traditional Vietnamese practice: make fresh frequently rather than store long-term
 
-*In Vietnam, this fiery-bright sauce serves the exact purpose that salt and pepper do in Western cuisine: it appears on every table as the fundamental condiment for seasoning dishes to individual taste. The name means "chilli sauce", simple, direct, and absolutely essential. Fresh lime juice provides brightness, fish sauce contributes umami depth, while chillies deliver both heat and flavor.*
+*In Vietnam, this fiery-bright sauce serves the exact purpose that salt and pepper do in Western cuisine: it appears on every table as the fundamental condiment for seasoning dishes to individual taste. The name means "chilli sauce", simple, direct, and absolutely essential. Fresh lime juice provides brightness, fish sauce contributes umami depth, while chillies deliver both heat and flavor.*

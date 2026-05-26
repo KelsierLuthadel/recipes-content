@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 8 minutes
+---
+
 # Kerabu Kacang Botol
 
 ![Kerabu Kacang Botol](resources/kerabu.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes soak)
+cook: 30 minutes
+---
+
 # Goan Prawn Pulao
 
 ![Goan Prawn Pulao](resources/goan-prawn-pulao.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 25 minutes
+---
+
 # Kung Pao Chicken
 
 ![Kung Pao Chicken](resources/kung-pao.jpg)

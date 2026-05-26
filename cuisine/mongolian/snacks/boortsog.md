@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 30 min resting)
+cook: 25 minutes
+---
+
 # Boortsog
 
 ![Boortsog](resources/boortsog.jpg)

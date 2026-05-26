@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus overnight bean soak)
+cook: 1 ¾ hours
+---
+
 # Red Beans and Rice
 
 ![Red Beans and Rice](resources/red-beans-and-rice.jpg)

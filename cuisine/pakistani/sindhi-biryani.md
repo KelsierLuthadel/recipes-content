@@ -1,3 +1,8 @@
+---
+prep: 35 minutes (plus 2 hours marinating)
+cook: 1 hour 30 minutes
+---
+
 # Sindhi Biryani
 
 ![Sindhi Biryani](resources/sindhi-biryani.jpg)

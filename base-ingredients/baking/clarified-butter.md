@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 8 minutes
+---
+
 # Clarified Butter (Beurre Clarifié)
 
 ![Clarified Butter](resources/clarified-butter.jpg)

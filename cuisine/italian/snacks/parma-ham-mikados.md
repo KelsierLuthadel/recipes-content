@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 2 minutes
+---
+
 # Parma Ham Mikados
 
 ![Parma Ham Mikados](resources/straws.jpg)

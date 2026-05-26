@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 50 minutes
+---
+
 # Nasi Lemak
 
 ![Nasi Lemak](resources/nasi-lemak.jpeg)

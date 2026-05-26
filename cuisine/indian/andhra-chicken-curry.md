@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 30 minutes marinade)
+cook: 45 minutes
+---
+
 # Andhra Chicken Curry
 
 ![Andhra Chicken Curry](resources/andhra-chicken-curry.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 35 minutes
+---
+
 # Velouté Sauce
 
 ![Velouté sauce](resources/veloute.jpg)

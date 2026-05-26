@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 20 minutes
+---
+
 # Pancit Canton
 
 ![Pancit Canton](resources/pancit-canton.jpg)

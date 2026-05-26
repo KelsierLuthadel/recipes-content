@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 30 minutes
+---
+
 # Apple Strudel
 
 ![Apple strudel](resources/apple-strudel.jpg)
@@ -52,4 +57,3 @@ Slice the warm strudel at the table for presentation impact, dusting each slice 
 
 ## Storage
 Apple strudel is best served warm but can be held at room temperature for several hours; reheat gently in a 160°C oven for 10 minutes if needed. The unbaked strudel can be prepared several hours ahead and kept refrigerated, then baked when ready. Once baked, it keeps at room temperature for 1 day, covered lightly.
-

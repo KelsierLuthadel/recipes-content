@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus pickle time if making fresh)
+cook: 5 minutes
+---
+
 # Bánh Mì
 
 ![Banh Mi](resources/banh-mi.jpg)

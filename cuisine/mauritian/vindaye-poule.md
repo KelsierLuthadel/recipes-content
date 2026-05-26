@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 12 hours resting)
+cook: 25 minutes
+---
+
 # Vindaye Poule
 
 ![Vindaye Poule](resources/vindaye-poule.jpg)

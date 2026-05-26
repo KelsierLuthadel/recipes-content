@@ -1,3 +1,8 @@
+---
+prep: 5 minutes (plus overnight soak)
+cook: 45 minutes
+---
+
 # Mushy Peas
 
 ![Mushy Peas](resources/mushy-peas.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 2-4 hours dough rise)
+cook: 15 minutes
+---
+
 # Sheker Manta
 
 ![Sheker Manta](resources/sheker-manta.jpg)

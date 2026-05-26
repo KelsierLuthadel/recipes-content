@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 1 hour 15 minutes (plus 4 hours cooling)
+---
+
 # Sernik
 
 ![Sernik](resources/sernik.jpg)

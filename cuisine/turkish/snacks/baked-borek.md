@@ -1,3 +1,8 @@
+---
+prep: 1 hour 15 minutes
+cook: 40 minutes
+---
+
 # Baked Börek with Khandrajo Filling
 
 ![Baked Börek](resources/borek.jpg)

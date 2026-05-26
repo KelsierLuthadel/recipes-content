@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Tom Kha Gai Soup (Chicken, Galangal and Coconut Soup)
 
 ![Tom Kha Gai Soup (Chicken, Galangal and Coconut Soup)](resources/tom-kha-gai-soup.jpg)

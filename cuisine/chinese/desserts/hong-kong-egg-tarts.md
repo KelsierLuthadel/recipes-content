@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 30 min dough chill)
+cook: 25 minutes
+---
+
 # Hong Kong Egg Tarts
 
 ![Hong Kong Egg Tarts](resources/hong-kong-egg-tarts.jpg)

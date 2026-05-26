@@ -1,3 +1,8 @@
+---
+prep: 40 minutes
+cook: 25 minutes
+---
+
 # Chiles Rellenos
 
 ![Chiles Rellenos](resources/chiles-rellenos.jpg)

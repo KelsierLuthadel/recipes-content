@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 2 hours
+---
+
 # Borscht
 
 ![Borscht](resources/borscht.jpg)

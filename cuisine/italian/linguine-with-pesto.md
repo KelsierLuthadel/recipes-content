@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Linguine with Genovese Basil Pesto
 
 ![Linguine with Pesto](resources/linguini-pesto.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Classic Curry Powder
 
 ![Curry Powder](resources/curry-powder.jpg)

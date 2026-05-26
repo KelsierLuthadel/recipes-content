@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 1 hour (mostly roasting)
+---
+
 # Buraczki
 
 ![Buraczki](resources/buraczki.jpg)

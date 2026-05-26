@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 55 minutes
+---
+
 # Guizhou Chili Chicken (Guizhou Lazi Ji)
 
 ![Guizhou Chili Chicken (Guizhou Lazi Ji)](resources/guizhou-chili-chicken.jpg)

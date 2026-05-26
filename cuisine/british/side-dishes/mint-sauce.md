@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Mint Sauce
 
 ![Mint Sauce](resources/mint-sauce.jpg)

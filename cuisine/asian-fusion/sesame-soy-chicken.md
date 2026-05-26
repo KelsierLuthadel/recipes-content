@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 2 hours marinating)
+cook: 15 minutes
+---
+
 # Sesame Soy Chicken
 
 ![Sesame Soy Chicken](resources/sesame-soy-chicken.jpg)

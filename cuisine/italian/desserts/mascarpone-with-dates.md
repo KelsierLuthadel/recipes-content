@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Mascarpone with Dates and Candied Peel
 
 ![Mascarpone with dates and candied peel](resources/mascarpone-with-dates.jpg)
@@ -38,4 +42,3 @@ Shape and place the mascarpone quenelle on the plate, scatter reserved candied f
 
 ## Storage
 The mascarpone cream mixture can be prepared several hours ahead and kept refrigerated, covered. Shape and serve the quenelle no more than 20-30 minutes before serving to maintain its definition; warmer rooms cause it to soften and lose shape. The candied fruit and dates can be prepared 1 day ahead.
-

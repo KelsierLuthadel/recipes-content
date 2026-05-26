@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 30 minutes
+---
+
 # Chocolate and Raspberry Tart
 
 ![Chocolate and raspberry tart](resources/chocolate-raspberry-tart.jpg)
@@ -51,4 +56,4 @@ This elegant tart marries crisp sweet shortcrust pastry with a glossy dark choco
 Serve the tart chilled or just removed from the fridge, allowing it to soften slightly before cutting. Pair with crème fraîche or a dusting of cocoa powder for an elegant finish.
 
 ## Storage
-Keep the tart refrigerated for up to 3 days. Cover it well to prevent it from absorbing fridge odors; do not freeze, as the ganache texture will degrade. 
+Keep the tart refrigerated for up to 3 days. Cover it well to prevent it from absorbing fridge odors; do not freeze, as the ganache texture will degrade.

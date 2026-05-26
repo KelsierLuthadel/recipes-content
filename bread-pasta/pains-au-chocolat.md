@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Pains au Chocolat
 
 ![Pains au chocolat](resources/pains-au-chocolat.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Chakalaka
 
 ![Chakalaka](resources/chakalaka.jpg)

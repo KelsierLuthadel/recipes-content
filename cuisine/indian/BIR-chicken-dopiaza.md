@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Chicken Dopiaza
 
 ![Chicken Dopiaza](resources/BIR-chicken-dopiaza.jpg)

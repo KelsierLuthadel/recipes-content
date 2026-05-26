@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 30 minutes resting)
+cook: none
+---
+
 # Obatzda
 
 ![Obatzda](resources/obatzda.jpg)

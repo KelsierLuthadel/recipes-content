@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 45 minutes
+---
+
 # Chicken Adobo
 
 ![Chicken Adobo](resources/chicken-adobo.jpg)

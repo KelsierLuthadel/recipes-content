@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 4 minutes
+---
+
 # Seafood Linguine with Chilli and White Wine
 
 ![Seafood Linguine](resources/shrimp-and-pasta.jpg)

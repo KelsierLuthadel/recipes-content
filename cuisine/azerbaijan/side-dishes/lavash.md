@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 30 minutes resting)
+cook: 24 minutes (3 minutes per sheet)
+---
+
 # Lavash
 
 ![Lavash](resources/lavash.jpg)

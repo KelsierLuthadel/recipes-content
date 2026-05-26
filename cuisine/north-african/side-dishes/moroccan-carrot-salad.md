@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 12 minutes
+---
+
 # Moroccan Carrot Salad
 
 ![Moroccan Carrot Salad](resources/moroccan-carrot-salad.jpg)

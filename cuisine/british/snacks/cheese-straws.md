@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 5-6 minutes
+---
+
 # Cheese Straws
 
 ![Cheese Straws](resources/cheese-straws.jpg)

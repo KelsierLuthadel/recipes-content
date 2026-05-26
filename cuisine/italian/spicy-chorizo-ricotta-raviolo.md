@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Spicy Chorizo Ricotta Ravioli
 
 ![Spicy Chorizo Ricotta Ravioli](resources/ravioli.jpg)

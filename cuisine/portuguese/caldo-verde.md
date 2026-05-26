@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 35 minutes
+---
+
 # Caldo Verde
 
 ![Caldo Verde](resources/caldo-verde.jpg)

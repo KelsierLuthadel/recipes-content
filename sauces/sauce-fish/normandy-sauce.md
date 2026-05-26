@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 35 minutes
+---
+
 # Normandy Sauce
 
 ![Normandy sauce](resources/normandy-sauce.png)

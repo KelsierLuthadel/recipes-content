@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Lahpet Thoke
 
 ![Lahpet Thoke](resources/lahpet-thoke.jpg)

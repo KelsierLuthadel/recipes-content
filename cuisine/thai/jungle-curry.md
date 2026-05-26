@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15-20 minutes
+---
+
 # Chicken Jungle Curry
 
 ![Chicken Jungle Curry](resources/jungle-curry.jpg)

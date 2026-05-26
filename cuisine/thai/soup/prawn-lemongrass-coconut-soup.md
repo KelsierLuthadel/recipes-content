@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 10 minutes
+---
+
 # Prawn, Lemongrass and Coconut Soup (Tom Yum)
 
 ![Prawn, lemongrass and coconut soup](resources/prawn-lemongrass-coconut-soup.jpg)

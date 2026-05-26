@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 35 minutes
+---
+
 # Uyghur Lamb Ribs
 
 ![Uyghur Lamb Ribs](resources/lamb-ribs.jpg)

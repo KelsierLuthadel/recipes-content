@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 4+ hours chilling)
+cook: 45 minutes
+---
+
 # Crème Brûlée
 
 ![Creme Brulee](resources/creme-brulee.jpg)

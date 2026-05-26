@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 45 minutes first rise, 6 hours cold proof, 1 hour 30 minutes second rise)
+cook: 20 minutes
+---
+
 # Pistachio Babka Buns
 
 ![Pistachio Babka Buns](resources/pistachio-babka-buns.jpg)

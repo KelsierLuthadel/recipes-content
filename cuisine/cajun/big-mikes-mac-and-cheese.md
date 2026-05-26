@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Big Mike’s Mac ’n’ Cheese
 
 ![Mac n Cheese](resources/mac-n-cheese.jpg)

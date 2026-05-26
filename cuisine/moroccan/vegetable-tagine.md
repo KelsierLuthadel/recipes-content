@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 hour
+---
+
 # Vegetable Tagine
 
 ![Vegetable Tagine](resources/vegetable-tagine.jpg)

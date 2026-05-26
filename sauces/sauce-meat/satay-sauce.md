@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 5 minutes
+---
+
 # Satay Sauce
 
 ![Satay sauce](resources/satay.jpg)

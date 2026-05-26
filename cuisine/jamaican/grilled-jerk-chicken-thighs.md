@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 2+ hours marinating)
+cook: 15 minutes
+---
+
 # Grilled Jerk Chicken Thighs
 
 ![Grilled Jerk Chicken Thighs](resources/grilled-jerk-chicken-thighs.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 30 minutes
+---
+
 # Beef Pho
 
 ![Beef Pho](resources/beef-pho.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 1 hour resting at room temperature)
+cook: 1 hour 30 minutes
+---
+
 # Roast Lamb with Rosemary and Garlic
 
 ![Roast Lamb with Rosemary and Garlic](resources/roast-lamb-rosemary.jpg)

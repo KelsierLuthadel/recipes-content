@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Three-Cheese Spinach Manicotti
 
 ![Three-Cheese Spinach Manicotti](resources/cheese-spinach-manicotti.jpg)

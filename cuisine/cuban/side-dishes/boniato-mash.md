@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 25 minutes
+---
+
 # Boniato Mash
 
 ![Boniato Mash](resources/boniato-mash.jpg)

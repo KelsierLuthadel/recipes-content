@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Bruschetta Platter (Tomato and Roasted Pepper)
 
 ![Bruschetta Platter](resources/bruschetta-platter.jpg)

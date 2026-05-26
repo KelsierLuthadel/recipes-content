@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 4 hours marinade)
+cook: 2 hours
+---
+
 # Lahori Mutton Biryani
 
 ![Lahori Mutton Biryani](resources/lahori-mutton-biryani.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 105 minutes
+---
+
 # Pear Chutney
 
 ![Pear chutney](resources/Pear-chutney.png)

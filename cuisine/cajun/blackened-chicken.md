@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 11 minutes
+---
+
 # Blackened Chicken
 
 ![Blackened Chicken](resources/blackened-chicken.jpg)

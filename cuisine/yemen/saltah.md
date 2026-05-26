@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus overnight for fenugreek)
+cook: 2 hours 30 minutes
+---
+
 # Saltah
 
 ![Saltah](resources/saltah.jpg)

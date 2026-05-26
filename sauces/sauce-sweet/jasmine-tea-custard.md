@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 40 minutes
+---
+
 # Jasmine Tea Custard
 
 ![Jasmine tea custard](resources/jasmine-custard.PNG)

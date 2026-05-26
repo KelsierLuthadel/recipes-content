@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 20 minutes soaking)
+cook: 0 minutes
+---
+
 # Tabbouleh Iraqi
 
 ![Tabbouleh Iraqi](resources/tabbouleh-iraqi.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Chicken Pathia
 
 ![Chicken Pathia](resources/BIR-chicken-pathia.jpg)

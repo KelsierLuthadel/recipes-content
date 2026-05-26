@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 30 minutes
+---
+
 # Thermidor Sauce
 
 ![Thermidor sauce](resources/thermidor.png)

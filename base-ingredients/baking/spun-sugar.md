@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Spun Sugar
 
 ![Spun Sugar](resources/spun-sugar.jpg)

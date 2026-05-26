@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Shredded Beef with Chillies
 
 ![Shredded Beef with Chillies](resources/shredded.jpg)

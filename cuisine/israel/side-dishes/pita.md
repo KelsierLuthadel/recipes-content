@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 1 hour 30 minutes rising)
+cook: 12 minutes (with a hot stone)
+---
+
 # Pita
 
 ![Pita](resources/pita.jpg)

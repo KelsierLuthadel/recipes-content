@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 4 to 12 hours marinating)
+cook: 50 minutes
+---
+
 # Yassa Spice-Rubbed Grilled Chicken
 
 ![Yassa Spice-Rubbed Grilled Chicken](resources/yassa-grilled-chicken.jpg)

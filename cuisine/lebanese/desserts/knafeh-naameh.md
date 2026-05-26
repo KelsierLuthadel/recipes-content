@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 35 minutes
+---
+
 # Knafeh Naameh
 
 ![Knafeh Naameh](resources/knafeh-naameh.jpg)

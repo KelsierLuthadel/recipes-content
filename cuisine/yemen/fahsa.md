@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus overnight for fenugreek)
+cook: 3 hours
+---
+
 # Fahsa
 
 ![Fahsa](resources/fahsa.jpg)

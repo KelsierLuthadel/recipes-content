@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 35 minutes
+---
+
 # Bratwurst with Sauerkraut
 
 ![Bratwurst with Sauerkraut](resources/bratwurst.jpg)

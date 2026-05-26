@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes rest)
+cook: 30 minutes
+---
+
 # Alle Belle
 
 ![Alle Belle](resources/alle-belle.jpg)

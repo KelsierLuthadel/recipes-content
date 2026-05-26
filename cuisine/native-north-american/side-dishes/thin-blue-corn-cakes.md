@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 15 minutes
+---
+
 # Thin Blue Corn Cakes
 
 ![Thin Blue Corn Cakes](resources/thin-blue-corn-cakes.jpg)

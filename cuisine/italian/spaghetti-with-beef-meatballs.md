@@ -1,3 +1,7 @@
+---
+prep: 20 minutes
+---
+
 # Spaghetti with Beef Meatballs
 
 ![Spaghetti with Beef Meatballs](resources/beef-meatballs.jpg)

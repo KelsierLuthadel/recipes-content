@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 12 hours marinating)
+cook: 1 hour 30 minutes
+---
+
 # Goan Pork Vindaloo
 
 ![Goan Pork Vindaloo](resources/goan-pork-vindaloo.jpg)

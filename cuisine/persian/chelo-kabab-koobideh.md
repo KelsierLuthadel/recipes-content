@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour chilling)
+cook: 15 minutes
+---
+
 # Chelo Kabab Koobideh
 
 ![Chelo Kabab Koobideh](resources/chelo-kabab-koobideh.jpg)

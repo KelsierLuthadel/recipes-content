@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: None
+---
+
 # Charoset
 
 ![Charoset](resources/charoset.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 35 minutes (plus 4 hours chilling)
+---
+
 # Cheesecake Brownies
 
 ![Cheesecake Brownies](resources/cheesecake-brownies.jpg)

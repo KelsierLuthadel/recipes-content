@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 6 hours freezing)
+cook: 20 minutes
+---
+
 # Bastani Sonnati
 
 ![Bastani Sonnati](resources/bastani-sonnati.jpg)

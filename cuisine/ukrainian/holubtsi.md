@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 1 ¼ hours
+---
+
 # Holubtsi
 
 ![Holubtsi](resources/holubtsi.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 50 minutes (plus 2 hours chilling)
+---
+
 # Watalappam
 
 ![Watalappam](resources/watalappam.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 45 minutes
+---
+
 # Bamia Iraqi
 
 ![Bamia Iraqi](resources/bamia-iraqi.jpg)

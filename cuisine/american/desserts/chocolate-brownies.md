@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Chocolate Brownies
 
 ![Chocolate Brownies](resources/chocolate-brownies.png)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes drain)
+cook: 0 minutes
+---
+
 # Tzatziki
 
 ![Tzatziki](resources/tzatziki.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 30 minutes resting)
+cook: 18 minutes
+---
+
 # Pan de Bono
 
 ![Pan de Bono](resources/pan-de-bono.jpg)

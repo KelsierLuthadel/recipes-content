@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 2 minutes
+---
+
 # Lemon and Orange Meringue Pie
 
 ![Lemon and orange meringue pie](resources/lemon-orange-meringue-pie.jpg)
@@ -97,4 +102,3 @@ Serve the pie warm or at room temperature, cutting into generous slices. The con
 
 ## Storage
 The pastry dough can be made 2-3 days ahead and refrigerated, or frozen for up to 2 weeks. The baked pastry shell can be made the day before and kept in an airtight container at room temperature. The curd filling can be made the day before and refrigerated until assembly. Assemble and serve the same day; the meringue begins to soften and weep after several hours.
-

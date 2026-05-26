@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 1 hour partial freezing)
+cook: 12 minutes
+---
+
 # Philly Cheesesteak
 
 ![Philly Cheesesteak](resources/philly-cheesesteak.jpg)

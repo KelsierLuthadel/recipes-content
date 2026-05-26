@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 45 minutes
+---
+
 # Crawfish Étouffée
 
 ![Crawfish Étouffée](resources/crawfish-etouffee.jpg)

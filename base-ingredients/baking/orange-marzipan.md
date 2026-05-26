@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Zesty Orange Marzipan
 
 ![Marzipan](resources/marzipan.jpg)
@@ -106,4 +110,4 @@ Application: Under royal icing typically, or as a finished coating on its own
 - Refrigerate for up to 2 weeks (bring to room temperature for rolling)
 - Can be frozen for up to 1 month; thaw slowly at room temperature before use
 - Marzipan-coated cakes keep at room temperature for 1-2 weeks (longer if the marzipan is well-sealed)
-- The orange zest shortens fresh shelf-life slightly compared to classic marzipan; use within 1 week of application for optimal flavor 
+- The orange zest shortens fresh shelf-life slightly compared to classic marzipan; use within 1 week of application for optimal flavor

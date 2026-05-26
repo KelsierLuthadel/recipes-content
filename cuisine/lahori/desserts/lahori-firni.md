@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 30 minutes soak for the rice)
+cook: 35 minutes
+---
+
 # Lahori Firni
 
 ![Lahori Firni](resources/lahori-firni.jpg)

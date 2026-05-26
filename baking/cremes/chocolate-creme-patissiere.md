@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Chocolate Crème Pâtissière
 
 ![Chocolate crème pâtissière](resources/choccream.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 40 minutes (plus 1 hour resting)
+cook: 25 minutes
+---
+
 # Bint Al-Sahn
 
 ![Bint al-Sahn](resources/bint-al-sahn.jpg)

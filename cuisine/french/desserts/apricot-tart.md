@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 45 minutes
+---
+
 # Apricot Tart
 
 ![Apricot tart](resources/apricot-tart.jpg)

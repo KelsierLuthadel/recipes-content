@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 60 minutes
+---
+
 # Onion and Green Apple Chutney
 
 ![Onion and green apple chutney](resources/onion-apple-chutney.png)

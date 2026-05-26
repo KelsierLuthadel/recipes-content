@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 ¼ hours (plus 1 hour cooling in oven)
+---
+
 # Pavlova
 
 ![Pavlova](resources/pavlova.jpg)

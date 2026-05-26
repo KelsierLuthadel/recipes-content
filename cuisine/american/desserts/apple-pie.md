@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 1 hour chilling)
+cook: 1 hour
+---
+
 # Apple Pie
 
 ![Apple Pie](resources/apple-pie.jpg)

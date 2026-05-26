@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Lamb Achari
 
 ![Lamb Achari](resources/BIR_Lamb-achari.jpg)

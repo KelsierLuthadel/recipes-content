@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 hour 45 minutes
+---
+
 # Lamb Karahi (Afghan Style)
 
 ![Lamb Karahi (Afghan Style)](resources/lamb-karahi-afghani.jpg)

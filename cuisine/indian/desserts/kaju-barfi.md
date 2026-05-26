@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Kaju Barfi
 
 ![Kaju Barfi](resources/kaju-barfi.jpg)

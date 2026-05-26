@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus overnight soak)
+cook: 3 hours
+---
+
 # Corn Soup
 
 ![Corn Soup](resources/corn-soup.jpg)

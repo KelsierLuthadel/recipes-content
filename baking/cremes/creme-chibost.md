@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Crème Chiboust
 
 ![Crème chiboust](resources/creme-chiboust.png)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 10 minutes
+---
+
 # Caesar Salad
 
 ![Caesar Salad](resources/caesar-salad.jpg)

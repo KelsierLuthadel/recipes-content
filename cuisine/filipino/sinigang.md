@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour
+---
+
 # Sinigang Na Baboy
 
 ![Sinigang na Baboy](resources/sinigang.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Candied Fruit Peel
 
 ![Candied Fruit Peel](resources/candied-orange-peel.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 2 minutes
+---
+
 # Sweet and Sour Prawns
 
 ![Sweet and Sour Prawns](resources/ss-prawns.jpg)

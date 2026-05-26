@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Nigerian Coconut Candy
 
 ![Nigerian Coconut Candy](resources/coconut-candy.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Pâte Sucrée (Sweet Short Pastry)
 
 ![Pâte sucrée (Sweet Short Pastry)](resources/sweet-short.png)

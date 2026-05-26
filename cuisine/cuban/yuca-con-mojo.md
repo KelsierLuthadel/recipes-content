@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Yuca Con Mojo
 
 ![Yuca con Mojo](resources/yuca-con-mojo.jpg)

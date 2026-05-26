@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 4 hours rising)
+cook: 20 minutes
+---
+
 # Sangak
 
 ![Sangak](resources/sangak.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Crème Anglaise
 
 ![Crème anglaise](resources/creme-anglaise.jpg)
@@ -67,4 +71,4 @@ Temperature options: Warm alongside hot desserts; chilled for parfaits and trifl
 - Reheat gently over a water bath, whisking constantly, without boiling
 - Can be made 1-2 days ahead for entertaining
 
-*Crème anglaise is thought to have origins evolving from ancient Romans who used eggs as thickeners to create custards and creams*
+*Crème anglaise is thought to have origins evolving from ancient Romans who used eggs as thickeners to create custards and creams*

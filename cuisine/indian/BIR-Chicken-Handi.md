@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 40 minutes
+---
+
 # Authentic Chicken Handi
 
 ![Authentic Chicken Handi](resources/BIR-Chicken-Handi.jpg)

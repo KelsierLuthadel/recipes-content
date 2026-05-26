@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 50 minutes
+---
+
 # Kasutera
 
 ![Kasutera](resources/kasutera.jpg)

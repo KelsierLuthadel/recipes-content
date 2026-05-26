@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Sichuan Prawns in Chilli Sauce
 
 ![Sichuan Prawns in Chilli Sauce](resources/sichuan-prawn.jpg)

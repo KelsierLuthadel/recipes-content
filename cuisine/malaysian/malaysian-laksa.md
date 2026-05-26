@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 20 minutes
+---
+
 # Malaysian Curry Laksa (Laksa Lemak)
 
 ![Malaysian Curry Laksa](resources/curry-laksa.jpg)

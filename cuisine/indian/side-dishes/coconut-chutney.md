@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 5 minutes
+---
+
 # Coconut Chutney
 
 ![Coconut Chutney](resources/coconut-chutney.jpg)

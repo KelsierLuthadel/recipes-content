@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 0 minutes
+---
+
 # Horiatiki (Greek Village Salad)
 
 ![Horiatiki](resources/horiatiki.jpg)

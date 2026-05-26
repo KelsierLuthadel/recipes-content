@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 45 minutes soak)
+cook: 2 hours 30 minutes
+---
+
 # Lahori Mutton Yakhni Pulao
 
 ![Lahori Mutton Yakhni Pulao](resources/lahori-mutton-yakhni-pulao.jpg)

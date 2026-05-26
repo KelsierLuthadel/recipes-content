@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 25 minutes
+---
+
 # Alur Chop
 
 ![Alur Chop](resources/alur-chop.jpg)

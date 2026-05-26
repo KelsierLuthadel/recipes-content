@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 1 minute
+---
+
 # Pakora Sauce
 
 ![Pakora Sauce](resources/pakora-sauce.jpg)
@@ -84,4 +89,4 @@ Garnish: None needed; this is a condiment
 - Always use a clean spoon to prevent contamination 
 
 
-*Usually this sweet-and-sour sauce is red from food coloring, and it does look the part when bright red. The mango chutney and ketchup are already quite sweet but you might want to add a little sugar. The sour flavours come from the lemon and mint sauce. This is customizable to taste preferences.*
+*Usually this sweet-and-sour sauce is red from food coloring, and it does look the part when bright red. The mango chutney and ketchup are already quite sweet but you might want to add a little sugar. The sour flavours come from the lemon and mint sauce. This is customizable to taste preferences.*

@@ -1,3 +1,8 @@
+---
+prep: 50 minutes
+cook: 30 minutes
+---
+
 # Maultaschen
 
 ![Maultaschen](resources/maultaschen.jpg)

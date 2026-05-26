@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus overnight bean soaking)
+cook: 3-4 hours
+---
+
 # Cassoulet
 
 ![Cassoulet](resources/cassoulet.jpg)

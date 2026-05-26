@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 10 minutes
+---
+
 # Balti Masala Paste
 
 ![Balti Masala Paste](resources/balti-masala-paste.jpg)

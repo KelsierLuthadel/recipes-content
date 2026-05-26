@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Sweet Spiced Red Wine Sauce
 
 ![Sweet spiced red wine sauce](resources/spiced-red-wine.jpg)

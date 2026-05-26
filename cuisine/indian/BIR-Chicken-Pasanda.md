@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Chicken Pasanda
 
 ![Chicken Pasanda](resources/BIR-Chicken-Pasanda.jpg)

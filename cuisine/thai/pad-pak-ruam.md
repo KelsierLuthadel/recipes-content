@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 8 minutes
+---
+
 # Pad Pak Ruam
 
 ![Pad Pak Ruam](resources/pad-pak-ruam.jpg)

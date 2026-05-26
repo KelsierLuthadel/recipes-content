@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 4 hours marinating)
+cook: 35 minutes
+---
+
 # Gai Yang
 
 ![Gai Yang](resources/gai-yang.jpg)

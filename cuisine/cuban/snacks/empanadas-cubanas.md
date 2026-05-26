@@ -1,3 +1,8 @@
+---
+prep: 40 minutes (plus 30 minutes chilling)
+cook: 25 minutes (including the filling)
+---
+
 # Empanadas Cubanas
 
 ![Empanadas Cubanas](resources/empanadas-cubanas.jpg)

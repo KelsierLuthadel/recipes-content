@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Sambal Kecap
 
 ![Sambal Kecap](resources/sambal-kecap.jpg)

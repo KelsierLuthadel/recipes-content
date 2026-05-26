@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 minute
+---
+
 # Spring Rolls with Fiery Chilli Sauce
 
 ![Spring rolls with fiery chilli sauce](resources/springrolls.jpg)

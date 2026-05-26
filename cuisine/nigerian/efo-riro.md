@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 45 minutes
+---
+
 # Efo Riro
 
 ![Efo Riro](resources/efo-riro.jpg)

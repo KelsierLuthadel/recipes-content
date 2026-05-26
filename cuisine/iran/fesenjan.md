@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 ¾ hours
+---
+
 # Khoresh-E Fesenjan
 
 ![Khoresh-e Fesenjan](resources/fesenjan.jpg)

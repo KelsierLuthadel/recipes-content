@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 2 ½ hours rising)
+cook: 22 minutes
+---
+
 # Hot Cross Buns
 
 ![Hot Cross Buns](resources/hot-cross-buns.jpg)

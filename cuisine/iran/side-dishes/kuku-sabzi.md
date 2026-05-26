@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 40 minutes
+---
+
 # Kuku Sabzi
 
 ![Kuku Sabzi](resources/kuku-sabzi.jpg)

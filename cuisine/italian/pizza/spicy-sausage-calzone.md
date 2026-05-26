@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 50 minutes (sauce) + 30 minutes (bake from frozen)
+---
+
 # Spicy Sausage Calzone
 
 ![Spicy Sausage Calzone](resources/spicy-sausage-calzone.jpg)

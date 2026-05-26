@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 2 minutes
+---
+
 # Butter Chicken
 
 ![Butter Chicken](resources/butter-chicken.png)
@@ -69,4 +74,3 @@ A rich, creamy tomato-based curry with mild spice and buttery finish. A BIR-styl
 - Freeze up to 2 months; thaw fully before reheating
 - Reheat gently on low heat with a splash of stock or water
 - Best eaten within 24 hours for peak flavour
-

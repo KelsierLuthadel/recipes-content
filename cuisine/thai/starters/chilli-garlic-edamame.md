@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 10 minutes
+---
+
 # Thai-Style Chilli Garlic Edamame
 
 ![Thai-Style Chilli Garlic Edamame](resources/chilli-garlic-edamame.jpg)

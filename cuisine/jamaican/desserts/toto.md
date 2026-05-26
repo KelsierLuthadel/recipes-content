@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 45 minutes
+---
+
 # Toto
 
 ![Toto](resources/toto.jpg)

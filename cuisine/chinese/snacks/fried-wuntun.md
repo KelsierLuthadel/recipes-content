@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Fried Wuntun
 
 ![Fried wuntun](resources/wonton.jpg)

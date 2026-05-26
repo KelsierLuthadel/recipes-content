@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 50 minutes
+---
+
 # Soupe au Pistou
 
 ![Soupe au Pistou](resources/soupe-au-pistou.jpg)

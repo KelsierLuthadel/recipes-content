@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 35 minutes
+---
+
 # Okra Soup
 
 ![Okra Soup](resources/okra-soup.jpg)

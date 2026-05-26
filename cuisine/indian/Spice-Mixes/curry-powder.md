@@ -1,3 +1,8 @@
+---
+prep: 8 minutes
+cook: 2 minutes
+---
+
 # Curry Powder
 
 ![Curry Powder](resources/curry-powder.jpg)

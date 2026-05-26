@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 5 minutes
+---
+
 # Wok-Fried Greens
 
 ![Wok-Fried Greens](resources/wok-fried-greens.jpg)

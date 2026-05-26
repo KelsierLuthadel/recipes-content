@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 25 minutes
+---
+
 # Tomato and Basil Fish Fumet
 
 ![Tomato and basil fish fumet](resources/fumet.png)

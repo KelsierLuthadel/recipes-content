@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 25 minutes (in batches)
+---
+
 # Latkes (Potato Pancakes)
 
 ![Latkes](resources/latkes.jpg)

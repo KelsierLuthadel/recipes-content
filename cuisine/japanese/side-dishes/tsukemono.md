@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Tsukemono
 
 ![Tsukemono](resources/tsukemono.jpg)

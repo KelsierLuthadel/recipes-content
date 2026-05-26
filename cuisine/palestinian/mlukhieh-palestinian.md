@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 hour 20 minutes
+---
+
 # Mlukhieh Palestinian
 
 ![Mlukhieh Palestinian](resources/mlukhieh-palestinian.jpg)

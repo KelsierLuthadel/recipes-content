@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 30 minutes bulgur soaking)
+cook: 35 minutes
+---
+
 # Kibbeh Mosul
 
 ![Kibbeh Mosul](resources/kibbeh-mosul.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour
+---
+
 # Vietnamese Pork Bun Cha
 
 ![Vietnamese Pork Bun Cha](resources/bun-cha.jpg)

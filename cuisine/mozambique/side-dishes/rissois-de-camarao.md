@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 30 minutes resting)
+cook: 25 minutes
+---
+
 # Rissóis de Camarão
 
 ![Rissóis de Camarão](resources/rissois-de-camarao.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 2 hours 34 minutes
+---
+
 # Ragù with Gnocchi
 
 ![Ragù with GnocchiW](resources/ragu-with-gnocchi.jpg)

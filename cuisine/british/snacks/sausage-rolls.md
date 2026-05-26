@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 25 minutes
+---
+
 # Sausage Rolls
 
 ![Sausage Rolls](resources/sausage-rolls.jpg)

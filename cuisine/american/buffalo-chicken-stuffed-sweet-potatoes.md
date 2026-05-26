@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 1 hour
+---
+
 # Buffalo Chicken Stuffed Sweet Potatoes
 
 ![Buffalo Chicken Stuffed Sweet Potatoes](resources/buffalo-chicken-stuffed-sweet-potatoes.jpg)

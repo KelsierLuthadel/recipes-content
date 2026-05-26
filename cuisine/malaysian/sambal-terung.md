@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 20 minutes
+---
+
 # Sambal Terung
 
 ![Sambal Terung](resources/sambal-terung.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 30 minutes batter resting)
+cook: 30 minutes
+---
+
 # Dadar Gulung
 
 ![Dadar Gulung](resources/dadar-gulung.jpg)

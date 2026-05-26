@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (assembly only - wafers are bought, arequipe is pre-made)
+cook: 0 minutes
+---
+
 # Obleas
 
 ![Obleas](resources/obleas.jpg)

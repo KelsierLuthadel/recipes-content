@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 ½ hours
+---
+
 # White Chicken Stock
 
 ![White Chicken Stock](resources/chicken-stock.png)

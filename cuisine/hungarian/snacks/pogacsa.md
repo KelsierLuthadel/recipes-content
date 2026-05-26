@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 1 hour chill)
+cook: 20 minutes
+---
+
 # Pogácsa
 
 ![Pogácsa](resources/pogacsa.jpg)

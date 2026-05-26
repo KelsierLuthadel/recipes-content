@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 1 hour to pickle)
+cook: 0 minutes
+---
+
 # Chruok
 
 ![Chruok](resources/chruok.jpg)

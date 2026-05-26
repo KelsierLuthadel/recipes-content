@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 35 minutes
+---
+
 # Kuku Sib Zamini
 
 ![Kuku Sib Zamini](resources/kuku-sib-zamini.jpg)

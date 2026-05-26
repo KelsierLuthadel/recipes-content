@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Coconut Rice
 
 ![Coconut Rice](resources/coconut-rice.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 1 hour
+cook: 1 hour 30 minutes
+---
+
 # Warak Enab
 
 ![Warak Enab](resources/warak-enab.jpg)

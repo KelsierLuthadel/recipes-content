@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 5 minutes
+---
+
 # Spaghetti Marinara
 
 ![Spaghetti Marinara](resources/marinara.jpg)

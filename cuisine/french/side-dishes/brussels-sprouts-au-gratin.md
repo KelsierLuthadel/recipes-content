@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Brussels Sprouts au Gratin
 
 ![Brussels sprouts au gratin](resources/brussels-sprouts-au-gratin.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 8 hours soaking)
+cook: 1 hour 45 minutes (or 25 minutes pressure-cooked)
+---
+
 # Frijoles Fritos
 
 ![Frijoles Fritos](resources/frijoles-fritos.jpg)

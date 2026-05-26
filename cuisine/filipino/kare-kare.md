@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 3 ½ hours
+---
+
 # Kare-Kare
 
 ![Kare-Kare](resources/kare-kare.jpg)

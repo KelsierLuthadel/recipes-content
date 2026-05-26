@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 1 ¼ hours
+---
+
 # Coq au Vin
 
 ![Coq au Vin](resources/coq-au-vin.jpg)

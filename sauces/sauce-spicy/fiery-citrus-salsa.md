@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 0 minutes
+---
+
 # Fiery Citrus Salsa
 
 ![Fiery citrus salsa](resources/citrus-salsa.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 1 hour 4 minutes
+---
+
 # Shellfish Gumbo
 
 ![Shellfish Gumbo](resources/gumbo.jpg)

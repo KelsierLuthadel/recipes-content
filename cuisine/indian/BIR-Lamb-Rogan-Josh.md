@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Lamb Rogan Josh
 
 ![Lamb Rogan Josh](resources/BIR-Lamb-Rogan-Josh.jpg)

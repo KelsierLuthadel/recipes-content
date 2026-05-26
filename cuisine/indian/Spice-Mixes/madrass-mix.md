@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Madras Spice Mix
 
 ![Madras Spice Mix](resources/madrass-mix.jpg)

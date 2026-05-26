@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 0 minutes (using ready-made boondi)
+---
+
 # Boondi Raita
 
 ![Boondi Raita](resources/boondi-raita.jpg)

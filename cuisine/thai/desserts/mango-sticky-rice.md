@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus overnight rice soak)
+cook: 30 minutes
+---
+
 # Mango Sticky Rice
 
 ![Mango Sticky Rice](resources/mango-sticky-rice.jpg)

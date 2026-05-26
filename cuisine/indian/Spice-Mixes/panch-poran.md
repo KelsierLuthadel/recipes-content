@@ -1,3 +1,8 @@
+---
+prep: 2 minutes
+cook: 2 minutes
+---
+
 # Panch Poran (Indian Five Spice)
 
 ![Panch Poran (Indian Five Spice)](resources/panch-poran.jpg)

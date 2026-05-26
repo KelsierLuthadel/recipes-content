@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Sayur Masak Lemak
 
 ![Sayur Masak Lemak](resources/sayur-masak-lemak.jpg)

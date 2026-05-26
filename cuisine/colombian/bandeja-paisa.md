@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (assumes beans and pork belly cooked)
+cook: 30 minutes
+---
+
 # Bandeja Paisa
 
 ![Bandeja Paisa](resources/bandeja-paisa.jpg)

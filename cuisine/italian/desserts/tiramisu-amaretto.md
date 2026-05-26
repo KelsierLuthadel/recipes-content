@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 5 minutes
+---
+
 # Tiramisu with Amaretto and Cream
 
 ![Tiramisu with Amaretto and Cream](resources/tiramisu-amaretto.jpg)
@@ -50,4 +55,4 @@ Assembled tiramisu keeps refrigerated in a covered container for up to 3 days; t
 
 
 
-*The Amaretto in this Tiramisu really enhances the flavour and aroma of this classic Italian dessert.*
+*The Amaretto in this Tiramisu really enhances the flavour and aroma of this classic Italian dessert.*

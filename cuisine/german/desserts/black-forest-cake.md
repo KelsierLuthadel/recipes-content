@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 2 hours chilling)
+cook: 30 minutes
+---
+
 # Black Forest Cake
 
 ![Black Forest Cake](resources/black-forest-cake.jpg)

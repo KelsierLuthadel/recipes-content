@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Pan Kabap
 
 ![Pan Kabap](resources/pan-kabap.jpg)

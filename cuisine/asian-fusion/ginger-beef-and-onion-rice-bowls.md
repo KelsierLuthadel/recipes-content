@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 4 hours marinating)
+cook: 30 minutes
+---
+
 # Ginger Beef and Onion Rice Bowls
 
 ![Ginger Beef and Onion Rice Bowls](resources/ginger-beef-and-onion-rice-bowls.jpg)

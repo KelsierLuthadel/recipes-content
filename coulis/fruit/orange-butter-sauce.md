@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Orange Butter Sauce
 
 ![Orange butter sauce](resources/orange-sauce.jpg)

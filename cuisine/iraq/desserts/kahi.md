@@ -1,3 +1,8 @@
+---
+prep: 40 minutes (plus 30 minutes resting)
+cook: 25 minutes
+---
+
 # Kahi
 
 ![Kahi](resources/kahi.jpg)

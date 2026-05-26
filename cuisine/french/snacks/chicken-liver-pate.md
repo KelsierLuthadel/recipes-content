@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 12 minutes
+---
+
 # Chicken Liver Pâté
 
 ![Chicken Liver Pâté](resources/chicken-liver-pate.jpg)

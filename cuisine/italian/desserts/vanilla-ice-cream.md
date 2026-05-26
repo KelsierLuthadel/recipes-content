@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 20 minutes
+---
+
 # Vanilla Ice Cream
 
 ![Vanilla ice cream](resources/vanilla-ice-cream.jpg)
@@ -35,4 +40,3 @@ Scoop generously onto plates or into chilled bowls and serve as a standalone des
 
 ## Storage
 Vanilla ice cream keeps well in the freezer for up to two weeks in an airtight container, though the texture and flavor are best within the first week. To prevent ice crystals from forming, cover the surface with plastic wrap before sealing the container. If the ice cream becomes too hard, soften it in the refrigerator for 10-15 minutes before serving.
-

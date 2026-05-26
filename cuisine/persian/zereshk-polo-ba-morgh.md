@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour rice soaking)
+cook: 1 hour 15 minutes
+---
+
 # Zereshk Polo Ba Morgh
 
 ![Zereshk Polo ba Morgh](resources/zereshk-polo-ba-morgh.jpg)

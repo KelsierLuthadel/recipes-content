@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Blackberry Coulis
 
 ![Blackberry coulis](resources/blackberry-coulis.jpg)

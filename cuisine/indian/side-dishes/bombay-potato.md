@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 7 minutes
+---
+
 # Bombay Potatoes
 
 ![Bombay Potatoes](resources/bombay-potatoes.jpg)

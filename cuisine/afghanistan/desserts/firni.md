@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 30 minutes (plus 3 hours setting)
+---
+
 # Firni
 
 ![Firni](resources/firni.jpg)

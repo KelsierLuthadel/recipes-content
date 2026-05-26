@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 2 hours rising)
+cook: 30 minutes
+---
+
 # King Cake
 
 ![King Cake](resources/king-cake.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 12-24 hour fermentation)
+cook: 25 minutes
+---
+
 # Anjero
 
 ![Anjero](resources/anjero.jpg)

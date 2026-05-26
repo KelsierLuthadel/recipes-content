@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus overnight marinade)
+cook: 4 hours
+---
+
 # Mojo Pork
 
 ![Mojo Pork](resources/mojo-pork.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 2 minutes
+---
+
 # Braised Prawns
 
 ![Braised Prawns](resources/braised-prawn.jpg)

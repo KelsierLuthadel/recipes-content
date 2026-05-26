@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour pastry rest)
+cook: 45 minutes
+---
+
 # Lemon Tart
 
 ![Lemon Tart](resources/lemon-tart.jpg)

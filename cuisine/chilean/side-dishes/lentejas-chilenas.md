@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 15 minutes
+---
+
 # Lentejas Chilenas
 
 ![Lentejas Chilenas](resources/lentejas-chilenas.jpg)

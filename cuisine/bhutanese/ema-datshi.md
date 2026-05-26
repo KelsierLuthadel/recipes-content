@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 35 minutes
+---
+
 # Ema Datshi
 
 ![Ema Datshi](resources/ema-datshi.jpg)

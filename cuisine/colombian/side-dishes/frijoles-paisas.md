@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 12 hours soaking)
+cook: 2 hours 15 minutes
+---
+
 # Frijoles Paisas
 
 ![Frijoles Paisas](resources/frijoles-paisas.jpg)

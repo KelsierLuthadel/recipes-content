@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 24 hours soaking the bacalhau)
+cook: 30 minutes
+---
+
 # Bolinhos de Bacalhau
 
 ![Bolinhos de Bacalhau](resources/bolinhos-de-bacalhau.jpg)

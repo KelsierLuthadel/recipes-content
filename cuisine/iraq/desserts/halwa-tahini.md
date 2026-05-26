@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes (plus 8 hours setting)
+---
+
 # Halwa Tahini
 
 ![Halwa Tahini](resources/halwa-tahini.jpg)

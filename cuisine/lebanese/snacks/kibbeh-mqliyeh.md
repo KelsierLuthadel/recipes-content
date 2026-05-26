@@ -1,3 +1,8 @@
+---
+prep: 1 hour
+cook: 12 minutes
+---
+
 # Kibbeh Mqliyeh
 
 ![Kibbeh Mqliyeh](resources/kibbeh-mqliyeh.jpg)

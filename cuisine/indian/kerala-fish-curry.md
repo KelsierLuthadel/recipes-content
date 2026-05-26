@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Kerala Fish Curry
 
 ![Kerala Fish Curry](resources/kerala-fish-curry.jpg)

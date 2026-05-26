@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 75 minutes
+---
+
 # Peach Chutney
 
 ![Peach chutney](resources/peach-chutney.png)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes
+---
+
 # Beef Nasi Goreng
 
 ![Beef Nasi Goreng](resources/beef-nasi-goreng.jpeg)

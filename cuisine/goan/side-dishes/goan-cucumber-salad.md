@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 3 minutes (for the temper)
+---
+
 # Goan Cucumber Salad
 
 ![Goan Cucumber Salad](resources/goan-cucumber-salad.jpg)

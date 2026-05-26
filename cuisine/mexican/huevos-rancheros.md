@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Huevos Rancheros
 
 ![Huevos Rancheros](resources/huevos.jpg)

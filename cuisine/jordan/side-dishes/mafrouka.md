@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 30 minutes
+---
+
 # Mafrouka
 
 ![Mafrouka](resources/mafrouka.jpg)

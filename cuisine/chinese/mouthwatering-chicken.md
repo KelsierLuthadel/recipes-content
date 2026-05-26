@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Mouthwatering Chicken (Kou Shui Ji)
 
 ![Mouthwatering Chicken (Kou Shui Ji)](resources/mouthwatering-chicken.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 minute
+---
+
 # Sichuan Pepper Beef
 
 ![Sichuan Pepper Beef](resources/sichuan.jpg)

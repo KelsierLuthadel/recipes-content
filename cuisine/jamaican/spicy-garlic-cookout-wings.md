@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Spicy Garlic Cookout Wings
 
 ![Spicy Garlic Cookout Wings](resources/spicy-garlic-cookout-wings.jpg)

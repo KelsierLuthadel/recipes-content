@@ -1,3 +1,8 @@
+---
+prep: 40 minutes (plus 20 min dough rest)
+cook: 25 minutes
+---
+
 # Aloo Paratha
 
 ![Aloo Paratha](resources/aloo-paratha.jpg)

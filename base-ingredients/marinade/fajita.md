@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Fajita Marinade
 
 ![Fajita Marinade](resources/fajita.jpg)

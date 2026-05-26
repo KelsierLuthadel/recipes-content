@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Callaloo
 
 ![Callaloo](resources/callaloo.jpg)

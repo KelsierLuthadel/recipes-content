@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Crostini di Fegatini
 
 ![Crostini di Fegatini](resources/crostini-di-fegatini.jpg)

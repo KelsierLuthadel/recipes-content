@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 3 hours marinating)
+cook: 30 minutes
+---
+
 # Honey Chipotle Fried Chicken Sandwich
 
 ![Honey Chipotle Fried Chicken Sandwich](resources/honey-chipotle-fried-chicken-sandwich.jpg)

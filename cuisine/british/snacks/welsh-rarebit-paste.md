@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Welsh Rarebit Paste (Make-Ahead)
 
 ![Welsh Rarebit Paste](resources/welsh-rarebit-paste.jpg)

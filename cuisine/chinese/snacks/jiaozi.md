@@ -1,3 +1,8 @@
+---
+prep: 60 minutes (most of it folding)
+cook: 12 minutes
+---
+
 # Jiaozi
 
 ![Jiaozi](resources/jiaozi.jpg)

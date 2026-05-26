@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 13 minutes
+---
+
 # Thai Masaman Curry Paste (Kruang Kaeng Masaman)
 
 ![Masaman Curry Paste](resources/massaman-curry-paste.jpg)

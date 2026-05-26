@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 15 minutes resting)
+cook: 15 minutes
+---
+
 # Begun Bhaja
 
 ![Begun Bhaja](resources/begun-bhaja.jpg)

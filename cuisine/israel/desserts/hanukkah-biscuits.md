@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour chilling)
+cook: 12 minutes
+---
+
 # Hanukkah Biscuits
 
 ![Hanukkah Biscuits](resources/hanukkah-biscuits.jpg)

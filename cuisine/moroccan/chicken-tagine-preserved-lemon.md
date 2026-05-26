@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 hour
+---
+
 # Chicken Tagine with Preserved Lemon and Olives
 
 ![Chicken Tagine with Preserved Lemon and Olives](resources/chicken-tagine-preserved-lemon.jpg)

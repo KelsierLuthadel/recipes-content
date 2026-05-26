@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 0 minutes
+---
+
 # Choban Salata (Azerbaijani Shepherd's Salad)
 
 ![Choban Salata](resources/choban-salata-azerbaijani.jpg)

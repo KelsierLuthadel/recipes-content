@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 30 min bean-soaking)
+cook: 15 minutes
+---
+
 # Akara
 
 ![Akara](resources/akara.jpg)

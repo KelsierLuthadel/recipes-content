@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 2 hours proving)
+cook: 2 hours
+---
+
 # Roujiamo (Xi'an Chinese Hamburger)
 
 ![Roujiamo (Xi'an Chinese Hamburger)](resources/roujiamo.jpg)

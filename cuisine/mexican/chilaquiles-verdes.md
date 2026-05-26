@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes
+---
+
 # Chilaquiles Verdes
 
 ![Chilaquiles Verdes](resources/chilaquiles-verdes.jpg)

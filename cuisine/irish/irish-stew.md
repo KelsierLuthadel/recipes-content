@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 36 minutes
+---
+
 # Irish Stew
 
 ![Irish Stew](resources/stew.jpg)

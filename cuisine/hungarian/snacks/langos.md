@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 1 ½ hours rise)
+cook: 12 minutes
+---
+
 # Lángos
 
 ![Lángos](resources/langos.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Spicy Peanut Balls
 
 ![Spicy peanut balls](resources/spicy-peanut-balls.jpg)

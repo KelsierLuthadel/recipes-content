@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 15 minutes
+---
+
 # Cigares au Miel (Honey Almond Cigars)
 
 ![Cigares au Miel](resources/cigares-au-miel.jpg)

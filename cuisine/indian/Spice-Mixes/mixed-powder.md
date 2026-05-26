@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Mixed Powder
 
 ![Mixed Powder](resources/mixed-powder.jpg)

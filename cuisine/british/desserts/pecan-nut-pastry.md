@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 1 hour chilling)
+cook: 30 minutes
+---
+
 # Pecan Nut Pastry Plait
 
 ![Pecan Nut Pastry Plait](resources/pecan-nut-pastry.jpg)

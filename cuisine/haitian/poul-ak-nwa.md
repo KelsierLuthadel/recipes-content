@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 3-4 hours marinating)
+cook: 45 minutes
+---
+
 # Poul Ak Nwa
 
 ![Poul ak Nwa](resources/poul-ak-nwa.jpg)

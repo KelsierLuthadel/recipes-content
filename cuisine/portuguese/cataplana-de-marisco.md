@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 30 minutes
+---
+
 # Cataplana de Marisco
 
 ![Cataplana de Marisco](resources/cataplana-de-marisco.jpg)

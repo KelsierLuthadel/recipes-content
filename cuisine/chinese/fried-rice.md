@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Fried Rice
 
 ![Fried Rice](resources/fried-rice.jpg)
@@ -128,4 +132,4 @@ Context: Finale course at Chinese dinners, light lunch, "filler" course to compl
 - Do not freeze; the texture degrades significantly and becomes unpleasant upon reheating.
 
 
-*In China, fried rice is eaten as a 'filler' at the end of formal dinner parties, never as the primary starch accompanying other dishes. Despite its ubiquity in Western Chinese restaurants, authentic fried rice is frequently incorrectly cooked. This version, with crispy rice grains coated individually with oil, tender bean sprouts, savory Parma ham, and silky scrambled egg, represents traditional execution.*
+*In China, fried rice is eaten as a 'filler' at the end of formal dinner parties, never as the primary starch accompanying other dishes. Despite its ubiquity in Western Chinese restaurants, authentic fried rice is frequently incorrectly cooked. This version, with crispy rice grains coated individually with oil, tender bean sprouts, savory Parma ham, and silky scrambled egg, represents traditional execution.*

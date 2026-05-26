@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 3 hours
+---
+
 # Chicken and Sausage Gumbo
 
 ![Chicken and Sausage Gumbo](resources/chicken-and-sausage-gumbo.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 25 minutes
+---
+
 # Galayet Bandora
 
 ![Galayet Bandora](resources/galayet-bandora.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 12 hours soaking)
+cook: 2 hours 30 minutes
+---
+
 # Red Beans (Creole)
 
 ![Red Beans (Creole)](resources/red-beans-creole.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 30 minutes resting)
+cook: 25 minutes
+---
+
 # Makroud
 
 ![Makroud](resources/makroud.jpg)

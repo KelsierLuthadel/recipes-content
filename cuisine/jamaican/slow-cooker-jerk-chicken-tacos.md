@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 6 hours (low) or 4 hours (high)
+---
+
 # Slow-Cooker Jerk Chicken Tacos
 
 ![Slow-Cooker Jerk Chicken Tacos](resources/slow-cooker-jerk-chicken-tacos.jpg)

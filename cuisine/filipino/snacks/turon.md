@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 20 minutes
+---
+
 # Turon
 
 ![Turon](resources/turon.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 20 minutes marinating)
+cook: 20 minutes
+---
+
 # Shuizhu Niurou
 
 ![Shuizhu Niurou](resources/shuizhu-niurou.jpg)

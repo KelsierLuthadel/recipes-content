@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 5 minutes
+---
+
 # Rau Muống Xào Tỏi
 
 ![Rau Muong Xao Toi](resources/rau-muong-xao-toi.jpg)

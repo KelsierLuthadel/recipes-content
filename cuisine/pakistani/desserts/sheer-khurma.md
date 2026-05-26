@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 40 minutes
+---
+
 # Sheer Khurma
 
 ![Sheer Khurma](resources/sheer-khurma.jpg)

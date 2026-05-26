@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 4-6 hours setting)
+cook: 8 minutes
+---
+
 # Panna Cotta
 
 ![Panna Cotta](resources/panna-cotta.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Chestnut Crème with Caramel Sauce
 
 ![Chestnut crème with caramel sauce](resources/chestnut-creme.jpg)
@@ -45,4 +49,3 @@ Turn out each chestnut cream onto a chilled plate and scatter chestnut "vermicel
 
 ## Storage
 The assembled moulds keep refrigerated for up to 2 days before turning out. The cooked chestnuts can be prepared 1 day ahead and kept refrigerated in their cooking liquid. Create the "vermicelli" only when ready to serve, as it hardens and becomes unappetizing after several hours. Assemble within 1 hour of serving for best appearance.
-

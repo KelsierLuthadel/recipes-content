@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 40 minutes
+---
+
 # Tinga de Pollo
 
 ![Tinga de Pollo](resources/tinga-de-pollo.jpg)

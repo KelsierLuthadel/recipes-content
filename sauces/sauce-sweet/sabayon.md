@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 9 minutes
+---
+
 # Sabayon
 
 ![Sabayon](resources/sabayon.jpg)

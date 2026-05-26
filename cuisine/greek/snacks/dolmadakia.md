@@ -1,3 +1,8 @@
+---
+prep: 1 hour
+cook: 1 hour
+---
+
 # Dolmadakia (Greek Stuffed Vine Leaves)
 
 ![Dolmadakia](resources/dolmadakia.jpg)

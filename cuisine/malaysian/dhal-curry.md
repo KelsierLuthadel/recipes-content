@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 50 minutes
+---
+
 # Malaysian Dhal Curry
 
 ![Malaysian Dhal Curry](resources/dhal-curry.jpg)

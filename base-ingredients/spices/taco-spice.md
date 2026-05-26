@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Taco Spice Mix
 
 ![Taco Spice Mix](resources/taco-spice.jpg)

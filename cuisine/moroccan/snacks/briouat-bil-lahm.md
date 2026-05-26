@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 25 minutes
+---
+
 # Briouat Bil Lahm (Meat Briouats)
 
 ![Briouat bil Lahm](resources/briouat-bil-lahm.jpg)

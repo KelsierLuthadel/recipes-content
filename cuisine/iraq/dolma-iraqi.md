@@ -1,3 +1,8 @@
+---
+prep: 1 hour 30 minutes
+cook: 1 hour 30 minutes
+---
+
 # Dolma Iraqi
 
 ![Dolma Iraqi](resources/dolma-iraqi.jpg)

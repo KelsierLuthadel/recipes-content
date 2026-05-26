@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 30 minutes chilling)
+cook: 30 minutes
+---
+
 # Jamaican Beef Patties
 
 ![Jamaican Beef Patties](resources/beef-patties.jpg)

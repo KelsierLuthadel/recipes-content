@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 30 minutes chilling)
+cook: 20 minutes
+---
+
 # Cendol
 
 ![Cendol](resources/cendol.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 2 hours rising)
+cook: 25 minutes
+---
+
 # Pan de Muerto
 
 ![Pan de Muerto](resources/pan-de-muerto.jpg)

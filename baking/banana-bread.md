@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 55 minutes
+---
+
 # Banana Bread
 
 ![Banana Bread](resources/banana-bread.jpg)

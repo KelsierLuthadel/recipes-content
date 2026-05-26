@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 30 min dough rest)
+cook: 25 minutes
+---
+
 # Samosa
 
 ![Samosa](resources/samosa.jpg)

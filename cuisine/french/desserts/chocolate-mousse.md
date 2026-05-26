@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Chocolate Mousse, Lavender Crémeux and Berry Compote
 
 ![Chocolate mousse, lavender crémeux and berry compote](resources/chocolate-mousse.jpg)

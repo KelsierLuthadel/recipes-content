@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 3 minutes
+---
+
 # Pizza Sauce
 
 ![Pizza Sauce](resources/pizza-sauce.jpg)

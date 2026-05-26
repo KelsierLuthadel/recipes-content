@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Blanched Garlic
 
 ![Blanched Garlic](resources/blanched-garlic.jpg)
@@ -79,4 +83,3 @@ Preparation: Serve whole as a garnish or halved mixed into the finished dish
 - The delicate flavor fades quickly; best used the same day
 - Do not freeze; freezing destroys the texture
 - Can be stored in milk-based cream sauce for slightly longer keeping
-

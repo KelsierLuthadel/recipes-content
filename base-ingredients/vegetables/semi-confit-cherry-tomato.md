@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 8 minutes
+---
+
 # Semi-Confit Cherry Tomatoes
 
 ![Semi-Confit Cherry Tomatoes](resources/Tomates-confit.jpg)

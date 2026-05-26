@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 50 minutes (plus 4 hours chilling)
+---
+
 # Bánh Flan
 
 ![Banh Flan](resources/banh-flan.jpg)

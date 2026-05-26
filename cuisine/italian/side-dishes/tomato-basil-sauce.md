@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Tomato and Basil Sauce
 
 ![Tomato and Basil Sauce](resources/tomato-basil-sauce.jpg)

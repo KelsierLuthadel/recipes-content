@@ -1,3 +1,8 @@
+---
+prep: 40 minutes (plus 30 min resting)
+cook: 25 minutes
+---
+
 # Bolani
 
 ![Bolani](resources/bolani.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Mango Coulis with Saffron
 
 ![Mango coulis with saffron](resources/mango-coulis.jpg)
@@ -39,4 +43,4 @@ Garnish with: A few saffron threads or a mint leaf
 - Keeps 3-4 days refrigerated in an airtight container
 - Does not freeze well due to mango texture degradation
 - Serve well chilled
-- Flavour mellows as it sits; best after 2+ hours chilling 
+- Flavour mellows as it sits; best after 2+ hours chilling

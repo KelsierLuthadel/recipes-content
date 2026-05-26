@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 25 minutes
+---
+
 # Risotto Alla Milanese
 
 ![Risotto alla Milanese](resources/risotto-milanese.jpg)

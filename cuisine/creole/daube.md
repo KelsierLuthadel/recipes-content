@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 4 hours
+---
+
 # Creole Daube
 
 ![Creole Daube](resources/daube.jpg)

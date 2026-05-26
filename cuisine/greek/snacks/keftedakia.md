@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 30 minutes resting)
+cook: 15 minutes (in batches)
+---
+
 # Keftedakia (Greek Mini Meatballs)
 
 ![Keftedakia](resources/keftedakia.jpg)

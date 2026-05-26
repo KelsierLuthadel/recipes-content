@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Calzone
 
 ![Calzone](resources/calzone.jpg)

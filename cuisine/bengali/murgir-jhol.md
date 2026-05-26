@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 40 minutes
+---
+
 # Murgir Jhol
 
 ![Murgir Jhol](resources/murgir-jhol.jpg)

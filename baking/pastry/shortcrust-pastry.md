@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Pâte Brisée (Shortcrust)
 
 ![Pâte brisée (Shortcrust)](resources/shortcrust.png)

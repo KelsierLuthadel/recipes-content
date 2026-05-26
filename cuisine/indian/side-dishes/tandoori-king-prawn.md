@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 28 minutes
+---
+
 # Tandoori King Prawn
 
 ![Tandoori King Prawn](resources/king-prawn.png)
@@ -99,4 +104,4 @@ With: Basmati rice, naan bread, salad
 - Refrigerate marinated raw prawns for no more than 4 hours before cooking (they deteriorate quickly)
 - Refrigerate cooked prawns for up to 1 day in an airtight container
 - Serve chilled as a salad within hours of cooking
-- Do not freeze marinated or cooked prawns; texture and quality degrade significantly 
+- Do not freeze marinated or cooked prawns; texture and quality degrade significantly

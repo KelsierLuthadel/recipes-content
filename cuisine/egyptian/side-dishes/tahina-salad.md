@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 0 minutes
+---
+
 # Tahina Salad
 
 ![Tahina Salad](resources/tahina-salad.jpg)

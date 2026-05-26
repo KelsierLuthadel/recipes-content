@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Vietnamese Chicken Curry
 
 ![Vietnamese Chicken Curry](resources/vietnamese-curry.jpg)

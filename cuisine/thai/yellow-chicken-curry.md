@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Yellow Chicken Curry
 
 ![Yellow Chicken Curry](resources/yellow-chicken-curry.jpg)

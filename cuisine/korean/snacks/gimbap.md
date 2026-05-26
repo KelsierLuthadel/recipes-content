@@ -1,3 +1,8 @@
+---
+prep: 1 hour
+cook: 25 minutes
+---
+
 # Gimbap
 
 ![Gimbap](resources/gimbap.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 30 minutes soaking)
+cook: 30 minutes
+---
+
 # Chalow
 
 ![Chalow](resources/chalow.jpg)

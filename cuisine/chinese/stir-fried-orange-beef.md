@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 2 minutes
+---
+
 # Stir-Fried Beef with Orange
 
 ![Stir-Fried Beef with Orange](resources/stir-fried-orange-beef.jpg)

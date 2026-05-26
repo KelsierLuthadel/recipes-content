@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour rice soak)
+cook: 3 hours
+---
+
 # Baghali Polo Ba Mahiche
 
 ![Baghali Polo ba Mahiche](resources/baghali-polo-ba-mahiche.jpg)

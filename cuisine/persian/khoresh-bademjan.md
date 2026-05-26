@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 30 min aubergine salting)
+cook: 1 hour 45 minutes
+---
+
 # Khoresh Bademjan
 
 ![Khoresh Bademjan](resources/khoresh-bademjan.jpg)

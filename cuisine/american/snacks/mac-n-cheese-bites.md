@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 4 hours chilling)
+cook: 20 minutes (in batches)
+---
+
 # Mac 'n' Cheese Bites
 
 ![Mac 'n' Cheese Bites](resources/mac-n-cheese-bites.jpg)

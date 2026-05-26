@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Saffron Vinaigrette
 
 ![Saffron Vinaigrette](resources/saffron.jpg)

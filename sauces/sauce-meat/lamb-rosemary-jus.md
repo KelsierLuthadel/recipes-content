@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 40 minutes
+---
+
 # Lamb Jus with Rosemary
 
 ![Lamb jus with rosemary](resources/lamb-jus.png)

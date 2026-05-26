@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 1 hour
+---
+
 # Chimodho
 
 ![Chimodho](resources/chimodho.jpg)

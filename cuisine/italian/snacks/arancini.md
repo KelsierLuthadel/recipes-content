@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus overnight rice chilling)
+cook: 15 minutes
+---
+
 # Arancini
 
 ![Arancini](resources/arancini.jpg)

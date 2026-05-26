@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # General Tso’s Chicken
 
 ![General Tso’s Chicken](resources/general-tso-chicken.jpg)

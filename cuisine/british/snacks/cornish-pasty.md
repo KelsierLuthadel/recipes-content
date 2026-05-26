@@ -1,3 +1,8 @@
+---
+prep: 40 minutes (plus 30 min pastry rest)
+cook: 55 minutes
+---
+
 # Cornish Pasty
 
 ![Cornish Pasty](resources/cornish-pasty.jpg)

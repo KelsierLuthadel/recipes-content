@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus overnight marinating)
+cook: 12 minutes on the grill
+---
+
 # Green Curry BBQ Aubergine
 
 ![Green Curry BBQ Aubergine](resources/green-curry-bbq-aubergine.jpg)

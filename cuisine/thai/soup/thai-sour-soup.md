@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Thai Spicy Sour Soup
 
 ![Thai spicy sour soup](resources/thai-sour-soup.jpg)

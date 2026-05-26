@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 40 minutes
+---
+
 # Creamy Clam Soup
 
 ![Creamy clam soup](resources/creamy-clam-soup.jpg)

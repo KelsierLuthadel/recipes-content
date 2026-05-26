@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 30 minutes resting)
+cook: 25 minutes
+---
+
 # Yakgwa (Honey-Fried Wheat Cookies)
 
 ![Yakgwa](resources/yakgwa.jpg)

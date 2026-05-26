@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 31 minutes
+---
+
 # Brandy Snap Baskets with Rhubarb and Raspberries
 
 ![Brandy snap baskets](resources/brandy-snap-basket.jpg)
@@ -64,4 +69,3 @@ Assemble and fill the baskets immediately before serving, as they are fragile an
 
 ## Storage
 The baked, unshaped brandy snap rounds can be stored at room temperature in an airtight container for up to 3 days; if they become too brittle to shape, soften them briefly in a 180°C oven for 1-2 minutes. The un-filled baskets keep for 2-3 days covered. The rhubarb filling and crème Chantilly should be prepared the same day but no more than 2-3 hours ahead. Fill and assemble only when ready to serve.
-

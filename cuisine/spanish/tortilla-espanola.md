@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 35 minutes
+---
+
 # Tortilla Española
 
 ![Tortilla Española](resources/tortilla-espanola.jpg)

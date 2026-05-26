@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Lemon and Mint Vinaigrette
 
 ![Lemon and Mint Vinaigrette](resources/lemon-mint.png)

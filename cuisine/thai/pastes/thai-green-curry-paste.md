@@ -1,3 +1,8 @@
+---
+prep: 40-60 minutes
+cook: 5 minutes
+---
+
 # Thai Green Curry Paste
 
 ![Thai Green Curry Paste](resources/thai-green-curry-paste.jpg)

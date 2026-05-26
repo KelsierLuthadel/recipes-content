@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 30 minutes
+---
+
 # Curried Mussel Sauce
 
 ![Curried mussel sauce](resources/curried-mussel-sauce.png)

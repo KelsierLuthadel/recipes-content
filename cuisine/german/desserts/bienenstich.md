@@ -1,3 +1,8 @@
+---
+prep: 40 minutes (plus 1 ½ hours proving)
+cook: 35 minutes
+---
+
 # Bienenstich
 
 ![Bienenstich](resources/bienenstich.jpg)

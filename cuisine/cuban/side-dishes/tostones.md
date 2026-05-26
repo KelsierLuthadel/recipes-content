@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Tostones
 
 ![Tostones](resources/tostones.jpg)

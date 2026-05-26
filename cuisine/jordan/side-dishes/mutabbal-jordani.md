@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 20 minutes
+---
+
 # Mutabbal Jordani
 
 ![Mutabbal Jordani](resources/mutabbal-jordani.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Chicken Chilli Garlic
 
 ![Chicken Chilli Garlic](resources/BIR-chicken-chilli-garlic.jpg)

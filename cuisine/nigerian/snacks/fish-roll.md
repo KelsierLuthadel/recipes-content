@@ -1,3 +1,8 @@
+---
+prep: 40 minutes (plus 30 minutes resting)
+cook: 15 minutes
+---
+
 # Fish Roll
 
 ![Fish Roll](resources/fish-roll.jpg)

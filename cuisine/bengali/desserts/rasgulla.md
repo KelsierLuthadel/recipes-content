@@ -1,3 +1,8 @@
+---
+prep: 40 minutes (plus optional chilling)
+cook: 25 minutes
+---
+
 # Rasgulla
 
 ![Rasgulla](resources/rasgulla.jpg)

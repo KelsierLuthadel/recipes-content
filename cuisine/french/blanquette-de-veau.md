@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 1 ¾ hours
+---
+
 # Blanquette de Veau
 
 ![Blanquette de Veau](resources/blanquette-de-veau.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 30 minutes marinating)
+cook: 50 minutes
+---
+
 # Pelau
 
 ![Pelau](resources/pelau.jpg)

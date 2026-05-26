@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 45 minutes
+---
+
 # Chicken Sauce with Curaçao
 
 ![Chicken sauce with Curaçao](resources/chicken-curacao.png)

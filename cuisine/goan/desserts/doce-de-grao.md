@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus overnight soak)
+cook: 1 hour
+---
+
 # Doce de Grão
 
 ![Doce de Grão](resources/doce-de-grao.jpg)

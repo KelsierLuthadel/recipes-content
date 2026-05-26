@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Fiery Vegetables in Coconut Milk
 
 ![Fiery vegetables in coconut milk](resources/fiery-vegetables-in-coconut-milk.png)
@@ -54,4 +58,4 @@ Accompaniment: Extra lime juice for squeezing at the table
 - Best reheated gently on stovetop with a splash of coconut milk to restore sauce consistency
 - Vegetables will soften slightly on reheating but remain palatable
 
-*Eight chillies may seem a bit excessive, but remember that the coconut milk will pacify your palate somewhat.*
+*Eight chillies may seem a bit excessive, but remember that the coconut milk will pacify your palate somewhat.*

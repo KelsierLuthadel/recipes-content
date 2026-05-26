@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 15 minutes (in batches)
+---
+
 # Briouat Bil Jben (Cheese Briouats)
 
 ![Briouat bil Jben](resources/briouat-bil-jben.jpg)

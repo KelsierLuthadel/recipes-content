@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 30 minutes
+---
+
 # Chestnut and Chorizo Soup
 
 ![Chestnut and Chorizo Soup](resources/chestnut-chorizo-soup.jpg)

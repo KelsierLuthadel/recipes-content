@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 1 hour 30 minutes rising)
+cook: 22 minutes
+---
+
 # Marraqueta
 
 ![Marraqueta](resources/marraqueta.jpg)

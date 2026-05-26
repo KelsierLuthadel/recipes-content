@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 12 minutes
+---
+
 # Moules Marinière
 
 ![Moules Marinière](resources/moules-mariniere.jpg)

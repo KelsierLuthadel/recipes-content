@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 25 minutes
+---
+
 # Watercress Sauce
 
 ![Watercress sauce](resources/watercress-sauce.png)

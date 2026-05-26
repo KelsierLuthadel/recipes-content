@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 2 ½ hours
+---
+
 # White Veal Stock
 
 ![White Veal Stock](resources/veal-stock.jpg)

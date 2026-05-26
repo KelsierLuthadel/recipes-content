@@ -1,3 +1,8 @@
+---
+prep: 1 ¼ hours
+cook: 15 minutes
+---
+
 # Manti
 
 ![Manti](resources/manti.jpg)

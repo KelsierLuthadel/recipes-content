@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 45 minutes
+---
+
 # Vegetable Stock
 
 ![Vegetable Stock](resources/Vegetable-stock.png)

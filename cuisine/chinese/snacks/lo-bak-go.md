@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 1 hour 30 minutes
+---
+
 # Lo Bak Go
 
 ![Lo Bak Go](resources/lo-bak-go.jpg)

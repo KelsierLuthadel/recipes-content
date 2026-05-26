@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Nga Pyaw Kyaw
 
 ![Nga Pyaw Kyaw](resources/nga-pyaw-kyaw.jpg)

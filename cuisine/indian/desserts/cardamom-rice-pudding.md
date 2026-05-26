@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 2 minutes
+---
+
 # Cardamom Rice Pudding (Kheer)
 
 ![Cardamom Rice Pudding](resources/cardamom-rice-pudding.jpg)
@@ -56,4 +61,3 @@ Turn out the set pudding from its mold onto a serving plate, allowing the clingi
 
 ## Storage
 The assembled moulds keep refrigerated for up to 3 days; turn out only just before serving to maintain the caramel coating's integrity. The unmolded pudding softens gradually as the caramel absorbs moisture from air and custard, so serve within one hour of unmolding for the best experience. Do not refrigerate after unmolding; serve at the temperature at which removed from cold storage.
-

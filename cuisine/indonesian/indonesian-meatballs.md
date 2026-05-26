@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 17 minutes
+---
+
 # Indonesian Meatballs
 
 ![Indonesian Meatballs](resources/indonesian-meatballs.jpg)

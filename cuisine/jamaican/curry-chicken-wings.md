@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 6 hours marinating, ideally overnight)
+cook: 30 minutes
+---
+
 # Jamaican Curry Chicken Wings
 
 ![Jamaican Curry Chicken Wings](resources/curry-chicken-wings.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 5 minutes
+---
+
 # Puris
 
 ![Puris](resources/puris.jpg)

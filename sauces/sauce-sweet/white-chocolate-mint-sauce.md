@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # White Chocolate Sauce with Mint
 
 ![White chocolate sauce with mint](resources/white-chocolate.png)

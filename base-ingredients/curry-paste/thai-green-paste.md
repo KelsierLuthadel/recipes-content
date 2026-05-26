@@ -1,3 +1,7 @@
+---
+prep: 20 minutes
+---
+
 # Thai Green Curry Paste (Kruang Kaeng Khiem Wan)
 
 ![Thai Green Curry Paste](resources/thai-green.jpg)

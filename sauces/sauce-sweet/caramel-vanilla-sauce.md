@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 15 minutes
+---
+
 # Caramel with Vanilla Sauce
 
 ![Caramel with vanilla sauce](resources/caramel-vanilla.png)

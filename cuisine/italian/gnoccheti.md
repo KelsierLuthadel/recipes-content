@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 4 minutes
+---
+
 # Gnocchetti with Courgettes in Butter and Sage Sauce
 
 ![Gnocchetti with Courgettes in Butter and Sage Sauce](resources/gnocchi-sage-sauce.jpg)

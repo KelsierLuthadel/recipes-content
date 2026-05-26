@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 15 minutes soak)
+cook: 0 minutes
+---
+
 # Lahori Onion Salad
 
 ![Lahori Onion Salad](resources/lahori-onion-salad.jpg)

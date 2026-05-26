@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes (mostly aubergine cooking)
+---
+
 # Melitzanosalata (Greek Aubergine Dip)
 
 ![Melitzanosalata](resources/melitzanosalata.jpg)

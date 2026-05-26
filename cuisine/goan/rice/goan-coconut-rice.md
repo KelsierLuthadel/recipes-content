@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 30 minutes soak)
+cook: 25 minutes
+---
+
 # Goan Coconut Rice
 
 ![Goan Coconut Rice](resources/goan-coconut-rice.jpg)

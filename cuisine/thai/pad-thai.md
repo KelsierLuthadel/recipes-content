@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes
+---
+
 # Prawn and Pork Pad Thai
 
 ![Pad Thai](resources/traditional-pad-thai.jpg)

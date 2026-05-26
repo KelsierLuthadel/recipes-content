@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Profiteroles with Ice Cream and Chocolate Sauce
 
 ![Profiteroles with ice cream and chocolate sauce](resources/profiteroles.jpg)
@@ -61,4 +65,3 @@ Arrange the filled profiteroles in shallow bowls or pedestal dishes, pour warm c
 
 ## Storage
 Baked choux buns keep for 1-2 days in an airtight container at room temperature. The chocolate sauce can be made several hours ahead and reheated gently before serving. Vanilla ice cream should be freshly made or from the freezer. Fill the buns only when ready to serve to prevent softening. Do not refrigerate filled profiteroles as the cold will harden the pastry.
-

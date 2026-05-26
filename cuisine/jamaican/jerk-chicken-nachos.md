@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 4 hours marinating)
+cook: 1 hour
+---
+
 # Cheesy Jerk Chicken Nachos
 
 ![Cheesy Jerk Chicken Nachos](resources/jerk-chicken-nachos.jpg)

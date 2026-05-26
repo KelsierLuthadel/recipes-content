@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 5 minutes
+---
+
 # Rotis
 
 ![Rotis](resources/rotis.jpg)

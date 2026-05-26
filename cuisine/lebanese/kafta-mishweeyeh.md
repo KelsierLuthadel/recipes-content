@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 30 minutes resting)
+cook: 12 minutes
+---
+
 # Kafta Mishweeyeh
 
 ![Kafta Mishweeyeh](resources/kafta-mishweeyeh.jpg)

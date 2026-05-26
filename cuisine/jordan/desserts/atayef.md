@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 1 hour resting batter)
+cook: 25 minutes
+---
+
 # Atayef
 
 ![Atayef](resources/atayef.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 2-4 hours
+---
+
 # Chinese Chicken Stock
 
 ![Chinese Chicken Stock](resources/chinese-chicken-stock.jpg)

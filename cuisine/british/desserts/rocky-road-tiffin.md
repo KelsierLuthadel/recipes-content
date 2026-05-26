@@ -1,3 +1,7 @@
+---
+prep: 20 minutes (plus 2 hours chilling)
+---
+
 # Rocky Road Tiffin
 
 ![Rocky Road Tiffin](resources/rocky-road-tiffin.jpg)

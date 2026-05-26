@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 25 minutes
+---
+
 # Smoked Pancetta Pizza with Onions
 
 ![Smoked Pancetta Pizza with Onions](resources/smoked-pancetta.jpg)

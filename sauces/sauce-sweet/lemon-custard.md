@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Lemon Custard
 
 ![Lemon custard](resources/lemon-custard.png)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 3 minutes
+---
+
 # Fettuccine with Sweet Onion, Rosemary, and Lamb
 
 ![Fettuccine with Rosemary and Lamb](resources/fettuccine-alle-cipolle.png)

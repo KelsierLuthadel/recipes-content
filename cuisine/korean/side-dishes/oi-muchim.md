@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 10 minutes salting + 10 minutes resting)
+cook: 0 minutes
+---
+
 # Oi Muchim (Korean Spicy Cucumber Salad)
 
 ![Oi Muchim](resources/oi-muchim.jpg)

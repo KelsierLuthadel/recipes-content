@@ -1,3 +1,8 @@
+---
+prep: 40-60 minutes
+cook: 5 minutes
+---
+
 # Yellow Curry Paste
 
 ![Yellow Curry Paste](resources/thai-yellow-curry-paste.jpg)

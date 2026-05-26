@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 hour 15 minutes
+---
+
 # Chicken Tagine with Preserved Lemons
 
 ![Chicken Tagine with Preserved Lemons](resources/chicken-tagine-with-preserved-lemons.jpg)

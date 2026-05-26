@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 7 minutes
+---
+
 # Chicken with Sesame Seeds
 
 ![Chicken with Sesame Seeds](resources/sesame-chicken.jpg)

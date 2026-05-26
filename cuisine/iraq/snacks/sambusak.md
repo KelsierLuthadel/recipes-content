@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 30 min dough rest)
+cook: 20 minutes
+---
+
 # Sambusak
 
 ![Sambusak](resources/sambusak.jpg)

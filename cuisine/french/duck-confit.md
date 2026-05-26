@@ -1,3 +1,8 @@
+---
+prep: 24 hours cure (active 15 minutes)
+cook: 3 hours (oven) plus 8 minutes pan-crisp
+---
+
 # Duck Confit
 
 ![Duck Confit](resources/duck-confit.jpg)

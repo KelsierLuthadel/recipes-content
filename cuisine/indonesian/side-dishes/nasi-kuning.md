@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 30 minutes rice soaking)
+cook: 20 minutes
+---
+
 # Nasi Kuning (Yellow Rice)
 
 ![Nasi Kuning](resources/nasi-kuning.jpg)

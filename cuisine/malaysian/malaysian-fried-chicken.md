@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 30 minutes
+---
+
 # Ayam Goreng (Malaysian Fried Chicken)
 
 ![Malaysian Fried Chicken](resources/malaysian-fried-chicken.jpg)

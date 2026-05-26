@@ -1,3 +1,8 @@
+---
+prep: 1 hour
+cook: 1 hour 15 minutes
+---
+
 # Rasmalai
 
 ![Rasmalai](resources/rasmalai.jpg)

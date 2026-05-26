@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 20 minutes
+---
+
 # Fennel Shellfish Laksa
 
 ![Fennel Shellfish Laksa](resources/fennel-shellfish-laksa.jpg)

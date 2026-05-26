@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 1 hour
+---
+
 # American Hot Deep-Pan Pizza
 
 ![American Hot Deep-Pan Pizza](resources/american-deep-pan-pizza.jpg)

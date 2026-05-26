@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 4 minutes
+---
+
 # Stir-Fried Ginger Broccoli
 
 ![Stir-fried ginger broccoli](resources/broccoli-ginger-sesame.jpg)

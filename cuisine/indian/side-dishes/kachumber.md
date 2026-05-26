@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 0 minutes
+---
+
 # Kachumber
 
 ![Kachumber](resources/kachumber.jpg)

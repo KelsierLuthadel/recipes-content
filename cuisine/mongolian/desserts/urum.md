@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 3 hours (mostly hands-off) plus overnight chilling
+---
+
 # Urum (Mongolian Clotted Cream and Sugar)
 
 ![Urum](resources/urum.jpg)

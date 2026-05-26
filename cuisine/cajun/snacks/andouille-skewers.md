@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 12 minutes
+---
+
 # Andouille Skewers
 
 ![Andouille Skewers](resources/andouille-skewers.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 hour 45 minutes
+---
+
 # Yakhneh Bamia
 
 ![Yakhneh Bamia](resources/yakhneh-bamia.jpg)

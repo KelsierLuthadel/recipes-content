@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Chicken Korma
 
 ![Chicken korma](resources/BIR-Chicken-Korma.jpg)

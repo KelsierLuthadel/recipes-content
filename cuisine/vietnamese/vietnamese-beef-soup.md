@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 20 minutes
+---
+
 # Vietnamese Beef Soup
 
 ![Vietnamese beef soup](resources/beef-pho2.jpg)

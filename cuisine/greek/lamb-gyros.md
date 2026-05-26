@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 hour 10 minutes
+---
+
 # Lamb Gyros
 
 ![Lamb Gyros](resources/lamb-gyros.jpg)

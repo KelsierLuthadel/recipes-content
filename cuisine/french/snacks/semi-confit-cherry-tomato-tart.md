@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 75 minutes
+---
+
 # Semi-Confit Cherry Tomato Tart
 
 ![Semi-confit cherry tomato tart](resources/confit-tomato.jpg)

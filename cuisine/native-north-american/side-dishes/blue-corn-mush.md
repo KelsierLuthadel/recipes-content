@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 15 minutes
+---
+
 # Blue Corn Mush
 
 ![Blue Corn Mush](resources/blue-corn-mush.jpg)

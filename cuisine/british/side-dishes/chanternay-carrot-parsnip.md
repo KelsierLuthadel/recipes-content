@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Chanternay Carrots and Parsnips with Maple Syrup and a Mustard Glaze
 
 ![Chanternay carrots and parsnips with maple syrup and a mustard glaze](resources/chanternay-carrot-parsnip.jpg)

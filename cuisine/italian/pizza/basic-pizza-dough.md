@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 50 minutes (passive, plus overnight proof)
+---
+
 # Basic Pizza Dough
 
 ![Basic Pizza Dough](resources/basic-pizza-dough.jpg)

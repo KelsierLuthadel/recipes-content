@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 7 minutes
+---
+
 # Matzo Brei
 
 ![Matzo Brei](resources/matzo-brei.jpg)

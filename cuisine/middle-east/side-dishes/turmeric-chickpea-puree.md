@@ -1,3 +1,7 @@
+---
+prep: 8 hours
+---
+
 # Turmeric Chickpea Purée
 
 ![Turmeric Chickpea Purée](resources/turmeric-chickpea-puree.jpg)

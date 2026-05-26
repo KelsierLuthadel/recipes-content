@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 hour
+---
+
 # Chicken Xacuti
 
 ![Chicken Xacuti](resources/chicken-xacuti.jpg)

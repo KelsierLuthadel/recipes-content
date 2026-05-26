@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 10 minutes dough rest)
+cook: 15-20 minutes
+---
+
 # Pichene
 
 ![Pichene](resources/pichene.jpg)

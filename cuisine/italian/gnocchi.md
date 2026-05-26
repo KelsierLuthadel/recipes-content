@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 3 hours
+---
+
 # Gnocchi
 
 ![Gnocchi](resources/gnocchi.jpg)

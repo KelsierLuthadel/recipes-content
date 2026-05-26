@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 2 hours marinating)
+cook: 15 minutes
+---
+
 # Bifana
 
 ![Bifana](resources/bifana.jpg)

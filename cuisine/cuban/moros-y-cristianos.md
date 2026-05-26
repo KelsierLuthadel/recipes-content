@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus overnight bean soak)
+cook: 1 ¼ hours
+---
+
 # Moros Y Cristianos
 
 ![Moros y Cristianos](resources/moros-y-cristianos.jpg)

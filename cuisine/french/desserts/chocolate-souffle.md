@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Chocolate Soufflé
 
 ![Chocolate Soufflé](resources/chocolate-souffle.jpg)
@@ -50,4 +55,3 @@ Serve immediately from the oven on warm plates. Accompany with the warm chocolat
 
 ## Storage
 Soufflés do not store well as they deflate quickly after baking. Serve immediately after removing from the oven for best presentation and texture. The uncooked mixture can be prepared up to 1 hour in advance and kept covered in the refrigerator.
-

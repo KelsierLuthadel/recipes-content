@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 15 minutes
+---
+
 # Gado-Gado
 
 ![Gado-Gado](resources/gado-gado.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 24-36 hours bacalhau desalting)
+cook: 25 minutes
+---
+
 # Pasteis de Bacalhau
 
 ![Pasteis de Bacalhau](resources/pasteis-de-bacalhau.jpg)

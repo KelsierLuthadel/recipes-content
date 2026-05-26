@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 1 hour 30 minutes
+---
+
 # Dodol
 
 ![Dodol](resources/dodol.jpg)

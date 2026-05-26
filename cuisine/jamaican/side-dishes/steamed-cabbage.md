@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 12 minutes
+---
+
 # Steamed Cabbage with Carrot, Thyme and Scotch Bonnet
 
 ![Steamed Cabbage with Carrot, Thyme and Scotch Bonnet](resources/steamed-cabbage.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Garam Masala (Kashmiri)
 
 ![Garam Masala](resources/garam-masala.jpg)
@@ -91,4 +95,4 @@ Temperature: Never cook for extended time; add near end of cooking only
 - Does not require refrigeration
 
 
-*Garam masala is one of the keys to Northern Indian, Moghul, and Pakistani cooking. This Kashmiri version emphasizes fragrance over fire, featuring rose petals and optional saffron for luxurious warmth. Garam means "hot" and masala means "spices", this one heats from the inside out.*
+*Garam masala is one of the keys to Northern Indian, Moghul, and Pakistani cooking. This Kashmiri version emphasizes fragrance over fire, featuring rose petals and optional saffron for luxurious warmth. Garam means "hot" and masala means "spices", this one heats from the inside out.*

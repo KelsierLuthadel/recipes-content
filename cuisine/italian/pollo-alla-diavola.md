@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 2 hours marinating, ideally overnight)
+cook: 40 minutes
+---
+
 # Pollo Alla Diavola
 
 ![Pollo alla Diavola](resources/pollo-alla-diavola.jpg)

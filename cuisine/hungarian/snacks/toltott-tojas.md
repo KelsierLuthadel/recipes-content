@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 10 minutes
+---
+
 # Töltött Tojás
 
 ![Töltött Tojás](resources/toltott-tojas.jpg)

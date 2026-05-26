@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 1 hour
+---
+
 # Shepherd's Pie
 
 ![Shepherd's Pie](resources/shepherds-pie.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 3 minutes
+---
+
 # Lamb Pasties
 
 ![Lamb pasties](resources/lamb-pasty.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Pasta Puttanesca
 
 ![Pasta Puttanesca](resources/pasta-puttanesca.jpg)

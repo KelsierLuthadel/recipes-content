@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 3 hours 30 minutes
+---
+
 # Birria
 
 ![Birria](resources/birria.jpg)

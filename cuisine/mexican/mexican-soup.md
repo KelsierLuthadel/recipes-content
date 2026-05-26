@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Mexican Soup with Salsa
 
 ![Mexican soup with salsa](resources/salsa-soup.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 25 minutes (plus 30 minutes soaking)
+---
+
 # Gulab Jamun
 
 ![Gulab Jamun](resources/gulab-jamun.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 40 minutes
+cook: 1 hour 20 minutes (plus overnight chilling)
+---
+
 # New York Cheesecake
 
 ![New York Cheesecake](resources/nyc-cheesecake.jpg)

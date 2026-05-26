@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus overnight bean soak)
+cook: 15 minutes
+---
+
 # Dahi Bhalla
 
 ![Dahi Bhalla](resources/dahi-bhalla.jpg)

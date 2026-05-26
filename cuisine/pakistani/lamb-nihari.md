@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 5 hours (stovetop) or 1 hour 30 minutes (pressure cooker)
+---
+
 # Lamb Nihari
 
 ![Lamb Nihari](resources/lamb-nihari.jpg)

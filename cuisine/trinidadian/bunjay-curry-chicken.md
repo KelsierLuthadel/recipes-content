@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 2 hours marinating)
+cook: 35 minutes
+---
+
 # Bunjay-Style Curry Chicken
 
 ![Bunjay-Style Curry Chicken](resources/bunjay-curry-chicken.jpg)

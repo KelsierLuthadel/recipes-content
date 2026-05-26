@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 1 hour rising)
+cook: 12 minutes
+---
+
 # Lahem Bi Ajeen
 
 ![Lahem bi Ajeen](resources/lahem-bi-ajeen.jpg)

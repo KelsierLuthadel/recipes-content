@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 9 minutes
+---
+
 # Passion Fruit and Kiwi Soufflé
 
 ![Passion fruit and kiwi soufflé](resources/passion-fruit-souffle.jpg)
@@ -73,4 +78,3 @@ Serve immediately upon removal from the oven on individual plates lined with sma
 
 ## Storage
 Soufflés must be served immediately from the oven as they deflate within a few minutes. The crème patissière base can be prepared 2-3 hours ahead and stored covered in the refrigerator. The kiwi and passion fruit components should be prepared just before assembly to maintain their fresh appearance and flavor.
-

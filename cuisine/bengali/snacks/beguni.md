@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes salting)
+cook: 20 minutes
+---
+
 # Beguni
 
 ![Beguni](resources/beguni.jpg)

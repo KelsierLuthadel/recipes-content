@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 1 hour 15 minutes
+---
+
 # Moussaka
 
 ![Moussaka](resources/moussaka.jpg)

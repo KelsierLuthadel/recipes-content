@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 50 minutes (plus syrup time)
+---
+
 # Masala Chai Baklava
 
 ![Masala Chai Baklava](resources/masala-chai-baklava.jpg)

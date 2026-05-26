@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Garlic Bread
 
 ![Garlic Bread](resources/garlic-bread.jpg)

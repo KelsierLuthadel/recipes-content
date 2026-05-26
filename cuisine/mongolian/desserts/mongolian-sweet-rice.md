@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 50 minutes
+---
+
 # Mongolian Sweet Rice
 
 ![Mongolian Sweet Rice](resources/mongolian-sweet-rice.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Sambal Salamat
 
 ![Sambal Salamat](resources/sambal-salamat.jpg)

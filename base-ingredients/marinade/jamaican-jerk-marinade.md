@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 9 minutes
+---
+
 # Jamaican Jerk Marinade
 
 ![Jamaican Jerk](resources/jamaican-jerk.jpg)

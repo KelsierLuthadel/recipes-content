@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 1 hour 15 minutes (plus 4 hours setting)
+---
+
 # Smalec
 
 ![Smalec](resources/smalec.jpg)

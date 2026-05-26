@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 30 minutes
+---
+
 # Patatas Bravas
 
 ![Patatas Bravas](resources/patatas-bravas.jpg)

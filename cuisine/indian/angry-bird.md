@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 40 minutes
+---
+
 # Angry Bird
 
 ![Angry Bird](resources/angry-bird.jpg)

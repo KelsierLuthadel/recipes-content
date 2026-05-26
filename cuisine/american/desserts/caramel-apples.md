@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes (plus 30 minutes setting)
+---
+
 # Caramel Apples
 
 ![Caramel Apples](resources/caramel-apples.jpg)

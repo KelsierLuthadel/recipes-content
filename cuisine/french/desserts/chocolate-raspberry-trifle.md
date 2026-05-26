@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Chocolate and Raspberry Trifle
 
 ![Chocolate and raspberry trifle](resources/chocolate-and-raspberry-trifle.jpg)
@@ -59,4 +63,3 @@ Assemble the trifle in a large glass serving bowl just before dinner so the comp
 
 ## Storage
 All components can be prepared the day before: sponge, crème pâtissière (refrigerated), and raspberry sauce (refrigerated). The white chocolate can be melted and cooled slightly before assembly. Assemble no more than 3-4 hours before serving to keep layers distinct and whipped cream fluffy. The trifle is best served the same day it is assembled.
-

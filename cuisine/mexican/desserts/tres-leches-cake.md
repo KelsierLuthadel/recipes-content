@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 30 minutes
+---
+
 # Tres Leches Cake
 
 ![Tres Leches Cake](resources/tres-leches-cake.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 20 minutes
+---
+
 # Conch Fritters
 
 ![Conch Fritters](resources/conch-fritters.jpg)

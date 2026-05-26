@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 2 hours
+---
+
 # Lancashire Hotpot
 
 ![Lancashire Hotpot](resources/lancashire-hotpot.jpg)

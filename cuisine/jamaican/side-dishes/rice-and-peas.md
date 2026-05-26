@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus overnight bean soak)
+cook: 1 ¼ hours
+---
+
 # Rice and Peas
 
 ![Rice and Peas](resources/rice-and-peas.jpg)

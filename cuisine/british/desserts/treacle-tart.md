@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour pastry chill)
+cook: 35 minutes
+---
+
 # Treacle Tart
 
 ![Treacle Tart](resources/treacle-tart.jpg)

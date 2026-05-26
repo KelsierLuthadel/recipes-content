@@ -1,3 +1,8 @@
+---
+prep: 5 minutes (plus 1 hour batter rest)
+cook: 12 minutes
+---
+
 # Socca
 
 ![Socca](resources/socca.jpg)

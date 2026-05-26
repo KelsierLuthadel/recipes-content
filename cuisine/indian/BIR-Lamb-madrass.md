@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Lamb Madras
 
 ![Lamb Madras](resources/BIR-Lamb-madrass.jpg)

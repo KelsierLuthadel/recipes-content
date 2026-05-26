@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Beef Panang Curry
 
 ![Beef Panang Curry](resources/beef-panang.jpg)

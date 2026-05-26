@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Easy Ugandan Curry Potatoes
 
 ![Easy Ugandan Curry Potatoes](resources/curry-potatoes.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 hour 15 minutes
+---
+
 # Asun (Spicy Smoky Goat Meat)
 
 ![Asun](resources/asun.jpg)

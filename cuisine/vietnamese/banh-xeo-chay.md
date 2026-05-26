@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 30 minutes
+---
+
 # Bánh Xèo Chay
 
 ![Bánh Xèo Chay](resources/banh-xeo-chay.jpg)

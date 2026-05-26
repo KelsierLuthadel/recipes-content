@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (uses store-bought shanklish or labneh-aged shortcut)
+cook: 0 minutes
+---
+
 # Shanklish
 
 ![Shanklish](resources/shanklish.jpg)

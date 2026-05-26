@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Doi Maach
 
 ![Doi Maach](resources/doi-maach.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 35 minutes
+---
+
 # Pav Bhaji
 
 ![Pav Bhaji](resources/pav-bhaji.jpg)

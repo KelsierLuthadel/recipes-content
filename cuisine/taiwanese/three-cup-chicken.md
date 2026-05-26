@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Three-Cup Chicken
 
 ![Three-Cup Chicken](resources/three-cup-chicken.jpg)

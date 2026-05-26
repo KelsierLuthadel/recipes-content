@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Roquefort Vinaigrette
 
 ![Roquefort Vinaigrette](resources/roquefort.jpg)

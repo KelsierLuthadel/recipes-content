@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 50 minutes
+---
+
 # Khao Soi (Northern Thai Curry Noodle Soup)
 
 ![Khao Soi](resources/khao-soi.jpg)

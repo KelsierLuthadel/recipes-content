@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 5 minutes
+---
+
 # Fully Loaded Burrito
 
 ![Fully Loaded Burrito](resources/fully-loaded-burrito.jpg)

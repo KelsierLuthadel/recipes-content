@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 20 minutes
+---
+
 # Parsley Sauce
 
 ![Parsley sauce](resources/parsley-sauce.png)

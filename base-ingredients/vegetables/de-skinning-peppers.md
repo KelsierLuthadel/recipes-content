@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 18 minutes
+---
+
 # De-Skinning Peppers
 
 ![De-Skinning Peppers](resources/skinning-bell-pepper.jpg)
@@ -100,5 +105,3 @@ Amount: ½ pepper per serving
 - Can be frozen for up to 1 month (thaw before serving)
 - Best served at room temperature or warmed very gently
 - The olive oil overlay prevents oxidation that turns peppers brown
-
-

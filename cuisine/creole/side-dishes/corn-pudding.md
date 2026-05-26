@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 50 minutes
+---
+
 # Corn Pudding
 
 ![Corn Pudding](resources/corn-pudding.jpg)

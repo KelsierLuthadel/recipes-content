@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 30 minutes dough rest)
+cook: 40 minutes
+---
+
 # Thenthuk
 
 ![Thenthuk](resources/thenthuk.jpg)

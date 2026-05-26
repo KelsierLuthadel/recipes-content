@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 30 min chilling)
+cook: 10 minutes
+---
+
 # Glamorgan Sausages
 
 ![Glamorgan Sausages](resources/glamorgan-sausages.jpg)

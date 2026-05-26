@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 8 minutes
+---
+
 # Sichuan Stir-Fried Chicken with Yacai (Jimi Yacai)
 
 ![Sichuan Stir-Fried Chicken with Yacai (Jimi Yacai)](resources/sichuan-stir-fried-chicken-yacai.jpg)

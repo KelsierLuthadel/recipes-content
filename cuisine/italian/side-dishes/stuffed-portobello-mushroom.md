@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Stuffed Portobello Mushrooms
 
 ![Stuffed portobello mushrooms](resources/stuffed-portobello-mushroom.jpg)

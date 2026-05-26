@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 4 hours 30 minutes
+---
+
 # Shoyu Ramen
 
 ![Shoyu Ramen](resources/shoyu-ramen.jpg)

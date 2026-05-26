@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Pineapple Salsa with Coriander
 
 ![Pineapple Salsa with Coriander](resources/pineapple-salsa.png)
@@ -104,4 +108,4 @@ Context: Barbecue accompaniment, grilled fish pairing, Southeast Asian-inspired 
 - Without the fresh coriander, the salsa base (pineapple with chilli and sambal) can be made 4-6 hours ahead and reheated before adding fresh coriander at service.
 - Best consumed warm within 1 hour of final preparation for maximum fresh herb aroma and optimal pineapple character.
 
-*This sweet, spicy, caramelized salsa pairs beautifully with smoky grilled and barbequed dishes, pork spareribs, sausages, duck breast, or swordfish. The warm pineapple base is enhanced with fresh red chilli heat, sambal oelek umami, and fresh coriander's bright herbaceous notes. Served warm, this salsa's flavors sing and complement rich, smoky proteins perfectly.*
+*This sweet, spicy, caramelized salsa pairs beautifully with smoky grilled and barbequed dishes, pork spareribs, sausages, duck breast, or swordfish. The warm pineapple base is enhanced with fresh red chilli heat, sambal oelek umami, and fresh coriander's bright herbaceous notes. Served warm, this salsa's flavors sing and complement rich, smoky proteins perfectly.*

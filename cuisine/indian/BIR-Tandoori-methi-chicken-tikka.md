@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 10 minutes
+---
+
 # Tandoori Methi Chicken Tikka
 
 ![Tandoori Methi Chicken Tikka](resources/BIR-Tandoori-methi-chicken-tikka.jpg)

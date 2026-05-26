@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Blood Orange Sorbet
 
 ![Blood orange sorbet](resources/blood-orange-sorbet.jpg)
@@ -43,4 +47,3 @@ Serve in chilled glasses or coupes immediately after churning while the texture 
 
 ## Storage
 Sorbets are best enjoyed immediately after churning. If making ahead, transfer to the freezer in an airtight container; re-churn or allow to soften briefly at room temperature before serving, as sorbets can become hard and icy during storage. Will keep in the freezer for up to 5 days, though texture deteriorates after 2-3 days.
-

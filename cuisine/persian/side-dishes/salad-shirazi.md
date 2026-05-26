@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 0 minutes
+---
+
 # Salad Shirazi
 
 ![Salad Shirazi](resources/salad-shirazi.jpg)

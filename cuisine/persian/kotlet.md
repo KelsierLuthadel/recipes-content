@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 30 min chilling)
+cook: 25 minutes
+---
+
 # Kotlet
 
 ![Kotlet](resources/kotlet.jpg)

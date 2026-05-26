@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 4 hours cooling)
+cook: 12 minutes
+---
+
 # Brigadeiro
 
 ![Brigadeiro](resources/brigadeiro.jpg)

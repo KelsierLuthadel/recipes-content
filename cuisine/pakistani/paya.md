@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 6 hours (or 2 hours pressure cooker)
+---
+
 # Paya
 
 ![Paya](resources/paya.jpg)

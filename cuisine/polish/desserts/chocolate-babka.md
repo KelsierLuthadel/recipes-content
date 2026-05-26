@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 2 hour first rise + 1 hour second rise)
+cook: 45 minutes
+---
+
 # Chocolate Babka
 
 ![Chocolate Babka](resources/chocolate-babka.jpg)

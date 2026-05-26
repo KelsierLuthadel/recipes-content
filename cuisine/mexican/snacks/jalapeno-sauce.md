@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: None
+---
+
 # Creamy Jalapeño Sauce
 
 ![Creamy Jalapeño Sauce](resources/jalapeno-sauce.jpg)

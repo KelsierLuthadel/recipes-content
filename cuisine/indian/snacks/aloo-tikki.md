@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 30 min chilling)
+cook: 15 minutes
+---
+
 # Aloo Tikki
 
 ![Aloo Tikki](resources/aloo-tikki.jpg)

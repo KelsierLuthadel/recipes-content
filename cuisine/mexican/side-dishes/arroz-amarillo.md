@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 25 minutes
+---
+
 # Arroz Amarillo
 
 ![Arroz Amarillo](resources/arroz-amarillo.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 1 hour marinating)
+cook: 15 minutes
+---
+
 # Crispy Honey Garlic Chicken
 
 ![Crispy Honey Garlic Chicken](resources/crispy-honey-garlic-chicken.jpg)

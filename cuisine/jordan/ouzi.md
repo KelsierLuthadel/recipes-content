@@ -1,3 +1,8 @@
+---
+prep: 40 minutes
+cook: 50 minutes
+---
+
 # Ouzi
 
 ![Ouzi](resources/ouzi.jpg)

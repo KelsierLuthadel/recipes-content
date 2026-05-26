@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 5 minutes (just for the syrup)
+---
+
 # Ajad
 
 ![Ajad](resources/ajad.jpg)

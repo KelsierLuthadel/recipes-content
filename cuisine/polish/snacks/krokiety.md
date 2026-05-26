@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 30 minutes
+---
+
 # Krokiety
 
 ![Krokiety](resources/krokiety.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 15 minutes
+---
+
 # Vegetable and Prawn Tempura
 
 ![Vegetable and Prawn Tempura](resources/tempura.jpg)

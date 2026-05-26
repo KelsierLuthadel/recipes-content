@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Thai Holy Basil and Chilli Chicken Stir Fry
 
 ![Thai Holy Basil and Chilli Chicken Stir Fry](resources/basil-chicken-stir-fry.jpg)

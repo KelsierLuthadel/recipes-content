@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 35 minutes
+---
+
 # Sticky Toffee Pudding
 
 ![Sticky Toffee Pudding](resources/sticky-toffee-pudding.jpg)

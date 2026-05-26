@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 30 minutes soaking skewers)
+cook: 12 minutes
+---
+
 # Yakitori
 
 ![Yakitori](resources/yakitori.jpg)

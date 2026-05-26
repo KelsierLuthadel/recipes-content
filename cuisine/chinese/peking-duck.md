@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 2 minutes
+---
+
 # Peking Duck
 
 ![Peking Duck](resources/peking-duck.jpg)

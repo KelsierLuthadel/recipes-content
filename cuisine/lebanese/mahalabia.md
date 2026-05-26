@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 12 minutes (plus 3 hours setting)
+---
+
 # Mahalabia
 
 ![Mahalabia](resources/mahalabia.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 19 minutes
+---
+
 # Peri-Peri Marinade
 
 ![Peri Peri](resources/peri-peri.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Croissants
 
 ![Croissants](resources/Croissants.png)

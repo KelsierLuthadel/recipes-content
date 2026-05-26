@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Hungarian Mushroom Soup
 
 ![Hungarian Mushroom Soup](resources/hungarian-mushroom-soup.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes batter resting)
+cook: 20 minutes (in batches)
+---
+
 # Tortillitas de Camarones
 
 ![Tortillitas de Camarones](resources/tortillitas-de-camarones.jpg)

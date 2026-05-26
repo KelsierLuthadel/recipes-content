@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 50 minutes
+---
+
 # Bahamian Stew Chicken
 
 ![Bahamian Stew Chicken](resources/stew-chicken.jpg)

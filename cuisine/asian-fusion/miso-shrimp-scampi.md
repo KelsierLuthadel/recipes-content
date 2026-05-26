@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes seasoning)
+cook: 10 minutes
+---
+
 # Miso Shrimp Scampi
 
 ![Miso Shrimp Scampi](resources/miso-shrimp-scampi.jpg)

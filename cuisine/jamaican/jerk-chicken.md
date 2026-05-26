@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 12 hours marinating)
+cook: 40 minutes
+---
+
 # Jerk Chicken
 
 ![Jerk Chicken](resources/jerk-chicken.jpg)

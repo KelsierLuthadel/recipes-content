@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 45 minutes
+---
+
 # Kashk-E-Bademjan
 
 ![Kashk-e-Bademjan](resources/kashk-e-bademjan.jpg)

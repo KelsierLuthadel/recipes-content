@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 30 minutes resting)
+cook: 15 minutes
+---
+
 # Shrak
 
 ![Shrak](resources/shrak.jpg)

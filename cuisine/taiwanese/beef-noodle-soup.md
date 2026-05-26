@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 2 ½-3 hours
+---
+
 # Taiwanese Beef Noodle Soup
 
 ![Taiwanese Beef Noodle Soup](resources/beef-noodle-soup.jpg)

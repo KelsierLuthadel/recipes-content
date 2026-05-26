@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Pasta Shells and Beans with Squid and Chorizo
 
 ![Pasta with Beans and Squid](resources/calarmari.jpg)

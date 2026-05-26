@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus overnight marinade)
+cook: 50 minutes
+---
+
 # Char Siu
 
 ![Char Siu](resources/char-siu.jpg)

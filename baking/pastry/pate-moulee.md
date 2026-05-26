@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Pâte Moulée (Raised Pie Pastry)
 
 ![Pâte moulée (Raised pie pastry)](resources/pate-moulee.jpg)

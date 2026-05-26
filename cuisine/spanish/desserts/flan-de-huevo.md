@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 45 minutes (plus 4 hours chilling)
+---
+
 # Flan de Huevo (Spanish Egg Flan)
 
 ![Flan de Huevo](resources/flan-de-huevo.jpg)

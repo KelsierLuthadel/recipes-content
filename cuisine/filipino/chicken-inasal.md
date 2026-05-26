@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 4 hours marinating)
+cook: 25 minutes
+---
+
 # Chicken Inasal
 
 ![Chicken Inasal](resources/chicken-inasal.jpg)

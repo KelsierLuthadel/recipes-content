@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 53 minutes
+---
+
 # Simple Lahori Chicken Curry
 
 ![Simple Lahori Chicken Curry](resources/lahore-chicken.jpg)

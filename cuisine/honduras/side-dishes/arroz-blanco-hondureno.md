@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 25 minutes
+---
+
 # Arroz Blanco Hondureño
 
 ![Arroz Blanco Hondureño](resources/arroz-blanco-hondureno.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 2-3 minutes
+---
+
 # Biscuit Joconde
 
 ![Biscuit Joconde](resources/biscuit-joconde.png)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 45 minutes
+---
+
 # Chicken Karahi
 
 ![Chicken Karahi](resources/chicken-karahi.jpg)

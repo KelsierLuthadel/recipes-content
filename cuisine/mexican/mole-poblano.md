@@ -1,3 +1,8 @@
+---
+prep: 1 hour
+cook: 1 ½ hours
+---
+
 # Mole Poblano
 
 ![Mole Poblano](resources/mole-poblano.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 25 minutes
+---
+
 # Merguez Rolls
 
 ![Merguez Rolls](resources/merguez-rolls.jpg)

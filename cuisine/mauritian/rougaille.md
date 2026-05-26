@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 40 minutes
+---
+
 # Rougaille Saucisse
 
 ![Rougaille Saucisse](resources/rougaille.jpg)

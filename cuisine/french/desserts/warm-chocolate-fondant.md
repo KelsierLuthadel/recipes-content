@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 9 minutes
+---
+
 # Warm Chocolate Fondant
 
 ![Warm chocolate fondant](resources/warm-chocolate-fondant.jpg)
@@ -54,4 +59,3 @@ Remove from the oven and rest for 30 seconds, then lift the ring immediately (th
 
 ## Storage
 Fondant batter can be prepared and piped into rings several hours ahead, then refrigerated covered until baking. Bake only when ready to serve, as the warmth and liquid center are essential to the dish. The baked fondants do not keep; they must be served immediately while still warm and the chocolate center is liquid.
-

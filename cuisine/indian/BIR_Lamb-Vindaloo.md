@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Lamb Vindaloo
 
 ![Lamb Vindaloo](resources/BIR_Lamb-Vindaloo.jpg)

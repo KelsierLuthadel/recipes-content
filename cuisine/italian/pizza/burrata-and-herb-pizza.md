@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Cherry Tomato, Burrata and Herb Pesto Pizza
 
 ![Burrata and Herb Pizza](resources/burrata-pizza.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 13 minutes
+---
+
 # Poached Pears Stuffed with Figs and Dates
 
 ![Poached pears stuffed with figs and dates](resources/poached-pears.jpg)
@@ -47,4 +52,3 @@ Arrange each pear on an individual serving plate, placing a generous spoonful of
 
 ## Storage
 The poached pears and their syrup can be prepared 1 day ahead and kept refrigerated in a covered container. The fig and date filling can be made several hours ahead and kept at room temperature. Assemble the filled pears only when ready to serve (no more than 1 hour ahead) to prevent the filling from absorbing moisture and becoming mushy. The caramel sauce can be made the day before and reheated gently.
-

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Thai Green Chicken Curry
 
 ![Thai Green Chicken Curry](resources/thai-green-chicken-curry.jpg)

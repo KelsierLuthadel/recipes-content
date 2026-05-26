@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour
+---
+
 # Pumpkin Soup
 
 ![Pumpkin Soup](resources/pumpkin-soup.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 15 minutes
+---
+
 # Cracked Conch
 
 ![Cracked Conch](resources/cracked-conch.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 4 hours chilling)
+cook: 0 minutes
+---
+
 # Gazpacho
 
 ![Gazpacho](resources/gazpacho.jpg)

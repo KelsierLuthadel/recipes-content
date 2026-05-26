@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 2 hours marinating)
+cook: 50 minutes
+---
+
 # Galinha à Zambeziana
 
 ![Galinha à Zambeziana](resources/galinha-zambeziana.jpg)

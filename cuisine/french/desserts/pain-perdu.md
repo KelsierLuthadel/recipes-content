@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Pain Perdu
 
 ![Pain perdu](resources/pain-perdu.jpg)
@@ -52,4 +56,3 @@ Serve the pain perdu warm, still with the sugar crust crispy and glistening. Acc
 
 ## Storage
 Pain perdu is best served immediately while warm and the sugar crust is crisp. The brioche can be baked the day before and kept wrapped at room temperature. The soaking mixture can be prepared several hours ahead. Soak and fry the brioche only when ready to serve, as softness develops quickly after cooking.
-

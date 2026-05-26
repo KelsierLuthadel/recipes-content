@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 7 minutes
+---
+
 # Fiery Beef Burrito
 
 ![Fiery Beef Burrito](resources/fiery-beef-burrito.jpg)

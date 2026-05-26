@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Maque Choux
 
 ![Maque Choux](resources/maque-choux.jpg)

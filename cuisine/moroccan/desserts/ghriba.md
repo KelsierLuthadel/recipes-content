@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 30 minutes resting)
+cook: 15 minutes
+---
+
 # Ghriba (Moroccan Almond Shortbread)
 
 ![Ghriba](resources/ghriba.jpg)

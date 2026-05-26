@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 18 minutes
+---
+
 # Prik King
 
 ![Prik King](resources/prik-king.jpg)

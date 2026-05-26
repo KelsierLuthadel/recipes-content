@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 25 minutes
+---
+
 # Champ
 
 ![Champ](resources/champ.jpg)

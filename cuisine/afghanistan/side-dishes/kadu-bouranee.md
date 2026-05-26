@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 45 minutes
+---
+
 # Kadu Bouranee
 
 ![Kadu Bouranee](resources/kadu-bouranee.jpg)

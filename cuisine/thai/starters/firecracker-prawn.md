@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 10 minutes
+---
+
 # Firecracker Prawns
 
 ![Firecracker Prawns](resources/firecracker-prawn.jpg)

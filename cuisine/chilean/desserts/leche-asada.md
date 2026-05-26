@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 45 minutes
+---
+
 # Leche Asada
 
 ![Leche Asada](resources/leche-asada.jpg)

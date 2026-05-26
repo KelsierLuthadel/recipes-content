@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 4 minutes
+---
+
 # Pork with Black Bean Sauce
 
 ![Pork with Black Bean Sauce](resources/pork-black-bean.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 17 minutes
+---
+
 # Jambalaya
 
 ![Jambalaya](resources/jambalaya.jpg)

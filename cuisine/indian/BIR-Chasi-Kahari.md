@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 50 minutes
+---
+
 # Lamb Charsi Karahi
 
 ![Charsi Karahi](resources/BIR-Chasi-Kahari.jpg)

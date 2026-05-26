@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 12 minutes
+---
+
 # Pizza Margherita
 
 ![Pizza Margherita](resources/margherita.jpg)

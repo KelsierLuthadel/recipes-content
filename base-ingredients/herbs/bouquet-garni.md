@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Bouquet Garni
 
 ![Bouquet Garni](resources/bouquet-garni.png)

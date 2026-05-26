@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 10 min gobo soak)
+cook: 12 minutes
+---
+
 # Kinpira Gobo
 
 ![Kinpira Gobo](resources/kinpira-gobo.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus overnight soaking)
+cook: 6 hours (or 45 minutes pressure-cooked)
+---
+
 # Foul Saudi
 
 ![Foul Saudi](resources/foul-saudi.jpg)

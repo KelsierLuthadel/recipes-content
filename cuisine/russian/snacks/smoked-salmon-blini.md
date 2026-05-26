@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour rise)
+cook: 20 minutes
+---
+
 # Smoked Salmon Blini
 
 ![Smoked Salmon Blini](resources/smoked-salmon-blini.jpg)

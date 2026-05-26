@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 min strawberry maceration)
+cook: 0 minutes (assuming you're using ready-made meringue nests)
+---
+
 # Eton Mess
 
 ![Eton Mess](resources/eton-mess.jpg)

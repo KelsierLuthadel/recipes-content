@@ -1,3 +1,8 @@
+---
+prep: 1 hour (mostly hands-on grinding and pressing)
+cook: 15 minutes
+---
+
 # Kuli-Kuli (Roasted Peanut Sticks)
 
 ![Kuli-Kuli](resources/kuli-kuli.jpg)

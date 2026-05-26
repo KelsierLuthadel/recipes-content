@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 30 minutes resting pastry)
+cook: 50 minutes
+---
+
 # Quiche Lorraine
 
 ![Quiche Lorraine](resources/quiche-lorraine.jpg)

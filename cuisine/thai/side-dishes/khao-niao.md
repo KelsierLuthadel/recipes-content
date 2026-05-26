@@ -1,3 +1,8 @@
+---
+prep: 5 minutes (plus 4-12 hour soak)
+cook: 25 minutes
+---
+
 # Khao Niao
 
 ![Khao Niao](resources/khao-niao.jpg)

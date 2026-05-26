@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 40 minutes
+---
+
 # New England Clam Chowder
 
 ![New England clam chowder](resources/new-england.jpg)

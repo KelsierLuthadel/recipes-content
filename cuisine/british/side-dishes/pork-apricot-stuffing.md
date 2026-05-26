@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Pork, Apricot and Pistachio Stuffing
 
 ![Pork, apricot and pistachio stuffing](resources/pork-apricot-stuffing.jpg)

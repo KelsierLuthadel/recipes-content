@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 30 minutes pastry rest)
+cook: 50 minutes
+---
+
 # British Apple Pie
 
 ![British Apple Pie](resources/apple-pie.jpg)

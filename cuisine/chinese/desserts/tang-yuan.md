@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 30 min filling freeze)
+cook: 15 minutes
+---
+
 # Tang Yuan
 
 ![Tang Yuan](resources/tang-yuan.jpg)

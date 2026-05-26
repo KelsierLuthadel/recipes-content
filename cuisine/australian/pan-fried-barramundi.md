@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Pan-Fried Barramundi
 
 ![Pan-fried Barramundi](resources/pan-fried-barramundi.jpg)

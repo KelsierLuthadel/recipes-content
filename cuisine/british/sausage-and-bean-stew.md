@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 35 minutes
+---
+
 # Sausage and Butter Bean Stew
 
 ![Sausage and Butter Bean Stew](resources/sausage-and-bean-stew.jpg)

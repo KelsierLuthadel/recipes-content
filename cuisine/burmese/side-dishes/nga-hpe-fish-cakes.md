@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 20 minutes
+---
+
 # Nga Hpe (Burmese Fish Cakes)
 
 ![Nga Hpe](resources/nga-hpe.jpg)

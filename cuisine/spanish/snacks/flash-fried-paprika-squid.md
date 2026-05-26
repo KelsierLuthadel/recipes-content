@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Flash Fried Squid with Paprika and Garlic
 
 ![Flash fried squid with paprika and garlic](resources/squid.jpg)

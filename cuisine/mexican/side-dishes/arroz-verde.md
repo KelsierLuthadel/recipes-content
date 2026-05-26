@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Arroz Verde
 
 ![Arroz Verde](resources/arroz-verde.jpg)

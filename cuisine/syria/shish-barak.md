@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 30 minutes resting)
+cook: 30 minutes
+---
+
 # Shish Barak
 
 ![Shish Barak](resources/shish-barak.jpg)

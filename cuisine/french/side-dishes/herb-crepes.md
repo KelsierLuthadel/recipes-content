@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Herb Crêpes
 
 ![Herb crêpes](resources/herb-crepes.jpg)
@@ -52,4 +56,4 @@ Amount: 1-2 crêpes per person depending on use
 - Store wrapped in cling film in the refrigerator for up to 2 days.
 - Freeze interleaved with greaseproof paper for up to 1 month; defrost at room temperature before use.
 
-*These crêpes work really well when sandwiched between meat and pastry, as it forms a protective layer beneath the pastry to help keep it dry and crisp.*
+*These crêpes work really well when sandwiched between meat and pastry, as it forms a protective layer beneath the pastry to help keep it dry and crisp.*

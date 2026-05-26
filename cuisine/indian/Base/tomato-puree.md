@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Tomato Puree
 
 ![Tomato Puree](resources/tomato-puree.jpg)
@@ -18,4 +22,4 @@ A thin pourable tomato purée sits behind a lot of Indian curries. It is not the
 1. Add a little concentrated tomato paste if you want a deeper red colour. 
 
 ### Method 3
-1. Sieved, unseasoned Italian passata. 
+1. Sieved, unseasoned Italian passata.

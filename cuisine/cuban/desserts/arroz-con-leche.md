@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 45 minutes
+---
+
 # Arroz Con Leche
 
 ![Arroz con Leche](resources/arroz-con-leche.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 40 minutes
+---
+
 # Lahori Shahi Tukda
 
 ![Lahori Shahi Tukda](resources/lahori-shahi-tukda.jpg)

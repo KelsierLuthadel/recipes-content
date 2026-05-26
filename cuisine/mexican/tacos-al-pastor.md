@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 4 hours marinade)
+cook: 15 minutes
+---
+
 # Tacos al Pastor
 
 ![Tacos al Pastor](resources/tacos-al-pastor.jpg)

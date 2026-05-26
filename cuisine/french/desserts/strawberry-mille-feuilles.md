@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 11 minutes
+---
+
 # Glazed Strawberry Mille-Feuilles
 
 ![Strawberry mille-feuilles](resources/strawberry-mille-feuilles.jpg)
@@ -52,4 +57,3 @@ Arrange each mille-feuille on a serving plate to showcase the contrast between t
 
 ## Storage
 Baked pastry layers keep well at room temperature for 2-3 days in an airtight container. The crème anglaise filling can be prepared the day before. Assemble the mille-feuilles no more than 2-3 hours before serving, as the pastry will gradually soften from moisture in the filling and berries. Strawberries are best sliced just before assembly to prevent oxidation.
-

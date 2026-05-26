@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 ¼ hours
+---
+
 # Bahamian Souse
 
 ![Bahamian Souse](resources/bahamian-souse.jpg)

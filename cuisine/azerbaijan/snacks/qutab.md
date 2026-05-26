@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 30 minutes resting)
+cook: 24 minutes
+---
+
 # Qutab
 
 ![Qutab](resources/qutab.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 2 hours chilling)
+cook: 12 minutes
+---
+
 # Adana Kebab
 
 ![Adana Kebab](resources/adana-kebab.jpg)

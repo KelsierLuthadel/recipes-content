@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 3 hours freezing the peanut butter, plus 3 hours chilling after bake)
+cook: 32 minutes
+---
+
 # Peanut Butter Stuffed Brownies
 
 ![Peanut Butter Stuffed Brownies](resources/peanut-butter-stuffed-brownies.jpg)

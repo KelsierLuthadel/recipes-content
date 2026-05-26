@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 30 minutes dough rest)
+cook: 40 minutes
+---
+
 # Thukpa
 
 ![Thukpa](resources/thukpa.jpg)

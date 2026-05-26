@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Chocolate-Dipped Langues de Chat
 
 ![Chocolate-Dipped Langues de Chat](resources/Langues-de-chat.jpg)

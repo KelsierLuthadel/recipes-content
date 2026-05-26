@@ -1,3 +1,8 @@
+---
+prep: 50 minutes
+cook: 35 minutes
+---
+
 # Pierogi Z Kapustą I Grzybami
 
 ![Pierogi z Kapustą i Grzybami](resources/pierogi-z-kapusta-i-grzybami.jpg)

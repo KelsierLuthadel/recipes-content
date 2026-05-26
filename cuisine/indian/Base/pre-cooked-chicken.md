@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 2 hours
+---
+
 # Pre-Cooked Chicken
 
 ![Pre-Cooked Chicken](resources/pre-cooked-chicken.jpg)

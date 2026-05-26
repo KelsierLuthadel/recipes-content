@@ -1,3 +1,8 @@
+---
+prep: 50 minutes
+cook: 1 hour
+---
+
 # Chicken Bastilla
 
 ![Chicken Bastilla](resources/chicken-bastilla.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 2 minutes
+---
+
 # Sichuan Chicken with Kung Pao Sauce
 
 ![Sichuan Chicken with Kung Pao Sauce](resources/kung-pao-cashew.jpg)

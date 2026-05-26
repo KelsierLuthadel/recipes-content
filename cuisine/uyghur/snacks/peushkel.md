@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 2-6 hours rise)
+cook: 20 minutes
+---
+
 # Peushkel
 
 ![Peushkel](resources/peushkel.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 35 minutes
+---
+
 # m'Hencha (Almond Snake Coil)
 
 ![M'hencha](resources/m-hencha.jpg)

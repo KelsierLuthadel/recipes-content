@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 75 minutes
+---
+
 # Chipotle Sauce
 
 ![Chipotle sauce](resources/chipotle.jpg)

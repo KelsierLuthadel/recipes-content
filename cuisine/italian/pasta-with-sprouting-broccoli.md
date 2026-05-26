@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 3 minutes
+---
+
 # Pasta Shells with Sprouting Broccoli, Chilli, and Pine Nuts
 
 ![Pasta with Broccoli](resources/pasta-broc.jpg)

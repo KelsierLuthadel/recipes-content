@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 0 minutes
+---
+
 # Çoban Salatası
 
 ![Çoban Salatası](resources/coban-salatasi.jpg)

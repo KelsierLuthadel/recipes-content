@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Kashmiri Chicken
 
 ![Kashmiri chicken](resources/BIR-kashmiri-chicken.jpg)

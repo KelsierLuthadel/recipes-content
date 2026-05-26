@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 2 hours
+---
+
 # Spotted Dick
 
 ![Spotted Dick](resources/spotted-dick.jpg)

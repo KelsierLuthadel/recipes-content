@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 4 minutes
+---
+
 # Penne with Red Chicory, Sausages, and Red Wine
 
 ![Penne alla Trevisana](resources/penne-alla-trevisana.jpg)

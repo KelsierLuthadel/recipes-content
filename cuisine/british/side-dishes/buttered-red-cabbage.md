@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 ¼ hours
+---
+
 # Buttered Red Cabbage
 
 ![Buttered Red Cabbage](resources/buttered-red-cabbage.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 1 hour rest)
+cook: 10 minutes
+---
+
 # Missi Rotis
 
 ![Missi Rotis](resources/missi-rotis.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 1 hour chilling)
+cook: 2 ½ hours
+---
+
 # Matzo Ball Soup
 
 ![Matzo Ball Soup](resources/matzo-ball-soup.jpg)

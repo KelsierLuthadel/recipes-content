@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 4 hours chilling)
+cook: 15 minutes
+---
+
 # Leche Frita (Fried Milk)
 
 ![Leche Frita](resources/leche-frita.jpg)

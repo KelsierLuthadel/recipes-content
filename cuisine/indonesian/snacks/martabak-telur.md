@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour dough resting)
+cook: 25 minutes (in batches)
+---
+
 # Martabak Telur
 
 ![Martabak Telur](resources/martabak-telur.jpg)

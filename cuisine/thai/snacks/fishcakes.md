@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 10 minutes
+---
+
 # Fishcakes
 
 ![Fishcakes](resources/fishcakes.jpg)

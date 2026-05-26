@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 30 minutes (plus overnight chilling)
+---
+
 # Tres Leches Colombiano
 
 ![Tres Leches Colombiano](resources/tres-leches-colombiano.jpg)

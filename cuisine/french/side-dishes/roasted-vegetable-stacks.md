@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 30 minutes
+---
+
 # Roasted Vegetable Stacks
 
 ![Roasted vegetable stacks](resources/roasted-vegetable-stacks.png)

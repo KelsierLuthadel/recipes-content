@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Fried Dumplings / Johnny Cakes
 
 ![Fried Dumplings](resources/fried-dumplings.jpg)

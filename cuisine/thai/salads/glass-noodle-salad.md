@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes
+---
+
 # Glass Noodle Salad
 
 ![Glass Noodle Salad](resources/glass-noodle-salad.jpg)

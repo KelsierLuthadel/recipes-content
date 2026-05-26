@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 45 minutes
+---
+
 # Murgh Cholay
 
 ![Murgh Cholay](resources/murgh-cholay.jpg)

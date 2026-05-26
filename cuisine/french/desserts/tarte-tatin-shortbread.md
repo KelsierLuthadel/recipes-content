@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 35 minutes
+---
+
 # Tarte Tatin with Shortbread Crust
 
 ![Tarte Tatin with Shortbread Crust](resources/tarte-tatin-shortbread.jpg)

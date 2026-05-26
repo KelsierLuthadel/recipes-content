@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Sweet and Crispy Chicken Wings
 
 ![Sweet and Crispy Chicken Wings](resources/sweet-crispy-chicken-wings.jpg)

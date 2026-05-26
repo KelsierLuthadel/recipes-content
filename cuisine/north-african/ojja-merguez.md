@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Ojja with Merguez
 
 ![Ojja with Merguez](resources/ojja-merguez.jpg)

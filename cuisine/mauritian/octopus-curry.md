@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 1 hour
+---
+
 # Octopus Curry (Cari Ourite)
 
 ![Octopus Curry](resources/octopus-curry.jpg)

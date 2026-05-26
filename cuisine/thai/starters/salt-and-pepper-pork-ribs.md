@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Garlicky Salt and Pepper Pork Ribs
 
 ![Garlicky Salt and Pepper Pork Ribs](resources/salt-and-pepper-pork-ribs.jpg)

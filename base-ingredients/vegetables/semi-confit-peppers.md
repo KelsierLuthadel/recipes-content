@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 35 minutes
+---
+
 # Semi-Confit Peppers
 
 ![Semi-Confit Peppers](resources/confit-peppers.jpg)
@@ -104,4 +109,4 @@ Accompaniments: Fleur de sel, fresh basil, grilled bread rubbed with garlic
 - Can be frozen for up to 1 month if sealed impeccably
 - The infused oil can be strained and re-used for cooking or dressing greens after peppers are consumed
 
-*Semi-confit peppers are charred over flame, then gently poached in warm oil infused with herbs and garlic. They taste even better when briefly grilled on a barbecue afterward, especially when vine shoots add smoke to the coals.*
+*Semi-confit peppers are charred over flame, then gently poached in warm oil infused with herbs and garlic. They taste even better when briefly grilled on a barbecue afterward, especially when vine shoots add smoke to the coals.*

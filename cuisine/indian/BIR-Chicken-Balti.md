@@ -1,3 +1,7 @@
+---
+prep: 20 minutes
+---
+
 # Chicken Balti
 
 ![Chicken Balti](resources/balti.png)
@@ -45,4 +49,4 @@ Birmingham's defining curry, cooked hard and fast in a thin two-handled steel ba
 Top with chopped coriander to serve. 
 
 
-*This is normally cooked in a large balti pan, but you can you can substitute this with a frying pan*
+*This is normally cooked in a large balti pan, but you can you can substitute this with a frying pan*

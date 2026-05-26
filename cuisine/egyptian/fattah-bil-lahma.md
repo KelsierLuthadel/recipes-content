@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 2 hours 15 minutes
+---
+
 # Fattah Bil Lahma
 
 ![Fattah bil Lahma](resources/fattah-bil-lahma.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Singapore Curry Powder
 
 ![Singapore](resources/singapore.jpg)

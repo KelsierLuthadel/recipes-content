@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour salting + overnight pickling)
+cook: 10 minutes
+---
+
 # Atchara
 
 ![Atchara](resources/atchara.jpg)

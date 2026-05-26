@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 20 minutes
+---
+
 # Mapo Tofu
 
 ![Mapo Tofu](resources/mapo-tofu.jpg)

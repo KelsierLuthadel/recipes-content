@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 2 minutes
+---
+
 # Beef in Oyster Sauce
 
 ![Beef in Oyster Sauce](resources/beef-oyster.jpg)

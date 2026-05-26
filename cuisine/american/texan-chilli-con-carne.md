@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 20 minutes soaking the chillies)
+cook: 3 hours
+---
+
 # Texan Chilli con Carne
 
 ![Texan Chilli con Carne](resources/texan-chilli-con-carne.jpg)

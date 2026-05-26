@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Poolish (Bread Pre-Ferment)
 
 ![Poolish](resources/poolish.jpg)

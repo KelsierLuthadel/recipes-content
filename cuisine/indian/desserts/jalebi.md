@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 8-12 hours fermentation)
+cook: 25 minutes
+---
+
 # Jalebi
 
 ![Jalebi](resources/jalebi.jpg)

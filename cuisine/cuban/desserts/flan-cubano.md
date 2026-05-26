@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 hour (plus 6 hours chilling)
+---
+
 # Flan Cubano
 
 ![Flan Cubano](resources/flan-cubano.jpg)

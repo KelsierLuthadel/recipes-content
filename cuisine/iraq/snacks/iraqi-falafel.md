@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 24 hours soaking, plus 30 min chilling)
+cook: 15 minutes
+---
+
 # Iraqi Falafel
 
 ![Iraqi Falafel](resources/iraqi-falafel.jpg)

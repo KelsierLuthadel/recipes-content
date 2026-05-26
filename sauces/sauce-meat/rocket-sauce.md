@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 0 minutes
+---
+
 # Rocket Sauce with Horseradish
 
 ![Rocket sauce with horseradish](resources/rocket-sauce.png)

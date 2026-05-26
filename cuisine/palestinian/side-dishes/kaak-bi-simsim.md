@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour rising)
+cook: 18 minutes
+---
+
 # Ka'ak Bi Simsim
 
 ![Kaak bi Simsim](resources/kaak-bi-simsim.jpg)

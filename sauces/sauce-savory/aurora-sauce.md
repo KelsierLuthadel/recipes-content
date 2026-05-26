@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Aurora Sauce
 
 ![Aurora Sauce](resources/aurora-sauce.jpg)

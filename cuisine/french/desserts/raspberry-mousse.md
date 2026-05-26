@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Raspberry Mousse
 
 ![Raspberry mousse](resources/raspberry-mousse.jpg)
@@ -43,4 +47,3 @@ Top each mousse with three beautiful raspberries arranged in a trio, perhaps dus
 
 ## Storage
 Once set and refrigerated (2+ hours), cover with plastic film and keep for up to 2 days. The freshest possible raspberries should be reserved for garnishing just before serving. If preparing ahead, add reserved raspberries within 1 hour of serving to prevent them from softening or leaking red color onto the mousse.
-

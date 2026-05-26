@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus overnight bean soak)
+cook: 12 minutes
+---
+
 # Tameya
 
 ![Tameya](resources/tameya.jpg)

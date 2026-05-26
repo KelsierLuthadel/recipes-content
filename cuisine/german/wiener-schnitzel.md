@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 12 minutes
+---
+
 # Wiener Schnitzel
 
 ![Wiener Schnitzel](resources/wiener-schnitzel.jpg)

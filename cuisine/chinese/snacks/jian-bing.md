@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 1 hour batter rest)
+cook: 15 minutes
+---
+
 # Jian Bing
 
 ![Jian Bing](resources/jian-bing.jpg)

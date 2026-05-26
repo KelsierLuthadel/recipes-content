@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 10 minutes
+---
+
 # Kanom Jeeb
 
 ![Kanom Jeeb](resources/kanom-jeeb.jpg)

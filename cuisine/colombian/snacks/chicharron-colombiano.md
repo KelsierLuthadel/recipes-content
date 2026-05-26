@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 1 hour 15 minutes
+---
+
 # Chicharrón Colombiano
 
 ![Chicharrón Colombiano](resources/chicharron-colombiano.jpg)

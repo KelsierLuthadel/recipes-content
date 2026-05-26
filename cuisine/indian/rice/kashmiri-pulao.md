@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes soak)
+cook: 30 minutes
+---
+
 # Kashmiri Pulao
 
 ![Kashmiri Pulao](resources/kashmiri-pulao.jpg)

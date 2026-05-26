@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 30 minutes
+---
+
 # Prawn Balchão
 
 ![Prawn Balchão](resources/prawn-balchao.jpg)

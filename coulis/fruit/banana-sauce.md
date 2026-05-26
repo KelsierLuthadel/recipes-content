@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 20 minutes
+---
+
 # Banana Sauce
 
 ![Banana sauce](resources/banana.jpg)

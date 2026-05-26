@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 12 minutes
+---
+
 # Grilled Corn on the Cob
 
 ![Grilled Corn on the Cob](resources/grilled-corn.jpg)

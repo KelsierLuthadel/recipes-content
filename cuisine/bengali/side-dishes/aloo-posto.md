@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes soaking the poppy seeds)
+cook: 20 minutes
+---
+
 # Aloo Posto
 
 ![Aloo Posto](resources/aloo-posto.jpg)

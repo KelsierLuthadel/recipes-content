@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 2 minutes
+---
+
 # Chicken Tikka Masala
 
 ![Chicken Tikka Masala](resources/tikka.png)

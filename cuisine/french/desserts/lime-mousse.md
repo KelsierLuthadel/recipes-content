@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 5 minutes
+---
+
 # Lime Mousse with Wild Strawberries
 
 ![Lime mousse with wild strawberries](resources/lime-mousse.jpg)
@@ -45,4 +50,3 @@ Serve in elegant glasses or coupes, piling fresh wild strawberries generously on
 
 ## Storage
 Once set in glasses (after 2-3 hours refrigeration), cover with plastic film and keep refrigerated for up to 2 days. The candied zest should be stored separately in an airtight container. Fresh wild strawberries should be added just before serving to prevent them from weeping and softening. If strawberries must be added ahead, reserve some for garnishing at the last moment.
-

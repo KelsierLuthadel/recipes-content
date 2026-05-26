@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Sambal Oelek
 
 ![Sambal Oelek](resources/sambal-oelek.jpg)

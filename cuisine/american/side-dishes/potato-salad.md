@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 20 minutes
+---
+
 # Classic American Potato Salad
 
 ![Classic American Potato Salad](resources/potato-salad.jpg)

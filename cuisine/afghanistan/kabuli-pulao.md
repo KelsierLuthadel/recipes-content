@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 2 hours
+---
+
 # Kabuli Pulao
 
 ![Kabuli Pulao](resources/kabuli-pulao.jpg)

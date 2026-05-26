@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Ginger Crème Brûlée
 
 ![Ginger Crème Brûlée](resources/ginger-creme-brulee.jpg)
@@ -42,4 +46,3 @@ Serve individual dishes directly to guests, allowing them to break through the c
 
 ## Storage
 Baked crème brûlées without the caramel topping keep refrigerated in covered dishes for up to 2 days; the base custard actually improves as flavors mature. Apply the caramel topping no more than 30 minutes before serving to maintain crispness. The topping softens and deteriorates beyond this point. Serve at the temperature at which chilled; bringing to room temperature softens the caramel coating.
-

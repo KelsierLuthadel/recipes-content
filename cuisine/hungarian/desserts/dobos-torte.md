@@ -1,3 +1,8 @@
+---
+prep: 1 ½ hours (across stages)
+cook: 35 minutes (plus 4 hours chilling)
+---
+
 # Dobos Torte
 
 ![Dobos Torte](resources/dobos-torte.jpg)

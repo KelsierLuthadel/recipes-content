@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 15 minutes salting the fish)
+cook: 30 minutes
+---
+
 # Machher Jhol
 
 ![Machher Jhol](resources/machher-jhol.jpg)

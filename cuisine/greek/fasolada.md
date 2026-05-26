@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus overnight bean soak)
+cook: 1 ½ hours
+---
+
 # Fasolada
 
 ![Fasolada](resources/fasolada.jpg)

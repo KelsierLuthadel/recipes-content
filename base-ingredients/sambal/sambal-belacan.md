@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 14 minutes
+---
+
 # Sambal Belacan
 
 ![Sambal Belacan](resources/sambal-belacan.jpg)

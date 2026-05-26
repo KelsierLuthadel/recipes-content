@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 ¼ hours
+---
+
 # Phở Chay
 
 ![Phở Chay](resources/pho-chay.jpg)

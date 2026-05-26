@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 10 minutes
+---
+
 # Meringue and Red Berry Layers
 
 ![Meringue and red berry layers](resources/meringue-red-berry-layers.jpg)
@@ -56,4 +61,3 @@ Build the layers directly on serving plates: place a meringue round, top with po
 
 ## Storage
 Meringue rounds keep for 2-3 days in an airtight container at room temperature (humidity is their enemy). The poached berries and coulis can be prepared the day before and refrigerated in a covered container. Assemble only as you serve, as the meringue rounds will absorb moisture from the berries and coulis within 15-20 minutes, becoming soft rather than crisp.
-

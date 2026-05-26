@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Chinese Pickled Cucumber
 
 ![Chinese Pickled Cucumber](resources/chinese-pickled-cucumber.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour rising)
+cook: 15 minutes
+---
+
 # Soft Pretzels
 
 ![Soft Pretzels](resources/soft-pretzels.jpg)

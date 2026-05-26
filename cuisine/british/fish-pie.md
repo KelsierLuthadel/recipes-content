@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 35 minutes
+---
+
 # Fish Pie
 
 ![Fish Pie](resources/fish-pie.jpg)

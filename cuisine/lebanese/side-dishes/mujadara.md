@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 10 minutes
+---
+
 # Mujadara
 
 ![Mujadara](resources/mujadara.jpg)

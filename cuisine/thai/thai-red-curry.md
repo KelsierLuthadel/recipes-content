@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 20 minutes
+---
+
 # Thai Red Curry
 
 ![Thai Red Curry](resources/thai-red.jpg)

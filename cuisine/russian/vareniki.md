@@ -1,3 +1,8 @@
+---
+prep: 50 minutes
+cook: 25 minutes
+---
+
 # Vareniki
 
 ![Vareniki](resources/vareniki.jpg)

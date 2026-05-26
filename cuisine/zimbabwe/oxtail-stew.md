@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 3 hours
+---
+
 # Zimbabwean Oxtail Stew
 
 ![Zimbabwean Oxtail Stew](resources/oxtail-stew.jpg)

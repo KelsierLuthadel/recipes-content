@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Pâté à Foncer (Flan Pastry)
 
 ![Pâté à foncer (Flan Pastry)](resources/flan.png)

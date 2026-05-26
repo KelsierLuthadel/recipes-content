@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Court Bouillon
 
 ![Court bouillon](resources/court.jpg)

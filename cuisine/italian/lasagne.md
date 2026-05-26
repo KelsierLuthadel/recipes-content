@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 4 hours
+---
+
 # Lasagne
 
 ![Lasagne](resources/lasagne.jpg)
@@ -106,4 +111,4 @@ Garnish with: Extra Parmesan shavings and fresh basil
 - Can be assembled and frozen unbaked for up to 1 month (add 10 minutes to baking time)
 - Reheats well covered gently at 160°C
 
-*This is possibly one of the best lasagne recipes, the addition of the pesto compliments the béchamel sauce perfectly. Do not feel tempted to use shop bought lasagne sheets for this dish, take the time to make your own because they will melt in your mouth, and make this lasagne stand out above the rest and taste divine. Buon appetito!*
+*This is possibly one of the best lasagne recipes, the addition of the pesto compliments the béchamel sauce perfectly. Do not feel tempted to use shop bought lasagne sheets for this dish, take the time to make your own because they will melt in your mouth, and make this lasagne stand out above the rest and taste divine. Buon appetito!*

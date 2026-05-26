@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 25 minutes
+---
+
 # Rhubarb Tartlets with Orange
 
 ![Rhubarb tartlets with orange](resources/rhubarb-orange-tart.jpg)

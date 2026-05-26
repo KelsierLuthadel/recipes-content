@@ -1,3 +1,8 @@
+---
+prep: 40 minutes (plus 30 min pastry rest)
+cook: 35 minutes
+---
+
 # Nigerian Meat Pie
 
 ![Nigerian Meat Pie](resources/nigerian-meat-pie.jpg)

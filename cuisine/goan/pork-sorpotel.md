@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus overnight rest)
+cook: 2 hours
+---
+
 # Pork Sorpotel
 
 ![Pork Sorpotel](resources/pork-sorpotel.jpg)

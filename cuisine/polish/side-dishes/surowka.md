@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: none
+---
+
 # Surówka
 
 ![Surówka](resources/surowka.jpg)

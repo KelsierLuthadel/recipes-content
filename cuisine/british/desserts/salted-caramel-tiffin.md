@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 3 hours chilling)
+cook: 12 minutes for the caramel
+---
+
 # Salted Caramel Tiffin
 
 ![Salted Caramel Tiffin](resources/salted-caramel-tiffin.jpg)

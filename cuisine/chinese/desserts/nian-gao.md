@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 75 minutes (mostly steaming)
+---
+
 # Nian Gao
 
 ![Nian Gao](resources/nian-gao.jpg)

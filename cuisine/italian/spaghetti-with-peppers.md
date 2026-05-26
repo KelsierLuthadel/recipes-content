@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 2 minutes
+---
+
 # Spaghetti with Yellow Peppers, Chilli, and Herbs
 
 ![Spaghetti with Peppers](resources/spaghetti-alleerbe.jpg)

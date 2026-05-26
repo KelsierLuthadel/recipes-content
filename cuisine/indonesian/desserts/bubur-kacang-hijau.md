@@ -1,3 +1,8 @@
+---
+prep: 5 minutes (plus 4 hours soaking, optional)
+cook: 1 hour
+---
+
 # Bubur Kacang Hijau (Mung Bean Coconut Porridge)
 
 ![Bubur Kacang Hijau](resources/bubur-kacang-hijau.jpg)

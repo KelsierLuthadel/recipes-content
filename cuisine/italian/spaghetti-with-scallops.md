@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Spaghettini with Scallops and Parsley Pesto
 
 ![Spaghettini with Scallops](resources/Spaghettini-Con-Capesante.jpg)

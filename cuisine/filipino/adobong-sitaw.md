@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 20 minutes
+---
+
 # Adobong Sitaw
 
 ![Adobong Sitaw](resources/adobong-sitaw.jpg)

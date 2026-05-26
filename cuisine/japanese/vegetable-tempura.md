@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 25 minutes
+---
+
 # Vegetable Tempura
 
 ![Vegetable Tempura](resources/vegetable-tempura.jpg)

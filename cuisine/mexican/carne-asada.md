@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 2 hours marinade)
+cook: 8 minutes
+---
+
 # Carne Asada
 
 ![Carne Asada](resources/carne-asada.jpg)

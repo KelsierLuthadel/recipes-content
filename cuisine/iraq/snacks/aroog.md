@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 30 min soaking)
+cook: 25 minutes
+---
+
 # Aroog
 
 ![Aroog](resources/aroog.jpg)

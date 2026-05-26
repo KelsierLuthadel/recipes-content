@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 30 min resting)
+cook: 20 minutes
+---
+
 # Scallion Pancakes
 
 ![Scallion Pancakes](resources/scallion-pancakes.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 30 minutes
+---
+
 # Pepper Soup
 
 ![Pepper Soup](resources/pepper-soup.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 35 minutes
+---
+
 # Baingan Bharta
 
 ![Baingan Bharta](resources/baingan-bharta.jpg)

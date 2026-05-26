@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 40 minutes
+---
+
 # Pre-Cooked Lamb
 
 ![Pre-Cooked Lamb](resources/pre-cooked-lamb.png)
@@ -42,4 +47,4 @@ The lamb equivalent of pre-cooked chicken: diced lamb browned hard with onion an
 1. Place lid back on pot and cook for a further 20 minutes.
 
 
-*Pre-cooked lamb recipe for use in BIR curries*
+*Pre-cooked lamb recipe for use in BIR curries*

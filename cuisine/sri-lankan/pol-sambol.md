@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 0 minutes
+---
+
 # Pol Sambol
 
 ![Pol Sambol](resources/pol-sambol.jpg)

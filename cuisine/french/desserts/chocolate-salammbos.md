@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Chocolate Salammbos
 
 ![Chocolate salammbos](resources/salammbos.jpg)
@@ -50,4 +54,3 @@ Arrange the salammbos on a decorative plate or tiered stand to showcase their el
 
 ## Storage
 The baked choux can be made 1-2 days ahead and kept in an airtight container at room temperature. Assemble by filling and dipping in caramel no more than 2-3 hours before serving; beyond that, the caramel coating gradually absorbs moisture from air and becomes sticky rather than crisp. The candied violets must be added fresh just before serving.
-

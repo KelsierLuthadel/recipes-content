@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour
+---
+
 # Pisto Manchego
 
 ![Pisto Manchego](resources/pisto-manchego.jpg)

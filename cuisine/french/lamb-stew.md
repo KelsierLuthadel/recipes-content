@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 35 minutes
+---
+
 # Lamb Stew (Navarin d'Agneau)
 
 ![Lamb Stew](resources/navarin-d-agneau.jpg)

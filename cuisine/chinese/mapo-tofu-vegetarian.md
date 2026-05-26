@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes
+---
+
 # Mapo Tofu (Vegetarian)
 
 ![Mapo Tofu (Vegetarian)](resources/mapo-tofu-vegetarian.jpg)

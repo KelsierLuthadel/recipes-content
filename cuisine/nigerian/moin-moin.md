@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour bean-soaking)
+cook: 1 hour
+---
+
 # Moin Moin
 
 ![Moin Moin](resources/moin-moin.jpg)

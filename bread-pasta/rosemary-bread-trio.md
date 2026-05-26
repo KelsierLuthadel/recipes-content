@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 26 minutes
+---
+
 # Rosemary Bread Trio
 
 ![Rosemary Bread Trio](resources/rose-buns.jpg)

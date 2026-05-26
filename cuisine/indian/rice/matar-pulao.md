@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 30 minutes soak)
+cook: 30 minutes
+---
+
 # Matar Pulao
 
 ![Matar Pulao](resources/matar-pulao.jpg)

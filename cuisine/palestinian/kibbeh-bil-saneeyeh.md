@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 30 min bulgur soak)
+cook: 40 minutes
+---
+
 # Kibbeh Bil Saneeyeh
 
 ![Kibbeh bil Saneeyeh](resources/kibbeh-bil-saneeyeh.jpg)

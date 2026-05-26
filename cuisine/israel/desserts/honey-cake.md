@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour
+---
+
 # Honey Cake
 
 ![Honey Cake](resources/honey-cake.jpg)

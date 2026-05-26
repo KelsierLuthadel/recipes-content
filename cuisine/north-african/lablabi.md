@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes (assuming pre-cooked chickpeas)
+---
+
 # Lablabi
 
 ![Lablabi](resources/lablabi.jpg)

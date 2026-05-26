@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 30 min resting)
+cook: 30 minutes
+---
+
 # Frybread with Wojapi
 
 ![Frybread with Wojapi](resources/frybread-with-wojapi.jpg)

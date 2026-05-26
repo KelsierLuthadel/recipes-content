@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 30 minutes marinating)
+cook: 2 hours
+---
+
 # Mathloutha
 
 ![Mathloutha](resources/mathloutha.jpg)

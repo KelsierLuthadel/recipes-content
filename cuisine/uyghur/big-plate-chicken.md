@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 45 minutes
+---
+
 # Big Plate Chicken
 
 ![Big Plate Chicken](resources/big-plate-chicken.jpg)

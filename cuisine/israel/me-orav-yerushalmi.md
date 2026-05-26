@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 20 minutes
+---
+
 # Me'orav Yerushalmi (Jerusalem Mixed Grill)
 
 ![Me'orav Yerushalmi](resources/me-orav-yerushalmi.jpg)

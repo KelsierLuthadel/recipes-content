@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 30 minutes resting)
+cook: 20 minutes
+---
+
 # Empanadas de Queso
 
 ![Empanadas de Queso](resources/empanadas-de-queso.jpg)

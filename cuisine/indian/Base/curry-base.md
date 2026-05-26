@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Curry Base Gravy
 
 ![Base Gravy](resources/gravy.jpg)
@@ -45,4 +49,4 @@ Remember to periodically stir during the following process to stop the onions fr
 
 
 *Classic British Indian Restaurant(B.I.R.) curry base*
-*This is the classic curry base that is used in most UK Indian restaurants. The finished sauce has a sweet taste and should be a thick consistency.*
+*This is the classic curry base that is used in most UK Indian restaurants. The finished sauce has a sweet taste and should be a thick consistency.*

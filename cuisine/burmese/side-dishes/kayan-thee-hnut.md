@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 20 minutes salting)
+cook: 25 minutes
+---
+
 # Kayan Thee Hnut
 
 ![Kayan Thee Hnut](resources/kayan-thee-hnut.jpg)

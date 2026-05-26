@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 10 minutes
+---
+
 # Butterscotch Sauce
 
 ![Butterscotch sauce](resources/butterscotch.png)

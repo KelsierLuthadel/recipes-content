@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 30 minutes
+---
+
 # Mac and Cheese
 
 ![Mac and Cheese](resources/mac-and-cheese.jpg)

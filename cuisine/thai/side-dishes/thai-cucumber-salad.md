@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 0 minutes
+---
+
 # Thai Cucumber Salad
 
 ![Thai cucumber salad](resources/thai-cucumber-salad.jpg)

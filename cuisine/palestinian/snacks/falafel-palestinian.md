@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus overnight bean soak)
+cook: 12 minutes
+---
+
 # Falafel Palestinian
 
 ![Falafel Palestinian](resources/falafel-palestinian.jpg)

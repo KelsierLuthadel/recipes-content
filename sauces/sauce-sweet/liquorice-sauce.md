@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 15 minutes
+---
+
 # Liquorice Sauce
 
 ![Liquorice sauce](resources/liquorice-sauce.png)

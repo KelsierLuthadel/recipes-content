@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 45 minutes (roasting beets)
+---
+
 # Mutabbal Shawandar
 
 ![Mutabbal Shawandar](resources/mutabbal-shawandar.jpg)

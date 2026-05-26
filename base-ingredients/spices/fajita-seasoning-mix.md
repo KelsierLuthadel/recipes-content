@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 7 minutes
+---
+
 # Fajita Seasoning Mix
 
 ![Fajita Seasoning Mix](resources/fajita-seasoning.jpg)

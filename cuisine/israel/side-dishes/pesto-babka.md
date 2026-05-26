@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 ½ hours first rise, optional 12-hour cold proof, 1 ½ hours final rise)
+cook: 45-50 minutes
+---
+
 # Pesto Babka
 
 ![Pesto Babka](resources/pesto-babka.jpg)

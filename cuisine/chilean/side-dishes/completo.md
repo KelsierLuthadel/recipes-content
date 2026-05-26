@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 10 minutes
+---
+
 # Completo
 
 ![Completo](resources/completo.jpg)

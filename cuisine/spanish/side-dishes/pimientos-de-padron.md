@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 5 minutes
+---
+
 # Pimientos de Padrón
 
 ![Pimientos de Padrón](resources/pimientos-de-padron.jpg)

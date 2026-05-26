@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes soak)
+cook: 1 hour
+---
+
 # Lahori Chicken Pulao
 
 ![Lahori Chicken Pulao](resources/lahori-chicken-pulao.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 4-6 hours
+cook: 45 minutes
+---
+
 # Biryani
 
 ![Biryani](resources/biryani.jpg)

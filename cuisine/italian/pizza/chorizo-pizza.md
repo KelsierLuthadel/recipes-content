@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 hour 24 minutes
+---
+
 # Chorizo Margherita Pizza
 
 ![Chorizo Pizza](resources/chorizo-pizza.jpg)

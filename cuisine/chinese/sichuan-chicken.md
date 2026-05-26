@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Sichuan Chicken
 
 ![Sichuan Chicken](resources/sichuan-chicken.jpg)

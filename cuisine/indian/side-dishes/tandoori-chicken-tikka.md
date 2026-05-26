@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Tandoori Chicken Tikka
 
 ![Chicken Tikka](resources/tikka.png)
@@ -99,4 +103,4 @@ Or use: In curries (Tikka Masala) or salads
 - Refrigerate cooked tikka for up to 2 days in an airtight container
 - Reheat gently in a 160°C oven for 8-10 minutes with a splash of water
 - Freeze marinated uncooked chicken for up to 1 month; thaw completely before grilling
-- Do not freeze cooked tikka; texture degrades significantly 
+- Do not freeze cooked tikka; texture degrades significantly

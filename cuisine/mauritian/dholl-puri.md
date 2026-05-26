@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 4 hours soaking)
+cook: 45 minutes
+---
+
 # Dholl Puri
 
 ![Dholl Puri](resources/dholl-puri.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus 30 minutes soaking the rice cakes if dry)
+cook: 20 minutes
+---
+
 # Tteokbokki
 
 ![Tteokbokki](resources/tteokbokki.jpg)

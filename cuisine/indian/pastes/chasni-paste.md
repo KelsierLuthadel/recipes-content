@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Chasni Paste
 
 ![Chasni Paste](resources/chasni-paste.jpg)
@@ -43,4 +47,3 @@ A sweet and tangy paste used in Pathia and Chasni curries, combining mango chutn
 ## Storage
 - Refrigerate in airtight container up to 2 weeks.
 - Freeze in small portions up to 3 months; thaw before use.
-

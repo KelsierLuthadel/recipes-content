@@ -1,3 +1,8 @@
+---
+prep: 40-60 minutes
+cook: 5 minutes
+---
+
 # Panang Curry Paste
 
 ![Panang Curry Paste](resources/panang-curry-paste.jpg)
@@ -59,4 +64,3 @@ Milder, sweeter than red curry paste, with roasted peanuts. Key ingredient for P
 ## Storage
 - Refrigerate 2 weeks in airtight container.
 - Freeze up to 2 months; thaw before use.
-

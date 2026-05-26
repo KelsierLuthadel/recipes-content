@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 40 minutes
+---
+
 # Irish Soda Bread
 
 ![Irish Soda Bread](resources/irish-soda-bread.jpg)

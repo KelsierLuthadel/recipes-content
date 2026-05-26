@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 8 minutes
+---
+
 # Brik à l'Œuf
 
 ![Brik à l'Œuf](resources/brik-a-l-oeuf.jpg)

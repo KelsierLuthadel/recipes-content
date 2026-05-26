@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 1 ½ hours
+---
+
 # Doro Wat
 
 ![Doro Wat](resources/doro-wat.jpg)

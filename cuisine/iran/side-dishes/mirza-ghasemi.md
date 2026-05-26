@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 35 minutes
+---
+
 # Mirza Ghasemi
 
 ![Mirza Ghasemi](resources/mirza-ghasemi.jpg)

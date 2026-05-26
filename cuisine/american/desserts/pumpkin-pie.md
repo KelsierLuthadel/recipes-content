@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour chilling)
+cook: 1 hour 15 minutes
+---
+
 # Pumpkin Pie
 
 ![Pumpkin Pie](resources/pumpkin-pie.jpg)

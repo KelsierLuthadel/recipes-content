@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 15 minutes dough rest)
+cook: 30 minutes
+---
+
 # Suykash
 
 ![Suykash](resources/suykash.jpg)

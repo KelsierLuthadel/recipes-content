@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 25 minutes
+---
+
 # Hot Cajun Potato Salad
 
 ![Hot cajun potato salad](resources/cajun-salad.jpg)

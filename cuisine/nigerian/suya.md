@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 1 hour marinating)
+cook: 12 minutes
+---
+
 # Suya
 
 ![Suya](resources/suya.jpg)

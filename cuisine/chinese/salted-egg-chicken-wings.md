@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 15 minutes marinating)
+cook: 15 minutes
+---
+
 # Salted Egg Chicken Wings
 
 ![Salted Egg Chicken Wings](resources/salted-egg-chicken-wings.jpg)

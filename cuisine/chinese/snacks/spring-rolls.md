@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 minute
+---
+
 # Spring Rolls
 
 ![Spring rolls](resources/mini-spring-rolls.jpg)

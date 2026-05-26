@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 2 minutes
+---
+
 # Spicy Chicken with Peanuts
 
 ![Spicy Chicken with Peanuts](resources/gongbaoji.jpg)

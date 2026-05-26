@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour
+---
+
 # Domoda
 
 ![Domoda](resources/domoda.jpg)

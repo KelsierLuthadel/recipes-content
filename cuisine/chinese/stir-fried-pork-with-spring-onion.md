@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 5 minutes
+---
+
 # Stir-Fried Pork with Spring Onions
 
 ![Stir-Fried Pork with Spring Onions](resources/stir-fried-pork.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 20 minutes
+---
+
 # Grilled Kielbasa
 
 ![Grilled Kielbasa](resources/grilled-kielbasa.jpg)

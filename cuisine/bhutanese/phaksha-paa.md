@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour
+---
+
 # Phaksha Paa
 
 ![Phaksha Paa](resources/phaksha-paa.jpg)

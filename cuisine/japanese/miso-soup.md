@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 5 minutes
+---
+
 # Miso Soup
 
 ![Miso Soup](resources/miso-soup.jpg)

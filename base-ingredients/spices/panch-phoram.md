@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Panch Phoram (Bengali Five-Spice)
 
 ![Panch Phoram](resources/panch.jpg)

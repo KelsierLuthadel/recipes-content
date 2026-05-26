@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 30 minutes
+---
+
 # Sloppy Joe
 
 ![Sloppy Joe](resources/sloppy-joe.jpg)

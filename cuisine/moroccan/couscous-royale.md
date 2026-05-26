@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 2 hours
+---
+
 # Couscous Royale
 
 ![Couscous Royale](resources/couscous-royale.jpg)

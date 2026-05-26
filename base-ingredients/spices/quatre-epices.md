@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Quatre Épices (Four Spices)
 
 ![Quatre Épices](resources/quatre.jpg)
@@ -85,4 +89,4 @@ Temperature: Works both in raw meat mixtures (for pâté) and in cooked applicat
 
 
 
-*Quatre épices (literally "four spices") is a classic French spice blend used primarily in charcuterie, meat pâtés, sausages, terrines, and ragouts. It appears across French cuisine in soups, slow-cooked meat dishes, and traditional preparations where subtle sophistication matters.*
+*Quatre épices (literally "four spices") is a classic French spice blend used primarily in charcuterie, meat pâtés, sausages, terrines, and ragouts. It appears across French cuisine in soups, slow-cooked meat dishes, and traditional preparations where subtle sophistication matters.*

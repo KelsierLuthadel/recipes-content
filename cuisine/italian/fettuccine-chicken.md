@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 4 minutes
+---
+
 # Fettuccine with Chicken and Dolcelatte
 
 ![Fettuccine with Chicken and Dolcelatte](resources/fettucine-dolcelate.jpg)

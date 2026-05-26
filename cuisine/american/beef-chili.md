@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 35 minutes
+---
+
 # Beef Chili
 
 ![Beef Chili](resources/beef-chili.jpg)

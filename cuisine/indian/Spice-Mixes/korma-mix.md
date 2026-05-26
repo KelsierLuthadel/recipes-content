@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Korma Spice Mix
 
 ![Korma Spice Mix](resources/korma-mix.jpg)

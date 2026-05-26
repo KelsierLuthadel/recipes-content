@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus overnight marinating)
+cook: 2 ½ hours
+---
+
 # Soup Joumou
 
 ![Soup Joumou](resources/soup-joumou.jpg)

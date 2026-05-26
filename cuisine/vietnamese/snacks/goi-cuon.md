@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 25 minutes
+---
+
 # Gỏi Cuốn
 
 ![Goi Cuon](resources/goi-cuon.jpg)

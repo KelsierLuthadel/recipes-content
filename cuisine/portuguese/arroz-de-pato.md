@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 2 hours 30 minutes (duck) + 30 minutes (rice)
+---
+
 # Arroz de Pato
 
 ![Arroz de Pato](resources/arroz-de-pato.jpg)

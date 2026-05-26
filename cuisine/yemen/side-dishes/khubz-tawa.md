@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 1 hour rising)
+cook: 20 minutes
+---
+
 # Khubz Tawa
 
 ![Khubz Tawa](resources/khubz-tawa.jpg)

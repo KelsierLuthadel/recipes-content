@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 50 minutes
+---
+
 # Ohn No Khao Swè
 
 ![Ohn No Khao Swè](resources/ohn-no-khao-swe.jpg)

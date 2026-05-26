@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 20 minutes
+---
+
 # Pork and Vegetable Spring Rolls
 
 ![Pork and Vegetable Spring Rolls](resources/pork-spring-rolls.jpg)

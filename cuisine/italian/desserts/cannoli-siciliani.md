@@ -1,3 +1,8 @@
+---
+prep: 1 hour (plus 30 min dough rest, 4 hours ricotta drain)
+cook: 15 minutes
+---
+
 # Cannoli Siciliani
 
 ![Cannoli Siciliani](resources/cannoli-siciliani.jpg)

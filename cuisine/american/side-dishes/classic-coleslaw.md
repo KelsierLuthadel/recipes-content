@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 1 hour rest)
+cook: 0 minutes
+---
+
 # Classic Coleslaw
 
 ![Classic Coleslaw](resources/classic-coleslaw.jpg)

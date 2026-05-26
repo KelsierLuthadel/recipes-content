@@ -1,3 +1,8 @@
+---
+prep: 8 minutes
+cook: 2 minutes
+---
+
 # Thai Curry Powder
 
 ![Thai Curry Powder](resources/thai-curry-powder.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Chocolate Biscotti Cake
 
 ![Chocolate biscotti cake](resources/chocolate-biscotti-cake.jpg)
@@ -49,4 +53,3 @@ Slice the chilled cake with a sharp knife dipped in hot water (wipe between cuts
 
 ## Storage
 The assembled cake can be refrigerated for up to 3 days in an airtight container; the flavors mature and integrate beautifully over this time. Do not freeze as the biscotti absorbs moisture and the texture changes. Remove from refrigerator 20-30 minutes before serving to allow chocolate to soften slightly.
-

@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 10 minutes
+---
+
 # Kofta Burger
 
 ![Kofta Burger](resources/kofta-burger.jpg)

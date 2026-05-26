@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Lemon Cake
 
 ![Lemon cake](resources/lemon-cake.jpg)
@@ -57,4 +61,3 @@ Serve the cooled lemon cake sliced thin (the moistness supports thin slicing) wi
 
 ## Storage
 Baked lemon cakes keep well wrapped at room temperature for 2-3 days; the moisture content keeps them from drying out. Do not refrigerate, as cold temperatures cause the texture to firm up. The cakes freeze beautifully wrapped well for up to one month; thaw at room temperature before serving. Best flavor develops after one day of baking as flavors integrate.
-

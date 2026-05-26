@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Roasted Peaches on Choux Crowns
 
 ![Roasted peaches on choux crowns](resources/roasted-peach.jpg)
@@ -60,4 +64,3 @@ Place a crispy choux crown on each plate, top with a roasted peach using a palet
 
 ## Storage
 The choux crowns can be baked 1 day ahead and kept in an airtight container at room temperature. The peaches can be roasted and cooled in caramel up to 4 hours ahead, then gently rewarmed before serving. Assemble only when ready to serve to maintain the crispness of the choux. This is a dessert best served fresh rather than held for extended periods.
-

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 1 hour mince marinating)
+cook: 18 minutes
+---
+
 # Seekh Kebab Roll
 
 ![Seekh Kebab Roll](resources/seekh-kebab-roll.jpg)

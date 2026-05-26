@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 0 minutes
+---
+
 # Prawn Cocktail
 
 ![Prawn Cocktail](resources/prawn-cocktail.jpg)

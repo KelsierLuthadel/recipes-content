@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 1 ¼ hours
+---
+
 # Jollof Rice with Chicken
 
 ![Jollof Rice with Chicken](resources/jollof-rice-with-chicken.jpg)

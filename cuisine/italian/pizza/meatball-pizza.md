@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 35 minutes
+---
+
 # Meatball and Pepperoni Pizza
 
 ![Meatball and Pepperoni Pizza](resources/meatball-pizza.jpg)

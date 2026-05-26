@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 35 minutes
+---
+
 # Bangers and Mash
 
 ![Bangers and Mash](resources/bangers-and-mash.jpg)

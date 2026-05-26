@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 15 minutes
+---
+
 # Spiced Mixed Nuts
 
 ![Spiced Mixed Nuts](resources/spiced-mixed-nuts.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 2 hours rising)
+cook: 25 minutes
+---
+
 # Cinnamon Swirl Buns
 
 ![Cinnamon Swirl Buns](resources/cinnamon-swirl.jpg)

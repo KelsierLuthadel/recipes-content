@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus overnight soaking)
+cook: 1 hour 30 minutes
+---
+
 # Black-Eyed Peas
 
 ![Black-Eyed Peas](resources/black-eyed-peas.jpg)

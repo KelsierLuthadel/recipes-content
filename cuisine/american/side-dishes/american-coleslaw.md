@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 30 minutes resting)
+cook: 0 minutes
+---
+
 # American Coleslaw
 
 ![American Coleslaw](resources/american-coleslaw.jpg)

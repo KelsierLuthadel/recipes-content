@@ -1,3 +1,7 @@
+---
+prep: 20 minutes
+---
+
 # Mango Pudding
 
 ![Mango Pudding](resources/mango-pudding.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 35 minutes
+cook: 90 minutes
+---
+
 # Orange Cheesecake Tart
 
 ![Orange cheesecake tart](resources/orange-cheesecake-tart.jpg)

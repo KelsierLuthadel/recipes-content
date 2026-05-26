@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Cuban-Style Pork Burgers
 
 ![Cuban-Style Pork Burgers](resources/cuban-burger.jpg)

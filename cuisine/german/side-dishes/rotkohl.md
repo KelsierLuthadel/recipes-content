@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 15 minutes
+---
+
 # Rotkohl
 
 ![Rotkohl](resources/rotkohl.jpg)

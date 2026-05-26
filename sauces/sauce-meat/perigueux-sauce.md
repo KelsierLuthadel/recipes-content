@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 15 minutes
+---
+
 # Périgueux Sauce
 
 ![Périgueux sauce](resources/perigueux.jpg)

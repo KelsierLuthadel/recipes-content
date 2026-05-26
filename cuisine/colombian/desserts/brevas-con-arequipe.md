@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 1 hour 10 minutes (plus 30 min cooling)
+---
+
 # Brevas Con Arequipe
 
 ![Brevas con Arequipe](resources/brevas-con-arequipe.jpg)

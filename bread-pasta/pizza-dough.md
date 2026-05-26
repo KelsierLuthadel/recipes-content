@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Classic Pizza Dough
 
 ![Classic Pizza Dough](resources/pizza.jpg)

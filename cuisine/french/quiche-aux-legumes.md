@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 1 hour
+---
+
 # Quiche aux Légumes
 
 ![Quiche aux Légumes](resources/quiche-aux-legumes.jpg)

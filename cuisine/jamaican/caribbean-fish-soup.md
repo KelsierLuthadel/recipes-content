@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 30 minutes
+---
+
 # Caribbean Fish Soup
 
 ![Caribbean fish soup](resources/caribbean-fish-soup.jpg)

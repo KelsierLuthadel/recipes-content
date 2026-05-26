@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 25 minutes
+---
+
 # Korean Fried Chicken
 
 ![Korean Fried Chicken](resources/korean-fried-chicken.jpg)

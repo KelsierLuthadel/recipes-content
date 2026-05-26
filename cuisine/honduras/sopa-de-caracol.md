@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus tenderising the conch)
+cook: 45 minutes
+---
+
 # Sopa de Caracol
 
 ![Sopa de Caracol](resources/sopa-de-caracol.jpg)

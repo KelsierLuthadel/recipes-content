@@ -1,3 +1,8 @@
+---
+prep: 10 Minutes
+cook: 10 Minutes
+---
+
 # Vindaloo 
 
 ![Vindaloo](resources/vindaloo.jpg)   

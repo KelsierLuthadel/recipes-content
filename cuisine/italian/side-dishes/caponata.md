@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 30 min salting)
+cook: 45 minutes
+---
+
 # Caponata
 
 ![Caponata](resources/caponata.jpg)

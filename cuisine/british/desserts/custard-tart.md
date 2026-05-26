@@ -1,3 +1,8 @@
+---
+prep: 35 minutes
+cook: 45 minutes
+---
+
 # Sweet Custard Tart with Poached Prunes
 
 ![Sweet custard tart with poached prunes](resources/custard-tart.jpg)
@@ -77,4 +82,4 @@ Serve the tart slightly chilled or at room temperature with the warm poached pru
 ## Storage
 Store leftovers in the refrigerator for up to 3 days, covered. Freezing is not recommended because the custard can become watery when thawed.
 
-*This tart is especially delicious when served with poached prunes and candied citrus peel.*
+*This tart is especially delicious when served with poached prunes and candied citrus peel.*

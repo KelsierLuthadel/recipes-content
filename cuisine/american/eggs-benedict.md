@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes
+---
+
 # Eggs Benedict
 
 ![Eggs Benedict](resources/eggs-benedict.jpg)

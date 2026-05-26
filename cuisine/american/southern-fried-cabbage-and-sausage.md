@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Southern Fried Cabbage and Sausage
 
 ![Southern Fried Cabbage and Sausage](resources/southern-fried-cabbage-and-sausage.jpg)

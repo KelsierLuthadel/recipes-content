@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 12 hours soaking)
+cook: 20 minutes
+---
+
 # Ta'amiya
 
 ![Ta'amiya](resources/taamiya.jpg)

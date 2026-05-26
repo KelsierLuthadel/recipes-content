@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 0 minutes
+---
+
 # Salata Arabieh
 
 ![Salata Arabieh](resources/salata-arabieh.jpg)

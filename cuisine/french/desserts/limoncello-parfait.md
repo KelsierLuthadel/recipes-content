@@ -1,3 +1,7 @@
+---
+prep: 20 minutes
+---
+
 # Chilled Limoncello Parfait with Raspberries
 
 ![Chilled limoncello parfait with raspberries](resources/limoncello-parfait.jpg)
@@ -61,4 +65,3 @@ Release the parfait onto a chilled plate and carefully spoon a hollow in the cen
 
 ## Storage
 The assembled and unmolded parfait can be prepared up to 2-3 hours before serving and returned to the freezer, though the hollow should be made just before plating. The frozen parfait in its mold keeps for up to one week; cover with cling film to prevent freezer burn. The raspberry coulis can be made 2-3 days ahead and stored covered in the refrigerator. The fresh raspberries for topping should be added only at plating time.
-

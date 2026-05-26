@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 4 minutes
+---
+
 # Cold Onion Chutney
 
 ![Cold Onion Chutney](resources/onion-chutney.jpg)

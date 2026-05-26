@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 30 minutes resting)
+cook: 30 minutes
+---
+
 # Baleadas
 
 ![Baleadas](resources/baleadas.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 2 hours marinating, ideally overnight)
+cook: 2 hours 30 minutes
+---
+
 # Jamaican Goat Curry
 
 ![Jamaican Goat Curry](resources/goat-curry.jpg)

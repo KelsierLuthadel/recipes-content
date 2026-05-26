@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Cucumber Vinaigrette
 
 ![Cucumber Vinaigrette](resources/cucumber.png)

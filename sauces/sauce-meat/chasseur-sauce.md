@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 20 minutes
+---
+
 # Chasseur Sauce
 
 ![Chasseur sauce](resources/chasseur-sauce.png)

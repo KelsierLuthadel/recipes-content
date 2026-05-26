@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 45 minutes
+---
+
 # Chorrillana
 
 ![Chorrillana](resources/chorrillana.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Green Balti Masala Paste
 
 ![Green Masala Paste](resources/green-masala.jpg)

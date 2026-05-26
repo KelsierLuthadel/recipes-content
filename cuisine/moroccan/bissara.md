@@ -1,3 +1,8 @@
+---
+prep: 10 minutes (plus overnight soak)
+cook: 1 hour
+---
+
 # Bissara
 
 ![Bissara](resources/bissara.jpg)

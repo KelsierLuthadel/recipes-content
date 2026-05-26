@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Béarnaise Sauce
 
 ![Béarnaise sauce](resources/bearnaise-sauce.jpg)

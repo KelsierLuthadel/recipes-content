@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 4 hours rest)
+cook: 20 minutes
+---
+
 # Bolinhas de Coco
 
 ![Bolinhas de Coco](resources/bolinhas-de-coco.jpg)

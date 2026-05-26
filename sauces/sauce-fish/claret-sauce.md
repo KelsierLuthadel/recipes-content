@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 35 minutes
+---
+
 # Claret Sauce
 
 ![Claret sauce](resources/claret.jpg)

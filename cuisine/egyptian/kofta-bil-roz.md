@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 50 minutes
+---
+
 # Kofta Bil Roz
 
 ![Kofta bil Roz](resources/kofta-bil-roz.jpg)

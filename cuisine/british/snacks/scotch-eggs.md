@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 30 minutes chilling)
+cook: 15 minutes
+---
+
 # Scotch Eggs
 
 ![Scotch Eggs](resources/scotch-eggs.jpg)

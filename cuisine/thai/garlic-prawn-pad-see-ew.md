@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 5 minutes
+---
+
 # Garlic Prawn Pad See Ew
 
 ![Garlic Prawn Pad See Ew](resources/garlic-prawn-pad-see-ew.jpg)

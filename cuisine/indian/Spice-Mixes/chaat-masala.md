@@ -1,3 +1,8 @@
+---
+prep: 8 minutes
+cook: 2 minutes
+---
+
 # Chaat Masala
 
 ![Chaat Masala](resources/chaat-masala.jpg)

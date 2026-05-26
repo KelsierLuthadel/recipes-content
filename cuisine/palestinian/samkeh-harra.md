@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 30 minutes
+---
+
 # Samkeh Harra
 
 ![Samkeh Harra](resources/samkeh-harra.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 2 minutes
+---
+
 # Stir Fried Spinach with Garlic
 
 ![Stir fried spinach with garlic](resources/spinach.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 10 minutes
+---
+
 # Bhatura
 
 ![Bhatura](resources/bhaura.jpg)

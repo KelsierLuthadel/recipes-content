@@ -1,3 +1,8 @@
+---
+prep: 12 minutes
+cook: 0 minutes
+---
+
 # Mast-O-Khiar
 
 ![Mast-o-Khiar](resources/mast-o-khiar.jpg)

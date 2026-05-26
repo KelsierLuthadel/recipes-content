@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 1 hour 30 minutes
+---
+
 # Ploughman's Pickle
 
 ![Ploughman's Pickle](resources/ploughmans-pickle.jpg)

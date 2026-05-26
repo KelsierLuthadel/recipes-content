@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 0 minutes
+---
+
 # Mixed Powder
 
 ![Mixed Powder](resources/glasgow-mix.jpg)

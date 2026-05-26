@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Pissalàdiers
 
 ![Pissalàdiers](resources/Pissaladiers.jpg)

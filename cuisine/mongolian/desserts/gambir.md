@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 30 minutes resting)
+cook: 30 minutes
+---
+
 # Gambir
 
 ![Gambir](resources/gambir.jpg)

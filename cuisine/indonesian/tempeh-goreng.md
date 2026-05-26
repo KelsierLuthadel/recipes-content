@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 min marinade)
+cook: 10 minutes
+---
+
 # Tempeh Goreng
 
 ![Tempeh Goreng](resources/tempeh-goreng.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Penne with Red Chillies, Garlic, and Chopped Tomatoes
 
 ![Penne Arrabbiata](resources/penne-allarrabiata.jpg)

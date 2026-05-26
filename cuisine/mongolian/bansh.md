@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 12 minutes
+---
+
 # Bansh
 
 ![Bansh](resources/bansh.jpg)

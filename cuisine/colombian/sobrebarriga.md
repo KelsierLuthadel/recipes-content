@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 2 hours 30 minutes
+---
+
 # Sobrebarriga
 
 ![Sobrebarriga](resources/sobrebarriga.jpg)

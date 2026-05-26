@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 15 minutes
+---
+
 # Sambal Terasi
 
 ![Sambal Terasi](resources/sambal-terasi.jpg)

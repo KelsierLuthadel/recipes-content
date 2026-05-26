@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 25 minutes (plus 1 hour chilling)
+---
+
 # Niislel Salat
 
 ![Niislel Salat](resources/niislel-salat.jpg)

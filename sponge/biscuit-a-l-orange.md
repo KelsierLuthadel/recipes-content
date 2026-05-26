@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 25 minutes
+---
+
 # Biscuit à l'Orange
 
 ![Biscuit à L'Orange](resources/biscuit-a-l-orange.jpg)

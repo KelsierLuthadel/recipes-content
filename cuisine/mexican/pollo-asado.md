@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 4 hours marinating)
+cook: 30 minutes
+---
+
 # Pollo Asado
 
 ![Pollo Asado](resources/pollo-asado.jpg)

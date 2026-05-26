@@ -1,3 +1,8 @@
+---
+prep: 1 hour
+cook: 25 minutes
+---
+
 # Kibbeh
 
 ![Kibbeh](resources/kibbeh.jpg)

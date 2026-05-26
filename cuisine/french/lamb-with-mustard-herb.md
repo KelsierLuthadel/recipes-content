@@ -1,3 +1,8 @@
+---
+prep: 25 minutes
+cook: 2 hours 7 minutes
+---
+
 # Breast of Lamb with Mustard and Herb Crust
 
 ![Breast of Lamb with Mustard and Herb Crust](resources/lamb-herb.jpg)

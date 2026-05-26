@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 4 minutes
+---
+
 # Apple Turnovers
 
 ![Apple turnovers](resources/apple-turnover.jpg)
@@ -61,4 +66,3 @@ Serve the turnovers warm or at room temperature, still displaying the shimmering
 
 ## Storage
 Turnovers can be assembled and refrigerated, unbaked, for up to 4 hours before baking (this actually improves the pastry structure). Freshly baked turnovers keep at room temperature for 1 day in an airtight container. Do not refrigerate, as the pastry will become hard and lose crispness. Reheat gently in a 160°C oven for 5-10 minutes if necessary.
-

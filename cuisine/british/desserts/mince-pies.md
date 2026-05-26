@@ -1,3 +1,7 @@
+---
+prep: 20 minutes
+---
+
 # Mini Mince Pies
 
 ![Mini mince pies](resources/mince-pies.jpg)

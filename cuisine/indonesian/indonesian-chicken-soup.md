@@ -1,3 +1,8 @@
+---
+prep: 10  minutes
+cook: 1 hour 20 minutes
+---
+
 # Indonesian Chicken Noodle Soup (Soto Ayam)
 
 ![Indonesian Chicken Noodle Soup](resources/indonesian-chicken-soup.jpg)

@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Barbecue Spice Mix & Marinade
 
 ![BBQ](resources/bbq-spice.jpg)

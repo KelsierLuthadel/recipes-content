@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 20 minutes (for the rice)
+---
+
 # Onigiri
 
 ![Onigiri](resources/onigiri.jpg)

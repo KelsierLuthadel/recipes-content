@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 25 minutes
+---
+
 # Hokkien Mee
 
 ![Hokkien Mee](resources/hokkien-mee.jpg)

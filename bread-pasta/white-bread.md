@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 10 minutes
+---
+
 # White Bread
 
 ![White Bread](resources/white-bread.jpg)
@@ -96,4 +101,4 @@ Pairing: Excellent with soups, stews, or simply butter and sea salt
 
 
 
-*This bread forms a lovely crunchy crust when cooked, and is especially delightful when eaten warm. Where most people go wrong is not making the mixture wet enough and so the finished bread ends up too doughy and dry. Once the water is added, don't flood the work surface with flour as it will unbalance the recipe, instead, use olive oil if needed.*
+*This bread forms a lovely crunchy crust when cooked, and is especially delightful when eaten warm. Where most people go wrong is not making the mixture wet enough and so the finished bread ends up too doughy and dry. Once the water is added, don't flood the work surface with flour as it will unbalance the recipe, instead, use olive oil if needed.*

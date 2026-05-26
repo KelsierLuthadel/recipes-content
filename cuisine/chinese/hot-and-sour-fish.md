@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 2 minutes
+---
+
 # Fish in Hot and Sour Sauce
 
 ![Fish in Hot and Sour Sauce](resources/hot-sour-fish.jpg)

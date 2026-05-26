@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 hour 30 minutes
+---
+
 # Mutton Sukka
 
 ![Mutton Sukka](resources/mutton-sukka.jpg)

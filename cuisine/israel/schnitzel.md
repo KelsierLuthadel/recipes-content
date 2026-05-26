@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 15 minutes
+---
+
 # Israeli Schnitzel
 
 ![Israeli Schnitzel](resources/schnitzel.jpg)

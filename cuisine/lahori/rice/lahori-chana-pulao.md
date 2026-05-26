@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus overnight soak and 30 minutes rice soak)
+cook: 1 hour 30 minutes
+---
+
 # Lahori Chana Pulao
 
 ![Lahori Chana Pulao](resources/lahori-chana-pulao.jpg)

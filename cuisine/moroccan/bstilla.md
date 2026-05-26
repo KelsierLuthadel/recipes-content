@@ -1,3 +1,8 @@
+---
+prep: 45 minutes
+cook: 50 minutes
+---
+
 # b'Stilla
 
 ![B'stilla](resources/bstilla.jpg)

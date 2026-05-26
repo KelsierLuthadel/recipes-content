@@ -1,3 +1,8 @@
+---
+prep: 1 hour
+cook: 30 minutes
+---
+
 # Pierogi Ruskie
 
 ![Pierogi Ruskie](resources/pierogi-ruskie.jpg)

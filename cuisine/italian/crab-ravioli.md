@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 10 minutes
+---
+
 # Chilli Ravioli with Crab
 
 ![Chilli Ravioli with Crab](resources/crab-ravioli.jpg)

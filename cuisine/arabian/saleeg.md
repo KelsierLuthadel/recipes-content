@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 30 minutes
+---
+
 # Saleeg
 
 ![Saleeg](resources/saleeg.jpg)

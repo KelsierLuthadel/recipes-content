@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 25 minutes
+---
+
 # Shwe Htamin
 
 ![Shwe Htamin](resources/shwe-htamin.jpg)

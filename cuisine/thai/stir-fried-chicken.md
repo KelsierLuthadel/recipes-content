@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Stir Fried Chicken with Chilli and Basil
 
 ![Stir Fried Chicken with Chilli and Basil](resources/stir-fried-chicken.jpg)

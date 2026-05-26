@@ -1,3 +1,8 @@
+---
+prep: 45 minutes (plus 30 min rest)
+cook: 30 minutes
+---
+
 # Feteer Meshaltet
 
 ![Feteer Meshaltet](resources/feteer-meshaltet.jpg)

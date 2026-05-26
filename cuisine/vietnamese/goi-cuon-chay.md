@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 15 minutes
+---
+
 # Gỏi Cuốn Chay
 
 ![Gỏi Cuốn Chay](resources/goi-cuon-chay.jpg)

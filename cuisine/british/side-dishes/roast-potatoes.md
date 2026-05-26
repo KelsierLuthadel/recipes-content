@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 ¼ hours
+---
+
 # Perfect Roast Potatoes
 
 ![Perfect Roast Potatoes](resources/roast-potatoes.jpg)

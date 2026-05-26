@@ -1,3 +1,8 @@
+---
+prep: 1 hour
+cook: 1 hour 15 minutes
+---
+
 # Mahshi Koromb
 
 ![Mahshi Koromb](resources/mahshi-koromb.jpg)

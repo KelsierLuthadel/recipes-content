@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 55 minutes
+---
+
 # Apple Tart
 
 ![Apple tart](resources/apple-tart.jpg)

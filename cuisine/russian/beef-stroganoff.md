@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Beef Stroganoff
 
 ![Beef Stroganoff](resources/beef-stroganoff.jpg)

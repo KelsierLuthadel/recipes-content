@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Linguine with Cherry Tomatoes, Pancetta, and White Wine
 
 ![Linguine Amatriciana](resources/amatriciana.jpg)

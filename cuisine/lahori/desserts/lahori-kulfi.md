@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour (mostly hands-off reducing)
+---
+
 # Lahori Kulfi
 
 ![Lahori Kulfi](resources/lahori-kulfi.jpg)

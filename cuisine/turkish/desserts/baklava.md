@@ -1,3 +1,7 @@
+---
+prep: 5 minutes
+---
+
 # Baklava
 
 ![Baklava](resources/baklava.jpg)
@@ -65,4 +69,3 @@ Serve at room temperature (never chilled, as the honey crystallizes and becomes 
 
 ## Storage
 Baklava keeps beautifully at room temperature for up to 5-7 days in an airtight container, remaining crisp while the honey flavor matures. The unbaked baklava can be assembled and refrigerated for up to 24 hours before baking. Once baked and honey-soaked, do not refrigerate; cold temperatures cause crystallization and loss of texture. Light reheating in a slow oven (150°C, 5-10 minutes) can refresh the honey glaze if desired.
-

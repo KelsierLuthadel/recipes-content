@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 10 minutes
+---
+
 # Lamb Naga Phall
 
 ![Lamb Naga Phall](resources/BIR_Lamb-Naga-Phaal.jpg)

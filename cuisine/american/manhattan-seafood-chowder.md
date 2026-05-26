@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Manhattan Seafood Chowder
 
 ![Manhattan seafood chowder](resources/manhattan-chowder.png)

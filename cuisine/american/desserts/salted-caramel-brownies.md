@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 10 minutes for the caramel)
+cook: 32 minutes
+---
+
 # Salted Caramel Brownies
 
 ![Salted Caramel Brownies](resources/salted-caramel-brownies.jpg)

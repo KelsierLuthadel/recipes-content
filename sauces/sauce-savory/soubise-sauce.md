@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 25 minutes
+---
+
 # Soubise Sauce
 
 ![Soubise sauce](resources/soubise-sauce.png)

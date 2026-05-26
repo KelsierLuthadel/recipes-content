@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 20 minutes
+---
+
 # Arepas de Queso
 
 ![Arepas de Queso](resources/arepas-de-queso.jpg)

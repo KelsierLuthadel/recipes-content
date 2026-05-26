@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 1 minute
+---
+
 # Coffee Creme Caramel
 
 ![Coffee Creme Caramel](resources/coffee-creme-caramel.jpg)
@@ -60,4 +65,3 @@ Turn the crème caramel out onto a shallow bowl or plate, allowing the caramel s
 
 ## Storage
 Baked crème caramels keep refrigerated for up to 3 days in their moulds, covered with plastic film; the custard texture and caramel flavor actually improve as flavors integrate. Do not turn out until ready to serve, as the caramel coating begins to change texture after exposure to air. Serve at cold or room temperature; chilled provides maximum contrast.
-

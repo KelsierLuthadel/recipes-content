@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 30 minutes marinade)
+cook: 15 minutes
+---
+
 # Lahori Fried Fish
 
 ![Lahori Fried Fish](resources/lahori-fried-fish.jpg)

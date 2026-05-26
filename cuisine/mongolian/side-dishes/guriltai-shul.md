@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (mostly noodle making)
+cook: 1 hour 30 minutes
+---
+
 # Guriltai Shul
 
 ![Guriltai Shul](resources/guriltai-shul.jpg)

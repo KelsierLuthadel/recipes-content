@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 4 hours setting)
+cook: 15 minutes
+---
+
 # Halva
 
 ![Halva](resources/halva.jpg)

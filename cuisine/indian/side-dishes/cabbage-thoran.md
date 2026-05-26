@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Cabbage Thoran
 
 ![Cabbage Thoran](resources/cabbage-thoran.jpg)

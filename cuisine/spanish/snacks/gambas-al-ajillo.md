@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 5 minutes
+---
+
 # Gambas al Ajillo
 
 ![Gambas al Ajillo](resources/gambas-al-ajillo.jpg)

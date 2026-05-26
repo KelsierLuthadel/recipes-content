@@ -1,3 +1,8 @@
+---
+prep: 30 minutes (plus 4 hours marinating)
+cook: 1 hour 30 minutes
+---
+
 # Hyderabadi Mutton Biryani
 
 ![Hyderabadi Mutton Biryani](resources/hyderabadi-mutton-biryani.jpg)

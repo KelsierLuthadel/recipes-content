@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 2 ½ hours
+---
+
 # Steak and Kidney Pie
 
 ![Steak and Kidney Pie](resources/steak-and-kidney-pie.jpg)

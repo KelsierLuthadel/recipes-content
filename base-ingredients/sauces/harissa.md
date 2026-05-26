@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 8 minutes
+---
+
 # Harissa
 
 ![Harissa](resources/harissa.jpg)

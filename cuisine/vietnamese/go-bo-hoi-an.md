@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 5 minutes
+---
+
 # Go Bo Hoi an
 
 ![Go Bo Hoi An](resources/go-bo-hoi-an.jpg)

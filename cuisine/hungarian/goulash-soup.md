@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 90 minutes
+---
+
 # Gulyásleves (Goulash Soup)
 
 ![Gulyásleves](resources/goulash-soup.jpg)

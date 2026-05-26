@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 10 minutes
+---
+
 # Calzone Pollo Spinaci
 
 ![Calzone Pollo Spinaci](resources/pollo-calzone.jpg)

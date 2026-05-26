@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 30 minutes
+---
+
 # Palak Paneer
 
 ![Palak Paneer](resources/palak-paneer.jpg)

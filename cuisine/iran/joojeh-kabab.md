@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus 6 hours marinating)
+cook: 15 minutes
+---
+
 # Joojeh Kabab
 
 ![Joojeh Kabab](resources/joojeh-kabab.jpg)

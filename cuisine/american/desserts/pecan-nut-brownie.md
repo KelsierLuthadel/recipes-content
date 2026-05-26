@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 19 minutes
+---
+
 # Pecan Nut Brownies
 
 ![Pecan nut brownies](resources/pecan-nut-brownie.jpg)

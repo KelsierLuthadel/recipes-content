@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 25 minutes
+---
+
 # Kale and Chilli Calzone
 
 ![Kale and Chilli Calzone](resources/kale-chilli-calzone.jpg)

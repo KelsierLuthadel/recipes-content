@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 10 minutes
+---
+
 # Tempura Garlic Prawns
 
 ![Tempura Garlic Prawns](resources/tempura-garlic-prawn.jpg)

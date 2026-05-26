@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 1 hour 15 minutes
+---
+
 # Meatloaf
 
 ![Meatloaf](resources/meatloaf.jpg)

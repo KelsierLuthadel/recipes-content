@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 8 minutes
+---
+
 # Kung Pao Shrimp
 
 ![Kung Pao Shrimp](resources/kung-pao-shrimp.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 20 minutes
+cook: 45 minutes
+---
+
 # Cari Poulet Et Pomme de Terre
 
 ![Cari Poulet et Pomme de Terre](resources/cari-poulet-pomme-de-terre.jpg)

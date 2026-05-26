@@ -1,3 +1,8 @@
+---
+prep: 20 minutes (plus overnight salting and overnight cooling)
+cook: 2 hours
+---
+
 # Five-Spice Beef (Wuxiang Niurou)
 
 ![Five-Spice Beef (Wuxiang Niurou)](resources/five-spice-beef.jpg)

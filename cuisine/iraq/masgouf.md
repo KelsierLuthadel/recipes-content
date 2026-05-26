@@ -1,3 +1,8 @@
+---
+prep: 25 minutes (plus 1 hour marinating)
+cook: 35 minutes
+---
+
 # Masgouf
 
 ![Masgouf](resources/masgouf.jpg)

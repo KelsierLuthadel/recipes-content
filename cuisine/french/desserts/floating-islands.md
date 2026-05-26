@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 3 minutes
+---
+
 # Floating Islands with Rhubarb
 
 ![Floating islands](resources/floating-islands.jpg)
@@ -65,4 +70,3 @@ Divide the crème anglaise among shallow bowls and float a single poached mering
 
 ## Storage
 The meringues can be poached several hours ahead and kept on a clean tea towel, covered with plastic film in a cool location. The crème anglaise and rhubarb compote can be prepared the day before and refrigerated. Reheat the crème anglaise gently before plating. Assemble immediately before serving for best presentation and temperature contrast.
-

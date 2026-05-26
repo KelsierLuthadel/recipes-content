@@ -1,3 +1,7 @@
+---
+prep: 35 minutes
+---
+
 # Raw Cashew Paste
 
 ![Raw Cashew Paste](resources/raw-cashew-paste.jpg)

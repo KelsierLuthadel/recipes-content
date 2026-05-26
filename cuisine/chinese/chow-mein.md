@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 5 minutes
+---
+
 # Chow Mein
 
 ![Chow Mein](resources/chow-mein.jpg)

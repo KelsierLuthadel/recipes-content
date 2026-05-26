@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 46 minutes
+---
+
 # Boulangère Potatoes
 
 ![Boulangère potatoes](resources/boulangere.jpg)

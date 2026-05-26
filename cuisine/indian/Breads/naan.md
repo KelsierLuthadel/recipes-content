@@ -1,3 +1,8 @@
+---
+prep: 15 minutes (plus 2 hours proving)
+cook: 10 minutes
+---
+
 # Naan
 
 ![Naan](resources/naan.jpg)

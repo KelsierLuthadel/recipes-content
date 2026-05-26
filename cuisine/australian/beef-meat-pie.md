@@ -1,3 +1,8 @@
+---
+prep: 40 minutes (plus 30 minutes chilling)
+cook: 1 hour 30 minutes
+---
+
 # Beef Meat Pie
 
 ![Beef Meat Pie](resources/beef-meat-pie.jpg)

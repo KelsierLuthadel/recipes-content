@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Cucumber Raita
 
 ![Cucumber Raita](resources/raita.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 5 minutes
+cook: 1 minute
+---
+
 # Crêpes
 
 ![Crêpes](resources/crepes.jpg)
@@ -53,4 +58,4 @@ Cooled crépes stack beautifully on a plate and keep at room temperature, covere
 
 
 *Typically French, these classic crêpes can be filled with numerous delicious ingredients, ranging from lemon and sugar, to crème patissière and fruits. The choice is limited only by the imagination.*
-*The vanilla extract can be replaced by orange water or a little grated lemon zest.*
+*The vanilla extract can be replaced by orange water or a little grated lemon zest.*

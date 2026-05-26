@@ -1,3 +1,7 @@
+---
+prep: 10 minutes
+---
+
 # Baharat
 
 ![Baharat](resources/baharat.jpg)

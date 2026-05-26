@@ -1,3 +1,7 @@
+---
+prep: 15 minutes
+---
+
 # Malayan Curry Powder
 
 ![Malayan Curry Powder](resources/malayan-curry-powder.jpg)

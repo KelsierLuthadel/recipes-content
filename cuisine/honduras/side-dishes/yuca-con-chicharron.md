@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 1 hour 15 minutes
+---
+
 # Yuca Con Chicharrón
 
 ![Yuca con Chicharrón](resources/yuca-con-chicharron.jpg)

@@ -1,3 +1,8 @@
+---
+prep: 15 minutes
+cook: 0 minutes
+---
+
 # Israeli Salad
 
 ![Israeli Salad](resources/israeli-salad.jpg)

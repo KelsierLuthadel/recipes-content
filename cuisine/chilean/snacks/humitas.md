@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 50 minutes
+---
+
 # Humitas
 
 ![Humitas](resources/humitas.jpg)

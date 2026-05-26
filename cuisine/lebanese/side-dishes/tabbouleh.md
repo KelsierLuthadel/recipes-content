@@ -1,3 +1,8 @@
+---
+prep: 30 minutes
+cook: 0 minutes
+---
+
 # Tabbouleh
 
 ![Tabbouleh](resources/tabbouleh.jpg)

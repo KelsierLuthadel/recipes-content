@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 15 minutes
+---
+
 # Tortang Talong
 
 ![Tortang Talong](resources/tortang-talong.jpg)

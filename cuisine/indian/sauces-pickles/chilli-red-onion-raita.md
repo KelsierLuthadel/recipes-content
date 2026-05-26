@@ -1,3 +1,8 @@
+---
+prep: 10 minutes
+cook: 2 minutes
+---
+
 # Chilli and Red Onion Raita
 
 ![Chilli and Red Onion Raita](resources/redonionraita.jpg)
