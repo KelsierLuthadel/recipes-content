@@ -1,0 +1,95 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - yogurt
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    name: to 4 tbsp oil
+    raw: 3 to 4 tbsp oil
+  - qty: 0.5
+    unit: tsp
+    name: cumin seeds
+    raw: 0.5 tsp cumin seeds
+  - qty: 0.5
+    unit: tsp
+    name: coriander seeds
+    raw: 0.5 tsp coriander seeds, crushed
+  - qty: 0.25
+    unit: tsp
+    name: fenugreek seeds
+    raw: 0.25 tsp fenugreek seeds
+  - qty: 1
+    name: star anise
+    raw: 1 star anise
+  - qty: 1
+    name: asian bay leaf
+    raw: 1 large Asian bay leaf , optional
+  - qty: 0.5
+    unit: tsp
+    name: fennel seeds
+    raw: 0.5 tsp fennel seeds, optional
+  - qty: 75
+    unit: g
+    name: onion
+    raw: 75 g onion, finely chopped
+  - qty: 1.5
+    unit: tsp
+    name: ginger-garlic paste
+    raw: 1.5 tsp ginger-garlic paste
+  - qty: 1
+    unit: tsp
+    name: mix powder
+    raw: 1 tsp Mix Powder
+  - qty: 0.25
+    name: to 0.5 tsp salt
+    raw: 0.25 to 0.5 tsp salt
+  - qty: 0.25
+    name: to 0.5 tsp chilli powder
+    raw: 0.25 to 0.5 tsp chilli powder
+  - qty: 3
+    name: to 4 tbsp fresh fenugreek leaves
+    raw: 3 to 4 tbsp fresh fenugreek leaves , finely chopped
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tbsp tomato paste
+  - qty: 1
+    unit: tbsp
+    name: coriander stalks
+    raw: 1 tbsp finely chopped fresh coriander stalks
+  - qty: 200
+    unit: g
+    name: pre-cooked chicken
+    raw: 200 g Pre-Cooked Chicken
+  - qty: 330
+    name: ml+ curry base gravy
+    raw: 330 ml+ Curry Base Gravy, heated through
+  - qty: 2
+    unit: tbsp
+    name: natural yoghurt
+    raw: 2 tbsp natural yoghurt
+  - qty: 1
+    unit: tbsp
+    name: coriander leaves
+    raw: 1 tbsp finely chopped fresh coriander leaves
+  - name: fenugreek leaves
+    raw: a few extra fenugreek leaves, to garnish

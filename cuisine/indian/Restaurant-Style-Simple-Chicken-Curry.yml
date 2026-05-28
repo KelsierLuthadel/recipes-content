@@ -1,0 +1,89 @@
+prep: 10 minutes
+cook: 40 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - one-pan
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - cuisine/chinese/fried-rice
+  - cuisine/indian/BIR-chicken-curry
+  - cuisine/indian/Restaurant-Style-Special-Fried-Rice
+  - cuisine/indian/Spice-Mixes/base-curry-powder
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    name: to 4 tbsp vegetable
+    raw: 3 to 4 tbsp vegetable, sunflower, or olive oil
+  - qty: 1
+    name: or 2 medium onions
+    raw: 1 large or 2 medium onions, very finely chopped
+  - qty: 2
+    unit: tsp
+    name: cumin seeds
+    raw: 2 tsp cumin seeds
+  - name: salt
+    raw: salt, to taste
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves, finely chopped
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 tsp ground ginger, or an equivalent piece of finely chopped fresh ginger
+  - qty: 1.5
+    unit: tsp
+    name: cumin
+    raw: 1.5 tsp ground cumin
+  - qty: 1.5
+    unit: tbsp
+    name: curry powder of your choice — see curry powder
+    raw: 1.5 tbsp curry powder of your choice — see Curry Powder, Madrass Mix, Base Curry Powder, or a shop-bought blend
+  - qty: 2
+    name: to 3 tsp chilli powder
+    raw: 2 to 3 tsp chilli powder, to taste
+  - qty: 1.5
+    unit: tsp
+    name: kasuri methi
+    raw: 1.5 tsp kasuri methi , optional
+  - qty: 3
+    name: to 4 tbsp tomato puree
+    raw: 3 to 4 tbsp tomato purée, or 1 tin of chopped tomatoes , or 400 g passata
+  - qty: 1
+    name: to 2+ mugs of hot water or stock
+    raw: 1 to 2+ mugs of hot water or stock
+  - name: chillies
+    raw: a few fresh chillies, finely chopped
+  - qty: 2
+    name: to 3 tsp lemon juice
+    raw: 2 to 3 tsp lemon juice
+  - qty: 150
+    unit: g
+    name: chicken breast or thigh per person
+    raw: 150 g boneless chicken breast or thigh per person, chopped to your preferred size
+  - name: pre-cooked vegetables of choice
+    raw: pre-cooked vegetables of choice
+  - qty: 1
+    unit: pinch
+    name: coriander
+    raw: a pinch of fresh coriander
+  - qty: 1
+    unit: pinch
+    name: garam masala
+    raw: a pinch of Garam Masala

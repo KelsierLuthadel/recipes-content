@@ -1,0 +1,133 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - one-pan
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - lamb
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - butter
+  - yogurt
+  - complex
+mentions:
+  - cuisine/chinese/fried-rice
+  - cuisine/indian/Restaurant-Style-Special-Fried-Rice
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: oil
+    raw: 3 tbsp oil
+  - qty: 10
+    name: cassia bark
+    raw: 10 cm cassia bark
+  - qty: 1
+    name: tej patta
+    raw: 1 tej patta , optional
+  - qty: 0.5
+    unit: tsp
+    name: fennel seeds
+    raw: 0.5 tsp fennel seeds
+  - name: seeds from 0.5 to 1 black cardamom pods
+    raw: seeds from 0.5 to 1 black cardamom pods
+  - qty: 0.5
+    name: onion
+    raw: 0.5 medium onion , halved lengthwise and finely sliced
+  - qty: 0.25
+    name: to 0.5 red pepper
+    raw: 0.25 to 0.5 red pepper , cut into 2 to 3 cm squares
+  - qty: 1.5
+    unit: tsp
+    name: ginger-garlic paste
+    raw: 1.5 tsp ginger-garlic paste
+  - qty: 0.5
+    unit: tsp
+    name: cumin seeds
+    raw: 0.5 tsp cumin seeds
+  - qty: 0.5
+    unit: tsp
+    name: coriander seeds
+    raw: 0.5 tsp coriander seeds
+  - qty: 1.5
+    unit: tsp
+    name: mix powder
+    raw: 1.5 tsp Mix Powder
+  - qty: 2
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 2 tsp Kashmiri chilli powder
+  - qty: 0.5
+    unit: tsp
+    name: tandoori masala
+    raw: 0.5 tsp Tandoori Masala
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 0.25
+    name: to 0.5 tsp salt
+    raw: 0.25 to 0.5 tsp salt
+  - qty: 1
+    unit: pinch
+    name: black pepper
+    raw: a pinch of freshly ground black pepper
+  - qty: 1
+    unit: tsp
+    name: kasuri methi
+    raw: 1 tsp kasuri methi
+  - qty: 4
+    name: to 5 tbsp tomato paste
+    raw: 4 to 5 tbsp tomato paste
+  - qty: 1.5
+    unit: tbsp
+    name: coriander stalks
+    raw: 1.5 tbsp finely chopped fresh coriander stalks
+  - qty: 370
+    name: ml+ curry base gravy
+    raw: 370 ml+ Curry Base Gravy, heated through
+  - qty: 200
+    unit: g
+    name: pre-cooked lamb
+    raw: 200 g Pre-Cooked Lamb, Pre-Cooked Chicken, chicken tikka, prawns, or vegetables
+  - qty: 2
+    unit: tbsp
+    name: natural yoghurt
+    raw: 2 tbsp natural yoghurt
+  - qty: 1
+    unit: tbsp
+    name: ghee
+    raw: 1 tbsp ghee
+  - qty: 6
+    name: cherry tomatoes
+    raw: 6 whole cherry tomatoes
+  - qty: 1.5
+    unit: tbsp
+    name: coriander leaves
+    raw: 1.5 tbsp finely chopped fresh coriander leaves
+  - qty: 0.25
+    unit: tsp
+    name: garam masala
+    raw: 0.25 tsp Garam Masala
+  - name: about 40 ml extra base gravy
+    raw: about 40 ml extra base gravy
+  - qty: 1
+    unit: splash
+    name: water for deglazing
+    raw: a splash of water for deglazing

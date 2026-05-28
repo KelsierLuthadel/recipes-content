@@ -1,0 +1,83 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - lamb
+  - lentils
+  - garlic
+  - ginger
+  - lemon
+  - lime
+  - coriander
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: oil
+    raw: 3 tbsp oil
+  - qty: 2
+    name: to 3 tsp ginger-garlic paste
+    raw: 2 to 3 tsp ginger-garlic paste
+  - qty: 2
+    name: green cardamom pods
+    raw: 2 green cardamom pods, split
+  - qty: 1
+    unit: tsp
+    name: kasuri methi
+    raw: 1 tsp kasuri methi
+  - qty: 1.25
+    unit: tsp
+    name: mix powder
+    raw: 1.25 tsp Mix Powder
+  - qty: 0.25
+    name: to 0.5 tsp chilli powder
+    raw: 0.25 to 0.5 tsp chilli powder
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: 0.25 tsp salt
+  - qty: 4
+    name: to 5 tbsp tomato paste
+    raw: 4 to 5 tbsp tomato paste
+  - qty: 200
+    unit: g
+    name: pre-cooked chicken
+    raw: 200 g Pre-Cooked Chicken, chicken tikka, Pre-Cooked Lamb, or vegetables
+  - qty: 330
+    name: ml+ curry base gravy
+    raw: 330 ml+ Curry Base Gravy, heated through
+  - qty: 6
+    name: to 9 tbsp pre-cooked dhal
+    raw: 6 to 9 tbsp pre-cooked dhal
+  - qty: 1
+    unit: tbsp
+    name: jaggery
+    raw: 1 tbsp jaggery, brown sugar, or white sugar
+  - qty: 2
+    unit: tsp
+    name: lime juice
+    raw: 2 tsp lime juice
+  - qty: 6
+    name: chunks pineapple
+    raw: 6 chunks pineapple
+  - qty: 2
+    unit: tsp
+    name: ghee
+    raw: 2 tsp ghee
+  - qty: 1
+    unit: tbsp
+    name: coriander leaves
+    raw: 1 tbsp finely chopped fresh coriander leaves, to garnish

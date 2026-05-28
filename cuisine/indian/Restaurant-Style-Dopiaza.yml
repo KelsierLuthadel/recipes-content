@@ -1,0 +1,95 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 75
+    unit: g
+    name: onion
+    raw: 75 g onion, very finely chopped
+  - qty: 75
+    name: to 100 g onion
+    raw: 75 to 100 g onion, cut into 3 cm segments with layers separated
+  - qty: 40
+    name: to 50 g red pepper
+    raw: 40 to 50 g red pepper, cut into 1 to 2 cm chunks
+  - qty: 0.5
+    unit: tsp
+    name: kasuri methi
+    raw: 0.5 tsp kasuri methi
+  - qty: 1
+    unit: tiny pinch
+    name: salt
+    raw: a tiny pinch of salt
+  - qty: 2
+    unit: tsp
+    name: oil
+    raw: 2 tsp oil
+  - qty: 4
+    unit: tbsp
+    name: oil — the remainder after the scorch
+    raw: 4 tbsp oil — the remainder after the scorch
+  - qty: 1.5
+    unit: tsp
+    name: ginger-garlic paste
+    raw: 1.5 tsp ginger-garlic paste
+  - qty: 1.25
+    unit: tsp
+    name: mix powder
+    raw: 1.25 tsp Mix Powder
+  - qty: 0.25
+    unit: tsp
+    name: chilli powder
+    raw: 0.25 tsp chilli powder
+  - qty: 0.25
+    name: to 0.5 tsp salt
+    raw: 0.25 to 0.5 tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: kasuri methi
+    raw: 0.5 tsp kasuri methi
+  - qty: 4
+    unit: tbsp
+    name: tomato paste
+    raw: 4 tbsp tomato paste
+  - qty: 200
+    unit: g
+    name: pre-cooked chicken
+    raw: 200 g Pre-Cooked Chicken, chicken tikka, or Pre-Cooked Lamb
+  - qty: 1
+    unit: tbsp
+    name: coriander stalks
+    raw: 1 tbsp finely chopped fresh coriander stalks
+  - qty: 330
+    name: ml+ curry base gravy
+    raw: 330 ml+ Curry Base Gravy, heated through
+  - qty: 3
+    name: to 4 splashes worcestershire sauce
+    raw: 3 to 4 splashes Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: onion paste / bunjarra
+    raw: 1 tbsp onion paste / bunjarra
+  - qty: 1
+    unit: tbsp
+    name: coriander leaves
+    raw: 1 tbsp finely chopped fresh coriander leaves, to garnish

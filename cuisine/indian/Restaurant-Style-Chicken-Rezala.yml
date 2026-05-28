@@ -1,0 +1,106 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - yogurt
+  - nuts
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 15
+    name: unsalted cashew nuts
+    raw: 15 unsalted cashew nuts
+  - qty: 0.5
+    unit: tsp
+    name: poppy seeds
+    raw: 0.5 tsp poppy seeds
+  - qty: 0.25
+    name: to 0.5 tsp ground white pepper
+    raw: 0.25 to 0.5 tsp ground white pepper
+  - qty: 75
+    unit: ml
+    name: natural yoghurt
+    raw: 75 ml natural yoghurt
+  - qty: 1
+    name: to 2 fresh green chillies
+    raw: 1 to 2 fresh green chillies
+  - qty: 3
+    unit: tbsp
+    name: oil
+    raw: 3 tbsp oil
+  - qty: 3
+    name: black peppercorns
+    raw: 3 black peppercorns
+  - qty: 5
+    name: to 10 cm cassia bark
+    raw: 5 to 10 cm cassia bark
+  - qty: 0.5
+    unit: tsp
+    name: cumin seeds
+    raw: 0.5 tsp cumin seeds
+  - qty: 2
+    name: cloves
+    raw: 2 cloves
+  - qty: 3
+    name: green cardamom pods
+    raw: 3 green cardamom pods, split
+  - qty: 75
+    unit: g
+    name: onion
+    raw: 75 g onion, cut into thin semi-circular slices
+  - qty: 2
+    unit: tsp
+    name: ginger-garlic paste
+    raw: 2 tsp ginger-garlic paste
+  - qty: 1
+    unit: tsp
+    name: mix powder
+    raw: 1 tsp Mix Powder
+  - qty: 0.5
+    unit: tsp
+    name: garam masala
+    raw: 0.5 tsp Garam Masala
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: 0.5 tsp salt
+  - qty: 0.75
+    name: to 1 tsp sugar
+    raw: 0.75 to 1 tsp sugar
+  - qty: 0.5
+    unit: tsp
+    name: chilli powder
+    raw: 0.5 tsp chilli powder
+  - qty: 50
+    name: to 200 g chicken
+    raw: 50 to 200 g chicken
+  - qty: 240
+    name: ml+ curry base gravy
+    raw: 240 ml+ Curry Base Gravy, heated through
+  - qty: 1
+    unit: small pinch
+    name: saffron
+    raw: a small pinch of saffron
+  - qty: 1
+    unit: tsp
+    name: kewra water or rose water
+    raw: 1 tsp kewra water or rose water
+  - name: toasted cashew nuts
+    raw: a few toasted cashew nuts, to garnish

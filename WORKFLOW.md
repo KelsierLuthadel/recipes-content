@@ -40,7 +40,9 @@ The `.yml` sidecar isn't used by the build itself — the build reads the `.md` 
 
 ## Adding a recipe
 
-1. **Pick the folder.** Recipes live under a folder that matches their category. See [`README.md`](README.md) and [`documentation/AUTHORING.md`](documentation/AUTHORING.md) for the folder-to-tag conventions (e.g. `cuisine/indian/desserts/` → recipe gets the `dessert` tag).
+### What you do
+
+1. **Pick the folder.** Recipes live under a folder matching their category. See [`README.md`](README.md) and [`documentation/AUTHORING.md`](documentation/AUTHORING.md) for the folder-to-tag conventions (e.g. `cuisine/indian/desserts/` → recipe gets the `dessert` tag).
 
 2. **Create `<slug>.md`** following the template in [`documentation/RECIPE_TEMPLATE.md`](documentation/RECIPE_TEMPLATE.md):
 
@@ -73,40 +75,180 @@ The `.yml` sidecar isn't used by the build itself — the build reads the `.md` 
    - Optional: rest the dough for 30 minutes for a softer texture.
    ```
 
-3. **Add the image** to `resources/<slug>.jpg` next to the `.md` file (and a 400 px crop at `resources/thumbs/<slug>.jpg` — the build's image-fetch script can generate this if you have an original).
+3. **Add the image** (see [Adding an image to a recipe](#adding-an-image-to-a-recipe) below for the full image workflow).
 
-4. **Run the build** in `recipes-ui-next/`:
+4. **Run the build** from `recipes-ui-next/`:
 
    ```sh
    npm run build-manifest
    ```
 
-   This:
-   - Reads your new `.md`
-   - Builds `static/recipes.json` (the runtime manifest)
-   - Writes `<slug>.yml` next to your new `.md` with the derived structured data
+5. **Commit** `<slug>.md` + `<slug>.yml` + image assets together.
 
-   You **don't** need to create `<slug>.yml` yourself.
+### What the build does
 
-5. **Commit both files together**: `<slug>.md` + `<slug>.yml` + image assets. Reviewers see the recipe prose and the structured snapshot in one PR.
+- **Reads `<slug>.md`.** The body is the only source of truth.
+- **Extracts structured fields**: title, overview, serves, prep/cook/total time, ingredients block, method.
+- **Derives** allergens (regex scan of the ingredient block), tags (folder path + body keywords + festival map), protein, mentions (cross-recipe title matches in the body), and the canonical category path.
+- **Parses each ingredient line** into `{ qty, unit, name }` triples for the shopping page (lands in `static/recipe-extras.json`).
+- **Writes `static/recipes.json`** (the runtime manifest the SvelteKit app fetches).
+- **Writes `<slug>.yml`** next to the `.md` with the derived snapshot. You don't author this file; it's regenerated every build.
+- **Picks up the hero image + thumb** if they exist at the expected paths; the manifest stores their paths as relative references and the UI prefixes `rawBase` (raw.githubusercontent.com) at render time.
+- **Attaches the BlurHash** from `scripts/image-blurhashes.json` if there's an entry for this slug. See image tutorials below for how to generate one.
 
 ---
 
 ## Updating a recipe
 
-1. **Edit `<slug>.md` only.** All structured data (allergens, tags, prep time, ingredients) is derived from the body, so changing a `**Prep Time:**` line or an ingredient bullet automatically flows through.
+### What you do
 
-2. **Run the build:**
+1. **Edit `<slug>.md` only.** Don't touch `<slug>.yml`. Every structured field (allergens, tags, prep/cook times, ingredient list, mentions) is derived from the body, so editing a `**Prep Time:**` line or an ingredient bullet flows through automatically.
+
+2. **Run the build** from `recipes-ui-next/`:
 
    ```sh
    npm run build-manifest
    ```
 
-   The build re-derives everything from the new `.md`, writes the new `static/recipes.json`, and regenerates `<slug>.yml` if its derived form changed.
+3. **Commit `<slug>.md` + `<slug>.yml` together.** Any body change that affects structured data also changes the `.yml`; the two should always travel as one diff.
 
-3. **Commit both files together.** If the body change touched anything that affects the structured data (it usually does), the `.yml` will be in the diff alongside.
+> **Don't hand-edit `<slug>.yml`.** Any manual change is overwritten on the next `npm run build-manifest`. If you want to change a derived field, change the body line that produces it.
 
-> **Don't edit `.yml` directly.** Any hand-edit is overwritten on the next `npm run build-manifest` run. If you want to change a field that's currently derived from the body, change the body line that produces it.
+### What the build does
+
+- **Re-derives** every structured field from the new `.md`. Same passes as for a fresh recipe.
+- **Diff-aware sidecar write**: the regen script reads the current `<slug>.yml` on disk and only rewrites it when the derived content actually changed. Re-running the build on an unchanged repo is a no-op in git.
+- **Cascading mentions**: if you changed the title or removed a recipe, other recipes' `mentions:` arrays update on this build. You may see unrelated `.yml` files in the diff; that's the cascade, not stray edits.
+- **`npm run check:sync`** runs the same pipeline in dry-run mode and exits non-zero if any `.yml` would change. Use it as a CI gate or pre-commit hook to catch "forgot to rebuild".
+
+---
+
+## Adding an image to a recipe
+
+A new recipe needs three image artefacts:
+
+| Path | Size | Purpose |
+|---|---|---|
+| `recipes-content/<dir>/resources/<slug>.jpg` | full-size hero | recipe page header |
+| `recipes-content/<dir>/resources/thumbs/<slug>.jpg` | 400 px wide | grid card thumbnails |
+| `recipes-ui-next/scripts/image-blurhashes.json` entry | 28-char string | placeholder while the real image loads |
+
+### What you do
+
+1. **Source the image.** Drop your own file at `recipes-content/<dir>/resources/<slug>.jpg`, or fetch from Unsplash:
+
+   ```sh
+   # From recipes-content/. --filter scopes the fetch to one recipe.
+   UNSPLASH_ACCESS_KEY=xxxx node scripts/fetch-images.mjs --apply --filter <slug>
+   ```
+
+   The file MUST be at `<recipe-dir>/resources/<slug>.jpg` where `<slug>` matches the recipe's `.md` filename. The build derives the image path from the body's `![](resources/...)` link, so filenames must agree.
+
+2. **Add the markdown link** in `<slug>.md`, two lines below the H1:
+
+   ```markdown
+   # Recipe Title
+
+   ![Recipe Title](resources/slug.jpg)
+
+   *Italic byline...*
+   ```
+
+   `fetch-images.mjs --apply` does this insertion automatically; manual drops need the link added by hand.
+
+3. **Generate the thumbnail** from `recipes-content/`:
+
+   ```sh
+   python scripts/generate-thumbs.py
+   ```
+
+   Walks every `resources/*.jpg` and writes a 400 px-wide JPEG into the sibling `resources/thumbs/`. Skips up-to-date thumbs, so re-running is cheap. Scope to one directory with `--dir cuisine/indian/desserts`.
+
+4. **Generate the BlurHash entry.** This script lives in the legacy vanilla repo and is the one cross-repo step:
+
+   ```sh
+   # Run from recipes-ui/, not recipes-ui-next/.
+   cd recipes-ui
+   python scripts/extract-blurhashes.py --out ../recipes-ui-next/scripts/image-blurhashes.json
+   ```
+
+   The `--out` path is relative to your current working directory; the example above writes straight into the next-build location. Re-running is incremental: only new slugs get encoded unless you pass `--force`.
+
+5. **Run the build** from `recipes-ui-next/`:
+
+   ```sh
+   npm run build-manifest
+   ```
+
+6. **Commit** the new hero, the new `thumbs/<slug>.jpg`, the updated `image-blurhashes.json`, the body change with the `![](...)` link, and the regenerated `.yml`.
+
+### What the build does
+
+- **Resolves the image path** from the body's `![](resources/...)` link and stores it on `recipe.image` in the manifest.
+- **Auto-points `recipe.thumb`** at `<dir>/resources/thumbs/<stem>.jpg` whenever that file exists on disk. If the thumb is missing the field stays unset and the UI falls back to the full image (slower first paint, no broken-image icon).
+- **Attaches the BlurHash** from `scripts/image-blurhashes.json` if there's an entry for this slug. The UI decodes it into a tiny canvas-rendered placeholder so cards paint the moment the HTML loads, well before the real image arrives.
+- **Does not fetch, resize, or compress images.** All three image scripts are manual, content-side operations. The build only references files that already exist.
+- **Does not touch IMAGE_CREDITS.** The Unsplash fetcher used to write an attribution file; that step is disabled by convention. Credit is curated by hand after a fetch run.
+
+---
+
+## Updating a recipe image
+
+You're replacing a hero with a better one (different source, better crop, higher resolution).
+
+### What you do
+
+1. **Swap the source image.** Two paths:
+
+   - **From Unsplash, automatic:**
+     ```sh
+     # From recipes-content/. Moves the old file into a sibling old/ folder
+     # (preserving filename) and downloads the top match into the original path.
+     UNSPLASH_ACCESS_KEY=xxxx node scripts/refresh-image.mjs "<recipe title substring>"
+     UNSPLASH_ACCESS_KEY=xxxx node scripts/refresh-image.mjs "<title>" --query "<custom search>"
+     ```
+     Bulk: `--dir cuisine/chinese` walks every `.md` under the directory.
+
+   - **Manual replace:**
+     ```sh
+     mv <dir>/resources/<slug>.jpg <dir>/resources/old/<slug>.jpg
+     cp ~/Downloads/new-shot.jpg <dir>/resources/<slug>.jpg
+     ```
+
+   The filename stays the same so the existing `![](...)` link still resolves; no body edit needed.
+
+2. **Regenerate the thumb** from `recipes-content/`:
+
+   ```sh
+   python scripts/generate-thumbs.py --force --dir <dir>/<that-recipe-folder>
+   ```
+
+   `--force` is necessary because the script otherwise skips thumbs newer than the source mtime. `--dir` keeps the rebuild scoped so unrelated thumbs stay untouched.
+
+3. **Regenerate the BlurHash** for the changed image:
+
+   ```sh
+   # From recipes-ui/.
+   python scripts/extract-blurhashes.py --force --out ../recipes-ui-next/scripts/image-blurhashes.json
+   ```
+
+   `--force` rebuilds every entry. For a single-slug refresh you can hand-edit `image-blurhashes.json` to delete the changed slug's row, then re-run without `--force` (only missing slugs get re-encoded).
+
+4. **Run the build** from `recipes-ui-next/`:
+
+   ```sh
+   npm run build-manifest
+   ```
+
+5. **Commit** the new hero, the regenerated thumb, and the updated `image-blurhashes.json` entry. The `.md` and `.yml` usually stay unchanged (filename unchanged, derived data unchanged).
+
+### What the build does
+
+- **No detection of an image change**, by design. The build references whatever file sits at `<dir>/resources/<slug>.jpg` at build time. Filename unchanged = manifest entry unchanged.
+- **Re-picks up the updated thumb + BlurHash** because both are read fresh from the content repo and the JSON file on every build.
+- **Cloudflare cache rotation**: the deployed image URL is `<rawBase><dir>/resources/<slug>.jpg`. Cloudflare's edge caches it; the new commit hash in `rawBase` invalidates the cached path on the next deploy, so users see the new image without a hard refresh.
+
+> If you change the image's **filename** (not just its bytes), edit the markdown `![](resources/...)` link to match and re-run the build. The manifest's `image` / `thumb` fields are derived from whatever filename the body points at; a renamed file with a stale link produces a broken-image placeholder.
 
 ---
 

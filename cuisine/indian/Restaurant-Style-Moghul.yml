@@ -1,0 +1,111 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - lamb
+  - eggs
+  - garlic
+  - ginger
+  - lemon
+  - lime
+  - coriander
+  - cream
+  - curry
+  - complex
+mentions:
+  - cuisine/chinese/fried-rice
+  - cuisine/indian/Restaurant-Style-Special-Fried-Rice
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: oil
+    raw: 3 tbsp oil, ghee, or a mix
+  - qty: 8
+    name: cassia bark
+    raw: 8 cm cassia bark
+  - qty: 2
+    name: cloves
+    raw: 2 cloves
+  - qty: 2
+    name: green cardamom pods
+    raw: 2 green cardamom pods, split
+  - qty: 70
+    unit: g
+    name: red pepper
+    raw: 70 g red pepper, finely diced
+  - qty: 1.5
+    unit: tsp
+    name: garlic
+    raw: 1.5 tsp garlic, very finely chopped
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 tsp ginger, very finely chopped
+  - qty: 1
+    unit: tsp
+    name: kasuri methi
+    raw: 1 tsp kasuri methi
+  - qty: 1
+    unit: tsp
+    name: mix powder
+    raw: 1 tsp Mix Powder
+  - qty: 0.25
+    unit: tsp
+    name: turmeric
+    raw: 0.25 tsp turmeric
+  - qty: 0.25
+    name: to 0.5 tsp chilli powder
+    raw: 0.25 to 0.5 tsp chilli powder
+  - qty: 0.25
+    name: to 0.5 tsp salt
+    raw: 0.25 to 0.5 tsp salt
+  - qty: 3
+    unit: tbsp
+    name: almonds
+    raw: 3 tbsp ground almonds
+  - qty: 2
+    name: to 3 tsp white sugar
+    raw: 2 to 3 tsp white sugar
+  - qty: 300
+    name: ml+ curry base gravy
+    raw: 300 ml+ Curry Base Gravy, heated through
+  - qty: 200
+    unit: g
+    name: pre-cooked chicken
+    raw: 200 g Pre-Cooked Chicken, Pre-Cooked Lamb, or other main
+  - name: worcestershire sauce
+    raw: a few splashes Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: lemon or lime juice
+    raw: 1 tsp lemon or lime juice
+  - qty: 10
+    name: to 15 sultanas
+    raw: 10 to 15 sultanas
+  - qty: 100
+    name: to 125 ml single cream
+    raw: 100 to 125 ml single cream, plus extra for garnish
+  - qty: 1
+    name: to 2 tsp ghee
+    raw: 1 to 2 tsp ghee
+  - qty: 1
+    unit: small pinch
+    name: garam masala
+    raw: a small pinch of Garam Masala
+  - name: coriander
+    raw: fresh coriander, finely chopped
+  - name: half a hard-boiled egg
+    raw: half a hard-boiled egg

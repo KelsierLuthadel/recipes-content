@@ -1,0 +1,106 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - lamb
+  - prawn
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - lime
+  - coriander
+  - butter
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: oil or ghee — butter ghee or vegetable ghee in part rounds the flavour
+    raw: 4 tbsp oil or ghee — butter ghee or vegetable ghee in part rounds the flavour
+  - qty: 10
+    name: cassia bark
+    raw: 10 cm cassia bark
+  - name: seeds from 3 green cardamom pods
+    raw: seeds from 3 green cardamom pods
+  - qty: 1
+    name: star anise
+    raw: 1 star anise, or 1 tsp fennel seeds
+  - qty: 75
+    unit: g
+    name: onion
+    raw: 75 g onion, thickly sliced
+  - qty: 75
+    unit: g
+    name: green pepper
+    raw: 75 g green pepper, cut into small triangles
+  - qty: 1.5
+    unit: tsp
+    name: ginger-garlic paste
+    raw: 1.5 tsp ginger-garlic paste
+  - qty: 1.25
+    unit: tbsp
+    name: ginger
+    raw: 1.25 tbsp fresh ginger, peeled and cut into 0.5 cm cubes
+  - qty: 1
+    unit: tsp
+    name: kasuri methi
+    raw: 1 tsp kasuri methi
+  - qty: 1.25
+    unit: tsp
+    name: mix powder
+    raw: 1.25 tsp Mix Powder
+  - qty: 0.75
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 0.75 tsp Kashmiri chilli powder
+  - qty: 1
+    unit: pinch
+    name: garam masala
+    raw: a pinch of Garam Masala
+  - qty: 0.25
+    name: to 0.5 tsp salt
+    raw: 0.25 to 0.5 tsp salt
+  - qty: 5
+    name: to 6 tbsp tomato paste
+    raw: 5 to 6 tbsp tomato paste
+  - qty: 1
+    name: to 2 tbsp finely chopped fresh coriander stalks
+    raw: 1 to 2 tbsp finely chopped fresh coriander stalks
+  - qty: 200
+    unit: g
+    name: pre-cooked chicken
+    raw: 200 g Pre-Cooked Chicken, Pre-Cooked Lamb, prawns, or vegetables
+  - qty: 330
+    name: ml+ curry base gravy
+    raw: 330 ml+ Curry Base Gravy, heated through
+  - qty: 80
+    unit: g
+    name: pineapple chunks
+    raw: 80 g pineapple chunks
+  - qty: 1.25
+    unit: tsp
+    name: lemon or lime juice
+    raw: 1.25 tsp lemon or lime juice
+  - qty: 2
+    name: to 3 tsp mango chutney
+    raw: 2 to 3 tsp mango chutney
+  - name: coriander leaves
+    raw: finely chopped fresh coriander leaves, to garnish
+  - name: the reserved ginger cubes
+    raw: the reserved ginger cubes, to garnish

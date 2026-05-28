@@ -1,0 +1,108 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - beef
+  - lamb
+  - prawn
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - complex
+mentions:
+  - cuisine/chinese/fried-rice
+  - cuisine/indian/Restaurant-Style-Special-Fried-Rice
+  - sauces/sauce-fish/tamarind-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: oil
+    raw: 4 tbsp oil
+  - qty: 10
+    name: cassia bark
+    raw: 10 cm cassia bark
+  - qty: 1
+    name: tej patta
+    raw: 1 tej patta , optional
+  - qty: 60
+    name: to 80 g onion
+    raw: 60 to 80 g onion, very finely chopped
+  - qty: 2
+    unit: tsp
+    name: ginger-garlic paste
+    raw: 2 tsp ginger-garlic paste
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 tsp chilli powder
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 tsp Kashmiri chilli powder
+  - qty: 1.5
+    unit: tsp
+    name: mix powder
+    raw: 1.5 tsp Mix Powder
+  - qty: 0.25
+    unit: tsp
+    name: smoked paprika
+    raw: 0.25 tsp smoked paprika
+  - qty: 0.25
+    name: to 0.5 tsp salt
+    raw: 0.25 to 0.5 tsp salt
+  - qty: 1
+    unit: tsp
+    name: kasuri methi
+    raw: 1 tsp kasuri methi
+  - qty: 5
+    name: to 6 tbsp tomato paste
+    raw: 5 to 6 tbsp tomato paste
+  - qty: 1
+    unit: tbsp
+    name: coriander stalks
+    raw: 1 tbsp finely chopped fresh coriander stalks
+  - qty: 330
+    name: ml+ curry base gravy
+    raw: 330 ml+ Curry Base Gravy, heated through
+  - qty: 200
+    unit: g
+    name: prawns or pre-cooked chicken
+    raw: 200 g prawns or Pre-Cooked Chicken, Pre-Cooked Lamb, or beef
+  - qty: 1.5
+    unit: tsp
+    name: mango chutney
+    raw: 1.5 tsp mango chutney
+  - qty: 1.5
+    unit: tsp
+    name: jaggery or brown sugar
+    raw: 1.5 tsp jaggery or brown sugar
+  - qty: 1.5
+    unit: tsp
+    name: lemon juice
+    raw: 1.5 tsp lemon juice, freshly squeezed
+  - qty: 2
+    unit: tsp
+    name: tamarind sauce
+    raw: 2 tsp tamarind sauce, or 0.5 tsp tamarind concentrate
+  - name: worcestershire sauce
+    raw: a few splashes Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: coriander leaves
+    raw: 1 tbsp finely chopped fresh coriander leaves, to garnish

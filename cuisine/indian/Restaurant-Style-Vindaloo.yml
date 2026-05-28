@@ -1,0 +1,97 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - fish
+  - chicken
+  - beef
+  - lamb
+  - prawn
+  - garlic
+  - ginger
+  - coriander
+  - complex
+mentions:
+  - cuisine/indian/BIR-Chicken-Vindaloo
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: oil
+    raw: 4 tbsp oil
+  - qty: 1
+    name: star anise
+    raw: 1 whole star anise
+  - qty: 2
+    unit: tsp
+    name: ginger-garlic paste
+    raw: 2 tsp ginger-garlic paste
+  - qty: 1.25
+    unit: tsp
+    name: mix powder
+    raw: 1.25 tsp Mix Powder
+  - qty: 2
+    unit: tbsp
+    name: kashmiri chilli powder
+    raw: 2 tbsp Kashmiri chilli powder
+  - qty: 2
+    unit: tsp
+    name: chilli powder
+    raw: 2 tsp regular chilli powder
+  - qty: 0.25
+    unit: tsp
+    name: garam masala
+    raw: 0.25 tsp Garam Masala
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: 0.25 tsp ground black pepper
+  - qty: 0.25
+    name: to 0.5 tsp salt
+    raw: 0.25 to 0.5 tsp salt
+  - qty: 1
+    unit: tsp
+    name: kasuri methi
+    raw: 1 tsp kasuri methi
+  - qty: 5
+    unit: tbsp
+    name: tomato paste
+    raw: 5 tbsp tomato paste
+  - qty: 1
+    unit: tbsp
+    name: coriander stalks
+    raw: 1 tbsp finely chopped fresh coriander stalks
+  - qty: 330
+    name: ml+ curry base gravy
+    raw: 330 ml+ Curry Base Gravy, heated through
+  - qty: 200
+    unit: g
+    name: pre-cooked chicken
+    raw: 200 g Pre-Cooked Chicken, Pre-Cooked Lamb, beef, prawns, or vegetables
+  - qty: 2
+    unit: tsp
+    name: tomato ketchup
+    raw: 2 tsp tomato ketchup
+  - qty: 1.5
+    unit: tsp
+    name: vinegar
+    raw: 1.5 tsp vinegar
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 1
+    unit: tbsp
+    name: coriander leaves
+    raw: 1 tbsp finely chopped fresh coriander leaves, to garnish

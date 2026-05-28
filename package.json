@@ -5,5 +5,8 @@
   "scripts": {
     "doctor": "node scripts/recipe-doctor.mjs"
   },
-  "version": "1.4.1"
+  "version": "1.4.1",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.99.0"
+  }
 }

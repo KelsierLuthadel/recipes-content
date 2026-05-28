@@ -1,0 +1,129 @@
+prep: 15 minutes
+cook: 12 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - asian
+  - meat
+  - chicken
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/chinese/fried-rice
+  - cuisine/indian/Restaurant-Style-Special-Fried-Rice
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 0.5
+    name: onion
+    raw: 0.5 medium onion
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 0.25
+    name: green pepper
+    raw: 0.25 green pepper
+  - qty: 0.25
+    name: red pepper
+    raw: 0.25 red pepper
+  - qty: 2
+    unit: tbsp
+    name: coriander stalks
+    raw: 2 tbsp fresh coriander stalks
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: chunk of fresh ginger
+    raw: 2 cm chunk of fresh ginger
+  - qty: 1
+    unit: splash
+    name: oil to help it blend
+    raw: a splash of oil to help it blend
+  - qty: 0.5
+    unit: tsp
+    name: cumin seeds
+    raw: 0.5 tsp cumin seeds
+  - qty: 0.5
+    unit: tsp
+    name: coriander seeds
+    raw: 0.5 tsp coriander seeds
+  - qty: 4
+    unit: tbsp
+    name: oil
+    raw: 4 tbsp oil
+  - qty: 0.5
+    unit: tsp
+    name: fennel seeds
+    raw: 0.5 tsp fennel seeds
+  - qty: 2
+    name: cloves
+    raw: 2 cloves
+  - qty: 2
+    name: green cardamom pods
+    raw: 2 green cardamom pods, split
+  - qty: 1
+    name: black cardamom pod
+    raw: 1 black cardamom pod, split
+  - qty: 1
+    unit: tsp
+    name: ginger-garlic paste
+    raw: 1 tsp ginger-garlic paste
+  - qty: 1
+    unit: tsp
+    name: mix powder
+    raw: 1 tsp Mix Powder
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 tsp chilli powder
+  - qty: 0.5
+    unit: tsp
+    name: garam masala
+    raw: 0.5 tsp Garam Masala
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: 0.5 tsp salt
+  - qty: 1
+    unit: tsp
+    name: kasuri methi
+    raw: 1 tsp kasuri methi
+  - qty: 3
+    unit: tbsp
+    name: special hot green paste
+    raw: 3 tbsp special hot green paste
+  - qty: 4
+    unit: tbsp
+    name: tomato paste
+    raw: 4 tbsp tomato paste
+  - qty: 200
+    unit: g
+    name: pre-cooked chicken
+    raw: 200 g Pre-Cooked Chicken, Pre-Cooked Lamb, chicken tikka, or vegetables
+  - qty: 300
+    name: to 330 ml+ curry base gravy
+    raw: 300 to 330 ml+ Curry Base Gravy, heated through
+  - qty: 2
+    name: tomato quarters
+    raw: 2 fresh tomato quarters
+  - qty: 1
+    unit: tbsp
+    name: coriander leaves
+    raw: 1 tbsp finely chopped fresh coriander leaves
+  - qty: 1
+    name: to 2 tsp sugar
+    raw: 1 to 2 tsp sugar
+  - name: coriander
+    raw: extra coriander, to garnish

@@ -1,0 +1,148 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - lime
+  - coriander
+  - yogurt
+  - honey
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: tandoori masala
+    raw: 1 tsp Tandoori Masala
+  - qty: 2
+    name: naga chillies
+    raw: 2 naga chillies
+  - qty: 4
+    name: thai red chillies
+    raw: 4 Thai red chillies
+  - qty: 2
+    name: scotch bonnet or habanero chillies
+    raw: 2 scotch bonnet or habanero chillies
+  - qty: 1
+    name: to 2 regular supermarket red chillies
+    raw: 1 to 2 regular supermarket red chillies
+  - qty: 1
+    unit: splash
+    name: water to help it blend
+    raw: a splash of water to help it blend
+  - qty: 5
+    unit: tbsp
+    name: oil or ghee
+    raw: 5 tbsp oil or ghee
+  - qty: 10
+    name: cassia bark
+    raw: 10 cm cassia bark
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds
+  - qty: 2
+    name: green cardamom pods
+    raw: 2 green cardamom pods, split
+  - qty: 60
+    unit: g
+    name: onion
+    raw: 60 g onion, finely chopped
+  - qty: 30
+    name: to 40 g red pepper
+    raw: 30 to 40 g red pepper, sliced
+  - qty: 2
+    unit: tsp
+    name: ginger-garlic paste
+    raw: 2 tsp ginger-garlic paste
+  - qty: 2
+    unit: tsp
+    name: extra-hot chilli powder
+    raw: 2 tsp extra-hot chilli powder
+  - qty: 2
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 2 tsp Kashmiri chilli powder
+  - qty: 1.25
+    unit: tsp
+    name: mix powder
+    raw: 1.25 tsp Mix Powder
+  - qty: 0.25
+    name: to 0.5 tsp salt
+    raw: 0.25 to 0.5 tsp salt
+  - qty: 1
+    unit: tsp
+    name: kasuri methi
+    raw: 1 tsp kasuri methi
+  - qty: 6
+    unit: tbsp
+    name: tomato paste
+    raw: 6 tbsp tomato paste
+  - qty: 3
+    unit: tbsp
+    name: molten lava chilli paste
+    raw: 3 tbsp molten lava chilli paste
+  - qty: 1
+    unit: tbsp
+    name: chilli flakes
+    raw: 1 tbsp chilli flakes
+  - qty: 1
+    name: to 2 tsp chilli or naga pickle
+    raw: 1 to 2 tsp chilli or naga pickle
+  - qty: 200
+    unit: g
+    name: pre-cooked chicken
+    raw: 200 g Pre-Cooked Chicken, Pre-Cooked Lamb, beef, or vegetables
+  - qty: 330
+    name: ml+ curry base gravy
+    raw: 330 ml+ Curry Base Gravy, heated through
+  - qty: 2
+    unit: tsp
+    name: lime or lemon juice
+    raw: 2 tsp fresh lime or lemon juice
+  - qty: 2
+    unit: tsp
+    name: honey
+    raw: 2 tsp honey
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 8
+    name: to 10 green chillies
+    raw: 8 to 10 green chillies, finely sliced width-wise
+  - qty: 2
+    name: to 3 tsp onion paste / bunjarra
+    raw: 2 to 3 tsp onion paste / bunjarra
+  - qty: 1
+    unit: tbsp
+    name: natural yoghurt
+    raw: 1 tbsp natural yoghurt
+  - name: coriander
+    raw: finely chopped fresh coriander, to garnish
+  - qty: 1
+    name: to 2 tomato slices
+    raw: 1 to 2 tomato slices, to garnish

@@ -1,0 +1,95 @@
+prep: 10 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - one-pan
+  - meals
+  - asian
+  - eggs
+  - rice
+  - mushroom
+  - onion
+  - garlic
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/BIR-Chicken-Jalfrezi
+  - cuisine/indian/BIR-Chicken-Vindaloo
+  - cuisine/indian/Restaurant-Style-Chicken-Jalfrezi
+  - cuisine/indian/Restaurant-Style-Madras
+  - cuisine/indian/Restaurant-Style-Vindaloo
+  - tutorials/rice/absorption-method
+ingredients:
+  - qty: 200
+    unit: g
+    name: basmati rice
+    raw: 200 g cooked basmati rice
+  - qty: 2
+    unit: tbsp
+    name: oil or ghee
+    raw: 2 tbsp oil or ghee
+  - qty: 0.5
+    unit: tsp
+    name: cumin seeds
+    raw: 0.5 tsp cumin seeds
+  - qty: 60
+    unit: g
+    name: onion
+    raw: 60 g onion, roughly chopped
+  - qty: 15
+    unit: g
+    name: red pepper
+    raw: 15 g red pepper, finely chopped
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, finely sliced
+  - qty: 30
+    unit: g
+    name: mushrooms
+    raw: 30 g mushrooms, sliced
+  - qty: 0.5
+    name: to 1 tsp kasuri methi
+    raw: 0.5 to 1 tsp kasuri methi
+  - qty: 1
+    name: to 2 tsp fresh green chilli
+    raw: 1 to 2 tsp fresh green chilli, finely chopped
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: 0.5 tsp salt
+  - qty: 1
+    unit: tsp
+    name: mix powder
+    raw: 1 tsp Mix Powder
+  - qty: 0.25
+    unit: tsp
+    name: turmeric
+    raw: 0.25 tsp turmeric
+  - qty: 0.25
+    unit: tsp
+    name: garam masala
+    raw: 0.25 tsp Garam Masala
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 25
+    unit: g
+    name: peas
+    raw: 25 g peas
+  - qty: 1
+    unit: tbsp
+    name: coriander leaves
+    raw: 1 tbsp fresh coriander leaves, finely chopped
+  - qty: 1
+    unit: tsp
+    name: ghee
+    raw: 1 tsp ghee

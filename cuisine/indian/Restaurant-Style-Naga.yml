@@ -1,0 +1,79 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - lamb
+  - garlic
+  - ginger
+  - coriander
+  - honey
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    name: to 4 tbsp oil or ghee
+    raw: 3 to 4 tbsp oil or ghee
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds
+  - qty: 2
+    unit: tsp
+    name: ginger-garlic paste
+    raw: 2 tsp ginger-garlic paste
+  - qty: 1
+    unit: tsp
+    name: kasuri methi
+    raw: 1 tsp kasuri methi
+  - qty: 1
+    unit: tsp
+    name: extra-hot chilli powder
+    raw: 1 tsp extra-hot chilli powder
+  - qty: 1.5
+    unit: tsp
+    name: mix powder
+    raw: 1.5 tsp Mix Powder
+  - qty: 0.25
+    name: to 0.5 tsp salt
+    raw: 0.25 to 0.5 tsp salt
+  - qty: 4
+    name: to 6 tbsp tomato paste
+    raw: 4 to 6 tbsp tomato paste
+  - qty: 330
+    name: ml+ curry base gravy
+    raw: 330 ml+ Curry Base Gravy, heated through
+  - qty: 200
+    unit: g
+    name: pre-cooked chicken
+    raw: 200 g Pre-Cooked Chicken, Pre-Cooked Lamb, or mixed vegetables
+  - qty: 1
+    unit: tbsp
+    name: mr naga chilli pickle
+    raw: 1 tbsp Mr Naga chilli pickle
+  - qty: 1
+    name: naga chilli
+    raw: 1 fresh naga chilli, finely chopped
+  - qty: 2
+    name: to 3 tsp honey
+    raw: 2 to 3 tsp honey, jaggery, or brown sugar
+  - name: coriander
+    raw: fresh coriander, finely chopped
+  - qty: 1
+    name: cucumber
+    raw: 1 slice cucumber
+  - name: red naga chilli
+    raw: a few very fine slices of red naga chilli
