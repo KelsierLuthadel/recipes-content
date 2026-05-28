@@ -1,5 +1,6 @@
 ---
 name: Yom Kippur
+image: resources/yom-kippur.jpg
 tagline: The fast and what bookends it. A rich, salty meal before sundown; a gentle dairy break-fast after the stars come out. Bagels, lox, kugel, honey cake.
 publishedAt: 2026-05-20
 seasonalrange: 09-15..10-05

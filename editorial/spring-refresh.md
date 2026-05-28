@@ -1,5 +1,6 @@
 ---
 name: Spring Refresh
+image: resources/spring-refresh.jpg
 tagline: Light, green, and a little bit indulgent. The first warm-weather plates of the year.
 publishedAt: 2026-05-15
 seasonalrange: 03-01..05-31

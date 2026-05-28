@@ -1,5 +1,6 @@
 ---
 name: Holi
+image: resources/holi.jpg
 tagline: The festival of colour and the festival of snacks. Gujiya, jalebi, pakora, samosa, and thandai by the jug.
 publishedAt: 2026-05-20
 seasonalrange: 02-25..03-31

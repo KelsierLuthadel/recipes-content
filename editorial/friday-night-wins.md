@@ -1,5 +1,6 @@
 ---
 name: Five Dinners for a Friday Night
+image: resources/friday-night-wins.jpg
 tagline: Comfort food that meets you halfway after a long week.
 publishedAt: 2026-05-14
 ---

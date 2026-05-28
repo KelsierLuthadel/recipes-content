@@ -1,5 +1,6 @@
 ---
 name: Fall Harvest
+image: resources/fall-harvest.jpg
 tagline: Mushrooms, root veg, apples, and the first proper fires of the year.
 publishedAt: 2026-05-15
 seasonalrange: 09-01..11-14

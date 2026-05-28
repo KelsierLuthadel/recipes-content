@@ -1,5 +1,6 @@
 ---
 name: Kwanzaa
+image: resources/kwanzaa.jpg
 tagline: Seven nights of African-diaspora cooking. Jollof, jerk, callaloo, doro wat - and the cornbread that sits beside everything.
 publishedAt: 2026-05-20
 seasonalrange: 12-22..12-31

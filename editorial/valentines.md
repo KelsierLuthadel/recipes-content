@@ -1,5 +1,6 @@
 ---
 name: Valentine's Day
+image: resources/valentines.jpg
 tagline: Dinner for two. Steak, beef Wellington or a good piece of fish, with chocolate at the end. The cooking gets a little fancier than usual; the music is somebody's choice and not everyone's.
 publishedAt: 2026-05-20
 seasonalrange: 02-01..02-15

@@ -1,5 +1,6 @@
 ---
 name: Rosh Hashanah
+image: resources/rosh-hashanah.jpg
 tagline: Apples and honey, slow-cooked brisket, round challah, sweet kugels. The Jewish New Year, signalled in the kitchen with sweetness for a sweet year ahead.
 publishedAt: 2026-05-20
 seasonalrange: 09-01..10-15

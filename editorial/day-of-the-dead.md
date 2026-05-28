@@ -2,6 +2,7 @@
 name: Day of the Dead
 tagline: Mole, tamales, pan de muerto and tres leches: the Mexican feast for the ancestors. Built to honour the dead and feed the living.
 publishedAt: 2026-05-20
+image: resources/day-of-the-dead.jpg
 seasonalrange: 10-25..11-05
 kind: festival
 origin: Mexico

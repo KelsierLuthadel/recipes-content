@@ -1,5 +1,6 @@
 ---
 name: Easter
+image: resources/easter.jpg
 tagline: The roast lamb at the centre of the table. Hot cross buns at breakfast, simnel cake at tea. Spring on the plate after the slow grey end of winter.
 publishedAt: 2026-05-20
 seasonalrange: 03-20..04-25

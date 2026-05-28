@@ -1,5 +1,6 @@
 ---
 name: Halloween
+image: resources/halloween.jpg
 tagline: Pumpkin in every form, caramel apples on the side, bonfire-night soup. Treats by the trayful and a few savoury things that can sit in the oven while the doorbell goes.
 publishedAt: 2026-05-20
 seasonalrange: 10-15..11-01

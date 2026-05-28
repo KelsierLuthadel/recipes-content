@@ -1,5 +1,6 @@
 ---
 name: A Spice Trail Across Asia
+image: resources/spice-trail-asia.jpg
 tagline: Five dishes that put the spice rack to work, from Bangkok to Seoul.
 publishedAt: 2026-05-13
 ---

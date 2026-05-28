@@ -1,5 +1,6 @@
 ---
 name: St. Patrick's Day
+image: resources/st-patricks.jpg
 tagline: Irish stew, beef and Guinness, colcannon and champ, with a warm round of soda bread for the mopping. The cooking of the cottage kitchen, eaten in March with a pint on the side.
 publishedAt: 2026-05-20
 seasonalrange: 03-10..03-20

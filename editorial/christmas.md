@@ -1,5 +1,6 @@
 ---
 name: Christmas Feast
+image: resources/christmas.jpg
 tagline: A big roast, sprouts done right, and a table that smells of clove and orange.
 publishedAt: 2026-05-15
 seasonalrange: 12-01..12-26

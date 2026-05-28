@@ -1,5 +1,6 @@
 ---
 name: Passover
+image: resources/passover.jpg
 tagline: The seder plate and the slow-roasted meats that follow. Eight days of unleavened cooking, with brisket at its centre.
 publishedAt: 2026-05-20
 seasonalrange: 03-15..04-30

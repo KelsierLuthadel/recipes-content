@@ -1,5 +1,6 @@
 ---
 name: Ramadan
+image: resources/ramadan.jpg
 tagline: Iftar table by sunset: dates and water, harira, biryani, kebabs and a sweet to close. The slow-cooked food of a month-long fast.
 publishedAt: 2026-05-20
 seasonalrange: 01-15..04-15

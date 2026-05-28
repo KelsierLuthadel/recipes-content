@@ -1,5 +1,6 @@
 ---
 name: Sukkot
+image: resources/sukkot.jpg
 tagline: The harvest festival. A week of eating in the sukkah: slow-cooked meats, stuffed vegetables, kugel, apple cake. Autumn on the plate, with the stars visible through the roof.
 publishedAt: 2026-05-20
 seasonalrange: 09-25..10-15

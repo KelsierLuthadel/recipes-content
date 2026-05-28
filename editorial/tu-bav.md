@@ -1,5 +1,6 @@
 ---
 name: Tu B'Av
+image: resources/tu-bav.jpg
 tagline: The Jewish day of love. Late-summer dinner for two: a chilled salad, a piece of fish or a steak, a glass of white wine, something sweet to close.
 publishedAt: 2026-05-20
 seasonalrange: 07-25..08-15

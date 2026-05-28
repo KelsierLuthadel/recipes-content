@@ -1,5 +1,6 @@
 ---
 name: Summer BBQ
+image: resources/summer-bbq.jpg
 tagline: Smoke, char, and cold drinks. The cookout season opens here.
 publishedAt: 2026-05-15
 kind: seasonal
