@@ -1,0 +1,113 @@
+prep: 15 minutes active + 4 to 48 hours marinade
+cook: 10 to 15 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - asian
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - yogurt
+  - complex
+mentions:
+  - cuisine/indian/BIR-Butter-Chicken
+  - cuisine/indian/butter-chicken
+  - cuisine/indian/Restaurant-Style-Tikka-Masala
+  - cuisine/indian/sauces-pickles/mint-chutney
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: chicken breast or thigh
+    raw: 1.5 kg chicken breast or thigh, boneless and skinless, cut into 5 cm chunks
+  - qty: 1
+    unit: tbsp
+    name: ginger-garlic paste
+    raw: 1 tbsp ginger-garlic paste
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tbsp lemon juice
+  - qty: 2
+    unit: tsp
+    name: coriander seeds
+    raw: 2 tsp coriander seeds, freshly toasted and ground
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds, freshly toasted and ground
+  - qty: 0.5
+    unit: tsp
+    name: fenugreek seeds
+    raw: 0.5 tsp fenugreek seeds, ground
+  - qty: 3.5
+    unit: tbsp
+    name: tandoori masala
+    raw: 3.5 tbsp Tandoori Masala
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp turmeric
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 tsp Kashmiri chilli powder
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tbsp paprika
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: 0.25 tsp freshly ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: elachi
+    raw: 0.5 tsp elachi
+  - qty: 2
+    unit: tsp
+    name: kasuri methi
+    raw: 2 tsp kasuri methi
+  - qty: 1.5
+    unit: tsp
+    name: mint
+    raw: 1.5 tsp dried mint
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: 0.5 tsp grated nutmeg
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1.5 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: mustard oil
+    raw: 2 tbsp mustard oil
+  - qty: 120
+    unit: ml
+    name: natural yoghurt
+    raw: 120 ml natural yoghurt, full fat
+  - qty: 0.25
+    unit: tsp
+    name: orange or red food colour
+    raw: 0.25 tsp orange or red food colour
+  - name: metal or pre-soaked bamboo skewers
+    raw: metal or pre-soaked bamboo skewers
+  - qty: 1
+    unit: tbsp
+    name: ghee
+    raw: 1 tbsp ghee, melted
+  - name: lemon wedges
+    raw: lemon wedges, sliced red onion, fresh coriander, mint chutney

@@ -1,0 +1,100 @@
+prep: 5 minutes (assumes the tikka is already prepared)
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - meals
+  - asian
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - butter
+  - cream
+  - nuts
+  - complex
+mentions:
+  - cuisine/chinese/fried-rice
+  - cuisine/indian/Restaurant-Style-Special-Fried-Rice
+  - cuisine/indian/Restaurant-Style-Tikka
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: oil or butter ghee
+    raw: 3 tbsp oil or butter ghee
+  - qty: 10
+    name: cassia bark
+    raw: 10 cm cassia bark
+  - qty: 1.5
+    unit: tsp
+    name: ginger-garlic paste
+    raw: 1.5 tsp ginger-garlic paste
+  - qty: 1.25
+    unit: tsp
+    name: mix powder
+    raw: 1.25 tsp Mix Powder
+  - qty: 0.25
+    unit: tsp
+    name: garam masala
+    raw: 0.25 tsp Garam Masala
+  - qty: 0.25
+    name: to 0.5 tsp salt
+    raw: 0.25 to 0.5 tsp salt
+  - qty: 5
+    unit: tbsp
+    name: tomato paste
+    raw: 5 tbsp tomato paste
+  - qty: 200
+    unit: g
+    name: pre-cooked tikka of your choice — see restaurant-style tikka
+    raw: 200 g pre-cooked tikka of your choice — see Restaurant-Style Tikka
+  - qty: 1.5
+    unit: tsp
+    name: lemon juice
+    raw: 1.5 tsp lemon juice
+  - qty: 330
+    name: ml+ curry base gravy
+    raw: 330 ml+ Curry Base Gravy, heated through
+  - qty: 1.5
+    unit: tbsp
+    name: tandoori masala
+    raw: 1.5 tbsp Tandoori Masala
+  - qty: 3
+    unit: tbsp
+    name: coconut powder or flour
+    raw: 3 tbsp coconut powder or flour
+  - qty: 1.5
+    unit: tbsp
+    name: almonds
+    raw: 1.5 tbsp ground almonds
+  - qty: 1
+    unit: pinch
+    name: red food colour
+    raw: a pinch of red food colour
+  - qty: 2
+    unit: tbsp
+    name: jaggery or brown sugar
+    raw: 2 tbsp jaggery or brown sugar
+  - qty: 75
+    unit: ml
+    name: single cream
+    raw: 75 ml single cream, plus extra for garnish
+  - qty: 1
+    unit: tbsp
+    name: coriander leaves
+    raw: 1 tbsp finely chopped fresh coriander leaves
+  - qty: 1
+    name: to 2 tsp ghee
+    raw: 1 to 2 tsp ghee
+  - qty: 1
+    unit: tbsp
+    name: flaked almonds
+    raw: 1 tbsp flaked almonds, toasted
