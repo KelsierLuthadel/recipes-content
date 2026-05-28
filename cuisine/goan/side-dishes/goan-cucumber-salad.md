@@ -23,6 +23,7 @@ Cucumber is chopped, salted and rested briefly to draw out some of its water (th
 - 1 small handful of coriander (chopped)
 - ½ lime (juice)
 - A pinch of sugar
+- handful peanuts (optional)
 
 ### Temper
 - 1 tablespoon coconut oil

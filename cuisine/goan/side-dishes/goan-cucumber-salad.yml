@@ -1,6 +1,7 @@
 prep: 15 minutes
 cook: 3 minutes (for the temper)
 allergens:
+  - peanuts
   - mustard
 tags:
   - vegetarian
@@ -13,6 +14,7 @@ tags:
   - coconut
   - lime
   - coriander
+  - nuts
   - chili
   - curry
 mentions: []
@@ -42,6 +44,10 @@ ingredients:
     unit: pinch
     name: sugar
     raw: A pinch of sugar
+  - qty: 1
+    unit: handful
+    name: peanuts
+    raw: handful peanuts
   - qty: 1
     unit: tbsp
     name: coconut oil
