@@ -18,3 +18,9 @@ package-lock.json
 !.dev.vars.example
 !.env.example
 
+# AVIF variants - derived from .jpg/.png sources by
+# recipes-ui-next/scripts/prebake-avif.mjs, uploaded to R2 by
+# scripts/sync-r2.mjs. Idempotent: re-running prebake regenerates
+# them. Kept on local disk so incremental syncs only push deltas.
+**/*.avif
+
