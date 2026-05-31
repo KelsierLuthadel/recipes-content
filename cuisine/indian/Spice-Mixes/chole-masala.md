@@ -4,13 +4,13 @@
 
 *Punjab's chole masala: a deep, dark spice mix for chickpeas built on cumin, coriander, ajwain, black cardamom and dried pomegranate.*
 
+**Prep Time:** 5 minutes
+**Cook Time:** 3 minutes
+
 ## Overview
 A unique Punjabi spice blend specifically designed for chole masala (chickpea curry). While this blend is generally only used for chole masala, making it homemade ensures authentic flavour. Ready-made versions are available at many Asian grocers and online if you prefer convenience, but homemade is worth the effort.
 
 **Makes:** Approximately 250ml
-**Prep Time:** 5 minutes
-**Cook Time:** 3 minutes
-
 ## Ingredients
 - 3 tbsp cumin seeds
 - 3 tbsp coriander seeds

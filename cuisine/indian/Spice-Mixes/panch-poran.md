@@ -4,13 +4,13 @@
 
 *Bengal's five-spice: whole cumin, fennel, mustard, fenugreek and nigella seeds in equal parts.*
 
+**Prep Time:** 2 minutes
+**Cook Time:** 2 minutes
+
 ## Overview
 A traditional whole spice blend commonly available in Asian spice shops already mixed. Panch poran varies from region to region across the Indian subcontinent, but this is the most common blend in UK curry houses. Equal amounts of each ingredient are used, making it easy to scale this recipe up or down.
 
 **Makes:** 5 tablespoons
-**Prep Time:** 2 minutes
-**Cook Time:** 2 minutes
-
 ## Ingredients
 - 1 tbsp cumin seeds
 - 1 tbsp fenugreek seeds

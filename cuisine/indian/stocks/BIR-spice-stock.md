@@ -4,13 +4,13 @@
 
 *The BIR spice stock: water, onion, garlic, ginger and whole spices simmered together into a deeply aromatic broth.*
 
+**Prep Time:** 5 minutes
+**Cook Time:** 35 minutes
+
 ## Overview
 A fragrant aromatic stock made from whole spices and fresh herbs. This versatile base adds depth to curries when extra liquid is needed to thin or lighten a sauce. While water works, this stock imparts subtle layers of flavour that elevate the final dish.
 
 **Makes:** 750ml (3 ¼ cups)
-**Prep Time:** 5 minutes
-**Cook Time:** 35 minutes
-
 ## Ingredients
 - Handful of green cardamom pods, lightly bruised
 - 15 Indian bay leaves (cassia leaves)

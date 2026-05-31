@@ -4,13 +4,13 @@
 
 *The everyday Indian curry powder: turmeric, coriander, cumin, fenugreek, chilli and ginger ground together. A balanced everyday blend.*
 
+**Prep Time:** 8 minutes
+**Cook Time:** 2 minutes
+
 ## Overview
 Commercially prepared curry powders date back to the 18th century, when Indian merchants prepared spice blends for British army and government officials returning to Britain during the British Raj. Unlike garam masalas (warming spices), curry powders contain complementary ingredients with chillies added for spiciness. This version is moderately spiced but can be adjusted to your preference by omitting or reducing dried chillies and chilli powder.
 
 **Makes:** 285g (2 ½ cups)
-**Prep Time:** 8 minutes
-**Cook Time:** 2 minutes
-
 ## Ingredients
 - 6 tbsp coriander seeds
 - 6 tbsp cumin seeds

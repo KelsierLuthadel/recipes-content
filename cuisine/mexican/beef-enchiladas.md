@@ -4,12 +4,12 @@
 
 *Mexico's baked enchiladas: corn tortillas wrapped around spiced beef, drowned in a red enchilada sauce.*
 
-## Overview
-This Tex-Mex-inspired beef enchilada recipe is richly seasoned, easy to make, and always such a crowd favourite. Tender flour tortillas are filled with seasoned ground beef and black beans, rolled, and smothered in homemade red enchilada sauce, then topped with melted cheese and fresh coriander for a comforting, flavourful dish.
-
 **Serves:** 8
 **Prep Time:** 15 minutes
 **Cook Time:** 25 minutes
+
+## Overview
+This Tex-Mex-inspired beef enchilada recipe is richly seasoned, easy to make, and always such a crowd favourite. Tender flour tortillas are filled with seasoned ground beef and black beans, rolled, and smothered in homemade red enchilada sauce, then topped with melted cheese and fresh coriander for a comforting, flavourful dish.
 
 ## Ingredients
 

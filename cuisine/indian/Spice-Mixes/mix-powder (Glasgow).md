@@ -4,13 +4,13 @@
 
 *The Glasgow curry-house mix powder: a custom dry blend of curry powder, garam masala, paprika and turmeric.*
 
+**Prep Time:** 5 minutes
+**Cook Time:** 0 minutes
+
 ## Overview
 A curry house-style spice blend and one of the secret ingredients that makes BIR curries what they are. Mixed powder combines the flavours of cumin, coriander, paprika, and turmeric, spices essential to most BIR curries. You will use it in almost all classic curries. This blend makes it possible to add multiple spices in one go, along with curry powder and garam masala, for consistent and efficient seasoning.
 
 **Makes:** 17 generous tablespoons
-**Prep Time:** 5 minutes
-**Cook Time:** 0 minutes
-
 ## Ingredients
 - Homemade garam masala (see Garam Masala recipe)
 - Homemade curry powder (see Curry Powder recipe)

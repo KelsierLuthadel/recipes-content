@@ -4,12 +4,12 @@
 
 *Louisiana's blackened chicken: breast fillets dipped in melted butter.*
 
-## Overview
-The Cajun classic invented by Paul Prudhomme in his New Orleans kitchen in the 1980s, the dish that put smoky char on the American restaurant menu for a decade. You build a bold spice mixture (paprika, garlic, onion, thyme, cayenne, salt and black pepper), dip butterflied chicken breasts in melted butter and press them firmly into the spice rub on both sides. Then they hit a screaming-hot cast-iron skillet for about three minutes per side, where the butter and spices char into a deep mahogany crust that locks the juices in and gives the chicken its defining smoky finish. The technique works equally well on fish (Prudhomme's original was redfish), pork or beef. Eaten sliced over a salad, layered in a sandwich with remoulade, or alongside dirty rice as a proper Cajun plate.
-
 **Serves:** 4
 **Prep Time:** 10 minutes
 **Cook Time:** 11 minutes
+
+## Overview
+The Cajun classic invented by Paul Prudhomme in his New Orleans kitchen in the 1980s, the dish that put smoky char on the American restaurant menu for a decade. You build a bold spice mixture (paprika, garlic, onion, thyme, cayenne, salt and black pepper), dip butterflied chicken breasts in melted butter and press them firmly into the spice rub on both sides. Then they hit a screaming-hot cast-iron skillet for about three minutes per side, where the butter and spices char into a deep mahogany crust that locks the juices in and gives the chicken its defining smoky finish. The technique works equally well on fish (Prudhomme's original was redfish), pork or beef. Eaten sliced over a salad, layered in a sandwich with remoulade, or alongside dirty rice as a proper Cajun plate.
 
 ## Ingredients
 

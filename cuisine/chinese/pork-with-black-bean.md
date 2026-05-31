@@ -4,12 +4,12 @@
 
 *A Cantonese pork stir-fry: thinly sliced pork tossed hot with peppers, onion and a sauce of salted black beans, garlic.*
 
-## Overview
-Pork goes particularly well with black beans; their salt and spicy flavour is distinctly Chinese. This quick-cooking dish balances tender pork with the bold, pungent character of fermented black beans. The result is authentic, flavour-forward, and ready in minutes. Perfect for weeknight meals or elegant entertaining.
-
 **Serves:** 4
 **Prep Time:** 15 minutes
 **Cook Time:** 4 minutes
+
+## Overview
+Pork goes particularly well with black beans; their salt and spicy flavour is distinctly Chinese. This quick-cooking dish balances tender pork with the bold, pungent character of fermented black beans. The result is authentic, flavour-forward, and ready in minutes. Perfect for weeknight meals or elegant entertaining.
 
 ## Ingredients
 

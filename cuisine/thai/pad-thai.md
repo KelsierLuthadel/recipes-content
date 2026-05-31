@@ -4,12 +4,12 @@
 
 *Thailand's pad thai: rice noodles stir-fried with prawns, pork, egg, beansprouts and a sweet-sour tamarind sauce.*
 
-## Overview
-This classic Thai dish of noodles is both aromatic and lightly spicy, serving well as either a main course or a starter. Pad Thai combines stir-fried rice noodles with tender chicken, pork, and prawns in a balanced sauce of curry paste, oyster sauce, and fish sauce. Fresh herbs, crushed peanuts, and a squeeze of lime complete this iconic Thai street food favourite.
-
 **Serves:** 4
 **Prep Time:** 15 minutes
 **Cook Time:** 15 minutes
+
+## Overview
+This classic Thai dish of noodles is both aromatic and lightly spicy, serving well as either a main course or a starter. Pad Thai combines stir-fried rice noodles with tender chicken, pork, and prawns in a balanced sauce of curry paste, oyster sauce, and fish sauce. Fresh herbs, crushed peanuts, and a squeeze of lime complete this iconic Thai street food favourite.
 
 ## Ingredients
 

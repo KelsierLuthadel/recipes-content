@@ -4,12 +4,12 @@
 
 *Cantonese five-spice ribs: pork ribs marinated in soy, hoisin and Chinese five-spice.*
 
-## Overview
-This delightful meat dish engages the senses with many contrasting tastes. The spareribs are first marinated, then deep-fried until crisp, and finally slowly braised in an unusual, piquant sauce. Five spice powder provides the warm, complex backbone, while vinegar and orange peel add brightness and complexity. The result is both elegant and deeply satisfying.
-
 **Serves:** 2-4
 **Prep Time:** 15 minutes
 **Cook Time:** 40 minutes
+
+## Overview
+This delightful meat dish engages the senses with many contrasting tastes. The spareribs are first marinated, then deep-fried until crisp, and finally slowly braised in an unusual, piquant sauce. Five spice powder provides the warm, complex backbone, while vinegar and orange peel add brightness and complexity. The result is both elegant and deeply satisfying.
 
 ## Ingredients
 

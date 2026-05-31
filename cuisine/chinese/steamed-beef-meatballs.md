@@ -4,13 +4,12 @@
 
 *Cantonese dim-sum meatballs: beef mince mixed with water chestnut, ginger and spring onion, shaped into balls and steamed till tender.*
 
-## Overview
-The secret to light and fluffy meatballs lies in proper technique: egg white and cornflour incorporate air into the mixture, creating a delicate texture. This gentle steaming method keeps them moist and tender while the aromatics infuse throughout. These meatballs reheat beautifully by steaming and are perfect for dinners or as an appetizer at parties.
-
 **Serves:** 4
 **Prep Time:** 15 minutes
-
 **Cook Time:** 20 minutes
+
+## Overview
+The secret to light and fluffy meatballs lies in proper technique: egg white and cornflour incorporate air into the mixture, creating a delicate texture. This gentle steaming method keeps them moist and tender while the aromatics infuse throughout. These meatballs reheat beautifully by steaming and are perfect for dinners or as an appetizer at parties.
 
 ## Ingredients
 

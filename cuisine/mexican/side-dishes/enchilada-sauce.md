@@ -4,14 +4,14 @@
 
 *An authentic Mexican enchilada sauce: dried red chillies (ancho, guajillo) toasted and blended with garlic.*
 
+**Prep Time:** 10 minutes
+**Cook Time:** 35 minutes
+
 ## Overview
 Rich, robust, and a thousand times better than store-bought, this authentic enchilada sauce packs serious flavour. Made from dried Mexican chillies, roasted aromatics, and traditional spices, this sauce is the foundation of great enchiladas and tacos. The balance of heat, depth, and subtle sweetness creates a versatile sauce that elevates any Mexican dish.
 
 **Makes:** Approximately 600ml (enough for 8 enchiladas)
-**Prep Time:** 10 minutes
 **Soaking time:** 20-30 minutes
-**Cook Time:** 35 minutes
-
 ## Ingredients
 
 ### Dried Chillies & Aromatics

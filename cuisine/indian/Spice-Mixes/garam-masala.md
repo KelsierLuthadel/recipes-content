@@ -4,13 +4,13 @@
 
 *The everyday garam masala: warm whole spices (cardamom, cinnamon, clove, pepper, cumin) toasted and ground.*
 
+**Prep Time:** 8 minutes
+**Cook Time:** 2 minutes
+
 ## Overview
 A blend of warming, aromatic spices essential to Indian cooking. In India, the ingredients used can vary greatly from region to region and even from family to family. This version uses the same spices popular in northern India, Bangladesh and Pakistan, essential for achieving that curry-house flavour. Garam masala is an important part of mixed powder used in most BIR curries, and is also added on its own to many recipes.
 
 **Makes:** 170g (1 ½ cups)
-**Prep Time:** 8 minutes
-**Cook Time:** 2 minutes
-
 ## Ingredients
 - 6 tbsp coriander seeds
 - 6 tbsp cumin seeds

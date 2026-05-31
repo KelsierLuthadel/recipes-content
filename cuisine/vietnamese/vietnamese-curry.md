@@ -4,12 +4,12 @@
 
 *Vietnam's chicken curry: chicken simmered slow in a turmeric-and-coconut sauce with sweet potato, carrot and lemongrass.*
 
-## Overview
-A fragrant Vietnamese curry that blends French colonial influences with traditional Southeast Asian spicing. This dish showcases the Vietnamese love of balance, aromatic spices like star anise, cardamom, and cinnamon partner with earthy lemongrass and fresh chillies. The result is a warm, comforting curry with subtle sweetness and complex layered flavours. Even though Vietnam was colonized by the French, the traditional cuisine has more in common with their Chinese neighbours.
-
 **Serves:** 4
 **Prep Time:** 15 minutes
 **Cook Time:** 30 minutes
+
+## Overview
+A fragrant Vietnamese curry that blends French colonial influences with traditional Southeast Asian spicing. This dish showcases the Vietnamese love of balance, aromatic spices like star anise, cardamom, and cinnamon partner with earthy lemongrass and fresh chillies. The result is a warm, comforting curry with subtle sweetness and complex layered flavours. Even though Vietnam was colonized by the French, the traditional cuisine has more in common with their Chinese neighbours.
 
 ## Ingredients
 

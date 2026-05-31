@@ -4,12 +4,12 @@
 
 *Sichuan's pepper beef: thin strips of beef stir-fried hot with whole Sichuan peppercorns, dried chillies, garlic, ginger and spring onion.*
 
-## Overview
-This fast, easy, and delicious supper showcases how Chinese five-spice powder flavours an entire dish via a marinade approach. Overnight marination develops deep, complex flavours that distinguish this simple stir-fry from quickly-thrown-together meals. The combination of Sichuan pepper's numbing quality with five-spice complexity creates an unforgettable sauce.
-
 **Serves:** 2
 **Prep Time:** 20 minutes
 **Cook Time:** 1 minute
+
+## Overview
+This fast, easy, and delicious supper showcases how Chinese five-spice powder flavours an entire dish via a marinade approach. Overnight marination develops deep, complex flavours that distinguish this simple stir-fry from quickly-thrown-together meals. The combination of Sichuan pepper's numbing quality with five-spice complexity creates an unforgettable sauce.
 
 ## Ingredients
 

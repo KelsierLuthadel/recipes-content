@@ -4,12 +4,12 @@
 
 *Indonesia's bakso: small soft beef meatballs in a clear ginger-and-garlic broth, served over rice noodles with bean sprouts.*
 
-## Overview
-Tender chicken meatballs simmered in a fragrant coconut and curry sauce, this Indonesian classic combines aromatic spices with creamy coconut milk for a comforting, flavourful dish. The meatballs stay moist and are infused with lemongrass and lime leaves for authentic flavour.
-
 **Serves:** 8 (makes approximately 40 meatballs)
 **Prep Time:** 20 minutes
 **Cook Time:** 17 minutes
+
+## Overview
+Tender chicken meatballs simmered in a fragrant coconut and curry sauce, this Indonesian classic combines aromatic spices with creamy coconut milk for a comforting, flavourful dish. The meatballs stay moist and are infused with lemongrass and lime leaves for authentic flavour.
 
 ## Ingredients
 

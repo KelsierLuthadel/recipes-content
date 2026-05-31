@@ -4,12 +4,12 @@
 
 *The Cantonese steamed fish: a whole fish steamed over hot water with ginger and spring onion, then drenched in hot oil.*
 
-## Overview
-Steaming is a great southern Chinese tradition and is considered the preferred method of cooking fish as it brings out the purest flavours. Because it is such a gentle cooking technique, nothing masks the fresh taste of the fish, which remains moist and tender. Simple aromatics, ginger, garlic, and spring onion, infuse the fish without overwhelming its delicate character.
-
 **Serves:** 4
 **Prep Time:** 10 minutes
 **Cook Time:** 10 minutes
+
+## Overview
+Steaming is a great southern Chinese tradition and is considered the preferred method of cooking fish as it brings out the purest flavours. Because it is such a gentle cooking technique, nothing masks the fresh taste of the fish, which remains moist and tender. Simple aromatics, ginger, garlic, and spring onion, infuse the fish without overwhelming its delicate character.
 
 ## Ingredients
 

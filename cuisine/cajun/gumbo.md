@@ -4,12 +4,12 @@
 
 *Louisiana's shellfish gumbo: prawns, crab and crawfish in a chocolate-dark roux base with the trinity, file powder and Cajun spice.*
 
-## Overview
-A shellfish gumbo, lighter than the full Cajun "everything" version but built on the same foundations - a deep roux, the holy trinity of onion, celery and sweet pepper, and a slow-simmered broth that ties everything together. You cook a roux in oil until it goes to a peanut-butter brown (lighter than the full-Cajun chocolate roux but darker than blond), then soften the trinity in it before stock and herbs go in to build the soup. Mussels, prawns and crab go in towards the end and cook just briefly so they stay tender. A modern touch of fresh chilli lifts the heat across the back. Eaten over white rice in deep bowls, with hot sauce on the table and crusty bread to mop the last of the broth.
-
 **Serves:** 6
 **Prep Time:** 25 minutes
 **Cook Time:** 1 hour 4 minutes
+
+## Overview
+A shellfish gumbo, lighter than the full Cajun "everything" version but built on the same foundations - a deep roux, the holy trinity of onion, celery and sweet pepper, and a slow-simmered broth that ties everything together. You cook a roux in oil until it goes to a peanut-butter brown (lighter than the full-Cajun chocolate roux but darker than blond), then soften the trinity in it before stock and herbs go in to build the soup. Mussels, prawns and crab go in towards the end and cook just briefly so they stay tender. A modern touch of fresh chilli lifts the heat across the back. Eaten over white rice in deep bowls, with hot sauce on the table and crusty bread to mop the last of the broth.
 
 ## Ingredients
 

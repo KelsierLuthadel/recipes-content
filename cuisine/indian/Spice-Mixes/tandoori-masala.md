@@ -4,13 +4,13 @@
 
 *A tandoori spice mix: paprika, Kashmiri chilli, ginger, garlic, cumin and amchoor. The deep-red rub for marinated meats hitting the tandoor.*
 
+**Prep Time:** 8 minutes
+**Cook Time:** 2 minutes
+
 ## Overview
 A versatile spice blend traditionally used for tandoori cooking. Most commercial tandoori masalas rely on salt, citric acid powder, and cheap ground spices with red food colouring. This homemade version uses more quality spices and substitutes natural amchoor (dried mango powder) for artificial tanginess, giving you greater control over the final flavour.
 
 **Makes:** 120g (1 ¼ cups)
-**Prep Time:** 8 minutes
-**Cook Time:** 2 minutes
-
 ## Ingredients
 - 3 tbsp coriander seeds
 - 3 tbsp cumin seeds

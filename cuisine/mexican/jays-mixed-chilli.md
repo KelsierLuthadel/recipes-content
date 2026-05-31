@@ -4,12 +4,12 @@
 
 *A British home-cook chilli that leans on toasted whole spices, marmite and balsamic for depth, kidney beans and baked beans for texture, and a slow simmer to bring everything together. Not authentic Mexican but a comforting weeknight crowd-feeder; better on day two.*
 
-## Overview
-Chilli con carne is a hearty, flavour-packed stew that celebrates bold Mexican spicing combined with slow-cooked beef, beans, and tomatoes. This version builds deep, complex flavours through toasted whole spices, umami ingredients (marmite and soy sauce), and slow simmering. The result is a comforting, warming dish that improves with time and is perfect for feeding a crowd.
-
 **Serves:** 6
 **Prep Time:** 15 minutes
 **Cook Time:** 1 hour 20 minutes
+
+## Overview
+Chilli con carne is a hearty, flavour-packed stew that celebrates bold Mexican spicing combined with slow-cooked beef, beans, and tomatoes. This version builds deep, complex flavours through toasted whole spices, umami ingredients (marmite and soy sauce), and slow simmering. The result is a comforting, warming dish that improves with time and is perfect for feeding a crowd.
 
 ## Ingredients
 

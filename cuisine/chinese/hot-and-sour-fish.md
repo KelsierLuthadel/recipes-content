@@ -4,12 +4,12 @@
 
 *A Sichuan-style fish: white fish poached in a hot-and-sour broth of dried chillies, Sichuan peppercorns, garlic.*
 
-## Overview
-The combination of hot and sour is a signature of western Chinese cuisine. This quick, simple dish is perfect for a light family meal or elegant entertaining. The interplay between chilli heat, vinegar acidity, and savoury umami creates a vibrant sauce that complements delicate fish beautifully without overwhelming it.
-
 **Serves:** 4
 **Prep Time:** 10 minutes
 **Cook Time:** 2 minutes
+
+## Overview
+The combination of hot and sour is a signature of western Chinese cuisine. This quick, simple dish is perfect for a light family meal or elegant entertaining. The interplay between chilli heat, vinegar acidity, and savoury umami creates a vibrant sauce that complements delicate fish beautifully without overwhelming it.
 
 ## Ingredients
 

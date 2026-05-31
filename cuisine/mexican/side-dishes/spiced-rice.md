@@ -4,12 +4,12 @@
 
 *A Mexican spiced rice: long-grain rice toasted in oil with onion and garlic.*
 
-## Overview
-The combination of spices and tomato gives this rice its distinctive yellow-orange hue. This Mexican-style spiced rice is a versatile side dish that pairs perfectly with enchiladas, burritos, carnitas, and other Mexican mains. The aromatic cumin, paprika, and fresh jalapeños create an authentic flavour profile that complements any Mexican meal.
-
 **Serves:** 4
 **Prep Time:** 10 minutes
 **Cook Time:** 35 minutes
+
+## Overview
+The combination of spices and tomato gives this rice its distinctive yellow-orange hue. This Mexican-style spiced rice is a versatile side dish that pairs perfectly with enchiladas, burritos, carnitas, and other Mexican mains. The aromatic cumin, paprika, and fresh jalapeños create an authentic flavour profile that complements any Mexican meal.
 
 ## Ingredients
 
