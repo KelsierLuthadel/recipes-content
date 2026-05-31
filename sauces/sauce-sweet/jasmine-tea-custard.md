@@ -1,6 +1,6 @@
 # Jasmine Tea Custard
 
-![Jasmine tea custard](resources/jasmine-custard.PNG)
+![Jasmine tea custard](resources/jasmine-custard.png)
 
 *This delectable sauce is based on a recipe of the late, great chef Alain Chapel. It is especially delicious served with a slice of freshly grilled brioche, sprinkled with a veil of icing sugar.*
 
