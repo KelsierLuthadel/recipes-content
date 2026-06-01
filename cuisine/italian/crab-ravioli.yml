@@ -18,7 +18,6 @@ tags:
 mentions:
   - tutorials/pizza/cheese
   - tutorials/pizza/dough
-  - tutorials/pizza/sauce
 ingredients:
   - qty: 300
     unit: g

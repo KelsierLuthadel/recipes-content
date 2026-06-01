@@ -17,6 +17,7 @@ mentions:
   - tutorials/pizza/cheese
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/bechamel
 ingredients:
   - qty: 400
     unit: g

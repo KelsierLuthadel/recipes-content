@@ -1,0 +1,71 @@
+prep: 30 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - cheese
+mentions:
+  - cuisine/mexican/carne-asada
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: flank or skirt steak
+    raw: 500 g flank or skirt steak
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, crushed
+  - qty: 2
+    name: limes
+    raw: 2 limes, juiced
+  - qty: 2
+    unit: tbsp
+    name: oil
+    raw: 2 tbsp oil
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 2
+    name: extra-large sonoran flour tortillas
+    raw: 2 extra-large Sonoran flour tortillas
+  - qty: 250
+    unit: g
+    name: chihuahua
+    raw: 250 g Chihuahua, Asadero or mozzarella cheese, grated
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes, sliced
+  - qty: 2
+    name: avocados
+    raw: 2 ripe avocados, sliced
+  - qty: 100
+    unit: g
+    name: pepperoni or sliced chorizo
+    raw: 100 g pepperoni or sliced chorizo
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - name: coriander
+    raw: Fresh coriander
+  - name: pickled jalapenos
+    raw: Pickled jalapeños

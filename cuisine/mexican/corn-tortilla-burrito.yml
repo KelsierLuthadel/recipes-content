@@ -1,0 +1,77 @@
+prep: 25 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - cheese
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: chuck beef or pork shoulder
+    raw: 500 g chuck beef or pork shoulder, cubed small
+  - qty: 1
+    name: onion
+    raw: 1 onion, finely chopped
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, crushed
+  - qty: 2
+    name: guajillo chiles
+    raw: 2 dried guajillo chiles, toasted and rehydrated
+  - qty: 1
+    name: ancho chile
+    raw: 1 dried ancho chile, toasted and rehydrated
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: mexican oregano
+    raw: 1 tsp Mexican oregano
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 400
+    unit: ml
+    name: stock
+    raw: 400 ml stock
+  - qty: 2
+    unit: tbsp
+    name: oil
+    raw: 2 tbsp oil
+  - qty: 8
+    name: corn tortillas
+    raw: 8 large corn tortillas
+  - qty: 200
+    unit: g
+    name: refried beans
+    raw: 200 g cooked refried beans, warmed
+  - qty: 200
+    unit: g
+    name: chihuahua or monterey jack cheese
+    raw: 200 g Chihuahua or Monterey Jack cheese, grated
+  - name: salsa verde
+    raw: Salsa verde
+  - name: coriander
+    raw: Fresh coriander

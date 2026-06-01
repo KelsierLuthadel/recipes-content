@@ -1,0 +1,103 @@
+prep: 45 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - cream
+  - cheese
+  - complex
+mentions:
+  - cuisine/mexican/carne-asada
+  - cuisine/mexican/side-dishes/mexican-rice
+  - cuisine/mexican/snacks/guacamole
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 500
+    unit: g
+    name: flank or skirt steak
+    raw: 500 g flank or skirt steak
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, crushed
+  - qty: 2
+    name: limes
+    raw: 2 limes, juiced
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 200
+    unit: g
+    name: long-grain rice
+    raw: 200 g long-grain rice
+  - qty: 1
+    unit: tbsp
+    name: oil
+    raw: 1 tbsp oil
+  - qty: 0.5
+    name: /2 onion
+    raw: 1/2 onion, chopped
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tbsp tomato paste
+  - qty: 400
+    unit: ml
+    name: chicken stock
+    raw: 400 ml chicken stock
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 1
+    name: pinto beans
+    raw: 1 tin pinto beans, drained
+  - qty: 2
+    unit: tbsp
+    name: lard or oil
+    raw: 2 tbsp lard or oil
+  - qty: 0.5
+    name: /2 onion
+    raw: 1/2 onion, chopped
+  - qty: 4
+    name: extra-large flour tortillas
+    raw: 4 extra-large flour tortillas
+  - qty: 200
+    unit: g
+    name: monterey jack cheese
+    raw: 200 g Monterey Jack cheese, grated
+  - qty: 1
+    name: avocado
+    raw: 1 ripe avocado, mashed
+  - qty: 200
+    unit: g
+    name: pico de gallo
+    raw: 200 g pico de gallo
+  - name: sour cream
+    raw: Sour cream
+  - name: salsa verde
+    raw: Salsa verde
+  - name: coriander
+    raw: Fresh coriander

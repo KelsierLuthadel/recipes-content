@@ -1,0 +1,102 @@
+prep: 30 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - cream
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/mission-burrito
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef or pork
+    raw: 500 g ground beef or pork
+  - qty: 1
+    name: onion
+    raw: 1 onion, finely chopped
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, crushed
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: mexican oregano
+    raw: 1 tsp Mexican oregano
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 200
+    unit: g
+    name: refried beans
+    raw: 200 g cooked refried beans
+  - qty: 1
+    unit: tbsp
+    name: oil
+    raw: 1 tbsp oil
+  - qty: 4
+    name: guajillo chiles
+    raw: 4 dried guajillo chiles, toasted and rehydrated
+  - qty: 2
+    name: ancho chiles
+    raw: 2 dried ancho chiles, toasted and rehydrated
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp cumin
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 tsp oregano
+  - qty: 400
+    unit: ml
+    name: chicken stock
+    raw: 400 ml chicken stock
+  - name: salt
+    raw: Salt to taste
+  - qty: 4
+    name: flour tortillas
+    raw: 4 large flour tortillas
+  - qty: 300
+    unit: g
+    name: monterey jack or cheddar cheese
+    raw: 300 g Monterey Jack or cheddar cheese, grated
+  - name: shredded iceberg lettuce
+    raw: Shredded iceberg lettuce
+  - name: tomato
+    raw: Sliced tomato
+  - name: sour cream
+    raw: Sour cream
+  - name: jalapenos
+    raw: Sliced jalapeños

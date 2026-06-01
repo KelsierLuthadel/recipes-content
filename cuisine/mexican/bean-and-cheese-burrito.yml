@@ -1,0 +1,39 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - quick
+  - meals
+  - onion
+  - cheese
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 400
+    unit: g
+    name: pinto beans
+    raw: 400 g cooked pinto beans
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: lard or vegetable oil
+    raw: 2 tbsp lard or vegetable oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 200
+    unit: g
+    name: chihuahua or asadero cheese
+    raw: 200 g Chihuahua or Asadero cheese, grated
+  - qty: 4
+    name: flour tortillas
+    raw: 4 large flour tortillas
+  - name: "optional: a few pickled jalapeno rings"
+    raw: "Optional: a few pickled jalapeño rings"

@@ -1,0 +1,94 @@
+prep: 30 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - cream
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/snacks/guacamole
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 750
+    unit: g
+    name: chuck beef or pork shoulder
+    raw: 750 g chuck beef or pork shoulder, cubed
+  - qty: 1
+    name: onion
+    raw: 1 onion, finely chopped
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, crushed
+  - qty: 3
+    name: guajillo chiles
+    raw: 3 dried guajillo chiles, toasted and rehydrated
+  - qty: 2
+    name: ancho chiles
+    raw: 2 dried ancho chiles, toasted and rehydrated
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: mexican oregano
+    raw: 1 tsp Mexican oregano
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 400
+    unit: ml
+    name: beef stock
+    raw: 400 ml beef stock
+  - qty: 2
+    unit: tbsp
+    name: oil
+    raw: 2 tbsp oil
+  - name: salt
+    raw: Salt to taste
+  - qty: 1
+    name: pinto beans
+    raw: 1 tin cooked pinto beans, drained
+  - qty: 2
+    unit: tbsp
+    name: lard or oil
+    raw: 2 tbsp lard or oil
+  - qty: 0.5
+    name: /2 onion
+    raw: 1/2 onion, chopped
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 4
+    name: flour tortillas
+    raw: 4 large flour tortillas
+  - qty: 200
+    unit: g
+    name: monterey jack or chihuahua cheese
+    raw: 200 g Monterey Jack or Chihuahua cheese, grated
+  - name: pickled jalapenos
+    raw: Pickled jalapeños
+  - name: salsa or salsa roja
+    raw: Fresh salsa or salsa roja
+  - qty: 1
+    name: red chile
+    raw: 1 fresh red chile, sliced
+  - name: sour cream
+    raw: Sour cream
+  - name: coriander
+    raw: Fresh coriander

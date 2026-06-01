@@ -1,0 +1,54 @@
+prep: 30 minutes
+cook: 15 minutes (assuming filling is ready)
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - meals
+  - meat
+  - chicken
+  - rice
+  - cream
+  - cheese
+mentions:
+  - cuisine/mexican/carne-asada
+  - cuisine/mexican/side-dishes/mexican-rice
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 500
+    unit: g
+    name: carne asada
+    raw: 500 g carne asada, carnitas or grilled chicken, chopped
+  - qty: 200
+    unit: g
+    name: mexican rice
+    raw: 200 g cooked Mexican rice
+  - qty: 200
+    unit: g
+    name: refried beans
+    raw: 200 g refried beans, warm
+  - qty: 150
+    unit: g
+    name: monterey jack cheese
+    raw: 150 g Monterey Jack cheese, grated
+  - qty: 1
+    name: avocado
+    raw: 1 ripe avocado, sliced or mashed
+  - qty: 100
+    unit: g
+    name: pico de gallo
+    raw: 100 g pico de gallo
+  - qty: 4
+    unit: tbsp
+    name: sour cream
+    raw: 4 tbsp sour cream
+  - name: salsa
+    raw: Salsa to taste
+  - qty: 4
+    name: flour tortillas
+    raw: 4 large flour tortillas
+  - qty: 2
+    unit: tbsp
+    name: oil
+    raw: 2 tbsp oil for the plancha

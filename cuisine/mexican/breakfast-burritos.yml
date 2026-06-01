@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - meals
+  - meat
+  - pork
+  - eggs
+  - onion
+  - potato
+  - cheese
+mentions:
+  - cuisine/mexican/carne-asada
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: waxy potatoes
+    raw: 500 g waxy potatoes, cubed small
+  - qty: 200
+    unit: g
+    name: mexican chorizo
+    raw: 200 g Mexican chorizo , casings removed
+  - qty: 6
+    name: eggs
+    raw: 6 large eggs, lightly beaten
+  - qty: 200
+    unit: g
+    name: monterey jack or chihuahua cheese
+    raw: 200 g Monterey Jack or Chihuahua cheese, grated
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: oil
+    raw: 2 tbsp oil
+  - name: salt and pepper
+    raw: Salt and pepper
+  - qty: 4
+    name: flour tortillas
+    raw: 4 large flour tortillas
+  - name: pickled jalapenos
+    raw: Pickled jalapeños
+  - name: pico de gallo or salsa roja
+    raw: Pico de gallo or salsa roja
+  - name: hot sauce
+    raw: Hot sauce
+  - name: mashed avocado
+    raw: Mashed avocado
+  - name: crispy cooked bacon
+    raw: Crispy cooked bacon

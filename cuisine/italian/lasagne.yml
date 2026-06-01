@@ -22,6 +22,7 @@ mentions:
   - cuisine/italian/pesto
   - tutorials/pizza/cheese
   - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/bechamel
 ingredients:
   - qty: 3
     unit: tbsp
