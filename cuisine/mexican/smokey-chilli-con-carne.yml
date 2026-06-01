@@ -1,0 +1,95 @@
+prep: 30 minutes
+cook: 8 hours
+allergens:
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/american/side-dishes/cornbread
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: beef
+    raw: 1.5 kg beef
+  - name: salt and crushed black pepper
+    raw: Salt and crushed black pepper
+  - qty: 3
+    name: red and yellow/brown onions
+    raw: 3 medium red and yellow/brown onions
+  - qty: 3
+    name: celery sticks
+    raw: 3 celery sticks
+  - qty: 2
+    name: red bell peppers
+    raw: 2 red bell peppers
+  - qty: 2
+    name: green bell peppers
+    raw: 2 green bell peppers
+  - qty: 2
+    name: ancho dried chillies
+    raw: 2 ancho dried chillies
+  - qty: 2
+    name: arbol dried chillies
+    raw: 2 arbol dried chillies
+  - qty: 6
+    name: guajillo dried chillies
+    raw: 6 guajillo dried chillies
+  - qty: 4
+    name: pasilla dried chillies
+    raw: 4 pasilla dried chillies
+  - qty: 5.5
+    name: garlic cloves
+    raw: 5-6 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: cumin
+    raw: 2 tbsp ground cumin
+  - qty: 2
+    unit: tbsp
+    name: smoked paprika
+    raw: 2 tbsp smoked paprika
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 140
+    unit: g
+    name: tomato puree
+    raw: 140 g tomato purée
+  - qty: 500
+    unit: ml
+    name: bone broth
+    raw: 500 ml bone broth
+  - qty: 500
+    unit: ml
+    name: lager
+    raw: 500 ml lager
+  - qty: 2
+    name: tomatoes
+    raw: 2 tins chopped tomatoes
+  - qty: 2
+    name: black beans
+    raw: 2 tins black beans
+  - qty: 2.5
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 2-3 tbsp Worcestershire sauce
+  - qty: 1
+    name: coriander
+    raw: Bunch of fresh coriander
+  - name: salt and black pepper
+    raw: Salt and black pepper to taste

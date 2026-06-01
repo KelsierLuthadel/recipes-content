@@ -1,0 +1,131 @@
+prep: 25 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - cream
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/side-dishes/mexican-rice
+  - cuisine/mexican/side-dishes/refried-beans
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: chicken breast
+    raw: 500 g chicken breast
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 1
+    name: yellow bell pepper
+    raw: 1 yellow bell pepper
+  - qty: 1
+    name: red onion
+    raw: 1 large red onion
+  - qty: 1
+    name: courgette
+    raw: 1 courgette
+  - qty: 1
+    name: mozzarella ball
+    raw: 1 mozzarella ball
+  - qty: 250
+    unit: g
+    name: cheddar
+    raw: 200-300 g cheddar
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tbsp paprika
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tbsp cumin
+  - qty: 350
+    unit: ml
+    name: chilli base sauce
+    raw: 350 ml chilli base sauce
+  - qty: 350
+    unit: ml
+    name: water
+    raw: 350 ml hot water
+  - qty: 4
+    name: tortillas
+    raw: 4 large tortillas
+  - qty: 6
+    name: guajillo dried chillies
+    raw: 6 guajillo dried chillies
+  - qty: 4
+    name: pasilla dried chillies
+    raw: 4 pasilla dried chillies
+  - qty: 3
+    name: ancho dried chillies
+    raw: 3 ancho dried chillies
+  - qty: 3
+    name: arbol dried chillies
+    raw: 3 arbol dried chillies
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 500
+    unit: ml
+    name: tomato passata
+    raw: 500 ml tomato passata
+  - qty: 1
+    unit: l
+    name: chicken & vegetable stock
+    raw: 1 litre chicken & vegetable stock
+  - qty: 1
+    unit: tbsp
+    name: coriander seed
+    raw: 1 tbsp ground coriander seed
+  - qty: 2
+    unit: tbsp
+    name: paprika
+    raw: 2 tbsp paprika
+  - qty: 2
+    name: limes
+    raw: 2 limes
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tbsp Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: brown sugar
+    raw: 1 tbsp brown sugar
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion
+  - name: coriander
+    raw: Fresh coriander
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - name: sour cream
+    raw: Sour cream

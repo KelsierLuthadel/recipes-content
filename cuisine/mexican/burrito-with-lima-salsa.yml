@@ -1,0 +1,120 @@
+prep: 30 minutes
+cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - tomato
+  - lime
+  - coriander
+  - cream
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/side-dishes/refried-beans
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken thighs
+    raw: 1 kg chicken thighs
+  - name: olive oil
+    raw: Olive oil for frying
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tbsp cumin
+  - qty: 1
+    unit: tbsp
+    name: coriander seed
+    raw: 1 tbsp ground coriander seed
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tbsp paprika
+  - qty: 0.5
+    unit: tbsp
+    name: oregano
+    raw: ½ tbsp dried oregano
+  - qty: 1.5
+    unit: tsp
+    name: chilli flakes
+    raw: 1-2 tsp chilli flakes
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 330
+    unit: ml
+    name: light lager
+    raw: 330 ml light lager
+  - qty: 300
+    unit: ml
+    name: chicken or vegetable stock
+    raw: 300 ml chicken or vegetable stock
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tbsp tomato purée
+  - qty: 3.5
+    name: rings fresh pineapple
+    raw: 3-4 rings fresh pineapple, 1cm thick
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 1
+    name: yellow bell pepper
+    raw: 1 yellow bell pepper
+  - qty: 1
+    name: red onion
+    raw: 1 red onion
+  - qty: 1
+    name: red chilli
+    raw: 1 fresh red chilli
+  - qty: 1
+    name: green chilli
+    raw: 1 fresh green chilli
+  - qty: 1.5
+    name: spring onions
+    raw: 1-2 spring onions
+  - qty: 1
+    unit: large handful
+    name: plum or cherry tomatoes
+    raw: Large handful of baby plum or cherry tomatoes
+  - qty: 1.5
+    name: limes
+    raw: 1-2 limes
+  - qty: 1
+    name: coriander
+    raw: Bunch of fresh coriander
+  - qty: 6
+    name: soft flour tortillas
+    raw: 6 soft flour tortillas
+  - qty: 0.5
+    name: head iceberg lettuce
+    raw: ½ head iceberg lettuce
+  - qty: 250
+    unit: g
+    name: cheddar cheese
+    raw: 200-300 g cheddar cheese
+  - name: pickled jalapenos
+    raw: Pickled jalapeños
+  - qty: 1
+    name: pack microwave rice
+    raw: 1 pack microwave rice
+  - name: hot sauce
+    raw: Hot sauce
+  - name: sour cream
+    raw: Sour cream
+  - name: lime wedges
+    raw: Lime wedges

@@ -14,7 +14,8 @@ tags:
   - garlic
   - tomato
   - chili
-mentions: []
+mentions:
+  - cuisine/mexican/enchilladas
 ingredients:
   - qty: 1
     unit: tsp
