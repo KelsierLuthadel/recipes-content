@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Cassava boils in salted water until a knife slides through easily. Garlic is crushed to a coarse paste with salt; sour orange juice (or lime + orange) mixes in; hot olive oil is poured over, blooming the garlic. The drained yuca goes into a serving dish; the mojo gets poured generously on top.
+Yuca con mojo is the Cuban side that turns a humble cassava root into something punchy, garlicky and almost greasy in the best way. The yuca (cassava) boils in salted water until a knife slides through easily; this can take fifteen to thirty minutes depending on the freshness of the root. Meanwhile you crush garlic to a coarse paste with salt; sour orange juice (or lime mixed with orange if you can't find sour oranges) mixes in; hot olive oil pours over the garlic mixture to bloom it, the kitchen filling with that distinctive raw-garlic-meets-hot-oil aroma. The drained yuca lands on a serving dish, the mojo gets poured generously over the top, and everyone digs in with their hands. Beside roast pork, this is what Cuban Sunday lunch looks like.
 
 ## Ingredients
 

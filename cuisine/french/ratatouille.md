@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Each vegetable browns in olive oil in batches so it keeps its texture; they meet in a pan with garlic, herbs and tomato to merge into a glossy stew. The slow-cooked tomato base provides the binder; the discrete vegetables provide the structure.
+Ratatouille is the great Provençal vegetable stew, the dish that proves the right tomato and the right olive oil are the whole of cooking. The trick is the discipline: each vegetable (aubergine, courgette, pepper, onion, tomato) browns separately in olive oil in batches, so each one keeps its texture and picks up colour without steaming everything else into mush. The browned vegetables meet in a wide pan with garlic, herbes de Provence and chopped tomato; everything simmers together for half an hour into a glossy stew. The slow-cooked tomato provides the binder, the discrete vegetables provide the structure, and you can still identify every component on the plate. Serve hot, room temperature or cold the next day with bread.
 
 ## Ingredients
 

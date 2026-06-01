@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Sharp cheddar is grated on the LARGE side of a box grater (not the small, texture matters). A small amount of cream cheese is softened to bind. Jarred roasted red peppers (pimentos) are drained and chopped fine. Everything is mixed with mayonnaise, Worcestershire, garlic powder, paprika, lots of black pepper, and a tiny pinch of cayenne. Chilled for 30 min to let the flavours meld. Eaten with crackers or made into a sandwich.
+Pimento cheese is the Southern spread the New Orleans Creoles adopted as their own, served on crackers at every porch-party and slid in between two slices of soft white bread for a proper Southern sandwich. Sharp cheddar grates on the LARGE holes of a box grater (this is non-negotiable; the small holes give a paste, the large holes give the right rough texture). A small amount of cream cheese softens to bind. Jarred roasted red peppers (pimentos) drain and chop fine. Everything mixes with mayonnaise, Worcestershire, garlic powder, paprika, lots of black pepper, and a tiny pinch of cayenne. Chill for half an hour to let the flavours meld. Eat with crackers, with celery sticks, or made into a sandwich. Keeps a week in the fridge.
 
 ## Ingredients
 - 400 g mature sharp cheddar cheese (extra-mature or vintage; ORANGE cheddar gives the iconic colour but white works)

@@ -23,7 +23,7 @@
 - 32 blanched almonds
 
 ## Overview
-An elegant and sophisticated mousse showcasing the delicate flavor of ripe apricots enriched with Cognac, crowned with candied almonds that provide a beautiful crunch. This refined dessert balances fruit flavor with alcohol warmth and almond texture, making it a memorable finale to a refined dinner.
+Apricot cognac mousse is the elegant fruit dessert that brings together ripe summer apricots and a generous splash of cognac, topped with candied almonds for textural crunch. You poach the apricots briefly in a vanilla-sugar syrup until they're tender enough to mash; cool, blend with cognac into a smooth purée. The base is a sabayon (yolks whisked over gentle heat with sugar to thick pale foam); the cooled apricot purée folds in, then softly whipped cream, then a small ladle of bloomed gelatine to set the mousse softly. Spoon into glasses; chill overnight. Top each glass with caramelised candied almonds at service for the crunch.
 
 ## Method
 1. Put 750 ml of the sirop a sorbet and the vanilla pod into a medium saucepan and bring to the boil.

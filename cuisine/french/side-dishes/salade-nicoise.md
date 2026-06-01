@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Eggs hard-boil; cool; peel; quarter. New potatoes simmer in salted water until tender; drain; halve while warm; toss with a spoon of vinegar. Green beans blanch briefly; cool. Tomatoes wedge (the best you can find). The dressing: red wine vinegar, olive oil, Dijon mustard, crushed garlic, salt and pepper whisks together. Composition on a wide platter: a base of lettuce leaves (optional, traditional purists skip), then arranged piles of each cooked / prepared ingredient, wedges of tomato, halved eggs, halved potatoes, green beans, drained tuna chunks, niçoise olives, anchovy fillets. Drizzled with the dressing. Scattered with basil. Eaten with crusty bread.
+Salade niçoise is the classic Provençal salad named for the city of Nice, a composed plate of cooked ingredients laid out side by side rather than tossed, the contrast and arrangement being half the dish. You hard-boil and peel eggs; cook new potatoes in salted water and halve them while still warm with a spoon of vinegar so they soak up the dressing; blanch green beans briefly; cut the best tomatoes you can find into wedges. A red wine vinaigrette with Dijon mustard, crushed garlic, salt and pepper whisks together. The composition on a wide platter: optional lettuce base (traditional purists skip), then arranged piles of each cooked and prepared ingredient, tomato wedges, halved eggs, halved potatoes, green beans, drained tuna chunks, niçoise olives, anchovy fillets. Drizzle with the dressing; scatter basil. Eat with crusty bread and a glass of cold rosé.
 
 ## Ingredients
 

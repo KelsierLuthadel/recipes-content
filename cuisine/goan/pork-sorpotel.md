@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Pork shoulder and liver are par-boiled with whole spices, then diced. A masala paste of roasted Kashmiri chillies, peppercorns, cinnamon, cloves and cumin is ground with garlic, ginger and a generous splash of palm vinegar. The diced meat is browned in pork fat, the paste fried until the oil separates, and the cooking stock added for a slow simmer. The dish improves dramatically after 24-48 hours in the fridge; Goans traditionally make it the day before serving.
+Pork sorpotel is the Portuguese-Goan vinegar pork stew, traditionally made for celebrations and improving dramatically with a day or two of resting in the fridge before serving. Pork shoulder and liver par-boil with whole spices, drain, then dice fine. A masala paste of roasted Kashmiri chillies, peppercorns, cinnamon, cloves and cumin grinds with garlic, ginger and a generous splash of palm vinegar. The diced meat browns in pork fat, the paste fries until the oil separates, the reserved cooking stock pours in for a slow simmer. The dish improves dramatically after twenty-four to forty-eight hours in the fridge; Goans traditionally make it the day before serving for that reason. Eat with sannas (Goan steamed bread) or plain rice.
 
 ## Ingredients
 

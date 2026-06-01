@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A pork-mince filling with carrot, onion, garlic, soy and pepper rolls tightly into thin spring-roll wrappers, finger-sized. Deep-fries golden in 4 minutes. The wrappers are key, Filipino lumpia wrappers are thinner than Chinese spring-roll skins and crisp differently.
+Lumpia Shanghai is the Filipino party-snack version of the spring roll, finger-thin rolls filled with seasoned pork mince and deep-fried until they crackle in three bites. The filling is straightforward: pork mince mixed with finely grated carrot, finely chopped onion, garlic, soy sauce and pepper, all rolled tightly into spring-roll wrappers that are thinner than their Chinese cousins and crisp differently. You roll them finger-thin and pencil-long, sealing the edges with a brush of egg or water. Four minutes at 175°C in hot oil gets them deep gold and audibly crackly. Serve hot from the oil with sweet chilli sauce or banana ketchup for dipping; eat by the dozen at a Filipino fiesta table.
 
 ## Ingredients
 

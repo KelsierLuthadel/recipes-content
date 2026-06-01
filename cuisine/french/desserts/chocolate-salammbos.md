@@ -16,7 +16,7 @@
 - 200 ml [crème chantilly](../../../baking/cremes/creme-chantilly.md)
 
 ## Overview
-Elegan pear-shaped chocolate cream-filled choux buns, topped with a caramel coating and candied violets for ornament. These show-stopping petits fours combine the delicate sweetness of choux, rich chocolate cream, and brittle caramel, making them perfect for elegant receptions and special occasions.
+Salammbôs are the elegant pear-shaped choux pastries of French pâtisserie tradition, named for Flaubert's novel and topped with brittle caramel and candied violets for the formal-occasion look. You pipe choux paste into small elongated shapes (the pear silhouette) and bake until they're hollow and crisp. The cooled buns get a centre pipe of chocolate cream (a rich chocolate-flavoured crème pâtissière). The tops dip in caramel that sets glassy in seconds; a single candied violet presses into each top while the caramel is still soft. Serve as petits fours at the end of a formal dinner or wedding reception.
 
 ## Method
 ### Make the salammbos

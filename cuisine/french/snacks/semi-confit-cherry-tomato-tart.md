@@ -11,7 +11,7 @@
 **Cook Time:** 75 minutes
 
 ## Overview
-A rustic yet sophisticated tart featuring slowly roasted cherry tomatoes with fragrant basil and garlic on a crisp pastry base. The semi-confit technique concentrates tomato sweetness while preserving brightness. A summer-perfect vegetarian tart celebrating tomatoes at their peak.
+This is the late-summer French tomato tart, a rustic-elegant assembly of slow-roasted cherry tomatoes on a crisp pastry base, perfumed with basil and garlic. The semi-confit technique is the trick: you roast halved cherry tomatoes slowly at 120°C with olive oil, garlic and herbs for ninety minutes so the sugars concentrate but the texture stays soft and the flavour stays bright (full confit would push them into jam territory). The pastry blind-bakes to a deep gold; the warm tomatoes scatter across; torn basil and a final drizzle of olive oil finish. Eat warm or at room temperature, ideally outside, in summer.
 
 ## Ingredients
 ### Pastry

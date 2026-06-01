@@ -9,7 +9,7 @@
 **Yield:** Approximately 24-28 falafels
 
 ## Overview
-Falafel represents the apotheosis of vegetarian fried food: beans ground to a light, slightly grainy purée, bound minimally with herbs and spices, then deep-fried until the exterior shatters with crispness while the interior remains creamy and pale green. The key to success is never cooking the dried beans, using only dried, soaked varieties (never canned), which allows the texture to remain light and fluffy rather than becoming dense. The extended resting period before frying allows the mixture to firm up, holding its shape during cooking. These are best eaten absolutely fresh, while the interior is still steaming and the exterior crackles.
+Ta'amia is the Egyptian falafel, made with split dried fava beans rather than the chickpeas the Levantine version uses, and the difference is enormous: a paler, fluffier interior, a deeper savoury note, and a coriander-forward herbal lift that's distinctly Cairene. The dried beans soak (never get cooked, the texture depends on raw soaked beans) for at least twelve hours, then blitz with onion, garlic, parsley, coriander, dill and a generous dose of ground cumin and coriander into a coarse green paste. An extended rest before frying lets the mixture firm up. Shape into thick patties, press into sesame seeds, deep-fry at 175°C until the outside crackles into a deep amber crust. Eat hot, the moment they leave the oil, the interior still steaming and pale green.
 
 ## Ingredients
 

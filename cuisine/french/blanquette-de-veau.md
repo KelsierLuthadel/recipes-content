@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¾ hours
 
 ## Overview
-Veal shoulder or breast simmers in white stock with onion, carrot and bouquet garni until tender. The strained stock is reduced and bound with a cream-yolk liaison; mushrooms and pearl onions cooked separately go in at the end. Served with rice or buttered noodles.
+Blanquette de veau is the white-on-white veal stew that turns up on bistro chalkboards across France in the spring, a dish defined by what it doesn't have: no browning, no colour, no caramel, just pale veal in a creamy stock-bound sauce. Veal shoulder or breast simmers in a white stock with onion, carrot and a bouquet garni until the meat is tender enough to surrender. You strain and reduce the cooking stock, then bind it with a liaison of cream and egg yolks whisked together off the heat (boil the liaison and it scrambles, the cardinal sin of blanquette). Mushrooms and pearl onions cook separately in butter so they keep their shape and join at the end. Serve with steamed rice or buttered noodles; a squeeze of lemon at the table cuts through the cream.
 
 ## Ingredients
 

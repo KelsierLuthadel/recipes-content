@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 15 minutes
 
 ## Overview
-Lamb shoulder simmers in a spiced stock for 90 minutes until tender. Meanwhile, basmati rice cooks pilaf-style. Pieces of baladi bread (or pita) crisp in the oven. A dakka sauce: garlic, vinegar, coriander, butter, all sizzled briefly. A tomato sauce reduces. Layer: bread → rice → dakka → tomato sauce → shredded meat → ladles of cooking liquor.
+Fattah is the celebration dish of Egypt, served at Eid al-Adha and at weddings, a layered pot of crisp bread, rice, sauce and meat that's been on Egyptian tables since the Fatimid caliphate. Lamb shoulder simmers slowly in a spiced stock for ninety minutes until the meat is tender enough to shred under a fork. Meanwhile basmati rice cooks pilaf-style; pieces of baladi bread (or pita) crisp in the oven. A dakka sauce of garlic, vinegar, coriander and butter sizzles fast in a small pan; a separate tomato sauce reduces. The layering is the magic: bread on the bottom, then rice, then dakka, then tomato sauce, then shredded meat, then ladles of the cooking liquor over the lot so the bread softens at the bottom but the top stays crisp. Eat with a big spoon, going through all the layers in every bite.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A simple dough of flour, salt, oil, water rests for 30 minutes. Two portions; each portion rolls and stretches paper-thin on an oiled surface (similar to filo or strudel). Drizzles of melted ghee between thin layers; folded in thirds, rolled flat, folded again, baked at 220°C until deeply gold and crisp at the edges.
+Feteer meshaltet is the Egyptian layered pastry sometimes called Egyptian pizza, a paper-thin folded ghee-laminated dough that bakes into something between a pastry and a flatbread. The dough is humble: flour, salt, oil and water rested for half an hour to relax. You divide it into two and stretch each portion paper-thin on a heavily-oiled surface, the way you would for strudel or filo. Drizzles of melted ghee go between the thin layers; the dough folds in thirds, rolls flat, folds again. Bake at 220°C until deeply gold at the edges and audibly crisp. Eat sweet (with honey and cheese) or savoury (with cheese and za'atar), at any meal.
 
 ## Ingredients
 

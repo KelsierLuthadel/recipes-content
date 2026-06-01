@@ -2,7 +2,7 @@
 
 ![Bouillabaisse](resources/bouillabaisse.jpg)
 
-*Marseille fishermen's stew: a saffron-tomato broth carrying multiple kinds of fish and sometimes shellfish, served with rouille-spread croutons. Built from whatever the catch threw up; what's traditional now was once just whatever was cheap.*
+*Marseille fishermen's stew: a saffron-tomato broth carrying multiple kinds of fish and sometimes shellfish, served with rouille-spread croutons. Built from whatever the catch threw up; what's traditional now was once just whatever the day's catch left unsold.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-A fish stock built from heads and bones is enriched with tomato, fennel, leek, saffron and orange peel. Firm fish go in first, delicate fish later. Rouille (a saffron-garlic mayonnaise) gets spread on toasted baguette and floated on top.
+Bouillabaisse is the Marseille fishermen's stew that began as a way to use the cuts of fish nobody wanted to buy at market and ended up as one of the most ceremoniously served dishes in French cuisine. The base is a fish stock built from heads and bones, enriched with tomato, fennel, leek, saffron and a strip of dried orange peel that gives the broth its faintly Provençal perfume. Firm fish (rascasse, conger, gurnard) goes in first because they take longer; delicate fish (sea bass, red mullet) join later so they don't fall apart. Rouille, a fierce saffron-garlic mayonnaise, spreads onto toasted baguette and floats on top of each bowl. Eat in two courses the proper Marseille way: the broth with the bread and rouille first, then the fish on a separate plate.
 
 ## Ingredients
 

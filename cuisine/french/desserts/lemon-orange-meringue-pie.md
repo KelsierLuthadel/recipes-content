@@ -35,7 +35,7 @@
 - 2 level teaspoons cornflour
 
 ## Overview
-A classic British-style meringue pie with a buttery shortbread pastry shell, sharp lemon-orange curd filling, and a towering cap of crisp-edged, soft-centered Italian meringue. This tangy and sweet dessert perfectly showcases the interplay of flavors and textures, from the crumbly pastry through the silky curd to the cloud-like meringue topping.
+This is the citrus-charged version of lemon meringue pie, with both lemon and orange in the curd for depth and brightness. The pastry is a buttery shortbread blind-baked to set the base. The curd cooks gently on the stove: eggs whisked with sugar, lemon juice, orange juice and zest, then butter swirled in off the heat for the silky finish. The curd pours into the cooled shell. An Italian meringue (whites whipped over hot sugar syrup) piles on top in tall peaks; a hot oven (or kitchen torch) browns the peaks to deep gold while the meringue's centre stays soft. Serve at room temperature; the contrast of crisp pastry, sharp curd and cloud meringue is the entire point.
 
 ## Method
 ### To make the pastry

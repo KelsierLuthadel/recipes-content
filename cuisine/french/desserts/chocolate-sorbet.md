@@ -19,7 +19,7 @@
 - 8 meringue nests
 
 ## Overview
-A rich, bittersweet chocolate sorbet with an elegant presentation, served on crispy meringue nests for textural contrast. This sophisticated dessert combines the cooling refreshment of sorbet with the textural pleasure of meringue, creating a dessert that balances richness with lightness in every spoonful.
+Chocolate sorbet is the deeply concentrated version of chocolate ice cream, made without cream or eggs so the chocolate is the only thing you taste. The base is a thick chocolate syrup: water, sugar, cocoa powder and dark chocolate simmered together until smooth and glossy. Cool fully, then churn in an ice cream maker until set. For the elegant restaurant presentation, you bake small meringue nests separately and serve scoops of sorbet inside each one. The hot-meringue-crisp against the cold-sorbet-rich is the textural contrast that defines the dish.
 
 ## Method
 1. Put 400 ml of water into a saucepan with the milk, glucose and cocoa powder.

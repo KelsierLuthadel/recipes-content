@@ -18,7 +18,7 @@
 - 80 grams preserved stem ginger in syrup (finely diced, optional)
 
 ## Overview
-A sophisticated crème brûlée infused with the warm, biting heat of fresh and preserved ginger, creating a dessert that balances spice with luxury. The ginger juice provides background warmth while optional preserved ginger pieces add textural interest and visual appeal at serving time.
+Ginger crème brûlée is the warming winter variation on the French classic, the silky vanilla custard infused with fresh ginger juice for a background heat that hums under the burnt-sugar top. You grate fresh ginger fine and squeeze the pulp through cheesecloth to extract the juice (the pulp goes; only the juice). Cream warms gently with vanilla and the ginger juice; the standard yolk-sugar whisk and slow combine make the custard. Bain-marie bake in a low oven until just set with a slight wobble. Chill overnight; sprinkle sugar over the top at service and torch (or grill) until amber-glassy. Optional preserved ginger pieces tuck into the custard for textural interest. The ginger heat builds slowly behind the sugar crack.
 
 ## Method
 1. Preheat the oven to 100°C. Peel the root ginger, grate it finely, then place into a square of muslin and squeeze out as much juice as possible into a small dish.

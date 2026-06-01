@@ -19,7 +19,7 @@
 - 200 grams caster sugar
 
 ## Overview
-The pinnacle of classical French pastry work, this elaborate gâteau consists of a puff pastry base topped with a choux ring, surrounded by small caramel-topped choux puffs, and filled with vanilla-infused crème chantilly dusted with cocoa. This architectural masterpiece demands skill and precision but delivers stunning visual impact and sophisticated flavor.
+The gâteau Saint-Honoré is the pinnacle of classical French pastry, named for the patron saint of bakers and built in three layers: a puff pastry base, a ring of choux pastry baked into the base, a wreath of small caramel-glazed choux puffs around the edge, and a generous mound of vanilla-infused crème chantilly in the centre. You bake the puff base flat first, then pipe a ring of choux on top and bake again. Small choux puffs bake separately, get filled with crème pâtissière through their bottoms, and dip in caramel to glaze. The assembled cake takes the filled puffs arranged around the edge, the chantilly piped into the centre, and a final dust of cocoa across the top. This is the dessert for engagement parties, christenings and grand birthdays; it demands time and rewards with stunning visual impact.
 
 ## Method
 ### Pastry base

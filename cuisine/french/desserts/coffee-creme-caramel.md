@@ -25,7 +25,7 @@
 - 10 grams coffee beans (crushed, to serve)
 
 ## Overview
-An elegant custard-based crème caramel delicately infused with ground coffee, providing subtle bitterness and depth that balances the sweet caramel coating and silky custard. The coffee and caramel pairing creates a sophisticated flavor profile suitable for dinner parties and special occasions.
+This is the French restaurant version of crème caramel, infused with ground coffee for the subtle bitterness that distinguishes it from the standard vanilla version. You make the caramel first in each ramekin: sugar melts in a dry pan to deep amber, pours into the bottom of each ramekin and sets to a glassy disc. The custard infuses cream and milk gently with finely ground coffee for twenty minutes, then strains to remove the grounds. Eggs whisk with sugar without aerating; the warm coffee-cream pours in slowly. The custard goes into the ramekins, a bain-marie in a low oven sets it gently. Cool, chill overnight, invert onto plates at service so the caramel pools around the custard.
 
 ## Method
 ### For the caramel

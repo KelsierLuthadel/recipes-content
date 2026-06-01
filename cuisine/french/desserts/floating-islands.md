@@ -26,7 +26,7 @@
 - 210 grams caster sugar
 
 ## Overview
-Classic poached meringues served as "floating islands" atop silky crème anglaise, accompanied by delicately poached rhubarb and a drizzle of caramel for an elegant, intricate presentation. This refined French dessert creates beautiful textural contrast and showcases meringue's delicate, cloud-like quality.
+Floating islands (île flottante) is the classical French dessert of poached meringue clouds floating on a pool of silky crème anglaise, dramatic in presentation, deceptively simple in technique. The meringue is French (whites whipped with sugar until stiff and glossy); large spoonfuls poach gently in milk or water for two minutes so the surface sets but the centre stays soft. The crème anglaise is the classic French custard: yolks, sugar and milk cooked over gentle heat with vanilla until it coats the back of a spoon. To plate, you pour a pool of cool crème anglaise into a wide shallow dish; float a poached meringue "island" on top; drizzle caramel sauce over and arrange a few pieces of poached rhubarb beside. Eat with a spoon, breaking through the crisp caramel into the cloud beneath.
 
 ## Method
 1. Peel the rhubarb, if necessary, then rinse and cut into 5 cm long batons, 2 cm wide.

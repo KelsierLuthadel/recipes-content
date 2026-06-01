@@ -11,7 +11,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-Herb salsa is uniquely French despite the Spanish name: it's essentially a warm salsa based on creamy, newly cooked potato and fine herbs. Unlike the fresh salsas of Mexico and Mediterranean regions, this version relies on cooked potato for texture and structure, with sherry vinegar providing acid, and a combination of mustard and lemon juice offering complexity. The blend of fines herbes (parsley, chives, tarragon, chervil) creates aromatic brightness without the intensity of larger basil-based sauces. This is best served warm or at room temperature, never chilled; cold dulls the delicate herb character.
+Herb salsa is the slightly misleadingly-named French warm sauce, a textural side built on freshly cooked potato and fines herbes rather than the raw-tomato salsas of Mexico and the Mediterranean. Cooked potato gives the structure and binds the sauce; sherry vinegar carries the acid; Dijon mustard and lemon juice provide complexity without dominating. The herb blend is the classic French quartet, fines herbes (parsley, chives, tarragon, chervil), which brings the bright aromatic lift without the muscular intensity of basil. Best served warm or room temperature, never chilled; cold dulls the delicate herb character. Pair with grilled fish, roast chicken or boiled new potatoes.
 
 ## Ingredients
 

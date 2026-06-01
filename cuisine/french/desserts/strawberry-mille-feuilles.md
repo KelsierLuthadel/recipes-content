@@ -19,7 +19,7 @@
 - 300 grams strawberries (cut into 2 mm slices)
 
 ## Overview
-An elegant and refined dessert of crispy caramelized puff pastry layered with vanilla crème anglaise and fresh strawberries. The thin, shatteringly crisp pastry contrasts perfectly with the silky filling and juicy fruit, making this a showstopping presentation suitable for the finest dinner parties or celebrations.
+Mille-feuille (thousand leaves) is the French pastry shop classic, multiple layers of caramelised puff pastry stacked with vanilla crème pâtissière and fresh strawberries between each layer. You roll puff pastry thin, press it heavily under a baking tray as it cooks so the layers stay tight and don't puff dramatically, brush with sugar syrup for the caramelised top. Cut the cooled pastry into rectangles. The assembly is the careful part: a pastry rectangle, a generous layer of crème pâtissière piped on top, sliced fresh strawberries pressed in, another pastry rectangle, more cream and strawberries, a final pastry top dusted with icing sugar. Eat immediately; the pastry softens within an hour of assembly.
 
 ## Method
 1. Roll out the pastry on a lightly floured surface to a 36 x 12 cm rectangle, 4 mm thick,

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The frites take the longest (peel, cut, soak, fry low, drain, fry high) so start there. Béarnaise wants a clarified butter and a tarragon-vinegar reduction whisked into egg yolks. The steak is the easy part: hot pan, butter and thyme baste, rest hard.
+Steak frites is the French bistro dinner of last resort and first choice, a properly seared steak with hand-cut twice-fried potatoes and béarnaise sauce on the side, eaten at any hour in any town in France. The frites take the longest so start there: peel, cut, soak, fry low to par-cook, drain, fry high to crisp. Béarnaise wants a clarified butter and a tarragon-vinegar reduction whisked into egg yolks over gentle heat, a sauce that splits the second you raise the temperature too high. The steak is the easiest part: a smoking hot pan, butter and thyme to baste while the steak picks up its crust, a hard rest before slicing. Serve everything at once, with a glass of red and a green salad.
 
 ## Ingredients
 

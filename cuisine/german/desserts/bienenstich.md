@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-A milk-and-butter enriched yeast dough proves to soft and pillowy. A honey-almond topping (butter, honey, sugar, cream, flaked almonds) cooks on the stovetop until thickly bubbling, then spreads on the proved dough and bakes together: the dough rises, the topping caramelises golden and chewy. Once cooled, the cake splits horizontally and fills with thick vanilla pastry cream (Konditorcreme) lightened with whipped cream.
+Bienenstich (bee sting cake) is the German bakery classic with the brilliantly-named legend, supposedly invented by medieval bakers who used honey to fend off attacking neighbouring-town bakers and then ate the cake when the bees came calling. A milk-and-butter enriched yeast dough proves to soft and pillowy. A honey-almond topping (butter, honey, sugar, cream, flaked almonds) cooks on the stovetop until thickly bubbling, then spreads on the proved dough and bakes together: the dough rises, the topping caramelises into a chewy gold crust studded with toasted almonds. Once cooled, the cake splits horizontally with a long serrated knife and fills with thick vanilla pastry cream (Konditorcreme) lightened with whipped cream. Eat with afternoon coffee.
 
 ## Ingredients
 

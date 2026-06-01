@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours (much of it under the grill)
 
 ## Overview
-A single batter is made from coconut milk, egg yolks, plain flour, sugar and nutmeg. The bebinca is built in a small round dish layer by layer: a ladle of batter, ghee brushed on top, grilled until the surface is dark brown, then another ladle of batter, ghee, grill, repeat. Each layer is paper-thin; the finished cake has 16-20 visible layers when sliced. Patient work but the technique is simple. Tastes of coconut, nutmeg and gentle caramel.
+Bebinca is the Goan layered coconut-egg cake that you'd find at every Goan Christmas table, with sixteen to twenty paper-thin layers built one at a time under the grill. A single batter mixes from coconut milk, egg yolks, plain flour, sugar and ground nutmeg into something the colour of pale custard. The bebinca builds in a small round dish layer by layer: a ladle of batter, ghee brushed on top, grilled until the surface goes dark brown, then another ladle of batter, ghee, grill, repeat. Each layer is paper-thin; the finished cake has sixteen to twenty visible layers when sliced through. The work is patient but the technique is simple. Tastes of coconut, nutmeg and gentle caramel; eats with strong black coffee.
 
 ## Ingredients
 - 12 egg yolks (large)

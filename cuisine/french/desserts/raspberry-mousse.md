@@ -17,7 +17,7 @@
 - 18 raspberries to finish
 
 ## Overview
-A light and fruity mousse that lets the pure, bright flavor of raspberry shine through, combined with airy Italian meringue and whipped cream for a luxurious texture. This elegant dessert celebrates the essence of raspberries without overwhelming them with other flavors or fussy presentation.
+Raspberry mousse is the French summer dessert that celebrates ripe raspberries in their simplest form, a light fruit-forward mousse with no chocolate or alcohol to distract from the pure fruit flavour. You blend fresh raspberries with sugar and strain to remove the seeds. The base is Italian meringue (whites whipped over hot sugar syrup); bloomed gelatine adds a soft set. Softly whipped cream and the seedless raspberry purée fold through. Spoon into individual glasses; chill for at least four hours to firm. Top each glass with a single whole raspberry and a few mint leaves. The fruit's brightness against the silky mousse is the entire point.
 
 ## Method
 1. Purée the raspberries, and tip into a chinois or fine-meshed conical sieve set over a bowl.

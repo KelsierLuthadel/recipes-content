@@ -16,7 +16,7 @@
 - 8 blood oranges
 
 ## Overview
-A refreshing, jewel-bright sorbet made from tart blood orange juice infused with a hint of thyme and chilli, creating a sophisticated palate cleanser or light dessert. The deep crimson color and complex flavors make this an elegant choice for finishing a meal, and its intense acidity balances rich preceding courses.
+Blood orange sorbet is the late-winter palate cleanser that earns its place at the end of a heavy meal, a jewel-bright red ice perfumed with thyme and a faint chilli kick. You squeeze fresh blood oranges (the season runs January to March, no substitute) and infuse the juice gently with a few sprigs of thyme and a single red chilli halved lengthways. Strain after thirty minutes; sweeten with a sugar syrup to taste, the sorbet should keep its puckering acidity. Churn in an ice cream maker until set, then freeze for two hours to firm. Scoop into chilled glasses; serve as a between-course sharpener or a light dessert with a dusting of thyme leaves.
 
 ## Method
 1. Put the sugar, liquid glucose and 200 ml of water in a pan over a medium heat.

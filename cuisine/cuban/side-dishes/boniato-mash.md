@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Boniato is peeled, cubed and simmered in salted water until completely tender. Once drained, the boniato is returned to the warm pot to steam-dry, then mashed with butter, warmed garlic-infused olive oil, sour orange juice (or a lime-and-orange substitute), salt and pepper. The texture should be soft and spoonable, not stiff. Sour orange is the signature; without it the mash tastes flat.
+Boniato mash is the Cuban answer to the everyday mashed potato, made from boniato (Cuban white sweet potato) whose flesh stays pale and only faintly sweet, more like a chestnut than a yam. Peel and cube the boniato, simmer in salted water until completely tender, drain, then return to the warm pot to steam-dry off any clinging moisture (this is the step that stops the mash going wet). Mash with butter, warmed garlic-infused olive oil, sour orange juice (or a lime-and-orange substitute), salt and pepper. The texture you're after is soft and spoonable, not stiff. Sour orange is the signature note; without it the mash tastes flat and one-dimensional. Serve hot, beside roast pork or grilled fish.
 
 ## Ingredients
 

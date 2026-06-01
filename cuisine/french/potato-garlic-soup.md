@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-A rustic, comforting soup highlighting the sweet, nutty flavor of roasted garlic combined with creamy potatoes. Pureed for smoothness, it's a simple yet flavorful dish perfect for garlic lovers.
+Potato and garlic soup is the rustic French velouté that turns two cupboard staples into something silky and faintly sweet, with the bitterness of garlic mellowed entirely by roasting before it ever sees the pot. You wrap a whole head of garlic in foil and roast it slowly until the cloves are caramel-soft and sweet, then squeeze the paste out of the skins. Peeled potato chunks simmer in stock with the roasted garlic paste until tender, then blend smooth into something thick and creamy. A swirl of cream and a drizzle of olive oil finish each bowl. Serve hot with crusty bread; eat with a spoon, the soup is almost spreadable.
 
 ## Ingredients
 

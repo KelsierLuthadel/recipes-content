@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Chicken thighs and drumsticks simmer in a 1:1:1 mix of soy sauce, vinegar and water with garlic, peppercorns and bay. The chicken cooks through; the sauce reduces; the meat browns at the edges. That's the entire dish. Served over rice with a few extra spoonfuls of sauce.
+Chicken adobo is the unofficial national dish of the Philippines, the recipe every Filipino household keeps a version of, and the entire dish is in five ingredients: soy sauce, vinegar, garlic, bay leaves and black peppercorns. You simmer chicken thighs and drumsticks in a 1:1:1 mix of soy, vinegar and water with the garlic, peppercorns and bay until the chicken cooks through and the sauce has reduced into something glossy and dark. The meat picks up colour at the edges as the liquid thickens. That's the entire dish, no other technique, no other seasoning required. Serve over plain rice with a few extra spoonfuls of sauce ladled over the top.
 
 ## Ingredients
 

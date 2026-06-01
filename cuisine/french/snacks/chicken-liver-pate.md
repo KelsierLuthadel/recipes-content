@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Chicken livers fry briefly with shallot and garlic, deglaze with brandy, finish with thyme and a splash of cream. The hot mixture blends with cubed cold butter into a silky paste, presses into a terrine, and sets cold under a layer of clarified butter. Eats best after a day in the fridge.
+Chicken liver pâté is the French country-style spread that turns a humble bag of livers into something silky, rich and bright that lasts a week in the fridge under a layer of clarified butter. Chicken livers fry briefly in butter with shallot and garlic, just enough to cook through but stay pink at the centre, then deglaze with a generous splash of brandy. Fresh thyme and a splash of cream finish the cooking. The hot liver mixture blends with cubed cold butter into a silky paste, pressed into a terrine or small ramekins and chilled. A final layer of clarified butter poured on top seals out the air. Eats best after a day in the fridge with toast points, cornichons and a glass of Beaujolais.
 
 ## Ingredients
 

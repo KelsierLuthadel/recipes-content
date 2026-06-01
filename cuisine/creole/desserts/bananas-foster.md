@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-Brown sugar and butter melt in a wide pan; bananas split lengthwise then halved go in cut-side down; cinnamon and a splash of banana liqueur (or extra rum) join. Dark rum pours in and flames briefly, until burnt off. The pan-syrup, slightly thickened, spoons over generous scoops of vanilla ice cream.
+Bananas Foster is the dish Brennan's of New Orleans invented in 1951 and made into the city's signature dessert through the simple drama of lighting it on fire at the table. You melt brown sugar and butter together in a wide pan until they bubble into a dark syrup, then split bananas lengthways and again across so each half gives you two pieces, cut-side down into the syrup. Cinnamon dusts on; a splash of banana liqueur (or extra rum if banana liqueur is hard to find) joins; then dark rum pours in and lights with a match, the blue flames lapping at the bananas as the alcohol burns off. The thickened pan-syrup spoons over generous scoops of vanilla ice cream so the cold cream meets the hot syrup right at the spoon. Eat fast, before the ice cream melts.
 
 ## Ingredients
 

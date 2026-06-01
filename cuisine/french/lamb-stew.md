@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Navarin d'agneau is a classic French spring stew, combining three different cuts of lamb, shoulder, neck, and breast, for complex flavor and varied texture. The meat braises in a light tomato and stock base, enriched with aromatic vegetables and finished with glazed pearl onions and tender potatoes. The balance of tender vegetables and well-cooked lamb creates a rustic yet refined dish that exemplifies peasant cooking elevated to art.
+Navarin d'agneau is the French spring lamb stew, the dish that uses three cuts of lamb together for a complex texture and finishes with the bright spring vegetables that name the dish (navarin from navet, turnip). Shoulder, neck and breast all braise together in a light tomato-and-stock base with aromatic vegetables until the various cuts are tender at slightly different rates. The braising liquid reduces to a glossy sauce; glazed pearl onions and tender baby potatoes join at the end. Spring turnips, baby carrots, peas, broad beans, all the season's offerings, finish the dish with green and bright flavour. It's a country dish elevated, rustic in spirit and refined on the plate. Serve hot with crusty bread for the sauce.
 
 ## Ingredients
 

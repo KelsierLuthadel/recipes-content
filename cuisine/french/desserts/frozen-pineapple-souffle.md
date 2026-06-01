@@ -23,7 +23,7 @@
 - 40 grams lightly toasted flaked almonds
 
 ## Overview
-A spectacular semifrozen soufflé made with fresh pineapple purée and Italian meringue, served in its own hollowed-out pineapple shell for dramatic presentation. This elegant dessert combines the airiness of soufflé with the convenience of a frozen dessert, making it perfect for dinner parties as it can be prepared hours in advance.
+Frozen pineapple soufflé is the show-off dinner-party trick of the 1970s, a semi-frozen mousse made with fresh pineapple purée and Italian meringue, served in the hollowed-out pineapple shell so the presentation lands at the table with the whole fruit. You halve a pineapple lengthwise, scoop out and blend the flesh, drain off any excess liquid. The base is a pâte à bombe (yolks whisked with hot sugar syrup) folded with pineapple purée and stiffly whipped cream. The mixture pours into the hollowed pineapple shells and freezes for at least six hours. To serve, set the chilled shells on a bed of ice and slice into thick wedges; the centre is creamy-frozen with the texture of softly set ice cream.
 
 ## Method
 ### For the pineapple

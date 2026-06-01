@@ -29,7 +29,7 @@
 - 60 grams icing sugar
 
 ## Overview
-A sophisticated trifle of chocolate Genoise sponge, rich chocolate crème pâtissière, vibrant raspberry coulis, and silky white chocolate ribbons, topped with whipped cream and fresh raspberries. This elegant construction showcases beautiful color contrasts and complementary chocolate-raspberry flavors in a showstopping glass presentation.
+This is the French interpretation of a trifle, built in a clear glass bowl so the layers show: chocolate Genoise sponge at the base, then rich chocolate crème pâtissière, then a vibrant raspberry coulis, then silky white chocolate ribbons, then whipped cream and fresh raspberries on top. Each layer goes in cold so they stay distinct; the dessert chills overnight so the sponge soaks up the coulis and the cream sets firm. You serve with a long spoon that reaches all the way to the bottom of the glass so every spoonful catches all five layers.
 
 ## Method
 ### For the crème pâtissière

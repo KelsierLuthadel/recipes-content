@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-These Cuban-style burgers are a vibrant fusion of Spanish and Cuban influences, featuring tender pork patties infused with spicy chorizo, aromatic garlic, and fresh peppers. The patties are griddled to perfection and served with a distinctive potato filling and creamy dressing that makes them distinctly Cuban. The combination of flavors, savory, spicy, and tangy, makes this a signature Cuban comfort food.
+This is the Cuban-American burger you'd find at any Miami diner along Calle Ocho, a pork-and-chorizo patty that fuses the Spanish blood-sausage tradition with the smash-and-griddle American format. The pork is the base; the chorizo gives it the smoky paprika heat that distinguishes it from any other burger you've eaten. Fresh garlic and chopped peppers fold through the mince before shaping; the patties griddle hard so the edges char and the centre stays pink. A creamy dressing and a thin layer of seasoned potato filling sit between the bun and the patty, the textural-and-flavour shift that turns the dish from American to Cuban. Eat with cold beer; the dressing drips.
 
 ## Ingredients
 

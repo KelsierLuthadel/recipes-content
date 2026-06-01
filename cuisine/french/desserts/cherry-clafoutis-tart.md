@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-This cherry clafoutis combines a crisp pâte brisée case with a custardy batter filled with juicy cherries and a hint of kirsch. Serve it warm, dusted with icing sugar, to enjoy the soft fruit and golden surface.
+This is the tart version of cherry clafoutis, a crisp pâte brisée shell holding a custardy almond-and-egg batter studded with juicy cherries. You blind-bake the shortcrust case until the base sets dry and the edges crisp. A clafoutis batter (eggs, sugar, milk, cream, flour and a glug of kirsch) whisks together to a smooth thin pour. Cherries (stones in, traditionally, the stones perfume the batter as it cooks) scatter across the case; the batter pours over to half-fill. A moderate oven sets the custard with a faint wobble. Eat warm, dusted with icing sugar; the bright cherries against the pale set custard are half the pleasure.
 
 ## Ingredients
 ### Pastry

@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A rich enriched dough, flour, yeast, butter, milk, eggs, sugar, rises for 1 hour. Cinnamon filling: brown sugar, butter, cinnamon. Dough rolls into a large rectangle 40 × 25 cm; filling spreads across; rolls up like a Swiss roll; bends into an oval ring; ends pinch together. Rises for 45 minutes; bakes for 25 min. While warm, icing of icing sugar, milk, vanilla drizzles over. Coloured sugar (purple, green, gold) dusts in alternating bands. A small plastic baby (or a dried bean) hides inside the slice before serving.
+King cake is the Mardi Gras cake of New Orleans, an enriched cinnamon-swirled ring that lands on the breakfast table from the Epiphany through to the Tuesday before Lent. A rich enriched dough (flour, yeast, butter, milk, eggs, sugar) rises for an hour into something silky and pale gold. A cinnamon-sugar-butter filling spreads across the rolled-out rectangle; you roll it up like a Swiss roll, bend it into an oval ring, and pinch the ends together. After a second rise of forty-five minutes, twenty-five minutes in the oven turns it deep gold. While still warm, an icing of icing sugar, milk and vanilla drizzles over, and bands of coloured sugar (purple for justice, green for faith, gold for power) dust on in alternating stripes. A small plastic baby (or a dried bean) hides somewhere inside; whoever gets the slice with the baby hosts the next king cake party.
 
 ## Ingredients
 

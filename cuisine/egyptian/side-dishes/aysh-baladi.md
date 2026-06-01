@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes (with a hot stone)
 
 ## Overview
-A simple dough of half plain flour and half wholemeal, yeast, salt and warm water. Rises for 1 hour. Divides into 6 portions; rolls into thin 18 cm discs; rests for 20 minutes. Baked at maximum heat on a hot baking stone for 3-4 minutes, they puff dramatically and fall flat as they cool, leaving a hollow pocket.
+Aysh baladi is the bread Egyptians eat with every meal, a wholemeal flat round that puffs dramatically in the oven and deflates into a hollow pocket as it cools, ready to be torn and stuffed. The dough is the simplest possible: half plain flour, half wholemeal, yeast, salt and warm water, kneaded soft and rested for an hour. You divide it into six portions, roll each into a thin disc about eighteen centimetres across, and let them rest for another twenty minutes so the gluten relaxes. Bake at maximum heat on a preheated stone for three to four minutes; the discs puff up like balloons and collapse as they cool, leaving the pita-style pocket inside. Eat the day they're baked, warm if possible.
 
 ## Ingredients
 

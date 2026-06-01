@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (in batches)
 
 ## Overview
-Small whole head-on shrimp rinse but stay shell-on (shells provide crunch and flavour). A batter of rice flour, plain flour, water and egg goes loose. Grated squash, mung-bean sprouts and spring onion mix in. A ladleful drops into hot oil, with 3-4 shrimp pressed on top, fries for 4 minutes till crisp gold, flips, another 2 minutes. Drains on rack. Eats with garlic-vinegar dip.
+Ukoy is the Filipino shrimp fritter, an open-lattice cake of grated squash and bean sprouts crowned with small whole shrimp that fries up crisp at the edges and tender at the centre. You rinse small head-on shrimp but keep the shells on (the shells provide crunch and flavour). A loose batter of rice flour, plain flour, water and egg comes together; grated kabocha squash, mung-bean sprouts and chopped spring onion fold through. A ladleful of the mixture drops into hot oil; three or four shrimp press onto the top before the batter sets. Four minutes on one side until deep gold, flip, two minutes more. Drain briefly on a rack. Eat with a garlic-vinegar dipping sauce.
 
 ## Ingredients
 

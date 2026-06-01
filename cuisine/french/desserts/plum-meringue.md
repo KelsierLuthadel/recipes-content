@@ -17,7 +17,7 @@
 - 275 grams [meringue Francaise](../../../baking/meringue/meringue-francais.md)
 
 ## Overview
-Large, soft meringues studded with plums, creating a beautiful contrast between glossy poached fruit and fluffy meringue that softens into the plums. These rustic yet elegant individual showpieces celebrate the simplicity of fresh plums combined with light, delicate meringue.
+Plum meringue is the rustic individual French dessert of softened meringues holding poached plums, the meringue partially soaking up the plum syrup so the contrast between glossy purple fruit and pale fluffy cloud is the entire pleasure. You poach ripe plums gently in a sugar syrup with vanilla until tender; cool with the syrup. Soft meringue (whites whipped with sugar to stiff peaks) pipes into large rounds on parchment with a hollow in the centre; bakes at low heat just long enough to set the outside while keeping the inside soft. To serve, you fill each meringue's centre with a poached plum and a drizzle of its syrup so the meringue around the fruit slowly softens into the syrup; serve with cream poured at the table.
 
 ## Method
 1. Using a small knife, remove the stones from the plum, without cutting them entirely in half and place in a dish.

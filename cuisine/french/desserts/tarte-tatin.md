@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-A puff pastry round (homemade or all-butter shop-bought) is cut to fit the pan; refrigerated. In a 24 cm heavy ovenproof frying pan (cast iron or copper Tatin pan), sugar caramelises directly with butter to a deep amber syrup. Off heat, peeled and halved (or quartered) apples, preferably a firm tart variety like Granny Smith, Braeburn or Cox, pack tightly into the pan rounded-side-down on the caramel. Returns to medium heat for 5 minutes to start the apples cooking. The pastry drapes over the top, edges tucked in around the apples. Baked at 200°C for 30-35 minutes until the pastry is deep golden. Rests for 5 minutes; then carefully inverted onto a flat serving plate (the dramatic moment). Glazed-amber apples sit on top of crisp pastry.
+Tarte Tatin is the great French upside-down apple tart, named for the Tatin sisters who first served it (probably by accident) at their hotel in the Loire in the 1880s. A puff pastry round (homemade or all-butter shop-bought) cuts to fit the pan; refrigerated. In a heavy ovenproof pan (cast iron or copper Tatin pan), sugar caramelises directly with butter to a deep amber syrup. Off heat, peeled and halved (or quartered) apples, preferably a firm tart variety like Granny Smith, Braeburn or Cox, pack tightly into the pan rounded-side-down on the caramel. Returns to medium heat for five minutes to start the apples cooking. The pastry drapes over the top, edges tucked in around the apples. Bake at 200°C for thirty to thirty-five minutes until the pastry is deep golden. Rest for five minutes; then carefully invert onto a flat serving plate (the dramatic moment). Glazed-amber apples sit on top of crisp pastry. Eat warm with thick cream.
 
 ## Ingredients
 

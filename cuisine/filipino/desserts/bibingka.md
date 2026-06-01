@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Rice flour, glutinous rice flour, sugar, baking powder and salt are sifted together. Coconut milk, melted butter and beaten eggs are whisked in until smooth. A banana leaf lines a cake tin (or individual ramekins), brushed with butter. The batter is poured in to 2 cm depth. Baked at 200°C 15 minutes; salted egg slices and grated cheese are pressed on top; baked another 10 minutes. Finished with butter, sugar and a thick layer of fresh grated coconut.
+Bibingka is the Filipino Christmas-season rice cake sold from baskets outside churches across the country during the nine-day misa de gallo, baked on a banana leaf so the bottom carries the leaf's grassy perfume. Rice flour and glutinous rice flour combine with sugar, baking powder and salt; coconut milk, melted butter and beaten eggs whisk in until the batter is smooth. A banana leaf lines a cake tin (or individual ramekins), brushed with butter to stop sticking. The batter pours to about 2 cm depth and bakes for fifteen minutes at 200°C; you pull it out, press slices of salted egg and grated cheese onto the surface, and bake another ten minutes until the top has coloured and the salted egg has set. Finish with a brush of butter, a dust of sugar, and a thick blanket of fresh grated coconut. Eat warm, with hot chocolate or sweet milky coffee.
 
 ## Ingredients
 

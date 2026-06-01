@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Choux dough cooks on the stovetop: milk + water + butter + salt come to a rolling boil; flour is dumped in all at once; cooked for 1-2 minutes until the dough comes together as a ball that pulls away from the pan walls. Cooled slightly. Eggs whisk in one at a time to a smooth thick pipe-able paste. Grated Gruyère, Comté and a touch of Dijon mustard fold through. Piped or spooned into small mounds on a baking tray; brushed with egg wash; sprinkled with more cheese. Baked at 220°C for 10 minutes then 200°C for 15 more, the puffs rise dramatically, crack, and turn deep golden. Served warm.
+Gougères are the French savoury choux puffs from Burgundy, light hollow cheese pastries that arrive on the table with the first glass of wine and disappear before you can finish it. Choux dough cooks on the stovetop: milk, water, butter and salt come to a rolling boil; flour dumps in all at once; the mixture cooks for one to two minutes until it pulls away from the pan walls into a glossy ball. Cool slightly, then beat in eggs one at a time to a thick smooth pipeable paste. Grated Gruyère, Comté and a touch of Dijon mustard fold through. Pipe small mounds onto a baking tray, brush with egg wash, sprinkle more cheese on top. Bake at 220°C for ten minutes then 200°C for fifteen more; the puffs rise dramatically, crack open, and turn deep golden. Serve warm with white wine.
 
 ## Ingredients
 

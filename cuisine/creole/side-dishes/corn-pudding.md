@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Fresh corn kernels (or thawed frozen) blend with cream, eggs, melted butter, sugar, salt, pepper and a small amount of flour for body. Half the corn stays whole; the rest blends to a smooth purée, the texture contrast matters. Pour into a buttered dish, bake at 180°C 45 minutes until set with a slight wobble in the centre.
+Corn pudding is the Creole side that lands in the spot between vegetable and dessert, soft, sweet, custardy, and the colour of late-afternoon sun. Fresh corn kernels (or thawed frozen ones if it's not summer) blend with cream, eggs, melted butter, sugar, salt, pepper and a small spoon of flour for body. The trick is the texture: half the corn stays whole for bite, the rest blends to a smooth puree, and you fold them back together so each spoonful has both. The mixture pours into a buttered dish and bakes at 180°C for forty-five minutes until just set with a faint wobble at the centre. Serve hot, beside fried chicken or smoky brisket; it acts as both vegetable and starch.
 
 ## Ingredients
 

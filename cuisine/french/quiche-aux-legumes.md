@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Shortcrust pastry blind-bakes to a deep gold (essential, soggy bottom is a quiche's main enemy). Vegetables sauté separately to soften and dry; the custard mixes; everything assembles in the shell and bakes until set with a faint wobble in the centre.
+Vegetable quiche is the French answer to whatever's left in the fridge, a buttery shortcrust shell holding a custard set around any vegetable you can sauté dry. The shortcrust pastry blind-bakes to a deep gold first; this step is non-negotiable because a soggy bottom is a quiche's main enemy. Whatever vegetables you're using (courgette, leek, mushroom, pepper, asparagus) sauté hard in butter to soften and drive off their water, otherwise the custard will weep. The custard mixes (eggs, cream, salt, pepper, a pinch of nutmeg), everything assembles in the shell, and a moderate oven sets the lot to just a faint wobble in the centre. Eat warm or room temperature, with a green salad.
 
 ## Ingredients
 

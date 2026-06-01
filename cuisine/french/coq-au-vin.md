@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Lardons rendered, chicken pieces browned in the fat, then simmered in red wine with brandy, stock, garlic, herbs and tomato purée. Mushrooms and pearl onions are sautéed separately and added at the end so they keep their shape and texture.
+Coq au vin is the Burgundian wine-soaked chicken stew that started life as a way of slow-cooking an old rooster into tenderness and ended up as one of the great French dishes, served at every bistro from Lyon to Lille. Lardons render their fat in a heavy pot; chicken pieces brown hard in the bacon fat to pick up colour. The lot simmers in red wine (Burgundy if you can, any decent red if not) with brandy, stock, garlic, herbs and a spoonful of tomato puree for an hour and a half. Mushrooms and pearl onions sauté separately so they keep their shape and texture, then join at the end. A beurre manié of butter and flour thickens the sauce to a coating gloss. Serve with mashed potato or buttered noodles, with the rest of the wine in the glass.
 
 ## Ingredients
 

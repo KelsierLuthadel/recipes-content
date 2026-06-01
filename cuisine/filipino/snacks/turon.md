@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Saba (cooking) bananas halve lengthways; if using regular bananas, choose under-ripe ones. Jackfruit (ripe, fresh or canned) cuts into matchstick strips. A spring-roll wrapper lays flat; banana half plus 2-3 jackfruit strips go in the centre; dusts with brown sugar. Wrapper rolls up, edges sealed with water. The whole rolled turon dredges through more brown sugar. Fries in moderately hot oil 3-4 minutes till the sugar caramelises gold-amber on the surface. Eats hot.
+Turon is the Filipino street snack you smell before you see, sticky-sweet caramelised banana and jackfruit wrapped in a spring-roll wrapper and deep-fried until the surface goes amber and crackly. Saba (cooking) bananas halve lengthways; if you can't find saba, choose under-ripe regular bananas. Ripe jackfruit (fresh or canned, both work) cuts into matchstick strips. A spring-roll wrapper lays flat; a banana half plus two or three jackfruit strips sit in the centre, dusted with brown sugar. Roll up tightly and seal the edges with a brush of water. The whole rolled turon dredges through more brown sugar so the outside caramelises during frying. Fry in moderately hot oil for three to four minutes until the sugar goes gold-amber and the surface crackles. Eat hot, with your fingers, while the steam still rises off the centre.
 
 ## Ingredients
 - 6 saba bananas (or 6 firm regular bananas, just-ripe)

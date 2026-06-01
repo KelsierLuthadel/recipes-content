@@ -19,7 +19,7 @@
 - 30 grams icing sugar (to glaze)
 
 ## Overview
-A stunning and elegant puff pastry tart filled with almond cream and topped with decorative curved rays and petal shapes, finished with a shimmering icing sugar glaze. This classical French pastry requires precision and skill but rewards with an impressive presentation and the delicious combination of buttery pastry, almond cream, and caramelized sugar.
+Pithiviers is the classical French puff pastry tart from the town of the same name in the Loire, a round of laminated pastry sealed around a generous almond cream filling and scored on top with decorative curved rays radiating from the centre. You roll puff pastry into two equal discs; one goes on the baking sheet, the cooled almond cream (frangipane: butter, sugar, egg, ground almonds, a splash of rum) mounds in the middle leaving a 3 cm border. Egg-wash the border, place the second disc on top, press to seal. The top scores with a sharp knife in those iconic curved rays from the centre out, never cutting through the layers. Egg-wash and bake at 200°C until deeply golden and risen. Brush with sugar syrup for the shimmer. Cut warm into wedges.
 
 ## Method
 ### Prepare the pastry

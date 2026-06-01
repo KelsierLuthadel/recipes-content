@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Garlic browns in oil; long beans toss in to colour briefly. Soy and vinegar pour in with bay and peppercorns; the beans braise covered until tender. Lid off; the liquid reduces to a glaze. Salt at the end, not the start, since soy is salty enough.
+Adobong sitaw is the vegetable side that proves the adobo method works on anything, garlic, vinegar and soy reducing into a glossy braise around long beans instead of meat. You brown the garlic hard in oil first so it picks up colour and aroma; the long beans toss in to colour briefly. Soy and vinegar pour in along with bay and whole peppercorns; the beans braise covered until tender. Lid off for the last few minutes so the liquid reduces to a glaze that clings to every bean. Salt only at the end, because the soy is already salty enough. Serve with rice and a fried egg on top.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 7 minutes
 
 ## Overview
-This composed dish showcases lamb breast's rich potential: the trimmed meat is braised until tender in an herb-infused stock, then sliced and topped with a crispy herb and mustard breadcrumb crust. The braising liquid becomes an elegant sauce thickened with cream and sharpened with mustard, providing a sophisticated accompaniment that complements both the meat and crust.
+This is the elegant version of slow-cooked lamb breast, a French restaurant dish that turns the most overlooked cut on the lamb into the centrepiece of a composed plate. You braise the trimmed lamb breast in an herb-infused stock until the meat is tender enough to slice cleanly; the fat renders into the braising liquid, which becomes the base for the sauce. The cooled meat slices into thick rectangles and gets topped with a crust of fresh herbs, breadcrumbs and Dijon mustard; a hot oven sets the crust to crisp gold. The braising liquid reduces with cream and a spoon more mustard into a silky sauce, sharp with mustard, rich with cream. Plate slice, pour sauce, eat with new potatoes and the first green beans of summer.
 
 ## Ingredients
 

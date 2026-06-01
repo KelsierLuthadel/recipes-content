@@ -12,7 +12,9 @@ tags:
   - lemon
   - butter
   - nuts
-mentions: []
+mentions:
+  - sauces/sauce-sweet/caramel-sauce
+  - tutorials/pizza/sauce
 ingredients:
   - qty: 4
     name: peaches

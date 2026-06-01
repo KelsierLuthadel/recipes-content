@@ -10,7 +10,8 @@ tags:
   - eggs
   - lemon
   - cream
-mentions: []
+mentions:
+  - sauces/sauce-sweet/sabayon
 ingredients:
   - qty: 1
     name: egg

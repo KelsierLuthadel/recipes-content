@@ -23,7 +23,7 @@
 - 30 grams butter (diced)
 
 ## Overview
-One of the most beloved French desserts: light choux buns traditionally filled with vanilla ice cream and drowned in warm chocolate sauce, creating a beautiful contrast between cold and hot, crispy and soft. This uncomplicated yet utterly luxurious dessert requires only quality components and careful technique for showstopping results.
+Profiteroles are the dessert every French restaurant has on the menu and every visiting tourist orders at least once, light hollow choux puffs filled with vanilla ice cream and drowned in warm chocolate sauce at the table. You bake the choux puffs in a hot oven until they puff dramatically, crisp on the outside and hollow inside. Cool, then slice the tops off (or pierce the bottom) and fill the cavity with a scoop of vanilla ice cream. The chocolate sauce melts together cream, dark chocolate and a pinch of salt into something glossy and pourable. Arrange the filled puffs in a stack on each plate; pour the warm sauce over at the table. Eat fast, before the ice cream melts.
 
 ## Method
 ### To make the choux buns

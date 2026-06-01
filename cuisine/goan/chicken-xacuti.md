@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-A xacuti masala is built by dry-roasting fresh coconut to a deep mahogany brown alongside a long list of whole spices (Kashmiri and byadgi chillies, coriander, cumin, fennel, peppercorns, cinnamon, cloves, star anise, mace) and grinding them with onion, garlic and ginger into a black-brown paste. The chicken is browned briefly, the paste added, water poured in to cook the chicken through, and tamarind stirred in to finish. The trick is in the roast: the coconut should be almost-burnt, with the bitterness offset by the tamarind.
+Chicken xacuti is the deep dark Goan curry built on a roasted-coconut masala that takes the coconut almost to the burnt edge, then balances the bitterness with sour tamarind in the finishing pot. You dry-roast fresh grated coconut to a deep mahogany brown alongside a long list of whole spices (Kashmiri and byadgi chillies, coriander, cumin, fennel, peppercorns, cinnamon, cloves, star anise, mace) and grind everything with onion, garlic and ginger into a black-brown paste. Brown the chicken briefly to colour the surfaces, add the paste, pour in water to cook the chicken through, finish with tamarind for the sour edge. The trick is the roast: the coconut should be almost-burnt, the bitterness offset entirely by the tamarind. Serve with steamed rice and pao bread.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Very ripe (black-spotted, almost fully black) plantains are sliced thick on the diagonal and pan-fried in oil. The natural sugars caramelise; the inside softens to spoonable. A pinch of salt at the end balances the sweetness.
+Plátanos maduros are the sweet caramelised plantain rounds that turn up beside every Cuban roast pork and every bowl of black beans, the dish that bridges Cuban dinner from savoury into pudding without leaving the plate. The plantains have to be very ripe, the skins should be heavily black-spotted or even fully black, soft to the touch, so the natural sugars are at their peak. Slice them thick on the diagonal so each piece has surface area to caramelise. Pan-fry in oil over medium heat so the sugars darken to deep gold without burning; the inside softens to almost-spoonable. A pinch of salt at the end pulls the sweetness into something more than dessert.
 
 ## Ingredients
 

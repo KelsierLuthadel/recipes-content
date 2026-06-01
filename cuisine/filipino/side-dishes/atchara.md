@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Green papaya is peeled, seeded and shredded on a coarse grater. Carrot, ginger, garlic, red pepper, onion and raisins are all prepared in matching shreds. The vegetables are salted and rested for 1 hour to draw water; rinsed and squeezed dry. A syrup of cane vinegar, sugar and whole peppercorns simmers for 5 minutes. Hot syrup is poured over the vegetables in a sterilised jar. The jar is sealed, cooled and refrigerated overnight before eating. Improves over the following week.
+Atchara is the Filipino pickle that lives in every refrigerator, sweet-sour shreds of green papaya and carrot that cut through any rich Filipino main like adobo or kare-kare. Green papaya peels, seeds and shreds on a coarse grater; carrot, ginger, garlic, red pepper, onion and raisins all prep in matching shreds. The vegetables salt and rest for an hour to draw out water; rinse and squeeze them dry. A syrup of cane vinegar, sugar and whole peppercorns simmers for five minutes to dissolve the sugar. Pour the hot syrup over the vegetables in a sterilised jar, seal, cool, refrigerate overnight. Eats with anything fatty or rich; improves over the next week.
 
 ## Ingredients
 

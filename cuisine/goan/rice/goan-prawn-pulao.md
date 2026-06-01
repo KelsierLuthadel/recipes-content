@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A bright green masala paste of coriander, mint, green chilli, ginger and garlic is ground with a splash of vinegar. Basmati is rinsed, soaked and drained. Whole spices and onion are softened in coconut oil, the prawns briefly seared and lifted out, then the green masala is fried into the onion before the rice is added to toast. Stock goes in for the steam; the prawns return at the end so they don't overcook.
+Goan prawn pulao is the green-flavoured rice dish that uses a fresh herb masala instead of the more typical brown spice paste, giving the finished rice a faint green tint and a brighter herbal lift. A bright green masala paste of coriander leaves, mint, green chilli, ginger and garlic grinds with a splash of vinegar. Basmati rinses, soaks and drains. Whole spices and sliced onion soften in coconut oil; the prawns briefly sear and lift out; the green masala fries into the onion before the rice adds to toast. Stock pours in for the steam; the prawns return at the end so they don't overcook into rubber. Eat with a wedge of lime.
 
 ## Ingredients
 

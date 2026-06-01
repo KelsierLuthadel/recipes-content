@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Chicken pieces brown in oil and butter; finished in the oven 20 minutes. Tiny diced potatoes shallow-fry separately until gold; cremini mushrooms sauté; peas warm through. Everything tosses with chopped garlic, butter, lemon, parsley and a splash of dry sherry, then heaps onto the resting chicken. Eaten with crusty French bread.
+Chicken Clemenceau is the New Orleans French Quarter dish named for the French prime minister who visited the city at the turn of the century, a one-pan chicken dinner that brings the kitchen and the dinner table almost into the same moment. You brown chicken pieces in oil and butter, finish them in the oven for twenty minutes so they roast through, then build everything else around them: tiny diced potatoes shallow-fried separately until gold, cremini mushrooms sautéed in butter, peas warmed through. Everything tosses together with chopped garlic, more butter, lemon, parsley and a splash of dry sherry, then heaps onto the resting chicken so the juices mix on the plate. Eat with a torn crust of French bread to mop the sherry-butter sauce off the plate.
 
 ## Ingredients
 

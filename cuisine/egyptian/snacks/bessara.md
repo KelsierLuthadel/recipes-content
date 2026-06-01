@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Dried split fava beans (foul mudammas) soak overnight with bicarbonate of soda. Simmer with garlic, bay, coriander seeds and water for 1 hour until completely soft. Blitzed (or mashed) with garlic, ground cumin, ground coriander, salt and lemon juice into a thick spoonable purée, looser than hummus but thicker than soup. Plated in a wide shallow bowl: a swirl in the centre, doused with the green oil (olive oil + paprika + cumin + chopped parsley), maybe a sprinkle of dukkah on top, served warm with hot baladi bread.
+Bessara is the Egyptian fava-bean dip the colour of pale green, a thicker, smoother cousin to ful medames eaten across Egypt and into Morocco, where the same dish gets the same name. Dried split fava beans (foul mudammas) soak overnight with a pinch of bicarbonate of soda to soften the skins. Simmer them slowly with garlic, bay, coriander seeds and water for an hour until they're completely tender. You mash or blitz the beans with more garlic, ground cumin, ground coriander, salt and lemon juice into a thick spoonable purée, looser than hummus but thicker than soup. Plate in a wide shallow bowl with a swirl in the centre, douse with green oil (olive oil heated briefly with paprika, cumin and chopped parsley), maybe a sprinkle of dukkah on top. Serve warm with hot baladi bread.
 
 ## Ingredients
 

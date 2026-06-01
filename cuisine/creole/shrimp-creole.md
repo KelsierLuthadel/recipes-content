@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-The trinity (onion, celery, green pepper) softens in butter; garlic, Creole seasoning and herbs join. Tomato paste deepens; chopped tomatoes and stock loosen; the lot simmers for 20 minutes into a thick sauce. Prawns drop in at the end and cook for 3 minutes, pink and just-set. Hot sauce, lemon and parsley to finish.
+Shrimp Creole is the dish that announces you're in New Orleans, a tomato-rich stew built on the Holy Trinity and finished with prawns that go in last and cook for exactly three minutes. The trinity (onion, celery, green pepper) softens slowly in butter, picking up sweetness; garlic, Creole seasoning and herbs (thyme, bay) join in to bloom in the heat. Tomato paste deepens the colour; chopped tomatoes and stock loosen the mixture; the sauce simmers for twenty minutes until it's thick enough to coat a spoon. The prawns drop in at the end and cook just until pink, no more. Hot sauce, a squeeze of lemon and chopped parsley finish. Serve over plain rice; ladle the sauce around the rice mound.
 
 ## Ingredients
 

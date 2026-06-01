@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A thick bechamel cooks with finely diced ham or cooked chicken until it pulls away from the pan in a glossy mass. Chilled overnight (or at minimum 4 hours) until firm enough to shape into small cylinders. Each croqueta is breaded twice for a crisp shell that holds the soft, almost-pourable filling inside. Shallow-fried, not deep-fried, at moderate heat.
+Croquetas are the Cuban bar-snack you find on every plate at every Miami café and every Havana paladar, small finger-sized cylinders with a crispy breadcrumb shell and a silky bechamel filling that almost runs when you bite in. A thick bechamel cooks slowly with finely diced ham (or cooked chicken) until it pulls away from the pan in a glossy mass. The filling chills overnight, or four hours minimum, until it's firm enough to shape into small cylinders between your palms. Each croqueta breads twice (flour, egg, breadcrumbs, then egg and breadcrumbs again) for a crisp double shell that holds the almost-pourable filling inside. Shallow-fried at moderate heat, not deep-fried, so the outside crisps without the shell rupturing. Eat hot, with a beer and a wedge of lime.
 
 ## Ingredients
 

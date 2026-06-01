@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Aged basmati is rinsed and soaked. A whole-spice tempering of cinnamon, cardamom and cloves is bloomed in coconut oil with sliced onion and a slit green chilli. The drained rice is toasted briefly in the spiced oil, then half-coconut-milk and half-water is poured in for a covered steam. The grains finish white-cream coloured, faintly sweet from the coconut and warm from the whole spices.
+Goan coconut rice is the side dish that turns plain basmati into something faintly sweet and warmly spiced, the rice version of the coast's love of coconut milk in everything. Aged basmati rinses and soaks for half an hour. A whole-spice tempering of cinnamon, cardamom and cloves blooms in coconut oil with sliced onion and a slit green chilli. The drained rice toasts briefly in the spiced oil, then half-coconut-milk and half-water pours in for a covered steam. The grains finish white-cream coloured, faintly sweet from the coconut, warm from the whole spices. Serve with a Goan curry or grilled fish.
 
 ## Ingredients
 - 300 g aged basmati rice (rinsed, soaked for 30 minutes)

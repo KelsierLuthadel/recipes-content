@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-French beans are trimmed and chopped into 1 cm pieces. A temper of mustard seeds, urad dal, dried red chilli and curry leaves is bloomed in coconut oil, sliced onion is softened briefly, and the beans are tossed in with a splash of water to steam-cook them through. Fresh grated coconut is folded through at the end with a finishing pinch of green chilli.
+This is the green-bean version of the Goan foogath, French beans tossed in a coconut temper that turns a simple side dish into something fragrant and slightly addictive. Trim the beans and chop into 1 cm pieces. A temper of mustard seeds, urad dal, dried red chilli and curry leaves blooms in coconut oil; sliced onion softens briefly; the beans toss in with a splash of water to steam-cook through. Fresh grated coconut folds through at the end with a finishing pinch of chopped green chilli. Eat with rice and any Goan curry.
 
 ## Ingredients
 

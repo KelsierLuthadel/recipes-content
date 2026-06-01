@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Rice is rinsed but not soaked (this is Portuguese-style rice, where short-grain is preferred for its slight starchiness). Goan chouriço is rendered in olive oil with garlic and bay, onion is softened, tomato is cooked down to a paste, and the rice is toasted briefly before stock is poured in for a covered steam. Peas are folded through in the final minutes. The dish has a faintly smoky paprika colour and a clear Portuguese DNA.
+Arroz refogado is the Goan-Portuguese rice dish that lands somewhere between Iberian and Indian, short-grain rice toasted in olive oil with chouriço and finished with peas in a way that reads more Lisbon than Mumbai. Rice rinses but doesn't soak (this is Portuguese-style rice, short-grain preferred for its slight starchiness). Goan chouriço renders in olive oil with garlic and bay; onion softens; tomato cooks down to a paste; the rice toasts briefly before stock pours in for a covered steam. Peas fold through in the final minutes. The dish has a faintly smoky paprika colour and a clear Portuguese DNA running through it. Eat with grilled fish or a simple egg on top.
 
 ## Ingredients
 - 300 g short-grain rice (Calrose, bomba or arborio; if unavailable use long-grain basmati)

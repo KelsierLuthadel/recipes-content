@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Raw shrimp marinate briefly in buttermilk and hot sauce; dredge in seasoned flour and cornmeal mix; deep-fry at 180°C until deep gold and crisp (2-3 minutes, shrimp cook fast). Long French rolls split lengthways; toasted on the cut side; slathered with mayo and Creole mustard; piled with shrimp, lettuce, tomato, pickles. Wrap halfway in paper; eat.
+The shrimp po-boy is the New Orleans sandwich invented in the 1920s for striking streetcar workers, two long French rolls split open, slathered with mayo and Creole mustard, and piled with fried shrimp, lettuce, tomato and pickles. The shrimp marinate briefly in buttermilk and a few dashes of hot sauce, then dredge in a mix of seasoned flour and cornmeal. They deep-fry at 180°C until deep gold and audibly crisp, no more than two to three minutes; shrimp cook fast and overdoing them is the only real way to ruin this sandwich. You toast the cut faces of the rolls so they hold up to the wet filling, slather the mayo and mustard generously, pile the shrimp high, dress with lettuce, tomato and pickles. Wrap the bottom half in paper to catch the drips and eat with both hands.
 
 ## Ingredients
 

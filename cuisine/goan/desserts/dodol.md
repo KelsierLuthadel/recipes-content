@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-A batter is made from rice flour, coconut milk and palm jaggery and stirred slowly over a low heat for over an hour. The mixture darkens and thickens through three distinct stages: pale and thin, golden and porridge-like, then deep mahogany and glossy with ghee separating at the edges. Knowing when to pull the pot is the only difficulty. Poured into a tray, cooled, and cut into squares; the texture sits between fudge and a firm jelly.
+Dodol is the slow-cooked Goan palm jaggery candy that takes patience and a strong stirring arm, sitting somewhere between fudge and firm jelly, the colour of dark mahogany. A batter mixes from rice flour, coconut milk and palm jaggery and stirs slowly over low heat for over an hour. The mixture darkens through three distinct stages: pale and thin, then golden and porridge-like, then deep mahogany and glossy with ghee separating at the edges. Knowing when to pull the pot off the heat is the only real difficulty, the texture should be barely-set rather than firm. Pour into a tray, cool fully, cut into small squares. Keeps for weeks in a sealed tin.
 
 ## Ingredients
 - 200 g rice flour (fine, not coarse)

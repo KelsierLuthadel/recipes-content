@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Green (unripe) plantains are peeled, sliced into thick rounds and fried gently in oil at moderate heat to par-cook them through. Each round is smashed flat to roughly twice its original diameter, then fried a second time at higher heat until deep gold and crisp. Salted immediately. Served with a garlic-citrus mojo for dunking.
+Tostones are the twice-fried green plantain discs that anchor every Cuban dinner plate alongside black beans and rice, salty crisp coins that taste somewhere between a potato chip and a French fry. Green (unripe) plantains peel and slice into thick rounds. The first fry is at moderate heat in oil for around five minutes, just to par-cook the inside through and turn the outside pale gold. You lift each round out and smash it flat with the bottom of a glass or a wooden tostonera to roughly twice its diameter. The second fry is at higher heat, three minutes a side until deep gold and audibly crisp. Salt while still hot from the oil. Serve with a garlic-citrus mojo for dunking; eat fast before they cool.
 
 ## Ingredients
 

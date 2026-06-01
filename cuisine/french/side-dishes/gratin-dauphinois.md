@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Waxy potatoes (Yukon Gold, Charlotte, or any low-starch variety) are peeled and sliced very thinly, 2-3 mm. A wide shallow gratin dish (or oven-safe heavy pan) is rubbed all over with a halved garlic clove, then heavily buttered. A cream-and-milk mixture warms in a saucepan with crushed garlic, salt, pepper, and a generous grating of nutmeg, brought just to a simmer, then strained. Potatoes layer in the dish, overlapping like shingles, with a sprinkle of salt and a few grinds of pepper between layers. The infused cream pours over to come up to (not over) the top layer. Baked at 160°C for about 90 minutes until the potatoes are fork-tender and the top is bubbling and golden-brown.
+Gratin dauphinois is the rich potato gratin from the Dauphiné region of southeast France, a slab of overlapping potato slices baked in garlicky cream until the surface goes bronzed and the layers underneath turn silky and tender. Waxy potatoes (Yukon Gold, Charlotte, any low-starch variety) peel and slice very thinly, 2-3 mm; thick slices won't surrender to the cream. A wide shallow dish rubs all over with a halved garlic clove and gets a generous brush of butter. A cream-and-milk mixture warms in a saucepan with crushed garlic, salt, pepper and a generous grating of nutmeg, brought just to a simmer, then strained. Potatoes layer in the dish like overlapping roof shingles with salt and pepper between layers; the infused cream pours over to come just up to the top layer. Bake at 160°C for ninety minutes until tender and gold-brown. Serve with anything red-meat and proud.
 
 ## Ingredients
 

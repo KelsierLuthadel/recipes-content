@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Tarte Tatin is an upside-down caramel apple tart with a crisp pastry lid and soft, glossy apple topping. It is best served warm, turned out onto a serving plate immediately so the caramel remains silky.
+This is the shortbread-base variation on tarte Tatin, upside-down caramelised apples on a buttery shortbread biscuit rather than the traditional puff pastry top. You cook the apples first in butter and sugar in a heavy ovenproof pan until they caramelise into a deep amber syrup and start to soften. The shortbread dough (butter, sugar, flour, a touch of salt) presses on top in an even layer. A moderate oven bakes the shortbread to deep gold while the apples finish softening below. Invert immediately onto a serving plate so the caramel pours down the sides and the apples sit on top of the cooled shortbread base. Eat warm with cream or vanilla ice cream.
 
 ## Ingredients
 ### Pastry

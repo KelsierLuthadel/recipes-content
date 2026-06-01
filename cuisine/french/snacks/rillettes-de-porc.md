@@ -11,7 +11,7 @@
 **Cook Time:** 4 hours
 
 ## Overview
-Pork shoulder (fatty cuts only, lean cuts will be dry) is cut into 3 cm chunks. Pork back fat (or lard) adds extra cooking fat; shallots, garlic, bay leaves, thyme, white wine and a glass of water go in with the pork. Cooked at the lowest oven temperature for 3-4 hours covered until the pork is completely tender and the fat has rendered into a clear pool. Once drained, the fat is reserved separately and the pork is pulled into long strands with two forks. The strands are packed into sterilised jars; salt and pepper season to taste; some of the reserved fat is poured over to seal the surface. Refrigerated for 3-5 days to mature; the flavours develop dramatically. Served with toasted baguette, cornichons and mustard.
+Rillettes are the French country preservation of slow-cooked pork pulled into long strands and packed under its own fat into jars, the kind of thing that lives in the cold larder of a French farmhouse and gets brought out for unexpected guests. Pork shoulder (fatty cuts only, lean cuts will go dry) cuts into 3 cm chunks. Pork back fat (or lard) adds extra cooking fat; shallots, garlic, bay, thyme, white wine and a glass of water go into the pot. Three to four hours at the lowest oven temperature, covered, until the pork is completely tender and the fat has rendered into a clear pool. Drain the fat off and reserve; pull the pork into long strands with two forks. Pack into sterilised jars; season; pour reserved fat on top to seal the surface. Three to five days in the fridge lets the flavours mature dramatically. Serve with toasted baguette, cornichons and mustard.
 
 ## Ingredients
 

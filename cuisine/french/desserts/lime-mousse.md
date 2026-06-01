@@ -20,7 +20,7 @@
 - 250 grams hulled wild strawberries
 
 ## Overview
-A zesty and sophisticated mousse infused with fresh lime juice and zest, lightened with Italian meringue and whipped cream, and garnished with delicate wild strawberries. The vibrant tartness of lime creates an elegant palate cleanser that tastes light and refreshing despite its creamy texture.
+Lime mousse is the French answer to the question of how to make a dessert that's both rich and refreshing, a creamy-light mousse built around fresh lime juice and zest and lifted with Italian meringue. You whisk a sabayon over gentle heat with lime juice, sugar and yolks until thick and pale. Italian meringue (whites whipped over a hot sugar syrup) folds through; bloomed gelatine adds soft set. Softly whipped cream folds in last; the mixture spoons into glasses or coupes and chills for at least four hours to set. Garnish with wild strawberries or whole raspberries at service. The lime's tartness against the silky cream is the entire pleasure.
 
 ## Method
 1. Soften the gelatine in a shallow dish of cold water to cover for about 5 minutes.

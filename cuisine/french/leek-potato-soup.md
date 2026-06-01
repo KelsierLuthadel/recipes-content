@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-This classic French potato and leek soup, known as Potage Parmentier, is a creamy, comforting dish made with simple ingredients. The subtle flavors of leeks and potatoes are enhanced by cream, creating a smooth and elegant soup. Perfect as a starter or light meal, served hot or chilled.
+Potage Parmentier is the French potato-and-leek soup named for the 18th-century agronomist Antoine-Augustin Parmentier, the man who lobbied Louis XVI's court into accepting potatoes as proper food. The technique is the simplest in French cooking: leeks soften gently in butter without colour, peeled and cubed potatoes join, then stock covers everything. Simmer until the potatoes collapse, blend smooth, finish with a generous swirl of double cream and a pinch of salt. The seasoning matters more than you'd think, taste, adjust, taste again. Serve hot with chives, or chilled as vichyssoise on a summer terrace.
 
 ## Ingredients
 

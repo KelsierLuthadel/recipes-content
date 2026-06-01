@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes (plus 4 hours chilling)
 
 ## Overview
-Sugar caramelises in each llanera tin until amber and runny; tins set aside to cool. Yolks whisk gently (don't aerate, that creates bubbles in the set flan) with condensed milk, evaporated milk and a splash of vanilla. Custard strains through a fine sieve into the caramel-lined tins. Steams in a bain-marie 40-45 minutes (or oven-bakes covered in a water bath at 160°C). Cools completely; chills for 4 hours. Inverted onto plates at service, the caramel becomes the sauce.
+Leche flan is the Filipino baked caramel custard the country adopted from its Spanish colonial heritage and turned into something denser and richer than its European cousin, a dessert made almost entirely of egg yolks and condensed milk. You start with the caramel: sugar melts in each oval llanera tin (or any small mould) until it goes deep amber, then sets to a glassy disc as it cools. The custard is yolks whisked gently with condensed milk, evaporated milk and vanilla, no aeration allowed because air bubbles ruin the smooth-set surface. Strain twice through a fine sieve so the texture is glassy, then pour over the caramel. A bain-marie at low heat for forty to forty-five minutes (or an oven at 160°C covered) sets the custard with the faintest wobble at the centre. Cool completely, chill for four hours, invert at service so the caramel slides down the sides as the sauce.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Centre-cut beef fillet is hand-chopped (don't blitz; the texture matters) and mixed with the seasonings just before serving. Plated in a neat ring, topped with a yolk in a half-shell or directly on top, served with hot toast and a small dressed salad.
+Steak tartare is the French dish that demands the best beef you can buy and the simplest technique you can imagine: raw fillet, hand-chopped (not blitzed; the texture matters), and seasoned at the table with capers, cornichons, shallot, Dijon, Worcestershire, Tabasco and a raw egg yolk on top. The beef must be centre-cut fillet, very fresh, very cold; you chop it with a sharp knife to a fine even dice that still holds its shape rather than the paste a food processor would give. Mix in the seasonings just before serving so the lemon and acidity don't begin to cure the meat (this would be a different dish, lovely but not tartare). Plate in a neat ring, top with a yolk in a half-shell, serve with hot toast and a small dressed salad.
 
 ## Ingredients
 

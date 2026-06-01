@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Cooked long-grain rice (slightly over-cooked, soft) mashes lightly with sugar, beaten egg, milk, vanilla and a pinch of nutmeg. Flour and baking powder fold through to a thick batter. Rest for 30 minutes. Drop tablespoons into 175°C oil; fry for 2-3 minutes per side until deep gold. Drain; dust with icing sugar.
+Calas are the New Orleans rice fritters that used to be sold by Black Creole women calling "Belles calas tout chauds!" through the French Quarter streets at dawn, a Sunday-morning breakfast pastry now mostly forgotten outside specialist Creole kitchens. Cooked long-grain rice, slightly over-cooked so it mashes easily, lightly crushes with sugar, beaten egg, milk, vanilla and a pinch of nutmeg. Flour and baking powder fold through to a thick batter, which rests for half an hour. You drop tablespoons of the batter into 175°C oil and fry for two to three minutes per side until they puff into deep-gold balls. Drain on kitchen paper, dust with icing sugar, eat warm with chicory coffee.
 
 ## Ingredients
 

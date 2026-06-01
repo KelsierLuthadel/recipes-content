@@ -21,7 +21,7 @@
 - 35 grams cocoa powder
 
 ## Overview
-Warm, molten chocolate cakes with a liquid chocolate center that flows onto the plate when cut, crowned with a dusting of cocoa powder and accompanied by velvety crème anglaise. These show-stopping individual cakes deliver theater and luxury in every spoonful, making them perfect for impressive dinner party finales.
+Warm chocolate fondant is the French restaurant trick where small individual chocolate cakes have a liquid molten centre that flows onto the plate when cut, the dessert that arrives at the table making the whole dining room turn around to watch. You melt dark chocolate with butter; whisk eggs with sugar until pale; combine, then fold in flour for structure. The batter pours into buttered and cocoa-dusted moulds; into a very hot oven for just nine to ten minutes (the centre must stay liquid, the outside must just set). Invert onto a chilled plate at the table so the molten centre flows out as the knife goes in. Crème anglaise on the side; a single fresh raspberry beside; a sprinkle of cocoa across the plate.
 
 ## Method
 1. Use a brush to lightly butter the insides of 12 metal rings, 5 cm in diameter and 3 ½ cm high and line each with a band of greaseproof paper, 5 cm high. 

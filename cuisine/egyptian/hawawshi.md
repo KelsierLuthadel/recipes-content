@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Mince mixes raw with finely chopped onion, garlic, parsley, chilli and Egyptian spices. The mixture spreads onto flatbread and folds shut; an egg-and-oil wash glazes the surface; a hot oven (or skillet) crisps the bread while the filling cooks through. The spice blend, cumin, coriander, cinnamon, allspice, sumac, paprika, is the dish's signature.
+Hawawshi is the Egyptian street-corner snack you can smell three blocks away, spiced raw mince spread between two flatbreads and crisped over high heat until the bread blisters and the filling cooks through. The mince mixes raw with finely chopped onion, garlic, parsley, chilli and the Egyptian spice signature: cumin, coriander, cinnamon, allspice, sumac and paprika together. The mixture spreads onto a round of baladi bread and folds shut; an egg-and-oil wash glazes the surface for shine. A hot oven (or a heavy skillet) crisps the bread while the filling cooks through, twelve to fifteen minutes. Cut into wedges and eat with tahina salad on the side.
 
 ## Ingredients
 

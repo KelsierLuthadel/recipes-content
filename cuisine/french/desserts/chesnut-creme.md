@@ -19,7 +19,7 @@
 - 6 fresh chestnuts
 
 ## Overview
-An elegant and refined chestnut cream studded with chestnut puree, touched with cognac and topped with chestnut "vermicelli," served with caramel sauce and chocolate-dipped langues de chat. This rustic yet sophisticated dessert celebrates autumn and the delicate flavor of chestnuts with minimal ornamentation.
+Chestnut cream is the autumn French restaurant dessert that celebrates the chestnut harvest in late October, a refined cream studded with chestnut purée, perfumed with cognac and crowned with strands of chestnut "vermicelli" pressed through a ricer. You blend cooked chestnuts (vacuum-packed are fine) with a splash of cognac and a touch of cream into a smooth paste. Softly whipped cream folds through; the mixture spoons into glasses and chills. To serve, you press more chestnut paste through a ricer to make fine threads of vermicelli that pile on top of each glass; caramel sauce drizzles around the base; chocolate-dipped langues de chat lean against the side as a crunchy biscuit.
 
 ## Method
 ### For the cream

@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Onion and pepper soften in butter; corn kernels (cut from the cob, with the milky pulp scraped after) join in; tomato adds for body. The lot stews for 25 minutes until the corn is tender and the mixture is thick. A splash of cream finishes; spring onion and hot sauce on top.
+Maque choux is the summer corn dish of the bayou, a sweet, slow-stewed mix of corn kernels, tomato and the trinity that turns the bounty of August into a proper side dish. Onion and bell pepper soften in butter first; corn kernels cut straight from the cob join in, with the milky pulp scraped from the cob and added too because that's where most of the sweetness lives. Tomato adds for body; the lot stews quietly for twenty-five minutes until the corn is tender and the mixture has thickened into something spoonable. A splash of cream pulls the flavours together at the end; chopped spring onion and a few dashes of hot sauce scatter over the top. Eat as a side to grilled chicken or shrimp.
 
 ## Ingredients
 

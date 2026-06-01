@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Dried small red beans soak overnight. A smoked ham hock simmers with the trinity (onion, celery, green pepper) and garlic, then beans, bay, thyme and stock join. Cook covered 2 hours until soft. Andouille goes in for the last 30 minutes. Mash a portion of the beans against the pot wall for thickness. Serve over rice.
+Red beans is the Monday dish of New Orleans, the meal that filled the kitchens of Black Creole cooks on washing day when the pot could simmer unattended for hours while the laundry happened. Dried small red beans soak overnight (don't skip this, fresh boil-up never reaches the same softness). A smoked ham hock simmers slowly with the trinity (onion, celery, green pepper) and garlic; the beans, bay, thyme and stock join in for two hours covered, until the beans are creamy and the broth is thick. Andouille sausage slices in for the last half hour to render its smoke into the pot. Mash a portion of the beans against the side of the pot to thicken the broth naturally. Serve over plain white rice; lay a slice of sausage across the top of each bowl.
 
 ## Ingredients
 

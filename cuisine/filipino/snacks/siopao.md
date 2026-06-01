@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (in batches)
 
 ## Overview
-A yeasted dough enriched with milk, sugar and butter rises for 1 hour. Filling: pork mince browns with garlic, soy sauce, oyster sauce, brown sugar and Chinese five-spice, simmered for 10 minutes till thick. Eggs hard-boil, quarter. Dough divides into 12 portions, each rolls into a 12 cm disc thicker in the middle than the edges. Filling spoons in with a quarter of egg. Edges pleat up over the filling like a money purse, twisted closed. Buns rest for 20 minutes on parchment squares; steam for 15 minutes in batches.
+Siopao is the Filipino take on the Chinese steamed bun, brought to the Philippines by Hokkien traders in the 19th century and now sold from street carts, bakeries and food courts across the country. A yeasted dough enriched with milk, sugar and butter rises for an hour into something soft and pillowy. The filling is pork mince browned with garlic, soy sauce, oyster sauce, brown sugar and Chinese five-spice, simmered for ten minutes until it thickens into a sticky paste. The dough divides into twelve portions and each rolls into a 12 cm disc thicker in the middle than the edges (this is so the pleated top doesn't get a thick wad of dough). A spoonful of filling and a quarter of hard-boiled egg sit in the centre; the edges pleat up over the filling like a money purse and twist closed. After a twenty-minute final rest, fifteen minutes of steaming gives you bright white pillowy buns. Eat hot with the lid still steaming.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A quick béchamel goes onto two slices of bread, ham fills the middle, more béchamel and grated gruyère pile on top. Bakes in a hot oven until the cheese melts into a deep golden crust.
+Croque monsieur is the toasted ham-and-cheese sandwich every Parisian café has on its menu, the slightly grown-up version of cheese on toast that the French perfected by adding a béchamel layer. A quick béchamel spreads onto two slices of good bread; thin slices of ham fill the middle; more béchamel and a generous handful of grated gruyère pile on top. A hot oven (or a high grill) melts the cheese into a deep golden crust on the top slice. Eat hot with a fork and knife (it's too rich and sticky to eat by hand). For croque madame, fry an egg sunny-side-up and slide it onto the top.
 
 ## Ingredients
 

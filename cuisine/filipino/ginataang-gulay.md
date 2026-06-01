@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Garlic, onion and ginger soften in oil; coconut milk adds; squash goes in first to start softening. Long beans and aubergine join; everything simmers until the squash is tender and the sauce has thickened. Soy sauce or salt finishes.
+Ginataang gulay is the Filipino vegetable curry, a coconut-milk stew of squash, beans and aubergine that anchors the everyday Filipino lunch table when the meat budget is tight. Garlic, onion and ginger soften in oil for the aromatic base; coconut milk pours in to start the gentle simmer. Squash goes in first because it takes the longest to soften and gives the dish its golden colour. Long beans and aubergine join when the squash is halfway done; everything simmers until the squash is tender and the coconut milk has thickened. A splash of soy sauce or a pinch of salt finishes. Serve over rice; the sauce should pool around the rice mound.
 
 ## Ingredients
 

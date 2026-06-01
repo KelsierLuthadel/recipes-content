@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour (plus 6 hours chilling)
 
 ## Overview
-A dry caramel is made by melting sugar to a deep amber and poured into the bottom of a flan mould (or individual ramekins). A custard of whole eggs, condensed milk, evaporated milk, vanilla and a pinch of salt is whisked together (no whipping, no air bubbles), poured over the set caramel, and baked in a water bath at low heat until just set with a slight wobble in the centre. Chilled overnight; inverted to serve, the caramel sliding down the sides in a glossy sauce.
+Flan cubano is the dessert every Cuban grandmother makes for Sunday lunch, an inverted pale-yellow custard with a glossy mahogany caramel pooling around it on the plate. You make the caramel first by melting sugar in a dry pan until it goes deep amber, the colour of dark whisky, and pouring it into the bottom of a flan mould (or six individual ramekins) where it sets to a hard glassy disc. The custard is whole eggs, condensed milk, evaporated milk, vanilla and a pinch of salt whisked together without whipping, no air bubbles allowed, then poured carefully over the set caramel. A water bath in a low oven holds the temperature gentle until the custard just sets with a faint wobble in the centre. Chills overnight; invert to serve, the caramel sliding down the sides in a glossy sauce.
 
 ## Ingredients
 

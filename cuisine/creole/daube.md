@@ -11,7 +11,7 @@
 **Cook Time:** 4 hours
 
 ## Overview
-Beef chuck cubes brown hard; the trinity (onion, celery, pepper) soften deep in the rendered fat; tomato puree and tinned tomato build a rich base; red wine, stock, herbs and the beef simmer for 3 hours covered. Uncovered for the last 30 minutes to reduce. Serve over rice with chopped parsley.
+Daube is the Creole beef stew that traces its roots through the French quarter and the bayou kitchens alike, a slow Sunday braise where beef chuck cubes go in tough and come out fork-tender three hours later. You brown the beef hard in a heavy pot so the cubes pick up colour, then the trinity (onion, celery, green pepper) softens deep in the rendered fat, picking up all the fond. Tomato puree and a tin of chopped tomatoes build the rich red base; red wine, stock and herbs join, the beef returns, and the lot covers and goes onto the lowest heat for three hours. The last thirty minutes go uncovered so the gravy reduces to coating thickness. Serve heaped over rice with chopped parsley scattered over the top.
 
 ## Ingredients
 

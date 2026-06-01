@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Good-quality tahini whisks with crushed garlic, fresh lemon juice and a pinch of salt. The mix tightens dramatically at first (chemistry of acid + tahini), then loosens with cold water added slowly until pourable. Pinch of cumin folds in. Spread on a wide plate; pool of olive oil on top; pinch of sumac and parsley.
+Tahina salad is the Egyptian pourable dressing-meets-dip that lives in a small dish at every meze table, the partner for taamiya, hawawshi or just bread. Good-quality tahini whisks with crushed garlic, fresh lemon juice and a pinch of salt; the trick is the chemistry, the mix tightens dramatically and pulls into a paste when the acid hits the tahini before loosening again. You add cold water slowly, a tablespoon at a time, whisking constantly until the sauce loosens to a pourable cream. A pinch of cumin folds in for warmth. Spread on a wide plate, pool of olive oil on top, dust of sumac and chopped parsley. Eat with bread, by the spoonful, or as a sauce over roasted vegetables.
 
 ## Ingredients
 

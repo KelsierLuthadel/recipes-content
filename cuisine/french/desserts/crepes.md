@@ -21,7 +21,7 @@
 - 20 grams [Clarified Butter (Beurre Clarifié)](../../../base-ingredients/baking/clarified-butter.md) (to cook)
 
 ## Overview
-Classic French crèpes: delicate, tissue-thin pancakes with a tender crumb and subtle vanilla flavor, serving as the foundation for infinite sweet and savory variations. These timeless crèpes are fundamental to French cuisine yet require precision and practice to master, rewarding with elegant, versatile results.
+Crêpes are the foundation of French pâtisserie and bistro snacking, tissue-thin pancakes with a subtle vanilla scent that can hold any filling sweet or savoury you can think of. The batter is the simplest possible: flour, eggs, milk, melted butter, a pinch of salt, a splash of vanilla. You whisk smooth and rest the batter at least half an hour (overnight is better) so the flour hydrates and the air bubbles settle out. A hot non-stick pan needs the smallest possible slick of butter; a ladleful of batter swirls around the pan thin; the crêpe sets in twenty seconds and you flip with a confident wrist. Stack them flat as you go. Fill with chocolate spread, with sugar and lemon, with Grand Marnier (Suzette), or with cooked spinach and ham. They eat at any hour, from any country, and they're the simplest party trick a French cook ever had.
 
 ## Method
 ### To make the batter

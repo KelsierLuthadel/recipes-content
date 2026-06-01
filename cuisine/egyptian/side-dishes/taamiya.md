@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Dried split fava beans soak overnight. Blitz with herbs, garlic, onion, leek, ground coriander, cumin and a pinch of baking powder to a soft slightly grainy paste, not smooth purée. Rest for 1 hour. Shape into 5 cm flat discs; dip in sesame seeds; fry at 175°C 4-5 minutes until deep gold.
+Taamiya is the Egyptian falafel, made with fava beans instead of chickpeas (the Levantine version), giving a paler, fluffier interior and a deeper savoury note. Dried split fava beans soak overnight; you blitz them with herbs (parsley, coriander, dill), garlic, onion, leek, ground coriander, cumin and a pinch of baking powder to a soft slightly grainy paste, never a smooth puree. Rest the mixture for an hour so the starch develops. Shape into five-centimetre flat discs; dip the tops in sesame seeds for the textural crust. Fry at 175°C for four to five minutes until deep gold outside and fluffy pale-green inside. Eat hot, in pita with tahina, salata baladi and pickled chillies.
 
 ## Ingredients
 

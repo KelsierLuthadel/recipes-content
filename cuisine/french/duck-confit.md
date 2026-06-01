@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours (oven) plus 8 minutes pan-crisp
 
 ## Overview
-Duck legs sit overnight under salt, garlic and herbs to season and draw out moisture. They then cook completely submerged in duck fat at 90°C for 3 hours. The cooked legs and the fat keep for weeks. To serve, lift legs from the fat and crisp the skin in a dry hot pan.
+Duck confit is the French preservation technique that became one of the great dishes: duck legs cured overnight in salt, garlic and herbs, then submerged completely in duck fat and cooked low and slow until the meat slips off the bone, then stored under the same fat for weeks. You salt the legs overnight to season and draw out moisture; the next day you submerge them in duck fat (rendered from the duck itself or bought from a butcher) and cook at 90°C for three hours, no higher, the fat should never simmer. The cooked legs and the fat together keep for weeks in the fridge, ready for service. To serve, lift a leg from the fat, blot dry, and crisp the skin in a dry hot pan until it crackles. Eat with potatoes cooked in the duck fat and a sharp green salad.
 
 ## Ingredients
 

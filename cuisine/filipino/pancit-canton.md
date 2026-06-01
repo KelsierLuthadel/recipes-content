@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Aromatics fry, then chicken and prawns sauté fast. Vegetables and Chinese sausage join. The noodles soak briefly to soften, then go in the wok with sauce and stock to absorb everything in 5 minutes. Lemon or kalamansi at the table.
+Pancit canton is the Filipino noodle dish that turns up at every birthday because the long noodles symbolise long life, a stir-fry of egg noodles, chicken, prawns and Chinese sausage tossed with a soy-stock glaze. Aromatics fry first in hot oil; chicken and prawns sauté fast over high heat to colour the surfaces. Vegetables (cabbage, carrot, snap peas) and slices of Chinese sausage (chorizo de Macao) join in for body and smoke. The dried egg noodles soak briefly in hot water to soften, then go straight into the wok with the sauce and stock; they absorb everything in about five minutes, picking up colour and flavour. Lemon or calamansi wedges at the table give the bright acidic lift that makes every bite snap to attention.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A soft eggy yeasted dough mixes, flour, yeast, sugar, salt, butter, egg, milk and a touch of evaporated milk for the classic richness. Rises for 2 hours (or overnight in the fridge). Rolls to 5 mm thick on a floured surface; cuts into 5 cm squares. Fries at 180°C 90 seconds per side. Drains briefly; dusts heavily with icing sugar; eaten hot.
+Beignets are the New Orleans French Quarter pastry sold three to an order at Café du Monde, square pillows of fried dough buried under a snowdrift of icing sugar that gets all over everything within a metre. The dough is soft and eggy and yeasted, made with flour, yeast, sugar, salt, butter, egg, milk and a touch of evaporated milk for the classic Louisiana richness. After a two-hour rise (or overnight in the fridge), you roll it to 5 mm thick on a floured surface and cut into 5 cm squares. Each square fries at 180°C for ninety seconds per side, puffing into a hollow pillow with a thin crisp shell. Drain briefly, then dust heavily, more than you think reasonable, with icing sugar. Eat hot, with chicory coffee, on a metal café table in the French Quarter air.
 
 ## Ingredients
 

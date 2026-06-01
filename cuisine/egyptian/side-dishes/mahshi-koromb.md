@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-A large cabbage core-out, blanched briefly, leaves separated. Filling: short-grain rice mixed raw with beef mince, chopped onion, parsley, dill, mint, dried mint, cumin, allspice, tomato puree, salt, pepper, plenty of olive oil. Each leaf rolls around a tablespoon of filling. Packed tight in a wide pot lined with sliced tomato. Garlic-tomato cooking liquid poured to nearly cover. Weighted with a plate. Cooked covered 1 hour on the lowest heat.
+Mahshi koromb is the cabbage-roll dish that anchors Egyptian Friday lunches across the country, tight bundles of rice and herbs and minced meat tucked inside softened cabbage leaves and stewed in tomato-garlic liquor. You core a large cabbage and blanch it whole, separating the leaves as they soften. The filling is short-grain rice mixed raw with beef mince, chopped onion, parsley, dill, mint (both fresh and dried), cumin, allspice, tomato puree, salt, pepper and a generous slick of olive oil. Each leaf wraps around a tablespoon of filling into a tight cigar. The rolls pack close in a wide pot lined with sliced tomato on the bottom, get covered with a garlic-tomato cooking liquid almost to the top, and weight down with a plate. Cook covered on the lowest heat for an hour. Serve with lemon wedges; eat with your fingers.
 
 ## Ingredients
 

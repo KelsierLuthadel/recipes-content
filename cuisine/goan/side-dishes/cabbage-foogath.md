@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A foogath is the Goan version of a coconut-stir-fry vegetable: a temper of mustard seeds, dried red chilli, urad dal and curry leaves in coconut oil, sliced onion and garlic cooked briefly, then the vegetable tossed in over high heat. Fresh grated coconut is folded through at the end. The cabbage keeps a slight crunch and gets a nutty-sweet finish.
+Foogath is the Goan way of cooking any green vegetable, a coconut-stir-fry method where the veg picks up the toasty-nutty flavour of grated fresh coconut and the warmth of South Indian temper. A temper of black mustard seeds, dried red chilli, urad dal and curry leaves blooms in coconut oil; sliced onion and garlic cook briefly; the cabbage (shredded fine) tosses in over high heat. Fresh grated coconut folds through at the end. The cabbage keeps a slight crunch and gets a nutty-sweet finish. Eat with rice and a fish curry.
 
 ## Ingredients
 

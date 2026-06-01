@@ -18,7 +18,7 @@
 - 1 lemon (juice)
 
 ## Overview
-An impressive three-layer dessert built with crispy French meringue rounds interspersed with poached berries and their brilliant ruby coulis. This sophisticated construction offers multiple textural contrasts and celebratory visual appeal, perfect for special occasions when simple elegance impresses most.
+This is the architectural French berry dessert, three crisp meringue rounds stacked with poached red berries (strawberries, raspberries, redcurrants) and their brilliant coulis between each layer. You bake three thin meringue discs in a low oven until crisp, dry and shatteringly fragile. Red berries poach gently in a sugar syrup with a splash of cassis or kirsch; the cooled berries plus their syrup pool between the meringue layers as you stack them. A final scatter of fresh berries on top and a drizzle of coulis around the base. Serve immediately; the meringue softens within an hour, so this is a build-and-eat dessert.
 
 ## Method
 ### To make the meringues

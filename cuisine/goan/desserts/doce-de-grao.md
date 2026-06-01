@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Chickpeas are soaked overnight, simmered until completely tender, then drained and pureed into a smooth paste. The paste is cooked over low heat with sugar, fresh coconut milk and grated coconut, stirred constantly as the mixture thickens. Ghee is added in stages; the fudge is ready when it pulls away from the sides of the pan and the ghee separates at the edges. Cardamom and a touch of rose water lift the chickpea flavour into something dessert-like. Tastes nothing like chickpeas.
+Doce de grão is the Goan chickpea fudge that proves the spice route's tradition of turning humble ingredients into the most refined desserts, a sweet block that tastes nothing like its origin ingredient. Chickpeas soak overnight, simmer until completely tender, then drain and puree into a smooth paste. The paste cooks over low heat with sugar, fresh coconut milk and grated coconut, stirring constantly as the mixture thickens. Ghee adds in stages; the fudge is ready when it pulls cleanly away from the sides of the pan and the ghee separates at the edges. Cardamom and a touch of rose water lift the chickpea base into something dessert-like rather than savoury. Pour into a tray, cool, cut into diamonds; eat with chai.
 
 ## Ingredients
 - 200 g dried chickpeas (soaked overnight) (or 350 g cooked weight)

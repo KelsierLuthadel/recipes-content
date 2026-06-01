@@ -11,7 +11,7 @@
 **Cook Time:** none
 
 ## Overview
-Soft ripe Camembert mashes with butter, finely grated onion, sweet paprika, caraway and a splash of beer until coloured rosy-orange and spreadable but textured. Rests in the fridge 30 minutes so the flavours marry. Pile in a bowl, top with raw onion rings and a dusting of paprika, and serve with pretzels and dark bread. Eaten cold.
+Obatzda is the Bavarian beer-garden cheese spread, soft ripe Camembert smashed with butter, paprika and a splash of beer until it goes a rosy orange and you can spread it thick on pretzels. You start with very ripe Camembert (the kind that's almost runny in the centre); mash it with cubed butter, finely grated onion, sweet paprika, caraway seeds and a generous splash of beer. The colour goes pale orange; the texture is spreadable but still slightly chunky. Rest in the fridge for half an hour so the flavours marry. Pile in a bowl, top with raw onion rings sliced thin and an extra dust of paprika. Eat cold with warm pretzels, dark bread and a tall cold beer.
 
 ## Ingredients
 

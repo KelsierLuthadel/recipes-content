@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Onions cook for nearly an hour in butter and oil until they're deep mahogany, almost jammy. They deglaze with sherry or cognac and meet beef stock, simmering long enough to marry. Ladled into oven-proof bowls, topped with toasted bread and gruyère, the lot grills until the cheese is bubbling.
+French onion soup is the late-night Parisian bistro dish, the bowl that traditionally ended a long evening at Les Halles when the meat markets were still operating overnight and the soup vendors fed the porters before dawn. Sliced onions cook for nearly an hour in butter and oil over low heat, going from translucent to gold to deep mahogany, almost jammy. A deglaze with sherry or cognac picks up the fond; a generous pour of beef stock simmers everything together until the flavours marry. Ladle into oven-proof bowls, float a toasted baguette slice on top, blanket with grated gruyère, and pass under a hot grill until the cheese bubbles and browns at the edges. Eat with a long spoon, carefully, the cheese strings.
 
 ## Ingredients
 

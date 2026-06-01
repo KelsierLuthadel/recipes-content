@@ -24,7 +24,7 @@
 - 12 mint sprigs
 
 ## Overview
-A stunning frozen parfait with bright citrus flavor from limoncello and fresh lemon, topped with a jewel-like arrangement of fresh raspberries and their deep ruby coulis. This sophisticated frozen dessert combines a silky-smooth Italian custard base with the zesty brightness of lemon, making it perfect for summer entertaining and elegant dinner parties.
+Limoncello parfait is the summer dinner-party dessert that turns lemon liqueur into a stunning frozen mousse, served with fresh raspberries and a deep ruby coulis spilling around the base. The Italian-custard base whisks yolks over heat with sugar to a thick pale sabayon, then folds with limoncello, fresh lemon juice, and stiffly whipped cream. The mixture pours into individual moulds (or a loaf tin) and freezes for at least six hours. Raspberries macerate briefly with a touch of sugar and lemon juice; some of the macerated juice blends into a coulis. To serve, unmould the parfait, arrange raspberries beside, pool the coulis around. The frozen citrus carries the heat of the limoncello in the most refreshing form possible.
 
 ## Method
 ### To make the parfait

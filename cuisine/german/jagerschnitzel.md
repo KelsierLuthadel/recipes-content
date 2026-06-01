@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Pork loin escalopes pound thin, bread, and shallow-fry. While they crisp, a sauce of bacon, onion, mushrooms, white wine, stock and cream reduces in another pan. The schnitzel plates with the sauce on top (or alongside, if you want the crumb to stay crisp), with spätzle or boiled potatoes underneath.
+Jägerschnitzel (hunter's schnitzel) is the German answer to schnitzel-with-sauce, breaded pork escalopes finished with a creamy mushroom-bacon sauce that fills the German cookery books and the German pub menus alike. Pork loin escalopes pound thin, dredge in flour, egg and breadcrumbs in the standard German order, and shallow-fry in plenty of fat until the crumb puffs into ripples and goes deep gold. While the schnitzel rests, a sauce of rendered bacon, sliced onion, mushrooms, white wine, stock and cream reduces in another pan into something glossy and rich. The schnitzel plates with the sauce poured on top (or alongside if you want the crumb to stay properly crisp), with spätzle or boiled potatoes underneath to soak up the sauce. Serve hot with a beer.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Buttery shortcrust pastry blind-baked first to set the base, then filled with rendered smoked lardons, grated gruyère and a rich egg-cream custard, baked at moderate heat until just set with a slight wobble in the centre.
+Quiche Lorraine is the original quiche from the Lorraine region of northeastern France, a buttery pastry shell holding nothing more complicated than rendered smoked lardons, grated gruyère and an egg-cream custard. The shortcrust pastry blind-bakes first to set the base, the step purists will lecture you about because soggy bottoms are an offence against the dish. The lardons render their smoke and fat into the eggs and cream; gruyère gets scattered into the shell; the custard pours over and bakes at moderate heat until just set with a slight wobble at the centre. Cut while warm into wedges. Serve with a sharp green salad and a glass of Riesling or Pinot Blanc from the Alsace next door.
 
 ## Ingredients
 

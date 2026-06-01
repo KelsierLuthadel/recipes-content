@@ -11,7 +11,7 @@
 **Cook Time:** 3 minutes (for the temper)
 
 ## Overview
-Cucumber is chopped, salted and rested briefly to draw out some of its water (the step that keeps a salad from going soggy). The drained cucumber is tossed with fresh grated coconut, finely chopped green chilli and coriander. A quick mustard-seed temper in coconut oil is poured over the top for the aroma and a faint heat. Eaten by the spoonful from a bowl, or alongside fish curry rice.
+Goan cucumber salad is the cooling raita-meets-salad that lives beside every Goan fish curry, fresh cucumber tossed with grated coconut and finished with a quick South Indian temper poured over the top. Chop the cucumber, salt and rest briefly to draw out water (the step that keeps the salad from going soggy). Toss the drained cucumber with fresh grated coconut, finely chopped green chilli and chopped coriander. A quick mustard-seed temper in coconut oil pours over the top for the aroma and a faint heat. Eat by the spoonful from a bowl, or alongside fish curry rice.
 
 ## Ingredients
 

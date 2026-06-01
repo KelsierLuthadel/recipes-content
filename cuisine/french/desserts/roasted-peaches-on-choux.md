@@ -20,7 +20,7 @@
 - icing sugar (to dust)
 
 ## Overview
-A simple yet elegant celebration of ripe peaches served on crispy choux crowns topped with flaked almonds, surrounded by a butterscotch caramel enriched with grenadine. This refined dessert showcases the peak flavor of fresh summer peaches, treating them as the star ingredient while providing textural contrast with the choux.
+This is the elegant summer French dessert that turns ripe roasted peaches into the star ingredient, served on crispy choux pastry crowns and surrounded by a butterscotch caramel sauce. You roast halved peaches in butter with a splash of grenadine until the surfaces caramelise and the flesh softens but holds. Small choux crowns bake separately and get topped with flaked almonds. To plate, you set a choux crown on each plate, top with a roasted peach half cut-side-up, and surround with the butterscotch caramel that's been enriched with grenadine for the pink-gold colour. Serve warm; the peach is the entire point and shouldn't be smothered.
 
 ## Method
 ### To peel the peaches

@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-A beef chuck or topside joint marinates 3-4 days in red wine vinegar, red wine and aromatics. The marinade strains, the meat browns deeply, and it braises slowly in the strained marinade with stock until tender. The braising liquid is finished with crushed gingersnaps for the signature sweet-thick sauce.
+Sauerbraten is the German Sunday roast tradition, a beef joint that marinates for three or four days in red wine vinegar before being braised slowly into something almost mahogany-coloured with a sweet-sour gingersnap-thickened sauce. A beef chuck or topside joint marinates in a mixture of red wine vinegar, red wine, sliced onion, juniper, peppercorns, bay and clove for three to four days in the fridge, turning daily. The marinade strains; you pat the beef dry, brown it deeply on all sides in a heavy pot, then braise slowly in the strained marinade with stock for three hours until fork-tender. The braising liquid finishes with a handful of crushed gingersnaps that thicken the sauce and give it its signature sweet-tangy character. Serve with red cabbage and potato dumplings.
 
 ## Ingredients
 

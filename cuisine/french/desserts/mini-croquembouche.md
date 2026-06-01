@@ -29,7 +29,7 @@
 - 2 teaspoon groundnut oil (to oil the mould)
 
 ## Overview
-A magnificent choux pastry showpiece consisting of dozens of tiny profiteroles delicately bound together with caramel into a stunning cone shape that makes a striking centerpiece. This classic French dessert is filled with a luxurious combination of crème patissière and whipped cream, offering both visual drama and exquisite taste.
+Croquembouche is the French wedding-cake equivalent, a towering cone of caramel-bound choux puffs that becomes the centrepiece of every important French celebration. The mini version scales down to a single-portion or six-person tower. You bake dozens of small choux puffs and fill each with crème pâtissière and whipped cream through the bottom. To build, you dip the base of each filled puff in molten caramel and stack them in a tight cone shape on a serving plate; the caramel sets in seconds and binds the structure. Spun-sugar threads spin from a fork to drape across the finished tower like a veil. Eat with your fingers, the puffs pop off as you pull them away.
 
 ## Method
 1. Preheat the oven to 180°C.

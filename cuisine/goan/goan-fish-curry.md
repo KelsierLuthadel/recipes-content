@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A Goan coconut masala paste is ground from soaked Kashmiri chillies, coriander seeds, cumin, peppercorns, garlic and ginger with fresh coconut and tamarind. Onion is softened in coconut oil with green chilli and curry leaves, the masala is fried until the oil separates, water and salt are added for a brief simmer, and the fish is slid into the gravy for a gentle poach. The dish is sharply acidic, deeply red and just hot enough.
+Goan fish curry is the dish that turns up at every Goan family lunch, a sharply acidic, deeply red coconut curry that takes a fish from neutral to memorable in fifteen minutes. You grind a Goan coconut masala from soaked Kashmiri chillies (for the deep red colour without scorching heat), coriander seeds, cumin, peppercorns, garlic and ginger with fresh grated coconut and tamarind. Onion softens slowly in coconut oil with green chilli and curry leaves; the masala paste fries until the oil separates from the solids (this is the Goan signal that the paste is properly cooked); water and salt add for a brief simmer. The fish slides into the gravy for a gentle poach, four to five minutes for white fish, longer for prawn. Serve with steamed rice and a wedge of lime.
 
 ## Ingredients
 

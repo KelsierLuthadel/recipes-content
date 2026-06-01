@@ -20,7 +20,7 @@
 - 20 grams icing sugar (to glaze)
 
 ## Overview
-Elegant and portable apple turnovers with a fluted puff pastry edge, filled with cinnamon-spiced apple compôte, and finished with a caramelized icing sugar glaze. These individual pastries are sophisticated enough for elegant serving yet simple enough for everyday enjoyment, showcasing the timeless pairing of apples and cinnamon.
+These are the individual French apple turnovers, fluted half-moons of puff pastry encasing a cinnamon-spiced apple compote and finished with a sugared icing-glaze that caramelises in the final blast of heat. The compote cooks down slowly with butter, sugar, cinnamon and a touch of lemon juice until thick and spoonable. Puff pastry rolls out, cuts into 12 cm rounds; a spoon of compote sits on half, the pastry folds over into a half-moon, the edges crimp with a fork. Egg wash brushes on top for the shine. A high oven puffs the pastry and crisps the surface; a final dusting of icing sugar caramelises under the grill for the lacquered finish. Eat warm with cream.
 
 ## Method
 ### Make the filling

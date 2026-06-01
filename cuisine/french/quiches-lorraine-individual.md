@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Classic French quiches featuring a silky, custardy filling enriched with cream and Gruyère cheese, studded with crispy lardons, set in individual pastry cases. The balance of salty pork, rich cheese, and delicate egg custard creates an iconic tart that works beautifully warm or at room temperature. Perfect as a light lunch or elegant starter.
+These are the individual versions of quiche Lorraine, the dish you'd find at a Paris café for an elegant lunch or a polite tea-time, pastry cases the size of a teacup holding silky cream custard, crispy lardons and grated Gruyère. The pastry blind-bakes first in individual tartlet tins; the filling assembles fast: rendered lardons, grated cheese, custard of egg, cream, salt, pepper and a pinch of nutmeg. Bake until just set at the centre, the surfaces a faintly bronzed gold. They eat as well warm from the oven as cool from the fridge the next day, perfect for a picnic or packed into a lunchbox.
 
 ## Ingredients
 ### Pastry

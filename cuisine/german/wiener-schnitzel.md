@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Veal escalopes are pounded to 5 mm thick, dredged through flour, egg and breadcrumbs (each step distinct), then shallow-fried fast in plenty of fat until the crumb puffs into characteristic ripples. Lemon and parsley potatoes alongside.
+Wiener Schnitzel is the Viennese veal cutlet that defines Austrian cooking for the rest of the world, pounded paper-thin and breaded so the crumb puffs into characteristic ripples when it hits the hot fat. The veal escalopes pound to 5 mm thick (you want them thin enough to cook through in two minutes but not torn). They dredge through flour first to dry the surface, then beaten egg to bind, then dry breadcrumbs (never panko, the texture is wrong) for the coat. Shallow-fry fast in plenty of fat (butter and oil together, or pure clarified butter for the proper Vienna version) until the crumb goes deep gold and puffs up dramatically away from the meat (the German term is "soufflieren"). Serve immediately with lemon wedges and parsley potatoes.
 
 ## Ingredients
 

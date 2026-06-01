@@ -14,7 +14,8 @@ tags:
   - lemon
   - butter
   - nuts
-mentions: []
+mentions:
+  - cuisine/american/roast-turkey
 ingredients:
   - qty: 500
     unit: g

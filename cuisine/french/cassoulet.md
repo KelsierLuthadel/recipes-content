@@ -11,7 +11,7 @@
 **Cook Time:** 3-4 hours
 
 ## Overview
-Dried haricot beans soak overnight, then simmer with bacon and aromatics. Pork shoulder and sausages brown separately. The lot layers in a casserole with confit duck legs, more stock, and a breadcrumb top that cooks into the surface as it bakes long and slow.
+Cassoulet is the great slow-cooked white-bean and meat dish of southwest France, a winter casserole that takes two days, demands attention, and rewards the cook with something that smells of nothing on earth but cassoulet. Dried haricot beans soak overnight, then simmer slowly with bacon, aromatics and the bones of any pork or duck you have lying around. Pork shoulder and Toulouse sausages brown hard in a wide pan; confit duck legs sit ready. The lot layers in a deep clay casserole: beans, meats, more beans, more stock, breadcrumbs on top. Bake long and slow at 150°C for several hours; every time the breadcrumb crust forms, you break it back into the dish and let a new one form. Seven breakings is the traditional count. Serve straight from the dish.
 
 ## Ingredients
 

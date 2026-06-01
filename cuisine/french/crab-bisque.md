@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-A rich and elegant seafood bisque featuring fresh crab cooked in a flavorful broth with brandy and cream. The soup is strained for smoothness, highlighting the sweet crab meat with a touch of spice from cayenne.
+Crab bisque is the French shellfish soup that turns the heads and shells you'd otherwise throw away into a rich coral-coloured broth, the dish that proves frugality and elegance live in the same kitchen. Crab shells and trimmings simmer hard in a stock with white wine, fennel, leek and tomato to extract every drop of flavour. The strained stock reduces with a splash of brandy, gets enriched with cream, and the picked white crab meat folds in at the end so it stays in delicate pieces. A pinch of cayenne or a few drops of hot sauce wakes the bisque up; the soup gets strained one more time through a fine sieve for the proper silky texture. Serve in small cups with a slice of toasted baguette on the side.
 
 ## Ingredients
 

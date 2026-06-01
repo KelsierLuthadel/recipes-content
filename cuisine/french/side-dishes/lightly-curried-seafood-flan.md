@@ -11,7 +11,7 @@
 **Cook Time:** 55 minutes
 
 ## Overview
-Elegant individual flans featuring fresh shellfish, mussels, scallops, and langoustines, in a silky curry-infused custard set within a crisp pastry case. The delicate interplay of seafood sweetness and warm curry spice creates a sophisticated starter worthy of special occasions. Best served warm from the oven.
+This is the elegant individual seafood flan from the French dinner-party tradition of the 1970s and 80s, a small pastry case holding silky curry-spiced custard studded with mussels, scallops and langoustines. The shortcrust pastry blind-bakes first to crisp the shells. The custard is cream, eggs, fish stock, salt, and a careful pinch of mild curry powder so the spice perfumes the dish without dominating the seafood. Pre-cooked shellfish layers into each shell; the custard pours over and bakes at moderate heat until just set with the faintest wobble at the centre. Serve warm, as a starter for a special occasion; the curry should be a whisper, not a statement.
 
 ## Ingredients
 ### Pastry base

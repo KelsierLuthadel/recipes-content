@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Red cabbage shreds fine, then braises low and slow with grated apple, red wine vinegar, a splash of red wine and sugar. Cloves, bay and a cinnamon stick perfume the pot. The cabbage stays vivid purple thanks to the vinegar (acid keeps the colour), softens completely, and tastes sweet, sour and warmly spiced all at once.
+Rotkohl is the German braised red cabbage that anchors every Christmas dinner across the country, a slow-cooked sweet-sour side of finely shredded cabbage perfumed with apple, clove and cinnamon. You shred the red cabbage as fine as you can (the finer the cut, the silkier the finished dish). It braises low and slow with grated apple, red wine vinegar, a splash of red wine and a couple of spoons of sugar. Whole cloves, bay leaves and a cinnamon stick perfume the pot. The vinegar is the trick: acid keeps the cabbage's vivid purple, where alkaline conditions would turn it blue-grey. An hour or more of gentle braising softens the cabbage completely and reduces the liquid to a glossy coat. Sweet, sour, warmly spiced; better the next day.
 
 ## Ingredients
 

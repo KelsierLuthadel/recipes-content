@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A loose egg-rich batter rests briefly to relax the gluten. It presses through a spätzle press, colander, or grater into a pan of boiling salted water. The noodles cook in seconds, lift out, and toss with butter or build into other dishes.
+Spätzle are the Swabian-Bavarian egg noodles that anchor southern German cooking, soft pillowy strands that turn into the base for cheese-bakes, the side for braises, and the entire dish itself when tossed with butter and brown butter herbs. A loose egg-rich batter (eggs, flour, salt, a splash of milk) whisks together and rests briefly to relax the gluten. The batter then presses through a spätzle press, colander, or coarse grater into a pan of boiling salted water; the strands cook in twenty to thirty seconds (they float when done) and lift out with a slotted spoon. Toss with butter or use as the base for käsespätzle, jägerschnitzel or any German braise. Spätzle keep poorly; make them just before serving.
 
 ## Ingredients
 

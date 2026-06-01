@@ -26,7 +26,7 @@
 - 4 oranges (large, shell only)
 
 ## Overview
-A vibrant and fragrant orange soufflé with Grand Marnier, baked and served in its own hollowed orange shell for a striking table presentation. This classic French dessert showcases the bright flavor of fresh orange juice combined with a light, airy soufflé base that rises beautifully in the oven.
+Orange soufflé is the French restaurant dessert that lands at the table in its own hollowed-out orange shell, the soufflé rising dramatically above the rim. You halve and hollow oranges, then process the flesh with sugar and Grand Marnier into a smooth purée. The soufflé base is the classic: yolks whisked with the purée, stiff whites with sugar folded carefully in to keep the air. The mixture pours into the orange shells and goes straight into a hot oven for ten minutes until it has risen dramatically above the rim and the top has just set. Serve immediately; the soufflé will fall within minutes, but the smell of warm orange and Grand Marnier compensates.
 
 ## Method
 1. Brush 4 ramekins or small soufflé dishes, about 8 cm diameter and 6 cm high with the butter.

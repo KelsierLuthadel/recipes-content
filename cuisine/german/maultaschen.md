@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A simple egg-and-flour pasta dough rolls thin. The filling is spinach (frozen, thawed and squeezed dry), breadcrumbs soaked in milk, grated cheese, eggs, parsley and nutmeg. The dough rolls long; filling drops onto the bottom half; the top folds over and seals; the lot cuts into rectangles. Boiled briefly in vegetable broth or salted water; served in broth or pan-fried.
+Maultaschen are the Swabian dumplings the German monks supposedly invented to hide forbidden meat during Lent (the local nickname is Herrgottsb'scheißerle, "little God-fooler"); modern versions can be meat or vegetarian. A simple egg-and-flour pasta dough rolls thin. The vegetarian filling is spinach (frozen, thawed and squeezed dry), breadcrumbs soaked in milk, grated cheese, eggs, parsley and nutmeg. The dough rolls long; filling drops onto the bottom half; the top folds over and seals; the lot cuts into rectangles with a knife or pasta wheel. Boil briefly in vegetable broth or salted water. Serve in broth (in der Brühe) as a soup, or drained and pan-fried in butter and onions (geröstet) for a savoury main.
 
 ## Ingredients
 

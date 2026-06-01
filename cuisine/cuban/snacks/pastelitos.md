@@ -11,7 +11,7 @@
 **Cook Time:** 22 minutes
 
 ## Overview
-All-butter puff pastry (homemade if you've the patience, shop-bought all-butter if you don't) is rolled out, cut into squares, topped with a slab of guava paste and a chunk of cream cheese, then sealed into a parcel or topped with a second pastry square. Brushed with egg wash, baked at high heat until golden and puffed. While hot, brushed with a simple sugar syrup for the shiny finish.
+Pastelitos are the Cuban bakery breakfast every Calle Ocho café has stacked in the display case from six in the morning, golden puff-pastry parcels with melting cream cheese and dark guava paste inside. All-butter puff pastry (homemade if you've the patience, shop-bought all-butter if you don't) rolls out, cuts into squares, takes a slab of guava paste and a chunk of cream cheese, then seals into a parcel or gets topped with a second pastry square. Brush with egg wash for the gloss; bake at high heat until golden and dramatically puffed. While still hot from the oven, a brush of simple sugar syrup gives them the shiny lacquered finish you see in the bakery windows. Eat warm with a Cuban coffee.
 
 ## Ingredients
 

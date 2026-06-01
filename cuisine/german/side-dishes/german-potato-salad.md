@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Waxy potatoes boil in their skins, peel while still warm and slice into thick coins. A hot dressing of rendered smoked bacon, onion, stock, vinegar, mustard and a little sugar pours over them. The warm potatoes soak the dressing up. Eats warm or at room temperature, never fridge-cold.
+German potato salad is the warm cousin of the cold American picnic version, no mayonnaise in sight, just hot vinegar-bacon dressing poured over still-warm potatoes that drink the dressing into their flesh. Waxy potatoes (Charlotte, Maris Piper, Yukon Gold) boil in their skins until tender; you peel them while still warm (the skin slips off easily) and slice them into thick coins. A hot dressing of rendered smoked bacon, sliced onion, stock, white wine vinegar, Dijon mustard and a touch of sugar pours over the warm potatoes. The potatoes soak up the dressing in minutes. Eats warm or at room temperature, never fridge-cold; the dressing solidifies if chilled.
 
 ## Ingredients
 

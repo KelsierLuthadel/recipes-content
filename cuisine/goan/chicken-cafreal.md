@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A vivid green masala is ground from coriander leaves, mint, green chilli, garlic, ginger, cumin, peppercorns and clove with palm vinegar. Chicken pieces are slashed and marinated for at least 4 hours (ideally overnight). The pieces are pan-fried in the marinade-paste over high heat until the herb crust dries out and chars at the edges, with a small splash of water added halfway through to keep the chicken juicy. Served with a wedge of lime and a salad of onion and tomato.
+Chicken cafreal is the vivid green Goan-Portuguese dish that traces its roots through the Portuguese colony at Mozambique and the African coast, a wet herb-and-spice marinade that doubles as the cooking paste so the chicken comes out crusted in green and faintly charred. You grind a bright green masala from fresh coriander leaves, mint, green chilli, garlic, ginger, cumin, peppercorns and clove with a generous splash of palm vinegar. Slash the chicken pieces and marinate for at least four hours, ideally overnight, so the herb paste works deep into the meat. Pan-fry the marinated pieces over high heat until the herb crust dries out and chars at the edges; a small splash of water halfway through keeps the chicken juicy without losing the colour. Serve with lime wedges and a salad of sliced onion and tomato.
 
 ## Ingredients
 

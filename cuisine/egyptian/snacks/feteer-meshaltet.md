@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A soft elastic dough rests; divides into 2 balls. Each ball stretches paper-thin on a heavily-oiled / ghee-buttered surface (similar to msemen or yufka, translucent dough). Layered with melted ghee between folds: stretch → ghee → fold into thirds → quarter-turn → stretch → ghee → fold. Repeated 3 times per ball. The two folded packets place stacked on top of each other in a buttered round dish (about 24 cm). Baked at 220°C 25-30 minutes until amber, golden, and the layers have separated dramatically. Served warm with honey, soft cheese, or molasses-and-tahini (the Egyptian classic dip).
+Feteer meshaltet is the Egyptian layered pastry the country has been baking in clay ovens since pharaonic times, a paper-thin laminated dough folded with ghee that bakes into something that looks like it has hundreds of layers. A soft elastic dough rests, then divides into two balls. Each ball stretches paper-thin on a heavily-oiled or ghee-buttered surface, the way you stretch yufka or msemen. Ghee drizzles between folds: stretch, ghee, fold into thirds, quarter-turn, stretch, ghee, fold again. Three rounds of this per ball gives you the layering. Stack the two folded packets in a buttered round dish (24 cm) and bake at 220°C for twenty-five to thirty minutes until amber-gold and the layers have separated dramatically. Eat warm with honey, soft cheese, or the Egyptian classic of molasses-and-tahini for dipping.
 
 ## Ingredients
 

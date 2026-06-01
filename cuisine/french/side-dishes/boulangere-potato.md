@@ -11,7 +11,7 @@
 **Cook Time:** 46 minutes
 
 ## Overview
-Boulangère potatoes are a classic French gratin of thinly sliced potatoes and softened onions baked slowly in stock until tender, with a golden, crispy top. Unlike dauphinoise, they use stock rather than cream, making them a lighter accompaniment that absorbs all the savoury cooking liquid beautifully.
+Boulangère potatoes are the bakery version of a French gratin, named for the tradition of dropping the dish off at the village boulangerie's still-hot bread oven to slow-cook while the family was at Sunday mass. Thinly sliced potatoes layer with softened onions in a wide shallow dish; stock pours over (not cream, the key difference from dauphinoise), which the potatoes drink as they cook. Slow-baked in a moderate oven for an hour or more, the potatoes go tender and gold at the edges, the onions sweeten into the layers, and the top crisps to deep gold. The result is lighter than dauphinoise but every bit as savoury. Serve with roast lamb or chicken; the stock-soaked layers want a meat with juice.
 
 ## Ingredients
 - 50 grams butter

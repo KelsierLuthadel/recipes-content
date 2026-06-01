@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Prawns are seasoned briefly with turmeric and salt. A balchão masala is built from soaked dried Kashmiri chillies, garlic, ginger, cumin, peppercorns, cloves and cinnamon ground with palm vinegar. Onions are caramelised in oil to deep gold, tomato is added, the masala paste fried until the oil separates, then sugar and a second hit of vinegar make this a pickle rather than a curry. The prawns go in late so they stay juicy. The dish thickens to a jam-like consistency.
+Prawn balchão is the Goan prawn pickle, less a curry and more a fiery jammy preserve that eats by the spoonful with rice and bread. Prawns season briefly with turmeric and salt. A balchão masala builds from soaked dried Kashmiri chillies, garlic, ginger, cumin, peppercorns, cloves and cinnamon ground with palm vinegar. Onions caramelise in oil to deep gold; tomato adds; the masala paste fries until the oil separates; sugar and a second hit of vinegar make this a pickle rather than a curry. The prawns go in late so they stay juicy. The dish thickens to a jam-like consistency that keeps for weeks in a jar. Eat with rice, bread, or by the spoonful from the jar.
 
 ## Ingredients
 

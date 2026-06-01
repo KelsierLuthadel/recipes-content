@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Sweet shortcrust pastry chills for 30 min. Filling: butter + flour make a blonde roux; trinity (onion + celery + green pepper) softens; crawfish tails + cream + tomato paste + Cajun seasoning + green onion finishes. Cool. Roll pastry; cut 10 cm rounds; spoon 1 tbsp filling on half; fold and crimp; brush with egg wash. Bake for 25 minutes at 200°C till deep gold.
+Crawfish pie is the Acadian dish you order at Mardi Gras parties and during crawfish season (late winter to early summer), small folded pastries with a roux-bound crawfish filling that eats with one hand. The sweet shortcrust pastry chills for half an hour for easier rolling. The filling is the Cajun shortcut method: butter and flour build a blonde roux; the trinity (onion, celery, green pepper) softens in the roux; crawfish tails join with cream, tomato paste, Cajun seasoning and chopped green onion. The filling cools fully so it firms enough to spoon. Roll the chilled pastry, cut 10 cm rounds, spoon a tablespoon of filling on half of each round, fold and crimp into a half-moon, brush with egg wash. Twenty-five minutes at 200°C and they come out deep gold and audibly flaky.
 
 ## Ingredients
 

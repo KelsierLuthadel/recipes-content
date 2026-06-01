@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Cleaned mussels go into a hot pot with shallots, garlic, white wine and butter. The lid clamps on; high heat steams everything in 4-5 minutes; the mussels open. A handful of chopped parsley joins; the whole pot lands at the table. Bread on the side.
+Moules marinière is the French mussel dish the Belgians later turned into moules-frites, a fast steam-pot of cleaned mussels in white wine and shallots that takes longer to prepare than to cook. You scrub the mussels, pull the beards, discard any that won't close when tapped (those are dead). A heavy pot heats hot; shallots and garlic soften briefly in butter; white wine pours in. The mussels drop in, the lid clamps shut, and four to five minutes of high heat steams everything open. A handful of chopped parsley joins; the whole pot lands at the table. Eat with hot bread to mop up the wine-mussel broth, with a glass of cold Muscadet or Sancerre.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-This strawberry tart features a crisp sweet shortcrust shell filled with a light blend of crème pâtissière and crème chantilly, topped with fragrant ripe strawberries. Assemble it just before serving so the pastry remains crisp and the fruit stays bright.
+Strawberry tart is the early-summer French pâtisserie staple, a crisp sweet shortcrust shell holding a light blend of crème pâtissière and crème chantilly, topped with fragrant ripe strawberries. The pâte sucrée blind-bakes to a deep gold; the cooled case takes a layer of crème pâtissière lightened with softly whipped cream so it's pipeable. Halved strawberries arrange cut-side-down across the surface in a tight spiral. A brush of warm strawberry glaze (or red currant jelly loosened with water) goes on at service for the shine. Assemble just before serving so the pastry stays crisp and the fruit stays bright.
 
 ## Ingredients
 ### Pastry

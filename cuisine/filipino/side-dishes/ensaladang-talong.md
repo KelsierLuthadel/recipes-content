@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Long Asian aubergines char directly over a gas flame or hot grill until blackened all over and totally soft inside (poke through to test, no resistance). Cool for 10 minutes; peel away the charred skin (it slips off if cooked enough). Tear the flesh into 5 cm strips. Dress with diced tomato, thin-sliced red onion, fish sauce, white-cane vinegar and calamansi juice. Rest for 5 minutes to let the eggplant absorb the dressing. Serve room temperature.
+Ensaladang talong is the Filipino smoky aubergine salad, a Sunday-lunch staple that uses one of the great vegetable techniques: charring the whole aubergine directly over fire until the skin blackens and the flesh inside melts to silk. Long Asian aubergines char directly over a gas flame or hot grill until blackened all over and totally soft inside (poke through to test, no resistance). Cool for ten minutes, then peel away the charred skin (it slips off if the aubergine is properly cooked). Tear the flesh into 5 cm strips. Dress with diced tomato, thin-sliced red onion, fish sauce, white-cane vinegar and calamansi juice. Rest for five minutes so the aubergine absorbs the dressing. Serve room temperature, beside grilled fish or chicken inasal.
 
 ## Ingredients
 

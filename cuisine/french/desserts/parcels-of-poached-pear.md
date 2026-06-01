@@ -21,7 +21,7 @@
 - granulated sugar (to dust)
 
 ## Overview
-Elegant little parcels of crispy puff pastry encasing tender poached pear wrapped in delicate crêpes and perfumed with mint. These impressive individual presentations combine multiple sophisticated elements and layers of flavor, making them perfect for elegant dinner parties or French restaurant-style service.
+This is the elegant individual dessert of poached pears wrapped in crêpes and encased in crispy puff pastry parcels, perfumed with mint and served warm. You poach whole pears slowly in a sugar syrup with vanilla and lemon until tender. Each cooled pear wraps in a thin crêpe; the wrapped pear sits in the centre of a square of puff pastry; the pastry folds over the pear and seals into a parcel. Brushed with egg wash for the gloss, baked at high heat until the pastry puffs and turns deep gold. Sliced lengthwise at the table to reveal the layers; a drizzle of mint-infused syrup pools around the plate.
 
 ## Method
 ### To cook the pears

@@ -8,9 +8,11 @@ tags:
   - gluten-free
   - quick
   - dessert
+  - make-ahead
   - cream
   - nuts
-mentions: []
+mentions:
+  - sauces/sauce-sweet/sabayon
 ingredients:
   - qty: 850
     unit: ml

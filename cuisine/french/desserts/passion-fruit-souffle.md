@@ -29,7 +29,7 @@
 - 3 passion fruit (pulp and seeds scooped out)
 
 ## Overview
-An elegant and aromatic soufflé combining tropical passion fruit and kiwi in individual dishes, topped with fresh fruit for a striking presentation. The tart passion fruit and sweet kiwi create a perfectly balanced flavor that rises beautifully and impresses dinner guests with its show-stopping appearance.
+Passion fruit soufflé is the tropical-fruit version of the classical French dessert, individual ramekins of fragrant soufflé that rise dramatically above the rim and arrive at the table with the smell of fresh kiwi and passion fruit. You scrape the pulp from passion fruit (passion fruit and kiwi together for the base mixture), strain out the seeds, and reduce the juice slightly. Yolks whisk with the reduced juice and sugar; stiff egg whites with more sugar fold carefully in to keep the air. The mixture pours into buttered and sugared ramekins to the rim; into a hot oven for ten to twelve minutes until risen, set on top and just barely jiggly in the centre. Serve immediately, the soufflé falls within minutes; a spoon of passion fruit pulp at the table is the optional final flourish.
 
 ## Method
 1. Brush the insides of 10 individual soufflé dishes, about 10 cm in diameter and 6 cm high, with the softened butter.

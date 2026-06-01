@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-This elegant tart marries crisp sweet shortcrust pastry with a glossy dark chocolate ganache studded with fresh raspberries. Chill it before serving to allow the ganache to set, then slice with a warmed knife for neat portions.
+Chocolate raspberry tart is the dinner-party finisher every French restaurant has on its dessert menu, a crisp sweet shortcrust case with a glossy dark chocolate ganache studded with fresh raspberries. The pâte sucrée blind-bakes to a deep gold first. The ganache (chopped dark chocolate poured over with hot cream and stirred to glossy smoothness) pours into the cooled shell. Fresh raspberries press down into the ganache while it's still soft. The whole tart chills for at least two hours to set the ganache firm. Slice with a knife dipped in hot water for clean cuts; serve with thick cream on the side.
 
 ## Ingredients
 ### Pastry

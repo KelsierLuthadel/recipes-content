@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-Trimmed green beans blanch in heavily salted boiling water for 3-4 minutes until just tender (still bright green and slightly crisp). Drained but not refreshed if serving immediately, the residual heat is wanted; if making ahead, refresh in ice water to stop cooking. Butter melts in a wide pan; flaked almonds toast in the butter until both go gold-amber together (the butter browns to beurre noisette / hazelnut butter). The blanched beans toss in the butter-almond pan over high heat for 1 minute; finished with a squeeze of lemon, a grind of pepper, optional Dijon mustard or garlic, and chopped parsley.
+Green beans almondine (haricots verts amandine) is the classic French side dish that turns a humble bowl of green beans into something elegant with the addition of nothing more than butter and almonds. You blanch the trimmed beans in heavily salted boiling water for three to four minutes until they're just-tender and still bright green; drain but don't refresh if serving immediately, you want the residual heat. Butter melts in a wide pan; flaked almonds toast in the butter until both go gold-amber together (the butter browns into beurre noisette, the hazelnut butter that defines the dish). Beans toss in the butter-almond pan over high heat for a minute; a squeeze of lemon, a grind of pepper, optional Dijon mustard or garlic, and chopped parsley finish. Serve immediately, with anything from poached fish to roast turkey.
 
 ## Ingredients
 

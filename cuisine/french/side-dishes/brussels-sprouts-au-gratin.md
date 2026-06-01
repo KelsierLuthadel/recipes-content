@@ -9,7 +9,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-Brussels sprouts au gratin transforms humble sprouts into a rich and crunchy side dish coated in a savoury blend of breadcrumbs, pecorino, garlic, and parsley. Parboiling before baking ensures the sprouts are tender inside while the topping crisps to a golden crust in the oven.
+Brussels sprouts au gratin is the side dish that turns the most maligned vegetable on the British table into something even sprout-sceptics ask for seconds of. You parboil the sprouts briefly so they're tender at the centre but still hold their shape, drain them well, and pack them tight into a buttered dish. A topping of breadcrumbs, finely grated pecorino, chopped garlic, parsley and a generous slick of olive oil scatters across the top. A hot oven crisps the topping to deep gold while the sprouts beneath finish softening. The contrast between the sweet-toasted sprout and the salty crunchy crust is the entire point. Serve with roast chicken or beef.
 
 ## Ingredients
 - 480 grams Brussels sprouts

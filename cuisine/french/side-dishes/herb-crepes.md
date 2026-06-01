@@ -9,7 +9,7 @@
 **Serves:** 6
 
 ## Overview
-Herb crêpes are thin, delicate pancakes enriched with fresh herbs such as parsley, chervil and chives. They are particularly useful in dishes like Beef Wellington, where they are layered between the meat and pastry to act as a moisture barrier and keep the pastry crisp. The rested batter ensures a smooth, even texture with a light, pliable result.
+Herb crêpes are the thin, delicate French pancakes enriched with chopped fresh herbs, made not for breakfast but as a working ingredient in elegant composed dishes. They're particularly useful in Beef Wellington, where they layer between the seared beef and the pastry to act as a moisture barrier and keep the puff pastry from going soggy on its underside. The batter (flour, milk, eggs, butter, salt) whisks together with finely chopped parsley, chervil and chives; an hour's rest gives you a smooth even texture and pliable result. Cook in a hot non-stick pan in the smallest possible slick of butter, swirling the batter thin, flipping when the edges start to lift. Stack flat under cloth; they'll keep a day in the fridge if you're making them ahead.
 
 ## Ingredients
 - 60 grams plain flour

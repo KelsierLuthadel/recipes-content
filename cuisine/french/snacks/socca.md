@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A simple batter of chickpea flour (also called gram flour or besan), water, olive oil and salt is whisked to a smooth thin consistency; rested at least 1 hour (overnight is even better; lets the chickpea flour fully hydrate and removes the raw bitterness). A heavy ovenproof frying pan (cast iron is ideal) is heated to smoking-hot under a high broiler / grill. A generous slick of olive oil goes in. The batter is poured in to a 5-mm depth. Under the broiler 8-12 minutes until the surface is golden, the edges are crisp-charred, and the centre is just set with some bubbling. Slid out, sliced rough, scattered with pepper and salt, eaten hot with the fingers.
+Socca is the Niçoise chickpea pancake, sold from copper pans at street corners across the old town of Nice, a thick crepe-like flatbread that's crisp at the edges and creamy in the centre. The batter is humble: chickpea flour (gram flour, besan), water, olive oil and salt whisked smooth and rested at least an hour (overnight is even better, gives the chickpea flour time to hydrate fully and lose its raw bitterness). A heavy ovenproof pan (cast iron is ideal) heats to smoking-hot under a high grill; a generous slick of olive oil goes in; the batter pours to 5 mm depth. Eight to twelve minutes under the broiler turns the surface golden and the edges crisp-charred, with the centre just set and faintly bubbling. Slide out, rough-slice, scatter with salt and black pepper, eat hot with fingers.
 
 ## Ingredients
 

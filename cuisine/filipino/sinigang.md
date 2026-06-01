@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Pork ribs simmer with onion, tomato and tamarind to build broth and tartness. Vegetables go in by cooking time: hardy ones early (taro, daikon), tender ones late (beans, water spinach). Fish sauce seasons; chilli gives optional heat. Served with rice.
+Sinigang is the Filipino sour soup, a brothy stew built on the puckering acidity of tamarind that defines comfort food across the archipelago. Pork ribs simmer with onion, tomato and tamarind for the broth, the sourness building gradually as the tamarind dissolves. Vegetables go in by their cooking time: hardy ones (taro, daikon) early so they soften, tender ones (long beans, water spinach) right at the end so they keep their bite. Fish sauce seasons the broth; chillies give optional heat. The result should taste bright, sour, slightly salty and warming all at once. Serve with steamed rice; pour the broth over the rice in your bowl as you go.
 
 ## Ingredients
 

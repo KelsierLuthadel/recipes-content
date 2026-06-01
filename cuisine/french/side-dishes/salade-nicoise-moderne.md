@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A classic Provençal salad featuring seared tuna, hard-boiled eggs, and crispy serrano anchovies over fresh greens with potatoes and green beans. The herb-infused tarragon dressing ties all the vibrant components together.
+This is the modern bistro version of salade niçoise, the Provençal salad reworked with seared fresh tuna instead of tinned, anchovies crisped to a fragile chip, and a herb-laced tarragon vinaigrette. You sear tuna fillet hard in a smoking pan so the outside takes colour but the centre stays pink-red. Anchovies fry briefly in oil so they go crisp at the edges, almost like fish chips. Hard-boiled eggs, blanched green beans, halved new potatoes and good ripe tomatoes round out the platter. The tarragon dressing pours over everything; herbs scatter on top. Eat as a starter for a summer dinner or as a light lunch on a hot day.
 
 ## Ingredients
 ### Vegetables

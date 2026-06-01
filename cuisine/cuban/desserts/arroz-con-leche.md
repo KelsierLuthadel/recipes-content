@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Short-grain rice (paella-style or pudding rice) cooks slow in a mix of water then whole milk, infused with cinnamon stick and lemon zest. Once the rice is tender, sweetened condensed milk goes in for richness and sweetness, along with vanilla and a pinch of salt. Cooked a little longer until creamy and just-thick (it firms further as it cools). Optional finish with butter or egg yolk; dusted with cinnamon to serve.
+Arroz con leche is the Cuban rice pudding that turns up at every family dinner, the dessert that lets the cinnamon stick and lemon peel do most of the perfuming work while the rice slowly drinks its weight in milk. Short-grain rice (paella-style or pudding rice) cooks slowly first in a mix of water and whole milk, infused with a cinnamon stick and a strip of lemon zest. Once the rice has softened and the liquid is mostly absorbed, sweetened condensed milk goes in for the proper Cuban creaminess, along with vanilla and a pinch of salt. You keep stirring as it cooks a little longer, until it's just-thick (it firms further as it cools). An optional final knob of butter or stir of egg yolk pushes the richness; a dusting of cinnamon goes on at the table. Serve warm or chilled, in shallow bowls.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Normandy Chicken showcases the bounty of France's northern apple region, combining succulent chicken legs braised in dry cider with caramelized apples, creamy crème fraîche, and aromatic tarragon. The sauce is silky-smooth without being heavy, balanced between the slight tartness of cider and the sweetness of apples, finished with a hint of Dijon mustard that adds complexity without overpowering.
+Normandy chicken brings together the bounty of France's northern apple region in a single pan: chicken legs braised in dry cider, caramelised apples, crème fraîche and the slight bitterness of fresh tarragon. You sear the chicken legs hard so the skin crisps and the meat picks up colour, then braise in cider with sliced apples that soften into the sauce. The cider reduces; crème fraîche stirs in for the silk; fresh tarragon and a spoon of Dijon mustard finish the sauce with brightness. The balance is the trick: cider's slight tartness against the sweetness of apples, the cream against the mustard. Serve with mashed potato and the rest of the cider in the bottle.
 
 ## Ingredients
 

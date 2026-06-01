@@ -22,7 +22,7 @@
 - 50 grams granulated sugar to sprinkle
 
 ## Overview
-French toast at its most elegant: thick-cut slices of rich brioche dotted with sultanas, soaked in a custard-like mixture of egg and milk, then pan-fried until golden and served with a crispy sugar crust. This luxurious interpretation of humble bread transforms it into a sophisticated dessert or brunch dish that tastes decadent without being overly heavy.
+Pain perdu is French toast at its most elegant, the dessert that turns yesterday's stale brioche into something silky and luxurious, soaked in custard and pan-fried golden. You use rich brioche cut thick, dotted optionally with sultanas (the traditional addition). A custard of egg, milk, sugar, vanilla and a splash of rum whisks together; each slice soaks for thirty seconds per side, just enough to drink the custard without falling apart. Butter melts in a heavy pan over medium heat; the soaked slices pan-fry to deep gold on both sides, three minutes a side, the surface caramelising slightly. Dust with caster sugar while still hot; serve with cream, ice cream or fruit compote.
 
 ## Method
 1. Knead the sultanas into the brioche dough, then shape into a roll 3 cm in diameter, on a lightly floured surface and place on a baking tray.

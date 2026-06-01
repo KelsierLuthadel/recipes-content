@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Pecan halves toast in a dry pan till fragrant. Brown sugar, caster sugar, double cream, butter and a pinch of salt simmer together in a heavy saucepan, fitted with a candy thermometer, until they reach 116°C (soft-ball stage). Off heat; vanilla and pecans stir in. The mixture is beaten with a wooden spoon for 30-60 seconds till it begins to thicken and lose its gloss (this is the crystallisation point). Drops by tablespoons onto parchment immediately. Sets in 15 minutes.
+Pralines are the Louisiana confection sold at every counter on Bourbon Street, soft sugary discs studded with toasted pecans that crack in two with a satisfying snap. You toast pecan halves in a dry pan first until they're fragrant and the skins begin to lift. Brown sugar, caster sugar, double cream, butter and a pinch of salt simmer in a heavy saucepan with a candy thermometer until they reach 116°C, the soft-ball stage. Off the heat, vanilla and the toasted pecans stir in. You beat the mixture with a wooden spoon for thirty to sixty seconds until it starts to thicken and lose its gloss, this is the crystallisation point and waiting too long means the pralines set in the pot. Drop by tablespoons onto parchment and they set in fifteen minutes.
 
 ## Ingredients
 - 200 g pecan halves

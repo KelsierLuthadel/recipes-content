@@ -9,7 +9,8 @@ tags:
   - dessert
   - eggs
   - butter
-mentions: []
+mentions:
+  - cuisine/french/desserts/clafoutis
 ingredients:
   - qty: 240
     unit: g

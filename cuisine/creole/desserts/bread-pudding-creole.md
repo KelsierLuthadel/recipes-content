@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Stale French bread (a day-old baguette is perfect) tears into 3 cm chunks. Custard: whole milk, eggs, sugar, vanilla, cinnamon, nutmeg, lemon zest. Raisins steep in 4 tablespoons bourbon for plump. Bread soaks in custard 30 minutes; raisins fold in. Tips into a buttered 25 × 18 cm dish; dots with butter. Bakes for 45-50 minutes at 175°C till the top is bronzed and the centre is set but still custardy. Whiskey sauce: butter melts with sugar; cream and bourbon stir in; warmed but not boiled. Pours over the pudding at the table.
+New Orleans bread pudding is the dessert built for a city that refuses to throw out yesterday's baguette, a custard-soaked, bourbon-laced slab that tastes better than anything that started life as stale bread has any right to. You tear day-old French bread into 3 cm chunks. A custard of whole milk, eggs, sugar, vanilla, cinnamon, nutmeg and lemon zest whisks together; raisins plump in four tablespoons of bourbon for the proper Louisiana whiff. The bread soaks in the custard for half an hour so it drinks evenly, the raisins fold in, and the lot tips into a buttered dish with extra butter dotted on top. Forty-five minutes at 175°C gives you a bronzed top and a centre that still trembles softly. The whiskey sauce, butter, sugar, cream and more bourbon warmed gently, pours over each serving at the table.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A wet dough is made from fresh grated coconut, sugar and water cooked together into a thick paste, then enriched with butter, semolina and egg yolks. The dough rests for several hours so the semolina can hydrate and the dough firms up. Small balls are shaped, pressed gently and baked low and slow until the bottoms turn golden and the tops set into pale-gold domes.
+Bolinhas de coco are the Goan coconut cookies the Portuguese brought along the spice route and Goan kitchens turned into a Christmas-tin staple. A wet dough cooks down from fresh grated coconut, sugar and water into a thick paste, then enriches with butter, semolina and egg yolks. The dough rests for several hours so the semolina has time to hydrate and the dough firms up enough to shape. You roll small balls between your palms and press them gently so they sit flat-bottomed on the tray. Bake low and slow until the bottoms turn gold and the tops set into pale-gold domes. Cool fully; the cookies firm as they cool. Keep in a tin with a slice of bread to maintain the softness.
 
 ## Ingredients
 - 200 g fresh grated coconut (or 160 g desiccated, rehydrated in 80 ml of warm water for 15 minutes and squeezed lightly)

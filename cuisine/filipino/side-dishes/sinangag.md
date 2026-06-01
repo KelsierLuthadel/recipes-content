@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Day-old jasmine rice goes into the fridge to dry the grains overnight. Garlic slices fine, fries slowly in oil until crisp gold, lifted out and reserved. Cold rice goes into the same garlic oil, stir-fries for 4 minutes breaking up the clumps. Garlic returns; salt and pepper season. Topped with the second handful of crispy garlic at service.
+Sinangag is the Filipino garlic fried rice that anchors every Filipino breakfast, the foundational rice dish that turns yesterday's plain steamed rice into something with a deep toasted flavour and a generous crunch from crisped garlic chips. Day-old jasmine rice goes into the fridge overnight to dry out the grains so they fry separate instead of clumping. Garlic slices fine and fries slowly in oil until it goes crisp gold (the trick: low heat, plenty of time, and you lift the garlic out before it burns). Cold rice goes into the same garlic-flavoured oil and stir-fries for four minutes, breaking up the clumps with a spatula. Garlic returns at the end; salt and pepper season to taste. Top each plate with a second handful of crispy garlic for textural punch. Serve with a fried egg and a piece of cured longganisa or tocino on the side.
 
 ## Ingredients
 - 600 g cooked jasmine rice (day-old, refrigerated overnight, broken up with a fork)

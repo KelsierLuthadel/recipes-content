@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-A simple flour-egg-oil dough kneads until silky, rests so the gluten relaxes, then stretches over a floured cloth until you can read newsprint through it. A filling of grated and sliced tart apples, sugar, cinnamon, raisins, lemon zest and butter-toasted breadcrumbs spreads across the dough. The cloth helps roll the whole thing into a long log. Bakes brushed with butter until shatteringly crisp.
+Apfelstrudel is the Viennese-Bavarian pastry every German-speaking grandmother makes for Sunday afternoon coffee, paper-thin pastry rolled around a buttery apple-cinnamon-raisin filling and baked until the surface goes shatteringly crisp. The dough is the trick: a simple flour-egg-oil mix knead until silky, rest covered so the gluten relaxes, then stretch it over a floured cloth until you can read newsprint through it (the proper Austrian test). A filling of grated and sliced tart apples (a mix of soft and firm), sugar, cinnamon, raisins, lemon zest and butter-toasted breadcrumbs (which absorb the apple juices and stop the pastry going soggy) spreads across the stretched dough. The cloth lifts and helps roll the whole thing into a long log. Brush with melted butter, bake at 180°C for forty minutes until deep gold and crackly. Eat warm with a jug of vanilla sauce and a strong coffee.
 
 ## Ingredients
 

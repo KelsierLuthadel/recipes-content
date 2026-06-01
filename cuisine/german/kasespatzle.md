@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Make spätzle as the base. Caramelise onions slowly in butter. Layer the spätzle with grated cheese (and a splash of cream) in a baking dish, top with the onions, and bake until bubbling. Serve with a green salad to cut through the richness.
+Käsespätzle is the Bavarian-Swabian answer to mac and cheese, fresh egg spätzle layered with grated cheese and caramelised onions and baked until bubbling. You start by making the spätzle from a loose egg-rich batter pressed through a spätzle press, colander or grater into boiling salted water; they cook in seconds and lift out tender. Caramelise onions slowly in butter until they're deep brown and sweet, which takes the patience the dish deserves. Layer the spätzle with grated Emmental (and a splash of cream) in a baking dish, top with the caramelised onions, and bake at 200°C until the cheese bubbles and the onions go a touch crispier on top. Serve with a sharp green salad to cut through the richness.
 
 ## Ingredients
 

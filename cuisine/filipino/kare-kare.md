@@ -11,7 +11,7 @@
 **Cook Time:** 3 ½ hours
 
 ## Overview
-Oxtail simmers slow with aromatics until the meat is falling-tender. The cooking liquid thickens with toasted ground rice and peanut butter, gets coloured with annatto, and becomes a deep golden sauce. Vegetables join briefly at the end so they keep their texture. Bagoong on the side is non-negotiable.
+Kare-kare is the Filipino feast-day stew of slow-simmered oxtail in a thick golden peanut sauce, the dish that lands at every important family gathering with a side of pungent bagoong (fermented shrimp paste) to be added at the table. Oxtail simmers slowly with aromatics for three hours until the meat is falling-tender and the bones release their gelatine into the broth. The cooking liquid thickens with toasted ground rice and creamy peanut butter, picking up its signature deep golden colour from annatto oil. The vegetables (long beans, aubergine, banana flower if you can find it, bok choy) join at the very end so they keep their texture. The bagoong on the side is non-negotiable: a teaspoon stirred into each spoonful is what defines a proper kare-kare dinner. Serve with steamed rice.
 
 ## Ingredients
 

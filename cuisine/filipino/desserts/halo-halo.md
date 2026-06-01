@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes (assembly only; components have their own prep)
 
 ## Overview
-Halo-halo is an assembly, not a cooking project. Each tall glass gets a spoonful of 6-8 different sweetened components: red mung beans, white beans, kaong (sugar palm), nata de coco, sweet jackfruit, sweetened bananas, sago pearls, leche flan. Shaved ice piles on top of the layered components. Evaporated milk pours over. Topped with a scoop of ube ice cream and a small piece of leche flan. Sprinkled with toasted pinipig (pounded young rice) or crushed cornflakes.
+Halo-halo is the Philippines' answer to a long hot summer afternoon, a tall glass of shaved ice over six or eight sweet components and evaporated milk on top, the whole thing meant to be stirred together before eating (halo-halo literally means "mix-mix"). It's an assembly rather than a cooking project: each tall glass takes a spoonful each of red mung beans, white beans, kaong (sugar palm fruit), nata de coco, sweet jackfruit, sweetened bananas, sago pearls and a chunk of leche flan. Shaved ice piles dramatically on top so the glass towers above the rim. Evaporated milk pours over so it works its way down through the ice into the syrupy fruit. A scoop of ube ice cream and another small piece of leche flan crown the top; toasted pinipig (pounded young rice) or crushed cornflakes scatter over for the crunch. Stir vigorously before eating.
 
 ## Ingredients (per serving)
 

@@ -22,7 +22,7 @@
 - 100 ml [Syrup for Sorbet (Sirop à Sorbet)](../../../base-ingredients/syrup/sirop-a-sorbet.md)
 
 ## Overview
-A glamorous chilled parfait infused with the sophisticated anise flavor of Ricard or Pernod, served in a frozen ring and garnished with fresh berries and colorful fruit coulis. This frozen confection offers the lightness of whipped cream with the richness of egg custard, making it an elegant choice for formal dinners without requiring last-minute oven work.
+This is the elegant frozen parfait flavoured with anise liqueur (Ricard or Pernod), shaped in a ring mould and served with fresh berries and a bright fruit coulis. The base is a sabayon-and-cream parfait: egg yolks whisked over heat with sugar to a thick pale foam, then folded with whipped double cream and a generous splash of pastis. The frozen parfait gives you the lightness of a mousse with the make-ahead convenience of an ice cream, no last-minute oven work required. Pour into a ring mould and freeze overnight. To serve, briefly dip the mould in warm water and invert onto a chilled plate; arrange berries in the centre and pour the coulis around the base.
 
 ## Method
 1. Heat the sirop a sorbet in a pan until it bubbles, and immediately remove from the heat.

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Aubergines are charred whole over flame until completely soft and the skin blackened. The skin peels away; the flesh stays intact on the stem. Eggs are beaten with a little salt; the aubergine is dipped flat into the eggs and slid into a hot pan; more egg is poured around it and the lot fries until set.
+Tortang talong is the Filipino aubergine omelette, the dish that turns a charred whole aubergine into the centre of a glossy egg pancake, a brilliant solution to the question of how to make eggs and vegetables eat like a main course. Aubergines char whole over flame until completely soft inside and the skin is blackened. The skin peels away while keeping the stem attached, then you press the flesh flat to a fan-like disc. Beaten eggs (seasoned with a little salt) take the dipped aubergine flat, which slides into a hot oiled pan; more egg pours around it to set into a cohesive omelette. Three minutes per side until the egg sets and the surface picks up colour. Serve hot, with rice and a small dish of banana ketchup or sweet chilli sauce on the side.
 
 ## Ingredients
 

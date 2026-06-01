@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Mixed beef-lamb mince combines with grated onion, garlic, cumin, allspice, parsley, breadcrumbs and an egg into walnut-sized meatballs. Pan-brown briefly. A tomato sauce cooks: onion, garlic, tomato, cumin, stock. Layer in a baking dish: rice on the bottom, meatballs on top, sauce over the lot, hot stock to cover. Bake covered 35 minutes; uncover 10 minutes more.
+Kofta bil roz is the Egyptian one-dish dinner that builds the whole meal in a single baking dish, meatballs sitting on top of rice with tomato sauce pouring down through the lot. Mixed beef-lamb mince combines with grated onion, garlic, cumin, allspice, parsley, breadcrumbs and an egg, shaped into walnut-sized balls. You pan-brown them briefly for colour before they head to the oven. A tomato sauce of onion, garlic, tomato, cumin and stock cooks separately. The layering: rice on the bottom of a deep baking dish, meatballs nested on top, sauce poured over the lot, hot stock added to cover. Bake covered for thirty-five minutes; uncover for ten more to crisp the tops. Spoon up portions vertically so each plate gets rice, meatballs and sauce in equal measure.
 
 ## Ingredients
 

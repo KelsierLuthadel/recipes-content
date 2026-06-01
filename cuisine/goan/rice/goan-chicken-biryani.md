@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Chicken thighs are marinated overnight in a yogurt-and-vinegar paste with a freshly-ground Goan masala (Kashmiri chillies, peppercorns, cinnamon, cloves, coriander, cumin and fennel) plus a touch of toasted coconut and ginger-garlic paste. Basmati is parboiled in salted water with whole spices. Fried onions are crisped and reserved. The biryani is built in layers: marinated chicken, rice, fried onions, saffron milk, mint, coriander, repeated; sealed under a tight lid and cooked under dum for 45 minutes. Distinctively Goan: palm vinegar in the marinade and a small splash of coconut milk in the layering.
+Goan chicken biryani is the Goan twist on the great Mughal layered rice, the dish that runs vinegar and coconut milk through the marinade so the result tastes distinctly Konkan rather than northern Indian. Chicken thighs marinate overnight in a yogurt-and-vinegar paste with a freshly ground Goan masala (Kashmiri chillies, peppercorns, cinnamon, cloves, coriander, cumin and fennel) plus toasted coconut and ginger-garlic paste. Basmati par-boils in salted water with whole spices. Fried onions crisp deep gold and rest separately. The biryani builds in layers: marinated chicken at the bottom, rice on top, fried onions, saffron milk, mint, coriander, repeated; sealed under a tight lid and cooked dum-style for forty-five minutes. The vinegar and coconut milk are the markers that say Goan rather than Hyderabad.
 
 ## Ingredients
 

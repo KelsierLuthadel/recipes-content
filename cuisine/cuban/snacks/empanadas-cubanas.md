@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (including the filling)
 
 ## Overview
-A simple yellow dough (flour, lard or butter, water, salt, annatto or paprika for colour) rests cold while a picadillo-style ground beef filling cooks: sofrito, beef, tomato, olives, raisins, capers, cumin. Filling and dough chill separately. Rounds get filled, sealed with a crimped edge, and deep-fried until golden, blistered and hollow-sounding. Hot is best.
+Cuban empanadas are the deep-fried street-snack of every Havana corner stall, a sunny yellow shell hiding a picadillo filling that's sweet, savoury and salty all at once. The dough is simple: flour, lard or butter, water, salt and a pinch of annatto or paprika for the colour. The picadillo-style ground beef filling is the soul: sofrito, beef mince, tomato, olives, raisins, capers, cumin, all cooked down until thick and fragrant. Filling and dough chill separately so they're easy to handle. Rounds of dough fill, fold and seal with a crimped edge; deep-fried until golden, blistered and hollow-sounding when tapped. Eat hot, ideally standing up, with a beer.
 
 ## Ingredients
 

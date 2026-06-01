@@ -26,7 +26,7 @@
 - icing sugar (to dust)
 
 ## Overview
-A rich and airy chocolate soufflé that rises dramatically in the oven, creating a show-stopping dessert with a molten chocolate center. This classic French preparation requires precision timing and technique, but rewards you with an elegant and impressive dessert that looks far more complicated than it actually is.
+Chocolate soufflé is the French dinner-party trick that looks impossible but isn't, a rich and airy chocolate cake that rises dramatically in the oven and arrives at the table while it's still puffed above the rim of the ramekin. You make the base: melted dark chocolate and butter whisked with egg yolks and a touch of flour. Stiff egg whites with sugar fold in carefully; the air in the whites is what makes the soufflé rise. The mixture pours into buttered and sugared ramekins; into a hot oven for twelve minutes; serve the moment they come out. The centre stays molten if you eat fast. Eat with a spoon, breaking through the crust into the soft centre, the smell of warm chocolate filling the kitchen.
 
 ## Method
 1. Preheat the oven to 220°C.

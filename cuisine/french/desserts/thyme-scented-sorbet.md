@@ -18,7 +18,7 @@
 - pinch of white pepper
 
 ## Overview
-An exceptionally delicate and refreshing sorbet made with tangy fromage frais and fragrant thyme, lighter than traditional fruit sorbets while still providing elegant sophistication. This charming dessert showcases the subtle interplay of herbs and dairy, offering a unique and palate-cleansing finish to dinner.
+Thyme-scented sorbet is the unexpectedly elegant palate cleanser that pairs tangy fromage frais with the herbal lift of fresh thyme, lighter than fruit sorbet but no less refreshing. You warm milk gently and infuse with thyme sprigs for twenty minutes off the heat, then strain. Sugar dissolves into the warm infused milk; the cooled mixture whisks with fromage frais and lemon juice for tang. Churn in an ice cream maker until soft-set; freeze for two hours to firm. Scoop into chilled glasses with a small sprig of fresh thyme for garnish. Serves at the end of a rich meal as a true palate cleanser, or as a light dessert in its own right.
 
 ## Method
 1. Bring the sirop a sorbet to the boil in a saucepan with the thyme sprigs added, then take off the heat and leave to infuse for 2 - 3 minutes.

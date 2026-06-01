@@ -11,7 +11,7 @@
 **Serves:**  4
 
 ## Overview
-Roasted vegetable stacks are a vibrant and impressive side dish built from layers of oven-roasted peppers, onions, artichokes, asparagus, and tomatoes. The vegetables are stacked on garlic-rubbed griddled bread and finished with a garlic vinaigrette, making them as striking to look at as they are satisfying to eat.
+Roasted vegetable stacks are the French composed-plate side that turns a tray of roasted summer vegetables into a small architectural triumph. You roast peppers, onions, artichoke hearts, asparagus and tomatoes separately in olive oil so each picks up colour without steaming the others, then build them into stacked towers on top of garlic-rubbed griddled bread. A garlic vinaigrette spoons over the top so the stack stays glossy and the bread soaks up the dressing. The stacks are as striking on the plate as they are good to eat, and they go beautifully with grilled fish or a piece of roast chicken. Serve at room temperature for the best flavour.
 
 ## Ingredients
 - 3 red peppers (quartered, cored and pith removed)

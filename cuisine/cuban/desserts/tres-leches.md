@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (plus 6 hours soaking)
 
 ## Overview
-A simple egg sponge bakes in a deep tin (no butter, no oil; the cake stays light so it can drink). While still warm, it's pricked all over and a mixture of three milks is poured over the top: evaporated, sweetened condensed and double cream. The cake absorbs the milk over several hours of refrigeration. Just before serving, topped with softly whipped cream and a dusting of cinnamon.
+Tres leches is the Latin American sponge cake that drinks the three milks of its name and somehow doesn't collapse, a dessert that bridges the cake-mood and the pudding-mood in a single fork. A simple egg sponge bakes in a deep tin with no butter or oil so the cake stays light enough to drink its weight in liquid. While still warm, you prick the surface all over with a skewer and pour the three milks (evaporated, sweetened condensed, double cream) slowly over the top. The cake takes several hours in the fridge to absorb it all evenly; impatient cooks who serve it too soon get a wet base and a dry top. Top each slice with softly whipped cream and a dust of cinnamon at the table.
 
 ## Ingredients
 

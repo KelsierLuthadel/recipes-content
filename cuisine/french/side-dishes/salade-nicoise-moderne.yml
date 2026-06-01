@@ -18,7 +18,8 @@ tags:
   - potato
   - butter
   - complex
-mentions: []
+mentions:
+  - cuisine/french/side-dishes/salade-nicoise
 ingredients:
   - qty: 100
     unit: g

@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A genoise-style chocolate sponge bakes in three thin layers (or one thick layer split into three). Each layer brushes liberally with kirsch syrup. A morello cherry compote spreads between layers along with vanilla-scented whipped cream. The whole cake masks in cream, then dresses with dark chocolate curls and whole drained cherries. Needs to chill at least 2 hours so the layers set.
+Schwarzwälder Kirschtorte (Black Forest cake) is the iconic German chocolate-and-cherry layer cake from the Black Forest region of Baden-Württemberg, named for the cherry liqueur (Kirschwasser) that perfumes every layer. A genoise-style chocolate sponge bakes in three thin layers (or one thick layer split into three with a long knife). Each layer brushes liberally with kirsch syrup so the cake drinks the cherry brandy through and through. A morello cherry compote spreads between layers along with mounds of vanilla-scented whipped cream. The whole cake masks in cream, then dresses with dark chocolate curls and whole drained cherries on top. Chill for at least two hours so the layers set firm. Slice into thick wedges; the spiral of dark sponge, white cream and ruby cherries is the showpiece.
 
 ## Ingredients
 

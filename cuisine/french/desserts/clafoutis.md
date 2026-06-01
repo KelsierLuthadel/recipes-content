@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-A round baking dish (or shallow gratin dish, or 9-inch pie plate) butters and dusts with sugar. Ripe cherries (washed; traditionally stones in, see Notes) scatter in a single layer. A simple batter of eggs, sugar, salt, vanilla, plain flour, whole milk, double cream and a touch of melted butter whisks together (or blender'd) to a smooth thin consistency. Poured over the cherries; sprinkled with a little extra sugar. Baked at 180°C for 35-40 minutes until risen, golden, slightly cracked on the surface, just-set in the centre. Dusted with icing sugar; served warm with a glug of cream.
+Clafoutis is the rustic French cherry dessert from the Limousin region, a soft custardy batter baked with whole cherries until just-set and dusted with icing sugar at the table. A round baking dish butters and dusts with sugar (this is the proper old country preparation, no pastry, no fuss). Ripe cherries scatter in a single layer (stones in, traditionally; the stones perfume the batter as it cooks). A simple batter of eggs, sugar, salt, vanilla, plain flour, whole milk, double cream and a touch of melted butter whisks (or blender'd) to a smooth thin consistency. Pours over the cherries; a final sprinkle of sugar. Baked at 180°C for thirty-five to forty minutes until risen, golden, slightly cracked on the surface, just-set in the centre. Dust with icing sugar; serve warm with a glug of cream.
 
 ## Ingredients
 

@@ -23,7 +23,7 @@
 - [Chocolate Sauce](../../../sauces/sauce-sweet/chocolate-sauce.md) (to serve)
 
 ## Overview
-Delicate crèpes folded around a light banana soufflé mixture and baked until the soufflé rises impressively above the edges, creating a dramatic and sophisticated dessert. The combination of creamy banana flavor with the ethereal soufflé texture delivers luxury in every bite, finished with warm chocolate sauce.
+This is a banana soufflé baked inside a folded crêpe, an elegant restaurant-style dessert where the soufflé rises dramatically above the crêpe edges and arrives at the table with a wisp of escaping steam. You make the soufflé base in advance: ripe banana mashed smooth with rum and lemon juice, folded with stiff Italian meringue. Each crêpe folds in half, the soufflé batter spoons into the open side, and the whole thing goes into a hot oven for ten minutes. The soufflé rises, the crêpe edges crisp, the kitchen smells of caramelised banana. Serve immediately with warm chocolate sauce poured over at the table.
 
 ## Method
 1. Preheat the oven to 190°C.

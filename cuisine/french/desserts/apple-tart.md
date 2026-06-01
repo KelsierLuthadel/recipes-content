@@ -11,7 +11,7 @@
 **Cook Time:** 55 minutes
 
 ## Overview
-This apple tart features a buttery sweet shortcrust pastry filled with a vanilla-scented apple compote and topped with delicately arranged baked apple slices. It is best served barely cool with a spoonful of cream or crème fraîche to complement the caramelised fruit.
+The classic French apple tart is the dessert every Paris pâtisserie has in the window, a buttery sweet shortcrust pastry shell filled with a vanilla-scented apple compote and topped with a careful fan of thin baked apple slices. You roll out the pâte sucrée and blind-bake the case until the base sets dry and golden. A vanilla-apple compote cooks down slowly in butter until it thickens to a spoonable paste. The compote spreads in the case; thin apple slices fan across the top like overlapping shingles. A short final bake at moderate heat softens the slices and caramelises their edges. Serve barely cool with a spoonful of crème fraîche or thick cream.
 
 ## Ingredients
 ### Pastry

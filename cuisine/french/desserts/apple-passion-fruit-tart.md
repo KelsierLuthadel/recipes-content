@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-These tartlets combine flaky puff pastry with a creamy crème pâtissière and delicate apple slices, finished with fresh passion fruit pulp. They are best served warm so the fruit and custard remain tender and fragrant.
+These small tartlets pair the buttery flake of puff pastry with creamy crème pâtissière and the bright pulpy edge of fresh passion fruit on top. You roll puff pastry into individual rounds and bake them dry until they're crisp and lifted. While still warm, the pastry takes a generous spoonful of vanilla crème pâtissière in the centre, then a careful fan of thin apple slices. A few seconds under a hot grill caramelises the apple edges; passion fruit pulp spoons over each tartlet just before serving so the seeds stay glossy. Eat warm so the fruit and custard stay tender.
 
 ## Ingredients
 ### Pastry

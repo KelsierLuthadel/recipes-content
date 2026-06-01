@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Firm green tomatoes slice 8 mm thick. Salt 10 minutes to draw water. Dredge: seasoned flour → beaten egg + buttermilk → seasoned cornmeal + breadcrumbs (this triple-dredge gives the crispiest coat). Shallow-fry in oil at 180°C until deep gold. Drain; salt; serve with rémoulade.
+Fried green tomatoes are the South's answer to using up the last of the summer tomato patch before frost, firm unripe slices with a triple-dredge crust that crackles open under the knife. Cut the green tomatoes 8 mm thick, then salt them for ten minutes to draw out the watery surface (the seasoning happens during the rest, not on the plate). The triple dredge is the trick: seasoned flour first to dry the surface, then beaten egg mixed with a splash of buttermilk for adhesion, then seasoned cornmeal mixed with breadcrumbs for the crispiest coat. Shallow-fry in oil at 180°C until each slice is deep gold; drain on kitchen paper and salt while hot. Serve with rémoulade for dipping, on a hot Southern lunch plate.
 
 ## Ingredients
 

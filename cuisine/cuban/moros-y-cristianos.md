@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Black beans simmer with bay and oregano until tender. Sofrito (onion, pepper, garlic, cumin) cooks in olive oil; the cooked beans plus their liquid join in; rice is stirred through and steamed in the bean broth until tender and tinted.
+Moros y cristianos, "Moors and Christians", is the Cuban black beans and rice dish whose name nods at the old Iberian conflict in the way the dark beans and white rice are cooked together in the same pot. Black beans simmer first with bay and oregano until they're tender enough to hold shape but soft enough to bite through. A sofrito of onion, pepper, garlic and cumin builds in olive oil; the cooked beans plus their flavourful black liquid join in; rice stirs through and steams in the bean broth until tender and tinted the colour of espresso. The rice should be loose-grained, the colour even, the beans visible but not crushed. Serve as a bowl of its own or as the base for fried plantains, roast pork or a Cuban steak.
 
 ## Ingredients
 

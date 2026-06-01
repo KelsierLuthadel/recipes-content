@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Tomato, cucumber, onion and green pepper dice fine. Tossed with lemon, olive oil, salt, ground cumin and parsley. A pinch of dried mint or fresh coriander finishes. Made fresh; eaten within an hour.
+Salata baladi is the everyday Egyptian salad, fine-diced tomato, cucumber, onion and green pepper tossed with lemon, olive oil, salt and ground cumin. The cumin is the Egyptian signature, the warm note that pulls the salad away from any Mediterranean cousin and into Cairo. Dice everything small, the size of a chickpea, so a single spoon picks up all four vegetables in one bite. Dress just before serving with the lemon, oil, salt and cumin; finish with a pinch of dried mint or chopped coriander. Eat fresh, within an hour of making; the vegetables weep and the salad loses its crunch otherwise.
 
 ## Ingredients
 

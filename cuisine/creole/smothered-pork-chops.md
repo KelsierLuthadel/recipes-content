@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Pork chops dust with seasoned flour. Sear hard; lift out. A blonde roux builds from the seasoned drippings and 3 tablespoons flour; onion cooks down deep; stock, Worcestershire and thyme join into a thick gravy. The chops return to braise covered 45 minutes on the lowest heat until fork-tender. Served over rice.
+Smothered pork chops is the Creole dinner that hides in plain sight, a method as much as a recipe, where any tough cut of meat goes in to brown and emerges an hour later under a blanket of dark onion gravy. The chops dust in seasoned flour and sear hard in a heavy pan so the surface picks up colour. They lift out; a blonde roux builds from the seasoned drippings and three tablespoons of flour; onion cooks down deep in the roux until soft and almost caramel-coloured. Stock, Worcestershire and thyme join into a thick gravy; the chops return to braise covered on the lowest heat for forty-five minutes until they're fork-tender. Serve over plain rice with the gravy ladled over the top.
 
 ## Ingredients
 

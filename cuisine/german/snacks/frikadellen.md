@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A bread roll soaks in milk, squeezes out and mixes with minced pork and beef, finely chopped onion sweated soft, an egg, mustard, marjoram and plenty of pepper. Shaped into flat patties (frikadellen are flat, not round like meatballs) and pan-fried in butter. The bread keeps them tender; the flat shape gives more crust.
+Frikadellen are the German meatballs that aren't really meatballs, more like flat patties, the snack-bar staple sold in every German train station and street stall. A soft bread roll soaks in milk for ten minutes, squeezes out and crumbles into a bowl with minced pork and beef, finely chopped onion sweated soft in butter, an egg, mustard, marjoram and plenty of black pepper. Shape into flat oval patties (frikadellen are deliberately flat, not round like Italian polpette); the flat shape gives more surface area to crisp. Pan-fry in butter over medium heat for four minutes a side until deep brown and the centre is just cooked through. Eat hot with mustard and a beer, or cold from a paper bag the next day.
 
 ## Ingredients
 

@@ -21,7 +21,7 @@
 - 400 ml Sauce caramel
 
 ## Overview
-An elegant and simple dessert of whole ripe pears poached in a delicate sugar syrup infused with cinnamon, then stuffed with a fragrant compote of figs and dates, and served in caramel sauce. The combination of tender fruit, complementary flavors, and beautiful presentation makes this a timeless classic suitable for formal dinner parties.
+Poached pears are the elegant simplicity dessert that proves French cooking can be both refined and humble, whole ripe pears poached in a delicate sugar-and-cinnamon syrup, stuffed with a sweet compote of figs and dates, and served with caramel sauce. You poach the peeled whole pears slowly in the syrup, turning them so they cook evenly and pick up the spice; cool in their syrup so the colour deepens. The fig-and-date compote cooks down separately until thick and fragrant. The cooled pears hollow at the bottom with a teaspoon; the compote stuffs into the cavity. Plate upright, caramel sauce pours around the base. Serve with whipped cream or vanilla ice cream.
 
 ## Method
 1. Using a small, very sharp knife, mark a decorative scalloped shaped collar in the skin around the top of each pear, then peel away the skin from the collar to the base of the pear. 

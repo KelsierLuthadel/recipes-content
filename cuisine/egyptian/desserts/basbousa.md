@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-A simple batter of semolina, yogurt, sugar, butter and coconut is baked in a shallow tray. The classic move: the cake is cut into diamonds before baking so the syrup soaks through the cuts later. Hot syrup is poured over the warm cake and disappears in seconds, leaving the surface tacky-glossy. Topped with a single almond on each diamond.
+Basbousa is the Egyptian semolina cake that lives at every neighbourhood bakery, sold in golden diamond-shaped slices stacked under glass and dripping faintly with the sugar syrup that gives it its character. The batter is humble: semolina, yogurt, sugar, butter and shredded coconut whisked together and baked in a shallow tray. The classic move is the pre-cut: you score the cake into diamonds before it goes into the oven so the hot syrup can soak through the cuts later. Once baked, hot rosewater-orange-blossom syrup pours over the warm cake and disappears in seconds, leaving the surface tacky and glossy. Each diamond gets a single blanched almond pressed into the centre. Eat with hot tea, in the afternoon.
 
 ## Ingredients
 

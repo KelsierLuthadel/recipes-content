@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-This comforting beef and wine soup from the Italian Alps combines rich beef stock with white wine for a warming broth. Topped with cinnamon-spiced toasted bread and creamy Parmesan, it's a simple yet elegant dish that highlights the region's culinary influences. Perfect for a cozy meal.
+This is the Alpine border-soup that crosses between France and Italy, beef broth lifted with white wine and the warming Alpine signature of cinnamon-spiced toast floating on top. You start with a properly rich beef stock (homemade if you can, good shop-bought if not) and reduce it with a generous splash of white wine until the alcohol cooks off and the broth carries the wine's perfume. Slices of crusty country bread toast dry, get dusted with cinnamon and a generous grating of Parmesan, and float on top of the bowl just before serving. The cinnamon is the surprise, not enough to register as "cinnamon" but enough to round out the broth into something warming. Eat with a glass of the cooking wine and a thick wool jumper.
 
 ## Ingredients
 

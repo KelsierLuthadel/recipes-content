@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Sweet shortcrust pastry blind-bakes to set the base. A custard of eggs, sugar, lemon juice, zest and butter cooks gently to a smooth glossy curd. The curd pours into the still-warm shell, the tart bakes briefly to set, cools fully. Served plain or with a dusting of icing sugar.
+The classic French lemon tart is the dessert every pâtisserie sells and every cook should be able to make, a buttery sweet shortcrust case holding a glossy lemon curd that's both bracing and elegant. Pâte sucrée blind-bakes to a deep gold first. The curd cooks gently in a saucepan: eggs whisked with sugar, lemon juice and zest, then butter swirled in for the silky finish; the curd thickens enough to coat the back of a spoon. Pour into the still-warm shell; a short final bake in the oven sets the surface to a glassy finish. Cool fully before slicing. Serve plain or with a dusting of icing sugar; the curd's acidity is the whole point.
 
 ## Ingredients
 

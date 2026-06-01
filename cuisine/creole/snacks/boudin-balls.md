@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes (in batches)
 
 ## Overview
-Boudin filling combines pork shoulder, pork liver (optional, traditional), cooked rice, onion, celery, garlic, parsley, green onion, cayenne, salt, pepper. Either bought ready-made boudin (casings removed) or made from scratch by simmering then mincing pork shoulder with the aromatics. Filling rolls into walnut-sized balls; chills for 30 min so they hold shape. Dredges in flour, egg, then seasoned breadcrumbs. Deep-fries for 3-4 minutes at 175°C.
+Boudin balls are the Cajun snack that turns the porky-rice filling of a boudin sausage into a deep-fried bar-snack drinking partner, sold by the dozen at every gas-station deli across south Louisiana. The filling is the heart of a Cajun pork-and-rice sausage: cooked pork shoulder, pork liver (traditional, optional), cooked rice, onion, celery, garlic, parsley, green onion, cayenne and lots of black pepper. You can buy ready-made boudin and squeeze the filling out of the casings, or make it from scratch by simmering pork shoulder with the aromatics and mincing the lot together. The mixture rolls into walnut-sized balls and chills for half an hour so they hold shape. Each ball dredges in flour, then egg, then seasoned breadcrumbs; deep-fries at 175°C for three to four minutes until deep gold. Eat hot with a beer and pepper jelly on the side.
 
 ## Ingredients
 

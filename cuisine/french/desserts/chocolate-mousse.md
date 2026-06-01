@@ -30,7 +30,7 @@
 - 240 ml double cream
 
 ## Overview
-An incredibly rich and luxurious chocolate mousse layered with a delicate chocolate Genoese sponge base and lavender crémeux, then topped with tart berry compote and fresh berries. This sophisticated three-component dessert showcases chocolate in multiple forms with complementary flavor and textural contrasts.
+This is the showpiece chocolate mousse, layered in tall glasses with a chocolate Genoise sponge base, dark chocolate mousse, a lavender crémeux, and a topping of berry compote and fresh berries. The sponge bakes thin and gets cut into discs that fit the base of each glass. The chocolate mousse is the classic: melted dark chocolate folded with sabayon and softly whipped cream. The crémeux is a richer set custard with infused lavender; it spoons over the mousse and chills to firm. A vivid berry compote and fresh raspberries crown the top. Three textures, three flavours, one elegant dessert.
 
 ## Method
 ### To make the compote

@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A simple eggy flour-and-coconut-milk batter is whisked together with turmeric for colour and left to rest. A separate filling of palm jaggery is melted with grated coconut, cardamom, nutmeg and a pinch of salt until thick and glossy. Pancakes are cooked in a hot pan with a thin film of ghee, the filling spooned along one edge and rolled into a long log. Served warm, with a dusting of fresh coconut on top.
+Alle belle is the Goan filled pancake, a soft yellow turmeric-tinted crêpe rolled around a thick filling of coconut and palm jaggery, eaten warm with a fresh dust of coconut on top. The batter is a simple eggy mix of flour, coconut milk and turmeric, whisked smooth and rested so the flour hydrates. The filling cooks separately: palm jaggery melts with grated coconut, cardamom, nutmeg and a pinch of salt until thick, glossy and the colour of dark caramel. Pancakes cook in a hot pan with a thin slick of ghee; while still warm, the filling spoons along one edge and the pancake rolls into a long log. Serve warm with extra grated coconut scattered on top, with a strong masala chai.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-This apricot tart uses a sweet shortcrust pastry shell filled with crème pâtissière and a decorative arrangement of ripe apricot halves. It is best served warm or at room temperature, glazed lightly to bring out the fruit's sweetness.
+The apricot tart is the early-summer French pâtisserie staple, a sweet shortcrust case holding crème pâtissière and a careful arrangement of ripe apricot halves on top. Pâte sucrée blind-bakes to a deep gold; the cooled case takes a generous layer of vanilla crème pâtissière. Apricot halves arrange cut-side-up across the surface in concentric circles. A short final bake softens the apricots and lets them release their juices into the custard. A brush of warm apricot glaze (or apricot jam loosened with water) goes on at service for the shine. Eat warm or at room temperature, with thick cream.
 
 ## Ingredients
 ### Pastry

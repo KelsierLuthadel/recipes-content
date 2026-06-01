@@ -2,7 +2,7 @@
 
 ![Ful Medames](resources/ful-medames.jpg)
 
-*Egypt's national breakfast: dried fava beans slow-cooked with garlic, lemon, cumin and olive oil into a rough mash, eaten warm with bread, eggs, tomato, onion and chilli. Sold from carts across Cairo; cooked overnight in tall copper pots called qidra. Cheap, ancient, deeply nourishing.*
+*Egypt's national breakfast: dried fava beans slow-cooked with garlic, lemon, cumin and olive oil into a rough mash, eaten warm with bread, eggs, tomato, onion and chilli. Sold from carts across Cairo; cooked overnight in tall copper pots called qidra. Everyday, ancient, deeply nourishing.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Whole dried fava beans soak overnight, then simmer slowly until the skins soften and the beans are completely tender, they'll break down on the edges, stay whole at the heart. Garlic, lemon, cumin and salt mash through; a generous pour of olive oil at the end. Tomato, onion, parsley and a hard-boiled egg or two on top.
+Ful medames is the breakfast Egypt has been eating since pharaonic times, dried fava beans slow-cooked overnight into something between a porridge and a stew. Whole dried fava beans soak overnight, then simmer slowly for hours until the skins soften and the beans are completely tender, the edges break down while the hearts stay whole. You crush garlic, lemon, cumin and salt through the warm beans to taste, then pour a generous slick of olive oil over the top. Chopped tomato, raw onion, parsley and a hard-boiled egg or two scatter across to finish. Serve in a wide shallow bowl with hot baladi bread to scoop, ideally for breakfast in a Cairo café before the sun is up.
 
 ## Ingredients
 

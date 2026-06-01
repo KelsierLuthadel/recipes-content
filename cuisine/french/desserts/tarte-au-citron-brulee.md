@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 35 minutes
 
 ## Overview
-A bright lemon tart with a crisp sweet shortcrust shell and a creamy lemon filling, finished with a caramelised sugar top. It is best served chilled or at room temperature with a glossy brûléed surface and light whipped cream.
+This is the French version of lemon tart with a brûléed top, a bright sharp lemon filling in a buttery shortcrust shell, with a thin layer of caramelised sugar across the surface. The pastry blind-bakes to a deep gold. The lemon filling is the classic: eggs whisked with sugar, fresh lemon juice and zest, then butter swirled in off the heat for the silky finish. The filling pours into the cooled shell and the whole tart goes into a moderate oven just long enough to set. Chill for at least four hours so it slices clean. At service, sprinkle a thin layer of sugar across the top and torch (or pass under a hot grill) until amber and glassy. The lemon's acidity cuts through the sugar crack.
 
 ## Ingredients
 ### Pastry

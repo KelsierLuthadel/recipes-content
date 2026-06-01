@@ -11,7 +11,7 @@
 **Cook Time:** 29 minutes
 
 ## Overview
-Beef Bourguignon is the quintessential French braise, tender beef cubes slow-cooked in a Burgundy wine sauce enriched with pearl onions, mushrooms, and lardons. The combination of wine, beef stock, and a delicate flour thickening creates a deeply savory sauce that clings to the meat. This dish exemplifies classic French technique: patient cooking, careful skimming, and the balance of richness with restraint.
+Beef bourguignon is the quintessential French braise from Burgundy, beef cubes that go in tough on Friday afternoon and come out fork-tender by Saturday lunch, wrapped in a wine-dark sauce that's the entire reason the dish exists. You sear the chuck or shin in batches in a hot heavy pot so each piece picks up a dark crust; lardons render their fat into the pot first to make this possible. Burgundy red wine, beef stock, garlic, herbs and a spoonful of tomato puree build the braising liquid, which simmers slowly with the beef for three hours until the meat collapses under a fork. Pearl onions glaze separately in butter and sugar; mushrooms sauté hard so they hold their shape; both join the pot at the end so they keep their character. A flour-and-butter beurre manié thickens the sauce to coating consistency. Serve with mashed potato or buttered noodles, with the rest of the Burgundy in the glass.
 
 ## Ingredients
 

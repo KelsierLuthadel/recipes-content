@@ -27,7 +27,7 @@
 - granulated sugar
 
 ## Overview
-Light, airy beignets coating fresh berries, with a slightly crispy exterior from the yeasted batter and a tender interior that yields to reveal juicy fruit. These ethereal fried pastries showcase fresh summer berries in their simplest, most elegant form, perfect for elegant dessert courses or petit fours.
+Red berry beignets are the French summer-fruit version of the New Orleans pastry, fresh berries dipped in a light yeasted batter and deep-fried until the coating goes crisp and golden around the still-fresh fruit inside. A yeasted batter (flour, milk, yeast, sugar, salt, egg) rests for an hour until risen and lightly bubbly. Fresh berries (strawberries, raspberries, blueberries) skewer onto cocktail sticks for easy handling. Each skewer dips into the batter, then drops into oil at 180°C for ninety seconds until deep gold and crisp. Drain briefly, dust generously with icing sugar, eat hot with the berries still juicy at the centre.
 
 ## Method
 ### To make the batter
