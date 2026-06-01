@@ -3,16 +3,17 @@ cook: 8 minutes
 allergens:
   - dairy
 tags:
-  - drinks
   - vegetarian
+  - gluten-free
   - quick
-  - chocolate
+  - make-ahead
   - cream
-  - winter
+  - chocolate
+mentions: []
 ingredients:
   - qty: 300
     unit: ml
-    name: whole milk
+    name: milk
     raw: 300 ml whole milk
   - qty: 150
     unit: ml
@@ -26,14 +27,17 @@ ingredients:
     name: dark chocolate
     raw: 150 g dark chocolate
   - qty: 1
-    unit: tbsp
-    name: caster sugar
+    name: to 2 tablespoons caster sugar
     raw: 1 to 2 tablespoons caster sugar
-  - name: fine salt
+  - qty: 1
+    unit: pinch
+    name: salt
     raw: Pinch of fine salt
   - name: whipped cream
     raw: Lightly whipped cream
-  - name: grated dark chocolate
+  - qty: 1
+    unit: pinch
+    name: dark chocolate
     raw: A pinch of grated dark chocolate
-  - name: biscotti or madeleine
-    raw: A small biscotti or madeleine
+  - name: biscotti or madeleine on the saucer
+    raw: A small biscotti or madeleine on the saucer

@@ -1,18 +1,20 @@
 prep: 5 minutes
 cook: 8 minutes
 allergens:
+  - gluten
   - dairy
 tags:
-  - drinks
   - vegetarian
   - quick
-  - chocolate
+  - make-ahead
+  - butter
   - cream
-  - winter
+  - chocolate
+mentions: []
 ingredients:
   - qty: 350
     unit: ml
-    name: whole milk
+    name: milk
     raw: 350 ml whole milk
   - qty: 150
     unit: ml
@@ -21,17 +23,20 @@ ingredients:
   - qty: 1
     name: vanilla pod
     raw: 1 vanilla pod
-  - name: tonka bean
+  - qty: 0.25
+    name: tonka bean
     raw: ¼ grated tonka bean
   - qty: 120
     unit: g
     name: white chocolate
     raw: 120 g good white chocolate
-  - name: fine salt
+  - qty: 1
+    unit: pinch
+    name: salt
     raw: Pinch of fine salt
   - name: whipped cream
     raw: Lightly whipped cream
-  - name: grated nutmeg
+  - name: nutmeg or tonka bean
     raw: Grated nutmeg or tonka bean
-  - name: shortbread biscuit
-    raw: A shortbread biscuit
+  - name: shortbread biscuit on the saucer
+    raw: A shortbread biscuit on the saucer

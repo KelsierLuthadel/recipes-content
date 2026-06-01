@@ -2,44 +2,46 @@ prep: 5 minutes
 cook: 8 minutes
 allergens:
   - dairy
-  - nuts
 tags:
-  - drinks
   - vegetarian
-  - quick
-  - chocolate
+  - gluten-free
   - spicy
-  - chili
-  - spices
-  - winter
+  - quick
+  - make-ahead
+  - chocolate
+mentions:
+  - cuisine/mexican/desserts/champurrado
 ingredients:
   - qty: 500
     unit: ml
-    name: whole milk
+    name: milk
     raw: 500 ml whole milk
   - qty: 100
     unit: g
-    name: Mexican drinking chocolate
+    name: mexican drinking chocolate
     raw: 100 g Mexican drinking chocolate
   - qty: 1
-    name: Mexican canela cinnamon stick
+    unit: stick
+    name: mexican canela cinnamon
     raw: 1 stick Mexican canela cinnamon
   - qty: 1
     name: cardamom pod
     raw: 1 cardamom pod
   - qty: 0.25
     unit: tsp
-    name: ancho chilli powder
+    name: ancho or pasilla chilli powder
     raw: ¼ teaspoon ancho or pasilla chilli powder
   - qty: 0.5
     unit: tsp
     name: vanilla extract
     raw: ½ teaspoon vanilla extract
-  - name: fine salt
+  - qty: 1
+    unit: pinch
+    name: salt
     raw: Pinch of fine salt
-  - name: churros
-    raw: A churro or two
-  - name: cocoa
-    raw: A dusting of cocoa or cinnamon
+  - name: churro or two on the saucer
+    raw: A churro or two on the saucer
+  - name: dusting of cocoa or cinnamon on top
+    raw: A dusting of cocoa or cinnamon on top
   - name: whipped cream
     raw: Whipped cream

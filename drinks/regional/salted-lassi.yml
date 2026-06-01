@@ -1,15 +1,17 @@
 prep: 10 minutes
-cook: 2 minutes
+cook: 2 minutes (to toast the cumin)
 allergens:
   - dairy
 tags:
-  - drinks
   - vegetarian
   - gluten-free
   - quick
   - make-ahead
+  - coriander
   - yogurt
-  - spices
+mentions:
+  - cuisine/indian/biryani
+  - cuisine/indian/sauces-pickles/mint-chutney
 ingredients:
   - qty: 1
     unit: tsp
@@ -17,15 +19,15 @@ ingredients:
     raw: 1 teaspoon cumin seeds
   - qty: 600
     unit: g
-    name: thick full-fat plain yogurt
+    name: plain yogurt
     raw: 600 g thick full-fat plain yogurt
   - qty: 350
     unit: ml
-    name: cold water
+    name: water
     raw: 350 ml cold water
   - qty: 1
     unit: tsp
-    name: fine salt
+    name: salt
     raw: 1 teaspoon fine salt
   - qty: 0.25
     unit: tsp
@@ -35,20 +37,24 @@ ingredients:
     unit: tsp
     name: black pepper
     raw: ¼ teaspoon freshly ground black pepper
-  - name: asafoetida
+  - qty: 1
+    unit: pinch
+    name: asafoetida
     raw: Pinch of asafoetida
   - qty: 8
-    name: fresh mint leaves
+    name: mint leaves
     raw: 8 fresh mint leaves
   - qty: 1
     unit: tbsp
-    name: fresh coriander
+    name: coriander
     raw: 1 tablespoon chopped fresh coriander
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
-  - name: toasted cumin
+  - qty: 1
+    unit: pinch
+    name: toasted cumin
     raw: Pinch of toasted cumin
   - name: mint leaves
     raw: A few mint leaves
-  - name: black pepper
+  - name: crack of black pepper
     raw: Crack of black pepper
