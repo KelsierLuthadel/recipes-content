@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Vegetables (spinach, courgette, peas, anything) cook in an oven-proof pan with onion. Beaten eggs with parmesan, herbs and seasoning pour over; the bottom sets on the hob, the top finishes under a hot grill until just puffed.
+Frittata is the Italian open-faced omelette, eggs whisked with seasonal vegetables and Parmesan, set on the hob and finished under the grill, the home-cook's answer to using up whatever's in the fridge. Vegetables (spinach, courgette, peas, anything ripe in the basket) cook in an oven-proof pan with finely chopped onion. Beaten eggs with grated Parmesan, herbs and seasoning pour over; the bottom sets gently on the hob, the top finishes under a hot grill until just-puffed and lightly browned. Slice into wedges. Eat warm or cold, for lunch, breakfast or a picnic.
 
 ## Ingredients
 

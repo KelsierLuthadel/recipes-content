@@ -11,7 +11,7 @@
 **Cook Time:** 3 minutes
 
 ## Overview
-This elegant pasta dish marries tender minced lamb with a fragrant base of onions, carrot, and fresh rosemary. A touch of wine and stock create a light sauce that clings to fettuccine. The key is quality lamb and patience allowing the onions to become golden and sweet. This is sophisticated comfort food.
+Fettuccine with rosemary lamb is the Italian-spring pasta, a fragrant minced-lamb ragù scented with fresh rosemary, served over fresh egg fettuccine. Onions and grated carrot soften slowly in olive oil until pale gold; minced lamb browns hard; fresh rosemary, garlic and a splash of white wine join the pan. Stock simmers everything together for thirty minutes into a light savoury sauce that clings to the pasta. The key is patience with the soffritto (don't rush the onions) and quality lamb. Toss with fresh egg fettuccine and a generous grating of Pecorino. Eat with a glass of red and crusty bread.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 34 minutes
 
 ## Overview
-This ragù blends deep browning, layered aromatics, and a long, gentle oven braise to create a sauce with rich umami, silky texture, and balanced brightness. A two-milk finish adds softness, while a quick red wine gastrique lifts the sauce at the end.
+Ragu with gnocchi is the Italian comfort dinner that pairs slow-cooked meat sauce with soft potato dumplings, the gentle weeknight cousin of bolognese-and-tagliatelle. A ragù slow-cooks with deep browning, layered aromatics and a long oven braise to develop rich umami, silky texture and balanced brightness. A two-milk finish (whole milk plus a splash of cream) adds softness; a quick red wine gastrique at the end lifts the sauce with acidity. Toss with freshly made (or shop-bought) potato gnocchi just boiled to floating. Serve with grated Parmesan; eat in deep bowls with a glass of red.
 
 ## Ingredients
  

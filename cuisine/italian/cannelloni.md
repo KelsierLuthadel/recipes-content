@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-This layered pasta masterpiece begins with fresh, delicate pasta sheets encasing a creamy, herbaceous filling. Ricotta and rocket provide lightness and peppery freshness, while spinach adds earthiness and color. The whole affair is bound with silken béchamel, enriched with tomato passata, and finished with a Pecorino crust that turns golden and crispy in the oven, a true celebration of Italian cooking.
+Cannelloni is the Italian baked filled pasta, fresh pasta sheets rolled around a ricotta-and-greens filling, smothered in tomato passata and bechamel, baked until the top crisps gold. Fresh pasta sheets get a brief blanch in salted water. The filling: ricotta, rocket, blanched spinach, an egg, Pecorino, salt, pepper and nutmeg, all combined into a creamy mixture. Spread a generous spoonful across each pasta sheet; roll into a tube; arrange seam-side-down in a baking dish. Tomato passata pours over; bechamel covers; a final shower of Pecorino crowns the top. Bake at 200°C for thirty minutes until the surface goes deep gold and bubbling. Eat warm, with a sharp green salad.
 
 ## Ingredients
 

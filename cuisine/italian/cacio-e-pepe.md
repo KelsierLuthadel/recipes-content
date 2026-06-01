@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Black pepper toasts in a dry pan; pasta cooks; the starchy pasta water plus finely grated Pecorino emulsify into a sauce off the heat. Heat shock scrambles the cheese; the technique is to take the pan off the heat before adding cheese, and toss energetically.
+Cacio e pepe is the Roman pasta of three ingredients (cheese and pepper, literally), the dish that proves Italian cooking lives or dies on technique with no places to hide. Black pepper toasts in a dry pan first to release its aromatic oils. Pasta cooks in lightly salted water (less salt than usual, the cheese is salty enough). The starchy pasta water plus finely grated Pecorino Romano emulsify into a sauce off the heat with vigorous tossing. Heat shock scrambles the cheese; the technique is to take the pan off the heat before adding the cheese, and toss energetically with a splash of pasta water until everything comes together into a glossy coat. Serve immediately with extra pepper.
 
 ## Ingredients
 

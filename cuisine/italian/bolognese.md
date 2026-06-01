@@ -11,7 +11,7 @@
 **Cook Time:** 4 hours
 
 ## Overview
-Bolognese is Italy's classic meat sauce, built on a foundation of soffritto, the aromatic trinity of onion, carrot, and celery, combined with quality ground beef, wine, and tomato. The result is a rich, velvety sauce where individual ingredients dissolve into a cohesive whole greater than the sum of its parts. This is soul food, best made with time and attention.
+Bolognese (ragù alla bolognese) is the Italian meat sauce from Bologna, slow-simmered beef with soffritto, wine and a touch of milk, the dish that hides under every plate of tagliatelle in Emilia-Romagna and a thousand bistros worldwide. Build the soffritto first (the aromatic trinity of finely diced onion, carrot and celery) cooked slow in butter and olive oil until soft and sweet. Quality ground beef browns deeply; white wine deglazes; milk goes in for tenderness (the bolognese signature); tinned tomatoes for body. Simmer slowly for two hours, never rushed, so the individual ingredients dissolve into a velvety cohesive sauce. Serve over fresh tagliatelle (never spaghetti, the locals will correct you), with a generous grating of Parmigiano Reggiano.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 4 minutes
 
 ## Overview
-This is peasant cooking with refined sensibilities. Sausage, freed from its casing and crumbled, browns deeply and flavors the oil. Red chicory (radicchio), shredded and quick-cooked, becomes tender yet retains its distinctive bitter-sweet character. Red wine deglazes the pan and adds complexity. A small amount of cream marries everything into a sophisticated sauce that coats each penne tube.
+Penne with chicory and sausage is the rustic Italian pasta of the Veneto, crumbled sausage browned hard, red chicory (radicchio) wilted in red wine, all bound with a small touch of cream for richness. Italian sausage freed from its casing crumbles into a hot pan and browns deeply, flavouring the oil. Red chicory (radicchio), shredded fine, quick-cooks in the rendered fat until tender yet still slightly bitter at the edges. Red wine deglazes the pan and adds complexity. A small amount of cream marries everything into a sophisticated sauce that coats each penne tube. Finish with grated Parmesan.
 
 ## Ingredients
 

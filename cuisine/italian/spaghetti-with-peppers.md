@@ -11,7 +11,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-This vegetarian dish proves that meat is optional, not essential, for creating satisfying pasta. The peppers, cooked slowly until they release their natural sweetness, create a silken sauce. Fresh herbs provide layered flavor without one dominating. This is simple food made with technique and quality ingredients. Aubergines can substitute for peppers if preferred.
+Spaghetti with peppers is the vegetarian Italian pasta that proves meat is optional, not essential, sweet bell peppers slow-cooked into a silken pasta sauce. Peppers slice thin and cook slowly until they release their natural sweetness and turn jammy. Garlic, fresh herbs and a splash of olive oil round out the sauce; a quick blitz turns it into something silky and pourable, or you can leave it chunky for texture. Toss with hot spaghetti and grated Parmesan. Aubergines can substitute for peppers if preferred. Simple food, executed with technique and quality ingredients, eaten in summer when peppers are at their peak.
 
 ## Ingredients
 

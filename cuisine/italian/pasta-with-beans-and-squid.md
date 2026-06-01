@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-This colorful, flavorful dish combines tender squid, spiced chorizo, creamy beans, and bright tomatoes. The squid is scored to create attractive curl patterns when seared at high heat. Orecchiette (small shell pasta) catches the light sauce beautifully. This is as much about presentation as it is flavor, perfect for entertaining.
+This is the colourful coastal Italian pasta of squid, chorizo, beans and tomato, a one-pan dish where the squid is scored before searing so it curls into attractive patterns on the plate. Squid scores with a sharp knife in a crosshatch pattern; high-heat searing curls the pieces into pretty fan shapes. Chorizo crisps in olive oil; soft onions and garlic build the base; cannellini or borlotti beans and ripe cherry tomatoes simmer together; the squid joins for the last two minutes only. Orecchiette (small shell pasta) catches the light sauce beautifully. As much about presentation as flavour, the dish lands somewhere between elegant and rustic.
 
 ## Ingredients
 

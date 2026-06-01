@@ -9,7 +9,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-True pesto is made by hand, not blended, but a food processor creates acceptable results efficiently. The beauty of pesto lies in the balance: each ingredient must be the highest quality. The basil must be fresh, the pine nuts toasted, the oil fruity but not aggressive, the Parmesan aged. Together they create something transcendent.
+Linguine with pesto is the Genoese tradition, fresh-pounded basil pesto folded into hot pasta along with cubes of boiled potato and green beans, the proper Ligurian way to serve the country's most famous sauce. True pesto is made by hand in a mortar with a pestle (not blended); each ingredient must be the highest quality. The basil must be fresh, the pine nuts toasted, the oil fruity but not aggressive, the Parmesan aged. Together they create something transcendent. Toss with hot linguine, boiled new potatoes and trimmed green beans (the traditional Ligurian additions). Serve with extra Parmesan.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-This is peasant cooking at its finest: five ingredients combine to create something utterly satisfying. The gentle cooking of tomatoes with chilli and garlic creates a sauce that clings to pasta without cream or oil to muddy it. Fresh flat-leaf parsley adds brightness. This dish proves that simplicity, when executed with care, requires nothing more.
+Penne all'arrabbiata is the angry Roman tomato pasta (arrabbiata means "angry", for the chilli), a five-ingredient sauce of tomato, garlic, chilli, olive oil and parsley that proves Italian cooking lives on simplicity executed with care. The technique is the discipline: garlic and dried chilli flakes bloom slowly in olive oil; tinned tomatoes go in next and simmer until the sauce thickens; salt to taste. No cream, no oil to muddy, no other flavours fighting for attention. Toss with hot penne; finish with fresh chopped flat-leaf parsley for brightness. The simplest pasta sauce in Italy, and one of the most satisfying.
 
 ## Ingredients
 

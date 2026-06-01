@@ -11,7 +11,7 @@
 **Cook Time:** 120 minutes
 
 ## Overview
-This hearty Italian minestrone soup is loaded with vegetables, beans, and pasta, topped with fresh pesto. A comforting and nutritious dish that captures the essence of Italian home cooking. Serve with crusty bread for a complete meal.
+Minestrone is the Italian summer-vegetable soup, a wide pot of beans, vegetables and small pasta in tomato-stock broth, finished with a generous spoonful of fresh basil pesto stirred in at the table. The soup builds slowly: soffritto of onion, carrot and celery; tomato and stock; cannellini beans for body; whatever seasonal vegetables are in the garden (courgette, green beans, cabbage, potato); small pasta (ditalini or broken spaghetti) for the last ten minutes. Ladle into bowls; a generous spoonful of fresh pesto stirs into each so the basil stays bright. Eat with crusty bread and a glass of Chianti.
 
 ## Ingredients
 

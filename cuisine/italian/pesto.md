@@ -11,7 +11,7 @@
 **Yield:** Approximately 180 milliliters (approximately 10-12 servings as a pasta sauce)
 
 ## Overview
-Pesto represents the height of simplicity: five ingredients (basil, garlic, pine nuts, olive oil, Parmesan) combined to create a sauce of profound flavor and silky texture. The key to successful pesto lies in ingredient quality and processing technique. Fresh, fragrant basil is non-negotiable; aged or heat-stressed basil creates harsh, off-flavored results. Pine nuts must be fresh (rancid pine nuts ruin pesto instantly). Garlic should be mild and rounded by the pesto's other elements. Parmesan must be freshly grated; pre-grated cheese creates a grainy, inferior result. Traditional pesto is made by mortar and pestle, which bruises rather than cuts the basil, preserving its vibrant green color and fresh character. Modern food processors work adequately but can create a less vibrant result if over-processed.
+Pesto is the great Genoese basil sauce, five ingredients (basil, garlic, pine nuts, olive oil, Parmesan) pounded together in a mortar into something transcendent. Ingredient quality is everything. The basil must be fresh and fragrant; aged or heat-stressed basil creates harsh off-flavours. Pine nuts must be fresh (rancid pine nuts ruin pesto instantly). Garlic should be mild and rounded by the pesto's other elements. Parmesan must be freshly grated; pre-grated cheese creates a grainy, inferior result. Traditional pesto is made by mortar and pestle, which bruises rather than cuts the basil, preserving its vibrant green colour and fresh character. Modern food processors work adequately but can produce a less vibrant result if over-processed. Use within hours; pesto oxidises and dulls as it sits.
 
 ## Ingredients
 

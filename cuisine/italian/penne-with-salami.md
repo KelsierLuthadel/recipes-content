@@ -11,7 +11,7 @@
 **Cook Time:** 11 minutes
 
 ## Overview
-This is baked pasta at its most elegant. Fresh courgettes sear quickly to maintain their texture, salami provides salty richness, and a silky homemade béchamel unites everything. Baked under a golden Parmesan crust until crispy and bubbling, this dish works as a first course, main course, or served at room temperature as a cold dish. The textural contrast between the creamy sauce and crispy top is essential.
+This is the baked-pasta dish where salami goes into the sauce instead of on a sandwich, fresh courgettes seared quickly, salami crisped in butter, all bound with a silky bechamel and baked under a golden Parmesan crust. Fresh courgettes slice and sear in olive oil to keep texture; salami chops fine and crisps separately, providing salty richness. A silky homemade bechamel unites everything in a baking dish. The lot bakes under a deep Parmesan crust until crispy and bubbling. The dish works as a first course, main course, or even at room temperature as a cold dish. The textural contrast between creamy sauce and crispy top is the dish's whole point.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 4 hours
 
 ## Overview
-A rich, layered Italian baked pasta combining slow-cooked meat ragù with silky béchamel enriched with basil pesto. Homemade fresh pasta sheets are essential for the melt-in-the-mouth texture that sets this lasagne apart. The pesto adds a distinctive herbaceous note that complements the béchamel beautifully.
+Lasagne is the great Italian baked layered pasta, fresh pasta sheets stacked with slow-cooked meat ragù and silky pesto-spiked bechamel, baked until the surface goes mahogany-bronze, the dish at the centre of every Italian Sunday lunch. Fresh pasta sheets are essential for the melt-in-the-mouth texture that sets this lasagne apart. A meat ragù slow-cooks for two hours into something dark and concentrated. A bechamel enriched with a generous spoon of basil pesto adds the distinctive herbaceous note that complements the rich meat. Layer the lasagne in a deep dish: pasta, ragù, bechamel, repeat; finish with a generous Parmesan crust on top. Bake at 200°C for thirty-five minutes until the top goes bronze and the corners bubble. Rest before slicing.
 
 ## Ingredients
 - 3 tablespoons of olive oil

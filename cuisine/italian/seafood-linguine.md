@@ -11,7 +11,7 @@
 **Cook Time:** 4 minutes
 
 ## Overview
-This is seafood in its purest form: clams, mussels, prawns, and squid cooked simply in wine and tomato, finished with fresh herbs and pasta. Each component is delicate and must be treated with care. The sauce is light and elegant, allowing the briny sweetness of the shellfish to shine. This is restaurant-quality treatment of premium ingredients.
+Seafood linguine is the Italian coastal pasta in its purest form, clams, mussels, prawns and squid cooked simply in white wine and tomato, finished with fresh herbs and tossed with hot linguine. Each component is delicate and must be treated with care. Clams and mussels steam open in white wine; prawns sear briefly; squid joins last so it doesn't go rubbery. A light tomato sauce builds from the seafood cooking liquor; fresh herbs (parsley, basil) scatter at the end. The sauce is light and elegant, allowing the briny sweetness of the shellfish to shine. Restaurant-quality treatment of premium ingredients, ready in twenty minutes.
 
 ## Ingredients
 

@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-This Roman classic showcases the magic of combining quality ingredients in the right proportions. Crispy pancetta, yielding its fat to the pan, mingles with soft onions and fierce chilli. A splash of white wine adds acidity and complexity. The result is a robust, warming sauce that transforms simple pasta into something memorable. Pecorino Romano provides a sharp finish.
+Linguine with pancetta is the Roman classic that proves the magic of combining quality ingredients in the right proportions, crispy pancetta yielding its fat to soft onions and fierce chilli. Pancetta crisps in a hot pan, rendering its fat. Soft onions cook down in that fat until pale gold; chilli flakes bloom in the heat; a splash of white wine adds acidity and complexity. The result is a robust, warming sauce that transforms simple pasta into something memorable. Toss with hot linguine and finish with grated Pecorino Romano for the sharp bite that defines Roman pasta.
 
 ## Ingredients
 

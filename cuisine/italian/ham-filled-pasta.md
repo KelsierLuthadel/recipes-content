@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-These tender, handmade pasta parcels are filled with a harmonious mixture of ricotta, cooked ham, sun-dried tomatoes, and basil, bound with Pecorino cheese. They're served simply with a warm oil infused with crispy chorizo. The key is making fresh, tender pasta and not overfilling; quality matters more than quantity.
+These are the elegant Italian filled-pasta parcels, fresh pasta squares wrapped around a creamy filling of ricotta, ham, sun-dried tomatoes and basil, served simply with a warm chorizo oil so the filling stays the star. Fresh pasta dough rolls thin into long sheets. The filling: ricotta blends with cooked ham, sun-dried tomatoes, fresh basil and Pecorino into a creamy paste. Cut squares; a teaspoon of filling on half, dampen the edges, fold and seal. Boil briefly for two minutes. Crisp chopped chorizo in olive oil for the warm dressing. The key is making fresh tender pasta and not overfilling; quality matters more than quantity.
 
 ## Ingredients
 

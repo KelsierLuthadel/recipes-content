@@ -11,7 +11,7 @@
 **Cook Time:** 4 minutes
 
 ## Overview
-These handmade potato gnocchetti showcase Italian rustic cooking at its finest. Tender pillows of light potato dough are tossed with sweet courgettes, fresh sage, and golden butter, then finished with abundant Parmesan. The key to success is gentle handling, don't overwork the dough or the gnocchetti become tough. Fresh sage is absolutely essential.
+Gnocchetti are the small handmade Italian potato dumplings, tender pillows of potato dough tossed with sweet courgettes, fresh sage and golden butter, the rustic dish that anchors every Italian Sunday lunch. Whole unpeeled potatoes bake until fluffy; while still hot, they pass through a ricer and build into a delicate dough with just flour and an egg yolk. Roll into thin ropes and cut into 2 cm pieces; press each piece with a fork or board for the textural grooves. The key is gentle handling: don't overwork the dough or the gnocchetti become tough. Boil briefly until they float (under a minute); toss with melted butter, sliced sautéed courgettes, fresh sage and grated Parmesan. Serve immediately.
 
 ## Ingredients
 

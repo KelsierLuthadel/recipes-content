@@ -9,7 +9,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-This ethereal pasta dish captures the essence of the Amalfi coast. Fresh crab meat is briefly warmed in fruity olive oil with garlic, chilli, and lemon. The sauce is delicate and elegant, allowing the sweet briny notes of the crab to shine. The pasta is simply a vehicle for this liquid gold. This is not a dish to improvise with; quality ingredients and technique are non-negotiable.
+Linguine with crab is the elegant pasta of the Amalfi coast, white crab meat briefly warmed in fruity olive oil with garlic, chilli and lemon, the kind of dish that captures the essence of seaside Italy in fifteen minutes. Linguine cooks in salted water. Meanwhile, garlic and dried chilli infuse fruity extra-virgin olive oil; white crab meat warms briefly through with lemon juice and zest. The sauce is delicate and elegant, allowing the sweet briny crab to shine without smothering it. The pasta is the vehicle for the liquid gold underneath. Eat with a glass of cold Falanghina and a wedge of lemon on the side.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-These striking ravioli unite fresh crab meat with silken mascarpone, sharpened by fresh lemon and parsley, all enveloped in a bold chilli-infused pasta. The combination of delicate seafood with the subtle heat of dried chillies creates sophisticated complexity, while lemon butter provides the perfect light sauce. This is restaurant-quality food made at home.
+Crab ravioli is the elegant fresh-pasta dish of coastal Italy, white crab meat folded with mascarpone, lemon and parsley, wrapped in chilli-tinted pasta and finished with a simple lemon butter. Fresh pasta dough incorporates dried chilli flakes for the colour and faint heat. The filling: white crab meat, mascarpone, lemon zest, fresh parsley, salt and pepper, mixed into a creamy paste. Roll the pasta thin; cut into squares; a teaspoon of filling on half, dampen the edges, fold and seal. Boil briefly for two minutes in salted water. Toss in melted butter with lemon zest and a final scatter of parsley. Plate with restaurant-style flourish; eat with a glass of cold white.
 
 ## Ingredients
 

@@ -9,7 +9,7 @@
 **Prep Time:** 20 minutes
 
 ## Overview
-Beef meatballs represent the heart of Italian home cooking, simple ingredients transformed through technique into something greater than their parts. Lemon zest and fresh herbs brighten the earthy beef, while coating in seasoned flour creates a golden crust that protects the tender interior. A wine-enriched sauce catches every drop of savory liquid. This is pure comfort.
+Beef meatballs in tomato sauce is the heart of Italian-American home cooking, simple ingredients transformed through technique into something greater than the sum of their parts. Beef mince blends with breadcrumbs soaked in milk, an egg, grated Parmesan, fresh herbs (parsley, oregano) and lemon zest for brightness. Roll into walnut-sized balls, dust in seasoned flour to create a golden crust that protects the tender interior, pan-brown for colour. A wine-enriched tomato sauce catches every drop of savoury liquid as the meatballs finish cooking through. Serve over spaghetti with extra Parmesan; pure comfort, no apologies.
 
 ## Ingredients
 

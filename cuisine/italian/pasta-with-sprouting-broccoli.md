@@ -11,7 +11,7 @@
 **Cook Time:** 3 minutes
 
 ## Overview
-This simple vegetarian dish relies on technique and proper timing to shine. Tender sprouting broccoli is stir-fried with garlic, toasted pine nuts, and a hint of chilli. A splash of white wine adds acidity and complexity. The broccoli must stay al dente, retaining bite and bright green color. Shell pasta combines beautifully with this light style sauce.
+This vegetarian Italian pasta proves that the right technique matters more than complicated ingredients, tender sprouting broccoli stir-fried with garlic, pine nuts and chilli, finished with white wine and tossed with shell pasta. The broccoli stems chop into bite-sized pieces; tender florets stay whole. Stir-fry with garlic, toasted pine nuts and a hint of chilli flakes. A splash of white wine deglazes the pan for acidity and complexity. The broccoli must stay al dente, retaining bite and bright green colour. Shell pasta (orecchiette or conchiglie) catches the small bits beautifully. Serve with extra Parmesan and a drizzle of good olive oil.
 
 ## Ingredients
 

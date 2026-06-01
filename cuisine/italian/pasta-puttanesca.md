@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Anchovies dissolve into hot olive oil with garlic and chilli; tomatoes simmer briefly with capers and black olives; the lot tosses with hot spaghetti. Twenty minutes from cupboard to plate. The salty, savoury, briny depth comes from ingredients that keep almost forever.
+Puttanesca is the Roman pasta with the colourful name, a fast tomato sauce loaded with anchovies, capers, olives and chilli, the dish that turns up when nothing's left in the fridge except cupboard staples. Anchovies dissolve into hot olive oil with garlic and dried chilli; tinned tomatoes simmer briefly with capers and pitted black olives; the lot tosses with hot spaghetti. Twenty minutes from cupboard to plate. The salty, savoury, briny depth comes from ingredients that keep almost forever in the pantry. Serve with a generous scatter of fresh parsley and no cheese (the seafood elements don't want it).
 
 ## Ingredients
 

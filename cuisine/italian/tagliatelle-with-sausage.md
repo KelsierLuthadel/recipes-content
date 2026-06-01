@@ -11,7 +11,7 @@
 **Cook Time:** 4 minutes
 
 ## Overview
-This is rustic Italian cooking elevated to elegance. Sausage meat, freed from its casing and crumbled, browns deeply to build complex flavor. Porcini mushrooms, reconstituted in warm water and chopped, contribute their distinctive earthiness. Fresh rosemary provides brightness against the rich cream sauce. The combination is hearty, satisfying, and deeply flavorful.
+Tagliatelle with sausage and porcini is the rustic Italian autumn pasta, crumbled Italian sausage browned hard, dried porcini reconstituted in warm water, and a fragrant rosemary-cream sauce that ties everything together. Italian sausage freed from its casing crumbles into a hot pan and browns deeply to build complex flavour. Porcini mushrooms reconstitute in warm water; chop fine and add to the pan; the soaking liquid joins for deep mushroom flavour. Fresh rosemary provides brightness against the rich cream sauce. Toss with fresh egg tagliatelle and finish with a generous grating of Parmesan. The combination is hearty, satisfying, and deeply flavoured; the kind of dish you eat on a cold October evening.
 
 ## Ingredients
 

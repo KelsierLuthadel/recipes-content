@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Carnaroli or arborio rice toasts briefly in butter and oil with shallot, gets a splash of white wine to evaporate, then takes ladlefuls of warm saffron-infused stock until al dente. Off the heat, beaten with cold butter and parmesan to mantecare (emulsify) into a glossy, just-flowing risotto.
+Risotto alla milanese is the saffron-yellow Milanese rice dish, the side that traditionally accompanies osso buco, and the rice dish that proves Italian cooking is patient. Carnaroli or arborio rice toasts briefly in butter and oil with finely chopped shallot, gets a splash of white wine to evaporate, then takes ladlefuls of warm saffron-infused stock until al dente (about eighteen minutes of patient stirring and pouring). Off the heat, beat hard with cold cubed butter and grated Parmesan to mantecare, the emulsifying technique that gives the risotto its glossy, just-flowing texture. The proper test: the risotto should ripple like a wave when you shake the pan. Serve in shallow bowls; eat with a spoon.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-True spaghetti alla marinara celebrates the bounty of Naples' harbor. A rich tomato base simmers gently whilst fresh shellfish and seafood are seared and simmered separately, then folded into the sauce at the last moment. Each component maintains its distinct texture and flavor while harmonizing on the plate. This is sophisticated Italian bistro cooking at its finest.
+True spaghetti alla marinara celebrates the bounty of Naples' harbor, a rich tomato base simmered gently while fresh shellfish and seafood sear separately and fold into the sauce at the last moment. The tomato sauce simmers slowly with garlic, olive oil and a splash of white wine until thick and concentrated. Clams, mussels, prawns and squid sear separately in hot pans so each picks up colour without overcooking; they fold into the sauce at the last moment so each component maintains its distinct texture and flavour while harmonising on the plate. Toss with hot spaghetti; finish with fresh parsley. Sophisticated Italian bistro cooking at its finest.
 
 ## Ingredients
 

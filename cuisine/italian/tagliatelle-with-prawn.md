@@ -11,7 +11,7 @@
 **Cook Time:** 3 minutes
 
 ## Overview
-This is Italian elegance designed for romantic dinners. Fresh prawns, cooked at precisely the right moment to preserve their tender sweetness, meet a luxurious brandy-cream sauce enriched with toasted walnuts and brightened by balsamic vinegar and cherry tomatoes. The sauce is silky, the flavor sophisticated, the preparation surprisingly quick. Restaurant quality achieved at home.
+This is the Italian elegance pasta designed for romantic dinners, fresh prawns cooked at precisely the right moment to preserve their tender sweetness, met with a luxurious brandy-cream sauce. Prawns peel and devein; sear briefly in butter so the shells flavour the sauce. Brandy flames briefly; double cream and a splash of balsamic vinegar build the sauce. Toasted walnuts and halved cherry tomatoes fold through. Toss with fresh egg tagliatelle so the silky sauce coats each strand. The flavour is sophisticated, the preparation quicker than you'd guess, the result restaurant-quality at home. Serve with a glass of cold Pinot Grigio.
 
 ## Ingredients
 

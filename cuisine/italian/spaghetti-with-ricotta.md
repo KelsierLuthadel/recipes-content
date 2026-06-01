@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-This is pasta in its most elegant minimalist form. Ricotta cheese, warmed by fresh pasta and enriched with good olive oil, becomes a delicate sauce that clings to each strand. Toasted pine nuts add textural contrast and subtle sweetness, while sun-dried tomatoes provide concentrated flavor and color. The dish is perfect year-round as a simple first course or light main.
+Spaghetti with ricotta is the pasta in its most elegant minimalist form, fresh ricotta warmed by hot pasta and enriched with olive oil becomes a delicate sauce that clings to each strand. The ricotta must be fresh and creamy (not the dried block version); a splash of pasta cooking water loosens it to coating consistency when it hits the hot strands. Toasted pine nuts add textural contrast and subtle sweetness; sun-dried tomatoes provide concentrated flavour and the splash of red colour. Toss everything off the heat so the ricotta doesn't grain. Eat warm, year-round, as a simple first course or light main.
 
 ## Ingredients
 

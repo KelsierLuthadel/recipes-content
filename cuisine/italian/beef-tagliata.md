@@ -9,7 +9,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-Beef Tagliata is an elegant simplicity itself: thick-cut sirloin seared until a golden crust forms, rested to retain its juices, then sliced thin. The accompanying rosemary-infused oil with lemon zest and juice creates a sophisticated dressing that adds depth without heaviness, while peppery rocket and Parmesan shavings provide textural contrast. This is a dish that celebrates the quality of the beef and the importance of proper technique.
+Beef tagliata is the Tuscan trattoria classic, a thick-cut sirloin seared hot and sliced thin over a peppery rocket salad with shaved Parmesan and a rosemary-lemon oil. You sear a thick-cut sirloin in a smoking hot pan until a golden crust forms on each side; rest the meat hard so the juices redistribute, then slice thin across the grain. The accompanying rosemary-infused oil with lemon zest and juice dresses the slices; rocket and shaved Parmesan provide peppery crunch. Eat on a wide plate with a glass of Chianti.
 
 ## Ingredients
 

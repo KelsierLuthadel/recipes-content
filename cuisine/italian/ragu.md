@@ -11,7 +11,7 @@
 **Cook Time:** 4 minutes
 
 ## Overview
-True ragu demands patience, precision, and respect for the process. Ground beef (or a beef and pork mix) browns deeply in batches to build caramelization without steaming. Aromatic vegetables soften slowly until sweet. Tomato paste darkens and concentrates its flavor through caramelization. Red wine deglazes and cooks off. Then comes the long, gentle simmer, 1 hour 45 minutes to 2 hours, where flavors meld and deepen into something far greater than the sum of its parts. This is not a quick sauce; it is an investment in excellence.
+Ragù is the great Italian meat sauce, deeply browned beef (or beef-and-pork mix) slow-simmered with soffritto, wine and tomato into something dark and concentrated, the foundation of every Italian Sunday lunch. The dish demands patience, precision and respect for the process. Ground beef (or a beef and pork mix) browns deeply in batches to build caramelisation without steaming. Aromatic vegetables (onion, carrot, celery) soften slowly until sweet. Tomato paste darkens and concentrates its flavour through caramelisation. Red wine deglazes and cooks off. Then comes the long, gentle simmer, one hour forty-five minutes to two hours, where flavours meld and deepen into something far greater than the sum of its parts. This is not a quick sauce; it is an investment in excellence. Serve over fresh tagliatelle or pappardelle.
 
 ## Ingredients
 

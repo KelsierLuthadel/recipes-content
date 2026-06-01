@@ -11,7 +11,7 @@
 **Cook Time:** 4 minutes
 
 ## Overview
-This satisfying sauce combines golden-fried chicken breast strips with melting Dolcelatte cheese (a creamy Italian blue), double cream, and crisp white wine. The result is a rich, sophisticated sauce that clings to fresh pasta. Fresh chives bridge all the flavors with their subtle onion notes. (Gorgonzola can substitute if Dolcelatte is unavailable.)
+Fettuccine with chicken and Dolcelatte is the Italian-bistro classic that turns golden-fried chicken into a creamy blue-cheese pasta dish, a dinner that lands between rich and elegant. Chicken breast strips fry golden in butter; Dolcelatte (creamy Italian blue) and a splash of white wine join the pan along with double cream to make the sauce. The cheese melts into a velvety sauce that clings to fresh fettuccine. Fresh chives bridge all the flavours with their subtle onion notes. (Gorgonzola substitutes if Dolcelatte is unavailable.) Eat with a green salad and a glass of Pinot Grigio.
 
 ## Ingredients
 

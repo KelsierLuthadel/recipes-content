@@ -11,7 +11,7 @@
 **Cook Time:** 3 minutes
 
 ## Overview
-Chicken meatballs represent the healthier, lighter side of Italian comfort food. These tender spheres, bound with Parmesan and fresh herbs, nestle into a long-simmered tomato sauce that builds depth through patient cooking. The combination is less heavy than beef but more refined, with a subtlety that lets fresh basil and oregano shine. This is family cooking at its best.
+This is the chicken-meatball version of the great Italian-American comfort dinner, tender chicken meatballs bound with Parmesan and fresh herbs, nestled into a long-simmered tomato sauce. The meatballs combine chicken mince with grated Parmesan, breadcrumbs, fresh basil, oregano, garlic and an egg; rolled into walnut-sized balls and pan-browned for colour. A long-simmered tomato sauce builds depth through patient cooking; the meatballs simmer in the sauce for the last twenty minutes to absorb flavour. The combination is lighter than beef but more refined, with a subtlety that lets fresh basil and oregano shine. Serve over spaghetti with extra Parmesan.
 
 ## Ingredients
 

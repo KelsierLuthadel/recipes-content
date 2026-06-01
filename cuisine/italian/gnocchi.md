@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-These cloud-like gnocchi begin with whole, unpeeled potatoes baked until fluffy. When hot, they're passed through a ricer and built into a delicate dough with just flour and an egg yolk. The technique is straightforward but demands attention to detail: over-mixing creates dense, gluey gnocchi, while proper lightness produces tender pillows that absorb sauce beautifully.
+Gnocchi are the Italian potato dumplings, cloud-like pillows of potato dough that turn up on every northern Italian menu, from Friulano dinner tables to Roman Thursdays (giovedì gnocchi). Whole unpeeled potatoes bake at 200°C until fluffy. While still hot, they pass through a ricer and build into a delicate dough with just flour and an egg yolk. The technique is straightforward but demands attention: over-mixing creates dense, gluey gnocchi, while proper lightness produces tender pillows that absorb sauce beautifully. Roll into thin ropes and cut into 2 cm pieces. Boil briefly until they float (under a minute); toss with butter and sage, or with bolognese, or with anything you'd toss pasta in.
 
 ## Ingredients
 
