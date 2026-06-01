@@ -2,7 +2,7 @@
 
 ![Restaurant-Style Dhansak](resources/restaurant-style-dhansak.jpg)
 
-*Parsi-rooted curry-house standard built on lentils, with a sweet-and-sour finish from jaggery and lime — and pineapple chunks, if you side with the North on that particular debate.*
+*Parsi-rooted restaurant standard built on lentils, with a sweet-and-sour finish from jaggery and lime, and pineapple chunks, if you side with the North on that particular debate.*
 
 **Serves:** 1
 
@@ -11,9 +11,9 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Dhansak is a Parsi dish at heart, traditionally a slow-cooked stew of meat, lentils, and vegetables eaten on Sundays. The British curry-house version keeps the lentil core and the sweet-sour edge but rebuilds the dish around a [Curry Base Gravy](Base/curry-base.md) and a separately pre-cooked dhal that's spooned in late, so the lentils stay distinct rather than dissolving into the sauce.
+Dhansak is a Parsi dish at heart, traditionally a slow-cooked stew of meat, lentils, and vegetables eaten on Sundays. The British restaurant version keeps the lentil core and the sweet-sour edge but rebuilds the dish around a [Curry Base Gravy](Base/curry-base.md) and a separately pre-cooked dhal that's spooned in late, so the lentils stay distinct rather than dissolving into the sauce.
 
-The defining notes are the dhal (which gives the curry its characteristic thick, slightly nubbly body), jaggery for sweetness, and lime juice for sharpness. Pineapple chunks are the running BIR debate — universal in the North of England, divisive in the South, traditionalist Parsis would raise an eyebrow at either. Include them or skip; the dish works both ways.
+The defining notes are the dhal (which gives the curry its characteristic thick, slightly nubbly body), jaggery for sweetness, and lime juice for sharpness. Pineapple chunks are the running BIR debate, universal in the North of England, divisive in the South, traditionalist Parsis would raise an eyebrow at either. Include them or skip; the dish works both ways.
 
 A dhansak should land thick. The pre-cooked dhal contributes most of the body, so the three-pour gravy reduction concentrates flavour rather than thinning the sauce. The recipe takes 10 minutes once the dhal is ready; pre-cook a batch of lentils at the weekend and dhansak becomes a weeknight curry.
 
@@ -51,7 +51,7 @@ A dhansak should land thick. The pre-cooked dhal contributes most of the body, s
 
 ### Stage 1 - Temper
 1. Set a frying pan on medium-high heat and add the oil.
-2. When hot, add the ginger-garlic paste. Fry for 20 to 30 seconds, stirring constantly, until it starts to brown and the sizzling drops — the cue that the water content has cooked out and the paste is ready for spice.
+2. When hot, add the ginger-garlic paste. Fry for 20 to 30 seconds, stirring constantly, until it starts to brown and the sizzling drops, the cue that the water content has cooked out and the paste is ready for spice.
 
 ### Stage 2 - Bloom the spices
 1. Add the kasuri methi, mix powder, chilli powder, salt, and the split green cardamom pods.
@@ -72,20 +72,20 @@ A dhansak should land thick. The pre-cooked dhal contributes most of the body, s
 
 ### Stage 6 - Cook through
 1. Leave on high heat for 4 to 5 minutes with minimal interference.
-2. Let the sauce stick and caramelise on the sides and base of the pan — that's where a lot of the depth comes from. Stir and scrape only to prevent outright burning.
+2. Let the sauce stick and caramelise on the sides and base of the pan, that's where a lot of the depth comes from. Stir and scrape only to prevent outright burning.
 3. The dhansak will tighten noticeably as the dhal contributes its body. Add a splash more base gravy at the end if the sauce is thicker than you want.
 
 ### Stage 7 - Finish
 1. Stir in the optional ghee for extra richness and a glossy surface.
 2. Fish out the cardamom pods.
-3. When plating, scrape every last bit out of the pan — the crusty residue is some of the best flavour in the dish.
+3. When plating, scrape every last bit out of the pan, the crusty residue is some of the best flavour in the dish.
 4. Scatter the chopped coriander leaves over the top.
 
 ---
 
 ## Notes
 - Dhal really is the heart of this dish. Pre-cook a batch of lentils with turmeric and a pinch of salt before you start. Chana dhal, or a mix of chana and red lentils, gives you the classic texture. A simple dhal recipe is all you need here, because the dish gets its spice from the curry build, not from the lentils themselves.
-- The pineapple question is the running BIR argument and people get surprisingly heated about it. Northern English curry houses include it almost universally; Southern ones often leave it out. The fresh chunks bring sweet-tart pops that play beautifully with the lentils and the lime, but the dish stands up perfectly well without them. Your call.
+- The pineapple question is the running BIR argument and people get surprisingly heated about it. Northern English restaurants include it almost universally; Southern ones often leave it out. The fresh chunks bring sweet-tart pops that play beautifully with the lentils and the lime, but the dish stands up perfectly well without them. Your call.
 - I've dialled the salt back here because pre-cooked dhal usually carries its own seasoning. Taste before serving and add more if it needs it.
 - The final consistency should be properly thick: thicker than a madras, thinner than a chickpea curry. The dhal sets the floor, so don't worry if it looks dense.
 - And the usual: all spoon measurements are level. 1 tsp = 5 ml, 1 tbsp = 15 ml.
@@ -98,4 +98,4 @@ Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-R
 ---
 
 ## Storage
-Keeps 2 to 3 days in the fridge in a sealed container. The dhal continues to absorb sauce overnight so day-two dhansak is noticeably thicker — loosen with a splash of water or extra base gravy when reheating in a pan.
+Keeps 2 to 3 days in the fridge in a sealed container. The dhal continues to absorb sauce overnight so day-two dhansak is noticeably thicker, loosen with a splash of water or extra base gravy when reheating in a pan.

@@ -11,9 +11,9 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Bhuna and naga sit on opposite ends of the BIR temperament chart. A bhuna is defined by its texture: thick, glossy, deeply caramelised, with very little free sauce — the result of cooking the masala hard and reducing the base gravy aggressively. A naga curry is defined by its heat: fresh naga chilli (or Mr Naga pickle) and the resulting fruity, almost tropical chilli flavour that the bhuti family of chillies brings to a dish.
+Bhuna and naga sit on opposite ends of the BIR temperament chart. A bhuna is defined by its texture: thick, glossy, deeply caramelised, with very little free sauce, the result of cooking the masala hard and reducing the base gravy aggressively. A naga curry is defined by its heat: fresh naga chilli (or Mr Naga pickle) and the resulting fruity, almost tropical chilli flavour that the bhuti family of chillies brings to a dish.
 
-This recipe combines both. The structure is bhuna — three pours of base gravy, hard reduction, thick final consistency — but the heat profile is naga, courtesy of one or two fresh naga chillies (or a tablespoon of naga pickle) added with the tomato paste. Extra-hot or Deggi Mirch chilli powder backs it up, Kashmiri chilli adds colour, and tandoori masala lays a smoky undertone. A late spoon of yoghurt and mango chutney drop the dish from "punishing" to "intense but balanced".
+This recipe combines both. The structure is bhuna, three pours of base gravy, hard reduction, thick final consistency, but the heat profile is naga, courtesy of one or two fresh naga chillies (or a tablespoon of naga pickle) added with the tomato paste. Extra-hot or Deggi Mirch chilli powder backs it up, Kashmiri chilli adds colour, and tandoori masala lays a smoky undertone. A late spoon of yoghurt and mango chutney drop the dish from "punishing" to "intense but balanced".
 
 This is one of the hotter dishes on the BIR menu. Use the lower end of the chilli range if you're calibrating; the heat scales aggressively here.
 
@@ -45,7 +45,7 @@ This is one of the hotter dishes on the BIR menu. Use the lower end of the chill
 - 4 tbsp tomato paste
 - a pinch of red food colour powder (optional, cosmetic)
 - 1 tbsp finely chopped fresh coriander stalks
-- 1 to 2 fresh naga chillies, very finely chopped — or 1 tbsp naga pickle
+- 1 to 2 fresh naga chillies, very finely chopped, or 1 tbsp naga pickle
 - 175 to 200 g [Pre-Cooked Chicken](Base/pre-cooked-chicken.md), [Pre-Cooked Lamb](Base/pre-cooked-lamb.md), chicken tikka, or vegetables
 - 250 ml+ [Curry Base Gravy](Base/curry-base.md), heated through
 
@@ -68,7 +68,7 @@ This is one of the hotter dishes on the BIR menu. Use the lower end of the chill
 ### Stage 2 - Soften the aromatics
 1. Add the chopped onion and green pepper. Cook for 1 to 2 minutes, stirring often, until softened and slightly browned.
 2. After the first minute, add the sliced garlic so it browns gently rather than scorching.
-3. Add the ginger-garlic paste. Stir constantly until it just starts to brown and the sizzling sound drops — don't let it stick to the pan.
+3. Add the ginger-garlic paste. Stir constantly until it just starts to brown and the sizzling sound drops, don't let it stick to the pan.
 
 ### Stage 3 - Bloom the spices
 1. Add the mix powder, both chilli powders, tandoori masala, salt, and kasuri methi.
@@ -83,7 +83,7 @@ This is one of the hotter dishes on the BIR menu. Use the lower end of the chill
 1. Pour in 75 ml of base gravy. Stir once, then leave undisturbed for 30 to 45 seconds.
 2. Add a second 75 ml of base gravy. Stir, then leave on high heat with no further stirring until the sauce reduces and small dry craters form around the edges.
 3. Stir in the final 75 ml of base gravy along with the tomato segments.
-4. Cook on high heat for 4 to 5 minutes. Stir and scrape once or twice only to prevent burning — the caramelisation on the base and sides is the bhuna's defining flavour, so let it form.
+4. Cook on high heat for 4 to 5 minutes. Stir and scrape once or twice only to prevent burning, the caramelisation on the base and sides is the bhuna's defining flavour, so let it form.
 5. The dish should end up thick. If it tightens past where you want it, splash in a little more base gravy near the end; the final consistency is firmly on the dry side.
 
 ### Stage 6 - Yoghurt and mango finish
@@ -109,7 +109,7 @@ This is one of the hotter dishes on the BIR menu. Use the lower end of the chill
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati. A piece of naan and a generous bowl of cooling raita are sensible companions — milk and yoghurt are the real rescue when the naga heat overwhelms.
+Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati. A piece of naan and a generous bowl of cooling raita are sensible companions, milk and yoghurt are the real rescue when the naga heat overwhelms.
 
 ---
 

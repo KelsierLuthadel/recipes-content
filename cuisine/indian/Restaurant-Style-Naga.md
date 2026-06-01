@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A specialist dish from the hotter end of the BIR menu, defined by Mr Naga — the fermented chilli pickle made from Bhut Jolokia and related super-hots. The pickle goes in late so its fruity, slightly funky character survives the cook; honey or jaggery joins it at the end to soften the edge and pull the dish out of brute-force territory.
+A specialist dish from the hotter end of the BIR menu, defined by Mr Naga, the fermented chilli pickle made from Bhut Jolokia and related super-hots. The pickle goes in late so its fruity, slightly funky character survives the cook; honey or jaggery joins it at the end to soften the edge and pull the dish out of brute-force territory.
 
 The base build is standard restaurant practice: cumin in hot oil, ginger-garlic paste, chilli powder and [Mix Powder](Spice-Mixes/mixed-powder.md) tempered with a splash of [Curry Base Gravy](Base/curry-base.md), then tomato paste cooked back to oil-separation before the [Pre-Cooked Chicken](Base/pre-cooked-chicken.md) (or [Pre-Cooked Lamb](Base/pre-cooked-lamb.md), or vegetables) joins the pan. The remainder of the base gravy goes in three additions so the sauce reduces and caramelises in waves.
 
@@ -72,7 +72,7 @@ The base build is standard restaurant practice: cumin in hot oil, ginger-garlic 
 
 ### Stage 5 - Naga and balance
 1. About halfway through Stage 4's final cook, stir in the Mr Naga pickle and the fresh naga chilli if using.
-2. Thin with a little extra base gravy if the sauce tightens too far. Stir and scrape any caramelisation back into the sauce once or twice — more than that and you risk burning.
+2. Thin with a little extra base gravy if the sauce tightens too far. Stir and scrape any caramelisation back into the sauce once or twice, more than that and you risk burning.
 3. Taste cautiously a minute before the end. Stir in the honey, jaggery, or brown sugar; the sweetness rounds the sharpness of the Mr Naga without dulling the heat.
 
 ### Stage 6 - Plate
@@ -94,4 +94,4 @@ Pile onto [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-R
 ---
 
 ## Storage
-Keeps 2 to 3 days in the fridge in a sealed container. The heat mellows slightly overnight and the flavours round out — many BIR cooks consider day-two naga the better version. Reheat gently with a splash of water to loosen.
+Keeps 2 to 3 days in the fridge in a sealed container. The heat mellows slightly overnight and the flavours round out, many BIR cooks consider day-two naga the better version. Reheat gently with a splash of water to loosen.

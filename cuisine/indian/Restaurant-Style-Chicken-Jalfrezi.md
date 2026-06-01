@@ -2,7 +2,7 @@
 
 ![Restaurant-Style Chicken Jalfrezi](resources/restaurant-style-jalfrezi.jpg)
 
-*A medium-hot BIR classic defined by scorched onion and pepper chunks, sliced green chillies, and fresh tomato quarters folded into a thick masala — green-pepper-flecked, vegetable-forward, and unmistakable.*
+*A medium-hot BIR classic defined by scorched onion and pepper chunks, sliced green chillies, and fresh tomato quarters folded into a thick masala, green-pepper-flecked, vegetable-forward, and unmistakable.*
 
 **Serves:** 1
 
@@ -11,9 +11,9 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-The jalfrezi is one of the defining BIR curries — found on every curry-house menu in the country and arguably the most distinctive dish in the category. What sets it apart isn't the spice mix (which is fairly standard) but the texture: large pieces of scorched onion and pepper, sliced fresh green chillies, and fresh tomato wedges all stay identifiable in the finished dish rather than dissolving into the sauce. That vegetable bulk is part of the body, not just garnish.
+The jalfrezi is one of the defining BIR curries, found on every restaurant menu in the country and arguably the most distinctive dish in the category. What sets it apart isn't the spice mix (which is fairly standard) but the texture: large pieces of scorched onion and pepper, sliced fresh green chillies, and fresh tomato wedges all stay identifiable in the finished dish rather than dissolving into the sauce. That vegetable bulk is part of the body, not just garnish.
 
-The technique that makes a jalfrezi a jalfrezi is the upfront scorch — same idea as a dopiaza but with both onion and pepper hit hard on the highest heat the hob will give. Done right, the chunks come out almost charred on the outside and still bright inside, carrying a deep smoky note that builds into the sauce when they go back into the pan with the final gravy pour.
+The technique that makes a jalfrezi a jalfrezi is the upfront scorch, same idea as a dopiaza but with both onion and pepper hit hard on the highest heat the hob will give. Done right, the chunks come out almost charred on the outside and still bright inside, carrying a deep smoky note that builds into the sauce when they go back into the pan with the final gravy pour.
 
 Heat is medium-hot, mostly from the sliced green chillies stirred in late rather than dry powder. Tandoori masala layers a smoky undertone that pairs with the scorched vegetables. The dish should end up thick, with the vegetables forming most of the body and the sauce clinging rather than pooling.
 
@@ -59,14 +59,14 @@ Heat is medium-hot, mostly from the sliced green chillies stirred in late rather
 ## Method
 
 ### Stage 1 - Prep the vegetables
-1. Halve the onion widthways. Cut the half you're using into 6 segments — think of an onion half as a pizza. Separate the layers of each segment.
+1. Halve the onion widthways. Cut the half you're using into 6 segments, think of an onion half as a pizza. Separate the layers of each segment.
 2. Cut the red and green pepper into 3 cm chunks.
 3. Place the onion segments and pepper chunks in a container. Sprinkle with 0.5 tsp kasuri methi and a tiny pinch of salt. Toss to coat.
 
 ### Stage 2 - Scorch
 1. Set a frying pan or wok on the highest heat the hob will give. Add 2 tsp of oil.
 2. When the oil starts smoking, add the onion and pepper chunks.
-3. Scorch-fry, stirring frequently to avoid burning, until the vegetables are well browned on the outside and emit a deep smoky aroma — a couple of minutes.
+3. Scorch-fry, stirring frequently to avoid burning, until the vegetables are well browned on the outside and emit a deep smoky aroma, a couple of minutes.
 4. Tip back into the container. Put a lid on if you want softer vegetables in the curry; leave uncovered for more bite.
 
 ### Stage 3 - Temper
@@ -76,7 +76,7 @@ Heat is medium-hot, mostly from the sliced green chillies stirred in late rather
 ### Stage 4 - Bloom the spices
 1. Add the remaining kasuri methi, chilli powder, mix powder, garam masala, tandoori masala, and salt.
 2. Fry for 20 to 30 seconds, stirring frequently.
-3. Splash in about 30 ml of base gravy if the spices start sticking — they need a touch of liquid to cook through properly.
+3. Splash in about 30 ml of base gravy if the spices start sticking, they need a touch of liquid to cook through properly.
 
 ### Stage 5 - Tomato base
 1. Turn the heat to high. Add the tomato paste, the coriander stalks, and the pre-cooked chicken (or chosen main).
@@ -88,7 +88,7 @@ Heat is medium-hot, mostly from the sliced green chillies stirred in late rather
 2. Add a second 75 ml of base gravy. Stir and scrape once when it goes in, then leave to reduce again.
 3. Add the scorched onion and pepper chunks, the sliced green chillies, and the fresh tomato quarters.
 4. Immediately pour in the final 150 ml of base gravy. Stir and scrape once.
-5. Cook on high heat for 4 to 5 minutes. Let the sauce stick to the pan; the thickened residue is part of the BIR character. Stir and scrape only when needed to prevent burning — be brave with the cook time.
+5. Cook on high heat for 4 to 5 minutes. Let the sauce stick to the pan; the thickened residue is part of the BIR character. Stir and scrape only when needed to prevent burning, be brave with the cook time.
 6. Add a splash more base gravy at the end to loosen the sauce slightly. A jalfrezi should end up thick, with the vegetables carrying most of the body.
 
 ### Stage 7 - Plate

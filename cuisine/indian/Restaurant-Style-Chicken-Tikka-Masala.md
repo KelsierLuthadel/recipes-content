@@ -2,7 +2,7 @@
 
 ![Restaurant-Style Chicken Tikka Masala](resources/restaurant-style-chicken-tikka-masala.jpg)
 
-*The UK curry-house signature: pre-marinated chicken tikka in a creamy, mildly-spiced tomato sauce thickened with coconut and almond powders, sweetened with jaggery, and finished with single cream.*
+*The UK restaurant signature: pre-marinated chicken tikka in a creamy, mildly-spiced tomato sauce thickened with coconut and almond powders, sweetened with jaggery, and finished with single cream.*
 
 **Serves:** 1
 
@@ -11,11 +11,11 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Chicken tikka masala is — depending on which origin story you believe — either Glasgow's mid-1970s answer to British diners demanding gravy on their dry tandoori chicken, or a long-standing Punjabi dish that simply migrated. Either way, it became Britain's de facto national curry and the benchmark mild-creamy dish on every BIR menu in the country.
+Chicken tikka masala is, depending on which origin story you believe, either Glasgow's mid-1970s answer to British diners demanding gravy on their dry tandoori chicken, or a long-standing Punjabi dish that simply migrated. Either way, it became Britain's de facto national curry and the benchmark mild-creamy dish on every BIR menu in the country.
 
 The build is more layered than most BIR curries. Five tablespoons of tomato paste do most of the colour work; tandoori masala goes in *after* the tomato (an unusual late position) so it carries the chicken-tikka flavour profile into the sauce; coconut and almond powders both go in with the gravy to thicken and sweeten the body; jaggery adds the unmistakable BIR sweetness; single cream finishes on low heat to round the edges without splitting. The result is the familiar bright orange-red sauce that's mildly spiced, distinctly sweet, and rich enough to coat each piece of tikka without becoming a korma.
 
-The chicken should genuinely be tikka — pre-marinated and char-grilled — for this to read as the proper dish rather than a creamy chicken curry. [Pre-Cooked Chicken](Base/pre-cooked-chicken.md) substitutes acceptably but loses the smoky chargrill note that the tomato base is built to amplify.
+The chicken should genuinely be tikka, pre-marinated and char-grilled, for this to read as the proper dish rather than a creamy chicken curry. [Pre-Cooked Chicken](Base/pre-cooked-chicken.md) substitutes acceptably but loses the smoky chargrill note that the tomato base is built to amplify.
 
 ---
 
@@ -32,7 +32,7 @@ The chicken should genuinely be tikka — pre-marinated and char-grilled — for
 - 0.25 to 0.5 tsp salt
 
 ### Tomato Base
-- 5 tbsp tomato paste (double-concentrated puree diluted 1:3, blended tinned plum tomatoes, or passata — see Notes)
+- 5 tbsp tomato paste (double-concentrated puree diluted 1:3, blended tinned plum tomatoes, or passata, see Notes)
 - 200 g pre-cooked chicken tikka (or [Pre-Cooked Chicken](Base/pre-cooked-chicken.md), [Pre-Cooked Lamb](Base/pre-cooked-lamb.md), prawns)
 - 1.5 tsp lemon juice
 
@@ -56,7 +56,7 @@ The chicken should genuinely be tikka — pre-marinated and char-grilled — for
 
 ### Stage 1 - Toast the almonds
 1. If using the flaked almonds, set a dry frying pan on medium heat.
-2. Toast the almonds for 1 to 2 minutes, shaking the pan, until lightly browned. Don't wander — they go from golden to burnt fast.
+2. Toast the almonds for 1 to 2 minutes, shaking the pan, until lightly browned. Don't wander, they go from golden to burnt fast.
 3. Tip out onto a plate and set aside.
 
 ### Stage 2 - Temper
@@ -67,7 +67,7 @@ The chicken should genuinely be tikka — pre-marinated and char-grilled — for
 ### Stage 3 - Bloom the spices
 1. Add the mix powder, garam masala, and salt.
 2. Fry for 20 to 30 seconds, stirring diligently.
-3. Splash in a little base gravy if the powdered spices start sticking — they need a touch of liquid to cook through properly.
+3. Splash in a little base gravy if the powdered spices start sticking, they need a touch of liquid to cook through properly.
 
 ### Stage 4 - Tomato base and chicken
 1. Turn the heat up. Add the tomato paste.
@@ -105,7 +105,7 @@ The chicken should genuinely be tikka — pre-marinated and char-grilled — for
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md), plain basmati, or a peshwari naan — the coconut-almond stuffing of a peshwari plays particularly well with the dish's own coconut-almond base. A side of plain raita and a wedge of lemon round the plate.
+Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md), plain basmati, or a peshwari naan, the coconut-almond stuffing of a peshwari plays particularly well with the dish's own coconut-almond base. A side of plain raita and a wedge of lemon round the plate.
 
 ---
 

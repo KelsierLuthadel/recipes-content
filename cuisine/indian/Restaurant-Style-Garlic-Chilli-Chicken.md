@@ -11,9 +11,9 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Garlic chilli chicken sits in the medium-hot end of the BIR menu, distinguished by two things: heavily browned sliced garlic going in early alongside the onion, and a generous handful of whole (or split) fresh thin green chillies joining the sauce late so they keep their bite. Six cloves of garlic sliced thin gives the dish a sweet, nutty depth as they caramelise — quite different to the more neutral ginger-garlic paste that does the standard background work in every BIR build.
+Garlic chilli chicken sits in the medium-hot end of the BIR menu, distinguished by two things: heavily browned sliced garlic going in early alongside the onion, and a generous handful of whole (or split) fresh thin green chillies joining the sauce late so they keep their bite. Six cloves of garlic sliced thin gives the dish a sweet, nutty depth as they caramelise, quite different to the more neutral ginger-garlic paste that does the standard background work in every BIR build.
 
-The build is otherwise a familiar three-pour [Curry Base Gravy](Base/curry-base.md) reduction, but with a star anise tempered in the oil for a faintly liquorice undertone and coconut in two forms (powder + milk) joining the sauce in different stages to give a soft, slightly sweet backdrop that holds the chilli heat. Mango chutney goes in late only if the dish wants sweetening — taste before adding.
+The build is otherwise a familiar three-pour [Curry Base Gravy](Base/curry-base.md) reduction, but with a star anise tempered in the oil for a faintly liquorice undertone and coconut in two forms (powder + milk) joining the sauce in different stages to give a soft, slightly sweet backdrop that holds the chilli heat. Mango chutney goes in late only if the dish wants sweetening, taste before adding.
 
 The dish reads garlic-first, with the chilli following a beat behind. Eat it warm rather than hot from the pan; the garlic flavour comes through more cleanly once the heat settles slightly.
 
@@ -61,13 +61,13 @@ The dish reads garlic-first, with the chilli following a beat behind. Eat it war
 
 ### Stage 2 - Brown the garlic and onion
 1. Add the chopped onion and the sliced garlic cloves.
-2. Cook for 1 to 2 minutes, stirring frequently, until the onion is translucent and the garlic slices are nicely browned at the edges. The garlic browning is the dish — push it as far as you can without scorching.
+2. Cook for 1 to 2 minutes, stirring frequently, until the onion is translucent and the garlic slices are nicely browned at the edges. The garlic browning is the dish, push it as far as you can without scorching.
 3. Add the ginger-garlic paste. Stir for about 30 seconds, until it just starts to brown and the sizzling sound drops.
 
 ### Stage 3 - Bloom the spices
 1. Add the kasuri methi, chilli powder, mix powder, garam masala, and salt.
 2. Fry for 20 to 30 seconds, stirring very frequently.
-3. Splash in about 30 ml of base gravy if the mixture starts drying out and sticking — the spices need a touch of liquid to cook through without burning.
+3. Splash in about 30 ml of base gravy if the mixture starts drying out and sticking, the spices need a touch of liquid to cook through without burning.
 
 ### Stage 4 - Tomato base
 1. Turn the heat to high. Add the tomato paste.
@@ -80,12 +80,12 @@ The dish reads garlic-first, with the chilli following a beat behind. Eat it war
 
 ### Stage 6 - Coconut milk and chillies
 1. Pour in the final 100 ml of base gravy along with the coconut milk and the fresh green chillies. Stir and scrape once when first added.
-2. Cook on high heat for 4 to 5 minutes. Stir and scrape only when needed to prevent burning — the caramelisation on the base and sides is part of the flavour.
+2. Cook on high heat for 4 to 5 minutes. Stir and scrape only when needed to prevent burning, the caramelisation on the base and sides is part of the flavour.
 3. Add a splash more base gravy if the sauce tightens past where you want it.
 
 ### Stage 7 - Finish
 1. About 30 seconds before the end, stir in the chopped coriander leaves.
-2. Taste. Add 1 to 2 tsp of mango chutney if you want a touch of sweetness — the dish often doesn't need it, since the caramelised base gravy and coconut already bring rounded notes.
+2. Taste. Add 1 to 2 tsp of mango chutney if you want a touch of sweetness, the dish often doesn't need it, since the caramelised base gravy and coconut already bring rounded notes.
 3. Fish out the star anise.
 4. Spoon off excess oil from the surface if you prefer a less rich finish.
 5. Plate up and scatter the extra coriander on top.

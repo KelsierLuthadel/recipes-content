@@ -11,9 +11,9 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-"Adrak" is Hindi for ginger, and this curry treats the root not just as a base aromatic (where it normally sits in ginger-garlic paste) but as a distinct ingredient. Just over a tablespoon of fresh ginger goes in cubed rather than minced, so the pieces stay identifiable as you eat — bright, hot, slightly fibrous chunks dotted through a medium-spiced sauce. A small reserve of ginger gets held back for the plate, layering a final raw note over the cooked dish.
+"Adrak" is Hindi for ginger, and this curry treats the root not just as a base aromatic (where it normally sits in ginger-garlic paste) but as a distinct ingredient. Just over a tablespoon of fresh ginger goes in cubed rather than minced, so the pieces stay identifiable as you eat, bright, hot, slightly fibrous chunks dotted through a medium-spiced sauce. A small reserve of ginger gets held back for the plate, layering a final raw note over the cooked dish.
 
-The build is otherwise familiar BIR territory: cassia, green cardamom seeds, optional star anise or fennel, softened onion and green pepper, [Mix Powder](Spice-Mixes/mixed-powder.md), three-pour [Curry Base Gravy](Base/curry-base.md). What pushes the dish past simple "ginger curry" is the fruit pairing — pineapple chunks (optional but recommended) and mango chutney both go in with the final gravy pour, giving the sauce a sweet-tart edge that plays well against the pungent ginger.
+The build is otherwise familiar BIR territory: cassia, green cardamom seeds, optional star anise or fennel, softened onion and green pepper, [Mix Powder](Spice-Mixes/mixed-powder.md), three-pour [Curry Base Gravy](Base/curry-base.md). What pushes the dish past simple "ginger curry" is the fruit pairing, pineapple chunks (optional but recommended) and mango chutney both go in with the final gravy pour, giving the sauce a sweet-tart edge that plays well against the pungent ginger.
 
 Use the freshest ginger you can get. Older, fibrous ginger turns stringy in the half-centimetre cubes; young ginger with thin skin is the ideal.
 
@@ -22,7 +22,7 @@ Use the freshest ginger you can get. Older, fibrous ginger turns stringy in the 
 ## Ingredients
 
 ### Tempering
-- 4 tbsp oil or ghee (60 ml) — butter ghee or vegetable ghee in part rounds the flavour
+- 4 tbsp oil or ghee (60 ml), butter ghee or vegetable ghee in part rounds the flavour
 - 10 cm cassia bark
 - seeds from 3 green cardamom pods (discard the outer pods)
 - 1 star anise, or 1 tsp fennel seeds (optional)
@@ -64,12 +64,12 @@ Use the freshest ginger you can get. Older, fibrous ginger turns stringy in the 
 
 ### Stage 2 - Soften the aromatics
 1. Add the sliced onion and the pepper triangles. Fry for about 2 minutes, stirring often, until the onion softens and just starts to brown.
-2. Add the ginger-garlic paste and most of the cubed fresh ginger — keep about a third back for the garnish.
+2. Add the ginger-garlic paste and most of the cubed fresh ginger, keep about a third back for the garnish.
 3. Fry for 15 to 30 seconds, stirring frequently, until the sizzling drops.
 
 ### Stage 3 - Bloom the spices
 1. Add the kasuri methi, mix powder, garam masala, Kashmiri chilli powder, and salt.
-2. Splash in about 30 ml of base gravy if the mixture starts drying out — the spices need a touch of liquid to cook through without scorching.
+2. Splash in about 30 ml of base gravy if the mixture starts drying out, the spices need a touch of liquid to cook through without scorching.
 3. Fry for 20 to 30 seconds, stirring constantly.
 
 ### Stage 4 - Tomato base
@@ -80,7 +80,7 @@ Use the freshest ginger you can get. Older, fibrous ginger turns stringy in the 
 1. Pour in 75 ml of base gravy. Stir once, then leave undisturbed on high heat until the sauce reduces and small craters return around the edges.
 2. Add a second 75 ml of base gravy. Stir and scrape once when it goes in, then leave to reduce again.
 3. Pour in the final 150 ml of base gravy along with the mango chutney, lemon or lime juice, and the optional pineapple chunks. Stir and scrape once.
-4. Cook on high heat for 4 to 5 minutes. Stir and scrape only when needed to prevent burning — the caramelisation on the base and sides is part of the flavour.
+4. Cook on high heat for 4 to 5 minutes. Stir and scrape only when needed to prevent burning, the caramelisation on the base and sides is part of the flavour.
 5. Add a splash more base gravy if the sauce tightens past the medium-thick consistency you want.
 
 ### Stage 6 - Finish

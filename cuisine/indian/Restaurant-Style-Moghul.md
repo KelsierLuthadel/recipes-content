@@ -11,9 +11,9 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Moghul (sometimes spelled Mughal or Mughlai) curries trace back to the imperial kitchens of the Mughal Empire, where dishes were defined by nuts, dried fruit, dairy, and the warm-but-restrained spicing of cassia, clove, and green cardamom. The British curry-house version keeps the same DNA but builds on a [Curry Base Gravy](Base/curry-base.md) and finishes with a glug of single cream, putting it squarely in the mild-to-medium end of the menu next to korma and pasanda.
+Moghul (sometimes spelled Mughal or Mughlai) curries trace back to the imperial kitchens of the Mughal Empire, where dishes were defined by nuts, dried fruit, dairy, and the warm-but-restrained spicing of cassia, clove, and green cardamom. The British restaurant version keeps the same DNA but builds on a [Curry Base Gravy](Base/curry-base.md) and finishes with a glug of single cream, putting it squarely in the mild-to-medium end of the menu next to korma and pasanda.
 
-The defining ingredients are ground almonds (for body and a faintly nutty sweetness), sugar (because the dish reads sweet by design), and the whole spices toasted in oil at the start. Worcestershire sauce sneaks in as a savoury counterweight if you want it; sultanas add pockets of jammy sweetness; a hard-boiled egg sliced over the top is the traditional curry-house finish and worth the extra step.
+The defining ingredients are ground almonds (for body and a faintly nutty sweetness), sugar (because the dish reads sweet by design), and the whole spices toasted in oil at the start. Worcestershire sauce sneaks in as a savoury counterweight if you want it; sultanas add pockets of jammy sweetness; a hard-boiled egg sliced over the top is the traditional restaurant finish and worth the extra step.
 
 ---
 
@@ -95,7 +95,7 @@ The defining ingredients are ground almonds (for body and a faintly nutty sweetn
 - The ground almonds really carry the body of this one. Please don't try to substitute almond essence or chopped nuts. The powder dissolves into the sauce in a way that the alternatives just can't replicate.
 - The whole spices stay in the pan all the way through, quietly doing their infusing thing. Do remember to fish them out before serving so nobody bites down on a clove.
 - Single cream is the standard BIR choice for this. Double cream works fine, but it'll push the dish into proper korma-level richness. Coconut cream takes you in a completely different direction and isn't really what we're after here.
-- The hard-boiled egg garnish reads as a bit of old-school curry-house theatre, but it really is traditional, and the cool egg against the warm sauce is genuinely lovely. Worth the extra five minutes.
+- The hard-boiled egg garnish reads as a bit of old-school restaurant theatre, but it really is traditional, and the cool egg against the warm sauce is genuinely lovely. Worth the extra five minutes.
 - And the usual: all spoon measurements are level. 1 tsp = 5 ml, 1 tbsp = 15 ml.
 
 ---

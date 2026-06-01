@@ -11,9 +11,9 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-"Laal" is Hindi for red, and the dish lives up to the name. Two and a half tablespoons of unsmoked paprika and a heaped tablespoon of Kashmiri chilli powder turn the sauce a vivid brick red. The heat is medium — most of the colour comes from paprika and Kashmiri, which contribute more pigment than punch — and the build sits in jalfrezi territory rather than vindaloo. A late dollop of yoghurt and a wedge of green chilli to garnish cut through the rich tomato-paprika base.
+"Laal" is Hindi for red, and the dish lives up to the name. Two and a half tablespoons of unsmoked paprika and a heaped tablespoon of Kashmiri chilli powder turn the sauce a vivid brick red. The heat is medium, most of the colour comes from paprika and Kashmiri, which contribute more pigment than punch, and the build sits in jalfrezi territory rather than vindaloo. A late dollop of yoghurt and a wedge of green chilli to garnish cut through the rich tomato-paprika base.
 
-The dish is unusual within the BIR canon in two ways. First, the seed temper is more elaborate than most: cumin alongside optional black mustard seeds and nigella (kalonjee), each contributing a different aromatic note. Second, the recipe runs raw or pre-cooked chicken interchangeably — useful when you want to skip the [Pre-Cooked Chicken](Base/pre-cooked-chicken.md) step, though the build needs a couple of extra minutes in Stage 4 to cook the chicken through if going raw.
+The dish is unusual within the BIR canon in two ways. First, the seed temper is more elaborate than most: cumin alongside optional black mustard seeds and nigella (kalonjee), each contributing a different aromatic note. Second, the recipe runs raw or pre-cooked chicken interchangeably, useful when you want to skip the [Pre-Cooked Chicken](Base/pre-cooked-chicken.md) step, though the build needs a couple of extra minutes in Stage 4 to cook the chicken through if going raw.
 
 ---
 
@@ -39,7 +39,7 @@ The dish is unusual within the BIR canon in two ways. First, the seed temper is 
 
 ### Sauce
 - 4 to 5 tbsp tomato paste
-- 175 to 200 g chicken — raw, or [Pre-Cooked Chicken](Base/pre-cooked-chicken.md)
+- 175 to 200 g chicken, raw, or [Pre-Cooked Chicken](Base/pre-cooked-chicken.md)
 - 330 ml+ [Curry Base Gravy](Base/curry-base.md), heated through
 - 1 tbsp fresh lemon juice
 
@@ -62,7 +62,7 @@ The dish is unusual within the BIR canon in two ways. First, the seed temper is 
 
 ### Stage 2 - Bloom the spices
 1. Add the mix powder, kasuri methi, Kashmiri chilli powder, regular chilli powder, paprika, smoked paprika (if using), salt, and ground black pepper.
-2. Splash in a little base gravy (about 30 ml) — paprika in particular is prone to burning at this volume without a touch of liquid.
+2. Splash in a little base gravy (about 30 ml), paprika in particular is prone to burning at this volume without a touch of liquid.
 3. Stir constantly for 20 to 30 seconds, working the flat of the spoon across the base of the pan.
 
 ### Stage 3 - Tomato base and chicken

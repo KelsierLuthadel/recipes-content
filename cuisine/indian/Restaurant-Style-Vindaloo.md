@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-The British curry-house vindaloo descends from Goan vindalho (which itself came from Portuguese carne de vinha d'alhos), and the lineage shows in the two non-negotiables: vinegar and chilli. The Goan original leans on coconut, jaggery, and whole-spice paste; the BIR version simplifies the spice work, swaps in [Curry Base Gravy](Base/curry-base.md), and adds tomato ketchup as a stabiliser for the sweet-sour balance. The result reads as one of the hottest dishes on the menu but should still taste structured — sour from the vinegar, fruity from the Kashmiri chilli, with a baseline of warmth from black pepper and garam masala.
+The British restaurant vindaloo descends from Goan vindalho (which itself came from Portuguese carne de vinha d'alhos), and the lineage shows in the two non-negotiables: vinegar and chilli. The Goan original leans on coconut, jaggery, and whole-spice paste; the BIR version simplifies the spice work, swaps in [Curry Base Gravy](Base/curry-base.md), and adds tomato ketchup as a stabiliser for the sweet-sour balance. The result reads as one of the hottest dishes on the menu but should still taste structured, sour from the vinegar, fruity from the Kashmiri chilli, with a baseline of warmth from black pepper and garam masala.
 
 A two-chilli build is what gives this dish its colour. Kashmiri chilli powder carries most of the red and a moderate heat; regular chilli powder layers the bite on top. The three-pour base gravy reduction concentrates everything into a thick, glossy sauce that should cling to the meat rather than pool around it.
 
@@ -79,9 +79,9 @@ A two-chilli build is what gives this dish its colour. Kashmiri chilli powder ca
 ---
 
 ## Notes
-- The vinegar really isn't an afterthought, it's the dish. Use one that tastes clean. Malt is the traditional UK curry-house choice, but cider or white wine vinegar will give you a slightly fruitier finish if that appeals more.
+- The vinegar really isn't an afterthought, it's the dish. Use one that tastes clean. Malt is the traditional UK restaurant choice, but cider or white wine vinegar will give you a slightly fruitier finish if that appeals more.
 - That tablespoon of Kashmiri chilli powder is what gets you the deep red colour without dialling the heat into orbit. Please don't be tempted to swap it for extra regular chilli powder. You'll just end up with a duller, more one-note hot curry.
-- Some curry houses throw in a few chunks of pre-boiled potato towards the end of Stage 4. Waxy varieties hold their shape best if you fancy giving them a go. Skip them if you want the classic meat-only version.
+- Some restaurants throw in a few chunks of pre-boiled potato towards the end of Stage 4. Waxy varieties hold their shape best if you fancy giving them a go. Skip them if you want the classic meat-only version.
 - The optional sugar quietly balances the vinegar. If you're using a sharp malt vinegar, I'd really encourage you to add it.
 - And the usual: all spoon measurements are level. 1 tsp = 5 ml, 1 tbsp = 15 ml.
 

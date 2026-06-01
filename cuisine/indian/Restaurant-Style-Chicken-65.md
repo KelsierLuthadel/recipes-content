@@ -20,7 +20,7 @@ Eat immediately. Chicken 65 loses what makes it great as soon as the batter soft
 
 ## Ingredients
 
-### Battered Chicken — Marinade
+### Battered Chicken, Marinade
 - 400 g chicken breast, thigh, or leg (cleaned, boneless, skinless), cut into 2 to 3 cm pieces
 - 1.5 tsp ginger-garlic paste
 - 1 tsp lemon juice
@@ -31,34 +31,34 @@ Eat immediately. Chicken 65 loses what makes it great as soon as the batter soft
 - 1 tsp paprika
 - 1.5 tsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md) powder, or 1 tsp tandoori masala paste (commercial)
 
-### Battered Chicken — Coating
+### Battered Chicken, Coating
 - 3 to 4 tbsp cornflour
 - 1 tbsp all-purpose flour
 - a splash of water
 - oil for deep-frying (about 1 litre, depending on pan size)
 
-### Sauce — Tempering
+### Sauce, Tempering
 - 3 tbsp oil (45 ml)
 - 0.75 tsp cumin seeds
 - 0.5 tsp mustard seeds
 - 1 tbsp fresh curry leaves, or 2 tbsp dried (optional but recommended)
 
-### Sauce — Aromatics
+### Sauce, Aromatics
 - 80 g onion, finely diced
 - 40 g green pepper, finely diced
 - 1.5 tsp ginger-garlic paste
 
-### Sauce — Spice
+### Sauce, Spice
 - 1 tsp kasuri methi
 - 1.5 tsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md) powder, or 1 tsp paste
 - 0.25 to 0.5 tsp turmeric
 - 1 tsp ground coriander (freshly toasted and ground is best)
-- 1 tsp curry powder (mild Madras-style works well — see [Madrass Mix](Spice-Mixes/madrass-mix.md))
+- 1 tsp curry powder (mild Madras-style works well, see [Madrass Mix](Spice-Mixes/madrass-mix.md))
 - 1 tsp paprika
 - 1 tsp Kashmiri chilli powder
 - 0.25 tsp salt
 
-### Sauce — Glaze and Finish
+### Sauce, Glaze and Finish
 - 2.5 tbsp tomato ketchup
 - 1 tsp dark soy sauce
 - 1 tsp lemon juice
@@ -84,12 +84,12 @@ Eat immediately. Chicken 65 loses what makes it great as soon as the batter soft
 
 ### Stage 2 - Batter
 1. Add the cornflour and plain flour to the marinated chicken bowl.
-2. Add a small splash of water and stir well — you want a very thick paste that clings to every piece.
+2. Add a small splash of water and stir well, you want a very thick paste that clings to every piece.
 3. If it looks too wet, add a little more cornflour. If too dry to coat, add a teaspoon of water at a time.
 
 ### Stage 3 - Deep-fry
-1. Heat the oil in a medium-large heavy-based pan (no more than half-full) to 170 to 180°C. A thermometer or temperature gun is genuinely useful here; without one, drop in a small piece of batter — it should sizzle vigorously and brown in about 90 seconds.
-2. Carefully lower in the chicken pieces in batches — overcrowding drops the oil temperature and gives soggy results.
+1. Heat the oil in a medium-large heavy-based pan (no more than half-full) to 170 to 180°C. A thermometer or temperature gun is genuinely useful here; without one, drop in a small piece of batter, it should sizzle vigorously and brown in about 90 seconds.
+2. Carefully lower in the chicken pieces in batches, overcrowding drops the oil temperature and gives soggy results.
 3. Fry each batch for 4 to 6 minutes, turning occasionally, until deep golden and crisp. Cut a piece open to check it's cooked through.
 4. Drain on kitchen paper. Keep warm while you make the sauce.
 
@@ -137,4 +137,4 @@ Serve as a starter with sliced raw onion, lemon wedges, and a small ramekin of c
 ---
 
 ## Storage
-Best eaten immediately while the batter is still crisp. Leftovers keep 1 to 2 days in the fridge in a sealed container, but the batter will soften noticeably — reheat in a hot oven (200°C / fan 180°C) for 8 to 10 minutes to re-crisp rather than the microwave, which makes the chicken rubbery. Sauce-coated chicken doesn't reheat as well as sauce-tossed-on-the-plate; toss only what you'll eat.
+Best eaten immediately while the batter is still crisp. Leftovers keep 1 to 2 days in the fridge in a sealed container, but the batter will soften noticeably, reheat in a hot oven (200°C / fan 180°C) for 8 to 10 minutes to re-crisp rather than the microwave, which makes the chicken rubbery. Sauce-coated chicken doesn't reheat as well as sauce-tossed-on-the-plate; toss only what you'll eat.

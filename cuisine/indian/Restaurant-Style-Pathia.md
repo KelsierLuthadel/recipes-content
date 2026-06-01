@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Pathia traces back to Parsi home cooking, where the sweet-sour-spicy triad — usually balanced with jaggery, vinegar or tamarind, and dried red chilli — is a defining feature of the cuisine. The British curry-house version stays faithful to that flavour profile but rebuilds it around a [Curry Base Gravy](Base/curry-base.md), making it a close cousin of dhansak and a near-twin of vindaloo in heat level, distinguished from both by its specific sweet-sour finish.
+Pathia traces back to Parsi home cooking, where the sweet-sour-spicy triad, usually balanced with jaggery, vinegar or tamarind, and dried red chilli, is a defining feature of the cuisine. The British restaurant version stays faithful to that flavour profile but rebuilds it around a [Curry Base Gravy](Base/curry-base.md), making it a close cousin of dhansak and a near-twin of vindaloo in heat level, distinguished from both by its specific sweet-sour finish.
 
 The dish reads hot, but the chilli sits inside a frame of mango chutney, jaggery, lemon juice, tamarind, and Worcestershire sauce. None of those should dominate; the goal is a sauce where each spoonful pings sweet, then sharp, then savoury, then hot in quick succession. Kashmiri chilli powder carries colour and a softer warmth, and a quarter-teaspoon of smoked paprika lays down a faint smoky bass note that's the dish's BIR-era signature.
 
@@ -71,7 +71,7 @@ Prawns work particularly well in a pathia and are arguably the traditional choic
 
 ### Stage 4 - Main ingredient
 1. Add the pre-cooked chicken (or chosen meat) and the chopped coriander stalks. Mix well to coat every piece in the masala.
-2. If using prawns, hold them back until Stage 5 — they only need a couple of minutes in the sauce.
+2. If using prawns, hold them back until Stage 5, they only need a couple of minutes in the sauce.
 
 ### Stage 5 - Build the sauce
 1. Pour in 75 ml of base gravy. Stir once, then leave undisturbed on high heat for 30 to 45 seconds until the sauce reduces and small craters return around the edges.

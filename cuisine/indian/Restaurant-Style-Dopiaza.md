@@ -13,7 +13,7 @@
 ## Overview
 The name dopiaza literally means "two onions" (do = two, piaza = onion), and that's the whole concept of the dish. Onion appears twice in two textures: very finely chopped and cooked into the masala at the start, then again as larger charred segments stirred in late so they keep their bite and bring scorched, slightly bitter notes to the sauce. Red pepper chunks ride along with the segments for sweetness and colour.
 
-The build is otherwise standard BIR — a [Curry Base Gravy](Base/curry-base.md) foundation, [Mix Powder](Spice-Mixes/mixed-powder.md), three-pour reduction — but the upfront scorch-frying is what separates a dopiaza from any other onion-heavy curry. Two teaspoons of oil get pushed to the limit on the highest heat the hob will give, then onion segments and red pepper hit the pan and char hard on the outside while staying intact inside. Don't pull them off too early; the controlled blackening at the edges is the dish.
+The build is otherwise standard BIR, a [Curry Base Gravy](Base/curry-base.md) foundation, [Mix Powder](Spice-Mixes/mixed-powder.md), three-pour reduction, but the upfront scorch-frying is what separates a dopiaza from any other onion-heavy curry. Two teaspoons of oil get pushed to the limit on the highest heat the hob will give, then onion segments and red pepper hit the pan and char hard on the outside while staying intact inside. Don't pull them off too early; the controlled blackening at the edges is the dish.
 
 Worcestershire sauce closes the loop with a savoury kick. Pre-cooked chicken is standard, but lamb (especially keema) and tikka all sit comfortably in the dish.
 
@@ -32,7 +32,7 @@ Worcestershire sauce closes the loop with a savoury kick. Pre-cooked chicken is 
 - 2 tsp oil (10 ml)
 
 ### Tempering
-- 4 tbsp oil (60 ml) — the remainder after the scorch
+- 4 tbsp oil (60 ml), the remainder after the scorch
 - 1.5 tsp ginger-garlic paste
 
 ### Spice
@@ -58,13 +58,13 @@ Worcestershire sauce closes the loop with a savoury kick. Pre-cooked chicken is 
 
 ### Stage 1 - Prep the onions
 1. Peel and halve a medium onion widthways. Cut one half into very fine cubes (about 75 g) and set aside for the base.
-2. Cut the other half into 6 segments — think of the onion half as a pizza. Separate the layers of each segment.
+2. Cut the other half into 6 segments, think of the onion half as a pizza. Separate the layers of each segment.
 3. Place the segments in a container with the red pepper chunks. Sprinkle on 0.5 tsp of kasuri methi and a tiny pinch of salt. Toss to coat.
 
 ### Stage 2 - Scorch
 1. Set a frying pan on the highest heat the hob will give. Add 2 tsp of oil.
 2. When the oil starts to smoke, add the onion segments and red pepper chunks.
-3. Scorch-fry, stirring very often, until the onion edges are deeply caramelised and starting to char in places — but not burnt all the way through. Don't be afraid to let them blacken a little; that's the dish.
+3. Scorch-fry, stirring very often, until the onion edges are deeply caramelised and starting to char in places, but not burnt all the way through. Don't be afraid to let them blacken a little; that's the dish.
 4. Tip into a covered container. The trapped steam will soften them slightly while you make the rest. If you prefer them crunchy, leave the lid off.
 
 ### Stage 3 - Temper
@@ -88,7 +88,7 @@ Worcestershire sauce closes the loop with a savoury kick. Pre-cooked chicken is 
 3. Pour in the final 150 ml of base gravy along with the Worcestershire sauce, the scorched onion segments and red pepper chunks, and the optional onion paste. Stir and scrape once.
 
 ### Stage 7 - Cook through
-1. Leave on high heat for 4 to 5 minutes. Resist fiddling — the caramelisation on the base and sides is part of the flavour.
+1. Leave on high heat for 4 to 5 minutes. Resist fiddling, the caramelisation on the base and sides is part of the flavour.
 2. Stir and scrape once or twice only to prevent outright burning. Be brave with the cook time; dopiaza wants the longer end of that range.
 3. The dish should end up thick. Add a splash more base gravy at the end if it's tightened past where you want it.
 

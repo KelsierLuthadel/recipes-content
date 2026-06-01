@@ -11,9 +11,9 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Rogan josh ("oily red") comes from Kashmir, where the original is a slow-cooked Wazwan dish of lamb in a deeply spiced, Kashmiri-chilli-stained gravy enriched with yoghurt. The British curry-house adaptation keeps the colour (Kashmiri chilli, paprika, and tandoori masala do the heavy lifting), the yoghurt finish, and the warm whole-spice base, but rebuilds the dish around a [Curry Base Gravy](Base/curry-base.md) so it cooks in 15 minutes rather than 2 hours.
+Rogan josh ("oily red") comes from Kashmir, where the original is a slow-cooked Wazwan dish of lamb in a deeply spiced, Kashmiri-chilli-stained gravy enriched with yoghurt. The British restaurant adaptation keeps the colour (Kashmiri chilli, paprika, and tandoori masala do the heavy lifting), the yoghurt finish, and the warm whole-spice base, but rebuilds the dish around a [Curry Base Gravy](Base/curry-base.md) so it cooks in 15 minutes rather than 2 hours.
 
-The recipe is two builds in one pan. First the main curry: tempered whole spices, softened onion and red pepper, freshly toasted and ground cumin and coriander, the standard spice bloom, then the three-pour base gravy reduction and a late spoon of yoghurt for the rounded Kashmiri profile. Then a separate topping: ghee, whole cherry tomatoes, fresh coriander, and a pinch of garam masala fried in the same pan to deglaze the caramelised residue, then poured over the curry just before serving. That topping is the dish's signature presentation and a serious flavour boost — don't skip it.
+The recipe is two builds in one pan. First the main curry: tempered whole spices, softened onion and red pepper, freshly toasted and ground cumin and coriander, the standard spice bloom, then the three-pour base gravy reduction and a late spoon of yoghurt for the rounded Kashmiri profile. Then a separate topping: ghee, whole cherry tomatoes, fresh coriander, and a pinch of garam masala fried in the same pan to deglaze the caramelised residue, then poured over the curry just before serving. That topping is the dish's signature presentation and a serious flavour boost, don't skip it.
 
 Lamb is the traditional protein and works best here, but chicken, tikka, prawns, and vegetables all pair cleanly with the spice profile.
 
@@ -21,7 +21,7 @@ Lamb is the traditional protein and works best here, but chicken, tikka, prawns,
 
 ## Ingredients
 
-### Main Curry — Tempering
+### Main Curry, Tempering
 - 3 tbsp oil
 - 10 cm cassia bark
 - 1 tej patta (Asian bay leaf), optional
@@ -100,13 +100,13 @@ Lamb is the traditional protein and works best here, but chicken, tikka, prawns,
 
 ### Stage 7 - Transfer and rest
 1. Fish out the cassia bark and tej patta.
-2. Scrape the curry out into a serving dish, leaving the sticky residue on the pan's base and sides — this is the foundation of the topping.
+2. Scrape the curry out into a serving dish, leaving the sticky residue on the pan's base and sides, this is the foundation of the topping.
 3. Keep the curry warm while you make the topping.
 
 ### Stage 8 - The topping
 1. Return the pan to medium-high heat and add the ghee.
 2. Once melted, add the cherry tomatoes, chopped coriander leaves, garam masala, and 40 ml of base gravy.
-3. Stir and let the sauce start to caramelise — 30 to 45 seconds.
+3. Stir and let the sauce start to caramelise, 30 to 45 seconds.
 4. Add a splash of water to thin the sauce and help deglaze. Scrape the residue off the base and sides into the sauce.
 5. Cook for 2 to 3 minutes, until the tomatoes have softened but still hold their shape.
 6. Pour the topping over the main curry and serve immediately.
@@ -129,4 +129,4 @@ Pair with plain basmati or [Restaurant-Style Special Fried Rice](Restaurant-Styl
 ---
 
 ## Storage
-Keeps 2 to 3 days in the fridge in a sealed container. Stir the topping into the main curry before refrigerating — the tomato and ghee meld into the sauce overnight. Reheat in a pan with a splash of water rather than the microwave to keep the yoghurt smooth and the lamb tender.
+Keeps 2 to 3 days in the fridge in a sealed container. Stir the topping into the main curry before refrigerating, the tomato and ghee meld into the sauce overnight. Reheat in a pan with a splash of water rather than the microwave to keep the yoghurt smooth and the lamb tender.

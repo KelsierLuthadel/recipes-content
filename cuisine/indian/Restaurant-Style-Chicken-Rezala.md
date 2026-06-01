@@ -11,11 +11,11 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Chicken rezala is a Mughlai dish associated with Kolkata's Muslim-quarter restaurants, traditionally a delicate, aromatic curry built around yoghurt, ground cashews, white pepper, and a final perfume of kewra (screwpine) or rose water. The BIR adaptation keeps the dish's defining quality — its almost ivory-pale colour and gentle floral aromatics — by rebuilding it on a [Curry Base Gravy](Base/curry-base.md) but holding back the chilli powder, turmeric, and Kashmiri chilli that would tint the sauce red or orange.
+Chicken rezala is a Mughlai dish associated with Kolkata's Muslim-quarter restaurants, traditionally a delicate, aromatic curry built around yoghurt, ground cashews, white pepper, and a final perfume of kewra (screwpine) or rose water. The BIR adaptation keeps the dish's defining quality, its almost ivory-pale colour and gentle floral aromatics, by rebuilding it on a [Curry Base Gravy](Base/curry-base.md) but holding back the chilli powder, turmeric, and Kashmiri chilli that would tint the sauce red or orange.
 
 The rezala paste does most of the work. Blitzed cashews, poppy seeds, white pepper, yoghurt, and optional green chillies form a smooth pale base that goes in late with the final gravy pour, so the dairy doesn't split under sustained high heat. White pepper instead of black is deliberate: it carries warmth without the bitter top note that would clash with the cashew sweetness.
 
-The kewra or rose water finish is what makes this dish unmistakable. A few drops at the end perfume the bowl. Soaked saffron in warm milk drizzled on top is purely cosmetic — beautiful but skippable. Toasted cashews on the plate echo the paste and add textural interest.
+The kewra or rose water finish is what makes this dish unmistakable. A few drops at the end perfume the bowl. Soaked saffron in warm milk drizzled on top is purely cosmetic, beautiful but skippable. Toasted cashews on the plate echo the paste and add textural interest.
 
 ---
 
@@ -45,7 +45,7 @@ The kewra or rose water finish is what makes this dish unmistakable. A few drops
 - 0.5 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
 - 0.5 tsp salt
 - 0.75 to 1 tsp sugar
-- 0.5 tsp chilli powder (optional — skip for the traditional pale finish)
+- 0.5 tsp chilli powder (optional, skip for the traditional pale finish)
 
 ### Sauce
 - 50 to 200 g chicken (raw or [Pre-Cooked Chicken](Base/pre-cooked-chicken.md))
@@ -71,7 +71,7 @@ The kewra or rose water finish is what makes this dish unmistakable. A few drops
 3. Fry for 45 seconds, stirring frequently, to infuse the oil with the whole-spice aromatics.
 
 ### Stage 3 - Soften the aromatics
-1. Add the sliced onion. Fry for 3 to 5 minutes, stirring often, until the edges turn a deep brown — the dish wants browned onion for depth even if the overall colour stays pale.
+1. Add the sliced onion. Fry for 3 to 5 minutes, stirring often, until the edges turn a deep brown, the dish wants browned onion for depth even if the overall colour stays pale.
 2. Add the ginger-garlic paste. Stir constantly until it just starts to brown and the sizzling sound drops. Don't let it stick or scorch.
 
 ### Stage 4 - Bloom the spices
@@ -86,14 +86,14 @@ The kewra or rose water finish is what makes this dish unmistakable. A few drops
 ### Stage 6 - Build the sauce
 1. Add 75 ml of base gravy. Stir, then leave undisturbed for 30 to 45 seconds.
 2. Add a second 75 ml of base gravy. Stir, then leave on high heat with no further stirring until the sauce reduces and small dry craters form around the edges.
-3. Stir in the rezala paste and a further 75 ml of base gravy. The paste needs to integrate gently — stir once when it goes in, then leave.
+3. Stir in the rezala paste and a further 75 ml of base gravy. The paste needs to integrate gently, stir once when it goes in, then leave.
 4. Cook on high heat for 3 to 4 minutes. Stir and scrape once or twice only to prevent burning. The caramelisation on the base and sides is part of the flavour; let it form.
 5. Add a splash more base gravy if the sauce tightens past where you want it. A rezala should be medium-thick and pale, not soupy or dark.
 
 ### Stage 7 - Aromatic finish
 1. Taste and adjust salt.
 2. If using raw chicken, cut a piece open to confirm it's cooked through.
-3. Splash the kewra or rose water over the surface. A teaspoon is enough — these perfumes are intense.
+3. Splash the kewra or rose water over the surface. A teaspoon is enough, these perfumes are intense.
 4. If using saffron, soak a pinch in 1 tsp of warm milk for a minute, then drizzle over the top for the colour contrast.
 5. Plate up and scatter the toasted cashew nuts over the dish.
 
@@ -110,9 +110,9 @@ The kewra or rose water finish is what makes this dish unmistakable. A few drops
 ---
 
 ## Serving
-Pair with plain basmati or a saffron-infused pilau, and a piece of buttery naan or paratha. Pickle and chutney are out of character here — let the floral, cashew-led flavours speak. A simple cucumber salad with a sprinkle of black salt makes a clean side.
+Pair with plain basmati or a saffron-infused pilau, and a piece of buttery naan or paratha. Pickle and chutney are out of character here, let the floral, cashew-led flavours speak. A simple cucumber salad with a sprinkle of black salt makes a clean side.
 
 ---
 
 ## Storage
-Keeps 2 days in the fridge in a sealed container. The yoghurt-based sauce thickens noticeably overnight. Reheat gently in a pan with a splash of water rather than the microwave to keep the dairy smooth — high heat or rapid reheating can split the yoghurt.
+Keeps 2 days in the fridge in a sealed container. The yoghurt-based sauce thickens noticeably overnight. Reheat gently in a pan with a splash of water rather than the microwave to keep the dairy smooth, high heat or rapid reheating can split the yoghurt.

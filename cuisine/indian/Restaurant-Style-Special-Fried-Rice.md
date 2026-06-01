@@ -2,7 +2,7 @@
 
 ![Restaurant-Style Special Fried Rice](resources/restaurant-style-special-fried-rice.jpg)
 
-*Wok-tossed basmati with onion, peppers, mushrooms, peas and a quick scrambled egg — the side that turns a single curry into a full takeaway spread.*
+*Wok-tossed basmati with onion, peppers, mushrooms, peas and a quick scrambled egg, the side that turns a single curry into a full takeaway spread.*
 
 **Serves:** 1 to 2
 
@@ -20,7 +20,7 @@ The mix is forgiving: leftover [Pre-Cooked Chicken](Base/pre-cooked-chicken.md),
 ## Ingredients
 
 ### Rice
-- 200 g cooked basmati rice (cold, fully dried — see Notes)
+- 200 g cooked basmati rice (cold, fully dried, see Notes)
 
 ### Stir-Fry Base
 - 2 tbsp oil or ghee (or a mix)
@@ -50,7 +50,7 @@ The mix is forgiving: leftover [Pre-Cooked Chicken](Base/pre-cooked-chicken.md),
 
 ### Stage 1 - Prep the rice
 1. Cook the basmati rice ahead of time (the day before is ideal). Spread it on a tray and let it cool fully, then chill uncovered until the grains feel dry to the touch. Damp rice clumps and steams in the pan instead of frying.
-2. Pilau rice works just as well in place of plain basmati — bring it to the pan fully cooled.
+2. Pilau rice works just as well in place of plain basmati, bring it to the pan fully cooled.
 
 ### Stage 2 - Bloom the spices
 1. Set a wok, karahi, or wide high-sided pan over the highest heat your hob will give.
@@ -60,7 +60,7 @@ The mix is forgiving: leftover [Pre-Cooked Chicken](Base/pre-cooked-chicken.md),
 
 ### Stage 3 - Build the masala
 1. Add the mix powder, turmeric, garam masala, and salt.
-2. Stir-fry for another 20 to 30 seconds. Keep everything moving — dry spices burn quickly on a hot wok.
+2. Stir-fry for another 20 to 30 seconds. Keep everything moving, dry spices burn quickly on a hot wok.
 
 ### Stage 4 - Egg and peas
 1. Add the defrosted peas.
@@ -83,7 +83,7 @@ The mix is forgiving: leftover [Pre-Cooked Chicken](Base/pre-cooked-chicken.md),
 ---
 
 ## Serving
-Pair with any BIR curry — it's the natural partner to [Restaurant-Style Chicken Jalfrezi](Restaurant-Style-Chicken-Jalfrezi.md), [Restaurant-Style Madras](Restaurant-Style-Madras.md), or [Restaurant-Style Vindaloo](Restaurant-Style-Vindaloo.md). Also good on its own with raita and lime pickle.
+Pair with any BIR curry, it's the natural partner to [Restaurant-Style Chicken Jalfrezi](Restaurant-Style-Chicken-Jalfrezi.md), [Restaurant-Style Madras](Restaurant-Style-Madras.md), or [Restaurant-Style Vindaloo](Restaurant-Style-Vindaloo.md). Also good on its own with raita and lime pickle.
 
 ---
 

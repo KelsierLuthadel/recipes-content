@@ -46,8 +46,8 @@ ingredients:
     raw: 2 tsp oil
   - qty: 4
     unit: tbsp
-    name: oil — the remainder after the scorch
-    raw: 4 tbsp oil — the remainder after the scorch
+    name: oil
+    raw: 4 tbsp oil , the remainder after the scorch
   - qty: 1.5
     unit: tsp
     name: ginger-garlic paste

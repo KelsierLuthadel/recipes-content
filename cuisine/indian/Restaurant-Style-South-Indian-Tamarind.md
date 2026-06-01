@@ -11,9 +11,9 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-South Indian cooking leans heavily on the sour register — tamarind, kokum, curd, and lime do work that yoghurt and tomato paste handle further north. This BIR interpretation borrows that southern instinct and stitches it onto the standard curry-house build: a [Curry Base Gravy](Base/curry-base.md) foundation, three-pour reduction, and pre-cooked meat. What lands on the plate is a thinner, more pourable sauce than a typical BIR curry, defined by the bright tang of tamarind and the rounded sweetness of coconut milk.
+South Indian cooking leans heavily on the sour register, tamarind, kokum, curd, and lime do work that yoghurt and tomato paste handle further north. This BIR interpretation borrows that southern instinct and stitches it onto the standard restaurant build: a [Curry Base Gravy](Base/curry-base.md) foundation, three-pour reduction, and pre-cooked meat. What lands on the plate is a thinner, more pourable sauce than a typical BIR curry, defined by the bright tang of tamarind and the rounded sweetness of coconut milk.
 
-The Indian pickle is what pushes the dish past simple sour. Lime pickle, mango pickle, or any spicy mixed pickle works — chop it smooth so the bits dissolve into the sauce rather than sitting on top. Jaggery (or brown sugar at a pinch) balances the acidity without dulling it. The result is a curry that reads sharp, fragrant, and savoury all at once.
+The Indian pickle is what pushes the dish past simple sour. Lime pickle, mango pickle, or any spicy mixed pickle works, chop it smooth so the bits dissolve into the sauce rather than sitting on top. Jaggery (or brown sugar at a pinch) balances the acidity without dulling it. The result is a curry that reads sharp, fragrant, and savoury all at once.
 
 Three forms of tamarind work here, with different concentrations. Bottled tamarind sauce is the easiest but often comes pre-sweetened; tamarind concentrate is the most economical and most consistent; tamarind pulp soaked from a block is the most flavourful but takes the longest to prep.
 
@@ -22,7 +22,7 @@ Three forms of tamarind work here, with different concentrations. Bottled tamari
 ## Ingredients
 
 ### Tempering
-- 3 tbsp oil or ghee (45 ml) — vegetable ghee or butter ghee gives the roundest flavour
+- 3 tbsp oil or ghee (45 ml), vegetable ghee or butter ghee gives the roundest flavour
 - 10 cm cassia bark
 - 0.5 tsp cumin seeds
 - seeds from 1 black cardamom pod (optional; discard the outer pod)
@@ -41,9 +41,9 @@ Three forms of tamarind work here, with different concentrations. Bottled tamari
 
 ### Sour and Sweet Finish
 - tamarind, in one of:
-  - 1.75 tbsp bottled tamarind sauce (East End, Maggi, etc.) — often pre-sweetened, taste before adding more sugar
-  - 0.75 to 1 tsp tamarind concentrate
-  - 2.5 tbsp tamarind pulp (soaked from a block, mashed, and strained)
+ - 1.75 tbsp bottled tamarind sauce (East End, Maggi, etc.), often pre-sweetened, taste before adding more sugar
+ - 0.75 to 1 tsp tamarind concentrate
+ - 2.5 tbsp tamarind pulp (soaked from a block, mashed, and strained)
 - 2 tsp Indian pickle of choice, chopped smooth
 - 150 ml coconut milk
 - 1 to 2 tsp jaggery or brown sugar (optional)
@@ -61,7 +61,7 @@ Three forms of tamarind work here, with different concentrations. Bottled tamari
 ### Stage 2 - Bloom the spices
 1. Add the kasuri methi, mix powder, salt, and the optional chilli powder.
 2. Fry for 20 to 30 seconds, stirring constantly with the flat of the spoon.
-3. Splash in about 30 ml of base gravy the moment the spices start sticking — they need a touch of liquid to cook through without scorching.
+3. Splash in about 30 ml of base gravy the moment the spices start sticking, they need a touch of liquid to cook through without scorching.
 
 ### Stage 3 - Tomato base
 1. Add the tomato paste and the pre-cooked chicken (or chosen main).
@@ -74,7 +74,7 @@ Three forms of tamarind work here, with different concentrations. Bottled tamari
 ### Stage 5 - Tamarind and coconut
 1. Pour in the final 200 ml of base gravy along with the tamarind, the chopped pickle, the coconut milk, and the optional jaggery.
 2. Stir and scrape once to bring everything together.
-3. Cook on high heat for 4 to 5 minutes. Stir and scrape once or twice only when needed to prevent the sauce burning to the base — the caramelisation is part of the flavour.
+3. Cook on high heat for 4 to 5 minutes. Stir and scrape once or twice only when needed to prevent the sauce burning to the base, the caramelisation is part of the flavour.
 4. Add a splash more base gravy at the end if the sauce has tightened past where you want it. South Indian tamarind curries traditionally run thinner than most BIR sauces.
 
 ### Stage 6 - Taste and adjust

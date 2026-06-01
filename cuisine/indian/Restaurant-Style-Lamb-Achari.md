@@ -11,11 +11,11 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-"Achari" means "of pickle" — the dish is built around Indian-style pickles (achaar) as a flavouring agent rather than a condiment. A heaped tablespoon stirred in late carries the dish: sour, salty, often fiercely hot, and instantly recognisable on the palate. Different pickles produce different curries. Brinjal (aubergine) pickle gives a mild, mellow result; lime or mango pickles bring sharp citrus heat; garlic pickle pushes the dish into deep savoury territory; naga pickle takes it into specialist-hot range.
+"Achari" means "of pickle", the dish is built around Indian-style pickles (achaar) as a flavouring agent rather than a condiment. A heaped tablespoon stirred in late carries the dish: sour, salty, often fiercely hot, and instantly recognisable on the palate. Different pickles produce different curries. Brinjal (aubergine) pickle gives a mild, mellow result; lime or mango pickles bring sharp citrus heat; garlic pickle pushes the dish into deep savoury territory; naga pickle takes it into specialist-hot range.
 
-The seed temper does most of the work upfront. Mustard, fenugreek, black cumin, and nigella (kalonji) all crackle in hot oil for 30 seconds before the onion goes in, and that combination is essentially panch phoran (the Bengali five-spice — you can substitute 2.5 tsp of [Panch Poran](Spice-Mixes/panch-poran.md) for all four seed measures if you keep some made up). The pickle joins with the final base gravy pour; a late spoon of yoghurt and fresh tomato segments soften the heat without dulling the sour edge.
+The seed temper does most of the work upfront. Mustard, fenugreek, black cumin, and nigella (kalonji) all crackle in hot oil for 30 seconds before the onion goes in, and that combination is essentially panch phoran (the Bengali five-spice, you can substitute 2.5 tsp of [Panch Poran](Spice-Mixes/panch-poran.md) for all four seed measures if you keep some made up). The pickle joins with the final base gravy pour; a late spoon of yoghurt and fresh tomato segments soften the heat without dulling the sour edge.
 
-Lamb is the traditional protein here — its richness stands up to the pickle's intensity better than chicken does — but [Pre-Cooked Chicken](Base/pre-cooked-chicken.md) or vegetables work if that's what you have. Pre-cooked potatoes are an optional addition that absorbs the pickle flavour particularly well.
+Lamb is the traditional protein here, its richness stands up to the pickle's intensity better than chicken does, but [Pre-Cooked Chicken](Base/pre-cooked-chicken.md) or vegetables work if that's what you have. Pre-cooked potatoes are an optional addition that absorbs the pickle flavour particularly well.
 
 ---
 
@@ -37,7 +37,7 @@ Lamb is the traditional protein here — its richness stands up to the pickle's 
 - 1 tsp kasuri methi
 - 1.5 tsp Kashmiri chilli powder (or 0.75 tsp regular chilli powder)
 - 1.5 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
-- 0.25 tsp salt (light — pickles bring their own; see Notes)
+- 0.25 tsp salt (light, pickles bring their own; see Notes)
 
 ### Sauce
 - 5 tbsp tomato paste (double-concentrated puree diluted 1:3, blended tinned plum tomatoes, or passata)
@@ -59,7 +59,7 @@ Lamb is the traditional protein here — its richness stands up to the pickle's 
 
 ### Stage 1 - Seed temper
 1. Set a frying pan on medium-high heat and add the oil.
-2. Drop in the mustard seeds, fenugreek seeds, black cumin seeds, and kalonji seeds — or the 2.5 tsp of panch phoran if using.
+2. Drop in the mustard seeds, fenugreek seeds, black cumin seeds, and kalonji seeds, or the 2.5 tsp of panch phoran if using.
 3. Stir and cook for 30 seconds, or until the mustard seeds start popping. Don't wander; mustard goes from popping to scorched fast.
 
 ### Stage 2 - Soften the aromatics
@@ -86,7 +86,7 @@ Lamb is the traditional protein here — its richness stands up to the pickle's 
 ### Stage 6 - Tomato, yoghurt, and finish
 1. Add the chopped coriander leaves and the fresh tomato segments.
 2. Drop the heat to low. Stir in the natural yoghurt.
-3. Cook for a further 1 to 2 minutes on low heat — the yoghurt needs to integrate without splitting.
+3. Cook for a further 1 to 2 minutes on low heat, the yoghurt needs to integrate without splitting.
 4. Taste and adjust: extra pickle for sharper sour notes, salt for savouriness, a pinch of sugar if the pickle is particularly fierce.
 5. Spoon off excess oil from the surface if you prefer a less rich finish.
 6. Plate up. Garnish with an extra tomato segment and a scatter of fresh coriander.
@@ -95,12 +95,12 @@ Lamb is the traditional protein here — its richness stands up to the pickle's 
 
 ## Notes
 - The pickle really does define the dish, so do choose it deliberately rather than grabbing whatever's nearest in the cupboard:
-  - **Brinjal (aubergine)** is mild, mellow, and slightly sweet. A great entry point.
-  - **Mango** is fruity, tart, and moderately hot. Probably the most familiar choice.
-  - **Lime** or **satkora** (Bengali lime) give you a sharp citrus tang with bitter undertones.
-  - **Garlic** is deeply aromatic and savoury.
-  - **Chilli** or **mixed** vary in heat but are generally on the punchier side.
-  - **Naga** is specialist hot. Use a teaspoon rather than a tablespoon for this one.
+ - **Brinjal (aubergine)** is mild, mellow, and slightly sweet. A great entry point.
+ - **Mango** is fruity, tart, and moderately hot. Probably the most familiar choice.
+ - **Lime** or **satkora** (Bengali lime) give you a sharp citrus tang with bitter undertones.
+ - **Garlic** is deeply aromatic and savoury.
+ - **Chilli** or **mixed** vary in heat but are generally on the punchier side.
+ - **Naga** is specialist hot. Use a teaspoon rather than a tablespoon for this one.
 - Pickles vary wildly in salt content. The 0.25 tsp salt above is deliberately low so the pickle can speak for itself. Do taste before adding more.
 - The seed temper can be substituted with 2.5 tsp of panch phoran (the Bengali five-spice mix of cumin, fennel, fenugreek, mustard, and nigella). If you keep a jar of that made up, it's a lovely one-step shortcut to the same flavour territory.
 - "Black cumin" here means Bunium persicum (kala jeera), not nigella. Those are kalonji and listed separately. If you can't track down black cumin specifically, regular cumin seeds are a perfectly acceptable substitute.
@@ -112,7 +112,7 @@ Lamb is the traditional protein here — its richness stands up to the pickle's 
 ---
 
 ## Serving
-Pair with plain basmati or a [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) and a piece of paratha or naan to mop the sauce. A small bowl of plain yoghurt or raita on the side balances the pickle intensity; skip the chutneys and pickles you'd normally put alongside — they'll compete with the curry.
+Pair with plain basmati or a [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) and a piece of paratha or naan to mop the sauce. A small bowl of plain yoghurt or raita on the side balances the pickle intensity; skip the chutneys and pickles you'd normally put alongside, they'll compete with the curry.
 
 ---
 

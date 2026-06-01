@@ -11,11 +11,11 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Phaal is the curry-house category-killer for heat, traditionally claimed (though disputed) as a British invention from the Birmingham balti scene rather than a true Indian dish. The pitch is straightforward: take a standard BIR build and load it with three tablespoons of chilli powder in three forms (extra-hot, Kashmiri, and chilli flakes), back it up with chilli chutney or Mr Naga pickle, and reduce hard so the heat is concentrated rather than diluted.
+Phaal is the restaurant category-killer for heat, traditionally claimed (though disputed) as a British invention from the Birmingham balti scene rather than a true Indian dish. The pitch is straightforward: take a standard BIR build and load it with three tablespoons of chilli powder in three forms (extra-hot, Kashmiri, and chilli flakes), back it up with chilli chutney or Mr Naga pickle, and reduce hard so the heat is concentrated rather than diluted.
 
 The trick is making it taste of something other than pain. Two tablespoons of Kashmiri chilli powder do most of the colouring work without proportional heat; the extra-hot chilli powder and chilli flakes are where the bite comes from; Mr Naga adds fruity, almost tropical chilli notes that read as flavour rather than just burn. A late slug of lemon juice and an optional spoon of sugar pull the dish into balance. Without them you have punishment; with them you have a properly hot curry that still tastes like a meal.
 
-Cook this with the extractor fan on full and a window open. The capsaicin vapour coming off the pan during the spice-bloom and tomato stages is no joke — it catches in the throat and chest, and even a small splatter on bare skin will smart for hours.
+Cook this with the extractor fan on full and a window open. The capsaicin vapour coming off the pan during the spice-bloom and tomato stages is no joke, it catches in the throat and chest, and even a small splatter on bare skin will smart for hours.
 
 ---
 
@@ -54,12 +54,12 @@ Cook this with the extractor fan on full and a window open. The capsaicin vapour
 ### Stage 1 - Temper
 1. Set a frying pan on medium-high heat and add the oil.
 2. When hot, add the fennel seeds. Fry for 30 to 45 seconds, stirring, to infuse the oil.
-3. Add the ginger-garlic paste. Fry for 20 to 30 seconds, until it starts to brown and the sizzling drops — the cue that the water content has cooked out.
+3. Add the ginger-garlic paste. Fry for 20 to 30 seconds, until it starts to brown and the sizzling drops, the cue that the water content has cooked out.
 
 ### Stage 2 - Bloom the spices
 1. Add the kasuri methi, mix powder, extra-hot chilli powder, Kashmiri chilli powder, chilli flakes, chilli chutney or Mr Naga, garam masala, and salt.
 2. Splash in 30 ml of base gravy immediately to bind the spices and stop them scorching.
-3. Fry for 40 to 50 seconds, stirring constantly with the flat of the spoon. Add a little more base gravy or water if the mixture sticks. There are a lot of dry chilli powders here and they need this time to cook out properly — undercooked chilli powder tastes harsh, bitter, and dusty, and will give you a rough digestive ride later.
+3. Fry for 40 to 50 seconds, stirring constantly with the flat of the spoon. Add a little more base gravy or water if the mixture sticks. There are a lot of dry chilli powders here and they need this time to cook out properly, undercooked chilli powder tastes harsh, bitter, and dusty, and will give you a rough digestive ride later.
 4. Turn the extractor fan up. The next stage produces the worst of the capsaicin vapour.
 
 ### Stage 3 - Tomato base
@@ -74,8 +74,8 @@ Cook this with the extractor fan on full and a window open. The capsaicin vapour
 1. Pour in 75 ml of base gravy. Stir once, then leave undisturbed on high heat until the sauce reduces, the oil resurfaces, and the dry craters return.
 2. Add a second 75 ml of base gravy. Stir and scrape once when it goes in, then leave to reduce again.
 3. Pour in the final 150 ml of base gravy along with the lemon juice and the optional sugar. Stir and scrape once.
-4. Cook on high heat for 4 to 5 minutes. Avoid fiddling — the caramelisation on the base and sides is part of the dish.
-5. Taste cautiously. If the curry reads sharp or dusty, the chilli powders aren't fully cooked out — give it another minute or two.
+4. Cook on high heat for 4 to 5 minutes. Avoid fiddling, the caramelisation on the base and sides is part of the dish.
+5. Taste cautiously. If the curry reads sharp or dusty, the chilli powders aren't fully cooked out, give it another minute or two.
 6. Add a splash more base gravy if the sauce tightens past where you want it.
 
 ### Stage 6 - Finish
@@ -95,7 +95,7 @@ Cook this with the extractor fan on full and a window open. The capsaicin vapour
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan. A large bowl of cool raita on the side is necessary — milk, yoghurt, and dairy fat are the only effective rescue when the heat overwhelms. Water makes it worse.
+Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan. A large bowl of cool raita on the side is necessary, milk, yoghurt, and dairy fat are the only effective rescue when the heat overwhelms. Water makes it worse.
 
 ---
 

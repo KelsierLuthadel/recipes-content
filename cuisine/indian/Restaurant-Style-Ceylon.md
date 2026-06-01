@@ -11,9 +11,9 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A Ceylon curry on a British curry-house menu doesn't claim to reproduce authentic Sri Lankan cooking — it's a BIR interpretation that picks the most identifiable Sri Lankan flavour markers (coconut, cassia, green cardamom, fennel, fenugreek) and assembles them on the standard [Curry Base Gravy](Base/curry-base.md) chassis. The result is a medium-hot, coconut-rounded curry that sits in the same family as a korma for richness but with a noticeable warm-aromatic backbone and a touch more chilli.
+A Ceylon curry on a British restaurant menu doesn't claim to reproduce authentic Sri Lankan cooking, it's a BIR interpretation that picks the most identifiable Sri Lankan flavour markers (coconut, cassia, green cardamom, fennel, fenugreek) and assembles them on the standard [Curry Base Gravy](Base/curry-base.md) chassis. The result is a medium-hot, coconut-rounded curry that sits in the same family as a korma for richness but with a noticeable warm-aromatic backbone and a touch more chilli.
 
-The defining ingredients are the freshly-ground fennel and fenugreek powders (these matter — pre-ground loses a lot in this dish) and the two-form coconut: coconut powder or flour for body, coconut milk for sauce. A late slug of Worcestershire sauce adds a savoury undertone, and a small spoon of mango chutney can balance the heat if needed, though the caramelised base gravy already brings plenty of natural sweetness.
+The defining ingredients are the freshly-ground fennel and fenugreek powders (these matter, pre-ground loses a lot in this dish) and the two-form coconut: coconut powder or flour for body, coconut milk for sauce. A late slug of Worcestershire sauce adds a savoury undertone, and a small spoon of mango chutney can balance the heat if needed, though the caramelised base gravy already brings plenty of natural sweetness.
 
 The dish reads sweet, warm, and rounded rather than fiery, with most of the heat coming from the chilli powder rather than late additions. Calibrate that one ingredient to your taste.
 
@@ -61,7 +61,7 @@ The dish reads sweet, warm, and rounded rather than fiery, with most of the heat
 
 ### Stage 2 - Bloom the spices
 1. Add the kasuri methi, mix powder, chilli powder, salt, and the freshly-ground fennel and fenugreek powders.
-2. Splash in about 30 ml of base gravy straight away to keep the spices from scorching — the fenugreek powder in particular burns quickly.
+2. Splash in about 30 ml of base gravy straight away to keep the spices from scorching, the fenugreek powder in particular burns quickly.
 3. Fry for 20 to 30 seconds, stirring constantly and using the flat of the spoon to spread the spices evenly across the pan.
 
 ### Stage 3 - Tomato base

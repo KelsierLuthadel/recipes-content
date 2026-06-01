@@ -54,8 +54,8 @@ ingredients:
     raw: 5 tbsp tomato paste
   - qty: 200
     unit: g
-    name: pre-cooked tikka of your choice — see restaurant-style tikka
-    raw: 200 g pre-cooked tikka of your choice — see Restaurant-Style Tikka
+    name: pre-cooked tikka of your choice
+    raw: 200 g pre-cooked tikka of your choice, see Restaurant-Style Tikka
   - qty: 1.5
     unit: tsp
     name: lemon juice

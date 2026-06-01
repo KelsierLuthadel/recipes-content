@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A Madras lives or dies by balance. The heat is unmistakable, 1.5 to 2 teaspoons of chilli powder put it firmly above a jalfrezi, but it should never read as one-note. The trick is the sourness: a slug of tomato paste cooked back to oil-separation, lemon juice late in the build, and the BIR house touch of Worcestershire sauce. Together they pull the dish out of brute heat and into the savoury, slightly tangy register that defines a curry-house Madras.
+A Madras lives or dies by balance. The heat is unmistakable, 1.5 to 2 teaspoons of chilli powder put it firmly above a jalfrezi, but it should never read as one-note. The trick is the sourness: a slug of tomato paste cooked back to oil-separation, lemon juice late in the build, and the BIR house touch of Worcestershire sauce. Together they pull the dish out of brute heat and into the savoury, slightly tangy register that defines a restaurant Madras.
 
 The base build follows standard BIR practice. Whole spices (cassia bark, cumin) temper in hot oil, ginger-garlic paste browns, [Mix Powder](Spice-Mixes/mixed-powder.md) and chilli bloom in a splash of [Curry Base Gravy](Base/curry-base.md), tomato paste reduces, then the main ingredient (usually [Pre-Cooked Chicken](Base/pre-cooked-chicken.md), but lamb, beef, prawns, or vegetables all work) joins for the three-pour gravy reduction.
 
@@ -82,7 +82,7 @@ The base build follows standard BIR practice. Whole spices (cassia bark, cumin) 
 ---
 
 ## Notes
-- The coffee granules are a classic curry-house trick, and they're not as strange as they sound. They don't make the curry taste of coffee. What they do is deepen the colour and add a faint, bitter bass note that gives the chilli something to lean on.
+- The coffee granules are a classic restaurant trick, and they're not as strange as they sound. They don't make the curry taste of coffee. What they do is deepen the colour and add a faint, bitter bass note that gives the chilli something to lean on.
 - Onion paste (sometimes called bunjarra) is genuinely worth making for this one. It adds a sweet-savoury layer the base gravy alone can't quite reach, and it rounds out the whole sauce.
 - I know Worcestershire sauce sounds wrong in an Indian recipe, but trust me. It's standard in BIR kitchens, and it brings tamarind, anchovy, and vinegar all in one little splash.
 - Heat scales with the chilli powder, so if you're not sure, start at 1.5 tsp. You can always push it harder next time.

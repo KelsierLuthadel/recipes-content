@@ -2,7 +2,7 @@
 
 ![Restaurant-Style Tikka Masala](resources/restaurant-style-tikka-masala.jpg)
 
-*The UK curry-house signature, in its sauce-only form: tandoori-spiced tomato-and-cream masala that wraps any pre-cooked tikka (chicken, paneer, lamb, prawn) in the deep red, sweet-savoury finish.*
+*The UK restaurant signature, in its sauce-only form: tandoori-spiced tomato-and-cream masala that wraps any pre-cooked tikka (chicken, paneer, lamb, prawn) in the deep red, sweet-savoury finish.*
 
 **Serves:** 1
 
@@ -11,11 +11,11 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-This is the masala. The sauce that turns tikka, the marinated, grilled protein from [Restaurant-Style Tikka](Restaurant-Style-Tikka.md), into the dish that defines a curry-house menu. The build assumes you already have your tikka pre-cooked and just need the sauce to wrap it.
+This is the masala. The sauce that turns tikka, the marinated, grilled protein from [Restaurant-Style Tikka](Restaurant-Style-Tikka.md), into the dish that defines a restaurant menu. The build assumes you already have your tikka pre-cooked and just need the sauce to wrap it.
 
 Five tablespoons of tomato paste do most of the colour. Tandoori masala goes in late with the gravy (an unusual position for a dry spice in a BIR build) so the chargrill profile from the tikka carries through the finished sauce. Coconut powder and ground almonds thicken the body and bring rounded sweetness; jaggery completes the sweet-savoury balance; single cream finishes on low heat for the signature richness.
 
-The protein choice is open. Chicken tikka is the default and most familiar; paneer tikka makes a beautiful vegetarian version; prawn tikka brings a sweetness that complements the sauce beautifully; lamb tikka is the richest of the four. Whichever you choose, it goes in pre-cooked — the masala isn't a long enough simmer to bring raw protein safely through.
+The protein choice is open. Chicken tikka is the default and most familiar; paneer tikka makes a beautiful vegetarian version; prawn tikka brings a sweetness that complements the sauce beautifully; lamb tikka is the richest of the four. Whichever you choose, it goes in pre-cooked, the masala isn't a long enough simmer to bring raw protein safely through.
 
 ---
 
@@ -33,7 +33,7 @@ The protein choice is open. Chicken tikka is the default and most familiar; pane
 
 ### Tomato Base
 - 5 tbsp tomato paste (double-concentrated puree diluted 1:3, blended tinned plum tomatoes, or passata)
-- 200 g pre-cooked tikka of your choice — see [Restaurant-Style Tikka](Restaurant-Style-Tikka.md)
+- 200 g pre-cooked tikka of your choice, see [Restaurant-Style Tikka](Restaurant-Style-Tikka.md)
 - 1.5 tsp lemon juice
 
 ### Sauce
@@ -56,7 +56,7 @@ The protein choice is open. Chicken tikka is the default and most familiar; pane
 
 ### Stage 1 - Toast the almonds
 1. If using the flaked almonds, set a dry frying pan on medium heat.
-2. Toast for 1 to 2 minutes, shaking the pan, until lightly browned. Don't wander — they go from golden to burnt fast.
+2. Toast for 1 to 2 minutes, shaking the pan, until lightly browned. Don't wander, they go from golden to burnt fast.
 3. Tip out onto a plate and set aside.
 
 ### Stage 2 - Temper
@@ -67,7 +67,7 @@ The protein choice is open. Chicken tikka is the default and most familiar; pane
 ### Stage 3 - Bloom the spices
 1. Add the mix powder, garam masala, and salt. Note: tandoori masala goes in later, not here.
 2. Fry for 20 to 30 seconds, stirring diligently.
-3. Splash in a little base gravy if the powdered spices start sticking — they need a touch of liquid to cook through properly.
+3. Splash in a little base gravy if the powdered spices start sticking, they need a touch of liquid to cook through properly.
 
 ### Stage 4 - Tomato base and tikka
 1. Turn the heat up. Add the tomato paste.
@@ -94,7 +94,7 @@ The protein choice is open. Chicken tikka is the default and most familiar; pane
 ---
 
 ## Notes
-- The tandoori masala goes in with the gravy, not with the dry spices in Stage 3. That's unusual for a BIR build but it's deliberate — the smoky chargrill profile of the tandoori masala wants to come through in the finished sauce, not get cooked out early.
+- The tandoori masala goes in with the gravy, not with the dry spices in Stage 3. That's unusual for a BIR build but it's deliberate, the smoky chargrill profile of the tandoori masala wants to come through in the finished sauce, not get cooked out early.
 - Brands of tandoori masala vary wildly in salt content, and some are aggressively salted. Do taste a small amount of yours first and dial the added salt down if needed.
 - "Tomato paste" here means something medium-bodied: double-concentrated tomato puree mixed with 3 parts water, blended tinned plum tomatoes, or passata. Please don't substitute neat puree directly. It'll be too dense and the sauce won't reduce properly.
 - The coconut and almond powders both work to thicken and sweeten, but they aren't interchangeable. Coconut powder gives you a slightly nutty, faintly tropical character; ground almonds give body and rounded sweetness. Use both for the proper dish.

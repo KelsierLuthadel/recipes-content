@@ -11,9 +11,9 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Karahi takes its name from the deep, wok-shaped pan it's traditionally cooked in — a thick metal bowl that heats hard and fast, perfect for the high-heat finish that defines the dish. The BIR version layers two extra steps onto the standard curry-house build: freshly toasted cumin and coriander seeds ground at the start, and a fresh green paste of onion, chillies, peppers, coriander stalks, garlic, and ginger blitzed together. Both add a brightness and depth that ground spices and ginger-garlic paste alone can't deliver.
+Karahi takes its name from the deep, wok-shaped pan it's traditionally cooked in, a thick metal bowl that heats hard and fast, perfect for the high-heat finish that defines the dish. The BIR version layers two extra steps onto the standard restaurant build: freshly toasted cumin and coriander seeds ground at the start, and a fresh green paste of onion, chillies, peppers, coriander stalks, garlic, and ginger blitzed together. Both add a brightness and depth that ground spices and ginger-garlic paste alone can't deliver.
 
-The flavour profile is medium to hot, distinctly herbaceous from the green paste, and aromatic from the whole-spice tempering (fennel, cloves, green and black cardamom). Fresh tomato wedges go in two minutes before the end and stay only just cooked — pockets of juicy acidity dotted through the sauce. This is the curry to make when you want something a notch more involved than a weeknight madras.
+The flavour profile is medium to hot, distinctly herbaceous from the green paste, and aromatic from the whole-spice tempering (fennel, cloves, green and black cardamom). Fresh tomato wedges go in two minutes before the end and stay only just cooked, pockets of juicy acidity dotted through the sauce. This is the curry to make when you want something a notch more involved than a weeknight madras.
 
 ---
 
@@ -67,7 +67,7 @@ The flavour profile is medium to hot, distinctly herbaceous from the green paste
 ### Stage 1 - Make the green paste
 1. Roughly chop the onion, green chillies, peppers, coriander stalks, garlic, and ginger.
 2. Blitz in a small blender or food processor with a splash of oil until smooth. Set aside.
-3. You will have more paste than the 3 tbsp this recipe needs — keep the rest in the fridge for the next karahi (or spread on toast with extra chopped green chilli).
+3. You will have more paste than the 3 tbsp this recipe needs, keep the rest in the fridge for the next karahi (or spread on toast with extra chopped green chilli).
 
 ### Stage 2 - Toast and grind the seeds
 1. Set a dry frying pan on medium heat. Add the cumin and coriander seeds.
@@ -78,7 +78,7 @@ The flavour profile is medium to hot, distinctly herbaceous from the green paste
 1. Set a karahi, wok, or wide frying pan on medium-high heat and add the oil.
 2. When hot, drop in the fennel seeds, cloves, green cardamom, and the optional black cardamom. Fry for 30 seconds to infuse the oil.
 3. Add the freshly ground cumin and coriander powder along with the ginger-garlic paste.
-4. Stir constantly for 20 to 30 seconds until the mixture darkens and the sizzling drops — at which point it's about to burn if you don't keep moving.
+4. Stir constantly for 20 to 30 seconds until the mixture darkens and the sizzling drops, at which point it's about to burn if you don't keep moving.
 
 ### Stage 4 - Bloom the spices
 1. Add the kasuri methi, mix powder, chilli powder, garam masala, and salt.
@@ -94,13 +94,13 @@ The flavour profile is medium to hot, distinctly herbaceous from the green paste
 2. Pour in 75 ml of base gravy. Stir and scrape once, then leave undisturbed until the sauce reduces and small dry craters form around the edges with the oil surfacing.
 3. Add a second 75 ml of base gravy. Stir and scrape once when it goes in, then fry for 30 to 45 seconds until the craters return.
 4. Pour in the final 150 ml of base gravy. Stir once.
-5. Cook on high heat for 3 to 4 minutes. Resist stirring — the caramelisation on the base and sides of the pan is where the flavour develops. Intervene only if the sauce is about to burn.
+5. Cook on high heat for 3 to 4 minutes. Resist stirring, the caramelisation on the base and sides of the pan is where the flavour develops. Intervene only if the sauce is about to burn.
 6. Add a splash more base gravy at the end if the sauce tightens past where you want it.
 
 ### Stage 7 - Tomato and coriander finish
 1. Taste and adjust with extra salt or sugar if needed.
 2. Add the fresh tomato quarters and the chopped coriander leaves.
-3. Stir once and cook for a further 1 to 2 minutes — the tomato should soften and release juice without disintegrating.
+3. Stir once and cook for a further 1 to 2 minutes, the tomato should soften and release juice without disintegrating.
 4. Fish out the cloves and cardamom pods (alternatively, use the seeds scraped from the cardamom pods at Stage 3 and discard the pods, so there's nothing to retrieve later).
 5. Plate up with an extra scatter of fresh coriander.
 

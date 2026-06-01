@@ -2,7 +2,7 @@
 
 ![Restaurant-Style Lavastorm Curry](resources/restaurant-style-lavastorm.jpg)
 
-*A specialist BIR challenge dish built around a fresh "molten lava" paste of naga, scotch bonnet, and Thai red chillies. Eye-watering by design — and yes, properly delicious if you respect the heat.*
+*A specialist BIR challenge dish built around a fresh "molten lava" paste of naga, scotch bonnet, and Thai red chillies. Eye-watering by design, and yes, properly delicious if you respect the heat.*
 
 **Serves:** 1
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Lavastorm belongs to the rarefied corner of the BIR menu shared with phaal, naga, and the various house-named "hottest curries on the menu" dishes. The defining ingredient is a freshly blended chilli paste — garlic, tandoori masala, and a deliberate blend of super-hot red chillies (naga, scotch bonnet, Thai red, with regular supermarket chillies as the rounder bottom note). Three tablespoons of that paste, plus extra-hot chilli powder, Kashmiri chilli powder, chilli flakes, and 8 to 10 sliced fresh green chillies stirred in at the end, build a wall of heat that needs careful balancing.
+Lavastorm belongs to the rarefied corner of the BIR menu shared with phaal, naga, and the various house-named "hottest curries on the menu" dishes. The defining ingredient is a freshly blended chilli paste, garlic, tandoori masala, and a deliberate blend of super-hot red chillies (naga, scotch bonnet, Thai red, with regular supermarket chillies as the rounder bottom note). Three tablespoons of that paste, plus extra-hot chilli powder, Kashmiri chilli powder, chilli flakes, and 8 to 10 sliced fresh green chillies stirred in at the end, build a wall of heat that needs careful balancing.
 
 What stops the dish from being unbearable is the late layer of honey, sugar, lime juice, and a final spoon of yoghurt. The sweetness and acidity give the heat structure; the yoghurt softens the colour and the texture. Without those finishing notes you have a dish that just hurts. With them you have a curry that hits hard, layers in tropical-fruit chilli flavours from the naga and scotch bonnet, then rounds out as it cools on the tongue.
 
@@ -87,7 +87,7 @@ Cook this with the extractor fan on full and a window open. The chilli vapour co
 ### Stage 4 - Bloom the spices
 1. Add the kasuri methi, both chilli powders, mix powder, and salt.
 2. Pour over 30 ml of base gravy to help bind the spices and stop them burning.
-3. Fry for 30 to 40 seconds, constantly stirring and using the flat of the spoon to spread the spices across the pan. Add a little water or extra base gravy if the spices start sticking — they need to cook out properly here.
+3. Fry for 30 to 40 seconds, constantly stirring and using the flat of the spoon to spread the spices across the pan. Add a little water or extra base gravy if the spices start sticking, they need to cook out properly here.
 
 ### Stage 5 - Lava paste and tomato base
 1. Add the tomato paste, the molten lava chilli paste, the chilli flakes, and the optional chilli or naga pickle.
@@ -102,7 +102,7 @@ Cook this with the extractor fan on full and a window open. The chilli vapour co
 5. Taste cautiously. The chilli powders need to be fully cooked out (raw chilli reads sharp and dusty); cook longer if you can still taste the rawness. Adjust the sugar, salt, or lime juice as needed.
 
 ### Stage 7 - Yoghurt finish and plate
-1. Drop the heat to low. Stir in the natural yoghurt — it helps the colour and softens the chilli edge slightly.
+1. Drop the heat to low. Stir in the natural yoghurt, it helps the colour and softens the chilli edge slightly.
 2. There will be a generous slick of oil on the surface. Spoon some off if you prefer a less rich result; leave it for the full BIR experience.
 3. Plate up with the chopped coriander on top and a slice or two of tomato to one side.
 
@@ -119,7 +119,7 @@ Cook this with the extractor fan on full and a window open. The chilli vapour co
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to mop the sauce. A large bowl of cool raita on the side is genuinely necessary — milk, yoghurt, and dairy fat are the only effective rescue when the heat overwhelms.
+Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to mop the sauce. A large bowl of cool raita on the side is genuinely necessary, milk, yoghurt, and dairy fat are the only effective rescue when the heat overwhelms.
 
 ---
 
