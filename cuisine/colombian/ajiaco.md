@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Chicken poaches with onion, garlic and herbs into a clean, golden broth. The first potato (sabanera, or floury maris piper) drops in to start; the small yellow papa criolla follows to break down and thicken; pastusa or red potatoes go in last to hold shape. Cobs of sweet corn cook in the same pot. Guascas, the dish's signature herb, adds at the very end. Each bowl tops with shredded chicken, avocado, capers and a generous spoon of cream; rice on the side.
+Ajiaco is Bogotá's signature dish, the Andean chicken soup the whole capital eats on cold Sunday afternoons in the cool, drizzly altitude of the savannah. The three-potato structure is the genius of it: floury sabanera (or maris piper) drops in first and dissolves into the broth thickening it; small yellow papa criolla breaks down further to give the soup its golden colour; pastusa or red potatoes go in last and hold their shape so each spoonful has chunks to chew. Cobs of sweet corn cook in the same pot, picking up the chicken broth's depth. The dish-defining herb is guascas, a wild green native to the Bogotá plateau, added at the very end so its grassy, faintly artichoke perfume doesn't cook away. Each bowl gets shredded chicken, diced avocado, capers and a generous spoon of cream stirred in at the table; rice on the side, to be tipped in or eaten alongside as the cook prefers.
 
 ## Ingredients
 

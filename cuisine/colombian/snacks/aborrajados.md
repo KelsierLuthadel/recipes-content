@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Very ripe (almost black-skinned) plantains peel and slice in half lengthways, then in half crossways, four pieces per plantain. Each piece pan-fries briefly in oil to soften, then mashes between two pieces of parchment with a flat saucepan to flatten to a disc. A cube of cheese sits between two flattened discs, sandwiching the cheese. The whole package dips in a sweet batter of flour, egg, sugar and milk, then deep-fries golden.
+Aborrajados are the Cali street-cart treat that turns a very ripe plantain into something rich and almost savoury, a sandwich of caramelised plantain around a centre of melted cheese, dipped in batter and deep-fried. The plantains have to be properly ripe, almost black-skinned, soft to the touch, so the inside cooks down sweet and dense rather than starchy. You slice each plantain into four pieces, pan-fry briefly to soften, then press each piece flat between two sheets of parchment with the base of a saucepan. Two flat discs sandwich a cube of cheese in between like a cheese-toast filling. The whole assembly dips in a sweet batter of flour, egg, sugar and milk, then deep-fries to a golden shell with melting cheese inside. Eat hot, with napkins.
 
 ## Ingredients
 

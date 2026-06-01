@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Short-grain rice rinses, then simmers in water with a cinnamon stick and lemon peel for 15 minutes until just-tender and the water is mostly absorbed. Whole milk pours in along with sweetened condensed milk (the Colombian shortcut) and more sugar. Simmers another 25 minutes, stirring more frequently as it thickens, until the rice is soft and the texture is loose-creamy. Raisins fold in. Cinnamon dusts on top.
+Arroz con leche is the cinnamon-scented rice pudding every Colombian grandmother makes on a Sunday afternoon, the smell of warm milk and cinnamon bark coming from the kitchen long before the bowls land on the table. Short-grain rice rinses first to lose its surface starch, then simmers in water with a cinnamon stick and a strip of lemon peel until just-tender. Whole milk pours in next along with sweetened condensed milk (the modern Colombian shortcut that gives the pudding its signature creaminess) and a little more sugar. You simmer it gently for another twenty-five minutes, stirring more often as it thickens, until the rice has gone properly soft and the texture is loose and creamy rather than stiff. Raisins fold in for sweet chewy bites. Serve warm or chilled with a dust of cinnamon over each bowl.
 
 ## Ingredients
 - 200 g short-grain pudding rice (or arborio)

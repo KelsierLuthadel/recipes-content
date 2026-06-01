@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 10 minutes (plus 30 min cooling)
 
 ## Overview
-Whole brown figs simmer slowly in a syrup of brown sugar, water, cinnamon and cloves until they're tender and the syrup has thickened to glossy. Off the heat, each fig gets cut almost through and stuffed with a generous spoonful of arequipe. Served warm or chilled, with extra syrup spooned over.
+Brevas con arequipe is the kind of Colombian dessert that takes ten minutes of work and produces something that looks and tastes like the cook has been at it all afternoon. Whole brown figs simmer slowly in a dark syrup of brown sugar, water, cinnamon and clove until they're tender enough to give under a spoon and the syrup has thickened to glossy. Off the heat, you cut each fig almost through with a small knife and stuff it with a generous spoonful of arequipe (the Colombian dulce de leche), thick, caramel, and slightly grainy with the milk solids that distinguish it from its smoother Argentinian cousin. Serve warm or chilled with extra syrup spooned over the top. The contrast between dark fruit and pale caramel is the entire point of the dish.
 
 ## Ingredients
 

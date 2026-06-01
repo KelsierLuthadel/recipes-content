@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Queso costeño (or feta-style salty cheese) mixes with cornstarch flour (almidón), an egg, a pinch of sugar, and just enough water to form a smooth firm dough. Rolls into walnut-sized balls. Drops into oil at a lower-than-usual temperature (160°C) so the inside cooks through before the outside burns. Fries for 5-6 minutes turning constantly until amber-gold and puffed.
+Buñuelos are the Christmas-morning Colombian snack, golden cheese-cornstarch balls that puff in hot oil and crack open slightly to show the soft white inside. The dough is queso costeño (or any salty feta-style cheese) mixed with almidón (cornstarch flour), an egg, a pinch of sugar and just enough water to form a smooth firm dough. You roll the dough into walnut-sized balls between your palms. They drop into oil at a lower-than-usual temperature (160°C) so the inside has time to cook through before the outside burns. Five to six minutes of constant turning gives you amber-gold balls puffed slightly larger than the raw size. Eat hot, ideally with natilla (the Colombian custard) on the side.
 
 ## Ingredients
 - 250 g queso costeño

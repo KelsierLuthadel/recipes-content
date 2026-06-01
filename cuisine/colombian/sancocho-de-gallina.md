@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-A whole hen (or chicken thighs and drumsticks if you can't get a stewing bird) simmers with aromatics for 90 minutes until tender. Cassava and plantain join for 30 minutes. Potato, sweet potato and corn-on-the-cob for the last 20. Coriander folds in. Served in deep bowls with rice on the side; the broth is poured over the rice, the meat eaten alongside.
+Sancocho is the soup-stew Colombians make on Sundays for big gatherings, a wide pot of hen and tubers that simmers slowly enough for everyone to stand around the kitchen talking while it does its work. A whole hen (or chicken thighs and drumsticks if you can't get a stewing bird) goes in first with aromatics and simmers for ninety minutes until the meat is tender enough to fall away. Cassava and plantain join for half an hour, soaking up the broth and softening to creamy chunks. Potato, sweet potato and corn-on-the-cob get the last twenty minutes so they hold their shape. Coriander folds in at the very end. Serve in deep bowls with rice on the side, the broth poured over the rice and the meat eaten alongside; nothing is wasted.
 
 ## Ingredients
 

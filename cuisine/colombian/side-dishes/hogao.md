@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Long spring onion (cebolla larga) and white onion are softened in oil; garlic, cumin and annatto come in; grated tomato cooks down 15 minutes until thick and sticky. Seasoned and rested. The texture is somewhere between a sauce and a paste, spoonable but coating.
+Hogao is the Colombian sofrito, the cooked tomato-and-onion sauce that lives in every Colombian kitchen and gets spooned over rice, beans, plantain, fried eggs, anything that needs a savoury jolt of warmth. Long spring onion (cebolla larga) and white onion soften slowly in oil until they're translucent and sweet; garlic, cumin and annatto for the colour come in next; grated tomato cooks down for fifteen minutes until it's thick, sticky and the orange-red of dried clay. Season with salt; rest briefly off the heat to let the flavours marry. The finished texture is somewhere between a sauce and a paste, spoonable but coating. Keep it in a jar in the fridge; eat with anything for the next week.
 
 ## Ingredients
 

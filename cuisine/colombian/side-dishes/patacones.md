@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Green (unripe) plantains peel and slice into 3 cm rounds. First fry: 5 minutes per side at 160°C, pale gold, soft inside. Lift out; smash each round flat with the back of a flat measuring cup or a tostonera. Second fry: 3 minutes per side at 180°C, deep gold and crisp. Salt while hot.
+Patacones are the twice-fried green plantain rounds that turn up on plates across the Caribbean coast of Colombia, salty, crisp, and quietly addictive. Green (unripe) plantains peel and slice into thick 3 cm rounds. The first fry is at 160°C for five minutes a side, just to soften the inside and turn the outside pale gold. You lift each round out and smash it flat with the back of a flat measuring cup or a wooden tostonera until it's about a centimetre thick. The second fry is at 180°C for three minutes a side, deep gold and audibly crisp. Salt while still hot from the oil. Eat as a side, or as a snack with hogao and a beer.
 
 ## Ingredients
 

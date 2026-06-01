@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-This isn't a from-scratch wafer recipe (obleas wafers require a specialised iron and are bought ready-made from Colombian / Latin grocers). The dish is the assembly: take one wafer, spread with arequipe, add toppings, top with another wafer. The recipe captures the technique and combinations.
+Obleas are the Colombian street-corner sweet you eat standing up, paper-thin round wafers sandwiching whatever combination of toppings the vendor has lined up at the cart. The wafers themselves require a specialised iron and are bought ready-made from Colombian or Latin grocers; this recipe is about the assembly, not the from-scratch wafer. The base is always arequipe (Colombian dulce de leche), spread generously across one wafer; from there you build up: shredded coconut, queso fresco, blackberry jam, condensed milk, the combinations vary from city to city. The top wafer goes on, gentle pressure, and the whole thing eats with your hands in three bites. Don't try to save them for later, the wafers go soft in minutes once the arequipe is spread.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Each component cooks separately and arrives on the same wide platter: braised red beans (frijoles paisas); white long-grain rice; fried pork belly (chicharrón); grilled or fried chorizo; sliced grilled steak; ripe plantain fried sweet; an egg sunny-side up; ½ avocado; an arepa de maíz.
+Bandeja paisa is the lunch the Antioquia coffee-region farmers ate before going back out to the fields, a flat platter of nine separate components arranged together so each bite can mix three or four ways. Braised red beans (frijoles paisas) anchor one corner; white long-grain rice fills another; fried pork belly (chicharrón) sits crackling beside grilled chorizo and a thin slice of grilled steak. A sweet caramelised plantain, a sunny-side egg, half an avocado and an arepa de maíz complete the plate. The cook's only real job is timing: each component finishes in a different time and the goal is to have everything still warm when the platter goes down. No one finishes a whole bandeja paisa in one sitting; that's understood. Serve with a glass of cold beer and a long afternoon ahead.
 
 ## Ingredients
 

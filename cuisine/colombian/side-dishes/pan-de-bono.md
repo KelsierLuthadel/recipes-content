@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Yuca flour (sour cassava flour, almidón agrio), masarepa (white-corn flour), salt and sugar mix; cheese grates fine; the egg and a small amount of milk bind. The dough is dense, slightly sticky. Shape into small rings (or balls); rest for 15-30 minutes; bake at 220°C until deep gold and puffed.
+Pan de bono is the Colombian cheese bread that puffs into glossy little rings in the oven and gets eaten warm with morning coffee. The dough is unusual: yuca flour (sour cassava flour, almidón agrio) and masarepa together, sweetened slightly with sugar and salted, bound with grated cheese, an egg and just enough milk to bring everything together into a dense, slightly sticky mass. You shape the dough into small rings (or simple balls) and rest them for fifteen to thirty minutes before baking. A 220°C oven gives you the puff, the deep gold colour, and the crackly cheese-edged crust. Eat warm, with butter or alone; the centres are pillowy and faintly tangy from the sour yuca flour.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (plus overnight chilling)
 
 ## Overview
-A whisked sponge, beaten egg whites for lift, yolks-and-sugar base, flour folded in, bakes in a 30 × 20 cm tin until pale gold. Cooled to room temp. Three milks (evaporated, condensed, whole) whisk together. Cake gets pierced all over with a fork or skewer. Milk slurry pours over slowly so it absorbs evenly. Chills overnight. Whipped cream tops at service; dusting of cinnamon.
+Tres leches is the Latin American sponge cake that drinks the three milks of its name and somehow doesn't collapse, a dessert that bridges the cake-mood and the pudding-mood in a single slice. The sponge is whisked, with the egg whites whipped to lift and folded back into a yolk-and-sugar base before the flour goes in; baked in a 30 by 20 cm tin until pale gold and just-set, then cooled to room temperature. The three milks (evaporated, condensed, whole) whisk together into a thin, sweet, ivory-coloured pour. You pierce the cake all over with a fork or skewer, then drizzle the milk mixture across slowly so it absorbs evenly rather than pooling at one end. Overnight in the fridge to drink it all up. Top each slice with whipped cream and a dust of cinnamon at the table.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 15 minutes
 
 ## Overview
-Dried red beans soak overnight. Bacon and chorizo render in a wide pot; aromatics build the base; soaked beans simmer with a chunk of green plantain (the trick, it dissolves over the cook and naturally thickens the broth) and pork belly for 2 hours. Hogao folds in at the end. Lime brightens.
+Frijoles paisas are the slow-cooked red beans that anchor every bandeja paisa in Antioquia, a dish that's part-bean, part-pork, all-day. Dried red beans soak overnight (don't skip this, fresh boil-up never reaches the same softness). Bacon and chorizo render in a wide pot to grease the base and add smoke; aromatics build a savoury foundation; the soaked beans simmer with a chunk of green plantain (the trick, it dissolves over the long cook and naturally thickens the broth) and a piece of pork belly for two hours until the beans are creamy and the pork falls apart. Hogao folds in at the end for tomato-onion brightness; lime juice cuts the richness. Serve hot, with rice, an arepa, and the rest of a bandeja paisa platter.
 
 ## Ingredients
 

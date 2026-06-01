@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Masarepa (pre-cooked, instant white maize flour, sold as "masarepa", "harina pan", or "P.A.N."), warm water and salt are mixed to a soft dough that rests for 5 minutes to hydrate. Cheese is folded in; the dough is shaped into discs about 1 cm thick. They are cooked in a dry hot pan first to set the surface, then given a thin coat of butter and cooked to deep golden on both sides. The cheese melts inside.
+Arepas are the bread of Colombia and Venezuela, eaten three meals a day in countless shapes; the cheese version is the one that disappears off a plate fastest. The dough is masarepa (pre-cooked corn flour, sold as Harina P.A.N. in Latin grocers), warm water and salt, kneaded soft and rested five minutes so the maize hydrates fully. Crumbled or grated cheese folds in; you press the dough into 1 cm thick discs with your palms. They cook in a dry hot pan first to set the surface, then get a thin brush of butter and a second pass on each side to deep golden. The cheese inside melts into pockets of warm cream. Eat them straight off the pan, with a coffee or hot chocolate, no other condiment required.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Coconut milk reduces in a heavy pot until the cream splits and turns to a dark caramel (titoté), this takes 15 minutes and is non-negotiable. Then rice, more coconut milk, water and raisins go in. Cook absorption-style, lid on, lowest heat, 18 minutes. Rest for 5 minutes; fluff.
+Arroz con coco is the Caribbean-coast Colombian rice dish that turns a humble grain into something rich, dark and faintly sweet, the side that pairs naturally with grilled fish or slow-cooked stews on the coast. The technique is the whole point: coconut milk reduces hard in a heavy pot until the cream splits and turns to a dark caramel called titoté, that's the toasted-coconut flavour that defines the dish, and it takes fifteen minutes of patience. Then rice, more coconut milk, water and raisins go in. Cook absorption-style: lid on, the lowest heat, eighteen minutes without lifting the lid. Rest for five more minutes off the heat, then fluff with a fork. The finished rice is the colour of dark gold with raisins folded through.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Yellow-corn masarepa hydrates with water, salt and a pinch of paprika for colour. Beef mince cooks with onion, tomato cumin and oregano; cooked potato dices fold in for body. The dough divides; each ball flattens between two pieces of cling film into thin discs; filling goes in the centre; folded into a half-moon, sealed with damp fingers, fried.
+Colombian empanadas are deep-fried half-moons in a vivid yellow-corn casing, sold by the dozen at every street stall in Bogotá and Medellín. The corn dough is what sets them apart from their Argentinian cousins: yellow masarepa hydrates with water, salt and a pinch of paprika for the proper sunny colour. The filling is humble and savoury: beef mince cooked down with onion, tomato, cumin and oregano, then folded with diced cooked potato for body and creaminess. The dough divides; each ball flattens between two sheets of cling film into a thin disc; a spoonful of filling sits in the centre; the disc folds into a half-moon and seals with damp fingers. Deep-fried in hot oil until the corn casing crisps to deep gold. Eat hot with ají picante on the side.
 
 ## Ingredients
 
