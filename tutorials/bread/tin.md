@@ -4,6 +4,9 @@
 
 *A tin loaf is a rectangular pan loaf with a deep split running down the centre - like the [standard loaf](standard-loaf.md), but with an extra bit of presentation. You can make it two ways: by joining two pieces of dough side-by-side in the tin (they fuse during baking), or by scoring a single round of dough deeply down its length. Both produce that distinctive striped top.*
 
+## Overview
+A tin loaf is a rectangular pan loaf with a deep split running down its length. Two methods get you there: joining two pieces of dough side-by-side in the tin so they fuse during baking, or scoring a single round of dough deeply down the centre. Both produce that distinctive striped top and add presentation to what would otherwise be a plain pan loaf.
+
 ## What you're aiming for
 A neat rectangular loaf with flat sides (from the tin) and a deep split running the full length down the top, which widens dramatically during the bake. The split adds visual rhythm to what would otherwise be a plain tin loaf and tells anyone looking at it that someone was thinking about presentation.
 
@@ -48,6 +51,12 @@ Cool on a wire rack for at least an hour before slicing.
 - **Single-piece method:** Simpler shaping, one scoring move at the end. Slightly more dramatic visual because the split widens unpredictably along its length. Best for daily baking.
 
 Most home bakers settle on one or the other after a few tries.
+
+## Storage
+- Keeps 3-4 days in a bread bin or wrapped in a tea towel; the split top dries first but the crumb stays soft
+- Best sliced and frozen on day one; toast slices straight from the freezer
+- Re-crisp the crust in a 180°C oven for 5 minutes if needed
+- Avoid the fridge: it stales bread faster than the counter
 
 ## Where Next
 - [Standard Loaf](standard-loaf.md): the unsplit pan-loaf this is built on. Start here first if you're new to bread.

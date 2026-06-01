@@ -4,6 +4,9 @@
 
 *A braided loaf looks far more involved than it actually is. Once you can roll three even-length dough strands and have the patience to alternate "right over centre, left over centre" a few dozen times, you can produce something genuinely impressive. It's the loaf you'd bring to a dinner party.*
 
+## Overview
+A braided loaf looks far more involved than it actually is. Once you can roll three even-weight strands and alternate "right over centre, left over centre" through the length, you have a glossy plaited loaf that reads as a serious bake. The three-strand version is the foundation; four-strand and six-strand are variations on the same logic with more strands to keep track of.
+
 ## What you're aiming for
 Three (or four, or six) even strands of dough, woven into a long braid, proved gently and baked into a glossy plaited loaf. The weave should be neat but relaxed - too tight and the dough can't rise; too loose and the pattern falls apart in the oven. Done well, the strands separate slightly during the bake into a series of gentle waves down the surface.
 
@@ -54,6 +57,12 @@ Bake at 200 to 220°C for 30 to 35 minutes until deeply golden. The braids shoul
 A four-strand braid uses the same logic but worked end-to-end with two pairs alternating: 1-over-3, 4-over-2, 1-over-3 again. The pattern is tighter and more textured.
 
 Six strands is genuinely advanced and worth learning only if you enjoy plaiting - but the results are extraordinary, the loaf looking almost like rope. Look up a six-strand challah video before attempting; you cannot remember the sequence from prose alone.
+
+## Storage
+- Keeps 2 days in a paper bag or bread bin; the egg-washed crust softens but the crumb stays sliceable
+- Freezes whole or sliced for up to 1 month; thaw at room temperature, or toast slices from frozen
+- Re-crisp a whole braid in a 170°C oven for 5-7 minutes (lower than other loaves so the glaze doesn't burn)
+- Never refrigerate: cold accelerates staling
 
 ## Where Next
 - [Enriched Doughs](enriched-doughs.md): challah is the classic braided enriched loaf - eggs, sugar, oil, soft crumb.

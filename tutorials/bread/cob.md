@@ -4,6 +4,9 @@
 
 *The cob is the round dome you picture when you think "loaf of bread." Master this one shape and a surprising amount of the bread repertoire opens up. The Coburg, the cottage, the sourdough boule, even the rustic country round on the cover of every baking book - all of them start with the same hand movement you'll learn here.*
 
+## Overview
+The cob is the round domed loaf you picture when you think "loaf of bread." Master this single shape and a surprising amount of the bread repertoire opens up: the Coburg, the cottage, the sourdough boule, and the rustic country round all start with the same hand movement. The skill behind every rounded loaf is the same - building surface tension by pulling the dough tight against itself.
+
 ## What you're aiming for
 A tight, smooth ball of dough that holds a round dome shape on its own, with the seam tucked underneath and the surface taut enough to take a clean score. Done well, the loaf bakes into a high domed crust with even browning all the way around. Done loosely, it slumps sideways during proving and bakes into something more like a flat cake.
 
@@ -42,6 +45,12 @@ Bake at 220°C for 25 to 30 minutes until deeply golden, then cool on a wire rac
 ## A note on the underside
 
 When the cob goes into the oven, the seam goes on the bottom and the dome you shaped is the visible top. If you flip it the other way, the dough will burst from the seam during the bake - that hidden pucker is the weakest point in the surface tension, and oven heat will find it. Always seam-side down.
+
+## Storage
+- Keeps 2 days in a paper bag or bread bin; the crust softens but the dome holds its shape
+- Freezes whole or sliced for up to 1 month; thaw at room temperature, or toast slices from frozen
+- Re-crisp a whole loaf in a 180°C oven for 5-10 minutes to restore the crust
+- Never refrigerate: cold accelerates staling
 
 ## Where Next
 - [Coburg](coburg.md): same cob shape, finished with a deep cross-cut.

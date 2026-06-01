@@ -4,6 +4,9 @@
 
 *The baguette is the long, thin, crusty French loaf with the dramatic ears down its top. It's the shape with the steepest learning curve in the course - the dough has to stay uniform-diameter across 60 cm - but the technique itself is teachable, and once you have the envelope-fold and the rolling motion, every other long-and-thin loaf becomes a variation.*
 
+## Overview
+The baguette is the long thin French loaf with dramatic ears running down its top. It has the steepest learning curve in the course because uniform diameter across 60 cm is non-negotiable: there's nowhere to hide a wobble. The technique is teachable though, and once the envelope-fold and the centre-out roll click, every other long-and-thin loaf becomes a variation.
+
 ## What you're aiming for
 A slim cylinder around 60 cm long and 5 to 7 cm thick, with gently tapered ends and six or seven diagonal slashes across the top. After baking, those slashes should open into the crisp, slightly-lifted edges called "ears" - the visual signature of a properly baked baguette. The interior should be open and irregular, the crust should crackle when squeezed.
 
@@ -68,6 +71,12 @@ Slide the baguette onto the middle rack and immediately introduce steam - a tray
 Bake for 15 to 20 minutes until deeply golden. The slashes should have opened dramatically and lifted into ears. The crust should sound thin and tap-crispy.
 
 Cool on a wire rack for 30 minutes minimum before slicing. Eat the same day - a baguette is stale by tomorrow.
+
+## Storage
+- Eat the same day it's baked: a baguette is stale by tomorrow
+- Re-crisp leftovers in a hot oven (200°C, 4-5 minutes) to revive the crust
+- Freezes well within 2 hours of cooling; thaw at room temperature, then re-crisp before serving
+- Never refrigerate: the cold accelerates staling
 
 ## Where Next
 - [Épi](epi.md): the showstopper wheat-ear variant, built on the baguette shape.

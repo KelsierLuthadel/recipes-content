@@ -4,6 +4,9 @@
 
 *Épi means "ear" in French, as in ear of wheat - and that's exactly what this bread looks like. It's a baguette that's been snipped with scissors before baking so the dough folds out into a fan of pull-apart segments. Quite possibly the easiest visual showstopper in the bread course: if you can shape a baguette, you can épi.*
 
+## Overview
+Épi means "ear" in French, as in ear of wheat - and that's exactly what this bread looks like. It's a baguette snipped with scissors before baking so the dough folds out into a fan of pull-apart segments down its length. The crust-to-crumb ratio is enormous because every cut exposes more surface to the oven; you tear the segments off at the table without a knife.
+
 ## What you're aiming for
 A baguette-length loaf with seven or eight scissor-cut segments lifting alternately to one side and the other along its length. Once baked, each segment becomes its own little pull-apart roll - you can tear them off at the table without a knife. The crust-to-crumb ratio is enormous because every cut exposes more surface to the oven, giving the épi an exceptional crust character.
 
@@ -38,6 +41,13 @@ Bake at 220 to 240°C for 15 to 20 minutes until deeply golden. Add steam at the
 The segments will puff dramatically during the bake into individual rolls joined at the spine. The flaps you pushed to one side will lift further as the dough rises.
 
 Cool on a wire rack. Tear off segments by hand at the table; the loaf is built for it.
+
+## Storage
+- Eat the same day it's baked: an épi is mostly crust, which softens by tomorrow
+- Tear the segments apart before storing; they're easier to revive individually
+- Re-crisp leftover segments in a 200°C oven for 3-4 minutes
+- Freezes well within 2 hours of cooling; thaw at room temperature, then re-crisp before serving
+- Never refrigerate: the cold accelerates staling
 
 ## Where Next
 - [Baguette](baguette.md): the foundational long-and-thin shape épi is built on.

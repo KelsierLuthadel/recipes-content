@@ -4,6 +4,9 @@
 
 *The Coburg is a cob with a single, decisive piece of cutlery work: a deep cross slashed across the top before the bake. In the oven those four quarters lift apart and you get a striking blistered crown for the price of one extra step. Same dough, same shaping as a [cob](cob.md), genuinely impressive result.*
 
+## Overview
+The Coburg is a cob with one decisive piece of cutlery work: a deep cross cut across the top before the bake. In the oven those four quarters lift apart, picking up their own pattern of blistering along the cut edges. Same dough, same shaping as the cob, but with a striking blistered crown for the price of one extra step.
+
 ## What you're aiming for
 A tight, smooth, round loaf with a deep cross cut through the dome. The cross opens into four "petals" during the bake, each picking up its own pattern of blistering and char along the cut edges. Inside, the crumb is the same as a cob - close, sliceable, generous. The whole thing reads as a more confident bake than a plain round, and the technique is almost identical.
 
@@ -32,6 +35,12 @@ A few things that make a clean cross:
 Slide the scored loaf straight into the hot oven on the middle rack. Bake for 25 to 30 minutes until deeply golden. As it rises, the cross opens dramatically and the four quarters lift away from each other - that's the Coburg's signature.
 
 Cool on a wire rack for at least an hour before slicing. The cross-cut top makes for natural tearing into quarters at the table.
+
+## Storage
+- Keeps 2 days in a paper bag or bread bin; the blistered cross holds up well for the first day
+- Freezes whole or sliced for up to 1 month; thaw at room temperature, or toast slices from frozen
+- Re-crisp a whole loaf in a 180°C oven for 5-10 minutes to restore the crust
+- Never refrigerate: cold accelerates staling
 
 ## Where Next
 - [Cob or Boule](cob.md): the foundational round, before you add the cross.

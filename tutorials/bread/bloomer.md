@@ -4,6 +4,9 @@
 
 *The bloomer is the long flat oval with diagonal slashes across the top that fans out into a wheat-stalk pattern as it bakes. Classic British artisan shape, very forgiving to make, and one of the most rewarding loaves to score: the slashes open up dramatically in the oven and the bread "blooms" through each one.*
 
+## Overview
+The bloomer is the long flat oval with diagonal slashes that fan out into a wheat-stalk pattern in the oven. It's forgiving to shape, generous to score, and one of the most rewarding loaves to bake: the cuts open dramatically as the dough rises and the bread "blooms" through each one. Sliceable enough for sandwiches and even better torn into chunks for soup.
+
 ## What you're aiming for
 A long, slightly tapered cylinder of dough with a smooth, taut top, sitting flat on a baking sheet. Once scored across the top in six or eight diagonal cuts, the loaf opens up during the bake into a striking series of ridges and ears. The crumb is sliceable and even, the crust is generous - a bloomer is good for sandwiches and even better torn off in chunks for soup.
 
@@ -40,6 +43,12 @@ See [Scoring](scoring.md) for the full theory of why scored loaves bloom, and ho
 Slide the scored bloomer straight into the oven on the middle rack. Bake 30 to 35 minutes until deeply golden. During the bake the slashes open up and the dough blooms through them into ridges - that's where the name comes from.
 
 Cool on a wire rack for at least an hour before slicing. Cutting too early traps steam in the crumb and turns it gummy.
+
+## Storage
+- Keeps 2 days in a paper bag or bread bin; the crust softens but the crumb stays sliceable
+- Freezes whole or sliced for up to 1 month; thaw at room temperature, or toast slices from frozen
+- Re-crisp a whole loaf in a 180°C oven for 5-10 minutes to restore the crust
+- Never refrigerate: cold accelerates staling
 
 ## Where Next
 - [Standard Loaf](standard-loaf.md): the everyday rectangular tin loaf, easiest place to start if the bloomer feels ambitious.

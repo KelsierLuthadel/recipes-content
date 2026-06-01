@@ -4,6 +4,9 @@
 
 *Fougasse is Provence's slashed flatbread: dough stretched out into a leaf or ladder shape with deep cuts pulled open into elongated holes. The holes do something clever - they expose so much surface area to the oven heat that the whole loaf becomes mostly crust. Tear-and-dip is the only way to eat it.*
 
+## Overview
+Fougasse is Provence's slashed flatbread: dough stretched into a leaf or ladder shape with deep cuts pulled open into elongated holes. The holes do something clever - they expose so much surface to the oven that the whole loaf becomes mostly crust. Best torn and dipped in olive oil or used to sop up the juices of a stew.
+
 ## What you're aiming for
 A flattish piece of dough, roughly the shape of an elongated leaf or a flat triangle with rounded corners, with several long diagonal slits cut down each side and pulled open into oval gaps. After baking, those gaps stay open and the whole loaf reads as a stylised leaf or ladder. The crust is everywhere; the crumb is sparse. Brilliant for olive oil, brilliant for sopping up the juice of a stew.
 
@@ -46,6 +49,12 @@ Cover loosely with a damp tea towel and prove for 30 to 45 minutes - a fougasse 
 Just before baking, brush the top with olive oil and scatter a generous pinch of flaky sea salt over the whole loaf. Rosemary needles, finely chopped, are the classic addition.
 
 Bake at 220°C for 15 to 20 minutes until deeply golden and crisp at every edge. Fougasse is mostly crust, so it cooks fast. Cool just briefly on a wire rack - fougasse is best torn apart and eaten warm.
+
+## Storage
+- Eat the same day it's baked: a fougasse is almost all crust, and the crust softens by tomorrow
+- Re-crisp leftovers in a 200°C oven for 3-4 minutes to revive the crackle
+- Freezes flat within 2 hours of cooling; thaw at room temperature, then re-crisp before serving
+- Never refrigerate: the cold accelerates staling
 
 ## Where Next
 - [Hydration](hydration.md): fougasse works well at higher hydration (70%+) - the open crumb the wet dough produces suits the stretched-flat technique.

@@ -4,6 +4,9 @@
 
 *The standard loaf is the everyday rectangular sandwich loaf - dough shaped into a soft oval and dropped into a buttered tin to rise. It's the easiest shape in the whole course and the place to start if you've never baked bread before. The tin does most of the work; you just need to put dough in it.*
 
+## Overview
+The standard loaf is the everyday rectangular sandwich loaf: dough shaped into a soft oval and dropped into a buttered tin to rise. It's the easiest shape in the whole course and the right place to start if you've never baked bread before. The tin does most of the work; you just need to put the dough in it.
+
 ## What you're aiming for
 A rectangular loaf with flat sides (from the tin walls) and a gently domed top (where the dough rose above the rim and had room to expand). Even crumb, slightly soft crust, sliceable for sandwiches or toast. Nothing flashy - and that's the point. Every other shape in the course assumes you can shape a tight ball or a tight cylinder; the standard loaf bypasses both requirements by relying on the tin.
 
@@ -39,6 +42,12 @@ The standard loaf is the right place to start. Once you've baked a couple, the n
 - **[Tin loaf](tin.md)** - a variation that splits the loaf down the centre, either by joining two pieces side-by-side or with a single deep score. Same tin, slightly more presentation.
 - **[Cob](cob.md)** - your first round shape. Teaches the cup-and-rotate that underpins every domed bread.
 - **[Bloomer](bloomer.md)** - your first multi-cut scoring practice on a free-form loaf.
+
+## Storage
+- Keeps 3-4 days in a bread bin or wrapped in a tea towel; the soft crumb stays sliceable for sandwiches
+- Best sliced and frozen on day one; toast slices straight from the freezer
+- Re-crisp the crust in a 180°C oven for 5 minutes if needed
+- Avoid the fridge: it stales bread faster than the counter
 
 ## Where Next
 - [Tin Loaf](tin.md): the moulded tin variant with a split top.
