@@ -1,0 +1,35 @@
+prep: 2 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+tags:
+  - drinks
+  - vegetarian
+  - quick
+  - chocolate
+  - winter
+ingredients:
+  - qty: 500
+    unit: ml
+    name: whole milk
+    raw: 500 ml whole milk
+  - qty: 3
+    unit: tbsp
+    name: cocoa powder
+    raw: 3 tablespoons unsweetened cocoa powder
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 to 3 tablespoons caster sugar
+  - name: fine salt
+    raw: Pinch of fine salt
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - name: mini marshmallows
+    raw: Mini marshmallows
+  - name: whipped cream
+    raw: A swirl of whipped cream
+  - name: cocoa
+    raw: A dusting of cocoa or grated chocolate

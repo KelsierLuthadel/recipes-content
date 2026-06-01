@@ -1,0 +1,54 @@
+prep: 10 minutes
+cook: 2 minutes
+allergens:
+  - dairy
+tags:
+  - drinks
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - yogurt
+  - spices
+ingredients:
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 600
+    unit: g
+    name: thick full-fat plain yogurt
+    raw: 600 g thick full-fat plain yogurt
+  - qty: 350
+    unit: ml
+    name: cold water
+    raw: 350 ml cold water
+  - qty: 1
+    unit: tsp
+    name: fine salt
+    raw: 1 teaspoon fine salt
+  - qty: 0.25
+    unit: tsp
+    name: black salt
+    raw: ¼ teaspoon black salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon freshly ground black pepper
+  - name: asafoetida
+    raw: Pinch of asafoetida
+  - qty: 8
+    name: fresh mint leaves
+    raw: 8 fresh mint leaves
+  - qty: 1
+    unit: tbsp
+    name: fresh coriander
+    raw: 1 tablespoon chopped fresh coriander
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - name: toasted cumin
+    raw: Pinch of toasted cumin
+  - name: mint leaves
+    raw: A few mint leaves
+  - name: black pepper
+    raw: Crack of black pepper

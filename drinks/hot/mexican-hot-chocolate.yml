@@ -1,0 +1,45 @@
+prep: 5 minutes
+cook: 8 minutes
+allergens:
+  - dairy
+  - nuts
+tags:
+  - drinks
+  - vegetarian
+  - quick
+  - chocolate
+  - spicy
+  - chili
+  - spices
+  - winter
+ingredients:
+  - qty: 500
+    unit: ml
+    name: whole milk
+    raw: 500 ml whole milk
+  - qty: 100
+    unit: g
+    name: Mexican drinking chocolate
+    raw: 100 g Mexican drinking chocolate
+  - qty: 1
+    name: Mexican canela cinnamon stick
+    raw: 1 stick Mexican canela cinnamon
+  - qty: 1
+    name: cardamom pod
+    raw: 1 cardamom pod
+  - qty: 0.25
+    unit: tsp
+    name: ancho chilli powder
+    raw: ¼ teaspoon ancho or pasilla chilli powder
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - name: fine salt
+    raw: Pinch of fine salt
+  - name: churros
+    raw: A churro or two
+  - name: cocoa
+    raw: A dusting of cocoa or cinnamon
+  - name: whipped cream
+    raw: Whipped cream
