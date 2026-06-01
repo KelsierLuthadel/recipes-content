@@ -1,11 +1,15 @@
 prep: 4 minutes
-cook: 2 minutes
-allergens: []
+cook: 2 minutes (to pull the espresso)
+allergens:
+  - meat
 tags:
-  - gluten-free
   - dairy-free
+  - gluten-free
   - quick
-  - alcoholic
+  - meat
+  - duck
+mentions:
+  - drinks/cocktails/martini
 ingredients:
   - qty: 50
     unit: ml
@@ -13,21 +17,20 @@ ingredients:
     raw: 50 ml vodka
   - qty: 30
     unit: ml
-    name: freshly pulled espresso
+    name: pulled espresso
     raw: 30 ml freshly pulled espresso
   - qty: 25
     unit: ml
-    name: Kahlúa
+    name: kahlua
     raw: 25 ml Kahlúa
   - qty: 10
     unit: ml
     name: simple syrup
     raw: 10 ml simple syrup
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - qty: 3
-    name: whole coffee beans
+    name: coffee beans
     raw: 3 whole coffee beans
-  - qty: 1
-    name: chilled coupe glass
+  - name: chilled coupe glass
     raw: A chilled coupe glass

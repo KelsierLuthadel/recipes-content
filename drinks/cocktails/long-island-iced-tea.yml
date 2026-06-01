@@ -2,12 +2,15 @@ prep: 4 minutes
 cook: 0 minutes
 allergens: []
 tags:
-  - gluten-free
+  - vegetarian
+  - vegan
   - dairy-free
+  - gluten-free
   - quick
-  - no-cook
-  - alcoholic
   - lemon
+mentions:
+  - drinks/classic/iced-tea
+  - drinks/classic/lemonade
 ingredients:
   - qty: 15
     unit: ml
@@ -31,13 +34,13 @@ ingredients:
     raw: 15 ml triple sec
   - qty: 25
     unit: ml
-    name: fresh lemon juice
+    name: lemon juice
     raw: 25 ml fresh lemon juice
   - qty: 15
     unit: ml
     name: simple syrup
     raw: 15 ml simple syrup
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - qty: 60
     unit: ml

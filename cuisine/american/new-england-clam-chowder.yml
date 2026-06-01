@@ -16,7 +16,8 @@ tags:
   - garlic
   - potato
   - cream
-mentions: []
+mentions:
+  - drinks/cocktails/manhattan
 ingredients:
   - qty: 1.5
     unit: kg

@@ -1,0 +1,31 @@
+prep: 1 minute
+cook: 0 minutes
+allergens: []
+tags:
+  - gluten-free
+  - dairy-free
+  - quick
+  - no-cook
+  - alcoholic
+mentions:
+  - drinks/cocktails/white-russian
+ingredients:
+  - qty: 50
+    unit: ml
+    name: vodka
+    raw: 50 ml vodka
+  - qty: 25
+    unit: ml
+    name: Kahlúa
+    raw: 25 ml Kahlúa
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    name: large ice cube
+    raw: 1 large ice cube
+  - qty: 3
+    name: whole coffee beans
+    raw: 3 whole coffee beans
+  - qty: 1
+    name: thin twist of orange peel
+    raw: 1 thin twist of orange peel

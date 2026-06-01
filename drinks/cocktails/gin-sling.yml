@@ -2,37 +2,41 @@ prep: 3 minutes
 cook: 0 minutes
 allergens: []
 tags:
-  - vegetarian
-  - vegan
-  - dairy-free
   - gluten-free
+  - dairy-free
   - quick
+  - no-cook
+  - alcoholic
   - lemon
-mentions: []
 ingredients:
   - qty: 50
     unit: ml
-    name: gin
-    raw: 50 ml gin
+    name: London dry gin
+    raw: 50 ml London dry gin
   - qty: 25
     unit: ml
-    name: lemon juice
+    name: fresh lemon juice
     raw: 25 ml fresh lemon juice
   - qty: 15
     unit: ml
     name: simple syrup
     raw: 15 ml simple syrup
+  - qty: 3
+    unit: dashes
+    name: Angostura bitters
+    raw: 3 dashes Angostura bitters
   - qty: 100
     unit: ml
     name: chilled soda water
     raw: 100 ml chilled soda water
-  - name: plenty of ice cubes
+  - name: ice cubes
     raw: Plenty of ice cubes
   - qty: 1
-    name: lemon
-    raw: 1 slice fresh lemon
+    name: wheel of fresh lemon
+    raw: 1 wheel of fresh lemon
   - qty: 1
-    name: maraschino cherry on a cocktail stick
+    name: maraschino cherry
     raw: 1 maraschino cherry on a cocktail stick
-  - name: tall "collins glass"
-    raw: A tall "Collins glass"
+  - qty: 1
+    name: tall highball glass
+    raw: A tall highball or Collins glass

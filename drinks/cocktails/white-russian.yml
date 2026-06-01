@@ -3,11 +3,13 @@ cook: 0 minutes
 allergens:
   - dairy
 tags:
+  - vegetarian
   - gluten-free
   - quick
-  - no-cook
-  - alcoholic
+  - make-ahead
   - cream
+  - chocolate
+mentions: []
 ingredients:
   - qty: 50
     unit: ml
@@ -15,18 +17,20 @@ ingredients:
     raw: 50 ml vodka
   - qty: 25
     unit: ml
-    name: Kahlúa
+    name: kahlua
     raw: 25 ml Kahlúa
   - qty: 30
     unit: ml
     name: double cream
     raw: 30 ml double cream
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - qty: 3
-    name: whole coffee beans
+    name: coffee beans
     raw: 3 whole coffee beans
-  - name: cocoa powder
+  - qty: 1
+    unit: pinch
+    name: cocoa powder
     raw: A pinch of cocoa powder
   - name: dark chocolate
     raw: A grating of dark chocolate

@@ -2,28 +2,29 @@ prep: 2 minutes
 cook: 0 minutes
 allergens: []
 tags:
-  - gluten-free
+  - vegetarian
+  - vegan
   - dairy-free
+  - gluten-free
   - quick
-  - no-cook
-  - alcoholic
+mentions: []
 ingredients:
   - qty: 30
     unit: ml
-    name: London dry gin
+    name: london dry gin
     raw: 30 ml London dry gin
   - qty: 30
     unit: ml
-    name: Campari
+    name: campari
     raw: 30 ml Campari
   - qty: 30
     unit: ml
     name: sweet red vermouth
     raw: 30 ml sweet red vermouth
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - qty: 1
-    name: large ice cube
+    name: ice cube
     raw: 1 large ice cube
   - qty: 1
     name: wide strip of orange peel

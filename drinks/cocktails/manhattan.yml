@@ -1,12 +1,15 @@
 prep: 3 minutes
 cook: 0 minutes
-allergens: []
+allergens:
+  - gluten
 tags:
-  - gluten-free
+  - vegetarian
+  - vegan
   - dairy-free
   - quick
-  - no-cook
-  - alcoholic
+mentions:
+  - drinks/cocktails/martini
+  - drinks/cocktails/negroni
 ingredients:
   - qty: 60
     unit: ml
@@ -17,10 +20,10 @@ ingredients:
     name: sweet red vermouth
     raw: 30 ml sweet red vermouth
   - qty: 2
-    unit: dashes
-    name: Angostura bitters
+    unit: dash
+    name: angostura bitters
     raw: 2 dashes Angostura bitters
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - qty: 1
     name: maraschino cherry

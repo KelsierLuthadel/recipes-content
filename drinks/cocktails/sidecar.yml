@@ -2,12 +2,14 @@ prep: 3 minutes
 cook: 0 minutes
 allergens: []
 tags:
-  - gluten-free
+  - vegetarian
+  - vegan
   - dairy-free
+  - gluten-free
   - quick
-  - no-cook
-  - alcoholic
   - lemon
+mentions:
+  - drinks/cocktails/margarita
 ingredients:
   - qty: 1
     unit: tbsp
@@ -22,17 +24,16 @@ ingredients:
     raw: 45 ml cognac
   - qty: 20
     unit: ml
-    name: Cointreau
+    name: cointreau
     raw: 20 ml Cointreau
   - qty: 20
     unit: ml
-    name: fresh lemon juice
+    name: lemon juice
     raw: 20 ml fresh lemon juice
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - qty: 1
-    name: thin strip of orange peel
+    name: strip of orange peel
     raw: 1 thin strip of orange peel
-  - qty: 1
-    name: chilled coupe glass
+  - name: chilled coupe glass
     raw: A chilled coupe glass
