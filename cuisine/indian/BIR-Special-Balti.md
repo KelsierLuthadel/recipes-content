@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A customizable British curry-house special balti, mixing pre-cooked meats, seafood, and vegetables in a rich, spiced sauce. This is a chef's signature dish, adapt with your favorite ingredients for a personalized feast.
+BIR special balti is the customisable British restaurant chef's signature, mixing pre-cooked meats, seafood and vegetables in a rich spiced sauce, the "special" on every Balti Triangle menu. The principle is simple: take whatever's available from the day's prep (chicken tikka, lamb, prawn, fish, vegetables) and combine them in a single balti pan with the base sauce, spices, peppers and onions. The result is the closest thing to a chef's table curry in the restaurant tradition; the chef adapts each plate to ingredient availability. Serve sizzling with naan and basmati rice.
 
 ## Ingredients
 ### Base

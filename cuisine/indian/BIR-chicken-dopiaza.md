@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A vibrant do-piaza curry based on layered onion textures and warming spices. This version uses both seared onion petals and a yoghurt-onion paste to build depth; the result is a rich, savoury, mildly tangy curry that works with pre-cooked stewed chicken or freshly poached chicken.
+BIR chicken dopiaza is the curry built on two distinct onion textures (the name "dopiaza" literally means "two onions"), the seared onion petals giving sweet caramel notes alongside a yoghurt-onion paste that builds depth in the sauce. Seared onion petals go in as chunks that keep their bite; the yoghurt-onion paste blends to the base, giving body. The combination is rich, savoury and mildly tangy. The dish works equally well with pre-cooked stewed chicken or freshly poached chicken pieces. Serve with basmati rice and a side of raita.
 
 ## Ingredients
 ### Fat and whole spices

@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-A classic karahi curry inspired by Imran’s in Birmingham, featuring tender chicken pieces simmered in a rich, spiced tomato-onion sauce. Traditionally served sizzling in a karahi pan, this dish is perfect for soaking up with naan.
+BIR chicken karahi is a classic British-Indian-Restaurant curry inspired by Imran's of Birmingham, tender chicken pieces simmered in a rich spiced tomato-onion sauce, served sizzling in the karahi pan it was cooked in. The karahi (a two-handled wok-shaped iron pan) is the dish's signature; it conducts heat quickly and keeps the curry bubbling at the table. The masala is fresh tomato, ginger-garlic paste, cumin and chilli, no curry powder, no shortcuts. Eat sizzling, with naan for scooping and a green salad to cool the heat.
 
 ## Ingredients
 ### Marinade

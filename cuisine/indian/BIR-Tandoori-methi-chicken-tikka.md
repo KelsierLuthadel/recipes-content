@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A flavorful methi chicken tikka combining fresh fenugreek with aromatic spices and yoghurt marinade. This recipe blends elements from various traditional preparations, resulting in a barbecue favorite with charred edges and tender, juicy meat.
+BIR tandoori methi chicken tikka is the restaurant tandoori starter, marinated chicken tikka pieces grilled hard with the bitter-aromatic lift of fresh fenugreek leaves. The marinade combines fresh fenugreek with garam masala, tandoori spice blend and yoghurt; the chicken pieces sit overnight before going onto skewers and into a hot tandoor (or oven and grill at home). The fenugreek is the dish's signature, distinguishing it from the standard tandoori chicken on the menu. Char the edges, keep the centre juicy. Serve as a starter with mint chutney and lime wedges.
 
 ## Ingredients
 ### Protein

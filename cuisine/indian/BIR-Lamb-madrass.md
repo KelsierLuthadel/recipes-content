@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A classic British curry-house madras with a sweet-and-sour profile, featuring tender lamb in a spicy, tangy sauce. This version balances heat from chillies and chilli powder with mango chutney and lime for a feast-worthy dish.
+BIR lamb madras is the British restaurant adaptation of the South Indian Madras curry tradition, a sweet-and-sour curry with a spicy-tangy sauce, tender lamb and a balanced fire that signals "medium-hot" on the restaurant menu. The heat comes from chillies and chilli powder; the sweet edge from mango chutney; the sour from lime. The combination is the restaurant balancing act, designed for British diners who want heat with sweetness rather than just heat alone. Serve over basmati rice with a side of raita to cool things down.
 
 ## Ingredients
 ### Base

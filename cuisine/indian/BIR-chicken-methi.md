@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Fenugreek-forward chicken methi curry with a rich base sauce and a tangy cream finish. Fresh fenugreek leaves are ideal, but dried kasoori methi can provide the signature aroma, especially in supermarkets where fresh leaves are scarce. This curry is aromatic with anise notes and a subtle bitterness balanced by yoghurt.
+BIR chicken methi is the fenugreek-forward curry of the British restaurant menu, fresh fenugreek leaves wilting into a rich base sauce, finished with a tangy yoghurt cream. Fresh fenugreek (methi) is ideal but supermarket-rare; dried kasoori methi provides the signature anise-warmth and slight bitterness in a pinch. The dish is aromatic, with the distinctive fenugreek perfume that distinguishes it from the rest of the restaurant menu. A splash of yoghurt cream at the end balances the bitter edge. Serve with basmati rice and tarka dhal.
 
 ## Ingredients
 ### Marinade / flavour base

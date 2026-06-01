@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A sweet-spicy BIR-style mango chicken curry with plenty of tropical fruit brightness and mild curry-house heat. This recipe blends the pineapple-style sweetness of mango chutney and fruit chunks with a rich coconut-spiced base and tender chicken.
+BIR mango chicken curry is the British restaurant sweet-spicy curry with tropical fruit brightness, mango chutney and fresh mango chunks combining with a rich coconut-spiced base. The sweet-pineapple-style flavour of mango chutney pairs with cream and coconut for a properly rich sauce; fresh mango chunks fold in at the end so they keep their texture. The dish is mild on heat but full of flavour, the restaurant's offering for diners who want fruit-forward over chilli-forward. Serve with basmati rice and a wedge of lime.
 
 ## Ingredients
 ### Base

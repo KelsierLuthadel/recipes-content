@@ -2,7 +2,7 @@
 
 ![Chicken Tikka Masala](resources/tikka.png)
 
-*Britain's curry-house favourite: tandoori-marinated chicken tikka simmered in a creamy tomato-and-spice sauce.*
+*Britain's restaurant favourite: tandoori-marinated chicken tikka simmered in a creamy tomato-and-spice sauce.*
 
 **Serves:** 2
 
@@ -11,9 +11,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-A creamy, mildly spiced tomato-based curry using grilled or pan-fried marinated chicken, finished with a rich sauce.
-
----
+BIR chicken tikka masala is the dish the British restaurant menu invented, almost certainly in Glasgow in the 1970s, by combining tandoori chicken tikka with a creamy tomato curry sauce designed to satisfy British diners asking for gravy with their dry-roasted meat. The result became one of Britain's most-eaten dishes and a culinary export, served in restaurants from Tokyo to Mumbai. The masala is a creamy tomato base, sweetened slightly with sugar, perfumed with kasoori methi, and finished with double cream and a swirl of red colouring. The chicken is the centerpiece, marinated tandoori-style, grilled to a slight char, and folded into the sauce just before serving. Serve with basmati rice and naan.
 
 ## Ingredients
 

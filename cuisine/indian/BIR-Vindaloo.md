@@ -12,7 +12,7 @@
 
 ## Overview
 
-A hot, sour, and deeply spiced curry originating from Goa. Built on a vinegar-based marinade and a chilli-forward masala, this version follows a BIR-style workflow using a base gravy while preserving the characteristic tang.
+BIR vindaloo is the British-Indian-Restaurant version of the Goan original, a hot sour deeply-spiced curry built on a vinegar marinade and a chilli-forward masala, adapted to the BIR workflow with a base gravy that speeds up service. The Goan original is pork marinated in wine vinegar and garlic; the BIR version generalises to chicken or lamb and ramps up the chilli for British restaurant expectations. The signature is the sharp vinegar tang against the wall of chilli heat; the dish never goes sweet, never goes mild. Serve with basmati rice and a cold beer.
 
 ## Ingredients
 ### Protein
@@ -78,7 +78,7 @@ Vindaloo traditionally relies on vinegar + garlic marinade for its signature fla
 ## Notes
 - **Heat level:** Vindaloo should be hot, but the defining feature is sourness, not just chilli. 
 - **Authenticity:** Traditional Goan versions often skip tomatoes and use pork + vinegar-heavy marinades. 
-- **BIR variation:** Tomato paste + base gravy gives the familiar UK curry-house style. 
+- **BIR variation:** Tomato paste + base gravy gives the familiar UK restaurant style. 
 Variations
 **Traditional (Goan):**
 - No tomato

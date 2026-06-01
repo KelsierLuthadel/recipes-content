@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A fiery British curry-house vindaloo with Portuguese-Goan influences, featuring intense heat from Scotch bonnets and chillies, balanced by vinegar and sweetness. This version uses pre-cooked lamb for speed, with optional potatoes as per UK tradition.
+BIR lamb vindaloo is the fiery British-Indian-Restaurant adaptation of the Goan-Portuguese vindaloo, lamb in place of the traditional pork, with intense heat from Scotch bonnets and chilli powder balanced by vinegar and a touch of sweetness. The Goan original is pork marinated in wine vinegar and garlic; this version generalises to lamb (more typical of British restaurant menus). Pre-cooked lamb makes this a fast dish; the heat builds from the chillies; the vinegar tang cuts through the fat. Optional potatoes follow the UK tradition. Serve with basmati rice and a glass of cold beer.
 
 ## Ingredients
 ### Base

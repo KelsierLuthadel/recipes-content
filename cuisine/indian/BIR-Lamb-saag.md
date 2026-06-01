@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A quick British curry-house version of classic Punjabi saag gosht, combining pre-cooked lamb and bright spinach puree for a rich, green sauce. Similar to slow-cook authentic versions, this recipe delivers deep, buttery flavour in a fraction of the time.
+BIR lamb saag is the restaurant version of the classic Punjabi saag gosht, a bright green spinach-based curry that pairs slow-cooked lamb with deeply puréed greens. Authentic saag uses mustard greens and a long slow simmer; this BIR version uses bright pre-cooked lamb and a quick spinach purée for speed. The colour is the dish's signature, a deep green that stays vivid because the spinach is blanched and blended quickly rather than cooked to grey. Butter, cream and kasoori methi finish the dish in the restaurant style. Serve with basmati rice and naan.
 
 ## Ingredients
 ### Spinach puree

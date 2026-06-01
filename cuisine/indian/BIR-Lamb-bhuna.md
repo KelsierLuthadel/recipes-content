@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A restaurant-style bhuna using pre-cooked lamb for speed, while keeping the dry, intensely-flavoured finish. The classic bhuna technique is approximated with quick spice frying, and lamb is finished in a rich, reduced sauce.
+BIR lamb bhuna is the restaurant-style version of the slow-cooked Bengali bhuna, dry and intensely flavoured, with the sauce reduced to a thick coat that clings to every piece of meat. Authentic bhuna means "fried" in Bengali; the technique is slow-cooked, with the sauce gradually reducing as the meat fries in the masala. The BIR version uses pre-cooked lamb for speed, but the bhuna technique is preserved: quick spice frying, intense reduction, finishing in a thick caramelised sauce. The result is dry-textured, deeply flavoured, the opposite of a soupy curry. Serve with naan and a tarka dhal.
 
 ## Ingredients
 ### Base

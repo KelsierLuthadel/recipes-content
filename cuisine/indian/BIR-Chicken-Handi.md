@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-A rich, ghee-laden chicken handi cooked in the traditional style, featuring tender chicken thighs simmered in a spiced tomato-onion base with yoghurt and cream. Named for the handi pot, this dish varies by chef but delivers deep, authentic flavors.
+BIR chicken handi is the rich ghee-laden curry named for the clay handi pot it traditionally cooks in, the dish that anchors the slow-cooked section of every British-Indian restaurant menu. Tender chicken thighs simmer in a spiced tomato-onion base with yoghurt and double cream, finished with crushed kasoori methi and a swirl of cream at the table. The dish varies chef-by-chef across Birmingham, Bradford and Leicester, but the signature is the ghee-and-yoghurt foundation that distinguishes it from the lighter balti. Serve with basmati rice and a buttery naan.
 
 ## Ingredients
 ### Base

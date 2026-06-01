@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A Punjabi-inspired achari curry featuring pickle spices like panch poran and dried chillies, balanced with sweet mango chutney and tangy lime pickle. This dish captures the essence of Indian pickles in a rich, flavorful lamb curry.
+BIR lamb achari is the restaurant take on the Punjabi achari tradition, a curry seasoned with the spices that go into Indian pickle (panch poran, dried chillies, mustard seeds), balanced with sweet mango chutney and tangy lime pickle. The dish captures the essence of Indian pickles, intense, slightly sour, deeply spiced, in a rich curry sauce. The lamb is pre-cooked for speed; the masala builds with the pickle-style spices fried in oil, then the meat finishes in the sauce. Serve with basmati rice and an extra spoon of lime pickle on the side.
 
 ## Ingredients
 ### Base

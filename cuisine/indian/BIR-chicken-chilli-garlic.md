@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A bold, garlicky curry with a brisk curry-house kick. This jalfrezi-style dish uses plenty of fresh garlic, green chillies, and tandoori tikka, making it spicy but not overwhelming.
+BIR chicken chilli garlic is the bold garlicky curry on the British-Indian-Restaurant menu, a jalfrezi-style stir-fry that loads up fresh garlic, green chillies and tandoori tikka into a brisk pan-cooked dish. The dish is spicy but not overwhelming; the heat is balanced by the sweetness of the fried onions and peppers. The garlic is the dish's signature, used generously, sometimes by the head. Tandoori chicken tikka pieces fold in at the end so they keep their char and don't go soft. Serve with naan to mop up the pan; a side of cucumber raita to cool the heat.
 
 ## Ingredients
 ### Base

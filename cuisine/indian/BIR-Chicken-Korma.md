@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A creamy, nutty British-Indian korma that uses both block coconut and coconut flour for depth and body. This curry is rich yet balanced, with mild heat and a hint of sweetness from sugar, banana and rose water. Serve with white rice and a mild dhal for the full experience.
+BIR chicken korma is the gentlest curry on the British restaurant menu, a creamy nutty mildly-spiced dish that anchors the "mild" section of every menu. The richness comes from block coconut and coconut flour combined with double cream and ground almond; the result is silky and faintly sweet. Sugar, banana and rose water push the sweetness; mild paprika provides colour without heat. The dish is the restaurant gateway for anyone new to Indian food, but it's also a proper dish in its own right, the Mughal kitchen's gentler legacy. Serve with white rice and a mild dhal for the full experience.
 
 ## Ingredients
 ### Fat and whole spices

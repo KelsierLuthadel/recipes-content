@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A British curry-house classic with sweet-sour notes of pineapple and lemon and earthy dhansak lentils. Inspired by Parsi dhansaks, this version uses red split lentils and pre-cooked chicken for convenience while keeping the iconic flavour profile.
+BIR chicken dhansak is a British restaurant classic with sweet-sour notes of pineapple and lemon balanced against earthy dhansak lentils, the dish that brings together the Parsi tradition of dhansak with a restaurant workflow. Authentic Parsi dhansak uses three lentils slow-cooked over hours; this version uses red split lentils and pre-cooked tandoori chicken for the restaurant speed. Pineapple chunks (canned, the proper UK restaurant touch) bring the sweetness; lemon juice adds the sour edge. Garam masala, cumin and methi build the warm-spice profile. Serve over basmati rice with a wedge of lime.
 
 ## Ingredients
 ### Fat and aromatics

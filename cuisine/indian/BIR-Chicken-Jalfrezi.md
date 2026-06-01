@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A curry-house jalfrezi inspired by a Balti House classic, featuring quick stir-fried peppers, chillies, onions and tender chicken in a light spiced sauce. It is traditionally dry and crisp, but can be adjusted for more sauce by adding extra base curry or stock.
+BIR chicken jalfrezi is the restaurant stir-fry, quick-cooked peppers, chillies and onions with tender tandoori chicken in a light spiced sauce, the answer to the question of how to make a curry dry and crisp rather than soupy. Inspired by the Calcutta-Punjabi jalfrezi tradition, this version is fast: the peppers and onions stir-fry hard in a hot pan, the spices bloom briefly, the chicken returns to coat. Traditionally the sauce is dry and pan-licked rather than ladle-poured, but you can adjust with extra base curry or stock for a wetter finish. Eat with naan to mop the pan, or over basmati rice.
 
 ## Ingredients
 ### Base and aromatics

@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-A minimalist charsi karahi featuring tender lamb chunks cooked in their own fat with garlic, tomatoes, and chillies. No spices beyond kasoori methi,  the rich lamb fat and simple ingredients create an incredibly flavorful, moist curry perfect for naan.
+BIR charsi karahi is the minimalist Pakistani-Punjabi curry in a British-Indian-Restaurant adaptation, tender lamb chunks cooked in their own fat with garlic, tomatoes and chillies and nothing else. The name "charsi" loosely translates as "pickled" or "addict"; the implication is the dish is so good it's addictive. There are no curry-powder spices here, no garam masala, just the rich fat of the lamb, fresh tomato and a generous fistful of green chillies. Kasoori methi (dried fenugreek leaves) crumbles in at the end for the bitter-aromatic lift. The curry is moist and intensely flavourful, perfect for scooping with naan. Serve with mint chutney and a glass of cold lassi.
 
 ## Ingredients
 ### Protein

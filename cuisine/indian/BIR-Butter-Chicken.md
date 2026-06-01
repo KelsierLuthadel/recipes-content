@@ -11,9 +11,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-A rich, creamy tomato-based curry with mild spice and buttery finish. A BIR-style adaptation of murgh makhani.
-
----
+BIR butter chicken is the restaurant adaptation of the classic Delhi murgh makhani, a creamy tomato sauce sweetened with sugar, banana and rose water, finished with butter, cream and a generous handful of fenugreek. This is the British-Indian-Restaurant version, faster than the authentic Delhi preparation: it uses pre-cooked tandoori chicken from the day's prep and the base curry gravy that every BIR kitchen keeps ready. The flavour profile is mild, rich and a touch sweet, designed to be approachable across the restaurant menu. The colour is the proper orange-pink that defines the dish; if it's brown, the cook hasn't built the tomato-and-butter base properly. Serve with naan, basmati rice and a side of mild dhal.
 
 ## Ingredients
 

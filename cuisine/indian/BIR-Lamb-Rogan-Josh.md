@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A British-Indian take on the classic Kashmiri lamb rogan josh, featuring a deep red sauce from paprika and tomato rather than traditional Kashmiri chillies and rattanjot. This version uses pre-cooked lamb for quick assembly, with rich, caramelized flavors from tempered spices and creamy cashew-yoghurt finish.
+BIR lamb rogan josh is the British-Indian-Restaurant take on the classic Kashmiri lamb stew, a deep red curry that uses paprika and tomato to mimic the colour that Kashmiri chillies and rattanjot would give in the authentic version. Pre-cooked lamb (the BIR shortcut from the day's prep) goes into a richly tempered sauce of fried onion, ginger-garlic, tomato puree and warm spices. A cashew-yoghurt finish adds creaminess without overwhelming the dish. The flavour is rich, slightly sweet from the paprika, and deeply aromatic from cardamom and clove. Serve with basmati rice and a buttery naan.
 
 ## Ingredients
 ### Fat

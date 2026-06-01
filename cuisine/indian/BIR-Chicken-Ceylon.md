@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A bright and spicy Sri Lankan-inspired curry with a curry-house spin, featuring aromatic spices, coconut, and fresh curry leaves. It works beautifully as a banquet dish and can be extra hot with extra bird’s eye chillies and chilli powder. The subtle sweet-tang tuning makes it a favorite with rice and mild dhal.
+BIR chicken Ceylon is the restaurant take on Sri Lankan curry traditions, bright and spicy with aromatic spices, coconut and fresh curry leaves, designed to land somewhere between fiery and approachable. The base is coconut milk and curry leaves, infused with the sweet-tangy Sri Lankan signature of pandan, cardamom and lemon. Bird's eye chillies and chilli powder push the heat for those who want it; the dish can scale from mild to fierce. The subtle sweet-tang tuning makes it a banquet favourite alongside rice and mild dhal. Serve with basmati rice and lime pickle.
 
 ## Ingredients
 ### Base

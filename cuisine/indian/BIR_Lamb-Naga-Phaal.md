@@ -2,7 +2,7 @@
 
 ![Lamb Naga Phall](resources/BIR_Lamb-Naga-Phaal.jpg)
 
-*The hottest curry-house dish: pre-cooked lamb in a fierce dark gravy built on Naga chillies and phaal-strength curry spice.*
+*The hottest restaurant dish: pre-cooked lamb in a fierce dark gravy built on Naga chillies and phaal-strength curry spice.*
 
 **Serves:** 1-2
 
@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-An extremely hot British curry-house phall featuring Naga chillies and Mr Naga pickle for intense heat balanced with rich flavors. This dish is not for the faint-hearted; serve with cooling accompaniments like rice, naan, and cold lager.
+BIR lamb naga phaal is the British-Indian restaurant's hottest curry, named for the ferocious Naga (ghost pepper) chilli of Northeast India and the Mr Naga pickle that's the BIR shortcut to its heat. The dish is not for the faint-hearted: Naga chillies and Mr Naga pickle deliver intense heat that builds into a slow burn; the lamb is the only thing tempering the fire. Serve with cooling accompaniments: rice, naan, raita and a cold lager. Eat at your own risk; the heat doesn't fade for an hour.
 
 ## Ingredients
 ### Chilli paste

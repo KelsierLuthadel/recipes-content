@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A British-Indian pathia curry with a sweet-and-sour profile, tuned for balanced acidity and a hint of chilli warmth. The recipe uses lemon, mango chutney and sugar for tang/sweetness, with optional red food colouring for the classic curry-house appearance.
+BIR chicken pathia is the British-Indian-Restaurant sweet-and-sour curry, lemon and mango chutney pulling against sugar and chilli to make a balanced acidic-sweet sauce. The dish is the restaurant's most balanced offering: not a sweet curry like korma or chasni, not a hot curry like madras or vindaloo, but a tangy-sweet-spicy middle ground. Optional red food colouring delivers the classic restaurant appearance. The flavour comes from the layering: tamarind, lemon, mango chutney, sugar, all balanced against chilli powder and ginger. Serve over basmati rice with a side of cucumber raita.
 
 ## Ingredients
 ### Fat and aromatics

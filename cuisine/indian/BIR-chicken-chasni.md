@@ -2,7 +2,7 @@
 
 ![Chicken Chasni](resources/BIR-chicken-chasni.jpg)
 
-*The Scottish curry-house chasni: pre-cooked chicken in a sweet-sour creamy sauce built on mango chutney, tomato ketchup and yogurt.*
+*The Scottish restaurant chasni: pre-cooked chicken in a sweet-sour creamy sauce built on mango chutney, tomato ketchup and yogurt.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A sweet and smooth British-Indian chasni that pairs best with tandoori chicken tikka. Balanced mango chutney, mint sauce, and tomato ketchup give this curry bright sweetness and tang, while cream and optional red colouring deliver the signature rich appearance.
+BIR chicken chasni is the Glasgow-Punjabi sweet curry, a smooth pale-orange sauce pairing tandoori chicken with mango chutney, mint sauce and tomato ketchup, the dish for diners who want British-Indian comfort food without much heat. The sweetness comes from mango chutney; the tang from mint sauce and a touch of vinegar; the body from double cream and yoghurt. Optional red colouring delivers the signature pinkish-orange appearance of restaurant chasni. The dish is mild and approachable, the introduction to British-Indian cooking for many. Serve over basmati rice with naan.
 
 ## Ingredients
 ### Fat and aromatics

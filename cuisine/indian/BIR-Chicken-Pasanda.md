@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-British-Indian Pasanda is a mild, creamy curry based on almond and coconut richness with a slight sweet edge from sultanas. Traditional pasanda uses flattened and tenderized meat; this version uses thinly sliced chicken breast and can be made with tandoori chicken if preferred. A splash of red wine is optional and adds depth.
+BIR chicken pasanda is the mild creamy almond-and-coconut curry the restaurant menu reserves for diners who want richness without heat. Traditional pasanda uses flattened tenderised meat (the word means "favoured"); this version uses thinly sliced chicken breast (or tandoori-marinated chicken if you have it) cooked in a sauce based on ground almonds, coconut and cream. Sultanas fold through for the sweet edge. A splash of red wine is optional and adds depth; some restaurant cooks insist on it, others skip. Serve with basmati rice and a kachumber salad.
 
 ## Ingredients
 ### Base and nuts

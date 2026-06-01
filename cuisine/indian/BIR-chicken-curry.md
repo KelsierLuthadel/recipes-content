@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A curry-house style chicken curry that builds flavor from whole spices and fresh aromatics rather than premade base sauces. The method takes a little more time, but rewards you with a rich, home-style curry sauce and tender chicken. Add extra chilli or more garam masala to increase heat for your preference.
+BIR chicken curry is the restaurant style chicken curry built from whole spices and fresh aromatics rather than the usual premade base sauces, the dish for cooks who want restaurant flavour without the BIR workflow shortcuts. The method takes a little more time, but rewards you with a richer home-style curry sauce and properly tender chicken. Whole spices (cumin seed, cardamom, cinnamon, clove) toast in oil; ginger-garlic paste and onion follow; tomato puree and chilli powder build the masala; chicken simmers in the sauce until tender. Add extra chilli or more garam masala to push the heat. Serve with basmati rice and a fresh chapati.
 
 ## Ingredients
 ### Spice base
@@ -69,7 +69,7 @@ A curry-house style chicken curry that builds flavor from whole spices and fresh
 1. Garnish with chopped coriander and serve hot.
 
 ## Notes
-- **No base sauce:** This recipe demonstrates how to develop curry-house flavor from scratch using whole and ground spices.
+- **No base sauce:** This recipe demonstrates how to develop restaurant flavor from scratch using whole and ground spices.
 - **Thickness control:** Add additional water gradually until desired sauce consistency is reached.
 - **Spice adjustments:** Increase chillies, paprika, or garam masala for more heat.
 - **Meat alternatives:** Lamb or paneer can be substituted using similar steps and cooking time adjustments.

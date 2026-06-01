@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-An aromatic curry-house classic that blends tandoori chicken with a sweet-spicy sauce of nuts, spices, banana and mango chutney. This dish is cooked quickly once the base sauce is ready, making it ideal for a flavorful weeknight meal or part of a banquet. Raisins add a pleasant sweetness and balance to the heat.
+BIR kashmiri chicken is the restaurant's aromatic mild curry, named for the Kashmir region of India even though it bears little resemblance to authentic Kashmiri cooking. The dish combines tandoori chicken with a sweet-spicy sauce of ground nuts, banana, mango chutney and warming spices. Raisins add a pleasant sweetness and balance to the heat; cream finishes the sauce. Once the base sauce is ready, the curry comes together quickly, making it ideal for a flavourful weeknight meal or part of a banquet. Serve with basmati rice and naan.
 
 ## Ingredients
 ### Spice base

@@ -13,7 +13,7 @@
 **Serves:** 4 People
 
 ## Overview
-The fiery Goan original: a vinegar-and-garlic-marinated meat (traditionally pork, adapted in BIR menus to chicken or lamb) simmered in a dark masala loaded with red chillies, cumin and mustard seeds. The sharp acidity from vinegar plus aggressive chilli is the signature; potatoes are a BIR addition (the "aloo" suggestion) but not part of the Portuguese-origin dish.
+BIR chicken vindaloo is the British-Indian-Restaurant adaptation of the Goan-Portuguese original, a vinegar-and-garlic-marinated curry simmered in a dark masala loaded with red chillies, cumin and mustard seeds. The dish's true origin is the Portuguese carne de vinha d'alhos brought to Goa, traditionally pork marinated in wine vinegar and garlic; the British restaurant adapted it to chicken (or lamb) and called it "vindaloo". The sharp acidity from vinegar plus aggressive chilli is the signature. Potatoes are a BIR addition (the "aloo" suggestion in the name) but not part of the Portuguese-origin dish. Serve with basmati rice and a glass of cold beer.
 
 ## Ingredients
 ### Step 1
