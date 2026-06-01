@@ -1,12 +1,12 @@
 prep: 5 minutes
 cook: 0 minutes
-allergens: []
+allergens:
+  - dairy
 tags:
+  - vegetarian
   - gluten-free
-  - dairy-free
   - quick
-  - no-cook
-  - alcoholic
+  - make-ahead
   - coconut
   - lime
 mentions:
@@ -26,20 +26,20 @@ ingredients:
     raw: 100 ml cream of coconut
   - qty: 200
     unit: g
-    name: frozen pineapple chunks
+    name: pineapple chunks
     raw: 200 g frozen pineapple chunks
   - qty: 25
     unit: ml
-    name: fresh lime juice
+    name: lime juice
     raw: 25 ml fresh lime juice
   - qty: 2
     name: wedges of fresh pineapple
     raw: 2 wedges of fresh pineapple
   - qty: 2
-    name: maraschino cherries
+    name: maraschino cherries on cocktail sticks
     raw: 2 maraschino cherries on cocktail sticks
   - qty: 2
     name: paper umbrellas
     raw: 2 paper umbrellas
-  - name: hurricane glasses
-    raw: Wide hurricane glasses
+  - name: wide hurricane glasses or tall tumblers
+    raw: Wide hurricane glasses or tall tumblers

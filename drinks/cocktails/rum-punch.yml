@@ -1,0 +1,48 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - gluten-free
+  - dairy-free
+  - quick
+  - no-cook
+  - alcoholic
+  - make-ahead
+  - lime
+ingredients:
+  - qty: 100
+    unit: ml
+    name: fresh lime juice
+    raw: 100 ml fresh lime juice
+  - qty: 200
+    unit: ml
+    name: grenadine
+    raw: 200 ml grenadine or simple syrup
+  - qty: 300
+    unit: ml
+    name: dark Caribbean rum
+    raw: 300 ml dark Caribbean rum
+  - qty: 200
+    unit: ml
+    name: fresh orange juice
+    raw: 200 ml fresh orange juice
+  - qty: 200
+    unit: ml
+    name: pineapple juice
+    raw: 200 ml pineapple juice
+  - qty: 6
+    unit: dashes
+    name: Angostura bitters
+    raw: 6 dashes Angostura bitters
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - name: crushed ice
+    raw: Plenty of crushed ice
+  - name: fresh nutmeg
+    raw: Grated fresh nutmeg
+  - name: slices of orange and lime
+    raw: Slices of orange and lime
+  - name: maraschino cherries
+    raw: Maraschino cherries on cocktail sticks
+  - name: pineapple wedge
+    raw: A small wedge of pineapple per glass

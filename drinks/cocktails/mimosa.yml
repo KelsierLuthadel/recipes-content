@@ -2,22 +2,23 @@ prep: 2 minutes
 cook: 0 minutes
 allergens: []
 tags:
-  - gluten-free
+  - vegetarian
+  - vegan
   - dairy-free
+  - gluten-free
   - quick
-  - no-cook
-  - alcoholic
+  - make-ahead
 mentions:
   - drinks/fruit/fresh-orange-juice
 ingredients:
   - qty: 75
     unit: ml
-    name: cold Champagne
+    name: cold champagne
     raw: 75 ml cold Champagne
   - qty: 75
     unit: ml
-    name: fresh orange juice
+    name: orange juice
     raw: 75 ml fresh orange juice
   - qty: 1
-    name: thin strip of orange peel
+    name: strip of orange peel
     raw: 1 thin strip of orange peel

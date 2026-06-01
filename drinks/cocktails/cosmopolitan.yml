@@ -2,12 +2,14 @@ prep: 3 minutes
 cook: 0 minutes
 allergens: []
 tags:
-  - gluten-free
+  - vegetarian
+  - vegan
   - dairy-free
+  - gluten-free
   - quick
-  - no-cook
-  - alcoholic
+  - lemon
   - lime
+mentions: []
 ingredients:
   - qty: 45
     unit: ml
@@ -15,21 +17,20 @@ ingredients:
     raw: 45 ml citron vodka
   - qty: 20
     unit: ml
-    name: Cointreau
+    name: cointreau
     raw: 20 ml Cointreau
   - qty: 20
     unit: ml
-    name: fresh lime juice
+    name: lime juice
     raw: 20 ml fresh lime juice
   - qty: 20
     unit: ml
     name: cranberry juice
     raw: 20 ml cranberry juice
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - qty: 1
     name: wide strip of orange peel
     raw: 1 wide strip of orange peel
-  - qty: 1
-    name: chilled coupe glass
+  - name: chilled coupe glass
     raw: A chilled coupe glass
