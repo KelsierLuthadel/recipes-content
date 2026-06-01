@@ -1,0 +1,29 @@
+prep: 2 minutes
+cook: 8 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - winter
+ingredients:
+  - qty: 1
+    name: Earl Grey tea bag
+    raw: 1 Earl Grey tea bag
+  - qty: 150
+    unit: ml
+    name: just-boiled water
+    raw: 150 ml just-boiled water
+  - qty: 1
+    unit: tbsp
+    name: vanilla syrup
+    raw: 1 tablespoon vanilla syrup
+  - qty: 100
+    unit: ml
+    name: whole milk
+    raw: 100 ml whole milk
+  - name: bergamot or lemon zest
+    raw: A tiny pinch of bergamot zest or grated lemon zest
+  - name: ground cinnamon
+    raw: A pinch of ground cinnamon or grated nutmeg

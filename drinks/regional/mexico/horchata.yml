@@ -1,0 +1,46 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - no-cook
+  - make-ahead
+  - rice
+ingredients:
+  - qty: 200
+    unit: g
+    name: long-grain white rice
+    raw: 200 g long-grain white rice
+  - qty: 2
+    name: cinnamon sticks
+    raw: 2 cinnamon sticks
+  - qty: 1
+    unit: l
+    name: cold water
+    raw: 1 litre cold water
+  - qty: 700
+    unit: ml
+    name: cold water
+    raw: 700 ml cold water
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - name: fine salt
+    raw: Pinch of fine salt
+  - qty: 100
+    unit: ml
+    name: whole milk
+    raw: 100 ml whole milk
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - name: ground cinnamon
+    raw: Ground cinnamon
+  - name: cinnamon stick per glass
+    raw: Cinnamon stick per glass

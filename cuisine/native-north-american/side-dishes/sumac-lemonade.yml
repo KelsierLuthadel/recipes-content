@@ -7,7 +7,8 @@ tags:
   - quick
   - sides
   - honey
-mentions: []
+mentions:
+  - drinks/classic/lemonade
 ingredients:
   - qty: 2
     name: staghorn sumac drupes - or substitute 3 tablespoons ground culinary sumac

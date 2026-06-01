@@ -1,0 +1,33 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - gluten-free
+  - dairy-free
+  - quick
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: green gunpowder tea
+    raw: 1 tablespoon green gunpowder tea
+  - qty: 750
+    unit: ml
+    name: boiling water
+    raw: 750 ml boiling water
+  - qty: 30
+    unit: g
+    name: fresh spearmint
+    raw: A generous bunch fresh spearmint
+  - qty: 4
+    unit: tbsp
+    name: sugar
+    raw: 4 to 6 tablespoons sugar
+  - qty: 4
+    name: small heatproof glasses
+    raw: 4 small heatproof glasses
+  - name: fresh mint sprigs
+    raw: A sprig of fresh mint in each glass
+  - name: sugar
+    raw: A small bowl of sugar

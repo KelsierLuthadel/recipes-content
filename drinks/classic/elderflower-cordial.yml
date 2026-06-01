@@ -1,13 +1,14 @@
-prep: 30 minutes
+prep: 30 minutes (plus 24 hours steeping)
 cook: 10 minutes
-allergens: []
+allergens:
+  - dairy
 tags:
   - vegetarian
-  - vegan
   - gluten-free
-  - dairy-free
   - make-ahead
   - lemon
+  - complex
+mentions: []
 ingredients:
   - qty: 25
     name: elderflower heads
@@ -27,11 +28,11 @@ ingredients:
     unit: g
     name: citric acid
     raw: 50 g citric acid
-  - name: cold water
+  - name: cold still or sparkling water
     raw: Cold still or sparkling water
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - name: lemon slices
     raw: Lemon slices
-  - name: fresh mint sprigs
+  - name: mint
     raw: Fresh mint sprigs

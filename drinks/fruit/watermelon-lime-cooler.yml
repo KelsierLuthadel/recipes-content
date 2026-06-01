@@ -4,33 +4,37 @@ allergens: []
 tags:
   - vegetarian
   - vegan
-  - gluten-free
   - dairy-free
+  - gluten-free
   - quick
-  - no-cook
+  - make-ahead
   - lime
+mentions: []
 ingredients:
   - qty: 1
     unit: kg
-    name: cubed watermelon flesh
+    name: watermelon flesh
     raw: 1 kg cubed watermelon flesh
   - qty: 3
     unit: tbsp
-    name: fresh lime juice
+    name: lime juice
     raw: 3 tablespoons fresh lime juice
   - qty: 1
-    unit: tbsp
-    name: caster sugar
+    name: to 2 tablespoons caster sugar
     raw: 1 to 2 tablespoons caster sugar
-  - name: fine salt
+  - qty: 1
+    unit: pinch
+    name: salt
     raw: Pinch of fine salt
-  - name: fresh mint leaves
+  - qty: 1
+    unit: small handful
+    name: mint leaves
     raw: Small handful of fresh mint leaves
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - name: lime wedges
     raw: Lime wedges
-  - name: small watermelon wedges
+  - name: watermelon wedges
     raw: Small watermelon wedges
-  - name: fresh mint sprigs
+  - name: mint
     raw: Fresh mint sprigs

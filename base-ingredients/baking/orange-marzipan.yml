@@ -10,7 +10,8 @@ tags:
   - make-ahead
   - eggs
   - nuts
-mentions: []
+mentions:
+  - drinks/fruit/fresh-orange-juice
 ingredients:
   - qty: 175
     unit: g

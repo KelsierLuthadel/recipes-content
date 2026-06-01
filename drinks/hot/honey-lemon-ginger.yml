@@ -1,0 +1,44 @@
+prep: 3 minutes
+cook: 7 minutes
+allergens: []
+tags:
+  - vegetarian
+  - gluten-free
+  - dairy-free
+  - quick
+  - ginger
+  - lemon
+  - honey
+  - winter
+ingredients:
+  - qty: 3
+    unit: cm
+    name: fresh ginger root
+    raw: 3 cm fresh ginger root
+  - qty: 250
+    unit: ml
+    name: just-boiled water
+    raw: 250 ml just-boiled water
+  - qty: 1
+    unit: tsp
+    name: runny honey
+    raw: 1 to 2 teaspoons runny honey
+  - qty: 1
+    unit: tbsp
+    name: fresh lemon juice
+    raw: 1 tablespoon fresh lemon juice
+  - qty: 1
+    name: slice fresh lemon
+    raw: 1 slice fresh lemon
+  - name: cayenne pepper
+    raw: Pinch of cayenne pepper
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 2
+    name: cloves
+    raw: 2 cloves
+  - qty: 1
+    unit: tbsp
+    name: fresh thyme leaves
+    raw: 1 tablespoon fresh thyme leaves

@@ -1,0 +1,38 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - lemon
+mentions:
+  - drinks/classic/elderflower-cordial
+  - drinks/classic/lemonade
+ingredients:
+  - qty: 4
+    name: cucumber slices
+    raw: 4 thin cucumber slices
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice
+  - qty: 2
+    unit: tbsp
+    name: elderflower cordial
+    raw: 2 tablespoons elderflower cordial
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - qty: 150
+    unit: ml
+    name: chilled tonic water
+    raw: 150 ml chilled tonic water
+  - name: long ribbon of cucumber
+    raw: A long ribbon of cucumber
+  - name: mint
+    raw: A fresh mint sprig
+  - name: lemon
+    raw: A wedge of lemon

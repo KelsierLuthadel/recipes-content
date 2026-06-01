@@ -4,33 +4,34 @@ allergens: []
 tags:
   - vegetarian
   - vegan
-  - gluten-free
   - dairy-free
+  - gluten-free
   - quick
-  - make-ahead
   - lemon
+mentions: []
 ingredients:
   - qty: 6
     name: black tea bags
     raw: 6 black tea bags
   - qty: 750
     unit: ml
-    name: boiling water
+    name: water
     raw: 750 ml boiling water
   - qty: 3
-    unit: tbsp
-    name: caster sugar
+    name: to 4 tablespoons caster sugar
     raw: 3 to 4 tablespoons caster sugar
-  - name: bicarbonate of soda
+  - qty: 1
+    unit: pinch
+    name: bicarbonate of soda
     raw: Pinch of bicarbonate of soda
   - qty: 750
     unit: ml
-    name: cold water
+    name: water
     raw: 750 ml cold water
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - qty: 1
     name: lemon
     raw: 1 lemon
-  - name: fresh mint sprigs
+  - name: mint
     raw: Fresh mint sprigs

@@ -4,23 +4,26 @@ allergens: []
 tags:
   - vegetarian
   - vegan
-  - gluten-free
   - dairy-free
+  - gluten-free
   - quick
-  - no-cook
+  - make-ahead
+mentions: []
 ingredients:
   - qty: 6
-    name: ripe juicing oranges
+    name: juicing oranges
     raw: 6 ripe juicing oranges
   - qty: 0.5
-    name: ripe pink grapefruit
+    name: pink grapefruit
     raw: ½ ripe pink grapefruit
   - qty: 1
-    name: small naval orange
+    name: naval orange
     raw: 1 small naval orange
-  - name: fine salt
+  - qty: 1
+    unit: pinch
+    name: salt
     raw: Pinch of fine salt
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
-  - name: wedge of orange
+  - name: orange on the glass rim
     raw: A wedge of orange on the glass rim

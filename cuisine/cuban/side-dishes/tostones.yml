@@ -12,7 +12,8 @@ tags:
   - sides
   - garlic
   - lime
-mentions: []
+mentions:
+  - drinks/fruit/fresh-orange-juice
 ingredients:
   - qty: 3
     name: green plantains

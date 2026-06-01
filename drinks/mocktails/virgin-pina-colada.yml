@@ -1,0 +1,44 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - coconut
+  - lime
+mentions: []
+ingredients:
+  - qty: 300
+    unit: g
+    name: pineapple chunks
+    raw: 300 g frozen pineapple chunks
+  - qty: 100
+    unit: ml
+    name: cream of coconut
+    raw: 100 ml cream of coconut
+  - qty: 100
+    unit: ml
+    name: pineapple juice
+    raw: 100 ml pineapple juice
+  - qty: 50
+    unit: ml
+    name: coconut milk
+    raw: 50 ml coconut milk
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 6
+    name: ice cubes
+    raw: 6 ice cubes
+  - qty: 2
+    name: wedges of fresh pineapple
+    raw: 2 wedges of fresh pineapple
+  - qty: 2
+    name: maraschino cherries on cocktail sticks
+    raw: 2 maraschino cherries on cocktail sticks
+  - name: paper umbrella per glass
+    raw: A paper umbrella per glass

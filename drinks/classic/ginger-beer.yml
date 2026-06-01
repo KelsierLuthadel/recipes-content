@@ -1,24 +1,23 @@
-prep: 20 minutes
+prep: 20 minutes (plus 5 days for the ginger bug, plus 2 to 4 days for the bottle ferment)
 cook: 10 minutes
 allergens: []
 tags:
   - vegetarian
   - vegan
-  - gluten-free
   - dairy-free
-  - make-ahead
-  - spicy
+  - gluten-free
+  - quick
   - ginger
   - lemon
-  - complex
+mentions: []
 ingredients:
   - qty: 250
     unit: ml
-    name: warm water
+    name: water
     raw: 250 ml warm water
   - qty: 2
     unit: tbsp
-    name: grated fresh ginger
+    name: ginger
     raw: 2 tablespoons grated fresh ginger
   - qty: 2
     unit: tbsp
@@ -26,7 +25,7 @@ ingredients:
     raw: 2 tablespoons granulated sugar
   - qty: 1
     unit: tbsp
-    name: grated fresh ginger
+    name: ginger
     raw: 1 tablespoon grated fresh ginger
   - qty: 1
     unit: tbsp
@@ -34,7 +33,7 @@ ingredients:
     raw: 1 tablespoon granulated sugar
   - qty: 120
     unit: g
-    name: fresh ginger
+    name: ginger
     raw: 120 g fresh ginger
   - qty: 150
     unit: g
@@ -49,15 +48,17 @@ ingredients:
     raw: 2 lemons
   - qty: 750
     unit: ml
-    name: cold water
+    name: water
     raw: 750 ml cold water
   - qty: 6
     unit: tbsp
     name: active ginger bug
     raw: 6 tablespoons active ginger bug
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - name: lemon wheels
     raw: Lemon wheels
-  - name: sprig of mint
+  - qty: 1
+    unit: sprig
+    name: mint
     raw: A sprig of mint
