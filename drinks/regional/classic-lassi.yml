@@ -1,0 +1,46 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - yogurt
+  - nuts
+mentions: []
+ingredients:
+  - qty: 600
+    unit: g
+    name: plain yogurt
+    raw: 600 g thick full-fat plain yogurt
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml cold water
+  - qty: 4
+    name: to 6 tablespoons caster sugar
+    raw: 4 to 6 tablespoons caster sugar
+  - qty: 8
+    name: green cardamom pods
+    raw: 8 green cardamom pods
+  - qty: 0.25
+    unit: tsp
+    name: rose water
+    raw: ¼ teaspoon rose water
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of fine salt
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    unit: pinch
+    name: cardamom
+    raw: Pinch of ground cardamom
+  - name: rose petals
+    raw: A few dried rose petals
+  - name: slivered pistachios
+    raw: Slivered pistachios

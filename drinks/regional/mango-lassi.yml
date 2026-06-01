@@ -1,0 +1,49 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - yogurt
+  - honey
+  - nuts
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: alphonso mango pulp
+    raw: 400 g tinned Alphonso mango pulp
+  - qty: 500
+    unit: g
+    name: plain yogurt
+    raw: 500 g thick full-fat plain yogurt
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml cold whole milk
+  - qty: 2
+    name: to 4 tablespoons caster sugar
+    raw: 2 to 4 tablespoons caster sugar
+  - qty: 6
+    name: green cardamom pods
+    raw: 6 green cardamom pods
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of fine salt
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    unit: pinch
+    name: cardamom
+    raw: Pinch of ground cardamom
+  - qty: 2
+    unit: tbsp
+    name: pistachios
+    raw: 2 tablespoons pistachios
+  - name: saffron threads
+    raw: Saffron threads

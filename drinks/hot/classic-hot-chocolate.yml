@@ -1,0 +1,36 @@
+prep: 2 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - chocolate
+mentions: []
+ingredients:
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 3
+    unit: tbsp
+    name: unsweetened cocoa powder
+    raw: 3 tablespoons unsweetened cocoa powder
+  - qty: 2
+    name: to 3 tablespoons caster sugar
+    raw: 2 to 3 tablespoons caster sugar
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of fine salt
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - name: mini marshmallows
+    raw: Mini marshmallows
+  - name: swirl of whipped cream
+    raw: A swirl of whipped cream
+  - name: dusting of cocoa or grated chocolate
+    raw: A dusting of cocoa or grated chocolate

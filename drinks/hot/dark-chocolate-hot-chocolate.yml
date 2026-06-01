@@ -1,0 +1,43 @@
+prep: 5 minutes
+cook: 8 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - cream
+  - chocolate
+mentions: []
+ingredients:
+  - qty: 300
+    unit: ml
+    name: milk
+    raw: 300 ml whole milk
+  - qty: 150
+    unit: ml
+    name: double cream
+    raw: 150 ml double cream
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 150
+    unit: g
+    name: dark chocolate
+    raw: 150 g dark chocolate
+  - qty: 1
+    name: to 2 tablespoons caster sugar
+    raw: 1 to 2 tablespoons caster sugar
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of fine salt
+  - name: whipped cream
+    raw: Lightly whipped cream
+  - qty: 1
+    unit: pinch
+    name: dark chocolate
+    raw: A pinch of grated dark chocolate
+  - name: biscotti or madeleine on the saucer
+    raw: A small biscotti or madeleine on the saucer
