@@ -9,7 +9,8 @@ tags:
   - make-ahead
   - cream
   - chocolate
-mentions: []
+mentions:
+  - drinks/cocktails/black-russian
 ingredients:
   - qty: 50
     unit: ml

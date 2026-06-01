@@ -2,41 +2,43 @@ prep: 3 minutes
 cook: 0 minutes
 allergens: []
 tags:
-  - gluten-free
+  - vegetarian
+  - vegan
   - dairy-free
+  - gluten-free
   - quick
-  - no-cook
-  - alcoholic
+  - make-ahead
   - lemon
+mentions:
+  - drinks/cocktails/tom-collins
 ingredients:
   - qty: 50
     unit: ml
-    name: London dry gin
+    name: london dry gin
     raw: 50 ml London dry gin
   - qty: 25
     unit: ml
-    name: fresh lemon juice
+    name: lemon juice
     raw: 25 ml fresh lemon juice
   - qty: 15
     unit: ml
     name: simple syrup
     raw: 15 ml simple syrup
   - qty: 3
-    unit: dashes
-    name: Angostura bitters
+    unit: dash
+    name: angostura bitters
     raw: 3 dashes Angostura bitters
   - qty: 100
     unit: ml
     name: chilled soda water
     raw: 100 ml chilled soda water
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - qty: 1
     name: wheel of fresh lemon
     raw: 1 wheel of fresh lemon
   - qty: 1
-    name: maraschino cherry
+    name: maraschino cherry on a cocktail stick
     raw: 1 maraschino cherry on a cocktail stick
-  - qty: 1
-    name: tall highball glass
+  - name: tall highball or collins glass
     raw: A tall highball or Collins glass

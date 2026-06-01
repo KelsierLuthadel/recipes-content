@@ -2,47 +2,49 @@ prep: 5 minutes
 cook: 0 minutes
 allergens: []
 tags:
-  - gluten-free
+  - vegetarian
+  - vegan
   - dairy-free
+  - gluten-free
   - quick
-  - no-cook
-  - alcoholic
   - make-ahead
   - lime
+mentions:
+  - drinks/fruit/fresh-orange-juice
 ingredients:
   - qty: 100
     unit: ml
-    name: fresh lime juice
+    name: lime juice
     raw: 100 ml fresh lime juice
   - qty: 200
     unit: ml
-    name: grenadine
+    name: grenadine or simple syrup
     raw: 200 ml grenadine or simple syrup
   - qty: 300
     unit: ml
-    name: dark Caribbean rum
+    name: dark caribbean rum
     raw: 300 ml dark Caribbean rum
   - qty: 200
     unit: ml
-    name: fresh orange juice
+    name: orange juice
     raw: 200 ml fresh orange juice
   - qty: 200
     unit: ml
     name: pineapple juice
     raw: 200 ml pineapple juice
   - qty: 6
-    unit: dashes
-    name: Angostura bitters
+    unit: dash
+    name: angostura bitters
     raw: 6 dashes Angostura bitters
-  - name: ice cubes
-    raw: Plenty of ice cubes
-  - name: crushed ice
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes for the jug
+  - name: plenty of crushed ice
     raw: Plenty of crushed ice
-  - name: fresh nutmeg
+  - name: nutmeg
     raw: Grated fresh nutmeg
-  - name: slices of orange and lime
+  - name: orange and lime
     raw: Slices of orange and lime
-  - name: maraschino cherries
+  - name: maraschino cherries on cocktail sticks
     raw: Maraschino cherries on cocktail sticks
-  - name: pineapple wedge
+  - name: pineapple per glass
     raw: A small wedge of pineapple per glass
