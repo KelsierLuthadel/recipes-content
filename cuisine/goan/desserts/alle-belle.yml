@@ -10,7 +10,8 @@ tags:
   - eggs
   - coconut
   - complex
-mentions: []
+mentions:
+  - drinks/regional/india/masala-chai
 ingredients:
   - qty: 150
     unit: g

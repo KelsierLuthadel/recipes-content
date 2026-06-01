@@ -1,0 +1,66 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens:
+  - fish
+tags:
+  - gluten-free
+  - dairy-free
+  - quick
+  - no-cook
+  - alcoholic
+  - spicy
+  - tomato
+  - lemon
+  - chili
+ingredients:
+  - qty: 1
+    unit: tsp
+    name: celery salt
+    raw: 1 teaspoon celery salt
+  - qty: 1
+    name: wedge of lemon
+    raw: 1 wedge of lemon
+  - qty: 60
+    unit: ml
+    name: vodka
+    raw: 60 ml vodka
+  - qty: 120
+    unit: ml
+    name: tomato juice
+    raw: 120 ml tomato juice
+  - qty: 15
+    unit: ml
+    name: fresh lemon juice
+    raw: 15 ml fresh lemon juice
+  - qty: 1
+    unit: tsp
+    name: Worcestershire sauce
+    raw: 1 teaspoon Worcestershire sauce
+  - qty: 4
+    unit: dashes
+    name: Tabasco
+    raw: 4 to 6 dashes Tabasco
+  - qty: 0.5
+    unit: tsp
+    name: prepared horseradish
+    raw: ½ teaspoon prepared horseradish
+  - qty: 0.25
+    unit: tsp
+    name: celery salt
+    raw: ¼ teaspoon celery salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon freshly ground black pepper
+  - name: smoked paprika
+    raw: A pinch of smoked paprika
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    name: long celery stalk
+    raw: 1 long celery stalk
+  - qty: 1
+    name: wedge of lemon
+    raw: 1 wedge of lemon
+  - name: pickled green olives
+    raw: Pickled green olives on a cocktail stick

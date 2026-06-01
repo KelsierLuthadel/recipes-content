@@ -1,0 +1,33 @@
+prep: 3 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+mentions:
+  - drinks/fruit/fresh-orange-juice
+ingredients:
+  - qty: 50
+    unit: ml
+    name: tequila blanco
+    raw: 50 ml tequila blanco
+  - qty: 120
+    unit: ml
+    name: orange juice
+    raw: 120 ml fresh orange juice
+  - qty: 1
+    unit: tbsp
+    name: grenadine
+    raw: 1 tablespoon grenadine
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    name: orange
+    raw: 1 slice fresh orange
+  - qty: 1
+    name: maraschino cherry on a cocktail stick
+    raw: 1 maraschino cherry on a cocktail stick

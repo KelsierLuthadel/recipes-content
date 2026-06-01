@@ -1,0 +1,38 @@
+prep: 3 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - gluten-free
+  - dairy-free
+  - quick
+  - no-cook
+  - alcoholic
+ingredients:
+  - qty: 40
+    unit: ml
+    name: vodka
+    raw: 40 ml vodka
+  - qty: 20
+    unit: ml
+    name: peach schnapps
+    raw: 20 ml peach schnapps
+  - qty: 60
+    unit: ml
+    name: fresh orange juice
+    raw: 60 ml fresh orange juice
+  - qty: 60
+    unit: ml
+    name: cranberry juice
+    raw: 60 ml cranberry juice
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    name: slice fresh orange
+    raw: 1 slice fresh orange
+  - qty: 1
+    name: maraschino cherry
+    raw: 1 maraschino cherry
+  - name: paper umbrella
+    raw: A small paper umbrella
+  - name: paper straw
+    raw: A paper straw

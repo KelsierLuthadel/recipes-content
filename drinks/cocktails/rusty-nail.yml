@@ -1,0 +1,25 @@
+prep: 2 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - gluten-free
+  - dairy-free
+  - quick
+  - no-cook
+  - alcoholic
+  - lemon
+ingredients:
+  - qty: 45
+    unit: ml
+    name: Scotch whisky
+    raw: 45 ml Scotch whisky
+  - qty: 25
+    unit: ml
+    name: Drambuie
+    raw: 25 ml Drambuie
+  - qty: 1
+    name: large ice cube
+    raw: 1 large ice cube
+  - qty: 1
+    name: thin strip of lemon peel
+    raw: 1 thin strip of lemon peel

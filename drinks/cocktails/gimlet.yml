@@ -1,0 +1,31 @@
+prep: 3 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - gluten-free
+  - dairy-free
+  - quick
+  - no-cook
+  - alcoholic
+  - lime
+ingredients:
+  - qty: 60
+    unit: ml
+    name: gin
+    raw: 60 ml gin
+  - qty: 20
+    unit: ml
+    name: fresh lime juice
+    raw: 20 ml fresh lime juice
+  - qty: 10
+    unit: ml
+    name: simple syrup
+    raw: 10 ml simple syrup
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    name: thin twist of lime peel
+    raw: 1 thin twist of lime peel
+  - qty: 1
+    name: chilled coupe glass
+    raw: A chilled coupe glass

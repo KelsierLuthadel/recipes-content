@@ -2,14 +2,17 @@ prep: 2 minutes
 cook: 8 minutes
 allergens:
   - dairy
+  - tree-nuts
 tags:
   - vegetarian
   - gluten-free
   - quick
-  - winter
+  - lemon
+  - nuts
+mentions: []
 ingredients:
   - qty: 1
-    name: Earl Grey tea bag
+    name: earl grey tea bag
     raw: 1 Earl Grey tea bag
   - qty: 150
     unit: ml
@@ -21,9 +24,13 @@ ingredients:
     raw: 1 tablespoon vanilla syrup
   - qty: 100
     unit: ml
-    name: whole milk
+    name: milk
     raw: 100 ml whole milk
-  - name: bergamot or lemon zest
+  - qty: 1
+    unit: tiny pinch
+    name: bergamot zest or grated lemon zest
     raw: A tiny pinch of bergamot zest or grated lemon zest
-  - name: ground cinnamon
+  - qty: 1
+    unit: pinch
+    name: cinnamon or grated nutmeg
     raw: A pinch of ground cinnamon or grated nutmeg

@@ -4,13 +4,13 @@ allergens: []
 tags:
   - vegetarian
   - vegan
-  - gluten-free
   - dairy-free
+  - gluten-free
+  - quick
   - make-ahead
-  - christmas
-  - winter
   - ginger
-  - spices
+mentions:
+  - drinks/hot/mulled-wine
 ingredients:
   - qty: 1.2
     unit: l
@@ -20,7 +20,7 @@ ingredients:
     name: orange
     raw: 1 orange
   - qty: 6
-    name: whole cloves
+    name: cloves
     raw: 6 whole cloves
   - qty: 2
     name: cinnamon sticks
@@ -32,19 +32,19 @@ ingredients:
     name: green cardamom pods
     raw: 4 green cardamom pods
   - qty: 3
-    name: thin slices fresh ginger
+    name: ginger
     raw: 3 thin slices fresh ginger
   - qty: 2
     unit: tbsp
-    name: dark muscovado sugar
-    raw: 2 tablespoons dark muscovado sugar
+    name: dark muscovado sugar or maple syrup
+    raw: 2 tablespoons dark muscovado sugar or maple syrup
   - qty: 0.5
     unit: tsp
     name: vanilla extract
     raw: ½ teaspoon vanilla extract
   - name: orange slices
     raw: Orange slices
-  - name: cinnamon stick
+  - name: cinnamon stick per glass
     raw: A cinnamon stick per glass
-  - name: fresh nutmeg
+  - name: nutmeg
     raw: A grating of fresh nutmeg

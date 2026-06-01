@@ -12,6 +12,7 @@ tags:
 mentions:
   - drinks/classic/ginger-beer
   - drinks/classic/lemonade
+  - drinks/cocktails/mojito
 ingredients:
   - qty: 8
     name: mint leaves

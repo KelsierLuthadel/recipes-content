@@ -2,35 +2,38 @@ prep: 5 minutes
 cook: 0 minutes
 allergens:
   - dairy
+  - meat
 tags:
-  - vegetarian
   - gluten-free
   - quick
-  - no-cook
+  - make-ahead
+  - meat
   - yogurt
 mentions:
   - drinks/regional/india/salted-lassi
 ingredients:
   - qty: 500
     unit: g
-    name: thick full-fat plain yogurt
+    name: plain yogurt
     raw: 500 g thick full-fat plain yogurt
   - qty: 500
     unit: ml
-    name: very cold water
+    name: water
     raw: 500 ml very cold water
   - qty: 1
     unit: tsp
-    name: fine salt
+    name: salt
     raw: 1 teaspoon fine salt
   - qty: 8
-    name: fresh mint leaves
+    name: mint leaves
     raw: 8 fresh mint leaves
   - name: ice cubes
     raw: Ice cubes
   - name: tall glasses
     raw: Tall glasses
-  - name: dried mint
-    raw: A pinch of dried mint
-  - name: fresh mint sprig
+  - qty: 1
+    unit: pinch
+    name: mint on top
+    raw: A pinch of dried mint on top
+  - name: single fresh mint sprig per glass
     raw: A single fresh mint sprig per glass

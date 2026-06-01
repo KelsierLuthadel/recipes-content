@@ -6,6 +6,7 @@ tags:
   - vegetarian
   - gluten-free
   - quick
+mentions: []
 ingredients:
   - qty: 2
     unit: tbsp
@@ -13,20 +14,13 @@ ingredients:
     raw: 2 tablespoons sweetened condensed milk
   - qty: 2
     unit: tbsp
-    name: ground Vietnamese coffee
+    name: vietnamese coffee
     raw: 2 tablespoons coarsely ground Vietnamese coffee
   - qty: 100
     unit: ml
-    name: hot water
+    name: just-off-the-boil water
     raw: 100 ml just-off-the-boil water
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
-  - qty: 1
-    name: phin filter
-    raw: A phin filter
-  - qty: 1
-    name: tall glass
-    raw: A tall glass
-  - qty: 1
-    name: wide straw
+  - name: straw
     raw: A straw

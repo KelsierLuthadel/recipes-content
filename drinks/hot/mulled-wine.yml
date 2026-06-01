@@ -3,18 +3,14 @@ cook: 30 minutes
 allergens: []
 tags:
   - vegetarian
-  - vegan
-  - gluten-free
   - dairy-free
+  - gluten-free
   - make-ahead
-  - christmas
-  - winter
-  - spices
-mentions:
-  - drinks/hot/mulled-apple-cider
+  - lemon
+  - honey
+mentions: []
 ingredients:
-  - qty: 750
-    unit: ml
+  - qty: 1
     name: medium-bodied red wine
     raw: 1 bottle medium-bodied red wine
   - qty: 1
@@ -24,7 +20,7 @@ ingredients:
     name: lemon
     raw: 1 lemon
   - qty: 8
-    name: whole cloves
+    name: cloves
     raw: 8 whole cloves
   - qty: 2
     name: cinnamon sticks
@@ -45,8 +41,8 @@ ingredients:
   - qty: 100
     unit: ml
     name: brandy
-    raw: 100 ml brandy
+    raw: 100 ml brandy, port or dark rum
   - name: orange slices
     raw: Extra orange slices
-  - name: cinnamon stick
+  - name: cinnamon stick per glass
     raw: A cinnamon stick per glass

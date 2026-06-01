@@ -1,13 +1,15 @@
-prep: 10 minutes
+prep: 10 minutes (plus overnight soaking)
 cook: 0 minutes
 allergens:
   - dairy
 tags:
   - vegetarian
   - gluten-free
-  - no-cook
+  - quick
   - make-ahead
   - rice
+mentions:
+  - drinks/classic/lemonade
 ingredients:
   - qty: 200
     unit: g
@@ -18,11 +20,11 @@ ingredients:
     raw: 2 cinnamon sticks
   - qty: 1
     unit: l
-    name: cold water
+    name: water
     raw: 1 litre cold water
   - qty: 700
     unit: ml
-    name: cold water
+    name: water
     raw: 700 ml cold water
   - qty: 100
     unit: g
@@ -32,15 +34,17 @@ ingredients:
     unit: tsp
     name: vanilla extract
     raw: 1 teaspoon vanilla extract
-  - name: fine salt
+  - qty: 1
+    unit: pinch
+    name: salt
     raw: Pinch of fine salt
   - qty: 100
     unit: ml
-    name: whole milk
-    raw: 100 ml whole milk
-  - name: ice cubes
+    name: milk or 100 ml sweetened condensed milk
+    raw: 100 ml whole milk OR 100 ml sweetened condensed milk
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
-  - name: ground cinnamon
+  - name: cinnamon
     raw: Ground cinnamon
   - name: cinnamon stick per glass
     raw: Cinnamon stick per glass

@@ -1,0 +1,38 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lime
+mentions: []
+ingredients:
+  - qty: 8
+    name: mint leaves
+    raw: 8 fresh mint leaves
+  - qty: 0.5
+    name: lime
+    raw: ½ lime
+  - qty: 2
+    unit: tsp
+    name: caster sugar
+    raw: 2 teaspoons caster sugar
+  - qty: 50
+    unit: ml
+    name: white rum
+    raw: 50 ml white rum
+  - name: ice
+    raw: Crushed ice
+  - qty: 100
+    unit: ml
+    name: chilled soda water
+    raw: 100 ml chilled soda water
+  - name: fat sprig of mint
+    raw: A fat sprig of mint
+  - name: lime wedge
+    raw: A lime wedge
+  - name: paper straw
+    raw: A paper straw

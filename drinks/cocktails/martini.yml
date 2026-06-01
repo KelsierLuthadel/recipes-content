@@ -1,0 +1,27 @@
+prep: 3 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - gluten-free
+  - dairy-free
+  - quick
+  - no-cook
+  - alcoholic
+  - lemon
+ingredients:
+  - qty: 60
+    unit: ml
+    name: London dry gin
+    raw: 60 ml London dry gin
+  - qty: 10
+    unit: ml
+    name: dry vermouth
+    raw: 10 ml dry vermouth
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    name: wide strip of lemon peel
+    raw: 1 wide strip of lemon peel
+  - qty: 1
+    name: olive on a cocktail stick
+    raw: 1 olive on a cocktail stick

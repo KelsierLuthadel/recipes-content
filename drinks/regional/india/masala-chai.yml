@@ -7,8 +7,7 @@ tags:
   - gluten-free
   - quick
   - ginger
-  - spices
-  - winter
+mentions: []
 ingredients:
   - qty: 4
     name: green cardamom pods
@@ -31,22 +30,21 @@ ingredients:
     name: fennel seeds
     raw: ½ teaspoon fennel seeds
   - qty: 3
-    unit: cm
-    name: fresh ginger
+    name: ginger
     raw: 3 cm fresh ginger
   - qty: 350
     unit: ml
-    name: cold water
+    name: water
     raw: 350 ml cold water
   - qty: 2
-    unit: tsp
-    name: loose-leaf black tea
+    name: heaped teaspoons loose-leaf strong black tea
     raw: 2 heaped teaspoons loose-leaf strong black tea
   - qty: 250
     unit: ml
-    name: whole milk
+    name: milk
     raw: 250 ml whole milk
   - qty: 2
-    unit: tsp
-    name: sugar
+    name: to 3 teaspoons sugar
     raw: 2 to 3 teaspoons sugar
+  - name: pour straight into small glasses or steel tumblers
+    raw: Pour straight into small glasses or steel tumblers

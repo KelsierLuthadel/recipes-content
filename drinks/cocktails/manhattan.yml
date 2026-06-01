@@ -1,0 +1,27 @@
+prep: 3 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - gluten-free
+  - dairy-free
+  - quick
+  - no-cook
+  - alcoholic
+ingredients:
+  - qty: 60
+    unit: ml
+    name: rye whiskey
+    raw: 60 ml rye whiskey
+  - qty: 30
+    unit: ml
+    name: sweet red vermouth
+    raw: 30 ml sweet red vermouth
+  - qty: 2
+    unit: dashes
+    name: Angostura bitters
+    raw: 2 dashes Angostura bitters
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    name: maraschino cherry
+    raw: 1 maraschino cherry
