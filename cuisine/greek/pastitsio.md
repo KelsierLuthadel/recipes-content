@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Pasta tubes get a quick boil and a buttery toss. A beef ragù with cinnamon, allspice and a touch of tomato cooks while the pasta drains. Béchamel, thick, egg-bound, cheese-spiked, pours over the top. Bakes until the surface is mahogany-bronze.
+Pastitsio is the Greek pasta bake, sometimes called the Greek answer to lasagne, big tubes of pasta tossed in butter and layered with a cinnamon-scented beef ragù and a generous cheese-bound bechamel on top. The pasta tubes get a quick boil and a buttery toss to coat the strands. A beef ragù cooks with onion, garlic, cinnamon, allspice and a touch of tomato; the spices are the markers that say Mediterranean rather than Italian. A thick bechamel enriched with egg and a generous handful of grated cheese pours over the top. Bake at 180°C for fifty minutes until the surface goes mahogany-bronze and the centre is bubbling at the edges. Rest before slicing so the layers hold; serve cut into squares.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Pork shoulder cubes marinate at least two hours in a lemon-olive oil-garlic-oregano mix. Threaded onto skewers and grilled hot. Three minutes a side; rest briefly; serve with the standard mezze.
+Pork souvlaki is the Greek skewer that turns up at every taverna and street stand across the country, marinated pork cubes threaded onto skewers and grilled hard over charcoal until the edges char and the centres stay juicy. Pork shoulder cubes marinate for at least two hours (overnight is better) in a mix of lemon juice, olive oil, garlic, dried oregano, salt and black pepper. The marinade is the dish's soul: lemon does the acid work, oregano carries the Greek aromatic signature. Thread onto skewers and grill over hot charcoal; three minutes a side gives you blackened edges and a pink centre. Rest briefly so the juices redistribute, then serve with pita, tzatziki, chopped tomato and red onion, ideally outside, with cold beer.
 
 ## Ingredients
 

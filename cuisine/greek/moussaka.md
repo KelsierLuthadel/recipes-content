@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Aubergines and potatoes pan-fry or roast separately. Lamb mince cooks down with onion, garlic, cinnamon and tomato into a rich ragù. The layers go into a deep dish, topped with a cheese-rich béchamel that sets golden in the oven.
+Moussaka is the Greek tradition of layered aubergine and lamb baked under a thick blanket of bechamel, the dish that anchors every Greek taverna menu and every Greek grandmother's Sunday lunch. Aubergines slice thick and pan-fry (or roast) in olive oil until soft and pale-golden; potato slices cook the same way. Lamb mince cooks down with onion, garlic, cinnamon, allspice and tomato into a rich, slightly sweet ragù; the cinnamon is the marker that says Greek rather than Italian. The layers build in a deep dish: potato on the bottom, then aubergine, then ragù, then more aubergine. A cheese-rich bechamel pours over the top; bake at 180°C for forty-five minutes until the top goes mahogany-gold and the layers below are bubbling. Rest fifteen minutes before slicing so the layers set; serve with a Greek salad on the side.
 
 ## Ingredients
 

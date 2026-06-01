@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes (plus 4 hours resting)
 
 ## Overview
-A semolina custard is simmered on the stove, milk, semolina, sugar, lemon zest, eggs, until thick. Off heat, butter and vanilla are stirred in. A 30 × 22 cm tin is layered with 10 sheets of buttered filo on the bottom. The custard is poured in. 8 more buttered filo sheets cover. The top is scored into diamonds. Baked for 45 minutes at 180°C till deep gold. While baking, a syrup of sugar, water, lemon juice and cinnamon stick simmers. The HOT syrup is poured over the just-OUT-OF-OVEN galaktoboureko. Rested for 4 hours minimum (overnight ideal) before cutting.
+Galaktoboureko is the Greek semolina custard tart wrapped in filo and drowned in lemon syrup, the more polite sibling of baklava and arguably the better dessert. A semolina custard simmers on the stove (milk, semolina, sugar, lemon zest, eggs) until thick and just-pourable; butter and vanilla stir in off the heat. A 30 by 22 cm tin layers with ten sheets of buttered filo at the bottom; the custard pours in; eight more buttered filo sheets cover. The top scores into diamonds before baking. Forty-five minutes at 180°C until deep gold and crackly. While it bakes, a syrup of sugar, water, lemon juice and cinnamon stick simmers. The hot syrup pours over the just-out-of-oven tart so it sizzles into the layers. Rest for at least four hours (overnight ideal) before cutting; the custard sets and the syrup permeates.
 
 ## Ingredients
 

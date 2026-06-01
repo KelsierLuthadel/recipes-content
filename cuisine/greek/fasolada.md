@@ -11,7 +11,7 @@
 **Cook Time:** 1 ½ hours
 
 ## Overview
-Soaked beans simmer slow with chopped vegetables, tomato and herbs in a generous pour of olive oil. Lemon juice goes in at the end to brighten. Served with a final drizzle of oil, maybe a sprinkle of feta and a heel of bread.
+Fasolada is the Greek bean soup that's often called the country's national dish, a slow-cooked pot of haricot beans, tomato and vegetables in a generous pour of olive oil, the kind of meal that lives on a Greek family's table at least once a week. Soaked white beans simmer slow with chopped onion, carrot, celery, garlic, chopped tomato and herbs (bay, thyme, oregano) in a generous pour of olive oil that gets stirred in early so it cooks into the broth rather than floating on top. Lemon juice goes in at the end to brighten everything. Serve in deep bowls with a final drizzle of oil, maybe a sprinkle of crumbled feta on top and a heel of crusty bread for dipping. Better the next day.
 
 ## Ingredients
 

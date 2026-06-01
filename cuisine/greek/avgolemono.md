@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-A whole chicken poaches in water with onion, carrot and celery, building broth and tender meat at the same time. Rice (or orzo) cooks in the strained broth. Eggs and lemon juice whisk together, get tempered with hot broth, then stir back into the soup off the heat. The eggs thicken the broth into a velvet finish.
+Avgolemono is the Greek lemon-egg soup the country eats when someone is unwell or when winter has set in, a velvet broth thickened with whisked eggs and lemon juice rather than flour or cream. A whole chicken poaches in water with onion, carrot and celery, simultaneously building the broth and tender meat. Rice (or orzo) cooks in the strained broth until just-tender. Eggs and lemon juice whisk together in a separate bowl; you temper them with hot broth so they don't scramble, then stir back into the soup off the heat. The eggs thicken the broth into a silky velvet finish. Serve hot, with a torn piece of crusty bread and a pinch of black pepper.
 
 ## Ingredients
 

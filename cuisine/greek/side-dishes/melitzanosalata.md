@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (mostly aubergine cooking)
 
 ## Overview
-Whole aubergines char directly over flame or under a hot grill until the skin blackens and the inside collapses to softness. Cool, peel, drain on a sieve 15 minutes to release excess water. Roughly chop the flesh; mix with crushed garlic, lemon juice, olive oil, red-wine vinegar, chopped parsley, salt and pepper. Taste and balance. Serve in a wide bowl with a generous drizzle of olive oil.
+Melitzanosalata is the Greek smoky aubergine dip, the Mediterranean cousin of baba ganoush, the difference being a generous slick of olive oil and the addition of red-wine vinegar that pushes it sharp rather than nutty. Whole aubergines char directly over flame or under a hot grill until the skin blackens and the inside collapses to softness. Cool, peel away the blackened skin, drain the flesh on a sieve for fifteen minutes to release excess water. Roughly chop the flesh (don't blend, the texture matters); mix with crushed garlic, lemon juice, olive oil, red-wine vinegar, chopped parsley, salt and pepper. Taste and balance; should be smoky, garlicky, sharp and rich all at once. Serve in a wide bowl with a generous final drizzle of olive oil; eat with warm pita.
 
 ## Ingredients
 - 3 aubergines (medium, about 900 g total)

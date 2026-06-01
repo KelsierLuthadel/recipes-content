@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Feta crumbles into a bowl with ricotta, egg, dill, mint, nutmeg and black pepper. Filo sheets keep covered with a damp tea towel (they dry instantly). Each sheet halves lengthways. A spoon of filling sits at one end of each strip; the strip folds flag-style up and across to form a triangle, layer by layer. Triangles brush with melted butter; bake for 25 minutes at 180°C till deep gold and puffed.
+Tyropita are the Greek cheese triangles, small filo-wrapped parcels of feta and ricotta that turn up at every Greek bakery counter and every meze table, easy enough to make in batches and to freeze for snacking later. Feta crumbles into a bowl with ricotta, an egg, fresh dill, mint, a pinch of nutmeg and plenty of black pepper. Filo sheets stay under a damp tea towel as you work (filo dries out the moment you turn your back). Each sheet halves lengthways. A spoon of filling sits at one end of each strip; the strip folds flag-style up and across to form a tight triangle, layer by layer. Triangles brush with melted butter and bake for twenty-five minutes at 180°C until deep gold and puffed.
 
 ## Ingredients
 

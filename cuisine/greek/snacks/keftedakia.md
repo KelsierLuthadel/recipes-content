@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes (in batches)
 
 ## Overview
-A grated onion (juice squeezed out) folds into beef-or-pork-and-beef mince with bread soaked in milk and squeezed dry, an egg, a generous amount of dried mint and oregano, parsley, garlic, salt and pepper. A tablespoon of ouzo or red wine adds depth. Mixture rests for 30 minutes (the flavours mingle, the bread fully absorbs). Rolls into walnut-sized balls, dusts in flour, pan-fries in olive oil 6-8 minutes turning often until deep brown and cooked through. Serves with tzatziki and lemon wedges.
+Keftedakia are the small Greek meatballs, the meze-platter staple seasoned with dried mint and ouzo (or red wine) and pan-fried golden, served with tzatziki for dipping. A grated onion (squeeze the juice out, otherwise the mince goes wet) folds into beef or beef-and-pork mince with bread soaked in milk and squeezed dry, an egg, a generous amount of dried mint and oregano, fresh parsley, garlic, salt and pepper. A tablespoon of ouzo or red wine adds the Greek depth. The mixture rests for thirty minutes so the bread fully absorbs and the flavours mingle. Roll into walnut-sized balls, dust in flour, pan-fry in olive oil for six to eight minutes, turning often, until deep brown and cooked through. Serve hot with tzatziki and lemon wedges.
 
 ## Ingredients
 

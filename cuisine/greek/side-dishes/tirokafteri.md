@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes (assumes pre-roasted peppers; 20 minutes from raw)
 
 ## Overview
-Roasted red pepper (jarred or homemade) blends with feta, cream cheese, garlic, chilli, olive oil and red-wine vinegar until smooth but with a slight texture. Tastes for heat, add a second chilli if mild. Chills for 30 minutes for the flavours to meld. Served in a shallow bowl with a drizzle of olive oil, a pinch of paprika and a sprinkle of oregano. Eats with warm pita.
+Tirokafteri is the Greek spicy feta dip, the salty-creamy-fiery mezze that every taverna sets down with the pita and the olives, a blend of feta, roasted red pepper and chilli that punches above its three-ingredient list. Roasted red pepper (jarred is fine, homemade is better) blends with feta, cream cheese, garlic, a fresh chilli, olive oil and red-wine vinegar until smooth but still slightly textured. Taste for heat; add a second chilli if it lands mild. Chill for thirty minutes so the flavours marry. Serve in a shallow bowl with a final drizzle of olive oil, a pinch of paprika and a sprinkle of dried oregano. Eat with warm pita, in the sun, with a cold beer.
 
 ## Ingredients
 - 200 g feta cheese (Greek, in brine)

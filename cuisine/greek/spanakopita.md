@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Spinach wilts and squeezes dry; mixes with crumbled feta, ricotta, eggs, dill and spring onions. The filling goes between layers of filo brushed with melted butter; baked until the top shatter-crisps.
+Spanakopita is the great Greek spinach pie, layers of butter-brushed filo wrapped around a herby spinach-and-feta filling, baked until the top shatters under a fork. Spinach wilts down in a hot pan and squeezes thoroughly dry (any moisture left in the filling makes the bottom soggy). The drained spinach mixes with crumbled feta, ricotta, eggs, chopped dill and chopped spring onions. The filling spreads between layers of filo brushed with melted butter, eight on the bottom, the filling, eight more on top. A score across the top before baking helps the layers separate cleanly later. Bake at 180°C for forty-five minutes until the top is dark gold and audibly crisp. Cut into squares while warm; eat hot or at room temperature.
 
 ## Ingredients
 

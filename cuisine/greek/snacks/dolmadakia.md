@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Brined vine leaves are soaked for 20 minutes to leach the brine. Filling: short-grain rice is par-cooked for 10 minutes with onion in olive oil; off heat, dill, mint, parsley, pine nuts, currants and lemon zest are stirred through. Each leaf is given a teaspoon of cool filling and rolled into a tight cigar. The rolls are packed tight in a heavy pot lined with broken / extra leaves. Olive oil, lemon juice and stock are poured in to barely cover. Weighed down with an inverted plate. Slow-simmered for 50-60 minutes. Cooled in the liquid; served at room temperature.
+Dolmadakia are the Greek stuffed vine leaves, small cigar-shaped rolls of softened vine leaves wrapped around a herby rice filling and slow-cooked in olive oil and lemon broth. Brined vine leaves soak for twenty minutes to leach the brine. The filling cooks first: short-grain rice par-cooks for ten minutes with onion in olive oil; off the heat, dill, mint, parsley, pine nuts, currants and lemon zest stir through for the bright herbal-sweet character that defines the dish. Each leaf takes a teaspoon of cool filling and rolls into a tight cigar. The rolls pack close in a heavy pot lined with broken or extra leaves on the bottom. Olive oil, lemon juice and stock pour in to barely cover; an inverted plate weighs them down. Slow-simmer for fifty to sixty minutes. Cool in the liquid; serve at room temperature with extra lemon.
 
 ## Ingredients
 

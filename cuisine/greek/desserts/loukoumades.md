@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (in batches)
 
 ## Overview
-A wet yeasted batter, flour, warm water, yeast, salt, sugar, rests for 1 hour. A small syrup of honey, water, lemon and cinnamon stick simmers for 5 minutes. Oil heats to 175°C. The cook scoops a tablespoon of batter at a time from a wet hand, dropping into the oil, the puff is roughly walnut-sized. Fries for 2-3 minutes till deep gold, turning once. Drains briefly; tumbles into the warm syrup; lifts onto plates; showers with walnuts and cinnamon. Eats immediately.
+Loukoumades are the Greek honey-doughnuts, fluffy yeasted balls fried golden and tossed straight into warm honey syrup, the carnival-stall sweet that turns up at every Greek festival from Athens to the smallest island. A wet yeasted batter (flour, warm water, yeast, salt, sugar) rests for an hour until risen and faintly bubbly. A small syrup of honey, water, lemon and cinnamon stick simmers for five minutes. Oil heats to 175°C; the cook scoops a tablespoon of batter at a time from a wet hand and drops it into the oil, where it puffs to roughly walnut-sized. Fry for two to three minutes until deep gold, turning once. Drain briefly; tumble into the warm syrup so they drink it up; lift onto plates; shower with chopped walnuts and a dust of cinnamon. Eat immediately, with fingers.
 
 ## Ingredients
 

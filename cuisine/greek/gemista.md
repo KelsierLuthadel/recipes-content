@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Tomatoes and peppers get tops cut off and centres scooped out. The tomato flesh is reserved and chopped. A rice filling cooks half-done in a pan with the chopped tomato flesh, onion, garlic and herbs. Vegetables fill; tops go back on. Potato wedges arrange around them in a tray; everything bakes slowly in olive oil and the reserved tomato juices until the rice is cooked through and the potatoes are golden.
+Gemista is the Greek stuffed-vegetable dish of mid-summer, ripe tomatoes and peppers hollowed and filled with a herby rice mixture, baked slowly with potato wedges around them in olive oil. You cut the tops off tomatoes and peppers and scoop the centres out (save the tomato flesh, chop it fine). A rice filling cooks half-done in a pan with the chopped tomato flesh, onion, garlic, parsley, mint and dill. The hollowed vegetables fill with the rice; the cut-off tops go back on like little hats. Potato wedges arrange around the stuffed vegetables in a tray. Olive oil and the reserved tomato juices pour over; the whole tray bakes slowly at 180°C for an hour and a half until the rice is fully cooked and the potatoes are golden at the edges. Eat warm or at room temperature, with crusty bread and crumbled feta.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 10 minutes
 
 ## Overview
-Lamb mince blends with onion, garlic, oregano, cumin and a bit of breadcrumb into a stiff paste. Packed into a loaf tin and roasted. Once cool enough to slice, the loaf is sliced very thin and pan-crisped to mimic shawarma. Pita, tzatziki, salad.
+This is the home-cook version of the lamb gyros every Greek kebab stand carves off a vertical spit, a seasoned lamb mince loaf roasted in a tin and sliced thin for pan-crisping. The mince blends with grated onion, garlic, dried oregano, cumin and a small spoon of breadcrumb until you have a stiff paste. Press the mixture tight into a loaf tin so there are no air pockets (any air pocket goes mushy in the oven), then roast at 180°C for an hour until the surface is deep brown and the centre is just cooked. Cool fully so the loaf firms up; slice very thin with a sharp knife. Pan-crisp the slices in a hot dry skillet so the edges char and the surface crisps, mimicking the shawarma-style crust. Serve in toasted pita with tzatziki, sliced tomato, onion and a generous squeeze of lemon.
 
 ## Ingredients
 

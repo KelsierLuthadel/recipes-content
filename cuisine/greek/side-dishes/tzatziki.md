@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Cucumber grates, salts, sits in a sieve to drain. Squeezed thoroughly. Mixes with thick Greek yogurt, crushed garlic, dill (or mint), olive oil, lemon and salt. Served chilled with a final swirl of oil and dill on top.
+Tzatziki is the Greek cucumber-yogurt dip that lives at every meze table, beside every grill, in every gyro wrap, the cooling counter to anything charred or spiced. The trick is the cucumber: grate it on the coarse side of a grater, salt it heavily, and let it sit in a sieve for half an hour to weep its water, then squeeze it dry by the fistful. Mix the squeezed cucumber with thick Greek yogurt, crushed garlic, finely chopped fresh dill (or mint, depending on the region), olive oil, lemon juice and salt. Chill for half an hour so the flavours meld. Serve cold with a final swirl of olive oil and a few extra dill fronds on top. Eat with everything.
 
 ## Ingredients
 
