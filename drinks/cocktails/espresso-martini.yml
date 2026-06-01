@@ -1,0 +1,33 @@
+prep: 4 minutes
+cook: 2 minutes
+allergens: []
+tags:
+  - gluten-free
+  - dairy-free
+  - quick
+  - alcoholic
+ingredients:
+  - qty: 50
+    unit: ml
+    name: vodka
+    raw: 50 ml vodka
+  - qty: 30
+    unit: ml
+    name: freshly pulled espresso
+    raw: 30 ml freshly pulled espresso
+  - qty: 25
+    unit: ml
+    name: Kahlúa
+    raw: 25 ml Kahlúa
+  - qty: 10
+    unit: ml
+    name: simple syrup
+    raw: 10 ml simple syrup
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - qty: 3
+    name: whole coffee beans
+    raw: 3 whole coffee beans
+  - qty: 1
+    name: chilled coupe glass
+    raw: A chilled coupe glass

@@ -1,0 +1,31 @@
+prep: 3 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - gluten-free
+  - dairy-free
+  - quick
+  - no-cook
+  - alcoholic
+  - lime
+ingredients:
+  - qty: 60
+    unit: ml
+    name: white rum
+    raw: 60 ml white rum
+  - qty: 25
+    unit: ml
+    name: fresh lime juice
+    raw: 25 ml fresh lime juice
+  - qty: 15
+    unit: ml
+    name: simple syrup
+    raw: 15 ml simple syrup
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    name: lime wheel
+    raw: 1 lime wheel or a thin twist of lime peel
+  - qty: 1
+    name: chilled coupe glass
+    raw: A chilled coupe glass

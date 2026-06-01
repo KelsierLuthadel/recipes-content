@@ -1,0 +1,33 @@
+prep: 3 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - lime
+mentions: []
+ingredients:
+  - qty: 200
+    unit: ml
+    name: cold ginger ale
+    raw: 200 ml cold ginger ale
+  - qty: 1
+    unit: tbsp
+    name: grenadine
+    raw: 1 tablespoon grenadine
+  - qty: 1
+    unit: tsp
+    name: lime juice
+    raw: 1 teaspoon fresh lime juice
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - name: maraschino cherry on a cocktail stick
+    raw: A maraschino cherry on a cocktail stick
+  - name: lime
+    raw: A wedge of lime
+  - name: paper straw
+    raw: A paper straw

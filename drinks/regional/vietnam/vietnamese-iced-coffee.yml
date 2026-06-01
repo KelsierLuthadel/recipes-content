@@ -1,0 +1,26 @@
+prep: 2 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: sweetened condensed milk
+    raw: 2 tablespoons sweetened condensed milk
+  - qty: 2
+    unit: tbsp
+    name: vietnamese coffee
+    raw: 2 tablespoons coarsely ground Vietnamese coffee
+  - qty: 100
+    unit: ml
+    name: just-off-the-boil water
+    raw: 100 ml just-off-the-boil water
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - name: straw
+    raw: A straw

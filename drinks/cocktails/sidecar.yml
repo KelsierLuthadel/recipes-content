@@ -1,0 +1,38 @@
+prep: 3 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - gluten-free
+  - dairy-free
+  - quick
+  - no-cook
+  - alcoholic
+  - lemon
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    name: lemon wedge
+    raw: 1 lemon wedge
+  - qty: 45
+    unit: ml
+    name: cognac
+    raw: 45 ml cognac
+  - qty: 20
+    unit: ml
+    name: Cointreau
+    raw: 20 ml Cointreau
+  - qty: 20
+    unit: ml
+    name: fresh lemon juice
+    raw: 20 ml fresh lemon juice
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    name: thin strip of orange peel
+    raw: 1 thin strip of orange peel
+  - qty: 1
+    name: chilled coupe glass
+    raw: A chilled coupe glass

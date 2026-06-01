@@ -1,0 +1,36 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - lime
+mentions:
+  - drinks/classic/ginger-beer
+  - drinks/classic/lemonade
+  - drinks/cocktails/mojito
+ingredients:
+  - qty: 8
+    name: mint leaves
+    raw: 8 fresh mint leaves
+  - qty: 0.5
+    name: lime
+    raw: ½ lime
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - name: ice
+    raw: Crushed ice
+  - qty: 180
+    unit: ml
+    name: soda water
+    raw: 180 ml soda water
+  - name: fat sprig of mint per glass
+    raw: A fat sprig of mint per glass
+  - name: lime wedge
+    raw: A lime wedge

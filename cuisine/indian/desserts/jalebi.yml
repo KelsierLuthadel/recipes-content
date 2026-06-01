@@ -16,7 +16,8 @@ tags:
   - diwali
   - holi
   - hindu
-mentions: []
+mentions:
+  - drinks/regional/india/masala-chai
 ingredients:
   - qty: 200
     unit: g

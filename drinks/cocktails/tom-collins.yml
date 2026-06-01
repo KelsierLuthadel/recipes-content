@@ -1,0 +1,38 @@
+prep: 3 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - gluten-free
+  - dairy-free
+  - quick
+  - no-cook
+  - alcoholic
+  - lemon
+ingredients:
+  - qty: 50
+    unit: ml
+    name: gin
+    raw: 50 ml gin
+  - qty: 25
+    unit: ml
+    name: fresh lemon juice
+    raw: 25 ml fresh lemon juice
+  - qty: 15
+    unit: ml
+    name: simple syrup
+    raw: 15 ml simple syrup
+  - qty: 100
+    unit: ml
+    name: chilled soda water
+    raw: 100 ml chilled soda water
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    name: slice fresh lemon
+    raw: 1 slice fresh lemon
+  - qty: 1
+    name: maraschino cherry
+    raw: 1 maraschino cherry on a cocktail stick
+  - qty: 1
+    name: tall Collins glass
+    raw: A tall Collins glass

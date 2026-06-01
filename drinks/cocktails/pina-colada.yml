@@ -1,0 +1,45 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - gluten-free
+  - dairy-free
+  - quick
+  - no-cook
+  - alcoholic
+  - coconut
+  - lime
+mentions:
+  - drinks/mocktails/virgin-pina-colada
+ingredients:
+  - qty: 100
+    unit: ml
+    name: white rum
+    raw: 100 ml white rum
+  - qty: 200
+    unit: ml
+    name: pineapple juice
+    raw: 200 ml pineapple juice
+  - qty: 100
+    unit: ml
+    name: cream of coconut
+    raw: 100 ml cream of coconut
+  - qty: 200
+    unit: g
+    name: frozen pineapple chunks
+    raw: 200 g frozen pineapple chunks
+  - qty: 25
+    unit: ml
+    name: fresh lime juice
+    raw: 25 ml fresh lime juice
+  - qty: 2
+    name: wedges of fresh pineapple
+    raw: 2 wedges of fresh pineapple
+  - qty: 2
+    name: maraschino cherries
+    raw: 2 maraschino cherries on cocktail sticks
+  - qty: 2
+    name: paper umbrellas
+    raw: 2 paper umbrellas
+  - name: hurricane glasses
+    raw: Wide hurricane glasses

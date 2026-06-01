@@ -1,0 +1,57 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - ginger
+  - coconut
+  - spinach
+  - lime
+  - honey
+mentions: []
+ingredients:
+  - qty: 2
+    unit: large handful
+    name: spinach
+    raw: 2 large handfuls baby spinach
+  - qty: 1
+    name: banana
+    raw: 1 ripe banana
+  - qty: 1
+    name: crisp apple
+    raw: 1 crisp apple
+  - qty: 0.5
+    name: avocado
+    raw: ½ ripe avocado
+  - qty: 200
+    unit: ml
+    name: cold apple juice or coconut water
+    raw: 200 ml cold apple juice or coconut water
+  - qty: 100
+    unit: g
+    name: pineapple chunks
+    raw: 100 g pineapple chunks
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 1
+    name: ginger
+    raw: 1 cm fresh ginger
+  - qty: 1
+    unit: tbsp
+    name: honey or maple syrup
+    raw: 1 tablespoon honey or maple syrup
+  - qty: 6
+    name: ice cubes
+    raw: 6 ice cubes
+  - name: lime
+    raw: A slice of lime
+  - name: mint leaves
+    raw: A few mint leaves
+  - name: toasted seeds
+    raw: A tablespoon of toasted seeds
