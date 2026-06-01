@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Dried shrimp and dried shiitake soak in warm water until plump; the soaking water is reserved. Chinese sausage dices fine; shallots, soaked shrimp and shiitake chop separately. All these flavourings fry together in oil until aromatic. Grated daikon is added with the shiitake-shrimp soaking liquid; cooked for 10 minutes covered until softened. Rice flour whisks with cold water into a smooth slurry; pours into the daikon mixture; cooks for 2 minutes, stirring, until thickened into a batter. Tipped into a greased loaf tin; smoothed; steamed for 60 minutes in a wide pot. Cooled fully, refrigerated, then sliced 1 cm thick and pan-fried in oil until crusted gold on both sides. Served with chilli oil and a dipping sauce of light soy and rice vinegar.
+Lo bak go is the turnip cake of Cantonese dim-sum carts: square pale-grey slabs pan-fried golden on the outside and silky inside, served in pairs with a dish of soy and chilli oil. The base is grated daikon (Chinese radish, lo bak) cooked down with rice flour into a thick batter, studded with the dim-sum holy trinity: dried shrimp, dried shiitake mushroom, and Chinese sausage (lap cheong), each one chopped fine and fried separately to bring out its aroma before joining the mix. The whole batter steams for an hour in a greased loaf tin, sets like a dense pale terrine when cooled overnight, and slices clean the next day. To serve, you pan-fry the cold slices in oil until the cut faces crust to deep gold while the centres stay silky. Eat warm with a soy-vinegar dipping sauce, ideally as the sun is rising over a yum cha tea pot.
 
 ## Ingredients
 

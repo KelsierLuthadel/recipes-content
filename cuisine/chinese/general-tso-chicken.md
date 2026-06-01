@@ -9,7 +9,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-This iconic American-Chinese dish combines deep-fried chicken with a sweet, spicy, and slightly tangy sauce. General Tso's chicken exemplifies the bold flavours of outside China Chinese cooking, where heat from dried chillies, sweetness from sugar, and complexity from vinegar create a sauce that is bold yet balanced. Restaurant-quality results require proper oil temperature and crispy, well-coated chicken.
+General Tso's chicken is the American-Chinese classic Hunanese restaurateur Peng Chang-kuei invented in Taipei in the 1950s and named for a 19th-century Qing general who had nothing to do with it. The pull is the contrast: a craggy deep-fried coat on each piece of dark-meat chicken that stays crisp under a sauce that lands somewhere between sweet, sour, hot and savoury. Dredge thigh meat in a wet-then-dry batter (the wet for adhesion, the dry for the craggy surface), fry twice in hot oil so the second fry sets the crust against the moisture inside, then toss in a glossy sauce of soy, rice vinegar, sugar, dried chilli and stock that's been reduced until it coats the back of a spoon. Serve over rice with a wedge of broccoli on the side and a beer.
 
 ## Ingredients
 

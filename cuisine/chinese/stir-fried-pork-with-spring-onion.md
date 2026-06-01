@@ -9,7 +9,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-This simple stir-fried dish in the southern Chinese tradition showcases how elemental technique and timing create exceptional results. The key to success is not to overcook the pork. A brief marinade tenderizes the meat and infuses flavour, while spring onions added late retain their fresh bite and delicate onion flavour.
+This is the simplest southern Chinese stir-fry there is: four ingredients, four minutes, and the kind of dish a Cantonese parent makes at the end of a long day without thinking about it. Sliced pork is velveted briefly in cornflour and soy so it stays silky, seared hard in a smoking wok, then tossed with spring onions cut on the angle and a fast glaze of soy, oyster and a splash of stock. The trick is restraint: the spring onions go in at the very end so they wilt but keep their bite, and the wok needs to be hot enough that nothing steams. Eight minutes from chopping board to plate is the rhythm. Serve over rice with a bowl of stir-fried greens.
 
 ## Ingredients
 

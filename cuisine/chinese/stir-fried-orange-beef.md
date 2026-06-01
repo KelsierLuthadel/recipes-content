@@ -9,7 +9,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-This is a northern Chinese beef speciality that lends itself to using dried tangerine peel. The Chinese always use peel that has been dried, and the older the peel, the more prized the flavour. The combination creates a sophisticated, citrus-forward sauce that balances the richness of beef beautifully.
+Dried tangerine peel (chenpi) is one of those Chinese ingredients that gets more prized with age: the older it is the more concentrated and almost-medicinal the citrus flavour becomes. This northern Chinese beef dish builds on that depth: thin strips of beef are velveted, seared hard, and finished in a sauce of soy, sugar, rice vinegar and slivered chenpi that has been gently softened in hot oil. The peel does the perfumed-citrus work that an Italian cook might get from a strip of orange zest, but with a much more grown-up, slightly bitter dryness behind it. The contrast between rich beef and bright peel is what makes the dish work; both sides need to be tasted in one bite. Serve over plain rice.
 
 ## Ingredients
 

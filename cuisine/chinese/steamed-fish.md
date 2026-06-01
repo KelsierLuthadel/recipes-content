@@ -9,7 +9,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Steaming is a great southern Chinese tradition and is considered the preferred method of cooking fish as it brings out the purest flavours. Because it is such a gentle cooking technique, nothing masks the fresh taste of the fish, which remains moist and tender. Simple aromatics, ginger, garlic, and spring onion, infuse the fish without overwhelming its delicate character.
+Steaming is the great Cantonese fish technique, the method that purists insist is the only honest way to cook a fish, because it strips out everything except what's already in the flesh. The whole fish (sea bass, bream, even a fillet of cod will do if a whole one isn't available) sits on a heatproof plate inside a wok or steamer, perfumed with thin coins of ginger, slivers of spring onion white and a drizzle of Shaoxing. Eight to ten minutes over high steam is usually enough; you check by lifting the dorsal flesh near the bone with a knife and looking for clean opaque white. The finishing pour is the dramatic step: a small ladle of smoking-hot oil over a fresh scatter of julienned spring onion green, which crackles and releases its aroma in one wave. Drizzle light soy over and eat immediately, the steam rising as the chopsticks go in.
 
 ## Ingredients
 

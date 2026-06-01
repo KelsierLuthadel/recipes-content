@@ -9,7 +9,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-A Hong Kong specialty that pairs delicate chicken with a tart yet subtly sweet lemon sauce. The technique of shallow-frying chicken strips until just cooked keeps the meat tender, while a glossy sauce coats each piece perfectly. The balance between citrus acidity and the subtle spice of dried chilli makes this dish elegant yet comforting.
+Lemon chicken is a Hong Kong invention, dim sum hall meets Western tea-room, designed to be approachable to British diners in the colonial era and ended up sticking around as a Cantonese classic in its own right. The chicken is sliced into thin strips, dipped in a light egg-and-cornflour batter, and shallow-fried until the surface is golden and faintly crisp. The sauce is glossy and slightly translucent, sharp with fresh lemon juice, sweetened with a measured spoon of sugar so it doesn't tip cloying, and given depth with a flake of dried chilli and a splash of chicken stock. You pour the warm sauce over the fried chicken just before serving so the strips stay crisp under their sweet-sour coat. Garnish with paper-thin lemon slices on top and serve over rice.
 
 ## Ingredients
 

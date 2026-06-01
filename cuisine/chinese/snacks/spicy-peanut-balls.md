@@ -9,7 +9,7 @@
 **Yield:** 16
 
 ## Overview
-Spicy peanut balls are deep-fried rice balls seasoned with garlic, ginger, chilli, soy sauce, and lime, then coated in chopped peanuts for a satisfying crunch. They make an excellent snack or starter, and pair naturally with a chilli dipping sauce.
+Spicy peanut balls are the kind of snack the kitchens of southern Chinese street stalls turn out by the bowlful: sticky-spicy and audibly crunchy as soon as they cool from the deep-fryer. Cooked rice gets mashed with chopped peanuts, ginger, garlic, chilli, soy, lime juice and a little cornflour to bind, then shaped into ping-pong sized balls. Each ball gets a final rolling in chopped peanuts so the surface is crusted with bites of crunch. Deep-fried at 175°C for three minutes until the surface goes golden and the peanut coat is set. Serve hot with a sharp chilli dipping sauce, ideally before sitting down to dinner so they can vanish from a plate of pre-supper snacks. Equally good cold from the fridge the next day.
 
 ## Ingredients
 - 1 garlic clove (crushed)

@@ -9,7 +9,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-The secret to light and fluffy meatballs lies in proper technique: egg white and cornflour incorporate air into the mixture, creating a delicate texture. This gentle steaming method keeps them moist and tender while the aromatics infuse throughout. These meatballs reheat beautifully by steaming and are perfect for dinners or as an appetizer at parties.
+These meatballs are the answer to the question of how to make a beef meatball that isn't dense, dry or tough. The secret is the egg-white-and-cornflour technique: the egg whites get whipped into the minced beef along with cornflour, ginger and Shaoxing, which whips air into the meat and gives you something light and almost springy in the mouth. They're shaped into small balls and steamed gently over high heat, which keeps the moisture in while the meatballs hold their shape; never boil them or they'll go tough. A finishing scatter of julienned spring onion and a splash of soy with sesame oil dresses the bowl. Eat them with rice or as part of a dim-sum spread; they reheat well by steaming again.
 
 ## Ingredients
 

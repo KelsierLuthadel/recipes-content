@@ -9,7 +9,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-In China, duck is a special occasion treatment reserved for banquets and celebrations. Don't be intimidated by the preparation, most steps are straightforward and can be done a day ahead. The technique is masterful: steaming renders out most of the fat, leaving meat moist and succulent, while deep-frying creates a shatteringly crisp skin. The result is elegant, restaurant-quality dinner.
+Crispy duck is the dish the Chinese reserve for banquets, weddings and the kind of dinners where someone has been planning for a week. The technique is methodical: steam the duck for an hour so the fat renders and the meat starts to slip from the bone, hang or rest it for several hours so the skin dries to a parchment-tightness, then deep-fry briefly until the skin blisters into something glassy and shatteringly crisp. The split steaming-then-frying approach skips the air-pump and wood-burning oven of restaurant Peking duck and still gets you most of the way there. You serve it the traditional way: thin slices of meat with crackling skin, paper-thin pancakes, julienned spring onion and cucumber, and a small dish of hoisin to brush across each pancake. Build your own at the table, fold, eat with your hands.
 
 ## Ingredients
 

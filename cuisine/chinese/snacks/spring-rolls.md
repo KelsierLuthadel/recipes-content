@@ -11,7 +11,7 @@
 **Serves:** 12
 
 ## Overview
-These spring rolls are filled with a stir-fried mixture of Parma ham, mange tout, red pepper, waterchestnuts, and bean sprouts, wrapped in crisp deep-fried skins. The filling is seasoned with two soy sauces, sesame oil, and sherry, giving a well-rounded savoury flavour with excellent texture.
+These spring rolls are the polite-takeaway version: neat, savoury, and a textural workout in three bites. The filling is stir-fried in a fast hot wok: Parma ham, mange tout, red pepper, water chestnuts and bean sprouts together for two minutes, seasoned with two soy sauces (light for flavour, dark for colour), sesame oil and a glug of sherry. The mixture cools fully before going into the wrappers; hot filling steams the inside of the roll and sabotages the crunch. Each spring roll wrapper rolls tight around a tablespoon of cooled filling, sealed with egg wash, deep-fried at 180°C for three minutes until uniformly gold. Eat hot from the kitchen paper with sweet chilli sauce or sharp Chinkiang vinegar for dipping; equally good the next day from a lunchbox.
 
 ## Ingredients
 - 1 packet spring roll skins

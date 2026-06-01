@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-A wok or wide pan is heated very hot; oil goes in; garlic and ginger flash; the firmest greens (broccoli stems) go first; bok choy and snap peas follow; soy and mirin glaze; sesame oil at the end. The whole thing takes 4-5 minutes from heat to plate. Speed and heat matter.
+Wok-fried greens is the catch-all Cantonese side that mixes whatever leafy or crunchy green you have in the fridge into a fast hot toss. Broccoli stems and harder pieces go in first because they take the longest; bok choy, snap peas, mange tout, choy sum follow as the wok cools slightly. The cooking is fast: garlic and ginger flash in smoking oil, the firmest pieces go in for a minute, the softer leaves follow, soy and mirin glaze for a few seconds, sesame oil drizzles at the end. The whole exercise takes about four minutes from heat to plate; the secret is keeping the wok properly hot throughout so everything stays bright instead of stewing. Serve straight from the wok, beside anything rich.
 
 ## Ingredients
 

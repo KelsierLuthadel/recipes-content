@@ -8,7 +8,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-This typically Cantonese dish is one of the quickest and tastiest ways to cook beef. The ginger adds a subtle and fragrant spiciness that enhances without overwhelming the tender beef. Freezing the beef before slicing is essential for uniform, thin strips that cook instantly.
+This is a four-minute Cantonese stir-fry built on two ingredients that lift each other: thin slices of beef that have been seared hard in a smoking wok, and fresh young ginger cut into matchsticks so the threads cook fast without going woody. The beef is velveted briefly in cornflour, soy and Shaoxing so it stays silky under high heat; the ginger goes in just after the meat lifts to a warm dish, fries in the fond for thirty seconds until it curls and pales, then the beef comes back to glaze in a fast soy-oyster-sugar sauce. The wok needs to be properly hot and you need to keep the beef moving; anything less and you end up with grey stewed meat and watery sauce. A scatter of spring onion green at the end. Serve over rice.
 
 ## Ingredients
 

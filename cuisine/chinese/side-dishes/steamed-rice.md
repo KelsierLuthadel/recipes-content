@@ -11,7 +11,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-Chinese steamed rice exemplifies the power of patience and precise technique. The key principle is using high heat initially to evaporate surface water visibly (watching for characteristic "crater" pattern), then radically reducing heat to allow gentle steaming. The lid must never be opened during steaming; this breaks the seal and ruins the delicate cooking process. The result is fluffy rice with grains that remain separate, never mushy or sticky. Long-grain rice (jasmine or basmati) works best; short-grain varieties retain excess moisture and become sticky regardless of technique.
+Steamed rice is the test of patience and the foundation under almost every dish in this folder; get the rice wrong and the whole meal collapses. The method is precise but forgiving once you've done it twice. Rinse the rice three or four times until the water runs clear (this is what stops it going gluey), add water by volume (one and a half parts water to one part rice for long-grain), bring to a hard boil with the lid off until you can see the characteristic "crater" pattern where the water has just steamed off the surface. From there, the heat drops to its lowest setting, the lid goes on, and you don't open it for fifteen minutes, not once. Off the heat for another ten minutes, lid still on, so the grains finish steaming in their own residual heat. Fluff with a fork. Long-grain (jasmine or basmati) is the right choice; short-grain holds too much moisture and goes sticky no matter what.
 
 ## Ingredients
 

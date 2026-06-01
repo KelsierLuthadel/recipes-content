@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Sliced beef velvets briefly in cornflour and soy, broccoli florets blanch to bright green, and the lot stir-fries hard with garlic and ginger in a soy-oyster-rice-wine sauce. Served over steamed rice.
+This is the dish that defines Cantonese-American takeaway: thin slices of beef velveted in cornflour and soy so they stay tender, broccoli flash-blanched to keep its bright green crunch, then everything stir-fried hard in a soy-oyster-rice-wine sauce that clings glossy to every piece. The work is mostly in the prep: slice the beef across the grain while it's half-frozen for clean strips, get the broccoli into salted boiling water for thirty seconds then straight into cold, and have garlic and ginger ready beside the wok before the oil goes in. From heat-on to plate is about four minutes; the goal is bright green broccoli with the beef pink at the edges, never grey through. Serve heaped over steamed rice with a small jug of the wok sauce on the side for spooning.
 
 ## Ingredients
 

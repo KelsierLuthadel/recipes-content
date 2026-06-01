@@ -9,7 +9,7 @@
 **Cook Time:** 3 minutes
 
 ## Overview
-When cooking Chinese food, it's essential to think about the flavours and textures of ingredients working in harmony. Juicy chicken combined with succulent baby corn, tender vegetables, and salty, crunchy cashew nuts create a balanced dish where each element complements the others. A glossy sauce ties everything together without overwhelming delicate flavours.
+This is the gentle Cantonese-style stir-fry you cook for someone new to Chinese food: no chilli, no fermented bite, just textural balance. Tender chicken thigh, sweet snappy baby corn, crisp peppers, and the toasted crunch of peanuts (or cashews) coated in a glossy soy-oyster sauce that holds everything together without overpowering anything. The key is the cooking order: aromatics first to perfume the oil, harder vegetables next (peppers, corn, carrots), then the chicken, then the peanuts at the very end so they don't lose their crunch. The whole thing takes seven minutes once your prep is lined up beside the wok. Serve over jasmine rice with a small bowl of chilli oil on the side for anyone who wants to ratchet up the heat.
 
 ## Ingredients
 

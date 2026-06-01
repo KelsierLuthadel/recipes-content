@@ -11,7 +11,7 @@
 **Serves:** 4
 
 ## Overview
-Rice cake is a traditional Chinese preparation that transforms the crispy crust that forms at the bottom of a pot of slow-cooked rice into a versatile, crunchy ingredient. Once dried and deep fried, it develops a light, airy texture that sizzles dramatically when dropped into hot soup or stock. It is most famously used in Sizzling Rice Prawns and is a testament to the resourcefulness of Chinese cooking.
+Rice cake is the Chinese cook's way of making something out of the crispy golden crust that forms at the bottom of a clay pot of slow-cooked rice. You scrape that crust out in sheets, dry it on a rack until brittle, then deep-fry it briefly when needed; the dried rice cake puffs up into something light and crackling with a faint nutty toast in the background. It sizzles dramatically when hot soup or sauce hits it (this is the whole point of sizzling rice prawn) and works equally well crumbled into salads, soups or stir-fries for textural drama. Once dried, the rice cake keeps for weeks in an airtight tin and fries up the moment you need it. It's the kind of ingredient most Western cooks have never met but most Chinese kitchens never run out of.
 
 ## Ingredients
 - 225 grams long grain white rice

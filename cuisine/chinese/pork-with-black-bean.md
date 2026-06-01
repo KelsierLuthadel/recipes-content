@@ -9,7 +9,7 @@
 **Cook Time:** 4 minutes
 
 ## Overview
-Pork goes particularly well with black beans; their salt and spicy flavour is distinctly Chinese. This quick-cooking dish balances tender pork with the bold, pungent character of fermented black beans. The result is authentic, flavour-forward, and ready in minutes. Perfect for weeknight meals or elegant entertaining.
+This is the dish that proves fermented black beans (douchi) are one of the great umami ingredients in any kitchen: salty, faintly funky, almost like coffee in their depth. Pork shoulder or belly is sliced thin, velveted in cornflour and Shaoxing, then seared hard in a smoking wok so the edges colour and the meat stays juicy at the centre. The black beans go in next with garlic and ginger, fried just long enough to release that distinctive briny aroma but not long enough to burn. A fast sauce of soy, sugar and a splash of stock binds everything; the pork returns for a final glossy toss. Serve straight from the wok over rice with a pile of stir-fried greens on the side.
 
 ## Ingredients
 

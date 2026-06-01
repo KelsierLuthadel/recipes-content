@@ -11,7 +11,7 @@
 **Serves:** 2 - 4
 
 ## Overview
-Stir-fried mange tout with waterchestnuts is a quick, sweet, and crunchy side dish that comes together in under 10 minutes. The combination of tender mange tout and crisp waterchestnuts, seasoned with soy sauce, sesame oil, and a touch of sugar, makes it a versatile companion to Chinese-style mains.
+Mange tout and waterchestnuts are the cleanest, crunchiest pairing in the Chinese vegetable repertoire; this is the side dish that proves a stir-fry doesn't need much to land well. Mange tout get topped and tailed (the strings matter, take them off); tinned waterchestnuts drain and halve. Garlic flashes briefly in hot oil to perfume it, the mange tout go in for a minute, the waterchestnuts join for another minute, and a fast splash of soy, sesame oil and a pinch of sugar glazes the whole thing. The aim is to keep both ingredients crunchy enough to register as a textural element on the plate; overcook either and the dish goes flat. Eight minutes from chopping board to bowl. Serve hot, beside something saucy.
 
 ## Ingredients
 - 225 grams waterchestnuts (drained)

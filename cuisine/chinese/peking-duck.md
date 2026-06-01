@@ -9,7 +9,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-The Chinese revere duck as a symbol of wholesomeness and fidelity. With Peking duck, Chinese cooks mastered the art of maximising the duck's rich, succulent flesh while minimising bone and fat. This simplified method produces similar results to traditional restaurant preparations. While the authentic version involves air-pumping and wood-burning ovens, this approach creates shatteringly crisp skin through a honey-syrup glaze and extended drying.
+Peking duck is the duck of duck dishes, the centrepiece of imperial banquets in Beijing for six hundred years and the gold standard against which every other roast-duck cook is measured. The restaurant version involves air-pumping the bird, drying it for days, and roasting in a wood-burning fruit-tree oven; the home version cuts that to a honey-syrup glaze, a long fan-dry overnight in the fridge, and a careful roast that gives you most of the way there. The aim is two distinct elements: shatteringly crisp skin you can hear from across the kitchen, and meat that's still moist underneath. You serve it the proper way: paper-thin pancakes, julienned spring onion and cucumber, a dish of hoisin to brush across each pancake, the carved skin and meat in the middle of the table. Build your own at the table, fold, eat with your hands; never with cutlery.
 
 ## Ingredients
 

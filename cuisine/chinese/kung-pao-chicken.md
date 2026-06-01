@@ -9,7 +9,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-This iconic hot and spicy chicken from western China showcases contrasting flavours, heat from chillies and Sichuan peppercorns balanced with subtle sweetness. The numbing quality of Sichuan peppercorns and the fragrance of slow-braising creates an aromatic dish that is equally delicious served immediately or reheated the next day.
+Gongbao jiding is one of those Sichuan dishes that lives or dies by its timing: the kind of stir-fry where you have maybe ninety seconds from the chillies hitting the oil to the chicken landing on the plate. The flavour profile is the celebrated "lychee" balance, sweetness from sugar, sourness from black vinegar, salt from soy, and the dual mala signature of dried er jing tiao chillies plus toasted Sichuan peppercorn. Dice the chicken thigh into uniform pieces, velvet briefly in cornflour and Shaoxing, then sear in a smoking wok along with the chillies and peppercorns. The chicken cooks fast and stays tender, the peanuts go in at the end so they keep their crunch, and the sauce reduces to a glossy slick that coats every piece. Eat over rice while everything's still steaming.
 
 ## Ingredients
 

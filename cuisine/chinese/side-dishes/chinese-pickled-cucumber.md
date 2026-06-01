@@ -11,7 +11,7 @@
 **Total Time:** 1 hour (minimum brine; ideally overnight)
 
 ## Overview
-Cucumbers are cut into spears (or smashed-and-torn for a rougher texture), salted heavily in a colander 30 minutes to weep, then patted dry. A brine of rice vinegar, sugar, light soy, water, sliced ginger, Sichuan peppercorns and dried red chillies brings to a gentle simmer just to dissolve the sugar; cools to room temperature. The drained cucumber goes into a jar; the cooled brine pours over to submerge; refrigerated for 1 hour minimum (overnight ideal). Eats cold straight from the jar.
+This is the Chinese answer to the deli pickle, a quick-pickled cucumber spear that's ready overnight and lives in a jar in the fridge for weeks. Cucumbers cut into spears (or smashed-and-torn for a rougher texture that holds dressing better) salt-rest in a colander for half an hour to draw out the water that would otherwise dilute the brine. The brine itself is light and aromatic: rice vinegar and sugar in equal measure, light soy for the salt and colour, sliced ginger, Sichuan peppercorns and a couple of dried chillies, gently simmered just to dissolve the sugar and then cooled. You drain the cucumbers, jar them, pour the cooled brine over to submerge, lid on, into the fridge. An hour gets you a snack; overnight is the real thing. Eat cold straight from the jar with anything rich: char siu, fried rice, a roast duck.
 
 ## Ingredients
 

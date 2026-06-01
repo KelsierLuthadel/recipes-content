@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The shortcrust uses lard (or vegetable shortening + butter) for the right crumbly texture; sugar gives the slight sweetness; egg yolk binds. Rolled to 3 mm thick, cut into discs slightly larger than the muffin-tin wells, gently pressed in, chilled. The custard: eggs whisk with hot sugar syrup (sugar dissolved in just-boiled water, cooled) and a small amount of evaporated milk for richness, plus vanilla. Strained twice for a glassy finish, ladled into the chilled shells, baked at 220°C for the first 8 minutes (to set the pastry edges) then 180°C for 12-15 more (until the custard is just-set with no visible jiggle in the centre).
+Hong Kong egg tarts are the snack you order with milk tea at a corner cha chaan teng, a Cantonese sister to the Portuguese pastel de nata but distinct in their own right: the pastry is shortcrust rather than puff, and the custard is silkier, lighter, almost trembling under the surface. The pastry uses lard (or vegetable shortening and butter together) for the right crumbly texture, sugar for slight sweetness, egg yolk for binding. Rolled to 3 mm thick, cut into discs slightly larger than the muffin-tin wells, pressed in gently and chilled. The custard whisks eggs with cooled hot sugar syrup, a splash of evaporated milk for richness, and vanilla; strained twice for a glassy finish. Baked at 220°C for the first eight minutes (to set the pastry edges) then 180°C for another twelve, until the custard is just set with no visible jiggle in the centre. Eat warm, while the custard still wobbles.
 
 ## Ingredients
 

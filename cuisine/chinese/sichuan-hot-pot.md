@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour (broth) + diner time
 
 ## Overview
-Two pots if you have them: a spicy red broth and a clear chicken broth. The red broth fries doubanjiang and chilli bean paste in beef tallow, adds Sichuan peppercorns, dried chillies, star anise, cassia, bay, ginger and garlic, then stock; simmers for 30 minutes. Diners cook their own ingredients in the simmering pot and dip in a small bowl of sesame oil + chopped garlic + coriander. The mala (numbing-hot) sensation comes from green Sichuan peppercorns + dried chilli together.
+Sichuan hot pot is less a dish than a method of eating: a pot of fiercely spiced red broth (and ideally a second clear pot for tamer eaters) bubbling on a burner in the middle of the table, with raw thinly-sliced meats, vegetables, tofu and noodles laid out around it. The red broth is the centrepiece: doubanjiang and chilli bean paste fried in beef tallow until the fat is red, then loaded with Sichuan peppercorns, dried chillies, star anise, cassia, bay and aromatics before stock joins to simmer for half an hour. Each diner takes their own bowl of sesame oil with crushed garlic and coriander; raw ingredients dip into the hot pot until cooked, then into the sesame dip, then into the mouth. The mala (numbing-hot) sensation builds over the meal as the broth concentrates; the dipping sauce cools the burn. Eat slowly, drink cold beer, leave the table tingling for hours afterwards.
 
 ## Ingredients
 

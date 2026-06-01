@@ -9,7 +9,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-This is a classic western Chinese dish better known in China as Gongbao chicken (or Kung Pao chicken). Named after Chinese official Ding Baozhen, Governor of Sichuan province in the nineteenth century, it represents the region's bold approach to flavour: spicy, slightly sour, sweet, and savoury all at once. The combination of roasted peanuts and dried chilli creates an unforgettable sauce.
+This is the classic Sichuan gongbao jiding, named for Ding Baozhen, the 19th-century Sichuan governor whose imperial title (Gong Bao) gave the dish its name. The balance is the famous Sichuan "lychee" flavour: sweet, sour, salty and spicy all at once, with toasted peanuts and dried chillies driving the textural and aromatic centre of the dish. Diced chicken thigh velvets briefly in cornflour and Shaoxing, then sears in a smoking wok with dried er jing tiao chillies and Sichuan peppercorns; soy, black vinegar, sugar and stock glaze in seconds, peanuts go in at the end so they keep their crunch. The whole thing takes about three minutes once everything is prepped; the chillies should be deep red and fragrant, never blackened. Eat over plain rice and don't worry about leftovers.
 
 ## Ingredients
 

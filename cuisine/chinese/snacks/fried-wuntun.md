@@ -9,7 +9,7 @@
 **Serves:** 6
 
 ## Overview
-Fried wuntun are crispy deep-fried parcels filled with a seasoned pork and Parma ham mixture, flavoured with ginger, soy sauce, and sesame oil. The golden, crunchy wrappers give way to a juicy, aromatic filling that makes them an irresistible party snack or starter. They are best served immediately after frying with a selection of dipping sauces.
+Fried wonton are the deep-fried siblings of the boiled or steamed dim-sum classic: golden, crisp, and almost impossible to stop eating once a plate lands on the table. The filling marries minced pork with chopped Parma ham (an unexpected but excellent substitute for the Chinese cured meats traditionally used), seasoned with ginger, soy, sesame oil and a touch of Shaoxing. A teaspoon of filling sits in the centre of each wonton wrapper, the edges get a brush of egg, and the whole thing folds into a small triangle or pleated pocket. Deep-fried at 175°C for a couple of minutes until the wrappers go golden and audibly crisp. Serve immediately with a trio of dipping sauces: sweet chilli, sharp Chinkiang vinegar, soy with sesame, so each bite can be punctuated differently. Best eaten standing in the kitchen, the moment they leave the oil.
 
 ## Ingredients
 -  1 packet wuntun skins (about 30)

@@ -11,7 +11,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-Stir-fried spinach with garlic is a classic southern Chinese side dish that showcases how quickly and simply spinach can be cooked to perfection. The leaves are wilted in a hot wok with oil, salt, sugar, and garlic, resulting in a tender, flavoursome dish that is ready in under 10 minutes.
+Stir-fried spinach with garlic is the southern Chinese way of cooking a leafy green: hard and fast, in a hot wok, with just enough garlic and salt to lift it. Spinach is washed in two changes of water (sand hides in the leaves) and shaken dry; slivered garlic and a pinch of salt sit ready beside the stove. A glug of oil into a smoking wok, the garlic goes in for fifteen seconds, the spinach follows in a big handful, and you toss continuously for two minutes until the leaves have wilted but still hold colour. A pinch of sugar balances any bitterness; the wok juices are the dressing. Serve immediately in a small dish, the leaves heaped high. Don't leave it sitting; the spinach goes flat fast.
 
 ## Ingredients
 - 700 grams fresh spinach

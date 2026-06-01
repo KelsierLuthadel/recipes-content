@@ -9,7 +9,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Sichuan cooking is becoming increasingly popular in Western restaurants, and this is one of the best-known dishes from that region. Quick and easy to execute, it makes a wholesome and delicious meal when served with stir-fried vegetables and steamed rice. The vibrant sauce perfectly complements the firm texture of prawns.
+This is one of the most exportable Sichuan dishes: fast, vibrant, and built on a sauce sharp enough to cut through any Western palate's defences. The prawns velvet briefly in cornflour and Shaoxing, then sear in a smoking wok until they curl into bright pink commas around the chillies. The signature mala builds in seconds: doubanjiang and chilli oil for the heat, garlic and ginger for aromatics, Sichuan peppercorn for the tingle that runs along the lips after each bite. A splash of black vinegar and sugar pulls the sauce into the lychee-balance that defines Sichuan stir-fries: hot, sweet, sour, salty all at once. Serve over rice with stir-fried greens or a plate of cold cucumber to cool the burn.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Filling: black sesame seeds toasted in a dry pan, ground to a paste with sugar and softened lard (or butter); chilled until firm enough to roll into 16 small balls; frozen on a tray. Dough: glutinous rice flour mixed with just-boiled water (the hot water gelatinises some of the starch, giving the dough its characteristic chew) into a smooth pliable ball; rested briefly. Each piece of dough flattens between palms, takes a frozen filling ball, wraps around, rolls smooth, a hidden ball-in-ball. Boiled in water until they float and the outer dough is translucent (about 4 minutes from when the water comes back to boiling). Served in small bowls in a hot ginger-osmanthus syrup.
+Tang yuan are the small glutinous-rice dumplings the Chinese eat at the Lantern Festival (the fifteenth and last day of the New Year), their round shape symbolising family reunion and the sweet ginger broth a wish for warmth in the year ahead. The filling is black sesame paste: black sesame seeds toasted in a dry pan until they sing, ground with sugar and softened lard (or butter), chilled until firm enough to roll into sixteen small balls, then frozen on a tray. The dough mixes glutinous rice flour with just-boiled water (the hot water gelatinises some of the starch and gives the dough its characteristic chew); rests briefly, then flattens between palms. Each piece wraps around a frozen filling ball, rolls smooth into a hidden ball-in-ball. Boiled in water until they float and the outer dough turns translucent, about four minutes. Serve in small bowls in a hot ginger-osmanthus syrup, eat hot, watch out for the molten sesame centre.
 
 ## Ingredients
 

@@ -8,7 +8,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-This straightforward Sichuan preparation showcases the region's bold use of chillies and spices. The technique is simple: season, rest, and cook in layers, building flavour as you go. Oyster sauce adds depth, while seven spices (chilli power, Sichuan pepper, salt, garlic, ginger, pepper) create a full-bodied dish.
+This is the no-frills Sichuan stir-fry that home cooks across Chengdu rotate through every week, a dish built on layering rather than complicated technique. The chicken is seasoned, rested briefly, and cooked in stages: aromatics first, then chicken, then the spice mix of chilli powder, ground Sichuan pepper, salt, garlic and ginger, then the oyster sauce that pulls everything together. Each layer goes in only when the one before is fragrant; rush the order and the spices burn or the aromatics steam. The finished dish has the deep red-orange of well-bloomed chilli, the chicken pieces glossy under the sauce, the smell warm with Sichuan pepper's faintly menthol perfume. Serve over rice with a bowl of greens on the side.
 
 ## Ingredients
 

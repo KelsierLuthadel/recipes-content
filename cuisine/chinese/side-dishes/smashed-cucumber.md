@@ -11,7 +11,7 @@
 **Total Time:** 1 hour (with the 30-min salt + 30-min dress rest)
 
 ## Overview
-Cucumbers are placed on a cutting board, the flat of a cleaver (or a heavy rolling pin, or a small frying pan) struck firmly on the surface until the cucumber cracks lengthwise. Hands tear the cracked cucumber into rough 3-4 cm chunks. The pieces salt-rest in a colander 20-30 minutes to release water (this makes the dressing cling instead of dilute). A dressing of light soy, black vinegar (Chinkiang), sugar, sesame oil, crushed garlic and a spoon of chilli oil whisks together. The drained cucumber tosses in the dressing; rests for 30 minutes; eats cold.
+Smashed cucumber (pai huang gua) is the snack the Sichuanese eat with cold beer all summer long, a dish whose entire technique is summarised by its name. You put cucumbers on a chopping board, hit them firmly with the flat of a cleaver (or a rolling pin, or a small frying pan) until the flesh cracks lengthwise, then tear the cracked pieces into rough 3-4 cm chunks with your hands. The torn surfaces hold dressing in a way that clean knife cuts never do; this is the point. The pieces salt-rest in a colander for half an hour to weep some of their water, then toss in a dressing of light soy, black vinegar (Chinkiang), sugar, sesame oil, crushed garlic and a generous spoon of chilli oil. Rest for another half hour so the cucumber drinks the dressing; eat cold from the bowl. Best at the start of summer when the cucumbers are crisp.
 
 ## Ingredients
 

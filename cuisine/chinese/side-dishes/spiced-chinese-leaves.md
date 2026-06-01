@@ -14,7 +14,7 @@
 *
 
 ## Overview
-Spiced Chinese leaves is a quick stir-fried side dish that transforms the mild, delicate flavour of Chinese leaves with a robust sauce of ginger, garlic, chilli, soy sauce, and sesame oil. The high-heat cooking method brings out a savoury depth that makes it a perfect accompaniment to Asian-style mains.
+Chinese leaves (napa cabbage) are a polite pale-green vegetable until they hit a hot wok with ginger, garlic and chilli, at which point they turn into a side dish that holds its own against anything rich on the table. Cut the leaves into rough 4 cm pieces, keeping leaf and stem separate so the firmer stems can go in first to cook for a minute before the softer leaves catch up. The aromatics flash in hot oil for ten seconds, the stems go in to start, the leaves follow, and the whole thing finishes with a fast sauce of soy, sesame oil and a pinch of sugar. The high-heat method gives you slight char on the edges and softness through the middle, with the spice coming through clean rather than dominant. Serve hot, beside braised pork, char siu, or anything stewy.
 
 ## Ingredients
 - 700 grams Chinese leaves (or white cabbage)

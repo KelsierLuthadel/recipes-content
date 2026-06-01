@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The dough uses a low-protein cake flour (or plain flour with cornflour added) for the snow-white pillowy crumb. Yeast, sugar, baking powder, milk and lard (or vegetable shortening) blend with the flour into a soft sweet dough. Rises for 1 hour. Filling: store-bought or homemade char siu pork is diced fine; shallots fry in oil; the diced pork tosses in with oyster sauce, hoisin, dark soy, sugar, chicken stock and a cornstarch slurry. Thickens to a sticky glaze. Cooled fully. The dough divides into 12 balls, each rolls into a thick disc with a thin edge, filling sits in the centre, pleats wrap up and pinch at the top. Final proof for 25 min. Steamed for 12 min over high heat, the tops should crack open.
+Char siu bao is the Cantonese dim-sum stalwart: soft pillowy white buns split open by their own oven-spring to reveal a sticky red-glazed pork filling at the centre. The dough is the trick: low-protein cake flour with cornflour, yeast, sugar, baking powder, milk and lard, mixed to a soft sweet dough and risen for an hour. The filling is diced cooked char siu pork bound with oyster sauce, hoisin, dark soy and a sugar-stock-cornflour glaze that cools to a sticky paste. Each bun gets pleated up and over the filling into a peaked top; the pleats are the signature, and they crack open in the steamer to reveal the red filling beneath. Steamed over high heat for twelve minutes, the tops should split with a smile; eat hot, in two bites, while the bun is still pillow-soft.
 
 ## Ingredients
 

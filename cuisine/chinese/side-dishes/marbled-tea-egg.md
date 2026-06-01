@@ -11,7 +11,7 @@
 **Serves:** 4 - 6
 
 ## Overview
-Marbled tea eggs are a classic Chinese preparation in which hard-boiled eggs are cracked and simmered in a spiced black tea broth, creating a striking web-like pattern on the surface once peeled. The soy sauce, cinnamon, and star anise infuse the eggs with a deep, aromatic flavour that complements their visual appeal. They are traditionally served cold and make an elegant garnish or snack alongside other cold dishes.
+Marbled tea eggs are the snack you find at every Chinese train station, vending machines beside the platforms holding bowls of them in fragrant amber liquor for a few yuan apiece. The trick is the cracking: you hard-boil the eggs, then tap each shell all over with the back of a spoon to make a web of fine cracks, and simmer them in a spiced tea broth with soy, star anise, cinnamon, fennel and a length of orange peel. The broth seeps through the cracks into the white, leaving a striking marble pattern when you peel them the next day. They keep for a week in the broth in the fridge, and the flavour deepens every day. Eat them cold, either as a snack with a beer, or sliced and arranged with cold meats and cucumber on a cold-platter starter.
 
 ## Ingredients
 -  6 eggs (at room temperature)

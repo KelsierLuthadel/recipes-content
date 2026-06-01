@@ -9,7 +9,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-This recipe from the Sichuan region of western China showcases the region's trademark use of chillies combined with the modern addition of cashew nuts. The sauce is complex and layered, savoury from fermented beans and hoisin, spicy from dried chillies, and balanced with vinegar's acidity and sugar's sweetness. The result is distinctly Chinese in technique yet contemporary in execution.
+This is the modern Sichuan home cook's take on gongbao jiding, swapping the classic peanut for the rounder, sweeter crunch of toasted cashew without losing what makes the dish work. The sauce is built on the signature Sichuan "lychee" balance: a touch of sugar for sweetness, black vinegar for sharp sourness, soy for salt, and the warming tingle of toasted Sichuan peppercorn with the smoky bite of dried er jing tiao chillies. Dice the chicken thigh into uniform 2 cm cubes so it cooks fast and evenly, sear it hard in a smoking wok, then build the sauce around it in seconds with the chillies and aromatics. The cashews go in last so they stay crunchy, never soft. Serve over plain rice and don't worry about leftovers, there won't be any.
 
 ## Ingredients
 

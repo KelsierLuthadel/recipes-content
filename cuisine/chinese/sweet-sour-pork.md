@@ -9,7 +9,7 @@
 **Cook Time:** 4 minutes
 
 ## Overview
-Often mis-made in the West as doughy balls drowned in cloying sauce, properly prepared sweet and sour pork is a delicate balance of flavours, neither strictly sweet nor sour, but harmoniously combined. The key is quality ingredients, proper deep-frying technique, and a refined sauce that complements rather than masks the tender pork. Tinned lychees add authentic sweetness and texture.
+Properly done sweet and sour pork is one of the more misunderstood Chinese dishes in the West, where it's too often arrived at as gummy battered cubes drowned in a fluorescent-pink syrup. The genuine version is something quite different: shoulder pork dredged in a light cornflour-egg batter, deep-fried twice for a craggy crust, then tossed in a sauce that's balanced not cloying, with rice vinegar carrying as much weight as sugar. Tinned lychees (yes, tinned, this is one of the rare dishes that wants the syrup as much as the fruit) bring the proper old-Cantonese sweetness; chunks of pineapple and bell pepper give textural contrast; the sauce gets glossy with a touch of cornflour slurry. The pork should stay crisp under the sauce, the sauce should pull back from sweet rather than chase it, and the whole plate should land savoury-first. Serve fast, over rice.
 
 ## Ingredients
 

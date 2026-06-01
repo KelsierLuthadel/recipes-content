@@ -9,7 +9,7 @@
 **Cook Time:** 7 minutes
 
 ## Overview
-This is a version of the fragrant Sichuan dish popularly known as 'Strange taste chicken' or bang-bang chicken because it incorporates many flavours simultaneously, hot, spicy, sour, sweet, and salty all in perfect balance. The sesame seeds add a crunchy texture that contrasts beautifully with tender chicken meat. Equally delicious served hot or at room temperature, making it ideal for entertaining.
+This is the dish Sichuanese cooks call guai wei ji, "strange-flavour chicken", because it carries every primary taste at once: hot, spicy, sour, sweet and salty, all held in balance by a generous coat of toasted sesame seeds. The sauce is a cold dressing built on sesame paste, black vinegar, soy, sugar, chilli oil and Sichuan peppercorn powder; whisked until silky and poured over poached chicken just before serving. The poaching is gentle and slow so the chicken stays moist; you shred it with your hands rather than slicing for a rougher texture that holds the dressing better. Toasted sesame seeds scatter generously over the top for the crunch and the nutty perfume. Equally good warm from the bowl or chilled from the fridge as a cold starter.
 
 ## Ingredients
 

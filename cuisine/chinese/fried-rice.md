@@ -9,7 +9,7 @@
 **Yield:** Approximately 600 milliliters cooked fried rice (4 servings)
 
 ## Overview
-Fried rice is fundamentally about texture contrast: individual grains coated entirely with hot oil, remaining crispy and separate, never clumped or greasy. Success requires three critical elements: Cold rice (overnight-refrigerated best), sufficiently hot oil (nearly smoking), and a light hand with seasonings. The beaten egg is never pre-cooked; instead, it's added raw to the hot rice and oil where residual heat cooks it silkily, coating the grains. Bean sprouts provide fresh textural contrast. This is not comfort food; it's refined technique applied to simple ingredients.
+Fried rice is the test of a wok cook: simple to list, hard to do well, and almost impossible to fix once it goes wrong. Three things matter, and only these three: rice that's been refrigerated overnight (warm fresh rice will go gluey in seconds), oil hot enough that it's threatening to smoke when the rice hits it, and seasoning held back so the grains taste like grains, not like soy sauce. You break the cold rice up with your hands before it ever sees the wok, ridge by ridge, until no two grains are stuck together. The wok gets oil, the egg goes in raw and is half-set, then the rice goes on top so each grain gets coated in a thin film of hot oil and silky scrambled egg. A whisper of soy, a scattering of spring onion and bean sprouts, four minutes total. The right fried rice is dry, separate, and slightly toasted at the edges.
 
 ## Ingredients
 

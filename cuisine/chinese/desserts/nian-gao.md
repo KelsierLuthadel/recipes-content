@@ -11,7 +11,7 @@
 **Cook Time:** 75 minutes (mostly steaming)
 
 ## Overview
-Glutinous rice flour and a small amount of rice flour for bite, dissolved in brown-sugar syrup made with water (just-boiled), with a glug of oil for sheen and the faintest pinch of salt. Poured into a greased cake pan, steamed for an hour, cooled overnight. The cake firms up dramatically as it cools, going from pourable batter to a sliceable, translucent amber slab. Best eaten on Day 2, sliced and pan-fried in beaten egg.
+Nian gao is the sticky rice cake that turns up on every Chinese family's table at New Year, its name punning on "higher year" so eating it is meant to bring rising fortunes for the year ahead. The batter is glutinous rice flour with a small amount of regular rice flour for bite, dissolved in a syrup of brown sugar and just-boiled water, with a glug of oil for sheen and the barest pinch of salt to balance. Poured into a greased cake tin and steamed for an hour, the batter sets into something dense, translucent and the colour of amber. Cooled overnight, the cake firms up dramatically and slices clean the next day. Best eaten on day two: sliced thin, dipped in beaten egg, and pan-fried gently until the egg coat sets to a golden crust and the rice inside softens back to chewy.
 
 ## Ingredients
 

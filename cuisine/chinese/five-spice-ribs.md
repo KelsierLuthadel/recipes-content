@@ -9,7 +9,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-This delightful meat dish engages the senses with many contrasting tastes. The spareribs are first marinated, then deep-fried until crisp, and finally slowly braised in an unusual, piquant sauce. Five spice powder provides the warm, complex backbone, while vinegar and orange peel add brightness and complexity. The result is both elegant and deeply satisfying.
+This is the dish that uses five-spice powder the way it's meant to be used: as a backbone, not a sprinkle. Spareribs are marinated in soy, Shaoxing and five-spice for several hours so the warm complexity of cassia, fennel, clove and Sichuan peppercorn works into the meat. Then they're deep-fried until the surface crisps and the bones brown, and finally braised in a piquant sauce sharpened with rice vinegar and the bright bitterness of dried orange peel. The vinegar-and-peel pairing is what stops the dish from going syrupy-sweet; both pull against the sugar and five-spice and keep the finish savoury. Serve in a deep dish with the braising sauce poured over and steamed rice on the side to mop it up.
 
 ## Ingredients
 

@@ -9,7 +9,7 @@
 **Cook Time:** 6 minutes
 
 ## Overview
-A classic Chinese dish bursting with the fragrance of black bean and garlic. Chicken wings are ideal for this preparation as they cook quickly in a high-heat wok while remaining succulent and flavourful. The fermented black beans add depth and a distinctive umami character that defines authentic Chinese cooking.
+Fermented black beans are the funk you can't fake; this is the dish where they earn their place at the front of the wok. Bone-in chicken wings are the right cut here because they cook fast under high heat while the skin renders and crisps along the cut edges. You bash the dried black beans with garlic until they're coarsely smashed (don't blitz them to a paste, you want texture), then fry them in oil with ginger until they release that distinctive briny, almost coffee-bitter aroma that says you're cooking real Cantonese. The wings go in, get tossed in the bean mixture, then deglaze with Shaoxing and a splash of stock so a sticky savoury slick coats every piece. Serve with steamed rice and a pile of stir-fried greens.
 
 ## Ingredients
 

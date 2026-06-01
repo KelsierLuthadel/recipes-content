@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-Crispy cabbage is a simple but satisfying deep-fried side dish that transforms savoy cabbage into light, golden, salted morsels with a satisfying crunch. Using a mix of outer and inner leaves creates a pleasing range of colour and texture, proving that cabbage can be far from tasteless or soggy.
+Crispy cabbage is the side dish that turns a humble savoy into something you want to keep eating with your fingers. Outer and inner leaves cut into rough ribbons (the variation in colour and thickness gives a pleasing mix of green and pale-gold in the finished bowl) get a quick deep-fry in hot oil until they're golden, light and audibly crisp. Salt goes on while the leaves are still hot so it sticks; a scatter of sesame seeds and a few drops of sesame oil at the end give it that Cantonese banquet-table edge. The whole thing takes ten minutes and disproves the idea that cabbage is dull. Serve hot from the pan, before the crisp has any chance to soften, with anything rich, like a slow-roasted pork shoulder or a bowl of pickled chilli.
 
 ## Ingredients
 - ½ savoy cabbage

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Silken tofu poaches briefly in salted water (firms it up so it doesn't break). Dried shiitake mushrooms rehydrate and chop fine. Doubanjiang fries in oil until the oil reddens; mushrooms, garlic, ginger and chilli flakes follow. Stock loosens; tofu joins gently; cornflour slurry thickens. Sichuan peppercorn dust at the table.
+This is mapo tofu without the pork, where the dried shiitake mushroom steps in and does most of the heavy lifting. You rehydrate the dried shiitake in warm water and reserve the soaking liquid; both go into the dish. The standard sauce build still applies: doubanjiang fries in oil until the fat reddens, garlic, ginger and chilli flakes join, the chopped shiitake fries in next to pick up colour. Soaking liquid loosens the pan into a wet braise, silken tofu cubes slip in gently to warm through without breaking, and a cornflour slurry thickens it into a glossy savoury slick. A final dust of ground Sichuan peppercorn at the table is the move that gives the dish its mala punch. Serve over plain rice, eat fast, the tofu firms as it cools.
 
 ## Ingredients
 

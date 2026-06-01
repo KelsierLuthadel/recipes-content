@@ -11,7 +11,7 @@
 **Cook Time:** 1 minute
 
 ## Overview
-Delicate spring rolls filled with silky cellophane noodles, tender wood ears, savory pork, and sweet crab, then deep-fried until golden and crispy. Served with a vibrant, fiery chilli sauce, these Southeast Asian gems are perfect as an appetizer or main snack. The contrast between crispy exterior and tender filling is irresistible.
+These spring rolls are the dinner-party version of the takeaway classic: slim, crisp, and packed with a filling that punches above its weight. Silky cellophane noodles soaked back to softness, wood ear mushrooms cut into ribbons, minced pork and sweet flakes of crab all stir-fry together for two minutes with soy, sesame oil and Shaoxing; the filling cools fully before rolling. Each wrapper rolls tight around a tablespoon of filling, sealed with egg wash. Deep-fried at 180°C for three minutes until golden and audibly crisp; lift onto kitchen paper and serve fast. The chilli sauce on the side is fiery: red chillies, garlic, sugar, rice vinegar and lime simmered into a sharp, glossy dip. Eat hot, with the sauce in a small bowl per person, before everyone else gets to them.
 
 ## Ingredients
 - 25 grams cellophane noodles (soaked for 10 minutes in hot water to cover)

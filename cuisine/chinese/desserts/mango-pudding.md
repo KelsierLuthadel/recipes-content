@@ -11,7 +11,7 @@
 **Total Time:** 4-6 hours (setting)
 
 ## Overview
-Ripe mango (Alphonso or Nam Dok Mai if available; any sweet ripe mango works) blends to a smooth puree with sugar and lime juice. Powdered gelatin blooms in cold milk 5 minutes. Half the milk warms to dissolve sugar; the bloomed gelatin stirs in to dissolve. The warm milk pours into the mango puree along with the cold remaining milk, evaporated milk and a splash of double cream. Whisked smooth, ladled into 6 small moulds or glasses, refrigerated for 4-6 hours until set. Served with diced fresh mango and a drizzle of evaporated milk.
+Mango pudding is the dessert that closes a Cantonese banquet, set into small moulds or glasses and turned out wobbling on a plate with diced fresh mango and a drizzle of evaporated milk. The mango itself does the heavy lifting: ripe Alphonso or Nam Dok Mai when you can find them, any sweet ripe mango when you can't, blended smooth with sugar and a squeeze of lime juice that lifts the flavour without registering as acid. Powdered gelatin blooms in cold milk for five minutes; half the milk warms gently to dissolve the sugar; the bloomed gelatin stirs in to dissolve. The warm milk pours into the mango puree along with the cold remaining milk, evaporated milk and a splash of double cream, whisked smooth and ladled into moulds. Four to six hours in the fridge to set. Serve cold, the colour the perfect ripe-mango orange.
 
 ## Ingredients
 

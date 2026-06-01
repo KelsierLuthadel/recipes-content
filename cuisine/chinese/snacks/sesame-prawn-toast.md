@@ -11,7 +11,7 @@
 **Serves:** 30
 
 ## Overview
-Prawn toast is a classic dim sum snack of bread spread with a seasoned prawn paste, coated in sesame seeds, and deep fried until golden and crisp. The ginger, soy sauce, and sesame oil in the paste give the filling a distinctly aromatic, umami-rich flavour that contrasts with the crunchy, seed-studded exterior. Popular in Chinese restaurants worldwide, it makes an excellent finger food or starter.
+Sesame prawn toast is the British-Chinese takeaway classic that grew up in 1960s London and somehow never made the journey back to Hong Kong. The mechanism is simple and slightly absurd: white bread spread with a seasoned prawn paste, coated in sesame seeds, and deep-fried until golden. The paste is bright with ginger, soy and sesame oil so it tastes properly aromatic rather than just savoury. The bread should be a day or two old (fresh bread soaks up too much oil and goes greasy), spread thinly with the prawn paste so the seeds and bread surface are even, sesame-side down into hot oil first to set the coating. Two minutes in the oil and it comes out golden, crisp and inelegant in a way that makes everyone reach for another piece. Serve with sweet chilli sauce, a beer, and no apologies.
 
 ## Ingredients
 - 10 thin slices of bread

@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A hot-water dough - flour mixed with water (just-boiled) - for a tender, slightly stretchy wrapper that doesn't dry out. The filling is the classic family recipe: minced pork and finely chopped Chinese chives bound with soy, sesame oil, ginger and shaoxing wine. Each dumpling rolled thin, filled with a generous teaspoon, pleated along one edge, sealed and shaped. Boiled in batches, with the "three-cup" trick of adding cold water between waves to stop the wrappers blistering. Served with a sharp black vinegar and chilli dipping sauce.
+Jiaozi are the dumplings every Chinese family makes together at the New Year, lined up on flour-dusted trays around the kitchen, pleated by hands that have been doing it for fifty years and hands that are doing it for the first time. The wrapper dough uses just-boiled water (a hot-water dough gives a tender, slightly stretchy wrapper that doesn't dry out) and rests covered for half an hour before rolling. The filling is the standard family combination: minced pork with finely chopped Chinese chives bound by soy, sesame oil, ginger and Shaoxing; a generous teaspoon goes in each wrapper, the edge pleats along one side, the whole thing seals into a half-moon shape with a curved top. Boil in batches with the "three-cup" trick: add a splash of cold water between each rolling boil to stop the wrappers blistering. Eat with a dipping sauce of sharp black vinegar and chilli, by the dozen.
 
 ## Ingredients
 

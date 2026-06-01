@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Two-stage flavour build: first a spice infusion (whole spices soaked briefly in water, then simmered slowly in vegetable oil with spring onion and ginger), then a sizzle (the hot strained oil poured over a heat-proof bowl of chilli flakes, smoked paprika, soy and Chinese vinegar). Cooling. Mixing in the textural elements: caster sugar, salt, chicken stock powder, crispy fried shallots and crispy fried garlic. Jarred, rested 24 hours so the flavours marry, stirred vigorously before each use because the oil and solids separate.
+Chilli crisp is the condiment that's eaten the world by storm, the Chinese-pantry essential that elevates anything from fried eggs to vanilla ice cream. The method has two stages: a slow spice infusion (whole spices, spring onion and ginger gently simmered in vegetable oil for half an hour), then a fast sizzle (the strained hot oil poured over a heat-proof bowl of chilli flakes, smoked paprika, soy and Chinese vinegar). The oil cools, then you stir in the textural elements that make chilli crisp what it is: caster sugar for sweetness, salt and stock powder for depth, and crucially, crispy fried shallots and crispy fried garlic so every spoonful has a textural crunch on top of the heat. Jarred and rested for 24 hours so the flavours marry; stir vigorously before each use because the oil and solids separate. Keeps for months.
 
 ## Ingredients
 

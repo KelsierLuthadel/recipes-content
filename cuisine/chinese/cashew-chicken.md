@@ -9,7 +9,7 @@
 **Cook Time:** 3 minutes
 
 ## Overview
-This dish exemplifies the Chinese penchant for contrasting textures. Tender succulent pieces of chicken are paired with sweet, crunchy cashew nuts and a delicate sauce. While the original Chinese version would have used peanuts (as cashews were not traditionally featured in Chinese cookery), this adaptation showcases how the cuisine evolves while maintaining its core philosophy of textural harmony.
+Cashew chicken is the gentler cousin of kung pao, a dish for nights when you want stir-fry rhythm without the chilli burn. The cashews are the star: you toast them dry in the wok first until they're golden and the kitchen smells nutty, then set them aside and let the chicken and aromatics do their work in the same hot pan. Dice the chicken thigh into 2 cm cubes so it cooks fast but stays juicy, velvet it briefly in cornflour and soy, then sear it in oil until the edges colour. A light glossy sauce of soy, oyster, sugar and a splash of stock comes together in the pan; cashews return for the final toss so they keep their crunch instead of going soft. Serve over rice with a scatter of sliced spring onion green.
 
 ## Ingredients
 

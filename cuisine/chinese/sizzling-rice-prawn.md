@@ -9,7 +9,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-This is a dramatic dish sure to earn you compliments. Moderately easy to make but requiring organisation and some Chinese cooking experience. The key to success is that both the prawn sauce mixture and rice cake must be fairly hot, this creates a dramatic, theatrical sizzle when they combine. A showstopping presentation perfect for entertaining.
+This is the dish you cook to make somebody gasp. The sound is the entire point: a hot sauce of prawns and tomato gets poured over a tray of just-fried rice cakes at the table, and the rice hisses and sizzles dramatically as the moisture hits the hot crust. The trick is timing both elements to peak heat simultaneously: the sauce must be at a rolling boil when it leaves the kitchen and the rice cake must come straight out of the deep-fryer onto a hot serving dish. Get either temperature wrong and the sizzle is a polite whisper instead of theatre. The prawn sauce is sweet and slightly sour, built on tomato and rice vinegar, but the dish isn't really about flavour, it's about presentation. Serve quickly, with the sauce ladled over the rice at the table while everyone watches.
 
 ## Ingredients
 

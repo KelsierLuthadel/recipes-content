@@ -9,7 +9,7 @@
 **Cook Time:** 1 minute
 
 ## Overview
-This fast, easy, and delicious supper showcases how Chinese five-spice powder flavours an entire dish via a marinade approach. Overnight marination develops deep, complex flavours that distinguish this simple stir-fry from quickly-thrown-together meals. The combination of Sichuan pepper's numbing quality with five-spice complexity creates an unforgettable sauce.
+This is a dish that does most of its work the day before you cook it. Slices of beef rest overnight in a five-spice marinade with soy, Shaoxing, garlic, ginger and ground Sichuan peppercorn so the warm-complex spice mix works deep into the meat. The next day's cooking is fast: a high-heat stir-fry over a smoking wok with onions and peppers, where the marinade caramelises into a sticky glossy coat in seconds. The Sichuan peppercorn is what carries the dish: the gentle ma (numbing) tingle plays against the five-spice's warmth in a way that ordinary black pepper can't match. Serve over rice with stir-fried greens; the marinade keeps in the fridge for several days, ready for the next round.
 
 ## Ingredients
 

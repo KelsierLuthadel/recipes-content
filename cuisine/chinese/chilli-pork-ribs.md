@@ -9,7 +9,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-This showstopper from western Chinese cooking combines spices and sauces in a signature style. Deep-fried spareribs are braised until tender, then finished in the oven with a glossy, spicy coating. The combination of chilli bean sauce, hoisin, and yellow beans creates a complex, savoury flavour profile characteristic of the region. The spareribs can be finished in the oven, under a grill, or on a barbecue.
+This is the western-Chinese showstopper that turns spareribs into something glossy, sticky and properly spicy. The ribs are double-cooked: first deep-fried until the outside crisps and the bones colour, then braised in a sauce of chilli bean paste (doubanjiang), hoisin and yellow bean until the meat slips off the bone. The deep-fry isn't optional, it's what gives the finished ribs their textured surface so the braise sauce clings instead of pooling. The finish happens in the oven or under the grill with the reduced sauce brushed on every few minutes, building thin caramelised layers until the surface looks lacquered. Serve with steamed rice and a pile of cucumber batons for the heat to bounce off.
 
 ## Ingredients
 

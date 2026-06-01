@@ -14,7 +14,7 @@
 *
 
 ## Overview
-Stir-fried ginger broccoli is a simple, clean side dish that pairs blanched broccoli with fragrant shredded ginger and a finish of sesame oil. It works equally well served hot alongside Asian mains or at room temperature as a salad-style accompaniment in warmer months.
+This is the side dish you cook when you want green on the plate and don't want to think too hard about it. Broccoli cuts into small florets with the stems peeled and sliced (don't waste the stems, they're the sweetest part); a brief blanch in heavily salted water sets the colour bright. Slivered ginger fries in a smoking wok in a thin slick of oil until pale gold, the broccoli goes in next, and a minute of hard tossing in the fragrant oil is all it needs. A splash of soy, a drizzle of sesame oil, salt to taste. The broccoli should still squeak between your teeth at the stem end, never go soft. Serve hot beside anything Asian on the table, or cool to room temperature as part of a cold-summer-side plate.
 
 ## Ingredients
 - 450 grams fresh broccoli

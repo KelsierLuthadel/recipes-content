@@ -11,7 +11,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-A quick and elegant stir-fry that balances savoury oyster sauce with tender beef. This dish exemplifies the Chinese technique of high-heat cooking to seal flavours while keeping meat moist. Quality oyster sauce is essential, it should deepen the dish rather than dominate it.
+Beef in oyster sauce is the dish you cook when you want Cantonese flavour and have ten minutes between leaving work and being hungry. Velvet the sliced flank or rump in cornflour, soy and a splash of Shaoxing for fifteen minutes (the cornflour is what keeps the meat silky), then sear it hard in a smoking wok so the edges char while the centre stays pink. Good oyster sauce is the whole game; the dish has nothing else to hide behind. Build a fast sauce of oyster, soy, sugar, a little stock and a slurry of cornflour, return the beef to the pan, and toss until everything is coated in a dark glossy slick. Serve over rice with sliced spring onion scattered over the top.
 
 ## Ingredients
 

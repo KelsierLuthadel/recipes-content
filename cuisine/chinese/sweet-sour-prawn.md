@@ -9,7 +9,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-This is a very popular Chinese dish where the sweet and pungent flavours of the sauce combine beautifully with firm, succulent prawns. Simple to make and elegant enough for entertaining, it can be served as part of a larger Chinese meal or as a standalone starter. The balance of sweet, sour, spicy, and savoury creates an unforgettable sauce.
+This is a brighter, lighter sibling of sweet and sour pork, where the prawns cook in seconds and the sauce stays clean instead of getting heavy. Large prawns are dredged in cornflour and shallow-fried until the shells colour and the meat just curls, then lifted out so they don't overcook while you build the sauce. Tomato, rice vinegar, sugar, soy and a flake of dried chilli reduce in the same pan into something glossy and the colour of dark coral; a slurry of cornflour at the end gives it body. The prawns return for a final toss in the sauce, no more than thirty seconds, and out they go onto a warm dish. Eat over rice or as a starter with a beer; the chilli builds slowly behind the sweet and sour.
 
 ## Ingredients
 

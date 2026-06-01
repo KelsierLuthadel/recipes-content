@@ -9,7 +9,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-A simple, elegant preparation favoured by street vendors throughout southern China. This quick-braising method takes only minutes and produces tender, fragrant prawns. The beauty of this dish lies in its simplicity, fresh ginger and spring onions infuse the delicate sweetness of prawns. Equally delicious served hot immediately or chilled for an exotic picnic dish.
+This is what street vendors across southern China make in big shallow woks at the front of their stalls, head-on prawns sliding around in a slick of garlicky soy that takes the colour of caramel as it reduces. The beauty is in how little it asks of you: get the ginger and spring onions thick-sliced ahead of time, have the soy-sugar-Shaoxing mixture in a jug ready to pour, and you're four minutes from finished prawns. You sear the prawns in their shells over hard heat so the shells caramelise (that's where most of the flavour lives), pull them out, build the sauce in the same pan, then return the prawns to glaze. Eat them with your fingers, suck the heads, dip the meat in the dregs of the wok. Equally good hot off the heat or cold the next day from the fridge for a picnic plate.
 
 ## Ingredients
 

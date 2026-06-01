@@ -9,7 +9,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-The combination of hot and sour is a signature of western Chinese cuisine. This quick, simple dish is perfect for a light family meal or elegant entertaining. The interplay between chilli heat, vinegar acidity, and savoury umami creates a vibrant sauce that complements delicate fish beautifully without overwhelming it.
+Hot and sour is one of the great Chinese flavour pairings, and the version applied to a piece of pan-fried fish is among the easiest ways to taste why. The sauce is built fast in a hot wok: garlic and ginger in oil for ten seconds, then black vinegar (Chinkiang), light soy, sugar, a pinch of chilli flakes and a splash of stock, brought to a quick boil and thickened with cornflour into something glossy and the colour of dark caramel. The fish (sea bass or any firm white fillet) is salted, dredged lightly in cornflour and pan-fried skin-down until the skin blisters and the centre is just opaque. The sauce goes over the rested fish on the plate, never in the pan, so the crisp skin stays crisp. Serve with steamed rice and a scattering of coriander.
 
 ## Ingredients
 

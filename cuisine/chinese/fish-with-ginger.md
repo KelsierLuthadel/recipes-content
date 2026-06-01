@@ -8,7 +8,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-Ginger is the Chinese cook's answer to lemon in European fish cookery. In this elegant preparation, fresh ginger imparts a subtle fragrance that enhances rather than masks the delicate flavour of fish. The simplicity of the technique belies the sophistication of the result, the interplay between crispy exterior and tender flesh, balanced with aromatic sauce.
+Ginger is to Chinese fish cookery what lemon is to European fish: the cleansing aromatic that lets the fish itself stay centre-stage. For this dish you want a firm white fish, sea bass, bream or even good fillet of cod, dredged in a light cornflour coat and pan-fried until the edges crisp and the centre is just opaque. The sauce is where the ginger does its work: julienne it fine, fry it gently in oil until the threads start to curl and turn pale gold (this is the moment, any darker and it goes bitter), then add soy, Shaoxing, a touch of sugar and a splash of stock. You spoon the gingery sauce over the resting fish so the threads sit on top like a scattering of golden hay. Serve with steamed rice and stir-fried greens.
 
 ## Ingredients
 

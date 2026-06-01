@@ -9,7 +9,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Curry blends beautifully with chicken when prepared in the style of southern Chinese cuisine, as a light, subtle sauce that enhances rather than overpowers the delicate chicken meat. This recipe balances spice with refinement, proving that curry in Chinese cooking is more elegant whisper than aggressive shout.
+Chinese curry chicken is a far quieter dish than its Indian or Thai cousins: a light, golden sauce built on a small spoonful of curry powder bloomed in oil until the kitchen smells warmly of cumin and turmeric. The point is restraint: enough spice to perfume the dish but not so much it overwhelms the chicken or buries the savoury Cantonese base of soy and stock. You velvet the chicken thigh, sear it briefly, build the sauce around it with onion, ginger and a touch of coconut milk for body, then thicken with a cornflour slurry into something glossy and pourable. It eats more like an aromatic stew than a curry; serve over plain rice and let the colour of the sauce do the work on the plate.
 
 ## Ingredients
 

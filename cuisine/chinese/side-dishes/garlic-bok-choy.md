@@ -11,7 +11,7 @@
 **Cook Time:** 6 minutes
 
 ## Overview
-Small heads of bok choy are halved or quartered lengthwise (keeping each piece together at the base). Sliced garlic fries gently in oil until golden, not brown. The bok choy is blanched briefly (30 seconds) in heavily salted water (the salt fixes the colour); refreshed in cold water; drained well. The blanched bok choy then stir-fries in the garlic oil for 2 minutes; oyster sauce, a pinch of sugar and a splash of stock or water glaze; sesame oil at the end. Plated with the dressing spooned over.
+Garlic bok choy is the side dish that every Cantonese parent makes mid-week without thinking, and it's the test of whether a wok cook knows how to keep a vegetable bright green. Small heads of bok choy are halved or quartered lengthwise, kept attached at the base, so the leaves splay open while the stems stay whole. They blanch briefly in heavily salted water (the salt is what fixes the green colour), then drain. Slivered garlic fries gently in oil until pale gold, never brown; the blanched bok choy goes in next and tosses in the garlic oil for two minutes. A splash of oyster sauce, a pinch of sugar and a glug of stock glazes everything; sesame oil drizzles at the end. Plate with the dressing spooned over the leaves so they sit glistening; eat with rice and anything saucy.
 
 ## Ingredients
 

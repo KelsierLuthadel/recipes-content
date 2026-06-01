@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A comforting Chinese soup featuring delicate pork-filled wontons poached and served in a clear chicken broth, garnished with soy sauce and sesame oil for authentic flavor.
+Wonton soup is the everyday Cantonese comfort food, the dish noodle-shop owners across Hong Kong make for breakfast, lunch and dinner without thinking about it. The pork-and-prawn filling is bright with ginger, soy and a touch of sesame oil; it goes inside thin wonton wrappers pinched into the loose-fold shape that catches the broth. The broth is the dish: a clear chicken stock infused with ginger and spring onion, simmered gently, finished with a splash of light soy and a few drops of sesame oil at the table. Wontons poach in a separate pan and join the soup at the last moment so the wrappers don't soften past their bite. Serve in a deep bowl with a coil of choy sum (or any leafy green) draped over the top, hot chilli oil on the side for anyone who wants to ratchet up the heat.
 
 ## Ingredients
 

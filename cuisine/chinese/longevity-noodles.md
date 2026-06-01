@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Yi mein (e-fu) are pre-fried Cantonese egg noodles sold as flat round cakes; they soften almost instantly in hot water and pick up sauce like a sponge. Stir-fried over high heat with shiitake mushrooms and ginger; finished with garlic chives, soy and a quick splash of shaoxing. The noodles are tossed gently - never cut, never broken - and served piled high in a wide bowl. If you can't find yi mein, fresh thin egg noodles work; the symbolism stays intact.
+Yi mein are the long, slightly chewy Cantonese egg noodles served at birthdays and the New Year because their unbroken length symbolises a long life; tradition holds you should never cut them with a knife or break them in the wok. Pre-fried into round cakes for keeping, they soften almost instantly in hot water and then pick up sauce like a sponge when they hit the pan. You stir-fry them over hard heat with shiitake mushrooms, ginger and the unmistakable allium hit of fresh garlic chives, then finish with soy and a splash of Shaoxing for that gentle wine-warmth in the background. The trick is the gentle hand: toss the noodles, don't slap them, and they'll stay long, intact and silky. Pile them high in a wide bowl for the table; cut them at your peril.
 
 ## Ingredients
 

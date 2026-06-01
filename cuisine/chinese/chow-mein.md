@@ -9,7 +9,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Chow mein literally means 'stir-fried noodles' and this contemporary dish is equally popular throughout southern China as it is worldwide. Fresh egg noodles are quickly stir-fried with protein and vegetables, creating a harmonious balance of textures and flavours. The keys to success are properly cooked noodles, high-heat wok cooking, and precise timing.
+Chow mein, literally "stir-fried noodles", is the dish every Cantonese takeaway sells but few do well; the difference between a good and a forgettable version comes down to heat and timing. Cook fresh egg noodles to just under done, drain them properly, and toss them with a teaspoon of oil so they don't stick. From there the wok needs to be smoking before anything else goes in: aromatics flash for ten seconds, harder vegetables and protein next, noodles in last, soy and oyster around the edge of the wok so they hit metal before noodle and caramelise instantly. The noodles want char marks, not a soggy steam in a glossy puddle. Serve fast, with chilli oil and pickled chilli on the table.
 
 ## Ingredients
 

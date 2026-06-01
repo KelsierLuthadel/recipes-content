@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Beans dry-fry in just a thin slick of oil over high heat for 6-8 minutes, they need to blister and wrinkle, not stay green and snappy. Aromatics, garlic, ginger, dried chillies, Sichuan peppercorns and zhacai (Sichuan preserved mustard tuber), flash-cook. Beans return; soy and rice wine glaze; sesame oil to finish.
+Sichuan dry-frying (gan bian) is the technique that turns a humble green bean into a small lesson in concentration: the moisture cooks off in the pan, the skin blisters and wrinkles, and the bean becomes something between a sweet and a crisp with a chewy bite. You dry-fry the beans first in a thin slick of oil over high heat for six to eight minutes; they need to look blistered and slightly shrivelled, not green and snappy. Once they're there, you set them aside, then flash garlic, ginger, dried chillies, Sichuan peppercorns and the salty-sour edge of zhacai (Sichuan preserved mustard tuber) in the same hot wok for a few seconds. Beans return; soy and rice wine glaze; sesame oil at the end. The finished dish should taste of caramel as much as it does of bean.
 
 ## Ingredients
 

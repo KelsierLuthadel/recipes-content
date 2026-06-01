@@ -8,7 +8,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-The essence of this recipe lies in knife technique: the beef must be cut into very thin strips for authentic texture and rapid cooking. A brief freeze makes slicing easier and more uniform. The result is a dish of tender, fragrant beef balanced with fresh ginger, crisp vegetables, and bold chilli heat.
+The whole point of this dish is in the knife: the beef must be cut into very thin strips, almost matchsticks, so it cooks in seconds and stays tender under high wok heat. A short fifteen minutes in the freezer firms the meat enough to slice it cleanly across the grain; rush this step and you end up with thick uneven strips that go grey in the pan. The flavour build is fast and aromatic, julienned fresh ginger, dried chillies, garlic and spring onion all hit the smoking wok with the beef in quick succession; soy and Shaoxing glaze, sesame oil finishes. The dish wants to be served the moment it leaves the pan because the beef firms as it cools. Eat over rice with a beer; the heat lingers.
 
 ## Ingredients
 

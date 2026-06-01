@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Silken tofu cubes are blanched briefly in salted water (firms slightly and seasons). Pork mince is fried hard in oil; doubanjiang and douchi join, cooking to release oil; garlic, ginger, chilli flakes and ground Sichuan peppercorn are toasted briefly. Stock is poured in; tofu is slipped in; gentle simmer for 5 minutes; cornflour slurry thickens. Spring onions and a final dusting of ground Sichuan peppercorn finish.
+Mapo tofu (mapo doufu) is the dish a pockmarked widow named Chen invented in late-Qing Chengdu around 1862 to feed the porters running tofu and oil between the markets, and a hundred and sixty years later it's still the truest expression of Sichuan mala in a single bowl. The point is the layering: doubanjiang (fermented broad bean paste) and douchi (fermented black beans) bloom in hot oil until the fat reddens, then garlic, ginger, chilli flakes and ground Sichuan peppercorn join in a fast aromatic flash. Pork mince fries hard in the same pot, stock loosens everything into a savoury wet braise, and silken tofu cubes slip in to warm through and absorb the colour and heat. A cornflour slurry thickens the sauce, spring onions and a final dusting of ground Sichuan peppercorn finish it. Eat over rice; chase the numbing tingle with the next bite.
 
 ## Ingredients
 
