@@ -1,0 +1,31 @@
+prep: 3 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - gluten-free
+  - dairy-free
+  - quick
+  - no-cook
+  - lemon
+mentions:
+  - drinks/classic/iced-tea
+  - drinks/classic/lemonade
+ingredients:
+  - qty: 350
+    unit: ml
+    name: iced tea
+    raw: 350 ml iced tea
+  - qty: 350
+    unit: ml
+    name: lemonade
+    raw: 350 ml lemonade
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - qty: 2
+    name: lemon wheels
+    raw: 2 lemon wheels
+  - qty: 2
+    name: fresh mint sprigs
+    raw: 2 fresh mint sprigs

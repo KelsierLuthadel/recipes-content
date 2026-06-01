@@ -1,0 +1,37 @@
+prep: 30 minutes
+cook: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - gluten-free
+  - dairy-free
+  - make-ahead
+  - lemon
+ingredients:
+  - qty: 25
+    name: elderflower heads
+    raw: 25 fresh elderflower heads
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres water
+  - qty: 1.5
+    unit: kg
+    name: granulated sugar
+    raw: 1.5 kg granulated sugar
+  - qty: 4
+    name: unwaxed lemons
+    raw: 4 unwaxed lemons
+  - qty: 50
+    unit: g
+    name: citric acid
+    raw: 50 g citric acid
+  - name: cold water
+    raw: Cold still or sparkling water
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - name: lemon slices
+    raw: Lemon slices
+  - name: fresh mint sprigs
+    raw: Fresh mint sprigs

@@ -1,0 +1,43 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - no-cook
+  - yogurt
+  - honey
+ingredients:
+  - qty: 300
+    unit: g
+    name: frozen mixed berries
+    raw: 300 g frozen mixed berries
+  - qty: 1
+    name: ripe banana
+    raw: 1 ripe banana
+  - qty: 250
+    unit: g
+    name: full-fat plain yogurt
+    raw: 250 g full-fat plain yogurt
+  - qty: 2
+    unit: tbsp
+    name: runny honey
+    raw: 2 tablespoons runny honey
+  - qty: 100
+    unit: ml
+    name: whole milk
+    raw: 100 ml whole milk
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - name: fine salt
+    raw: Pinch of fine salt
+  - name: fresh berries
+    raw: A small handful of fresh berries
+  - name: honey
+    raw: A drizzle of honey
+  - name: mint leaves
+    raw: A few mint leaves

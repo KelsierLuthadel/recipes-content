@@ -1,0 +1,48 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - gluten-free
+  - dairy-free
+  - quick
+  - no-cook
+  - coconut
+  - mango
+  - lime
+  - honey
+ingredients:
+  - qty: 200
+    unit: g
+    name: frozen mango chunks
+    raw: 200 g frozen mango chunks
+  - qty: 200
+    unit: g
+    name: frozen pineapple chunks
+    raw: 200 g frozen pineapple chunks
+  - qty: 1
+    name: ripe banana
+    raw: 1 ripe banana
+  - qty: 200
+    unit: ml
+    name: tinned coconut milk
+    raw: 200 ml full-fat tinned coconut milk
+  - qty: 1
+    unit: tbsp
+    name: fresh lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 1
+    unit: tbsp
+    name: runny honey
+    raw: 1 tablespoon runny honey
+  - name: fine salt
+    raw: Pinch of fine salt
+  - name: pineapple wedge
+    raw: A wedge of fresh pineapple
+  - name: slice of lime
+    raw: A slice of lime
+  - name: mint leaves
+    raw: A few mint leaves
+  - name: toasted coconut flakes
+    raw: Toasted coconut flakes
