@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Whole large fish butterflies open (a long cut down the back, leaving the belly attached). Marinated with olive oil, tamarind paste, lemon, garlic, salt, turmeric. Set skin-side down on a baking tray; grilled / roasted at very high heat 25-30 minutes until the flesh is opaque and the skin charred. Topped with sliced tomato, onion and parsley in the last 8 minutes.
+Masgouf is the Iraqi grilled fish dish of the Tigris, the national dish of Iraq, traditionally a whole large carp split open and grilled vertically over an open fire on the riverbanks of Baghdad. A whole large fish butterflies open (a long cut down the back, leaving the belly attached). Marinate with olive oil, tamarind paste, lemon, garlic, salt and turmeric for at least an hour. Set skin-side down on a baking tray; grill or roast at very high heat for twenty-five to thirty minutes until the flesh is opaque and the skin charred. Top with sliced tomato, onion and parsley in the last eight minutes so the vegetables soften but don't burn. Serve hot with warm flatbread, lemon wedges, and pickled vegetables on the side.
 
 ## Ingredients
 

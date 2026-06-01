@@ -11,7 +11,7 @@
 **Cook Time:** 2 ½ hours
 
 ## Overview
-Beef chuck cubes brown briefly, then simmer slow in a generous onion base with paprika as the dominant spice. Tomato, garlic and caraway add depth; potatoes go in late. The defining flavour is the paprika, Hungarian sweet paprika, not generic Spanish; the colour and flavour are different.
+Goulash is the Hungarian national stew, beef simmered slow with a generous amount of sweet Hungarian paprika and caraway, the dish that anchors every Hungarian Sunday lunch and every working-week family dinner alike. Beef chuck cubes brown briefly, then simmer slow in a generous onion base with sweet Hungarian paprika as the dominant spice. Tomato, garlic and caraway add depth; potatoes go in late so they hold their shape and don't disintegrate. The defining flavour is the paprika, Hungarian sweet paprika specifically, not generic Spanish paprika; the colour goes a deep brick-red and the flavour is sweet rather than smoky. Serve hot with crusty bread and a pickled cucumber on the side.
 
 ## Ingredients
 

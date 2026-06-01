@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Conch is tenderised by pounding (or by long cooking, whichever is at hand), then briefly simmered. Aromatics (onion, garlic, sweet pepper, achiote or paprika) fry in butter; coconut milk, water, yuca (cassava) and green plantain go in; the conch returns at the end so it stays tender. Cilantro, lime, salt.
+Sopa de caracol is the Honduran conch soup of the Caribbean coast, a coconut-creamy broth carrying tender conch, cassava and plantain, made famous by the Garifuna communities of the north coast and a national symbol for Honduras. Conch tenderises by pounding (or by long cooking, whichever is at hand), then briefly simmers. Aromatics (onion, garlic, sweet pepper, achiote or paprika) fry in butter; coconut milk, water, yuca (cassava) and green plantain go in; the conch returns at the end so it stays tender. Cilantro, lime, salt to finish. Serve in deep bowls with rice on the side and warm flour tortillas to mop up the broth.
 
 ## Ingredients
 

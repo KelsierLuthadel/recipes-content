@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-A filling of short-grain rice, lamb mince, onion, parsley, dill, mint, tomato puree, allspice, cumin, cinnamon, salt, pepper, olive oil. Vine leaves blanch; vegetables hollow out (cores reserved as the pot base layer). Each leaf and shell stuffs; arranged tightly in a wide pot lined with sliced tomato and reserved vegetable cores. Tamarind-pomegranate-lemon liquid poured halfway up. Cooked covered 1 hour 15 minutes on lowest heat.
+Iraqi dolma is the slow-cooked stuffed-vegetable dish that anchors every Iraqi family table at celebrations and Sunday lunches, a pot of vine leaves, peppers, tomatoes and aubergines stuffed with spiced rice-and-lamb filling, simmered in tamarind-pomegranate-lemon liquor. A filling of short-grain rice, lamb mince, onion, parsley, dill, mint, tomato puree, allspice, cumin, cinnamon, salt, pepper and olive oil mixes together raw. Vine leaves blanch briefly; peppers, tomatoes and aubergines hollow out (cores reserved as the pot base layer). Each leaf and shell stuffs with filling; the lot arranges tightly in a wide pot lined with sliced tomato and the reserved vegetable cores. Tamarind-pomegranate-lemon liquid pours halfway up. Cook covered for an hour and fifteen minutes on the lowest heat. Eat with yogurt and warm flatbread.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Saffron blooms in hot water. Onion grates fine and squeezes through a sieve to release juice. Marinade: yogurt, saffron, onion juice, lemon, olive oil, salt, pepper. Cubed chicken thigh marinates for 6 hours minimum. Skewered and grilled hot 4 minutes per side. Brushed with saffron-butter at the table.
+Joojeh kabab is the Persian saffron-and-yogurt chicken kebab, a marinated grilled-thigh dish that turns up at every Persian celebration and every chelo kababi (kebab house) across Tehran. Saffron blooms in hot water; onion grates fine and squeezes through a sieve to release the juice (the pulp goes; only the juice). A marinade of yogurt, bloomed saffron, onion juice, lemon, olive oil, salt and pepper. Cubed chicken thigh marinates for six hours minimum; overnight is better. Thread onto flat skewers and grill hot over coals for four minutes per side. Brush with saffron-butter at the table for the glossy golden finish. Serve with saffron rice, grilled tomato, and a wedge of lime.
 
 ## Ingredients
 

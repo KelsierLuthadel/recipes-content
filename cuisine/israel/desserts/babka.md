@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Brioche-style dough: bread flour, yeast, milk, eggs, butter, sugar, salt. Kneads 10 min till elastic; rises 1 ½ hours. Chocolate filling: dark chocolate + butter melted with cocoa, sugar, cinnamon, cools to spreadable. Dough divides in half; each rolls to a rectangle 40 × 25 cm; filling spreads to edges; rolls up tight; cuts lengthways down the middle; the two halves twist around each other (the iconic babka braid). Lifts into a buttered loaf tin; rises for 45 min; bakes for 35 min at 180°C. Sugar syrup brushes over hot.
+Babka is the iconic Eastern European Jewish swirled bread, an enriched brioche-style dough rolled around a dark chocolate filling and twisted into the famous braid, now a Tel Aviv bakery superstar exported to every artisan bakery worldwide. The dough is brioche-style: bread flour, yeast, milk, eggs, butter, sugar, salt, kneaded for ten minutes until elastic, first rise an hour and a half. Chocolate filling: dark chocolate and butter melted with cocoa, sugar and cinnamon, cooled to spreadable. Roll the dough to a rectangle (40 by 25 cm); spread the filling to the edges; roll up tight; cut lengthways down the middle; the two halves twist around each other (the iconic babka braid). Lift into a buttered loaf tin; rise for forty-five minutes; bake at 180°C for thirty-five minutes. A sugar syrup brushes over the hot loaf for the glossy finish.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Onions and mushrooms cook in butter until the mushrooms have released and reabsorbed their liquid. Paprika blooms off the heat; flour stirs in to thicken; vegetable stock joins. Dill and milk finish the soup; sour cream is whisked in just before serving with a squeeze of lemon.
+Hungarian mushroom soup is the velvety paprika-laced soup that turns up on every Hungarian café menu, mushrooms and onion in a buttery base finished with sour cream, dill and a squeeze of lemon. Onions and mushrooms cook in butter until the mushrooms have released and reabsorbed their liquid (this concentrates their flavour). Sweet Hungarian paprika blooms off the heat (don't burn it); flour stirs in to thicken; vegetable stock joins to loosen. Fresh dill and milk finish the soup; sour cream whisks in off the heat just before serving with a squeeze of lemon. Serve hot with a slice of rye bread and a small dish of extra sour cream.
 
 ## Ingredients
 

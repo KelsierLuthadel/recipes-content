@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A rich babka dough - milk, butter, egg, sugar, yeast - kneaded until silky, given a short warm rise, then cold-proofed overnight to deepen the flavour. The filling is a date paste loosened with hot water, spiked with cinnamon, scattered with chopped pistachios. The dough rolls into a long rectangle, gets the filling spread across, rolls back into a log and cuts into seven 5 cm spirals. The spirals go cut-side up in a round cake tin, rise until they touch, and bake hot. A honey-and-sugar syrup brushed over the buns as they leave the oven sets the top tacky-sweet.
+Pistachio babka buns are the individual-portion version of the iconic Eastern European Jewish swirled bread, brioche-style dough rolled around a date-and-pistachio filling and baked in a round tin so they pull apart at the table. A rich babka dough (milk, butter, egg, sugar, yeast) kneads until silky, gets a short warm rise, then cold-proofs overnight to deepen the flavour. The filling is a date paste loosened with hot water, spiked with cinnamon, scattered with chopped pistachios. The dough rolls into a long rectangle, gets the filling spread across, rolls back into a log and cuts into seven 5 cm spirals. The spirals go cut-side up in a round cake tin, rise until they touch, and bake hot. A honey-and-sugar syrup brushed over the buns as they leave the oven sets the top tacky-sweet.
 
 ## Ingredients
 

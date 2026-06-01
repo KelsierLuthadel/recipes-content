@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A stiff bread dough - much firmer than sandwich bread - kneaded long, given a first rise, divided and shaped into rings, cold-proofed overnight in the fridge for flavour development, then boiled briefly in a sweetened water bath before baking. The boil sets the crust and gives the characteristic shiny mahogany surface; the bake finishes the inside. Topped with seeds while wet so they stick.
+Bagels are the boiled-then-baked New York-Jewish rolls, the dense chewy ring with a glossy mahogany crust that defines the morning bagel-and-shmear ritual. A stiff bread dough (much firmer than sandwich bread) kneads long, gets a first rise, divides and shapes into rings, cold-proofs overnight in the fridge for flavour development, then boils briefly in a sweetened water bath before baking. The boil sets the crust and gives the characteristic shiny mahogany surface; the bake finishes the inside. Top with seeds (sesame, poppy, everything) while still wet so they stick. Eat warm with cream cheese, lox and sliced red onion.
 
 ## Ingredients
 

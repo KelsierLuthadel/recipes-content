@@ -17,7 +17,8 @@ tags:
   - nuts
   - chili
   - curry
-mentions: []
+mentions:
+  - cuisine/goan/goan-fish-curry
 ingredients:
   - qty: 2
     name: cucumbers

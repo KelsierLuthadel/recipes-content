@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A spice paste of shallots, garlic, candlenuts (or cashews), turmeric and chilli is fried in oil until fragrant. Lemongrass, kaffir lime leaves and galangal infuse the coconut milk. Vegetables go in by cooking time, firmer first, leafier last. Tofu joins; everything simmers gently. The broth should be thin, the vegetables tender but not collapsed.
+Sayur lodeh is the Indonesian vegetable curry from Central Java, a turmeric-yellow coconut-milk stew of vegetables and tofu perfumed with lemongrass, galangal and kaffir lime, the everyday family lunch that turns whatever's in the garden into dinner. A spice paste of shallots, garlic, candlenuts (or cashews), turmeric and chilli fries in oil until fragrant. Lemongrass, kaffir lime leaves and galangal infuse the coconut milk. Vegetables go in by cooking time, firmer first (cabbage, long beans, squash), leafier last (spinach, bok choy). Tofu joins; everything simmers gently. The broth should be thin, the vegetables tender but not collapsed. Serve over plain rice with a sambal and fried shallots on top.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Chicken thigh, liver and heart sear hard in a wide pan with onions; spices bloom; everything cooks together until the meat is just done and the onions are deeply caramelised. Stuffed into pita with hummus, salad, tahini, pickles. The signature is the spice blend, cumin, turmeric, paprika, black pepper, cardamom, and the onion-to-meat ratio (a lot of onion).
+Jerusalem mixed grill (me'orav Yerushalmi) is the late-night street-food sandwich invented at the Mahane Yehuda market in Jerusalem in the 1970s, chicken thigh, liver and heart cooked together with onions and baharat, stuffed into pita with hummus and pickles. Chicken thigh, liver and heart sear hard in a wide pan with onions; spices bloom; everything cooks together until the meat is just done and the onions are deeply caramelised. Stuff into pita with hummus, salad, tahini and pickles. The signature is the spice blend (cumin, turmeric, paprika, black pepper, cardamom) and the onion-to-meat ratio (a lot of onion, more than you think). Eat standing up, late at night, with a Goldstar beer.
 
 ## Ingredients
 

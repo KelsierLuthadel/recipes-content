@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (plus 4 hours chilling)
 
 ## Overview
-Three thin sponges bake side by side or in batches: one vanilla, one cocoa, one walnut. Each is moistened with a warm rum-citrus syrup and layered in a deep dish with raisins, walnuts and a vanilla pastry-cream-style filling. The whole thing chills overnight so the layers meld. Served by scooping (galuska means "dumpling", referring to the soft scoops), drowned in warm chocolate sauce and crowned with cold whipped cream.
+Somlói galuska is the Hungarian trifle, three thin sponges (vanilla, cocoa, walnut) layered in a deep dish with rum syrup, raisins, walnuts and vanilla pastry cream, then scooped at the table and drowned in warm chocolate sauce. Three thin sponges bake side by side or in batches: one vanilla, one cocoa, one walnut. Each moistens with a warm rum-citrus syrup and layers in a deep dish with raisins, walnuts and a vanilla pastry-cream-style filling. The whole thing chills overnight so the layers meld. Serve by scooping (galuska means "dumpling", referring to the soft scoops), drowned in warm chocolate sauce and crowned with cold whipped cream.
 
 ## Ingredients
 

@@ -15,7 +15,8 @@ tags:
   - potato
   - butter
   - nuts
-mentions: []
+mentions:
+  - cuisine/iran/tahdig
 ingredients:
   - qty: 500
     unit: g

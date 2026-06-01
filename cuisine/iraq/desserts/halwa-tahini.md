@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes (plus 8 hours setting)
 
 ## Overview
-Sugar and water dissolve, then boil to the soft-ball stage (118°C). Off the heat, the syrup is whisked into well-stirred tahini with cardamom and rose water; pistachios fold in. The mix pours into a lined tin; sets in the fridge overnight. The crystallisation of the sugar against the sesame fat gives halva its signature flaky-melting bite. Slabs cut into thick squares or fingers. Eat with strong coffee; never warm (it goes oily).
+Halwa tahini is the Iraqi sesame fudge, a flaky-melting block of crystallised sugar syrup whipped into tahini, perfumed with cardamom and rosewater and studded with pistachios, sold by weight from sweet shops across Baghdad. Sugar and water dissolve, then boil to the soft-ball stage (118°C). Off the heat, the syrup whisks into well-stirred tahini with cardamom and rose water; pistachios fold in. The mix pours into a lined tin; sets in the fridge overnight. The crystallisation of the sugar against the sesame fat gives halva its signature flaky-melting bite. Cut into thick squares or fingers. Eat with strong coffee; never warm (it goes oily).
 
 ## Ingredients
 

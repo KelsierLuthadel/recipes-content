@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Aubergines are charred over an open gas flame (or under a very hot grill) until the skin is black and the flesh collapses inside. The smoky flesh is scooped out and chopped coarse. A pan with oil, generous garlic, turmeric and a quick tomato sauce. The aubergine joins; cooks for 10 minutes. A whisked egg is poured in and scrambled into the mix. Served warm in a wide dish.
+Mirza ghasemi is the smoky aubergine-and-egg side dish from the Caspian coast of northern Iran, fire-charred aubergines mashed with garlic, turmeric, tomato and scrambled egg, served warm in a wide dish. Aubergines char over an open gas flame (or under a very hot grill) until the skin is black all over and the flesh collapses inside. The smoky flesh scoops out and chops coarse. A pan with oil, generous garlic (this is a garlicky dish, don't be shy), turmeric and a quick tomato sauce. The aubergine joins; cooks down for ten minutes. A whisked egg pours in and scrambles into the mix. Serve warm in a wide dish with flatbread to scoop.
 
 ## Ingredients
 

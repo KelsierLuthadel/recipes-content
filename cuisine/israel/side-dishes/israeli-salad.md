@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Vegetables are diced into uniform 5 mm cubes, knife work matters. Lemon juice, olive oil and salt are the only dressing; sometimes a teaspoon of sumac or a clove of crushed garlic. Eaten freshly made; doesn't keep, the cucumbers weep.
+Israeli salad is the small-diced raw vegetable salad that lives on every Israeli breakfast table beside the eggs, cheese and bread, a deliberate exercise in knife discipline. Vegetables (cucumber, tomato, red onion, green pepper) dice into uniform 5 mm cubes; the knife work matters. Lemon juice, olive oil and salt are the only dressing; sometimes a teaspoon of sumac or a clove of crushed garlic. Eat freshly made; doesn't keep, the cucumbers weep. Serve at breakfast with shakshuka, or beside any Israeli grill.
 
 ## Ingredients
 

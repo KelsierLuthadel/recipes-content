@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A classic vanilla shortbread-style dough rolled and stamped with festival cutters. Butter and sugar creamed pale, an egg and vanilla beaten in, plain flour folded through to give a firm rollable dough. Chilled an hour for the gluten to relax (rolls out cleanly without springback), then rolled, cut, and baked until the edges are just golden - pale at the centre. Cooled, then iced with a simple royal icing tinted blue and white, decorated freely.
+Hanukkah biscuits are the holiday-tradition vanilla shortbread cookies cut with festival shapes and iced in the Hanukkah blue-and-white, the tin that turns up on every Jewish family's coffee table during the eight nights. A vanilla shortbread-style dough: butter and sugar cream pale, an egg and vanilla beat in, plain flour folds through to give a firm rollable dough. Chill an hour for the gluten to relax (it rolls out cleanly without springback), then roll, cut with festival cutters, and bake until the edges are just golden, pale at the centre. Cool, then ice with a simple royal icing tinted blue and white. Decorate freely; let the kids help.
 
 ## Ingredients
 

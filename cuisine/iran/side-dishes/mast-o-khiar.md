@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Cucumber dices fine and salts briefly to lose water. Folds into thick Greek yogurt with chopped walnuts, raisins, dried mint, salt, pepper. Garnish with more walnuts, dried mint, dried rose petals (if available), a drizzle of olive oil. Eaten cold.
+Mast-o-khiar is the Persian cucumber-and-yogurt salad, more than a tzatziki, less than a dip, the side dish that lives in a small bowl beside every Persian dinner from the everyday to the celebratory. Cucumber dices fine and salts briefly to lose its water (drains in a sieve for ten minutes; keeps the salad from going wet). Folds into thick Greek yogurt with chopped walnuts, raisins, dried mint, salt and pepper. Garnish with more walnuts, dried mint, dried rose petals (if available), and a drizzle of olive oil. Eat cold from the fridge alongside any Persian rice dish or kebab.
 
 ## Ingredients
 

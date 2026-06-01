@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Aubergines roast or pan-fry until soft and silky. The flesh mashes with caramelised onion and garlic into a soft paste. Kashk thins with a splash of water and folds through. The dish plates in a wide bowl, scored with the back of a spoon. Topped with crispy fried shallots, dried mint sizzled in oil, swirls of kashk, and chopped toasted walnut.*
+Kashk-e bademjan is the Persian aubergine-and-fermented-whey dip, a smoky-savoury spread of mashed aubergine, caramelised onion and tangy kashk, the meze-board signature that turns up at every Persian sofreh. Aubergines roast or pan-fry until soft and silky. The flesh mashes with caramelised onion and garlic into a soft paste. Kashk (fermented whey) thins with a splash of water and folds through. The dish plates in a wide bowl, scored with the back of a spoon. Top with crispy fried shallots, dried mint sizzled in oil, swirls of more kashk, and chopped toasted walnut. Eat warm with sangak or barbari for scooping.
 
 ## Ingredients
 

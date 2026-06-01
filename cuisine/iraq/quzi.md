@@ -11,7 +11,7 @@
 **Cook Time:** 4 hours
 
 ## Overview
-A bone-in lamb shoulder rubs with baharat, dried lime, garlic and yogurt; sits overnight; roasts long and slow until the meat falls from the bone. Saffron rice cooks separately with onion, raisins and toasted nuts. Everything assembles on a wide platter, rice mounded under the lamb, sauce spooned over, almonds and pine nuts scattered.
+Quzi is the Iraqi celebration dish, a whole slow-roasted lamb shoulder served on a platter of saffron rice with toasted nuts and raisins, the centrepiece at every Iraqi wedding feast and major holiday meal. A bone-in lamb shoulder rubs with baharat, dried lime, garlic and yogurt; sits overnight to marinate; roasts long and slow until the meat falls from the bone. Saffron rice cooks separately with onion, raisins and toasted nuts. Everything assembles on a wide platter, rice mounded under the lamb, sauce spooned over, almonds and pine nuts scattered. Serve in the centre of the table with everyone eating directly from the platter.
 
 ## Ingredients
 

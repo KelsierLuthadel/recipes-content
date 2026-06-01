@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (in batches)
 
 ## Overview
-Floury potatoes grate fine; onion grates fine; both squeeze in a tea towel to remove water (the water-squeeze is what gives crisp latkes). Mixed with egg, matzo meal (or flour), salt and pepper. Dropped by spoonfuls into hot oil; flattened with a spatula; fried for 3-4 minutes per side till deep gold. Drained on a rack. Served hot with sour cream and applesauce.
+Latkes are the Ashkenazi Jewish potato pancakes of Hanukkah, fried in oil to commemorate the miracle of the lamp that burned for eight days, eaten by the dozen during the festival with sour cream and applesauce. Floury potatoes grate fine; onion grates fine; both squeeze in a tea towel to remove water (this water-squeeze is what gives crisp latkes). Mix with egg, matzo meal (or flour), salt and pepper. Drop by spoonfuls into hot oil; flatten with a spatula; fry for three to four minutes per side until deep gold. Drain on a rack. Serve hot with cold sour cream and applesauce.
 
 ## Ingredients
 

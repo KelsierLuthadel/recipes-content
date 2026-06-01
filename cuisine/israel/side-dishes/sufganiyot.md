@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A rich yeasted dough, flour, yeast, sugar, salt, butter, eggs, milk and a splash of vanilla. Long first rise for 1 hour. Roll to 1 ½ cm thick; stamp 6 cm rounds; second rise for 30 minutes. Fry at 175°C 2 minutes per side. Drain; inject jam into the centre with a piping bag; dust heavily with icing sugar.
+Sufganiyot are the Hanukkah jam-filled doughnuts, fried in oil to commemorate the miracle of the lamp that burned for eight days, eaten by the boxful during the festival across Israel and the Jewish diaspora. A rich yeasted dough (flour, yeast, sugar, salt, butter, eggs, milk and a splash of vanilla) first-rises for an hour. Roll to 1.5 cm thick; stamp 6 cm rounds; second rise for thirty minutes. Fry at 175°C for two minutes per side. Drain; inject jam into the centre with a piping bag; dust heavily with icing sugar. Eat warm, with the jam still soft inside.
 
 ## Ingredients
 

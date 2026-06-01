@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Bone-in chicken pieces marinate in lime, garlic, achiote and cumin, then are floured and fried until deep gold and crisp-skinned. Ripe (or green) plantains slice into long tajadas and fry until soft and sweet. A quick curtido of cabbage, onion and vinegar provides crunch; a chunky chimol of tomato, onion and cilantro provides freshness. Plate, top, drizzle, serve.
+Pollo con tajadas is the Honduran lunch-counter staple, fried chicken on a bed of sweet plantains with a curtido slaw and a chimol salsa, the kind of plate that feeds you for the afternoon. Bone-in chicken pieces marinate in lime, garlic, achiote and cumin; flour and fry until deep gold and crisp-skinned. Ripe (or green) plantains slice into long tajadas and fry until soft and sweet. A quick curtido of cabbage, onion and vinegar provides crunch; a chunky chimol of tomato, onion and cilantro provides freshness. Plate, top, drizzle, serve, eat with your fingers.
 
 ## Ingredients
 

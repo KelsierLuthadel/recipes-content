@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¾ hours
 
 ## Overview
-Walnuts are toasted and ground to a paste. Onions are softened slowly with turmeric and saffron; chicken thighs are seared, then poached in a stock that the walnut paste loosens into. Pomegranate molasses, sugar and lemon balance the sauce as it darkens; chicken returns to absorb flavour. Slow-cooked until the oil splits out, the sign Fesenjan is ready.
+Fesenjan is the Persian walnut-and-pomegranate stew, a deep mahogany sauce of ground toasted walnuts, sour pomegranate molasses and slow-cooked chicken or duck, the dish reserved for Yalda night and Persian wedding feasts. Walnuts toast and grind to a paste. Onions soften slowly with turmeric and saffron; chicken thighs sear hard, then poach in a stock that the walnut paste loosens into. Pomegranate molasses, sugar and lemon balance the sauce as it darkens to the colour of dark coffee; chicken returns to absorb flavour. The slow cook continues until the oil splits out at the edges, the sign fesenjan is ready (usually two to three hours). Serve over saffron rice with a scatter of pomegranate seeds for the colour.
 
 ## Ingredients
 

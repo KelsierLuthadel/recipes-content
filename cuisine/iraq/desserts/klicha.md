@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A buttery cardamom-and-nigella dough enriched with milk and a touch of yeast (yeast gives a tender bite, not a rise) wraps around a soft date paste cooked down with butter, cardamom, cloves and cinnamon. Walnut-sized balls flatten, fill, fold and press into a klaicha mould (or score the top with the back of a fork in a herringbone pattern). Brushed with egg yolk and sprinkled with sesame seeds. Baked at 180°C until pale gold (not brown, Iraqi klicha stay light, almost biscuit-coloured).
+Klicha are the Iraqi date-filled cookies of Eid, buttery cardamom-and-nigella dough wrapped around a spiced date paste, pressed into a patterned mould and baked pale gold, the cookies every Iraqi grandmother makes by the tin-load for the holidays. A buttery cardamom-and-nigella dough enriched with milk and a touch of yeast (the yeast gives a tender bite, not a rise) wraps around a soft date paste cooked down with butter, cardamom, cloves and cinnamon. Walnut-sized balls flatten, fill, fold and press into a klaicha mould (or score the top with the back of a fork in a herringbone pattern). Brush with egg yolk and sprinkle with sesame seeds. Bake at 180°C until pale gold (not brown; Iraqi klicha stay light, almost biscuit-coloured). Eat with cardamom tea or strong coffee.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 45 minutes
 
 ## Overview
-Onion fries dark gold; turmeric, cinnamon and meat brown in. Tomato puree, hot stock, dried limes and presoaked split peas join. Simmers for 90 minutes until meat and peas are both tender. Matchstick potatoes deep-fry separately and pile on top at serving.
+Gheymeh is the Persian split-pea-and-dried-lime stew, a sour-savoury Persian classic crowned with a heap of matchstick-fried potatoes, often made for funeral wakes and Muharram observances in the Shia tradition. Onion fries dark gold in oil; turmeric, cinnamon and cubed lamb or beef brown in next. Tomato puree, hot stock, dried Persian limes (limu omani, the source of the dish's deep sourness) and presoaked split peas join the pot. Simmers for ninety minutes until both meat and peas are tender. Matchstick potatoes deep-fry separately and pile generously on top at serving. Eat with saffron rice; the dish improves with a day's rest in the fridge.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Red chillies, garlic, shallots, tomato roast briefly under a grill until softened and slightly charred. Terasi (shrimp paste) toasts in a dry pan 1 minute until intensely fragrant. All ingredients pound or pulse to a coarse paste. The paste then fries in oil 8-10 minutes until deep red, fragrant and oil separates at the edges. Salt and a touch of palm sugar balances. Eats hot or cool.
+Sambal terasi is the Indonesian fermented-shrimp-paste sambal, the spoonful of red fire that lives in a small dish beside every Indonesian meal and elevates anything plain. Red chillies, garlic, shallots and tomato roast briefly under a grill until softened and slightly charred. Terasi (Indonesian shrimp paste) toasts in a dry pan for a minute until intensely fragrant (open a window). All ingredients pound or pulse to a coarse paste; the paste then fries in oil for eight to ten minutes until deep red, fragrant and the oil separates at the edges. Salt and a touch of palm sugar balance. Serve hot or cool with rice, grilled fish, fried tofu, or anything that wants a hit of heat.
 
 ## Ingredients
 - 12 red chillies (10 hot bird's-eye + 2 mild large red - adjust ratio to taste)

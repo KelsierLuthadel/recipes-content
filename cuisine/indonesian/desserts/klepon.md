@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Glutinous rice flour mixes with hot pandan-tinted water to a smooth dough; rests for 10 minutes. Palm sugar chops fine. A small ball of dough flattens between palms; a teaspoon of palm sugar nestles in; the dough closes over and rolls to a smooth sphere. Boils briefly in water until they bob to the surface and feel done (about 3 minutes). Drains; rolls in salted fresh grated coconut. Eats cool.
+Klepon are the Indonesian glutinous-rice balls, pandan-tinted spheres hiding a molten centre of palm sugar that bursts when you bite in, rolled in fresh grated coconut for the chewy-coconut finish. Glutinous rice flour mixes with hot pandan-tinted water to a smooth dough; rests for ten minutes. Palm sugar chops fine. A small ball of dough flattens between palms; a teaspoon of palm sugar nestles in; the dough closes over and rolls to a smooth sphere. Boil briefly in water until they bob to the surface and feel done (about three minutes). Drain; roll in salted fresh grated coconut. Eat cool, in one bite, and let the molten centre be a surprise.
 
 ## Ingredients
 

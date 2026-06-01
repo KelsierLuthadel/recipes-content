@@ -23,6 +23,7 @@ tags:
 mentions:
   - cuisine/italian/lasagne
   - tutorials/pizza/cheese
+  - tutorials/stocks-sauces/bechamel
 ingredients:
   - qty: 2
     name: aubergines

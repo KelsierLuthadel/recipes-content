@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-A loose batter of flour, egg and water rests briefly, then gets pressed through a spätzle plane (or a wide-holed colander) into salted boiling water. The dumplings cook in under a minute, get lifted out, and finish in melted butter. Texture should be soft and slightly chewy with irregular edges that catch sauce.
+Nokedli are the Hungarian dumplings (the same dish the Germans call Spätzle and the Italians call gnocchi-shaped pasta), soft little nubs of egg-rich dough boiled briefly and tossed in melted butter. A loose batter of flour, egg and water rests briefly to relax the gluten, then presses through a spätzle plane (or a wide-holed colander) into salted boiling water. The dumplings cook in under a minute, lift out with a slotted spoon, and finish in melted butter. The texture should be soft and slightly chewy with irregular edges that catch sauce. Serve alongside chicken paprikash, goulash, or anything saucy.
 
 ## Ingredients
 

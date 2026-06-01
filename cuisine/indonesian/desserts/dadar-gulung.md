@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-The crepe batter: rice flour, plain flour, eggs, coconut milk, water, salt, pandan extract, whisked smooth, rested for 30 minutes. The filling (unti): palm sugar dissolves in a little water with a pandan leaf; fresh grated coconut stirs in; cooks for 5 minutes till just absorbed and sticky. Cool. Crepes cook for 1 minute per side in a small pan. Each crepe gets a heaped tablespoon of unti at one end; folds in the sides; rolls up like a cigar. Eats at room temperature.
+Dadar gulung is the Indonesian rolled coconut crêpe, a soft pandan-green pancake wrapped around a sticky filling of palm sugar and grated coconut, eaten with afternoon tea across Java and Sumatra. The crêpe batter (rice flour, plain flour, eggs, coconut milk, water, salt and pandan extract) whisks smooth and rests for half an hour. The filling (unti): palm sugar dissolves in a little water with a pandan leaf; fresh grated coconut stirs in; cooks for five minutes until just-absorbed and sticky. Cool. Crêpes cook for one minute per side in a small pan. Each crêpe takes a heaped tablespoon of unti at one end; folds in the sides; rolls up like a cigar. Eat at room temperature with sweet tea.
 
 ## Ingredients
 

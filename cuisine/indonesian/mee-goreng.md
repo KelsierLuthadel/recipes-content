@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Fresh egg noodles tossed in a glossy, sweet-savoury sauce of kecap manis, soy, ketchup, sesame oil and shrimp paste, with pork, prawns, cabbage and bean sprouts. The dish is finished with thin egg ribbons and a scatter of spring onion. Quick to cook once the components are prepped, but rewards a properly hot wok and a sauce mixed in advance.
+Mee goreng is the Indonesian-Malay stir-fried noodle dish that turns up at every hawker stall from Jakarta to Penang, fresh egg noodles tossed in a glossy sweet-savoury sauce of kecap manis with prawns, pork and a tangle of cabbage and bean sprouts. Fresh egg noodles toss in a glossy sweet-savoury sauce of kecap manis (Indonesian sweet thick soy), regular soy, ketchup, sesame oil and shrimp paste, with pork, prawns, cabbage and bean sprouts. The dish finishes with thin egg ribbons (an omelette sliced ribbon-thin) and a scatter of spring onion. Quick to cook once the components are prepped, but it rewards a properly hot wok and a sauce mixed in advance so the timing works. Serve hot with chilli sambal and a wedge of lime.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 2 ½ hours
 
 ## Overview
-Beef shank or stewing beef marinates overnight in épis and citrus, then browns and simmers in beef broth for an hour. A whole calabaza pumpkin is boiled separately until soft, then puréed with some of the cooking liquid and stirred back into the soup pot. Carrots, turnips, celery, cabbage, leeks and potatoes go in to simmer until tender; vermicelli noodles and a whole pierced Scotch bonnet are added near the end. Final adjustments are lime juice, a knob of butter, fresh parsley and salt. The soup is served on January 1st by tradition; the rest of the year it stays the family Sunday-soup of the Haitian diaspora.
+Soup joumou is the Haitian soup of independence, a slow-cooked beef-and-pumpkin broth eaten every January 1st to mark the day in 1804 when Haiti became the first Black republic in the world, and the day the formerly enslaved population could finally eat the soup their colonial masters had forbidden them. Beef shank or stewing beef marinates overnight in épis and citrus, then browns and simmers in beef broth for an hour. A whole calabaza pumpkin boils separately until soft, blends with some of the cooking liquid, and stirs back into the soup pot for the signature golden colour. Carrots, turnips, celery, cabbage, leeks and potatoes go in to simmer until tender; vermicelli noodles and a whole pierced Scotch bonnet add near the end. Lime juice, a knob of butter, fresh parsley and salt to finish. Served on January 1st by tradition; the rest of the year it's the family Sunday-soup of the Haitian diaspora.
 
 ## Ingredients
 

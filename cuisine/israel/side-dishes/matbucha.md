@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Red bell peppers char briefly under the grill, skin peels off. Tomatoes (fresh or tinned) and the peeled peppers blend coarse. Chopped garlic, hot green chilli and oil heat in a wide pan; the tomato-pepper mix joins. Cooks down slow 75 minutes, stirring occasionally, until very thick and jammy. Paprika, cumin, salt, sugar fold in late.
+Matbucha is the North African-Israeli slow-cooked tomato-and-pepper salad, a thick, jammy spread of charred peppers and tomato seasoned with garlic and paprika, served cold as a meze with bread. Red bell peppers char briefly under the grill; the skins peel off easily. Tomatoes (fresh or tinned) and the peeled peppers blend coarse. Chopped garlic, hot green chilli and oil heat in a wide pan; the tomato-pepper mix joins. Cook down slow for seventy-five minutes, stirring occasionally, until very thick and jammy. Paprika, cumin, salt and a touch of sugar fold in late. Eat cool with warm pita.
 
 ## Ingredients
 

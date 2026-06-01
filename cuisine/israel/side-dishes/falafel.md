@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Dried chickpeas soak overnight, do not cook them. Blitz with onion, garlic, herbs and spices to a coarse green paste. Rest for 1 hour. A pinch of baking powder mixes in just before frying. Shape into balls; deep-fry at 175°C 4 minutes until darkly crusted. Stuffed into pita with hummus, tahina, salata, pickles.
+Falafel is the Levantine deep-fried chickpea-and-herb croquette, the snack stall and street-corner staple from Cairo to Tel Aviv to every corner of the Middle Eastern diaspora. Dried chickpeas soak overnight (do not cook them, the texture depends on raw soaked chickpeas). Blitz with onion, garlic, fresh herbs (parsley, coriander) and spices to a coarse green paste. Rest for an hour so the mixture firms. A pinch of baking powder mixes in just before frying for the open, fluffy interior. Shape into balls; deep-fry at 175°C for four minutes until darkly crusted. Stuff into pita with hummus, tahina, salata and pickles.
 
 ## Ingredients
 

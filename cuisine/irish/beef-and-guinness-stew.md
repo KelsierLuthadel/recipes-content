@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Chuck steak in big chunks, dredged in seasoned flour and browned in batches in a heavy pot until properly dark. Onions cooked low and slow in the same pot to draw out their sugar. The beef returned, a bottle of Guinness poured over with stock and a spoon of treacle, brought to a simmer and tucked into a low oven for two hours. The last half-hour gets carrots, potatoes and a handful of pearl barley to thicken the broth. Finished with parsley and a chunk of soda bread for mopping.
+Beef and Guinness stew is the pub-kitchen classic of every Dublin and Cork bistro, slow-braised chuck steak in a dark Guinness gravy with a spoon of treacle, the dish that turns up at every St. Patrick's Day dinner. Chuck steak in big chunks dredges in seasoned flour and browns in batches in a heavy pot until properly dark. Onions cook low and slow in the same pot to draw out their sugar. The beef returns; a bottle of Guinness pours over with stock and a spoon of black treacle (the treacle is the secret, it tames the stout's bitterness and gives the gravy its dark sheen); the lot brings to a simmer and tucks into a low oven for two hours. The last half hour, carrots, potatoes and a handful of pearl barley join to thicken the broth. Finish with chopped parsley; serve with a thick chunk of soda bread for mopping.
 
 ## Ingredients
 

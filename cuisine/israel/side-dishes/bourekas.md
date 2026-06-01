@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Ready-rolled puff pastry cut into squares; a generous spoon of a three-cheese filling on one corner of each; the opposite corner folded across to form a triangle; edges pressed and crimped with a fork to lock the filling in. Brushed with beaten egg, scattered with sesame, baked hot until puffed and deeply gold. The filling stays soft and salty against the buttery crisp pastry. To eat them properly, split each triangle along the long folded side and stuff with a slice of hard-boiled egg, a smear of harissa and a few pickled cucumber rounds - the classic Tel Aviv bakery breakfast.
+Bourekas are the Israeli puff-pastry triangles, ready-rolled puff wrapped around a savoury cheese filling and baked until deep golden, the bakery counter staple that turns up in every Israeli supermarket and corner café. Ready-rolled puff pastry cuts into squares; a generous spoon of three-cheese filling on one corner; the opposite corner folds across to form a triangle; edges press and crimp with a fork to lock the filling in. Brush with beaten egg, scatter with sesame seeds, bake hot until puffed and deeply gold. The filling stays soft and salty against the buttery crisp pastry. To eat them properly, split each triangle along the long folded side and stuff with a slice of hard-boiled egg, a smear of harissa and a few pickled cucumber rounds, the classic Tel Aviv bakery breakfast.
 
 ## Ingredients
 

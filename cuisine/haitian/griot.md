@@ -11,7 +11,7 @@
 **Cook Time:** 1 ½ hours
 
 ## Overview
-Pork shoulder is cubed and marinated overnight in a punchy mixture of épis, bitter orange juice, lime juice, garlic, Scotch bonnet, thyme and salt. The next day the pork simmers in its own marinade until tender (the meat goes in cold and comes up to a slow simmer; the marinade reduces almost entirely as it cooks). Once the pork is fork-tender and the liquid has cooked down to a sticky glaze, the cubes are drained dry and deep-fried in hot oil for 5-7 minutes until the outsides crackle and brown. Served piping hot with pikliz, rice, beans and plantains.
+Griot is the Haitian Sunday-table pork dish, cubes of pork shoulder marinated overnight in citrus and épis, simmered in their own marinade until tender, then deep-fried until the outsides crackle. Pork shoulder cubes marinate overnight in a punchy mixture of épis, bitter orange juice, lime juice, garlic, Scotch bonnet, thyme and salt; the marinade is the dish's soul. The next day the pork simmers in its own marinade until tender (the meat goes in cold, comes up to a slow simmer, the marinade reduces almost entirely as it cooks). Once the pork is fork-tender and the liquid has cooked down to a sticky glaze, the cubes drain dry and deep-fry in hot oil for five to seven minutes until the outsides crackle and the corners colour deep brown. Serve piping hot with pikliz (Haitian spicy slaw), rice and beans, and fried plantains.
 
 ## Ingredients
 

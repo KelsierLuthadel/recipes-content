@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Soft flour tortillas, thicker than Mexican ones, are griddled until lightly blistered. While still warm, they're spread with hot refried beans, drizzled with mantequilla, sprinkled with salty crumbled cheese, then folded in half. Eaten in hand. Add-ons are layered before the fold. Done in 20 seconds at the stand.
+Baleadas are the Honduran street-stall staple, soft thick flour tortillas folded around hot refried beans, mantequilla and salty cheese, ready to eat in twenty seconds at the stand. Soft flour tortillas, thicker than Mexican ones, griddle until lightly blistered. While still warm, you spread them with hot refried beans, drizzle with mantequilla (Honduran cultured cream), sprinkle with salty crumbled cheese, then fold in half. Add-ons (avocado, scrambled egg, chicharrón, chorizo) layer in before the fold. Eat in hand, standing up, with hot coffee or a cold beer.
 
 ## Ingredients
 

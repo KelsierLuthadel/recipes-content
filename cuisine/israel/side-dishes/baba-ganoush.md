@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Aubergines char directly on a gas flame or under a hot grill until the skin is uniformly black and the flesh is collapsed inside. Steamed briefly under foil; peeled. Flesh chops, then mashes (don't blend, the texture is the point) with tahini, lemon, garlic, salt. Plate; pool olive oil; scatter pomegranate seeds and parsley.
+Baba ganoush is the Levantine smoky aubergine dip, fire-charred whole aubergines mashed with tahini, lemon and garlic, served pooled with olive oil and crowned with pomegranate seeds. Aubergines char directly on a gas flame or under a hot grill until the skin is uniformly black and the flesh is collapsed inside. Steam briefly under foil (this is the trick that loosens the skin); peel. The flesh chops, then mashes with tahini, lemon, garlic and salt (don't blend; the rough texture is the point). Plate in a wide bowl; pool olive oil on top; scatter pomegranate seeds and chopped parsley. Eat warm with pita and crudités.
 
 ## Ingredients
 

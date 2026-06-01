@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Floury potatoes boil; cabbage or kale wilts in butter with spring onions; the lot is mashed with hot milk and lots of butter. The cabbage softens but keeps a little texture; the mash should be smooth, with green flecks throughout.
+Colcannon is the Irish potato-and-cabbage mash, traditionally eaten at Halloween with coins or rings hidden inside to predict fortunes, but now a year-round side dish across the island. Floury potatoes boil until tender; shredded cabbage or kale wilts in butter with finely sliced spring onions; the lot mashes together with hot milk and lots of butter. The cabbage softens but keeps a little texture; the mash should be smooth, the green flecks running through. Pile in a wide bowl, score a hollow in the centre for melting butter. Eat beside boiled bacon, a roast or a chunk of soda bread.
 
 ## Ingredients
 

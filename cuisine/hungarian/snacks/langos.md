@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A soft potato-enriched yeast dough rises slowly, gets stretched thin (not rolled), and shallow-fries in hot oil for 60-90 seconds a side until puffed, blistered and golden. Out of the pan, it's brushed with a smashed garlic-water and immediately topped with sour cream and grated cheese. The classic combination is unbeatable, but plain salted lángos eaten with the garlic rub alone is also traditional.
+Lángos is the Hungarian deep-fried bread, a yeasted potato dough stretched thin and fried golden, slathered with garlic-water and topped with sour cream and cheese, the snack that anchors every Hungarian street festival and Christmas market. A soft potato-enriched yeast dough rises slowly, gets stretched thin between palms (not rolled with a pin), and shallow-fries in hot oil for sixty to ninety seconds a side until puffed, blistered and golden. Out of the pan, you brush it with a smashed garlic-water and immediately top with sour cream and grated cheese. The classic combination is unbeatable, but plain salted lángos eaten with the garlic rub alone is also traditional. Eat hot, with both hands, while the cheese is still melting.
 
 ## Ingredients
 

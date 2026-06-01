@@ -11,7 +11,7 @@
 **Cook Time:** 90 minutes
 
 ## Overview
-This traditional Hungarian goulash is a rich, hearty stew featuring tender beef simmered with sweet paprika, caraway seeds, and vegetables. Originating from 9th-century Hungary, it's a comforting dish that embodies the flavors of the region's pastoral heritage. Perfect for a warming meal on chilly days.
+Hungarian gulyás soup is the traditional shepherd's pot from the Hungarian plains, named for the cattle herders (gulyás means "herdsman") who cooked it in iron pots over open fires, a rich beef-and-paprika stew that's somewhere between a soup and a stew. Beef chuck cubes brown briefly, then simmer slow in a generous onion base with sweet Hungarian paprika as the dominant spice. Caraway seeds, garlic and a touch of tomato deepen the broth; potatoes go in late so they hold their shape. The paprika is the marker that says Hungarian and not Spanish; the colour and flavour are different. Serve hot in deep bowls with a hunk of bread.
 
 ## Ingredients
 

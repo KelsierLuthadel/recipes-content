@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Dried djon djon mushrooms are soaked in hot water for 30 minutes; the inky black soaking liquid is strained and reserved (the mushrooms themselves are mostly discarded or used minimally). Aromatics, shallot, garlic, thyme, parsley, Scotch bonnet, épis, are sweated in oil, then green peas and lima beans are added, then long-grain rice is stirred in to coat. The djon djon broth is poured over the rice; the pot is covered and steamed gently until the rice is tender and slate-black. Garnished with parsley and served as the centrepiece of any meal it appears in.
+Diri ak djon djon is the dish that defines Haitian celebration cooking, slate-black rice cooked in the inky broth of rehydrated djon djon mushrooms grown only in northern Haiti, a regional speciality that turns up at weddings, christenings and the big Sunday family lunch. You soak the dried djon djon mushrooms in hot water for half an hour; strain off the inky black soaking liquid and reserve it (the mushrooms themselves are mostly tossed or used minimally, the broth is the point). Aromatics, shallot, garlic, thyme, parsley, Scotch bonnet and a spoonful of épis (Haitian green seasoning), sweat in oil; green peas and lima beans join; long-grain rice stirs in to coat. The djon djon broth pours over the rice; the pot covers tight; gentle steam for twenty minutes turns the rice tender and the proper slate-black colour. Garnish with parsley and serve as the centrepiece of any meal it appears in.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A yeast-leavened, fat-rich dough rests cold so the fat stays solid in flaky layers. The dough is rolled, folded and rolled again like a rough puff pastry, then cut into rounds, scored, brushed with egg and baked at high heat until golden and crisp on the outside, tender inside. Cheese is added by folding grated cheese into the dough and showering more on top.
+Pogácsa are the Hungarian savoury biscuits sold from every village bakery and made for every wedding tray, a yeasted lard-rich dough rolled and folded like rough puff pastry then cut into small rounds, traditionally cheese-flavoured. A yeast-leavened, fat-rich dough rests cold so the fat stays solid in flaky layers. The dough rolls, folds and rolls again like a rough puff pastry, then cuts into rounds, scores on top, brushes with egg and bakes at high heat until golden and crisp on the outside, tender inside. Cheese adds by folding grated cheese into the dough and showering more on top. Eat with wine, with soup, with afternoon coffee, by the handful from a basket.
 
 ## Ingredients
 

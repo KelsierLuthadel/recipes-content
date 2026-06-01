@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Wide egg noodles cooked just past al dente, drained and tossed in butter so they don't clump. A custard of cream cheese, sour cream, eggs, sugar and cinnamon is whisked smooth and folded through the noodles with golden raisins. The mixture goes into a buttered baking dish, gets a generous topping of crushed cornflakes (or cinnamon-sugar crumbs) and a dot of butter, then bakes low and slow until the custard sets and the top is mahogany-brown. Cut into squares while warm.
+Noodle kugel is the sweet-savoury Ashkenazi Jewish casserole, wide egg noodles bound in a sweet cream-cheese custard with raisins, baked until the top goes mahogany-dark and the inside sets silky, the dish that turns up at every Jewish family Shabbat. Wide egg noodles cook just past al dente, drain and toss in butter so they don't clump. A custard of cream cheese, sour cream, eggs, sugar and cinnamon whisks smooth and folds through the noodles with golden raisins. The mixture goes into a buttered baking dish, gets a generous topping of crushed cornflakes (or cinnamon-sugar crumbs) and a dot of butter, then bakes low and slow until the custard sets and the top is mahogany-brown. Cut into squares while warm.
 
 ## Ingredients
 

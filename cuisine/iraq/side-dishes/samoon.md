@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-A yeasted bread dough, bread flour, yeast, sugar, salt, oil, warm water. First rise for 1 hour. Divided into 8 portions; each rolls into an oval football shape, pointed at both ends. Slashed lengthways with a sharp knife or razor. Second rise for 25 minutes. Baked at 220°C with steam (a tray of hot water at the bottom) until deep gold and the slash has opened.
+Samoon is the Iraqi everyday bread, football-shaped pointed-end loaves with a deep slash down the top that opens into a glossy crust during baking, the sandwich bread of Baghdad and Mosul. A yeasted bread dough (bread flour, yeast, sugar, salt, oil, warm water) first-rises for an hour. Divide into eight portions; each rolls into an oval football shape, pointed at both ends. Slash lengthways with a sharp knife or razor. Second rise for twenty-five minutes. Bake at 220°C with steam (a tray of hot water at the bottom of the oven) until deep gold and the slash has opened. Eat warm with hummus, falafel, or stuffed with quzi lamb.
 
 ## Ingredients
 

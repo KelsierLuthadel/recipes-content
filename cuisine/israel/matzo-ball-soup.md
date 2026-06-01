@@ -11,7 +11,7 @@
 **Cook Time:** 2 ½ hours
 
 ## Overview
-Two parallel jobs: a long-simmered chicken broth made from a whole bird with onion, carrot and celery, skimmed clean and finished with dill; and the matzo balls themselves, made from matzo meal, eggs, schmaltz and seltzer, rested in the fridge for the gluten to relax. The balls poach in salted water (never the broth, or the broth clouds), then sit in the hot broth at serving time. Light, comforting, traditional.
+Matzo ball soup is the Jewish-American comfort dish, light fluffy matzo dumplings floating in a clear golden chicken broth, the bowl that anchors every Passover seder and every Jewish-grandmother-style remedy for a cold. Two parallel jobs: a long-simmered chicken broth made from a whole bird with onion, carrot and celery, skimmed clean and finished with dill; and the matzo balls themselves, made from matzo meal, eggs, schmaltz and seltzer, rested in the fridge for the gluten to relax. The balls poach in salted water (never the broth, or the broth clouds), then sit in the hot broth at serving time. Light, comforting, traditional. Eat with a wedge of challah on the side.
 
 ## Ingredients
 

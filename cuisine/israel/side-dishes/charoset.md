@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-The Ashkenazi version, simplest and most common in northern Europe and the United States: tart apples chopped fine, walnuts crushed coarse, cinnamon, a little brown sugar, and sweet kosher red wine to bind. Stirred together and left for the flavours to meld. Some households add a pinch of ground ginger or a squeeze of lemon. There are dozens of regional variants (Sephardi versions use dates and figs); this one is the most familiar at a North American seder.
+Charoset is the Passover seder centrepiece, a sweet apple-and-walnut compote that symbolises the mortar the Israelites used to build the pyramids of Egypt during their enslavement, eaten with a piece of bitter herb as part of the ritual meal. The Ashkenazi version, simplest and most common in northern Europe and the United States: tart apples chop fine, walnuts crush coarse, a little cinnamon, a touch of brown sugar, and sweet kosher red wine to bind. Stir together and leave for the flavours to meld for at least an hour. Some households add a pinch of ground ginger or a squeeze of lemon. There are dozens of regional variants (Sephardi versions use dates and figs); this one is the most familiar at a North American seder.
 
 ## Ingredients
 

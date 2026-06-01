@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 20 minutes
 
 ## Overview
-A clear, golden chicken broth fortified with a freshly pounded turmeric, lemongrass and shallot paste, finished with coconut milk and a squeeze of lime. The dish is built in three layers: a slow-simmered chicken stock, a fried spice paste that becomes the soup's backbone, and quick-soaked rice vermicelli to carry it all. Comforting and aromatic in equal measure.
+Soto ayam is the Indonesian chicken soup, a clear golden broth perfumed with turmeric, lemongrass and shallot paste, finished with coconut milk and a squeeze of lime, served over rice vermicelli with all the toppings. A clear golden chicken broth fortifies with a freshly pounded turmeric, lemongrass and shallot paste, finished with coconut milk and a squeeze of lime. The dish builds in three layers: a slow-simmered chicken stock, a fried spice paste that becomes the soup's backbone, and quick-soaked rice vermicelli to carry it all. Garnish each bowl with hard-boiled egg, shredded chicken, fried shallots, lime wedges, chopped celery and chilli sambal. Comforting and aromatic in equal measure; the kind of soup you eat at any hour.
 
 ## Ingredients
 

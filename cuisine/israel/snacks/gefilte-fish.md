@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-A mix of white-fleshed fish (carp, pike, whitefish, or a more modern blend of cod and haddock) is ground with grated onion, eggs, matzo meal and a little sugar, then formed into quenelles. The quenelles poach gently in a broth made from the fish skin, heads and bones with onion and carrot. After an hour they are lifted out and chilled overnight in the strained broth; some of the broth jellies as it cools, which is the point. Served cold, on a leaf of lettuce, with a generous spoon of horseradish.
+Gefilte fish is the cold-served Ashkenazi Jewish fish dish, poached quenelles of ground white fish bound with egg and matzo meal, served on a leaf of lettuce with a generous spoon of fierce horseradish, the dish that anchors every Jewish Passover and Friday-night dinner across Eastern Europe and its diaspora. A mix of white-fleshed fish (carp, pike, whitefish, or a more modern blend of cod and haddock) grinds with grated onion, eggs, matzo meal and a little sugar, then forms into quenelles. The quenelles poach gently in a broth made from the fish skin, heads and bones with onion and carrot. After an hour they lift out and chill overnight in the strained broth; some of the broth jellies as it cools, which is the point. Serve cold, on a leaf of lettuce, with a generous spoon of horseradish.
 
 ## Ingredients
 

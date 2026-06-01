@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A simple flour-oil-water dough with a little turmeric for colour rests briefly while the filling cooks down. Cooked chickpeas are pulsed (not pureed) with caramelised onion, cumin, sumac and parsley. Dough rolls to 3 mm; cut in rounds; spoon in filling; fold to half-moon; crimp with a fork or twist a rope edge. Either deep-fried at 175°C until amber-gold, or brushed with egg, sprinkled with sesame and baked at 200°C. The texture is half-pastry, half-cracker, and the filling is dry and warmly spiced.
+Sambusak are the small Iraqi savoury pastries, dough rounds filled with sumac-and-cumin chickpea, fried or baked golden, the meze-platter staple and the proper accompaniment to mid-morning tea. A simple flour-oil-water dough with a touch of turmeric for colour rests briefly while the filling cooks down. Cooked chickpeas pulse (not puree) with caramelised onion, cumin, sumac and parsley. Dough rolls to 3 mm; cuts into rounds; the filling spoons onto half; fold to a half-moon; crimp with a fork or twist a rope edge. Either deep-fry at 175°C until amber-gold, or brush with egg, sprinkle with sesame and bake at 200°C. The texture is half-pastry, half-cracker; the filling is dry and warmly spiced.
 
 ## Ingredients
 

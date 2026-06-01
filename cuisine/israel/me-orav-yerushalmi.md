@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A mix of chicken livers, hearts, spleen (if you can get it) and small chunks of lamb shoulder, all hit hot on a flat griddle with sliced onion that cooks down sweet. Spice blend: baharat, turmeric, paprika, cumin, black pepper. Olive oil generously. Cooked fast in batches so nothing steams. Stuffed into pita with hummus, pickles, tahina and amba.
+Me'orav Yerushalmi is the original Jerusalem mixed grill, named for the city itself, a late-night Mahane Yehuda market sandwich of mixed chicken organs and lamb on a flat-top griddle, stuffed into pita with all the trimmings. A mix of chicken livers, hearts, spleen (if you can get it) and small chunks of lamb shoulder all hit hot on a flat griddle with sliced onion that cooks down sweet. Spice blend: baharat, turmeric, paprika, cumin, black pepper. Olive oil generously. Cook fast in batches so nothing steams. Stuff into pita with hummus, pickles, tahina and a generous spoon of amba (the Iraqi-Jewish pickled mango sauce that defines the modern Israeli sandwich).
 
 ## Ingredients
 

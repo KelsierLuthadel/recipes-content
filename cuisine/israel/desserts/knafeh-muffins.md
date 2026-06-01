@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (plus 15 minutes for syrup)
 
 ## Overview
-The classical knafeh nablusi - pan-sized, layered, drenched in syrup, cut into wedges - translated into individual muffin portions. Kataifi pastry (shredded filo) gets tossed with melted butter until every strand is gilded. Half goes into the cups of a buttered muffin tin and is pressed firm. A mix of ricotta and shredded mozzarella, lightly sweetened and scented with cardamom, goes in the middle. The rest of the kataifi caps each muffin. Bake hot until the tops crisp deeply. A lukewarm sugar syrup scented with rose water and a touch of lemon goes over the moment they come out - the syrup hisses and soaks in. Eaten warm, with cheese still pulling.
+Knafeh muffins are the individual portion version of the classical knafeh Nabulsi, the cheese-and-shredded-filo dessert from Nablus translated from a pan-sized layered showpiece into muffin-tin individual servings. Kataifi pastry (shredded filo) tosses with melted butter until every strand is gilded. Half goes into the cups of a buttered muffin tin and presses firm. A mix of ricotta and shredded mozzarella, lightly sweetened and scented with cardamom, fills the middle. The rest of the kataifi caps each muffin. Bake hot until the tops crisp deeply. A lukewarm sugar syrup scented with rose water and a touch of lemon pours over the moment they come out, the syrup hisses and soaks in. Eat warm, with the cheese still pulling.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Onion is softened in oil; sweet paprika blooms off the heat (don't burn it). Strips of yellow pepper go in next to soften. Tomatoes follow; the lot stews until the peppers are silky and the sauce has reduced to a thick, jammy compote. Often finished with eggs or an egg yolk for richness.
+Lecsó is the Hungarian summer-pepper stew, sweet bell peppers and tomatoes slow-cooked into a thick jammy compote perfumed with paprika and caraway, the dish that uses up the August pepper glut and becomes the eternal Hungarian basic. Onion softens in oil; sweet Hungarian paprika blooms off the heat (don't burn it). Strips of yellow pepper go in next to soften. Chopped tomatoes follow; the lot stews until the peppers are silky and the sauce has reduced to a thick, jammy compote. Often finished with eggs or an egg yolk for richness. Eat hot with crusty bread, or cool and use as a base for chicken or sausage stews.
 
 ## Ingredients
 

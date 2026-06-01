@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Onions are softened slowly with sweet paprika, tomato joins, then chicken thighs braise in the sauce until tender. Sour cream is stirred in off the heat for the velvety finish. Served over buttered egg noodles, with extra paprika sprinkled on top.
+Chicken paprikash is the Hungarian comfort-dish every Magyar grandmother makes from memory, slow-cooked chicken thighs in a deep red paprika-and-cream sauce served over buttered egg noodles. Onions soften slowly with sweet Hungarian paprika in butter (the paprika MUST go in off the heat, otherwise it burns and turns bitter); chopped tomato joins for body. Chicken thighs braise in the sauce for forty minutes until tender and falling off the bone. Sour cream stirs in off the heat for the velvety finish; never boil the sauce after the sour cream goes in or it splits. Serve over buttered egg noodles with extra paprika sprinkled on top and a side of pickled cucumber.
 
 ## Ingredients
 

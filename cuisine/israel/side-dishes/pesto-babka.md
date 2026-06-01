@@ -11,7 +11,7 @@
 **Cook Time:** 45-50 minutes
 
 ## Overview
-Babka - at its sweet best as the chocolate version - turns out to be a wonderful vehicle for savoury fillings. The dough is the same enriched milk-and-butter base: pillow-soft, gold-yellow, kneaded long until it pulls smooth. The filling here is pesto (basil or, in season, ramp/wild garlic) and a generous grating of sharp cheddar. The dough rolls into a long log, gets sliced lengthways down the middle so the cut sides face up, then twisted into a rope and curled into a wreath on the tray. Risen, egg-washed, baked. The cut faces of the twist open as it bakes, exposing layered green-and-yellow swirls.
+Babka, at its sweet best as the chocolate version, turns out to be a wonderful vehicle for savoury fillings. The dough is the same enriched milk-and-butter base: pillow-soft, gold-yellow, kneaded long until it pulls smooth. The filling here is pesto (basil or, in season, ramp or wild garlic) and a generous grating of sharp cheddar. The dough rolls into a long log, gets sliced lengthways down the middle so the cut sides face up, then twists into a rope and curls into a wreath on the tray. Rise, egg-wash, bake. The cut faces of the twist open as it bakes, exposing layered green-and-yellow swirls. Eat warm with soup, or alongside a salad.
 
 ## Ingredients
 

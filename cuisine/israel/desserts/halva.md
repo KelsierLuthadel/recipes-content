@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A sugar syrup is cooked to soft-ball stage (118°C). Tahini is warmed slightly. The hot syrup is poured into the tahini and mixed with a wooden spoon just until ribbons form, this is the critical moment. Over-mix and halva turns to crumbs; under-mix and it stays soft. Poured into a lined tin; pistachios are sprinkled on top; set at room temp 4 hours.
+Halva is the Middle Eastern tahini fudge, flaky-melting blocks of crystallised sugar syrup whipped into tahini, perfumed with cardamom and topped with pistachios, sold by weight at every market across the Levant. A sugar syrup cooks to soft-ball stage (118°C). Tahini warms slightly. The hot syrup pours into the tahini and mixes with a wooden spoon just until ribbons form, this is the critical moment. Over-mix and halva turns to crumbs; under-mix and it stays soft. Pour into a lined tin; sprinkle pistachios on top; set at room temperature for four hours. Cut into thick squares; eat with strong coffee.
 
 ## Ingredients
 - 500 g tahini (smooth, well-stirred - old separated tahini won't work)

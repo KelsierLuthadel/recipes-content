@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Pork belly cooks slow with its own fat (rendered chicharrón); cassava boils in salted water until tender, then drains; both go on the same plate. The chicharrón is broken into bite-sized pieces over the yuca. A simple curtido of cabbage, carrot and vinegar lifts the plate.
+Yuca con chicharrón is the Honduran fair-day snack, the dish that turns up at every Sunday market and roadside stall, slow-rendered pork belly piled on top of boiled cassava with a sharp slaw to cut the richness. Pork belly cooks slow with its own fat (rendered chicharrón); cassava boils in salted water until tender, then drains; both go on the same plate. The chicharrón breaks into bite-sized pieces over the yuca. A simple curtido of cabbage, carrot and vinegar lifts the plate. Eat with your fingers, in the sun.
 
 ## Ingredients
 

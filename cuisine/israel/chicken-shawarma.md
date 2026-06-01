@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Chicken thighs marinate 6+ hours in baharat, turmeric, paprika, cumin, garlic, yogurt, lemon, olive oil. Stacked or spread on a tray (the home shortcut), roasted hot 25 minutes turning once, finished briefly under the grill until charred edges. Sliced thin and stuffed into pita with all the accompaniments.
+Chicken shawarma is the home-cook version of the Levantine spit-roasted chicken, marinated dark with baharat and yogurt, roasted hot on a tray and finished under the grill until the edges char. Chicken thighs marinate six-plus hours in baharat, turmeric, paprika, cumin, garlic, yogurt, lemon and olive oil. Stack them or spread them on a tray (the home shortcut for a vertical spit), roast hot for twenty-five minutes turning once, finish briefly under the grill until the edges char. Slice thin and stuff into warm pita with hummus, tahina, pickles, fresh salad and a drizzle of amba sauce.
 
 ## Ingredients
 

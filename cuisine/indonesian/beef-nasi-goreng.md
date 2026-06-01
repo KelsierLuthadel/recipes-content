@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Indonesia's national fried rice, traditionally a way to put yesterday's leftovers to work and now a fixture from street stalls to weeknight kitchens. Beef mince keeps the cooking time short, while kecap manis, soy, shrimp paste and a crumbled stock cube layer the savouriness from four directions. The trick is pressing the rice into the wok and leaving it alone long enough to pick up a proper char before tossing.
+Nasi goreng is Indonesia's national fried rice, the leftover-rescue dish that became one of the great Southeast Asian wok preparations, eaten on every Indonesian breakfast table and at every street stall after dark. Beef mince keeps the cooking time short, while kecap manis (sweet thick soy), regular soy, shrimp paste and a crumbled stock cube layer the savouriness from four directions. The trick is pressing the rice into the wok and leaving it alone long enough to pick up a proper char before tossing; this is what separates a great nasi goreng from a wet stir-fry. Garnishes are non-negotiable: a fried egg with a runny yolk on top, a scatter of fried shallots, cucumber slices, prawn crackers on the side. Eat fast, while the egg is still hot.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes (plus 3 hours setting)
 
 ## Overview
-Cornflour whisks into a small amount of cold milk to a slurry. The rest of the milk warms with cream and sugar; the slurry pours in; the mixture cooks for 4-5 minutes until thick and silky. Rosewater stirs in off the heat; the lot pours into glasses to set in the fridge. The syrup of rosewater, sugar and a touch of grenadine pours over before serving.
+Malabi is the Middle Eastern milk pudding, a silky cornflour-thickened cream perfumed with rosewater and crowned with a ruby-pink syrup, sold in plastic cups from street stalls across Tel Aviv and Beirut. Cornflour whisks into a small amount of cold milk to make a slurry. The rest of the milk warms with cream and sugar; the slurry pours in; the mixture cooks for four to five minutes until thick and silky. Rosewater stirs in off the heat; the lot pours into glasses to set in the fridge. A syrup of rosewater, sugar and a touch of grenadine pours over before serving. Top with chopped pistachios and shredded coconut.
 
 ## Ingredients
 

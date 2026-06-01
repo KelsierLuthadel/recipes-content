@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Dried chickpeas soak overnight with a teaspoon of baking soda. Cook for 60-75 minutes with baking soda until very soft. Reserve a small handful of whole chickpeas as garnish. Blend hot chickpeas with garlic, lemon, salt, ice cubes (yes, they help the emulsion) and a generous quantity of good tahini. Result: smooth, silky, pale-gold. Plate in a wide bowl; swirl with the back of a spoon; top with chickpeas, paprika, parsley, olive oil, cumin.
+Hummus is the great Levantine chickpea-tahini dip, smoothed silky-pale-gold, swirled with the back of a spoon, pooled with olive oil and topped with whole chickpeas, the most-eaten dip in the modern Middle East. Dried chickpeas soak overnight with a teaspoon of baking soda. Cook for sixty to seventy-five minutes with more baking soda until very soft. Reserve a small handful of whole chickpeas as garnish. Blend the hot chickpeas with garlic, lemon, salt, ice cubes (yes, they help the emulsion stay smooth) and a generous quantity of good tahini. The result: smooth, silky, pale-gold. Plate in a wide bowl; swirl with the back of a spoon; top with the reserved chickpeas, paprika, parsley, olive oil and a dust of cumin. Eat warm with pita.
 
 ## Ingredients
 

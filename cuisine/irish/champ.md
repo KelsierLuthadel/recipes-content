@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Spring onions infuse hot milk for 10 minutes off the heat. Floury potatoes boil and dry; everything mashes together with a generous amount of butter. The classic finish: a hollow scooped out of the centre of the mound on each plate, filled with melting butter.
+Champ is the Northern Irish mashed potato, a generous mound of floury mash infused with spring onions and crowned with a pool of melted butter, the dish that lands beside every Ulster Sunday roast. Spring onions infuse hot milk for ten minutes off the heat (this is the gentle step that gives champ its faint onion perfume without raw bite). Floury potatoes (Maris Piper, Kerr's Pink) boil and dry; everything mashes together with a generous amount of butter and the infused milk. The classic finish: a hollow scooped out of the centre of the mound on each plate, filled with a knob of melting butter. Eat with bacon, with sausages, or just with more butter.
 
 ## Ingredients
 

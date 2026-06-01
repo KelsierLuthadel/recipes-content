@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (plus 4 hours chilling)
 
 ## Overview
-Five thin discs of almond-meringue (a French dacquoise) bake low and slow. They sandwich with a cognac and vanilla French-style buttercream (a pâte à bombe enriched with butter). The top is sealed with a thin layer of buttercream then iced with white fondant; melted dark chocolate is piped in concentric circles into the wet fondant and pulled into a spider-web with a skewer. Sides masked with toasted flaked almonds.
+Eszterházy torte is the Hungarian almond-meringue layer cake named for Prince Pál Antal Esterházy, the foreign minister of Austro-Hungary in the 19th century, instantly recognisable by the chocolate-and-fondant spider web on top. Five thin discs of almond-meringue (a French dacquoise) bake low and slow until crisp and lifted. They sandwich with a cognac-and-vanilla French-style buttercream (a pâte à bombe enriched with butter). The top seals with a thin layer of buttercream, then ices with white fondant; melted dark chocolate pipes in concentric circles into the wet fondant and pulls into a spider-web pattern with a skewer (the move that makes the cake recognisable across Central Europe). Sides mask with toasted flaked almonds.
 
 ## Ingredients
 

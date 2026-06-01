@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The plantains are peeled and cut lengthways into 5 mm slices, then fried in a shallow pool of vegetable oil until deep gold. Ripe (yellow with black spots) plantains caramelise sweet and turn soft; green plantains stay starchy and crisp. Each works, depending on what's on the plate.
+Tajadas are the Honduran fried plantain slices that turn up beside every main, the country's defining starch, sweet or savoury depending on the plantain's ripeness. Peel the plantains and cut lengthways into 5 mm slices, then fry in a shallow pool of vegetable oil until deep gold. Ripe (yellow with black spots) plantains caramelise sweet and turn soft; green plantains stay starchy and crisp. Each version works, depending on what's on the plate. Salt while hot from the oil.
 
 ## Ingredients
 

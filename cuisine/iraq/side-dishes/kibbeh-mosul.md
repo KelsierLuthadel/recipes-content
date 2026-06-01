@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Fine bulgur soaks for 30 minutes. Lamb mince blends with bulgur, grated onion, allspice, salt to a smooth paste. Filling: lamb mince cooked with onion, garlic, allspice, pine nuts and pomegranate molasses, cooled. Half the shell paste spreads in a wide oiled baking tin; filling spreads over; remaining shell paste tops it. Scored into diamonds; drizzled with samna; baked for 30 minutes.
+Kibbeh Mosul is the baked-tray version of kibbeh from the northern Iraqi city of Mosul, layered bulgur-and-lamb paste sandwiching a spiced lamb-and-pine-nut filling, scored into diamonds and baked until the top crisps gold. Fine bulgur soaks for half an hour. Lamb mince blends with the bulgur, grated onion, allspice and salt to a smooth paste. The filling: lamb mince cooks with onion, garlic, allspice, pine nuts and pomegranate molasses; cools fully. Half the shell paste spreads in a wide oiled baking tin; filling spreads over; the remaining shell paste tops it. Score into diamonds; drizzle with samna; bake for thirty minutes at 200°C. Cut along the scored lines; serve hot with yogurt.
 
 ## Ingredients
 

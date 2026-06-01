@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes (with a hot stone)
 
 ## Overview
-A simple yeasted dough, flour, yeast, salt, sugar, olive oil, warm water. Rises for 1 hour. Divides into 8 portions; rolls into thin discs about 18 cm wide; rests for 20 minutes. Baked at maximum heat on a hot baking stone 2-3 minutes, they puff dramatically into balloons and fall flat as they cool, leaving a pocket.
+Pita is the Levantine flatbread that puffs into a hollow pocket in the oven and deflates as it cools, the bread under every shawarma, falafel and Israeli sandwich. A simple yeasted dough (flour, yeast, salt, sugar, olive oil, warm water) rises for an hour. Divide into eight portions; roll into thin discs about 18 cm wide; rest for twenty minutes so the gluten relaxes. Bake at maximum heat on a hot baking stone for two to three minutes; the discs puff dramatically into balloons and fall flat as they cool, leaving the signature pocket inside. Eat the day they're baked, warm if possible.
 
 ## Ingredients
 

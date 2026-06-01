@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Jasmine or basmati rice rinses, soaks for 30 minutes. Coconut milk, water, fresh turmeric (grated or pulped), lemongrass (bashed), kaffir lime leaves, salt and a knob of butter heat to a simmer. Rice drains; tips into the simmering coconut milk; absorbs the liquid over 18 minutes covered on low heat. Rests for 5 minutes off heat. Fluffed; lemongrass and lime leaves removed. Serves with sambal, fried egg, fried shallots.
+Nasi kuning is the Indonesian celebratory yellow rice, jasmine cooked in coconut milk with fresh turmeric, lemongrass and kaffir lime, served at birthdays, weddings and the Indonesian Independence Day. Jasmine or basmati rinses, soaks for thirty minutes. Coconut milk, water, fresh turmeric (grated or pulped), lemongrass (bashed), kaffir lime leaves, salt and a knob of butter heat to a simmer. The drained rice tips into the simmering coconut milk; absorbs the liquid over eighteen minutes covered on low heat. Rest for five minutes off heat. Fluff; pick out the lemongrass and lime leaves. Serve with sambal, fried egg, fried shallots and any Indonesian curry.
 
 ## Ingredients
 - 400 g long-grain rice (jasmine or basmati)

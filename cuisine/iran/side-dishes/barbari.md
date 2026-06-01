@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes (with a hot stone)
 
 ## Overview
-A wet yeasted dough, high hydration (75%) of strong flour, yeast, salt, water and a touch of oil. Long first rise. Two portions; each stretches to a 40-50 cm long oval on an oiled work surface. A flour-water paste (roomal) brushes over the top, this gives the signature glossy crust. Deep parallel ridges press down with fingertips. Sesame and nigella seeds scatter. Baked at maximum heat 5-7 minutes on a screaming-hot stone.
+Barbari is the Persian morning flatbread, long oval loaves with deep parallel ridges down the surface and a sesame-and-nigella seed crown, sold from neighbourhood bakeries across Iran from sunrise to mid-morning. A wet yeasted dough, high hydration (75%) of strong flour, yeast, salt, water and a touch of oil. Long first rise. Two portions; each stretches to a 40-50 cm long oval on an oiled work surface. A flour-water paste (roomal) brushes over the top to give the signature glossy crust. Deep parallel ridges press down with fingertips along the length. Sesame and nigella seeds scatter generously. Bake at maximum heat for five to seven minutes on a screaming-hot stone. Eat warm, torn by hand, with feta cheese, walnuts and fresh herbs for the proper Persian breakfast.
 
 ## Ingredients
 

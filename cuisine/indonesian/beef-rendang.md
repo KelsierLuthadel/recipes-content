@@ -8,7 +8,7 @@
 **Prep Time:** 25 minutes
 
 ## Overview
-Rendang is a spicy meat dish which originated from the Minangkabau ethnic group of Indonesia, and is now commonly served across the country. One of the characteristic foods of Minangkabau culture, it is served at ceremonial occasions and to honour guests. This rich, aromatic curry features beef slowly simmered in coconut milk and spices until deeply flavoured.
+Rendang is the slow-braised beef-and-coconut curry from the Minangkabau people of West Sumatra, traditionally served at ceremonial occasions and to honour guests, now eaten across the whole Indonesian archipelago. You build a generous spice paste of shallot, garlic, ginger, galangal, lemongrass, turmeric and chilli, then fry it in oil until fragrant. Beef shin or chuck simmers slowly in coconut milk with the paste, kaffir lime leaves and toasted coconut for three to four hours; the liquid reduces all the way down until the oil separates from the solids and the meat picks up the dark mahogany of properly caramelised rendang. The longer it cooks the better; the second day it's even better. Serve with steamed rice and a sambal on the side.
 
 ## Ingredients
 

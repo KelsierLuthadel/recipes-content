@@ -20,7 +20,8 @@ tags:
   - lime
   - coriander
   - complex
-mentions: []
+mentions:
+  - tutorials/pizza/toppings
 ingredients:
   - qty: 2
     unit: tbsp

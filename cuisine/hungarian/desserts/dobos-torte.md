@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes (plus 4 hours chilling)
 
 ## Overview
-Six thin sponge discs are baked separately at high heat for 6-8 minutes each. Five are layered with a French-style chocolate buttercream made from a hot sugar syrup whipped into yolks then enriched with butter and melted dark chocolate. The sixth disc gets glazed with hard caramel while still warm, marked into twelve wedges before it sets, and crowns the cake. Sides masked with more buttercream and dusted with toasted chopped hazelnuts.
+Dobos torte is the Hungarian patisserie showpiece, six paper-thin sponge layers sandwiched with chocolate buttercream and crowned with a single sponge disc glazed in hard caramel, invented by József Dobos in Budapest in 1884 and still the gold standard of Central European cake-craft. You bake six thin sponge discs separately at high heat for six to eight minutes each. Five of them layer with a French-style chocolate buttercream made from a hot sugar syrup whipped into yolks then enriched with butter and melted dark chocolate. The sixth disc gets glazed with hard caramel while still warm, marked into twelve wedges before it sets, and crowns the cake. Sides mask with more buttercream and dust with toasted chopped hazelnuts. Eat in thin slices with strong coffee.
 
 ## Ingredients
 

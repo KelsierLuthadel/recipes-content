@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Split mung beans (the green hulled kind) soak optionally 4 hours (cuts cooking time in half but not essential). Beans simmer in water with knotted pandan leaves, sliced ginger and a pinch of salt for 35-45 minutes until soft and split. Palm sugar dissolves in; cooks another 5 minutes. To serve: ladle into bowls; pour thick warm coconut milk over the top. Optional toppings: a sprinkle of fried shallots, a spoon of toasted black sesame, or chunks of toasted sweet bread (the Surabaya street-cart way).
+Bubur kacang hijau is the Indonesian breakfast porridge of split mung beans, palm sugar and pandan, served warm in shallow bowls with thick coconut milk poured over the top, the kind of comfort food that turns up at street stalls in the morning across Java and Bali. Split mung beans (the green hulled kind) soak optionally for four hours (cuts cooking time in half but not essential). Beans simmer in water with knotted pandan leaves, sliced ginger and a pinch of salt for thirty-five to forty-five minutes until soft and just-split. Palm sugar dissolves in; cooks another five minutes. Ladle into bowls; pour thick warm coconut milk over the top. Optional toppings: a sprinkle of fried shallots, a spoon of toasted black sesame, or chunks of toasted sweet bread (the Surabaya street-cart way).
 
 ## Ingredients
 

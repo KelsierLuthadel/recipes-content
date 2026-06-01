@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (in batches)
 
 ## Overview
-A simple flour-water-oil dough rests for 1 hour (gluten relaxes; will roll paper-thin). Filling: beef mince cooks with shallot, garlic, ginger, curry-leaf, ground spices till dry and aromatic; cools; mixes with beaten eggs, spring onion and chopped coriander just before frying. Dough divides; each portion stretches paper-thin like a strudel; filling spoons in the centre; the edges fold over to make a flat square parcel; pan-fries for 3 minutes per side. Cuts in quarters; eats with chilli-pickle sauce.
+Martabak telur is the Indonesian savoury folded pancake, paper-thin dough wrapped around a filling of spiced beef mince and egg, pan-fried golden and cut into squares for sharing, the night-market snack of Java and Sumatra. A simple flour-water-oil dough rests for an hour (gluten relaxes; the dough will then roll paper-thin like strudel). The filling: beef mince cooks with shallot, garlic, ginger, curry leaves and ground spices until dry and aromatic; cools; mixes with beaten eggs, spring onion and chopped coriander just before frying. The dough divides; each portion stretches paper-thin on an oiled surface; the filling spoons in the centre; the edges fold over to make a flat square parcel; pan-fries for three minutes per side. Cut in quarters; eat with chilli-pickle sauce.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A mix of raw and lightly-blanched vegetables; firm tofu pan-fried; hard-boiled eggs halved. The peanut sauce is built fresh from roasted peanuts blended with garlic, chilli, kecap manis, tamarind, lime and water. Pour over at the table; toss; eat.
+Gado-gado is the Indonesian composed salad with peanut sauce, a plate of vegetables (raw and lightly-blanched), tofu, eggs and rice cakes drowned in fresh peanut dressing, the dish that anchors Jakarta's street stalls and the Indonesian dinner table alike. A mix of raw and lightly-blanched vegetables (cabbage, green beans, carrots, bean sprouts, cucumber); firm tofu pan-fried golden; hard-boiled eggs halved. The peanut sauce is built fresh from roasted peanuts blended with garlic, chilli, kecap manis, tamarind, lime and water until thick and pourable. Pour over the platter at the table; toss; eat. Each plate tastes slightly different depending on what vegetables were on hand.
 
 ## Ingredients
 

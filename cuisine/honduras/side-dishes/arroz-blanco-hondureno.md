@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Long-grain rice is toasted briefly in oil with onion, garlic and sometimes a small piece of bell pepper. Hot water and salt go in; the pot is covered tightly and the rice cooks undisturbed for 18 minutes. Five minutes' rest off the heat finishes the steaming. The grains stay separate.
+Honduran white rice is the foundation under every Honduran main, simple long-grain toasted with aromatics and steamed until each grain stays separate. Long-grain rice toasts briefly in oil with onion, garlic and sometimes a small piece of bell pepper. Hot water and salt go in; the pot covers tight and the rice cooks undisturbed for eighteen minutes; five minutes' rest off the heat finishes the steaming. The grains stay separate, faintly perfumed with sweated onion. Serve with refried beans and any Honduran main.
 
 ## Ingredients
 

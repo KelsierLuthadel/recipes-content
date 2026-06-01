@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Firm tofu blocks halve crossways into triangles. A small slit cuts into each triangle to make a pocket. Vegetable filling stir-fries quickly with shallot, garlic, soy sauce and a pinch of sugar; cools. Pockets stuff with filling. Stuffed tofu dips into a thin rice-flour batter; fries in moderately hot oil 3-4 minutes till crisp gold all over. Eats hot with whole fresh chillies on the side and a saucer of sweet-soy dip.
+Tahu isi is the Indonesian stuffed tofu, firm tofu triangles slit open and stuffed with a quick stir-fried vegetable filling, then dipped in batter and deep-fried until the outside crisps gold. Firm tofu blocks halve crossways into triangles; a small slit cuts into each triangle to make a pocket. A vegetable filling stir-fries quickly with shallot, garlic, soy sauce and a pinch of sugar; cools. The pockets stuff with the filling. Stuffed tofu dips into a thin rice-flour batter and fries in moderately hot oil for three to four minutes until crisp gold all over. Eat hot with whole fresh chillies on the side and a saucer of sweet-soy dip.
 
 ## Ingredients
 

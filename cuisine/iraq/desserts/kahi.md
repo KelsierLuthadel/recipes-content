@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A simple flour-and-water dough rests for 30 minutes. Stretches paper-thin on an oiled surface (filo-style). Brushed with melted samna; folded into a long strip; coiled into a flat round; rolled flat. Pan-baked or oven-baked at 200°C until darkly gold. Plunged briefly into hot saffron-cardamom-rose sugar syrup. Topped with thick clotted cream (geymar, or substitute Devonshire / Cornish clotted cream).
+Kahi is the Iraqi Friday-morning breakfast pastry, a paper-thin laminated dough fried crisp then dunked briefly in saffron-cardamom-rose syrup and crowned with thick clotted cream, the kind of dish that bridges the gap between savoury bread and sweet pastry. A simple flour-and-water dough rests for half an hour. Stretches paper-thin on an oiled surface (filo-style). Brush with melted samna (Iraqi clarified butter); fold into a long strip; coil into a flat round; roll flat. Pan-bake or oven-bake at 200°C until darkly gold. Plunge briefly into hot saffron-cardamom-rose sugar syrup. Top with thick clotted cream (geymar in Iraqi, or substitute Devonshire or Cornish clotted cream). Eat hot, with cardamom tea, on a Friday morning.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Basmati rinses and soaks for 20 minutes. Cooked frozen broad beans (or shelled fresh) heat through with butter and a knob of dill. Rice cooks absorption-style in stock with saffron, broad beans, dill folded in halfway through. Rest for 5 minutes; fluff.
+Timman bagilla is the Iraqi broad-bean rice, basmati cooked with broad beans, fresh dill and a generous slick of saffron-butter, the springtime side dish that anchors every Iraqi spring lunch. Basmati rinses and soaks for twenty minutes. Cooked frozen broad beans (or shelled fresh) heat through with butter and a knob of chopped dill. Rice cooks absorption-style in stock with saffron, broad beans and dill folded in halfway through. Rest for five minutes off the heat; fluff. Serve hot with grilled meat or stewed lamb.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Rice cooks slowly in lots of water until tender and mashable. Sugar dissolves with bloomed saffron; the lot simmers until thick, like loose porridge. Rosewater and a knob of butter join near the end; the pudding pours into shallow dishes to set. Cinnamon dust and pistachio patterns top each serving.
+Sholeh zard is the Persian saffron rice pudding, a luminous yellow set pudding scented with rosewater and crowned with cinnamon-and-pistachio patterns, traditionally made for Ashura, weddings and to commemorate family loved ones. Rice cooks slowly in lots of water until tender and mashable. Sugar dissolves with bloomed saffron; the lot simmers until thick, like a loose porridge. Rosewater and a knob of butter join near the end; the pudding pours into shallow dishes to set. Cinnamon dust and chopped pistachios pattern each serving, often spelling out "Ya Hossein" or "Allah" on celebratory dishes. Eat at room temperature or chilled, with strong tea.
 
 ## Ingredients
 

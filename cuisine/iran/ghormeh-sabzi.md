@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Onion fries deep golden in oil; turmeric and a touch of cinnamon toast in. Cubed lamb browns alongside. Herbs (huge quantities, 6 cups chopped) fry hard in their own pan in oil for 20 minutes until very dark. Everything combines with dried limes and stock; simmers for 90 minutes. Soaked kidney beans go in for the last 30 minutes.
+Ghormeh sabzi is the Persian herb stew often called Iran's national dish, dark green from huge quantities of fried herbs, sour from dried Persian limes, rich from slow-cooked lamb, the kind of dish a Persian grandmother insists has to be made today and eaten tomorrow. Onion fries deep golden in oil; turmeric and a touch of cinnamon toast in. Cubed lamb browns alongside. Herbs in huge quantities (six cups chopped, parsley, coriander, chives, fenugreek) fry hard in their own pan in oil for twenty minutes until very dark and concentrated; this is the dish's foundation. Everything combines with dried limes and stock; simmers for ninety minutes. Soaked kidney beans go in for the last thirty minutes. Serve over saffron rice with extra lime juice at the table.
 
 ## Ingredients
 

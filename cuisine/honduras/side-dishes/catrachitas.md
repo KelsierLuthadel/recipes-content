@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Small corn tortillas are shallow-fried until golden and crisp. While still hot, they're spread with warm refried beans and topped with crumbled queso fresco. A drizzle of chimol salsa is the standard finish; mantequilla and a slice of avocado are easy luxuries.
+Catrachitas are the Honduran snack named for the country's people themselves (catracho/catracha is the demonym), small fried tortillas topped with beans and cheese, the bar-snack and party-tray staple of Honduran tables. Small corn tortillas shallow-fry until golden and crisp. While still hot, you spread them with warm refried beans and top with crumbled queso fresco. A drizzle of chimol salsa is the standard finish; a spoonful of mantequilla and a slice of avocado are easy luxuries. Eat hot, by the dozen.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 45 minutes (or 25 minutes pressure-cooked)
 
 ## Overview
-Dried red beans soak overnight, simmer with onion, garlic and bay until tender, then are mashed (smooth or chunky) and fried in oil with a fresh chopped onion. The fry stage darkens, thickens and concentrates them. They keep for a week; better the next day.
+Frijoles fritos are the Honduran refried red beans that anchor nearly every Honduran plate, twice-cooked beans that go on tortillas, in baleadas, beside steak, on toast. Dried red beans soak overnight, simmer with onion, garlic and bay until tender, then mash (smooth or chunky, depending on the cook) and fry in oil with a fresh chopped onion. The fry stage darkens them, thickens them and concentrates the flavour. They keep a week in the fridge; better the next day; spreadable, scoopable, eternal.
 
 ## Ingredients
 

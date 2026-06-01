@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Smooth bulgur softened in hot water, then drained dry. Onion blitzed with baharat, salt and a splash of water to a slurry. Beef mince added and pulsed; bulgur folded through last so its grains stay intact rather than dissolving into the paste. The mixture is pressed into an oiled tin, smoothed flat, then scored into 5 cm diamonds with a sharp knife. Each diamond gets a small handful of pine nuts pressed onto its surface, plus a brush of olive oil. The tin bakes hot until the surface darkens and the inside firms up. Cut along the score lines, lift the diamonds out, serve with tahini sauce and a chopped salad.
+Kibbeh is the baked-tray version of the Levantine bulgur-and-meat dish, smooth bulgur and lamb mince pressed into a dish, scored into diamonds and baked until the surface darkens, the everyday Iraqi-Jewish home cook's answer to the elaborate stuffed-and-fried versions. Smooth bulgur softens in hot water, then drains dry. Onion blitzes with baharat, salt and a splash of water to a slurry. Beef mince adds and pulses; bulgur folds through last so its grains stay intact rather than dissolving into the paste. The mixture presses into an oiled tin, smooths flat, then scores into 5 cm diamonds with a sharp knife. Each diamond takes a small handful of pine nuts pressed onto its surface, plus a brush of olive oil. The tin bakes hot until the surface darkens and the inside firms up. Cut along the score lines, lift the diamonds out, serve with tahini sauce and a chopped salad.
 
 ## Ingredients
 

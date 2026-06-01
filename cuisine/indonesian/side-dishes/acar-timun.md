@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes (rests 1 hour)
 
 ## Overview
-Cucumber, carrot, shallot, chilli prep into thin slices or matchsticks. Salt rests for 10 minutes to draw moisture, drains. A simple dressing of vinegar, sugar, water and ginger whisks together. Vegetables toss with the dressing; rest for 1 hour at room temperature. Eats cool, never refrigerated cold; the texture suffers.
+Acar timun is the Indonesian quick pickle, sweet-sour shreds of cucumber, carrot, shallot and chilli that cut through anything fatty or fried, the small side dish that lifts every Indonesian plate. Cucumber, carrot, shallot and chilli prep into thin slices or matchsticks. Salt rests for ten minutes to draw moisture out; drain. A simple dressing of white vinegar, sugar, water and grated ginger whisks together. The vegetables toss with the dressing and rest for an hour at room temperature. Eat cool, never refrigerated cold; the texture suffers when chilled. Serve with anything rich, fried or grilled.
 
 ## Ingredients
 - 2 cucumbers (small, about 300 g)

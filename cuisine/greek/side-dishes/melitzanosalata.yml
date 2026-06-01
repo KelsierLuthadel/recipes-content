@@ -11,7 +11,8 @@ tags:
   - onion
   - garlic
   - lemon
-mentions: []
+mentions:
+  - cuisine/israel/side-dishes/baba-ganoush
 ingredients:
   - qty: 3
     name: aubergines

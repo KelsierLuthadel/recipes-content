@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Chicken breasts butterfly and pound to 5 mm thick. Dredge through seasoned flour, beaten egg, then panko breadcrumbs mixed with paprika, garlic powder and a pinch of cumin. Shallow-fry in 1 cm of oil at 175°C 2-3 minutes per side until deep gold and crisp. Drain on paper. Lemon wedges.
+Schnitzel is the Eastern European Jewish breaded chicken cutlet that became the Israeli answer to the burger, pounded thin and fried golden, stuffed into pita or eaten with hummus and Israeli salad. Chicken breasts butterfly and pound to 5 mm thick. Dredge through seasoned flour, beaten egg, then panko breadcrumbs mixed with paprika, garlic powder and a pinch of cumin. Shallow-fry in 1 cm of oil at 175°C for two to three minutes per side until deep gold and crisp. Drain on paper. Serve with lemon wedges, pita and hummus.
 
 ## Ingredients
 

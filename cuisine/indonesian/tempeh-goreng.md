@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Tempeh is sliced into thick fingers; marinated in a paste of garlic, coriander seed, tamarind, salt and water. The batons drain briefly, then deep-fry in batches until crisp and deep golden. Best eaten hot, with kecap manis or sambal for dipping.
+Tempeh goreng is the Indonesian fried tempeh, thick batons of fermented soy bean marinated in garlic, coriander seed and tamarind, then deep-fried until the outside crisps and the inside stays firm-textured, eaten as a snack or a side at every Indonesian meal. Tempeh slices into thick fingers and marinates in a paste of garlic, coriander seed, tamarind, salt and water. The batons drain briefly, then deep-fry in batches until crisp and deep golden. Eat hot, with kecap manis (Indonesian sweet thick soy) or sambal for dipping; equally good cold the next day from the fridge as a snack.
 
 ## Ingredients
 

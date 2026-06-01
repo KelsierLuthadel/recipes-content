@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A two-stage dish. First, thin crepes (much thinner than a pancake - almost see-through) cooked one side only on a buttered pan, stacked under a clean cloth. Then a filling of farmer cheese (or ricotta drained well) mashed with egg yolk, sugar, vanilla and a little lemon zest. A heaping tablespoon of filling on the cooked side of each crepe, folded into a tight envelope, and fried briefly in butter on both sides until golden. Served warm with cold sour cream and a spoon of red-berry compote.
+Cheese blintzes are the Eastern European Jewish answer to the crepe-with-filling, paper-thin pancakes wrapped around sweetened farmer cheese, fried briefly in butter and served with sour cream and berry compote. The dish builds in two stages. First, thin crepes (much thinner than a pancake, almost see-through) cook on one side only on a buttered pan, stacked under a clean cloth. Then a filling of farmer cheese (or ricotta drained well) mashes with egg yolk, sugar, vanilla and a little lemon zest. A heaped tablespoon of filling on the cooked side of each crepe, folded into a tight envelope, then fried briefly in butter on both sides until golden. Serve warm with cold sour cream and a spoon of red-berry compote.
 
 ## Ingredients
 

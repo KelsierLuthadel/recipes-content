@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Steak (a thin cut like skirt or sirloin) is marinated briefly with sour orange, garlic and cumin, then grilled or seared hard. Plantain is sliced and fried until deep gold. Rice is cooked white. Refried beans are warmed through; mantequilla is whisked smooth; avocado is sliced; tortillas are warmed. Everything goes on a wide plate together.
+Plato típico is the Honduran national plate, a wide platter of nearly everything the country grows and cooks together in one meal, the way Sunday lunch lands in households from Tegucigalpa to San Pedro Sula. Steak (a thin cut like skirt or sirloin) marinates briefly with sour orange, garlic and cumin, then grills or sears hard for the char. Plantain slices fry until deep gold and sweet at the edges. Rice cooks white and fluffy. Refried beans warm through; mantequilla (Honduran cultured cream) whisks smooth; avocado slices; tortillas warm on a comal. Everything goes on a wide plate together, no single component the star, all of them at once.
 
 ## Ingredients
 

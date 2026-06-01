@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A loose batter of flour, egg and water is pushed through a spätzle plane (or a colander with large holes) into salted boiling water; the dumplings cook in a minute and are lifted out. They go into a buttery pan; beaten eggs are poured over and just-set as they are folded through. Salt, pepper, parsley.
+Tojásos nokedli is the Hungarian comfort-food-on-toast equivalent, fresh nokedli dumplings tossed with scrambled eggs in butter, eaten for lunch when nothing else fits, the kind of dish that takes ten minutes and ends with a clean plate. A loose batter of flour, egg and water pushes through a spätzle plane (or a wide-holed colander) into salted boiling water; the dumplings cook in a minute and lift out. They go into a buttery pan; beaten eggs pour over and just-set as they fold through. Salt, pepper, parsley. Eat hot with a green salad and pickled cucumber.
 
 ## Ingredients
 

@@ -9,7 +9,7 @@
 **Cook Time:** 17 minutes
 
 ## Overview
-Tender chicken meatballs simmered in a fragrant coconut and curry sauce, this Indonesian classic combines aromatic spices with creamy coconut milk for a comforting, flavourful dish. The meatballs stay moist and are infused with lemongrass and lime leaves for authentic flavour.
+These are tender chicken meatballs in a fragrant coconut-and-curry sauce, the Indonesian home-cook's answer to a quick weeknight curry that comes together in under thirty minutes. You shape chicken mince into walnut-sized balls with ginger, garlic, breadcrumb and a touch of fish sauce; pan-brown them briefly so they hold their shape. A sauce of coconut milk, a homemade or shop-bought curry paste, lemongrass and kaffir lime leaves simmers gently; the meatballs go in for ten minutes to absorb the flavours and cook through. The lemongrass and lime leaves are the markers that say Indonesian rather than Indian. Serve with steamed jasmine rice, a wedge of lime and a small dish of sambal on the side.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A buttery cardamom-scented dough enriched with milk and a touch of yeast (gives a tender bite without rising). Date paste sweetens with cardamom, cloves and a pinch of cinnamon. Each cookie wraps a teaspoon of filling, then gets pressed into a patterned mould or scored on top. Bakes pale gold; the surface stays soft, the inside spice-heavy.
+Klaicha are the Iraqi date-filled cookies of Eid (a variant spelling of klicha), buttery cardamom-scented dough wrapped around a spiced date paste, pressed into a wooden mould and baked pale gold, the cookies that fill every Iraqi tin during the holiday weeks. A buttery cardamom-scented dough enriched with milk and a touch of yeast (the yeast gives a tender bite without rising). Date paste sweetens with cardamom, cloves and a pinch of cinnamon. Each cookie wraps a teaspoon of filling, then presses into a patterned mould or scores on top. Bakes pale gold; the surface stays soft, the inside spice-heavy. Eat with cardamom tea, by the handful from a tin.
 
 ## Ingredients
 

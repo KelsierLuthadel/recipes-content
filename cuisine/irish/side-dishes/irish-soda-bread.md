@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Wholemeal and white flour mixed dry with bicarbonate of soda and salt. Cold buttermilk poured in, stirred briefly with a wooden spoon and then gathered by hand into a rough ball. Patted onto a tray, scored with a deep cross to let it open in the oven, baked hot until the bottom thumps hollow. The cross is partly practical (helping the bread rise evenly), partly a blessing - "letting the fairies out", as the saying goes.
+Irish soda bread is the no-knead bread every Irish farmhouse cook makes weekly, leavened with bicarbonate of soda and buttermilk instead of yeast, ready in under an hour from start to finish. Wholemeal and white flour mix dry with bicarbonate of soda and salt. Cold buttermilk pours in, stirs briefly with a wooden spoon and then gathers by hand into a rough ball; over-mixing makes the bread tough so a light touch matters. Pat onto a tray, score with a deep cross to let it open in the oven, bake at 220°C until the bottom thumps hollow. The cross is partly practical (it helps the bread rise evenly), partly a blessing, "letting the fairies out", as the Irish saying goes. Eat warm with butter, with smoked salmon, or torn alongside any Irish stew.
 
 ## Ingredients
 

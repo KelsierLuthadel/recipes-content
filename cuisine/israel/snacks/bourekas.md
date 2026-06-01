@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Ready-rolled all-butter puff pastry cuts into 12 squares (about 12 × 12 cm). Cheese filling: feta + ricotta + egg + parsley + nutmeg + pepper, mashed to a thick paste. Filling spoons onto each square; corners fold across to a triangle; edges crimp with a fork. Brushes with egg wash; sprinkles with sesame and nigella seeds. Bakes for 25 minutes at 200°C till deep gold and puffed.
+These are the cheese-filled bourekas, ready-rolled puff pastry triangles filled with feta-and-ricotta, the morning-bakery staple of Israeli markets and corner cafés. Ready-rolled all-butter puff pastry cuts into twelve squares (about 12 by 12 cm). The cheese filling (feta, ricotta, egg, parsley, nutmeg, pepper) mashes to a thick paste. The filling spoons onto each square; corners fold across to a triangle; edges crimp with a fork. Brush with egg wash; sprinkle with sesame and nigella seeds. Bake for twenty-five minutes at 200°C until deep gold and puffed. Eat warm with a hard-boiled egg and a side of pickles.
 
 ## Ingredients
 

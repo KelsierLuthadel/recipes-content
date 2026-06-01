@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Fine bulgur soaks in just enough boiling water to absorb (no draining). Parsley, mint, tomato, cucumber, spring onion chop fine. Combined with the swollen bulgur. Dressed with olive oil, lemon, pomegranate molasses, salt, allspice, pepper.
+Iraqi tabbouleh is the Iraqi-Levantine bulgur salad, more grain-heavy than its Lebanese cousin (which is mostly herbs) and dressed with pomegranate molasses for the signature sweet-sour edge. Fine bulgur soaks in just enough boiling water to absorb (no draining). Parsley, mint, tomato, cucumber and spring onion chop fine. Combined with the swollen bulgur. Dressed with olive oil, lemon, pomegranate molasses, salt, allspice and pepper. Eat as a starter or beside any Iraqi main; better the day it's made.
 
 ## Ingredients
 

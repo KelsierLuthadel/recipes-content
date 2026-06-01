@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Eggs hard-boil for 9 minutes, cool fast in iced water, peel cleanly. The yolks get mashed with soft butter, sour cream, Dijon-style mustard and Hungarian sweet paprika to a smooth, glossy paste, seasoned with salt, pepper and a little lemon. Piped or spooned back into the whites; dusted with paprika and finished with chives or parsley.
+Töltött tojás is the Hungarian deviled egg, hard-boiled whites filled with a piped paste of yolks, sour cream and sweet paprika, the buffet staple at every Hungarian celebration from Easter through Christmas. Eggs hard-boil for nine minutes, cool fast in iced water, peel cleanly. The yolks mash with soft butter, sour cream, Dijon-style mustard and Hungarian sweet paprika to a smooth glossy paste, seasoned with salt, pepper and a little lemon juice. Pipe or spoon the paste back into the white shells; dust with paprika and finish with chives or parsley. Serve cold from the fridge with crusty bread.
 
 ## Ingredients
 

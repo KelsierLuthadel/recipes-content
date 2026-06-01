@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Onion is softened in lard or oil, paprika blooms off the heat, then shredded cabbage goes in with a splash of stock and a pinch of sugar. The cabbage is cooked slow and covered until it has collapsed into something silky and savoury-sweet, sharpened at the end with a hit of vinegar. A spoonful of sour cream stirred through at the end is optional but traditional in many homes.
+Káposzta is the Hungarian braised cabbage that goes beside almost every Hungarian roast or stew, slowly cooked-down shredded cabbage with paprika, sometimes finished with sour cream. Onion softens in lard or oil; sweet paprika blooms off the heat (the recurring Hungarian discipline), then shredded cabbage goes in with a splash of stock and a pinch of sugar. The cabbage cooks slow and covered until it has collapsed into something silky and savoury-sweet, sharpened at the end with a hit of vinegar. A spoonful of sour cream stirred through at the end is optional but traditional in many homes. Serve hot beside roast pork or sausages.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Basmati rice is rinsed and soaked. It is parboiled briefly in salted water (al dente), drained. The pot is heated with butter, oil and saffron-water. A layer of yogurt-and-rice mixture forms the crust at the bottom; the rest of the rice is piled on top in a mound. The lid is wrapped in a tea towel; everything steams for 45 minutes; the bottom crisps. Inverted onto a platter, the golden tahdig sits on top.
+Tahdig is the crisp golden rice crust at the bottom of every Persian rice pot, the most prized part of the dish, the bit that gets fought over at family dinners and given to honoured guests, traditionally inverted at the table so the golden crust sits on top of the white rice mound. Basmati rice rinses and soaks for at least an hour. Parboiled briefly in salted water (al dente), then drained. The pot heats with butter, oil and saffron-water. A layer of yogurt-and-rice mixture forms the crust at the bottom; the rest of the rice piles on top in a mound. The lid wraps in a tea towel; everything steams for forty-five minutes; the bottom crisps into a deep golden shell. Invert onto a platter so the golden tahdig sits on top of the white rice. Crack with a spoon and serve.
 
 ## Ingredients
 
