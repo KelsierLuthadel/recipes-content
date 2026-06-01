@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Two pizza bases topped with passata, salami, dollops of bolognese and grated mozzarella, drizzled with chilli oil and baked until bubbling. Fresh basil and more chilli oil at the table finish the dish. The pizza relies on a good bolognese; using leftover sauce from the fridge actually improves it.
+The pizza you make when there's bolognese left in the fridge and someone needs feeding fast. Two pizza bases get a smear of passata, then slices of salami, generous dollops of cold bolognese, and a heavy scatter of grated mozzarella. A drizzle of chilli oil before the oven, then in hot until the cheese is bubbling and the bolognese has heated through and crisped at the edges. The leftover-bolognese trick is real: the sauce has had time to deepen overnight in the fridge, so it lands on the pizza tasting richer than any quick-made topping would. Off the heat, torn fresh basil, more chilli oil at the table, and the kind of meal where everyone goes back for a second slice.
 
 ## Ingredients
 

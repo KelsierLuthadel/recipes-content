@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Ripe summer tomatoes and good buffalo mozzarella alternate in a row, with whole basil leaves between. A heavy drizzle of extra virgin olive oil, flaky salt, freshly ground pepper. That's it. Optional balsamic if you must, but the original doesn't have any.
+The whole point of caprese is that there's almost no recipe, only ingredients and order. You need really ripe tomatoes at the height of summer, the kind that smell like a tomato when you slice them, and proper buffalo mozzarella torn or sliced fresh out of the brine within the day. They alternate in a row on a plate (or in a heap, no rules), with whole basil leaves tucked between. Good olive oil over the top with a heavy hand, a pinch of flaky salt, a crack of pepper, and that's it. Balsamic is optional and not particularly traditional; the dish was invented to read as the colours of the Italian flag, not to be drowned in dark vinegar. Eat with bread and a glass of something dry and chilled.
 
 ## Ingredients
 

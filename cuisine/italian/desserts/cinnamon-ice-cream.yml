@@ -7,7 +7,9 @@ tags:
   - gluten-free
   - dessert
   - cream
-mentions: []
+mentions:
+  - cuisine/american/desserts/pumpkin-pie
+  - cuisine/french/desserts/apple-tart
 ingredients:
   - qty: 750
     unit: ml

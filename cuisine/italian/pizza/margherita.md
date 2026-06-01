@@ -11,7 +11,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-This is the essence of pizza. A thin, crisp crust topped with a simple tomato sauce, creamy fresh mozzarella, marinated cherry tomatoes, and just-wilted basil. The beauty lies in ingredient quality and the technique of assembly. Each component matters. Too much topping drowns the crust; too little leaves an empty plate. This is balance and respect for simplicity.
+The pizza by which all others are judged, and an annoyingly demanding one for something with three toppings. Tomato sauce (the sauce of a good Margherita is brighter and rawer than most home cooks expect, basically crushed San Marzanos with salt and olive oil), torn fior di latte or buffalo mozzarella, and basil added off the heat. The crust does most of the talking: properly proved, hand-stretched so the rim stays airy, baked hot enough that the cornicione blisters and chars in spots within 90 seconds. Too much sauce drowns it, too much cheese mutes the tomato, too many leaves overpower the dairy. Get the proportions right and you understand why Naples has been making this single pizza for 130 years.
 
 ## Ingredients
 

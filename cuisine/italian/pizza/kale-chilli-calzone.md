@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A weeknight-friendly calzone built on a packet ciabatta mix that handles the dough work without a long prove. The filling is garlicky kale wilted briefly in olive oil, sharpened with fresh red chilli, then folded over a generous dollop of ricotta or mozzarella into pasty-shaped half-moons. Baked at moderate heat for 15 to 20 minutes; the dough puffs, the cheese melts, and the kale stays bright.
+A weeknight calzone with the shortcut on the dough: a packet of ciabatta mix that needs 30 minutes rather than an overnight prove. Curly kale gets wilted in olive oil with sliced garlic and fresh red chilli until it's bright and tender but still has bite. Spread it over half-moons of dough with a generous dollop of ricotta or torn mozzarella in the centre, fold and crimp, and bake at moderate heat for 15 to 20 minutes. The dough puffs and goes golden, the cheese melts into the kale, and the chilli stays present rather than washing out. Two per person for dinner, one per person if there's soup alongside; equally good cold the next day for a packed lunch.
 
 ## Ingredients
 

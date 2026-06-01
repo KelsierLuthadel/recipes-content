@@ -6,6 +6,7 @@ allergens:
   - garlic
 tags:
   - gluten-free
+  - one-pan
   - meals
   - meat
   - pork
@@ -14,6 +15,7 @@ tags:
   - cheese
   - complex
 mentions:
+  - tutorials/pizza/dough
   - tutorials/pizza/toppings
 ingredients:
   - qty: 500

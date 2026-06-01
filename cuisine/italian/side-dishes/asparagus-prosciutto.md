@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Asparagus and prosciutto bundles are an elegant starter or side dish where roasted asparagus spears are wrapped in delicate cured ham. The balsamic and olive oil dressing adds depth and a slight sweetness that pairs beautifully with the salty prosciutto.
+Late-spring antipasto when the first English asparagus is at the greengrocer and you want something on the table within ten minutes. You roast the spears in a hot oven with a slick of olive oil until the tips char and the stalks bend slightly, then wrap each one in a sheet of prosciutto while they're still warm so the ham softens against the heat. A bowl of vinaigrette goes alongside: balsamic, more olive oil, a pinch of salt, nothing else. The salt of the ham, the sweetness of the vinegar, the green snap of the asparagus, that's the whole thing. Serve it as an antipasto with a glass of Prosecco, or alongside grilled fish for an easy summer dinner.
 
 ## Ingredients
 - 24 spears fresh asparagus (trimmed)

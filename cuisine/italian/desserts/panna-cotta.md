@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-Powdered gelatin blooms in cold milk 5 minutes. Double cream, the remaining milk, sugar and a vanilla pod (split and scraped) heat gently to just under a simmer, never to a boil. Off heat, the bloomed gelatin stirs in until dissolved. The mixture strains through a sieve into 6 small ramekins or dariole moulds. Refrigerated for 4-6 hours (ideally overnight) until set. To serve: briefly dip each mould in hot water; invert onto a plate; spoon over the berry compote.
+The dessert against which all other Italian creams are judged: cooked cream, set just enough to hold its shape, with a wobble that promises it'll dissolve on the tongue. You bloom gelatin in cold milk for five minutes while you bring cream, sugar and a split vanilla pod gently to a simmer, never letting it boil, because boiled cream goes flat. The bloomed gelatin stirs in off the heat, the mix strains into ramekins, and the fridge does the rest overnight. To turn out, you dip the mould in hot water for a count of three and invert onto the plate; if it gives a little tremor as it settles, you've got the texture right. A spoonful of macerated berries or a drizzle of caramel on top, and that's all it needs.
 
 ## Ingredients
 

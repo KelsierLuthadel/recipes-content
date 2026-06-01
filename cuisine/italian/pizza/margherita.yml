@@ -14,6 +14,7 @@ mentions:
   - tutorials/pizza/cheese
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
 ingredients:
   - qty: 220
     unit: g

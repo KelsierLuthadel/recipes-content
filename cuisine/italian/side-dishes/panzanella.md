@@ -11,7 +11,7 @@
 **Total Time:** 50 minutes (with the essential 30-minute rest)
 
 ## Overview
-Day-old crusty bread is torn into rough pieces and briefly moistened with water-and-vinegar, just enough to soften without making mush. Ripe tomatoes are deseeded and cubed; juice is reserved for the dressing. Cucumber is peeled in stripes, deseeded and sliced. Red onion slices soak briefly in cold water to mellow. A dressing of red wine vinegar, good olive oil, the tomato juice, garlic and salt is whisked. Everything tosses together in a wide bowl; rests for 30 minutes at room temperature so the bread drinks in the juices; finished with torn basil and a final glug of olive oil at serving.
+Tuscan summer salad invented to use up the day-old bread, and one of the cleverest ways to eat tomatoes when they're at their peak. You tear stale crusty bread into rough chunks, give it a quick soak in water and vinegar so it softens without going to mush, and toss it with deseeded cubed tomatoes (catching the juice for the dressing), peeled cucumber and red onion rings briefly soaked in cold water to mellow. The dressing is the reserved tomato juice whisked with red wine vinegar, garlic and a generous slug of olive oil. Everything mixes in a wide bowl, then sits for half an hour so the bread drinks in the juices. Torn basil and a final pour of olive oil at the table; eat it on a hot day in the shade with white wine.
 
 ## Ingredients
 

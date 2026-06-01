@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Cold risotto (saffron Milanese-style is traditional in arancini "alla Milanese"; plain works too) is mixed with grated parmesan and beaten egg to bind. Filling, a stew of beef-and-pork ragù with peas, OR a cube of mozzarella, sits in the centre of each ball. Hands wet with water shape the rice around the filling into a tight orange-sized ball (or cone, for the Catania style). Each ball is rolled first in flour, then in beaten egg, then in fine breadcrumbs (or in the doubled-up "panata" mix of flour + water for the Sicilian original). Deep-fried at 180°C in 4-5 cm of oil for 4-6 minutes per ball until deep gold. Drained on kitchen paper; eaten warm.
+Sicily's most legendary street food: cold risotto shaped around a hidden centre, breaded, fried gold, and eaten standing up. The traditional version uses saffron Milanese-style rice, but plain works too; the cold rice gets bound with grated parmesan and beaten egg until it holds shape. You drop a spoonful of meat ragu or a cube of mozzarella into the middle of each ball, mould the rice around it with wet hands into something the size of an orange (or a cone, if you're going for the Catania shape), then roll first in flour, then beaten egg, then fine breadcrumbs. Into 180°C oil for four to six minutes until the crust is deep amber and crackling. Eat them warm enough to feel the heat through the paper, with a wedge of lemon and a glass of something cold; the melted mozzarella string-pulls when you bite.
 
 ## Ingredients
 

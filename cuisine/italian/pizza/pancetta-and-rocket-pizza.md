@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A small pizza built on tomato sauce and cubed mozzarella, baked until crisp and finished with sun-dried tomatoes, rocket, a drizzle of Caesar dressing, oven-crisped pancetta, oregano and Grana Padano. The trick is crisping the pancetta in advance so the finished pizza has texture, not just flavour. Comes together quickly once the dough is shaped.
+A weeknight pizza that uses the freezer pancetta and whatever's left in the salad drawer. The base is straightforward tomato sauce and cubed mozzarella, baked until the cheese pools and the rim crisps; the trick is crisping the pancetta separately in a hot oven before it goes on, so it lands on the pizza as crunchy salty shards rather than soggy strips. Off the heat you scatter sun-dried tomatoes, a handful of rocket, the crisp pancetta, a drizzle of Caesar dressing, oregano and Grana Padano shavings. The rocket wilts a little in the residual heat without going limp; the Caesar adds anchovy depth without you having to open a tin. From the moment the dough is shaped you're 10 minutes from eating.
 
 ## Ingredients
 

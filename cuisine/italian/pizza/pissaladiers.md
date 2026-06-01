@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-This is the French answer to Neapolitan pizza. Where Italian pizza celebrates tomato, French pissaladières celebrate caramelized onions cooked until they're almost jam-like in their sweetness and tenderness. A lattice of anchovy fillets and scattered black olives provide salt and briny depth against the onions' sweetness. Baked on a thin pizza crust, this is elegance and restraint.
+Nice's answer to pizza, made on a thin yeasted base but with no tomato in sight. The whole pizza turns on the onions: a pile of sweet white onions cooked very slowly in olive oil with thyme, sometimes for over an hour, until they collapse into a soft jam the colour of dark caramel. You spread the onion jam thick over the rolled dough, lay anchovy fillets in a lattice pattern on top, and dot black olives in each diamond before baking. It comes out tasting of patience: deep savoury sweetness from the onions, a salt-and-umami punch from the anchovy, a sharp briny bite from the olives. Cut in squares and eat warm or at room temperature with a glass of rosé as an apéritif, or take it on a picnic.
 
 ## Ingredients
 

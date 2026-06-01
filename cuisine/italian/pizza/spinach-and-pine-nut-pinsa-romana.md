@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Wilted spinach with onion, garlic and thyme is spread over pre-prepared pinsa bases, topped with fontina or mozzarella, pine nuts and parmesan, then baked briefly until the cheese is golden. The slow-fried onion is the flavour foundation; everything else cooks fast in the oven. A vegetarian pizza that lets the cheese and pine nuts do the heavy lifting.
+Pinsa is Rome's lighter, longer-fermented cousin of pizza, and pre-made pinsa bases are one of the better shortcuts in the supermarket. The base is wilted spinach with slowly fried onion, garlic and thyme, the kind of mixture you'd be happy to eat on toast. Spread that over the pinsa, lay torn fontina or mozzarella on top, scatter toasted pine nuts and grated parmesan, and bake briefly at high heat until the cheese is bubbling and the edges of the pinsa go gold. The fontina melts into pools rather than even cover; the pine nuts darken slightly and turn buttery. A vegetarian pizza that doesn't need meat to feel substantial.
 
 ## Ingredients
 

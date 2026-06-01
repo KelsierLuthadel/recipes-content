@@ -15,7 +15,7 @@
 - 100 ml double cream
 
 ## Overview
-A warm and aromatic ice cream infused with the sweet spice of cinnamon, creating a sophisticated frozen dessert with a distinctive flavor that bridges the gap between elegant and comforting. The exotic spice complemented by rich cream makes this an excellent accompaniment to apple desserts, pumpkin dishes, and warm spiced cakes.
+Ice cream the colour of pale toffee, with the warm hum of cinnamon coming through the cream rather than sitting on top of it. You steep cinnamon sticks (broken, never powder, which goes gritty) in the hot milk and cream base for a good half hour before you strain and churn, so the spice infuses gently instead of shouting. The custard is rich enough to scoop straight from the freezer; the cinnamon comes through warm and aromatic without ever tipping into "Christmas". This is the ice cream to put next to a wedge of warm apple tart, a slice of pumpkin pie, or a sticky almond cake; it bridges autumn and winter desserts the way vanilla never quite can.
 
 ## Method
 1. Pour the crème anglaise into a bowl, set over ice to hasten the cooling, stirring from time to time to prevent a skin from forming.

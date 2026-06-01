@@ -11,7 +11,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-Pizza sauce is deceptively simple yet entirely dependent on quality ingredients and proper technique. San Marzano tomatoes are preferred for their low acidity and sweet flavor. The sauce is briefly cooked, never long-simmered, to preserve the fresh tomato character. Garlic, oregano, and basil are the only seasonings; they should enhance, never dominate. This is the classic sauce of Naples and New York, used for Margherita and simple cheese pizzas. 
+The sauce a Margherita lives or dies by: a few ingredients that have to be the right few. San Marzano tomatoes (the long, low-acid plum tomatoes from the slopes of Vesuvius) are the standard because they have a sweet roundness that hands-off cooking can ride on. You crush them by hand or pulse them quickly, add a pinch of salt, a glug of good olive oil, a clove or two of grated garlic and a few torn basil leaves, and that's it. No simmering for an hour, no thickening, none of the long cooking American pizza sauces want; the tomatoes finish cooking on top of the pizza in the heat of the oven. The result tastes bright and raw and fruity, the way a pizza in Naples does, not the way a pizza out of a jar does.
 
 ## Ingredients
 

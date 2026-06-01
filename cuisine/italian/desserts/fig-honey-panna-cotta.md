@@ -17,7 +17,7 @@
 - 3 ripe fresh figs (sliced into rounds
 
 ## Overview
-An elegant pannacotta infused with vanilla and sweetened with honey rather than sugar, studded with fresh fig slices visible through the creamy custard in its serving vessel. This refined Italian dessert celebrates the delicate tartness of figs paired with the subtle, complex sweetness of honey rather than refined sugar.
+Late-summer panna cotta, when figs are heavy on the tree and a spoonful of good honey beats refined sugar every time. You bloom the gelatin, warm cream with a split vanilla pod and a generous pour of floral honey (chestnut or orange blossom both work), and pour it into glasses with thin fig slices pressed against the inside. The slices show through the set custard like stained glass; the honey takes a back seat to the cream but leaves a complex sweetness that sugar would flatten. You want it just barely set, the lightest possible wobble, so the spoon goes in and the surface gives. Serve at the end of a long lunch with a tiny glass of Moscato or whatever dessert wine is open.
 
 ## Method
 1. Put the gelatine in a bowl, and cover with water. Leave for 5 minutes. Heat the cream, milk, honey (or sugar) and vanilla pods in a saucepan, stirring from time to time, until the mixture almost reaches the boil, then remove from the heat. 

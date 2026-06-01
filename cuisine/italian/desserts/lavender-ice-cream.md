@@ -15,7 +15,7 @@
 - 100 ml double cream
 
 ## Overview
-A delicate and fragrant ice cream infused with the gentle floral notes of culinary lavender, creating a sophisticated frozen dessert that evokes summer gardens and elegance. This refined ice cream deserves serving on its own or alongside light fruit desserts where its subtle perfume won't compete with other flavors.
+A pale violet ice cream that smells like an Italian garden in July: dried culinary lavender steeped in cream until the buds release their oils, then churned to a smooth custard. The trick is restraint, you want the lavender to whisper rather than perfume the room, so the buds come out before the cream tips into "soap". You'll know you've got it right when the first spoonful reads as creamy and floral, and the lavender only registers as you swallow. Serve it on its own in a small glass, alongside a few fresh strawberries, or next to a thin slice of lemon polenta cake; it wants company that doesn't shout.
 
 ## Method
 1. Pour the crème anglaise into a bowl, set over ice to hasten the cooling, stirring from time to time to prevent a skin from forming.

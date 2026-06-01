@@ -26,7 +26,7 @@
 - 40 grams [Candied Fruit Peel](../../../petit-four/candied-fruit.md) (finely chopped)
 
 ## Overview
-A festive Neapolitan specialty of delicate fried pasta half-moons filled with sweet ricotta, candied fruit, and almonds. These charming little pastries epitomize Italian Easter celebrations and can be served either as an elegant petit four or a light dessert, dusted generously with powdered sugar for a snow-like finish.
+Neapolitan Easter sweet: little fried half-moons of sweet pasta dough stuffed with ricotta, candied citron and chopped almonds. The dough is barely sweet, more of a vehicle than a feature, and you roll it as thin as cannoli shells before stamping out discs. A spoonful of filling, a brushed edge, a fork-crimped seal, and they fry in shallow oil until they puff and blister gold. They land on paper, get a heavy snowfall of icing sugar, and pile up on a platter for the table to demolish. Serve them warm if you can, or at room temperature with espresso; they're equally happy as petits fours after dinner or as a mid-afternoon treat with coffee.
 
 ## Method
 1. Beat 2 of the eggs in a bowl and set aside.

@@ -9,7 +9,7 @@
 **Yield:** Approximately 300 milliliters (6 servings)
 
 ## Overview
-Tomato and basil salsa is a rustic Italian preparation that celebrates the quality of its primary ingredient: ripe, flavorful tomatoes. The supporting cast, capers, black olives, and lemon juice, merely emphasizes tomato's natural acidity and sweetness without overwhelming. Generous olive oil creates body and richness, while fresh basil added at the final moment introduces herbaceous brightness. The salsa benefits from an hour of resting before service, during which flavors meld and deepen. However, the fresh basil must be added only at the final 30 minutes before serving to preserve its aroma and color.
+An uncooked tomato salsa that hinges entirely on what your tomatoes taste like, which is to say: only make this when they're properly ripe and you'd happily eat one straight off the counter with salt. You chop the tomatoes by hand into rough cubes, catching any juice that escapes, and mix with capers, halved black olives, a squeeze of lemon juice, salt and a generous slug of olive oil. It sits for an hour at room temperature so the flavours meld and the tomatoes weep into the dressing; the basil goes in only at the last 30 minutes, torn rather than chopped, so it stays bright green and fragrant rather than going bruised and dark. Spoon it over grilled bread, alongside seared fish, or onto a bowl of plain hot pasta.
 
 ## Ingredients
 

@@ -9,7 +9,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-Large, meaty portobello mushroom caps baked with a savory-aromatic filling of Brie-style blue cheese, crispy breadcrumbs, garlic, and fresh parsley. The result is a beautiful, vegetarian-friendly starter or side dish with rich, umami flavors and a satisfying texture contrast between soft cheese and crispy topping.
+Big meaty portobello caps baked under a savoury topping of blue cheese, garlic-and-parsley breadcrumbs, and a heavy hit of olive oil. You scrape out the gills with a teaspoon (they go bitter and dark in the oven if you leave them), drizzle the caps with oil, and pile in the filling: a Stilton-style blue crumbled into seasoned breadcrumbs with chopped garlic, parsley and parmesan. Twenty minutes in a hot oven and the mushrooms collapse slightly into their own juices, the cheese melts down through the crumbs, and the top crisps gold. Serve them as a starter on a slice of grilled toast, or two per plate as a vegetarian main alongside dressed leaves and a glass of red.
 
 ## Ingredients
 - 4 portobello mushrooms

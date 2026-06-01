@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes (eggs are raw - see Notes)
 
 ## Overview
-Egg yolks whisk with sugar over hot water (zabaglione method, gentle heat) until pale and thick. Off heat, mascarpone whisks in to a smooth thick cream. Whipped egg whites fold through to lighten. Strong espresso is brewed and cooled; Marsala (or rum) stirs in. Savoiardi (lady fingers) get dipped briefly in the coffee, 2 seconds maximum per side, and lined up in the dish. Half the mascarpone cream goes on; cocoa-dust between layers. A second layer of dipped savoiardi; remaining cream on top. Heavy cocoa dusting. Refrigerated overnight; the savoiardi soften and the layers set.
+Coffee, mascarpone, and the patience to let the savoiardi soak up the espresso slowly overnight. You whisk egg yolks and sugar over a pan of barely simmering water until pale and ribbon-thick (the zabaglione method, which gives the cream its body), then whisk in mascarpone off the heat to a smooth thick cream. Whipped whites fold through to lighten it. The savoiardi go for a quick dip in cooled espresso laced with Marsala, two seconds a side and no more, then lie tight in the dish under half the cream, a heavy dust of cocoa between, a second layer of dipped biscuits, the rest of the cream. Cocoa on top, fridge overnight, and the savoiardi soften into something between cake and custard. Cut it gently with a warm knife and serve with espresso, or if it's been that kind of dinner, a glass of grappa.
 
 ## Ingredients
 

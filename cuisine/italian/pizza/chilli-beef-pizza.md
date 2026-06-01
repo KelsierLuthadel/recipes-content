@@ -11,7 +11,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-This is a pizza with substance and spice. A generous topping of seasoned beef and kidney beans sits over a thin crust, topped with a blend of mozzarella and cheddar cheeses. The beef is properly browned and simmered to develop flavor, while chillies and cumin add warmth and complexity. This is not minimalist Italian pizza; this is bold, flavorful, filling pizza.
+Pizza thrown a curveball: a thin crust topped with seasoned ground beef, kidney beans, fresh chillies and cumin, finished with mozzarella and cheddar. You brown the beef hard so it builds a proper savoury base, then simmer it briefly with the beans, chilli flakes and cumin until the mixture clings rather than runs. Spread it over the dough, scatter both cheeses on top, and bake hot so the cheese melts into the meat and the crust crisps underneath. This is not a delicate Naples pizza, it's chilli served on bread, and it's all the better for owning that. A scatter of sliced green chilli and chopped coriander at the end keeps the heat fresh; eat with a cold beer in hand.
 
 ## Ingredients
 

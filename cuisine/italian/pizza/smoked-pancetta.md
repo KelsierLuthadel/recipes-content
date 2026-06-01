@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A no-yeast dough rolled thin and topped with a crème fraîche, parmesan, lemon and nutmeg sauce, finished with thinly sliced salad onions, red onion and smoked pancetta. The lack of tomato keeps the flavour focused on the savoury richness of the pancetta and the slight sweetness of the onions. A 30-minute pizza that needs nothing more than a hot oven.
+A no-yeast, no-tomato pizza for a moderate weeknight effort. The dough mixes from flour, baking powder and yogurt into a soft ball that rolls thin in two minutes; the sauce is a creme fraiche, parmesan, lemon and nutmeg mixture more like a quiche custard than a pizza topping. On go thinly sliced salad onions, a few rings of red onion for sharpness, and strips of smoked pancetta that crisp in the heat of the oven. Without tomato to muddy the flavour, the pancetta and the slight sweetness of the cooked onions carry the whole pizza. Twenty-five minutes from cupboard to plate; a glass of crisp white and you're done.
 
 ## Ingredients
 

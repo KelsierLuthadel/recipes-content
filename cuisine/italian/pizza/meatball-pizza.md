@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Mini beef meatballs are first browned, then finished simmering in a quick passata sauce sharpened with vinegar, oregano and chilli flakes. They're scattered over two pizza bases alongside diced mozzarella, sliced pepperoni, spicy cured sausage, green pepper and red onion. A short, hot bake melts everything together; oregano and chilli at the end keep the heat going.
+A pizza for when you want pizza and meatballs at the same time. You roll mini beef meatballs, brown them hard in a pan until crusty, then finish them in a quick passata sauce sharpened with vinegar, oregano and chilli flakes so they pick up the seasoning without going dry. They scatter over two bases alongside diced mozzarella, sliced pepperoni, spicy cured sausage, green pepper and red onion, basically every classic American-Italian pizza topping on one disc. A short hot bake melts everything together; the meatballs warm through, the cheese pools around them, the pepperoni cups and crisps at the edges. Extra oregano and chilli flakes at the table for whoever wants more heat.
 
 ## Ingredients
 

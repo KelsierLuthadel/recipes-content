@@ -9,7 +9,8 @@ tags:
   - make-ahead
   - cream
   - honey
-mentions: []
+mentions:
+  - cuisine/italian/desserts/panna-cotta
 ingredients:
   - qty: 1.5
     name: sheets leaf gelatine

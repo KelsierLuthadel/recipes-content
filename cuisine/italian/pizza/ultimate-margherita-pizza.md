@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-A fresh-yeasted bread-flour dough proves for an hour while a deeply reduced tomato sauce simmers with shallots, garlic, red wine, basil and oregano. The dough is rolled into 30 cm circles, topped with sauce and grated mozzarella, and baked on a screaming-hot baking sheet. Whole basil leaves added off the heat keep the herbal lift fresh on the plate.
+A Margherita with the extra mile built in: fresh-yeasted bread-flour dough left to prove an hour while you reduce a tomato sauce slowly with shallots, garlic, red wine, basil and oregano until it's deeply concentrated rather than bright and raw. The dough rolls into 30 cm rounds, the rich sauce spreads thin (a little goes far when it's that reduced), grated mozzarella in handfuls, and the whole lot lands on a screaming-hot baking sheet. Five minutes is all you get before the cornicione blisters and the cheese pools. Off the heat, whole basil leaves go on so they don't blacken; the herbal lift cuts through the deeper sauce. A different beast from the classic, but the kind of pizza that wins over anyone who claims they prefer thin crust.
 
 ## Ingredients
 

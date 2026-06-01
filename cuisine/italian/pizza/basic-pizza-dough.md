@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes (passive, plus overnight proof)
 
 ## Overview
-A high-hydration overnight dough that sits in the fridge for 8 to 24 hours, slowly building flavour while you sleep. The blend of plain flour for tenderness and strong bread flour for chew gives a base that's crisp at the edges and soft in the middle. Each portion stretches into a 25 to 30 cm round, ready to top and bake on a hot stone.
+The dough that everything else hangs on, and the one to bookmark if you've never made pizza at home before. Plain flour for tenderness, strong bread flour for chew, a tiny pinch of yeast, and a slow cold prove in the fridge for anywhere between 8 and 24 hours, the longer the better. Time does the work: the gluten relaxes, the flavour deepens, and by the time you pull it out the dough is soft and pliable and faintly sour. You divide it into balls, let them come back to room temperature for an hour, and stretch each one to a 25 to 30 cm round with your knuckles rather than a rolling pin so the air stays in the rim. Top it light, bake it hot on a stone or steel, and you get a base that's blistered at the cornicione and crisp underneath.
 
 ## Ingredients
 

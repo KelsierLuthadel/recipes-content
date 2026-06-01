@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-The dough is baked plain with just tomatoes and oil, then crowned off the heat with torn burrata, a herb pesto of basil, mint and parsley, and a tangle of rocket and parmesan shavings. The pesto is what carries the flavour; the burrata adds creamy contrast to the bright, lightly cooked tomatoes. A pizza that depends entirely on good produce.
+A pizza for the height of summer, when basil is everywhere and the tomatoes are actually worth eating raw. The base bakes plain with just halved cherry tomatoes and olive oil, none of the usual mozzarella, so the dough goes crisp and the tomatoes barely cook. Off the heat you crown it with torn burrata (the soft creamy middle is the point, so tear rather than slice), spoonfuls of a herb pesto pounded from basil, mint and parsley, and a tangle of rocket dressed with parmesan shavings. The pesto carries the flavour; the burrata cools everything down; the rocket adds bite. Eat it the second it lands on the table, because the dough goes soft fast under all that fresh stuff.
 
 ## Ingredients
 

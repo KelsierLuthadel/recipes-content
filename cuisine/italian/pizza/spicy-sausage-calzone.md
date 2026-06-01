@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes (sauce) + 30 minutes (bake from frozen)
 
 ## Overview
-A make-ahead calzone built around a deeply reduced chorizo ragù sharpened with paprika and chilli flakes. The sauce simmers for 20 minutes until thick before being parcelled inside ciabatta-mix dough with cubes of mozzarella, sealed with a steam hole, and frozen flat. Pull one (or six) from the freezer, bake at 220°C, and you have a crisp, bubbling calzone in 30 minutes.
+A make-ahead calzone designed for the freezer drawer: build a batch on Sunday and you've got bake-from-frozen dinners for a fortnight. The filling is a deeply reduced chorizo ragù, simmered for 20 minutes with smoked paprika and chilli flakes until it's thick enough to scoop without running. Each calzone is a half-moon of ciabatta-mix dough wrapped around the ragù and cubes of mozzarella, sealed with a fork crimp and a steam hole, and frozen flat on a tray. To bake: straight from frozen onto a hot tray at 220°C for 30 minutes, until the crust is bronze and the cheese has melted out of the steam hole. As good as anything you'd order in.
 
 ## Ingredients
 

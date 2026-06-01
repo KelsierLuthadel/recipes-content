@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-The dough is a quick mix of plain flour, baking powder and Greek yogurt, rolled out and griddled in a hot pan rather than baked. Fennel wedges are charred separately, then a sausagemeat-and-spinach mixture is spread over the cooked base with ricotta and parmesan, and the lot is finished under the grill. A 35-minute pizza that doesn't need a stone or a long prove.
+A 35-minute pizza for a weeknight when nobody's got time for a long prove. The dough skips yeast entirely: plain flour, baking powder and Greek yogurt mixed to a soft scone-like ball, rolled out and dry-fried in a hot pan rather than baked, so you get a base that puffs slightly and chars in spots like a flatbread. Fennel wedges get charred separately in olive oil until the edges blacken, then a sausagemeat-and-spinach mixture spreads over the cooked base with dollops of ricotta and a snow of parmesan. Under the grill for the last few minutes to bubble the cheese and finish the top. The fennel sweetens against the rich sausage; the yogurt dough is the unexpected hero.
 
 ## Ingredients
 

@@ -22,7 +22,7 @@
 - 70 grams icing sugar
 
 ## Overview
-An elegant no-bake chocolate cake featuring crushed biscotti and ground almonds bound with melted chocolate and topped with a glossy chocolate syrup, creating an intensely flavored, sophisticated dessert with interesting texture and depth. This contemporary creation combines Italian biscotti with chocolate to create something both familiar and novel.
+A no-bake chocolate cake that comes together in the time it takes the kettle to boil, and tastes like something a Roman pastry shop spent all day on. You crush biscotti to coarse rubble, fold in ground almonds and melted dark chocolate, press the lot into a lined tin and let it set in the fridge for a few hours. A glossy chocolate syrup goes over the top once it's firm, pooling at the edges where it meets the tin. The texture is the trick: the biscotti hold their crunch, the almonds keep it from going claggy, and the chocolate binds the whole thing without turning it into fudge. Cut thin slices, you don't need a fat wedge, and serve with strong coffee or a small glass of Vin Santo.
 
 ## Method
 1. Melt the chocolate in a large heatproof bowl over a pan of simmering water, ensuring that the base of the bowl does not touch the water.

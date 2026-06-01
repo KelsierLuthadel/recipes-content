@@ -15,7 +15,7 @@
 - 100 ml double cream
 
 ## Overview
-A sophisticated ice cream infused with the warm spice and slight heat of stem ginger, balanced with the tropical sweetness of desiccated coconut. This bold-flavored frozen dessert creates an exciting flavor profile that stands on its own and provides an exotic accompaniment to warm cakes and caramelized fruit desserts.
+Stem ginger gives this ice cream its kick, finely chopped and folded through the custard at the last second so you get sweet warm bites of it in every spoonful. A handful of desiccated coconut goes in too, just enough for texture, and the cream base carries both without thinning out. The heat of the ginger comes through gently rather than aggressively; it's the kind of ice cream you can eat a whole bowl of without your tongue going numb. Serve it alongside a sticky toffee pudding, a warm pear tart, or anything caramelised: the ginger and the burnt sugar talk to each other in a way vanilla can't match.
 
 ## Method
 1. While still hot, pour the crème anglaise into a food processor with the stem ginger and whiz for one minute.

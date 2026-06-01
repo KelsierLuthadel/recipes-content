@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 24 minutes
 
 ## Overview
-Three margherita-style pizzas with a long-cooked plum tomato ragù as the base, topped with thinly sliced chorizo, capers, olives and torn buffalo mozzarella. The chorizo crisps and renders its smoky, paprika-rich oil over the cheese as it bakes. A scatter of fresh basil at the end adds the herbal lift.
+Three pizzas off one tray of dough, built on a slow-cooked tomato ragù that you'll be glad of the leftovers from. The sauce simmers down for a good 30 minutes with onion, garlic and herbs until it's thick enough to spread without sliding off the dough. Thinly sliced chorizo goes on top with capers and torn black olives; the chorizo renders its smoky paprika oil over the cheese as the pizza bakes, painting the surface red. Torn buffalo mozzarella in pillows rather than even cover, so some pockets stay creamy and others crisp. A scatter of fresh basil off the heat for herbal lift, and a glass of something cold (a Verdicchio, a chilled Frappato, even a lager) to handle the smoky heat.
 
 ## Ingredients
 

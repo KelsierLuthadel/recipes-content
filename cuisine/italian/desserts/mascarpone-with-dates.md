@@ -16,7 +16,7 @@
 - 200 ml Crème anglaise (preferably pistachio)
 
 ## Overview
-An elegant and simple Italian dessert of candied fruit and dates folded into luxurious mascarpone cream, shaped into a quenelle and served with crème anglaise and candied fruit garnish. This sophisticated yet straightforward dessert celebrates the natural sweetness of dates and the richness of mascarpone without unnecessary complication.
+One of those desserts that takes ten minutes and looks like you spent the afternoon on it. You fold chopped dates and candied citrus into mascarpone whipped soft, shape a quenelle with two warm spoons, and slide it onto a plate over a pool of crème anglaise. A scatter of more candied fruit on top, and that's the dessert. The mascarpone carries the dates without competing; the dates carry their own sweetness so you barely need any sugar in the mix. This is the dessert for a long weekend lunch when you've already eaten too much pasta and don't want anything heavier than a few spoonfuls of cream and fruit.
 
 ## Method
 1. Cut the candied grapefruit peel strips into large dice. 

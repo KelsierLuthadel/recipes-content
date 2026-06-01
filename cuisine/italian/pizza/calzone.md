@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-The calzone is pizza's elegant cousin, pizza dough folded like an envelope and sealed, enclosing a luxurious filling of pancetta, cherry tomatoes, ricotta, and basil. The sealed construction creates its own moist environment, keeping the filling tender while the exterior becomes crisp and golden. This is rustic Italian cooking with refinement.
+Pizza folded in half: the same dough, the same hot oven, but the filling sealed inside so it steams and stews rather than crisping on top. You roll out a disc, pile pancetta, halved cherry tomatoes, ricotta and torn basil onto one side, brush the rim with water, fold the other half over and crimp with a fork. The trick is the steam vent on top, a small slash with a knife so the parcel doesn't burst, and a generous brush of olive oil so the surface goes glossy in the oven. The ricotta loosens, the tomatoes break down, the pancetta gives up its fat, and what comes out is a crisp golden envelope full of soft savoury filling. Cut it open at the table and let the steam go; the smell does the introducing.
 
 ## Ingredients
 

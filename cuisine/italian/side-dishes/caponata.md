@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Aubergine cubes are salted to weep, fried hard in olive oil to deep gold, and reserved. A separate pan is used to soften diced onion and sliced celery in olive oil; garlic joins briefly; chopped tomatoes simmer with red wine vinegar and sugar to make the agrodolce base. Green olives, capers, sultanas (optional) and toasted pine nuts are stirred in. The fried aubergine is returned and simmers for 10 minutes to meld. Off heat, fresh basil is scattered. Rested at least 2 hours (ideally overnight) before serving at room temperature.
+The Sicilian sweet-sour aubergine relish that gets better every hour it sits, and is at its best the day after you make it. You start by salting cubed aubergine to draw out the bitterness, then frying them in olive oil until they're deep gold and yielding, not pale and squeaky. They come out, and into the same pan go softened onion and celery, then chopped tomatoes simmered down with red wine vinegar and a pinch of sugar until the agrodolce base sharpens. Green olives, capers, sultanas and toasted pine nuts stir through; the aubergines go back in to meld for ten minutes; basil torn over off the heat. Eat it at room temperature on grilled bread with a glass of crisp white, or as a side with grilled fish or lamb chops.
 
 ## Ingredients
 

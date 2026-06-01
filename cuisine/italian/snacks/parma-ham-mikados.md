@@ -12,7 +12,7 @@
 
 ## Overview
 
-Parma ham mikados are the apotheosis of simple elegance: delicate filo pastry wrapped with thin Parma ham, buttered and mustard-enriched, then briefly crisped in a hot oven. The interior ham remains tender while the filo exterior becomes shatteringly crisp. Success depends on handling filo gently (to avoid tearing), using quality Parma ham (thinly sliced), and baking briefly enough to crisp without hardening. These must be eaten immediately; cold or at room temperature, they lose their appeal. The name "mikados" refers to the Japanese term for emperors, these are regal appetizers.
+Crisp little parcels of filo wrapped around Parma ham, eaten with drinks before dinner and never sitting around long enough to go cold. The trick is in the layering: a sheet of filo brushed with melted butter and a thin smear of Dijon, a second buttered sheet on top, a slice of Parma ham laid down, then the whole thing rolled into a tight cigar and cut into bite-sized lengths. Onto a tray and into a hot oven for five or six minutes; the filo shatters and goes blonde, the ham warms through and softens but stays pink. Speed matters at every step; filo dries out if you leave it uncovered, and the finished mikados turn leathery if they sit. Serve them straight from the tray with cold Prosecco.
 
 ## Ingredients
 

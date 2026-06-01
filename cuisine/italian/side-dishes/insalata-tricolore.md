@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-The dish is an assembly, not a recipe. The four ingredients (tomato, mozzarella, basil, olive oil) all need to be the best you can afford, that's the whole technique. Tomatoes at peak ripeness, sliced 1 cm thick; mozzarella di bufala torn or sliced fresh from the brine; large whole basil leaves; cold-pressed extra-virgin olive oil. Layered on a plate alternating tomato slices with mozzarella, basil leaves tucked between, salt and pepper, finished with olive oil. Eaten with crusty bread.
+Caprese's slightly fussier sibling, named for the green-white-red of the Italian flag and built on the same principle: four ingredients that all have to be excellent, no recipe to hide behind. Tomatoes at peak ripeness, sliced thick; mozzarella di bufala torn fresh from the brine and never refrigerated; whole basil leaves, not chopped; cold-pressed extra virgin olive oil with some character. You alternate tomato and mozzarella on a plate, tuck basil between, season with flaky salt and pepper, drizzle olive oil over the top with a heavy hand. Eat it within minutes of assembling, the way Italians do, with bread to mop up the mingled juice and oil at the bottom of the plate.
 
 ## Ingredients
 

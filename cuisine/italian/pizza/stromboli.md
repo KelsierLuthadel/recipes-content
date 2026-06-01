@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A bricklayer's calzone: pizza dough rolled into a 12 by 18 inch rectangle, brushed with garlic-oregano butter, layered with deli meats, fresh basil and two cheeses, then rolled tight and baked on a hot pizza stone. The crust crisps fast at 200°C; the cheeses melt into the meats inside; a final brush of garlic butter and a scatter of parmesan make the outside glossy. Cuts into thick pinwheel slices, ideal for sharing.
+Calzone's longer, leaner cousin from Italian-American kitchens: pizza dough rolled into a rectangle, layered with deli meats and cheese, then rolled tight into a log and baked seam-side down on a hot stone. You brush the rolled-out dough with garlic-and-oregano butter, lay down salami, ham, capicola, mozzarella and provolone, then roll it up like a Swiss roll and crimp the ends. A second brush of garlic butter and a scatter of parmesan on the outside before it goes in; the crust crisps in 15 to 20 minutes, the cheeses fuse with the meats inside, and the whole thing slices into thick pinwheels. Cut at the table, eaten with mustard or marinara on the side, ideal for sharing.
 
 ## Ingredients
 

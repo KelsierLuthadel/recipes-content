@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Soft butter beats together with crushed garlic, parsley and a touch of salt. The butter spreads onto split baguette halves (or down the middle of a long loaf). Wrapped in foil, baked, then opened and grilled briefly to crisp the top.
+The garlic bread you remember from family dinners, made well rather than from a packet in the freezer. You beat softened butter with crushed garlic, chopped parsley and a pinch of salt until it's a pale green paste, then spread it generously down the middle of a split baguette or along the cut faces of a long loaf. The whole thing wraps tight in foil and bakes for ten minutes so the butter melts into the crumb without burning the crust; then you open the foil and slip it under the grill for a minute or two to bronze the surface. Tear pieces apart at the table; serve alongside a big bowl of pasta with red sauce or a roast chicken, and make twice as much as you think you'll need.
 
 ## Ingredients
 

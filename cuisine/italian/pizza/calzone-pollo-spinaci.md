@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A solo calzone built around a béchamel base rather than the more common tomato sauce, giving the filling a richer, lasagna-like character. Cooked chicken, prosciutto, button mushrooms and spinach pile onto a single oval of thin pizza dough, drenched in white sauce and folded into a sealed half-moon. Two finishing flourishes lift the bake: a final brush of garlic butter and a snowfall of grated Riserva that bubbles in the last minute.
+A single calzone large enough to feed two, and an unusual one: béchamel rather than tomato as the base sauce, which gives it the rich lasagna-ish quality you don't get from the normal red-sauce version. You roll an oval of thin pizza dough, spread half with the white sauce, then layer in cooked chicken, prosciutto, sliced button mushrooms and wilted spinach, drench it again in béchamel for good measure, and fold the dough over like an enormous half-moon. Seal the edges with a fork crimp, prick a few steam holes, and bake at high heat until the crust is bronze. Two finishing flourishes: a brush of garlic butter as it comes out, and a snowfall of grated Riserva that melts straight into the surface. Cut down the middle and serve with a sharp salad to cut the richness.
 
 ## Ingredients
 

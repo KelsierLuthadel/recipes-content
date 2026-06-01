@@ -21,7 +21,7 @@
 - cocoa powder (to dust)
 
 ## Overview
-The iconic Italian dessert of coffee-soaked Savoiardi biscuits layered with a light mascarpone cream enriched with whipped cream and Amaretto liqueur, finished with a dusting of cocoa powder. This no-bake elegant dessert delivers coffee flavor, textural contrast, and the satisfaction of an assembled-to-order presentation rather than baked creation.
+The classic with the lights turned down: Savoiardi soaked in cold espresso, layered with a mascarpone cream lightened with whipped cream and a generous pour of Amaretto, finished with a heavy dusting of cocoa. You dip the lady fingers fast (two seconds a side, no longer, or they collapse) and line them tight in the dish; spoon over half the cream, dust cocoa between layers, second layer of dipped savoiardi, the rest of the cream on top. The Amaretto rounds out the bitter coffee without making it taste of liqueur; the mascarpone holds the layers in suspension overnight in the fridge. Cut squares with a hot knife, plate them gently, and serve with one more espresso or a small glass of dessert wine.
 
 ## Method
 1. Pour the coffee into a large bowl, mix in 3 tablespoons of Amaretto liqueur and set aside.

@@ -15,7 +15,7 @@
 - 100 ml double cream
 
 ## Overview
-Classic vanilla ice cream with a luxurious, creamy texture enriched with double cream, creating a silky and rich frozen dessert that is pure indulgence. This timeless favorite serves as both a standalone dessert and the perfect accompaniment to warm pies, cakes, and compotes.
+Vanilla ice cream done properly: real vanilla pods split and scraped, the seeds and the empty pod both going into the cream so you get every drop of perfume out of them. The custard base is rich with double cream and egg yolks, cooked gently until it coats the back of a spoon, then strained, chilled and churned. You'll see flecks of vanilla through every scoop, and the flavour stays delicate rather than caramelly. This is the ice cream that makes everything else better: it sits next to warm apple pie, melts into a slice of fudgy chocolate cake, softens the edges of a hot espresso poured over the top for affogato. The benchmark scoop, the one every other flavour is measured against.
 
 ## Method
 1. Pour the crème anglaise into a bowl, set over ice to hasten the cooling, stirring from time to time to prevent a skin from forming.

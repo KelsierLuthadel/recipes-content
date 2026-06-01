@@ -7,7 +7,8 @@ tags:
   - gluten-free
   - dessert
   - cream
-mentions: []
+mentions:
+  - cuisine/american/desserts/apple-pie
 ingredients:
   - qty: 750
     unit: ml

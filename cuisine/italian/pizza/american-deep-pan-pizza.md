@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-A breadlike yeasted dough is pressed into 23 cm cake tins, given a thick rim, and baked over a deeply reduced tomato sauce sharpened with red wine, vinegar, Worcestershire and Tabasco. Two kinds of salami sit beneath grated mozzarella and cheddar, with jalapeños scattered on top. The pan technique gives a chewy crumb and a crisp, cheese-lacquered base.
+Chicago by way of your kitchen: a thick yeasted dough pressed into 23 cm cake tins, walls built up the sides like a pie crust, and an order of operations that's the opposite of a Naples pizza. Cheese goes down first against the dough so the base stays crisp, then a heavily reduced tomato sauce sharpened with red wine, vinegar, Worcestershire and Tabasco, then two kinds of salami, more cheese, and jalapeños on top to cut through the richness. You bake it long and slow at moderate heat, not the screaming-hot blast a thin pizza wants, because the dough needs time to set into something between bread and a crust. The edge laquers in cheese and goes copper-brown; the middle is properly molten. Cut wedges with a serrated knife and eat sitting down with a knife and fork; this is not a folding pizza.
 
 ## Ingredients
 

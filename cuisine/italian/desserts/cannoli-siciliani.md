@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Ricotta is drained in muslin for at least 4 hours (overnight ideal) to lose the wet whey. A pastry dough of plain flour, sugar, cocoa, cinnamon, Marsala, vinegar, butter and egg yolk is mixed, kneaded smooth, rested for 30 minutes, then rolled out very thin (pasta-thin). Discs (12 cm) cut; wrapped around oiled metal cannoli forms; egg-wash sealed; deep-fried at 180°C for 90 seconds until amber and crackling. Cooled, the shells lift off the moulds. The drained ricotta sweetens with icing sugar, vanilla and orange zest; chocolate chips and chopped candied peel fold through. Piped into the shells at the moment of serving; ends dipped in chopped pistachio or chocolate; dusted with icing sugar.
+Sicily's most famous sweet, and the one you'll find on every pasticceria counter from Palermo to Catania. The shells fry the day before, the ricotta drains overnight, and you only fill them when the order goes in, that's the rule, because a cannolo sitting on a tray for an hour goes soft and loses everything that makes it worth eating. You roll the dough thin enough to read through, wrap it around oiled metal tubes, brush egg wash on the seam, and drop them into 180°C oil where they blister and crackle in about a minute and a half. The drained ricotta gets whipped with icing sugar, vanilla and orange zest, chocolate chips and candied peel folded through; piped in from both ends so the shell stays whole. Pistachio crumb or chopped chocolate at the ends, icing sugar on top, eaten standing up at the counter with espresso.
 
 ## Ingredients
 

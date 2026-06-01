@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A pizza built on layered heat: nduja, roquito peppers, fresh green chilli, Calabrese sausage and a touch of dried oregano. After baking, torn fior di latte and a watercress-pesto salad are scattered on top for cool, peppery contrast. A bold pizza that needs a properly hot oven and a confident hand with the spice.
+A pizza from the toe of Italy, where heat is the regional accent and nduja is its calling card. You layer the spicy spreadable salami onto the dough before baking so it melts down into the cheese; on top go roquito peppers, fresh green chilli, sliced Calabrese sausage and a pinch of dried oregano for backbone. The oven needs to be properly hot, because half the work is the nduja rendering and bubbling rather than just warming through. Off the heat, torn fior di latte goes on for cool creamy contrast, and a small watercress-and-walnut pesto salad piles on top. The first bite hits sweet, then salty, then a slow build of capsicum and chilli; you'll want cold beer or a chilled glass of something white nearby.
 
 ## Ingredients
 
