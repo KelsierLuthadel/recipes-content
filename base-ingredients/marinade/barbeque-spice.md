@@ -159,3 +159,8 @@ Grill temperature: Medium to medium-high heat (not screaming hot to prevent suga
 - Does not keep at room temperature due to raw meat contact; always refrigerate
 - Reserved marinade for basting can be kept separately if not in contact with raw meat
 - Fresh onion slices in marinade should be used within 2-3 days for best flavor
+
+## Storage
+- Keeps 6 months in an airtight glass jar away from heat and light
+- Grind small batches as needed; whole spices keep flavour better than pre-ground
+- Smell-test before use: spice mixes lose their punch over time

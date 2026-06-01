@@ -119,3 +119,9 @@ Over-fermented (usually during a long cold prove). The yeast has consumed most o
 - [Hydration](hydration.md): wetter doughs prove faster and rise higher.
 - [Sourdough Basics](sourdough.md): how proving changes when you swap commercial yeast for a starter.
 - [Shape Gallery](shapes.md): how each shape behaves during the prove and the bake.
+
+## Storage
+- Crusty breads (baguette, fougasse, sourdough) are best eaten the day they're baked
+- Tin loaves and enriched doughs keep 2-3 days in a bread bin or paper bag
+- All bread freezes well within hours of cooling; thaw at room temperature and re-crisp in a 180°C oven
+- Never refrigerate baked bread: cold accelerates staling

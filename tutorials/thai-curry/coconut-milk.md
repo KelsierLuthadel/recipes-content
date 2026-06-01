@@ -119,3 +119,9 @@ Used too much thin coconut milk. Reduce harder on the heat for a few minutes; th
 - [Red Curry Paste](red.md): the second-most-popular.
 - [Massaman](massaman.md): the slow-cooked version of this technique.
 - [Thai Curry Course landing](thai-curry.md): back to the main course.
+
+## Storage
+- Finished curries keep 2-3 days refrigerated; flavour develops overnight as the spices meld
+- Freeze portion-sized lots up to 2 months; thaw fully before reheating
+- Reheat gently on low; never boil hard or the coconut milk will split
+- Curry pastes keep 2 weeks refrigerated with a thin film of oil on top, or freeze in ice-cube trays for 3 months

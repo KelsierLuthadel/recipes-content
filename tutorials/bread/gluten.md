@@ -108,3 +108,9 @@ Insufficient hydration, or skipped autolyse. Autolyse (rest covered for 30 minut
 - [Proving](proving.md): what happens after the gluten is developed.
 - [Sourdough Basics](sourdough.md): how gluten develops differently with a long, cold ferment.
 - [White Bread](../../bread-pasta/white-bread.md): a 65% hydration master recipe to practise window-pane on.
+
+## Storage
+- Crusty breads (baguette, fougasse, sourdough) are best eaten the day they're baked
+- Tin loaves and enriched doughs keep 2-3 days in a bread bin or paper bag
+- All bread freezes well within hours of cooling; thaw at room temperature and re-crisp in a 180°C oven
+- Never refrigerate baked bread: cold accelerates staling

@@ -123,3 +123,9 @@ Under-seasoned. Stir-fry sauces should taste slightly too strong on the spoon; t
 - [Wok Hei](wok-hei.md): the smoky char that defines top-tier stir-fry.
 - [Knife Skills course](../knife-skills/knife-skills.md): uniform cuts cook uniformly.
 - [Stir-Fry Course landing](stir-fry.md): back to the main course.
+
+## Storage
+- Stir-fries are best eaten immediately: texture and wok hei dissipate within minutes
+- Refrigerate leftovers 1-2 days; reheat in a hot wok or pan, not the microwave
+- Prepped ingredients (chopped veg, marinated proteins) keep 1 day refrigerated; do the mise en place in advance, the cooking last-minute
+- Season your wok regularly; a well-seasoned carbon-steel wok improves with use

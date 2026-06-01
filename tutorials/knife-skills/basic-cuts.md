@@ -186,3 +186,9 @@ Smear a tiny drop of oil on the blade before mincing. The garlic releases more e
 - [Knife Care](knife-care.md): keep the knife sharp.
 - [Precision Cuts](precision-cuts.md): the classical French presentation cuts.
 - [Knife Skills Course landing](knife-skills.md): back to the main course.
+
+## Storage
+- Keep knives sharp and dry; rust is the enemy of carbon-steel blades
+- Hone with a honing rod before each use; sharpen with a whetstone every few months
+- Store in a knife block, magnetic strip, or in-drawer guard; loose knives in a drawer dull edges and risk fingers
+- Wipe blades clean immediately after use - never leave them in soapy water

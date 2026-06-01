@@ -178,3 +178,9 @@ Not tied. Tie the cavity closed with kitchen string, or skewer with toothpicks.
 - [Curing](curing.md): the raw and salt-cured options.
 - [Stocks-Sauces / Stocks](../stocks-sauces/stocks.md): turn the bones and head into fumet.
 - [Fish Course landing](fish.md): back to the main course.
+
+## Storage
+- Cooked fish is best eaten the day it's cooked: the texture firms and the flavour declines on reheat
+- Refrigerate leftovers 1-2 days at most in an airtight container
+- Reheat gently in a low oven (140°C, covered) or eat cold in a salad
+- Do not freeze cooked fish: it goes mealy on thaw

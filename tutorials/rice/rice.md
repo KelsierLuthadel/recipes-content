@@ -104,3 +104,9 @@ For absorption, lifting the lid during the cook releases steam. The cook stops. 
 - [Absorption Method](absorption-method.md): the foundation.
 - [Steamed Rice](../../cuisine/indian/rice/steamed-rice.md): the master recipe.
 - [BIR Curry Course](../bir-curry/bir-curry.md): rice is half the BIR plate.
+
+## Storage
+- Cooked rice keeps 1 day refrigerated; cool quickly (within an hour) to limit Bacillus cereus risk
+- Reheat to piping hot all the way through; never reheat rice more than once
+- Freeze portion-sized lots up to 1 month; reheat from frozen
+- Day-old refrigerated rice is the right base for fried rice: drier and more separate than fresh

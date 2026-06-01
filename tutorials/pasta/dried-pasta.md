@@ -141,3 +141,9 @@ Don't drain ahead of time. Time the pasta to finish cooking when the sauce is re
 - [Matching Sauce to Shape](matching-sauce-to-shape.md): the next layer.
 - [Regional Italian](regional-italian.md): why southern Italy dries its pasta and northern Italy doesn't.
 - [Pasta Course landing](pasta.md): back to the main course.
+
+## Storage
+- Fresh pasta dough keeps 2 days refrigerated, wrapped in cling film
+- Cut fresh pasta dries on a rack in 30 minutes; store dried for up to 1 week in an airtight container
+- Freeze fresh pasta in portioned nests up to 2 months; cook from frozen, adding 1-2 minutes to the boil time
+- Dried pasta keeps indefinitely in a sealed container in a cool, dry cupboard

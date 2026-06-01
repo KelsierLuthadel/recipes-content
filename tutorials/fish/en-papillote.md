@@ -119,3 +119,9 @@ For most home cooks: parchment for guests, foil for a quick weeknight.
 - [Curing](curing.md): no-cook preparations.
 - [Whole Fish](whole-fish.md): scaling and prepping a whole fish for an en papillote.
 - [Fish Course landing](fish.md): back to the main course.
+
+## Storage
+- Cooked fish is best eaten the day it's cooked: the texture firms and the flavour declines on reheat
+- Refrigerate leftovers 1-2 days at most in an airtight container
+- Reheat gently in a low oven (140°C, covered) or eat cold in a salad
+- Do not freeze cooked fish: it goes mealy on thaw

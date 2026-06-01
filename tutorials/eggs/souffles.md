@@ -122,3 +122,9 @@ Got distracted on the way to the table. Souffles fall fast. Open the oven, take 
 - [Meringues](meringues.md): the whipped-white technique.
 - [Stocks-Sauces / Bechamel](../stocks-sauces/bechamel.md): the savoury base under cheese souffle.
 - [Eggs Course landing](eggs.md): back to the main course.
+
+## Storage
+- Most egg dishes are best served immediately; soufflés and omelettes do not hold well
+- Hard-boiled eggs keep 1 week refrigerated, in or out of the shell
+- Custards and creams keep 2 days refrigerated; cover the surface with cling film to prevent a skin forming
+- Never freeze fresh egg dishes: the texture breaks down on thaw

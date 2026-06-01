@@ -92,3 +92,9 @@ Adjust by 5% at a time and watch the dough. You are aiming for the handling feel
 - [Proving](proving.md) *(coming soon)*: bulk fermentation, the finger-poke test, knocking back.
 - [White Bread](../../bread-pasta/white-bread.md): a 65% hydration master recipe to practise on.
 - [Pizza Dough](../../bread-pasta/pizza-dough.md): a higher-hydration dough where the lessons here matter most.
+
+## Storage
+- Crusty breads (baguette, fougasse, sourdough) are best eaten the day they're baked
+- Tin loaves and enriched doughs keep 2-3 days in a bread bin or paper bag
+- All bread freezes well within hours of cooling; thaw at room temperature and re-crisp in a 180°C oven
+- Never refrigerate baked bread: cold accelerates staling

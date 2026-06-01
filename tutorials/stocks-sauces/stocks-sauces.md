@@ -51,3 +51,9 @@ This is why classical kitchens move so fast at service time. The stocks were mad
 - [Pastry course](../pastry/pastry.md): bechamel and choux together build most of the savoury patisserie canon.
 - [Eggs course](../eggs/eggs.md): hollandaise is an egg-yolk emulsion; many of the techniques transfer.
 - [Bread course](../bread/bread.md): the panade in choux is the closest dough-side relative of a roux.
+
+## Storage
+- Stocks: refrigerate 4 days, freeze 3 months in 250 ml or 500 ml portions
+- Mother sauces (béchamel, velouté, espagnole): refrigerate 3 days; freeze 2 months (some break on thaw, reheat gently)
+- Emulsion sauces (hollandaise, béarnaise): make to order; do not refrigerate or freeze, they split
+- Tomato-based sauces: refrigerate 5 days, freeze 3 months in ice-cube trays for easy portioning

@@ -59,3 +59,9 @@ These are the recipes the course refers back to:
 - [Bread course](../bread/bread.md): brioche (enriched bread) sits at the border of pastry.
 - [Pizza course](../pizza/pizza.md): pizza dough is a third dough family altogether (yeasted, low-fat).
 - [Stocks and Sauces course](../stocks-sauces/stocks-sauces.md): a savoury tart needs a sauce; the sauce course covers what to fill the pastry with.
+
+## Storage
+- Unbaked pastry doughs keep 2-3 days refrigerated, wrapped tightly in cling film
+- Freeze raw doughs in flat discs up to 3 months; thaw overnight in the fridge before rolling
+- Baked pastry items keep 2 days at room temperature in an airtight container; re-crisp in a 180°C oven for 5 minutes
+- Filled pastries (cream, custard) refrigerate and eat within 2 days

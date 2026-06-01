@@ -53,3 +53,9 @@ Total time from oil in pan to plate: 3-5 minutes.
 ## Where Next
 - [Knife Skills course](../knife-skills/knife-skills.md): stir-frying demands uniform cuts so everything cooks evenly. Knife-skills course covers the basic cuts you need.
 - [Rice course / Fried Rice Technique](../rice/fried-rice-technique.md): the wet-rice problem and how cold day-old rice solves it.
+
+## Storage
+- Stir-fries are best eaten immediately: texture and wok hei dissipate within minutes
+- Refrigerate leftovers 1-2 days; reheat in a hot wok or pan, not the microwave
+- Prepped ingredients (chopped veg, marinated proteins) keep 1 day refrigerated; do the mise en place in advance, the cooking last-minute
+- Season your wok regularly; a well-seasoned carbon-steel wok improves with use

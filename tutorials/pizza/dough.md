@@ -131,3 +131,9 @@ Most home recipes (including supermarket pizza kits) skip the cold ferment entir
 - [Basic Pizza Dough](../../cuisine/italian/pizza/basic-pizza-dough.md): the master recipe.
 - [Bread / Hydration](../bread/hydration.md): everything about hydration also applies here.
 - [Bread / Proving](../bread/proving.md): the cold ferment is just an extended prove.
+
+## Storage
+- Pizza dough balls keep 3 days refrigerated; bring to room temperature 2 hours before stretching
+- Freeze portioned dough balls up to 1 month; thaw overnight in the fridge
+- Pizza sauce keeps 5 days refrigerated and 3 months frozen
+- Baked pizza is best the day it's made; reheat slices in a hot oven (200°C, 4-5 min) to re-crisp the base

@@ -90,3 +90,9 @@ Start with one named curry you already love (the [Worked Example](building-a-cur
 - [Building a Curry](building-a-curry.md): the worked example.
 - [Curry Base Gravy](../../cuisine/indian/Base/curry-base.md): start here on a Saturday morning.
 - [Pre-Cooked Chicken](../../cuisine/indian/Base/pre-cooked-chicken.md): chicken thigh works too, and gives a richer flavour.
+
+## Storage
+- The BIR base gravy keeps 4 days refrigerated and freezes 3 months in 250 ml portions
+- Finished curries keep 2-3 days refrigerated and freeze up to 2 months
+- Reheat gently with a splash of water if the gravy has thickened
+- Pre-cooked proteins are best made fresh per curry; freeze on the day they're cooked

@@ -93,3 +93,9 @@ Yellow curry needs more aggressive fish sauce and palm sugar than green or red b
 - [Building a Curry](building-a-curry.md): the worked example (uses green; technique applies to yellow).
 - [Thai Yellow Curry Paste recipe](../../cuisine/thai/pastes/thai-yellow-curry-paste.md): canonical recipe.
 - [Thai Curry Course landing](thai-curry.md): back to the main course.
+
+## Storage
+- Finished curries keep 2-3 days refrigerated; flavour develops overnight as the spices meld
+- Freeze portion-sized lots up to 2 months; thaw fully before reheating
+- Reheat gently on low; never boil hard or the coconut milk will split
+- Curry pastes keep 2 weeks refrigerated with a thin film of oil on top, or freeze in ice-cube trays for 3 months

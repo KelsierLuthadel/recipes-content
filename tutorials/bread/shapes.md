@@ -110,3 +110,9 @@ If you are baking for an event or as a gift, the presentation hierarchy is rough
 - [Scoring](scoring.md): the structural cut for each shape.
 - [Gluten](gluten.md): all shapes need the same window-pane test before shaping starts.
 - [Bread Course landing](bread.md): back to the main course page.
+
+## Storage
+- Crusty breads (baguette, fougasse, sourdough) are best eaten the day they're baked
+- Tin loaves and enriched doughs keep 2-3 days in a bread bin or paper bag
+- All bread freezes well within hours of cooling; thaw at room temperature and re-crisp in a 180°C oven
+- Never refrigerate baked bread: cold accelerates staling

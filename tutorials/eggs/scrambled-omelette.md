@@ -123,3 +123,9 @@ Too much filling, or pan too small. Use less; cook a thicker filling separately 
 - [Custards](custards.md): the same eggs, even gentler heat, very different result.
 - [Souffles](souffles.md): scrambled eggs taken to the absurd.
 - [Eggs Course landing](eggs.md): back to the main course.
+
+## Storage
+- Most egg dishes are best served immediately; soufflés and omelettes do not hold well
+- Hard-boiled eggs keep 1 week refrigerated, in or out of the shell
+- Custards and creams keep 2 days refrigerated; cover the surface with cling film to prevent a skin forming
+- Never freeze fresh egg dishes: the texture breaks down on thaw

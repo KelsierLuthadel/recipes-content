@@ -116,3 +116,9 @@ Butter melted during handling. Work cooler or chill more often.
 - [Sweet Short Pastry recipe](../../baking/pastry/sweet-short-pastry.md): canonical recipe with exact quantities.
 - [Flan Pastry](../../baking/pastry/flan-pastry.md): a slightly richer sweet short.
 - [Pastry Course landing](pastry.md): back to the main course.
+
+## Storage
+- Unbaked pastry doughs keep 2-3 days refrigerated, wrapped tightly in cling film
+- Freeze raw doughs in flat discs up to 3 months; thaw overnight in the fridge before rolling
+- Baked pastry items keep 2 days at room temperature in an airtight container; re-crisp in a 180°C oven for 5 minutes
+- Filled pastries (cream, custard) refrigerate and eat within 2 days

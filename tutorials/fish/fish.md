@@ -50,3 +50,9 @@ Sustainable buying: look for the MSC (Marine Stewardship Council) certified labe
 - [Stocks-Sauces / Stocks](../stocks-sauces/stocks.md): fish stock from the bones makes the next dish twice as good.
 - [Knife Skills course](../knife-skills/knife-skills.md): filleting needs a flexible fish knife; the basic-cuts course covers the techniques.
 - [Stir-Fry course](../stir-fry/stir-fry.md): adding prawns or scallops at the right phase needs the ingredient-order timing covered there.
+
+## Storage
+- Cooked fish is best eaten the day it's cooked: the texture firms and the flavour declines on reheat
+- Refrigerate leftovers 1-2 days at most in an airtight container
+- Reheat gently in a low oven (140°C, covered) or eat cold in a salad
+- Do not freeze cooked fish: it goes mealy on thaw

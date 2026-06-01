@@ -144,3 +144,9 @@ Old rice that has dried out too much (4+ days), or fried too long. Use rice no m
 - [Pilaf](pilaf.md): if the leftover rice is pilau, the fried rice picks up its spices for free.
 - [Chinese Fried Rice](../../cuisine/chinese/fried-rice.md): the canonical Yangzhou version.
 - [Indian Fried Rice](../../cuisine/indian/rice/fried-rice.md): Indo-Chinese fusion.
+
+## Storage
+- Cooked rice keeps 1 day refrigerated; cool quickly (within an hour) to limit Bacillus cereus risk
+- Reheat to piping hot all the way through; never reheat rice more than once
+- Freeze portion-sized lots up to 1 month; reheat from frozen
+- Day-old refrigerated rice is the right base for fried rice: drier and more separate than fresh

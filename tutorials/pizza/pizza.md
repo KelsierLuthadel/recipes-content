@@ -73,3 +73,9 @@ If your pizza is good but boring: [Toppings](toppings.md) and [Cheese](cheese.md
 - [Dough](dough.md): the foundation. Master this first.
 - [Cooking Methods](cooking-methods.md): the heat that finishes it.
 - [Basic Pizza Dough](../../cuisine/italian/pizza/basic-pizza-dough.md): the everyday master recipe.
+
+## Storage
+- Pizza dough balls keep 3 days refrigerated; bring to room temperature 2 hours before stretching
+- Freeze portioned dough balls up to 1 month; thaw overnight in the fridge
+- Pizza sauce keeps 5 days refrigerated and 3 months frozen
+- Baked pizza is best the day it's made; reheat slices in a hot oven (200°C, 4-5 min) to re-crisp the base

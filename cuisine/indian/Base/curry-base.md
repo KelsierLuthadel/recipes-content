@@ -46,3 +46,9 @@ Remember to periodically stir during the following process to stop the onions fr
 
 *Classic British Indian Restaurant(B.I.R.) curry base*
 *This is the classic curry base that is used in most UK Indian restaurants. The finished sauce has a sweet taste and should be a thick consistency.*
+
+## Storage
+- Keeps 4 days refrigerated in an airtight container
+- Freezes well in portion-sized lots up to 3 months
+- Pre-cooked meat is best frozen on the day it's made; thaw fully before adding to a curry
+- Reheats straight from frozen into a hot curry pan

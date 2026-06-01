@@ -54,3 +54,9 @@ The Mughal-Pakistani slow-cooked lamb shank stew: meat braised for hours in a sp
 1. Whisk the paste into the sauce and simmer for 5-6 minutes to thicken. 
 1. Check for seasoning, add salt to taste and then pour the sauce over the meat in the serving bowl. 
 1. Serve the garnishes in little bowls on the table to add to the lamb nihari as you like.
+
+## Storage
+- Refrigerate 2-3 days in an airtight container
+- Freezes up to 2 months; thaw fully before reheating
+- Reheat gently on low heat with a splash of stock or water if the gravy has thickened
+- Flavour deepens overnight as the spices meld

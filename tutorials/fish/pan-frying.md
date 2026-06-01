@@ -127,3 +127,9 @@ Slip the fish slice fully underneath. If the skin is properly crisp, the fillet 
 - [Whole Fish](whole-fish.md): bone-in, scaled, gutted.
 - [Stocks-Sauces / Hollandaise](../stocks-sauces/hollandaise.md): the classical fish sauce.
 - [Fish Course landing](fish.md): back to the main course.
+
+## Storage
+- Cooked fish is best eaten the day it's cooked: the texture firms and the flavour declines on reheat
+- Refrigerate leftovers 1-2 days at most in an airtight container
+- Reheat gently in a low oven (140°C, covered) or eat cold in a salad
+- Do not freeze cooked fish: it goes mealy on thaw

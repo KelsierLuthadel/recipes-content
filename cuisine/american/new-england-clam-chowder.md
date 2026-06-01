@@ -60,3 +60,9 @@ The benchmark New England chowder: creamy, milky-white, thickened by potato star
 1. Taste for seasoning.
 1. Heat through gently, but do not allow to boil.
 1. Serve immediately with the clams in their shells.
+
+## Storage
+- Keeps 2-3 days refrigerated in an airtight container
+- Cream-based soups don't freeze well: the dairy splits on thaw
+- If freezing, freeze before adding the cream and finish the dish on reheat
+- Reheat gently on low heat, stirring often; avoid boiling once cream has been added

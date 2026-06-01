@@ -164,3 +164,9 @@ Oven shelf too low, or fan oven blasting the top with cool air. Move to the midd
 - [Bread course / Enriched Doughs](../bread/enriched-doughs.md): the relationship between butter, eggs and yeast that croissant inherits.
 - [Croissant Dough recipe](../../baking/pastry/croissant-dough.md): canonical recipe.
 - [Pastry Course landing](pastry.md): back to the main course.
+
+## Storage
+- Unbaked pastry doughs keep 2-3 days refrigerated, wrapped tightly in cling film
+- Freeze raw doughs in flat discs up to 3 months; thaw overnight in the fridge before rolling
+- Baked pastry items keep 2 days at room temperature in an airtight container; re-crisp in a 180°C oven for 5 minutes
+- Filled pastries (cream, custard) refrigerate and eat within 2 days

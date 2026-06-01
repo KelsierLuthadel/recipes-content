@@ -128,3 +128,9 @@ This is why patisserie books are big: each finished cake has 3-5 component recip
 - [Petit Fours](petit-fours.md): the small bites that complete a French meal.
 - [Composing a Dessert](composing-a-dessert.md): the framework underneath these cakes.
 - [Patisserie Course landing](patisserie.md): back to the main course.
+
+## Storage
+- Cream-filled and custard-filled desserts keep 2 days refrigerated; bring to room temperature before serving
+- Sponge cakes keep 3-4 days at room temperature in an airtight container; freeze unfilled up to 1 month
+- Set creams and mousses are best within 24 hours; gelatine continues to firm on day two
+- Petit fours keep 1 week in an airtight tin; some (pâtes de fruits, caramels) considerably longer

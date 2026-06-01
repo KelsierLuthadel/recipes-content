@@ -173,3 +173,9 @@ Water wasn't cold enough, or strips were cut too thick. Use iced water; cut stri
 - [Basic Cuts](basic-cuts.md): the everyday cuts.
 - [Knife Skills Course landing](knife-skills.md): back to the main course.
 - [Stir-Fry / Ingredient Order](../stir-fry/ingredient-order.md): where uniform cuts matter for cooking, not just presentation.
+
+## Storage
+- Keep knives sharp and dry; rust is the enemy of carbon-steel blades
+- Hone with a honing rod before each use; sharpen with a whetstone every few months
+- Store in a knife block, magnetic strip, or in-drawer guard; loose knives in a drawer dull edges and risk fingers
+- Wipe blades clean immediately after use - never leave them in soapy water

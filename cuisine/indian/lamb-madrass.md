@@ -46,3 +46,9 @@ Hot, sharp curry inspired by the cooking of southern India. Reduced tomato base 
 1. Sprinkle with the garam masala and garnish with the chopped coriander.
 
 **Note**: If you are looking for a more savoury flavour, spicy lime pickle can be substituted for the mango chutney.
+
+## Storage
+- Refrigerate 2-3 days in an airtight container
+- Freezes up to 2 months; thaw fully before reheating
+- Reheat gently on low heat with a splash of stock or water if the gravy has thickened
+- Flavour deepens overnight as the spices meld

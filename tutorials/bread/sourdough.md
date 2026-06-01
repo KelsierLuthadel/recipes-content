@@ -125,3 +125,9 @@ Under-fermented or too cold a cold-prove. Lengthen the cold-prove, or do a longe
 - [Proving](proving.md): the cold prove is the sourdough secret.
 - [Scoring](scoring.md): sourdoughs are scored deeply, more dramatically than yeasted loaves.
 - [Shape Gallery](shapes.md): the boule and the oval batard are the classic sourdough shapes.
+
+## Storage
+- Crusty breads (baguette, fougasse, sourdough) are best eaten the day they're baked
+- Tin loaves and enriched doughs keep 2-3 days in a bread bin or paper bag
+- All bread freezes well within hours of cooling; thaw at room temperature and re-crisp in a 180°C oven
+- Never refrigerate baked bread: cold accelerates staling

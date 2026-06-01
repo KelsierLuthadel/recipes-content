@@ -124,3 +124,9 @@ This is the BIR system. Once you have the four-component prep done, the curry ho
 - [BIR Course landing](bir-curry.md): back to the main course page.
 - Try a different finished curry: pick any [BIR recipe](../../cuisine/indian/) and run the same five-step assembly.
 - [Curry Base Gravy](../../cuisine/indian/Base/curry-base.md): if your base is what is letting you down, this is the page to revisit.
+
+## Storage
+- The BIR base gravy keeps 4 days refrigerated and freezes 3 months in 250 ml portions
+- Finished curries keep 2-3 days refrigerated and freeze up to 2 months
+- Reheat gently with a splash of water if the gravy has thickened
+- Pre-cooked proteins are best made fresh per curry; freeze on the day they're cooked

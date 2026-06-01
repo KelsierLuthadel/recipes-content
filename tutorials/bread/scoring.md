@@ -110,3 +110,9 @@ After the bake, the loaf should tell you what worked.
 - [Shape Gallery](shapes.md): each shape has its own canonical score.
 - [Bloomer](bloomer.md): six diagonals are the classic bloomer score.
 - [Coburg](coburg.md): the cross-cut round.
+
+## Storage
+- Crusty breads (baguette, fougasse, sourdough) are best eaten the day they're baked
+- Tin loaves and enriched doughs keep 2-3 days in a bread bin or paper bag
+- All bread freezes well within hours of cooling; thaw at room temperature and re-crisp in a 180°C oven
+- Never refrigerate baked bread: cold accelerates staling

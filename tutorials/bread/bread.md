@@ -51,3 +51,9 @@ Each shape page describes a classic loaf, the technique to form it, and the phot
 If you are new to bread, start with [Hydration](hydration.md), then follow the links to gluten and proving. If you already bake regularly, jump straight to the technique you want to improve.
 
 The single most common reason a home loaf fails is adding flour to a sticky dough during kneading. Hydration covers why, and what to do instead.
+
+## Storage
+- Crusty breads (baguette, fougasse, sourdough) are best eaten the day they're baked
+- Tin loaves and enriched doughs keep 2-3 days in a bread bin or paper bag
+- All bread freezes well within hours of cooling; thaw at room temperature and re-crisp in a 180°C oven
+- Never refrigerate baked bread: cold accelerates staling

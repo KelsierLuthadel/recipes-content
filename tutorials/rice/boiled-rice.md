@@ -116,3 +116,9 @@ Old rice. Old rice needs longer cooking and more water. Soak it in cold water fo
 - [Pilaf](pilaf.md): rice that is fried first, then absorbed.
 - [Fried Rice Technique](fried-rice-technique.md): what to do with leftover boiled rice.
 - [Lahori Mutton Biryani](../../cuisine/lahori/rice/lahori-mutton-biryani.md): the classic parboil-then-steam preparation.
+
+## Storage
+- Cooked rice keeps 1 day refrigerated; cool quickly (within an hour) to limit Bacillus cereus risk
+- Reheat to piping hot all the way through; never reheat rice more than once
+- Freeze portion-sized lots up to 1 month; reheat from frozen
+- Day-old refrigerated rice is the right base for fried rice: drier and more separate than fresh

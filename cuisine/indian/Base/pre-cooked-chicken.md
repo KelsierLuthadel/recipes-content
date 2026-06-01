@@ -45,3 +45,9 @@ A BIR-kitchen staple. Chicken breast is simmered in a deeply spiced onion-and-to
 12. Remove the chicken pieces, reserving a little cooking stock.
 13. Turn the heat down to low so the remaining stock simmers.
 14. Simmer for about 45 minutes.
+
+## Storage
+- Keeps 4 days refrigerated in an airtight container
+- Freezes well in portion-sized lots up to 3 months
+- Pre-cooked meat is best frozen on the day it's made; thaw fully before adding to a curry
+- Reheats straight from frozen into a hot curry pan

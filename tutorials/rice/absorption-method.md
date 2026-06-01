@@ -122,3 +122,9 @@ For those, use the specialist methods. Absorption is the everyday foundation.
 - [Pilau Rice](../../cuisine/indian/rice/pilau-rice.md): absorption with a fried-rice start.
 - [Kashmiri Pulao](../../cuisine/indian/rice/kashmiri-pulao.md): festive, with nuts and dried fruit.
 - [Rice Course landing](rice.md): back to the main course page.
+
+## Storage
+- Cooked rice keeps 1 day refrigerated; cool quickly (within an hour) to limit Bacillus cereus risk
+- Reheat to piping hot all the way through; never reheat rice more than once
+- Freeze portion-sized lots up to 1 month; reheat from frozen
+- Day-old refrigerated rice is the right base for fried rice: drier and more separate than fresh

@@ -60,3 +60,9 @@ The fiery Goan original: a vinegar-and-garlic-marinated meat (traditionally pork
 ### Step 4
 1. Add the vinegar, dried fenugreek and potatoes.
 2. Add the coriander and season with salt and black pepper.
+
+## Storage
+- Refrigerate 2-3 days in an airtight container
+- Freezes up to 2 months; thaw fully before reheating
+- Reheat gently on low heat with a splash of stock or water if the gravy has thickened
+- Flavour deepens overnight as the spices meld

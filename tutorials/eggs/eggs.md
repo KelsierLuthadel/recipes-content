@@ -55,3 +55,9 @@ Three things matter for the techniques here:
 - [Stocks and Sauces / Hollandaise](../stocks-sauces/hollandaise.md): an egg-yolk emulsion. The cooked-yolk technique from the eggs course transfers directly.
 - [Bread course / Enriched Doughs](../bread/enriched-doughs.md): brioche, challah, hot cross buns. Eggs in dough.
 - [Pastry course / Choux](../pastry/choux.md): eggs are what makes choux puff.
+
+## Storage
+- Most egg dishes are best served immediately; soufflés and omelettes do not hold well
+- Hard-boiled eggs keep 1 week refrigerated, in or out of the shell
+- Custards and creams keep 2 days refrigerated; cover the surface with cling film to prevent a skin forming
+- Never freeze fresh egg dishes: the texture breaks down on thaw

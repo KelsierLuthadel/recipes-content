@@ -46,3 +46,9 @@ Top with chopped coriander to serve.
 
 
 *This is normally cooked in a large balti pan, but you can you can substitute this with a frying pan*
+
+## Storage
+- Refrigerate 2-3 days in an airtight container
+- Freezes up to 2 months; thaw fully before reheating
+- Reheat gently on low heat with a splash of stock or water if the gravy has thickened
+- Flavour deepens overnight as the spices meld

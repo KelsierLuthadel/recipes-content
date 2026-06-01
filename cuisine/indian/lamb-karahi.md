@@ -48,3 +48,9 @@ Cooked in a karahi (two-handled wok-like pan) over high heat: lamb chunks simmer
 1. Check for seasoning and add more salt or spices to taste. 
 1. This is a quite dry curry so that it can easily be soaked up with fresh naans. 
 1. When the meat is really tender, add the julienned ginger, fresh chillies and garam masala and serve topped with fresh coriander
+
+## Storage
+- Refrigerate 2-3 days in an airtight container
+- Freezes up to 2 months; thaw fully before reheating
+- Reheat gently on low heat with a splash of stock or water if the gravy has thickened
+- Flavour deepens overnight as the spices meld

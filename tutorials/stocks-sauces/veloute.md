@@ -97,3 +97,9 @@ A finished sauce containing cream and butter (supreme, vin blanc) can break if b
 - [Espagnole](espagnole.md): the brown stock version.
 - [Veloute recipe](../../sauces/sauce-savory/veloute.md): canonical recipe.
 - [Stocks-Sauces Course landing](stocks-sauces.md): back to the main course.
+
+## Storage
+- Stocks: refrigerate 4 days, freeze 3 months in 250 ml or 500 ml portions
+- Mother sauces (béchamel, velouté, espagnole): refrigerate 3 days; freeze 2 months (some break on thaw, reheat gently)
+- Emulsion sauces (hollandaise, béarnaise): make to order; do not refrigerate or freeze, they split
+- Tomato-based sauces: refrigerate 5 days, freeze 3 months in ice-cube trays for easy portioning

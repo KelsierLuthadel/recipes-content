@@ -156,3 +156,9 @@ Used too much, or used minced rather than thin-sliced. Garlic should be present,
 - [Cheese](cheese.md): the dedicated cheese deep-dive.
 - [Cooking Methods](cooking-methods.md): the bake that brings it all together.
 - [Margherita](../../cuisine/italian/pizza/margherita.md): the canonical topping-restraint example.
+
+## Storage
+- Pizza dough balls keep 3 days refrigerated; bring to room temperature 2 hours before stretching
+- Freeze portioned dough balls up to 1 month; thaw overnight in the fridge
+- Pizza sauce keeps 5 days refrigerated and 3 months frozen
+- Baked pizza is best the day it's made; reheat slices in a hot oven (200°C, 4-5 min) to re-crisp the base

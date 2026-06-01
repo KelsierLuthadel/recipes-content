@@ -124,3 +124,9 @@ Oil pooled at the bottom only. Swirl the oil up the sides at the start so the wh
 - [Ingredient Order](ingredient-order.md): the canonical sequence once the wok is set up.
 - [Wok Hei](wok-hei.md): the smoky-char finish.
 - [Stir-Fry Course landing](stir-fry.md): back to the main course.
+
+## Storage
+- Stir-fries are best eaten immediately: texture and wok hei dissipate within minutes
+- Refrigerate leftovers 1-2 days; reheat in a hot wok or pan, not the microwave
+- Prepped ingredients (chopped veg, marinated proteins) keep 1 day refrigerated; do the mise en place in advance, the cooking last-minute
+- Season your wok regularly; a well-seasoned carbon-steel wok improves with use

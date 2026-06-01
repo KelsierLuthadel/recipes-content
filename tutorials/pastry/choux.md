@@ -131,3 +131,9 @@ Pastry too close to the bottom of the oven, or sheet placed directly on a hot st
 - [Creme Patissiere](../../baking/cremes/creme-patissiere.md): the classic choux filling.
 - [Profiteroles](../../cuisine/french/desserts/profiteroles.md): the canonical finished dessert.
 - [Pastry Course landing](pastry.md): back to the main course.
+
+## Storage
+- Unbaked pastry doughs keep 2-3 days refrigerated, wrapped tightly in cling film
+- Freeze raw doughs in flat discs up to 3 months; thaw overnight in the fridge before rolling
+- Baked pastry items keep 2 days at room temperature in an airtight container; re-crisp in a 180°C oven for 5 minutes
+- Filled pastries (cream, custard) refrigerate and eat within 2 days

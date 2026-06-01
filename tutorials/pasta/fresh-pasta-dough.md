@@ -157,3 +157,9 @@ Over-cooked. Fresh pasta cooks fast; taste at 90 seconds.
 - [Matching Sauce to Shape](matching-sauce-to-shape.md): which sauce for which shape.
 - [Pasta recipe](../../bread-pasta/pasta.md): canonical master dough.
 - [Pasta Course landing](pasta.md): back to the main course.
+
+## Storage
+- Fresh pasta dough keeps 2 days refrigerated, wrapped in cling film
+- Cut fresh pasta dries on a rack in 30 minutes; store dried for up to 1 week in an airtight container
+- Freeze fresh pasta in portioned nests up to 2 months; cook from frozen, adding 1-2 minutes to the boil time
+- Dried pasta keeps indefinitely in a sealed container in a cool, dry cupboard

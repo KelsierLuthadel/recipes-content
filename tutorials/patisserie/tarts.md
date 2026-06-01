@@ -180,3 +180,9 @@ Too long between caramelisation and inverting, or inverted onto a cold plate. Wa
 - [Pastry course / Sweet Short](../pastry/sweet-short.md): the shell technique.
 - [Eggs course / Custards](../eggs/custards.md): the curd and patissiere technique.
 - [Patisserie Course landing](patisserie.md): back to the main course.
+
+## Storage
+- Cream-filled and custard-filled desserts keep 2 days refrigerated; bring to room temperature before serving
+- Sponge cakes keep 3-4 days at room temperature in an airtight container; freeze unfilled up to 1 month
+- Set creams and mousses are best within 24 hours; gelatine continues to firm on day two
+- Petit fours keep 1 week in an airtight tin; some (pâtes de fruits, caramels) considerably longer

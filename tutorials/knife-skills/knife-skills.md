@@ -95,3 +95,9 @@ The skill is worth the practice. Every minute spent on knife technique pays back
 - [Precision Cuts](precision-cuts.md): the show-off cuts.
 - [Stir-Fry course / Ingredient Order](../stir-fry/ingredient-order.md): the cooking method that depends most on uniform cuts.
 - [Fish course / Whole Fish](../fish/whole-fish.md): filleting is knife work applied to fish.
+
+## Storage
+- Keep knives sharp and dry; rust is the enemy of carbon-steel blades
+- Hone with a honing rod before each use; sharpen with a whetstone every few months
+- Store in a knife block, magnetic strip, or in-drawer guard; loose knives in a drawer dull edges and risk fingers
+- Wipe blades clean immediately after use - never leave them in soapy water

@@ -80,3 +80,9 @@ Indian curries can be built from dry-ground spice mixes (see the [BIR curry cour
 - [Rice course / Absorption Method](../rice/absorption-method.md): the jasmine rice that goes under a Thai curry needs the absorption method.
 - [Stir-Fry course](../stir-fry/stir-fry.md): Thai stir-fry technique. Pad Thai, pad see ew, the curry-paste-led stir-fries.
 - [Stocks-Sauces / Stocks](../stocks-sauces/stocks.md): some Thai pastes are extended with chicken stock; the stock matters.
+
+## Storage
+- Finished curries keep 2-3 days refrigerated; flavour develops overnight as the spices meld
+- Freeze portion-sized lots up to 2 months; thaw fully before reheating
+- Reheat gently on low; never boil hard or the coconut milk will split
+- Curry pastes keep 2 weeks refrigerated with a thin film of oil on top, or freeze in ice-cube trays for 3 months

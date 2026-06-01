@@ -132,3 +132,9 @@ Cold-prove it overnight first. Cold enriched dough handles much better than warm
 - [Scoring](scoring.md): some enriched loaves are scored (brioche) and some are braided (challah) instead.
 - [Brioche Dough](../../baking/pastry/brioche-dough.md): the canonical heavy-enrichment recipe.
 - [Pistachio Babka Buns](../../cuisine/israel/desserts/pistachio-babka-buns.md): a filled, twisted enriched dough.
+
+## Storage
+- Crusty breads (baguette, fougasse, sourdough) are best eaten the day they're baked
+- Tin loaves and enriched doughs keep 2-3 days in a bread bin or paper bag
+- All bread freezes well within hours of cooling; thaw at room temperature and re-crisp in a 180°C oven
+- Never refrigerate baked bread: cold accelerates staling

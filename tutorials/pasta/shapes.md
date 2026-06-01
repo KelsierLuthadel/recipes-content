@@ -165,3 +165,9 @@ The dough rope is too thin, or the press wasn't firm enough. Roll thicker (1 cm)
 - [Matching Sauce to Shape](matching-sauce-to-shape.md): which sauce for which shape.
 - [Dried Pasta](dried-pasta.md): the everyday alternative.
 - [Pasta Course landing](pasta.md): back to the main course.
+
+## Storage
+- Fresh pasta dough keeps 2 days refrigerated, wrapped in cling film
+- Cut fresh pasta dries on a rack in 30 minutes; store dried for up to 1 week in an airtight container
+- Freeze fresh pasta in portioned nests up to 2 months; cook from frozen, adding 1-2 minutes to the boil time
+- Dried pasta keeps indefinitely in a sealed container in a cool, dry cupboard

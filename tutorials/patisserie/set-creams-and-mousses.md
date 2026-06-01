@@ -145,3 +145,9 @@ Too much sugar in too thick a layer; the heat couldn't penetrate to caramelise. 
 - [Composing a Dessert](composing-a-dessert.md): the framework for matching texture and temperature.
 - [Tarts](tarts.md): the alternative dessert form.
 - [Patisserie Course landing](patisserie.md): back to the main course.
+
+## Storage
+- Cream-filled and custard-filled desserts keep 2 days refrigerated; bring to room temperature before serving
+- Sponge cakes keep 3-4 days at room temperature in an airtight container; freeze unfilled up to 1 month
+- Set creams and mousses are best within 24 hours; gelatine continues to firm on day two
+- Petit fours keep 1 week in an airtight tin; some (pâtes de fruits, caramels) considerably longer

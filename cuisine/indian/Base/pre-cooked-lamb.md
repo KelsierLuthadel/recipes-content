@@ -43,3 +43,9 @@ The lamb equivalent of pre-cooked chicken: diced lamb browned hard with onion an
 
 
 *Pre-cooked lamb recipe for use in BIR curries*
+
+## Storage
+- Keeps 4 days refrigerated in an airtight container
+- Freezes well in portion-sized lots up to 3 months
+- Pre-cooked meat is best frozen on the day it's made; thaw fully before adding to a curry
+- Reheats straight from frozen into a hot curry pan

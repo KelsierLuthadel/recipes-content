@@ -103,3 +103,9 @@ Partly. Higher-smoke-point oils (groundnut, rice-bran) help. Some chefs use beef
 - [Ingredient Order](ingredient-order.md): the timing that lets wok hei survive the cook.
 - [Chinese Fried Rice](../../cuisine/chinese/fried-rice.md): a wok-hei-defining home stir-fry test.
 - [Stir-Fry Course landing](stir-fry.md): back to the main course.
+
+## Storage
+- Stir-fries are best eaten immediately: texture and wok hei dissipate within minutes
+- Refrigerate leftovers 1-2 days; reheat in a hot wok or pan, not the microwave
+- Prepped ingredients (chopped veg, marinated proteins) keep 1 day refrigerated; do the mise en place in advance, the cooking last-minute
+- Season your wok regularly; a well-seasoned carbon-steel wok improves with use

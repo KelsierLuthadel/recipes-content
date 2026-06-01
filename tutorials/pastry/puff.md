@@ -162,3 +162,9 @@ Pastry was placed on a cold tray, or the filling soaked through. Use a preheated
 - [Puff Pastry recipe](../../baking/pastry/puff-pastry.md): canonical full lamination recipe with exact quantities.
 - [Rough Puff Pastry recipe](../../baking/pastry/rough-puff-pastry.md): the cheat's-version recipe.
 - [Pastry Course landing](pastry.md): back to the main course.
+
+## Storage
+- Unbaked pastry doughs keep 2-3 days refrigerated, wrapped tightly in cling film
+- Freeze raw doughs in flat discs up to 3 months; thaw overnight in the fridge before rolling
+- Baked pastry items keep 2 days at room temperature in an airtight container; re-crisp in a 180°C oven for 5 minutes
+- Filled pastries (cream, custard) refrigerate and eat within 2 days

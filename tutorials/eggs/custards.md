@@ -128,3 +128,9 @@ Cloudy: sugar layer too thick (sprinkle thinner). Burnt: torched too long in one
 - [Creme Anglaise recipe](../../baking/cremes/creme-anglaise.md): canonical recipe.
 - [Creme Patissiere recipe](../../baking/cremes/creme-patissiere.md): canonical recipe.
 - [Stocks-Sauces / Hollandaise](../stocks-sauces/hollandaise.md): the savoury cousin of custard, same yolk-coagulation principle.
+
+## Storage
+- Most egg dishes are best served immediately; soufflés and omelettes do not hold well
+- Hard-boiled eggs keep 1 week refrigerated, in or out of the shell
+- Custards and creams keep 2 days refrigerated; cover the surface with cling film to prevent a skin forming
+- Never freeze fresh egg dishes: the texture breaks down on thaw

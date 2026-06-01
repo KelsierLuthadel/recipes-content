@@ -48,3 +48,9 @@ The BIR icon: tandoori-grilled chicken finished in a velvety tomato-onion sauce 
 1. Sprinkle with the garam masala and serve.
 
 *The restaurant served delicious marinated chicken, meat and vegetables, all charred to perfection in a tandoor. Not one to waste, Gujral came up with the idea of using the leftover marinades in a curry, and butter chicken (murgh makhani) was born.*
+
+## Storage
+- Refrigerate 2-3 days in an airtight container
+- Freezes up to 2 months; thaw fully before reheating
+- Reheat gently on low heat with a splash of stock or water if the gravy has thickened
+- Flavour deepens overnight as the spices meld

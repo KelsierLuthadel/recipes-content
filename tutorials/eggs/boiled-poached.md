@@ -142,3 +142,9 @@ Vinegar too aggressive; older eggs with thinner whites. Both fine; the egg will 
 - [Scrambled and Omelette](scrambled-omelette.md): the next preparation up the temperature ladder.
 - [Custards](custards.md): more delicate egg-coagulation control.
 - [Eggs Course landing](eggs.md): back to the main course.
+
+## Storage
+- Most egg dishes are best served immediately; soufflés and omelettes do not hold well
+- Hard-boiled eggs keep 1 week refrigerated, in or out of the shell
+- Custards and creams keep 2 days refrigerated; cover the surface with cling film to prevent a skin forming
+- Never freeze fresh egg dishes: the texture breaks down on thaw
