@@ -2,38 +2,48 @@ prep: 5 minutes
 cook: 0 minutes
 allergens:
   - dairy
+  - garlic
 tags:
   - vegetarian
   - gluten-free
   - quick
-  - cold
-  - savoury
+  - make-ahead
+  - garlic
+  - lime
   - yogurt
-  - mint
+mentions:
+  - cuisine/iraq/quzi
+  - drinks/regional/afghanistan/doogh
+  - drinks/regional/turkey/ayran
 ingredients:
   - qty: 400
     unit: g
-    name: full-fat plain yogurt
+    name: plain yogurt
     raw: 400 g full-fat plain yogurt
   - qty: 600
     unit: ml
-    name: cold water
+    name: water
     raw: 600 ml cold water
   - qty: 1
     unit: tsp
-    name: fine salt
+    name: salt
     raw: 1 teaspoon fine salt
   - qty: 2
     unit: tsp
-    name: dried mint
-    raw: 2 teaspoons dried mint
+    name: mint
+    raw: 2 teaspoons dried mint, crumbled between your fingers
   - qty: 1
-    name: dried lime
-    raw: 1 dried lime (loomi), cracked open (optional)
+    name: lime
+    raw: 1 dried lime , cracked open and seeds discarded
   - qty: 1
-    name: garlic clove
-    raw: 1 small clove garlic, finely grated (optional)
+    name: garlic
+    raw: 1 small clove garlic, finely grated
   - name: ice cubes
-    raw: A few ice cubes (optional)
-  - name: mint sprig
-    raw: Fresh mint sprig to garnish
+    raw: A few ice cubes
+  - qty: 1
+    unit: small pinch
+    name: mint
+    raw: A small pinch of dried mint, plus a fresh mint sprig if you have one
+  - qty: 4
+    name: tall glasses
+    raw: 4 tall glasses, chilled

@@ -6,27 +6,23 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
-  - hot
-  - tea
-  - cardamom
-  - spices
+  - quick
+mentions: []
 ingredients:
   - qty: 4
-    unit: tsp
-    name: strong black loose-leaf tea
+    name: heaped teaspoons strong black loose-leaf tea
     raw: 4 heaped teaspoons strong black loose-leaf tea
   - qty: 4
     name: green cardamom pods
     raw: 4 green cardamom pods, lightly crushed
   - qty: 2
     name: cloves
-    raw: 2 cloves (optional)
-  - qty: 1
-    name: cinnamon stick
-    raw: A small piece of cinnamon stick (optional)
+    raw: 2 cloves
+  - name: cinnamon stick
+    raw: A small piece of cinnamon stick
   - qty: 1.2
-    unit: litres
+    unit: l
     name: water
     raw: 1.2 litres water
-  - name: sugar cubes
+  - name: sugar cubes or granulated sugar
     raw: Sugar cubes or granulated sugar, to serve
