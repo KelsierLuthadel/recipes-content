@@ -1,0 +1,28 @@
+prep: 5 minutes
+cook: 0 minutes (assuming brewed coffee)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - cream
+mentions: []
+ingredients:
+  - qty: 30
+    unit: ml
+    name: irish whiskey
+    raw: 30 ml Irish whiskey
+  - qty: 1
+    name: to 2 teaspoons soft brown sugar
+    raw: 1 to 2 teaspoons soft brown sugar
+  - qty: 100
+    unit: ml
+    name: coffee
+    raw: 100 ml strong hot coffee
+  - qty: 30
+    unit: ml
+    name: double cream
+    raw: 30 ml double cream
+  - name: footed irish-coffee glass
+    raw: A footed Irish-coffee glass

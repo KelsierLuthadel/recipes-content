@@ -1,0 +1,25 @@
+prep: 1 minute
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 200
+    unit: ml
+    name: cold cloudy apple juice
+    raw: 200 ml cold cloudy apple juice
+  - qty: 200
+    unit: ml
+    name: chilled sparkling water
+    raw: 200 ml chilled sparkling water
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - name: apple
+    raw: A wedge of fresh apple
+  - name: tall glass
+    raw: A tall glass

@@ -1,0 +1,67 @@
+prep: 10 minutes
+cook: 2 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - ginger
+  - coriander
+  - yogurt
+  - chili
+mentions: []
+ingredients:
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 500
+    unit: g
+    name: plain yogurt
+    raw: 500 g thick full-fat plain yogurt
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml cold water
+  - qty: 15
+    name: mint leaves
+    raw: 15 fresh mint leaves
+  - qty: 2
+    unit: tbsp
+    name: coriander leaves
+    raw: 2 tablespoons fresh coriander leaves
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 1
+    unit: tsp
+    name: black salt
+    raw: 1 teaspoon black salt
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon fine salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon white pepper
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    unit: pinch
+    name: toasted cumin powder
+    raw: A pinch of toasted cumin powder
+  - qty: 1
+    unit: small sprig
+    name: mint
+    raw: A small sprig of fresh mint

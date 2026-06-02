@@ -1,0 +1,30 @@
+prep: 2 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lemon
+mentions: []
+ingredients:
+  - qty: 250
+    unit: ml
+    name: cola
+    raw: 250 ml cola
+  - qty: 250
+    unit: ml
+    name: orange soda
+    raw: 250 ml orange soda
+  - qty: 2
+    name: lemon wedges
+    raw: 2 lemon wedges, plus extra to garnish
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - qty: 2
+    name: tall glasses
+    raw: 2 tall glasses, chilled
+  - name: long-handled spoon or straw
+    raw: A long-handled spoon or straw

@@ -1,0 +1,61 @@
+prep: 10 minutes (plus 24 hours chilling)
+cook: 0 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - coconut
+  - lime
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 250
+    unit: ml
+    name: white rum
+    raw: 250 ml white rum
+  - qty: 400
+    unit: ml
+    name: coconut cream
+    raw: 400 ml coconut cream
+  - qty: 400
+    unit: ml
+    name: evaporated milk
+    raw: 400 ml evaporated milk
+  - qty: 250
+    unit: ml
+    name: sweetened condensed milk
+    raw: 250 ml sweetened condensed milk
+  - qty: 200
+    unit: ml
+    name: coconut milk
+    raw: 200 ml coconut milk
+  - qty: 1
+    unit: tbsp
+    name: vanilla extract
+    raw: 1 tablespoon vanilla extract
+  - qty: 1
+    unit: tsp
+    name: almond extract
+    raw: 1 teaspoon almond extract
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of fine salt
+  - name: "optional: zest of 1 lime"
+    raw: "Optional: zest of 1 lime"
+  - name: shot glasses or cordial glasses
+    raw: Small shot glasses or cordial glasses
+  - name: nutmeg on top
+    raw: A grating of fresh nutmeg on top

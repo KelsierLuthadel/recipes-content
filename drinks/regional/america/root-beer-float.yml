@@ -1,0 +1,23 @@
+prep: 1 minute
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 350
+    unit: ml
+    name: beer
+    raw: 350 ml cold root beer
+  - qty: 2
+    name: vanilla ice cream
+    raw: 2 generous scoops vanilla ice cream
+  - name: tall chilled glass
+    raw: A tall chilled glass
+  - name: long spoon
+    raw: A long spoon
+  - name: paper straw
+    raw: A paper straw

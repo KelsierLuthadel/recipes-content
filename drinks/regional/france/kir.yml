@@ -1,0 +1,19 @@
+prep: 1 minute
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 10
+    name: to 15 ml creme de cassis
+    raw: 10 to 15 ml crème de cassis
+  - qty: 90
+    unit: ml
+    name: chilled dry white wine
+    raw: 90 ml chilled dry white wine
+  - name: wine glass
+    raw: A small wine glass

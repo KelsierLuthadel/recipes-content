@@ -1,0 +1,32 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - rice
+  - butter
+mentions: []
+ingredients:
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre cold water
+  - qty: 2
+    unit: tbsp
+    name: compressed pu-erh tea
+    raw: 2 tablespoons compressed pu-erh tea, or 3 tablespoons strong black loose-leaf tea
+  - qty: 50
+    unit: g
+    name: yak butter
+    raw: 50 g yak butter
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - name: bowls or handleless cups
+    raw: Small bowls or handleless cups
+  - name: saucer of zaow
+    raw: A saucer of zaow

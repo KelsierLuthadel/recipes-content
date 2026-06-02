@@ -1,0 +1,67 @@
+prep: 10 minutes
+cook: 5 minutes
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - coconut
+  - lime
+  - chili
+  - curry
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: leafy greens
+    raw: 250 g leafy greens
+  - qty: 2
+    unit: tbsp
+    name: coconut oil
+    raw: 2 tablespoons coconut oil
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 1
+    unit: tsp
+    name: mustard seeds
+    raw: 1 teaspoon mustard seeds
+  - qty: 1
+    unit: sprig
+    name: curry leaves
+    raw: 1 sprig fresh curry leaves
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 80
+    unit: g
+    name: coconut
+    raw: 80 g freshly grated coconut
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon ground black pepper

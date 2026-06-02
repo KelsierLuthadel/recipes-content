@@ -1,0 +1,23 @@
+prep: 2 minutes
+cook: 4 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 50
+    unit: g
+    name: dark-roast coffee
+    raw: 50 g finely ground dark-roast coffee
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml cold water
+  - qty: 4
+    unit: tsp
+    name: demerara or caster sugar
+    raw: 4 teaspoons demerara or caster sugar

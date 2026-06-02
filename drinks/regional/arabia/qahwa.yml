@@ -1,0 +1,39 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 750
+    unit: ml
+    name: water
+    raw: 750 ml cold water
+  - qty: 3
+    unit: tbsp
+    name: roasted arabica coffee
+    raw: 3 tablespoons lightly roasted Arabica coffee
+  - qty: 1
+    unit: tbsp
+    name: green cardamom pods
+    raw: 1 tablespoon green cardamom pods
+  - qty: 4
+    name: to 6 strands saffron
+    raw: 4 to 6 strands saffron
+  - qty: 2
+    name: cloves
+    raw: 2 cloves
+  - qty: 1
+    unit: tsp
+    name: rose water
+    raw: 1 teaspoon rose water
+  - name: handleless cups
+    raw: Small handleless cups
+  - name: saucer of medjool dates
+    raw: A saucer of Medjool dates
+  - name: bowl of dried fruit or nuts
+    raw: A small bowl of dried fruit or nuts

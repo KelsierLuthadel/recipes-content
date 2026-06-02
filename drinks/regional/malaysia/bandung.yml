@@ -1,0 +1,33 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 100
+    unit: ml
+    name: rose syrup
+    raw: 100 ml rose syrup
+  - qty: 200
+    unit: ml
+    name: sweetened condensed milk
+    raw: 200 ml sweetened condensed milk
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml cold water
+  - qty: 1
+    unit: tsp
+    name: rose water
+    raw: 1 teaspoon rose water
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - qty: 4
+    name: tall glasses
+    raw: 4 tall glasses, chilled
+  - name: rose petals or mint
+    raw: Fresh rose petals or mint sprigs

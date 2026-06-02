@@ -1,0 +1,44 @@
+prep: 20 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - coconut
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: rice flour
+    raw: 250 g rice flour
+  - qty: 50
+    unit: g
+    name: plain flour
+    raw: 50 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 250
+    unit: ml
+    name: coconut milk
+    raw: 250 ml thin coconut milk
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml cold water
+  - qty: 1
+    unit: l
+    name: coconut oil
+    raw: 1 litre coconut oil

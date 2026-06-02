@@ -1,0 +1,65 @@
+prep: 15 minutes (plus 8 hours fermenting)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - coconut
+  - curry
+  - complex
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+  - cuisine/sri-lankan/pol-sambol
+  - cuisine/sri-lankan/side-dishes/seeni-sambol
+  - cuisine/sri-lankan/sri-lankan-chicken-curry
+ingredients:
+  - qty: 250
+    unit: g
+    name: rice flour
+    raw: 250 g rice flour
+  - qty: 50
+    unit: g
+    name: semolina
+    raw: 50 g semolina
+  - qty: 7
+    unit: g
+    name: instant yeast
+    raw: 7 g instant yeast
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml warm coconut milk
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml warm water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 1
+    unit: tbsp
+    name: coconut oil
+    raw: 1 tablespoon coconut oil
+  - qty: 4
+    name: eggs
+    raw: 4 small eggs
+  - qty: 1
+    unit: pinch
+    name: salt and pepper per egg
+    raw: Pinch of salt and pepper per egg
+  - name: curry leaves chopped fine
+    raw: A few curry leaves chopped fine for garnish
+  - name: sri lankan chicken curry
+    raw: Sri Lankan chicken curry, pol sambol, seeni sambol, lunu miris

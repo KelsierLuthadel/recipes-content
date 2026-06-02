@@ -1,0 +1,43 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+mentions: []
+ingredients:
+  - qty: 80
+    unit: g
+    name: black tapioca pearls
+    raw: 80 g dried black tapioca pearls
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre boiling water
+  - qty: 4
+    unit: tbsp
+    name: brown sugar
+    raw: 4 tablespoons brown sugar
+  - qty: 400
+    unit: ml
+    name: just-boiled water
+    raw: 400 ml just-boiled water
+  - qty: 2
+    unit: tbsp
+    name: black tea
+    raw: 2 tablespoons strong black tea
+  - qty: 4
+    unit: tbsp
+    name: brown sugar syrup
+    raw: 4 tablespoons brown sugar syrup
+  - qty: 200
+    unit: ml
+    name: evaporated milk or whole milk
+    raw: 200 ml evaporated milk or whole milk
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - name: wide bubble tea straws
+    raw: Wide bubble tea straws

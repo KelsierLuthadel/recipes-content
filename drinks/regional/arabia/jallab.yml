@@ -1,0 +1,35 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens:
+  - tree-nuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - nuts
+mentions: []
+ingredients:
+  - qty: 6
+    unit: tbsp
+    name: jallab syrup
+    raw: 6 tablespoons jallab syrup
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml cold water
+  - name: plenty of crushed ice
+    raw: Plenty of crushed ice
+  - qty: 2
+    unit: tbsp
+    name: pine nuts
+    raw: 2 tablespoons pine nuts
+  - qty: 2
+    unit: tbsp
+    name: raisins
+    raw: 2 tablespoons raisins
+  - qty: 1
+    unit: tsp
+    name: rose water
+    raw: 1 teaspoon rose water

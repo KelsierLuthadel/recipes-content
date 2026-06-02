@@ -9,7 +9,8 @@ tags:
   - dessert
   - eggs
   - lemon
-mentions: []
+mentions:
+  - drinks/regional/haiti/cremas
 ingredients:
   - qty: 750
     unit: ml

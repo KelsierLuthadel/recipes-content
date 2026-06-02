@@ -1,0 +1,45 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - yogurt
+mentions:
+  - cuisine/afghanistan/kabuli-pulao
+  - cuisine/afghanistan/mantu
+  - cuisine/afghanistan/snacks/mantu
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain yogurt
+    raw: 500 g thick full-fat plain yogurt
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml very cold water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tablespoon chopped fresh mint
+  - qty: 1
+    unit: pinch
+    name: sumac
+    raw: Pinch of dried sumac
+  - name: tall glasses
+    raw: Tall glasses
+  - name: ice cubes
+    raw: Ice cubes
+  - name: mint
+    raw: Fresh mint sprigs

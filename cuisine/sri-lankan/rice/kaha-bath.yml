@@ -1,0 +1,77 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - rice
+  - onion
+  - garlic
+  - coconut
+  - nuts
+  - curry
+  - complex
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: basmati rice
+    raw: 400 g basmati rice
+  - qty: 2
+    unit: tbsp
+    name: coconut oil
+    raw: 2 tablespoons coconut oil
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf
+  - qty: 1
+    unit: sprig
+    name: curry leaves
+    raw: 1 sprig fresh curry leaves
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons fine salt
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml thick coconut milk
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml hot water
+  - qty: 50
+    unit: g
+    name: cashews
+    raw: 50 g raw cashews
+  - qty: 30
+    unit: g
+    name: raisins or sultanas
+    raw: 30 g raisins or sultanas
+  - qty: 1
+    unit: tbsp
+    name: ghee or coconut oil
+    raw: 1 tablespoon ghee or coconut oil

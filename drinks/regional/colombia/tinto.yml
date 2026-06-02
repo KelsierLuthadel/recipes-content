@@ -1,0 +1,25 @@
+prep: 2 minutes
+cook: 8 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml cold water
+  - qty: 40
+    unit: g
+    name: panela
+    raw: 40 g panela
+  - qty: 50
+    unit: g
+    name: colombian coffee
+    raw: 50 g ground Colombian coffee
+  - name: porcelain cups
+    raw: Small porcelain cups

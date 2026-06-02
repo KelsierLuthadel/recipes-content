@@ -1,0 +1,37 @@
+prep: 3 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lemon
+mentions:
+  - drinks/classic/lemonade
+ingredients:
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - name: caster sugar
+    raw: Caster sugar
+  - qty: 200
+    name: to 300 ml cold still water
+    raw: 200 to 300 ml cold still water
+  - qty: 100
+    unit: ml
+    name: chilled soda water
+    raw: 100 ml chilled soda water
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - name: tall glass with lemon juice
+    raw: A tall glass with lemon juice
+  - name: sugar bowl
+    raw: A small sugar bowl
+  - name: long iced-tea spoon for stirring
+    raw: A long iced-tea spoon for stirring
+  - name: water carafe
+    raw: A water carafe
+  - name: lemon slice on the rim
+    raw: A lemon slice on the rim

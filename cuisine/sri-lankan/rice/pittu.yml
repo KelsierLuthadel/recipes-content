@@ -1,0 +1,49 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+tags:
+  - spicy
+  - meals
+  - fish
+  - coconut
+  - chili
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: red rice flour
+    raw: 400 g red rice flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 100
+    unit: g
+    name: coconut
+    raw: 100 g freshly grated coconut
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml warm water
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml thick coconut milk
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 1
+    name: green chilli
+    raw: 1 small green chilli
+  - qty: 1
+    name: banana per person
+    raw: 1 ripe banana per person
+  - name: "curry on the side: parippu"
+    raw: "A curry on the side: parippu, fish curry, kiri hodi"
+  - name: spoon of kithul palm treacle
+    raw: A spoon of kithul palm treacle

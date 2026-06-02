@@ -1,0 +1,42 @@
+prep: 5 minutes
+cook: 30 minutes (plus chilling)
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - dairy-free
+  - lemon
+  - honey
+mentions:
+  - drinks/classic/lemonade
+ingredients:
+  - qty: 100
+    unit: g
+    name: pearl barley
+    raw: 100 g pearl barley
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - name: pared zest of 3 unwaxed lemons
+    raw: Pared zest of 3 unwaxed lemons
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - name: juice of 3 lemons
+    raw: Juice of 3 lemons
+  - qty: 1
+    unit: tbsp
+    name: honey
+    raw: 1 tablespoon honey
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - name: lemon slices
+    raw: Lemon slices
+  - name: mint
+    raw: Mint sprigs
+  - name: sparkling water
+    raw: Cold sparkling water
+  - name: tall glasses
+    raw: Tall glasses, chilled

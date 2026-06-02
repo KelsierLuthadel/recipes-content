@@ -1,0 +1,78 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - sides
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - chili
+  - curry
+  - complex
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: beetroot
+    raw: 500 g raw beetroot
+  - qty: 2
+    unit: tbsp
+    name: coconut oil
+    raw: 2 tablespoons coconut oil
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 1
+    unit: tsp
+    name: mustard seeds
+    raw: 1 teaspoon mustard seeds
+  - qty: 0.5
+    unit: tsp
+    name: fenugreek seeds
+    raw: ½ teaspoon fenugreek seeds
+  - qty: 1
+    unit: sprig
+    name: curry leaves
+    raw: 1 sprig fresh curry leaves
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tsp
+    name: sri lankan curry powder
+    raw: 1 teaspoon Sri Lankan curry powder
+  - qty: 0.25
+    unit: tsp
+    name: turmeric
+    raw: ¼ teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 200
+    unit: ml
+    name: coconut milk
+    raw: 200 ml thin coconut milk
+  - qty: 1
+    unit: tbsp
+    name: cider vinegar
+    raw: 1 tablespoon cider vinegar

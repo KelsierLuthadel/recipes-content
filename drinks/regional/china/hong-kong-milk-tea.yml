@@ -1,0 +1,26 @@
+prep: 3 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml cold water
+  - qty: 3
+    unit: tbsp
+    name: loose-leaf strong black tea blend
+    raw: 3 tablespoons loose-leaf strong black tea blend
+  - qty: 200
+    unit: ml
+    name: evaporated milk
+    raw: 200 ml evaporated milk
+  - qty: 4
+    unit: tbsp
+    name: caster sugar
+    raw: 4 tablespoons caster sugar

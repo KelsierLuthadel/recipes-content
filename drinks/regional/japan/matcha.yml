@@ -1,0 +1,19 @@
+prep: 3 minutes
+cook: 2 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 2
+    unit: g
+    name: matcha powder
+    raw: 2 g matcha powder
+  - qty: 70
+    unit: ml
+    name: water at 70 to 80°c
+    raw: 70 ml hot water at 70 to 80°C

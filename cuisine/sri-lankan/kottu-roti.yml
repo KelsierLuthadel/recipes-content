@@ -1,0 +1,95 @@
+prep: 15 minutes (assuming pre-made roti)
+cook: 15 minutes
+allergens:
+  - eggs
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - carrot
+  - lime
+  - chili
+  - soy-sauce
+  - curry
+  - complex
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+  - cuisine/sri-lankan/pol-sambol
+  - cuisine/sri-lankan/sri-lankan-chicken-curry
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: godhamba roti
+    raw: 4 godhamba roti
+  - qty: 3
+    unit: tbsp
+    name: coconut oil
+    raw: 3 tablespoons coconut oil
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 1
+    name: leek
+    raw: 1 leek
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies
+  - qty: 1
+    unit: sprig
+    name: curry leaves
+    raw: 1 sprig fresh curry leaves
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 1
+    unit: tbsp
+    name: sri lankan curry powder
+    raw: 1 tablespoon Sri Lankan curry powder
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 teaspoon Kashmiri chilli powder
+  - qty: 2
+    unit: tbsp
+    name: soy sauce
+    raw: 2 tablespoons soy sauce
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 200
+    unit: g
+    name: pre-cooked chicken curry
+    raw: 200 g pre-cooked chicken curry, including some of its sauce ; OR substitute 200 g cooked diced chicken + 4 tablespoons curry sauce
+  - name: lime wedges
+    raw: Fresh lime wedges
+  - name: pol sambol on the side
+    raw: Pol sambol on the side
+  - name: bowl of extra curry sauce poured over
+    raw: A small bowl of extra curry sauce poured over

@@ -1,0 +1,38 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+mentions:
+  - cuisine/mexican/side-dishes/elote
+ingredients:
+  - qty: 4
+    name: ears fresh sweet corn
+    raw: 4 ears fresh sweet corn
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 80
+    unit: g
+    name: dark brown sugar
+    raw: 80 g dark brown sugar
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon fine salt
+  - name: cinnamon
+    raw: Ground cinnamon

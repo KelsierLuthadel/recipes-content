@@ -1,0 +1,38 @@
+prep: 10 minutes
+cook: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lime
+mentions: []
+ingredients:
+  - qty: 80
+    unit: g
+    name: seedless tamarind pulp
+    raw: 80 g seedless tamarind pulp
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml hot water
+  - qty: 80
+    unit: g
+    name: palm sugar
+    raw: 80 g palm sugar
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ teaspoon fine salt
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml cold water
+  - name: plenty of crushed ice
+    raw: Plenty of crushed ice
+  - name: lime wedges
+    raw: Lime wedges
+  - name: mint
+    raw: Mint sprigs

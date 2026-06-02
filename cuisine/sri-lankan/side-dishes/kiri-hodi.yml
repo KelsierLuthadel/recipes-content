@@ -1,0 +1,65 @@
+prep: 5 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - onion
+  - garlic
+  - coconut
+  - lime
+  - chili
+  - curry
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: coconut oil
+    raw: 1 tablespoon coconut oil
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 1
+    unit: sprig
+    name: curry leaves
+    raw: 1 sprig fresh curry leaves
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf
+  - qty: 1
+    unit: tsp
+    name: mustard seeds
+    raw: 1 teaspoon mustard seeds
+  - qty: 0.25
+    unit: tsp
+    name: fenugreek seeds
+    raw: ¼ teaspoon fenugreek seeds
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml thin coconut milk
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons fine salt
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice

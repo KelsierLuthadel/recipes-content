@@ -1,0 +1,78 @@
+prep: 20 minutes
+cook: 60 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - coconut
+  - butter
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 250
+    unit: g
+    name: coconut
+    raw: 250 g fresh grated coconut
+  - qty: 200
+    unit: g
+    name: kithul jaggery
+    raw: 200 g kithul jaggery
+  - qty: 100
+    unit: ml
+    name: kithul palm treacle
+    raw: 100 ml kithul palm treacle
+  - qty: 100
+    unit: g
+    name: salted butter
+    raw: 100 g salted butter
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 150
+    unit: g
+    name: semolina
+    raw: 150 g semolina
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon fine salt
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 100
+    unit: g
+    name: cashews
+    raw: 100 g raw cashews
+  - qty: 100
+    unit: g
+    name: raisins or sultanas
+    raw: 100 g raisins or sultanas
+  - qty: 50
+    unit: g
+    name: candied citrus peel
+    raw: 50 g candied citrus peel
+  - qty: 1
+    unit: tbsp
+    name: rose water
+    raw: 1 tablespoon rose water
+  - name: 23 cm square tin
+    raw: A 23 cm square tin, greased and lined with baking paper

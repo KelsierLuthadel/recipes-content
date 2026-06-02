@@ -1,0 +1,35 @@
+prep: 3 minutes
+cook: 12 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 3
+    unit: tbsp
+    name: loose-leaf black tea
+    raw: 3 tablespoons loose-leaf black tea
+  - qty: 3
+    name: cardamom pods
+    raw: 3 cardamom pods
+  - name: "optional: a small piece of orange peel for the brewing pot"
+    raw: "Optional: a small piece of orange peel for the brewing pot"
+  - qty: 4
+    name: estekan glasses or small clear tea cups
+    raw: 4 estekan glasses OR small clear tea cups
+  - name: saucers
+    raw: Saucers
+  - name: bowl of sugar cubes
+    raw: A bowl of sugar cubes
+  - name: "bowls of fruit preserves : quince"
+    raw: "Small bowls of fruit preserves : quince, sour cherry, or rose petal"
+  - name: dates or saffron brittle on a side plate
+    raw: Dates or saffron brittle on a side plate

@@ -1,0 +1,33 @@
+prep: 3 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 2
+    name: heaped teaspoons instant coffee
+    raw: 2 heaped teaspoons instant coffee
+  - qty: 1
+    name: to 4 teaspoons caster sugar
+    raw: 1 to 4 teaspoons caster sugar
+  - qty: 3
+    unit: tbsp
+    name: water
+    raw: 3 tablespoons cold water
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - qty: 200
+    unit: ml
+    name: additional cold water
+    raw: 200 ml additional cold water
+  - qty: 30
+    name: to 50 ml cold milk
+    raw: 30 to 50 ml cold milk
+  - name: tall glass
+    raw: A tall glass
+  - name: straw
+    raw: A straw

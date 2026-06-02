@@ -1,0 +1,33 @@
+prep: 2 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lemon
+  - lime
+mentions:
+  - drinks/classic/lemonade
+ingredients:
+  - qty: 4
+    unit: dash
+    name: angostura bitters
+    raw: 4 dashes Angostura bitters
+  - qty: 15
+    unit: ml
+    name: lime cordial
+    raw: 15 ml lime cordial
+  - qty: 250
+    unit: ml
+    name: cold clear lemonade
+    raw: 250 ml cold clear lemonade
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    name: lemon
+    raw: 1 wedge of fresh lemon
+  - name: paper straw
+    raw: A paper straw

@@ -1,0 +1,45 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - nuts
+mentions: []
+ingredients:
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml cold water
+  - qty: 2
+    unit: tbsp
+    name: loose-leaf green tea
+    raw: 2 tablespoons loose-leaf green tea
+  - qty: 0.25
+    unit: tsp
+    name: bicarbonate of soda
+    raw: ¼ teaspoon bicarbonate of soda
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml cold water
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 2
+    unit: tbsp
+    name: pistachios
+    raw: 2 tablespoons chopped pistachios
+  - name: almonds
+    raw: A sprinkle of crushed almonds

@@ -10,7 +10,8 @@ tags:
   - make-ahead
   - eggs
   - honey
-mentions: []
+mentions:
+  - drinks/regional/japan/matcha
 ingredients:
   - qty: 6
     name: eggs

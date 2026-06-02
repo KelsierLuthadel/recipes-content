@@ -8,7 +8,8 @@ tags:
   - dairy-free
   - dessert
   - complex
-mentions: []
+mentions:
+  - drinks/regional/china/jasmine-tea
 ingredients:
   - qty: 520
     unit: g

@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+mentions:
+  - drinks/regional/china/bubble-tea
+ingredients:
+  - qty: 100
+    unit: g
+    name: tapioca pearls
+    raw: 100 g small tapioca pearls
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml water
+  - qty: 25
+    unit: g
+    name: agar agar powder
+    raw: 25 g agar agar powder
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 50
+    unit: g
+    name: brown sugar
+    raw: 50 g brown sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 250
+    unit: g
+    name: dark brown sugar
+    raw: 250 g dark brown sugar
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres cold water

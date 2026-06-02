@@ -1,0 +1,33 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - ginger
+  - lime
+mentions: []
+ingredients:
+  - qty: 500
+    unit: ml
+    name: sugarcane juice
+    raw: 500 ml fresh sugarcane juice
+  - qty: 30
+    unit: ml
+    name: lime juice
+    raw: 30 ml fresh lime juice
+  - qty: 1
+    name: ginger
+    raw: 1 cm fresh ginger
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of fine salt
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - name: lime wedges
+    raw: Lime wedges

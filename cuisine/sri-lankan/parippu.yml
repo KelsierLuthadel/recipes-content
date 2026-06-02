@@ -1,0 +1,88 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - lentils
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - chili
+  - curry
+  - complex
+mentions:
+  - cuisine/sri-lankan/pol-sambol
+ingredients:
+  - qty: 200
+    unit: g
+    name: red split lentils
+    raw: 200 g red split lentils
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml cold water
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: fenugreek seeds
+    raw: ½ teaspoon fenugreek seeds
+  - qty: 1
+    unit: tsp
+    name: mustard seeds
+    raw: 1 teaspoon mustard seeds
+  - qty: 1
+    unit: sprig
+    name: curry leaves
+    raw: 1 sprig fresh curry leaves
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 200
+    unit: ml
+    name: coconut milk
+    raw: 200 ml thick coconut milk
+  - qty: 2
+    unit: tbsp
+    name: coconut oil
+    raw: 2 tablespoons coconut oil
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 1
+    unit: sprig
+    name: curry leaves
+    raw: 1 sprig curry leaves
+  - qty: 2
+    name: red chillies
+    raw: 2 dried red chillies
+  - qty: 0.5
+    unit: tsp
+    name: mustard seeds
+    raw: ½ teaspoon mustard seeds

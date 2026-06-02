@@ -1,0 +1,51 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+  - peanuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - butter
+  - nuts
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: roasted unsalted peanuts
+    raw: 200 g roasted unsalted peanuts
+  - qty: 400
+    unit: ml
+    name: evaporated milk
+    raw: 400 ml evaporated milk
+  - qty: 250
+    unit: ml
+    name: sweetened condensed milk
+    raw: 250 ml sweetened condensed milk
+  - qty: 50
+    unit: g
+    name: rolled oats
+    raw: 50 g rolled oats
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml cold water
+  - qty: 1
+    unit: tbsp
+    name: vanilla extract
+    raw: 1 tablespoon vanilla extract
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of fine salt
+  - name: "optional: 100 ml guinness or other stout"
+    raw: "Optional: 100 ml Guinness or other stout"
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - name: nutmeg
+    raw: Grated fresh nutmeg

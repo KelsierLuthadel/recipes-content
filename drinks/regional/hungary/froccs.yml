@@ -1,0 +1,28 @@
+prep: 2 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lemon
+mentions:
+  - drinks/classic/lemonade
+ingredients:
+  - qty: 400
+    unit: ml
+    name: dry hungarian white wine
+    raw: 400 ml dry Hungarian white wine, very cold
+  - qty: 200
+    unit: ml
+    name: chilled soda water
+    raw: 200 ml chilled soda water
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - qty: 2
+    name: tall glasses
+    raw: 2 tall glasses, chilled in the freezer for 10 minutes
+  - name: lemon per glass
+    raw: A small slice of lemon per glass

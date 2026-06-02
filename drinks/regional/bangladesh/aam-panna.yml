@@ -1,0 +1,50 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions:
+  - drinks/classic/lemonade
+ingredients:
+  - qty: 500
+    unit: g
+    name: green unripe mangoes
+    raw: 500 g green unripe mangoes
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 2
+    unit: tsp
+    name: black salt
+    raw: 2 teaspoons black salt
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon fine salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon black pepper
+  - qty: 4
+    name: to 6 tablespoons caster sugar
+    raw: 4 to 6 tablespoons caster sugar
+  - qty: 15
+    name: mint leaves
+    raw: 15 fresh mint leaves
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre cold water
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - name: mint
+    raw: Fresh mint sprigs
+  - qty: 1
+    unit: pinch
+    name: toasted cumin powder
+    raw: A pinch of toasted cumin powder

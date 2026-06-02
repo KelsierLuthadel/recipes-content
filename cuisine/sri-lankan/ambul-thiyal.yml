@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - garlic
+  - ginger
+  - curry
+mentions: []
+ingredients:
+  - qty: 700
+    unit: g
+    name: tuna
+    raw: 700 g fresh tuna
+  - qty: 4
+    unit: tbsp
+    name: cleaned goraka or substitute 3 tablespoons tamarind paste + 1 tablespoon dark vinegar
+    raw: 4 tablespoons cleaned goraka OR substitute 3 tablespoons tamarind paste + 1 tablespoon dark vinegar
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 3
+    name: ginger
+    raw: 3 cm fresh ginger
+  - qty: 1
+    unit: tbsp
+    name: black peppercorns
+    raw: 1 tablespoon black peppercorns
+  - qty: 1
+    unit: tbsp
+    name: cinnamon
+    raw: 1 tablespoon ground cinnamon
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons fine salt
+  - qty: 1
+    unit: tsp
+    name: sri lankan roasted curry powder
+    raw: 1 teaspoon Sri Lankan roasted curry powder
+  - qty: 1
+    unit: sprig
+    name: curry leaves
+    raw: 1 sprig fresh curry leaves
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml cold water

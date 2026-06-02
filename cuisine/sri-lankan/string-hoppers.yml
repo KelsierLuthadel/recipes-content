@@ -1,0 +1,39 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - make-ahead
+  - meals
+  - lentils
+  - coconut
+mentions:
+  - cuisine/sri-lankan/pol-sambol
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: rice flour
+    raw: 400 g rice flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 400
+    unit: ml
+    name: just-boiled water
+    raw: 400 ml just-boiled water
+  - qty: 2
+    unit: tbsp
+    name: coconut oil
+    raw: 2 tablespoons coconut oil
+  - name: sodhi or
+    raw: Sodhi OR
+  - name: dal
+    raw: Dal
+  - name: pol sambol
+    raw: Pol sambol
+  - name: pour of coconut milk + a piece of palm sugar/jaggery
+    raw: A small pour of coconut milk + a piece of palm sugar/jaggery

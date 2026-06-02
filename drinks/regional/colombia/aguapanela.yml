@@ -1,0 +1,33 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - lime
+mentions: []
+ingredients:
+  - qty: 150
+    unit: g
+    name: panela
+    raw: 150 g panela
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres water
+  - qty: 60
+    unit: ml
+    name: lime juice
+    raw: 60 ml fresh lime juice
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - name: lime wedges
+    raw: Lime wedges
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk, warmed
+  - name: cinnamon stick
+    raw: A cinnamon stick

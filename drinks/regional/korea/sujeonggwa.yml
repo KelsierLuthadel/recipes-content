@@ -1,0 +1,44 @@
+prep: 10 minutes
+cook: 1 hour
+allergens:
+  - tree-nuts
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - ginger
+  - honey
+  - nuts
+mentions:
+  - drinks/regional/korea/sikhye
+ingredients:
+  - qty: 80
+    unit: g
+    name: cinnamon sticks
+    raw: 80 g cinnamon sticks
+  - qty: 80
+    unit: g
+    name: ginger
+    raw: 80 g fresh ginger, sliced into 5 mm coins
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2.5 litres cold water
+  - qty: 150
+    unit: g
+    name: dark muscovado or soft brown sugar
+    raw: 150 g dark muscovado or soft brown sugar
+  - qty: 2
+    unit: tbsp
+    name: honey
+    raw: 2 tablespoons honey
+  - qty: 6
+    name: persimmons
+    raw: 6 dried persimmons
+  - qty: 1
+    unit: tbsp
+    name: pine nuts
+    raw: 1 tablespoon pine nuts
+  - name: pine nuts per cup
+    raw: A few pine nuts per cup

@@ -1,0 +1,37 @@
+prep: 5 minutes
+cook: 3 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - lime
+mentions: []
+ingredients:
+  - qty: 200
+    unit: ml
+    name: calamansi juice
+    raw: 200 ml fresh calamansi juice
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml hot water
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre cold water
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - name: lime wedges or calamansi halves
+    raw: Lime wedges or calamansi halves
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt

@@ -1,0 +1,38 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - cream
+  - chocolate
+mentions: []
+ingredients:
+  - qty: 80
+    unit: g
+    name: dark chocolate
+    raw: 80 g dark chocolate
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 1
+    unit: tbsp
+    name: cocoa powder
+    raw: 1 tablespoon cocoa powder
+  - qty: 2
+    name: espresso shots
+    raw: 2 fresh espresso shots
+  - qty: 80
+    unit: ml
+    name: double cream
+    raw: 80 ml double cream
+  - qty: 2
+    name: heatproof glasses
+    raw: 2 small heatproof glasses

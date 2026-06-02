@@ -1,0 +1,30 @@
+prep: 2 minutes
+cook: 8 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml cold water
+  - qty: 2
+    unit: tbsp
+    name: loose-leaf green tea
+    raw: 2 tablespoons loose-leaf green tea
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tablespoon sugar
+  - name: handleless tea glasses
+    raw: Small handleless tea glasses
+  - name: saucer of sugar cubes or rock candy
+    raw: A saucer of sugar cubes or rock candy

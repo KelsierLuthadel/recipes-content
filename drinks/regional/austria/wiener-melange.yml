@@ -1,0 +1,25 @@
+prep: 2 minutes
+cook: 3 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - nuts
+mentions: []
+ingredients:
+  - qty: 1
+    name: single espresso shot
+    raw: 1 single espresso shot
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - name: glass coffee cup
+    raw: A glass coffee cup
+  - name: glass of cold still water on a saucer alongside
+    raw: A small glass of cold still water on a saucer alongside
+  - name: almond biscuit or biscotti
+    raw: A small almond biscuit or biscotti

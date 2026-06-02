@@ -1,0 +1,31 @@
+prep: 2 minutes
+cook: 7 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml cold water
+  - qty: 2
+    unit: tbsp
+    name: loose-leaf strong black tea
+    raw: 2 tablespoons loose-leaf strong black tea
+  - qty: 3
+    unit: tbsp
+    name: sweetened condensed milk
+    raw: 3 tablespoons sweetened condensed milk
+  - qty: 4
+    unit: tbsp
+    name: evaporated milk
+    raw: 4 tablespoons evaporated milk
+  - name: thick-walled glass mugs
+    raw: Small thick-walled glass mugs
+  - name: fried dough or a plain roll
+    raw: A wedge of fried dough or a plain roll

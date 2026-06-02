@@ -1,0 +1,45 @@
+prep: 15 minutes
+cook: 6 hours (mostly unattended fermentation)
+allergens:
+  - gluten
+  - tree-nuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - rice
+  - ginger
+  - nuts
+  - complex
+mentions:
+  - drinks/regional/korea/sujeonggwa
+ingredients:
+  - qty: 200
+    unit: g
+    name: short-grain rice
+    raw: 200 g short-grain rice
+  - qty: 240
+    unit: ml
+    name: water
+    raw: 240 ml water
+  - qty: 100
+    unit: g
+    name: yeotgireum
+    raw: 100 g yeotgireum
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres warm water
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 1
+    name: ginger
+    raw: 1 small piece of fresh ginger, sliced
+  - qty: 2
+    unit: tbsp
+    name: pine nuts
+    raw: 2 tablespoons pine nuts
+  - name: jujubes
+    raw: A few jujubes , thinly sliced

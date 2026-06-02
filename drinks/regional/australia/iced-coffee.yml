@@ -1,0 +1,38 @@
+prep: 3 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 60
+    unit: ml
+    name: coffee
+    raw: 60 ml strong cold coffee
+  - qty: 1
+    name: to 2 teaspoons caster sugar
+    raw: 1 to 2 teaspoons caster sugar
+  - qty: 1
+    name: vanilla ice cream
+    raw: 1 generous scoop vanilla ice cream
+  - qty: 250
+    unit: ml
+    name: full-cream milk
+    raw: 250 ml cold full-cream milk
+  - qty: 2
+    unit: tbsp
+    name: whipped cream
+    raw: 2 tablespoons whipped cream
+  - qty: 1
+    unit: pinch
+    name: cocoa powder or chocolate flakes
+    raw: A pinch of cocoa powder or chocolate flakes
+  - name: tall glass
+    raw: A tall glass
+  - name: long spoon
+    raw: A long spoon
+  - name: wide straw
+    raw: A wide straw

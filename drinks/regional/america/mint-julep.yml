@@ -1,0 +1,31 @@
+prep: 4 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions:
+  - drinks/cocktails/mojito
+ingredients:
+  - qty: 10
+    name: mint leaves
+    raw: 10 fresh mint leaves
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 60
+    unit: ml
+    name: kentucky bourbon
+    raw: 60 ml Kentucky bourbon
+  - name: ice
+    raw: Crushed ice
+  - name: silver julep cup
+    raw: A silver julep cup
+  - name: short straw
+    raw: A short straw
+  - name: fat sprig of fresh mint
+    raw: A fat sprig of fresh mint

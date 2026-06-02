@@ -1,0 +1,46 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - ginger
+  - lime
+mentions: []
+ingredients:
+  - qty: 100
+    unit: g
+    name: turmeric root
+    raw: 100 g fresh turmeric root
+  - qty: 50
+    unit: g
+    name: ginger
+    raw: 50 g fresh ginger
+  - qty: 4
+    unit: tbsp
+    name: tamarind paste
+    raw: 4 tablespoons tamarind paste
+  - qty: 80
+    unit: g
+    name: palm sugar
+    raw: 80 g palm sugar
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres cold water
+  - qty: 2
+    unit: tbsp
+    name: lime juice
+    raw: 2 tablespoons fresh lime juice
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon fine salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - name: lime wedges
+    raw: Lime wedges

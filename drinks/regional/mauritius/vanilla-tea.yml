@@ -1,0 +1,33 @@
+prep: 3 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 4
+    unit: tsp
+    name: mauritian vanilla black tea
+    raw: 4 teaspoons Mauritian vanilla black tea , OR 4 teaspoons strong Assam tea + half a vanilla pod
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod, split lengthways
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml water
+  - qty: 4
+    name: to 6 teaspoons cane sugar
+    raw: 4 to 6 teaspoons cane sugar
+  - qty: 1
+    unit: splash
+    name: milk
+    raw: Splash of milk
+  - name: glass tumblers or teacups
+    raw: Small glass tumblers or teacups

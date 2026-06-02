@@ -1,0 +1,35 @@
+prep: 5 minutes
+cook: 3 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - lime
+mentions: []
+ingredients:
+  - qty: 250
+    unit: ml
+    name: lime juice
+    raw: 250 ml fresh lime juice
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml hot water
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres cold water
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - name: lime wheels
+    raw: Lime wheels
+  - name: mint
+    raw: Fresh mint sprigs

@@ -1,0 +1,39 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - cold
+  - savoury
+  - yogurt
+  - mint
+ingredients:
+  - qty: 400
+    unit: g
+    name: full-fat plain yogurt
+    raw: 400 g full-fat plain yogurt
+  - qty: 600
+    unit: ml
+    name: cold water
+    raw: 600 ml cold water
+  - qty: 1
+    unit: tsp
+    name: fine salt
+    raw: 1 teaspoon fine salt
+  - qty: 2
+    unit: tsp
+    name: dried mint
+    raw: 2 teaspoons dried mint
+  - qty: 1
+    name: dried lime
+    raw: 1 dried lime (loomi), cracked open (optional)
+  - qty: 1
+    name: garlic clove
+    raw: 1 small clove garlic, finely grated (optional)
+  - name: ice cubes
+    raw: A few ice cubes (optional)
+  - name: mint sprig
+    raw: Fresh mint sprig to garnish

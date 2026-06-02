@@ -1,0 +1,26 @@
+prep: 20 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - butter
+mentions: []
+ingredients:
+  - qty: 150
+    unit: g
+    name: green coffee beans
+    raw: 150 g green coffee beans
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres cold water
+  - name: caster sugar
+    raw: Caster sugar to taste
+  - name: salt
+    raw: Salt
+  - name: plain popcorn
+    raw: Plain popcorn
+  - name: saucer of incense
+    raw: A small saucer of incense

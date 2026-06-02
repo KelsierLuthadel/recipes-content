@@ -1,0 +1,47 @@
+prep: 15 minutes
+cook: 3 hours
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - coconut
+  - nuts
+  - complex
+mentions:
+  - cuisine/goan/desserts/dodol
+ingredients:
+  - qty: 800
+    unit: ml
+    name: coconut milk
+    raw: 800 ml thick coconut milk
+  - qty: 400
+    unit: g
+    name: kithul jaggery
+    raw: 400 g kithul jaggery , substitute dark muscovado sugar plus 2 tablespoons black treacle
+  - qty: 150
+    unit: g
+    name: rice flour
+    raw: 150 g rice flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 100
+    unit: g
+    name: cashews
+    raw: 100 g raw cashews
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: 1 pinch nutmeg
+  - qty: 50
+    unit: g
+    name: coconut oil
+    raw: 50 g coconut oil

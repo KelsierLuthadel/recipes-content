@@ -9,7 +9,8 @@ tags:
   - dessert
   - lemon
   - complex
-mentions: []
+mentions:
+  - drinks/regional/arabia/qahwa
 ingredients:
   - qty: 250
     unit: g

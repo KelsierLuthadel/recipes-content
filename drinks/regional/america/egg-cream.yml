@@ -1,0 +1,29 @@
+prep: 2 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - eggs
+  - chocolate
+mentions: []
+ingredients:
+  - qty: 60
+    unit: ml
+    name: milk
+    raw: 60 ml cold whole milk
+  - qty: 2
+    unit: tbsp
+    name: chocolate syrup
+    raw: 2 tablespoons chocolate syrup
+  - qty: 150
+    unit: ml
+    name: chilled seltzer water
+    raw: 150 ml chilled seltzer water
+  - name: paper straw
+    raw: A paper straw
+  - name: tall heavy glass
+    raw: A tall heavy glass

@@ -1,0 +1,35 @@
+prep: 3 minutes
+cook: 8 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lime
+mentions:
+  - drinks/classic/iced-tea
+ingredients:
+  - qty: 800
+    unit: ml
+    name: just-boiled water
+    raw: 800 ml just-boiled water
+  - qty: 4
+    name: tea bags
+    raw: 4 tea bags
+  - qty: 6
+    name: to 8 tablespoons caster sugar
+    raw: 6 to 8 tablespoons caster sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml cold water
+  - name: plenty of crushed or cubed ice
+    raw: Plenty of crushed or cubed ice
+  - name: lime wedges
+    raw: Lime wedges
+  - name: tall glasses
+    raw: Tall glasses
+  - name: plastic or paper straws
+    raw: Plastic or paper straws

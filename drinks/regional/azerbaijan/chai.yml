@@ -1,0 +1,30 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre boiling water
+  - qty: 3
+    unit: tbsp
+    name: loose-leaf strong black tea
+    raw: 3 tablespoons loose-leaf strong black tea
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - name: pear-shaped armudu glasses
+    raw: Pear-shaped armudu glasses
+  - name: cherry preserve
+    raw: Cherry preserve, fig preserve, or rose-petal jam in a small saucer
+  - name: sugar cubes in a small bowl
+    raw: Sugar cubes in a small bowl
+  - name: spoon per glass
+    raw: A small spoon per glass for the preserve
