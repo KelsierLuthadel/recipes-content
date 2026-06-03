@@ -1,42 +1,40 @@
-prep: 240 minutes
-cook: 70 minutes
-allergens:
-  - gluten
+allergens: []
 tags:
-  - tutorial
-  - fermentation
-  - brewing
-  - alcoholic
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
   - make-ahead
+mentions: []
 ingredients:
   - qty: 3
     unit: kg
-    name: dry malt extract (pale)
-    raw: 3 kg dry malt extract, pale variety
+    name: dry malt extract
+    raw: 3 kg dry malt extract , pale variety — Muntons or Brewferm brands, £18-£25
   - qty: 500
     unit: g
-    name: dry malt extract (dark)
-    raw: 500 g dry malt extract, dark or amber
+    name: dry malt extract
+    raw: 500 g dry malt extract, dark or amber variety — for colour and depth, £4
   - qty: 300
     unit: g
-    name: crystal malt 60L
-    raw: 300 g crystal malt, 60 L grade
+    name: crystal malt
+    raw: 300 g crystal malt, 60 L grade — the steeping grain for caramel character, £3-£4
   - qty: 40
     unit: g
-    name: Fuggles hops
-    raw: 40 g Fuggles hop pellets
+    name: fuggles hop pellets — for 60-minute addition. £3-£4
+    raw: 40 g Fuggles hop pellets — for 60-minute addition. £3-£4
   - qty: 30
     unit: g
-    name: East Kent Goldings hops
-    raw: 30 g East Kent Goldings hop pellets
+    name: east kent goldings hop pellets — for 15-minute and 5-minute additions
+    raw: 30 g East Kent Goldings hop pellets — for 15-minute and 5-minute additions, £3-£4
   - qty: 1
-    name: ale yeast sachet
-    raw: 1 sachet English ale yeast (Safale S-04 or Nottingham)
+    name: fermentis safale s-04 — £3
+    raw: 1 sachet Fermentis Safale S-04 — £3
   - qty: 25
-    unit: litres
-    name: cold water
+    unit: l
+    name: water
     raw: 25 litres cold water
-  - qty: 120
+  - qty: 5
     unit: g
-    name: priming sugar
-    raw: 120 g priming sugar (dextrose)
+    name: priming sugar per litre of finished beer — for natural carbonation in the bottle
+    raw: 5 g priming sugar per litre of finished beer — for natural carbonation in the bottle, £2 per kilo

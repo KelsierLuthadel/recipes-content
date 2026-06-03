@@ -1,10 +1,9 @@
-prep: 0 minutes
-cook: 0 minutes
-allergens:
-  - gluten
+allergens: []
 tags:
-  - tutorial
-  - fermentation
-  - brewing
-  - drinks
-ingredients: []
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+mentions:
+  - tutorials/homebrew-beer/mash-and-hops
+  - tutorials/homebrew-beer/strong-ale

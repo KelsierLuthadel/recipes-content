@@ -1,26 +1,27 @@
-prep: 30 minutes
-cook: 0 minutes
-allergens: []
+allergens:
+  - tree-nuts
 tags:
-  - tutorial
-  - infusion
-  - gin
-  - alcoholic
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
   - make-ahead
-  - festive
-  - winter
+  - nuts
+mentions: []
 ingredients:
   - qty: 500
     unit: g
-    name: fresh sloes
+    name: sloes
     raw: 500 g fresh sloes
   - qty: 300
     unit: g
     name: caster sugar
     raw: 300 g caster sugar
   - qty: 1
-    unit: litre
-    name: gin
-    raw: 1 litre gin
-  - name: almond extract
-    raw: 1-2 drops natural almond extract (optional)
+    unit: l
+    name: gin — your own classic compound gin works perfectly; a london dry like bombay sapphire
+    raw: 1 litre gin — your own Classic Compound Gin works perfectly; a London Dry like Bombay Sapphire, Beefeater, Tanqueray or a quality supermarket gin all work. Don't use a heavily flavoured gin ; a clean juniper-led gin is best for the sloe character to come through.
+  - qty: 1.5
+    unit: drop
+    name: natural almond extract
+    raw: 1-2 drops of natural almond extract

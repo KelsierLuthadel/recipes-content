@@ -1,20 +1,25 @@
-prep: 15 minutes
-cook: 0 minutes
 allergens: []
 tags:
-  - tutorial
-  - infusion
-  - gin
-  - alcoholic
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
   - make-ahead
+  - lemon
+  - coriander
+mentions:
+  - drinks/cocktails/gimlet
+  - drinks/cocktails/martini
+  - drinks/cocktails/negroni
+  - tutorials/compound-gin/sloe-gin
 ingredients:
   - qty: 1
-    unit: litre
-    name: neutral grain spirit
-    raw: 1 litre of neutral grain spirit (vodka)
+    unit: l
+    name: neutral grain spirit at 40-45% abv — russian standard
+    raw: 1 litre of neutral grain spirit at 40-45% ABV — Russian Standard, Smirnoff Red, Absolut or Stolichnaya vodka are all good choices. Don't use cheap supermarket-own-brand vodka or premium vodka . About £18-£22 per litre.
   - qty: 30
     unit: g
-    name: dried juniper berries
+    name: juniper berries
     raw: 30 g dried juniper berries
   - qty: 15
     unit: g
@@ -22,17 +27,17 @@ ingredients:
     raw: 15 g coriander seeds
   - qty: 4
     unit: g
-    name: dried angelica root
+    name: angelica root
     raw: 4 g dried angelica root
   - qty: 10
     unit: g
-    name: dried sweet orange peel
+    name: sweet orange peel
     raw: 10 g dried sweet orange peel
   - qty: 8
     unit: g
-    name: dried lemon peel
+    name: lemon peel
     raw: 8 g dried lemon peel
   - qty: 4
     unit: g
     name: green cardamom pods
-    raw: 4 g green cardamom pods, lightly crushed
+    raw: 4 g green cardamom pods

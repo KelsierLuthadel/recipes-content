@@ -1,9 +1,11 @@
-prep: 0 minutes
-cook: 0 minutes
 allergens: []
 tags:
-  - tutorial
-  - infusion
-  - gin
-  - drinks
-ingredients: []
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+mentions:
+  - tutorials/compound-gin/botanicals
+  - tutorials/compound-gin/classic-compound-gin
+  - tutorials/compound-gin/sloe-gin

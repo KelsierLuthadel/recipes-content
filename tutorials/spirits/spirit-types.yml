@@ -1,9 +1,18 @@
-prep: 0 minutes
-cook: 0 minutes
 allergens: []
 tags:
-  - tutorial
-  - educational
-  - spirits
-  - reference
-ingredients: []
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+mentions:
+  - drinks/cocktails/bloody-mary
+  - drinks/cocktails/cosmopolitan
+  - drinks/cocktails/espresso-martini
+  - drinks/cocktails/gimlet
+  - drinks/cocktails/martini
+  - drinks/cocktails/negroni
+  - drinks/cocktails/old-fashioned
+  - drinks/cocktails/tom-collins
+  - drinks/regional/italy/limoncello
+  - tutorials/compound-gin/sloe-gin
+  - tutorials/spirits/distillation-process
