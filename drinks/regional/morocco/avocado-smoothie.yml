@@ -1,0 +1,52 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - nuts
+mentions: []
+ingredients:
+  - qty: 2
+    name: avocados
+    raw: 2 large ripe avocados
+  - qty: 600
+    unit: ml
+    name: milk
+    raw: 600 ml cold whole milk
+  - qty: 6
+    name: to 8 tablespoons caster sugar
+    raw: 6 to 8 tablespoons caster sugar, to taste
+  - qty: 2
+    unit: tbsp
+    name: sweetened condensed milk
+    raw: 2 tablespoons sweetened condensed milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    name: to 2 teaspoons orange blossom water
+    raw: 1 to 2 teaspoons orange blossom water
+  - qty: 2
+    unit: tbsp
+    name: almonds
+    raw: 2 tablespoons ground almonds
+  - qty: 1
+    unit: handful
+    name: ice cubes
+    raw: A handful of ice cubes
+  - qty: 2
+    unit: tbsp
+    name: pistachios or chopped almonds
+    raw: 2 tablespoons crushed pistachios or chopped almonds
+  - qty: 1
+    unit: small pinch
+    name: cinnamon
+    raw: A small pinch of ground cinnamon
+  - qty: 4
+    name: tall glasses
+    raw: 4 tall glasses, chilled

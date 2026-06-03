@@ -1,0 +1,37 @@
+prep: 2 minutes
+cook: 8 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - hot
+  - tea
+  - cardamom
+ingredients:
+  - qty: 4
+    unit: tsp
+    name: black tea
+    raw: 4 teaspoons strong black tea
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 400
+    unit: ml
+    name: whole milk
+    raw: 400 ml whole milk
+  - qty: 4
+    name: cardamom pods
+    raw: 4 cardamom pods, lightly crushed
+  - qty: 1
+    name: fresh ginger
+    raw: 1 small piece of fresh ginger (optional)
+  - qty: 1
+    name: cinnamon stick
+    raw: A small piece of cinnamon stick (optional)
+  - qty: 4
+    unit: tsp
+    name: sugar
+    raw: 4 to 6 teaspoons sugar

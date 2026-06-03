@@ -1,0 +1,32 @@
+prep: 1 minute
+cook: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - chocolate
+mentions: []
+ingredients:
+  - qty: 4
+    unit: tsp
+    name: powdered turkish coffee
+    raw: 4 teaspoons very finely powdered Turkish coffee
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml cold water
+  - name: sugar
+    raw: "Sugar to taste, added at the START :"
+  - name: "optional: a single green cardamom pod"
+    raw: "Optional: a single green cardamom pod, lightly crushed"
+  - qty: 2
+    name: porcelain fincans
+    raw: 2 small porcelain fincans
+  - name: glass of cold water per person
+    raw: A small glass of cold water per person
+  - qty: 2
+    name: lokum or chocolate
+    raw: 2 pieces of lokum or chocolate

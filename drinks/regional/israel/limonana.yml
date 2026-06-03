@@ -1,0 +1,44 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - lemon
+mentions:
+  - drinks/classic/lemonade
+  - drinks/regional/lebanon/limonana
+ingredients:
+  - qty: 200
+    unit: ml
+    name: lemon juice
+    raw: 200 ml fresh lemon juice
+  - qty: 40
+    unit: g
+    name: mint leaves
+    raw: 40 g fresh mint leaves
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml cold water
+  - qty: 4
+    unit: large handful
+    name: ice cubes
+    raw: 4 large handfuls of ice cubes
+  - qty: 4
+    name: mint
+    raw: 4 mint sprigs
+  - qty: 4
+    name: lemon wheels
+    raw: 4 lemon wheels
+  - qty: 4
+    name: tall glasses
+    raw: 4 tall glasses, chilled

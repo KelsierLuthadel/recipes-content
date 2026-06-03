@@ -1,0 +1,36 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - cold
+  - fruit
+  - lime
+  - honey
+ingredients:
+  - qty: 1
+    name: ripe melon
+    raw: 1 ripe cantaloupe or honeydew melon (about 1.5 kg)
+  - qty: 1
+    unit: litre
+    name: cold water
+    raw: 1 litre cold water
+  - qty: 2
+    name: limes
+    raw: Juice of 2 limes
+  - qty: 3
+    unit: tbsp
+    name: honey
+    raw: 3 to 4 tablespoons honey
+  - qty: 1
+    unit: pinch
+    name: fine salt
+    raw: A pinch of fine salt
+  - name: ice cubes
+    raw: Plenty of ice cubes
+  - qty: 6
+    name: mint sprigs
+    raw: 6 mint sprigs

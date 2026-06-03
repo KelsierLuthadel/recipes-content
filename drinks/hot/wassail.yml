@@ -1,0 +1,44 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - hot
+  - alcoholic
+  - festive
+  - winter
+  - cinnamon
+ingredients:
+  - qty: 1.5
+    unit: litres
+    name: dry English cider
+    raw: 1.5 litres dry English cider
+  - qty: 4
+    name: dessert apples
+    raw: 4 small dessert apples
+  - qty: 12
+    name: whole cloves
+    raw: 8 to 12 whole cloves
+  - qty: 2
+    name: cinnamon sticks
+    raw: 2 large cinnamon sticks
+  - qty: 4
+    name: whole allspice berries
+    raw: 4 whole allspice berries
+  - qty: 1
+    name: nutmeg
+    raw: 1 small whole nutmeg
+  - qty: 80
+    unit: g
+    name: dark muscovado sugar
+    raw: 80 to 100 g dark muscovado sugar
+  - qty: 1
+    name: orange peel
+    raw: A strip of unwaxed orange peel
+  - qty: 250
+    unit: ml
+    name: brandy or sherry
+    raw: 250 ml brandy or sherry (optional)

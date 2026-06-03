@@ -7,7 +7,8 @@ tags:
   - dairy-free
   - gluten-free
   - quick
-mentions: []
+mentions:
+  - drinks/regional/spain/cafe-con-leche
 ingredients:
   - qty: 50
     unit: g

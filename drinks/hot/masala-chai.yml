@@ -1,0 +1,49 @@
+prep: 5 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - hot
+  - tea
+  - cardamom
+  - cinnamon
+  - ginger
+  - spices
+ingredients:
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 400
+    unit: ml
+    name: whole milk
+    raw: 400 ml whole milk
+  - qty: 4
+    unit: tsp
+    name: black tea
+    raw: 4 teaspoons strong black tea
+  - qty: 4
+    unit: cm
+    name: fresh ginger
+    raw: 4 cm fresh ginger, sliced
+  - qty: 6
+    name: green cardamom pods
+    raw: 6 green cardamom pods, lightly crushed
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: whole cloves
+    raw: 4 whole cloves
+  - qty: 6
+    name: black peppercorns
+    raw: 6 black peppercorns
+  - qty: 1
+    name: star anise
+    raw: 1 star anise (optional)
+  - qty: 4
+    unit: tsp
+    name: sugar
+    raw: 4 to 6 teaspoons sugar

@@ -1,0 +1,54 @@
+prep: 2 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+  - nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - hot
+  - cinnamon
+  - floral
+  - winter
+  - nuts
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: sahlab powder
+    raw: 2 tablespoons sahlab powder (or cornflour + milk powder substitute)
+  - qty: 1
+    unit: litre
+    name: whole milk
+    raw: 1 litre whole milk
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: tsp
+    name: rose water
+    raw: 1 teaspoon rose water
+  - qty: 4
+    unit: tbsp
+    name: crushed pistachios
+    raw: 4 tablespoons crushed unsalted pistachios
+  - qty: 4
+    unit: tbsp
+    name: desiccated coconut
+    raw: 4 tablespoons desiccated coconut
+  - qty: 2
+    unit: tsp
+    name: ground cinnamon
+    raw: 2 teaspoons ground cinnamon
+  - qty: 2
+    unit: tbsp
+    name: sultanas
+    raw: 2 tablespoons sultanas or raisins (optional)
+  - qty: 1
+    unit: pinch
+    name: saffron
+    raw: A small pinch of saffron strands (optional)

@@ -1,0 +1,27 @@
+prep: 1 minute
+cook: 5 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+mentions: []
+ingredients:
+  - qty: 4
+    name: heaped teaspoons loose-leaf ceylon black tea or 4 ceylon tea bags
+    raw: 4 heaped teaspoons loose-leaf Ceylon black tea OR 4 Ceylon tea bags
+  - qty: 600
+    unit: ml
+    name: just-boiled water
+    raw: 600 ml just-boiled water
+  - qty: 4
+    name: to 6 teaspoons white sugar
+    raw: 4 to 6 teaspoons white sugar, to taste
+  - name: jug of fresh milk
+    raw: A small jug of fresh milk
+  - qty: 4
+    name: porcelain cups or teacups with saucers
+    raw: 4 small porcelain cups or teacups with saucers
+  - name: "optional: a small biscuit per cup"
+    raw: "Optional: a small biscuit per cup"

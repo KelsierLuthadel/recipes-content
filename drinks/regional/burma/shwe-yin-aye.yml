@@ -1,0 +1,47 @@
+prep: 25 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - cold
+  - festive
+  - coconut
+  - dessert-drink
+ingredients:
+  - qty: 100
+    unit: g
+    name: pearl tapioca
+    raw: 100 g small pearl tapioca
+  - qty: 5
+    unit: g
+    name: agar agar powder
+    raw: 5 g agar agar powder (or 200 g pre-made jelly cubes)
+  - qty: 4
+    name: white bread slices
+    raw: 4 thick slices of plain white bread
+  - qty: 2
+    unit: tbsp
+    name: young coconut flesh
+    raw: 2 tablespoons fresh young coconut flesh (optional)
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: pinch
+    name: fine salt
+    raw: A pinch of fine salt
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf (optional)
+  - name: crushed ice
+    raw: Plenty of crushed ice
+  - qty: 4
+    name: scoops vanilla ice cream
+    raw: 4 small scoops of vanilla or coconut ice cream

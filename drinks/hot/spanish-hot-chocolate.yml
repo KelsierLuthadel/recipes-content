@@ -1,0 +1,40 @@
+prep: 2 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - gluten
+tags:
+  - vegetarian
+  - quick
+  - hot
+  - chocolate
+  - cinnamon
+  - festive
+ingredients:
+  - qty: 500
+    unit: ml
+    name: whole milk
+    raw: 500 ml whole milk
+  - qty: 100
+    unit: g
+    name: dark chocolate
+    raw: 100 g dark chocolate (60-70% cocoa)
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tablespoon cornflour
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1
+    unit: pinch
+    name: fine salt
+    raw: A pinch of fine salt
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: 1/2 teaspoon vanilla extract (optional)
+  - qty: 1
+    name: cinnamon stick
+    raw: A small piece of cinnamon stick (optional)

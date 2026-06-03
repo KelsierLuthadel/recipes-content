@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - cold
+  - coconut
+  - dessert-drink
+ingredients:
+  - qty: 150
+    unit: g
+    name: rice flour
+    raw: 150 g rice flour
+  - qty: 30
+    unit: g
+    name: tapioca starch
+    raw: 30 g tapioca starch
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 150
+    unit: g
+    name: palm jaggery
+    raw: 150 g palm jaggery
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf (optional)
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - name: crushed ice
+    raw: Plenty of crushed ice
+  - qty: 2
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 2 tablespoons toasted sesame seeds (optional)

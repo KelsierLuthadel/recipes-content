@@ -1,0 +1,53 @@
+prep: 5 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - nuts
+mentions:
+  - drinks/regional/india/masala-chai
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: kashmiri green tea
+    raw: 2 tablespoons Kashmiri green tea
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre cold water
+  - qty: 1
+    unit: tsp
+    name: baking soda
+    raw: 1 teaspoon baking soda
+  - qty: 6
+    name: green cardamom pods
+    raw: 6 green cardamom pods, lightly crushed
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 4
+    name: to 6 teaspoons white sugar
+    raw: 4 to 6 teaspoons white sugar, to taste
+  - qty: 3
+    name: ice cubes
+    raw: 3 ice cubes
+  - qty: 2
+    unit: tbsp
+    name: unsalted pistachios
+    raw: 2 tablespoons crushed unsalted pistachios
+  - qty: 1
+    unit: small pinch
+    name: cardamom
+    raw: A small pinch of ground cardamom
+  - qty: 4
+    name: heatproof cups
+    raw: 4 small heatproof cups

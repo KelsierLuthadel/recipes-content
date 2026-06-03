@@ -1,0 +1,40 @@
+prep: 3 minutes
+cook: 6 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - eggs
+mentions:
+  - drinks/regional/america/egg-cream
+  - drinks/regional/japan/matcha
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: vietnamese ground coffee
+    raw: 2 tablespoons strong Vietnamese ground coffee
+  - qty: 200
+    unit: ml
+    name: just-off-the-boil water
+    raw: 200 ml just-off-the-boil water
+  - qty: 2
+    name: egg yolks
+    raw: 2 egg yolks
+  - qty: 4
+    unit: tbsp
+    name: sweetened condensed milk
+    raw: 4 tablespoons sweetened condensed milk
+  - qty: 0.5
+    name: /2 teaspoon vanilla extract
+    raw: 1/2 teaspoon vanilla extract
+  - qty: 2
+    name: thick-walled coffee glasses
+    raw: 2 small thick-walled coffee glasses
+  - qty: 2
+    name: bowls or shallow dishes of hot water
+    raw: 2 small bowls or shallow dishes of hot water
+  - name: "optional: a small dusting of cocoa powder or cinnamon"
+    raw: "Optional: a small dusting of cocoa powder or cinnamon"

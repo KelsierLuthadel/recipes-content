@@ -1,0 +1,37 @@
+prep: 8 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - cold
+  - ginger
+  - fruit
+  - lime
+ingredients:
+  - qty: 1
+    name: pineapple
+    raw: 1 large ripe pineapple
+  - qty: 40
+    unit: g
+    name: fresh ginger
+    raw: 40 g fresh ginger
+  - qty: 1
+    name: lime
+    raw: Juice of 1 lime
+  - qty: 2
+    unit: tbsp
+    name: honey
+    raw: 2 tablespoons honey
+  - qty: 400
+    unit: ml
+    name: cold water
+    raw: 400 ml cold water
+  - qty: 1
+    unit: pinch
+    name: fine salt
+    raw: A pinch of fine salt
+  - name: ice cubes
+    raw: Plenty of ice cubes

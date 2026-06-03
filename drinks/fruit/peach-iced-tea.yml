@@ -1,0 +1,40 @@
+prep: 10 minutes
+cook: 8 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - cold
+  - tea
+  - fruit
+  - lemon
+ingredients:
+  - qty: 6
+    name: black tea bags
+    raw: 6 black tea bags
+  - qty: 4
+    name: ripe peaches
+    raw: 4 ripe peaches
+  - qty: 1
+    name: unwaxed lemon peel
+    raw: A 5 cm strip of unwaxed lemon peel
+  - qty: 1.5
+    unit: litres
+    name: water
+    raw: 1.5 litres water
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 to 120 g caster sugar
+  - qty: 1
+    name: lemon
+    raw: Juice of 1 lemon
+  - qty: 1
+    unit: pinch
+    name: fine salt
+    raw: A pinch of fine salt
+  - name: ice cubes
+    raw: Plenty of ice cubes

@@ -1,0 +1,50 @@
+prep: 3 minutes
+cook: 7 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - hot
+  - spices
+  - ginger
+  - cinnamon
+  - turmeric
+ingredients:
+  - qty: 600
+    unit: ml
+    name: whole milk
+    raw: 600 ml whole milk
+  - qty: 2
+    unit: tsp
+    name: ground turmeric
+    raw: 2 teaspoons ground turmeric
+  - qty: 2
+    unit: cm
+    name: fresh ginger
+    raw: 2 cm fresh ginger
+  - qty: 0.5
+    unit: tsp
+    name: ground cinnamon
+    raw: 1/2 teaspoon ground cinnamon
+  - qty: 1
+    unit: pinch
+    name: black pepper
+    raw: A small pinch of black pepper
+  - qty: 2
+    unit: tbsp
+    name: honey
+    raw: 2 to 3 tablespoons honey
+  - qty: 0.25
+    unit: tsp
+    name: vanilla extract
+    raw: 1/4 teaspoon vanilla extract (optional)
+  - qty: 1
+    unit: pinch
+    name: fine salt
+    raw: A small pinch of fine salt
+  - qty: 1
+    unit: pinch
+    name: saffron
+    raw: A tiny pinch of saffron strands (optional)

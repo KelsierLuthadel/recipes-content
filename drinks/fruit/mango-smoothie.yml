@@ -1,0 +1,37 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - cold
+  - smoothie
+  - fruit
+ingredients:
+  - qty: 2
+    name: ripe mangoes
+    raw: 2 ripe mangoes (about 400 g flesh)
+  - qty: 1
+    name: ripe banana
+    raw: 1 ripe banana
+  - qty: 400
+    unit: ml
+    name: cold whole milk
+    raw: 400 ml cold whole milk
+  - qty: 2
+    unit: tbsp
+    name: honey
+    raw: 2 tablespoons honey
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: 1/2 teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: fine salt
+    raw: A pinch of fine salt
+  - qty: 8
+    name: ice cubes
+    raw: A handful of ice cubes

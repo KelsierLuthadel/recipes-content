@@ -1,0 +1,42 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - cold
+  - alcoholic
+  - festive
+  - winter
+  - cinnamon
+ingredients:
+  - qty: 1
+    unit: litre
+    name: whole milk
+    raw: 1 litre whole milk
+  - qty: 2
+    unit: tbsp
+    name: instant coffee
+    raw: 2 tablespoons instant coffee
+  - qty: 2
+    name: cinnamon sticks
+    raw: 2 cinnamon sticks
+  - qty: 6
+    name: whole cloves
+    raw: 6 whole cloves
+  - qty: 1
+    name: orange peel
+    raw: A 5 cm strip of unwaxed orange peel
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod, split lengthways
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 250
+    unit: ml
+    name: aguardiente
+    raw: 250 ml aguardiente (or pisco, brandy, or vodka)

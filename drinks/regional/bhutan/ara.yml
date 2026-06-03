@@ -1,0 +1,29 @@
+prep: 2 minutes
+cook: 4 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - hot
+  - alcoholic
+  - festive
+  - winter
+ingredients:
+  - qty: 500
+    unit: ml
+    name: ara
+    raw: 500 ml ara (or strong rice spirit substitute)
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons unsalted butter (for buttered version)
+  - qty: 2
+    name: eggs
+    raw: 2 eggs (for festive ara-tongba)
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt

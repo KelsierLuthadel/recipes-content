@@ -1,0 +1,39 @@
+prep: 8 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - cold
+  - fruit
+  - lime
+  - honey
+  - festive
+ingredients:
+  - qty: 600
+    unit: ml
+    name: pomegranate juice
+    raw: 600 ml fresh pomegranate juice
+  - qty: 2
+    name: limes
+    raw: Juice of 2 limes
+  - qty: 3
+    unit: tbsp
+    name: honey
+    raw: 3 to 4 tablespoons honey
+  - qty: 400
+    unit: ml
+    name: cold sparkling water
+    raw: 400 ml cold sparkling water
+  - qty: 4
+    unit: tbsp
+    name: pomegranate arils
+    raw: 4 tablespoons fresh pomegranate arils
+  - qty: 1
+    unit: pinch
+    name: fine salt
+    raw: A pinch of fine salt
+  - name: ice cubes
+    raw: Plenty of ice cubes

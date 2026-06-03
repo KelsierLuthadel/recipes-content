@@ -1,0 +1,46 @@
+prep: 3 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - coconut
+mentions: []
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: vietnamese ground coffee
+    raw: 1 tablespoon strong Vietnamese ground coffee
+  - qty: 80
+    unit: ml
+    name: just-off-the-boil water
+    raw: 80 ml just-off-the-boil water
+  - qty: 4
+    unit: tbsp
+    name: sweetened condensed milk
+    raw: 4 tablespoons sweetened condensed milk
+  - qty: 200
+    unit: ml
+    name: coconut milk
+    raw: 200 ml coconut milk
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 4
+    unit: large handful
+    name: ice cubes
+    raw: 4 large handfuls of ice cubes
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of fine salt
+  - qty: 2
+    name: tall glasses
+    raw: 2 tall glasses, chilled
+  - name: "optional: 2 tablespoons shaved fresh coconut or a swirl of whipped cream"
+    raw: "Optional: 2 tablespoons shaved fresh coconut OR a swirl of whipped cream"
+  - name: "optional: a small mint sprig per glass"
+    raw: "Optional: a small mint sprig per glass"

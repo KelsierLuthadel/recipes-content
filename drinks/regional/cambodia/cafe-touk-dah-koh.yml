@@ -1,0 +1,29 @@
+prep: 3 minutes
+cook: 7 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - cold
+  - coffee
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: dark-roast ground coffee
+    raw: 2 tablespoons strong dark-roast ground coffee
+  - qty: 160
+    unit: ml
+    name: just-off-the-boil water
+    raw: 160 ml just-off-the-boil water
+  - qty: 6
+    unit: tbsp
+    name: sweetened condensed milk
+    raw: 6 tablespoons sweetened condensed milk
+  - qty: 2
+    unit: tbsp
+    name: evaporated milk
+    raw: 2 tablespoons evaporated milk (optional)
+  - name: crushed ice
+    raw: Plenty of crushed ice

@@ -9,7 +9,8 @@ tags:
   - quick
   - coconut
   - nuts
-mentions: []
+mentions:
+  - drinks/regional/turkey/salep
 ingredients:
   - qty: 1
     unit: l

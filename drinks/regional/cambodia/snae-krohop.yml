@@ -1,0 +1,33 @@
+prep: 5 minutes
+cook: 12 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - hot
+  - ginger
+  - lemongrass
+  - tea
+ingredients:
+  - qty: 4
+    name: lemongrass stalks
+    raw: 4 fresh lemongrass stalks
+  - qty: 30
+    unit: g
+    name: fresh ginger
+    raw: 30 g fresh ginger, sliced
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml water
+  - qty: 30
+    unit: g
+    name: palm sugar
+    raw: 30 g palm sugar (or 2 tablespoons honey)
+  - qty: 1
+    name: pandan leaf
+    raw: 1 small piece of pandan leaf (optional)
+  - name: lime juice
+    raw: A squeeze of lime juice (optional)

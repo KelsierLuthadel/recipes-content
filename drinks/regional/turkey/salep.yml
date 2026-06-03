@@ -1,0 +1,43 @@
+prep: 2 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - nuts
+mentions: []
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: sahlab powder or 2 tablespoons cornflour + 1 tablespoon milk powder + 1 teaspoon vanilla
+    raw: 2 tablespoons sahlab powder OR 2 tablespoons cornflour + 1 tablespoon milk powder + 1 teaspoon vanilla
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre whole milk
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: rose water or orange blossom water
+    raw: 1 teaspoon rose water OR orange blossom water
+  - qty: 4
+    name: heatproof mugs
+    raw: 4 small heatproof mugs, warmed
+  - name: cinnamon for dusting
+    raw: Ground cinnamon for dusting
+  - qty: 2
+    unit: tbsp
+    name: pistachios
+    raw: 2 tablespoons crushed pistachios
+  - name: "optional: a thin slice of grated nutmeg"
+    raw: "Optional: a thin slice of grated nutmeg"

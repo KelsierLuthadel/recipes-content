@@ -1,0 +1,39 @@
+prep: 3 minutes
+cook: 12 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - hot
+  - coffee
+  - cinnamon
+  - festive
+ingredients:
+  - qty: 1
+    unit: litre
+    name: water
+    raw: 1 litre water
+  - qty: 60
+    unit: g
+    name: piloncillo
+    raw: 60 g piloncillo (or dark muscovado sugar)
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 large cinnamon stick
+  - qty: 4
+    unit: tbsp
+    name: coarsely ground coffee
+    raw: 4 tablespoons coarsely ground dark-roast coffee
+  - qty: 1
+    name: orange peel
+    raw: A 5 cm strip of unwaxed orange peel (optional)
+  - qty: 2
+    name: whole cloves
+    raw: 2 whole cloves (optional)
+  - qty: 1
+    unit: pinch
+    name: fine salt
+    raw: A tiny pinch of fine salt
