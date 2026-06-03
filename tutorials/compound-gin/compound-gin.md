@@ -17,8 +17,8 @@ This course teaches you to make a classic juniper-led compound gin and the iconi
 - [Botanicals Guide](botanicals.md): what juniper, coriander, angelica, citrus peel and the supporting cast each contribute. How to choose your blend, where to source botanicals, what dried weight ratios produce a balanced gin.
 
 ### 2. Practical Recipes
-- [Classic Compound Gin](classic-compound-gin.md): the foundational recipe — vodka or neutral grain spirit infused with juniper, coriander seed, angelica root, orange peel, lemon peel and cardamom. 24-48 hour steep, strain, bottle. The starting point.
-- [Sloe Gin](sloe-gin.md): the seasonal British classic — gin infused for 2-3 months with autumn-picked sloes (blackthorn berries) and sugar. The Christmas drink, drunk neat from a glass after Sunday lunch or stirred into a winter cocktail.
+- [Classic Compound Gin](classic-compound-gin.md): the foundational recipe - vodka or neutral grain spirit infused with juniper, coriander seed, angelica root, orange peel, lemon peel and cardamom. 24-48 hour steep, strain, bottle. The starting point.
+- [Sloe Gin](sloe-gin.md): the seasonal British classic - gin infused for 2-3 months with autumn-picked sloes (blackthorn berries) and sugar. The Christmas drink, drunk neat from a glass after Sunday lunch or stirred into a winter cocktail.
 
 ## How long does it take?
 
@@ -33,7 +33,7 @@ This course teaches you to make a classic juniper-led compound gin and the iconi
 Total: from buying ingredients to drinking your first compound gin in roughly 48 hours.
 
 ## What you need to know going in
-- **Start with a good neutral spirit.** Your gin can only be as good as the alcohol you start with. Use a decent 40% ABV vodka (Russian Standard, Smirnoff Red, Absolut, Stolichnaya) — under £20 a bottle. Don't use cheap supermarket-own-brand vodka or anything that already has flavour notes; you want a clean alcohol base. Above £30 vodka is wasted (the botanicals dominate).
+- **Start with a good neutral spirit.** Your gin can only be as good as the alcohol you start with. Use a decent 40% ABV vodka (Russian Standard, Smirnoff Red, Absolut, Stolichnaya) - under £20 a bottle. Don't use cheap supermarket-own-brand vodka or anything that already has flavour notes; you want a clean alcohol base. Above £30 vodka is wasted (the botanicals dominate).
 - **Get juniper right.** Juniper is non-negotiable; without it you're making a flavoured spirit, not gin. Use whole dried juniper berries (Juniperus communis specifically), readily available at any specialist herb / spice shop or large supermarket. About 30 g per litre of spirit.
 - **Restraint with secondary botanicals.** Beginner compound gins go wrong by adding too many botanicals. A classic London Dry uses 8-12 botanicals; for your first compound gin, use 4-6 max. Add one new botanical per batch until you find a balance you like.
 - **Taste as you go.** After 24 hours of steeping, decant a small sample and taste it. Too piney? Strain immediately. Not aromatic enough? Steep another 12-24 hours. The exact end-point varies with the spirit you used, the freshness of the botanicals and the temperature of the room.
@@ -42,8 +42,8 @@ Total: from buying ingredients to drinking your first compound gin in roughly 48
 You need: a clean glass jar (1-litre Kilner jar or similar), a fine-mesh sieve, a coffee filter or muslin cloth for the final clean strain, a clean glass bottle for the finished gin. Total cost if you buy new: about £10. Many home cooks already have all of this.
 
 ## Legal note (UK)
-Compound gin is the infusion of botanicals into pre-distilled spirit — you're not distilling, so no HMRC licence is required. Production for personal use is completely legal at any quantity. Sale of homemade compound gin is not legal without HMRC permits.
+Compound gin is the infusion of botanicals into pre-distilled spirit - you're not distilling, so no HMRC licence is required. Production for personal use is completely legal at any quantity. Sale of homemade compound gin is not legal without HMRC permits.
 
 ## A short history
 
-Gin began as Dutch genever (a malt-based juniper spirit) in the 1500s, and arrived in England in volume during the late 1600s. By the 1700s London was producing massive quantities of cheap rough gin, much of it adulterated with sugar, glycerine, turpentine and worse. The 1751 Gin Act tightened production rules; the 19th century brought column distillation, which produced cleaner neutral spirit and gave rise to London Dry style. The 1980s and 90s saw mass-market gin become bland and unfashionable; the 2010s craft gin movement revived hundreds of small distilleries across the UK. Compound gin (steeped, not distilled) has always existed as the home cook's version — predating the craft gin revival by 300 years and still the only fully legal way to make gin at home without a licence.
+Gin began as Dutch genever (a malt-based juniper spirit) in the 1500s, and arrived in England in volume during the late 1600s. By the 1700s London was producing massive quantities of cheap rough gin, much of it adulterated with sugar, glycerine, turpentine and worse. The 1751 Gin Act tightened production rules; the 19th century brought column distillation, which produced cleaner neutral spirit and gave rise to London Dry style. The 1980s and 90s saw mass-market gin become bland and unfashionable; the 2010s craft gin movement revived hundreds of small distilleries across the UK. Compound gin (steeped, not distilled) has always existed as the home cook's version - predating the craft gin revival by 300 years and still the only fully legal way to make gin at home without a licence.

@@ -16,7 +16,7 @@ These are the botanicals that appear in nearly every traditional London Dry gin.
 ### Juniper berries (Juniperus communis)
 **Weight per litre of spirit: 25-35 g**
 
-The defining ingredient. Whole dried berries are dark purple-blue with a piney, resinous, faintly citrusy aroma. The flavour is exactly what most people think of as "gin" — that resin-pine note. Without juniper, you can't legally call it gin.
+The defining ingredient. Whole dried berries are dark purple-blue with a piney, resinous, faintly citrusy aroma. The flavour is exactly what most people think of as "gin" - that resin-pine note. Without juniper, you can't legally call it gin.
 
 Source: most large supermarkets stock dried juniper berries in the spice aisle. Specialist herb shops have better-quality fresher berries. Look for berries that smell strongly piney when you crush one between your fingers; berries with no aroma are old and stale.
 
@@ -65,12 +65,12 @@ Different parts of plants you've already used. Coriander root is sharper and les
 ### Liquorice root (dried)
 **Weight per litre of spirit: 2-3 g**
 
-Adds a touch of sweet, slightly anise-like complexity and helps the gin feel rounder on the palate. Use sparingly — too much makes the gin taste medicinal.
+Adds a touch of sweet, slightly anise-like complexity and helps the gin feel rounder on the palate. Use sparingly - too much makes the gin taste medicinal.
 
 ### Cassia bark (cinnamon)
 **Weight per litre of spirit: 2-3 g**
 
-A 2-3 cm piece of cassia bark adds warm-spice depth. Don't use ground cinnamon — too sharp and the powder is hard to strain out.
+A 2-3 cm piece of cassia bark adds warm-spice depth. Don't use ground cinnamon - too sharp and the powder is hard to strain out.
 
 ### Orris root (Iris germanica root, dried and aged)
 **Weight per litre of spirit: 1-2 g**
@@ -114,7 +114,7 @@ Adds colour (the finished gin turns pale pink) and a faint tart-cranberry-floral
 ### Cucumber (fresh)
 **Weight per litre of spirit: 30-50 g**
 
-Added at the END of the infusion (last 12 hours only). Brings green, cooling notes — the Hendricks-style signature.
+Added at the END of the infusion (last 12 hours only). Brings green, cooling notes - the Hendricks-style signature.
 
 ## Choosing your blend
 

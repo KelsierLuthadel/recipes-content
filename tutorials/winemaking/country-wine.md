@@ -11,7 +11,7 @@
 **Total time:** 3 to 4 months from picking to drinking
 
 ## Overview
-Country wine is wine made from anything that isn't grapes: fruit, flowers, vegetables, root crops, even tree sap. The technique is always the same — extract the flavour into a sugar-water solution, add yeast, let it ferment, age it. Elderflower (the cream-white flower heads of the sambucus nigra tree, found across hedgerows and parks in the UK from late May to early July) is the gold-standard first wine because it's free if you can identify the tree, the technique is forgiving, and the result is genuinely delicious — light, floral, slightly grapey, sitting well as a dry summer drink chilled.
+Country wine is wine made from anything that isn't grapes: fruit, flowers, vegetables, root crops, even tree sap. The technique is always the same - extract the flavour into a sugar-water solution, add yeast, let it ferment, age it. Elderflower (the cream-white flower heads of the sambucus nigra tree, found across hedgerows and parks in the UK from late May to early July) is the gold-standard first wine because it's free if you can identify the tree, the technique is forgiving, and the result is genuinely delicious - light, floral, slightly grapey, sitting well as a dry summer drink chilled.
 
 This recipe walks through every step in detail. It assumes you've read the [Equipment](equipment.md) page and have your gear ready.
 
@@ -38,7 +38,7 @@ This recipe walks through every step in detail. It assumes you've read the [Equi
 
 ### Stage 1 - Pick and prepare the elderflowers (Day 1 morning)
 1. Pick elderflower heads on a dry sunny morning. Choose heads that are fully open with all flowers bloomed (the cream-white tiny flowers, not the green unopened buds, which can taste bitter). Avoid heads with brown spots or insects.
-1. Don't wash the elderflowers — washing removes the natural yeasts and most of the flavour. Just pick off any obvious insects.
+1. Don't wash the elderflowers - washing removes the natural yeasts and most of the flavour. Just pick off any obvious insects.
 1. Cut the small green stems off each flower head with scissors, keeping only the cream-white blossoms. Stems contain bitter alkaloids.
 1. Aim for about 30-40 prepared flower heads (a litre or two of loosely-packed blossoms by volume).
 
@@ -46,7 +46,7 @@ This recipe walks through every step in detail. It assumes you've read the [Equi
 1. Sanitise the plastic bucket, the stirrer, and any other equipment that will touch the must. Use the campden or Star San method from the [Equipment](equipment.md) page.
 1. In the sanitised bucket, dissolve the 1 kg of sugar in 1 litre of just-boiled water. Stir until completely clear.
 1. Add the remaining 3 litres of cold water.
-1. Stir in the juice of 2 lemons and the pared zest of 1 lemon. The acid is essential — without it, the wine will taste flabby.
+1. Stir in the juice of 2 lemons and the pared zest of 1 lemon. The acid is essential - without it, the wine will taste flabby.
 1. Crush 1 campden tablet and stir into the must. The campden releases sulphur dioxide which kills any wild yeasts; you'll add your own selected yeast tomorrow once the campden has dissipated.
 1. Let the mixture cool to room temperature (about 1 hour).
 
@@ -88,7 +88,7 @@ This recipe walks through every step in detail. It assumes you've read the [Equi
 
 ### Stage 9 - Rack off the lees (Week 8)
 1. Sanitise a clean demijohn (or thoroughly clean the original one after pouring the wine off).
-1. Siphon the clear wine into the sanitised vessel, leaving the sediment behind. This is called "racking off the lees" — the dead yeast and fine particles at the bottom.
+1. Siphon the clear wine into the sanitised vessel, leaving the sediment behind. This is called "racking off the lees" - the dead yeast and fine particles at the bottom.
 1. If using a stabilising campden tablet (recommended for storage), crush it and stir gently into the wine.
 1. Refit the airlock and leave 4-6 more weeks for any remaining sediment to drop.
 
@@ -113,7 +113,7 @@ This recipe walks through every step in detail. It assumes you've read the [Equi
 ## Variations
 - **Blackberry country wine.** Substitute 1.5 kg of fresh blackberries for the elderflower. Same technique. Produces a deep red wine with a sharp fruit character. Picking season: August-September in the UK.
 - **Rhubarb country wine.** 1.5 kg chopped rhubarb, same method. Light pink, slightly sharp, with an unusual savoury depth.
-- **Dandelion wine.** About 1 litre of dandelion flower petals (yellow only — green parts make it bitter), picked on a sunny April-May morning. Same method.
+- **Dandelion wine.** About 1 litre of dandelion flower petals (yellow only - green parts make it bitter), picked on a sunny April-May morning. Same method.
 - **Gooseberry wine.** 1.5 kg crushed gooseberries. Tart, light gold; one of the finest country wines.
 
 ## Storage

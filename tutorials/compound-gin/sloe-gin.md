@@ -2,7 +2,7 @@
 
 ![Sloe Gin](resources/sloe-gin.jpg)
 
-*The British autumn classic: sloes (the small purple-black fruit of the blackthorn) gathered from a hedgerow after the first frost, pricked with a needle, layered with sugar and gin, left to steep for 3 months. The result is a deep ruby-red liqueur with a tart, almond-fruity, distinctly autumnal character — Christmas in a glass.*
+*The British autumn classic: sloes (the small purple-black fruit of the blackthorn) gathered from a hedgerow after the first frost, pricked with a needle, layered with sugar and gin, left to steep for 3 months. The result is a deep ruby-red liqueur with a tart, almond-fruity, distinctly autumnal character - Christmas in a glass.*
 
 **Makes:** 1 litre of sloe gin
 
@@ -13,7 +13,7 @@
 ## Overview
 Sloe gin is one of the great British home traditions. Sloes are the fruit of the blackthorn tree (Prunus spinosa), a hardy hedgerow shrub found across most of the UK. The small (~1 cm) blue-black fruit are too tart and astringent to eat raw, but steeped in gin with sugar for several months, they release their pectin, anthocyanin pigments and tart-fruity flavour into the spirit, producing a deep ruby-red liqueur with a flavour reminiscent of cherries, almonds and autumn fruit.
 
-The classic British tradition is to pick sloes after the first frost (usually mid-October to early November), which breaks the cell walls of the fruit and releases the juices. Modern home cooks usually skip the wait for frost and prick each sloe individually with a needle to achieve the same effect. The infusion takes a minimum of 3 months — most households start a batch in October or November and decant on Christmas Eve, which is exactly the right ageing time.
+The classic British tradition is to pick sloes after the first frost (usually mid-October to early November), which breaks the cell walls of the fruit and releases the juices. Modern home cooks usually skip the wait for frost and prick each sloe individually with a needle to achieve the same effect. The infusion takes a minimum of 3 months - most households start a batch in October or November and decant on Christmas Eve, which is exactly the right ageing time.
 
 Sloe gin is drunk neat from a small glass after dinner, stirred into champagne for a pink fizz, mixed into winter cocktails, or used as the base for sloe gin fizz. The colour alone makes it a Christmas gift.
 
@@ -21,8 +21,8 @@ Sloe gin is drunk neat from a small glass after dinner, stirred into champagne f
 
 - 500 g fresh sloes (picked from any hedgerow blackthorn, October-November; or buy frozen sloes from specialist suppliers if you can't forage)
 - 300 g caster sugar (start at this; you can add more after the first month if too sharp)
-- 1 litre gin — your own [Classic Compound Gin](classic-compound-gin.md) works perfectly; a London Dry like Bombay Sapphire, Beefeater, Tanqueray or a quality supermarket gin all work. Don't use a heavily flavoured gin (like Hendricks with its cucumber profile); a clean juniper-led gin is best for the sloe character to come through.
-- 1-2 drops of natural almond extract (optional, traditional — enhances the natural almond-cherry note from the sloe stones)
+- 1 litre gin - your own [Classic Compound Gin](classic-compound-gin.md) works perfectly; a London Dry like Bombay Sapphire, Beefeater, Tanqueray or a quality supermarket gin all work. Don't use a heavily flavoured gin (like Hendricks with its cucumber profile); a clean juniper-led gin is best for the sloe character to come through.
+- 1-2 drops of natural almond extract (optional, traditional - enhances the natural almond-cherry note from the sloe stones)
 
 ## Equipment
 
@@ -36,7 +36,7 @@ Sloe gin is drunk neat from a small glass after dinner, stirred into champagne f
 
 ### Stage 1 - Pick the sloes (foraging)
 1. Sloes ripen from mid-September to early November. The proper time to pick is **after the first frost** (typically late October in the UK), which breaks the skin and releases the juices. If you can't wait for frost, see Stage 2.
-1. Look for blackthorn hedges — small thorny shrubs with rough black bark and dense thorns, bearing oval-shaped blue-black fruit about 1 cm across. The fruit will have a faint dusty bloom on the skin.
+1. Look for blackthorn hedges - small thorny shrubs with rough black bark and dense thorns, bearing oval-shaped blue-black fruit about 1 cm across. The fruit will have a faint dusty bloom on the skin.
 1. Pick only the ripe fruit (deep blue-black, slightly soft to the touch). Greenish or hard sloes aren't ready.
 1. Aim for 500 g, which is about 2-3 medium handfuls.
 
@@ -95,7 +95,7 @@ Substitute 500 g of fresh damsons (the small wild plum) for sloes. Damsons are s
 Substitute 500 g of bullaces (a wild plum / cherry-plum hybrid). Same method; slightly sweeter than sloes.
 
 ### Blackberry whisky (the cross-over)
-The same technique with 500 g of blackberries + 250 g sugar + 1 litre Scotch whisky (an inexpensive blended Scotch — single malt is wasted). 6-month maturation. Stunning autumn drink.
+The same technique with 500 g of blackberries + 250 g sugar + 1 litre Scotch whisky (an inexpensive blended Scotch - single malt is wasted). 6-month maturation. Stunning autumn drink.
 
 ### Cherry brandy
 500 g of pitted morello cherries (or 750 g of fresh sour cherries) + 300 g sugar + 1 litre brandy. Same method. 3 months maturation. Christmas / Black Forest gateau in a glass.
@@ -113,4 +113,4 @@ The same technique with 500 g of blackberries + 250 g sugar + 1 litre Scotch whi
 
 - Make another batch in 2 weeks with a slightly different proportion of sugar; compare side-by-side after 3 months.
 - Try the damson or cherry brandy variants when those fruits come into season (damsons in September, cherries in June-July).
-- Use a homemade [Classic Compound Gin](classic-compound-gin.md) as the base instead of a commercial gin — adds another dimension of personal touch to the finished sloe gin.
+- Use a homemade [Classic Compound Gin](classic-compound-gin.md) as the base instead of a commercial gin - adds another dimension of personal touch to the finished sloe gin.

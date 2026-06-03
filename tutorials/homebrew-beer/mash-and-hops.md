@@ -2,10 +2,10 @@
 
 ![Mash, Hops and Fermentation](resources/mash-and-hops.jpg)
 
-*The science of brewing — what malt extract actually is, what hops do at different addition times, how fermentation temperature shapes flavour, why conditioning matters, the maths of carbonation. Just enough theory to troubleshoot a batch that isn't going where you expected.*
+*The science of brewing - what malt extract actually is, what hops do at different addition times, how fermentation temperature shapes flavour, why conditioning matters, the maths of carbonation. Just enough theory to troubleshoot a batch that isn't going where you expected.*
 
 ## Overview
-The four phases of brewing — mash, boil, fermentation, conditioning — each work on a specific set of compounds and produce specific outcomes. Understanding what each phase does (and what each ingredient contributes) lets you predict the end result before you brew, troubleshoot when things drift, and design your own recipes once you've got the basics down.
+The four phases of brewing - mash, boil, fermentation, conditioning - each work on a specific set of compounds and produce specific outcomes. Understanding what each phase does (and what each ingredient contributes) lets you predict the end result before you brew, troubleshoot when things drift, and design your own recipes once you've got the basics down.
 
 This page covers the chemistry behind the [Strong Ale](strong-ale.md) recipe and explains how to adapt it.
 
@@ -13,10 +13,10 @@ This page covers the chemistry behind the [Strong Ale](strong-ale.md) recipe and
 
 ### What's in malt
 Barley grain, when malted (germinated then kiln-dried), contains:
-- **Starches** — long chains of glucose. The barley plant stored these to fuel its growth; we'll convert them into fermentable sugars during the mash.
-- **Enzymes** — particularly alpha-amylase and beta-amylase. These break starches into sugars. Active at specific temperatures (62-72°C).
-- **Proteins** — give body and head retention to the finished beer.
-- **Husks** — fibrous outer layer; doesn't contribute flavour but acts as a natural filter bed.
+- **Starches** - long chains of glucose. The barley plant stored these to fuel its growth; we'll convert them into fermentable sugars during the mash.
+- **Enzymes** - particularly alpha-amylase and beta-amylase. These break starches into sugars. Active at specific temperatures (62-72°C).
+- **Proteins** - give body and head retention to the finished beer.
+- **Husks** - fibrous outer layer; doesn't contribute flavour but acts as a natural filter bed.
 
 ### What the mash does
 
@@ -24,13 +24,13 @@ In all-grain brewing, you soak crushed malted barley in 65-70°C water for an ho
 - **Lower mash (62-66°C)** favours beta-amylase, which produces more maltose (highly fermentable). Result: drier, lower-body beer with higher ABV.
 - **Higher mash (68-72°C)** favours alpha-amylase, which produces more dextrins (less fermentable). Result: fuller-bodied, sweeter beer with lower ABV.
 
-The typical English ale mash is 66°C — produces a slightly fuller beer with maltose dominant.
+The typical English ale mash is 66°C - produces a slightly fuller beer with maltose dominant.
 
 ### What malt extract is
 
 Malt extract is what a commercial brewery produces by doing the mash for you and then concentrating the resulting wort by evaporating most of the water. It comes in two forms:
-- **Liquid Malt Extract (LME)** — sticky dark syrup, about 80% sugars. Pre-dissolved.
-- **Dry Malt Extract (DME)** — powder, about 95% sugars. Lighter and easier to weigh.
+- **Liquid Malt Extract (LME)** - sticky dark syrup, about 80% sugars. Pre-dissolved.
+- **Dry Malt Extract (DME)** - powder, about 95% sugars. Lighter and easier to weigh.
 
 When you brew with extract, you skip the mash entirely. The recipe in this course uses 3.5 kg of DME total, which has had its mashing done for you by Muntons or Brewferm. The extract is a known sugar source; you just dissolve it in water and proceed to the boil.
 
@@ -45,9 +45,9 @@ Even with extract brewing, you can add character via a small amount of steeping 
 ### What hops contribute
 
 Hops are the dried flowers of the Humulus lupulus vine. They contribute three things to beer:
-- **Bitterness** — from alpha acids that isomerise during the boil. The longer hops boil, the more bitterness extracted.
-- **Flavour** — aromatic oils that survive a short boil but vaporise with extended boiling.
-- **Aroma** — volatile compounds that boil off rapidly. Aroma is highest from hops added late in the boil or after the boil entirely.
+- **Bitterness** - from alpha acids that isomerise during the boil. The longer hops boil, the more bitterness extracted.
+- **Flavour** - aromatic oils that survive a short boil but vaporise with extended boiling.
+- **Aroma** - volatile compounds that boil off rapidly. Aroma is highest from hops added late in the boil or after the boil entirely.
 
 ### The four hop addition points
 
@@ -65,7 +65,7 @@ The Strong Ale recipe uses Fuggles at 60 minutes for bittering, East Kent Goldin
 
 ### Bitterness units (IBUs)
 
-Bitterness in beer is measured in International Bitterness Units (IBUs). A light lager has 10-15 IBUs; an English bitter has 25-35 IBUs; an IPA has 50-70 IBUs; a triple IPA can exceed 100 IBUs. The recipe for the Strong Ale targets about 35-40 IBUs — balanced English-style bitter, not aggressively hoppy.
+Bitterness in beer is measured in International Bitterness Units (IBUs). A light lager has 10-15 IBUs; an English bitter has 25-35 IBUs; an IPA has 50-70 IBUs; a triple IPA can exceed 100 IBUs. The recipe for the Strong Ale targets about 35-40 IBUs - balanced English-style bitter, not aggressively hoppy.
 
 The maths is: (alpha acid % × hop weight in grams × % utilisation) ÷ wort volume in litres. You don't need to do this by hand; free online calculators like Brewer's Friend or the BJCP calculators do it for you.
 
@@ -74,12 +74,12 @@ The maths is: (alpha acid % × hop weight in grams × % utilisation) ÷ wort vol
 ### What yeast does in beer
 
 The same Saccharomyces cerevisiae that makes wine also makes beer (different strains, same species). It eats the sugars from the malt and produces:
-- **Ethanol** — what you came for.
-- **CO2** — bubbles off during fermentation; will be re-introduced via priming sugar at bottling.
-- **Esters** — fruity flavour compounds. More at warmer fermentation temperatures.
-- **Phenols** — clove-pepper flavour compounds, distinctive in Belgian and German wheat beers.
-- **Diacetyl** — buttery off-flavour. Cleaned up by the yeast during the conditioning phase.
-- **Sulphur compounds** — most strong in young beer, dissipate with conditioning.
+- **Ethanol** - what you came for.
+- **CO2** - bubbles off during fermentation; will be re-introduced via priming sugar at bottling.
+- **Esters** - fruity flavour compounds. More at warmer fermentation temperatures.
+- **Phenols** - clove-pepper flavour compounds, distinctive in Belgian and German wheat beers.
+- **Diacetyl** - buttery off-flavour. Cleaned up by the yeast during the conditioning phase.
+- **Sulphur compounds** - most strong in young beer, dissipate with conditioning.
 
 ### Why temperature matters
 
@@ -90,18 +90,18 @@ Lager yeast (Saccharomyces pastorianus) is a different beast: ferments at 8-12°
 ### Why conditioning matters
 
 After primary fermentation is technically "done" (no more sugar to eat, airlock stopped), the yeast is still alive and working. During the conditioning phase, the yeast:
-- **Cleans up diacetyl** — the buttery off-flavour disappears.
-- **Reabsorbs sulphur compounds** — the rotten-egg notes vanish.
-- **Reabsorbs acetaldehyde** — the green-apple off-flavour goes.
-- **Settles out** — yeast flocculates (drops to the bottom) and the beer clears.
+- **Cleans up diacetyl** - the buttery off-flavour disappears.
+- **Reabsorbs sulphur compounds** - the rotten-egg notes vanish.
+- **Reabsorbs acetaldehyde** - the green-apple off-flavour goes.
+- **Settles out** - yeast flocculates (drops to the bottom) and the beer clears.
 
-This is why a strong beer needs longer conditioning than a weak one — more alcohol means more aggressive young-beer off-flavours that need extra time to mellow.
+This is why a strong beer needs longer conditioning than a weak one - more alcohol means more aggressive young-beer off-flavours that need extra time to mellow.
 
 ## Bottle conditioning and carbonation
 
 The bottle conditioning phase serves two purposes:
-- **Carbonation** — residual yeast in the beer eats the priming sugar you added at bottling and produces CO2; trapped in the bottle, this dissolves into the beer.
-- **Maturation** — same cleanup processes as conditioning continue.
+- **Carbonation** - residual yeast in the beer eats the priming sugar you added at bottling and produces CO2; trapped in the bottle, this dissolves into the beer.
+- **Maturation** - same cleanup processes as conditioning continue.
 
 ### How much priming sugar
 

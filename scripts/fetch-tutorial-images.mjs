@@ -68,6 +68,11 @@ const TARGETS = [
   { path: 'tutorials/pasta/resources/dried.jpg', queries: ['dried pasta penne italian', 'dried pasta variety'] },
   { path: 'tutorials/pasta/resources/matching.jpg', queries: ['bucatini carbonara', 'spaghetti carbonara plate'] },
   { path: 'tutorials/pasta/resources/regional.jpg', queries: ['italian ragu pasta bolognese', 'tagliatelle bolognese'] },
+
+  // Alcohol tutorial heroes (missing from disk, referenced by categories.json)
+  { path: 'tutorials/homebrew-beer/resources/homebrew-beer.jpg', queries: ['home brewing beer', 'craft beer brewing carboy', 'beer fermenter homebrew'] },
+  { path: 'tutorials/spirits/resources/spirits.jpg', queries: ['whisky barrel cellar', 'whisky bottles distillery', 'copper pot still distillery'] },
+  { path: 'tutorials/winemaking/resources/winemaking.jpg', queries: ['wine barrel cellar', 'red wine fermentation', 'wine grapes harvest'] },
 ];
 
 const usedPhotoIds = new Set();

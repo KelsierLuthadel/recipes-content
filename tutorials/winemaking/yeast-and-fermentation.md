@@ -5,7 +5,7 @@
 *What yeast actually does, why temperature matters, primary versus secondary fermentation, when to rack, when to bottle. The science you need just enough of to troubleshoot when something looks wrong.*
 
 ## Overview
-Yeast is a microscopic single-celled fungus. The species used for winemaking is mostly Saccharomyces cerevisiae (also the species used for bread, beer and most spirits). When yeast is added to a sugary solution and given the right conditions, it eats the sugar and produces two things: ethanol (alcohol) and carbon dioxide (the bubbles). It also produces hundreds of other compounds in tiny quantities — these are what give a wine its character (the fruit notes, the spice undertones, the warmth on the finish). The point of winemaking is to give your chosen yeast the conditions it wants while keeping wild yeasts and bacteria out.
+Yeast is a microscopic single-celled fungus. The species used for winemaking is mostly Saccharomyces cerevisiae (also the species used for bread, beer and most spirits). When yeast is added to a sugary solution and given the right conditions, it eats the sugar and produces two things: ethanol (alcohol) and carbon dioxide (the bubbles). It also produces hundreds of other compounds in tiny quantities - these are what give a wine its character (the fruit notes, the spice undertones, the warmth on the finish). The point of winemaking is to give your chosen yeast the conditions it wants while keeping wild yeasts and bacteria out.
 
 ## What yeast eats and produces
 
@@ -20,7 +20,7 @@ That's why winemaking works the way it does. If you know how much sugar is in yo
 So a wine that started at SG 1.090 and ended at SG 0.990 gives:
 (1.090 - 0.990) × 131 = 13.1% ABV
 
-This means you can target a specific strength by adjusting the starting sugar. More sugar = more alcohol; less sugar = lower alcohol. There are limits though — most wine yeasts stop working at around 14-15% ABV (the alcohol itself becomes toxic to the yeast). Champagne yeasts can go to 18%; standard wine yeasts to 13%.
+This means you can target a specific strength by adjusting the starting sugar. More sugar = more alcohol; less sugar = lower alcohol. There are limits though - most wine yeasts stop working at around 14-15% ABV (the alcohol itself becomes toxic to the yeast). Champagne yeasts can go to 18%; standard wine yeasts to 13%.
 
 ## Temperature: the single biggest factor
 
@@ -33,7 +33,7 @@ Yeast is alive. Like every living thing, it has a temperature range:
 - **Above 30°C**: yeast struggles, off-flavours dominate, can stall completely.
 - **Above 40°C**: yeast dies.
 
-In an unheated UK kitchen in summer, you're probably fine at the lower end of the optimal range. In winter you may need to put the demijohn somewhere warmer — an airing cupboard, near a boiler, or wrapped in a "brew belt" (a heated wrap for £15 that holds 22°C).
+In an unheated UK kitchen in summer, you're probably fine at the lower end of the optimal range. In winter you may need to put the demijohn somewhere warmer - an airing cupboard, near a boiler, or wrapped in a "brew belt" (a heated wrap for £15 that holds 22°C).
 
 **Temperature swings are worse than steady cool temperatures.** If yeast warms up rapidly in the day and cools at night, it produces off-flavours. Find a steady-temperature spot.
 
@@ -58,7 +58,7 @@ Winemaking has two phases:
 - The wine slowly clears from cloudy to translucent.
 - Lasts 4-8 weeks.
 
-The transition from primary to secondary happens when the vigorous bubbling slows, typically around day 10-14. This is when you "rack" the wine — siphon it carefully from the bucket into the demijohn, leaving the bulk of the sediment behind.
+The transition from primary to secondary happens when the vigorous bubbling slows, typically around day 10-14. This is when you "rack" the wine - siphon it carefully from the bucket into the demijohn, leaving the bulk of the sediment behind.
 
 ## When to rack
 
