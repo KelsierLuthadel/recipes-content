@@ -1,24 +1,26 @@
 prep: 2 minutes
 cook: 12 minutes
 allergens:
+  - gluten
   - dairy
-  - nuts
+  - tree-nuts
 tags:
   - vegetarian
-  - gluten-free
-  - hot
-  - cinnamon
-  - floral
-  - winter
+  - quick
+  - coconut
   - nuts
+mentions:
+  - cuisine/israel/snacks/bourekas
+  - drinks/regional/turkey/salep
+  - tutorials/pizza/toppings
 ingredients:
   - qty: 2
     unit: tbsp
-    name: sahlab powder
-    raw: 2 tablespoons sahlab powder (or cornflour + milk powder substitute)
+    name: sahlab powder or 2 tablespoons cornflour + 1 tablespoon milk powder
+    raw: 2 tablespoons sahlab powder OR 2 tablespoons cornflour + 1 tablespoon milk powder
   - qty: 1
-    unit: litre
-    name: whole milk
+    unit: l
+    name: milk
     raw: 1 litre whole milk
   - qty: 60
     unit: g
@@ -34,7 +36,7 @@ ingredients:
     raw: 1 teaspoon rose water
   - qty: 4
     unit: tbsp
-    name: crushed pistachios
+    name: unsalted pistachios
     raw: 4 tablespoons crushed unsalted pistachios
   - qty: 4
     unit: tbsp
@@ -42,13 +44,18 @@ ingredients:
     raw: 4 tablespoons desiccated coconut
   - qty: 2
     unit: tsp
-    name: ground cinnamon
+    name: cinnamon
     raw: 2 teaspoons ground cinnamon
   - qty: 2
     unit: tbsp
-    name: sultanas
-    raw: 2 tablespoons sultanas or raisins (optional)
+    name: sultanas or raisins
+    raw: 2 tablespoons sultanas or raisins
   - qty: 1
-    unit: pinch
-    name: saffron
-    raw: A small pinch of saffron strands (optional)
+    unit: small pinch
+    name: saffron strands
+    raw: A small pinch of saffron strands
+  - qty: 4
+    name: heatproof mugs
+    raw: 4 small heatproof mugs, warmed
+  - name: "optional: a thin biscuit on the saucer"
+    raw: "Optional: a thin biscuit on the saucer"

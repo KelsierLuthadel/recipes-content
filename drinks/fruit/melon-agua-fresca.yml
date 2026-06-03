@@ -6,31 +6,34 @@ tags:
   - dairy-free
   - gluten-free
   - quick
-  - cold
-  - fruit
   - lime
   - honey
+mentions:
+  - drinks/regional/mexico/horchata
 ingredients:
   - qty: 1
-    name: ripe melon
-    raw: 1 ripe cantaloupe or honeydew melon (about 1.5 kg)
+    name: cantaloupe or honeydew melon
+    raw: 1 ripe cantaloupe or honeydew melon
   - qty: 1
-    unit: litre
-    name: cold water
+    unit: l
+    name: water
     raw: 1 litre cold water
-  - qty: 2
-    name: limes
+  - name: juice of 2 limes
     raw: Juice of 2 limes
   - qty: 3
-    unit: tbsp
-    name: honey
-    raw: 3 to 4 tablespoons honey
+    name: to 4 tablespoons honey
+    raw: 3 to 4 tablespoons honey , to taste
   - qty: 1
     unit: pinch
-    name: fine salt
+    name: salt
     raw: A pinch of fine salt
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - qty: 6
-    name: mint sprigs
+    name: tall glasses
+    raw: 6 tall glasses, chilled
+  - qty: 6
+    name: mint
     raw: 6 mint sprigs
+  - name: "optional: a small slice of melon on each rim"
+    raw: "Optional: a small slice of melon on each rim"

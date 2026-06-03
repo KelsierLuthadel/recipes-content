@@ -2,36 +2,44 @@ prep: 5 minutes
 cook: 0 minutes
 allergens:
   - dairy
+  - tree-nuts
 tags:
   - vegetarian
   - gluten-free
   - quick
-  - cold
-  - smoothie
-  - fruit
+  - honey
+  - nuts
+mentions: []
 ingredients:
   - qty: 2
-    name: ripe mangoes
-    raw: 2 ripe mangoes (about 400 g flesh)
+    name: mangoes or 400 g tinned alphonso / kesar mango pulp
+    raw: 2 ripe mangoes OR 400 g tinned Alphonso / Kesar mango pulp
   - qty: 1
-    name: ripe banana
-    raw: 1 ripe banana
+    name: banana
+    raw: 1 ripe banana, peeled
   - qty: 400
     unit: ml
-    name: cold whole milk
+    name: milk
     raw: 400 ml cold whole milk
   - qty: 2
     unit: tbsp
     name: honey
     raw: 2 tablespoons honey
   - qty: 0.5
-    unit: tsp
-    name: vanilla extract
+    name: /2 teaspoon vanilla extract
     raw: 1/2 teaspoon vanilla extract
   - qty: 1
     unit: pinch
-    name: fine salt
+    name: salt
     raw: A pinch of fine salt
-  - qty: 8
+  - qty: 1
+    unit: handful
     name: ice cubes
     raw: A handful of ice cubes
+  - qty: 4
+    name: tall glasses
+    raw: 4 tall glasses, chilled
+  - name: "optional: a small wedge of fresh mango on the rim"
+    raw: "Optional: a small wedge of fresh mango on the rim"
+  - name: "optional: a sprig of fresh mint"
+    raw: "Optional: a sprig of fresh mint"

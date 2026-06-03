@@ -6,24 +6,31 @@ allergens:
 tags:
   - vegetarian
   - gluten-free
+  - spicy
   - quick
-  - hot
-  - alcoholic
-  - festive
-  - winter
+  - eggs
+  - rice
+  - butter
+  - chili
+mentions: []
 ingredients:
   - qty: 500
     unit: ml
     name: ara
-    raw: 500 ml ara (or strong rice spirit substitute)
+    raw: 500 ml ara
   - qty: 2
     unit: tbsp
-    name: butter
-    raw: 2 tablespoons unsalted butter (for buttered version)
+    name: unsalted butter
+    raw: 2 tablespoons unsalted butter
   - qty: 2
     name: eggs
-    raw: 2 eggs (for festive ara-tongba)
+    raw: 2 eggs
   - qty: 1
     unit: pinch
     name: salt
     raw: A pinch of salt
+  - qty: 6
+    name: wooden or metal cups
+    raw: 6 small wooden or metal cups
+  - name: "optional: 6 ezay or zaw as the chaser"
+    raw: "Optional: 6 ezay or zaw as the chaser"

@@ -6,9 +6,9 @@ tags:
   - vegetarian
   - gluten-free
   - quick
-  - hot
-  - tea
-  - cardamom
+  - ginger
+mentions:
+  - drinks/regional/bhutan/suja
 ingredients:
   - qty: 4
     unit: tsp
@@ -20,18 +20,16 @@ ingredients:
     raw: 600 ml water
   - qty: 400
     unit: ml
-    name: whole milk
+    name: milk
     raw: 400 ml whole milk
   - qty: 4
     name: cardamom pods
     raw: 4 cardamom pods, lightly crushed
   - qty: 1
-    name: fresh ginger
-    raw: 1 small piece of fresh ginger (optional)
-  - qty: 1
-    name: cinnamon stick
-    raw: A small piece of cinnamon stick (optional)
+    name: ginger
+    raw: 1 small piece of fresh ginger, sliced
+  - name: cinnamon stick
+    raw: A small piece of cinnamon stick
   - qty: 4
-    unit: tsp
-    name: sugar
-    raw: 4 to 6 teaspoons sugar
+    name: to 6 teaspoons sugar
+    raw: 4 to 6 teaspoons sugar, to taste

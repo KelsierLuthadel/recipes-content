@@ -6,28 +6,25 @@ tags:
   - dairy-free
   - gluten-free
   - quick
-  - hot
-  - alcoholic
-  - honey
-  - lemon
   - ginger
-  - winter
+  - lemon
+  - honey
+mentions: []
 ingredients:
   - qty: 60
     unit: ml
-    name: Scotch whisky
+    name: scotch whisky
     raw: 60 ml Scotch whisky
   - qty: 0.5
-    name: lemon
-    raw: 1/2 lemon, cut into wedges
+    name: /2 lemon
+    raw: 1/2 lemon, cut into 2 wedges
   - qty: 4
-    name: whole cloves
+    name: cloves
     raw: 4 whole cloves
   - qty: 2
-    name: fresh ginger slices
+    name: ginger
     raw: 2 thin slices of fresh ginger
   - qty: 2
-    unit: tbsp
     name: honey
     raw: 2 generous tablespoons honey
   - qty: 400
@@ -36,4 +33,7 @@ ingredients:
     raw: 400 ml just-off-the-boil water
   - qty: 1
     name: cinnamon stick
-    raw: 1 small cinnamon stick (optional)
+    raw: 1 small cinnamon stick
+  - qty: 2
+    name: heavy heatproof glasses ; never thin glass
+    raw: 2 heavy heatproof glasses ; never thin glass, which cracks with boiling water

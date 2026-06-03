@@ -7,33 +7,35 @@ tags:
   - dairy-free
   - gluten-free
   - quick
-  - hot
-  - coffee
-  - cinnamon
-  - festive
+  - make-ahead
+mentions: []
 ingredients:
   - qty: 1
-    unit: litre
+    unit: l
     name: water
     raw: 1 litre water
   - qty: 60
     unit: g
     name: piloncillo
-    raw: 60 g piloncillo (or dark muscovado sugar)
+    raw: 60 g piloncillo
   - qty: 1
     name: cinnamon stick
     raw: 1 large cinnamon stick
   - qty: 4
     unit: tbsp
-    name: coarsely ground coffee
+    name: dark-roast coffee
     raw: 4 tablespoons coarsely ground dark-roast coffee
-  - qty: 1
-    name: orange peel
-    raw: A 5 cm strip of unwaxed orange peel (optional)
+  - name: 5 cm strip of unwaxed orange peel
+    raw: A 5 cm strip of unwaxed orange peel
   - qty: 2
-    name: whole cloves
-    raw: 2 whole cloves (optional)
+    name: cloves
+    raw: 2 whole cloves
   - qty: 1
-    unit: pinch
-    name: fine salt
+    unit: tiny pinch
+    name: salt
     raw: A tiny pinch of fine salt
+  - qty: 4
+    name: mugs
+    raw: 4 small mugs, ideally clay but any thick-walled mug works
+  - name: "optional: a small sweet alongside"
+    raw: "Optional: a small sweet alongside"

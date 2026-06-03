@@ -2,23 +2,21 @@ prep: 2 minutes
 cook: 10 minutes
 allergens:
   - dairy
-  - gluten
 tags:
   - vegetarian
+  - gluten-free
   - quick
-  - hot
   - chocolate
-  - cinnamon
-  - festive
+mentions: []
 ingredients:
   - qty: 500
     unit: ml
-    name: whole milk
+    name: milk
     raw: 500 ml whole milk
   - qty: 100
     unit: g
     name: dark chocolate
-    raw: 100 g dark chocolate (60-70% cocoa)
+    raw: 100 g dark chocolate
   - qty: 1
     unit: tbsp
     name: cornflour
@@ -29,12 +27,17 @@ ingredients:
     raw: 50 g caster sugar
   - qty: 1
     unit: pinch
-    name: fine salt
+    name: salt
     raw: A pinch of fine salt
   - qty: 0.5
-    unit: tsp
-    name: vanilla extract
-    raw: 1/2 teaspoon vanilla extract (optional)
-  - qty: 1
-    name: cinnamon stick
-    raw: A small piece of cinnamon stick (optional)
+    name: /2 teaspoon vanilla extract
+    raw: 1/2 teaspoon vanilla extract
+  - name: cinnamon stick
+    raw: A small piece of cinnamon stick
+  - qty: 4
+    name: cups
+    raw: 4 small cups
+  - name: "optional but traditional: 8-12 churros for dipping"
+    raw: "Optional but traditional: 8-12 churros for dipping"
+  - name: "optional: a sprinkle of cocoa powder on top"
+    raw: "Optional: a sprinkle of cocoa powder on top"

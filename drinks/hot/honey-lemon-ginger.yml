@@ -11,7 +11,8 @@ tags:
   - lemon
   - honey
   - chili
-mentions: []
+mentions:
+  - drinks/hot/hot-toddy
 ingredients:
   - qty: 3
     name: ginger root

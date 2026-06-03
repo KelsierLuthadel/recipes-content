@@ -1,4 +1,4 @@
-prep: 10 minutes
+prep: 10 minutes (plus 2 hours macerating)
 cook: 0 minutes
 allergens: []
 tags:
@@ -6,33 +6,34 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
-  - make-ahead
-  - cold
-  - alcoholic
-  - wine
-  - festive
+  - complex
+mentions: []
 ingredients:
   - qty: 500
     unit: g
-    name: fresh strawberries
+    name: strawberries
     raw: 500 g fresh ripe strawberries
   - qty: 100
     unit: g
     name: caster sugar
     raw: 100 g caster sugar
-  - qty: 750
-    unit: ml
-    name: Chilean red wine
-    raw: 1 bottle (750 ml) dry-to-medium Chilean red wine
+  - qty: 1
+    name: dry-to-medium chilean red wine
+    raw: 1 bottle of dry-to-medium Chilean red wine
   - qty: 250
     unit: ml
-    name: sparkling water
-    raw: 250 ml cold sparkling water
+    name: sparkling water or soda water
+    raw: 250 ml cold sparkling water or soda water
   - qty: 1
-    unit: pinch
-    name: fine salt
+    unit: small pinch
+    name: salt
     raw: A small pinch of fine salt
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
-  - name: mint sprigs
-    raw: A few mint sprigs (optional)
+  - qty: 6
+    name: tall glasses
+    raw: 6 tall glasses, chilled
+  - name: long-handled spoon for fishing out the strawberries
+    raw: A long-handled spoon for fishing out the strawberries
+  - name: "optional: a few mint"
+    raw: "Optional: a few mint sprigs to garnish"

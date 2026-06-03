@@ -6,39 +6,43 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
-  - hot
-  - alcoholic
-  - festive
-  - winter
-  - cinnamon
+mentions:
+  - drinks/hot/mulled-wine
 ingredients:
   - qty: 1.5
-    unit: litres
-    name: dry English cider
+    unit: l
+    name: dry english cider
     raw: 1.5 litres dry English cider
   - qty: 4
     name: dessert apples
-    raw: 4 small dessert apples
-  - qty: 12
-    name: whole cloves
+    raw: 4 small dessert apples , studded with cloves
+  - qty: 8
+    name: to 12 whole cloves
     raw: 8 to 12 whole cloves
   - qty: 2
     name: cinnamon sticks
     raw: 2 large cinnamon sticks
   - qty: 4
-    name: whole allspice berries
+    name: allspice berries
     raw: 4 whole allspice berries
   - qty: 1
     name: nutmeg
-    raw: 1 small whole nutmeg
+    raw: 1 small whole nutmeg, lightly cracked
   - qty: 80
-    unit: g
-    name: dark muscovado sugar
-    raw: 80 to 100 g dark muscovado sugar
-  - qty: 1
-    name: orange peel
+    name: to 100 g dark muscovado sugar
+    raw: 80 to 100 g dark muscovado sugar, to taste
+  - name: strip of unwaxed orange peel
     raw: A strip of unwaxed orange peel
   - qty: 250
     unit: ml
     name: brandy or sherry
-    raw: 250 ml brandy or sherry (optional)
+    raw: 250 ml brandy or sherry
+  - name: warm punch bowl or a heatproof jug
+    raw: A large warm punch bowl or a heatproof jug
+  - qty: 8
+    name: mugs or heatproof glasses
+    raw: 8 mugs or heatproof glasses, warmed
+  - name: ladle
+    raw: A ladle
+  - name: "optional: extra clove-studded apple pieces"
+    raw: "Optional: extra clove-studded apple pieces for garnish"

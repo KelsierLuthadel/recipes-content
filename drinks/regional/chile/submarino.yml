@@ -6,30 +6,36 @@ tags:
   - vegetarian
   - gluten-free
   - quick
-  - hot
   - chocolate
+mentions:
+  - cuisine/chilean/side-dishes/sopaipillas
 ingredients:
   - qty: 600
     unit: ml
-    name: whole milk
+    name: milk
     raw: 600 ml whole milk
   - qty: 100
     unit: g
     name: dark chocolate
-    raw: 100 g dark chocolate (60-70% cocoa)
+    raw: 100 g dark chocolate
   - qty: 2
-    unit: tsp
-    name: sugar
-    raw: 2 to 4 teaspoons sugar
+    name: to 4 teaspoons sugar
+    raw: 2 to 4 teaspoons sugar, to taste
   - qty: 1
     unit: pinch
-    name: fine salt
+    name: salt
     raw: A pinch of fine salt
   - qty: 0.5
-    unit: tsp
-    name: vanilla extract
-    raw: 1/2 teaspoon vanilla extract (optional)
+    name: /2 teaspoon vanilla extract
+    raw: 1/2 teaspoon vanilla extract
   - qty: 0.25
-    unit: tsp
-    name: ground cinnamon
-    raw: 1/4 teaspoon ground cinnamon (optional)
+    name: /4 teaspoon ground cinnamon
+    raw: 1/4 teaspoon ground cinnamon
+  - qty: 2
+    name: tall heatproof mugs or glass tumblers
+    raw: 2 tall heatproof mugs or glass tumblers
+  - qty: 2
+    name: long spoons
+    raw: 2 long spoons
+  - name: "optional: a small piece of sopaipilla or marraqueta on the side"
+    raw: "Optional: a small piece of sopaipilla or marraqueta on the side"

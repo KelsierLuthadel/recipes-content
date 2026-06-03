@@ -6,34 +6,35 @@ tags:
   - dairy-free
   - gluten-free
   - quick
-  - cold
-  - fruit
   - lime
   - honey
-  - festive
+mentions: []
 ingredients:
   - qty: 600
     unit: ml
     name: pomegranate juice
     raw: 600 ml fresh pomegranate juice
-  - qty: 2
-    name: limes
+  - name: juice of 2 limes
     raw: Juice of 2 limes
   - qty: 3
-    unit: tbsp
-    name: honey
-    raw: 3 to 4 tablespoons honey
+    name: to 4 tablespoons honey
+    raw: 3 to 4 tablespoons honey, to taste
   - qty: 400
     unit: ml
-    name: cold sparkling water
-    raw: 400 ml cold sparkling water
+    name: cold sparkling / soda water
+    raw: 400 ml cold sparkling / soda water
   - qty: 4
     unit: tbsp
     name: pomegranate arils
     raw: 4 tablespoons fresh pomegranate arils
   - qty: 1
     unit: pinch
-    name: fine salt
+    name: salt
     raw: A pinch of fine salt
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
+  - qty: 4
+    name: tall glasses
+    raw: 4 tall glasses, chilled
+  - name: "optional: fresh mint"
+    raw: "Optional: fresh mint sprigs"

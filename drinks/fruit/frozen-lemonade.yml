@@ -7,9 +7,9 @@ tags:
   - dairy-free
   - gluten-free
   - quick
-  - cold
   - lemon
-  - fruit
+mentions:
+  - drinks/classic/lemonade
 ingredients:
   - qty: 200
     unit: ml
@@ -25,13 +25,21 @@ ingredients:
     raw: 100 ml just-off-the-boil water
   - qty: 400
     unit: ml
-    name: cold water
+    name: water
     raw: 400 ml cold water
-  - qty: 1
-    unit: kg
+  - qty: 8
+    unit: large handful
     name: ice cubes
-    raw: 8 large handfuls of ice cubes (about 1 kg)
+    raw: 8 large handfuls of ice cubes
   - qty: 1
     unit: pinch
-    name: fine salt
+    name: salt
     raw: A pinch of fine salt
+  - qty: 4
+    name: tall glasses
+    raw: 4 tall glasses, chilled in the freezer for 10 minutes
+  - qty: 4
+    name: straws
+    raw: 4 thick straws
+  - name: "optional: a lemon wheel per glass"
+    raw: "Optional: a lemon wheel per glass"

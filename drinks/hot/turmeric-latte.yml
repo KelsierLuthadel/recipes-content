@@ -2,49 +2,53 @@ prep: 3 minutes
 cook: 7 minutes
 allergens:
   - dairy
+  - tree-nuts
 tags:
   - vegetarian
   - gluten-free
   - quick
-  - hot
-  - spices
+  - make-ahead
   - ginger
-  - cinnamon
-  - turmeric
+  - honey
+  - nuts
+mentions: []
 ingredients:
   - qty: 600
     unit: ml
-    name: whole milk
+    name: milk
     raw: 600 ml whole milk
   - qty: 2
     unit: tsp
-    name: ground turmeric
-    raw: 2 teaspoons ground turmeric
+    name: turmeric or 4 cm fresh turmeric root
+    raw: 2 teaspoons ground turmeric OR 4 cm fresh turmeric root, peeled and grated
   - qty: 2
-    unit: cm
-    name: fresh ginger
-    raw: 2 cm fresh ginger
+    name: ginger
+    raw: 2 cm fresh ginger, peeled and grated
   - qty: 0.5
-    unit: tsp
-    name: ground cinnamon
+    name: /2 teaspoon ground cinnamon
     raw: 1/2 teaspoon ground cinnamon
   - qty: 1
-    unit: pinch
+    unit: small pinch
     name: black pepper
     raw: A small pinch of black pepper
   - qty: 2
-    unit: tbsp
-    name: honey
+    name: to 3 tablespoons honey
     raw: 2 to 3 tablespoons honey
   - qty: 0.25
-    unit: tsp
-    name: vanilla extract
-    raw: 1/4 teaspoon vanilla extract (optional)
+    name: /4 teaspoon vanilla extract
+    raw: 1/4 teaspoon vanilla extract
   - qty: 1
-    unit: pinch
-    name: fine salt
+    unit: small pinch
+    name: salt
     raw: A small pinch of fine salt
   - qty: 1
-    unit: pinch
-    name: saffron
-    raw: A tiny pinch of saffron strands (optional)
+    unit: tiny pinch
+    name: saffron strands
+    raw: A tiny pinch of saffron strands
+  - qty: 2
+    name: mugs
+    raw: 2 mugs, warmed
+  - name: "optional: a small dusting of ground cinnamon on top"
+    raw: "Optional: a small dusting of ground cinnamon on top"
+  - name: "optional: a few crushed pistachios"
+    raw: "Optional: a few crushed pistachios"

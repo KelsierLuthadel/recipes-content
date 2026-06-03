@@ -1,0 +1,41 @@
+prep: 60 minutes
+cook: 0 minutes
+allergens:
+  - sulphites
+tags:
+  - tutorial
+  - fermentation
+  - winemaking
+  - make-ahead
+  - alcoholic
+ingredients:
+  - qty: 30
+    name: elderflower heads
+    raw: 30 to 40 fresh elderflower heads
+  - qty: 4
+    unit: litres
+    name: cold water
+    raw: 4 litres of cold water
+  - qty: 1
+    unit: kg
+    name: granulated white sugar
+    raw: 1 kg granulated white sugar
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - qty: 1
+    name: wine yeast sachet
+    raw: 1 sachet of wine yeast (Lalvin EC-1118 or K1-V1116)
+  - qty: 1
+    unit: tsp
+    name: yeast nutrient
+    raw: 1 teaspoon yeast nutrient
+  - qty: 1
+    name: campden tablet
+    raw: 1 crushed campden tablet (sterilising)
+  - qty: 6
+    name: wine bottles
+    raw: 6 wine bottles (75 cl)
+  - qty: 6
+    name: corks
+    raw: 6 corks

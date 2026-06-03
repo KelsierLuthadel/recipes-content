@@ -7,13 +7,18 @@ tags:
   - dairy-free
   - gluten-free
   - quick
-  - cold
+  - make-ahead
   - lime
+mentions: []
 ingredients:
   - qty: 1
-    unit: litre
-    name: cold water
-    raw: 1 litre cold water (or 1 litre fresh palm sap)
+    unit: l
+    name: palm sap
+    raw: 1 litre fresh palm sap , kept cold from the moment of harvest
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre cold water
   - qty: 120
     unit: g
     name: palm jaggery
@@ -23,12 +28,16 @@ ingredients:
     name: lime juice
     raw: 2 tablespoons fresh lime juice
   - qty: 0.25
-    unit: tsp
-    name: ground cardamom
+    name: /4 teaspoon ground cardamom
     raw: 1/4 teaspoon ground cardamom
   - qty: 1
     unit: pinch
-    name: fine salt
+    name: salt
     raw: Pinch of fine salt
-  - name: crushed ice
+  - name: plenty of crushed ice
     raw: Plenty of crushed ice
+  - qty: 4
+    name: tall glasses
+    raw: 4 tall glasses, chilled
+  - name: "optional: 1 small wedge of lime per glass"
+    raw: "Optional: 1 small wedge of lime per glass"

@@ -1,0 +1,42 @@
+prep: 240 minutes
+cook: 70 minutes
+allergens:
+  - gluten
+tags:
+  - tutorial
+  - fermentation
+  - brewing
+  - alcoholic
+  - make-ahead
+ingredients:
+  - qty: 3
+    unit: kg
+    name: dry malt extract (pale)
+    raw: 3 kg dry malt extract, pale variety
+  - qty: 500
+    unit: g
+    name: dry malt extract (dark)
+    raw: 500 g dry malt extract, dark or amber
+  - qty: 300
+    unit: g
+    name: crystal malt 60L
+    raw: 300 g crystal malt, 60 L grade
+  - qty: 40
+    unit: g
+    name: Fuggles hops
+    raw: 40 g Fuggles hop pellets
+  - qty: 30
+    unit: g
+    name: East Kent Goldings hops
+    raw: 30 g East Kent Goldings hop pellets
+  - qty: 1
+    name: ale yeast sachet
+    raw: 1 sachet English ale yeast (Safale S-04 or Nottingham)
+  - qty: 25
+    unit: litres
+    name: cold water
+    raw: 25 litres cold water
+  - qty: 120
+    unit: g
+    name: priming sugar
+    raw: 120 g priming sugar (dextrose)

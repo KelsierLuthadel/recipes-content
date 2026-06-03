@@ -6,20 +6,19 @@ tags:
   - dairy-free
   - gluten-free
   - quick
-  - cold
   - ginger
-  - fruit
   - lime
+  - honey
+mentions: []
 ingredients:
   - qty: 1
     name: pineapple
     raw: 1 large ripe pineapple
   - qty: 40
     unit: g
-    name: fresh ginger
-    raw: 40 g fresh ginger
-  - qty: 1
-    name: lime
+    name: ginger
+    raw: 40 g fresh ginger, peeled and sliced
+  - name: juice of 1 lime
     raw: Juice of 1 lime
   - qty: 2
     unit: tbsp
@@ -27,11 +26,18 @@ ingredients:
     raw: 2 tablespoons honey
   - qty: 400
     unit: ml
-    name: cold water
+    name: water
     raw: 400 ml cold water
   - qty: 1
     unit: pinch
-    name: fine salt
+    name: salt
     raw: A pinch of fine salt
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
+  - qty: 4
+    name: tall glasses
+    raw: 4 tall glasses, chilled
+  - name: "optional: a thin slice of fresh pineapple per glass"
+    raw: "Optional: a thin slice of fresh pineapple per glass"
+  - name: "optional: a mint sprig per glass"
+    raw: "Optional: a mint sprig per glass"

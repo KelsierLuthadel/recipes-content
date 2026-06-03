@@ -6,8 +6,7 @@ tags:
   - vegetarian
   - gluten-free
   - quick
-  - cold
-  - coffee
+mentions: []
 ingredients:
   - qty: 2
     unit: tbsp
@@ -24,6 +23,11 @@ ingredients:
   - qty: 2
     unit: tbsp
     name: evaporated milk
-    raw: 2 tablespoons evaporated milk (optional)
-  - name: crushed ice
+    raw: 2 tablespoons evaporated milk
+  - name: plenty of crushed ice
     raw: Plenty of crushed ice
+  - qty: 2
+    name: thick-walled glasses
+    raw: 2 small thick-walled glasses, chilled
+  - name: long spoons
+    raw: Long spoons

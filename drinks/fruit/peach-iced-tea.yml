@@ -1,5 +1,5 @@
 prep: 10 minutes
-cook: 8 minutes
+cook: 8 minutes (plus 3 hours chilling)
 allergens: []
 tags:
   - vegetarian
@@ -7,34 +7,37 @@ tags:
   - dairy-free
   - gluten-free
   - make-ahead
-  - cold
-  - tea
-  - fruit
   - lemon
+  - complex
+mentions:
+  - drinks/classic/iced-tea
+  - drinks/regional/creole/sweet-tea
 ingredients:
   - qty: 6
     name: black tea bags
     raw: 6 black tea bags
   - qty: 4
-    name: ripe peaches
+    name: peaches
     raw: 4 ripe peaches
-  - qty: 1
-    name: unwaxed lemon peel
+  - name: 5 cm strip of unwaxed lemon peel
     raw: A 5 cm strip of unwaxed lemon peel
   - qty: 1.5
-    unit: litres
+    unit: l
     name: water
     raw: 1.5 litres water
   - qty: 80
-    unit: g
-    name: caster sugar
-    raw: 80 to 120 g caster sugar
-  - qty: 1
-    name: lemon
+    name: to 120 g caster sugar
+    raw: 80 to 120 g caster sugar, to taste
+  - name: juice of 1 lemon
     raw: Juice of 1 lemon
   - qty: 1
     unit: pinch
-    name: fine salt
+    name: salt
     raw: A pinch of fine salt
-  - name: ice cubes
+  - name: plenty of ice cubes
     raw: Plenty of ice cubes
+  - qty: 6
+    name: tall glasses
+    raw: 6 tall glasses, chilled
+  - name: "optional: fresh mint"
+    raw: "Optional: fresh mint sprigs"
