@@ -1,6 +1,6 @@
 # Manhattan Seafood Chowder
 
-![Manhattan seafood chowder](resources/manhattan-chowder.png)
+![Manhattan seafood chowder](resources/manhattan-chowder.jpg)
 
 *Manhattan's tomato-based seafood chowder: clams, fish and prawns simmered in a tomato broth with celery, onion and herbs.*
 
