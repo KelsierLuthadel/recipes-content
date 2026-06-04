@@ -20,7 +20,7 @@ Lahore is the unofficial capital of lassi. Walk down any street in the Old City 
 - 8 to 10 tablespoons caster sugar, to taste (start at 6, taste, add more)
 - A small handful of ice cubes (about 100 g)
 - 2 cardamom pods, lightly crushed (optional)
-- 1 teaspoon rose water (optional — careful, can dominate)
+- 1 teaspoon rose water (optional - careful, can dominate)
 
 ### To serve
 - 4 tablespoons malai (clotted cream) OR thick whipped double cream

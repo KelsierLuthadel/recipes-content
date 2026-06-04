@@ -10,8 +10,8 @@ import { join, basename } from 'node:path';
 // Folders we walk recursively for .md, .json, .js, .css files.
 const ROOTS = [
   'baking', 'base-ingredients', 'bread-pasta', 'coulis', 'cuisine',
-  'editorial', 'petit-four', 'sauces', 'sponge', 'stocks', 'tutorials',
-  'vinaigrette',
+  'drinks', 'editorial', 'petit-four', 'sauces', 'sponge', 'stocks',
+  'tutorials', 'vinaigrette',
   'documentation', 'scripts',
 ];
 

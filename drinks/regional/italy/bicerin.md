@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Bicerin (pronounced bee-cher-IN, "small glass" in Piedmontese) is Turin's signature hot drink, served since the 1700s at the Caffè Al Bicerin in the city's Piazza della Consolata. Three distinct layers in a small glass: thick chocolate at the bottom (a hot-chocolate-style preparation made with cocoa powder, water, sugar and milk, reduced until pourable), strong espresso in the middle, and warm unwhipped cream gently floated on top. The layers must stay visually distinct — bicerin without its three-band stratification is a failed pour. Drunk slowly without stirring, so each sip pulls together cream, espresso and chocolate from the top down. Cavour, Dumas, Nietzsche and Puccini all drank it at the original café; the recipe has been protected by Turin authorities since 2001.
+Bicerin (pronounced bee-cher-IN, "small glass" in Piedmontese) is Turin's signature hot drink, served since the 1700s at the Caffè Al Bicerin in the city's Piazza della Consolata. Three distinct layers in a small glass: thick chocolate at the bottom (a hot-chocolate-style preparation made with cocoa powder, water, sugar and milk, reduced until pourable), strong espresso in the middle, and warm unwhipped cream gently floated on top. The layers must stay visually distinct - bicerin without its three-band stratification is a failed pour. Drunk slowly without stirring, so each sip pulls together cream, espresso and chocolate from the top down. Cavour, Dumas, Nietzsche and Puccini all drank it at the original café; the recipe has been protected by Turin authorities since 2001.
 
 ## Ingredients
 
@@ -39,7 +39,7 @@ Bicerin (pronounced bee-cher-IN, "small glass" in Piedmontese) is Turin's signat
 1. Keep warm.
 
 ### Stage 2 - Warm the cream
-1. In a separate small pan or microwave, warm the double cream to body temperature — DO NOT whip and DO NOT boil. It should feel just warmer than room temperature.
+1. In a separate small pan or microwave, warm the double cream to body temperature - DO NOT whip and DO NOT boil. It should feel just warmer than room temperature.
 
 ### Stage 3 - Pull the espresso
 1. Just before assembling, pull two fresh espresso shots.
@@ -51,12 +51,12 @@ Bicerin (pronounced bee-cher-IN, "small glass" in Piedmontese) is Turin's signat
 
 ### Stage 5 - Serve
 1. The three layers should be visible: dark brown at the bottom, lighter brown in the middle, pale cream on top.
-1. Serve immediately. Do not stir — the layers are the entire point. Drink slowly so the cream-espresso-chocolate combine in each sip from the top.
+1. Serve immediately. Do not stir - the layers are the entire point. Drink slowly so the cream-espresso-chocolate combine in each sip from the top.
 
 ## Notes
 - **Pour speed matters.** Each layer goes in slowly, over the back of a spoon. Too-fast pour and the layers merge.
 - **Chocolate must be thick.** If it's too liquid, the espresso and cream sink. Reduce the chocolate to spoonable-but-pourable.
-- **Cream not whipped.** Whipped cream sits on top like a hat. Warm liquid cream floats as a layer — that's the trick.
+- **Cream not whipped.** Whipped cream sits on top like a hat. Warm liquid cream floats as a layer - that's the trick.
 - **Drink at the right pace.** Sip slowly, the layers staying mostly separate until the last quarter. Stirring is for tourists.
 
 ## Storage

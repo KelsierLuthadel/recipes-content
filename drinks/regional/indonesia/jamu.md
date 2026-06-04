@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Jamu is Indonesia's traditional herbal medicine-drink culture, a category encompassing hundreds of variants. The most common is jamu kunyit asam (turmeric-tamarind) — fresh turmeric and ginger, pounded and simmered with tamarind, palm sugar (gula merah), lime and a pinch of salt into a deep-orange tonic served hot or cold. Sold across Java by jamu gendong vendors who carry the bottles in woven baskets on their backs, walking neighbourhood routes each morning. Believed to support digestion, immunity and joint health; drunk for general wellness as much as for any specific ailment. Sharp, sweet-sour, gently warming.
+Jamu is Indonesia's traditional herbal medicine-drink culture, a category encompassing hundreds of variants. The most common is jamu kunyit asam (turmeric-tamarind) - fresh turmeric and ginger, pounded and simmered with tamarind, palm sugar (gula merah), lime and a pinch of salt into a deep-orange tonic served hot or cold. Sold across Java by jamu gendong vendors who carry the bottles in woven baskets on their backs, walking neighbourhood routes each morning. Believed to support digestion, immunity and joint health; drunk for general wellness as much as for any specific ailment. Sharp, sweet-sour, gently warming.
 
 ## Ingredients
 

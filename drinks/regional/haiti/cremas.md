@@ -35,14 +35,14 @@ Cremas (also spelled kremas, cremasse) is the Haitian Christmas drink and the mo
 
 1. Combine all ingredients in a blender. Blend on high for 60 seconds until completely smooth and uniformly creamy.
 1. Pour into a sealed bottle or jug.
-1. Refrigerate at least 24 hours — the flavours need time to marry and the texture thickens slightly as the coconut cream solidifies.
+1. Refrigerate at least 24 hours - the flavours need time to marry and the texture thickens slightly as the coconut cream solidifies.
 1. Before serving, shake the bottle (the cream separates and rises to the top while sitting).
 1. Pour into small chilled glasses; grate fresh nutmeg on top.
 
 ## Notes
 - **Barbancourt is the canon.** Haitian rum specifically; other white rums work but the Haitian provenance is part of the dish.
 - **Coconut cream vs cream of coconut.** Plain coconut cream gives a less-sweet drink; Coco Lopez-style sweetened cream of coconut gives the candy-sweet version most family recipes use. Either works.
-- **Almond or anise — pick one.** Both are traditional in different families; almond is more common, anise is more polarising but distinctive.
+- **Almond or anise - pick one.** Both are traditional in different families; almond is more common, anise is more polarising but distinctive.
 - **Keep it cold.** Cremas served warm is just sweet milk. Cold from the fridge is the canonical serve.
 
 ## Storage

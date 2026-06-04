@@ -11,11 +11,11 @@
 **Cook Time:** 10 minutes (plus chilling)
 
 ## Overview
-Sweet tea is the everyday drink of the American South — from Louisiana up through Alabama, Mississippi, the Carolinas and Georgia, and into Texas and Tennessee. Order "tea" at a Southern diner and what you'll get without further explanation is iced sweet tea: strong black tea brewed long, sweetened heavily with white sugar while hot, then chilled and served over crushed ice with a lemon wedge. The Creole / New Orleans version belongs to this Southern tradition and shows up at every backyard cookout, family Sunday lunch, after-church gathering, and Saturday-football tailgate. The single critical step that distinguishes proper Southern sweet tea from "iced tea with sugar added later" is dissolving the sugar while the brew is still hot — this way the sweetness integrates fully and doesn't sit gritty at the bottom of the glass. Sugar by volume varies by household: 1.5 cups per gallon (about 200 g per 4 litres) is on the lighter end; the deeper-South version uses 2 to 3 cups (250-400 g). The classic finishing touch is a wedge of fresh lemon clipped on the rim and a sprig of mint.
+Sweet tea is the everyday drink of the American South - from Louisiana up through Alabama, Mississippi, the Carolinas and Georgia, and into Texas and Tennessee. Order "tea" at a Southern diner and what you'll get without further explanation is iced sweet tea: strong black tea brewed long, sweetened heavily with white sugar while hot, then chilled and served over crushed ice with a lemon wedge. The Creole / New Orleans version belongs to this Southern tradition and shows up at every backyard cookout, family Sunday lunch, after-church gathering, and Saturday-football tailgate. The single critical step that distinguishes proper Southern sweet tea from "iced tea with sugar added later" is dissolving the sugar while the brew is still hot - this way the sweetness integrates fully and doesn't sit gritty at the bottom of the glass. Sugar by volume varies by household: 1.5 cups per gallon (about 200 g per 4 litres) is on the lighter end; the deeper-South version uses 2 to 3 cups (250-400 g). The classic finishing touch is a wedge of fresh lemon clipped on the rim and a sprig of mint.
 
 ## Ingredients
 
-- 6 black tea bags (Lipton is the South's go-to; use a robust everyday black tea — Yorkshire, PG Tips, or English Breakfast all work)
+- 6 black tea bags (Lipton is the South's go-to; use a robust everyday black tea - Yorkshire, PG Tips, or English Breakfast all work)
 - 2 litres cold water
 - 200 to 250 g caster sugar (start at 200, taste, add more for properly Southern sweetness)
 - A small pinch of baking soda (the secret Southern trick: a tiny amount of baking soda neutralises any bitter tannins from over-brewing)
@@ -53,7 +53,7 @@ Sweet tea is the everyday drink of the American South — from Louisiana up thro
 - **The baking soda trick.** A tiny pinch of baking soda in the brew (no more than 1/8 teaspoon per 2 litres) neutralises any harsh bitter tannins from long-brewed tea, giving a cleaner sweetness. This is the secret in most Southern grandmothers' recipes; don't skip it.
 - **Sugar while hot.** Adding sugar to cold tea leaves it gritty at the bottom. Always dissolve while hot.
 - **Bag count and steep time.** 6 bags for 2 litres is the standard ratio. Steep 5 to 7 minutes; don't go longer or it gets harsh even with baking soda.
-- **Sweet by Southern standards.** 250 g of sugar to 2 litres is the proper deep-South sweetness. If that sounds like a lot, start lighter — but recognise that "sweet tea with not enough sugar" isn't sweet tea, it's iced tea.
+- **Sweet by Southern standards.** 250 g of sugar to 2 litres is the proper deep-South sweetness. If that sounds like a lot, start lighter - but recognise that "sweet tea with not enough sugar" isn't sweet tea, it's iced tea.
 - **Always with lemon.** A wedge of fresh lemon on every glass. The lemon cuts the sweetness and adds the right brightness; don't serve it without.
 
 ## Variations

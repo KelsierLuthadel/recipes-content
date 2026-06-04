@@ -17,7 +17,7 @@ Cafe touk dah koh (literally "coffee with milk") is the Cambodian street coffee,
 
 - 2 tablespoons strong dark-roast ground coffee (Cambodian or Vietnamese brand; espresso-grind)
 - 160 ml just-off-the-boil water
-- 6 tablespoons sweetened condensed milk (3 tablespoons per glass — more than the Vietnamese version)
+- 6 tablespoons sweetened condensed milk (3 tablespoons per glass - more than the Vietnamese version)
 - 2 tablespoons evaporated milk (optional, for extra body)
 - Plenty of crushed ice
 
@@ -41,10 +41,10 @@ Cafe touk dah koh (literally "coffee with milk") is the Cambodian street coffee,
 ### Stage 3 - Serve
 1. Fill 2 chilled tall glasses three-quarters full with crushed ice.
 1. Pour the sweet coffee-milk mixture over the ice.
-1. Serve immediately with a long spoon — the drinker stirs as they sip.
+1. Serve immediately with a long spoon - the drinker stirs as they sip.
 
 ## Notes
-- **More condensed milk than Vietnamese.** Cambodian versions lean sweeter — 3 tablespoons per glass instead of the Vietnamese 2. Adjust to taste.
+- **More condensed milk than Vietnamese.** Cambodian versions lean sweeter - 3 tablespoons per glass instead of the Vietnamese 2. Adjust to taste.
 - **Phin filter is the cleanest method.** A drip filter gives the right slow-extraction body. Moka pot works; French press gives a slightly different (but still good) texture.
 - **Crushed ice, not cubes.** Like all SE Asian iced coffees, this is built on a mound of crushed ice that slowly melts in as you drink.
 

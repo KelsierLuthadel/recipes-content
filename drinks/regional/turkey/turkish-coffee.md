@@ -15,7 +15,7 @@ Türk kahvesi is the oldest coffee preparation method still widely drunk: invent
 
 ## Ingredients
 
-- 4 teaspoons very finely powdered Turkish coffee (Mehmet Efendi or Kurukahveci brand; ground specifically for cezve preparation — espresso grind is too coarse)
+- 4 teaspoons very finely powdered Turkish coffee (Mehmet Efendi or Kurukahveci brand; ground specifically for cezve preparation - espresso grind is too coarse)
 - 200 ml cold water
 - Sugar to taste, added at the START (not at the table):
   - Sade: no sugar
@@ -30,7 +30,7 @@ Türk kahvesi is the oldest coffee preparation method still widely drunk: invent
 - 2 pieces of lokum (Turkish delight) or chocolate
 
 ### Equipment
-- A cezve (small copper pot with a long handle, about 250 ml capacity) — essential
+- A cezve (small copper pot with a long handle, about 250 ml capacity) - essential
 
 ## Method
 
@@ -44,12 +44,12 @@ Türk kahvesi is the oldest coffee preparation method still widely drunk: invent
 1. After about 90 seconds, the coffee will start to sink and the mixture will begin to merge. Now stir gently with a small spoon to fully combine.
 
 ### Stage 3 - Watch for the foam
-1. Continue heating on low. As the temperature rises (about 60-70°C), foam starts forming on the surface. Don't stir from this point on — disturbing the foam ruins the drink.
-1. The foam rises slowly. Watch carefully — when it begins to rise close to the rim of the cezve, lift the cezve off the heat immediately. Don't let it boil over.
+1. Continue heating on low. As the temperature rises (about 60-70°C), foam starts forming on the surface. Don't stir from this point on - disturbing the foam ruins the drink.
+1. The foam rises slowly. Watch carefully - when it begins to rise close to the rim of the cezve, lift the cezve off the heat immediately. Don't let it boil over.
 
 ### Stage 4 - Pour the foam
 1. Using a small spoon, distribute a layer of the foam into each cup first. Each cup should have a generous foam cap.
-1. Return the cezve to the heat for another 30 seconds — the foam will rise once more.
+1. Return the cezve to the heat for another 30 seconds - the foam will rise once more.
 1. Now pour the rest of the coffee gently down the side of each cup over the foam, so the foam stays on top. The grounds will go in too; this is correct.
 
 ### Stage 5 - Settle and serve
@@ -57,7 +57,7 @@ Türk kahvesi is the oldest coffee preparation method still widely drunk: invent
 1. Serve with the glass of cold water on the side (drink the water first, then the coffee) and a piece of lokum.
 
 ## Notes
-- **Grind matters.** Turkish coffee grind is the finest grind available — finer than espresso, almost a powder. If you use espresso grind, the texture is wrong and the foam doesn't form properly. Buy pre-ground Turkish coffee (Mehmet Efendi is everywhere) or have it ground specifically for Turkish at a specialty shop.
+- **Grind matters.** Turkish coffee grind is the finest grind available - finer than espresso, almost a powder. If you use espresso grind, the texture is wrong and the foam doesn't form properly. Buy pre-ground Turkish coffee (Mehmet Efendi is everywhere) or have it ground specifically for Turkish at a specialty shop.
 - **Sugar at the start.** Sugar always goes in at the beginning, never at the table. Asking for sugar after pouring marks you as a tourist.
 - **Don't boil.** The coffee should never reach a full hard boil. Once foam rises near the rim, off the heat. Boiling destroys the foam (which is the whole point) and makes the coffee bitter.
 - **Don't drink the grounds.** Sip the top two-thirds of the cup; leave the grounds undisturbed at the bottom. After you finish, turn the cup upside down on the saucer for fortune-telling tradition.

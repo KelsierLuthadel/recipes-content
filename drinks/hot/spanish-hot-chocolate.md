@@ -11,14 +11,14 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Chocolate a la taza ("chocolate of the cup") is Spain's signature winter and breakfast drink — and the partner to churros, the long fried dough sticks you dip into the thick chocolate. The defining property is thickness: Spanish hot chocolate is properly close to a chocolate pudding in consistency, thicker than its Italian cousin (cioccolato caldo) and far thicker than American or British hot chocolates. The thickening is achieved with a small amount of cornflour whisked in with the milk; some traditional preparations use the natural starch in semolina or just rely on reducing the milk hard. The chocolate is high-quality dark — at least 60% cocoa, ideally 70% — and the sweetness is restrained. Made properly, the drink takes a spoon as much as a sip. Served in small cups, usually with a long churro on the saucer for dipping. The Spanish breakfast and the post-disco 5am ritual.
+Chocolate a la taza ("chocolate of the cup") is Spain's signature winter and breakfast drink - and the partner to churros, the long fried dough sticks you dip into the thick chocolate. The defining property is thickness: Spanish hot chocolate is properly close to a chocolate pudding in consistency, thicker than its Italian cousin (cioccolato caldo) and far thicker than American or British hot chocolates. The thickening is achieved with a small amount of cornflour whisked in with the milk; some traditional preparations use the natural starch in semolina or just rely on reducing the milk hard. The chocolate is high-quality dark - at least 60% cocoa, ideally 70% - and the sweetness is restrained. Made properly, the drink takes a spoon as much as a sip. Served in small cups, usually with a long churro on the saucer for dipping. The Spanish breakfast and the post-disco 5am ritual.
 
 ## Ingredients
 
 - 500 ml whole milk
 - 100 g dark chocolate (60-70% cocoa; Lindt, Callebaut, or any good dark)
 - 1 tablespoon cornflour (cornstarch)
-- 50 g caster sugar (less than you might expect — the chocolate carries the drink)
+- 50 g caster sugar (less than you might expect - the chocolate carries the drink)
 - A pinch of fine salt
 - 1/2 teaspoon vanilla extract (optional)
 - A small piece of cinnamon stick (optional, common in Madrid versions)
@@ -48,13 +48,13 @@ Chocolate a la taza ("chocolate of the cup") is Spain's signature winter and bre
 1. Remove the cinnamon stick.
 1. Pour into small warm cups.
 1. Optionally dust the top with cocoa powder.
-1. Serve immediately with churros on the side for dipping — the proper Spanish way.
+1. Serve immediately with churros on the side for dipping - the proper Spanish way.
 
 ## Notes
 - **Quality chocolate.** Good dark chocolate (60-70% cocoa) makes or breaks this drink. Cheap "cooking chocolate" gives a flat, sad chocolate; quality chocolate gives a deep complex flavour. Lindt or Callebaut are reliable; the Spanish brand Valor specifically makes "chocolate a la taza" tablets for this purpose.
 - **Cornflour slurry first.** Sprinkling cornflour directly into hot milk produces lumps that never dissolve. Always slurry with cold milk first.
 - **Don't over-thicken.** The right consistency is thick enough to coat a churro but still pourable. Cornflour continues thickening as it cools, so stop just before you think it's right.
-- **Less sweet than expected.** Spanish hot chocolate is meant to be deeply chocolate rather than sweet — the sugar in churros provides the sweetness contrast. 50 g sugar per litre is about right; resist the urge to add more.
+- **Less sweet than expected.** Spanish hot chocolate is meant to be deeply chocolate rather than sweet - the sugar in churros provides the sweetness contrast. 50 g sugar per litre is about right; resist the urge to add more.
 
 ## Variations
 - **With cinnamon.** Add 1 small cinnamon stick to the milk warming phase. Common Madrid variant.

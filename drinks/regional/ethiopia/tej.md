@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Tej is Ethiopia's traditional honey wine, brewed in homes and at dedicated tej bets (tej houses) across the country: water, wild honey and gesho — the dried leaves and twigs of Rhamnus prinoides, a shrub that acts as the local equivalent of hops, contributing bitterness and helping the ferment — fermented with wild or added yeast for two to three weeks. The result is sweet, slightly sour, faintly bitter from the gesho, golden in colour, around 7 to 11% alcohol. Served in a round-bottomed glass flask (berele) you hold by the neck, sipped slowly alongside spicy stews like doro wat. Tej without gesho is just mead; tej without honey is impossible. Gesho is sold dried at Ethiopian groceries; substitutes (hops + a pinch of bitter orange peel) work but read different.
+Tej is Ethiopia's traditional honey wine, brewed in homes and at dedicated tej bets (tej houses) across the country: water, wild honey and gesho - the dried leaves and twigs of Rhamnus prinoides, a shrub that acts as the local equivalent of hops, contributing bitterness and helping the ferment - fermented with wild or added yeast for two to three weeks. The result is sweet, slightly sour, faintly bitter from the gesho, golden in colour, around 7 to 11% alcohol. Served in a round-bottomed glass flask (berele) you hold by the neck, sipped slowly alongside spicy stews like doro wat. Tej without gesho is just mead; tej without honey is impossible. Gesho is sold dried at Ethiopian groceries; substitutes (hops + a pinch of bitter orange peel) work but read different.
 
 ## Ingredients
 
@@ -31,7 +31,7 @@ Tej is Ethiopia's traditional honey wine, brewed in homes and at dedicated tej b
 ## Method
 
 ### Stage 1 - Mix the must
-1. Warm 500 ml of the water in a saucepan over low heat (not above 40°C — hot water destroys honey's enzymes).
+1. Warm 500 ml of the water in a saucepan over low heat (not above 40°C - hot water destroys honey's enzymes).
 1. Stir in the honey until completely dissolved.
 1. Pour into the fermenter; add the remaining 1 litre of cold water. The temperature should now be lukewarm to body temperature.
 

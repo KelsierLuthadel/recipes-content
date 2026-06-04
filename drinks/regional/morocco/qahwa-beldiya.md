@@ -2,7 +2,7 @@
 
 ![Qahwa Beldiya](resources/qahwa-beldiya.jpg)
 
-*Morocco's spiced coffee: dark Arabica beans ground with green cardamom, cinnamon, nutmeg, black pepper, sesame and a touch of clove, brewed strong, served in small cups. The coffee that grandmothers prepare for guests in the country medinas — far older and far more aromatic than the espressos Casablanca's cafés serve.*
+*Morocco's spiced coffee: dark Arabica beans ground with green cardamom, cinnamon, nutmeg, black pepper, sesame and a touch of clove, brewed strong, served in small cups. The coffee that grandmothers prepare for guests in the country medinas - far older and far more aromatic than the espressos Casablanca's cafés serve.*
 
 **Serves:** 4 small cups
 
@@ -11,7 +11,7 @@
 **Cook Time:** 6 minutes
 
 ## Overview
-Qahwa beldiya ("country coffee" — beldi means rural / traditional / artisanal in Moroccan Arabic) is the proper Moroccan spiced coffee, distinct from the espresso-based French-Moroccan café culture you'll find in the cities. The beldi tradition is older and pre-Western: medium-dark Arabica beans pre-ground with a specific spice blend that always includes green cardamom, cinnamon and a touch of nutmeg, and often includes black peppercorns, white sesame seeds, cloves, ginger and aniseed depending on the household and region. Marrakech style leans heavy on cardamom and cinnamon; Fes adds more sesame and aniseed; Rif valley style includes black pepper. The brew is made by simmering the spiced grounds in water on the stovetop (no espresso machine), then poured grounds-and-all into small cups where the grounds settle at the bottom. Sweetened with sugar to taste, served alongside a piece of mint tea cake or a small plate of dates. The aroma when you grind the beans is one of the great smells of the Moroccan kitchen.
+Qahwa beldiya ("country coffee" - beldi means rural / traditional / artisanal in Moroccan Arabic) is the proper Moroccan spiced coffee, distinct from the espresso-based French-Moroccan café culture you'll find in the cities. The beldi tradition is older and pre-Western: medium-dark Arabica beans pre-ground with a specific spice blend that always includes green cardamom, cinnamon and a touch of nutmeg, and often includes black peppercorns, white sesame seeds, cloves, ginger and aniseed depending on the household and region. Marrakech style leans heavy on cardamom and cinnamon; Fes adds more sesame and aniseed; Rif valley style includes black pepper. The brew is made by simmering the spiced grounds in water on the stovetop (no espresso machine), then poured grounds-and-all into small cups where the grounds settle at the bottom. Sweetened with sugar to taste, served alongside a piece of mint tea cake or a small plate of dates. The aroma when you grind the beans is one of the great smells of the Moroccan kitchen.
 
 ## Ingredients
 
@@ -38,11 +38,11 @@ Qahwa beldiya ("country coffee" — beldi means rural / traditional / artisanal 
 ## Method
 
 ### Stage 1 - Crush the spice mix
-1. Take 1 to 2 teaspoons of the pre-made spice blend (crack open the cardamom pods if they're whole). Crush coarsely in a mortar and pestle so the spices release their oils. Don't grind to a fine powder — coarse pieces give cleaner flavour and settle out better at the end.
+1. Take 1 to 2 teaspoons of the pre-made spice blend (crack open the cardamom pods if they're whole). Crush coarsely in a mortar and pestle so the spices release their oils. Don't grind to a fine powder - coarse pieces give cleaner flavour and settle out better at the end.
 
 ### Stage 2 - Brew
 1. Combine the cold water, ground coffee and crushed spices in a small saucepan.
-1. Bring to a gentle simmer over medium heat, stirring occasionally with a wooden spoon. Don't let it boil hard — gentle simmer is the right temperature.
+1. Bring to a gentle simmer over medium heat, stirring occasionally with a wooden spoon. Don't let it boil hard - gentle simmer is the right temperature.
 1. Simmer for 5-6 minutes. The kitchen will smell of cardamom and cinnamon; the brew turns very dark.
 
 ### Stage 3 - Settle and sweeten

@@ -11,11 +11,11 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Pomegranate cooler is the elegant non-alcoholic drink — adult enough to serve at a dinner party, refreshing enough for an afternoon in the garden. The base is real pomegranate juice (extracted from fresh pomegranates if you've got the patience, or bought from the supermarket as 100% juice for the easier route). A squeeze of lime brightens the natural tartness; honey rounds the edges; cold soda water on top adds bubbles and dilutes the syrupy intensity of pure pomegranate juice. The finishing touch is a tablespoon of fresh pomegranate arils dropped into each glass — they sink to the bottom and you fish them out with a long spoon as you drink. The drink reads beautifully visually (deep ruby with ruby-jewel arils floating) and works equally well at brunch, lunch and a late-evening before bed.
+Pomegranate cooler is the elegant non-alcoholic drink - adult enough to serve at a dinner party, refreshing enough for an afternoon in the garden. The base is real pomegranate juice (extracted from fresh pomegranates if you've got the patience, or bought from the supermarket as 100% juice for the easier route). A squeeze of lime brightens the natural tartness; honey rounds the edges; cold soda water on top adds bubbles and dilutes the syrupy intensity of pure pomegranate juice. The finishing touch is a tablespoon of fresh pomegranate arils dropped into each glass - they sink to the bottom and you fish them out with a long spoon as you drink. The drink reads beautifully visually (deep ruby with ruby-jewel arils floating) and works equally well at brunch, lunch and a late-evening before bed.
 
 ## Ingredients
 
-- 600 ml fresh pomegranate juice (from about 4 ripe pomegranates, OR 600 ml of 100% pomegranate juice from a bottle — Pom Wonderful brand is reliable)
+- 600 ml fresh pomegranate juice (from about 4 ripe pomegranates, OR 600 ml of 100% pomegranate juice from a bottle - Pom Wonderful brand is reliable)
 - Juice of 2 limes
 - 3 to 4 tablespoons honey, to taste (more if your juice is very tart)
 - 400 ml cold sparkling / soda water
@@ -45,7 +45,7 @@ Pomegranate cooler is the elegant non-alcoholic drink — adult enough to serve 
 1. Fill 4 chilled tall glasses three-quarters full with ice cubes.
 1. Pour the chilled pomegranate base over the ice, filling each glass about two-thirds.
 1. Top each with about 100 ml of cold sparkling water.
-1. Scatter 1 tablespoon of fresh pomegranate arils into each glass — they sink and float intermittently as you drink.
+1. Scatter 1 tablespoon of fresh pomegranate arils into each glass - they sink and float intermittently as you drink.
 1. Garnish each with a mint sprig if using.
 
 ### Stage 5 - Serve
@@ -56,7 +56,7 @@ Pomegranate cooler is the elegant non-alcoholic drink — adult enough to serve 
 - **Real pomegranate juice.** Use 100% pomegranate juice or fresh-extracted. "Pomegranate-flavoured" cocktail mixers are mostly sugar syrup with food colouring; they won't give the right flavour.
 - **Salt pinch.** Amplifies the natural sweetness without being noticeably salty. Don't skip.
 - **Sparkling at the glass, not the jug.** If you pre-mix the sparkling water into the base, the bubbles dissipate within 10 minutes. Always add sparkling water at the glass.
-- **Fresh arils as garnish.** The arils are half the visual appeal. Don't substitute with dried cranberries or anything else — fresh pomegranate seeds are the right thing.
+- **Fresh arils as garnish.** The arils are half the visual appeal. Don't substitute with dried cranberries or anything else - fresh pomegranate seeds are the right thing.
 
 ## Variations
 - **With rose water.** Add 1/2 teaspoon of rose water to the base. Floral, Middle Eastern lift.

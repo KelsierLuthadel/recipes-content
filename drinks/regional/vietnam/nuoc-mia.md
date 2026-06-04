@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Nước mía (literally "sugarcane water") is the everyday Vietnamese street drink — fresh sugarcane juice pressed minutes before you drink it, served cold over crushed ice with a squeeze of calamansi (the small green Vietnamese citrus, kumquat-like) for brightness. Across Saigon, Hanoi, and every town in between, you'll find streetside vendors with rolling-cart sugarcane presses — long peeled cane stalks fed between rollers that crush out the juice, which is collected into a tall metal jug. A fresh squeeze of calamansi cuts the sweetness with a bright citrus snap; the drink is poured into a tall plastic bag, tied at the top with a straw poking through, and handed over for the equivalent of about 30 pence. Sweet, refreshing, cooling and the perfect chaser to a steaming bowl of phở or a hot afternoon. At home outside Vietnam, you can buy fresh-pressed sugarcane juice frozen at most Southeast Asian groceries, or extract it from peeled sugarcane stalks using a juicer (the home-extraction is far inferior to the proper crushed-cane version but works in a pinch). The dried-and-rebrewed alternative is not the same drink.
+Nước mía (literally "sugarcane water") is the everyday Vietnamese street drink - fresh sugarcane juice pressed minutes before you drink it, served cold over crushed ice with a squeeze of calamansi (the small green Vietnamese citrus, kumquat-like) for brightness. Across Saigon, Hanoi, and every town in between, you'll find streetside vendors with rolling-cart sugarcane presses - long peeled cane stalks fed between rollers that crush out the juice, which is collected into a tall metal jug. A fresh squeeze of calamansi cuts the sweetness with a bright citrus snap; the drink is poured into a tall plastic bag, tied at the top with a straw poking through, and handed over for the equivalent of about 30 pence. Sweet, refreshing, cooling and the perfect chaser to a steaming bowl of phở or a hot afternoon. At home outside Vietnam, you can buy fresh-pressed sugarcane juice frozen at most Southeast Asian groceries, or extract it from peeled sugarcane stalks using a juicer (the home-extraction is far inferior to the proper crushed-cane version but works in a pinch). The dried-and-rebrewed alternative is not the same drink.
 
 ## Ingredients
 
@@ -43,7 +43,7 @@ Nước mía (literally "sugarcane water") is the everyday Vietnamese street dri
 
 ## Notes
 - **Freshness is everything.** Sugarcane juice tastes brightest within 1-2 hours of pressing. After 4-6 hours it loses its grassy-sweet snap and tastes flat. Buy from a busy vendor; refrigerate immediately if not drinking straight away.
-- **Calamansi, not lime.** If you can find calamansi (small green Filipino-Vietnamese citrus, sold at Asian groceries), use it — the flavour is distinct, somewhere between lime and tangerine. Lime is the closest substitute but tastes different.
+- **Calamansi, not lime.** If you can find calamansi (small green Filipino-Vietnamese citrus, sold at Asian groceries), use it - the flavour is distinct, somewhere between lime and tangerine. Lime is the closest substitute but tastes different.
 - **No added sugar.** Sugarcane juice is naturally about 15-20% sugar; it doesn't need any added. The brightness comes from the citrus, not extra sweetness.
 - **Don't strain finely.** A bit of natural pulp/fibre in the juice is correct and adds to the texture. Over-straining gives a thin, less satisfying drink.
 

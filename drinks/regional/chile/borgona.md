@@ -17,7 +17,7 @@ Borgoña ("Burgundy") is Chile's strawberry-and-red-wine punch, traditional at F
 
 - 500 g fresh ripe strawberries
 - 100 g caster sugar
-- 1 bottle (750 ml) of dry-to-medium Chilean red wine (a Carmenère, Cabernet Sauvignon, or País — Chile's grape varieties; or any drinkable but not expensive red wine, £6-8)
+- 1 bottle (750 ml) of dry-to-medium Chilean red wine (a Carmenère, Cabernet Sauvignon, or País - Chile's grape varieties; or any drinkable but not expensive red wine, £6-8)
 - 250 ml cold sparkling water or soda water
 - A small pinch of fine salt
 
@@ -36,11 +36,11 @@ Borgoña ("Burgundy") is Chile's strawberry-and-red-wine punch, traditional at F
 
 ### Stage 2 - Add wine and salt
 1. Pour the wine over the macerated strawberries. Stir gently to combine.
-1. Add the pinch of salt — it amplifies the strawberry flavour without tasting salty.
+1. Add the pinch of salt - it amplifies the strawberry flavour without tasting salty.
 1. Cover and refrigerate another 1-2 hours. The strawberries will absorb wine and turn from pink to a deep red; the wine will sweeten and develop a clear strawberry character.
 
 ### Stage 3 - Finish with sparkling water
-1. Just before serving, stir in the cold sparkling water. This gives borgoña a faint fizz that contrasts with the still wine — important.
+1. Just before serving, stir in the cold sparkling water. This gives borgoña a faint fizz that contrasts with the still wine - important.
 1. Taste: it should be lightly sweet, distinctly red-wine with a bright strawberry forward note, and a clean acidity. Add a tablespoon more sugar if too dry, more wine if too sweet.
 
 ### Stage 4 - Serve
@@ -53,7 +53,7 @@ Borgoña ("Burgundy") is Chile's strawberry-and-red-wine punch, traditional at F
 - **Strawberries must be ripe.** Under-ripe strawberries give a flat tasteless drink. The strawberries should yield to gentle thumb pressure and smell sweet.
 - **Wine quality.** A £6-8 drinkable Chilean red is the right call. £20 wine is wasted (the strawberries dominate); £4 grocery-store red is rough. Chilean Carmenère is the ideal grape variety; Cabernet Sauvignon works; País gives a slightly rustic version.
 - **The salt pinch.** A tiny pinch of salt amplifies the strawberry without making the drink taste salty. Don't skip.
-- **Sparkling at the end.** The fizz lift at serving is important — adds brightness. Don't pre-add the sparkling water hours ahead; the bubbles dissipate.
+- **Sparkling at the end.** The fizz lift at serving is important - adds brightness. Don't pre-add the sparkling water hours ahead; the bubbles dissipate.
 
 ## Variations
 - **With peaches.** Replace strawberries with stoned and sliced ripe peaches; common in summer Chilean households. Sometimes called "borgoña de durazno".
@@ -63,4 +63,4 @@ Borgoña ("Burgundy") is Chile's strawberry-and-red-wine punch, traditional at F
 
 ## Storage
 - Macerated strawberries and wine (without the sparkling water) keep 2 days in the fridge sealed. Add sparkling water at serving.
-- The wine-soaked strawberries themselves are excellent over ice cream or yogurt the next day — eat them as the byproduct.
+- The wine-soaked strawberries themselves are excellent over ice cream or yogurt the next day - eat them as the byproduct.

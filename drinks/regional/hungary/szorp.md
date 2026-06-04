@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (plus 24 hours steeping)
 
 ## Overview
-Szörp is the Hungarian fruit cordial that fills every household pantry in summer: ripe seasonal fruit (elderflower, raspberry, sour cherry, blackcurrant) macerated with sugar and citric acid, simmered briefly, strained and bottled. Diluted with cold still water or soda water at the glass, it's the everyday non-alcoholic Hungarian drink — at every kids' party, every picnic, every aunt's kitchen. Particularly common: bodza szörp (elderflower), meggy szörp (sour cherry), málna szörp (raspberry). Sold commercially in 0.7-litre bottles at every Hungarian supermarket, but homemade is sharper and brighter.
+Szörp is the Hungarian fruit cordial that fills every household pantry in summer: ripe seasonal fruit (elderflower, raspberry, sour cherry, blackcurrant) macerated with sugar and citric acid, simmered briefly, strained and bottled. Diluted with cold still water or soda water at the glass, it's the everyday non-alcoholic Hungarian drink - at every kids' party, every picnic, every aunt's kitchen. Particularly common: bodza szörp (elderflower), meggy szörp (sour cherry), málna szörp (raspberry). Sold commercially in 0.7-litre bottles at every Hungarian supermarket, but homemade is sharper and brighter.
 
 ## Ingredients
 

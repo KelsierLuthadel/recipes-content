@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Akasan (also called akasen or chanm-chanm) is the Haitian morning drink: very fine white cornmeal whisked into water and simmered with cinnamon, star anise, vanilla, salt and sugar until it thickens to the consistency of a thin custard, then finished with evaporated milk and nutmeg. The texture is somewhere between a hot chocolate and a thin porridge — drinkable from a mug but rich and filling. The cornmeal must be fine ("akasan flour" at Caribbean groceries, ground finer than American polenta); coarser cornmeal gives a gritty drink. Served at breakfast across Haiti, especially on cold mountain mornings; also the comfort drink children get when they're not well.
+Akasan (also called akasen or chanm-chanm) is the Haitian morning drink: very fine white cornmeal whisked into water and simmered with cinnamon, star anise, vanilla, salt and sugar until it thickens to the consistency of a thin custard, then finished with evaporated milk and nutmeg. The texture is somewhere between a hot chocolate and a thin porridge - drinkable from a mug but rich and filling. The cornmeal must be fine ("akasan flour" at Caribbean groceries, ground finer than American polenta); coarser cornmeal gives a gritty drink. Served at breakfast across Haiti, especially on cold mountain mornings; also the comfort drink children get when they're not well.
 
 ## Ingredients
 
@@ -38,7 +38,7 @@ Akasan (also called akasen or chanm-chanm) is the Haitian morning drink: very fi
 1. In a saucepan, bring the 800 ml water to a boil with the cinnamon stick, star anise, pandan and vanilla.
 1. Once boiling, reduce to a simmer and slowly pour the cornmeal slurry in while whisking constantly to prevent clumps.
 1. Add the salt and sugar.
-1. Cook over low heat 12 to 15 minutes, whisking every couple of minutes, until thickened to a thin custard consistency. The cornmeal should be fully cooked — no raw cornmeal taste.
+1. Cook over low heat 12 to 15 minutes, whisking every couple of minutes, until thickened to a thin custard consistency. The cornmeal should be fully cooked - no raw cornmeal taste.
 1. Stir in the evaporated milk; cook another 2 minutes.
 1. Remove the cinnamon stick, star anise and pandan.
 1. Pour into warm mugs; dust with nutmeg and cinnamon.

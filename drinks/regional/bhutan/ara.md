@@ -28,7 +28,7 @@ Ara is Bhutan's home-distilled spirit, produced legally for personal use in rura
 
 ### Stage 1 - Warm gently
 1. Pour the ara into a small metal saucepan or a Bhutanese ara-kettle.
-1. Warm over low heat until just steaming (about 50°C). Don't boil — boiling drives off the alcohol you're trying to drink.
+1. Warm over low heat until just steaming (about 50°C). Don't boil - boiling drives off the alcohol you're trying to drink.
 
 ### Stage 2 - Standard serve
 1. For the plain warm version, pour the warmed ara into the cups; serve immediately.
@@ -40,7 +40,7 @@ Ara is Bhutan's home-distilled spirit, produced legally for personal use in rura
 
 ### Stage 4 - Ara-tongba (festive serve, optional)
 1. In a small pan, lightly beat 2 eggs.
-1. Warm the ara, then pour over the beaten eggs while whisking; the heat lightly cooks the egg into thin ribbons in the spirit. Don't let it scramble — keep whisking.
+1. Warm the ara, then pour over the beaten eggs while whisking; the heat lightly cooks the egg into thin ribbons in the spirit. Don't let it scramble - keep whisking.
 1. Serve immediately in cups.
 
 ## Notes

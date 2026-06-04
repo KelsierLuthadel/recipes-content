@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Sahleb (also spelled salep) is the Egyptian winter drink: hot milk thickened with sahlab powder — historically from the dried tuber of wild orchids, now usually a cornflour-based substitute mixed with vanilla and orchid flavouring — sweetened with sugar, perfumed with rose water and cinnamon, served scalding hot in glass mugs with a heavy dusting of chopped pistachios, shredded coconut and crushed cinnamon on top. Texture is close to a thin custard or a creamy hot pudding you can drink. Sold from heated metal carts at every Cairo street corner on winter evenings; also a Turkish tradition (where it's salep) and Levantine (where the same name appears with regional variations).
+Sahleb (also spelled salep) is the Egyptian winter drink: hot milk thickened with sahlab powder - historically from the dried tuber of wild orchids, now usually a cornflour-based substitute mixed with vanilla and orchid flavouring - sweetened with sugar, perfumed with rose water and cinnamon, served scalding hot in glass mugs with a heavy dusting of chopped pistachios, shredded coconut and crushed cinnamon on top. Texture is close to a thin custard or a creamy hot pudding you can drink. Sold from heated metal carts at every Cairo street corner on winter evenings; also a Turkish tradition (where it's salep) and Levantine (where the same name appears with regional variations).
 
 ## Ingredients
 

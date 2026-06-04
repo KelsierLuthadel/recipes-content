@@ -15,7 +15,7 @@ Where mango lassi leans on yogurt and cardamom for a South Asian profile, mango 
 
 ## Ingredients
 
-- 2 ripe mangoes (Ataulfo / Honey / Kent — about 400 g of peeled flesh) OR 400 g tinned Alphonso / Kesar mango pulp
+- 2 ripe mangoes (Ataulfo / Honey / Kent - about 400 g of peeled flesh) OR 400 g tinned Alphonso / Kesar mango pulp
 - 1 ripe banana, peeled
 - 400 ml cold whole milk (or oat milk / almond milk for a dairy-free version)
 - 2 tablespoons honey (or maple syrup for vegan)
@@ -50,7 +50,7 @@ Where mango lassi leans on yogurt and cardamom for a South Asian profile, mango 
 - **Ripe mango is everything.** Under-ripe mango is stringy, fibrous and tart. Ripe mango is sweet, smooth and creamy. The smoothie can only be as good as the fruit.
 - **Banana is the secret thickener.** A single ripe banana gives the smoothie its proper milkshake-like body without needing yogurt or ice cream. Don't skip.
 - **Salt pinch.** A tiny pinch of salt amplifies the mango sweetness; without it the drink can taste flat.
-- **Cold ingredients.** Milk from the fridge, ice from the freezer. Don't blend with room-temperature ingredients — the drink should be deeply cold from the first sip.
+- **Cold ingredients.** Milk from the fridge, ice from the freezer. Don't blend with room-temperature ingredients - the drink should be deeply cold from the first sip.
 
 ## Variations
 - **With coconut milk.** Replace half the milk with full-fat coconut milk for a richer tropical version.

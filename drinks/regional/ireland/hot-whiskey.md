@@ -16,7 +16,7 @@ The Irish hot whiskey (or just "a hot one" if you're ordering at a Dublin pub on
 ## Ingredients
 
 ### Per glass
-- 40 ml Irish whiskey (Jameson, Bushmills, Powers — any decent blended Irish whiskey)
+- 40 ml Irish whiskey (Jameson, Bushmills, Powers - any decent blended Irish whiskey)
 - 1 to 2 teaspoons soft brown sugar (or 1 tablespoon honey for the cold-cure version)
 - 4 whole cloves
 - 1 slice fresh lemon (about ½ cm thick)
@@ -29,7 +29,7 @@ The Irish hot whiskey (or just "a hot one" if you're ordering at a Dublin pub on
 
 ## Method
 
-1. Stud the cloves into the rind side of the lemon slice — push them in so they stay put.
+1. Stud the cloves into the rind side of the lemon slice - push them in so they stay put.
 1. Place the clove-studded lemon slice in the heatproof glass.
 1. Add the cinnamon stick.
 1. Add the brown sugar (or honey).

@@ -16,8 +16,8 @@ Shwe yin aye (literally "golden cold heart") is the cold-weather treat-of-treats
 ## Ingredients
 
 ### Cooked components (prepare these first)
-- 100 g small pearl tapioca (sago, the small pearls — not the larger boba pearls)
-- 1 small block (about 5 g) of agar agar powder, prepared as jelly (see Stage 1) — or 200 g pre-made jelly cubes
+- 100 g small pearl tapioca (sago, the small pearls - not the larger boba pearls)
+- 1 small block (about 5 g) of agar agar powder, prepared as jelly (see Stage 1) - or 200 g pre-made jelly cubes
 - 4 thick slices of plain white bread (Burmese sweet bread / paun-mont, or any sweet enriched white bread like brioche or milk bread)
 - 2 tablespoons fresh young coconut flesh (optional)
 
@@ -74,7 +74,7 @@ Shwe yin aye (literally "golden cold heart") is the cold-weather treat-of-treats
 ## Variations
 - **With falooda noodles.** Add 2 tablespoons of soaked falooda noodles (cornflour vermicelli) for an extra slippery texture.
 - **With nyaung-pyaw (jaggery syrup).** Drizzle 1 tablespoon of palm jaggery syrup over the top instead of regular sugar; deeper sweetness.
-- **Without ice cream.** The traditional pre-1980s version had no ice cream — just the layered toppings with sweetened coconut milk and shaved ice. Simpler, less sweet.
+- **Without ice cream.** The traditional pre-1980s version had no ice cream - just the layered toppings with sweetened coconut milk and shaved ice. Simpler, less sweet.
 
 ## Storage
-- The components store separately. Pre-cooked tapioca keeps 2 days in cold water in the fridge; the jelly keeps 4 days; the coconut syrup keeps 3 days. Build glasses to order — pre-built ones go sodden within 10 minutes.
+- The components store separately. Pre-cooked tapioca keeps 2 days in cold water in the fridge; the jelly keeps 4 days; the coconut syrup keeps 3 days. Build glasses to order - pre-built ones go sodden within 10 minutes.

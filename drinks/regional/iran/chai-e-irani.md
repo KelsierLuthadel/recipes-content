@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Tea in Iran is the constant background of social life: brewed in a samovar (a tall metal urn with a small teapot on top), poured into hourglass-shaped small glasses called estekan, drunk slowly all day. Persian tea is unsweetened in the cup; sweetness comes from biting a sugar cube (qand) held between the teeth and drinking the hot tea through it, or from a small spoonful of a fruit preserve (morabba) — quince, sour cherry, fig, or rose petal jam are the canonical choices. Served with a small plate of khormeh (dates) or sohan (saffron-pistachio brittle) on the side. The Persian tea ceremony is less ornate than the Japanese one and more constant than the Chinese — it just is, all day, every day.
+Tea in Iran is the constant background of social life: brewed in a samovar (a tall metal urn with a small teapot on top), poured into hourglass-shaped small glasses called estekan, drunk slowly all day. Persian tea is unsweetened in the cup; sweetness comes from biting a sugar cube (qand) held between the teeth and drinking the hot tea through it, or from a small spoonful of a fruit preserve (morabba) - quince, sour cherry, fig, or rose petal jam are the canonical choices. Served with a small plate of khormeh (dates) or sohan (saffron-pistachio brittle) on the side. The Persian tea ceremony is less ornate than the Japanese one and more constant than the Chinese - it just is, all day, every day.
 
 ## Ingredients
 
@@ -22,7 +22,7 @@ Tea in Iran is the constant background of social life: brewed in a samovar (a ta
 
 ### To serve
 - 4 estekan glasses (slim-waisted small Persian tea glasses) OR small clear tea cups
-- Saucers (the saucer is functional — sugar cubes sit on it for biting)
+- Saucers (the saucer is functional - sugar cubes sit on it for biting)
 - A bowl of sugar cubes (qand)
 - Small bowls of fruit preserves (morabba): quince, sour cherry, or rose petal
 - Dates or saffron brittle on a side plate
@@ -31,7 +31,7 @@ Tea in Iran is the constant background of social life: brewed in a samovar (a ta
 
 ### Stage 1 - Brew the concentrate
 1. In a small teapot, add the loose-leaf tea and the cardamom pods if using.
-1. Pour over 300 ml of just-boiled water (from the samovar or kettle). Steep covered for 10 minutes — Persian tea wants strong concentrate.
+1. Pour over 300 ml of just-boiled water (from the samovar or kettle). Steep covered for 10 minutes - Persian tea wants strong concentrate.
 
 ### Stage 2 - Serve in two parts
 1. Pour an inch of the concentrated tea into each estekan glass (about a third full).

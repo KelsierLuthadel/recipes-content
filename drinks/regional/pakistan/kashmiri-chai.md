@@ -17,12 +17,12 @@ Kashmiri chai (also called noon chai or gulabi chai) is a chemistry-driven tea. 
 
 - 2 tablespoons Kashmiri green tea (special long-leaf green tea sold at South Asian groceries; brand: Tapal or Vahdam)
 - 1 litre cold water
-- 1 teaspoon baking soda (essential for the colour — sodium bicarbonate, not powder)
+- 1 teaspoon baking soda (essential for the colour - sodium bicarbonate, not powder)
 - 6 green cardamom pods, lightly crushed
 - 1 teaspoon fine salt
 - 500 ml whole milk
 - 4 to 6 teaspoons white sugar, to taste
-- 3 ice cubes (counter-intuitive but traditional — they help with the colour reaction)
+- 3 ice cubes (counter-intuitive but traditional - they help with the colour reaction)
 
 ### To serve
 - 2 tablespoons crushed unsalted pistachios
@@ -38,7 +38,7 @@ Kashmiri chai (also called noon chai or gulabi chai) is a chemistry-driven tea. 
 
 ### Stage 2 - Add ice and aerate
 1. After 30 minutes, drop in the 3 ice cubes (the sudden temperature shock is part of the colour-development trick).
-1. Now aerate: using a ladle or by pouring back-and-forth between two pots, lift the liquid from a height of about 30 cm and let it splash back into the pot. Do this 10 to 15 times. The colour will deepen and lighten — going from dark crimson to a brighter ruby red.
+1. Now aerate: using a ladle or by pouring back-and-forth between two pots, lift the liquid from a height of about 30 cm and let it splash back into the pot. Do this 10 to 15 times. The colour will deepen and lighten - going from dark crimson to a brighter ruby red.
 
 ### Stage 3 - Strain
 1. Strain through a fine sieve into a clean pot, discarding the spent tea leaves and cardamom pods.

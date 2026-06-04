@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Salep is one of the most distinctive winter drinks in the Mediterranean and Levant: a hot, sweet, thickened milk drink whose secret ingredient is sahlab — the powdered dried tuber of certain wild orchid species (Orchis mascula and related). The orchid powder, when whisked into warm milk, releases starches and a unique mucilaginous quality that thickens the drink to a thin-custard consistency that no other thickener can quite replicate. Cinnamon and rose water (or orange blossom) are the standard finishing flavours. Salep is also the historical name for what's now Turkish ice cream (dondurma); the distinctive stretchy quality of dondurma comes from the same orchid starch. Wild orchid harvesting is now restricted in Turkey for conservation reasons, so most modern salep mixes are blends of orchid powder, cornstarch and milk powder — convenient and reliable. The Egyptian and Levantine version (sahlab) is similar; the Turkish version typically leans more milk and less rose.
+Salep is one of the most distinctive winter drinks in the Mediterranean and Levant: a hot, sweet, thickened milk drink whose secret ingredient is sahlab - the powdered dried tuber of certain wild orchid species (Orchis mascula and related). The orchid powder, when whisked into warm milk, releases starches and a unique mucilaginous quality that thickens the drink to a thin-custard consistency that no other thickener can quite replicate. Cinnamon and rose water (or orange blossom) are the standard finishing flavours. Salep is also the historical name for what's now Turkish ice cream (dondurma); the distinctive stretchy quality of dondurma comes from the same orchid starch. Wild orchid harvesting is now restricted in Turkey for conservation reasons, so most modern salep mixes are blends of orchid powder, cornstarch and milk powder - convenient and reliable. The Egyptian and Levantine version (sahlab) is similar; the Turkish version typically leans more milk and less rose.
 
 ## Ingredients
 
@@ -34,14 +34,14 @@ Salep is one of the most distinctive winter drinks in the Mediterranean and Leva
 
 ### Stage 2 - Warm the milk
 1. Pour the remaining milk into a heavy-bottomed saucepan.
-1. Warm over medium-low heat until just steaming — about 60-65°C. Don't let it boil.
+1. Warm over medium-low heat until just steaming - about 60-65°C. Don't let it boil.
 
 ### Stage 3 - Combine
 1. While whisking the warm milk continuously, pour in the sahlab slurry in a slow steady stream.
 1. Add the sugar and continue whisking.
 
 ### Stage 4 - Thicken
-1. Increase heat to medium and continue whisking. The mixture will gradually thicken — going from milky to a velvety consistency that coats a spoon and falls in slow ribbons when lifted.
+1. Increase heat to medium and continue whisking. The mixture will gradually thicken - going from milky to a velvety consistency that coats a spoon and falls in slow ribbons when lifted.
 1. Salep should be the texture of a thin custard or a slightly thickened cream, not a pudding. About 8-10 minutes of gentle simmering and whisking.
 1. Just before serving, whisk in the cinnamon and rose or orange blossom water.
 
@@ -55,7 +55,7 @@ Salep is one of the most distinctive winter drinks in the Mediterranean and Leva
 - **Real sahlab vs substitute.** Genuine orchid sahlab powder has a unique stretchy quality that cornflour-based substitutes can't quite match. If you can find real sahlab, use it; if not, cornflour + milk powder + vanilla produces an acceptable approximation.
 - **Whisk constantly.** Once the slurry hits the warm milk, lumps form fast. Keep moving until the mixture thickens.
 - **Don't boil.** Heat steadily but don't let it reach a full rolling boil. Boiling can break the texture and gives a scorched milky taste.
-- **Texture is the trick.** Salep is meant to be drinkable but velvety — thicker than hot chocolate, thinner than a custard. If it gets too thick, whisk in a splash more hot milk; if too thin, simmer a few minutes more.
+- **Texture is the trick.** Salep is meant to be drinkable but velvety - thicker than hot chocolate, thinner than a custard. If it gets too thick, whisk in a splash more hot milk; if too thin, simmer a few minutes more.
 
 ## Variations
 - **Sahlab al sokar.** Heavier sugar (120 g), thicker consistency. The Levantine variant served as dessert.

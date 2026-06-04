@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes (assuming brewed coffee)
 
 ## Overview
-Irish coffee was invented in 1943 by Joe Sheridan, head chef at Foynes Airport on the Shannon estuary (predecessor to Shannon Airport), to warm freezing transatlantic flying-boat passengers. A passenger asked if it was Brazilian coffee; Sheridan replied "no, it's Irish coffee." The build is hot strong coffee, brown sugar dissolved in, a generous pour of Irish whiskey, then a thick layer of lightly-whipped double cream poured over the back of a spoon so it floats on top. The right way to drink it is through the cream — never stir; the hot whiskey-sweetened coffee underneath should pull through the cool cream layer with each sip. Served in a footed Irish-coffee glass that's pre-warmed.
+Irish coffee was invented in 1943 by Joe Sheridan, head chef at Foynes Airport on the Shannon estuary (predecessor to Shannon Airport), to warm freezing transatlantic flying-boat passengers. A passenger asked if it was Brazilian coffee; Sheridan replied "no, it's Irish coffee." The build is hot strong coffee, brown sugar dissolved in, a generous pour of Irish whiskey, then a thick layer of lightly-whipped double cream poured over the back of a spoon so it floats on top. The right way to drink it is through the cream - never stir; the hot whiskey-sweetened coffee underneath should pull through the cool cream layer with each sip. Served in a footed Irish-coffee glass that's pre-warmed.
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ Irish coffee was invented in 1943 by Joe Sheridan, head chef at Foynes Airport o
 - 30 ml Irish whiskey (Jameson, Bushmills, Powers)
 - 1 to 2 teaspoons soft brown sugar (or demerara)
 - 100 ml strong hot coffee (a cafetière or espresso lengthened with hot water; not American filter coffee, which is too thin)
-- 30 ml double cream (very lightly whipped — to soft floppy peaks, NOT firm)
+- 30 ml double cream (very lightly whipped - to soft floppy peaks, NOT firm)
 
 ### To serve
 - A footed Irish-coffee glass (or a small heatproof mug)

@@ -30,11 +30,11 @@ Bhutanese ginger tea (called dralo in some regions) is the household drink at an
 
 ### Stage 1 - Simmer
 1. Put the ginger slices, water, and any optional spices (cinnamon, cardamom, pepper) into a small saucepan.
-1. Bring to a hard rolling boil for 2 minutes — this gets the ginger oils released quickly.
+1. Bring to a hard rolling boil for 2 minutes - this gets the ginger oils released quickly.
 1. Reduce to a strong simmer for 10 minutes. The water turns a pale amber and the kitchen smells distinctly of ginger.
 
 ### Stage 2 - Sweeten
-1. Off the heat, stir in the honey until completely dissolved. Don't add honey while boiling — high heat damages the honey's delicate aromatics.
+1. Off the heat, stir in the honey until completely dissolved. Don't add honey while boiling - high heat damages the honey's delicate aromatics.
 1. Squeeze in the lemon juice. The amber colour brightens slightly.
 
 ### Stage 3 - Strain and serve
@@ -45,7 +45,7 @@ Bhutanese ginger tea (called dralo in some regions) is the household drink at an
 - **Skin-on ginger.** The skin holds flavour and gets strained out anyway. Don't bother peeling.
 - **Hard boil then simmer.** The initial hard boil extracts the warming compounds; the simmer extracts the flavour. Both matter.
 - **Honey at the end, not during boiling.** Honey loses its complex aromatics when boiled. Add off the heat once the brew is no longer at full boil.
-- **Strong by default.** Bhutanese ginger tea is properly punchy — 60 g of ginger to 800 ml of water is the right ratio. Lighter brews taste like ginger-flavoured water.
+- **Strong by default.** Bhutanese ginger tea is properly punchy - 60 g of ginger to 800 ml of water is the right ratio. Lighter brews taste like ginger-flavoured water.
 
 ## Variations
 - **With turmeric.** Add a 2 cm piece of fresh turmeric (sliced, skin on) to the simmer. Deepens the colour to golden, adds earthy warmth. Common as a wellness tea.
@@ -55,4 +55,4 @@ Bhutanese ginger tea (called dralo in some regions) is the household drink at an
 
 ## Storage
 - Brewed ginger tea keeps 2 days in the fridge sealed; the ginger sharpness fades after 48 hours. Reheat gently before serving.
-- Best brewed fresh — the kettle goes on, the cup goes out, that's the rhythm.
+- Best brewed fresh - the kettle goes on, the cup goes out, that's the rhythm.

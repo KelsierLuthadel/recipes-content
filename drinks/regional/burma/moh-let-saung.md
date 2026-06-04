@@ -23,7 +23,7 @@ Moh let saung sits at the boundary between drink and dessert. The let-saung are 
 - A few drops of pandan extract (optional, for the pale-green colour)
 
 ### For the palm sugar syrup
-- 150 g palm jaggery (palm sugar — sold at Southeast Asian groceries; the dark brown lumps)
+- 150 g palm jaggery (palm sugar - sold at Southeast Asian groceries; the dark brown lumps)
 - 100 ml water
 - 1 pandan leaf, knotted (optional)
 
@@ -48,11 +48,11 @@ Moh let saung sits at the boundary between drink and dessert. The let-saung are 
 
 ### Stage 2 - Palm sugar syrup
 1. Chop the palm jaggery into small chunks.
-1. In a small pan, combine the jaggery, 100 ml water and the pandan leaf (if using). Warm over medium-low heat, stirring, until the jaggery dissolves completely. Don't reduce — you want a pourable syrup.
+1. In a small pan, combine the jaggery, 100 ml water and the pandan leaf (if using). Warm over medium-low heat, stirring, until the jaggery dissolves completely. Don't reduce - you want a pourable syrup.
 1. Cool to room temperature.
 
 ### Stage 3 - Coconut milk base
-1. Whisk the coconut milk, sugar and salt together in a small pan over low heat until the sugar dissolves. Don't boil — keep it warm just enough to dissolve.
+1. Whisk the coconut milk, sugar and salt together in a small pan over low heat until the sugar dissolves. Don't boil - keep it warm just enough to dissolve.
 1. Cool to room temperature, then refrigerate.
 
 ### Stage 4 - Build the bowls
@@ -69,7 +69,7 @@ Moh let saung sits at the boundary between drink and dessert. The let-saung are 
 1. The drinker mixes the syrup into the coconut milk and ice with the spoon as they eat.
 
 ## Notes
-- **The let-saung dough should pull from the pan.** Under-cooked dough makes weak noodles that dissolve in the water; over-cooked is gummy and hard to pipe. The right consistency is glossy, stretchy, pulling from the pan sides — about 4-6 minutes of constant whisking on medium heat.
+- **The let-saung dough should pull from the pan.** Under-cooked dough makes weak noodles that dissolve in the water; over-cooked is gummy and hard to pipe. The right consistency is glossy, stretchy, pulling from the pan sides - about 4-6 minutes of constant whisking on medium heat.
 - **Cold water bath.** The noodles set in the cold water; the colder, the firmer. Lots of ice in the water helps.
 - **Palm jaggery is essential.** Cane sugar substitutes give a flatter, less complex syrup. Palm jaggery (called nyaung pyaw in Burmese) has the molasses-floral character that defines this drink.
 - **Coconut milk full-fat.** Light coconut milk gives a thin, sad drink.
@@ -78,7 +78,7 @@ Moh let saung sits at the boundary between drink and dessert. The let-saung are 
 - **With agar jelly.** Add 2 tablespoons of agar jelly cubes per bowl alongside the noodles.
 - **With sago.** Add 2 tablespoons of cooked tapioca pearls.
 - **Modern Yangon style.** Restaurant versions add a scoop of vanilla ice cream on top.
-- **Without noodles.** A simpler version with just coconut milk, jaggery syrup and crushed ice — closer to a cold drink than a dessert.
+- **Without noodles.** A simpler version with just coconut milk, jaggery syrup and crushed ice - closer to a cold drink than a dessert.
 
 ## Storage
 - Components store separately. Cooked let-saung noodles keep 2 days in cold water in the fridge. Palm sugar syrup keeps 2 weeks sealed. Coconut milk base keeps 3 days. Assemble bowls to order.
