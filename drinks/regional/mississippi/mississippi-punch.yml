@@ -1,0 +1,43 @@
+prep: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lemon
+mentions: []
+ingredients:
+  - qty: 25
+    unit: ml
+    name: bourbon
+    raw: 25 ml bourbon
+  - qty: 25
+    unit: ml
+    name: cognac or brandy
+    raw: 25 ml cognac or brandy
+  - qty: 25
+    unit: ml
+    name: dark jamaican-style rum
+    raw: 25 ml dark Jamaican-style rum
+  - qty: 20
+    unit: ml
+    name: lemon juice
+    raw: 20 ml fresh lemon juice
+  - qty: 15
+    unit: ml
+    name: simple syrup
+    raw: 15 ml simple syrup
+  - name: ice
+    raw: Crushed ice
+  - qty: 1
+    name: lemon wheel
+    raw: 1 lemon wheel
+  - qty: 1
+    unit: sprig
+    name: mint
+    raw: 1 sprig fresh mint
+  - qty: 4.5
+    name: berries or pineapple chunks
+    raw: 4-5 berries or pineapple chunks

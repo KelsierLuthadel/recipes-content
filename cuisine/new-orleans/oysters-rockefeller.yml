@@ -1,0 +1,64 @@
+prep: 25 minutes
+cook: 8 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - celery
+  - garlic
+tags:
+  - spicy
+  - meals
+  - fish
+  - onion
+  - garlic
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 12
+    name: oysters
+    raw: 12 fresh oysters
+  - qty: 500
+    unit: g
+    name: rock salt
+    raw: 500 g coarse rock salt
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 1
+    name: watercress
+    raw: 1 bunch watercress
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch flat-leaf parsley
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 2
+    name: celery sticks with leaves
+    raw: 2 celery sticks with leaves
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 2
+    unit: tbsp
+    name: dry breadcrumbs
+    raw: 2 tbsp dry breadcrumbs
+  - qty: 1
+    unit: tbsp
+    name: pernod
+    raw: 1 tbsp Pernod
+  - qty: 1
+    unit: tsp
+    name: worcestershire sauce
+    raw: 1 tsp Worcestershire sauce
+  - qty: 0.5
+    unit: tsp
+    name: tabasco
+    raw: ½ tsp Tabasco
+  - name: salt
+    raw: Salt to taste
+  - name: twists of black pepper
+    raw: A few twists of black pepper

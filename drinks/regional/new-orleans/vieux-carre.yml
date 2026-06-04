@@ -1,0 +1,43 @@
+prep: 5 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+mentions:
+  - drinks/regional/louisiana/sazerac
+ingredients:
+  - qty: 25
+    unit: ml
+    name: rye whiskey
+    raw: 25 ml rye whiskey
+  - qty: 25
+    unit: ml
+    name: cognac
+    raw: 25 ml cognac
+  - qty: 25
+    unit: ml
+    name: sweet vermouth
+    raw: 25 ml sweet vermouth
+  - qty: 5
+    unit: ml
+    name: benedictine
+    raw: 5 ml Bénédictine
+  - qty: 2
+    unit: dash
+    name: peychaud's bitters
+    raw: 2 dashes Peychaud's bitters
+  - qty: 1
+    unit: dash
+    name: angostura bitters
+    raw: 1 dash Angostura bitters
+  - qty: 1
+    name: orange peel
+    raw: 1 large piece of orange peel
+  - qty: 1
+    name: maraschino cherry
+    raw: 1 maraschino cherry
+  - name: ice cubes
+    raw: Ice cubes

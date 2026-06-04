@@ -1,0 +1,34 @@
+prep: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - cream
+mentions: []
+ingredients:
+  - qty: 60
+    unit: ml
+    name: bourbon
+    raw: 60 ml bourbon
+  - qty: 90
+    unit: ml
+    name: milk
+    raw: 90 ml whole milk
+  - qty: 30
+    unit: ml
+    name: double cream
+    raw: 30 ml double cream
+  - qty: 15
+    unit: ml
+    name: simple syrup
+    raw: 15 ml simple syrup
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ tsp vanilla extract
+  - name: ice cubes
+    raw: Ice cubes
+  - name: nutmeg
+    raw: Fresh nutmeg, for grating

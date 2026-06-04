@@ -1,0 +1,48 @@
+prep: 3 minutes
+allergens:
+  - soy
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - lime
+  - soy-sauce
+mentions:
+  - drinks/cocktails/bloody-mary
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: mexican lager
+    raw: 1 bottle Mexican lager
+  - qty: 30
+    unit: ml
+    name: lime juice
+    raw: 30 ml fresh lime juice
+  - qty: 2
+    unit: tsp
+    name: worcestershire sauce
+    raw: 2 tsp Worcestershire sauce
+  - qty: 2
+    unit: tsp
+    name: louisiana hot sauce
+    raw: 2 tsp Louisiana hot sauce
+  - qty: 1
+    unit: tsp
+    name: soy sauce
+    raw: 1 tsp soy sauce
+  - qty: 1
+    unit: pinch
+    name: black pepper
+    raw: Pinch of black pepper
+  - name: ice cubes
+    raw: Ice cubes
+  - qty: 1
+    name: lime wedge
+    raw: 1 lime wedge
+  - qty: 1
+    unit: tbsp
+    name: tajin seasoning
+    raw: 1 tbsp Tajín seasoning

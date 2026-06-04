@@ -1,0 +1,31 @@
+prep: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions: []
+ingredients:
+  - qty: 30
+    unit: ml
+    name: absinthe
+    raw: 30 ml absinthe
+  - qty: 15
+    unit: ml
+    name: anisette
+    raw: 15 ml anisette
+  - qty: 60
+    unit: ml
+    name: chilled soda water
+    raw: 60 ml chilled soda water
+  - qty: 4.5
+    name: mint leaves
+    raw: 4-5 fresh mint leaves
+  - name: ice
+    raw: Crushed ice
+  - qty: 1
+    unit: sprig
+    name: mint
+    raw: 1 sprig fresh mint, to garnish

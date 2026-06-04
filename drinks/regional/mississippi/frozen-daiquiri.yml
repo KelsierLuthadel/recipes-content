@@ -1,0 +1,36 @@
+prep: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lime
+mentions:
+  - drinks/cocktails/daiquiri
+  - drinks/regional/louisiana/hurricane
+ingredients:
+  - qty: 100
+    unit: ml
+    name: white rum
+    raw: 100 ml white rum
+  - qty: 60
+    unit: ml
+    name: lime juice
+    raw: 60 ml fresh lime juice
+  - qty: 30
+    unit: ml
+    name: simple syrup
+    raw: 30 ml simple syrup
+  - qty: 1
+    unit: tsp
+    name: lime zest
+    raw: 1 tsp lime zest
+  - qty: 400
+    unit: g
+    name: ice cubes
+    raw: 400 g ice cubes
+  - qty: 1
+    name: lime wheel
+    raw: 1 lime wheel

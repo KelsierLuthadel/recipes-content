@@ -1,0 +1,44 @@
+prep: 5 minutes
+cook: 8 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - meals
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: but firm bananas
+    raw: 4 ripe but firm bananas
+  - qty: 75
+    unit: g
+    name: unsalted butter
+    raw: 75 g unsalted butter
+  - qty: 100
+    unit: g
+    name: dark brown sugar
+    raw: 100 g dark brown sugar
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ tsp ground cinnamon
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: Pinch of ground nutmeg
+  - qty: 60
+    unit: ml
+    name: banana liqueur
+    raw: 60 ml banana liqueur
+  - qty: 60
+    unit: ml
+    name: dark rum
+    raw: 60 ml dark rum
+  - qty: 4
+    name: vanilla ice cream
+    raw: 4 generous scoops vanilla ice cream, to serve

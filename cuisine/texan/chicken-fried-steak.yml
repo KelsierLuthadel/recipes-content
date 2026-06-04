@@ -1,0 +1,106 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - beef
+  - pork
+  - eggs
+  - nuts
+  - chili
+  - complex
+mentions:
+  - cuisine/german/wiener-schnitzel
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: steaks
+    raw: 4 cube steaks
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp black pepper
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: louisiana hot sauce
+    raw: 1 tsp Louisiana hot sauce
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp black pepper
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 tsp garlic powder
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 0.5
+    unit: tsp
+    name: cayenne
+    raw: ½ tsp cayenne
+  - qty: 0.5
+    unit: tsp
+    name: baking powder
+    raw: ½ tsp baking powder
+  - qty: 100
+    unit: ml
+    name: neutral oil
+    raw: 100 ml neutral oil
+  - qty: 50
+    unit: g
+    name: lard or bacon fat
+    raw: 50 g lard or bacon fat
+  - qty: 3
+    unit: tbsp
+    name: drippings from the pan
+    raw: 3 tbsp drippings from the pan
+  - qty: 3
+    unit: tbsp
+    name: plain flour
+    raw: 3 tbsp plain flour
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp coarsely ground black pepper
+  - qty: 1
+    unit: pinch
+    name: cayenne
+    raw: Pinch of cayenne

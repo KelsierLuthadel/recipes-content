@@ -1,0 +1,72 @@
+prep: 15 minutes (plus 30 minutes for the soak)
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - meals
+  - lemon
+  - chili
+mentions:
+  - cuisine/american/side-dishes/hush-puppies
+  - cuisine/louisiana/blackened-redfish
+  - sauces/sauce-savory/tartare-sauce
+  - tutorials/fish/whole-fish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: catfish fillets
+    raw: 4 catfish fillets
+  - qty: 300
+    unit: ml
+    name: buttermilk
+    raw: 300 ml buttermilk
+  - qty: 1
+    unit: tsp
+    name: louisiana hot sauce
+    raw: 1 tsp Louisiana hot sauce
+  - qty: 150
+    unit: g
+    name: yellow cornmeal
+    raw: 150 g fine yellow cornmeal
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 tsp garlic powder
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 tsp onion powder
+  - qty: 0.5
+    unit: tsp
+    name: cayenne
+    raw: ½ tsp cayenne
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: oregano
+    raw: ½ tsp dried oregano
+  - name: neutral oil
+    raw: Neutral oil for deep frying
+  - name: lemon wedges
+    raw: Lemon wedges, to serve
+  - name: tartare sauce
+    raw: Tartare sauce , to serve

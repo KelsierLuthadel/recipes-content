@@ -1,0 +1,41 @@
+prep: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lime
+mentions:
+  - drinks/cocktails/margarita
+ingredients:
+  - qty: 100
+    unit: ml
+    name: blanco tequila
+    raw: 100 ml blanco tequila
+  - qty: 50
+    unit: ml
+    name: cointreau or triple sec
+    raw: 50 ml Cointreau or triple sec
+  - qty: 60
+    unit: ml
+    name: lime juice
+    raw: 60 ml fresh lime juice
+  - qty: 30
+    unit: ml
+    name: simple syrup
+    raw: 30 ml simple syrup
+  - qty: 1
+    unit: tsp
+    name: lime zest
+    raw: 1 tsp lime zest
+  - qty: 500
+    unit: g
+    name: ice cubes
+    raw: 500 g ice cubes
+  - name: flaky sea salt or kosher salt
+    raw: Flaky sea salt or kosher salt
+  - qty: 2
+    name: lime wedges
+    raw: 2 lime wedges

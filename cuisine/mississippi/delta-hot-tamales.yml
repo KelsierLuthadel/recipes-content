@@ -1,0 +1,118 @@
+prep: 1 hour (plus 30 minutes for husks to soak)
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/tamales
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 24
+    name: corn husks
+    raw: 24 dried corn husks
+  - name: kitchen string
+    raw: Kitchen string
+  - qty: 600
+    unit: g
+    name: beef chuck
+    raw: 600 g ground beef chuck
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: chilli powder
+    raw: 1 tbsp chilli powder
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tbsp paprika
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 tsp ground oregano
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: "-1 tsp cayenne"
+    raw: ½-1 tsp cayenne
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp black pepper
+  - qty: 300
+    unit: g
+    name: yellow cornmeal
+    raw: 300 g fine yellow cornmeal
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 tsp chilli powder
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 0.5
+    unit: tsp
+    name: cayenne
+    raw: ½ tsp cayenne
+  - qty: 150
+    unit: ml
+    name: beef stock or hot water
+    raw: 150 ml beef stock or hot water
+  - qty: 75
+    unit: ml
+    name: vegetable oil or lard
+    raw: 75 ml vegetable oil or lard
+  - qty: 1.5
+    unit: l
+    name: beef stock or water
+    raw: 1.5 litres beef stock or water
+  - qty: 2
+    unit: tbsp
+    name: chilli powder
+    raw: 2 tbsp chilli powder
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tbsp paprika
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tbsp salt
+  - qty: 1
+    unit: tsp
+    name: cayenne
+    raw: 1 tsp cayenne
+  - qty: 1
+    name: onion
+    raw: 1 small onion

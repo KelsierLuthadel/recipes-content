@@ -1,0 +1,30 @@
+prep: 2 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lime
+mentions:
+  - drinks/cocktails/margarita
+ingredients:
+  - qty: 60
+    unit: ml
+    name: blanco tequila
+    raw: 60 ml blanco tequila
+  - qty: 20
+    unit: ml
+    name: lime juice
+    raw: 20 ml fresh lime juice
+  - qty: 1
+    unit: small pinch
+    name: flaky sea salt
+    raw: 1 small pinch flaky sea salt
+  - qty: 1
+    name: chilled 355 ml bottle topo chico mineral water
+    raw: 1 chilled 355 ml bottle Topo Chico mineral water
+  - qty: 1
+    name: lime wedge
+    raw: 1 lime wedge, to garnish

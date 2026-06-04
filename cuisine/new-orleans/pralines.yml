@@ -1,35 +1,33 @@
 prep: 10 minutes
-cook: 25 minutes
+cook: 15 minutes (plus 30 minutes setting)
 allergens:
   - dairy
   - tree-nuts
 tags:
   - vegetarian
   - gluten-free
-  - dessert
+  - meals
   - butter
   - cream
   - nuts
-  - kwanzaa
-mentions:
-  - cuisine/new-orleans/pralines
+mentions: []
 ingredients:
-  - qty: 200
+  - qty: 250
     unit: g
     name: pecan halves
-    raw: 200 g pecan halves
+    raw: 250 g pecan halves
   - qty: 200
     unit: g
     name: light brown sugar
     raw: 200 g light brown sugar
   - qty: 100
     unit: g
-    name: caster sugar
-    raw: 100 g caster sugar
-  - qty: 180
+    name: granulated white sugar
+    raw: 100 g granulated white sugar
+  - qty: 120
     unit: ml
     name: double cream
-    raw: 180 ml double cream
+    raw: 120 ml double cream
   - qty: 60
     unit: g
     name: unsalted butter
@@ -37,8 +35,12 @@ ingredients:
   - qty: 1
     unit: tsp
     name: vanilla extract
-    raw: 1 teaspoon vanilla extract
+    raw: 1 tsp vanilla extract
   - qty: 0.25
     unit: tsp
-    name: sea salt
-    raw: ¼ teaspoon fine sea salt
+    name: salt
+    raw: ¼ tsp fine salt
+  - qty: 1
+    unit: pinch
+    name: bicarbonate of soda
+    raw: Pinch of bicarbonate of soda
