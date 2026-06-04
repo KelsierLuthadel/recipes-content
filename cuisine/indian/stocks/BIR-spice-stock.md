@@ -18,7 +18,7 @@ A fragrant aromatic stock made from whole spices and fresh herbs. This versatile
 - 20 black peppercorns
 - Large handful of star anise
 - 1 tsp roasted cumin seeds
-- Large bunch of coriander (cilantro), stems and leaves roughly chopped
+- Large bunch of coriander (fresh coriander), stems and leaves roughly chopped
 - 2 fresh green chillies, halved lengthways (optional)
 - 1 litre (4 ½ cups) water
 

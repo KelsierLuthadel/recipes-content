@@ -42,7 +42,7 @@ Mild yellow curry with Indian influences from turmeric and curry powder. Similar
 ### Garnish
 - 4 tbsp fried garlic
 - Chopped chillies (optional)
-- Chopped coriander (cilantro) leaves (optional)
+- Chopped coriander (fresh coriander) leaves (optional)
 
 ## Method
 

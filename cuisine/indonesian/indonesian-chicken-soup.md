@@ -42,7 +42,7 @@ Soto ayam is the Indonesian chicken soup, a clear golden broth perfumed with tur
 
 ### To Serve
 - 200 grams dried rice vermicelli
-- Coriander (cilantro) leaves
+- Coriander (fresh coriander) leaves
 - [Sambal oelek](../../base-ingredients/sambal/sambal-oelek.md)
 - Lime wedges
 

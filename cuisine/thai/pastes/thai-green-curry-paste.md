@@ -26,7 +26,7 @@ Spicy paste with green bird's eye chillies. Adjust chillies for heat; taste and 
 - 1 thumb-sized piece galangal, thinly sliced
 - 3 shallots (small), roughly chopped
 - 10 Thai sweet basil stalks (about 1 tbsp)
-- 5 coriander (cilantro) stalks (about ½ tbsp)
+- 5 coriander (fresh coriander) stalks (about ½ tbsp)
 - ½ lime (zest)
 - 5 lime leaves (fresh or frozen)
 

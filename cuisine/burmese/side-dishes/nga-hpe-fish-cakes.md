@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-The Burmese fish cakes that arrive at lahpet-thoke salad tables and street snack stalls alike, bright with lime and curry leaf. You cube skinless firm fish fillets and pulse them in a food processor with shallot, garlic, ginger, lime, fish sauce and a small egg into a sticky paste. A spoon of beaten cornflour binds it. Curry leaves, sliced spring onion, chopped cilantro and a fresh chilli go in for fragrance and bite. Patties form by hand (keep your hands slightly damp so the mixture doesn't stick), then shallow-fry in batches at 170°C for two or three minutes per side until they're deep gold and crisp at the edges. Eaten warm with a sour-sweet tamarind dipping sauce.
+The Burmese fish cakes that arrive at lahpet-thoke salad tables and street snack stalls alike, bright with lime and curry leaf. You cube skinless firm fish fillets and pulse them in a food processor with shallot, garlic, ginger, lime, fish sauce and a small egg into a sticky paste. A spoon of beaten cornflour binds it. Curry leaves, sliced spring onion, chopped fresh coriander and a fresh chilli go in for fragrance and bite. Patties form by hand (keep your hands slightly damp so the mixture doesn't stick), then shallow-fry in batches at 170°C for two or three minutes per side until they're deep gold and crisp at the edges. Eaten warm with a sour-sweet tamarind dipping sauce.
 
 ## Ingredients
 
@@ -24,9 +24,9 @@ The Burmese fish cakes that arrive at lahpet-thoke salad tables and street snack
 - 1 egg (small)
 - 3 tablespoons cornflour
 - ½ teaspoon ground turmeric
-- 1 small handful fresh curry leaves (chopped, or 1 small handful cilantro if curry leaves unavailable)
+- 1 small handful fresh curry leaves (chopped, or 1 small handful fresh coriander if curry leaves unavailable)
 - 4 spring onions (sliced thin)
-- 1 small handful fresh cilantro (chopped)
+- 1 small handful fresh coriander (chopped)
 - 2 green chillies (finely chopped)
 - ½ teaspoon ground black pepper
 - ½ teaspoon salt
@@ -44,7 +44,7 @@ The Burmese fish cakes that arrive at lahpet-thoke salad tables and street snack
 1. Pulse to a coarse paste - some texture is welcome. Don't run it smooth.
 
 ### Stage 2 - Mix in herbs
-1. Tip into a bowl. Stir in cornflour, turmeric, curry leaves, spring onions, cilantro, green chillies, pepper and salt.
+1. Tip into a bowl. Stir in cornflour, turmeric, curry leaves, spring onions, fresh coriander, green chillies, pepper and salt.
 1. Mix thoroughly with a spoon to a sticky, holding mixture.
 
 ### Stage 3 - Shape
@@ -61,7 +61,7 @@ The Burmese fish cakes that arrive at lahpet-thoke salad tables and street snack
 
 ## Notes
 - **Don't over-process:** A textured paste is right. Smooth fish paste gives a rubbery, bouncy cake; chunky paste gives a flakier, more interesting one.
-- **Curry leaves:** The Burmese signature. If you can't find them, use a small handful more cilantro; the dish is fine but less distinctively Burmese.
+- **Curry leaves:** The Burmese signature. If you can't find them, use a small handful more fresh coriander; the dish is fine but less distinctively Burmese.
 - **Damp hands:** The mix is sticky; wet hands handle it cleanly.
 
 ## Storage

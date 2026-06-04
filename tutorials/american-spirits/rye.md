@@ -94,11 +94,11 @@ A whiskey that lacks pepper and herb is not yet a good rye. Re-taste at the next
 
 Rye is at its best in classic American cocktails:
 
-- **Manhattan:** 60 ml rye, 30 ml sweet vermouth, 2 dashes Angostura, stirred, strained, cherry. The rye stands up to the vermouth in a way bourbon cannot.
-- **Old Fashioned (rye version):** 60 ml rye, 1 sugar cube, 2 dashes Angostura, orange peel. Spicier than the bourbon Old Fashioned.
-- **Sazerac:** see [Sazerac](../../drinks/regional/louisiana/sazerac.md). Rye is the spirit.
-- **Vieux Carré:** see [Vieux Carré](../../drinks/regional/new-orleans/vieux-carre.md). Rye is half the spirit base.
-- **Whiskey Sour (rye):** 60 ml rye, 25 ml lemon juice, 20 ml simple syrup, optional egg white. Drier than the bourbon version.
+- **[Manhattan](../../drinks/cocktails/manhattan.md):** 60 ml rye, 30 ml sweet vermouth, 2 dashes Angostura, stirred, strained, cherry. The rye stands up to the vermouth in a way bourbon cannot.
+- **[Old Fashioned](../../drinks/cocktails/old-fashioned.md) (rye version):** 60 ml rye, 1 sugar cube, 2 dashes Angostura, orange peel. Spicier than the bourbon Old Fashioned.
+- **[Sazerac](../../drinks/regional/louisiana/sazerac.md):** rye is the spirit.
+- **[Vieux Carré](../../drinks/regional/new-orleans/vieux-carre.md):** rye is half the spirit base (alongside cognac).
+- **[Whisky Sour](../../drinks/cocktails/whisky-sour.md) (rye version):** 60 ml rye, 25 ml lemon juice, 20 ml simple syrup, optional egg white. Drier than the bourbon version.
 
 ## See also
 - [Whisky (the umbrella)](whisky.md)

@@ -39,7 +39,7 @@ When you go out for Thai food this is sure to be on the menu. I love the spicine
 - 1 tbsp roasted Thai chilli oil with some of the goop at the bottom
 - 3-4 tbsp Thai fish sauce*
 - 3 green bird’s eye chillies, smashed and cut lengthwise
-- 1 small handful of coriander (cilantro), roughly chopped
+- 1 small handful of coriander (fresh coriander), roughly chopped
 - 2 tsp palm sugar (or white sugar, optional and to taste)
 
 ## Method
@@ -55,7 +55,7 @@ When you go out for Thai food this is sure to be on the menu. I love the spicine
 1. Add the tamarind paste and stir well.
 
 ### Stage 3 - Add seasonings and vegetables
-1. Stir in the mushrooms, chilli jam, chilli oil, fish sauce, green bird’s eye chillies and coriander (cilantro).
+1. Stir in the mushrooms, chilli jam, chilli oil, fish sauce, green bird’s eye chillies and coriander (fresh coriander).
 1. Taste and adjust seasoning as desired; add sugar if wanted.
 1. Add the quartered tomatoes and let them cook through in the hot stock.
 1. Add the spring onions (scallions) and any other vegetables.

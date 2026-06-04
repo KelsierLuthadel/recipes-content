@@ -115,7 +115,7 @@ Ta'amia is the Egyptian falafel, made with split dried fava beans rather than th
 
 ## Variations
 **With Spice Heat:** Add ¼ teaspoon cayenne pepper to the mixture for subtle heat.
-**Cilantro Emphasis:** Use 2 tablespoons coriander and reduce parsley to ½ teaspoon for cilantro-dominant version.
+**Fresh coriander Emphasis:** Use 2 tablespoons coriander and reduce parsley to ½ teaspoon for fresh coriander-dominant version.
 **Garlic-Forward:** Increase garlic to 2-3 cloves for more assertive flavor (taste carefully; garlic can become harsh).
 **With Fresh Mint:** Add ½ teaspoon fresh mint leaves for cool contrast (non-traditional but interesting).
 **Cumin Double:** Increase cumin to 1 teaspoon for richer, warmer spice character.

@@ -39,7 +39,7 @@ BIR lamb vindaloo is the fiery British-Indian-Restaurant adaptation of the Goan-
 - 2 tbsp white wine vinegar
 - 1 tsp dried fenugreek leaves (kasoori methi)
 - 2 pre-cooked stewed potatoes (about 8 pieces) (optional)
-- 3 tbsp chopped coriander (cilantro)
+- 3 tbsp chopped coriander (fresh coriander)
 - salt
 - pepper
 

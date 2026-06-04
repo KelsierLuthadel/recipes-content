@@ -39,7 +39,7 @@ Spicy, thin jungle curry from Chiang Mai, traditionally made with jungle ingredi
 - 1 tsp palm sugar (optional)
 
 ### Garnish
-- Coriander (cilantro) leaves
+- Coriander (fresh coriander) leaves
 - Thai sweet basil leaves
 
 ## Method

@@ -22,7 +22,7 @@ Made popular by Chinese restaurants and takeaways, these are another menu item t
 - 200g (7 oz) Chinese broccoli or young broccoli, finely chopped
 - 200g (7 oz) fresh bean sprouts
 - 200g (7 oz) carrots, grated
-- 3 tbsp coriander (cilantro) stalks, finely chopped
+- 3 tbsp coriander (fresh coriander) stalks, finely chopped
 - 4 spring onions (scallions), finely chopped
 
 ### Marinade
@@ -64,7 +64,7 @@ Made popular by Chinese restaurants and takeaways, these are another menu item t
 1. When ready to cook, heat a wok or frying pan over a medium-high heat until a bead of water evaporates on contact.
 2. Add 3 tablespoons of oil and swirl it around to coat the surface.
 3. Add the broccoli, bean sprouts and carrots and fry, stirring continuously, for 45 seconds, then tip out onto a plate (they should be undercooked at this stage).
-4. Spread them out, stir in the coriander (cilantro) stalks and spring onions (scallions) and set aside to cool.
+4. Spread them out, stir in the coriander (fresh coriander) stalks and spring onions (scallions) and set aside to cool.
 
 ### Stage 3 - Cook Pork and Combine
 1. Clean your wok or pan with paper towel and turn the heat up to high.

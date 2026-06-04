@@ -107,6 +107,16 @@ Bottle in clean glass with a tight cap. Storage life: indefinite if sealed.
 - **Don't over-pitch the yeast.** A single 25g packet is correct for a 5-gallon wash. More yeast doesn't make a stronger wash; it just makes fermentation faster and sometimes less clean.
 - **The grain matters more than people think.** Cheap supermarket cornmeal can work but lacks the depth of a fresh-cracked dent corn or heirloom variety. Find a local feed mill that sells distiller's-grade grain.
 
+## Cocktails
+
+The whisky family covers the most classic American cocktails:
+
+- **[Old Fashioned](../../drinks/cocktails/old-fashioned.md):** any whisky, sugar, bitters, orange peel. The grandfather of cocktails.
+- **[Manhattan](../../drinks/cocktails/manhattan.md):** whisky, sweet vermouth, Angostura, cherry. Rye for a drier drink, bourbon for a rounder one.
+- **[Whisky Sour](../../drinks/cocktails/whisky-sour.md):** whisky, lemon, sugar, optional egg white. The summer drink.
+- **[Rusty Nail](../../drinks/cocktails/rusty-nail.md):** Scotch and Drambuie, but the principle (whisky and a sweet liqueur) extends to any aged whisky.
+- **[Sazerac](../../drinks/regional/louisiana/sazerac.md):** rye whisky, absinthe, Peychaud's bitters, sugar. The New Orleans classic.
+
 ## See also
 - [Bourbon](bourbon.md) - the specific whiskey style with 51% corn, new charred oak, the federal standard
 - [Rye](rye.md) - the spicier whiskey with 51% rye

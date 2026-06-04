@@ -52,7 +52,7 @@ Tender lamb chops marinated in spiced yogurt, evoking the aroma of family partie
 
 ## Serving
 - Serve with Mowgli Slaw, Carrot Salad, and fresh Rotis.
-- Garnish with lemon wedges and cilantro.
+- Garnish with lemon wedges and fresh coriander.
 
 ## Storage
 - Refrigerate marinated chops up to 24 hours.

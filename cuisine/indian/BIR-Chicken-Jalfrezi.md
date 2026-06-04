@@ -19,7 +19,7 @@ BIR chicken jalfrezi is the restaurant stir-fry, quick-cooked peppers, chillies 
 - 1 onion, thinly sliced
 - 1 red bell pepper, deseeded and thinly sliced
 - 3 green bird’s eye chillies, roughly chopped
-- 2 tbsp finely chopped coriander (cilantro) stalks
+- 2 tbsp finely chopped coriander (fresh coriander) stalks
 - 2 tbsp garlic and ginger paste
 
 ### Spices and sauce
@@ -35,7 +35,7 @@ BIR chicken jalfrezi is the restaurant stir-fry, quick-cooked peppers, chillies 
 - 1 tsp dried fenugreek leaves (kasoori methi)
 - Salt, to taste
 - 1 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
-- 2 tbsp chopped coriander (cilantro) leaves
+- 2 tbsp chopped coriander (fresh coriander) leaves
 - 2 green finger chillies, halved lengthwise
 
 ## Method
@@ -59,7 +59,7 @@ BIR chicken jalfrezi is the restaurant stir-fry, quick-cooked peppers, chillies 
 1. Add quartered tomatoes and kasoori methi 2 minutes before serving.
 1. Cook until tomatoes are cooked through but still firm.
 1. Season with salt and sprinkle garam masala.
-1. Garnish with cilantro leaves and green chillies.
+1. Garnish with fresh coriander leaves and green chillies.
 
 ## Notes
 - For a saucier curry, add extra base sauce or stock and simmer slightly longer.

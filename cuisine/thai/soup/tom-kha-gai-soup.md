@@ -22,7 +22,7 @@ Tom kha gai is a popular spicy coconut soup. The tasty broth is more important t
 - 1 stalk lemongrass (white part only with thick outer layer removed), bruised and cut into about 6 slices
 - 3 lime leaves, stalks removed and leaves thinly sliced
 - 1 thumb-sized piece of galangal, bruised and sliced into 7 pieces
-- 10 coriander (cilantro) stalks, finely chopped
+- 10 coriander (fresh coriander) stalks, finely chopped
 
 ### Protein
 - 250g (9oz) skinless chicken thigh fillets, cut into bite-size pieces
@@ -45,7 +45,7 @@ Tom kha gai is a popular spicy coconut soup. The tasty broth is more important t
 
 ### Stage 1 - Prepare broth
 1. Pour the stock into a large saucepan and bring to a boil over a high heat.
-1. Add the lemongrass, lime leaves, galangal and coriander (cilantro) stalks.
+1. Add the lemongrass, lime leaves, galangal and coriander (fresh coriander) stalks.
 1. Simmer for about 10 minutes to allow the aromatic ingredients to flavour the stock.
 
 ### Stage 2 - Cook chicken

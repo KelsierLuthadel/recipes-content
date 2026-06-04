@@ -42,7 +42,7 @@ BIR chicken karahi is a classic British-Indian-Restaurant curry inspired by Imra
 - 7 ½ cm (3 in) piece ginger, peeled and julienned
 - 2 fresh green bullet chillies, roughly chopped
 - 1 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
-- Coriander (cilantro), to serve
+- Coriander (fresh coriander), to serve
 
 ## Method
 

@@ -111,6 +111,15 @@ Neither is better; they are different styles for different occasions.
 - **The 2013 state law** was passed to defend Tennessee whiskey as a distinct designation. Before then, several non-Tennessee distillers used "Tennessee whiskey" loosely. The law fixed the definition.
 - **"Sour mash"** is a fermentation technique used by both Jack Daniel's and George Dickel, where some of the previous batch's spent mash is added to the new mash to ensure consistent acidity and yeast performance. It is NOT a federal or state requirement of Tennessee whiskey, just a tradition. Adopt if you want a more consistent house style across batches.
 
+## Cocktails
+
+Anything that works with bourbon works with Tennessee whiskey, often more softly because of the charcoal mellowing:
+
+- **[Old Fashioned](../../drinks/cocktails/old-fashioned.md):** rounder than the bourbon version, the Lincoln County Process taking the rougher edges off.
+- **[Manhattan](../../drinks/cocktails/manhattan.md):** sweeter and gentler than with rye.
+- **[Whisky Sour](../../drinks/cocktails/whisky-sour.md):** the Tennessee whiskey's softer character is a good match for the citric sharpness.
+- **Lynchburg Lemonade:** the unofficial Jack Daniel's cocktail. 50 ml Tennessee whiskey, 50 ml triple sec, 50 ml lemon juice, topped with lemonade and a slice of lemon. Served in a tall glass over ice.
+
 ## See also
 - [Bourbon](bourbon.md) - the base whiskey before the Lincoln County step
 - [Whisky (the umbrella)](whisky.md)

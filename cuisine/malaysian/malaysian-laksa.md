@@ -29,7 +29,7 @@ A two-part dish: a deeply concentrated prawn-and-chicken stock built from roaste
 - 1 lemongrass stalk (pale part bruised, finely chopped)
 - 4 Asian red shallots (roughly chopped)
 - 5 garlic cloves (roughly chopped)
-- 3 coriander (cilantro) roots (roughly chopped)
+- 3 coriander (fresh coriander) roots (roughly chopped)
 - 5 candlenuts (or macadamia nuts)
 - 1 teaspoon coriander seeds
 - ½ teaspoon turmeric
@@ -47,7 +47,7 @@ A two-part dish: a deeply concentrated prawn-and-chicken stock built from roaste
 - 200 grams dried rice vermicelli noodles
 - [Sambal oelek](../../base-ingredients/sambal/sambal-oelek.md)
 - Lime wedges
-- Finely chopped coriander (cilantro)
+- Finely chopped coriander (fresh coriander)
 - Bean sprouts
 
 ## Method

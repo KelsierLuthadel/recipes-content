@@ -60,7 +60,7 @@ Boniato mash is the Cuban answer to the everyday mashed potato, made from boniat
 ## Variations
 **With pork drippings:** Replace half the butter with rendered pork fat from a mojo pork roast. Traditional, decadent.
 **Spicy:** Mash in a finely chopped seeded scotch bonnet, or ½ teaspoon dried red chilli flakes with the garlic.
-**Cilantro-heavy:** Fold in 3 tablespoons of finely chopped coriander at the end for a green-flecked version.
+**Fresh coriander-heavy:** Fold in 3 tablespoons of finely chopped coriander at the end for a green-flecked version.
 
 ## Serving
 Serve with: Mojo pork (lechon), ropa vieja, grilled chicken thighs, fried fish. Pairs especially well with anything roast and citrus-marinated.

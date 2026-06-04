@@ -11,7 +11,7 @@
 **Cook Time:** 6 hours (low) or 4 hours (high)
 
 ## Overview
-A workday cross-cultural dinner that adds the Caribbean to the Tex-Mex format: jerk-marinated chicken (slow-cooked to fall-apart tender) shredded into warm tortillas, topped with a fresh mango salsa. The slow cooker is the technical workaround, traditional jerk wants grilling or smoking, but a 6-hour low-heat braise in Walkerswood jerk paste, browning sauce, allspice and lime gives the meat similar depth without the grill. The Walkerswood paste is the canonical bottled jerk; the mild version is the recommended choice here because the heat would otherwise be overwhelming with so much marinade. The salsa is the second half of the dish; sweet mango, sharp red onion, crunchy bell pepper and cilantro, dressed with lime, it's bright and crisp and cuts through the rich shredded chicken underneath. Genuinely set-and-forget cooking, 20 minutes of prep, 6 hours of nothing, and the result eats like something that took much longer. A modern fusion dish, popularised by American-Caribbean food bloggers in the 2010s, with no claim to traditional authenticity beyond the jerk seasoning itself.
+A workday cross-cultural dinner that adds the Caribbean to the Tex-Mex format: jerk-marinated chicken (slow-cooked to fall-apart tender) shredded into warm tortillas, topped with a fresh mango salsa. The slow cooker is the technical workaround, traditional jerk wants grilling or smoking, but a 6-hour low-heat braise in Walkerswood jerk paste, browning sauce, allspice and lime gives the meat similar depth without the grill. The Walkerswood paste is the canonical bottled jerk; the mild version is the recommended choice here because the heat would otherwise be overwhelming with so much marinade. The salsa is the second half of the dish; sweet mango, sharp red onion, crunchy bell pepper and fresh coriander, dressed with lime, it's bright and crisp and cuts through the rich shredded chicken underneath. Genuinely set-and-forget cooking, 20 minutes of prep, 6 hours of nothing, and the result eats like something that took much longer. A modern fusion dish, popularised by American-Caribbean food bloggers in the 2010s, with no claim to traditional authenticity beyond the jerk seasoning itself.
 
 ## Ingredients
 
@@ -34,7 +34,7 @@ A workday cross-cultural dinner that adds the Caribbean to the Tex-Mex format: j
 - 2 cups diced fresh mango
 - 1 red bell pepper (medium, finely chopped)
 - ½ cup diced red onion
-- ¼ cup chopped cilantro
+- ¼ cup chopped fresh coriander
 - 1 lime (small, zest + juice)
 - Salt to taste
 
@@ -49,14 +49,14 @@ A workday cross-cultural dinner that adds the Caribbean to the Tex-Mex format: j
 1. Cover; cook on low 6 hours, or high 4 hours, until the chicken is tender and falls apart easily.
 
 ### Stage 3 - Mango salsa
-1. Combine the mango, red pepper, red onion, cilantro, lime zest, lime juice and salt in a bowl.
+1. Combine the mango, red pepper, red onion, fresh coriander, lime zest, lime juice and salt in a bowl.
 1. Toss; refrigerate covered until the chicken is ready.
 
 ### Stage 4 - Shred and assemble
 1. Shred the chicken with two forks directly in the slow cooker.
 1. Stir to coat with the cooking liquid.
 1. Warm the tortillas (lightly in a dry pan or oven).
-1. Pile in the jerk chicken; top with mango salsa and a sprinkle of cilantro.
+1. Pile in the jerk chicken; top with mango salsa and a sprinkle of fresh coriander.
 1. Serve immediately.
 
 ## Notes

@@ -18,7 +18,7 @@ When making stocks for Asian dishes, it is important to use Asian ingredients. C
 - 1 ½kg (3lb 5oz) meaty chicken bones
 
 ### Aromatics
-- 10 coriander (cilantro) stalks
+- 10 coriander (fresh coriander) stalks
 - 1 onion (large), roughly chopped
 - 10 garlic cloves, smashed
 - 2 ½cm (1in) piece of galangal, thinly sliced and lightly smashed

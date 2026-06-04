@@ -25,7 +25,7 @@ BIR chicken Ceylon is the restaurant take on Sri Lankan curry traditions, bright
 - 2 tbsp garlic and ginger paste
 - 2 green bird’s eye chillies, finely chopped
 - 2 tbsp coconut flour
-- 3 tbsp finely chopped coriander (cilantro) stalks
+- 3 tbsp finely chopped coriander (fresh coriander) stalks
 - 1 tsp Kashmiri chilli powder
 - 2 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md)
 - 1 tbsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md)
@@ -46,7 +46,7 @@ BIR chicken Ceylon is the restaurant take on Sri Lankan curry traditions, bright
 - Sugar, to taste
 - 1 lime (juice)
 - 1 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
-- 3 tbsp chopped coriander (cilantro), to finish
+- 3 tbsp chopped coriander (fresh coriander), to finish
 
 ## Method
 

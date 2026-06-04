@@ -2,7 +2,7 @@
 
 ![Roujiamo (Xi'an Chinese Hamburger)](resources/roujiamo.jpg)
 
-*Crisp, flaky Tongguan flatbread split open and stuffed with slow-braised pork that has been chopped fine with fresh cilantro and onion. The aroma when the hot bun meets the spiced meat is irresistible: toasted wheat, star anise, sweet caramelised pork fat, and the green snap of raw cilantro.*
+*Crisp, flaky Tongguan flatbread split open and stuffed with slow-braised pork that has been chopped fine with fresh coriander and onion. The aroma when the hot bun meets the spiced meat is irresistible: toasted wheat, star anise, sweet caramelised pork fat, and the green snap of raw fresh coriander.*
 
 **Serves:** 4 (8 buns)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Roujiamo is often, lazily, called the Chinese hamburger, but it is older than the burger by perhaps a thousand years and structurally quite different. The bread is a flat, lightly leavened, sometimes laminated wheat round, with the layered Tongguan style (flaky and croissant-like) considered superior to the softer baijimo. The filling is rich braised pork, shoulder or belly, simmered with rock sugar, soy and warming spice until it shreds under a knife, then chopped fine on a board with raw onion and cilantro and a spoonful of its own dark cooking liquid. The whole assembly is then crammed inside the freshly fried-and-baked bun while everything is still hot. Roujiamo is a quintessentially Xi'an dish, the product of a city that for centuries sat at the eastern terminus of the Silk Road; the bread tradition comes from the Hui and Uyghur Muslim communities of the northwest, while the braised pork belongs to the Han Chinese kitchen. Difficulty for a home cook is moderate to high, the lamination of the bread takes practice, and there are multiple components on timed tracks, but the result is one of the great street foods of China, and the buns and meat can both be made ahead.
+Roujiamo is often, lazily, called the Chinese hamburger, but it is older than the burger by perhaps a thousand years and structurally quite different. The bread is a flat, lightly leavened, sometimes laminated wheat round, with the layered Tongguan style (flaky and croissant-like) considered superior to the softer baijimo. The filling is rich braised pork, shoulder or belly, simmered with rock sugar, soy and warming spice until it shreds under a knife, then chopped fine on a board with raw onion and fresh coriander and a spoonful of its own dark cooking liquid. The whole assembly is then crammed inside the freshly fried-and-baked bun while everything is still hot. Roujiamo is a quintessentially Xi'an dish, the product of a city that for centuries sat at the eastern terminus of the Silk Road; the bread tradition comes from the Hui and Uyghur Muslim communities of the northwest, while the braised pork belongs to the Han Chinese kitchen. Difficulty for a home cook is moderate to high, the lamination of the bread takes practice, and there are multiple components on timed tracks, but the result is one of the great street foods of China, and the buns and meat can both be made ahead.
 
 ## Ingredients
 
@@ -43,7 +43,7 @@ Roujiamo is often, lazily, called the Chinese hamburger, but it is older than th
 
 ### Assembly
 - ½ red onion, finely chopped
-- 1 large handful (about 30 g) cilantro leaves, finely chopped
+- 1 large handful (about 30 g) fresh coriander leaves, finely chopped
 - 1-2 tbsp reserved braising liquid
 - 1 tbsp chilli oil with sediment (optional)
 
@@ -83,7 +83,7 @@ Roujiamo is often, lazily, called the Chinese hamburger, but it is older than th
 ### Stage 5 - Chop and stuff
 1. Lift the pork out of the braise with a slotted spoon. Strain and reserve the liquid.
 1. On a chopping board, finely chop the pork with a heavy knife until it is a coarse mince.
-1. Tip into a bowl with the chopped red onion and cilantro. Add 1-2 tbsp of the braising liquid - enough to moisten but not pool.
+1. Tip into a bowl with the chopped red onion and fresh coriander. Add 1-2 tbsp of the braising liquid - enough to moisten but not pool.
 1. Taste and add chilli oil if you want heat.
 1. Split each warm bun three-quarters of the way through and stuff with about 60 ml (¼ cup) of the meat mixture. Eat immediately.
 

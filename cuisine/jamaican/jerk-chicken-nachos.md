@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-A Caribbean-American fusion that works because both food cultures speak the language of "everything on one tray". The base is American nachos: tortilla chips, melted cheese, black beans. On top sits jerk-marinated chicken thigh, which carries the dish's flavour, allspice, Scotch bonnet, nutmeg, cinnamon, thyme, soy and brown sugar blended into a wet jerk paste, marinated into the meat overnight, then oven-baked and sliced. The fresh element on top is a Trinidadian-style fruit chow: diced mango, pineapple, red bell pepper and red onion dressed with lime juice and cilantro. The chow is what makes this work; without it the nachos are just spicy meat-and-cheese, with it the dish has acid, crunch and sweetness to cut through the richness. Smell is melted cheese hitting jerk seasoning, with a citrus-tropical lift from the chow on top. Not difficult but it's three components running on different timelines, so plan ahead. A modern party-and-Super-Bowl-tray dish rather than something a Kingston grandmother makes, popularised by Caribbean-American food bloggers in the 2010s.
+A Caribbean-American fusion that works because both food cultures speak the language of "everything on one tray". The base is American nachos: tortilla chips, melted cheese, black beans. On top sits jerk-marinated chicken thigh, which carries the dish's flavour, allspice, Scotch bonnet, nutmeg, cinnamon, thyme, soy and brown sugar blended into a wet jerk paste, marinated into the meat overnight, then oven-baked and sliced. The fresh element on top is a Trinidadian-style fruit chow: diced mango, pineapple, red bell pepper and red onion dressed with lime juice and fresh coriander. The chow is what makes this work; without it the nachos are just spicy meat-and-cheese, with it the dish has acid, crunch and sweetness to cut through the richness. Smell is melted cheese hitting jerk seasoning, with a citrus-tropical lift from the chow on top. Not difficult but it's three components running on different timelines, so plan ahead. A modern party-and-Super-Bowl-tray dish rather than something a Kingston grandmother makes, popularised by Caribbean-American food bloggers in the 2010s.
 
 ## Ingredients
 
@@ -40,7 +40,7 @@ A Caribbean-American fusion that works because both food cultures speak the lang
 - 1 cup diced pineapple
 - 1 cup diced red bell pepper
 - ⅓ cup diced red onion
-- 3 tablespoons chopped cilantro
+- 3 tablespoons chopped fresh coriander
 - 60 ml fresh lime juice
 - 1 garlic clove (minced)
 - 2 teaspoons diced Scotch bonnet (optional)
@@ -65,7 +65,7 @@ A Caribbean-American fusion that works because both food cultures speak the lang
 1. Cool slightly; slice into bite pieces.
 
 ### Stage 2 - Chow
-1. Combine mango, pineapple, red pepper, red onion, cilantro, garlic and optional Scotch bonnet in a bowl.
+1. Combine mango, pineapple, red pepper, red onion, fresh coriander, garlic and optional Scotch bonnet in a bowl.
 1. Dress with lime juice; season with salt and pepper.
 1. Refrigerate until needed.
 

@@ -18,7 +18,7 @@ BIR lamb saag is the restaurant version of the classic Punjabi saag gosht, a bri
 - 225 g (8 oz) baby spinach leaves
 - A little water (or spice stock)
 - 3-6 fresh green bullet chillies, to taste
-- Bunch coriander leaves (cilantro), leaves only
+- Bunch coriander leaves (fresh coriander), leaves only
 
 ### Aromatics and spices
 - 4 tbsp ghee, rapeseed (canola) oil or seasoned oil

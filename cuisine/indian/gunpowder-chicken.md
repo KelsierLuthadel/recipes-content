@@ -41,7 +41,7 @@ Gluten-free popcorn chicken bites made with gram flour batter, inspired by overp
 ### Toppings
 - 1 red chilli (large), finely sliced
 - ½ red onion, finely sliced
-- 1 tbsp chopped fresh coriander (cilantro)
+- 1 tbsp chopped fresh coriander (fresh coriander)
 - 2 tbsp [Tamarind Chutney](sauces-pickles/tamarind-chutney.md)
 - 2 tbsp Green Chilli Pickle
 

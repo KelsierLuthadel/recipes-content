@@ -37,7 +37,7 @@ BIR lamb naga phaal is the British-Indian restaurant's hottest curry, named for 
 - Salt, to taste
 - 1 tsp dried fenugreek leaves (kasoori methi)
 - ½ tsp [Garam Masala](Spice-Mixes/garam-masala.md)
-- 2 tbsp finely chopped coriander (cilantro)
+- 2 tbsp finely chopped coriander (fresh coriander)
 
 ## Method
 

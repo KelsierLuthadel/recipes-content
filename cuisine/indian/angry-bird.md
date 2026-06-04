@@ -52,7 +52,7 @@ Simple tandoori-style chicken thighs marinated in yogurt and spices for tender, 
 
 ## Serving
 - Serve with rice, naan, or salad.
-- Garnish with lemon wedges and cilantro.
+- Garnish with lemon wedges and fresh coriander.
 
 ## Storage
 - Refrigerate marinated chicken up to 24 hours.

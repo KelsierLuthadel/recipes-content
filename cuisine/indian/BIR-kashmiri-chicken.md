@@ -40,7 +40,7 @@ BIR kashmiri chicken is the restaurant's aromatic mild curry, named for the Kash
 - 2 tsp smooth mango chutney
 - 3 tbsp plain yoghurt
 - Salt, to taste
-- Coriander (cilantro), to garnish
+- Coriander (fresh coriander), to garnish
 
 ## Method
 

@@ -19,7 +19,7 @@ These aren’t like those you find at most takeaways: thinly layered with a bit 
 - 500g (1lb 2oz) peeled and deveined prawns (shrimp)
 
 ### Aromatics
-- 10 coriander (cilantro) stalks, finely chopped (about 2 generous tbsp)
+- 10 coriander (fresh coriander) stalks, finely chopped (about 2 generous tbsp)
 - 6 lime leaves, de-stalked and finely chopped
 - 4 garlic cloves, finely chopped
 

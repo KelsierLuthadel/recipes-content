@@ -2,7 +2,7 @@
 
 ![Sepen](resources/sepen.jpg)
 
-*A Tibetan tomato hot sauce: summer tomatoes with celery, cilantro and chilli pounded into a mild flavourful condiment. Spooned over momos and rice.*
+*A Tibetan tomato hot sauce: summer tomatoes with celery, fresh coriander and chilli pounded into a mild flavourful condiment. Spooned over momos and rice.*
 
 **Serves:** Makes about 750 ml (4-6 servings)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 5 minutes
 
 ## Overview
-A Tibetan tomato hot sauce that's about depth rather than burn. The base is summer-ripe Roma tomatoes cooked down for an hour with celery, garlic and a couple of fresh green chillies until everything reduces to a thick, slightly sweet paste; ground emma (Sichuan pepper) brings a quiet numbing tingle that gives the sauce its Himalayan signature. Fresh cilantro folded in at the end keeps it bright. Smell is sweet tomato concentrated into something almost ketchup-adjacent, with a faint pepperiness underneath. Genuinely easy, you blend, cook, walk away, stir every 15 minutes, finish. Lhasa families make it in summer when the tomatoes are cheap and stack jars of it in the fridge to spoon over momos, shabalep, and rice. Modest enough that it featured once in a New York Times dining-section profile of YoWangdu (a Tibetan cookery family) without much fanfare, but the kind of household sauce that is so quietly load-bearing in Tibetan cooking that meals feel incomplete without it.
+A Tibetan tomato hot sauce that's about depth rather than burn. The base is summer-ripe Roma tomatoes cooked down for an hour with celery, garlic and a couple of fresh green chillies until everything reduces to a thick, slightly sweet paste; ground emma (Sichuan pepper) brings a quiet numbing tingle that gives the sauce its Himalayan signature. Fresh coriander folded in at the end keeps it bright. Smell is sweet tomato concentrated into something almost ketchup-adjacent, with a faint pepperiness underneath. Genuinely easy, you blend, cook, walk away, stir every 15 minutes, finish. Lhasa families make it in summer when the tomatoes are cheap and stack jars of it in the fridge to spoon over momos, shabalep, and rice. Modest enough that it featured once in a New York Times dining-section profile of YoWangdu (a Tibetan cookery family) without much fanfare, but the kind of household sauce that is so quietly load-bearing in Tibetan cooking that meals feel incomplete without it.
 
 ## Ingredients
 
@@ -22,7 +22,7 @@ A Tibetan tomato hot sauce that's about depth rather than burn. The base is summ
 - 60 ml vegetable oil (avocado or sunflower)
 - ½ teaspoon salt
 - ¼ teaspoon ground emma (Sichuan pepper, optional)
-- A few sprigs fresh cilantro (roughly chopped, to finish)
+- A few sprigs fresh coriander (roughly chopped, to finish)
 
 ## Method
 
@@ -45,7 +45,7 @@ A Tibetan tomato hot sauce that's about depth rather than burn. The base is summ
 
 ### Stage 4 - Finish
 1. Off heat.
-1. Fold in the chopped cilantro.
+1. Fold in the chopped fresh coriander.
 1. Serve warm or at room temperature.
 
 ## Notes

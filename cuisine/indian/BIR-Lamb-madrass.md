@@ -39,7 +39,7 @@ BIR lamb madras is the British restaurant adaptation of the South Indian Madras 
 - 1 lime (juice)
 - Salt, to taste
 - Pinch of [Garam Masala](Spice-Mixes/garam-masala.md)
-- Coriander (cilantro), to garnish
+- Coriander (fresh coriander), to garnish
 
 ## Method
 

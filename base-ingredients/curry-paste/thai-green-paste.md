@@ -9,7 +9,7 @@
 **Yield:** Approximately 230-250 grams
 
 ## Overview
-Thai green curry paste combines fresh green chillies (not reduced in heat like Thai red paste), fresh herbs including cilantro and lemongrass, and aromatic spices. The "green" comes from fresh coriander and green chillies, not fromprocessing. This is one of Thailand's most iconic curry pastes. Unlike red curry paste which is often toasted-spice based, green relies on fresh ingredients for its character and building, sustained heat.
+Thai green curry paste combines fresh green chillies (not reduced in heat like Thai red paste), fresh herbs including fresh coriander and lemongrass, and aromatic spices. The "green" comes from fresh coriander and green chillies, not fromprocessing. This is one of Thailand's most iconic curry pastes. Unlike red curry paste which is often toasted-spice based, green relies on fresh ingredients for its character and building, sustained heat.
 
 ## Ingredients
 
@@ -62,9 +62,9 @@ Thai green curry paste combines fresh green chillies (not reduced in heat like T
 
 ## Notes
 - **Heat Level:** Green curry is traditionally hot. If you want mild heat, remove all chilli seeds. For authentic spice, leave seeds in.
-- **Fresh Herbs:** The cilantro and lemongrass are essential to green curry's character; don't substitute dried versions.
+- **Fresh Herbs:** The fresh coriander and lemongrass are essential to green curry's character; don't substitute dried versions.
 - **Shrimp Paste Aroma:** It's pungent raw, but the aroma mellows during cooking and becomes a crucial umami component.
-- **Green Color:** The vibrant green color comes from cilantro and fresh green chillies; if the paste seems dull, you may have oxidized the herbs (use immediately).
+- **Green Color:** The vibrant green color comes from fresh coriander and fresh green chillies; if the paste seems dull, you may have oxidized the herbs (use immediately).
 - **Mortar & Pestle:** Absolutely essential; food processors heat the paste and produce mushiness.
 - **Freshness:** This paste is at its best used within a few hours of making.
 

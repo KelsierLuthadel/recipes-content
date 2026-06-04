@@ -30,7 +30,7 @@ Trinidadian comfort food that brings together the East Indian and Afro-Caribbean
 - ¾ tablespoon ground roasted geera (cumin)
 - 2 tablespoons [Curry Powder](../indian/Spice-Mixes/curry-powder.md)
 - 480 ml water
-- 2 tablespoons chopped cilantro
+- 2 tablespoons chopped fresh coriander
 
 ## Method
 
@@ -61,7 +61,7 @@ Trinidadian comfort food that brings together the East Indian and Afro-Caribbean
 
 ### Stage 5 - Serve
 1. Taste; adjust salt.
-1. Scatter chopped cilantro over.
+1. Scatter chopped fresh coriander over.
 1. Serve with coconut rice or sada roti.
 
 ## Notes

@@ -88,7 +88,7 @@ Nuoc cham represents Vietnamese cooking philosophy distilled to its essence. Thi
 **Sweeter Version:** Add 2-2 ½ tablespoons sugar instead of 1 ½ for sweetness balancing heat.
 **Less Fish Sauce:** Use 2 ½ tablespoons if the umami intensity seems overwhelming (build from here).
 **With Shallots:** Add 1 finely minced shallot (optional, non-traditional but flavorful).
-**Extra Fresh:** Add 1 tablespoon finely chopped fresh mint or cilantro for herbal brightness.
+**Extra Fresh:** Add 1 tablespoon finely chopped fresh mint or fresh coriander for herbal brightness.
 
 ## Serving
 Use in: Rice dish condiment, noodle soup topping, vegetable dip, grilled meat accompaniment, spring roll dip

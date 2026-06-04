@@ -28,12 +28,12 @@ Spicy Thai salad with glass noodles, prawns, and pork. Nostalgic dish from Thai 
 
 ### Nuts and herbs
 - 10 roasted cashews, roughly chopped
-- 3 tbsp roughly chopped coriander (cilantro) leaves
+- 3 tbsp roughly chopped coriander (fresh coriander) leaves
 
 ### Dressing
 - 1 tbsp dried shrimp, soaked in warm water for 10 minutes
 - 3 garlic cloves, smashed
-- 2 tbsp finely chopped coriander (cilantro) stalks
+- 2 tbsp finely chopped coriander (fresh coriander) stalks
 - 3 red bird’s eye chillies, roughly chopped
 - 1 tbsp palm sugar, grated
 - 3 tbsp Thai fish sauce

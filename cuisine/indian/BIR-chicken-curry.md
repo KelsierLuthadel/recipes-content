@@ -42,7 +42,7 @@ BIR chicken curry is the restaurant style chicken curry built from whole spices 
 - Pinch dried fenugreek leaves (kasoori methi)
 - Salt, to taste
 - 3 tbsp melted ghee (optional)
-- 2 tbsp finely chopped coriander (cilantro), to garnish
+- 2 tbsp finely chopped coriander (fresh coriander), to garnish
 
 ## Method
 

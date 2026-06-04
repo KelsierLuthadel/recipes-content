@@ -2,7 +2,7 @@
 
 ![Sopa de Caracol](resources/sopa-de-caracol.jpg)
 
-*Honduras' Garifuna coastal soup: conch and yuca slow-cooked in coconut milk with green plantain, sweet pepper and cilantro. Rich, sweet and marine.*
+*Honduras' Garifuna coastal soup: conch and yuca slow-cooked in coconut milk with green plantain, sweet pepper and fresh coriander. Rich, sweet and marine.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Sopa de caracol is the Honduran conch soup of the Caribbean coast, a coconut-creamy broth carrying tender conch, cassava and plantain, made famous by the Garifuna communities of the north coast and a national symbol for Honduras. Conch tenderises by pounding (or by long cooking, whichever is at hand), then briefly simmers. Aromatics (onion, garlic, sweet pepper, achiote or paprika) fry in butter; coconut milk, water, yuca (cassava) and green plantain go in; the conch returns at the end so it stays tender. Cilantro, lime, salt to finish. Serve in deep bowls with rice on the side and warm flour tortillas to mop up the broth.
+Sopa de caracol is the Honduran conch soup of the Caribbean coast, a coconut-creamy broth carrying tender conch, cassava and plantain, made famous by the Garifuna communities of the north coast and a national symbol for Honduras. Conch tenderises by pounding (or by long cooking, whichever is at hand), then briefly simmers. Aromatics (onion, garlic, sweet pepper, achiote or paprika) fry in butter; coconut milk, water, yuca (cassava) and green plantain go in; the conch returns at the end so it stays tender. Fresh coriander, lime, salt to finish. Serve in deep bowls with rice on the side and warm flour tortillas to mop up the broth.
 
 ## Ingredients
 
@@ -31,7 +31,7 @@ Sopa de caracol is the Honduran conch soup of the Caribbean coast, a coconut-cre
 - ¼ teaspoon ground black pepper
 - 1 teaspoon salt (to taste)
 - 1 lime (juice)
-- 3 tablespoons fresh cilantro (chopped)
+- 3 tablespoons fresh coriander (chopped)
 
 ## Method
 
@@ -52,7 +52,7 @@ Sopa de caracol is the Honduran conch soup of the Caribbean coast, a coconut-cre
 1. Add the conch strips; simmer just 3-5 minutes - it cooks through fast and overcooks to rubber.
 1. (If using shrimp: simmer 3 minutes. If using fish: 4-5 minutes.)
 1. Stir in lime juice; season with salt and pepper.
-1. Scatter cilantro.
+1. Scatter fresh coriander.
 
 ### Stage 5 - Serve
 1. Ladle into wide deep bowls. Eat with a wedge of corn tortilla and an extra lime wedge.

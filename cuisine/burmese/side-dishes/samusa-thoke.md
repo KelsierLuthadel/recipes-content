@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-A Yangon street-stall snack and the lunch office workers queue for at midday: broken samosas tossed in a hot yellow-pea soup at the bowl with raw onion, lime and crispy bits. You cook yellow split peas with turmeric and salt into a thick soup, season it with fried sliced onion, garlic, paprika and fish sauce. Small Burmese samosas (filo or thin pastry triangles with a lamb mince filling) are pre-fried or warmed. The construction in the bowl is fast: a heap of broken samosa, a ladle of hot pea soup, a tangle of raw red onion, a small mound of crispy gram-flour bits, chopped cilantro, a wedge of lime, chilli to taste. Toss at the table and eat while everything is hot.
+A Yangon street-stall snack and the lunch office workers queue for at midday: broken samosas tossed in a hot yellow-pea soup at the bowl with raw onion, lime and crispy bits. You cook yellow split peas with turmeric and salt into a thick soup, season it with fried sliced onion, garlic, paprika and fish sauce. Small Burmese samosas (filo or thin pastry triangles with a lamb mince filling) are pre-fried or warmed. The construction in the bowl is fast: a heap of broken samosa, a ladle of hot pea soup, a tangle of raw red onion, a small mound of crispy gram-flour bits, chopped fresh coriander, a wedge of lime, chilli to taste. Toss at the table and eat while everything is hot.
 
 ## Ingredients
 
@@ -39,7 +39,7 @@ A Yangon street-stall snack and the lunch office workers queue for at midday: br
 
 ### Garnish
 - 1 red onion (small, sliced thin)
-- 1 small handful fresh cilantro (chopped)
+- 1 small handful fresh coriander (chopped)
 - 2 spring onions (sliced)
 - 2 limes (cut into wedges)
 - 1 teaspoon dried chilli flakes
@@ -72,7 +72,7 @@ A Yangon street-stall snack and the lunch office workers queue for at midday: br
 ### Stage 5 - Assemble
 1. In each wide bowl, break 3 samusas into bite-sized pieces.
 1. Ladle hot pea soup over the top (about 200 ml per bowl).
-1. Top with a small handful of crispy bits, sliced red onion, spring onion and cilantro.
+1. Top with a small handful of crispy bits, sliced red onion, spring onion and fresh coriander.
 1. Sprinkle with chilli flakes.
 1. Place a lime wedge alongside.
 

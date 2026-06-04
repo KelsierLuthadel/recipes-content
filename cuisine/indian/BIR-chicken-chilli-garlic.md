@@ -36,7 +36,7 @@ BIR chicken chilli garlic is the bold garlicky curry on the British-Indian-Resta
 ### Finishers
 - 1 tsp dried fenugreek leaves (kasoori methi)
 - Salt, to taste
-- Small bunch coriander (cilantro), finely chopped
+- Small bunch coriander (fresh coriander), finely chopped
 - Dried garlic flakes, to serve (optional)
 
 ## Method

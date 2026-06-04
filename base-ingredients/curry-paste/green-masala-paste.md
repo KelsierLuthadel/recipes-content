@@ -95,7 +95,7 @@ Green Balti masala paste combines Indian spices with fresh herbs, creating a vib
 - **Blender vs. Mortar:** This paste is thick and herb-heavy; a blender makes more sense than a mortar for achieving smoothness.
 
 ## Variations
-**With Cilantro Only:** Omit mint; use all 80 grams coriander instead.
+**With Fresh Coriander Only:** Omit mint; use all 80 grams fresh coriander instead.
 **Spicier:** Increase chilli powder to 3 teaspoons.
 **Extra Turmeric:** For deeper golden color and earthiness, use 4 teaspoons turmeric.
 **Milder Cloves:** Reduce to ¼ teaspoon if clove flavor is too strong for your taste.

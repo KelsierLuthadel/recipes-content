@@ -108,6 +108,17 @@ The "alligator char" (#4) is critical. The black, blistered interior of a #4-cha
 - **Cutting too aggressively before barrelling.** The federal max is 62.5% ABV into the barrel; cut all the way to 40% before aging and the spirit doesn't extract enough oak character.
 - **Reusing a barrel for bourbon.** A used barrel produces "whiskey" not "bourbon". The new-barrel rule is federal.
 
+## Cocktails
+
+Bourbon is the foundation of half of America's classic cocktails:
+
+- **[Old Fashioned](../../drinks/cocktails/old-fashioned.md):** the bourbon cocktail, dating to the 1880s. Sugar, bitters, bourbon and an orange peel.
+- **[Manhattan](../../drinks/cocktails/manhattan.md):** technically a rye drink but bourbon is the standard sub-in. Sweeter and rounder with bourbon.
+- **[Whisky Sour](../../drinks/cocktails/whisky-sour.md):** bourbon, lemon juice, sugar syrup, optional egg white. The summer evening drink.
+- **[Mint Julep](../../drinks/regional/america/mint-julep.md):** the Kentucky Derby cocktail. Bourbon over crushed ice with sugar and a fistful of mint.
+- **[Bourbon Milk Punch](../../drinks/regional/mississippi/bourbon-milk-punch.md):** the brunch classic of the American South.
+- **[Mississippi Punch](../../drinks/regional/mississippi/mississippi-punch.md):** a heavier rum-and-bourbon punch.
+
 ## See also
 - [Whisky (the umbrella)](whisky.md) - the general process this recipe is built on
 - [Tennessee whiskey](tennessee-whiskey.md) - bourbon plus the Lincoln County Process

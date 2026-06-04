@@ -28,7 +28,7 @@ A Burmese aubergine dish, the kind of thing that turns up on a weekday table nex
 - 60 ml hot water
 - 3 tablespoons unsalted peanuts (lightly toasted, roughly crushed)
 - 2 tablespoons crispy fried shallots (to finish)
-- 1 small handful fresh cilantro (chopped)
+- 1 small handful fresh coriander (chopped)
 
 ## Method
 
@@ -55,7 +55,7 @@ A Burmese aubergine dish, the kind of thing that turns up on a weekday table nex
 ### Stage 5 - Finish
 1. Off the heat, stir in half the crushed peanuts.
 1. Tip into a serving bowl.
-1. Top with the remaining peanuts, fried shallots and cilantro.
+1. Top with the remaining peanuts, fried shallots and fresh coriander.
 
 ### Stage 6 - Serve
 1. Eat with white rice and a side of curry.

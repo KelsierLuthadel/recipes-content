@@ -19,7 +19,7 @@ Catrachitas are the Honduran snack named for the country's people themselves (ca
 - 300 ml vegetable oil for shallow frying
 - 200 g warm refried beans
 - 150 g queso fresco, cotija cheese (or feta, crumbled)
-- 100 ml chimol (tomato-onion-cilantro relish) or salsa picante (optional)
+- 100 ml chimol (tomato-onion-fresh coriander relish) or salsa picante (optional)
 - 1 avocado (sliced, optional)
 - Salt
 

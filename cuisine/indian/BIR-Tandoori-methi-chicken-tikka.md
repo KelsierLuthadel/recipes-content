@@ -23,7 +23,7 @@ BIR tandoori methi chicken tikka is the restaurant tandoori starter, marinated c
 - 1 tbsp cumin seeds
 - 250 g (1 cup) Greek yoghurt
 - 2 tbsp garlic and ginger paste (total, including initial rub)
-- 5 tbsp finely chopped coriander (cilantro) leaves
+- 5 tbsp finely chopped coriander (fresh coriander) leaves
 - 1 tbsp green chilli paste
 - 1 tbsp red chilli powder
 - 1 tbsp [Garam Masala](Spice-Mixes/garam-masala.md)

@@ -35,7 +35,7 @@ BIR chicken dhansak is a British restaurant classic with sweet-sour notes of pin
 - 1-2 lemons, to taste (juice)
 
 ### Finish
-- 3 tbsp chopped coriander (cilantro)
+- 3 tbsp chopped coriander (fresh coriander)
 
 ## Method
 

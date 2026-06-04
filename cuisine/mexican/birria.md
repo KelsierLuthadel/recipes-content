@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours 30 minutes
 
 ## Overview
-Birria is a Mexican braise of long, patient ambition. Originally a goat or lamb dish from Jalisco, it has long since adopted beef in much of Mexico and almost entirely in the popular taco version. The flavour comes from a layered chile base: guajillo for fruit and colour, ancho for raisin sweetness, pasilla for earthy depth, and a handful of arbol for a sharper heat. These are simmered with onion, garlic, cinnamon and peppercorns, blended smooth with chipotles in adobo and fire-roasted tomato, then poured over seared chuck and short rib for a long oven braise. Three hours later the meat is meltingly tender, sitting in a rust-red consomme that is the whole point: ladled over the shredded beef in a bowl, scattered with raw onion, cilantro and lime, or used to dip crisp taco shells for the now-iconic quesabirria. The recipe takes time but very little technique; almost everything happens unattended in the oven. Plan ahead and make it a day in advance so the flavours settle and the fat lifts cleanly off the top before you reheat.
+Birria is a Mexican braise of long, patient ambition. Originally a goat or lamb dish from Jalisco, it has long since adopted beef in much of Mexico and almost entirely in the popular taco version. The flavour comes from a layered chile base: guajillo for fruit and colour, ancho for raisin sweetness, pasilla for earthy depth, and a handful of arbol for a sharper heat. These are simmered with onion, garlic, cinnamon and peppercorns, blended smooth with chipotles in adobo and fire-roasted tomato, then poured over seared chuck and short rib for a long oven braise. Three hours later the meat is meltingly tender, sitting in a rust-red consomme that is the whole point: ladled over the shredded beef in a bowl, scattered with raw onion, fresh coriander and lime, or used to dip crisp taco shells for the now-iconic quesabirria. The recipe takes time but very little technique; almost everything happens unattended in the oven. Plan ahead and make it a day in advance so the flavours settle and the fat lifts cleanly off the top before you reheat.
 
 ## Ingredients
 
@@ -45,7 +45,7 @@ Birria is a Mexican braise of long, patient ambition. Originally a goat or lamb 
 - 4 bay leaves
 
 ### To serve
-- Fresh cilantro, chopped
+- Fresh coriander, chopped
 - White onion, finely diced
 - Lime wedges
 - Warm corn tortillas (optional)
@@ -89,7 +89,7 @@ Birria is a Mexican braise of long, patient ambition. Originally a goat or lamb 
 1. Shred with two forks, discarding fat caps and bones.
 1. Pluck out the bay leaves from the consomme.
 1. Return the shredded beef to the pot and stir through the broth.
-1. Serve as a bowl topped with chopped onion, cilantro and lime, or with warm tortillas for tacos.
+1. Serve as a bowl topped with chopped onion, fresh coriander and lime, or with warm tortillas for tacos.
 
 ## Notes
 - **All chuck works too:** if you cannot find short ribs, use 1.8 kg total of chuck roast; the dish is slightly leaner but still excellent.

@@ -37,7 +37,7 @@ BIR chicken pathia is the British-Indian-Restaurant sweet-and-sour curry, lemon 
 - 1 tsp dried fenugreek leaves (kasoori methi)
 - 1-2 lemons, to taste (juice)
 - Red food colouring powder (optional)
-- 3 tbsp chopped coriander (cilantro)
+- 3 tbsp chopped coriander (fresh coriander)
 
 ## Method
 

@@ -37,7 +37,7 @@ Classic Thai restaurant favorite with red curry paste. Color from chillies; use 
 - 1 tbsp palm sugar
 
 ### Garnish
-- Coriander (cilantro) leaves
+- Coriander (fresh coriander) leaves
 - 1 tsp roasted Thai chilli oil, to garnish (optional)
 
 ## Method

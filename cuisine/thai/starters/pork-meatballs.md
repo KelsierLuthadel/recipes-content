@@ -22,7 +22,7 @@ These meatballs are packed with delicious flavours. I like to serve them with a 
 - 2 ½cm (1in) piece of galangal, finely chopped
 - 3 red bird’s eye chillies, finely chopped
 - 3 lime leaves, stalks removed and leaves finely chopped
-- 30g (1 cup) fresh coriander (cilantro), finely chopped
+- 30g (1 cup) fresh coriander (fresh coriander), finely chopped
 
 ### Protein
 - 500g (1lb) minced (ground) pork
@@ -46,7 +46,7 @@ These meatballs are packed with delicious flavours. I like to serve them with a 
 2. Add the spring onions (scallions), garlic, galangal, chillies and lime leaves and pound until you have a nice paste and the ingredients are thoroughly combined. This should only take about 5 minutes.
 
 ### Stage 2 - Mix Meatballs
-1. Transfer to a bowl and add the honey or palm sugar, fish sauce, coriander (cilantro) and pork, then mix this all up with your hands. For a finer finish, you can blend this mixture in a food processor.
+1. Transfer to a bowl and add the honey or palm sugar, fish sauce, coriander (fresh coriander) and pork, then mix this all up with your hands. For a finer finish, you can blend this mixture in a food processor.
 2. Form into about twenty balls roughly 3 ¾cm (1 ½in) in diameter. At this point you could use them in a soup by simmering them in the broth.
 
 ### Stage 3 - Cook

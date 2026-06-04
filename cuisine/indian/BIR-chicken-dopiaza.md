@@ -39,7 +39,7 @@ BIR chicken dopiaza is the curry built on two distinct onion textures (the name 
 - 1 tsp dried fenugreek leaves (kasoori methi)
 - Salt, to taste
 - 1 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
-- Small bunch coriander (cilantro), chopped
+- Small bunch coriander (fresh coriander), chopped
 - 2 handfuls fried onions
 
 ## Method

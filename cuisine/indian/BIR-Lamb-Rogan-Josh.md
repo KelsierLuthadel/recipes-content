@@ -43,7 +43,7 @@ BIR lamb rogan josh is the British-Indian-Restaurant take on the classic Kashmir
 - 2-3 tbsp raw cashew paste
 - 3 tbsp plain yoghurt, plus extra to garnish
 - Salt, to taste
-- 3 tbsp chopped coriander (cilantro) leaves
+- 3 tbsp chopped coriander (fresh coriander) leaves
 
 ## Method
 

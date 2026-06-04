@@ -92,7 +92,7 @@ Chinese scallion pancakes (actually made without scallions here, though they can
 
 ## Variations
 **Scallion Pancakes (Traditional):** Add ¼ cup finely chopped scallions (green onions) to the sesame oil before spreading between dough balls.
-**Savory Toppings:** Sprinkle finely chopped cilantro, chives, or white pepper before rolling together.
+**Savory Toppings:** Sprinkle finely chopped fresh coriander, chives, or white pepper before rolling together.
 **Spicy:** Add chilli oil instead of plain sesame oil for heat.
 **Parmesan Version:** Mix sesame oil with grated Parmesan cheese for umami richness.
 **Whole Wheat:** Replace half the all-purpose flour with whole wheat flour for nuttier flavor.

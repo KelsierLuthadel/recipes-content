@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Myanmar's coconut-chicken noodle soup, the dish closest in spirit to a Thai khao soi but with its own Burmese identity. You poach chicken thighs in stock with shallot, garlic, ginger and turmeric for twenty-five minutes, lift them out and shred the meat. The stock cooks down with coconut milk, fish sauce and paprika, thickened with a slurry of chickpea flour and water into a silky soup. Yellow egg noodles cook separately. Everything piles into the bowl at the end: noodles first, soup ladled over, shredded chicken in the middle, then heaping garnishes (sliced shallot, crispy fried shallot, halved boiled egg, lime wedges, cilantro, chilli flakes). The garnishes are half the dish; eat with chopsticks in one hand and a spoon in the other.
+Myanmar's coconut-chicken noodle soup, the dish closest in spirit to a Thai khao soi but with its own Burmese identity. You poach chicken thighs in stock with shallot, garlic, ginger and turmeric for twenty-five minutes, lift them out and shred the meat. The stock cooks down with coconut milk, fish sauce and paprika, thickened with a slurry of chickpea flour and water into a silky soup. Yellow egg noodles cook separately. Everything piles into the bowl at the end: noodles first, soup ladled over, shredded chicken in the middle, then heaping garnishes (sliced shallot, crispy fried shallot, halved boiled egg, lime wedges, fresh coriander, chilli flakes). The garnishes are half the dish; eat with chopsticks in one hand and a spoon in the other.
 
 ## Ingredients
 
@@ -40,7 +40,7 @@ Myanmar's coconut-chicken noodle soup, the dish closest in spirit to a Thai khao
 - 4 hard-boiled eggs (halved)
 - 100 g crispy fried shallots (from a packet, or home-fried)
 - 1 red onion (small, sliced thin)
-- 1 small handful fresh cilantro (chopped)
+- 1 small handful fresh coriander (chopped)
 - 4 spring onions (sliced)
 - 2 limes (cut into wedges)
 - 4 dried red chillies (small, broken into flakes)
@@ -72,7 +72,7 @@ Myanmar's coconut-chicken noodle soup, the dish closest in spirit to a Thai khao
 ### Stage 5 - Plate
 1. Divide noodles between four wide bowls.
 1. Ladle the hot soup with shredded chicken over the top.
-1. Top each bowl with ½ boiled egg, a small handful of fried shallots, sliced raw onion, cilantro and spring onion.
+1. Top each bowl with ½ boiled egg, a small handful of fried shallots, sliced raw onion, fresh coriander and spring onion.
 1. Sprinkle with chilli flakes; place a lime wedge alongside.
 
 ### Stage 6 - Eat

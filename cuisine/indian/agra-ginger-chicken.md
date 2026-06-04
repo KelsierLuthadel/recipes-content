@@ -42,7 +42,7 @@ A light, cleansing chicken curry from Agra with fresh ginger, warm spices and br
 ### Greens and garnish
 - 200 g (7 oz) baby spinach, washed
 - 1 lime (zest)
-- 1 small bunch fresh coriander (or cilantro), leaves and stalks roughly chopped
+- 1 small bunch fresh coriander (or fresh coriander), leaves and stalks roughly chopped
 
 ## Method
 

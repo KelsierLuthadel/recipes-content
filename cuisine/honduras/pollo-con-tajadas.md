@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Pollo con tajadas is the Honduran lunch-counter staple, fried chicken on a bed of sweet plantains with a curtido slaw and a chimol salsa, the kind of plate that feeds you for the afternoon. Bone-in chicken pieces marinate in lime, garlic, achiote and cumin; flour and fry until deep gold and crisp-skinned. Ripe (or green) plantains slice into long tajadas and fry until soft and sweet. A quick curtido of cabbage, onion and vinegar provides crunch; a chunky chimol of tomato, onion and cilantro provides freshness. Plate, top, drizzle, serve, eat with your fingers.
+Pollo con tajadas is the Honduran lunch-counter staple, fried chicken on a bed of sweet plantains with a curtido slaw and a chimol salsa, the kind of plate that feeds you for the afternoon. Bone-in chicken pieces marinate in lime, garlic, achiote and cumin; flour and fry until deep gold and crisp-skinned. Ripe (or green) plantains slice into long tajadas and fry until soft and sweet. A quick curtido of cabbage, onion and vinegar provides crunch; a chunky chimol of tomato, onion and fresh coriander provides freshness. Plate, top, drizzle, serve, eat with your fingers.
 
 ## Ingredients
 
@@ -43,7 +43,7 @@ Pollo con tajadas is the Honduran lunch-counter staple, fried chicken on a bed o
 ### Chimol
 - 3 ripe tomatoes (finely diced)
 - 1 white onion (small, finely diced)
-- 3 tablespoons fresh cilantro (chopped)
+- 3 tablespoons fresh coriander (chopped)
 - 1 lime (juice)
 - ½ teaspoon salt
 
@@ -61,7 +61,7 @@ Pollo con tajadas is the Honduran lunch-counter staple, fried chicken on a bed o
 1. Combine cabbage, carrot, onion, vinegar, salt and oregano in a bowl; toss; let sit 30 minutes.
 
 ### Stage 3 - Chimol
-1. Mix tomato, onion, cilantro, lime juice and salt. Set aside.
+1. Mix tomato, onion, fresh coriander, lime juice and salt. Set aside.
 
 ### Stage 4 - Fry the chicken
 1. Pat the marinated chicken dry; dust lightly with flour.

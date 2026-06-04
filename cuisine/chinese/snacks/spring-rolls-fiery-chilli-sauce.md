@@ -65,7 +65,7 @@ These spring rolls are the dinner-party version of the takeaway classic: slim, c
 
 ## Serving
 Serve with: Fiery chilli sauce, lettuce cups, fresh herbs
-Garnish with: Cilantro sprigs and lime wedges
+Garnish with: Fresh coriander sprigs and lime wedges
 Accompaniment: Extra sauce for generous dipping, jasmine tea
 
 ## Storage

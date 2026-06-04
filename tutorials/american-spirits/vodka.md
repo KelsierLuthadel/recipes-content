@@ -121,6 +121,18 @@ Family-scale infusion timeline:
 
 Use about 50-100 g of ingredient per 750 ml of vodka. Steep at room temperature, in a sealed glass jar, shaking daily. Strain through cheesecloth and a fine sieve.
 
+## Cocktails
+
+Vodka's clean canvas makes it the most-used spirit in the modern cocktail bar:
+
+- **[Bloody Mary](../../drinks/cocktails/bloody-mary.md):** the brunch classic. Vodka, tomato juice, lemon, horseradish, hot sauce, celery stalk.
+- **[Martini](../../drinks/cocktails/martini.md) (vodka):** the modern vodka martini. Vodka, dry vermouth, olive or lemon twist. Cold as it is possible to serve.
+- **[Cosmopolitan](../../drinks/cocktails/cosmopolitan.md):** vodka, triple sec, cranberry, lime. The 1990s favourite.
+- **[Espresso Martini](../../drinks/cocktails/espresso-martini.md):** vodka, espresso, coffee liqueur, sugar syrup. The dinner-party closer.
+- **[Black Russian](../../drinks/cocktails/black-russian.md) / [White Russian](../../drinks/cocktails/white-russian.md):** vodka and Kahlua, with cream for the white version.
+- **[Long Island Iced Tea](../../drinks/cocktails/long-island-iced-tea.md):** vodka alongside gin, rum, tequila, triple sec, lemon and cola. Tastes nothing of vodka but couldn't exist without it.
+- **[Sex on the Beach](../../drinks/cocktails/sex-on-the-beach.md):** vodka, peach schnapps, cranberry, orange juice.
+
 ## See also
 - [Grain alcohol](grain-alcohol.md) - the higher-proof cousin (95%+ ABV) used as a base for tinctures and infusions
 - [Flavoured moonshine](flavoured-moonshine.md) - the rougher-edged version of flavoured vodka

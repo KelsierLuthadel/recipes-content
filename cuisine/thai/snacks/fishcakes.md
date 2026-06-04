@@ -19,7 +19,7 @@ Thai fishcakes (often called ‘tod mun pla’ on menus) are known for their spo
 - 500g (1lb 2oz) meaty fish fillets, such as lemon sole, cod or salmon, skinned
 
 ### Aromatics
-- 1 tbsp finely chopped coriander (cilantro) (optional)
+- 1 tbsp finely chopped coriander (fresh coriander) (optional)
 - 3 lime leaves, stalks removed and finely julienned
 - 2 spring onions (scallions), thinly sliced
 - 8 green (string) beans, thinly sliced

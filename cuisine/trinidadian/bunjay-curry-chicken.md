@@ -30,7 +30,7 @@ A dry curry rather than a saucy one, "bunjay" is Trinidadian patois for "fry-dow
 - ¾ tablespoon anchar masala (or garam masala)
 - 1 tomato (small, grated)
 - 2 tablespoons water
-- 2 tablespoons chopped cilantro
+- 2 tablespoons chopped fresh coriander
 
 ## Method
 
@@ -62,7 +62,7 @@ A dry curry rather than a saucy one, "bunjay" is Trinidadian patois for "fry-dow
 
 ### Stage 6 - Serve
 1. Discard the whole Scotch bonnet (or chop it in for the brave).
-1. Scatter cilantro over.
+1. Scatter fresh coriander over.
 1. Serve with rice and dhal.
 
 ## Notes

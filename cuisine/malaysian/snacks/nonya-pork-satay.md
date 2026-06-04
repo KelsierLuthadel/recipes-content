@@ -53,7 +53,7 @@ Indonesian-style pork satay featuring tender, spiced meat on bamboo skewers with
 
 ## Serving
 Serve with: Steamed rice, cucumber salad, and lime wedges
-Garnish with: Fresh cilantro leaves and thin red chilli slices
+Garnish with: Fresh coriander leaves and thin red chilli slices
 Accompaniment: Extra peanut sauce on the side for dipping
 
 ## Storage

@@ -79,7 +79,7 @@ The combination of spices and tomato gives this rice its distinctive yellow-oran
 
 ## Variations
 **With corn:** Add 100g sweetcorn kernels (fresh or frozen) in Stage 4 with the toasted rice
-**Cilantro version:** Stir in 2 tablespoons fresh coriander (chopped) just before serving for brightness
+**Fresh coriander version:** Stir in 2 tablespoons fresh coriander (chopped) just before serving for brightness
 **Extra spicy:** Increase cayenne pepper to ½ teaspoon or add diced fresh habanero for heat
 **With peppers:** Stir in ⅓ red bell pepper (finely diced) in Stage 3 with the jalapeños
 **Seafood-friendly:** Add 1 teaspoon saffron threads steeped in the warm stock for a delicate, aromatic version

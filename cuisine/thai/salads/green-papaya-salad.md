@@ -33,7 +33,7 @@ Famous Thai salad (som tum) with sour, sweet, savory, and spicy flavors. Pounded
 - 6 baby plum tomatoes, halved
 
 ### Herbs
-- 2 tbsp finely chopped coriander (cilantro)
+- 2 tbsp finely chopped coriander (fresh coriander)
 - 2 tbsp Thai sweet basil (or any basil), roughly chopped
 
 ## Method
