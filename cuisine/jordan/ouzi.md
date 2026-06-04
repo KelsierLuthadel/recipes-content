@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Lamb mince is fried with onion, garlic, baharat, cinnamon, allspice and pine nuts. Basmati rice is cooked pilaf-style in a meat-spiced stock until almost done. Lamb and rice are folded together with peas, almonds and parsley. The filling is spooned into a phyllo-lined dome mould (or wide cake tin), the tops are folded over to seal, brushed with ghee, baked for 30 minutes until deep gold. Inverted onto a platter; sliced at the table.
+Jordan's celebration parcel: spiced lamb, rice, peas, almonds and pine nuts wrapped in phyllo or markook bread and baked into a golden dome that gets sliced at the table like a cake. The kind of dish you make for a houseful of guests, the visual centrepiece of a feast. You brown lamb mince hard with onion, baharat, allspice and cinnamon, then cook basmati rice pilaf-style in lamb stock with cinnamon stick and cardamom till just shy of done (the rice finishes in the bake; fully cooked rice gives mushy ouzi). Fold the lamb and rice together with peas, toasted almonds, pine nuts and parsley. Line a wide dish with overlapping phyllo sheets brushed in ghee, pack the filling firmly into the centre, fold the overhanging pastry over to enclose, crumple a few more sheets loosely on top for the decorative dome. Bake at 200°C till deep gold and crisp, rest 10 minutes, invert onto a wide platter. Slice into wedges, eat with yogurt and a salad.
 
 ## Ingredients
 

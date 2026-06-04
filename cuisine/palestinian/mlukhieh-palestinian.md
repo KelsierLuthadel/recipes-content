@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 20 minutes
 
 ## Overview
-Chicken thighs poach with onion, bay, cardamom and cinnamon to make a fragrant stock and tender meat. Finely chopped frozen mlukhieh leaves (the easiest way; sold at Middle Eastern shops) tip into the strained hot stock; simmer for 25 minutes. Meanwhile, a tarka: lots of crushed garlic and ground coriander fry in olive oil until fragrant and just gold. The tarka stirs into the simmering mlukhieh, this is the Palestinian signature step. Salt to season. Served over rice with the poached chicken alongside and a squeeze of lemon.
+Mlukhieh is the dark green summer stew of Palestinian kitchens, jute leaves chopped to ribbons and simmered into a chicken broth till the whole pot smells of garlic and coriander. You start by poaching bone-in chicken thighs with onion, bay, cardamom, cinnamon and peppercorns to build a clean, fragrant stock; the chicken comes out tender, the broth strains clear. Tip frozen finely chopped mlukhieh straight into the simmering stock (no need to defrost, drop it in frozen) and let it cook gently for 25 minutes till the soup darkens and just thickens. Meanwhile build the tarka, the Palestinian signature: lots of crushed garlic and ground coriander frying in olive oil till just gold, off the heat with fresh coriander and Aleppo pepper. Tip the tarka into the pot and listen for the hiss, that's the moment the dish becomes mlukhieh and not just a green soup. Don't boil hard at any stage or the leaves break and the texture goes lumpy; gentle simmer all the way through. Ladle over fluffy basmati rice with a piece of poached chicken alongside, a wedge of lemon, a scatter of vinegared red onion, and bread for mopping the bottom of the bowl.
 
 ## Ingredients
 

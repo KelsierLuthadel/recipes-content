@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Whole chickpeas are soaked overnight and simmered until tender (or pressure-cooked). The chickpea cooking liquor is measured and reserved as part of the rice cooking liquid. A fried-onion base is built in ghee with whole spices, ginger-garlic paste and ground spices, and the cooked chickpeas are folded in. Soaked basmati is toasted in the base, then the measured cooking liquor goes in for the steam. A scatter of fried onion and coriander finishes.
+A vegetarian Lahori workhorse, the dal-rice swap for a meatless lunch: basmati cooked in a fragrant onion-and-spice base with whole chickpeas folded through and the chickpea cooking liquor doing the work that meat stock does in a meat pulao. You soak dried chickpeas overnight, simmer them with whole spices for an hour till tender, drain and reserve the liquor (plain water gives a flat pulao; the spice-infused liquor is the depth). Fry sliced onion till deep golden, save a third for the finish, then bloom cinnamon, cardamom, cloves, bay and cumin seeds in the remaining onion. Ginger-garlic, green chilli, ground coriander, Kashmiri chilli and turmeric next, then the cooked chickpeas to absorb the spice, then soaked basmati toasted briefly in the spiced ghee, then exactly 800 ml of the strained liquor poured in. Bring to a boil, drop to lowest heat, lid down tight, 14 to 16 minutes without lifting; rest covered 12 minutes more. Fluff with a fork, scatter the reserved fried onions, fresh coriander and dried pomegranate seeds (anardana, the distinctly Lahori sour-sweet pop), squeeze lemon across. Serve with raita and a green chutney.
 
 ## Ingredients
 

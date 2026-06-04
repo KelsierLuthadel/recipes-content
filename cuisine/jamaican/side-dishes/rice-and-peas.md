@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Soaked kidney beans simmer with coconut milk, scallion, thyme, garlic, allspice and a whole scotch bonnet (left whole, never pierced). Once tender, rice goes in with stock to top up. The pot is covered; the rice steam-absorbs the bean broth; the scotch bonnet stays whole and is removed before serving.
+Despite the name, the "peas" here are red kidney beans, and the dish is what every Jamaican Sunday plate is built around. You soak the beans overnight, then simmer them in coconut milk with thyme, spring onion, garlic, allspice berries and a whole unpierced Scotch bonnet till they're tender and the broth carries every aromatic in the pot. Rice goes in next, with enough hot water to sit 2 cm above the surface, then a tight lid and the lowest heat for 20 minutes without lifting a finger. Off the heat, rest covered another 10 minutes so the rice finishes steaming in its own warmth. Fish out the chilli, the spring onions and the bare thyme stems, fluff with a fork: long-grain rice tinted faint pink from the bean liquid, scented with thyme, with just-perceptible Scotch bonnet warmth threading through. Pile alongside curried goat, brown stew chicken, jerk anything, or as a Sunday-lunch standalone with fried plantain.
 
 ## Ingredients
 

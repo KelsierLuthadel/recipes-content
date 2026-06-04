@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 15 minutes
 
 ## Overview
-Tomatillos, poblanos, jalapeños, garlic and onion roast under the grill until blackened in spots. Blended with coriander and lime to a green salsa. Pork shoulder cubes brown hard in a heavy pot, then simmer for 90 minutes in the green salsa with cumin, oregano and stock until the pork is fork-tender. Eaten with tortillas.
+The Mexican-American pork-and-tomatillo stew you'll find at every Tex-Mex diner and every Northern California kitchen: pork shoulder simmered in a roasted tomatillo-poblano-jalapeño salsa till the meat falls apart in a vivid green sauce. Roast the salsa, not raw, because raw tomatillos give a bright sharp one-dimensional sauce; blistering them under the grill gives the smoky depth that makes the dish. You char tomatillos, poblanos, jalapeños, peel-on garlic and quartered onion under the grill (or on a comal) till blackened in spots and softened. Peel the garlic, pulse everything with a big bunch of coriander, lime juice and salt to a coarse green sauce. Pat pork shoulder cubes dry, toss with cumin, oregano, salt and pepper, brown hard in batches in a heavy pot till they have crust. Soften chopped onion and garlic in the same pot, return the pork, pour over the salsa and stock with a couple of bay leaves. Cover and simmer low for an hour and 45 minutes to two hours till the pork is fork-tender (lean cuts dry out; shoulder has the connective tissue that breaks down to silky). Uncover for the last 15 minutes if the sauce is loose, reduce to coat. Spoon into wide bowls with diced white onion, coriander, sliced radish and crumbled queso fresco, pile warm corn tortillas on the table for wrapping or scooping.
 
 ## Ingredients
 

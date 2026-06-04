@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Mushroom (dried shiitake) and kombu (kelp) infuse hot water for the broth base. Garlic-and-ginger oil fries; miso paste, soy and mirin make the tare. Noodles cook fresh; everything assembles in deep bowls with toppings stacked artfully.
+A vegetable ramen built on a mushroom-and-kombu broth instead of the chicken or pork bones of meaty bowls, with miso for body and soy tare for backbone. You steep dried shiitake and a strip of kombu in hot water for 20 minutes; strain into a pot, save the rehydrated mushrooms (sliced, they're a topping later), add smashed spring onions, garlic and ginger to the broth, and simmer 25-30 minutes till it's deepened and slightly sweet. The tare goes straight into the bottom of each bowl: sesame oil whisked with white miso, soy, mirin, a splash of Shaoxing and a pinch of sugar. Tofu cubes fry in a separate pan till deep gold and toss with a tablespoon of soy; bok choy and sweet corn blanch in the noodle water; fresh ramen cooks two or three minutes. Pour broth over the tare bowl by bowl whisking briefly to emulsify, drop in the noodles, then stack everything on top: bok choy, corn, sliced shiitake, fried tofu, half a soft-boiled egg, a strip of nori, spring onions, sesame seeds, a few drops of chilli oil. Eat right away.
 
 ## Ingredients
 

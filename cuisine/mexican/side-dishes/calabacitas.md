@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Courgettes are diced and cooked with onion, garlic and roasted poblano until just tender, then sweetcorn and tomato are added to break down briefly. The dish is finished with crumbled queso fresco and coriander. Cumin and Mexican oregano sit underneath; the courgette stays just shy of mushy.
+A Mexican summer-squash sauté with sweetcorn, tomato and poblano: a bright vegetable side that holds its own next to grilled meat, finished with crumbled queso fresco and a squeeze of lime. The dish sits between vegetable and stew; the courgette stays just shy of mushy. You char a poblano directly over a flame for six to eight minutes till blackened, steam under cling film, rub off the skin, chop the flesh (skip the poblano and you lose the smoky backbone; a green bell is the second-best stand-in). Soften diced onion in olive oil with a pinch of salt for five minutes, add chopped garlic for a minute, then the diced courgette and chopped poblano. Cook six to eight minutes over slightly higher heat, stirring occasionally, till the courgette is tender but still holds shape. Stir in sweetcorn, chopped tomato, cumin, Mexican oregano, salt and pepper, cook four or five minutes more till the tomatoes break down into the dish and the corn is hot through. Transfer to a serving bowl, crumble queso fresco over (or feta as the closest UK substitute), scatter chopped coriander, serve with lime wedges.
 
 ## Ingredients
 - 1 poblano pepper (or green bell pepper if unavailable)

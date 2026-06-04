@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Kataifi pastry shreds are blitzed to a coarse rubble; mixed with melted ghee and a pinch of orange food colouring; spread across the bottom of a buttered tin. Akkawi cheese (rinsed of salt) is laid on top. Baked hot until the pastry browns. Cold rosewater syrup is poured over hot from the oven; the syrup soaks the pastry while the cheese stays soft. Crushed pistachios are scattered on top.
+Walk into a Nablus sweet shop late afternoon and this is what you smell: hot orange pastry, melted cheese, rosewater syrup hitting a tray that just came out of the oven. You blitz the kataifi to coarse rubble, toss it with melted ghee and a pinch of orange colouring, then press half of it firmly into a buttered tin. The desalted cheese goes in a soft layer, the rest of the pastry caps it, and you bake hot till the top is a deep orange-gold. The moment it leaves the oven, pour cold rosewater syrup over slowly: listen for the sizzle, that's the syrup soaking the pastry without softening the cheese underneath. Invert onto a wide platter so the bright orange shows, scatter chopped pistachios across the surface, cut while hot. Eat immediately and you'll get the cheese pull in long strings, with a glass of mint tea and another piece already cooling in front of you.
 
 ## Ingredients
 

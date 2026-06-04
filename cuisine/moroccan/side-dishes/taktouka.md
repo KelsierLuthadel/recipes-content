@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Red peppers char under a grill till blackened; peel; deseed; slice. Tomatoes blanch, peel, dice. Olive oil heats with garlic, cumin and sweet paprika; peppers and tomatoes go in; salt; cook for 25 minutes till the moisture has gone and the mixture is jammy and glossy. Coriander stirs in. Eats warm or room temperature.
+Morocco's smoky vegetable side, the small plate that lands on every Moroccan table from breakfast to dinner: roasted red peppers and tomatoes cooked down with garlic, cumin and paprika to a jammy, glossy spoonable relish, eaten warm or at room temperature with bread for scooping or alongside a tagine. The char on the peppers is the soul; under-charred peppers give a bland version, so char fully till the skins are blackened all over. You char the peppers under a hot grill or directly over a flame for eight to 10 minutes, seal in a covered bowl 10 minutes to steam, peel off the blackened skin, deseed and slice. Score a cross in the base of each tomato, blanch briefly in boiling water, peel and dice. Heat olive oil in a wide pan, soften garlic without colouring for 30 seconds, bloom sweet paprika, cumin and ground coriander for another. Add the diced tomatoes and cook eight to 10 minutes till broken down, add the sliced peppers and salt, cook 15 to 18 minutes stirring till the mixture is glossy, jammy and almost dry (watery taktouka is uncooked taktouka; keep going till the moisture has reduced and oil pools at the edges). Off the heat, stir in lemon juice and chopped coriander. Eat warm or room temperature, with bread or alongside a tagine; tastes better an hour after cooking and even better overnight.
 
 ## Ingredients
 - 4 red peppers (large, about 700 g)

@@ -11,7 +11,8 @@ tags:
   - eggs
   - lemon
   - complex
-mentions: []
+mentions:
+  - cuisine/filipino/desserts/leche-flan
 ingredients:
   - qty: 150
     unit: g

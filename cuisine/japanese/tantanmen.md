@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Three components assemble at service. (1) Niku miso: ground pork stir-fries with garlic, ginger, doubanjiang and miso, then sweetened with sugar and finished with sesame oil. (2) Tare (concentrated seasoning paste): white sesame paste (tahini), soy sauce, rice vinegar, chilli oil, miso paste, garlic, whisked together. (3) Hot soup: chicken stock with a touch more sesame paste and chilli oil swirled in. Ramen noodles cook separately. Bowls layered: tare in the bottom, hot soup ladled over, cooked noodles, mound of niku miso, blanched bok choy, soft-boiled marinated egg, scallions, extra chilli oil.
+Japan's take on dan-dan noodles: a brothy ramen built around a thick sesame-and-chilli tare, topped with spiced ground pork and a soft-boiled egg, the kind of bowl that warms you up and lights you up at once. Three components assemble at the table. The niku miso (the spiced pork) stir-fries with garlic, ginger, doubanjiang and red miso till the paste darkens and the meat is glazed. The tare goes straight into the bottom of each bowl: white sesame paste, soy, rice vinegar, chilli oil, miso, garlic, sugar, whisked into a glossy paste. The soup, chicken stock with a little extra sesame paste and chilli oil whisked through, ladles over the tare so the two emulsify into a creamy beige broth flecked with red. Drop in cooked ramen noodles, mound the niku miso on top, tuck blanched bok choy alongside, halve a marinated soft-boiled egg cut-side up, scatter spring onion greens and toasted sesame seeds. Eat fast and loud; the noodles soften within five minutes and Japan approves of slurping.
 
 ## Ingredients
 

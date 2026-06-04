@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Chicken thigh and spring onion are threaded alternately on bamboo skewers, grilled hot to char the outside while the centre stays juicy, and brushed repeatedly with a reduced soy-mirin-sake-sugar tare. Salt-only versions (shio) and tare-glazed (tare) are both classics.
+Skewered grilled chicken in a glossy soy-mirin tare: the izakaya bar snack at its purest, chicken thigh and spring onion charred over high heat and brushed repeatedly with a sticky house sauce. You start by reducing the tare, soy, mirin, sake and sugar with a smashed garlic clove and a slice of ginger, simmering for 10 minutes till it's syrupy and a third lighter. Thread chicken thigh chunks and 2 cm pieces of spring onion alternately onto bamboo skewers that have soaked half an hour in water (otherwise they char and snap on you). Salt lightly, then grill on the hottest setting four minutes a side till browned. Only now does the tare come in: brush both sides, turn for another two minutes, brush again, turn again, till the glaze has built up in lacquered layers and the chicken's centre is still juicy. Sprinkle with shichimi togarashi, brush one final coat of tare, eat straight off the skewer. Just chicken and onion is the classic; liver, skin and meatballs (tsukune) are the natural next steps if you're cooking a longer run.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The batter is the technique: ice-cold sparkling water, plain flour, an egg yolk, mixed barely, the lumps and undissolved flour are deliberate. Vegetables are dusted in flour first to grip the batter, then dipped and dropped into 175°C oil. Each piece fries for 90 seconds to 2 minutes. The dipping sauce of dashi, soy and mirin warms; daikon and ginger grate fresh.
+The vegetable side of tempura: sweet potato, kabocha, aubergine, mushrooms, green beans, all coated in barely-mixed ice-cold batter and dropped for under two minutes apiece into 175°C oil. The result is a paper-thin lacy crust that shatters when you bite, the vegetables emerging just cooked, distinct from each other. You chill the flour and the sparkling water (cold cold cold is the whole point of tempura), whisk one egg yolk into the water, then mix the flour in with four or five strokes only; smooth batter develops gluten and goes chewy, and you want the opposite. Dust each piece in plain flour to grip the batter, dip, let the excess drip, slip it into the oil. Pale gold is the colour, never deep brown; lift onto a wire rack and salt lightly. Tentsuyu warms in a small pan and ladles into individual bowls, with daikon and ginger grated fresh at the table for guests to stir in to taste. Eat the moment they come off the rack; tempura goes soggy within minutes.
 
 ## Ingredients
 

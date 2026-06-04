@@ -11,7 +11,7 @@
 **Total Time:** 1-2 hours (quick brining)
 
 ## Overview
-Three asazuke pickles in one batch. Cucumber: salted heavily, weighted for 1 hour, water squeezed out, dressed with rice vinegar, kombu and sesame seeds. Daikon: thinly sliced, salted briefly, then bathed in a sweet rice-vinegar pickle for an hour. Cabbage: salted with shiso (or substitute basil + a pinch of fennel), pressed under a plate weight to wilt for 30 minutes. Served in three small individual bowls.
+The small bowl of pickles that lands beside almost every Japanese meal: bright, salty, vinegared, a foil to the rice and the warmth of the main. These are asazuke (shallow pickles), the same-day quick brines rather than the long-fermented takuan or umeboshi; you can make all three of these in an afternoon for dinner. Cucumber salts under a weight for an hour, releases its water, then dresses with rice vinegar, kombu and sesame. Daikon slices salt briefly, rinse, and bathe in a sweet rice-vinegar pickle with lemon zest. Cabbage salts and softens under a small plate weight with shiso leaves (or basil with a pinch of fennel if you can't find shiso) and a splash of mirin. The technique is salt then weight then drain: the salt draws out water, the weight compresses, and what's left is concentrated vegetable with the seasonings clinging. Serve each pickle in its own small bowl, cold, alongside rice and miso soup.
 
 ## Ingredients
 

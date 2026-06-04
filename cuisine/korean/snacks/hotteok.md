@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A wet yeasted dough, combining plain flour, sweet rice flour, yeast, milk and a little oil, rises for 1 hour. Filling: dark muscovado, cinnamon, chopped peanuts. Dough divides into 8 oily balls; each flattens in the palm, fills with a heaped tablespoon of sugar mix, pinches shut. Pan-fries seam-side-down in oil; presses flat with a heavy spatula; flips; cooks the other side. Eats hot.
+Korea's winter street pancake, the steam-rising thing you queue for at Seoul food markets when the temperature drops: a yeasted disc filled with dark muscovado, cinnamon and chopped peanuts that melt to molten caramel as it griddles. You make a wet yeasted dough from plain flour, sweet rice flour, yeast and warm milk (too wet to knead conventionally, you stir it in the bowl till it's a sticky mass), rise an hour till doubled and bubbly. Oil your hands generously; the dough slips off your fingers, oil is what makes it workable. Scoop 70 g portions directly from the bowl, flatten in your palm, drop a heaped tablespoon of the muscovado-cinnamon-peanut filling in the centre, gather the edges up and pinch firmly at the top so the seam seals (any gap and the sugar leaks into the pan and burns). Place seam-down in a hot oiled pan, cook a minute, then press flat with a heavy spatula or small saucepan lid to about 1 cm thick. Don't roll; rolling tears the seam. Two minutes a side till deep gold, lift onto a wire rack. Eat hot, carefully; the molten centre is the entire point and also volcano-hot.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 1 ½ hours
 
 ## Overview
-Yellow sweet potatoes (boniato or the Caribbean white-fleshed variety if you can find them; otherwise ordinary orange sweet potatoes work) are peeled and finely grated. Combined with coconut milk, brown sugar, plain flour, raisins, mixed peel, vanilla, nutmeg, allspice and a glug of dark rum. Baked low and slow until set but still slightly wobbly in the middle. Cooled completely before slicing, this is essential, as a warm pudding falls apart.
+The Jamaican Sunday-afternoon pudding, dense and fudge-like with a glossy crust top and bottom and a soft middle that's so distinctive the dish has a nickname: "Hell-a-Top, Hell-a-Bottom, Hallelujah in the Middle", from the original method of baking it in an iron pot with coals piled on the lid. You peel and finely grate yellow sweet potato (boniato if you can find it, ordinary orange sweet potato if you can't), then fold it through coconut milk, dark brown sugar, raisins and candied peel, a glug of dark rum, vanilla, nutmeg and allspice. It bakes low and slow till the edges set and the centre is still a little wobbly, then a coconut-milk glaze goes over the top and you give it another 25 minutes to crust. Cool it completely before you slice; a warm pudding collapses, but a cold one cuts into firm fudgy squares. Eat it with a cup of strong Jamaican coffee, a glass of sorrel at Christmas, or a small spoonful of coconut cream if you're feeling indulgent.
 
 ## Ingredients
 

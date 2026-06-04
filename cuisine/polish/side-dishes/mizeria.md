@@ -11,7 +11,7 @@
 **Cook Time:** none
 
 ## Overview
-Cucumber slices very thin, salts for 20 minutes to draw out water, then squeezes dry. The squeeze is the technique, without it, the dressing ends up a watery puddle. The drained cucumber tosses with sour cream, lemon juice or white vinegar, plenty of fresh dill, a little sugar and pepper. Eats cold, on the day.
+Mizeria is the cooling Polish summer side, paper-thin cucumber salted to weep out water and tossed in tangy sour cream with plenty of fresh dill, eaten next to whatever heavy thing is being served (roast pork, kotlet schabowy, pierogi, dumplings) to give the plate some lightness. The whole dish lives or dies on one technical move: slice the cucumbers as thinly as you can manage on a mandoline or with a sharp knife (2 mm or less), toss with a teaspoon of salt in a colander over a bowl, and let them weep for 20 minutes. Then gather the slices into a clean tea towel, twist hard over the sink and squeeze till barely any more water comes out (skip this and the dressing turns into a watery puddle within five minutes). Whisk thick full-fat sour cream with a tablespoon of white wine vinegar or lemon juice, a teaspoon of sugar for balance, salt, pepper and a generous handful of finely chopped dill (without dill it's just cucumber in cream, use plenty). Pour the dressing over the squeezed cucumbers, toss gently, taste and adjust, then scatter the rest of the dill and a few snipped chives across the top. Chill ten minutes and serve cold the same day, the longer it sits the more the cucumbers weep again and the salad softens, so make right before everyone sits down.
 
 ## Ingredients
 

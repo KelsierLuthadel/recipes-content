@@ -11,6 +11,7 @@ tags:
   - complex
 mentions:
   - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ingredients:
   - qty: 400
     unit: g

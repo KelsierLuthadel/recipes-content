@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A spice paste of shallots, garlic, ginger, lemongrass and turmeric is fried in oil. Coconut milk and water simmer with the paste; pumpkin or squash goes in first to soften, beans and aubergine follow, and tofu joins last. The broth thickens lightly; salt and a squeeze of lime finish.
+Malaysia's everyday vegetables in coconut milk: a yellow-tinged, turmeric-bright broth with squash, beans, aubergine and tofu around a fragrant rempah base. Masak lemak means cooked rich, and the dish is exactly that, mild and creamy without being heavy. The kind of weeknight dinner that lands on every Malaysian table with rice. You blend a fresh rempah of shallots, garlic, ginger, fresh turmeric (or ground in half quantity, or it tastes musty), lemongrass and soaked dried red chillies to a smooth paste. Fry the paste in oil for five or six minutes till it darkens, the oil splits out and it smells aromatic. Add lime leaves and a bashed lemongrass stalk, pour in coconut milk and water, bring to a steady simmer (never a rolling boil; coconut milk splits at high heat). Add the pumpkin first to soften, then beans, aubergine and tofu cubes, simmer 8 minutes more till everything is tender. Salt, sugar and a squeeze of lime off the heat, taste and adjust. Eat hot with rice.
 
 ## Ingredients
 

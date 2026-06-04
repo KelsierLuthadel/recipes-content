@@ -11,7 +11,7 @@
 **Cook Time:** 1 ½ hours
 
 ## Overview
-Masa harina mixes with lard or butter, baking powder and stock into a fluffy dough. A red-chilli pork shoulder filling has been simmered separately. Soaked corn husks get a layer of dough, a spoon of filling, fold and tie. Steamed standing upright for an hour.
+Mexico's Christmas-and-Day-of-the-Dead labour: steamed parcels of seasoned masa wrapped in corn husks, the kind of project a family makes together in a marathon batch that fills the freezer for weeks. A base of fluffy masa dough holds a chilli-braised pork shoulder filling, all bound up and steamed standing upright for an hour. You simmer pork shoulder with onion and garlic till tender, reserve the cooking liquid. Toast dried guajillo and ancho chillies briefly, soak in just-boiled water till soft, blend with cumin, oregano, salt and a ladle of pork liquid to a smooth red sauce. Shred the pork, pour the chilli sauce over, cook in a pan five minutes to thicken. Beat lard with a wooden spoon till fluffy (or stand mixer), mix in masa harina, baking powder, salt and warm stock, then beat five minutes more till a half-teaspoon of dough floats in cold water (this is the float test; dough that sinks needs more beating). Soak dried corn husks in hot water 30 minutes till pliable. Spread two tablespoons of masa across the upper centre of each husk, spoon a tablespoon of filling along the middle, fold the long sides to overlap and the pointed bottom up to seal (top stays open). Stand the tamales open-end up in a large steamer, steam for an hour and 15 minutes, topping up water as needed. Test by unwrapping one; the masa should pull cleanly away from the husk. Serve hot in their husks, with extra salsa for unwrapping.
 
 ## Ingredients
 

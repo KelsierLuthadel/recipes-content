@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Split yellow moong dal (or chana dal, or a mix) is rinsed and pressure-cooked or simmered with turmeric until completely soft. The dal is mashed lightly to a porridge consistency. A second pan fries ghee with whole cumin, garlic, sliced green chilli, dried red chilli and curry leaves until the garlic just turns golden. The hot tarka is poured over the dal with a dramatic sizzle; coriander and lemon finish.
+The bowl-of-comfort that anchors every Punjabi lunch table: yellow lentils cooked soft to a porridge, then finished with a sizzling tarka of ghee, garlic, dried red chilli, cumin and curry leaves poured hot over the top so the whole pot sizzles when it lands. You rinse split yellow moong dal till the water runs clear, then simmer with turmeric, chopped tomato, grated ginger and a slit green chilli till the dal has completely broken down (30 to 40 minutes, or 12 to 15 in a pressure cooker). Mash lightly to a porridge consistency, loosen with hot water if needed. Make the tarka in a small pan: ghee over medium, cumin and black mustard seeds till the mustard pops, sliced garlic till just pale gold (brown garlic is bitter; pull the pan at pale gold and residual heat does the rest), dried red chillies broken in half, slit green chilli, curry leaves. Pull from the heat, stir in asafoetida and Kashmiri chilli powder off the heat (chilli powder burns in hot ghee, so off-heat is the rule). Pour the hot tarka over the dal in the serving bowl (the sizzle as it hits is the point); don't fully stir, let the diner mix the two with their first spoonful. Scatter coriander, squeeze lemon across, serve with steamed basmati or warm chapati.
 
 ## Ingredients
 

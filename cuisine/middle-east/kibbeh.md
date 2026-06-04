@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Two preparations: the bulgur-and-mince shell paste and the spiced cooked filling. The shell is shaped around a portion of filling into a football shape, then deep-fried until the outside is golden and the inside is hot and savoury. Served warm with yogurt or tahini.
+The Lebanese and Syrian national dish, sibling to fried versions across Jordan and the wider Levant: small football-shaped croquettes with a bulgur-and-lamb shell wrapped around a spiced lamb-and-pine-nut filling, deep-fried into amber-crisp ovals that get served warm with yogurt or tahini as part of a mezze spread. You soak fine bulgur (coarse gives a grainy shell; fine blends into a smooth paste), squeeze it dry, then blitz with lean lamb mince, very finely grated onion, cumin, allspice, cinnamon, salt and pepper into a smooth paste. Rest the shell mix 30 minutes in the fridge so it firms up. Make the filling separately: sauté chopped onion, brown a smaller amount of lamb mince, fold in toasted pine nuts, cinnamon, allspice and optional sumac, cool fully (warm filling tears the shell). Wet your hands and roll a heaped tablespoon of shell paste into a ball, make a deep thumb indent to form a hollow, fill with a teaspoon of cool filling, pinch the opening closed and shape into a football pointed at both ends. Deep-fry at 180°C for four or five minutes till the outside is deep golden and cooked through. Pile warm on a plate, serve with yogurt or tahini, lemon wedges and parsley.
 
 ## Ingredients
 

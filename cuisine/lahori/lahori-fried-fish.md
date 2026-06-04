@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Firm white fish is scored, rubbed with a spice paste of ginger-garlic, Kashmiri chilli, ajwain (carom), turmeric and lemon, and rested for ½ hour. A separate gram-flour batter (besan, rice flour, ajwain and a pinch of bicarb for crispness) is whisked to a thick coating consistency. Each fillet is dipped in the batter and shallow-fried in mustard oil until the crust deep-gold-crackles. Eaten with a heavy dusting of chaat masala and a squeeze of lemon.
+The Lahori winter-street classic, sold from Anarkali pavement stalls all through the colder months: firm white fish coated in a spiced gram-flour batter and shallow-fried till the crust shatters. Eaten with a heavy dusting of chaat masala, a squeeze of lemon and a green chutney. You score the fish, rub with a paste of ginger-garlic, Kashmiri chilli, ajwain, turmeric, cumin, lemon juice and smoked mustard oil (raw mustard oil is bitter, smoke it first and cool it). Rest 30 minutes. The batter is gram flour with a generous spoon of rice flour added for crunch (pure besan batter is dense; the rice flour gives Lahori fried fish its signature shatter), seasoned with ajwain, Kashmiri chilli, turmeric and a pinch of baking powder for lift. Heat the frying oil to 175°C (cooler gives an oil-logged crust, hotter browns the batter before the fish cooks through), dip each piece, let the excess drip back, lower into the oil for three or four minutes a side till the crust is deep golden. Lift onto a wire rack, not paper towels. Dust the hot fish heavily with chaat masala, pile onto a plate with lemon wedges and sliced onion, serve with green chutney.
 
 ## Ingredients
 

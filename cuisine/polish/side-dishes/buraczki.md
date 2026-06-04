@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour (mostly roasting)
 
 ## Overview
-Beetroots roast in foil until tender (or boil for the quicker route), then peel and grate coarsely. The grated beetroot warms gently in butter with finely chopped onion, a splash of vinegar or lemon juice, sugar and a generous spoon of horseradish. Tastes of earth and warmth. Eaten warm in winter, room temperature in summer.
+Buraczki is the deep-magenta beetroot side that turns up next to roast pork, kotlet schabowy and the Christmas Eve carp across Polish tables, sweet and sour and earthy in equal measure with a kick of fresh horseradish that announces the dish as unmistakably Polish. Roast whole beetroots wrapped loosely in foil at 200°C for an hour till a knife slides through without resistance (roasting keeps the sweet earthiness; boiling waters it down). Let them rest ten minutes, then rub off the skins under cold running water with kitchen paper while still warm (wear gloves or your hands stain pink for two days). Coarsely grate the warm peeled beetroots on a box grater. Soften finely chopped onion in butter for eight minutes till translucent and just gold, tip in the grated beetroot, then stir through white wine vinegar, sugar, grated fresh horseradish and an optional pinch of caraway. Warm through four or five minutes till everything glistens and smells sweet-sharp, then taste and balance: more sugar if too sharp, more vinegar if flat, more horseradish if the heat needs lifting. Scatter chopped dill if you like and serve warm in winter alongside roast pork and mashed potato, or at room temperature in summer next to grilled kielbasa and dark rye bread.
 
 ## Ingredients
 

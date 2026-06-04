@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Salt cod is soaked overnight (or boiled in two changes of water) to draw out the salt, then flaked and folded into a thick batter of flour, baking powder, water, spring onion, garlic, thyme, scotch bonnet, and a little black pepper. Dropped by the heaped tablespoon into hot oil and fried until deep golden. Served hot with a squeeze of lime or a dollop of pepper sauce.
+The Jamaican street snack known as "stamp and go", the name the dockworkers gave them in the days when you'd grab one at the harbour and keep walking. You soak salt cod overnight (or two short boils if you're short on time) to draw out the salt, then flake the fish and fold it through a thick batter of flour, baking powder, water, spring onion, garlic, fresh thyme, Scotch bonnet and a chopped tomato. Drop the batter by heaped tablespoons into hot oil, fry till the underside is deep gold, flip till the second side catches up, and lift onto kitchen paper. You're after fritters that drop slowly off the spoon (too thin and they go flat and oily; too thick and you get doughy middles) and that taste pleasantly savoury rather than aggressively salty. Eat them hot from the oil with a squeeze of lime and a slick of Jamaican pepper sauce, or as part of a fuller breakfast plate alongside ackee, fried plantain and fried dumplings.
 
 ## Ingredients
 

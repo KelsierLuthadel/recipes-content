@@ -11,7 +11,7 @@
 **Cook Time:** 1 ½ hours
 
 ## Overview
-Lamb shoulder cubes simmer slow with chickpeas, lentils, tomatoes, vermicelli noodles, and a heavy spice mix (ginger, cinnamon, turmeric, cumin) in a generous broth. The soup is finished by adding the noodles in the last 10 minutes and a final scatter of fresh coriander, parsley and lemon juice.
+The Moroccan tomato-and-lentil soup that breaks the Ramadan fast at every iftar table: lamb shoulder, chickpeas, lentils, tomatoes, vermicelli noodles and a heavy spice mix of ginger, cinnamon, turmeric and cumin simmered together into a thick fragrant broth, finished with coriander, parsley and lemon juice. Equally good year-round on a cold evening. You brown lamb shoulder cubes in batches in a heavy pot for the colour, set aside. Soften onion and chopped celery in the same oil for 10 minutes, add garlic, ginger and the spice mix (cinnamon, cumin, paprika, turmeric, pepper, saffron) for a minute, stir in tomato puree for another. Return the lamb, add tinned tomatoes, drained chickpeas, rinsed lentils and stock, simmer covered for an hour till the lamb is tender and the lentils are soft. Add vermicelli noodles in the last 10 minutes (earlier and they dissolve into starch). Off the heat, stir in chopped coriander, parsley and a generous squeeze of lemon (the lemon brightens the spice and restores balance after the long simmer). Taste for salt. Ladle into deep bowls, serve with lemon wedges and crusty bread.
 
 ## Ingredients
 

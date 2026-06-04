@@ -8,7 +8,6 @@ tags:
   - meals
 mentions:
   - tutorials/pizza/dough
-  - tutorials/pizza/sauce
 ingredients:
   - qty: 500
     unit: g

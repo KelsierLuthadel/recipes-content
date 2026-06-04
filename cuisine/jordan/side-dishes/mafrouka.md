@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Fine semolina is toasted in butter; sugar syrup is poured in to hydrate; the mixture is cooked to a thick pudding; rose water and orange blossom water perfume. Spread into a tray, cooled to firm up. Ashta (Levantine clotted cream, or substitute clotted cream + mascarpone) is spread on top. Crushed pistachios are scattered heavy across the surface. Cut into squares.
+A Ramadan-iftar, Eid and wedding sweet, the kind of Jordanian pudding that lives on a glass dish at family celebrations. A buttery semolina base baked into a slab is topped with sweetened ashta (Levantine clotted cream perfumed with rose and orange-blossom water) and a snowdrift of crushed pistachios. You toast fine semolina (coarse gives gritty mafrouka) in butter till it turns pale gold and fragrant, hydrate with sugar syrup, cook to a thick paste that pulls from the pan sides. Perfume with rose and orange-blossom water, optionally bloomed saffron, then press into a tray and chill to firm up. Fold ashta (or clotted cream blended with mascarpone, the easy home substitute) with icing sugar and more floral waters, spread evenly across the cold base, scatter crushed pistachios so heavily it looks snow-covered. Cut into squares or diamonds, eat cool with Arabic coffee or strong black tea.
 
 ## Ingredients
 

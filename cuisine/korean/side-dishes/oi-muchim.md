@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Persian / Korean / English cucumbers slice into thick half-moons or julienne. Salt rests for 10 minutes; squeeze briefly. Dressing: gochugaru, soy sauce, garlic, rice vinegar, sesame oil, a touch of sugar, whisk together. Cucumber tosses with the dressing; rests for 10 minutes; sprinkles with sesame seeds and spring onion. Eats cool.
+A quick Korean banchan: cucumber tossed with gochugaru, garlic, soy, sesame oil and a touch of vinegar, bright red and sharp and garlicky and still crunchy. The dish that lands beside almost any Korean main, on the table within fifteen minutes from start to plate. You halve cucumbers lengthways, scoop out seeds if seedy, slice into thick half-moons or julienne. Toss with a teaspoon of salt and rest ten minutes; the salt draws out the water that would otherwise dilute the dressing in minutes. Squeeze gently. Whisk gochugaru, soy, rice vinegar, sugar, minced garlic and sesame oil till the chilli flakes hydrate and the dressing turns into a bright red paste; generic chilli flakes give a brown-orange ugly result, so make sure you have Korean coarse gochugaru. Toss the cucumber through, add sliced spring onion, rest ten more minutes for the colour and flavours to set. Scatter sesame seeds, eat cool; oi-muchim weeps within hours, so best served the same day you make it.
 
 ## Ingredients
 - 2 long cucumbers (about 400 g; Korean, Persian or English)

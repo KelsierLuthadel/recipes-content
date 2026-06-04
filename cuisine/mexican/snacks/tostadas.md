@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Corn tortillas are crisped: either deep-fried in 1 cm of oil at 180°C for 60 seconds per side, OR brushed with oil and baked at 200°C for 8-10 minutes (lower-fat option). Either way, the result is a flat crisp shell. Toppings build in layers: a base smear of refried beans, then a generous spoon of warm chicken tinga (or any seasoned protein), then cold fresh toppings, shredded lettuce, diced tomato, sliced red onion, sliced avocado, crumbled cotija. Crema drizzles over. Pickled jalapeño tops. Eat by hand (two-hand grip required).*
+Mexico's crisp tortilla plate: flat-fried tortillas built up in layers with refried beans, shredded chicken tinga, fresh salad and crumbled cheese, eaten by hand with a two-hand grip and a lime squeezed over. The shells live or die on the crisping; soggy tostadas are sad, so push for deep golden colour whether you fry or bake. You either deep-fry corn tortillas in 1 cm of oil at 180°C for 30 to 60 seconds a side till golden and crisp, or brush both sides with oil and bake at 200°C for 8 to 10 minutes till they curl slightly at the edges. Build a quick chicken tinga separately: soften sliced onion till tender, add chopped chipotles in adobo, tinned tomatoes, oregano, cumin and salt, simmer eight minutes to a thick sauce, fold through shredded poached chicken. Lay the shells out just before serving (pre-assembled tostadas go soggy within 10 minutes). Spread each with warm refried beans, pile chicken tinga on top, then shredded iceberg, diced tomato, sliced red onion, slices of avocado, crumbled cotija (or feta), a zigzag of crema, pickled jalapeño slices and coriander leaves. Plate two per person with lime wedges on the side.
 
 ## Ingredients
 

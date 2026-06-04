@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Skinned dried fava beans (or split peas as a substitute) simmer with garlic, cumin and a small amount of paprika until they completely break down. The soup is blended smooth, thinned to taste, and served with each bowl getting a generous topping of olive oil, ground cumin, paprika and chilli flakes. Bread is essential.
+Northern Morocco's street-food breakfast, sold from stalls in Chefchaouen and Fez in clay bowls with a deep slick of olive oil on top: a thick, smooth soup of dried fava beans cooked down to almost a porridge, served with cumin, paprika and chilli flakes scattered across, and warm bread for dipping. The olive oil at the end is the second main ingredient by flavour weight, so be generous. You soak skinned dried fava beans overnight (split fava beans or split broad beans, sold dried at North African and Middle Eastern grocers; yellow split peas work as a substitute but give a milder paler version), then simmer with garlic, cumin, sweet paprika and salt in 1.5 litres of water. After 50 to 60 minutes the beans fall completely apart; top up with water if it threatens to dry out. Blend smooth with a stick blender, thin with hot water to a porridge-like but pourable consistency, stir in olive oil and lemon juice off the heat. Taste and adjust salt, cumin and lemon. Ladle into wide bowls, top each with a deep slick of extra-virgin olive oil, a pinch of cumin and paprika and chilli flakes if you like. Eat hot with warm bread.
 
 ## Ingredients
 

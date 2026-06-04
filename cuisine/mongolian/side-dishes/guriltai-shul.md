@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Mutton on the bone simmers for 1 hour 15 minutes with onion, bay and a few peppercorns. Bones lift out; meat is shredded. Hand-cut noodles drop into the simmering broth with diced carrot and onion. 6 minutes later the noodles are tender and the dish is done. Salted to taste, garnished with chopped spring onion or dill.
+Mongolia's mutton noodle soup, the cold-day restorative that turns up at every ger and roadside diner across the steppe: a clear broth of slow-simmered mutton on the bone with hand-cut wheat noodles, diced carrot and onion. The bones are essential; boneless mutton makes a thin watery soup, while bone-in cuts give the broth its body (lamb necks work very well too). You simmer mutton with halved onion, bay, peppercorns and carrot chunks in 2.5 litres of water for an hour and 15 minutes, skimming the foam thoroughly in the first few minutes for a clear broth. Lift out the bones, shred the meat off, discard the bones, bay, peppercorns and aromatic vegetables. Strain the broth into a clean pot. Meanwhile, make the noodles: knead flour, salt and warm water into a stiff dough, rest 20 minutes, roll out to 2 mm thick, fold into thirds and cut into 5 mm strips, shake out and dust with flour. Bring the strained broth back to a simmer, add diced carrot, onion and optional potato, cook eight minutes till just tender. Drop the noodles in for four or five minutes till tender (they cook fast since they're thin), return the shredded mutton to warm through. Taste for salt, ladle into deep bowls, scatter spring onion or fresh dill.
 
 ## Ingredients
 

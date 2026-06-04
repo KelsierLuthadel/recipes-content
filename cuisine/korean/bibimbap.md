@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Each vegetable cooks separately and gets dressed with sesame oil, garlic and soy. They arrange in colourful piles around a mound of rice; an egg fries on top. Gochujang sauce on the side. Diners mix vigorously before eating.
+Korea's rice bowl, the dish that tells you what kind of cook you are: warm rice topped with sautéed and seasoned vegetables arranged in colourful groups, a fried egg on top, optional bulgogi, and a generous spoon of gochujang sauce on the side. Bibim means mixed, bap means rice, and you do the mixing yourself at the table, breaking the yolk into everything and folding it through till the colours blur. The work is in the separate-vegetable parade: spinach blanched and dressed with sesame oil and garlic, bean sprouts the same way, julienned carrot sautéed in sesame oil, mushrooms in soy and garlic, courgette quick-cooked, each going onto its own pile around the rice. The discrete colours and textures are the point, and one undifferentiated stir-fry isn't the same dish. Slide a sunny-side-up egg on top, set a spoon of gochujang sauce on the side, bring to the table. A dolsot (hot stone bowl) version is worth investing in if this becomes regular; the rice catches into a crisp crust on the bottom as you mix.
 
 ## Ingredients
 

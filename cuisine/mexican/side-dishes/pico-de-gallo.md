@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Ripe tomato, white onion, jalapeño and coriander are chopped fine and tossed with lime and salt, then left to rest for ½ hour for the juices to draw out and the flavours to combine. Texture matters: each bite should have all four colours. A staple alongside grilled meat, tacos and chips.
+Mexico's fresh tomato salsa, also called salsa fresca, the bright fresh end of the salsa spectrum: chopped tomato, white onion, jalapeño, coriander and lime, salted and rested so the juices come together. The staple alongside grilled meat, tacos and chips, and the test of any taqueria. Texture is the point; each bite should have all four colours, all roughly 4 to 5 mm dice so the sizes match. You deseed the tomatoes (seeds and jelly turn pico watery, so halve and scoop them out with a thumb before dicing), rinse the chopped white onion briefly under cold water to knock back the raw sulphur, then combine everything in a bowl with lime juice, salt and a grind of pepper. Toss gently to combine, cover, rest 30 minutes at room temperature so the juices draw out and the flavours marry. Taste and adjust salt and lime after the rest (the salt usually needs another pinch). Serve at room temperature; do not chill, cold dulls the tomato. White onion, not red, is the traditional choice; red onion sweetens the salsa and tints it pink as it sits.
 
 ## Ingredients
 - 4 ripe tomatoes (about 500 g, deseeded and finely diced)

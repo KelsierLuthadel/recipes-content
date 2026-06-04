@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Rice rinses, then simmers in a pot with milk and a knob of butter over low heat, the same technique as risotto but unstirred. After 30 minutes the rice is just-soft. Sugar and raisins go in for the last 15 minutes. The finished pudding is glossy, sweet, and pourable but holds its shape when spooned. Toppings vary: pine nuts and butter, an extra knob of melted butter, or a few drops of fresh cream.
+A festival rice pudding from the Mongolian steppe, eaten warm for Tsagaan Sar, Naadam and family celebrations: pudding rice simmered slow in whole milk with butter, sugar and raisins till the mixture thickens to a glossy, pourable pudding that still holds its shape on a spoon. Same technique as risotto but unstirred. You rinse short-grain pudding rice (long-grain stays distinct; you want grains that break down slightly into the milk) in three changes of cold water till the runoff is clear. Combine the rinsed rice with milk, butter and a pinch of salt in a heavy pot, bring to a gentle simmer over medium heat with one stir to prevent sticking, then drop to the lowest possible heat covered loosely. Cook 25 to 30 minutes stirring once every five, till the rice is just soft and the milk has reduced by half (any hint of a hard boil and the milk scalds at the bottom and tastes burnt). Sugar and raisins go in for the last 15 minutes; added earlier they slow the rice absorbing the milk and you end up with chalky grains. Rest covered five minutes off the heat. Spoon into shallow bowls, top with an extra knob of butter that melts in, scatter pine nuts, drizzle a teaspoon of cream and dust with cinnamon, eat warm.
 
 ## Ingredients
 - 250 g short-grain pudding rice (or arborio)

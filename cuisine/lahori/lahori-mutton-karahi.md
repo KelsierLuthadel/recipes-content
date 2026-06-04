@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Bone-in lamb is browned in ghee with a small handful of whole spices, then ginger-garlic paste and tomato are added in two stages: first chopped, to break down into a base sauce, then sliced, to give texture at the end. The dish cooks uncovered the entire time, which is what defines Lahori karahi (the gravy reduces by half and concentrates). Green chilli, fresh ginger and coriander finish; a tablespoon of butter or ghee makes the slick on top.
+The Lahori roadside karahi as it's cooked at the kebab shops of Lakshmi Chowk: bone-in mutton (or lamb) cooked hard and fast in a wok-shaped karahi with tomato, ginger and a heavy hand of fresh green chilli. No onion, no thick gravy: just meat, tomato and a slick of clarified butter at the end, which is the Lahori signature that distinguishes it from karahis cooked anywhere else. You brown bone-in lamb chunks hard in ghee with whole cinnamon, cardamom, cloves and bay (pale lamb gives a thin karahi; this colour stage is essential), then ginger-garlic paste, ground spices and the first batch of chopped tomato that breaks down into the base sauce. Pour in hot water, partially cover (a karahi shouldn't be tightly sealed; the gravy needs to reduce), simmer 40 to 50 minutes till the lamb is fork-tender. Add the second batch of tomato as wedges in the last few minutes for texture and the look on top, increase the heat, cook uncovered till the gravy is thick and oil-slicked. Slit green chillies, ginger matchsticks, coriander, garam masala and kasuri methi in the last two minutes; drop a tablespoon of butter on top. Transfer to a serving karahi with the remaining matchsticks and coriander scattered across; eat with warm naan and lemon wedges.
 
 ## Ingredients
 

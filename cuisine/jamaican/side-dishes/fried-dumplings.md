@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A no-yeast quick dough: plain flour, baking powder, a touch of sugar, salt, and just enough water (or milk for richness) to bring it together. Rested briefly so the gluten relaxes, divided into balls, flattened slightly, and shallow-fried in hot oil until each side is deeply golden. The exterior crisps; the interior steams to a soft, pillowy crumb. Eaten with every Jamaican breakfast.
+The classic Jamaican breakfast bread, also called Johnny Cakes: golden fried rounds with a chewy interior, the thing on the side of ackee and saltfish, callaloo, brown stew chicken or escovitch fish. You whisk together a no-yeast quick dough (plain flour, baking powder, sugar, salt, a knob of cold butter rubbed in, just enough cold water or milk for a richer crumb) and bring it together with a fork. Rest the dough briefly so the gluten relaxes, divide into balls, flatten slightly, then shallow-fry in oil that's not too hot; the inside steams to a soft pillowy crumb while the outside crisps to a deep gold. They should puff a little and feel hollow-light when you lift them out. Eat hot: split and buttered for breakfast with cocoa tea, or as the bread that catches all the gravy on a brown-stew plate.
 
 ## Ingredients
 

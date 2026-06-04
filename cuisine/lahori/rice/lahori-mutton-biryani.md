@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Mutton is marinated overnight in yogurt with browned onion, ginger-garlic, Kashmiri chilli, garam masala and dried plums (aloo bukhara, a Lahori signature). The marinated meat is slow-cooked in its marinade until tender and the masala has reduced to a thick, oil-slicked gravy. Basmati is parboiled in salted water with a sachet of whole spices. The biryani is built in layers: meat, rice, fried onion, saffron milk, mint, repeated; sealed under a tight lid for the dum.
+Heavier and meatier than its Hyderabadi cousin, the Lahori-style mutton biryani has its own marker: dried sour plums (aloo bukhara) folded into the marinade that dissolve into the masala and give the dish a sweet-sour edge no other biryani has. You marinate bone-in mutton overnight in thick yogurt with browned onion, ginger-garlic, Kashmiri chilli, garam masala and pitted soaked aloo bukhara. Brown a second batch of sliced onion, save a third for the layers, then cook the marinated meat in its marinade till the mutton is fork-tender and the gravy has reduced to a thick masala with very little liquid. Parboil basmati to 70% in heavily salted water with bay and whole spices (overcooked at this stage means mushy after the dum). Bloom saffron in warm milk. Build in layers: meat, half the rice, fried onion, mint and coriander, half the saffron milk and kewra water; repeat with the second layer; drizzle melted ghee on top. Seal with foil pressed onto the rice, lid clamped down, three minutes on high, then 35 minutes on the lowest heat over a diffuser; rest sealed 15 minutes more. Fold the layers gently from the bottom up so the mutton comes through, serve with raita and a tomato-onion salad.
 
 ## Ingredients
 

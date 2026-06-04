@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-A soft yeasted olive-oil dough rises for 45 minutes. Filling: grated akkawi (desalted first if very salty) or a mix of low-moisture mozzarella + halloumi (rinsed to reduce salt), crumbled feta, chopped parsley, mint, dried mint, black pepper and a touch of nigella seed. Dough divides into 16 balls; each rolls into a 10 cm disc. A heaped tablespoon of cheese mix sits in the centre. Folded into a tricorn: three sides of the disc fold up over the filling, pinched at the top in three seams. Brushed with olive oil. Baked at 220°C for 15-18 minutes until deep gold.
+Lebanon's cheese hand-pies, the small tricorn pastries that turn up at iftar tables and church suppers, sold by Beirut bakeries by the dozen: a soft yeasted olive-oil dough stuffed with melty cheese (akkawi, halloumi and feta) brightened with parsley, mint and a pinch of nigella. You make a soft yeasted dough, knead till elastic, rise for 45 minutes. Mix grated mozzarella, halloumi rinsed to reduce salt and crumbled feta with chopped parsley, mint, nigella seeds, black pepper and an egg yolk for binding (don't add salt; the cheeses are salty enough). Knock back the dough, divide into 16 balls, roll each into a thin 10 cm disc. Place a heaped tablespoon of filling in the centre, brush the edge with water, lift three sides up over the filling and pinch each pair of edges where they meet into a tricorn (three corners). Seal firmly; a poorly sealed fatayer opens during baking and the cheese leaks into a sad crater. Brush with olive oil, sprinkle sesame seeds if you like, bake at 220°C for 15 to 18 minutes till deep golden. Dust with sumac, eat warm or at room temperature with mint tea or a Lebanese rosé.
 
 ## Ingredients
 

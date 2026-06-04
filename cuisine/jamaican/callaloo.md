@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Onion, garlic and tomato cook in oil until softened. Callaloo (or spinach) goes in by the handful; thyme and scotch bonnet add. Everything covers and steam-cooks until the greens are tender. Salt, pepper, a splash of water if needed; finish quickly so the colour stays vivid.
+Every Jamaican kitchen has its version of callaloo, the everyday green that turns up beside ackee and saltfish at breakfast, beside fried fish at lunch, or piled over rice and peas at dinner. You soften onion and garlic in coconut oil, drop in chopped tomato and let it collapse into a rough sauce, then pile in the leafy greens by the handful so each batch wilts before the next goes on top. A whole unpierced Scotch bonnet sits on top scenting the pot without lighting it on fire; thyme stems share the steam, and a splash of water keeps everything moving. You're done when the leaves are glossy and tender but still vivid green; long-cooked callaloo turns grey and bitter, so the moment they collapse, you're there. Fish out the chilli and the bare thyme, taste, season. Eat it with hard-dough bread for breakfast, alongside fried fish at lunch, or banked against a mound of rice and peas with brown stew chicken.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Bone-in chicken thighs and drumsticks rub with a saffron-cumin-ginger-paprika paste, then braise gently with onion, garlic and stock in a tagine or heavy casserole. Preserved lemon and green olives go in toward the end so they don't disintegrate. Coriander finishes.
+The Moroccan tagine that lands on every Friday-lunch table in Casablanca and at every North African restaurant abroad: bone-in chicken legs braised slow in a saffron-spiced broth with preserved lemon and green olives, the salt of the lemons and olives playing against the gentle saffron-cumin warmth. You bloom saffron in warm water for five minutes, then mix into a paste with ginger, cumin, paprika, cinnamon, turmeric, half the herbs, olive oil and salt. Rub thoroughly over the chicken pieces. Brown the chicken on all sides in a heavy casserole or tagine, set aside. Soften sliced onion for 8 minutes, add garlic for one, return the chicken with stock and braise covered on low heat for 35 to 40 minutes (or in a 160°C oven). The preserved lemon (peel only; rinse and discard the pulp, which is too salty and bitter) goes in for the last 15 minutes alongside the green olives, so they keep their shape without disintegrating into the sauce. The chicken should be falling-tender, the sauce reduced and glossy. Taste before adding more salt; the lemon and olives carry plenty. Scatter the remaining coriander and parsley, serve in the tagine if you have one, with couscous on the side.
 
 ## Ingredients
 

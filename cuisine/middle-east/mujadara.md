@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Brown lentils boil until almost tender; long-grain rice and water join them along with cumin and a touch of cinnamon. While they finish cooking, sliced onions fry slow in olive oil until they're deep brown and crisp. The crisp onions and their dark oil go on top.
+The Levantine lentils-and-rice dish topped with deeply caramelised crisp onions: vegan, frugal and profoundly satisfying, the kind of pot that anchors a weeknight dinner with a small cucumber-yogurt salad on the side. The crisp onions are non-negotiable; they're 70% of the flavour, and half-caramelised onions give a flat-tasting result. You simmer brown lentils in plenty of water for 20 to 25 minutes till almost tender (still with some bite; lentils that cook past the rice go to mush), drain and reserve the cooking liquid. Meanwhile, slowly fry sliced onions in olive oil over medium heat for 25 to 30 minutes till they're deeply browned with crisp edges; don't rush this stage, the dark colour is what makes the dish. Lift half the onions onto kitchen paper to crisp, leave the rest in the pan with their oil. Return the drained lentils to the pan with rinsed rice, cumin, cinnamon, salt and pepper; pour in 500 ml of the reserved lentil water (full of flavour; using plain water gives a flatter result), stir in the soft onions and their oil. Lid down on the lowest heat for 15 to 18 minutes till the rice is tender, rest covered another 10 minutes. Fluff, top with the crisp onions and a drizzle of the onion oil, serve with Greek yogurt and lemon wedges, parsley scattered across.
 
 ## Ingredients
 

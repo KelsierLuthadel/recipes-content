@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-This vibrant Mexican seafood soup features halibut, prawns, scallops, and clams in a spicy tomato broth with corn and lime. Topped with a fresh avocado salsa, it's a zesty and flavorful dish that brings the tastes of Mexico to your table. Perfect for a light yet satisfying meal.
+A coastal Mexican seafood soup, the kind of bowl you reach for when the fish counter is full of pieces too small for individual portions: halibut, prawns, scallops and clams in a smoky tomato broth with corn kernels and a fresh avocado salsa scattered on top at the table. You wash the clams thoroughly (discard any that have broken shells or fail to close when you tap them), soften onion and chopped celery in olive oil for 10 minutes, then add garlic, sliced red chilli, bay and oregano for a minute. Pour in fish stock and tinned tomatoes, sugar and a pinch of salt, simmer 10 minutes, then blend smooth and return to the pan. Add corn kernels, bring back to the boil, simmer three minutes. Stir in coriander, lime juice and chunks of fish, simmer a minute, then add prawns, scallops and clams, lid down for two or three minutes till the clams open (discard any that don't). Mix the salsa just before serving (diced avocado with chopped coriander, lime zest and juice, finely chopped red onion). Stir cream into the soup off the heat, ladle into bowls, top each with a spoon of the avocado salsa.
 
 ## Ingredients
 

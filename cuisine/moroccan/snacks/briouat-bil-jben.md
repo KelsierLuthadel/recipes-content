@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes (in batches)
 
 ## Overview
-Filling: fresh cheese (ricotta, paneer, or feta + cream cheese) mashes with a beaten egg, chopped parsley, mint, ground cumin and a pinch of black pepper. Warka pastry (or filo) strips lay flat. A teaspoon of filling sits at one end; the strip folds flag-style up the strip, forming a triangle. Edges seal with egg-wash or water. Deep-fries for 2-3 minutes till deep gold. Drains on a rack. Eats warm.
+Morocco's cheese briouats: small triangular warka pastries filled with fresh soft cheese, beaten egg, herbs and a hint of cumin, deep-fried golden and crisp, sometimes drizzled with honey for the proper Moroccan sweet-savoury touch that sounds odd but works beautifully. You mash fresh soft cheese (Moroccan jben if you can find it, or a mix of ricotta, crumbled feta and cream cheese) with a beaten egg, chopped parsley and mint, ground cumin and a pinch of black pepper; drain on a sieve if too wet, since liquid filling leaks during frying. Stack warka or filo sheets and cut into strips 8 cm wide, cover with a damp tea towel as you work (filo dries to brittle shards in minutes). Brush a strip lightly with olive oil, place a teaspoon of filling at the bottom-left corner, fold the bottom-right corner diagonally over the filling to make a triangle, then fold the triangle straight up, then diagonally across again, walking the flag-fold up the strip till you reach the end. Seal the final flap with egg-wash, press to stick. Deep-fry at 170°C four or five at a time for two or three minutes turning till deep gold and crisp, drain on a wire rack. Pile on a warm platter, drizzle with honey if you want the traditional touch, serve with lemon wedges and mint tea.
 
 ## Ingredients
 

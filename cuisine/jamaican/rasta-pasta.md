@@ -9,7 +9,7 @@
 **Cook Time:** 3 minutes
 
 ## Overview
-A vibrant Jamaican pasta dish where tender prawns are coated in jerk seasoning and tossed with peppers, spinach, and a creamy sauce. The jerk spicing brings heat and characteristic Caribbean flavours to this contemporary twist on traditional cuisine.
+A modern Jamaican-Italian fusion that started on the island and crossed over into every Caribbean diner abroad: penne in a creamy jerk-spiked sauce with bell peppers in red, yellow and green for the Rasta colours that give the dish its name. You toss prawns in jerk seasoning and sear them quickly so the spices catch but the flesh stays sweet, then build the sauce in the same pan: garlic and sliced peppers softening in the chilli-scented oil, double cream and reserved pasta water, more jerk for backbone, and Parmesan stirred through to silk it together. Return the prawns, fold in the cooked penne, toss till the sauce coats every shape. The pepper colours stay vivid; the sauce stays loose enough to cling. Smell across the kitchen is jerk hitting cream. Eat it with lime wedges, a hunk of crusty bread, and a green salad on the side.
 
 ## Ingredients
 

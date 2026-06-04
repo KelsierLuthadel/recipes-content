@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Vermicelli (the thin Indian/Pakistani sweet noodles) is boiled, drained and chilled in iced water. Sweet basil seeds (sabja or tukmaria) are soaked in cold water until they swell into clear jelly capsules. Milk is sweetened lightly and chilled. Glasses are layered: a spoon of rose syrup at the bottom, then soaked basil seeds, then chilled vermicelli, then milk poured in slowly, then a scoop of kulfi (or vanilla ice cream) on top, more rose syrup drizzled, and a scatter of nuts. Eaten with a long spoon.
+Chilled rose-milk dessert, the tall-glass sundae that gets sold from Lahori carts in summer and from corner kulfi shops year-round: layered rose syrup, soaked basil seeds (sabja), cold sweet vermicelli, a scoop of kulfi or vanilla ice cream, sweetened milk poured slowly down the side, more rose syrup over the top, a scatter of slivered pistachios and almonds. You soak sabja in cold water 20 minutes till they swell into clear jelly capsules (chia seeds work if you can't find them, but the texture is more gel than jelly). Boil thin vermicelli briefly till just tender, drain, chill hard in iced water. Sweeten the milk with sugar, cardamom and rose water, refrigerate. Falooda is built on temperature contrast, so the glasses go in the fridge too. Build the layers slowly, pouring the milk down the side of a tilted glass to keep the strata visible. Serve immediately with long sundae spoons; the drama is in the look and you only have minutes before the ice cream melts into the milk.
 
 ## Ingredients
 

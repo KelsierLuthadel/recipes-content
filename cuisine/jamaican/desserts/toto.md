@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-A creamed-butter cake enriched with desiccated coconut (or fresh grated coconut) and warmed with allspice, cinnamon, nutmeg and a little vanilla. Brown sugar gives the deep molasses note. Coconut milk replaces some of the liquid for richness. Baked in a square tin, cooled in the tin, and cut into chunky squares.
+A traditional Jamaican coconut spice cake, the sort of thing wrapped in foil for school lunches or set out in chunky squares beside an afternoon teapot. You cream butter and dark brown sugar till light, beat in eggs and vanilla, then fold through a flour mix shot through with desiccated coconut, allspice, cinnamon and nutmeg, with coconut milk for the richness and a splash of dark rum if you want it. A square tin, 45 minutes in a moderate oven, and what comes out has a deep-golden crust slightly cracked on top and a moist, spiced crumb beneath. No icing, no glaze: just a small slice with hot tea, a glass of sorrel at Christmas, or a wedge of mango on the side. It improves over the first two days in the tin, so don't be shy about making it ahead.
 
 ## Ingredients
 

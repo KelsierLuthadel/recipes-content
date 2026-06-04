@@ -15,7 +15,8 @@ tags:
   - coconut
   - chili
   - kwanzaa
-mentions: []
+mentions:
+  - cuisine/jamaican/brown-stew-chicken
 ingredients:
   - qty: 200
     unit: g

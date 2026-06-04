@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 45 minutes
 
 ## Overview
-Lamb shoulder is browned in oil; sliced onion is softened to gold; turmeric and a pinch of cinnamon toast briefly; water covers; the pot simmers for 1 hour 15 minutes until tender. Meanwhile, lots of celery is sliced into 2 cm-long pieces and sautéed with parsley and mint over medium heat 8-10 minutes until fragrant and just softened. The celery-and-herb mix goes into the pot for the last 25 minutes. Saffron-water and lemon juice at the end. Salt to taste.
+Khoresh karafs is the Persian celery stew, an unlikely-sounding dish that turns out to be one of the brightest, most herb-bright things you can put on a plate of saffron rice. You start by browning lamb shoulder cubes hard, then softening sliced onions in the same pot for ten minutes till deep gold, blooming turmeric and a whisper of cinnamon before returning the lamb to simmer in 700 ml of water for an hour and a quarter till the meat is tender. Meanwhile sauté the karafs: slice a whole head of celery into 2 cm lengths and cook in olive oil for six or seven minutes till just softened with the bright green colour intensifying, then add an enormous bunch of chopped parsley and mint and the celery leaves for two more minutes off the heat (raw celery dropped straight into the pot stays grassy and waters everything down, so this sauté is what builds the flavour). Tip the herbs and celery into the lamb pot to simmer another twenty-five minutes, then finish off the heat with saffron-water and a generous squeeze of lemon (lemon at the end brightens; lemon at the start dulls the herbs). Rest covered ten minutes, taste for salt and acidity, and ladle over chelo rice with the tahdig alongside for cracking into pieces.
 
 ## Ingredients
 

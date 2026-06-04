@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Ripe plantains (not the green ones used for tostones) are peeled, sliced thick on the bias, and fried gently in vegetable oil so the natural sugars caramelise without the outsides burning. The result is sweet, slightly chewy, with a soft interior. A light dusting of salt at the end lifts the sweetness. Don't rush the heat: medium-low is the rule.
+The non-negotiable side beside jerk chicken, brown stew or a curried goat plate, and the breakfast side beside ackee and saltfish. You want plantains that look almost spoiled, skins mostly black and soft to the squeeze; yellow plantains with no black spots will be starchy and bland, so leave them on the counter for a week longer than feels comfortable. Peel them, slice thick on the bias, then lay them flat in a wide pan of medium-low oil so the natural sugars caramelise without the outsides scorching. The patience is the only technical thing here: too-hot oil and you get burnt edges over raw middles, but a steady medium-low gives time for both the colour and the meltingly soft centre. A dusting of fine salt while they're still hot lifts the sweetness. Eat them immediately; they soften and lose their edges within the hour.
 
 ## Ingredients
 

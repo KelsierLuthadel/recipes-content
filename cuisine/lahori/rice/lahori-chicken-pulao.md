@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-A chicken yakhni (broth) is built first by simmering chicken pieces with onion, ginger, garlic, fennel seeds, coriander seeds, peppercorns, cardamom and bay until the meat is just tender. The broth is strained and measured; the chicken is reserved. Basmati is soaked, fried briefly with cinnamon, cumin and clove in ghee, then cooked in exactly the right amount of strained yakhni. The chicken is folded back in for the steam. Finished with fried onions and fresh coriander.
+The Friday-lunch staple of Lahori households: lighter than biryani, the basmati cooked in a yakhni (chicken stock) built first from the chicken pieces themselves with whole spices and ginger. You simmer chicken thighs and drumsticks with onion, ginger, garlic, coriander seeds, fennel, peppercorns, cardamom and bay till the meat is just tender and the broth is fragrant. Strain the broth, measure exactly 800 ml (this rice-to-liquid ratio is precise; don't eyeball), reserve the chicken. Fry sliced onion till deep golden, save a third for the finish, bloom whole spices in the remaining onion, then chopped garlic, grated ginger and slit green chillies. Toss the reserved chicken pieces through the spice base, then drain and add soaked basmati to toast briefly in the spiced ghee. Pour in the 800 ml of measured yakhni, bring to a boil, drop to lowest heat, lid down tight for 14 to 16 minutes without lifting; rest covered another 12 minutes (the long rest is what gives the separated grains, and lifting the lid breaks it). Fluff, scatter reserved fried onions, fresh coriander and a squeeze of lemon across. Serve with raita and a fresh salad.
 
 ## Ingredients
 

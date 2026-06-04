@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Potato cubes par-boil for 6 minutes to set the inside, drain, dry. Fried in olive oil at medium-high until deeply golden all sides (15 minutes). Off heat, garlic, coriander, chilli flakes, salt, lemon juice toss through. A handful of fresh coriander leaves on top.
+The spicy Levantine potato side that sits next to hummus on every mezze table from Amman to Beirut: chunky potato cubes pan-fried till deeply golden, then tossed off-heat with garlic, fresh coriander, chilli flakes and lemon. You par-boil the potatoes for six minutes to set the inside, drain very well and spread on a tea towel to dry (wet potatoes spatter and don't crisp). Fry in a generous pour of olive oil at medium-high, turning every few minutes, till every side is deeply golden, about 12 to 15 minutes. Pour off most of the oil, drop the heat, soften crushed garlic for just 60 seconds (any browner and it turns bitter and ruins the dish), then stir in Aleppo pepper flakes and cumin. Return the potatoes, toss to coat, off the heat add lemon juice and a generous fistful of chopped fresh coriander. Tip into a warm bowl with a dusting of sumac, eat hot alongside grilled meats or as part of a mezze.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Pork shoulder is sliced thin, marinated in a paste of rehydrated guajillo and ancho chillies, achiote, vinegar, garlic, pineapple juice and spices, then seared hard in a screaming-hot pan. Served on warm corn tortillas with chopped onion, coriander, lime, and small chunks of charred pineapple.
+Mexico City's gift to the world and the taco that defines a Mexico City night: thinly sliced pork marinated in a paste of dried chillies, achiote, vinegar and pineapple, traditionally roasted on a vertical trompo (the spit Lebanese immigrants brought; the Mexicans added the chilli and pineapple) and shaved off in slivers onto warm corn tortillas. The home version sears the marinated pork in a screaming-hot pan and chars the pineapple separately. Pineapple is structural here, not decorative; the bromelain enzyme tenderises the meat and gives the characteristic sweet-savoury edge that orange juice can't match. You toast dried guajillo and ancho chillies briefly in a dry pan, soak in just-boiled water 15 minutes till soft, then blend with garlic, vinegar, pineapple juice, achiote, cumin, oregano, salt and sugar to a smooth deep-red paste. Slice pork shoulder thin (5 mm; partially freeze for 30 minutes for clean cuts), toss with the marinade and refrigerate at least four hours or overnight. Sear in batches in a screaming-hot pan two or three minutes a side till charred at the edges, chop into smaller pieces, char chunks of fresh pineapple in the same pan. Pile chopped pork on warm corn tortillas, top with charred pineapple, finely chopped white onion and chopped coriander, squeeze a lime wedge across.
 
 ## Ingredients
 

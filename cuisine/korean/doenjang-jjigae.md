@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A quick anchovy-and-kelp stock makes the broth backbone (the Korean kitchen standard, taking 10 minutes). Doenjang (about 3 tablespoons) whisks into the hot stock with a small spoonful of gochujang for warmth, never aggressive heat. The vegetables go in by sturdiness: potato first, then courgette and mushrooms, then onion and chilli, finally cubed tofu and clams (or anchovies) at the end. Simmers for 12-15 minutes total. A little minced garlic stirs in at the very end so it doesn't dull. Brought to the table in the cooking pot, still bubbling.
+Korea's everyday stew, the comfort cousin of kimchi jjigae: tofu, courgette and clams simmered in a deep, funky doenjang broth that's brought to the table still bubbling in a stone bowl. You build a quick anchovy-kelp stock first, the Korean kitchen standard, 10 minutes from a handful of dried anchovies and a strip of kombu; once you have the pantry sorted, it's faster than a stock cube. Whisk doenjang in along with a small spoon of gochujang for warmth (this is comfort heat, not the aggressive burn of kimchi jjigae). Add vegetables by sturdiness: potato first, then courgette and mushrooms and onion, finally cubed tofu and clams. The Korean signature here is the raw-garlic finish; stir minced garlic in for just the last minute, off the heat, so the top note stays sharp rather than dulling into the background. Drizzle toasted sesame oil over, scatter spring onion, bring the bubbling pot to the table with rice and a few banchan (kimchi, kongnamul muchim, oi-muchim).
 
 ## Ingredients
 

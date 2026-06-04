@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Onion is softened slowly in olive oil; peppers join to break down sweetly; aubergine and courgette go in next to caramelise at the edges; tomatoes finish to bind. Each addition has time to take on the oil and contribute. The result is glossy, jam-like, deep, eaten with bread, fried eggs or alongside grilled food.
+Pisto manchego is the long-cooked vegetable stew of La Mancha (the same dry sun-baked plateau Don Quixote rode across), peppers, courgette, aubergine and tomato simmered slow in generous olive oil till everything softens and glistens, eaten as a tapa, a side, or with a fried egg dropped on top as a main. Nothing about this dish is rushed: each vegetable cooks in its turn so it can soften and take on the oil before the next joins. Start with onions in a wide heavy pan, 12 to 15 minutes in olive oil till soft and golden (don't try to speed this up). In go red and green peppers for another 12 to 15 minutes till they've collapsed and turned silky, then diced aubergine for ten minutes till softened and lightly caramelised at the edges, then courgette and garlic for another five. Last in go the chopped tomatoes (or a big tin) with smoked paprika, dried oregano, a teaspoon of sugar to balance the acidity, salt and pepper, simmered uncovered for fifteen or twenty minutes more till the mixture is thick, glossy and jam-like. The oil pools around the edge by the end and that's correct; pisto is properly oily and skimping on olive oil gives a flat dry stew. Serve in shallow bowls with bread to mop up the puddles, or with a fried egg laid across each portion so the yolk runs into the warm vegetables.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 2 ¼ hours
 
 ## Overview
-Lamb shoulder cubes brown deeply, then simmer slow with onion, garlic and a Moroccan spice blend (ras el hanout, ginger, cinnamon). Stock and a splash of honey go in; dried apricots join in the second half so they soften without dissolving. Toasted almonds and coriander on top.
+The other classic Moroccan tagine, a sweet-and-savoury celebration of lamb that turns up at Friday lunches and family feasts: lamb shoulder braised slow with onion, ginger and a heady spice blend, sweetened with honey and dried apricots, glossy and tender enough to spoon. The apricots and honey carry the sweet end; the warm spices (ras el hanout, cinnamon, cumin, saffron) carry the savoury, and the balance is the dish. You brown lamb shoulder cubes deeply in batches (pale lamb gives a flat braise, so push for colour), set aside. Soften sliced onion in the rendered fat for 10 minutes till soft and golden, bloom garlic, grated ginger, ras el hanout, cinnamon, cumin, paprika, turmeric and saffron in for a minute. Return the lamb, pour in stock and stir in honey, simmer covered low for an hour and a half (or in a 160°C oven). Add the dried apricots for the last 30 minutes uncovered so they soften without dissolving (earlier and they become slop; later and they stay chewy). The lamb should be falling-tender, the sauce reduced and glossy. Scatter toasted flaked almonds and chopped coriander across the top, serve over couscous or with flatbread.
 
 ## Ingredients
 

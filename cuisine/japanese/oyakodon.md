@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Chicken thigh chunks simmer in dashi-mirin-soy broth with sliced onion until tender, beaten egg is poured in and sets in soft curds, and the lot slides over rice. The egg should still be slightly runny when the heat is turned off.
+A "parent and child" rice bowl, the sentimental name describing the chicken (parent) and egg (child) cooked together in the same pan. Fifteen minutes start to finish; the kind of comforting weeknight dinner you can do half-asleep. You bring dashi, mirin, soy and sugar to a simmer in a small frying pan, drop in sliced onion to soften, then chicken thigh pieces to cook through over five or six minutes (thigh, not breast: breast dries out before the egg gets its turn). Pour beaten egg over in a slow circular stream without stirring, lid the pan for 30 to 45 seconds, then pull off the heat while the top still looks glossy. The egg keeps cooking from residual heat and ends up just set with the yolk streaks still visible if you didn't over-beat. Slide the lot, broth and all, onto a bowl of hot rice. Scatter spring onion across, dust with shichimi togarashi if you want heat.
 
 ## Ingredients
 

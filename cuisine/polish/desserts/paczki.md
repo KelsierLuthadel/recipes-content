@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-An enriched yeast dough (lots of egg yolks, butter, sugar, a splash of rum) proves twice. Divides into 12 balls, proves again until pillowy. Deep-fries in clean oil at exactly 170°C: hot enough to set the outside before the dough soaks, cool enough that the inside cooks before the outside burns. Each pączek gets a teaspoon of jam piped into the centre while still warm; the tops dust with icing sugar, dip in a thin lemon-orange glaze, or get a strip of candied orange peel.
+Pączki are the doughnuts of Fat Thursday (Tłusty Czwartek), eaten by the thousands across Poland on the last Thursday before Lent, golden balls of enriched yeast dough with a pale white band around the equator, filled with rose-petal jam or thick plum butter and dusted with icing sugar. The dough is heavily enriched with five egg yolks, soft butter, sugar, lemon zest, vanilla and a splash of rum or vodka (the alcohol isn't for flavour, it evaporates faster than water and reduces oil absorption during frying so the pączki stay light, don't skip it). Knead till silky, prove an hour till doubled, divide into twelve equal balls and prove again under a cloth for 45 minutes till pillowy. The frying is the technical move: exactly 170°C in clean neutral oil, no higher or the outside browns before the inside cooks, no lower or they soak oil and go heavy. Lift each pączek by its parchment square into the oil, fry three or four at a time three minutes a side, and watch for the signature pale-gold colour with the white ring around the middle that marks a proper pączek. While still warm, push a long thin piping nozzle into the side and squeeze in a tablespoon of rose-petal konfitura or thick plum powidła till you feel the doughnut swell just short of bursting. Finish with icing sugar through a sieve or a thin orange glaze with candied peel scattered across, eat the same day with strong coffee, and the tradition says have at least one for a year of luck.
 
 ## Ingredients
 
@@ -95,7 +95,7 @@ An enriched yeast dough (lots of egg yolks, butter, sugar, a splash of rum) prov
 
 ## Variations
 **Rose-petal jam (the classic):** Konfitura z róży, sold in Polish shops, is the traditional filling for Tłusty Czwartek.
-**Plum butter (powidła):** Thick spiced plum, an old peasant filling.
+**Plum butter (powidła):** Thick spiced plum, an old country filling.
 **Custard:** Pastry cream is a modern bakery filling; some purists object, but bakeries everywhere do them.
 
 ## Serving

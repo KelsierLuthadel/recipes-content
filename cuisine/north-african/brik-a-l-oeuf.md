@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-The filling is built in a small bowl: drained tinned tuna, finely-chopped onion, parsley, capers, harissa, salt. A square of malsouka (or two stacked sheets of filo) is laid flat. Half the filling is spread on one half of the sheet; an egg is cracked into a small well on top; the other half folds over. The seam is pinched; the brik slides into hot oil for 90 seconds, out crisp and golden, yolk still soft.
+Tunisia's signature street food, sold from every Sidi Bou Said cart and every Tunis lunch counter: a thin sheet of malsouka pastry wrapped around tuna, capers, parsley and a whole egg, deep-fried fast so the yolk runs when you bite into it. The runny yolk is the point; a brik with a fully-set yolk is overcooked. You mix drained tinned tuna with finely chopped onion, parsley, capers, optional parmesan, harissa, cumin, salt and pepper in a bowl, keeping the texture chunky. Heat 1 cm of oil to 180°C in a wide heavy pan. Lay one malsouka sheet flat (or two stacked sheets of filo brushed with oil between), spread a quarter of the filling on one half leaving a 2 cm border, press to flatten. Make a well in the centre of the filling, crack an egg into the well trying not to break the yolk, salt and pepper lightly. Fold the empty half over to form a triangle or rectangle, press the edges with a fork to seal. Slide into the hot oil immediately (don't let it sit; the egg leaks). Fry 60 to 90 seconds per side till each side is deep gold and crisp. Lift onto kitchen paper, repeat for the others. Serve immediately with lemon wedges, a smear of harissa and a simple green salad. Eat by hand: bite a corner and let the yolk run.
 
 ## Ingredients
 

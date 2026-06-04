@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Mexican chorizo is rendered in the pan to release its red, paprika-laden oil. Onion and garlic soften in the oil, then long-grain rice is toasted before tomato puree and stock are poured in to colour and cook the grains. The result is rice the colour of terracotta with a slightly smoky, slightly spicy chorizo backbone running through every bite.
+A heartier turn on classic red Mexican rice: tomato-stained long-grain cooked with Mexican chorizo, onion and garlic, the colour of terracotta and a smoky-spicy backbone running through every bite. Eats as a side or, with a fried egg cracked on top, as a meal on its own. You render diced Mexican chorizo (or Spanish, with a splash of olive oil since the cured kind releases less fat) over medium heat for five or six minutes till it crisps and the red paprika-laden oil pools. Lift two-thirds of the chorizo out with a slotted spoon to save for the finish, leaving the oil and a third of the meat in the pan. Soften diced onion in the chorizo oil till tinted red, stir in garlic, then add the rinsed drained rice and toast for two or three minutes till the grains turn opaque and smell nutty (Mexican rice technique; toasted grains stay separate, untoasted go gummy). Tomato paste, then blended tinned tomatoes, chicken stock, cumin, Mexican oregano and salt. Bring to a boil, lid down on the lowest heat for 16 to 18 minutes (don't lift the lid, even one peek leaves the rice unevenly cooked), scatter peas and the reserved chorizo across the top in the last three minutes. Rest covered another 10 minutes, fluff with a fork, scatter coriander.
 
 ## Ingredients
 - 200 g Mexican chorizo (or Spanish chorizo, diced or crumbled from casing)

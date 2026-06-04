@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Eggs hard-boil and cool. Onions cook slowly in oil or schmaltz until deeply golden and sweet. Both chop together with a fork or knife (not a food processor, the texture matters); salt and pepper season. Serve at room temperature.
+This is the Ashkenazi appetiser plate of a thousand Friday-night tables, hard-boiled eggs and slow-cooked onions chopped together into a coarse golden mound and eaten on rye or matzo before the soup arrives. Hard-boil six eggs for exactly ten minutes, drain and cover in cold water till cool, then peel. Meanwhile soften two finely chopped onions in schmaltz (rendered chicken fat is the soul of this dish; sunflower oil is the everyday fallback) over medium-low heat for a full eighteen to twenty minutes, stirring now and then, till they're deeply golden, sweet and very soft (pale onions give a sharp raw-tasting spread, so don't rush). Chop the eggs coarsely in a wide bowl with a fork (never a food processor, the visible chunks of egg and onion are the whole texture), tip in the cooled onions with all their fat, and season firmly with salt and white pepper. Cover and rest in the fridge half an hour so the flavours marry, then bring back to room temperature before serving (cold mutes everything). Pile into a small bowl, set on the table with rye bread, matzo or crackers, a few cucumber slices to refresh between bites, and let people scoop with whatever's at hand.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Dry ingredients (semolina, flour, sugar, turmeric, baking powder, anise/fennel optional) whisk together. Wet ingredients (melted butter or olive oil, milk) whisk in to a thick batter. Tip into a buttered round tin, smooth the top, scatter pine nuts (and sesame if you like). Bake at 180°C 35-40 minutes until the top is golden and a skewer comes out clean. Cool in the tin; slice into squares or wedges.
+Lebanon's vivid yellow turmeric semolina cake, the kind of thing that lives on the counter for afternoon tea: a dense, nutty loaf leavened with baking powder, scattered with pine nuts, and a deep yellow from a teaspoon of turmeric that gives both the colour and a faint earthy edge. You whisk the dry ingredients together (semolina, plain flour, sugar, turmeric, baking powder, optional anise and mahleb for the traditional Lebanese touches), then beat in melted butter (or olive oil for the Lenten vegan version, which is just as good) with milk till you have a thick stiff-pancake batter; don't overmix. Tip into a round tin greased with tahini for the traditional nutty edge to the bottom, smooth the top, scatter pine nuts and a few sesame seeds. Bake at 180°C for 35 to 40 minutes till the top is deeply golden and a skewer comes out clean. Cool in the tin 15 minutes, then invert, peel off the paper, cut into squares or wedges while still slightly warm (easier). Eat with strong Arabic coffee or sweet black tea.
 
 ## Ingredients
 

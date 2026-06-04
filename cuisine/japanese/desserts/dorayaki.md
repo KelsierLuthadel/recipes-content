@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A batter very similar to American pancake batter but enriched with honey (for the gold colour and slightly chewy texture) and mirin (for fragrance). Eggs whisk with sugar to ribbon stage; honey, milk and mirin whisk in; flour and baking powder fold through; rests at least 1 hour (essential for the right texture, a fresh batter gives pale, less-domed pancakes). Cooked one at a time on a low-medium dry pan to give the characteristic dome-shaped, golden-brown, smooth surface. Cooled briefly. Each finished disc gets a generous spoon of anko (sweet red bean paste) in the centre; a second disc presses on top, edges gently sealed. The shape is meant to be a slightly-flattened sphere with a clean disc-edge.
+Japan's pancake sandwich: two golden honey-perfumed discs pressed around a generous spoon of sweet red bean paste, the kind of thing wrapped in cellophane and tucked into bento boxes or set out beside afternoon green tea. You whisk eggs and sugar to ribbon stage, fold in honey, mirin and milk, sift through plain flour and baking powder, then leave the batter to rest at least an hour (the rest is non-negotiable; a fresh batter gives pale flat pancakes, a rested one rises into the characteristic dome). Cook each disc dry on a low-medium pan with just a film of oil so the surface stays uniformly golden, never blotchy. Sandwich anko (sweet red bean paste, sold in tubs at any Japanese grocer) between two discs gold-side out, press gently so the filling mounds, and rest 30 minutes so the pancakes absorb a little moisture from the paste. Eat by hand with green tea or coffee, for breakfast or as the afternoon snack.
 
 ## Ingredients
 

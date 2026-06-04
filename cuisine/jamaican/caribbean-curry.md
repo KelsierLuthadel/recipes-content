@@ -8,7 +8,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-In many Caribbean stew dishes there is an initial step of burning sugar in oil which is used to brown the meat in. This adds a very unique sweetness to the stews from this region and this sweetness paired with the unmistakable flavour (and heat) from the wonderful scotch bonnet chilli is simply astounding. This curry uses curry powder for a fragrant and delicious result that captures the essence of Caribbean cooking.
+A Caribbean chicken stew that leans hard into the burnt-sugar move that defines so much of the region's cooking. You melt brown sugar in oil till it bubbles dark and almost-burnt-looking (this is the right colour, not a mistake), then bloom curry powder into it till the kitchen smells of toasted spice and the meat browns in batches in that caramelised base. Marinated overnight in green seasoning, a punchy Caribbean mince of ginger, garlic, spring onion, parsley, coriander and Scotch bonnet, the chicken takes everything in, then simmers low with thyme, bay and a whole Scotch bonnet till it slips from the bone. A shot of dark rum off the heat lifts the finish. Smell is curry, allspice and that unmistakable burnt-sugar caramel that runs through every Caribbean Sunday lunch. Spoon it over rice and peas, tuck a roti alongside, or pile it next to fried dumplings with the white rings of spring onion scattered on top.
 
 ## Ingredients
 

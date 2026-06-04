@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Mince combines with grated onion, very-finely chopped parsley, garlic, allspice, cinnamon, salt and a pinch of cayenne. The mixture rests for 30 minutes to firm up. Wet hands shape portions around flat metal skewers into long sausage-like cylinders pressed firmly so they don't drop. Grilled hot, turned once, 4-5 minutes per side. Sliced or pulled off the skewers; wrapped in warm bread with the trimmings.
+The Lebanese grilled kafta sold at every mangal from Beirut to Sydney: lamb-and-beef mince mixed with grated onion, parsley, allspice, cinnamon and a pinch of cayenne, then shaped on flat metal skewers and grilled charred over white-hot charcoal. You combine fattier lamb shoulder mince with beef, the grated onion (grate then squeeze the pulp), very finely chopped parsley (big pieces fall off as the kafta turns, so a fine chop binds into the meat), crushed garlic and the warm spice mix. Rest the mixture 30 minutes in the fridge so it firms up; skipping this leads to the mince sliding off the skewer mid-grill. Wet your hands, take a fistful (about 120 g), shape into a long sausage 12 to 15 cm around a flat metal skewer (flat is the rule; round skewers spin when you try to turn them). Press firmly so the mince adheres. Grill over white-hot coals four to five minutes a side, turning a couple of times for an even crust. Slide off the skewers into warm pita with garlic toum, hummus, sliced raw onion dusted with sumac, pickled pink turnips and parsley sprigs; squeeze a lemon wedge across, fold, eat.
 
 ## Ingredients
 

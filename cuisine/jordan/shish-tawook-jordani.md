@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Yogurt-based marinade with lemon, garlic, tomato puree, allspice, paprika and olive oil. Chicken thighs cube small (3 cm), marinate at least 6 hours, ideally overnight. Threaded onto skewers; grilled hot 8-10 minutes total. Served with garlic toum, hot bread and grilled tomatoes.
+The grilled chicken skewers you'll find at every Amman shawarma stand and every Levantine restaurant abroad: boneless thighs marinated overnight in a yogurt-and-lemon paste spiked with garlic, tomato puree, allspice and paprika, then threaded onto flat metal skewers and charred hot. The yogurt is the technical move; the lactic acid keeps the chicken juicy through the hard char that's the proper Levantine finish (a medium grill gives grey chicken; you want flames). You cube the thighs small at 3 cm so they char fast without overcooking, rest at least 6 hours in the marinade and ideally overnight. Grill four minutes a side till the edges blacken and the centres are just done. Slide the cubes off the skewer into warm pita or shrak, add garlic toum (the whipped garlic-lemon-oil emulsion that's non-negotiable here), pickles, salata, a squeeze of lemon. Eat hot, by hand, with cold pickles and more bread on the side.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Tomato and cucumber are deseeded and diced into 5 mm cubes. Onion (preferably purple/red) dices to match. Lime juice, olive oil, dried mint, salt and pepper dress; the salad rests for 10 minutes for the flavours to mingle. Doesn't keep, the cucumbers weep within an hour.
+Salad shirazi is named for Shiraz and turns up next to almost everything on a Persian table: chelo kabab, fesenjan, ghormeh sabzi, or just a kuku and bread for lunch. The shape of it is small, sharp and herb-bright, almost a relish rather than a salad, and the dried mint is the signature note that separates it from every other Mediterranean chopped vegetable. You halve the tomatoes and squeeze out the seeds and watery core (otherwise the dressing dilutes within twenty minutes), peel the cucumbers, halve and scoop out their seeds too, then dice everything (tomato, cucumber, red onion) into matching 5 mm cubes. The cut is the thing here: small enough that every cube gets dressed properly, knife work that takes ten minutes and is the whole texture. Toss in a wide bowl with olive oil, plenty of lime juice, a generous spoon of dried mint, fresh mint, salt and pepper, then rest exactly ten minutes for the flavours to mingle before the cucumbers start to weep. Sprinkle a pinch of sumac across the top and serve at room temperature alongside whatever's just come out of the saffron rice pot.
 
 ## Ingredients
 

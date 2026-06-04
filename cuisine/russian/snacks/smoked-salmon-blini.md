@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Yeasted buckwheat batter rises briefly, then dollops of it cook into small fluffy pancakes on a flat pan. Topped with a small spoon of crème fraîche, a curl of smoked salmon, dill, lemon zest, and a tiny grind of pepper. Perfect with cold champagne.
+Blini are the small yeasted buckwheat pancakes of Russian drinks tables, topped with crème fraîche, a curl of smoked salmon and a sprig of dill, eaten in two bites with a glass of cold champagne in the other hand. The buckwheat is what gives blini their earthy character, all-plain-flour blini are fluffier but blander, so use half plain and half buckwheat. Whisk both flours with dried yeast, sugar and salt, pour in warm milk and beat to a smooth batter, then cover and rise an hour in a warm place till the surface is bubbly. Whisk in two egg yolks and melted butter, then whip the whites to soft peaks and fold them gently through. Heat a wide non-stick pan over medium-low, brush with a tiny knob of butter, drop teaspoonfuls of batter spaced apart (each blini about 4 cm across), and cook a minute or two till bubbles cover the surface and the edges set, flip for another thirty seconds. Lift onto a wire rack and repeat, brushing more butter as needed. Make the blini ahead and assemble only in the last ten minutes before guests arrive: a small dollop of crème fraîche on each, a curl of smoked salmon laid over, a small sprig of dill tucked on top, a grate of lemon zest and a twist of black pepper. Arrange on a platter with lemon wedges, pass with chilled champagne or a thimble of vodka straight from the freezer.
 
 ## Ingredients
 

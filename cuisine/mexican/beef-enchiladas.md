@@ -9,7 +9,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-This Tex-Mex-inspired beef enchilada recipe is richly seasoned, easy to make, and always such a crowd favourite. Tender flour tortillas are filled with seasoned ground beef and black beans, rolled, and smothered in homemade red enchilada sauce, then topped with melted cheese and fresh coriander for a comforting, flavourful dish.
+The Tex-Mex enchilada that turns up at every American-Mexican family table and every Cinco de Mayo party: flour tortillas wrapped around spiced ground beef and black beans, lined up in a baking dish, drenched in red enchilada sauce, topped with melted cheese and baked till bubbling. The Mexican-traditional version uses corn tortillas with a saucier ratio, but the Tex-Mex flour-tortilla version is what most people eat. You soften diced onion and garlic in oil over medium-high, brown ground beef with cumin, stir in chopped green chillies, drained black beans and salt and pepper, off the heat. Warm flour tortillas briefly so they don't crack when rolled. Spread a thin layer of red enchilada sauce in a baking dish, lay each tortilla flat, spoon filling and a tablespoon of cheese into the centre, roll tight and place seam-side down. Pour the remaining sauce evenly over, scatter the rest of the cheese. Bake at 180°C for 20 to 25 minutes till the cheese melts and bubbles and the sauce is heating through. Scatter chopped coriander, serve hot with Mexican rice, refried beans, guacamole and sour cream on the side.
 
 ## Ingredients
 

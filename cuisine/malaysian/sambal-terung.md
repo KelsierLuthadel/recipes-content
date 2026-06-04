@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Aubergines are deep-fried in batches until soft and lightly charred. The sambal is built fresh: shallot-garlic-chilli paste fried slowly in oil until darker and aromatic, then balanced with tamarind, sugar and salt. The aubergine returns to the wok and tosses through.
+A Malaysian stir-fried aubergine in sambal, the side dish that makes a meal of rice: deep-fried aubergine wedges glazed with a sweet-spicy chilli paste of shallots, garlic, dried chillies and tamarind. The aubergine collapses to silky inside while the sambal coats every piece, sour-sweet-fiery. You deep-fry aubergine wedges in batches at 180°C for three or four minutes till soft, golden and lightly blistered, drain. Blend a fresh sambal paste of shallots, garlic, soaked dried red chillies, long red chillies and a sliver of ginger, then cook it slowly in oil for six to eight minutes till it darkens, the oil separates and it smells deeply aromatic rather than raw (underdone sambal tastes one-dimensional; this colour stage is essential). Stir in tamarind, palm sugar, soy and a splash of water for a glossy thick sauce. Return the fried aubergines and a handful of sliced onion, toss gently so the aubergines don't break apart, cook another two minutes for them to soak up the sambal. Serve hot with steamed rice.
 
 ## Ingredients
 

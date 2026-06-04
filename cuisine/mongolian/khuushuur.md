@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A simple flour-water-salt dough rests for 30 minutes. Mutton (or beef) is minced finely with onion, garlic, salt and a splash of water (the water makes the filling steam-juicy inside). Dough is divided, rolled into thin 14 cm discs. A heaped tablespoon of filling sits on each disc; the edges are sealed by pinching and crimping into a flat half-moon. Deep-fried for 3 minutes a side in 180°C oil until blistered and gold.
+Mongolia's Naadam pasty, the deep-fried half-moon pie that turns up at every Naadam Festival and roadside ger stop across the steppe: thin wheat dough wrapped around minced mutton with onion and garlic, sealed and deep-fried till blistered and deep gold. The water in the filling is the technical move; it steams up inside the dumpling during frying and creates a gush of broth at the first bite. Skip it and the filling is dry and dense. You knead flour, salt and warm water into a soft pliable dough, rest 30 minutes. Combine fatty mutton mince (20% fat) with finely diced onion, crushed garlic, salt, pepper and cold water, kneading by hand till the meat is sticky and the water is absorbed. Divide the dough into 12 balls, roll each into a thin 14 cm disc 2 mm thick. Spoon a heaped tablespoon of filling onto the centre, fold over into a half-moon, press the edges firmly to seal (any gap and the filling water leaks out into the oil, deflating the pasty and making the oil angry), then crimp the curved edge with your fingers or a fork into a neat ridge. Deep-fry at 180°C two or three at a time for three minutes per side till deep gold and blistered. Lift onto kitchen paper, don't stack them (steam softens the crust), eat within ten minutes while they're crisp.
 
 ## Ingredients
 

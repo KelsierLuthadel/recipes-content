@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Thick pork loin steaks are scored, seasoned, breaded with flour-egg-panko, and shallow-fried until the crust is shatter-crisp. Served with cabbage so finely shredded it's practically a slaw, and a sticky-sweet katsu sauce.
+The original katsu, with chicken coming along later: thick pork loin steaks panko-crumbed and shallow-fried till the crust shatters, served sliced with shredded white cabbage and a sweet-tangy katsu sauce. You score the surface of each steak in a shallow cross-hatch on both sides so the rim of fat doesn't curl, season generously, then move each through flour, beaten egg and panko in turn, pressing the breadcrumbs in firmly. Medium heat is the rule (panko burns at high heat before the pork cooks), three or four minutes a side till the crust is deep gold and the centre hits 62°C; modern pork is safe there, and anything past it turns to boot leather. Drain on a wire rack, slice each cutlet into 2 cm strips on the diagonal, plate with short-grain rice and very finely shredded cabbage. Drizzle with a quick sauce of Worcestershire, ketchup, soy, sugar and a dab of Dijon. Scatter sesame seeds, add a lemon wedge, eat while the crust still snaps. Any Japanese yōshoku diner serves this; the home version is just as good.
 
 ## Ingredients
 

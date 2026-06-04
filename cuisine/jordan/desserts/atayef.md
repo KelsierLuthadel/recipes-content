@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A loose batter of fine semolina, plain flour, yeast, sugar and warm water rests until bubbly. Small disks are poured onto a hot dry pan and cook one side only, bubbles rise and burst, the top setting porous and lacy. Each disk is folded around a filling (sweetened cheese or spiced walnut), pinched into a half-moon, then fried in oil until deep golden. Cold sugar syrup is poured over hot pancakes; serve immediately.
+The small folded pancakes that turn up on every Ramadan iftar table across Jordan and the wider Levant: a yeasted semolina batter poured into small discs and cooked one side only, folded around sweetened cheese or spiced walnut, fried golden, then dunked in cold rose-water syrup. You rest the batter for an hour so the surface goes lacy and porous; that's the side the filling sticks to. Cooking only one side leaves the top doughy so the half-moon seals properly when you pinch the edges, and the fold doesn't open in the oil. The temperature contrast is the rule the whole family of Levantine sweets lives by: hot pastry into cold syrup, the syrup soaking in without going greasy. Lift each one out, set on a plate, scatter with crushed pistachios. Eat them hot, in a cluster, ideally with strong Arabic coffee or mint tea.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-A whole chicken or chicken pieces marinate in olive oil, sumac, allspice and lemon. Onions cook slowly in olive oil until completely soft and sweet, then turn deep red-purple from a generous shake of sumac. The chicken roasts on top of the onions; the bread layers under at the end to catch the juices. Pine nuts toast separately.
+Musakhan is the dish Palestinians eat from one big platter at the centre of the table, pieces of taboon bread torn and stacked, fingers reaching across each other for chicken and onions soaked through with olive oil and sumac. You begin the day before if you can: a whole chicken jointed and rubbed with olive oil, sumac, allspice, cinnamon, cardamom and lemon, left to marinate overnight so the flavour reaches the bone. Slice an unreasonable number of onions thin and cook them low and slow in a generous pool of olive oil for half an hour till they're soft and sweet, then stir in a heavy hand of sumac and watch them turn deep red-purple. The chicken roasts on a bed of half those onions till the skin is gold and the juices run clear, then the whole thing layers onto warm taboon flatbreads: bread, onions, chicken, more onions, pan juices drizzled into every corner. Scatter toasted pine nuts and parsley, dust with extra sumac, and bring the platter to the table whole. Tear, scoop, eat with your hands, the bread underneath catching every drop is half the point.
 
 ## Ingredients
 

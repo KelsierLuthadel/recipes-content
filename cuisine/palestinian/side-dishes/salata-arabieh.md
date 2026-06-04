@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Tomato, cucumber and onion all diced very small (the cut is small, 5 mm pieces, not chunky). Fresh parsley, mint and an optional chilli chop. Everything mixes in a wide bowl with lemon juice, olive oil, sumac, salt and pepper. Rest for 5 minutes for the flavours to integrate. Eat immediately, the tomato weeps quickly and the salad goes watery after an hour.
+Salata arabieh is the everyday chopped salad that turns up alongside musakhan, mansaf, kibbeh and lahem bi ajeen on Palestinian tables, a bowl of finely diced tomato and cucumber sharpened with sumac and a generous bunch of herbs. The whole dish lives or dies on two technical moves: deseed the tomatoes and cucumbers properly, and chop everything very small (5 mm pieces, not chunky). Halve the tomatoes and scoop the seeds out with a spoon (otherwise they weep and the dressing dilutes within minutes), peel half the cucumber for stripes and scoop those seeds too, and dice both as fine as you can. Add finely diced red onion, a small chilli if you like the heat, then a serious quantity of chopped flat-leaf parsley and mint, the herbs are 30% of this salad and they belong in the bowl, not as garnish. Whisk olive oil with lemon juice, sumac (the lemony purple-red Levantine spice without which the salad is just chopped vegetables), salt, pepper and a touch of pomegranate molasses for sweetness, then toss through and rest just five minutes for the flavours to meet. Tip onto a wide shallow plate and eat right away with anything Palestinian coming off the grill or out of a tagine: it's the cold, sharp, herby foil to almost everything heavier on the table.
 
 ## Ingredients
 

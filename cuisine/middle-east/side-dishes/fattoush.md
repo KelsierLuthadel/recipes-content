@@ -2,7 +2,7 @@
 
 ![Fattoush](resources/fattoush.jpg)
 
-*Levantine bread salad: chopped cucumber, tomato, radish, herbs and shards of toasted pita, all dressed with lemon, olive oil and sumac. The peasant salad that uses up stale bread; sumac gives it the characteristic tang.*
+*Levantine bread salad: chopped cucumber, tomato, radish, herbs and shards of toasted pita, all dressed with lemon, olive oil and sumac. The everyday salad that uses up stale bread; sumac gives it the characteristic tang.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Pita breads are torn into pieces and toasted (or fried) until crisp and crunchy. Chopped vegetables, mint, parsley and a sumac-lemon-olive-oil dressing are tossed together; the toasted pita goes in last so it stays crunchy. Eaten immediately before the bread goes soft.
+The Levantine bread salad that uses up day-old pita, the kind of dish that turns up at every mezze table from Damascus to Detroit: chopped cucumber, tomato, radish, romaine, fresh mint and parsley tossed with shards of crisp toasted pita in a lemon-and-sumac dressing. Sumac is the colour and the tang and what makes fattoush fattoush; skip it and you have a salad, not the dish. You tear day-old pita into 3 cm pieces, toss with olive oil and a pinch of salt, bake at 200°C for five to seven minutes till deep golden and crisp. Cool completely; warm pita softens the salad. Whisk the dressing: olive oil, lemon juice, pomegranate molasses (the tart-sweet syrup that's central to the dressing; find at any Middle Eastern grocer or substitute with balsamic and a teaspoon of honey), crushed garlic, sumac, dried mint, salt and pepper. Combine the tomatoes, cucumber, radishes, spring onions, lettuce, fresh mint and parsley in a wide bowl, pour the dressing over, toss gently. Add the toasted pita last and toss once more, plate immediately, scatter extra sumac across the top. Eat the moment it's tossed; pita in dressing for more than a few minutes turns soggy.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Aubergines char on an open flame until skin is uniformly black and flesh is collapsed. Steam under foil 10 minutes; peel off the skin. Mash the flesh with tahini, yogurt, crushed garlic, lemon and salt to a smooth dip. Plate; pool olive oil; scatter pomegranate seeds, parsley and a pinch of cumin.
+The smoky aubergine dip that sits on every Levantine mezze table, smoother and richer than baba ganoush thanks to a spoon of yogurt folded through: charred aubergine mashed with tahini, garlic, salt and lemon. Open flame is the whole dish, oven-roasted gives a passable but inferior result, so you rest each aubergine directly on a gas burner and rotate till the skin is uniformly black and the flesh has fully collapsed (15 to 20 minutes). Steam under a covered bowl 10 minutes to loosen the skin, peel off the burnt outside, drain the flesh in a colander to release water (this earns the patience; loose mutabbal is bland). Mash with tahini, Greek yogurt, garlic-salt paste, lemon and cumin to a chunky-smooth dip; never blend in a processor, too smooth and the texture is gone. Spread on a wide shallow plate with ridges drawn through it, pool olive oil in the dips, scatter pomegranate seeds, chopped parsley and a dusting of sumac. Eat with warm pita as part of a mezze.
 
 ## Ingredients
 

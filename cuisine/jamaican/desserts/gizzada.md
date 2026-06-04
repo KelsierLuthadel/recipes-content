@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A short, biscuity pastry shell, hand-rolled into discs and pinched around the edges to form a free-form cup (no tart tin needed, though a muffin tin makes it easier). Filled with desiccated coconut simmered with dark brown sugar, water, fresh ginger, nutmeg, vanilla and a touch of butter until thick and sticky. Baked until the coconut filling is set and lightly caramelised and the pastry is pale gold.
+A fixture at every Jamaican bakery and tea trolley, these small coconut tarts go by the affectionate name "pinch-me-round" for the hand-pinched edge that gives them their shape. You make a short, biscuit-like pastry and chill it briefly, then build the filling on the stove: desiccated coconut simmered with dark brown sugar, fresh ginger, nutmeg and a touch of butter till the liquid has gone and the mixture clings together in a sticky, glossy mass. Roll the chilled dough into discs, pinch the edges up by hand into a free-form cup (a muffin tin makes it easier but isn't essential), and spoon the warm coconut into each well. You're after pale-golden pastry and a peaks-and-troughs filling that's lightly caramelised on top. Eat them at room temperature with hot Jamaican coffee or a glass of cold milk, or alongside a scoop of vanilla ice cream for a quick dessert.
 
 ## Ingredients
 

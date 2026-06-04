@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Mince browns with onion, garlic, curry powder, ginger and a small chopped chilli; the filling is cooled. Spring-roll pastry strips are folded into triangular pouches around a teaspoon of filling, sealed with a flour-water paste, and deep-fried 170°C until deep gold. Crisp shell, hot savoury inside.
+Mozambique's take on the samosa, brought to East Africa by Indian traders and reshaped by Portuguese-African home cooking: smaller and crisper than the Indian original, filled with spiced beef mince and onion with a hit of bird's-eye chilli, folded into neat triangles and deep-fried till the shell shatters. You brown beef mince hard in a wide pan, breaking up clumps, pour off excess fat. Soften finely chopped onion in the rendered fat for five minutes, then bloom garlic, grated ginger, curry powder, paprika and finely chopped bird's-eye chilli for a minute. Splash in 100 ml water, simmer five minutes till almost dry, stir in chopped coriander, lime juice, salt and pepper off the heat. Cool the filling completely on a tray (warm filling steams the pastry from the inside and ruins the seal). Cut spring-roll pastry sheets into 8 cm wide strips. Place a teaspoon of filling at the bottom-right corner of a strip, fold the corner up to the left edge to form a triangle, then walk the flag-fold up the strip in a zig-zag, sealing the tail with a flour-water paste. Deep-fry at 170°C six at a time for three or four minutes turning till deep gold. Drain on kitchen paper, eat hot with piri-piri sauce or a chilli dip alongside.
 
 ## Ingredients
 

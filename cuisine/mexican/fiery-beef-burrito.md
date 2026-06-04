@@ -9,7 +9,7 @@
 **Cook Time:** 7 minutes
 
 ## Overview
-The combination of already flavourful spiced beef with the particularly fiery salsa makes this burrito a force to be reckoned with. This specific burrito variation combines crunchy tortilla chips, creamy nacho cheese sauce, and a bold chile de árbol red salsa to create a complex, heat-forward flavour profile that packs a punch.
+A heat-forward Mexican-American burrito for anyone who wants the chilli to do real work: slow-cooked spiced beef wrapped in a warm flour tortilla with spiced rice, lightly crushed tortilla chips for crunch, a drizzle of nacho cheese sauce, a generous spoon of chile de árbol red salsa and a small dab of sour cream as the only cooling counter. Chile de árbol salsa is properly hot (15,000 to 30,000 Scoville units), so adjust the quantity if you're heat-sensitive or swap for a milder salsa roja. You warm the cooked spiced beef in a pot till sizzling, warm a flour tortilla 15 seconds a side in a dry pan till pliable. Lay the tortilla on a sheet of foil, build along the bottom half: warmed beef in an even layer, spiced rice in a line across it, crushed tortilla chips, a drizzle of nacho cheese sauce, the chile de árbol salsa, a topping spoon of sour cream. Lift the bottom third up over the fillings, fold both sides in tightly, roll up to seal, wrap in foil. Heat in a low oven (or "keep warm" setting) for one or two minutes to bind it together. Unwrap and serve immediately with extra salsa and a cold drink to chase the heat.
 
 ## Ingredients
 

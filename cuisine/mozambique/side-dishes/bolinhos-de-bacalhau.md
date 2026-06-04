@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Salt cod soaks for 24 hours with several water changes to draw out the salt. Once desalted, it's poached, flaked and folded into hot mashed potato with onion, parsley, egg and a pinch of pepper. The mix is shaped between two tablespoons into the classic oval (two-spoon quenelle shape) and deep-fried.
+The great Lusophone snack and the small fritter that turns up at every Mozambican wedding, Sunday brunch and Portuguese tasca: flaked salt cod folded into hot mashed potato with onion, parsley and egg, shaped between two tablespoons into classic oval quenelles, deep-fried golden. The desalt is the catch; under-soaked bacalhau makes inedibly salty fritters, so 24 hours with three or four water changes is the minimum, and tasting a small piece on the second day tells you if it's ready. You poach the desalted cod in fresh cold water for eight minutes till it flakes easily, skin and bone it, flake into small pieces. Meanwhile boil floury potatoes till tender, drain, return to the dry pot to dry off briefly, mash smooth (wet mash makes fritters that won't shape, so the dry-off step earns its keep). Combine the warm mash with the flaked cod, finely chopped onion, crushed garlic, chopped parsley, beaten eggs and white pepper into a uniform thick paste; don't overwork, you want light bolinhos. Heat oil to 170°C, warm two tablespoons in hot water, scoop and quenelle the mixture into ovals straight into the oil. Fry in batches for three or four minutes till deep gold. Drain on kitchen paper, eat warm with lemon wedges and a cold beer (or a glass of vinho verde).
 
 ## Ingredients
 

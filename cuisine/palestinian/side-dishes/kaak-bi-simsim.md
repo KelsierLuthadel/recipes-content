@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-A soft yeasted dough (plain flour, milk, water, oil, yeast, sugar, salt, a touch of mahleb or nigella) rises for 1 hour. Divides into 4 or 8 portions. Each rolls into a long rope, then is shaped into an oblong ring with one slightly elongated side (the traditional shape is closer to a stretched horseshoe than a perfect circle). Dipped briefly in a molasses-and-water glaze, then dredged heavily in toasted sesame seeds. Rises for 30 minutes. Baked at 220°C 15-18 minutes until deep gold.
+Walk Jerusalem's Old City at any hour and you'll find the bread sellers pushing their wooden carts piled with stretched horseshoe-shaped rings crusted in sesame, sold with a paper sachet of za'atar to dip the torn bread in. You raise a soft yeasted dough scented faintly with mahleb (the ground cherry kernel that gives Levantine bakeries their distinctive almond-cherry perfume) for an hour till doubled. While it rises, toast a generous bowl of sesame seeds till pale gold and fragrant, and whisk date molasses with warm water in a wide shallow dish for the glaze. Divide the dough into ropes, bring the ends together to form a stretched-oblong ring more horseshoe than circle, dip the whole ring in the molasses glaze and press it firmly into the sesame so every surface is coated. Final rise for 30 minutes, then bake hot at 220°C for 15 to 18 minutes till deep golden-brown and the sesame is fully toasted into the crust. Eat warm, torn and stuffed with a sliced hard-boiled egg, or dipped into za'atar mixed with olive oil for the simplest Jerusalem breakfast you can put together.
 
 ## Ingredients
 

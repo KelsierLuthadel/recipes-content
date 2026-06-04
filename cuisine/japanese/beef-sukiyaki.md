@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A wide shallow pot is brushed with beef fat, the warishita sauce (soy-mirin-sake-sugar) is poured in, then thinly sliced beef and a colourful array of vegetables, tofu and shirataki noodles are added in batches as people eat. Each piece dips in raw egg yolk before going in the mouth. A portable hob at the table is traditional but not required.
+The Japanese hot-pot that turns dinner into a tableside event: you sit a wide shallow pot on a portable hob between everyone, brush the bottom with beef fat, and pour in warishita (the sweet-savoury sauce of soy, mirin, sake, sugar and dashi). Paper-thin slices of rib-eye go in first to colour briefly in the fat, then groups of vegetables, tofu and shirataki noodles arrange themselves around the pot, each kept separate so you can pick what you want. As the warishita simmers, the meat cooks in seconds and the tofu soaks up the broth; you fish a slice out, dip it in your own bowl of beaten raw egg, and eat it over rice. The dip is the part that makes sukiyaki sukiyaki, so use the freshest eggs you can find (or pasteurised if you're nervous). Top up the pot as the level drops; the meal lasts as long as the conversation. A celebration dish: New Year, birthdays, anyone-special-coming-over.
 
 ## Ingredients
 

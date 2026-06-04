@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Plain flour and fine semolina (durum flour) combine with yeast, salt, sugar, warm water and a glug of olive oil. Knead 8 minutes. First rise for 1 hour till doubled. Divide into 4 balls; shape each into a flat round disc 18 cm across and 2 cm thick; rest for 30 minutes covered. Score the tops in a cross pattern; sprinkle with sesame or nigella seeds. Bake for 22-25 minutes at 220°C.
+Morocco's everyday round bread, torn at the table to scoop up tagines and to mop the last of any sauce: a slightly enriched semolina-and-flour dough baked flat into a disc 2 cm thick. Khobz is shaped for tearing and dipping, not slicing for sandwiches; flat and wide is the rule. Semolina (durum flour) is essential here; plain flour alone gives a generic round loaf, while the durum adds the wheaty depth and tender bite that's distinctly Moroccan. You whisk strong bread flour, fine semolina, yeast, salt and sugar, mix in warm water and olive oil, knead eight minutes till smooth and supple. Rise in a lightly oiled bowl for an hour till doubled. Divide into four portions, shape each into a smooth ball, then flatten with the heel of your hand to a disc 18 cm across and 2 cm thick. Rest 30 minutes covered. Score a shallow cross on top with the tip of a sharp knife, brush with water, sprinkle with sesame and nigella seeds. Bake at 220°C for 22 to 25 minutes till deep gold and the loaves sound hollow when tapped on the base; hot and fast so the bread doesn't dry out. Cool on a wire rack at least 20 minutes before tearing.
 
 ## Ingredients
 - 400 g strong white bread flour

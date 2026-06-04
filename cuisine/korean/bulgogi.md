@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-Rib-eye or sirloin sliced paper-thin sits in a marinade of soy, brown sugar, sesame oil, garlic, ginger and grated Asian pear (or apple), then sears hard in a screaming-hot pan or on a BBQ. Served wrapped in lettuce leaves with rice and ssamjang.
+Korean barbecue's defining dish: paper-thin rib-eye or sirloin marinated in a sweet-savoury soy-and-pear paste, then seared hard on a screaming-hot pan or BBQ till the sugar in the marinade caramelises the edges. The grated Asian pear (or apple) is structural here, not decorative; the fruit's enzymes break down the meat fibres and tenderise overnight in a way nothing else quite matches. You butcher-slice the beef paper-thin (or freeze the steak 30 minutes and slice yourself for clean cuts), marinate four hours minimum with soy, brown sugar, toasted sesame oil, garlic, ginger, grated onion, spring onion and mirin. Cook in batches on a screaming-hot pan; crowding the pan steams the meat instead of charring it, and lukewarm heat gives grey beef. Pile the cooked meat onto a platter, set out butter lettuce leaves, rice, sliced cucumber, kimchi and ssamjang. Diners build their own wraps: lettuce, rice, beef, kimchi, a dab of ssamjang, fold and eat in one bite.
 
 ## Ingredients
 

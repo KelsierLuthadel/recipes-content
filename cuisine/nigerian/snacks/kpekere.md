@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Green plantains peel, the trick is scoring lengthways down the ridges and then prying the skin off in strips (very different from a banana). The peeled plantain slices on a mandoline or with a sharp knife into 2 mm rounds. Fries in hot oil (180°C) 2-3 minutes till deep gold and crisp. Drains; salts while hot. Optional: tosses with chilli powder.
+Nigeria's plantain crisps, sold in cellophane bags at every bus station and motorway stop: thin slices of green plantain deep-fried into salted wafer-thin chips, the snack you'd grab on the way home. Green plantains are essential here; ripe plantains turn to caramel mush in the fryer, while green plantains are starchy like potatoes and give crisp chips. The peel is a trick of its own; plantain skin is thick and tough, so score 3 or 4 lengthways cuts down the ridges with a sharp knife (don't cut into the flesh), then pry up a strip of skin at one end and pull off in strips. Slice each peeled plantain on a mandoline (or with a very sharp knife) into 2 mm rounds; uniform thickness means uniform frying. Heat oil to 180°C in a wide pan, lower a handful of slices in (don't crowd; fry in four or five batches). The oil bubbles vigorously. Fry two or three minutes per batch stirring once or twice with a slotted spoon till the chips turn deep golden and stop bubbling. Lift onto a wire rack lined with kitchen paper, sprinkle with salt immediately (salt sticks only while the oil-slick surface is still warm; cold chips just shed it). For the spiced version, also dust with chilli powder and onion powder and toss gently. Cool completely before storing; hot chips trap steam. Serve in bowls as a snack with cold drinks.
 
 ## Ingredients
 - 4 green (unripe) plantains

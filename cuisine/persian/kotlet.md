@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A medium potato grates fine (on a box grater); a small onion grates the same way. The grated potato and onion squeeze in a clean tea towel to extract excess water. They combine with mince, egg, turmeric, salt, pepper and a touch of cinnamon into a paste. The paste rests for 30 minutes (firms up; the salt seasons through). Shaped into 12 oval patties, about 8 cm long, 1 cm thick. Shallow-fried in sunflower oil 3 minutes per side until deep gold.
+Kotlet is the everyday Persian cutlet, the dish that anchors lunchboxes, picnic spreads and the bread sandwiches that turn up in school bags and on long road trips across Iran. The texture is the whole point: a medium-fine grate of potato and onion squeezed bone-dry in a tea towel (wet kotlet falls apart in the pan), folded into beef mince with egg, turmeric, salt, pepper and a faint hit of cinnamon. Knead the mix with your hand for three or four minutes till it's uniform and tacky, then chill for half an hour so the salt seasons through and the paste firms enough to shape. With wet hands, take two heaped tablespoons and pat into a flat oval about 8 cm long and 1 cm thick (twelve from the batch). Shallow-fry in sunflower oil over medium heat, four or five at a time so the pan doesn't crowd, three minutes a side till the surface is deep golden brown and crisp. Eat warm wrapped in sangak or taftoon with sliced tomato, a couple of radishes, parsley sprigs and Persian pickles, or cold the next day in a bread sandwich with butter and tomato, the way Tehran families pack them for the road.
 
 ## Ingredients
 

@@ -9,7 +9,7 @@
 **Cook Time:** 1 hour 20 minutes
 
 ## Overview
-Chilli con carne is a hearty, flavour-packed stew that celebrates bold Mexican spicing combined with slow-cooked beef, beans, and tomatoes. This version builds deep, complex flavours through toasted whole spices, umami ingredients (marmite and soy sauce), and slow simmering. The result is a comforting, warming dish that improves with time and is perfect for feeding a crowd.
+The British home-cook chilli, the kind of stew that turns up at student houses, family Sunday lunches and weeknight dinners across the UK: beef mince slow-simmered with kidney beans, baked beans, tomato passata and a generous spice mix lifted by marmite, soy sauce and balsamic for umami depth. Not authentic Mexican but a proper comforting crowd-feeder, and better on day two. You toast whole cumin seeds and cloves in a dry pan till they smoke and become fragrant (this single step is what separates a good chilli from a flat one; don't skip it), grind to a powder and whisk with stock, marmite, soy, balsamic, chilli powder, ground coriander and tomato paste. Sweat chopped onion, garlic, grated celery and grated carrot lid-down on medium-low for 15 minutes till soft and sweet without browning. Brown the beef hard with the vegetables till the meat dries to a deep brown. Pour in the spice-stock, drained kidney and baked beans and a litre of passata, drop in a star anise, simmer uncovered 45 minutes to an hour till the chilli darkens and thickens. Taste and adjust with salt, a pinch of sugar if bitter, more marmite or soy if flat. Serve hot with rice, sour cream, grated cheese, diced onion and fresh coriander.
 
 ## Ingredients
 

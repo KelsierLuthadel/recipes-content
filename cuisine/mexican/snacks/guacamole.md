@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Avocados halve, scoop out, mash chunky (not smooth, texture matters). Onion finely chops, jalapeño deseeds and chops, coriander chops. Lime juice, salt, mix. Eat immediately or press cling film flat onto the surface to slow oxidation.
+Mexico's avocado dip in its purest form: ripe avocados mashed with lime, salt, finely chopped white onion, fresh chilli and coriander. No tomato, no cumin, no sour cream, no extras; the simpler version is the better one. The whole dish hangs on ripe avocados (hard ones give pale bland guacamole) and assertive seasoning. You halve ripe avocados, scoop the flesh into a bowl, mash with a fork to chunky (not smooth; texture matters and a blender turns it brown faster). Stir in finely chopped white onion, deseeded jalapeño or serrano, chopped coriander, lime juice and flaky salt. The lime should be assertive and the salt present; under-salted guacamole tastes flat, so be generous. Taste and adjust both. Pile into a small bowl, top with a few extra coriander leaves and a final squeeze of lime, serve immediately with tortilla chips, on tacos, or beside grilled meat. If you must store, press cling film flat onto the surface with no air gap; the brown layer that forms is just oxidised and mixes back in.
 
 ## Ingredients
 

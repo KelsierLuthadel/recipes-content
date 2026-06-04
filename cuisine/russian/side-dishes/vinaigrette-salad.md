@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (plus cooling)
 
 ## Overview
-Beetroot, potatoes and carrots boil in their skins. Once cool, they're peeled and diced into 1 cm cubes. Sauerkraut is squeezed dry; pickled cucumbers are diced; spring onions and dill chopped. Everything tosses with sunflower oil, vinegar, salt and pepper. Best after a few hours' rest in the fridge.
+The Russian vinaigrette is one of those salads where the colour-bleed is the look: cooked beetroot, potatoes, carrots and beans diced small and tossed with sauerkraut and pickles, the beetroot tinting everything pink-purple over a few hours' rest in the fridge so you can't quite tell what's what. Cook each vegetable separately in its own pan of lightly salted water (they cook at different rates, and combined the potatoes go to mush before the beetroot is ready): beetroot takes 30 to 45 minutes till a knife slides through, potatoes 18 to 22, carrots 15 to 18. Drain and cool fully, then peel and dice everything into matching 1 cm cubes (wear gloves for the beetroot unless you don't mind your hands staining pink for two days). Squeeze sauerkraut hard between your palms to remove the brine, chop roughly, dice three dill pickles to the same size. Tip everything into a wide bowl with sliced spring onions, drained kidney beans, sunflower oil, cider vinegar, salt and pepper, fold through half the chopped dill. Cover and refrigerate at least an hour and ideally three or four so the flavours meld and the beetroot does its quiet work tinting the whole bowl. Scatter the remaining dill across the top and eat cold straight from the fridge with dark rye bread, the salad gets better over four days as the dressing soaks in further.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A small quantity of minced mutton and diced onion fries gently in fat. Mutton stock (or water) goes in; the broth simmers for 10 minutes. Plain flour is rubbed with a few drops of water between the palms to make tiny crumb-sized lumps; these scatter into the simmering broth, where they cook for 5 minutes into soft pearls. Salt and pepper to season. A scatter of fresh dill or spring onion finishes the bowl.
+Mongolia's flour-and-mutton broth, the steppe's morning-after restorative for hangovers and cold mornings: simmering mutton stock with rubbed-flour pearls cooked through it, salty and warming and plain on purpose. Don't add chilli, garlic or fancy herbs; that's not the dish. You fry a small quantity of minced mutton (or beef) with finely diced onion in oil or mutton fat for five minutes till the meat is just cooked. Pour in mutton stock with salt and pepper, simmer eight minutes to develop the flavour. Place plain flour in a wide shallow bowl, drizzle a couple of tablespoons of cold water across, rub the flour and water together between your palms; the friction aggregates the flour into pea-sized crumbs (too much water and you get dough; too little and you get loose flour; the right consistency is couscous-like crumbs). Sieve the crumbs to remove the loose flour, scatter into the gently simmering broth a handful at a time while stirring (drop them in a lump and they fuse together). Simmer five minutes till the pearls cook through and swell slightly. Ladle into bowls, scatter sliced spring onion or fresh dill, eat hot.
 
 ## Ingredients
 

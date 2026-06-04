@@ -9,7 +9,7 @@
 **Serves:** 8
 
 ## Overview
-A vibrant, deeply flavoured roasted red pepper salsa with shallots, fresh thyme, basil, lemon, and olive oil. Roasting the peppers until blackened intensifies their sweetness and adds a subtle smokiness. Versatile enough to serve with pasta, spread in a bouchée canapé, or as an accompaniment to grilled meats and fish.
+Romesco is the great red pepper salsa of Catalonia, a vibrant deeply flavoured pepper-based sauce that turns up alongside grilled spring onions (calçots) in winter, fish off the grill in summer, and as a dollop on almost anything that wants brightening. The whole trick is roasting the peppers until the skins are properly blackened: the char strips off the bitter raw-pepper edge and concentrates the sweet flesh underneath. Lightly oil four red peppers and roast them in a hot oven or under the grill till the skins are charred and collapsed, then drop them into a plastic food bag or sealed bowl and leave them to sweat for ten minutes (the steam loosens the skin from the flesh). Peel off the blackened skin, pull out the cores, seeds and any white membrane, then dice the flesh as finely as you can manage to something between a tiny dice and a coulis. Tip into a wide bowl with finely chopped shallots, the leaves of two thyme sprigs, snipped basil, olive oil, lemon juice, salt and pepper. Stir gently together, taste and adjust seasoning, then leave to rest at least an hour for the flavours to meld (or even better, make it a day ahead). Serve at room temperature or barely warmed with pasta, on bouchée canapés, alongside grilled fish or lamb, or just spread thickly on a piece of crusty bread.
 
 ## Ingredients
 - 4 red peppers

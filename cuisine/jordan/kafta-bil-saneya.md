@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Mixed lamb-and-beef mince mixes with grated onion, parsley, allspice, cinnamon and salt. Potato slices and tomato slices line a wide baking dish. The mince mix shapes into thick patties (or flat layer) and goes on top. More tomato and pepper slices over. A tomato sauce (tomato puree, pomegranate molasses, garlic, stock) pours over. Baked for 40 minutes at 200°C.
+A Friday-lunch or family-dinner Jordanian tray bake: spiced lamb-and-beef mince patties layered over sliced potato and tomato, topped with peppers and onion rings, drowned in a tomato-pomegranate sauce, baked till everything is tender and the top bronzes. You mix lamb and beef with finely grated onion (saved juices and all, for moisture), parsley, allspice, cinnamon and salt, rest 10 minutes for the flavours to meld. Par-cook potato slices on an oiled tray first; the kafta cooks faster than potato in the same tin, so this is the catch that earns the patience. Layer everything in a wide oven dish: potato beneath, kafta over, then tomato slices, pepper rings, red onion on top. Whisk tomato puree and pomegranate molasses (the Jordanian signature, the deep sweet-sour note that makes the dish what it is) with garlic, allspice and hot stock, pour around the kafta so the liquid comes halfway up. Bake 40 minutes till the top bronzes; rest five minutes and scatter parsley. Eat with timman (white rice) or warm bread.
 
 ## Ingredients
 

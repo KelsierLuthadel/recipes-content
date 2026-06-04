@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-The brightest barszcz uses fermented beetroot kvas, beetroot, garlic and rye bread crust steeped in salted water for 24-48 hours, for the sour edge. Faster: simmer roasted beetroot, root vegetables and dried mushroom in vegetable stock with bay, peppercorns and allspice. Strain to clarity; finish with vinegar and a small amount of sugar to balance. Serve hot from a small bowl or mug.
+Polish barszcz is the brilliant ruby broth that opens Christmas Eve dinner and turns up in mugs at every winter table, clearer and more refined than its Russian cousin, almost a beetroot consommé sipped before a meal rather than ladled into a bowl. The proper version uses fermented beetroot kvas (beetroot, garlic and rye crust steeped in salted water for a day or two) for that sour edge, but the home cook's faster route is just as good: simmer chopped beetroot with onion, carrots, celery, smashed garlic and a knot of dried wild mushrooms in vegetable stock with bay, allspice and peppercorns for the better part of an hour till the broth has darkened to deep red and tastes intensely of beet. Strain through muslin without pressing the solids (the whole point is clarity, so let it drip), then balance off the heat with cider vinegar, a touch of brown sugar and salt till the soup tastes sour-sweet with earth running underneath. Add the vinegar at the end, not during the simmer, or the colour mutes from brilliant to brown. Ladle into small bowls or mugs (often with a single mushroom-filled uszka dumpling floating in each), scatter with fresh dill, and serve alongside savoury pasztecik pastries while everyone finds their seat.
 
 ## Ingredients
 

@@ -11,6 +11,7 @@ tags:
 mentions:
   - cuisine/jordan/mansaf
   - tutorials/pizza/dough
+  - tutorials/pizza/sauce
 ingredients:
   - qty: 500
     unit: g

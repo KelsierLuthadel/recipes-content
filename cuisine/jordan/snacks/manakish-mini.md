@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes per batch
 
 ## Overview
-A soft yeasted bread dough rises for 1 hour. Three toppings prep simultaneously: (1) za'atar-and-olive-oil paste; (2) grated akkawi-mozzarella-feta blend with nigella seeds; (3) spiced lamb mince with tomato and pomegranate molasses. Dough divides into 18 balls; each rolls into an 8 cm disc with a slight raised rim. Toppings spoon on. Baked at 230°C on a hot stone or upside-down tray for 6-8 minutes until the dough is gold and the toppings are bubbling / set.
+Snack-sized Jordan manakish: small yeasted discs topped three ways with za'atar oil, akkawi cheese mix with nigella, or spiced lamb mince. A platter of all three together at a Friday brunch or as part of a wider mezze spread. You make a soft yeasted bread dough and let it rise for an hour, then prep the toppings in parallel: za'atar whisked with olive oil into a spoonable paste, grated mozzarella with feta and halloumi mixed with nigella and dried mint, and a quick spiced lamb mince with tomato and pomegranate molasses. Knock back the dough, divide into 18 little balls, roll each into an 8 cm disc with a slightly raised rim to hold the topping. A hot baking stone or upside-down heavy tray pre-heated at 230°C is non-negotiable; without it the bases stay soft and pale. Slide six on at a time, bake six to eight minutes till the dough is gold and the toppings are bubbling, set or glistening as appropriate. Scatter a pinch of sumac across the platter, eat warm, fold each in half like a small taco or eat flat off the plate.
 
 ## Ingredients
 

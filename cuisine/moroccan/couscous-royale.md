@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Lamb and chicken poach slowly in a saffron-tomato broth with chunks of root vegetables and chickpeas. Merguez sausages grill or fry separately. Couscous steams (or is rehydrated quickly with hot broth and butter). Everything plates separately on a vast platter; diners build their own bowls and slick with harissa.
+The festive Moroccan-Maghreb couscous that crowns a Sunday lunch or a celebration table: fluffy semolina mounded high on a platter, topped with merguez sausages, lamb shoulder, chicken and a vegetable-rich broth of carrots, courgette, turnips and chickpeas, with harissa on the side. A single platter feeds a crowd, and the building-your-own-bowl ritual is half the dish. You brown lamb and chicken pieces in batches in a heavy pot, set aside. Soften sliced onion in the rendered fat for 10 minutes, then bloom garlic, ginger, saffron, turmeric, cumin and ras el hanout for a minute. Stir in tomato puree and tinned tomatoes, return the lamb with stock, simmer covered for an hour. Add chicken, carrots and turnips for another 30 minutes, then courgettes and chickpeas for 20 minutes more. Steam couscous separately, or pour boiling water over it in a bowl, cover with cling film, leave eight minutes, fork through with butter. Grill or fry the merguez separately (cooked in the broth they bleed and turn it greasy). Mound the couscous on a vast platter, arrange the meats and vegetables on top, spoon broth over to moisten. Set out a small bowl of harissa whisked with a ladle of broth (more spoonable that way), lemon wedges, and a jug of the rest of the broth for ladling.
 
 ## Ingredients
 

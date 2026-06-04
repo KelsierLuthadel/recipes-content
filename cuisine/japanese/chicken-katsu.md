@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Chicken breasts are flattened, dredged in flour, egg and panko, then shallow-fried until the crust is deep golden and shatteringly crisp. Served sliced over rice with shredded cabbage and a katsu sauce built on Worcestershire and ketchup.
+The Japanese take on schnitzel that turned up on Tokyo lunch counters in the 1900s and on British high streets a century later. You flatten chicken breasts under cling film with a rolling pin so they cook evenly, then move each one through three plates (flour, beaten egg, panko) and shallow-fry over moderate heat. Panko burns at high heat before the chicken cooks through, so the patience here is medium heat for three or four minutes a side. Drain on a wire rack, not paper towels, which trap steam and soften the bottom. Slice on the diagonal into 2 cm strips so the crust still shatters, mound over short-grain rice, pile finely shredded white cabbage alongside, drizzle with a quick katsu sauce of Worcestershire and ketchup, and finish with a lemon wedge.
 
 ## Ingredients
 

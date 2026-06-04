@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Dried chickpeas (or a chickpea-fava blend) soak overnight. Drained, blitzed with onion, leek, a heaped pile of fresh parsley AND coriander (the Palestinian style is herb-heavy and notably green), garlic, ground cumin, ground coriander, salt and Aleppo pepper. Left to rest. Baking soda mixed in right before frying. Shaped into small patties or balls; pressed into sesame seeds; deep-fried until amber. Stuffed into khobz with tahini sauce, salad and pickled vegetables.
+The Palestinian falafel is the herb-heavy, vividly green sort, the one whose interior you can see is bright with parsley and coriander the moment you bite through the amber crust. You soak dried chickpeas (or a chickpea-fava blend) overnight with a pinch of bicarbonate, drain them, and tip them into the food processor with onion, leek, a fistful of garlic and what feels like too much fresh parsley, coriander and dill, pulse to a coarse green paste that still has grain. Rest the paste 30 minutes for the flavours to come together, then stir in the baking soda only just before frying (it activates with moisture and you want all its lift in the oil). Shape into small tablespoon patties or balls, press one side into sesame seeds, and slide into 175°C oil six or eight at a time so the temperature stays steady. They're done at amber-gold, two or three minutes per side, with a craggy crisp exterior and that distinctive emerald interior when you split one open. Stuff into warm khobz with tahini sauce, sliced tomato and cucumber, romaine, the pink Palestinian pickled turnips, a sprinkle of sumac and a few drops of hot sauce, and eat standing up while the next batch is still hitting the oil.
 
 ## Ingredients
 

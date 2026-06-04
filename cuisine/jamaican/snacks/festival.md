@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A simple dough of cornmeal, plain flour, sugar, baking powder, salt, vanilla and a hint of nutmeg, brought together with milk or water. Kneaded briefly, rested, then rolled into elongated finger shapes and fried in medium-hot oil until deep golden. The cornmeal gives a crunchy crust and an almost cakey interior. Sweet enough to eat as a snack, but the contrast with salty jerk or fried fish is the point.
+The sweet fried cornmeal finger that turns up beside jerk chicken at every Boston Bay roadside stand and beside fried fish at every Negril beach shack. You bring together a simple dough of plain flour, fine cornmeal, sugar, baking powder and a pinch of nutmeg, perfume it with vanilla, and pull it together with milk (or coconut milk for richness). Knead it just till smooth, rest it briefly, then roll into tapered fingers about 10 cm long and slip them into medium oil. The cornmeal gives a crunchy crust and an almost cakey interior; you want a steady medium sizzle, not a roar, so the centre cooks through before the outside scorches. They're ready when they float and feel hollow-light. Sweet enough to eat as a snack, but the proper job is contrast: the slightly cakey, slightly sweet bite against salty jerk, escovitch fish or a fish tea.
 
 ## Ingredients
 

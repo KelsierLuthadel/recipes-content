@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 45 minutes
 
 ## Overview
-Mutton on the bone, shoulder, breast, leg in big pieces, is placed in a deep pot. Cold water covers. Salt is added (heroically, about 1 tablespoon per litre). The pot comes to a boil; the surface is skimmed thoroughly; then it simmers, partially covered, until the meat is so tender it falls in big juicy pieces from the bone. The dish is piled onto a platter; the broth is reserved and drunk in cups alongside.
+The honour-meat of the Mongolian steppe and the plainest expression of the country's cooking: mutton on the bone boiled in salted water with nothing else, served piled on a platter with the broth drunk from cups alongside. The salt is heroic (about a tablespoon per litre), and the simplicity is the point. Vegetables and herbs are anti-traditional here; this is meat, water, salt and slow time. You place mixed mutton pieces (shoulder, leg, breast and ribs traditionally) in a deep heavy pot, cover with cold water by 5 cm, bring slowly to a boil over medium heat (slow heating makes a clearer broth). As the water approaches a boil, foam rises; skim it off thoroughly for three or four minutes till it stops forming. Add the salt and an optional halved onion or bay leaf if you're not a purist. Drop to the lowest simmer (boiling toughens the meat and clouds the broth), partial lid on, cook one and a half hours till the meat is so tender it falls in big juicy pieces from the bone. Rest 15 minutes in the broth off the heat. Lift the mutton onto a wide warmed platter, strain the broth into a jug or cups. Eat the meat by hand or with a knife, sprinkling salt flakes on as you go, drink the salty broth from cups alongside, dip in Mongolian-style sharp mustard on the side.
 
 ## Ingredients
 

@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-Ceviche is a vibrant, no-cook appetizer in which fresh seafood is "cooked" by the acidity of lime juice, taking on a firm, opaque texture while retaining a wonderfully fresh flavour. The addition of mango, citrus segments, and fresh chilli creates a bright, tropical balance of sweet, sharp, and heat.
+Ceviche is the great no-cook appetiser of the Pacific coast, fresh fish and seafood "cooked" only by the acid of lime juice till the flesh turns firm and opaque, brightened with chopped chilli, citrus segments and fresh mango for a sweet-sharp tropical edge. Everything depends on the fish: use the freshest you can find, because there's no heat to compensate for anything tired. Cut salmon and scallop into 1 cm dice, drop into a wide bowl with peeled cooked prawns, deseeded diced tomato, chopped red onion, deseeded chopped red chilli and a generous handful of mango cubes scored straight off the stone. Squeeze the juice of eight limes over with two tablespoons of caster sugar and a good pinch of salt and pepper, stir gently, then cover and leave to marinate in the fridge for exactly three hours: shorter and the fish stays raw in the middle, longer and the texture turns rubbery as the acid keeps working. While it marinates, segment two pink grapefruit, three oranges and the remaining limes by cutting between the membranes. Drain off as much of the marinade as you can before folding the citrus segments gently through (otherwise the dish goes sharp and watery), taste for seasoning, then arrange on a wide chilled platter. Eat straight away with tortilla chips, crusty bread, or simply a fork and a cold glass of pisco.
 
 ## Ingredients
 - 350 grams medium cooked prawns (peeled and de-veined)

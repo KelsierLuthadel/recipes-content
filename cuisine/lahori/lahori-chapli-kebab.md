@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Minced beef is mixed with crushed coriander seed, anardana (pomegranate seed) for sourness, finely chopped onion, green chilli, ginger and a generous handful of chopped fresh coriander. Egg, gram flour and a small amount of cornflour bind the mixture loosely. The patties are pressed paper-thin (chapli means slipper, after the shape) and shallow-fried hot in beef fat or oil until the edges crisp and the centre stays juicy.
+Flat, crisp-edged minced beef patties from the Khyber-Peshawari kitchens that Lahore made its own: a generous handful of fresh coriander, chopped tomato, green chilli and ginger folded into beef mince with crushed coriander seeds and dried pomegranate seeds for sourness, pressed paper-thin (chapli means slipper, after the shape), and shallow-fried hot in beef dripping till the edges crisp. You squeeze the chopped onion and chopped tomato dry in a tea towel (wet vegetables make a loose mixture; the kebabs have to hold together when flipped). Mix the mince with the squeezed vegetables, ginger-garlic paste, egg, toasted gram flour, cornflour, coarsely crushed coriander seeds (not powdered; the cracked seeds are part of the texture), anardana, cumin, Kashmiri chilli and garam masala. Knead for two or three minutes till tacky, rest 30 minutes in the fridge so the kebabs hold their shape. Divide into eight, wet your palms, flatten each ball to a 10 to 12 cm thin disc no thicker than a centimetre, press a slice of dried tomato into the centre (the traditional finish). Shallow-fry in beef dripping (vegetable oil works, but the kebabs lose their Lahori depth) three or four minutes a side. Serve with lemon wedges, sliced onion, mint chutney and warm naan.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Corn kernels, fresh in season, frozen the rest of the year, are charred in a hot dry pan with a bit of oil until many kernels are blackened. Off the heat: mayo, sour cream, lime, garlic, chilli powder and cheese are folded through. Coriander and more cheese top each bowl.
+The Mexican street-corn salad: charred corn kernels tossed with mayo, lime, chilli powder, cotija and coriander, smoky and spicy and salty and tangy all at once. The dish elote becomes when you take it off the cob; same flavours, served in a cup with a spoon. You char corn kernels (fresh in season, frozen the rest of the year) in a large heavy skillet with oil and butter, leaving them undisturbed for three or four minutes so they catch colour, then stirring another four or five minutes till many kernels are deeply blackened in spots and the rest are golden. Pale yellow corn tossed with mayo is just creamed corn; the smoky blistered kernels are the dish. Drop the heat, soften spring onions, garlic and finely chopped green chilli for a minute, then off the heat fold in mayonnaise, soured cream, lime juice, chilli powder, smoked paprika, salt and pepper. Fold in three-quarters of the crumbled cotija (Latin grocers; feta is the closest UK substitute) and most of the chopped coriander. Spoon into small bowls or cups, top with the remaining cotija and coriander, dust with extra chilli powder or Tajín, serve with lime wedges to squeeze over.
 
 ## Ingredients
 

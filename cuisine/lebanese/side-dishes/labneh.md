@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Full-fat natural yogurt salts; strains through a fine sieve lined with cheesecloth (or a thin tea towel) over a bowl for 12-24 hours. The result is a thick, soft cheese (looser than cream cheese, firmer than thick yogurt). Spread on a plate; swirl; drizzle olive oil; scatter za'atar, dried mint, sumac, and chopped fresh mint. Eaten with warm pita.
+Lebanon's strained-yogurt cheese, the small plate that anchors every Lebanese breakfast and lands beside every mezze: thick tangy cheese (looser than cream cheese, firmer than thick yogurt) spread in swirls on a wide plate, drizzled with olive oil and dusted with za'atar, dried mint, sumac and fresh mint. You salt full-fat natural yogurt (low-fat strains to a dry grainy result; this is one place where full-fat earns its keep), tip into a fine sieve lined with cheesecloth or a clean thin tea towel over a deep bowl, gather the corners and tie into a bundle. Refrigerate 12 hours for a soft spreadable labneh (the everyday Lebanese version), 24 for a firmer scoopable cheese, 48 if you want to roll it into balls and pack them in olive oil for the larder. Discard the whey. Tip onto a wide shallow plate, spread with the back of a spoon into ridges and swirls so the olive oil pools in them, drizzle generously, scatter za'atar, dried mint, sumac and fresh mint. Eat with warm pita as part of mezze, breakfast or any savoury Lebanese meal.
 
 ## Ingredients
 

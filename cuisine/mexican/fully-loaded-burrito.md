@@ -9,7 +9,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-The fully loaded burrito is where all of your hard work and efforts come together to repay you in full. Packed with your choice of seasoned meat or vegetables, flavourful rice, smooth and filling beans, cheese, salsa and more, it's an entire meal wrapped up to go. This customizable template allows you to build your perfect burrito based on available ingredients and personal preference.
+The Mexican-American template burrito, the customisable build-your-own that turns up at every Chipotle and every late-night kitchen: a warm flour tortilla wrapped around refried beans, your choice of protein (spiced beef, slow-cooked pork, chicken or extra beans), spiced rice, fresh tomato salsa, grated cheese and a small spoon of sour cream, with optional guacamole, jalapeños and lettuce. The whole meal wrapped to eat with one hand. You warm a flour tortilla 15 seconds a side in a dry pan till pliable, lay on a sheet of foil. Spread refried beans across the bottom half (warm beans, not cold; cold beans drop the whole burrito's temperature), layer the protein, add spiced rice in a line, scatter cheese, spoon salsa, drizzle sour cream, optional guacamole, jalapeños or lettuce. Lift the bottom third over the fillings, fold both sides in tight, roll upward into a sealed cylinder, wrap in foil. Heat in a low oven a couple of minutes to bind it all together. Unwrap, eat immediately with extra salsa, guacamole, lime wedges and a side of Mexican rice or refried beans.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-A bunch of mint and a bunch of coriander are blended with green chilli, garlic, ginger, lemon juice, cumin and a small handful of roasted gram (for body). Thick natural yogurt is folded in at the end. The chutney finishes bright green, sharp and cool; designed to cut through the richness of chargha, boti and chapli kebabs.
+The cool green accompaniment to every chargrilled Lahori kebab: fresh mint, coriander and green chilli ground with yogurt, lemon, cumin and a small handful of roasted gram or cashews for body. You strip mint leaves off their stems (stems are bitter and leave a woody note), wash the leaves and shake dry. Toast cumin briefly in a dry pan till fragrant, grind. Blend mint, coriander, green chillies, garlic, ginger and roasted cashews with cumin, chaat masala, black salt, salt, a spoon of sugar and lemon juice; use cold water in the blender (heat kills the green colour). Fold thick natural yogurt in at the end: half for a vivid green dipping sauce, all of it for the paler restaurant style. Taste for salt, sugar and lemon (the chutney should be salty, sour and sweet at once). Refrigerate 30 minutes to chill, serve cold alongside chargha, boti, chapli kebabs or any chargrilled Lahori main.
 
 ## Ingredients
 - 60 g fresh mint leaves (no stems; the stems are bitter)

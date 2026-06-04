@@ -13,8 +13,7 @@ tags:
   - cream
   - complex
   - day-of-the-dead
-mentions:
-  - cuisine/cuban/desserts/tres-leches
+mentions: []
 ingredients:
   - qty: 5
     name: eggs

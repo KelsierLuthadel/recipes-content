@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Make dashi (or use instant), bring just to a simmer, drop in cubed silken tofu and rehydrated wakame seaweed, then whisk in miso paste off the heat. Boiling the miso destroys its delicate flavour and aroma.
+The starter to almost every Japanese meal, five minutes start to finish if you have dashi on hand. You bring water and kombu up to just below boiling (never quite to a boil, or the kelp turns slimy and the broth bitter), lift the kombu out, add a handful of bonito flakes off the heat for three minutes, then strain. Drop cubes of silken tofu and rehydrated wakame in and warm them gently; stir too much and the tofu breaks. The miso is the only critical step: off the heat, lower the paste into a small ladle or sieve and whisk it through gently against the mesh, never directly into the pot. Boiling miso destroys the fragrance and flattens the umami, so once it's in, the soup is done. Ladle into bowls, scatter sliced spring onion across the top, serve immediately alongside rice and a Japanese main.
 
 ## Ingredients
 

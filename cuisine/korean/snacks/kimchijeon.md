@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes (in batches)
 
 ## Overview
-Well-fermented sour kimchi is chopped fine; the juice is reserved. A batter of plain flour, an egg, water and kimchi juice is mixed thin (consistency of pancake batter). Kimchi and chopped spring onion are stirred in. Half the batter is poured into a hot oiled pan, spread thin, fried for 4 minutes; flipped with a confident wrist or a wide spatula; fried another 3 minutes. Cut into wedges; eaten with soy-vinegar dip.
+Korea's rainy-day pancake, the thing every Korean grandmother makes when the weather turns: a thin flour-and-egg batter packed with sour ripe kimchi, pan-fried crisp at the edges, served with a soy-vinegar dip. Old kimchi is non-negotiable here; fresh kimchi gives a milder pancake, but kimchi that's been in the fridge two weeks or more has the deep fermented edge that makes kimchijeon kimchijeon. You squeeze the kimchi over a small bowl to reserve four tablespoons of juice (this goes into the batter), chop the squeezed kimchi roughly. Whisk plain flour with a spoon of sweet rice flour (for chewier texture), an egg, the kimchi juice and ice-cold water (or sparkling water if you have it for crisper edges) into a thin batter the consistency of crêpe batter, stir in the kimchi and sliced spring onion. Three rules: big pan, oily pan, hot pan; skimp on any and the pancake won't crisp. Pour half the batter into a wide cast-iron or non-stick pan over medium-high, spread thin, cook three or four minutes till the edges brown, flip the whole thing by sliding onto a plate and inverting the pan over it. Two or three more minutes till the second side is gold, slide onto a board, cut into wedges with kitchen scissors. Serve hot with the soy-vinegar dip alongside.
 
 ## Ingredients
 

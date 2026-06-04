@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Spinach, coriander, parsley and a charred poblano are blended with chicken stock to make a vivid green cooking liquor. Long-grain rice is rinsed and toasted in oil with onion and garlic, then the green stock is poured in and the rice covered to steam. The grains finish the colour of fresh basil with a clean herbal flavour that pairs with anything off the grill.
+The herbal cousin of red Mexican rice: long-grain cooked in stock blended with charred poblano, spinach and coriander till the finished grains are the colour of fresh basil. Pairs with anything off the grill, from chicken to fish to grilled vegetables. You char a poblano directly over a gas flame or under a hot grill for six to eight minutes till the skin is blackened, steam under cling film for 10 minutes, rub the skin off, remove stem and seeds. Blend the poblano with baby spinach, a generous bunch of coriander, a small handful of parsley, garlic, chicken stock and salt till completely smooth (this becomes the cooking liquor). Soften diced onion and chopped garlic in olive oil, add the rinsed drained rice with a pinch of cumin and toast for two or three minutes till the grains turn opaque (key step; without it the rice goes mushy when steamed). Pour the green broth over, bring to a boil, lid down tight on the lowest heat for 18 minutes (don't lift the lid; the steam matters), rest covered another 10 minutes. Fluff with a fork, taste and adjust salt.
 
 ## Ingredients
 

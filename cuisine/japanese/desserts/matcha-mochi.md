@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A mochi dough is made from glutinous rice flour (mochiko / shiratamako), water, sugar and matcha powder, microwaved or steamed until thick and elastic. While still hot, the mochi tips onto a surface dusted with potato starch (katakuriko) + matcha powder to prevent sticking; quickly worked into a thick log. Sweet red bean paste is rolled into 12 small balls and chilled. The mochi log divides into 12 pieces; each piece flattens in a heavily-starched palm; a bean-paste ball sits in the centre; the mochi folds up around to enclose; pinched at the bottom. The smooth side becomes the top. Dusted with extra matcha-and-starch mixture; eaten within a day at room temperature.
+Bright-green chewy rice cakes with a soft bean-paste centre, the sweet you reach for with green tea or as a small after-meal treat. You whisk glutinous rice flour (mochiko or shiratamako, sold at any Asian grocer; regular rice flour gives a crumbly result that's wrong) with sugar, water and good culinary matcha, then microwave or steam the batter till it turns thick, glossy, translucent and very elastic. Tip the still-hot mochi onto a surface heavily dusted with potato starch and matcha, dust your hands the same way, work it into a thick log and cut into 12 pieces. Flatten each piece in a starched palm, drop a chilled ball of sweet red bean paste in the centre, fold the mochi up around the filling and pinch closed at the bottom; the smooth side becomes the top. Speed matters here, because cold mochi is firm and won't enclose anything. Brush off excess starch, optionally dust the tops with extra matcha for a vivid green finish, rest 30 minutes before eating. Serve two per person at room temperature with green tea.
 
 ## Ingredients
 

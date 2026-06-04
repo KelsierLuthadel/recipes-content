@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-A fine semolina dough mixes with melted butter (and milk/water). Half spreads in a wide round tin; topped with a thick layer of melted akkawi cheese (desalted); the other half of the dough spreads on top to seal. Baked at 200°C 30 minutes until the bottom is deep gold. Inverted onto a serving plate; drenched in a rose-and-orange-blossom syrup; topped with crushed pistachios. Cut hot.
+The Lebanese smooth knafeh as it's sold at Beirut sweet shops and Ramadan iftars: a fine semolina dough pressed top and bottom around a layer of melted akkawi cheese, baked dome-up till the bottom is deep gold, then inverted onto a serving plate and drenched in cool rose-and-orange-blossom syrup the moment it comes out of the oven. Crushed pistachios snow across the top. You make a soft semolina dough by rubbing fine semolina, plain flour, sugar and salt with melted butter and warm milk till it just holds together when squeezed. Soak akkawi cheese in cold water for an hour (changing the water twice) to desalt it (akkawi is brined for preservation; skipping the desalt makes the knafeh inedibly salty), or use the easy substitute of low-moisture mozzarella with halloumi. Press half the dough into a buttered round tin, spread the cheese across, press the rest of the dough on top to seal. Bake at 200°C till the bottom is well-bronzed (peek with a knife at the edge), invert onto a flat plate, pour cool syrup slowly over the hot pastry so it soaks in (always cold syrup over hot pastry; hot-on-hot makes a soggy mess). Scatter chopped pistachios densely, cut into wedges, eat hot while the cheese still stretches.
 
 ## Ingredients
 

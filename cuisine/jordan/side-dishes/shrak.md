@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A simple dough of flour, water, salt and a touch of oil rests for 30 minutes. Each portion stretches by hand on an oiled surface to a 40 cm thin disc, almost translucent in places. Cooks for 30-60 seconds on a hot dry surface (saj, upturned wok, or wide hot frying pan). Stacks under a tea towel.
+Jordan's Bedouin paper-thin bread: a simple flour-and-water dough stretched almost translucent and cooked in seconds on a hot upturned wok or domed saj over an open fire. Each piece comes out 40 to 50 cm wide. Used as the base of mansaf (laid under the rice and lamb to soak up sauce), wrapped around shish tawook, or torn for scooping mezze. You make a soft dough with flour, water, salt and a touch of oil, knead till smooth, rest 30 minutes so the gluten relaxes enough to stretch. Press each portion flat, then hand-stretch (or use a rolling pin with a very light touch) till the centre is almost see-through. The hot pan is non-negotiable; three or four minutes on high till an upturned heavy wok or wide cast-iron pan is fiercely hot, because medium gives bready, doughy shrak. Drape the disc over, cook 30 to 60 seconds till small bubbles rise and light brown spots appear, flip with tongs for another 20 seconds. Stack under a clean tea towel to stay soft, use within hours.
 
 ## Ingredients
 

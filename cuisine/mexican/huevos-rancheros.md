@@ -9,7 +9,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Huevos rancheros is a classic Mexican breakfast dish featuring eggs poached in a rich, spiced tomato sauce with peppers and chillies. This rustic, flavourful dish is traditionally served with warm tortillas for scooping, allowing diners to customize their own wraps. The combination of runny egg yolks with the thick, delicious tomato stew creates a truly memorable dish.
+Mexico's rancher's eggs, the kind of late breakfast that turns up on a Mexican family table on a slow Sunday: eggs poached directly in a hot tomato-and-chilli sauce with peppers and bay, brought to the table in the pan so each diner builds their own warm-tortilla wrap with grated cheese and a runny yolk-stained spoon of stew. You start by softening sliced onion, garlic, red peppers, fresh chillies, a dried chilli and bay leaves in olive oil over medium-high for 15 minutes, stirring regularly, till everything has caramelised and the kitchen smells like a Mexican market stall. Pour in two tins of plum tomatoes, break the tomatoes up against the side of the pan with a wooden spoon, simmer five minutes till you have a thick stew. Lay sliced fresh tomatoes over the top for the look, then use the back of a spoon to make six wells in the sauce. Crack the eggs in fast so they all cook for the same time, season from a height, lid down for three or four minutes till the yolks are still runny. Warm flour tortillas over the lid as the eggs cook (or in the oven). Bring the pan to the table with the tortillas, a piece of Cheddar and a grater; each diner grates cheese onto a tortilla, adds an egg with a spoon of stew, folds and eats. Runny yolks mixed with the tomato sauce are the entire point.
 
 ## Ingredients
 

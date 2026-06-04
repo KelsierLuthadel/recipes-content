@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Tomatillos, jalapeño, onion and garlic blitz into a green salsa, briefly cooked. Crisp tortilla chips toss into the simmering salsa for 2 minutes, long enough to coat, short enough that they keep some crunch. Topped with eggs and the standard creamy garnishes.
+The Mexican breakfast that justifies last night: leftover tortilla chips simmered in green salsa just long enough to coat but not soggy, topped with a fried egg, crumbled queso fresco, crema and a scatter of red onion. The hangover food of central Mexico and the leftover-tortilla redemption arc. You char tomatillos, jalapeño, onion and garlic in a wide pan till blackened in spots and softened, then blitz with coriander, salt and stock to a smooth green salsa. Pour back into the pan, bring to a gentle simmer. Tortilla chips (ideally a day stale; fresh ones go soggy too fast) toss in for one or two minutes only, long enough to coat, short enough that the centres keep some crunch. Don't simmer longer; they collapse to mush. Pile onto warm plates, top each with a sunny-side-up egg, crumble queso fresco over, drizzle with crema, scatter very finely sliced red onion and chopped coriander. Eat immediately; chilaquiles loathe sitting around.
 
 ## Ingredients
 

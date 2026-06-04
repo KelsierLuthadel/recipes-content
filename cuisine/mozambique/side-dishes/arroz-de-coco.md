@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The rice toasts briefly in oil with a chopped onion (optional), then cooks absorption-style in a mixture of coconut milk and water. Covered, undisturbed, 18 minutes; rest for 5 minutes covered off the heat; fluff with a fork. The coconut milk gives a soft sheen and a slight sweetness that balances the heat of piri-piri.
+Mozambique's coconut rice, the standard accompaniment to frango piri-piri, matata and any coastal seafood: long-grain rice cooked absorption-style in coconut milk with a little salt, the gentle coconut sheen balancing the heat of whatever piri-piri main is on the table. Subtle, sticky, faintly sweet. You rinse the rice in a sieve under cold water till the runoff is almost clear, drain well. Heat oil in a heavy-bottomed pot, soften optional finely chopped onion for four minutes, add the drained rice and toast for a minute stirring till coated. Pour in full-fat tinned coconut milk and water with salt and an optional bay leaf (light coconut milk gives bland rice; full-fat is non-negotiable). Bring to a boil, stir once, drop to the lowest heat with a tight lid for 18 minutes undisturbed (the steam does the cooking; lifting the lid bleeds it away). Off the heat, rest five minutes covered, fluff with a fork, finish with a knob of butter. Eat warm alongside grilled chicken, matata, prawns or any chilli-heavy main.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Boneless chicken thighs cube small; marinate for 1 hour in gochujang, gochugaru, soy, garlic, ginger, sugar and sesame oil. Pan-grill in a wide cast-iron skillet over medium-high until the sauce caramelises and the chicken is just cooked. Off heat, generous mozzarella scatters across the top; cover briefly or finish under a grill to melt. Top with sesame seeds and spring onions.
+Korea's fire chicken, named for what it does to your mouth: boneless thighs marinated in a vivid red paste of gochujang, gochugaru, soy, garlic and ginger, then pan-grilled in a cast-iron skillet till the sauce caramelises and the chicken just-cooks, then crowned with melted mozzarella as a stretchy, cooling counterweight to the heat. You cube boneless thighs, marinate for an hour or two in the gochujang paste, then cook them all together over medium-high in a wide cast-iron pan till the sauce reduces, deepens and clings; cast-iron holds the heat for the caramelisation step in a way non-stick won't. Drop the heat, scatter low-moisture mozzarella across the top (fresh mozzarella weeps and dilutes the sauce), cover briefly or flash under a grill till it melts and just starts to bubble. Scatter spring onions, sesame seeds and a few thin strips of roasted seaweed. Bring the pan to the table with steamed rice, kimchi and a pile of lettuce leaves for wrapping chicken-and-cheese bites if you want.
 
 ## Ingredients
 

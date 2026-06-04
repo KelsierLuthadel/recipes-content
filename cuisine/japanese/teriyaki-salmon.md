@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Skin-on salmon fillets are seared skin-side down to crisp, flipped briefly, then bathed in a four-ingredient teriyaki glaze that reduces to a glossy lacquer. The pan-sear gives texture; the glaze gives shine and savoury sweetness.
+The twenty-minute Japanese weeknight dinner that hits high and lands soft: skin-on salmon seared crisp, then lacquered in a sticky soy-mirin-sake-sugar glaze that goes glossy in the pan. You pat the fillets dry, salt the skin lightly, and place them skin-side down in a hot non-stick pan for four minutes without moving, pressing gently to keep contact (the long skin-side sear is the textural backbone of the dish). Flip for two more minutes, then tip the glaze around (not over) the fish so the sear doesn't wash off; tilt the pan and spoon the bubbling glaze over each fillet as it reduces. Once the glaze coats the back of a spoon and the salmon is just cooked through, slide each fillet onto a mound of short-grain rice, drizzle the pan glaze over, scatter spring onion and toasted sesame seeds. Steamed broccoli or pak choi on the side. Eat while the skin still snaps.
 
 ## Ingredients
 

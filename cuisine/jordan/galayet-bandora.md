@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Whole peeled garlic cloves and chillies fry in a generous pour of olive oil until aromatic. Roughly chopped ripe tomatoes go in; they collapse, release their water, then thicken into a rough stew. Salt at the end; sometimes a sprinkle of dried mint. Eaten warm with khubz (Arabic flatbread) for scooping.
+Jordan's home-cooking comfort: ripe tomatoes pan-fried with garlic and green chilli in a generous pour of olive oil till they collapse into a rough, jammy stew. Three ingredients plus a knife, but timing and good tomatoes are everything. You blister whole peeled garlic cloves and sliced chillies in the oil till the garlic just starts to colour, then pile in roughly chopped tomatoes (peel them first by scoring an X on each bottom and dipping briefly in boiling water; pale watery tomatoes give a thin sour result, so use the ripest you can find, or a tin of San Marzanos in winter). Fifteen or twenty minutes of medium heat reduces the tomato to a thick chunky sauce with whole garlic still visible. Salt at the end, sometimes a sprinkle of dried mint, a scatter of parsley off the heat, a final drizzle of olive oil. Eat warm with khubz for scooping, alongside grilled chicken or lamb, or piled over rice.
 
 ## Ingredients
 

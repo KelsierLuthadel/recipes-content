@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-Skirt or flank steak (cuts that take a marinade well and grill fast) sit in a punchy marinade of lime, orange, garlic, jalapeño, cumin, oregano and coriander for 2-4 hours, then grill quick over high heat. Sliced thin against the grain so the long fibres become tender bites.
+Mexico's grilled steak, the dish that fills taqueria carts from Mexico City to East LA: skirt or flank marinated in lime, orange, garlic, jalapeño and coriander, grilled hot and fast, sliced thin against the grain so the long fibres become tender bites. The cuts matter here; skirt and flank take a citrus marinade well and grill quick. You whisk the marinade, drop the steak in for two to four hours (don't go past six or the citrus acid starts to cure the surface mushy), pat dry before cooking (a wet steak doesn't sear). Heat a griddle pan or BBQ till it's smoking and cook three or four minutes a side for medium-rare; these cuts go rubbery if you take them past that. Rest five to eight minutes (essential), then identify the grain direction and slice across it into 5 mm strips. This is non-negotiable; slice with the grain and you get long, chewy fibres. Pile onto a board with warm tortillas, charred salsa, lime wedges, sliced avocado and chopped coriander, serve family-style.
 
 ## Ingredients
 

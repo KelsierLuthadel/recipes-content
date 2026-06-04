@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A wheat-flour-and-water dough rests for 30 minutes. Mutton mince mixes with onion, garlic and salt with a splash of water (for juiciness). Dough rolls into a long rope; cuts into small (15 g) pieces; rolls each into a thin disc. A teaspoon of filling sits on the disc; the edges pinch into a small money-pouch shape with a pleated top. Simmer in salted water 10 minutes or float in clear mutton broth.
+Mongolia's small boiled dumplings, the everyday cousin to the steamed buuz: thumb-sized parcels of unleavened wheat dough wrapped around seasoned mutton, simmered in salted water or floated in clear mutton broth as bansh-tai-shul. The size is the difference; bansh are smaller and boiled, buuz are larger and steamed, and the textures land in different places. You knead flour, salt and warm water into a stiff dough, rest 30 minutes. Mix mutton mince with finely diced onion, crushed garlic, salt, pepper and a splash of cold water (the same trick as khuushuur; the water steams up inside the dumpling and gives juicy meat). Roll the dough into a long rope, cut into thumb-tip 15 g pieces, roll each into a thin 7 to 8 cm disc. Drop a heaped teaspoon of filling onto the centre, gather the edges up and pinch into pleats at the top forming a small purse with a tiny opening (traditional bansh have a steam vent at the top, don't seal them airtight). Simmer in well-salted boiling water 8 to 10 minutes till they float and the dough goes translucent, or float in simmering mutton broth with sliced onion. Drizzle the boiled version with soy, chilli flakes and vinegar; serve the broth version in bowls with dill scattered across.
 
 ## Ingredients
 

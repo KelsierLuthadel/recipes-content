@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A soft yeasted bread dough rises for 1 hour. Divides into 6 portions, rolls into 18 cm discs. Topped with a blend of grated akkawi cheese (or mozzarella + halloumi + a touch of feta), baked at 230°C 7-9 minutes until the bottom is gold and the cheese is just bubbling. Topped with a sprinkle of dried mint or nigella seeds.
+Lebanon's cheese manakish, the breakfast bread sold from every Beirut bakery before sunrise and the brunch dish at every Lebanese diner abroad: yeasted flatbread topped with melted akkawi cheese (or a mozzarella-halloumi-feta blend) and baked at high heat till the dough is gold and the cheese bronzed. You make a soft yeasted bread dough, knead till elastic, rest an hour till doubled. If you're using akkawi, desalt it first in cold water 30 minutes (changing once; skipping makes it inedibly salty), or grate the easier mozzarella-halloumi-feta substitute together. Knock back the dough, divide into six balls, rest 10 minutes, roll each into an 18 cm disc 4 to 5 mm thick. A hot baking stone or upside-down heavy tray pre-heated to 230°C is the rule (without it the bases stay pale and soft). Brush each round lightly with olive oil, leaving the edges plain, pile a generous handful of cheese spread almost to the edge, sprinkle nigella seeds and dried mint. Bake 7 to 9 minutes till the bottom is deep gold and the cheese is bubbling at the edges. Eat warm: cut into wedges, fold in half like a taco, or roll.
 
 ## Ingredients
 

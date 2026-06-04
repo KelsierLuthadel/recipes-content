@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Ice-cold sparkling water meets soft flour in a barely-stirred batter; the batter goes onto sliced vegetables and prawns and into 180°C oil for 90 seconds. The lumps and dry patches in the batter are the goal; smooth batter gives a heavy crust.
+The Japanese fried-vegetable-and-prawn snack that lives or dies on two things: ice-cold batter and hot oil. You whisk one egg yolk into freezing sparkling water, then tip in flour and cornflour and stir just four or five strokes; lumps and dry patches are the point, smooth batter coats too thickly and goes heavy. The temperature differential is the whole technique, so a few ice cubes in the batter bowl earn their keep. Make small cuts along the inner curve of each prawn so it doesn't curl, pat the vegetables thoroughly dry, then dip and lower carefully into 180°C oil for just 90 seconds till pale and crisp (you want straw, never toast). Lift onto a wire rack rather than kitchen paper (paper traps steam and softens the underside), salt lightly. Serve straight from the rack with a small bowl of tentsuyu (dashi, soy and mirin) and grated daikon and ginger stirred through. Eat within minutes; tempura softens the moment it cools.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Salmon fillets sear skin-side down for crisp skin, then bathe in a quick honey-soy-mirin-ginger reduction that lacquers them. Broccoli or bok choy steams in the same pan with a splash of stock. Twenty minutes; one pan; serve over rice.
+A weeknight rescue from someone-doing-Japanese-at-home, twenty minutes start to finish with everything in one pan. You sear skin-on salmon fillets skin-side down so the skin crisps to a near-shatter (four minutes without moving, pressing gently to keep contact), flip briefly, lift onto a plate. Broccoli or bok choy steams in the same pan with a splash of stock, then a quick honey-soy-mirin-ginger glaze bubbles in the empty space till it's sticky and lacquered. Return the salmon skin-side up so the glaze coats the flesh and the crisp stays where you put it, spoon the remaining glaze over each fillet. Pile over short-grain rice with the vegetables alongside, scatter spring onions and toasted sesame seeds, eat right away while the skin still snaps.
 
 ## Ingredients
 

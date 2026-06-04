@@ -11,7 +11,7 @@
 **Cook Time:** 2 ½ hours
 
 ## Overview
-Dried jameed balls soak overnight then break down in water to form the cooking liquid. Lamb shanks or shoulder simmer in spiced water until tender. The lamb stock combines with the jameed liquid; both reduce together with cardamom, cinnamon and bay. Rice cooks separately; flatbread layers under everything; lamb perches on top; the jameed sauce ladles over generously. Almonds and pine nuts toast as topping.
+Jordan's national dish, the platter that gets carried out at weddings, big family Fridays, anyone-coming-home-from-abroad meals: lamb slow-cooked in a fermented-dried-yogurt sauce called jameed, served on rice and torn flatbread with toasted almonds and pine nuts scattered across the top. Jameed is the soul of the dish, hard balls of dried-sour yogurt sold at any Middle Eastern grocer, soaked overnight then blended smooth to become the cooking liquid; yogurt and salt is a poor substitute, the sourness and depth aren't the same. You simmer bone-in lamb shoulder with cardamom, cinnamon, bay and turmeric till fork-tender, then combine the lamb stock with the jameed and whisk together over low heat (never a hard boil, jameed splits at high heat). Tear shrak (the paper-thin Bedouin flatbread) across a wide platter, ladle sauce over to soak, pile rice on top, arrange the lamb pieces, spoon over more sauce, scatter toasted almonds, pine nuts and parsley. Bring extra sauce to the table in a jug. Eat from the shared platter with the right hand, scooping rice, lamb and sauce together.
 
 ## Ingredients
 

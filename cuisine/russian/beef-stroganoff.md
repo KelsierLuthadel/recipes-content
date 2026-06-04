@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Strips of fillet or sirloin sear hard in a hot pan and lift out so they don't overcook. Onion and mushrooms cook in the same pan with butter; brandy or wine deglazes; mustard, stock and soured cream make the sauce. The beef returns at the end to warm through, off the heat to keep it pink.
+Beef stroganoff started life as a 19th-century Russian court dish and somehow became the international comfort dinner of every cold-weather Tuesday, strips of seared beef in a mustard-and-soured-cream sauce with mushrooms and onions, spooned over buttered egg noodles. The whole technique is about timing: the beef cooks for sixty seconds total and no more, or it tightens into shoe leather. Slice fillet or sirloin into thin strips against the grain (perpendicular to the muscle fibres so each piece stays tender), toss in flour with salt and pepper, then sear in batches in a screaming-hot pan with butter and oil till just brown on the outside, lifting onto a plate before the centre cooks through. In the same pan, soften an onion for five minutes, add sliced chestnut mushrooms and cook till golden and any liquid has evaporated, then deglaze with brandy or white wine and let it bubble away. Pour in beef stock and reduce by half, stir in Dijon mustard, then take the pan off the heat before stirring in the soured cream (boiling splits it, so keep things gentle). Return the beef and any resting juices, warm through for thirty seconds, finish with parsley and a small squeeze of lemon. Spoon over buttered egg noodles or fluffy rice, scatter more parsley, eat hot.
 
 ## Ingredients
 

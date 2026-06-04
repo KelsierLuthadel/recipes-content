@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Sweet potato glass noodles (dangmyeon) boil and toss in a soy-sesame sauce. Vegetables (spinach, carrot, mushrooms, onion, peppers) sauté separately to keep their colour and texture, and beef stir-fries fast. Everything tosses together with the sauced noodles and a final sesame finish.
+Korea's celebration noodle stir-fry, the dish that turns up at weddings and holidays and birthdays: glossy, chewy sweet potato glass noodles tossed with vegetables and beef in a sweet-savoury soy-and-sesame sauce. The Korean party noodle, but every household now eats it any time of year. You boil dangmyeon (sweet potato glass noodles, sold at any Korean grocer; rice vermicelli won't give the same translucent chew) for six or seven minutes till translucent, rinse cold, snip with kitchen scissors so they're easy to eat, and toss with a couple of tablespoons of the sauce. Vegetables sauté separately, never together (one mixed stir-fry homogenises the colour and texture; batches keep the discrete bite that defines the dish): onion, julienned carrot, red pepper, mushrooms, blanched and squeezed spinach dressed in sesame oil. The beef goes in last, marinated briefly in soy and sesame. Combine everything back in the pan with the remaining sauce, toss vigorously to coat. Pile onto a platter, drizzle a little extra sesame oil, scatter sesame seeds. Eat warm or at room temperature; both are correct.
 
 ## Ingredients
 

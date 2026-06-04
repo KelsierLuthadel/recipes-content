@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-An enriched yeast dough made with coconut milk, butter, sugar and a little salt. Risen once, divided, rolled into rounds, brushed with butter and folded in half so the baked roll opens like a clamshell. Baked at moderate heat until lightly golden and soft. The folded shape is purposeful: it tears cleanly into two leaves, ideal for stuffing with a beef patty or jerk pork.
+Jamaica's pillowy folded coconut-milk roll: soft, faintly sweet, the bread that wraps around a beef patty in every patty shop from Kingston to Brooklyn. You make an enriched yeast dough with coconut milk, butter, sugar and a beaten egg, knead it till smooth and slightly tacky, let it double in a warm spot, then knock back and divide. Each ball rolls into a round about 14 cm across, gets brushed generously with melted butter and folded in half. The butter on the inside is the technical move: it's what lets the two halves peel apart cleanly when you tear into one and slip in a patty or jerk pork. Bake them at moderate heat till the tops are pale gold and the bottoms sound slightly hollow when tapped; a brush of butter over the warm crowns finishes them. Eat them stuffed with a hot beef patty for the classic patty-in-coco-bread, with jerk pork, with butter and jam, or split open with a fried egg and avocado for breakfast.
 
 ## Ingredients
 

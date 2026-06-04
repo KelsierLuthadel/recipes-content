@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Spinach (or green beans, asparagus, kale) blanches briefly in salted boiling water; refreshes in cold water; squeezes hard to remove all excess water; cuts into 4 cm pieces. Sesame seeds toast in a dry pan until fragrant and slightly darker. The toasted seeds grind in a suribachi (Japanese mortar) or a small food processor to a coarse paste, not to butter consistency; some texture is wanted. The paste mixes with soy sauce, sugar, mirin and a teaspoon of sake (optional) into a thick dressing. The blanched, squeezed vegetable tosses with the dressing; rests briefly to integrate; served at room temperature.
+The Japanese sesame side that turns up in every bento box and beside almost every donburi: blanched greens tossed in a thick, savoury-sweet paste of ground toasted sesame. You blanch spinach (or green beans, asparagus, broccoli) briefly in salted boiling water, refresh in ice, then squeeze it hard in your hands or a sushi mat till you've wrung out as much water as you can. Wet greens dilute the dressing and turn the dish soggy, so this step earns the patience. Toast white sesame seeds in a dry pan till just darker and fragrant, then grind in a suribachi (or mini food processor) to a coarse paste; some intact seeds for texture, never ground all the way to butter. Whisk in soy, sugar, mirin and a teaspoon of rice vinegar if you want lift. Toss the squeezed greens through the dressing till every piece is coated, rest five minutes for the flavours to meld. Pile into small bowls (Japanese sides have their own bowl, not a corner of a plate), scatter a few more toasted seeds, drizzle a few drops of sesame oil if you like.
 
 ## Ingredients
 

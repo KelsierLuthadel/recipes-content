@@ -11,7 +11,7 @@
 **Cook Time:** 9 minutes
 
 ## Overview
-Indonesian-style pork satay featuring tender, spiced meat on bamboo skewers with a creamy, complex peanut sauce enriched with coconut milk. The pork is infused with a paste of lemongrass, ground spices, and aromatics, making each bite deeply flavorful. This dish showcases traditional Southeast Asian techniques and is perfect for entertaining.
+The skewered Nyonya pork satay that turns up at Malaysian weddings, weekend barbecues and beachside hawker stalls: tender chunks of pork tenderloin marinated in a fresh paste of pounded lemongrass, ground spices, almonds, chillies and turmeric, threaded onto bamboo skewers and grilled till the edges char while the centre stays juicy. You soak bamboo skewers for at least an hour so they don't scorch under the grill. Spread the cubed pork in a shallow dish and sprinkle with brown sugar to help release the juices. Toast shrimp paste briefly in foil (mellows its rawness), dry-fry coriander seeds till fragrant, then pound seeds, blanched almonds and finely chopped lemongrass into a paste. Blitz that with finely chopped onion, deseeded red chillies, ground turmeric, the toasted shrimp paste and salt to a smooth paste, then thin with coconut milk. Pour over the pork and marinate at least two hours, ideally overnight. Grill the skewered meat eight to ten minutes turning often and basting with the remaining marinade, till the edges blacken. Eat hot with cucumber slices, steamed rice and a small bowl of peanut sauce for dipping.
 
 ## Ingredients
 - 450 grams pork tenderloin

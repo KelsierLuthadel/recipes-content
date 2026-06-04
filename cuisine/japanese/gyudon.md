@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Thinly sliced beef simmered briefly in dashi with mirin, sake, soy and sugar, alongside sliced onion. The whole pile spooned over rice with the broth. Topped with pickled ginger and a soft-boiled egg if you like.
+The Japanese fast-food bowl that fuels the Tokyo lunch rush: thinly sliced beef and onion simmered in a sweet-savoury dashi-soy broth, the whole pile spooned over rice with the broth carrying everything through. Ten minutes start to finish if your rice is already on. You bring dashi, soy, mirin, sake and sugar to a simmer in a wide pan, drop in the sliced onion to soften, then stir the paper-thin beef in just till it loses its raw red colour (it firms in seconds beyond that, so you're watching closely). Mound rice in donburi bowls, spoon the beef and onion over with a ladle of broth, scatter spring onion across the top, and add benishōga (red pickled ginger) for sharpness against the sweet. A soft-boiled egg cracked over is the homemade upgrade. Eat with chopsticks while the rice is still steaming and the broth hasn't yet soaked into the bottom.
 
 ## Ingredients
 

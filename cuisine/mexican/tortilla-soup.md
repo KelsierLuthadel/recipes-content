@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A vibrant Mexican soup featuring crispy fried tortilla strips in a smoky tomato broth, topped with fresh avocado, cheese, and herbs. The combination of textures and flavors makes it a satisfying and authentic dish.
+A Mexican soup that's simple yet sophisticated: a smoky tomato broth ladled over crisp-fried tortilla strips and a chilli toasted to bright red strips, topped at the table with diced avocado, mozzarella cubes, fresh coriander, parsley and a squeeze of lime. You can serve it as a light fragrant soup or add leftover shredded chicken for a heartier supper. You dry-toast halved onion and garlic in a heavy pan for five or six minutes, blend with peeled-seeded tomatoes and smoked paprika to a puree, then reduce in a saucepan till thick. Pour in chicken stock and simmer 25 minutes, season. Meanwhile toast a large dried chilli briefly in a dry pan (no longer than 30 seconds; longer and it turns bitter), cut into strips. Cut corn tortillas in half then into 2 cm strips, fry in batches in shimmering oil till brown and crispy, drain on paper. Divide tortilla and chilli strips between bowls, ladle the hot broth over, set out small ramekins of cubed buffalo mozzarella, diced avocado, chopped parsley, chopped coriander and lime wedges so each diner builds their own bowl.
 
 ## Ingredients
 

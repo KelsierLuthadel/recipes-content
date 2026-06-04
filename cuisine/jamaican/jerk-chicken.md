@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-A wet jerk paste: scotch bonnet chillies, garlic, ginger, spring onions, thyme, allspice (whole or ground), brown sugar, soy sauce, lime, oil, salt and pepper, pureed in a blender. The chicken (bone-in skin-on thighs and drumsticks, or spatchcocked whole bird) marinates for 12 hours minimum. Slow-grilled over indirect heat with a pile of pimento wood chips or allspice berries on the coals for the signature smoke; alternatively, an oven-bake at 180°C with a final blast under the grill, supplemented with allspice in the marinade.
+Jamaica's signature on a grill: bone-in chicken marinated overnight in a fiery wet paste of Scotch bonnet, garlic, ginger, spring onion, thyme, allspice, brown sugar, soy and lime, then cooked slow over indirect heat with pimento (allspice) wood smouldering on the coals. The technique came out of the eastern parishes, where the Maroons (descendants of escaped enslaved Africans who fortified themselves into the Blue Mountains) developed a dry-rub-and-slow-smoke method over pimento wood for preserving wild boar. You score the chicken so the marinade reaches the bone, rest it 12 hours minimum, then cook it on the cool side of a charcoal grill till the skin is mahogany-dark and the meat tender enough to slip off. A pile of pimento chips on the coals is the soul of the dish; an oven roast with extra allspice in the paste is the workable home shortcut. Smell is allspice smoke and pepper fire. Chop through the bone with a heavy cleaver, pile alongside rice and peas, scatter lime wedges, set a hot sauce within reach for anyone wanting more.
 
 ## Ingredients
 

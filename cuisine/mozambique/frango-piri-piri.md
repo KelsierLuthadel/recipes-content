@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Bird's-eye chillies, garlic and oil blend into a thick red marinade with paprika, vinegar and lemon. The chicken is spatchcocked (backbone removed, flattened), rubbed with the marinade, and left at least four hours (ideally overnight). It cooks over a hot grill or in a hot oven, basted with the reserved marinade. Charred edges, juicy inside, blistered red.
+Mozambique's national grilled chicken and the dish that defines coastal Lusophone cooking from Maputo to Beira: spatchcocked bird marinated in a fiery garlic-lemon-piri-piri paste, grilled hard over charcoal till the edges blacken in spots and the marinade caramelises into a glaze. The char is the point; don't fear a dark exterior. You blend bird's-eye chillies (deseed for less heat or substitute red Thai for milder, scotch bonnet for hotter and fruitier) with garlic, smoked paprika, oregano, salt, pepper, lemon zest and juice, red wine vinegar and olive oil into a thick red paste. Reserve a third of the marinade for basting and serving. Spatchcock the bird (backbone removed, breastbone flattened), score the thickest parts of the thighs and breasts, rub the marinade over and into the cuts and under the skin. Refrigerate at least four hours and ideally overnight (less than four and it's barely seasoned). Grill skin-down over ashed-over charcoal for 15 minutes basting with the reserved marinade, flip and cook another 12 to 15 minutes basting again, till the juices run clear. Or roast at 220°C on a wire rack over a tray for 35 to 40 minutes, basting at 15 and 25 minutes, till the thigh hits 75°C. Rest five minutes, cut into pieces, serve with the remaining piri-piri sauce, lemon wedges and chips or coconut rice.
 
 ## Ingredients
 

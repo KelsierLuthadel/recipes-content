@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (plus 1 hour chilling)
 
 ## Overview
-Potatoes, carrots and eggs boil separately to keep their texture distinct. Cooked smoked sausage (or boiled beef) and dill pickles dice to match. Frozen peas thaw under hot water. Everything mixes with mayo, mustard, salt and pepper. Chills at least an hour so the dressing thickens and the flavours marry. Eaten cold from the fridge.
+Mongolia's "capital city salad", the Ulaanbaatar potluck staple that lands beside buuz, khuushuur or grilled meat at any large gathering: diced boiled potato, carrot and egg with cooked smoked sausage and dill pickles, all bound with mayo and mustard, chilled till the dressing thickens. The 5 mm dice across the board is the standard; uneven cubes give an uneven coat of dressing, so take the time to dice properly. You boil potatoes in their skins, carrots in salted water and eggs the hard-boiled way (cold water, bring to boil, simmer exactly 10 minutes, cool under cold water), each separately so their textures stay distinct. Cool, peel and dice all of them into 5 mm cubes, then dice the sausage and dill pickles to match. Tip everything into a wide bowl with thawed frozen peas, mix mayo with Dijon mustard, salt and pepper and pour over. Toss gently with two large spoons to keep the cubes intact rather than mashing. Stir in chopped dill and sliced spring onion (saving a little for the top). Cover and refrigerate at least an hour, ideally three or four, so the flavours marry and the dressing thickens. Spoon onto a platter, scatter the reserved dill, serve cold.
 
 ## Ingredients
 

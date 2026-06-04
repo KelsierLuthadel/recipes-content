@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 45 minutes
 
 ## Overview
-Pinto beans are soaked overnight, then simmered with onion and garlic until tender. A separate pan crisps the bacon, browns the chorizo and softens the onion, jalapeño and tomato into a thick base. The two are combined for a final simmer with coriander, and the broth turns smoky, salty and rich. Eaten by the spoonful from a bowl, or set out alongside grilled meats and tortillas.
+The cowboy beans of northern Mexico, the pot of pinto beans that turns up at every cookout and barbecue from Monterrey to Tucson: simmered in a pork-and-tomato broth with bacon, chorizo, jalapeño and lager beer. Hearty enough to be a meal on its own, but built to sit beside grilled meat. You soak pinto beans overnight (the quick-soak compromise is boil 2 minutes then rest an hour), then simmer with halved onion, whole garlic and bay till tender (an hour to an hour 15, with salt added only in the last 10 minutes; salting earlier toughens the bean skins). In a wide pan, render diced smoked bacon till crisp, brown the chorizo to release its red oil, soften finely diced onion in the fat, then jalapeño, garlic, chopped tomato, cumin and Mexican oregano till the tomatoes break down. Tip the bean pot in with its cooking liquor, pour in a bottle of lager for the traditional finish, simmer uncovered 20 minutes for the broth to thicken slightly and the flavours to meld. Stir most of the chopped coriander through, ladle into bowls, top with the rest and a lime wedge.
 
 ## Ingredients
 

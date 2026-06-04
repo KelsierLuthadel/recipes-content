@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A pork mince filling spiked with garlic, ginger, soy, sesame oil and finely chopped cabbage is wrapped in shop-bought gyoza skins, then pan-fried on the flat bottom and finished by steaming with a splash of water in the lidded pan. Serve with a soy-rice-vinegar-chilli oil dip.
+The Japanese take on Chinese jiaozi: smaller, garlickier, and almost always pan-fried so the bottoms crisp while the tops steam. You salt finely chopped Chinese cabbage and let it weep, then squeeze it hard in your hands or a clean cloth (this is the failure point for most home gyoza; a wet filling makes wet dumplings that split in the pan). Mix the squeezed cabbage with pork mince, crushed garlic, grated ginger, spring onion, soy, sesame oil and a pinch of white pepper. Lay a tablespoon of filling in each wrapper, wet the rim, fold to a half-moon, and pleat one side over the other into five or six neat folds. Crisp them flat-side down till the bottoms are deep gold, splash in water, lid down, and let the steam finish the pork through the wrapper; a final uncovered minute re-crisps the bottoms. Slide onto a plate crisp-side up in a circular pattern, mix soy, rice vinegar and chilli oil for the dip, eat them straight from the plate before the bottoms soften.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A loose, slightly slack yeasted batter (no kneading) rises until bubbly. Hot vegetable oil receives small balls scooped with wet hands or a spoon, they puff and turn themselves over as they fry, golden in 3-4 minutes. Drained briefly; eaten warm. The classic Nigerian version is faintly nutmeggy.
+West Africa's fried dough ball, the sweet that turns up at children's parties, naming ceremonies and church suppers from Lagos to Accra: small balls of slightly slack yeasted batter dropped into hot oil, where they puff and turn themselves over as they fry into golden, faintly nutmeggy spheres. Sticky batter is correct here; stiffer batter gives dense dry puff puff, and the looseness is what creates the airy interior. You whisk flour with sugar, fast-action yeast, salt and nutmeg in a wide bowl, add warm water gradually with a wooden spoon to a thick sticky batter (looser than dough, thicker than pancake batter; stop before runny). Cover and rest in a warm spot an hour to an hour and a half till visibly bubbly and almost doubled. Heat 5 cm of oil to 175°C in a wide deep pan (hotter and they brown before cooking through; cooler and they soak up oil). Wet your hand so the batter won't stick, scoop a generous tablespoon, squeeze through your thumb-and-forefinger fist into the hot oil to release a roughly round ball (or use a spoon dipped in water between scoops). Fry six to eight at a time, they should puff and turn themselves over, three or four minutes total till deep golden all around. Lift onto kitchen paper. Roll in caster sugar or spiced sugar (caster sugar with cinnamon and nutmeg) while still hot if you like, or eat plain. Pass with sweet tea or hot chocolate.
 
 ## Ingredients
 

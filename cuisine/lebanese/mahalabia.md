@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes (plus 3 hours setting)
 
 ## Overview
-Cornflour mixes with cold milk to a slurry; the rest of the milk warms with cream and sugar; the slurry pours in and the mixture thickens to a thin custard in 4-5 minutes. Off the heat, rosewater and orange blossom water perfume; the lot pours into glasses. Cold; topped at the table with sugar syrup and pistachios.
+A Lebanese milk pudding set with cornflour, scented with rose and orange-blossom water, topped with crushed pistachios and a thin sugar syrup: silky, restrained, gently floral, the everyday Lebanese dessert that lands at the end of any home meal. Lighter than its Egyptian cousin malabi (which often gets a heavier pink syrup). You whisk cornflour into a portion of the cold milk to a smooth slurry, then warm the rest of the milk with cream and sugar in a heavy pan till just simmering. Whisk the slurry in steadily, cook 4 or 5 minutes whisking constantly till the mixture thickens to a thin custard that coats the back of a spoon. Off the heat, perfume with rose and orange-blossom water (a careful hand: a teaspoon too much turns the pudding perfumey). Strain through a fine sieve into glasses or shallow bowls (catches any small lumps and gives a silky finish), cool 30 minutes, refrigerate at least three hours. At the table, spoon a thin layer of cool rose-water syrup over each pudding, scatter chopped pistachios and a few rose petals, serve cold.
 
 ## Ingredients
 

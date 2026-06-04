@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Basmati is parboiled with saffron, orange colouring, whole cardamom and cinnamon until 80% cooked, then drained. A separate pan makes a sugar syrup with crushed cardamom; the parboiled rice is added back to the syrup pan with ghee, raisins, nuts and dried fruit. The mixture is steamed under a tight lid for 15 minutes to absorb the syrup. Finished with rose or kewra water and a scatter of toasted nuts.
+The wedding-and-Eid table sweet rice, eaten as a dessert or alongside a savoury biryani for those who like the sweet-and-savoury combination on the same plate. Basmati cooked with sugar, saffron and a touch of orange colouring, studded with raisins, nuts and candied fruit, perfumed with kewra. You parboil basmati to 80% in spiced water with saffron, orange food colouring and whole cardamom, cinnamon and cloves (full cooking at this stage means a rice pudding instead of a pulao-style zarda, so don't go past 80%). Drain. Make a sugar syrup in a wide pan with ghee and ground cardamom, then tip the parboiled rice into the syrup, scatter raisins, half the toasted almonds, cashews and pistachios, and the candied fruit. Drizzle more ghee on top, lid down tight on the lowest heat 12 to 15 minutes, rest 10 minutes covered. Drizzle rose water and kewra water across (kewra is the Lahori signature that distinguishes this zarda from any other regional sweet rice; use a careful hand or it goes perfumey-cloying), dust with ground nutmeg, fluff gently. Transfer to a serving plate, scatter the remaining nuts, optionally lay silver leaf across for festive plates.
 
 ## Ingredients
 

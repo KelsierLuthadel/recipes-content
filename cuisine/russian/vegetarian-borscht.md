@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Onion, carrot and beetroot sauté together; the colour bleeds out; cabbage and potatoes join in stock. Tomato paste deepens; bay and dill infuse; vinegar and a touch of sugar balance at the end. Sour cream and dill go on at the table.
+This is the vegetarian sister to the great beef-stocked borscht, a deep ruby-red soup of grated beetroot, cabbage, carrots and potatoes that gives nothing away on colour or depth, finished with the same sour-cream-and-dill swirl that defines the dish. Start in a wide heavy pan with sunflower oil and chopped onion, cook five minutes till translucent, then add coarsely grated beetroot and carrot and cook another eight or ten minutes till the colour darkens and everything softens. Stir in crushed garlic and tomato paste for two minutes, then pour in a litre and a half of vegetable stock with cubed potatoes, bay leaves and peppercorns. Bring to a steady simmer for fifteen minutes, then add shredded white cabbage for another fifteen or twenty till everything is tender and the broth is deep red-purple. The whole dish hinges on the finish: stir in cider vinegar and a teaspoon of sugar (without acid the soup tastes flat and sweet, with it the colour stays brilliant and the flavour balances sour, sweet and earthy), then taste and adjust till all three notes show with the beetroot earthiness behind. Ladle into bowls, top each with a generous spoonful of soured cream and a heavy shower of fresh dill, and stir the cream into the dark broth at the table for that pink-and-white swirl that's part of the dish. Eat with dark rye and a glass of something cold; the soup deepens overnight and keeps five days in the fridge.
 
 ## Ingredients
 

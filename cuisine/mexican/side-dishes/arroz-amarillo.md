@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Achiote seeds are bloomed in hot oil to draw out their deep yellow-orange colour, then strained out so only the tinted oil remains. The oil colours the toasted rice and onion before stock is poured in for the steam. Sweetcorn and peas join the rice during cooking and the finished dish is the colour of a summer evening.
+The Yucatecan answer to red Mexican rice: long-grain coloured deep yellow with bloomed achiote, finished with sweetcorn and peas. Pairs especially well with cochinita pibil and pollo asado, both of which lean on achiote in their marinades. You bloom achiote seeds in warm oil for two or three minutes till the oil turns deep yellow-orange (slow and steady; smoking oil turns the colour brown and the flavour bitter), then strain out the seeds so only the tinted oil remains. Soften diced onion and carrot in the achiote oil, then garlic for 30 seconds, then add the rinsed drained rice with cumin and toast for two or three minutes till the grains turn opaque and smell nutty. Pour in stock with bay and salt, bring to a boil, then drop to the lowest heat with a tight lid for 14 minutes; scatter sweetcorn and peas across the top in the last three minutes. Off the heat, rest covered another 10 minutes (this is what gives the separated grains), discard the bay, fluff with a fork. Scatter chopped coriander, serve.
 
 ## Ingredients
 - 2 tablespoons olive oil

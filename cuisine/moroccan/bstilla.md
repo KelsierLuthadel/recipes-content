@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Chicken poaches in a heavily spiced broth (saffron, ginger, cinnamon, lemon). The shredded meat returns to a reduced sauce thickened with beaten eggs to make a soft set. Toasted almonds with sugar and cinnamon form a layer. Everything wraps in butter-brushed filo, baked golden, and dusted with icing sugar and cinnamon.
+The Moroccan layered pie that turns up at every celebration table from Fez to Marrakech: spiced shredded chicken (or traditionally pigeon), almonds and saffron-lemon eggs encased in crisp filo, the whole thing dusted with icing sugar and ground cinnamon. The unusual sweet-savoury topping is the dish's signature; sounds wrong, tastes incredible, and it's what makes b'stilla b'stilla. Don't skip the dust. You poach chicken thighs in a saffron-ginger-cinnamon broth, lift out and cool, then reduce the broth with chopped coriander and parsley to a thick sauce; whisk beaten eggs in off the heat and cook gently till they set into a soft scramble. Stir the shredded chicken back through with lemon juice and cool. The almond layer is toasted blanched almonds pulsed with icing sugar and cinnamon into a coarse meal, perfumed with orange-blossom water. Brush a 25 cm round dish with melted butter, lay five filo sheets across with edges overhanging and brush each with butter, scatter half the almonds, spoon the chicken-egg mixture on top, scatter the rest of the almonds. Cover with another three to five filo sheets brushed in butter, tuck the overhanging edges in to seal, brush the top with butter. Bake at 180°C for 35 to 40 minutes till deep golden and crisp. Dust generously with icing sugar, then a cinnamon-lattice across the top in lines.
 
 ## Ingredients
 

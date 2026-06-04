@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes (assembly only)
 
 ## Overview
-Whole milk freezes solid in a shallow tray overnight. The frozen milk shaves into a fluffy snow (an ice-shaving machine is ideal; a powerful blender pulsed briefly is the alternative). Piled into a large bowl. Topped with sweet red bean paste (pat), a drizzle of sweetened condensed milk, fresh fruit pieces, chewy mochi balls (or short-grain rice cake squares), a dusting of injeolmi (sweet soybean flour). Eaten quickly, the ice melts.
+Korea's summer sundae, the shaved-milk-ice mountain that turns up on every Seoul café menu when the weather climbs: finely shaved frozen milk piled into a wide bowl, topped with sweet red bean paste, sweetened condensed milk drizzled across, fresh strawberries and blueberries, chewy mochi pieces, and a generous dusting of injeolmi (roasted soybean powder) that gives the iconic nutty layer. You freeze whole milk with a touch of condensed milk in a wide shallow tray overnight till solid, then shave it into snow with a Korean ice shaver, brief blender pulses (3 to 4 short pulses, never longer or you get milkshake), or by scraping the surface with a fork. Pile high above the rim of a wide shallow bowl. Spoon the red bean paste in a generous mound on top, drizzle condensed milk over, scatter fruit and mochi, dust heavily with injeolmi, optionally crown with a scoop of vanilla ice cream. Eat immediately with two long spoons; the bingsu melts fast.
 
 ## Ingredients
 

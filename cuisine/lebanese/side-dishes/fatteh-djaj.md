@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Chicken poaches with onion, cardamom and bay 35 minutes; shredded off the bone. Chickpeas warm in the strained chicken stock. Pita pieces toast crisp under the grill. Yogurt-tahini-garlic sauce whisks together. Plated with pita on the bottom, chickpeas and chicken on top, yogurt sauce poured over, taqliya (butter, cumin and sliced garlic sizzled hot) drizzled on top, and pine nuts scattered.
+Lebanon's layered fatteh, the kind of dish that gets brought to the table assembled and eaten within minutes before the crisp pita softens: toasted pita pieces beneath warm chickpeas and shredded poached chicken, the whole thing blanketed in garlic-yogurt-tahini sauce and finished with sizzling taqliya (cumin butter with sliced garlic) drizzled hot across the surface. You poach chicken thighs with onion, cinnamon, cardamom and bay till tender, shred the meat, save 100 ml of the strained stock for the yogurt sauce. Toss torn pita with olive oil and a pinch of salt, toast in a 200°C oven till deep gold and crisp. Whisk Greek yogurt with tahini, garlic-salt paste, lemon and the warm stock to a smooth pourable sauce. Warm chickpeas through in a little more stock with cumin and salt. Make the taqliya last: butter with sliced garlic till just gold (60 seconds; brown garlic is bitter), then cumin and Aleppo pepper, sizzled 10 seconds. Spread the toasted pita across a wide shallow dish, spoon over the warm chickpeas and chicken, pour yogurt sauce across, drizzle the hot taqliya so it sizzles on contact (the sizzle is the point), scatter toasted pine nuts, parsley, paprika and pomegranate seeds. Eat immediately; don't pre-assemble.
 
 ## Ingredients
 

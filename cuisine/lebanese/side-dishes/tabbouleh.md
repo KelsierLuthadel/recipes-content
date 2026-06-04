@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Bulgur soaks briefly in lemon juice, not water, so it tenderises while taking on flavour. Parsley is washed, dried thoroughly, and chopped to fine green confetti. Tomato dices small and drains. Mint and spring onion go in fine. Everything tosses with olive oil, lemon, salt, pepper. No need to rest; eat right away.
+Lebanon's iconic salad and the test of any Levantine cook: very finely chopped parsley with just a little bulgur, ripe tomato, mint and spring onion, dressed with lemon and olive oil. Mostly herb, not grain. The proper ratio is around five parts parsley to one part bulgur; supermarket tabbouleh that's mostly grain misses the dish entirely. You soak fine bulgur briefly in lemon juice rather than water, so it tenderises while taking on flavour. The work is in the parsley: pick the leaves off the stems (a tedious step but essential, the stems are bitter), wash thoroughly, dry very well in a salad spinner or between tea towels (wet parsley turns the salad mushy within an hour). Pile on a board and chop very finely with a sharp knife. Never blitz in a food processor; the texture matters and a blender turns the leaves into wet pulp. Deseed and finely dice ripe tomatoes (5 mm cubes). Toss everything with chopped mint, sliced spring onion, olive oil, the remaining lemon juice, salt, pepper and a pinch of allspice and cinnamon if you want the traditional Lebanese touches. Eat right away, traditionally piled into Romaine lettuce leaves to scoop.
 
 ## Ingredients
 

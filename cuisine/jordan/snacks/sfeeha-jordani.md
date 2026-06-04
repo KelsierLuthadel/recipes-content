@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes per batch
 
 ## Overview
-A yeasted bread dough rises for 1 hour. Topping: lamb mince mixed RAW with grated onion (squeezed dry), diced tomato, garlic, baharat, allspice, pomegranate molasses, lemon, parsley and a small spoon of olive oil, no pre-cooking. Toasted pine nuts fold in. Dough divides into 18 balls; each rolls into an 8 cm disc with a slight raised rim. A heaped tablespoon of topping spreads on each; pinched into a slight 4-corner star shape (the Jordanian visual signature, distinguishes from the Lebanese version which is flat-edged). Baked at 220°C 10-12 minutes until the dough is gold and the meat is glossy-set. Garnished with extra parsley and pomegranate seeds.
+Jordan's open-top meat pastries: small yeasted discs topped with raw spiced lamb mince and pinched into a four-cornered star shape, the Jordanian visual signature that distinguishes them from the flat-edged Lebanese lahem-bi-ajeen. The lamb cooks on the dough in the high oven, no pre-frying, so the meat stays juicy and the dough crisps beneath. You mix lamb mince raw with grated onion squeezed bone-dry (wet onion soaks the dough soft), diced tomato, garlic, baharat, allspice, Aleppo pepper, pomegranate molasses, lemon, parsley and a small spoon of olive oil; fold in toasted pine nuts at the end. Cook a tiny bit in a pan first to taste and adjust seasoning before topping any dough. Roll the rested dough into 8 cm discs, spread a heaped tablespoon of topping thin, pinch four star points at the edges. Bake at 220°C for 10 to 12 minutes till the dough is gold and the meat glossy-set. Eat warm with lemon wedges, a small bowl of yogurt and an extra scatter of pomegranate seeds across the platter.
 
 ## Ingredients
 

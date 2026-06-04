@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Poblanos are charred and skinned, slit and stuffed with melting cheese. They get a coating of egg-white batter (whites whipped to stiff peaks, yolks folded in), fry in shallow oil until puffy and golden. Served in a simple roasted-tomato salsa.
+A Mexican production dish that's worth every step: poblano peppers charred and skinned, stuffed with melting cheese, dipped in a soufflé-light egg-white batter and shallow-fried till puffy and golden, served in a roasted-tomato salsa that ties everything together. The puffy, soft, smoky-sweet pepper holds the molten cheese; the broth catches every drop. You char poblanos directly over a gas flame, under a hot grill, or on a griddle till the skin is blackened all over (pale char gives raw bitter pepper), then steam them in a covered bowl for 10 minutes to loosen the skin. Peel with your fingers (don't rinse; you'll wash off the flavour), slit each pepper lengthways and carefully scoop out seeds and core, keeping the pepper intact. Pat dry inside (wet peppers give flabby batter), stuff with cheese, press the slit closed. Char tomatoes, onion and garlic the same way for the salsa, blend with oregano, salt and stock, simmer till slightly thickened. The batter is the technical move: whip egg whites to stiff peaks, fold in lightly beaten yolks (don't deflate). Roll each pepper in flour, dip into the batter, lower into 180°C oil for two or three minutes a side till deep golden and puffy. Ladle salsa into shallow bowls, set a chile relleno on top, spoon a little more sauce over, eat immediately before the batter softens.
 
 ## Ingredients
 

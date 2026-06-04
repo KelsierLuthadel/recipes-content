@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Slices of white bread are trimmed of their crusts and cut into triangles, then fried in ghee until deep golden. A sugar syrup is made fragrant with saffron, cardamom and rose water. A second pan reduces milk to a thick rabri (the milk-cream topping). The fried bread triangles are dipped briefly in the syrup so they soak it up without going mushy, layered onto a serving plate, and topped with the rabri. Toasted nuts and silver leaf finish.
+Royal bread pudding, a Mughal inheritance from Lahore's Old City sweet-makers: triangles of day-old white bread fried in ghee till deep golden, soaked briefly in a saffron-cardamom sugar syrup, then crowned with thickened rabri (reduced milk cream) and a scatter of toasted nuts. You trim the crusts off slices of day-old white bread (fresh bread falls apart in the syrup; stale soaks it up and holds shape), cut into triangles, fry in ghee till each side is deep gold. Make the rabri first since it takes 30 minutes; reduce milk and cream slowly with sugar, cardamom and a spoon of fine semolina for body, till it coats the back of a spoon. Make a sugar syrup fragrant with saffron, ground cardamom, rose water and lemon (the lemon stops crystallisation). Dip each fried triangle in warm syrup for five to ten seconds only, lift out with a slotted spoon, arrange on a serving plate. Spoon warm rabri generously over each, scatter toasted almonds and slivered pistachios, lay silver leaf across, finish with a few saffron threads. Serve warm immediately, or chill for an hour for the cold version that's just as Lahori.
 
 ## Ingredients
 

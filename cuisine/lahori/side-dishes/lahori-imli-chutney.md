@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Lump tamarind is soaked in hot water and strained for a thick brown extract. The extract is cooked over low heat with palm jaggery (or dark brown sugar), ginger, salt and a mix of spices (cumin, fennel, black salt, chilli) until it thickens to a syrup that coats a spoon. The chutney sits between syrup and jam, with a slick of oil if you cook it long enough. Cools to a thick, glossy dipping consistency.
+The other half of the chaat-stall double act (mint chutney is the first): deep mahogany tamarind-jaggery chutney, sweet-sour and warm with cumin and ginger, the everyday accompaniment to samosas, pakoras and chapli kebabs. You soak lump tamarind in hot water 15 minutes, then squeeze and strain through a fine sieve to get a thick brown extract (small fibres are unpleasant, so a double strain is worth it). Discard the seeds and pulp. Pour the extract into a heavy pan with palm jaggery (or dark brown sugar), more water, salt, black salt (kala namak, with the faint sulphurous note that defines the Lahori version), toasted cumin, fennel, ginger, black pepper, cinnamon, Kashmiri chilli, chaat masala and optional raisins and chopped dates for the sweet pop. Stir over medium-low till the jaggery dissolves, then reduce 15 to 20 minutes till the chutney coats the back of a spoon (it thickens more as it cools). Sweet, sour, salty and hot all at once is the target; taste and adjust. Cool to room temperature, transfer to a clean jar. Serve cold or at room temperature alongside any chaat, samosa, pakora or kebab.
 
 ## Ingredients
 - 100 g tamarind (lump; or 5 tablespoons of tamarind concentrate paste)

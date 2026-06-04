@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A soft yeasted bread dough rises for 1 hour. While it rises, the lamb mince is mixed by hand with grated onion, chopped parsley, finely diced tomato, garlic, baharat, allspice, cinnamon, pomegranate molasses, lemon juice and salt, no cooking, the mince stays raw and cooks on the pies. The dough divides into 12 balls; each rolls into a thin 12 cm disc; a heaped tablespoon of the meat mix spreads to the edges. Bakes for 8-10 minutes at 230°C on a baking stone (or hot tray) until the dough is crisp and the meat is glossy and just cooked through.
+Picture a Ramallah neighbourhood bakery at noon: a pile of paper-thin meat pies coming out of the wood oven minutes apart, fingers folding them in half over a lemon wedge and a sprig of mint. You raise a soft yeasted dough for an hour while you build the topping by hand, kneading lamb mince with grated onion squeezed dry, finely diced tomato, garlic, parsley, pomegranate molasses, baharat and a hit of Aleppo pepper. No browning here: the mince stays raw and cooks on the pies. Divide the dough into twelve balls, roll each into a thin disc, and spread a thin layer of the meat right to the edges (about 5 mm thick, not piled, or the middle goes soggy). Slide them onto a screaming-hot stone or baking tray and bake at 230°C for 8 to 10 minutes till the dough is crisp at the edges and the meat looks glossy and just-cooked. Eat warm, folded in half over chopped mint and parsley with a squeeze of lemon, a spoon of yogurt on the side, and another wedge already in your hand.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A pepper-and-onion sofrito is seasoned with cumin, paprika and chilli, then simmered down with chopped tomatoes into a thick sauce. Eggs are cracked into wells in the sauce, the pan is covered, and they poach gently in the steam until the whites are set and the yolks still runny.
+The North African and Levantine one-pan breakfast that's spread across the whole region: eggs poached in a spiced tomato-and-pepper sauce, brought to the table in the cooking pan with bread to mop. Originally Tunisian or Libyan, now eaten everywhere from Tel Aviv to Cairo to Beirut. You build a slow sofrito first, softening sliced onion and red pepper in olive oil for 10 minutes till they start to caramelise, then bloom garlic, chilli, cumin, sweet paprika, smoked paprika (both, not one; just smoked is one-note, just sweet lacks depth) and caraway seeds for a minute. Stir in tomato purée and a minute later add two tins of chopped tomatoes with a pinch of sugar, season generously, simmer 12 to 15 minutes till the sauce thickens (a wet sauce makes wet eggs; reduce it properly first). Make six wells in the sauce with the back of a spoon, crack an egg into each, lid down on low for five to seven minutes till the whites set but the yolks stay runny. Don't stir once the eggs are in; the steam under the lid is what poaches them through. Scatter crumbled feta and chopped parsley or coriander, bring the pan to the table with crusty bread for dipping.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Chicken thighs (boneless, skin-on for the best result) are cut into 4 cm pieces and marinated for 30 minutes in a mixture of soy sauce, sake, grated ginger, garlic, mirin and a touch of sesame oil. The marinated chicken pieces are then thoroughly dredged in potato starch (also called katakuriko in Japanese; cornstarch is a workable substitute but not as good). Oil heats to 160°C for the first fry, chicken pieces fry for 4 minutes until just cooked but not deeply coloured. Removed; rested for 5 minutes. Oil temperature increases to 190°C for the second fry, chicken returns for 60-90 seconds until amber-golden, crisp, and the outside shatters when bitten. Seasoned and served immediately.
+The izakaya fried chicken that gets ordered at every Japanese pub and is the answer to "what should we eat with the beer". You marinate boneless skin-on chicken thigh in soy, sake, mirin, ginger, garlic and sesame oil for half an hour (no longer, or the surface goes mushy), then dredge each piece in potato starch (katakuriko; cornstarch is the closest substitute, but the real thing is worth seeking out at any Asian grocer for the shatteringly crisp finish it gives). The two-fry method is the technical move. First fry at 160°C for three or four minutes cooks the chicken through to gold but not yet deeply coloured; rest five minutes; then a 90-second blast at 190°C amber-bronzes the crust into something that crackles when you bite. Drain on a wire rack, salt while still hot, pile onto a warm plate. Serve with lemon wedges, a slick of Kewpie mayonnaise, and a small pile of shichimi togarashi to dip into; eat with the fingers or chopsticks while the crust still snaps.
 
 ## Ingredients
 

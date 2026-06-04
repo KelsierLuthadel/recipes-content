@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A fragrant Malaysian noodle soup combining shellfish with a spicy coconut curry broth, rice noodles, and fresh herbs. The balance of heat from chillies and creaminess from coconut milk makes it a comforting yet exotic dish.
+A coastal Malaysian one-pot, the kind of laksa you reach for when good white fish and fat prawns are on the slab at the market: a fragrant coconut-curry broth with rice vermicelli, sweet chunks of fish and pink-curled prawns, plus the unusual touch of fennel both as seeds and as bulbs in wedges for a faint aniseed lift. You build a fresh laksa paste in a processor, pulsing red chillies, garlic, paprika, shrimp paste, ginger, shallots and coriander roots with a spoon of oil. Fry the rest of the shallots with fennel seeds and fennel wedges till golden, add a few spoons of the paste and stir-fry till the kitchen smells of toasted curry. Pour in fish stock, simmer 8 to 10 minutes, then coconut milk with lime juice and fish sauce; taste and adjust the salt-sour-rich balance. Slip the white fish in for two or three minutes, then prawns for another three or four till just pink. Stir basil and coriander leaves through off the heat. Cook the rice vermicelli separately so they keep their bite, divide between deep bowls, ladle the stew over, scatter spring onions and whole basil leaves, serve at once.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A simple dough of flour, butter, sugar, milk and an egg rests until smooth. The dough rolls out 5-7 mm thick; cut into rectangles or strips, optionally twisted or scored. Deep-fried in vegetable oil at moderate heat 2-3 minutes per side until uniformly golden. Drained briefly; eaten warm with sweetened milk tea, or cooled and stored in a tin for tea-time later.
+Mongolia's everyday fried dough, the slightly sweet biscuits that turn up dipped in milk tea every afternoon and piled high in tiered stacks (sometimes called ul boov) at Tsagaan Sar to symbolise prosperity. You whisk flour with sugar, salt and baking powder, rub in softened butter to a breadcrumb texture, then mix in beaten egg and warm milk to a soft, slightly sticky dough. Knead briefly for three or four minutes till smooth (overworking gives chewy biscuits; boortsog should be tender), rest 30 minutes. Roll out to 6 or 7 mm thick on a floured surface, cut into rectangles or twists (cut a long strip, slit it lengthways, pull one end through the slit for a quick twist) or score-topped discs. Rest 10 minutes on a tray for a slightly puffier result. Heat oil to 165 to 170°C; hotter and the outsides burn before the inside cooks, cooler and they go oily and dense. Fry six to eight at a time for two or three minutes a side till uniformly deep gold and slightly puffed. Drain on kitchen paper, eat warm or at room temperature, dusted with caster sugar or drizzled with honey if you like. Serve with hot sweetened milk tea (or salted milk tea for the proper Mongolian way), pile high on a plate for tea time.
 
 ## Ingredients
 

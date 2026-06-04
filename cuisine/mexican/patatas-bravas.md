@@ -9,7 +9,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Patatas bravas is a classic Spanish tapas dish featuring crispy roasted potatoes smothered in a rich, spiced tomato sauce. While originating in Spain, this dish has become popular across Latin American cuisines. The combination of golden, crispy potatoes with a flavourful paprika and chilli tomato sauce makes for an addictive side dish or appetizer. Traditionally served at room temperature with fresh parsley garnish.
+Spain's most-ordered tapa and the dish that crossed over into Latin American kitchens through the Spanish colonial table: crispy roasted potato cubes drenched in a smoky paprika-tomato sauce, scattered with chopped parsley, eaten at room temperature with crusty bread and a glass of something cold. You soften chopped onion in olive oil for five minutes, add garlic for one, stir in tinned tomatoes, tomato puree, sweet paprika, a pinch of chilli powder and a pinch of sugar, simmer 10 minutes uncovered till the sauce thickens to a pulp and the kitchen smells of smoke. Cut potatoes into uniform 1 to 1½ cm cubes (uniform sizes cook evenly; mixed sizes give a mix of crisp and soft), pat thoroughly dry with kitchen paper (drying is essential for crispiness; wet potatoes steam instead of crisp). Toss with olive oil, salt and pepper, spread on a roasting tin in a single layer. Roast at 180°C fan for 40 to 50 minutes stirring every 15 till the potatoes are crisp and golden on all sides. Tip into serving dishes, spoon the warm sauce generously over (or set the sauce alongside if you prefer to keep the crisp longer), scatter chopped fresh parsley. Serve warm or at room temperature.
 
 ## Ingredients
 

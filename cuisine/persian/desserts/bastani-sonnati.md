@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Milk and cream warm with sugar; saffron blooms in milk separately; egg yolks whisk with sugar to ribbons. The hot milk tempers into the yolks; the custard cooks back to coat-the-spoon thickness; off the heat, rosewater, saffron-milk and a pinch of mastic powder fold in. Cooled custard goes into the ice cream churn. As it freezes, ribbons of separately-frozen cream and chopped pistachios fold through.
+Bastani sonnati is the Persian ice cream you eat from a paper cup on a summer street in Tehran or sandwiched between two thin vanilla wafers, the flavour an arresting combination of saffron, rosewater and pistachio with a faint chew from mastic gum and shards of frozen cream cracking through every scoop. Spread 200 ml of cream into a thin sheet and freeze it solid (you'll break it later into the cold shards that crunch through the soft ice cream and make this dish what it is). Meanwhile build a proper custard base: warm whole milk and cream with half the sugar till just simmering, whisk the yolks with the rest of the sugar till pale and ribbony, then temper the hot milk into the yolks and cook the custard gently back over low heat for four or five minutes till it coats the back of a wooden spoon. Off the heat, stir in saffron-milk, rosewater, ground mastic and a pinch of salt, strain to catch any cooked egg, then chill the base thoroughly overnight so the flavours marry. Churn till soft-set, fold through chopped pistachios and the cracked frozen cream shards working fast so they don't melt, then firm in the freezer for four hours. Let the tub soften five minutes before scooping; serve in a glass dish with extra pistachios and a few dried rose petals scattered across the top.
 
 ## Ingredients
 

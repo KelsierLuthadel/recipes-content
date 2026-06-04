@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-A soft yeasted olive-oil dough rises for 45 minutes. The filling: spinach wilts briefly in salted water and is squeezed bone-dry; chopped onion massages with salt to soften and weep; the two combine with sumac, lemon juice, pomegranate molasses, olive oil and toasted pine nuts. The dough divides into 12 balls; each rolls into a 12 cm disc; a spoon of filling sits in the centre; the disc folds into a tricorn (three corners pinched up to meet at the top). Baked at 220°C 15-18 minutes until deep gold.
+These are the little three-cornered pies you find piled in bakery windows across Ramallah and Nablus, eaten at room temperature on long mezze tables or pulled warm out of a paper bag walking home. You mix a soft yeasted olive-oil dough and leave it to rise for 45 minutes while you build the filling: spinach wilted hard in salted water and squeezed bone-dry, onion massaged with salt till it weeps, then everything tossed with sumac, lemon, pomegranate molasses and toasted pine nuts. Divide the dough into twelve balls, roll each into a thin disc, drop a spoon of filling in the middle, then pinch three sides of the edge up to meet over the top so you get a tricorn with three sealed seams. Seal the seams hard with floured fingers, because a loose corner opens in the oven and the filling escapes onto the tray. Brush with olive oil and bake hot at 220°C for 15 to 18 minutes till deep gold, the pastry crisp at the points and tender underneath. Scatter a little extra sumac, eat warm with labneh and olives, or cold the next day with sweet mint tea.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Red onion is sliced as thin as possible (mandoline is ideal). The slices are soaked in iced water with a small splash of vinegar for 15 minutes, which kills the raw sulphurous bite and crisps them up. Drained and patted dry, the slices are tossed with lemon juice, chaat masala, salt, a pinch of sugar and a small handful of finely chopped fresh coriander or mint. Pickled green chillies on the side complete it.
+The dhaba-table onion salad that lands beside every chargrilled Lahori main: red onion sliced paper-thin, soaked briefly in iced vinegar-water to kill the raw sulphurous bite, drained and tossed with lemon, chaat masala, chilli flakes and fresh herbs. You slice red onion as thinly as a mandoline allows (1 to 2 mm; thick rings are unpleasant raw, so the mandoline is worth its drawer space). Soak in iced water with a splash of vinegar and a teaspoon of salt for 15 minutes; the soak knocks back the raw sulphur and crisps the slices so they're edible by the spoonful. Drain, pat dry with a clean tea towel. Toss with lemon juice, chaat masala (non-negotiable here, the secret that pushes the salad from raw onion to chaat-stall side), Kashmiri chilli flakes, black pepper, a pinch of sugar, salt, and a handful of chopped fresh coriander and mint. Scatter pomegranate seeds for the look, set pickled green chillies on the side, serve immediately alongside grilled or fried Lahori mains.
 
 ## Ingredients
 - 2 red onions (large, about 350 g; peeled and very thinly sliced)

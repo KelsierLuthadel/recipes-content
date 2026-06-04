@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Aged basmati rice is soaked briefly and ground to a coarse paste (the Lahori way; modern shortcut is rice flour). Milk is brought to a boil, the rice paste whisked in carefully to avoid lumps, and the mixture cooked over low heat for 25-30 minutes with constant stirring as it thickens to a custard. Sugar, cardamom, saffron and a hint of rose go in at the end. The firni is poured into small earthenware bowls (the traditional vessel; the porous clay draws moisture out and intensifies the flavour). Chilled, topped with nuts.
+The cooling Lahori Eid dessert, the small bowl that lands at the end of any Old City meal: ground-rice pudding cooked slowly in cardamom-scented milk, set in small earthenware kulhars, chilled and crowned with slivered pistachios, almonds and a flake of silver leaf. Smoother than kheer, paler, ground-rice-fine. You soak aged basmati for half an hour and grind it to a coarse paste rather than reaching for rice flour (the home shortcut works but loses the textural interest). Bring milk to a boil in a wide heavy pan, then whisk the rice paste in slowly while stirring constantly for 25 to 30 minutes till it thickens to a thin custard that coats the back of a spoon. Sugar, ground cardamom, saffron-bloomed milk and rose water in at the end. Pour into small earthenware bowls (the porous clay draws moisture out as the firni chills and intensifies the flavour; ramekins work but stay softer). Cool, then refrigerate at least four hours or overnight. Eat cold, straight from the bowl.
 
 ## Ingredients
 

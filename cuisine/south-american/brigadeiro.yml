@@ -10,7 +10,8 @@ tags:
   - butter
   - chocolate
   - complex
-mentions: []
+mentions:
+  - petit-four/chocolate-truffles
 ingredients:
   - qty: 397
     unit: g

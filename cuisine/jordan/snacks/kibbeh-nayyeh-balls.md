@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A fine-bulgur-and-lean-mince dough is blitzed smooth with onion, baharat, salt and a touch of ice water. Cold mince-with-fat (the filling) sautées with onion, baharat, allspice, cinnamon, and toasted pine nuts; cools. The kibbeh dough divides; each piece is wet-handled into a small football shape, hollowed with a finger, filled with the cool spiced mince, sealed and re-shaped into an oval. Deep-fried 175°C for 3-4 minutes until amber. Drained and served warm with lemon and a yogurt-mint sauce. The shape is the test: thin walls, plump bellies, pointed tips.
+Jordan's fried kibbeh: bulgur-and-lamb dough wrapped around a spiced mince and pine-nut filling, deep-fried into amber-crisp ovals. The shape is the test (thin walls, plump bellies, pointed tips like American footballs), and half the dish is in getting it right. You blitz fine bulgur with very lean lamb, onion, baharat, allspice and ice water into a smooth tacky dough; lean meat is essential here, fat in the dough makes a wet ball that bursts in the fryer. Separately, sauté a fattier mince with onion, baharat, allspice and cinnamon, fold in toasted pine nuts and parsley, cool completely (warm filling tears the dough). Wet your hands constantly (bulgur-meat dough sticks to dry hands but slides off wet ones); take 35 g of dough, hollow it on your finger into a thin-walled cup, drop in cool filling, pinch closed and roll into the football shape with pointed tips. Deep-fry at 175°C three to four minutes till amber-gold, drain on kitchen paper. Pile warm on a plate with a yogurt-mint sauce, lemon wedges and a small dish of Aleppo pepper for those who want more heat.
 
 ## Ingredients
 

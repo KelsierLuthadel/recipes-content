@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A vibrant Caribbean soup featuring fresh fish poached in a spicy tomato-based broth with sweet potatoes and aromatic vegetables. The scotch bonnet chilli adds authentic heat, balanced by fresh lime juice for a refreshing finish.
+A West Indian one-pot you reach for when the fish looks good at the market and you want a meal that's quick but tastes coastal. You blister a red pepper under the grill till the skin blackens, peel it, and dice it; tomatoes get scored, dropped into boiling water, and peeled the same way. Then it's the classic Caribbean base: shallot, celery, the diced pepper and finely chopped Scotch bonnet softening in oil with allspice and nutmeg, the smell warming and faintly Christmassy. Stock and tomato go in, sweet potato cubes drop in to tenderise in the broth, and only at the end do the chunks of cod join, poached just till opaque. Lime juice in last for the lift, and you serve it before the fish has a chance to overcook. Ladle into shallow bowls with crusty bread or a small pile of plain white rice, and a cold drink on the side.
 
 ## Ingredients
 

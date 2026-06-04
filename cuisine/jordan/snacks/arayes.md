@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Lamb mince mixes with grated onion, parsley, allspice, baharat, pine nuts (optional) and salt. Pita pockets split open along one side; the filling presses thin (5-6 mm) into both halves. Brushed with olive oil; pan-fried or grilled hot 3-4 minutes per side until the bread is crisp and gold and the meat is just cooked.
+A Jordanian-and-Lebanese street snack that's also a fast weeknight dinner: pita pockets stuffed with spiced lamb mince, then grilled or pan-fried till the bread is crisp and the filling is just cooked. You mix lamb (or beef) with finely grated onion (juices and all), parsley, garlic, baharat, allspice and cinnamon, a spoon of pomegranate molasses if you have it, and pine nuts for crunch. Split each pita along one edge to open the pocket without tearing it, press the filling thin (5 to 6 mm) all the way to the edges in both halves so it cooks through fast; thick filling stays raw while the bread burns. Brush both sides with olive oil, place in a hot pan or under a grill, press lightly with a spatula for even contact, three or four minutes a side till the bread is crisp and gold. Cut into quarters or sixths, serve hot with tahina sauce, Greek yogurt, lemon wedges and pickled vegetables for dipping.
 
 ## Ingredients
 

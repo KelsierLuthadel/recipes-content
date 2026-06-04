@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Onions are softened with garlic and ras el hanout. Carrots, parsnips, potato and squash join in stages, root first, fast-cooking last. Chickpeas, tomatoes, stock and apricots simmer everything together. At the end, preserved lemon, fresh coriander and toasted almonds finish; honey rounds out the spice if needed.
+The vegetarian Moroccan tagine that anchors a Friday family lunch when the house has gone meat-free: root vegetables, chickpeas and dried apricots slow-cooked under a conical tagine lid till everything softens into a glossy, sweet-savoury stew, fragrant with ras el hanout, cinnamon and preserved lemon. The tagine's tall lid traps the moisture and lets the contents braise without drying out; a heavy casserole works just as well. You heat olive oil in a heavy casserole or tagine, soften sliced onions for eight to 10 minutes till soft and golden, bloom garlic, grated ginger, ras el hanout, cinnamon and turmeric for a minute. Add cubed carrots, parsnips, butternut squash and potatoes, toss to coat in the spices, cook three or four minutes. Add drained chickpeas, tinned tomatoes, halved dried apricots and stock, season generously, simmer covered for 35 to 40 minutes till the roots are tender and the sauce has reduced to a thick stew. Stir in finely chopped preserved lemon peel (rind only; the flesh is too salty and bitter) and an optional spoon of honey if the spice needs rounding. Scatter toasted flaked almonds and chopped coriander and mint across the top. Serve over couscous or with warm flatbread.
 
 ## Ingredients
 

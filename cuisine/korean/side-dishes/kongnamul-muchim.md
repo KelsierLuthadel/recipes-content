@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-Soybean sprouts blanch in salted water 5-6 minutes (longer than mung sprouts because of the harder bean head). Drain immediately and rinse cold to stop cooking and preserve snap. Dressing: 2 minced garlic cloves, soy sauce, sesame oil, salt, sesame seeds, spring onion. Toss; chill for 15 minutes; serve cool. Some versions get a pinch of gochugaru for the spicy variant.
+The most basic Korean banchan and probably the one you'll make first: blanched soybean sprouts dressed with garlic, soy, sesame oil and sesame seeds, served cool. Nutty, refreshing, the small dish that lands beside every Korean table next to the rice. You need soybean sprouts (kongnamul: larger, yellow-topped, with the bean still on), not mung bean sprouts (smaller and more delicate, requiring a shorter blanch). Pick over them, pull off any darkened roots, then blanch in salted boiling water covered with a lid for five or six minutes; the cover suppresses the raw-bean smell that develops if they boil uncovered, and the harder bean head needs the longer time (too short and they're squeaky-raw). Drain immediately, rinse under cold water to stop the cooking, squeeze gently to remove excess water. Dress with minced garlic, soy, toasted sesame oil, salt, sliced spring onions and toasted sesame seeds; a teaspoon of gochugaru if you want the spicy version. Chill 15 minutes to let the flavours meld. Pile into a small banchan dish at room temperature alongside rice and a Korean main.
 
 ## Ingredients
 - 400 g soybean sprouts (kongnamul, yellow-topped, with the bean still on)

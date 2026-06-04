@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Vegetable oil bloomed with onion, garlic and a fresh thyme stripping. Shredded white or savoy cabbage and julienned carrot piled in, with a whole (unpierced) scotch bonnet on top for aromatic heat. A splash of water creates steam; the pot is covered and the cabbage softens in about 8 minutes. The scotch bonnet is removed before serving. Black pepper and salt to finish.
+A weeknight Jamaican side: shredded green or savoy cabbage with carrot, onion and red pepper, steam-cooked till just tender with thyme and a whole Scotch bonnet on top for fragrance without fire. You soften onion and red pepper in vegetable oil, stir in garlic and stripped thyme leaves with a pinch of allspice, then pile in the cabbage and carrot and toss everything through the aromatics. A whole intact Scotch bonnet sits on the heap, a splash of water goes in, the lid goes on, and four to eight minutes of steam-fry brings the cabbage to bright and tender with the slightest bite still in it. Fish out the chilli (or save it for whoever wants extra heat). Eat it alongside brown stew chicken, jerk pork, fried fish, oxtail and butter beans, or banked next to a mound of rice and peas.
 
 ## Ingredients
 

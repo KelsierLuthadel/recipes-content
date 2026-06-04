@@ -11,7 +11,7 @@
 **Cook Time:** 1 ½ hours
 
 ## Overview
-Multiple dried chillies (mulato, ancho, pasilla) toast and rehydrate, then blend with toasted nuts, seeds, dried fruit, spices, fried onion and garlic, plantain, dark chocolate and a slice of toasted bread or tortilla into a thick paste. The paste cooks down with chicken stock into a glossy mahogany sauce, served over poached chicken with rice and warm tortillas.
+Puebla's labyrinthine sauce, the most complex preparation in Mexican cooking and the one most worth the effort: dried chillies, nuts, seeds, dried fruit, spices, plantain, chocolate and a slice of toasted bread all blended into a thick paste that cooks down with chicken stock into a glossy mahogany sauce. Restaurants take days; the weekend home version is faithful enough. You toast and rehydrate multiple dried chillies (mulato for raisin-fruity notes, ancho for sweet-mild, pasilla for deep-bitter; replacing all three with one type flattens the sauce). Fry nuts, seeds and raisins separately till golden, then bread and tortilla, then onion, garlic and plantain, then briefly toast cinnamon, cloves, peppercorns, oregano and anise. Everything goes into a blender with the soaked chillies, tomato and tomatillos, blitz to as smooth a paste as possible, pass through a sieve pressing hard so the texture comes out silky. Fry the paste in oil for five minutes (it spits), pour in chicken broth, melt in dark chocolate (70%, not the dessert kind), simmer 30 minutes till the sauce thickens to a glossy, lava-like consistency. Season with salt and a touch of sugar. Shred poached chicken into the sauce, warm through, serve over rice with warm tortillas and a scatter of sesame seeds.
 
 ## Ingredients
 

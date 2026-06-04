@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Pork belly slices brown in a heavy pot, joined by chopped sour kimchi (the older the better) and its juice. Stock and gochujang go in; the lot simmers until the pork is tender and the broth is dark and thick. Tofu cubes finish; spring onion scattered. Eaten with rice.
+Korea's hangover-and-cold-night staple: aged sour kimchi simmered with pork belly, tofu and gochujang into a fiery red broth. The dish lives or dies on the age of your kimchi. Fresh kimchi gives a flat stew, but kimchi that's been in the fridge two or three weeks (or longer, even better) has the sour-complex edge that makes the broth what it is. You brown pork belly slices in a heavy pot till they start to crisp, soften onion and garlic in the rendered fat (don't drain it; the fat seasons the broth), then fry chopped sour kimchi with its juice for five minutes to deepen the flavour. Stir in gochujang, gochugaru, a small spoon of doenjang for savoury depth, and a pinch of sugar; pour in stock or water, simmer covered 20 to 25 minutes till the pork is tender and the broth dark. Add cubed tofu in the last five minutes (don't stir hard, tofu breaks). Scatter spring onions, bring the pot to the table, ladle over bowls of short-grain rice. It deepens overnight and day two is arguably better than day one.
 
 ## Ingredients
 

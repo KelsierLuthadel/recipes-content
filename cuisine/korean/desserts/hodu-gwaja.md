@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A simple cake-style batter, flour, eggs, milk, sugar, butter, is whisked to a smooth pourable consistency. Filling: sweet red bean paste (pat) is rolled into 12 small balls; each ball receives a walnut half pressed into its centre. Baked in a walnut-mould pan (12-cavity, sometimes called "Korean walnut pan" or use a 12-cup muffin tin lined with paper), the batter goes in half-full, the filling sits on top, more batter is added over. Baked for 12-15 minutes at 180°C; tapped out of moulds; cooled.
+Cheonan's walnut-shaped cake, the kind of small-bite sweet you'll find boxed and gift-wrapped at every Korean train station and now in every Korean tea shop abroad: a tender flour-and-egg batter cooked in iron walnut moulds around sweet red bean paste with a whole walnut piece pressed into the centre. You whisk eggs and sugar till pale and slightly foamy, fold in melted butter, milk and vanilla, then a flour-and-baking-powder mix folded in just till combined (overmixed batter gives tough heavy cakes). Divide the red bean paste into 12 balls and press a walnut half into each so it embeds; the visible walnut at the centre of every cake is the visual signature, so use good walnuts. Spoon batter into walnut-shaped moulds (or a 12-cup mini-muffin tin lined with paper), tuck a bean-and-walnut ball in the centre of each, cover with more batter so the centre is hidden. Bake 12 to 15 minutes till the tops are golden, cool, dust with icing sugar. Eat with Korean coffee or hot tea.
 
 ## Ingredients
 

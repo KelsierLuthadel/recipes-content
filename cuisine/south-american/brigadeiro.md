@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Sweetened condensed milk, cocoa powder and butter cook together in a heavy pan over medium-low heat, stirring constantly. The mixture goes from runny to slightly thick to a thick paste that pulls cleanly from the bottom of the pan when the spoon is drawn through. Off the heat, cool fully, then roll into small balls and drop in chocolate sprinkles.
+Brigadeiros are Brazil's chocolate truffles, the soft fudgy little balls rolled in chocolate sprinkles that turn up at every children's birthday party in the country and most of the adult ones too. The whole recipe is three ingredients in a pan: sweetened condensed milk, cocoa powder and butter, cooked together with a pinch of salt over medium-low heat while you stir constantly with a wooden spoon. Don't walk away once the mixture starts to thicken; it scorches in seconds. You're watching for two signs: the brigadeiro pulls cleanly away from the bottom of the pan when the spoon is drawn through (you can see the pan base for a moment), and a scoop holds its shape on a plate without spreading. Pour onto a buttered plate in a 2 cm layer, cool to room temperature, then refrigerate at least three hours and ideally overnight so the texture firms enough to roll. Butter your hands lightly, pinch off teaspoon-sized pieces and roll into 2 cm balls between your palms, drop into a bowl of chocolate sprinkles and turn till fully coated. Set each one in a small paper case (the traditional finish) and eat at room temperature, ideally on the day they're rolled though they'll keep five days in a tin if you can stop yourself.
 
 ## Ingredients
 

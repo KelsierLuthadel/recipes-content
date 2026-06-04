@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Chicken thighs are poached with onion, garlic and bay until just cooked, then shredded with two forks. A sauce is built separately: sliced onion is caramelised, then chipotles in adobo and tinned tomatoes are blended in and simmered down with the poaching liquor. The shredded chicken is folded back through the sauce so every shred picks up the smoke and acidity. Spoon onto warm tostadas with avocado, crema and crumbled queso fresco.
+A Puebla classic and the workhorse filling for tostadas, tacos and tortas across Mexico: shredded chicken in a smoky tomato-chipotle sauce that takes less than an hour and rewards patience the next day after the smoke has settled in. Chipotles in adobo are the soul of the dish; the smoky moderate heat sits in the sauce while the adobo's vinegar gives backbone. You poach chicken thighs (not breasts; breasts dry out and shred into chalky strands) with halved onion, garlic, bay and salt till just cooked, reserve 250 ml of the poaching liquor, shred the meat with two forks once it's cool enough to handle. Caramelise sliced onion in olive oil over medium for 12 to 15 minutes till soft and lightly browned, add chopped garlic for a minute, then blend chipotles, a spoon of adobo, tinned tomatoes, oregano and cumin to a smooth sauce. Pour into the pan, simmer 8 to 10 minutes till the sauce darkens and thickens, add 200 ml of the reserved poaching liquor and simmer another five. Fold the shredded chicken in, coat every strand, cook five more minutes so the chicken absorbs the smoke. Spoon onto warm tostadas or into folded tortillas with sliced avocado, crumbled queso fresco, a drizzle of crema, coriander and a squeeze of lime.
 
 ## Ingredients
 

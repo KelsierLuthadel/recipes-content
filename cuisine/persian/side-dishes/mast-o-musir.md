@@ -11,7 +11,7 @@
 **Total Time:** 8 hours (overnight rehydration)
 
 ## Overview
-Dried sliced Persian shallots (sold at Iranian shops, looks like small papery brown discs) cover with cold water and rehydrate overnight (8-12 hours). Drained and patted dry; chopped fine. Strained thick yogurt whisks in a bowl; the chopped rehydrated shallots fold in; a pinch of salt and a small splash of cold water adjust the consistency. Rests for 1 hour for flavours to integrate. Served with a drizzle of olive oil.
+This is the side bowl that turns up on every Persian table next to kebabs, rice or a kuku, thick strained yogurt mixed with wild shallots from the Zagros mountains that taste like nothing else, faintly sulfurous and deeply savoury. The shallots come dried and sliced from Iranian shops (small papery brown discs labelled musir), and the one technical move is the soak: cover them in cold water and leave overnight for 8 to 12 hours, no shortcut, short soaks leave them chewy and the funky-sour flavour underdeveloped. Drain, rinse briefly to wash off any released bitterness, pat dry on paper, and chop fine. Whisk thick strained yogurt smooth in a wide bowl, fold the chopped shallots through, season with salt and (only if the yogurt is very dense) a tablespoon of cold water to bring it to a thick spoonable consistency. Cover and rest in the fridge an hour or longer (the flavour deepens over the first day and softens after), then tip into a wide shallow bowl, make a shallow well in the middle with the back of a spoon and drizzle extra-virgin olive oil into it. Eat with grilled kebabs, alongside chelo rice, or as a starter with warm sangak and pieces of pita for scooping.
 
 ## Ingredients
 
