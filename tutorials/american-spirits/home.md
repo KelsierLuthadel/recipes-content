@@ -24,24 +24,31 @@ Everything in this course is made on a pot still. Pot stills are the family-scal
 
 ## Course outline
 
-### 1. Foundations
-- [Safety](safety.md): the most important page. Read first.
+### 1. Techniques and guidance
+
+Read these before making anything. They are the foundation the recipe pages assume.
+
 - [Building a still](building-a-still.md): a working pot still from copper tubing and a heat source you already own.
+- [Safety](safety.md): the most important page. Foreshots cuts, methanol, fire and pressure. Read every season.
+- [Sour mash](sour-mash.md): the American consistency trick - save spent grain from the previous batch, stir into the next.
+- [Cuts by smell](cuts-by-smell.md): the sensory side. Safety.md tells you the volumes; this tells you what to smell for.
+- [Aging in small barrels](aging-small-barrels.md): the 5-gallon-barrel trick, the surface-area math, when to bottle.
 
-### 2. American whiskies
-- [Whisky (the umbrella)](whisky.md): the umbrella category - mash, ferment, distil, cut, barrel, age.
-- [Bourbon](bourbon.md): the corn-led whiskey. The federal definition, the cooperage, the family farm version.
-- [Rye](rye.md): the spicier, drier cousin. Pennsylvania and Maryland traditions.
-- [Tennessee whiskey](tennessee-whiskey.md): the Lincoln County Process. Why charcoal mellowing matters.
+### 2. Recipes
 
-### 3. Neutral spirits
-- [Vodka](vodka.md): clean, repeatable, the foundation of countless cocktails.
-- [Grain alcohol](grain-alcohol.md): the 190-proof base for infusions and extracts.
+Each page covers the spirit category, the federal definition, a 5-gallon worked recipe, what to expect on the palate, and variations. Alphabetical from here.
 
-### 4. Orchard and folk traditions
 - [Applejack](applejack.md): two methods - freeze concentration (the pre-Prohibition folk technique) and apple-brandy distillation (the proper licensed approach).
+- [Bourbon](bourbon.md): the corn-led whiskey. The federal definition, the cooperage, the family farm version.
+- [Corn whiskey](corn-whiskey.md): aged corn whiskey - ≥80% corn, aged in used or uncharred oak. The bridge between moonshine and bourbon.
+- [Flavoured moonshine](flavoured-moonshine.md): Apple Pie, Peach, Blackberry, Strawberry, Cherry, White Lightnin', Hunch Punch, Mountain Java - the Ole Smoky line decoded and recreated.
+- [Grain alcohol](grain-alcohol.md): the 190-proof base for infusions and extracts.
 - [Ole Smoky-style moonshine](ole-smoky-moonshine.md): un-aged corn whiskey, the un-barrelled version of bourbon.
-- [Flavoured moonshine](flavoured-moonshine.md): Apple Pie, Peach, Blackberry, Strawberry, Cherry, White Lightnin', Hunch Punch - the Ole Smoky line decoded and recreated.
+- [Peach brandy](peach-brandy.md): the Southern fruit brandy - ripe peaches fermented and distilled into a clear fragrant spirit.
+- [Rye](rye.md): the spicier, drier cousin of bourbon. Pennsylvania and Maryland traditions.
+- [Tennessee whiskey](tennessee-whiskey.md): bourbon plus the Lincoln County Process. Charcoal mellowing.
+- [Vodka](vodka.md): clean, repeatable, the foundation of countless cocktails.
+- [Whisky (the umbrella)](whisky.md): the umbrella category - mash, ferment, distil, cut, barrel, age. Read first if any of the whisky-family pages above feel like they assume background.
 
 ## What you will need
 

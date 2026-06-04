@@ -1,0 +1,38 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+mentions:
+  - drinks/cocktails/manhattan
+  - drinks/cocktails/old-fashioned
+  - tutorials/american-spirits/aging-small-barrels
+  - tutorials/american-spirits/applejack
+  - tutorials/american-spirits/safety
+  - tutorials/american-spirits/whisky
+ingredients:
+  - qty: 6.5
+    unit: kg
+    name: peaches
+    raw: 6-7 kg ripe peaches
+  - qty: 2
+    unit: kg
+    name: cane sugar
+    raw: 2 kg cane sugar
+  - qty: 15
+    unit: l
+    name: water
+    raw: 15 litres water
+  - qty: 25
+    unit: g
+    name: distiller's yeast
+    raw: 25 g distiller's yeast
+  - qty: 5
+    unit: g
+    name: yeast nutrient
+    raw: 5 g yeast nutrient
+  - qty: 1
+    unit: tsp
+    name: pectic enzyme
+    raw: 1 tsp pectic enzyme
