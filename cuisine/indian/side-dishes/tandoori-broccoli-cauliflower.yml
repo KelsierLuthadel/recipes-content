@@ -15,7 +15,8 @@ tags:
   - lemon
   - yogurt
   - chickpea
-mentions: []
+mentions:
+  - cuisine/indian/sauces-pickles/mint-raita
 ingredients:
   - qty: 1
     name: head of broccoli

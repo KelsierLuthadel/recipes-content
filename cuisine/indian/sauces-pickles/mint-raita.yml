@@ -1,0 +1,51 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - asian
+  - lemon
+  - yogurt
+mentions:
+  - cuisine/indian/sauces-pickles/cucumber-raita
+  - cuisine/indian/side-dishes/cucumber-raita
+  - cuisine/indian/side-dishes/onion-bhaji
+  - cuisine/indian/side-dishes/papadum
+  - cuisine/indian/snacks/samosa
+  - cuisine/pakistani/side-dishes/boondi-raita
+ingredients:
+  - qty: 300
+    unit: g
+    name: natural or greek-style yoghurt
+    raw: 300 g full-fat natural or Greek-style yoghurt
+  - qty: 0.5
+    name: cucumber
+    raw: ½ cucumber
+  - qty: 1
+    unit: small handful
+    name: mint leaves
+    raw: 1 small handful fresh mint leaves
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ tsp ground cumin
+  - qty: 0.25
+    unit: tsp
+    name: salt
+    raw: ¼ tsp fine salt
+  - qty: 1
+    unit: squeeze
+    name: lemon juice
+    raw: Squeeze of lemon juice
+  - qty: 1
+    unit: pinch
+    name: sugar
+    raw: Pinch of sugar
+  - qty: 1
+    unit: pinch
+    name: chilli powder
+    raw: Pinch of mild chilli powder

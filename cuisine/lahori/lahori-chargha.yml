@@ -19,7 +19,8 @@ tags:
   - coriander
   - yogurt
   - complex
-mentions: []
+mentions:
+  - cuisine/indian/side-dishes/onion-salad
 ingredients:
   - qty: 1
     name: chicken

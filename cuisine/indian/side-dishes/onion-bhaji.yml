@@ -1,0 +1,63 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - onion
+  - coriander
+  - chickpea
+  - chili
+mentions:
+  - cuisine/indian/sauces-pickles/mint-raita
+ingredients:
+  - qty: 3
+    name: onions
+    raw: 3 large onions
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1½ tsp fine salt
+  - qty: 150
+    unit: g
+    name: chickpea flour
+    raw: 150 g chickpea flour
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 1
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: 1 tsp Kashmiri chilli powder
+  - qty: 0.5
+    unit: tsp
+    name: baking powder
+    raw: ½ tsp baking powder
+  - qty: 1
+    name: green chilli
+    raw: 1 small green chilli
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: Small handful fresh coriander
+  - qty: 2.5
+    unit: tbsp
+    name: water
+    raw: 2-3 tbsp cold water
+  - name: neutral oil for deep-frying
+    raw: Neutral oil for deep-frying

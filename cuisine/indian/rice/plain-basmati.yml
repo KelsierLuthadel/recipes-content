@@ -1,0 +1,30 @@
+prep: 5 minutes (plus 20 minutes soaking)
+cook: 15 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - asian
+  - rice
+mentions:
+  - cuisine/chinese/fried-rice
+  - cuisine/indian/rice/lemon-rice
+ingredients:
+  - qty: 300
+    unit: g
+    name: basmati rice
+    raw: 300 g basmati rice
+  - qty: 450
+    unit: ml
+    name: water
+    raw: 450 ml cold water
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp fine salt
+  - qty: 1
+    unit: tsp
+    name: ghee or neutral oil
+    raw: 1 tsp ghee or neutral oil

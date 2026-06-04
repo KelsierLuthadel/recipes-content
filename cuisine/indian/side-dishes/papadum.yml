@@ -1,0 +1,35 @@
+prep: 2 minutes
+cook: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - asian
+  - onion
+  - tomato
+  - lemon
+  - lime
+  - coriander
+mentions:
+  - cuisine/indian/sauces-pickles/mint-raita
+  - cuisine/indian/side-dishes/onion-salad
+ingredients:
+  - qty: 8
+    name: plain papadum discs
+    raw: 8 plain papadum discs
+  - qty: 500
+    unit: ml
+    name: neutral oil for shallow frying
+    raw: 500 ml neutral oil for shallow frying
+  - name: mango chutney
+    raw: Mango Chutney
+  - name: lime pickle
+    raw: Lime Pickle
+  - name: onion tossed with chopped tomato
+    raw: Sliced raw onion tossed with chopped tomato, fresh coriander, a squeeze of lemon and a pinch of salt
+  - name: mint raita
+    raw: Mint Raita

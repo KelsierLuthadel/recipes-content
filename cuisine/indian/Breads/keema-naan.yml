@@ -1,0 +1,102 @@
+prep: 25 minutes (plus 2 hours proving)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - asian
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/sauces-pickles/mint-raita
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 450
+    unit: g
+    name: white flour
+    raw: 450 g strong white flour
+  - qty: 1
+    unit: tbsp
+    name: baking powder
+    raw: 1 tbsp baking powder
+  - qty: 1
+    unit: tbsp
+    name: granulated sugar
+    raw: 1 tbsp granulated sugar
+  - qty: 2
+    unit: tbsp
+    name: greek yoghurt
+    raw: 2 tbsp full-fat Greek yoghurt
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt
+  - name: water
+    raw: Lukewarm water
+  - qty: 250
+    unit: g
+    name: lamb
+    raw: 250 g minced lamb
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 15
+    unit: g
+    name: ginger
+    raw: 15 g fresh ginger
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: garam masala
+    raw: ½ tsp garam masala
+  - qty: 0.5
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: ½ tsp Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: neutral oil
+    raw: 1 tbsp neutral oil
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: Small handful fresh coriander
+  - name: ghee
+    raw: Melted ghee
+  - qty: 1
+    unit: pinch
+    name: nigella seeds
+    raw: A pinch of nigella seeds

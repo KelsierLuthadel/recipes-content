@@ -13,7 +13,8 @@ tags:
   - lemon
   - coriander
   - chili
-mentions: []
+mentions:
+  - cuisine/indian/side-dishes/onion-salad
 ingredients:
   - qty: 2
     name: red onions

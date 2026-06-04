@@ -1,0 +1,124 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - asian
+  - meat
+  - beef
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/biryani
+  - cuisine/indian/rice/plain-basmati
+  - cuisine/indian/sauces-pickles/mint-raita
+ingredients:
+  - qty: 300
+    unit: g
+    name: basmati rice
+    raw: 300 g basmati rice
+  - qty: 450
+    unit: ml
+    name: hot chicken or vegetable stock
+    raw: 450 ml hot chicken or vegetable stock
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    unit: tbsp
+    name: ghee
+    raw: 2 tbsp ghee
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 4
+    name: cloves
+    raw: 4 whole cloves
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 1
+    unit: pinch
+    name: saffron threads in 1 tbsp warm milk
+    raw: Pinch of saffron threads in 1 tbsp warm milk
+  - qty: 350
+    unit: g
+    name: lamb
+    raw: 350 g minced lamb
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 15
+    unit: g
+    name: ginger
+    raw: 15 g fresh ginger
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: garam masala
+    raw: ½ tsp garam masala
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: ½ tsp Kashmiri chilli powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tbsp tomato paste
+  - qty: 1
+    unit: tbsp
+    name: neutral oil
+    raw: 1 tbsp neutral oil
+  - qty: 50
+    unit: g
+    name: peas
+    raw: 50 g frozen peas
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: Small handful fresh coriander
+  - qty: 1
+    unit: tbsp
+    name: fried onion
+    raw: 1 tbsp fried onion

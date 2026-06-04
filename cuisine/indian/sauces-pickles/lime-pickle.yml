@@ -1,0 +1,58 @@
+prep: 30 minutes
+cook: 10 minutes
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - asian
+  - lemon
+  - lime
+mentions: []
+ingredients:
+  - qty: 12
+    name: green limes
+    raw: 12 small green limes
+  - qty: 5
+    unit: tbsp
+    name: sea salt
+    raw: 5 tbsp coarse sea salt
+  - qty: 1
+    unit: tbsp
+    name: turmeric
+    raw: 1 tbsp ground turmeric
+  - qty: 200
+    unit: ml
+    name: mustard oil
+    raw: 200 ml mustard oil
+  - qty: 2
+    unit: tbsp
+    name: black mustard seeds
+    raw: 2 tbsp black mustard seeds
+  - qty: 1
+    unit: tsp
+    name: fenugreek seeds
+    raw: 1 tsp fenugreek seeds
+  - qty: 1
+    unit: tsp
+    name: nigella seeds
+    raw: 1 tsp nigella seeds
+  - qty: 0.5
+    unit: tsp
+    name: asafoetida
+    raw: ½ tsp asafoetida
+  - qty: 3
+    unit: tbsp
+    name: kashmiri chilli powder
+    raw: 3 tbsp Kashmiri chilli powder
+  - qty: 2
+    unit: tsp
+    name: hot red chilli powder
+    raw: 2 tsp hot red chilli powder
+  - qty: 1
+    unit: tbsp
+    name: granulated sugar
+    raw: 1 tbsp granulated sugar

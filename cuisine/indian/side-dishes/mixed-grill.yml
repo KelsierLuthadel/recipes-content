@@ -1,0 +1,56 @@
+prep: 15 minutes (assumes the marinated items are ready)
+cook: 12 minutes
+allergens:
+  - dairy
+  - shellfish
+  - meat
+tags:
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - asian
+  - bbq
+  - meat
+  - fish
+  - chicken
+  - lamb
+  - prawn
+  - onion
+  - lemon
+  - coriander
+mentions:
+  - cuisine/indian/sauces-pickles/mint-raita
+  - cuisine/indian/side-dishes/tandoori-king-prawn
+ingredients:
+  - qty: 3.5
+    name: tandoori chicken tikka per person
+    raw: 3-4 pieces Tandoori Chicken Tikka per person
+  - qty: 1
+    name: lamb seekh kebab per person
+    raw: 1 Lamb Seekh Kebab per person
+  - qty: 1
+    name: lamb chop per person
+    raw: 1 lamb chop per person
+  - qty: 4
+    name: paneer tikka per person
+    raw: 4 cubes paneer tikka per person
+  - qty: 2
+    name: tandoori king prawns per person
+    raw: 2 tandoori king prawns per person
+  - qty: 1
+    name: red onion
+    raw: 1 large red onion
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: Small handful fresh coriander
+  - qty: 1
+    unit: pinch
+    name: chaat masala
+    raw: Pinch of chaat masala
+  - name: bowl mint raita
+    raw: Small bowl Mint Raita, to serve

@@ -1,0 +1,67 @@
+prep: 8 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - asian
+  - onion
+  - tomato
+  - lemon
+  - coriander
+  - yogurt
+mentions:
+  - cuisine/indian/sauces-pickles/mint-raita
+  - cuisine/indian/side-dishes/papadum
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: red onion
+    raw: 1 large red onion
+  - qty: 1
+    name: tomato
+    raw: 1 medium tomato
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: Small handful fresh coriander
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp fine salt
+  - qty: 1
+    unit: tsp
+    name: lemon juice
+    raw: 1 tsp lemon juice
+  - qty: 0.5
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: ½ tsp Kashmiri chilli powder
+  - qty: 2
+    unit: tbsp
+    name: natural yoghurt
+    raw: 2 tbsp full-fat natural yoghurt
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tbsp finely chopped fresh mint
+  - qty: 1
+    unit: tsp
+    name: granulated sugar
+    raw: 1 tsp granulated sugar
+  - qty: 1
+    unit: tsp
+    name: lemon juice
+    raw: 1 tsp lemon juice
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 1
+    unit: pinch
+    name: cumin
+    raw: Pinch of ground cumin

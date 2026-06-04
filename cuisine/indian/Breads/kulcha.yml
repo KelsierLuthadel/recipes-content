@@ -1,0 +1,68 @@
+prep: 25 minutes (plus 2 hours proving)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - asian
+  - paneer
+  - potato
+  - coriander
+  - butter
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/sauces-pickles/mint-raita
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain white flour
+    raw: 500 g plain white flour
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 1
+    unit: tsp
+    name: granulated sugar
+    raw: 1 tsp granulated sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt
+  - qty: 0.5
+    unit: tsp
+    name: baking powder
+    raw: ½ tsp baking powder
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml warm whole milk
+  - qty: 50
+    unit: ml
+    name: water
+    raw: 50 ml warm water
+  - name: ghee or butter
+    raw: Melted ghee or butter
+  - qty: 1
+    unit: pinch
+    name: nigella seeds
+    raw: A pinch of nigella seeds
+  - qty: 1
+    unit: pinch
+    name: coriander
+    raw: A pinch of fresh coriander
+  - name: "paneer: 200 g paneer"
+    raw: "Paneer: 200 g paneer , 1 green chilli , small handful coriander, ½ tsp ground cumin, ½ tsp salt"
+  - name: "spiced potato: 2 medium potatoes"
+    raw: "Spiced potato: 2 medium potatoes , ½ tsp ground cumin, ½ tsp garam masala, 1 small chopped green chilli, salt to taste"
+  - name: "onion: 1 small onion"
+    raw: "Onion: 1 small onion , 1 tsp nigella seeds, ½ tsp dried mint, ½ tsp salt, pinch of chilli powder"

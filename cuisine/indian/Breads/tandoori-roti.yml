@@ -1,0 +1,35 @@
+prep: 15 minutes (plus 30 minutes resting)
+cook: 8 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - asian
+  - bbq
+  - coriander
+mentions:
+  - cuisine/indian/BIR-Chicken-Vindaloo
+  - cuisine/indian/Breads/rotis
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 300
+    unit: g
+    name: chapati flour or wholewheat plus 50 g plain white flour
+    raw: 300 g chapati flour or wholewheat plus 50 g plain white flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp fine salt
+  - qty: 1
+    unit: tsp
+    name: neutral oil
+    raw: 1 tsp neutral oil
+  - name: about 180 ml lukewarm water
+    raw: About 180 ml lukewarm water
+  - name: ghee
+    raw: Melted ghee
+  - qty: 1
+    unit: pinch
+    name: coriander
+    raw: A pinch of fresh coriander, chopped

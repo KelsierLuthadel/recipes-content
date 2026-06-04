@@ -1,0 +1,65 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+tags:
+  - gluten-free
+  - quick
+  - meals
+  - asian
+  - meat
+  - rice
+  - mushroom
+  - onion
+  - coriander
+  - nuts
+mentions:
+  - cuisine/indian/BIR-Butter-Chicken
+  - cuisine/indian/butter-chicken
+  - cuisine/indian/rice/plain-basmati
+ingredients:
+  - qty: 300
+    unit: g
+    name: basmati rice
+    raw: 300 g basmati rice
+  - qty: 450
+    unit: ml
+    name: hot chicken or vegetable stock
+    raw: 450 ml hot chicken or vegetable stock
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 250
+    unit: g
+    name: button or chestnut mushrooms
+    raw: 250 g button or chestnut mushrooms
+  - qty: 2
+    unit: tbsp
+    name: ghee
+    raw: 2 tbsp ghee
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 4
+    name: cloves
+    raw: 4 whole cloves
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 1
+    unit: pinch
+    name: saffron in 1 tbsp warm milk
+    raw: Pinch of saffron in 1 tbsp warm milk
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: Small handful fresh coriander
