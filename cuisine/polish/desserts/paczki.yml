@@ -15,6 +15,7 @@ mentions:
   - drinks/fruit/fresh-orange-juice
   - tutorials/bread/proving
   - tutorials/pizza/dough
+  - tutorials/american-spirits/grain-alcohol
 ingredients:
   - qty: 500
     unit: g

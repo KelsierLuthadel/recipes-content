@@ -8,7 +8,8 @@ tags:
   - gluten-free
   - quick
   - lemon
-mentions: []
+mentions:
+  - tutorials/american-spirits/whisky
 ingredients:
   - qty: 50
     unit: ml

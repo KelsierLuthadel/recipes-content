@@ -14,7 +14,8 @@ tags:
   - garlic
   - ginger
   - lemon
-mentions: []
+mentions:
+  - tutorials/american-spirits/safety
 ingredients:
   - qty: 1
     unit: kg

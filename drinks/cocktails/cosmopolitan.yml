@@ -9,7 +9,8 @@ tags:
   - quick
   - lemon
   - lime
-mentions: []
+mentions:
+  - tutorials/american-spirits/safety
 ingredients:
   - qty: 45
     unit: ml

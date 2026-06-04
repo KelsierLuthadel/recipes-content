@@ -7,7 +7,8 @@ tags:
   - dairy-free
   - gluten-free
   - lemon
-mentions: []
+mentions:
+  - tutorials/american-spirits/grain-alcohol
 ingredients:
   - qty: 8
     name: to 10 unwaxed lemons

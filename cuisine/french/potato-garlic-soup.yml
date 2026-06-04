@@ -12,7 +12,8 @@ tags:
   - onion
   - garlic
   - potato
-mentions: []
+mentions:
+  - tutorials/american-spirits/safety
 ingredients:
   - qty: 2
     unit: tbsp

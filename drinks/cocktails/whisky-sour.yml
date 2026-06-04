@@ -13,6 +13,7 @@ tags:
 mentions:
   - drinks/classic/lemonade
   - drinks/cocktails/margarita
+  - tutorials/american-spirits/whisky
 ingredients:
   - qty: 60
     unit: ml

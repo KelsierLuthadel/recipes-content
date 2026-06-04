@@ -10,7 +10,8 @@ tags:
   - quick
   - snack
   - chili
-mentions: []
+mentions:
+  - tutorials/american-spirits/safety
 ingredients:
   - qty: 1
     name: portuguese chourico

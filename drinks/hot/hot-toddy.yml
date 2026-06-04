@@ -9,7 +9,8 @@ tags:
   - ginger
   - lemon
   - honey
-mentions: []
+mentions:
+  - tutorials/american-spirits/whisky
 ingredients:
   - qty: 60
     unit: ml

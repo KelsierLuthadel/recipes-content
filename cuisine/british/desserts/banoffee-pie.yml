@@ -11,7 +11,8 @@ tags:
   - cream
   - chocolate
   - complex
-mentions: []
+mentions:
+  - tutorials/american-spirits/safety
 ingredients:
   - qty: 250
     unit: g
