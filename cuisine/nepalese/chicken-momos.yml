@@ -1,0 +1,119 @@
+prep: 1 hour
+cook: 20 minutes
+allergens:
+  - gluten
+  - soy
+  - sesame
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/nepalese/side-dishes/tomato-achaar
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp fine salt
+  - qty: 180
+    unit: ml
+    name: water
+    raw: 180 ml warm water
+  - qty: 500
+    unit: g
+    name: chicken
+    raw: 500 g minced chicken
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: Small handful fresh coriander
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: coriander
+    raw: ½ tsp ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: timur or black pepper
+    raw: ½ tsp ground timur or black pepper
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 1
+    unit: tbsp
+    name: neutral oil
+    raw: 1 tbsp neutral oil
+  - qty: 1
+    unit: tbsp
+    name: soy sauce
+    raw: 1 tbsp soy sauce
+  - qty: 3
+    name: tomatoes
+    raw: 3 large tomatoes
+  - qty: 2
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 2 tbsp toasted sesame seeds
+  - qty: 2
+    name: red chillies
+    raw: 2 dried red chillies
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 1
+    unit: tbsp
+    name: mustard oil
+    raw: 1 tbsp mustard oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tbsp lemon juice
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp turmeric

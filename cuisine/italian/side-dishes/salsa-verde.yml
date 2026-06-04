@@ -1,0 +1,51 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens:
+  - fish
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - garlic
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 large bunch flat-leaf parsley
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tbsp capers
+  - qty: 4
+    name: anchovy fillets
+    raw: 4 anchovy fillets
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tbsp Dijon mustard
+  - qty: 2
+    unit: tbsp
+    name: red wine vinegar
+    raw: 2 tbsp red wine vinegar
+  - qty: 150
+    unit: ml
+    name: extra-virgin olive oil
+    raw: 150 ml good extra-virgin olive oil
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of fine salt
+  - qty: 1
+    unit: pinch
+    name: black pepper
+    raw: Pinch of black pepper

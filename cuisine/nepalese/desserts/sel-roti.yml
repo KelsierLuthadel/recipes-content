@@ -1,0 +1,91 @@
+prep: 20 minutes (plus 4 hours resting the batter)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - rice
+  - butter
+  - complex
+mentions:
+  - cuisine/jamaican/snacks/festival
+  - cuisine/nepalese/aloo-tama
+  - tutorials/bread/hydration
+ingredients:
+  - qty: 400
+    unit: g
+    name: basmati or any long-grain rice
+    raw: 400 g basmati or any long-grain rice
+  - qty: 200
+    unit: g
+    name: granulated sugar
+    raw: 200 g granulated sugar
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 tsp ground cardamom
+  - qty: 0.5
+    unit: tsp
+    name: fennel seeds
+    raw: ½ tsp ground fennel seeds
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 1
+    unit: pinch
+    name: cinnamon
+    raw: A pinch of ground cinnamon
+  - qty: 1
+    name: banana
+    raw: 1 ripe banana
+  - qty: 400
+    unit: g
+    name: rice flour
+    raw: 400 g fine rice flour
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 200
+    unit: g
+    name: granulated sugar
+    raw: 200 g granulated sugar
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 300
+    unit: ml
+    name: milk
+    raw: 300 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 tsp ground cardamom
+  - qty: 0.5
+    unit: tsp
+    name: fennel seeds
+    raw: ½ tsp ground fennel seeds
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 1
+    name: banana
+    raw: 1 ripe banana
+  - qty: 1
+    unit: l
+    name: ghee
+    raw: 1 litre ghee

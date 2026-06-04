@@ -1,0 +1,65 @@
+prep: 20 minutes (plus 12+ hours soaking the saltfish)
+cook: 25 minutes
+allergens:
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - onion
+  - garlic
+  - tomato
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: salt cod
+    raw: 250 g boneless salt cod
+  - name: water for soaking
+    raw: Water for soaking
+  - qty: 1
+    name: ackee
+    raw: 1 large tin ackee
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 0.5
+    name: scotch bonnet pepper
+    raw: ½ scotch bonnet pepper
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme
+  - qty: 2
+    name: tomatoes
+    raw: 2 large tomatoes
+  - qty: 2
+    unit: tbsp
+    name: neutral oil
+    raw: 2 tbsp neutral oil
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp black pepper
+  - qty: 1
+    unit: pinch
+    name: allspice
+    raw: Pinch of allspice

@@ -1,0 +1,53 @@
+prep: 45 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+tags:
+  - vegetarian
+  - dessert
+  - coconut
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: rice flour
+    raw: 400 g fine rice flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp fine salt
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml hot water
+  - qty: 1
+    unit: tbsp
+    name: neutral oil
+    raw: 1 tbsp neutral oil
+  - qty: 200
+    unit: g
+    name: chaku
+    raw: 200 g chaku
+  - qty: 50
+    unit: g
+    name: toasted sesame seeds
+    raw: 50 g toasted sesame seeds
+  - qty: 30
+    unit: g
+    name: desiccated coconut
+    raw: 30 g desiccated coconut
+  - qty: 30
+    unit: g
+    name: khowa - optional but classic
+    raw: 30 g khowa - optional but classic
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 tsp ground cardamom
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt

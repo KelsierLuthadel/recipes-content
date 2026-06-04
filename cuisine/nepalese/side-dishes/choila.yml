@@ -1,0 +1,95 @@
+prep: 20 minutes
+cook: 12 minutes
+allergens:
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - meat
+  - chicken
+  - beef
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: chicken thigh fillets
+    raw: 500 g chicken thigh fillets
+  - qty: 1
+    unit: tbsp
+    name: mustard oil
+    raw: 1 tbsp mustard oil
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: nepali masala
+    raw: ½ tsp Nepali masala
+  - qty: 3
+    unit: tbsp
+    name: mustard oil
+    raw: 3 tbsp mustard oil
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds
+  - qty: 0.5
+    unit: tsp
+    name: fenugreek seeds
+    raw: ½ tsp fenugreek seeds
+  - qty: 3
+    name: red chillies
+    raw: 3 dried red chillies
+  - qty: 1
+    unit: tsp
+    name: timur
+    raw: 1 tsp ground timur
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tbsp fresh lemon juice
+  - qty: 1
+    name: green chilli
+    raw: 1 small green chilli
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    unit: large handful
+    name: coriander
+    raw: Large handful fresh coriander

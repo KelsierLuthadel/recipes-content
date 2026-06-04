@@ -1,0 +1,37 @@
+prep: 20 minutes
+cook: 30 minutes (plus 8-10 hours setting)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - cream
+  - yogurt
+  - complex
+mentions:
+  - cuisine/bengali/desserts/mishti-doi
+ingredients:
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre full-fat whole milk
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream
+  - qty: 80
+    unit: g
+    name: granulated sugar
+    raw: 80 g granulated sugar
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 tsp ground cardamom
+  - name: saffron
+    raw: A few strands of saffron
+  - qty: 2
+    unit: tbsp
+    name: plain live yoghurt
+    raw: 2 tbsp plain live yoghurt

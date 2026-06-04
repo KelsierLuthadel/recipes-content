@@ -1,0 +1,67 @@
+prep: 10 minutes
+cook: 8 minutes
+allergens:
+  - sesame
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - chili
+mentions:
+  - cuisine/nepalese/chicken-momos
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 5
+    name: tomatoes
+    raw: 5 large ripe tomatoes
+  - qty: 3
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 3 tbsp toasted sesame seeds
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 1
+    name: green chilli
+    raw: 1 small green chilli
+  - qty: 3
+    name: red chillies
+    raw: 3 dried red chillies
+  - qty: 3
+    unit: tbsp
+    name: mustard oil
+    raw: 3 tbsp mustard oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tbsp fresh lemon juice
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: timur
+    raw: ½ tsp ground timur
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: Small handful fresh coriander

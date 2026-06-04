@@ -1,0 +1,51 @@
+prep: 10 minutes
+cook: 8 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chili
+mentions:
+  - cuisine/mexican/chilaquiles-verdes
+  - cuisine/mexican/enchilladas
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: tomatillos
+    raw: 500 g fresh tomatillos
+  - qty: 2
+    name: jalapenos
+    raw: 2 jalapeños
+  - qty: 0.5
+    name: white onion
+    raw: ½ small white onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tbsp fresh lime juice
+  - qty: 1
+    unit: tsp
+    name: granulated sugar
+    raw: 1 tsp granulated sugar

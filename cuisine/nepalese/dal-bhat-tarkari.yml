@@ -1,0 +1,142 @@
+prep: 20 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - one-pan
+  - meals
+  - lentils
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - cuisine/indian/rice/plain-basmati
+ingredients:
+  - qty: 200
+    unit: g
+    name: yellow split lentils
+    raw: 200 g yellow split lentils
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: ghee
+    raw: 1 tsp ghee
+  - qty: 1
+    unit: tsp
+    name: neutral oil
+    raw: 1 tsp neutral oil
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds
+  - qty: 0.5
+    unit: tsp
+    name: mustard seeds
+    raw: ½ tsp mustard seeds
+  - qty: 2
+    name: red chillies
+    raw: 2 dried red chillies
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 10
+    name: curry leaves
+    raw: 10 fresh curry leaves
+  - qty: 1
+    unit: pinch
+    name: asafoetida
+    raw: Pinch of asafoetida
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: Small handful fresh coriander
+  - qty: 300
+    unit: g
+    name: basmati rice
+    raw: 300 g basmati rice
+  - qty: 450
+    unit: ml
+    name: water
+    raw: 450 ml water
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 400
+    unit: g
+    name: waxy potatoes
+    raw: 400 g waxy potatoes
+  - qty: 200
+    unit: g
+    name: green beans
+    raw: 200 g green beans
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 15
+    unit: g
+    name: ginger
+    raw: 15 g fresh ginger
+  - qty: 2
+    name: tomatoes
+    raw: 2 medium tomatoes
+  - qty: 2
+    unit: tbsp
+    name: neutral oil
+    raw: 2 tbsp neutral oil
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ tsp ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: nepali masala
+    raw: ½ tsp Nepali masala
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 1
+    name: green chilli
+    raw: 1 small green chilli
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: Small handful coriander
