@@ -16,8 +16,8 @@ tags:
   - honey
   - chili
 mentions:
-  - tutorials/fish/whole-fish
   - tutorials/american-spirits/safety
+  - tutorials/fish/whole-fish
 ingredients:
   - qty: 1
     name: red chilli

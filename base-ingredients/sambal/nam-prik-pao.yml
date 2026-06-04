@@ -17,8 +17,8 @@ tags:
   - coriander
   - chili
 mentions:
-  - tutorials/pizza/sauce
   - tutorials/american-spirits/safety
+  - tutorials/pizza/sauce
 ingredients:
   - qty: 55
     unit: g

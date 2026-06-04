@@ -16,8 +16,8 @@ tags:
   - lemon
   - cheese
 mentions:
-  - tutorials/pizza/cheese
   - tutorials/american-spirits/safety
+  - tutorials/pizza/cheese
 ingredients:
   - qty: 1
     name: egg yolk

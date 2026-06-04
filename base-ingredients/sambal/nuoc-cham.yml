@@ -12,8 +12,8 @@ tags:
   - lime
   - chili
 mentions:
-  - tutorials/pizza/sauce
   - tutorials/american-spirits/safety
+  - tutorials/pizza/sauce
 ingredients:
   - qty: 2.5
     name: red chillies
