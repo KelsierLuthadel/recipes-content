@@ -2,7 +2,7 @@
 
 ![Cuts by Smell and Taste](resources/cuts-by-smell.jpg)
 
-*The sensory side of the cuts. Safety.md tells you the volumes; this page tells you what to smell for. The transition from heads to hearts is the difference between a clean whiskey and a harsh one, and the only reliable way to find it is on the nose.*
+*The sensory side of the cuts. The safety guide tells you the volumes; this page tells you what to smell for. The transition from heads to hearts is the difference between a clean whiskey and a harsh one, and the only reliable way to find it is on the nose.*
 
 **Read first:** [Safety](safety.md)
 

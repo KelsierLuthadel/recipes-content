@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes (toasting pita)
 
 ## Overview
-A torn pita is brushed with olive oil and grilled or fried until golden and crisp. Cucumber, tomato, radish, romaine, spring onion, parsley and mint are roughly chopped into a wide bowl. A dressing of lemon juice, pomegranate molasses, sumac, garlic, olive oil and salt is whisked. The salad is tossed with the dressing just before serving; the pita is scattered on top so it stays crisp.
+Fattoush is the chopped Levantine salad of cucumber, tomato, radish and a heap of herbs dressed with sumac, lemon and pomegranate molasses, scattered with crisp toasted pita shards that you'd swear were the whole reason for the dish. The single rule of fattoush is the pita on top, never folded in: stirred-in pita goes soggy in minutes, scattered on top stays crisp under each fork. Tear a large pita into 3 to 4 cm pieces, brush with olive oil and a pinch of salt and sumac, spread on a baking tray and bake at 200°C for five to seven minutes till deep gold and crackling. Cool on the tray while you chop cucumber, tomatoes, radishes, a romaine heart, spring onions, parsley, mint and (if you can find it at a Levantine grocer) a small handful of purslane, all into a wide bowl. Whisk the dressing in a small bowl: lemon juice, olive oil, pomegranate molasses, sumac, crushed garlic, salt and pepper. Just before serving, pour the dressing over the salad and toss gently, then scatter the pita shards on top with a final pinch of sumac and a few sprigs of mint. Eat within 20 or 30 minutes alongside grilled meats, mezze or a roast chicken, the pita softening just enough at the edges to hold the dressing without losing its bite.
 
 ## Ingredients
 
