@@ -1,0 +1,52 @@
+prep: 15 minutes (almost all of it shaking)
+cook: 0 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - eggs
+  - lemon
+  - lime
+  - cream
+mentions: []
+ingredients:
+  - qty: 50
+    unit: ml
+    name: gin
+    raw: 50 ml gin
+  - qty: 25
+    unit: ml
+    name: lemon juice
+    raw: 25 ml fresh lemon juice
+  - qty: 25
+    unit: ml
+    name: lime juice
+    raw: 25 ml fresh lime juice
+  - qty: 20
+    unit: ml
+    name: simple syrup
+    raw: 20 ml simple syrup
+  - qty: 30
+    unit: ml
+    name: double cream
+    raw: 30 ml double cream
+  - qty: 1
+    name: egg white
+    raw: 1 egg white
+  - qty: 4
+    unit: drop
+    name: orange flower water
+    raw: 4 drops orange flower water
+  - qty: 1
+    unit: dash
+    name: vanilla extract
+    raw: 1 dash vanilla extract
+  - qty: 25
+    unit: ml
+    name: chilled soda water
+    raw: 25 ml chilled soda water
+  - name: ice cubes
+    raw: Ice cubes

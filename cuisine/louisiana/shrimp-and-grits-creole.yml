@@ -1,0 +1,141 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - pork
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - butter
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/louisiana/blackened-redfish
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: stone-ground white or yellow grits
+    raw: 200 g stone-ground white or yellow grits
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt
+  - qty: 75
+    unit: g
+    name: unsalted butter
+    raw: 75 g unsalted butter
+  - qty: 100
+    unit: g
+    name: cheddar
+    raw: 100 g sharp cheddar
+  - name: black pepper
+    raw: A grating of black pepper
+  - qty: 600
+    unit: g
+    name: shrimp
+    raw: 600 g raw shrimp
+  - qty: 3
+    unit: tbsp
+    name: neutral oil
+    raw: 3 tbsp neutral oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 2
+    name: celery sticks
+    raw: 2 celery sticks
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: tomatoes or 4 fresh tomatoes
+    raw: 1 tin chopped tomatoes or 4 fresh tomatoes
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tbsp tomato paste
+  - qty: 200
+    unit: ml
+    name: shellfish stock or chicken stock
+    raw: 200 ml shellfish stock or chicken stock
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 tsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 tsp dried thyme
+  - qty: 0.5
+    unit: tsp
+    name: cayenne pepper
+    raw: ½ tsp cayenne pepper
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ tsp ground white pepper
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp ground black pepper
+  - qty: 1
+    unit: tsp
+    name: creole seasoning
+    raw: 1 tsp Creole seasoning
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tsp
+    name: worcestershire sauce
+    raw: 2 tsp Worcestershire sauce
+  - qty: 2
+    unit: tsp
+    name: louisiana hot sauce
+    raw: 2 tsp Louisiana hot sauce
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tbsp lemon juice
+  - qty: 3
+    name: rashers smoked streaky bacon
+    raw: 3 rashers smoked streaky bacon
+  - qty: 3
+    name: spring onions
+    raw: 3 spring onions
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: Small handful flat-leaf parsley
+  - name: lemon wedges
+    raw: Lemon wedges, to serve

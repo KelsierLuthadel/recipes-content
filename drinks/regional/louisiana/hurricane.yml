@@ -1,0 +1,52 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lemon
+  - lime
+mentions:
+  - cuisine/cajun/jambalaya
+  - drinks/cocktails/rum-punch
+  - drinks/fruit/fresh-orange-juice
+ingredients:
+  - qty: 60
+    unit: ml
+    name: dark rum
+    raw: 60 ml dark rum
+  - qty: 30
+    unit: ml
+    name: light rum
+    raw: 30 ml light rum
+  - qty: 30
+    unit: ml
+    name: lemon juice
+    raw: 30 ml fresh lemon juice
+  - qty: 30
+    unit: ml
+    name: orange juice
+    raw: 30 ml fresh orange juice
+  - qty: 30
+    unit: ml
+    name: passion fruit syrup
+    raw: 30 ml passion fruit syrup
+  - qty: 15
+    unit: ml
+    name: grenadine
+    raw: 15 ml grenadine
+  - qty: 5
+    unit: ml
+    name: lime juice
+    raw: 5 ml fresh lime juice
+  - name: ice
+    raw: Crushed ice
+  - qty: 1
+    name: orange slice
+    raw: 1 orange slice
+  - qty: 1
+    name: maraschino cherry
+    raw: 1 maraschino cherry

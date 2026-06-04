@@ -1,0 +1,125 @@
+prep: 20 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - prawn
+  - garlic
+  - tomato
+  - lemon
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 100
+    unit: g
+    name: mayonnaise
+    raw: 100 g good mayonnaise
+  - qty: 2
+    unit: tbsp
+    name: creole or coarse-grain mustard
+    raw: 2 tbsp creole or coarse-grain mustard
+  - qty: 1
+    unit: tbsp
+    name: dill pickle
+    raw: 1 tbsp dill pickle
+  - qty: 1
+    unit: tsp
+    name: capers
+    raw: 1 tsp capers
+  - qty: 1
+    unit: tsp
+    name: horseradish
+    raw: 1 tsp horseradish
+  - qty: 1
+    name: garlic clove
+    raw: 1 small garlic clove
+  - qty: 1
+    unit: tbsp
+    name: parsley
+    raw: 1 tbsp finely chopped fresh parsley
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 1
+    unit: tsp
+    name: louisiana hot sauce
+    raw: 1 tsp Louisiana hot sauce
+  - qty: 1
+    unit: squeeze
+    name: lemon
+    raw: Squeeze of lemon
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 600
+    unit: g
+    name: shrimp
+    raw: 600 g raw shrimp
+  - qty: 200
+    unit: ml
+    name: buttermilk
+    raw: 200 ml buttermilk
+  - qty: 1
+    unit: tbsp
+    name: louisiana hot sauce
+    raw: 1 tbsp Louisiana hot sauce
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 100
+    unit: g
+    name: yellow cornmeal
+    raw: 100 g fine yellow cornmeal
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 tsp garlic powder
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 tsp onion powder
+  - qty: 0.5
+    unit: tsp
+    name: cayenne
+    raw: ½ tsp cayenne
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp black pepper
+  - name: neutral oil
+    raw: Neutral oil for frying
+  - qty: 1
+    name: long french baguette
+    raw: 1 long French baguette
+  - qty: 1
+    name: head iceberg lettuce
+    raw: 1 small head iceberg lettuce
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 12
+    name: dill pickle chips
+    raw: 12 dill pickle chips
+  - name: lemon wedges
+    raw: Lemon wedges, to serve

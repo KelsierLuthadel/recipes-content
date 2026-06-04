@@ -1,0 +1,97 @@
+prep: 25 minutes (plus 6 hours, preferably overnight, for the olive salad to marinate)
+cook: 0 minutes
+allergens:
+  - dairy
+  - sesame
+  - meat
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - garlic
+  - tomato
+  - carrot
+  - cheese
+  - complex
+mentions:
+  - drinks/classic/iced-tea
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 150
+    unit: g
+    name: pitted green olives
+    raw: 150 g pitted green olives
+  - qty: 100
+    unit: g
+    name: pitted kalamata or other black olives
+    raw: 100 g pitted Kalamata or other black olives
+  - qty: 100
+    unit: g
+    name: giardiniera
+    raw: 100 g giardiniera
+  - qty: 50
+    unit: g
+    name: sun-dried tomatoes
+    raw: 50 g sun-dried tomatoes
+  - qty: 50
+    unit: g
+    name: roasted red pepper
+    raw: 50 g roasted red pepper
+  - qty: 30
+    unit: g
+    name: capers
+    raw: 30 g capers
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tbsp finely chopped fresh parsley
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 tsp dried oregano
+  - qty: 1
+    unit: tsp
+    name: basil
+    raw: 1 tsp dried basil
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp black pepper
+  - qty: 2
+    unit: tbsp
+    name: red wine vinegar
+    raw: 2 tbsp red wine vinegar
+  - qty: 120
+    unit: ml
+    name: extra-virgin olive oil
+    raw: 120 ml extra-virgin olive oil
+  - qty: 1
+    name: round seeded muffuletta loaf
+    raw: 1 round seeded muffuletta loaf
+  - qty: 150
+    unit: g
+    name: capicola
+    raw: 150 g sliced capicola
+  - qty: 150
+    unit: g
+    name: mortadella
+    raw: 150 g sliced mortadella
+  - qty: 150
+    unit: g
+    name: genoa salami
+    raw: 150 g sliced Genoa salami
+  - qty: 200
+    unit: g
+    name: provolone cheese
+    raw: 200 g sliced provolone cheese
+  - qty: 150
+    unit: g
+    name: mozzarella
+    raw: 150 g sliced low-moisture mozzarella

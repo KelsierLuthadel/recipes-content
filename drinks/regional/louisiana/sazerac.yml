@@ -1,0 +1,36 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - lemon
+mentions: []
+ingredients:
+  - qty: 60
+    unit: ml
+    name: rye whiskey
+    raw: 60 ml rye whiskey
+  - qty: 1
+    name: sugar cube
+    raw: 1 sugar cube
+  - qty: 3
+    unit: dash
+    name: peychaud's bitters
+    raw: 3 dashes Peychaud's bitters
+  - qty: 1
+    unit: dash
+    name: angostura bitters
+    raw: 1 dash Angostura bitters
+  - qty: 5
+    unit: ml
+    name: absinthe
+    raw: 5 ml absinthe
+  - qty: 1
+    name: strip of lemon peel
+    raw: 1 large strip of lemon peel
+  - name: ice
+    raw: Ice

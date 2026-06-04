@@ -10,6 +10,7 @@ tags:
 mentions:
   - drinks/cocktails/martini
   - drinks/cocktails/negroni
+  - drinks/regional/louisiana/sazerac
 ingredients:
   - qty: 60
     unit: ml

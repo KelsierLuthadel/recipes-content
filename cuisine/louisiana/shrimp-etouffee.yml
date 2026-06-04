@@ -1,0 +1,126 @@
+prep: 20 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - pork
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - chili
+  - complex
+mentions:
+  - cuisine/american/side-dishes/hush-puppies
+  - cuisine/cajun/crawfish-etouffee
+  - drinks/classic/iced-tea
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 75
+    unit: g
+    name: neutral oil
+    raw: 75 g neutral oil
+  - qty: 75
+    unit: g
+    name: plain flour
+    raw: 75 g plain flour
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 2
+    name: celery sticks
+    raw: 2 celery sticks
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tbsp tomato paste
+  - qty: 600
+    unit: ml
+    name: shellfish stock
+    raw: 600 ml shellfish stock
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 tsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 tsp dried thyme
+  - qty: 0.5
+    unit: tsp
+    name: cayenne pepper
+    raw: ½ tsp cayenne pepper
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ tsp ground white pepper
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp ground black pepper
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tsp
+    name: worcestershire sauce
+    raw: 2 tsp Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: louisiana hot sauce
+    raw: 1 tsp Louisiana hot sauce
+  - qty: 600
+    unit: g
+    name: shrimp
+    raw: 600 g raw shrimp
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: Small handful flat-leaf parsley
+  - name: plain rice
+    raw: Cooked plain rice, to serve
+  - name: lemon wedges
+    raw: Lemon wedges, to serve
+  - name: shells from the 600 g shrimp
+    raw: Shells from the 600 g shrimp
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml cold water

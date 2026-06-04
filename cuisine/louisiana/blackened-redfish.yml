@@ -1,0 +1,68 @@
+prep: 10 minutes
+cook: 6 minutes
+allergens:
+  - dairy
+  - fish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - fish
+  - lemon
+  - butter
+  - chili
+mentions:
+  - cuisine/cajun/blackened-chicken
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tbsp sweet paprika
+  - qty: 2
+    unit: tsp
+    name: hungarian or smoked paprika
+    raw: 2 tsp Hungarian or smoked paprika
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 tsp garlic powder
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 tsp onion powder
+  - qty: 1
+    unit: tsp
+    name: cayenne pepper
+    raw: 1 tsp cayenne pepper
+  - qty: 0.5
+    unit: tsp
+    name: thyme
+    raw: ½ tsp dried thyme
+  - qty: 0.5
+    unit: tsp
+    name: oregano
+    raw: ½ tsp dried oregano
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ tsp ground white pepper
+  - qty: 4
+    name: redfish fillets
+    raw: 4 redfish fillets
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 4
+    name: lemon wedges
+    raw: 4 lemon wedges, to serve
