@@ -10,7 +10,8 @@ tags:
   - quick
   - garlic
   - tomato
-mentions: []
+mentions:
+  - tutorials/pizza/toppings
 ingredients:
   - qty: 1
     unit: kg

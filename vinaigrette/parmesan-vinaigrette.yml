@@ -10,6 +10,7 @@ tags:
   - cheese
 mentions:
   - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
 ingredients:
   - qty: 1
     unit: tsp

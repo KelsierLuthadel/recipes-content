@@ -9,7 +9,8 @@ tags:
   - meat
   - lemon
   - butter
-mentions: []
+mentions:
+  - tutorials/pizza/sauce
 ingredients:
   - qty: 225
     unit: g

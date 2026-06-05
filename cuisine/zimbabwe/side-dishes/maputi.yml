@@ -8,7 +8,8 @@ tags:
   - gluten-free
   - quick
   - sides
-mentions: []
+mentions:
+  - cuisine/zimbabwe/side-dishes/sadza
 ingredients:
   - qty: 200
     unit: g

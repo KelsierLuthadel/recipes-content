@@ -12,7 +12,9 @@ tags:
   - ginger
   - coriander
   - chili
-mentions: []
+mentions:
+  - cuisine/ethiopian/doro-wat
+  - cuisine/ethiopian/misir-wat
 ingredients:
   - qty: 10
     name: red chillies

@@ -11,7 +11,7 @@ mentions:
   - drinks/cocktails/martini
   - drinks/cocktails/negroni
   - drinks/regional/louisiana/sazerac
-  - tutorials/american-spirits/whisky
+  - tutorials/distilling-spirits/whisky
 ingredients:
   - qty: 60
     unit: ml

@@ -11,7 +11,8 @@ tags:
   - quick
   - eggs
   - lemon
-mentions: []
+mentions:
+  - sauces/sauce-savory/aioli
 ingredients:
   - qty: 2
     name: egg yolks

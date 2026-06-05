@@ -6,8 +6,7 @@ allergens:
 tags:
   - gluten-free
   - fish
-mentions:
-  - tutorials/stocks-sauces/stocks
+mentions: []
 ingredients:
   - qty: 1.5
     unit: kg

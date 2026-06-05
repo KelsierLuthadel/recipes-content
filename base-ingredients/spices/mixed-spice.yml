@@ -11,7 +11,9 @@ tags:
   - ginger
   - coriander
   - chili
-mentions: []
+mentions:
+  - cuisine/british/desserts/hot-cross-buns
+  - cuisine/british/desserts/treacle-tart
 ingredients:
   - qty: 1
     unit: tbsp

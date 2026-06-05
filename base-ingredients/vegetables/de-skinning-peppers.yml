@@ -6,7 +6,8 @@ tags:
   - vegan
   - dairy-free
   - gluten-free
-mentions: []
+mentions:
+  - cuisine/french/ratatouille
 ingredients:
   - name: red yellow or orange peppers
     raw: Fresh red, yellow, or orange peppers

@@ -8,7 +8,8 @@ tags:
   - dairy-free
   - quick
   - nuts
-mentions: []
+mentions:
+  - sponge/biscuit-joconde
 ingredients:
   - qty: 100
     unit: g

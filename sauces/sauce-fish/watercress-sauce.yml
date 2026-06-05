@@ -6,7 +6,8 @@ tags:
   - vegetarian
   - gluten-free
   - butter
-mentions: []
+mentions:
+  - tutorials/pizza/sauce
 ingredients:
   - qty: 400
     unit: g

@@ -16,8 +16,9 @@ tags:
   - lemon
   - cheese
 mentions:
-  - tutorials/american-spirits/safety
+  - tutorials/distilling-spirits/safety
   - tutorials/pizza/cheese
+  - vinaigrette/french-vinaigrette
 ingredients:
   - qty: 1
     name: egg yolk

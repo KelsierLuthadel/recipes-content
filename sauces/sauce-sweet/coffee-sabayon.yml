@@ -8,7 +8,9 @@ tags:
   - gluten-free
   - quick
   - eggs
-mentions: []
+mentions:
+  - sauces/sauce-sweet/sabayon
+  - tutorials/pizza/sauce
 ingredients:
   - qty: 1
     unit: tbsp

@@ -12,7 +12,9 @@ tags:
   - ginger
   - chili
   - complex
-mentions: []
+mentions:
+  - sauces/fruit-sauce/peach-chutney
+  - tutorials/pizza/cheese
 ingredients:
   - qty: 60
     unit: g

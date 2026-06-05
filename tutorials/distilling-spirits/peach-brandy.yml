@@ -7,10 +7,10 @@ tags:
 mentions:
   - drinks/cocktails/manhattan
   - drinks/cocktails/old-fashioned
-  - tutorials/american-spirits/aging-small-barrels
-  - tutorials/american-spirits/applejack
-  - tutorials/american-spirits/safety
-  - tutorials/american-spirits/whisky
+  - tutorials/distilling-spirits/aging-small-barrels
+  - tutorials/distilling-spirits/applejack
+  - tutorials/distilling-spirits/safety
+  - tutorials/distilling-spirits/whisky
 ingredients:
   - qty: 6.5
     unit: kg

@@ -10,8 +10,7 @@ tags:
   - make-ahead
   - tomato
   - chili
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 150
     unit: ml

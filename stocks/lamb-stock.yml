@@ -9,8 +9,7 @@ tags:
   - gluten-free
   - meat
   - complex
-mentions:
-  - tutorials/stocks-sauces/stocks
+mentions: []
 ingredients:
   - qty: 800
     unit: g

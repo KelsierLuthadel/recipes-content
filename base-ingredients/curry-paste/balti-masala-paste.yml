@@ -9,8 +9,7 @@ tags:
   - quick
   - pastes
   - curry
-mentions:
-  - base-ingredients/curry-powder/balti-masala
+mentions: []
 ingredients:
   - qty: 200
     unit: g

@@ -8,8 +8,7 @@ tags:
   - vegetarian
   - eggs
   - butter
-mentions:
-  - tutorials/patisserie/petit-fours
+mentions: []
 ingredients:
   - qty: 110
     unit: g

@@ -10,8 +10,7 @@ tags:
   - baking
   - butter
   - chocolate
-mentions:
-  - baking/cremes/creme-au-beurre
+mentions: []
 ingredients:
   - qty: 750
     unit: g

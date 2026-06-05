@@ -12,8 +12,7 @@ tags:
   - onion
   - butter
   - cream
-mentions:
-  - tutorials/stocks-sauces/stocks
+mentions: []
 ingredients:
   - qty: 300
     unit: ml

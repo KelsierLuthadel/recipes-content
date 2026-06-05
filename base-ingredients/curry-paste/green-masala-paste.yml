@@ -16,8 +16,7 @@ tags:
   - ginger
   - coriander
   - curry
-mentions:
-  - base-ingredients/curry-paste/balti-masala-paste
+mentions: []
 ingredients:
   - qty: 6
     name: garlic cloves

@@ -10,7 +10,9 @@ tags:
   - baking
   - eggs
   - butter
-mentions: []
+mentions:
+  - cuisine/french/snacks/gougeres
+  - tutorials/pizza/cheese
 ingredients:
   - qty: 125
     unit: ml

@@ -9,8 +9,7 @@ tags:
   - onion
   - garlic
   - carrot
-mentions:
-  - tutorials/pizza/sauce
+mentions: []
 ingredients:
   - qty: 200
     unit: g

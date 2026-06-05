@@ -15,7 +15,9 @@ tags:
   - lemon
   - coriander
   - chili
-mentions: []
+mentions:
+  - cuisine/yemen/mandi
+  - cuisine/yemen/saltah
 ingredients:
   - qty: 6
     name: long green chillies

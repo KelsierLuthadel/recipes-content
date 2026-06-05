@@ -12,7 +12,8 @@ tags:
   - ginger
   - nuts
   - chili
-mentions: []
+mentions:
+  - cuisine/nigerian/suya
 ingredients:
   - qty: 50
     unit: g

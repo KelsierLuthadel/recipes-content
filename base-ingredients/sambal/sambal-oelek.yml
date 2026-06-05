@@ -10,7 +10,8 @@ tags:
   - quick
   - nuts
   - chili
-mentions: []
+mentions:
+  - tutorials/pizza/sauce
 ingredients:
   - qty: 450
     unit: g
