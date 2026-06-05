@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Mild yellow curry with Indian influences from turmeric and curry powder. Similar to chicken korma but spicier. Use "cracking the coconut milk" method for natural oil, or add oil. Serve with rice.
+Thai yellow chicken curry (gaeng karee gai) is the mildest of the three classic Thai curries, the southern-Muslim cousin to red and green, turmeric-tinted from Indian influences with potato, onion and a delicate yellow curry paste built around turmeric, coriander seed, cumin and a small dose of dried chilli. It sits closer to a chicken korma than a red curry in heat, but with the lemongrass and galangal that mark it as unmistakably Thai. Boil quartered waxy new potatoes for ten minutes till soft, drain and set aside. Heat a wok over medium-high, pour in 200 ml of thick coconut milk and simmer till it splits and the oil rises (the cracking method that gives Thai curries their glossy character). Add the yellow curry paste and fry for thirty seconds, stir in palm sugar and tamarind paste, then add bite-size chicken thigh pieces and fry till mostly cooked. Pour in the rest of the coconut milk with a teaspoon of curry powder and the sliced carrot, simmer five minutes till the sauce thickens, season with fish sauce and taste. Stir the cooked potatoes and halved baby plum tomatoes through at the end so they warm through without breaking apart. Garnish generously with crispy fried garlic (the traditional yellow-curry topping), chopped fresh chilli and coriander, and serve over rice.
 
 ## Ingredients
 ### Vegetables

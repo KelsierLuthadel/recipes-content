@@ -11,7 +11,7 @@
 **Cook Time:** 15-20 minutes
 
 ## Overview
-Spicy, thin jungle curry from Chiang Mai, traditionally made with jungle ingredients and game meat. No coconut milk; features a clear, flavorful broth with chicken and vegetables. Serve with sticky rice.
+Jungle curry (gaeng pa) is the northern Thai curry that shows what Thai food tasted like before coconut palms moved south, a fierce, clear, brothy curry of game meat and foraged vegetables thickened only by its own intensity. The Chiang Mai original used wild boar or venison and whatever the jungle floor offered; this version subs chicken for the meat but keeps the no-coconut-milk discipline that defines the dish. The broth is meant to be thin and bright with green peppercorns popping between your teeth, not creamy or rich. Pan-fry chicken breasts for five minutes a side till just cooked through, slice into bite-sized pieces and set aside. In the same hot pan, stir red curry paste into oil and fry for thirty seconds till aromatic, then pour in chicken stock or water and bring to a rolling simmer. Return the chicken with green beans cut into short lengths, drained bamboo shoots, baby corn and a generous tablespoon or two of fresh green peppercorns; simmer three minutes so the vegetables stay crisp. Season off the heat with fish sauce, finely sliced kaffir lime leaves, lime juice and an optional teaspoon of palm sugar (jungle curry can take a touch of sweetness against the fierce chilli heat), taste and adjust. Garnish with fresh coriander and Thai sweet basil and serve with sticky rice for tearing and dipping into the broth.
 
 ## Ingredients
 ### Protein

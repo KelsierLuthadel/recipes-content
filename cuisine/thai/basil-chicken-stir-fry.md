@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Although there is no rule about how to cut your chicken for this popular Thai stir fry, I like to cut the meat quite small, slightly smaller than bite-size. This is a delicious and easy recipe that can be whipped up in minutes. Serve it with white, steamed jasmine rice.
+Pad krapow gai is the late-night quick dinner of every Thai household and street-food cart, minced chicken stir-fried hot with garlic, bird's-eye chilli and a generous handful of holy basil, ready ten minutes from when the wok hits the heat. The defining note is holy basil (krapow), peppery and faintly clove-like, quite different from the sweet Thai basil used in green curry; if you can't find it, a mix of ordinary basil and a few mint leaves gets close but it isn't quite the same dish. Pound smashed garlic and red spur chillies in a mortar to a coarse paste (or pulse in a small processor) so the oils release without going to mush. Heat oil in a hot wok, soften sliced shallots for a couple of minutes till fragrant, then add the chilli-garlic paste for thirty seconds and watch closely so the garlic doesn't burn. In go the small chicken pieces (slightly smaller than bite-size is right) for four or five minutes of constant stirring till just cooked, then season with light soy, palm sugar, oyster sauce and a splash of dark soy for colour, tasting as you go. Off the heat, throw in the whole handful of holy basil and stir just till it wilts in the residual warmth. Serve over steamed jasmine rice, ideally with a fried egg on top, the yolk soft.
 
 ## Ingredients
 ### Aromatics

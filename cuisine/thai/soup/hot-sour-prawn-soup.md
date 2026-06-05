@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-This classic Thai hot and sour soup features succulent prawns in a fragrant broth infused with lemongrass, galangal, and lime leaves. The perfect balance of spicy heat from chillies and tangy sourness from lime creates a refreshing yet warming dish. Quick to prepare and full of bold flavors.
+This is Thai hot-and-sour prawn soup in its clear, broth-forward form (no coconut milk, unlike tom kha), built around a stock made from the prawn heads and shells themselves and brightened with lemongrass, galangal, kaffir lime, lime juice, fish sauce and chilli. The four Thai notes (hot, sour, salty and faintly sweet) all show in the bowl, and the broth tastes much deeper than the 30-minute cook time suggests because of the prawn-shell stock. Peel and devein the prawns, keep the tails on and reserve every head and shell. Heat oil in a stockpot, drop in the shells and heads and cook for five minutes till they turn bright orange, then add a bruised lemongrass stalk, sliced galangal and two litres of water, bring to the boil and immediately reduce to a gentle simmer for 20 minutes. Strain back into the same pan through a fine sieve, discarding the spent shells. Pound the remaining lemongrass to a paste in a mortar with sliced chilli, then add to the stock with finely shredded lime leaves, fish sauce, spring onions and quartered mushrooms, simmer two minutes. Add the prawns and cook three minutes till tender (don't overcook or they turn rubbery), then off the heat with lime juice and chilli paste to taste. Garnish with fresh coriander leaves and serve immediately in deep bowls.
 
 ## Ingredients
 

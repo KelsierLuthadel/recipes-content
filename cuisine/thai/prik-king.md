@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Prik king paste fries hard in oil until aromatic and the oil splits. Thinly sliced pork (or chicken) joins; sears for 4 minutes. Green beans (snake beans, French beans or fine green beans) go in for 5 minutes; fish sauce, palm sugar and torn kaffir lime leaves finish. Served over jasmine rice with fresh herbs.
+Prik king is the dry Thai curry, all of the perfume of a curry paste with none of the broth, pork or chicken glazed in red paste with snake beans and torn kaffir lime leaves. The whole identity of the dish is the dryness; don't be tempted to add stock or coconut milk, the paste itself does all the work as it fries hard in oil and clings to the meat in a thick coating. Pound the paste from scratch if you can (soaked dried Thai chillies, garlic, shallot, lemongrass, galangal, shrimp paste, kaffir lime leaves, ground coriander and white pepper) for the freshest version, or four tablespoons of a good Maesri or Mae Ploy prik king paste does the job for a weeknight. Heat oil in a wide wok, add the paste and fry hard for four or five minutes till the oil splits red around the edges and the kitchen smells of toasted spice. Toss in thinly sliced pork shoulder for four minutes till just cooked, then green beans cut into 4 cm lengths for another four or five minutes till tender-crisp (snake beans are traditional and worth seeking out at a Thai grocer; French beans or fine green beans both work fine). Season with fish sauce, palm sugar and torn kaffir lime leaves with a final toss to glaze, finish with sliced red chillies if you want more heat. Plate over jasmine rice with Thai basil scattered across and a lime wedge on the side.
 
 ## Ingredients
 

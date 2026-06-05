@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A zesty Thai soup featuring tofu and mushrooms in a spicy, sour broth infused with lemongrass, galangal, and lime. The tom yum paste provides authentic heat and flavor, balanced by fresh herbs.
+Tom som is Thailand's tangy clear soup, a gentler cousin to tom yum that leans into sourness and herbal aroma rather than the fierce chilli heat of its more famous sibling. This vegetarian version uses tofu and mushrooms in place of prawns or chicken, with a tom yum paste base loosened in vegetable stock and finished with lime juice and coriander. Slice galangal into thin discs, bash a lemongrass stalk and chop into four lengths, tear three kaffir lime leaves. Combine vegetable stock, tom yum paste, lime leaves, a finely sliced red chilli and 750 ml of water in a saucepan, cover, bring to the boil and reduce immediately to a gentle simmer for five minutes so the aromatics infuse the broth. Add halved button mushrooms and cubed firm tofu and simmer another five minutes till the mushrooms are tender, then add shredded pak choi for the last minute till just wilted. Off the heat, stir in lime juice and a generous handful of coriander leaves, taste and balance the four notes (sour, salty, hot, herby) till the soup tastes bright and clean. Ladle into deep bowls and garnish with extra coriander; serve as a light main on its own or as a starter alongside something heavier.
 
 ## Ingredients
 

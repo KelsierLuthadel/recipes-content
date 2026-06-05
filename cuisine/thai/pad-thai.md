@@ -9,7 +9,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-This classic Thai dish of noodles is both aromatic and lightly spicy, serving well as either a main course or a starter. Pad Thai combines stir-fried rice noodles with tender chicken, pork, and prawns in a balanced sauce of curry paste, oyster sauce, and fish sauce. Fresh herbs, crushed peanuts, and a squeeze of lime complete this iconic Thai street food favourite.
+This is the mixed prawn-and-pork pad thai, a more abundant version of the street-cart classic with chicken, pork mince and a pair of prawn types (cooked and raw) all bound into the rice noodles with a curry-paste-and-tamarind sauce. Pad thai lives or dies on wok heat, so get everything chopped and to-hand before you light the burner: once the noodles hit the pan, the cook runs for ten minutes straight without pause. Soften dried rice noodles in just-boiled water, drain while they still have some bite (they finish in the wok). Heat groundnut oil hot, stir-fry chopped garlic, ginger, red curry paste, chilli sauce and oyster sauce for thirty seconds till fragrant, then pour in chicken stock and add the chicken strips and pork mince for three minutes till cooked through. In go the cooked king prawns and raw prawns for another three minutes till the raw ones turn pink, then the drained noodles with chopped pepper, sliced chillies, beansprouts, spring onion, Thai basil and coriander all tossed through for a minute or two till everything is glossy. Season at the end with sweet soy and fish sauce to taste plus a teaspoon of palm sugar, tasting as you go so you hit that sweet-sour-salty Thai balance. Transfer to bowls, scatter crushed roasted peanuts and fresh Thai basil across the top, and serve immediately with lime wedges on the side.
 
 ## Ingredients
 

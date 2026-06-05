@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-A refreshing, vibrant Thai salad featuring ribboned cucumbers in a tangy ginger-lime dressing with fresh coriander and chilli heat. Its bright, sour notes cut through rich curries perfectly while remaining light and crisp.
+Thai cucumber salad is the cool, tangy, refreshing side that sits next to a hot Thai curry on the table, ribboned cucumber dressed with ginger, lime, soy and a splash of sesame oil and finished with fresh coriander and chilli heat. The trick is the cut and the timing; speed-peeler ribbons of cucumber absorb dressing better than chunks and the salad must be assembled at the last minute or the cucumber wilts and the dressing turns watery in the bowl. Peel and grate fresh ginger directly onto a serving platter, add soy sauce, sesame oil and a squeeze of lime, then check the seasoning. With a speed-peeler, peel the cucumber into long ribbons over the platter, stopping when you reach the watery seed core and discarding it. Finely chop the coriander stalks (don't toss them; they have a delicate flavour worth keeping) and scatter over the cucumber, then add the chopped fresh red chilli on top. Bring the platter to the table but don't toss until just before eating; the salad keeps its bite that way and the dressing pools at the bottom rather than diluting. Sprinkle sesame seeds across just before serving and eat alongside any rich Thai curry to balance the heat and richness with bright, tangy notes.
 
 ## Ingredients
 ### Base

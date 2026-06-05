@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-A wok is heated hot; garlic flashes briefly in oil; vegetables go in by cook time, firmest first (broccoli, carrot, baby corn), then softer (mushroom, snow peas), and the leafy ones at the end (water spinach, bok choy). A small amount of vegetable stock and soy steams them through; oyster sauce (vegetarian) and sugar balance. Sesame oil to finish.
+Pad pak ruam is the Thai mixed-vegetable stir-fry, a hot wok of garlic and soy with whatever's crisp and fresh in the fridge that morning, vegetables tender but still snappy and the sauce barely coating. The whole dish runs on heat and timing, so prep everything before you light the wok: once you start, you can't stop to chop. Lay out garlic, vegetables grouped by cook time (firmest first: broccoli, carrot, baby corn; then mushrooms and snow peas; then leafy bok choy and beansprouts last), and the sauce mix premixed in a small bowl (vegetarian oyster sauce, light soy, Shaoxing wine, sugar, white pepper). Heat the wok till it just smokes, swirl in oil, flash the garlic for 15 seconds without burning it, then in go the firm vegetables for two minutes with a splash of stock under a quick cover to steam them through. Add mushrooms and snow peas for another minute, then the pak choi and beansprouts that wilt in 30 seconds, pour the sauce mix around the edge so it hits hot metal and toss for a minute till everything is glossy. Off the heat with a drizzle of toasted sesame oil and a final toss. Serve immediately over hot jasmine rice; this isn't a dish that reheats well, the textures soften too far.
 
 ## Ingredients
 

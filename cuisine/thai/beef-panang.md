@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A thick, sweet Panang curry with peanuts, served over jasmine rice. Similar to red curry but sweeter and thicker; add vegetables for extra nutrition or keep traditional.
+Beef panang is the thicker, sweeter, peanut-tinged cousin to red curry, beef simmered slow in a rust-coloured panang paste with coconut milk and finished with finely julienned kaffir lime leaves and crushed peanuts. The defining note is the paste, deeply roasted dried red chillies pounded with lemongrass, galangal, coriander root and a heavy hand of peanuts; if buying ready-made, a Thai-brand jar (Maesri, Mae Ploy) is solid. Slice rib-eye thin against the grain and sear it hard in a wok for a couple of minutes till browned. Add the curry paste with a tablespoon of palm sugar and fry till the oil splits red, then pour in thick coconut milk and simmer five minutes till it thickens to a glossy clinging sauce. Toss in vegetables if you like (baby corn, courgette, mushrooms work; traditionalists skip the vegetables altogether). Finish with finely shredded lime leaves and fish sauce to taste, then taste again for the sweet-salty balance that defines panang. Serve over hot jasmine rice with a scatter of crushed peanuts and extra lime leaf on top.
 
 ## Ingredients
 ### Fat

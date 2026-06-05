@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Spice-heavy paste for massaman curries, with Muslim roots. More spices than other curries; requires pounding for smooth texture.
+Massaman curry paste is the spice-heaviest of the Thai pastes, the southern Muslim-Thai legacy showing through in cinnamon, cardamom, cloves and nutmeg alongside the usual lemongrass, galangal and chilli. The depth comes from dry-toasting the whole spices before grinding, so don't skip that step even though it adds 10 minutes; raw spice paste tastes flat in comparison. Toast coriander seeds, cumin seeds, cloves, black peppercorns, cardamom seeds and a piece of cinnamon stick in a dry pan over medium-high heat till fragrant but not smoking (a couple of minutes, watching carefully), then grind to a fine powder in a mortar with a whole nutmeg. Add soaked-and-chopped dried bird's-eye chillies and pound to a paste, then in go smashed garlic, sliced shallot, sliced lemongrass and galangal, lime zest and lime leaves, all pounded for 40 to 60 minutes till smooth and buttery (a small food processor with patience and a splash of water gets you most of the way, but the mortar gives the proper texture). Stir in a teaspoon of shrimp paste and pound till incorporated. Taste and adjust. Stores 2 weeks in the fridge in an airtight jar, or freezes 2 months in small portions; use in beef massaman or anywhere you want southern Thai-Muslim warmth.
 
 ## Ingredients
 ### Whole spices

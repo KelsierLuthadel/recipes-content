@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Spicy green curry with fresh bird's eye chillies. Use homemade paste for best flavor; adjust spice level. Creamy coconut milk base with chicken and vegetables.
+Thai green chicken curry (gaeng keow wan gai) is the fiercer cousin to red curry, the green colour coming from fresh bird's-eye chillies pounded into the paste with lemongrass, galangal, kaffir lime, coriander root and a generous handful of fresh coriander. Green curry is hotter than red despite the milder-looking colour, because fresh green chillies bring more heat than the dried red ones that go into red curry paste. Start with a wide hot pan and a tablespoon of coconut oil, fry a batch of green curry paste (homemade is best, but a good Thai-brand jar like Maesri is solid) for thirty seconds till the kitchen fills with the smell of toasted lemongrass. Add bite-sized chicken thigh or breast pieces and toss in the paste for a couple of minutes, then pour in Thai chicken stock and thick coconut milk and simmer ten minutes till the chicken is cooked through and the sauce has thickened. Stir in the vegetables (baby corn, bamboo shoots, Thai aubergine cubed, broccoli florets, sliced lotus root if you can find it) and cook to your preferred bite, then season with palm sugar and fish sauce, finishing with a handful of Thai sweet basil and finely julienned kaffir lime leaves. Taste and balance; green curry should be hot, sweet, salty and herb-bright all at once. Garnish with sliced red spur chillies and serve over hot jasmine rice.
 
 ## Ingredients
 ### Fat

@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Rich, slow-cooked beef curry with Persian influences, featuring cinnamon, cardamom, and cloves. Tender beef and potatoes in coconut milk sauce; no vegetables traditionally, but can add. Serve with rice or enjoy as is.
+Massaman is the southern Thai curry that travelled from Persia by way of the Muslim-Thai communities of the deep south, slow-simmered beef in a coconut sauce perfumed with cinnamon, cardamom, cloves and roasted peanuts. The Persian roots show in the whole-spice warmth that other Thai curries don't have, and the dish takes its time: two hours of gentle simmering for the beef alone is non-negotiable. Place stewing beef in a saucepan with cold water and simmer for an hour and a half to two hours, topping up the water as needed, until a chunk falls apart easily under a spoon; add quartered potatoes for the last 20 minutes till fork-tender. In a wide pan, heat oil and soften red onion with a handful of roasted peanuts for three minutes, then stir in the massaman curry paste till deeply aromatic. Pour in thick coconut milk with a tablespoon of palm sugar and a teaspoon of tamarind paste, then return the beef and potatoes with a cup of the beef cooking liquid and three tablespoons of fish sauce. Simmer ten minutes till the sauce thickens to a clinging gloss, tasting and balancing the sweet-sour-salty notes that mark massaman from the brighter green and red curries. Garnish with Thai holy basil and serve over jasmine rice, or just on its own with sticky rice for tearing and dipping.
 
 ## Ingredients
 ### Protein
