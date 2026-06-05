@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Vegetables are diced into 1 cm cubes, slightly larger than Israeli salad. Olive oil, lemon and a generous shake of sumac bring it together. Eats at room temperature; doesn't keep, make right before serving.
+Çoban salatası is the shepherd's salad, the small bowl of finely diced tomato, cucumber, onion and pepper that turns up alongside almost every Turkish meal, dressed simply with olive oil, lemon and the distinctive purple-red shake of sumac that marks it as Turkish rather than Greek or Lebanese. The cut is slightly larger than an Israeli chopped salad (1 cm cubes), the herb is flat-leaf parsley, and the only essential seasoning is sumac; without it you have a tomato salad, with it you have çoban. Deseed the tomatoes and cucumber so the dressing doesn't dilute, dice into matching 1 cm cubes, then combine with finely diced red onion, a long green Turkish sivri biber (or a pale green Romano pepper if you can't find them) and chopped flat-leaf parsley in a wide bowl. Drizzle with extra-virgin olive oil and fresh lemon juice, sprinkle with sumac, salt and black pepper, toss gently. Add crumbled feta and a small handful of kalamata olives if you want a more substantial version (some Turkish home cooks include them, others insist on the unadorned vegetable original). Scatter extra sumac across the top for colour and serve at room temperature alongside grilled meats, kebabs, pide or any Turkish main; don't make it more than an hour ahead, the cucumbers and tomatoes weep and the salad goes watery within an hour of dressing.
 
 ## Ingredients
 

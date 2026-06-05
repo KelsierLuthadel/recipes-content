@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-This dish works best with raw beef that has been sliced paper thin, as it cooks in seconds when placed in the hot broth.
+Phở bò is Vietnam's defining noodle soup, a slow-simmered beef broth scented with star anise, cinnamon, charred onion and ginger, ladled over flat rice noodles with paper-thin slices of raw beef that poach in the hot broth at the table. The broth carries the whole dish, so the spices must toast properly and the beef must be sliced as thin as you can manage (partial-freezing the fillet makes this much easier; if it starts to thaw mid-slice, return it to the freezer for 15 minutes). Soak rice noodles in boiling water for 15 to 20 minutes till just tender, drain. Build the broth by combining beef stock with a single star anise, sliced fresh ginger, a couple of pig's trotters for body, half an onion studded with cloves, bashed lemongrass, crushed garlic and white pepper. Bring to the boil and simmer gently for 30 minutes so the aromatics infuse, then strain through a fine sieve into a clean pot and stir in the fish sauce off the heat. Divide the soaked noodles between deep bowls, lay the paper-thin slices of raw beef across the top with beansprouts, sliced spring onions, chopped coriander, mint and half the chillies. Bring the broth to a rolling boil and ladle straight over the beef so the meat cooks instantly in the heat, no further cooking needed. Serve with extra chillies, mint, coriander, lime quarters and a small jug of fish sauce on a side platter for each diner to season their own bowl.
 
 ## Ingredients
 ### Noodles
