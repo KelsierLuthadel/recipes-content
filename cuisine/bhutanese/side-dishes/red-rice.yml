@@ -1,0 +1,30 @@
+prep: 5 minutes (plus 30 minutes rinsing and resting)
+cook: 35 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+  - rice
+mentions:
+  - cuisine/bhutanese/ema-datshi
+  - cuisine/bhutanese/kewa-datshi
+  - cuisine/bhutanese/shakam-paa
+  - cuisine/chinese/fried-rice
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: bhutanese red rice
+    raw: 400 g Bhutanese red rice
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml cold water
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt

@@ -1,0 +1,96 @@
+prep: 25 minutes (plus overnight tea-soaking + 1 hour proving)
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - complex
+mentions:
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 200
+    unit: g
+    name: sultanas
+    raw: 200 g sultanas
+  - qty: 200
+    unit: g
+    name: raisins
+    raw: 200 g raisins
+  - qty: 100
+    unit: g
+    name: currants
+    raw: 100 g currants
+  - qty: 50
+    unit: g
+    name: mixed candied peel
+    raw: 50 g mixed candied peel
+  - qty: 300
+    unit: ml
+    name: black tea
+    raw: 300 ml strong hot black tea
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 80
+    unit: g
+    name: light brown sugar
+    raw: 80 g light brown sugar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 2
+    unit: tsp
+    name: mixed spice
+    raw: 2 teaspoons ground mixed spice
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml warm milk
+  - name: clean coin wrapped in baking parchment
+    raw: A clean coin wrapped in baking parchment
+  - name: ring wrapped in baking parchment
+    raw: A small ring wrapped in baking parchment
+  - name: pea
+    raw: A small dried pea
+  - name: stick
+    raw: A small stick
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar

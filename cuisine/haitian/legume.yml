@@ -1,0 +1,98 @@
+prep: 30 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - rice
+  - onion
+  - garlic
+  - spinach
+  - carrot
+  - lime
+  - chili
+  - complex
+mentions:
+  - cuisine/haitian/side-dishes/diri-kole
+  - drinks/regional/haiti/cremas
+ingredients:
+  - qty: 400
+    unit: g
+    name: green cabbage
+    raw: 400 g green cabbage
+  - qty: 200
+    unit: g
+    name: spinach or watercress
+    raw: 200 g spinach or watercress
+  - qty: 1
+    name: aubergine
+    raw: 1 medium aubergine
+  - qty: 1
+    name: chayote or 2 small courgettes
+    raw: 1 chayote or 2 small courgettes
+  - qty: 2
+    name: carrots
+    raw: 2 medium carrots
+  - qty: 1
+    name: turnip
+    raw: 1 small turnip
+  - qty: 200
+    unit: g
+    name: pumpkin or butternut squash
+    raw: 200 g pumpkin or butternut squash
+  - qty: 3
+    unit: tbsp
+    name: epis
+    raw: 3 tablespoons epis
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 500
+    unit: g
+    name: beef shin or stewing beef
+    raw: 500 g beef shin or stewing beef
+  - qty: 1
+    name: scotch bonnet chilli
+    raw: 1 whole Scotch bonnet chilli
+  - qty: 1
+    unit: l
+    name: beef stock
+    raw: 1 litre beef stock
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: sprig
+    name: thyme
+    raw: 1 sprig fresh thyme
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - name: boiled white rice or diri kole ak pwa
+    raw: Boiled white rice or diri kole ak pwa
+  - name: pikliz
+    raw: Pikliz

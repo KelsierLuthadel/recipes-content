@@ -141,7 +141,7 @@ Whisked in an aluminium bowl. Use stainless steel, glass or ceramic.
 ## Where Next
 - [Eggs course / Custards](../eggs/custards.md): the cooked-yolk technique is the foundation of hollandaise.
 - [Bechamel](bechamel.md): the simplest mother sauce.
-- [Hollandaise recipe](../../sauces/sauce-fish/hollandaise-sauce.md): canonical recipe.
+- [Hollandaise recipe](../../sauces/sauce-savory/hollandaise-sauce.md): canonical recipe.
 - [Stocks-Sauces Course landing](stocks-sauces.md): back to the main course.
 
 ## Storage

@@ -1,0 +1,65 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - butter
+  - chili
+mentions:
+  - cuisine/ethiopian/side-dishes/injera
+  - cuisine/ethiopian/tibs
+  - cuisine/lebanese/kibbeh
+  - cuisine/middle-east/kibbeh
+  - cuisine/ugandan/side-dishes/sukuma-wiki
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 600
+    unit: g
+    name: collard greens
+    raw: 600 g collard greens
+  - qty: 60
+    unit: g
+    name: niter kibbeh
+    raw: 60 g niter kibbeh
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon fresh ginger
+  - qty: 1
+    name: jalapeno or green chilli
+    raw: 1 fresh jalapeño or green chilli
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml water
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon

@@ -1,0 +1,73 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - shellfish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - rice
+  - mushroom
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - butter
+  - cheese
+  - nuts
+  - chili
+mentions:
+  - cuisine/bhutanese/ema-datshi
+  - cuisine/bhutanese/jaju
+  - cuisine/bhutanese/kewa-datshi
+  - cuisine/bhutanese/shakam-paa
+  - cuisine/bhutanese/side-dishes/ezay
+  - drinks/regional/bhutan/suja
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: mushrooms
+    raw: 600 g fresh mushrooms
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 5
+    name: green chillies
+    raw: 4-6 fresh green chillies
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml water
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 200
+    unit: g
+    name: feta cheese
+    raw: 200 g feta cheese
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander
+  - name: salt and black pepper
+    raw: Salt and black pepper to taste
+  - name: bhutanese red rice
+    raw: Bhutanese red rice

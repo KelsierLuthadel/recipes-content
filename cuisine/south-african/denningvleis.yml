@@ -1,0 +1,100 @@
+prep: 25 minutes
+cook: 2 hours
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - coriander
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: lamb shoulder
+    raw: 1.2 kg lamb shoulder
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 3
+    name: onions
+    raw: 3 large onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 2
+    unit: tsp
+    name: allspice berries
+    raw: 2 teaspoons whole allspice berries
+  - qty: 6
+    name: cloves
+    raw: 6 whole cloves
+  - qty: 6
+    name: bay leaves
+    raw: 6 bay leaves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 small cinnamon stick
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 3
+    unit: tbsp
+    name: tamarind paste
+    raw: 3 tablespoons tamarind paste
+  - qty: 4
+    unit: tbsp
+    name: soft brown sugar
+    raw: 4 tablespoons soft brown sugar
+  - qty: 4
+    unit: tbsp
+    name: malt vinegar
+    raw: 4 tablespoons malt vinegar
+  - qty: 500
+    unit: ml
+    name: beef stock
+    raw: 500 ml beef stock
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons cold water
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - name: salt and pepper
+    raw: Salt and pepper
+  - name: yellow rice
+    raw: Yellow rice
+  - name: "sambals: chopped tomato-and-onion relish"
+    raw: "Sambals: chopped tomato-and-onion relish"
+  - name: bowl of chopped fresh coriander
+    raw: A bowl of chopped fresh coriander

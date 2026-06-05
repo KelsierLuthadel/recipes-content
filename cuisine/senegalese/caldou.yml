@@ -1,0 +1,96 @@
+prep: 20 minutes
+cook: 30 minutes
+allergens:
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lime
+  - chili
+  - complex
+mentions:
+  - tutorials/fish/whole-fish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: white fish fillets
+    raw: 4 thick white fish fillets
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 3
+    name: tomatoes
+    raw: 3 large tomatoes
+  - qty: 1
+    name: scotch bonnet chilli
+    raw: 1 whole Scotch bonnet chilli
+  - qty: 4
+    unit: tbsp
+    name: lime juice
+    raw: 4 tablespoons fresh lime juice
+  - qty: 700
+    unit: ml
+    name: fish stock
+    raw: 700 ml fish stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 1
+    unit: sprig
+    name: thyme
+    raw: 1 sprig fresh thyme
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: netetou
+    raw: 1 tablespoon nététou
+  - qty: 2
+    unit: tbsp
+    name: lime juice
+    raw: 2 tablespoons fresh lime juice
+  - qty: 0.5
+    name: green chilli
+    raw: ½ green chilli
+  - qty: 4
+    name: boiled white rice
+    raw: 4 portions of boiled white rice
+  - qty: 1
+    name: lime
+    raw: 1 lime

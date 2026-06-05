@@ -1,0 +1,73 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - coconut
+  - lemon
+  - honey
+  - complex
+mentions: []
+ingredients:
+  - qty: 4
+    name: bananas
+    raw: 4 large very ripe bananas
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: baking powder
+    raw: 1 ½ teaspoons baking powder
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: Pinch of fine sea salt
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 50
+    unit: ml
+    name: milk
+    raw: 50 ml whole milk
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - qty: 30
+    unit: g
+    name: sultanas or chopped dates
+    raw: 30 g sultanas or chopped dates
+  - qty: 2
+    unit: tbsp
+    name: desiccated coconut
+    raw: 2 tablespoons desiccated coconut
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - name: caster sugar for dusting
+    raw: Caster sugar for dusting
+  - name: cinnamon for dusting
+    raw: Ground cinnamon for dusting
+  - name: honey
+    raw: Honey for drizzling

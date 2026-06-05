@@ -1,0 +1,88 @@
+prep: 25 minutes
+cook: 50 minutes
+allergens:
+  - dairy
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - meat
+  - fish
+  - beef
+  - pork
+  - onion
+  - garlic
+  - coconut
+  - spinach
+  - butter
+  - chili
+  - complex
+mentions:
+  - cuisine/jamaican/callaloo
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: dasheen leaves
+    raw: 500 g fresh dasheen leaves
+  - qty: 200
+    unit: g
+    name: okra
+    raw: 200 g fresh okra
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: thyme
+    raw: 1 large bunch fresh thyme
+  - qty: 1
+    name: chive or scallion
+    raw: 1 small bunch fresh chive or scallion
+  - qty: 1
+    name: scotch bonnet pepper
+    raw: 1 small Scotch bonnet pepper
+  - qty: 1
+    name: green seasoning bouquet
+    raw: 1 large green seasoning bouquet
+  - qty: 200
+    unit: g
+    name: salt pork or salt beef ; or
+    raw: 200 g salt pork or salt beef ; OR
+  - qty: 1
+    name: crab ; or
+    raw: 1 small whole crab ; OR
+  - qty: 300
+    unit: g
+    name: smoked turkey wings
+    raw: 300 g smoked turkey wings
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 400
+    unit: ml
+    name: chicken stock
+    raw: 400 ml chicken stock
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter

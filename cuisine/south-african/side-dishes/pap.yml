@@ -1,0 +1,32 @@
+prep: 5 minutes
+cook: 30 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+mentions:
+  - cuisine/south-african/bobotie
+  - cuisine/south-african/boerewors
+  - cuisine/south-african/chakalaka
+  - cuisine/south-african/denningvleis
+  - cuisine/ugandan/side-dishes/posho
+  - cuisine/zimbabwe/side-dishes/sadza
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: white maize meal
+    raw: 500 g white maize meal
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres water
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt

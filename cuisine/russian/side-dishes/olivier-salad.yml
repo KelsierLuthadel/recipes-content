@@ -1,0 +1,73 @@
+prep: 30 minutes (plus 1 hour chilling)
+cook: 25 minutes
+allergens:
+  - eggs
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - chicken
+  - pork
+  - eggs
+  - onion
+  - potato
+  - carrot
+  - complex
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: potatoes
+    raw: 400 g potatoes
+  - qty: 250
+    unit: g
+    name: carrots
+    raw: 250 g carrots
+  - qty: 200
+    unit: g
+    name: chicken breast
+    raw: 200 g cooked chicken breast
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 200
+    unit: g
+    name: dill pickles
+    raw: 200 g good-quality dill pickles
+  - qty: 200
+    unit: g
+    name: peas
+    raw: 200 g frozen peas
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 225
+    unit: g
+    name: mayonnaise
+    raw: 200-250 g good-quality mayonnaise
+  - qty: 2
+    unit: tsp
+    name: dijon mustard
+    raw: 2 teaspoons Dijon mustard
+  - qty: 2
+    unit: tbsp
+    name: pickle brine
+    raw: 2 tablespoons pickle brine
+  - qty: 1
+    name: dill
+    raw: 1 large bunch fresh dill
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper

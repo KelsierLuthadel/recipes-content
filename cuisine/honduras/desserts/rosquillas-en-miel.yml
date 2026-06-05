@@ -1,0 +1,94 @@
+prep: 40 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - cheese
+  - honey
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 300
+    unit: g
+    name: masa harina
+    raw: 300 g masa harina
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 150
+    unit: g
+    name: unsalted butter
+    raw: 150 g unsalted butter
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 150
+    unit: g
+    name: queso seco or aged feta
+    raw: 150 g queso seco or aged feta
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 2
+    unit: tbsp
+    name: milk
+    raw: 2 tablespoons whole milk
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: Pinch of fine sea salt
+  - qty: 300
+    unit: g
+    name: pure honey
+    raw: 300 g pure honey
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 whole cloves
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice
+  - name: cinnamon for dusting
+    raw: Ground cinnamon for dusting
+  - name: toasted chopped almonds
+    raw: Toasted chopped almonds
+  - name: lemon zest
+    raw: Grated lemon zest

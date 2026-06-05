@@ -1,0 +1,60 @@
+prep: 35 minutes (plus 30 minutes chilling)
+cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 80
+    unit: g
+    name: icing sugar
+    raw: 80 g icing sugar
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 200
+    unit: g
+    name: cold unsalted butter
+    raw: 200 g cold unsalted butter
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 2.5
+    unit: tbsp
+    name: water
+    raw: 2-3 tablespoons cold water
+  - qty: 200
+    unit: g
+    name: raspberry jam
+    raw: 200 g good raspberry jam
+  - qty: 250
+    unit: g
+    name: icing sugar
+    raw: 250 g icing sugar
+  - qty: 3.5
+    unit: tbsp
+    name: just-warm water
+    raw: 3-4 tablespoons just-warm water
+  - name: red or pink food colouring
+    raw: A few drops of red or pink food colouring
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract

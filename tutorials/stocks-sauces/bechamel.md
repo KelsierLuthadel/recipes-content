@@ -119,5 +119,5 @@ Reheated too aggressively. Bechamel separates if boiled hard. Reheat over low-me
 ## Where Next
 - [Veloute](veloute.md): the same roux technique, but with stock instead of milk.
 - [Espagnole](espagnole.md): the brown roux version, with brown stock.
-- [Bechamel recipe](../../sauces/sauce-savory/bechamel.md): canonical recipe with exact quantities.
+- [Bechamel recipe](../../sauces/sauce-savory/bechamel-sauce.md): canonical recipe with exact quantities.
 - [Stocks-Sauces Course landing](stocks-sauces.md): back to the main course.

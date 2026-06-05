@@ -1,0 +1,95 @@
+prep: 25 minutes
+cook: 15 minutes (plus 30 minutes resting)
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - ginger
+  - carrot
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/chinese/fried-rice
+  - cuisine/indian/biryani
+ingredients:
+  - qty: 200
+    unit: g
+    name: white cabbage
+    raw: 200 g white cabbage
+  - qty: 2
+    name: carrots
+    raw: 2 medium carrots
+  - qty: 150
+    unit: g
+    name: french beans
+    raw: 150 g French beans
+  - qty: 200
+    unit: g
+    name: cauliflower
+    raw: 200 g cauliflower
+  - qty: 1
+    name: white onion
+    raw: 1 medium white onion
+  - qty: 4
+    name: green chillies
+    raw: 4 fresh green chillies
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 1
+    unit: tbsp
+    name: black mustard seeds
+    raw: 1 tablespoon black mustard seeds
+  - qty: 1
+    unit: tbsp
+    name: yellow mustard seeds
+    raw: 1 tablespoon yellow mustard seeds
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 1
+    unit: tbsp
+    name: turmeric
+    raw: 1 tablespoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: fenugreek
+    raw: ½ teaspoon ground fenugreek
+  - qty: 200
+    unit: ml
+    name: white vinegar
+    raw: 200 ml white vinegar
+  - qty: 3
+    unit: tbsp
+    name: caster sugar
+    raw: 3 tablespoons caster sugar
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 50
+    unit: ml
+    name: water
+    raw: 50 ml water

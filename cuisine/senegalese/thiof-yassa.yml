@@ -1,0 +1,89 @@
+prep: 25 minutes (plus 2-4 hours marinating)
+cook: 35 minutes
+allergens:
+  - gluten
+  - fish
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - rice
+  - onion
+  - garlic
+  - lime
+  - chili
+  - complex
+mentions:
+  - cuisine/senegalese/side-dishes/thiere
+  - tutorials/fish/whole-fish
+  - tutorials/pizza/sauce
+  - tutorials/rice/boiled-rice
+ingredients:
+  - qty: 4
+    name: white fish or 4 thick white fish fillets
+    raw: 4 whole white fish or 4 thick white fish fillets
+  - qty: 5
+    unit: tbsp
+    name: lime juice
+    raw: 5 tablespoons fresh lime juice
+  - qty: 3
+    unit: tbsp
+    name: dijon mustard
+    raw: 3 tablespoons Dijon mustard
+  - qty: 4
+    name: onions
+    raw: 4 large onions
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 1
+    name: scotch bonnet chilli
+    raw: 1 fresh Scotch bonnet chilli
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon dried thyme
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 3
+    unit: tbsp
+    name: additional dijon mustard
+    raw: 3 tablespoons additional Dijon mustard
+  - qty: 250
+    unit: ml
+    name: chicken stock or fish stock
+    raw: 250 ml chicken stock or fish stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons fresh parsley
+  - qty: 4
+    name: plain boiled rice
+    raw: 4 portions of plain boiled rice

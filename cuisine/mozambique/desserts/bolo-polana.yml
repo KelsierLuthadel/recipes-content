@@ -1,0 +1,84 @@
+prep: 35 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - potato
+  - butter
+  - nuts
+  - complex
+mentions:
+  - cuisine/american/desserts/sweet-potato-pie
+  - drinks/fruit/fresh-orange-juice
+ingredients:
+  - qty: 400
+    unit: g
+    name: sweet potato
+    raw: 400 g sweet potato
+  - qty: 300
+    unit: g
+    name: roasted unsalted cashews
+    raw: 300 g roasted unsalted cashews
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 6
+    name: eggs
+    raw: 6 large eggs
+  - name: zest of 1 orange
+    raw: Zest of 1 orange
+  - qty: 2
+    unit: tsp
+    name: vanilla extract
+    raw: 2 teaspoons vanilla extract
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 0.25
+    unit: tsp
+    name: cardamom
+    raw: ¼ teaspoon ground cardamom
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 3
+    unit: tbsp
+    name: orange juice
+    raw: 3 tablespoons fresh orange juice
+  - qty: 50
+    unit: g
+    name: plain flour
+    raw: 50 g plain flour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 2
+    unit: tbsp
+    name: icing sugar
+    raw: 2 tablespoons icing sugar
+  - qty: 30
+    unit: g
+    name: toasted whole cashews
+    raw: 30 g toasted whole cashews
+  - qty: 1
+    unit: tbsp
+    name: orange marmalade
+    raw: 1 tablespoon orange marmalade

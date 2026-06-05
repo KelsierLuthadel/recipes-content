@@ -1,0 +1,108 @@
+prep: 25 minutes
+cook: 15 minutes
+allergens:
+  - soy
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - fish
+  - rice
+  - mushroom
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - base-ingredients/sambal/nam-prik-pao
+  - cuisine/cambodian/amok-trey
+  - cuisine/cambodian/bai-sach-chrouk
+  - cuisine/thai/side-dishes/nam-prik-pao
+  - drinks/regional/china/jasmine-tea
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: lemongrass
+    raw: 2 stalks lemongrass
+  - qty: 1
+    name: galangal
+    raw: 1 thumb fresh galangal
+  - qty: 1
+    name: turmeric
+    raw: 1 thumb fresh turmeric
+  - qty: 4
+    name: kaffir lime leaves
+    raw: 4 fresh kaffir lime leaves
+  - qty: 4
+    name: shallots
+    raw: 4 shallots
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 3
+    name: red chillies
+    raw: 3 dried red chillies
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 12
+    name: long beans
+    raw: 12 long beans
+  - qty: 2
+    name: thai eggplants
+    raw: 2 small Thai eggplants
+  - qty: 200
+    unit: g
+    name: shiitake mushrooms
+    raw: 200 g shiitake mushrooms
+  - qty: 200
+    unit: g
+    name: cabbage
+    raw: 200 g cabbage
+  - qty: 1
+    name: red bell pepper
+    raw: 1 large red bell pepper
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 3
+    unit: tbsp
+    name: fish sauce
+    raw: 3 tablespoons fish sauce
+  - qty: 2
+    unit: tbsp
+    name: palm sugar
+    raw: 2 tablespoons palm sugar
+  - qty: 2
+    name: red chillies
+    raw: 2 fresh red chillies
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 4
+    name: kaffir lime leaves
+    raw: 4 fresh kaffir lime leaves
+  - qty: 1
+    unit: small handful
+    name: thai basil leaves
+    raw: A small handful of fresh Thai basil leaves
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - name: steamed jasmine rice
+    raw: Steamed jasmine rice

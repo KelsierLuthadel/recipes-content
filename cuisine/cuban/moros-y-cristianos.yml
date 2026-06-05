@@ -14,8 +14,7 @@ tags:
   - onion
   - garlic
   - coriander
-mentions:
-  - cuisine/jamaican/side-dishes/fried-plantains
+mentions: []
 ingredients:
   - qty: 250
     unit: g

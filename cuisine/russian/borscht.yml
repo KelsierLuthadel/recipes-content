@@ -16,7 +16,8 @@ tags:
   - potato
   - carrot
   - complex
-mentions: []
+mentions:
+  - cuisine/ukrainian/borscht
 ingredients:
   - qty: 1
     unit: kg

@@ -1,0 +1,32 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - butter
+mentions:
+  - cuisine/bahamian/cracked-conch
+  - cuisine/cuban/side-dishes/tostones
+  - cuisine/nigerian/side-dishes/fufu
+ingredients:
+  - qty: 3
+    name: plantains
+    raw: 3 large ripe plantains
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 1
+    unit: pinch
+    name: cinnamon
+    raw: A pinch of ground cinnamon
+  - name: flaky sea salt
+    raw: Flaky sea salt

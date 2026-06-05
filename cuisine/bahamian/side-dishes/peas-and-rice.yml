@@ -1,0 +1,82 @@
+prep: 20 minutes
+cook: 50 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - sides
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - lime
+  - chili
+  - complex
+mentions:
+  - cuisine/american/side-dishes/black-eyed-peas
+  - cuisine/bahamian/cracked-conch
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 100
+    unit: g
+    name: salt pork
+    raw: 100 g salt pork
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 1
+    name: green bell pepper
+    raw: 1 medium green bell pepper
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: tomato
+    raw: 1 medium tomato
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tablespoon fresh thyme leaves
+  - qty: 1
+    name: bird pepper
+    raw: 1 whole bird pepper
+  - qty: 400
+    unit: g
+    name: pigeon peas
+    raw: 400 g pigeon peas
+  - qty: 400
+    unit: g
+    name: long-grain rice
+    raw: 400 g long-grain rice
+  - qty: 800
+    unit: ml
+    name: chicken stock
+    raw: 800 ml chicken stock
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - name: lemon or lime wedges
+    raw: Lemon or lime wedges
+  - name: hot sauce
+    raw: Hot sauce

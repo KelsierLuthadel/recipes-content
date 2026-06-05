@@ -1,0 +1,35 @@
+prep: 20 minutes (plus 2-4 days fermentation)
+cook: 15 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - sides
+mentions:
+  - cuisine/ethiopian/tibs
+ingredients:
+  - qty: 500
+    unit: g
+    name: teff flour
+    raw: 500 g teff flour
+  - qty: 750
+    unit: ml
+    name: water
+    raw: 750 ml warm water
+  - qty: 1
+    unit: tsp
+    name: active dry yeast
+    raw: 1 teaspoon active dry yeast
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres water
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
+  - name: vegetable oil
+    raw: Vegetable oil

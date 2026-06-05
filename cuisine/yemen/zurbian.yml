@@ -1,0 +1,150 @@
+prep: 40 minutes (plus 2 hours marination)
+cook: 2 hours
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - lemon
+  - coriander
+  - butter
+  - yogurt
+  - complex
+mentions:
+  - cuisine/indian/biryani
+  - cuisine/yemen/side-dishes/lahoh
+  - drinks/regional/egypt/karkadeh
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: lamb shoulder or leg
+    raw: 1.2 kg bone-in lamb shoulder or leg
+  - qty: 200
+    unit: g
+    name: plain yogurt
+    raw: 200 g plain yogurt
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 3
+    name: tomatoes
+    raw: 3 large tomatoes
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tablespoons tomato paste
+  - qty: 2
+    unit: tbsp
+    name: hawaij spice mix
+    raw: 2 tablespoons hawaij spice mix
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 500
+    unit: g
+    name: basmati rice
+    raw: 500 g basmati rice
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tablespoons fine sea salt
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cardamom pods
+    raw: 4 cardamom pods
+  - qty: 3
+    name: cloves
+    raw: 3 cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 3
+    name: potatoes
+    raw: 3 medium potatoes
+  - qty: 2
+    name: tomatoes
+    raw: 2 large tomatoes
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 1
+    name: mint
+    raw: 1 small bunch fresh mint
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 60
+    unit: g
+    name: raisins
+    raw: 60 g raisins
+  - qty: 0.5
+    unit: tsp
+    name: saffron threads
+    raw: ½ teaspoon saffron threads
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml warm milk
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 2
+    unit: tbsp
+    name: rose water
+    raw: 2 tablespoons rose water
+  - name: yogurt
+    raw: Yogurt
+  - name: salad
+    raw: Fresh chopped salad
+  - name: yemeni hot sauce
+    raw: Yemeni hot sauce
+  - name: lemon wedges
+    raw: Lemon wedges

@@ -97,7 +97,7 @@ Eaten over plain steamed rice, with a small pour of Louisiana hot sauce and a sp
 ## Variations
 - **Crawfish étouffée:** see the [Cajun version](../cajun/crawfish-etouffee.md). Use 600 g cooked crawfish tails instead of raw shrimp; add at the same point, but only warm through (1-2 minutes) since the tails are pre-cooked.
 - **Mixed seafood étouffée:** half shrimp, half crab claw meat (lump or backfin), folded in at the end.
-- **Étouffée over hush puppies:** instead of plain rice, spoon the étouffée over crisp [hush puppies](../american/hush-puppies.md) for a Southern crossover.
+- **Étouffée over hush puppies:** instead of plain rice, spoon the étouffée over crisp [hush puppies](../american/side-dishes/hush-puppies.md) for a Southern crossover.
 
 ## Serving
 Étouffée is a one-bowl meal. Plain rice is the only side it needs. A slice of cornbread on the side is welcome but not necessary. Beer or sweet iced tea; nothing fancy.

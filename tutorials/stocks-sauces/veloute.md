@@ -95,7 +95,7 @@ A finished sauce containing cream and butter (supreme, vin blanc) can break if b
 ## Where Next
 - [Bechamel](bechamel.md): the milk-based twin.
 - [Espagnole](espagnole.md): the brown stock version.
-- [Veloute recipe](../../sauces/sauce-savory/veloute.md): canonical recipe.
+- [Veloute recipe](../../sauces/sauce-fish/veloute-sauce.md): canonical recipe.
 - [Stocks-Sauces Course landing](stocks-sauces.md): back to the main course.
 
 ## Storage

@@ -1,0 +1,104 @@
+prep: 35 minutes (plus 30 minutes resting)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - butter
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - drinks/regional/bhutan/suja
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 280
+    unit: ml
+    name: water
+    raw: 280 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g minced beef
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 2
+    name: green chillies
+    raw: 2 fresh green chillies
+  - qty: 1
+    unit: tsp
+    name: sichuan peppercorns
+    raw: 1 teaspoon ground Sichuan peppercorns
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce
+    raw: 2 tablespoons light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tablespoon dark soy sauce
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: toasted sesame oil
+    raw: 1 tablespoon toasted sesame oil
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - name: tibetan chilli sauce
+    raw: Tibetan chilli sauce
+  - name: butter tea or sweet milky chai
+    raw: Butter tea or sweet milky chai
+  - name: coriander leaves
+    raw: Fresh coriander leaves
+  - name: cucumber
+    raw: Sliced cucumber

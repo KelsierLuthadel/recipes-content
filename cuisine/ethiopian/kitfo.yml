@@ -1,0 +1,58 @@
+prep: 25 minutes
+cook: 5 minutes (just for warming the spiced butter)
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - meat
+  - beef
+  - butter
+  - cheese
+mentions:
+  - cuisine/ethiopian/side-dishes/gomen
+  - cuisine/ethiopian/side-dishes/injera
+  - cuisine/lebanese/kibbeh
+  - cuisine/middle-east/kibbeh
+  - drinks/regional/ethiopia/tej
+  - tutorials/distilling-spirits/safety
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef tenderloin
+    raw: 500 g beef tenderloin
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 80
+    unit: g
+    name: niter kibbeh
+    raw: 80 g niter kibbeh
+  - qty: 1.5
+    unit: tsp
+    name: mitmita
+    raw: 1 ½ teaspoons mitmita
+  - qty: 0.25
+    unit: tsp
+    name: korarima
+    raw: ¼ teaspoon ground korarima
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon ground black pepper
+  - qty: 200
+    unit: g
+    name: ayib
+    raw: 200 g ayib
+  - qty: 200
+    unit: g
+    name: gomen
+    raw: 200 g gomen
+  - qty: 1
+    name: round of injera
+    raw: 1 large round of injera

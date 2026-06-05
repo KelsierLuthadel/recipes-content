@@ -1,0 +1,140 @@
+prep: 30 minutes (plus 12 hours marinating)
+cook: 4 hours
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - butter
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/rice/pilaf
+ingredients:
+  - qty: 1
+    name: lamb shoulder
+    raw: 1 bone-in lamb shoulder
+  - qty: 300
+    unit: ml
+    name: plain thick yogurt
+    raw: 300 ml plain thick yogurt
+  - qty: 10
+    name: garlic cloves
+    raw: 10 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 3
+    unit: tbsp
+    name: lemon juice
+    raw: 3 tablespoons fresh lemon juice
+  - qty: 3
+    unit: tbsp
+    name: turkish red pepper paste
+    raw: 3 tablespoons Turkish red pepper paste
+  - qty: 2
+    unit: tbsp
+    name: sweet paprika
+    raw: 2 tablespoons sweet paprika
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: aleppo pepper
+    raw: 1 tablespoon Aleppo pepper
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon dried thyme
+  - qty: 1
+    unit: tbsp
+    name: sumac
+    raw: 1 tablespoon ground sumac
+  - qty: 2.5
+    unit: tsp
+    name: sea salt
+    raw: 2 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 200
+    unit: ml
+    name: dry red wine
+    raw: 200 ml dry red wine
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 6
+    name: black peppercorns
+    raw: 6 whole black peppercorns
+  - qty: 400
+    unit: g
+    name: long-grain rice
+    raw: 400 g long-grain rice
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 50
+    unit: g
+    name: vermicelli noodles
+    raw: 50 g vermicelli noodles
+  - qty: 800
+    unit: ml
+    name: chicken stock
+    raw: 800 ml hot chicken stock
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 400
+    unit: g
+    name: yogurt
+    raw: 400 g thick yogurt
+  - qty: 6
+    name: tomatoes
+    raw: 6 small tomatoes
+  - qty: 6
+    name: long green chillies
+    raw: 6 long green chillies
+  - qty: 1
+    name: red onion
+    raw: 1 large red onion
+  - name: flat-leaf parsley
+    raw: Fresh flat-leaf parsley
+  - name: warm turkish flatbread
+    raw: Warm Turkish flatbread
+  - name: lemon wedges
+    raw: Lemon wedges

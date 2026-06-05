@@ -1,0 +1,41 @@
+prep: 15 minutes (plus 20 minutes rest)
+cook: 25 minutes
+allergens:
+  - gluten
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - sides
+mentions:
+  - cuisine/tibetan/sha-balep
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 250
+    unit: g
+    name: roasted barley flour
+    raw: 250 g roasted barley flour
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar
+  - name: sesame seeds
+    raw: Sesame seeds

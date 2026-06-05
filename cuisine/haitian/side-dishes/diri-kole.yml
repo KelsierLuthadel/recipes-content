@@ -1,0 +1,86 @@
+prep: 15 minutes (plus overnight soaking for dried beans)
+cook: 1 hour 15 minutes (or 25 minutes if using cooked beans)
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - sides
+  - rice
+  - onion
+  - garlic
+  - butter
+  - chili
+  - complex
+mentions:
+  - cuisine/haitian/diri-ak-djon-djon
+  - cuisine/haitian/griot
+  - cuisine/haitian/legume
+  - cuisine/haitian/poulet-creole
+  - cuisine/haitian/tasso
+  - drinks/regional/haiti/cremas
+ingredients:
+  - qty: 250
+    unit: g
+    name: red kidney beans
+    raw: 250 g dried red kidney beans
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1 ½ litres water
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 3
+    name: thyme
+    raw: 3 thyme sprigs
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 400
+    unit: g
+    name: long-grain white rice
+    raw: 400 g long-grain white rice
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: epis
+    raw: 3 tablespoons epis
+  - qty: 2
+    name: thyme
+    raw: 2 thyme sprigs
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 whole Scotch bonnet
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 600
+    unit: ml
+    name: reserved bean cooking liquor
+    raw: 600 ml reserved bean cooking liquor
