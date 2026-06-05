@@ -17,7 +17,7 @@ The base ingredient is the **tomatillo**: a small green fruit in a papery husk, 
 
 This recipe gives the charred version, which is the cantina default. A boiled-tomatillo variant follows in the notes.
 
-Do not confuse with [Italian salsa verde](../../italian/side-dishes/salsa-verde.md), which is an entirely different sauce (parsley-and-capers-based).
+Do not confuse with [Italian salsa verde](../italian/side-dishes/salsa-verde.md), which is an entirely different sauce (parsley-and-capers-based).
 
 ## Ingredients
 - 500 g fresh tomatillos (about 12 medium; husks removed, rinsed)

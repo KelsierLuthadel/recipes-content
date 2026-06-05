@@ -24,15 +24,15 @@ This course covers the stocks first (because the mother sauces are built on them
 ## Master Recipes
 The course refers back to these:
 
-- [Chicken Stock](../../stocks/chicken-stock.md): the everyday workhorse.
-- [Beef Stock](../../stocks/beef-stock.md): roasted, deep, the base of espagnole.
-- [Brown Stock](../../stocks/brown-stock.md): the dark version.
-- [Fish Stock (Fumet)](../../stocks/fumet-de-poisson.md): light, quick, for veloute de poisson.
+- [Chicken Stock](../../stocks/white-chicken-stock.md): the everyday workhorse.
+- Beef Stock: roasted, deep, the base of espagnole.
+- Brown Stock: the dark version.
+- [Fish Stock (Fumet)](../../stocks/fish-stock.md): light, quick, for veloute de poisson.
 - [Vegetable Stock](../../stocks/vegetable-stock.md): the meat-free base.
-- [Bechamel](../../sauces/sauce-savory/bechamel.md): the master white sauce.
-- [Veloute](../../sauces/sauce-savory/veloute.md): the master stock-thickened sauce.
-- [Espagnole](../../sauces/sauce-savory/espagnole.md): the master brown sauce.
-- [Hollandaise](../../sauces/sauce-fish/hollandaise-sauce.md): the master emulsion.
+- [Bechamel](../../sauces/sauce-savory/bechamel-sauce.md): the master white sauce.
+- [Veloute](../../sauces/sauce-fish/veloute-sauce.md): the master stock-thickened sauce.
+- Espagnole: the master brown sauce.
+- [Hollandaise](../../sauces/sauce-savory/hollandaise-sauce.md): the master emulsion.
 - [Pizza Sauce](../../cuisine/italian/pizza/pizza-sauce.md): the no-cook tomato base; see also the tomato course page.
 
 ## The System in One Sentence

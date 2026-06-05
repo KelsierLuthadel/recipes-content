@@ -27,18 +27,18 @@ Master those four ideas and you can reverse-engineer any takeaway menu.
 
 The takeaway menu is more about heat level and finish than fundamentally different dishes. Once you have the four components, you can produce all of them by varying the masala mix, the chilli quantity and the final additions.
 
-- [**Chicken tikka masala**](../../cuisine/indian/Breads/BIR-Chicken-Tikka-Masala.md): the UK's unofficial national dish. Tandoori-marinated chicken, mild creamy tomato sauce, cream and almond finish. Sweet, smoky from the tandoori marinade, family-friendly.
-- [**Korma**](../../cuisine/indian/Breads/BIR-Chicken-Korma.md): the mildest on the menu. Coconut cream, ground almonds, a soft warm spice mix, sometimes a sprinkle of sultanas. Often the gateway curry.
-- [**Madras**](../../cuisine/indian/Breads/BIR-Lamb-madrass.md): medium-hot, with a sharper spice mix heavy on chilli and tomato. The starting point for most "I want some heat" orders.
-- [**Vindaloo**](../../cuisine/indian/Breads/BIR-Chicken-Vindaloo.md): hot, sharp, vinegared. The masala adds extra chilli and a slug of vinegar (sometimes red wine vinegar) that cuts through the gravy. Goan in origin, naturalised in the UK as the heat-seeker's order.
+- [**Chicken tikka masala**](../../cuisine/indian/BIR-Chicken-Tikka-Masala.md): the UK's unofficial national dish. Tandoori-marinated chicken, mild creamy tomato sauce, cream and almond finish. Sweet, smoky from the tandoori marinade, family-friendly.
+- [**Korma**](../../cuisine/indian/BIR-Chicken-Korma.md): the mildest on the menu. Coconut cream, ground almonds, a soft warm spice mix, sometimes a sprinkle of sultanas. Often the gateway curry.
+- [**Madras**](../../cuisine/indian/BIR-Lamb-madrass.md): medium-hot, with a sharper spice mix heavy on chilli and tomato. The starting point for most "I want some heat" orders.
+- [**Vindaloo**](../../cuisine/indian/BIR-Chicken-Vindaloo.md): hot, sharp, vinegared. The masala adds extra chilli and a slug of vinegar (sometimes red wine vinegar) that cuts through the gravy. Goan in origin, naturalised in the UK as the heat-seeker's order.
 - [**Phall**](../../cuisine/indian/BIR-Chicken-Phall.md): the hottest on most menus. Vindaloo with extra fresh chillies, often Scotch Bonnet or naga, sometimes a chilli-eating contest in disguise. Best approached with cold lager.
-- [**Jalfrezi**](../../cuisine/indian/Breads/BIR-Chicken-Jalfrezi.md): stir-fried with green peppers, onions and fresh green chillies. Drier than most BIR curries, with a fresh, slightly smoky finish from the high-heat pan-tossing.
+- [**Jalfrezi**](../../cuisine/indian/BIR-Chicken-Jalfrezi.md): stir-fried with green peppers, onions and fresh green chillies. Drier than most BIR curries, with a fresh, slightly smoky finish from the high-heat pan-tossing.
 - [**Dopiaza**](../../cuisine/indian/BIR-chicken-dopiaza.md): literally "two onions", finished with crisp-fried onion. Sweet, rich, moderate heat.
-- [**Bhuna**](../../cuisine/indian/Breads/BIR-Lamb-bhuna.md): the gravy is reduced almost to nothing, the spice clings to the meat. Drier and more concentrated than the standard sauce-heavy curries.
-- [**Rogan josh**](../../cuisine/indian/Breads/BIR-Lamb-Rogan-Josh.md): red, aromatic, Kashmiri in name though heavily anglicised in the curry house. Tomato-heavy, paprika and Kashmiri chilli for colour, mild to medium heat.
-- [**Pasanda**](../../cuisine/indian/Breads/BIR-Chicken-Pasanda.md): a milder, creamier curry built on cream and ground almonds. Often with lamb. Sweet and aromatic, similar in register to korma.
-- [**Dansak**](../../cuisine/indian/Breads/BIR-Chicken-Dhansak.md): the lentil curry. Pre-cooked toor or red lentils stirred into the gravy, with a slightly sour-sweet finish from a splash of pineapple or tamarind. Drier and more substantial than the standard.
-- [**Balti**](../../cuisine/indian/Breads/BIR-Chicken-Balti.md): the Birmingham invention. Cooked and served in a thin-pressed steel balti pan, with a slightly drier, more aromatic finish than a standard curry. The pan goes straight to the table.
+- [**Bhuna**](../../cuisine/indian/BIR-Lamb-bhuna.md): the gravy is reduced almost to nothing, the spice clings to the meat. Drier and more concentrated than the standard sauce-heavy curries.
+- [**Rogan josh**](../../cuisine/indian/BIR-Lamb-Rogan-Josh.md): red, aromatic, Kashmiri in name though heavily anglicised in the curry house. Tomato-heavy, paprika and Kashmiri chilli for colour, mild to medium heat.
+- [**Pasanda**](../../cuisine/indian/BIR-Chicken-Pasanda.md): a milder, creamier curry built on cream and ground almonds. Often with lamb. Sweet and aromatic, similar in register to korma.
+- [**Dansak**](../../cuisine/indian/BIR-Chicken-Dhansak.md): the lentil curry. Pre-cooked toor or red lentils stirred into the gravy, with a slightly sour-sweet finish from a splash of pineapple or tamarind. Drier and more substantial than the standard.
+- [**Balti**](../../cuisine/indian/BIR-Chicken-Balti.md): the Birmingham invention. Cooked and served in a thin-pressed steel balti pan, with a slightly drier, more aromatic finish than a standard curry. The pan goes straight to the table.
 
 ## Rice to serve alongside
 

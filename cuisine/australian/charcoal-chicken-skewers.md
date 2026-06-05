@@ -35,7 +35,7 @@ The flavour you'd get at a Melbourne charcoal-chicken takeaway, distilled into s
 - Warm flatbreads or pita
 - A simple chopped salad (tomato, cucumber, red onion, parsley)
 - Lemon wedges
-- A sauce: [garlic toum](../arabian/side-dishes/toum.md) or [lemon yogurt sauce](../../sauces/sauce-savory/lemon-yogurt-sauce.md)
+- A sauce: garlic toum or [lemon yogurt sauce](../../sauces/sauce-savory/lemon-yogurt-sauce.md)
 
 ## Method
 

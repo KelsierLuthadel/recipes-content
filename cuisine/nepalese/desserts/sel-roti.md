@@ -74,7 +74,7 @@ The dough is traditionally made by soaking rice grains, then grinding to a thick
 
 ### Stage 5 - Serve
 1. Sel roti is best warm but eats well at room temperature.
-1. Serve plain, or with a small bowl of yoghurt for dipping, or alongside a cup of [chiya](../../drinks/regional/india/masala-chai.md) (sweet masala milk tea).
+1. Serve plain, or with a small bowl of yoghurt for dipping, or alongside a cup of [chiya](../../../drinks/regional/india/masala-chai.md) (sweet masala milk tea).
 
 ## Notes
 - **The pour is the skill.** The thinner and more controlled the stream, the more delicate the ring. A thick stream gives a chunky lopsided sel roti. The first few will be imperfect; persist.

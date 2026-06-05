@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - garlic
+  - ginger
+  - lemon
+  - butter
+  - chili
+mentions:
+  - cuisine/bhutanese/ema-datshi
+  - cuisine/bhutanese/jaju
+  - cuisine/bhutanese/shakam-paa
+  - cuisine/bhutanese/side-dishes/ezay
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 800
+    unit: g
+    name: mustard greens
+    raw: 800 g mustard greens
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 4
+    name: green chillies
+    raw: 4 fresh green chillies
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice

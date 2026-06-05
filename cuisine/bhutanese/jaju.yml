@@ -1,0 +1,87 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - shellfish
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - mushroom
+  - onion
+  - garlic
+  - ginger
+  - spinach
+  - coriander
+  - butter
+  - nuts
+  - chili
+  - complex
+mentions:
+  - cuisine/bhutanese/ema-datshi
+  - cuisine/bhutanese/shakam-paa
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 300
+    unit: g
+    name: mushrooms
+    raw: 300 g fresh mushrooms
+  - qty: 30
+    unit: g
+    name: mushrooms
+    raw: 30 g dried mushrooms
+  - qty: 200
+    unit: g
+    name: spinach
+    raw: 200 g fresh spinach
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 1
+    unit: tsp
+    name: plain flour
+    raw: 1 teaspoon plain flour
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 2.5
+    name: red chillies
+    raw: 2-3 whole dried red chillies
+  - qty: 600
+    unit: ml
+    name: vegetable stock
+    raw: 600 ml hot vegetable stock
+  - name: the reserved mushroom-soaking liquid
+    raw: The reserved mushroom-soaking liquid
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    name: green chilli
+    raw: 1 fresh green chilli
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander
+  - qty: 1
+    unit: tbsp
+    name: spring onion
+    raw: 1 tablespoon spring onion

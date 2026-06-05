@@ -1,0 +1,54 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - cheese
+  - chili
+mentions:
+  - tutorials/pizza/cheese
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: green chillies
+    raw: 6-10 fresh green chillies
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: tomatoes
+    raw: 2 medium tomatoes
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 1
+    name: spring onion
+    raw: 1 small spring onion
+  - qty: 100
+    unit: g
+    name: feta cheese
+    raw: 100 g feta cheese
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons water

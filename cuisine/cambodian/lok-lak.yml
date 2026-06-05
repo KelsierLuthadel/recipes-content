@@ -1,0 +1,130 @@
+prep: 25 minutes (plus 30 minutes marination)
+cook: 15 minutes
+allergens:
+  - dairy
+  - eggs
+  - soy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - beef
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - butter
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - drinks/regional/china/jasmine-tea
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef tenderloin or top sirloin
+    raw: 600 g beef tenderloin or top sirloin
+  - qty: 2
+    unit: tbsp
+    name: oyster sauce
+    raw: 2 tablespoons oyster sauce
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce
+    raw: 2 tablespoons light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: fish sauce
+    raw: 1 tablespoon fish sauce
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tablespoon dark soy sauce
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tablespoon cornflour
+  - qty: 1
+    name: head boston/butter lettuce
+    raw: 1 head Boston/butter lettuce
+  - qty: 2
+    name: tomatoes
+    raw: 2 medium tomatoes
+  - qty: 1
+    name: cucumber
+    raw: 1 medium cucumber
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: oyster sauce
+    raw: 2 tablespoons oyster sauce
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tablespoon dark soy sauce
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 50
+    unit: ml
+    name: water
+    raw: 50 ml water
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 2
+    unit: tsp
+    name: black pepper
+    raw: 2 teaspoons coarsely ground black pepper
+  - qty: 3
+    unit: tbsp
+    name: lime juice
+    raw: 3 tablespoons fresh lime juice
+  - qty: 1
+    name: red chilli
+    raw: 1 fresh red chilli
+  - name: fried egg per diner
+    raw: A fried egg per diner
+  - name: steamed jasmine rice
+    raw: Steamed jasmine rice

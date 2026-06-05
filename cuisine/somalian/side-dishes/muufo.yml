@@ -1,0 +1,49 @@
+prep: 20 minutes (plus 1 hour resting)
+cook: 25 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - sides
+  - complex
+mentions:
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 300
+    unit: g
+    name: medium-coarse cornmeal
+    raw: 300 g medium-coarse cornmeal
+  - qty: 200
+    unit: g
+    name: white bread flour
+    raw: 200 g strong white bread flour
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: yeast
+    raw: 1 teaspoon dried yeast
+  - qty: 350
+    unit: ml
+    name: water
+    raw: 350 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - name: flour or cornmeal
+    raw: Extra flour or cornmeal
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil

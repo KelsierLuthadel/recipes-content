@@ -1,0 +1,78 @@
+prep: 25 minutes
+cook: 0 minutes
+allergens:
+  - peanuts
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - fish
+  - prawn
+  - rice
+  - garlic
+  - tomato
+  - coconut
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - complex
+mentions:
+  - cuisine/thai/salads/green-papaya-salad
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: green papaya
+    raw: 500 g green papaya
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 5
+    name: red and green chillies
+    raw: 4-6 fresh red and green chillies
+  - qty: 3
+    unit: tbsp
+    name: palm sugar
+    raw: 3 tablespoons palm sugar
+  - qty: 4
+    unit: tbsp
+    name: lime juice
+    raw: 4 tablespoons fresh lime juice
+  - qty: 4
+    unit: tbsp
+    name: fish sauce
+    raw: 4 tablespoons fish sauce
+  - qty: 2
+    unit: tbsp
+    name: shrimp
+    raw: 2 tablespoons dried shrimp
+  - qty: 4
+    unit: tbsp
+    name: roasted peanuts
+    raw: 4 tablespoons roasted peanuts
+  - qty: 8
+    name: long beans
+    raw: 8 long beans
+  - qty: 8
+    name: cherry tomatoes
+    raw: 8 cherry tomatoes
+  - qty: 1
+    unit: tsp
+    name: prahok
+    raw: 1 teaspoon prahok
+  - name: peanuts
+    raw: Extra crushed peanuts
+  - name: coriander leaves
+    raw: Fresh coriander leaves
+  - name: lime wedges
+    raw: Lime wedges
+  - name: sticky rice
+    raw: Sticky rice
+  - name: cabbage leaves or lettuce leaves
+    raw: Cabbage leaves or lettuce leaves

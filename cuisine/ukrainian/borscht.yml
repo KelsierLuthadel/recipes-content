@@ -1,0 +1,103 @@
+prep: 30 minutes
+cook: 2 hours 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - onion
+  - garlic
+  - tomato
+  - carrot
+  - cream
+  - complex
+mentions:
+  - cuisine/russian/borscht
+  - cuisine/russian/vegetarian-borscht
+  - cuisine/ukrainian/pampushky
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef shin
+    raw: 600 g beef shin
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2.5 litres cold water
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tablespoons sunflower oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 2
+    name: carrots
+    raw: 2 medium carrots
+  - qty: 1
+    name: tomato
+    raw: 1 large tomato
+  - qty: 3
+    name: beetroots
+    raw: 3 large beetroots
+  - qty: 1.5
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 ½ tablespoons white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 3
+    name: potatoes
+    raw: 3 medium potatoes
+  - qty: 200
+    unit: g
+    name: green cabbage
+    raw: 200 g green cabbage
+  - qty: 1
+    name: tomatoes
+    raw: 1 small can chopped tomatoes
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1.5
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 ½ tablespoons white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - name: salt and black pepper
+    raw: Salt and black pepper to taste
+  - qty: 200
+    unit: ml
+    name: smetana
+    raw: 200 ml smetana
+  - qty: 3
+    unit: tbsp
+    name: dill
+    raw: 3 tablespoons fresh dill
+  - name: pampushky or fresh dark rye bread
+    raw: Pampushky or fresh dark rye bread
+  - name: garlic to spread on the pampushky
+    raw: Extra crushed garlic to spread on the pampushky

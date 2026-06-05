@@ -12,7 +12,8 @@ tags:
   - rice
   - butter
   - chili
-mentions: []
+mentions:
+  - cuisine/bhutanese/side-dishes/ezay
 ingredients:
   - qty: 500
     unit: ml

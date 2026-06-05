@@ -1,0 +1,121 @@
+prep: 25 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - carrot
+  - lemon
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - cuisine/south-african/side-dishes/atchar
+ingredients:
+  - qty: 800
+    unit: g
+    name: lamb shoulder
+    raw: 800 g boneless lamb shoulder
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 2
+    name: green chillies
+    raw: 2 fresh green chillies
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tablespoons tomato purée
+  - qty: 2
+    unit: tbsp
+    name: durban masala
+    raw: 2 tablespoons Durban masala
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 teaspoon garam masala
+  - qty: 4
+    name: cardamom pods
+    raw: 4 whole cardamom pods
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 small cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 17.5
+    name: curry leaves
+    raw: 15-20 fresh curry leaves
+  - qty: 500
+    unit: ml
+    name: beef stock
+    raw: 500 ml beef stock
+  - qty: 2
+    name: potatoes
+    raw: 2 large potatoes
+  - qty: 3
+    unit: tbsp
+    name: coriander
+    raw: 3 tablespoons fresh coriander
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 2
+    name: unsliced white loaves
+    raw: 2 large unsliced white loaves
+  - name: carrot
+    raw: Grated carrot
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - name: onion
+    raw: Sliced onion
+  - name: atchar
+    raw: Atchar
