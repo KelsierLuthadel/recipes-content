@@ -1,0 +1,37 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - lime
+mentions:
+  - cuisine/cuban/side-dishes/tostones
+  - cuisine/jamaican/side-dishes/fried-plantains
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 3
+    name: green plantains
+    raw: 3 large green plantains
+  - qty: 500
+    unit: ml
+    name: vegetable oil
+    raw: 500 ml vegetable oil
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml warm water
+  - name: flaky sea salt
+    raw: Flaky sea salt
+  - name: lime wedges
+    raw: Lime wedges
+  - name: pikliz
+    raw: Pikliz

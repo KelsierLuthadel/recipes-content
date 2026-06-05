@@ -1,0 +1,88 @@
+prep: 30 minutes (plus overnight marinating)
+cook: 1 hour 15 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - lime
+  - chili
+  - complex
+mentions:
+  - cuisine/haitian/griot
+  - cuisine/haitian/side-dishes/bannann-peze
+  - cuisine/haitian/side-dishes/diri-kole
+  - cuisine/jamaican/side-dishes/fried-plantains
+  - drinks/regional/haiti/cremas
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: beef shoulder or chuck
+    raw: 1.2 kg beef shoulder or chuck
+  - qty: 6
+    unit: tbsp
+    name: epis
+    raw: 6 tablespoons epis
+  - qty: 4
+    unit: tbsp
+    name: sour orange juice
+    raw: 4 tablespoons sour orange juice
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: scotch bonnet chilli
+    raw: 1 fresh Scotch bonnet chilli
+  - qty: 1
+    unit: tbsp
+    name: dark rum
+    raw: 1 tablespoon dark rum
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    name: thyme
+    raw: 4 thyme sprigs
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1 ½ litres water
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - name: pikliz
+    raw: Pikliz
+  - name: bannann peze
+    raw: Bannann peze
+  - name: diri kole ak pwa
+    raw: Diri kole ak pwa
+  - qty: 1
+    name: lime
+    raw: 1 lime
