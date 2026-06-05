@@ -1,0 +1,31 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - make-ahead
+  - sides
+mentions:
+  - cuisine/ugandan/side-dishes/posho
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 350
+    unit: g
+    name: brown finger-millet flour
+    raw: 350 g brown finger-millet flour
+  - qty: 150
+    unit: g
+    name: cassava flour
+    raw: 150 g cassava flour
+  - qty: 1.3
+    unit: l
+    name: water
+    raw: 1.3 litres water
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt

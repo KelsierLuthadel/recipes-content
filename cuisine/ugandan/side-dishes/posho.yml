@@ -1,0 +1,27 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+mentions:
+  - cuisine/ugandan/luwombo
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: white maize meal
+    raw: 500 g white maize meal
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres water
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
