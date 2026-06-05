@@ -1,0 +1,95 @@
+prep: 25 minutes (plus 2 hours marinating)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - drinks/regional/turkey/ayran
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g minced beef
+  - qty: 300
+    unit: g
+    name: lamb
+    raw: 300 g minced lamb
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 large bunch fresh flat-leaf parsley
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tablespoon dried mint
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 2
+    unit: tsp
+    name: aleppo pepper
+    raw: 2 teaspoons Aleppo pepper
+  - qty: 1
+    unit: tsp
+    name: sumac
+    raw: 1 teaspoon sumac
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 2
+    unit: tbsp
+    name: breadcrumbs
+    raw: 2 tablespoons breadcrumbs
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons cold water
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - name: warm turkish flatbread
+    raw: Warm Turkish flatbread
+  - name: tomato and cucumber salad with sumac
+    raw: Sliced tomato and cucumber salad with sumac
+  - name: bowl of plain yogurt
+    raw: A bowl of plain yogurt
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: red onion sprinkled with sumac
+    raw: Sliced red onion sprinkled with sumac
+  - name: parsley and dill
+    raw: Fresh parsley and dill

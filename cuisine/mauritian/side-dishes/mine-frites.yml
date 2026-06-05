@@ -1,0 +1,114 @@
+prep: 25 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - peanuts
+  - soy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - sides
+  - meat
+  - fish
+  - chicken
+  - prawn
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - carrot
+  - lime
+  - nuts
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: yellow hakka egg noodles
+    raw: 500 g fresh yellow Hakka egg noodles
+  - qty: 200
+    unit: g
+    name: prawns
+    raw: 200 g raw prawns
+  - qty: 250
+    unit: g
+    name: chicken thigh
+    raw: 250 g chicken thigh
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 2
+    name: red chillies
+    raw: 2 fresh red chillies
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 200
+    unit: g
+    name: bean sprouts
+    raw: 200 g fresh bean sprouts
+  - qty: 1
+    name: carrot
+    raw: 1 medium carrot
+  - qty: 1
+    name: green pepper
+    raw: 1 small green pepper
+  - qty: 100
+    unit: g
+    name: pak choi
+    raw: 100 g pak choi
+  - qty: 4
+    unit: tbsp
+    name: light soy sauce
+    raw: 4 tablespoons light soy sauce
+  - qty: 2
+    unit: tbsp
+    name: oyster sauce
+    raw: 2 tablespoons oyster sauce
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tablespoon dark soy sauce
+  - qty: 1
+    unit: tbsp
+    name: fish sauce
+    raw: 1 tablespoon fish sauce
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: chinese black vinegar
+    raw: 1 teaspoon Chinese black vinegar
+  - qty: 100
+    unit: ml
+    name: chicken stock
+    raw: 100 ml chicken stock
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 2
+    unit: tbsp
+    name: fried garlic
+    raw: 2 tablespoons fried garlic
+  - qty: 1
+    name: red chilli
+    raw: 1 fresh red chilli
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - name: mauritian chilli sauce
+    raw: Mauritian chilli sauce

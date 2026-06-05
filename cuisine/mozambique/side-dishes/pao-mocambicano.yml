@@ -1,0 +1,54 @@
+prep: 30 minutes (plus 2 hours rising)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - eggs
+  - coconut
+  - butter
+  - complex
+mentions:
+  - cuisine/mozambique/matata
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 600
+    unit: g
+    name: bread flour
+    raw: 600 g strong bread flour
+  - qty: 10
+    unit: g
+    name: instant dried yeast
+    raw: 10 g instant dried yeast
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 280
+    unit: ml
+    name: milk
+    raw: 280 ml warm whole milk
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - name: flour for dusting
+    raw: Extra flour for dusting

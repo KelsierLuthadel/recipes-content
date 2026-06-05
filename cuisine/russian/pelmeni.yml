@@ -1,0 +1,99 @@
+prep: 1 hour 30 minutes
+cook: 8 minutes (boiling)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - cream
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml cold water
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 300
+    unit: g
+    name: beef
+    raw: 300 g minced beef
+  - qty: 300
+    unit: g
+    name: pork
+    raw: 300 g minced pork
+  - qty: 100
+    unit: g
+    name: veal
+    raw: 100 g minced veal
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons cold water
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1.5
+    unit: tsp
+    name: black pepper
+    raw: 1 ½ teaspoons ground black pepper
+  - qty: 0.25
+    unit: tsp
+    name: allspice
+    raw: ¼ teaspoon ground allspice
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tablespoons fine sea salt
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 300
+    unit: ml
+    name: sour cream
+    raw: 300 ml sour cream
+  - qty: 1
+    name: dill
+    raw: 1 large bunch fresh dill
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar or apple cider vinegar
+    raw: 2 tablespoons white wine vinegar or apple cider vinegar

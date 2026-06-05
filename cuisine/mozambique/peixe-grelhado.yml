@@ -1,0 +1,117 @@
+prep: 30 minutes (plus 30 minutes marination)
+cook: 20 minutes
+allergens:
+  - dairy
+  - fish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coconut
+  - potato
+  - lemon
+  - coriander
+  - butter
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/mozambique/side-dishes/arroz-de-coco
+  - cuisine/thai/side-dishes/coconut-rice
+  - tutorials/fish/whole-fish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: white-fleshed fish
+    raw: 1 large whole white-fleshed fish
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 3
+    unit: tbsp
+    name: lemon juice
+    raw: 3 tablespoons fresh lemon juice
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 2
+    unit: tbsp
+    name: smoked paprika
+    raw: 2 tablespoons smoked paprika
+  - qty: 1
+    unit: tbsp
+    name: hot paprika
+    raw: 1 tablespoon hot paprika
+  - qty: 2
+    unit: tbsp
+    name: piri-piri sauce
+    raw: 2 tablespoons piri-piri sauce
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    name: chilli
+    raw: 1 small fresh chilli
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: piri-piri sauce
+    raw: 2 tablespoons piri-piri sauce
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice
+  - qty: 1
+    unit: tbsp
+    name: parsley
+    raw: 1 tablespoon fresh parsley
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon fresh coriander
+  - name: arroz de coco
+    raw: Arroz de coco
+  - name: salada mozambicana
+    raw: Salada Mozambicana
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: crispy chips or boiled new potatoes
+    raw: Crispy chips or boiled new potatoes
+  - name: piri-piri sauce
+    raw: Extra piri-piri sauce
+  - name: beer or vinho verde
+    raw: Cold beer or vinho verde

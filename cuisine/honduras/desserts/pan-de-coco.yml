@@ -1,0 +1,64 @@
+prep: 30 minutes (plus 2 hours rising)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - coconut
+  - butter
+  - honey
+  - complex
+mentions:
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 600
+    unit: g
+    name: plain bread flour
+    raw: 600 g plain bread flour
+  - qty: 10
+    unit: g
+    name: instant dried yeast
+    raw: 10 g instant dried yeast
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 1
+    name: coconut milk
+    raw: 1 tin coconut milk
+  - qty: 100
+    unit: g
+    name: coconut
+    raw: 100 g grated fresh coconut
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 2
+    unit: tbsp
+    name: desiccated coconut
+    raw: 2 tablespoons desiccated coconut
+  - qty: 2
+    unit: tbsp
+    name: icing sugar
+    raw: 2 tablespoons icing sugar
+  - qty: 1
+    unit: tbsp
+    name: honey
+    raw: 1 tablespoon honey

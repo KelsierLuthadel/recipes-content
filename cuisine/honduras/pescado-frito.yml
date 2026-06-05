@@ -1,0 +1,110 @@
+prep: 25 minutes (plus 30 minutes marination)
+cook: 18 minutes
+allergens:
+  - gluten
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - fish
+  - garlic
+  - lime
+  - coriander
+  - complex
+mentions:
+  - cuisine/colombian/side-dishes/arroz-con-coco
+  - cuisine/honduras/side-dishes/tajadas
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/thai/side-dishes/coconut-rice
+  - drinks/classic/lemonade
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: white-fleshed fish
+    raw: 2 whole white-fleshed fish
+  - qty: 100
+    unit: ml
+    name: lime juice
+    raw: 100 ml fresh lime juice
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 50
+    unit: g
+    name: cornflour
+    raw: 50 g cornflour
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - name: tajadas
+    raw: Tajadas
+  - name: arroz con coco or arroz blanco
+    raw: Arroz con coco or arroz blanco
+  - name: encurtido
+    raw: Encurtido
+  - name: lime wedges
+    raw: Lime wedges
+  - name: hot sauce
+    raw: Hot sauce
+  - name: avocado slices
+    raw: Avocado slices
+  - name: coriander
+    raw: Fresh coriander
+  - name: corn tortillas or hot bread
+    raw: Corn tortillas or hot bread

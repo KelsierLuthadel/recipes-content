@@ -1,0 +1,115 @@
+prep: 50 minutes (plus 1 hour dough rise)
+cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - lime
+  - coriander
+  - butter
+  - chili
+  - complex
+mentions:
+  - cuisine/trinidadian/snacks/doubles
+  - cuisine/trinidadian/snacks/pholourie
+  - sauces/sauce-fish/tamarind-sauce
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 30
+    unit: g
+    name: butter or shortening
+    raw: 30 g butter or shortening
+  - qty: 280
+    unit: ml
+    name: water
+    raw: 280 ml warm water
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - qty: 700
+    unit: g
+    name: potato
+    raw: 700 g potato
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 1
+    name: scotch bonnet pepper
+    raw: 1 small Scotch bonnet pepper
+  - qty: 1
+    unit: tbsp
+    name: geera
+    raw: 1 tablespoon ground geera
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 teaspoon garam masala
+  - qty: 0.5
+    unit: tsp
+    name: coriander
+    raw: ½ teaspoon ground coriander
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: large handful
+    name: coriander
+    raw: 1 large handful fresh coriander
+  - qty: 1
+    unit: large handful
+    name: shadon beni
+    raw: 1 large handful shadon beni
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - name: shadon beni chutney
+    raw: Shadon beni chutney
+  - name: tamarind sauce
+    raw: Tamarind sauce
+  - name: mango chutney
+    raw: Mango chutney
+  - name: hot pepper sauce
+    raw: Hot pepper sauce

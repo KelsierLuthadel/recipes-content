@@ -1,0 +1,64 @@
+prep: 20 minutes
+cook: 2 hours (mostly hands-off)
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - potato
+  - complex
+mentions:
+  - cuisine/irish/side-dishes/irish-soda-bread
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 12
+    name: irish pork sausages
+    raw: 12 good-quality Irish pork sausages
+  - qty: 400
+    unit: g
+    name: rashers of irish back bacon
+    raw: 400 g rashers of Irish back bacon
+  - qty: 1
+    unit: kg
+    name: potatoes
+    raw: 1 kg potatoes
+  - qty: 3
+    name: onions
+    raw: 3 large onions
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 large bunch fresh flat-leaf parsley
+  - qty: 750
+    unit: ml
+    name: chicken stock
+    raw: 750 ml chicken stock
+  - qty: 250
+    unit: ml
+    name: guinness or stout
+    raw: 250 ml Guinness or stout
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce

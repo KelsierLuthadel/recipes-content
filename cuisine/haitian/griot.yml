@@ -16,8 +16,7 @@ tags:
   - lime
   - chili
   - complex
-mentions:
-  - cuisine/jamaican/side-dishes/fried-plantains
+mentions: []
 ingredients:
   - qty: 1.5
     unit: kg

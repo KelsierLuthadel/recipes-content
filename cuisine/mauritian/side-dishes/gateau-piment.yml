@@ -1,0 +1,79 @@
+prep: 25 minutes (plus 4 hours soaking)
+cook: 25 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - lentils
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chickpea
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: split yellow peas
+    raw: 250 g split yellow peas
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger
+  - qty: 1
+    unit: large handful
+    name: coriander
+    raw: 1 large handful fresh coriander
+  - qty: 3
+    name: spring onions
+    raw: 3 spring onions
+  - qty: 2.5
+    name: green chillies
+    raw: 2-3 fresh green chillies
+  - qty: 8
+    name: curry leaves
+    raw: 8 fresh curry leaves
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - name: mauritian chilli sauce
+    raw: Mauritian chilli sauce
+  - name: baguettes
+    raw: Fresh baguettes
+  - name: mauritian milky chai
+    raw: Mauritian milky chai

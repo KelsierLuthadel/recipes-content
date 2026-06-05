@@ -1,0 +1,94 @@
+prep: 30 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+  - meat
+  - garlic
+tags:
+  - snack
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - carrot
+  - butter
+  - complex
+mentions:
+  - cuisine/british/snacks/sausage-rolls
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: beef
+    raw: 400 g minced beef
+  - qty: 400
+    unit: g
+    name: pork
+    raw: 400 g minced pork
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: apple
+    raw: 1 small apple
+  - qty: 80
+    unit: g
+    name: breadcrumbs
+    raw: 80 g fresh breadcrumbs
+  - qty: 2
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 2 tablespoons Worcestershire sauce
+  - qty: 2
+    unit: tbsp
+    name: tomato ketchup
+    raw: 2 tablespoons tomato ketchup
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 3
+    unit: tbsp
+    name: parsley
+    raw: 3 tablespoons fresh parsley
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tablespoon fresh thyme leaves
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1.5
+    unit: tsp
+    name: black pepper
+    raw: 1 ½ teaspoons ground black pepper
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 2
+    name: sheets ready-made all-butter puff pastry
+    raw: 2 sheets ready-made all-butter puff pastry
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 2
+    unit: tsp
+    name: sesame seeds
+    raw: 2 teaspoons sesame seeds
+  - name: tomato sauce
+    raw: Tomato sauce
+  - name: bbq sauce
+    raw: BBQ sauce

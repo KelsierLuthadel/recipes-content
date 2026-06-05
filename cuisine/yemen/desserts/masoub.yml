@@ -1,0 +1,72 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - butter
+  - cream
+  - honey
+  - nuts
+mentions:
+  - baking/banana-bread
+  - cuisine/israel/side-dishes/challah
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: bananas
+    raw: 4 large very ripe bananas
+  - qty: 200
+    unit: g
+    name: yemeni khubz
+    raw: 200 g Yemeni khubz
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml warm whole milk
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 120
+    unit: g
+    name: honey
+    raw: 120 g honey
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: Pinch of saffron threads
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: ½ teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: Pinch of fine sea salt
+  - name: honey
+    raw: Extra honey for drizzling
+  - qty: 60
+    unit: g
+    name: pitted medjool dates
+    raw: 60 g pitted Medjool dates
+  - qty: 40
+    unit: g
+    name: toasted almonds
+    raw: 40 g toasted almonds
+  - qty: 30
+    unit: g
+    name: toasted pistachios
+    raw: 30 g toasted pistachios
+  - qty: 2
+    unit: tbsp
+    name: rose petals
+    raw: 2 tablespoons crushed dried rose petals

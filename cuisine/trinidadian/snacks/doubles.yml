@@ -1,0 +1,195 @@
+prep: 35 minutes (plus 2 hours for the bara dough to rise)
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - make-ahead
+  - onion
+  - garlic
+  - ginger
+  - lime
+  - coriander
+  - butter
+  - chickpea
+  - chili
+  - complex
+mentions:
+  - sauces/sauce-fish/tamarind-sauce
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1.5
+    unit: tsp
+    name: turmeric
+    raw: 1 ½ teaspoons ground turmeric
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 280
+    unit: ml
+    name: water
+    raw: 280 ml warm water
+  - name: vegetable oil
+    raw: Vegetable oil for frying
+  - qty: 400
+    unit: g
+    name: chickpeas ; or 2 large cans cooked chickpeas
+    raw: 400 g dried chickpeas ; or 2 large cans cooked chickpeas
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 1
+    name: scotch bonnet pepper
+    raw: 1 small Scotch bonnet pepper
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon ground coriander
+  - qty: 1
+    unit: tbsp
+    name: turmeric
+    raw: 1 tablespoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 teaspoon garam masala
+  - qty: 1
+    unit: tsp
+    name: fenugreek
+    raw: 1 teaspoon ground fenugreek
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander
+  - qty: 1
+    name: shadon beni or coriander
+    raw: 1 large bunch shadon beni or coriander
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: scotch bonnet pepper
+    raw: 1 small Scotch bonnet pepper
+  - qty: 3
+    unit: tbsp
+    name: lime juice
+    raw: 3 tablespoons fresh lime juice
+  - qty: 3
+    unit: tbsp
+    name: water
+    raw: 3 tablespoons water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 60
+    unit: g
+    name: tamarind paste
+    raw: 60 g tamarind paste
+  - qty: 40
+    unit: g
+    name: brown sugar
+    raw: 40 g brown sugar
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 80 ml water
+  - qty: 0.5
+    name: scotch bonnet pepper
+    raw: ½ small Scotch bonnet pepper
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 1
+    name: mango
+    raw: 1 ripe mango
+  - qty: 30
+    unit: g
+    name: caster sugar
+    raw: 30 g caster sugar
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 1
+    name: scotch bonnet pepper
+    raw: 1 small Scotch bonnet pepper
+  - qty: 0.25
+    unit: tsp
+    name: cumin
+    raw: ¼ teaspoon ground cumin
+  - qty: 4
+    name: scotch bonnet peppers
+    raw: 4 Scotch bonnet peppers
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: lime juice
+    raw: 4 tablespoons fresh lime juice
+  - qty: 100
+    unit: ml
+    name: white vinegar
+    raw: 100 ml white vinegar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 teaspoon sugar

@@ -1,0 +1,103 @@
+prep: 30 minutes (plus 30 minutes marination)
+cook: 10 minutes
+allergens:
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - butter
+  - chili
+  - complex
+mentions:
+  - cuisine/mozambique/side-dishes/arroz-de-coco
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 16
+    name: prawns
+    raw: 16 large fresh prawns
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 4
+    name: red chillies
+    raw: 4 fresh red chillies
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons fresh lemon juice
+  - name: zest of 2 lemons
+    raw: Zest of 2 lemons
+  - qty: 2
+    unit: tbsp
+    name: smoked paprika
+    raw: 2 tablespoons smoked paprika
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 4
+    unit: tbsp
+    name: piri-piri sauce
+    raw: 4 tablespoons piri-piri sauce
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: piri-piri sauce
+    raw: 2 tablespoons piri-piri sauce
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice
+  - qty: 1
+    unit: tbsp
+    name: parsley
+    raw: 1 tablespoon fresh parsley
+  - name: arroz blanco or arroz de coco
+    raw: Arroz blanco or arroz de coco
+  - name: salada mozambicana
+    raw: Salada Mozambicana
+  - name: crispy chips/fries
+    raw: Crispy chips/fries
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: coriander
+    raw: Fresh coriander
+  - name: piri-piri sauce
+    raw: Extra piri-piri sauce

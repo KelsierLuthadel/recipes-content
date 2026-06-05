@@ -1,0 +1,85 @@
+prep: 45 minutes (plus overnight resting)
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - coconut
+  - butter
+  - cream
+  - complex
+mentions:
+  - cuisine/australian/desserts/anzac-biscuit
+ingredients:
+  - qty: 250
+    unit: g
+    name: unsalted butter
+    raw: 250 g unsalted butter
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 2
+    unit: tsp
+    name: vanilla extract
+    raw: 2 teaspoons vanilla extract
+  - qty: 300
+    unit: g
+    name: self-raising flour
+    raw: 300 g self-raising flour
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml milk
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 500
+    unit: g
+    name: icing sugar
+    raw: 500 g icing sugar
+  - qty: 50
+    unit: g
+    name: cocoa powder
+    raw: 50 g cocoa powder
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml hot water
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 300
+    unit: g
+    name: desiccated coconut
+    raw: 300 g desiccated coconut
+  - qty: 200
+    unit: ml
+    name: whipping cream
+    raw: 200 ml whipping cream
+  - qty: 2
+    unit: tbsp
+    name: icing sugar
+    raw: 2 tablespoons icing sugar
+  - qty: 100
+    unit: g
+    name: raspberry jam
+    raw: 100 g raspberry jam

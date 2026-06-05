@@ -1,0 +1,102 @@
+prep: 25 minutes (plus 30 minutes chilling)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - beef
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - lemon
+  - butter
+  - cream
+  - complex
+mentions:
+  - cuisine/german/snacks/frikadellen
+  - cuisine/persian/kotlet
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 800
+    unit: g
+    name: beef
+    raw: 800 g minced beef
+  - qty: 100
+    unit: g
+    name: day-old white bread
+    raw: 100 g day-old white bread
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml whole milk
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 2
+    unit: tbsp
+    name: dill
+    raw: 2 tablespoons fresh dill
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons fresh parsley
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: sweet paprika
+    raw: ½ teaspoon ground sweet paprika
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 150
+    unit: g
+    name: breadcrumbs
+    raw: 150 g fine dried breadcrumbs
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: bowl of sour cream
+    raw: A small bowl of sour cream
+  - name: dill
+    raw: Extra fresh dill
+  - name: mashed potato
+    raw: Mashed potato
+  - name: buckwheat kasha
+    raw: Buckwheat kasha
+  - name: simple salad of sliced cucumber
+    raw: A simple salad of sliced cucumber, tomato and red onion with a vinegar dressing

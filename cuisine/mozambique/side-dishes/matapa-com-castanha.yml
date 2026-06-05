@@ -1,0 +1,101 @@
+prep: 25 minutes
+cook: 1 hour
+allergens:
+  - dairy
+  - tree-nuts
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - meat
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coconut
+  - spinach
+  - lemon
+  - coriander
+  - nuts
+  - chili
+  - complex
+mentions:
+  - cuisine/mozambique/matata
+  - cuisine/mozambique/side-dishes/arroz-de-coco
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: cassava leaves
+    raw: 500 g cassava leaves
+  - qty: 200
+    unit: g
+    name: roasted unsalted cashews
+    raw: 200 g roasted unsalted cashews
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons warm water
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 1
+    name: red chilli
+    raw: 1 fresh red chilli
+  - qty: 2
+    name: tomatoes
+    raw: 2 medium tomatoes
+  - qty: 1
+    name: coconut milk
+    raw: 1 tin coconut milk
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml hot water
+  - qty: 30
+    unit: g
+    name: shrimp
+    raw: 30 g dried small shrimp
+  - qty: 2
+    unit: tbsp
+    name: fish sauce or worcestershire sauce
+    raw: 2 tablespoons fish sauce or Worcestershire sauce
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice
+  - name: roasted cashews
+    raw: Extra crushed roasted cashews

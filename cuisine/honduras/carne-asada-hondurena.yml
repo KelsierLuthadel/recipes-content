@@ -1,0 +1,136 @@
+prep: 25 minutes (plus 4 hours marinating)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/honduras/side-dishes/frijoles-fritos
+  - cuisine/honduras/side-dishes/tajadas
+  - cuisine/mexican/carne-asada
+  - drinks/classic/lemonade
+  - drinks/fruit/fresh-orange-juice
+  - drinks/regional/mexico/horchata
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: flank steak or skirt steak
+    raw: 1.2 kg flank steak or skirt steak
+  - qty: 120
+    unit: ml
+    name: lime juice
+    raw: 120 ml fresh lime juice
+  - qty: 120
+    unit: ml
+    name: orange juice
+    raw: 120 ml fresh orange juice
+  - qty: 6
+    unit: tbsp
+    name: olive oil
+    raw: 6 tablespoons olive oil
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1.5
+    unit: tsp
+    name: black pepper
+    raw: 1 ½ teaspoons ground black pepper
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1
+    name: white onion
+    raw: 1 large white onion
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: 1 small handful fresh coriander
+  - qty: 1
+    name: jalapeno or serrano chilli
+    raw: 1 fresh jalapeño or serrano chilli
+  - qty: 4
+    name: tomatoes
+    raw: 4 large ripe tomatoes
+  - qty: 1
+    name: white onion
+    raw: 1 large white onion
+  - qty: 1
+    name: green pepper
+    raw: 1 medium green pepper
+  - qty: 1
+    name: chilli
+    raw: 1 small fresh chilli
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - name: juice of 2 limes
+    raw: Juice of 2 limes
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - name: warm corn tortillas
+    raw: Warm corn tortillas
+  - name: fried plantains
+    raw: Fried plantains
+  - name: arroz blanco
+    raw: Arroz blanco
+  - name: frijoles fritos
+    raw: Frijoles fritos
+  - name: queso fresco or feta
+    raw: Queso fresco or feta
+  - name: avocado
+    raw: Sliced avocado
+  - name: lime wedges
+    raw: Lime wedges
+  - name: green salad
+    raw: Fresh green salad

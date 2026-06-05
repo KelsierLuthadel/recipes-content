@@ -1,0 +1,96 @@
+prep: 20 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - sides
+  - eggs
+  - onion
+  - garlic
+  - lemon
+  - cheese
+  - yogurt
+  - complex
+mentions:
+  - cuisine/turkish/side-dishes/ezme
+  - drinks/regional/turkey/ayran
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 700
+    unit: g
+    name: courgette
+    raw: 700 g courgette
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 200
+    unit: g
+    name: feta cheese
+    raw: 200 g feta cheese
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    name: dill
+    raw: 1 large bunch fresh dill
+  - qty: 1
+    name: mint
+    raw: 1 small bunch fresh mint
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 0.5
+    unit: tsp
+    name: aleppo pepper
+    raw: ½ teaspoon Aleppo pepper
+  - qty: 80
+    unit: ml
+    name: olive oil
+    raw: 80 ml olive oil
+  - qty: 300
+    unit: g
+    name: greek-style yogurt
+    raw: 300 g thick Greek-style yogurt
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - name: mint or aleppo pepper
+    raw: Sprinkle of dried mint or Aleppo pepper
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: dill and mint
+    raw: Extra fresh dill and mint
+  - name: sumac
+    raw: Sprinkle of sumac

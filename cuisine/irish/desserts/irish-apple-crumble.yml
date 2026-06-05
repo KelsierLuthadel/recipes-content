@@ -1,0 +1,94 @@
+prep: 20 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - lemon
+  - butter
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: bramley apples
+    raw: 1 kg Bramley apples
+  - qty: 80
+    unit: g
+    name: light brown sugar
+    raw: 80 g light brown sugar
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - qty: 3
+    unit: tbsp
+    name: water
+    raw: 3 tablespoons water
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 30
+    unit: g
+    name: sultanas or raisins
+    raw: 30 g sultanas or raisins
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 150
+    unit: g
+    name: rolled oats
+    raw: 150 g rolled oats
+  - qty: 150
+    unit: g
+    name: unsalted butter
+    raw: 150 g unsalted butter
+  - qty: 100
+    unit: g
+    name: light brown sugar
+    raw: 100 g light brown sugar
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 50
+    unit: g
+    name: almonds or hazelnuts
+    raw: 50 g chopped almonds or hazelnuts
+  - name: hot custard
+    raw: Hot custard
+  - name: or thick cream
+    raw: Or thick cream
+  - name: or vanilla ice cream
+    raw: Or vanilla ice cream

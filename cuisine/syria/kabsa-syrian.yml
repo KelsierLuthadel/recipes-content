@@ -1,0 +1,184 @@
+prep: 25 minutes (plus 30 minutes chicken marination)
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - lime
+  - coriander
+  - butter
+  - yogurt
+  - nuts
+  - complex
+mentions:
+  - cuisine/arabian/kabsa
+  - cuisine/yemen/mandi
+  - drinks/regional/turkey/ayran
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: chicken
+    raw: 1 whole chicken
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 500
+    unit: g
+    name: basmati rice
+    raw: 500 g basmati rice
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 3
+    name: tomatoes ; or 1 can of chopped tomatoes
+    raw: 3 medium tomatoes ; or 1 can of chopped tomatoes
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tablespoons tomato paste
+  - qty: 2
+    name: black limes
+    raw: 2 dried black limes
+  - qty: 4
+    name: cardamom pods
+    raw: 4 cardamom pods
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 whole cloves
+  - qty: 3
+    name: bay leaves
+    raw: 3 bay leaves
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: ½ teaspoon ground turmeric
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1.2
+    unit: l
+    name: chicken stock
+    raw: 1.2 litres hot chicken stock
+  - qty: 80
+    unit: g
+    name: blanched almonds
+    raw: 80 g blanched almonds
+  - qty: 40
+    unit: g
+    name: pine nuts
+    raw: 40 g pine nuts
+  - qty: 30
+    unit: g
+    name: raisins or sultanas
+    raw: 30 g raisins or sultanas
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 1
+    name: parsley
+    raw: 1 large bunch fresh parsley
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 300
+    unit: g
+    name: greek-style yogurt
+    raw: 300 g thick Greek-style yogurt
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt

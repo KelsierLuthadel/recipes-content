@@ -13,7 +13,8 @@ tags:
   - potato
   - carrot
   - complex
-mentions: []
+mentions:
+  - cuisine/russian/pelmeni
 ingredients:
   - qty: 3
     name: beetroots

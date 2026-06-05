@@ -1,0 +1,127 @@
+prep: 1 hour
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - beef
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - yogurt
+  - complex
+mentions:
+  - cuisine/lebanese/warak-enab
+  - drinks/classic/lemonade
+  - drinks/regional/turkey/ayran
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: brined grape vine leaves
+    raw: 1 large jar brined grape vine leaves
+  - qty: 200
+    unit: g
+    name: short-grain rice
+    raw: 200 g short-grain rice
+  - qty: 300
+    unit: g
+    name: lamb
+    raw: 300 g minced lamb
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 3
+    name: tomatoes
+    raw: 3 medium tomatoes
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 large bunch fresh flat-leaf parsley
+  - qty: 1
+    name: mint
+    raw: 1 small bunch fresh mint
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 3
+    unit: tbsp
+    name: lemon juice
+    raw: 3 tablespoons fresh lemon juice
+  - qty: 1
+    unit: tbsp
+    name: pomegranate molasses
+    raw: 1 tablespoon pomegranate molasses
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: levantine baharat
+    raw: 1 tablespoon Levantine baharat
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: aleppo pepper or sweet paprika
+    raw: 1 teaspoon Aleppo pepper or sweet paprika
+  - qty: 8
+    name: lamb chops
+    raw: 8 lamb chops
+  - qty: 2
+    name: tomatoes
+    raw: 2 medium tomatoes
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml hot water
+  - qty: 100
+    unit: ml
+    name: lemon juice
+    raw: 100 ml fresh lemon juice
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - name: yogurt-and-garlic sauce
+    raw: Yogurt-and-garlic sauce
+  - name: lemon wedges
+    raw: Fresh lemon wedges

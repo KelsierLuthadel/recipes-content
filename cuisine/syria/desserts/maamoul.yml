@@ -1,0 +1,120 @@
+prep: 1 hour 30 minutes (plus 4 hours dough rest)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - butter
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: semolina
+    raw: 500 g fine semolina
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 300
+    unit: g
+    name: unsalted butter
+    raw: 300 g unsalted butter
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: mahleb
+    raw: ½ teaspoon mahleb
+  - qty: 1
+    unit: tsp
+    name: anise seed
+    raw: 1 teaspoon ground anise seed
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: orange blossom water
+    raw: 2 tablespoons orange blossom water
+  - qty: 2
+    unit: tbsp
+    name: rose water
+    raw: 2 tablespoons rose water
+  - qty: 90
+    unit: ml
+    name: milk
+    raw: 80-100 ml warm milk
+  - qty: 350
+    unit: g
+    name: pitted medjool dates
+    raw: 350 g pitted Medjool dates
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 1
+    unit: tbsp
+    name: orange blossom water
+    raw: 1 tablespoon orange blossom water
+  - qty: 250
+    unit: g
+    name: shelled walnuts
+    raw: 250 g shelled walnuts
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 2
+    unit: tbsp
+    name: rose water
+    raw: 2 tablespoons rose water
+  - qty: 1
+    unit: tbsp
+    name: orange blossom water
+    raw: 1 tablespoon orange blossom water
+  - qty: 250
+    unit: g
+    name: shelled pistachios
+    raw: 250 g shelled pistachios
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 2
+    unit: tbsp
+    name: rose water
+    raw: 2 tablespoons rose water
+  - qty: 1
+    unit: tbsp
+    name: orange blossom water
+    raw: 1 tablespoon orange blossom water
+  - qty: 150
+    unit: g
+    name: icing sugar
+    raw: 150 g icing sugar
