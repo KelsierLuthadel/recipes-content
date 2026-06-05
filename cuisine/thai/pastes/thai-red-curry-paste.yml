@@ -17,7 +17,8 @@ tags:
   - coriander
   - chili
   - curry
-mentions: []
+mentions:
+  - cuisine/thai/prik-king
 ingredients:
   - qty: 1
     name: cumin seeds

@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Here is another Thai starter you might think belongs in a Japanese cookbook. However, once you try these crisp prawns (shrimp) dipped into Thai seafood dipping sauce or sweet chilli sauce, you’ll find them to be 100% Thai. As in the photograph, you can fry veggies in the same way to make a tempura feast!
+Tempura garlic prawns look at first like they belong in a Japanese cookbook, but the Thai version is its own dish: a light tempura batter spiked with garlic powder, prawns dipped through and fried pale gold, then dunked into Thai seafood dipping sauce or sweet chilli sauce. The technique is borrowed but the dipping sauce makes it. The same batter works on cut vegetables (sweet potato, courgette, mange tout, mushroom) for a tempura feast if you want to scale up. Score the underside of each prawn in three places and bend gently to straighten so they don't curl when fried; straight prawns dip easier and cook more evenly. Sift plain flour and rice flour into a wide bowl and whisk in ice-cold sparkling water, a beaten egg, salt and garlic powder; the batter will be quite runny, almost like single cream, which is exactly what you want for a crisp coating. Heat 10 cm of oil in a wok to 170 to 180°C (drop a spoonful of batter in to test; it should sizzle and rise immediately). Holding each prawn by the tail, dip into the batter, shake off the excess, and lower into the hot oil four or five at a time so the temperature stays steady. Fry for around two minutes till crisp and pale gold, lift onto kitchen paper to drain, and serve immediately with Thai seafood dipping sauce or sweet chilli sauce alongside.
 
 ## Ingredients
 

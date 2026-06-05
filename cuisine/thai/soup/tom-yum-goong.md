@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Authentic Thai hot and sour soup with prawns in a fragrant, spicy broth made from prawn shells, tamarind, and lime. The balance of sweet, sour, salty, and spicy flavors defines this classic dish.
+Tom yum goong is Thailand's signature hot-and-sour prawn soup, the iconic bowl that defines the four-note Thai flavour balance (hot, sour, salty, and a quiet sweetness) in a single clear broth thick with whole prawns, lemongrass, galangal and kaffir lime. The defining technique here is the prawn-shell stock; peel and devein the prawns first, leave the tails on and reserve every head and shell, fry them in a tablespoon of oil for five minutes till they turn bright orange and smell of the sea. Add tom yum paste and a splash of water to deglaze for five minutes, then top up to two litres with more water and simmer for 20 minutes till the broth tastes deeply of prawn. Strain back into a clean pan, discarding the spent shells, then return to the heat with tamarind purée for sourness, ground turmeric for warmth and colour, chopped fresh red chillies, and finely shredded kaffir lime leaves; simmer two minutes so the aromatics infuse. Slide the prawns in and cook five minutes till they turn pink and just curl, then off the heat with fish sauce, lime juice and a couple of teaspoons of palm sugar to balance. Taste and adjust the four notes till the soup sits sharp and bright on the tongue, scatter fresh coriander leaves across the top and serve immediately while the prawns are still tender.
 
 ## Ingredients
 

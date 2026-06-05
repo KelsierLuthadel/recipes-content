@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-When making stocks for Asian dishes, it is important to use Asian ingredients. Chicken stock is used as a base for dishes in so many cuisines. Using a Western-style chicken stock or, even worse, chicken stock cubes to cook Thai recipes just won’t do, as the flavours will be wrong. This simple Thai stock will get you the flavour you need for your Thai dishes.
+This is the Thai chicken stock that gives soups, curries and braises the right backbone, chicken bones simmered slow with lemongrass, galangal, kaffir lime leaves, smashed garlic and fresh coriander roots. The Asian aromatics are what separate this from a Western stock; using French-style mirepoix or a stock cube under a Thai curry gives a muddled result, no matter how good the rest of the recipe is. Drop 1 ½ kg of meaty chicken bones into a large saucepan with two litres of cold water and bring slowly to a steady simmer, skimming the grey foam off the top until the liquid runs clear. Add the aromatics (chopped coriander stalks, a roughly chopped onion, smashed garlic cloves, sliced and lightly bashed galangal, a bruised lemongrass stalk, white peppercorns) and let the lot simmer gently for two hours, topping up with hot water if it reduces too far. Don't let it boil hard; gentle bubbling keeps the broth clear and the aromatics bright. Strain through a fine sieve into a clean pot, discarding the spent bones and aromatics, then cool quickly in an ice bath before transferring to lidded containers. Use within three days in the fridge or freeze in portion-sized tubs for months; pork bones added alongside the chicken give a richer Thai-Chinese hybrid stock that's worth trying once.
 
 ## Ingredients
 ### Protein

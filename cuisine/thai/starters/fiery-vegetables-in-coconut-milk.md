@@ -9,7 +9,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-A vibrant Thai curry celebrating fresh vegetables in a spiced coconut broth. Eight chillies may seem intense, but the creamy coconut milk tempers the heat into a balanced, complex warmth. The vegetables remain crisp-tender, and the holy basil adds an authentic finishing touch. Fragrant, colorful, and deeply satisfying.
+Tom kati pak is the Thai vegetable curry that's all about the chilli, eight fresh red chillies pounded with lemongrass and kaffir lime into a fiery paste, fried briefly in oil, then loosened with coconut milk and finished with crisp-tender mixed vegetables and a final flurry of holy basil. The eight chillies sound dramatic but the coconut milk pacifies the palate, leaving behind a complex warmth rather than a hot tongue. Cut aubergine, baby corn, mange tout, asparagus, squash and green beans into pieces roughly matched in size and thickness so they cook evenly under the short cook time. Pound the deseeded chillies with chopped lemongrass and torn kaffir lime leaves in a mortar to a coarse paste, then heat vegetable oil in a wok and stir-fry the paste for two or three minutes till intensely aromatic and the oil turns red. Pour in coconut milk and bring to a steady boil, then add the vegetables and cook for about five minutes till crisp-tender (not soft; the texture is half the dish). Season with fish sauce and a pinch of salt if needed, taste and balance the heat against the coconut richness. Spoon onto warm plates, scatter holy basil leaves across the top (the peppery clove-like note is unmistakable; ordinary basil mixed with mint is the second-best substitute), and serve with jasmine rice or rice noodles for soaking up the spiced coconut broth.
 
 ## Ingredients
 - 75 grams aubergines

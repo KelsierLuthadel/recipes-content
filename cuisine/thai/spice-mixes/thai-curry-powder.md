@@ -11,7 +11,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-I always have some of this homemade curry powder to hand. It’s slightly different to the curry powder I featured in my Indian cookbooks and it’s a good all-rounder. Thai food has many influences, including Indian, so a few of the recipes in this book call for curry powder. If you want to make your own, you’ll get great results with this.
+Thai curry powder is the spice-mix shortcut that shows up in yellow curry, dipping sauces and a handful of stir-fries; the Indian influence on Thai cooking comes through in the turmeric, coriander, cumin and cinnamon, while fennel, star anise, fenugreek, cassia leaves and Kashmiri chillies tilt the mix back toward South-East Asia. Keep a small jar of it in the pantry alongside the curry pastes; it lifts a quick weeknight stir-fry the way a Thai brand jar never quite does. Toast all the whole spices (coriander, cumin, peppercorns, fennel, mustard, cinnamon, cassia leaves, fenugreek, star anise, cardamom and dried Kashmiri chillies if using) in a dry frying pan over medium-high heat, moving them around constantly so they roast evenly, till they're warm to the touch and intensely fragrant but not yet smoking. Burnt spices turn bitter and ruin the whole jar, so pull them the moment they smell properly toasted. Tip onto a plate to cool, then grind to a fine powder in a spice grinder or with patience in a mortar. Stir in the ground turmeric, optional hot chilli powder, garlic powder and onion powder till evenly mixed. Store in an airtight jar in a cool dark cupboard and use within two months while the volatile aromatics are still vivid; the powder fades noticeably after that.
 
 ## Ingredients
 ### Whole spices
