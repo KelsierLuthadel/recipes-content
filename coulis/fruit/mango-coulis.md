@@ -9,7 +9,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-A luxurious, silky mango sauce infused with delicate saffron and brightened by fresh lemon. The golden color and exotic flavor pair beautifully with light desserts like meringues, ice cream, or fruit salads. Elegant enough for fine dining yet simple enough for everyday elegance.
+Mango coulis with saffron is the building block for floating-island desserts and any plated dessert that wants a golden silk pour underneath: ripe mango blitzed smooth with lemon and a light sirop à sorbet, then laced with saffron-infused syrup so the colour deepens to a richer amber and the flavour picks up that faint honeyed perfume the threads carry. Mango ripeness is the whole game. Fragrant, soft, just past firm is the target; an unripe mango makes a thin pale-tasting sauce and no amount of saffron will rescue it. Dice the flesh straight into a blender with the lemon juice and all but two tablespoons of the syrup, blitz for two full minutes till velvety, then push through a fine-meshed sieve into a bowl to strip out any fibre. Meanwhile warm the reserved two tablespoons of syrup gently in a small pan with a pinch of saffron threads and pull it off the heat the moment it's hot enough to steam; the threads need warmth to bloom and release their colour, but boiling them dulls the perfume. Let the syrup cool completely (don't tip warm saffron into the cold purée or it'll smear rather than infuse evenly), then stir it through the coulis and chill for at least two hours so the flavours marry. Serve well chilled with soft poached meringues for île flottante done the tropical way, or over panna cotta, vanilla ice cream or a simple fruit salad.
 
 ## Ingredients
 - 250 grams mango (diced)

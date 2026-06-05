@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-Crème d'amande is a smooth, nutty cream that showcases the natural flavors of ground almonds combined with butter and eggs. This versatile cream provides richness and subtle almond undertones to pastries and tarts. Its straightforward preparation and elegant flavor make it a valued component in both classic and contemporary pastry work.
+Crème d'amande is the building block for frangipane tarts, pithivier fillings, almond croissants and any pastry that wants a smooth nutty cream filling that bakes to a tender almost cake-like layer inside the pastry case. It's a quick beaten cream rather than a custard, so there's no cooking till you bake it: just very soft butter, tant pour tant (equal parts ground almonds and icing sugar sifted together), a touch of flour, eggs and a dash of rum. The butter has to be properly soft. Spreadable, not melted, not oily; cold butter beats into hard lumps that never disperse evenly and the cream will be grainy. Beat the soft butter with a paddle or spatula till loose and pale, then beat in the tant pour tant and flour till smooth, then the eggs one at a time, waiting till each is fully absorbed before adding the next; the mixture goes from a thick paste to a smooth pale-yellow cream over a few minutes of beating. Stir in the rum at the end (Grand Marnier, kirsch or amaretto are good swaps). Use the cream straight away to fill a tart case, top a poached pear in a pithivier, or layer inside a pain aux amandes, then bake; the cream sets to a golden tender layer that's almost cake-like in texture. Keeps four days refrigerated or freezes a month; bring to room temperature and re-beat briefly to loosen if it stiffens up.
 
 ## Ingredients
 - 250 grams butter

@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-A luxurious warm sauce combining fresh orange juice reduced to concentrate with silky butter. The result is glossy, bright, and intensely citrus, the perfect foil to rich desserts, chocolate, or delicate pastries. Restaurant-quality elegance in minutes.
+Orange butter sauce is the building block for crêpes Suzette, warm plum tarts, chocolate soufflés and any dessert that wants a glossy intensely citrus pour over the top, and it goes together in about fifteen minutes. It's effectively a fruit-juice beurre blanc: reduce fresh orange juice with icing sugar to concentrate the flavour, then whisk in soft butter off the heat for a silky emulsion. Fresh juice matters more here than anywhere else (bottled juice is flat and dull, and a sauce this short can't carry it), so squeeze six oranges and strain the juice through a conical sieve into a heavy-based pan with the icing sugar. Bring it slowly to the boil, then let it bubble over medium for several minutes till it reduces by half and turns syrupy enough to coat the back of a spoon. Turn the heat off (residual heat alone will carry the butter in; live heat splits the emulsion), then whisk in 125 g of softened butter a small piece at a time, only adding the next once the last has melted into the syrup. The sauce thickens and turns glossy as it goes. Serve at room temperature, or barely warm; if it cools too much it tightens, but a touch of fresh orange juice loosens it back. A few drops of Grand Marnier whisked in at the end adds a warming spice note that lifts the whole thing.
 
 ## Ingredients
 - 6 oranges (juice)

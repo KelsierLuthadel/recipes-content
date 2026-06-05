@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-This vinaigrette skips traditional vinegar in favor of fresh lemon juice paired with mint. The result is exceptionally light and fresh, perfect for delicate greens. Minimal cooking at its finest; just whisk together quality ingredients. Mint leaves are scattered on top just before serving, preserving fresh aromatics.
+Lemon and mint vinaigrette is the building block for delicate spring and summer salads: a bright, almost translucent dressing that uses fresh lemon juice instead of vinegar so the acidity stays clean and citrus-led rather than fermented and sharp. The whole thing comes together in five minutes; the work is in choosing the right ingredients. Use juicy lemons (the kind that give 3 to 4 tablespoons of juice between two of them) and zest them on a microplane before you cut them in half (the oils in the zest carry more lemon character than the juice itself, and you want the visible flecks of yellow on the salad). Tip the juice into a small bowl with a tablespoon of zest, a pinch of salt and a pinch of pepper, whisk for a minute to dissolve, then stream the groundnut oil in slowly while whisking constantly till the dressing emulsifies into a single pale-yellow pour. Taste on a torn lettuce leaf and adjust. Now the mint trick: snip the leaves with scissors only at the moment of serving and scatter them whole over the dressed salad rather than whisking them into the bowl. Whisking bruises mint and turns it dark and grassy; lifted in whole leaves it stays bright and aromatic on top of the dish. Use light, on tender greens like watercress, baby spinach, spring lettuces and young arugula, where a heavier vinaigrette would crush the leaves.
 
 ## Ingredients
 

@@ -9,7 +9,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-A fresh, herbaceous garden sauce featuring smooth cucumber purée infused with chilli, parsley, and sage, finished with silky olive oil. This elegant savory coulis is surprisingly versatile, working beautifully with delicate fish, cold dishes, or as a sophisticated finishing sauce. Light yet flavorful.
+Cucumber coulis is the building block for cold plates and cold-fish presentations: a pale-green herbaceous pour with the cool clean flavour of cucumber underneath a quiet kick of red chilli, parsley and sage, finished into something almost cream-textured by olive oil. The trick is to strip the cucumber of its watery bits before blending. Peel it, cut it in half lengthways, and scrape out the seeds with a teaspoon; without that step the seeds bleed water into the sauce as it sits and you end up with a thin diluted coulis rather than the velvety one you're after. Chop the cucumber into chunks straight into a blender, add the deseeded diced chilli (half a chilli first if you're unsure, you can always add more) and blitz for a full minute till mostly smooth. Drop in the roughly chopped parsley and sage and blitz another minute to break the herbs down, then pour the olive oil and a generous squeeze of lemon through the open hopper while the blade keeps running and let it run a further two minutes till the whole thing turns almost creamy. The olive oil is doing real work here; it's what creates the silky body of the sauce, so don't skimp. Taste, adjust the salt, pepper and lemon, then chill and serve over poached salmon, smoked salmon, cold omelettes, pasta salads, or as a pale-green slick under chilled summer fish.
 
 ## Ingredients
 - 1 cucumber (medium)

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A tropical, creamy dessert sauce featuring caramelized sugar, velvety banana purée, and a hint of rum. Perfect drizzled over fruit compotes, ice cream, or pastries. The balance of sweetness, slight bitterness from caramel, and warmth of rum makes this sauce unexpectedly sophisticated despite its simplicity.
+Banana sauce is the building block for tropical and Caribbean-leaning desserts, a smooth pourable sauce that ties pale caramel, blended banana, crème fraîche and white rum into something that drapes itself over ice cream, exotic fruit salads or a slice of pastry and instantly makes the plate feel finished. Two banana details set the tone. Toss the sliced fruit with lemon juice the second it's peeled (banana browns the moment air hits it, and brown banana makes a grey-tinted sauce no matter what you do later), and cook the sugar only to a pale caramel; take it any deeper and the bitter caramel notes overshadow the soft fruit. Dissolve the sugar in 150 ml of water in a heavy-bottomed pan over low heat, then bring it up to a boil and cook it just to that pale gold stage. Take it off the heat (this stops the caramel running away into bitterness) and stir in the lemon-tossed banana, crème fraîche, white rum and milk with a spatula. Return it to medium heat and let it bubble gently for around 20 minutes, stirring often, till the banana breaks down and the sauce thickens to coat-the-spoon. Cool slightly, then blitz in a blender for a full minute and push through a fine sieve to strip out any banana fibre; that final straining is what turns a homemade sauce into a restaurant one. Chill and serve from cold over warm fruits or ice cream.
 
 ## Ingredients
 - 2 bananas (medium)

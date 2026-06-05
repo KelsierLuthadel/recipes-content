@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-A jewel-toned berry sauce featuring fresh blackberries blended with Kirsch and light sugar syrup. The tart, fruity coulis is elegant enough for fine dining yet simple enough for everyday desserts. Perfect for creating stunning plated presentations with vibrant color and bright berry flavor.
+Blackberry coulis is the building block that gives a plated dessert its dramatic dark-purple slick: ripe blackberries blitzed with a light sirop à sorbet, a slug of Kirsch, and a squeeze of lemon to keep the fruit lifted. There's almost nothing to it; the work is all in the ingredients and the strain. Tip the blackberries into a blender with the syrup, kirsch and lemon juice and blitz for a full minute till the fruit collapses into a deep glossy purée, then push the whole thing through a fine-meshed conical sieve with the back of a spoon to leave the seeds behind. The seeds matter: leave them in and every spoonful crunches, strain them out and you get the smooth velvety pour that paints a clean stripe across a white plate. Use ripe in-season fruit for the colour (a peak-summer blackberry will give you that jewel-tone purple; pale berries make a thin pinkish sauce), and the kirsch is the secret note that turns the whole thing from a fruit purée into a coulis with a faint warming top-note. The sirop à sorbet is non-negotiable for the right balance of sweetness and pour; if you have to substitute, use equal parts sugar and water cooked to a light syrup and cooled. Chill before serving over poached pears, vanilla ice cream, parfaits or an ice bombe, and freezes well for up to two months.
 
 ## Ingredients
 - 450 grams blackberries
