@@ -1,0 +1,77 @@
+prep: 30 minutes (plus 2 hours chilling)
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - nuts
+  - complex
+mentions:
+  - drinks/regional/austria/wiener-melange
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 200
+    unit: g
+    name: hazelnuts
+    raw: 200 g ground hazelnuts
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.25
+    unit: tsp
+    name: cloves
+    raw: ¼ teaspoon ground cloves
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: 1 pinch fine sea salt
+  - qty: 2
+    name: egg yolks
+    raw: 2 large egg yolks
+  - qty: 1
+    unit: tbsp
+    name: dark rum
+    raw: 1 tablespoon dark rum
+  - qty: 350
+    unit: g
+    name: redcurrant jam
+    raw: 350 g redcurrant jam
+  - qty: 2
+    unit: tbsp
+    name: rum or warm water
+    raw: 2 tablespoons rum or warm water
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 20
+    unit: g
+    name: butter
+    raw: 20 g butter
+  - name: icing sugar
+    raw: Icing sugar
+  - name: whipped cream
+    raw: Whipped cream

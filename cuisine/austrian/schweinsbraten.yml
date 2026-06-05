@@ -1,0 +1,69 @@
+prep: 30 minutes
+cook: 3 hours
+allergens:
+  - gluten
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - carrot
+  - complex
+mentions:
+  - cuisine/austrian/side-dishes/semmelknoedel
+ingredients:
+  - qty: 2
+    unit: kg
+    name: pork shoulder
+    raw: 2 kg pork shoulder
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tablespoons coarse sea salt
+  - qty: 1.5
+    unit: tbsp
+    name: caraway seeds
+    raw: 1 ½ tablespoons caraway seeds
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tsp
+    name: black pepper
+    raw: 2 teaspoons freshly ground black pepper
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 2
+    name: carrots
+    raw: 2 large carrots
+  - qty: 1
+    name: celeriac or 2 stalks celery
+    raw: 1 small celeriac or 2 stalks celery
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 500
+    unit: ml
+    name: austrian lager
+    raw: 500 ml Austrian lager
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 2
+    unit: tsp
+    name: sweet paprika
+    raw: 2 teaspoons sweet paprika
+  - name: sea salt and pepper
+    raw: Sea salt and pepper to taste

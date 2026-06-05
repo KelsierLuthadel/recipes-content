@@ -1,0 +1,67 @@
+prep: 20 minutes (plus 30 minutes resting)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - eggs
+  - onion
+  - butter
+mentions:
+  - cuisine/austrian/austrian-goulash
+  - cuisine/austrian/schweinsbraten
+  - cuisine/austrian/tafelspitz
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: stale white rolls
+    raw: 300 g stale white rolls
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 4 tablespoons flat-leaf parsley
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 0.25
+    unit: tsp
+    name: white pepper
+    raw: ¼ teaspoon white pepper
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: 1 pinch freshly grated nutmeg
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 5
+    unit: tbsp
+    name: plain flour
+    raw: 4-6 tablespoons plain flour
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 1
+    unit: tbsp
+    name: sea salt
+    raw: 1 tablespoon fine sea salt

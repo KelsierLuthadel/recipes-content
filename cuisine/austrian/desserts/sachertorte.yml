@@ -1,0 +1,75 @@
+prep: 45 minutes
+cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cream
+  - chocolate
+mentions: []
+ingredients:
+  - qty: 150
+    unit: g
+    name: dark chocolate
+    raw: 150 g dark chocolate
+  - qty: 150
+    unit: g
+    name: unsalted butter
+    raw: 150 g unsalted butter
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 6
+    name: eggs
+    raw: 6 large eggs
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 g plain flour
+  - qty: 250
+    unit: g
+    name: apricot jam
+    raw: 250 g good-quality apricot jam
+  - qty: 2
+    unit: tbsp
+    name: rum
+    raw: 2 tablespoons rum
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 175
+    unit: ml
+    name: water
+    raw: 175 ml water
+  - qty: 200
+    unit: g
+    name: dark chocolate
+    raw: 200 g dark chocolate
+  - qty: 20
+    unit: g
+    name: butter
+    raw: 20 g butter
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream

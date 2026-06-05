@@ -1,0 +1,56 @@
+prep: 25 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - eggs
+  - potato
+  - butter
+mentions:
+  - cuisine/austrian/side-dishes/semmelknoedel
+  - tutorials/pizza/cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 800
+    unit: g
+    name: floury potatoes
+    raw: 800 g floury potatoes
+  - qty: 80
+    unit: g
+    name: semolina
+    raw: 80 g semolina
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: 1 pinch freshly grated nutmeg
+  - qty: 3
+    name: stale white bread
+    raw: 3 slices stale white bread
+  - qty: 40
+    unit: g
+    name: butter
+    raw: 40 g butter
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 1
+    unit: tbsp
+    name: sea salt
+    raw: 1 tablespoon fine sea salt

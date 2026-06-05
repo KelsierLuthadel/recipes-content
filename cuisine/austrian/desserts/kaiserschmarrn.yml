@@ -1,0 +1,62 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+mentions:
+  - sauces/fruit-sauce/apple-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 0.5
+    name: lemon
+    raw: ½ lemon
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 g plain flour
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: 1 pinch fine sea salt
+  - qty: 60
+    unit: g
+    name: raisins
+    raw: 60 g raisins
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g butter
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 30
+    unit: g
+    name: icing sugar
+    raw: 30 g icing sugar
+  - qty: 400
+    unit: g
+    name: stewed plums
+    raw: 400 g stewed plums

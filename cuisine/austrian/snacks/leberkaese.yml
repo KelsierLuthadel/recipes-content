@@ -1,0 +1,80 @@
+prep: 25 minutes (plus 4 hours chilling)
+cook: 1 hour
+allergens:
+  - dairy
+  - meat
+  - mustard
+tags:
+  - gluten-free
+  - snack
+  - make-ahead
+  - meat
+  - onion
+  - coriander
+  - butter
+  - complex
+mentions:
+  - cuisine/american/meatloaf
+  - drinks/regional/austria/almdudler
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g beef
+  - qty: 500
+    unit: g
+    name: pork shoulder
+    raw: 500 g pork shoulder
+  - qty: 200
+    unit: g
+    name: ice
+    raw: 200 g crushed ice
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1.5
+    unit: tsp
+    name: sweet paprika
+    raw: 1 ½ teaspoons sweet paprika
+  - qty: 1
+    unit: tsp
+    name: marjoram
+    raw: 1 teaspoon dried marjoram
+  - qty: 0.5
+    unit: tsp
+    name: mace
+    raw: ½ teaspoon ground mace
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon white pepper
+  - qty: 0.25
+    unit: tsp
+    name: coriander
+    raw: ¼ teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: curing salt
+    raw: 1 ½ teaspoons curing salt
+  - qty: 20
+    unit: g
+    name: butter
+    raw: 20 g butter
+  - qty: 8
+    name: kaiser rolls
+    raw: 8 fresh kaiser rolls
+  - name: austrian sweet mustard
+    raw: Austrian sweet mustard
+  - name: pickled gherkins
+    raw: Pickled gherkins, sliced
+  - name: onion
+    raw: Sliced raw onion

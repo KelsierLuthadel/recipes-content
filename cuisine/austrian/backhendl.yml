@@ -1,0 +1,52 @@
+prep: 30 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - potato
+  - lemon
+  - butter
+mentions:
+  - cuisine/austrian/side-dishes/erdaepfelsalat
+  - cuisine/german/wiener-schnitzel
+ingredients:
+  - qty: 1
+    name: free-range chicken
+    raw: 1 whole free-range chicken
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon white pepper
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 200
+    unit: g
+    name: white breadcrumbs
+    raw: 200 g fresh white breadcrumbs
+  - qty: 250
+    unit: g
+    name: clarified butter
+    raw: 250 g clarified butter
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - name: flaky sea salt
+    raw: Flaky sea salt
+  - name: erdapfelsalat
+    raw: Erdäpfelsalat

@@ -1,0 +1,67 @@
+prep: 15 minutes (plus 2 hours chilling)
+cook: 0 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - mustard
+tags:
+  - vegetarian
+  - snack
+  - make-ahead
+  - onion
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/cheese
+ingredients:
+  - qty: 250
+    unit: g
+    name: brimsen sheep's milk cheese
+    raw: 250 g Brimsen sheep's milk cheese
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 1.5
+    unit: tbsp
+    name: sweet hungarian paprika
+    raw: 1 ½ tablespoons sweet Hungarian paprika
+  - qty: 1.5
+    unit: tsp
+    name: dijon mustard
+    raw: 1 ½ teaspoons Dijon mustard
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tablespoons small capers
+  - qty: 2
+    name: anchovy fillets
+    raw: 2 anchovy fillets
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 teaspoon caraway seeds
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon freshly ground black pepper
+  - qty: 1
+    unit: tsp
+    name: chives
+    raw: 1 teaspoon chopped fresh chives
+  - qty: 1
+    name: loaf fresh dark rye bread
+    raw: 1 loaf fresh dark rye bread
+  - name: radishes
+    raw: Sliced radishes
+  - name: pickled silverskin onions
+    raw: Pickled silverskin onions

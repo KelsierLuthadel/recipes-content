@@ -1,0 +1,60 @@
+prep: 25 minutes
+cook: 20 minutes
+allergens:
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - sides
+  - meat
+  - onion
+  - potato
+mentions:
+  - cuisine/austrian/backhendl
+  - cuisine/german/wiener-schnitzel
+ingredients:
+  - qty: 800
+    unit: g
+    name: waxy potatoes
+    raw: 800 g waxy potatoes
+  - qty: 1
+    unit: tbsp
+    name: sea salt
+    raw: 1 tablespoon fine sea salt
+  - qty: 250
+    unit: ml
+    name: beef stock
+    raw: 250 ml hot beef stock
+  - qty: 3
+    unit: tbsp
+    name: cider vinegar
+    raw: 3 tablespoons cider vinegar
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon freshly ground black pepper
+  - qty: 3
+    unit: tbsp
+    name: pumpkin seed oil
+    raw: 3 tablespoons pumpkin seed oil
+  - qty: 2
+    unit: tbsp
+    name: chives
+    raw: 2 tablespoons chopped chives
+  - name: pumpkin seed oil to drizzle on top
+    raw: Extra pumpkin seed oil to drizzle on top
