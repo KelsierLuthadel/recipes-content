@@ -64,9 +64,9 @@ Thirteen recipes, one shape, every country an opinion.
 - [Tijuana Hot Dog](../cuisine/mexican/snacks/tijuana-hot-dog.md)
 - [Perro Caliente Colombiano](../cuisine/colombian/snacks/perro-caliente-colombiano.md)
 - [Completo](../cuisine/chilean/side-dishes/completo.md)
-- [Cachorro Quente Brasileiro](../cuisine/south-american/snacks/cachorro-quente-brasileiro.md)
+- [Cachorro Quente Brasileiro](../cuisine/brazilian/snacks/cachorro-quente-brasileiro.md)
 - [Argentine Chorizo Hot Dog (Choripán)](../cuisine/south-american/snacks/argentine-chimichurri-dog.md)
-- [Salchipapas (Peru)](../cuisine/south-american/snacks/salchipapas.md)
+- [Salchipapas (Peru)](../cuisine/peruvian/snacks/salchipapas.md)
 - [Shucos (Guatemala)](../cuisine/south-american/snacks/shucos.md)
 
 ### Europe
