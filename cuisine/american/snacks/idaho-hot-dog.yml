@@ -1,0 +1,65 @@
+prep: 15 minutes
+cook: 1 hour 20 minutes (mostly potato bake)
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - snack
+  - hot-dog
+  - meat
+  - beef
+  - pork
+  - onion
+  - potato
+  - butter
+  - cream
+  - cheese
+  - complex
+mentions:
+  - cuisine/american/pulled-pork
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: russet baking potatoes
+    raw: 4 large russet baking potatoes
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons coarse salt
+  - qty: 4
+    name: all-beef or pork-and-beef frankfurters
+    raw: 4 all-beef or pork-and-beef frankfurters
+  - qty: 200
+    unit: g
+    name: streaky bacon
+    raw: 200 g streaky bacon
+  - qty: 1
+    name: chives ; or 4 spring onions
+    raw: 1 small bunch chives ; or 4 spring onions
+  - qty: 200
+    unit: ml
+    name: sour cream
+    raw: 200 ml sour cream
+  - qty: 200
+    unit: g
+    name: shredded sharp cheddar
+    raw: 200 g shredded sharp cheddar
+  - qty: 4
+    unit: tbsp
+    name: butter
+    raw: 4 tablespoons butter
+  - name: salt and ground black pepper
+    raw: Salt and ground black pepper
+  - name: "optional: chopped fresh dill"
+    raw: "Optional: chopped fresh dill, chopped pickled jalapeños"
+  - name: knife and fork
+    raw: Knife and fork
+  - name: beer or a glass of milk
+    raw: A cold beer or a glass of milk
+  - name: side of pickled vegetables
+    raw: Side of pickled vegetables

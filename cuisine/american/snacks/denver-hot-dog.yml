@@ -1,0 +1,110 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - snack
+  - hot-dog
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - cream
+  - chili
+  - complex
+mentions:
+  - cuisine/american/pulled-pork
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 400
+    unit: g
+    name: pork
+    raw: 400 g ground pork
+  - qty: 500
+    unit: g
+    name: roasted hatch green chillies
+    raw: 500 g roasted Hatch green chillies
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 3
+    unit: tbsp
+    name: plain flour
+    raw: 3 tablespoons plain flour
+  - qty: 800
+    unit: ml
+    name: chicken stock
+    raw: 800 ml chicken stock
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1
+    unit: tsp
+    name: cayenne
+    raw: 1 teaspoon cayenne
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 4
+    name: all-beef frankfurters
+    raw: 4 all-beef frankfurters
+  - qty: 4
+    name: soft hot dog buns
+    raw: 4 soft hot dog buns
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 200
+    unit: ml
+    name: sour cream
+    raw: 200 ml sour cream
+  - qty: 2
+    name: jalapenos or 100 g pickled jalapeno rings
+    raw: 2 fresh jalapeños OR 100 g pickled jalapeño rings
+  - name: yellow mustard
+    raw: Yellow mustard
+  - name: coriander
+    raw: Fresh chopped coriander
+  - name: cold coors or a colorado ipa
+    raw: A cold Coors or a Colorado IPA
+  - name: crinkle fries
+    raw: Crinkle fries
+  - name: tortilla chips on the side
+    raw: Tortilla chips on the side

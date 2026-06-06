@@ -3,7 +3,8 @@ name: Shavuot
 image: resources/shavuot.jpg
 tagline: The dairy festival. Cheesecake, blintzes, cheese-stuffed everything. The Jewish holiday that treats butter and milk as the point of the meal.
 publishedAt: 2026-05-20
-seasonalrange: 05-15..06-15
+displayFrom: 2026-05-14
+displayUntil: 2026-05-23
 kind: religious
 origin: Jewish tradition
 ---

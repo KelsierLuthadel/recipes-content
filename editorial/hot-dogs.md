@@ -38,13 +38,23 @@ Thirteen recipes, one shape, every country an opinion.
 ## Recipes
 
 ### USA (Regional)
-- [Chicago Hot Dog](../cuisine/american/snacks/chicago-hot-dog.md)
-- [Coney Island Hot Dog](../cuisine/american/snacks/coney-island-hot-dog.md)
-- [Seattle Hot Dog](../cuisine/american/snacks/seattle-hot-dog.md)
-- [New York Hot Dog](../cuisine/new-york/snacks/ny-hot-dog.md)
+- [Baltimore Hot Dog](../cuisine/american/snacks/baltimore-hot-dog.md)
 - [Bagel Dog](../cuisine/new-york/snacks/bagel-dog.md)
 - [Carolina Hot Dog](../cuisine/southern/snacks/carolina-hot-dog.md)
+- [Chicago Hot Dog](../cuisine/american/snacks/chicago-hot-dog.md)
+- [Cleveland Hot Dog](../cuisine/american/snacks/cleveland-hot-dog.md)
+- [Coney Island Hot Dog](../cuisine/american/snacks/coney-island-hot-dog.md)
+- [Denver Hot Dog](../cuisine/american/snacks/denver-hot-dog.md)
+- [Dodger Dog](../cuisine/american/snacks/dodger-dog.md)
+- [Hawaiian Hot Dog](../cuisine/american/snacks/hawaiian-hot-dog.md)
+- [Idaho Hot Dog](../cuisine/american/snacks/idaho-hot-dog.md)
+- [Italian Hot Dog (Newark Style)](../cuisine/american/snacks/italian-hot-dog.md)
+- [Kansas City Hot Dog](../cuisine/american/snacks/kansas-city-hot-dog.md)
 - [Memphis BBQ Hot Dog](../cuisine/tennessee/snacks/memphis-hot-dog.md)
+- [New York Hot Dog](../cuisine/new-york/snacks/ny-hot-dog.md)
+- [Plattsburgh Michigan Hot Dog](../cuisine/american/snacks/plattsburgh-michigan-dog.md)
+- [Potato Dog](../cuisine/american/snacks/potato-dog.md)
+- [Seattle Hot Dog](../cuisine/american/snacks/seattle-hot-dog.md)
 - [Sonoran Hot Dog](../cuisine/southwest/sonoran-hot-dog.md)
 
 ### Latin America

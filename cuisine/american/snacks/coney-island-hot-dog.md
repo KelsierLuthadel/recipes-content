@@ -2,7 +2,7 @@
 
 ![Coney Island Hot Dog](resources/coney-island-hot-dog.jpg)
 
-*The Midwestern-Greek-American chili dog: a small natural-casing frankfurter in a steamed bun, topped with a finely-textured beef "Coney sauce" (a smooth chili-sauce-not-quite-chili made with ground beef, beef heart, tomato, cumin, cinnamon and chilli powder), a stripe of yellow mustard, a heap of finely chopped white onion. The Detroit, Flint and Cincinnati institution — confusingly named after Coney Island, NY, but actually a Michigan dish.*
+*The Midwestern-Greek-American chili dog: a small natural-casing frankfurter in a steamed bun, topped with a finely-textured beef "Coney sauce" (a smooth chili-sauce-not-quite-chili made with ground beef, beef heart, tomato, cumin, cinnamon and chilli powder), a stripe of yellow mustard, a heap of finely chopped white onion. The Detroit, Flint and Cincinnati institution - confusingly named after Coney Island, NY, but actually a Michigan dish.*
 
 **Serves:** 4
 
@@ -78,7 +78,7 @@ The Coney Island hot dog is one of America's most regionally proud and naming-co
 
 ### Stage 7 - Serve immediately
 1. With crinkle fries and a cold soda.
-2. The proper Detroit order is "two with everything" — eaten standing at the counter.
+2. The proper Detroit order is "two with everything" - eaten standing at the counter.
 
 ## Notes
 - **Coney sauce is finely textured, not chunky chili:** the meat must be very finely broken up. Some Detroit cooks pass it through a food mill.

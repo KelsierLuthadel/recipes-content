@@ -1,0 +1,72 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+  - meat
+  - mustard
+tags:
+  - quick
+  - snack
+  - hot-dog
+  - meat
+  - beef
+  - onion
+  - butter
+  - cheese
+  - complex
+mentions:
+  - cuisine/new-york/reuben-sandwich
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: all-beef natural-casing frankfurters
+    raw: 4 all-beef natural-casing frankfurters
+  - qty: 4
+    name: sesame seed hot dog buns
+    raw: 4 sesame seed hot dog buns
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 400
+    unit: g
+    name: sauerkraut
+    raw: 400 g sauerkraut
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 teaspoon caraway seeds
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 4
+    name: swiss cheese
+    raw: 4 slices Swiss cheese
+  - name: brown mustard
+    raw: Spicy brown mustard
+  - name: thousand-island dressing
+    raw: Thousand-island dressing
+  - qty: 4
+    unit: tbsp
+    name: thousand-island dressing
+    raw: 4 tablespoons thousand-island dressing
+  - name: chives
+    raw: Chopped fresh chives
+  - name: caraway seeds
+    raw: Caraway seeds for sprinkling
+  - name: crinkle-cut fries
+    raw: Crinkle-cut fries
+  - name: boulevard wheat beer
+    raw: A cold Boulevard wheat beer
+  - name: dill pickle spears
+    raw: Dill pickle spears

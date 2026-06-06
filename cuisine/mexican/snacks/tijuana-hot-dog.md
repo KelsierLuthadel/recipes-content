@@ -89,7 +89,7 @@ The Tijuana hot dog (also called Tijuana-style dog or "el perro tijuanense") is 
 
 ## Notes
 - **Bacon-wrapped, grilled hard:** the bacon must be crisp; not flabby.
-- **Peppers + onions cooked on the flat-top:** they take on the bacon fat — that's the canonical street-cart flavour.
+- **Peppers + onions cooked on the flat-top:** they take on the bacon fat - that's the canonical street-cart flavour.
 - **Three sauces (mayo + ketchup + mustard):** the canonical street trio.
 - **Small soft bun:** Tijuana buns are smaller than American; choose accordingly.
 

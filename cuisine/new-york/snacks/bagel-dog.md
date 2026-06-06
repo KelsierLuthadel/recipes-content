@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The bagel dog is a New York City fusion creation that bridges the city's two most iconic carbs (the NY-style bagel and the street-cart hot dog) and shows up in delis, bagel shops and bodegas across the city: an all-beef frankfurter (Vienna or Sabrett brand; the canonical NY street-cart dog) tightly wrapped in a strip of yeasted bagel dough (the proper New York bagel formula — high-protein bread flour, malt syrup, sugar, salt, yeast, water — kneaded firm and rested overnight for the chew), briefly boiled in water sweetened with malt syrup (the canonical bagel poach that gives the shiny crust), then topped with a generous coat of everything-bagel seasoning (sesame seeds + poppy seeds + dried garlic + dried onion + sea salt) and baked till the dough turns deep mahogany golden and the seasoning crisps. Served warm with yellow mustard for dipping. The dish demonstrates the New York fusion sensibility: take two perfect things, smash them together, serve as street food. Three details: proper bagel dough (yeasted, malt-rich, overnight rest if possible), brief boil before bake (the canonical NY bagel technique), generous everything seasoning.
+The bagel dog is a New York City fusion creation that bridges the city's two most iconic carbs (the NY-style bagel and the street-cart hot dog) and shows up in delis, bagel shops and bodegas across the city: an all-beef frankfurter (Vienna or Sabrett brand; the canonical NY street-cart dog) tightly wrapped in a strip of yeasted bagel dough (the proper New York bagel formula - high-protein bread flour, malt syrup, sugar, salt, yeast, water - kneaded firm and rested overnight for the chew), briefly boiled in water sweetened with malt syrup (the canonical bagel poach that gives the shiny crust), then topped with a generous coat of everything-bagel seasoning (sesame seeds + poppy seeds + dried garlic + dried onion + sea salt) and baked till the dough turns deep mahogany golden and the seasoning crisps. Served warm with yellow mustard for dipping. The dish demonstrates the New York fusion sensibility: take two perfect things, smash them together, serve as street food. Three details: proper bagel dough (yeasted, malt-rich, overnight rest if possible), brief boil before bake (the canonical NY bagel technique), generous everything seasoning.
 
 ## Ingredients
 
@@ -53,7 +53,7 @@ The bagel dog is a New York City fusion creation that bridges the city's two mos
 ### Stage 1 - Make bagel dough
 1. In a stand mixer with the dough hook, combine flour, salt, brown sugar.
 2. In a separate jug, whisk warm water, malt syrup, yeast and olive oil.
-3. Add wet to dry; knead 8-10 minutes till smooth and elastic (the dough should be firm — bagel dough is much firmer than bread dough).
+3. Add wet to dry; knead 8-10 minutes till smooth and elastic (the dough should be firm - bagel dough is much firmer than bread dough).
 
 ### Stage 2 - First rise
 1. Place dough in a lightly oiled bowl; cover; rise 1-1.5 hours in a warm spot till doubled.

@@ -1,0 +1,56 @@
+prep: 25 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - snack
+  - hot-dog
+  - meat
+  - beef
+  - onion
+  - potato
+mentions: []
+ingredients:
+  - qty: 4
+    name: natural-casing all-beef hot dogs
+    raw: 4 large natural-casing all-beef hot dogs
+  - qty: 2
+    name: rounds italian pizza bread
+    raw: 2 rounds Italian pizza bread , halved through the middle
+  - name: "or substitute: 4 half-rounds of soft italian focaccia"
+    raw: "Or substitute: 4 half-rounds of soft Italian focaccia, similar size, hollowed out"
+  - qty: 2
+    name: potatoes
+    raw: 2 medium potatoes
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - qty: 4
+    unit: tbsp
+    name: yellow mustard
+    raw: 4 tablespoons yellow mustard
+  - qty: 4
+    unit: tbsp
+    name: ketchup
+    raw: 4 tablespoons ketchup
+  - name: salt
+    raw: Salt
+  - name: black pepper
+    raw: Black pepper
+  - name: beer
+    raw: Cold beer
+  - name: side of pickled hot peppers on the side
+    raw: A side of pickled hot peppers on the side
+  - name: napkins
+    raw: Napkins

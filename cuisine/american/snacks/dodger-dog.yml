@@ -1,0 +1,50 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - peanuts
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - snack
+  - hot-dog
+  - meat
+  - beef
+  - pork
+  - onion
+  - nuts
+mentions:
+  - cuisine/mexican/snacks/salsa-roja
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: footlong all-pork or beef-and-pork frankfurters
+    raw: 4 footlong all-pork or beef-and-pork frankfurters
+  - qty: 4
+    name: footlong soft hot dog buns
+    raw: 4 footlong soft hot dog buns
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - name: yellow mustard
+    raw: Yellow mustard
+  - name: ketchup
+    raw: Ketchup
+  - qty: 1
+    name: white onion
+    raw: 1 medium white onion
+  - qty: 6
+    unit: tbsp
+    name: sweet pickle relish
+    raw: 6 tablespoons sweet pickle relish
+  - name: crinkle-cut fries or peanuts
+    raw: Crinkle-cut fries or peanuts
+  - name: beer or soda
+    raw: Cold beer or soda
+  - name: baseball game on the television
+    raw: A baseball game on the television

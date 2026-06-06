@@ -1,0 +1,102 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - snack
+  - hot-dog
+  - meat
+  - beef
+  - onion
+  - garlic
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g ground beef
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 1
+    name: tomato sauce
+    raw: 1 tin tomato sauce
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1.5
+    unit: tbsp
+    name: chilli powder
+    raw: 1 ½ tablespoons mild chilli powder
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: white vinegar
+    raw: 1 tablespoon white vinegar
+  - qty: 1
+    unit: tsp
+    name: brown sugar
+    raw: 1 teaspoon brown sugar
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 4
+    name: all-beef natural-casing frankfurters
+    raw: 4 small all-beef natural-casing frankfurters
+  - qty: 4
+    name: new england-style top-split hot dog buns
+    raw: 4 New England-style top-split hot dog buns
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter
+  - qty: 1
+    name: white onion
+    raw: 1 medium white onion
+  - name: yellow mustard
+    raw: Yellow mustard
+  - name: crinkle-cut fries
+    raw: Crinkle-cut fries
+  - name: cold can of soda
+    raw: A cold can of soda

@@ -1,0 +1,51 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - shellfish
+  - meat
+  - mustard
+tags:
+  - gluten-free
+  - quick
+  - snack
+  - hot-dog
+  - meat
+  - fish
+  - beef
+  - pork
+  - onion
+  - potato
+  - butter
+mentions:
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: standard all-beef or pork-and-beef frankfurters
+    raw: 4 standard all-beef or pork-and-beef frankfurters
+  - qty: 4
+    name: bologna
+    raw: 4 thick slices of bologna
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter
+  - qty: 4
+    name: soft white hot dog buns
+    raw: 4 soft white hot dog buns
+  - name: yellow mustard
+    raw: Yellow mustard
+  - name: sweet pickle relish
+    raw: Sweet pickle relish
+  - name: onion
+    raw: Chopped raw onion
+  - name: cold natty boh
+    raw: A cold Natty Boh
+  - name: crab chips on the side
+    raw: Crab chips on the side
+  - name: dill pickle spear
+    raw: Dill pickle spear
