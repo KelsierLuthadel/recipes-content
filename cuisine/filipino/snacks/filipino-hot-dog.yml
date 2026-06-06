@@ -1,0 +1,101 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - snack
+  - hot-dog
+  - meat
+  - beef
+  - pork
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - butter
+  - complex
+mentions:
+  - cuisine/filipino/side-dishes/atchara
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: filipino red hot dogs
+    raw: 4 Filipino red hot dogs
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 800
+    unit: g
+    name: rice
+    raw: 800 g cooked rice
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter
+  - name: salt and pepper
+    raw: Salt and pepper
+  - qty: 200
+    unit: ml
+    name: "tomato ketchup or if you can find it: bottled filipino banana ketchup"
+    raw: "200 ml tomato ketchup OR if you can find it: bottled Filipino banana ketchup"
+  - qty: 1
+    name: banana
+    raw: 1 ripe banana
+  - qty: 2
+    unit: tbsp
+    name: brown sugar
+    raw: 2 tablespoons brown sugar
+  - qty: 2
+    unit: tbsp
+    name: white vinegar
+    raw: 2 tablespoons white vinegar
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 2
+    unit: drop
+    name: red food colouring
+    raw: 2 drops red food colouring
+  - name: lemon or calamansi wedge
+    raw: Lemon or calamansi wedge
+  - name: cold coke or san miguel beer
+    raw: Cold Coke or San Miguel beer
+  - name: tomato or sliced atchara
+    raw: Sliced fresh tomato or sliced atchara

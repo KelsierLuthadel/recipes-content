@@ -1,0 +1,100 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - quick
+  - meals
+  - hot-dog
+  - meat
+  - pork
+  - garlic
+  - tomato
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/italian/pesto
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: long bratwurst or frankfurter-style sausages
+    raw: 4 long bratwurst or frankfurter-style sausages
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 4
+    name: long soft white sub rolls or hoagie rolls
+    raw: 4 long soft white sub rolls or hoagie rolls
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: tomatoes
+    raw: 1 small tin chopped tomatoes
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: basil
+    raw: ½ teaspoon dried basil
+  - qty: 300
+    unit: g
+    name: shredded low-moisture mozzarella
+    raw: 300 g shredded low-moisture mozzarella
+  - qty: 50
+    unit: g
+    name: parmesan
+    raw: 50 g grated Parmesan
+  - qty: 80
+    unit: g
+    name: pepperoni slices
+    raw: 80 g pepperoni slices
+  - qty: 50
+    unit: g
+    name: black olives
+    raw: 50 g sliced black olives
+  - qty: 2
+    unit: tbsp
+    name: basil
+    raw: 2 tablespoons fresh basil
+  - name: chilli flakes
+    raw: A sprinkle of dried chilli flakes
+  - name: cold heineken or amstel
+    raw: A cold Heineken or Amstel
+  - name: frites on the side with mayonnaise
+    raw: Frites on the side with mayonnaise
+  - name: pickled vegetables on the side
+    raw: Sliced pickled vegetables on the side

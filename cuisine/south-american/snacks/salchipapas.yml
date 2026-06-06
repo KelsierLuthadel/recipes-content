@@ -1,0 +1,87 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - snack
+  - hot-dog
+  - meat
+  - beef
+  - pork
+  - garlic
+  - potato
+  - lime
+  - coriander
+  - cheese
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 6
+    name: long hot dogs
+    raw: 6 long hot dogs
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    unit: kg
+    name: starchy potatoes
+    raw: 1 kg starchy potatoes
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 4
+    name: aji amarillo chillies
+    raw: 4 ají amarillo chillies
+  - qty: 1
+    name: cilantro
+    raw: 1 large bunch fresh cilantro
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 80
+    unit: g
+    name: queso fresco
+    raw: 80 g queso fresco
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tablespoons mayonnaise
+  - name: juice of 2 limes
+    raw: Juice of 2 limes
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - name: ketchup
+    raw: Ketchup
+  - name: yellow mustard
+    raw: Yellow mustard
+  - name: mayonnaise
+    raw: Mayonnaise
+  - name: cold cusquena or pilsen callao
+    raw: A cold Cusqueña or Pilsen Callao
+  - name: or an inca kola
+    raw: Or an Inca Kola
+  - name: limes for squeezing
+    raw: Limes for squeezing
+  - name: aji rocoto chillies for those who want extra heat
+    raw: Sliced ají rocoto chillies for those who want extra heat

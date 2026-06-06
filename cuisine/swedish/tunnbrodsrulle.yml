@@ -1,0 +1,105 @@
+prep: 30 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - shellfish
+  - meat
+  - mustard
+tags:
+  - gluten-free
+  - meals
+  - hot-dog
+  - meat
+  - fish
+  - beef
+  - pork
+  - prawn
+  - onion
+  - potato
+  - lemon
+  - butter
+  - cream
+  - complex
+mentions:
+  - cuisine/azerbaijan/side-dishes/lavash
+  - drinks/hot/mulled-wine
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: long swedish-style varmkorv
+    raw: 4 long Swedish-style varmkorv
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 4
+    name: round tunnbrod
+    raw: 4 large round tunnbröd
+  - qty: 800
+    unit: g
+    name: floury potatoes
+    raw: 800 g floury potatoes
+  - qty: 80
+    unit: g
+    name: butter
+    raw: 80 g butter
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - qty: 200
+    unit: g
+    name: cold-water shrimps
+    raw: 200 g cooked small cold-water shrimps
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tablespoons mayonnaise
+  - qty: 2
+    unit: tbsp
+    name: sour cream or creme fraiche
+    raw: 2 tablespoons sour cream or crème fraîche
+  - qty: 1
+    unit: tbsp
+    name: dill
+    raw: 1 tablespoon dill
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - name: juice of ½ lemon
+    raw: Juice of ½ lemon
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 0.25
+    unit: tsp
+    name: white pepper
+    raw: ¼ teaspoon ground white pepper
+  - qty: 1
+    name: head lettuce
+    raw: 1 small head lettuce
+  - qty: 0.5
+    name: cucumber
+    raw: ½ cucumber
+  - qty: 6
+    unit: tbsp
+    name: crispy fried onions
+    raw: 6 tablespoons crispy fried onions
+  - name: yellow mustard
+    raw: Yellow mustard
+  - name: ketchup
+    raw: Ketchup
+  - name: swedish beer
+    raw: A cold Swedish beer
+  - name: or a swedish glogg
+    raw: Or a Swedish glögg

@@ -1,0 +1,52 @@
+prep: 10 minutes
+cook: 8 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+tags:
+  - gluten-free
+  - quick
+  - meals
+  - hot-dog
+  - meat
+  - beef
+  - onion
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: standard all-beef frankfurters
+    raw: 4 standard all-beef frankfurters
+  - qty: 4
+    name: new england-style top-split hot-dog buns
+    raw: 4 New England-style top-split hot-dog buns
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 4
+    unit: tbsp
+    name: yellow mustard
+    raw: 4 tablespoons yellow mustard
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion
+  - qty: 200
+    unit: g
+    name: white cabbage
+    raw: 200 g white cabbage
+  - qty: 4
+    unit: tbsp
+    name: sweet pickle relish
+    raw: 4 tablespoons sweet pickle relish
+  - name: poutine
+    raw: Poutine
+  - name: or french fries with a side of mayo or vinegar
+    raw: Or French fries with a side of mayo or vinegar
+  - name: cold molson canadian or boreale beer
+    raw: A cold Molson Canadian or Boréale beer
+  - name: pepsi cola
+    raw: A vintage Pepsi cola

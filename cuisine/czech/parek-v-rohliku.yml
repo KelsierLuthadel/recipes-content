@@ -1,0 +1,43 @@
+prep: 10 minutes
+cook: 8 minutes
+allergens:
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - hot-dog
+  - meat
+  - beef
+  - pork
+  - onion
+mentions: []
+ingredients:
+  - qty: 4
+    name: long mild parek-style sausages
+    raw: 4 long mild párek-style sausages
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres water
+  - qty: 4
+    name: long crusty czech rohlik rolls
+    raw: 4 long crusty Czech rohlík rolls
+  - qty: 6
+    unit: tbsp
+    name: brown mustard or czech mustard
+    raw: 6 tablespoons spicy brown mustard or Czech mustard
+  - qty: 6
+    unit: tbsp
+    name: tomato ketchup
+    raw: 6 tablespoons tomato ketchup
+  - name: "optional: 2 tablespoons mayonnaise"
+    raw: "Optional: 2 tablespoons mayonnaise"
+  - name: fried onions or chopped raw onion on top
+    raw: A sprinkle of fried onions or chopped raw onion on top
+  - name: czech beer
+    raw: A cold Czech beer
+  - name: pickled gherkin
+    raw: A pickled gherkin

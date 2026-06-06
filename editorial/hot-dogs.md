@@ -57,11 +57,30 @@ Thirteen recipes, one shape, every country an opinion.
 - [Seattle Hot Dog](../cuisine/american/snacks/seattle-hot-dog.md)
 - [Sonoran Hot Dog](../cuisine/southwest/sonoran-hot-dog.md)
 
+### Canada
+- [Montreal All-Dressed Hot Dog](../cuisine/canadian/montreal-all-dressed-dog.md)
+
 ### Latin America
 - [Tijuana Hot Dog](../cuisine/mexican/snacks/tijuana-hot-dog.md)
 - [Perro Caliente Colombiano](../cuisine/colombian/snacks/perro-caliente-colombiano.md)
 - [Completo](../cuisine/chilean/side-dishes/completo.md)
+- [Cachorro Quente Brasileiro](../cuisine/south-american/snacks/cachorro-quente-brasileiro.md)
+- [Argentine Chorizo Hot Dog (Choripán)](../cuisine/south-american/snacks/argentine-chimichurri-dog.md)
+- [Salchipapas (Peru)](../cuisine/south-american/snacks/salchipapas.md)
+- [Shucos (Guatemala)](../cuisine/south-american/snacks/shucos.md)
+
+### Europe
+- [Currywurst (Germany)](../cuisine/german/snacks/currywurst.md)
+- [French Baguette Hot Dog](../cuisine/french/snacks/french-baguette-dog.md)
+- [Danish Hot Dog "Med Det Hele"](../cuisine/danish/hot-dog-med-det-hele.md)
+- [Tunnbrödsrulle (Sweden)](../cuisine/swedish/tunnbrodsrulle.md)
+- [Pølse i Lompe (Norway)](../cuisine/norwegian/polse-i-lompe.md)
+- [Párek v Rohlíku (Czechia)](../cuisine/czech/parek-v-rohliku.md)
+- [Amsterdam Pizza Dog](../cuisine/dutch/amsterdam-pizza-dog.md)
 
 ### Asia
+- [Filipino Hot Dog](../cuisine/filipino/snacks/filipino-hot-dog.md)
+- [Banh Mi Hot Dog (Vietnam)](../cuisine/vietnamese/snacks/banh-mi-hot-dog.md)
+- [Chinese Sesame Hot Dog Bun](../cuisine/chinese/snacks/chinese-sesame-hot-dog.md)
 - [Japadog](../cuisine/japanese/snacks/japadog.md)
 - [Gamja Hot Dog (Korean Corn Dog)](../cuisine/korean/snacks/gamja-hot-dog.md)

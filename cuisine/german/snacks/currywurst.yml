@@ -1,0 +1,95 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - meat
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - hot-dog
+  - meat
+  - pork
+  - onion
+  - ginger
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: ml
+    name: ketchup
+    raw: 200 ml ketchup
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    unit: tbsp
+    name: curry powder
+    raw: 2 tablespoons mild curry powder
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 2
+    unit: tbsp
+    name: apple cider vinegar
+    raw: 2 tablespoons apple cider vinegar
+  - qty: 1
+    unit: tbsp
+    name: brown sugar
+    raw: 1 tablespoon brown sugar
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: ginger
+    raw: ½ teaspoon ground ginger
+  - qty: 0.5
+    unit: tsp
+    name: cayenne
+    raw: ½ teaspoon cayenne
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 4
+    name: quality bratwurst sausages
+    raw: 4 quality bratwurst sausages
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 2
+    unit: tbsp
+    name: curry powder
+    raw: 2 tablespoons mild curry powder
+  - name: sweet paprika
+    raw: Sweet paprika
+  - qty: 600
+    unit: g
+    name: hand-cut pommes frites or thick-cut chips
+    raw: 600 g hand-cut pommes frites or thick-cut chips
+  - qty: 4
+    name: soft white bread
+    raw: 4 slices soft white bread
+  - name: mayonnaise
+    raw: Mayonnaise
+  - name: cold german pilsner
+    raw: Cold German pilsner

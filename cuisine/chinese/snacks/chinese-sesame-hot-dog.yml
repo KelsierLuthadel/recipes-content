@@ -1,0 +1,79 @@
+prep: 30 minutes (plus 1.5 hours dough rise)
+cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - soy
+  - sesame
+  - mustard
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - make-ahead
+  - asian
+  - hot-dog
+  - eggs
+  - butter
+  - cheese
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    name: instant yeast
+    raw: 1 sachet instant yeast
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 240
+    unit: ml
+    name: milk
+    raw: 240 ml warm milk
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g butter
+  - qty: 8
+    name: standard hot dogs
+    raw: 8 standard hot dogs
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 3
+    unit: tbsp
+    name: white sesame seeds
+    raw: 3 tablespoons white sesame seeds
+  - qty: 1
+    unit: tbsp
+    name: black sesame seeds
+    raw: 1 tablespoon black sesame seeds
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tablespoons mayonnaise
+  - qty: 100
+    unit: g
+    name: cheddar
+    raw: 100 g grated mild cheddar
+  - name: yellow mustard or chilli sauce for dipping
+    raw: Yellow mustard or chilli sauce for dipping
+  - name: soy milk or chinese tea
+    raw: Hot soy milk or Chinese tea
+  - name: or a glass of cold milk
+    raw: Or a glass of cold milk

@@ -1,0 +1,102 @@
+prep: 20 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - hot-dog
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: argentine-style chorizo sausages
+    raw: 4 Argentine-style chorizo sausages
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 large bunch fresh flat-leaf parsley
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: red chilli flakes
+    raw: 1 teaspoon dried red chilli flakes
+  - qty: 100
+    unit: ml
+    name: red wine vinegar
+    raw: 100 ml red wine vinegar
+  - qty: 150
+    unit: ml
+    name: extra-virgin olive oil
+    raw: 150 ml extra-virgin olive oil
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons cold water
+  - qty: 1
+    name: red onion
+    raw: 1 medium red onion
+  - qty: 2
+    name: tomatoes
+    raw: 2 medium tomatoes
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 4
+    unit: tbsp
+    name: red wine vinegar
+    raw: 4 tablespoons red wine vinegar
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 4
+    name: long soft french-style rolls
+    raw: 4 long soft French-style rolls
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - name: cold quilmes or patagonia beer
+    raw: A cold Quilmes or Patagonia beer
+  - name: or a glass of argentine malbec
+    raw: Or a glass of Argentine Malbec
+  - name: side of homemade chips
+    raw: A side of homemade chips

@@ -1,0 +1,66 @@
+prep: 20 minutes (plus rest time for the lompe dough)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - meat
+  - mustard
+tags:
+  - meals
+  - hot-dog
+  - meat
+  - fish
+  - beef
+  - pork
+  - prawn
+  - onion
+  - potato
+  - butter
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 400
+    unit: g
+    name: cold mashed potato
+    raw: 400 g cold mashed potato
+  - qty: 200
+    unit: g
+    name: potato flour
+    raw: 200 g potato flour
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - name: more potato flour for dusting
+    raw: More potato flour for dusting
+  - qty: 4
+    name: long mild norwegian-style wienerwurst sausages
+    raw: 4 long mild Norwegian-style wienerwurst sausages
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - name: yellow mustard
+    raw: Yellow mustard
+  - name: tomato ketchup
+    raw: Tomato ketchup
+  - qty: 6
+    unit: tbsp
+    name: crispy fried onions
+    raw: 6 tablespoons crispy fried onions
+  - name: sweet pickled cucumber slices
+    raw: Sweet pickled cucumber slices
+  - qty: 200
+    unit: ml
+    name: warm norwegian-style mashed potato
+    raw: 200 ml warm Norwegian-style mashed potato
+  - qty: 100
+    unit: g
+    name: norwegian shrimp salad
+    raw: 100 g Norwegian shrimp salad
+  - name: glass of cold beer or solo
+    raw: A glass of cold beer or Solo
+  - name: "for constitution day: ice cream cones on the side"
+    raw: "For Constitution Day: ice cream cones on the side"

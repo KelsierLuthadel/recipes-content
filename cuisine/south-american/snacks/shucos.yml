@@ -1,0 +1,88 @@
+prep: 25 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - hot-dog
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/snacks/salsa-roja
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: hot dogs
+    raw: 4 hot dogs
+  - qty: 8
+    name: strips streaky bacon
+    raw: 8 strips streaky bacon
+  - name: wooden toothpicks
+    raw: Wooden toothpicks
+  - qty: 8
+    name: soft corn tortillas ; or substitute with soft flour tortillas
+    raw: 8 medium soft corn tortillas ; or substitute with soft flour tortillas
+  - qty: 4
+    name: avocados
+    raw: 4 ripe avocados
+  - name: juice of 2 limes
+    raw: Juice of 2 limes
+  - qty: 1
+    name: cilantro
+    raw: 1 small bunch fresh cilantro
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 300
+    unit: g
+    name: white cabbage
+    raw: 300 g white cabbage
+  - qty: 2
+    name: tomatoes
+    raw: 2 medium tomatoes
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion
+  - qty: 1
+    name: red chilli or jalapeno
+    raw: 1 fresh red chilli or jalapeño
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tablespoons mayonnaise
+  - qty: 4
+    unit: tbsp
+    name: ketchup
+    raw: 4 tablespoons ketchup
+  - qty: 4
+    unit: tbsp
+    name: yellow mustard
+    raw: 4 tablespoons yellow mustard
+  - qty: 2
+    unit: tbsp
+    name: crumbled queso fresco
+    raw: 2 tablespoons crumbled queso fresco
+  - name: cold gallo
+    raw: A cold Gallo
+  - name: or a freshly-squeezed lime juice
+    raw: Or a freshly-squeezed lime juice
+  - name: hot sauce on the side for those who want extra heat
+    raw: Hot sauce on the side for those who want extra heat

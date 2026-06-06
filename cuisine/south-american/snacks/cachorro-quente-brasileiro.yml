@@ -1,0 +1,135 @@
+prep: 25 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - snack
+  - hot-dog
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - carrot
+  - lime
+  - coriander
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: long mild salsicha sausages
+    raw: 4 long mild salsicha sausages
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: carrot
+    raw: 1 small carrot
+  - qty: 1
+    name: green bell pepper
+    raw: 1 small green bell pepper
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 200
+    unit: g
+    name: sweet corn kernels
+    raw: 200 g sweet corn kernels
+  - qty: 100
+    unit: g
+    name: parmesan
+    raw: 100 g grated Parmesan
+  - qty: 1
+    name: carrot
+    raw: 1 medium carrot
+  - qty: 400
+    unit: g
+    name: warm mashed potato
+    raw: 400 g warm mashed potato
+  - qty: 150
+    unit: g
+    name: ham
+    raw: 150 g diced ham
+  - qty: 4
+    name: tomatoes
+    raw: 4 large tomatoes
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 200
+    unit: g
+    name: batata palha
+    raw: 200 g batata palha
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tablespoons mayonnaise
+  - qty: 4
+    unit: tbsp
+    name: ketchup
+    raw: 4 tablespoons ketchup
+  - qty: 4
+    unit: tbsp
+    name: yellow mustard
+    raw: 4 tablespoons yellow mustard
+  - qty: 4
+    name: soft white split rolls
+    raw: 4 large soft white split rolls
+  - name: cold guarana antarctica or a brazilian beer
+    raw: A cold Guaraná Antarctica or a Brazilian beer
+  - name: side of plain feijao for completeness - or just call it a meal in itself
+    raw: A side of plain feijão for completeness - or just call it a meal in itself

@@ -1,0 +1,48 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+tags:
+  - quick
+  - snack
+  - hot-dog
+  - meat
+  - beef
+  - pork
+  - cream
+  - cheese
+mentions: []
+ingredients:
+  - qty: 4
+    name: long strasbourg-style frankfurters
+    raw: 4 long Strasbourg-style frankfurters
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 1
+    name: baguette ; cut into 4 sections of ~15cm each
+    raw: 1 large fresh baguette ; cut into 4 sections of ~15cm each
+  - qty: 250
+    unit: g
+    name: gruyere cheese ; or 50/50 gruyere + emmental
+    raw: 250 g Gruyère cheese ; or 50/50 Gruyère + Emmental
+  - qty: 4
+    unit: tbsp
+    name: dijon mustard
+    raw: 4 tablespoons Dijon mustard
+  - qty: 2
+    unit: tbsp
+    name: creme fraiche
+    raw: 2 tablespoons crème fraîche
+  - name: cornichons on the side
+    raw: A few cornichons on the side
+  - name: green salad with vinaigrette
+    raw: A green salad with vinaigrette
+  - name: glass of dry alsatian riesling or pinot blanc
+    raw: A glass of dry Alsatian Riesling or Pinot Blanc
+  - name: or a small beer
+    raw: Or a small beer

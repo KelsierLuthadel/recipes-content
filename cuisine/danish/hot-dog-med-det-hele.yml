@@ -1,0 +1,88 @@
+prep: 20 minutes
+cook: 10 minutes
+allergens:
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - hot-dog
+  - meat
+  - pork
+  - onion
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: long red wienerwurst sausages
+    raw: 4 long red wienerwurst sausages
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 4
+    name: long oval danish pølsebrød buns
+    raw: 4 long oval Danish pølsebrød buns
+  - qty: 200
+    unit: g
+    name: mayonnaise
+    raw: 200 g mayonnaise
+  - qty: 4
+    unit: tbsp
+    name: sweet pickle relish
+    raw: 4 tablespoons sweet pickle relish
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tablespoons capers
+  - qty: 2
+    unit: tbsp
+    name: dijon mustard
+    raw: 2 tablespoons Dijon mustard
+  - qty: 2
+    unit: tbsp
+    name: curry powder
+    raw: 2 tablespoons curry powder
+  - qty: 1
+    unit: tbsp
+    name: white vinegar
+    raw: 1 tablespoon white vinegar
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    name: tarragon
+    raw: 1 small bunch fresh tarragon
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 1
+    name: white onion
+    raw: 1 medium white onion
+  - qty: 8
+    unit: tbsp
+    name: ristede løg
+    raw: 8 tablespoons ristede løg
+  - qty: 16
+    name: sweet pickle rounds
+    raw: 16 sliced sweet pickle rounds
+  - name: yellow mustard
+    raw: Yellow mustard
+  - name: heinz ketchup
+    raw: Heinz ketchup
+  - name: cold tuborg or carlsberg beer
+    raw: A cold Tuborg or Carlsberg beer
+  - name: or a cold soda
+    raw: Or a cold soda
