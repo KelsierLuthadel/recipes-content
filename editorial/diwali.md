@@ -3,7 +3,8 @@ name: Diwali
 image: resources/diwali.jpg
 tagline: The festival of lights: a table built around sweets, paneer, and the rich smell of ghee and cardamom.
 publishedAt: 2026-05-20
-seasonalrange: 10-15..11-15
+displayFrom: 2026-11-01
+displayUntil: 2026-11-12
 kind: festival
 origin: India
 ---

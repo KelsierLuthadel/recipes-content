@@ -3,7 +3,8 @@ name: Eid al-Fitr
 image: resources/eid-al-fitr.jpg
 tagline: The sweet Eid. Sheer khurma, sevaiyan, maamoul, baklava, gulab jamun. The morning after a month of fasting, the table is soft, sweet and short.
 publishedAt: 2026-05-20
-seasonalrange: 02-15..05-15
+displayFrom: 2026-03-15
+displayUntil: 2026-03-22
 kind: religious
 origin: Muslim world
 ---

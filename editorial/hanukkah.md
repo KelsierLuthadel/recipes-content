@@ -3,7 +3,8 @@ name: Hanukkah
 image: resources/hanukkah.jpg
 tagline: Eight nights of oil - latkes, sufganiyot, brisket, and the warmth of fried dough.
 publishedAt: 2026-05-20
-seasonalrange: 12-01..12-31
+displayFrom: 2026-11-28
+displayUntil: 2026-12-13
 kind: religious
 origin: Jewish tradition
 ---
