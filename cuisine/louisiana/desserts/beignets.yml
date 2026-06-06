@@ -1,0 +1,56 @@
+prep: 30 minutes (plus 2 hours dough rise)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - complex
+mentions:
+  - cuisine/creole/side-dishes/beignets
+  - drinks/regional/creole/cafe-au-lait-with-chicory
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 1
+    name: instant yeast
+    raw: 1 sachet instant yeast
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml warm milk
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g melted butter
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - qty: 300
+    unit: g
+    name: icing sugar
+    raw: 300 g icing sugar
+  - name: cafe au lait with chicory
+    raw: Café au lait with chicory

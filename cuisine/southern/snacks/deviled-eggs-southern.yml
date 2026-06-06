@@ -1,0 +1,81 @@
+prep: 25 minutes (plus egg cooling)
+cook: 12 minutes
+allergens:
+  - eggs
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - snack
+  - meat
+  - pork
+  - eggs
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 12
+    name: eggs
+    raw: 12 large eggs
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: white vinegar
+    raw: 1 teaspoon white vinegar
+  - qty: 200
+    unit: g
+    name: duke's mayonnaise
+    raw: 200 g Duke's mayonnaise
+  - qty: 3
+    unit: tbsp
+    name: sweet pickle relish
+    raw: 3 tablespoons sweet pickle relish
+  - qty: 2
+    unit: tbsp
+    name: yellow mustard
+    raw: 2 tablespoons yellow mustard
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 1
+    unit: tsp
+    name: hot sauce
+    raw: 1 teaspoon hot sauce
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 2
+    unit: tsp
+    name: paprika
+    raw: 2 teaspoons paprika
+  - qty: 2
+    unit: tbsp
+    name: chives
+    raw: 2 tablespoons chopped fresh chives
+  - name: "optional: chopped pickled jalapenos"
+    raw: "Optional: chopped pickled jalapeños"
+  - name: "optional: cooked crumbled bacon"
+    raw: "Optional: cooked crumbled bacon"

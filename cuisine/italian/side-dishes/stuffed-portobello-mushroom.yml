@@ -11,8 +11,7 @@ tags:
   - mushroom
   - garlic
   - cheese
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 4
     name: portobello mushrooms

@@ -1,0 +1,46 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - garlic
+  - lime
+  - coriander
+mentions:
+  - cuisine/puerto-rican/pernil
+  - cuisine/puerto-rican/pollo-guisado
+  - cuisine/puerto-rican/side-dishes/maduros
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 3
+    name: green plantains
+    raw: 3 large green plantains
+  - name: vegetable oil
+    raw: Vegetable oil for frying
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml warm water
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - name: flaky sea salt
+    raw: Flaky sea salt
+  - name: "mayo-ketchup sauce: 100 g mayonnaise + 50 g ketchup + 2 crushed garlic cloves + a squeeze of lime + pinch of salt"
+    raw: "Mayo-ketchup sauce: 100 g mayonnaise + 50 g ketchup + 2 crushed garlic cloves + a squeeze of lime + pinch of salt"
+  - name: "ajilimojili: 6 crushed garlic cloves + juice of 2 limes + 50 ml olive oil + ½ teaspoon salt + 1 tablespoon fresh coriander"
+    raw: "Ajilimójili: 6 crushed garlic cloves + juice of 2 limes + 50 ml olive oil + ½ teaspoon salt + 1 tablespoon fresh coriander"
+  - name: sofrito for dipping
+    raw: Sofrito for dipping
+  - name: simply lime wedges
+    raw: Simply lime wedges

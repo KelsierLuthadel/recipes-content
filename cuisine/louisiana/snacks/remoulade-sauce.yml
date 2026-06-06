@@ -1,0 +1,87 @@
+prep: 10 minutes
+cook: None (chill 1 hour)
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - onion
+  - garlic
+  - lemon
+  - chili
+  - complex
+mentions:
+  - cuisine/american/side-dishes/hush-puppies
+  - cuisine/louisiana/side-dishes/hush-puppies
+  - cuisine/mississippi/fried-catfish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: ml
+    name: mayonnaise
+    raw: 300 ml mayonnaise
+  - qty: 3
+    unit: tbsp
+    name: ketchup
+    raw: 3 tablespoons ketchup
+  - qty: 3
+    unit: tbsp
+    name: creole mustard
+    raw: 3 tablespoons Creole mustard
+  - qty: 1
+    unit: tbsp
+    name: prepared horseradish
+    raw: 1 tablespoon prepared horseradish
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: hot sauce
+    raw: 1 tablespoon hot sauce
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tablespoons capers
+  - qty: 1
+    name: spring onions
+    raw: 1 small bunch spring onions
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tbsp
+    name: cajun seasoning
+    raw: 1 tablespoon Cajun seasoning
+  - qty: 1
+    unit: tsp
+    name: cayenne
+    raw: 1 teaspoon cayenne
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper

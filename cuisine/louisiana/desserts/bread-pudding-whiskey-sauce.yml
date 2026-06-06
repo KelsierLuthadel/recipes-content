@@ -1,0 +1,96 @@
+prep: 25 minutes (plus 1 hour bread soaking)
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - cream
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: stale french bread
+    raw: 600 g stale French bread
+  - qty: 600
+    unit: ml
+    name: milk
+    raw: 600 ml whole milk
+  - qty: 400
+    unit: ml
+    name: double cream
+    raw: 400 ml double cream
+  - qty: 6
+    name: eggs
+    raw: 6 large eggs
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 100
+    unit: g
+    name: brown sugar
+    raw: 100 g brown sugar
+  - qty: 2
+    unit: tbsp
+    name: vanilla extract
+    raw: 2 tablespoons vanilla extract
+  - qty: 1
+    unit: tbsp
+    name: cinnamon
+    raw: 1 tablespoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 teaspoon ground nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 200
+    unit: g
+    name: raisins
+    raw: 200 g raisins
+  - qty: 80
+    unit: g
+    name: butter
+    raw: 80 g butter
+  - name: zest of 1 orange
+    raw: Zest of 1 orange
+  - qty: 200
+    unit: g
+    name: butter
+    raw: 200 g butter
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 80
+    unit: ml
+    name: bourbon whiskey
+    raw: 80 ml bourbon whiskey
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt

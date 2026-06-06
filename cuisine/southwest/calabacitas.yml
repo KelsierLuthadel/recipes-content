@@ -1,0 +1,76 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - meals
+  - onion
+  - garlic
+  - coriander
+  - butter
+  - cream
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/side-dishes/calabacitas
+ingredients:
+  - qty: 2
+    name: zucchini
+    raw: 2 large zucchini
+  - qty: 2
+    name: yellow summer squash
+    raw: 2 large yellow summer squash
+  - qty: 300
+    unit: g
+    name: sweet corn kernels
+    raw: 300 g sweet corn kernels
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    name: roasted green chillies - or 1 small tin chopped roasted green chillies
+    raw: 4 roasted green chillies - or 1 small tin chopped roasted green chillies
+  - qty: 4
+    unit: tbsp
+    name: butter
+    raw: 4 tablespoons butter
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 200
+    unit: g
+    name: monterey jack cheese
+    raw: 200 g grated Monterey Jack cheese
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: mexican oregano
+    raw: 1 teaspoon dried Mexican oregano
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander
+  - name: spring onion
+    raw: Sliced spring onion
+  - name: cheese
+    raw: Extra cheese

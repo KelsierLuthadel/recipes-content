@@ -1,0 +1,79 @@
+prep: 25 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - sides
+  - eggs
+  - potato
+  - butter
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: sweet potatoes
+    raw: 1.5 kg sweet potatoes
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 200
+    unit: g
+    name: dark brown sugar
+    raw: 200 g dark brown sugar
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 2
+    unit: tsp
+    name: vanilla extract
+    raw: 2 teaspoons vanilla extract
+  - qty: 1
+    unit: tbsp
+    name: cinnamon
+    raw: 1 tablespoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 teaspoon ground nutmeg
+  - name: zest of 1 orange
+    raw: Zest of 1 orange
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 200
+    unit: g
+    name: mini marshmallows
+    raw: 200 g mini marshmallows
+  - qty: 150
+    unit: g
+    name: pecans
+    raw: 150 g pecans
+  - qty: 100
+    unit: g
+    name: dark brown sugar
+    raw: 100 g dark brown sugar
+  - qty: 50
+    unit: g
+    name: plain flour
+    raw: 50 g plain flour
+  - qty: 60
+    unit: g
+    name: cold butter
+    raw: 60 g cold butter
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon

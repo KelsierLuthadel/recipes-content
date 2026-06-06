@@ -1,0 +1,106 @@
+prep: 25 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - lemon
+  - chili
+  - complex
+mentions:
+  - cuisine/american/new-england-clam-chowder
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: kg
+    name: clams
+    raw: 2 kg fresh clams
+  - qty: 200
+    unit: g
+    name: thick-cut bacon
+    raw: 200 g thick-cut bacon
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    unit: stick
+    name: celery
+    raw: 4 sticks celery
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    name: tomatoes
+    raw: 1 large tin chopped tomatoes
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 600
+    unit: g
+    name: potatoes
+    raw: 600 g potatoes
+  - qty: 1.5
+    unit: l
+    name: clam juice or seafood stock
+    raw: 1.5 litres clam juice or seafood stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon dried thyme
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tsp
+    name: cayenne
+    raw: 1 teaspoon cayenne
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon fresh thyme
+  - name: oyster crackers
+    raw: Oyster crackers
+  - name: rustic bread
+    raw: Sliced rustic bread
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: hot sauce
+    raw: Hot sauce
+  - name: parsley
+    raw: Fresh parsley

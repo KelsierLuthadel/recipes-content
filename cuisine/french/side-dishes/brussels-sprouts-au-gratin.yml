@@ -9,8 +9,7 @@ tags:
   - sides
   - garlic
   - cheese
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 480
     unit: g

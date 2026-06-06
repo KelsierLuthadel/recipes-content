@@ -1,0 +1,98 @@
+prep: 20 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - complex
+mentions: []
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: peaches ; or 1.2 kg frozen peach slices
+    raw: 1.5 kg fresh peaches ; or 1.2 kg frozen peach slices
+  - qty: 200
+    unit: g
+    name: brown sugar
+    raw: 200 g brown sugar
+  - qty: 2
+    unit: tbsp
+    name: cornstarch
+    raw: 2 tablespoons cornstarch
+  - qty: 1
+    unit: tbsp
+    name: cinnamon
+    raw: 1 tablespoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 teaspoon ground nutmeg
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons fresh lemon juice
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 2
+    unit: tbsp
+    name: demerara sugar
+    raw: 2 tablespoons demerara sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - name: vanilla ice cream
+    raw: Vanilla ice cream
+  - name: whipped cream
+    raw: Whipped cream

@@ -1,0 +1,114 @@
+prep: 25 minutes (plus 30 minutes frybread dough resting)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - cream
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    unit: tbsp
+    name: baking powder
+    raw: 1 tablespoon baking powder
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil for frying
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g ground beef
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: pinto beans
+    raw: 1 tin pinto beans
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin diced tomatoes
+  - qty: 2
+    unit: tbsp
+    name: chili powder
+    raw: 2 tablespoons chili powder
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: mexican oregano
+    raw: 1 tablespoon dried Mexican oregano
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 200
+    unit: g
+    name: shredded iceberg lettuce
+    raw: 200 g shredded iceberg lettuce
+  - qty: 2
+    name: tomatoes
+    raw: 2 large tomatoes
+  - qty: 200
+    unit: g
+    name: cheddar
+    raw: 200 g grated sharp cheddar
+  - qty: 200
+    unit: ml
+    name: sour cream
+    raw: 200 ml sour cream
+  - qty: 2
+    name: jalapenos
+    raw: 2 fresh jalapeños
+  - qty: 1
+    name: avocado
+    raw: 1 ripe avocado
+  - name: salsa
+    raw: Salsa
+  - name: hot sauce
+    raw: Hot sauce
+  - name: lime wedges
+    raw: Lime wedges
+  - name: coriander
+    raw: Fresh coriander

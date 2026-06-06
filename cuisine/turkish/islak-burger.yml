@@ -1,0 +1,121 @@
+prep: 20 minutes
+cook: 30 minutes (plus 30 minutes steaming)
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - butter
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - bread-pasta/burger-buns
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef
+    raw: 600 g ground beef
+  - qty: 100
+    unit: g
+    name: lamb
+    raw: 100 g ground lamb
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 12
+    name: soft white burger buns
+    raw: 12 small soft white burger buns
+  - qty: 6
+    unit: tbsp
+    name: butter
+    raw: 6 tablespoons butter
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 2
+    name: tomatoes
+    raw: 2 tins chopped tomatoes
+  - qty: 4
+    unit: tbsp
+    name: tomato paste
+    raw: 4 tablespoons tomato paste
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 1
+    unit: tsp
+    name: aleppo pepper
+    raw: 1 teaspoon Aleppo pepper
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml hot water
+  - qty: 100
+    unit: ml
+    name: olive oil
+    raw: 100 ml olive oil
+  - name: cold ayran or coca-cola
+    raw: Cold ayran or Coca-Cola
+  - name: pickled green chillies
+    raw: Pickled green chillies
+  - name: hot tursu
+    raw: Hot turşu

@@ -1,0 +1,103 @@
+prep: 30 minutes (plus overnight marination)
+cook: 5 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - garlic
+  - lime
+  - coriander
+  - complex
+mentions:
+  - cuisine/puerto-rican/side-dishes/arroz-con-gandules
+  - cuisine/puerto-rican/side-dishes/maduros
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: pork shoulder picnic roast
+    raw: 1 bone-in pork shoulder picnic roast
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: oregano
+    raw: 3 tablespoons dried oregano
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 4
+    unit: tbsp
+    name: white wine vinegar
+    raw: 4 tablespoons white wine vinegar
+  - name: juice of 3 limes
+    raw: Juice of 3 limes
+  - name: juice of 2 oranges
+    raw: Juice of 2 oranges
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tablespoons fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: black pepper
+    raw: 1 tablespoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 2
+    unit: tsp
+    name: coriander
+    raw: 2 teaspoons ground coriander
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 2
+    unit: tbsp
+    name: sazon
+    raw: 2 tablespoons sazón
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme
+  - qty: 1
+    name: oregano
+    raw: 1 small bunch fresh oregano
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: arroz con gandules
+    raw: Arroz con gandules
+  - name: tostones
+    raw: Tostones
+  - name: maduros
+    raw: Maduros
+  - name: pique
+    raw: Pique
+  - name: sofrito for spooning
+    raw: Sofrito for spooning
+  - name: lime wedges
+    raw: Lime wedges
+  - name: coriander leaves
+    raw: Fresh coriander leaves

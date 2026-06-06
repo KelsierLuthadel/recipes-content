@@ -17,8 +17,7 @@ tags:
   - cheese
   - chili
   - complex
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 600
     unit: g

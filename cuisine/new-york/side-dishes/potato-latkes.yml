@@ -1,0 +1,56 @@
+prep: 25 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+tags:
+  - sides
+  - fish
+  - salmon
+  - eggs
+  - onion
+  - potato
+  - cream
+mentions:
+  - cuisine/polish/latkes
+ingredients:
+  - qty: 1
+    unit: kg
+    name: starchy potatoes
+    raw: 1 kg starchy potatoes
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 5
+    unit: tbsp
+    name: matzo meal
+    raw: 5 tablespoons matzo meal
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 250
+    unit: ml
+    name: vegetable oil
+    raw: 250 ml vegetable oil for frying
+  - name: sour cream
+    raw: Sour cream
+  - name: applesauce
+    raw: Applesauce
+  - name: smoked salmon
+    raw: Smoked salmon
+  - name: chives or dill
+    raw: Chopped fresh chives or dill

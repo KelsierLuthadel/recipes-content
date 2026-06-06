@@ -16,8 +16,7 @@ tags:
   - complex
   - shavuot
   - jewish
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 150
     unit: g

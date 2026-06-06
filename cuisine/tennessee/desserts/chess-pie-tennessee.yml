@@ -1,0 +1,86 @@
+prep: 20 minutes (plus 30 min pastry chill)
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 150
+    unit: g
+    name: cold butter
+    raw: 150 g cold butter
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 3.5
+    unit: tbsp
+    name: ice-cold water
+    raw: 3-4 tablespoons ice-cold water
+  - qty: 200
+    unit: g
+    name: butter
+    raw: 200 g butter
+  - qty: 300
+    unit: g
+    name: caster sugar
+    raw: 300 g caster sugar
+  - qty: 100
+    unit: g
+    name: light brown sugar
+    raw: 100 g light brown sugar
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 1
+    unit: tbsp
+    name: cornmeal
+    raw: 1 tablespoon cornmeal
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 1
+    unit: tbsp
+    name: apple cider vinegar
+    raw: 1 tablespoon apple cider vinegar
+  - qty: 1
+    unit: tbsp
+    name: vanilla extract
+    raw: 1 tablespoon vanilla extract
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: lemon juice
+    raw: 1 teaspoon lemon juice
+  - name: whipped cream
+    raw: Whipped cream
+  - name: vanilla ice cream
+    raw: Vanilla ice cream
+  - name: toasted pecans
+    raw: Toasted pecans

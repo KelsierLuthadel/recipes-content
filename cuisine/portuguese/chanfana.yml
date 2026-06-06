@@ -1,0 +1,101 @@
+prep: 25 minutes (plus overnight marinating)
+cook: 3 hours
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - potato
+  - lemon
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: lamb shoulder or leg
+    raw: 1.5 kg bone-in lamb shoulder or leg
+  - qty: 1
+    name: portuguese red wine
+    raw: 1 bottle Portuguese red wine
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 2
+    unit: tbsp
+    name: sweet paprika
+    raw: 2 tablespoons sweet paprika
+  - qty: 1
+    unit: tbsp
+    name: piri-piri sauce
+    raw: 1 tablespoon piri-piri sauce
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    unit: tbsp
+    name: lard
+    raw: 1 tablespoon lard
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 200
+    unit: ml
+    name: red wine
+    raw: 200 ml red wine
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 100
+    unit: g
+    name: lard
+    raw: 100 g lard
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: boiled potatoes
+    raw: Boiled potatoes
+  - name: broa
+    raw: Broa
+  - name: sauteed greens or steamed cabbage
+    raw: Sautéed greens or steamed cabbage
+  - name: red wine
+    raw: Red wine

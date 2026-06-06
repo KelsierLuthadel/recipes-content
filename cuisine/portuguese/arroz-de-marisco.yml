@@ -1,0 +1,124 @@
+prep: 30 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - one-pan
+  - meals
+  - fish
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: shrimp
+    raw: 400 g large raw shrimp
+  - qty: 400
+    unit: g
+    name: mussels
+    raw: 400 g mussels
+  - qty: 400
+    unit: g
+    name: clams
+    raw: 400 g clams
+  - qty: 300
+    unit: g
+    name: firm white fish
+    raw: 300 g firm white fish
+  - qty: 200
+    unit: g
+    name: octopus or squid
+    raw: 200 g octopus or squid
+  - name: shrimp shells
+    raw: Shrimp shells
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres water
+  - qty: 6
+    unit: tbsp
+    name: olive oil
+    raw: 6 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 6
+    name: tomatoes ; or 1 tin chopped tomatoes
+    raw: 6 ripe tomatoes ; or 1 tin chopped tomatoes
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tablespoons tomato paste
+  - qty: 200
+    unit: ml
+    name: dry white wine
+    raw: 200 ml dry white wine
+  - qty: 1
+    unit: tbsp
+    name: piri-piri sauce
+    raw: 1 tablespoon piri-piri sauce
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tablespoon sweet paprika
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 400
+    unit: g
+    name: medium-grain rice
+    raw: 400 g medium-grain rice
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: crusty bread
+    raw: Crusty bread

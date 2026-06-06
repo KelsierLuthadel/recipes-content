@@ -1,0 +1,82 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - bbq
+  - meat
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: tomato ketchup
+    raw: 400 g tomato ketchup
+  - qty: 250
+    unit: ml
+    name: beef stock
+    raw: 250 ml beef stock
+  - qty: 100
+    unit: ml
+    name: apple cider vinegar
+    raw: 100 ml apple cider vinegar
+  - qty: 80
+    unit: g
+    name: dark brown sugar
+    raw: 80 g dark brown sugar
+  - qty: 4
+    unit: tbsp
+    name: yellow mustard
+    raw: 4 tablespoons yellow mustard
+  - qty: 4
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 4 tablespoons Worcestershire sauce
+  - qty: 2
+    unit: tbsp
+    name: hot sauce
+    raw: 2 tablespoons hot sauce
+  - qty: 2
+    unit: tbsp
+    name: chili powder
+    raw: 2 tablespoons chili powder
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: smoked paprika
+    raw: 1 tablespoon smoked paprika
+  - qty: 2
+    unit: tsp
+    name: garlic powder
+    raw: 2 teaspoons garlic powder
+  - qty: 2
+    unit: tsp
+    name: onion powder
+    raw: 2 teaspoons onion powder
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 1
+    unit: tsp
+    name: liquid smoke
+    raw: 1 teaspoon liquid smoke

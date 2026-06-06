@@ -1,0 +1,41 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - make-ahead
+  - eggs
+  - lime
+  - cream
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 300
+    unit: g
+    name: masarepa
+    raw: 300 g masarepa
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml warm water
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - name: aji picante
+    raw: Ají picante
+  - name: suero costeno
+    raw: Suero costeño
+  - name: lime wedges
+    raw: Lime wedges
+  - name: avocado
+    raw: Sliced avocado

@@ -1,0 +1,55 @@
+prep: 15 minutes
+cook: 50 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+  - garlic
+  - potato
+  - lemon
+mentions:
+  - cuisine/mozambique/frango-piri-piri
+  - cuisine/portuguese/bitoque
+  - cuisine/portuguese/side-dishes/sardinhas-assadas
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: waxy potatoes
+    raw: 1 kg small waxy potatoes
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tablespoons fine sea salt
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 100
+    unit: ml
+    name: virgin olive oil
+    raw: 100 ml extra virgin olive oil
+  - qty: 2
+    unit: tsp
+    name: flaky sea salt
+    raw: 2 teaspoons flaky sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tablespoon sweet paprika
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 large bunch fresh flat-leaf parsley
+  - qty: 2
+    unit: tbsp
+    name: thyme leaves
+    raw: 2 tablespoons fresh thyme leaves
+  - name: lemon wedges
+    raw: Lemon wedges

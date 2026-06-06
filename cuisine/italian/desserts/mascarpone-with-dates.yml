@@ -10,8 +10,7 @@ tags:
   - cream
   - cheese
   - nuts
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 120
     unit: g

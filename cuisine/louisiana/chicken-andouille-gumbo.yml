@@ -1,0 +1,104 @@
+prep: 30 minutes
+cook: 2 hours
+allergens:
+  - gluten
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - pork
+  - rice
+  - onion
+  - garlic
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: ml
+    name: vegetable oil
+    raw: 200 ml vegetable oil
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 6
+    unit: stick
+    name: celery
+    raw: 6 sticks celery
+  - qty: 2
+    name: green bell peppers
+    raw: 2 large green bell peppers
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 1.2
+    unit: kg
+    name: chicken thighs
+    raw: 1.2 kg chicken thighs
+  - qty: 500
+    unit: g
+    name: andouille sausage
+    raw: 500 g andouille sausage
+  - qty: 2
+    unit: l
+    name: chicken stock
+    raw: 2 litres hot chicken stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon dried thyme
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tbsp
+    name: cajun seasoning
+    raw: 1 tablespoon Cajun seasoning
+  - qty: 1
+    unit: tsp
+    name: cayenne
+    raw: 1 teaspoon cayenne
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1.5
+    unit: tbsp
+    name: file powder
+    raw: 1 ½ tablespoons filé powder
+  - qty: 1
+    name: spring onions
+    raw: 1 bunch spring onions
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - name: tabasco or other hot sauce
+    raw: Tabasco or other hot sauce
+  - name: steamed long-grain rice
+    raw: Steamed long-grain rice
+  - name: french bread
+    raw: Sliced French bread
+  - name: pickled okra
+    raw: Pickled okra

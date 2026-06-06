@@ -1,0 +1,76 @@
+prep: 25 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - snack
+  - meat
+  - pork
+  - onion
+  - garlic
+  - lime
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 12
+    name: jalapeno peppers
+    raw: 12 large fresh jalapeño peppers
+  - qty: 250
+    unit: g
+    name: cream cheese
+    raw: 250 g cream cheese
+  - qty: 200
+    unit: g
+    name: cheddar
+    raw: 200 g grated sharp cheddar
+  - qty: 100
+    unit: g
+    name: monterey jack
+    raw: 100 g grated Monterey Jack
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 12
+    name: strips streaky bacon
+    raw: 12 strips streaky bacon
+  - qty: 50
+    unit: g
+    name: panko breadcrumbs
+    raw: 50 g panko breadcrumbs
+  - qty: 2
+    unit: tbsp
+    name: parmesan
+    raw: 2 tablespoons grated Parmesan
+  - name: ranch dressing
+    raw: Ranch dressing
+  - name: blue cheese dressing
+    raw: Blue cheese dressing
+  - name: hot sauce
+    raw: Hot sauce
+  - name: lime wedges
+    raw: Lime wedges

@@ -1,0 +1,131 @@
+prep: 25 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - butter
+  - cheese
+  - chili
+  - complex
+mentions:
+  - sauces/fruit-sauce/port-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: steaks
+    raw: 4 thin steaks
+  - qty: 200
+    unit: g
+    name: linguica or smoked portuguese sausage ; or substitute with spanish chorizo
+    raw: 200 g linguiça or smoked Portuguese sausage ; or substitute with Spanish chorizo
+  - qty: 200
+    unit: g
+    name: chourico ; or other spicy smoked sausage
+    raw: 200 g chouriço ; or other spicy smoked sausage
+  - qty: 200
+    unit: g
+    name: ham
+    raw: 200 g sliced cooked ham
+  - qty: 8
+    name: white bread
+    raw: 8 thick slices white bread
+  - qty: 300
+    unit: g
+    name: gouda or edam cheese
+    raw: 300 g sliced Gouda or Edam cheese
+  - qty: 200
+    unit: g
+    name: cheddar
+    raw: 200 g grated mature cheddar
+  - qty: 4
+    unit: tbsp
+    name: butter
+    raw: 4 tablespoons butter
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tablespoons tomato paste
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 200
+    unit: ml
+    name: port wine
+    raw: 200 ml port wine
+  - qty: 200
+    unit: ml
+    name: red wine
+    raw: 200 ml red wine
+  - qty: 200
+    unit: ml
+    name: light beer
+    raw: 200 ml light beer
+  - qty: 400
+    unit: ml
+    name: beef stock
+    raw: 400 ml beef stock
+  - qty: 2
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 2 tablespoons Worcestershire sauce
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: piri-piri sauce
+    raw: 1 tablespoon piri-piri sauce
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tablespoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon dried thyme
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - name: crispy fries
+    raw: Crispy fries
+  - name: beer
+    raw: Cold beer

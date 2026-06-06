@@ -10,7 +10,6 @@ tags:
   - meals
   - cheese
 mentions:
-  - tutorials/pizza/cheese
   - tutorials/pizza/sauce
 ingredients:
   - qty: 200

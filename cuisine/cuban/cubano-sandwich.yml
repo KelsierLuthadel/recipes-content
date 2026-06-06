@@ -1,0 +1,57 @@
+prep: 15 minutes (plus pre-roasted pork)
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+tags:
+  - quick
+  - meals
+  - meat
+  - pork
+  - potato
+  - lime
+  - butter
+  - cheese
+mentions:
+  - drinks/cocktails/mojito
+ingredients:
+  - qty: 2
+    name: loaves cuban bread ; or 4 portuguese rolls; or 1 french baguette cut into 4 sections
+    raw: 2 loaves Cuban bread ; or 4 Portuguese rolls; or 1 French baguette cut into 4 sections
+  - qty: 4
+    unit: tbsp
+    name: yellow mustard
+    raw: 4 tablespoons yellow mustard
+  - qty: 300
+    unit: g
+    name: cuban pork
+    raw: 300 g thinly sliced cooked Cuban pork
+  - qty: 200
+    unit: g
+    name: sweet ham
+    raw: 200 g thinly sliced sweet ham
+  - qty: 80
+    unit: g
+    name: genoa salami
+    raw: 80 g thinly sliced Genoa salami
+  - qty: 200
+    unit: g
+    name: swiss cheese
+    raw: 200 g sliced Swiss cheese
+  - qty: 10
+    name: dill pickle slices
+    raw: 8-12 dill pickle slices
+  - qty: 4
+    unit: tbsp
+    name: unsalted butter
+    raw: 4 tablespoons unsalted butter
+  - name: mariquitas or papas fritas
+    raw: Mariquitas or papas fritas
+  - name: salad or coleslaw
+    raw: Sliced fresh salad or coleslaw
+  - name: jalapenos
+    raw: Sliced jalapeños
+  - name: lime wedges
+    raw: Lime wedges

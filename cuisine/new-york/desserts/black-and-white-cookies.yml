@@ -1,0 +1,94 @@
+prep: 25 minutes
+cook: 18 minutes (plus 1 hour cooling)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - complex
+mentions: []
+ingredients:
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 1.5
+    unit: tsp
+    name: baking powder
+    raw: 1 ½ teaspoons baking powder
+  - qty: 0.25
+    unit: tsp
+    name: baking soda
+    raw: ¼ teaspoon baking soda
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 200
+    unit: g
+    name: butter
+    raw: 200 g butter
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 1
+    unit: tbsp
+    name: vanilla extract
+    raw: 1 tablespoon vanilla extract
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 0.25
+    unit: tsp
+    name: lemon extract
+    raw: ¼ teaspoon lemon extract
+  - qty: 400
+    unit: g
+    name: icing sugar
+    raw: 400 g icing sugar
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons hot water
+  - qty: 2
+    unit: tbsp
+    name: light corn syrup
+    raw: 2 tablespoons light corn syrup
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 300
+    unit: g
+    name: icing sugar
+    raw: 300 g icing sugar
+  - qty: 80
+    unit: g
+    name: unsweetened cocoa powder
+    raw: 80 g unsweetened cocoa powder
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons hot water
+  - qty: 2
+    unit: tbsp
+    name: light corn syrup
+    raw: 2 tablespoons light corn syrup
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons melted butter
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract

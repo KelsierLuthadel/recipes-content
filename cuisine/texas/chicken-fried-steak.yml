@@ -1,0 +1,110 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - beef
+  - eggs
+  - tomato
+  - potato
+  - nuts
+  - chili
+  - complex
+mentions:
+  - cuisine/german/wiener-schnitzel
+  - drinks/classic/iced-tea
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: steaks
+    raw: 4 cube steaks
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 2
+    unit: tsp
+    name: black pepper
+    raw: 2 teaspoons ground black pepper
+  - qty: 2
+    unit: tsp
+    name: garlic powder
+    raw: 2 teaspoons garlic powder
+  - qty: 2
+    unit: tsp
+    name: onion powder
+    raw: 2 teaspoons onion powder
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1
+    unit: tsp
+    name: cayenne pepper
+    raw: 1 teaspoon cayenne pepper
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 1
+    unit: tbsp
+    name: hot sauce
+    raw: 1 tablespoon hot sauce
+  - qty: 500
+    unit: ml
+    name: vegetable oil
+    raw: 500 ml vegetable oil
+  - qty: 4
+    unit: tbsp
+    name: pan drippings
+    raw: 4 tablespoons pan drippings
+  - qty: 4
+    unit: tbsp
+    name: plain flour
+    raw: 4 tablespoons plain flour
+  - qty: 700
+    unit: ml
+    name: milk
+    raw: 700 ml whole milk
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 2
+    unit: tsp
+    name: black pepper
+    raw: 2 teaspoons coarse ground black pepper
+  - name: mashed potatoes
+    raw: Mashed potatoes
+  - name: buttered green beans
+    raw: Buttered green beans
+  - name: buttermilk biscuits
+    raw: Buttermilk biscuits
+  - name: hot sauce
+    raw: Hot sauce
+  - name: tomato
+    raw: Sliced tomato

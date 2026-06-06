@@ -1,0 +1,90 @@
+prep: 15 minutes (plus 30 minutes resting)
+cook: 0 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - make-ahead
+  - sides
+  - garlic
+  - carrot
+  - lemon
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - cuisine/turkish/kuzu-shish
+ingredients:
+  - qty: 600
+    unit: g
+    name: strained yogurt
+    raw: 600 g thick strained yogurt
+  - qty: 1
+    name: cucumber
+    raw: 1 large cucumber
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: virgin olive oil
+    raw: 2 tablespoons extra virgin olive oil
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml cold water
+  - qty: 1.5
+    unit: tsp
+    name: mint
+    raw: 1 ½ teaspoons dried mint
+  - qty: 1
+    unit: small handful
+    name: dill
+    raw: 1 small handful fresh dill
+  - qty: 1
+    unit: small handful
+    name: mint
+    raw: 1 small handful fresh mint
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - qty: 0.5
+    unit: tsp
+    name: sumac
+    raw: ½ teaspoon ground sumac
+  - qty: 1
+    unit: tbsp
+    name: virgin olive oil
+    raw: 1 tablespoon extra virgin olive oil
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 1
+    unit: tsp
+    name: sumac
+    raw: 1 teaspoon sumac
+  - name: pomegranate molasses
+    raw: A few drops of pomegranate molasses
+  - name: warm pide bread or turkish flatbread
+    raw: Warm pide bread or Turkish flatbread
+  - name: vegetables for dipping
+    raw: Sliced raw vegetables for dipping
+  - name: grilled chillies
+    raw: Grilled chillies

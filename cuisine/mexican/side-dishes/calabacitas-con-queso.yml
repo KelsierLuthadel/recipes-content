@@ -1,0 +1,78 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - one-pan
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/carne-asada
+  - cuisine/mexican/side-dishes/calabacitas
+ingredients:
+  - qty: 4
+    name: zucchini
+    raw: 4 large zucchini
+  - qty: 300
+    unit: g
+    name: sweet corn kernels
+    raw: 300 g sweet corn kernels
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    name: jalapenos
+    raw: 2 fresh jalapeños
+  - qty: 3
+    name: tomatoes
+    raw: 3 medium tomatoes
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: mexican oregano
+    raw: 1 tablespoon dried Mexican oregano
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 200
+    unit: g
+    name: queso fresco
+    raw: 200 g queso fresco
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - name: lime wedges
+    raw: Lime wedges
+  - qty: 80
+    unit: g
+    name: crumbled cotija cheese
+    raw: 80 g crumbled cotija cheese
+  - qty: 1
+    name: chilli
+    raw: 1 small fresh chilli

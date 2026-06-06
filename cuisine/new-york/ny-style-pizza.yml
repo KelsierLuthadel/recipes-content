@@ -1,0 +1,97 @@
+prep: 25 minutes (plus 24 hours cold dough proof)
+cook: 12 minutes per pizza
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - mushroom
+  - garlic
+  - tomato
+  - cheese
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 500
+    unit: g
+    name: bread flour
+    raw: 500 g strong bread flour
+  - qty: 8
+    unit: g
+    name: sea salt
+    raw: 8 g fine sea salt
+  - qty: 3
+    unit: g
+    name: instant yeast
+    raw: 3 g instant yeast
+  - qty: 320
+    unit: ml
+    name: water
+    raw: 320 ml lukewarm water
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    name: san marzano tomatoes
+    raw: 1 large tin San Marzano tomatoes
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon ground black pepper
+  - qty: 600
+    unit: g
+    name: mozzarella
+    raw: 600 g low-moisture whole-milk mozzarella
+  - qty: 80
+    unit: g
+    name: parmesan
+    raw: 80 g grated Parmesan
+  - name: pepperoni
+    raw: Pepperoni
+  - name: basil
+    raw: Sliced fresh basil
+  - name: anchovies
+    raw: Anchovies
+  - name: mushrooms
+    raw: Sliced mushrooms
+  - name: oregano
+    raw: Dried oregano
+  - name: chilli flakes
+    raw: Chilli flakes
+  - name: olive oil
+    raw: Olive oil for drizzling

@@ -1,0 +1,72 @@
+prep: 15 minutes (plus 20 minutes cooking nopales)
+cook: 5 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - sides
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/tacos-al-pastor
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: nopales ; or 600 g fresh nopal pads
+    raw: 500 g cooked nopales ; OR 600 g fresh nopal pads
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion
+  - qty: 400
+    unit: g
+    name: tomatillos ; or 1 tin tomatillos
+    raw: 400 g tomatillos ; OR 1 tin tomatillos
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: jalapenos
+    raw: 2 fresh jalapeños
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 80
+    unit: g
+    name: queso fresco
+    raw: 80 g queso fresco
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 1
+    name: chilli
+    raw: 1 fresh chilli
+  - name: avocado
+    raw: Sliced avocado
+  - name: lime wedges
+    raw: Lime wedges

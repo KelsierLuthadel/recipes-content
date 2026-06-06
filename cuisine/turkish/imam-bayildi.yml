@@ -1,0 +1,102 @@
+prep: 25 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - make-ahead
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - cheese
+  - yogurt
+  - complex
+mentions:
+  - cuisine/turkish/karniyarik
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: aubergines ; or 4 medium aubergines
+    raw: 8 small baby aubergines ; or 4 medium aubergines
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 6
+    unit: tbsp
+    name: olive oil
+    raw: 6 tablespoons olive oil
+  - qty: 200
+    unit: ml
+    name: virgin olive oil
+    raw: 200 ml extra virgin olive oil
+  - qty: 3
+    name: onions
+    raw: 3 large onions
+  - qty: 10
+    name: garlic cloves
+    raw: 10 garlic cloves
+  - qty: 4
+    name: tomatoes
+    raw: 4 medium tomatoes
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tablespoons tomato paste
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 large bunch fresh flat-leaf parsley
+  - qty: 2
+    unit: tsp
+    name: caster sugar
+    raw: 2 teaspoons caster sugar
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: aleppo pepper
+    raw: 1 teaspoon Aleppo pepper
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml hot water
+  - qty: 100
+    unit: ml
+    name: virgin olive oil
+    raw: 100 ml extra virgin olive oil
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons fresh parsley
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: olive oil
+    raw: Extra olive oil for drizzling
+  - name: warm pide bread or pita
+    raw: Warm pide bread or pita
+  - name: plain yogurt
+    raw: Plain yogurt
+  - name: olives
+    raw: Olives
+  - name: cheese
+    raw: Cheese

@@ -1,0 +1,68 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - sides
+  - onion
+  - garlic
+  - butter
+  - cream
+  - cheese
+mentions:
+  - cuisine/chilean/charquican
+  - cuisine/chilean/lomo-a-lo-pobre
+ingredients:
+  - qty: 800
+    unit: g
+    name: sweet corn kernels
+    raw: 800 g fresh sweet corn kernels
+  - qty: 40
+    unit: g
+    name: unsalted butter
+    raw: 40 g unsalted butter
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 50
+    unit: g
+    name: parmesan
+    raw: 50 g grated Parmesan
+  - qty: 120
+    unit: g
+    name: mozzarella
+    raw: 120 g grated mozzarella
+  - qty: 1
+    unit: large handful
+    name: basil
+    raw: 1 large handful fresh basil
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour

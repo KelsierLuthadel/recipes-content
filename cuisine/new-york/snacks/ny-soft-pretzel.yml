@@ -1,0 +1,61 @@
+prep: 30 minutes (plus 1 hour dough rise)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - mustard
+tags:
+  - vegetarian
+  - snack
+  - butter
+  - cheese
+  - complex
+mentions:
+  - drinks/cocktails/manhattan
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: bread flour
+    raw: 600 g strong bread flour
+  - qty: 1
+    name: instant yeast
+    raw: 1 sachet instant yeast
+  - qty: 2
+    unit: tbsp
+    name: brown sugar
+    raw: 2 tablespoons brown sugar
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 350
+    unit: ml
+    name: water
+    raw: 350 ml warm water
+  - qty: 40
+    unit: g
+    name: butter
+    raw: 40 g melted butter
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 80
+    unit: g
+    name: bicarbonate of soda
+    raw: 80 g bicarbonate of soda
+  - name: pretzel salt or coarse sea salt
+    raw: Coarse pretzel salt or coarse sea salt
+  - qty: 4
+    unit: tbsp
+    name: butter
+    raw: 4 tablespoons melted butter
+  - name: yellow mustard
+    raw: Yellow mustard
+  - name: brown mustard
+    raw: Spicy brown mustard
+  - name: cheese sauce
+    raw: Cheese sauce

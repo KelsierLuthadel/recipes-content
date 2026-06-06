@@ -1,0 +1,97 @@
+prep: 30 minutes (plus overnight buttermilk brine)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - garlic
+  - lemon
+  - chili
+  - complex
+mentions:
+  - cuisine/tennessee/nashville-hot-chicken
+  - drinks/classic/iced-tea
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: chicken pieces
+    raw: 1.5 kg bone-in chicken pieces
+  - qty: 1
+    unit: l
+    name: buttermilk
+    raw: 1 litre buttermilk
+  - qty: 4
+    unit: tbsp
+    name: hot sauce
+    raw: 4 tablespoons hot sauce
+  - qty: 4
+    unit: tbsp
+    name: sea salt
+    raw: 4 tablespoons fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: black pepper
+    raw: 1 tablespoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 3
+    unit: tbsp
+    name: sea salt
+    raw: 3 tablespoons fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: black pepper
+    raw: 2 tablespoons ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: paprika
+    raw: 2 tablespoons paprika
+  - qty: 2
+    unit: tbsp
+    name: garlic powder
+    raw: 2 tablespoons garlic powder
+  - qty: 2
+    unit: tbsp
+    name: onion powder
+    raw: 2 tablespoons onion powder
+  - qty: 1
+    unit: tbsp
+    name: cayenne pepper
+    raw: 1 tablespoon ground cayenne pepper
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon dried thyme
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - name: mashed potatoes with gravy
+    raw: Mashed potatoes with gravy
+  - name: buttermilk biscuits
+    raw: Buttermilk biscuits
+  - name: collard greens
+    raw: Collard greens
+  - name: coleslaw
+    raw: Coleslaw
+  - name: hot sauce
+    raw: Hot sauce
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: sweet iced tea
+    raw: Sweet iced tea

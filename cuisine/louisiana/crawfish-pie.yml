@@ -1,0 +1,125 @@
+prep: 40 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - shellfish
+  - celery
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - eggs
+  - onion
+  - garlic
+  - lemon
+  - butter
+  - cream
+  - chili
+  - complex
+mentions:
+  - cuisine/cajun/jambalaya
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 250
+    unit: g
+    name: cold butter
+    raw: 250 g cold butter
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 2
+    name: egg yolks
+    raw: 2 large egg yolks
+  - qty: 7
+    unit: tbsp
+    name: ice-cold water
+    raw: 6-8 tablespoons ice-cold water
+  - qty: 800
+    unit: g
+    name: crawfish tails
+    raw: 800 g peeled crawfish tails
+  - qty: 80
+    unit: g
+    name: butter
+    raw: 80 g butter
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    unit: stick
+    name: celery
+    raw: 4 sticks celery
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 10
+    name: garlic cloves
+    raw: 10 garlic cloves
+  - qty: 60
+    unit: g
+    name: plain flour
+    raw: 60 g plain flour
+  - qty: 400
+    unit: ml
+    name: hot seafood or chicken stock
+    raw: 400 ml hot seafood or chicken stock
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tbsp
+    name: cajun seasoning
+    raw: 1 tablespoon Cajun seasoning
+  - qty: 1
+    unit: tsp
+    name: cayenne
+    raw: 1 teaspoon cayenne
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: hot sauce
+    raw: 1 tablespoon hot sauce
+  - qty: 1
+    name: spring onions
+    raw: 1 bunch spring onions
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - qty: 1
+    name: egg
+    raw: 1 egg

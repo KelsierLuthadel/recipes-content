@@ -14,8 +14,7 @@ tags:
   - garlic
   - tomato
   - coriander
-mentions:
-  - cuisine/mexican/side-dishes/mexican-rice
+mentions: []
 ingredients:
   - qty: 200
     unit: g

@@ -1,0 +1,100 @@
+prep: 20 minutes
+cook: 40 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - one-pan
+  - sides
+  - meat
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - complex
+mentions:
+  - cuisine/puerto-rican/pernil
+  - cuisine/puerto-rican/pollo-guisado
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: medium-grain rice
+    raw: 500 g medium-grain rice
+  - qty: 1
+    name: pigeon peas / gandules ; or 250 g dried pigeon peas pre-soaked and pre-cooked
+    raw: 1 tin pigeon peas / gandules ; or 250 g dried pigeon peas pre-soaked and pre-cooked
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 150
+    unit: g
+    name: smoked ham
+    raw: 150 g smoked ham
+  - qty: 4
+    unit: tbsp
+    name: sofrito
+    raw: 4 tablespoons sofrito
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 1
+    name: green bell pepper
+    raw: 1 medium green bell pepper
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 200
+    unit: ml
+    name: tomato sauce
+    raw: 200 ml tomato sauce
+  - qty: 1
+    unit: tbsp
+    name: sazon
+    raw: 1 tablespoon sazón
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 80
+    unit: g
+    name: pitted green olives
+    raw: 80 g pitted green olives
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tablespoons capers
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 900
+    unit: ml
+    name: chicken stock
+    raw: 900 ml hot chicken stock
+  - name: avocado
+    raw: Sliced avocado
+  - name: lime wedges
+    raw: Lime wedges
+  - name: coriander
+    raw: Fresh coriander

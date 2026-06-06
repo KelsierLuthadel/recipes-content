@@ -1,0 +1,71 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - onion
+  - garlic
+  - lemon
+  - coriander
+  - honey
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 large bunch fresh flat-leaf parsley
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 6
+    name: spring onions
+    raw: 6 spring onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: green chilli
+    raw: 1 fresh green chilli
+  - qty: 6
+    unit: tbsp
+    name: virgin olive oil
+    raw: 6 tablespoons extra virgin olive oil
+  - qty: 3
+    unit: tbsp
+    name: lemon juice
+    raw: 3 tablespoons fresh lemon juice
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar
+    raw: 2 tablespoons white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: merken
+    raw: 1 teaspoon merkén
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tablespoons capers
+  - qty: 1
+    unit: tbsp
+    name: honey or a tiny pinch of sugar
+    raw: 1 tablespoon honey or a tiny pinch of sugar

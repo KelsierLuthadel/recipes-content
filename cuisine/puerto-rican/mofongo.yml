@@ -1,0 +1,93 @@
+prep: 25 minutes
+cook: 30 minutes
+allergens:
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - fish
+  - chicken
+  - pork
+  - prawn
+  - garlic
+  - lime
+  - coriander
+  - complex
+mentions:
+  - cuisine/american/pulled-pork
+  - cuisine/nigerian/side-dishes/fufu
+  - cuisine/puerto-rican/pernil
+  - cuisine/puerto-rican/pollo-guisado
+  - drinks/cocktails/daiquiri
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: green plantains
+    raw: 4 large green plantains
+  - name: vegetable oil
+    raw: Vegetable oil for frying
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 100
+    unit: g
+    name: pork chicharron
+    raw: 100 g pork chicharrón
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 500
+    unit: ml
+    name: chicken broth
+    raw: 500 ml hot chicken broth
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 2
+    unit: tbsp
+    name: lime juice
+    raw: 2 tablespoons fresh lime juice
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon fresh coriander
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 300
+    unit: g
+    name: shrimp in garlic sauce
+    raw: 300 g cooked shrimp in garlic sauce
+  - qty: 300
+    unit: g
+    name: stewed chicken
+    raw: 300 g stewed chicken
+  - qty: 300
+    unit: g
+    name: pulled pernil
+    raw: 300 g pulled pernil
+  - name: coriander leaves
+    raw: Fresh coriander leaves
+  - name: lime wedges
+    raw: Lime wedges
+  - name: pique
+    raw: Pique

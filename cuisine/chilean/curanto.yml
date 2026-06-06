@@ -1,0 +1,108 @@
+prep: 45 minutes
+cook: 2 hours
+allergens:
+  - gluten
+  - shellfish
+  - meat
+tags:
+  - dairy-free
+  - one-pan
+  - meals
+  - meat
+  - fish
+  - chicken
+  - pork
+  - onion
+  - potato
+  - carrot
+  - lemon
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 1
+    unit: kg
+    name: mussels
+    raw: 1 kg fresh mussels
+  - qty: 1
+    unit: kg
+    name: clams
+    raw: 1 kg clams
+  - qty: 500
+    unit: g
+    name: pork ribs
+    raw: 500 g pork ribs
+  - qty: 4
+    name: longanizas
+    raw: 4 longanizas
+  - qty: 400
+    unit: g
+    name: chicken pieces
+    raw: 400 g bone-in chicken pieces
+  - qty: 8
+    name: potatoes
+    raw: 8 medium potatoes
+  - qty: 4
+    name: onions
+    raw: 4 medium onions
+  - qty: 6
+    name: carrots
+    raw: 6 carrots
+  - qty: 1
+    name: head of cabbage
+    raw: 1 large head of cabbage
+  - qty: 600
+    unit: g
+    name: potatoes
+    raw: 600 g raw potatoes
+  - qty: 400
+    unit: g
+    name: mashed potatoes
+    raw: 400 g cooked mashed potatoes
+  - qty: 4
+    unit: tbsp
+    name: plain flour
+    raw: 4 tablespoons plain flour
+  - qty: 3
+    unit: tbsp
+    name: lard or vegetable oil
+    raw: 3 tablespoons lard or vegetable oil
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 100
+    unit: g
+    name: chicharron
+    raw: 100 g chicharrón
+  - qty: 400
+    unit: ml
+    name: white wine
+    raw: 400 ml white wine
+  - qty: 200
+    unit: ml
+    name: chicken stock
+    raw: 200 ml hot chicken stock
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    name: parsley
+    raw: 1 large bunch fresh parsley
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: pebre
+    raw: Pebre
+  - name: marraqueta bread
+    raw: Marraqueta bread
+  - name: pebre
+    raw: Pebre
+  - name: salad
+    raw: Fresh salad

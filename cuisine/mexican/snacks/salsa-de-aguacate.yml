@@ -1,0 +1,69 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - make-ahead
+  - onion
+  - garlic
+  - lime
+  - coriander
+mentions:
+  - cuisine/mexican/snacks/guacamole
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: avocados
+    raw: 2 large ripe avocados
+  - qty: 300
+    unit: g
+    name: tomatillos ; or 1 tin tomatillos
+    raw: 300 g tomatillos ; OR 1 tin tomatillos
+  - qty: 3
+    name: jalapeno peppers
+    raw: 2-4 fresh jalapeño peppers
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - name: juice of 2 limes
+    raw: Juice of 2 limes
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander seed
+    raw: 1 teaspoon ground coriander seed
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil

@@ -11,8 +11,7 @@ tags:
   - eggs
   - cream
   - cheese
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 90
     unit: ml

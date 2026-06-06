@@ -1,0 +1,47 @@
+prep: 15 minutes (assumes pre-made chile sauce)
+cook: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - onion
+  - coriander
+  - cream
+  - cheese
+  - chili
+mentions:
+  - cuisine/american/pulled-pork
+  - cuisine/texas/frito-pie
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: bag fritos corn chips
+    raw: 1 small bag Fritos corn chips
+  - qty: 200
+    unit: ml
+    name: hot nm red chile sauce
+    raw: 200 ml hot NM red chile sauce
+  - qty: 100
+    unit: g
+    name: warm pinto beans
+    raw: 100 g warm pinto beans
+  - qty: 50
+    unit: g
+    name: cheddar or monterey jack
+    raw: 50 g grated cheddar or Monterey Jack
+  - qty: 2
+    unit: tbsp
+    name: onion
+    raw: 2 tablespoons chopped raw onion
+  - qty: 2
+    unit: tbsp
+    name: sour cream
+    raw: 2 tablespoons sour cream
+  - name: chilli
+    raw: Sliced fresh chilli
+  - name: coriander
+    raw: Fresh chopped coriander

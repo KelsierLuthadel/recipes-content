@@ -13,7 +13,6 @@ tags:
   - cheese
   - complex
 mentions:
-  - tutorials/pizza/cheese
   - tutorials/pizza/dough
 ingredients:
   - qty: 400

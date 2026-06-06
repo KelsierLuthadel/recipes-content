@@ -1,0 +1,66 @@
+prep: 20 minutes (plus 1 hour chilling)
+cook: None
+allergens:
+  - mustard
+  - celery
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+  - onion
+  - carrot
+mentions:
+  - cuisine/israel/matzo-ball-soup
+ingredients:
+  - qty: 1
+    name: head green cabbage
+    raw: 1 large head green cabbage
+  - qty: 2
+    name: carrots
+    raw: 2 large carrots
+  - qty: 0.5
+    name: white onion
+    raw: ½ small white onion
+  - qty: 200
+    unit: ml
+    name: mayonnaise
+    raw: 200 ml mayonnaise
+  - qty: 6
+    unit: tbsp
+    name: white wine vinegar
+    raw: 6 tablespoons white wine vinegar
+  - qty: 2
+    unit: tbsp
+    name: dijon mustard
+    raw: 2 tablespoons Dijon mustard
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1
+    unit: tbsp
+    name: celery seed
+    raw: 1 tablespoon celery seed
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon ground white pepper
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - qty: 1
+    unit: tbsp
+    name: poppy seeds
+    raw: 1 tablespoon poppy seeds
+  - qty: 1
+    name: pickle
+    raw: 1 chopped pickle
+  - name: dill
+    raw: Chopped fresh dill

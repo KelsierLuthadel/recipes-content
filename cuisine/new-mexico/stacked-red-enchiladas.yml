@@ -1,0 +1,111 @@
+prep: 25 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - beef
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - cream
+  - cheese
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: new mexico red chiles ; or substitute with mix of ancho + guajillo
+    raw: 8 dried New Mexico red chiles ; or substitute with mix of ancho + guajillo
+  - qty: 600
+    unit: ml
+    name: chicken stock
+    raw: 600 ml hot chicken stock
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: mexican oregano
+    raw: 1 tablespoon dried Mexican oregano
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 600
+    unit: g
+    name: shredded chicken
+    raw: 600 g cooked shredded chicken
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 12
+    name: corn tortillas
+    raw: 12 corn tortillas
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 300
+    unit: g
+    name: cheddar
+    raw: 300 g grated sharp cheddar
+  - qty: 200
+    unit: g
+    name: monterey jack
+    raw: 200 g grated Monterey Jack
+  - qty: 4
+    name: fried eggs
+    raw: 4 fried eggs
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - name: jalapeno
+    raw: Sliced raw jalapeño
+  - name: lime wedges
+    raw: Lime wedges
+  - name: new mexican rice
+    raw: New Mexican rice
+  - name: refried beans
+    raw: Refried beans
+  - name: sour cream
+    raw: Sour cream
+  - name: avocado
+    raw: Sliced avocado

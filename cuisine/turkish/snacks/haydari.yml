@@ -1,0 +1,106 @@
+prep: 15 minutes (plus 30 minutes resting)
+cook: 0 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - snack
+  - make-ahead
+  - onion
+  - garlic
+  - carrot
+  - lemon
+  - cheese
+  - yogurt
+  - nuts
+  - complex
+mentions:
+  - cuisine/turkish/side-dishes/cacik
+  - cuisine/turkish/side-dishes/ezme
+  - cuisine/turkish/side-dishes/mucver
+ingredients:
+  - qty: 500
+    unit: g
+    name: strained yogurt
+    raw: 500 g thick strained yogurt
+  - qty: 200
+    unit: g
+    name: feta cheese
+    raw: 200 g feta cheese
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: virgin olive oil
+    raw: 4 tablespoons extra virgin olive oil
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice
+  - qty: 60
+    unit: g
+    name: shelled walnuts
+    raw: 60 g shelled walnuts
+  - qty: 2
+    unit: tsp
+    name: mint
+    raw: 2 teaspoons dried mint
+  - qty: 1
+    unit: small handful
+    name: dill
+    raw: 1 small handful fresh dill
+  - qty: 1
+    unit: small handful
+    name: mint
+    raw: 1 small handful fresh mint
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: 1 small handful fresh flat-leaf parsley
+  - qty: 0.5
+    unit: tsp
+    name: aleppo pepper
+    raw: ½ teaspoon Aleppo pepper
+  - qty: 0.5
+    unit: tsp
+    name: sumac
+    raw: ½ teaspoon ground sumac
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: Pinch of fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: virgin olive oil
+    raw: 2 tablespoons extra virgin olive oil
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 1
+    unit: tsp
+    name: aleppo pepper
+    raw: 1 teaspoon Aleppo pepper
+  - qty: 1
+    unit: tsp
+    name: sumac
+    raw: 1 teaspoon sumac
+  - name: walnut pieces
+    raw: A few small extra walnut pieces
+  - name: warm pide bread
+    raw: Warm pide bread
+  - name: vegetables
+    raw: Sliced raw vegetables
+  - name: olives
+    raw: Olives
+  - name: red onion sprinkled with sumac
+    raw: Sliced raw red onion sprinkled with sumac

@@ -1,0 +1,123 @@
+prep: 25 minutes (plus 4 hours marinating)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - soy
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - cream
+  - cheese
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/mexican/snacks/guacamole
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: skirt steak
+    raw: 800 g skirt steak
+  - name: juice of 6 limes
+    raw: Juice of 6 limes
+  - qty: 60
+    unit: ml
+    name: soy sauce
+    raw: 60 ml soy sauce
+  - qty: 60
+    unit: ml
+    name: vegetable oil
+    raw: 60 ml vegetable oil
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 200
+    unit: ml
+    name: mexican beer
+    raw: 200 ml Mexican beer
+  - qty: 2
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 2 tablespoons Worcestershire sauce
+  - qty: 2
+    unit: tbsp
+    name: cumin
+    raw: 2 tablespoons ground cumin
+  - qty: 2
+    unit: tbsp
+    name: mexican oregano
+    raw: 2 tablespoons dried Mexican oregano
+  - qty: 1
+    unit: tbsp
+    name: coriander seed
+    raw: 1 tablespoon ground coriander seed
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tbsp
+    name: brown sugar
+    raw: 1 tablespoon brown sugar
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    name: red bell peppers
+    raw: 2 large red bell peppers
+  - qty: 2
+    name: green bell peppers
+    raw: 2 large green bell peppers
+  - qty: 1
+    name: yellow bell pepper
+    raw: 1 large yellow bell pepper
+  - qty: 2
+    name: white onions
+    raw: 2 large white onions
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 12
+    name: warm flour tortillas
+    raw: 12 warm flour tortillas
+  - name: guacamole
+    raw: Guacamole
+  - name: pico de gallo
+    raw: Pico de gallo
+  - name: sour cream
+    raw: Sour cream
+  - name: monterey jack or pepper jack cheese
+    raw: Grated Monterey Jack or pepper jack cheese
+  - name: jalapenos
+    raw: Sliced fresh jalapeños
+  - name: lime wedges
+    raw: Lime wedges
+  - name: hot sauce
+    raw: Hot sauce
+  - name: mexican rice
+    raw: Mexican rice
+  - name: refried beans
+    raw: Refried beans

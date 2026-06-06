@@ -1,0 +1,120 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - meat
+  - garlic
+  - carrot
+  - butter
+  - cream
+  - cheese
+  - honey
+  - chili
+  - complex
+mentions:
+  - cuisine/american/snacks/buffalo-wings
+  - sauces/sauce-spicy/buffalo-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: chicken wings
+    raw: 1.5 kg chicken wings
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - qty: 120
+    unit: ml
+    name: frank's redhot sauce
+    raw: 120 ml Frank's RedHot sauce
+  - qty: 120
+    unit: g
+    name: butter
+    raw: 120 g butter
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: white vinegar
+    raw: 1 tablespoon white vinegar
+  - qty: 0.5
+    unit: tsp
+    name: garlic powder
+    raw: ½ teaspoon garlic powder
+  - qty: 0.5
+    unit: tsp
+    name: cayenne
+    raw: ½ teaspoon cayenne
+  - qty: 1
+    unit: tsp
+    name: honey
+    raw: 1 teaspoon honey
+  - qty: 200
+    unit: g
+    name: blue cheese
+    raw: 200 g blue cheese
+  - qty: 200
+    unit: ml
+    name: sour cream
+    raw: 200 ml sour cream
+  - qty: 100
+    unit: ml
+    name: mayonnaise
+    raw: 100 ml mayonnaise
+  - qty: 100
+    unit: ml
+    name: buttermilk
+    raw: 100 ml buttermilk
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: chives
+    raw: 1 small bunch chives
+  - qty: 1
+    unit: tsp
+    name: worcestershire
+    raw: 1 teaspoon Worcestershire
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 8
+    unit: stick
+    name: celery
+    raw: 8 sticks celery
+  - qty: 4
+    unit: stick
+    name: carrot
+    raw: 4 sticks carrot
+  - name: beer
+    raw: Cold beer

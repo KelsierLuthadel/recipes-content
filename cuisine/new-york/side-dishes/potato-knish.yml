@@ -1,0 +1,88 @@
+prep: 1 hour (plus 30 min dough chill)
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+  - garlic
+tags:
+  - sides
+  - meat
+  - eggs
+  - onion
+  - garlic
+  - potato
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 80
+    unit: ml
+    name: vegetable oil
+    raw: 80 ml vegetable oil
+  - qty: 120
+    unit: ml
+    name: water
+    raw: 120 ml warm water
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: kg
+    name: potatoes
+    raw: 1 kg potatoes
+  - qty: 4
+    name: onions
+    raw: 4 large onions
+  - qty: 4
+    unit: tbsp
+    name: schmaltz or butter
+    raw: 4 tablespoons schmaltz or butter
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1.5
+    unit: tsp
+    name: black pepper
+    raw: 1 ½ teaspoons ground black pepper
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons fresh chopped parsley
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - name: yellow mustard
+    raw: Yellow mustard
+  - name: dill pickles
+    raw: Dill pickles

@@ -1,0 +1,173 @@
+prep: 25 minutes (plus 30 min potato cooling)
+cook: 20 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - meals
+  - asian
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - bread-pasta/burger-buns
+  - cuisine/indian/snacks/aloo-tikki
+  - sauces/sauce-fish/tamarind-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: starchy potatoes
+    raw: 1 kg starchy potatoes
+  - qty: 200
+    unit: g
+    name: peas
+    raw: 200 g frozen peas
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 2
+    name: green chillies
+    raw: 2 fresh green chillies
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 1
+    name: mint
+    raw: 1 small bunch fresh mint
+  - qty: 2
+    unit: tsp
+    name: garam masala
+    raw: 2 teaspoons garam masala
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tsp
+    name: amchur
+    raw: 1 teaspoon amchur
+  - qty: 1
+    unit: tsp
+    name: chaat masala
+    raw: 1 teaspoon chaat masala
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 100
+    unit: g
+    name: panko breadcrumbs
+    raw: 100 g panko breadcrumbs
+  - qty: 2
+    unit: tbsp
+    name: rice flour
+    raw: 2 tablespoons rice flour
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 1
+    name: mint
+    raw: 1 small bunch fresh mint
+  - qty: 2
+    name: green chillies
+    raw: 2 fresh green chillies
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - name: juice of 2 limes
+    raw: Juice of 2 limes
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons cold water
+  - qty: 80
+    unit: g
+    name: tamarind pulp
+    raw: 80 g tamarind pulp
+  - qty: 100
+    unit: g
+    name: pitted dates
+    raw: 100 g pitted dates
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml hot water
+  - qty: 2
+    unit: tbsp
+    name: jaggery
+    raw: 2 tablespoons jaggery
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon ground ginger
+  - qty: 0.5
+    unit: tsp
+    name: kashmiri chilli powder
+    raw: ½ teaspoon Kashmiri chilli powder
+  - qty: 0.5
+    unit: tsp
+    name: black salt
+    raw: ½ teaspoon black salt
+  - qty: 4
+    name: soft white burger buns
+    raw: 4 soft white burger buns
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tablespoons mayonnaise
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 1
+    name: tomato
+    raw: 1 large tomato
+  - qty: 0.5
+    name: cucumber
+    raw: ½ cucumber
+  - qty: 1
+    name: cos lettuce heart
+    raw: 1 cos lettuce heart
+  - name: coriander
+    raw: Fresh coriander sprigs
+  - qty: 6
+    unit: tbsp
+    name: vegetable oil
+    raw: 6 tablespoons vegetable oil
+  - name: masala chips
+    raw: Masala chips
+  - name: cold mango lassi or thums up cola
+    raw: Cold mango lassi or Thums Up cola

@@ -1,0 +1,70 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - sides
+  - meat
+  - pork
+  - eggs
+  - butter
+  - cheese
+mentions: []
+ingredients:
+  - qty: 300
+    unit: g
+    name: yellow cornmeal
+    raw: 300 g yellow cornmeal
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 g plain flour
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 1
+    unit: tsp
+    name: baking soda
+    raw: 1 teaspoon baking soda
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 500
+    unit: ml
+    name: buttermilk
+    raw: 500 ml buttermilk
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 200
+    unit: g
+    name: cheddar
+    raw: 200 g grated sharp cheddar
+  - qty: 2
+    name: jalapenos
+    raw: 2 fresh jalapeños
+  - qty: 100
+    unit: g
+    name: sweet corn kernels
+    raw: 100 g sweet corn kernels
+  - qty: 2
+    unit: tbsp
+    name: bacon fat or butter
+    raw: 2 tablespoons bacon fat or butter

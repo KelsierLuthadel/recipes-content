@@ -1,0 +1,63 @@
+prep: 15 minutes (plus 1 hour temperature)
+cook: 12 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - potato
+  - spinach
+  - butter
+mentions:
+  - sauces/sauce-savory/bearnaise-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: ny strip steaks
+    raw: 4 NY strip steaks
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tablespoons fine sea salt
+  - qty: 2
+    unit: tsp
+    name: black pepper
+    raw: 2 teaspoons coarse ground black pepper
+  - qty: 4
+    unit: tbsp
+    name: neutral oil
+    raw: 4 tablespoons neutral oil
+  - qty: 100
+    unit: g
+    name: butter
+    raw: 100 g butter
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 4
+    unit: sprig
+    name: rosemary
+    raw: 4 sprigs fresh rosemary
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme
+  - name: maldon sea salt
+    raw: Maldon sea salt for finishing
+  - name: black pepper
+    raw: Fresh ground black pepper
+  - name: hash brown potatoes
+    raw: Hash brown potatoes
+  - name: creamed spinach
+    raw: Creamed spinach
+  - name: onion rings
+    raw: Onion rings
+  - name: bearnaise sauce
+    raw: Béarnaise sauce
+  - name: red wine
+    raw: Red wine

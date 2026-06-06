@@ -2,7 +2,7 @@
 
 ![Sukuma Wiki](resources/sukuma-wiki.jpg)
 
-*The East African greens dish: collard greens (or kale) finely shredded and sautéed with onion, tomato and a splash of stock. The name means "push the week" — the dish stretches a small meat budget to cover the days till payday.*
+*The East African greens dish: collard greens (or kale) finely shredded and sautéed with onion, tomato and a splash of stock. The name means "push the week" - the dish stretches a small meat budget to cover the days till payday.*
 
 **Serves:** 4
 

@@ -13,8 +13,7 @@ tags:
   - butter
   - cheese
   - chili
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 1
     name: baguette

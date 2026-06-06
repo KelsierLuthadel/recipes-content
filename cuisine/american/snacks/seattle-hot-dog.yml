@@ -1,0 +1,73 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - meat
+  - beef
+  - pork
+  - onion
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: bratwurst sausages or chunky all-beef frankfurters
+    raw: 4 bratwurst sausages or chunky all-beef frankfurters
+  - qty: 4
+    name: hot dog buns
+    raw: 4 hot dog buns
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 2
+    name: yellow onions
+    raw: 2 large yellow onions
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    unit: tsp
+    name: brown sugar
+    raw: 1 teaspoon brown sugar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 200
+    unit: g
+    name: cream cheese
+    raw: 200 g cream cheese
+  - qty: 2
+    name: jalapenos
+    raw: 2 fresh jalapeños
+  - qty: 200
+    unit: g
+    name: green cabbage
+    raw: 200 g raw green cabbage
+  - name: sriracha hot sauce
+    raw: Sriracha hot sauce
+  - name: "optional: chopped fresh chives"
+    raw: "Optional: chopped fresh chives"
+  - name: local ipa or pale ale
+    raw: Local IPA or pale ale
+  - name: kettle chips
+    raw: Kettle chips

@@ -18,8 +18,7 @@ tags:
   - chili
   - complex
   - halloween
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 2
     unit: tbsp

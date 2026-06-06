@@ -13,8 +13,6 @@ tags:
   - cheese
 mentions:
   - cuisine/mexican/carne-asada
-  - cuisine/mexican/side-dishes/mexican-rice
-  - tutorials/pizza/cheese
 ingredients:
   - qty: 500
     unit: g

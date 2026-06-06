@@ -11,8 +11,7 @@ tags:
   - butter
   - cheese
   - nuts
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 250
     unit: g

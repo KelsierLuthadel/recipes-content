@@ -1,0 +1,56 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - chili
+mentions:
+  - cuisine/mexican/snacks/guacamole
+ingredients:
+  - qty: 4
+    name: hass avocados
+    raw: 4 large ripe Hass avocados
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion
+  - qty: 2
+    name: jalapenos
+    raw: 2 fresh jalapeños
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - name: juice of 2 limes
+    raw: Juice of 2 limes
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    name: tomato
+    raw: 1 small ripe tomato
+  - qty: 1
+    name: chilli
+    raw: 1 small fresh chilli

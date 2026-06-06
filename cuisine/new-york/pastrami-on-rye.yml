@@ -1,0 +1,35 @@
+prep: 15 minutes (assumes pre-made pastrami; or 5 days for full cure + smoke)
+cook: 10 minutes (warming)
+allergens:
+  - gluten
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - quick
+  - meals
+  - meat
+  - beef
+  - honey
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: pre-made pastrami
+    raw: 1 kg pre-made pastrami
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 8
+    name: ny seeded jewish rye bread
+    raw: 8 thick slices NY seeded Jewish rye bread
+  - name: plenty of yellow mustard
+    raw: Plenty of yellow mustard
+  - qty: 8
+    name: sour dill pickle spears
+    raw: 8 whole sour dill pickle spears
+  - name: cole slaw
+    raw: Cole slaw
+  - name: dr brown's cel-ray or root beer
+    raw: Dr Brown's Cel-Ray or root beer

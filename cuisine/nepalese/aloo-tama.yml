@@ -19,8 +19,7 @@ tags:
   - coriander
   - chili
   - complex
-mentions:
-  - cuisine/american/side-dishes/black-eyed-peas
+mentions: []
 ingredients:
   - qty: 200
     unit: g

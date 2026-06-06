@@ -1,0 +1,84 @@
+prep: 25 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - one-pan
+  - eggs
+  - butter
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 400
+    unit: g
+    name: caster sugar
+    raw: 400 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: baking soda
+    raw: 1 teaspoon baking soda
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 4
+    unit: tbsp
+    name: cocoa powder
+    raw: 4 tablespoons cocoa powder
+  - qty: 200
+    unit: ml
+    name: buttermilk
+    raw: 200 ml buttermilk
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 2
+    unit: tsp
+    name: vanilla extract
+    raw: 2 teaspoons vanilla extract
+  - qty: 150
+    unit: g
+    name: unsalted butter
+    raw: 150 g unsalted butter
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 4
+    unit: tbsp
+    name: cocoa powder
+    raw: 4 tablespoons cocoa powder
+  - qty: 500
+    unit: g
+    name: icing sugar
+    raw: 500 g icing sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 200
+    unit: g
+    name: pecans
+    raw: 200 g pecans

@@ -1,0 +1,81 @@
+prep: 1.5 hours
+cook: 1.5 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/tamales
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: pork shoulder
+    raw: 800 g pork shoulder
+  - qty: 8
+    name: nm red chillies
+    raw: 8 dried NM red chillies
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml hot water
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 2
+    unit: tbsp
+    name: cumin
+    raw: 2 tablespoons cumin
+  - qty: 2
+    unit: tbsp
+    name: oregano
+    raw: 2 tablespoons oregano
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 600
+    unit: ml
+    name: chicken stock
+    raw: 600 ml chicken stock
+  - qty: 800
+    unit: g
+    name: masa harina
+    raw: 800 g masa harina
+  - qty: 250
+    unit: g
+    name: lard
+    raw: 250 g lard
+  - qty: 1.2
+    unit: l
+    name: chicken stock
+    raw: 1.2 litres hot chicken stock
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 4
+    unit: tbsp
+    name: reserved red chile paste
+    raw: 4 tablespoons reserved red chile paste
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 30
+    name: corn husks
+    raw: 30 dried corn husks

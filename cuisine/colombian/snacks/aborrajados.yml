@@ -8,8 +8,7 @@ tags:
   - vegetarian
   - snack
   - eggs
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 4
     name: plantains

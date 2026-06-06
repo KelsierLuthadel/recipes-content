@@ -1,0 +1,59 @@
+prep: 25 minutes
+cook: 0 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - snack
+  - make-ahead
+  - onion
+  - garlic
+  - tomato
+  - coriander
+mentions:
+  - cuisine/puerto-rican/asopao-de-pollo
+  - cuisine/puerto-rican/habichuelas-guisadas
+  - cuisine/puerto-rican/pollo-guisado
+  - cuisine/puerto-rican/side-dishes/arroz-con-gandules
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: green bell peppers
+    raw: 4 medium green bell peppers
+  - qty: 8
+    name: ajies dulces
+    raw: 8 ajíes dulces
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 1
+    name: garlic
+    raw: 1 whole head garlic
+  - qty: 2
+    name: cilantro
+    raw: 2 large bunches fresh cilantro
+  - qty: 1
+    name: culantro / recao - or double the cilantro if unavailable
+    raw: 1 small bunch fresh culantro / recao - or double the cilantro if unavailable
+  - qty: 1
+    name: tomato
+    raw: 1 medium tomato
+  - qty: 1
+    name: red bell pepper
+    raw: 1 medium red bell pepper
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano

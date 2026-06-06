@@ -1,0 +1,91 @@
+prep: 25 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - eggs
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - pork
+  - eggs
+  - potato
+  - lemon
+  - butter
+  - chili
+  - complex
+mentions:
+  - drinks/cocktails/mimosa
+  - sauces/sauce-savory/hollandaise-sauce
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/hollandaise
+ingredients:
+  - qty: 3
+    name: egg yolks
+    raw: 3 large egg yolks
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tablespoon water
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - name: juice of ½ lemon
+    raw: Juice of ½ lemon
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
+  - qty: 0.25
+    unit: tsp
+    name: cayenne
+    raw: ¼ teaspoon cayenne
+  - qty: 1
+    unit: pinch
+    name: white pepper
+    raw: Pinch of white pepper
+  - qty: 8
+    name: eggs
+    raw: 8 large eggs
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 4
+    unit: tbsp
+    name: white wine vinegar
+    raw: 4 tablespoons white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 4
+    name: english muffins
+    raw: 4 English muffins
+  - qty: 8
+    name: canadian bacon
+    raw: 8 slices Canadian bacon
+  - qty: 4
+    unit: tbsp
+    name: butter
+    raw: 4 tablespoons butter
+  - qty: 1
+    name: chives
+    raw: 1 small bunch fresh chives
+  - name: sweet paprika
+    raw: Sweet paprika
+  - name: black pepper
+    raw: Fresh ground black pepper
+  - name: hash brown potatoes
+    raw: Hash brown potatoes
+  - name: fruit
+    raw: Fresh fruit
+  - name: coffee or mimosa
+    raw: Coffee or mimosa

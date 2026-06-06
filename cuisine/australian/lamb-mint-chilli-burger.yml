@@ -1,0 +1,126 @@
+prep: 25 minutes (plus 30 minutes mixture chill)
+cook: 12 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - butter
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - bread-pasta/burger-buns
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: lamb shoulder
+    raw: 800 g ground lamb shoulder
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: mint
+    raw: 1 small bunch fresh mint
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 2
+    name: red chillies
+    raw: 2 fresh red chillies
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1
+    unit: tsp
+    name: coriander seed
+    raw: 1 teaspoon ground coriander seed
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 300
+    unit: g
+    name: greek yogurt
+    raw: 300 g thick Greek yogurt
+  - qty: 1
+    name: mint
+    raw: 1 small bunch fresh mint
+  - qty: 1
+    name: garlic clove
+    raw: 1 small garlic clove
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 3
+    unit: tbsp
+    name: white wine vinegar
+    raw: 3 tablespoons white wine vinegar
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 4
+    name: brioche burger buns
+    raw: 4 brioche burger buns
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 1
+    name: cos lettuce heart
+    raw: 1 cos lettuce heart
+  - qty: 1
+    name: tomato
+    raw: 1 large tomato
+  - qty: 0.5
+    name: cucumber
+    raw: ½ cucumber
+  - qty: 4
+    name: leaves fresh mint
+    raw: 4 leaves fresh mint
+  - name: hand-cut chips or shoestring fries
+    raw: Hand-cut chips or shoestring fries
+  - name: cold lager or australian shiraz
+    raw: Cold lager or Australian Shiraz

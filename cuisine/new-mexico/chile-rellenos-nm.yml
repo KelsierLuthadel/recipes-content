@@ -1,0 +1,72 @@
+prep: 30 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - spicy
+  - meals
+  - eggs
+  - rice
+  - onion
+  - lime
+  - coriander
+  - cream
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/enchilladas
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: hatch green chillies
+    raw: 8 large fresh Hatch green chillies
+  - qty: 200
+    unit: g
+    name: monterey jack
+    raw: 200 g Monterey Jack
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 60
+    unit: g
+    name: plain flour
+    raw: 60 g plain flour
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 200
+    unit: ml
+    name: vegetable oil
+    raw: 200 ml vegetable oil
+  - qty: 500
+    unit: ml
+    name: red chile sauce
+    raw: 500 ml red chile sauce
+  - name: or 500 ml green chile sauce
+    raw: OR 500 ml green chile sauce
+  - qty: 200
+    unit: g
+    name: monterey jack
+    raw: 200 g grated Monterey Jack
+  - name: mexican crema or sour cream
+    raw: Mexican crema or sour cream
+  - name: coriander
+    raw: Fresh coriander
+  - name: red onion
+    raw: Sliced raw red onion
+  - name: lime wedges
+    raw: Lime wedges
+  - name: new mexican rice
+    raw: New Mexican rice
+  - name: pinto beans
+    raw: Pinto beans
+  - name: warm flour tortillas
+    raw: Warm flour tortillas

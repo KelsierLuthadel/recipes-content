@@ -10,8 +10,7 @@ tags:
   - eggs
   - butter
   - cheese
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 250
     unit: ml

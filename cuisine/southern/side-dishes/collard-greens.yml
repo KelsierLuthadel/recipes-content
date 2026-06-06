@@ -1,0 +1,74 @@
+prep: 15 minutes
+cook: 2 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - meat
+  - pork
+  - onion
+  - garlic
+  - chili
+  - complex
+mentions:
+  - cuisine/southern/hoppin-john
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: collard greens
+    raw: 1.5 kg fresh collard greens
+  - qty: 1
+    name: smoked ham hock
+    raw: 1 smoked ham hock
+  - qty: 4
+    unit: tbsp
+    name: bacon fat or vegetable oil
+    raw: 4 tablespoons bacon fat or vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    name: chilli
+    raw: 1 small fresh chilli
+  - qty: 1.5
+    unit: l
+    name: chicken stock
+    raw: 1.5 litres chicken stock
+  - qty: 4
+    unit: tbsp
+    name: apple cider vinegar
+    raw: 4 tablespoons apple cider vinegar
+  - qty: 2
+    unit: tbsp
+    name: brown sugar
+    raw: 2 tablespoons brown sugar
+  - qty: 2
+    unit: tbsp
+    name: hot sauce
+    raw: 2 tablespoons hot sauce
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: red pepper flakes
+    raw: 1 teaspoon red pepper flakes
+  - qty: 1
+    unit: small splash
+    name: vinegar
+    raw: 1 small splash extra vinegar
+  - name: hot sauce
+    raw: Hot sauce for serving

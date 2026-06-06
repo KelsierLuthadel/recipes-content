@@ -1,0 +1,57 @@
+prep: 10 minutes
+cook: 3 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - garlic
+  - lime
+  - coriander
+  - chili
+mentions:
+  - cuisine/cuban/masitas-de-puerco
+  - cuisine/cuban/side-dishes/malanga-frita
+  - cuisine/cuban/yuca-con-mojo
+  - drinks/fruit/fresh-orange-juice
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 150
+    unit: ml
+    name: virgin olive oil
+    raw: 150 ml extra virgin olive oil
+  - qty: 150
+    unit: ml
+    name: sour orange juice ; or 75 ml fresh orange juice + 75 ml fresh lime juice as substitute
+    raw: 150 ml fresh sour orange juice ; OR 75 ml fresh orange juice + 75 ml fresh lime juice as substitute
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 2
+    unit: tsp
+    name: oregano
+    raw: 2 teaspoons dried oregano
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: chilli
+    raw: 1 small fresh chilli
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon fresh coriander

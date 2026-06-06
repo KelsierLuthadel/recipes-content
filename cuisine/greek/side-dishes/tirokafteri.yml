@@ -11,8 +11,7 @@ tags:
   - garlic
   - cheese
   - chili
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 200
     unit: g

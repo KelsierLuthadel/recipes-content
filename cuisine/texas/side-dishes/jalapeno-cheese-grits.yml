@@ -1,0 +1,96 @@
+prep: 10 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - sides
+  - meat
+  - fish
+  - pork
+  - prawn
+  - onion
+  - butter
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/southern/shrimp-and-grits
+  - cuisine/texas/chicken-fried-steak
+  - sauces/sauce-fish/lemon-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: stone-milled white or yellow grits
+    raw: 250 g coarse stone-milled white or yellow grits
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 500
+    unit: ml
+    name: chicken stock
+    raw: 500 ml hot chicken stock
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 100
+    unit: g
+    name: cream cheese
+    raw: 100 g cream cheese
+  - qty: 200
+    unit: g
+    name: cheddar
+    raw: 200 g grated sharp cheddar
+  - qty: 150
+    unit: g
+    name: monterey jack
+    raw: 150 g grated Monterey Jack
+  - qty: 2.5
+    name: jalapenos
+    raw: 2-3 fresh jalapeños
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - qty: 0.5
+    unit: tsp
+    name: cayenne pepper
+    raw: ½ teaspoon cayenne pepper
+  - qty: 2
+    unit: tbsp
+    name: chives
+    raw: 2 tablespoons chopped fresh chives
+  - qty: 1
+    unit: tbsp
+    name: spring onion green
+    raw: 1 tablespoon sliced spring onion green
+  - name: cheddar
+    raw: Extra grated cheddar
+  - name: pickled jalapenos
+    raw: Sliced pickled jalapeños
+  - qty: 4
+    name: strips cooked crispy bacon
+    raw: 4 strips cooked crispy bacon
+  - qty: 200
+    unit: g
+    name: shrimp
+    raw: 200 g cooked shrimp

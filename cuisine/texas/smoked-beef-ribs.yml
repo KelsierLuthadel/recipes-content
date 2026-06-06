@@ -1,0 +1,49 @@
+prep: 20 minutes
+cook: 7 hours
+allergens:
+  - gluten
+  - meat
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - potato
+  - complex
+mentions:
+  - cuisine/texas/snacks/texas-bbq-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: rack beef plate ribs
+    raw: 1 rack beef plate ribs
+  - qty: 4
+    unit: tbsp
+    name: kosher salt
+    raw: 4 tablespoons coarse kosher salt
+  - qty: 4
+    unit: tbsp
+    name: black pepper
+    raw: 4 tablespoons coarsely ground black pepper
+  - name: post-oak chunks ; or oak; or hickory
+    raw: Post-oak chunks ; or oak; or hickory
+  - name: white bread
+    raw: White bread
+  - name: pickles
+    raw: Pickles
+  - name: white onion
+    raw: Sliced raw white onion
+  - name: pickled jalapenos
+    raw: Pickled jalapeños
+  - name: texas bbq sauce
+    raw: Texas BBQ sauce
+  - name: pinto beans
+    raw: Pinto beans
+  - name: potato salad
+    raw: Potato salad
+  - name: coleslaw
+    raw: Coleslaw
+  - name: beer
+    raw: Cold beer

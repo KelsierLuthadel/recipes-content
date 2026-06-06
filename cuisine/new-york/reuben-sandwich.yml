@@ -1,0 +1,73 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - beef
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: warm sliced corned beef
+    raw: 600 g warm sliced corned beef
+  - qty: 8
+    name: ny seeded rye bread
+    raw: 8 slices NY seeded rye bread
+  - qty: 8
+    name: swiss cheese
+    raw: 8 slices Swiss cheese
+  - qty: 400
+    unit: g
+    name: sauerkraut
+    raw: 400 g sauerkraut
+  - qty: 4
+    unit: tbsp
+    name: butter
+    raw: 4 tablespoons butter
+  - qty: 6
+    unit: tbsp
+    name: mayonnaise
+    raw: 6 tablespoons mayonnaise
+  - qty: 4
+    unit: tbsp
+    name: ketchup
+    raw: 4 tablespoons ketchup
+  - qty: 2
+    unit: tbsp
+    name: sweet pickle relish
+    raw: 2 tablespoons sweet pickle relish
+  - qty: 1
+    unit: tbsp
+    name: prepared horseradish
+    raw: 1 tablespoon prepared horseradish
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: hot sauce
+    raw: 1 teaspoon hot sauce
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon ground black pepper
+  - name: dill pickle spears
+    raw: Dill pickle spears
+  - name: kettle chips or coleslaw
+    raw: Kettle chips or coleslaw
+  - name: beer
+    raw: Cold beer

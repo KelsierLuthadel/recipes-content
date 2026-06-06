@@ -13,8 +13,7 @@ tags:
   - lime
   - coriander
   - cheese
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 1
     name: poblano pepper

@@ -1,0 +1,114 @@
+prep: 20 minutes
+cook: 1 hour
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - lime
+  - coriander
+  - complex
+mentions:
+  - cuisine/puerto-rican/habichuelas-guisadas
+  - cuisine/puerto-rican/mofongo
+  - cuisine/puerto-rican/side-dishes/maduros
+  - drinks/regional/mexico/agua-de-tamarindo
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: chicken thighs and drumsticks
+    raw: 8 bone-in skin-on chicken thighs and drumsticks
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: adobo seasoning
+    raw: 1 tablespoon adobo seasoning
+  - qty: 1
+    unit: tbsp
+    name: sazon
+    raw: 1 tablespoon sazón
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 4
+    unit: tbsp
+    name: sofrito
+    raw: 4 tablespoons sofrito
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 1
+    name: green bell pepper
+    raw: 1 medium green bell pepper
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 200
+    unit: ml
+    name: tomato sauce
+    raw: 200 ml tomato sauce
+  - qty: 400
+    unit: ml
+    name: chicken stock
+    raw: 400 ml hot chicken stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 3
+    name: potatoes
+    raw: 3 medium potatoes
+  - qty: 2
+    name: carrots
+    raw: 2 medium carrots
+  - qty: 80
+    unit: g
+    name: pitted green olives
+    raw: 80 g pitted green olives
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tablespoons capers
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - name: lime wedges
+    raw: Lime wedges
+  - name: plain white rice
+    raw: Plain white rice
+  - name: habichuelas guisadas
+    raw: Habichuelas guisadas
+  - name: tostones or maduros
+    raw: Tostones or maduros
+  - name: pique
+    raw: Pique

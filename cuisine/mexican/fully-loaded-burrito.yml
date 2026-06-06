@@ -17,10 +17,8 @@ tags:
   - cream
   - cheese
 mentions:
-  - cuisine/mexican/side-dishes/mexican-rice
   - cuisine/mexican/side-dishes/spiced-rice
   - cuisine/mexican/snacks/guacamole
-  - tutorials/pizza/cheese
   - tutorials/pizza/toppings
 ingredients:
   - qty: 1

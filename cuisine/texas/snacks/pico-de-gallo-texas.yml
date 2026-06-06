@@ -1,0 +1,48 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - snack
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+mentions:
+  - cuisine/mexican/snacks/salsa-roja
+ingredients:
+  - qty: 6
+    name: tomatoes
+    raw: 6 medium ripe tomatoes
+  - qty: 1
+    name: white onion
+    raw: 1 medium white onion
+  - qty: 2
+    name: jalapenos
+    raw: 2 fresh jalapeños
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - name: juice of 2 limes
+    raw: Juice of 2 limes
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove

@@ -1,0 +1,59 @@
+prep: 20 minutes
+cook: 0 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - quick
+  - snack
+  - make-ahead
+  - garlic
+  - lemon
+  - cheese
+  - nuts
+mentions:
+  - cuisine/italian/pesto
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: shelled walnuts
+    raw: 200 g shelled walnuts
+  - qty: 100
+    unit: g
+    name: day-old white bread
+    raw: 100 g day-old white bread
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml whole milk
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 50
+    unit: g
+    name: parmesan
+    raw: 50 g grated Parmesan
+  - qty: 150
+    unit: ml
+    name: virgin olive oil
+    raw: 150 ml extra virgin olive oil
+  - qty: 2
+    unit: tbsp
+    name: marjoram leaves
+    raw: 2 tablespoons fresh marjoram leaves
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice

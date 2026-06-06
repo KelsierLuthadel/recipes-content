@@ -1,0 +1,112 @@
+prep: 15 minutes (plus 30 minutes marinating)
+cook: 40 minutes (or 10 minutes if using leftover ropa vieja meat)
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/cuban/ropa-vieja
+  - cuisine/puerto-rican/side-dishes/maduros
+  - drinks/cocktails/mojito
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: flank steak
+    raw: 1 kg flank steak
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1.5
+    unit: l
+    name: beef stock or water
+    raw: 1.5 litres beef stock or water
+  - qty: 800
+    unit: g
+    name: shredded cooked beef from leftover ropa vieja
+    raw: 800 g shredded cooked beef from leftover ropa vieja
+  - name: juice of 4 limes
+    raw: Juice of 4 limes
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 6
+    unit: tbsp
+    name: olive oil
+    raw: 6 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    name: chilli
+    raw: 1 small fresh chilli
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - name: lime wedges
+    raw: Lime wedges
+  - name: plain white rice
+    raw: Plain white rice
+  - name: black beans
+    raw: Black beans
+  - name: sweet plantains
+    raw: Sweet plantains
+  - name: avocado
+    raw: Sliced avocado
+  - name: salad
+    raw: Fresh salad
+  - name: cristal beer or mojito
+    raw: Cristal beer or mojito

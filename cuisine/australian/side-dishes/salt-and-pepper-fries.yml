@@ -1,0 +1,78 @@
+prep: 20 minutes (plus 30 minutes potato soaking)
+cook: 15 minutes
+allergens:
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - sides
+  - meat
+  - chicken
+  - garlic
+  - potato
+  - lemon
+  - complex
+mentions:
+  - cuisine/british/fish-and-chips
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: floury potatoes
+    raw: 1.2 kg floury potatoes
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - qty: 2
+    unit: tbsp
+    name: flaky sea salt
+    raw: 2 tablespoons flaky sea salt
+  - qty: 2
+    unit: tsp
+    name: garlic powder
+    raw: 2 teaspoons garlic powder
+  - qty: 2
+    unit: tsp
+    name: onion powder
+    raw: 2 teaspoons onion powder
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon ground white pepper
+  - qty: 1
+    unit: tsp
+    name: cracked black pepper
+    raw: 1 teaspoon cracked black pepper
+  - qty: 0.5
+    unit: tsp
+    name: celery seed
+    raw: ½ teaspoon ground celery seed
+  - qty: 0.5
+    unit: tsp
+    name: msg
+    raw: ½ teaspoon MSG
+  - qty: 1
+    unit: tsp
+    name: parsley
+    raw: 1 teaspoon dried parsley
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 2
+    unit: tbsp
+    name: australian chicken salt
+    raw: 2 tablespoons Australian chicken salt
+  - name: tomato sauce
+    raw: Tomato sauce
+  - name: aioli or garlic mayo
+    raw: Aioli or garlic mayo
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: beer
+    raw: Cold beer

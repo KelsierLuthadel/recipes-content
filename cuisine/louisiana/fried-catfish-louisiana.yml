@@ -1,0 +1,88 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - garlic
+tags:
+  - spicy
+  - quick
+  - meals
+  - fish
+  - lemon
+  - chili
+  - complex
+mentions:
+  - base-ingredients/spices/cajun-spice-mix
+  - cuisine/american/side-dishes/hush-puppies
+  - cuisine/louisiana/side-dishes/hush-puppies
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: catfish fillets
+    raw: 4 catfish fillets
+  - qty: 600
+    unit: ml
+    name: buttermilk
+    raw: 600 ml buttermilk
+  - qty: 1
+    unit: tbsp
+    name: hot sauce
+    raw: 1 tablespoon hot sauce
+  - qty: 1
+    unit: tbsp
+    name: cajun seasoning
+    raw: 1 tablespoon Cajun seasoning
+  - qty: 250
+    unit: g
+    name: yellow cornmeal
+    raw: 250 g coarse yellow cornmeal
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 2
+    unit: tbsp
+    name: cajun seasoning
+    raw: 2 tablespoons Cajun seasoning
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cayenne
+    raw: 1 teaspoon cayenne
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - name: vegetable oil or lard for deep-frying
+    raw: Vegetable oil or lard for deep-frying
+  - name: hush puppies
+    raw: Hush puppies
+  - name: cole slaw
+    raw: Cole slaw
+  - name: french fries
+    raw: French fries
+  - name: remoulade or tartar sauce
+    raw: Remoulade or tartar sauce
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: hot sauce
+    raw: Hot sauce
+  - name: crystal hot sauce or tabasco
+    raw: Crystal hot sauce or Tabasco

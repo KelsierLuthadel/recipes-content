@@ -1,0 +1,97 @@
+prep: 20 minutes
+cook: 1 hour 45 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: lamb shoulder
+    raw: 1 kg lamb shoulder
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 4
+    name: tomatoes
+    raw: 4 medium ripe tomatoes
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tablespoons tomato paste
+  - qty: 300
+    unit: ml
+    name: dry white wine
+    raw: 300 ml dry white wine
+  - qty: 800
+    unit: ml
+    name: hot lamb or chicken stock
+    raw: 800 ml hot lamb or chicken stock
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tablespoon sweet paprika
+  - qty: 1
+    unit: tbsp
+    name: piri-piri
+    raw: 1 tablespoon piri-piri
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    name: mint
+    raw: 1 large bunch fresh mint
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - name: stale broa or any sturdy stale white bread
+    raw: Stale broa or any sturdy stale white bread
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil for drizzling
+  - name: lemon wedges
+    raw: Lemon wedges

@@ -1,0 +1,99 @@
+prep: 30 minutes (plus crust resting)
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - ginger
+  - potato
+  - butter
+  - cream
+  - complex
+mentions:
+  - cuisine/american/desserts/pumpkin-pie
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 150
+    unit: g
+    name: cold butter
+    raw: 150 g cold butter
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 3.5
+    unit: tbsp
+    name: ice-cold water
+    raw: 3-4 tablespoons ice-cold water
+  - qty: 1
+    unit: kg
+    name: sweet potatoes
+    raw: 1 kg sweet potatoes
+  - qty: 200
+    unit: g
+    name: dark brown sugar
+    raw: 200 g dark brown sugar
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 2
+    unit: tsp
+    name: vanilla extract
+    raw: 2 teaspoons vanilla extract
+  - qty: 1
+    unit: tbsp
+    name: cinnamon
+    raw: 1 tablespoon ground cinnamon
+  - qty: 2
+    unit: tsp
+    name: nutmeg
+    raw: 2 teaspoons ground nutmeg
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 teaspoon ground cloves
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon ground ginger
+  - name: zest of 1 orange
+    raw: Zest of 1 orange
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - name: icing sugar for dusting
+    raw: Icing sugar for dusting
+  - name: whipped cream
+    raw: Whipped cream
+  - qty: 1
+    unit: pinch
+    name: cinnamon
+    raw: A pinch of cinnamon for the cream

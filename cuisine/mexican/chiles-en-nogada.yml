@@ -1,0 +1,148 @@
+prep: 1 hour 15 minutes
+cook: 1 hour
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - cream
+  - cheese
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 6
+    name: poblano peppers
+    raw: 6 large poblano peppers
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 600
+    unit: g
+    name: pork
+    raw: 600 g ground pork
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    name: tomatoes
+    raw: 4 medium ripe tomatoes
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 1
+    name: apple
+    raw: 1 medium apple
+  - qty: 1
+    name: pear
+    raw: 1 medium pear
+  - qty: 1
+    name: peach
+    raw: 1 medium peach
+  - qty: 100
+    unit: g
+    name: raisins or sultanas
+    raw: 100 g raisins or sultanas
+  - qty: 60
+    unit: g
+    name: blanched slivered almonds
+    raw: 60 g blanched slivered almonds
+  - qty: 60
+    unit: g
+    name: candied citron or candied orange peel
+    raw: 60 g candied citron or candied orange peel
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons fresh parsley
+  - qty: 1
+    unit: tbsp
+    name: cinnamon
+    raw: 1 tablespoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 teaspoon ground cloves
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 2
+    unit: tbsp
+    name: sherry vinegar
+    raw: 2 tablespoons sherry vinegar
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 200
+    unit: g
+    name: shelled walnuts
+    raw: 200 g shelled walnuts
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 100
+    unit: g
+    name: cream cheese
+    raw: 100 g cream cheese
+  - qty: 60
+    unit: ml
+    name: dry sherry
+    raw: 60 ml dry sherry
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 1
+    name: pomegranate
+    raw: 1 large pomegranate
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch fresh flat-leaf parsley
+  - qty: 2
+    unit: tbsp
+    name: pine nuts
+    raw: 2 tablespoons pine nuts

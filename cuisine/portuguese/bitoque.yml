@@ -1,0 +1,104 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+  - garlic
+tags:
+  - quick
+  - meals
+  - meat
+  - beef
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - lemon
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: steaks
+    raw: 2 thin steaks
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 3
+    unit: tbsp
+    name: unsalted butter
+    raw: 3 tablespoons unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 100
+    unit: ml
+    name: dry white wine
+    raw: 100 ml dry white wine
+  - qty: 100
+    unit: ml
+    name: beef stock
+    raw: 100 ml beef stock
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 4
+    unit: cup
+    name: plain white rice
+    raw: 4 cups cooked plain white rice
+  - qty: 6
+    name: potatoes
+    raw: 6 medium potatoes
+  - qty: 1
+    name: head lettuce
+    raw: 1 small head lettuce
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 2
+    unit: tbsp
+    name: olive oil + 1 tablespoon white vinegar
+    raw: 2 tablespoons olive oil + 1 tablespoon white vinegar
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - name: crusty bread
+    raw: Crusty bread
+  - name: mustard
+    raw: Mustard
+  - name: lemon wedges
+    raw: Lemon wedges

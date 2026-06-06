@@ -1,0 +1,109 @@
+prep: 20 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - fish
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - carrot
+  - lemon
+  - coriander
+  - complex
+mentions:
+  - cuisine/french/bouillabaisse
+ingredients:
+  - qty: 600
+    unit: g
+    name: firm white fish
+    raw: 600 g firm white fish
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    name: tomatoes
+    raw: 2 medium ripe tomatoes
+  - qty: 1
+    name: red bell pepper
+    raw: 1 medium red bell pepper
+  - qty: 2
+    name: carrots
+    raw: 2 medium carrots
+  - qty: 2
+    name: potatoes
+    raw: 2 medium potatoes
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 250
+    unit: ml
+    name: dry white wine
+    raw: 250 ml dry white wine
+  - qty: 1
+    unit: l
+    name: fish stock
+    raw: 1 litre hot fish stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: aleppo pepper or merken
+    raw: 1 teaspoon Aleppo pepper or merkén
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: olive oil
+    raw: Extra olive oil for drizzling
+  - name: marraqueta bread
+    raw: Marraqueta bread
+  - name: pebre
+    raw: Pebre
+  - name: chilean white wine
+    raw: Cold Chilean white wine

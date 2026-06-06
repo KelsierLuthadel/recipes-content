@@ -1,0 +1,77 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - beef
+  - eggs
+  - onion
+  - potato
+  - lemon
+  - complex
+mentions:
+  - cuisine/chilean/side-dishes/completo
+ingredients:
+  - qty: 2
+    name: beef steaks
+    raw: 2 large beef steaks
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 6
+    name: potatoes
+    raw: 6 large potatoes
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - qty: 1
+    unit: tsp
+    name: flaky sea salt
+    raw: 1 teaspoon flaky sea salt
+  - qty: 2
+    name: white onions
+    raw: 2 large white onions
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - name: parsley
+    raw: Fresh parsley
+  - name: pebre
+    raw: Pebre
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: marraqueta bread
+    raw: Marraqueta bread
+  - name: salad
+    raw: Salad
+  - name: beer or red wine
+    raw: Cold beer or red wine

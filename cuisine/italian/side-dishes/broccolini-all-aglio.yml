@@ -1,0 +1,51 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - garlic
+  - lemon
+mentions:
+  - cuisine/italian/osso-buco
+ingredients:
+  - qty: 600
+    unit: g
+    name: broccolini ; trimmed
+    raw: 600 g broccolini ; trimmed
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tablespoons salt
+  - qty: 6
+    unit: tbsp
+    name: virgin olive oil
+    raw: 6 tablespoons extra virgin olive oil
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: red pepper flakes
+    raw: 1 teaspoon red pepper flakes
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice
+  - name: olive oil
+    raw: Extra olive oil for finishing

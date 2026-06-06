@@ -1,0 +1,67 @@
+prep: 30 minutes
+cook: 40 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - sides
+  - garlic
+  - lemon
+  - complex
+mentions: []
+ingredients:
+  - qty: 4
+    name: roman artichokes
+    raw: 4 large Roman artichokes
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - qty: 1
+    name: mint
+    raw: 1 large bunch fresh mint
+  - qty: 1
+    name: parsley
+    raw: 1 large bunch fresh parsley
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 150
+    unit: ml
+    name: virgin olive oil
+    raw: 150 ml extra virgin olive oil
+  - qty: 200
+    unit: ml
+    name: dry white wine
+    raw: 200 ml dry white wine
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - name: virgin olive oil
+    raw: Extra virgin olive oil for drizzling
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: crusty bread
+    raw: Crusty bread

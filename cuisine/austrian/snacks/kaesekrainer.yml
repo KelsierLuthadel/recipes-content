@@ -13,8 +13,7 @@ tags:
   - onion
   - cheese
   - curry
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 4
     name: kasekrainer

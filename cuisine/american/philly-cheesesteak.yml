@@ -13,8 +13,7 @@ tags:
   - onion
   - butter
   - nuts
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 500
     unit: g

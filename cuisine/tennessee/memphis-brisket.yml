@@ -1,0 +1,120 @@
+prep: 30 minutes (plus 12 hours dry rub time)
+cook: 10-14 hours
+allergens:
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - chili
+  - complex
+mentions:
+  - cuisine/american/pulled-pork
+  - cuisine/american/side-dishes/baked-beans
+  - cuisine/tennessee/memphis-pulled-pork
+  - cuisine/tennessee/side-dishes/memphis-bbq-slaw
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: packer brisket
+    raw: 1 whole packer brisket
+  - qty: 4
+    unit: tbsp
+    name: yellow mustard
+    raw: 4 tablespoons yellow mustard
+  - qty: 80
+    unit: g
+    name: brown sugar
+    raw: 80 g brown sugar
+  - qty: 4
+    unit: tbsp
+    name: paprika
+    raw: 4 tablespoons paprika
+  - qty: 3
+    unit: tbsp
+    name: chilli powder
+    raw: 3 tablespoons mild chilli powder
+  - qty: 2
+    unit: tbsp
+    name: garlic powder
+    raw: 2 tablespoons garlic powder
+  - qty: 2
+    unit: tbsp
+    name: onion powder
+    raw: 2 tablespoons onion powder
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tablespoons fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: black pepper
+    raw: 2 tablespoons coarse ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: mustard powder
+    raw: 1 tablespoon mustard powder
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: cayenne
+    raw: 1 tablespoon cayenne
+  - qty: 3
+    unit: kg
+    name: hickory wood chunks
+    raw: 3 kg hickory wood chunks
+  - qty: 200
+    unit: ml
+    name: apple cider vinegar
+    raw: 200 ml apple cider vinegar
+  - qty: 100
+    unit: ml
+    name: beef stock
+    raw: 100 ml beef stock
+  - qty: 50
+    unit: ml
+    name: worcestershire sauce
+    raw: 50 ml Worcestershire sauce
+  - qty: 2
+    unit: tbsp
+    name: dry rub
+    raw: 2 tablespoons dry rub
+  - qty: 250
+    unit: ml
+    name: ketchup
+    raw: 250 ml ketchup
+  - qty: 100
+    unit: ml
+    name: apple cider vinegar
+    raw: 100 ml apple cider vinegar
+  - qty: 50
+    unit: g
+    name: brown sugar
+    raw: 50 g brown sugar
+  - qty: 2
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 2 tablespoons Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: yellow mustard
+    raw: 1 tablespoon yellow mustard
+  - name: memphis vinegar coleslaw
+    raw: Memphis vinegar coleslaw
+  - name: baked beans
+    raw: Baked beans
+  - name: skillet cornbread
+    raw: Skillet cornbread
+  - name: pickle chips
+    raw: Pickle chips
+  - name: sweet tea
+    raw: Sweet tea

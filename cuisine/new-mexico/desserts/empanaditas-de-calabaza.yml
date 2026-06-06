@@ -1,0 +1,86 @@
+prep: 1 hour (plus 30 minutes pastry chilling)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - potato
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 200
+    unit: g
+    name: cold butter
+    raw: 200 g cold butter
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 2
+    name: egg yolks
+    raw: 2 large egg yolks
+  - qty: 5
+    unit: tbsp
+    name: ice-cold water
+    raw: 4-6 tablespoons ice-cold water
+  - qty: 600
+    unit: g
+    name: mashed pumpkin
+    raw: 600 g cooked mashed pumpkin
+  - qty: 150
+    unit: g
+    name: brown sugar
+    raw: 150 g brown sugar
+  - qty: 1
+    unit: tbsp
+    name: cinnamon
+    raw: 1 tablespoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 teaspoon ground nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 80
+    unit: g
+    name: raisins
+    raw: 80 g raisins
+  - qty: 50
+    unit: g
+    name: pinon nuts
+    raw: 50 g piñon nuts
+  - qty: 1
+    unit: tsp
+    name: vanilla
+    raw: 1 teaspoon vanilla
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 4
+    unit: tbsp
+    name: caster sugar
+    raw: 4 tablespoons caster sugar
+  - qty: 1
+    unit: tbsp
+    name: cinnamon
+    raw: 1 tablespoon ground cinnamon

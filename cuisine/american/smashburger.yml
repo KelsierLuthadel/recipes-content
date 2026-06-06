@@ -15,8 +15,7 @@ tags:
   - potato
   - butter
   - cheese
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 600
     unit: g

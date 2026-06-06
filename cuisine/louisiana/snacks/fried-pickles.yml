@@ -1,0 +1,72 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - quick
+  - snack
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: dill pickle slices
+    raw: 500 g dill pickle slices
+  - qty: 250
+    unit: ml
+    name: buttermilk
+    raw: 250 ml buttermilk
+  - qty: 1
+    unit: tbsp
+    name: hot sauce
+    raw: 1 tablespoon hot sauce
+  - qty: 200
+    unit: g
+    name: yellow cornmeal
+    raw: 200 g coarse yellow cornmeal
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tbsp
+    name: cajun seasoning
+    raw: 1 tablespoon Cajun seasoning
+  - qty: 1
+    unit: tsp
+    name: cayenne
+    raw: 1 teaspoon cayenne
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - name: remoulade sauce or ranch dressing
+    raw: Remoulade sauce or ranch dressing
+  - name: hot sauce
+    raw: Hot sauce
+  - name: beer
+    raw: Cold beer

@@ -1,0 +1,116 @@
+prep: 30 minutes (plus 4 hours marinating)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: chicken pieces
+    raw: 8 bone-in chicken pieces
+  - qty: 600
+    unit: ml
+    name: buttermilk
+    raw: 600 ml buttermilk
+  - qty: 3
+    unit: tbsp
+    name: hot sauce
+    raw: 3 tablespoons hot sauce
+  - qty: 1
+    unit: tbsp
+    name: sea salt
+    raw: 1 tablespoon fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 2
+    unit: tbsp
+    name: paprika
+    raw: 2 tablespoons paprika
+  - qty: 2
+    unit: tbsp
+    name: garlic powder
+    raw: 2 tablespoons garlic powder
+  - qty: 1
+    unit: tbsp
+    name: onion powder
+    raw: 1 tablespoon onion powder
+  - qty: 1
+    unit: tbsp
+    name: sea salt
+    raw: 1 tablespoon fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: black pepper
+    raw: 1 tablespoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: cayenne
+    raw: 1 teaspoon cayenne
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 1.5
+    unit: l
+    name: vegetable oil
+    raw: 1.5 litres vegetable oil for frying
+  - qty: 250
+    unit: ml
+    name: the frying oil
+    raw: 250 ml of the frying oil
+  - qty: 4.5
+    unit: tbsp
+    name: cayenne
+    raw: 3-6 tablespoons cayenne
+  - qty: 2
+    unit: tbsp
+    name: brown sugar
+    raw: 2 tablespoons brown sugar
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tbsp
+    name: garlic powder
+    raw: 1 tablespoon garlic powder
+  - qty: 1
+    unit: tsp
+    name: mustard powder
+    raw: 1 teaspoon mustard powder
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 8
+    name: plain white bread
+    raw: 8 slices plain white bread
+  - qty: 1
+    name: dill pickle chips
+    raw: 1 jar dill pickle chips
+  - name: beer
+    raw: Cold beer
+  - name: sweet tea
+    raw: Sweet tea

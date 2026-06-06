@@ -1,0 +1,85 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - garlic
+tags:
+  - spicy
+  - quick
+  - meals
+  - fish
+  - lemon
+  - chili
+  - complex
+mentions:
+  - cuisine/american/side-dishes/hush-puppies
+  - cuisine/louisiana/side-dishes/hush-puppies
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: catfish fillets
+    raw: 4 catfish fillets
+  - qty: 400
+    unit: ml
+    name: buttermilk
+    raw: 400 ml buttermilk
+  - qty: 1
+    unit: tbsp
+    name: hot sauce
+    raw: 1 tablespoon hot sauce
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 250
+    unit: g
+    name: yellow cornmeal
+    raw: 250 g coarse yellow cornmeal
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tbsp
+    name: garlic powder
+    raw: 1 tablespoon garlic powder
+  - qty: 1
+    unit: tbsp
+    name: onion powder
+    raw: 1 tablespoon onion powder
+  - qty: 1
+    unit: tbsp
+    name: black pepper
+    raw: 1 tablespoon coarse ground black pepper
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cayenne
+    raw: 1 teaspoon cayenne
+  - qty: 200
+    unit: ml
+    name: vegetable oil
+    raw: 200 ml vegetable oil
+  - name: hush puppies
+    raw: Hush puppies
+  - name: coleslaw
+    raw: Coleslaw
+  - name: french fries
+    raw: French fries
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: tartar sauce
+    raw: Tartar sauce
+  - name: hot sauce
+    raw: Hot sauce
+  - name: sweet tea
+    raw: Sweet tea

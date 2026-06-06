@@ -1,0 +1,102 @@
+prep: 1 hour (plus 30 min dough chill, and 4 hour ricotta drain)
+cook: 25 minutes (frying shells)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cheese
+  - chocolate
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 1
+    unit: tbsp
+    name: cocoa powder
+    raw: 1 tablespoon cocoa powder
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 40
+    unit: g
+    name: lard or butter
+    raw: 40 g lard or butter
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 80
+    unit: ml
+    name: dry marsala wine
+    raw: 80 ml dry marsala wine
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 1
+    name: egg white
+    raw: 1 large egg white
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - qty: 600
+    unit: g
+    name: ricotta
+    raw: 600 g whole-milk ricotta
+  - qty: 200
+    unit: g
+    name: icing sugar
+    raw: 200 g icing sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - name: zest of 1 orange
+    raw: Zest of 1 orange
+  - qty: 100
+    unit: g
+    name: mini dark chocolate chips
+    raw: 100 g mini dark chocolate chips
+  - qty: 60
+    unit: g
+    name: candied orange peel
+    raw: 60 g candied orange peel
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: Pinch of fine sea salt
+  - qty: 100
+    unit: g
+    name: unsalted pistachios
+    raw: 100 g unsalted pistachios
+  - qty: 100
+    unit: g
+    name: mini dark chocolate chips
+    raw: 100 g mini dark chocolate chips
+  - name: icing sugar for dusting
+    raw: Icing sugar for dusting
+  - name: candied cherries
+    raw: Candied cherries

@@ -1,0 +1,124 @@
+prep: 20 minutes (plus overnight marinating)
+cook: 6 hours
+allergens:
+  - gluten
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - carrot
+  - lemon
+  - chili
+  - complex
+mentions:
+  - cuisine/chilean/ensalada-chilena
+  - cuisine/indian/side-dishes/onion-salad
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: kg
+    name: beef brisket
+    raw: 2 kg beef brisket
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 2
+    unit: tbsp
+    name: merken
+    raw: 2 tablespoons merkén
+  - qty: 2
+    unit: tbsp
+    name: oregano
+    raw: 2 tablespoons dried oregano
+  - qty: 2
+    unit: tbsp
+    name: cumin
+    raw: 2 tablespoons ground cumin
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - name: juice of 2 lemons
+    raw: Juice of 2 lemons
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 2
+    name: carrots
+    raw: 2 large carrots
+  - qty: 1
+    name: celery
+    raw: 1 stalk celery
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: tomato paste
+    raw: 4 tablespoons tomato paste
+  - qty: 400
+    unit: ml
+    name: dry red wine
+    raw: 400 ml dry red wine
+  - qty: 600
+    unit: ml
+    name: beef stock
+    raw: 600 ml beef stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons fresh parsley
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: pure de papas
+    raw: Puré de papas
+  - name: ensalada chilena
+    raw: Ensalada chilena
+  - name: pebre
+    raw: Pebre
+  - name: marraqueta bread
+    raw: Marraqueta bread

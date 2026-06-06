@@ -18,7 +18,8 @@ tags:
   - chili
   - complex
   - kwanzaa
-mentions: []
+mentions:
+  - cuisine/southern/hoppin-john
 ingredients:
   - qty: 400
     unit: g

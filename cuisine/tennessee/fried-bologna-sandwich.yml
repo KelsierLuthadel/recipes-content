@@ -1,0 +1,60 @@
+prep: 10 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - mustard
+tags:
+  - vegetarian
+  - spicy
+  - quick
+  - meals
+  - onion
+  - tomato
+  - potato
+  - butter
+  - cheese
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: bologna
+    raw: 8 thick slices bologna
+  - qty: 4
+    unit: tbsp
+    name: butter
+    raw: 4 tablespoons butter
+  - qty: 8
+    name: american cheese
+    raw: 8 slices American cheese
+  - qty: 8
+    name: soft white bread
+    raw: 8 slices soft white bread
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tablespoons mayonnaise
+  - qty: 4
+    unit: tbsp
+    name: yellow mustard
+    raw: 4 tablespoons yellow mustard
+  - qty: 16
+    name: dill pickle chips
+    raw: 16 dill pickle chips
+  - qty: 4
+    name: iceberg lettuce leaves
+    raw: 4 iceberg lettuce leaves
+  - qty: 4
+    name: tomato slices
+    raw: 4 tomato slices
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - name: hot sauce
+    raw: Hot sauce
+  - name: crisp salt-and-vinegar chips
+    raw: Crisp salt-and-vinegar chips
+  - name: sweet tea or cold beer
+    raw: Sweet tea or cold beer
+  - name: pickle spear
+    raw: Pickle spear

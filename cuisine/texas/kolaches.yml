@@ -1,0 +1,139 @@
+prep: 1 hour (plus 2 hours dough rising)
+cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - lemon
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain bread flour
+    raw: 500 g plain bread flour
+  - qty: 10
+    unit: g
+    name: instant dried yeast
+    raw: 10 g instant dried yeast
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml warm whole milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 300
+    unit: g
+    name: apricots
+    raw: 300 g dried apricots
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml water
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 300
+    unit: g
+    name: pitted prunes
+    raw: 300 g pitted prunes
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 200
+    unit: g
+    name: poppy seeds
+    raw: 200 g ground poppy seeds
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml whole milk
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 300
+    unit: g
+    name: cream cheese
+    raw: 300 g cream cheese
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 50
+    unit: g
+    name: cold butter
+    raw: 50 g cold butter

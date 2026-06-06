@@ -1,0 +1,50 @@
+prep: 30 minutes (plus 1.5 hours rising)
+cook: 22 minutes
+allergens:
+  - gluten
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - snack
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 600
+    unit: g
+    name: bread flour
+    raw: 600 g strong bread flour
+  - qty: 10
+    unit: g
+    name: instant dried yeast
+    raw: 10 g instant dried yeast
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 380
+    unit: ml
+    name: water
+    raw: 380 ml warm water
+  - qty: 4
+    unit: tbsp
+    name: grape molasses
+    raw: 4 tablespoons grape molasses
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml warm water
+  - qty: 300
+    unit: g
+    name: sesame seeds
+    raw: 300 g raw sesame seeds

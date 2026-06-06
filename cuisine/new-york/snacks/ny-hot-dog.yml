@@ -1,0 +1,89 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - meat
+  - beef
+  - onion
+  - chili
+  - complex
+mentions:
+  - cuisine/new-york/snacks/bagel-dog
+  - drinks/cocktails/manhattan
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 8
+    name: all-beef hot dogs
+    raw: 8 all-beef hot dogs
+  - qty: 8
+    name: soft hot dog buns
+    raw: 8 soft hot dog buns
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 4
+    name: onions
+    raw: 4 large onions
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tablespoons tomato paste
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: cayenne
+    raw: ½ teaspoon cayenne
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: apple cider vinegar
+    raw: 1 tablespoon apple cider vinegar
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - qty: 600
+    unit: g
+    name: sauerkraut
+    raw: 600 g sauerkraut
+  - name: plenty of yellow mustard
+    raw: Plenty of yellow mustard
+  - name: brown mustard
+    raw: Spicy brown mustard
+  - name: sweet pickle relish
+    raw: Sweet pickle relish
+  - name: onion
+    raw: Chopped raw onion
+  - name: hot sauce
+    raw: Hot sauce

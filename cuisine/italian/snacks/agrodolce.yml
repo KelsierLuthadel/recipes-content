@@ -1,0 +1,67 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - snack
+  - onion
+  - garlic
+  - honey
+  - nuts
+mentions:
+  - cuisine/italian/side-dishes/caponata
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: ml
+    name: white wine vinegar
+    raw: 200 ml white wine vinegar
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    name: red onion
+    raw: 1 medium red onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: red pepper flakes
+    raw: 1 teaspoon red pepper flakes
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 50
+    unit: g
+    name: raisins or sultanas
+    raw: 50 g raisins or sultanas
+  - qty: 50
+    unit: g
+    name: toasted pine nuts
+    raw: 50 g toasted pine nuts
+  - qty: 1
+    unit: tbsp
+    name: capers
+    raw: 1 tablespoon chopped capers
+  - qty: 1
+    name: mint
+    raw: 1 small bunch fresh mint

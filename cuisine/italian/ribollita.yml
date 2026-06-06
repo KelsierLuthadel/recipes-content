@@ -1,0 +1,126 @@
+prep: 25 minutes (plus overnight bean soaking)
+cook: 2 hours
+allergens:
+  - gluten
+  - dairy
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - make-ahead
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - carrot
+  - cheese
+  - complex
+mentions:
+  - cuisine/british/vegetable-soup
+ingredients:
+  - qty: 400
+    unit: g
+    name: cannellini beans
+    raw: 400 g dried cannellini beans
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres cold water
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 6
+    unit: tbsp
+    name: olive oil
+    raw: 6 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 3
+    name: carrots
+    raw: 3 large carrots
+  - qty: 2
+    name: celery stalks
+    raw: 2 celery stalks
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: tomato paste
+    raw: 4 tablespoons tomato paste
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 400
+    unit: g
+    name: cavolo nero
+    raw: 400 g cavolo nero
+  - qty: 400
+    unit: g
+    name: savoy cabbage
+    raw: 400 g Savoy cabbage
+  - qty: 2
+    name: potatoes
+    raw: 2 medium potatoes
+  - qty: 100
+    unit: g
+    name: chard
+    raw: 100 g chard
+  - qty: 2
+    unit: l
+    name: vegetable stock
+    raw: 2 litres hot vegetable stock
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 3
+    unit: sprig
+    name: rosemary
+    raw: 3 sprigs fresh rosemary
+  - qty: 2
+    unit: sprig
+    name: thyme
+    raw: 2 sprigs fresh thyme
+  - qty: 2
+    unit: sprig
+    name: sage
+    raw: 2 sprigs fresh sage
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: red pepper flakes
+    raw: 1 teaspoon red pepper flakes
+  - qty: 8
+    name: stale tuscan bread
+    raw: 8 thick slices stale Tuscan bread
+  - qty: 100
+    unit: ml
+    name: virgin olive oil
+    raw: 100 ml extra virgin olive oil
+  - qty: 100
+    unit: g
+    name: parmesan
+    raw: 100 g grated Parmesan
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - name: herbs
+    raw: Fresh herbs

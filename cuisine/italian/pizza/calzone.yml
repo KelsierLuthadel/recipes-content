@@ -10,7 +10,6 @@ tags:
   - tomato
   - cheese
 mentions:
-  - tutorials/pizza/cheese
   - tutorials/pizza/dough
 ingredients:
   - qty: 320

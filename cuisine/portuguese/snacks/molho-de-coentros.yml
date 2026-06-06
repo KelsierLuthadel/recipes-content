@@ -1,0 +1,63 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - make-ahead
+  - garlic
+  - lemon
+  - coriander
+  - cheese
+  - nuts
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: coriander
+    raw: 2 large bunches fresh coriander
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 6
+    unit: tbsp
+    name: virgin olive oil
+    raw: 6 tablespoons extra virgin olive oil
+  - qty: 3
+    unit: tbsp
+    name: white wine vinegar
+    raw: 3 tablespoons white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    name: green chilli
+    raw: 1 fresh green chilli
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 2
+    unit: tbsp
+    name: parmesan
+    raw: 2 tablespoons grated Parmesan
+  - qty: 30
+    unit: g
+    name: pine nuts
+    raw: 30 g pine nuts

@@ -1,0 +1,88 @@
+prep: 15 minutes (plus overnight soaking)
+cook: 2 hours
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - complex
+mentions:
+  - cuisine/cuban/frijoles-negros
+  - cuisine/mexican/huevos-rancheros
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: black beans
+    raw: 500 g dried black beans
+  - qty: 3
+    unit: l
+    name: water for cooking
+    raw: 3 litres cold water for cooking
+  - qty: 2
+    name: white onions
+    raw: 2 medium white onions
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 2
+    name: jalapeno peppers
+    raw: 2 fresh jalapeño peppers
+  - qty: 2
+    name: bay leaves
+    raw: 2 large bay leaves
+  - qty: 2
+    unit: tbsp
+    name: epazote
+    raw: 2 tablespoons fresh epazote
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: mexican oregano
+    raw: 1 tablespoon dried Mexican oregano
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: lard
+    raw: 2 tablespoons lard
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 2
+    unit: tbsp
+    name: epazote
+    raw: 2 tablespoons chopped fresh epazote
+  - name: lime wedges
+    raw: Lime wedges
+  - name: mexican rice
+    raw: Mexican rice
+  - name: corn tortillas
+    raw: Corn tortillas
+  - name: red onion
+    raw: Sliced raw red onion
+  - name: crumbled queso fresco
+    raw: Crumbled queso fresco
+  - name: avocado
+    raw: Sliced avocado
+  - name: hot sauce
+    raw: Hot sauce

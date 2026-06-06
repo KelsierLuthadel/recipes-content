@@ -1,0 +1,113 @@
+prep: 20 minutes (plus 30 minutes marinating)
+cook: 40 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/puerto-rican/habichuelas-guisadas
+  - cuisine/puerto-rican/side-dishes/maduros
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: steak or thinly sliced top sirloin
+    raw: 800 g cube steak or thinly sliced top sirloin
+  - name: juice of 3 limes
+    raw: Juice of 3 limes
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: adobo seasoning
+    raw: 1 tablespoon adobo seasoning
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 5
+    name: yellow or red onions
+    raw: 5 large yellow or red onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: white vinegar
+    raw: 3 tablespoons white vinegar
+  - qty: 200
+    unit: ml
+    name: beef stock
+    raw: 200 ml hot beef stock
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: chilli
+    raw: 1 small fresh chilli
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander
+  - name: lime wedges
+    raw: Lime wedges
+  - name: plain white rice
+    raw: Plain white rice
+  - name: habichuelas
+    raw: Habichuelas
+  - name: tostones or maduros
+    raw: Tostones or maduros
+  - name: avocado
+    raw: Sliced avocado
+  - name: pique
+    raw: Pique

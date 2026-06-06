@@ -15,8 +15,7 @@ tags:
   - onion
   - potato
   - chili
-mentions:
-  - cuisine/chilean/side-dishes/pebre
+mentions: []
 ingredients:
   - qty: 800
     unit: g

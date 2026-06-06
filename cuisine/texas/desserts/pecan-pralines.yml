@@ -1,0 +1,43 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - butter
+  - cream
+  - nuts
+mentions:
+  - cuisine/new-orleans/pralines
+ingredients:
+  - qty: 250
+    unit: g
+    name: dark brown sugar
+    raw: 250 g dark brown sugar
+  - qty: 250
+    unit: g
+    name: granulated sugar
+    raw: 250 g granulated sugar
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 300
+    unit: g
+    name: pecan halves
+    raw: 300 g pecan halves

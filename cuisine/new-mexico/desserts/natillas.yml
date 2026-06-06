@@ -1,0 +1,53 @@
+prep: 20 minutes (plus 2 hours chilling)
+cook: 15 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - eggs
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre whole milk
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 6
+    name: eggs
+    raw: 6 large eggs
+  - qty: 4
+    unit: tbsp
+    name: cornstarch
+    raw: 4 tablespoons cornstarch
+  - qty: 0.25
+    unit: tsp
+    name: sea salt
+    raw: ¼ teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 teaspoon ground nutmeg
+  - qty: 2
+    name: egg whites
+    raw: 2 large egg whites
+  - qty: 4
+    unit: tbsp
+    name: caster sugar
+    raw: 4 tablespoons caster sugar

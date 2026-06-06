@@ -1,0 +1,57 @@
+prep: 20 minutes (plus 1 hour dough resting)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - make-ahead
+  - sides
+  - meat
+  - beef
+  - tomato
+  - cheese
+  - honey
+  - complex
+mentions:
+  - cuisine/southwest/navajo-tacos
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    unit: tbsp
+    name: baking powder
+    raw: 1 tablespoon baking powder
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 3
+    unit: tbsp
+    name: lard or vegetable shortening
+    raw: 3 tablespoons lard or vegetable shortening
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - name: honey
+    raw: Honey
+  - name: powdered sugar
+    raw: Powdered sugar
+  - name: cinnamon-sugar
+    raw: Cinnamon-sugar
+  - name: jam
+    raw: Jam
+  - name: "navajo taco filling: seasoned beef + beans + lettuce + tomato + cheese"
+    raw: "Navajo taco filling: seasoned beef + beans + lettuce + tomato + cheese"
+  - name: red or green chile sauce
+    raw: Red or green chile sauce
+  - name: cheese
+    raw: Grated cheese

@@ -1,0 +1,146 @@
+prep: 25 minutes (plus 1 hour marinade rest)
+cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - butter
+  - honey
+  - chili
+  - complex
+mentions:
+  - bread-pasta/burger-buns
+  - cuisine/mexican/snacks/guacamole
+  - cuisine/mexican/snacks/salsa-roja
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 500
+    unit: g
+    name: pork shoulder
+    raw: 500 g ground pork shoulder
+  - qty: 300
+    unit: g
+    name: beef chuck
+    raw: 300 g ground beef chuck
+  - qty: 3
+    name: guajillo chillies
+    raw: 3 dried guajillo chillies
+  - qty: 2
+    name: ancho chillies
+    raw: 2 dried ancho chillies
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml hot water
+  - qty: 2
+    unit: tbsp
+    name: achiote paste
+    raw: 2 tablespoons achiote paste
+  - qty: 4
+    unit: tbsp
+    name: pineapple juice
+    raw: 4 tablespoons pineapple juice
+  - qty: 3
+    unit: tbsp
+    name: white wine vinegar
+    raw: 3 tablespoons white wine vinegar
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: mexican oregano
+    raw: 1 tablespoon dried Mexican oregano
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: ½ teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: chipotle in adobo
+    raw: 1 chipotle in adobo
+  - qty: 8
+    unit: tbsp
+    name: mayonnaise
+    raw: 8 tablespoons mayonnaise
+  - qty: 2
+    name: chipotles in adobo
+    raw: 2 chipotles in adobo
+  - qty: 1
+    unit: tbsp
+    name: adobo sauce from the tin
+    raw: 1 tablespoon adobo sauce from the tin
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - qty: 1
+    name: garlic clove
+    raw: 1 small garlic clove
+  - qty: 1
+    unit: tsp
+    name: honey
+    raw: 1 teaspoon honey
+  - qty: 1
+    name: pineapple
+    raw: 1 small pineapple
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 2
+    name: avocados
+    raw: 2 ripe avocados
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 4
+    name: soft white burger buns
+    raw: 4 soft white burger buns
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - name: plain corn chips with salsa roja
+    raw: Plain corn chips with salsa roja
+  - name: lime wedges
+    raw: Lime wedges
+  - name: mexican beer with lime and salt
+    raw: Cold Mexican beer with lime and salt

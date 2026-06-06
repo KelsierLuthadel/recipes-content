@@ -1,0 +1,58 @@
+prep: 30 minutes (plus 1 hour dough resting)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - sides
+  - honey
+  - complex
+mentions:
+  - cuisine/chilean/side-dishes/sopaipillas
+  - cuisine/mexican/enchilladas
+  - cuisine/new-mexico/sopaipilla-relleno
+  - cuisine/southwest/carne-adovada
+  - cuisine/southwest/green-chile-stew
+  - sauces/sauce-sweet/chocolate-sauce
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 3
+    unit: tbsp
+    name: lard
+    raw: 3 tablespoons lard
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - name: honey
+    raw: Honey
+  - name: powdered sugar
+    raw: Powdered sugar
+  - name: cinnamon
+    raw: Cinnamon
+  - name: whipped cream
+    raw: Whipped cream

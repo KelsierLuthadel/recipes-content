@@ -1,0 +1,55 @@
+prep: 15 minutes
+cook: 5 minutes (toasting bagels)
+allergens:
+  - dairy
+  - sesame
+  - fish
+tags:
+  - gluten-free
+  - quick
+  - snack
+  - fish
+  - salmon
+  - onion
+  - tomato
+  - lemon
+  - cheese
+mentions:
+  - cuisine/israel/side-dishes/bagels
+  - drinks/cocktails/mimosa
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: everything bagels
+    raw: 4 fresh everything bagels
+  - qty: 250
+    unit: g
+    name: cream cheese
+    raw: 250 g full-fat cream cheese
+  - qty: 300
+    unit: g
+    name: cold-cured lox
+    raw: 300 g cold-cured lox
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 2
+    name: tomatoes
+    raw: 2 medium tomatoes
+  - qty: 4
+    unit: tbsp
+    name: capers
+    raw: 4 tablespoons capers
+  - qty: 1
+    name: dill
+    raw: 1 small bunch fresh dill
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: black pepper
+    raw: Fresh ground black pepper
+  - name: cucumber
+    raw: Sliced cucumber
+  - name: avocado
+    raw: Sliced avocado
+  - name: pickled red onion
+    raw: Pickled red onion

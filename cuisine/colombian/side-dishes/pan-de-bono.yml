@@ -10,7 +10,6 @@ tags:
   - eggs
   - cheese
 mentions:
-  - tutorials/pizza/cheese
   - tutorials/pizza/dough
 ingredients:
   - qty: 300

@@ -1,0 +1,98 @@
+prep: 25 minutes
+cook: 2 hours
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: pork shoulder
+    raw: 1 kg pork shoulder
+  - qty: 1
+    unit: kg
+    name: hominy
+    raw: 1 kg canned hominy
+  - qty: 10
+    name: new mexico red chillies
+    raw: 10 dried New Mexico red chillies
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml hot water
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 1.8
+    unit: l
+    name: hot chicken or pork stock
+    raw: 1.8 litres hot chicken or pork stock
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 2
+    unit: tbsp
+    name: mexican oregano
+    raw: 2 tablespoons dried Mexican oregano
+  - qty: 1
+    unit: tsp
+    name: coriander seed
+    raw: 1 teaspoon ground coriander seed
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 300
+    unit: g
+    name: shredded green cabbage
+    raw: 300 g finely shredded green cabbage
+  - qty: 7
+    name: radishes
+    raw: 6-8 radishes
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion
+  - qty: 4
+    name: limes
+    raw: 4 limes
+  - qty: 2
+    name: jalapenos
+    raw: 2 fresh jalapeños
+  - name: hot sauce
+    raw: Hot sauce
+  - name: mexican oregano
+    raw: Dried Mexican oregano
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - name: warm corn or flour tortillas
+    raw: Warm corn or flour tortillas

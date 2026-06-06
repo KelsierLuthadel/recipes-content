@@ -13,8 +13,7 @@ tags:
   - eggs
   - butter
   - cheese
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 75
     unit: g

@@ -1,0 +1,73 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - onion
+  - lime
+  - coriander
+  - honey
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: pineapple
+    raw: 400 g fresh ripe pineapple
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion
+  - qty: 6
+    name: spring onions
+    raw: 6 spring onions
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 3
+    name: hot chillies
+    raw: 2-4 fresh hot chillies
+  - qty: 1
+    name: red bell pepper
+    raw: 1 small red bell pepper
+  - qty: 4
+    unit: tbsp
+    name: lime juice
+    raw: 4 tablespoons fresh lime juice
+  - qty: 2
+    unit: tbsp
+    name: white vinegar
+    raw: 2 tablespoons white vinegar
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 2
+    unit: tbsp
+    name: culantro/recao
+    raw: 2 tablespoons fresh culantro/recao
+  - qty: 1
+    unit: tbsp
+    name: honey or panela
+    raw: 1 tablespoon honey or panela

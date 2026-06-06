@@ -1,0 +1,149 @@
+prep: 35 minutes
+cook: 2 hours
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/italian/side-dishes/garlic-bread
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef chuck
+    raw: 500 g ground beef chuck
+  - qty: 300
+    unit: g
+    name: pork shoulder
+    raw: 300 g ground pork shoulder
+  - qty: 200
+    unit: g
+    name: veal
+    raw: 200 g ground veal
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 200
+    unit: g
+    name: panko breadcrumbs
+    raw: 200 g panko breadcrumbs
+  - qty: 100
+    unit: g
+    name: parmesan
+    raw: 100 g grated Parmesan
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 2
+    unit: tbsp
+    name: oregano
+    raw: 2 tablespoons dried oregano
+  - qty: 1
+    unit: tbsp
+    name: fennel seeds
+    raw: 1 tablespoon fennel seeds
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: red chilli flakes
+    raw: ½ teaspoon red chilli flakes
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 2
+    name: tomatoes
+    raw: 2 large tins crushed tomatoes
+  - qty: 2
+    name: tomato passata
+    raw: 2 tins tomato passata
+  - qty: 1
+    name: tomato paste
+    raw: 1 small tin tomato paste
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 6
+    unit: tbsp
+    name: olive oil
+    raw: 6 tablespoons olive oil
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 2
+    unit: tbsp
+    name: oregano
+    raw: 2 tablespoons dried oregano
+  - qty: 2
+    unit: tbsp
+    name: basil
+    raw: 2 tablespoons dried basil
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    unit: tbsp
+    name: sea salt
+    raw: 1 tablespoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: red chilli flakes
+    raw: 1 teaspoon red chilli flakes
+  - qty: 1
+    name: basil
+    raw: 1 small bunch fresh basil
+  - qty: 100
+    unit: ml
+    name: red wine
+    raw: 100 ml red wine
+  - qty: 600
+    unit: g
+    name: spaghetti
+    raw: 600 g spaghetti
+  - name: parmesan
+    raw: Extra grated Parmesan
+  - name: basil leaves
+    raw: Fresh basil leaves
+  - name: crusty bread or garlic bread
+    raw: Crusty bread or garlic bread
+  - name: mixed leaf salad
+    raw: Mixed leaf salad
+  - name: red wine
+    raw: Red wine

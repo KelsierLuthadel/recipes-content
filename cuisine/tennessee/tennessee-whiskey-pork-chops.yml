@@ -1,0 +1,112 @@
+prep: 15 minutes (plus 1 hour brine; optional)
+cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - pork
+  - garlic
+  - potato
+  - lemon
+  - butter
+  - chili
+  - complex
+mentions:
+  - sauces/fruit-sauce/apple-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres cold water
+  - qty: 80
+    unit: g
+    name: salt
+    raw: 80 g salt
+  - qty: 50
+    unit: g
+    name: brown sugar
+    raw: 50 g brown sugar
+  - qty: 1
+    unit: tbsp
+    name: black peppercorns
+    raw: 1 tablespoon black peppercorns
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 4
+    name: thick-cut bone-in pork chops
+    raw: 4 thick-cut bone-in pork chops
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 60
+    unit: ml
+    name: tennessee whiskey
+    raw: 60 ml Tennessee whiskey
+  - qty: 80
+    unit: g
+    name: dark brown sugar
+    raw: 80 g dark brown sugar
+  - qty: 4
+    unit: tbsp
+    name: butter
+    raw: 4 tablespoons butter
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: dijon mustard
+    raw: 2 tablespoons Dijon mustard
+  - qty: 2
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 2 tablespoons Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: apple cider vinegar
+    raw: 1 tablespoon apple cider vinegar
+  - qty: 0.5
+    unit: tsp
+    name: cayenne
+    raw: ½ teaspoon cayenne
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon fresh thyme
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: mashed potatoes
+    raw: Mashed potatoes
+  - name: collard greens or green beans
+    raw: Collard greens or green beans
+  - name: skillet cornbread
+    raw: Skillet cornbread
+  - name: apple sauce
+    raw: Apple sauce

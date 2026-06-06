@@ -1,0 +1,101 @@
+prep: 20 minutes (plus 4 hours marinating)
+cook: 12 minutes
+allergens:
+  - eggs
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - rice
+  - garlic
+  - lime
+  - coriander
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/colombian/bandeja-paisa
+  - cuisine/colombian/side-dishes/frijoles-paisas
+  - cuisine/mexican/carne-asada
+  - cuisine/puerto-rican/side-dishes/maduros
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: skirt steak
+    raw: 1 kg skirt steak
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - name: juice of 4 limes
+    raw: Juice of 4 limes
+  - qty: 2
+    unit: tbsp
+    name: soy sauce
+    raw: 2 tablespoons soy sauce
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 2
+    unit: tbsp
+    name: cumin
+    raw: 2 tablespoons ground cumin
+  - qty: 2
+    unit: tbsp
+    name: oregano
+    raw: 2 tablespoons dried oregano
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon ground paprika
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: achiote powder
+    raw: 1 tablespoon achiote powder
+  - name: flaky sea salt
+    raw: Flaky sea salt
+  - name: lime wedges
+    raw: Lime wedges
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander
+  - name: plain white rice
+    raw: Plain white rice
+  - name: frijoles paisas
+    raw: Frijoles paisas
+  - name: patacones
+    raw: Patacones
+  - name: maduros
+    raw: Maduros
+  - name: fried eggs
+    raw: Fried eggs
+  - name: avocado
+    raw: Sliced avocado
+  - name: chorizo
+    raw: Chorizo
+  - name: chicharron
+    raw: Chicharrón
+  - name: arepas
+    raw: Arepas
+  - name: aji picante
+    raw: Ají picante

@@ -1,0 +1,81 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - one-pan
+  - meals
+  - meat
+  - fish
+  - pork
+  - prawn
+  - onion
+  - garlic
+  - potato
+  - lemon
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 6
+    unit: l
+    name: water
+    raw: 6 litres water
+  - qty: 4
+    unit: tbsp
+    name: bay seasoning
+    raw: 4 tablespoons Old Bay seasoning
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tablespoons salt
+  - qty: 1
+    unit: tbsp
+    name: black peppercorns
+    raw: 1 tablespoon black peppercorns
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1.5
+    unit: kg
+    name: red baby potatoes
+    raw: 1.5 kg small red baby potatoes
+  - qty: 1
+    unit: kg
+    name: smoked sausage
+    raw: 1 kg smoked sausage
+  - qty: 8
+    name: ears corn on the cob
+    raw: 8 ears corn on the cob
+  - qty: 2
+    unit: kg
+    name: shrimp in shells
+    raw: 2 kg large shrimp in shells
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: cocktail sauce
+    raw: Cocktail sauce
+  - name: butter
+    raw: Melted butter
+  - name: hot sauce
+    raw: Hot sauce
+  - name: parsley
+    raw: Fresh parsley
+  - name: crusty bread
+    raw: Crusty bread
+  - name: beer
+    raw: Cold beer

@@ -11,8 +11,7 @@ tags:
   - eggs
   - butter
   - cheese
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 2
     name: leeks

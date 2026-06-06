@@ -16,8 +16,7 @@ tags:
   - cheese
   - nuts
   - complex
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 4
     name: beef tomatoes

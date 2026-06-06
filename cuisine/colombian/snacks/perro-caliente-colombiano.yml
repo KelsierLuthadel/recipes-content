@@ -1,0 +1,93 @@
+prep: 25 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - snack
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - potato
+  - lemon
+  - coriander
+  - butter
+  - cheese
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 8
+    name: quality pork-and-beef frankfurters
+    raw: 8 quality pork-and-beef frankfurters
+  - qty: 8
+    name: soft hot-dog buns
+    raw: 8 soft hot-dog buns
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 200
+    unit: g
+    name: pineapple
+    raw: 200 g fresh pineapple
+  - qty: 100
+    unit: g
+    name: potato chips
+    raw: 100 g potato chips
+  - qty: 100
+    unit: g
+    name: mozzarella
+    raw: 100 g grated mozzarella
+  - qty: 100
+    unit: g
+    name: crispy fried shallots or onions
+    raw: 100 g crispy fried shallots or onions
+  - qty: 4
+    name: dill pickles
+    raw: 4 dill pickles
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - name: chilli
+    raw: Fresh chopped chilli
+  - qty: 8
+    unit: tbsp
+    name: mayonnaise
+    raw: 8 tablespoons mayonnaise
+  - qty: 4
+    unit: tbsp
+    name: ketchup
+    raw: 4 tablespoons ketchup
+  - qty: 4
+    unit: tbsp
+    name: yellow mustard
+    raw: 4 tablespoons yellow mustard
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - name: juice of ½ lemon
+    raw: Juice of ½ lemon
+  - qty: 1
+    unit: tsp
+    name: tabasco
+    raw: 1 teaspoon Tabasco
+  - name: crispy fries on the side
+    raw: Crispy fries on the side
+  - name: colombian beer or chicha
+    raw: Cold Colombian beer or chicha

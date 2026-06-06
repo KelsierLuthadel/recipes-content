@@ -1,0 +1,68 @@
+prep: 15 minutes (assumes pre-made chili)
+cook: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - meals
+  - onion
+  - coriander
+  - cream
+  - cheese
+  - chili
+mentions:
+  - cuisine/new-mexico/nm-frito-pie
+  - cuisine/texas/texas-chili
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    unit: cup
+    name: texas chili
+    raw: 4 cups Texas chili
+  - qty: 1
+    name: bag fritos corn chips
+    raw: 1 small bag Fritos corn chips
+  - qty: 50
+    unit: g
+    name: cheddar cheese
+    raw: 50 g grated sharp cheddar cheese
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    unit: tbsp
+    name: sour cream
+    raw: 2 tablespoons sour cream
+  - qty: 6
+    name: pickled jalapeno
+    raw: 6 slices pickled jalapeño
+  - qty: 1
+    unit: tbsp
+    name: hot sauce
+    raw: 1 tablespoon hot sauce
+  - qty: 1
+    unit: tbsp
+    name: spring onion
+    raw: 1 tablespoon sliced spring onion
+  - name: coriander
+    raw: Fresh chopped coriander
+  - qty: 1
+    name: bag fritos
+    raw: 1 large bag Fritos
+  - qty: 1.5
+    unit: l
+    name: texas chili
+    raw: 1.5 litres Texas chili
+  - qty: 300
+    unit: g
+    name: cheese
+    raw: 300 g grated cheese
+  - qty: 2
+    name: onions chopped
+    raw: 2 onions chopped
+  - name: all toppings doubled
+    raw: All toppings doubled

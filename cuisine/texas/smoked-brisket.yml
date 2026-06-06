@@ -1,0 +1,40 @@
+prep: 30 minutes (plus overnight resting after smoking)
+cook: 12-14 hours
+allergens:
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - nuts
+  - complex
+mentions:
+  - cuisine/texas/snacks/texas-bbq-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: "\"packer cut\" beef brisket"
+    raw: 1 whole "packer cut" beef brisket
+  - qty: 4
+    unit: tbsp
+    name: kosher salt
+    raw: 4 tablespoons coarse kosher salt
+  - qty: 4
+    unit: tbsp
+    name: black pepper
+    raw: 4 tablespoons coarsely ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: garlic powder
+    raw: 1 tablespoon garlic powder
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - name: post-oak wood chunks ; or oak
+    raw: Post-oak wood chunks ; or oak, hickory, mesquite, pecan

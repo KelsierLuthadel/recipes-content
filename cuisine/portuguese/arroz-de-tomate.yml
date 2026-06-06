@@ -1,0 +1,99 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - fish
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - cheese
+  - complex
+mentions:
+  - cuisine/portuguese/arroz-de-marisco
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: medium-grain rice
+    raw: 400 g medium-grain rice
+  - qty: 6
+    unit: tbsp
+    name: olive oil
+    raw: 6 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    unit: kg
+    name: tomatoes ; or 2 tins chopped tomatoes
+    raw: 1 kg ripe tomatoes ; or 2 tins chopped tomatoes
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tablespoons tomato paste
+  - qty: 200
+    unit: ml
+    name: dry white wine
+    raw: 200 ml dry white wine
+  - qty: 1.4
+    unit: l
+    name: vegetable stock
+    raw: 1.4 litres hot vegetable stock
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tablespoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: piri-piri sauce
+    raw: 1 teaspoon piri-piri sauce
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 4
+    name: fried eggs
+    raw: 4 fried eggs
+  - qty: 100
+    unit: g
+    name: parmesan or aged cheese
+    raw: 100 g grated Parmesan or aged cheese for finishing
+  - name: grilled sardines
+    raw: Grilled sardines
+  - name: fried eggs
+    raw: Fried eggs
+  - name: crusty bread
+    raw: Crusty bread

@@ -13,9 +13,9 @@ tags:
   - chocolate
 mentions:
   - cuisine/american/desserts/nyc-cheesecake
+  - cuisine/new-york/desserts/new-york-cheesecake
   - drinks/regional/america/egg-cream
   - tutorials/distilling-spirits/safety
-  - tutorials/pizza/cheese
 ingredients:
   - qty: 4
     name: eggs

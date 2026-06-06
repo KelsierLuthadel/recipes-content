@@ -1,0 +1,143 @@
+prep: 25 minutes (plus overnight marinating)
+cook: 3 hours
+allergens:
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - coconut
+  - lime
+  - coriander
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/colombian/side-dishes/arroz-con-coco
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/thai/side-dishes/coconut-rice
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: beef eye round
+    raw: 1.5 kg beef eye round
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: soy sauce
+    raw: 4 tablespoons soy sauce
+  - qty: 4
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 4 tablespoons Worcestershire sauce
+  - qty: 3
+    unit: tbsp
+    name: vinegar
+    raw: 3 tablespoons vinegar
+  - qty: 2
+    unit: tbsp
+    name: cumin
+    raw: 2 tablespoons ground cumin
+  - qty: 2
+    unit: tbsp
+    name: oregano
+    raw: 2 tablespoons dried oregano
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 teaspoon ground cloves
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 1
+    name: green bell pepper
+    raw: 1 medium green bell pepper
+  - qty: 1
+    name: red bell pepper
+    raw: 1 medium red bell pepper
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    name: tomatoes
+    raw: 4 medium tomatoes
+  - qty: 4
+    unit: tbsp
+    name: tomato paste
+    raw: 4 tablespoons tomato paste
+  - qty: 80
+    unit: g
+    name: panela
+    raw: 80 g panela
+  - qty: 500
+    unit: ml
+    name: cola
+    raw: 500 ml cola
+  - qty: 400
+    unit: ml
+    name: beef stock
+    raw: 400 ml beef stock
+  - qty: 100
+    unit: ml
+    name: dry red wine
+    raw: 100 ml dry red wine
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - name: lime wedges
+    raw: Lime wedges
+  - name: arroz con coco
+    raw: Arroz con coco
+  - name: patacones
+    raw: Patacones
+  - name: salad
+    raw: Fresh salad
+  - name: avocado
+    raw: Sliced avocado
+  - name: aji picante
+    raw: Ají picante

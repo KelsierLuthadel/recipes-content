@@ -1,0 +1,56 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - meat
+  - mustard
+  - celery
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - snack
+  - meat
+  - beef
+  - onion
+  - tomato
+  - honey
+mentions:
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: all-beef vienna-style frankfurters
+    raw: 4 all-beef Vienna-style frankfurters
+  - qty: 4
+    name: poppy seed hot dog buns
+    raw: 4 poppy seed hot dog buns
+  - name: yellow mustard
+    raw: Yellow mustard
+  - qty: 2
+    unit: tbsp
+    name: neon-green sweet pickle relish
+    raw: 2 tablespoons neon-green sweet pickle relish
+  - qty: 2
+    unit: tbsp
+    name: white onion
+    raw: 2 tablespoons finely chopped white onion
+  - qty: 2.5
+    name: tomato wedges
+    raw: 2-3 thick tomato wedges
+  - qty: 1
+    name: dill pickle spear
+    raw: 1 dill pickle spear
+  - qty: 2
+    name: pickled sport peppers
+    raw: 2 pickled sport peppers
+  - qty: 1
+    unit: pinch
+    name: celery salt
+    raw: Pinch of celery salt
+  - name: absolutely no ketchup
+    raw: Absolutely no ketchup
+  - name: crinkle-cut fries
+    raw: Crinkle-cut fries
+  - name: cold can of soda
+    raw: A cold can of soda
+  - name: italian beef sandwich on the side
+    raw: Italian beef sandwich on the side

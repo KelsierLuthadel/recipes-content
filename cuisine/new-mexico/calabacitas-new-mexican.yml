@@ -1,0 +1,72 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - one-pan
+  - meals
+  - onion
+  - garlic
+  - coriander
+  - butter
+  - cream
+  - chili
+mentions:
+  - cuisine/mexican/enchilladas
+ingredients:
+  - qty: 2
+    name: zucchini
+    raw: 2 large zucchini
+  - qty: 2
+    name: yellow summer squash
+    raw: 2 large yellow summer squash
+  - qty: 300
+    unit: g
+    name: sweet corn kernels
+    raw: 300 g sweet corn kernels
+  - qty: 6
+    name: roasted-and-peeled hatch green chillies
+    raw: 6 roasted-and-peeled Hatch green chillies
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: butter
+    raw: 4 tablespoons butter
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 200
+    unit: g
+    name: monterey jack
+    raw: 200 g grated Monterey Jack
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: mexican oregano
+    raw: 1 teaspoon dried Mexican oregano
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - name: spring onions
+    raw: Spring onions

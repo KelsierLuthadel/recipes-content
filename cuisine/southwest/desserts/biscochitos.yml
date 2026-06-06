@@ -1,0 +1,61 @@
+prep: 30 minutes (plus 1 hour chilling)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - complex
+mentions:
+  - drinks/hot/mexican-hot-chocolate
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 200
+    unit: g
+    name: lard
+    raw: 200 g lard
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 4
+    unit: tbsp
+    name: brandy
+    raw: 4 tablespoons brandy
+  - name: zest of 1 orange
+    raw: Zest of 1 orange
+  - qty: 1.5
+    unit: tsp
+    name: baking powder
+    raw: 1 ½ teaspoons baking powder
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1.5
+    unit: tbsp
+    name: anise seeds
+    raw: 1 ½ tablespoons whole anise seeds
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 2
+    unit: tbsp
+    name: cinnamon
+    raw: 2 tablespoons ground cinnamon

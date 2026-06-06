@@ -1,0 +1,104 @@
+prep: 20 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - fish
+  - pork
+  - prawn
+  - onion
+  - garlic
+  - lemon
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: stone-ground white grits
+    raw: 250 g stone-ground white grits
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 500
+    unit: ml
+    name: chicken stock
+    raw: 500 ml chicken stock
+  - qty: 80
+    unit: g
+    name: butter
+    raw: 80 g butter
+  - qty: 100
+    unit: g
+    name: cream cheese
+    raw: 100 g cream cheese
+  - qty: 200
+    unit: g
+    name: cheddar
+    raw: 200 g grated sharp cheddar
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 6
+    name: strips smoked bacon
+    raw: 6 strips smoked bacon
+  - qty: 600
+    unit: g
+    name: shrimp
+    raw: 600 g large shrimp
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 100
+    unit: ml
+    name: dry white wine
+    raw: 100 ml dry white wine
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 teaspoon smoked paprika
+  - qty: 1
+    unit: tsp
+    name: bay seasoning
+    raw: 1 teaspoon Old Bay seasoning
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - qty: 1
+    unit: tsp
+    name: hot sauce
+    raw: 1 teaspoon hot sauce
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - name: lemon wedges
+    raw: Lemon wedges

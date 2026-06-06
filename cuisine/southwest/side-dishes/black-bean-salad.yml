@@ -1,0 +1,77 @@
+prep: 15 minutes
+cook: 0 minutes (with canned beans)
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - complex
+mentions: []
+ingredients:
+  - qty: 2
+    name: black beans
+    raw: 2 tins black beans
+  - qty: 300
+    unit: g
+    name: sweet corn kernels
+    raw: 300 g sweet corn kernels
+  - qty: 1
+    name: red bell pepper
+    raw: 1 large red bell pepper
+  - qty: 1
+    name: red onion
+    raw: 1 medium red onion
+  - qty: 2
+    name: jalapenos
+    raw: 2 fresh jalapeños
+  - qty: 1
+    name: avocado
+    raw: 1 ripe avocado
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - name: juice of 3 limes
+    raw: Juice of 3 limes
+  - qty: 6
+    unit: tbsp
+    name: olive oil
+    raw: 6 tablespoons olive oil
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: mexican oregano
+    raw: 1 teaspoon dried Mexican oregano
+  - qty: 1
+    unit: tsp
+    name: chili powder
+    raw: 1 teaspoon ground chili powder
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar

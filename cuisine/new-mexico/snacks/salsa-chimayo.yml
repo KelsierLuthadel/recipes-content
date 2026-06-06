@@ -1,0 +1,55 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - snack
+  - garlic
+  - chili
+mentions:
+  - cuisine/mexican/enchilladas
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 10
+    name: chimayo red chiles
+    raw: 10 dried chimayó red chiles
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml hot water
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: apple cider vinegar
+    raw: 4 tablespoons apple cider vinegar
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    unit: tbsp
+    name: mexican oregano
+    raw: 1 tablespoon dried Mexican oregano
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper

@@ -1,0 +1,45 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - lemon
+  - coriander
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: red bell peppers
+    raw: 4 large red bell peppers
+  - qty: 6
+    name: red hot chillies
+    raw: 6 fresh red hot chillies
+  - qty: 250
+    unit: ml
+    name: apple cider vinegar
+    raw: 250 ml apple cider vinegar
+  - qty: 800
+    unit: g
+    name: caster sugar
+    raw: 800 g caster sugar
+  - qty: 1
+    name: liquid pectin
+    raw: 1 packet liquid pectin
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: 1 small handful fresh coriander
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice

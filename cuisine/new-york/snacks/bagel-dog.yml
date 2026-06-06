@@ -1,0 +1,98 @@
+prep: 30 minutes (plus 1.5 hours dough rise)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+  - meat
+  - mustard
+  - garlic
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - honey
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: bread flour
+    raw: 500 g strong bread flour
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: brown sugar
+    raw: 1 tablespoon brown sugar
+  - qty: 1
+    unit: tbsp
+    name: malt syrup
+    raw: 1 tablespoon malt syrup
+  - qty: 1
+    name: instant yeast
+    raw: 1 sachet instant yeast
+  - qty: 280
+    unit: ml
+    name: water
+    raw: 280 ml warm water
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 8
+    name: all-beef frankfurters
+    raw: 8 all-beef frankfurters
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 2
+    unit: tbsp
+    name: malt syrup
+    raw: 2 tablespoons malt syrup
+  - qty: 1
+    unit: tsp
+    name: baking soda
+    raw: 1 teaspoon baking soda
+  - qty: 2
+    unit: tbsp
+    name: sesame seeds
+    raw: 2 tablespoons sesame seeds
+  - qty: 2
+    unit: tbsp
+    name: black sesame seeds
+    raw: 2 tablespoons black sesame seeds
+  - qty: 2
+    unit: tbsp
+    name: poppy seeds
+    raw: 2 tablespoons poppy seeds
+  - qty: 1
+    unit: tbsp
+    name: garlic
+    raw: 1 tablespoon dried minced garlic
+  - qty: 1
+    unit: tbsp
+    name: onion
+    raw: 1 tablespoon dried minced onion
+  - qty: 1
+    unit: tbsp
+    name: sea salt or kosher salt
+    raw: 1 tablespoon coarse sea salt or kosher salt
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - name: yellow mustard
+    raw: Yellow mustard
+  - name: brown mustard
+    raw: Spicy brown mustard
+  - name: dill pickle spears
+    raw: Dill pickle spears

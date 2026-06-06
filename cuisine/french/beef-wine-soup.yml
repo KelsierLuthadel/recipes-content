@@ -12,8 +12,7 @@ tags:
   - butter
   - cream
   - cheese
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 1
     unit: l

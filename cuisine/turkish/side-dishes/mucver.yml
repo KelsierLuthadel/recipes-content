@@ -16,9 +16,10 @@ tags:
   - yogurt
   - complex
 mentions:
+  - cuisine/turkish/pide
+  - cuisine/turkish/side-dishes/cacik
   - cuisine/turkish/side-dishes/ezme
-  - drinks/regional/turkey/ayran
-  - tutorials/pizza/cheese
+  - cuisine/turkish/snacks/haydari
 ingredients:
   - qty: 700
     unit: g

@@ -1,0 +1,43 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - potato
+  - butter
+mentions:
+  - cuisine/chilean/charquican
+  - cuisine/chilean/lomo-a-lo-pobre
+  - cuisine/chilean/plateada
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: floury potatoes
+    raw: 1.2 kg floury potatoes
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 2
+    unit: tbsp
+    name: chives
+    raw: 2 tablespoons fresh chives

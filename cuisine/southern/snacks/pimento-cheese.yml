@@ -1,0 +1,82 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - make-ahead
+  - onion
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/american/side-dishes/deviled-eggs
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: extra-sharp cheddar
+    raw: 400 g extra-sharp cheddar
+  - qty: 200
+    unit: g
+    name: monterey jack
+    raw: 200 g Monterey Jack
+  - qty: 200
+    unit: g
+    name: duke's mayonnaise
+    raw: 200 g Duke's mayonnaise
+  - qty: 1
+    name: pimentos
+    raw: 1 small jar diced pimentos
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    unit: tsp
+    name: mustard powder
+    raw: 2 teaspoons mustard powder
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: hot sauce
+    raw: 1 tablespoon hot sauce
+  - qty: 0.5
+    unit: tsp
+    name: cayenne pepper
+    raw: ½ teaspoon cayenne pepper
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: apple cider vinegar
+    raw: 1 tablespoon apple cider vinegar
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 2
+    name: pickled jalapenos
+    raw: 2 chopped pickled jalapeños

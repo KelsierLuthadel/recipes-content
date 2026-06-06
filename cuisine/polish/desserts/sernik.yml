@@ -13,8 +13,7 @@ tags:
   - butter
   - cheese
   - complex
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 250
     unit: g

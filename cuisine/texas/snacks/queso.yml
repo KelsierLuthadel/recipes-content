@@ -1,0 +1,85 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - butter
+  - cream
+  - cheese
+  - chili
+  - complex
+mentions:
+  - drinks/cocktails/margarita
+ingredients:
+  - qty: 500
+    unit: g
+    name: velveeta cheese ; or 400 g mild cheddar + 200 g monterey jack + 150 g cream cheese
+    raw: 500 g Velveeta cheese ; OR 400 g mild cheddar + 200 g Monterey Jack + 150 g cream cheese
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    name: jalapenos
+    raw: 2 fresh jalapeños
+  - qty: 1
+    name: rotel diced tomatoes with green chillies
+    raw: 1 tin Rotel diced tomatoes with green chillies
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: chili powder
+    raw: 1 teaspoon chili powder
+  - qty: 200
+    unit: g
+    name: chorizo ; for queso fundido style
+    raw: 200 g cooked chorizo ; for queso fundido style
+  - qty: 200
+    unit: g
+    name: beef ; for "beef queso"
+    raw: 200 g cooked ground beef ; for "beef queso"
+  - qty: 1
+    name: avocado ; for fancy version
+    raw: 1 ripe avocado ; for fancy version
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons fresh coriander
+  - qty: 1
+    name: spring onion
+    raw: 1 sliced spring onion
+  - name: pickled jalapenos
+    raw: Pickled jalapeños
+  - name: yellow corn tortilla chips
+    raw: Yellow corn tortilla chips
+  - name: pico de gallo
+    raw: Pico de gallo
+  - name: sour cream
+    raw: Sour cream
+  - name: beer
+    raw: Cold beer

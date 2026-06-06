@@ -14,8 +14,7 @@ tags:
   - onion
   - lemon
   - cheese
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 160
     unit: g

@@ -1,0 +1,50 @@
+prep: 15 minutes
+cook: 15 minutes (plus 2 hours chilling)
+allergens:
+  - dairy
+  - peanuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - butter
+  - chocolate
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: caster sugar
+    raw: 400 g caster sugar
+  - qty: 200
+    unit: g
+    name: brown sugar
+    raw: 200 g brown sugar
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 100
+    unit: g
+    name: butter
+    raw: 100 g butter
+  - qty: 1
+    name: sweetened condensed milk
+    raw: 1 tin sweetened condensed milk
+  - qty: 300
+    unit: g
+    name: smooth peanut butter
+    raw: 300 g smooth peanut butter
+  - qty: 2
+    unit: tsp
+    name: vanilla extract
+    raw: 2 teaspoons vanilla extract
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - name: "optional: 100 g chopped roasted peanuts"
+    raw: "Optional: 100 g chopped roasted peanuts"
+  - name: "optional: 100 g chocolate chips"
+    raw: "Optional: 100 g chocolate chips"

@@ -10,8 +10,7 @@ tags:
   - meals
   - onion
   - cheese
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 400
     unit: g

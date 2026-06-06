@@ -17,8 +17,7 @@ tags:
   - yom-kippur
   - sukkot
   - jewish
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 350
     unit: g

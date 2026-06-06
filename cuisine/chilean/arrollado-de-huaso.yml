@@ -1,0 +1,138 @@
+prep: 40 minutes
+cook: 2 hours 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - celery
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - lemon
+  - chili
+  - complex
+mentions:
+  - cuisine/chilean/ensalada-chilena
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: pork belly
+    raw: 800 g pork belly
+  - qty: 500
+    unit: g
+    name: pork mince
+    raw: 500 g pork mince
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 2
+    unit: tbsp
+    name: merken
+    raw: 2 tablespoons merkén
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 50
+    unit: g
+    name: breadcrumbs
+    raw: 50 g breadcrumbs
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 2
+    name: carrots
+    raw: 2 medium carrots
+  - qty: 1
+    name: celery
+    raw: 1 stalk celery
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: tomato paste
+    raw: 4 tablespoons tomato paste
+  - qty: 250
+    unit: ml
+    name: dry white wine
+    raw: 250 ml dry white wine
+  - qty: 800
+    unit: ml
+    name: beef stock
+    raw: 800 ml hot beef stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tbsp
+    name: merken
+    raw: 1 tablespoon merkén
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons fresh parsley
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: pure de papas
+    raw: Puré de papas
+  - name: pebre
+    raw: Pebre
+  - name: ensalada chilena
+    raw: Ensalada chilena
+  - name: marraqueta bread
+    raw: Marraqueta bread

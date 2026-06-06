@@ -14,8 +14,7 @@ tags:
   - onion
   - garlic
   - potato
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 27
     unit: g

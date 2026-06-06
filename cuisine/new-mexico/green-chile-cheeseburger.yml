@@ -1,0 +1,78 @@
+prep: 20 minutes (plus chile roasting)
+cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - butter
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 800
+    unit: g
+    name: chuck
+    raw: 800 g ground chuck
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 9
+    name: roasted-and-peeled hatch green chillies ; or 1 large tin chopped roasted green chillies
+    raw: 8-10 roasted-and-peeled Hatch green chillies ; or 1 large tin chopped roasted green chillies
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 4
+    name: monterey jack
+    raw: 4 slices Monterey Jack
+  - qty: 4
+    name: soft white hamburger buns
+    raw: 4 soft white hamburger buns
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - name: mayonnaise
+    raw: Mayonnaise
+  - name: yellow mustard
+    raw: Yellow mustard
+  - name: tomato slices
+    raw: Tomato slices
+  - name: iceberg lettuce
+    raw: Iceberg lettuce
+  - name: red onion
+    raw: Sliced red onion
+  - name: dill pickle slices
+    raw: Dill pickle slices
+  - name: crispy fries
+    raw: Crispy fries
+  - name: new mexican beer
+    raw: Cold New Mexican beer

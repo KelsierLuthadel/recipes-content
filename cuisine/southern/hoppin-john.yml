@@ -1,0 +1,104 @@
+prep: 15 minutes (plus overnight pea soaking)
+cook: 2 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - complex
+mentions:
+  - cuisine/haitian/legume
+  - drinks/classic/iced-tea
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: black-eyed peas
+    raw: 500 g dried black-eyed peas
+  - qty: 1
+    name: smoked ham hock
+    raw: 1 smoked ham hock
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 1
+    name: green bell pepper
+    raw: 1 medium green bell pepper
+  - qty: 1
+    name: red bell pepper
+    raw: 1 medium red bell pepper
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    name: jalapeno
+    raw: 1 fresh jalapeño
+  - qty: 1.5
+    unit: l
+    name: chicken stock
+    raw: 1.5 litres chicken stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 3
+    unit: sprig
+    name: thyme
+    raw: 3 sprigs fresh thyme
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: apple cider vinegar
+    raw: 2 tablespoons apple cider vinegar
+  - qty: 400
+    unit: g
+    name: long-grain white rice
+    raw: 400 g long-grain white rice
+  - qty: 800
+    unit: ml
+    name: chicken stock
+    raw: 800 ml hot chicken stock
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion
+  - name: hot sauce
+    raw: Hot sauce
+  - name: collard greens
+    raw: Collard greens
+  - name: cornbread
+    raw: Cornbread
+  - name: sweet iced tea
+    raw: Sweet iced tea

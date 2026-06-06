@@ -1,0 +1,38 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens:
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - snack
+  - meat
+  - fish
+  - garlic
+  - lemon
+mentions:
+  - cuisine/italian/osso-buco
+ingredients:
+  - name: zest of 2 large lemons
+    raw: Zest of 2 large lemons
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 large bunch fresh flat-leaf parsley
+  - name: zest of 1 orange
+    raw: Zest of 1 orange
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tablespoon fresh chopped mint
+  - qty: 1
+    name: anchovy fillet
+    raw: 1 anchovy fillet, very finely chopped
+  - qty: 1
+    unit: small handful
+    name: basil
+    raw: 1 small handful fresh basil

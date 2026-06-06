@@ -1,0 +1,68 @@
+prep: 15 minutes (plus overnight bean soaking)
+cook: 2 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - onion
+  - garlic
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/enchilladas
+  - cuisine/texas/side-dishes/ranch-beans
+ingredients:
+  - qty: 500
+    unit: g
+    name: pinto beans
+    raw: 500 g dried pinto beans
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 2
+    name: nm red chile pods
+    raw: 2 dried NM red chile pods
+  - qty: 100
+    unit: g
+    name: salt pork or bacon
+    raw: 100 g salt pork or bacon
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: mexican oregano
+    raw: 1 tablespoon dried Mexican oregano
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres water
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 1
+    name: chilli
+    raw: 1 small fresh chilli

@@ -1,0 +1,97 @@
+prep: 25 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - meals
+  - meat
+  - chicken
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: chicken
+    raw: 1.5 kg whole chicken
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 4
+    name: carrots
+    raw: 4 carrots
+  - qty: 3
+    name: celery stalks
+    raw: 3 celery stalks
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: black peppercorns
+    raw: 1 tablespoon whole black peppercorns
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2 ½ litres water
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 4
+    unit: tbsp
+    name: butter
+    raw: 4 tablespoons butter
+  - qty: 4
+    unit: tbsp
+    name: plain flour
+    raw: 4 tablespoons plain flour
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon dried thyme
+  - qty: 1
+    unit: tsp
+    name: sage
+    raw: 1 teaspoon dried sage
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 1
+    unit: tbsp
+    name: baking powder
+    raw: 1 tablespoon baking powder
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 60
+    unit: g
+    name: cold butter
+    raw: 60 g cold butter
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - name: black pepper
+    raw: Black pepper

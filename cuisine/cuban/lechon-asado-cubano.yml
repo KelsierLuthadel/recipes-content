@@ -1,0 +1,116 @@
+prep: 30 minutes (plus overnight marinating)
+cook: 5 hours
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - complex
+mentions:
+  - cuisine/cuban/moros-y-cristianos
+  - cuisine/cuban/yuca-con-mojo
+  - cuisine/puerto-rican/pernil
+  - cuisine/puerto-rican/side-dishes/maduros
+  - drinks/fruit/fresh-orange-juice
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: pork shoulder picnic roast
+    raw: 1 bone-in pork shoulder picnic roast
+  - qty: 20
+    name: garlic cloves
+    raw: 20 garlic cloves
+  - qty: 250
+    unit: ml
+    name: sour orange juice ; or 125 ml fresh orange juice + 125 ml fresh lime juice as substitute
+    raw: 250 ml fresh sour orange juice ; OR 125 ml fresh orange juice + 125 ml fresh lime juice as substitute
+  - qty: 100
+    unit: ml
+    name: olive oil
+    raw: 100 ml olive oil
+  - qty: 4
+    unit: tbsp
+    name: oregano
+    raw: 4 tablespoons dried oregano
+  - qty: 4
+    unit: tbsp
+    name: cumin
+    raw: 4 tablespoons ground cumin
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tablespoons fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: black pepper
+    raw: 1 tablespoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    name: white onion
+    raw: 1 large white onion
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    unit: tsp
+    name: flaky sea salt
+    raw: 1 teaspoon flaky sea salt
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 80
+    unit: ml
+    name: olive oil
+    raw: 80 ml olive oil
+  - qty: 100
+    unit: ml
+    name: sour orange juice
+    raw: 100 ml fresh sour orange juice
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - name: black beans
+    raw: Black beans
+  - name: plain white rice
+    raw: Plain white rice
+  - name: yuca con mojo
+    raw: Yuca con mojo
+  - name: sweet plantains
+    raw: Sweet plantains
+  - name: avocado
+    raw: Sliced avocado
+  - name: salad
+    raw: Fresh salad
+  - name: cuban bread
+    raw: Cuban bread

@@ -1,0 +1,137 @@
+prep: 30 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - meals
+  - meat
+  - fish
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - coconut
+  - lime
+  - coriander
+  - butter
+  - complex
+mentions:
+  - drinks/cocktails/mojito
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: shrimp
+    raw: 300 g large raw shrimp
+  - qty: 300
+    unit: g
+    name: mussels
+    raw: 300 g mussels
+  - qty: 300
+    unit: g
+    name: clams
+    raw: 300 g clams
+  - qty: 200
+    unit: g
+    name: white fish
+    raw: 200 g white fish
+  - qty: 200
+    unit: g
+    name: octopus
+    raw: 200 g octopus
+  - qty: 200
+    unit: g
+    name: crab meat
+    raw: 200 g crab meat
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 1
+    name: green bell pepper
+    raw: 1 large green bell pepper
+  - qty: 1
+    name: red bell pepper
+    raw: 1 large red bell pepper
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 4
+    name: tomatoes
+    raw: 4 medium tomatoes
+  - qty: 4
+    unit: tbsp
+    name: hogao
+    raw: 4 tablespoons hogao
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tablespoons tomato paste
+  - qty: 1
+    unit: tbsp
+    name: achiote/annatto
+    raw: 1 tablespoon achiote/annatto
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    name: coconut milk
+    raw: 1 tin coconut milk
+  - qty: 200
+    unit: ml
+    name: dry white wine
+    raw: 200 ml dry white wine
+  - qty: 400
+    unit: ml
+    name: fish stock
+    raw: 400 ml fish stock
+  - qty: 1
+    unit: tsp
+    name: aleppo pepper or smoked paprika
+    raw: 1 teaspoon Aleppo pepper or smoked paprika
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 2
+    unit: tbsp
+    name: culantro/recao
+    raw: 2 tablespoons fresh culantro/recao
+  - name: juice of 2 limes
+    raw: Juice of 2 limes
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - name: crusty bread
+    raw: Crusty bread
+  - name: plain white rice
+    raw: Plain white rice
+  - name: patacones
+    raw: Patacones
+  - name: avocado
+    raw: Sliced avocado
+  - name: lime wedges
+    raw: Lime wedges
+  - name: aji picante
+    raw: Ají picante

@@ -1,0 +1,123 @@
+prep: 45 minutes
+cook: 3 hours
+allergens:
+  - gluten
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - one-pan
+  - meals
+  - meat
+  - chicken
+  - beef
+  - pork
+  - rice
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - coriander
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef shin
+    raw: 600 g beef shin
+  - qty: 400
+    unit: g
+    name: pork belly
+    raw: 400 g pork belly
+  - qty: 300
+    unit: g
+    name: smoked ham hock
+    raw: 300 g smoked ham hock
+  - qty: 200
+    unit: g
+    name: linguica
+    raw: 200 g linguiça
+  - qty: 200
+    unit: g
+    name: chourico
+    raw: 200 g chouriço
+  - qty: 200
+    unit: g
+    name: morcela
+    raw: 200 g morcela
+  - qty: 200
+    unit: g
+    name: farinheira
+    raw: 200 g farinheira
+  - qty: 4
+    name: chicken legs
+    raw: 4 bone-in chicken legs
+  - qty: 4
+    name: potatoes
+    raw: 4 medium potatoes
+  - qty: 3
+    name: carrots
+    raw: 3 medium carrots
+  - qty: 2
+    name: turnips
+    raw: 2 medium turnips
+  - qty: 1
+    name: sweet potato
+    raw: 1 sweet potato
+  - qty: 1
+    name: head savoy cabbage
+    raw: 1 large head Savoy cabbage
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 2
+    unit: tbsp
+    name: black peppercorns
+    raw: 2 tablespoons whole black peppercorns
+  - qty: 2
+    unit: tbsp
+    name: oregano
+    raw: 2 tablespoons dried oregano
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 3
+    unit: l
+    name: water
+    raw: 3 litres water
+  - qty: 300
+    unit: g
+    name: long-grain rice
+    raw: 300 g long-grain rice
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 500
+    unit: ml
+    name: cozido cooking broth
+    raw: 500 ml cozido cooking broth
+  - qty: 1
+    name: parsley
+    raw: 1 large bunch fresh parsley
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - name: mustard
+    raw: Coarse mustard
+  - name: pickled chillies
+    raw: Pickled chillies
+  - name: crusty portuguese bread
+    raw: Crusty Portuguese bread
+  - name: red wine
+    raw: Red wine

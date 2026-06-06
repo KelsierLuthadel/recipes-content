@@ -1,0 +1,53 @@
+prep: 15 minutes
+cook: 8 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - snack
+  - onion
+  - garlic
+  - lime
+  - coriander
+mentions:
+  - cuisine/mexican/enchiladas-suizas
+  - cuisine/mexican/enchilladas
+ingredients:
+  - qty: 600
+    unit: g
+    name: tomatillos ; or 1 large tin tomatillos drained
+    raw: 600 g tomatillos ; or 1 large tin tomatillos drained
+  - qty: 4
+    name: jalapenos
+    raw: 4 fresh jalapeños
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: white onion
+    raw: 1 medium white onion
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - name: juice of 2 limes
+    raw: Juice of 2 limes
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: mexican oregano
+    raw: 1 teaspoon dried Mexican oregano
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar

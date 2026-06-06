@@ -1,0 +1,127 @@
+prep: 20 minutes
+cook: 45 minutes
+allergens:
+  - eggs
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/cuban/ropa-vieja
+  - cuisine/cuban/snacks/papas-rellenas
+  - cuisine/puerto-rican/side-dishes/maduros
+  - drinks/cocktails/mojito
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: beef
+    raw: 800 g minced beef
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 1
+    name: green bell pepper
+    raw: 1 medium green bell pepper
+  - qty: 1
+    name: red bell pepper
+    raw: 1 medium red bell pepper
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tablespoons tomato paste
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 100
+    unit: ml
+    name: dry white wine
+    raw: 100 ml dry white wine
+  - qty: 80
+    unit: g
+    name: raisins
+    raw: 80 g raisins
+  - qty: 100
+    unit: g
+    name: pitted green olives
+    raw: 100 g pitted green olives
+  - qty: 3
+    unit: tbsp
+    name: capers
+    raw: 3 tablespoons capers
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tbsp
+    name: aleppo pepper or smoked paprika
+    raw: 1 tablespoon Aleppo pepper or smoked paprika
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 1
+    name: red chilli
+    raw: 1 fresh red chilli
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - name: plain white rice
+    raw: Plain white rice
+  - name: black beans
+    raw: Black beans
+  - name: sweet plantains
+    raw: Sweet plantains
+  - name: fried eggs
+    raw: Fried eggs
+  - name: avocado
+    raw: Sliced avocado
+  - name: lime wedges
+    raw: Lime wedges
+  - name: salad
+    raw: Fresh salad

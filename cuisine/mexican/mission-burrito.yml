@@ -20,9 +20,7 @@ tags:
   - complex
 mentions:
   - cuisine/mexican/carne-asada
-  - cuisine/mexican/side-dishes/mexican-rice
   - cuisine/mexican/snacks/guacamole
-  - tutorials/pizza/cheese
 ingredients:
   - qty: 500
     unit: g

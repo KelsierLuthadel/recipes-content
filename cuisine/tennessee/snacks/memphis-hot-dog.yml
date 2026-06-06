@@ -1,0 +1,110 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - snack
+  - bbq
+  - meat
+  - beef
+  - pork
+  - onion
+  - potato
+  - butter
+  - cheese
+  - complex
+mentions:
+  - cuisine/american/side-dishes/baked-beans
+  - cuisine/tennessee/side-dishes/tennessee-baked-beans
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: all-beef frankfurters
+    raw: 4 all-beef frankfurters
+  - qty: 8
+    name: strips thin smoked streaky bacon
+    raw: 8 strips thin smoked streaky bacon
+  - name: wooden toothpicks
+    raw: Wooden toothpicks
+  - qty: 200
+    unit: ml
+    name: ketchup
+    raw: 200 ml ketchup
+  - qty: 80
+    unit: ml
+    name: apple cider vinegar
+    raw: 80 ml apple cider vinegar
+  - qty: 50
+    unit: g
+    name: brown sugar
+    raw: 50 g brown sugar
+  - qty: 2
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 2 tablespoons Worcestershire sauce
+  - qty: 2
+    unit: tbsp
+    name: yellow mustard
+    raw: 2 tablespoons yellow mustard
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tbsp
+    name: smoked paprika
+    raw: 1 tablespoon smoked paprika
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - qty: 1
+    unit: tsp
+    name: hot sauce
+    raw: 1 teaspoon hot sauce
+  - qty: 30
+    unit: ml
+    name: tennessee whiskey
+    raw: 30 ml Tennessee whiskey
+  - qty: 1
+    unit: tbsp
+    name: molasses
+    raw: 1 tablespoon molasses
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 4
+    name: potato hot dog buns
+    raw: 4 potato hot dog buns
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 200
+    unit: g
+    name: smoked cheddar
+    raw: 200 g grated smoked cheddar
+  - qty: 1
+    name: spring onions
+    raw: 1 small bunch spring onions
+  - name: "optional: dill pickle slices"
+    raw: "Optional: dill pickle slices, sliced jalapeños"
+  - name: memphis vinegar coleslaw on the side
+    raw: Memphis vinegar coleslaw on the side
+  - name: tennessee baked beans
+    raw: Tennessee baked beans
+  - name: beer
+    raw: Cold beer

@@ -1,0 +1,78 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - eggs
+  - onion
+  - lemon
+  - butter
+  - chili
+  - complex
+mentions:
+  - cuisine/american/side-dishes/hush-puppies
+  - cuisine/mississippi/fried-catfish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: yellow cornmeal
+    raw: 250 g coarse yellow cornmeal
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 1
+    unit: tbsp
+    name: baking powder
+    raw: 1 tablespoon baking powder
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cayenne
+    raw: 1 teaspoon cayenne
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon paprika
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 300
+    unit: ml
+    name: buttermilk
+    raw: 300 ml buttermilk
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons melted butter
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - name: fried catfish
+    raw: Fried catfish
+  - name: cole slaw
+    raw: Cole slaw
+  - name: tartar sauce
+    raw: Tartar sauce
+  - name: lemon wedges
+    raw: Lemon wedges

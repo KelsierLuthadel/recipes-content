@@ -1,0 +1,106 @@
+prep: 15 minutes
+cook: 45 minutes (for the sauce)
+allergens:
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - complex
+mentions:
+  - cuisine/american/sloppy-joe
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g ground beef
+  - qty: 200
+    unit: g
+    name: beef heart
+    raw: 200 g ground beef heart
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: tomato paste
+    raw: 4 tablespoons tomato paste
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 400
+    unit: ml
+    name: beef stock
+    raw: 400 ml beef stock
+  - qty: 2
+    unit: tbsp
+    name: chilli powder
+    raw: 2 tablespoons mild chilli powder
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tsp
+    name: mustard powder
+    raw: 1 teaspoon mustard powder
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: apple cider vinegar
+    raw: 1 tablespoon apple cider vinegar
+  - qty: 1
+    unit: tbsp
+    name: brown sugar
+    raw: 1 tablespoon brown sugar
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 4
+    name: all-beef natural-casing frankfurters
+    raw: 4 small all-beef natural-casing frankfurters
+  - qty: 4
+    name: soft hot dog buns
+    raw: 4 soft hot dog buns
+  - name: yellow mustard
+    raw: Yellow mustard
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion
+  - name: soda or beer
+    raw: Cold soda or beer
+  - name: crinkle-cut fries on the side
+    raw: Crinkle-cut fries on the side

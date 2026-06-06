@@ -1,0 +1,66 @@
+prep: 30 minutes (plus overnight cod desalting)
+cook: 50 minutes
+allergens:
+  - eggs
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - fish
+  - eggs
+  - onion
+  - garlic
+  - potato
+mentions:
+  - cuisine/portuguese/bacalhau-a-bras
+ingredients:
+  - qty: 600
+    unit: g
+    name: salt cod ; desalted
+    raw: 600 g salt cod ; desalted
+  - qty: 1
+    unit: kg
+    name: waxy potatoes
+    raw: 1 kg waxy potatoes
+  - qty: 4
+    name: onions
+    raw: 4 large onions
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 6
+    unit: tbsp
+    name: virgin olive oil
+    raw: 6 tablespoons extra virgin olive oil
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 120
+    unit: g
+    name: pitted black olives
+    raw: 120 g pitted black olives
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch fresh flat-leaf parsley
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 100
+    unit: ml
+    name: virgin olive oil
+    raw: 100 ml extra virgin olive oil

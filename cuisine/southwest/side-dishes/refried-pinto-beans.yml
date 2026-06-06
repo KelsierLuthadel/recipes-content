@@ -1,0 +1,59 @@
+prep: 10 minutes (with pre-cooked beans)
+cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - onion
+  - garlic
+  - coriander
+  - cheese
+mentions:
+  - cuisine/mexican/enchilladas
+ingredients:
+  - qty: 800
+    unit: g
+    name: pinto beans ; or 350 g dried pinto beans soaked overnight and cooked
+    raw: 800 g cooked pinto beans ; or 350 g dried pinto beans soaked overnight and cooked
+  - qty: 4
+    unit: tbsp
+    name: bacon fat
+    raw: 4 tablespoons bacon fat
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 1
+    unit: tsp
+    name: mexican oregano
+    raw: 1 teaspoon dried Mexican oregano
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 250
+    unit: ml
+    name: bean cooking liquid
+    raw: 200-300 ml bean cooking liquid
+  - qty: 100
+    unit: g
+    name: monterey jack or cheddar
+    raw: 100 g grated Monterey Jack or cheddar
+  - name: coriander
+    raw: Fresh coriander

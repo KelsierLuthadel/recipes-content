@@ -11,7 +11,8 @@ tags:
   - eggs
   - onion
   - chili
-mentions: []
+mentions:
+  - cuisine/louisiana/side-dishes/hush-puppies
 ingredients:
   - qty: 200
     unit: g

@@ -10,7 +10,8 @@ tags:
   - garlic
   - lemon
   - yogurt
-mentions: []
+mentions:
+  - cuisine/turkish/side-dishes/cacik
 ingredients:
   - qty: 1
     name: cucumber

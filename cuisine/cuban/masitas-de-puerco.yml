@@ -1,0 +1,90 @@
+prep: 25 minutes (plus overnight marinating)
+cook: 1 hour 30 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - complex
+mentions:
+  - cuisine/cuban/yuca-con-mojo
+  - cuisine/puerto-rican/side-dishes/maduros
+  - drinks/cocktails/mojito
+ingredients:
+  - qty: 1
+    unit: kg
+    name: pork shoulder
+    raw: 1 kg pork shoulder
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 150
+    unit: ml
+    name: sour orange juice
+    raw: 150 ml fresh sour orange juice
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 2
+    unit: tbsp
+    name: oregano
+    raw: 2 tablespoons dried oregano
+  - qty: 2
+    unit: tbsp
+    name: cumin
+    raw: 2 tablespoons ground cumin
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 4
+    unit: tbsp
+    name: lard - for additional cooking fat
+    raw: 4 tablespoons lard - for additional cooking fat
+  - qty: 2
+    name: white onions
+    raw: 2 large white onions
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - name: lime wedges
+    raw: Lime wedges
+  - name: plain white rice
+    raw: Plain white rice
+  - name: black beans
+    raw: Black beans
+  - name: sweet plantains
+    raw: Sweet plantains
+  - name: avocado
+    raw: Sliced avocado
+  - name: yuca con mojo
+    raw: Yuca con mojo
+  - name: salad
+    raw: Fresh salad

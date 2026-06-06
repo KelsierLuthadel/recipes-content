@@ -1,0 +1,92 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - bbq
+  - onion
+  - garlic
+  - butter
+  - chili
+  - complex
+mentions:
+  - cuisine/american/pulled-pork
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: ml
+    name: ketchup
+    raw: 400 ml ketchup
+  - qty: 200
+    unit: ml
+    name: apple cider vinegar
+    raw: 200 ml apple cider vinegar
+  - qty: 150
+    unit: g
+    name: dark brown sugar
+    raw: 150 g dark brown sugar
+  - qty: 100
+    unit: ml
+    name: tennessee whiskey
+    raw: 100 ml Tennessee whiskey
+  - qty: 4
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 4 tablespoons Worcestershire sauce
+  - qty: 2
+    unit: tbsp
+    name: yellow mustard
+    raw: 2 tablespoons yellow mustard
+  - qty: 2
+    unit: tbsp
+    name: molasses
+    raw: 2 tablespoons molasses
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: paprika
+    raw: 2 tablespoons paprika
+  - qty: 1
+    unit: tbsp
+    name: smoked paprika
+    raw: 1 tablespoon smoked paprika
+  - qty: 1
+    unit: tsp
+    name: mustard powder
+    raw: 1 teaspoon mustard powder
+  - qty: 1
+    unit: tsp
+    name: cayenne
+    raw: 1 teaspoon cayenne
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 1
+    unit: tsp
+    name: hot sauce
+    raw: 1 teaspoon hot sauce
+  - qty: 1
+    unit: tbsp
+    name: liquid smoke
+    raw: 1 tablespoon liquid smoke

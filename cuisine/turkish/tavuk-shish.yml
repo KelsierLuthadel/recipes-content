@@ -1,0 +1,113 @@
+prep: 25 minutes (plus 6 hours marinating)
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - cuisine/azerbaijan/side-dishes/lavash
+  - cuisine/turkish/kuzu-shish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken thigh
+    raw: 1 kg boneless skinless chicken thigh
+  - qty: 250
+    unit: g
+    name: plain yogurt
+    raw: 250 g plain yogurt
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - name: juice of 2 lemons
+    raw: Juice of 2 lemons
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 2
+    unit: tbsp
+    name: turkish red pepper paste
+    raw: 2 tablespoons Turkish red pepper paste
+  - qty: 1
+    unit: tbsp
+    name: levantine baharat
+    raw: 1 tablespoon Levantine baharat
+  - qty: 2
+    unit: tsp
+    name: aleppo pepper
+    raw: 2 teaspoons Aleppo pepper
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons ground cumin
+  - qty: 2
+    unit: tsp
+    name: coriander
+    raw: 2 teaspoons ground coriander
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 teaspoon ground paprika
+  - qty: 1
+    unit: tsp
+    name: sumac
+    raw: 1 teaspoon ground sumac
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    name: red onions
+    raw: 2 large red onions
+  - qty: 2
+    name: red bell peppers
+    raw: 2 large red bell peppers
+  - qty: 2
+    name: green bell peppers
+    raw: 2 large green bell peppers
+  - qty: 10
+    name: cherry tomatoes
+    raw: 10 small cherry tomatoes
+  - name: warm pide bread or lavash
+    raw: Warm pide bread or lavash
+  - name: yogurt-garlic sauce
+    raw: Yogurt-garlic sauce
+  - name: sumac onions
+    raw: Sumac onions
+  - name: grilled tomatoes and chillies
+    raw: Grilled tomatoes and chillies
+  - name: bulgur or rice pilav
+    raw: Bulgur or rice pilav
+  - name: parsley
+    raw: Fresh parsley
+  - name: lemon wedges
+    raw: Lemon wedges

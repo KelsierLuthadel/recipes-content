@@ -14,7 +14,6 @@ tags:
   - carrot
   - cheese
 mentions:
-  - tutorials/pizza/cheese
   - tutorials/pizza/sauce
 ingredients:
   - qty: 6

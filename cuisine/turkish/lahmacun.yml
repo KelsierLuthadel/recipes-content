@@ -1,0 +1,119 @@
+prep: 40 minutes (plus 1 hour dough rising)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - yogurt
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: bread flour
+    raw: 500 g strong bread flour
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - qty: 400
+    unit: g
+    name: lamb
+    raw: 400 g minced lamb
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 1
+    name: tomato
+    raw: 1 medium tomato
+  - qty: 1
+    name: red bell pepper
+    raw: 1 small red bell pepper
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 large bunch fresh flat-leaf parsley
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tablespoons tomato paste
+  - qty: 2
+    unit: tbsp
+    name: turkish red pepper paste
+    raw: 2 tablespoons Turkish red pepper paste
+  - qty: 1
+    unit: tbsp
+    name: pomegranate molasses
+    raw: 1 tablespoon pomegranate molasses
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: aleppo pepper
+    raw: 1 teaspoon Aleppo pepper
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: sumac
+    raw: 1 teaspoon ground sumac
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: paprika
+    raw: ½ teaspoon ground paprika
+  - qty: 2
+    name: lemons
+    raw: 2 large lemons
+  - name: parsley
+    raw: Extra chopped parsley
+  - name: red onion
+    raw: Sliced red onion
+  - name: bowl of pickled chillies
+    raw: A small bowl of pickled chillies
+  - name: ayran
+    raw: Ayran

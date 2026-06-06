@@ -1,0 +1,106 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - potato
+  - soy-sauce
+  - complex
+mentions:
+  - bread-pasta/burger-buns
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 700
+    unit: g
+    name: beef
+    raw: 700 g ground beef
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    unit: tbsp
+    name: soy sauce
+    raw: 2 tablespoons soy sauce
+  - qty: 1
+    unit: tbsp
+    name: mirin
+    raw: 1 tablespoon mirin
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon ginger
+  - qty: 80
+    unit: ml
+    name: soy sauce
+    raw: 80 ml soy sauce
+  - qty: 60
+    unit: ml
+    name: mirin
+    raw: 60 ml mirin
+  - qty: 60
+    unit: ml
+    name: sake
+    raw: 60 ml sake
+  - qty: 4
+    unit: tbsp
+    name: caster sugar
+    raw: 4 tablespoons caster sugar
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon ginger
+  - qty: 1
+    unit: tbsp
+    name: cornflour mixed with 2 tablespoons cold water
+    raw: 1 tablespoon cornflour mixed with 2 tablespoons cold water
+  - qty: 4
+    name: soft white burger buns
+    raw: 4 soft white burger buns
+  - qty: 200
+    unit: g
+    name: iceberg lettuce
+    raw: 200 g iceberg lettuce
+  - qty: 1
+    name: tomato
+    raw: 1 large tomato
+  - qty: 8
+    unit: tbsp
+    name: kewpie japanese mayonnaise
+    raw: 8 tablespoons Kewpie Japanese mayonnaise
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - name: shoestring fries or sweet potato fries
+    raw: Shoestring fries or sweet potato fries
+  - name: pickled ginger or pickled cucumber on the side
+    raw: Pickled ginger or pickled cucumber on the side
+  - name: japanese beer
+    raw: Cold Japanese beer

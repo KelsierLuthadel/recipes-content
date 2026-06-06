@@ -14,8 +14,7 @@ tags:
   - cheese
   - chocolate
   - complex
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 175
     unit: g

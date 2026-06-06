@@ -1,0 +1,72 @@
+prep: 20 minutes (plus 1 hour chilling)
+cook: None
+allergens:
+  - mustard
+  - celery
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+  - onion
+  - carrot
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: head green cabbage
+    raw: 1 large head green cabbage
+  - qty: 0.5
+    name: head red cabbage
+    raw: ½ small head red cabbage
+  - qty: 2
+    name: carrots
+    raw: 2 large carrots
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 200
+    unit: ml
+    name: apple cider vinegar
+    raw: 200 ml apple cider vinegar
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 4
+    unit: tbsp
+    name: ketchup
+    raw: 4 tablespoons ketchup
+  - qty: 4
+    unit: tbsp
+    name: yellow mustard
+    raw: 4 tablespoons yellow mustard
+  - qty: 2
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 2 tablespoons Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: hot sauce
+    raw: 1 tablespoon hot sauce
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: celery salt
+    raw: 1 teaspoon celery salt
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 teaspoon caraway seeds

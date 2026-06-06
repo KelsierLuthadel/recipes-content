@@ -1,0 +1,75 @@
+prep: 20 minutes (assumes pre-made sopaipillas and adovada)
+cook: 10 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - quick
+  - meals
+  - meat
+  - pork
+  - rice
+  - onion
+  - tomato
+  - lime
+  - coriander
+  - cream
+  - cheese
+  - complex
+mentions:
+  - cuisine/chilean/side-dishes/sopaipillas
+  - cuisine/southwest/carne-adovada
+  - cuisine/southwest/side-dishes/sopaipillas
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 8
+    name: sopaipillas
+    raw: 8 large fresh sopaipillas
+  - qty: 600
+    unit: g
+    name: carne adovada
+    raw: 600 g carne adovada
+  - qty: 400
+    unit: g
+    name: warm refried pinto beans
+    raw: 400 g warm refried pinto beans
+  - qty: 200
+    unit: g
+    name: monterey jack
+    raw: 200 g grated Monterey Jack
+  - qty: 500
+    unit: ml
+    name: red chile sauce
+    raw: 500 ml red chile sauce
+  - name: or 500 ml green chile sauce
+    raw: OR 500 ml green chile sauce
+  - qty: 200
+    unit: g
+    name: cheese
+    raw: 200 g grated cheese
+  - qty: 200
+    unit: g
+    name: shredded iceberg lettuce
+    raw: 200 g shredded iceberg lettuce
+  - qty: 2
+    name: tomatoes
+    raw: 2 medium tomatoes
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 200
+    unit: ml
+    name: sour cream
+    raw: 200 ml sour cream
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - name: jalapenos
+    raw: Sliced jalapeños
+  - name: lime wedges
+    raw: Lime wedges
+  - name: new mexican rice
+    raw: New Mexican rice
+  - name: pinto beans alongside
+    raw: Pinto beans alongside

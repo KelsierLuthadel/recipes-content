@@ -1,0 +1,123 @@
+prep: 45 minutes (plus overnight marinating)
+cook: 5 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - lime
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: pork shoulder picnic
+    raw: 1 bone-in pork shoulder picnic
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: cumin
+    raw: 3 tablespoons ground cumin
+  - qty: 3
+    unit: tbsp
+    name: oregano
+    raw: 3 tablespoons dried oregano
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tablespoons fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: black pepper
+    raw: 1 tablespoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tbsp
+    name: turmeric
+    raw: 1 tablespoon turmeric
+  - name: juice of 4 limes
+    raw: Juice of 4 limes
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 400
+    unit: g
+    name: long-grain white rice
+    raw: 400 g long-grain white rice
+  - qty: 400
+    unit: g
+    name: pork
+    raw: 400 g ground pork
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    name: white onion
+    raw: 1 large white onion
+  - qty: 8
+    name: scallions/spring onions
+    raw: 8 scallions/spring onions
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 200
+    unit: g
+    name: green peas
+    raw: 200 g frozen green peas
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tsp
+    name: achiote/turmeric
+    raw: 1 teaspoon achiote/turmeric
+  - qty: 800
+    unit: ml
+    name: chicken stock
+    raw: 800 ml hot chicken stock
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    unit: tsp
+    name: flaky sea salt
+    raw: 1 teaspoon flaky sea salt
+  - name: arepas
+    raw: Arepas
+  - name: aji picante
+    raw: Ají picante
+  - name: lime wedges
+    raw: Lime wedges
+  - name: avocado slices
+    raw: Avocado slices
+  - name: salad
+    raw: Fresh salad

@@ -15,8 +15,7 @@ tags:
   - eid-al-fitr
   - ramadan
   - muslim
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 200
     unit: g

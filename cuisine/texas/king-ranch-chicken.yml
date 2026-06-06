@@ -1,0 +1,118 @@
+prep: 30 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - butter
+  - cream
+  - cheese
+  - chili
+  - complex
+mentions:
+  - drinks/classic/iced-tea
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: shredded chicken ; about 4 cups shredded
+    raw: 1.2 kg cooked shredded chicken ; about 4 cups shredded
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 1
+    name: green bell pepper
+    raw: 1 large green bell pepper
+  - qty: 1
+    name: jalapeno
+    raw: 1 fresh jalapeño
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: butter
+    raw: 4 tablespoons butter
+  - qty: 4
+    unit: tbsp
+    name: plain flour
+    raw: 4 tablespoons plain flour
+  - qty: 400
+    unit: ml
+    name: chicken stock
+    raw: 400 ml chicken stock
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 200
+    unit: ml
+    name: sour cream
+    raw: 200 ml sour cream
+  - qty: 1
+    name: rotel diced tomatoes with green chillies
+    raw: 1 tin Rotel diced tomatoes with green chillies
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tablespoon ground cumin
+  - qty: 1
+    unit: tbsp
+    name: mexican oregano
+    raw: 1 tablespoon dried Mexican oregano
+  - qty: 1
+    unit: tsp
+    name: chili powder
+    raw: 1 teaspoon chili powder
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 12
+    name: corn tortillas
+    raw: 12 corn tortillas
+  - qty: 300
+    unit: g
+    name: monterey jack cheese
+    raw: 300 g grated Monterey Jack cheese
+  - qty: 200
+    unit: g
+    name: pepper jack cheese
+    raw: 200 g grated Pepper Jack cheese
+  - qty: 200
+    unit: g
+    name: cheddar
+    raw: 200 g grated sharp cheddar
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - name: mexican rice
+    raw: Mexican rice
+  - name: refried beans
+    raw: Refried beans
+  - name: pico de gallo
+    raw: Pico de gallo
+  - name: avocado
+    raw: Sliced avocado
+  - name: sour cream
+    raw: Sour cream
+  - name: hot sauce
+    raw: Hot sauce

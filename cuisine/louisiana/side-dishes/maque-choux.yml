@@ -1,0 +1,91 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - celery
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - butter
+  - cream
+  - chili
+  - complex
+mentions:
+  - cuisine/mississippi/fried-catfish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: corn kernels or 800 g frozen sweet corn
+    raw: 800 g fresh corn kernels or 800 g frozen sweet corn
+  - qty: 80
+    unit: g
+    name: butter
+    raw: 80 g butter
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 3
+    unit: stick
+    name: celery
+    raw: 3 sticks celery
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 4
+    name: tomatoes ; or 1 tin chopped
+    raw: 4 medium tomatoes ; or 1 tin chopped
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tbsp
+    name: cajun seasoning
+    raw: 1 tablespoon Cajun seasoning
+  - qty: 1
+    unit: tsp
+    name: cayenne
+    raw: 1 teaspoon cayenne
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: hot sauce
+    raw: 1 tablespoon hot sauce
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 1
+    name: spring onions
+    raw: 1 bunch spring onions
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon

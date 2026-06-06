@@ -1,0 +1,132 @@
+prep: 20 minutes
+cook: 1 hour 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - bbq
+  - meat
+  - fish
+  - rice
+  - mushroom
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - butter
+  - yogurt
+  - nuts
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: lamb shoulder
+    raw: 1 kg boneless lamb shoulder
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 3
+    name: onions
+    raw: 3 large onions
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tablespoons tomato paste
+  - qty: 2
+    unit: tbsp
+    name: turkish red pepper paste
+    raw: 2 tablespoons Turkish red pepper paste
+  - qty: 4
+    name: tomatoes ; or 1 tin chopped tomatoes
+    raw: 4 medium tomatoes ; or 1 tin chopped tomatoes
+  - qty: 2
+    name: green bell peppers
+    raw: 2 medium green bell peppers
+  - qty: 400
+    unit: g
+    name: mushrooms
+    raw: 400 g mushrooms
+  - qty: 600
+    unit: ml
+    name: hot beef or lamb stock
+    raw: 600 ml hot beef or lamb stock
+  - qty: 200
+    unit: ml
+    name: dry red wine
+    raw: 200 ml dry red wine
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 1
+    unit: tsp
+    name: aleppo pepper
+    raw: 1 teaspoon Aleppo pepper
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons fresh flat-leaf parsley
+  - qty: 1
+    unit: tbsp
+    name: dill
+    raw: 1 tablespoon fresh dill
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: rice pilav or warm pide bread
+    raw: Rice pilav or warm pide bread
+  - name: plain yogurt
+    raw: Plain yogurt
+  - name: pickled chillies
+    raw: Pickled chillies

@@ -1,0 +1,118 @@
+prep: 25 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - one-pan
+  - meals
+  - meat
+  - fish
+  - chicken
+  - pork
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - chili
+  - complex
+mentions:
+  - cuisine/cajun/jambalaya
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: chicken thighs
+    raw: 600 g chicken thighs
+  - qty: 400
+    unit: g
+    name: andouille sausage
+    raw: 400 g andouille sausage
+  - qty: 500
+    unit: g
+    name: shrimp
+    raw: 500 g raw peeled shrimp
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 6
+    unit: stick
+    name: celery
+    raw: 6 sticks celery
+  - qty: 2
+    name: green bell peppers
+    raw: 2 green bell peppers
+  - qty: 10
+    name: garlic cloves
+    raw: 10 garlic cloves
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 500
+    unit: g
+    name: long-grain white rice
+    raw: 500 g long-grain white rice
+  - qty: 1
+    unit: l
+    name: chicken stock
+    raw: 1 litre hot chicken stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon dried thyme
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tbsp
+    name: cajun seasoning
+    raw: 1 tablespoon Cajun seasoning
+  - qty: 1
+    unit: tsp
+    name: cayenne
+    raw: 1 teaspoon cayenne
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: hot sauce
+    raw: 1 tablespoon hot sauce
+  - qty: 1
+    name: spring onions
+    raw: 1 bunch spring onions
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: tabasco
+    raw: Tabasco
+  - name: french bread
+    raw: Sliced French bread
+  - name: pickled okra
+    raw: Pickled okra

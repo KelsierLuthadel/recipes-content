@@ -13,8 +13,7 @@ tags:
   - potato
   - spinach
   - cheese
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 2
     unit: tbsp

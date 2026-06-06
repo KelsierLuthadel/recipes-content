@@ -1,0 +1,54 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - eggs
+  - meat
+tags:
+  - quick
+  - meals
+  - meat
+  - pork
+  - eggs
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: country ham ; or substitute with prosciutto or spanish jamon
+    raw: 4 thick slices country ham ; or substitute with prosciutto or Spanish jamón
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 250
+    unit: ml
+    name: brewed black coffee
+    raw: 250 ml strong brewed black coffee
+  - qty: 60
+    unit: ml
+    name: water
+    raw: 60 ml water
+  - qty: 1
+    unit: tsp
+    name: brown sugar
+    raw: 1 teaspoon brown sugar
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - name: creamy grits
+    raw: Creamy grits
+  - name: hot buttermilk biscuits
+    raw: Hot buttermilk biscuits
+  - qty: 4
+    name: fried eggs
+    raw: 4 fried eggs
+  - name: butter for biscuits and grits
+    raw: Butter for biscuits and grits
+  - name: strawberry jam
+    raw: Strawberry jam
+  - name: hot sauce
+    raw: Hot sauce
+  - name: black coffee
+    raw: Strong black coffee for the table

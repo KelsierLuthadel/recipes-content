@@ -1,0 +1,133 @@
+prep: 30 minutes (plus 12 hours marinating)
+cook: 3 hours
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/side-dishes/frijoles-charros
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2.5
+    unit: kg
+    name: leg of young goat ; or 2.5 kg bone-in leg of lamb
+    raw: 2.5 kg bone-in leg of young goat ; OR 2.5 kg bone-in leg of lamb
+  - qty: 4
+    name: guajillo chillies
+    raw: 4 dried guajillo chillies
+  - qty: 3
+    name: ancho chillies
+    raw: 3 dried ancho chillies
+  - qty: 2
+    name: pasilla chillies
+    raw: 2 dried pasilla chillies
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml hot water
+  - qty: 10
+    name: garlic cloves
+    raw: 10 garlic cloves
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - name: juice of 2 oranges
+    raw: Juice of 2 oranges
+  - name: juice of 2 limes
+    raw: Juice of 2 limes
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 3
+    unit: tbsp
+    name: white vinegar
+    raw: 3 tablespoons white vinegar
+  - qty: 2
+    unit: tbsp
+    name: cumin
+    raw: 2 tablespoons ground cumin
+  - qty: 2
+    unit: tbsp
+    name: mexican oregano
+    raw: 2 tablespoons dried Mexican oregano
+  - qty: 1
+    unit: tbsp
+    name: coriander seed
+    raw: 1 tablespoon ground coriander seed
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 teaspoon ground cloves
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tablespoons fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: black pepper
+    raw: 1 tablespoon ground black pepper
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 500
+    unit: ml
+    name: stock or water
+    raw: 500 ml hot stock or water
+  - qty: 200
+    unit: ml
+    name: beer
+    raw: 200 ml beer
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - name: flaky sea salt
+    raw: Flaky sea salt
+  - name: warm flour tortillas
+    raw: Warm flour tortillas
+  - name: pico de gallo
+    raw: Pico de gallo
+  - name: avocado
+    raw: Sliced avocado
+  - name: refried beans
+    raw: Refried beans
+  - name: frijoles charros
+    raw: Frijoles charros
+  - name: mexican rice
+    raw: Mexican rice
+  - name: salsa picante
+    raw: Salsa picante
+  - name: lime wedges
+    raw: Lime wedges
+  - name: onion sprinkled with lime
+    raw: Sliced raw onion sprinkled with lime
+  - name: coriander
+    raw: Fresh coriander
+  - name: mexican crema
+    raw: Mexican crema

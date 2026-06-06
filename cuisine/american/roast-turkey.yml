@@ -17,7 +17,8 @@ tags:
   - butter
   - complex
   - sukkot
-mentions: []
+mentions:
+  - cuisine/southern/side-dishes/sweet-potato-casserole
 ingredients:
   - qty: 1
     name: turkey

@@ -12,8 +12,7 @@ tags:
   - onion
   - garlic
   - tomato
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 50
     unit: ml

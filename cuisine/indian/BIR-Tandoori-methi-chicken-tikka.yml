@@ -25,8 +25,7 @@ tags:
   - chickpea
   - chili
   - complex
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 800
     unit: g

@@ -1,0 +1,89 @@
+prep: 30 minutes (assuming pre-made filling)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - chicken
+  - beef
+  - pork
+  - onion
+  - garlic
+  - coriander
+  - cream
+  - cheese
+  - complex
+mentions:
+  - cuisine/american/pulled-pork
+  - cuisine/mexican/snacks/guacamole
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: shredded beef
+    raw: 600 g cooked shredded beef
+  - qty: 4
+    unit: tbsp
+    name: sofrito
+    raw: 4 tablespoons sofrito
+  - qty: 4
+    unit: tbsp
+    name: red chile sauce
+    raw: 4 tablespoons red chile sauce
+  - qty: 2
+    unit: tsp
+    name: cumin
+    raw: 2 teaspoons cumin
+  - qty: 2
+    unit: tsp
+    name: mexican oregano
+    raw: 2 teaspoons Mexican oregano
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 400
+    unit: g
+    name: refried beans
+    raw: 400 g refried beans
+  - qty: 300
+    unit: g
+    name: monterey jack
+    raw: 300 g grated Monterey Jack
+  - qty: 200
+    unit: g
+    name: cheddar
+    raw: 200 g grated cheddar
+  - qty: 4
+    name: flour tortillas
+    raw: 4 large flour tortillas
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - qty: 400
+    unit: ml
+    name: red enchilada sauce
+    raw: 400 ml red enchilada sauce
+  - qty: 200
+    unit: g
+    name: cheddar
+    raw: 200 g grated cheddar
+  - qty: 200
+    unit: ml
+    name: sour cream
+    raw: 200 ml sour cream
+  - qty: 1
+    name: avocado
+    raw: 1 ripe avocado
+  - qty: 1
+    unit: cup
+    name: pico de gallo
+    raw: 1 cup pico de gallo
+  - name: shredded iceberg lettuce
+    raw: Shredded iceberg lettuce
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander

@@ -1,0 +1,44 @@
+prep: 20 minutes (sopaipilla recipe required as base)
+cook: 15 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - chocolate
+  - honey
+mentions:
+  - cuisine/chilean/side-dishes/sopaipillas
+  - cuisine/mexican/enchilladas
+  - cuisine/new-mexico/sopaipilla-relleno
+  - cuisine/southwest/carne-adovada
+  - cuisine/southwest/green-chile-stew
+  - cuisine/southwest/side-dishes/sopaipillas
+  - sauces/sauce-sweet/chocolate-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 12
+    name: hot sopaipillas
+    raw: 12 fresh hot sopaipillas
+  - qty: 200
+    unit: g
+    name: local honey
+    raw: 200 g local honey
+  - qty: 4
+    unit: tbsp
+    name: caster sugar
+    raw: 4 tablespoons caster sugar
+  - qty: 1
+    unit: tbsp
+    name: cinnamon
+    raw: 1 tablespoon ground cinnamon
+  - name: vanilla ice cream
+    raw: Vanilla ice cream
+  - name: whipped cream
+    raw: Whipped cream
+  - name: berries
+    raw: Fresh berries
+  - name: chocolate sauce
+    raw: Chocolate sauce

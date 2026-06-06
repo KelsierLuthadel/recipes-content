@@ -1,0 +1,69 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - snack
+  - onion
+  - garlic
+  - coriander
+  - chili
+mentions:
+  - cuisine/mexican/enchilladas
+  - cuisine/southwest/carne-adovada
+  - cuisine/texas/frito-pie
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 14
+    name: new mexico red chiles ; stems and seeds removed
+    raw: 14 dried New Mexico red chiles ; stems and seeds removed
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre hot water
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: cumin
+    raw: 2 tablespoons ground cumin
+  - qty: 2
+    unit: tbsp
+    name: mexican oregano
+    raw: 2 tablespoons dried Mexican oregano
+  - qty: 1
+    unit: tsp
+    name: coriander seed
+    raw: 1 teaspoon ground coriander seed
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: apple cider vinegar
+    raw: 1 tablespoon apple cider vinegar
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar

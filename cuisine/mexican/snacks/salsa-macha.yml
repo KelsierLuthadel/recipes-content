@@ -1,0 +1,75 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - tree-nuts
+  - peanuts
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - garlic
+  - nuts
+  - chili
+mentions: []
+ingredients:
+  - qty: 4
+    name: guajillo chillies
+    raw: 4 dried guajillo chillies
+  - qty: 3
+    name: ancho chillies
+    raw: 3 dried ancho chillies
+  - qty: 6
+    name: chiles de arbol
+    raw: 6 dried chiles de árbol
+  - qty: 2
+    name: chipotle peppers
+    raw: 2 dried chipotle peppers
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 100
+    unit: g
+    name: peanuts
+    raw: 100 g raw peanuts
+  - qty: 3
+    unit: tbsp
+    name: sesame seeds
+    raw: 3 tablespoons sesame seeds
+  - qty: 2
+    unit: tbsp
+    name: mexican oregano
+    raw: 2 tablespoons Mexican oregano
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: brown sugar
+    raw: 2 tablespoons brown sugar
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 350
+    unit: ml
+    name: vegetable oil
+    raw: 350 ml vegetable oil
+  - qty: 1
+    unit: tbsp
+    name: toasted nori
+    raw: 1 tablespoon toasted nori
+  - qty: 30
+    unit: g
+    name: toasted almonds or pine nuts
+    raw: 30 g toasted almonds or pine nuts

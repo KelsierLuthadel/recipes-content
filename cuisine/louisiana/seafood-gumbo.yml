@@ -1,0 +1,129 @@
+prep: 40 minutes
+cook: 1.5 hours
+allergens:
+  - gluten
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - pork
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: ml
+    name: vegetable oil
+    raw: 200 ml vegetable oil
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 6
+    unit: stick
+    name: celery
+    raw: 6 sticks celery
+  - qty: 2
+    name: green bell peppers
+    raw: 2 large green bell peppers
+  - qty: 12
+    name: garlic cloves
+    raw: 12 garlic cloves
+  - qty: 800
+    unit: g
+    name: shrimp
+    raw: 800 g raw peeled shrimp
+  - qty: 500
+    unit: g
+    name: lump crab meat
+    raw: 500 g lump crab meat
+  - qty: 250
+    unit: g
+    name: shucked oysters with their liquor
+    raw: 250 g shucked oysters with their liquor
+  - qty: 200
+    unit: g
+    name: andouille sausage
+    raw: 200 g andouille sausage
+  - qty: 400
+    unit: g
+    name: okra
+    raw: 400 g okra
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tablespoon tomato paste
+  - qty: 2
+    unit: l
+    name: hot seafood or chicken stock
+    raw: 2 litres hot seafood or chicken stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon dried thyme
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tbsp
+    name: cajun seasoning
+    raw: 1 tablespoon Cajun seasoning
+  - qty: 1
+    unit: tsp
+    name: cayenne
+    raw: 1 teaspoon cayenne
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1.5
+    unit: tbsp
+    name: file powder
+    raw: 1 ½ tablespoons filé powder
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - qty: 1
+    name: spring onions
+    raw: 1 bunch spring onions
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - name: tabasco
+    raw: Tabasco
+  - name: steamed long-grain rice
+    raw: Steamed long-grain rice
+  - name: french bread
+    raw: French bread
+  - name: pickled okra
+    raw: Pickled okra

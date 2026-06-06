@@ -1,0 +1,85 @@
+prep: 25 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cream
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 280
+    unit: g
+    name: butter
+    raw: 280 g butter
+  - qty: 300
+    unit: g
+    name: caster sugar
+    raw: 300 g caster sugar
+  - qty: 200
+    unit: g
+    name: brown sugar
+    raw: 200 g brown sugar
+  - qty: 5
+    name: eggs
+    raw: 5 large eggs
+  - qty: 2
+    unit: tbsp
+    name: vanilla extract
+    raw: 2 tablespoons vanilla extract
+  - qty: 250
+    unit: ml
+    name: sour cream
+    raw: 250 ml sour cream
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 1.5
+    unit: tsp
+    name: baking powder
+    raw: 1 ½ teaspoons baking powder
+  - qty: 0.5
+    unit: tsp
+    name: baking soda
+    raw: ½ teaspoon baking soda
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 200
+    unit: g
+    name: toasted chopped pecans
+    raw: 200 g toasted chopped pecans
+  - qty: 200
+    unit: g
+    name: butter
+    raw: 200 g butter
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 120
+    unit: ml
+    name: tennessee whiskey
+    raw: 120 ml Tennessee whiskey
+  - qty: 1
+    unit: tsp
+    name: vanilla
+    raw: 1 teaspoon vanilla

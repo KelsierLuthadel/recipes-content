@@ -12,8 +12,7 @@ tags:
   - pork
   - butter
   - cheese
-mentions:
-  - tutorials/pizza/cheese
+mentions: []
 ingredients:
   - qty: 30
     unit: g

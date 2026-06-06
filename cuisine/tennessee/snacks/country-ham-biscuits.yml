@@ -1,0 +1,67 @@
+prep: 30 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+tags:
+  - snack
+  - meat
+  - pork
+  - eggs
+  - butter
+  - honey
+mentions:
+  - cuisine/creole/snacks/pimento-cheese
+  - cuisine/southern/snacks/pimento-cheese
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1.5
+    unit: tbsp
+    name: baking powder
+    raw: 1 ½ tablespoons baking powder
+  - qty: 1
+    unit: tsp
+    name: baking soda
+    raw: 1 teaspoon baking soda
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 200
+    unit: g
+    name: cold butter
+    raw: 200 g cold butter
+  - qty: 400
+    unit: ml
+    name: cold buttermilk
+    raw: 400 ml cold buttermilk
+  - qty: 300
+    unit: g
+    name: thinly-sliced tennessee country ham
+    raw: 300 g thinly-sliced Tennessee country ham
+  - qty: 4
+    unit: tbsp
+    name: honey mustard
+    raw: 4 tablespoons honey mustard
+  - qty: 2
+    unit: tbsp
+    name: honey
+    raw: 2 tablespoons honey
+  - qty: 80
+    unit: g
+    name: butter
+    raw: 80 g butter
+  - qty: 1
+    name: egg
+    raw: 1 egg

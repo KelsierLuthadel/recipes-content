@@ -1,0 +1,97 @@
+prep: 25 minutes (plus 30 minutes potato soaking)
+cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - spicy
+  - sides
+  - meat
+  - pork
+  - onion
+  - tomato
+  - potato
+  - coriander
+  - cream
+  - cheese
+  - complex
+mentions:
+  - cuisine/american/snacks/buffalo-wings
+  - cuisine/british/side-dishes/dirty-fries
+  - cuisine/mexican/snacks/guacamole
+  - cuisine/new-york/buffalo-wings
+  - drinks/cocktails/margarita
+  - sauces/sauce-spicy/buffalo-sauce
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: floury potatoes
+    raw: 1.2 kg floury potatoes
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - qty: 200
+    unit: g
+    name: cheddar cheese
+    raw: 200 g sharp cheddar cheese
+  - qty: 100
+    unit: g
+    name: monterey jack or pepper jack cheese
+    raw: 100 g Monterey Jack or pepper jack cheese
+  - qty: 50
+    unit: g
+    name: cream cheese
+    raw: 50 g cream cheese
+  - qty: 8
+    name: rashers thick-cut smoked bacon
+    raw: 8 rashers thick-cut smoked bacon
+  - qty: 2
+    name: jalapenos
+    raw: 2 fresh jalapeños
+  - qty: 200
+    unit: g
+    name: sour cream
+    raw: 200 g sour cream
+  - qty: 6
+    name: spring onions
+    raw: 6 spring onions
+  - qty: 4
+    unit: tbsp
+    name: ranch dressing
+    raw: 4 tablespoons ranch dressing
+  - qty: 100
+    unit: g
+    name: tomato
+    raw: 100 g diced fresh tomato
+  - qty: 50
+    unit: g
+    name: black olives
+    raw: 50 g sliced black olives
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 1
+    name: avocado
+    raw: 1 medium ripe avocado
+  - qty: 2
+    unit: tsp
+    name: flaky sea salt
+    raw: 2 teaspoons flaky sea salt
+  - qty: 1
+    unit: tsp
+    name: cajun seasoning
+    raw: 1 teaspoon Cajun seasoning
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - name: hot sauce
+    raw: Hot sauce
+  - name: bbq sauce
+    raw: BBQ sauce
+  - name: crumbled blue cheese
+    raw: Crumbled blue cheese
+  - name: pickled jalapenos in addition to fresh
+    raw: Sliced pickled jalapeños in addition to fresh

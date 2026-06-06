@@ -1,0 +1,41 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - garlic
+  - lime
+  - coriander
+  - cream
+mentions:
+  - cuisine/cuban/ropa-vieja
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: malanga root
+    raw: 1 kg malanga root
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - name: mojo sauce
+    raw: Mojo sauce
+  - name: pique
+    raw: Pique
+  - name: garlic mayonnaise
+    raw: Garlic mayonnaise
+  - name: sour cream with garlic
+    raw: Sour cream with garlic

@@ -1,0 +1,78 @@
+prep: 15 minutes (plus 30 minutes rice soaking)
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - sides
+  - meat
+  - rice
+  - onion
+  - butter
+  - nuts
+mentions:
+  - cuisine/turkish/hunkar-begendi
+  - cuisine/turkish/kuzu-shish
+  - cuisine/turkish/side-dishes/bulgur-pilav
+  - tutorials/rice/pilaf
+ingredients:
+  - qty: 400
+    unit: g
+    name: long-grain rice
+    raw: 400 g long-grain rice
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 80
+    unit: g
+    name: vermicelli noodles
+    raw: 80 g vermicelli noodles
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 800
+    unit: ml
+    name: chicken stock
+    raw: 800 ml hot chicken stock
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 40
+    unit: g
+    name: pine nuts
+    raw: 40 g pine nuts
+  - qty: 30
+    unit: g
+    name: currants
+    raw: 30 g currants
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tablespoons butter
+  - qty: 1
+    unit: tbsp
+    name: dill -
+    raw: 1 tablespoon fresh dill - optional
+  - qty: 1
+    unit: tbsp
+    name: parsley -
+    raw: 1 tablespoon fresh parsley - optional

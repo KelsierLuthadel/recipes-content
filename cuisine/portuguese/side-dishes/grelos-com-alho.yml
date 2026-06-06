@@ -1,0 +1,50 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - garlic
+  - lemon
+mentions:
+  - cuisine/portuguese/bitoque
+  - cuisine/portuguese/francesinha
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: grelos ; or broccoli rabe ; or cavolo nero ; or curly kale
+    raw: 600 g grelos ; or broccoli rabe ; or cavolo nero ; or curly kale
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tablespoons fine sea salt
+  - qty: 6
+    unit: tbsp
+    name: virgin olive oil
+    raw: 6 tablespoons extra virgin olive oil
+  - qty: 10
+    name: garlic cloves
+    raw: 10 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: red pepper flakes
+    raw: 1 teaspoon dried red pepper flakes
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - name: olive oil
+    raw: Extra olive oil for finishing

@@ -1,0 +1,126 @@
+prep: 25 minutes
+cook: 2 hours
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - chicken
+  - beef
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - complex
+mentions:
+  - cuisine/american/pulled-pork
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: leftover pulled bbq pork
+    raw: 600 g leftover pulled BBQ pork
+  - qty: 400
+    unit: g
+    name: shredded chicken
+    raw: 400 g cooked shredded chicken
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 1
+    name: green bell pepper
+    raw: 1 large green bell pepper
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tablespoons tomato paste
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin crushed tomatoes
+  - qty: 1.5
+    unit: l
+    name: chicken stock
+    raw: 1.5 litres chicken stock
+  - qty: 3
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 3 tablespoons Worcestershire sauce
+  - qty: 4
+    unit: tbsp
+    name: bbq sauce
+    raw: 4 tablespoons BBQ sauce
+  - qty: 2
+    unit: tbsp
+    name: brown sugar
+    raw: 2 tablespoons brown sugar
+  - qty: 2
+    unit: tbsp
+    name: cider vinegar
+    raw: 2 tablespoons cider vinegar
+  - qty: 1
+    unit: tbsp
+    name: smoked paprika
+    raw: 1 tablespoon smoked paprika
+  - qty: 2
+    unit: tbsp
+    name: hot sauce
+    raw: 2 tablespoons hot sauce
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon dried thyme
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 3
+    name: potatoes
+    raw: 3 medium potatoes
+  - qty: 300
+    unit: g
+    name: lima beans
+    raw: 300 g frozen lima beans
+  - qty: 300
+    unit: g
+    name: sweet corn
+    raw: 300 g frozen sweet corn
+  - qty: 200
+    unit: g
+    name: okra
+    raw: 200 g okra
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - name: spring onion
+    raw: Spring onion
+  - name: cornbread
+    raw: Cornbread
+  - name: hot sauce
+    raw: Hot sauce
+  - name: sweet tea
+    raw: Sweet tea
