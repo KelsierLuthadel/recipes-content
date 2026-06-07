@@ -1,25 +1,31 @@
 ---
 name: A Spice Trail Across Asia
 image: resources/spice-trail-asia.jpg
-tagline: Five dishes that put the spice rack to work, from Bangkok to Seoul.
+tagline: Five dishes for the spice rack: mala, lemongrass, rendang paste, toasted curry, tandoor.
 publishedAt: 2026-05-13
 ---
 
-Asian spicing is many things, none of them a single flavour. The mala
-prickle of Sichuan peppercorns, the slow heat of a Thai red curry, the
-sweet-smoky lacquer of Cantonese roast pork, the layered warmth of an
-Indian tandoor rub, the funky depth of Korean ssamjang. They share a
-willingness to commit: spice as a foreground note, not a side garnish.
+Five techniques, five countries, one rule: the spices are the dish, not the
+seasoning. A Sichuan mapo tofu where black-fermented broad bean and ground
+Sichuan peppercorn make the broth numb your lips. A Thai massaman where the
+paste of dried chillies, coriander seed, cumin, lemongrass, galangal and
+peanut is pounded for an hour before any beef touches the pan. An Indonesian
+rendang where the bumbu of shallot, garlic, ginger, turmeric, candlenut and
+chilli is fried in coconut milk until the milk separates and re-fries the
+paste in its own oil over the course of three hours. A Sri Lankan curry
+built on freshly toasted black-roasted curry powder, distinct from the
+yellow Indian version by colour and intensity alike. An Indian tandoori
+rub of yogurt, ginger, garlic, garam masala and Kashmiri chilli that gives
+the chicken its signature stain.
 
-These five recipes are an honest introduction to that range. Each one
-asks you to handle whole spices, fish or soy or shrimp paste, and the
-patience to let aromatics develop. The reward is meals that taste like
-themselves, not like watered-down versions of someone else's.
+Each one rewards proper handling of whole spices, fresh aromatics, and
+patient paste-making. None of them tolerate a shortcut. The reward is meals
+that taste of where they came from.
 
 ## Recipes
 
 - [Thai Beef Massaman](../cuisine/thai/thai-beef-massaman.md)
 - [Tandoori Chicken Tikka](../cuisine/indian/side-dishes/tandoori-chicken-tikka.md)
-- [Char Siu](../cuisine/chinese/char-siu.md)
-- [Samgyeopsal](../cuisine/korean/samgyeopsal.md)
-- [Yakitori](../cuisine/japanese/yakitori.md)
+- [Mapo Tofu](../cuisine/chinese/mapo-tofu.md)
+- [Indonesian Beef Rendang](../cuisine/indonesian/beef-rendang.md)
+- [Sri Lankan Chicken Curry](../cuisine/sri-lankan/sri-lankan-chicken-curry.md)
