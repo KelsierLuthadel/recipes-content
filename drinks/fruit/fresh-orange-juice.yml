@@ -8,7 +8,8 @@ tags:
   - gluten-free
   - quick
   - make-ahead
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 6
     name: juicing oranges

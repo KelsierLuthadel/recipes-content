@@ -12,7 +12,8 @@ tags:
   - asian
   - eggs
   - lunar-new-year
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 400
     unit: g

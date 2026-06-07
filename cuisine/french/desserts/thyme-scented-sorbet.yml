@@ -6,7 +6,8 @@ tags:
   - gluten-free
   - dessert
   - lemon
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 350
     unit: ml

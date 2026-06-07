@@ -25,6 +25,7 @@ mentions:
   - cuisine/indian/biryani
   - cuisine/indian/rice/plain-basmati
   - cuisine/indian/sauces-pickles/mint-raita
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 300
     unit: g

@@ -16,6 +16,7 @@ mentions:
   - drinks/classic/elderflower-cordial
   - drinks/hot/mulled-wine
   - drinks/regional/germany/gluhwein
+  - tutorials/cocktails/equipment
 ingredients:
   - qty: 1.5
     unit: l

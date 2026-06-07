@@ -1,0 +1,18 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - rice
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+  - cuisine/indian/biryani
+  - cuisine/indian/Breads/bhaura
+  - cuisine/indian/Breads/keema-naan
+  - cuisine/indian/dal-makhani
+  - cuisine/indian/rice/jeera-rice
+  - cuisine/indian/side-dishes/bhindi-masala
+  - cuisine/pakistani/side-dishes/aloo-paratha
+  - tutorials/pizza/dough
+  - tutorials/rice/pilaf

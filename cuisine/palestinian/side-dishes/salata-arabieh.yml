@@ -19,6 +19,7 @@ mentions:
   - cuisine/middle-east/kibbeh
   - cuisine/palestinian/lahem-bi-ajeen
   - cuisine/palestinian/musakhan
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 4
     name: tomatoes

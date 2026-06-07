@@ -9,7 +9,8 @@ tags:
   - asian
   - rice
   - butter
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 370
     unit: g

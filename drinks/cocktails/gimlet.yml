@@ -11,6 +11,8 @@ tags:
 mentions:
   - drinks/cocktails/margarita
   - drinks/cocktails/tom-collins
+  - tutorials/cocktails/garnish
+  - tutorials/cocktails/shake-vs-stir
 ingredients:
   - qty: 60
     unit: ml

@@ -9,7 +9,8 @@ tags:
   - quick
   - butter
   - nuts
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 200
     unit: g

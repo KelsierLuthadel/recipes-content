@@ -15,7 +15,8 @@ tags:
   - lemon
   - chili
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/equipment
 ingredients:
   - qty: 1
     name: chicken

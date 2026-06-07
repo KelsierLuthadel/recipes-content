@@ -16,7 +16,8 @@ tags:
   - lemon
   - nuts
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 1
     name: octopus

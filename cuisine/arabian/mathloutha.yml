@@ -23,7 +23,8 @@ tags:
   - coriander
   - nuts
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 600
     unit: g

@@ -6,7 +6,8 @@ tags:
   - vegetarian
   - gluten-free
   - butter
-mentions: []
+mentions:
+  - tutorials/cocktails/equipment
 ingredients:
   - qty: 150
     unit: g

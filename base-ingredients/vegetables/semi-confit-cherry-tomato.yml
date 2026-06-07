@@ -11,6 +11,8 @@ tags:
   - garlic
   - tomato
 mentions:
+  - tutorials/cocktails/equipment
+  - tutorials/cocktails/garnish
   - tutorials/pizza/toppings
 ingredients:
   - qty: 1

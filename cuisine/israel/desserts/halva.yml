@@ -18,7 +18,8 @@ tags:
   - rosh-hashanah
   - tu-bav
   - jewish
-mentions: []
+mentions:
+  - tutorials/cocktails/equipment
 ingredients:
   - qty: 500
     unit: g

@@ -1,0 +1,18 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+mentions:
+  - drinks/cocktails/daiquiri
+  - drinks/cocktails/manhattan
+  - drinks/cocktails/margarita
+  - drinks/cocktails/martini
+  - drinks/cocktails/mojito
+  - drinks/cocktails/negroni
+  - drinks/cocktails/old-fashioned
+  - drinks/cocktails/whisky-sour
+  - drinks/regional/louisiana/sazerac
+  - tutorials/cocktails/garnish
+  - tutorials/distilling-spirits/whisky

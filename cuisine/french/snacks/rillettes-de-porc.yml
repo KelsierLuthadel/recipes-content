@@ -13,7 +13,8 @@ tags:
   - onion
   - garlic
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/equipment
 ingredients:
   - qty: 1.2
     unit: kg

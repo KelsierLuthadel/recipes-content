@@ -20,7 +20,8 @@ tags:
   - tu-bav
   - yom-kippur
   - jewish
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 300
     unit: g

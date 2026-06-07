@@ -15,7 +15,8 @@ tags:
   - tomato
   - chili
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 500
     unit: g

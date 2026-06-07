@@ -8,7 +8,8 @@ tags:
   - gluten-free
   - quick
   - lemon
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 250
     unit: ml

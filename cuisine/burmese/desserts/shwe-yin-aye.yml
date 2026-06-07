@@ -10,7 +10,8 @@ tags:
   - rice
   - coconut
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 8
     unit: g

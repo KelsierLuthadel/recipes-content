@@ -13,7 +13,8 @@ tags:
   - tomato
   - potato
   - lemon
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 1
     unit: kg

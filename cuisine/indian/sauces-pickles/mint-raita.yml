@@ -17,6 +17,7 @@ mentions:
   - cuisine/indian/side-dishes/papadum
   - cuisine/indian/snacks/samosa
   - cuisine/pakistani/side-dishes/boondi-raita
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 300
     unit: g

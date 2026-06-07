@@ -11,7 +11,8 @@ tags:
   - potato
   - chocolate
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/equipment
 ingredients:
   - qty: 80
     unit: g

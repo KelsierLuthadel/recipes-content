@@ -9,7 +9,8 @@ tags:
   - dessert
   - eggs
   - coconut
-mentions: []
+mentions:
+  - tutorials/cocktails/equipment
 ingredients:
   - qty: 250
     unit: g

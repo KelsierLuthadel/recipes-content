@@ -14,7 +14,8 @@ tags:
   - potato
   - cream
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 400
     unit: g

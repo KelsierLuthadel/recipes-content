@@ -8,7 +8,8 @@ tags:
   - dairy-free
   - quick
   - make-ahead
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 1
     name: brown sugar cube

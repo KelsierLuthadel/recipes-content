@@ -8,7 +8,8 @@ tags:
   - dairy-free
   - quick
   - eggs
-mentions: []
+mentions:
+  - tutorials/cocktails/equipment
 ingredients:
   - qty: 6
     name: eggs

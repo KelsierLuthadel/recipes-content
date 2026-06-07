@@ -15,7 +15,8 @@ tags:
   - honey
   - nuts
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/equipment
 ingredients:
   - qty: 2
     unit: l

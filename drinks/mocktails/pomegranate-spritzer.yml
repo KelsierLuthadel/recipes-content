@@ -8,7 +8,8 @@ tags:
   - quick
   - lime
   - honey
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 60
     unit: ml

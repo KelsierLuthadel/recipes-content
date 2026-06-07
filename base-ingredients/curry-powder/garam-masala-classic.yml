@@ -11,7 +11,8 @@ tags:
   - coriander
   - chili
   - curry
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 10
     name: red chillies

@@ -8,7 +8,9 @@ tags:
   - vegetarian
   - eggs
   - butter
-mentions: []
+mentions:
+  - tutorials/cocktails/equipment
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 110
     unit: g

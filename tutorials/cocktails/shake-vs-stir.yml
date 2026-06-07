@@ -1,0 +1,15 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+mentions:
+  - drinks/cocktails/daiquiri
+  - drinks/cocktails/manhattan
+  - drinks/cocktails/margarita
+  - drinks/cocktails/mimosa
+  - drinks/cocktails/negroni
+  - drinks/cocktails/whisky-sour
+  - drinks/hot/hot-toddy
+  - drinks/regional/ireland/irish-coffee

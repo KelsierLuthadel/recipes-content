@@ -12,7 +12,8 @@ tags:
   - garlic
   - lemon
   - cheese
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 2
     name: sirloin steaks

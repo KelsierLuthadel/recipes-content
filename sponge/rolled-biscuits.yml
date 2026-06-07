@@ -10,6 +10,7 @@ tags:
   - eggs
   - potato
 mentions:
+  - tutorials/cocktails/equipment
   - tutorials/pizza/sauce
 ingredients:
   - qty: 4

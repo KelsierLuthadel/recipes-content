@@ -18,6 +18,7 @@ mentions:
   - cuisine/chilean/charquican
   - cuisine/chilean/lomo-a-lo-pobre
   - cuisine/mexican/pollo-asado
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 6
     name: tomatoes

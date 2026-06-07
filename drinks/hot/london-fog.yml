@@ -9,7 +9,8 @@ tags:
   - quick
   - lemon
   - nuts
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 1
     name: earl grey tea bag

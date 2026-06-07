@@ -13,7 +13,8 @@ tags:
   - potato
   - butter
   - cream
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 50
     unit: g

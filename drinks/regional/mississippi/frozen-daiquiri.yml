@@ -10,6 +10,7 @@ tags:
 mentions:
   - drinks/cocktails/daiquiri
   - drinks/regional/louisiana/hurricane
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 100
     unit: ml

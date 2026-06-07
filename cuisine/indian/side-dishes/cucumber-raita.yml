@@ -10,7 +10,8 @@ tags:
   - asian
   - yogurt
   - chili
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 1
     name: cucumber

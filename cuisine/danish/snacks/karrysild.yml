@@ -17,7 +17,8 @@ tags:
   - cream
   - curry
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 200
     unit: g

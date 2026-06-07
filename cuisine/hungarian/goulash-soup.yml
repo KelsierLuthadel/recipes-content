@@ -12,7 +12,8 @@ tags:
   - tomato
   - potato
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 700
     unit: g

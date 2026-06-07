@@ -14,6 +14,7 @@ tags:
 mentions:
   - drinks/classic/elderflower-cordial
   - drinks/hot/mulled-wine
+  - tutorials/cocktails/equipment
 ingredients:
   - qty: 1.5
     unit: l

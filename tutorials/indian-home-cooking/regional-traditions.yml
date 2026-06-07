@@ -1,0 +1,26 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - one-pan
+mentions:
+  - base-ingredients/curry-powder/sambaar
+  - cuisine/bengali/chingri-malai-curry
+  - cuisine/bengali/desserts/mishti-doi
+  - cuisine/bengali/side-dishes/aloo-posto
+  - cuisine/bengali/side-dishes/begun-bhaja
+  - cuisine/goan/desserts/bebinca
+  - cuisine/goan/goan-fish-curry
+  - cuisine/indian/BIR-Butter-Chicken
+  - cuisine/indian/BIR-Chicken-Vindaloo
+  - cuisine/indian/butter-chicken
+  - cuisine/indian/chicken-chettinad
+  - cuisine/indian/dal-makhani
+  - cuisine/indian/pav-bhaji
+  - cuisine/indian/side-dishes/aloo-gobi
+  - cuisine/indian/side-dishes/avial
+  - cuisine/jamaican/snacks/festival
+  - cuisine/nigerian/pepper-soup
+  - tutorials/pizza/sauce

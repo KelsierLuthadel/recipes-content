@@ -10,6 +10,7 @@ tags:
   - duck
 mentions:
   - drinks/cocktails/martini
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 50
     unit: ml

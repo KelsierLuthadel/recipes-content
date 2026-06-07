@@ -14,7 +14,8 @@ tags:
   - onion
   - garlic
   - butter
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 3
     unit: tbsp

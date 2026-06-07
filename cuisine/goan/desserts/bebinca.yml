@@ -10,7 +10,8 @@ tags:
   - eggs
   - coconut
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/equipment
 ingredients:
   - qty: 12
     name: egg yolks

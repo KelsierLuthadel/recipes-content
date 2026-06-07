@@ -11,7 +11,8 @@ tags:
   - cream
   - cheese
   - nuts
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 300
     unit: g

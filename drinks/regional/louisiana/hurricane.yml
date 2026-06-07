@@ -13,6 +13,7 @@ mentions:
   - cuisine/cajun/jambalaya
   - drinks/cocktails/rum-punch
   - drinks/fruit/fresh-orange-juice
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 60
     unit: ml

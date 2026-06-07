@@ -15,7 +15,8 @@ tags:
   - tomato
   - lemon
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 3
     unit: tbsp

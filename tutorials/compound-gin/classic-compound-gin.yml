@@ -11,6 +11,8 @@ mentions:
   - drinks/cocktails/gimlet
   - drinks/cocktails/martini
   - drinks/cocktails/negroni
+  - tutorials/cocktails/equipment
+  - tutorials/cocktails/garnish
   - tutorials/compound-gin/sloe-gin
 ingredients:
   - qty: 1

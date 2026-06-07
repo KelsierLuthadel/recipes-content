@@ -16,7 +16,8 @@ tags:
   - complex
   - passover
   - jewish
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 1
     unit: kg

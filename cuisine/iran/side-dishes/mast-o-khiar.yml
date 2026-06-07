@@ -10,7 +10,8 @@ tags:
   - sides
   - yogurt
   - nuts
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 500
     unit: g

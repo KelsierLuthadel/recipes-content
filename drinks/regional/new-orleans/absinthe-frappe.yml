@@ -6,7 +6,8 @@ tags:
   - dairy-free
   - gluten-free
   - quick
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 30
     unit: ml

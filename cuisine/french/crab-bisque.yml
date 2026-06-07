@@ -16,7 +16,8 @@ tags:
   - butter
   - cream
   - chili
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 50
     unit: g

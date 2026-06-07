@@ -19,7 +19,8 @@ tags:
   - chili
   - curry
   - complex
-mentions: []
+mentions:
+  - tutorials/indian-home-cooking/tarka
 ingredients:
   - qty: 250
     unit: g

@@ -11,7 +11,8 @@ tags:
   - sides
   - garlic
   - lemon
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 30
     unit: ml

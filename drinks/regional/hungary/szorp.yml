@@ -9,7 +9,8 @@ tags:
   - make-ahead
   - lemon
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 500
     unit: g

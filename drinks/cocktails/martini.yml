@@ -9,7 +9,8 @@ tags:
   - gluten-free
   - quick
   - lemon
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 60
     unit: ml

@@ -18,7 +18,8 @@ tags:
   - nuts
   - chili
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 6
     name: tomatoes

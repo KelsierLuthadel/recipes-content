@@ -15,7 +15,8 @@ tags:
   - cream
   - nuts
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/equipment
 ingredients:
   - qty: 4
     name: lemons

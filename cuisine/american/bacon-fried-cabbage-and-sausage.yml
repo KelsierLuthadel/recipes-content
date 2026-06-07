@@ -12,7 +12,8 @@ tags:
   - pork
   - onion
   - garlic
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 450
     unit: g

@@ -7,7 +7,8 @@ tags:
   - dairy-free
   - gluten-free
   - quick
-mentions: []
+mentions:
+  - tutorials/cocktails/equipment
 ingredients:
   - qty: 1
     name: heaped teaspoon very finely ground coffee

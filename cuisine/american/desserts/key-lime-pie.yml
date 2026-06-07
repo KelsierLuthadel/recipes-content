@@ -12,7 +12,8 @@ tags:
   - butter
   - cream
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 200
     unit: g

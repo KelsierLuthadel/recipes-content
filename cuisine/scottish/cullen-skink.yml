@@ -12,7 +12,8 @@ tags:
   - lemon
   - butter
   - cream
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 500
     unit: g

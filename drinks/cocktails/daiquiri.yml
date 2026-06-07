@@ -11,6 +11,7 @@ tags:
   - lime
 mentions:
   - drinks/cocktails/margarita
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 60
     unit: ml

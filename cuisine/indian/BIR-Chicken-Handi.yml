@@ -20,7 +20,8 @@ tags:
   - yogurt
   - chili
   - complex
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 125
     unit: ml

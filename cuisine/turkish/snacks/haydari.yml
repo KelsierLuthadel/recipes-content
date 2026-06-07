@@ -22,6 +22,7 @@ mentions:
   - cuisine/turkish/side-dishes/cacik
   - cuisine/turkish/side-dishes/ezme
   - cuisine/turkish/side-dishes/mucver
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 500
     unit: g

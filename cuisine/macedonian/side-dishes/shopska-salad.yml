@@ -9,7 +9,8 @@ tags:
   - onion
   - tomato
   - cheese
-mentions: []
+mentions:
+  - tutorials/cocktails/garnish
 ingredients:
   - qty: 4
     name: tomatoes
