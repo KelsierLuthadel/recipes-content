@@ -1,0 +1,37 @@
+prep: 5 minutes
+cook: None (assumes hot coffee)
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - chocolate
+mentions:
+  - drinks/regional/ireland/irish-coffee
+ingredients:
+  - qty: 200
+    unit: ml
+    name: black coffee
+    raw: 200 ml strong hot black coffee
+  - qty: 35
+    unit: ml
+    name: aalborg taffel akvavit
+    raw: 30-40 ml Aalborg Taffel Akvavit
+  - qty: 1
+    name: sugar cube
+    raw: 1 small sugar cube
+  - qty: 1
+    name: orange peel
+    raw: 1 small piece of orange peel
+  - qty: 1
+    unit: pinch
+    name: cinnamon or grated nutmeg
+    raw: A pinch of ground cinnamon or grated nutmeg
+  - name: separate snaps glass of cold akvavit
+    raw: A small separate snaps glass of cold akvavit
+  - name: danish pebernødder or a piece of dark chocolate
+    raw: A small piece of Danish pebernødder or a piece of dark chocolate
+  - name: biscuit at christmas
+    raw: A small biscuit at Christmas

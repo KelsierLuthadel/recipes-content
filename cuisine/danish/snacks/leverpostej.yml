@@ -1,0 +1,108 @@
+prep: 25 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - meat
+  - mustard
+  - garlic
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - cream
+  - complex
+mentions:
+  - cuisine/american/meatloaf
+ingredients:
+  - qty: 500
+    unit: g
+    name: pork liver
+    raw: 500 g pork liver
+  - qty: 200
+    unit: g
+    name: pork fat or 300 g streaky bacon
+    raw: 200 g pork fat OR 300 g streaky bacon
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 4
+    unit: tbsp
+    name: plain flour
+    raw: 4 tablespoons plain flour
+  - qty: 4
+    name: anchovy fillets
+    raw: 4 anchovy fillets
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon ground white pepper
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 1
+    unit: tsp
+    name: marjoram
+    raw: 1 teaspoon dried marjoram
+  - qty: 1
+    unit: tbsp
+    name: brandy
+    raw: 1 tablespoon brandy
+  - qty: 7
+    name: strips streaky bacon
+    raw: 6-8 strips streaky bacon
+  - qty: 3.5
+    name: bay leaves
+    raw: 3-4 bay leaves
+  - name: "equipment: a 1.5-litre loaf tin"
+    raw: "Equipment: a 1.5-litre loaf tin, lined with greaseproof paper"
+  - name: danish rugbrød
+    raw: Sliced Danish rugbrød
+  - name: pickled beetroot
+    raw: Pickled beetroot
+  - name: crispy fried onions
+    raw: Crispy fried onions
+  - name: cucumber
+    raw: Sliced raw cucumber
+  - qty: 1
+    unit: sprig
+    name: thyme or cress
+    raw: A sprig of fresh thyme or cress
+  - name: dijon mustard
+    raw: Dijon mustard
+  - name: cold pilsner or a strong coffee
+    raw: A cold pilsner OR a strong coffee

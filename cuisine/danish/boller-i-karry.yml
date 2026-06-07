@@ -1,0 +1,145 @@
+prep: 20 minutes
+cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - peanuts
+  - meat
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - eggs
+  - rice
+  - onion
+  - coconut
+  - butter
+  - cream
+  - nuts
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: pork
+    raw: 500 g ground pork
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 3
+    unit: tbsp
+    name: plain flour
+    raw: 3 tablespoons plain flour
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres water
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 4
+    name: black peppercorns
+    raw: 4 black peppercorns
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - name: parsley
+    raw: A few sprigs of parsley
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g butter
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 1
+    name: leek
+    raw: 1 medium leek
+  - qty: 3
+    unit: tbsp
+    name: danish curry powder
+    raw: 3 tablespoons mild Danish curry powder
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 800
+    unit: ml
+    name: the poaching liquid
+    raw: 800 ml of the poaching liquid
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 2
+    unit: tbsp
+    name: mango chutney
+    raw: 2 tablespoons mango chutney
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon turmeric
+  - qty: 1
+    name: apple
+    raw: 1 small apple
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - qty: 400
+    unit: g
+    name: basmati rice
+    raw: 400 g basmati rice
+  - qty: 4
+    unit: tbsp
+    name: desiccated coconut
+    raw: 4 tablespoons desiccated coconut
+  - qty: 2
+    name: bananas
+    raw: 2 bananas
+  - qty: 4
+    unit: tbsp
+    name: roasted peanuts
+    raw: 4 tablespoons chopped roasted peanuts
+  - qty: 4
+    unit: tbsp
+    name: pickled cucumber or chutney
+    raw: 4 tablespoons chopped pickled cucumber or chutney
+  - qty: 1
+    name: chives
+    raw: 1 small bunch fresh chives
+  - name: cold pilsner
+    raw: A cold pilsner

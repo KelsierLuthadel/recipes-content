@@ -1,0 +1,60 @@
+prep: 10 minutes (plus 20 minutes brining)
+cook: None
+allergens:
+  - fish
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - meat
+  - beef
+  - pork
+  - onion
+mentions:
+  - cuisine/danish/frikadeller
+ingredients:
+  - qty: 1
+    name: english cucumber
+    raw: 1 large English cucumber
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 50
+    unit: ml
+    name: white wine vinegar
+    raw: 50 ml white wine vinegar
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml cold water
+  - qty: 1
+    name: dill
+    raw: 1 small bunch fresh dill
+  - qty: 0.5
+    name: red onion
+    raw: ½ small red onion
+  - qty: 1
+    unit: tsp
+    name: yellow mustard seeds
+    raw: 1 teaspoon yellow mustard seeds
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - name: alongside frikadeller
+    raw: Alongside Frikadeller
+  - name: alongside stegt flæsk
+    raw: Alongside stegt flæsk
+  - name: alongside smørrebrød with herring or roast beef
+    raw: Alongside smørrebrød with herring or roast beef
+  - name: at every danish weeknight dinner where the main course is heavy
+    raw: At every Danish weeknight dinner where the main course is heavy

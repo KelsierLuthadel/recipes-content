@@ -1,0 +1,114 @@
+prep: 25 minutes (plus 30 min resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - soy
+  - meat
+  - mustard
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - potato
+  - butter
+  - cream
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/danish/side-dishes/agurkesalat
+  - cuisine/danish/side-dishes/rodkal
+  - cuisine/thai/starters/pork-meatballs
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: pork
+    raw: 500 g ground pork
+  - qty: 200
+    unit: g
+    name: veal
+    raw: 200 g ground veal
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 4
+    unit: tbsp
+    name: plain flour
+    raw: 4 tablespoons plain flour
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon ground white pepper
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g butter
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tablespoon vegetable oil
+  - qty: 40
+    unit: g
+    name: butter
+    raw: 40 g butter
+  - qty: 4
+    unit: tbsp
+    name: plain flour
+    raw: 4 tablespoons plain flour
+  - qty: 600
+    unit: ml
+    name: beef or chicken stock
+    raw: 600 ml beef or chicken stock
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 1
+    unit: tbsp
+    name: soy sauce
+    raw: 1 tablespoon soy sauce
+  - qty: 1
+    unit: tbsp
+    name: redcurrant jelly
+    raw: 1 tablespoon redcurrant jelly
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 0.25
+    unit: tsp
+    name: white pepper
+    raw: ¼ teaspoon ground white pepper
+  - name: kulør for the canonical dark colour
+    raw: A few drops of kulør for the canonical dark colour, optional
+  - name: boiled small potatoes or brunede kartofler
+    raw: Boiled small potatoes OR brunede kartofler
+  - name: rødkal
+    raw: Rødkål
+  - name: agurkesalat
+    raw: Agurkesalat
+  - name: dijon mustard
+    raw: A small dish of strong Dijon mustard
+  - name: glass of cold pilsner
+    raw: A glass of cold pilsner

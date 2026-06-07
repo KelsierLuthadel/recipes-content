@@ -1,0 +1,48 @@
+prep: 20 minutes (plus 24-48 hours steeping)
+cook: 5 minutes (just to dissolve the sugar)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - lemon
+  - complex
+mentions:
+  - drinks/classic/elderflower-cordial
+ingredients:
+  - qty: 27.5
+    name: elderflower heads
+    raw: 25-30 fresh elderflower heads
+  - qty: 1.2
+    unit: kg
+    name: caster sugar
+    raw: 1.2 kg caster sugar
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres water
+  - qty: 3
+    name: lemons
+    raw: 3 large lemons
+  - qty: 2
+    name: oranges
+    raw: 2 oranges
+  - qty: 40
+    unit: g
+    name: citric acid
+    raw: 40 g citric acid
+  - qty: 60
+    unit: ml
+    name: elderflower syrup
+    raw: 60 ml elderflower syrup
+  - qty: 250
+    unit: ml
+    name: sparkling water
+    raw: 250 ml cold sparkling water
+  - qty: 2.5
+    name: ice cubes
+    raw: 2-3 ice cubes
+  - name: lemon
+    raw: A slice of lemon
+  - name: mint or basil
+    raw: A small mint or basil sprig

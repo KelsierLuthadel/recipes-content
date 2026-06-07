@@ -1,0 +1,97 @@
+prep: 30 minutes (plus overnight chilling)
+cook: 45 minutes (rice pudding base) + 15 minutes (cherry sauce)
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - rice
+  - lemon
+  - cream
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: short-grain pudding rice
+    raw: 200 g short-grain pudding rice
+  - qty: 800
+    unit: ml
+    name: milk
+    raw: 800 ml whole milk
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 400
+    unit: ml
+    name: double cream
+    raw: 400 ml double cream
+  - qty: 80
+    unit: g
+    name: blanched whole almonds
+    raw: 80 g blanched whole almonds
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 4
+    unit: tbsp
+    name: cherry brandy or sherry - optional but canonical
+    raw: 4 tablespoons cherry brandy or sherry - optional but canonical
+  - qty: 500
+    unit: g
+    name: pitted morello cherries
+    raw: 500 g pitted morello cherries
+  - qty: 200
+    unit: ml
+    name: cherry juice
+    raw: 200 ml cherry juice
+  - qty: 100
+    unit: ml
+    name: red wine
+    raw: 100 ml red wine
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 2
+    unit: tbsp
+    name: cornflour
+    raw: 2 tablespoons cornflour
+  - qty: 2
+    unit: tbsp
+    name: kirsch or cherry brandy
+    raw: 2 tablespoons kirsch or cherry brandy
+  - qty: 1
+    name: blanched almond
+    raw: 1 whole blanched almond
+  - name: mandelgave - wrapped
+    raw: A mandelgave - wrapped, small, ready to award to the winner

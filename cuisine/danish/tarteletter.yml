@@ -1,0 +1,89 @@
+prep: 30 minutes (assumes shop-bought tartlet shells; +1 hour if making from scratch)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+tags:
+  - meals
+  - meat
+  - chicken
+  - lemon
+  - butter
+  - cream
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - name: "option a: 8 shop-bought tartlet shells"
+    raw: "Option A: 8 shop-bought tartlet shells"
+  - name: "option b : 1 sheet good-quality butter puff pastry"
+    raw: "Option B : 1 sheet good-quality butter puff pastry, baked into 8 tartlet shells"
+  - qty: 500
+    unit: g
+    name: chicken
+    raw: 500 g cooked chicken
+  - qty: 200
+    unit: g
+    name: white asparagus
+    raw: 200 g white asparagus
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 4
+    unit: tbsp
+    name: plain flour
+    raw: 4 tablespoons plain flour
+  - qty: 300
+    unit: ml
+    name: chicken stock
+    raw: 300 ml chicken stock
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 150
+    unit: ml
+    name: double cream
+    raw: 150 ml double cream
+  - qty: 100
+    unit: ml
+    name: dry white wine
+    raw: 100 ml dry white wine
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - name: juice of ½ lemon
+    raw: Juice of ½ lemon
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - name: pickled white asparagus tips
+    raw: A few pickled white asparagus tips
+  - qty: 1
+    unit: sprig
+    name: dill or parsley
+    raw: Sprigs of fresh dill or parsley
+  - name: black pepper
+    raw: Ground black pepper
+  - name: green salad with vinaigrette
+    raw: A small green salad with vinaigrette
+  - name: glass of crisp dry white wine
+    raw: A glass of crisp dry white wine
+  - name: champagne if it's a celebration
+    raw: Champagne if it's a celebration

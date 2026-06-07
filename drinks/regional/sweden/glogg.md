@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Glögg (Swedish for "mulled wine") is one of the most ritualised drinks in Swedish culture and the defining beverage of the Christmas season — from the first Advent Sunday in late November all the way through Twelfth Night in early January. Every Swedish workplace, every neighbourhood gathering, every Lucia Day breakfast (December 13th, when girls in white robes and candle crowns sing at dawn), every julbord, and every Christmas Eve celebration starts with small mugs of hot glögg in everyone's hands. The construction: red wine (a cheap-but-decent cabernet sauvignon or merlot is the canonical base — saving good wine for drinking) is gently warmed with sugar, a quantity of akvavit or vodka (the alcohol kick that makes glögg distinct from non-alcoholic mulled wines), and a bag of warming spices (whole cardamom pods crushed, cinnamon stick, cloves, allspice, fresh ginger slices, orange peel). Some traditional Swedish home cooks add port or sherry for sweetness depth, and grate fresh nutmeg in at the end. The Swedish-specific touch: each cup is served with a tablespoon of plump dark raisins and a few whole blanched almonds dropped in the bottom — eaten with a teaspoon after drinking. Three details: cardamom is the canonical Swedish spice (more than cinnamon), akvavit or vodka boost (canonical), raisins-and-almonds in the cup.
+Glögg (Swedish for "mulled wine") is one of the most ritualised drinks in Swedish culture and the defining beverage of the Christmas season - from the first Advent Sunday in late November all the way through Twelfth Night in early January. Every Swedish workplace, every neighbourhood gathering, every Lucia Day breakfast (December 13th, when girls in white robes and candle crowns sing at dawn), every julbord, and every Christmas Eve celebration starts with small mugs of hot glögg in everyone's hands. The construction: red wine (a cheap-but-decent cabernet sauvignon or merlot is the canonical base - saving good wine for drinking) is gently warmed with sugar, a quantity of akvavit or vodka (the alcohol kick that makes glögg distinct from non-alcoholic mulled wines), and a bag of warming spices (whole cardamom pods crushed, cinnamon stick, cloves, allspice, fresh ginger slices, orange peel). Some traditional Swedish home cooks add port or sherry for sweetness depth, and grate fresh nutmeg in at the end. The Swedish-specific touch: each cup is served with a tablespoon of plump dark raisins and a few whole blanched almonds dropped in the bottom - eaten with a teaspoon after drinking. Three details: cardamom is the canonical Swedish spice (more than cinnamon), akvavit or vodka boost (canonical), raisins-and-almonds in the cup.
 
 ## Ingredients
 
@@ -38,7 +38,7 @@ Glögg (Swedish for "mulled wine") is one of the most ritualised drinks in Swedi
 
 ### Equipment
 - A cheesecloth or muslin bag for the spices
-- Small heat-safe mugs or proper glögg glasses (small — about 100ml; you're sipping, not chugging)
+- Small heat-safe mugs or proper glögg glasses (small - about 100ml; you're sipping, not chugging)
 - Small teaspoons for the raisins-and-almonds
 
 ## Method
@@ -47,7 +47,7 @@ Glögg (Swedish for "mulled wine") is one of the most ritualised drinks in Swedi
 1. Place all spice-bag ingredients in a saucepan with 250ml of the wine.
 2. Bring to a bare simmer; cook 10 minutes.
 3. Off heat; cover; let infuse overnight in the fridge.
-4. (Skip this step for a quicker glögg — the flavour will be milder.)
+4. (Skip this step for a quicker glögg - the flavour will be milder.)
 
 ### Stage 2 - Combine and warm
 1. In a large saucepan, combine the wine (including any infusion liquid), akvavit, port (if using), sugar, and all the spice-bag ingredients (if not pre-infused).
@@ -85,7 +85,7 @@ Glögg (Swedish for "mulled wine") is one of the most ritualised drinks in Swedi
 ## Variations
 **Vit glögg (white glögg):** swap red wine for a dry white wine (riesling, gewürztraminer); add a touch of elderflower cordial. A lighter modern variant.
 **Bärglögg (berry glögg):** swap half the wine for lingonberry or elderberry juice; a less alcoholic Christmas-market version.
-**Children's glögg:** non-alcoholic — swap the wine for cranberry or red grape juice; same spices, same raisins-and-almonds.
+**Children's glögg:** non-alcoholic - swap the wine for cranberry or red grape juice; same spices, same raisins-and-almonds.
 **Brewed glögg:** Swedish supermarkets sell pre-mixed bottled glögg ready to warm; quicker but less canonical.
 **Glögg-toddy:** with a generous splash of hot water for a milder, less wine-forward version.
 

@@ -1,0 +1,67 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+tags:
+  - snack
+  - meat
+  - pork
+  - onion
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: thick-cut streaky bacon
+    raw: 400 g thick-cut streaky bacon
+  - qty: 800
+    unit: g
+    name: tart cooking apples
+    raw: 800 g tart cooking apples
+  - qty: 2
+    name: onions
+    raw: 2 medium onions
+  - qty: 2
+    unit: tbsp
+    name: brown sugar
+    raw: 2 tablespoons brown sugar
+  - qty: 1
+    unit: tbsp
+    name: apple cider vinegar
+    raw: 1 tablespoon apple cider vinegar
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon
+  - qty: 0.25
+    unit: tsp
+    name: allspice
+    raw: ¼ teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 8
+    name: danish rugbrød
+    raw: 8 thick slices Danish rugbrød
+  - name: cold salted butter
+    raw: Cold salted butter
+  - qty: 4
+    unit: tbsp
+    name: dijon mustard or coarse-grain mustard
+    raw: 4 tablespoons Dijon mustard or coarse-grain mustard
+  - qty: 1
+    name: chives
+    raw: 1 small bunch chives
+  - name: thyme
+    raw: A few sprigs of fresh thyme
+  - name: cold pilsner
+    raw: A cold pilsner

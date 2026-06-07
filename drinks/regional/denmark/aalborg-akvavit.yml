@@ -1,0 +1,65 @@
+prep: 5 minutes (assumes bottled Aalborg Taffel) OR 2 weeks (for home-infused version)
+cook: None
+allergens:
+  - gluten
+  - dairy
+  - fish
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - potato
+  - lemon
+  - coriander
+  - cream
+mentions:
+  - drinks/cocktails/negroni
+ingredients:
+  - qty: 1
+    name: aalborg taffel akvavit or aalborg jubilæum
+    raw: 1 bottle Aalborg Taffel Akvavit OR Aalborg Jubilæum
+  - qty: 700
+    unit: ml
+    name: clear neutral vodka
+    raw: 700 ml clear neutral vodka
+  - qty: 4
+    unit: tbsp
+    name: caraway seeds
+    raw: 4 tablespoons caraway seeds
+  - qty: 2
+    unit: tbsp
+    name: dill seeds
+    raw: 2 tablespoons dill seeds
+  - qty: 1
+    unit: tbsp
+    name: fennel seeds
+    raw: 1 tablespoon fennel seeds
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 teaspoon coriander seeds
+  - name: peel of 1 lemon
+    raw: Peel of 1 lemon
+  - name: sweet-gale if available - the danish bog plant; or substitute juniper berries
+    raw: A small piece of sweet-gale if available - the Danish bog plant; or substitute juniper berries
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    name: pickled herring on a small piece of dark danish rye bread
+    raw: 1 piece pickled herring on a small piece of dark Danish rye bread
+  - qty: 1
+    unit: sprig
+    name: dill
+    raw: A sprig of fresh dill
+  - qty: 1
+    unit: small pinch
+    name: flaky salt
+    raw: A small pinch of flaky salt
+  - name: "danish lunch: smørrebrød + pickled herring + boiled new potatoes + sour cream + chopped chives + cold pilsner"
+    raw: "A Danish lunch: smørrebrød + pickled herring + boiled new potatoes + sour cream + chopped chives + cold pilsner"
+  - name: or a christmas julefrokost
+    raw: OR a Christmas julefrokost
+  - name: or an easter cold-buffet
+    raw: OR an Easter cold-buffet

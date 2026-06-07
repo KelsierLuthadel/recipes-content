@@ -1,0 +1,90 @@
+prep: 15 minutes
+cook: 2 hours
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - beef
+  - pork
+  - duck
+  - onion
+  - potato
+  - butter
+  - complex
+mentions:
+  - cuisine/danish/frikadeller
+ingredients:
+  - qty: 1
+    name: head red cabbage
+    raw: 1 large head red cabbage
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g butter
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 200
+    unit: ml
+    name: red wine vinegar
+    raw: 200 ml red wine vinegar
+  - qty: 100
+    unit: ml
+    name: red wine
+    raw: 100 ml red wine
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 4
+    unit: tbsp
+    name: redcurrant jelly
+    raw: 4 tablespoons redcurrant jelly
+  - qty: 8
+    name: allspice berries
+    raw: 8 whole allspice berries
+  - qty: 6
+    name: cloves
+    raw: 6 whole cloves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: cornflour
+    raw: 2 tablespoons cornflour
+  - qty: 1
+    name: apple
+    raw: 1 apple
+  - qty: 100
+    unit: g
+    name: raisins
+    raw: 100 g raisins
+  - qty: 1
+    name: duck fat or goose fat
+    raw: 1 small piece of duck fat or goose fat
+  - name: alongside frikadeller
+    raw: Alongside Frikadeller
+  - name: alongside julestege
+    raw: Alongside julestege
+  - name: alongside duck or goose
+    raw: Alongside duck or goose
+  - name: alongside roast beef or roast pork
+    raw: Alongside roast beef or roast pork
+  - name: with brunede kartofler on the same plate
+    raw: With brunede kartofler on the same plate

@@ -1,0 +1,133 @@
+prep: 1.5 hours (active) + overnight resting + 1.5 hours rising
+cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - nuts
+  - complex
+mentions:
+  - baking/pastry/croissant-dough
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: bread flour
+    raw: 500 g strong bread flour
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    name: instant yeast
+    raw: 1 sachet instant yeast
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 2
+    unit: tsp
+    name: cardamom
+    raw: 2 teaspoons ground cardamom
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml cold whole milk
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 250
+    unit: g
+    name: cold high-fat butter
+    raw: 250 g cold high-fat butter
+  - qty: 400
+    unit: ml
+    name: milk
+    raw: 400 ml whole milk
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 4
+    name: egg yolks
+    raw: 4 large egg yolks
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 3
+    unit: tbsp
+    name: cornflour
+    raw: 3 tablespoons cornflour
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter
+  - qty: 100
+    unit: g
+    name: butter
+    raw: 100 g butter
+  - qty: 100
+    unit: g
+    name: brown sugar
+    raw: 100 g brown sugar
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 2
+    unit: tbsp
+    name: cinnamon
+    raw: 2 tablespoons ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 200
+    unit: g
+    name: marzipan
+    raw: 200 g good-quality marzipan
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 200
+    unit: g
+    name: icing sugar
+    raw: 200 g icing sugar
+  - qty: 3.5
+    unit: tbsp
+    name: water
+    raw: 3-4 tablespoons hot water
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 50
+    unit: g
+    name: flaked almonds
+    raw: 50 g flaked almonds
+  - name: pearl sugar
+    raw: Pearl sugar
+  - name: danish coffee
+    raw: Strong Danish coffee
+  - name: or hot tea
+    raw: Or hot tea
+  - name: best fresh
+    raw: Best fresh, mid-morning

@@ -1,8 +1,8 @@
-# Fläderblomssaft (Swedish Elderflower Cordial)
+# Hyldeblomstsaft (Danish Elderflower Cordial)
 
-![Elderflower Saft](resources/elderflower-saft.jpg)
+![Hyldeblomstsaft](resources/hyldeblomstsaft.jpg)
 
-*Sweden's summer elderflower cordial: fresh elderflowers steeped with sugar, citric acid, lemon and orange peel into a fragrant pale-gold syrup, then diluted with cold sparkling water. The canonical Swedish drink of May and June when the elderflower bushes flower across the countryside; pours from every Swedish summer-house jug.*
+*Denmark's summer elderflower cordial: fresh elderflowers steeped with sugar, citric acid, lemon and orange peel into a fragrant pale-gold syrup, then diluted with cold sparkling water. The canonical Danish summer non-alcoholic drink; brewed in every Danish summerhouse garden when the elder blooms in late May and June.*
 
 **Serves:** Makes about 1.5 litres syrup (yields ~10 litres of dilute drink)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes (just to dissolve the sugar)
 
 ## Overview
-Fläderblomssaft (elderflower cordial) is one of Sweden's most cherished homemade drinks and the canonical drink of late May and June, when the cream-coloured elderflower (Sambucus nigra) bushes flower across Swedish countryside, gardens and roadsides. The Swedish tradition has every family with garden access making a batch of saft from the flowers - a few hours of picking, an evening of preparation, then 24-48 hours of steeping, then bottling for the summer ahead. The construction: fresh elderflowers (just-opened, fragrant, picked from bushes not too close to roads) are gently rinsed and packed into a wide bowl with sliced lemons and oranges. Boiling water with sugar and citric acid (the Swedish canonical preservative, also brightens) is poured over; the whole thing steeps for 24-48 hours, gathering the elderflower's distinctive floral-honeysuckle-muscat-grape flavour. Strained, bottled, and diluted with cold sparkling water just before drinking. The result is a pale-gold, intensely fragrant, gently sweet drink that captures Swedish summer in a glass. Three details: just-opened elderflowers (over-ripe ones taste cat-pee-y; close-bud ones are weak), citric acid is the canonical preservative (substitutes lemon juice but with shorter shelf life), 24-48 hour cold infusion (don't shortcut to a brief hot one).
+Hyldeblomstsaft (literally "elderflower juice") is Denmark's most cherished homemade summer drink and a fixture of every Danish summerhouse garden, lunchtime jug, family-meal table, and Midsummer-Eve buffet from late May through August. The Danish tradition has every garden-having family making at least one batch a year - picking the cream-coloured elder flowers from the bushes that grow wild across the Danish countryside, the technique handed down from grandmother to grandmother. The construction: fresh elderflowers (just-opened, fragrant, picked from bushes not too close to roads) are gently rinsed and packed into a wide bowl with sliced lemons and oranges. Boiling water with sugar and citric acid (the canonical Danish preservative, which also brightens) is poured over; the whole thing steeps for 24-48 hours in a cool place, gathering the elderflower's distinctive honeysuckle-muscat-grape flavour. Strained, bottled, and diluted with cold sparkling water just before drinking. The result is a pale-gold, intensely fragrant, gently sweet drink that captures Danish summer in a glass. The Danish version is virtually identical to the Swedish fläderblomssaft (see [Swedish elderflower cordial](../sweden/elderflower-saft.md)) - both Scandinavian countries make it the same way. Three details: just-opened elderflowers (over-ripe ones taste cat-pee-y; closed-bud ones are weak), citric acid is the canonical preservative, 24-48 hour cold infusion (don't shortcut to a brief hot one).
 
 ## Ingredients
 
@@ -42,7 +42,7 @@ Fläderblomssaft (elderflower cordial) is one of Sweden's most cherished homemad
 1. Pick elderflowers on a dry sunny morning when the blooms are fully open and fragrant.
 2. Pick from bushes not too close to roads (the flowers absorb car exhaust).
 3. Shake off any insects (gently); don't wash with water (washes away the flavour-rich pollen).
-4. Trim off most of the thick stems (the stems impart bitterness); leave the flower clusters intact on small stems.
+4. Trim off most of the thick stems (stems impart bitterness); leave the flower clusters intact on small stems.
 
 ### Stage 2 - Sugar syrup
 1. In a saucepan, combine the sugar, water, and citric acid.
@@ -61,8 +61,8 @@ Fläderblomssaft (elderflower cordial) is one of Sweden's most cherished homemad
 4. After 48 hours the syrup will smell deeply of elderflower; it'll be pale gold with citrus notes.
 
 ### Stage 5 - Strain
-1. Strain the syrup through a fine sieve lined with muslin or cheesecloth into a clean bowl or jug.
-2. Press gently on the solids with the back of a spoon to extract more flavour (don't push hard; bitter notes from the stems come out under hard pressure).
+1. Strain the syrup through a fine sieve lined with muslin or cheesecloth into a clean bowl.
+2. Press gently on the solids with the back of a spoon to extract more flavour (don't push hard; bitter notes come out under hard pressure).
 3. Discard the flowers and citrus.
 
 ### Stage 6 - Bottle
@@ -81,20 +81,18 @@ Fläderblomssaft (elderflower cordial) is one of Sweden's most cherished homemad
 - **Just-opened elderflowers:** the flavour is best at this stage. Past-peak flowers taste musty / cat-pee-y; closed buds have no flavour.
 - **Don't wash the flowers with water:** removes the flavour-rich pollen. Just shake off insects.
 - **Trim the stems:** stems are bitter. Keep just the flower clusters on small stems.
-- **Citric acid is the canonical preservative:** food-grade, at chemists or baking shops. Without it, the cordial keeps 2-3 weeks refrigerated; with it, 3-6 months refrigerated or 1 year pasteurised.
-- **24-48 hour cold steep:** the flavour develops over time. Hot infusion gives a quicker but less complex result.
-- **Strain through muslin:** essential for a clear syrup.
+- **Citric acid is the canonical preservative:** at chemists or baking shops. Without it, the cordial keeps 2-3 weeks refrigerated; with it, 3-6 months refrigerated or 1 year pasteurised.
+- **24-48 hour cold steep:** the flavour develops over time.
 
 ## Variations
-**Champagne version:** dilute with chilled champagne / prosecco instead of sparkling water for a Swedish midsummer cocktail.
-**With St-Germain replacement use:** if you don't want to make from scratch, dilute St-Germain elderflower liqueur with sparkling water for a quick approximation (alcoholic).
-**Ginger-elderflower:** add a thumb of grated fresh ginger to the steep for warmth.
-**Rose-and-elderflower:** add a small handful of rose petals to the steep for an extra floral note.
+**Sparkling-wine version:** dilute with chilled cava / champagne / prosecco instead of sparkling water - the Danish Midsummer cocktail.
+**With ginger:** add a thumb of grated fresh ginger to the steep for warmth.
+**With rose petals:** add a small handful of edible rose petals for an extra floral note.
 **Pasteurised long-keeping bottles:** heat sealed bottles in a 80°C water bath for 20 minutes to make them shelf-stable for a year.
 **Frozen as ice cubes:** freeze syrup in ice cube trays; drop a few cubes into prosecco for an instant cocktail.
 
 ## Serving
-At Midsommar lunch in the Swedish countryside (the canonical Swedish midsummer drink) · at a Stockholm summer rooftop bar · at a Swedish summer-house weekend · at a Nordic-themed dinner party · at fika in June with cardamom buns.
+At a Danish summer-house lunch (the canonical Midsummer / Sankt Hans Eve setting) · at a backyard barbecue in a Copenhagen suburb · at fika in June with kanelbullar · as the non-alcoholic alternative at a julefrokost · at a Danish wedding reception in summer.
 
 ## Storage
 - Refrigerated cordial keeps 3-6 months sealed; 2 weeks once opened.

@@ -1,0 +1,78 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+tags:
+  - meals
+  - meat
+  - pork
+  - potato
+  - butter
+  - complex
+mentions:
+  - sauces/sauce-savory/parsley-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: pork belly
+    raw: 800 g pork belly
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g butter
+  - qty: 4
+    unit: tbsp
+    name: plain flour
+    raw: 4 tablespoons plain flour
+  - qty: 600
+    unit: ml
+    name: milk
+    raw: 600 ml whole milk
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 large bunch fresh flat-leaf parsley
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon ground white pepper
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 1.2
+    unit: kg
+    name: new potatoes
+    raw: 1.2 kg small new potatoes
+  - qty: 1
+    name: dill
+    raw: 1 small bunch fresh dill
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - name: pickled beetroot
+    raw: Pickled beetroot
+  - name: glass of cold pilsner
+    raw: A glass of cold pilsner
+  - name: "optional: a small glass of cold akvavit"
+    raw: "Optional: a small glass of cold akvavit"
