@@ -1,0 +1,57 @@
+prep: 25 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+tags:
+  - meals
+  - fish
+  - onion
+  - potato
+  - butter
+  - cream
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: waxy potatoes
+    raw: 1 kg waxy potatoes
+  - qty: 2
+    name: sweet onions
+    raw: 2 large sweet onions
+  - qty: 1
+    name: swedish ansjovis - about 12-16 fillets
+    raw: 1 tin Swedish ansjovis - about 12-16 fillets, plus 4 tablespoons of the spiced pickling brine reserved
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 400
+    unit: ml
+    name: double cream
+    raw: 400 ml double cream
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon ground white pepper
+  - qty: 4
+    unit: tbsp
+    name: breadcrumbs
+    raw: 4 tablespoons coarse breadcrumbs
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter
+  - name: salt
+    raw: Salt
+  - name: green salad with vinaigrette
+    raw: A green salad with vinaigrette
+  - name: cold swedish lager
+    raw: Cold Swedish lager
+  - name: or a small glass of ice-cold akvavit
+    raw: Or a small glass of ice-cold akvavit

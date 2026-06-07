@@ -1,0 +1,89 @@
+prep: 45 minutes (plus 2 hours dough rising)
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    name: instant yeast
+    raw: 1 sachet instant yeast
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 ½ teaspoons fine sea salt
+  - qty: 2
+    unit: tsp
+    name: cardamom
+    raw: 2 teaspoons ground cardamom
+  - qty: 300
+    unit: ml
+    name: milk
+    raw: 300 ml whole milk
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 100
+    unit: g
+    name: butter
+    raw: 100 g butter
+  - qty: 100
+    unit: g
+    name: butter
+    raw: 100 g butter
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 80
+    unit: g
+    name: light brown sugar
+    raw: 80 g light brown sugar
+  - qty: 2
+    unit: tbsp
+    name: cinnamon
+    raw: 2 tablespoons ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 50
+    unit: g
+    name: pearl sugar
+    raw: 50 g pearl sugar
+  - qty: 2
+    unit: tbsp
+    name: flaked almonds
+    raw: 2 tablespoons flaked almonds
+  - name: coffee
+    raw: Strong coffee
+  - name: or tea
+    raw: Or tea
+  - name: the fika ritual - never alone
+    raw: The fika ritual - never alone

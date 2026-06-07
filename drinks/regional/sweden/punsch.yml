@@ -1,0 +1,54 @@
+prep: 15 minutes (plus 1 day to age for proper flavour)
+cook: None
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - lemon
+mentions:
+  - drinks/cocktails/negroni
+ingredients:
+  - qty: 300
+    unit: ml
+    name: batavia arrack
+    raw: 300 ml Batavia arrack
+  - qty: 200
+    unit: ml
+    name: clear vodka or cognac/brandy
+    raw: 200 ml clear vodka OR cognac/brandy
+  - qty: 300
+    unit: g
+    name: caster sugar
+    raw: 300 g caster sugar
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml water
+  - qty: 100
+    unit: ml
+    name: lemon juice
+    raw: 100 ml fresh lemon juice
+  - name: peel of 1 lemon
+    raw: Peel of 1 lemon
+  - name: peel of 1 bitter orange
+    raw: Peel of 1 bitter orange
+  - qty: 1
+    name: black tea bag
+    raw: 1 small black tea bag
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 4
+    name: cardamom pods
+    raw: 4 whole cardamom pods
+  - name: chilled glasses
+    raw: Small chilled glasses
+  - name: or small punsch glasses
+    raw: Or small punsch glasses
+  - name: black coffee in a cup alongside
+    raw: Strong black coffee in a cup alongside
+  - name: "optional: a small piece of pepparkakor"
+    raw: "Optional: a small piece of pepparkakor"

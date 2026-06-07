@@ -1,0 +1,70 @@
+prep: 15 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - meat
+  - garlic
+tags:
+  - sides
+  - meat
+  - fish
+  - beef
+  - salmon
+  - garlic
+  - potato
+  - lemon
+  - butter
+  - cream
+  - cheese
+mentions:
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 8
+    name: yellow waxy potatoes
+    raw: 8 medium yellow waxy potatoes
+  - qty: 80
+    unit: g
+    name: butter
+    raw: 80 g butter
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 2
+    unit: tsp
+    name: sea salt or flaky salt
+    raw: 2 teaspoons coarse sea salt or flaky salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme
+  - qty: 4
+    unit: tbsp
+    name: parmesan
+    raw: 4 tablespoons grated Parmesan
+  - qty: 4
+    unit: tbsp
+    name: breadcrumbs
+    raw: 4 tablespoons breadcrumbs
+  - qty: 1
+    unit: tbsp
+    name: rosemary
+    raw: 1 tablespoon chopped fresh rosemary
+  - name: sour cream or creme fraiche
+    raw: Sour cream or crème fraîche
+  - name: chives
+    raw: Chopped fresh chives
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: alongside meatballs
+    raw: Alongside meatballs, salmon, roast beef, or any Sunday roast

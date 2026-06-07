@@ -1,0 +1,55 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lemon
+mentions:
+  - drinks/classic/elderflower-cordial
+ingredients:
+  - qty: 1
+    unit: kg
+    name: or frozen lingonberries
+    raw: 1 kg fresh or frozen lingonberries
+  - qty: 600
+    unit: g
+    name: caster sugar
+    raw: 600 g caster sugar
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 60
+    unit: ml
+    name: lingonberry syrup
+    raw: 60 ml lingonberry syrup
+  - qty: 275
+    unit: ml
+    name: sparkling water or still water
+    raw: 250-300 ml very cold sparkling water OR still water
+  - qty: 2.5
+    name: ice cubes
+    raw: 2-3 ice cubes
+  - name: mint sprig or sprig of fresh dill
+    raw: A small mint sprig or sprig of fresh dill
+  - name: lemon wheel
+    raw: A lemon wheel
+  - name: clear glass jug
+    raw: A large clear glass jug
+  - name: tall glasses
+    raw: Tall glasses
+  - name: plenty of ice
+    raw: Plenty of ice
+  - name: wooden spoon for stirring
+    raw: A wooden spoon for stirring

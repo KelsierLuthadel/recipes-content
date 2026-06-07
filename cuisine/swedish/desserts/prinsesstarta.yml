@@ -1,0 +1,101 @@
+prep: 1.5 hours (plus chilling)
+cook: 25 minutes (sponge)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cream
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 120
+    unit: g
+    name: caster sugar
+    raw: 120 g caster sugar
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tablespoon cornflour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 300
+    unit: ml
+    name: milk
+    raw: 300 ml whole milk
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 3
+    name: egg yolks
+    raw: 3 large egg yolks
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 2
+    unit: tbsp
+    name: cornflour
+    raw: 2 tablespoons cornflour
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter
+  - qty: 500
+    unit: ml
+    name: double cream
+    raw: 500 ml double cream
+  - qty: 2
+    unit: tbsp
+    name: icing sugar
+    raw: 2 tablespoons icing sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 4
+    unit: tbsp
+    name: high-quality raspberry jam
+    raw: 4 tablespoons high-quality raspberry jam
+  - qty: 400
+    unit: g
+    name: marzipan
+    raw: 400 g good-quality marzipan
+  - name: green food colouring gel
+    raw: Green food colouring gel
+  - name: icing sugar
+    raw: Icing sugar
+  - qty: 50
+    unit: g
+    name: pink marzipan
+    raw: 50 g pink marzipan
+  - name: icing sugar
+    raw: Icing sugar
+  - name: swedish coffee
+    raw: A small cup of Swedish coffee
+  - name: or champagne
+    raw: Or champagne

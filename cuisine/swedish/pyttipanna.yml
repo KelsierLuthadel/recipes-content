@@ -1,0 +1,66 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - eggs
+  - meat
+  - mustard
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - potato
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 700
+    unit: g
+    name: cold pre-cooked potatoes
+    raw: 700 g cold pre-cooked potatoes
+  - qty: 400
+    unit: g
+    name: leftover cooked meat
+    raw: 400 g leftover cooked meat
+  - qty: 1
+    name: yellow onion
+    raw: 1 large yellow onion
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g butter
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - name: pickled beetroot
+    raw: Pickled beetroot
+  - name: dijon mustard
+    raw: Dijon mustard
+  - name: glass of cold milk or a small lager
+    raw: A glass of cold milk OR a small lager
+  - name: "optional: hp sauce or ketchup"
+    raw: "Optional: HP sauce or ketchup"

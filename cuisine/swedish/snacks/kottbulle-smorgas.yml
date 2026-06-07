@@ -1,0 +1,54 @@
+prep: 10 minutes
+cook: None (assumes pre-cooked meatballs)
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - snack
+  - onion
+  - butter
+  - cream
+  - cheese
+mentions:
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 8
+    name: swedish dark rye bread or 4 large slices for closed sandwiches
+    raw: 8 slices Swedish dark rye bread OR 4 large slices for closed sandwiches
+  - qty: 60
+    unit: g
+    name: cold salted butter
+    raw: 60 g cold salted butter
+  - qty: 4
+    unit: tbsp
+    name: lingonberry preserve
+    raw: 4 tablespoons lingonberry preserve
+  - qty: 14
+    name: cold swedish meatballs
+    raw: 12-16 cold Swedish meatballs
+  - qty: 0.5
+    name: cucumber
+    raw: ½ cucumber
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 1
+    name: dill or chives
+    raw: 1 small bunch fresh dill or chives
+  - qty: 4
+    unit: tbsp
+    name: soured cream or creme fraiche
+    raw: 4 tablespoons soured cream or crème fraîche
+  - qty: 4
+    name: swedish cheese
+    raw: 4 slices mild Swedish cheese
+  - name: black pepper
+    raw: Ground black pepper
+  - name: glass of milk or a small lager or strong coffee
+    raw: A cold glass of milk OR a small lager OR strong coffee
+  - name: side of pickled beetroot
+    raw: A side of pickled beetroot
+  - name: or a side of pressgurka
+    raw: Or a side of pressgurka

@@ -1,0 +1,47 @@
+prep: 10 minutes
+cook: 8 minutes (boiling eggs)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+tags:
+  - quick
+  - snack
+  - fish
+  - eggs
+  - onion
+  - butter
+mentions:
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: soft white bread
+    raw: 4 slices soft white bread
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 5
+    unit: tbsp
+    name: kalles kaviar
+    raw: 4-6 tablespoons Kalles Kaviar
+  - qty: 2
+    name: hard-boiled eggs
+    raw: 2 hard-boiled eggs
+  - qty: 1
+    name: dill
+    raw: 1 small bunch fresh dill
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - name: cucumber
+    raw: Sliced cucumber
+  - name: black pepper
+    raw: Ground black pepper
+  - name: swedish coffee
+    raw: Hot strong Swedish coffee
+  - name: or cold milk
+    raw: Or cold milk
+  - name: or a glass of cold orange juice
+    raw: Or a glass of cold orange juice

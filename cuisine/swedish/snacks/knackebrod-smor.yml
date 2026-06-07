@@ -1,0 +1,68 @@
+prep: 5 minutes
+cook: None (assumes pre-made crispbread)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+tags:
+  - quick
+  - snack
+  - fish
+  - salmon
+  - eggs
+  - onion
+  - butter
+  - cheese
+  - complex
+mentions: []
+ingredients:
+  - qty: 8
+    name: swedish knackebrod
+    raw: 8 pieces Swedish knäckebröd
+  - qty: 100
+    unit: g
+    name: cold salted butter
+    raw: 100 g cold salted butter
+  - qty: 1
+    unit: tsp
+    name: flaky sea salt
+    raw: 1 teaspoon flaky sea salt
+  - qty: 1
+    unit: tsp
+    name: caraway seeds or whole cumin seeds
+    raw: 1 teaspoon caraway seeds OR whole cumin seeds
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: chives
+    raw: 1 tablespoon chopped fresh chives
+  - qty: 80
+    unit: g
+    name: swedish cheese
+    raw: 80 g mild Swedish cheese
+  - qty: 4
+    name: smoked salmon
+    raw: 4 slices smoked salmon
+  - qty: 2
+    name: hard-boiled eggs
+    raw: 2 hard-boiled eggs
+  - name: pickled herring fillets
+    raw: Pickled herring fillets
+  - name: red onion
+    raw: Sliced raw red onion
+  - name: liver pate
+    raw: Liver pâté
+  - name: cucumber
+    raw: Sliced cucumber
+  - name: swedish coffee for breakfast / fika
+    raw: Strong Swedish coffee for breakfast / fika
+  - name: milk for kids
+    raw: Cold milk for kids
+  - name: beer for an evening snack
+    raw: Beer for an evening snack
+  - name: glass of cold akvavit for the smorgasbord version
+    raw: A glass of cold akvavit for the smörgåsbord version

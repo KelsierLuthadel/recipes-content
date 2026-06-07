@@ -1,5 +1,5 @@
 ---
-image: resources/fish.jpg
+image: resources/hero.jpg
 ---
 
 # Fish Course

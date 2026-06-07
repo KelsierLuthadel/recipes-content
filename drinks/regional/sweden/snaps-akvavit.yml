@@ -1,0 +1,66 @@
+prep: 5 minutes (assumes pre-bottled akvavit) OR 1 week (for home infusion)
+cook: None
+allergens:
+  - gluten
+  - dairy
+  - fish
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - potato
+  - lemon
+  - coriander
+  - cream
+mentions:
+  - cuisine/swedish/gravlax
+  - drinks/cocktails/martini
+ingredients:
+  - qty: 1
+    name: skane akvavit or op anderson akvavit or aalborg taffel akvavit
+    raw: 1 bottle Skåne Akvavit OR OP Anderson Akvavit OR Aalborg Taffel Akvavit
+  - qty: 700
+    unit: ml
+    name: clear neutral vodka
+    raw: 700 ml clear neutral vodka
+  - qty: 3
+    unit: tbsp
+    name: caraway seeds
+    raw: 3 tablespoons caraway seeds
+  - qty: 1
+    unit: tbsp
+    name: fennel seeds
+    raw: 1 tablespoon fennel seeds
+  - qty: 1
+    unit: tbsp
+    name: dill seeds
+    raw: 1 tablespoon dill seeds
+  - qty: 1
+    unit: tsp
+    name: anise seeds or 1 star anise pod
+    raw: 1 teaspoon anise seeds OR 1 star anise pod
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 teaspoon coriander seeds
+  - name: peel of 1 lemon
+    raw: Peel of 1 lemon
+  - name: peel of ½ orange
+    raw: Peel of ½ orange
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    name: pickled herring on a small piece of crispbread or rye bread
+    raw: 1 piece pickled herring on a small piece of crispbread or rye bread
+  - qty: 1
+    unit: sprig
+    name: dill
+    raw: A sprig of fresh dill
+  - qty: 1
+    unit: small pinch
+    name: flaky salt
+    raw: A small pinch of flaky salt
+  - name: smorgasbord or a midsommar lunch or a christmas julbord or a plate of pickled herring + crispbread + boiled new potatoes + sour cream + chopped chives
+    raw: A smörgåsbord OR a Midsommar lunch OR a Christmas julbord OR a plate of pickled herring + crispbread + boiled new potatoes + sour cream + chopped chives
