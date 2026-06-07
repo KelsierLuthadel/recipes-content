@@ -1,0 +1,75 @@
+prep: 30 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - eggs
+  - spinach
+  - butter
+  - cheese
+  - yogurt
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: phyllo pastry
+    raw: 500 g phyllo pastry
+  - qty: 200
+    unit: g
+    name: butter
+    raw: 200 g butter
+  - qty: 400
+    unit: g
+    name: feta or sirenje
+    raw: 400 g feta or sirenje
+  - qty: 200
+    unit: g
+    name: ricotta or cottage cheese
+    raw: 200 g ricotta or cottage cheese
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 100
+    unit: ml
+    name: plain yogurt
+    raw: 100 ml plain yogurt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - name: "optional: 100 g grated kashkaval"
+    raw: "Optional: 100 g grated Kashkaval"
+  - qty: 500
+    unit: g
+    name: spinach
+    raw: 500 g spinach
+  - qty: 200
+    unit: g
+    name: feta
+    raw: 200 g feta
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 teaspoon nutmeg
+  - qty: 1
+    name: beaten egg + 2 tablespoons yogurt
+    raw: 1 beaten egg + 2 tablespoons yogurt
+  - qty: 1
+    unit: handful
+    name: sesame seeds
+    raw: A handful of sesame seeds
+  - name: plain yogurt or ayran
+    raw: Plain yogurt or ayran
+  - name: pickled chillies
+    raw: Pickled chillies

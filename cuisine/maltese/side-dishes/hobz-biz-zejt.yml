@@ -1,0 +1,50 @@
+prep: 10 minutes
+cook: None
+allergens:
+  - gluten
+  - dairy
+  - fish
+tags:
+  - quick
+  - sides
+  - fish
+  - onion
+  - tomato
+  - cheese
+mentions: []
+ingredients:
+  - qty: 4
+    name: maltese sourdough bread
+    raw: 4 thick slices Maltese sourdough bread
+  - qty: 4
+    name: tomatoes
+    raw: 4 large ripe tomatoes
+  - qty: 7
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 6-8 tablespoons extra-virgin olive oil
+  - qty: 1
+    name: tuna in olive oil
+    raw: 1 tin tuna in olive oil
+  - qty: 4
+    unit: tbsp
+    name: capers
+    raw: 4 tablespoons capers
+  - qty: 16
+    name: black maltese olives
+    raw: 16 black Maltese olives
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 200
+    unit: g
+    name: gbejniet cheese
+    raw: 200 g ġbejniet cheese
+  - qty: 1
+    name: mint
+    raw: 1 small bunch fresh mint
+  - qty: 1
+    name: basil
+    raw: 1 small bunch fresh basil
+  - name: sea salt and black pepper
+    raw: Fine sea salt and black pepper

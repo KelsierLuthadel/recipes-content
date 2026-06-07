@@ -1,0 +1,61 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+tags:
+  - make-ahead
+  - meals
+  - fish
+  - onion
+  - lemon
+  - butter
+  - cream
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: smoked haddock fillets
+    raw: 500 g smoked haddock fillets
+  - qty: 750
+    unit: ml
+    name: milk
+    raw: 750 ml whole milk
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - name: thyme
+    raw: A small thyme sprig
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 500
+    unit: g
+    name: floury potatoes
+    raw: 500 g floury potatoes
+  - qty: 150
+    unit: ml
+    name: double cream
+    raw: 150 ml double cream
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons finely chopped flat-leaf parsley
+  - name: black pepper
+    raw: Freshly ground black pepper to taste
+  - name: sea salt
+    raw: Sea salt to taste
+  - qty: 4
+    name: crusty bread or 4 oatcakes per bowl
+    raw: 4 slices of crusty bread or 4 oatcakes per bowl
+  - name: salted butter
+    raw: Salted butter for the bread
+  - name: parsley leaves
+    raw: A few extra parsley leaves
+  - name: lemon
+    raw: A wedge of lemon

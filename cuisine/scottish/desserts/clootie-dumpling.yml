@@ -1,0 +1,116 @@
+prep: 30 minutes (plus overnight soaking of fruit)
+cook: 3 hours (steaming)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - dessert
+  - make-ahead
+  - meat
+  - beef
+  - eggs
+  - ginger
+  - carrot
+  - lemon
+  - butter
+  - complex
+mentions:
+  - cuisine/scottish/desserts/cranachan
+  - tutorials/distilling-spirits/whisky
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 200
+    unit: g
+    name: shredded suet
+    raw: 200 g shredded suet
+  - qty: 100
+    unit: g
+    name: pinhead or medium oatmeal
+    raw: 100 g pinhead or medium oatmeal
+  - qty: 200
+    unit: g
+    name: soft dark brown sugar
+    raw: 200 g soft dark brown sugar
+  - qty: 1
+    unit: tsp
+    name: bicarbonate of soda
+    raw: 1 teaspoon bicarbonate of soda
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 teaspoons ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon ground ginger
+  - qty: 1
+    unit: tsp
+    name: mixed spice
+    raw: 1 teaspoon mixed spice
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 200
+    unit: g
+    name: raisins
+    raw: 200 g raisins
+  - qty: 200
+    unit: g
+    name: sultanas
+    raw: 200 g sultanas
+  - qty: 100
+    unit: g
+    name: currants
+    raw: 100 g currants
+  - qty: 60
+    unit: g
+    name: mixed candied peel
+    raw: 60 g mixed candied peel
+  - qty: 1
+    name: carrot
+    raw: 1 large carrot
+  - qty: 1
+    name: eating apple
+    raw: 1 large eating apple
+  - qty: 1
+    unit: tbsp
+    name: black treacle
+    raw: 1 tablespoon black treacle
+  - qty: 2
+    unit: tbsp
+    name: golden syrup
+    raw: 2 tablespoons golden syrup
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 225
+    unit: ml
+    name: buttermilk
+    raw: 200-250 ml buttermilk
+  - name: 50 × 50 cm square of muslin or thin clean cotton
+    raw: A 50 × 50 cm square of muslin or thin clean cotton
+  - name: plain flour for coating
+    raw: Plain flour for coating
+  - name: butcher's string
+    raw: Butcher's string
+  - name: polished sixpence wrapped in a small piece of greaseproof paper - for the lucky finder
+    raw: A polished sixpence wrapped in a small piece of greaseproof paper - for the lucky finder
+  - name: hot homemade custard
+    raw: Hot homemade custard
+  - name: pouring cream
+    raw: Pouring cream
+  - name: vanilla ice cream
+    raw: A scoop of vanilla ice cream
+  - name: "for the next-day breakfast: butter"
+    raw: "For the next-day breakfast: butter for frying"

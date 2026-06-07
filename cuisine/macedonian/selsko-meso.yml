@@ -1,0 +1,92 @@
+prep: 20 minutes
+cook: 1.5 hours
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - pork
+  - mushroom
+  - onion
+  - garlic
+  - cheese
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: pork shoulder
+    raw: 1 kg pork shoulder
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 400
+    unit: g
+    name: chestnut or button mushrooms
+    raw: 400 g chestnut or button mushrooms
+  - qty: 2
+    unit: tbsp
+    name: sweet paprika
+    raw: 2 tablespoons sweet paprika
+  - qty: 1
+    unit: tsp
+    name: hot paprika
+    raw: 1 teaspoon hot paprika
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 300
+    unit: ml
+    name: dry white wine
+    raw: 300 ml dry white wine
+  - qty: 500
+    unit: ml
+    name: chicken or pork stock
+    raw: 500 ml chicken or pork stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon dried thyme
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 teaspoon dried mint
+  - qty: 1
+    unit: tsp
+    name: cracked black pepper
+    raw: 1 teaspoon coarsely cracked black pepper
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons chopped fresh parsley
+  - qty: 200
+    unit: g
+    name: kashkaval cheese - optional topping
+    raw: 200 g grated Kashkaval cheese - optional topping
+  - name: crusty bread
+    raw: Crusty bread
+  - name: pickled vegetables
+    raw: Pickled vegetables
+  - name: salad
+    raw: A salad

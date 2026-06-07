@@ -1,0 +1,85 @@
+prep: 45 minutes
+cook: 2 hours
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - cream
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    name: sour cabbage or 2 large fresh cabbages parboiled
+    raw: 1 large sour cabbage OR 2 large fresh cabbages parboiled
+  - qty: 800
+    unit: g
+    name: pork
+    raw: 800 g minced pork
+  - qty: 150
+    unit: g
+    name: long-grain rice
+    raw: 150 g long-grain rice
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: sweet paprika
+    raw: 2 tablespoons sweet paprika
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tablespoon dried mint
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - qty: 4
+    unit: tbsp
+    name: parsley
+    raw: 4 tablespoons chopped fresh parsley
+  - qty: 300
+    unit: g
+    name: smoked dried pork
+    raw: 300 g smoked dried pork
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: l
+    name: beef stock
+    raw: 1 litre beef stock
+  - name: sour cream
+    raw: Sour cream
+  - name: crusty bread
+    raw: Crusty bread
+  - name: pickled chillies
+    raw: Pickled chillies

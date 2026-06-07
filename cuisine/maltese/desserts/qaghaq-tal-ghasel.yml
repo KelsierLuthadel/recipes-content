@@ -1,0 +1,100 @@
+prep: 45 minutes (plus 1 hour pastry chill)
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - honey
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 250
+    unit: g
+    name: butter
+    raw: 250 g butter
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons cold water
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 400
+    unit: g
+    name: runny honey
+    raw: 400 g runny honey
+  - qty: 200
+    unit: g
+    name: black treacle
+    raw: 200 g black treacle
+  - qty: 200
+    unit: g
+    name: semolina
+    raw: 200 g semolina
+  - qty: 80
+    unit: g
+    name: almonds
+    raw: 80 g chopped almonds
+  - qty: 80
+    unit: g
+    name: raisins
+    raw: 80 g raisins
+  - qty: 60
+    unit: g
+    name: cocoa powder
+    raw: 60 g cocoa powder
+  - qty: 2
+    unit: tbsp
+    name: orange zest
+    raw: 2 tablespoons orange zest
+  - qty: 2
+    unit: tbsp
+    name: lemon zest
+    raw: 2 tablespoons lemon zest
+  - qty: 1
+    unit: tbsp
+    name: cinnamon
+    raw: 1 tablespoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 teaspoon ground cloves
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 4
+    unit: tbsp
+    name: aniseed
+    raw: 4 tablespoons aniseed
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water

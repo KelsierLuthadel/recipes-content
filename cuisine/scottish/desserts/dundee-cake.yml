@@ -1,0 +1,85 @@
+prep: 25 minutes (plus optional fruit soak)
+cook: 2-2.5 hours
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - nuts
+  - complex
+mentions:
+  - cuisine/scottish/desserts/tipsy-laird
+  - tutorials/distilling-spirits/whisky
+ingredients:
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 200
+    unit: g
+    name: soft light brown sugar
+    raw: 200 g soft light brown sugar
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 250
+    unit: g
+    name: self-raising flour
+    raw: 250 g self-raising flour
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 100
+    unit: g
+    name: almonds
+    raw: 100 g ground almonds
+  - qty: 150
+    unit: g
+    name: sultanas
+    raw: 150 g sultanas
+  - qty: 150
+    unit: g
+    name: currants
+    raw: 150 g currants
+  - qty: 100
+    unit: g
+    name: mixed candied peel
+    raw: 100 g mixed candied peel
+  - qty: 60
+    unit: g
+    name: glace cherries
+    raw: 60 g glacé cherries
+  - name: zest of 1 orange
+    raw: Zest of 1 orange
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 2
+    unit: tbsp
+    name: whisky
+    raw: 2 tablespoons whisky
+  - qty: 1
+    unit: tbsp
+    name: orange marmalade
+    raw: 1 tablespoon orange marmalade
+  - qty: 100
+    unit: g
+    name: blanched almonds
+    raw: 100 g whole blanched almonds
+  - qty: 1
+    unit: tbsp
+    name: milk or beaten egg white
+    raw: 1 tablespoon milk or beaten egg white
+  - qty: 2
+    unit: tbsp
+    name: warmed apricot jam
+    raw: 2 tablespoons warmed apricot jam
+  - name: dust of icing sugar
+    raw: A dust of icing sugar

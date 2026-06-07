@@ -1,0 +1,112 @@
+prep: 1 hour (plus 1 hour dough chill)
+cook: 30 minutes deep frying
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - snack
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - butter
+  - cheese
+  - complex
+mentions:
+  - cuisine/brazilian/desserts/brigadeiros
+  - cuisine/south-american/pao-de-queijo
+  - sauces/sauce-sweet/chocolate-sauce
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: chicken thigh fillets
+    raw: 600 g chicken thigh fillets
+  - qty: 1
+    unit: l
+    name: chicken stock
+    raw: 1 litre chicken stock
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: tomato
+    raw: 1 chopped fresh tomato
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tablespoon tomato paste
+  - qty: 1
+    name: parsley
+    raw: A small bunch of fresh parsley
+  - qty: 1
+    name: spring onions
+    raw: 1 small bunch of spring onions
+  - qty: 200
+    unit: g
+    name: catupiry cheese
+    raw: 200 g Catupiry cheese
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon coarsely ground black pepper
+  - qty: 750
+    unit: ml
+    name: the chicken stock used to poach the chicken
+    raw: 750 ml of the chicken stock used to poach the chicken
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g butter
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 250
+    unit: g
+    name: breadcrumbs
+    raw: 250 g fine breadcrumbs
+  - qty: 1.5
+    unit: l
+    name: vegetable oil
+    raw: 1.5 litres vegetable oil
+  - name: hot sauce
+    raw: Hot sauce
+  - name: beer
+    raw: A cold beer
+  - name: lime
+    raw: A wedge of lime

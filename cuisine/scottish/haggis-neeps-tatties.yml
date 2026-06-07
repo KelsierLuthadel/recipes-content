@@ -1,0 +1,56 @@
+prep: 30 minutes (assuming you bought the haggis; making one from scratch adds 2 hours)
+cook: 1.5 hours (haggis reheat) + 30 minutes (neeps and tatties)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - potato
+  - butter
+  - complex
+mentions:
+  - tutorials/distilling-spirits/whisky
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: haggis - macsween's traditional or a butcher's own
+    raw: 1 large haggis - Macsween's Traditional or a butcher's own
+  - qty: 800
+    unit: g
+    name: swede
+    raw: 800 g swede
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 1
+    unit: tsp
+    name: flaked sea salt
+    raw: 1 teaspoon flaked sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon freshly ground black pepper
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes
+  - qty: 80
+    unit: g
+    name: butter
+    raw: 80 g butter
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: ½ teaspoon white pepper
+  - name: 25 ml dram of single malt scotch whisky per serving
+    raw: A 25 ml dram of single malt Scotch whisky per serving

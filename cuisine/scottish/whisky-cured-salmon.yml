@@ -1,0 +1,96 @@
+prep: 30 minutes (plus 24-48 hours curing)
+cook: None (cold-cured) OR 15 minutes (hot-smoked)
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - mustard
+tags:
+  - make-ahead
+  - meals
+  - fish
+  - salmon
+  - onion
+  - lemon
+  - cream
+  - complex
+mentions:
+  - cuisine/israel/side-dishes/bagels
+  - cuisine/swedish/gravlax
+  - tutorials/distilling-spirits/whisky
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: side of scottish salmon - farmed loch-reared or wild
+    raw: 1 side of Scottish salmon - farmed loch-reared or wild
+  - qty: 200
+    unit: g
+    name: sea salt
+    raw: 200 g coarse sea salt
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 1
+    name: dill
+    raw: 1 large bunch of fresh dill
+  - qty: 1
+    unit: tbsp
+    name: cracked black pepper
+    raw: 1 tablespoon coarsely cracked black pepper
+  - qty: 60
+    unit: ml
+    name: single-malt scotch whisky
+    raw: 60 ml single-malt Scotch whisky
+  - name: zest of 2 lemons
+    raw: Zest of 2 lemons
+  - qty: 1
+    unit: tbsp
+    name: juniper berries
+    raw: 1 tablespoon juniper berries
+  - qty: 200
+    unit: g
+    name: oak chips
+    raw: 200 g oak chips
+  - name: heavy wok with a lid and a wire trivet
+    raw: A heavy wok with a lid and a wire trivet
+  - name: square of foil
+    raw: A square of foil for the chips
+  - qty: 4
+    unit: tbsp
+    name: dijon mustard
+    raw: 4 tablespoons Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: white wine vinegar
+    raw: 1 teaspoon white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: malt whisky
+    raw: 1 teaspoon malt whisky
+  - qty: 100
+    unit: ml
+    name: sunflower oil
+    raw: 100 ml sunflower oil
+  - qty: 3
+    unit: tbsp
+    name: dill
+    raw: 3 tablespoons finely chopped dill
+  - name: sea salt and pepper
+    raw: Sea salt and pepper to taste
+  - name: pumpernickel or rye bread
+    raw: Pumpernickel or rye bread, sliced thin and lightly toasted
+  - name: bowl of creme fraiche
+    raw: A small bowl of crème fraîche
+  - name: capers
+    raw: Capers
+  - name: shallot
+    raw: Finely diced shallot
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: dill
+    raw: Fresh dill sprigs

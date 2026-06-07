@@ -1,0 +1,5 @@
+# Brazilian Cuisine
+
+![Brazilian Cuisine](resources/hero.jpg)
+
+Brazil's food is a fusion of Portuguese colonial, West African (via Bahia), Amerindian, and Italian-immigrant influences spread across a country bigger than Europe. The national dish - feijoada - is the Saturday-afternoon black-bean-and-pork stew that anchors every Brazilian family lunch. The northeast (Bahia, Pernambuco) brings the African-influenced fish-and-coconut stews like moqueca, vatapá, and bobó de camarão. The south brings the gaucho churrasco tradition, with picanha (top-sirloin steak) as the canonical cut. Daily food is arroz com feijão (rice and beans), the staple of every Brazilian table from rich to poor. Sweet finishes come in the form of brigadeiros (condensed-milk chocolate truffles, born at every Brazilian birthday party), pudim, and beijinhos. Drinks are the bright caipirinha (cachaça, lime, sugar), the bright orange Guaraná Antarctica national soft drink, and the açaí bowl (frozen pulp blended into a thick purple slush).

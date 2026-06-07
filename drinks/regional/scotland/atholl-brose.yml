@@ -1,0 +1,53 @@
+prep: 5 minutes (plus 4 hours oat soaking)
+cook: None
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - lemon
+  - cream
+  - honey
+  - complex
+mentions:
+  - cuisine/scottish/desserts/cranachan
+  - cuisine/scottish/desserts/dundee-cake
+  - tutorials/distilling-spirits/whisky
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 100
+    unit: g
+    name: oatmeal
+    raw: 100 g medium oatmeal
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml cold water
+  - qty: 6
+    unit: tbsp
+    name: heather honey
+    raw: 6 tablespoons heather honey
+  - qty: 250
+    unit: ml
+    name: single-malt scotch whisky
+    raw: 250 ml single-malt Scotch whisky
+  - qty: 4
+    name: whisky glasses or small tumblers
+    raw: 4 small thick whisky glasses or small tumblers
+  - name: "all of the above plus:"
+    raw: "All of the above PLUS:"
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - name: honey
+    raw: An extra tablespoon of honey
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: A pinch of freshly grated nutmeg
+  - name: toasted oats sprinkled over each glass
+    raw: A few toasted oats sprinkled over each glass
+  - name: twist of lemon zest
+    raw: A thin twist of lemon zest

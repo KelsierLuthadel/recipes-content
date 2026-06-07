@@ -1,0 +1,77 @@
+prep: 30 minutes (plus 1 hour rising)
+cook: 18 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - eggs
+  - onion
+  - garlic
+  - lemon
+  - chili
+  - complex
+mentions:
+  - cuisine/jamaican/snacks/festival
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: bread flour
+    raw: 500 g strong bread flour
+  - qty: 10
+    unit: g
+    name: instant yeast
+    raw: 10 g instant yeast
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 280
+    unit: ml
+    name: water
+    raw: 280 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 400
+    unit: g
+    name: cured pork
+    raw: 400 g cubed cured pork
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 2
+    unit: tbsp
+    name: sweet paprika
+    raw: 2 tablespoons sweet paprika
+  - qty: 1
+    unit: tsp
+    name: hot paprika
+    raw: 1 teaspoon hot paprika
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - name: pickled chillies
+    raw: Pickled chillies
+  - name: onion
+    raw: Chopped raw onion
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: glass of macedonian red wine
+    raw: A glass of Macedonian red wine

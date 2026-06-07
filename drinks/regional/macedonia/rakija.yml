@@ -1,0 +1,31 @@
+prep: None (commercial spirit) or 6 months (homemade)
+cook: None
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - cheese
+mentions: []
+ingredients:
+  - qty: 50
+    unit: ml
+    name: macedonian rakija
+    raw: 50 ml Macedonian rakija
+  - name: rakija glass
+    raw: A small thick rakija glass
+  - name: "optional: a small piece of cheese or a slice of cured meat alongside"
+    raw: "Optional: a small piece of cheese or a slice of cured meat alongside"
+  - qty: 10
+    unit: kg
+    name: fruit
+    raw: 10 kg ripe fruit
+  - name: sugar
+    raw: Sugar
+  - name: yeast
+    raw: Yeast
+  - name: copper still
+    raw: A copper still
+  - qty: 6
+    name: months minimum for fermentation + distillation
+    raw: 6 months minimum for fermentation + distillation

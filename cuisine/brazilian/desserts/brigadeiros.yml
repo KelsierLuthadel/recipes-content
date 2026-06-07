@@ -1,0 +1,48 @@
+prep: 10 minutes (plus 2 hours chilling)
+cook: 12-15 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - butter
+  - chocolate
+  - nuts
+  - complex
+mentions:
+  - cuisine/south-american/brigadeiro
+ingredients:
+  - qty: 2
+    name: sweetened condensed milk
+    raw: 2 tins sweetened condensed milk
+  - qty: 60
+    unit: g
+    name: unsweetened cocoa powder
+    raw: 60 g good-quality unsweetened cocoa powder
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 300
+    unit: g
+    name: chocolate sprinkles
+    raw: 300 g chocolate sprinkles
+  - name: cocoa nibs
+    raw: Cocoa nibs
+  - name: edible gold leaf
+    raw: Edible gold leaf
+  - name: single brazilian nut on top
+    raw: A single Brazilian nut on top
+  - name: roasted hazelnuts
+    raw: Halved roasted hazelnuts

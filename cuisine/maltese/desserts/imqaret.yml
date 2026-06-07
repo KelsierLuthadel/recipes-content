@@ -1,0 +1,81 @@
+prep: 30 minutes (plus 1 hour pastry chill)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 100
+    unit: g
+    name: semolina
+    raw: 100 g semolina
+  - qty: 150
+    unit: g
+    name: butter
+    raw: 150 g butter
+  - qty: 30
+    unit: g
+    name: caster sugar
+    raw: 30 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons cold water
+  - qty: 400
+    unit: g
+    name: pitted dates
+    raw: 400 g pitted dates
+  - qty: 80
+    unit: ml
+    name: anisette
+    raw: 80 ml anisette
+  - name: zest of 1 orange
+    raw: Zest of 1 orange
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    unit: tbsp
+    name: fennel seeds
+    raw: 1 tablespoon fennel seeds
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - name: icing sugar for dusting
+    raw: Icing sugar for dusting

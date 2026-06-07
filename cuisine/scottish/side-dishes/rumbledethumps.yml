@@ -1,0 +1,63 @@
+prep: 25 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - mustard
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - onion
+  - potato
+  - butter
+  - cheese
+mentions:
+  - cuisine/british/bubble-and-squeak
+  - cuisine/irish/colcannon
+ingredients:
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes , peeled and quartered
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 1
+    name: savoy cabbage
+    raw: 1 medium savoy cabbage
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 1
+    name: leek - optional but excellent
+    raw: 1 leek - optional but excellent
+  - qty: 150
+    unit: g
+    name: cheddar
+    raw: 150 g mature Cheddar
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon freshly ground white pepper
+  - qty: 1
+    unit: small handful
+    name: breadcrumbs
+    raw: A small handful of breadcrumbs
+  - qty: 1
+    unit: small handful
+    name: chives
+    raw: A small handful of fresh chives, finely chopped

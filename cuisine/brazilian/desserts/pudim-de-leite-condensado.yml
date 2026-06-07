@@ -1,0 +1,45 @@
+prep: 20 minutes (plus 4 hours chilling)
+cook: 1.5 hours
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - eggs
+  - complex
+mentions:
+  - sauces/sauce-sweet/caramel-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 250
+    unit: g
+    name: granulated white sugar
+    raw: 250 g granulated white sugar
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons water
+  - qty: 1
+    name: sweetened condensed milk
+    raw: 1 tin sweetened condensed milk
+  - qty: 1
+    name: milk
+    raw: 1 tin whole milk
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - name: plate
+    raw: A serving plate
+  - name: jug for extra caramel
+    raw: A small jug for extra caramel

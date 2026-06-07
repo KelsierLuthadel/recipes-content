@@ -1,0 +1,88 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - cheese
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 4
+    name: beef
+    raw: 4 thin slices of beef
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 250
+    unit: g
+    name: breadcrumbs
+    raw: 250 g fine breadcrumbs
+  - qty: 60
+    unit: g
+    name: parmesan cheese
+    raw: 60 g grated Parmesan cheese
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon coarsely ground black pepper
+  - qty: 300
+    unit: ml
+    name: sunflower oil
+    raw: 300 ml sunflower oil
+  - qty: 400
+    unit: ml
+    name: tomato sauce
+    raw: 400 ml tomato sauce
+  - qty: 8
+    name: ham
+    raw: 8 slices cooked ham
+  - qty: 400
+    unit: g
+    name: mozzarella
+    raw: 400 g grated mozzarella
+  - qty: 2
+    unit: tbsp
+    name: oregano
+    raw: 2 tablespoons dried oregano
+  - qty: 1
+    unit: pinch
+    name: chilli flakes
+    raw: A pinch of chilli flakes
+  - qty: 600
+    unit: g
+    name: hand-cut chips
+    raw: 600 g hand-cut chips
+  - name: green salad
+    raw: A green salad
+  - name: glass of argentine malbec
+    raw: A glass of Argentine Malbec
+  - name: lemon wedges
+    raw: Lemon wedges

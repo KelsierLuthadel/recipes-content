@@ -1,0 +1,40 @@
+prep: 15 minutes (plus 30 minutes chill)
+cook: 35-40 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - snack
+  - butter
+mentions:
+  - tutorials/distilling-spirits/whisky
+  - tutorials/pizza/dough
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - name: "optional: ¼ teaspoon vanilla extract"
+    raw: "Optional: ¼ teaspoon vanilla extract"
+  - name: "optional: 2 tablespoons rice flour"
+    raw: "Optional: 2 tablespoons rice flour"
+  - name: butter for greasing
+    raw: A small piece of butter for greasing
+  - name: 20 × 20 cm square tin or a 20 cm round tin or a 23 × 18 cm rectangular tin
+    raw: A 20 × 20 cm square tin OR a 20 cm round tin OR a 23 × 18 cm rectangular tin
+  - name: parchment paper
+    raw: A piece of parchment paper

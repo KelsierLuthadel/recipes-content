@@ -1,0 +1,84 @@
+prep: 30 minutes (steak should come to room temp)
+cook: 15 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - butter
+  - cream
+  - complex
+mentions:
+  - tutorials/distilling-spirits/whisky
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: × 300-400 g aberdeen angus sirloin or ribeye steaks
+    raw: 2 × 300-400 g Aberdeen Angus sirloin or ribeye steaks
+  - qty: 2
+    unit: tbsp
+    name: beef dripping
+    raw: 2 tablespoons beef dripping
+  - qty: 1
+    unit: tsp
+    name: flaked sea salt per steak
+    raw: 1 teaspoon flaked sea salt per steak
+  - qty: 0.5
+    unit: tsp
+    name: cracked black pepper per steak
+    raw: ½ teaspoon coarsely cracked black pepper per steak
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - name: thyme
+    raw: A small thyme sprig
+  - qty: 1
+    name: shallot
+    raw: 1 shallot
+  - qty: 30
+    unit: ml
+    name: single malt scotch whisky
+    raw: 30 ml single malt Scotch whisky
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 1
+    unit: tbsp
+    name: green peppercorns in brine
+    raw: 1 tablespoon green peppercorns in brine
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 15
+    unit: g
+    name: cold butter
+    raw: 15 g cold butter
+  - name: sea salt
+    raw: Sea salt to taste
+  - qty: 500
+    unit: g
+    name: hand-cut chips
+    raw: 500 g hand-cut chips
+  - qty: 1
+    name: watercress
+    raw: A bunch of watercress
+  - qty: 2
+    name: vine tomatoes
+    raw: 2 vine tomatoes
+  - name: dram of the same single malt alongside
+    raw: A dram of the same single malt alongside

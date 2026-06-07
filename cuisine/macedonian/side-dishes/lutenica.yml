@@ -1,0 +1,49 @@
+prep: 20 minutes
+cook: 1 hour
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+  - garlic
+  - tomato
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: red bell peppers
+    raw: 1 kg red bell peppers
+  - qty: 800
+    unit: g
+    name: tomatoes
+    raw: 800 g ripe tomatoes
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 100
+    unit: ml
+    name: sunflower oil
+    raw: 100 ml sunflower oil
+  - qty: 3
+    unit: tbsp
+    name: white wine vinegar
+    raw: 3 tablespoons white wine vinegar
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 1
+    unit: tsp
+    name: hot paprika
+    raw: 1 teaspoon hot paprika
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon black pepper

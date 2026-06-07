@@ -1,0 +1,54 @@
+prep: 15 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - onion
+  - tomato
+  - cheese
+mentions: []
+ingredients:
+  - qty: 4
+    name: tomatoes
+    raw: 4 large ripe tomatoes
+  - qty: 1
+    name: cucumber
+    raw: 1 large cucumber
+  - qty: 1
+    name: red bell pepper
+    raw: 1 large red bell pepper
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 6
+    unit: tbsp
+    name: sunflower oil
+    raw: 6 tablespoons sunflower oil
+  - qty: 2
+    unit: tbsp
+    name: red wine vinegar
+    raw: 2 tablespoons red wine vinegar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - qty: 200
+    unit: g
+    name: sirenje or greek feta
+    raw: 200 g sirenje OR Greek feta
+  - name: pitted black olives
+    raw: A few pitted black olives
+  - qty: 1
+    unit: pinch
+    name: oregano
+    raw: A pinch of dried oregano

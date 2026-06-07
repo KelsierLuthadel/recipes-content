@@ -1,0 +1,101 @@
+prep: 20 minutes (plus 12-24 hour brine)
+cook: 3 hours
+allergens:
+  - gluten
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - complex
+mentions:
+  - cuisine/austrian/side-dishes/kartoffelknoedel
+  - cuisine/austrian/side-dishes/semmelknoedel
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: pork knuckles
+    raw: 4 fresh pork knuckles
+  - qty: 4
+    unit: l
+    name: water
+    raw: 4 litres cold water
+  - qty: 200
+    unit: g
+    name: salt
+    raw: 200 g salt
+  - qty: 100
+    unit: g
+    name: brown sugar
+    raw: 100 g brown sugar
+  - qty: 2
+    unit: tbsp
+    name: juniper berries
+    raw: 2 tablespoons juniper berries
+  - qty: 6
+    name: bay leaves
+    raw: 6 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: black peppercorns
+    raw: 1 tablespoon black peppercorns
+  - qty: 1
+    unit: tbsp
+    name: caraway seeds
+    raw: 1 tablespoon caraway seeds
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: thyme
+    raw: 1 small bunch fresh thyme
+  - qty: 500
+    unit: ml
+    name: dark german beer
+    raw: 500 ml dark German beer
+  - qty: 500
+    unit: ml
+    name: chicken stock or water
+    raw: 500 ml chicken stock or water
+  - qty: 1
+    unit: tbsp
+    name: caraway seeds
+    raw: 1 tablespoon caraway seeds
+  - qty: 2
+    unit: tbsp
+    name: rock salt
+    raw: 2 tablespoons coarse rock salt
+  - qty: 1
+    unit: tbsp
+    name: cracked black pepper
+    raw: 1 tablespoon coarsely cracked black pepper
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil
+    raw: 4 tablespoons sunflower oil
+  - name: sauerkraut
+    raw: Sauerkraut
+  - qty: 4
+    name: kartoffelknodel or semmelknodel
+    raw: 4 large kartoffelknödel or semmelknödel
+  - name: jug of dark gravy
+    raw: A jug of dark gravy
+  - qty: 4
+    name: steins of cold bavarian lager
+    raw: 4 steins of cold Bavarian lager
+  - name: bavarian sweet mustard
+    raw: A small dish of Bavarian sweet mustard

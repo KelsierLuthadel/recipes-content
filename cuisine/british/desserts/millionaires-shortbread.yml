@@ -9,7 +9,8 @@ tags:
   - butter
   - chocolate
   - complex
-mentions: []
+mentions:
+  - cuisine/scottish/snacks/shortbread
 ingredients:
   - qty: 200
     unit: g

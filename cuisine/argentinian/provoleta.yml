@@ -1,0 +1,49 @@
+prep: 5 minutes
+cook: 8-10 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - quick
+  - meals
+  - bbq
+  - lemon
+  - cheese
+  - chili
+mentions:
+  - cuisine/argentinian/side-dishes/chimichurri
+ingredients:
+  - qty: 1
+    name: disc of argentine provoleta
+    raw: 1 thick disc of Argentine provoleta
+  - qty: 2
+    unit: tbsp
+    name: oregano
+    raw: 2 tablespoons dried oregano
+  - qty: 1
+    unit: tsp
+    name: chilli flakes
+    raw: 1 teaspoon chilli flakes
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    unit: pinch
+    name: flaked sea salt
+    raw: A pinch of flaked sea salt
+  - qty: 2
+    name: baguettes or a loaf of crusty bread
+    raw: 2 fresh baguettes or a loaf of crusty bread
+  - name: chimichurri
+    raw: A small dish of chimichurri
+  - qty: 1
+    unit: handful
+    name: oregano leaves
+    raw: A handful of fresh oregano leaves
+  - name: lemon
+    raw: A wedge of lemon
+  - name: glass of argentine malbec
+    raw: A glass of Argentine Malbec

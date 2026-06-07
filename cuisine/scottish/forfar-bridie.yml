@@ -1,0 +1,81 @@
+prep: 30 minutes (plus 30 minutes pastry rest)
+cook: 35-40 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+tags:
+  - meals
+  - meat
+  - beef
+  - eggs
+  - onion
+  - butter
+  - complex
+mentions:
+  - cuisine/british/snacks/cornish-pasty
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 450
+    unit: g
+    name: plain flour
+    raw: 450 g plain flour
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 100
+    unit: g
+    name: beef suet
+    raw: 100 g beef suet
+  - qty: 100
+    unit: g
+    name: cold butter
+    raw: 100 g cold butter
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 100
+    unit: ml
+    name: ice-cold water
+    raw: 100 ml ice-cold water
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g minced beef
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 1
+    unit: tsp
+    name: bovril
+    raw: 1 teaspoon Bovril
+  - qty: 1
+    unit: tsp
+    name: worcestershire sauce
+    raw: 1 teaspoon Worcestershire sauce
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon freshly ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: mustard powder
+    raw: ½ teaspoon mustard powder
+  - qty: 50
+    unit: ml
+    name: beef stock
+    raw: 50 ml cold beef stock
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    unit: pinch
+    name: flaked sea salt
+    raw: A pinch of flaked sea salt

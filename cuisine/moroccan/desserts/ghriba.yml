@@ -13,7 +13,8 @@ tags:
   - lemon
   - butter
   - nuts
-mentions: []
+mentions:
+  - cuisine/scottish/snacks/shortbread
 ingredients:
   - qty: 500
     unit: g

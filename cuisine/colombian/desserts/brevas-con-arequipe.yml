@@ -11,7 +11,8 @@ tags:
   - cheese
   - nuts
   - complex
-mentions: []
+mentions:
+  - cuisine/argentinian/desserts/dulce-de-leche
 ingredients:
   - qty: 12
     name: brown figs

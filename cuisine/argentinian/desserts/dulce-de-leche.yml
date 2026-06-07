@@ -1,0 +1,53 @@
+prep: 5 minutes
+cook: 2-3 hours
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - complex
+mentions:
+  - cuisine/argentinian/desserts/alfajores
+  - cuisine/argentinian/desserts/flan-dulce-de-leche
+  - cuisine/french/desserts/crepes
+  - tutorials/distilling-spirits/safety
+ingredients:
+  - qty: 2
+    unit: l
+    name: milk
+    raw: 2 litres whole milk
+  - qty: 600
+    unit: g
+    name: caster sugar
+    raw: 600 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: bicarbonate of soda
+    raw: 1 teaspoon bicarbonate of soda
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 1.5
+    name: sweetened condensed milk
+    raw: 1-2 tins sweetened condensed milk
+  - name: saucepan
+    raw: A large saucepan
+  - name: enough water to cover the tins by 5 cm at all times
+    raw: Enough water to cover the tins by 5 cm at all times
+  - name: spread on toast for breakfast
+    raw: Spread on toast for breakfast
+  - name: in alfajores
+    raw: In alfajores
+  - name: swirled into vanilla ice cream
+    raw: Swirled into vanilla ice cream
+  - name: stirred into hot milk for "leche con dulce"
+    raw: Stirred into hot milk for "leche con dulce"
+  - name: in tarts and pastries
+    raw: In tarts and pastries
+  - name: as filling for crepes
+    raw: As filling for crêpes

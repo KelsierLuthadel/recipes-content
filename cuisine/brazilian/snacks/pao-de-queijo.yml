@@ -1,0 +1,53 @@
+prep: 20 minutes
+cook: 20-25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - butter
+  - cheese
+mentions:
+  - cuisine/south-american/pao-de-queijo
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: polvilho doce
+    raw: 250 g polvilho doce
+  - qty: 250
+    unit: g
+    name: polvilho azedo
+    raw: 250 g polvilho azedo
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 100
+    unit: ml
+    name: sunflower oil
+    raw: 100 ml sunflower oil
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 200
+    unit: g
+    name: cheese
+    raw: 200 g grated cheese
+  - qty: 1
+    unit: tbsp
+    name: chives or parsley
+    raw: 1 tablespoon finely chopped fresh chives or parsley
+  - qty: 1
+    unit: pinch
+    name: oregano
+    raw: A pinch of dried oregano
+  - name: butter on top of each roll just before baking
+    raw: A small piece of butter on top of each roll just before baking

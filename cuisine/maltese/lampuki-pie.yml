@@ -1,0 +1,102 @@
+prep: 30 minutes (plus 30 minutes pastry rest)
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - garlic
+tags:
+  - meals
+  - fish
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - spinach
+  - butter
+  - complex
+mentions: []
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 200
+    unit: g
+    name: cold butter
+    raw: 200 g cold butter
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 80
+    unit: ml
+    name: ice-cold water
+    raw: 80 ml ice-cold water
+  - qty: 600
+    unit: g
+    name: lampuki fillets
+    raw: 600 g lampuki fillets
+  - qty: 60
+    unit: g
+    name: plain flour
+    raw: 60 g plain flour
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 400
+    unit: g
+    name: spinach
+    raw: 400 g spinach
+  - qty: 200
+    unit: g
+    name: cauliflower
+    raw: 200 g cauliflower
+  - qty: 4
+    name: tomatoes
+    raw: 4 large ripe tomatoes
+  - qty: 60
+    unit: g
+    name: sultanas
+    raw: 60 g sultanas
+  - qty: 4
+    unit: tbsp
+    name: capers
+    raw: 4 tablespoons capers
+  - qty: 80
+    unit: g
+    name: black olives
+    raw: 80 g black olives
+  - qty: 1
+    name: mint
+    raw: 1 small bunch fresh mint
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cracked black pepper
+    raw: 1 teaspoon coarsely cracked black pepper
+  - qty: 1
+    name: beaten egg
+    raw: 1 beaten egg

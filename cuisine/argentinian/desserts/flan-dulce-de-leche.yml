@@ -1,0 +1,65 @@
+prep: 20 minutes (plus 4 hours chilling)
+cook: 1 hour
+allergens:
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - eggs
+  - cream
+  - chocolate
+  - nuts
+  - complex
+mentions:
+  - cuisine/argentinian/desserts/dulce-de-leche
+  - sauces/sauce-sweet/caramel-sauce
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 200
+    unit: g
+    name: granulated sugar
+    raw: 200 g granulated sugar
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tablespoons water
+  - qty: 750
+    unit: ml
+    name: milk
+    raw: 750 ml whole milk
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 6
+    name: eggs + 4 large egg yolks
+    raw: 6 large eggs + 4 large egg yolks
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 400
+    unit: g
+    name: dulce de leche
+    raw: 400 g dulce de leche
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream
+  - name: dark chocolate
+    raw: A grating of dark chocolate
+  - qty: 1
+    unit: small handful
+    name: toasted almond flakes
+    raw: A small handful of toasted almond flakes

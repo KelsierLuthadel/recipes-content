@@ -12,7 +12,8 @@ tags:
   - pork
   - eggs
   - onion
-mentions: []
+mentions:
+  - cuisine/scottish/snacks/scotch-egg
 ingredients:
   - qty: 6
     name: eggs

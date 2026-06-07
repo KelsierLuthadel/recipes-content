@@ -1,0 +1,75 @@
+prep: 30 minutes (plus 1 hour fire-building)
+cook: 3-4 hours (slow open-fire grilling)
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - bbq
+  - meat
+  - beef
+  - pork
+  - rice
+  - onion
+  - tomato
+  - potato
+  - cheese
+  - complex
+mentions:
+  - cuisine/argentinian/side-dishes/chimichurri
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: asado de tira - the canonical first beef cut
+    raw: 1.5 kg asado de tira - the canonical first beef cut
+  - qty: 1
+    unit: kg
+    name: vacio - the asador's favourite
+    raw: 1 kg vacío - the asador's favourite
+  - qty: 800
+    unit: g
+    name: bife de chorizo or entrana - premium cuts
+    raw: 800 g bife de chorizo OR entraña - premium cuts
+  - qty: 6
+    name: chorizo sausages
+    raw: 6 chorizo sausages
+  - qty: 6
+    name: morcilla
+    raw: 6 morcilla
+  - qty: 400
+    unit: g
+    name: molleja
+    raw: 400 g molleja
+  - qty: 200
+    unit: g
+    name: chinchulines
+    raw: 200 g chinchulines
+  - qty: 200
+    unit: g
+    name: rock salt
+    raw: 200 g coarse rock salt
+  - qty: 1
+    name: batch chimichurri sauce
+    raw: 1 batch chimichurri sauce
+  - qty: 1
+    name: batch salsa criolla
+    raw: 1 batch salsa criolla
+  - qty: 1
+    name: round of provoleta cheese
+    raw: 1 round of provoleta cheese
+  - qty: 2
+    name: baguettes
+    raw: 2 fresh baguettes
+  - name: mixed green salad
+    raw: Mixed green salad
+  - name: boiled potatoes or fried potatoes alongside
+    raw: Boiled potatoes or fried potatoes alongside
+  - qty: 2.5
+    name: argentine malbec
+    raw: 2-3 bottles of Argentine Malbec
+  - name: beer for the asador while cooking
+    raw: Cold beer for the asador while cooking
+  - name: pitcher of water
+    raw: A pitcher of water

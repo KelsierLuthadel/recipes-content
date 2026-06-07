@@ -1,0 +1,50 @@
+prep: 5 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - eggs
+  - rice
+  - lemon
+  - butter
+mentions: []
+ingredients:
+  - qty: 200
+    unit: g
+    name: short-grain rice
+    raw: 200 g short-grain rice
+  - qty: 1.2
+    unit: l
+    name: milk
+    raw: 1.2 litres whole milk
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    name: strip lemon peel
+    raw: 1 strip lemon peel
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 2
+    name: egg yolks
+    raw: 2 large egg yolks
+  - name: cinnamon
+    raw: Ground cinnamon

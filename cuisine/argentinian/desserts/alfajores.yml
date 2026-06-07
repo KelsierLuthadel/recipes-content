@@ -1,0 +1,72 @@
+prep: 30 minutes (plus 1 hour dough chill)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - coconut
+  - lemon
+  - butter
+  - chocolate
+  - complex
+mentions:
+  - cuisine/argentinian/desserts/dulce-de-leche
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 200
+    unit: g
+    name: cornflour
+    raw: 200 g cornflour
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 200
+    unit: g
+    name: cold butter
+    raw: 200 g cold butter
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar
+  - qty: 4
+    name: egg yolks
+    raw: 4 large egg yolks
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: tsp
+    name: brandy or rum
+    raw: 1 teaspoon brandy or rum
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 500
+    unit: g
+    name: dulce de leche
+    raw: 500 g dulce de leche
+  - qty: 200
+    unit: g
+    name: desiccated coconut or
+    raw: 200 g desiccated coconut OR
+  - qty: 300
+    unit: g
+    name: dark chocolate or
+    raw: 300 g dark chocolate OR
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar

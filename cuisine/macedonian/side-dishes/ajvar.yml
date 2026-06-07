@@ -1,0 +1,50 @@
+prep: 30 minutes
+cook: 1.5 hours
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - garlic
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 2
+    unit: kg
+    name: red bell peppers
+    raw: 2 kg red bell peppers
+  - qty: 500
+    unit: g
+    name: aubergines
+    raw: 500 g aubergines
+  - qty: 200
+    unit: ml
+    name: sunflower oil
+    raw: 200 ml sunflower oil
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: white wine vinegar
+    raw: 4 tablespoons white wine vinegar
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: hot paprika or chilli flakes
+    raw: 1 teaspoon hot paprika or chilli flakes
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley

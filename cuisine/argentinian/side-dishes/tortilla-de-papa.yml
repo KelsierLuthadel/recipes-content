@@ -1,0 +1,58 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - make-ahead
+  - sides
+  - eggs
+  - onion
+  - garlic
+  - potato
+  - lemon
+mentions:
+  - cuisine/spanish/tortilla-espanola
+ingredients:
+  - qty: 800
+    unit: g
+    name: waxy potatoes
+    raw: 800 g waxy potatoes
+  - qty: 2
+    name: yellow onions
+    raw: 2 large yellow onions
+  - qty: 6
+    name: eggs
+    raw: 6 large eggs
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 300
+    unit: ml
+    name: olive oil
+    raw: 300 ml olive oil
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tablespoons chopped fresh parsley
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon coarsely ground black pepper
+  - name: crusty bread
+    raw: Crusty bread
+  - name: green salad
+    raw: A green salad
+  - name: lemon
+    raw: A wedge of lemon
+  - name: glass of argentine malbec or chilled white
+    raw: A glass of Argentine Malbec or chilled white
+  - name: "optional: a small dish of chimichurri alongside"
+    raw: "Optional: a small dish of chimichurri alongside"

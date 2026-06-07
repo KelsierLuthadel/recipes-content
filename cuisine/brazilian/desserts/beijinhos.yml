@@ -1,0 +1,52 @@
+prep: 10 minutes (plus 2 hours chilling)
+cook: 12-15 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - coconut
+  - butter
+  - complex
+mentions:
+  - cuisine/brazilian/desserts/brigadeiros
+  - cuisine/south-american/brigadeiro
+ingredients:
+  - qty: 2
+    name: sweetened condensed milk
+    raw: 2 tins sweetened condensed milk
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 80
+    unit: g
+    name: desiccated coconut
+    raw: 80 g desiccated coconut
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 200
+    unit: g
+    name: desiccated coconut
+    raw: 200 g desiccated coconut
+  - qty: 40
+    name: cloves
+    raw: 40 whole cloves
+  - qty: 1
+    unit: pinch
+    name: cardamom
+    raw: A pinch of ground cardamom
+  - name: dragees or edible silver beads
+    raw: Dragees or edible silver beads
+  - qty: 1
+    unit: drop
+    name: rose water
+    raw: A drop of rose water

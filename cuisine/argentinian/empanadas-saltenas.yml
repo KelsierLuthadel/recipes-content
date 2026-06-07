@@ -1,0 +1,98 @@
+prep: 45 minutes (plus 1 hour dough chill)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - eggs
+  - onion
+  - butter
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef chuck or short rib
+    raw: 600 g beef chuck or short rib
+  - qty: 4
+    unit: tbsp
+    name: rendered beef fat or olive oil
+    raw: 4 tablespoons rendered beef fat or olive oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 1
+    name: red bell pepper
+    raw: 1 large red bell pepper
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 2
+    unit: tsp
+    name: sweet paprika
+    raw: 2 teaspoons sweet paprika
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: hot paprika or chilli flakes
+    raw: ½ teaspoon hot paprika or chilli flakes
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 200
+    unit: ml
+    name: beef stock
+    raw: 200 ml beef stock
+  - qty: 4
+    name: hard-boiled eggs
+    raw: 4 hard-boiled eggs
+  - qty: 16
+    name: green olives
+    raw: 16 green olives
+  - qty: 4
+    unit: tbsp
+    name: golden raisins
+    raw: 4 tablespoons golden raisins
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon coarsely ground black pepper
+  - qty: 600
+    unit: g
+    name: plain flour
+    raw: 600 g plain flour
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 200
+    unit: g
+    name: cold butter
+    raw: 200 g cold butter
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml warm water
+  - qty: 1
+    name: beaten egg
+    raw: 1 beaten egg

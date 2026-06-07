@@ -1,0 +1,60 @@
+prep: 25 minutes (plus 1 hour optional chilling)
+cook: 5 minutes (oat toasting)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - cream
+  - cheese
+  - honey
+mentions:
+  - cuisine/scottish/side-dishes/crowdie
+  - drinks/regional/scotland/atholl-brose
+  - tutorials/distilling-spirits/whisky
+ingredients:
+  - qty: 60
+    unit: g
+    name: pinhead oatmeal
+    raw: 60 g pinhead oatmeal
+  - qty: 400
+    unit: ml
+    name: double cream
+    raw: 400 ml double cream
+  - qty: 60
+    unit: g
+    name: icing sugar
+    raw: 60 g icing sugar
+  - qty: 4
+    unit: tbsp
+    name: heather honey
+    raw: 4 tablespoons heather honey
+  - qty: 4
+    unit: tbsp
+    name: single-malt scotch whisky
+    raw: 4 tablespoons single-malt Scotch whisky
+  - qty: 500
+    unit: g
+    name: raspberries
+    raw: 500 g fresh raspberries
+  - name: raspberries and toasted oats
+    raw: A few extra raspberries and toasted oats for garnish
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 100
+    unit: g
+    name: crowdie folded into the cream
+    raw: 100 g crowdie folded into the cream
+  - name: tall glasses or trifle dishes
+    raw: Tall glasses or trifle dishes
+  - name: jug of extra whisky on the side
+    raw: A small jug of extra whisky on the side
+  - name: bowl of toasted oats and raspberries
+    raw: A small bowl of toasted oats and raspberries

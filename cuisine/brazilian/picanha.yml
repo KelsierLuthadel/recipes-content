@@ -1,0 +1,77 @@
+prep: 10 minutes
+cook: 15-20 minutes
+allergens:
+  - gluten
+  - meat
+tags:
+  - dairy-free
+  - quick
+  - meals
+  - meat
+  - beef
+  - rice
+  - onion
+  - tomato
+  - coriander
+  - complex
+mentions:
+  - cuisine/argentinian/side-dishes/chimichurri
+  - drinks/regional/brazil/caipirinha
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: picanha
+    raw: 1 whole picanha , 1-1.2 kg, fat cap fully intact
+  - qty: 3
+    unit: tbsp
+    name: rock salt
+    raw: 3 tablespoons coarse rock salt
+  - qty: 1
+    unit: drizzle
+    name: olive oil
+    raw: A drizzle of olive oil
+  - qty: 3
+    name: tomatoes
+    raw: 3 ripe tomatoes
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion
+  - qty: 1
+    name: green bell pepper
+    raw: 1 small green bell pepper
+  - qty: 1
+    name: parsley
+    raw: A small bunch of fresh parsley
+  - qty: 1
+    name: coriander
+    raw: A small bunch of fresh coriander
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 4
+    unit: tbsp
+    name: red wine vinegar
+    raw: 4 tablespoons red wine vinegar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon freshly ground black pepper
+  - qty: 600
+    unit: g
+    name: white long-grain rice
+    raw: 600 g white long-grain rice
+  - qty: 200
+    unit: g
+    name: farofa
+    raw: 200 g farofa
+  - name: bowl of black-bean stew
+    raw: A bowl of black-bean stew
+  - name: brazilian beer
+    raw: A bottle of Brazilian beer
+  - name: pitcher of caipirinha alongside
+    raw: A pitcher of caipirinha alongside

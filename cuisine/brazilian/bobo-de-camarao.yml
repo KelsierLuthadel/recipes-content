@@ -1,0 +1,109 @@
+prep: 25 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: cassava
+    raw: 800 g fresh cassava
+  - qty: 600
+    unit: ml
+    name: chicken or fish stock
+    raw: 600 ml chicken or fish stock
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 3
+    unit: tbsp
+    name: dende oil
+    raw: 3 tablespoons dendê oil
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 medium onions
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon grated fresh ginger
+  - qty: 1
+    name: red chilli
+    raw: 1 small red chilli
+  - qty: 3
+    name: tomatoes
+    raw: 3 large tomatoes
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml full-fat coconut milk
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 600
+    unit: g
+    name: prawns
+    raw: 600 g large prawns
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cracked black pepper
+    raw: 1 teaspoon coarsely cracked black pepper
+  - qty: 600
+    unit: g
+    name: white long-grain rice
+    raw: 600 g white long-grain rice
+  - qty: 200
+    unit: g
+    name: farofa
+    raw: 200 g farofa
+  - name: lime wedges
+    raw: Lime wedges
+  - name: brazilian beer
+    raw: Cold Brazilian beer
+  - name: "optional: chopped fresh chillies on the side for those who want heat"
+    raw: "Optional: chopped fresh chillies on the side for those who want heat"

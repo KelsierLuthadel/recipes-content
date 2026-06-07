@@ -1,0 +1,59 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - lamb
+  - onion
+  - potato
+  - butter
+mentions:
+  - cuisine/british/side-dishes/yorkshire-puddings
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 50
+    unit: g
+    name: beef dripping
+    raw: 50 g beef dripping
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes , peeled and sliced 5 mm thick
+  - qty: 375
+    unit: g
+    name: leftover cooked beef
+    raw: 350-400 g leftover cooked beef, lamb, or corned beef
+  - qty: 300
+    unit: ml
+    name: beef stock
+    raw: 300 ml beef stock
+  - qty: 1
+    unit: tsp
+    name: worcestershire sauce
+    raw: 1 teaspoon Worcestershire sauce
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon freshly ground black pepper
+  - name: bay leaf
+    raw: A small bay leaf
+  - name: oatcakes
+    raw: Oatcakes
+  - name: pickled beetroot
+    raw: Pickled beetroot
+  - name: jug of cold milk
+    raw: A small jug of cold milk
+  - name: hp brown sauce
+    raw: HP Brown Sauce

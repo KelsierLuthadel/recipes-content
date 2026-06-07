@@ -1,0 +1,84 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - meat
+  - garlic
+tags:
+  - quick
+  - make-ahead
+  - sides
+  - meat
+  - fish
+  - chicken
+  - pork
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - butter
+  - complex
+mentions:
+  - cuisine/brazilian/feijoada
+ingredients:
+  - qty: 400
+    unit: g
+    name: cassava flour
+    raw: 400 g coarse cassava flour
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g butter
+  - qty: 60
+    unit: g
+    name: smoked bacon
+    raw: 60 g smoked bacon
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: cracked black pepper
+    raw: ½ teaspoon coarsely cracked black pepper
+  - qty: 2
+    name: hard-boiled eggs - adds richness
+    raw: 2 hard-boiled eggs - adds richness
+  - qty: 1
+    name: banana - adds sweet contrast
+    raw: 1 ripe banana - adds sweet contrast
+  - qty: 30
+    unit: g
+    name: raisins or chopped dried apricots - sweet variant
+    raw: 30 g raisins or chopped dried apricots - sweet variant
+  - qty: 50
+    unit: g
+    name: green olives - savoury variant
+    raw: 50 g chopped green olives - savoury variant
+  - qty: 1
+    unit: small handful
+    name: parsley
+    raw: A small handful of chopped fresh parsley
+  - qty: 1
+    unit: pinch
+    name: paprika
+    raw: A pinch of paprika
+  - name: feijoada
+    raw: Feijoada
+  - name: picanha or any churrasco
+    raw: Picanha or any churrasco
+  - name: white rice + black beans
+    raw: White rice + black beans
+  - name: roast chicken or fish
+    raw: Roast chicken or fish
+  - name: any brazilian rice-and-bean plate
+    raw: Any Brazilian rice-and-bean plate

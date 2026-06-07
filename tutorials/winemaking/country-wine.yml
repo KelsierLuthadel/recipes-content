@@ -6,7 +6,8 @@ tags:
   - gluten-free
   - make-ahead
   - lemon
-mentions: []
+mentions:
+  - cuisine/scottish/snacks/tablet
 ingredients:
   - qty: 30
     name: to 40 fresh elderflower heads

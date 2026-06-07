@@ -1,0 +1,83 @@
+prep: 15 minutes (plus 2 hour rest)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - snack
+  - bbq
+  - burger
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - cream
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 500
+    unit: g
+    name: pork
+    raw: 500 g minced pork
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g minced beef
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cracked black pepper
+    raw: 1 teaspoon coarsely cracked black pepper
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tablespoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: hot paprika
+    raw: 1 teaspoon hot paprika
+  - qty: 0.5
+    unit: tsp
+    name: bicarbonate of soda
+    raw: ½ teaspoon bicarbonate of soda
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 100
+    unit: ml
+    name: sparkling water
+    raw: 100 ml sparkling water
+  - qty: 4
+    name: macedonian flatbreads
+    raw: 4 Macedonian flatbreads
+  - qty: 200
+    unit: g
+    name: kajmak
+    raw: 200 g kajmak
+  - qty: 1
+    name: onion
+    raw: 1 large raw onion
+  - qty: 4
+    unit: tbsp
+    name: ajvar
+    raw: 4 tablespoons ajvar
+  - name: pickled chillies
+    raw: Pickled chillies
+  - name: tomato slices
+    raw: Fresh tomato slices

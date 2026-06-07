@@ -1,0 +1,49 @@
+prep: 20 minutes (plus 8-12 hours setting time)
+cook: 15 minutes
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - sides
+  - lemon
+  - butter
+  - cream
+  - yogurt
+  - honey
+  - nuts
+  - complex
+mentions: []
+ingredients:
+  - qty: 2
+    unit: l
+    name: milk
+    raw: 2 litres whole milk
+  - qty: 2
+    unit: tbsp
+    name: natural yogurt or buttermilk
+    raw: 2 tablespoons natural yogurt or buttermilk
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 60
+    unit: ml
+    name: double cream
+    raw: 60 ml double cream
+  - name: "optional flavourings :"
+    raw: "Optional flavourings :"
+  - name: "optional coating :"
+    raw: "Optional coating :"
+  - name: warm oatcakes
+    raw: Warm oatcakes
+  - name: salted scottish butter
+    raw: Salted Scottish butter
+  - name: radishes
+    raw: Sliced fresh radishes
+  - name: heather honey
+    raw: A small dish of heather honey
+  - name: dram of single-malt scotch alongside
+    raw: A small dram of single-malt Scotch alongside

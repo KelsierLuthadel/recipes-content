@@ -1,0 +1,47 @@
+prep: 15 minutes (assuming cold mashed potato)
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - quick
+  - sides
+  - meat
+  - pork
+  - eggs
+  - mushroom
+  - tomato
+  - potato
+  - butter
+mentions:
+  - cuisine/american/side-dishes/baked-beans
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: cold mashed potato
+    raw: 400 g cold mashed potato
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 0.25
+    unit: tsp
+    name: baking powder
+    raw: ¼ teaspoon baking powder
+  - name: salted butter
+    raw: Salted butter
+  - name: strawberry jam
+    raw: Strawberry jam, raspberry jam, or marmalade
+  - name: or served alongside a scottish full breakfast
+    raw: OR served alongside a Scottish full breakfast

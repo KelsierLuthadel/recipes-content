@@ -1,0 +1,51 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - mustard
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - butter
+  - cream
+mentions:
+  - cuisine/scottish/haggis-neeps-tatties
+  - tutorials/distilling-spirits/whisky
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: swede
+    raw: 1.2 kg swede
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g butter
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon freshly ground black pepper
+  - qty: 1
+    unit: pinch
+    name: caster sugar
+    raw: A pinch of caster sugar
+  - qty: 2
+    unit: tbsp
+    name: single-malt scotch whisky
+    raw: 2 tablespoons single-malt Scotch whisky
+  - qty: 50
+    unit: ml
+    name: double cream
+    raw: 50 ml double cream
+  - qty: 30
+    unit: g
+    name: butter melted with a pinch of mustard powder
+    raw: 30 g butter melted with a pinch of mustard powder

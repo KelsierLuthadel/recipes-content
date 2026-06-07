@@ -1,0 +1,81 @@
+prep: 5 minutes
+cook: None (blender-only)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - coconut
+  - butter
+  - chocolate
+  - honey
+  - complex
+mentions:
+  - sauces/sauce-sweet/chocolate-sauce
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 200
+    unit: g
+    name: acai pulp
+    raw: 200 g frozen açaí pulp
+  - qty: 2
+    name: bananas
+    raw: 2 ripe bananas
+  - qty: 75
+    unit: ml
+    name: water or cold coconut water or cold whole milk
+    raw: 50-100 ml water OR cold coconut water OR cold whole milk
+  - qty: 2
+    unit: tsp
+    name: guarana syrup
+    raw: 2 teaspoons guaraná syrup
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 100
+    unit: g
+    name: granola or muesli
+    raw: 100 g good granola or muesli
+  - qty: 1
+    name: banana
+    raw: 1 fresh banana
+  - qty: 6
+    name: strawberries
+    raw: 6 fresh strawberries
+  - qty: 3
+    unit: tbsp
+    name: shredded coconut
+    raw: 3 tablespoons shredded coconut
+  - qty: 3
+    unit: tbsp
+    name: sweet sauce drizzle
+    raw: 3 tablespoons of sweet sauce drizzle
+  - qty: 1
+    unit: small handful
+    name: cocoa nibs
+    raw: A small handful of cocoa nibs
+  - qty: 1
+    unit: tbsp
+    name: chia seeds
+    raw: 1 tablespoon chia seeds
+  - qty: 1
+    name: kiwi
+    raw: 1 kiwi
+  - qty: 1
+    unit: small handful
+    name: blueberries
+    raw: A small handful of fresh blueberries
+  - name: mint leaves
+    raw: A few mint leaves
+  - qty: 1
+    unit: drizzle
+    name: guarana syrup over the top
+    raw: A drizzle of guaraná syrup over the top
+  - name: spoonful of brazil-nut butter
+    raw: A spoonful of Brazil-nut butter
+  - name: acai-berry-style superfood toppings
+    raw: Sliced acai-berry-style superfood toppings

@@ -1,0 +1,39 @@
+prep: 10 minutes
+cook: 25-30 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - snack
+  - butter
+mentions:
+  - tutorials/distilling-spirits/whisky
+ingredients:
+  - qty: 1
+    unit: kg
+    name: granulated sugar
+    raw: 1 kg granulated sugar
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 120
+    unit: g
+    name: unsalted butter
+    raw: 120 g unsalted butter
+  - qty: 1
+    name: × 397 g tin sweetened condensed milk
+    raw: 1 × 397 g tin sweetened condensed milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 1
+    unit: tsp
+    name: malt whisky
+    raw: 1 teaspoon malt whisky

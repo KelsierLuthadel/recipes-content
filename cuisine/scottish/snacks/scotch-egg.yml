@@ -1,0 +1,89 @@
+prep: 30 minutes (plus 30 minutes egg chill)
+cook: 8-10 minutes deep frying OR 25 minutes baking
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+tags:
+  - snack
+  - meat
+  - pork
+  - eggs
+  - butter
+  - complex
+mentions:
+  - cuisine/british/snacks/scotch-eggs
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 6
+    name: eggs
+    raw: 6 large eggs
+  - qty: 1
+    name: egg
+    raw: 1 small egg
+  - qty: 600
+    unit: g
+    name: pork sausagemeat
+    raw: 600 g good-quality pork sausagemeat
+  - qty: 100
+    unit: g
+    name: haggis or 100 g crumbled black pudding for the black-pudding version
+    raw: 100 g haggis OR 100 g crumbled black pudding for the black-pudding version
+  - qty: 2
+    unit: tbsp
+    name: sage
+    raw: 2 tablespoons finely chopped sage
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon finely chopped thyme
+  - qty: 1
+    unit: tsp
+    name: english mustard powder
+    raw: 1 teaspoon English mustard powder
+  - qty: 0.5
+    unit: tsp
+    name: mace
+    raw: ½ teaspoon ground mace
+  - qty: 1
+    unit: tsp
+    name: worcestershire sauce
+    raw: 1 teaspoon Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: flaked sea salt
+    raw: 1 teaspoon flaked sea salt
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon freshly ground white pepper
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 200
+    unit: g
+    name: panko breadcrumbs
+    raw: 200 g panko breadcrumbs
+  - qty: 1
+    unit: pinch
+    name: salt and pepper in the flour
+    raw: A pinch of salt and pepper in the flour
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - name: english mustard or hp brown sauce
+    raw: English mustard or HP Brown Sauce
+  - qty: 1
+    name: watercress
+    raw: A bunch of watercress
+  - name: pickled red cabbage
+    raw: A wedge of pickled red cabbage
+  - name: crusty bread and butter
+    raw: Crusty bread and butter

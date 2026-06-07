@@ -1,0 +1,128 @@
+prep: 1 hour (plus overnight fruit soak)
+cook: 3.5-4 hours (long slow bake)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - snack
+  - make-ahead
+  - eggs
+  - ginger
+  - lemon
+  - butter
+  - nuts
+  - complex
+mentions:
+  - cuisine/scottish/snacks/shortbread
+  - tutorials/distilling-spirits/whisky
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 200
+    unit: g
+    name: cold butter
+    raw: 200 g cold butter
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 100
+    unit: ml
+    name: ice-cold water
+    raw: 100 ml ice-cold water
+  - qty: 500
+    unit: g
+    name: raisins
+    raw: 500 g raisins
+  - qty: 500
+    unit: g
+    name: currants
+    raw: 500 g currants
+  - qty: 200
+    unit: g
+    name: sultanas
+    raw: 200 g sultanas
+  - qty: 200
+    unit: g
+    name: mixed candied peel
+    raw: 200 g mixed candied peel
+  - qty: 80
+    unit: g
+    name: glace cherries
+    raw: 80 g glacé cherries
+  - qty: 100
+    unit: g
+    name: blanched almonds
+    raw: 100 g chopped blanched almonds
+  - qty: 100
+    unit: g
+    name: walnuts
+    raw: 100 g chopped walnuts
+  - name: zest of 2 oranges
+    raw: Zest of 2 oranges
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 200
+    unit: ml
+    name: whisky
+    raw: 200 ml whisky
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 200
+    unit: g
+    name: soft dark brown sugar
+    raw: 200 g soft dark brown sugar
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon ground ginger
+  - qty: 1
+    unit: tsp
+    name: mixed spice
+    raw: 1 teaspoon mixed spice
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 1
+    unit: tsp
+    name: black treacle
+    raw: 1 teaspoon black treacle
+  - qty: 2
+    unit: tbsp
+    name: orange marmalade
+    raw: 2 tablespoons orange marmalade
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 1
+    name: beaten egg
+    raw: 1 beaten egg
+  - name: whisky for ongoing "feeding" during ageing
+    raw: Whisky for ongoing "feeding" during ageing

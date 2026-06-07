@@ -1,0 +1,94 @@
+prep: 20 minutes (plus 20 minutes marinade)
+cook: 25 minutes
+allergens:
+  - dairy
+  - fish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - coconut
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: firm white fish fillets
+    raw: 800 g firm white fish fillets
+  - name: juice of 2 limes
+    raw: Juice of 2 limes
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon coarsely ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tablespoons chopped fresh coriander
+  - qty: 3
+    unit: tbsp
+    name: dende oil
+    raw: 3 tablespoons dendê oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper
+  - qty: 1
+    name: yellow bell pepper
+    raw: 1 yellow bell pepper
+  - qty: 4
+    name: tomatoes
+    raw: 4 large ripe tomatoes
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 1
+    name: red chilli
+    raw: 1 small red chilli
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch fresh coriander
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml full-fat coconut milk
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - name: squeezes of lime
+    raw: A few squeezes of lime
+  - qty: 600
+    unit: g
+    name: white long-grain rice
+    raw: 600 g white long-grain rice
+  - name: bowl of farofa
+    raw: A small bowl of farofa
+  - name: lime wedges
+    raw: Lime wedges
+  - name: cold bottle of brazilian beer
+    raw: A cold bottle of Brazilian beer
+  - name: bowl of pirao sauce
+    raw: A small bowl of pirão sauce

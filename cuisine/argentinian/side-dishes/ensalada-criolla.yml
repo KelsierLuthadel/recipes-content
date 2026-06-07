@@ -1,0 +1,78 @@
+prep: 15 minutes (plus 30 minutes rest)
+cook: None
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - chili
+  - complex
+mentions: []
+ingredients:
+  - qty: 4
+    name: tomatoes
+    raw: 4 large ripe tomatoes
+  - qty: 1
+    name: red onion
+    raw: 1 large red onion
+  - qty: 1
+    name: green bell pepper
+    raw: 1 large green bell pepper
+  - qty: 1
+    name: red bell pepper
+    raw: 1 small red bell pepper
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 1
+    name: parsley
+    raw: 1 large bunch fresh parsley
+  - qty: 4
+    unit: tbsp
+    name: red wine vinegar
+    raw: 4 tablespoons red wine vinegar
+  - qty: 6
+    unit: tbsp
+    name: extra-virgin olive oil
+    raw: 6 tablespoons extra-virgin olive oil
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons water
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon coarsely ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: oregano
+    raw: ½ teaspoon dried oregano
+  - qty: 1
+    unit: pinch
+    name: caster sugar
+    raw: A pinch of caster sugar
+  - qty: 1
+    unit: pinch
+    name: chilli flakes
+    raw: A pinch of chilli flakes
+  - name: alongside any argentine asado
+    raw: Alongside any Argentine asado
+  - name: spooned into choripan sandwiches
+    raw: Spooned into choripán sandwiches
+  - name: on top of provoleta
+    raw: On top of provoleta
+  - name: alongside milanesa
+    raw: Alongside milanesa
+  - name: with fresh bread for soaking up the dressing
+    raw: With fresh bread for soaking up the dressing

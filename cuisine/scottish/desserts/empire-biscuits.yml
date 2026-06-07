@@ -1,0 +1,57 @@
+prep: 30 minutes (plus 30 minutes dough chill)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+mentions:
+  - cuisine/scottish/snacks/shortbread
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 75
+    unit: g
+    name: caster sugar
+    raw: 75 g caster sugar
+  - qty: 200
+    unit: g
+    name: cold butter
+    raw: 200 g cold butter
+  - qty: 0.5
+    unit: tsp
+    name: sea salt
+    raw: ½ teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 7
+    unit: tbsp
+    name: seedless raspberry jam
+    raw: 6-8 tablespoons good-quality seedless raspberry jam
+  - qty: 1
+    name: egg white
+    raw: 1 large egg white
+  - qty: 300
+    unit: g
+    name: icing sugar
+    raw: 300 g icing sugar
+  - qty: 1
+    unit: tsp
+    name: lemon juice
+    raw: 1 teaspoon lemon juice
+  - qty: 12
+    name: glace cherries
+    raw: 12 glacé cherries

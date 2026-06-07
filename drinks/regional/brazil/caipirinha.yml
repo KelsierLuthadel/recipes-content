@@ -1,0 +1,37 @@
+prep: 5 minutes
+cook: None
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - lime
+  - honey
+mentions: []
+ingredients:
+  - qty: 1
+    name: lime
+    raw: 1 fresh lime
+  - qty: 2.5
+    unit: tsp
+    name: white granulated sugar
+    raw: 2-3 teaspoons white granulated sugar
+  - qty: 60
+    unit: ml
+    name: cachaca
+    raw: 60 ml good cachaça
+  - name: ice or ice cubes
+    raw: Crushed ice OR ice cubes
+  - name: heavy old-fashioned glass
+    raw: A heavy old-fashioned glass
+  - name: wooden muddler or the back of a heavy spoon
+    raw: A wooden muddler or the back of a heavy spoon
+  - qty: 1
+    unit: tsp
+    name: honey instead of sugar
+    raw: 1 teaspoon honey instead of sugar
+  - name: mint leaves
+    raw: A few mint leaves
+  - name: lime on the rim
+    raw: A small wedge of lime on the rim for garnish
