@@ -1,0 +1,53 @@
+prep: 5 minutes
+cook: 8 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - cream
+  - chocolate
+mentions:
+  - cuisine/belgian/desserts/liege-waffles
+  - drinks/regional/belgium/cafe-liegeois
+ingredients:
+  - qty: 50
+    unit: g
+    name: belgian dark couverture chocolate
+    raw: 50 g good Belgian dark couverture chocolate, finely chopped
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 30
+    unit: ml
+    name: single cream
+    raw: 30 ml single cream
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - qty: 1
+    unit: tiny pinch
+    name: cinnamon
+    raw: A tiny pinch of ground cinnamon
+  - qty: 0.25
+    name: /4 teaspoon vanilla extract
+    raw: 1/4 teaspoon vanilla extract
+  - name: scant teaspoon of unsweetened cocoa powder
+    raw: A scant teaspoon of unsweetened cocoa powder, sieved over the top
+  - name: dollop of whipped cream
+    raw: A small dollop of whipped cream
+  - name: chocolate or a few chocolate shavings on top
+    raw: Grated chocolate or a few chocolate shavings on top
+  - name: speculoos biscuit balanced on the saucer
+    raw: A small speculoos biscuit balanced on the saucer
+  - name: for stirring as the chocolate continues to dissolve
+    raw: A teaspoon for stirring as the chocolate continues to dissolve
+  - name: glass of cold still water on the side
+    raw: A glass of cold still water on the side

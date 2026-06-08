@@ -1,0 +1,49 @@
+prep: 10 minutes
+cook: None (assembly only)
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - cream
+mentions:
+  - tutorials/distilling-spirits/whisky
+ingredients:
+  - qty: 60
+    unit: ml
+    name: espresso
+    raw: 60 ml strong espresso, cooled to room temperature
+  - qty: 2
+    name: vanilla bean ice cream
+    raw: 2 generous scoops good vanilla bean ice cream
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 60
+    unit: ml
+    name: whipped chantilly cream
+    raw: 60 ml lightly whipped Chantilly cream
+  - name: dusting of unsweetened cocoa powder or a few chocolate shavings
+    raw: A dusting of unsweetened cocoa powder OR a few chocolate shavings
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 1
+    unit: tbsp
+    name: icing sugar
+    raw: 1 tablespoon icing sugar
+  - qty: 0.5
+    name: /2 teaspoon vanilla extract
+    raw: 1/2 teaspoon vanilla extract
+  - name: tall
+    raw: A tall, slightly waisted dessert glass or sundae glass - the classic French-Belgian "verre à café liégeois" shape
+  - name: long iced-tea spoon
+    raw: A long iced-tea spoon
+  - name: short paper straw
+    raw: A short paper straw
+  - name: speculoos biscuit on the saucer
+    raw: A small speculoos biscuit on the saucer
