@@ -1,0 +1,121 @@
+prep: 25 minutes
+cook: None (sandwich assembly)
+allergens:
+  - gluten
+  - dairy
+  - soy
+  - fish
+  - meat
+  - mustard
+tags:
+  - spicy
+  - quick
+  - snack
+  - meat
+  - fish
+  - chicken
+  - pork
+  - rice
+  - onion
+  - carrot
+  - lime
+  - coriander
+  - butter
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/french/snacks/chicken-liver-pate
+  - cuisine/vietnamese/snacks/banh-mi
+  - tutorials/cocktails/garnish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: lao or vietnamese baguette rolls
+    raw: 4 small Lao or Vietnamese baguette rolls
+  - qty: 1
+    name: carrot
+    raw: 1 large carrot, julienned
+  - qty: 200
+    unit: g
+    name: daikon radish
+    raw: 200 g daikon radish, julienned
+  - qty: 60
+    unit: ml
+    name: rice vinegar
+    raw: 60 ml rice vinegar
+  - qty: 60
+    unit: ml
+    name: water
+    raw: 60 ml water
+  - qty: 30
+    unit: g
+    name: caster sugar
+    raw: 30 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 4
+    unit: tbsp
+    name: pate
+    raw: 4 tablespoons pâté
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise or butter
+    raw: 4 tablespoons mayonnaise OR butter
+  - qty: 1
+    unit: tbsp
+    name: prepared dijon mustard
+    raw: 1 tablespoon prepared Dijon mustard
+  - qty: 4
+    name: lao sai oua sausage
+    raw: 4 thick slices of cooked Lao sai oua sausage
+  - name: or 4 slices of cold roast pork
+    raw: OR 4 slices of cold roast pork
+  - name: or 4 slices of cooked lao-style cured pork
+    raw: OR 4 slices of cooked Lao-style cured pork
+  - name: or 200 g shredded cold poached chicken
+    raw: OR 200 g shredded cold poached chicken
+  - name: or a few generous spoonfuls of laap
+    raw: OR a few generous spoonfuls of laap
+  - qty: 1
+    name: cilantro
+    raw: A small bunch fresh cilantro
+  - qty: 1
+    name: mint
+    raw: A small bunch fresh mint
+  - name: culantro if available
+    raw: A few sprigs culantro if available
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber, peeled into long thin ribbons
+  - qty: 4
+    name: red chillies
+    raw: 4 fresh red chillies, sliced into rings
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions, sliced lengthways
+  - qty: 3
+    unit: tbsp
+    name: soy sauce
+    raw: 3 tablespoons soy sauce
+  - qty: 1
+    unit: tbsp
+    name: padaek
+    raw: 1 tablespoon padaek
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 1
+    unit: tsp
+    name: palm sugar
+    raw: 1 teaspoon palm sugar
+  - qty: 0.5
+    name: /2 teaspoon white pepper
+    raw: 1/2 teaspoon white pepper
+  - name: sticky rice on the side
+    raw: Sticky rice on the side
+  - name: glass of lao iced coffee
+    raw: A glass of Lao iced coffee

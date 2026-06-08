@@ -1,0 +1,71 @@
+prep: 15 minutes
+cook: None
+allergens:
+  - peanuts
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - fish
+  - prawn
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - nuts
+  - chili
+mentions:
+  - cuisine/thai/side-dishes/thai-cucumber-salad
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: english cucumbers
+    raw: 2 large English cucumbers , julienned into 4 mm matchsticks
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic
+  - qty: 4
+    name: bird's-eye chillies
+    raw: 4 bird's-eye chillies
+  - qty: 8
+    name: cherry tomatoes
+    raw: 8 cherry tomatoes, halved
+  - qty: 2
+    unit: tbsp
+    name: shrimp
+    raw: 2 tablespoons dried shrimp
+  - qty: 3
+    unit: tbsp
+    name: lime juice
+    raw: 3 tablespoons fresh lime juice
+  - qty: 2
+    unit: tbsp
+    name: fish sauce
+    raw: 2 tablespoons fish sauce
+  - qty: 1
+    unit: tbsp
+    name: padaek
+    raw: 1 tablespoon padaek
+  - qty: 2
+    unit: tbsp
+    name: palm sugar
+    raw: 2 tablespoons palm sugar
+  - qty: 4
+    name: long beans
+    raw: 4 long beans, cut into 3 cm pieces
+  - qty: 2
+    unit: tbsp
+    name: toasted crushed peanuts
+    raw: 2 tablespoons toasted crushed peanuts
+  - qty: 1
+    name: mint leaves
+    raw: A small bunch fresh mint leaves
+  - qty: 1
+    name: cilantro
+    raw: A small bunch fresh cilantro

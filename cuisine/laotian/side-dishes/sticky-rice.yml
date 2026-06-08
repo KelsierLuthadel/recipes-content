@@ -1,0 +1,36 @@
+prep: 5 minutes (plus overnight soak)
+cook: 25 minutes
+allergens:
+  - fish
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - meat
+  - fish
+  - chicken
+  - rice
+mentions:
+  - cuisine/thai/desserts/mango-sticky-rice
+  - cuisine/thai/side-dishes/khao-niao
+  - tutorials/cocktails/equipment
+ingredients:
+  - qty: 400
+    unit: g
+    name: thai or lao long-grain glutinous rice
+    raw: 400 g Thai or Lao long-grain glutinous rice
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres cold water
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - name: bamboo basket
+    raw: A small bamboo basket for serving
+  - name: goes with laap
+    raw: Goes with laap, tam mak hung, jeow bong, or-lam, sai oua, grilled fish, sai gawng

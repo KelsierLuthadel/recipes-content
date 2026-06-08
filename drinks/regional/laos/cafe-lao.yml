@@ -1,0 +1,32 @@
+prep: 5 minutes
+cook: 10 minutes (the slow drip)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+mentions:
+  - tutorials/cocktails/equipment
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: sweetened condensed milk
+    raw: 2 tablespoons sweetened condensed milk
+  - qty: 3
+    unit: tbsp
+    name: dark-roast lao or vietnamese coffee
+    raw: 3 tablespoons coarsely ground dark-roast Lao or Vietnamese coffee
+  - qty: 200
+    unit: ml
+    name: just-off-the-boil water
+    raw: 200 ml just-off-the-boil water
+  - qty: 1
+    unit: small handful
+    name: ice or 4-5 ice cubes
+    raw: 1 small handful crushed ice or 4-5 ice cubes
+  - name: cinnamon stick added to the grounds
+    raw: A small piece of cinnamon stick added to the grounds
+  - name: vanilla extract added to the condensed milk
+    raw: A few drops of vanilla extract added to the condensed milk

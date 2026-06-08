@@ -1,0 +1,72 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+  - peanuts
+  - sesame
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - coconut
+  - potato
+  - nuts
+  - complex
+mentions:
+  - cuisine/chinese/side-dishes/rice-cake
+ingredients:
+  - qty: 500
+    unit: ml
+    name: coconut milk
+    raw: 500 ml full-fat coconut milk
+  - qty: 80
+    unit: g
+    name: palm sugar
+    raw: 80 g palm sugar
+  - qty: 2
+    name: pandan leaves
+    raw: 2 pandan leaves, torn and knotted
+  - qty: 0.25
+    name: /4 teaspoon salt
+    raw: 1/4 teaspoon salt
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 100
+    unit: g
+    name: jackfruit
+    raw: 100 g fresh jackfruit, chopped
+  - qty: 100
+    unit: g
+    name: longan flesh
+    raw: 100 g longan flesh , pitted
+  - qty: 200
+    unit: g
+    name: sweet potato
+    raw: 200 g sweet potato, peeled, diced 1.5 cm, boiled in salted water 8 minutes till just tender, drained
+  - qty: 1
+    name: banana
+    raw: 1 ripe banana, sliced 1 cm thick
+  - qty: 100
+    unit: g
+    name: taro
+    raw: 100 g taro, peeled, diced 1.5 cm, boiled 12 minutes till just tender
+  - qty: 80
+    unit: g
+    name: palm seeds
+    raw: 80 g palm seeds
+  - name: coconut flesh from one young coconut
+    raw: Young coconut flesh from one young coconut, sliced
+  - name: shaved ice or crushed ice
+    raw: Shaved ice OR crushed ice
+  - qty: 1
+    unit: tsp
+    name: toasted sesame seeds
+    raw: 1 teaspoon toasted sesame seeds
+  - qty: 1
+    unit: tbsp
+    name: toasted crushed peanuts
+    raw: 1 tablespoon toasted crushed peanuts
+  - name: mint
+    raw: A small mint sprig

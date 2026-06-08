@@ -1,0 +1,86 @@
+prep: 25 minutes
+cook: 8 minutes
+allergens:
+  - fish
+  - shellfish
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - chicken
+  - beef
+  - pork
+  - duck
+  - rice
+  - onion
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/thai/side-dishes/khao-niao
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g finely minced beef, chicken, pork, duck or freshwater fish
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 3
+    unit: tbsp
+    name: fish sauce
+    raw: 3 tablespoons fish sauce
+  - qty: 3
+    unit: tbsp
+    name: lime juice
+    raw: 3 tablespoons fresh lime juice
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 2.5
+    unit: tsp
+    name: chilli flakes
+    raw: 2-3 teaspoons dried chilli flakes
+  - qty: 4
+    name: shallots
+    raw: 4 shallots, very thinly sliced
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions, sliced into 5 mm rings
+  - qty: 1
+    name: lemongrass
+    raw: 1 stalk lemongrass , very finely sliced
+  - qty: 4
+    unit: tbsp
+    name: toasted rice powder
+    raw: 4 tablespoons toasted rice powder
+  - qty: 1
+    name: mint leaves
+    raw: A generous bunch fresh mint leaves
+  - qty: 1
+    name: cilantro
+    raw: A small bunch fresh cilantro, roughly chopped
+  - qty: 1
+    name: culantro / sawtooth coriander
+    raw: A small bunch culantro / sawtooth coriander , chopped
+  - qty: 4
+    unit: tbsp
+    name: thai sticky rice
+    raw: 4 tablespoons raw Thai sticky rice
+  - name: dry-toast in a pan over medium heat 6-8 minutes
+    raw: Dry-toast in a pan over medium heat 6-8 minutes, stirring, till deep golden and fragrant. Grind to coarse powder in a mortar or spice grinder. Use within 48 hours.
+  - qty: 1
+    name: basket warm lao sticky rice - see sticky rice
+    raw: 1 basket warm Lao sticky rice - see Sticky Rice
+  - name: "plate of raw vegetables for scooping: cabbage wedges"
+    raw: "A plate of raw vegetables for scooping: cabbage wedges, long beans, cucumber spears, lettuce leaves"
+  - name: jeow bong -
+    raw: A small dish of jeow bong - optional

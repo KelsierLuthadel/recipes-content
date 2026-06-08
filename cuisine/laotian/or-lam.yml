@@ -1,0 +1,108 @@
+prep: 25 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - beef
+  - rice
+  - mushroom
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/jamaican/snacks/festival
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef shin or chuck or buffalo
+    raw: 600 g beef shin OR chuck OR buffalo, cut into 4 cm chunks
+  - qty: 1.5
+    unit: l
+    name: beef stock or water
+    raw: 1.5 litres beef stock OR water
+  - qty: 2
+    name: lemongrass
+    raw: 2 stalks lemongrass, lightly crushed and cut into 5 cm lengths
+  - qty: 4
+    name: kaffir lime leaves
+    raw: 4 kaffir lime leaves, torn
+  - qty: 5
+    name: galangal
+    raw: 5 cm piece galangal, sliced thin
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, smashed
+  - qty: 2
+    name: shallots
+    raw: 2 shallots, halved
+  - qty: 3
+    name: sakhan wood ; or 1 tsp crushed sichuan peppercorn + 1 tsp black peppercorn
+    raw: 3 pieces sakhan wood ; OR 1 tsp crushed Sichuan peppercorn + 1 tsp black peppercorn
+  - qty: 2
+    unit: tbsp
+    name: fish sauce
+    raw: 2 tablespoons fish sauce
+  - qty: 1
+    unit: tbsp
+    name: padaek
+    raw: 1 tablespoon padaek
+  - qty: 200
+    unit: g
+    name: thai pea aubergines
+    raw: 200 g small Thai pea aubergines
+  - qty: 200
+    unit: g
+    name: long beans
+    raw: 200 g long beans, cut into 4 cm pieces
+  - qty: 200
+    unit: g
+    name: oyster mushrooms
+    raw: 200 g oyster mushrooms, torn into strips
+  - qty: 4
+    name: green chillies
+    raw: 4 fresh green chillies, sliced
+  - qty: 200
+    unit: g
+    name: corn
+    raw: 200 g whole baby corn
+  - qty: 1
+    name: dill
+    raw: A small bunch fresh dill , chopped
+  - qty: 1
+    name: holy basil or thai basil
+    raw: A small bunch holy basil OR Thai basil
+  - qty: 1
+    name: culantro
+    raw: A small bunch culantro , chopped
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, sliced
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 1
+    name: red chilli
+    raw: 1 small dried red chilli, crumbled
+  - qty: 1
+    name: basket warm sticky rice
+    raw: 1 large basket warm sticky rice
+  - name: jeow bong
+    raw: A small dish of jeow bong
+  - name: "vegetables for nibbling: cucumber"
+    raw: "Raw vegetables for nibbling: cucumber, cabbage, mint sprigs"

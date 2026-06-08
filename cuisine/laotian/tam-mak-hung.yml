@@ -1,0 +1,78 @@
+prep: 20 minutes
+cook: None
+allergens:
+  - peanuts
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - chicken
+  - pork
+  - prawn
+  - rice
+  - garlic
+  - tomato
+  - lime
+  - nuts
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: green papaya
+    raw: 1 large green papaya, peeled and shredded coarsely
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic
+  - qty: 5
+    name: bird's-eye chillies
+    raw: 4-6 fresh bird's-eye chillies
+  - qty: 8
+    name: cherry tomatoes
+    raw: 8 cherry tomatoes, halved
+  - qty: 2
+    unit: tbsp
+    name: shrimp
+    raw: 2 tablespoons dried shrimp
+  - qty: 2
+    unit: tbsp
+    name: lime juice
+    raw: 2 tablespoons fresh lime juice
+  - qty: 2
+    unit: tbsp
+    name: padaek
+    raw: 2 tablespoons padaek
+  - qty: 1
+    unit: tbsp
+    name: fish sauce
+    raw: 1 tablespoon fish sauce
+  - qty: 1
+    unit: tbsp
+    name: palm sugar
+    raw: 1 tablespoon palm sugar
+  - qty: 4
+    name: long beans
+    raw: 4 long beans , trimmed and cut into 3 cm pieces
+  - qty: 4
+    unit: tbsp
+    name: toasted ground peanuts
+    raw: 4 tablespoons toasted ground peanuts
+  - qty: 1
+    name: basket warm lao sticky rice
+    raw: 1 basket warm Lao sticky rice
+  - name: lao laap
+    raw: Lao laap
+  - name: pork rind
+    raw: Cooked pork rind, fried chicken or grilled chicken on the side
+  - name: cabbage
+    raw: Raw cabbage, lettuce, cucumber and long beans for scooping

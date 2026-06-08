@@ -1,0 +1,146 @@
+prep: 25 minutes
+cook: 1 hour 10 minutes
+allergens:
+  - gluten
+  - peanuts
+  - soy
+  - fish
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - beef
+  - pork
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - complex
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: pork bones
+    raw: 800 g pork bones
+  - qty: 300
+    unit: g
+    name: beef shin
+    raw: 300 g beef shin
+  - qty: 1
+    name: onion
+    raw: 1 onion, halved
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, smashed
+  - qty: 5
+    name: ginger
+    raw: 5 cm piece ginger, sliced
+  - qty: 1
+    name: star anise pod
+    raw: 1 star anise pod
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    name: cilantro stems
+    raw: A small bunch fresh cilantro stems
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres water
+  - qty: 2
+    unit: tbsp
+    name: fish sauce
+    raw: 2 tablespoons fish sauce
+  - qty: 1
+    unit: tbsp
+    name: palm sugar
+    raw: 1 tablespoon palm sugar
+  - qty: 1
+    unit: tsp
+    name: white peppercorns
+    raw: 1 teaspoon white peppercorns
+  - qty: 300
+    unit: g
+    name: pork
+    raw: 300 g finely minced pork
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, finely chopped
+  - qty: 2
+    name: shallots
+    raw: 2 shallots, finely chopped
+  - qty: 4
+    name: tomatoes
+    raw: 4 medium ripe tomatoes, finely chopped
+  - qty: 3
+    unit: tbsp
+    name: tao jeo or korean doenjang
+    raw: 3 tablespoons tao jeo OR Korean doenjang
+  - qty: 2
+    unit: tbsp
+    name: fish sauce
+    raw: 2 tablespoons fish sauce
+  - qty: 1
+    unit: tbsp
+    name: palm sugar
+    raw: 1 tablespoon palm sugar
+  - qty: 1
+    unit: tsp
+    name: chilli flakes
+    raw: 1 teaspoon dried chilli flakes
+  - qty: 200
+    unit: ml
+    name: the broth
+    raw: 200 ml of the broth
+  - qty: 500
+    unit: g
+    name: rice noodles or 300 g dried rice vermicelli
+    raw: 500 g fresh thick rice noodles OR 300 g dried rice vermicelli
+  - qty: 200
+    unit: g
+    name: bean sprouts
+    raw: 200 g fresh bean sprouts
+  - qty: 1
+    name: mint
+    raw: A large bunch fresh mint
+  - qty: 1
+    name: cilantro
+    raw: A large bunch fresh cilantro
+  - qty: 1
+    name: holy basil or thai basil
+    raw: A small bunch holy basil OR Thai basil
+  - qty: 4
+    name: red chillies
+    raw: 4 fresh red chillies, sliced
+  - qty: 2
+    name: shallots
+    raw: 2 shallots, sliced thin
+  - qty: 4
+    name: lime wedges
+    raw: 4 lime wedges
+  - qty: 1
+    name: bowl lao pickled mustard greens
+    raw: 1 small bowl Lao pickled mustard greens
+  - name: chilli flakes
+    raw: A small dish of chilli flakes
+  - name: roasted peanuts
+    raw: A small dish of crushed roasted peanuts

@@ -1,0 +1,123 @@
+prep: 35 minutes (plus 2-3 days fermenting the pork, OR use shortcut)
+cook: 30 minutes (rice balls)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+  - fish
+  - meat
+  - garlic
+tags:
+  - spicy
+  - snack
+  - meat
+  - fish
+  - pork
+  - eggs
+  - rice
+  - onion
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - butter
+  - nuts
+  - chili
+  - curry
+  - complex
+mentions:
+  - cuisine/jamaican/snacks/festival
+  - tutorials/cocktails/garnish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: lao sticky rice or jasmine rice
+    raw: 400 g cooked Lao sticky rice OR jasmine rice
+  - qty: 2
+    unit: tbsp
+    name: thai red curry paste
+    raw: 2 tablespoons Thai red curry paste
+  - qty: 1
+    name: lemongrass
+    raw: 1 stalk lemongrass , very finely chopped
+  - qty: 4
+    name: kaffir lime leaves
+    raw: 4 kaffir lime leaves, very finely sliced
+  - qty: 2
+    name: ginger
+    raw: 2 cm piece fresh ginger, finely grated
+  - qty: 1
+    name: egg
+    raw: 1 small egg, lightly beaten
+  - qty: 2
+    unit: tbsp
+    name: rice flour or cornflour
+    raw: 2 tablespoons rice flour OR cornflour
+  - qty: 0.25
+    name: /4 teaspoon salt
+    raw: 1/4 teaspoon salt
+  - qty: 1
+    unit: l
+    name: sunflower oil for deep-frying
+    raw: 1 litre sunflower oil for deep-frying
+  - qty: 200
+    unit: g
+    name: lao sai oua sausage
+    raw: 200 g cooked Lao sai oua sausage , sliced into 5 mm rounds
+  - qty: 2
+    unit: tbsp
+    name: lime juice
+    raw: 2 tablespoons fresh lime juice
+  - qty: 3
+    unit: tbsp
+    name: lime juice
+    raw: 3 tablespoons fresh lime juice
+  - qty: 3
+    unit: tbsp
+    name: fish sauce
+    raw: 3 tablespoons fish sauce
+  - qty: 1
+    unit: tbsp
+    name: palm sugar
+    raw: 1 tablespoon palm sugar
+  - qty: 1
+    unit: tbsp
+    name: padaek
+    raw: 1 tablespoon padaek
+  - qty: 4
+    name: shallots
+    raw: 4 shallots, sliced thin
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions, sliced thin
+  - qty: 3
+    name: red chillies
+    raw: 2-4 fresh red chillies, sliced thin
+  - qty: 1
+    name: mint leaves
+    raw: A large bunch fresh mint leaves
+  - qty: 1
+    name: cilantro
+    raw: A large bunch fresh cilantro
+  - qty: 1
+    name: culantro
+    raw: A small bunch culantro , chopped
+  - qty: 40
+    unit: g
+    name: toasted shredded unsweetened coconut
+    raw: 40 g toasted shredded unsweetened coconut
+  - qty: 80
+    unit: g
+    name: toasted crushed peanuts
+    raw: 80 g toasted crushed peanuts
+  - qty: 1
+    name: head of butter lettuce or iceberg lettuce
+    raw: 1 head of butter lettuce or iceberg lettuce
+  - name: herb
+    raw: A few extra fresh herb sprigs
+  - name: lime wedges
+    raw: Lime wedges
+  - name: glass of cold lao iced coffee or beerlao
+    raw: A glass of cold Lao iced coffee or Beerlao

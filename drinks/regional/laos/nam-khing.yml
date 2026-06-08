@@ -1,0 +1,52 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - ginger
+  - lime
+  - honey
+mentions:
+  - cuisine/thai/desserts/mango-sticky-rice
+ingredients:
+  - qty: 45
+    unit: g
+    name: ginger
+    raw: 40-50 g fresh ginger, peeled and thickly sliced
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 60
+    unit: g
+    name: palm sugar
+    raw: 60 g palm sugar
+  - qty: 0.25
+    name: /4 teaspoon fine sea salt
+    raw: 1/4 teaspoon fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 2
+    name: cloves
+    raw: 2 cloves
+  - qty: 4
+    name: black peppercorns
+    raw: 4 black peppercorns
+  - name: ceramic mugs
+    raw: Small ceramic mugs
+  - qty: 1
+    unit: small drizzle
+    name: honey
+    raw: A small drizzle of honey
+  - name: lime on top
+    raw: A thin slice of lime on top
+  - name: star anise pod for decoration
+    raw: A small star anise pod for decoration
