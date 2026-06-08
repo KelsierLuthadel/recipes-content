@@ -1,0 +1,87 @@
+prep: 15 minutes (plus overnight soaking the peas, or use canned)
+cook: 35 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - coconut
+  - chili
+  - complex
+mentions:
+  - cuisine/barbadian/bajan-fried-chicken
+  - cuisine/jamaican/jerk-chicken
+  - cuisine/jamaican/snacks/festival
+ingredients:
+  - qty: 200
+    unit: g
+    name: pigeon peas
+    raw: 200 g dried pigeon peas , soaked overnight in cold water
+  - name: or 1 × 400 g can pigeon peas
+    raw: OR 1 × 400 g can pigeon peas, drained
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, finely chopped
+  - qty: 1
+    name: thyme
+    raw: 1 small bunch fresh thyme, leaves picked
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 2
+    name: scallion
+    raw: 2 stalks scallion , white parts chopped, green parts reserved
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil or coconut oil
+    raw: 2 tablespoons sunflower oil OR coconut oil
+  - qty: 400
+    unit: g
+    name: long-grain white rice
+    raw: 400 g long-grain white rice
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml full-fat coconut milk
+  - qty: 400
+    unit: ml
+    name: pigeon-pea cooking broth
+    raw: 400 ml pigeon-pea cooking broth
+  - qty: 1
+    name: scotch bonnet or habanero pepper
+    raw: 1 whole Scotch bonnet OR habanero pepper
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1.5 teaspoons salt
+  - qty: 0.5
+    name: /2 teaspoon black pepper
+    raw: 1/2 teaspoon black pepper
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tablespoon dried thyme
+  - qty: 0.25
+    name: /4 teaspoon allspice
+    raw: 1/4 teaspoon allspice
+  - qty: 60
+    unit: g
+    name: salt pork or smoked bacon lardons
+    raw: 60 g salt pork or smoked bacon lardons
+  - name: green scallion tops
+    raw: Sliced green scallion tops
+  - name: black pepper
+    raw: A small grating of fresh black pepper

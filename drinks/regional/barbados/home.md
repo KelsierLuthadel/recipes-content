@@ -1,0 +1,5 @@
+# Drinks of Barbados
+
+![Drinks of Barbados](resources/hero.jpg)
+
+Barbados is the historical birthplace of rum - Mount Gay (founded 1703) is the world's oldest continuously-operated commercial rum distillery, and Cockspur, Foursquare, St. Nicholas Abbey and Plantation are all Bajan rum producers. The canonical Bajan cocktail is rum punch - dark Bajan rum + fresh lime + sugar + bitters + nutmeg + water - mixed in the legendary Bajan ratio "one of sour, two of sweet, three of strong, four of weak" (1 lime juice, 2 sugar, 3 rum, 4 water). Non-alcoholic counterparts are mauby (a slightly bitter infusion of mauby bark + cinnamon + cloves + sugar - sold from carts on every Bajan corner) and sorrel (the canonical Christmas drink - dried hibiscus + ginger + cloves + sugar + sometimes a splash of rum). Bajan coffee culture is moderate; tea culture (specifically strong black tea with milk, the British colonial inheritance) is universal at Bajan tea-time. Falernum (a Bajan-invented sweet syrup of lime + ginger + clove + almond + sugar) is the canonical Bajan cocktail mixer. Banks lager is the national beer, brewed in Barbados since 1961.

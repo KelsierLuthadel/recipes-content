@@ -1,0 +1,36 @@
+prep: 5 minutes
+cook: 12 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - meat
+  - chicken
+  - beef
+  - pork
+  - rice
+  - coconut
+mentions:
+  - cuisine/barbadian/bajan-fried-chicken
+  - cuisine/jamaican/jerk-chicken
+ingredients:
+  - qty: 4
+    name: very-ripe plantains
+    raw: 4 large very-ripe plantains
+  - name: about 5 tablespoons sunflower oil or coconut oil or rendered bacon fat
+    raw: About 5 tablespoons sunflower oil OR coconut oil OR rendered bacon fat
+  - name: sea salt
+    raw: Fine sea salt
+  - qty: 1
+    unit: small pinch
+    name: cinnamon
+    raw: A small pinch of ground cinnamon
+  - name: bajan stew chicken
+    raw: Bajan stew chicken, Bajan fried chicken, oxtail stew, jerk chicken, or any Caribbean main
+  - name: rice and peas
+    raw: Rice and peas
+  - name: macaroni pie
+    raw: Macaroni pie

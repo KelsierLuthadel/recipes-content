@@ -1,0 +1,117 @@
+prep: 45 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - snack
+  - make-ahead
+  - eggs
+  - ginger
+  - coconut
+  - potato
+  - lime
+  - butter
+  - nuts
+  - complex
+mentions:
+  - cuisine/jamaican/snacks/festival
+  - tutorials/cocktails/equipment
+ingredients:
+  - qty: 400
+    unit: g
+    name: yellow cornmeal
+    raw: 400 g yellow cornmeal
+  - qty: 300
+    unit: g
+    name: pumpkin or butternut squash
+    raw: 300 g pumpkin OR butternut squash, peeled and finely grated
+  - qty: 200
+    unit: g
+    name: sweet potato
+    raw: 200 g sweet potato, peeled and finely grated
+  - qty: 200
+    unit: g
+    name: coconut
+    raw: 200 g fresh grated coconut
+  - qty: 200
+    unit: g
+    name: soft dark brown sugar
+    raw: 200 g soft dark brown sugar
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter, melted
+  - qty: 300
+    unit: ml
+    name: coconut milk
+    raw: 300 ml coconut milk
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs, lightly beaten
+  - qty: 1
+    unit: tbsp
+    name: vanilla extract
+    raw: 1 tablespoon vanilla extract
+  - qty: 2
+    unit: tbsp
+    name: dark bajan rum
+    raw: 2 tablespoons dark Bajan rum
+  - qty: 100
+    unit: g
+    name: raisins
+    raw: 100 g raisins
+  - qty: 50
+    unit: g
+    name: sultanas
+    raw: 50 g sultanas
+  - qty: 50
+    unit: g
+    name: almonds or pecans
+    raw: 50 g chopped almonds OR pecans
+  - qty: 1
+    unit: tbsp
+    name: cinnamon
+    raw: 1 tablespoon ground cinnamon
+  - qty: 2
+    unit: tsp
+    name: nutmeg
+    raw: 2 teaspoons freshly grated nutmeg
+  - qty: 2
+    unit: tsp
+    name: mixed spice
+    raw: 2 teaspoons ground mixed spice
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon ground ginger
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tablespoon fresh thyme leaves
+  - name: zest of 1 lime
+    raw: Finely grated zest of 1 lime
+  - qty: 13.5
+    name: banana leaves
+    raw: 12-15 banana leaves
+  - name: kitchen string for tying
+    raw: Kitchen string for tying
+  - name: warm
+    raw: Warm, peeled out of the banana leaf
+  - name: bajan tea or mauby
+    raw: A cup of strong Bajan tea OR mauby
+  - qty: 1
+    unit: small drizzle
+    name: rum syrup
+    raw: A small drizzle of rum syrup

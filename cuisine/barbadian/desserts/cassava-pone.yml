@@ -1,0 +1,90 @@
+prep: 30 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - eggs
+  - coconut
+  - potato
+  - lime
+  - butter
+  - complex
+mentions:
+  - tutorials/cocktails/equipment
+  - tutorials/middle-eastern-fundamentals/spices
+ingredients:
+  - qty: 600
+    unit: g
+    name: cassava
+    raw: 600 g fresh cassava, peeled and finely grated - OR 500 g frozen grated cassava, defrosted, drained
+  - qty: 300
+    unit: g
+    name: sweet potato
+    raw: 300 g fresh sweet potato , peeled and finely grated
+  - qty: 200
+    unit: g
+    name: coconut
+    raw: 200 g fresh grated coconut
+  - qty: 100
+    unit: g
+    name: pumpkin or butternut squash
+    raw: 100 g pumpkin OR butternut squash, peeled and finely grated
+  - qty: 300
+    unit: g
+    name: soft dark brown sugar
+    raw: 300 g soft dark brown sugar
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter, melted
+  - qty: 200
+    unit: ml
+    name: coconut milk
+    raw: 200 ml coconut milk
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs, lightly beaten
+  - qty: 1
+    unit: tbsp
+    name: vanilla extract
+    raw: 1 tablespoon vanilla extract
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 teaspoons ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 teaspoon freshly grated nutmeg
+  - qty: 1
+    unit: tsp
+    name: mixed spice
+    raw: 1 teaspoon ground mixed spice
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: zest of 1 lime
+    raw: Finely grated zest of 1 lime
+  - qty: 50
+    unit: g
+    name: raisins
+    raw: 50 g raisins
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter, in small dabs
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon, for dusting
+  - name: bajan tea
+    raw: A cup of strong Bajan tea
+  - name: glass of cold cocoa milk
+    raw: A glass of cold cocoa milk
+  - name: vanilla ice cream
+    raw: A scoop of vanilla ice cream

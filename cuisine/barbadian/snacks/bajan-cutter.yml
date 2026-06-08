@@ -1,0 +1,101 @@
+prep: 15 minutes (excluding bread-baking if making from scratch)
+cook: 5 minutes (for warming the rolls and assembling)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - meat
+  - mustard
+tags:
+  - spicy
+  - quick
+  - snack
+  - make-ahead
+  - meat
+  - fish
+  - beef
+  - pork
+  - eggs
+  - onion
+  - tomato
+  - cheese
+  - chili
+  - complex
+mentions:
+  - drinks/cocktails/rum-punch
+  - drinks/regional/barbados/bajan-rum-punch
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 4
+    name: bajan salt-bread rolls or small soft white bread rolls
+    raw: 4 fresh Bajan salt-bread rolls OR small soft white bread rolls
+  - qty: 4
+    name: bajan fish cakes - 2 per cutter
+    raw: 4 fresh Bajan fish cakes - 2 per cutter
+  - name: or 4 small fried flying fish fillets
+    raw: OR 4 small fried flying fish fillets
+  - name: or 4 small pieces of breaded fried fish
+    raw: OR 4 small pieces of breaded fried fish
+  - qty: 4
+    name: bajan cooked ham
+    raw: 4 slices Bajan cooked ham
+  - qty: 4
+    name: bajan cheddar or a bajan-style processed cheese
+    raw: 4 slices mature Bajan cheddar OR a Bajan-style processed cheese
+  - qty: 200
+    unit: g
+    name: bajan corned beef or thinly sliced cold roast beef
+    raw: 200 g cooked Bajan corned beef OR thinly sliced cold roast beef
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs, fried
+  - qty: 1
+    unit: pinch
+    name: salt and pepper per egg
+    raw: A pinch of salt and pepper per egg
+  - qty: 1
+    name: tuna in olive oil
+    raw: 1 large tin tuna in olive oil, drained and flaked
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tablespoons mayonnaise
+  - qty: 1
+    name: onion
+    raw: 1 small finely chopped onion
+  - qty: 1
+    name: scallion
+    raw: 1 stalk scallion, sliced
+  - qty: 1
+    unit: tbsp
+    name: bajan pepper sauce
+    raw: 1 tablespoon Bajan pepper sauce
+  - qty: 4
+    unit: tsp
+    name: bajan pepper sauce
+    raw: 4 teaspoons Bajan pepper sauce
+  - qty: 2
+    unit: tbsp
+    name: prepared yellow mustard
+    raw: 2 tablespoons prepared yellow mustard
+  - name: "optional: 2 tablespoons mayonnaise"
+    raw: "Optional: 2 tablespoons mayonnaise"
+  - qty: 8
+    name: tomato
+    raw: 8 slices of fresh tomato
+  - qty: 1
+    unit: small handful
+    name: shredded iceberg lettuce
+    raw: A small handful of shredded iceberg lettuce
+  - qty: 8
+    name: cucumber
+    raw: 8 slices of cucumber
+  - name: pepper sauce
+    raw: A small dish of extra pepper sauce
+  - name: cold banks lager or a bajan rum punch
+    raw: A cold Banks lager OR a Bajan rum punch
+  - qty: 1
+    unit: handful
+    name: plantain chips on the side
+    raw: A handful of plantain chips on the side

@@ -1,0 +1,140 @@
+prep: 25 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - fish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - fish
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - butter
+  - chili
+  - complex
+mentions:
+  - cuisine/nigerian/side-dishes/fufu
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 2
+    name: green onions / scallions
+    raw: 2 large bunches green onions / scallions , chopped
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch parsley, chopped
+  - qty: 1
+    name: thyme
+    raw: 1 small bunch fresh thyme, leaves picked
+  - qty: 1
+    name: chives
+    raw: 1 small bunch fresh chives, chopped
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic
+  - qty: 1
+    name: scotch bonnet or habanero chilli
+    raw: 1 Scotch bonnet OR habanero chilli, deseeded
+  - qty: 1
+    unit: tbsp
+    name: black pepper
+    raw: 1 tablespoon black pepper
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil or olive oil
+    raw: 2 tablespoons sunflower oil OR olive oil
+  - qty: 2
+    unit: tbsp
+    name: lime juice
+    raw: 2 tablespoons fresh lime juice
+  - qty: 250
+    unit: g
+    name: yellow cornmeal
+    raw: 250 g yellow cornmeal
+  - qty: 200
+    unit: g
+    name: okra
+    raw: 200 g fresh okra, sliced into 4 mm rounds
+  - qty: 1
+    unit: l
+    name: water + extra for adjusting
+    raw: 1 litre water + extra for adjusting
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - name: cou-cou stick / wooden paddle / sturdy wooden spoon
+    raw: A cou-cou stick / wooden paddle / sturdy wooden spoon
+  - qty: 4
+    name: flying-fish fillets - sold at bajan / caribbean markets
+    raw: 4 large flying-fish fillets - sold at Bajan / Caribbean markets, frozen in some specialty shops
+  - name: or 8 small whole sardines
+    raw: OR 8 small whole sardines, gutted
+  - name: or 4 small mackerel fillets
+    raw: OR 4 small mackerel fillets
+  - qty: 3
+    unit: tbsp
+    name: bajan green seasoning
+    raw: 3 tablespoons Bajan green seasoning
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 0.5
+    name: /2 teaspoon salt
+    raw: 1/2 teaspoon salt
+  - qty: 0.5
+    name: /2 teaspoon black pepper
+    raw: 1/2 teaspoon black pepper
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 1
+    name: onion
+    raw: 1 medium onion, finely chopped
+  - qty: 1
+    name: green bell pepper
+    raw: 1 medium green bell pepper, finely chopped
+  - qty: 1
+    name: tomato
+    raw: 1 medium tomato, chopped
+  - qty: 2
+    unit: tbsp
+    name: bajan green seasoning
+    raw: 2 tablespoons Bajan green seasoning
+  - qty: 1
+    name: scotch bonnet pepper
+    raw: 1 small Scotch bonnet pepper, finely chopped
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon dried thyme
+  - qty: 1
+    unit: tbsp
+    name: tomato ketchup
+    raw: 1 tablespoon tomato ketchup
+  - qty: 250
+    unit: ml
+    name: fish stock or water
+    raw: 250 ml fish stock OR water
+  - name: salt and pepper
+    raw: Salt and pepper
+  - name: lime wedges
+    raw: Lime wedges
+  - name: bajan pepper sauce for those who want extra heat
+    raw: A small dish of Bajan pepper sauce for those who want extra heat
+  - name: cold caribbean lager or a glass of cold mauby
+    raw: A cold Caribbean lager OR a glass of cold mauby

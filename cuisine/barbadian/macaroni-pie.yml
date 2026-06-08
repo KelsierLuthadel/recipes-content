@@ -1,0 +1,101 @@
+prep: 25 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - meat
+  - mustard
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - chicken
+  - eggs
+  - rice
+  - onion
+  - butter
+  - cheese
+  - chili
+  - complex
+mentions:
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/cocktails/equipment
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: elbow macaroni
+    raw: 500 g dried elbow macaroni
+  - qty: 1
+    unit: tsp
+    name: salt for the pasta water
+    raw: 1 teaspoon salt for the pasta water
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 800
+    unit: ml
+    name: milk
+    raw: 800 ml whole milk, warmed
+  - qty: 200
+    unit: ml
+    name: evaporated milk
+    raw: 200 ml evaporated milk
+  - qty: 400
+    unit: g
+    name: caribbean-style or extra-mature cheddar
+    raw: 400 g mature Caribbean-style or extra-mature cheddar, grated
+  - qty: 100
+    unit: g
+    name: processed cheese
+    raw: 100 g processed cheese
+  - qty: 3
+    unit: tbsp
+    name: prepared yellow mustard
+    raw: 3 tablespoons prepared yellow mustard
+  - qty: 1
+    unit: tsp
+    name: dry mustard powder
+    raw: 1 teaspoon dry mustard powder
+  - qty: 2
+    unit: tbsp
+    name: bajan green seasoning
+    raw: 2 tablespoons Bajan green seasoning
+  - qty: 1
+    name: scotch bonnet pepper
+    raw: 1 small Scotch bonnet pepper, very finely chopped
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 1
+    name: green bell pepper
+    raw: 1 small green bell pepper, finely chopped
+  - qty: 0.25
+    name: /4 teaspoon ground nutmeg
+    raw: 1/4 teaspoon ground nutmeg
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs, lightly beaten
+  - name: salt and white pepper
+    raw: Salt and white pepper to taste
+  - qty: 80
+    unit: g
+    name: cheddar
+    raw: 80 g grated mature cheddar
+  - qty: 2
+    unit: tbsp
+    name: unsalted butter
+    raw: 2 tablespoons unsalted butter, in small dabs
+  - name: goes alongside bajan stew chicken
+    raw: Goes alongside Bajan stew chicken, fried chicken, rice and peas, fried plantain.
+  - name: cold banks lager or a glass of sorrel or mauby.
+    raw: Cold Banks lager OR a glass of sorrel or mauby.

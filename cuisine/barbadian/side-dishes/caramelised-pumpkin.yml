@@ -1,0 +1,96 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - soy
+  - fish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - meat
+  - fish
+  - chicken
+  - pork
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - butter
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/jamaican/jerk-chicken
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: caribbean calabaza pumpkin or butternut squash
+    raw: 1 kg Caribbean calabaza pumpkin OR butternut squash, peeled, deseeded, cubed into 3 cm chunks
+  - qty: 2
+    unit: tbsp
+    name: unsalted butter
+    raw: 2 tablespoons unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: sunflower oil
+    raw: 1 tablespoon sunflower oil
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, finely chopped
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon fresh ginger, finely grated
+  - qty: 1
+    name: scotch bonnet or habanero pepper
+    raw: 1 small Scotch bonnet OR habanero pepper, deseeded and very finely chopped
+  - qty: 3
+    unit: tbsp
+    name: soft dark brown sugar
+    raw: 3 tablespoons soft dark brown sugar
+  - qty: 200
+    unit: ml
+    name: coconut milk
+    raw: 200 ml coconut milk
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce
+    raw: 1 tablespoon dark soy sauce
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tablespoon fresh thyme leaves
+  - qty: 0.25
+    name: /4 teaspoon ground allspice
+    raw: 1/4 teaspoon ground allspice
+  - qty: 0.25
+    name: /4 teaspoon ground cinnamon
+    raw: 1/4 teaspoon ground cinnamon
+  - qty: 0.5
+    name: /2 teaspoon salt
+    raw: 1/2 teaspoon salt
+  - qty: 0.5
+    name: /2 teaspoon black pepper
+    raw: 1/2 teaspoon black pepper
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 2
+    name: scallion
+    raw: 2 stalks scallion, sliced thin
+  - name: nutmeg
+    raw: A small grating of fresh nutmeg
+  - name: goes alongside bajan stew chicken
+    raw: Goes alongside Bajan stew chicken, fried fish, Sunday roast pork, grilled chicken, or any Bajan main.
