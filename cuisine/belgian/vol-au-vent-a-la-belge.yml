@@ -1,0 +1,152 @@
+prep: 40 minutes
+cook: 1 hour 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+  - celery
+tags:
+  - meals
+  - meat
+  - chicken
+  - beef
+  - pork
+  - eggs
+  - mushroom
+  - onion
+  - potato
+  - carrot
+  - lemon
+  - butter
+  - cream
+  - nuts
+  - complex
+mentions:
+  - cuisine/thai/starters/pork-meatballs
+  - sauces/sauce-fish/veloute-sauce
+  - tutorials/cocktails/garnish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    name: free-range chicken - poach the whole bird then strip; or 800 g boneless skinless chicken thighs
+    raw: 1 free-range chicken - poach the whole bird then strip; or 800 g boneless skinless chicken thighs
+  - qty: 1.2
+    unit: l
+    name: chicken stock
+    raw: 1.2 litres good chicken stock
+  - qty: 1
+    name: leek
+    raw: 1 leek , washed
+  - qty: 1
+    name: carrot
+    raw: 1 carrot
+  - qty: 1
+    unit: stick
+    name: celery
+    raw: 1 stick celery
+  - qty: 1
+    name: onion
+    raw: 1 onion, halved with 2 cloves stuck in
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 6
+    name: black peppercorns
+    raw: 6 black peppercorns
+  - qty: 250
+    unit: g
+    name: veal or minced pork or a mix
+    raw: 250 g minced veal OR minced pork OR a mix
+  - qty: 250
+    unit: g
+    name: beef
+    raw: 250 g minced beef
+  - qty: 1
+    name: onion
+    raw: 1 small onion, very finely chopped
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 60
+    unit: ml
+    name: milk
+    raw: 60 ml whole milk
+  - qty: 60
+    unit: g
+    name: white breadcrumbs
+    raw: 60 g fresh white breadcrumbs
+  - qty: 1
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 1 tablespoon chopped flat-leaf parsley
+  - qty: 0.25
+    name: /4 teaspoon grated nutmeg
+    raw: 1/4 teaspoon grated nutmeg
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    name: /2 teaspoon black pepper
+    raw: 1/2 teaspoon black pepper
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 400
+    unit: g
+    name: button or chestnut mushrooms
+    raw: 400 g button or chestnut mushrooms, halved or quartered
+  - qty: 40
+    unit: g
+    name: unsalted butter
+    raw: 40 g unsalted butter
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 60
+    unit: g
+    name: plain flour
+    raw: 60 g plain flour
+  - qty: 800
+    unit: ml
+    name: strained chicken poaching liquid
+    raw: 800 ml strained chicken poaching liquid
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 3
+    name: egg yolks
+    raw: 3 large egg yolks
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - name: salt
+    raw: Salt, white pepper, grated nutmeg
+  - qty: 6
+    name: bought puff-pastry vol-au-vent shells
+    raw: 6 large bought puff-pastry vol-au-vent shells , warmed
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch flat-leaf parsley, chopped
+  - qty: 1
+    name: batch belgian frites or 800 g small boiled new potatoes
+    raw: 1 batch Belgian frites OR 800 g small boiled new potatoes
+  - qty: 6
+    name: lemon wedges
+    raw: 6 lemon wedges
+  - name: glass of dry white wine or a belgian witbier
+    raw: A glass of dry white wine OR a Belgian witbier

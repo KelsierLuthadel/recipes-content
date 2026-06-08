@@ -1,0 +1,89 @@
+prep: 25 minutes
+cook: 3 hours
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - potato
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: beef chuck or shin
+    raw: 1.5 kg beef chuck or shin, cut into 4 cm cubes
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - qty: 4
+    unit: tbsp
+    name: beef tallow or unsalted butter
+    raw: 4 tablespoons beef tallow OR unsalted butter
+  - qty: 4
+    name: yellow onions
+    raw: 4 large yellow onions, halved and sliced thin
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, finely chopped
+  - qty: 500
+    unit: ml
+    name: dark belgian abbey ale
+    raw: 500 ml dark Belgian abbey ale
+  - qty: 300
+    unit: ml
+    name: beef stock
+    raw: 300 ml beef stock
+  - qty: 2
+    unit: tbsp
+    name: soft dark brown sugar or 1 tablespoon brown sugar + 1 tablespoon belgian dark candi sugar
+    raw: 2 tablespoons soft dark brown sugar OR 1 tablespoon brown sugar + 1 tablespoon Belgian dark candi sugar
+  - qty: 2
+    unit: tbsp
+    name: red wine vinegar or cider vinegar
+    raw: 2 tablespoons red wine vinegar OR cider vinegar
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon dried thyme
+  - name: salt and black pepper
+    raw: Salt and black pepper
+  - qty: 1
+    name: country bread
+    raw: 1 thick slice of country bread
+  - qty: 2
+    unit: tbsp
+    name: grainy dijon mustard
+    raw: 2 tablespoons grainy Dijon mustard
+  - qty: 1
+    name: batch belgian frites or 800 g boiled new potatoes
+    raw: 1 batch Belgian frites OR 800 g boiled new potatoes
+  - name: cold lager or the same dubbel used in the stew
+    raw: Cold lager or the same dubbel used in the stew

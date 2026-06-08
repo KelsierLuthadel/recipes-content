@@ -1,0 +1,90 @@
+prep: 25 minutes
+cook: None (raw)
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - snack
+  - no-cook
+  - meat
+  - beef
+  - eggs
+  - onion
+  - lemon
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: beef fillet or top-cut rump
+    raw: 400 g lean beef fillet OR top-cut rump
+  - name: use beef from a butcher you trust
+    raw: Use beef from a butcher you trust, the same day if possible
+  - qty: 2
+    name: egg yolks
+    raw: 2 large egg yolks
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 2
+    unit: tsp
+    name: white wine vinegar
+    raw: 2 teaspoons white wine vinegar
+  - qty: 120
+    unit: ml
+    name: neutral oil
+    raw: 120 ml neutral oil
+  - qty: 1
+    unit: tbsp
+    name: mayonnaise
+    raw: 1 tablespoon mayonnaise
+  - qty: 1
+    name: shallot
+    raw: 1 small shallot, very finely chopped
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tablespoons capers, finely chopped
+  - qty: 4
+    name: cornichons
+    raw: 4 cornichons , very finely chopped
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons chopped flat-leaf parsley
+  - qty: 1
+    unit: tbsp
+    name: chives
+    raw: 1 tablespoon chopped chives
+  - qty: 1
+    unit: tsp
+    name: worcestershire sauce
+    raw: 1 teaspoon Worcestershire sauce
+  - qty: 0.5
+    name: /2 teaspoon tabasco
+    raw: 1/2 teaspoon Tabasco
+  - qty: 1
+    unit: tsp
+    name: ketchup
+    raw: 1 teaspoon ketchup
+  - qty: 0.5
+    name: /2 teaspoon salt
+    raw: 1/2 teaspoon salt
+  - name: black pepper
+    raw: A generous grind of black pepper
+  - qty: 8
+    name: dark belgian rye bread or a small fresh baguette
+    raw: 8 slices dark Belgian rye bread OR a small fresh baguette, sliced
+  - name: salad leaves
+    raw: A few salad leaves
+  - name: lemon wedge per person
+    raw: A lemon wedge per person
+  - name: "optional: a small mound of belgian frites alongside"
+    raw: "Optional: a small mound of Belgian frites alongside"

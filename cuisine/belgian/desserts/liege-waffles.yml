@@ -1,0 +1,62 @@
+prep: 25 minutes (plus 90 minutes for the dough to rise)
+cook: 4 minutes per waffle
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - chocolate
+  - complex
+mentions:
+  - sauces/sauce-sweet/chocolate-sauce
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: white bread flour
+    raw: 500 g strong white bread flour
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 7
+    unit: g
+    name: instant dry yeast
+    raw: 7 g instant dry yeast
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs , at room temperature
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk, lukewarm
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter, soft , in 2 cm cubes
+  - qty: 200
+    unit: g
+    name: pearl sugar
+    raw: 200 g pearl sugar
+  - qty: 1
+    unit: tbsp
+    name: neutral oil or melted butter
+    raw: 1 tablespoon neutral oil or melted butter
+  - name: hot plain. the liege purist eats them as is.
+    raw: Hot, plain. The Liège purist eats them as is.
+  - name: "optional brussels-style additions: a dusting of icing sugar"
+    raw: "Optional Brussels-style additions: a dusting of icing sugar, a dollop of whipped cream, sliced strawberries, hot Belgian chocolate sauce."

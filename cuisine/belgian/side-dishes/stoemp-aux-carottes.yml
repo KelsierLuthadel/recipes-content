@@ -1,0 +1,59 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - sides
+  - meat
+  - pork
+  - onion
+  - potato
+  - carrot
+  - butter
+  - cream
+mentions: []
+ingredients:
+  - qty: 800
+    unit: g
+    name: floury potatoes
+    raw: 800 g floury potatoes , peeled and cut into 4 cm chunks
+  - qty: 600
+    unit: g
+    name: carrots
+    raw: 600 g carrots, peeled and cut into 5 mm dice
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk, warm
+  - qty: 60
+    unit: ml
+    name: double cream
+    raw: 60 ml double cream
+  - name: salt and white pepper
+    raw: Salt and white pepper
+  - qty: 0.5
+    name: /2 teaspoon grated nutmeg
+    raw: 1/2 teaspoon grated nutmeg
+  - qty: 2
+    unit: sprig
+    name: thyme
+    raw: 2 sprigs fresh thyme, leaves picked
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons chopped flat-leaf parsley
+  - qty: 20
+    unit: g
+    name: cold unsalted butter
+    raw: 20 g cold unsalted butter, cubed
+  - name: goes alongside boudin noir
+    raw: Goes alongside boudin noir , grilled bratwurst, slow-roast pork belly, or as part of a Belgian Sunday lunch plate.

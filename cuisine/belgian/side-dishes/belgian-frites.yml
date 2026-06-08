@@ -1,0 +1,38 @@
+prep: 20 minutes (plus 30 minutes resting between fries)
+cook: 25 minutes (split over two fries)
+allergens:
+  - peanuts
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - sides
+  - meat
+  - beef
+  - potato
+mentions:
+  - cuisine/belgian/carbonnade-flamande
+  - cuisine/belgian/moules-frites
+  - tutorials/cocktails/equipment
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: floury potatoes
+    raw: 1.5 kg floury potatoes
+  - qty: 1.5
+    unit: kg
+    name: rendered beef tallow - the canonical fat
+    raw: 1.5 kg rendered beef tallow - the canonical fat
+  - name: or 2 litres refined sunflower or groundnut oil
+    raw: OR 2 litres refined sunflower or groundnut oil
+  - name: sea salt
+    raw: Fine sea salt
+  - qty: 1
+    name: batch homemade mayonnaise or shop mayo
+    raw: 1 batch homemade mayonnaise OR shop mayo
+  - name: "choice of frituur sauces: andalouse"
+    raw: "A choice of frituur sauces: andalouse, samouraï, brasil, tartare"
+  - qty: 4
+    name: paper cones or 4 small wide bowls
+    raw: 4 paper cones OR 4 small wide bowls

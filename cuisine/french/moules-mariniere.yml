@@ -16,7 +16,8 @@ tags:
   - cream
   - valentines
   - tu-bav
-mentions: []
+mentions:
+  - cuisine/belgian/moules-frites
 ingredients:
   - qty: 2
     unit: kg

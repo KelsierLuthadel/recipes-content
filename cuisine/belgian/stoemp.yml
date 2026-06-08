@@ -1,0 +1,63 @@
+prep: 20 minutes
+cook: 40 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - potato
+  - butter
+  - cream
+mentions:
+  - cuisine/belgian/side-dishes/stoemp-aux-carottes
+  - tutorials/pizza/toppings
+ingredients:
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes , peeled and cut into 4 cm chunks
+  - qty: 2
+    name: leeks
+    raw: 2 large leeks , washed thoroughly and sliced thin
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 120
+    unit: ml
+    name: milk
+    raw: 120 ml whole milk, warm
+  - qty: 80
+    unit: ml
+    name: double cream
+    raw: 80 ml double cream
+  - name: salt and white pepper
+    raw: Salt and white pepper
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: Pinch of grated nutmeg
+  - qty: 4
+    name: smoked sausages - about 600 g total
+    raw: 4 good smoked sausages - about 600 g total
+  - qty: 200
+    unit: g
+    name: smoked bacon lardons
+    raw: 200 g smoked bacon lardons
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - name: dijon mustard
+    raw: Strong Dijon mustard
+  - name: cold belgian lager or a witbier
+    raw: Cold Belgian lager OR a witbier

@@ -1,0 +1,49 @@
+prep: 30 minutes (active work)
+cook: 20 minutes (plus 4 days of moulding rest)
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - dessert
+  - lemon
+mentions:
+  - tutorials/cocktails/equipment
+ingredients:
+  - qty: 400
+    unit: g
+    name: granulated sugar
+    raw: 400 g granulated sugar
+  - qty: 100
+    unit: g
+    name: liquid glucose
+    raw: 100 g liquid glucose
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 50
+    unit: g
+    name: gum arabic powder
+    raw: 50 g gum arabic powder
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml cold water
+  - qty: 30
+    unit: ml
+    name: raspberry puree
+    raw: 30 ml raspberry purée
+  - qty: 1
+    unit: tbsp
+    name: raspberry essence or 2 tablespoons concentrated raspberry syrup
+    raw: 1 tablespoon raspberry essence OR 2 tablespoons concentrated raspberry syrup
+  - name: red-purple food colouring
+    raw: Red-purple food colouring
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - name: caster sugar for light dusting
+    raw: Caster sugar for light dusting

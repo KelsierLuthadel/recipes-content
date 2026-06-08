@@ -1,0 +1,58 @@
+prep: 1 hour 30 minutes (active work)
+cook: 30 minutes (plus 4-6 hours setting time)
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - snack
+  - butter
+  - cream
+  - chocolate
+  - nuts
+  - complex
+mentions:
+  - cuisine/new-orleans/pralines
+  - tutorials/cocktails/equipment
+ingredients:
+  - qty: 600
+    unit: g
+    name: belgian dark couverture chocolate - chopped or in callets
+    raw: 600 g good Belgian dark couverture chocolate - chopped or in callets
+  - qty: 150
+    unit: g
+    name: dark couverture chocolate
+    raw: 150 g dark couverture chocolate , chopped
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 20
+    unit: g
+    name: unsalted butter
+    raw: 20 g unsalted butter
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 150
+    unit: g
+    name: hazelnuts
+    raw: 150 g whole hazelnuts
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 30
+    unit: g
+    name: milk chocolate
+    raw: 30 g milk chocolate, melted
+  - qty: 1
+    unit: pinch
+    name: fleur de sel for the dark ganache pralines
+    raw: A pinch of fleur de sel for the dark ganache pralines
+  - name: roasted hazelnuts for decoration
+    raw: A few crushed roasted hazelnuts for decoration
+  - name: edible gold leaf for celebration boxes
+    raw: Edible gold leaf for celebration boxes

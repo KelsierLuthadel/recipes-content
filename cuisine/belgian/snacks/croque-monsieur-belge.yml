@@ -1,0 +1,88 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+tags:
+  - quick
+  - snack
+  - meat
+  - pork
+  - lemon
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/bread/bloomer
+ingredients:
+  - qty: 4
+    name: white bread - pain de mie
+    raw: 4 thick slices of good white bread - pain de mie, brioche tranche, or a sturdy white bloomer
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter, soft
+  - qty: 4
+    name: belgian ardennes ham or good cooked jambon d'ardenne
+    raw: 4 slices Belgian Ardennes ham OR good cooked jambon d'Ardenne
+  - qty: 80
+    unit: g
+    name: gruyere
+    raw: 80 g Gruyère, finely grated
+  - qty: 80
+    unit: g
+    name: emmental
+    raw: 80 g Emmental, finely grated
+  - qty: 30
+    unit: g
+    name: bruges vieux or aged gouda
+    raw: 30 g Bruges Vieux OR aged Gouda, finely grated
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: A pinch of grated nutmeg
+  - name: black pepper
+    raw: A small grating of black pepper
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 30
+    unit: g
+    name: plain flour
+    raw: 30 g plain flour
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk, warm
+  - qty: 0.5
+    name: /2 teaspoon salt
+    raw: 1/2 teaspoon salt
+  - qty: 0.25
+    name: /4 teaspoon white pepper
+    raw: 1/4 teaspoon white pepper
+  - qty: 0.25
+    name: /4 teaspoon grated nutmeg
+    raw: 1/4 teaspoon grated nutmeg
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 40
+    unit: g
+    name: gruyere
+    raw: 40 g Gruyère, finely grated
+  - qty: 40
+    unit: g
+    name: emmental
+    raw: 40 g Emmental, finely grated
+  - name: green salad with a lemon-dijon vinaigrette
+    raw: A small green salad with a lemon-Dijon vinaigrette
+  - qty: 1
+    unit: handful
+    name: belgian frites or a few cornichons
+    raw: A handful of Belgian frites OR a few cornichons
+  - name: cold belgian lager or a witbier
+    raw: A cold Belgian lager OR a witbier

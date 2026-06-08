@@ -1,0 +1,78 @@
+prep: 25 minutes
+cook: 12 minutes (plus frites time)
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - meat
+  - celery
+  - garlic
+tags:
+  - meals
+  - meat
+  - fish
+  - beef
+  - onion
+  - garlic
+  - lemon
+  - butter
+  - complex
+mentions:
+  - cuisine/french/moules-mariniere
+  - cuisine/jamaican/snacks/festival
+ingredients:
+  - qty: 2
+    unit: kg
+    name: live mussels
+    raw: 2 kg live mussels
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 3
+    name: shallots
+    raw: 3 large shallots, finely chopped
+  - qty: 2
+    name: celery
+    raw: 2 stalks celery , finely diced
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, finely chopped
+  - qty: 1
+    name: flat-leaf parsley - stalks chopped fine
+    raw: 1 small bunch fresh flat-leaf parsley - stalks chopped fine, leaves chopped and reserved for finishing
+  - qty: 250
+    unit: ml
+    name: dry white wine
+    raw: 250 ml dry white wine
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - name: black pepper
+    raw: Black pepper
+  - qty: 30
+    unit: g
+    name: cold unsalted butter
+    raw: 30 g cold unsalted butter, cubed
+  - name: reserved chopped parsley leaves
+    raw: Reserved chopped parsley leaves
+  - qty: 1
+    name: batch belgian frites - twice-fried in beef tallow ideally
+    raw: 1 batch Belgian frites - twice-fried in beef tallow ideally
+  - qty: 1
+    name: bowl mayonnaise
+    raw: 1 small bowl mayonnaise
+  - qty: 1
+    name: lemon
+    raw: 1 lemon, cut into wedges
+  - qty: 4
+    name: bowls for empty shells
+    raw: 4 small bowls for empty shells
+  - qty: 1
+    name: cold belgian witbier or dry white wine
+    raw: 1 bottle cold Belgian witbier OR dry white wine
