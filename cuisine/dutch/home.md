@@ -1,0 +1,5 @@
+# Dutch Cuisine
+
+![Dutch Cuisine](resources/hero.jpg)
+
+The Netherlands' working table is built around stamppot (the canonical winter dinner of floury potatoes mashed with a green or root vegetable - kale for boerenkool, carrot-and-onion for hutspot, sauerkraut for zuurkoolstamppot - and topped with smoked rookworst sausage), erwtensoep (the green pea soup so thick a spoon stands in it, eaten in December and January from a steaming bowl with smoked sausage and rye bread), hachee (the deep slow-cooked beef-and-onion stew with apple-vinegar sourness from the Indonesian-influenced spice rack), and the snack stand-bys - bitterballen and kroketten deep-fried with hot mustard, raw haring eaten by the tail at the herring stall. Sweet things lean to oliebollen (New Year's Eve fried doughnuts), stroopwafels (caramel-syrup-filled thin waffles), and Limburg vlaai (the regional fruit tart). The country's deep coffee-and-tea ritual, the Indonesian-influenced rijsttafel tradition from the colonial era, and the famous Dutch cheese tradition (Gouda, Edam, Maasdam) fill the rest of the daily plate.

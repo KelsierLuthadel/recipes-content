@@ -1,0 +1,122 @@
+prep: 25 minutes (plus 15 minutes resting between fries)
+cook: 30 minutes
+allergens:
+  - dairy
+  - eggs
+  - peanuts
+  - soy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - sides
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - potato
+  - lemon
+  - lime
+  - coriander
+  - butter
+  - nuts
+  - chili
+  - soy-sauce
+  - curry
+  - complex
+mentions:
+  - sauces/sauce-meat/satay-sauce
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: floury potatoes
+    raw: 1.2 kg floury potatoes , cut to 1.2 cm × 1.2 cm × 7-9 cm batons
+  - qty: 2
+    unit: l
+    name: sunflower or groundnut oil
+    raw: 2 litres sunflower or groundnut oil for frying
+  - name: sea salt
+    raw: Fine sea salt
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar or cider vinegar
+    raw: 1 tablespoon white wine vinegar OR cider vinegar
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 200
+    unit: ml
+    name: sunflower oil
+    raw: 200 ml sunflower oil
+  - qty: 1
+    unit: tsp
+    name: lemon juice
+    raw: 1 teaspoon lemon juice
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tablespoon water
+  - qty: 4
+    unit: tbsp
+    name: crunchy peanut butter
+    raw: 4 tablespoons crunchy peanut butter
+  - qty: 2
+    unit: tbsp
+    name: sweet soy sauce
+    raw: 2 tablespoons sweet soy sauce
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon lime juice
+  - qty: 1
+    unit: clove
+    name: garlic
+    raw: 1 clove garlic, finely grated
+  - qty: 0.5
+    name: /2 teaspoon sambal oelek or sriracha
+    raw: 1/2 teaspoon sambal oelek OR sriracha
+  - qty: 0.25
+    name: /4 teaspoon ground coriander
+    raw: 1/4 teaspoon ground coriander
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml warm water
+  - name: the frites
+    raw: The frites
+  - qty: 4
+    unit: tbsp
+    name: fritessaus
+    raw: 4 tablespoons fritessaus
+  - qty: 4
+    unit: tbsp
+    name: warm satay sauce
+    raw: 4 tablespoons warm satay sauce
+  - qty: 1
+    name: onion
+    raw: 1 small raw onion, very finely chopped
+  - name: curry mayo
+    raw: Curry mayo
+  - name: knoflooksaus
+    raw: Knoflooksaus
+  - name: joppiesaus
+    raw: Joppiesaus
+  - name: sambal mayo
+    raw: Sambal mayo

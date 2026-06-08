@@ -1,0 +1,46 @@
+prep: 5 minutes
+cook: 5 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+mentions:
+  - cuisine/scottish/snacks/shortbread
+  - drinks/hot/london-fog
+  - tutorials/cocktails/equipment
+ingredients:
+  - qty: 1
+    name: earl grey tea bag or 1 tablespoon loose-leaf earl grey
+    raw: 1 Earl Grey tea bag OR 1 tablespoon loose-leaf Earl Grey
+  - qty: 200
+    unit: ml
+    name: boiled water
+    raw: 200 ml freshly boiled water
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 2
+    unit: tsp
+    name: vanilla syrup
+    raw: 2 teaspoons vanilla syrup
+  - name: "optional: a small lavender bud or 2 drops of lavender extract"
+    raw: "Optional: a small lavender bud or 2 drops of lavender extract"
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod, split lengthways and seeds scraped
+  - name: biscuit
+    raw: A small biscuit
+  - name: pot of extra vanilla syrup for those who want it sweeter
+    raw: A tiny pot of extra vanilla syrup for those who want it sweeter

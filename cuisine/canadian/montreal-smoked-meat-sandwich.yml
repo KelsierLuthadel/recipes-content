@@ -1,0 +1,104 @@
+prep: 30 minutes (active)
+cook: 10 days curing + 4 hours smoking + 4 hours steaming
+allergens:
+  - gluten
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - coriander
+  - honey
+  - complex
+mentions:
+  - cuisine/canadian/poutine
+ingredients:
+  - qty: 1
+    name: "\"plate\" or point-cut brisket"
+    raw: 1 whole "plate" or point-cut brisket, about 2.5 kg, with the fat cap mostly intact
+  - qty: 80
+    unit: g
+    name: kosher salt
+    raw: 80 g coarse kosher salt
+  - qty: 30
+    unit: g
+    name: granulated sugar
+    raw: 30 g granulated sugar
+  - qty: 20
+    unit: g
+    name: "prague powder #1 - essential for safety on a long cure"
+    raw: "20 g Prague Powder #1 - essential for safety on a long cure"
+  - qty: 4
+    unit: tbsp
+    name: cracked black pepper
+    raw: 4 tablespoons coarsely cracked black pepper
+  - qty: 4
+    unit: tbsp
+    name: coriander seeds
+    raw: 4 tablespoons whole coriander seeds, cracked
+  - qty: 2
+    unit: tbsp
+    name: black peppercorns
+    raw: 2 tablespoons whole black peppercorns, cracked
+  - qty: 2
+    unit: tbsp
+    name: mustard seeds
+    raw: 2 tablespoons whole mustard seeds
+  - qty: 2
+    unit: tbsp
+    name: granulated garlic powder
+    raw: 2 tablespoons granulated garlic powder
+  - qty: 1
+    unit: tbsp
+    name: paprika
+    raw: 1 tablespoon paprika
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tablespoon ground coriander
+  - qty: 2
+    unit: tsp
+    name: thyme
+    raw: 2 teaspoons dried thyme
+  - qty: 2
+    unit: tsp
+    name: allspice
+    raw: 2 teaspoons ground allspice
+  - qty: 1
+    unit: tsp
+    name: bay leaf
+    raw: 1 teaspoon ground bay leaf
+  - qty: 4
+    unit: tbsp
+    name: cracked black pepper
+    raw: 4 tablespoons coarsely cracked black pepper
+  - qty: 4
+    unit: tbsp
+    name: cracked coriander seed
+    raw: 4 tablespoons coarsely cracked coriander seed
+  - qty: 200
+    unit: g
+    name: steamed smoked meat
+    raw: 180-220 g sliced steamed smoked meat
+  - qty: 2
+    name: rye bread
+    raw: 2 slices fresh rye bread , about 1 cm thick
+  - qty: 1
+    name: prepared yellow mustard
+    raw: 1 generous teaspoon prepared yellow mustard
+  - qty: 1
+    name: sour pickle
+    raw: 1 large sour pickle
+  - qty: 1
+    name: cold cott black cherry soda or cherry cola
+    raw: 1 cold Cott Black Cherry soda OR cherry cola
+  - qty: 1
+    unit: handful
+    name: belgian-style or quebec-style frites
+    raw: A handful of Belgian-style or Quebec-style frites
+  - name: "optional: a small mound of coleslaw"
+    raw: "Optional: a small mound of coleslaw"

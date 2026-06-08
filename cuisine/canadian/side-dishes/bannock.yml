@@ -1,0 +1,49 @@
+prep: 10 minutes
+cook: 12 minutes (in 2-3 batches)
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - one-pan
+  - sides
+  - butter
+mentions:
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 3
+    unit: tsp
+    name: baking powder
+    raw: 3 teaspoons baking powder
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 2
+    unit: tsp
+    name: granulated sugar
+    raw: 2 teaspoons granulated sugar
+  - qty: 40
+    unit: g
+    name: cold unsalted butter or lard
+    raw: 40 g cold unsalted butter OR lard, cubed
+  - qty: 275
+    unit: ml
+    name: water or warm whole milk
+    raw: 250-300 ml warm water OR warm whole milk
+  - qty: 60
+    unit: ml
+    name: sunflower oil or melted lard
+    raw: 60 ml sunflower oil OR melted lard
+  - name: salted butter
+    raw: Salted butter
+  - name: saskatoon-berry jam or strawberry jam or maple syrup
+    raw: Saskatoon-berry jam OR strawberry jam OR maple syrup
+  - name: pot of strong tea
+    raw: A pot of strong tea

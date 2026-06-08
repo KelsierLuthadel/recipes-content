@@ -1,0 +1,47 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+tags:
+  - gluten-free
+  - quick
+  - snack
+  - meat
+  - pork
+  - tomato
+  - potato
+  - butter
+mentions: []
+ingredients:
+  - qty: 4
+    name: peameal bacon - about 80-100 g per sandwich
+    raw: 4 slices peameal bacon - about 80-100 g per sandwich
+  - qty: 1
+    unit: tbsp
+    name: sunflower oil or a knob of butter
+    raw: 1 tablespoon sunflower oil OR a knob of butter
+  - qty: 4
+    name: kaiser rolls
+    raw: 4 fresh kaiser rolls
+  - qty: 4
+    unit: tbsp
+    name: prepared yellow mustard
+    raw: 4 tablespoons prepared yellow mustard
+  - qty: 4
+    name: tomato
+    raw: 4 thick slices of ripe tomato
+  - qty: 8
+    name: crisp lettuce leaves
+    raw: 8 crisp lettuce leaves
+  - name: pat of butter
+    raw: A small pat of butter
+  - qty: 4
+    name: sour pickles
+    raw: 4 whole sour pickles
+  - qty: 1
+    name: pile of belgian-style or quebec-style frites or potato wedges
+    raw: 1 pile of Belgian-style or Quebec-style frites OR potato wedges
+  - name: glass of cold canadian lager or a tim hortons coffee
+    raw: A glass of cold Canadian lager OR a Tim Hortons coffee

@@ -1,0 +1,73 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - onion
+  - potato
+  - complex
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/middle-eastern-fundamentals/spices
+ingredients:
+  - qty: 700
+    unit: g
+    name: sauerkraut
+    raw: 700 g good sauerkraut
+  - qty: 200
+    unit: g
+    name: smoked streaky bacon
+    raw: 200 g good smoked streaky bacon, cut into 1 cm lardons
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 2
+    name: tart apples
+    raw: 2 medium tart apples , peeled, cored and chopped fine
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 teaspoon caraway seeds
+  - qty: 6
+    name: juniper berries
+    raw: 6 juniper berries
+  - qty: 2
+    name: cloves
+    raw: 2 cloves
+  - qty: 1
+    unit: tsp
+    name: soft dark brown sugar
+    raw: 1 teaspoon soft dark brown sugar
+  - qty: 0.25
+    name: /4 teaspoon ground white pepper
+    raw: 1/4 teaspoon ground white pepper
+  - qty: 200
+    unit: ml
+    name: unsweetened apple juice or a mix of 100 ml chicken stock + 100 ml white wine
+    raw: 200 ml unsweetened apple juice OR a mix of 100 ml chicken stock + 100 ml white wine
+  - qty: 1
+    unit: tbsp
+    name: dutch grainy mustard - some cooks add a small amount at the end
+    raw: 1 tablespoon Dutch grainy mustard - some cooks add a small amount at the end
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley or a pinch of dried thyme
+    raw: A small handful of chopped fresh flat-leaf parsley OR a pinch of dried thyme
+  - name: black pepper
+    raw: A small grind of black pepper
+  - name: goes alongside gelderse rookworst
+    raw: Goes alongside Gelderse rookworst , grilled pork chops, slow-roast pork belly, smoked German würst, or as a base for zuurkoolstamppot.
+  - name: mashed potato or boiled potatoes alongside
+    raw: Mashed potato or boiled potatoes alongside
+  - name: glass of cold dutch lager or a glass of riesling
+    raw: A glass of cold Dutch lager OR a glass of Riesling

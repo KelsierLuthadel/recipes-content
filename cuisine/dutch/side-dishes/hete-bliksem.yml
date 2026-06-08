@@ -1,0 +1,69 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+tags:
+  - gluten-free
+  - sides
+  - meat
+  - pork
+  - onion
+  - potato
+  - butter
+  - complex
+mentions:
+  - tutorials/cocktails/garnish
+ingredients:
+  - qty: 700
+    unit: g
+    name: floury potatoes
+    raw: 700 g floury potatoes , peeled and cut into 4 cm chunks
+  - qty: 400
+    unit: g
+    name: "apples: 200 g cooking apples + 200 g eating apples"
+    raw: "400 g apples: 200 g cooking apples + 200 g eating apples , peeled, cored and roughly chopped"
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk, warmed
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    name: /2 teaspoon white pepper
+    raw: 1/2 teaspoon white pepper
+  - qty: 0.25
+    name: /4 teaspoon grated nutmeg
+    raw: 1/4 teaspoon grated nutmeg
+  - qty: 200
+    unit: g
+    name: smoked streaky bacon
+    raw: 200 g good smoked streaky bacon, cut into 1 cm lardons
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 1
+    unit: tsp
+    name: soft dark brown sugar
+    raw: 1 teaspoon soft dark brown sugar
+  - qty: 1
+    unit: tsp
+    name: cider vinegar
+    raw: 1 teaspoon cider vinegar
+  - name: grilled smoked sausage - 1 per portion
+    raw: A thick grilled smoked sausage - 1 per portion
+  - name: or a thick slice of black pudding
+    raw: OR a thick slice of black pudding , pan-fried golden
+  - name: or a grilled pork chop
+    raw: OR a grilled pork chop
+  - name: dab of strong dutch mustard
+    raw: A dab of strong Dutch mustard
+  - name: glass of cold cider or a dutch lager
+    raw: A glass of cold cider OR a Dutch lager

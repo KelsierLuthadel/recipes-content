@@ -1,0 +1,87 @@
+prep: 25 minutes (plus 90 minutes for the batter to rise)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - complex
+mentions:
+  - cuisine/jamaican/snacks/festival
+  - drinks/hot/mulled-wine
+  - drinks/regional/netherlands/bisschopswijn
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 7
+    unit: g
+    name: instant dry yeast
+    raw: 7 g instant dry yeast
+  - qty: 400
+    unit: ml
+    name: milk
+    raw: 400 ml whole milk, lukewarm
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter, melted and cooled
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 150
+    unit: g
+    name: raisins
+    raw: 150 g raisins
+  - qty: 100
+    unit: g
+    name: sultanas
+    raw: 100 g sultanas
+  - qty: 100
+    unit: ml
+    name: dark rum or strong tea
+    raw: 100 ml dark rum OR strong tea
+  - qty: 2
+    name: eating apples
+    raw: 2 large eating apples , peeled, cored and chopped into 1 cm dice
+  - name: zest of 1 lemon
+    raw: Finely grated zest of 1 lemon
+  - qty: 80
+    unit: g
+    name: candied orange peel
+    raw: 80 g chopped candied orange peel
+  - qty: 2
+    unit: l
+    name: sunflower oil or groundnut oil
+    raw: 2 litres sunflower oil OR groundnut oil
+  - qty: 150
+    unit: g
+    name: icing sugar
+    raw: 150 g icing sugar, sifted
+  - name: hot dusted heavily with icing sugar.
+    raw: Hot, dusted heavily with icing sugar.
+  - name: glass of warm bisschopswijn - the canonical new year's eve pairing.
+    raw: A glass of warm bisschopswijn - the canonical New Year's Eve pairing.
+  - name: coffee for the morning after.
+    raw: A cup of strong coffee for the morning after.

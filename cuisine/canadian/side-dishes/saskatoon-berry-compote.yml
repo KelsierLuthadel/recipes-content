@@ -1,0 +1,67 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+tags:
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - duck
+  - lemon
+  - yogurt
+  - nuts
+mentions:
+  - cuisine/australian/desserts/pavlova
+  - tutorials/distilling-spirits/whisky
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: or frozen saskatoon berries
+    raw: 500 g fresh OR frozen saskatoon berries
+  - qty: 110
+    unit: g
+    name: granulated sugar
+    raw: 100-120 g granulated sugar
+  - qty: 2
+    unit: tbsp
+    name: lemon juice
+    raw: 2 tablespoons lemon juice
+  - name: zest of 1/2 lemon
+    raw: Finely grated zest of 1/2 lemon
+  - qty: 0.25
+    name: /4 teaspoon ground cinnamon
+    raw: 1/4 teaspoon ground cinnamon
+  - qty: 0.25
+    name: /4 teaspoon ground cardamom
+    raw: 1/4 teaspoon ground cardamom
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tablespoon water
+  - qty: 1
+    unit: tsp
+    name: vanilla extract or 1/2 vanilla pod scraped
+    raw: 1 teaspoon vanilla extract OR 1/2 vanilla pod scraped
+  - qty: 1
+    unit: tbsp
+    name: cognac
+    raw: 1 tablespoon Cognac, brandy or whisky
+  - name: spooned over pancakes
+    raw: Spooned over pancakes, French toast, waffles or porridge
+  - name: swirled into greek yogurt or whipped cream
+    raw: Swirled into Greek yogurt or whipped cream
+  - name: as a sauce for roast pork
+    raw: As a sauce for roast pork, duck breast or game
+  - name: layered into a trifle or pavlova
+    raw: Layered into a trifle or pavlova
+  - name: stirred into a glaze for a canadian-style cheesecake
+    raw: Stirred into a glaze for a Canadian-style cheesecake

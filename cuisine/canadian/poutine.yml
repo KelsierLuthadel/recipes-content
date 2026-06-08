@@ -1,0 +1,82 @@
+prep: 25 minutes (plus 30 minutes rest between fries)
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - peanuts
+  - soy
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - potato
+  - butter
+  - cheese
+  - nuts
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/american/pulled-pork
+  - cuisine/jamaican/snacks/festival
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: floury potatoes
+    raw: 1.2 kg floury potatoes
+  - qty: 2
+    unit: l
+    name: refined sunflower or groundnut oil
+    raw: 2 litres refined sunflower or groundnut oil
+  - name: sea salt
+    raw: Fine sea salt
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 60
+    unit: g
+    name: plain flour
+    raw: 60 g plain flour
+  - qty: 500
+    unit: ml
+    name: beef stock
+    raw: 500 ml hot beef stock
+  - qty: 250
+    unit: ml
+    name: chicken stock
+    raw: 250 ml hot chicken stock
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: soy sauce
+    raw: 1 teaspoon soy sauce
+  - qty: 1
+    unit: tsp
+    name: apple cider vinegar or white wine vinegar
+    raw: 1 teaspoon apple cider vinegar OR white wine vinegar
+  - qty: 0.5
+    name: /2 teaspoon black pepper
+    raw: 1/2 teaspoon black pepper
+  - qty: 0.25
+    name: /4 teaspoon dried thyme
+    raw: 1/4 teaspoon dried thyme
+  - name: salt
+    raw: Salt to taste
+  - qty: 350
+    unit: g
+    name: white cheese curds
+    raw: 350 g fresh white cheese curds
+  - qty: 4
+    name: wide shallow bowls
+    raw: 4 wide shallow bowls
+  - name: forks
+    raw: Forks
+  - name: "optional: a small bottle of hot sauce"
+    raw: "Optional: a small bottle of hot sauce, a small dish of pickled jalapeños, a cold beer"

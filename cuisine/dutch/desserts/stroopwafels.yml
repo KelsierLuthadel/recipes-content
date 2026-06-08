@@ -1,0 +1,78 @@
+prep: 1 hour (active)
+cook: 30 minutes (4 minutes per pair in the iron, 2 minutes filling)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - complex
+mentions:
+  - tutorials/cocktails/equipment
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 7
+    unit: g
+    name: instant dry yeast
+    raw: 7 g instant dry yeast
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.25
+    name: /4 teaspoon grated nutmeg
+    raw: 1/4 teaspoon grated nutmeg
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter, melted and cooled
+  - qty: 1
+    name: egg
+    raw: 1 large egg, lightly beaten
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk, lukewarm
+  - qty: 250
+    unit: g
+    name: dark muscovado sugar or soft dark brown sugar
+    raw: 250 g dark muscovado sugar OR soft dark brown sugar
+  - qty: 100
+    unit: ml
+    name: golden syrup or light corn syrup
+    raw: 100 ml golden syrup OR light corn syrup
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 2
+    unit: tbsp
+    name: milk
+    raw: 2 tablespoons whole milk
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.25
+    name: /4 teaspoon vanilla extract
+    raw: 1/4 teaspoon vanilla extract
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt

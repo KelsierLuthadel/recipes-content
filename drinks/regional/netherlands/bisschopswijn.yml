@@ -1,0 +1,62 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - ginger
+  - lemon
+  - complex
+mentions:
+  - drinks/hot/mulled-wine
+  - drinks/hot/wassail
+  - drinks/regional/germany/gluhwein
+  - tutorials/middle-eastern-fundamentals/spices
+ingredients:
+  - qty: 1
+    name: red wine
+    raw: 1 bottle red wine
+  - qty: 1
+    name: orange
+    raw: 1 orange
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 whole cloves
+  - qty: 2
+    name: star anise pods
+    raw: 2 star anise pods
+  - qty: 4
+    name: cardamom pods
+    raw: 4 cardamom pods
+  - qty: 1
+    name: ginger
+    raw: 1 thin slice fresh ginger
+  - qty: 4.5
+    unit: tbsp
+    name: soft dark brown sugar
+    raw: 4-5 tablespoons soft dark brown sugar
+  - name: orange
+    raw: A small slice of fresh orange, floated on top
+  - name: cinnamon for stirring
+    raw: A small stick of cinnamon for stirring
+  - qty: 1
+    unit: small splash
+    name: rum or brandy
+    raw: A small splash of rum or brandy
+  - qty: 6
+    name: heavy ceramic mugs
+    raw: 6 small heavy ceramic mugs , pre-warmed
+  - name: spoon for stirring
+    raw: A small spoon for stirring
+  - name: plate of speculaas biscuits
+    raw: A plate of speculaas biscuits, pepernoten, or taai-taai cookies alongside
+  - name: wool blanket and a winter evening
+    raw: A wool blanket and a winter evening

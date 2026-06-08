@@ -1,0 +1,80 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - mustard
+tags:
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - pork
+  - onion
+  - potato
+  - butter
+  - cheese
+  - complex
+mentions: []
+ingredients:
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes , peeled and cut into 4 cm chunks
+  - qty: 500
+    unit: g
+    name: curly kale
+    raw: 500 g curly kale , woody stems removed, leaves finely shredded
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter
+  - qty: 120
+    unit: ml
+    name: milk
+    raw: 120 ml whole milk, warmed
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 0.5
+    name: /2 teaspoon white pepper
+    raw: 1/2 teaspoon white pepper
+  - qty: 0.5
+    name: /2 teaspoon grated nutmeg
+    raw: 1/2 teaspoon grated nutmeg
+  - qty: 4
+    name: gelderse rookworst or a substantial smoked pork sausage
+    raw: 4 thick Gelderse rookworst OR a substantial smoked pork sausage
+  - name: each about 150 g; total around 600 g
+    raw: Each about 150 g; total around 600 g
+  - qty: 100
+    unit: ml
+    name: beef stock or chicken stock
+    raw: 100 ml beef stock OR chicken stock
+  - qty: 1
+    unit: tbsp
+    name: dutch grainy mustard or dijon
+    raw: 1 tablespoon Dutch grainy mustard OR Dijon
+  - name: black pepper
+    raw: A small grind of black pepper
+  - qty: 150
+    unit: g
+    name: smoked streaky bacon
+    raw: 150 g smoked streaky bacon, cut into lardons - the more substantial version
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped - traditional
+  - qty: 50
+    unit: g
+    name: cheese folded in at the end - the friesland variant
+    raw: 50 g grated mature cheese folded in at the end - the Friesland variant
+  - name: dutch mustard on the side
+    raw: Strong Dutch mustard on the side
+  - name: pickled silverskin onions
+    raw: A small dish of pickled silverskin onions
+  - name: glass of cold milk or a cold dutch lager
+    raw: A glass of cold milk OR a cold Dutch lager
+  - name: dark rye bread on the side
+    raw: A slice of dark rye bread on the side

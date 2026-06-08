@@ -1,0 +1,105 @@
+prep: 40 minutes (plus 30 minutes to chill the pastry)
+cook: 1 hour 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - butter
+  - complex
+mentions:
+  - cuisine/british/snacks/pork-pie
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 175
+    unit: g
+    name: cold unsalted butter
+    raw: 175 g cold unsalted butter, cubed
+  - qty: 1
+    name: egg
+    raw: 1 large egg, lightly beaten
+  - qty: 5
+    unit: tbsp
+    name: ice-cold water
+    raw: 4-6 tablespoons ice-cold water
+  - qty: 1
+    name: egg yolk + 1 tablespoon milk
+    raw: 1 egg yolk + 1 tablespoon milk
+  - qty: 500
+    unit: g
+    name: pork
+    raw: 500 g good minced pork
+  - qty: 250
+    unit: g
+    name: beef or veal
+    raw: 250 g minced beef OR veal
+  - qty: 1
+    name: onion
+    raw: 1 large onion, very finely chopped
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, very finely chopped
+  - qty: 200
+    unit: ml
+    name: beef or chicken stock
+    raw: 200 ml beef or chicken stock
+  - qty: 2
+    name: floury potatoes
+    raw: 2 medium floury potatoes , boiled and mashed
+  - qty: 0.5
+    name: /2 teaspoon ground cinnamon
+    raw: 1/2 teaspoon ground cinnamon
+  - qty: 0.5
+    name: /2 teaspoon ground cloves
+    raw: 1/2 teaspoon ground cloves
+  - qty: 0.25
+    name: /4 teaspoon ground allspice
+    raw: 1/4 teaspoon ground allspice
+  - qty: 0.25
+    name: /4 teaspoon ground nutmeg
+    raw: 1/4 teaspoon ground nutmeg
+  - qty: 1
+    unit: tsp
+    name: summer savoury or thyme
+    raw: 1 teaspoon dried summer savoury OR thyme
+  - qty: 0.25
+    name: /4 teaspoon ground white pepper
+    raw: 1/4 teaspoon ground white pepper
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - name: quebec-style tomato chutney or a good shop tomato chutney
+    raw: Quebec-style tomato chutney OR a good shop tomato chutney
+  - name: pickled silverskin onions
+    raw: A small dish of pickled silverskin onions
+  - name: glass of cold dry hard cider
+    raw: A glass of cold dry hard cider
+  - name: simple green salad
+    raw: A simple green salad

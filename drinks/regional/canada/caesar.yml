@@ -1,0 +1,99 @@
+prep: 8 minutes
+cook: None
+allergens:
+  - dairy
+  - shellfish
+  - meat
+  - celery
+tags:
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meat
+  - fish
+  - pork
+  - prawn
+  - tomato
+  - lime
+  - complex
+mentions:
+  - base-ingredients/spices/cajun-spice-mix
+  - cuisine/american/eggs-benedict
+  - cuisine/canadian/snacks/peameal-bacon-sandwich
+  - cuisine/new-york/eggs-benedict
+  - drinks/cocktails/bloody-mary
+  - tutorials/cocktails/garnish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 30
+    unit: ml
+    name: vodka
+    raw: 30 ml good vodka
+  - qty: 180
+    unit: ml
+    name: mott's clamato
+    raw: 180 ml Mott's Clamato
+  - qty: 4
+    unit: dash
+    name: worcestershire sauce
+    raw: 4 dashes Worcestershire sauce
+  - qty: 4
+    unit: dash
+    name: hot sauce
+    raw: 4 dashes hot sauce
+  - qty: 1
+    unit: tsp
+    name: prepared horseradish
+    raw: 1 teaspoon prepared horseradish
+  - qty: 2
+    name: grinds of black pepper
+    raw: 2 grinds of black pepper
+  - qty: 1
+    unit: small pinch
+    name: celery salt
+    raw: 1 small pinch of celery salt
+  - qty: 1
+    unit: squeeze
+    name: lime juice
+    raw: 1 squeeze of fresh lime juice
+  - name: ice cubes
+    raw: Ice cubes
+  - qty: 2
+    unit: tbsp
+    name: celery salt
+    raw: 2 tablespoons celery salt
+  - qty: 1
+    name: lime wedge
+    raw: 1 lime wedge
+  - qty: 1
+    name: long celery stalk
+    raw: 1 long celery stalk , per drink
+  - qty: 1
+    name: lime wedge
+    raw: 1 lime wedge, on the rim
+  - name: all the classic
+    raw: All the classic, plus
+  - qty: 1
+    name: pickled bean per drink
+    raw: 1 pickled bean per drink
+  - name: cucumber on the rim
+    raw: A few thin slices of cucumber on the rim
+  - name: all of the above
+    raw: All of the above, plus
+  - qty: 1
+    name: strip of crisp bacon
+    raw: 1 strip of crisp bacon
+  - qty: 1
+    name: canadian cheddar on a cocktail stick
+    raw: 1 small cube of mature Canadian cheddar on a cocktail stick
+  - qty: 1
+    name: grilled prawn
+    raw: 1 grilled prawn
+  - qty: 1
+    name: pickled jalapeno on a stick
+    raw: 1 small pickled jalapeño on a stick
+  - name: tall highball glass
+    raw: A tall highball glass , or a Collins glass
+  - name: pint glass for the maximalist brunch version
+    raw: A pint glass for the maximalist brunch version

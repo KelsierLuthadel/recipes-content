@@ -1,0 +1,129 @@
+prep: 1 hour (active, mostly the kroket prep; uses the bitterbal ragout)
+cook: 3 hours stewing (or use leftover bitterbal ragout) + 8 minutes frying
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+  - meat
+  - mustard
+  - garlic
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - cream
+  - chocolate
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef shin or chuck
+    raw: 600 g beef shin OR chuck, in 5 cm chunks
+  - qty: 1
+    unit: tbsp
+    name: sunflower oil
+    raw: 1 tablespoon sunflower oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, finely chopped
+  - qty: 600
+    unit: ml
+    name: beef stock
+    raw: 600 ml beef stock
+  - qty: 200
+    unit: ml
+    name: dry white wine
+    raw: 200 ml dry white wine
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon dried thyme
+  - qty: 4
+    name: black peppercorns
+    raw: 4 black peppercorns
+  - qty: 1
+    unit: tsp
+    name: salt + 1/2 teaspoon black pepper
+    raw: 1 teaspoon salt + 1/2 teaspoon black pepper
+  - qty: 0.5
+    name: /2 teaspoon ground nutmeg
+    raw: 1/2 teaspoon ground nutmeg
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 300
+    unit: ml
+    name: strained reduced braising liquid
+    raw: 300 ml strained reduced braising liquid
+  - qty: 50
+    unit: ml
+    name: double cream
+    raw: 50 ml double cream
+  - qty: 1
+    unit: tsp
+    name: worcestershire sauce
+    raw: 1 teaspoon Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: maggi liquid seasoning
+    raw: 1 teaspoon Maggi liquid seasoning
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons chopped flat-leaf parsley
+  - qty: 1
+    unit: generous pinch
+    name: nutmeg
+    raw: A generous pinch of grated nutmeg
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs, beaten
+  - qty: 250
+    unit: g
+    name: panko-style breadcrumbs
+    raw: 250 g fine panko-style breadcrumbs
+  - qty: 2
+    unit: l
+    name: sunflower or groundnut oil
+    raw: 2 litres sunflower or groundnut oil
+  - qty: 1
+    name: "\"zachte witte bol\" or a fresh kaiser roll or a soft bap"
+    raw: 1 fresh "zachte witte bol" OR a fresh kaiser roll OR a soft bap
+  - qty: 1.5
+    unit: tbsp
+    name: grainy dutch mustard
+    raw: 1-2 tablespoons grainy Dutch mustard
+  - qty: 1
+    name: hot fried kroket
+    raw: 1 hot fried kroket
+  - name: glass of cold dutch lager
+    raw: A glass of cold Dutch lager
+  - name: mustard
+    raw: A small dish of extra mustard
+  - name: "optional: a dutch chocolate sprinkle \"hagelslag\" sandwich for dessert"
+    raw: "Optional: a Dutch chocolate sprinkle \"hagelslag\" sandwich for dessert"

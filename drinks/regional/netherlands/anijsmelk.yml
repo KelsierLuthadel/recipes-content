@@ -1,0 +1,36 @@
+prep: 3 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - make-ahead
+  - ginger
+mentions:
+  - drinks/hot/mulled-wine
+  - tutorials/middle-eastern-fundamentals/spices
+ingredients:
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 2
+    name: star anise pods
+    raw: 2 whole star anise pods
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - name: dust of ground cinnamon
+    raw: A dust of ground cinnamon to finish
+  - name: tall mug or a teacup
+    raw: A tall mug or a teacup, pre-warmed with hot water
+  - name: spoon for stirring
+    raw: A small spoon for stirring
+  - qty: 1
+    name: dutch biscuit alongside
+    raw: 1 small Dutch biscuit alongside
+  - name: wool blanket
+    raw: A wool blanket

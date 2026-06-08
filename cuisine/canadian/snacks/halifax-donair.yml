@@ -1,0 +1,98 @@
+prep: 25 minutes (plus 4 hours or overnight rest for the meat mix)
+cook: 50 minutes (for the meat loaf) + 5 minutes assembly
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - snack
+  - make-ahead
+  - meat
+  - beef
+  - onion
+  - tomato
+  - potato
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/canadian/poutine
+  - tutorials/cocktails/equipment
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 700
+    unit: g
+    name: beef
+    raw: 700 g minced beef
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1.5 teaspoons salt
+  - qty: 1.5
+    unit: tsp
+    name: oregano
+    raw: 1.5 teaspoons dried oregano
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - qty: 0.5
+    name: /2 teaspoon black pepper
+    raw: 1/2 teaspoon black pepper
+  - qty: 0.5
+    name: /2 teaspoon cayenne pepper
+    raw: 1/2 teaspoon cayenne pepper
+  - qty: 0.5
+    name: /2 teaspoon ground cumin
+    raw: 1/2 teaspoon ground cumin
+  - qty: 0.25
+    name: /4 teaspoon ground allspice
+    raw: 1/4 teaspoon ground allspice
+  - qty: 60
+    unit: ml
+    name: ice water
+    raw: 60 ml ice water
+  - qty: 1
+    name: × 397 g tin sweetened condensed milk
+    raw: 1 × 397 g tin sweetened condensed milk
+  - qty: 60
+    unit: ml
+    name: white vinegar
+    raw: 60 ml white vinegar
+  - qty: 1
+    unit: tsp
+    name: garlic powder
+    raw: 1 teaspoon garlic powder
+  - qty: 1
+    unit: small pinch
+    name: salt
+    raw: A small pinch of salt
+  - qty: 1
+    name: soft pita
+    raw: 1 fresh large soft pita
+  - qty: 0.5
+    name: /2 small white onion
+    raw: 1/2 small white onion, very finely diced
+  - qty: 1
+    name: tomato
+    raw: 1 ripe tomato, deseeded and finely diced
+  - qty: 1
+    unit: handful
+    name: belgian-style frites or potato wedges
+    raw: A handful of Belgian-style frites OR potato wedges
+  - name: foil sheets for wrapping
+    raw: Foil sheets for wrapping
+  - name: cold can of pop or a canadian lager
+    raw: A cold can of pop or a Canadian lager
+  - name: "optional: extra sauce on the side for dipping"
+    raw: "Optional: extra sauce on the side for dipping"

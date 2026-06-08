@@ -1,0 +1,101 @@
+prep: 25 minutes (plus 30 minutes pastry chilling)
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cream
+  - nuts
+  - complex
+mentions:
+  - cuisine/american/desserts/pecan-pie
+  - cuisine/cajun/desserts/pecan-pie
+  - tutorials/distilling-spirits/whisky
+  - tutorials/eggs/custards
+  - tutorials/patisserie/tarts
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 220
+    unit: g
+    name: plain flour
+    raw: 220 g plain flour
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 2
+    unit: tsp
+    name: caster sugar
+    raw: 2 teaspoons caster sugar
+  - qty: 110
+    unit: g
+    name: cold unsalted butter
+    raw: 110 g cold unsalted butter, cubed
+  - qty: 45
+    unit: g
+    name: cold lard or 45 g extra cold butter
+    raw: 45 g cold lard OR 45 g extra cold butter
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 3.5
+    unit: tbsp
+    name: ice-cold water
+    raw: 3-4 tablespoons ice-cold water
+  - qty: 350
+    unit: ml
+    name: pure canadian maple syrup
+    raw: 350 ml pure Canadian maple syrup
+  - qty: 100
+    unit: g
+    name: soft dark brown sugar
+    raw: 100 g soft dark brown sugar
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tablespoon cornflour
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs, lightly beaten
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: canadian whisky or rum
+    raw: 1 tablespoon Canadian whisky OR rum
+  - qty: 1
+    name: egg yolk + 1 tablespoon milk
+    raw: 1 egg yolk + 1 tablespoon milk
+  - name: whipped unsweetened double cream or a scoop of good vanilla ice cream
+    raw: Lightly whipped unsweetened double cream OR a scoop of good vanilla ice cream
+  - qty: 1
+    unit: drizzle
+    name: maple syrup over the top
+    raw: A drizzle of extra maple syrup over the top
+  - name: toasted pecans or walnuts
+    raw: Chopped toasted pecans or walnuts
+  - name: glass of cold dessert wine or a digestif of calvados / cognac
+    raw: A small glass of cold dessert wine OR a digestif of Calvados / Cognac
+  - name: raspberries for colour and tartness
+    raw: Fresh raspberries for colour and tartness

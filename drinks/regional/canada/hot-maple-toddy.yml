@@ -1,0 +1,52 @@
+prep: 5 minutes
+cook: 5 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - ginger
+  - lemon
+  - butter
+mentions:
+  - cuisine/scottish/snacks/shortbread
+  - drinks/hot/hot-toddy
+  - tutorials/bread/cottage
+  - tutorials/cocktails/garnish
+  - tutorials/distilling-spirits/whisky
+ingredients:
+  - qty: 45
+    unit: ml
+    name: canadian rye whisky or bourbon or canadian dark rum
+    raw: 45 ml Canadian rye whisky OR bourbon OR Canadian dark rum
+  - qty: 2
+    unit: tbsp
+    name: pure canadian maple syrup
+    raw: 2 tablespoons pure Canadian maple syrup
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice
+  - qty: 180
+    unit: ml
+    name: water
+    raw: 180 ml hot water
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    name: strip of lemon zest
+    raw: 1 strip of lemon zest
+  - qty: 2
+    name: cloves
+    raw: 2 cloves
+  - qty: 1
+    name: ginger
+    raw: 1 thin slice of fresh ginger
+  - name: heatproof glass - 250-300 ml capacity
+    raw: A heatproof glass - 250-300 ml capacity
+  - name: biscuit
+    raw: A small biscuit
+  - name: glass of cold water on the side
+    raw: A glass of cold water on the side

@@ -1,0 +1,115 @@
+prep: 25 minutes
+cook: 2 hours 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - soy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - potato
+  - butter
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 1
+    unit: kg
+    name: beef chuck or shin or brisket
+    raw: 1 kg beef chuck OR shin OR brisket, cut into 4 cm cubes
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon black pepper
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil or rendered bacon fat
+    raw: 2 tablespoons sunflower oil OR rendered bacon fat
+  - qty: 1
+    unit: kg
+    name: yellow onions
+    raw: 1 kg yellow onions, halved and sliced thin
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, finely chopped
+  - qty: 600
+    unit: ml
+    name: beef stock
+    raw: 600 ml beef stock
+  - qty: 200
+    unit: ml
+    name: dark dutch lager or water
+    raw: 200 ml dark Dutch lager OR water
+  - qty: 3
+    unit: tbsp
+    name: apple cider vinegar
+    raw: 3 tablespoons apple cider vinegar
+  - qty: 1
+    unit: tbsp
+    name: dark soy sauce or worcestershire sauce
+    raw: 1 tablespoon dark soy sauce OR Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: soft dark brown sugar
+    raw: 1 tablespoon soft dark brown sugar
+  - qty: 6
+    name: cloves
+    raw: 6 whole cloves
+  - qty: 6
+    name: juniper berries
+    raw: 6 juniper berries
+  - qty: 3
+    name: bay leaves
+    raw: 3 bay leaves
+  - qty: 0.25
+    name: /4 teaspoon ground allspice
+    raw: 1/4 teaspoon ground allspice
+  - qty: 0.25
+    name: /4 teaspoon ground white pepper
+    raw: 1/4 teaspoon ground white pepper
+  - qty: 1
+    unit: tsp
+    name: thyme leaves
+    raw: 1 teaspoon fresh thyme leaves
+  - qty: 1
+    name: country bread spread with 1 tablespoon grainy dutch mustard
+    raw: 1 slice country bread spread with 1 tablespoon grainy Dutch mustard
+  - qty: 1
+    unit: tbsp
+    name: cold unsalted butter
+    raw: 1 tablespoon cold unsalted butter
+  - name: salt
+    raw: Salt to taste
+  - name: stamppot boerenkool or hutspot or 800 g boiled new potatoes
+    raw: Stamppot boerenkool OR Hutspot OR 800 g boiled new potatoes
+  - name: side of braised red cabbage
+    raw: A side of braised red cabbage
+  - name: glass of cold dutch lager or a dark abbey-style beer
+    raw: A glass of cold Dutch lager OR a dark abbey-style beer

@@ -1,0 +1,134 @@
+prep: 35 minutes (plus 75 minutes for the dough to rise)
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - rice
+  - lemon
+  - butter
+  - cream
+  - chocolate
+  - nuts
+  - complex
+mentions:
+  - cuisine/french/desserts/apple-tart
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 7
+    unit: g
+    name: instant dry yeast
+    raw: 7 g instant dry yeast
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk, lukewarm
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter, melted and cooled
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 800
+    unit: g
+    name: dark morello cherries
+    raw: 800 g dark Morello cherries
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 2
+    unit: tbsp
+    name: cornflour
+    raw: 2 tablespoons cornflour
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.25
+    name: /4 teaspoon almond extract
+    raw: 1/4 teaspoon almond extract
+  - qty: 1
+    unit: squeeze
+    name: lemon juice
+    raw: A squeeze of lemon juice
+  - qty: 200
+    unit: g
+    name: short-grain pudding rice
+    raw: 200 g short-grain pudding rice
+  - qty: 800
+    unit: ml
+    name: milk
+    raw: 800 ml whole milk
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod, split
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 2
+    name: egg yolks
+    raw: 2 large egg yolks
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - name: the trimmings from the yeasted dough
+    raw: The trimmings from the yeasted dough, rolled out and cut into strips
+  - qty: 120
+    unit: g
+    name: plain flour
+    raw: 120 g plain flour
+  - qty: 80
+    unit: g
+    name: cold unsalted butter
+    raw: 80 g cold unsalted butter, cubed
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    name: egg yolk + 1 tablespoon milk
+    raw: 1 egg yolk + 1 tablespoon milk
+  - name: whipped unsweetened double cream
+    raw: Lightly whipped unsweetened double cream
+  - name: vanilla ice cream
+    raw: A scoop of vanilla ice cream
+  - name: coffee or hot chocolate
+    raw: A cup of strong coffee or hot chocolate

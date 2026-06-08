@@ -1,0 +1,95 @@
+prep: 30 minutes (plus 30 minutes chilling pastry)
+cook: 22 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - nuts
+  - complex
+mentions:
+  - cuisine/american/desserts/pecan-pie
+  - cuisine/cajun/desserts/pecan-pie
+  - tutorials/bread/cottage
+  - tutorials/cocktails/equipment
+  - tutorials/patisserie/tarts
+  - tutorials/pizza/dough
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 0.5
+    name: /2 teaspoon fine sea salt
+    raw: 1/2 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 125
+    unit: g
+    name: cold unsalted butter
+    raw: 125 g cold unsalted butter, cubed
+  - qty: 60
+    unit: g
+    name: cold lard or 60 g extra cold butter
+    raw: 60 g cold lard OR 60 g extra cold butter, cubed
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 4
+    unit: tbsp
+    name: ice-cold water
+    raw: 3-5 tablespoons ice-cold water
+  - qty: 200
+    unit: g
+    name: soft light brown sugar
+    raw: 200 g soft light brown sugar
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter, melted and cooled to lukewarm
+  - qty: 1
+    name: egg
+    raw: 1 large egg, lightly beaten
+  - qty: 2
+    unit: tbsp
+    name: golden corn syrup or golden syrup
+    raw: 2 tablespoons golden corn syrup OR golden syrup
+  - qty: 1
+    unit: tbsp
+    name: white vinegar or cider vinegar
+    raw: 1 tablespoon white vinegar OR cider vinegar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt
+  - qty: 0.25
+    name: /4 teaspoon ground cinnamon
+    raw: 1/4 teaspoon ground cinnamon
+  - qty: 60
+    unit: g
+    name: raisins
+    raw: 60 g raisins, soaked in hot water for 10 minutes then drained
+  - qty: 60
+    unit: g
+    name: toasted pecans
+    raw: 60 g toasted pecans, roughly chopped
+  - qty: 60
+    unit: g
+    name: walnut halves
+    raw: 60 g walnut halves
+  - qty: 60
+    unit: g
+    name: currants
+    raw: 60 g currants
