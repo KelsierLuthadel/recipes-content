@@ -1,0 +1,13 @@
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+mentions:
+  - cuisine/indian/Breads/bhaura
+  - cuisine/indian/Breads/kulcha
+  - cuisine/indian/Breads/puris
+  - cuisine/indian/Breads/tandoori-roti
+  - tutorials/indian-breads/paratha
+  - tutorials/pizza/dough

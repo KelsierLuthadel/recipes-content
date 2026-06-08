@@ -13,7 +13,8 @@ tags:
   - potato
   - coriander
   - chili
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 12
     name: new potatoes

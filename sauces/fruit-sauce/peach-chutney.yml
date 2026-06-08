@@ -15,7 +15,8 @@ tags:
   - lime
   - nuts
   - complex
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 60
     unit: g

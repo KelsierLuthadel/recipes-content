@@ -1,0 +1,23 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+mentions:
+  - cuisine/mexican/birria
+  - cuisine/mexican/breakfast-burritos
+  - cuisine/mexican/carne-asada
+  - cuisine/mexican/chiles-en-nogada
+  - cuisine/mexican/cochinita-pibil
+  - cuisine/mexican/jays-mixed-chilli
+  - cuisine/mexican/mission-burrito
+  - cuisine/mexican/mole-poblano
+  - cuisine/mexican/snacks/guacamole
+  - cuisine/mexican/snacks/salsa-roja
+  - cuisine/mexican/tacos-al-pastor
+  - tutorials/mexican-fundamentals/beans-from-scratch
+  - tutorials/mexican-fundamentals/masa-and-tortillas
+  - tutorials/mexican-fundamentals/mole
+  - tutorials/mexican-fundamentals/salsas
+  - tutorials/mexican-fundamentals/the-mexican-plate

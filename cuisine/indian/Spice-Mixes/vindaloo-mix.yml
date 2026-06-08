@@ -10,7 +10,8 @@ tags:
   - asian
   - spices
   - coriander
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 2
     unit: tsp

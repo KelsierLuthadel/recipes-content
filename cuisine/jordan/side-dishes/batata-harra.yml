@@ -13,7 +13,8 @@ tags:
   - lemon
   - coriander
   - chili
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/mezze
 ingredients:
   - qty: 800
     unit: g

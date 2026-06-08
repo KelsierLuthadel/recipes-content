@@ -6,7 +6,8 @@ allergens:
 tags:
   - vegetarian
   - quick
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 4
     name: heaped teaspoons loose-leaf ceylon black tea or 4 ceylon tea bags

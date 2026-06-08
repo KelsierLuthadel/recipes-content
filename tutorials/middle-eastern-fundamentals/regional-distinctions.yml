@@ -1,0 +1,42 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+mentions:
+  - cuisine/arabian/kabsa
+  - cuisine/egyptian/ful-medames
+  - cuisine/egyptian/side-dishes/taamiya
+  - cuisine/iran/ghormeh-sabzi
+  - cuisine/iran/tahdig
+  - cuisine/iraq/masgouf
+  - cuisine/iraq/quzi
+  - cuisine/iraq/side-dishes/samoon
+  - cuisine/israel/side-dishes/falafel
+  - cuisine/jordan/desserts/atayef
+  - cuisine/jordan/mansaf
+  - cuisine/lebanese/kibbeh
+  - cuisine/lebanese/side-dishes/labneh
+  - cuisine/lebanese/side-dishes/mujadara
+  - cuisine/lebanese/side-dishes/tabbouleh
+  - cuisine/middle-east/kibbeh
+  - cuisine/middle-east/mujadara
+  - cuisine/middle-east/side-dishes/fattoush
+  - cuisine/palestinian/musakhan
+  - cuisine/persian/ash-reshteh
+  - cuisine/syria/side-dishes/fattoush
+  - cuisine/syria/side-dishes/muhammara
+  - cuisine/syria/side-dishes/sfeeha
+  - cuisine/turkish/desserts/knafeh
+  - cuisine/yemen/mandi
+  - cuisine/yemen/saltah
+  - drinks/regional/afghanistan/doogh
+  - drinks/regional/egypt/karkadeh
+  - drinks/regional/egypt/sahleb
+  - tutorials/cocktails/garnish
+  - tutorials/indian-home-cooking/regional-traditions
+  - tutorials/middle-eastern-fundamentals/kebabs
+  - tutorials/middle-eastern-fundamentals/mezze
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/sauce

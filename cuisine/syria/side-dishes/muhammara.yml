@@ -14,7 +14,8 @@ tags:
   - lemon
   - nuts
   - chili
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/mezze
 ingredients:
   - qty: 4
     name: red bell peppers

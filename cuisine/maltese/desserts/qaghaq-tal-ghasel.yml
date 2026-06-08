@@ -14,7 +14,8 @@ tags:
   - honey
   - nuts
   - complex
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 500
     unit: g

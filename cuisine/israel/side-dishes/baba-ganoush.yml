@@ -16,7 +16,8 @@ tags:
   - shavuot
   - tu-bav
   - jewish
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/mezze
 ingredients:
   - qty: 2
     name: aubergines

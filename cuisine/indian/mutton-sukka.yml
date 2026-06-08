@@ -22,7 +22,8 @@ tags:
   - chili
   - curry
   - complex
-mentions: []
+mentions:
+  - tutorials/indian-breads/paratha
 ingredients:
   - qty: 800
     unit: g

@@ -9,7 +9,8 @@ tags:
   - sides
   - onion
   - yogurt
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/kebabs
 ingredients:
   - qty: 30
     unit: g

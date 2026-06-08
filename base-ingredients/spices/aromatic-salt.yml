@@ -11,7 +11,8 @@ tags:
   - spices
   - ginger
   - nuts
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 100
     unit: g

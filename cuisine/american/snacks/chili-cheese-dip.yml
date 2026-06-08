@@ -18,7 +18,8 @@ tags:
   - chili
   - complex
   - halloween
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 2
     unit: tbsp

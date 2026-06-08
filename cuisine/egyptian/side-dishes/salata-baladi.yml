@@ -13,7 +13,8 @@ tags:
   - tomato
   - lemon
   - chili
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/mezze
 ingredients:
   - qty: 4
     name: tomatoes

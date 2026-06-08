@@ -9,7 +9,8 @@ tags:
   - asian
   - pastes
   - lemon
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 175
     unit: g

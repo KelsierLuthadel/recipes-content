@@ -1,0 +1,26 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+mentions:
+  - cuisine/mexican/carne-asada
+  - cuisine/mexican/chilaquiles-verdes
+  - cuisine/mexican/cochinita-pibil
+  - cuisine/mexican/desserts/atole
+  - cuisine/mexican/enchiladas-suizas
+  - cuisine/mexican/enchilladas
+  - cuisine/mexican/esquites
+  - cuisine/mexican/huevos-rancheros
+  - cuisine/mexican/mole-poblano
+  - cuisine/mexican/pozole-rojo
+  - cuisine/mexican/snacks/quesadillas
+  - cuisine/mexican/snacks/salsa-roja
+  - cuisine/mexican/tortilla-soup
+  - cuisine/new-mexico/tamales-rojos
+  - drinks/regional/mexico/horchata
+  - tutorials/mexican-fundamentals/mole
+  - tutorials/mexican-fundamentals/salsas
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/sauce

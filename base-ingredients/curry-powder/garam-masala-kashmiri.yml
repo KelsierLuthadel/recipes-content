@@ -8,7 +8,8 @@ tags:
   - quick
   - coriander
   - curry
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 4.5
     unit: tbsp

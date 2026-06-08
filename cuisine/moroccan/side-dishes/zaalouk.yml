@@ -14,7 +14,8 @@ tags:
   - lemon
   - coriander
   - chili
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 2
     name: aubergines

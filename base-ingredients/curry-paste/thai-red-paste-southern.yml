@@ -17,7 +17,8 @@ tags:
   - coriander
   - chili
   - curry
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 25
     name: long red chillies

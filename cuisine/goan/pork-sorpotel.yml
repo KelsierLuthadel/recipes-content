@@ -16,7 +16,8 @@ tags:
   - ginger
   - chili
   - complex
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 800
     unit: g

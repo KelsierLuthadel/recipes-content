@@ -15,7 +15,8 @@ tags:
   - tomato
   - coriander
   - complex
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 900
     unit: g

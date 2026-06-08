@@ -12,7 +12,8 @@ tags:
   - butter
   - complex
   - halloween
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 400
     unit: g

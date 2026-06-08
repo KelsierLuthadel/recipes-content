@@ -20,7 +20,8 @@ tags:
   - coriander
   - chili
   - curry
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 4
     name: habanero chillies

@@ -1,0 +1,22 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+mentions:
+  - cuisine/jordan/desserts/atayef
+  - cuisine/jordan/mansaf
+  - cuisine/lebanese/side-dishes/labneh
+  - cuisine/lebanese/side-dishes/mujadara
+  - cuisine/middle-east/mujadara
+  - cuisine/middle-east/side-dishes/fattoush
+  - cuisine/north-african/lamb-tagine-with-prunes
+  - cuisine/palestinian/musakhan
+  - cuisine/syria/desserts/maamoul
+  - cuisine/syria/side-dishes/fattoush
+  - cuisine/syria/side-dishes/muhammara
+  - cuisine/turkish/desserts/baklava
+  - cuisine/turkish/desserts/knafeh
+  - tutorials/middle-eastern-fundamentals/kebabs
+  - tutorials/middle-eastern-fundamentals/mezze

@@ -16,7 +16,8 @@ tags:
   - coriander
   - curry
   - complex
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 6
     unit: tsp

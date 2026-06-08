@@ -13,7 +13,8 @@ tags:
   - butter
   - nuts
   - curry
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 40
     unit: g

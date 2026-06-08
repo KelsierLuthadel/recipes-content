@@ -1,0 +1,20 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+mentions:
+  - cuisine/french/desserts/creme-brulee
+  - drinks/cocktails/manhattan
+  - drinks/cocktails/margarita
+  - drinks/cocktails/martini
+  - drinks/cocktails/negroni
+  - drinks/cocktails/old-fashioned
+  - drinks/cocktails/whisky-sour
+  - drinks/hot/hot-toddy
+  - drinks/regional/louisiana/sazerac
+  - tutorials/bitters-shrubs/aromatic-bitters
+  - tutorials/bitters-shrubs/citrus-bitters
+  - tutorials/distilling-spirits/whisky
+  - tutorials/mexican-fundamentals/mole

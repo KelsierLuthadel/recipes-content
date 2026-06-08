@@ -19,7 +19,8 @@ tags:
   - coriander
   - chili
   - complex
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 200
     unit: g

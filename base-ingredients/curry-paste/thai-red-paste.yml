@@ -18,7 +18,8 @@ tags:
   - coriander
   - chili
   - curry
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 3
     name: lemon grass stalks

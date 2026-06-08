@@ -22,7 +22,8 @@ tags:
   - chickpea
   - chili
   - complex
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 600
     unit: g

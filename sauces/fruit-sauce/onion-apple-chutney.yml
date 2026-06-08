@@ -12,7 +12,8 @@ tags:
   - onion
   - garlic
   - tomato
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 50
     unit: ml

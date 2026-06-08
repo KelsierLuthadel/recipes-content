@@ -8,7 +8,8 @@ tags:
   - quick
   - spices
   - ginger
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 1
     name: part ground black pepper

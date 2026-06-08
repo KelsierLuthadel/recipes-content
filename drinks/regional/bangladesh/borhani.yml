@@ -12,7 +12,8 @@ tags:
   - coriander
   - yogurt
   - chili
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 1
     unit: tsp

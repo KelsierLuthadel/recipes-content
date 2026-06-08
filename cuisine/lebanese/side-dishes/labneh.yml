@@ -10,7 +10,8 @@ tags:
   - tomato
   - yogurt
   - complex
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/mezze
 ingredients:
   - qty: 1
     unit: kg

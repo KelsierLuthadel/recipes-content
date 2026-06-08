@@ -18,7 +18,9 @@ tags:
   - coriander
   - chili
   - complex
-mentions: []
+mentions:
+  - tutorials/indian-breads/paratha
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 500
     unit: g

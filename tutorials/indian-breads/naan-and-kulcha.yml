@@ -1,0 +1,16 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+mentions:
+  - cuisine/indian/BIR-Butter-Chicken
+  - cuisine/indian/Breads/bhaura
+  - cuisine/indian/Breads/kulcha
+  - cuisine/indian/Breads/tandoori-roti
+  - cuisine/indian/butter-chicken
+  - cuisine/indian/dal-makhani
+  - tutorials/indian-breads/puri-and-bhatura
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/dough

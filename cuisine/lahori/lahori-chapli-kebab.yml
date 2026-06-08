@@ -23,7 +23,9 @@ tags:
   - yogurt
   - chili
   - complex
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/kebabs
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 600
     unit: g

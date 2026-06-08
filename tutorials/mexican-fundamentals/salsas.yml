@@ -1,0 +1,14 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+mentions:
+  - cuisine/mexican/chilaquiles-verdes
+  - cuisine/mexican/enchilladas
+  - cuisine/mexican/huevos-rancheros
+  - cuisine/mexican/snacks/salsa-roja
+  - cuisine/mexican/tacos-al-pastor
+  - tutorials/mexican-fundamentals/mole
+  - tutorials/pizza/sauce

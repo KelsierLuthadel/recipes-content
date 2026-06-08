@@ -13,7 +13,8 @@ tags:
   - ginger
   - lemon
   - yogurt
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 500
     unit: ml

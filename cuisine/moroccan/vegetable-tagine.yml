@@ -20,7 +20,8 @@ tags:
   - chickpea
   - nuts
   - complex
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 3
     unit: tbsp
