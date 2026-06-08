@@ -1,0 +1,78 @@
+prep: 25 minutes
+cook: 5-12 minutes (the lime cure)
+allergens:
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - onion
+  - garlic
+  - potato
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/jamaican/snacks/festival
+  - cuisine/south-american/ceviche
+ingredients:
+  - qty: 600
+    unit: g
+    name: "firm white-fleshed sea fish - sashimi-grade. best options: corvina"
+    raw: "600 g very fresh firm white-fleshed sea fish - sashimi-grade. Best options: corvina, sea bass, halibut, sole, red snapper, sea bream. Cut against the grain into 1.5 cm cubes."
+  - qty: 200
+    unit: ml
+    name: lime juice
+    raw: 200 ml fresh lime juice
+  - qty: 1
+    name: red onion
+    raw: 1 large red onion, halved and sliced into 2 mm half-moons
+  - qty: 1
+    name: aji limo or aji amarillo chilli
+    raw: 1 aji limo OR aji amarillo chilli, deseeded and very finely chopped
+  - qty: 4
+    name: cilantro stems
+    raw: 4 cilantro stems
+  - qty: 1
+    unit: clove
+    name: garlic
+    raw: 1 clove garlic, finely grated
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    name: /2 teaspoon ground white pepper
+    raw: 1/2 teaspoon ground white pepper
+  - qty: 4.5
+    name: ice cubes
+    raw: 4-5 small ice cubes
+  - qty: 1
+    name: cilantro leaves
+    raw: 1 small bunch fresh cilantro leaves, chopped
+  - qty: 1
+    name: aji limo chilli
+    raw: 1 extra aji limo chilli, sliced into thin rings
+  - qty: 200
+    unit: g
+    name: sweet potato
+    raw: 200 g sweet potato , peeled, boiled in salted water 15 minutes till tender, sliced into 1 cm rounds
+  - qty: 1.5
+    name: ears of choclo or regular sweetcorn
+    raw: 1-2 ears of choclo OR regular sweetcorn, boiled and cut into 3 cm rounds
+  - qty: 100
+    unit: g
+    name: cancha
+    raw: 100 g cancha
+  - qty: 4
+    name: lime wedges
+    raw: 4 lime wedges
+  - name: lettuce leaves to line the plate
+    raw: A few lettuce leaves to line the plate
+  - name: shot glass of leche de tigre alongside each plate
+    raw: A small shot glass of leche de tigre alongside each plate

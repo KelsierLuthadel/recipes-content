@@ -1,0 +1,83 @@
+prep: 20 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - make-ahead
+  - sides
+  - eggs
+  - garlic
+  - potato
+  - lime
+  - cheese
+  - chili
+  - complex
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 800
+    unit: g
+    name: yellow waxy potatoes
+    raw: 800 g yellow waxy potatoes , peeled and halved
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 4
+    unit: tbsp
+    name: aji amarillo paste
+    raw: 4 tablespoons aji amarillo paste
+  - qty: 200
+    unit: g
+    name: queso fresco
+    raw: 200 g queso fresco
+  - qty: 200
+    unit: ml
+    name: evaporated milk
+    raw: 200 ml evaporated milk
+  - qty: 6
+    name: saltine soda crackers
+    raw: 6 saltine soda crackers
+  - qty: 1
+    unit: clove
+    name: garlic
+    raw: 1 clove garlic
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil or vegetable oil
+    raw: 4 tablespoons sunflower oil OR vegetable oil
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 0.5
+    name: /2 teaspoon salt
+    raw: 1/2 teaspoon salt
+  - qty: 0.25
+    name: /4 teaspoon white pepper
+    raw: 1/4 teaspoon white pepper
+  - qty: 4
+    name: hard-boiled eggs
+    raw: 4 hard-boiled eggs, halved or sliced
+  - qty: 10
+    name: botija olives
+    raw: 8-12 Botija olives
+  - qty: 7
+    name: lettuce leaves - the bed
+    raw: 6-8 lettuce leaves - the bed for the potatoes
+  - name: flat-leaf parsley
+    raw: A few sprigs fresh flat-leaf parsley
+  - name: aji amarillo paste
+    raw: An extra teaspoon of aji amarillo paste, for the decorative swirl
+  - name: cold first-course plate
+    raw: A cold first-course plate
+  - name: optional small bowl of extra huancaina sauce for dipping
+    raw: An optional small bowl of extra huancaína sauce for dipping
+  - name: glass of chicha morada or a cold peruvian pilsen trujillo lager
+    raw: A glass of chicha morada OR a cold Peruvian Pilsen Trujillo lager

@@ -1,0 +1,108 @@
+prep: 45 minutes (plus 30 minutes resting the dough)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - make-ahead
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - butter
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/mexican/snacks/guacamole
+  - cuisine/peruvian/side-dishes/papa-a-la-huancaina
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter, soft
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 110
+    unit: ml
+    name: milk or water
+    raw: 100-120 ml whole milk OR water, lukewarm
+  - qty: 400
+    unit: g
+    name: halloumi or peruvian queso paria or queso fresco
+    raw: 400 g halloumi OR Peruvian queso paria OR queso fresco
+  - name: cut into batons about 6 cm × 1 cm × 1 cm
+    raw: Cut into batons about 6 cm × 1 cm × 1 cm
+  - qty: 1.5
+    unit: l
+    name: sunflower or groundnut oil
+    raw: 1.5 litres sunflower or groundnut oil
+  - qty: 4
+    unit: tbsp
+    name: aji amarillo paste
+    raw: 4 tablespoons aji amarillo paste
+  - qty: 100
+    unit: g
+    name: queso fresco
+    raw: 100 g queso fresco
+  - qty: 100
+    unit: ml
+    name: evaporated milk
+    raw: 100 ml evaporated milk
+  - qty: 2
+    name: saltines
+    raw: 2 saltines
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    unit: tbsp
+    name: oil
+    raw: 1 tbsp oil
+  - qty: 2
+    name: avocados
+    raw: 2 ripe avocados, mashed
+  - qty: 1
+    name: red onion
+    raw: 1 small finely chopped red onion
+  - qty: 1
+    name: tomato
+    raw: 1 small finely chopped tomato
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 1
+    unit: tbsp
+    name: cilantro
+    raw: 1 tablespoon chopped cilantro
+  - qty: 0.5
+    name: /2 teaspoon salt
+    raw: 1/2 teaspoon salt
+  - name: chilli
+    raw: A small finely chopped chilli
+  - name: platter
+    raw: A small platter
+  - name: wooden toothpicks
+    raw: Wooden toothpicks
+  - name: beer or chicha morada to drink
+    raw: Cold beer or chicha morada to drink

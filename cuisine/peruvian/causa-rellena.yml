@@ -1,0 +1,138 @@
+prep: 45 minutes
+cook: 25 minutes (boiling the potatoes) + 4 hours chilling
+allergens:
+  - eggs
+  - fish
+  - shellfish
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - chicken
+  - prawn
+  - eggs
+  - onion
+  - potato
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/peruvian/aji-de-gallina
+  - cuisine/south-american/ceviche
+  - tutorials/cocktails/equipment
+  - tutorials/cocktails/garnish
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: yellow peruvian potatoes or yukon gold or another yellow waxy potato
+    raw: 1.2 kg yellow Peruvian potatoes OR Yukon Gold OR another yellow waxy potato
+  - qty: 4
+    unit: tbsp
+    name: aji amarillo paste
+    raw: 4 tablespoons aji amarillo paste
+  - qty: 4
+    unit: tbsp
+    name: lime juice
+    raw: 4 tablespoons fresh lime juice
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil or vegetable oil
+    raw: 4 tablespoons sunflower oil OR vegetable oil
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons salt
+  - qty: 0.5
+    name: /2 teaspoon white pepper
+    raw: 1/2 teaspoon white pepper
+  - qty: 2
+    name: tuna in olive oil or brine
+    raw: 2 tins of good tuna in olive oil OR brine, drained
+  - qty: 6
+    unit: tbsp
+    name: mayonnaise
+    raw: 6 tablespoons mayonnaise
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion, very finely chopped
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons chopped flat-leaf parsley
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 0.5
+    name: /2 teaspoon black pepper
+    raw: 1/2 teaspoon black pepper
+  - qty: 400
+    unit: g
+    name: prawns
+    raw: 400 g cooked prawns, peeled and finely chopped
+  - qty: 6
+    unit: tbsp
+    name: mayonnaise
+    raw: 6 tablespoons mayonnaise
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tablespoon Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 1
+    name: red onion
+    raw: 1 small finely chopped red onion
+  - qty: 0.5
+    name: /2 teaspoon black pepper
+    raw: 1/2 teaspoon black pepper
+  - qty: 400
+    unit: g
+    name: shredded chicken
+    raw: 400 g cooked shredded chicken
+  - qty: 6
+    unit: tbsp
+    name: mayonnaise
+    raw: 6 tablespoons mayonnaise
+  - qty: 1
+    name: avocado
+    raw: 1 small ripe avocado, mashed
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion, finely chopped
+  - qty: 0.25
+    name: /4 teaspoon black pepper
+    raw: 1/4 teaspoon black pepper
+  - qty: 2
+    name: hard-boiled eggs
+    raw: 2 hard-boiled eggs, sliced or quartered
+  - qty: 9
+    name: botija olives
+    raw: 8-10 Botija olives
+  - qty: 1
+    name: avocado
+    raw: 1 ripe avocado, sliced thin
+  - name: cilantro or flat-leaf parsley
+    raw: A few sprigs of fresh cilantro OR flat-leaf parsley
+  - qty: 1
+    name: lime
+    raw: 1 lime, cut into wedges
+  - qty: 2
+    unit: tbsp
+    name: mayonnaise
+    raw: 2 tablespoons extra mayonnaise
+  - name: aji amarillo paste
+    raw: An extra teaspoon of aji amarillo paste, swirled on top

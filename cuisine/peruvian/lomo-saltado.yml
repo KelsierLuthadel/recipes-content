@@ -1,0 +1,103 @@
+prep: 20 minutes
+cook: 12 minutes
+allergens:
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/south-american/lomo-saltado
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef sirloin or rib-eye
+    raw: 600 g beef sirloin OR rib-eye, sliced thin across the grain
+  - qty: 2
+    unit: tbsp
+    name: soy sauce
+    raw: 2 tablespoons soy sauce
+  - qty: 1
+    unit: tbsp
+    name: red wine vinegar
+    raw: 1 tablespoon red wine vinegar
+  - qty: 1
+    unit: tsp
+    name: aji amarillo paste
+    raw: 1 teaspoon aji amarillo paste
+  - qty: 1
+    unit: clove
+    name: garlic
+    raw: 1 clove garlic, finely grated
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 0.5
+    name: /2 teaspoon black pepper
+    raw: 1/2 teaspoon black pepper
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil or rapeseed oil
+    raw: 3 tablespoons sunflower oil OR rapeseed oil
+  - qty: 1
+    name: red onion
+    raw: 1 large red onion, cut into 6-8 wedges through the root
+  - qty: 2
+    name: tomatoes
+    raw: 2 large ripe tomatoes, cut into 6-8 wedges
+  - qty: 1
+    name: aji amarillo
+    raw: 1 aji amarillo, deseeded and sliced into long thin strips
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, finely chopped
+  - qty: 3
+    unit: tbsp
+    name: soy sauce
+    raw: 3 tablespoons soy sauce
+  - qty: 2
+    unit: tbsp
+    name: red wine vinegar
+    raw: 2 tablespoons red wine vinegar
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: aji amarillo paste
+    raw: 1 tablespoon aji amarillo paste
+  - qty: 0.5
+    name: /2 teaspoon caster sugar
+    raw: 1/2 teaspoon caster sugar
+  - qty: 0.5
+    name: /2 teaspoon black pepper
+    raw: 1/2 teaspoon black pepper
+  - qty: 1
+    name: cilantro
+    raw: 1 large bunch fresh cilantro, leaves picked
+  - qty: 600
+    unit: g
+    name: plain white long-grain rice
+    raw: 600 g cooked plain white long-grain rice
+  - qty: 600
+    unit: g
+    name: peruvian-style frites or good thick-cut crisps
+    raw: 600 g Peruvian-style frites OR good thick-cut crisps
+  - name: lime per plate
+    raw: A wedge of lime per plate

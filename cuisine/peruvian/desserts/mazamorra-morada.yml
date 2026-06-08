@@ -1,0 +1,81 @@
+prep: 20 minutes
+cook: 1 hour
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - dessert
+  - make-ahead
+  - rice
+  - lime
+  - complex
+mentions:
+  - cuisine/cuban/desserts/arroz-con-leche
+  - tutorials/cocktails/equipment
+ingredients:
+  - qty: 1
+    name: purple corn cob or 200 g dried purple-corn kernels
+    raw: 1 large dried purple corn cob OR 200 g dried purple-corn kernels
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 2
+    name: cinnamon sticks
+    raw: 2 cinnamon sticks
+  - qty: 6
+    name: cloves
+    raw: 6 cloves
+  - qty: 2
+    name: star anise
+    raw: 2 star anise
+  - name: the skin of 1/2 a pineapple
+    raw: The skin of 1/2 a pineapple
+  - qty: 1
+    name: quince
+    raw: 1 quince, halved
+  - qty: 1
+    name: strip of orange peel
+    raw: 1 strip of orange peel
+  - qty: 1
+    name: apple
+    raw: 1 large apple , cored and chopped
+  - qty: 1
+    name: pineapple wedge
+    raw: 1 small ripe pineapple wedge , chopped
+  - qty: 100
+    unit: g
+    name: apricots
+    raw: 100 g dried apricots, chopped
+  - qty: 80
+    unit: g
+    name: raisins
+    raw: 80 g raisins
+  - qty: 80
+    unit: g
+    name: cranberries
+    raw: 80 g dried cranberries
+  - qty: 1
+    name: pear
+    raw: 1 small pear, chopped
+  - qty: 90
+    unit: g
+    name: caster sugar
+    raw: 80-100 g caster sugar
+  - qty: 4
+    unit: tbsp
+    name: sweet-potato starch or cornflour
+    raw: 4 tablespoons sweet-potato starch OR cornflour, dissolved in 100 ml cold water
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - name: cinnamon
+    raw: Ground cinnamon
+  - name: peruvian arroz con leche served alongside in the same bowl - the "marriage"
+    raw: A scoop of Peruvian arroz con leche served alongside in the same bowl - the "marriage"

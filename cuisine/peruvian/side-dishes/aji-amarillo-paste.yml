@@ -1,0 +1,46 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - pastes
+  - garlic
+  - lime
+  - chili
+mentions:
+  - cuisine/peruvian/aji-de-gallina
+  - cuisine/peruvian/causa-rellena
+  - cuisine/peruvian/lomo-saltado
+  - cuisine/peruvian/side-dishes/papa-a-la-huancaina
+  - cuisine/south-american/lomo-saltado
+  - tutorials/cocktails/equipment
+  - tutorials/pizza/sauce
+ingredients:
+  - qty: 500
+    unit: g
+    name: aji amarillo chillies
+    raw: 500 g fresh aji amarillo chillies
+  - name: or 200 g dried aji amarillo pods
+    raw: OR 200 g dried aji amarillo pods
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil or a neutral vegetable oil
+    raw: 2 tablespoons sunflower oil OR a neutral vegetable oil
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tablespoon fresh lime juice

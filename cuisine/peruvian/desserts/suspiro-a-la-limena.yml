@@ -1,0 +1,55 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - eggs
+  - lime
+mentions:
+  - cuisine/argentinian/desserts/dulce-de-leche
+  - tutorials/cocktails/equipment
+ingredients:
+  - qty: 1
+    name: × 397 g tin sweetened condensed milk
+    raw: 1 × 397 g tin sweetened condensed milk
+  - qty: 1
+    name: × 400 ml tin evaporated milk
+    raw: 1 × 400 ml tin evaporated milk
+  - qty: 3
+    name: egg yolks
+    raw: 3 large egg yolks
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 small cinnamon stick
+  - qty: 2
+    name: egg whites
+    raw: 2 large egg whites
+  - qty: 4
+    unit: tbsp
+    name: caster sugar
+    raw: 4 tablespoons caster sugar
+  - qty: 100
+    unit: ml
+    name: port wine
+    raw: 100 ml port wine
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon

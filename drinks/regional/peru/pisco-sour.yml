@@ -1,0 +1,49 @@
+prep: 8 minutes
+cook: None
+allergens:
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - eggs
+  - lime
+mentions:
+  - cuisine/south-american/ceviche
+  - tutorials/cocktails/equipment
+  - tutorials/cocktails/garnish
+  - tutorials/distilling-spirits/safety
+ingredients:
+  - qty: 60
+    unit: ml
+    name: peruvian pisco
+    raw: 60 ml Peruvian pisco
+  - qty: 25
+    unit: ml
+    name: lime juice
+    raw: 25 ml fresh lime juice
+  - qty: 20
+    unit: ml
+    name: simple syrup
+    raw: 20 ml simple syrup
+  - qty: 1
+    name: egg white
+    raw: 1 large egg white
+  - qty: 3.5
+    name: ice cubes
+    raw: 3-4 large ice cubes
+  - qty: 2.5
+    unit: dash
+    name: angostura bitters
+    raw: 2-3 dashes Angostura bitters
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - name: lime on the rim
+    raw: A wedge of lime on the rim
