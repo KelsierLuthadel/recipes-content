@@ -1,12 +1,55 @@
 prep: 15 minutes
-allergens: []
+allergens:
+  - gluten
+  - garlic
 tags:
   - vegetarian
   - vegan
   - dairy-free
-  - gluten-free
   - quick
   - snack
+  - garlic
   - tomato
 mentions:
   - tutorials/pizza/toppings
+ingredients:
+  - qty: 1
+    name: yellow pepper
+    raw: 1 yellow pepper
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper
+  - qty: 1
+    name: green pepper
+    raw: 1 green pepper
+  - name: oil for roasting
+    raw: Oil for roasting
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes
+  - qty: 15
+    unit: g
+    name: basil
+    raw: 15 grams basil
+  - qty: 1
+    unit: tbsp
+    name: virgin olive oil
+    raw: 1 tablespoon extra virgin olive oil
+  - name: black pepper
+    raw: Black pepper
+  - qty: 12
+    name: crusty italian bread
+    raw: 12 slices crusty Italian bread
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 80
+    unit: ml
+    name: virgin olive oil
+    raw: 80 ml extra virgin olive oil
+  - qty: 1
+    unit: tbsp
+    name: flat leaf parsley
+    raw: 1 tablespoon flat leaf parsley
+  - name: salt and freshly ground black pepper
+    raw: Salt and freshly ground black pepper
