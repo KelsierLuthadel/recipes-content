@@ -14,7 +14,8 @@ tags:
   - ginger
   - carrot
   - chili
-mentions: []
+mentions:
+  - cuisine/indonesian/gado-gado
 ingredients:
   - qty: 2
     name: cucumbers

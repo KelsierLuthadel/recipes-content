@@ -15,7 +15,9 @@ tags:
   - holi
   - muslim
   - hindu
-mentions: []
+mentions:
+  - drinks/hot/masala-chai
+  - drinks/regional/india/masala-chai
 ingredients:
   - qty: 250
     unit: g

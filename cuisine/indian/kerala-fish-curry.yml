@@ -24,7 +24,9 @@ tags:
   - chili
   - curry
   - complex
-mentions: []
+mentions:
+  - cuisine/indian/side-dishes/avial
+  - tutorials/pizza/sauce
 ingredients:
   - qty: 600
     unit: g

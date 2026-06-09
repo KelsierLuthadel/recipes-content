@@ -21,7 +21,8 @@ tags:
   - nuts
   - chili
   - curry
-mentions: []
+mentions:
+  - cuisine/indian/rice/tamarind-rice
 ingredients:
   - qty: 250
     unit: g

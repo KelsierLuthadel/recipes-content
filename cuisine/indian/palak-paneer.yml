@@ -23,7 +23,8 @@ tags:
   - complex
   - diwali
   - hindu
-mentions: []
+mentions:
+  - tutorials/pizza/sauce
 ingredients:
   - qty: 500
     unit: g

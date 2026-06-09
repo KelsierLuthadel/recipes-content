@@ -13,8 +13,8 @@ tags:
 mentions:
   - cuisine/indian/sauces-pickles/mint-chutney
   - cuisine/indian/side-dishes/samosa
-  - cuisine/indian/snacks/samosa
-  - tutorials/middle-eastern-fundamentals/kebabs
+  - sauces/sauce-fish/tamarind-sauce
+  - tutorials/pizza/sauce
 ingredients:
   - qty: 100
     unit: g

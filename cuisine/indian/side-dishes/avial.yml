@@ -15,7 +15,8 @@ tags:
   - chili
   - curry
   - complex
-mentions: []
+mentions:
+  - cuisine/indian/side-dishes/papadum
 ingredients:
   - qty: 1
     name: green plantain

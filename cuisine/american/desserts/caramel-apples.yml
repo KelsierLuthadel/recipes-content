@@ -12,8 +12,7 @@ tags:
   - cream
   - nuts
   - halloween
-mentions:
-  - tutorials/pizza/toppings
+mentions: []
 ingredients:
   - qty: 6
     name: tart apples

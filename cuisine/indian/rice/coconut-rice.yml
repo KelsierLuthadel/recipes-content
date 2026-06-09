@@ -21,6 +21,8 @@ tags:
   - chili
   - curry
 mentions:
+  - cuisine/indian/rice/lemon-rice
+  - cuisine/indian/rice/tamarind-rice
   - cuisine/thai/side-dishes/coconut-rice
 ingredients:
   - qty: 250

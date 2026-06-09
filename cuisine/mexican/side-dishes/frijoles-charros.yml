@@ -17,7 +17,8 @@ tags:
   - coriander
   - complex
   - day-of-the-dead
-mentions: []
+mentions:
+  - cuisine/mexican/carne-asada
 ingredients:
   - qty: 500
     unit: g
