@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-The Andean-Chilean answer to the Mexican tamale, but unfilled - just sweet fresh corn intensified by being pulped, wrapped in its own husk, and steamed into tender parcels. You shuck fresh sweetcorn and save the husks in warm water to soften. Strip the kernels: half get pulsed to a coarse paste, half stay whole, and the two textures combine in the bowl. Onion softens in butter with paprika and salt, then folds through the corn. Two tablespoons of mixture spoon onto each softened husk, the sides fold in, the ends fold down, and a thin strip of husk ties the parcel closed. Steam for forty-five minutes until the corn has set. Served hot with a sprinkle of sugar (the savoury-sweet thing happens at the table) or with pebre alongside for a saltier finish.
+The Andean-Chilean answer to the Mexican tamale, but unfilled: just sweet fresh corn intensified by being pulped, wrapped in its own husk, and steamed into tender parcels. Fresh sweetcorn is shucked and the husks saved in warm water to soften. The kernels strip from the cob in two parts: half get pulsed to a coarse paste, half stay whole, and the two textures combine in the bowl with onion softened in butter with paprika and salt. A heaped tablespoon of mixture goes onto each softened husk, the sides are folded in, the ends folded down, and a thin strip of husk ties the parcel closed. Steamed for 45 minutes till the corn sets. Served hot with a sprinkle of sugar (the savoury-sweet contrast happens at the table) or with pebre alongside for a saltier finish.
 
 ## Ingredients
 - 6 fresh ears of sweetcorn (with their husks)

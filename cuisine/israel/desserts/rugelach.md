@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Rugelach are the Jewish-Polish rolled cookies, cream-cheese shortcrust wrapped around a chocolate-cinnamon filling, the after-dinner-coffee cookies that anchor every Jewish bakery from Brooklyn to Tel Aviv. The dough is equal weights of butter and cream cheese beaten together with flour and salt, like a cream-cheese shortcrust. Chill for two hours so the dough firms up. The filling (chocolate version) mixes cocoa, sugar, butter and sometimes chopped chocolate. The dough divides into four portions; each rolls into a 28 cm circle; spreads with filling; cuts into eight triangular wedges like a pizza. Each wedge rolls up from the wide edge toward the point. Brush with egg wash; dust with sugar. Bake for twenty-two minutes at 180°C.
+Rugelach are the Jewish-Polish rolled cookies, cream-cheese shortcrust wrapped around a chocolate-cinnamon or jam filling, the after-dinner-coffee cookies that anchor every Jewish bakery from Brooklyn to Tel Aviv. The cream-cheese dough is the canonical Ashkenazi pastry technique that defines rugelach; equal weights of butter and cream cheese beaten together with flour and salt give the tangy, flaky shortcrust that distinguishes the cookies from any other rolled pastry. A long chill in the fridge is non-negotiable so the dough firms enough to roll without tearing. The triangular wedge cut and roll-from-wide-edge-to-point shape is the visual signature; each rugelach should curl like a small crescent, not a tube. The filling choices are canonical (chocolate-cinnamon, raspberry jam with walnut, apricot, or poppy seed); each has its own bakery following. Egg-washed and sugar-dusted before the bake, served alongside black coffee or hot tea.
 
 ## Ingredients
 

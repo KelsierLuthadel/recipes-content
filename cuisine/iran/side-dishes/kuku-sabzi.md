@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Kuku sabzi is the Persian herb frittata of Nowruz (Persian New Year), a deep-green baked-egg dish packed with chopped herbs, walnuts and barberries, the symbol of rebirth on the spring-equinox table. The herbs chop finely (really finely) to a green confetti: parsley, coriander, chives, fenugreek, dill, all together. Eggs whisk with flour, baking powder, turmeric, salt and pepper for the structure. Walnut pieces and ruby-red barberries (zereshk) fold through; the mixture pours into a buttered round baking dish or wide pan. Bake at 180°C for thirty-five to forty minutes until set and deep green-gold on top. Cut into wedges or squares; serve hot or at room temperature with yogurt and bread.
+Kuku sabzi is the Persian herb frittata of Nowruz (Persian New Year): a deep-green baked-egg dish packed with chopped herbs, walnuts and barberries, the symbol of rebirth on the spring-equinox table. The herbs need to be chopped really finely, to a green confetti rather than coarse pieces; parsley, coriander, chives, fenugreek and dill, all together in equal handfuls. The egg-and-flour base holds them together with a touch of baking powder for lift. Walnut pieces and ruby-red barberries (zereshk) fold through. Baked till set and deep green-gold on top. Cut into wedges or squares; served hot or at room temperature with yogurt and warm flatbread. Made in larger quantities for Nowruz to symbolise rebirth and the green of spring, and in smaller portions through the rest of the year as a lunchbox staple or part of a Persian mezze spread.
 
 ## Ingredients
 

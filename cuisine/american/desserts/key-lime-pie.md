@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (plus 4 hours chilling)
 
 ## Overview
-Graham crackers (or digestive biscuits) crush fine, mix with melted butter and sugar, press into a 23 cm pie tin. Bakes for 10 minutes till set. Filling: 4 egg yolks whisk with sweetened condensed milk for 3 minutes till pale and thick. Lime juice (lots, about 150 ml) and zest whisk in. The lime acid begins setting the filling immediately. Pour into the crust; bake for 15 minutes till the filling has just-set with a tiny wobble. Chills for 4 hours. Whipped cream tops at service.
+Florida's state pie and the canonical dessert of the Florida Keys, where Key limes (smaller, more aromatic and sharper than Persian limes) grow on every backyard tree: a graham-cracker crust holding a tart lime-and-condensed-milk filling, topped with softly whipped cream. The condensed-milk base is the canonical American shortcut that defines the dish; the milk's pre-thickened sweetness and the lime acid together set the filling without any need for gelatine or starch, and the chemistry of acid-setting custard is what makes Key lime pie what it is. The lime quantity is generous; about 150 ml of juice and the zest of several limes gives the canonical sharpness, where stingier recipes give a flat, sweet pie that misses the point. Key limes are the traditional fruit and give a more complex aromatic profile, but Persian limes substitute well outside Florida. The whipped-cream topping is essential to balance the sharp filling, and using meringue (as some recipes do) gives a fundamentally different dessert. Best chilled overnight; the flavour deepens by morning.
 
 ## Ingredients
 

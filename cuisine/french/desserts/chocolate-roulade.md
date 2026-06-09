@@ -26,7 +26,7 @@
 - 300 ml double cream, whipped
 
 ## Overview
-Chocolate roulade is the French Christmas-table dessert (bûche de Noël as a chocolate roulade), a sheet of meringue rolled around a rich chocolate filling that pinwheels dramatically when sliced. The meringue is the trick: French meringue baked thin so it's crisp on the outside and just-set inside, flexible enough to roll without cracking. Whipped cream folds together with melted dark chocolate to make the rich filling; you spread it across the cooled meringue sheet and roll up tightly with the help of a tea towel. Chill for two hours so the filling sets firm. Slice into thick rounds at the table; the spiral pattern is the showpiece.
+Chocolate roulade is the French Christmas-table dessert (bûche de Noël in its chocolate form): a sheet of meringue rolled around a rich chocolate filling that pinwheels dramatically when sliced. The meringue is the trick. French meringue baked thin so it's crisp outside and just-set inside, flexible enough to roll without cracking. The filling folds whipped cream into melted dark chocolate for the rich centre, spread across the cooled meringue sheet and rolled up tight with the help of a tea towel. Chilled two hours for the filling to set firm. Sliced into thick rounds at the table; the spiral pattern is the showpiece.
 
 ## Method
 1. Heat the oven to 170°C.

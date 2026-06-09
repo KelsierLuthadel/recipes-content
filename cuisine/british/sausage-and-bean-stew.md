@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-The British weeknight stew that takes twenty minutes start to finish and tastes like it took two hours. You brown decent sausages hard in a heavy casserole until they're caramelised on every side, then drop in onion, garlic and rosemary to soften in the rendered fat, then tip in a tin of tomatoes and a tin of butter beans. Twenty minutes on the hob, lid off, and the sauce thickens around the sausages while the beans soak up the smoky pork fat. Eaten straight from the pan with crusty bread to mop, a green salad on the side, no ceremony. The kind of dinner that gets cooked once and then again the next Wednesday.
+The British weeknight stew that takes twenty minutes start to finish and tastes like it took two hours: pork sausages browned hard, simmered in a tomato-and-rosemary sauce with creamy butter beans. Decent sausages are non-negotiable; value-pack sausages give a thin, watery result, where butcher's pork sausages with a high meat content carry the flavour of the whole pot. The hard-brown move gives the stew its caramelised depth; the rendered pork fat seasons everything that follows, and skipping it gives a flat tomato-and-bean dish. Rosemary rather than oregano or thyme is the canonical British herb pairing for pork sausages; the resinous note cuts the richness in a way the lighter herbs can't. Butter beans hold their shape and absorb the smoky fat better than cannellini or borlotti, and tinned beans work as well as dried. Eaten straight from the pan with crusty bread to mop, a green salad on the side. The kind of dinner that gets cooked once and then again the next Wednesday.
 
 ## Ingredients
 

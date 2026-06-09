@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-This is the green-bean version of the Goan foogath, French beans tossed in a coconut temper that turns a simple side dish into something fragrant and slightly addictive. Trim the beans and chop into 1 cm pieces. A temper of mustard seeds, urad dal, dried red chilli and curry leaves blooms in coconut oil; sliced onion softens briefly; the beans toss in with a splash of water to steam-cook through. Fresh grated coconut folds through at the end with a finishing pinch of chopped green chilli. Eat with rice and any Goan curry.
+The green-bean version of the Goan foogath: thin snapped French beans tossed with a coconut-and-mustard-seed temper that turns a simple side into something fragrant and slightly addictive. The dish belongs to the wider Goan vegetarian repertoire that uses coconut as both flavour and thickener; the foogath technique (mustard-seed temper, brief sauté, fresh grated coconut at the end) applies to almost any vegetable across the Goan and Konkani coast. Fresh grated coconut is non-negotiable; desiccated gives a dry dusty result, and frozen grated coconut (from any South Asian grocer) is the closest practical substitute outside the tropics. Coconut oil for the temper carries the proper coastal character; sunflower oil tastes flat in comparison. Eaten with steamed rice and any Goan curry, especially a fish curry or a prawn balchão.
 
 ## Ingredients
 

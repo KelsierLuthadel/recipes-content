@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Chicken wings separate at the joint into drums and flats. Pat very dry; toss with a little baking powder + salt; rest on a rack 1 hour (the baking powder draws moisture for crispness). Oil heats to 160°C for stage one (cooks through, 10 min); rest for 5 min; oil up to 190°C for stage two (crisps shell, 4 min). Sauce: equal parts melted butter + Frank's RedHot whisked together with a touch of vinegar and a pinch of cayenne. Toss hot wings in warm sauce; serve immediately with celery sticks and blue-cheese dip.
+The American bar snack born at the Anchor Bar in Buffalo, New York in 1964: deep-fried chicken wings tossed in glossy hot-sauce butter, served with celery sticks and blue-cheese dip to cool the burn. The wing-and-blue-cheese pairing is the canonical American combination, and skipping either side misses what makes Buffalo wings what they are. The drying step is the single most important technique; wings patted bone-dry, dusted with baking powder and salt, rested uncovered on a rack for an hour give the proper shatter-crisp skin (where wet wings give soggy results no matter how hot the oil). The double-fry is the other canonical move (a gentle fry to cook the meat through, a hot fry to crisp the skin) with a brief rest between. The sauce is equal parts melted butter and Frank's RedHot whisked smooth with vinegar and cayenne; substitute hot sauces taste off because Frank's is what the original used. Served immediately while the sauce is still glossy.
 
 ## Ingredients
 

@@ -9,7 +9,7 @@
 **Cook Time:** 3 minutes
 
 ## Overview
-Cashew chicken is the gentler cousin of kung pao, a dish for nights when you want stir-fry rhythm without the chilli burn. The cashews are the star: you toast them dry in the wok first until they're golden and the kitchen smells nutty, then set them aside and let the chicken and aromatics do their work in the same hot pan. Dice the chicken thigh into 2 cm cubes so it cooks fast but stays juicy, velvet it briefly in cornflour and soy, then sear it in oil until the edges colour. A light glossy sauce of soy, oyster, sugar and a splash of stock comes together in the pan; cashews return for the final toss so they keep their crunch instead of going soft. Serve over rice with a scatter of sliced spring onion green.
+Cashew chicken is the gentler cousin of kung pao, a dish for nights when stir-fry rhythm matters more than the chilli burn. The cashews are the star and the technique that defines the dish is keeping them crisp; toasting them dry in the wok first and returning them only for the final toss is the canonical method, where cashews cooked through the whole stir-fry go soft and lose their point. Chicken thigh diced into 2 cm cubes is the right size for a fast-cook, juicy result, and velveting in cornflour and soy is the Cantonese restaurant trick that gives the glossy, tender finish. The sauce is a light, glossy build of soy, oyster sauce, sugar and a splash of stock; not the heavy brown sauce of generic takeaway versions but a thin, clinging glaze that coats without drowning. Served over rice with sliced spring onion green scattered across.
 
 ## Ingredients
 

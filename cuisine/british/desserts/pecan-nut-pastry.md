@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A puff-pastry plait built around a thick pecan filling - chopped pecans bound with brown sugar, melted butter, golden syrup, egg yolk and a splash of bourbon. The pastry is rolled into a long rectangle, the filling spread down the centre third, the sides cut into diagonal strips and folded over alternately to form the plaited top. Egg-washed, baked until deep golden, glazed with warm sieved apricot jam to set the colour, drizzled with a thin water icing across the centre.
+A puff-pastry plait built around a thick pecan filling: chopped pecans bound with brown sugar, melted butter, golden syrup, egg yolk and a splash of bourbon. The pastry is rolled into a long rectangle with the filling spread down the centre third. The two long sides are then cut into diagonal strips and folded over alternately to form the plaited top. Egg-washed, baked till deep golden, glazed with warm sieved apricot jam to set the colour and drizzled with a thin water icing across the centre.
 
 ## Ingredients
 

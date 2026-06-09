@@ -11,7 +11,7 @@
 **Cook Time:** 55 minutes
 
 ## Overview
-Sweet shortcrust pastry is rolled into a 23 cm tin and blind-baked for 15 minutes (essential, an under-baked base goes soggy under the wet filling). Filling: dark brown sugar, light corn syrup (or golden syrup), eggs, melted butter, bourbon, vanilla and salt are whisked together. Pecan halves are arranged in concentric rings over the par-baked base; the filling is poured over. Baked for 40 minutes at 175°C until the filling has set with a slight wobble in the centre. Rested at least 2 hours before slicing (the filling firms as it cools).
+The Southern Thanksgiving pie and one of the most American of all desserts: pecans suspended in a glossy filling of corn syrup, eggs and dark brown sugar, baked into a soft custard with a sweet crackling top. Light corn syrup is the canonical American base for the filling (golden syrup the workable UK substitute); the syrup is what gives the glossy translucent body around the pecans, where granulated sugar alone gives a grainy, broken filling. Dark brown sugar brings the molasses depth that distinguishes pecan pie from a generic nut tart, with a slug of bourbon and a teaspoon of vanilla rounding the flavour into the canonical Southern signature. Blind-baking the shortcrust base is non-negotiable; the wet filling soaks straight through an unbaked base into a soggy floor no further baking can rescue. The pecans arranged in concentric rings across the surface are the traditional visual finish. Rested at least 2 hours before slicing; the filling firms as it cools.
 
 ## Ingredients
 

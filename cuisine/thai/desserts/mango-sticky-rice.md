@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Khao niao mamuang is Thailand's mango plate: sticky rice steeped in salty-sweet coconut sauce alongside cool slices of ripe honey mango. Temperature and texture contrast do as much work as flavour. Two things matter. Real Thai glutinous rice (not jasmine, not basmati); the bold pinch of salt in the coconut sauce that stops the dessert tipping into one-dimensional sweetness. Soak the rice overnight, then steam in a bamboo basket lined with damp muslin. The coconut sauce should warm only till the sugar dissolves; don't boil. A second small batch of plain coconut cream with salt and a teaspoon of rice flour goes on the rice as a topping; the second salty layer is what lifts the plate. Eaten with a spoon while the rice is warm and the mango is cool.
+Khao niao mamuang is Thailand's mango plate: sticky rice steeped in salty-sweet coconut sauce alongside cool slices of ripe honey mango. Temperature and texture contrast do as much work as flavour; warm-rice-cool-mango is the Thai pairing and serving the rice cold loses what makes it work. The rice must be real Thai glutinous rice (not jasmine, not basmati); only glutinous gives the cling-together stickiness, and other long-grains stay separate. The bold pinch of salt in the coconut sauce is non-negotiable; without it the dessert tips into one-dimensional sweetness, and the salty edge gives the dish its sophisticated Thai signature. A second small batch of coconut cream with extra salt and a teaspoon of rice flour goes on top of the rice as a final glossy topping; this second salty layer lifts the plate and the home-cook version that skips it tastes flat. Eaten with a spoon while the rice is warm and the mango is cool.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 22 minutes
 
 ## Overview
-A batter of equal volumes of plain flour, eggs and whole milk (and a pinch of salt) is whisked to a smooth thin consistency, like single cream. Rested for 30 minutes (overnight is even better). A muffin tin or pudding tin is given a teaspoon of beef dripping (or vegetable oil) in each well; the tin goes into a screaming-hot 230°C oven for 8 minutes until the fat is smoking. The batter is poured into the smoking-hot fat, it should hiss and bubble immediately. Back in the oven for 22 minutes, undisturbed (never OPEN THE DOOR). The Yorkshires rise dramatically into puffed golden cups. Served immediately, they collapse as they cool.
+The Sunday-roast side and one of the most identity-defining British baked goods: puffed-up batter cups baked in beef-dripping tins, hollow inside, ready to hold a flood of gravy. The equal-volumes batter (flour, eggs and milk in the same measuring cup) is the Yorkshire ratio; weighing gives the wrong proportion, and the volume rule is what drives the rise. The batter rest is non-negotiable; at least thirty minutes lets the gluten relax and the starch hydrate, where a rushed batter gives tough dense puddings that never rise. Smoking-hot fat in the tin gives the dramatic upward expansion; the batter must hiss and bubble the instant it hits the fat, where cool fat gives flat soggy puddings. Beef dripping is the canonical British fat for savoury depth; vegetable oil works but loses the flavour edge. The do-not-open-the-oven-door rule is the British home-cook commandment; opening releases the heat surge that drives the rise. Served immediately because they collapse as they cool.
 
 ## Ingredients
 

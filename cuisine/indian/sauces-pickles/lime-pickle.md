@@ -13,9 +13,7 @@
 **Curing Time:** 3 weeks (minimum), 6 weeks (better)
 
 ## Overview
-Indian lime pickle (nimbu ka achaar) is one of the loudest things on a curry-house table: hot, salty, sour, oily, with a faint bitterness from the lime peel that makes it taste alive on the tongue. A spoonful does what an entire mango chutney cannot: it cuts the richness of a curry the way vinegar cuts a chip, but with chilli heat and mustard-oil pungency layered in. It is the dip you reach for second after the mango chutney, and the one that defines whether you actually enjoy hot food.
-
-This recipe is a salt-and-sun cure, the home-cook standard across north India. Quartered limes are salted heavily and held in a glass jar in a warm spot for two weeks, by which time the peel has gone translucent and tender. They are then mixed with a blooming oil tarka of mustard seed, fenugreek, asafoetida, chilli and turmeric, jarred, and left another week. The result keeps a year in the cupboard and improves for the first three months.
+Indian lime pickle (nimbu ka achaar) is one of the loudest things on a curry-house table: hot, salty, sour, oily, with a faint bitterness from the lime peel that makes it taste alive on the tongue. A spoonful does what an entire mango chutney cannot; it cuts the richness of a curry the way vinegar cuts a chip, but with chilli heat and mustard-oil pungency layered in. The dip to reach for after the mango chutney, the one that defines whether someone actually enjoys hot food. The salt-and-sun cure is the home-cook standard across north India; quartered limes salted heavily and held in a glass jar in a warm sunny spot for two weeks, by which time the peel has gone translucent and tender. Mustard oil is the canonical fat for the tarka stirred in at the end, and substituting neutral oil loses the dish's defining pungency (kitchens without mustard oil can soften the loss with extra mustard seeds). The result keeps a year in the cupboard and improves for the first three months.
 
 ## Ingredients
 

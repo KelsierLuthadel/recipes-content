@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Whole milk boils, then curdles with lemon juice; the curds drain to chhana (fresh paneer). The chhana kneads for 8-10 minutes until smooth and lump-free, this is what gives the dumpling its sponge. Small flattened discs poach gently in sugar syrup; they double in size. A separate pan reduces a second batch of milk by half with cardamom, saffron, almonds and sugar to a rich rabri. The squeezed dumplings float in the cool rabri to absorb the spiced milk overnight.
+Bengal's milky sweet: spongy paneer dumplings poached in sugar syrup, then floated overnight in thickened saffron-and-cardamom rabri (reduced milk) and topped with pistachios. The dish is one of the great Bengali desserts and turns up at every Durga Puja celebration, family wedding and festival sweet box in Kolkata. The chhana (fresh paneer made by curdling milk with lemon juice and draining the curds) must be kneaded properly for eight to ten minutes till smooth and lump-free; underworked chhana gives dense crumbly dumplings rather than the proper spongy texture. The dumplings poach gently in sugar syrup and double in size before being squeezed dry and floated in the cool spiced rabri. The overnight rest is what makes rasmalai; the dumplings drink the saffron-and-cardamom milk into their centres so each one is sweet through to the middle.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes (in batches)
 
 ## Overview
-Make a stiff mac-and-cheese, sharp cheddar, parmesan, a touch of mustard, just enough béchamel to bind, no more. Spread in a parchment-lined 20×20 cm tin; level; chill 4+ hours till firm. Lift out; cut into 3 cm cubes. Each cube dips in flour → egg → seasoned panko. Deep-fries for 2-3 minutes at 175°C until amber-gold. Drains briefly. Eats hot with ranch or chipotle mayo.
+The American bar-snack fritter: cold, set mac-and-cheese cubed, dredged in seasoned breadcrumbs and deep-fried till the shell shatters and the inside oozes. The mac-and-cheese for the base must be stiffer than the eating version; just enough béchamel to bind, no more, because a loose mac softens into the breading and gives soggy fritters. Sharp cheddar carries the canonical flavour, parmesan adds savoury depth, a touch of mustard powder cuts the richness. The long chill is non-negotiable; the mac must firm up fully (at least four hours, overnight is better) before cubing, or the bites collapse in the fryer rather than holding shape. The classic three-stage breading (flour, egg, seasoned panko) is the canonical American technique for fried-food crunch; skipping a layer gives patchy coverage and the cheese leaks. Panko rather than dried breadcrumbs is what gives the shatter rather than a dense crust. Served hot with ranch or chipotle mayo for dipping.
 
 ## Ingredients
 

@@ -13,7 +13,7 @@
 **Total Time:** 2-4 weeks (matures in the jars)
 
 ## Overview
-Vegetables, swede, carrot, gherkins, onion, cauliflower, dice into small (4 mm) cubes. Dates chop finely. A pickling base of malt vinegar, dark brown sugar, black treacle, salt, mustard powder, ground cloves and allspice brings to a simmer. The diced vegetables join; everything simmers for 45-60 minutes until the liquid reduces by half and the vegetables are tender but still distinct. Cornflour-and-water slurry thickens the syrup to a glossy chutney consistency. Spooned hot into sterilised jars; sealed; cooled. Matures 2-4 weeks before opening, the flavours develop dramatically with rest.
+The British pub pickle and the canonical partner to a wedge of mature Cheddar on a ploughman's lunch: a chunky brown relish of swede, carrot, gherkin, onion, cauliflower and dates simmered slow in malt vinegar, dark brown sugar, black treacle, mustard powder, cloves and allspice. The dish has its roots in the late-Victorian pub plate (the "ploughman's lunch" itself was a 1960s Milk Marketing Board invention, but the pickle that goes with it is much older) and now turns up on every gastropub board alongside cheese and pork pie. Vegetables stay distinct, in small uniform dice, even after the long simmer; pickle reduced to mush reads as chutney rather than ploughman's. The 2 to 4 weeks of maturing in the jar are the canonical step; the flavours develop dramatically with rest and a freshly opened jar tastes flat by comparison. Keeps a year unopened.
 
 ## Ingredients
 

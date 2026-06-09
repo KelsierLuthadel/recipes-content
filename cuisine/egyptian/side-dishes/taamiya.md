@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Taamiya is the Egyptian falafel, made with fava beans instead of chickpeas (the Levantine version), giving a paler, fluffier interior and a deeper savoury note. Dried split fava beans soak overnight; you blitz them with herbs (parsley, coriander, dill), garlic, onion, leek, ground coriander, cumin and a pinch of baking powder to a soft slightly grainy paste, never a smooth puree. Rest the mixture for an hour so the starch develops. Shape into five-centimetre flat discs; dip the tops in sesame seeds for the textural crust. Fry at 175°C for four to five minutes until deep gold outside and fluffy pale-green inside. Eat hot, in pita with tahina, salata baladi and pickled chillies.
+Taamiya is the Egyptian falafel, made with fava beans instead of chickpeas (the Levantine version), giving a paler, fluffier interior and a deeper savoury note. Dried split fava beans soaked overnight are the only acceptable base; tinned favas turn the paste into mush, and tinned chickpeas give the wrong dish entirely. The herb load is the canonical Egyptian touch; a generous handful each of parsley, coriander and dill (with onion, garlic and leek blitzed through) gives the characteristic green-flecked interior, and skimping on herbs leaves taamiya pale and ordinary. The texture is meant to be a soft, slightly grainy paste rather than a smooth puree; over-blitzing collapses the fluffiness. A pinch of baking powder gives the inside its lift, and a one-hour rest before frying lets the starch develop into something that holds shape in the oil. Sesame seeds pressed into one side of each patty give the canonical Egyptian crust. Served hot in pita with tahina, salata baladi and pickled chillies.
 
 ## Ingredients
 

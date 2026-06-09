@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A loose batter of plain flour, gram flour, yoghurt and water ferments 8-12 hours at room temperature (or 24 hours in the fridge), the slight tang from the yoghurt and the bubbles from the fermentation give the characteristic crisp-shattering bite. A 1-thread sugar syrup is scented with saffron, cardamom and a squeeze of lemon. The batter goes into a piping bag (or squeezy bottle); piped into hot oil in spirals from the centre outwards; fried for 30-40 seconds per side; lifted out and dropped straight into warm syrup for 30 seconds; lifted again. Eaten immediately while still hot and crisp.
+India's spiral sweet and one of the most identity-defining Indian street desserts: a fermented yogurt batter piped into hot oil in interlocking loops, fried briefly crisp, soaked in saffron-cardamom syrup till each spiral drinks the syrup in. The fermentation is the Indian technique home cooks new to jalebi most often skip; an overnight rest of the flour-yogurt batter develops the tang and the bubbles that give the crisp-shattering bite. Shortcut versions with baking powder fake the rise but lose the proper flavour. The one-thread sugar syrup is the exact consistency that lets the fried spiral drink without going soggy; too thick and the syrup sits on the outside, too thin and the spiral collapses. Saffron and cardamom (with a squeeze of lemon to stop crystallisation) are the canonical aromatics, and skipping saffron loses both colour and flavour. The dunk-and-lift timing is brief; the hot spiral hits the warm syrup for thirty seconds only, where leaving longer turns crisp loops into sticky mush. Eaten immediately, still warm.
 
 ## Ingredients
 

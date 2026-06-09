@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Calzone's longer, leaner cousin from Italian-American kitchens: pizza dough rolled into a rectangle, layered with deli meats and cheese, then rolled tight into a log and baked seam-side down on a hot stone. You brush the rolled-out dough with garlic-and-oregano butter, lay down salami, ham, capicola, mozzarella and provolone, then roll it up like a Swiss roll and crimp the ends. A second brush of garlic butter and a scatter of parmesan on the outside before it goes in; the crust crisps in 15 to 20 minutes, the cheeses fuse with the meats inside, and the whole thing slices into thick pinwheels. Cut at the table, eaten with mustard or marinara on the side, ideal for sharing.
+Calzone's longer, leaner cousin from Italian-American kitchens: pizza dough rolled into a rectangle, layered with deli meats and cheese, then rolled tight into a log and baked seam-side down on a hot stone. The technique that distinguishes a good stromboli from a soggy one is the seam-down bake on a hot stone, which crisps the outside while the filling steams the inside through. A brush of garlic-and-oregano butter on the rolled-out dough before the filling carries the flavour through the bake; a second brush outside with a scatter of parmesan gives the canonical Italian-American glossy crust. The filling layering is salami, ham, capicola, mozzarella and provolone (one cheese for stretch, one for sharpness), with a few basil leaves. Crimped ends keep the cheese from escaping mid-bake. Sliced into thick pinwheels at the table and eaten with marinara or mustard on the side, ideal for sharing.
 
 ## Ingredients
 

@@ -9,7 +9,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-Spaghetti with scallops is the elegant Italian-coastal pasta that celebrates premium seafood and the beauty of simplicity, scallops seared briefly to preserve their tender texture, tossed with a vibrant parsley pesto and capers. Scallops sear briefly in butter (no more than a minute a side) so the surface caramelises while the centre stays sweet and just-opaque. A vibrant parsley pesto blends with pine nuts and capers for complexity, adding the bright herbal lift that cuts through the rich scallops. Toss with hot spaghetti; the scallops sit on top so they stay whole. Restaurant-quality plate done in minutes.
+The elegant Italian-coastal pasta that celebrates premium seafood and the beauty of simplicity: scallops seared briefly so the centres stay sweet and just-opaque, tossed with hot spaghettini and a vibrant parsley-and-caper pesto. The scallops want no more than a minute a side in hot butter; longer and they go from tender to rubber in seconds. The parsley pesto is the Sicilian-coast variation on the basil version, with capers and pine nuts replacing the basil-and-Parmesan formula; it gives a brighter herbal lift that cuts through the rich scallops better than basil could. The scallops sit on top of the dressed pasta rather than getting tossed through, so they stay whole and present on the plate. A restaurant-quality dish done in minutes; the only real demand is good fresh scallops.
 
 ## Ingredients
 

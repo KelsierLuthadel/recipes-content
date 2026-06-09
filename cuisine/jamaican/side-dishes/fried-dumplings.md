@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The classic Jamaican breakfast bread, also called Johnny Cakes: golden fried rounds with a chewy interior, the thing on the side of ackee and saltfish, callaloo, brown stew chicken or escovitch fish. You whisk together a no-yeast quick dough (plain flour, baking powder, sugar, salt, a knob of cold butter rubbed in, just enough cold water or milk for a richer crumb) and bring it together with a fork. Rest the dough briefly so the gluten relaxes, divide into balls, flatten slightly, then shallow-fry in oil that's not too hot; the inside steams to a soft pillowy crumb while the outside crisps to a deep gold. They should puff a little and feel hollow-light when you lift them out. Eat hot: split and buttered for breakfast with cocoa tea, or as the bread that catches all the gravy on a brown-stew plate.
+The classic Jamaican breakfast bread, also called Johnny Cakes: golden fried rounds with a chewy interior, the thing on the side of ackee and saltfish, callaloo, brown-stew chicken or escovitch fish. A simple no-yeast quick dough (plain flour, baking powder, sugar, salt, a knob of cold butter rubbed in, just enough cold water or milk for a richer crumb) brought together with a fork, briefly rested so the gluten relaxes, divided into balls, flattened slightly, and shallow-fried in oil that's not too hot. The inside steams to a soft pillowy crumb while the outside crisps to a deep gold. They should puff a little and feel hollow-light when lifted from the oil. Eaten hot, split and buttered for breakfast with cocoa tea, or used as the bread that catches the gravy on a brown-stew plate.
 
 ## Ingredients
 

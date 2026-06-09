@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 20 minutes (plus overnight chilling)
 
 ## Overview
-A graham-cracker base is pressed into a 23 cm springform tin and pre-baked for 10 minutes. Filling: cream cheese is softened to room temperature (cold cream cheese gives lumpy batter), then beaten with sugar, eggs one at a time, sour cream, vanilla and lemon. The tin is wrapped in foil so the water bath doesn't seep in. Baked at 160°C in a water bath for 60-75 minutes until the edges are set but the centre wobbles a 7 cm circle. Cooled in the oven with the door cracked for 1 hour (avoids cracks). Chilled overnight. Served chilled.
+Brooklyn's dense baked cheesecake and the iconic American dessert: cream cheese, sour cream and eggs on a graham-cracker base, baked long and slow in a water bath till the centre is set with the merest wobble. The water-bath bake gives the silky-dense interior; direct heat dries the surface and cracks it, where the water bath surrounds the tin with gentle steam and keeps the temperature steady through the long cook. Room-temperature cream cheese is non-negotiable; cold cream cheese gives lumpy batter that beats into a grainy filling no amount of mixing can rescue. The just-set-with-a-wobble bake is the doneness test; pulled when the centre still wobbles a small circle ensures the dense creamy texture, where over-baking gives a curdled grainy interior. The hour-long cool in the cracked-open oven prevents cracks across the surface; pulling the cheesecake straight onto a counter shocks the structure and the top splits. The overnight chill firms the cheesecake to its proper sliceable density. Served chilled, in thick wedges.
 
 ## Ingredients
 
